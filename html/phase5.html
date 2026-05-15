@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROTOKIN | Phase V: The Trace</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=JetBrains+Mono:wght@300;500&family=Inter:wght@300;600&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-color: #050505;
+            --text-primary: #e5e5e5;
+            --text-secondary: #888;
+            --accent: #ff3333;
+            --phase-color: #eab308; /* Gold/Amber for Sedimentation/Trace */
+            --border: #333;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+            /* Cursor logic handled by JS */
+        }
+
+        @media (min-width: 768px) {
+            body { cursor: crosshair; }
+        }
+
+        h1, h2, h3 { font-family: 'Cinzel', serif; }
+        .mono { font-family: 'JetBrains Mono', monospace; }
+
+        /* Noise */
+        .noise {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            pointer-events: none; z-index: 50; opacity: 0.05;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='1'/%3E%3C/svg%3E");
+        }
+
+        /* Cursor */
+        .cursor-follower {
+            position: fixed; width: 20px; height: 20px;
+            border: 1px solid var(--text-primary); border-radius: 50%;
+            pointer-events: none; z-index: 100; transition: transform 0.1s;
+            mix-blend-mode: difference;
+        }
+
+        /* Section Styles */
+        .register-section {
+            border-left: 1px solid var(--border);
+            padding-left: 2rem;
+            margin-bottom: 4rem;
+            position: relative;
+            transition: all 0.5s ease;
+        }
+
+        .register-section:hover {
+            border-left-color: var(--phase-color);
+            padding-left: 2.5rem;
+        }
+
+        .register-label {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            color: var(--phase-color);
+            margin-bottom: 1rem;
+            display: inline-block;
+            border: 1px solid var(--phase-color);
+            padding: 2px 8px;
+        }
+
+        .concept-title {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            line-height: 1;
+        }
+
+        .concept-def {
+            font-size: 1rem;
+            color: var(--text-secondary);
+            max-width: 600px;
+            line-height: 1.6;
+        }
+
+        .next-phase-btn {
+            border: 1px solid var(--border);
+            padding: 2rem;
+            text-align: center;
+            transition: all 0.3s;
+            margin-top: 4rem;
+            display: block;
+        }
+
+        .next-phase-btn:hover {
+            border-color: white;
+            background: #111;
+        }
+
+    </style>
+</head>
+<body class="antialiased">
+
+    <!-- Canvas Background -->
+    <canvas id="protokin-field" class="fixed top-0 left-0 w-full h-full -z-10 opacity-20"></canvas>
+    <div class="noise"></div>
+    <div id="cursor" class="cursor-follower hidden md:block"></div>
+
+    <!-- Header -->
+    <header class="fixed top-0 w-full z-40 border-b border-neutral-800 bg-black/90 backdrop-blur-sm">
+        <div class="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
+            <div class="flex items-center gap-8">
+                <a href="index_en.html" class="flex items-center gap-4 group">
+                    <span class="text-xl md:text-2xl font-bold tracking-tighter group-hover:text-white transition-colors">PROTOKIN</span>
+                    <span class="hidden md:inline-block w-px h-6 bg-neutral-800"></span>
+                    <span class="mono text-[10px] md:text-xs text-neutral-500 uppercase tracking-widest">Sys. v2.1</span>
+                </a>
+                
+                <nav class="hidden md:flex gap-6 mono text-xs uppercase tracking-wider text-neutral-500">
+                    <a href="map.html" class="hover:text-white transition-colors">The Map</a>
+                    <a href="dojo.html" class="hover:text-white transition-colors">The Dojo</a>
+                    <a href="glossary.html" class="hover:text-white transition-colors">Glossary</a>
+                </nav>
+            </div>
+            <!-- Mobile Menu Icon -->
+            <div class="md:hidden text-neutral-500 text-xs mono uppercase">
+                <a href="index_en.html">Menu</a>
+            </div>
+            <div class="hidden md:flex items-center gap-6">
+                <div class="flex flex-col items-end">
+                    <span class="mono text-[10px] text-neutral-500 uppercase">Phase V</span>
+                    <span class="mono text-xs text-yellow-500">SEDIMENTATION</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="pt-32 pb-20 px-6 max-w-4xl mx-auto">
+        
+        <!-- INTRO PHASE -->
+        <div class="mb-24">
+            <span class="mono text-xs text-yellow-500 mb-4 block">OPERATION 05</span>
+            <h1 class="text-5xl md:text-7xl mb-6 text-white">The Trace</h1>
+            <p class="text-xl text-neutral-400 font-light border-l-2 border-yellow-900 pl-6">
+                What remains? When the movement stops, it does not disappear. It becomes the ground for the future. The gesture fossilizes into law.
+            </p>
+        </div>
+
+        <!-- REGISTER 1: PHYSICS -->
+        <div class="register-section">
+            <div class="register-label">21. Physics</div>
+            <h2 class="concept-title text-white">Hysteresis</h2>
+            <h3 class="text-lg text-yellow-500 mb-4 italic font-serif">Memory of the Medium</h3>
+            <p class="concept-def">
+                A paperclip twisted once never returns exactly to its initial shape. It keeps the "ghost" of the force applied. This is Hysteresis. The present state of a material is the integral of all past pressures. We do not carry our past like a luggage; we *are* our past physically deformed. The structure is the archive of the shock.
+            </p>
+            <div class="mt-4 mono text-xs text-neutral-600">Ref: Chapter 21 - The Scar</div>
+        </div>
+
+        <!-- REGISTER 2: LIVING -->
+        <div class="register-section">
+            <div class="register-label">22. Living</div>
+            <h2 class="concept-title text-white">Habitus</h2>
+            <h3 class="text-lg text-yellow-500 mb-4 italic font-serif">The Callus</h3>
+            <p class="concept-def">
+                Learning is not a software download; it is a biological digestion. The guitarist develops a callus (corne) on the fingertips. The skin dies and hardens to become a tool. Knowledge becomes meat, bone, and reflex. The "Habitus" (Bourdieu) is history turned into nature. You know it when you can no longer forget it.
+            </p>
+            <div class="mt-4 mono text-xs text-neutral-600">Ref: Chapter 22 - Incorporated Gesture</div>
+        </div>
+
+        <!-- REGISTER 3: PSYCHE -->
+        <div class="register-section">
+            <div class="register-label">23. Psyche</div>
+            <h2 class="concept-title text-white">Confidence</h2>
+            <h3 class="text-lg text-yellow-500 mb-4 italic font-serif">Lithification</h3>
+            <p class="concept-def">
+                Confidence is not an emotion or a bet on the future. It is a geological certainty about the past. It is the "Lithification" of experience: the process by which loose sand (doubt) becomes sandstone (certainty) under pressure and time. You trust yourself not because you are optimistic, but because your foundation has hardened.
+            </p>
+            <div class="mt-4 mono text-xs text-neutral-600">Ref: Chapter 23 - Fossil Certainty</div>
+        </div>
+
+        <!-- REGISTER 4: TECHNIQUE -->
+        <div class="register-section">
+            <div class="register-label">24. Technique</div>
+            <h2 class="concept-title text-white">The Object</h2>
+            <h3 class="text-lg text-yellow-500 mb-4 italic font-serif">The Witness</h3>
+            <p class="concept-def">
+                The tool is an "exosomatic organ". It is a gesture that has survived the death of the body. The hammer on the bench waits for a hand. It contains the "know-how" of the dead. By creating objects (artifacts, books, code), we deposit our mind outside of us (Epiphylogenesis) so that it may endure when the neurons rot.
+            </p>
+            <div class="mt-4 mono text-xs text-neutral-600">Ref: Chapter 24 - Material Culture</div>
+        </div>
+
+        <!-- REGISTER 5: POLITICS -->
+        <div class="register-section">
+            <div class="register-label">25. Politics</div>
+            <h2 class="concept-title text-white">The Commons</h2>
+            <h3 class="text-lg text-yellow-500 mb-4 italic font-serif">The Cairn</h3>
+            <p class="concept-def">
+                The most durable law is not written in stone, but in usage. The "Commons" is like a Cairn on a mountain path: a pile of stones that holds together without cement, only because every passerby adds a stone or replaces one that fell. It is a structure maintained by the collective repetition of care (Maintenance).
+            </p>
+            <div class="mt-4 mono text-xs text-neutral-600">Ref: Chapter 25 - The Custom</div>
+        </div>
+
+        <!-- FINAL LINK -->
+        <a href="index_en.html" class="next-phase-btn group border-yellow-900 hover:bg-yellow-900/10">
+            <span class="mono text-xs text-yellow-500 block mb-2">SYSTEM COMPLETE</span>
+            <span class="text-2xl font-serif text-white group-hover:text-yellow-500 transition-colors">Return to Source &rarr;</span>
+        </a>
+
+    </main>
+
+    <footer class="mt-24 border-t border-neutral-900 bg-black py-12">
+        <div class="max-w-7xl mx-auto px-6 text-center mono text-[10px] uppercase text-neutral-600">
+            <p class="mb-4">Phase V: The Trace</p>
+            <a href="index_en.html" class="hover:text-white transition-colors">Return to Seismograph</a>
+        </div>
+    </footer>
+
+    <script>
+        // --- 1. CURSOR MANAGEMENT ---
+        const cursor = document.getElementById('cursor');
+        
+        if (window.matchMedia("(min-width: 768px)").matches) {
+            document.addEventListener('mousemove', (e) => {
+                requestAnimationFrame(() => {
+                    cursor.style.transform = `translate(${e.clientX - 10}px, ${e.clientY - 10}px)`;
+                });
+            });
+            
+            // Hover effect for links & sections
+            const interactives = document.querySelectorAll('a, .register-section');
+            interactives.forEach(el => {
+                el.addEventListener('mouseenter', () => {
+                    cursor.style.borderColor = '#eab308'; // Phase Color (Gold)
+                    cursor.style.transform += ' scale(1.5)';
+                });
+                el.addEventListener('mouseleave', () => {
+                    cursor.style.borderColor = '#e5e5e5';
+                    cursor.style.transform = cursor.style.transform.replace(' scale(1.5)', '');
+                });
+            });
+        }
+
+        // --- 2. PARTICLES (Sedimentation/Falling Dust) ---
+        const canvas = document.getElementById('protokin-field');
+        const ctx = canvas.getContext('2d');
+        let particles = [];
+        let width, height;
+
+        function resize() {
+            width = canvas.width = window.innerWidth;
+            height = canvas.height = window.innerHeight;
+        }
+        window.addEventListener('resize', resize);
+        resize();
+
+        class Particle {
+            constructor() {
+                this.x = Math.random() * width;
+                this.y = Math.random() * height;
+                this.vx = (Math.random() - 0.5) * 0.2; 
+                this.vy = Math.random() * 0.5 + 0.1; // Slowly falling down
+                this.size = Math.random() * 1.5;
+                this.baseOpacity = Math.random() * 0.3;
+            }
+
+            update() {
+                this.x += this.vx;
+                this.y += this.vy;
+                
+                // Reset if goes off bottom
+                if (this.y > height) {
+                    this.y = 0;
+                    this.x = Math.random() * width;
+                }
+            }
+
+            draw() {
+                ctx.fillStyle = '#eab308'; // Gold tint
+                ctx.globalAlpha = this.baseOpacity;
+                ctx.beginPath();
+                ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+                ctx.fill();
+            }
+        }
+
+        const particleCount = window.innerWidth < 768 ? 30 : 100;
+        for (let i = 0; i < particleCount; i++) particles.push(new Particle());
+
+        function animate() {
+            ctx.clearRect(0, 0, width, height);
+            
+            if (width > 768) {
+                // Particles accumulate/connect near bottom? 
+                // Simple falling for now
+                ctx.strokeStyle = 'rgba(234, 179, 8, 0.05)'; 
+                ctx.lineWidth = 0.5;
+                
+                particles.forEach((p, index) => {
+                    p.update();
+                    p.draw();
+                });
+            } else {
+                 particles.forEach(p => { p.update(); p.draw(); });
+            }
+            
+            requestAnimationFrame(animate);
+        }
+        animate();
+    </script>
+</body>
+</html>

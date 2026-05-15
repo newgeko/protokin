@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROTOCOLE 17 : ATTENTION</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@300;400;600&display=swap');
+
+        :root {
+            --bg-color: #0c0a09; /* Stone 950 - Almost black oil */
+            --text-color: #a8a29e; /* Stone 400 */
+            --gold-color: #d4af37; /* Dirty Gold */
+            --oil-color: #1c1917; /* Viscous black */
+            --alert-color: #b91c1c; /* Red depletion */
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+            selection-background-color: var(--gold-color);
+            selection-color: #000;
+        }
+
+        .font-heavy {
+            font-family: 'Anton', sans-serif;
+        }
+
+        /* Dripping Oil Background */
+        .oil-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background: radial-gradient(circle at 50% 0%, #292524 0%, #0c0a09 70%);
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        /* Scanline */
+        .scanline {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background: linear-gradient(to bottom, transparent 50%, rgba(212, 175, 55, 0.02) 50%);
+            background-size: 100% 4px;
+            pointer-events: none;
+            z-index: 50;
+        }
+
+        /* Reveal Animations */
+        .reveal {
+            opacity: 0;
+            transform: translateY(20px);
+            transition: all 1s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .reveal.active {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* Drip Animation */
+        .drip {
+            position: absolute;
+            background: var(--oil-color);
+            width: 2px;
+            height: 100px;
+            top: 0;
+            left: 50%;
+            border-radius: 0 0 10px 10px;
+            box-shadow: inset 2px 0 5px rgba(255,255,255,0.1);
+            animation: drip-fall 4s infinite cubic-bezier(0.5, 0, 1, 0.5);
+        }
+        @keyframes drip-fall {
+            0% { height: 0; opacity: 0; }
+            20% { opacity: 1; }
+            100% { height: 300px; opacity: 0; transform: translateY(100vh); }
+        }
+
+        /* Gauge */
+        .gauge-container {
+            width: 100%;
+            height: 20px;
+            background: #292524;
+            border: 1px solid #44403c;
+            position: relative;
+            overflow: hidden;
+            margin-top: 10px;
+        }
+        .gauge-bar {
+            height: 100%;
+            width: 100%;
+            background: linear-gradient(to right, var(--alert-color) 0%, var(--gold-color) 50%, #22c55e 100%);
+            transform-origin: left;
+            animation: deplete 10s linear forwards;
+        }
+        @keyframes deplete {
+            0% { transform: scaleX(1); }
+            100% { transform: scaleX(0.05); background: var(--alert-color); }
+        }
+
+        .text-gold {
+            color: var(--gold-color);
+            text-shadow: 0 0 10px rgba(212, 175, 55, 0.3);
+        }
+
+    </style>
+</head>
+<body class="antialiased min-h-screen flex flex-col">
+
+    <div class="scanline"></div>
+    <div class="oil-bg"></div>
+    <div class="drip" style="left: 10%; animation-duration: 5s; animation-delay: 1s;"></div>
+    <div class="drip" style="left: 80%; animation-duration: 7s; animation-delay: 3s;"></div>
+
+    <!-- Nav -->
+    <nav class="fixed top-0 w-full z-50 bg-[#0c0a09]/90 backdrop-blur border-b border-stone-800 py-4 px-6 flex justify-between items-center font-heavy text-lg uppercase tracking-widest text-stone-500">
+        <div class="opacity-70 hover:opacity-100 transition-opacity cursor-pointer text-white">Protokin</div>
+        <div class="text-[var(--gold-color)] animate-pulse">● RESOURCE_LOW</div>
+        <div class="opacity-70">Seq_17.log</div>
+    </nav>
+
+    <!-- Content -->
+    <main class="flex-grow pt-32 pb-20 px-4 md:px-0 relative z-20">
+        <article class="max-w-2xl mx-auto space-y-32">
+            
+            <!-- Header -->
+            <header class="reveal space-y-8 pb-12 text-center border-b border-stone-800">
+                <div class="font-mono text-xs text-[var(--gold-color)] mb-2 tracking-[0.2em]">RESSOURCES</div>
+                <h1 class="text-6xl md:text-9xl font-black leading-none tracking-tighter text-stone-800 font-heavy" style="-webkit-text-stroke: 1px var(--text-color);">
+                    ATTEN<br><span class="text-gold">TION</span>
+                </h1>
+                <div class="flex justify-center items-center space-x-4 text-stone-400 font-mono text-xs mt-6">
+                    <span class="border border-stone-700 px-2 py-1">CHAPITRE 17</span>
+                    <span>//</span>
+                    <span>ÉNERGIE FOSSILE</span>
+                </div>
+            </header>
+
+            <!-- Section 1: Ancrage -->
+            <section class="reveal space-y-8">
+                <h2 class="font-heavy text-2xl text-[var(--gold-color)] uppercase tracking-widest mb-4">01. Le Puits à Sec</h2>
+                <div class="pl-6 border-l-4 border-stone-800">
+                    <p class="text-xl md:text-2xl font-light leading-relaxed text-stone-300">
+                        23h30. Le pouce scrolle. Le cerveau est de la cendre.<br>
+                        Vous ne consommez pas. Vous êtes consommé.
+                    </p>
+                    <p class="text-lg text-stone-500 mt-6 leading-relaxed">
+                        C'est une extraction minière. Ils forent votre crâne pour les dernières gouttes de temps.
+                    </p>
+                    
+                    <div class="mt-8">
+                        <div class="flex justify-between text-xs font-mono text-[var(--gold-color)]">
+                            <span>RÉSERVE MENTALE</span>
+                            <span class="animate-pulse text-red-500">CRITIQUE</span>
+                        </div>
+                        <div class="gauge-container">
+                            <div class="gauge-bar"></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Section 2: Science -->
+            <section class="reveal space-y-12">
+                <h2 class="font-heavy text-2xl text-stone-500 uppercase tracking-widest mb-4 text-right">02. L'Écologie de l'Esprit</h2>
+                
+                <div class="grid gap-6 text-right">
+                    <!-- Micro -->
+                    <div class="bg-stone-900/50 p-6 border-r-4 border-stone-700 hover:border-[var(--gold-color)] transition-colors">
+                        <h3 class="font-heavy text-white mb-1 text-xl">TASK SWITCHING</h3>
+                        <p class="text-sm text-stone-400">
+                            Le cerveau ne sait pas faire deux choses. Chaque switch coûte du glucose. Le multitâche est une fuite de carburant.
+                        </p>
+                    </div>
+
+                    <!-- Meso -->
+                    <div class="bg-stone-900/50 p-6 border-r-4 border-stone-700 hover:border-[var(--gold-color)] transition-colors">
+                        <h3 class="font-heavy text-white mb-1 text-xl">DOPAMINE CRASH</h3>
+                        <p class="text-sm text-stone-400">
+                            Le circuit de la récompense sature. Les récepteurs grillent. On scrolle sans plaisir, juste par automatisme de manque.
+                        </p>
+                    </div>
+
+                    <!-- Macro -->
+                    <div class="bg-stone-900/50 p-6 border-r-4 border-stone-700 hover:border-[var(--gold-color)] transition-colors">
+                        <h3 class="font-heavy text-white mb-1 text-xl">FRACTURATION</h3>
+                        <p class="text-sm text-stone-400">
+                            Le capitalisme cognitif pratique le "Fracking" mental. Il injecte de la pression pour briser la roche de votre concentration.
+                        </p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Section 3: Totem -->
+            <section class="reveal py-16 text-center space-y-8 relative">
+                <div class="absolute inset-0 bg-gradient-to-b from-transparent via-stone-800/20 to-transparent"></div>
+                <h2 class="font-mono text-xs text-stone-500 uppercase tracking-widest relative z-10">IMAGE TOTEM</h2>
+                <div class="text-5xl md:text-8xl font-black text-white tracking-tighter relative z-10 font-heavy drop-shadow-xl text-gold">
+                    LE DERRICK
+                </div>
+                <p class="text-stone-500 italic max-w-md mx-auto relative z-10 mt-4">
+                    "Une pompe qui tourne à vide sur une nappe asséchée."
+                </p>
+            </section>
+
+            <!-- Section 4: Action -->
+            <section class="reveal space-y-6 text-center">
+                <h2 class="font-heavy text-2xl text-white uppercase tracking-widest mb-4">03. Le Mode Avion</h2>
+                <p class="text-lg text-stone-300">
+                    Arrêtez la pompe. Laissez la nappe se remplir.
+                </p>
+                <div class="inline-block mt-6 p-4 border border-[var(--gold-color)] bg-[var(--gold-color)]/10">
+                    <p class="font-mono text-xs text-[var(--gold-color)] mb-2">MICRO-GESTE</p>
+                    <p class="text-white font-bold text-xl">SANCTUARISER</p>
+                    <p class="text-stone-400 text-sm mt-2">1 heure par jour sans extraction.<br>Le silence est géologique.</p>
+                </div>
+            </section>
+
+            <!-- Footer -->
+            <footer class="reveal pt-24 pb-12 mt-12 border-t border-stone-800">
+                <div class="flex justify-between items-end">
+                    <div>
+                        <p class="font-heavy text-xl text-stone-700 uppercase mb-2">État</p>
+                        <p class="text-xl font-bold text-white font-heavy">RÉGÉNÉRATION</p>
+                    </div>
+                    
+                    <a href="/mecanique/chap-18.html" class="group text-right">
+                        <p class="font-heavy text-xl text-stone-700 uppercase">Chapitre Suivant</p>
+                        <div class="flex items-center space-x-2 text-white font-bold text-lg group-hover:text-[var(--gold-color)] transition-colors font-heavy text-2xl">
+                            <span>L'ŒUVRE</span>
+                            <span>→</span>
+                        </div>
+                    </a>
+                </div>
+            </footer>
+
+        </article>
+    </main>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('active');
+                    }
+                });
+            }, { threshold: 0.1 });
+
+            document.querySelectorAll('.reveal').forEach((el) => observer.observe(el));
+        });
+    </script>
+</body>
+</html>
+

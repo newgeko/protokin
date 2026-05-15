@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROTOKIN | ARCHIVE B-212</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+    
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Teko:wght@300;600&display=swap');
+
+        :root {
+            --bg-color: #020617; /* Slate 950 */
+            --tech-blue: #3b82f6; /* Blue 500 */
+            --tech-glow: rgba(59, 130, 246, 0.3);
+            --grid-line: #1e293b;
+            --text-color: #94a3b8;
+            --alert-color: #ef4444;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'Share Tech Mono', monospace;
+            overflow-x: hidden;
+        }
+
+        .font-header { font-family: 'Teko', sans-serif; }
+
+        /* --- BLUEPRINT BACKGROUND --- */
+        .blueprint-bg {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background-image: 
+                linear-gradient(var(--grid-line) 1px, transparent 1px),
+                linear-gradient(90deg, var(--grid-line) 1px, transparent 1px);
+            background-size: 40px 40px;
+            opacity: 0.3;
+            z-index: 0;
+            pointer-events: none;
+        }
+
+        .scanline {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: linear-gradient(to bottom, transparent 50%, rgba(59, 130, 246, 0.03) 50%);
+            background-size: 100% 4px;
+            pointer-events: none;
+            z-index: 50;
+        }
+
+        /* --- UI ELEMENTS --- */
+        .nav-bar {
+            position: fixed;
+            top: 0; width: 100%;
+            padding: 1.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 50;
+            background: rgba(2, 6, 23, 0.95);
+            border-bottom: 1px solid var(--tech-blue);
+        }
+
+        .chapter-header {
+            font-size: clamp(3rem, 10vw, 8rem);
+            line-height: 0.8;
+            text-transform: uppercase;
+            text-shadow: 0 0 20px var(--tech-glow);
+            opacity: 0;
+            transform: scale(0.9);
+            color: white;
+        }
+
+        /* --- INTERACTIVE ENGINE SLIDER --- */
+        .engine-container {
+            position: relative;
+            width: 100%;
+            max-width: 600px;
+            height: 400px;
+            margin: 4rem auto;
+            border: 2px solid var(--tech-blue);
+            overflow: hidden;
+            background: #0f172a;
+        }
+
+        .engine-layer {
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            transition: opacity 0.5s;
+        }
+
+        .engine-text {
+            position: absolute;
+            bottom: 20px;
+            width: 100%;
+            text-align: center;
+            color: white;
+            font-size: 1.5rem;
+            font-family: 'Teko', sans-serif;
+            text-shadow: 0 0 10px black;
+        }
+
+        /* --- CONTROLS --- */
+        .control-panel {
+            background: rgba(15, 23, 42, 0.8);
+            border: 1px solid var(--tech-blue);
+            padding: 20px;
+            width: 100%; max-width: 500px;
+            margin: 0 auto 4rem;
+            box-shadow: 0 0 30px var(--tech-glow);
+        }
+
+        input[type=range] {
+            width: 100%;
+            accent-color: var(--tech-blue);
+            margin-bottom: 10px;
+        }
+
+        /* --- READER DRAWER --- */
+        .reader-drawer {
+            position: fixed;
+            top: 0; right: 0;
+            width: 100%; max-width: 650px; height: 100%;
+            background: #020617;
+            border-left: 2px solid var(--tech-blue);
+            z-index: 100;
+            transform: translateX(100%);
+            transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+            display: flex;
+            flex-direction: column;
+            box-shadow: -20px 0 100px rgba(0,0,0,0.9);
+        }
+        .reader-drawer.open { transform: translateX(0); }
+
+        .reader-content {
+            padding: 3rem;
+            overflow-y: auto;
+            font-family: 'Georgia', serif;
+            color: #cbd5e1;
+            line-height: 1.7;
+        }
+        
+        .reader-content h3 { color: var(--tech-blue); font-family: 'Share Tech Mono', monospace; margin-top: 2rem; margin-bottom: 1rem; font-weight: bold; }
+        .reader-content blockquote { border-left: 3px solid var(--tech-blue); padding-left: 1rem; font-style: italic; color: #94a3b8; margin: 1.5rem 0; }
+
+        /* --- MENU GLOBAL --- */
+        .menu-overlay {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(2, 6, 23, 0.98);
+            backdrop-filter: blur(15px);
+            z-index: 200; transform: translateY(-100%);
+            transition: transform 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+            display: flex; flex-direction: column; justify-content: center; align-items: center;
+        }
+        .menu-overlay.open { transform: translateY(0); }
+        
+        .menu-link {
+            font-family: 'Teko', sans-serif; font-size: 2.5rem; color: #64748b; margin: 0.5rem 0;
+            text-transform: uppercase; text-decoration: none; transition: color 0.3s, transform 0.3s;
+        }
+        .menu-link:hover { color: var(--tech-blue); transform: scale(1.1); }
+        
+        .close-menu-btn {
+            position: absolute; top: 2rem; right: 2rem; background: transparent;
+            border: 1px solid var(--tech-blue); color: var(--tech-blue); padding: 0.5rem 1rem; cursor: pointer;
+        }
+        .close-menu-btn:hover { background: var(--tech-blue); color: white; }
+
+        /* --- FLOATING BUTTON --- */
+        .archive-btn {
+            position: fixed;
+            bottom: 2rem; right: 2rem;
+            background: #020617;
+            border: 1px solid var(--tech-blue);
+            color: var(--tech-blue);
+            padding: 1rem 2rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            cursor: pointer;
+            z-index: 90;
+            transition: all 0.3s;
+            box-shadow: 0 0 20px var(--tech-glow);
+            opacity: 0;
+        }
+        .archive-btn:hover {
+            background: var(--tech-blue);
+            color: #fff;
+            box-shadow: 0 0 50px var(--tech-glow);
+        }
+
+        /* --- IMAGES --- */
+        .img-overlay {
+            position: relative;
+            overflow: hidden;
+            border: 1px solid var(--grid-line);
+        }
+        .img-overlay::after {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: var(--tech-blue);
+            mix-blend-mode: color;
+            opacity: 0.2;
+            pointer-events: none;
+        }
+        .img-overlay img {
+            filter: grayscale(100%) contrast(1.2);
+            transition: transform 1.5s ease;
+        }
+        .img-overlay:hover img {
+            transform: scale(1.05);
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="blueprint-bg"></div>
+    <div class="scanline"></div>
+
+    <!-- NAVIGATION BAR -->
+    <nav class="nav-bar">
+        <button onclick="toggleGlobalMenu()" class="text-xs border border-blue-900 px-3 py-1 text-blue-400 hover:bg-blue-900 transition-colors uppercase tracking-widest font-mono">
+            MENU PRINCIPAL
+        </button>
+        <div class="text-xs tracking-widest text-slate-400">REF: B-212</div>
+    </nav>
+
+
+    <!-- BOUTON LECTURE -->
+    <button class="archive-btn" onclick="toggleDrawer()">
+        [+] ANALYSE TECHNIQUE
+    </button>
+
+    <!-- DRAWER DE LECTURE -->
+    <aside class="reader-drawer" id="reader">
+        <div class="p-6 border-b border-blue-900 flex justify-between items-center bg-[#020617]">
+            <span class="text-xs text-blue-400">RAPPORT SIMONDON</span>
+         <button onclick="toggleGlobalMenu()" class="text-xs border border-blue-800 px-3 py-1 text-blue-400 hover:bg-blue-900 transition-colors uppercase tracking-widest">
+            MENU PRINCIPAL
+        </button>
+        </div>
+        <div class="reader-content">
+            <h2 class="text-3xl font-bold text-white mb-6 font-header">LA CONCRÉTISATION</h2>
+            <p><strong>Sujet :</strong> L'évolution de l'objet technique vers l'organique et l'exclusion de l'humain.</p>
+            
+            <h3>1. Abstrait vs Concret</h3>
+            <p>L'objet primitif est "Abstrait" : ses pièces sont juxtaposées, séparées. On peut changer le moteur sans toucher au châssis. Il y a du "Jeu".
+            L'objet évolué est "Concret" : ses fonctions fusionnent. Le carter sert aussi de radiateur. L'intégration est totale.</p>
+            
+            <blockquote>
+                "La perfection technique supprime la marge d'indétermination nécessaire à l'intervention humaine."
+            </blockquote>
+
+            <h3>2. La Boîte Noire</h3>
+            <p>Plus l'objet se concrétise, plus il se ferme. Le capot se scelle. L'utilisateur devient passif. Il n'a plus le droit d'ouvrir pour comprendre. Il loue une fonction, il ne possède plus l'outil.</p>
+
+            <h3>3. La Fragilité Systémique</h3>
+            <p>Le paradoxe : l'objet concret est plus performant, mais plus fragile. Si une fonction lâche, tout le système meurt car tout est lié. L'optimisation tue la résilience.</p>
+            
+            <div class="mt-12 pt-6 border-t border-blue-900 text-xs text-gray-500 font-mono">
+                FIN DE L'ARCHIVE B-212
+            </div>
+        </div>
+    </aside>
+
+    <!-- CONTENU PRINCIPAL -->
+    <main class="relative z-10">
+
+        <!-- INTRO -->
+        <section class="min-h-screen flex flex-col justify-center items-center px-6 text-center" id="intro">
+            <h1 class="chapter-header font-header mb-6">
+                CONCRÉ<br><span style="color:var(--tech-blue)">TISATION</span>
+            </h1>
+            <p class="text-blue-400 text-sm tracking-[0.5em] animate-pulse font-bold mt-8">
+                L'OPTIMISATION EST UNE FERMETURE
+            </p>
+        </section>
+
+        <!-- PHASE 1 : LE MOTEUR -->
+        <section class="min-h-screen py-24 px-6 flex flex-col items-center">
+            <div class="max-w-4xl w-full grid md:grid-cols-2 gap-12 items-center">
+                
+                <div class="img-overlay reveal">
+                    <!-- Image de moteur ouvert vs fermé -->
+                    <img src="[Image de Moteur V8]" class="w-full h-full object-cover" alt="Moteur">
+                </div>
+
+                <div class="text-panel reveal p-8 border-l-2 border-blue-500 bg-blue-900/10 backdrop-blur">
+                    <span class="text-xs text-blue-400 mb-4 block">PHASE 01 : LE CAPOT SCELLÉ</span>
+                    <h2 class="text-2xl mb-4 font-bold text-white font-header">La Fin du Bricolage</h2>
+                    <p class="text-sm text-gray-300 leading-relaxed">
+                        En 1970, on voyait le moteur. On pouvait le toucher.
+                        <br><br>
+                        En 2024, le moteur est une abstraction noire sous un carter plastique. L'humain est exclu par la perfection du système.
+                    </p>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- PHASE 2 : INTERACTION (TIME SLIDER) -->
+        <section class="min-h-screen py-24 px-6 flex flex-col justify-center items-center bg-[#020617]">
+            <h2 class="text-xl mb-2 tracking-widest text-blue-400 font-header">ÉVOLUTION TECHNIQUE</h2>
+            <p class="text-xs text-gray-500 mb-8 max-w-md text-center">
+                Glissez pour observer la fusion des fonctions.
+            </p>
+
+            <div class="engine-container" id="engine-vis">
+                <!-- Couche 1 : Abstrait (1950) -->
+                <div class="engine-layer" id="layer-abstract" style="opacity: 1;">
+                    <svg viewBox="0 0 100 100" class="w-64 h-64 text-gray-500 fill-current">
+                        <!-- Schéma éclaté simple -->
+                        <rect x="20" y="20" width="20" height="60" />
+                        <rect x="50" y="30" width="30" height="40" />
+                        <line x1="40" y1="50" x2="50" y2="50" stroke="white" stroke-width="2" />
+                    </svg>
+                    <div class="engine-text">OBJET ABSTRAIT (OUVERT)</div>
+                </div>
+
+                <!-- Couche 2 : Concret (2024) -->
+                <div class="engine-layer" id="layer-concrete" style="opacity: 0;">
+                    <svg viewBox="0 0 100 100" class="w-64 h-64 text-blue-500 fill-current">
+                        <!-- Forme organique fusionnée -->
+                        <path d="M20,20 Q50,0 80,20 T80,80 Q50,100 20,80 T20,20 Z" />
+                    </svg>
+                    <div class="engine-text" style="color:var(--tech-blue)">OBJET CONCRET (FERMÉ)</div>
+                </div>
+            </div>
+
+            <div class="control-panel">
+                <div class="flex justify-between text-xs text-gray-500 mb-2">
+                    <span>1900</span>
+                    <span>2050</span>
+                </div>
+                <input type="range" id="timeSlider" min="0" max="100" value="0">
+                <div class="mt-4 text-center text-xs font-mono text-blue-400" id="status-text">
+                    NIVEAU D'INTÉGRATION : 0%
+                </div>
+            </div>
+        </section>
+
+        <!-- PHASE 3 : L'ALIÉNATION -->
+        <section class="min-h-screen py-24 px-6 flex flex-col justify-center items-center relative">
+            <div class="absolute inset-0 z-0 opacity-10">
+                <!-- Image de circuit imprimé ou serveur -->
+                <img src="[Image de Circuit Imprimé]" class="w-full h-full object-cover grayscale" alt="Circuit">
+            </div>
+
+            <div class="text-panel reveal z-10 text-center max-w-xl p-8 border border-white/10 bg-black/80">
+                <span class="text-xs text-red-500 mb-4 block">PHASE 03 : PERTE DE SENS</span>
+                <h2 class="text-3xl mb-6 font-bold text-white font-header">L'Usager Passif</h2>
+                <p class="text-sm text-gray-300 leading-relaxed">
+                    Quand je ne peux plus réparer, je ne comprends plus.
+                    <br><br>
+                    Je deviens un magicien qui appuie sur des boutons sans connaître la cause. C'est la fin de la culture technique.
+                </p>
+            </div>
+        </section>
+
+        <!-- CONCLUSION -->
+        <section class="h-[50vh] flex flex-col justify-center items-center text-center border-t border-blue-900 bg-[#020617]">
+            <p class="text-xs text-gray-500 mb-4 uppercase tracking-widest">FIN DE LA SÉQUENCE</p>
+            <h2 class="text-4xl font-header text-white mb-8">ROUVRIR LA<br>BOÎTE NOIRE</h2>
+            
+            <a href="#" class="border border-blue-500 text-blue-500 px-8 py-3 hover:bg-blue-500 hover:text-white transition-colors uppercase font-bold text-xs tracking-widest" onclick="alert('Lien vers le Chapitre suivant : Grammatisation')">
+                SUITE : LE CODE
+            </a>
+        </section>
+
+    </main>
+	
+			    <!-- SCRIPT DU MENU (À EXTERNALISER DANS menu.js) -->
+    <script src="/assets/js/menu_bureau.js"></script>
+
+    <script>
+        gsap.registerPlugin(ScrollTrigger);
+
+        // 1. SLIDER LOGIC
+        const slider = document.getElementById('timeSlider');
+        const layerAbstract = document.getElementById('layer-abstract');
+        const layerConcrete = document.getElementById('layer-concrete');
+        const statusText = document.getElementById('status-text');
+
+        slider.addEventListener('input', (e) => {
+            const val = e.target.value;
+            const opacity = val / 100;
+            
+            layerConcrete.style.opacity = opacity;
+            layerAbstract.style.opacity = 1 - opacity;
+
+            statusText.innerText = `NIVEAU D'INTÉGRATION : ${val}%`;
+            
+            if (val > 80) {
+                statusText.style.color = "#ef4444"; // Alerte Rouge
+                statusText.innerText += " (IRRÉPARABLE)";
+            } else {
+                statusText.style.color = "#3b82f6"; // Bleu
+            }
+        });
+
+        // 2. ANIMATIONS GSAP
+        gsap.to(".chapter-header", {
+            opacity: 1, scale: 1, duration: 2, ease: "power4.out", delay: 0.5
+        });
+
+        ScrollTrigger.create({
+            trigger: "#intro",
+            start: "bottom center",
+            onEnter: () => gsap.to(".archive-btn", { opacity: 1, y: 0, duration: 0.5 }),
+            onLeaveBack: () => gsap.to(".archive-btn", { opacity: 0, y: 20, duration: 0.5 })
+        });
+
+        gsap.utils.toArray('.reveal').forEach(elem => {
+            gsap.fromTo(elem, 
+                { y: 50, opacity: 0 },
+                {
+                    scrollTrigger: {
+                        trigger: elem,
+                        start: "top 85%",
+                        toggleActions: "play none none reverse"
+                    },
+                    y: 0, opacity: 1, duration: 1
+                }
+            );
+        });
+
+        gsap.to(".img-overlay img", {
+            scrollTrigger: {
+                trigger: ".img-overlay",
+                scrub: true
+            },
+            scale: 1.15
+        });
+
+        // 3. FONCTION TIROIR
+        function toggleDrawer() {
+            document.getElementById('reader').classList.toggle('open');
+            document.body.style.overflow = document.getElementById('reader').classList.contains('open') ? 'hidden' : 'auto';
+        }
+
+    </script>
+</body>
+</html>

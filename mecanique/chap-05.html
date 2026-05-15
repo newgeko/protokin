@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROTOCOLE 05 : RYTHME</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=JetBrains+Mono:wght@400;700&display=swap');
+
+        :root {
+            --bg-color: #0c1524; /* Bleu nuit profond */
+            --text-color: #e2e8f0;
+            --wave-color: #38bdf8; /* Cyan océanique */
+            --foam-color: #f0f9ff;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+            selection-background-color: var(--wave-color);
+            selection-color: #000;
+        }
+
+        .font-mono {
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        /* Scanline */
+        .scanline {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background: linear-gradient(to bottom, transparent 50%, rgba(56, 189, 248, 0.03) 50%);
+            background-size: 100% 4px;
+            pointer-events: none;
+            z-index: 50;
+        }
+
+        /* Reveal Animations */
+        .reveal {
+            opacity: 0;
+            transform: translateY(30px);
+            transition: all 1s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .reveal.active {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* Sine Wave Animation Background */
+        .wave-bg {
+            position: absolute;
+            left: 0;
+            width: 200%;
+            height: 100%;
+            background: repeating-linear-gradient(
+                90deg,
+                transparent 0%,
+                transparent 40%,
+                rgba(56, 189, 248, 0.05) 50%,
+                transparent 60%
+            );
+            animation: flow 10s linear infinite;
+            z-index: 0;
+            pointer-events: none;
+        }
+
+        @keyframes flow {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(-50%); }
+        }
+
+        .text-wave {
+            background: linear-gradient(to right, #38bdf8, #818cf8);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .card-rhythm {
+            border-left: 1px solid var(--wave-color);
+            background: linear-gradient(90deg, rgba(56, 189, 248, 0.05), transparent);
+            transition: all 0.3s;
+        }
+        .card-rhythm:hover {
+            padding-left: 2rem;
+            background: linear-gradient(90deg, rgba(56, 189, 248, 0.1), transparent);
+        }
+
+    </style>
+</head>
+<body class="antialiased min-h-screen flex flex-col">
+
+    <div class="scanline"></div>
+
+    <!-- Nav -->
+    <nav class="fixed top-0 w-full z-50 bg-[#0c1524]/90 backdrop-blur border-b border-white/5 py-4 px-6 flex justify-between items-center font-mono text-xs uppercase tracking-widest text-gray-400">
+        <div class="opacity-70 hover:opacity-100 transition-opacity cursor-pointer text-white">Protokin</div>
+        <div class="text-[var(--wave-color)] animate-pulse">● OSCILLATION</div>
+        <div class="opacity-70">Seq_05.log</div>
+    </nav>
+
+    <!-- Content -->
+    <main class="flex-grow pt-32 pb-20 px-4 md:px-0 relative z-20 overflow-hidden">
+        
+        <div class="wave-bg top-0 opacity-30"></div>
+        <div class="wave-bg top-1/2 opacity-20" style="animation-direction: reverse; animation-duration: 15s;"></div>
+
+        <article class="max-w-2xl mx-auto space-y-32 relative z-10">
+            
+            <!-- Header -->
+            <header class="reveal space-y-8 pb-12">
+                <div class="font-mono text-xs text-[var(--wave-color)] mb-2 tracking-[0.2em]">TEMPOREL</div>
+                <h1 class="text-6xl md:text-8xl font-bold leading-none tracking-tighter text-white">
+                    RHUTH<br><span class="text-wave">MOS</span>
+                </h1>
+                <div class="flex items-center space-x-4 text-gray-500 font-mono text-xs mt-6">
+                    <span class="border border-gray-700 px-2 py-1">CHAPITRE 05</span>
+                    <span>//</span>
+                    <span>LA FORME FLUIDE</span>
+                </div>
+            </header>
+
+            <!-- Section 1: Ancrage -->
+            <section class="reveal space-y-8">
+                <h2 class="font-mono text-xs text-[var(--wave-color)] uppercase tracking-widest mb-4">01. La Vague</h2>
+                <div class="pl-6 border-l border-white/10">
+                    <p class="text-xl md:text-2xl font-light leading-relaxed text-gray-300">
+                        Clic. Vous prenez la vague en photo.<br>
+                        Regardez l'image : ce n'est plus une vague. C'est un bloc de glace.
+                    </p>
+                    <p class="text-lg text-gray-500 mt-6 leading-relaxed">
+                        La vague n'est pas un objet. C'est un événement. Elle ne tient que par sa vitesse. <br>
+                        Si elle s'arrête, elle s'effondre.
+                    </p>
+                    <div class="mt-8 p-4 bg-blue-900/20 border border-blue-500/20">
+                        <p class="font-mono text-xs text-[var(--wave-color)] mb-2">> DIAGNOSTIC</p>
+                        <p class="text-gray-300 italic">"Une vague qui s'arrête n'est plus une vague, c'est une flaque."</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Section 2: Science -->
+            <section class="reveal space-y-12">
+                <h2 class="font-mono text-xs text-gray-500 uppercase tracking-widest mb-4">02. La Fréquence comme Structure</h2>
+                
+                <div class="space-y-6">
+                    <!-- Micro -->
+                    <div class="card-rhythm p-6 cursor-default">
+                        <h3 class="font-mono text-white mb-1">MICRO : L'ATOME</h3>
+                        <p class="text-sm text-gray-400">
+                            La matière solide est une illusion créée par la vitesse. L'électron ne tourne pas, il vibre.
+                        </p>
+                    </div>
+
+                    <!-- Meso -->
+                    <div class="card-rhythm p-6 cursor-default">
+                        <h3 class="font-mono text-white mb-1">MESO : LE CŒUR</h3>
+                        <p class="text-sm text-gray-400">
+                            Un cœur régulier est un cœur malade. La santé est une variation constante (VRC). La vie est Jazz, pas Techno.
+                        </p>
+                    </div>
+
+                    <!-- Macro -->
+                    <div class="card-rhythm p-6 cursor-default">
+                        <h3 class="font-mono text-white mb-1">MACRO : LE PONT</h3>
+                        <p class="text-sm text-gray-400">
+                            Tacoma, 1940. Le béton explose non par la force du vent, mais par la résonance. Le mauvais rythme détruit l'acier.
+                        </p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Section 3: Totem -->
+            <section class="reveal py-16 text-center space-y-8 relative">
+                 <!-- Wave Viz -->
+                 <div class="flex justify-center items-center space-x-1 h-24 mb-8">
+                    <div class="w-2 h-full bg-[var(--wave-color)] opacity-20 animate-pulse" style="animation-duration: 0.5s"></div>
+                    <div class="w-2 h-2/3 bg-[var(--wave-color)] opacity-40 animate-pulse" style="animation-duration: 0.7s"></div>
+                    <div class="w-2 h-full bg-[var(--wave-color)] opacity-60 animate-pulse" style="animation-duration: 0.4s"></div>
+                    <div class="w-2 h-1/2 bg-[var(--wave-color)] opacity-80 animate-pulse" style="animation-duration: 0.6s"></div>
+                    <div class="w-2 h-full bg-[var(--wave-color)] opacity-100 animate-pulse" style="animation-duration: 0.5s"></div>
+                    <div class="w-2 h-1/2 bg-[var(--wave-color)] opacity-80 animate-pulse" style="animation-duration: 0.6s"></div>
+                    <div class="w-2 h-full bg-[var(--wave-color)] opacity-60 animate-pulse" style="animation-duration: 0.4s"></div>
+                    <div class="w-2 h-2/3 bg-[var(--wave-color)] opacity-40 animate-pulse" style="animation-duration: 0.7s"></div>
+                    <div class="w-2 h-full bg-[var(--wave-color)] opacity-20 animate-pulse" style="animation-duration: 0.5s"></div>
+                 </div>
+
+                <h2 class="font-mono text-xs text-gray-500 uppercase tracking-widest relative z-10">IMAGE TOTEM</h2>
+                <div class="text-5xl md:text-7xl font-bold text-white tracking-tight relative z-10">
+                    LA VAGUE
+                </div>
+                <p class="text-gray-400 italic max-w-md mx-auto relative z-10 mt-4">
+                    "Elle ne transporte pas d'eau. Elle transporte de l'énergie à travers l'eau."
+                </p>
+            </section>
+
+            <!-- Section 4: Action -->
+            <section class="reveal space-y-6">
+                <h2 class="font-mono text-xs text-[var(--wave-color)] uppercase tracking-widest mb-4">03. Le Legato</h2>
+                <p class="text-lg text-gray-300">
+                    Ne soyez pas un Maçon (Statique). Soyez un Musicien (Dynamique).
+                </p>
+                <p class="text-gray-400 text-sm mt-4">
+                    Le geste maladroit coupe le temps (Staccato). <br>
+                    Le geste maître lie le temps (Legato).
+                </p>
+                
+                <div class="mt-8 border border-white/10 p-6 text-center bg-black/20">
+                    <p class="font-mono text-sm text-[var(--wave-color)] mb-2">MICRO-GESTE</p>
+                    <p class="text-xl font-light text-white">
+                        La fin d'une action est le début de la suivante. <br>
+                        Ne posez pas. Enchaînez.
+                    </p>
+                </div>
+            </section>
+
+            <!-- Footer -->
+            <footer class="reveal pt-24 pb-12 mt-12">
+                <div class="flex justify-between items-end border-t border-gray-800 pt-8">
+                    <div>
+                        <p class="font-mono text-xs text-gray-600 uppercase mb-2">Architecture</p>
+                        <p class="text-xl font-bold text-white">FLUIDE</p>
+                    </div>
+                    
+                    <a href="/mecanique/chap-06.html" class="group text-right">
+                        <p class="font-mono text-xs text-gray-600 uppercase">Prochaine Séquence</p>
+                        <div class="flex items-center space-x-2 text-white font-bold text-lg group-hover:text-[var(--wave-color)] transition-colors">
+                            <span>LA PROJECTION</span>
+                            <span>→</span>
+                        </div>
+                    </a>
+                </div>
+            </footer>
+
+        </article>
+    </main>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('active');
+                    }
+                });
+            }, { threshold: 0.1 });
+
+            document.querySelectorAll('.reveal').forEach((el) => observer.observe(el));
+        });
+    </script>
+</body>
+</html>
+

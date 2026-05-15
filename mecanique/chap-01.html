@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROTOCOLE 01 : SURCHARGE</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=JetBrains+Mono:wght@400;700&display=swap');
+
+        :root {
+            --bg-color: #050505;
+            --text-color: #a3a3a3; /* Gris plomb */
+            --accent-color: #e5e5e5; /* Blanc sale */
+            --pressure-color: #451a03; /* Brun/Rouge sombre étouffé */
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+        }
+
+        .font-mono {
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        /* Scanline Overlay lourd */
+        .scanline {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background: linear-gradient(
+                to bottom,
+                rgba(0, 0, 0, 0),
+                rgba(0, 0, 0, 0.2) 50%,
+                rgba(0, 0, 0, 0) 50%
+            );
+            background-size: 100% 4px;
+            pointer-events: none;
+            z-index: 50;
+            opacity: 0.8;
+        }
+
+        /* Animations */
+        .reveal {
+            opacity: 0;
+            transform: translateY(20px);
+            transition: all 1.2s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .reveal.active {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* Texte flou/saturé */
+        .heavy-text {
+            text-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
+        }
+        
+        .progress-bar {
+            background: repeating-linear-gradient(
+                45deg,
+                #333,
+                #333 10px,
+                #222 10px,
+                #222 20px
+            );
+        }
+    </style>
+</head>
+<body class="antialiased min-h-screen flex flex-col">
+
+    <div class="scanline"></div>
+
+    <!-- Nav -->
+    <nav class="fixed top-0 w-full z-40 bg-black/90 backdrop-blur border-b border-white/5 py-4 px-6 flex justify-between items-center font-mono text-xs uppercase tracking-widest text-gray-500">
+        <div class="opacity-70 hover:opacity-100 transition-opacity cursor-pointer text-white">Protokin.com</div>
+        <div class="text-red-900 animate-pulse">● PRESSURE_CRITICAL</div>
+        <div class="opacity-70">Seq_01.log</div>
+    </nav>
+
+    <!-- Content -->
+    <main class="flex-grow pt-32 pb-20 px-4 md:px-0">
+        <article class="max-w-2xl mx-auto space-y-32">
+            
+            <!-- Header -->
+            <header class="reveal space-y-6 border-b border-gray-900 pb-12">
+                <div class="font-mono text-xs text-gray-600 mb-2">ARCHIVE: ÉTAT_DES_LIEUX</div>
+                <h1 class="text-6xl md:text-8xl font-bold leading-none tracking-tighter text-white heavy-text">
+                    SUR<br>CHARGE
+                </h1>
+                <div class="flex items-center space-x-4 text-gray-600 font-mono text-xs mt-4">
+                    <span class="border border-gray-800 px-2 py-1">CHAPITRE 01</span>
+                    <span>//</span>
+                    <span>TROP DE POSSIBLES</span>
+                </div>
+            </header>
+
+            <!-- Section 1: Ancrage -->
+            <section class="reveal space-y-8">
+                <h2 class="font-mono text-xs text-gray-500 uppercase tracking-widest mb-4">01. Dimanche, 16h00</h2>
+                <p class="text-xl md:text-2xl font-light leading-relaxed text-gray-300">
+                    La lumière est laiteuse. Le silence a la densité du plomb. Vous êtes assis, incapable de bouger.
+                </p>
+                <p class="text-lg text-gray-500 leading-relaxed">
+                    Vos membres pèsent une tonne. Vous avez l'impression d'avoir avalé du mercure. Vous vous dites : <em class="text-gray-300">"Il ne se passe rien."</em>
+                </p>
+                
+                <div class="bg-gray-900/50 border border-gray-800 p-6 mt-8">
+                    <p class="font-mono text-xs text-red-900 mb-2">> ERREUR DIAGNOSTIC</p>
+                    <p class="text-white text-lg font-medium">
+                        C'est faux. Il se passe trop de choses. Vous ne souffrez pas du vide, mais d'une indigestion de possibles.
+                    </p>
+                </div>
+            </section>
+
+            <!-- Section 2: Science -->
+            <section class="reveal space-y-8">
+                <h2 class="font-mono text-xs text-gray-500 uppercase tracking-widest mb-4">02. La Physique de la Tension</h2>
+                
+                <div class="space-y-1">
+                    <div class="flex justify-between text-xs font-mono text-gray-500">
+                        <span>PRESSION INTERNE</span>
+                        <span>128%</span>
+                    </div>
+                    <div class="w-full h-2 bg-gray-900 rounded-full overflow-hidden">
+                        <div class="h-full bg-white w-[100%] progress-bar"></div>
+                    </div>
+                </div>
+
+                <div class="grid gap-8 mt-12">
+                    <div class="border-l-2 border-gray-800 pl-6 hover:border-white transition-colors">
+                        <h3 class="text-white font-bold mb-2">MICRO : LA SURFUSION</h3>
+                        <p class="text-sm text-gray-500">L'eau pure à -5°C refuse de geler. Elle accumule une dette d'énergie liquide. Ce n'est pas de la paix, c'est une guerre civile suspendue.</p>
+                    </div>
+                    <div class="border-l-2 border-gray-800 pl-6 hover:border-white transition-colors">
+                        <h3 class="text-white font-bold mb-2">MESO : L'ALLOSTASIE</h3>
+                        <p class="text-sm text-gray-500">Vos surrénales inondent le sang de cortisol pour un combat qui n'a pas lieu. L'attente devient acide. Vous brûlez sur place.</p>
+                    </div>
+                    <div class="border-l-2 border-gray-800 pl-6 hover:border-white transition-colors">
+                        <h3 class="text-white font-bold mb-2">MACRO : LE BOUCHON FANTÔME</h3>
+                        <p class="text-sm text-gray-500">Sur l'autoroute, la simple densité fige le flux sans accident. La paralysie naît de la saturation pure.</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Section 3: Totem -->
+            <section class="reveal py-16 text-center space-y-8">
+                <div class="inline-block border border-white/10 p-12 relative overflow-hidden">
+                    <div class="absolute inset-0 bg-white/5 blur-xl"></div>
+                    <p class="relative z-10 font-mono text-xs text-gray-500 mb-4">IMAGE TOTEM</p>
+                    <h3 class="relative z-10 text-4xl md:text-5xl font-bold text-white mb-4">LE FLACON<br>EN SURFUSION</h3>
+                    <p class="relative z-10 text-sm text-gray-400 italic">"Une chambre magmatique dont la cheminée est bouchée."</p>
+                </div>
+            </section>
+
+            <!-- Section 4: Action -->
+            <section class="reveal space-y-6">
+                <h2 class="font-mono text-xs text-gray-500 uppercase tracking-widest mb-4">03. Le Triage</h2>
+                <p class="text-lg text-gray-300">
+                    Pour sortir de la paralysie, ne cherchez pas le repos. Provoquez la cristallisation.
+                </p>
+                <p class="text-lg text-gray-500">
+                    Faites comme l'infirmier aux urgences : <strong class="text-white">Ne soignez pas. Triez.</strong>
+                </p>
+                
+                <div class="mt-8 p-6 bg-gray-900 border-l-4 border-white">
+                    <p class="font-mono text-xs text-gray-400 mb-2">MICRO-GESTE DU DIMANCHE</p>
+                    <p class="text-white">
+                        Prenez 3 emails. Archivez-les sans lire. <br>
+                        Prenez 3 objets. Jetez-en un.<br>
+                        Vous venez de déboucher la cheminée d'un millimètre.
+                    </p>
+                </div>
+            </section>
+
+            <!-- Footer -->
+            <footer class="reveal pt-24 pb-12 border-t border-gray-900 mt-12">
+                <div class="flex justify-between items-end">
+                    <div>
+                        <p class="font-mono text-xs text-gray-600 uppercase mb-2">Statut</p>
+                        <p class="text-xl font-bold text-gray-400">CRISTALLISATION EN COURS...</p>
+                    </div>
+                    
+                    <a href="chap-02.html" class="group text-right">
+                        <p class="font-mono text-xs text-gray-600 uppercase">Chapitre Suivant</p>
+                        <div class="flex items-center space-x-2 text-white font-bold text-lg group-hover:text-gray-300 transition-colors">
+                            <span>LA MÉTASTABILITÉ</span>
+                            <span>→</span>
+                        </div>
+                    </a>
+                </div>
+            </footer>
+
+        </article>
+    </main>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('active');
+                    }
+                });
+            }, { threshold: 0.1 });
+
+            document.querySelectorAll('.reveal').forEach((el) => observer.observe(el));
+        });
+    </script>
+</body>
+</html>
+

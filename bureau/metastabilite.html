@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROTOKIN | ARCHIVE B-202</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.min.js"></script>
+    
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&family=Inter:wght@300;600&display=swap');
+
+        :root {
+            --bg-color: #1c1917; /* Stone 900 */
+            --tension-color: #f97316; /* Orange Tension */
+            --stable-color: #78716c; /* Stone 500 */
+            --text-color: #e7e5e4;
+            --grid-line: #44403c;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+        }
+
+        .font-tech { font-family: 'Chakra Petch', sans-serif; }
+
+        /* --- UI ELEMENTS --- */
+        .nav-bar {
+            position: fixed;
+            top: 0; width: 100%;
+            padding: 1.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 50;
+            background: rgba(28, 25, 23, 0.9);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid var(--tension-color);
+        }
+
+        .chapter-header {
+            font-size: clamp(3rem, 8vw, 6rem);
+            line-height: 0.9;
+            text-transform: uppercase;
+            text-shadow: 0 0 20px var(--tension-color);
+            opacity: 0;
+            transform: scale(0.9);
+            color: white;
+        }
+
+        /* --- P5 CONTAINER --- */
+        #p5-container {
+            width: 100%;
+            height: 500px;
+            margin: 4rem auto;
+            border: 1px solid var(--tension-color);
+            background: #000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
+            position: relative;
+        }
+
+        /* --- CONTROLS --- */
+        .control-panel {
+            background: rgba(40, 40, 40, 0.5);
+            border: 1px solid var(--stable-color);
+            padding: 20px;
+            width: 100%; max-width: 400px;
+            margin: 0 auto 4rem;
+        }
+
+        input[type=range] {
+            width: 100%;
+            accent-color: var(--tension-color);
+            margin-bottom: 10px;
+        }
+
+        /* --- READER DRAWER --- */
+        .reader-drawer {
+            position: fixed;
+            top: 0; right: 0;
+            width: 100%; max-width: 650px; height: 100%;
+            background: #0c0a09;
+            border-left: 2px solid var(--tension-color);
+            z-index: 100;
+            transform: translateX(100%);
+            transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+            display: flex;
+            flex-direction: column;
+            box-shadow: -20px 0 100px rgba(0,0,0,0.9);
+        }
+        .reader-drawer.open { transform: translateX(0); }
+
+        .reader-content {
+            padding: 3rem;
+            overflow-y: auto;
+            font-family: 'Georgia', serif;
+            color: #d6d3d1;
+            line-height: 1.7;
+        }
+        
+        .reader-content h3 { color: var(--tension-color); font-family: 'Chakra Petch', sans-serif; margin-top: 2rem; margin-bottom: 1rem; font-weight: bold; }
+        .reader-content blockquote { border-left: 3px solid var(--tension-color); padding-left: 1rem; font-style: italic; color: white; margin: 1.5rem 0; }
+
+        /* --- FLOATING BUTTON --- */
+        .archive-btn {
+            position: fixed;
+            bottom: 2rem; right: 2rem;
+            background: #000;
+            border: 1px solid var(--tension-color);
+            color: var(--tension-color);
+            padding: 1rem 2rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            cursor: pointer;
+            z-index: 90;
+            transition: all 0.3s;
+            box-shadow: 0 0 20px rgba(249, 115, 22, 0.2);
+            opacity: 0;
+        }
+        .archive-btn:hover {
+            background: var(--tension-color);
+            color: #000;
+            box-shadow: 0 0 40px rgba(249, 115, 22, 0.6);
+        }
+
+        /* --- IMAGES --- */
+        .img-container {
+            position: relative;
+            overflow: hidden;
+            border: 1px solid var(--grid-line);
+        }
+        .img-container img {
+            filter: grayscale(100%) contrast(1.2);
+            transition: transform 1.5s ease;
+        }
+        .img-container:hover img {
+            filter: grayscale(0%) contrast(1.2);
+            transform: scale(1.05);
+        }
+
+        /* --- MENU GLOBAL --- */
+        .menu-overlay {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(28, 25, 23, 0.98);
+            backdrop-filter: blur(15px);
+            z-index: 200; transform: translateY(-100%);
+            transition: transform 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+            display: flex; flex-direction: column; justify-content: center; align-items: center;
+        }
+        .menu-overlay.open { transform: translateY(0); }
+        .menu-link {
+            font-family: 'Chakra Petch', sans-serif; font-size: 2rem; color: var(--text-color); margin: 1rem 0;
+            text-transform: uppercase; text-decoration: none; transition: color 0.3s, transform 0.3s;
+        }
+        .menu-link:hover { color: var(--tension-color); transform: scale(1.1); }
+        .close-menu-btn {
+            position: absolute; top: 2rem; right: 2rem; background: transparent;
+            border: 1px solid var(--tension-color); color: var(--tension-color); padding: 0.5rem 1rem; cursor: pointer;
+        }
+        .close-menu-btn:hover { background: var(--tension-color); color: black; }
+
+    </style>
+</head>
+<body>
+
+    <!-- NAVIGATION BAR -->
+    <nav class="nav-bar">
+        <div class="text-xs tracking-widest text-orange-300">PROTOKIN // BUREAU D'ÉTUDES</div>
+        <button onclick="toggleGlobalMenu()" class="text-xs border border-orange-800 px-3 py-1 text-orange-400 hover:bg-orange-900 transition-colors uppercase tracking-widest">
+            MENU PRINCIPAL
+        </button>
+    </nav>
+
+    <!-- NOTE: Le conteneur HTML du menu (.menu-overlay) a été supprimé d'ici.
+         Il est maintenant injecté par le script menu.js simulé ci-dessous. -->
+
+    <!-- BOUTON LECTURE -->
+    <button class="archive-btn" onclick="toggleDrawer()">
+        [+] ANALYSE PHYSIQUE
+    </button>
+
+    <!-- DRAWER DE LECTURE -->
+    <aside class="reader-drawer" id="reader">
+        <div class="p-6 border-b border-orange-900 flex justify-between items-center bg-[#0c0a09]">
+            <span class="text-xs text-orange-400">RAPPORT D'ANALYSE</span>
+            <button onclick="toggleDrawer()" class="text-orange-500 hover:text-white">[FERMER]</button>
+        </div>
+        <div class="reader-content">
+            <h2 class="text-3xl font-bold text-white mb-6 font-tech">MÉTASTABILITÉ</h2>
+            <p><strong>Sujet :</strong> Pourquoi l'équilibre est synonyme de mort et le déséquilibre synonyme de vie.</p>
+            
+            <h3>1. L'Erreur de la Stabilité</h3>
+            <p>La Doxa nous dit de chercher "l'équilibre" (Work-Life balance, stabilité émotionnelle). C'est une erreur thermodynamique. Un système à l'équilibre (entropie maximale) n'a plus d'énergie potentielle. Il est mort. La pierre est stable. Le cadavre est stable.</p>
+            
+            <blockquote>
+                "Vivre, c'est être en déséquilibre perpétuel rattrapé."
+            </blockquote>
+
+            <h3>2. L'État Métastable</h3>
+            <p>C'est un état chargé d'énergie, riche en potentiels, prêt à changer de phase. Comme une eau surfondue (liquide à -5°C) qui attend un choc pour cristalliser. L'être métastable est "plus qu'unité", il porte en lui une réserve de transformations futures.</p>
+
+            <h3>3. L'Angoisse comme Signal</h3>
+            <p>L'angoisse n'est pas une pathologie, c'est le signal que vous êtes métastable. Vous sentez la tension de vos possibles non réalisés. Vouloir supprimer l'angoisse (le calme plat), c'est vouloir la mort thermique.</p>
+            
+            <div class="mt-12 pt-6 border-t border-orange-900 text-xs text-gray-500 font-mono">
+                FIN DE L'ARCHIVE B-202
+            </div>
+        </div>
+    </aside>
+
+    <!-- CONTENU PRINCIPAL -->
+    <main class="relative z-10">
+
+        <!-- INTRO -->
+        <section class="min-h-screen flex flex-col justify-center items-center px-6 text-center" id="intro">
+            <h1 class="chapter-header font-tech mb-6">
+                MÉTA<br><span style="color:var(--tension-color)">STABILITÉ</span>
+            </h1>
+            <p class="text-orange-400 text-sm tracking-[0.5em] animate-pulse font-bold mt-8">
+                L'ÉQUILIBRE EST LA MORT
+            </p>
+        </section>
+
+        <!-- PHASE 1 : LE GYROSCOPE -->
+        <section class="min-h-screen py-24 px-6 flex flex-col items-center">
+            <div class="max-w-4xl w-full grid md:grid-cols-2 gap-12 items-center">
+                
+                <div class="img-container reveal">
+                    <!-- Image de toupie ou funambule -->
+                    <img src="" class="w-full h-full object-cover" alt="Gyroscope">
+                </div>
+
+                <div class="text-panel reveal p-8 border-l-2 border-orange-500 bg-orange-900/10 backdrop-blur">
+                    <span class="text-xs text-orange-400 mb-4 block">PHASE 01 : MOUVEMENT</span>
+                    <h2 class="text-2xl mb-4 font-bold text-white">Tenir par la Vitesse</h2>
+                    <p class="text-sm text-gray-300 leading-relaxed">
+                        Le vélo ne tient que s'il avance. La toupie ne tient que si elle tourne.
+                        <br><br>
+                        Dès que le mouvement s'arrête, la gravité gagne. La stabilité n'est pas un état (statique), c'est un acte (dynamique).
+                    </p>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- PHASE 2 : INTERACTION (SIMULATEUR DE TENSION) -->
+        <section class="min-h-screen py-24 px-6 flex flex-col justify-center items-center bg-[#0c0a09]">
+            <h2 class="text-xl mb-2 tracking-widest text-orange-400 font-tech">SIMULATEUR DE TENSION</h2>
+            <p class="text-xs text-gray-500 mb-8 max-w-md text-center">
+                Maintenez l'énergie dans le système pour éviter l'effondrement. Bougez la souris.
+            </p>
+
+            <div id="p5-container"></div> 
+
+            <div class="control-panel text-center">
+                <p class="text-xs text-gray-400 mb-2">NIVEAU D'ÉNERGIE (MOUVEMENT)</p>
+                <div class="w-full bg-gray-800 h-2 rounded overflow-hidden">
+                    <div id="energy-bar" class="h-full bg-orange-500 w-0 transition-all duration-100"></div>
+                </div>
+                <div id="status" class="mt-4 text-xs font-mono text-red-500">ÉTAT : CRITIQUE (EFFONDREMENT)</div>
+            </div>
+        </section>
+
+        <!-- PHASE 3 : LE POTENTIEL -->
+        <section class="min-h-screen py-24 px-6 flex flex-col justify-center items-center relative">
+            <div class="absolute inset-0 z-0 opacity-20">
+                <!-- Image d'orage ou tension électrique -->
+                <img src="" class="w-full h-full object-cover grayscale" alt="Tension">
+            </div>
+
+            <div class="text-panel reveal z-10 text-center max-w-xl p-8 border border-white/10 bg-black/80">
+                <span class="text-xs text-orange-400 mb-4 block">PHASE 03 : SURCHARGE</span>
+                <h2 class="text-3xl mb-6 font-bold text-white">La Richesse du Trouble</h2>
+                <p class="text-sm text-gray-300 leading-relaxed">
+                    Ne cherchez pas le calme. Cherchez la bonne tension.
+                    <br><br>
+                    C'est dans le déséquilibre que se loge l'énergie créatrice. Un esprit en paix est un esprit vide. Un esprit métastable est une forge.
+                </p>
+            </div>
+        </section>
+
+        <!-- CONCLUSION -->
+        <section class="h-[50vh] flex flex-col justify-center items-center text-center border-t border-orange-900 bg-[#0b0014]">
+            <p class="text-xs text-gray-500 mb-4 uppercase tracking-widest">FIN DE LA SÉQUENCE</p>
+            <h2 class="text-4xl font-tech text-white mb-8">LA VIE EST<br>UN RISQUE</h2>
+            
+            <a href="#" class="border border-orange-500 text-orange-500 px-8 py-3 hover:bg-orange-500 hover:text-black transition-colors uppercase font-bold text-xs tracking-widest" onclick="alert('Lien vers le Chapitre suivant : Le Tempo')">
+                SUITE : LE TEMPO
+            </a>
+        </section>
+
+    </main>
+	
+	    <!-- SCRIPT DU MENU (À EXTERNALISER DANS menu.js) -->
+    <script src="menu_bureau.js"></script>
+
+    <script>
+        gsap.registerPlugin(ScrollTrigger);
+
+
+        // --- 1. INTÉGRATION P5.JS (Simulateur de Particules Métastables) ---
+        const s = (sketch) => {
+            let particles = [];
+            let energy = 0;
+            let statusText;
+            let energyBar;
+
+            sketch.setup = () => {
+                let canvas = sketch.createCanvas(600, 500);
+                canvas.parent('p5-container');
+                statusText = document.getElementById('status');
+                energyBar = document.getElementById('energy-bar');
+
+                // Init particles in a circle (stable state)
+                for (let i = 0; i < 100; i++) {
+                    particles.push({
+                        pos: sketch.createVector(sketch.width/2, sketch.height/2),
+                        vel: p5.Vector.random2D(),
+                        home: sketch.createVector(sketch.width/2 + sketch.cos(i*0.1)*100, sketch.height/2 + sketch.sin(i*0.1)*100)
+                    });
+                }
+            };
+
+            sketch.draw = () => {
+                sketch.background(0, 20); // Trail effect
+                
+                // Energy decay
+                energy *= 0.98;
+                
+                // Add energy on mouse movement inside canvas
+                if (sketch.mouseX > 0 && sketch.mouseX < sketch.width && sketch.mouseY > 0 && sketch.mouseY < sketch.height) {
+                    let d = sketch.dist(sketch.mouseX, sketch.mouseY, sketch.pmouseX, sketch.pmouseY);
+                    energy += d * 0.5;
+                }
+                energy = sketch.constrain(energy, 0, 100);
+
+                // Update UI
+                energyBar.style.width = energy + '%';
+                if (energy > 80) {
+                    statusText.innerText = "ÉTAT : CHAOTIQUE (TROP D'ÉNERGIE)";
+                    statusText.style.color = "#f97316"; // Orange
+                } else if (energy > 20) {
+                    statusText.innerText = "ÉTAT : MÉTASTABLE (VIVANT)";
+                    statusText.style.color = "#38bdf8"; // Cyan
+                } else {
+                    statusText.innerText = "ÉTAT : STABLE (MORT)";
+                    statusText.style.color = "#ef4444"; // Red
+                }
+
+                // Particle Logic
+                sketch.noStroke();
+                particles.forEach(p => {
+                    if (energy > 20) {
+                        // Alive: Move organically
+                        let noiseVal = sketch.noise(p.pos.x * 0.01, p.pos.y * 0.01, sketch.frameCount * 0.01);
+                        let angle = noiseVal * sketch.TWO_PI * 4;
+                        let force = p5.Vector.fromAngle(angle);
+                        force.mult(energy * 0.05);
+                        p.vel.add(force);
+                        p.vel.limit(5);
+                    } else {
+                        // Dead: Fall to bottom center (Gravity/Collapse)
+                        let dir = p5.Vector.sub(sketch.createVector(sketch.width/2, sketch.height-50), p.pos);
+                        dir.normalize();
+                        dir.mult(0.5);
+                        p.vel.add(dir);
+                        p.vel.mult(0.9); // Friction
+                    }
+
+                    p.pos.add(p.vel);
+
+                    // Boundaries (Bounce)
+                    if (p.pos.x < 0 || p.pos.x > sketch.width) p.vel.x *= -1;
+                    if (p.pos.y < 0 || p.pos.y > sketch.height) p.vel.y *= -1;
+
+                    // Color based on energy
+                    if (energy > 20) sketch.fill(249, 115, 22); // Orange
+                    else sketch.fill(100); // Grey
+
+                    sketch.circle(p.pos.x, p.pos.y, 4);
+                });
+            };
+        };
+
+        new p5(s);
+
+        // --- 2. ANIMATIONS GSAP ---
+        gsap.to(".chapter-header", {
+            opacity: 1, scale: 1, duration: 2, ease: "power4.out", delay: 0.5
+        });
+
+        ScrollTrigger.create({
+            trigger: "#intro",
+            start: "bottom center",
+            onEnter: () => gsap.to(".archive-btn", { opacity: 1, y: 0, duration: 0.5 }),
+            onLeaveBack: () => gsap.to(".archive-btn", { opacity: 0, y: 20, duration: 0.5 })
+        });
+
+        gsap.utils.toArray('.reveal').forEach(elem => {
+            gsap.fromTo(elem, 
+                { y: 50, opacity: 0 },
+                {
+                    scrollTrigger: {
+                        trigger: elem,
+                        start: "top 85%",
+                        toggleActions: "play none none reverse"
+                    },
+                    y: 0, opacity: 1, duration: 1
+                }
+            );
+        });
+
+        // 3. FONCTION TIROIR
+        function toggleDrawer() {
+            document.getElementById('reader').classList.toggle('open');
+            document.body.style.overflow = document.getElementById('reader').classList.contains('open') ? 'hidden' : 'auto';
+        }
+
+    </script>
+</body>
+</html>

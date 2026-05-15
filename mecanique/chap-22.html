@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROTOCOLE 22 : KAIROS</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,600;1,400&family=Inter:wght@300;400&display=swap');
+
+        :root {
+            --bg-color: #fcfbf9; /* Papier de riz */
+            --text-color: #1c1917; /* Encre noire */
+            --accent-color: #b91c1c; /* Sceau rouge */
+            --void-color: #e5e5e5;
+        }
+
+        /* Dark mode inversion for continuity but keeping the paper feel */
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg-color: #0c0a09;
+                --text-color: #e7e5e4;
+                --void-color: #292524;
+            }
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+            selection-background-color: var(--accent-color);
+            selection-color: #fff;
+        }
+
+        .font-zen {
+            font-family: 'Cormorant Garamond', serif;
+        }
+
+        /* Ink Texture Background */
+        .ink-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background-image: url("data:image/svg+xml,%3Csvg width='200' height='200' viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.05'/%3E%3C/svg%3E");
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        /* Scanline (Subtle) */
+        .scanline {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background: linear-gradient(to bottom, transparent 50%, rgba(0, 0, 0, 0.02) 50%);
+            background-size: 100% 4px;
+            pointer-events: none;
+            z-index: 50;
+        }
+
+        /* Reveal Animations */
+        .reveal {
+            opacity: 0;
+            transform: translateY(20px);
+            transition: all 1.5s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .reveal.active {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* The Bow Tension Animation */
+        .bow-container {
+            width: 2px;
+            height: 300px;
+            background: var(--text-color);
+            margin: 0 auto;
+            position: relative;
+            transform-origin: center;
+        }
+        .bow-string {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: transparent;
+            border-right: 1px solid var(--text-color);
+            border-radius: 50%;
+            transform: scaleX(0.1);
+            transition: transform 3s ease-out;
+        }
+        .reveal.active .bow-string {
+            transform: scaleX(20) translateX(-10px); /* Bending */
+        }
+        
+        .arrow-line {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            height: 2px;
+            width: 0;
+            background: var(--accent-color);
+            transform: translate(-50%, -50%);
+            transition: width 0.2s cubic-bezier(0.1, 0.7, 1.0, 0.1);
+            transition-delay: 3s; /* Wait for tension */
+        }
+        .reveal.active .arrow-line {
+            width: 200px;
+            opacity: 0;
+            animation: shoot 0.5s forwards 3s;
+        }
+
+        @keyframes shoot {
+            0% { width: 50px; opacity: 1; transform: translate(-50%, -50%); }
+            100% { width: 50px; opacity: 0; transform: translate(500px, -50%); }
+        }
+
+        /* Enso Circle (CSS) */
+        .enso {
+            width: 150px;
+            height: 150px;
+            border: 8px solid transparent;
+            border-top: 8px solid var(--text-color);
+            border-right: 6px solid var(--text-color);
+            border-bottom: 2px solid var(--text-color);
+            border-left: 1px solid transparent;
+            border-radius: 50%;
+            transform: rotate(-45deg);
+            margin: 0 auto;
+            opacity: 0.8;
+            filter: blur(1px);
+        }
+
+        .seal-stamp {
+            border: 2px solid var(--accent-color);
+            color: var(--accent-color);
+            width: 60px;
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Cormorant Garamond', serif;
+            font-weight: bold;
+            font-size: 1.2rem;
+            border-radius: 4px;
+            transform: rotate(15deg);
+            margin: 20px auto;
+        }
+
+    </style>
+</head>
+<body class="antialiased min-h-screen flex flex-col">
+
+    <div class="scanline"></div>
+    <div class="ink-bg"></div>
+
+    <!-- Nav -->
+    <nav class="fixed top-0 w-full z-50 bg-opacity-90 backdrop-blur border-b border-gray-200/10 py-4 px-6 flex justify-between items-center font-zen text-xl tracking-widest text-gray-500">
+        <div class="opacity-70 hover:opacity-100 transition-opacity cursor-pointer">Proto.kin</div>
+        <div class="text-[var(--accent-color)] animate-pulse">● FINAL_ACT</div>
+        <div class="opacity-70">Seq_22.log</div>
+    </nav>
+
+    <!-- Content -->
+    <main class="flex-grow pt-32 pb-20 px-4 md:px-0 relative z-20">
+        <article class="max-w-2xl mx-auto space-y-32">
+            
+            <!-- Header -->
+            <header class="reveal space-y-8 pb-12 text-center border-b border-gray-200/20">
+                <div class="font-sans text-xs text-gray-400 mb-2 tracking-[0.3em] uppercase">Le Moment Opportun</div>
+                <h1 class="text-6xl md:text-9xl font-medium leading-none tracking-tighter text-[var(--text-color)] font-zen italic">
+                    KAI<br><span class="text-[var(--accent-color)] not-italic">ROS</span>
+                </h1>
+                <div class="flex justify-center items-center space-x-4 text-gray-500 font-sans text-xs mt-6 uppercase">
+                    <span class="border border-gray-500 px-2 py-1">CHAPITRE 22</span>
+                    <span>//</span>
+                    <span>L'ACTION SANS EFFORT</span>
+                </div>
+            </header>
+
+            <!-- Section 1: Ancrage -->
+            <section class="reveal space-y-8 p-8 text-center">
+                <h2 class="font-sans text-xs text-[var(--accent-color)] uppercase tracking-widest mb-8">01. Le Dojo</h2>
+                
+                <div class="relative h-64 mb-8">
+                    <div class="bow-container">
+                        <div class="bow-string"></div>
+                        <div class="arrow-line"></div>
+                    </div>
+                </div>
+
+                <p class="text-2xl font-zen leading-relaxed text-[var(--text-color)]">
+                    "Ne tirez pas. Attendez que <em class="text-[var(--accent-color)]">ça</em> tire."
+                </p>
+                <p class="text-lg text-gray-500 mt-6 leading-relaxed font-sans font-light">
+                    La volonté crispe. La présence libère.<br>
+                    Le coup part quand la tension est mûre.
+                </p>
+            </section>
+
+            <!-- Section 2: Science -->
+            <section class="reveal space-y-12">
+                <h2 class="font-sans text-xs text-gray-400 uppercase tracking-widest mb-4 text-center">02. Wu-Wei (Non-Agir)</h2>
+                
+                <div class="grid gap-8 text-center">
+                    <!-- Micro -->
+                    <div class="p-6 border-t border-b border-gray-200/10 hover:bg-gray-100/5 transition-colors">
+                        <h3 class="font-zen text-2xl font-bold mb-2">LA CATALYSE</h3>
+                        <p class="text-sm text-gray-500 font-sans">
+                            Le catalyseur ne fournit pas d'énergie. Il abaisse le seuil. Il crée le chemin de moindre résistance.
+                        </p>
+                    </div>
+
+                    <!-- Meso -->
+                    <div class="p-6 border-t border-b border-gray-200/10 hover:bg-gray-100/5 transition-colors">
+                        <h3 class="font-zen text-2xl font-bold mb-2">LE SURFEUR</h3>
+                        <p class="text-sm text-gray-500 font-sans">
+                            Il ne crée pas la vague. Il l'attend. Il synchronise sa petite vitesse avec la grande puissance.
+                        </p>
+                    </div>
+
+                    <!-- Macro -->
+                    <div class="p-6 border-t border-b border-gray-200/10 hover:bg-gray-100/5 transition-colors">
+                        <h3 class="font-zen text-2xl font-bold mb-2">LA PROPENSION</h3>
+                        <p class="text-sm text-gray-500 font-sans">
+                            Le stratège ne cherche pas l'héroïsme. Il place le rocher en haut de la pente et attend. La victoire est une chute.
+                        </p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Section 3: Totem -->
+            <section class="reveal py-16 text-center space-y-8 relative">
+                <div class="enso"></div>
+                
+                <h2 class="font-mono text-xs text-gray-400 uppercase tracking-widest relative z-10 mt-8">IMAGE TOTEM</h2>
+                <div class="text-5xl md:text-7xl font-medium text-[var(--text-color)] tracking-tight relative z-10 font-zen">
+                    L'ARCHER ZEN
+                </div>
+                <p class="text-gray-500 italic max-w-md mx-auto relative z-10 mt-4 font-sans">
+                    "Il ne vise pas la cible. Il vise l'alignement."
+                </p>
+            </section>
+
+            <!-- Section 4: Action -->
+            <section class="reveal space-y-6 text-center">
+                <h2 class="font-sans text-xl text-[var(--accent-color)] uppercase tracking-widest mb-4">03. La Pause de 3 Secondes</h2>
+                
+                <div class="inline-block p-8 border border-gray-200/20 rounded-full">
+                    <p class="font-zen text-3xl mb-2">1... 2... 3...</p>
+                    <p class="text-xs text-gray-500 font-sans uppercase tracking-widest">Est-ce que ça tire ?</p>
+                </div>
+            </section>
+
+            <!-- Footer -->
+            <footer class="reveal pt-32 pb-24 mt-12 text-center">
+                <div class="w-px h-24 bg-gray-300 mx-auto mb-8"></div>
+                <p class="font-sans text-xs text-gray-400 uppercase mb-4">Fin du Système Protokin</p>
+                <div class="seal-stamp">FIN</div>
+                <p class="text-xl font-zen italic mt-8 text-[var(--text-color)]">
+                    "Maintenant, oubliez tout. Et vivez."
+                </p>
+            </footer>
+
+        </article>
+    </main>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('active');
+                    }
+                });
+            }, { threshold: 0.1 });
+
+            document.querySelectorAll('.reveal').forEach((el) => observer.observe(el));
+        });
+    </script>
+</body>
+</html>
+

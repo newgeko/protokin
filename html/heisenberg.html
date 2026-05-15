@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="fr" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LABO // MICRO-01 : HEISENBERG</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400;600&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <!-- MathJax pour le rendu des équations -->
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    
+    <style>
+        body { font-family: 'Inter', sans-serif; background-color: #f8fafc; color: #0f172a; }
+        .serif { font-family: 'Lora', serif; }
+        .mono { font-family: 'JetBrains Mono', monospace; }
+        
+        /* Grille Technique de Fond */
+        .bg-grid-tech {
+            background-image: 
+                linear-gradient(to right, rgba(15, 23, 42, 0.05) 1px, transparent 1px),
+                linear-gradient(to bottom, rgba(15, 23, 42, 0.05) 1px, transparent 1px);
+            background-size: 20px 20px;
+        }
+
+        /* Style du Slider Industriel */
+        input[type=range] {
+            -webkit-appearance: none;
+            width: 100%;
+            background: transparent;
+        }
+        input[type=range]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            height: 24px;
+            width: 12px;
+            background: #0f172a;
+            cursor: ew-resize;
+            margin-top: -10px;
+            border: 1px solid #fff;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+        input[type=range]::-webkit-slider-runnable-track {
+            width: 100%;
+            height: 4px;
+            background: #cbd5e1;
+            border-radius: 2px;
+        }
+        input[type=range]:focus { outline: none; }
+
+        /* La Particule Quantique */
+        .quantum-particle {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            border-radius: 50%;
+            /* Le flou et la taille seront gérés par JS */
+            background: radial-gradient(circle, rgba(15,118,110,1) 0%, rgba(15,118,110,0) 70%);
+            mix-blend-mode: screen;
+        }
+
+        /* Effet Scanline */
+        .scanline {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0; left: 0;
+            background: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,255,255,0) 50%, rgba(0,0,0,0.1) 50%, rgba(0,0,0,0.1));
+            background-size: 100% 4px;
+            pointer-events: none;
+            z-index: 10;
+        }
+    </style>
+</head>
+<body class="selection:bg-teal-900 selection:text-white">
+
+    <!-- NAV : RETOUR AU SYSTÈME -->
+    <nav class="fixed top-0 w-full bg-slate-50/90 backdrop-blur border-b border-slate-200 z-50 h-12 flex items-center justify-between px-6">
+        <a href="index.html" class="mono text-[10px] hover:text-teal-700 transition-colors flex items-center gap-2">
+            <span>←</span> RETOUR AU SYSTÈME
+        </a>
+        <div class="mono text-[10px] text-slate-400">
+            MODULE: MICRO_01 // STATUT: ACTIF
+        </div>
+    </nav>
+
+    <!-- HEADER : L'AVERTISSEMENT -->
+    <header class="pt-32 pb-16 px-6 max-w-4xl mx-auto text-center">
+        <div class="inline-block border border-amber-600 text-amber-600 px-2 py-1 mono text-[10px] mb-6 uppercase tracking-widest animate-pulse">
+            Attention : L'observation est destructrice
+        </div>
+        <h1 class="text-4xl md:text-6xl serif font-bold text-slate-900 mb-6 leading-tight">
+            Le Coût de la Précision
+        </h1>
+        <p class="text-slate-500 max-w-xl mx-auto text-sm leading-relaxed font-medium">
+            Dans le monde macroscopique, on peut savoir où est une voiture et à quelle vitesse elle roule.<br>
+            Dans le micro-monde, c'est interdit. Choisir la position, c'est tuer la vitesse.
+        </p>
+    </header>
+
+    <!-- EXPÉRIENCE : LA CHAMBRE QUANTIQUE -->
+    <section class="max-w-5xl mx-auto px-6 mb-24">
+        <div class="bg-white border border-slate-200 shadow-2xl relative overflow-hidden rounded-sm">
+            
+            <!-- 1. VISUALISATION (Le Noir) -->
+            <div class="h-[400px] bg-slate-900 relative overflow-hidden flex items-center justify-center border-b border-slate-800" id="chamber">
+                
+                <div class="scanline"></div>
+                
+                <!-- Grille de Mesure (Apparait avec l'observation) -->
+                <div id="measure-grid" class="absolute inset-0 opacity-0 transition-opacity duration-300 pointer-events-none" 
+                     style="background-image: linear-gradient(to right, #0f766e 1px, transparent 1px); background-size: 50px 100%;">
+                </div>
+
+                <!-- La Particule (Générée par JS) -->
+                <div id="particle" class="quantum-particle w-64 h-64 bg-teal-500/50 blur-xl"></div>
+
+                <!-- HUD (Données) -->
+                <div class="absolute top-4 right-4 mono text-[10px] text-right space-y-2 z-20">
+                    <div class="text-slate-500">PARAMÈTRES D'ÉTAT</div>
+                    <div class="text-teal-400">Δx (POSITION): <span id="val-dx" class="text-white">∞</span></div>
+                    <div class="text-teal-400">Δp (MOMENTUM): <span id="val-dp" class="text-white">0</span></div>
+                    <div id="collapse-warning" class="text-amber-500 font-bold hidden border border-amber-500 px-2 py-1 mt-2 bg-amber-900/20">
+                        ⚠ EFFONDREMENT ONDULATOIRE
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2. CONTRÔLE (Le Slider) -->
+            <div class="p-8 bg-slate-50 border-t border-slate-200">
+                <div class="flex flex-col md:flex-row gap-12 items-center">
+                    
+                    <!-- Le Levier -->
+                    <div class="w-full md:w-1/2">
+                        <label class="flex justify-between mono text-[10px] text-slate-500 mb-4 uppercase tracking-widest">
+                            <span>Intensité du Regard</span>
+                            <span id="intensity-val">0%</span>
+                        </label>
+                        <input type="range" min="0" max="100" value="0" id="observer-control" step="1">
+                        <div class="flex justify-between mt-3 mono text-[8px] text-slate-400 uppercase">
+                            <span>Regard Flou (Onde)</span>
+                            <span>Regard Fixe (Corpuscule)</span>
+                        </div>
+                    </div>
+
+                    <!-- Le Feedback -->
+                    <div class="w-full md:w-1/2 text-xs text-slate-600 leading-relaxed border-l-2 border-teal-500 pl-6 py-2 transition-colors duration-300" id="feedback-border">
+                        <p id="feedback-text">
+                            <span class="font-bold text-teal-700">ÉTAT : ONDE PURE.</span><br>
+                            Vous ne regardez pas. La particule est "partout à la fois". Elle possède une énergie pure, mais aucune position définie. C'est un potentiel vivant.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- DIDACTIQUE : LA LOI D'AIRAIN -->
+    <section class="max-w-3xl mx-auto px-6 pb-24 space-y-16">
+        
+        <!-- Bloc Théorique -->
+        <div>
+            <h3 class="serif text-2xl text-slate-900 mb-4 italic">L'Inégalité Fondamentale</h3>
+            <p class="text-slate-600 leading-relaxed mb-8 text-sm">
+                Werner Heisenberg a formalisé cette tragédie en 1927. Ce n'est pas un problème de technologie (nos microscopes ne sont pas "trop mauvais"). C'est une limite fondamentale de l'Univers. On ne peut pas tout savoir en même temps.
+            </p>
+            
+            <div class="bg-white border border-slate-200 p-8 text-center shadow-sm relative overflow-hidden">
+                <div class="absolute top-0 left-0 w-1 h-full bg-slate-900"></div>
+                <div class="font-serif text-2xl text-slate-900 mb-4">
+                    $$ \Delta x \cdot \Delta p \geq \frac{\hbar}{2} $$
+                </div>
+                <div class="mono text-[10px] text-slate-400 uppercase tracking-widest">
+                    Incertitude Position × Incertitude Vitesse ≥ Constante
+                </div>
+            </div>
+        </div>
+
+        <!-- Bloc Philosophique (Protokin) -->
+        <div class="bg-slate-100 p-8 border-l-4 border-amber-500">
+            <div class="flex items-center gap-2 mb-4">
+                <span class="mono text-xs text-amber-600 uppercase tracking-widest font-bold">Interprétation Protokinienne</span>
+            </div>
+            <h3 class="serif text-xl text-slate-900 mb-4">"Définir, c'est Finir."</h3>
+            <div class="prose prose-slate prose-sm text-slate-600">
+                <p>
+                    Nous passons notre vie à vouloir "faire le point". Nous voulons définir les gens ("Il est timide"), figer les situations ("C'est un échec"), arrêter le temps pour le comprendre.
+                </p>
+                <p>
+                    Le laboratoire nous prouve que c'est une erreur ontologique. <strong>Plus vous définissez une chose (Position), plus vous tuez sa dynamique (Vitesse).</strong>
+                </p>
+                <p>
+                    Le Protokin est l'art d'accepter le flou. Accepter que pour conserver la puissance d'agir (le Momentum), il faut renoncer à savoir exactement où l'on se trouve. Il faut vivre en nuage de probabilités plutôt qu'en point fixe.
+                </p>
+            </div>
+        </div>
+
+        <!-- Navigation Labo -->
+        <div class="grid grid-cols-2 gap-4 pt-8 border-t border-slate-200">
+            <a href="#" class="block p-4 border border-slate-200 hover:border-slate-900 transition-colors opacity-50 cursor-not-allowed">
+                <span class="mono text-[10px] text-slate-400">PRÉCÉDENT</span>
+                <div class="font-bold text-slate-300 text-sm">--</div>
+            </a>
+            <a href="#" class="block p-4 border border-slate-200 hover:border-teal-700 hover:bg-teal-50 transition-colors text-right group">
+                <span class="mono text-[10px] text-teal-600">SUIVANT : MICRO-02</span>
+                <div class="font-bold text-slate-900 text-sm group-hover:text-teal-800">La Surfusion -></div>
+            </a>
+        </div>
+
+    </section>
+
+    <!-- SCRIPT DE SIMULATION -->
+    <script>
+        const slider = document.getElementById('observer-control');
+        const particle = document.getElementById('particle');
+        const grid = document.getElementById('measure-grid');
+        const valDx = document.getElementById('val-dx');
+        const valDp = document.getElementById('val-dp');
+        const warning = document.getElementById('collapse-warning');
+        const feedback = document.getElementById('feedback-text');
+        const feedbackBorder = document.getElementById('feedback-border');
+        const intensityDisplay = document.getElementById('intensity-val');
+
+        // Variables de simulation
+        let time = 0;
+        let speed = 0.15; // Vitesse de base de l'onde
+        let baseWidth = 300; // Largeur max du nuage (px)
+
+        function animate() {
+            const intensity = parseInt(slider.value) / 100; // 0.0 à 1.0
+            
+            // Mise à jour de l'affichage du slider
+            intensityDisplay.innerText = `${Math.round(intensity * 100)}%`;
+
+            // LOGIQUE HEISENBERG : 
+            // Si Intensité augmente -> Position devient précise (width diminue) -> Vitesse diminue (speed tend vers 0)
+            
+            // 1. Calcul de la dynamique
+            const currentSpeed = speed * (1 - Math.pow(intensity, 0.5)); // La vitesse chute vite
+            time += currentSpeed;
+
+            // 2. Calcul de la géométrie (Le nuage se contracte)
+            // À 0% : Largeur 300px. À 100% : Largeur 10px.
+            const currentWidth = 10 + (1 - intensity) * baseWidth;
+            const currentHeight = 10 + (1 - intensity) * 100; // Hauteur varie aussi un peu
+            const currentBlur = (1 - intensity) * 40; // Flou max 40px
+
+            // 3. Mouvement oscillatoire (L'onde)
+            // L'amplitude diminue légèrement quand on observe, pour simuler la contrainte
+            const amplitude = 100 * (1 - intensity * 0.5);
+            const xPos = Math.sin(time * 2) * amplitude;
+            const yPos = Math.cos(time * 3) * (amplitude * 0.3); // Mouvement complexe
+
+            // APPLICATION VISUELLE
+            particle.style.width = `${currentWidth}px`;
+            particle.style.height = `${currentHeight}px`;
+            
+            // Gestion de l'Effondrement (Le seuil critique)
+            if(intensity > 0.95) {
+                // ÉTAT : CORPUSCULE (MORT)
+                particle.style.transform = `translate(-50%, -50%)`; // Figé au centre absolu
+                particle.style.filter = `blur(0px)`;
+                particle.style.background = `radial-gradient(circle, #d97706 0%, rgba(217,119,6,0.2) 60%)`; // Amber (Alerte)
+                particle.style.boxShadow = `0 0 20px #d97706`;
+                
+                grid.style.opacity = 1;
+                warning.classList.remove('hidden');
+                feedbackBorder.classList.replace('border-teal-500', 'border-amber-500');
+                
+                valDx.innerText = "0.000 nm (FIXE)";
+                valDp.innerText = "∞ (INCONNU)";
+                
+                feedback.innerHTML = `<span class="text-amber-600 font-bold">EFFONDREMENT DE LA FONCTION D'ONDE.</span><br>Vous avez tué le mouvement. Vous savez exactement où est la particule, mais elle ne va plus nulle part. Elle est devenue un objet inerte.`;
+
+            } else {
+                // ÉTAT : ONDE (VIVANT)
+                particle.style.transform = `translate(calc(-50% + ${xPos}px), calc(-50% + ${yPos}px))`;
+                particle.style.filter = `blur(${currentBlur}px)`;
+                particle.style.background = `radial-gradient(circle, rgba(15,118,110,1) 0%, rgba(15,118,110,0) 70%)`; // Teal
+                particle.style.boxShadow = `none`;
+                
+                grid.style.opacity = intensity; // La grille apparait doucement
+                warning.classList.add('hidden');
+                feedbackBorder.classList.replace('border-amber-500', 'border-teal-500');
+
+                // Simulation des chiffres
+                if(intensity < 0.1) {
+                    valDx.innerText = "∞ (NUAGE)";
+                    valDp.innerText = "PRÉCISE";
+                    feedback.innerHTML = `<span class="font-bold text-teal-700">ÉTAT : ONDE PURE.</span><br>La matière est musique. Elle n'est pas localisée. Laissez le curseur à gauche pour voir la vie.`;
+                } else {
+                    // Chiffres qui s'affolent
+                    let dxVal = (Math.random() * (1-intensity) * 100).toFixed(2);
+                    let dpVal = (Math.random() * intensity * 1000).toFixed(0);
+                    valDx.innerText = `~${dxVal} nm`;
+                    valDp.innerText = `~${dpVal} kg⋅m/s`;
+                    feedback.innerHTML = `<span class="font-bold text-slate-700">ÉTAT : HYBRIDE.</span><br>Vous commencez à focaliser. Le nuage se contracte. La vitesse ralentit. Vous perdez de l'information sur le mouvement.`;
+                }
+            }
+
+            requestAnimationFrame(animate);
+        }
+
+        // Démarrage
+        animate();
+
+    </script>
+</body>
+</html>

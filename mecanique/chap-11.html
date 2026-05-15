@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROTOCOLE 11 : EXCRÉTION</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=JetBrains+Mono:wght@400;700&display=swap');
+
+        :root {
+            --bg-color: #1c1917; /* Pierre sombre, Stone-900 */
+            --text-color: #d6d3d1; /* Stone-300 */
+            --sharp-color: #e7e5e4; /* Éclat de silex, presque blanc */
+            --danger-color: #ca8a04; /* Ocre/Or primitif */
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+            selection-background-color: var(--danger-color);
+            selection-color: #000;
+        }
+
+        .font-mono {
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        /* Stone Texture Background */
+        .stone-texture {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 18c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm48 25c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm-43-7c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm63 31c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM34 90c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm56-76c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM12 86c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm28-65c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm23-11c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-6 60c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm29 22c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zM32 63c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm57-13c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-9-21c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM60 91c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM35 41c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM12 60c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2z' fill='%23ffffff' fill-opacity='0.03' fill-rule='evenodd'/%3E%3C/svg%3E");
+            pointer-events: none;
+            z-index: 10;
+        }
+
+        /* Scanline */
+        .scanline {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background: linear-gradient(to bottom, transparent 50%, rgba(202, 138, 4, 0.02) 50%);
+            background-size: 100% 4px;
+            pointer-events: none;
+            z-index: 50;
+        }
+
+        /* Reveal Animations */
+        .reveal {
+            opacity: 0;
+            transform: translateY(20px);
+            transition: all 1s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .reveal.active {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* Sharp Edge CSS Shape */
+        .flint-shape {
+            clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+            transition: all 0.3s ease;
+        }
+        .flint-shape:hover {
+            clip-path: polygon(25% 5%, 75% 0%, 95% 25%, 100% 75%, 75% 95%, 25% 100%, 5% 75%, 0% 25%);
+            background-color: rgba(231, 229, 228, 0.1);
+        }
+
+        .text-sharp {
+            color: var(--sharp-color);
+            text-shadow: 2px 2px 0px #44403c;
+        }
+
+        .fracture-line {
+            height: 1px;
+            background: linear-gradient(90deg, transparent, var(--danger-color), transparent);
+            margin: 2rem 0;
+            opacity: 0.5;
+        }
+
+    </style>
+</head>
+<body class="antialiased min-h-screen flex flex-col">
+
+    <div class="scanline"></div>
+    <div class="stone-texture"></div>
+
+    <!-- Nav -->
+    <nav class="fixed top-0 w-full z-50 bg-[#1c1917]/90 backdrop-blur border-b border-white/5 py-4 px-6 flex justify-between items-center font-mono text-xs uppercase tracking-widest text-stone-500">
+        <div class="opacity-70 hover:opacity-100 transition-opacity cursor-pointer text-white">Protokin</div>
+        <div class="text-[var(--danger-color)] animate-pulse">● TOOL_DETECTED</div>
+        <div class="opacity-70">Seq_11.log</div>
+    </nav>
+
+    <!-- Content -->
+    <main class="flex-grow pt-32 pb-20 px-4 md:px-0 relative z-20">
+        <article class="max-w-2xl mx-auto space-y-32">
+            
+            <!-- Header -->
+            <header class="reveal space-y-8 pb-12">
+                <div class="font-mono text-xs text-[var(--danger-color)] mb-2 tracking-[0.2em]">PALEOTECH</div>
+                <h1 class="text-6xl md:text-8xl font-black leading-none tracking-tighter text-stone-800" style="-webkit-text-stroke: 1px var(--sharp-color);">
+                    EXCRÉ<br>TION
+                </h1>
+                <div class="flex items-center space-x-4 text-stone-400 font-mono text-xs mt-6">
+                    <span class="border border-stone-600 px-2 py-1">CHAPITRE 11</span>
+                    <span>//</span>
+                    <span>L'ORGANE DÉTACHÉ</span>
+                </div>
+            </header>
+
+            <!-- Section 1: Ancrage -->
+            <section class="reveal space-y-8">
+                <h2 class="font-mono text-xs text-[var(--danger-color)] uppercase tracking-widest mb-4">01. Nyayanga, -3M Années</h2>
+                <div class="pl-6 border-l-4 border-stone-700">
+                    <p class="text-xl md:text-2xl font-light leading-relaxed text-gray-300">
+                        La faim tord le ventre. La viande est là, sous le cuir impossible. <br>
+                        La main nue échoue.
+                    </p>
+                    <p class="text-lg text-stone-500 mt-6 leading-relaxed">
+                        Il marche 13km pour une pierre. Ce n'est pas un caillou. <br>
+                        C'est une <strong class="text-white">colère fossilisée</strong>. C'est une intention dure.
+                    </p>
+                    <div class="mt-8 p-4 bg-stone-800/50 border border-stone-700">
+                        <p class="font-mono text-xs text-[var(--danger-color)] mb-2">> ANALYSE</p>
+                        <p class="text-gray-400 italic">"L'homme n'est pas faible. Il est trop puissant pour son corps. Il déborde dans l'objet."</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Section 2: Science -->
+            <section class="reveal space-y-12">
+                <h2 class="font-mono text-xs text-stone-400 uppercase tracking-widest mb-4">02. L'Exosomatisation</h2>
+                
+                <div class="grid gap-6">
+                    <!-- Micro -->
+                    <div class="flint-shape bg-stone-800 p-8 text-center group cursor-pointer">
+                        <h3 class="font-mono text-white mb-2 group-hover:text-[var(--danger-color)]">ÉPIPHYLOGENÈSE</h3>
+                        <p class="text-sm text-gray-400">
+                            La mémoire dans la pierre. Le silex garde le geste pour que l'enfant n'ait pas à réinventer le feu.
+                        </p>
+                    </div>
+
+                    <!-- Meso -->
+                    <div class="flint-shape bg-stone-800 p-8 text-center group cursor-pointer">
+                        <h3 class="font-mono text-white mb-2 group-hover:text-[var(--danger-color)]">CORPS ÉTENDU</h3>
+                        <p class="text-sm text-gray-400">
+                            La voiture s'arrête au pare-chocs, pas à la peau. L'outil est un nerf qui s'allonge.
+                        </p>
+                    </div>
+
+                    <!-- Macro -->
+                    <div class="flint-shape bg-stone-800 p-8 text-center group cursor-pointer">
+                        <h3 class="font-mono text-white mb-2 group-hover:text-[var(--danger-color)]">PHARMAKON</h3>
+                        <p class="text-sm text-gray-400">
+                            Le remède et le poison. Le GPS me guide (gain) mais détruit mon sens de l'orientation (perte).
+                        </p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Section 3: Totem -->
+            <section class="reveal py-16 text-center space-y-8 relative">
+                <div class="fracture-line"></div>
+                <h2 class="font-mono text-xs text-stone-500 uppercase tracking-widest relative z-10">IMAGE TOTEM</h2>
+                <div class="text-5xl md:text-8xl font-black text-white tracking-tighter relative z-10 text-sharp transform rotate-[-2deg]">
+                    LE SILEX
+                </div>
+                <p class="text-stone-500 italic max-w-md mx-auto relative z-10 mt-4">
+                    "Une pensée qui coupe. Un geste qui dure plus longtemps que le bras."
+                </p>
+                <div class="fracture-line"></div>
+            </section>
+
+            <!-- Section 4: Action -->
+            <section class="reveal space-y-6">
+                <h2 class="font-mono text-xs text-[var(--danger-color)] uppercase tracking-widest mb-4">03. Le Hacker</h2>
+                <p class="text-lg text-gray-300">
+                    L'outil a un script ("Je sers à clouer"). Ne soyez pas son esclave.
+                </p>
+                <div class="mt-6 border-2 border-dashed border-stone-700 p-6 text-center">
+                    <p class="font-mono text-xs text-[var(--danger-color)] mb-2">MICRO-GESTE</p>
+                    <p class="text-white font-medium text-lg">
+                        Détournez l'usage.<br>
+                        Utilisez le téléphone comme règle.<br>
+                        Brisez la fixité fonctionnelle.
+                    </p>
+                </div>
+            </section>
+
+            <!-- Footer -->
+            <footer class="reveal pt-24 pb-12 mt-12">
+                <div class="flex justify-between items-end border-t border-stone-800 pt-8">
+                    <div>
+                        <p class="font-mono text-xs text-stone-600 uppercase mb-2">Statut</p>
+                        <p class="text-xl font-bold text-white">EXTÉRIORISÉ</p>
+                    </div>
+                    
+                    <a href="/mecanique/chap-12.html" class="group text-right">
+                        <p class="font-mono text-xs text-stone-600 uppercase">Prochaine Séquence</p>
+                        <div class="flex items-center space-x-2 text-white font-bold text-lg group-hover:text-[var(--danger-color)] transition-colors">
+                            <span>L'ALIÉNATION</span>
+                            <span>→</span>
+                        </div>
+                    </a>
+                </div>
+            </footer>
+
+        </article>
+    </main>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('active');
+                    }
+                });
+            }, { threshold: 0.1 });
+
+            document.querySelectorAll('.reveal').forEach((el) => observer.observe(el));
+        });
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROTOCOLE 21 : MOUVEMENT</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Racing+Sans+One&family=Inter:wght@300;400;600&display=swap');
+
+        :root {
+            --bg-color: #171717; /* Neutral 900 */
+            --text-color: #d4d4d4;
+            --speed-color: #facc15; /* Yellow warning/speed */
+            --blur-color: #404040;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+            selection-background-color: var(--speed-color);
+            selection-color: #000;
+        }
+
+        .font-speed {
+            font-family: 'Racing Sans One', sans-serif;
+        }
+
+        /* Motion Blur Background */
+        .motion-lines {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            width: 200vw;
+            height: 200vh;
+            background: repeating-radial-gradient(
+                circle at 50% 50%,
+                transparent 0,
+                transparent 20px,
+                rgba(255, 255, 255, 0.03) 21px,
+                transparent 40px
+            );
+            transform: translate(-50%, -50%) scale(1);
+            animation: zoom-in 0.5s infinite linear;
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        @keyframes zoom-in {
+            0% { transform: translate(-50%, -50%) scale(1); opacity: 0; }
+            50% { opacity: 1; }
+            100% { transform: translate(-50%, -50%) scale(2); opacity: 0; }
+        }
+
+        /* Scanline */
+        .scanline {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background: linear-gradient(to bottom, transparent 50%, rgba(250, 204, 21, 0.02) 50%);
+            background-size: 100% 4px;
+            pointer-events: none;
+            z-index: 50;
+        }
+
+        /* Reveal Animations */
+        .reveal {
+            opacity: 0;
+            transform: skewX(-20deg) translateX(-50px);
+            transition: all 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .reveal.active {
+            opacity: 1;
+            transform: skewX(0) translateX(0);
+        }
+
+        /* Bike Wheel Animation */
+        .wheel-container {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 4px solid #fff;
+            position: relative;
+            margin: 0 auto;
+            animation: spin 1s infinite linear;
+            box-shadow: 0 0 20px rgba(250, 204, 21, 0.2);
+        }
+        .spoke {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 50%;
+            height: 2px;
+            background: #fff;
+            transform-origin: left;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .text-speed {
+            color: var(--speed-color);
+            font-style: italic;
+            text-shadow: 4px 0 0 rgba(250, 204, 21, 0.3);
+        }
+
+        .arrow-btn {
+            display: inline-block;
+            padding: 1rem 2rem;
+            border: 1px solid var(--speed-color);
+            color: var(--speed-color);
+            font-family: 'Racing Sans One', sans-serif;
+            text-transform: uppercase;
+            transition: all 0.2s;
+            clip-path: polygon(10% 0, 100% 0, 90% 100%, 0% 100%);
+        }
+        .arrow-btn:hover {
+            background: var(--speed-color);
+            color: black;
+            transform: translateX(10px);
+        }
+
+    </style>
+</head>
+<body class="antialiased min-h-screen flex flex-col">
+
+    <div class="scanline"></div>
+    <div class="motion-lines"></div>
+
+    <!-- Nav -->
+    <nav class="fixed top-0 w-full z-50 bg-[#171717]/90 backdrop-blur border-b border-white/5 py-4 px-6 flex justify-between items-center font-speed text-lg uppercase tracking-widest text-neutral-500">
+        <div class="opacity-70 hover:opacity-100 transition-opacity cursor-pointer text-white">Protokin</div>
+        <div class="text-[var(--speed-color)] animate-pulse italic">● VELOCITY_STABLE</div>
+        <div class="opacity-70">Seq_21.log</div>
+    </nav>
+
+    <!-- Content -->
+    <main class="flex-grow pt-32 pb-20 px-4 md:px-0 relative z-20">
+        <article class="max-w-2xl mx-auto space-y-32">
+            
+            <!-- Header -->
+            <header class="reveal space-y-8 pb-12 text-center border-b border-white/10">
+                <div class="font-speed text-xl text-yellow-500 mb-2 tracking-[0.2em] italic">CINETIQUE</div>
+                <h1 class="text-6xl md:text-9xl font-black leading-none tracking-tighter text-white font-speed italic transform -skew-x-12">
+                    MOUVE<br><span class="text-speed">MENT</span>
+                </h1>
+                <div class="flex justify-center items-center space-x-4 text-neutral-400 font-mono text-xs mt-6">
+                    <span class="border border-neutral-700 px-2 py-1">CHAPITRE 21</span>
+                    <span>//</span>
+                    <span>LA STABILITÉ DYNAMIQUE</span>
+                </div>
+            </header>
+
+            <!-- Section 1: Ancrage -->
+            <section class="reveal space-y-8 bg-neutral-800/50 p-8 border-r-4 border-[var(--speed-color)] transform skew-x-[-5deg]">
+                <h2 class="font-speed text-2xl text-[var(--speed-color)] uppercase tracking-widest mb-4">01. Le Vélo</h2>
+                <div class="transform skew-x-[5deg]">
+                    <p class="text-xl md:text-2xl font-light leading-relaxed text-white">
+                        Vous freinez pour être en sécurité.<br>
+                        Et c'est là que vous tombez.
+                    </p>
+                    <p class="text-lg text-neutral-400 mt-6 leading-relaxed">
+                        L'arrêt est mortel. La vitesse est le tuteur. <br>
+                        Le guidon ne tient que parce qu'il avance.
+                    </p>
+                </div>
+            </section>
+
+            <!-- Section 2: Science -->
+            <section class="reveal space-y-12">
+                <h2 class="font-speed text-2xl text-neutral-500 uppercase tracking-widest mb-4 text-right">02. Wayfaring</h2>
+                
+                <div class="grid gap-6">
+                    <!-- Micro -->
+                    <div class="bg-neutral-900 p-6 hover:translate-x-2 transition-transform duration-300 border-l-2 border-white">
+                        <h3 class="font-speed text-white mb-1 text-xl italic">ORBITE</h3>
+                        <p class="text-sm text-neutral-400">
+                            La Terre tombe en permanence. Elle rate le Soleil grâce à sa vitesse latérale. La chute compensée est la seule stabilité.
+                        </p>
+                    </div>
+
+                    <!-- Meso -->
+                    <div class="bg-neutral-900 p-6 hover:translate-x-2 transition-transform duration-300 border-l-2 border-white">
+                        <h3 class="font-speed text-white mb-1 text-xl italic">GYROSCOPE</h3>
+                        <p class="text-sm text-neutral-400">
+                            La roue tourne, donc elle résiste. L'autocorrection n'est possible que dans le mouvement. À l'arrêt, pas de correction.
+                        </p>
+                    </div>
+
+                    <!-- Macro -->
+                    <div class="bg-neutral-900 p-6 hover:translate-x-2 transition-transform duration-300 border-l-2 border-white">
+                        <h3 class="font-speed text-white mb-1 text-xl italic">INNOVATION</h3>
+                        <p class="text-sm text-neutral-400">
+                            L'entreprise qui cherche la rente (l'arrêt) meurt. Kodak vs Fujifilm. La stase est la faillite.
+                        </p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Section 3: Totem -->
+            <section class="reveal py-16 text-center space-y-8">
+                <div class="wheel-container">
+                    <div class="spoke" style="transform: rotate(0deg)"></div>
+                    <div class="spoke" style="transform: rotate(45deg)"></div>
+                    <div class="spoke" style="transform: rotate(90deg)"></div>
+                    <div class="spoke" style="transform: rotate(135deg)"></div>
+                    <div class="spoke" style="transform: rotate(180deg)"></div>
+                    <div class="spoke" style="transform: rotate(225deg)"></div>
+                    <div class="spoke" style="transform: rotate(270deg)"></div>
+                    <div class="spoke" style="transform: rotate(315deg)"></div>
+                </div>
+
+                <h2 class="font-mono text-xs text-neutral-500 uppercase tracking-widest relative z-10">IMAGE TOTEM</h2>
+                <div class="text-5xl md:text-8xl font-black text-white tracking-tighter relative z-10 font-speed italic text-speed">
+                    LE CYCLISTE
+                </div>
+                <p class="text-neutral-400 italic max-w-md mx-auto relative z-10 mt-4">
+                    "Je ne tiens pas parce que je suis stable. Je tiens parce que j'avance."
+                </p>
+            </section>
+
+            <!-- Section 4: Action -->
+            <section class="reveal space-y-6 text-center">
+                <h2 class="font-speed text-2xl text-white uppercase tracking-widest mb-4">03. Accélérez</h2>
+                <p class="text-lg text-neutral-300 mb-8">
+                    Dans le virage, ne freinez pas.<br>
+                    Maintenez les gaz pour ne pas sortir.
+                </p>
+                
+                <a href="#" class="arrow-btn">
+                    PRENDRE DE L'ÉLAN
+                </a>
+            </section>
+
+            <!-- Footer -->
+            <footer class="reveal pt-24 pb-12 mt-12 border-t border-neutral-800">
+                <div class="flex justify-between items-end">
+                    <div>
+                        <p class="font-speed text-xl text-neutral-700 uppercase mb-2">Direction</p>
+                        <p class="text-xl font-bold text-white font-speed italic">VERS LA FIN</p>
+                    </div>
+                    
+                    <a href="/mecanique/chap-22.html" class="group text-right">
+                        <p class="font-speed text-xl text-neutral-700 uppercase">Chapitre suivant</p>
+                        <div class="flex items-center space-x-2 text-white font-bold text-lg group-hover:text-[var(--speed-color)] transition-colors font-speed text-2xl italic">
+                            <span>LE KAIROS</span>
+                            <span>→</span>
+                        </div>
+                    </a>
+                </div>
+            </footer>
+
+        </article>
+    </main>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('active');
+                    }
+                });
+            }, { threshold: 0.1 });
+
+            document.querySelectorAll('.reveal').forEach((el) => observer.observe(el));
+        });
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROTOKIN | Phase IV: The Brake</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=JetBrains+Mono:wght@300;500&family=Inter:wght@300;600&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-color: #050505;
+            --text-primary: #e5e5e5;
+            --text-secondary: #888;
+            --accent: #ff3333;
+            --phase-color: #a855f7; /* Purple for Vortex/Stabilization */
+            --border: #333;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+            /* Cursor logic handled by JS */
+        }
+
+        @media (min-width: 768px) {
+            body { cursor: crosshair; }
+        }
+
+        h1, h2, h3 { font-family: 'Cinzel', serif; }
+        .mono { font-family: 'JetBrains Mono', monospace; }
+
+        /* Noise */
+        .noise {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            pointer-events: none; z-index: 50; opacity: 0.05;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='1'/%3E%3C/svg%3E");
+        }
+
+        /* Cursor */
+        .cursor-follower {
+            position: fixed; width: 20px; height: 20px;
+            border: 1px solid var(--text-primary); border-radius: 50%;
+            pointer-events: none; z-index: 100; transition: transform 0.1s;
+            mix-blend-mode: difference;
+        }
+
+        /* Section Styles */
+        .register-section {
+            border-left: 1px solid var(--border);
+            padding-left: 2rem;
+            margin-bottom: 4rem;
+            position: relative;
+            transition: all 0.5s ease;
+        }
+
+        .register-section:hover {
+            border-left-color: var(--phase-color);
+            padding-left: 2.5rem;
+        }
+
+        .register-label {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            color: var(--phase-color);
+            margin-bottom: 1rem;
+            display: inline-block;
+            border: 1px solid var(--phase-color);
+            padding: 2px 8px;
+        }
+
+        .concept-title {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            line-height: 1;
+        }
+
+        .concept-def {
+            font-size: 1rem;
+            color: var(--text-secondary);
+            max-width: 600px;
+            line-height: 1.6;
+        }
+
+        .next-phase-btn {
+            border: 1px solid var(--border);
+            padding: 2rem;
+            text-align: center;
+            transition: all 0.3s;
+            margin-top: 4rem;
+            display: block;
+        }
+
+        .next-phase-btn:hover {
+            border-color: white;
+            background: #111;
+        }
+
+    </style>
+</head>
+<body class="antialiased">
+
+    <!-- Canvas Background -->
+    <canvas id="protokin-field" class="fixed top-0 left-0 w-full h-full -z-10 opacity-30"></canvas>
+    <div class="noise"></div>
+    <div id="cursor" class="cursor-follower hidden md:block"></div>
+
+    <!-- Header -->
+    <header class="fixed top-0 w-full z-40 border-b border-neutral-800 bg-black/90 backdrop-blur-sm">
+        <div class="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
+            <div class="flex items-center gap-8">
+                <a href="index_en.html" class="flex items-center gap-4 group">
+                    <span class="text-xl md:text-2xl font-bold tracking-tighter group-hover:text-white transition-colors">PROTOKIN</span>
+                    <span class="hidden md:inline-block w-px h-6 bg-neutral-800"></span>
+                    <span class="mono text-[10px] md:text-xs text-neutral-500 uppercase tracking-widest">Sys. v2.1</span>
+                </a>
+                
+                <nav class="hidden md:flex gap-6 mono text-xs uppercase tracking-wider text-neutral-500">
+                    <a href="map.html" class="hover:text-white transition-colors">The Map</a>
+                    <a href="dojo.html" class="hover:text-white transition-colors">The Dojo</a>
+                    <a href="glossary.html" class="hover:text-white transition-colors">Glossary</a>
+                </nav>
+            </div>
+            <!-- Mobile Menu Icon -->
+            <div class="md:hidden text-neutral-500 text-xs mono uppercase">
+                <a href="index_en.html">Menu</a>
+            </div>
+            <div class="hidden md:flex items-center gap-6">
+                <div class="flex flex-col items-end">
+                    <span class="mono text-[10px] text-neutral-500 uppercase">Phase IV</span>
+                    <span class="mono text-xs text-purple-500">STABILIZED</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="pt-32 pb-20 px-6 max-w-4xl mx-auto">
+        
+        <!-- INTRO PHASE -->
+        <div class="mb-24">
+            <span class="mono text-xs text-purple-500 mb-4 block">OPERATION 04</span>
+            <h1 class="text-5xl md:text-7xl mb-6 text-white">The Brake</h1>
+            <p class="text-xl text-neutral-400 font-light border-l-2 border-purple-900 pl-6">
+                How to hold? To avoid being pure flight, movement must find a center. Stability is not an absence of speed, but a curvature of time.
+            </p>
+        </div>
+
+        <!-- REGISTER 1: PHYSICS -->
+        <div class="register-section">
+            <div class="register-label">16. Physics</div>
+            <h2 class="concept-title text-white">Stationary Regime</h2>
+            <h3 class="text-lg text-purple-400 mb-4 italic font-serif">The Vortex</h3>
+            <p class="concept-def">
+                Look at the whirlpool in a bathtub. Its conical shape is stable, measurable, constant. Yet, it is made of nothing but water flowing at high speed. It is a "Stationary Regime". It holds together only because it turns. This is the model of all dynamic stability: a form that survives only as long as the flux traverses it.
+            </p>
+            <div class="mt-4 mono text-xs text-neutral-600">Ref: Chapter 16 - The House of Time</div>
+        </div>
+
+        <!-- REGISTER 2: LIVING -->
+        <div class="register-section">
+            <div class="register-label">17. Living</div>
+            <h2 class="concept-title text-white">Habit</h2>
+            <h3 class="text-lg text-purple-400 mb-4 italic font-serif">The Desire Path</h3>
+            <p class="concept-def">
+                The brain is lazy, and that is its genius. To save energy, it transforms conscious actions into automated scripts (Myelination). Habit is not a constraint; it is kinetic capital. It creates a "Desire Path" in the nervous system, a route of least resistance where action becomes fluid, fast, and cost-free.
+            </p>
+            <div class="mt-4 mono text-xs text-neutral-600">Ref: Chapter 17 - Drilling the Nerve</div>
+        </div>
+
+        <!-- REGISTER 3: PSYCHE -->
+        <div class="register-section">
+            <div class="register-label">18. Psyche</div>
+            <h2 class="concept-title text-white">Style</h2>
+            <h3 class="text-lg text-purple-400 mb-4 italic font-serif">Inhibition</h3>
+            <p class="concept-def">
+                True intelligence is not the ability to react, but the ability to stop the reaction. It is the "Veto". Style is what remains when you have inhibited the obvious, the cliché, the reflex. It is the sculpting of the self by the subtraction of noise. To have style is to master the brake.
+            </p>
+            <div class="mt-4 mono text-xs text-neutral-600">Ref: Chapter 18 - Sculpting by Void</div>
+        </div>
+
+        <!-- REGISTER 4: TECHNIQUE -->
+        <div class="register-section">
+            <div class="register-label">19. Technique</div>
+            <h2 class="concept-title text-white">The Black Box</h2>
+            <h3 class="text-lg text-purple-400 mb-4 italic font-serif">The Interface</h3>
+            <p class="concept-def">
+                To stabilize usage, technology hides complexity. It wraps the chaotic engine in a smooth casing (The Interface). The Black Box allows the user to operate the machine without understanding it. It creates stability through opacity. But this stability comes at a price: the loss of sovereignty (Protokinosis).
+            </p>
+            <div class="mt-4 mono text-xs text-neutral-600">Ref: Chapter 19 - The Lie of Design</div>
+        </div>
+
+        <!-- REGISTER 5: POLITICS -->
+        <div class="register-section">
+            <div class="register-label">20. Politics</div>
+            <h2 class="concept-title text-white">Institution</h2>
+            <h3 class="text-lg text-purple-400 mb-4 italic font-serif">The Silentbloc</h3>
+            <p class="concept-def">
+                Society cannot survive the raw friction of individuals. It inserts "Silentblocs" (rubber dampers) between gears. These are Institutions: laws, rituals, politeness. They are designed to absorb vibrations. An institution is not a wall, but a viscous material that slows down vengeance into justice.
+            </p>
+            <div class="mt-4 mono text-xs text-neutral-600">Ref: Chapter 20 - The Damping</div>
+        </div>
+
+        <!-- NEXT PHASE LINK -->
+        <a href="phase5.html" class="next-phase-btn group">
+            <span class="mono text-xs text-neutral-500 block mb-2">STRUCTURE SOLIDIFIED</span>
+            <span class="text-2xl font-serif text-white group-hover:text-purple-500 transition-colors">Begin Sedimentation: Phase V &rarr;</span>
+        </a>
+
+    </main>
+
+    <footer class="mt-24 border-t border-neutral-900 bg-black py-12">
+        <div class="max-w-7xl mx-auto px-6 text-center mono text-[10px] uppercase text-neutral-600">
+            <p class="mb-4">Phase IV: The Brake</p>
+            <a href="index_en.html" class="hover:text-white transition-colors">Return to Seismograph</a>
+        </div>
+    </footer>
+
+    <script>
+        // --- 1. CURSOR MANAGEMENT ---
+        const cursor = document.getElementById('cursor');
+        
+        if (window.matchMedia("(min-width: 768px)").matches) {
+            document.addEventListener('mousemove', (e) => {
+                requestAnimationFrame(() => {
+                    cursor.style.transform = `translate(${e.clientX - 10}px, ${e.clientY - 10}px)`;
+                });
+            });
+            
+            // Hover effect for links & sections
+            const interactives = document.querySelectorAll('a, .register-section');
+            interactives.forEach(el => {
+                el.addEventListener('mouseenter', () => {
+                    cursor.style.borderColor = '#a855f7'; // Phase Color (Purple)
+                    cursor.style.transform += ' scale(1.5)';
+                });
+                el.addEventListener('mouseleave', () => {
+                    cursor.style.borderColor = '#e5e5e5';
+                    cursor.style.transform = cursor.style.transform.replace(' scale(1.5)', '');
+                });
+            });
+        }
+
+        // --- 2. PARTICLES (Vortex/Orbiting Motion) ---
+        const canvas = document.getElementById('protokin-field');
+        const ctx = canvas.getContext('2d');
+        let particles = [];
+        let width, height;
+        let centerX, centerY;
+
+        function resize() {
+            width = canvas.width = window.innerWidth;
+            height = canvas.height = window.innerHeight;
+            centerX = width / 2;
+            centerY = height / 2;
+        }
+        window.addEventListener('resize', resize);
+        resize();
+
+        class Particle {
+            constructor() {
+                this.angle = Math.random() * Math.PI * 2;
+                this.radius = Math.random() * (Math.min(width, height) / 2);
+                this.speed = (Math.random() * 0.002 + 0.001) * (Math.random() < 0.5 ? 1 : -1); // Orbit speed
+                this.size = Math.random() * 2;
+                this.baseOpacity = Math.random() * 0.5;
+            }
+
+            update() {
+                this.angle += this.speed;
+                // Spiral effect: slowly move towards or away from center
+                // this.radius -= 0.1; 
+                // if (this.radius < 0) this.radius = Math.random() * (Math.min(width, height) / 2);
+            }
+
+            draw() {
+                const x = centerX + Math.cos(this.angle) * this.radius;
+                const y = centerY + Math.sin(this.angle) * this.radius;
+
+                ctx.fillStyle = '#a855f7'; // Purple tint
+                ctx.globalAlpha = this.baseOpacity;
+                ctx.beginPath();
+                ctx.arc(x, y, this.size, 0, Math.PI * 2);
+                ctx.fill();
+            }
+        }
+
+        const particleCount = window.innerWidth < 768 ? 40 : 150;
+        for (let i = 0; i < particleCount; i++) particles.push(new Particle());
+
+        function animate() {
+            ctx.clearRect(0, 0, width, height);
+            
+            if (width > 768) {
+                ctx.strokeStyle = 'rgba(168, 85, 247, 0.05)'; 
+                ctx.lineWidth = 0.5;
+                
+                // Optional: Connect particles to center or each other to form "structure"
+                particles.forEach((p) => {
+                    p.update();
+                    p.draw();
+                });
+            } else {
+                 particles.forEach(p => { p.update(); p.draw(); });
+            }
+            
+            requestAnimationFrame(animate);
+        }
+        animate();
+    </script>
+</body>
+</html>

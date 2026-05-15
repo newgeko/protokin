@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="fr" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LABO // MÉSO-02 : LA SACCADE</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400;600&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    
+    <style>
+        body { font-family: 'Inter', sans-serif; background-color: #f8fafc; color: #0f172a; }
+        .serif { font-family: 'Lora', serif; }
+        .mono { font-family: 'JetBrains Mono', monospace; }
+        
+        /* Grille Technique */
+        .bg-grid-tech {
+            background-image: 
+                linear-gradient(to right, rgba(15, 23, 42, 0.05) 1px, transparent 1px),
+                linear-gradient(to bottom, rgba(15, 23, 42, 0.05) 1px, transparent 1px);
+            background-size: 20px 20px;
+        }
+
+        /* Slider Industriel */
+        input[type=range] {
+            -webkit-appearance: none;
+            width: 100%;
+            background: transparent;
+        }
+        input[type=range]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            height: 24px;
+            width: 12px;
+            background: #0f172a;
+            cursor: ew-resize;
+            margin-top: -10px;
+            border: 1px solid #fff;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+        input[type=range]::-webkit-slider-runnable-track {
+            width: 100%;
+            height: 4px;
+            background: #cbd5e1;
+            border-radius: 2px;
+        }
+        input[type=range]:focus { outline: none; }
+
+        /* La Cible (Objet à voir) */
+        .retina-target {
+            /* Un gradient complexe et flou, difficile à accrocher pour le cerveau */
+            background: radial-gradient(circle, rgba(15,118,110,1) 0%, rgba(251,191,36,0.5) 30%, rgba(248,250,252,0) 70%);
+            mix-blend-mode: multiply;
+            transition: opacity 0.1s linear; /* Transition douce pour l'effacement */
+        }
+
+        /* Le Viseur (Fovéa) */
+        .crosshair {
+            pointer-events: none;
+            mix-blend-mode: exclusion;
+        }
+    </style>
+</head>
+<body class="selection:bg-teal-900 selection:text-white">
+
+    <!-- NAV -->
+    <nav class="fixed top-0 w-full bg-slate-50/90 backdrop-blur border-b border-slate-200 z-50 h-12 flex items-center justify-between px-6">
+        <a href="index.html" class="mono text-[10px] hover:text-teal-700 transition-colors flex items-center gap-2">
+            <span>←</span> RETOUR AU SYSTÈME
+        </a>
+        <div class="mono text-[10px] text-slate-400">
+            MODULE: MÉSO_02 // STATUT: ACTIF
+        </div>
+    </nav>
+
+    <!-- HEADER -->
+    <header class="pt-32 pb-16 px-6 max-w-4xl mx-auto text-center">
+        <div class="inline-block border border-amber-600 text-amber-600 px-2 py-1 mono text-[10px] mb-6 uppercase tracking-widest animate-pulse">
+            Avertissement : La stabilité rend aveugle
+        </div>
+        <h1 class="text-4xl md:text-6xl serif font-bold text-slate-900 mb-6 leading-tight">
+            L'Illusion de la Fixité
+        </h1>
+        <p class="text-slate-500 max-w-xl mx-auto text-sm leading-relaxed font-medium">
+            Vous croyez que vous voyez parce que l'objet est là.<br>
+            Faux. Vous ne voyez que parce que votre œil tremble.
+        </p>
+    </header>
+
+    <!-- EXPÉRIENCE : LE SIMULATEUR RÉTINIEN -->
+    <section class="max-w-5xl mx-auto px-6 mb-24">
+        <div class="bg-white border border-slate-200 shadow-2xl relative overflow-hidden rounded-sm">
+            
+            <!-- 1. VISUALISATION (Le Champ Visuel) -->
+            <div class="h-[500px] bg-[#e2e8f0] relative overflow-hidden flex items-center justify-center border-b border-slate-300 cursor-crosshair" id="retina-container">
+                
+                <!-- Grille de fond (Statique) -->
+                <div class="absolute inset-0 opacity-10 bg-grid-tech pointer-events-none"></div>
+
+                <!-- L'Objet (La Tache) -->
+                <!-- Il va bouger (trembler) via JS. Si le tremblement cesse, l'opacité tombe à 0. -->
+                <div id="target" class="retina-target w-96 h-96 absolute rounded-full blur-xl"></div>
+
+                <!-- Le Point de Fixation (Croix centrale) -->
+                <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-4 h-4 flex items-center justify-center z-10">
+                    <div class="w-[1px] h-4 bg-slate-900/50"></div>
+                    <div class="h-[1px] w-4 bg-slate-900/50 absolute"></div>
+                </div>
+
+                <!-- HUD (Données) -->
+                <div class="absolute top-4 right-4 mono text-[10px] text-right space-y-2 z-20">
+                    <div class="text-slate-500">DONNÉES RÉTINIENNES</div>
+                    <div class="text-teal-700">FRÉQUENCE (Hz): <span id="val-freq" class="text-slate-900">0</span></div>
+                    <div class="text-teal-700">SIGNAL VISUEL (%): <span id="val-signal" class="text-slate-900">100</span></div>
+                    <div id="blindness-warning" class="text-amber-600 font-bold hidden border border-amber-600 px-2 py-1 mt-2 bg-amber-50">
+                        ⚠ SATURATION NEURONALE (CÉCITÉ)
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2. CONTRÔLE (Le Stabilisateur) -->
+            <div class="p-8 bg-slate-50 border-t border-slate-200">
+                <div class="flex flex-col md:flex-row gap-12 items-center">
+                    
+                    <!-- Le Levier -->
+                    <div class="w-full md:w-1/2">
+                        <label class="flex justify-between mono text-[10px] text-slate-500 mb-4 uppercase tracking-widest">
+                            <span>Stabilisation du Regard</span>
+                            <span id="stabilization-val">0%</span>
+                        </label>
+                        <input type="range" min="0" max="100" value="0" id="stabilizer-control" step="1">
+                        <div class="flex justify-between mt-3 mono text-[8px] text-slate-400 uppercase">
+                            <span>Regard Naturel (Tremblement)</span>
+                            <span>Fixité Totale (Artificiel)</span>
+                        </div>
+                    </div>
+
+                    <!-- Le Feedback -->
+                    <div class="w-full md:w-1/2 text-xs text-slate-600 leading-relaxed border-l-2 border-teal-500 pl-6 py-2 transition-colors duration-300" id="feedback-border">
+                        <p id="feedback-text">
+                            <span class="font-bold text-teal-700">ÉTAT : SACCADIQUE.</span><br>
+                            Votre œil effectue des micro-saccades permanentes. Ces vibrations rafraîchissent les photorécepteurs. L'image est stable parce que l'œil est instable.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- DIDACTIQUE : LA PHYSIOLOGIE DU FLUX -->
+    <section class="max-w-3xl mx-auto px-6 pb-24 space-y-16">
+        
+        <!-- Bloc Théorique -->
+        <div>
+            <h3 class="serif text-2xl text-slate-900 mb-4 italic">La Rétine est un Différentiel</h3>
+            <p class="text-slate-600 leading-relaxed mb-8 text-sm">
+                Nos neurones ne sont pas conçus pour enregistrer des états (DC), mais des changements (AC). Si un photon frappe toujours le même cône rétinien, le cône s'épuise et cesse d'envoyer un signal. C'est l'adaptation locale.
+            </p>
+            <p class="text-slate-600 leading-relaxed mb-8 text-sm">
+                Pour empêcher cela, l'évolution a doté l'œil d'un tremblement moteur constant (nystagmus physiologique, micro-saccades). 
+            </p>
+            
+            <div class="bg-white border border-slate-200 p-8 text-center shadow-sm relative overflow-hidden">
+                <div class="absolute top-0 left-0 w-1 h-full bg-slate-900"></div>
+                <div class="font-serif text-2xl text-slate-900 mb-4">
+                    Vision = Δ(Stimulus) / Δ(Temps)
+                </div>
+                <div class="mono text-[10px] text-slate-400 uppercase tracking-widest">
+                    Si ΔStimulus = 0, alors Vision = 0.
+                </div>
+            </div>
+        </div>
+
+        <!-- Bloc Philosophique (Protokin) -->
+        <div class="bg-slate-100 p-8 border-l-4 border-amber-500">
+            <div class="flex items-center gap-2 mb-4">
+                <span class="mono text-xs text-amber-600 uppercase tracking-widest font-bold">Interprétation Protokinienne</span>
+            </div>
+            <h3 class="serif text-xl text-slate-900 mb-4">La Vérité est dans la Friction</h3>
+            <div class="prose prose-slate prose-sm text-slate-600">
+                <p>
+                    Cette expérience détruit le mythe de la "Contemplation Immobile". Nous croyons que pour bien comprendre une chose (un problème, un texte), il faut se figer dessus.
+                </p>
+                <p>
+                    C'est faux. L'attention fixe est une cécité. Pour garder le contact avec le réel, il faut osciller autour de lui. Il faut varier les angles, changer de focale, introduire du bruit.
+                </p>
+                <p>
+                    <strong>La conscience est un frottement.</strong> Si ça ne frotte plus (stabilité parfaite), ça disparaît.
+                </p>
+            </div>
+        </div>
+
+        <!-- Navigation Labo -->
+        <div class="grid grid-cols-2 gap-4 pt-8 border-t border-slate-200">
+            <a href="labo_heisenberg.html" class="block p-4 border border-slate-200 hover:border-slate-900 transition-colors group">
+                <span class="mono text-[10px] text-slate-400">PRÉCÉDENT</span>
+                <div class="font-bold text-slate-900 text-sm group-hover:text-teal-800"><- Heisenberg</div>
+            </a>
+            <a href="#" class="block p-4 border border-slate-200 hover:border-teal-700 hover:bg-teal-50 transition-colors text-right group">
+                <span class="mono text-[10px] text-teal-600">SUIVANT : MACRO-01</span>
+                <div class="font-bold text-slate-900 text-sm group-hover:text-teal-800">La Ville Flux -></div>
+            </a>
+        </div>
+
+    </section>
+
+    <!-- SCRIPT DE SIMULATION -->
+    <script>
+        const slider = document.getElementById('stabilizer-control');
+        const target = document.getElementById('target');
+        const valFreq = document.getElementById('val-freq');
+        const valSignal = document.getElementById('val-signal');
+        const warning = document.getElementById('blindness-warning');
+        const feedback = document.getElementById('feedback-text');
+        const feedbackBorder = document.getElementById('feedback-border');
+        const intensityDisplay = document.getElementById('stabilization-val');
+
+        // État de la simulation
+        let time = 0;
+        let signalStrength = 100; // 100% visible
+        let retinalFatigue = 0; // 0% fatigué
+
+        function animate() {
+            const stability = parseInt(slider.value) / 100; // 0.0 à 1.0 (1 = Fixe)
+            
+            // Mise à jour affichage
+            intensityDisplay.innerText = `${Math.round(stability * 100)}%`;
+
+            // 1. Calcul du Jitter (Tremblement)
+            // Plus c'est stable, moins ça tremble.
+            // À 0% stability -> Amplitude 5px
+            // À 100% stability -> Amplitude 0px
+            const jitterAmplitude = (1 - stability) * 4; 
+            
+            // Mouvement Brownien simulé
+            const dx = (Math.random() - 0.5) * jitterAmplitude;
+            const dy = (Math.random() - 0.5) * jitterAmplitude;
+
+            // Application du mouvement à la cible (simule l'oeil qui bouge par rapport à l'image)
+            // On centre l'objet et on ajoute le jitter
+            target.style.transform = `translate(calc(-50% + ${dx}px), calc(-50% + ${dy}px))`;
+
+            // 2. Calcul de la Fatigue Rétinienne (Effet Troxler)
+            // Si ça bouge (stability low), la fatigue diminue (refresh).
+            // Si ça ne bouge pas (stability high), la fatigue augmente.
+            
+            if (stability > 0.8) {
+                // Zone critique : la fatigue monte vite
+                retinalFatigue += 0.5 + (stability * 2);
+            } else {
+                // Zone saine : la fatigue redescend (le mouvement régénère la vision)
+                retinalFatigue -= 5 * (1 - stability);
+            }
+
+            // Bornes
+            if (retinalFatigue < 0) retinalFatigue = 0;
+            if (retinalFatigue > 100) retinalFatigue = 100;
+
+            // 3. Calcul de la visibilité (Inverse de la fatigue)
+            signalStrength = 100 - retinalFatigue;
+
+            // Application Visuelle (Opacité)
+            // On ne descend pas à 0 absolu pour ne pas que l'user croit à un bug, on garde un spectre fantôme à 2%
+            let visualOpacity = Math.max(0.02, signalStrength / 100);
+            target.style.opacity = visualOpacity;
+
+            // Mise à jour des données HUD
+            valSignal.innerText = Math.round(signalStrength);
+            
+            // Fréquence simulée (Hertz)
+            let freq = (1 - stability) * 80; // Max 80Hz
+            valFreq.innerText = Math.round(freq);
+
+            // GESTION DES ÉTATS ET MESSAGES
+            if (signalStrength < 10) {
+                // ÉTAT : CÉCITÉ
+                warning.classList.remove('hidden');
+                feedbackBorder.classList.replace('border-teal-500', 'border-amber-500');
+                feedback.innerHTML = `<span class="text-amber-600 font-bold">CÉCITÉ NEURONALE.</span><br>L'image est toujours là, mais vos neurones ont cessé de la traiter par manque de contraste temporel. Bougez le curseur pour réactiver la vue.`;
+            } else if (signalStrength < 60) {
+                // ÉTAT : FADING
+                warning.classList.add('hidden');
+                feedbackBorder.classList.replace('border-teal-500', 'border-slate-400');
+                feedback.innerHTML = `<span class="text-slate-700 font-bold">ADAPTATION EN COURS...</span><br>Vous stabilisez trop. Les couleurs s'affadissent. Le cerveau commence à ignorer le stimulus constant.`;
+            } else {
+                // ÉTAT : NOMINAL
+                warning.classList.add('hidden');
+                feedbackBorder.classList.replace('border-amber-500', 'border-teal-500');
+                feedbackBorder.classList.replace('border-slate-400', 'border-teal-500');
+                feedback.innerHTML = `<span class="font-bold text-teal-700">ÉTAT : SACCADIQUE.</span><br>L'œil tremble. La perception est maximale. L'instabilité garantit la présence.`;
+            }
+
+            requestAnimationFrame(animate);
+        }
+
+        animate();
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROTOCOLE 10 : RÉSONANCE</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=JetBrains+Mono:wght@400;700&display=swap');
+
+        :root {
+            --bg-color: #120a0a; /* Rouge/Noir très sombre, organique */
+            --text-color: #e5e5e5;
+            --vibe-color: #ef4444; /* Rouge fréquence */
+            --skin-color: #fdba74; /* Orange pâle peau */
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+            selection-background-color: var(--vibe-color);
+            selection-color: #fff;
+        }
+
+        .font-mono {
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        /* Soundwave Background */
+        .soundwave {
+            position: fixed;
+            top: 50%;
+            left: 0;
+            width: 100%;
+            height: 200px;
+            transform: translateY(-50%);
+            background: repeating-linear-gradient(
+                90deg,
+                transparent 0,
+                transparent 2px,
+                rgba(239, 68, 68, 0.1) 3px,
+                rgba(239, 68, 68, 0.05) 10px
+            );
+            pointer-events: none;
+            z-index: 10;
+            mask-image: linear-gradient(to right, transparent, black 20%, black 80%, transparent);
+        }
+
+        /* Scanline */
+        .scanline {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background: linear-gradient(to bottom, transparent 50%, rgba(239, 68, 68, 0.02) 50%);
+            background-size: 100% 4px;
+            pointer-events: none;
+            z-index: 50;
+        }
+
+        /* Reveal Animations */
+        .reveal {
+            opacity: 0;
+            transform: scale(0.95);
+            transition: all 1s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .reveal.active {
+            opacity: 1;
+            transform: scale(1);
+        }
+
+        /* Bass Speaker Animation */
+        .speaker-membrane {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            background: radial-gradient(circle, #2a1515 0%, #000 70%);
+            border: 2px solid #333;
+            box-shadow: 0 0 20px rgba(239, 68, 68, 0.2);
+            margin: 0 auto;
+            animation: bass-kick 0.8s infinite cubic-bezier(0.1, 0.7, 1.0, 0.1);
+        }
+
+        @keyframes bass-kick {
+            0% { transform: scale(1); box-shadow: 0 0 20px rgba(239, 68, 68, 0.1); }
+            10% { transform: scale(1.05); box-shadow: 0 0 50px rgba(239, 68, 68, 0.5); border-color: var(--vibe-color); }
+            30% { transform: scale(0.98); }
+            50% { transform: scale(1.02); }
+            100% { transform: scale(1); }
+        }
+
+        .text-vibe {
+            color: var(--vibe-color);
+            text-shadow: 0 0 15px rgba(239, 68, 68, 0.5);
+        }
+
+        .freq-bar {
+            height: 40px;
+            background: #333;
+            width: 4px;
+            margin: 0 2px;
+            animation: equalizer 1s infinite ease-in-out;
+        }
+        @keyframes equalizer {
+            0%, 100% { height: 20px; background: #333; }
+            50% { height: 60px; background: var(--vibe-color); }
+        }
+
+    </style>
+</head>
+<body class="antialiased min-h-screen flex flex-col">
+
+    <div class="scanline"></div>
+    <div class="soundwave"></div>
+
+    <!-- Nav -->
+    <nav class="fixed top-0 w-full z-50 bg-[#120a0a]/90 backdrop-blur border-b border-white/5 py-4 px-6 flex justify-between items-center font-mono text-xs uppercase tracking-widest text-red-900">
+        <div class="opacity-70 hover:opacity-100 transition-opacity cursor-pointer text-white">Protokin</div>
+        <div class="text-[var(--vibe-color)] animate-pulse">● RESONANCE_PEAK</div>
+        <div class="opacity-70">Seq_10.log</div>
+    </nav>
+
+    <!-- Content -->
+    <main class="flex-grow pt-32 pb-20 px-4 md:px-0 relative z-20">
+        <article class="max-w-2xl mx-auto space-y-32">
+            
+            <!-- Header -->
+            <header class="reveal space-y-8 pb-12 text-center">
+                <div class="font-mono text-xs text-[var(--vibe-color)] mb-2 tracking-[0.2em]">ACOUSTIQUE</div>
+                <h1 class="text-6xl md:text-8xl font-black leading-none tracking-tighter text-white">
+                    RÉSO<br><span class="text-vibe">NANCE</span>
+                </h1>
+                <div class="flex justify-center items-center space-x-4 text-red-500 font-mono text-xs mt-6">
+                    <span class="border border-red-900 px-2 py-1">CHAPITRE 10</span>
+                    <span>//</span>
+                    <span>LA PEAU EST UN MICRO</span>
+                </div>
+            </header>
+
+            <!-- Section 1: Ancrage -->
+            <section class="reveal space-y-8">
+                <div class="speaker-membrane mb-8"></div>
+                <h2 class="font-mono text-xs text-[var(--vibe-color)] uppercase tracking-widest mb-4 text-center">01. La Basse Fréquence</h2>
+                <div class="pl-6 border-l border-red-900/50">
+                    <p class="text-xl md:text-2xl font-light leading-relaxed text-gray-300">
+                        110 Décibels. Le sternum vibre. <br>
+                        Vous ne décidez rien. Vous êtes joué.
+                    </p>
+                    <p class="text-lg text-red-200/50 mt-6 leading-relaxed">
+                        La frontière Dedans/Dehors est abolie par la pression acoustique. <br>
+                        Vous n'êtes pas une forteresse. Vous êtes une <strong class="text-white">Peau-Tambour</strong>.
+                    </p>
+                </div>
+            </section>
+
+            <!-- Section 2: Science -->
+            <section class="reveal space-y-12">
+                <h2 class="font-mono text-xs text-gray-500 uppercase tracking-widest mb-4 text-center">02. La Loi de Sympathie</h2>
+                
+                <div class="flex justify-center items-end h-20 space-x-1 mb-8">
+                    <div class="freq-bar" style="animation-delay: 0.1s"></div>
+                    <div class="freq-bar" style="animation-delay: 0.3s"></div>
+                    <div class="freq-bar" style="animation-delay: 0.5s"></div>
+                    <div class="freq-bar" style="animation-delay: 0.2s"></div>
+                    <div class="freq-bar" style="animation-delay: 0.4s"></div>
+                    <div class="freq-bar" style="animation-delay: 0.1s"></div>
+                    <div class="freq-bar" style="animation-delay: 0.3s"></div>
+                </div>
+
+                <div class="grid gap-6">
+                    <!-- Micro -->
+                    <div class="bg-red-900/10 p-6 border border-red-900/30 hover:border-[var(--vibe-color)] transition-colors group">
+                        <h3 class="font-mono text-white mb-2 group-hover:text-[var(--vibe-color)]">MICRO : LE DIAPASON</h3>
+                        <p class="text-sm text-gray-400">
+                            Frappez-en un, l'autre chante sans contact. La matière inerte est capable de contagion vibratoire par sympathie.
+                        </p>
+                    </div>
+
+                    <!-- Meso -->
+                    <div class="bg-red-900/10 p-6 border border-red-900/30 hover:border-[var(--vibe-color)] transition-colors group">
+                        <h3 class="font-mono text-white mb-2 group-hover:text-[var(--vibe-color)]">MESO : L'OREILLE ACTIVE</h3>
+                        <p class="text-sm text-gray-400">
+                            L'oreille n'est pas passive. Elle émet des sons. Elle danse avec l'air pour amplifier le signal.
+                        </p>
+                    </div>
+
+                    <!-- Macro -->
+                    <div class="bg-red-900/10 p-6 border border-red-900/30 hover:border-[var(--vibe-color)] transition-colors group">
+                        <h3 class="font-mono text-white mb-2 group-hover:text-[var(--vibe-color)]">MACRO : LA FOULE</h3>
+                        <p class="text-sm text-gray-400">
+                            La panique est une onde de choc. Votre cœur s'aligne sur celui du voisin. L'individualité fond dans la masse critique.
+                        </p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Section 3: Totem -->
+            <section class="reveal py-16 text-center space-y-8 relative">
+                <h2 class="font-mono text-xs text-gray-500 uppercase tracking-widest relative z-10">IMAGE TOTEM</h2>
+                <div class="text-5xl md:text-8xl font-black text-white tracking-tighter relative z-10 text-vibe animate-pulse">
+                    PEAU-TAMBOUR
+                </div>
+                <p class="text-red-200/50 italic max-w-md mx-auto relative z-10 mt-4">
+                    "Une interface qui transforme le coup en musique."
+                </p>
+            </section>
+
+            <!-- Section 4: Action -->
+            <section class="reveal space-y-6">
+                <h2 class="font-mono text-xs text-[var(--vibe-color)] uppercase tracking-widest mb-4">03. Le Diapason</h2>
+                <p class="text-lg text-gray-300">
+                    Ne coupez pas le son (Mort). Accordez l'instrument (Vie).
+                </p>
+                <div class="mt-8 border-t border-b border-red-900/50 py-8 text-center">
+                    <p class="font-mono text-sm text-[var(--vibe-color)] mb-4">MICRO-GESTE</p>
+                    <p class="text-2xl font-light text-white font-serif">
+                        Sentez la note de la pièce.<br>
+                        Si elle est fausse : blindez.<br>
+                        Si elle est juste : ouvrez.
+                    </p>
+                </div>
+            </section>
+
+            <!-- Interlude Link -->
+            <section class="reveal py-24 text-center">
+                <div class="w-px h-24 bg-gradient-to-b from-[var(--vibe-color)] to-transparent mx-auto mb-8"></div>
+                <h3 class="font-mono text-xs text-gray-500 uppercase tracking-[0.3em] mb-4">INTERLUDE III</h3>
+                <h2 class="text-4xl font-bold text-white mb-4">LA COQUILLE VIDE</h2>
+                <p class="text-gray-500 max-w-md mx-auto">
+                    La vibration s'arrête. La forme reste.<br>
+                    La structure survit au flux.
+                </p>
+            </section>
+
+            <!-- Footer -->
+            <footer class="reveal pt-24 pb-12 mt-12">
+                <div class="flex justify-between items-end border-t border-emerald-900/50 pt-8">
+                    <div>
+                        <p class="font-mono text-xs text-emerald-700 uppercase mb-2">Structure</p>
+                        <p class="text-xl font-bold text-white">RESONNÉE</p>
+                    </div>
+                    
+                    <a href="/mecanique/chap-11.html" class="group text-right">
+                        <p class="font-mono text-xs text-emerald-700 uppercase">Prochaine Séquence</p>
+                        <div class="flex items-center space-x-2 text-white font-bold text-lg group-hover:text-[var(--sap-color)] transition-colors">
+                            <span>EXCRÉTION</span>
+                            <span>→</span>
+                        </div>
+                    </a>
+                </div>
+            </footer>
+
+        </article>
+    </main>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('active');
+                    }
+                });
+            }, { threshold: 0.1 });
+
+            document.querySelectorAll('.reveal').forEach((el) => observer.observe(el));
+        });
+    </script>
+</body>
+</html>
+

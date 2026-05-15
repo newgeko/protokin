@@ -1,0 +1,144 @@
+/* --- ESTHÉTIQUE PROTOKIN (BRUTALISME & PRÉCISION) --- */
+:root {
+    --bg-color: #f8fafc;       /* Papier */
+    --text-main: #1e293b;      /* Encre */
+    --accent-energy: #d97706;  /* Ambre (Tension) */
+    --accent-structure: #0f766e; /* Sarcelle (Structure) */
+    --border-color: #cbd5e1;
+    --font-serif: 'Lora', serif;
+    --font-sans: 'Inter', sans-serif;
+}
+
+/* Base */
+body {
+    margin: 0; padding: 0;
+    background-color: var(--bg-color);
+    color: var(--text-main);
+    font-family: var(--font-sans);
+    display: flex;
+    min-height: 100vh;
+}
+
+/* Navigation Latérale */
+aside {
+    width: 260px;
+    background: white;
+    border-right: 1px solid var(--border-color);
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    position: fixed; /* Fixe à gauche */
+    height: 100vh;
+    overflow-y: auto;
+    z-index: 50;
+    transition: transform 0.3s ease;
+}
+
+#logo {
+    font-family: var(--font-serif);
+    font-weight: 900;
+    font-size: 24px;
+    letter-spacing: -1px;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid var(--text-main);
+}
+
+.nav-group { margin-bottom: 20px; }
+.nav-title { font-size: 10px; text-transform: uppercase; color: #94a3b8; font-weight: bold; margin-bottom: 10px; }
+
+nav a {
+    display: block;
+    padding: 10px;
+    color: var(--text-main);
+    text-decoration: none;
+    border-radius: 6px;
+    transition: all 0.2s;
+    font-size: 14px;
+}
+nav a:hover { background-color: #f1f5f9; }
+nav a.active { background-color: var(--text-main); color: white; font-weight: bold; }
+
+/* Contenu Principal */
+main {
+    margin-left: 260px; /* Espace pour la sidebar */
+    flex-grow: 1;
+    padding: 60px;
+    max-width: 900px;
+}
+
+/* Typographie Contenu */
+h1 { font-family: var(--font-serif); font-size: 48px; line-height: 1; margin-bottom: 20px; color: var(--text-main); }
+h2 { font-size: 28px; margin-top: 40px; border-left: 4px solid var(--accent-energy); padding-left: 15px; }
+p { line-height: 1.7; font-size: 16px; color: #334155; margin-bottom: 20px; }
+.chapeau { font-size: 20px; font-style: italic; color: #64748b; margin-bottom: 40px; border-bottom: 1px solid var(--border-color); padding-bottom: 20px; }
+
+/* Mobile */
+@media (max-width: 768px) {
+    aside { transform: translateX(-100%); }
+    aside.open { transform: translateX(0); }
+    main { margin-left: 0; padding: 20px; padding-top: 80px; }
+    
+    /* Bouton Burger Mobile */
+    #burger { display: block; position: fixed; top: 15px; left: 15px; z-index: 100; background: white; border: 1px solid #ccc; padding: 10px; cursor: pointer; }
+}
+@media (min-width: 769px) { #burger { display: none; } }
+
+/* --- LE PIED DE PAGE (FOOTER) --- */
+.site-footer {
+    margin-top: 80px; /* Espace avec le contenu */
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-top: 2px solid var(--border-color);
+    color: #64748b; /* Gris texte */
+    font-size: 13px;
+}
+
+.footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.footer-block strong {
+    color: var(--text-main);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.footer-links a {
+    color: #64748b;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.footer-links a:hover {
+    color: var(--accent-energy); /* Changement de couleur au survol */
+    text-decoration: underline;
+}
+
+.footer-quote {
+    font-family: var(--font-serif);
+    font-style: italic;
+    text-align: right;
+    opacity: 0.7;
+    border-left: 3px solid var(--accent-structure);
+    padding-left: 15px;
+}
+
+/* Ajustement Mobile pour le footer */
+@media (max-width: 768px) {
+    .footer-content {
+        flex-direction: column;
+        text-align: center;
+    }
+    .footer-quote {
+        text-align: center;
+        border-left: none;
+        border-top: 3px solid var(--accent-structure);
+        padding-top: 15px;
+        padding-left: 0;
+    }
+}

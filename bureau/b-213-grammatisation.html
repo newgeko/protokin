@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROTOKIN | ARCHIVE B-213 | Grammatisation</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+    
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=VT323&family=Inter:wght@300;400;600&display=swap');
+
+        :root {
+            --bg-color: #000000;
+            --matrix-green: #00ff41;
+            --matrix-dim: #003b00;
+            --text-color: #e5e5e5;
+            --glitch-color-1: #ff00ff;
+            --glitch-color-2: #00ffff;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+            selection-background-color: var(--matrix-green);
+            selection-color: #000;
+        }
+
+        .font-code { font-family: 'VT323', monospace; }
+
+        /* --- MATRIX BACKGROUND --- */
+        .matrix-bg {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background-image: linear-gradient(rgba(0, 59, 0, 0.1) 1px, transparent 1px),
+            linear-gradient(90deg, rgba(0, 59, 0, 0.1) 1px, transparent 1px);
+            background-size: 20px 20px;
+            z-index: 0;
+            pointer-events: none;
+        }
+
+        .scanline {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: linear-gradient(to bottom, transparent 50%, rgba(0, 255, 65, 0.02) 50%);
+            background-size: 100% 4px;
+            pointer-events: none;
+            z-index: 50;
+        }
+
+        /* --- UI ELEMENTS --- */
+        .nav-bar {
+            position: fixed;
+            top: 0; width: 100%;
+            padding: 1.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 50;
+            background: rgba(0, 0, 0, 0.9);
+            border-bottom: 1px solid var(--matrix-green);
+        }
+
+        .chapter-header {
+            font-size: clamp(3rem, 10vw, 8rem);
+            line-height: 0.8;
+            text-transform: uppercase;
+            text-shadow: 2px 2px 0px var(--matrix-dim);
+            opacity: 0;
+            transform: scale(0.9);
+            color: var(--matrix-green);
+        }
+
+        /* --- INTERACTIVE PIXELIZER --- */
+        .pixel-container {
+            position: relative;
+            width: 100%;
+            max-width: 600px;
+            height: 400px;
+            margin: 4rem auto;
+            border: 2px solid var(--matrix-green);
+            overflow: hidden;
+            background: #000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #pixel-canvas {
+            image-rendering: pixelated;
+            width: 100%;
+            height: 100%;
+            transition: filter 0.1s;
+        }
+
+        /* --- CONTROLS --- */
+        .control-panel {
+            background: rgba(0, 20, 0, 0.8);
+            border: 1px solid var(--matrix-green);
+            padding: 20px;
+            width: 100%; max-width: 500px;
+            margin: 0 auto 4rem;
+            font-family: 'VT323', monospace;
+            font-size: 1.2rem;
+            color: var(--matrix-green);
+        }
+
+        input[type=range] {
+            width: 100%;
+            accent-color: var(--matrix-green);
+            margin-bottom: 10px;
+        }
+
+        /* --- READER DRAWER --- */
+        .reader-drawer {
+            position: fixed;
+            top: 0; right: 0;
+            width: 100%; max-width: 650px; height: 100%;
+            background: #050505;
+            border-left: 2px solid var(--matrix-green);
+            z-index: 100;
+            transform: translateX(100%);
+            transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+            display: flex;
+            flex-direction: column;
+            box-shadow: -20px 0 100px rgba(0,255,65,0.1);
+        }
+        .reader-drawer.open { transform: translateX(0); }
+
+        .reader-content {
+            padding: 3rem;
+            overflow-y: auto;
+            font-family: 'Georgia', serif;
+            color: #cbd5e1;
+            line-height: 1.7;
+        }
+        
+        .reader-content h3 { color: var(--matrix-green); font-family: 'VT323', monospace; font-size: 1.5rem; margin-top: 2rem; margin-bottom: 1rem; }
+        .reader-content blockquote { border-left: 3px solid var(--matrix-green); padding-left: 1rem; font-style: italic; color: #a3a3a3; margin: 1.5rem 0; font-family: 'Inter', sans-serif;}
+
+        /* --- MENU GLOBAL (Styles conservés pour l'injection JS) --- */
+        .menu-overlay {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(0, 0, 0, 0.98);
+            backdrop-filter: blur(15px);
+            z-index: 200; transform: translateY(-100%);
+            transition: transform 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+            display: flex; flex-direction: column; justify-content: center; align-items: center;
+        }
+        .menu-overlay.open { transform: translateY(0); }
+        
+        .menu-link {
+            font-family: 'VT323', monospace; font-size: 3rem; color: #003b00; margin: 0.5rem 0;
+            text-transform: uppercase; text-decoration: none; transition: color 0.3s, transform 0.3s;
+        }
+        .menu-link:hover { color: var(--matrix-green); transform: scale(1.1); text-shadow: 2px 2px 0px #fff; }
+        
+        .close-menu-btn {
+            position: absolute; top: 2rem; right: 2rem; background: transparent;
+            border: 1px solid var(--matrix-green); color: var(--matrix-green); padding: 0.5rem 1rem; cursor: pointer; font-family: 'VT323', monospace; font-size: 1.2rem;
+        }
+        .close-menu-btn:hover { background: var(--matrix-green); color: black; }
+
+        /* --- FLOATING BUTTON --- */
+        .archive-btn {
+            position: fixed;
+            bottom: 2rem; right: 2rem;
+            background: #000;
+            border: 1px solid var(--matrix-green);
+            color: var(--matrix-green);
+            padding: 1rem 2rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            cursor: pointer;
+            z-index: 90;
+            transition: all 0.3s;
+            font-family: 'VT323', monospace;
+            font-size: 1.2rem;
+            opacity: 0;
+        }
+        .archive-btn:hover {
+            background: var(--matrix-green);
+            color: #000;
+            box-shadow: 0 0 20px var(--matrix-green);
+        }
+
+        /* --- IMAGES --- */
+        .img-overlay {
+            position: relative;
+            overflow: hidden;
+            border: 1px solid var(--matrix-dim);
+        }
+        .img-overlay::after {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: repeating-linear-gradient(0deg, transparent, transparent 2px, #000 3px);
+            opacity: 0.3;
+            pointer-events: none;
+        }
+        .img-overlay img {
+            filter: grayscale(100%) contrast(1.5) brightness(0.8);
+            transition: transform 0.2s steps(5);
+        }
+        .img-overlay:hover img {
+            transform: scale(1.1);
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="matrix-bg"></div>
+    <div class="scanline"></div>
+
+    <!-- NAVIGATION BAR -->
+    <nav class="nav-bar">
+        <!-- L'appel onclick reste le même, le JS s'en occupe -->
+        <button onclick="toggleGlobalMenu()" class="text-lg border border-green-900 px-3 py-1 text-green-500 hover:bg-green-900 hover:text-white transition-colors uppercase tracking-widest font-code">
+            MENU PRINCIPAL
+        </button>
+        <div class="text-lg tracking-widest text-green-700 font-code">REF: B-213 | Bureau d'études</div>
+    </nav>
+
+    <!-- NOTE: Le conteneur HTML du menu (.menu-overlay) a été supprimé d'ici.
+         Il est maintenant injecté par le script menu.js simulé ci-dessous. -->
+
+    <!-- BOUTON LECTURE -->
+    <button class="archive-btn" onclick="toggleDrawer()">
+        [+] DÉCODER LA SOURCE
+    </button>
+
+    <!-- DRAWER DE LECTURE -->
+    <aside class="reader-drawer" id="reader">
+        <div class="p-6 border-b border-green-900 flex justify-between items-center bg-[#050505]">
+            <span class="text-lg text-green-500 font-code">RAPPORT AUROUX</span>
+            <button onclick="toggleDrawer()" class="text-green-700 hover:text-white font-code">[FERMER]</button>
+        </div>
+        <div class="reader-content">
+            <h2 class="text-4xl font-bold text-white mb-6 font-code">LA GRAMMATISATION</h2>
+            <p><strong>Sujet :</strong> Le découpage du réel continu en éléments discrets pour le rendre calculable.</p>
+            
+            <h3>1. Le Continu vs Le Discret</h3>
+            <p>Le monde réel est continu (la vague, le geste, le cri). Pour le stocker et le calculer, la machine doit le hacher en petits morceaux (pixels, bits, lettres). C'est la discrétisation.</p>
+            
+            <blockquote>
+                "Le numérique ne copie pas le monde, il le transforme en mosaïque. Il garde les points et jette la ligne."
+            </blockquote>
+
+            <h3>2. La Loi de Shannon</h3>
+            <p>Pour numériser un son, on prend 44 100 mesures par seconde. Entre deux mesures, il y a le vide. Le numérique est un fromage à trous. L'information du "liant" est perdue à jamais.</p>
+
+            <h3>3. L'Aliénation</h3>
+            <p>En vivant à travers des écrans, nous oublions la continuité du vivant. Nous devenons des êtres "discrets", coupés les uns des autres, comme des pixels qui se touchent sans se mélanger.</p>
+            
+            <div class="mt-12 pt-6 border-t border-green-900 text-lg text-gray-500 font-code">
+                FIN DE L'ARCHIVE B-213
+            </div>
+        </div>
+    </aside>
+
+    <!-- CONTENU PRINCIPAL -->
+    <main class="relative z-10">
+
+        <!-- INTRO -->
+        <section class="min-h-screen flex flex-col justify-center items-center px-6 text-center" id="intro">
+            <h1 class="chapter-header font-code mb-6">
+                GRAMMATI<br>SATION
+            </h1>
+            <p class="text-green-500 text-xl tracking-[0.2em] animate-pulse font-code mt-8">
+                HACHER LE RÉEL POUR LE CONTRÔLER
+            </p>
+        </section>
+
+        <!-- PHASE 1 : LE ZOOM -->
+        <section class="min-h-screen py-24 px-6 flex flex-col items-center">
+            <div class="max-w-4xl w-full grid md:grid-cols-2 gap-12 items-center">
+                
+                <div class="img-overlay reveal">
+                    <img src="B-213-glitch-face.jpg" class="w-full h-full object-cover" alt="Glitch Face">
+                </div>
+
+                <div class="text-panel reveal p-8 border-l-4 border-green-500 bg-green-900/10 backdrop-blur">
+                    <span class="text-xl text-green-400 mb-4 block font-code">PHASE 01 : LE PIXEL</span>
+                    <h2 class="text-2xl mb-4 font-bold text-white font-code">L'Escalier Numérique</h2>
+                    <p class="text-sm text-gray-300 leading-relaxed font-mono">
+                        Zoomez sur une photo. La courbe disparaît.
+                        <br><br>
+                        Il ne reste que des carrés morts. Le numérique est une illusion d'optique. Il simule la vie avec des cadavres de couleurs.
+                    </p>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- PHASE 2 : INTERACTION (PIXELIZER) -->
+        <section class="min-h-screen py-24 px-6 flex flex-col justify-center items-center bg-[#020a02]">
+            <h2 class="text-2xl mb-2 tracking-widest text-green-400 font-code">DÉ-RÉSOLUTION</h2>
+            <p class="text-sm text-gray-500 mb-8 max-w-md text-center font-mono">
+                Réduisez la résolution pour voir la grille apparaître.
+            </p>
+
+            <div class="pixel-container">
+                <canvas id="pixel-canvas"></canvas>
+            </div>
+
+            <div class="control-panel text-center">
+                <div class="flex justify-between text-lg text-gray-500 mb-2 font-code">
+                    <span>HD (CONTINU)</span>
+                    <span>1 BIT (DISCRET)</span>
+                </div>
+                <input type="range" id="resolutionSlider" min="1" max="100" value="100">
+                <div class="mt-4 text-center text-xl font-code text-green-500" id="status-text">
+                    RÉSOLUTION : 100%
+                </div>
+            </div>
+        </section>
+
+        <!-- PHASE 3 : L'ALGORITHME -->
+        <section class="min-h-screen py-24 px-6 flex flex-col justify-center items-center relative">
+            <div class="absolute inset-0 z-0 opacity-20">
+                <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1000&auto=format&fit=crop" class="w-full h-full object-cover" alt="Code Matrix">
+            </div>
+
+            <div class="text-panel reveal z-10 text-center max-w-xl p-8 border border-green-900 bg-black/90">
+                <span class="text-xl text-green-500 mb-4 block font-code">PHASE 03 : LE CALCUL</span>
+                <h2 class="text-3xl mb-6 font-bold text-white font-code">La Nourriture de la Machine</h2>
+                <p class="text-sm text-gray-300 leading-relaxed font-mono">
+                    Une fois le monde réduit en chiffres, il peut être avalé par l'Algorithme.
+                    <br><br>
+                    Nous avons préparé le repas de l'IA en découpant nos vies en Data.
+                </p>
+            </div>
+        </section>
+
+        <!-- CONCLUSION -->
+        <section class="h-[50vh] flex flex-col justify-center items-center text-center border-t border-green-900 bg-[#000]">
+            <p class="text-lg text-gray-500 mb-4 uppercase tracking-widest font-code">FIN DE LA SÉQUENCE</p>
+            <h2 class="text-4xl font-code text-white mb-8">LE MONDE N'EST PAS<br>UN FICHIER</h2>
+            
+            <a href="#" class="border border-green-500 text-green-500 px-8 py-3 hover:bg-green-500 hover:text-black transition-colors uppercase font-bold text-xl tracking-widest font-code" onclick="alert('Lien vers le Chapitre suivant : Algorithme')">
+                SUITE : LA PRÉDICTION
+            </a>
+        </section>
+
+    </main>
+
+    <!-- SCRIPT DU MENU (À EXTERNALISER DANS menu.js) -->
+    <script src="menu_bureau.js"></script>
+
+
+    <!-- SCRIPT PRINCIPAL (Reste dans index.html ou main.js) -->
+    <script>
+        gsap.registerPlugin(ScrollTrigger);
+
+        // --- 1. PIXELIZER LOGIC ---
+        const canvas = document.getElementById('pixel-canvas');
+        const ctx = canvas.getContext('2d');
+        const slider = document.getElementById('resolutionSlider');
+        const statusText = document.getElementById('status-text');
+        
+        const img = new Image();
+        img.crossOrigin = "Anonymous";
+        img.src = "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000&auto=format&fit=crop";
+        
+        img.onload = () => {
+            canvas.width = canvas.parentElement.clientWidth;
+            canvas.height = canvas.parentElement.clientHeight;
+            pixelate(100);
+        };
+
+        slider.addEventListener('input', (e) => {
+            const val = e.target.value;
+            statusText.innerText = `RÉSOLUTION : ${val}%`;
+            pixelate(val);
+        });
+
+        function pixelate(v) {
+            let size = (101 - v) / 100;
+            if (v == 100) size = 1;
+            
+            const w = canvas.width * (v/100);
+            const h = canvas.height * (v/100);
+
+            ctx.imageSmoothingEnabled = false;
+            ctx.drawImage(img, 0, 0, w, h);
+            ctx.drawImage(canvas, 0, 0, w, h, 0, 0, canvas.width, canvas.height);
+        }
+        
+        window.addEventListener('resize', () => {
+             if(img.complete) {
+                canvas.width = canvas.parentElement.clientWidth;
+                canvas.height = canvas.parentElement.clientHeight;
+                pixelate(slider.value);
+             }
+        });
+
+        // --- 2. ANIMATIONS GSAP ---
+        gsap.to(".chapter-header", {
+            opacity: 1, scale: 1, duration: 2, ease: "power4.out", delay: 0.5
+        });
+
+        ScrollTrigger.create({
+            trigger: "#intro",
+            start: "bottom center",
+            onEnter: () => gsap.to(".archive-btn", { opacity: 1, y: 0, duration: 0.5 }),
+            onLeaveBack: () => gsap.to(".archive-btn", { opacity: 0, y: 20, duration: 0.5 })
+        });
+
+        gsap.utils.toArray('.reveal').forEach(elem => {
+            gsap.fromTo(elem, 
+                { y: 50, opacity: 0 },
+                {
+                    scrollTrigger: {
+                        trigger: elem,
+                        start: "top 85%",
+                        toggleActions: "play none none reverse"
+                    },
+                    y: 0, opacity: 1, duration: 1
+                }
+            );
+        });
+
+        gsap.to(".img-overlay img", {
+            scrollTrigger: {
+                trigger: ".img-overlay",
+                scrub: true
+            },
+            scale: 1.15
+        });
+
+        // 3. FONCTION TIROIR
+        function toggleDrawer() {
+            document.getElementById('reader').classList.toggle('open');
+            document.body.style.overflow = document.getElementById('reader').classList.contains('open') ? 'hidden' : 'auto';
+        }
+
+    </script>
+</body>
+</html>

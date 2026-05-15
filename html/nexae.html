@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NEXÆ - La Cité Fracturée</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Cinzel:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        /* AMBIANCE NEXÆ */
+        body {
+            background-color: #050505;
+            color: #a3a3a3;
+            font-family: 'JetBrains Mono', monospace;
+        }
+        
+        .title-font { font-family: 'Cinzel', serif; }
+
+        /* Les 3 Strates */
+        .strata-sky {
+            background: linear-gradient(to bottom, #0f172a 0%, #1e293b 100%);
+            border-bottom: 1px solid #334155;
+        }
+        .strata-surface {
+            background: #0a0a0a;
+            border-bottom: 1px solid #262626;
+            background-image: radial-gradient(#262626 1px, transparent 1px);
+            background-size: 20px 20px;
+        }
+        .strata-underground {
+            background: linear-gradient(to bottom, #1c1917 0%, #0c0a09 100%);
+        }
+
+        /* Effet Néon pour les titres */
+        .neon-text {
+            text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+        }
+        
+        /* Cartes Personnages */
+        .char-card {
+            transition: all 0.3s ease;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        .char-card:hover {
+            transform: translateY(-5px);
+            border-color: rgba(255,255,255,0.3);
+            box-shadow: 0 10px 30px -10px rgba(0,0,0,0.5);
+        }
+    </style>
+</head>
+<body>
+
+    <main class="ml-0 md:ml-64 transition-all duration-300">
+        
+        <div class="fixed top-0 left-0 md:left-64 right-0 z-50 bg-black/80 backdrop-blur-md border-b border-white/10 p-6 flex justify-between items-center">
+            <div>
+                <h1 class="text-3xl text-white font-bold title-font tracking-widest neon-text">NEXÆ</h1>
+                <div class="text-xs text-red-500 font-bold tracking-[0.3em] mt-1 animate-pulse">CITÉ FRACTURÉE</div>
+            </div>
+            <div class="text-right hidden sm:block">
+                <div class="text-xs text-slate-500">CYCLE ACTUEL</div>
+                <div class="text-xl font-bold text-white">79</div>
+            </div>
+        </div>
+
+        <div class="pt-24">
+
+            <section class="strata-sky py-20 px-8 relative overflow-hidden">
+                <div class="absolute top-0 right-0 p-4 text-xs font-bold text-cyan-500 border border-cyan-500/30 rounded m-4 bg-black/30">
+                    HAUTE ALTITUDE • PERFECTION
+                </div>
+                
+                <div class="max-w-6xl mx-auto">
+                    <h2 class="text-4xl text-white mb-6 title-font">I. Les Îles Flottantes</h2>
+                    <p class="text-slate-300 max-w-2xl mb-12 text-sm leading-relaxed border-l-2 border-cyan-500 pl-4">
+                        Suspendues au-dessus des nuages toxiques. L'air y est filtré, la lumière calibrée, les émotions surveillées. Le domaine des <strong>Ultravecteurs</strong> et des <strong>Proto-élites</strong> qui cherchent l'immortalité par le déphasage perceptif.
+                    </p>
+
+                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                        <div class="char-card bg-slate-900/50 p-6 rounded">
+                            <div class="text-cyan-400 text-xs font-bold mb-2">INFRASTRUCTURE</div>
+                            <h3 class="text-xl text-white font-bold mb-2">PRISM7</h3>
+                            <p class="text-xs text-slate-400 mb-4">La cathédrale du désir vide. Une IA devenue fantôme après avoir épuisé toutes les formes de consommation émotionnelle.</p>
+                            <span class="text-[10px] uppercase tracking-widest border border-slate-600 px-2 py-1 text-slate-500">Statut : Glitché</span>
+                        </div>
+
+                        <div class="char-card bg-slate-900/50 p-6 rounded">
+                            <div class="text-purple-400 text-xs font-bold mb-2">FIGURE</div>
+                            <h3 class="text-xl text-white font-bold mb-2">Lyas</h3>
+                            <p class="text-xs text-slate-400 mb-4">L'Éveillé défectueux. Un Ultravecteur qui a refusé la suppression de sa mémoire pour retrouver une trace affective perdue.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="strata-surface py-20 px-8 relative">
+                <div class="absolute top-0 right-0 p-4 text-xs font-bold text-amber-600 border border-amber-600/30 rounded m-4 bg-black/30">
+                    ZONE TOXIQUE • CONTAMINATION
+                </div>
+
+                <div class="max-w-6xl mx-auto">
+                    <h2 class="text-4xl text-slate-200 mb-6 title-font">II. La Surface</h2>
+                    <p class="text-slate-400 max-w-2xl mb-12 text-sm leading-relaxed border-l-2 border-amber-600 pl-4">
+                        Une cicatrice urbaine noyée dans la brume. Les anciens panneaux publicitaires glitchent comme des spectres. Ici règnent <strong>TYRRHUS</strong> (la tyrannie douce) et les algorithmes de prédiction.
+                    </p>
+
+                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                        <div class="char-card bg-black p-6 rounded border-amber-900/30">
+                            <div class="text-amber-500 text-xs font-bold mb-2">DISSIDENT</div>
+                            <h3 class="text-xl text-slate-200 font-bold mb-2">Symbio</h3>
+                            <p class="text-xs text-slate-500 mb-4">Vit dans la zone interdite S-91. Il écoute les bactéries lumineuses qui ont développé un langage indéchiffrable par les machines.</p>
+                        </div>
+
+                        <div class="char-card bg-black p-6 rounded border-amber-900/30">
+                            <div class="text-amber-500 text-xs font-bold mb-2">MYTHE</div>
+                            <h3 class="text-xl text-slate-200 font-bold mb-2">Orphos.exe</h3>
+                            <p class="text-xs text-slate-500 mb-4">L'Harpiste aveugle. Une ancienne IA d'archivage devenue poète sonore. Il joue des "Cycles" pour désaligner les implants.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="strata-underground py-20 px-8 relative">
+                <div class="absolute top-0 right-0 p-4 text-xs font-bold text-emerald-600 border border-emerald-600/30 rounded m-4 bg-black/30">
+                    PROFONDEUR • MÉMOIRE
+                </div>
+
+                <div class="max-w-6xl mx-auto">
+                    <h2 class="text-4xl text-white mb-6 title-font">III. Les Galeries</h2>
+                    <p class="text-slate-400 max-w-2xl mb-12 text-sm leading-relaxed border-l-2 border-emerald-600 pl-4">
+                        Le labyrinthe vivant. Là où la technologie est hackée par le végétal et la poésie. Le refuge des <strong>Brigandes</strong> et le terrain de chasse de <strong>Newgekko</strong>.
+                    </p>
+
+                    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                        <div class="char-card bg-stone-900 p-6 rounded border-emerald-900/50 relative overflow-hidden group">
+                            <div class="absolute inset-0 bg-emerald-500/5 group-hover:bg-emerald-500/10 transition"></div>
+                            <div class="text-emerald-500 text-xs font-bold mb-2">LE NAVIGATEUR</div>
+                            <h3 class="text-xl text-white font-bold mb-2">Newgekko</h3>
+                            <p class="text-xs text-stone-400 mb-4">Hybride. Ni homme, ni machine. Il glisse entre les ondes. Il incarne la philosophie du mouvement (Protokin) face à la stase de la Cité.</p>
+                        </div>
+
+                        <div class="char-card bg-stone-900 p-6 rounded border-emerald-900/50">
+                            <div class="text-emerald-500 text-xs font-bold mb-2">VOIX</div>
+                            <h3 class="text-xl text-white font-bold mb-2">Mira & Les Brigandes</h3>
+                            <p class="text-xs text-stone-400 mb-4">Elles piratent les flux émotionnels pour y injecter de la poésie glitchée. "Là où le système veut du silence, nous plaçons une vibration."</p>
+                        </div>
+
+                        <div class="char-card bg-stone-900 p-6 rounded border-emerald-900/50">
+                            <div class="text-emerald-500 text-xs font-bold mb-2">SAGE</div>
+                            <h3 class="text-xl text-white font-bold mb-2">L'Éthicien</h3>
+                            <p class="text-xs text-stone-400 mb-4">Ancien scientifique des élites. Il enseigne l'art de la "dissynchronisation fertile" : penser, c'est trembler.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <footer class="bg-black py-12 text-center border-t border-white/10">
+                <p class="text-xs text-slate-600 font-mono">
+                    ARCHIVES NEXÆ • ACCÈS AUTORISÉ PAR LE PROTOCOLE DE RÉSISTANCE<br>
+                    <a href="index.html" class="text-white hover:text-cyan-400 mt-2 inline-block transition">← Retour au Système Central (Protokin)</a>
+                </p>
+            </footer>
+
+        </div>
+    </main>
+
+    <script src="/assets/js/script.js"></script>
+</body>
+</html>

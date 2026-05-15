@@ -1,0 +1,24 @@
+# --- PROTOCOLE D'ACCÈS ROBOTIQUE ---
+
+# 1. Règles pour les moteurs de recherche classiques (Google, Bing, DuckDuckGo)
+User-agent: *
+Allow: /
+# On autorise tout le site pour le référencement naturel (SEO)
+
+# 2. Règles de Résistance (Blocage des aspirateurs d'IA)
+# Empêche GPT (OpenAI) d'utiliser vos textes pour s'entraîner
+User-agent: GPTBot
+Disallow: /
+
+# Empêche Common Crawl (utilisé par beaucoup d'IA)
+User-agent: CCBot
+Disallow: /
+
+# Empêche Google d'utiliser vos données pour Bard/Gemini (tout en restant sur Google Search)
+User-agent: Google-Extended
+Disallow: /
+
+# 3. Cartographie du Système
+# Indiquez aux robots où trouver la liste de vos pages
+# (Remplacez par votre vrai domaine quand il sera actif)
+Sitemap: https://www.protokin.com/sitemap.xml

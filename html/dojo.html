@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROTOKIN | The Dojo</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=JetBrains+Mono:wght@300;500&family=Inter:wght@300;600&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-color: #0a0a0a;
+            --text-primary: #e5e5e5;
+            --text-secondary: #666;
+            --accent: #ff3333;
+            --border: #333;
+            --card-bg: #111;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+            /* Cursor logic handled by JS */
+        }
+        
+        @media (min-width: 768px) {
+            body { cursor: crosshair; }
+        }
+
+        h1, h2, h3 { font-family: 'Cinzel', serif; }
+        .mono { font-family: 'JetBrains Mono', monospace; }
+
+        /* Noise */
+        .noise {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            pointer-events: none; z-index: 50; opacity: 0.05;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='1'/%3E%3C/svg%3E");
+        }
+
+        /* Cursor */
+        .cursor-follower {
+            position: fixed; width: 20px; height: 20px;
+            border: 1px solid var(--text-primary); border-radius: 50%;
+            pointer-events: none; z-index: 100; transition: transform 0.1s;
+            mix-blend-mode: difference;
+        }
+
+        /* Protocol Card Styles */
+        .protocol-card {
+            background-color: var(--card-bg);
+            border-left: 2px solid var(--border);
+            transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .protocol-card:hover {
+            border-left-color: var(--accent);
+            background-color: #161616;
+            transform: translateX(10px);
+        }
+
+        .protocol-number {
+            color: var(--text-secondary);
+            font-size: 0.8rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .protocol-title {
+            font-size: 1.5rem;
+            color: white;
+            margin-bottom: 1rem;
+        }
+
+        .protocol-action {
+            display: inline-block;
+            padding: 0.25rem 0.5rem;
+            background: rgba(255, 51, 51, 0.1);
+            color: var(--accent);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 1rem;
+        }
+
+        .step-marker {
+            width: 6px;
+            height: 6px;
+            background-color: var(--border);
+            margin-top: 8px;
+            margin-right: 12px;
+        }
+        
+        .step-item:hover .step-marker {
+            background-color: var(--accent);
+        }
+
+    </style>
+</head>
+<body class="antialiased">
+
+    <!-- Canvas Background -->
+    <canvas id="protokin-field" class="fixed top-0 left-0 w-full h-full -z-10 opacity-30"></canvas>
+    <div class="noise"></div>
+    <div id="cursor" class="cursor-follower hidden md:block"></div>
+
+    <!-- Header -->
+    <header class="fixed top-0 w-full z-40 border-b border-neutral-800 bg-black/90 backdrop-blur-sm">
+        <div class="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
+            <div class="flex items-center gap-8">
+                <a href="index_en.html" class="flex items-center gap-4 group">
+                    <span class="text-xl md:text-2xl font-bold tracking-tighter group-hover:text-white transition-colors">PROTOKIN</span>
+                    <span class="hidden md:inline-block w-px h-6 bg-neutral-800"></span>
+                    <span class="mono text-[10px] md:text-xs text-neutral-500 uppercase tracking-widest">Sys. v2.1</span>
+                </a>
+                
+                <nav class="hidden md:flex gap-6 mono text-xs uppercase tracking-wider text-neutral-500">
+                    <a href="map.html" class="hover:text-white transition-colors">The Map</a>
+                    <a href="dojo.html" class="text-white">The Dojo</a>
+                    <a href="glossary.html" class="hover:text-white transition-colors">Glossary</a>
+                </nav>
+            </div>
+            
+             <!-- Mobile Menu Icon (simulated) -->
+             <div class="md:hidden text-neutral-500 text-xs mono uppercase">
+                <a href="index_en.html">Menu</a>
+            </div>
+
+            <div class="hidden md:flex items-center gap-6">
+                <div class="flex flex-col items-end">
+                    <span class="mono text-[10px] text-neutral-500 uppercase">Training Mode</span>
+                    <span class="mono text-xs text-red-500">ACTIVE</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="pt-32 pb-20 px-6 max-w-5xl mx-auto">
+        
+        <div class="mb-16 border-l-4 border-white pl-6 py-2">
+            <h1 class="text-4xl md:text-6xl mb-4 text-white">The Dojo</h1>
+            <p class="text-neutral-400 text-lg md:text-xl font-light max-w-2xl">
+                This is not a gym. It is a facility for retraining the nervous system.<br>
+                <span class="text-neutral-600 mono text-sm mt-2 block">OBJECTIVE: Convert theory into reflex.</span>
+            </p>
+        </div>
+
+        <!-- PROTOCOL LIST -->
+        <div class="space-y-12">
+
+            <!-- KATA 01: THE MICRO-GESTURE -->
+            <div id="micro-gesture" class="protocol-card p-8 md:p-10">
+                <div class="flex justify-between items-start">
+                    <div class="mono protocol-number">KATA-01 // PHASE I</div>
+                    <div class="mono protocol-action">Ignition</div>
+                </div>
+                <h2 class="protocol-title">The Micro-Gesture</h2>
+                <p class="text-neutral-400 mb-8 max-w-3xl">
+                    To break inertia (supercooling), do not seek the perfect action. Seek the cutting action. Introduce an impurity into the static field.
+                </p>
+                
+                <div class="space-y-4 mono text-xs md:text-sm text-neutral-500">
+                    <div class="flex items-start step-item">
+                        <div class="step-marker"></div>
+                        <p><span class="text-white">EXECUTION:</span> When paralyzed by a task, perform a physically arbitrary act immediately. Drop a pen. Type a random letter. Stand up.</p>
+                    </div>
+                    <div class="flex items-start step-item">
+                        <div class="step-marker"></div>
+                        <p><span class="text-white">MECHANICS:</span> This breaks the symmetry of waiting. It collapses the wave function of hesitation.</p>
+                    </div>
+                    <div class="flex items-start step-item">
+                        <div class="step-marker"></div>
+                        <p><span class="text-white">WARNING:</span> Once the dam breaks, the flow will not stop. Be ready to channel.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- KATA 02: THE VETO -->
+            <div id="veto" class="protocol-card p-8 md:p-10">
+                <div class="flex justify-between items-start">
+                    <div class="mono protocol-number">KATA-02 // PHASE IV</div>
+                    <div class="mono protocol-action">Inhibition</div>
+                </div>
+                <h2 class="protocol-title">The Veto</h2>
+                <p class="text-neutral-400 mb-8 max-w-3xl">
+                    Intelligence is a brake. "Spontaneity" is the dictatorship of the automaton. Freedom is the capacity to insert a delay between stimulus and response.
+                </p>
+                
+                <div class="space-y-4 mono text-xs md:text-sm text-neutral-500">
+                    <div class="flex items-start step-item">
+                        <div class="step-marker"></div>
+                        <p><span class="text-white">EXECUTION:</span> Insert a 3-second artificial delay before any reaction (reply, purchase, anger). Count.</p>
+                    </div>
+                    <div class="flex items-start step-item">
+                        <div class="step-marker"></div>
+                        <p><span class="text-white">MECHANICS:</span> Forces the signal to travel from the reptilian brain (fast) to the cortex (slow/deep).</p>
+                    </div>
+                    <div class="flex items-start step-item">
+                        <div class="step-marker"></div>
+                        <p><span class="text-white">TARGET:</span> Replace "I must" (reflex) with "I can" (option).</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- KATA 03: THE BLACKOUT -->
+            <div id="blackout" class="protocol-card p-8 md:p-10">
+                <div class="flex justify-between items-start">
+                    <div class="mono protocol-number">KATA-03 // PHASE III</div>
+                    <div class="mono protocol-action">Clearance</div>
+                </div>
+                <h2 class="protocol-title">The Blackout</h2>
+                <p class="text-neutral-400 mb-8 max-w-3xl">
+                    The brain washes itself only during deep rest (Glymphatic System). "Standby mode" (scrolling) is toxic. You must either be On or Off.
+                </p>
+                
+                <div class="space-y-4 mono text-xs md:text-sm text-neutral-500">
+                    <div class="flex items-start step-item">
+                        <div class="step-marker"></div>
+                        <p><span class="text-white">EXECUTION:</span> Impose 60 seconds of total sensory death daily. Eyes closed. Ears plugged. No movement.</p>
+                    </div>
+                    <div class="flex items-start step-item">
+                        <div class="step-marker"></div>
+                        <p><span class="text-white">MECHANICS:</span> Allows sediment to settle. Resets the noise floor of the nervous system.</p>
+                    </div>
+                    <div class="flex items-start step-item">
+                        <div class="step-marker"></div>
+                        <p><span class="text-white">AXIOM:</span> Rest is not the absence of work. It is an active maintenance operation.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- KATA 04: THE DRIFT -->
+            <div id="drift" class="protocol-card p-8 md:p-10">
+                <div class="flex justify-between items-start">
+                    <div class="mono protocol-number">KATA-04 // PHASE IV</div>
+                    <div class="mono protocol-action">Navigation</div>
+                </div>
+                <h2 class="protocol-title">The Drift</h2>
+                <p class="text-neutral-400 mb-8 max-w-3xl">
+                    Algorithms optimize the path but kill the territory. To recover orientation, you must break the Blue Line of the GPS.
+                </p>
+                
+                <div class="space-y-4 mono text-xs md:text-sm text-neutral-500">
+                    <div class="flex items-start step-item">
+                        <div class="step-marker"></div>
+                        <p><span class="text-white">EXECUTION:</span> Leave the phone. Walk without a destination for 30 minutes. Accept the anxiety of being "unoptimized".</p>
+                    </div>
+                    <div class="flex items-start step-item">
+                        <div class="step-marker"></div>
+                        <p><span class="text-white">MECHANICS:</span> Desaturation of the input channel. Recovery of the "Frugality" of attention.</p>
+                    </div>
+                </div>
+            </div>
+
+             <!-- KATA 05: THE GRIP -->
+             <div id="grip" class="protocol-card p-8 md:p-10">
+                <div class="flex justify-between items-start">
+                    <div class="mono protocol-number">KATA-05 // PHASE I</div>
+                    <div class="mono protocol-action">Friction</div>
+                </div>
+                <h2 class="protocol-title">The Grip</h2>
+                <p class="text-neutral-400 mb-8 max-w-3xl">
+                    Attention slides on smooth surfaces (screens, corporate speech). To think, you must create roughness.
+                </p>
+                
+                <div class="space-y-4 mono text-xs md:text-sm text-neutral-500">
+                    <div class="flex items-start step-item">
+                        <div class="step-marker"></div>
+                        <p><span class="text-white">EXECUTION:</span> Aggressively annotate. Scratch the surface. Find the error. Disagree physically with the medium.</p>
+                    </div>
+                    <div class="flex items-start step-item">
+                        <div class="step-marker"></div>
+                        <p><span class="text-white">MECHANICS:</span> Tribology of the mind. No traction without asperities.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="mt-24 text-center">
+            <p class="text-neutral-600 italic font-serif">"You do not learn the Protokin. You become it through repetition."</p>
+        </div>
+
+    </main>
+
+    <footer class="mt-24 border-t border-neutral-900 bg-black py-12">
+        <div class="max-w-7xl mx-auto px-6 text-center mono text-[10px] uppercase text-neutral-600">
+            <p class="mb-4">Training Protocols v2.1</p>
+            <a href="index_en.html" class="hover:text-white transition-colors">Return to Seismograph</a>
+        </div>
+    </footer>
+
+    <script>
+        // --- 1. CURSOR MANAGEMENT ---
+        const cursor = document.getElementById('cursor');
+        
+        // Only activate custom cursor logic on desktop
+        if (window.matchMedia("(min-width: 768px)").matches) {
+            document.addEventListener('mousemove', (e) => {
+                requestAnimationFrame(() => {
+                    cursor.style.transform = `translate(${e.clientX - 10}px, ${e.clientY - 10}px)`;
+                });
+            });
+
+            // Hover effect for links & cards
+            const interactives = document.querySelectorAll('a, .protocol-card');
+            interactives.forEach(el => {
+                el.addEventListener('mouseenter', () => {
+                    cursor.style.borderColor = '#ff3333';
+                    cursor.style.transform += ' scale(1.5)';
+                });
+                el.addEventListener('mouseleave', () => {
+                    cursor.style.borderColor = '#e5e5e5';
+                    cursor.style.transform = cursor.style.transform.replace(' scale(1.5)', '');
+                });
+            });
+        }
+
+        // --- 2. SUBTLE BACKGROUND PARTICLES ---
+        const canvas = document.getElementById('protokin-field');
+        const ctx = canvas.getContext('2d');
+        let particles = [];
+        let width, height;
+
+        function resize() {
+            width = canvas.width = window.innerWidth;
+            height = canvas.height = window.innerHeight;
+        }
+        window.addEventListener('resize', resize);
+        resize();
+
+        class Particle {
+            constructor() {
+                this.x = Math.random() * width;
+                this.y = Math.random() * height;
+                this.vx = (Math.random() - 0.5) * 0.1; 
+                this.vy = (Math.random() - 0.5) * 0.1;
+                this.size = Math.random() * 1.5;
+                this.baseOpacity = Math.random() * 0.1;
+            }
+
+            update() {
+                this.x += this.vx;
+                this.y += this.vy;
+                if (this.x < 0) this.x = width;
+                if (this.x > width) this.x = 0;
+                if (this.y < 0) this.y = height;
+                if (this.y > height) this.y = 0;
+            }
+
+            draw() {
+                ctx.fillStyle = '#ffffff';
+                ctx.globalAlpha = this.baseOpacity;
+                ctx.beginPath();
+                ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+                ctx.fill();
+            }
+        }
+
+        // Particle count based on screen size
+        const particleCount = window.innerWidth < 768 ? 30 : 80;
+        for (let i = 0; i < particleCount; i++) particles.push(new Particle());
+
+        function animate() {
+            ctx.clearRect(0, 0, width, height);
+            
+            // Grid lines only on desktop
+            if (width > 768) {
+                ctx.strokeStyle = 'rgba(255, 255, 255, 0.02)';
+                ctx.lineWidth = 1;
+                const gridSize = 50;
+                
+                for(let x=0; x<width; x+=gridSize) {
+                    ctx.beginPath(); ctx.moveTo(x,0); ctx.lineTo(x,height); ctx.stroke();
+                }
+                for(let y=0; y<height; y+=gridSize) {
+                    ctx.beginPath(); ctx.moveTo(0,y); ctx.lineTo(width,y); ctx.stroke();
+                }
+            }
+
+            particles.forEach(p => {
+                p.update();
+                p.draw();
+            });
+            requestAnimationFrame(animate);
+        }
+        animate();
+    </script>
+</body>
+</html>

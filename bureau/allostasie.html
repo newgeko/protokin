@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="fr" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LABO // MÉSO-03 : L'ALLOSTASIE</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400;600&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    
+    <style>
+        body { font-family: 'Inter', sans-serif; background-color: #f8fafc; color: #0f172a; }
+        .serif { font-family: 'Lora', serif; }
+        .mono { font-family: 'JetBrains Mono', monospace; }
+        
+        /* Grille Technique */
+        .bg-grid-tech {
+            background-image: 
+                linear-gradient(to right, rgba(15, 23, 42, 0.05) 1px, transparent 1px),
+                linear-gradient(to bottom, rgba(15, 23, 42, 0.05) 1px, transparent 1px);
+            background-size: 20px 20px;
+        }
+
+        /* La Jauge de Cortisol */
+        .cortisol-bar {
+            transition: height 0.1s linear, background-color 0.5s ease;
+        }
+
+        /* L'Organisme (Cercle qui pulse) */
+        .organism {
+            transition: transform 0.1s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.3s ease;
+        }
+        
+        /* Animation de tremblement sous stress */
+        @keyframes shake {
+            0% { transform: translate(1px, 1px) rotate(0deg); }
+            10% { transform: translate(-1px, -2px) rotate(-1deg); }
+            20% { transform: translate(-3px, 0px) rotate(1deg); }
+            30% { transform: translate(3px, 2px) rotate(0deg); }
+            40% { transform: translate(1px, -1px) rotate(1deg); }
+            50% { transform: translate(-1px, 2px) rotate(-1deg); }
+            60% { transform: translate(-3px, 1px) rotate(0deg); }
+            70% { transform: translate(3px, 1px) rotate(-1deg); }
+            80% { transform: translate(-1px, -1px) rotate(1deg); }
+            90% { transform: translate(1px, 2px) rotate(0deg); }
+            100% { transform: translate(1px, -2px) rotate(-1deg); }
+        }
+        .shaking {
+            animation: shake 0.5s;
+            animation-iteration-count: infinite;
+        }
+
+        /* Bouton Industriel */
+        .btn-action {
+            background: transparent;
+            border: 2px solid #0f766e;
+            color: #0f766e;
+            font-family: 'JetBrains Mono', monospace;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            padding: 16px 32px;
+            transition: all 0.1s;
+            cursor: pointer;
+            font-weight: bold;
+            position: relative;
+            overflow: hidden;
+        }
+        .btn-action::after {
+            content: '';
+            position: absolute;
+            top: 0; left: -100%;
+            width: 100%; height: 100%;
+            background: #0f766e;
+            transition: left 0.3s ease;
+            z-index: -1;
+        }
+        .btn-action:hover { color: white; }
+        .btn-action:hover::after { left: 0; }
+        .btn-action:active { transform: scale(0.95); }
+
+    </style>
+</head>
+<body class="selection:bg-amber-100 selection:text-amber-900">
+
+    <!-- NAV -->
+    <nav class="fixed top-0 w-full bg-slate-50/90 backdrop-blur border-b border-slate-200 z-50 h-12 flex items-center justify-between px-6">
+        <a href="index.html" class="mono text-[10px] hover:text-teal-700 transition-colors flex items-center gap-2">
+            <span>←</span> RETOUR AU SYSTÈME
+        </a>
+        <div class="mono text-[10px] text-slate-400">
+            MODULE: MÉSO_03 // STATUT: CRITIQUE
+        </div>
+    </nav>
+
+    <!-- HEADER -->
+    <header class="pt-32 pb-16 px-6 max-w-4xl mx-auto text-center">
+        <div class="inline-block border border-amber-600 text-amber-600 px-2 py-1 mono text-[10px] mb-6 uppercase tracking-widest animate-pulse">
+            Diagnostic : Inflammation Systémique
+        </div>
+        <h1 class="text-4xl md:text-6xl serif font-bold text-slate-900 mb-6 leading-tight">
+            L'Attente est un Acide
+        </h1>
+        <p class="text-slate-500 max-w-xl mx-auto text-sm leading-relaxed font-medium">
+            Votre corps se prépare au combat (adrénaline, glucose).<br>
+            Mais le combat ne vient pas. L'énergie non dépensée se retourne contre vous.
+        </p>
+    </header>
+
+    <!-- EXPÉRIENCE : LE RÉACTEUR BIOLOGIQUE -->
+    <section class="max-w-5xl mx-auto px-6 mb-24">
+        <div class="bg-white border border-slate-200 shadow-2xl relative overflow-hidden rounded-sm flex flex-col md:flex-row h-[600px]">
+            
+            <!-- 1. LA JAUGE DE STRESS (Gauche) -->
+            <div class="w-24 bg-slate-100 border-r border-slate-200 relative flex flex-col justify-end items-center">
+                <!-- Niveau de Cortisol -->
+                <div id="cortisol-level" class="cortisol-bar w-full bg-teal-600 opacity-80" style="height: 0%;"></div>
+                
+                <!-- Graduations -->
+                <div class="absolute inset-0 flex flex-col justify-between py-4 pointer-events-none">
+                    <div class="w-full border-t border-slate-300 h-px"></div>
+                    <div class="w-full border-t border-slate-300 h-px"></div>
+                    <div class="w-full border-t border-slate-300 h-px"></div>
+                    <div class="w-full border-t border-slate-300 h-px"></div>
+                    <div class="w-full border-t border-slate-300 h-px"></div>
+                </div>
+                
+                <span class="absolute top-2 left-1/2 -translate-x-1/2 mono text-[10px] text-slate-400 rotate-90 origin-left translate-y-8">CORTISOL</span>
+            </div>
+
+            <!-- 2. L'ORGANISME (Centre) -->
+            <div class="flex-1 bg-slate-50 relative flex flex-col items-center justify-center overflow-hidden">
+                <div class="absolute inset-0 bg-grid-tech opacity-20"></div>
+                
+                <!-- Le Cœur du système -->
+                <div id="core" class="organism w-48 h-48 rounded-full border-4 border-slate-900 bg-white flex items-center justify-center relative z-10 shadow-lg">
+                    <div class="mono text-xs font-bold text-slate-900 text-center">
+                        <span id="bpm">60</span> BPM<br>
+                        <span id="status" class="text-[10px] text-slate-400">REPOS</span>
+                    </div>
+                </div>
+
+                <!-- Les messages de l'hypothalamus -->
+                <div id="neural-msg" class="absolute top-10 mono text-xs text-amber-600 font-bold opacity-0 transition-opacity">
+                    > MENACE DÉTECTÉE...
+                </div>
+
+                <!-- Zone d'Action -->
+                <div class="absolute bottom-10 w-full px-10 flex justify-center">
+                    <button id="btn-fight" class="btn-action w-full max-w-xs group">
+                        DÉCHARGER (ACTION)
+                        <span class="block text-[8px] opacity-60 group-hover:text-white mt-1">BRÛLER LE SUCRE</span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- 3. LE DIAGNOSTIC (Droite) -->
+            <div class="w-full md:w-64 bg-slate-900 text-slate-300 p-6 mono text-[10px] flex flex-col gap-4 border-l border-slate-800">
+                <div>
+                    <h4 class="text-teal-500 uppercase mb-2">Métabolisme</h4>
+                    <div class="flex justify-between border-b border-slate-700 pb-1 mb-1">
+                        <span>GLYCÉMIE</span>
+                        <span id="val-glucose">0.8 g/L</span>
+                    </div>
+                    <div class="flex justify-between border-b border-slate-700 pb-1 mb-1">
+                        <span>PRESSION</span>
+                        <span id="val-pressure">12/8</span>
+                    </div>
+                    <div class="flex justify-between border-b border-slate-700 pb-1">
+                        <span>INFLAMMATION</span>
+                        <span id="val-inflam" class="text-slate-500">NULLE</span>
+                    </div>
+                </div>
+
+                <div class="flex-1 overflow-y-auto space-y-2 mt-4 text-[9px] text-slate-500" id="log-console">
+                    > SYS_INIT: OK<br>
+                    > HOMÉOSTASIE: STABLE<br>
+                </div>
+
+                <div id="burnout-alert" class="hidden border border-red-500 bg-red-900/20 p-2 text-red-500 text-center animate-pulse">
+                    ⚠ RUPTURE DE CHARGE<br>(BURN-OUT)
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- DIDACTIQUE : LA PHYSIQUE DE L'ANGOISSE -->
+    <section class="max-w-3xl mx-auto px-6 pb-24 space-y-16">
+        
+        <!-- Bloc Théorique -->
+        <div>
+            <h3 class="serif text-2xl text-slate-900 mb-4 italic">La Dette Allostatique</h3>
+            <p class="text-slate-600 leading-relaxed mb-8 text-sm">
+                L'allostasie n'est pas une maladie, c'est une adaptation. Votre cerveau anticipe une demande future (le "stress") et modifie les constantes (tension, sucre) AVANT l'événement.
+            </p>
+            <p class="text-slate-600 leading-relaxed mb-8 text-sm">
+                Le problème de la modernité : <strong>La menace est psychologique, mais la réponse est physique.</strong> Vous mobilisez du glucose pour un email. Vous ne courez pas. Le glucose reste là. Il devient poison.
+            </p>
+        </div>
+
+        <hr class="border-slate-200">
+
+        <!-- Bloc Philosophique (Protokin) -->
+        <div class="bg-slate-100 p-8 border-l-4 border-amber-500">
+            <div class="flex items-center gap-2 mb-4">
+                <span class="mono text-xs text-amber-600 uppercase tracking-widest font-bold">Interprétation Protokinienne</span>
+            </div>
+            <h3 class="serif text-xl text-slate-900 mb-4">L'Action est une Purge</h3>
+            <div class="prose prose-slate prose-sm text-slate-600">
+                <p>
+                    L'angoisse est une énergie cinétique (mouvement) piégée dans une forme statique (corps assis). C'est une surchauffe moteur au point mort.
+                </p>
+                <p>
+                    La seule solution n'est pas de "se calmer" (ce qui est impossible chimiquement une fois la réaction lancée), mais de <strong>dépenser</strong>.
+                </p>
+                <p>
+                    Le Protokin préconise la décharge immédiate. Si vous ne pouvez pas fuir le bureau, marchez. Écrivez violemment. Transformez la chimie en mécanique.
+                </p>
+            </div>
+        </div>
+
+        <!-- Navigation Labo -->
+        <div class="grid grid-cols-2 gap-4 pt-8 border-t border-slate-200">
+            <a href="labo_sandpile.html" class="block p-4 border border-slate-200 hover:border-slate-900 transition-colors group">
+                <span class="mono text-[10px] text-slate-400">PRÉCÉDENT</span>
+                <div class="font-bold text-slate-900 text-sm group-hover:text-teal-800"><- Le Tas de Sable</div>
+            </a>
+            <a href="#" class="block p-4 border border-slate-200 transition-colors text-right opacity-50 cursor-not-allowed">
+                <span class="mono text-[10px] text-slate-400">FIN DE SÉQUENCE</span>
+                <div class="font-bold text-slate-300 text-sm">Retour au Sismographe</div>
+            </a>
+        </div>
+
+    </section>
+
+    <!-- SCRIPT DE SIMULATION -->
+    <script>
+        const cortisolBar = document.getElementById('cortisol-level');
+        const core = document.getElementById('core');
+        const btnFight = document.getElementById('btn-fight');
+        const neuralMsg = document.getElementById('neural-msg');
+        const logConsole = document.getElementById('log-console');
+        const burnoutAlert = document.getElementById('burnout-alert');
+        
+        // Indicateurs
+        const elBpm = document.getElementById('bpm');
+        const elStatus = document.getElementById('status');
+        const elGlucose = document.getElementById('val-glucose');
+        const elPressure = document.getElementById('val-pressure');
+        const elInflam = document.getElementById('val-inflam');
+
+        // État du système
+        let stress = 0; // 0 à 100
+        let inflammation = 0;
+        let isBurnout = false;
+        let loopId;
+
+        // Fonction de Log
+        function log(msg) {
+            logConsole.innerHTML += `> ${msg}<br>`;
+            logConsole.scrollTop = logConsole.scrollHeight;
+        }
+
+        // Simulation Loop (Augmentation du stress passive)
+        function startSimulation() {
+            loopId = setInterval(() => {
+                if(isBurnout) return;
+
+                // Le stress monte tout seul (la vie moderne)
+                stress += 0.5;
+                
+                // Si stress élevé, l'inflammation monte
+                if(stress > 60) {
+                    inflammation += 0.2;
+                }
+
+                updateUI();
+                checkCriticality();
+
+            }, 100);
+        }
+
+        // Mise à jour visuelle
+        function updateUI() {
+            // Hauteur Jauge
+            cortisolBar.style.height = `${stress}%`;
+            
+            // Couleur Jauge (Vert -> Jaune -> Rouge)
+            if(stress < 40) cortisolBar.className = "cortisol-bar w-full bg-teal-600 opacity-80";
+            else if(stress < 80) cortisolBar.className = "cortisol-bar w-full bg-amber-500 opacity-90";
+            else cortisolBar.className = "cortisol-bar w-full bg-red-600";
+
+            // Coeur (Taille et Tremblement)
+            let scale = 1 + (stress / 200);
+            core.style.transform = `scale(${scale})`;
+            
+            if(stress > 50) core.classList.add('shaking');
+            else core.classList.remove('shaking');
+
+            // Données Numériques
+            let bpm = 60 + Math.floor(stress * 1.2);
+            elBpm.innerText = bpm;
+            
+            let glucose = (0.8 + (stress / 100)).toFixed(2);
+            elGlucose.innerText = `${glucose} g/L`;
+
+            let sys = 12 + Math.floor(stress / 10);
+            let dia = 8 + Math.floor(stress / 15);
+            elPressure.innerText = `${sys}/${dia}`;
+
+            // Statut Texte
+            if(stress < 30) {
+                elStatus.innerText = "REPOS";
+                elStatus.className = "text-[10px] text-slate-400";
+                neuralMsg.style.opacity = 0;
+            } else if (stress < 70) {
+                elStatus.innerText = "ALERTE";
+                elStatus.className = "text-[10px] text-amber-600 font-bold";
+                neuralMsg.innerText = "> MENACE DÉTECTÉE (EMAIL REÇU)";
+                neuralMsg.style.opacity = 1;
+            } else {
+                elStatus.innerText = "SURVIE";
+                elStatus.className = "text-[10px] text-red-600 font-bold blink";
+                neuralMsg.innerText = "> MOBILISATION TOTALE";
+            }
+
+            // Inflammation
+            if(inflammation > 0) {
+                elInflam.innerText = `${Math.floor(inflammation)}%`;
+                elInflam.className = "text-amber-500";
+            }
+        }
+
+        // Vérification des seuils
+        function checkCriticality() {
+            if(stress >= 100) {
+                triggerBurnout();
+            }
+        }
+
+        // Burn-out
+        function triggerBurnout() {
+            isBurnout = true;
+            clearInterval(loopId);
+            
+            core.classList.remove('shaking');
+            core.style.transform = "scale(0.8)"; // Effondrement
+            core.style.borderColor = "#94a3b8";
+            core.style.backgroundColor = "#cbd5e1";
+            
+            elStatus.innerText = "OFFLINE";
+            elBpm.innerText = "---";
+            
+            cortisolBar.style.backgroundColor = "#94a3b8"; // Gris
+            
+            burnoutAlert.classList.remove('hidden');
+            log("!! SYSTÈME EFFONDRÉ !!");
+            log("RAISON: ALLOSTASIE PROLONGÉE SANS DÉCHARGE.");
+            
+            btnFight.disabled = true;
+            btnFight.innerText = "SYSTÈME HS";
+            btnFight.classList.add("opacity-50", "cursor-not-allowed");
+        }
+
+        // Action : La Décharge
+        btnFight.addEventListener('click', () => {
+            if(isBurnout) return;
+
+            // La décharge fait baisser le stress massivement
+            let discharge = 30;
+            
+            // Mais ça "fatigue" un peu (l'inflammation ne baisse pas tout de suite)
+            if(stress > discharge) {
+                stress -= discharge;
+                log("> ACTION EFFECTUÉE. CORTISOL ÉVACUÉ.");
+                
+                // Feedback visuel (Flash)
+                core.style.boxShadow = "0 0 50px 20px rgba(15, 118, 110, 0.5)";
+                setTimeout(() => { core.style.boxShadow = "0 10px 15px -3px rgba(0, 0, 0, 0.1)"; }, 200);
+            } else {
+                stress = 0;
+                log("> RETOUR AU CALME.");
+            }
+            
+            updateUI();
+        });
+
+        // Démarrage
+        startSimulation();
+        log("SIMULATION DÉMARRÉE...");
+
+    </script>
+</body>
+</html>

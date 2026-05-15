@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROTOCOLE 09 : TURGESCENCE</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=JetBrains+Mono:wght@400;700&display=swap');
+
+        :root {
+            --bg-color: #022c22; /* Vert très sombre, organique profond */
+            --text-color: #d1fae5;
+            --sap-color: #10b981; /* Vert émeraude électrique (Sève) */
+            --vein-color: #064e3b;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+            selection-background-color: var(--sap-color);
+            selection-color: #000;
+        }
+
+        .font-mono {
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        /* Organic Veins Background */
+        .veins-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background-image: 
+                linear-gradient(rgba(6, 78, 59, 0.2) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(6, 78, 59, 0.2) 1px, transparent 1px);
+            background-size: 50px 50px;
+            pointer-events: none;
+            z-index: 10;
+            mask-image: radial-gradient(circle at center, black, transparent 80%);
+        }
+
+        /* Scanline */
+        .scanline {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background: linear-gradient(to bottom, transparent 50%, rgba(16, 185, 129, 0.02) 50%);
+            background-size: 100% 4px;
+            pointer-events: none;
+            z-index: 50;
+        }
+
+        /* Reveal Animations */
+        .reveal {
+            opacity: 0;
+            transform: translateY(20px);
+            transition: all 1s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .reveal.active {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* Turgor Animation (Pulsing size) */
+        .turgor-pulse {
+            animation: turgor 3s infinite ease-in-out;
+        }
+
+        @keyframes turgor {
+            0% { transform: scale(1); filter: brightness(1); }
+            50% { transform: scale(1.02); filter: brightness(1.2); }
+            100% { transform: scale(1); filter: brightness(1); }
+        }
+
+        .text-sap {
+            color: var(--sap-color);
+            text-shadow: 0 0 15px rgba(16, 185, 129, 0.4);
+        }
+
+        .gauge-container {
+            width: 100%;
+            height: 4px;
+            background: var(--vein-color);
+            margin-top: 1rem;
+            position: relative;
+            overflow: hidden;
+        }
+        .gauge-fill {
+            height: 100%;
+            background: var(--sap-color);
+            width: 0%;
+            transition: width 1.5s cubic-bezier(0.22, 1, 0.36, 1);
+            box-shadow: 0 0 10px var(--sap-color);
+        }
+        .reveal.active .gauge-fill {
+            width: 95%; /* Critical pressure */
+        }
+
+    </style>
+</head>
+<body class="antialiased min-h-screen flex flex-col">
+
+    <div class="scanline"></div>
+    <div class="veins-bg"></div>
+
+    <!-- Nav -->
+    <nav class="fixed top-0 w-full z-50 bg-[#022c22]/90 backdrop-blur border-b border-white/5 py-4 px-6 flex justify-between items-center font-mono text-xs uppercase tracking-widest text-emerald-700">
+        <div class="opacity-70 hover:opacity-100 transition-opacity cursor-pointer text-white">Protokin</div>
+        <div class="text-[var(--sap-color)] animate-pulse">● PRESSURE_HIGH</div>
+        <div class="opacity-70">Seq_09.log</div>
+    </nav>
+
+    <!-- Content -->
+    <main class="flex-grow pt-32 pb-20 px-4 md:px-0 relative z-20">
+        <article class="max-w-2xl mx-auto space-y-32">
+            
+            <!-- Header -->
+            <header class="reveal space-y-8 pb-12">
+                <div class="font-mono text-xs text-[var(--sap-color)] mb-2 tracking-[0.2em]">HYDRAULIQUE</div>
+                <h1 class="text-5xl md:text-8xl font-bold leading-none tracking-tighter text-white">
+                    TURGES<br><span class="text-sap">CENCE</span>
+                </h1>
+                <div class="flex items-center space-x-4 text-emerald-500 font-mono text-xs mt-6">
+                    <span class="border border-emerald-800 px-2 py-1">CHAPITRE 09</span>
+                    <span>//</span>
+                    <span>LA RIGIDITÉ OUVERTE</span>
+                </div>
+            </header>
+
+            <!-- Section 1: Ancrage -->
+            <section class="reveal space-y-8">
+                <h2 class="font-mono text-xs text-[var(--sap-color)] uppercase tracking-widest mb-4">01. La Tige Sans Os</h2>
+                <div class="pl-6 border-l border-emerald-800">
+                    <p class="text-xl md:text-2xl font-light leading-relaxed text-gray-300">
+                        Coupez la tulipe. Cherchez le squelette.<br>
+                        Il n'y a rien. Pas d'os. Pas de poutre.
+                    </p>
+                    <p class="text-lg text-emerald-100/60 mt-6 leading-relaxed">
+                        Elle tient par l'eau. Elle tient par la pression. <br>
+                        La force n'est pas d'être dur. C'est d'être <strong class="text-white">plein</strong>.
+                    </p>
+                    
+                    <div class="mt-8">
+                        <div class="flex justify-between text-xs font-mono text-[var(--sap-color)]">
+                            <span>OSMOSE</span>
+                            <span>CRITIQUE</span>
+                        </div>
+                        <div class="gauge-container">
+                            <div class="gauge-fill"></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Section 2: Science -->
+            <section class="reveal space-y-12">
+                <h2 class="font-mono text-xs text-emerald-600 uppercase tracking-widest mb-4">02. La Physique des Fluides</h2>
+                
+                <div class="grid gap-6">
+                    <!-- Micro -->
+                    <div class="bg-emerald-900/20 p-6 border border-emerald-800/50 hover:border-[var(--sap-color)] transition-colors group">
+                        <h3 class="font-mono text-white mb-2 group-hover:text-[var(--sap-color)]">MICRO : LA VACUOLE</h3>
+                        <p class="text-sm text-gray-400">
+                            La cellule pompe l'eau pour pousser les murs. La verticalité est un travail osmotique permanent.
+                        </p>
+                    </div>
+
+                    <!-- Meso -->
+                    <div class="bg-emerald-900/20 p-6 border border-emerald-800/50 hover:border-[var(--sap-color)] transition-colors group">
+                        <h3 class="font-mono text-white mb-2 group-hover:text-[var(--sap-color)]">MESO : L'ÉRECTION</h3>
+                        <p class="text-sm text-gray-400">
+                            Le corps mou devient dur par hémodynamique. La seule force capable de sentir est hydraulique.
+                        </p>
+                    </div>
+
+                    <!-- Macro -->
+                    <div class="bg-emerald-900/20 p-6 border border-emerald-800/50 hover:border-[var(--sap-color)] transition-colors group">
+                        <h3 class="font-mono text-white mb-2 group-hover:text-[var(--sap-color)]">MACRO : LE PNEU</h3>
+                        <p class="text-sm text-gray-400">
+                            Ce n'est pas la gomme qui porte le camion. C'est la tension de l'air. Le mou sous pression est plus fort que l'acier.
+                        </p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Section 3: Totem -->
+            <section class="reveal py-16 text-center space-y-8 relative">
+                <!-- Abstract Stem visualization -->
+                <div class="absolute inset-0 flex justify-center items-end opacity-20 pointer-events-none">
+                     <div class="w-2 h-full bg-gradient-to-t from-[var(--sap-color)] to-transparent turgor-pulse"></div>
+                </div>
+
+                <h2 class="font-mono text-xs text-emerald-600 uppercase tracking-widest relative z-10">IMAGE TOTEM</h2>
+                <div class="text-6xl md:text-9xl font-black text-white tracking-tighter relative z-10 text-sap">
+                    LA TIGE
+                </div>
+                <p class="text-emerald-200/50 italic max-w-md mx-auto relative z-10 mt-4">
+                    "Une colonne d'eau qui refuse de s'écrouler."
+                </p>
+            </section>
+
+            <!-- Section 4: Action -->
+            <section class="reveal space-y-6">
+                <h2 class="font-mono text-xs text-[var(--sap-color)] uppercase tracking-widest mb-4">03. La Saisie</h2>
+                <p class="text-lg text-gray-300">
+                    Ne cherchez pas à "comprendre" (stocker). Cherchez à "saisir" (mettre sous tension).
+                </p>
+                <div class="mt-6 border-l-4 border-[var(--sap-color)] pl-6 py-2 bg-emerald-900/10">
+                    <p class="font-mono text-xs text-[var(--sap-color)] mb-2">MICRO-GESTE</p>
+                    <p class="text-white font-medium">
+                        Gardez la question ouverte.<br>
+                        Laissez monter la pression mentale.<br>
+                        Une idée sans tension préalable est une idée morte.
+                    </p>
+                </div>
+            </section>
+
+            <!-- Footer -->
+            <footer class="reveal pt-24 pb-12 mt-12">
+                <div class="flex justify-between items-end border-t border-emerald-900/50 pt-8">
+                    <div>
+                        <p class="font-mono text-xs text-emerald-700 uppercase mb-2">Structure</p>
+                        <p class="text-xl font-bold text-white">GONFLÉE</p>
+                    </div>
+                    
+                    <a href="/mecanique/chap-10.html" class="group text-right">
+                        <p class="font-mono text-xs text-emerald-700 uppercase">Prochaine Séquence</p>
+                        <div class="flex items-center space-x-2 text-white font-bold text-lg group-hover:text-[var(--sap-color)] transition-colors">
+                            <span>LA RÉSONANCE</span>
+                            <span>→</span>
+                        </div>
+                    </a>
+                </div>
+            </footer>
+
+        </article>
+    </main>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('active');
+                    }
+                });
+            }, { threshold: 0.1 });
+
+            document.querySelectorAll('.reveal').forEach((el) => observer.observe(el));
+        });
+    </script>
+</body>
+</html>
+

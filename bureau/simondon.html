@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROTOKIN | WANTED : SIMONDON</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Oswald:wght@700&display=swap');
+
+        :root {
+            --bg-dark: #121212;
+            --paper: #f0e6d2; /* Papier jauni */
+            --ink: #1a1a1a;
+            --red-stamp: #b91c1c;
+            --highlight: #facc15;
+        }
+
+        body {
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+        }
+
+        .font-typewriter { font-family: 'Courier Prime', monospace; }
+        .font-poster { font-family: 'Oswald', sans-serif; }
+
+        /* --- BACKGROUND --- */
+        .wall-bg {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background-image: 
+                radial-gradient(circle at 50% 50%, #1a1a1a 0%, #000 100%),
+                url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23333' fill-opacity='0.1'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+            z-index: 0;
+        }
+
+        /* --- POSTER CONTAINER --- */
+        .poster-container {
+            position: relative;
+            z-index: 10;
+            perspective: 1000px;
+            padding: 40px;
+            display: flex;
+            justify-content: center;
+        }
+
+        .poster {
+            background-color: var(--paper);
+            color: var(--ink);
+            width: 100%;
+            max-width: 800px;
+            padding: 40px;
+            box-shadow: 0 20px 50px rgba(0,0,0,0.8);
+            transform-origin: top center;
+            /* Texture papier */
+            background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.15'/%3E%3C/svg%3E");
+            border: 1px solid #d4c5a3;
+        }
+
+        .mugshot-container {
+            position: relative;
+            width: 200px;
+            height: 250px;
+            background: #000;
+            overflow: hidden;
+            border: 4px solid var(--ink);
+        }
+        
+        .mugshot {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            filter: grayscale(100%) contrast(1.2) sepia(20%);
+        }
+
+        /* --- STAMPS --- */
+        .stamp {
+            position: absolute;
+            border: 5px solid var(--red-stamp);
+            color: var(--red-stamp);
+            padding: 10px 20px;
+            font-family: 'Oswald', sans-serif;
+            font-size: 2rem;
+            text-transform: uppercase;
+            font-weight: bold;
+            opacity: 0;
+            mask-image: url("data:image/svg+xml,%3Csvg width='200' height='100' viewBox='0 0 200 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='1.2' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.6'/%3E%3C/svg%3E");
+        }
+
+        .stamp-wanted { top: 20px; right: 20px; transform: rotate(15deg); }
+        .stamp-danger { bottom: 100px; right: 50px; transform: rotate(-10deg); border-color: var(--ink); color: var(--ink); }
+
+        /* --- CARDS (CONCEPTS) --- */
+        .concept-card {
+            border: 2px solid var(--ink);
+            padding: 15px;
+            margin-bottom: 15px;
+            cursor: pointer;
+            transition: all 0.3s;
+            position: relative;
+            overflow: hidden;
+            background: rgba(0,0,0,0.02);
+        }
+        
+        .concept-card::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; width: 4px; height: 100%;
+            background: var(--ink);
+            transform: scaleY(0);
+            transition: transform 0.3s;
+            transform-origin: bottom;
+        }
+
+        .concept-card:hover::before {
+            transform: scaleY(1);
+        }
+        
+        .concept-card:hover {
+            background: white;
+            box-shadow: 5px 5px 0px var(--ink);
+            transform: translateX(-2px) translateY(-2px);
+        }
+
+        /* --- DRAWER (BIBLIO) --- */
+        .drawer {
+            position: fixed;
+            top: 0; right: 0; height: 100%; width: 100%; max-width: 500px;
+            background: #1a1a1a;
+            color: #d4d4d4;
+            transform: translateX(100%);
+            transition: transform 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+            z-index: 100;
+            border-left: 2px solid var(--highlight);
+            box-shadow: -20px 0 50px rgba(0,0,0,0.8);
+            display: flex;
+            flex-direction: column;
+        }
+        .drawer.open { transform: translateX(0); }
+
+        .tape-strip {
+            position: absolute;
+            top: -15px;
+            left: 50%;
+            transform: translateX(-50%) rotate(-2deg);
+            width: 150px;
+            height: 40px;
+            background: rgba(255, 255, 255, 0.4);
+            box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+            backdrop-filter: blur(2px);
+        }
+
+        .paper-clip {
+            position: absolute;
+            top: -20px;
+            left: 20px;
+            font-size: 3rem;
+            color: #888;
+            transform: rotate(-15deg);
+            z-index: 20;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="wall-bg"></div>
+
+    <!-- Navigation (Haut Gauche) -->
+    <div class="fixed top-6 left-6 z-50 mix-blend-difference">
+        <div class="font-poster text-white text-xl tracking-widest">PROTOKIN ARCHIVES</div>
+        <div class="font-typewriter text-xs text-gray-400">DOSSIER #001</div>
+    </div>
+
+    <!-- MAIN POSTER -->
+    <div class="poster-container">
+        <div class="poster" id="mainPoster">
+            
+            <!-- Visual Elements -->
+            <div class="tape-strip"></div>
+            <div class="paper-clip">📎</div>
+            <div class="stamp stamp-wanted" id="stamp1">RECHERCHÉ</div>
+
+            <!-- HEADER -->
+            <div class="flex flex-col md:flex-row gap-8 mb-12 border-b-2 border-black pb-8">
+                
+                <!-- PHOTO -->
+                <div class="flex-shrink-0 mx-auto md:mx-0">
+                    <div class="mugshot-container">
+                        <!-- Image Simondon (Placeholder) -->
+                        <img src="Sans Titre-3.png" class="mugshot" alt="Gilbert Simondon">
+                    </div>
+                    <div class="text-center font-typewriter text-xs mt-2 bg-black text-white py-1">ID: 849-G-SIM</div>
+                </div>
+
+                <!-- INFO -->
+                <div class="flex-grow">
+                    <h1 class="font-poster text-6xl md:text-8xl leading-none mb-2 uppercase tracking-tighter">SIMONDON</h1>
+                    <h2 class="font-typewriter text-xl mb-4">Gilbert (1924-1989)</h2>
+                    
+                    <div class="grid grid-cols-2 gap-4 text-sm font-typewriter border-t border-black pt-4">
+                        <div>
+                            <span class="block font-bold">PROFESSION:</span>
+                            Philosophe Mécanicien
+                        </div>
+                        <div>
+                            <span class="block font-bold">CRIME:</span>
+                            Refus de l'identité fixe
+                        </div>
+                        <div>
+                            <span class="block font-bold">ORIGINE:</span>
+                            Saint-Étienne, France
+                        </div>
+                        <div>
+                            <span class="block font-bold">DANGEROSITÉ:</span>
+                            Ontologique (Élevée)
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- BODY CONTENT -->
+            <div class="grid md:grid-cols-12 gap-8">
+                
+                <!-- GAUCHE : PROFIL -->
+                <div class="md:col-span-4 font-typewriter text-sm leading-relaxed text-justify">
+                    <h3 class="font-bold border-b border-black mb-4 uppercase">Profil Psychologique</h3>
+                    <p class="mb-4">
+                        Sujet obsédé par la technique et le vivant. Refuse de séparer la culture et la machine.
+                    </p>
+                    <p class="mb-4">
+                        A enseigné à Gilles Deleuze. Pense avec ses mains (connaît les moteurs, les tubes cathodiques).
+                    </p>
+                    <p>
+                        <strong class="bg-black text-white px-1">AVIS AUX AGENTS :</strong>
+                        Ne pas l'approcher avec des concepts statiques. Le sujet est insaisissable (métastable).
+                    </p>
+
+                    <div class="mt-8 border-2 border-dashed border-red-800 p-4 transform rotate-1">
+                        <p class="text-red-800 font-bold text-center text-xs">DERNIÈRE POSITION CONNUE</p>
+                        <p class="text-center text-lg">Laboratoire de Psychologie</p>
+                    </div>
+                </div>
+
+                <!-- DROITE : CONCEPTS CLES -->
+                <div class="md:col-span-8">
+                    <h3 class="font-bold border-b border-black mb-6 uppercase font-typewriter">Armes Conceptuelles (Saisies)</h3>
+
+                    <!-- Concept 1 -->
+                    <div class="concept-card group" onclick="window.open('individuation.html', '_self')">
+                        <div class="flex justify-between items-center mb-2">
+                            <h4 class="font-poster text-2xl uppercase">L'Individuation</h4>
+                            <span class="font-mono text-xs bg-gray-200 px-2 py-1">CHAPITRE 04</span>
+                        </div>
+                        <p class="font-typewriter text-sm mb-2">L'individu n'est pas une chose, c'est un processus.</p>
+                        <div class="h-0 overflow-hidden group-hover:h-auto transition-all duration-300">
+                            <p class="text-xs text-gray-600 mt-2 border-t border-gray-300 pt-2 italic">
+                                "On ne connaît pas l'individu, on connaît l'individuation." Le sujet est toujours "plus qu'un".
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Concept 2 -->
+                    <div class="concept-card group" onclick="window.open('metastabilite.html', '_self')">
+                        <div class="flex justify-between items-center mb-2">
+                            <h4 class="font-poster text-2xl uppercase">Métastabilité</h4>
+                            <span class="font-mono text-xs bg-gray-200 px-2 py-1">CHAPITRE 02</span>
+                        </div>
+                        <p class="font-typewriter text-sm mb-2">L'équilibre stable est la mort. Vivre, c'est être en sursis.</p>
+                        <div class="h-0 overflow-hidden group-hover:h-auto transition-all duration-300">
+                            <p class="text-xs text-gray-600 mt-2 border-t border-gray-300 pt-2 italic">
+                                Comme une eau surfondue, l'être est chargé d'énergie potentielle prête à changer de phase.
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Concept 3 -->
+                    <div class="concept-card group" onclick="window.open('concretisation.html', '_self')">
+                        <div class="flex justify-between items-center mb-2">
+                            <h4 class="font-poster text-2xl uppercase">Concrétisation</h4>
+                            <span class="font-mono text-xs bg-gray-200 px-2 py-1">CHAPITRE 12</span>
+                        </div>
+                        <p class="font-typewriter text-sm mb-2">L'objet technique évolue vers une perfection organique.</p>
+                        <div class="h-0 overflow-hidden group-hover:h-auto transition-all duration-300">
+                            <p class="text-xs text-gray-600 mt-2 border-t border-gray-300 pt-2 italic">
+                                Le moteur devient "concret" quand ses pièces sont interdépendantes. Mais il perd sa marge d'indétermination.
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Concept 4 -->
+                    <div class="concept-card group" onclick="window.open('transduction.html', '_self')">
+                        <div class="flex justify-between items-center mb-2">
+                            <h4 class="font-poster text-2xl uppercase">Transduction</h4>
+                            <span class="font-mono text-xs bg-gray-200 px-2 py-1">CHAPITRE 04</span>
+                        </div>
+                        <p class="font-typewriter text-sm mb-2">Propagation de structure de proche en proche.</p>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="stamp stamp-danger" id="stamp2">PROT-OKIN</div>
+
+        </div>
+
+        <!-- Bouton Biblio (Flottant en bas de l'affiche) -->
+        <button class="absolute -bottom-6 right-10 bg-black text-white font-typewriter px-6 py-3 border-2 border-white shadow-lg hover:bg-red-700 transition-colors rotate-2" onclick="toggleDrawer()">
+            OUVRIR LE SAC À SCELLÉS (BIBLIO)
+        </button>
+
+    </div>
+
+    <!-- DRAWER BIBLIOGRAPHIE -->
+    <aside class="drawer" id="biblioDrawer">
+        <div class="p-6 bg-black border-b border-gray-700 flex justify-between items-center">
+            <span class="font-mono text-xs text-yellow-500">PIÈCES À CONVICTION</span>
+            <button onclick="toggleDrawer()" class="text-white hover:text-red-500">[X]</button>
+        </div>
+        <div class="p-8 overflow-y-auto font-typewriter text-sm leading-relaxed space-y-8">
+            
+            <div class="border-l-4 border-yellow-500 pl-4">
+                <h4 class="text-white font-bold text-lg mb-1">Du mode d'existence des objets techniques</h4>
+                <p class="text-gray-400 italic mb-2">Aubier, 1958</p>
+                <p>Le livre fondateur. Pour réconcilier la culture et la technique. L'objet technique n'est pas un esclave, c'est un médiateur.</p>
+            </div>
+
+            <div class="border-l-4 border-gray-500 pl-4">
+                <h4 class="text-white font-bold text-lg mb-1">L'Individuation à la lumière des notions de forme et d'information</h4>
+                <p class="text-gray-400 italic mb-2">PUF, 1964 (Thèse)</p>
+                <p>L'œuvre majeure. La destruction de l'hylémorphisme (matière/forme) au profit de la prise de forme (allagmatique).</p>
+            </div>
+
+            <div class="border-l-4 border-gray-500 pl-4">
+                <h4 class="text-white font-bold text-lg mb-1">Deux leçons sur l'animal et l'homme</h4>
+                <p class="text-gray-400 italic mb-2">Ellipses, 2004</p>
+                <p>Cours magistraux. Analyse de l'antiquité à la cybernétique.</p>
+            </div>
+
+            <div class="mt-12 p-4 bg-gray-800 text-xs text-gray-500 text-center">
+                FIN DE L'INVENTAIRE<br>Dossier classé secret défense
+            </div>
+
+        </div>
+    </aside>
+
+    <script>
+        gsap.registerPlugin(ScrollTrigger);
+
+        // Animation d'entrée : L'affiche tombe sur le mur
+        gsap.from("#mainPoster", {
+            y: -1000,
+            rotation: -10,
+            duration: 1.5,
+            ease: "bounce.out"
+        });
+
+        // Les tampons frappent le papier
+        gsap.to("#stamp1", {
+            opacity: 0.8,
+            scale: 1,
+            rotation: 15,
+            duration: 0.2,
+            delay: 1.5,
+            ease: "power4.out",
+            startAt: { scale: 3, opacity: 0 }
+        });
+
+        gsap.to("#stamp2", {
+            opacity: 0.6,
+            scale: 1,
+            rotation: -10,
+            duration: 0.2,
+            delay: 1.8,
+            ease: "power4.out",
+            startAt: { scale: 3, opacity: 0 }
+        });
+
+        // Fonction Tiroir
+        function toggleDrawer() {
+            document.getElementById('biblioDrawer').classList.toggle('open');
+        }
+    </script>
+</body>
+</html>

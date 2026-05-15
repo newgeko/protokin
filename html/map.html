@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROTOKIN | The Map</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=JetBrains+Mono:wght@300;500&family=Inter:wght@300;600&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-color: #0a0a0a;
+            --text-primary: #e5e5e5;
+            --text-secondary: #666;
+            --accent: #ff3333;
+            --border: #333;
+            --cell-bg: #111;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+            /* Cursor removed on mobile for touch feel */
+        }
+
+        @media (min-width: 768px) {
+            body { cursor: crosshair; }
+        }
+
+        h1, h2, h3 { font-family: 'Cinzel', serif; }
+        .mono { font-family: 'JetBrains Mono', monospace; }
+
+        /* Noise */
+        .noise {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            pointer-events: none; z-index: 50; opacity: 0.05;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='1'/%3E%3C/svg%3E");
+        }
+
+        /* Cursor - Desktop only */
+        .cursor-follower {
+            position: fixed; width: 20px; height: 20px;
+            border: 1px solid var(--text-primary); border-radius: 50%;
+            pointer-events: none; z-index: 100; transition: transform 0.1s;
+            mix-blend-mode: difference;
+        }
+
+        /* DESKTOP GRID STYLES */
+        .matrix-container {
+            display: grid;
+            grid-template-columns: 100px repeat(5, 1fr);
+            gap: 1px;
+            background-color: var(--border);
+            border: 1px solid var(--border);
+        }
+
+        .matrix-header {
+            padding: 1rem;
+            background-color: #050505;
+            text-align: center;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--text-secondary);
+        }
+
+        .matrix-row-label {
+            padding: 1rem;
+            background-color: #050505;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            writing-mode: vertical-rl;
+            transform: rotate(180deg);
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--text-secondary);
+            border-right: 1px solid var(--border);
+        }
+
+        .matrix-cell {
+            background-color: var(--cell-bg);
+            padding: 1.5rem;
+            min-height: 140px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .matrix-cell:hover {
+            background-color: #1a1a1a;
+            box-shadow: inset 0 0 20px rgba(0,0,0,0.8);
+        }
+
+        .matrix-cell:hover .cell-number { color: var(--accent); }
+        .matrix-cell:hover .cell-concept { color: white; transform: translateX(5px); }
+
+        .cell-number {
+            font-size: 0.6rem;
+            color: #444;
+            margin-bottom: 0.5rem;
+        }
+
+        .cell-concept {
+            font-family: 'Cinzel', serif;
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: #aaa;
+            transition: transform 0.3s ease;
+        }
+
+        .cell-desc {
+            font-size: 0.65rem;
+            color: #555;
+            margin-top: 0.5rem;
+            opacity: 0;
+            transform: translateY(10px);
+            transition: all 0.3s ease;
+        }
+
+        .matrix-cell:hover .cell-desc {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* MOBILE STYLES */
+        .mobile-stack {
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+        }
+
+        .mobile-phase-header {
+            font-family: 'Cinzel', serif;
+            padding: 1rem;
+            border-left: 2px solid var(--accent);
+            background: linear-gradient(90deg, rgba(255, 51, 51, 0.1), transparent);
+            color: white;
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+        }
+
+        .mobile-row {
+            display: flex;
+            border-bottom: 1px solid #222;
+            padding: 1rem 0;
+            transition: background 0.3s;
+        }
+        
+        .mobile-row:active {
+            background: #111;
+        }
+
+        .mobile-label {
+            width: 80px;
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            color: #555;
+            padding-top: 4px;
+        }
+
+        .mobile-content {
+            flex: 1;
+        }
+
+        .mobile-concept {
+            color: #ddd;
+            font-family: 'Cinzel', serif;
+            font-size: 1rem;
+            margin-bottom: 0.2rem;
+        }
+
+        .mobile-desc {
+            color: #666;
+            font-size: 0.75rem;
+        }
+
+    </style>
+</head>
+<body class="antialiased">
+
+    <!-- Canvas Background -->
+    <canvas id="protokin-field" class="fixed top-0 left-0 w-full h-full -z-10 opacity-30"></canvas>
+    <div class="noise"></div>
+    <div id="cursor" class="cursor-follower hidden md:block"></div>
+
+    <!-- Header -->
+    <header class="fixed top-0 w-full z-40 border-b border-neutral-800 bg-black/90 backdrop-blur-sm">
+        <div class="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
+            <div class="flex items-center gap-8">
+                <a href="index_en.html" class="flex items-center gap-4 group">
+                    <span class="text-xl md:text-2xl font-bold tracking-tighter group-hover:text-white transition-colors">PROTOKIN</span>
+                    <span class="hidden md:inline-block w-px h-6 bg-neutral-800"></span>
+                    <span class="mono text-[10px] md:text-xs text-neutral-500 uppercase tracking-widest">Sys. v2.1</span>
+                </a>
+                
+                <nav class="hidden md:flex gap-6 mono text-xs uppercase tracking-wider text-neutral-500">
+                    <a href="map.html" class="text-white">The Map</a>
+                    <a href="dojo.html" class="hover:text-white transition-colors">The Dojo</a>
+                    <a href="glossary.html" class="hover:text-white transition-colors">Glossary</a>
+                </nav>
+            </div>
+            <!-- Mobile Menu Icon (simulated) -->
+            <div class="md:hidden text-neutral-500 text-xs mono uppercase">
+                <a href="index_en.html">Menu</a>
+            </div>
+            <div class="hidden md:flex items-center gap-6">
+                <div class="flex flex-col items-end">
+                    <span class="mono text-[10px] text-neutral-500 uppercase">Status</span>
+                    <span class="mono text-xs text-green-500">MAPPING</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="pt-24 pb-20 px-4 md:px-8 max-w-[1600px] mx-auto">
+        
+        <div class="mb-8 md:mb-12 text-center md:text-left">
+            <h1 class="text-2xl md:text-5xl mb-2 md:mb-4 text-white">The Isomorphic Matrix</h1>
+            <p class="text-neutral-500 mono text-[10px] md:text-xs uppercase tracking-widest">5 Operations × 5 Registers = 25 Fundamental Gestures</p>
+        </div>
+
+        <!-- ================= DESKTOP VIEW (>1024px) ================= -->
+        <div class="hidden lg:grid matrix-container">
+            <!-- Headers Row -->
+            <div class="matrix-header"></div> 
+            <div class="matrix-header"><span class="text-red-500">I. Ignition</span><br>The Threshold</div>
+            <div class="matrix-header">II. Engine<br>The Tension</div>
+            <div class="matrix-header">III. Valve<br>The Discharge</div>
+            <div class="matrix-header">IV. Brake<br>Stabilization</div>
+            <div class="matrix-header">V. Trace<br>Sedimentation</div>
+
+            <!-- ROW 1: PHYSICS -->
+            <div class="matrix-row-label">Physics</div>
+            <a href="phase1.html" class="matrix-cell group"><div class="mono cell-number">01</div><div class="cell-concept">Metastability</div><div class="mono cell-desc">Supercooling & Symmetry Breaking</div></a>
+            <a href="phase2.html" class="matrix-cell group"><div class="mono cell-number">06</div><div class="cell-concept">The Gradient</div><div class="mono cell-desc">Potential Difference</div></a>
+            <a href="phase3.html" class="matrix-cell group"><div class="mono cell-number">11</div><div class="cell-concept">Phase Transition</div><div class="mono cell-desc">Boiling & Latent Heat</div></a>
+            <a href="phase4.html" class="matrix-cell group"><div class="mono cell-number">16</div><div class="cell-concept">Stationary Regime</div><div class="mono cell-desc">The Vortex (Bernoulli)</div></a>
+            <a href="phase5.html" class="matrix-cell group"><div class="mono cell-number">21</div><div class="cell-concept">Hysteresis</div><div class="mono cell-desc">Remanence & Material Memory</div></a>
+
+            <!-- ROW 2: LIVING -->
+            <div class="matrix-row-label">Living</div>
+            <a href="phase1.html" class="matrix-cell group"><div class="mono cell-number">02</div><div class="cell-concept">Irritability</div><div class="mono cell-desc">The Membrane & Sensitivity</div></a>
+            <a href="phase2.html" class="matrix-cell group"><div class="mono cell-number">07</div><div class="cell-concept">The Pump</div><div class="mono cell-desc">Metabolic Cost (ATP)</div></a>
+            <a href="phase3.html" class="matrix-cell group"><div class="mono cell-number">12</div><div class="cell-concept">Clearance</div><div class="mono cell-desc">Systole/Diastole</div></a>
+            <a href="phase4.html" class="matrix-cell group"><div class="mono cell-number">17</div><div class="cell-concept">Habit</div><div class="mono cell-desc">Myelination & Erosion</div></a>
+            <a href="phase5.html" class="matrix-cell group"><div class="mono cell-number">22</div><div class="cell-concept">Habitus</div><div class="mono cell-desc">Incorporation (The Callus)</div></a>
+
+            <!-- ROW 3: PSYCHE -->
+            <div class="matrix-row-label">Psyche</div>
+            <a href="phase1.html" class="matrix-cell group"><div class="mono cell-number">03</div><div class="cell-concept">Curiosity</div><div class="mono cell-desc">Friction & The Grip</div></a>
+            <a href="phase2.html" class="matrix-cell group"><div class="mono cell-number">08</div><div class="cell-concept">Anxiety</div><div class="mono cell-desc">The Loop (Larsen Effect)</div></a>
+            <a href="phase3.html" class="matrix-cell group"><div class="mono cell-number">13</div><div class="cell-concept">Play</div><div class="mono cell-desc">Catharsis & Loose Gear</div></a>
+            <a href="phase4.html" class="matrix-cell group"><div class="mono cell-number">18</div><div class="cell-concept">Style</div><div class="mono cell-desc">Inhibition & The Veto</div></a>
+            <a href="phase5.html" class="matrix-cell group"><div class="mono cell-number">23</div><div class="cell-concept">Confidence</div><div class="mono cell-desc">Lithification (Time Hardened)</div></a>
+
+            <!-- ROW 4: TECHNIQUE -->
+            <div class="matrix-row-label">Technique</div>
+            <a href="phase1.html" class="matrix-cell group"><div class="mono cell-number">04</div><div class="cell-concept">The Switch</div><div class="mono cell-desc">Amplification & Trigger</div></a>
+            <a href="phase2.html" class="matrix-cell group"><div class="mono cell-number">09</div><div class="cell-concept">Acceleration</div><div class="mono cell-desc">Turgescence & Hydraulics</div></a>
+            <a href="phase3.html" class="matrix-cell group"><div class="mono cell-number">14</div><div class="cell-concept">Frugality</div><div class="mono cell-desc">Clipping & Signal/Noise</div></a>
+            <a href="phase4.html" class="matrix-cell group"><div class="mono cell-number">19</div><div class="cell-concept">The Black Box</div><div class="mono cell-desc">The Interface & Repair</div></a>
+            <a href="phase5.html" class="matrix-cell group"><div class="mono cell-number">24</div><div class="cell-concept">The Object</div><div class="mono cell-desc">Exosomatization & Witness</div></a>
+
+            <!-- ROW 5: POLITICS -->
+            <div class="matrix-row-label">Politics</div>
+            <a href="phase1.html" class="matrix-cell group"><div class="mono cell-number">05</div><div class="cell-concept">The Scandal</div><div class="mono cell-desc">Avalanche & Criticality</div></a>
+            <a href="phase2.html" class="matrix-cell group"><div class="mono cell-number">10</div><div class="cell-concept">The Rule</div><div class="mono cell-desc">Work Hardening (Rigidity)</div></a>
+            <a href="phase3.html" class="matrix-cell group"><div class="mono cell-number">15</div><div class="cell-concept">Secession</div><div class="mono cell-desc">The Fuse (Bartleby)</div></a>
+            <a href="phase4.html" class="matrix-cell group"><div class="mono cell-number">20</div><div class="cell-concept">Institution</div><div class="mono cell-desc">Damping (Silentbloc)</div></a>
+            <a href="phase5.html" class="matrix-cell group"><div class="mono cell-number">25</div><div class="cell-concept">The Commons</div><div class="mono cell-desc">The Cairn & Custom</div></a>
+        </div>
+
+        <!-- ================= MOBILE VIEW (<1024px) ================= -->
+        <div class="lg:hidden mobile-stack">
+            
+            <!-- PHASE 1 -->
+            <div class="mb-8">
+                <div class="mobile-phase-header">I. IGNITION <span class="text-xs ml-2 text-neutral-400 font-sans">The Threshold</span></div>
+                <a href="phase1.html" class="mobile-row">
+                    <div class="mobile-label mono">Physics</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">Metastability</div>
+                        <div class="mobile-desc mono">Supercooling & Symmetry Breaking</div>
+                    </div>
+                </a>
+                <a href="phase1.html" class="mobile-row">
+                    <div class="mobile-label mono">Living</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">Irritability</div>
+                        <div class="mobile-desc mono">The Membrane & Sensitivity</div>
+                    </div>
+                </a>
+                <a href="phase1.html" class="mobile-row">
+                    <div class="mobile-label mono">Psyche</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">Curiosity</div>
+                        <div class="mobile-desc mono">Friction & The Grip</div>
+                    </div>
+                </a>
+                <a href="phase1.html" class="mobile-row">
+                    <div class="mobile-label mono">Tech</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">The Switch</div>
+                        <div class="mobile-desc mono">Amplification & Trigger</div>
+                    </div>
+                </a>
+                <a href="phase1.html" class="mobile-row">
+                    <div class="mobile-label mono">Politics</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">The Scandal</div>
+                        <div class="mobile-desc mono">Avalanche & Criticality</div>
+                    </div>
+                </a>
+            </div>
+
+            <!-- PHASE 2 -->
+            <div class="mb-8">
+                <div class="mobile-phase-header" style="border-color: #666;">II. ENGINE <span class="text-xs ml-2 text-neutral-400 font-sans">The Tension</span></div>
+                <a href="phase2.html" class="mobile-row">
+                    <div class="mobile-label mono">Physics</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">The Gradient</div>
+                        <div class="mobile-desc mono">Potential Difference</div>
+                    </div>
+                </a>
+                <a href="phase2.html" class="mobile-row">
+                    <div class="mobile-label mono">Living</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">The Pump</div>
+                        <div class="mobile-desc mono">Metabolic Cost (ATP)</div>
+                    </div>
+                </a>
+                <a href="phase2.html" class="mobile-row">
+                    <div class="mobile-label mono">Psyche</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">Anxiety</div>
+                        <div class="mobile-desc mono">The Loop (Larsen)</div>
+                    </div>
+                </a>
+                <a href="phase2.html" class="mobile-row">
+                    <div class="mobile-label mono">Tech</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">Acceleration</div>
+                        <div class="mobile-desc mono">Turgescence & Hydraulics</div>
+                    </div>
+                </a>
+                <a href="phase2.html" class="mobile-row">
+                    <div class="mobile-label mono">Politics</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">The Rule</div>
+                        <div class="mobile-desc mono">Work Hardening (Rigidity)</div>
+                    </div>
+                </a>
+            </div>
+
+            <!-- PHASE 3 -->
+            <div class="mb-8">
+                <div class="mobile-phase-header" style="border-color: #666;">III. VALVE <span class="text-xs ml-2 text-neutral-400 font-sans">The Discharge</span></div>
+                <a href="phase3.html" class="mobile-row">
+                    <div class="mobile-label mono">Physics</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">Phase Transition</div>
+                        <div class="mobile-desc mono">Boiling & Latent Heat</div>
+                    </div>
+                </a>
+                <a href="phase3.html" class="mobile-row">
+                    <div class="mobile-label mono">Living</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">Clearance</div>
+                        <div class="mobile-desc mono">Systole/Diastole & Washing</div>
+                    </div>
+                </a>
+                <a href="phase3.html" class="mobile-row">
+                    <div class="mobile-label mono">Psyche</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">Play</div>
+                        <div class="mobile-desc mono">Catharsis & Loose Gear</div>
+                    </div>
+                </a>
+                <a href="phase3.html" class="mobile-row">
+                    <div class="mobile-label mono">Tech</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">Frugality</div>
+                        <div class="mobile-desc mono">Clipping & Signal/Noise</div>
+                    </div>
+                </a>
+                <a href="phase3.html" class="mobile-row">
+                    <div class="mobile-label mono">Politics</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">Secession</div>
+                        <div class="mobile-desc mono">The Fuse (Bartleby)</div>
+                    </div>
+                </a>
+            </div>
+
+            <!-- PHASE 4 -->
+            <div class="mb-8">
+                <div class="mobile-phase-header" style="border-color: #666;">IV. BRAKE <span class="text-xs ml-2 text-neutral-400 font-sans">Stabilization</span></div>
+                <a href="phase4.html" class="mobile-row">
+                    <div class="mobile-label mono">Physics</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">Stationary Regime</div>
+                        <div class="mobile-desc mono">The Vortex (Bernoulli)</div>
+                    </div>
+                </a>
+                <a href="phase4.html" class="mobile-row">
+                    <div class="mobile-label mono">Living</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">Habit</div>
+                        <div class="mobile-desc mono">Myelination & Erosion</div>
+                    </div>
+                </a>
+                <a href="phase4.html" class="mobile-row">
+                    <div class="mobile-label mono">Psyche</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">Style</div>
+                        <div class="mobile-desc mono">Inhibition & The Veto</div>
+                    </div>
+                </a>
+                <a href="phase4.html" class="mobile-row">
+                    <div class="mobile-label mono">Tech</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">The Black Box</div>
+                        <div class="mobile-desc mono">The Interface & Repair</div>
+                    </div>
+                </a>
+                <a href="phase4.html" class="mobile-row">
+                    <div class="mobile-label mono">Politics</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">Institution</div>
+                        <div class="mobile-desc mono">Damping (Silentbloc)</div>
+                    </div>
+                </a>
+            </div>
+
+            <!-- PHASE 5 -->
+            <div class="mb-8">
+                <div class="mobile-phase-header" style="border-color: #666;">V. TRACE <span class="text-xs ml-2 text-neutral-400 font-sans">Sedimentation</span></div>
+                <a href="phase5.html" class="mobile-row">
+                    <div class="mobile-label mono">Physics</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">Hysteresis</div>
+                        <div class="mobile-desc mono">Remanence & Material Memory</div>
+                    </div>
+                </a>
+                <a href="phase5.html" class="mobile-row">
+                    <div class="mobile-label mono">Living</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">Habitus</div>
+                        <div class="mobile-desc mono">Incorporation (The Callus)</div>
+                    </div>
+                </a>
+                <a href="phase5.html" class="mobile-row">
+                    <div class="mobile-label mono">Psyche</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">Confidence</div>
+                        <div class="mobile-desc mono">Lithification (Time Hardened)</div>
+                    </div>
+                </a>
+                <a href="phase5.html" class="mobile-row">
+                    <div class="mobile-label mono">Tech</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">The Object</div>
+                        <div class="mobile-desc mono">Exosomatization & Witness</div>
+                    </div>
+                </a>
+                <a href="phase5.html" class="mobile-row">
+                    <div class="mobile-label mono">Politics</div>
+                    <div class="mobile-content">
+                        <div class="mobile-concept">The Commons</div>
+                        <div class="mobile-desc mono">The Cairn & Custom</div>
+                    </div>
+                </a>
+            </div>
+
+        </div>
+
+    </main>
+
+    <footer class="mt-24 border-t border-neutral-900 bg-black py-12">
+        <div class="max-w-7xl mx-auto px-6 text-center mono text-[10px] uppercase text-neutral-600">
+            <p class="mb-4">Map v2.1 generated from "Protokin Master Document"</p>
+            <a href="index_en.html" class="hover:text-white transition-colors">Return to Seismograph</a>
+        </div>
+    </footer>
+
+    <script>
+        // --- 1. CURSOR MANAGEMENT ---
+        const cursor = document.getElementById('cursor');
+        
+        // Only activate custom cursor logic on desktop to save mobile resources
+        if (window.matchMedia("(min-width: 768px)").matches) {
+            document.addEventListener('mousemove', (e) => {
+                requestAnimationFrame(() => {
+                    cursor.style.transform = `translate(${e.clientX - 10}px, ${e.clientY - 10}px)`;
+                });
+            });
+
+            // Hover effect for links
+            const links = document.querySelectorAll('a');
+            links.forEach(link => {
+                link.addEventListener('mouseenter', () => {
+                    cursor.style.borderColor = '#ff3333';
+                    cursor.style.transform += ' scale(1.5)';
+                });
+                link.addEventListener('mouseleave', () => {
+                    cursor.style.borderColor = '#e5e5e5';
+                    cursor.style.transform = cursor.style.transform.replace(' scale(1.5)', '');
+                });
+            });
+        }
+
+        // --- 2. SUBTLE BACKGROUND PARTICLES ---
+        const canvas = document.getElementById('protokin-field');
+        const ctx = canvas.getContext('2d');
+        let particles = [];
+        let width, height;
+
+        function resize() {
+            width = canvas.width = window.innerWidth;
+            height = canvas.height = window.innerHeight;
+        }
+        window.addEventListener('resize', resize);
+        resize();
+
+        class Particle {
+            constructor() {
+                this.x = Math.random() * width;
+                this.y = Math.random() * height;
+                this.vx = (Math.random() - 0.5) * 0.1; 
+                this.vy = (Math.random() - 0.5) * 0.1;
+                this.size = Math.random() * 1.5;
+                this.baseOpacity = Math.random() * 0.1; // Very faint
+            }
+
+            update() {
+                this.x += this.vx;
+                this.y += this.vy;
+                if (this.x < 0) this.x = width;
+                if (this.x > width) this.x = 0;
+                if (this.y < 0) this.y = height;
+                if (this.y > height) this.y = 0;
+            }
+
+            draw() {
+                ctx.fillStyle = '#ffffff';
+                ctx.globalAlpha = this.baseOpacity;
+                ctx.beginPath();
+                ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+                ctx.fill();
+            }
+        }
+
+        // Reduce particle count on mobile for performance
+        const particleCount = window.innerWidth < 768 ? 30 : 80;
+        for (let i = 0; i < particleCount; i++) particles.push(new Particle());
+
+        function animate() {
+            ctx.clearRect(0, 0, width, height);
+            
+            // Draw static grid only on desktop to reduce visual noise on mobile
+            if (width > 768) {
+                ctx.strokeStyle = 'rgba(255, 255, 255, 0.02)';
+                ctx.lineWidth = 1;
+                const gridSize = 50;
+                
+                for(let x=0; x<width; x+=gridSize) {
+                    ctx.beginPath(); ctx.moveTo(x,0); ctx.lineTo(x,height); ctx.stroke();
+                }
+                for(let y=0; y<height; y+=gridSize) {
+                    ctx.beginPath(); ctx.moveTo(0,y); ctx.lineTo(width,y); ctx.stroke();
+                }
+            }
+
+            particles.forEach(p => {
+                p.update();
+                p.draw();
+            });
+            requestAnimationFrame(animate);
+        }
+        animate();
+    </script>
+</body>
+</html>

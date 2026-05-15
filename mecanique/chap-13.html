@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROTOCOLE 13 : GRAMMATISATION</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=VT323&family=Inter:wght@300;400;600&display=swap');
+
+        :root {
+            --bg-color: #000000;
+            --text-color: #22c55e; /* Vert terminal classique */
+            --grid-color: #14532d;
+            --glitch-color-1: #ef4444;
+            --glitch-color-2: #3b82f6;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+            selection-background-color: var(--text-color);
+            selection-color: #000;
+        }
+
+        .font-pixel {
+            font-family: 'VT323', monospace;
+        }
+
+        /* Pixel Grid Background */
+        .pixel-grid {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background-image: 
+                linear-gradient(var(--grid-color) 1px, transparent 1px),
+                linear-gradient(90deg, var(--grid-color) 1px, transparent 1px);
+            background-size: 20px 20px;
+            pointer-events: none;
+            z-index: 10;
+            opacity: 0.3;
+        }
+
+        /* Scanline */
+        .scanline {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background: linear-gradient(to bottom, transparent 50%, rgba(34, 197, 94, 0.05) 50%);
+            background-size: 100% 4px;
+            pointer-events: none;
+            z-index: 50;
+        }
+
+        /* Reveal Animations */
+        .reveal {
+            opacity: 0;
+            transform: translateY(20px);
+            transition: all 0.1s steps(5); /* Digital step effect */
+        }
+
+        .reveal.active {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* Glitch Effect on Hover */
+        .glitch-text {
+            position: relative;
+        }
+        .glitch-text:hover::before,
+        .glitch-text:hover::after {
+            content: attr(data-text);
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: var(--bg-color);
+        }
+        .glitch-text:hover::before {
+            left: 2px;
+            text-shadow: -1px 0 var(--glitch-color-1);
+            clip-path: polygon(0 0, 100% 0, 100% 45%, 0 45%);
+            animation: glitch-anim-1 0.5s infinite linear alternate-reverse;
+        }
+        .glitch-text:hover::after {
+            left: -2px;
+            text-shadow: -1px 0 var(--glitch-color-2);
+            clip-path: polygon(0 55%, 100% 55%, 100% 100%, 0 100%);
+            animation: glitch-anim-2 0.5s infinite linear alternate-reverse;
+        }
+
+        @keyframes glitch-anim-1 {
+            0% { clip-path: polygon(0 0, 100% 0, 100% 25%, 0 25%); }
+            100% { clip-path: polygon(0 0, 100% 0, 100% 75%, 0 75%); }
+        }
+        @keyframes glitch-anim-2 {
+            0% { clip-path: polygon(0 75%, 100% 75%, 100% 100%, 0 100%); }
+            100% { clip-path: polygon(0 25%, 100% 25%, 100% 100%, 0 100%); }
+        }
+
+        .pixel-block {
+            width: 10px;
+            height: 10px;
+            display: inline-block;
+            margin: 1px;
+            background-color: var(--grid-color);
+            transition: background-color 0.2s;
+        }
+        .pixel-block:hover {
+            background-color: var(--text-color);
+        }
+
+    </style>
+</head>
+<body class="antialiased min-h-screen flex flex-col">
+
+    <div class="scanline"></div>
+    <div class="pixel-grid"></div>
+
+    <!-- Nav -->
+    <nav class="fixed top-0 w-full z-50 bg-black/90 backdrop-blur border-b border-green-900/50 py-4 px-6 flex justify-between items-center font-pixel text-xl uppercase tracking-widest text-green-700">
+        <div class="opacity-70 hover:opacity-100 transition-opacity cursor-pointer text-green-500">Protokin</div>
+        <div class="text-green-500 animate-pulse">● DATA_STREAM</div>
+        <div class="opacity-70">Seq_13.log</div>
+    </nav>
+
+    <!-- Content -->
+    <main class="flex-grow pt-32 pb-20 px-4 md:px-0 relative z-20">
+        <article class="max-w-2xl mx-auto space-y-32">
+            
+            <!-- Header -->
+            <header class="reveal space-y-8 pb-12 border-b border-green-900">
+                <div class="font-pixel text-xl text-green-600 mb-2 tracking-[0.2em]">01100100 01100001 01110100 01100001</div>
+                <h1 class="text-6xl md:text-8xl font-black leading-none tracking-tighter text-white glitch-text" data-text="GRAMMATISATION">
+                    GRAMMATI<br>SATION
+                </h1>
+                <div class="flex items-center space-x-4 text-green-700 font-pixel text-xl mt-6">
+                    <span class="border border-green-800 px-2 py-1">CHAPITRE 13</span>
+                    <span>//</span>
+                    <span>HACHER LE RÉEL</span>
+                </div>
+            </header>
+
+            <!-- Section 1: Ancrage -->
+            <section class="reveal space-y-8">
+                <h2 class="font-pixel text-2xl text-green-500 uppercase tracking-widest mb-4">01. Le Zoom Destructeur</h2>
+                <div class="border border-green-900 p-8 bg-green-900/10">
+                    <p class="text-xl md:text-2xl font-light leading-relaxed text-green-300 font-pixel">
+                        > LOAD IMAGE "REALITY.JPG"<br>
+                        > ZOOM 100% ... OK<br>
+                        > ZOOM 500% ... OK<br>
+                        > ZOOM 1000% ... ERROR
+                    </p>
+                    <p class="text-lg text-green-600 mt-6 leading-relaxed">
+                        La courbe se brise. Le visage devient une grille. <br>
+                        Ce n'est pas une ligne, c'est un escalier. <br>
+                        Le numérique ne copie pas le monde, il le <strong class="text-white bg-green-900 px-1">discrétise</strong>.
+                    </p>
+                </div>
+            </section>
+
+            <!-- Section 2: Science -->
+            <section class="reveal space-y-12">
+                <h2 class="font-pixel text-2xl text-green-500 uppercase tracking-widest mb-4">02. La Loi de Shannon</h2>
+                
+                <div class="grid gap-6 font-pixel text-xl">
+                    <!-- Micro -->
+                    <div class="border border-green-900 p-6 hover:bg-green-900/20 transition-colors">
+                        <h3 class="text-white mb-2">> MP3 / ÉCHANTILLONNAGE</h3>
+                        <p class="text-green-400">
+                            Entre deux mesures, il y a le vide. Nous avons gardé les points, nous avons jeté la ligne. Le son numérique est un fromage à trous.
+                        </p>
+                    </div>
+
+                    <!-- Meso -->
+                    <div class="border border-green-900 p-6 hover:bg-green-900/20 transition-colors">
+                        <h3 class="text-white mb-2">> VANNIER VS GRAPHISTE</h3>
+                        <p class="text-green-400">
+                            Le vannier plie le bois (tension analogique). Le graphiste pose des vecteurs (mathématique discrète). L'un touche la matière, l'autre le code.
+                        </p>
+                    </div>
+
+                    <!-- Macro -->
+                    <div class="border border-green-900 p-6 hover:bg-green-900/20 transition-colors">
+                        <h3 class="text-white mb-2">> TAYLORISME 4.0</h3>
+                        <p class="text-green-400">
+                            Le corps du travailleur est haché en "micro-tâches" (Pick, Scan, Pack). L'humain devient un automate discret.
+                        </p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Section 3: Totem -->
+            <section class="reveal py-16 text-center space-y-8">
+                <!-- Mosaic Viz -->
+                <div class="w-32 h-32 mx-auto grid grid-cols-8 grid-rows-8 gap-1">
+                    <div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div>
+                    <div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div>
+                    <div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block" style="background:white"></div><div class="pixel-block" style="background:white"></div><div class="pixel-block" style="background:white"></div><div class="pixel-block" style="background:white"></div><div class="pixel-block"></div><div class="pixel-block"></div>
+                    <div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block" style="background:white"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block" style="background:white"></div><div class="pixel-block"></div><div class="pixel-block"></div>
+                    <div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block" style="background:white"></div><div class="pixel-block" style="background:white"></div><div class="pixel-block" style="background:white"></div><div class="pixel-block" style="background:white"></div><div class="pixel-block"></div><div class="pixel-block"></div>
+                    <div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div>
+                    <div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div>
+                    <div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div><div class="pixel-block"></div>
+                </div>
+
+                <h2 class="font-pixel text-2xl text-green-500 uppercase tracking-widest relative z-10">IMAGE TOTEM</h2>
+                <div class="text-5xl md:text-7xl font-bold text-white tracking-tight relative z-10 glitch-text" data-text="LA MOSAÏQUE">
+                    LA MOSAÏQUE
+                </div>
+                <p class="text-green-700 italic max-w-md mx-auto relative z-10 mt-4 font-pixel text-xl">
+                    "Le monde coupé en carrés pour être compté."
+                </p>
+            </section>
+
+            <!-- Section 4: Action -->
+            <section class="reveal space-y-6">
+                <h2 class="font-pixel text-2xl text-green-500 uppercase tracking-widest mb-4">03. La Trace</h2>
+                <p class="text-lg text-green-300">
+                    Sortez de la grille. Réinjectez du continu.
+                </p>
+                
+                <div class="mt-4 p-4 border-l-4 border-green-500 bg-green-900/20">
+                    <p class="font-pixel text-xl text-white mb-2">MICRO-GESTE : LE STYLO</p>
+                    <p class="text-green-400">
+                        Refusez le clavier pour l'essentiel.<br>
+                        L'écriture manuscrite est analogique. Elle porte la pression et l'humeur.<br>
+                        Le mail aplatit. La lettre incarne.
+                    </p>
+                </div>
+            </section>
+
+            <!-- Footer -->
+            <footer class="reveal pt-24 pb-12 mt-12 border-t border-green-900">
+                <div class="flex justify-between items-end">
+                    <div>
+                        <p class="font-pixel text-xl text-green-800 uppercase mb-2">Statut Data</p>
+                        <p class="text-xl font-bold text-white font-pixel">READY FOR PROCESSING</p>
+                    </div>
+                    
+                    <a href="/mecanique/chap-14.html" class="group text-right">
+                        <p class="font-pixel text-xl text-green-800 uppercase">Chapitre Suivant</p>
+                        <div class="flex items-center space-x-2 text-white font-bold text-lg group-hover:text-green-400 transition-colors font-pixel text-2xl">
+                            <span>L'ALGORITHME</span>
+                            <span>→</span>
+                        </div>
+                    </a>
+                </div>
+            </footer>
+
+        </article>
+    </main>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('active');
+                    }
+                });
+            }, { threshold: 0.1 });
+
+            document.querySelectorAll('.reveal').forEach((el) => observer.observe(el));
+        });
+    </script>
+</body>
+</html>
+

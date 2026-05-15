@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROTOCOLE 08 : LE PLI</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=JetBrains+Mono:wght@400;700&display=swap');
+
+        :root {
+            --bg-color: #1a1a1a;
+            --text-color: #e5e5e5;
+            --brain-color: #db2777; /* Rose sombre/Magenta viscéral */
+            --fold-shadow: #000000;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+            selection-background-color: var(--brain-color);
+            selection-color: #fff;
+        }
+
+        .font-mono {
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        /* Topographic Lines Background */
+        .topo-lines {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background-image: repeating-radial-gradient(
+                circle at 20% 80%, 
+                transparent 0, 
+                transparent 19px, 
+                rgba(219, 39, 119, 0.05) 20px
+            );
+            pointer-events: none;
+            z-index: 10;
+        }
+
+        /* Scanline */
+        .scanline {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background: linear-gradient(to bottom, transparent 50%, rgba(0, 0, 0, 0.3) 50%);
+            background-size: 100% 4px;
+            pointer-events: none;
+            z-index: 50;
+        }
+
+        /* Reveal Animations */
+        .reveal {
+            opacity: 0;
+            transform: translateY(20px) scale(0.98);
+            transition: all 1s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .reveal.active {
+            opacity: 1;
+            transform: translateY(0) scale(1);
+        }
+
+        /* Fold Visuals */
+        .fold-card {
+            background: linear-gradient(135deg, #262626 0%, #171717 100%);
+            border-left: 2px solid var(--brain-color);
+            box-shadow: inset 10px 0 20px -10px rgba(0,0,0,0.8);
+            transition: transform 0.3s;
+        }
+        .fold-card:hover {
+            transform: translateX(10px);
+        }
+
+        .text-visceral {
+            color: var(--brain-color);
+            text-shadow: 0 0 20px rgba(219, 39, 119, 0.3);
+        }
+
+    </style>
+</head>
+<body class="antialiased min-h-screen flex flex-col">
+
+    <div class="scanline"></div>
+    <div class="topo-lines"></div>
+
+    <!-- Nav -->
+    <nav class="fixed top-0 w-full z-50 bg-[#111]/90 backdrop-blur border-b border-white/5 py-4 px-6 flex justify-between items-center font-mono text-xs uppercase tracking-widest text-gray-500">
+        <div class="opacity-70 hover:opacity-100 transition-opacity cursor-pointer text-white">Protokin</div>
+        <div class="text-[var(--brain-color)] animate-pulse">● INVAGINATION</div>
+        <div class="opacity-70">Seq_08.log</div>
+    </nav>
+
+    <!-- Content -->
+    <main class="flex-grow pt-32 pb-20 px-4 md:px-0 relative z-20">
+        <article class="max-w-2xl mx-auto space-y-32">
+            
+            <!-- Header -->
+            <header class="reveal space-y-8 pb-12">
+                <div class="font-mono text-xs text-[var(--brain-color)] mb-2 tracking-[0.2em]">TOPOLOGIE</div>
+                <h1 class="text-6xl md:text-8xl font-bold leading-none tracking-tighter text-white">
+                    LE PLI
+                </h1>
+                <div class="flex items-center space-x-4 text-gray-500 font-mono text-xs mt-6">
+                    <span class="border border-gray-700 px-2 py-1">CHAPITRE 08</span>
+                    <span>//</span>
+                    <span>INTÉRIORITÉ = RETARD</span>
+                </div>
+            </header>
+
+            <!-- Section 1: Ancrage -->
+            <section class="reveal space-y-8">
+                <h2 class="font-mono text-xs text-[var(--brain-color)] uppercase tracking-widest mb-4">01. La Noix Brisée</h2>
+                <div class="pl-6 border-l border-gray-800">
+                    <p class="text-xl md:text-2xl font-light leading-relaxed text-gray-300">
+                        Brisez la coque. À l'intérieur, pas de noyau lisse. <br>Mais un labyrinthe convulsif.
+                    </p>
+                    <p class="text-lg text-gray-500 mt-6 leading-relaxed">
+                        Si vous dépliez la noix, elle est immense. Pour tenir dans le volume, la matière a dû <em class="text-white">flamber</em>. Ce n'est pas un dessin, c'est une contrainte mécanique brutale.
+                    </p>
+                    <div class="mt-8 p-4 bg-black/30 border border-white/5">
+                        <p class="font-mono text-xs text-[var(--brain-color)] mb-2">> DIAGNOSTIC</p>
+                        <p class="text-gray-400 italic">"L'intérieur n'est pas un vide caché. C'est un Dehors qui a été froissé."</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Section 2: Science -->
+            <section class="reveal space-y-12">
+                <h2 class="font-mono text-xs text-gray-500 uppercase tracking-widest mb-4">02. La Loi du Buckling</h2>
+                
+                <div class="space-y-4">
+                    <!-- Micro -->
+                    <div class="fold-card p-6">
+                        <h3 class="font-mono text-white mb-1">MICRO : LA PROTÉINE</h3>
+                        <p class="text-sm text-gray-400">
+                            L'ADN est un fil. Pour vivre, il doit se nouer en pelote 3D. La fonction naît de la forme pliée.
+                        </p>
+                    </div>
+
+                    <!-- Meso -->
+                    <div class="fold-card p-6">
+                        <h3 class="font-mono text-white mb-1">MESO : L'INTESTIN</h3>
+                        <p class="text-sm text-gray-400">
+                            Un court de tennis dans votre ventre. L'invagination fractale permet d'absorber le monde dans un espace clos.
+                        </p>
+                    </div>
+
+                    <!-- Macro -->
+                    <div class="fold-card p-6">
+                        <h3 class="font-mono text-white mb-1">MACRO : LE CERVEAU</h3>
+                        <p class="text-sm text-gray-400">
+                            Le crâne est trop petit pour l'intelligence. Le cortex doit flamber (se friper) sous la pression. Penser, c'est être à l'étroit.
+                        </p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Section 3: Totem -->
+            <section class="reveal py-16 text-center space-y-8 relative">
+                 <!-- Abstract Fold Visualization -->
+                 <div class="mx-auto w-32 h-32 border-4 border-[var(--brain-color)] rounded-full flex items-center justify-center opacity-80 animate-spin-slow" style="animation-duration: 20s;">
+                    <div class="w-24 h-24 border-4 border-white rounded-full flex items-center justify-center">
+                        <div class="w-16 h-16 border-4 border-[var(--brain-color)] rounded-full"></div>
+                    </div>
+                 </div>
+
+                <h2 class="font-mono text-xs text-gray-500 uppercase tracking-widest relative z-10">IMAGE TOTEM</h2>
+                <div class="text-5xl md:text-7xl font-bold text-white tracking-tight relative z-10 text-visceral">
+                    LE LABYRINTHE
+                </div>
+                <p class="text-gray-400 italic max-w-md mx-auto relative z-10 mt-4">
+                    "Une machine à perdre du temps. Le pli crée de la profondeur là où il n'y a que de la surface."
+                </p>
+            </section>
+
+            <!-- Section 4: Action -->
+            <section class="reveal space-y-6">
+                <h2 class="font-mono text-xs text-[var(--brain-color)] uppercase tracking-widest mb-4">03. La Rumination Utile</h2>
+                <p class="text-lg text-gray-300">
+                    Ne lissez pas votre existence. Un cerveau lisse est idiot. Acceptez le frottement.
+                </p>
+                
+                <div class="mt-8 border-t border-b border-gray-800 py-8 text-center">
+                    <p class="font-mono text-sm text-gray-400 mb-4">ÉQUATION DU MOI</p>
+                    <p class="text-2xl md:text-3xl font-light text-white font-serif">
+                        Intériorité = <span class="text-[var(--brain-color)]">Retard</span>
+                    </p>
+                </div>
+            </section>
+
+            <!-- Footer -->
+            <footer class="reveal pt-24 pb-12 mt-12">
+                <div class="flex justify-between items-end border-t border-gray-800 pt-8">
+                    <div>
+                        <p class="font-mono text-xs text-gray-600 uppercase mb-2">Topologie</p>
+                        <p class="text-xl font-bold text-white">INVAGINÉE</p>
+                    </div>
+                    
+                    <a href="/mecanique/chap-09.html" class="group text-right">
+                        <p class="font-mono text-xs text-gray-600 uppercase">Prochaine Séquence</p>
+                        <div class="flex items-center space-x-2 text-white font-bold text-lg group-hover:text-[var(--brain-color)] transition-colors">
+                            <span>LA RÉSONANCE</span>
+                            <span>→</span>
+                        </div>
+                    </a>
+                </div>
+            </footer>
+
+        </article>
+    </main>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('active');
+                    }
+                });
+            }, { threshold: 0.1 });
+
+            document.querySelectorAll('.reveal').forEach((el) => observer.observe(el));
+        });
+    </script>
+</body>
+</html>
+

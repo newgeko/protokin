@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BLANK PAGE</title>
+    
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Inter:wght@400;600&display=swap" rel="stylesheet">
+
+    <style>
+	.video-terminal-container {
+    max-width: 800px;
+    margin: 40px auto;
+    background: #000;
+    border: 1px solid #334155;
+    box-shadow: 0 20px 50px rgba(0,0,0,0.5);
+    font-family: 'JetBrains Mono', monospace; /* Ou votre police mono */
+}
+
+/* En-tête */
+.terminal-header {
+    background: #0f172a;
+    color: #94a3b8;
+    padding: 10px 15px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 10px;
+    letter-spacing: 1px;
+    border-bottom: 1px solid #334155;
+}
+
+.blink-red {
+    color: #ef4444;
+    animation: blink 2s infinite;
+}
+@keyframes blink { 50% { opacity: 0; } }
+
+/* Zone Vidéo */
+.video-wrapper {
+    position: relative;
+    width: 100%;
+    background: #000;
+    overflow: hidden;
+}
+
+.video-screen {
+    width: 100%;
+    display: block;
+    opacity: 0.8; /* Légèrement sombre pour l'ambiance */
+}
+
+/* Effet Scanline (Lignes TV) */
+.scanlines {
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
+    background-size: 100% 2px, 3px 100%;
+    pointer-events: none; /* Laisse passer les clics */
+    z-index: 10;
+}
+
+/* Bouton Play Central */
+.big-play {
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    color: white;
+    background: rgba(0,0,0,0.5);
+    width: 80px; height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    border: 2px solid white;
+    cursor: pointer;
+    transition: all 0.3s;
+    z-index: 20;
+}
+.big-play:hover { background: rgba(255,255,255,0.1); scale: 1.1; }
+
+/* Contrôles du bas */
+.terminal-controls {
+    background: #0f172a;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    border-top: 1px solid #334155;
+}
+
+.control-btn {
+    background: transparent;
+    border: 1px solid #475569;
+    color: #e2e8f0;
+    font-family: inherit;
+    font-size: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+.control-btn:hover { background: #1e293b; border-color: #94a3b8; }
+
+.progress-bar-container {
+    flex-grow: 1;
+    height: 4px;
+    background: #334155;
+    cursor: pointer;
+    position: relative;
+}
+
+.progress-fill {
+    height: 100%;
+    background: #22d3ee; /* Cyan ou Orange selon votre goût */
+    width: 0%;
+    transition: width 0.1s linear;
+}
+	</style>
+	
+
+</head>
+<body>
+	<main class="ml-0 md:ml-64 p-8 min-h-screen">
+	
+	<div class="video-terminal-container">
+    
+    <div class="terminal-header">
+        <span class="blink-red">● REC</span>
+        <span class="terminal-id">CAM_04 // ARCHIVE_S-91</span>
+        <span id="video-timer">00:00:00</span>
+    </div>
+
+    <div class="video-wrapper">
+        <div class="scanlines"></div>
+        
+        <video id="main-video" class="video-screen" poster="https://via.placeholder.com/800x450/0f172a/ffffff?text=SIGNAL+OFFLINE">
+            <source src="https://drive.google.com/file/d/1r3ZadsdzXkpMVQAagGzCv00IlBNkCPu-" type="video/mp4">
+            Votre navigateur ne supporte pas le flux.
+        </video>
+
+        <div id="big-play-btn" class="big-play">▶</div>
+    </div>
+
+    <div class="terminal-controls">
+        <button id="btn-play-pause" class="control-btn">LECTURE</button>
+        
+        <div class="progress-bar-container" id="progress-container">
+            <div class="progress-fill" id="progress-fill"></div>
+        </div>
+        
+        <button id="btn-mute" class="control-btn">SON: ON</button>
+        <button id="btn-fullscreen" class="control-btn">[ ]</button>
+    </div>
+</div>
+		
+	</main>
+	<script src="/assets/js/script.js"></script>
+    <script>
+	// --- LOGIQUE DU LECTEUR VIDÉO PROTOKIN ---
+document.addEventListener('DOMContentLoaded', () => {
+    const video = document.getElementById('main-video');
+    
+    // Si pas de vidéo sur la page, on arrête le script pour éviter les erreurs
+    if (!video) return;
+
+    const playBtn = document.getElementById('btn-play-pause');
+    const bigPlayBtn = document.getElementById('big-play-btn');
+    const muteBtn = document.getElementById('btn-mute');
+    const fullScreenBtn = document.getElementById('btn-fullscreen');
+    const progressContainer = document.getElementById('progress-container');
+    const progressFill = document.getElementById('progress-fill');
+    const timerDisplay = document.getElementById('video-timer');
+
+    // 1. Fonction Play/Pause
+    function togglePlay() {
+        if (video.paused) {
+            video.play();
+            playBtn.innerText = "PAUSE";
+            bigPlayBtn.style.opacity = '0'; // Cache le gros bouton
+            bigPlayBtn.style.pointerEvents = 'none';
+        } else {
+            video.pause();
+            playBtn.innerText = "LECTURE";
+            bigPlayBtn.style.opacity = '1';
+            bigPlayBtn.style.pointerEvents = 'auto';
+        }
+    }
+
+    playBtn.addEventListener('click', togglePlay);
+    bigPlayBtn.addEventListener('click', togglePlay);
+    video.addEventListener('click', togglePlay);
+
+    // 2. Mise à jour de la barre de progression
+    video.addEventListener('timeupdate', () => {
+        const percent = (video.currentTime / video.duration) * 100;
+        progressFill.style.width = `${percent}%`;
+        
+        // Mise à jour du Timer (MM:SS)
+        const mins = Math.floor(video.currentTime / 60);
+        const secs = Math.floor(video.currentTime % 60);
+        timerDisplay.innerText = `TCR ${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
+    });
+
+    // 3. Clic sur la barre pour avancer/reculer
+    progressContainer.addEventListener('click', (e) => {
+        const width = progressContainer.clientWidth;
+        const clickX = e.offsetX;
+        const duration = video.duration;
+        video.currentTime = (clickX / width) * duration;
+    });
+
+    // 4. Mute / Unmute
+    muteBtn.addEventListener('click', () => {
+        video.muted = !video.muted;
+        muteBtn.innerText = video.muted ? "SON: OFF" : "SON: ON";
+    });
+
+    // 5. Plein écran
+    fullScreenBtn.addEventListener('click', () => {
+        if (video.requestFullscreen) {
+            video.requestFullscreen();
+        } else if (video.webkitRequestFullscreen) { /* Safari */
+            video.webkitRequestFullscreen();
+        }
+    });
+
+    // 6. Reset à la fin
+    video.addEventListener('ended', () => {
+        playBtn.innerText = "REJOUER";
+        bigPlayBtn.style.opacity = '1';
+        bigPlayBtn.innerText = "↺";
+    });
+});
+	</script>
+	
+</body>
+</html>

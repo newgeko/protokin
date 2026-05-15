@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROTOCOLE 03 : TREMBLEMENT</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=JetBrains+Mono:wght@400;700&display=swap');
+
+        :root {
+            --bg-color: #050505;
+            --text-color: #d4d4d4;
+            --accent-color: #ff3333; /* Rouge Protokin */
+            --fog-color: #333333;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+        }
+
+        .font-mono {
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        /* Scanline & Noise */
+        .scanline {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,255,255,0) 50%, rgba(0,0,0,0.05) 50%, rgba(0,0,0,0.05));
+            background-size: 100% 4px;
+            pointer-events: none;
+            z-index: 50;
+            opacity: 0.6;
+        }
+
+        /* Animations */
+        .reveal {
+            opacity: 0;
+            filter: blur(8px);
+            transform: translateY(20px);
+            transition: all 1s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        .reveal.active {
+            opacity: 1;
+            filter: blur(0);
+            transform: translateY(0);
+        }
+
+        /* Specific Blur Effects for Ch.3 */
+        .blur-hover {
+            transition: filter 0.5s ease;
+        }
+        .blur-hover:hover {
+            filter: blur(2px);
+        }
+
+        .text-glow {
+            text-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+        }
+
+        .quote-block {
+            border-left: 1px solid var(--accent-color);
+            background: linear-gradient(90deg, rgba(255,51,51,0.05) 0%, rgba(0,0,0,0) 100%);
+        }
+
+        /* Interlude Section */
+        .interlude-bg {
+            background: radial-gradient(circle at center, #1a1a1a 0%, #000000 100%);
+        }
+    </style>
+</head>
+<body class="antialiased min-h-screen flex flex-col selection:bg-white selection:text-black">
+
+    <div class="scanline"></div>
+
+    <!-- Navigation -->
+    <nav class="fixed top-0 w-full z-40 bg-black/50 backdrop-blur-md border-b border-white/10 py-4 px-6 flex justify-between items-center font-mono text-xs uppercase tracking-widest">
+        <div class="opacity-70 hover:opacity-100 transition-opacity cursor-pointer">Protokin</div>
+        <div class="text-[var(--accent-color)] animate-pulse">● Rec</div>
+        <div class="opacity-70">Seq_03.log</div>
+    </nav>
+
+    <main class="flex-grow pt-32 pb-20 px-4 md:px-0">
+        
+        <article class="max-w-2xl mx-auto space-y-32">
+            
+            <!-- Header -->
+            <header class="reveal space-y-6 border-b border-white/10 pb-12">
+                <div class="font-mono text-sm text-gray-500 mb-2">ARCHIVE: OPTIQUE_DU_VAGUE</div>
+                <h1 class="text-5xl md:text-7xl font-bold leading-none tracking-tighter text-glow text-transparent bg-clip-text bg-gradient-to-b from-white to-gray-600">
+                    ARCHÉOLOGIE<br>DU TREMBLEMENT
+                </h1>
+                <div class="flex items-center space-x-4 text-gray-500 font-mono text-sm">
+                    <span class="border border-gray-800 px-2 py-1 text-gray-300">CHAPITRE 03</span>
+                    <span>//</span>
+                    <span>LE MONDE N'A PAS DE BORDS</span>
+                </div>
+            </header>
+
+            <!-- ANCRAGE -->
+            <section class="reveal space-y-8">
+                <h2 class="font-mono text-sm text-[var(--accent-color)] uppercase tracking-widest mb-4">01. Ancrage : La Route</h2>
+                <div class="relative pl-6 border-l border-white/20">
+                    <p class="text-xl md:text-2xl font-light leading-relaxed text-gray-200 blur-hover">
+                        Vous êtes au volant, une nuit de novembre. La fatigue pèse. Soudain, une nappe de brouillard tombe, abolissant le paysage.
+                    </p>
+                    <p class="text-lg text-gray-400 mt-6 leading-relaxed">
+                        Réflexe de citadin : vous allumez les pleins phares. <strong class="text-white">Erreur fatale.</strong> Un mur blanc se dresse. La lumière sature la rétine. Le « Clair » est devenu votre ennemi.
+                    </p>
+                    <p class="text-lg text-gray-400 mt-4 leading-relaxed">
+                        Vous passez en codes. Vous ne cherchez plus les bords nets. Vous traquez une lueur, un halo, une variation de gris. Vous naviguez au radar. C'est ce vague qui vous sauve.
+                    </p>
+                </div>
+            </section>
+
+            <!-- DIAGNOSTIC -->
+            <section class="reveal space-y-8">
+                <h2 class="font-mono text-sm text-gray-500 uppercase tracking-widest mb-4">02. Pathologie de la Découpe</h2>
+                <p class="text-lg text-gray-300">
+                    La Doxa souffre d'une hallucination : elle croit que le réel est en Haute Définition (HD). C'est le fantasme du "Monde de Midi", sans ombre, où tout est détouré au scalpel.
+                </p>
+
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-8 font-mono text-sm">
+                    <div class="bg-white/5 p-6 border border-white/10 hover:border-white/30 transition-all">
+                        <span class="text-[var(--accent-color)] block mb-2">> L'INGÉNIEUR</span>
+                        Considère le flou comme un bruit à éliminer. Veut que le réel soit une géométrie d'Euclide.
+                    </div>
+                    <div class="bg-white/5 p-6 border border-white/10 hover:border-white/30 transition-all">
+                        <span class="text-[var(--accent-color)] block mb-2">> LE JURISTE</span>
+                        Exige la "Ligne Claire". Découpe le monde en Coupable/Innocent. Nie la zone grise.
+                    </div>
+                    <div class="bg-white/5 p-6 border border-white/10 hover:border-white/30 transition-all col-span-1 md:col-span-2">
+                        <span class="text-[var(--accent-color)] block mb-2">> LE VERROU COGNITIF</span>
+                        <p class="text-gray-400 mt-2">Notre cerveau déteste le continu (le dégradé). Pour survivre, le lapin doit décider "Renard" ou "Rien". Il n'a pas le temps pour la nuance. La netteté est une simplification de survie, pas une vérité.</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- PIVOT THÉORIQUE -->
+            <section class="reveal space-y-8">
+                <h2 class="font-mono text-sm text-[var(--accent-color)] uppercase tracking-widest mb-4">03. La Science du Vague</h2>
+                <h3 class="text-3xl md:text-5xl font-bold text-white tracking-tight">
+                    LE RÉEL EST UN DÉGRADÉ.
+                </h3>
+                
+                <div class="space-y-12 mt-12">
+                    <div>
+                        <h4 class="font-mono text-white text-lg mb-2">MICRO : HEISENBERG</h4>
+                        <p class="text-gray-400">Si vous faites le point (position nette), vous tuez le mouvement (vitesse). Le fond de la matière est un nuage de probabilités.</p>
+                    </div>
+                    
+                    <div>
+                        <h4 class="font-mono text-white text-lg mb-2">MÉSO : LA SACCADE OCULAIRE</h4>
+                        <p class="text-gray-400">Si vous fixez un point sans bouger, vous devenez aveugle. Pour voir, l'œil doit trembler en permanence. La vision naît de l'instabilité.</p>
+                    </div>
+
+                    <div>
+                        <h4 class="font-mono text-white text-lg mb-2">MACRO : LE TAS DE SABLE</h4>
+                        <p class="text-gray-400">Enlevez un grain à un tas, c'est toujours un tas. À quel moment précis devient-il "non-tas" ? Il n'y a pas de seuil net.</p>
+                    </div>
+                </div>
+
+                <div class="quote-block p-6 mt-12">
+                    <p class="text-xl italic text-gray-200">
+                        "Une idée parfaitement claire est une idée morte. Le réel, lui, est une transition de phase permanente."
+                    </p>
+                </div>
+            </section>
+
+            <!-- PROTOCOLE D'ACTION -->
+            <section class="reveal space-y-8">
+                <h2 class="font-mono text-sm text-gray-500 uppercase tracking-widest mb-4">04. Le Sismographe</h2>
+                
+                <div class="border border-white/20 p-8 relative overflow-hidden group">
+                    <div class="absolute inset-0 bg-[var(--accent-color)]/5 transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left duration-700"></div>
+                    <h3 class="relative z-10 text-2xl font-bold text-white mb-4">PROTOCOLE : DÉFOCALISER</h3>
+                    <p class="relative z-10 text-gray-300 mb-6">
+                        Ne regardez pas le problème en face (vous allez le figer). Activez votre <strong>Vision Périphérique</strong>.
+                    </p>
+                    <p class="relative z-10 text-gray-400 text-sm font-mono">
+                        CAS DU MÉDECIN DE GUERRE :<br>
+                        L'interne regarde la plaie (horreur, tunnel vision).<br>
+                        L'expert défocalise (capte la pâleur, la sueur, le choc global).<br>
+                        Il a une vision thermique de la situation.
+                    </p>
+                </div>
+
+                <p class="text-center font-mono text-xs text-gray-500 mt-12 uppercase tracking-widest">
+                    L'aiguille ne dessine pas le paysage.<br>Elle enregistre la vibration.
+                </p>
+            </section>
+
+        </article>
+
+        <!-- INTERLUDE -->
+        <section class="reveal mt-32 py-24 interlude-bg border-t border-b border-white/5">
+            <div class="max-w-2xl mx-auto px-4 text-center space-y-6">
+                <span class="font-mono text-[var(--accent-color)] text-xs tracking-[0.2em] uppercase">Interlude I</span>
+                <h2 class="text-3xl md:text-4xl font-bold text-white">L’ORAGE QUI NE CLAQUE PAS</h2>
+                <p class="text-gray-400 italic">
+                    La chaleur moite de 16h. Les oiseaux qui se taisent.<br>
+                    La souffrance physique de l'attente avant la décharge.
+                </p>
+                <div class="w-px h-16 bg-gradient-to-b from-[var(--accent-color)] to-transparent mx-auto mt-8"></div>
+            </div>
+        </section>
+
+        <!-- FOOTER / NEXT -->
+        <footer class="max-w-2xl mx-auto px-4 py-20 flex flex-col items-end text-right space-y-2 reveal">
+            <p class="font-mono text-xs text-gray-600 uppercase">La tension sature</p>
+            <a href="/mecanique/chap-04.html" class="group flex items-center space-x-4">
+                <div>
+                    <span class="block text-gray-500 text-sm group-hover:text-white transition-colors">Chapitre Suivant</span>
+                    <span class="text-2xl font-bold text-white">L'ÉVÉNEMENT</span>
+                </div>
+                <div class="w-10 h-10 border border-white/20 rounded-full flex items-center justify-center group-hover:bg-white group-hover:text-black transition-all">
+                    →
+                </div>
+            </a>
+        </footer>
+
+    </main>
+
+    <script>
+        // Reveal on scroll
+        document.addEventListener('DOMContentLoaded', () => {
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('active');
+                    }
+                });
+            }, { threshold: 0.1 });
+
+            document.querySelectorAll('.reveal').forEach((el) => observer.observe(el));
+        });
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="fr" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LABO // MACRO-01 : LE TAS DE SABLE</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400;600&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    
+    <style>
+        body { font-family: 'Inter', sans-serif; background-color: #f8fafc; color: #0f172a; }
+        .serif { font-family: 'Lora', serif; }
+        .mono { font-family: 'JetBrains Mono', monospace; }
+        
+        /* Grille Technique */
+        .bg-grid-tech {
+            background-image: 
+                linear-gradient(to right, rgba(15, 23, 42, 0.05) 1px, transparent 1px),
+                linear-gradient(to bottom, rgba(15, 23, 42, 0.05) 1px, transparent 1px);
+            background-size: 20px 20px;
+        }
+
+        /* Grains de sable */
+        .sand-grain {
+            position: absolute;
+            width: 4px;
+            height: 4px;
+            background-color: #d97706; /* Amber-600 */
+            border-radius: 50%;
+            pointer-events: none;
+            transition: top 0.2s cubic-bezier(0.25, 1, 0.5, 1), left 0.2s cubic-bezier(0.25, 1, 0.5, 1);
+        }
+
+        /* Bouton Industriel */
+        .btn-industrial {
+            background: #0f172a;
+            color: white;
+            font-family: 'JetBrains Mono', monospace;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            padding: 12px 24px;
+            border: 1px solid #0f172a;
+            transition: all 0.2s;
+            cursor: pointer;
+            font-size: 10px;
+        }
+        .btn-industrial:hover {
+            background: #d97706;
+            border-color: #d97706;
+            color: white;
+        }
+        .btn-industrial:active {
+            transform: translateY(2px);
+        }
+    </style>
+</head>
+<body class="selection:bg-amber-100 selection:text-amber-900">
+
+    <!-- NAV -->
+    <nav class="fixed top-0 w-full bg-slate-50/90 backdrop-blur border-b border-slate-200 z-50 h-12 flex items-center justify-between px-6">
+        <a href="index.html" class="mono text-[10px] hover:text-teal-700 transition-colors flex items-center gap-2">
+            <span>←</span> RETOUR AU SYSTÈME
+        </a>
+        <div class="mono text-[10px] text-slate-400">
+            MODULE: MACRO_01 // STATUT: ACTIF
+        </div>
+    </nav>
+
+    <!-- HEADER -->
+    <header class="pt-32 pb-16 px-6 max-w-4xl mx-auto text-center">
+        <div class="inline-block border border-amber-600 text-amber-600 px-2 py-1 mono text-[10px] mb-6 uppercase tracking-widest animate-pulse">
+            Avertissement : Criticalité Auto-Organisée
+        </div>
+        <h1 class="text-4xl md:text-6xl serif font-bold text-slate-900 mb-6 leading-tight">
+            Le Paradoxe du Sorite
+        </h1>
+        <p class="text-slate-500 max-w-xl mx-auto text-sm leading-relaxed font-medium">
+            À quel moment précis un tas devient-il un tas ?<br>
+            Il n'y a pas de seuil net. Seulement une tension qui s'accumule jusqu'à l'avalanche.
+        </p>
+    </header>
+
+    <!-- EXPÉRIENCE : LE BAC À SABLE -->
+    <section class="max-w-5xl mx-auto px-6 mb-24">
+        <div class="bg-white border border-slate-200 shadow-2xl relative overflow-hidden rounded-sm">
+            
+            <!-- 1. VISUALISATION (Le Tas) -->
+            <div class="h-[400px] bg-slate-100 relative overflow-hidden flex items-end justify-center border-b border-slate-300" id="sandbox">
+                
+                <!-- Grille de fond -->
+                <div class="absolute inset-0 opacity-20 bg-grid-tech pointer-events-none"></div>
+
+                <!-- Zone de Chute (Invisible, pour le calcul) -->
+                <div id="drop-zone" class="absolute top-0 left-1/2 -translate-x-1/2 w-2 h-full border-l border-r border-slate-300/20 border-dashed"></div>
+
+                <!-- Le Tas (Canvas pour performance) -->
+                <canvas id="sandCanvas" class="absolute bottom-0 left-0 w-full h-full z-10"></canvas>
+
+                <!-- HUD (Données) -->
+                <div class="absolute top-4 right-4 mono text-[10px] text-right space-y-2 z-20">
+                    <div class="text-slate-500">PARAMÈTRES SYSTÈME</div>
+                    <div class="text-teal-700">GRAINS TOTAUX: <span id="val-grains" class="text-slate-900">0</span></div>
+                    <div class="text-teal-700">PENTE MAX: <span id="val-slope" class="text-slate-900">0</span>°</div>
+                    <div id="avalanche-warning" class="text-amber-600 font-bold hidden border border-amber-600 px-2 py-1 mt-2 bg-amber-50">
+                        ⚠ AVALANCHE DÉTECTÉE
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2. CONTRÔLE (L'Ajout) -->
+            <div class="p-8 bg-slate-50 border-t border-slate-200">
+                <div class="flex flex-col md:flex-row gap-12 items-center">
+                    
+                    <!-- Les Leviers -->
+                    <div class="w-full md:w-1/2 flex gap-4">
+                        <button id="btn-add-one" class="btn-industrial flex-1">
+                            +1 GRAIN
+                        </button>
+                        <button id="btn-add-flow" class="btn-industrial flex-1 bg-teal-800 border-teal-800 hover:bg-teal-700">
+                            FLUX CONTINU (AUTO)
+                        </button>
+                    </div>
+
+                    <!-- Le Feedback -->
+                    <div class="w-full md:w-1/2 text-xs text-slate-600 leading-relaxed border-l-2 border-teal-500 pl-6 py-2 transition-colors duration-300" id="feedback-border">
+                        <p id="feedback-text">
+                            <span class="font-bold text-teal-700">ÉTAT : STABLE.</span><br>
+                            Le système est au repos. Ajoutez des grains pour augmenter la contrainte. Le tas va s'auto-organiser vers un état critique.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- DIDACTIQUE : LA PHYSIQUE DE L'HISTOIRE -->
+    <section class="max-w-3xl mx-auto px-6 pb-24 space-y-16">
+        
+        <!-- Bloc Théorique -->
+        <div>
+            <h3 class="serif text-2xl text-slate-900 mb-4 italic">L'Hypothèse de Per Bak</h3>
+            <p class="text-slate-600 leading-relaxed mb-8 text-sm">
+                Dans les années 80, le physicien Per Bak a étudié le tas de sable. Il a découvert que le système tend naturellement vers un état critique où <strong>un événement mineur peut avoir des conséquences majeures</strong>.
+            </p>
+            
+            <div class="bg-white border border-slate-200 p-8 text-center shadow-sm relative overflow-hidden">
+                <div class="absolute top-0 left-0 w-1 h-full bg-slate-900"></div>
+                <div class="font-serif text-2xl text-slate-900 mb-4">
+                    P(s) ~ s^{-τ}
+                </div>
+                <div class="mono text-[10px] text-slate-400 uppercase tracking-widest">
+                    Loi de Puissance : Les petites avalanches sont fréquentes, les grandes sont rares mais inévitables.
+                </div>
+            </div>
+        </div>
+
+        <!-- Bloc Philosophique (Protokin) -->
+        <div class="bg-slate-100 p-8 border-l-4 border-amber-500">
+            <div class="flex items-center gap-2 mb-4">
+                <span class="mono text-xs text-amber-600 uppercase tracking-widest font-bold">Interprétation Protokinienne</span>
+            </div>
+            <h3 class="serif text-xl text-slate-900 mb-4">La Révolution n'a pas de cause unique</h3>
+            <div class="prose prose-slate prose-sm text-slate-600">
+                <p>
+                    Quand une émeute éclate ou qu'un burn-out survient, on cherche "la goutte d'eau qui a fait déborder le vase". C'est une erreur.
+                </p>
+                <p>
+                    Le dernier grain de sable n'est pas "spécial". Il est identique aux mille précédents. Ce qui a changé, ce n'est pas le grain, c'est la <strong>pente du tas</strong>.
+                </p>
+                <p>
+                    Le Protokin nous apprend à surveiller la pente (la tension systémique) plutôt que les événements isolés. Quand le système est critique, le moindre souffle est une tempête.
+                </p>
+            </div>
+        </div>
+
+        <!-- Navigation Labo -->
+        <div class="grid grid-cols-2 gap-4 pt-8 border-t border-slate-200">
+            <a href="labo_saccade.html" class="block p-4 border border-slate-200 hover:border-slate-900 transition-colors group">
+                <span class="mono text-[10px] text-slate-400">PRÉCÉDENT</span>
+                <div class="font-bold text-slate-900 text-sm group-hover:text-teal-800"><- La Saccade</div>
+            </a>
+            <a href="#" class="block p-4 border border-slate-200 hover:border-teal-700 hover:bg-teal-50 transition-colors text-right group opacity-50 cursor-not-allowed">
+                <span class="mono text-[10px] text-teal-600">SUIVANT : [VERROUILLÉ]</span>
+                <div class="font-bold text-slate-300 text-sm">--</div>
+            </a>
+        </div>
+
+    </section>
+
+    <!-- SCRIPT DE SIMULATION (Cellular Automaton simplifié) -->
+    <script>
+        const canvas = document.getElementById('sandCanvas');
+        const ctx = canvas.getContext('2d');
+        const btnOne = document.getElementById('btn-add-one');
+        const btnFlow = document.getElementById('btn-add-flow');
+        const valGrains = document.getElementById('val-grains');
+        const valSlope = document.getElementById('val-slope');
+        const warning = document.getElementById('avalanche-warning');
+        const feedback = document.getElementById('feedback-text');
+        const feedbackBorder = document.getElementById('feedback-border');
+
+        // Configuration
+        let width = 100; // Résolution de la grille (colonnes)
+        let height = 60; // Hauteur de la grille
+        let cellSize = 0;
+        let grid = []; // État du tas (nombre de grains par colonne)
+        let totalGrains = 0;
+        let isFlowing = false;
+        let flowInterval;
+        const CRITICAL_SLOPE = 3; // Différence de hauteur max entre 2 colonnes voisines
+
+        // Initialisation
+        function init() {
+            // Resize canvas
+            const parent = canvas.parentElement;
+            canvas.width = parent.clientWidth;
+            canvas.height = parent.clientHeight;
+            cellSize = canvas.width / width;
+            
+            // Init grille vide
+            for(let i=0; i<width; i++) grid[i] = 0;
+            
+            draw();
+        }
+
+        // Ajouter un grain au centre
+        function addGrain() {
+            let center = Math.floor(width / 2);
+            grid[center]++;
+            totalGrains++;
+            updatePhysics();
+            draw();
+            updateHUD();
+        }
+
+        // Physique de l'avalanche (Algorithme du Tas de Sable)
+        function updatePhysics() {
+            let unstable = true;
+            let avalancheCount = 0;
+            
+            // On boucle tant que c'est instable (propagation)
+            // Limité pour éviter freeze si boucle infinie
+            let loops = 0;
+            while(unstable && loops < 100) {
+                unstable = false;
+                loops++;
+                
+                // Copie pour éviter effets de bord pendant l'itération
+                let nextGrid = [...grid];
+
+                for(let i=0; i<width; i++) {
+                    // Vérifie voisin gauche
+                    if(i > 0) {
+                        let diff = grid[i] - grid[i-1];
+                        if(diff > CRITICAL_SLOPE) {
+                            nextGrid[i]--;
+                            nextGrid[i-1]++;
+                            unstable = true;
+                            avalancheCount++;
+                        }
+                    }
+                    // Vérifie voisin droit
+                    if(i < width-1) {
+                        let diff = grid[i] - grid[i+1];
+                        if(diff > CRITICAL_SLOPE) {
+                            nextGrid[i]--;
+                            nextGrid[i+1]++;
+                            unstable = true;
+                            avalancheCount++;
+                        }
+                    }
+                }
+                grid = nextGrid;
+            }
+
+            // Détection Avalanche pour Feedback
+            if(avalancheCount > 5) {
+                warning.classList.remove('hidden');
+                feedbackBorder.classList.replace('border-teal-500', 'border-amber-500');
+                feedback.innerHTML = `<span class="text-amber-600 font-bold">AVALANCHE EN COURS (${avalancheCount} chocs).</span><br>La pente critique est dépassée. Le système s'effondre pour dissiper l'énergie. Le grain de trop n'était qu'un prétexte.`;
+            } else {
+                warning.classList.add('hidden');
+                feedbackBorder.classList.replace('border-amber-500', 'border-teal-500');
+                if(totalGrains > 0) {
+                    feedback.innerHTML = `<span class="font-bold text-teal-700">ÉTAT : CRITIQUE.</span><br>Le tas monte. La pente s'accentue. Chaque grain ajouté teste la résilience de toute la structure.`;
+                }
+            }
+        }
+
+        // Dessin
+        function draw() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            
+            for(let i=0; i<width; i++) {
+                let h = grid[i];
+                if(h > 0) {
+                    // Dessine la colonne
+                    let x = i * cellSize;
+                    let y = canvas.height - (h * 4); // 4px par grain visuel
+                    
+                    // Couleur selon la hauteur (pression)
+                    ctx.fillStyle = h > 20 ? '#b45309' : '#d97706'; // Darker amber if high
+                    
+                    // Style "Grain" (petits carrés empilés)
+                    /* Pour perf, on dessine des rects, mais on pourrait dessiner grain par grain */
+                    ctx.fillRect(x, y, cellSize-1, h * 4);
+                }
+            }
+        }
+
+        // HUD
+        function updateHUD() {
+            valGrains.innerText = totalGrains;
+            
+            // Calcul pente max actuelle
+            let maxSlope = 0;
+            for(let i=0; i<width-1; i++) {
+                let s = Math.abs(grid[i] - grid[i+1]);
+                if(s > maxSlope) maxSlope = s;
+            }
+            // Conversion arbitraire en degrés pour l'affichage
+            valSlope.innerText = Math.round((maxSlope / CRITICAL_SLOPE) * 45); 
+        }
+
+        // Event Listeners
+        btnOne.addEventListener('click', addGrain);
+        
+        btnFlow.addEventListener('click', () => {
+            if(isFlowing) {
+                clearInterval(flowInterval);
+                isFlowing = false;
+                btnFlow.innerText = "FLUX CONTINU (AUTO)";
+                btnFlow.classList.remove('bg-amber-600', 'border-amber-600');
+                btnFlow.classList.add('bg-teal-800', 'border-teal-800');
+            } else {
+                isFlowing = true;
+                btnFlow.innerText = "ARRÊTER LE FLUX";
+                btnFlow.classList.remove('bg-teal-800', 'border-teal-800');
+                btnFlow.classList.add('bg-amber-600', 'border-amber-600');
+                
+                flowInterval = setInterval(addGrain, 100); // 10 grains/sec
+            }
+        });
+
+        // Init
+        window.addEventListener('resize', init);
+        init();
+
+    </script>
+</body>
+</html>

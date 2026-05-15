@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROTOKIN | Phase I: The Ignition</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=JetBrains+Mono:wght@300;500&family=Inter:wght@300;600&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-color: #050505;
+            --text-primary: #e5e5e5;
+            --text-secondary: #888;
+            --accent: #ff3333;
+            --phase-color: #3b82f6; /* Blue for Supercooling/Ignition */
+            --border: #333;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+            /* Cursor logic handled by JS */
+        }
+
+        @media (min-width: 768px) {
+            body { cursor: crosshair; }
+        }
+
+        h1, h2, h3 { font-family: 'Cinzel', serif; }
+        .mono { font-family: 'JetBrains Mono', monospace; }
+
+        /* Noise */
+        .noise {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            pointer-events: none; z-index: 50; opacity: 0.05;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='1'/%3E%3C/svg%3E");
+        }
+
+        /* Cursor */
+        .cursor-follower {
+            position: fixed; width: 20px; height: 20px;
+            border: 1px solid var(--text-primary); border-radius: 50%;
+            pointer-events: none; z-index: 100; transition: transform 0.1s;
+            mix-blend-mode: difference;
+        }
+
+        /* Section Styles */
+        .register-section {
+            border-left: 1px solid var(--border);
+            padding-left: 2rem;
+            margin-bottom: 4rem;
+            position: relative;
+            transition: all 0.5s ease;
+        }
+
+        .register-section:hover {
+            border-left-color: var(--phase-color);
+            padding-left: 2.5rem;
+        }
+
+        .register-label {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            color: var(--phase-color);
+            margin-bottom: 1rem;
+            display: inline-block;
+            border: 1px solid var(--phase-color);
+            padding: 2px 8px;
+        }
+
+        .concept-title {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            line-height: 1;
+        }
+
+        .concept-def {
+            font-size: 1rem;
+            color: var(--text-secondary);
+            max-width: 600px;
+            line-height: 1.6;
+        }
+
+        .next-phase-btn {
+            border: 1px solid var(--border);
+            padding: 2rem;
+            text-align: center;
+            transition: all 0.3s;
+            margin-top: 4rem;
+            display: block;
+        }
+
+        .next-phase-btn:hover {
+            border-color: white;
+            background: #111;
+        }
+
+    </style>
+</head>
+<body class="antialiased">
+
+    <!-- Canvas Background -->
+    <canvas id="protokin-field" class="fixed top-0 left-0 w-full h-full -z-10 opacity-20"></canvas>
+    <div class="noise"></div>
+    <div id="cursor" class="cursor-follower hidden md:block"></div>
+
+    <!-- Header -->
+    <header class="fixed top-0 w-full z-40 border-b border-neutral-800 bg-black/90 backdrop-blur-sm">
+        <div class="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
+            <div class="flex items-center gap-8">
+                <a href="index_en.html" class="flex items-center gap-4 group">
+                    <span class="text-xl md:text-2xl font-bold tracking-tighter group-hover:text-white transition-colors">PROTOKIN</span>
+                    <span class="hidden md:inline-block w-px h-6 bg-neutral-800"></span>
+                    <span class="mono text-[10px] md:text-xs text-neutral-500 uppercase tracking-widest">Sys. v2.1</span>
+                </a>
+                
+                <nav class="hidden md:flex gap-6 mono text-xs uppercase tracking-wider text-neutral-500">
+                    <a href="map.html" class="hover:text-white transition-colors">The Map</a>
+                    <a href="dojo.html" class="hover:text-white transition-colors">The Dojo</a>
+                    <a href="glossary.html" class="hover:text-white transition-colors">Glossary</a>
+                </nav>
+            </div>
+            <!-- Mobile Menu Icon (simulated) -->
+            <div class="md:hidden text-neutral-500 text-xs mono uppercase">
+                <a href="index_en.html">Menu</a>
+            </div>
+            <div class="hidden md:flex items-center gap-6">
+                <div class="flex flex-col items-end">
+                    <span class="mono text-[10px] text-neutral-500 uppercase">Phase I</span>
+                    <span class="mono text-xs text-blue-500">IGNITION</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="pt-32 pb-20 px-6 max-w-4xl mx-auto">
+        
+        <!-- INTRO PHASE -->
+        <div class="mb-24">
+            <span class="mono text-xs text-blue-500 mb-4 block">OPERATION 01</span>
+            <h1 class="text-5xl md:text-7xl mb-6 text-white">The Ignition</h1>
+            <p class="text-xl text-neutral-400 font-light border-l-2 border-blue-900 pl-6">
+                How to break the symmetry of a stalled system? The beginning is never a gentle will, but always a breaking-in.
+            </p>
+        </div>
+
+        <!-- REGISTER 1: PHYSICS -->
+        <div class="register-section">
+            <div class="register-label">01. Physics</div>
+            <h2 class="concept-title text-white">Metastability</h2>
+            <h3 class="text-lg text-blue-400 mb-4 italic font-serif">The Supercooled Water</h3>
+            <p class="concept-def">
+                Inertia is not emptiness; it is a saturation of potentials. Like supercooled water that remains liquid below 0°C, the system is in "suspended civil war". It holds too much energy to move. To trigger the phase change (ice), one must not add energy, but introduce an impurity (a shock, a grain of dust).
+            </p>
+            <div class="mt-4 mono text-xs text-neutral-600">Ref: Chapter 1 - Being as Overload</div>
+        </div>
+
+        <!-- REGISTER 2: LIVING -->
+        <div class="register-section">
+            <div class="register-label">02. Living</div>
+            <h2 class="concept-title text-white">Irritability</h2>
+            <h3 class="text-lg text-blue-400 mb-4 italic font-serif">The Membrane</h3>
+            <p class="concept-def">
+                Life begins with the ability to be disturbed. The membrane is not a wall, but a selective filter that reacts to the "Non-Self". Vitality is measured by the speed of the startle response. To be alive is to refuse indifference.
+            </p>
+            <div class="mt-4 mono text-xs text-neutral-600">Ref: Chapter 2 - The Porosity</div>
+        </div>
+
+        <!-- REGISTER 3: PSYCHE -->
+        <div class="register-section">
+            <div class="register-label">03. Psyche</div>
+            <h2 class="concept-title text-white">Curiosity</h2>
+            <h3 class="text-lg text-blue-400 mb-4 italic font-serif">The Grip</h3>
+            <p class="concept-def">
+                Attention slides on smooth surfaces. To think is to create friction. Curiosity is not a passive interest, but an active "Grip" (Tribology). It grabs the asperity, the error, the detail that does not fit. Without roughness, there is no traction for the mind.
+            </p>
+            <div class="mt-4 mono text-xs text-neutral-600">Ref: Chapter 3 - Mental Tribology</div>
+        </div>
+
+        <!-- REGISTER 4: TECHNIQUE -->
+        <div class="register-section">
+            <div class="register-label">04. Technique</div>
+            <h2 class="concept-title text-white">The Switch</h2>
+            <h3 class="text-lg text-blue-400 mb-4 italic font-serif">Amplification</h3>
+            <p class="concept-def">
+                The technical gesture is disproportionate. A few grams of pressure on a button release tons of kinetic energy. The "Switch" is the master operator of the Anthropocene: it transforms a micro-decision into a macro-effect.
+            </p>
+            <div class="mt-4 mono text-xs text-neutral-600">Ref: Chapter 4 - The Trigger</div>
+        </div>
+
+        <!-- REGISTER 5: POLITICS -->
+        <div class="register-section">
+            <div class="register-label">05. Politics</div>
+            <h2 class="concept-title text-white">The Scandal</h2>
+            <h3 class="text-lg text-blue-400 mb-4 italic font-serif">Criticality</h3>
+            <p class="concept-def">
+                In a society under tension (Self-Organized Criticality), the event is not caused by the size of the trigger, but by the slope of the pile. The "Scandal" is the grain of sand that triggers the avalanche. It reveals the invisible structure of the system.
+            </p>
+            <div class="mt-4 mono text-xs text-neutral-600">Ref: Chapter 5 - The Avalanche</div>
+        </div>
+
+        <!-- NEXT PHASE LINK -->
+        <a href="phase2.html" class="next-phase-btn group">
+            <span class="mono text-xs text-neutral-500 block mb-2">SEQUENCE COMPLETE</span>
+            <span class="text-2xl font-serif text-white group-hover:text-blue-500 transition-colors">Initiate Phase II: The Engine &rarr;</span>
+        </a>
+
+    </main>
+
+    <footer class="mt-24 border-t border-neutral-900 bg-black py-12">
+        <div class="max-w-7xl mx-auto px-6 text-center mono text-[10px] uppercase text-neutral-600">
+            <p class="mb-4">Phase I: Ignition</p>
+            <a href="index_en.html" class="hover:text-white transition-colors">Return to Seismograph</a>
+        </div>
+    </footer>
+
+    <script>
+        // --- 1. CURSOR MANAGEMENT ---
+        const cursor = document.getElementById('cursor');
+        
+        if (window.matchMedia("(min-width: 768px)").matches) {
+            document.addEventListener('mousemove', (e) => {
+                requestAnimationFrame(() => {
+                    cursor.style.transform = `translate(${e.clientX - 10}px, ${e.clientY - 10}px)`;
+                });
+            });
+            
+            // Hover effect for links & sections
+            const interactives = document.querySelectorAll('a, .register-section');
+            interactives.forEach(el => {
+                el.addEventListener('mouseenter', () => {
+                    cursor.style.borderColor = '#3b82f6'; // Phase Color
+                    cursor.style.transform += ' scale(1.5)';
+                });
+                el.addEventListener('mouseleave', () => {
+                    cursor.style.borderColor = '#e5e5e5';
+                    cursor.style.transform = cursor.style.transform.replace(' scale(1.5)', '');
+                });
+            });
+        }
+
+        // --- 2. PARTICLES (Blue tinted for Ignition) ---
+        const canvas = document.getElementById('protokin-field');
+        const ctx = canvas.getContext('2d');
+        let particles = [];
+        let width, height;
+
+        function resize() {
+            width = canvas.width = window.innerWidth;
+            height = canvas.height = window.innerHeight;
+        }
+        window.addEventListener('resize', resize);
+        resize();
+
+        class Particle {
+            constructor() {
+                this.x = Math.random() * width;
+                this.y = Math.random() * height;
+                this.vx = (Math.random() - 0.5) * 0.2; 
+                this.vy = (Math.random() - 0.5) * 0.2;
+                this.size = Math.random() * 1.5;
+                this.baseOpacity = Math.random() * 0.2;
+            }
+
+            update() {
+                this.x += this.vx;
+                this.y += this.vy;
+                if (this.x < 0) this.x = width;
+                if (this.x > width) this.x = 0;
+                if (this.y < 0) this.y = height;
+                if (this.y > height) this.y = 0;
+            }
+
+            draw() {
+                ctx.fillStyle = '#3b82f6'; // Blue tint
+                ctx.globalAlpha = this.baseOpacity;
+                ctx.beginPath();
+                ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+                ctx.fill();
+            }
+        }
+
+        const particleCount = window.innerWidth < 768 ? 20 : 60;
+        for (let i = 0; i < particleCount; i++) particles.push(new Particle());
+
+        function animate() {
+            ctx.clearRect(0, 0, width, height);
+            
+            if (width > 768) {
+                ctx.strokeStyle = 'rgba(59, 130, 246, 0.05)'; // Blue lines
+                ctx.lineWidth = 0.5;
+                
+                particles.forEach((p, index) => {
+                    p.update();
+                    p.draw();
+                    // Connect
+                    for (let j = index + 1; j < particles.length; j++) {
+                        const p2 = particles[j];
+                        const dx = p.x - p2.x;
+                        const dy = p.y - p2.y;
+                        if (Math.sqrt(dx*dx + dy*dy) < 80) {
+                            ctx.beginPath();
+                            ctx.moveTo(p.x, p.y);
+                            ctx.lineTo(p2.x, p2.y);
+                            ctx.stroke();
+                        }
+                    }
+                });
+            } else {
+                 particles.forEach(p => { p.update(); p.draw(); });
+            }
+            
+            requestAnimationFrame(animate);
+        }
+        animate();
+    </script>
+</body>
+</html>
