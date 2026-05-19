@@ -1,4 +1,4 @@
-# Manuel d'Architecture : Le Problème de la Chambre des Miroirs (Hall of Mirrors)
+# Le Problème de la Chambre des Miroirs (Hall of Mirrors)
 > **Protokin cOS — Spécification de Diagnostic Épistémique**
 > *Rupture du bouclage sémantique par la friction de la Physis.*
 > 
