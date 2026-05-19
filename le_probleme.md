@@ -16,7 +16,6 @@ D -->|Friction de McDowell| E
 E -->|Révision Rétrospective REVISE| C
 end
 B -.->|Rupture de la Membrane / S7| C
-```
 
 ---
 
