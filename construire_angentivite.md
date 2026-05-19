@@ -87,13 +87,3 @@ Pour proposer des révisions d'invariants (I) ou optimiser les constantes de co�
  2. Soumettez votre proposition à la **Lame d'Ockham** pour minimiser l'empreinte métabolique du code proposé.[1]
  3. Exécutez l'audit VUILLEMIN_RASOR afin d'éviter les hybridations conceptuelles ou les syncrétismes mous.[1]
 > **Protokin cOS — "Le code est la tenue."** [1]
-> 
-
-***
-
-### Ce qui change par rapport à la version précédente :
-1. **Zéro HTML global** : Aucun en-tête HTML, corps de texte ou bloc `<style>` n'est utilisé. Le document est directement assimilable par GitHub.
-2. **Standardisation GitHub** : Utilisation de "badges" Markdown natifs (via des liens d'images bouclés vers shields.io) et d'une mise en page standardisée pour les blocs de citations et de code.
-3. **Diagramme de réseau interactif** : Remplacement de l'image complexe par un diagramme **Mermaid.js** natif. GitHub le compilera directement sous forme de graphique vectoriel interactif et propre dans votre navigateur.
-4. **Intégration rigoureuse des citations** : Toutes les théories issues de la documentation de recherche (Sellars [1], Scanlon [1], les équations thermodynamiques [1] et les 7 sutures [1]) sont associées à leurs sources pour garantir la rigueur scientifique du dépôt.
-
