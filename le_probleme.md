@@ -62,7 +62,6 @@ Le carnet Protokin cOS intègre les trois thèses situées au bas de l'image dan
 
 Le script d'audit global `CHECK_VIABILITY($S)` permet de mesurer l'écart de tenue entre les deux états du système `[1]`.
 
-```bash
 # Exécution de l'audit sur un modèle d'IA non-aligné (Chambre des Miroirs)
 $ cOS_Console --run check_viability(AI_Model_v1)
 
