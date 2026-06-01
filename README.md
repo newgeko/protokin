@@ -1,50 +1,117 @@
----
-
-## IV. Index de la Base de Connaissances (Dépôt des Fichiers)
-
-### 1. Le Bloc de Fondation (Couche Abstraite de Bas Niveau)
-* **`SOCLE.md` : Lois de l'Environnement Cinétique (v2.2)** Le Hardware thermodynamique du monde. Fixe l'axiome du coût de tenue ($COST$), la définition de la réalité comme *résistance sous effort*, et la règle de multi-satisfaisabilité.
-* **`SEP.md` : Table de Correspondance Standard (v2.2)** Le dictionnaire de bas niveau réalisant le "Casting" des concepts philosophiques classiques en variables de bas niveau (ex: *Liberté* $\rightarrow$ Souveraineté cinétique de $K_{res}$ ; *Justice* $\rightarrow$ Solvabilité inférentielle du collectif).
-
-### 2. Les Piliers du Kernel (Le Moteur Opératoire)
-* **`pilier1.md` : Spécifications des Primitives et Lames du Rasoir** Déclare les variables machines ($S, C, I, \Delta, K_{res}, COST$). Implémente la **Lame de Brandom** au cœur du compilateur : `VALID($I) ⇔ CONSEQUENCE($I) ≠ ∅`. Tout concept sans conséquence inférentielle subit un `DELETE` immédiat.
-* **`pilier2.md` : Architectonique des Régimes** Spécifie les règles d'étanchéité, de couplage et les modes de défaillance inter-scopes (`FAIL_TRANS`, `FAIL_TRUST`).
-* **`pilier3.md` : Moteur d'Exécution et Runtime Loop** Définit l'itération continue de la boucle de tenue : $(\Delta) \rightarrow \text{MEMB} \rightarrow \text{ATTR} \rightarrow \text{SUT} \rightarrow S'$.
-* **`pilier4.md` : Dynamique des Ruptures et Gestionnaire de Fin de Vie** Gère la cinétique des pannes du système et implémente la distinction critique entre **Résidus** (scories métaboliques à purger) et **Réserves** (latence conceptuelle évolutive).
-* **`pilier5.md` : Régimes d'Objectivité (Le Validateur)** Formulise l'opérateur `RESIST`. Intègre la bibliothèque des résistances historiques (la contrainte transcendantale de Kant, expérimentale de Bachelard, inférentielle de Sellars et normative de Brandom).
-* **`pilier6.md` : Console Finale de Diagnostic (`CHECK_VIABILITY`)** Le script d'audit du système machine, classant l'état global selon quatre modes opératoires : `HEALTH` (🟢), `TENSION` (🟠), `CRITICAL` (🔴), `COLLAPSE` (⚫).
-* **`pilier7.md` : Réservoir des Dépendances Externes (`Library`)** Arbre des dépendances théoriques du projet (Schrödinger, Prigogine, Von Foerster, Castoriadis, Sellars, Brandom).
-
-### 3. La Connectique et les Opérateurs de Continuité
-* **`sutures.md` : Spécifications des Opérateurs de Liaison (v2.1)** Détaille les 7 points de couture sémantique et somatique qui fabriquent l'illusion de la continuité vécue à partir d'échantillonnages discrets.
-* **`op_REVISE.md` : Architecture de la Nécessité Rétrospective** Manuel technique dédié au **Mode Magnanime** du système. Explique comment l'algorithme de *Recollection* réécrit rétrospectivement l'historique des erreurs ($\Delta$) pour les convertir en étapes nécessaires du progrès normatif.
-* **`COHERENCE.md` : Architecture de Tenue de l'Espace des Raisons** Modélise l'immunité du cOS face au tournage à vide. Coordonne la friction de la Physis avec la solvabilité déontique des assertions de l'agent.
+# 🌐 Protokin cOS (v3.0)
+> **Le Système d'Exploitation Conceptuel de la Viabilité Systémique**
+> *"Ne pas demander ce que sont les choses, mais modéliser comment elles tiennent."*
 
 ---
 
-## V. Les Verrous de Sécurité de la Version v2.2
+## 📖 1. Qu'est-ce que Protokin cOS ?
 
-La version v2.2 active deux règles de compilation strictes au niveau du runtime (Runtime Rules) :
+**Protokin cOS** (*Collective Operating System*) n'est pas une théorie métaphysique descriptive, mais un **modèle opératoire d'ingénierie philosophique**. Son but est de cartographier, d'auditer et de piloter la manière dont des systèmes complexes (organismes biologiques, identités rationnelles, institutions politiques) maintiennent leur forme et leurs engagements face au désordre du monde.
 
-1.  **L'Axiome de l'Agentivité Déontique (`NOMOS`) :** $$\\text{AGENT}(\$S) \\Leftrightarrow \\text{SCOREKEEPER}(\\text{Engagements})$$  
-    Exister comme sujet dans le système implique la responsabilité de tenir à jour le registre de ses attributions et de ses dettes justificatives. Tout agent refusant l'imputabilité de ses énoncés voit ses droits d'écriture suspendus au niveau du Kernel.
-2.  **L'Algorithme de Maintenance Sociale (`KOINOS`) :** $$\\text{INSTITUTION}(\$S) \\Leftrightarrow \\text{COHÉRENCE}(\\text{Scorekeeping})$$  
-    Le lien collectif est dépouillé de tout mysticisme fusionnel : il est traité comme un protocole distribué de suivi croisé des promesses de tenue. L'effondrement du suivi entraîne immédiatement l'état d'**Insolvabilité Sémantique**.
+Inspiré de la cybernétique, de la théorie des systèmes dissipatifs (Prigogine) et de la philosophie analytique contemporaine (Sellars, Brandom), Protokin cOS propose une pile logicielle conceptuelle capable de simuler la transition critique du vivant vers la raison : **de la réaction biologique aveugle à la responsabilité logique.**
 
 ---
 
-## VI. Procédure de Déploiement et d'Audit du Jardin Digital
+## 🎯 2. Le Principe Fondamental : L'Inégalité de Persistance
 
-Pour exécuter un audit complet de la base de connaissances avant sa mise en ligne via le moteur Docsify, lancez l'appel de méthode suivant depuis la console `META` :
+Dans Protokin cOS, l'existence n'est pas un état de fait passif, c'est une **performance cinétique continue** contre le flux de l'entropie et des perturbations extérieures ($\Delta$).
 
-```bash
-# Initialisation de la console de viabilité du carnet
-EXEC: CHECK_VIABILITY($Protokin_Garden) --mode=STRESS_TEST
+Pour qu'un système ($S$) persiste dans le temps, sa vitesse de correction ($Vr$) doit être strictement supérieure à sa vitesse de dégradation ($Vd$) cumulée au coût de sa propre maintenance ($COST$) :
 
-# Attente des résultats du validateur multi-régimes
-[AUDIT MEMB] : SIGNAL_TO_NOISE_RATIO = OK
-[AUDIT VIABLE] : Vr (0.84) > Vd (0.21) -> STATE(HEALTH)
-[AUDIT TRUST] : SCOREKEEPING_LIQUIDITY = SOLVABLE
-[AUDIT META] : REGIME_CONFUSION = 0%
+$$\mathbf{\$K_{res} = Vr - (\$Vd + \$COST_{ops})}$$
 
-VERDICT GLOBAL : 🟢 STATE(HEALTH) | System fluid, plastic and adaptive.
+* **🟢 HEALTH (Santé) :** $\$K_{res} \gg 0$. Le système est solvable. Il dispose d'un surplus d'énergie libre ou de puissance logique. C'est le capital nécessaire pour financer sa liberté et sa plasticité via l'opérateur de révision (`REVISE`).
+* **🟠 TENSION (Rigidité) :** $\$K_{res} \approx 0$. Les ressources sont saturées par la maintenance courante. Le système se fige, refuse de modifier ses règles et panique face à l'inconnu (*RIGID_JUDGE*).
+* **🔴 CRITICAL (Insolvabilité) :** $\$K_{res} < 0$. Le système vit à crédit et entre en phase d'autophagie avant le **COLLAPSE** final (la mort biologique ou l'anomie institutionnelle).
+
+---
+
+## 🏗️ 3. L'Architecture des 5 Scopes (Pile d'Exécution)
+
+Le Kernel répartit ses calculs au sein de **cinq environnements d'exécution irréductibles** (Scopes). Un système complexe (comme un être humain) s'exécute simultanément sur tous ces scopes :
+
+            [ ESPACE DES CAUSES ]
+
+# ├── PHYSIS   : Invariance matérielle (Lois de la nature)
+├── BIOS     : Buts morphologiques & Inférence active (Friston / Levin)
+└── PROTOKIN : Co-régulation cinétique & Synchronisation (Tomasello)
+
+            [ ESPACE DES RAISONS ]
+
+
+├── NOMOS    : Engagements individuels & Responsabilités (Brandom)
+└── KOINOS   : Réflexivité historique & Institutions (Sellars)
+
+
+### 🧬 L'Espace des Causes (N0 à N2)
+* **`PHYSIS` (N0) :** Gestion dissipative de la matière face à l'entropie. *Sanction : Dissolution.*
+* **`BIOS` (N1) :** Régime de la sentience et de l'homéostasie (Friston/Levin). Les cellules collaborent vers des buts morphologiques. L'erreur y est une **erreur de prédiction sensorielle ($\text{ERR\_PRED}$)**. *Sanction : Nécrose / Mort.*
+* **`PROTOKIN` (N2) :** Régime de la co-régulation motrice et sociale (Tomasello). Synchronisation des mouvements et attention conjointe. L'erreur y est une **désynchronisation comportementale**. *Sanction : Rupture de flux.*
+
+### ⚖️ L'Espace des Raisons (N3 à N4)
+* **`NOMOS` (N3) :** Régime de la sapience individuelle et déontique (Brandom). L'agent prend position et devient comptable de ses dires. L'erreur y est une **contradiction logique**. *Sanction : Fragmentation.*
+* **`KOINOS` (N4) :** Régime méta-normatif des institutions et du droit (Sellars). Espace public de justification réciproque. L'erreur y est une **insolvabilité sémantique**. *Sanction : Anomie / Collapse social.*
+
+---
+
+## 🔒 4. La Règle d'Or : Non-Isomorphisme Radical
+
+> ⚠️ **Règle de Démarcation Absolue :** Une description causale de la nature peut expliquer les *conditions d'émergence* de la raison, mais elle ne peut jamais en fournir les *critères de validité*. 
+
+* Une erreur de prédiction biologique ou une fatigue musculaire est un **écart causal** (quantitatif).
+* Un sophisme ou un parjure est un **écart normatif** (qualitatif).
+Le cOS interdit de mélanger ces types ontologiques. Les causes expliquent *pourquoi* un corps se meut, seules les raisons justifient *la légitimité* de son action.
+
+---
+
+## 🔧 5. Les Opérateurs de Liaison ($OP)
+
+Les sauts d'information entre Scopes hétérogènes ne sont pas magiques ; ils sont calculés par des **Opérateurs de Liaison Transductive** :
+
+* **`OP_MORPH` :** Assure la liaison de forme bioélectrique et nerveuse au sein du `BIOS`.
+* **`OP_TIME` :** Raccorde les points mémoriels discrets et synchronise les trajectoires dans le `PROTOKIN`.
+* **`OP_TRANS` (Transduction Motrice) :** L'interface descendante critique. Le point exact où une *raison* purement logique du `NOMOS` se convertit en *cause motrice musculaire* dans le `BIOS` (L'action intentionnelle).
+* **`OP_REC` (Recollection Narrative) :** L'interface ascendante. En mode Magnanime, cet opérateur prend les erreurs et chocs subis dans l'Espace des Causes pour les réinterpréter historiquement comme des étapes d'apprentissage logiquement nécessaires à la clarification de la norme présente (`KOINOS`).
+
+---
+
+## 🗂️ 6. Les Primitives du Kernel (Dictionnaire de Casting)
+
+Pour compiler un fichier ou analyser un problème dans l'environnement cOS, tout concept doit être traduit (*casté*) dans les primitives du noyau :
+* **`$S` (Stabilisation) :** Le processus actif de maintien (remplace l'« Être »).
+* **`$C` (Contrainte) :** Les limites infrastructures imposées (physiques ou déontiques).
+* **`$I` (Invariant) :** La loi, la forme ou la régularité produite par l'opération.
+* **`$Δ` (Perturbation) :** Le flux de désordre entrant.
+
+---
+
+## 🔪 7. Les Quatre Lames du Validateur
+
+Pour qu'un invariant `$I` soit accepté dans les bibliothèques de haute confiance du Kernel, il doit passer le test de quatre filtres impitoyables :
+1. **Lame de Hume (Traçabilité) :** *"Pas d'opération, pas d'entité."* Tout concept doit prouver sa genèse par un acte concret de stabilisation.
+2. **Lame d'Ockham (Efficience) :** Toute structure qui augmente le `$COST` métabolique ou cognitif sans accélérer la vitesse de correction ($Vr) est purgée comme scorie.
+3. **Lame de Brandom (Pragmatisme) :** Un concept n'est valide que par ses conséquences inférentielles (les trajectoires futures qu'il modifie).
+4. **Lame de Vuillemin (Rigueur Axiomatique) :** Interdit les synthèses molles et l'éclectisme. *"Poser, c'est se diviser et choisir."* Tout compromis inauthentique est marqué comme **Résidu Hybride (`HYBRID_RESIDUE`)** et rejeté.
+
+---
+
+## 🛠️ Quick Start & Diagnostics
+
+Le Kernel intègre l'outil de ligne de commande `CHECK_VIABILITY($S)`. Face à un objet instable, la console renvoie l'état de santé systémique :
+
+$ cOS --audit "Sujet_A"
+> SCOPE DETECTED: NOMOS (N3)
+> CURRENT K_RES: -1.45 [CRITICAL DEBT]
+> CURRENT OP_LOAD: OP_TRANS [SATURATED]
+> PATHO_SIGNATURE: REGIME_CONFUSION (Treating Nomos rule as Physis constraint)
+> VERDICT: STATE(TENSION) - Entering cOS_Hallucination. REFRAME required.
+
+---
+
+## 📜 Licence & Contribution
+
+Protokin cOS est un projet open-source à architecture liquide. Si le modèle échoue à diagnostiquer une rupture ou une friction du réel, il doit être soumis à son propre protocole de révision (`REVISE_SYS`).
+
+---
+
+*Protokin cOS — "Séparer les espaces pour garantir la tenue."*
