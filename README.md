@@ -32,12 +32,11 @@ Le Kernel répartit ses calculs au sein de **cinq environnements d'exécution ir
 
             [ ESPACE DES CAUSES ]
 
-# ├── PHYSIS   : Invariance matérielle (Lois de la nature)
+├── PHYSIS   : Invariance matérielle (Lois de la nature)
 ├── BIOS     : Buts morphologiques & Inférence active (Friston / Levin)
 └── PROTOKIN : Co-régulation cinétique & Synchronisation (Tomasello)
 
             [ ESPACE DES RAISONS ]
-
 
 ├── NOMOS    : Engagements individuels & Responsabilités (Brandom)
 └── KOINOS   : Réflexivité historique & Institutions (Sellars)
