@@ -58,22 +58,42 @@
       },
 
       plugins: [
-  function (hook, vm) {
+  function (hook) {
 
     hook.afterEach(function (html) {
       return html + `
         <hr style="margin-top: 3rem; border: 0; border-top: 1px solid var(--border-color);"/>
-        <footer style="text-align:center; font-family:'Noto Sans', sans-serif; font-size:0.85em; padding:30px 0; color:#888; line-height: 1.6;">
-          <div>© 2026 <strong>PROTOKIN</strong> — Propulsé par <a href="https://newgekko.com" target="_blank" style="color:var(--theme-color); text-decoration:none; border-bottom:1px dashed var(--theme-color);">Newgekko</a></div>
-          <div style="font-size:0.9em; letter-spacing:1px; text-transform:uppercase; margin-top:5px; color:#bbb;">Ontologie Formelle & Matrice Isomorphique</div>
+        <footer style="text-align:center; font-family:'Noto Sans', sans-serif; font-size:0.85em; padding:30px 0; color:#888;">
+          © 2026 PROTOKIN
         </footer>
       `;
     });
 
     hook.doneEach(function () {
-      if (window.mermaid) {
+
+      // IMPORTANT : Docsify injecte du HTML après render
+      setTimeout(() => {
+
+        if (!window.mermaid) return;
+
+        const blocks = document.querySelectorAll('code.language-mermaid');
+
+        blocks.forEach(block => {
+          const parent = block.parentElement;
+
+          if (!parent.classList.contains('mermaid')) {
+            const div = document.createElement('div');
+            div.className = 'mermaid';
+            div.innerHTML = block.textContent;
+
+            parent.parentElement.replaceChild(div, parent);
+          }
+        });
+
         mermaid.init(undefined, document.querySelectorAll('.mermaid'));
-      }
+
+      }, 0);
+
     });
 
   }
