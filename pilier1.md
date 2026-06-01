@@ -80,11 +80,15 @@ graph LR
     subgraph BIOS [BIOS - Réduction Entropique]
     H_down[Entropie H ↓]
     end
+
     subgraph PROTOKIN [PROTOKIN - Expansion du Champ]
     Hm_up[Entropie Maximale Hm ↑]
     end
+
+    Note_PK[Auto-organisation par importation de contraintes sociales]
+
     BIOS -->|OP_DOUBLE_ERR / Bruit Transduit| PROTOKIN
-    Note over PROTOKIN: Auto-organisation par importation de contraintes sociales
+    PROTOKIN --> Note_PK
 
 ```
 ### 4.3 La Mémoire comme Capacité Générative vs Stockage Mort
