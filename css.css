@@ -1,72 +1,178 @@
 /* ==========================================================================
-   PROTOKIN — Matrice Graphique (Configuration CSS)
+   PROTOKIN — Matrice Graphique (Système de Design)
    ========================================================================== */
 
 :root {
-  /* Couleurs principales */
-  --theme-color: #2c3e50;
-  --text-color-main: #2c3e50;
-  --text-color-muted: #7f8c8d;
-  --border-color: #eaedf1;
+  /* Palette de Couleurs (Néo-Académique) */
+  --theme-color: #1a2a3a;          /* Bleu-noir profond pour l'autorité conceptuelle */
+  --text-color-main: #2c3e50;      /* Gris foncé doux pour éviter la fatigue visuelle */
+  --text-color-muted: #7f8c8d;     /* Pour les éléments secondaires */
+  --bg-sidebar: #f8f9fa;           /* Fond de sidebar légèrement grisé, très propre */
+  --border-color: #eef2f5;         /* Lignes de séparation subtiles */
+  --accent-color: #3498db;         /* Couleur d'accentuation discrète (liens) */
   
   /* Typographie */
   --font-global: 'Noto Serif', Georgia, serif;
-  --font-interface: 'Noto Sans', sans-serif;
+  --font-interface: 'Noto Sans', -apple-system, BlinkMacSystemFont, sans-serif;
   
+  /* Structure */
   --base-font-size: 16px;
+  --content-max-width: 800px;      /* Largeur idéale pour le confort de lecture (CPL) */
 }
 
-/* --- Style Global & Textes (Philosophique / Académique) --- */
+/* --- Fondations & Lisibilité --- */
 body {
   font-family: var(--font-global);
   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   color: var(--text-color-main);
   font-size: var(--base-font-size);
+  line-height: 1.75;               /* Respiration du texte philosophique */
 }
 
-/* --- Interface Docsify (Sans-Serif pour le confort de lecture) --- */
+/* --- Interface Docsify & Navigation --- */
 .sidebar, 
 .search, 
 .sidebar-nav b, 
 .anchor span,
-.search input {
+.search input,
+.pagination-item {
   font-family: var(--font-interface) !important;
 }
 
-.sidebar-nav li a {
-  font-size: 14px;
+/* Sidebar (Barre latérale) */
+.sidebar {
+  background-color: var(--bg-sidebar);
+  border-right: 1px solid var(--border-color);
 }
 
-/* --- Éléments Spécifiques --- */
+.sidebar-nav li a {
+  font-size: 14.5px;
+  color: #555;
+  transition: color 0.2s ease;
+}
+
+.sidebar-nav li a:hover {
+  color: var(--theme-color);
+  text-decoration: none;
+}
+
+/* Indication de la page active dans la sidebar */
+.sidebar-nav li.active > a {
+  color: var(--theme-color) !important;
+  font-weight: 600;
+  border-right: 2px solid var(--theme-color);
+}
+
+/* Barre de recherche */
+.search input {
+  background: #fff !important;
+  border: 1px solid #e0e6ed !important;
+  border-radius: 6px;
+  padding: 8px 12px !important;
+  transition: all 0.2s ease;
+}
+
+.search input:focus {
+  box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.15) !important;
+  border-color: var(--accent-color) !important;
+}
+
+/* --- Zone de Contenu (Main) --- */
+.content {
+  max-width: var(--content-max-width) !important;
+  padding-top: 40px !important;
+}
+
+/* Titres */
+h1, h2, h3, h4 {
+  font-family: var(--font-interface);
+  color: var(--theme-color);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+h1 { font-size: 2.2em; margin-bottom: 1.5rem; }
+h2 { font-size: 1.65em; margin-top: 2.5rem; border-bottom: none !important; }
+h3 { font-size: 1.3em; margin-top: 2rem; }
+
+/* Liens hypertextes dans le texte */
+article a:not(.anchor) {
+  color: var(--accent-color);
+  text-decoration: none;
+  border-bottom: 1px dashed rgba(52, 152, 219, 0.4);
+  transition: all 0.2s ease;
+}
+
+article a:not(.anchor):hover {
+  color: var(--theme-color);
+  border-bottom-color: var(--theme-color);
+}
+
+/* --- Blocs de Citations / Définitions (Idéal pour l'Ontologie) --- */
+article blockquote {
+  border-left: 4px solid var(--theme-color);
+  background-color: #fcfdfe;
+  color: #4a5a6a;
+  font-style: italic;
+  padding: 15px 20px;
+  margin: 2em 0;
+  border-radius: 0 6px 6px 0;
+}
+
+/* --- Mathématiques (KaTeX) --- */
+.katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 15px 0;
+  margin: 1.5em 0;
+  background: #fafbfc;
+  border-radius: 6px;
+  border: 1px solid var(--border-color);
+}
+
+/* --- Loader Écran d'accueil --- */
 #app {
   font-family: var(--font-interface);
   text-align: center;
   margin-top: 20%;
   font-weight: 300;
-  letter-spacing: 1px;
-  color: #666;
+  letter-spacing: 2px;
+  color: var(--text-color-muted);
+  animation: pulse 2s infinite ease-in-out;
 }
 
-/* Ajustement des équations LaTeX pour éviter le débordement sur mobile */
-.katex-display {
-  overflow-x: auto;
-  overflow-y: hidden;
+@keyframes pulse {
+  0% { opacity: 0.5; }
+  50% { opacity: 1; }
+  100% { opacity: 0.5; }
 }
 
-/* Style du titre PROTOKIN dans la sidebar */
+/* --- Composants Spécifiques PROTOKIN (Sidebar Header) --- */
 .protokin-logo-title {
   font-family: var(--font-interface);
   font-weight: 700;
-  letter-spacing: 3px;
-  font-size: 1.2em;
+  letter-spacing: 4px;
+  font-size: 1.3em;
   color: var(--theme-color);
+  padding-top: 10px;
 }
 
 .protokin-logo-subtitle {
   font-family: var(--font-interface);
-  font-size: 0.65em;
-  font-weight: 300;
-  letter-spacing: 1px;
-  margin-top: 4px;
+  font-size: 0.6em;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  margin-top: 6px;
   color: var(--text-color-muted);
+}
+
+/* --- Responsive (Mobile) --- */
+@media screen and (max-width: 768px) {
+  :root {
+    --base-font-size: 15px;
+  }
+  .content {
+    padding: 20px 15px !important;
+  }
 }
