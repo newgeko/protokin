@@ -169,6 +169,8 @@ VIII. CARTOGRAPHIES
 - "Glossaire" (glossaire.md)
 - "Bibliographie" (biblio.md)
 
+- [Kernel](pilier1.md)
+
 ---
 
 ANNEXES
