@@ -11,7 +11,7 @@ I. AXIOMATIQUE
 Définitions fondamentales
 
 - "Flux" (axiomatique/flux.md)
-- "Contrainte" (axiomatique/contrainte.md)
+- [Contrainte](contrainte.md)
 - "Différence" (axiomatique/difference.md)
 - "Relation" (axiomatique/relation.md)
 - "Processus" (axiomatique/processus.md)
