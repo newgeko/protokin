@@ -170,6 +170,7 @@ VIII. CARTOGRAPHIES
 - "Bibliographie" (biblio.md)
 
 - [Kernel](pilier1.md)
+- [Scopes](pilier2.md)
 
 ---
 
