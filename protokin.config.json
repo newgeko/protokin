@@ -1,0 +1,39 @@
+{
+  "nodes": {
+    "Flux": {
+      "file": "axiomatique/flux.md",
+      "tags": ["physique", "causalite"],
+      "links": ["Contrainte"]
+    },
+    "Contrainte": {
+      "file": "axiomatique/contrainte.md",
+      "tags": ["physique"],
+      "links": ["Métastabilité"]
+    },
+    "Métastabilité": {
+      "file": "physique/metastabilite.md",
+      "tags": ["dynamique"],
+      "links": ["Individuation"]
+    },
+    "Individuation": {
+      "file": "physique/individuation_physique.md",
+      "tags": ["ontologie"],
+      "links": ["Agentivité"]
+    },
+    "Agentivité": {
+      "file": "biologie/agentivite.md",
+      "tags": ["biologie"],
+      "links": ["Normativité"]
+    },
+    "Normativité": {
+      "file": "normativite/normes.md",
+      "tags": ["philosophie"],
+      "links": ["Institutions"]
+    },
+    "Institutions": {
+      "file": "collectif/institutionnalisation.md",
+      "tags": ["social"],
+      "links": []
+    }
+  }
+}
