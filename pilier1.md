@@ -13,6 +13,7 @@ Aucun fait biophysique brut ou entrée sensorielle (BIOS) ne peut, par sa simple
 Le Kernel s'interdit d'utiliser des raccourcis conceptuels ou des extrapolations sauvages pour lier le biologique au social. L'utilisation de concepts formels issus de la logique mathématique (comme l'incomplétude de Gödel) ou de la physique (comme l'entropie) ne doit jamais servir à mystifier les dynamiques politiques ou institutionnelles du KOINOS. Chaque transition doit être formellement médiatisée par des équations cybernétiques et des pratiques d'interaction concrètes, évitant ainsi les "vertiges de l'analogie".
 ## 2. Géométrie des Transitions : La Matrice des Attracteurs
 Protokin cOS récuse le concept d'une ontologie stratifiée en couches fixes du réel. Le Kernel modélise la rationalité comme un espace dynamique d'attracteurs de résistance, calibré sur la profondeur et la nature des erreurs qu'un système est capable de détecter et d'intégrer.
+
 ```mermaid
 graph TD
     classDef cause fill:#f9f,stroke:#333,stroke-width:2px;
@@ -29,8 +30,8 @@ graph TD
 
     class N1,N2 cause;
     class N3,N4 reason;
-
 ```
+
 ## 3. Spécification Technique des Régimes de Résistance
 Le système s'ajuste dynamiquement en fonction du type de résistance rencontré :
 ### 3.1 Attracteur I — La Résistance du Monde (PHYSIS / BIOS)
@@ -40,6 +41,7 @@ Le système s'ajuste dynamiquement en fonction du type de résistance rencontré
 Le passage au seuil proto-normatif s'effectue par **l'externalisation primitive du contrôle exécutif**, où la fonction d'inhibition comportementale quitte temporairement le corps individuel pour être distribuée dans un couplage dyadique.
  * **L'Opérateur de Double-Erreur (OP_DOUBLE_ERR) :** Déclenché lorsqu'une action X subit l'Inhibition Attentionnelle Sociale du tuteur, provoquant l'effondrement simultané du modèle prédictif du monde et du modèle d'attente du partenaire.
  * **Règle de Ré-indexation :** Pour maintenir le couplage cinétique et affectif vital, le système est contraint d'appliquer l'inhibition à son propre élan. L'échec se requalifie en **erreur pratique**. L'incorrect n'est plus ce qui échoue contre la matière, mais *ce qui rompt le couplage ou fait l'objet d'une correction de la deuxième personne*.
+
 ```mermaid
 sequenceDiagram
     autonumber
@@ -71,6 +73,7 @@ Où H est l'entropie courante (l'incertitude du système) et H_m l'entropie maxi
 Le Kernel exploite deux régimes mathématiques distincts pour satisfaire cette condition d'auto-organisation :
  1. **Régime de Réduction Entropique Interne (\frac{\delta H_m}{\delta t} = 0 \implies \frac{\delta H}{\delta t} < 0) :** Géré au niveau du PROTO-SOI (BIOS), un démon computationnel interne modifie les probabilités conditionnelles et les liaisons entre les éléments pour faire chuter l'incertitude systémique (H) face aux chocs du monde physique.
  2. **Régime d'Expansion du Champ des Possibles (\frac{\delta H}{\delta t} = 0 \implies \frac{\delta H_m}{\delta t} > 0) :** Déclenché lors du passage au PROTOKIN. L'insertion de l'organisme dans la dyade intersubjective n'est pas une simple contrainte limitative ; elle augmente la dimensionnalité du système et sa tolérance à l'indétermination en intégrant les attentes de l'autre, augmentant l'entropie maximale admissible (H_m) sans effondrer la structure métabolique.
+
 ```mermaid
 graph LR
     subgraph BIOS [BIOS - Réduction Entropique]
