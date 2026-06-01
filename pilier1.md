@@ -15,18 +15,19 @@ Le Kernel s'interdit d'utiliser des raccourcis conceptuels ou des extrapolations
 Protokin cOS récuse le concept d'une ontologie stratifiée en couches fixes du réel. Le Kernel modélise la rationalité comme un espace dynamique d'attracteurs de résistance, calibré sur la profondeur et la nature des erreurs qu'un système est capable de détecter et d'intégrer.
 
 ```mermaid
+
 graph TD
-    classDef cause fill:#f9f,stroke:#333,stroke-width:2px;
-    classDef reason fill:#bbf,stroke:#333,stroke-width:2px;
+    classDef cause fill:#f9f,stroke:#333,stroke-width:1px;
+    classDef reason fill:#bbf,stroke:#333,stroke-width:1px;
 
-    N4[ATTRACTEUR IV : MÉTA-KOINOS<br>N4: KOINOS - OP_REC / REVISE<br>Révisabilité des critères de résistance]
-    N3[ATTRACTEUR III : KOINOS<br>N3: NOMOS<br>Résistance des raisons et concepts]
-    N2[ATTRACTEUR II : PROTOKIN<br>N2: PROTOKIN<br>Résistance de l'Autre / Corrigibilité]
-    N1[ATTRACTEUR I : BIOS / PHYSIS<br>N0-N1: PHYSIS-BIOS<br>Résistance du monde et homéostasie]
+    N1["ATTRACTEUR I\nPHYSIS / BIOS\nRésistance du monde"]
+    N2["ATTRACTEUR II\nPROTOKIN\nRésistance de l'Autre"]
+    N3["ATTRACTEUR III\nKOINOS\nRésistance des raisons"]
+    N4["ATTRACTEUR IV\nMETA-KOINOS\nRésistance des critères"]
 
-    N1 -->|Opérateur de Double-Erreur / OP_DOUBLE_ERR| N2
-    N2 -->|Triangulation et Dépersonnalisation| N3
-    N3 -->|Bifurcation Procédurale / OP_REC| N4
+    N1 -->|"OP_DOUBLE_ERR"| N2
+    N2 -->|"Triangulation"| N3
+    N3 -->|"OP_REC"| N4
 
     class N1,N2 cause;
     class N3,N4 reason;
