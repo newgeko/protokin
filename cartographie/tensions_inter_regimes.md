@@ -186,6 +186,49 @@ Circularité non auditée.
 
 ---
 
+## T9 — Tension de saturation descriptive
+
+Un régime devient trop complexe pour ses propres critères de stabilisation.
+
+### Exemple
+
+modèle prédictif (P5) sur-paramétré perdant sa capacité de généralisation
+
+### Risque
+
+Perte de compressibilité et d’opérationalité descriptive.
+
+---
+
+## T10 — Tension de dérive inter-temporelle
+
+Deux régimes restent compatibles structurellement mais divergent dans le temps.
+
+### Exemple
+
+transformation progressive de P8 vers P9 sans rupture explicite
+
+### Risque
+
+Glissement silencieux des invariants.
+
+---
+
+## T11 — Tension de compression multi-régime
+
+
+Plusieurs régimes sont mobilisés simultanément pour un même phénomène sans hiérarchie descriptive.
+
+### Exemple
+
+usage conjoint de P2 + P5 + P8 pour un même phénomène sans règle d’articulation
+
+### Risque
+
+Indécidabilité interprétative et surcharge multi-cadre.
+
+---
+
 # Cartographie des tensions majeures
 
 ## P1 ↔ P2
