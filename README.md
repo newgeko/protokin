@@ -5,7 +5,7 @@
 
 1. Statut du système
 
-Protokin cOS ne constitue ni une ontologie, ni une théorie explicative unifiée, ni une simulation du réel.
+Protokin ne constitue ni une ontologie, ni une théorie explicative unifiée, ni une simulation du réel.
 
 Il s’agit d’une architecture d’audit des conditions de stabilité des descriptions, c’est-à-dire un dispositif permettant d’examiner sous quelles contraintes un ensemble d’observations devient :
 
