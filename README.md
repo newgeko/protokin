@@ -80,7 +80,7 @@ Un invariant :
 
 Les tensions ne sont ni des contradictions ni des erreurs.
 
-Elles constituent une cartographie des zones de friction entre régimes.
+Les tensions ne sont pas des entités ontologiques, mais des opérateurs descriptifs d’audit relationnel entre régimes.
 
 Une tension apparaît lorsque :
 
