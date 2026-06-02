@@ -1,116 +1,151 @@
-# 🌐 Protokin cOS (v3.0)
-> **Le Système d'Exploitation Conceptuel de la Viabilité Systémique**
-> *"Ne pas demander ce que sont les choses, mais modéliser comment elles tiennent."*
+Voici une proposition de nouveau README structurant pour Protokin cOS v2, aligné avec ta notion de régimes de couplage, invariants opératoires et transitions.
+
+Protokin cOS — Architecture and Auditing of Systemic Viability
+
+1. Présentation générale
+
+Protokin cOS est une architecture conceptuelle dédiée à l’analyse de la viabilité des systèmes à travers des régimes de description hétérogènes.
+
+Il ne s’agit ni d’un modèle unifié du réel, ni d’une théorie réductionniste, mais d’une constellation de régimes d’intelligibilité irréductibles, permettant d’auditer comment un système persiste, se transforme et se stabilise à travers différents niveaux d’organisation.
+
+Chaque régime capture des invariants opératoires spécifiques sous des contraintes de couplage observateur–système.
 
 ---
 
-## 📖 1. Qu'est-ce que Protokin cOS ?
+2. Structure générale
 
-**Protokin cOS** (*Collective Operating System*) n'est pas une théorie métaphysique descriptive, mais un **modèle opératoire d'ingénierie philosophique**. Son but est de cartographier, d'auditer et de piloter la manière dont des systèmes complexes (organismes biologiques, identités rationnelles, institutions politiques) maintiennent leur forme et leurs engagements face au désordre du monde.
+Le système est composé de trois couches complémentaires :
 
-Inspiré de la cybernétique, de la théorie des systèmes dissipatifs (Prigogine) et de la philosophie analytique contemporaine (Sellars, Brandom), Protokin cOS propose une pile logicielle conceptuelle capable de simuler la transition critique du vivant vers la raison : **de la réaction biologique aveugle à la responsabilité logique.**
+2.1 Régimes (Piliers)
 
----
+Les régimes sont des cadres théoriques autonomes décrivant des invariants spécifiques.
 
-## 🎯 2. Le Principe Fondamental : L'Inégalité de Persistance
+Chaque pilier :
 
-Dans Protokin cOS, l'existence n'est pas un état de fait passif, c'est une **performance cinétique continue** contre le flux de l'entropie et des perturbations extérieures ($\Delta$).
+- définit un type de couplage observateur–système
+- sélectionne des invariants propres
+- est irréductible aux autres régimes
+- ne peut pas être déduit d’un autre pilier
 
-Pour qu'un système ($S$) persiste dans le temps, sa vitesse de correction ($Vr$) doit être strictement supérieure à sa vitesse de dégradation ($Vd$) cumulée au coût de sa propre maintenance ($COST$) :
-
-$$\mathbf{\$K_{res} = Vr - (\$Vd + \$COST_{ops})}$$
-
-* **🟢 HEALTH (Santé) :** $\$K_{res} \gg 0$. Le système est solvable. Il dispose d'un surplus d'énergie libre ou de puissance logique. C'est le capital nécessaire pour financer sa liberté et sa plasticité via l'opérateur de révision (`REVISE`).
-* **🟠 TENSION (Rigidité) :** $\$K_{res} \approx 0$. Les ressources sont saturées par la maintenance courante. Le système se fige, refuse de modifier ses règles et panique face à l'inconnu (*RIGID_JUDGE*).
-* **🔴 CRITICAL (Insolvabilité) :** $\$K_{res} < 0$. Le système vit à crédit et entre en phase d'autophagie avant le **COLLAPSE** final (la mort biologique ou l'anomie institutionnelle).
+Ils ne forment pas une hiérarchie, mais une constellation hétérogène de descriptions valides.
 
 ---
 
-## 🏗️ 3. L'Architecture des 5 Scopes (Pile d'Exécution)
+2.2 Transitions
 
-Le Kernel répartit ses calculs au sein de **cinq environnements d'exécution irréductibles** (Scopes). Un système complexe (comme un être humain) s'exécute simultanément sur tous ces scopes :
+Les transitions décrivent les passages entre régimes.
 
-            [ ESPACE DES CAUSES ]
+Elles ne sont pas déductives, mais prennent trois formes :
 
-├── PHYSIS   : Invariance matérielle (Lois de la nature)
-├── BIOS     : Buts morphologiques & Inférence active (Friston / Levin)
-└── PROTOKIN : Co-régulation cinétique & Synchronisation (Tomasello)
+- Réinterprétation d’invariant : un même phénomène devient lisible sous plusieurs régimes
+- Émergence d’un nouvel invariant : apparition d’un régime descriptif nécessaire
+- Rupture normative : changement de type de validité (non-réductible)
 
-            [ ESPACE DES RAISONS ]
-
-├── NOMOS    : Engagements individuels & Responsabilités (Brandom)
-└── KOINOS   : Réflexivité historique & Institutions (Sellars)
-
-
-### 🧬 L'Espace des Causes (N0 à N2)
-* **`PHYSIS` (N0) :** Gestion dissipative de la matière face à l'entropie. *Sanction : Dissolution.*
-* **`BIOS` (N1) :** Régime de la sentience et de l'homéostasie (Friston/Levin). Les cellules collaborent vers des buts morphologiques. L'erreur y est une **erreur de prédiction sensorielle ($\text{ERR\_PRED}$)**. *Sanction : Nécrose / Mort.*
-* **`PROTOKIN` (N2) :** Régime de la co-régulation motrice et sociale (Tomasello). Synchronisation des mouvements et attention conjointe. L'erreur y est une **désynchronisation comportementale**. *Sanction : Rupture de flux.*
-
-### ⚖️ L'Espace des Raisons (N3 à N4)
-* **`NOMOS` (N3) :** Régime de la sapience individuelle et déontique (Brandom). L'agent prend position et devient comptable de ses dires. L'erreur y est une **contradiction logique**. *Sanction : Fragmentation.*
-* **`KOINOS` (N4) :** Régime méta-normatif des institutions et du droit (Sellars). Espace public de justification réciproque. L'erreur y est une **insolvabilité sémantique**. *Sanction : Anomie / Collapse social.*
+Les transitions constituent la dynamique du système.
 
 ---
 
-## 🔒 4. La Règle d'Or : Non-Isomorphisme Radical
+2.3 Topologie des régimes
 
-> ⚠️ **Règle de Démarcation Absolue :** Une description causale de la nature peut expliquer les *conditions d'émergence* de la raison, mais elle ne peut jamais en fournir les *critères de validité*. 
+Protokin ne décrit pas une hiérarchie, mais un espace structuré :
 
-* Une erreur de prédiction biologique ou une fatigue musculaire est un **écart causal** (quantitatif).
-* Un sophisme ou un parjure est un **écart normatif** (qualitatif).
-Le cOS interdit de mélanger ces types ontologiques. Les causes expliquent *pourquoi* un corps se meut, seules les raisons justifient *la légitimité* de son action.
+- zones de recouvrement partiel entre régimes
+- incompatibilités locales
+- chemins de transition possibles ou impossibles
 
----
-
-## 🔧 5. Les Opérateurs de Liaison ($OP)
-
-Les sauts d'information entre Scopes hétérogènes ne sont pas magiques ; ils sont calculés par des **Opérateurs de Liaison Transductive** :
-
-* **`OP_MORPH` :** Assure la liaison de forme bioélectrique et nerveuse au sein du `BIOS`.
-* **`OP_TIME` :** Raccorde les points mémoriels discrets et synchronise les trajectoires dans le `PROTOKIN`.
-* **`OP_TRANS` (Transduction Motrice) :** L'interface descendante critique. Le point exact où une *raison* purement logique du `NOMOS` se convertit en *cause motrice musculaire* dans le `BIOS` (L'action intentionnelle).
-* **`OP_REC` (Recollection Narrative) :** L'interface ascendante. En mode Magnanime, cet opérateur prend les erreurs et chocs subis dans l'Espace des Causes pour les réinterpréter historiquement comme des étapes d'apprentissage logiquement nécessaires à la clarification de la norme présente (`KOINOS`).
+Le système est donc une géométrie relationnelle des formes de description.
 
 ---
 
-## 🗂️ 6. Les Primitives du Kernel (Dictionnaire de Casting)
+3. Définition d’un régime
 
-Pour compiler un fichier ou analyser un problème dans l'environnement cOS, tout concept doit être traduit (*casté*) dans les primitives du noyau :
-* **`$S` (Stabilisation) :** Le processus actif de maintien (remplace l'« Être »).
-* **`$C` (Contrainte) :** Les limites infrastructures imposées (physiques ou déontiques).
-* **`$I` (Invariant) :** La loi, la forme ou la régularité produite par l'opération.
-* **`$Δ` (Perturbation) :** Le flux de désordre entrant.
+Un régime de couplage est défini comme :
 
----
+«une réduction opératoire légitime capturant des invariants stables sous un mode spécifique d’interaction observateur–système.»
 
-## 🔪 7. Les Quatre Lames du Validateur
+Chaque régime est autonome et possède :
 
-Pour qu'un invariant `$I` soit accepté dans les bibliothèques de haute confiance du Kernel, il doit passer le test de quatre filtres impitoyables :
-1. **Lame de Hume (Traçabilité) :** *"Pas d'opération, pas d'entité."* Tout concept doit prouver sa genèse par un acte concret de stabilisation.
-2. **Lame d'Ockham (Efficience) :** Toute structure qui augmente le `$COST` métabolique ou cognitif sans accélérer la vitesse de correction ($Vr) est purgée comme scorie.
-3. **Lame de Brandom (Pragmatisme) :** Un concept n'est valide que par ses conséquences inférentielles (les trajectoires futures qu'il modifie).
-4. **Lame de Vuillemin (Rigueur Axiomatique) :** Interdit les synthèses molles et l'éclectisme. *"Poser, c'est se diviser et choisir."* Tout compromis inauthentique est marqué comme **Résidu Hybride (`HYBRID_RESIDUE`)** et rejeté.
+- un domaine de validité propre
+- un type d’invariant sélectionné
+- une dynamique interne cohérente
+- des limites explicites de description
 
 ---
 
-## 🛠️ Quick Start & Diagnostics
+4. Invariance et connaissance
 
-Le Kernel intègre l'outil de ligne de commande `CHECK_VIABILITY($S)`. Face à un objet instable, la console renvoie l'état de santé systémique :
+Protokin rejette deux positions extrêmes :
 
-$ cOS --audit "Sujet_A"
-> SCOPE DETECTED: NOMOS (N3)
-> CURRENT K_RES: -1.45 [CRITICAL DEBT]
-> CURRENT OP_LOAD: OP_TRANS [SATURATED]
-> PATHO_SIGNATURE: REGIME_CONFUSION (Treating Nomos rule as Physis constraint)
-> VERDICT: STATE(TENSION) - Entering cOS_Hallucination. REFRAME required.
+- le réductionnisme (un régime explique tous les autres)
+- le relativisme (tous les régimes sont incommensurables)
 
----
+Chaque régime est :
 
-## 📜 Licence & Contribution
+- réellement contraint par son domaine
+- épistémiquement médié par un cadre d’observation
+- partiellement compatible avec d’autres régimes
 
-Protokin cOS est un projet open-source à architecture liquide. Si le modèle échoue à diagnostiquer une rupture ou une friction du réel, il doit être soumis à son propre protocole de révision (`REVISE_SYS`).
+La connaissance est donc comprise comme une stabilisation locale d’invariants sous contrainte de couplage.
 
 ---
 
-*Protokin cOS — "Séparer les espaces pour garantir la tenue."*
+5. Usage du système
+
+Protokin peut être utilisé pour :
+
+- analyser la viabilité d’un système multi-niveau
+- identifier les ruptures entre régimes de description
+- cartographier les transitions possibles entre formes de stabilité
+- auditer la cohérence inter-niveaux d’un modèle complexe
+
+---
+
+6. Principe méthodologique
+
+Aucun régime n’est fondamental.
+
+Chaque régime est :
+
+- nécessaire localement
+- insuffisant globalement
+- irréductible structurellement
+
+L’objectif n’est pas de fusionner les régimes, mais de rendre explicite leur coexistence structurée et leurs points de passage.
+
+---
+
+7. Architecture du dépôt
+
+Le dépôt est organisé comme suit :
+
+- "/pillars/" : régimes de couplage (14 unités)
+- "/transitions/" : dynamiques de passage entre régimes
+- "/topology/" : structure relationnelle des régimes
+- "/audit/" : protocoles de vérification de viabilité
+- "/meta/" : cadre théorique et règles d’interprétation
+
+---
+
+8. Statut du système
+
+Protokin cOS n’est pas :
+
+- une théorie unifiée du réel
+- une ontologie unique
+- une simulation fermée
+
+C’est :
+
+- un outil d’audit des régimes de description
+- une cartographie des formes de stabilité
+- une grammaire des transitions entre niveaux d’intelligibilité
+
+---
+
+9. Lecture recommandée
+
+Le système doit être lu comme une cartographie dynamique des conditions de viabilité des systèmes complexes, et non comme une hiérarchie explicative.
+
+Chaque pilier doit être compris dans sa pleine autonomie descriptive.
+
+---
