@@ -143,6 +143,49 @@ Saut conceptuel non justifié.
 
 ---
 
+## T6 — Tension de rétroprojection
+
+Un régime interprète un autre régime à partir de ses propres invariants comme s’ils étaient universels.
+
+### Exemple
+
+lecture d’un régime normatif à travers un régime physico-causal
+
+
+### Risque
+
+Anachronisme ou projection de catégories inadaptées.
+
+---
+
+## T7 — Tension de collapsus méta-langagier
+
+Deux régimes sont artificiellement ramenés à un langage commun supposé.
+
+### Exemple
+
+réduction simultanée de P5 et P11 à une logique unique d’optimisation
+
+### Risque
+
+Création d’un pseudo-régime unificateur.
+
+---
+
+## T8 — Tension d’auto-inclusion
+
+Un régime est appliqué à lui-même sans changement de niveau d’observation.
+
+### Exemple
+
+tentative de justifier P11 (espace des raisons) uniquement par P11 lui-même
+
+### Risque
+
+Circularité non auditée.
+
+---
+
 # Cartographie des tensions majeures
 
 ## P1 ↔ P2
