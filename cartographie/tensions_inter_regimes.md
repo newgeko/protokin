@@ -229,6 +229,103 @@ Indécidabilité interprétative et surcharge multi-cadre.
 
 ---
 
+# 🛡️ Garde-fous structurels de la typologie des tensions
+
+Les garde-fous suivants définissent les contraintes d’usage de la typologie des tensions dans le cadre de Protokin.  
+Ils ne constituent pas des règles causales, mais des contraintes d’interprétation visant à éviter toute dérive réductionniste, ontologisante ou unificatrice.
+
+---
+
+## G1 — Non-exhaustivité constitutive
+
+La typologie des tensions ne constitue pas une liste complète des formes possibles de tensions.  
+Elle représente une stabilisation descriptive partielle et révisable.
+
+---
+
+## G2 — Absence de générativité transitionnelle
+
+Aucune tension ne détermine une transition.  
+Les tensions ne définissent ni les conditions nécessaires ni les conditions suffisantes de passage entre régimes.
+
+---
+
+## G3 — Non-hiérarchisation des tensions
+
+Les tensions ne sont pas ordonnées selon une hiérarchie de profondeur, de fondamentalité ou de causalité.  
+Toute lecture graduelle (faible/forte) est strictement contextuelle et non ontologique.
+
+---
+
+## G4 — Absence de méta-régime implicite
+
+La typologie des tensions ne constitue pas un langage supérieur aux régimes.  
+Elle n’autorise aucune réduction globale ni fusion des cadres de stabilisation.
+
+---
+
+## G5 — Localité stricte des tensions
+
+Une tension n’existe que relativement aux régimes qu’elle met en relation dans un contexte d’audit donné.  
+Elle n’a pas d’existence indépendante de cette configuration.
+
+---
+
+## G6 — Invariance des régimes
+
+La définition des régimes de couplage est indépendante de la typologie des tensions.  
+Les tensions ne modifient ni les régimes ni leur structure interne.
+
+---
+
+## G7 — Dissociation stricte tension / erreur
+
+Une tension n’est ni une incohérence, ni une défaillance, ni une anomalie.  
+Elle indique uniquement une divergence de conditions de stabilisation.
+
+---
+
+## G8 — Anti-collapsus conceptuel
+
+Aucune tension ne peut être utilisée pour fusionner, réduire ou homogénéiser deux régimes.  
+Toute opération de ce type constitue une dérive hors cadre Protokin.
+
+---
+
+## G9 — Non-détermination des transitions
+
+L’existence d’une tension ne détermine ni la nécessité, ni la direction, ni la temporalité d’une transition entre régimes.
+
+---
+
+## G10 — Réversibilité descriptive
+
+Toute tension peut être re-décrite depuis un autre régime sans perte de validité locale.  
+Il n’existe pas de description finale ou privilégiée des tensions.
+
+---
+
+## G11 — Primauté de l’audit
+
+Les tensions sont des outils d’analyse des conditions de stabilisation descriptive.  
+Elles ne constituent pas des mécanismes explicatifs du changement.
+
+---
+
+## G12 — Historicité et révisabilité de la typologie
+
+La typologie des tensions est une construction évolutive.  
+Elle peut être enrichie, reconfigurée ou reclassée sans modification du cadre général de Protokin cOS.
+
+---
+
+## ⚖️ Statut global des garde-fous
+
+Les garde-fous ne définissent pas ce que sont les tensions.  
+Ils définissent uniquement ce qu’il n’est pas possible d’en faire sans sortir du cadre Protokin.
+
+---
+
 # Cartographie des tensions majeures
 
 ## P1 ↔ P2
