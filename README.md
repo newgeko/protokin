@@ -1,6 +1,4 @@
-Voici une proposition de nouveau README structurant pour Protokin cOS v2, aligné avec ta notion de régimes de couplage, invariants opératoires et transitions.
-
-Protokin cOS — Architecture and Auditing of Systemic Viability
+Protokin — Architecture and Auditing of Systemic Viability
 
 1. Présentation générale
 
