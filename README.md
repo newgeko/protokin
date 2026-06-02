@@ -93,40 +93,94 @@ Une tension apparaît lorsque :
 📌 Typologie des tensions
 
 T1 — Tension de réduction
-
-Un régime tente de réduire un autre à ses propres invariants.
+Un régime tente de réduire un autre régime à ses propres invariants, en effaçant sa spécificité descriptive.
 
 T2 — Tension de traduction
-
-Deux régimes décrivent partiellement le même phénomène avec des langages incompatibles.
+Deux régimes décrivent partiellement un même domaine phénoménal, mais leurs langages et critères de validité ne sont pas directement alignables.
 
 T3 — Tension d’échelle
-
-Deux régimes opèrent à des granularités différentes.
+Deux régimes opèrent à des granularités différentes de description sans règle de correspondance stable entre niveaux.
 
 T4 — Tension normative
-
-Un régime causal rencontre un régime normatif.
+Un régime fondé sur des critères causaux ou descriptifs rencontre un régime fondé sur des critères normatifs ou justificatifs.
 
 T5 — Tension de rupture
+Deux régimes ne disposent d’aucun espace de traduction immédiat, rendant nécessaire une médiation conceptuelle explicite.
 
-Deux régimes ne possèdent aucun langage commun immédiat.
+T6 — Tension de rétroprojection
+Un régime interprète un autre régime à partir de ses propres invariants comme s’ils étaient universels ou transhistoriques.
+
+T7 — Tension de collapsus méta-langagier
+Deux régimes sont artificiellement ramenés à un langage commun supposé, produisant un pseudo-régime unificateur.
+
+T8 — Tension d’auto-inclusion
+Un régime est appliqué à lui-même sans changement de niveau d’observation, produisant une circularité descriptive non auditée.
+
+T9 — Tension de saturation descriptive
+Un régime devient trop complexe pour ses propres critères de stabilisation, perdant sa capacité de compression ou de généralisation opératoire.
+
+T10 — Tension de dérive inter-temporelle
+Deux régimes restent compatibles structurellement mais divergent dans le temps, produisant un glissement progressif des invariants.
+
+T11 — Tension de compression multi-régime
+Plusieurs régimes sont mobilisés simultanément pour un même phénomène sans hiérarchie descriptive, produisant une indécidabilité d’interprétation.
+
+---
+
+🛡️ Garde-fous structurels de la typologie
+
+G1 — Non-exhaustivité constitutive
+La typologie des tensions est ouverte par principe. Elle ne constitue pas une liste complète des formes possibles de tensions.
+
+G2 — Non-générativité des transitions
+Aucune tension ne définit une règle de transition. Les tensions ne déterminent ni le régime de sortie, ni la direction d’une éventuelle reconfiguration.
+
+G3 — Non-hiérarchisation implicite
+Les tensions ne sont pas ordonnées selon une échelle ontologique. Une tension “forte” n’est pas plus fondamentale qu’une tension “faible”.
+
+G4 — Absence de méta-régime implicite
+La typologie ne constitue pas un cadre unificateur des régimes. Elle ne produit pas de langage supérieur de réduction.
+
+G5 — Localité des interprétations
+Une tension n’a de validité que dans un contexte d’audit donné. Elle n’existe pas indépendamment des régimes qu’elle met en relation.
+
+G6 — Invariance des régimes
+La typologie des tensions ne modifie pas la définition des régimes. Les régimes restent irréductibles, non hiérarchiques et non fusionnables.
+
+G7 — Dissociation tension / erreur
+Une tension n’est jamais une erreur, une incohérence ou une défaillance. Elle est un indicateur de divergence de stabilisation.
+
+G8 — Anti-collapsus conceptuel
+Aucune tension ne doit être utilisée pour fusionner ou réduire deux régimes en un seul cadre descriptif.
+
+G9 — Non-détermination transitionnelle
+L’existence d’une tension ne détermine ni la nécessité, ni la direction, ni le timing d’une transition.
+
+G10 — Réversibilité descriptive
+Toute tension peut être re-décrite depuis un autre régime d’observation. Il n’existe pas de description finale des tensions.
+
+G11 — Primauté de l’audit
+Les tensions sont des instruments d’audit des conditions de stabilisation descriptive, et non des éléments constitutifs d’une dynamique causale globale.
 
 ---
 
 🌍 Fonction des tensions
 
 Les tensions servent à :
-
-- détecter les glissements réductionnistes
-- identifier les zones d’incompatibilité descriptive
-- préserver l’autonomie des régimes
-- localiser les points de transition potentiels
+- détecter les glissements réductionnistes implicites ;
+- identifier les zones d’intraductibilité locale ;
+- préserver l’autonomie des régimes ;
+- rendre visibles les incompatibilités descriptives ;
+- situer les zones où une transition peut être envisagée sans la prescrire.
 
 ---
 
-«Une tension n’est pas un défaut du système.
-Une tension est un indicateur de pluralité descriptive.»
+⚖️ Principe final
+Une tension ne constitue pas un défaut du système.
+
+Elle constitue un indicateur de divergence dans les conditions de stabilisation d’une même situation par plusieurs régimes.
+
+Les tensions dessinent la géographie des incompatibilités locales de Protokin, sans jamais en constituer la dynamique unifiée.
 
 ---
 
