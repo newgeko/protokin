@@ -4,7 +4,7 @@
 
 Ce document définit la théorie des transitions au sein de Protokin cOS.
 
-Les transitions constituent des opérateurs de reconfiguration permettant de comprendre comment un régime de couplage atteint ses limites de stabilisation et comment un autre régime devient nécessaire pour poursuivre l’activité descriptive.
+Les transitions constituent des opérateurs de reconfiguration permettant de comprendre comment un régime de couplage atteint ses limites de stabilisation et comment un autre régime peut devenir dominant pour poursuivre l’activité descriptive.
 
 Une transition ne décrit jamais une transformation du réel lui-même.
 
@@ -16,7 +16,7 @@ Les transitions sont des événements épistémiques dépendants de configuratio
 
 # Principe fondamental
 
-Protokin cOS repose sur l’hypothèse qu’aucun régime de couplage ne possède une validité universelle.
+Protokin cOS repose sur l’hypothèse qu’aucun régime de couplage ne possède de validité universelle.
 
 Chaque régime est :
 
@@ -24,7 +24,7 @@ Chaque régime est :
 - partiellement aveugle ;
 - limité par ses propres critères de stabilisation.
 
-Tant qu’un régime demeure capable de sélectionner, maintenir et interpréter ses invariants, aucune transition n’est nécessaire.
+Tant qu’un régime demeure capable de sélectionner, maintenir et interpréter ses invariants, aucune transition n’est requise.
 
 Lorsque cette capacité se dégrade, des tensions (T1–T11) apparaissent.
 
@@ -51,10 +51,10 @@ Les transitions existent parce que les tensions peuvent s’accumuler, se compos
 Les invariants peuvent :
 
 - rester stables dans un régime ;
-- devenir instables sous nouvelles contraintes ;
+- devenir instables sous de nouvelles contraintes ;
 - devenir inaccessibles à leur propre cadre de stabilisation.
 
-Les transitions sont donc des **effets de bord des dynamiques de tensions inter-régimes**.
+Les transitions sont donc des **effets de bord des dynamiques de tensions inter-régimes**, sans orientation téléologique.
 
 ---
 
@@ -71,7 +71,7 @@ Activation lorsque :
 
 Effet :
 
-- changement de lecture sans changement d’invariant
+- changement de lecture sans modification des invariants
 
 ---
 
@@ -84,7 +84,7 @@ Activation lorsque :
 
 Effet :
 
-- création d’un nouveau régime descriptif
+- stabilisation d’un nouveau régime descriptif (plutôt que création ex nihilo)
 
 ---
 
@@ -97,7 +97,7 @@ Activation lorsque :
 
 Effet :
 
-- passage vers l’espace des raisons (P11)
+- reconfiguration vers l’espace des raisons (P11)
 
 ---
 
@@ -105,7 +105,7 @@ Effet :
 
 Une transition n’est jamais automatique.
 
-Elle apparaît lorsqu’une configuration de tensions devient dominante.
+Elle apparaît lorsqu’une configuration de tensions devient suffisamment dominante.
 
 ## T1 — réduction
 Blocage par assimilation abusive entre régimes
@@ -126,7 +126,7 @@ Absence d’espace commun
 Projection d’un régime sur un autre
 
 ## T7 — collapsus méta-langagier
-Fusion artificielle des régimes
+Fusion non contrôlée des régimes
 
 ## T8 — auto-inclusion
 Circularité interne
@@ -156,7 +156,7 @@ Type : émergence
 
 Dominante : T10 (dérive temporelle)
 
-Type : accumulation historique
+Type : stabilisation historique
 
 ---
 
@@ -183,29 +183,14 @@ Type : rupture normative
 
 Dominante : T4 + T9
 
-Type : normativisation
-
----
-
-# Graphe général des tensions
-
-```mermaid
-graph LR
-
-P7 --> P8
-P8 --> P9
-
-P4 --> P11
-P10 --> P11
-
-P12 --> P13
-```
+Type : reconfiguration normative
 
 ---
 
 # Utilisation dans un audit Protokin
 
 Lorsqu’une instabilité est détectée :
+
 - Identifier les régimes en interaction
 - Identifier les tensions actives (T1–T11)
 - Déterminer les opérateurs de transition possibles
@@ -221,7 +206,7 @@ Elle constitue une reconfiguration locale possible du champ de stabilisation.
 
 Les transitions ne décrivent pas des changements du réel.
 
-Elles décrivent des reconfigurations de cadres rendues nécessaires par des configurations locales de tensions.
+Elles décrivent des reconfigurations de cadres rendues possibles par des configurations locales de tensions.
 
 Ainsi :
 
