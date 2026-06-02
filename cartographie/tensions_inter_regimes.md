@@ -32,6 +32,68 @@ Les tensions apparaissent lorsque :
 
 ---
 
+# 🧩 Rappel des régimes de couplage (lecture contextuelle)
+
+Cette section fournit un rappel des régimes de couplage utilisés dans les tensions.
+
+Les régimes ne constituent pas une liste ontologique fermée.  
+Ils représentent une **cartographie située des principaux modes de stabilisation descriptive actuellement identifiables**.
+
+Les numéros (P1 à P14) sont des **index de référence interne**, utilisés pour situer les relations de tension, et non des entités fixes ou exhaustives.
+
+---
+
+## 🌐 Régimes physico-dynamiques
+
+- **P1 — Cinétique protonique**
+- **P2 — Dissipation structurée (Prigogine)**
+
+---
+
+## 🧠 Régimes cognitifs
+
+- **P4 — Compétence topographique (von Foerster)**
+- **P5 — Minimisation de la surprise / FEP**
+- **P11 — Espace des raisons (Sellars / espace normatif implicite)**
+
+---
+
+## 🧬 Régimes biologiques et structurels
+
+- **P7 — Couplage structurel (Maturana / Varela)**
+
+---
+
+## 👥 Régimes socio-développementaux
+
+- **P8 — Intentionnalité partagée (Tomasello)**
+- **P9 — Effet cliquet culturel**
+
+---
+
+## ⚖️ Régimes normatifs et métathéoriques
+
+- **P10 — Couplage structurel des pratiques (niveau descriptif des émergences sociales)**
+- **P12 — Évaluation thimique**
+- **P13 — Institution inférentielle (Brandom)**
+- **P14 — Validation / audit métathéorique**
+
+---
+
+## ⚠️ Statut du rappel
+
+Ce rappel est fourni uniquement pour faciliter la lecture des tensions.
+
+Il ne constitue pas :
+
+- une classification définitive
+- une hiérarchie des régimes
+- une ontologie des niveaux d’organisation
+
+Les régimes peuvent être **révisés, recontextualisés ou enrichis** sans modification du cadre général de Protokin cOS.
+
+---
+
 # Typologie des tensions
 
 ## T1 — Tension de réduction
