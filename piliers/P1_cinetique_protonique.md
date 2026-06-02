@@ -12,7 +12,7 @@
 
 ## 1. Définition
 
-Ce régime formalise la stabilisation des différences élémentaires par des dynamiques de flux à l’échelle ionique et protonique. Il ne décrit pas des objets matériels au sens classique, mais des configurations de transport et de conversion à travers des gradients fondamentaux. La stabilité y émerge de la persistance de déséquilibres microscopiques organisés, où les transitions d’état constituent l’unité descriptive primaire. Aucun niveau global d’organisation n’est supposé surplomber ces dynamiques.
+Ce régime formalise la stabilisation de différences élémentaires à travers des dynamiques de circulation à l’échelle micro-physique, telles qu’elles sont sélectionnées comme invariants sous un mode d’observation physico-dynamique. Il ne décrit pas des objets physiques en soi, mais des régularités de transformation et de maintien de gradients sous contraintes locales.
 
 👉 Cette section doit :
 - décrire le régime sans le réduire à un autre
@@ -25,10 +25,10 @@ Ce régime formalise la stabilisation des différences élémentaires par des dy
 
 Liste des stabilités capturées par ce régime :
 
-- Continuité des flux protoniques  
-- Gradients de potentiel localement stabilisés  
-- Transitions d’état élémentaires récurrentes  
-- Structures de transport conservant une directionnalité  
+- Stabilisation de contrastes énergétiques locaux
+- Persistance de différenciations dynamiques sous contrainte
+- Régularités de transition entre états micro-physiques
+- Maintien de structures directionnelles de circulation sous dissipation
 
 👉 Un invariant = une stabilité relationnelle produite dans ce régime.
 
@@ -45,21 +45,16 @@ Ce pilier définit un mode spécifique de :
 
 ### Caractéristiques :
 - Primat des micro-transitions sur les états macroscopiques  
-- Lecture du réel comme champ de déplacements élémentaires  
+- Lecture du domaine physico-dynamique comme espace de stabilisation de transitions locales, où les invariants sont définis par régularité de transformation plutôt que par identité d’objet
 - Stabilisation par régularité de circulation plutôt que par identité  
 
 ### Angle mort structurel :
-Ce régime ne peut pas stabiliser les objets macroscopiques comme entités primitives indépendantes des flux élémentaires qui les constituent.
-
+Ce régime ne sélectionne pas les objets macroscopiques comme invariants primitifs indépendants des dynamiques de transition qui les supportent.
 ---
 
 ## 4. Domaine de validité
 
-Ce pilier est valide lorsque :
-
-- Les phénomènes sont gouvernés par des interactions à l’échelle microscopique (ionique/protonique)  
-- Les gradients énergétiques ou chimiques structurent les dynamiques  
-- Les transitions locales dominent la description du système  
+Ce régime devient pertinent lorsque les observations privilégient des dynamiques de transformation à l’échelle micro-physique, et que les invariants pertinents peuvent être stabilisés à partir de régularités de transition locale.
 
 ### Limites :
 - Régimes macroscopiques émergents sans référence directe aux flux élémentaires  
@@ -72,10 +67,7 @@ Ce pilier est valide lorsque :
 ## 5. Point de rupture
 
 Ce pilier devient insuffisant lorsque :
-
-- Les dynamiques ne peuvent plus être réduites à des transitions élémentaires locales  
-- Des structures stables émergent indépendamment des flux sous-jacents  
-- La granularité descriptive devient inadaptée à la complexité observée  
+Ce régime entre en zone de tension forte lorsque les invariants sélectionnés par d’autres régimes ne peuvent plus être re-décrits à partir de simples régularités de transition micro-physiques.
 
 ### Type de transition déclenchée :
 - ☑ Réinterprétation  
@@ -87,15 +79,15 @@ Ce pilier devient insuffisant lorsque :
 ## 6. Relations avec les autres piliers
 
 ### Compatibilités partielles :
-- P2 — Dissipation structurée (organisation des flux hors équilibre)  
-- P3 — Ajustement allostatique (régulation des gradients énergétiques internes)  
+- P2 : partage de la notion de stabilisation hors équilibre
+- P3 — P3 : régulation des dynamiques de transition sous contrainte
 
 ### Tensions :
-- P4 — Compétence topographique (stabilisation d’objets comme invariants non dynamiques)  
-- P5 — Minimisation de la surprise (reconstruction probabiliste des flux en modèles internes)  
+- P4 : changement de statut des invariants (transition objet / invariant sélectionné) 
+- P5 : modélisation probabiliste des régularités de transition
 
-### Incompatibilités structurelles :
-- P11 — Rupture épistémologique (passage à l’espace des raisons indépendant des flux physiques)  
+Zone de rupture :
+- P11 : changement de régime de justification (causal → normatif)
 
 ---
 
@@ -117,26 +109,21 @@ Les transitions protoniques deviennent des régularités compressées en modèle
 graph LR
 
 P1[Cinétique protonique]
+P2[Dissipation structurée]
+P3[Ajustement allostatique]
+P4[Compétence topographique]
+P5[FEP]
 
-P1 --> P2
-P1 --> P3
-P2 --> P1
 P1 -. tension .-> P4
-P5 --> P1
+P1 -. tension .-> P5
+```
 
 
 ---
 
 9. Résumé opératoire
 
-Ce pilier capture : la stabilisation des différences par flux élémentaires continus
-
-Il observe via : transitions locales, gradients et circulations protoniques
-
-Il ignore structurellement : les objets macroscopiques et les niveaux symboliques autonomes
-
-Il devient instable lorsque : la description ne peut plus être ramenée à des dynamiques de flux élémentaires
-
+Ce régime stabilise des descriptions centrées sur des régularités de transition à l’échelle micro-physique, en sélectionnant des invariants liés à la continuité des dynamiques de circulation et de transformation.
 
 ---
 
