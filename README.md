@@ -1,386 +1,246 @@
-📘 Protokin — Spécification étendue de la viabilité systémique
-
-
----
-
-1. Statut du système
-
-Protokin ne constitue ni une ontologie, ni une théorie explicative unifiée, ni une simulation du réel.
-
-Il s’agit d’une architecture d’audit des conditions de stabilité des descriptions, c’est-à-dire un dispositif permettant d’examiner sous quelles contraintes un ensemble d’observations devient :
-
-stabilisable
-
-interprétable
-
-opératoire
-
-maintenable dans le temps
-
-
-Le système ne décrit pas “le monde”, mais les conditions sous lesquelles des mondes descriptifs cohérents émergent localement.
-
+# Protokin cOS  
+## Architecture multi-régimes de la stabilité descriptive et des transitions épistémiques
 
 ---
 
-2. Principe fondamental
+## Abstract
 
-Toute analyse dans Protokin cOS repose sur une triade irréductible :
+Protokin cOS propose une architecture formelle d’analyse des conditions de stabilité des descriptions.  
+Plutôt que de postuler une ontologie unifiée ou un cadre explicatif global, le système modélise un ensemble de régimes de couplage irréductibles, chacun définissant un mode local de stabilisation des invariants observables.
 
-
----
-
-2.1 Régimes de couplage (piliers)
-
-Unités descriptives autonomes.
-
-Chaque régime définit :
-
-un mode d’observation
-
-un type d’invariant sélectionné
-
-une cohérence interne propre
-
-une frontière de validité non franchissable sans rupture
-
-
-👉 Les régimes ne sont ni dérivés, ni hiérarchisés, ni fusionnables.
-
+La cohérence globale n’est pas obtenue par réduction, mais par articulation de ces régimes via des tensions structurelles et des transitions de cadre. Le modèle fournit ainsi une grammaire des changements de régime épistémique et une topologie des incompatibilités descriptives.
 
 ---
 
-2.2 Invariants opératoires
+## 1. Introduction
 
-Les invariants ne sont pas des objets.
+Les approches classiques en théorie de la connaissance et en modélisation des systèmes complexes tendent à privilégier soit :
 
-Ils sont :
+- une réduction des niveaux descriptifs à un fondement unique (physicalisme, computationnalisme),
+- soit une stratification hiérarchique des niveaux d’analyse (biologique, cognitif, social, normatif).
 
-> des stabilités relationnelles produites par un régime donné d’observation.
+Protokin cOS adopte une position alternative : les niveaux ne sont ni hiérarchiques ni réductibles, mais constituent des **régimes de stabilisation hétérogènes**, partiellement incompatibles.
 
-
-
-Ils sont toujours :
-
-dépendants du régime
-
-partiellement traductibles seulement via transformation
-
-non transférables sans reconfiguration du cadre
-
-
+L’objectif du système est de formaliser les conditions sous lesquelles des invariants peuvent être stabilisés, maintenus et transformés à travers ces régimes.
 
 ---
 
-2.3 Transitions
+## 2. Cadre théorique
 
-Les transitions sont des reconfigurations du cadre de stabilisation descriptive, et non des transformations du réel.
+### 2.1 Régimes de couplage
 
-Elles apparaissent lorsqu’un régime :
+Un régime de couplage est défini comme un opérateur local de stabilisation des invariants observables.
 
-ne stabilise plus ses invariants
+Formellement, un régime \( R_i \) spécifie :
 
-produit des contradictions internes
+- un espace d’observation \( O_i \)
+- une règle de sélection des invariants \( I_i \subset O_i \)
+- une cohérence interne \( C_i \)
+- une condition de rupture \( \neg C_i \rightarrow \text{transition} \)
 
-atteint une saturation descriptive
+Les régimes sont :
 
-nécessite un nouvel espace de modélisation
-
-
-👉 Les transitions appartiennent à un espace de contraintes, pas à une causalité.
-
-
----
-
-3. Régimes de couplage (constellation complète)
-
-Chaque régime est irréductible, localement valide, et non hiérarchique.
-
+- irréductibles entre eux
+- non hiérarchiques
+- localement valides uniquement dans leur domaine de stabilisation
 
 ---
 
-3.1 Régimes physico-dynamiques
+### 2.2 Invariants opératoires
 
-Cinétique Protonique : flux ioniques et gradients matériels fondamentaux
+Les invariants ne sont pas considérés comme des entités substantielles, mais comme des **stabilités relationnelles produites par un régime donné**.
 
-Dissipation Structurée (Prigogine) : maintien hors équilibre via flux énergétiques
+Un invariant \( \iota \) est défini relativement à un régime :
 
-Ajustement Allostatique : régulation anticipatrice des paramètres internes
+\[
+\iota \in I_i \iff \iota \text{ est stabilisé par } R_i
+\]
 
+Propriétés :
 
-
----
-
-3.2 Régimes cognitifs
-
-Compétence Topographique (Von Foerster) : construction d’objets comme invariants opératoires
-
-Minimisation de la Surprise (FEP) : stabilisation par réduction de l’erreur prédictive
-
-Récursion Prospective : transformation du passé en simulation du futur
-
-
+- non transférabilité directe entre régimes
+- dépendance structurelle au cadre de stabilisation
+- traductibilité uniquement par transformation de régime
 
 ---
 
-3.3 Régimes biologiques
+### 2.3 Transitions de cadre
 
-Préconditions du comportement : stabilités macroscopiques issues de transitions moléculaires
+Une transition correspond à une reconfiguration du régime de stabilisation, et non à une transformation ontologique du système étudié.
 
+Une transition est déclenchée lorsque :
 
+- instabilité des invariants
+- accumulation de contradictions internes
+- saturation descriptive
+- nécessité d’un nouvel espace de modélisation
 
----
-
-3.4 Régimes socio-développementaux
-
-Intentionnalité Partagée (Tomasello) : alignement attentionnel et invariants communs
-
-Effet Cliquet Culturel : accumulation non réversible des stabilisations sociales
-
-
+Les transitions appartiennent à un espace de contraintes, non à une dynamique causale.
 
 ---
 
-3.5 Régimes structurels
+## 3. Typologie des régimes
 
-Couplage Structurel (Varela / Maturana) : co-dérive système–milieu inscrite dans l’histoire des interactions
-
-
+Les 14 régimes du système sont organisés en familles fonctionnelles.
 
 ---
 
-3.6 Régimes normatifs
+### 3.1 Régimes physico-dynamiques
 
-Rupture Épistémologique (Sellars) : passage du registre causal au registre des raisons
-
-Évaluation Thimique : gradients de valeur et de priorité interne
-
-Institution Inférentielle (Brandom) : stabilisation par engagements et habilitations
-
-
+- Cinétique protonique  
+- Dissipation hors équilibre (Prigogine)  
+- Régulation allostatique  
 
 ---
 
-3.7 Régime métathéorique
+### 3.2 Régimes cognitifs
 
-Validation Axiomatique (Vuillemin) : audit des compatibilités, tensions et limites des régimes
-
-
-
----
-
-4. Transitions entre régimes
-
-Les transitions ne sont pas des transformations internes du système, mais des reconfigurations de l’espace de stabilisation.
-
+- Compétence topographique (construction opératoire des objets)  
+- Minimisation de l’erreur prédictive (Free Energy Principle)  
+- Récursion prospective (simulation anticipatrice)  
 
 ---
 
-4.1 Réinterprétation
+### 3.3 Régimes biologiques
 
-Un invariant reste stable mais change de régime de lecture.
-
-Exemples :
-
-comportement → objet
-
-signal → intention
-
-régularité → norme
-
-
+- Stabilisation des comportements à partir de transitions physico-chimiques macroscopiques  
 
 ---
 
-4.2 Émergence
+### 3.4 Régimes socio-développementaux
 
-Un nouveau régime devient nécessaire pour stabiliser des invariants non capturables.
-
-Exemples :
-
-biologique → social
-
-causal → normatif
-
-
+- Intentionnalité partagée (cognition sociale)  
+- Stabilisation cumulative des pratiques culturelles (effet cliquet)  
 
 ---
 
-4.3 Rupture normative
+### 3.5 Régimes structurels
 
-Changement de type de justification.
-
-Exemple :
-
-explication causale → espace des raisons (Sellars)
-
-
+- Couplage structurel organisme–environnement  
 
 ---
 
-5. Conditions de déclenchement des transitions
+### 3.6 Régimes normatifs
 
-Une transition est requise lorsque :
-
-augmentation des contradictions internes
-
-perte de stabilité des invariants
-
-explosion de complexité descriptive
-
-incapacité à maintenir une prédiction opératoire
-
-
-👉 La transition est une nécessité locale détectée, non un processus automatique.
-
+- Passage causal → justificatif (Sellars)  
+- Évaluation thimique des priorités  
+- Institution inférentielle des engagements (Brandom)  
 
 ---
 
-6. Topologie des régimes
+### 3.7 Régime métathéorique
 
-Les régimes forment un espace :
-
-non hiérarchique
-
-non transitif
-
-partiellement compatible
-
-structurellement asymétrique
-
-
+- Validation axiomatique des compatibilités entre régimes  
 
 ---
 
-Propriétés fondamentales :
+## 4. Relations inter-régimes
 
-certains régimes se recouvrent partiellement
+### 4.1 Tensions structurelles
 
-certains sont incompatibles sans rupture
+Les régimes ne sont pas indépendants au sens fort : ils présentent des relations de contrainte sans réduction possible.
 
-certains nécessitent des médiations transitionnelles
+Trois types principaux de tensions sont identifiés :
 
-aucun n’est globalement dominant
-
-
+- tensions prédictives (modélisation vs anticipation sociale)
+- tensions descriptives (objet vs norme)
+- tensions structurelles (couplage vs récursion cognitive)
 
 ---
 
-7. Graphe global des régimes
+### 4.2 Topologie
 
+L’espace des régimes est caractérisé par :
+
+- non-hiérarchie
+- non-transitivité
+- compatibilité partielle
+- asymétrie structurelle
+
+---
+
+## 5. Transitions entre régimes
+
+Trois formes principales de transition sont identifiées :
+
+### 5.1 Réinterprétation
+
+Stabilité des invariants, changement du régime de lecture :
+
+- comportement → objet  
+- signal → intention  
+- régularité → norme  
+
+---
+
+### 5.2 Émergence
+
+Apparition d’un nouveau régime de stabilisation permettant la compression d’invariants non accessibles auparavant.
+
+---
+
+### 5.3 Rupture normative
+
+Changement du régime de justification :
+
+- espace des causes → espace des raisons (Sellars)
+
+---
+
+## 6. Conditions de transition
+
+Une transition est déclenchée lorsque :
+
+- instabilité persistante des invariants
+- croissance des contradictions internes
+- saturation descriptive
+- incapacité prédictive du régime
+
+Les transitions sont des événements structurels locaux, non déterministes.
+
+---
+
+## 7. Graphe des régimes
+
+```mermaid
 graph TD
 
-P1[Cinétique Protonique]
-P2[Dissipation - Prigogine]
-P3[Ajustement Allostatique]
+P1[Cinétique protonique]
+P2[Dissipation hors équilibre]
+P3[Régulation allostatique]
 
-P4[Compétence Topographique]
-P5[Minimisation de la Surprise]
-P6[Récursion Prospective]
+P4[Compétence topographique]
+P5[Minimisation de l’erreur]
+P6[Récursion prospective]
 
-P7[Préconditions du Comportement]
+P7[Préconditions biologiques]
 
-P8[Intentionnalité Partagée]
-P9[Effet Cliquet Culturel]
+P8[Intentionnalité partagée]
+P9[Stabilisation culturelle]
 
-P10[Couplage Structurel]
+P10[Couplage structurel]
+```
 
-P11[Rupture Épistémologique - Sellars]
+## 8. Hypothèse centrale
+Protokin cOS repose sur l’hypothèse suivante :
+La cohérence d’un système cognitif ou descriptif ne résulte pas d’une unité ontologique, mais de la coordination partielle de régimes de stabilisation hétérogènes.
 
-P12[Évaluation Thimique]
-P13[Institution Inférentielle - Brandom]
+## 9. Conclusion
+Protokin cOS propose une reformulation non-réductionniste de la cohérence des systèmes descriptifs.
+Il ne cherche pas à unifier les régimes, mais à :
+expliciter leurs conditions de stabilité
+formaliser leurs incompatibilités
+modéliser leurs transitions
+Le système constitue ainsi une architecture formelle des conditions de l’intelligibilité distribuée.
+P11[Rupture épistémologique]
+P12[Évaluation thimique]
+P13[Institution inférentielle]
 
-P14[Validation Axiomatique - Vuillemin]
+P14[Validation axiomatique]
 
-%% trajectoire NON ONTOLOGIQUE (lecture possible, pas structure)
 P1 --> P2 --> P3 --> P4 --> P5 --> P6 --> P7 --> P8 --> P9 --> P10 --> P11 --> P12 --> P13 --> P14
 
-%% tensions structurales (véritables relations du système)
 P5 -. tension prédictive .-> P8
-P4 -. construction d’objets .-> P11
-P10 -. contrainte structurelle .-> P6
-P8 -. amplification sociale .-> P13
+P4 -. tension descriptive .-> P11
+P10 -. tension structurelle .-> P6
 P11 -. discontinuité normative .-> P13
-P7 -. ancrage matériel .-> P4
-
-
----
-
-8. Graphe des transitions
-
-graph LR
-
-R1[Réinterprétation]
-R2[Émergence]
-R3[Rupture normative]
-
-R1 --> R1a[Changement de régime de lecture]
-R2 --> R2a[Nouvel invariant stabilisé]
-R3 --> R3a[Changement de type de justification]
-
-R2 -. peut impliquer .-> P11
-R3 -. peut activer .-> P13
-
-
----
-
-9. Principe épistémologique global
-
-Protokin cOS adopte une position strictement :
-
-non-réductionniste
-
-non-hiérarchique
-
-non-unifiée
-
-
-Chaque régime est :
-
-localement valide
-
-structurellement incomplet
-
-irréductible aux autres
-
-
-La connaissance est définie comme :
-
-> la stabilisation locale d’invariants sous contraintes de couplage observateur–système.
-
-
-
-
----
-
-10. Limite structurelle
-
-Le système ne vise pas à :
-
-produire une ontologie globale
-
-réduire les régimes entre eux
-
-hiérarchiser les niveaux descriptifs
-
-
-Il vise uniquement à :
-
-> expliciter les conditions de stabilité, de transition et de coexistence des régimes de description.
-
-
-
-
----
-
-11. Synthèse
-
-Protokin est :
-
-une architecture d’audit multi-régimes
-
-une géométrie de stabilités descriptives
-
-une grammaire des transitions épistémiques
-
-une structure relationnelle non-hiérarchique de l’intelligibilité
