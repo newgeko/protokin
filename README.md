@@ -30,21 +30,38 @@ Ainsi, le système ne cherche pas à unifier les descriptions, mais à cartograp
 
 🧩 1. Les Régimes de Couplage (Piliers)
 
-Les régimes de couplage sont les unités fondamentales du système.
+Les régimes de couplage ne constituent pas des entités ontologiques fixes, ni une liste exhaustive des structures du réel.
+
+Ils désignent une cartographie située des principaux modes de stabilisation descriptive actuellement identifiables, issus des sciences de la nature, des sciences cognitives, des sciences sociales et des cadres normatifs.
+
+Chaque régime correspond à une manière localement stabilisée de produire des invariants sous contraintes d’observation.
 
 Chaque régime définit :
-
 - un mode d’observation
 - un type d’invariant stabilisé
 - un critère de validité interne
-- une frontière de cohérence
+- une frontière de cohérence descriptive
 
 Propriétés fondamentales
 
-- Les régimes sont irréductibles
+- Les régimes sont irréductibles entre eux
 - Ils ne sont pas hiérarchisés
 - Ils ne sont pas fusionnables
-- Aucun régime ne constitue un méta-langage universel
+- Aucun régime ne constitue un méta-langage universel permettant de réduire les autres
+
+---
+
+🌐 Statut de la cartographie
+
+L’ensemble des régimes proposés constitue :
+
+une lecture structurée et historiquement située des principales formes de stabilisation descriptive disponibles à ce stade des savoirs.
+
+Cette cartographie est :
+- évolutive
+- révisable
+- extensible
+- non déductible a priori
 
 ---
 
@@ -56,7 +73,7 @@ Propriétés fondamentales
 - socio-développementaux
 - normatifs et métathéoriques
 
-Chaque famille correspond à un mode de stabilisation distinct, non réductible aux autres.
+Chaque famille correspond à un mode de stabilisation distinct, localement cohérent, et non réductible aux autres familles descriptives.
 
 ---
 
