@@ -1,246 +1,327 @@
-# Protokin cOS  
-## Architecture multi-régimes de la stabilité descriptive et des transitions épistémiques
+# Protokin cOS
+
+## A Multi-Constraint Regime Graph Model of Descriptive Stability and Epistemic Transitions in Complex Systems
+
 
 ---
 
-## Abstract
+Abstract
 
-Protokin cOS propose une architecture formelle d’analyse des conditions de stabilité des descriptions.  
-Plutôt que de postuler une ontologie unifiée ou un cadre explicatif global, le système modélise un ensemble de régimes de couplage irréductibles, chacun définissant un mode local de stabilisation des invariants observables.
+We propose Protokin cOS, a formal graph-based framework for modeling stability and transitions in multi-level complex systems. The model replaces hierarchical or reductionist approaches with a set of irreducible “coupling regimes,” each defining a local constraint system over observable invariants.
 
-La cohérence globale n’est pas obtenue par réduction, mais par articulation de ces régimes via des tensions structurelles et des transitions de cadre. Le modèle fournit ainsi une grammaire des changements de régime épistémique et une topologie des incompatibilités descriptives.
+System-level behavior emerges from the interaction of these regimes through structured incompatibilities (tensions) and discrete transition events. We formalize a regime space as a directed, partially ordered, constraint-weighted graph, and define three classes of transitions: reinterpretation, emergence, and normative rupture.
 
----
+The framework provides a minimal formalism for representing cross-domain discontinuities in cognitive, biological, and social systems.
 
-## 1. Introduction
-
-Les approches classiques en théorie de la connaissance et en modélisation des systèmes complexes tendent à privilégier soit :
-
-- une réduction des niveaux descriptifs à un fondement unique (physicalisme, computationnalisme),
-- soit une stratification hiérarchique des niveaux d’analyse (biologique, cognitif, social, normatif).
-
-Protokin cOS adopte une position alternative : les niveaux ne sont ni hiérarchiques ni réductibles, mais constituent des **régimes de stabilisation hétérogènes**, partiellement incompatibles.
-
-L’objectif du système est de formaliser les conditions sous lesquelles des invariants peuvent être stabilisés, maintenus et transformés à travers ces régimes.
 
 ---
 
-## 2. Cadre théorique
+Keywords
 
-### 2.1 Régimes de couplage
+Complex systems; regime switching; constraint networks; cognitive modeling; graph dynamics; multi-level systems; predictive processing.
 
-Un régime de couplage est défini comme un opérateur local de stabilisation des invariants observables.
-
-Formellement, un régime \( R_i \) spécifie :
-
-- un espace d’observation \( O_i \)
-- une règle de sélection des invariants \( I_i \subset O_i \)
-- une cohérence interne \( C_i \)
-- une condition de rupture \( \neg C_i \rightarrow \text{transition} \)
-
-Les régimes sont :
-
-- irréductibles entre eux
-- non hiérarchiques
-- localement valides uniquement dans leur domaine de stabilisation
 
 ---
 
-### 2.2 Invariants opératoires
+1. Introduction
 
-Les invariants ne sont pas considérés comme des entités substantielles, mais comme des **stabilités relationnelles produites par un régime donné**.
+Complex adaptive systems are typically modeled either through:
 
-Un invariant \( \iota \) est défini relativement à un régime :
+1. hierarchical decomposition of levels (e.g., biological → cognitive → social), or
 
-\[
-\iota \in I_i \iff \iota \text{ est stabilisé par } R_i
-\]
 
-Propriétés :
+2. reduction to a single explanatory substrate (e.g., physical or computational models).
 
-- non transférabilité directe entre régimes
-- dépendance structurelle au cadre de stabilisation
-- traductibilité uniquement par transformation de régime
 
----
 
-### 2.3 Transitions de cadre
+Both approaches assume global compatibility between levels of description.
 
-Une transition correspond à une reconfiguration du régime de stabilisation, et non à une transformation ontologique du système étudié.
+However, empirical and theoretical work in cognitive science (e.g., predictive processing), enactive cognition, and social systems theory suggests that cross-level mappings are often partial, lossy, or non-bijective.
 
-Une transition est déclenchée lorsque :
+We propose Protokin cOS as a non-hierarchical regime graph model, in which system behavior arises from interactions between locally valid but globally non-equivalent constraint regimes.
 
-- instabilité des invariants
-- accumulation de contradictions internes
-- saturation descriptive
-- nécessité d’un nouvel espace de modélisation
-
-Les transitions appartiennent à un espace de contraintes, non à une dynamique causale.
 
 ---
 
-## 3. Typologie des régimes
+2. Model Definition
 
-Les 14 régimes du système sont organisés en familles fonctionnelles.
+2.1 Regime Graph
 
----
+We define a regime space as a directed graph:
 
-### 3.1 Régimes physico-dynamiques
+G = (R, E, W)
 
-- Cinétique protonique  
-- Dissipation hors équilibre (Prigogine)  
-- Régulation allostatique  
+where:
 
----
+: set of coupling regimes
 
-### 3.2 Régimes cognitifs
+: directed edges representing possible transitions
 
-- Compétence topographique (construction opératoire des objets)  
-- Minimisation de l’erreur prédictive (Free Energy Principle)  
-- Récursion prospective (simulation anticipatrice)  
+: weight function encoding transition constraints or tension intensity
 
----
 
-### 3.3 Régimes biologiques
+Each regime  is defined as:
 
-- Stabilisation des comportements à partir de transitions physico-chimiques macroscopiques  
+R_i = (O_i, I_i, C_i, \Delta_i)
 
----
+where:
 
-### 3.4 Régimes socio-développementaux
+: observation space
 
-- Intentionnalité partagée (cognition sociale)  
-- Stabilisation cumulative des pratiques culturelles (effet cliquet)  
+: invariant set
 
----
+: internal coherence constraint
 
-### 3.5 Régimes structurels
+: instability threshold
 
-- Couplage structurel organisme–environnement  
+
 
 ---
 
-### 3.6 Régimes normatifs
+2.2 Invariants
 
-- Passage causal → justificatif (Sellars)  
-- Évaluation thimique des priorités  
-- Institution inférentielle des engagements (Brandom)  
+An invariant is defined relative to a regime:
 
----
+\iota \in I_i \iff R_i \text{ stabilizes } \iota
 
-### 3.7 Régime métathéorique
+Invariants are thus regime-relative stable structures, not ontological primitives.
 
-- Validation axiomatique des compatibilités entre régimes  
+We assume:
 
----
+invariants are not globally transferable
 
-## 4. Relations inter-régimes
+invariants may undergo transformation under regime switching
 
-### 4.1 Tensions structurelles
+invariants may overlap partially across regimes
 
-Les régimes ne sont pas indépendants au sens fort : ils présentent des relations de contrainte sans réduction possible.
 
-Trois types principaux de tensions sont identifiés :
-
-- tensions prédictives (modélisation vs anticipation sociale)
-- tensions descriptives (objet vs norme)
-- tensions structurelles (couplage vs récursion cognitive)
 
 ---
 
-### 4.2 Topologie
+2.3 Constraint Structure
 
-L’espace des régimes est caractérisé par :
+We define tensions as constraint relations between regimes:
 
-- non-hiérarchie
-- non-transitivité
-- compatibilité partielle
-- asymétrie structurelle
+\tau_{ij} = W(R_i, R_j)
 
----
+Tensions represent:
 
-## 5. Transitions entre régimes
+predictive incompatibility
 
-Trois formes principales de transition sont identifiées :
+descriptive mismatch
 
-### 5.1 Réinterprétation
+structural constraint asymmetry
 
-Stabilité des invariants, changement du régime de lecture :
 
-- comportement → objet  
-- signal → intention  
-- régularité → norme  
+Importantly, tensions are not errors but structural coupling constraints.
+
 
 ---
 
-### 5.2 Émergence
+3. Regime Classes
 
-Apparition d’un nouveau régime de stabilisation permettant la compression d’invariants non accessibles auparavant.
+We define 14 regimes grouped into functional classes.
+
+3.1 Physical regimes
+
+Dissipative structures (non-equilibrium thermodynamics)
+
+Ionic/protonic kinetic stabilization
+
+Allostatic regulation mechanisms
+
+
+3.2 Cognitive regimes
+
+Object construction via invariance extraction
+
+Predictive processing / free energy minimization
+
+Temporal recursion and anticipatory modeling
+
+
+3.3 Biological regimes
+
+Behavior stabilization under physiological constraints
+
+
+3.4 Social regimes
+
+Shared intentionality systems
+
+Cultural accumulation (ratchet effect)
+
+
+3.5 Structural coupling regime
+
+Co-determined organism–environment dynamics
+
+
+3.6 Normative regimes
+
+Causal-to-normative transition (Sellars)
+
+Inferential commitment structures (Brandom)
+
+Affective valuation systems
+
+
+3.7 Meta-regime
+
+Cross-regime compatibility validation (constraint auditing)
+
+
 
 ---
 
-### 5.3 Rupture normative
+4. Dynamics of the Regime Graph
 
-Changement du régime de justification :
+4.1 State evolution
 
-- espace des causes → espace des raisons (Sellars)
+System evolution is modeled as transitions over :
 
----
+R_i \rightarrow R_j \quad \text{if } \Delta_i \text{ is exceeded or } C_i \text{ fails}
 
-## 6. Conditions de transition
+Transitions are not state changes of a single system but reconfiguration of active constraint regimes.
 
-Une transition est déclenchée lorsque :
-
-- instabilité persistante des invariants
-- croissance des contradictions internes
-- saturation descriptive
-- incapacité prédictive du régime
-
-Les transitions sont des événements structurels locaux, non déterministes.
 
 ---
 
-## 7. Graphe des régimes
+4.2 Types of transitions
 
-```mermaid
-graph TD
+We define three fundamental transition classes:
 
-P1[Cinétique protonique]
-P2[Dissipation hors équilibre]
-P3[Régulation allostatique]
+(1) Reinterpretation
 
-P4[Compétence topographique]
-P5[Minimisation de l’erreur]
-P6[Récursion prospective]
+Invariant preservation with regime change:
 
-P7[Préconditions biologiques]
+behavior → object
 
-P8[Intentionnalité partagée]
-P9[Stabilisation culturelle]
+signal → intention
 
-P10[Couplage structurel]
-```
+regularity → norm
 
-## 8. Hypothèse centrale
-Protokin cOS repose sur l’hypothèse suivante :
-La cohérence d’un système cognitif ou descriptif ne résulte pas d’une unité ontologique, mais de la coordination partielle de régimes de stabilisation hétérogènes.
 
-## 9. Conclusion
-Protokin cOS propose une reformulation non-réductionniste de la cohérence des systèmes descriptifs.
-Il ne cherche pas à unifier les régimes, mais à :
-expliciter leurs conditions de stabilité
-formaliser leurs incompatibilités
-modéliser leurs transitions
-Le système constitue ainsi une architecture formelle des conditions de l’intelligibilité distribuée.
-P11[Rupture épistémologique]
-P12[Évaluation thimique]
-P13[Institution inférentielle]
+Formally:
 
-P14[Validation axiomatique]
+\iota \in I_i \cap I_j
 
-P1 --> P2 --> P3 --> P4 --> P5 --> P6 --> P7 --> P8 --> P9 --> P10 --> P11 --> P12 --> P13 --> P14
 
-P5 -. tension prédictive .-> P8
-P4 -. tension descriptive .-> P11
-P10 -. tension structurelle .-> P6
-P11 -. discontinuité normative .-> P13
+---
+
+(2) Emergence
+
+Introduction of a new regime  such that:
+
+I_j \not\subseteq \bigcup I_i
+
+Emergence corresponds to stabilization of previously non-representable invariants.
+
+
+---
+
+(3) Normative rupture
+
+Transition between justificatory regimes:
+
+\text{causal regime} \rightarrow \text{normative regime}
+
+This aligns with Sellarsian space-of-reasons transitions.
+
+
+---
+
+5. Topological Properties
+
+The regime graph  exhibits:
+
+partial ordering (local but not global)
+
+non-transitive compatibility
+
+asymmetric edge weights
+
+multi-path transition ambiguity
+
+
+No single regime acts as a foundational substrate.
+
+
+---
+
+6. Minimal Computational Interpretation
+
+The model can be interpreted as a constraint-weighted directed graph dynamical system:
+
+nodes: regimes
+
+edges: possible transitions
+
+weights: tension magnitudes
+
+
+This allows implementation in:
+
+agent-based models
+
+hierarchical predictive architectures
+
+multi-layer adaptive systems
+
+
+
+---
+
+7. Relation to Existing Work
+
+Protokin cOS extends:
+
+Predictive processing (Friston et al.)
+
+Active inference frameworks
+
+Enactive cognition (Varela, Thompson)
+
+Structural coupling theory (Maturana & Varela)
+
+Inferentialist semantics (Sellars, Brandom)
+
+Non-equilibrium systems theory (Prigogine)
+
+
+Key distinction:
+
+> incompatibility between regimes is treated as a structural property of the system, not as a modeling failure.
+
+
+
+
+---
+
+8. Discussion
+
+The framework suggests that multi-level complex systems cannot be adequately represented through unified state spaces. Instead, system dynamics arise from interactions between heterogeneous constraint regimes.
+
+This shifts the focus from:
+
+representation → to constraint interaction
+
+hierarchy → to regime topology
+
+consistency → to structured incompatibility
+
+
+
+---
+
+9. Conclusion
+
+We introduced a regime-based graph model for describing stability and transitions in complex systems. Protokin cOS replaces ontological unification with a structured space of irreducible descriptive regimes and their interaction dynamics.
+
+Future work includes:
+
+formal spectral analysis of regime graphs
+
+empirical mapping to cognitive architectures
+
+simulation of regime transition dynamics in adaptive agents
