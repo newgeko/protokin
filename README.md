@@ -375,7 +375,7 @@ Il vise uniquement à :
 
 11. Synthèse
 
-Protokin cOS est :
+Protokin est :
 
 une architecture d’audit multi-régimes
 
