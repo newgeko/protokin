@@ -51,6 +51,7 @@ Ce pilier définit un mode spécifique de :
 ### Angle mort structurel :
 
 Ce régime ne sélectionne pas les objets macroscopiques comme invariants primitifs indépendants des dynamiques de transition qui les supportent.
+
 ---
 
 ## 4. Domaine de validité
