@@ -49,6 +49,7 @@ Ce pilier définit un mode spécifique de :
 - Stabilisation par régularité de circulation plutôt que par identité  
 
 ### Angle mort structurel :
+
 Ce régime ne sélectionne pas les objets macroscopiques comme invariants primitifs indépendants des dynamiques de transition qui les supportent.
 ---
 
