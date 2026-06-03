@@ -8,10 +8,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   url: 'https://newgeko.github.io',
-  baseUrl: '/protokin-cos-site/',
+  baseUrl: '/protokin/',
 
   organizationName: 'newgekko',
-  projectName: 'protokin-cos-site',
+  projectName: 'protokin',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
