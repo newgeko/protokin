@@ -1,5 +1,7 @@
 # 📌 {Nom de la référence}
 
+- **Niveau de lecture :** source / interprétatif / systémique
+
 ## 1. Identification
 
 - **Auteur :** {Nom}
