@@ -1,165 +1,67 @@
-# ⚡ Étymologie et signification structurelle de *Protokin*
+# ⚡ Protokin — Architecture générale
 
-Le terme **Protokin** désigne à la fois :
+## 🧭 Définition
 
-- le **nœud conceptuel de transition entre deux régimes fondamentaux d’organisation de la stabilité** (sentience → sapience),
-- et l’**architecture globale d’audit des conditions de stabilisation des descriptions** (Protokin cOS).
+Protokin est une architecture d’analyse de second ordre des conditions de stabilisation des descriptions.
 
-Il ne désigne ni une entité, ni une substance, ni une structure ontologique, mais une **dynamique de passage entre régimes de stabilisation**.
+Il ne décrit pas des objets du monde, mais les conditions sous lesquelles des descriptions de ces objets deviennent :
 
----
-
-# 🧭 Structure étymologique (lecture non ontologique)
-
-L’étymologie de *Protokin* doit être comprise comme une **bifurcation de sens selon le régime d’interprétation**.
+- stables
+- comparables
+- opératoires
+- compatibles ou incompatibles
 
 ---
 
-## 1. Proto — le régime des conditions initiales de stabilisation
+## 🧠 Principe fondamental
 
-Dans une lecture physico-cognitive minimale :
+Toute description dépend d’un régime de couplage.
 
-- *proto-* désigne ce qui est **pré-normatif**
-- un espace où les invariants sont encore **purement stabilisés par contrainte causale**
-- un domaine où la correction n’est pas encore une norme mais une **contrainte de maintien d’état**
+Un régime de couplage définit :
 
-👉 Il correspond aux régimes où :
-
-- les invariants sont produits
-- mais pas encore justifiés
-- la stabilité est encore sans “raison”
+- des invariants sélectionnés
+- des critères de validité internes
+- une granularité descriptive
+- un espace de stabilisation
 
 ---
 
-Dans une lecture normative :
+## ⚙️ Structure générale
 
-- *proto-* désigne le **premier régime de corrigeabilité**
-- c’est le moment où une stabilisation devient **susceptible d’être évaluée comme correcte ou incorrecte**
-- sans encore appartenir pleinement à l’espace des raisons
+Le système est composé de quatre couches :
 
----
+### 1. Régimes (P1–P14)
+Cadres de stabilisation descriptive.
 
-## 2. Kin — la dimension relationnelle de la stabilisation
+### 2. Invariants
+Objets stabilisés relativement à un régime donné.
 
-Dans une lecture physico-causale :
+### 3. Tensions
+Opérateurs d’audit des incompatibilités entre régimes.
 
-- *kin-* renvoie à la **cinétique**
-- aux dynamiques de couplage, de mouvement et de propagation des contraintes
-
-Dans une lecture socio-normative :
-
-- *kin* renvoie à la **parenté (kinship)**
-- c’est-à-dire à la stabilisation via un **réseau relationnel d’attentes, d’ajustements et de reconnaissance**
+### 4. Transitions
+Reconfigurations des cadres de stabilisation.
 
 ---
 
-👉 Kin désigne donc :
+## ⚠️ Principe de non-ontologie
 
-> la transformation d’une dynamique purement causale en une dynamique relationnelle stabilisée.
+Protokin cOS ne postule aucune structure ontologique universelle.
 
----
+Il ne décrit pas ce qui est.
 
-# ⚖️ Protokin comme opérateur de transition
-
-Le concept de *Protokin* ne doit pas être compris comme une fusion des deux sens, mais comme leur **zone de tension structurante**.
-
-Il désigne précisément :
-
-> le point où une stabilisation causale devient interprétable comme une stabilisation relationnelle normative.
+Il décrit comment ce qui est décrit devient stabilisé.
 
 ---
 
-# 🧩 Protokin et architecture des régimes
+## 🔄 Principe de second ordre
 
-Dans le cadre de Protokin cOS :
+Le système n’opère pas sur les phénomènes.
 
-- les **régimes** définissent les modes de stabilisation
-- les **invariants** sont les produits locaux de ces stabilisations
-- les **tensions** apparaissent lorsque ces stabilisations deviennent incompatibles
-- les **transitions** correspondent à des reconfigurations de régime
+Il opère sur les cadres qui rendent les phénomènes intelligibles.
 
 ---
 
-👉 Protokin désigne alors :
+## 🧩 Statut
 
-> la dynamique générale par laquelle un système passe d’une stabilisation purement causale à une stabilisation distribuée entre régimes hétérogènes.
-
----
-
-# ⚡ Dialectique structurelle (non hégélienne)
-
-La dialectique Protokin n’est pas une synthèse.
-
-Elle est une **incompatibilité structurée entre régimes de stabilisation**.
-
-Elle s’organise autour de trois mouvements :
-
----
-
-## 1. Sentience (stabilisation causale)
-
-- régimes physico-biologiques
-- invariants sans justification
-- correction sans normativité explicite
-
----
-
-## 2. Tension (incompatibilité des stabilisations)
-
-- apparition de divergences entre régimes
-- non-alignement des critères de validité
-- impossibilité de réduction stable
-
----
-
-## 3. Sapience (stabilisation normative distribuée)
-
-- apparition de l’espace des raisons
-- institution de normes
-- stabilisation intersubjective des invariants
-
----
-
-👉 Protokin désigne donc :
-
-> le champ des transitions entre ces modes de stabilisation, sans continuité homogène.
-
----
-
-# ⚡ Position dans Protokin cOS
-
-Dans l’architecture globale :
-
-- les régimes définissent les stabilisations locales
-- les tensions cartographient leurs incompatibilités
-- les transitions décrivent leurs reconfigurations possibles
-- **Protokin désigne l’ensemble du champ dynamique entre ces trois niveaux**
-
----
-
-# 🧪 Statut épistémologique
-
-Protokin n’est pas :
-
-- une théorie de la conscience
-- une théorie de la normativité
-- une théorie de l’évolution cognitive
-
-Il est :
-
-> une formalisation des conditions de passage entre régimes hétérogènes de stabilisation descriptive.
-
----
-
-# 📌 Conclusion
-
-Le terme *Protokin* désigne :
-
-> la zone structurale où des systèmes de stabilisation purement causale deviennent des systèmes de stabilisation distribuée entre régimes normatifs, cognitifs et sociaux.
-
-Autrement dit :
-
-- les régimes définissent les formes locales de stabilité
-- les tensions en exposent les incompatibilités
-- les transitions en décrivent les reconfigurations
-- **Protokin désigne le champ dynamique où tout cela devient possible sans être unifié**
+Architecture épistémologique, non réductionniste, non unificatrice, multi-régimes.
