@@ -155,6 +155,7 @@ Utiliser le système pour analyser une situation.
 
 - [Wilfrid Sellars](references/sellars.md)
 - [Robert Brandom](references/brandom.md)
+- [John McDowell](références/mcdowell.md)
 
 ---
 
