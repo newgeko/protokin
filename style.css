@@ -273,3 +273,18 @@ a:focus {
     padding: 25px 15px !important;
   }
 }
+
+
+
+.sidebar,
+.sidebar-toggle,
+.app-nav,
+.navbar {
+  display: none !important;
+}
+
+.content {
+  max-width: 850px;
+  margin: 0 auto !important;
+  padding: 60px 40px !important;
+}
