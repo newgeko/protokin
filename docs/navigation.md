@@ -125,10 +125,10 @@ Utiliser le système pour analyser une situation.
 
 ## Concepts fondamentaux
 
-- [Invariants](core/invariants.md)
-- [Régimes](core/regimes.md)
-- [Tensions](tensions/tensions_inter_regimes.md)
-- [Transitions](transitions/transitions_de_cadre.md)
+- [Invariants](concepts/invariant.md)
+- [Régimes](concepts/regime.md)
+- [Tensions](concepts/tension.md)
+- [Transitions](concepts/transition.md)
 
 ---
 
