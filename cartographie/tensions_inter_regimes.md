@@ -696,94 +696,7 @@ P14 examine leur cohérence architectonique.
 
 ---
 
-# ⚠️ Zones de rupture critiques
-
-Les zones suivantes doivent être surveillées dans tout audit Protokin.
-
-## Zone R1
-
-Préconditions biologiques → Intentionnalité partagée
-
-```text
-P7 → P8
-```
-
-Question :
-
-Comment passe-t-on du comportement biologique à la coordination sociale ?
-
----
-
-## Zone R2
-
-Compétence topographique → Espace des raisons
-
-```text
-P4 → P11
-```
-
-Question :
-
-Comment passe-t-on des objets stabilisés aux justifications ?
-
----
-
-## Zone R3
-
-Couplage structurel → Normativité
-
-```text
-P10 → P11
-```
-
-Question :
-
-Comment passe-t-on des causes aux raisons ?
-
----
-
-## Zone R4
-
-Évaluation thimique → Institution inférentielle
-
-```text
-P12 → P13
-```
-
-Question :
-
-Comment une valeur devient-elle une norme ?
-
----
-
-# 🕸️ Graphe simplifié des tensions
-
-```mermaid
-graph LR
-
-P4[Compétence Topographique]
-P5[FEP]
-P8[Intentionnalité Partagée]
-P10[Couplage Structurel]
-P11[Sellars]
-P12[Évaluation Thimique]
-P13[Brandom]
-
-P4 -. tension .-> P5
-P4 -. rupture .-> P11
-
-P5 -. tension .-> P8
-
-P10 -. rupture majeure .-> P11
-
-P11 -. continuité normative .-> P13
-
-P12 -. médiation nécessaire .-> P13
-```
-
----
-
-# Familles de tensions
+#  🧠 Familles de tensions
 
 Les onze tensions ne constituent pas une liste arbitraire.
 
@@ -1179,6 +1092,94 @@ De même :
 Fonction de la distinction
 
 Cette distinction ne vise pas à classer les tensions selon leur importance.
+
+---
+
+# 🕸️ Graphe simplifié des tensions
+
+```mermaid
+graph LR
+
+P4[Compétence Topographique]
+P5[FEP]
+P8[Intentionnalité Partagée]
+P10[Couplage Structurel]
+P11[Sellars]
+P12[Évaluation Thimique]
+P13[Brandom]
+
+P4 -. tension .-> P5
+P4 -. rupture .-> P11
+
+P5 -. tension .-> P8
+
+P10 -. rupture majeure .-> P11
+
+P11 -. continuité normative .-> P13
+
+P12 -. médiation nécessaire .-> P13
+```
+
+---
+
+# ⚠️ Zones de rupture critiques
+
+Les zones suivantes doivent être surveillées dans tout audit Protokin.
+
+## Zone R1
+
+Préconditions biologiques → Intentionnalité partagée
+
+```text
+P7 → P8
+```
+
+Question :
+
+Comment passe-t-on du comportement biologique à la coordination sociale ?
+
+---
+
+## Zone R2
+
+Compétence topographique → Espace des raisons
+
+```text
+P4 → P11
+```
+
+Question :
+
+Comment passe-t-on des objets stabilisés aux justifications ?
+
+---
+
+## Zone R3
+
+Couplage structurel → Normativité
+
+```text
+P10 → P11
+```
+
+Question :
+
+Comment passe-t-on des causes aux raisons ?
+
+---
+
+## Zone R4
+
+Évaluation thimique → Institution inférentielle
+
+```text
+P12 → P13
+```
+
+Question :
+
+Comment une valeur devient-elle une norme ?
+
 
 Elle vise à identifier l’origine principale de la difficulté observée :
 
