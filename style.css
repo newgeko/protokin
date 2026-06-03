@@ -98,61 +98,43 @@ h3 {
   padding-top: 40px !important;
 }
 
-/* ==========================================================================
-   SIDEBAR (HIÉRARCHIE COGNITIVE)
-   ========================================================================== */
 
+/* ==========================================
+   PROTOKIN — MODE FULL PAGE (NO SIDEBAR)
+   ========================================== */
+
+/* supprime la sidebar */
 .sidebar {
-  background-color: var(--bg-sidebar);
-  border-right: 1px solid var(--border-color);
-  font-family: var(--font-interface);
+  display: none !important;
 }
 
-.sidebar-nav li a {
-  font-size: 14.5px;
-  color: #555;
-  transition: all 0.2s ease;
+/* supprime le conteneur gauche */
+body.close .sidebar {
+  display: none !important;
 }
 
-.sidebar-nav li a:hover {
-  color: var(--theme-color);
-  transform: translateX(2px);
+/* force le contenu en pleine largeur */
+.content {
+  left: 0 !important;
+  margin-left: 0 !important;
+  max-width: 900px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
-/* actif */
-.sidebar-nav li.active > a {
-  color: var(--theme-color) !important;
-  font-weight: 600;
-  border-right: 2px solid var(--theme-color);
+/* supprime l’espace réservé sidebar */
+.app-nav {
+  display: none !important;
 }
 
-/* niveaux imbriqués */
-.sidebar-nav ul ul li a {
-  font-weight: 400;
-  color: #666;
-  padding-left: 10px;
+/* supprime search box si injectée */
+.search {
+  display: none !important;
 }
 
-.sidebar-nav ul ul ul li a {
-  font-size: 13px;
-  opacity: 0.85;
-}
-
-/* ==========================================================================
-   RECHERCHE
-   ========================================================================== */
-
-.search input {
-  background: #fff !important;
-  border: 1px solid #e0e6ed !important;
-  border-radius: 6px;
-  padding: 8px 12px !important;
-  transition: all 0.2s ease;
-}
-
-.search input:focus {
-  box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.15) !important;
-  border-color: var(--accent-color) !important;
+/* corrige wrapper Docsify */
+body {
+  overflow-x: hidden;
 }
 
 /* ==========================================================================
