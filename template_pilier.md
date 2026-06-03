@@ -124,7 +124,7 @@ P{N}[{Nom du pilier}]
 P{N} --> P{X}
 P{N} -. tension .-> P{Y}
 P{Z} --> P{N}
-
+```
 
 ---
 
