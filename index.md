@@ -1,23 +1,9 @@
-# 🧭 Protokin — Navigation
+# ⚡ Protokin
 
-## Que cherchez-vous ?
-
-### ⚡ Comprendre une instabilité
-→ voir : Tensions inter-régimes
-
-### 🔄 Étudier un changement de cadre
-→ voir : Transitions
-
-### 🧪 Analyser un cas
-→ voir : Audits
-
-### 🧠 Comprendre le système global
-→ voir : Architecture
+Architecture d'audit des conditions de stabilisation des descriptions.
 
 ---
 
-## Principe
+## Entrer dans la documentation
 
-Protokin ne décrit pas le monde.
-
-Il décrit les conditions de stabilité des descriptions du monde.
+➡️ **[Navigation complète](navigation.md)**
