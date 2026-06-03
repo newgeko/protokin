@@ -1,70 +1,147 @@
 /* ==========================================================================
-   PROTOKIN — Matrice Graphique (Système de Design)
+   PROTOKIN — MATRICE GRAPHIQUE (SYSTÈME DE DESIGN ÉPISTÉMIQUE)
    ========================================================================== */
 
 :root {
-  /* Palette de Couleurs (Néo-Académique) */
-  --theme-color: #1a2a3a;          /* Bleu-noir profond pour l'autorité conceptuelle */
-  --text-color-main: #2c3e50;      /* Gris foncé doux pour éviter la fatigue visuelle */
-  --text-color-muted: #7f8c8d;     /* Pour les éléments secondaires */
-  --bg-sidebar: #f8f9fa;           /* Fond de sidebar légèrement grisé, très propre */
-  --border-color: #eef2f5;         /* Lignes de séparation subtiles */
-  --accent-color: #3498db;         /* Couleur d'accentuation discrète (liens) */
-  
-  /* Typographie */
+  /* ================================
+     PALETTE PRINCIPALE
+     ================================ */
+  --theme-color: #1a2a3a;
+  --text-color-main: #2c3e50;
+  --text-color-muted: #7f8c8d;
+  --bg-sidebar: #f8f9fa;
+  --border-color: #eef2f5;
+  --accent-color: #3498db;
+
+  /* ================================
+     RÉGIMES (SÉMANTIQUE PROTOKIN)
+     ================================ */
+  --regime-physique: #3498db;
+  --regime-cognitif: #9b59b6;
+  --regime-biologique: #2ecc71;
+  --regime-normatif: #e67e22;
+  --regime-meta: #e74c3c;
+
+  /* ================================
+     TYPOGRAPHIE
+     ================================ */
   --font-global: 'Noto Serif', Georgia, serif;
   --font-interface: 'Noto Sans', -apple-system, BlinkMacSystemFont, sans-serif;
-  
-  /* Structure */
+
+  /* ================================
+     STRUCTURE
+     ================================ */
   --base-font-size: 16px;
-  --content-max-width: 800px;      /* Largeur idéale pour le confort de lecture (CPL) */
+  --content-max-width: 800px;
 }
 
-/* --- Fondations & Lisibilité --- */
+/* ==========================================================================
+   BASE
+   ========================================================================== */
+
 body {
   font-family: var(--font-global);
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   color: var(--text-color-main);
   font-size: var(--base-font-size);
-  line-height: 1.75;               /* Respiration du texte philosophique */
+  line-height: 1.75;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #ffffff;
 }
 
-/* --- Interface Docsify & Navigation --- */
-.sidebar, 
-.search, 
-.sidebar-nav b, 
-.anchor span,
-.search input,
-.pagination-item {
-  font-family: var(--font-interface) !important;
+/* ==========================================================================
+   TYPOGRAPHIE ÉPISTÉMIQUE
+   ========================================================================== */
+
+h1, h2, h3, h4 {
+  font-family: var(--font-interface);
+  color: var(--theme-color);
+  font-weight: 700;
+  letter-spacing: -0.02em;
 }
 
-/* Sidebar (Barre latérale) */
+h1 {
+  font-size: 2.4em;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+}
+
+h2 {
+  font-size: 1.65em;
+  margin-top: 2.5rem;
+  position: relative;
+  padding-left: 10px;
+}
+
+h2::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.2em;
+  height: 1.2em;
+  width: 3px;
+  background: var(--theme-color);
+  opacity: 0.7;
+}
+
+h3 {
+  font-size: 1.3em;
+  margin-top: 2rem;
+}
+
+/* ==========================================================================
+   STRUCTURE DOCSIFY
+   ========================================================================== */
+
+.content {
+  max-width: var(--content-max-width) !important;
+  padding-top: 40px !important;
+}
+
+/* ==========================================================================
+   SIDEBAR (HIÉRARCHIE COGNITIVE)
+   ========================================================================== */
+
 .sidebar {
   background-color: var(--bg-sidebar);
   border-right: 1px solid var(--border-color);
+  font-family: var(--font-interface);
 }
 
 .sidebar-nav li a {
   font-size: 14.5px;
   color: #555;
-  transition: color 0.2s ease;
+  transition: all 0.2s ease;
 }
 
 .sidebar-nav li a:hover {
   color: var(--theme-color);
-  text-decoration: none;
+  transform: translateX(2px);
 }
 
-/* Indication de la page active dans la sidebar */
+/* actif */
 .sidebar-nav li.active > a {
   color: var(--theme-color) !important;
   font-weight: 600;
   border-right: 2px solid var(--theme-color);
 }
 
-/* Barre de recherche */
+/* niveaux imbriqués */
+.sidebar-nav ul ul li a {
+  font-weight: 400;
+  color: #666;
+  padding-left: 10px;
+}
+
+.sidebar-nav ul ul ul li a {
+  font-size: 13px;
+  opacity: 0.85;
+}
+
+/* ==========================================================================
+   RECHERCHE
+   ========================================================================== */
+
 .search input {
   background: #fff !important;
   border: 1px solid #e0e6ed !important;
@@ -78,25 +155,10 @@ body {
   border-color: var(--accent-color) !important;
 }
 
-/* --- Zone de Contenu (Main) --- */
-.content {
-  max-width: var(--content-max-width) !important;
-  padding-top: 40px !important;
-}
+/* ==========================================================================
+   LIENS
+   ========================================================================== */
 
-/* Titres */
-h1, h2, h3, h4 {
-  font-family: var(--font-interface);
-  color: var(--theme-color);
-  font-weight: 700;
-  letter-spacing: -0.02em;
-}
-
-h1 { font-size: 2.2em; margin-bottom: 1.5rem; }
-h2 { font-size: 1.65em; margin-top: 2.5rem; border-bottom: none !important; }
-h3 { font-size: 1.3em; margin-top: 2rem; }
-
-/* Liens hypertextes dans le texte */
 article a:not(.anchor) {
   color: var(--accent-color);
   text-decoration: none;
@@ -109,7 +171,11 @@ article a:not(.anchor):hover {
   border-bottom-color: var(--theme-color);
 }
 
-/* --- Blocs de Citations / Définitions (Idéal pour l'Ontologie) --- */
+/* ==========================================================================
+   BLOCS CONCEPTUELS PROTOKIN
+   ========================================================================== */
+
+/* citations / définitions */
 article blockquote {
   border-left: 4px solid var(--theme-color);
   background-color: #fcfdfe;
@@ -120,10 +186,50 @@ article blockquote {
   border-radius: 0 6px 6px 0;
 }
 
-/* --- Mathématiques (KaTeX) --- */
+/* code */
+code {
+  font-family: 'Fira Code', monospace;
+  font-size: 0.95em;
+}
+
+pre code {
+  background: #f6f8fa;
+  border-left: 3px solid var(--accent-color);
+  padding: 12px;
+  display: block;
+}
+
+/* ==========================================================================
+   BLOCS SÉMANTIQUES PROTOKIN
+   ========================================================================== */
+
+.tension {
+  border-left: 4px solid #e74c3c;
+  background: #fff5f5;
+  padding: 12px 15px;
+  margin: 1em 0;
+}
+
+.transition {
+  border-left: 4px solid #2ecc71;
+  background: #f4fff7;
+  padding: 12px 15px;
+  margin: 1em 0;
+}
+
+.regime {
+  border-left: 4px solid var(--regime-cognitif);
+  background: #f8f7ff;
+  padding: 12px 15px;
+  margin: 1em 0;
+}
+
+/* ==========================================================================
+   MATH (KATEX)
+   ========================================================================== */
+
 .katex-display {
   overflow-x: auto;
-  overflow-y: hidden;
   padding: 15px 0;
   margin: 1.5em 0;
   background: #fafbfc;
@@ -131,7 +237,10 @@ article blockquote {
   border: 1px solid var(--border-color);
 }
 
-/* --- Loader Écran d'accueil --- */
+/* ==========================================================================
+   LOADER
+   ========================================================================== */
+
 #app {
   font-family: var(--font-interface);
   text-align: center;
@@ -148,14 +257,16 @@ article blockquote {
   100% { opacity: 0.5; }
 }
 
-/* --- Composants Spécifiques PROTOKIN (Sidebar Header) --- */
+/* ==========================================================================
+   HEADER PROTOKIN
+   ========================================================================== */
+
 .protokin-logo-title {
   font-family: var(--font-interface);
   font-weight: 700;
   letter-spacing: 4px;
   font-size: 1.3em;
   color: var(--theme-color);
-  padding-top: 10px;
 }
 
 .protokin-logo-subtitle {
@@ -167,11 +278,34 @@ article blockquote {
   color: var(--text-color-muted);
 }
 
-/* --- Responsive (Mobile) --- */
+/* ==========================================================================
+   VISUAL SEPARATION
+   ========================================================================== */
+
+hr {
+  border: none;
+  border-top: 1px solid #f0f2f5;
+  margin: 2.5em 0;
+}
+
+/* ==========================================================================
+   FOCUS UX
+   ========================================================================== */
+
+a:focus {
+  outline: 2px solid var(--accent-color);
+  outline-offset: 3px;
+}
+
+/* ==========================================================================
+   MOBILE
+   ========================================================================== */
+
 @media screen and (max-width: 768px) {
   :root {
     --base-font-size: 15px;
   }
+
   .content {
     padding: 20px 15px !important;
   }
