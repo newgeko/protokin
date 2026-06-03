@@ -1,6 +1,6 @@
 # ⚡ Tensions Inter-Régimes
 
-## Statut du document
+## 🧭 Statut du document
 
 Ce document ne décrit pas des contradictions entre les régimes de couplage de Protokin cOS.
 
