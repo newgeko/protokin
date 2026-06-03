@@ -21,6 +21,26 @@
 
 ---
 
+## 1.bis. Ancrages Théoriques & Ressources d'Audit
+
+Ce régime d'observation est armé, délimité et audité à l'aide des contributions théoriques suivantes (références internes au carnet) :
+
+### 📚 Opérateurs / Stabilisateurs de Référence
+- **{Nom de l'Auteur 1} (`references/{nom_fichier}.md`) :**
+  - *Statut dans ce régime :* {Stabilisateur de régime / Frontière inter-régime / Générateur de tension}
+  - *Apport opératoire :* {Spécifier ce que la source permet de stabiliser sémantiquement. Ex: Formalise le scorekeeping déontique pour P13 / le FEP pour P5.}
+  - *Indice de tension associé :* {Ex: Engendre une tension normative T4 si étendu indûment vers le causal.}
+
+- **{Nom de l'Auteur 2} (`references/{nom_fichier}.md`) :**
+  - *Statut dans ce régime :* {...}
+  - *Apport opératoire :* {...}
+  - *Indice de tension associé :* {...}
+
+### 🛡 Garde-fous Épistémologiques Issus des Sources
+- **{Auteur Critique / ex: Bouveresse ou Vuillemin} :** {Spécifier comment les concepts de cet auteur interdisent une dérive descriptive ou une extension abusive au sein de ce pilier particulier (ex: l'anti-littérarisme ou l'anti-éclectisme).}
+
+---
+
 ## 2. Invariants opératoires
 
 Liste des stabilités capturées par ce régime :
