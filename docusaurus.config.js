@@ -7,10 +7,10 @@ const config = {
   tagline: 'Architecture des conditions de stabilisation des descriptions',
   favicon: 'img/favicon.ico',
 
-  url: 'https://YOUR_USERNAME.github.io',
+  url: 'https://newgeko.github.io',
   baseUrl: '/protokin-cos-site/',
 
-  organizationName: 'YOUR_USERNAME',
+  organizationName: 'newgekko',
   projectName: 'protokin-cos-site',
 
   onBrokenLinks: 'throw',
