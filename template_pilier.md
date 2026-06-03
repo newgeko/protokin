@@ -1,6 +1,3 @@
-
-📄 TEMPLATE PILIER — PROTOKIN
-
 # P{N} — {Nom du pilier}
 
 ## 0. Identification
