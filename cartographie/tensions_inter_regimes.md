@@ -18,7 +18,7 @@ Les tensions constituent une source potentielle de transition entre régimes.
 
 ---
 
-# Principe général
+# ⚙️ Principe général
 
 Aucun régime ne possède de privilège ontologique.
 
@@ -29,6 +29,108 @@ Les tensions apparaissent lorsque :
 - un régime tente d'expliquer un invariant relevant d'un autre régime ;
 - un invariant change de statut lors d'un changement de régime ;
 - deux régimes stabilisent différemment une même situation.
+
+---
+
+# 🧠 Fonction épistémologique des tensions
+
+Les tensions ne décrivent pas des erreurs du réel, ni des contradictions ontologiques entre objets du monde.
+
+Elles décrivent des **effets de bord épistémiques** produits par la coexistence de régimes de couplage distincts lorsqu’ils sont mobilisés pour stabiliser une même situation.
+
+Autrement dit, une tension n’indique pas que “le monde ne fonctionne pas correctement”, mais que **les conditions de description ne sont pas homogènes**.
+
+---
+
+## Principe général
+
+Chaque tension correspond à la détection d’une forme spécifique de désalignement entre :
+
+- les invariants sélectionnés par les régimes ;
+- les critères de validité utilisés ;
+- les niveaux de description mobilisés ;
+- les modes de stabilisation attendus.
+
+---
+
+## Cartographie fonctionnelle des tensions
+
+Les tensions peuvent être interprétées comme des opérateurs d’alerte épistémologique.
+
+Elles signalent différentes formes de fragilité descriptive.
+
+| Tension | Fonction épistémologique |
+|----------|--------------------------|
+| T1 — Réduction | Détection du réductionnisme inter-régimes |
+| T2 — Traduction | Détection des incommensurabilités partielles |
+| T3 — Échelle | Détection des ruptures de granularité descriptive |
+| T4 — Normative | Détection des confusions entre causes et raisons |
+| T5 — Rupture | Détection des sauts conceptuels non médiés |
+| T6 — Rétroprojection | Détection des anachronismes conceptuels |
+| T7 — Collapsus méta-langagier | Détection des fusions artificielles de régimes |
+| T8 — Auto-inclusion | Détection des circularités non auditables |
+| T9 — Saturation descriptive | Détection des limites de compressibilité interne |
+| T10 — Dérive inter-temporelle | Détection des glissements progressifs d’invariants |
+| T11 — Compression multi-régime | Détection des surcharges descriptives non hiérarchisées |
+
+---
+
+## Statut des fonctions
+
+Ces fonctions ne doivent pas être interprétées comme des causalités.
+
+Une tension ne produit pas directement la situation qu’elle décrit.
+
+Elle indique seulement qu’un certain type de désalignement est observable entre régimes.
+
+---
+
+## Fonction d’audit
+
+Dans une procédure d’audit Protokin, les tensions jouent trois rôles principaux :
+
+### 1. Localisation des désalignements
+
+Elles permettent d’identifier où les régimes divergent dans leur manière de stabiliser une situation.
+
+---
+
+### 2. Qualification des incompatibilités
+
+Elles permettent de distinguer :
+
+- les conflits de niveau ;
+- les conflits de langage ;
+- les conflits de critères ;
+- les conflits de stabilité.
+
+---
+
+### 3. Guidage des transitions
+
+Elles peuvent indiquer des zones où une transition de cadre devient pertinente, sans jamais la déterminer.
+
+---
+
+## Principe de non-ontologisation
+
+Les tensions ne doivent pas être interprétées comme des propriétés du réel.
+
+Elles sont des propriétés :
+
+- des modèles utilisés ;
+- des cadres d’observation ;
+- des opérations de description.
+
+---
+
+## Principe final
+
+> Les tensions ne décrivent pas ce que le monde “est”.
+
+> Elles décrivent comment plusieurs régimes de description échouent à stabiliser de manière homogène une même situation.
+
+> Elles constituent la cartographie des limites internes de la pluralité descriptive.
 
 ---
 
@@ -1100,104 +1202,3 @@ Principe final
 
 ---
 
-# Fonction épistémologique des tensions
-
-Les tensions ne décrivent pas des erreurs du réel, ni des contradictions ontologiques entre objets du monde.
-
-Elles décrivent des **effets de bord épistémiques** produits par la coexistence de régimes de couplage distincts lorsqu’ils sont mobilisés pour stabiliser une même situation.
-
-Autrement dit, une tension n’indique pas que “le monde ne fonctionne pas correctement”, mais que **les conditions de description ne sont pas homogènes**.
-
----
-
-## Principe général
-
-Chaque tension correspond à la détection d’une forme spécifique de désalignement entre :
-
-- les invariants sélectionnés par les régimes ;
-- les critères de validité utilisés ;
-- les niveaux de description mobilisés ;
-- les modes de stabilisation attendus.
-
----
-
-## Cartographie fonctionnelle des tensions
-
-Les tensions peuvent être interprétées comme des opérateurs d’alerte épistémologique.
-
-Elles signalent différentes formes de fragilité descriptive.
-
-| Tension | Fonction épistémologique |
-|----------|--------------------------|
-| T1 — Réduction | Détection du réductionnisme inter-régimes |
-| T2 — Traduction | Détection des incommensurabilités partielles |
-| T3 — Échelle | Détection des ruptures de granularité descriptive |
-| T4 — Normative | Détection des confusions entre causes et raisons |
-| T5 — Rupture | Détection des sauts conceptuels non médiés |
-| T6 — Rétroprojection | Détection des anachronismes conceptuels |
-| T7 — Collapsus méta-langagier | Détection des fusions artificielles de régimes |
-| T8 — Auto-inclusion | Détection des circularités non auditables |
-| T9 — Saturation descriptive | Détection des limites de compressibilité interne |
-| T10 — Dérive inter-temporelle | Détection des glissements progressifs d’invariants |
-| T11 — Compression multi-régime | Détection des surcharges descriptives non hiérarchisées |
-
----
-
-## Statut des fonctions
-
-Ces fonctions ne doivent pas être interprétées comme des causalités.
-
-Une tension ne produit pas directement la situation qu’elle décrit.
-
-Elle indique seulement qu’un certain type de désalignement est observable entre régimes.
-
----
-
-## Fonction d’audit
-
-Dans une procédure d’audit Protokin, les tensions jouent trois rôles principaux :
-
-### 1. Localisation des désalignements
-
-Elles permettent d’identifier où les régimes divergent dans leur manière de stabiliser une situation.
-
----
-
-### 2. Qualification des incompatibilités
-
-Elles permettent de distinguer :
-
-- les conflits de niveau ;
-- les conflits de langage ;
-- les conflits de critères ;
-- les conflits de stabilité.
-
----
-
-### 3. Guidage des transitions
-
-Elles peuvent indiquer des zones où une transition de cadre devient pertinente, sans jamais la déterminer.
-
----
-
-## Principe de non-ontologisation
-
-Les tensions ne doivent pas être interprétées comme des propriétés du réel.
-
-Elles sont des propriétés :
-
-- des modèles utilisés ;
-- des cadres d’observation ;
-- des opérations de description.
-
----
-
-## Principe final
-
-> Les tensions ne décrivent pas ce que le monde “est”.
-
-> Elles décrivent comment plusieurs régimes de description échouent à stabiliser de manière homogène une même situation.
-
-> Elles constituent la cartographie des limites internes de la pluralité descriptive.
-
----
