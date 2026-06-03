@@ -1,7 +1,7 @@
 # ⚡ Protokin
 ### Architecture d’audit des conditions de stabilisation des descriptions
 
-Protokin cOS n’est ni une ontologie globale, ni une théorie unifiée du réel, ni un modèle explicatif totalisant.
+Protokin n’est ni une ontologie globale, ni une théorie unifiée du réel, ni un modèle explicatif totalisant.
 
 Il constitue une **architecture d’audit non-hiérarchique des conditions de stabilisation des descriptions**, opérant à un niveau réflexif : il n’analyse pas le monde directement, mais les conditions sous lesquelles des cadres d’observation produisent des invariants stables.
 
@@ -211,16 +211,37 @@ Les transitions sont :
 Les régimes et tensions sont ouverts et révisables.
 
 ### G2 — Dissociation tension / erreur
-Une tension n’est jamais une anomalie.
+Une tension n’est jamais une anomalie, une incohérence ou une défaillance du réel. Elle constitue un opérateur d’audit.
 
 ### G3 — Non-hiérarchisation
-Aucun régime ni tension n’est supérieur à un autre.
+Aucun régime ni aucune tension ne possède de priorité ontologique ou épistémologique.
 
 ### G4 — Localité stricte
-Toute tension est relative à une configuration d’audit.
+Toute tension n’existe que relativement à une configuration d’audit donnée et aux régimes qu’elle met en relation.
 
 ### G5 — Anti-collapsus conceptuel
-Interdiction de fusionner ou hiérarchiser implicitement des régimes.
+Il est interdit de fusionner, réduire ou unifier implicitement des régimes distincts en un cadre explicatif unique.
+
+### G6 — Invariance des régimes
+Les tensions n’altèrent ni la définition, ni les propriétés internes, ni le statut des régimes de couplage.
+
+### G7 — Absence de générativité transitionnelle
+Une tension ne produit pas de transition et ne détermine ni sa nécessité ni sa possibilité.
+
+### G8 — Non-détermination des transitions
+Les transitions ne sont ni déductibles, ni causalement induites, ni structurellement impliquées par les tensions.
+
+### G9 — Réversibilité descriptive
+Toute tension peut être reconstruite depuis plusieurs régimes sans perte de validité locale de description.
+
+### G10 — Primauté de l’audit
+Les tensions sont des outils de diagnostic des conditions de stabilisation, et non des mécanismes explicatifs du changement.
+
+### G11 — Dissociation tension / dynamique
+Une tension ne définit ni direction, ni temporalité, ni trajectoire de transition entre régimes.
+
+### G12 — Historicité et révisabilité du cadre
+Les régimes, tensions et garde-fous constituent un ensemble évolutif, susceptible de révision sans altération du cadre général de Protokin.
 
 ---
 
@@ -245,6 +266,6 @@ Décrire les limites de stabilisation et zones de reconfiguration possibles.
 
 ## ⚡ Statut final
 
-Protokin cOS ne décrit pas ce que le monde est.
+Protokin ne décrit pas ce que le monde est.
 
 Il décrit **comment des mondes descriptifs deviennent possibles, stables, et parfois incompatibles entre eux**.
