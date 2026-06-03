@@ -1,20 +1,20 @@
 /* ==========================================================================
-   PROTOKIN — MATRICE GRAPHIQUE (SYSTÈME DE DESIGN ÉPISTÉMIQUE)
+   PROTOKIN — MATRICE GRAPHIQUE (SYSTEME ÉPISTÉMIQUE)
+   VERSION STABILISÉE (DOCSIFY FULL PAGE)
    ========================================================================== */
 
 :root {
   /* ================================
-     PALETTE PRINCIPALE
+     PALETTE
      ================================ */
   --theme-color: #1a2a3a;
   --text-color-main: #2c3e50;
   --text-color-muted: #7f8c8d;
-  --bg-sidebar: #f8f9fa;
   --border-color: #eef2f5;
   --accent-color: #3498db;
 
   /* ================================
-     RÉGIMES (SÉMANTIQUE PROTOKIN)
+     REGIMES
      ================================ */
   --regime-physique: #3498db;
   --regime-cognitif: #9b59b6;
@@ -28,15 +28,56 @@
   --font-global: 'Noto Serif', Georgia, serif;
   --font-interface: 'Noto Sans', -apple-system, BlinkMacSystemFont, sans-serif;
 
-  /* ================================
-     STRUCTURE
-     ================================ */
   --base-font-size: 16px;
-  --content-max-width: 800px;
+  --content-max-width: 850px;
 }
 
 /* ==========================================================================
-   BASE
+   RESET DOCSIFY (CRUCIAL)
+   ========================================================================== */
+
+/* supprime layout sidebar docsify */
+.sidebar {
+  display: none !important;
+  width: 0 !important;
+  overflow: hidden !important;
+}
+
+/* supprime nav haut */
+.app-nav {
+  display: none !important;
+}
+
+/* supprime zone search injectée */
+.search {
+  display: none !important;
+}
+
+/* force layout sans colonne */
+body {
+  display: block !important;
+  overflow-x: hidden !important;
+  background: #fff;
+}
+
+/* supprime offset layout docsify */
+.content {
+  left: 0 !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 100% !important;
+  max-width: var(--content-max-width) !important;
+  padding: 60px 40px !important;
+}
+
+/* wrapper docsify */
+.markdown-section {
+  max-width: var(--content-max-width) !important;
+  margin: 0 auto !important;
+}
+
+/* ==========================================================================
+   BASE TYPOGRAPHIE
    ========================================================================== */
 
 body {
@@ -46,11 +87,10 @@ body {
   line-height: 1.75;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #ffffff;
 }
 
 /* ==========================================================================
-   TYPOGRAPHIE ÉPISTÉMIQUE
+   TITRES
    ========================================================================== */
 
 h1, h2, h3, h4 {
@@ -69,19 +109,8 @@ h1 {
 h2 {
   font-size: 1.65em;
   margin-top: 2.5rem;
-  position: relative;
   padding-left: 10px;
-}
-
-h2::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0.2em;
-  height: 1.2em;
-  width: 3px;
-  background: var(--theme-color);
-  opacity: 0.7;
+  border-left: 3px solid var(--theme-color);
 }
 
 h3 {
@@ -90,95 +119,48 @@ h3 {
 }
 
 /* ==========================================================================
-   STRUCTURE DOCSIFY
-   ========================================================================== */
-
-.content {
-  max-width: var(--content-max-width) !important;
-  padding-top: 40px !important;
-}
-
-
-/* ==========================================
-   PROTOKIN — MODE FULL PAGE (NO SIDEBAR)
-   ========================================== */
-
-/* supprime la sidebar */
-.sidebar {
-  display: none !important;
-}
-
-/* supprime le conteneur gauche */
-body.close .sidebar {
-  display: none !important;
-}
-
-/* force le contenu en pleine largeur */
-.content {
-  left: 0 !important;
-  margin-left: 0 !important;
-  max-width: 900px;
-  padding-left: 40px;
-  padding-right: 40px;
-}
-
-/* supprime l’espace réservé sidebar */
-.app-nav {
-  display: none !important;
-}
-
-/* supprime search box si injectée */
-.search {
-  display: none !important;
-}
-
-/* corrige wrapper Docsify */
-body {
-  overflow-x: hidden;
-}
-
-/* ==========================================================================
    LIENS
    ========================================================================== */
 
-article a:not(.anchor) {
+a {
   color: var(--accent-color);
   text-decoration: none;
-  border-bottom: 1px dashed rgba(52, 152, 219, 0.4);
-  transition: all 0.2s ease;
+  border-bottom: 1px dashed rgba(52,152,219,0.4);
 }
 
-article a:not(.anchor):hover {
+a:hover {
   color: var(--theme-color);
   border-bottom-color: var(--theme-color);
 }
 
 /* ==========================================================================
-   BLOCS CONCEPTUELS PROTOKIN
+   BLOCS CONCEPTUELS
    ========================================================================== */
 
-/* citations / définitions */
-article blockquote {
+blockquote {
   border-left: 4px solid var(--theme-color);
-  background-color: #fcfdfe;
-  color: #4a5a6a;
-  font-style: italic;
+  background: #fcfdfe;
   padding: 15px 20px;
   margin: 2em 0;
+  color: #4a5a6a;
+  font-style: italic;
   border-radius: 0 6px 6px 0;
 }
 
-/* code */
+/* ==========================================================================
+   CODE
+   ========================================================================== */
+
 code {
   font-family: 'Fira Code', monospace;
   font-size: 0.95em;
 }
 
-pre code {
+pre {
   background: #f6f8fa;
   border-left: 3px solid var(--accent-color);
   padding: 12px;
-  display: block;
+  overflow-x: auto;
 }
 
 /* ==========================================================================
@@ -186,14 +168,14 @@ pre code {
    ========================================================================== */
 
 .tension {
-  border-left: 4px solid #e74c3c;
+  border-left: 4px solid var(--regime-meta);
   background: #fff5f5;
   padding: 12px 15px;
   margin: 1em 0;
 }
 
 .transition {
-  border-left: 4px solid #2ecc71;
+  border-left: 4px solid var(--regime-biologique);
   background: #f4fff7;
   padding: 12px 15px;
   margin: 1em 0;
@@ -207,7 +189,7 @@ pre code {
 }
 
 /* ==========================================================================
-   MATH (KATEX)
+   MATH
    ========================================================================== */
 
 .katex-display {
@@ -245,7 +227,7 @@ pre code {
 
 .protokin-logo-title {
   font-family: var(--font-interface);
-  font-weight: 700;
+  font-weight: 800;
   letter-spacing: 4px;
   font-size: 1.3em;
   color: var(--theme-color);
@@ -253,15 +235,14 @@ pre code {
 
 .protokin-logo-subtitle {
   font-family: var(--font-interface);
-  font-size: 0.6em;
+  font-size: 0.65em;
   font-weight: 600;
   letter-spacing: 1.5px;
-  margin-top: 6px;
   color: var(--text-color-muted);
 }
 
 /* ==========================================================================
-   VISUAL SEPARATION
+   HR
    ========================================================================== */
 
 hr {
@@ -271,7 +252,7 @@ hr {
 }
 
 /* ==========================================================================
-   FOCUS UX
+   ACCESSIBILITÉ
    ========================================================================== */
 
 a:focus {
@@ -289,6 +270,6 @@ a:focus {
   }
 
   .content {
-    padding: 20px 15px !important;
+    padding: 25px 15px !important;
   }
 }
