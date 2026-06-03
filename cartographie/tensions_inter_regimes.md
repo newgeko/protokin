@@ -196,7 +196,7 @@ Les régimes peuvent être **révisés, recontextualisés ou enrichis** sans mod
 
 ---
 
-# Typologie des tensions
+# ⚡ Typologie des tensions
 
 ## T1 — Tension de réduction
 
@@ -490,7 +490,7 @@ Ils définissent uniquement ce qu’il n’est pas possible d’en faire sans so
 
 ---
 
-# Cartographie des tensions majeures
+# 📊 Cartographie des tensions majeures
 
 ## P1 ↔ P2
 
@@ -756,7 +756,7 @@ Comment une valeur devient-elle une norme ?
 
 ---
 
-# Graphe simplifié des tensions
+# 🕸️ Graphe simplifié des tensions
 
 ```mermaid
 graph LR
@@ -863,7 +863,7 @@ Une même situation peut mobiliser simultanément plusieurs familles de tensions
 
 ---
 
-# Relation entre tensions et transitions
+# 🔄 Relation entre tensions et transitions
 
 Les tensions et les transitions appartiennent à deux niveaux distincts de l'architecture Protokin.
 
@@ -927,7 +927,7 @@ Principe fondamental
 
 ---
 
-# Procédure d'audit des tensions
+# 🧪 Procédure d'audit des tensions
 
 L'identification d'une tension constitue une opération d'audit et non une opération explicative.
 
@@ -1008,7 +1008,7 @@ Il produit une cartographie locale des conditions de stabilisation observées da
 
 ---
 
-Distinction entre tensions structurelles et tensions d’usage
+# 🧷 Distinction entre tensions structurelles et tensions d’usage
 
 Toutes les tensions n’ont pas le même statut au sein de Protokin cOS.
 
@@ -1023,7 +1023,7 @@ Cette distinction permet de différencier :
 
 ---
 
-Tensions structurelles
+## Tensions structurelles
 
 Les tensions structurelles résultent de la coexistence de régimes possédant :
 
@@ -1080,7 +1080,7 @@ Elles permettent de cartographier :
 
 ---
 
-Tensions d’usage
+## Tensions d’usage
 
 Les tensions d’usage apparaissent lorsqu’un observateur mobilise les régimes d’une manière susceptible de produire des difficultés supplémentaires.
 
