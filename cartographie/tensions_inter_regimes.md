@@ -696,7 +696,7 @@ P14 examine leur cohérence architectonique.
 
 ---
 
-# Zones de rupture critiques
+# ⚠️ Zones de rupture critiques
 
 Les zones suivantes doivent être surveillées dans tout audit Protokin.
 
