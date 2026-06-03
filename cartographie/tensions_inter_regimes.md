@@ -681,22 +681,421 @@ P12 -. médiation nécessaire .-> P13
 
 ---
 
-# Fonction du document
+# Familles de tensions
 
-Ce document sert à :
+Les onze tensions ne constituent pas une liste arbitraire.
 
-- détecter les glissements réductionnistes ;
-- identifier les zones nécessitant une transition ;
-- préserver l'autonomie des régimes ;
-- documenter les incompatibilités locales ;
-- guider les audits de viabilité conceptuelle.
+Elles peuvent être regroupées en familles fonctionnelles correspondant à différents types de divergences descriptives.
 
 ---
 
-# Principe final
+Famille A — Tensions de frontière inter-régimes
 
-> Une tension n'est pas un défaut du système.
+Cette famille concerne les situations où deux régimes tentent de stabiliser une même situation à partir de critères différents.
 
-> Une tension est l'indice qu'au moins deux régimes stabilisent différemment une même situation.
+Elle comprend :
 
-> Les tensions constituent la géographie vivante de Protokin.
+- T1 — Réduction
+- T2 — Traduction
+- T3 — Échelle
+- T4 — Normative
+- T5 — Rupture
+
+Fonction
+
+Détecter les incompatibilités descriptives entre régimes distincts.
+
+Question centrale
+
+«Les deux régimes décrivent-ils réellement la même chose ?»
+
+---
+
+Famille B — Tensions réflexives
+
+Cette famille concerne les situations où un régime tente de se prendre lui-même pour objet ou de reconstruire les autres régimes depuis son propre point de vue.
+
+Elle comprend :
+
+- T6 — Rétroprojection
+- T7 — Collapsus méta-langagier
+- T8 — Auto-inclusion
+
+Fonction
+
+Détecter les dérives réflexives et les erreurs de niveau logique.
+
+Question centrale
+
+«Le régime respecte-t-il les conditions de sa propre utilisation ?»
+
+---
+
+Famille C — Tensions dynamiques
+
+Cette famille concerne les limites internes d'un régime au cours de son activité descriptive.
+
+Elle comprend :
+
+- T9 — Saturation descriptive
+- T10 — Dérive inter-temporelle
+- T11 — Compression multi-régime
+
+Fonction
+
+Détecter les situations où une stabilisation devient difficile ou instable.
+
+Question centrale
+
+«Le régime conserve-t-il sa capacité de stabilisation ?»
+
+---
+
+Statut des familles
+
+Les familles ne constituent pas une hiérarchie.
+
+Elles servent uniquement à faciliter l'analyse des configurations de tension observées lors d'un audit.
+
+Une même situation peut mobiliser simultanément plusieurs familles de tensions.
+
+---
+
+# Relation entre tensions et transitions
+
+Les tensions et les transitions appartiennent à deux niveaux distincts de l'architecture Protokin.
+
+---
+
+Les tensions
+
+Les tensions sont des opérateurs de diagnostic.
+
+Elles identifient :
+
+- des incompatibilités locales ;
+- des divergences descriptives ;
+- des difficultés de traduction ;
+- des limites de stabilisation.
+
+Une tension ne produit aucun changement par elle-même.
+
+---
+
+Les transitions
+
+Les transitions sont des opérateurs de reconfiguration descriptive.
+
+Elles correspondent au déplacement d'un cadre de stabilisation vers un autre.
+
+---
+
+Principe de non-détermination
+
+Une tension n'implique jamais une transition.
+
+Une transition peut se produire :
+
+- sans tension explicite ;
+- malgré une tension persistante ;
+- après disparition d'une tension ;
+- en réponse à plusieurs tensions simultanées.
+
+---
+
+Fonction des tensions dans les transitions
+
+Les tensions peuvent néanmoins jouer un rôle de signal.
+
+Elles indiquent qu'un régime :
+
+- rencontre une limite locale ;
+- perd une partie de son pouvoir descriptif ;
+- entre en conflit avec un autre régime.
+
+Dans ce contexte, elles peuvent contribuer à rendre une transition pertinente.
+
+---
+
+Principe fondamental
+
+«Les tensions indiquent où une transition pourrait devenir utile.»
+
+«Elles ne déterminent jamais qu'une transition doit avoir lieu.»
+
+---
+
+# Procédure d'audit des tensions
+
+L'identification d'une tension constitue une opération d'audit et non une opération explicative.
+
+L'objectif n'est pas de déterminer quel régime a raison.
+
+L'objectif est de cartographier les conditions de stabilisation en présence.
+
+---
+
+Étape 1 — Identification des régimes
+
+Déterminer quels régimes sont mobilisés dans la situation étudiée.
+
+Questions :
+
+- Quels invariants sont sélectionnés ?
+- Quels critères de validité sont utilisés ?
+- Quel type de stabilisation est recherché ?
+
+---
+
+Étape 2 — Localisation des divergences
+
+Identifier les points où les régimes produisent des descriptions différentes.
+
+Questions :
+
+- Les objets décrits sont-ils identiques ?
+- Les niveaux d'analyse sont-ils compatibles ?
+- Les critères de validation sont-ils comparables ?
+
+---
+
+Étape 3 — Classification de la tension
+
+Associer la divergence observée à une ou plusieurs tensions de la typologie.
+
+Questions :
+
+- S'agit-il d'une réduction ?
+- D'une rupture ?
+- D'une difficulté de traduction ?
+- D'une saturation ?
+- D'une compression multi-régime ?
+
+---
+
+Étape 4 — Évaluation de la stabilité
+
+Évaluer si la tension compromet ou non la stabilité descriptive locale.
+
+Questions :
+
+- Les régimes restent-ils utilisables ?
+- Une médiation est-elle possible ?
+- Une transition est-elle envisageable ?
+
+---
+
+Étape 5 — Documentation
+
+Documenter la configuration observée.
+
+Le résultat d'un audit doit préciser :
+
+- les régimes impliqués ;
+- les tensions identifiées ;
+- les limites constatées ;
+- les éventuelles zones de transition.
+
+---
+
+Statut de l'audit
+
+L'audit ne produit pas une vérité finale.
+
+Il produit une cartographie locale des conditions de stabilisation observées dans une situation donnée.
+
+---
+
+Distinction entre tensions structurelles et tensions d’usage
+
+Toutes les tensions n’ont pas le même statut au sein de Protokin cOS.
+
+Certaines tensions résultent directement de la coexistence de plusieurs régimes de couplage.
+
+D’autres apparaissent principalement à travers les pratiques descriptives des observateurs lorsqu’ils articulent, traduisent ou manipulent ces régimes.
+
+Cette distinction permet de différencier :
+
+- les tensions liées à l’architecture des régimes eux-mêmes ;
+- les tensions liées aux conditions d’utilisation des régimes.
+
+---
+
+Tensions structurelles
+
+Les tensions structurelles résultent de la coexistence de régimes possédant :
+
+- des invariants distincts ;
+- des critères de validité différents ;
+- des conditions de stabilisation hétérogènes.
+
+Elles apparaissent indépendamment des intentions ou des erreurs des observateurs.
+
+Elles sont inhérentes à la pluralité descriptive reconnue par Protokin.
+
+---
+
+Tensions principalement structurelles
+
+Cette catégorie comprend principalement :
+
+- T1 — Tension de réduction
+- T2 — Tension de traduction
+- T3 — Tension d’échelle
+- T4 — Tension normative
+- T5 — Tension de rupture
+
+---
+
+Exemple
+
+La tension entre :
+
+P10 → Couplage structurel
+P11 → Espace des raisons
+
+n’est pas produite par une erreur d’interprétation.
+
+Elle résulte du fait que les deux régimes sélectionnent des types d’invariants différents :
+
+- causes ;
+- raisons.
+
+Même si les deux régimes sont correctement mobilisés, la tension demeure.
+
+---
+
+Fonction
+
+Les tensions structurelles signalent les limites de compatibilité entre régimes.
+
+Elles permettent de cartographier :
+
+- les zones de traduction ;
+- les ruptures conceptuelles ;
+- les changements d’échelle ;
+- les discontinuités normatives.
+
+---
+
+Tensions d’usage
+
+Les tensions d’usage apparaissent lorsqu’un observateur mobilise les régimes d’une manière susceptible de produire des difficultés supplémentaires.
+
+Elles ne sont pas causées par l’existence des régimes eux-mêmes.
+
+Elles résultent de leur orchestration, de leur interprétation ou de leur articulation.
+
+---
+
+Tensions principalement liées à l’usage
+
+Cette catégorie comprend principalement :
+
+- T6 — Tension de rétroprojection
+- T7 — Tension de collapsus méta-langagier
+- T8 — Tension d’auto-inclusion
+
+et, dans de nombreux contextes :
+
+- T11 — Tension de compression multi-régime
+
+---
+
+Exemple
+
+Lorsque plusieurs régimes sont artificiellement fusionnés dans un langage unique :
+
+P2 + P5 + P11
+
+la tension observée ne provient pas directement des régimes.
+
+Elle provient de la décision descriptive consistant à effacer leurs différences de statut.
+
+La difficulté résulte ici d’un usage particulier des régimes.
+
+---
+
+Fonction
+
+Les tensions d’usage servent principalement à auditer :
+
+- les stratégies de description ;
+- les opérations de traduction ;
+- les reconstructions théoriques ;
+- les pratiques métathéoriques.
+
+Elles permettent de détecter les dérives interprétatives susceptibles de masquer les différences entre régimes.
+
+---
+
+Cas particulier des tensions dynamiques
+
+Certaines tensions ne relèvent ni exclusivement de la structure ni exclusivement de l’usage.
+
+Elles apparaissent lors de l’évolution temporelle d’un régime ou d’une configuration descriptive.
+
+Cette catégorie comprend principalement :
+
+- T9 — Tension de saturation descriptive
+- T10 — Tension de dérive inter-temporelle
+
+et parfois :
+
+- T11 — Tension de compression multi-régime
+
+---
+
+Statut
+
+Ces tensions sont dites dynamiques.
+
+Elles émergent lorsque les conditions de stabilisation se transforment au cours du temps.
+
+Elles signalent moins une incompatibilité entre régimes qu’une modification progressive de leur capacité descriptive.
+
+---
+
+Non-exclusivité de la distinction
+
+La distinction entre tensions structurelles et tensions d’usage ne constitue pas une classification rigide.
+
+Une même tension peut être interprétée différemment selon le contexte d’audit.
+
+Par exemple :
+
+- une tension de traduction (T2) peut être structurelle ;
+- mais elle peut être aggravée par un mauvais usage des régimes concernés.
+
+De même :
+
+- une compression multi-régime (T11) peut résulter d’une dérive d’usage ;
+- ou d’une évolution dynamique d’une situation devenue difficile à stabiliser.
+
+---
+
+Fonction de la distinction
+
+Cette distinction ne vise pas à classer les tensions selon leur importance.
+
+Elle vise à identifier l’origine principale de la difficulté observée :
+
+- architecture des régimes ;
+- pratique descriptive ;
+- dynamique de stabilisation.
+
+Elle fournit ainsi un niveau supplémentaire d’analyse pour les audits de viabilité conceptuelle.
+
+---
+
+Principe final
+
+«Certaines tensions existent parce que les régimes sont différents.»
+
+«Certaines tensions existent parce que les observateurs utilisent les régimes d’une certaine manière.»
+
+«Certaines tensions apparaissent parce que les conditions de stabilisation évoluent dans le temps.»
+
+«Distinguer ces trois sources permet d’éviter de confondre une limite architecturale, une dérive interprétative et une transformation dynamique.»
+
+---
