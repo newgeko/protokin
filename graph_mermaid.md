@@ -1,5 +1,6 @@
 
 ```mermaid
+
 flowchart TD
 
 %% =========================
@@ -99,3 +100,4 @@ A --> I[Synthèse]
 I --> I1[Opérateur / Régime / Interface]
 I --> I2[Effets multi-niveaux]
 I --> I3[Position dans l’architecture Protokin]
+```
