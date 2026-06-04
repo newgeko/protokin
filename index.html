@@ -81,14 +81,41 @@ window.$docsify = {
 
     function (hook) {
 
-      hook.afterEach(function (html) {
-        return html + `
-          <hr style="margin-top: 3rem; border: 0; border-top: 1px solid var(--border-color);"/>
-          <footer style="text-align:center; font-family:'Noto Sans', sans-serif; font-size:0.85em; padding:30px 0; color:#888;">
-            © 2026 PROTOKIN by Newgekko 
-          </footer>
-        `;
-      });
+hook.afterEach(function (html) {
+
+  const year = new Date().getFullYear();
+
+  const regimes = [
+    "Physico-dynamique",
+    "Cognitif",
+    "Biologique",
+    "Socio-développemental",
+    "Normatif",
+    "Métathéorique"
+  ];
+
+  const regime =
+    regimes[Math.floor(Math.random() * regimes.length)];
+
+  return html + `
+    <hr style="margin-top:3rem;border:0;border-top:1px solid var(--border-color);" />
+
+    <footer style="
+      text-align:center;
+      font-family:'Noto Sans',sans-serif;
+      font-size:0.85em;
+      padding:30px 0;
+      color:#888;
+      line-height:1.8;
+    ">
+      <div>© ${year} PROTOKIN by Newgekko</div>
+      <div>Régime actif : <strong>${regime}</strong></div>
+      <div>Matrice Isomorphique · Version Alpha</div>
+    </footer>
+  `;
+});
+
+
 
       hook.doneEach(function () {
 
