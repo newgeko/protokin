@@ -288,16 +288,3 @@ a:focus {
   margin: 0 auto !important;
   padding: 60px 40px !important;
 }
-
-#protokin-logo{
-  display:flex;
-  justify-content:center;
-  margin-top:20px;
-  margin-bottom:10px;
-}
-
-#protokin-logo svg{
-  stroke:#444;
-  fill:#444;
-  stroke-width:2;
-}
