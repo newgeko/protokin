@@ -1,7 +1,7 @@
 
 ```mermaid
 
-flowchart TD
+graph TD
 
 A["Nom du concept"]
 
