@@ -11,7 +11,7 @@
 - **Statut structurel :** {fondation / dérivé / frontière / opérateur / méta-opérateur}
 
 - **Niveau principal :** {Proto / Kin / hybride / transversal}        ← AJOUT STRUCTUREL
-- **Rôle structurel :** {central / périphérique / critique / transversal} ← AJOUT STRUCTUREL
+- **Centralité :** {faible / moyenne / forte / critique}
 
 ---
 
@@ -51,16 +51,16 @@
 
 ---
 
-## 4. Effets structurels (registre strict)
+## 4. Effets structurels
 
 ### 4.1 Registre causal (Proto)
-{description STRICTEMENT dynamique / adaptative / non-normative}
+- {entité} → {opération} → {effet}
 
 ### 4.2 Registre normatif (Kin)
-{description STRICTEMENT institutionnel / social / symbolique}
+- {entité} → {opération} → {effet}
 
-### 4.3 Registre interprétatif (Meta)
-{description STRICTEMENT émergent / modélisation / lecture}
+### Registre interprétatif (Meta)
+- {entité} → {opération} → {effet}
 
 ---
 
