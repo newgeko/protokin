@@ -51,28 +51,25 @@
 
 ---
 
-## 4. Effets structurels (séparation stricte obligatoire)
+## 4. Effets structurels (registre strict)
 
-### 4.1 Effets sur Proto (causal / adaptatif)
-{description uniquement causale}
+### 4.1 Registre causal (Proto)
+{description STRICTEMENT dynamique / adaptative / non-normative}
 
-### 4.2 Effets sur Kin (normatif / social / symbolique)
-{description normative ou discursive}
+### 4.2 Registre normatif (Kin)
+{description STRICTEMENT institutionnel / social / symbolique}
 
-### 4.3 Effets sur transitions (reconfiguration)
-{conditions de passage, blocage ou médiation}
-
-### 4.4 Effets sur tensions (désalignements produits ou absorbés)
-{types de tensions générées ou stabilisées}
+### 4.3 Registre interprétatif (Meta)
+{description STRICTEMENT émergent / modélisation / lecture}
 
 ---
 
-## 5. Rôle dans l’architecture (niveau systémique)
+## 5. Synthèse fonctionnelle (normalisée)
 
-- Stabilise : {éléments stabilisés}
-- Déstabilise : {éléments déstabilisés}
-- Rend possible : {émergences ou opérations}
-- Empêche : {structures interdites ou bloquées}
+- Stabilisation : {items}
+- Déstabilisation : {items}
+- Génération : {items}
+- Blocage : {items}
 
 ---
 
@@ -81,13 +78,13 @@
 - T{n} — {nom}
 - T{n} — {nom}
 
-### Typologie activée :
+### Type activé :
 
-☐ Tension d’échelle  
-☐ Tension de traduction  
+☐ normatif/causal 
+☐ échelle
 ☐ Tension normatif / causal  
-☐ Tension de collapsus (T7)  
-☐ Tension de compression (T11)
+☐ traduction
+☐ collapsus
 
 ---
 
