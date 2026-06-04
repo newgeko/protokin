@@ -10,14 +10,21 @@
   <meta name="author" content="PROTOKIN Project">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
+  <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;600;700&family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 
+  <!-- Docsify theme -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+
+  <!-- KaTeX -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css"/>
+
+  <!-- Custom CSS -->
   <link rel="stylesheet" href="./style.css">
 
+  <!-- Favicon -->
   <link rel="icon" type="image/png" href="./assets/favicon.png">
   <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-touch-icon.png">
 
@@ -26,107 +33,157 @@
 
 <body>
 
-<div id="app">Initialisation de la Matrice Isomorphique...</div>
+  <div id="app">Initialisation de la Matrice Isomorphique...</div>
 
-<!-- =========================
-     MERMAID (IMPORTANT)
-========================= -->
-<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+  <!-- =========================
+       MERMAID
+  ========================= -->
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+  <script>
+    mermaid.initialize({
+      startOnLoad: false,
+      theme: "default"
+    });
+  </script>
 
-<script>
-  mermaid.initialize({
-    startOnLoad: false,
-    theme: "default"
-  });
-</script>
+  <!-- =========================
+       DOCSIFY CONFIG
+  ========================= -->
+  <script>
+    window.$docsify = {
+      name: '<div class="protokin-logo-title">PROTOKIN</div><div class="protokin-logo-subtitle">PHYSIQUE & POLITIQUE DU GESTE</div>',
 
-<!-- =========================
-     DOCSIFY CONFIG
-========================= -->
-<script>
-window.$docsify = {
+      repo: '',
 
-  name: '<div class="protokin-logo-title">PROTOKIN</div><div class="protokin-logo-subtitle">PHYSIQUE & POLITIQUE DU GESTE</div>',
+      loadSidebar: false,
+      autoHeader: true,
+      subMaxLevel: 3,
+      auto2top: true,
 
-  repo: '',
+      homepage: 'index.md',
 
-  loadSidebar: false,
-  search: null,
-  autoHeader: true,
-  subMaxLevel: 3,
-  auto2top: true,
+      latex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      },
 
-  homepage: 'index.md',
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: 'Rechercher un concept (ontologie, individuation...)',
+        noData: 'Aucun concept trouvé.',
+        depth: 4
+      },
 
-  latex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']],
-    displayMath: [['$$', '$$'], ['\\[', '\\]']],
-  },
+      pagination: {
+        previousText: 'Phase Précédente',
+        nextText: 'Phase Suivante',
+        crossChapter: true
+      },
 
-  search: {
-    maxAge: 86400000,
-    paths: 'auto',
-    placeholder: 'Rechercher un concept (ontologie, individuation...)',
-    noData: 'Aucun concept trouvé.',
-    depth: 4
-  },
+      plugins: [
 
-  pagination: {
-    previousText: 'Phase Précédente',
-    nextText: 'Phase Suivante',
-    crossChapter: true
-  },
+        // =========================
+        // MERMAID RENDER
+        // =========================
+        function (hook) {
+          hook.doneEach(function () {
 
-  plugins: [
+            setTimeout(() => {
 
+              if (!window.mermaid) return;
 
+              const blocks = document.querySelectorAll(
+                'code.language-mermaid, code.lang-mermaid'
+              );
 
+              blocks.forEach(block => {
+                const pre = block.parentElement;
+                const div = document.createElement('div');
+                div.className = 'mermaid';
+                div.textContent = block.textContent;
+                pre.parentElement.replaceChild(div, pre);
+              });
 
+              mermaid.init(undefined, document.querySelectorAll('.mermaid'));
 
+            }, 0);
 
-      hook.doneEach(function () {
+          });
+        },
 
-        setTimeout(() => {
+        // =========================
+        // FOOTER + NAVIGATION PROTOKIN
+        // =========================
+        function (hook) {
 
-          if (!window.mermaid) return;
+          hook.afterEach(function (html) {
 
-          // Docsify transforme déjà ```mermaid en .language-mermaid
-          const blocks = document.querySelectorAll('code.language-mermaid, code.lang-mermaid');
+            const year = new Date().getFullYear();
 
-          blocks.forEach(block => {
+            const regimes = [
+              "Physico-dynamique",
+              "Cognitif",
+              "Biologique",
+              "Socio-développemental",
+              "Normatif",
+              "Métathéorique"
+            ];
 
-            const pre = block.parentElement;
+            const regime =
+              regimes[Math.floor(Math.random() * regimes.length)];
 
-            const div = document.createElement('div');
-            div.className = 'mermaid';
-            div.textContent = block.textContent;
+            return html + `
+              <hr style="margin-top:3rem;border:0;border-top:1px solid var(--border-color);" />
 
-            pre.parentElement.replaceChild(div, pre);
+              <footer style="
+                text-align:center;
+                font-family:'Noto Sans',sans-serif;
+                font-size:0.85em;
+                padding:30px 0;
+                color:#888;
+                line-height:1.8;
+              ">
+
+                <!-- NAVIGATION -->
+                <div style="margin-bottom:12px;">
+                  <a href="#/">Accueil</a> |
+                  <a href="#/README">Entrée</a> |
+                  <a href="#/document">Documents</a>
+                </div>
+
+                <!-- META -->
+                <div>© ${year} PROTOKIN</div>
+                <div>Régime actif : <strong>${regime}</strong></div>
+                <div>Matrice Isomorphique · Version Alpha</div>
+
+              </footer>
+            `;
           });
 
-          mermaid.init(undefined, document.querySelectorAll('.mermaid'));
+        }
 
-        }, 0);
+      ]
+    };
+  </script>
 
-      });
+  <!-- =========================
+       DOCSIFY CORE
+  ========================= -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
 
-    }
+  <!-- SEARCH -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
 
-  ]
-};
-</script>
+  <!-- KA TeX -->
+  <script src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-latex@0"></script>
 
-<!-- =========================
-     DOCSIFY CORE
-========================= -->
-<script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <!-- PAGINATION -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
 
-<script src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/docsify-latex@0"></script>
-<script src="https://cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
-
-
+  <!-- ZOOM IMAGE -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
 
 </body>
 </html>
