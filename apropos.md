@@ -1,36 +1,23 @@
-# À propos 
+# Avant-propos
 
-Le projet **Protokin cOS** (pour *conceptual Operating System*) est une architecture systémique et épistémologique ambitieuse qui vise à résoudre l'un des défis les plus redoutables des sciences cognitives et de la philosophie : rendre intelligible la transition par laquelle un organisme purement biologique s'arrache à l'immanence des lois physiques pour accéder à la rationalité et à la normativité [1].
+Protokin est né d'un constat simple : le réel ne se donne jamais sous la forme d'une description unique, immédiate et exhaustive.
 
-Pour comprendre ce qu'est le Protokin de manière développée et didactique, il faut distinguer le **projet global** (le Protokin cOS, modélisé en 7 piliers) et le **stade spécifique** qu'il décrit (l'Attracteur du Proto-kin, qui marque le point de bascule de cette métamorphose) [2, 3].
+Les êtres vivants, les systèmes cognitifs, les collectifs humains, les institutions scientifiques et les traditions philosophiques produisent chacun des manières distinctes de stabiliser leur rapport au monde. Ces modes de stabilisation ne sont ni arbitraires ni équivalents. Chacun possède ses propres contraintes, ses propres critères de validité et ses propres formes de cohérence.
 
-Voici la déconstruction de cette ingénierie de l'agentivité.
+Dans cette perspective, la science et la philosophie n'apparaissent pas comme des domaines concurrents, mais comme deux régimes complémentaires d'exploration.
 
-### 1. Le Postulat Fondamental : La Rupture Épistémologique
+La science étudie les mécanismes par lesquels des structures physiques, biologiques ou cognitives maintiennent des invariants malgré les perturbations. Elle s'intéresse aux dynamiques causales, aux processus d'adaptation, aux contraintes énergétiques et aux formes d'organisation qui rendent possible la persistance des systèmes.
 
-Le point de départ du Protokin cOS repose sur une contrainte logique stricte inspirée par le philosophe Wilfrid Sellars : le rejet du « Mythe du Donné » [4, 5]. Le système pose une incommensurabilité absolue entre deux registres descriptifs :
-*   **L'Espace des Causes :** Le domaine de la biologie, de la physique, des faits bruts et de la survie thermodynamique [6, 7].
-*   **L'Espace des Raisons :** Le domaine de la justification logique, des normes, des responsabilités et du "devoir-être" [6].
+La philosophie examine quant à elle les conditions sous lesquelles des descriptions, des concepts et des normes acquièrent une stabilité collective. Elle explore les espaces de justification, les formes de rationalité, les engagements normatifs et les structures de sens qui permettent à une communauté de reconnaître certaines affirmations comme valides.
 
-Le modèle interdit de déduire une norme à partir d'un simple fait biologique [4]. La pure *sentience* (réagir à des stimuli pour survivre) ne contient pas les germes de la *sapience* (comprendre et justifier des règles) [1, 5]. L'accès à la rationalité ne peut donc pas se faire par un miracle évolutif, mais exige la capture de l'organisme dans une structure intersubjective inédite [4].
+Aucune de ces approches ne peut prétendre absorber entièrement l'autre.
 
-### 2. La Matrice des 4 Attracteurs de Résistance
+Réduire les raisons aux causes conduit à perdre la spécificité des pratiques normatives. Réduire les causes aux raisons conduit à ignorer les contraintes matérielles qui rendent toute activité cognitive possible. Entre ces deux pôles se déploie un ensemble de tensions, de transitions et d'articulations qui constituent l'un des problèmes fondamentaux de la connaissance.
 
-Le système Protokin ne conçoit pas le réel comme une superposition de couches statiques, mais comme une dynamique de « Scopes » ou « Attracteurs de Résistance » [2, 8]. L'agentivité évolue en fonction du type de résistance auquel le système accepte de se soumettre :
+Protokin propose une cartographie de ces régimes de stabilisation.
 
-*   **Attracteur I : Le Proto-soi (La Résistance du Monde).** C'est le stade de la biologie pure. L'organisme cherche à minimiser ses erreurs prédictives (selon le Principe d'Énergie Libre ou FEP) pour maintenir son homéostasie [7, 9]. Un échec n'est ici qu'un choc physique, une barrière causale dépourvue de sens moral [9, 10].
-*   **Attracteur II : Le Proto-kin (La Résistance de l'Autre).** C'est le cœur du système. La boucle biologique s'ouvre pour former une dyade de soin (Infant-Tuteur). Par un mécanisme appelé *Opérateur de Double-Erreur*, l'enfant qui subit un veto de son tuteur (une inhibition attentionnelle sociale) est contraint de suspendre son propre élan moteur pour ne pas briser la synchronie vitale avec ce partenaire [11-13]. C'est cet acte d'auto-inhibition qui convertit un simple choc causal en *erreur pratique* [11, 14]. Le "devoir-ne-pas-faire" émerge : la sentience devient sapience [14].
-*   **Attracteur III : Le Koinos / Nomos (La Résistance des Raisons).** La normativité négociée en face-à-face dans la dyade s'élargit. Le critère d'autorité se dépersonnalise et s'ancre dans le langage public et les institutions [15-17]. L'agent devient comptable de ses actes devant un "Tiers Neutre" et le groupe [15, 17].
-*   **Attracteur IV : Le Méta-Koinos (La Résistance des Critères).** C'est le stade ultime de la rationalité. Le système comprend que ses propres règles et procédures d'évaluation sont révisables [18, 19]. La vérité n'est pas un dogme figé, mais la capacité du système à maintenir ses critères ouverts à la correction [19, 20].
+Son objectif n'est pas de construire un méta-langage universel capable d'unifier toutes les descriptions du réel. Il consiste plutôt à analyser les conditions sous lesquelles différents régimes descriptifs deviennent stables, les limites qu'ils rencontrent et les transitions qui permettent le passage d'un régime à un autre.
 
-### 3. La Thermodynamique de la Normativité
+L'enjeu n'est donc pas de déterminer quel langage décrit finalement le monde, mais de comprendre comment des systèmes d'observation différents parviennent à produire, maintenir et transformer des formes de cohérence sous contraintes.
 
-L'une des grandes innovations didactiques du Protokin cOS est de refuser l'idée que la pensée flotte dans un espace immatériel. Le système est régi par une **Équation de Financement Somatique** (Pilier 4) : la révision normative coûte de l'énergie physique [21, 22].
-
-La survie de l'agent dépend de sa "Réserve Métabolique Résiduelle" ($K_{res}$), qui doit rester positive face à l'entropie et à l'usure du monde [21, 22]. Si un système s'isole du réel pour s'enfermer dans une certitude dogmatique absolue, ses règles se "pétrifient" en devenant de purs obstacles physiques (des *résidus causaux*) [23, 24]. Cette rigidité génère une friction constante qui précipite l'épuisement métabolique, menant au *Somatic Collapse* (la mort de l'organisme) ou à l'hallucination dogmatique [23, 25].
-
-### 4. L'Axiome Directeur : L'Inachèvement Stabilisé
-
-Pour garantir sa rigueur, le Protokin s'appuie sur une bibliothèque de contraintes externes (Pilier 7) réunissant la cybernétique (von Foerster, Dupuy, Varela), la philosophie pragmatiste (Sellars, Brandom) et la rigueur épistémologique française (Vuillemin, Bouveresse) [26-30]. Le projet intègre formellement la "Lame de Bouveresse" pour s'interdire d'utiliser des équations mathématiques (comme le théorème de Gödel) pour justifier abusivement des mythes sociaux [30, 31].
-
-En conclusion, la leçon suprême du projet Protokin tient dans son axiome directeur : la rationalité ne consiste pas à bâtir une forteresse de vérités inébranlables [3, 32]. Elle se définit comme une « **dérive structurée de la corrigibilité** » [33, 34]. Un organisme ne survit pas en se fermant à l'erreur, mais en s'assurant que l'ingénierie de sa propre correction reste indéfiniment vulnérable et ouverte à la résistance du monde [32, 34, 35].
+Protokin se présente ainsi comme une architecture métathéorique dédiée à l'étude des stabilités descriptives, des régimes de couplage et des dynamiques de transition qui structurent notre rapport au réel.
