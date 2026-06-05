@@ -38,23 +38,23 @@ Oui. Votre texte mobilise plusieurs traditions théoriques distinctes. Pour une 
 
 1. [Robert Brandom](references/brandom.md), Making It Explicit: Reasoning, Representing, and Discursive Commitment, Harvard University Press, 1994.
 
-Source de la notion de scorekeeping déontique (deontic scorekeeping).
+- Source de la notion de scorekeeping déontique (deontic scorekeeping).
 
-Fondement de l'idée selon laquelle la normativité émerge de l'attribution mutuelle d'engagements et d'habilitations.
+- Fondement de l'idée selon laquelle la normativité émerge de l'attribution mutuelle d'engagements et d'habilitations.
 
-2. John Searle, The Construction of Social Reality, Free Press, 1995.
+2. [John Searle](searle.md), The Construction of Social Reality, Free Press, 1995.
 
-Source de la notion de fonction-statut (status function).
+- Source de la notion de fonction-statut (status function).
 
-Fondement de l'exemple du billet de banque et des réalités institutionnelles.
+- Fondement de l'exemple du billet de banque et des réalités institutionnelles.
 
-3. René Girard, La Violence et le Sacré, Grasset, 1972.
+3. [René Girard](girard.md), La Violence et le Sacré, Grasset, 1972.
 
-Source de l'analyse des crises mimétiques, de l'unanimité et de l'émergence des institutions culturelles.
+- Source de l'analyse des crises mimétiques, de l'unanimité et de l'émergence des institutions culturelles.
 
 4. Ludwig Wittgenstein, Recherches philosophiques (Philosophical Investigations), 1953.
 
-Source de l'idée selon laquelle le sens dépend d'un usage partagé au sein d'une pratique collective.
+- Source de l'idée selon laquelle le sens dépend d'un usage partagé au sein d'une pratique collective.
 
 ---
 
@@ -62,27 +62,27 @@ Source de l'idée selon laquelle le sens dépend d'un usage partagé au sein d'u
 
 5. Paul Harris, The Work of the Imagination, Blackwell, 2000.
 
-Études sur le jeu de faire-semblant et l'imagination collective.
+- Études sur le jeu de faire-semblant et l'imagination collective.
 
-6. Michael Tomasello, The Cultural Origins of Human Cognition, Harvard University Press, 1999.
+6. [Michael Tomasello](tomasello.md), The Cultural Origins of Human Cognition, Harvard University Press, 1999.
 
-Coopération, attention conjointe et institution de significations partagées.
+- Coopération, attention conjointe et institution de significations partagées.
 
 ---
 
 **Références épistémologiques sur le choix des axiomes et des cadres**
 
-7. Wilfrid Sellars, Empiricism and the Philosophy of Mind, 1956.
+7. [Wilfrid Sellars](references/sellars.md), Empiricism and the Philosophy of Mind, 1956.
 
-Critique du « donné » et importance des espaces de justification.
+- Critique du « donné » et importance des espaces de justification.
 
 8. Thomas Kuhn, The Structure of Scientific Revolutions, 1962.
 
-Changement de paradigme et rôle des cadres interprétatifs collectifs.
+- Changement de paradigme et rôle des cadres interprétatifs collectifs.
 
 9. Hans-Georg Gadamer, Vérité et Méthode, 1960.
 
-Tradition, interprétation et fusion des horizons.
+- Tradition, interprétation et fusion des horizons.
 
 
 
