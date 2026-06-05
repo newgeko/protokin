@@ -42,13 +42,13 @@ Oui. Votre texte mobilise plusieurs traditions théoriques distinctes. Pour une 
 
 - Fondement de l'idée selon laquelle la normativité émerge de l'attribution mutuelle d'engagements et d'habilitations.
 
-2. [John Searle](searle.md), The Construction of Social Reality, Free Press, 1995.
+2. [John Searle](references/searle.md), The Construction of Social Reality, Free Press, 1995.
 
 - Source de la notion de fonction-statut (status function).
 
 - Fondement de l'exemple du billet de banque et des réalités institutionnelles.
 
-3. [René Girard](girard.md), La Violence et le Sacré, Grasset, 1972.
+3. [René Girard](references/girard.md), La Violence et le Sacré, Grasset, 1972.
 
 - Source de l'analyse des crises mimétiques, de l'unanimité et de l'émergence des institutions culturelles.
 
