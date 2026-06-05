@@ -16,4 +16,4 @@ Architecture d'audit des conditions de stabilisation des descriptions.
 
 ## Derniers textes
 
-[L'institution des raisons](references/linstitution_des_raisons.md)
+[L'institution des raisons](texte/linstitution_des_raisons.md)
