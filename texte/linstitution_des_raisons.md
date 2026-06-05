@@ -1,5 +1,5 @@
 
-##. Introduction
+## Introduction
 
 Lorsqu'une communauté adopte une interprétation commune d'un texte, d'un événement ou d'une pratique, il est tentant de penser qu'elle le fait parce qu'une lecture aurait finalement démontré sa supériorité sur toutes les autres. Cette représentation suppose que le consensus serait l'aboutissement d'un examen impartial des différentes hypothèses disponibles, à la manière dont une démonstration scientifique élimine progressivement les erreurs pour ne conserver que la vérité.
 
