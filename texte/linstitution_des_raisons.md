@@ -32,8 +32,6 @@ D'un point de vue épistémologique et philosophique, ce mécanisme illustre un 
 
 La communauté sacrifie le pluralisme parce que la tolérance de toutes les lectures (l'éclectisme) endormirait la rationalité en rendant impossible l'évaluation de toute conséquence. L'adoption d'une lecture univoque ne clôt donc pas la pensée ; au contraire, elle délimite le champ, crée l'espace logique des raisons et fournit le vocabulaire à l'intérieur duquel la communauté peut formuler ses désaccords, justifier ses actes et corriger ses erreurs.
 
-Oui. Votre texte mobilise plusieurs traditions théoriques distinctes. Pour une bibliographie ou des notes de bas de page, je distinguerais les références directement mobilisées de celles qui sont proches mais non nécessaires.
-
 **Références principales**
 
 1. [Robert Brandom](references/brandom.md), Making It Explicit: Reasoning, Representing, and Discursive Commitment, Harvard University Press, 1994.
