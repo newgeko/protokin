@@ -29,3 +29,59 @@ La convergence vers une interprétation unique ne s'effectue pas parce que toute
 D'un point de vue épistémologique et philosophique, ce mécanisme illustre un principe fondamental : poser un principe, c'est obligatoirement se diviser et choisir. Il n'y a pas de raisons absolues, extérieures à tout cadre, qui permettraient de fonder un tel choix de manière neutre. Un système ne peut se constituer en englobant toutes les contradictions, car identifier le « Vrai » avec la totalité n'aboutit qu'à un concept inconsistant. 
 
 La communauté sacrifie le pluralisme parce que la tolérance de toutes les lectures (l'éclectisme) endormirait la rationalité en rendant impossible l'évaluation de toute conséquence. L'adoption d'une lecture univoque ne clôt donc pas la pensée ; au contraire, elle délimite le champ, crée l'espace logique des raisons et fournit le vocabulaire à l'intérieur duquel la communauté peut formuler ses désaccords, justifier ses actes et corriger ses erreurs.
+
+Oui. Votre texte mobilise plusieurs traditions théoriques distinctes. Pour une bibliographie ou des notes de bas de page, je distinguerais les références directement mobilisées de celles qui sont proches mais non nécessaires.
+
+**Références principales**
+
+1. Robert Brandom, Making It Explicit: Reasoning, Representing, and Discursive Commitment, Harvard University Press, 1994.
+
+Source de la notion de scorekeeping déontique (deontic scorekeeping).
+
+Fondement de l'idée selon laquelle la normativité émerge de l'attribution mutuelle d'engagements et d'habilitations.
+
+2. John Searle, The Construction of Social Reality, Free Press, 1995.
+
+Source de la notion de fonction-statut (status function).
+
+Fondement de l'exemple du billet de banque et des réalités institutionnelles.
+
+3. René Girard, La Violence et le Sacré, Grasset, 1972.
+
+Source de l'analyse des crises mimétiques, de l'unanimité et de l'émergence des institutions culturelles.
+
+4. Ludwig Wittgenstein, Recherches philosophiques (Philosophical Investigations), 1953.
+
+Source de l'idée selon laquelle le sens dépend d'un usage partagé au sein d'une pratique collective.
+
+---
+
+**Références pour l'exemple des enfants et du jeu symbolique**
+
+5. Paul Harris, The Work of the Imagination, Blackwell, 2000.
+
+Études sur le jeu de faire-semblant et l'imagination collective.
+
+6. Michael Tomasello, The Cultural Origins of Human Cognition, Harvard University Press, 1999.
+
+Coopération, attention conjointe et institution de significations partagées.
+
+---
+
+**Références épistémologiques sur le choix des axiomes et des cadres**
+
+7. Wilfrid Sellars, Empiricism and the Philosophy of Mind, 1956.
+
+Critique du « donné » et importance des espaces de justification.
+
+8. Thomas Kuhn, The Structure of Scientific Revolutions, 1962.
+
+Changement de paradigme et rôle des cadres interprétatifs collectifs.
+
+9. Hans-Georg Gadamer, Vérité et Méthode, 1960.
+
+Tradition, interprétation et fusion des horizons.
+
+
+
+
