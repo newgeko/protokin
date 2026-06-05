@@ -7,6 +7,8 @@ Peux-tu écrire les liens comme :
 [{prénom nom}](references/{nom}.md
 
 - les régimes de stabilisation et couplage (P):
+écrire P# nom du régime sans auteur et le lien
+
 * [P1_cinetique_protonique.md](./piliers/P1_cinetique_protonique.md)
 * [P2_dissipation_structuree_prigogine.md](./piliers/P2_dissipation_structuree_prigogine.md)
 * [P3_ajustement_allostatique_damasio_sterling.md](./piliers/P3_ajustement_allostatique_damasio_sterling.md)
