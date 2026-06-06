@@ -715,81 +715,28 @@ P14 examine leur cohérence architectonique.
 
 #  🧠 Familles de tensions
 
-Les onze tensions ne constituent pas une liste arbitraire.
+#### Famille A — Tensions de frontière (Incompatibilités structurelles)
+*Concerne les désalignements lors de la confrontation de deux régimes sur un même objet.*
+* **Fonction :** Détecter les ruptures de traduction ou de compatibilité.
+* **Tensions :** T1 (Réduction), T2 (Traduction), T3 (Échelle), T4 (Normative), T5 (Rupture).
+* **Question d'audit :** « Les régimes en présence partagent-ils une base de traduction commune ou sommes-nous face à une incommensurabilité ? »
 
-Elles peuvent être regroupées en familles fonctionnelles correspondant à différents types de divergences descriptives.
+#### Famille B — Tensions réflexives (Anomalies de niveau)
+*Concerne les erreurs de niveau logique où un régime tente de se prendre lui-même pour objet ou d'absorber les autres sans médiation.*
+* **Fonction :** Détecter les dérives autoréférentielles et les collapsus métathéoriques.
+* **Tensions :** T6 (Rétroprojection), T7 (Collapsus méta-langagier), T8 (Auto-inclusion).
+* **Question d'audit :** « Le cadre d'observation respecte-t-il les frontières de sa propre validité ou s'autodévore-t-il par circularité ? »
 
----
-
-Famille A — Tensions de frontière inter-régimes
-
-Cette famille concerne les situations où deux régimes tentent de stabiliser une même situation à partir de critères différents.
-
-Elle comprend :
-
-- T1 — Réduction
-- T2 — Traduction
-- T3 — Échelle
-- T4 — Normative
-- T5 — Rupture
-
-Fonction
-
-Détecter les incompatibilités descriptives entre régimes distincts.
-
-Question centrale
-
-«Les deux régimes décrivent-ils réellement la même chose ?»
+#### Famille C — Tensions dynamiques (Instabilités de stabilisation)
+*Concerne les limites de performance d'un régime lorsqu'il est poussé dans ses retranchements opératoires.*
+* **Fonction :** Détecter les moments où un régime perd son efficacité descriptive.
+* **Tensions :** T9 (Saturation descriptive), T10 (Dérive inter-temporelle), T11 (Compression multi-régime), T12 (Lisibilité).
+* **Question d'audit :** « Le régime de stabilisation est-il encore capable de produire des invariants opératoires ou est-il en état de saturation/dérive ? »
 
 ---
-
-Famille B — Tensions réflexives
-
-Cette famille concerne les situations où un régime tente de se prendre lui-même pour objet ou de reconstruire les autres régimes depuis son propre point de vue.
-
-Elle comprend :
-
-- T6 — Rétroprojection
-- T7 — Collapsus méta-langagier
-- T8 — Auto-inclusion
-
-Fonction
-
-Détecter les dérives réflexives et les erreurs de niveau logique.
-
-Question centrale
-
-«Le régime respecte-t-il les conditions de sa propre utilisation ?»
-
----
-
-Famille C — Tensions dynamiques
-
-Cette famille concerne les limites internes d'un régime au cours de son activité descriptive.
-
-Elle comprend :
-
-- T9 — Saturation descriptive
-- T10 — Dérive inter-temporelle
-- T11 — Compression multi-régime
-
-Fonction
-
-Détecter les situations où une stabilisation devient difficile ou instable.
-
-Question centrale
-
-«Le régime conserve-t-il sa capacité de stabilisation ?»
-
----
-
-Statut des familles
-
-Les familles ne constituent pas une hiérarchie.
-
-Elles servent uniquement à faciliter l'analyse des configurations de tension observées lors d'un audit.
-
-Une même situation peut mobiliser simultanément plusieurs familles de tensions.
+*« Certaines tensions existent parce que les régimes sont différents. »*
+*« Certaines tensions existent parce que les observateurs utilisent les régimes d'une certaine manière. »*
+*« Certaines tensions apparaissent parce que les conditions de stabilisation évoluent dans le temps. »*
 
 ---
 
