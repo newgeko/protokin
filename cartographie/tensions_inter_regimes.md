@@ -32,6 +32,12 @@ Les tensions apparaissent lorsque :
 
 ---
 
+# 🛠 Note sur le statut évolutif de la cartographie (G12)
+
+Cette typologie des tensions n'est pas une classification ontologique close. Elle constitue un dispositif d'audit pragmatique et évolutif. La liste des tensions est ouverte : elle peut être enrichie, reconfigurée ou précisée en fonction des nouvelles instabilités descriptives identifiées lors de vos audits. Le système ne vise pas à "résoudre" ces tensions par une synthèse universelle, mais à les cartographier pour garantir la robustesse des descriptions produites par le cadre Protokin.
+
+---
+
 # 🧠 Fonction épistémologique des tensions
 
 Les tensions ne décrivent pas des erreurs du réel, ni des contradictions ontologiques entre objets du monde.
