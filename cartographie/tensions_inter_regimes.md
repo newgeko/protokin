@@ -394,6 +394,16 @@ Indécidabilité interprétative et surcharge multi-cadre.
 
 ---
 
+## T12 — Tension de lisibilité
+
+Description : Désalignement irréductible entre la modélisation standardisée d’un système (la carte) et la réalité organique des pratiques locales (le territoire).
+
+Risque : "L'impérialisme du modèle" : croire que la lisibilité administrative est la réalité du système social, et détruire par standardisation les savoirs pratiques (mètis) qui assuraient pourtant sa résilience réelle.
+
+exemple : 
+
+---
+
 # 🛡️ Garde-fous structurels de la typologie des tensions
 
 Les garde-fous suivants définissent les contraintes d’usage de la typologie des tensions dans le cadre de Protokin.  
