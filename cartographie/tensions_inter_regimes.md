@@ -498,6 +498,10 @@ Elles ne constituent pas des mécanismes explicatifs du changement.
 La typologie des tensions est une construction évolutive.  
 Elle peut être enrichie, reconfigurée ou reclassée sans modification du cadre général de Protokin cOS.
 
+## G13 – Récursivité
+
+Le système Protokin doit pouvoir s'auditer lui-même. Si le cadre Protokin devient lui-même un "régime" dominant, il devient alors sujet à ses propres tensions (T8 - Auto-inclusion).
+
 ---
 
 ## ⚖️ Statut global des garde-fous
