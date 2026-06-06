@@ -72,6 +72,7 @@ Elles signalent différentes formes de fragilité descriptive.
 | T9 — Saturation descriptive | Détection des limites de compressibilité interne |
 | T10 — Dérive inter-temporelle | Détection des glissements progressifs d’invariants |
 | T11 — Compression multi-régime | Détection des surcharges descriptives non hiérarchisées |
+| T12 — Tension de lisibilité | Le désalignement irréductible entre la modélisation standardisée d'un système et la réalité organique des pratiques locales |
 
 ---
 
