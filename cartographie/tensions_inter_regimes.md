@@ -1063,6 +1063,43 @@ Cette distinction ne vise pas à classer les tensions selon leur importance.
 
 ---
 
+# Méta-structures et Audit Protokin
+
+Le projet **Protokin (Protokin cOS)** ne se limite pas à une simple classification des savoirs. Il se définit comme une **machine à auditer les conditions de stabilisation** des discours. Pour ce faire, il s'appuie sur des **méta-structures** qui permettent de naviguer entre les régimes hétérogènes (de la thermodynamique à l'espace des raisons) sans écraser leur spécificité.
+
+Ces méta-structures ne sont pas des théories du monde, mais des **protocoles de navigation et de diagnostic** pour l'audit des systèmes descriptifs.
+
+## 1. Méta-structure Topographique (La géographie des régimes)
+Elle sert à localiser les zones de friction et à définir les ancrages. 
+- **Rôle :** Cartographier où chaque auteur fixe son ancrage (ex: Žižek en épistémologie, Balthasar en ontologie).
+- **Utilité d'audit :** Identifier si une description est ancrée dans un régime physique (Proto) ou un régime normatif (Kin).
+- **Application :** Permet de repérer les "tensions de rupture" (T5) lorsque les cadres se superposent sans traduction.
+
+## 2. Méta-structure Pragmatique (Le régime d'interaction)
+Elle classifie les discours non par leur contenu, mais par ce qu'ils *font* au sein d'un milieu.
+- **Régimes :** - *Programmation* (système clos).
+    - *Ajustement* (système flexible, cas de Protokin).
+    - *Accident* (reconnaissance de l'irréductibilité du réel).
+- **Utilité d'audit :** Diagnostiquer si un auteur "programme" une ontologie ou s'il "ajuste" sa description à la source.
+
+## 3. Méta-structure de Preuve (Niveau de contrainte)
+Elle évalue la solidité du couplage entre la source et le système.
+- **Grades de validation :**
+    - **Grade A (Preuve de structure) :** Déduction parfaite depuis la source.
+    - **Grade B (Preuve de cohérence) :** Compatible mais interprétatif.
+    - **Grade C (Assertion conceptuelle) :** Projection sans ancrage philologique fort (ex: critique de Žižek).
+    - **Grade D (Spéculation) :** Nécessité dialectique sans données empiriques.
+
+## 4. Fonctionnement dans Protokin cOS
+Dans l'architecture globale, ces méta-structures servent d'outils de diagnostic :
+1. **Diagnostic :** Quel est le régime d'interaction ? Quelle est la solidité de la preuve ?
+2. **Audit :** Y a-t-il une "compression multi-régime" (T11) ? Le couplage est-il légitime ou illusoire ?
+3. **Transition :** Quels opérateurs (Réinterprétation, Émergence, Rupture) peuvent reconfigurer le cadre sans altérer l'invariant ?
+
+> **Principe épistémologique final :** Les méta-structures ne sont pas des vérités premières. Elles sont les instruments nécessaires pour maintenir la distinction entre le *causal* (Proto) et le *normatif* (Kin) sans jamais postuler une continuité homogène ou une unification forcée.
+
+---
+
 # 🕸️ Graphe simplifié des tensions
 
 ```mermaid
