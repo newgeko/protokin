@@ -79,6 +79,7 @@ Elles signalent différentes formes de fragilité descriptive.
 | T10 — Dérive inter-temporelle | Détection des glissements progressifs d’invariants |
 | T11 — Compression multi-régime | Détection des surcharges descriptives non hiérarchisées |
 | T12 — Tension de lisibilité | Le désalignement irréductible entre la modélisation standardisée d'un système et la réalité organique des pratiques locales |
+| T13 — Dérive Téléologique | briser l'illusion que le développement des régimes de stabilisation (de P1 à P13) obéirait à une loi d'évolution ou à une nécessité historique |
 
 ---
 
