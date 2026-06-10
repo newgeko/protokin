@@ -65,21 +65,21 @@ Les tensions peuvent être interprétées comme des opérateurs d’alerte épis
 
 Elles signalent différentes formes de fragilité descriptive.
 
-| Tension | Fonction épistémologique |
-|----------|--------------------------|
-| T1 — Réduction | Détection du réductionnisme inter-régimes |
-| T2 — Traduction | Détection des incommensurabilités partielles |
-| T3 — Échelle | Détection des ruptures de granularité descriptive |
-| T4 — Normative | Détection des confusions entre causes et raisons |
-| T5 — Rupture | Détection des sauts conceptuels non médiés |
-| T6 — Rétroprojection | Détection des anachronismes conceptuels |
-| T7 — Collapsus méta-langagier | Détection des fusions artificielles de régimes |
-| T8 — Auto-inclusion | Détection des circularités non auditables |
-| T9 — Saturation descriptive | Détection des limites de compressibilité interne |
-| T10 — Dérive inter-temporelle | Détection des glissements progressifs d’invariants |
-| T11 — Compression multi-régime | Détection des surcharges descriptives non hiérarchisées |
-| T12 — Tension de lisibilité | Le désalignement irréductible entre la modélisation standardisée d'un système et la réalité organique des pratiques locales |
-| T13 — Dérive Téléologique | briser l'illusion que le développement des régimes de stabilisation (de P1 à P13) obéirait à une loi d'évolution ou à une nécessité historique |
+| Tension | Fonction épistémologique | Question détectée |
+|----------|--------------------------|-------------------|
+| T1 — Réduction | Détection du réductionnisme inter-régimes | Réduit-on un régime à un autre ? |
+| T2 — Traduction | Détection des incommensurabilités partielles | Peut-on traduire un régime dans un autre ? |
+| T3 — Échelle | Détection des ruptures de granularité descriptive | Est-on à la bonne échelle ? |
+| T4 — Normative | Détection des confusions entre causes et raisons | Confond-on cause et justification ? |
+| T5 — Rupture | Détection des sauts conceptuels non médiés | Existe-t-il un médiateur entre deux régimes ? |
+| T6 — Rétroprojection | Détection des anachronismes conceptuels | Lit-on le passé avec les concepts du présent ? |
+| T7 — Collapsus méta-langagier | Détection des fusions artificielles de régimes | Confond-on description et méta-description ? |
+| T8 — Auto-inclusion | Détection des circularités non auditables | Le système s'inclut-il lui-même ? |
+| T9 — Saturation descriptive | Détection des limites de compressibilité interne | Le régime est-il saturé d'anomalies ? |
+| T10 — Dérive inter-temporelle | Détection des glissements progressifs d’invariants | Observe-t-on une simple évolution interne ? |
+| T11 — Compression multi-régime | Détection des surcharges descriptives non hiérarchisées | Plusieurs régimes sont-ils mélangés ? |
+| T12 — Tension de lisibilité | Le désalignement irréductible entre la modélisation standardisée d'un système et la réalité organique des pratiques locales | |
+| T13 — Dérive Téléologique | briser l'illusion que le développement des régimes de stabilisation (de P1 à P13) obéirait à une loi d'évolution ou à une nécessité historique | Une contingence est-elle relue comme un destin ? |
 | T14 — Tension de réification | Empêcher la substantification des abstractions |
 
 ---
