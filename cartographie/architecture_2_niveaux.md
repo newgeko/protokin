@@ -241,3 +241,63 @@ Cette architecture permet :
 
 Kernel = opérateur
 Content Layer = domaine d’application
+
+## 11. Schémas 
+
+```mermaid
+flowchart TD
+
+%% ======================
+%% CONTENT LAYER
+%% ======================
+subgraph CL[Content Layer]
+    C1[Régimes descriptifs]
+    C2[Tensions internes]
+    C3[Objets théoriques]
+    C4[Configurations discursives]
+end
+
+%% ======================
+%% KERNEL
+%% ======================
+subgraph K[Kernel opératoire]
+    A[CAP<br/>Cycle d'Audit]
+    B[OVM<br/>Vigilance Modale]
+    T[Transition<br/>Reconfiguration]
+end
+
+%% ======================
+%% FLOWS
+%% ======================
+
+C1 --> A
+C2 --> A
+C3 --> A
+C4 --> A
+
+A -->|Tension détectée| B
+B -->|Validation OK| T
+B -->|Rejet / Collapsus| A
+
+T -->|Nouvel état| C1
+T -->|Nouvelle structuration| C2
+T -->|Réorganisation| C3
+T -->|Stabilisation| C4
+
+%% ======================
+%% LOOP FEEDBACK
+%% ======================
+C1 --> C2
+C2 --> C3
+C3 --> C4
+C4 --> C1
+
+%% ======================
+%% STYLING (optionnel)
+%% ======================
+classDef kernel fill:#1f2937,color:#ffffff,stroke:#4b5563,stroke-width:1px;
+classDef content fill:#0f766e,color:#ffffff,stroke:#14b8a6,stroke-width:1px;
+
+class A,B,T kernel;
+class C1,C2,C3,C4 content;
+```
