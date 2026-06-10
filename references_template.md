@@ -18,12 +18,14 @@
 
 ---
 
-## ## 2.1. Audit CAP (décomposition structurelle)
+## 2.1. Audit CAP (décomposition structurelle)
 
 - unités descriptives détectées :
 - oppositions internes :
 - points de saturation :
 - hypothèses implicites :
+
+---
 
 ## 3. Concepts mobilisés dans Protokin
 
