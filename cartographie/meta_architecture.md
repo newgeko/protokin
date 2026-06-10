@@ -264,3 +264,80 @@ N3 : transformation de Protokin
 
 N4 : dissolution en champ dynamique
 
+---
+```mermaid
+flowchart TD
+
+%% =========================
+%% NIVEAUX PROTOKIN
+%% =========================
+
+N1[Niveau 1<br/>Application]
+N2[Niveau 2<br/>Auto-modélisation]
+N3[Niveau 3<br/>Auto-révision du Kernel]
+N4[Niveau 4<br/>Métasystème pur]
+
+%% =========================
+%% OPÉRATEURS
+%% =========================
+
+CAP[CAP<br/>Cycle d'Audit]
+OVM[OVM<br/>Vigilance Modale]
+TR[Transition<br/>Reconfiguration]
+
+%% =========================
+%% FLUX PRINCIPAL
+%% =========================
+
+N1 -->|auto-audit externe| CAP
+N2 -->|auto-description système| CAP
+N3 -->|audit du Kernel| CAP
+N4 -->|flux instable| CAP
+
+CAP --> OVM
+
+OVM -->|validation OK| TR
+OVM -->|blocage / retour| CAP
+
+TR --> N1
+TR --> N2
+TR --> N3
+TR --> N4
+
+%% =========================
+%% TRANSITIONS ENTRE NIVEAUX
+%% =========================
+
+N1 -->|seuil réflexivité 1| N2
+N2 -->|seuil réflexivité 2| N3
+N3 -->|seuil réflexivité 3| N4
+
+N4 -->|re-stabilisation locale| N2
+
+%% =========================
+%% AUTO-RÉFLEXIVITÉ (BOUCLE HAUTE)
+%% =========================
+
+N2 -->|Protokin devient objet| N2
+N3 -->|Kernel modifiable| N3
+N4 -->|dissolution / émergence| N4
+
+%% =========================
+%% STYLES
+%% =========================
+
+classDef level1 fill:#1f2937,color:#ffffff,stroke:#374151;
+classDef level2 fill:#0f766e,color:#ffffff,stroke:#14b8a6;
+classDef level3 fill:#b45309,color:#ffffff,stroke:#f59e0b;
+classDef level4 fill:#7c2d12,color:#ffffff,stroke:#fb923c;
+
+classDef op fill:#111827,color:#ffffff,stroke:#6b7280;
+
+class N1 level1;
+class N2 level2;
+class N3 level3;
+class N4 level4;
+
+class CAP,OVM,TR op;
+```
+
