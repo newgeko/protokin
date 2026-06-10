@@ -1,77 +1,173 @@
 # 📌 {Nom de la référence}
 
 - **Niveau de lecture :** source / interprétatif / systémique
+- **Stabilité Protokin :** stable / semi-stable / instable / limite (T5, T9)
+- **Statut du traitement :** initial / en audit / consolidé / révisé
+
+---
 
 ## 1. Identification
 
 - **Auteur :** {Nom}
 - **Année :** {YYYY}
-- **Domaine :** {cybernétique / biologie / philosophie / cognition / physique / etc.}
-- **Type :** {article / livre / conférence / concept}
-- **Statut :** {fondation / support / critique / extension}
+- **Domaine :** {philosophie / biologie / cognition / physique / IA / autre}
+- **Type :** {livre / article / concept / théorie / controverse}
+- **Statut épistémique :** fondation / critique / extension / hybridation
 
 ---
 
-## 2. Résumé conceptuel
+## 2. Résumé neutre (niveau source)
 
-{Résumé neutre du contenu théorique ou du concept}
+> Description strictement interne au texte ou au concept, sans traduction Protokin.
 
----
-
-## 2.1. Audit CAP (décomposition structurelle)
-
-- unités descriptives détectées :
-- oppositions internes :
-- points de saturation :
-- hypothèses implicites :
+- Thèse principale :
+- Arguments structurants :
+- Hypothèses explicites :
+- Présupposés implicites (si identifiables) :
 
 ---
 
-## 3. Concepts mobilisés dans Protokin
+## 3. Audit CAP (décomposition structurelle)
 
-- **Régimes associés :**
-  - P{n} — {Nom du régime}
-  - P{n} — {Nom du régime}
+### 3.1 Unités descriptives détectées
+- Concepts centraux :
+- Distinctions opératoires :
+- Entités mobilisées :
 
-- **Tensions associées :**
-  - T{n} — {Nom de la tension}
-  - T{n} — {Nom de la tension}
+### 3.2 Dynamiques internes
+- Relations causales ou logiques :
+- Opposition ou tensions internes :
+- Points de continuité :
 
-- **Transitions potentielles :**
-  - {Type de transition (réinterprétation / émergence / rupture normative)}
+### 3.3 Zones de saturation
+- Ambiguïtés conceptuelles :
+- Sauts argumentatifs :
+- Non-dits structuraux :
 
----
-
-## 4. Rôle dans l’architecture Protokin
-
-{Explique ici la fonction du concept dans ton architecture : stabilisation, frontière, critique, etc.}
-
----
-
-## 5. Lecture critique (optionnelle mais importante)
-
-- Limites dans ce cadre :
-- Risques de réduction :
-- Points de friction avec d’autres régimes :
+### 3.4 Hypothèses implicites
+- Ontologiques :
+- Épistémiques :
+- Normatives :
 
 ---
 
-## 6. Relations internes
+## 4. Cartographie Protokin (interprétation contrôlée)
 
-- **Compatibilités fortes :**
-  - {Autres auteurs / régimes}
+> Cette section est une traduction structurée du CAP vers le lexique Protokin.
 
-- **Incompatibilités structurelles :**
-  - {Autres cadres}
+### 4.1 Régimes associés (P1–P14)
 
----
-
-## 7. Citation structurée Protokin
-
-> {Auteur}, {Oeuvre}, {année}, interprété dans le cadre du régime P{n} et de la tension T{n}.
+- Régimes dominants :
+  - P{n} — {nom du régime}
+- Régimes secondaires :
+  - P{n} — {nom du régime}
 
 ---
 
-## 8. Tags
+### 4.2 Tensions identifiées (T1–T14)
 
-`#cybernétique` `#épistémologie` `#systèmes-complexes` `#Protokin`
+- Tensions structurelles :
+  - Tn — {description courte}
+- Tensions de traduction :
+  - Tn —
+- Tensions critiques :
+  - Tn —
+
+---
+
+### 4.3 Statut du mapping
+
+- Type de correspondance :
+  - ☐ direct
+  - ☐ analogique
+  - ☐ reconstructif
+  - ☐ spéculatif
+
+- Niveau de confiance :
+  - faible / moyen / élevé
+
+---
+
+### 4.4 Transitions possibles
+
+- Réinterprétation :
+- Émergence :
+- Rupture :
+- Blocage OVM potentiel :
+
+---
+
+## 5. Rôle dans l’architecture Protokin
+
+> Fonction du concept dans l’économie globale du système.
+
+- Fonction principale :
+  - (ex : stabilisation / critique / frontière / traduction)
+
+- Position structurelle :
+  - Proto / Kin / interface / hybride
+
+- Contribution au système :
+  - (ce que ce texte rend visible ou problématique)
+
+---
+
+## 6. Lecture critique contrôlée
+
+### 6.1 Limites internes
+- Ce que le modèle ne peut pas traiter :
+- Ce qu’il exclut structurellement :
+
+### 6.2 Risques de réduction
+- Physicalisme implicite :
+- Normativisme implicite :
+- Réification (T14) :
+
+### 6.3 Frictions inter-régimes
+- Avec P{n} :
+- Avec P{n} :
+
+---
+
+## 7. Relations inter-systémiques
+
+### 7.1 Compatibilités fortes
+- Théories proches :
+- Continuités conceptuelles :
+
+### 7.2 Incompatibilités structurelles
+- Ruptures théoriques :
+- Incommensurabilités (T2 / T5) :
+
+---
+
+## 8. Synthèse Protokin (compression contrôlée)
+
+> Reformulation courte du rôle global dans le système.
+
+- Type de contribution :
+- Type de tension dominante :
+- Type de stabilisation produite :
+
+---
+
+## 9. Citation structurée Protokin
+
+> {Auteur}, {œuvre}, {année}, interprété dans le régime P{n}, générant principalement les tensions T{n}, selon une lecture CAP contrôlée.
+
+---
+
+## 10. Tags
+
+`#Protokin` `#CAP` `#OVM` `#analyse` `#épistémologie` `{domaine}`
+
+---
+
+## 11. Note de réflexivité (important)
+
+Ce document est lui-même :
+- un régime descriptif (P14-limité)
+- soumis à audit CAP/OVM
+- révisable en fonction de tensions détectées
+
+Aucune section ne constitue un invariant ontologique.
