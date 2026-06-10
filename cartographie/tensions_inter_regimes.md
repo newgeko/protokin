@@ -78,9 +78,9 @@ Elles signalent différentes formes de fragilité descriptive.
 | T9 — Saturation descriptive | Détection des limites de compressibilité interne | Le régime est-il saturé d'anomalies ? |
 | T10 — Dérive inter-temporelle | Détection des glissements progressifs d’invariants | Observe-t-on une simple évolution interne ? |
 | T11 — Compression multi-régime | Détection des surcharges descriptives non hiérarchisées | Plusieurs régimes sont-ils mélangés ? |
-| T12 — Tension de lisibilité | Le désalignement irréductible entre la modélisation standardisée d'un système et la réalité organique des pratiques locales | |
+| T12 — Tension de lisibilité | Le désalignement irréductible entre la modélisation standardisée d'un système et la réalité organique des pratiques locales | Que perd-on lorsque l'on rend le système lisible ? |
 | T13 — Dérive Téléologique | briser l'illusion que le développement des régimes de stabilisation (de P1 à P13) obéirait à une loi d'évolution ou à une nécessité historique | Une contingence est-elle relue comme un destin ? |
-| T14 — Tension de réification | Empêcher la substantification des abstractions |
+| T14 — Tension de réification | Empêcher la substantification des abstractions | Sommes-nous en train de transformer une description stabilisée en nécessité ontologique ? |
 
 ---
 
