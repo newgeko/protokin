@@ -157,8 +157,8 @@ flowchart TD
 %% CONTENT LAYER
 %% =========================
 subgraph CL[Content Layer]
-    R[Régimes descriptifs (P1–Pn)]
-    T[Tensions (T1–Tn)]
+    R[Régimes P1-Pn]
+    T[Tensions T1-Tn]
     O[Objets théoriques]
     C[Configurations interprétatives]
 end
@@ -166,10 +166,10 @@ end
 %% =========================
 %% KERNEL
 %% =========================
-subgraph K[Kernel opératoire]
-    CAP[CAP<br/>Cycle d'Audit]
-    OVM[OVM<br/>Vigilance Modale]
-    TR[Transition<br/>Reconfiguration]
+subgraph K[Kernel]
+    CAP[CAP Cycle d'Audit]
+    OVM[OVM Vigilance Modale]
+    TR[Transition Reconfiguration]
 end
 
 %% =========================
@@ -181,23 +181,23 @@ T --> CAP
 O --> CAP
 C --> CAP
 
-CAP -->|Extraction de tension| OVM
+CAP --> OVM
 
 %% =========================
 %% VALIDATION FLOW
 %% =========================
 
-OVM -->|Validation OK| TR
-OVM -->|Collapsus / erreur de catégorie| CAP
+OVM -->|OK| TR
+OVM -->|Reject| CAP
 
 %% =========================
 %% TRANSFORMATION FLOW
 %% =========================
 
-TR -->|Reconfiguration| R
-TR -->|Réorganisation| T
-TR -->|Restructuration| O
-TR -->|Réinterprétation| C
+TR --> R
+TR --> T
+TR --> O
+TR --> C
 
 %% =========================
 %% FEEDBACK LOOP
