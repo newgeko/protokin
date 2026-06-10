@@ -783,6 +783,17 @@ P14 examine leur cohérence architectonique.
 * **Tensions :** T9 (Saturation descriptive), T10 (Dérive inter-temporelle), T11 (Compression multi-régime), T12 (Lisibilité).
 * **Question d'audit :** « Le régime de stabilisation est-il encore capable de produire des invariants opératoires ou est-il en état de saturation/dérive ? »
 
+#### Famille D — Tensions ontologiques (Dérives de substantialisation)
+
+Fonction : Détecter les moments où une construction descriptive est transformée en propriété du réel.
+
+Tensions :
+T13 — Dérive téléologique.
+T14 — Réification.
+
+Question d'audit :
+« Sommes-nous en train de transformer une description stabilisée en nécessité ontologique ? »
+
 ---
 *« Certaines tensions existent parce que les régimes sont différents. »*
 *« Certaines tensions existent parce que les observateurs utilisent les régimes d'une certaine manière. »*
