@@ -498,7 +498,7 @@ Elle n’a pas d’existence indépendante de cette configuration.
 
 ---
 
-## G6 — Invariance des régimes
+## ~~G6 — Invariance des régimes~~ (désactivé)
 
 La définition des régimes de couplage est indépendante de la typologie des tensions.  
 Les tensions ne modifient ni les régimes ni leur structure interne.
@@ -525,14 +525,14 @@ L’existence d’une tension ne détermine ni la nécessité, ni la direction, 
 
 ---
 
-## G10 — Réversibilité descriptive
+## ~~G10 — Réversibilité descriptive~~ (désactivé)
 
 Toute tension peut être re-décrite depuis un autre régime sans perte de validité locale.  
 Il n’existe pas de description finale ou privilégiée des tensions.
 
 ---
 
-## G11 — Primauté de l’audit
+## ~~G11 — Primauté de l’audit~~ (désactivé)
 
 Les tensions sont des outils d’analyse des conditions de stabilisation descriptive.  
 Elles ne constituent pas des mécanismes explicatifs du changement.
