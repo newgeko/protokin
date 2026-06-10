@@ -1,272 +1,94 @@
-de# ⚡ Protokin
-### Architecture d’audit des conditions de stabilisation des descriptions
+# ⚡ Protokin (cOS)
 
-Protokin n’est ni une ontologie globale, ni une théorie unifiée du réel, ni un modèle explicatif totalisant.
+[![Status](https://img.shields.io/badge/statut-expérimental-orange.svg)]()
+[![License](https://img.shields.io/badge/licence-MIT-blue.svg)]()
 
-Il constitue une **architecture d’audit non-hiérarchique des conditions de stabilisation des descriptions**, opérant à un niveau réflexif : il n’analyse pas le monde directement, mais les conditions sous lesquelles des cadres d’observation produisent des invariants stables.
+> **Protokin ne décrit pas ce que le monde est. Il décrit comment des mondes descriptifs deviennent possibles, stables, et parfois incompatibles entre eux.**
 
-> 🧭 Principe général : le réel n’est pas accessible comme unité descriptive directe.  
-> Ce sont les régimes d’observation qui stabilisent localement des invariants.  
-> Protokin ne cherche pas à unifier ces régimes, mais à cartographier leurs conditions de validité, leurs incompatibilités locales, leurs zones de transition et leurs limites de stabilisation.
+Bienvenue sur le dépôt officiel de **Protokin**. Ce projet propose un cadre théorique et des outils de diagnostic (un "système d'exploitation conceptuel") pour cartographier et auditer la manière dont nos connaissances se stabilisent, de la simple réaction biologique jusqu'aux règles sociales et aux justifications partagées.
 
 ---
 
-# 🗺️ Architecture globale
+## 🎯 Introduction : Qu'est-ce que Protokin ?
 
-L’architecture s’organise comme un champ d’audit dynamique structuré autour de plusieurs niveaux non hiérarchiques d’analyse.
+Imaginez que notre esprit et nos sociétés fonctionnent comme des logiciels qui essaient de donner un sens à leur environnement. Pour y parvenir, ils utilisent différents **Régimes d'observation** (des manières de décrire le monde). 
+Par exemple, décrire le mouvement d'un atome (physique causale) et justifier une décision de justice (norme sociale) sont deux manières de voir le monde totalement différentes. 
 
----
+Le projet **Protokin** est un outil de cartographie qui étudie la zone de transition entre :
+* **Le versant *Proto*** : Les mécanismes purement physiques, biologiques ou prédictifs (les causes).
+* **Le versant *Kin*** : Les structures collectives, le langage et les institutions (les raisons).
 
-## 🧭 1. Signification structurelle et étymologie
-
-Le terme **Protokin** désigne un champ de transition entre régimes de stabilisation.
-
-Il ne renvoie pas à deux domaines ontologiques, mais à deux pôles descriptifs de structuration :
-
-### Proto
-Régime des conditions de stabilisation causale.
-
-Il désigne les configurations où les invariants sont maintenus par contraintes dynamiques, sans justification normative explicite.
-
-Exemples : cinétique physique (P1), systèmes dissipatifs (P2), filtrages cognitifs de bas niveau (P4).
-
-→ Modalité dominante : stabilisation causale.
+Le but de Protokin est de fournir un cadre rigoureux pour repérer où ces descriptions s'alignent, où elles s'opposent, et comment une communauté parvient à stabiliser une vision commune.
 
 ---
 
-### Kin
-Régime des conditions de stabilisation relationnelle.
+> **Protokin ne décrit pas ce que le monde est. Il décrit comment des mondes descriptifs deviennent possibles, stables, et parfois incompatibles entre eux.**
 
-Il désigne les configurations où les invariants sont maintenus par réseaux d’attentes, de reconnaissance et d’ajustements normatifs distribués.
+**Principe fondamental (Garde-fou G8) :** *Aucune tension ne peut être utilisée pour fusionner ou réduire abusivement deux régimes.*
 
-Exemples : intentionnalité partagée (P8), espace des raisons (P11), institutions normatives (P13).
-
-→ Modalité dominante : stabilisation relationnelle.
 
 ---
 
-### ⚠️ Point fondamental
+## 🏛️ L'Architecture du Projet : Les Trois Piliers
 
-Proto et Kin ne constituent pas deux mondes, ni deux niveaux ontologiques.
+Pour analyser l'évolution de nos descriptions, Protokin repose sur trois concepts fondamentaux :
 
-Ils désignent deux **modalités de stabilisation descriptives partiellement orthogonales**, parfois superposées dans une même situation.
+### 1. Les Régimes de Stabilisation (La Géographie)
+Ce sont les cadres locaux dans lesquels une description est jugée valide. Le projet répertorie plusieurs régimes (notés de P1 à P14) inspirés des plus grands scientifiques et philosophes :
+* **P4 (Compétence topographique)** : Inspiré de la cybernétique (von Foerster), c'est la capacité d'un système à créer des régularités sans langage.
+* **P5 (Minimisation de la surprise)** : Inspiré des neurosciences (Friston), où le cerveau anticipe son environnement.
+* **P7 (Couplage structurel / Évolution)** : L'ancrage biologique et l'empathie naturelle (Varela, Lorenz, de Waal).
+* **P11 & P13 (Espace des raisons & Institution inférentielle)** : Le domaine du langage, de la justification et des lois partagées (Sellars, Brandom).
 
-Le concept de Protokin formalise la zone de tension où une stabilisation causale peut être reconfigurée comme stabilisation relationnelle, et inversement.
+### 2. Les Tensions Inter-Régimes (La Structure Critique)
+Lorsque l'on essaie de mélanger deux régimes sans précaution, des anomalies apparaissent. Protokin cartographie ces incompatibilités (notées de T1 à T11) :
+* **T1 (Réduction)** : Vouloir expliquer le social uniquement par la génétique ou la physique.
+* **T4 (Normative)** : Le conflit entre expliquer un comportement par ses *causes* physiques ou par ses *raisons* logiques.
+* **T5 (Rupture)** : Le fossé infranchissable qui sépare l'adaptation biologique de l'argumentation rationnelle.
 
----
-
-## 🧩 2. Les régimes de couplage (piliers)
-
-Les régimes de couplage ne sont pas des entités ontologiques.
-
-Ils constituent une **cartographie située des principaux modes de stabilisation descriptive**, issus des sciences physiques, cognitives, biologiques, sociales et normatives.
-
-Chaque régime définit :
-- un type d’invariant localement stabilisé
-- un critère interne de validité
-- une frontière de cohérence descriptive
-
----
-
-### 🌐 Régimes physico-dynamiques
-- P1 — Cinétique protonique  
-- P2 — Dissipation structurée (Prigogine)
+### 3. Les Transitions de Cadre (Les Opérateurs de Changement)
+Ce sont les mécanismes locaux qui permettent de passer d'un régime à un autre (par exemple, l'émergence de l'intentionnalité partagée ou la rupture normative) afin de retrouver une stabilité descriptive.
 
 ---
 
-### 🧠 Régimes cognitifs
-- P4 — Compétence topographique (von Foerster)  
-- P5 — Minimisation de la surprise / Free Energy Principle  
-- P11 — Espace des raisons (Sellars)
+## 🧪 Fonctionnement : Le "Cœur Processeur" (CAP-OVM)
+
+Le système Protokin ne se contente pas de cartographier ; il traite les instabilités. Le moteur de diagnostic repose sur trois instances :
+
+1.  **Le Cycle d'Audit (CAP)** : La méthode itérative pour identifier les tensions.
+2.  **L'Opérateur de Vérification Ontologique (OVM)** : Le diagnostic de validité. C'est l'instance de contrôle qui vérifie si une tension est réelle ou s'il s'agit d'un simple "bruit" interprétatif (collapsus).
+3.  **Les Transitions** : L'opérateur de reconfiguration (émergence, rupture, réinterprétation) qui permet de restaurer la stabilité du système descriptif.
+
+*Pour démarrer un audit, utilisez la procédure définie dans `/cartographie/audit_modal.md`.*
+
+> ⚠ **Note importante sur le projet** : Protokin est actuellement un projet **expérimental** de modélisation épistémologique. Il n'a pas pour but de remplacer les théories scientifiques existantes, mais d'agir comme un garde-fou contre les mélanges conceptuels abusifs.
 
 ---
 
-### 🧬 Régimes biologiques
-- P7 — Couplage structurel (Maturana / Varela)
+## 🛠️ Structure du Dépôt
+
+Le projet est organisé de manière transparente pour faciliter votre navigation :
+
+* `/cartographie` : Contient les fichiers markdown détaillant la structure des régimes (`regimes_daudit.md`), des tensions (`tensions_inter_regimes.md`), et le cycle de vie d'un audit (`cycle_audit.md`).
+* `/references` : Fiches de lecture critiques d'auteurs clés (Simondon, Girard, Brandom, Wittgenstein, Bouveresse, Vuillemin) relues à travers le prisme de Protokin.
+* `/texte` : Analyses appliquées, comme l'étude de l'adoption des consensus au sein d'une communauté (`linstitution_des_raisons.md`).
 
 ---
 
-### 👥 Régimes socio-développementaux
-- P8 — Intentionnalité partagée (Tomasello)  
-- P9 — Effet cliquet culturel
+## 🚀 Rejoignez l'Aventure !
+
+Le cadre Protokin est vivant et évolutif. Que vous veniez des sciences cognitives, de la philosophie, de l'informatique ou des sciences sociales, votre regard nous intéresse.
+
+### Comment contribuer ?
+* **Explorez le code source** : Parcourez nos cartographies et nos fiches de références dans les dossiers du dépôt.
+* **Ouvrez une Issue** : Une définition vous semble obscure ? Vous avez repéré une tension non répertoriée ? Partagez vos retours.
+* **Proposez une Pull Request** : Contribuez à enrichir les fiches de références ou à simplifier nos modèles graphiques.
 
 ---
 
-### ⚖️ Régimes normatifs et métathéoriques
-- P10 — Couplage structurel des pratiques  
-- P12 — Évaluation thimique  
-- P13 — Institution inférentielle (Brandom)  
-- P14 — Validation / audit métathéorique
+## ⚖️ Licence
 
----
+Ce projet est distribué sous licence MIT. Les contributions intellectuelles restent ouvertes et révisables, conformément au principe d'historicité et de transparence du cadre Protokin.
 
-> ⚠️ Propriétés fondamentales :
-Les régimes sont irréductibles entre eux, non hiérarchisés, non fusionnables et révisables.
-Aucun régime ne constitue un méta-langage universel.
-
----
-
-## ⚡ 3. Les invariants
-
-Un invariant n’est pas un objet du monde.
-
-Il s’agit d’une **stabilisation relationnelle localement produite et maintenue par un régime donné**.
-
-Un invariant :
-- dépend du régime qui le stabilise
-- peut changer de statut entre régimes
-- peut nécessiter une reconfiguration descriptive lors d’un changement de cadre
-
-Exemple :
-- P4 stabilise des objets comportementaux
-- P11 transforme ces objets en raisons
-- P13 institutionnalise ces raisons en normes
-
----
-
-## ⚡ 4. Les tensions inter-régimes
-
-Les tensions ne sont ni des erreurs, ni des contradictions.
-
-Ce sont des **opérateurs d’audit épistémologique** indiquant un désalignement entre régimes lorsqu’ils tentent de stabiliser une même situation selon des critères différents.
-
----
-
-### Typologie des 11 tensions
-
-| Index | Tension | Fonction épistémologique |
-|------|--------|--------------------------|
-| T1 | Réduction | Assimilation abusive d’un régime par un autre |
-| T2 | Traduction | Incommensurabilité partielle entre langages |
-| T3 | Échelle | Rupture de granularité descriptive |
-| T4 | Normative | Conflit cause / justification |
-| T5 | Rupture | Absence de médiation inter-régime |
-| T6 | Rétroprojection | Universalisation illégitime d’un régime |
-| T7 | Collapsus méta-langagier | Fusion artificielle des régimes |
-| T8 | Auto-inclusion | Circularité sans changement de niveau |
-| T9 | Saturation descriptive | Perte de stabilité opératoire |
-| T10 | Dérive inter-temporelle | Glissement des invariants dans le temps |
-| T11 | Compression multi-régime | Surcharge sans règle d’articulation |
-| T12 — Tension de lisibilité | Le désalignement irréductible entre la modélisation standardisée d'un système et la réalité organique des pratiques locales |
-
----
-
-## 🧠 Classification fonctionnelle
-
-### Famille A — Frontières inter-régimes (T1 à T5)
-Détecte les incompatibilités structurelles entre régimes.
-
-> « Les deux régimes décrivent-ils réellement la même configuration ? »
-
----
-
-### Famille B — Tensions réflexives (T6 à T8)
-Détecte les dérives liées à l’usage des régimes.
-
-> « Le régime est-il utilisé dans ses conditions de validité ? »
-
----
-
-### Famille C — Tensions dynamiques (T9 à T11)
-Détecte les instabilités de stabilisation dans le temps ou sous charge descriptive.
-
-> « Le régime conserve-t-il sa capacité opératoire ? »
-
----
-
-## 🔄 5. Les transitions de cadre
-
-Une transition ne correspond pas à une transformation du réel, mais à une **reconfiguration du cadre de lecture**.
-
-Elle ne modifie pas les phénomènes, mais les conditions sous lesquelles ils sont stabilisés comme invariants.
-
----
-
-### Opérateurs de transition
-
-#### 1. Réinterprétation
-Changement de langage sans changement d’invariant.
-
-#### 2. Émergence
-Apparition d’un invariant non stabilisable à l’échelle précédente.
-
-#### 3. Rupture normative
-Transition entre l’espace des causes et l’espace des raisons.
-
----
-
-### ⚠️ Principe de non-détermination
-
-Une tension n’implique jamais une transition.
-
-Les transitions sont :
-- non déductibles
-- non mécaniques
-- contextuelles
-
----
-
-## 🛡️ 6. Garde-fous structurels
-
-### G1 — Non-exhaustivité
-Les régimes et tensions sont ouverts et révisables.
-
-### G2 — Dissociation tension / erreur
-Une tension n’est jamais une anomalie, une incohérence ou une défaillance du réel. Elle constitue un opérateur d’audit.
-
-### G3 — Non-hiérarchisation
-Aucun régime ni aucune tension ne possède de priorité ontologique ou épistémologique.
-
-### G4 — Localité stricte
-Toute tension n’existe que relativement à une configuration d’audit donnée et aux régimes qu’elle met en relation.
-
-### G5 — Anti-collapsus conceptuel
-Il est interdit de fusionner, réduire ou unifier implicitement des régimes distincts en un cadre explicatif unique.
-
-### G6 — Invariance des régimes
-Les tensions n’altèrent ni la définition, ni les propriétés internes, ni le statut des régimes de couplage.
-
-### G7 — Absence de générativité transitionnelle
-Une tension ne produit pas de transition et ne détermine ni sa nécessité ni sa possibilité.
-
-### G8 — Non-détermination des transitions
-Les transitions ne sont ni déductibles, ni causalement induites, ni structurellement impliquées par les tensions.
-
-### G9 — Réversibilité descriptive
-Toute tension peut être reconstruite depuis plusieurs régimes sans perte de validité locale de description.
-
-### G10 — Primauté de l’audit
-Les tensions sont des outils de diagnostic des conditions de stabilisation, et non des mécanismes explicatifs du changement.
-
-### G11 — Dissociation tension / dynamique
-Une tension ne définit ni direction, ni temporalité, ni trajectoire de transition entre régimes.
-
-### G12 — Historicité et révisabilité du cadre
-Les régimes, tensions et garde-fous constituent un ensemble évolutif, susceptible de révision sans altération du cadre général de Protokin.
-
----
-
-## 🧪 7. Procédure d’audit Protokin
-
-### 1. Identifier les régimes mobilisés
-Quels invariants et quels critères de validité ?
-
-### 2. Localiser les divergences
-Où les régimes deviennent incompatibles ou partiellement alignés ?
-
-### 3. Qualifier les tensions
-Associer les écarts à T1–T11.
-
-### 4. Identifier la nature de la tension
-Structurelle / d’usage / dynamique.
-
-### 5. Documenter la configuration
-Décrire les limites de stabilisation et zones de reconfiguration possibles.
-
----
-
-## ⚡ Statut final
-
-Protokin ne décrit pas ce que le monde est.
-
-Il décrit **comment des mondes descriptifs deviennent possibles, stables, et parfois incompatibles entre eux**.
+***
+*© 2026 Projet Protokin - Pour une écologie de la description.*
