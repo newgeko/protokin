@@ -150,6 +150,7 @@ Le système forme une architecture de contrôle récursive permettant la stabili
 11. Schémas 
 
 ```mermaid
+
 flowchart TD
 
 %% =========================
