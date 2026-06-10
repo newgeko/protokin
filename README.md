@@ -1,4 +1,4 @@
-# ⚡ Protokin
+de# ⚡ Protokin
 ### Architecture d’audit des conditions de stabilisation des descriptions
 
 Protokin n’est ni une ontologie globale, ni une théorie unifiée du réel, ni un modèle explicatif totalisant.
@@ -147,6 +147,7 @@ Ce sont des **opérateurs d’audit épistémologique** indiquant un désalignem
 | T9 | Saturation descriptive | Perte de stabilité opératoire |
 | T10 | Dérive inter-temporelle | Glissement des invariants dans le temps |
 | T11 | Compression multi-régime | Surcharge sans règle d’articulation |
+| T12 — Tension de lisibilité | Le désalignement irréductible entre la modélisation standardisée d'un système et la réalité organique des pratiques locales |
 
 ---
 
