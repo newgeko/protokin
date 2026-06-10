@@ -29,7 +29,7 @@ N1 → N2 → N3 → N4
 stabilité → réflexivité → instabilité → dissolution
 
 Chaque transition correspond à une augmentation du degré de réflexivité du système.
-
+```
 
 ---
 
