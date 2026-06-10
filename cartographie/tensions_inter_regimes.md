@@ -80,6 +80,7 @@ Elles signalent différentes formes de fragilité descriptive.
 | T11 — Compression multi-régime | Détection des surcharges descriptives non hiérarchisées |
 | T12 — Tension de lisibilité | Le désalignement irréductible entre la modélisation standardisée d'un système et la réalité organique des pratiques locales |
 | T13 — Dérive Téléologique | briser l'illusion que le développement des régimes de stabilisation (de P1 à P13) obéirait à une loi d'évolution ou à une nécessité historique |
+| T14 — Tension de réification | Empêcher la substantification des abstractions |
 
 ---
 
@@ -420,6 +421,14 @@ exemple :
     * Neutralisation de la contingence (présenter une transition comme le seul déploiement possible d'une logique sous-jacente).
     * Effacement de la rupture (nier le caractère local et localisé de la stabilisation).
 * **Action OVM :** Blocage immédiat. Exige la démonstration que la structure interne du régime (ex: les règles d'inférence de Brandom) est bien distincte de sa genèse historique (ex: les crises mimétiques de Girard).
+
+---
+
+## T14 — Tension de réification
+Fonction : Empêcher la substantification des abstractions.
+Mécanisme : Traiter un construit descriptif ou un concept (une "carte") comme s'il s'agissait d'une entité causale autonome dotée d'agentivité ou de volonté (le "territoire").
+Statut dans l'audit : Anomalie ontologique. Signal d'alerte sur la confusion entre le modèle et l'objet.
+Exemple : Prêter au "Marché" une intention de régulation, à la "Société" une volonté, ou à "l'Histoire" une force agissante.
 
 ---
 
