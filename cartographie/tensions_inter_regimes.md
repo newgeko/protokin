@@ -448,6 +448,12 @@ Mécanisme : Traiter un construit descriptif ou un concept (une "carte") comme s
 Statut dans l'audit : Anomalie ontologique. Signal d'alerte sur la confusion entre le modèle et l'objet.
 Exemple : Prêter au "Marché" une intention de régulation, à la "Société" une volonté, ou à "l'Histoire" une force agissante.
 
+L'intérêt de T14 est qu'elle protège Protokin contre une erreur extrêmement fréquente :
+> oublier que les régimes eux-mêmes sont des constructions descriptives.
+
+Autrement dit, T14 doit aussi pouvoir s'appliquer à Protokin :
+> « P13 produit les normes » pourrait devenir une réification si P13 cesse d'être un outil descriptif pour devenir une entité agissante.
+
 ---
 
 # 🛡️ Garde-fous structurels de la typologie des tensions
