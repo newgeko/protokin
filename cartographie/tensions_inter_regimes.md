@@ -404,11 +404,29 @@ Indécidabilité interprétative et surcharge multi-cadre.
 
 ## T12 — Tension de lisibilité
 
-Description : Désalignement irréductible entre la modélisation standardisée d’un système (la carte) et la réalité organique des pratiques locales (le territoire).
+Actuellement, ce que vous décrivez ressemble fortement aux analyses de James C. Scott dans Seeing Like a State.
+Le problème n'est pas une erreur d'échelle (T3).
+Le problème n'est pas non plus une rétroprojection (T6).
+Et ce n'est pas exactement une réification (T14).
+Le problème est :
+un système descriptif gagne en lisibilité globale en perdant les régulations locales qui assuraient sa robustesse.
 
-Risque : "L'impérialisme du modèle" : croire que la lisibilité administrative est la réalité du système social, et détruire par standardisation les savoirs pratiques (mètis) qui assuraient pourtant sa résilience réelle.
+### Fonction
+Détecter la perte de savoirs locaux induite par la standardisation
+### Mécanisme
+Un régime impose des invariants simplifiés afin de rendre un système administrable, mesurable ou calculable
+### Statut
+Alerte de simplification excessive
+Question détectée
+Que perd-on lorsque l'on rend le système lisible ?
+### Exemple :
+gestion forestière centralisée ;
+agriculture collectivisée ;
+indicateurs scolaires ;
+protocoles administratifs.
 
-exemple : 
+### L'OVM pourrait alors vérifier :
+L'augmentation de lisibilité détruit-elle des mécanismes de stabilisation invisibles ?
 
 ---
 
