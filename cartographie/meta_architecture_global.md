@@ -265,6 +265,9 @@ N3 : transformation de Protokin
 N4 : dissolution en champ dynamique
 
 ---
+
+## 11. Schéma 1
+
 ```mermaid
 flowchart TD
 
@@ -339,5 +342,98 @@ class N3 level3;
 class N4 level4;
 
 class CAP,OVM,TR op;
+```
+
+#12. Schéma 2
+
+```mermaid
+
+flowchart TD
+
+%% =========================
+%% NIVEAUX DE RÉFLEXIVITÉ
+%% =========================
+
+N1[Niveau 1<br/>Application externe]
+N2[Niveau 2<br/>Auto-modélisation]
+N3[Niveau 3<br/>Auto-révision du Kernel]
+N4[Niveau 4<br/>Métasystème pur]
+
+%% =========================
+%% KERNEL / OPÉRATEURS
+%% =========================
+
+K[Kernel<br/>CAP + OVM + Transition]
+
+CAP[CAP<br/>Cycle d'Audit]
+OVM[OVM<br/>Vigilance Modale]
+TR[Transition<br/>Reconfiguration]
+
+K --> CAP
+CAP --> OVM
+OVM --> TR
+
+%% =========================
+%% FLUX D'ANALYSE
+%% =========================
+
+N1 --> CAP
+N2 --> CAP
+N3 --> CAP
+N4 --> CAP
+
+%% =========================
+%% TRANSITIONS DE NIVEAUX
+%% =========================
+
+N1 -->|seuil 1 : auto-analyse| N2
+N2 -->|seuil 2 : auto-référence| N3
+N3 -->|seuil 3 : instabilité Kernel| N4
+
+N4 -->|re-stabilisation locale| N2
+
+%% =========================
+%% ACTION DE TRANSITION
+%% =========================
+
+TR --> N1
+TR --> N2
+TR --> N3
+TR --> N4
+
+%% =========================
+%% BOUCLES CRITIQUES
+%% =========================
+
+OVM -->|validation| TR
+OVM -->|blocage / retour audit| CAP
+
+CAP -->|tension détectée| OVM
+
+%% =========================
+%% RÉFLEXIVITÉ
+%% =========================
+
+N2 -->|Protokin devient objet| N2
+N3 -->|Kernel modifiable| N3
+N4 -->|dissolution / émergence| N4
+
+%% =========================
+%% STYLES
+%% =========================
+
+classDef n1 fill:#1f2937,color:#ffffff,stroke:#374151;
+classDef n2 fill:#0f766e,color:#ffffff,stroke:#14b8a6;
+classDef n3 fill:#b45309,color:#ffffff,stroke:#f59e0b;
+classDef n4 fill:#7c2d12,color:#ffffff,stroke:#fb923c;
+
+classDef op fill:#111827,color:#ffffff,stroke:#6b7280;
+
+class N1 n1;
+class N2 n2;
+class N3 n3;
+class N4 n4;
+
+class K,CAP,OVM,TR op;
 ```
 
