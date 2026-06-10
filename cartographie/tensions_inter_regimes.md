@@ -410,6 +410,18 @@ exemple :
 
 ---
 
+## T13 — Dérive Téléologique
+
+* **Nature :** Erreur de transposition modale majeure.
+* **Description :** La T13 survient lorsqu'une nécessité structurelle interne à un régime est interprétée comme une nécessité historique ou ontologique globale. Elle modélise le glissement fallacieux où l'on déduit que, parce qu'une configuration (ex: P13) est stable et cohérente, elle constitue la "fin" ou le "but" vers lequel les régimes précédents (P7, P8, P10) tendaient nécessairement.
+* **Indicateurs :**
+    * Usage de termes de finalité (ex: "aboutir", "convergence", "ultime étape", "progrès", "maturation").
+    * Neutralisation de la contingence (présenter une transition comme le seul déploiement possible d'une logique sous-jacente).
+    * Effacement de la rupture (nier le caractère local et localisé de la stabilisation).
+* **Action OVM :** Blocage immédiat. Exige la démonstration que la structure interne du régime (ex: les règles d'inférence de Brandom) est bien distincte de sa genèse historique (ex: les crises mimétiques de Girard).
+
+---
+
 # 🛡️ Garde-fous structurels de la typologie des tensions
 
 Les garde-fous suivants définissent les contraintes d’usage de la typologie des tensions dans le cadre de Protokin.  
