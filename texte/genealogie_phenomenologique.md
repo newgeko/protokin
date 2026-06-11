@@ -49,6 +49,12 @@ L'analyse croisée des dimensions territoriales, phénoménologiques et épisté
 
 Le tableau suivant cartographie ces correspondances conceptuelles afin d'en faciliter l'examen comparatif :
 
+| Domaine de l'habitation | Ancrage phénoménologique de base | Modalité d'interaction primaire | Dérive pathologique ou violence | Horizon de restauration et justice |
+|--------------------------|----------------------------------|----------------------------------|----------------------------------|------------------------------------|
+| Écologique et Territorial | Cosmologie relationnelle, écriture naturelle des choses sur le monde | Symphonie esthétique des chants, devenir-autre, porosité des frontières et exaptation | Propriété exclusive par la souillure, colonisation des milieux par le déchet et le logo publicitaire | Contrat naturel, respect réciproque (respecere), écoute des compositions collectives |
+| Phénoménologique et Corporel | Synthèse passive, typification, horizon d'attente antéprédicatif | Incorporation des mouvements habituels, orientation passive de l'attention vers l'allure | Illusion de neutralité perceptive, reproduction inconsciente des hiérarchies par l'habitus social | Réduction phénoménologique, éveil par l'étonnement, vigilance réflexive face à l'habitus |
+| Épistémique et Social | Sensibilité testimoniale, second nature épistémique, espace des raisons | Confiance spontanée, ouverture critique par défaut à la parole de l'autre | Injustices testimoniales et herméneutiques, disqualification préemptive des savoirs minoritaires | Vertus de justice testimoniale et herméneutique, déconstruction de l'institution symbolique |
+
 ## Vers une éthique de la réceptivité critique et du respect
 
 La mise en relation de ces théories met en lumière une exigence commune : la nécessité de substituer aux logiques de l'appropriation et du contrôle un modèle fondé sur la réceptivité et l'ajustement mutuel. Lorsque Michel Serres décrit l'appropriation par la souillure, il théorise une forme d'habiter défensive et exclusive qui ferme le sujet à l'altérité. À l'inverse, Vinciane Despret, en observant l'exposition esthétique des oiseaux, dessine les contours d'une habitation partagée où le territoire est le produit d'une négociation permanente d'influences et de présences.
