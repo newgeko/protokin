@@ -33,4 +33,10 @@ Cette analyse des structures antéprédicatives et socialisées trouve un prolon
 
 - Le modèle non inférentiel (ou par défaut) : Inspiré de Thomas Reid, il postule une ouverture crédule et acritique par défaut à la parole d'autrui. Ce modèle échoue cependant à rendre compte de la responsabilité doxastique de l'auditeur, qui ne saurait accepter n'importe quelle affirmation sans exercer sa vigilance. 
 
+Pour dépasser cette impasse, Fricker propose un modèle où nos facultés critiques opèrent de manière continue mais automatique, à un niveau inférieur et non conscient. En s'appuyant sur John McDowell, elle montre que l'exercice de la responsabilité doxastique ne requiert pas d'inférences logiques constantes, mais une sensibilité directe aux raisons présentes dans l'environnement. Cette « sensibilité testimoniale » constitue une seconde nature épistémique, acquise par la socialisation et le façonnement de nos attitudes affectives et interprétatives. 
+
+Néanmoins, parce qu'elle est passivement héritée de la culture commune, cette sensibilité testimoniale est profondément vulnérable aux préjugés identitaires véhiculés par l'habitus social. Lorsque des préjugés négatifs circulent, ils altèrent la perception éthique et cognitive de l'auditeur, perturbant l'intégrité de l'espace des raisons. Il en résulte une injustice épistémique sous deux formes distinctes  : 
+
+- L'injustice testimoniale : Elle se produit lorsqu'un préjugé identitaire conduit l'auditeur à accorder un déficit de crédibilité immérité à la parole du locuteur. Ce préjudice peut être ponctuel ou systématique, et touche au plus profond de l'identité du sujet en lui déniant sa capacité de donneur de connaissance (préjudice primaire) et de possesseur de savoir (préjudice secondaire). 
+- L'injustice herméneutique : Elle surgit lorsqu'une lacune dans les ressources collectives d'interprétation empêche certains groupes de rendre leur propre expérience intelligible, à l'instar des personnes victimes de harcèlement sexuel avant l'émergence de ce concept conceptuel. 
 
