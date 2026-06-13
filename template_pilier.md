@@ -51,6 +51,20 @@ Ce régime est stabilisé, documenté ou audité par les références suivantes.
 - Tensions associées :
   {Tension(s)}
 
+## 1.ter. Fonction architecturale
+
+Ce régime existe afin de rendre descriptibles les dynamiques de transition micro-physiques qui disparaîtraient si l'analyse commençait directement aux niveaux d'individuation ou de cognition.
+
+Sans ce régime, l'architecture perdrait la possibilité d'auditer les tentatives de réduction des niveaux supérieurs vers les seules dynamiques élémentaires.
+
+Contribution principale à Protokin :
+
+- Stabilisation des transitions élémentaires.
+- Cartographie des limites du réductionnisme microphysique.
+- Point d'origine des tensions T1 et T3.
+
+---
+
 🛡 Garde-fous épistémologiques
 
 {Auteur critique}
