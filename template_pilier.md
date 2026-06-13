@@ -1,176 +1,334 @@
-# P{N} — {Nom du pilier}
+P{N} — {Nom du régime}
 
-## 0. Identification
+0. Identification
 
-- **Numéro :** P{N}  
-- **Nom :** {Nom du pilier}  
-- **Famille :** {physico-dynamique / cognitif / biologique / socio-développemental / normatif / métathéorique}  
-- **Type :** Régime de couplage  
-- **Statut :** Irreductible / localement valide  
-
----
-
-## 1. Définition
-
-{Définition dense du pilier en 5 à 10 lignes maximum.}
-
-👉 Cette section doit :
-- décrire le régime sans le réduire à un autre
-- éviter toute hiérarchie implicite
-- ne pas introduire de causalité globale
+- Numéro : P{N}
+- Nom : {Nom du régime}
+- Famille : {physico-dynamique / cognitif / biologique / socio-développemental / normatif / métathéorique}
+- Type : Régime de couplage
+- Statut : Irréductible / localement valide
 
 ---
 
-## 1.bis. Ancrages Théoriques & Ressources d'Audit
+1. Définition
 
-Ce régime d'observation est armé, délimité et audité à l'aide des contributions théoriques suivantes (références internes au carnet) :
+{Définition synthétique du régime en 5 à 10 lignes.}
 
-### 📚 Opérateurs / Stabilisateurs de Référence
-- **{Nom de l'Auteur 1} (`references/{nom_fichier}.md`) :**
-  - *Statut dans ce régime :* {Stabilisateur de régime / Frontière inter-régime / Générateur de tension}
-  - *Apport opératoire :* {Spécifier ce que la source permet de stabiliser sémantiquement. Ex: Formalise le scorekeeping déontique pour P13 / le FEP pour P5.}
-  - *Indice de tension associé :* {Ex: Engendre une tension normative T4 si étendu indûment vers le causal.}
+Ce régime constitue un mode spécifique de stabilisation descriptive.
 
-- **{Nom de l'Auteur 2} (`references/{nom_fichier}.md`) :**
-  - *Statut dans ce régime :* {...}
-  - *Apport opératoire :* {...}
-  - *Indice de tension associé :* {...}
+Il ne décrit pas une substance, un objet ou une région ontologique du réel, mais une manière particulière de sélectionner des invariants et de maintenir des distinctions opératoires.
 
-### 🛡 Garde-fous Épistémologiques Issus des Sources
-- **{Auteur Critique / ex: Bouveresse ou Vuillemin} :** {Spécifier comment les concepts de cet auteur interdisent une dérive descriptive ou une extension abusive au sein de ce pilier particulier (ex: l'anti-littérarisme ou l'anti-éclectisme).}
+Contraintes de rédaction
+
+- ne pas réduire ce régime à un autre ;
+- ne pas introduire de hiérarchie implicite ;
+- ne pas présupposer une causalité globale ;
+- éviter les formulations ontologiquement inflationnistes.
 
 ---
 
-## 2. Invariants opératoires
+1.bis. Ancrages théoriques
 
-Liste des stabilités capturées par ce régime :
+Ce régime est stabilisé, documenté ou audité par les références suivantes.
+
+📚 Stabilisateurs principaux
+
+{Auteur principal}
+
+- Référence : references/{fichier}.md
+- Statut : Stabilisateur de régime
+- Apport opératoire :
+  {Description}
+- Tensions associées :
+  {Tension(s)}
+
+{Auteur secondaire}
+
+- Référence : references/{fichier}.md
+- Statut : Frontière inter-régime / Générateur de tension
+- Apport opératoire :
+  {Description}
+- Tensions associées :
+  {Tension(s)}
+
+🛡 Garde-fous épistémologiques
+
+{Auteur critique}
+
+- Fonction : Garde-fou
+- Règle de vigilance :
+  {Règle utilisée par l'OVM pour détecter les dérives descriptives.}
+
+---
+
+2. Invariants opératoires
+
+Le régime sélectionne préférentiellement les stabilités suivantes :
 
 - {Invariant 1}
 - {Invariant 2}
 - {Invariant 3}
-- {Invariant 4 (optionnel)}
+- {Invariant 4}
 
-👉 Un invariant = une stabilité relationnelle produite dans ce régime.
+Définition
+
+Un invariant est une stabilité relationnelle reproductible à l'intérieur du régime.
+
+Exemples :
+
+- régularité de transition ;
+- boucle de rétroaction ;
+- norme instituée ;
+- engagement déontique ;
+- structure dissipative.
 
 ---
 
-## 3. Mode de couplage observateur–système
+3. Mode de couplage observateur–système
 
-Ce pilier définit un mode spécifique de :
+Ce régime définit une manière particulière de :
 
-- perception  
-- découpage du réel  
-- sélection d’invariants  
-- stabilisation des distinctions  
+- percevoir ;
+- découper le réel ;
+- sélectionner des invariants ;
+- stabiliser des distinctions.
 
-### Caractéristiques :
+Caractéristiques
+
 - {Caractéristique 1}
 - {Caractéristique 2}
 - {Caractéristique 3}
 
-### Angle mort structurel :
-{Ce que ce régime ne peut pas voir ou stabiliser}
+Angle mort structurel
+
+Pour fonctionner, ce régime doit nécessairement ignorer :
+
+- {Limite structurelle 1}
+- {Limite structurelle 2}
 
 ---
 
-## 4. Domaine de validité
+4. Domaine de validité
 
-Ce pilier est valide lorsque :
+Le régime est pertinent lorsque :
 
 - {Condition 1}
 - {Condition 2}
 - {Condition 3}
 
-### Limites :
+Frontières descriptives
+
+Le régime devient insuffisant lorsque :
+
 - {Limite 1}
 - {Limite 2}
+- {Limite 3}
 
-👉 Toute extension hors de ce domaine produit une instabilité descriptive.
+Violations typiques détectées par l'OVM
 
----
-
-## 5. Point de rupture
-
-Ce pilier devient insuffisant lorsque :
-
-- {Contradiction interne}
-- {Explosion de complexité}
-- {Perte de stabilité des invariants}
-
-### Type de transition déclenchée :
-- [ ] Réinterprétation  
-- [ ] Émergence  
-- [ ] Rupture normative  
+- {Réduction abusive 1}
+- {Compression inter-régime 1}
+- {Erreur modale 1}
 
 ---
 
-## 6. Relations avec les autres piliers
+5. Conditions de saturation
 
-### Compatibilités partielles :
-- P{X} — {raison de compatibilité}
-- P{Y} — {zone de recouvrement}
+Le régime devient instable lorsque :
 
-### Tensions :
-- P{A} — {type de tension}
-- P{B} — {contrainte structurelle}
+- {Condition de saturation 1}
+- {Condition de saturation 2}
+- {Condition de saturation 3}
 
-### Incompatibilités structurelles :
-- P{C} — {raison de rupture}
+Symptômes observables
 
----
+- perte de pouvoir explicatif ;
+- multiplication des exceptions ;
+- apparition de tensions non résolues ;
+- nécessité de nouveaux invariants.
 
-## 7. Traductions (lecture depuis d’autres régimes)
+Tensions fréquemment associées
 
-### Vu depuis P{X} :
-{reformulation partielle sans équivalence}
-
-### Vu depuis P{Y} :
-{changement de statut des invariants}
-
-👉 Important : il ne s’agit pas d’équivalences, mais de relectures partielles.
+- T{X}
+- T{Y}
+- T{Z}
 
 ---
 
-## 8. Micro-graphe local
+6. Relations avec les autres régimes
 
-```mermaid
-graph LR
+Compatibilités partielles
 
-P{N}[{Nom du pilier}]
+- P{X} — {Justification}
+- P{Y} — {Justification}
 
-P{N} --> P{X}
-P{N} -. tension .-> P{Y}
-P{Z} --> P{N}
-```
+Traductions stables
 
----
+- P{A} ↔ P{N}
+- P{B} ↔ P{N}
 
-9. Résumé opératoire
+Frictions cartographiées
 
-Ce pilier capture : {fonction principale}
+- P{C} — Tension T{n}
+- P{D} — Tension T{m}
 
-Il observe via : {mode de couplage}
+Incompatibilités structurelles
 
-Il ignore structurellement : {angle mort}
-
-Il devient instable lorsque : {condition de rupture}
+- P{E} — {Raison}
+- P{F} — {Raison}
 
 ---
 
-10. Notes épistémologiques (optionnel)
+6.bis. Tensions constitutives
 
-Statut ontologique : non requis
+Ce régime existe parce qu'il rend visibles certaines tensions fondamentales.
 
-Statut épistémique : local et relatif au régime
+Sans elles, il perd sa nécessité descriptive.
 
-Statut relationnel : défini par couplage observateur–système
+Tensions constitutives
+
+- T{X}
+- T{Y}
+
+Fonction de ces tensions
+
+{Description du rôle structurant de ces tensions dans l'existence du régime.}
 
 ---
 
-11. Métadonnées (GitHub / navigation)
+7. Traductions inter-régimes
 
-Fichier : P{N}_{nom}.md
+Vu depuis P{X}
 
-Connexions principales : P{...}, P{...}, P{...}
+{Relecture partielle du régime dans le vocabulaire de P{X}.}
 
-Niveau de transition : {faible / moyen / critique}
+Vu depuis P{Y}
+
+{Relecture partielle du régime dans le vocabulaire de P{Y}.}
+
+Important
+
+Ces traductions :
+
+- ne sont pas des équivalences ;
+- ne constituent pas des réductions ;
+- ne permettent pas de fusionner les régimes.
+
+---
+
+8. Dynamique d'audit
+
+Lorsqu'une saturation est détectée, le Cycle d'Audit Protokin (CAP) peut être déclenché.
+
+Diagnostic possible
+
+- Tension principale : T{X}
+- Tension secondaire : T{Y}
+
+Transitions fréquemment observées
+
+- P{N} → P{A} par émergence
+- P{N} → P{B} par réinterprétation
+- P{N} → P{C} par rupture
+
+Rôle de l'OVM
+
+L'OVM ne crée pas les limites du régime.
+
+Il détecte les violations de ses frontières descriptives.
+
+---
+
+9. Micro-graphe local
+
+graph TD
+
+P[P{N}]
+
+P --> V[Zone valide]
+
+P --> S[Saturation]
+
+S --> CAP((CAP))
+
+CAP --> OVM{OVM}
+
+OVM --> T[Transition]
+
+T --> PX[P{X}]
+T --> PY[P{Y}]
+
+P -. Tension T{A} .-> PA[P{A}]
+P -. Tension T{B} .-> PB[P{B}]
+
+---
+
+10. Résumé opératoire
+
+- Ce régime capture :
+  {Fonction principale}
+
+- Il sélectionne :
+  {Type d'invariants}
+
+- Il observe via :
+  {Mode de couplage}
+
+- Il ignore structurellement :
+  {Angle mort}
+
+- Il devient instable lorsque :
+  {Condition de saturation}
+
+- Les tensions dominantes sont :
+  T{X}, T{Y}
+
+---
+
+11. Notes épistémologiques
+
+Statut ontologique
+
+Non requis.
+
+Le régime n'est pas une substance ni un niveau du réel.
+
+Statut épistémique
+
+Local.
+
+Contextuel.
+
+Révisable.
+
+Statut relationnel
+
+Déterminé par le couplage observateur–système.
+
+Principe fondamental
+
+Un régime ne décrit pas le monde.
+
+Il décrit une manière stable de décrire le monde.
+
+---
+
+12. Métadonnées
+
+- Fichier :
+  P{N}_{nom}.md
+
+- Connexions principales :
+  P{...}
+  P{...}
+  P{...}
+
+- Tensions dominantes :
+  T{...}
+  T{...}
+
+- Niveau de transition :
+  Faible / Moyen / Critique
+
+- Dernière révision :
+  {AAAA-MM-JJ}
