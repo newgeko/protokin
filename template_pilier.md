@@ -53,7 +53,7 @@ Ce régime est stabilisé, documenté ou audité par les références suivantes.
 
 ---
 
-1.ter. Fonction architecturale
+1.ter. Fonction interne du régime
 
 Ce régime existe afin de rendre descriptibles les dynamiques de transition micro-physiques qui disparaîtraient si l'analyse commençait directement aux niveaux d'individuation ou de cognition.
 
