@@ -51,7 +51,9 @@ Ce régime est stabilisé, documenté ou audité par les références suivantes.
 - Tensions associées :
   {Tension(s)}
 
-## 1.ter. Fonction architecturale
+---
+
+1.ter. Fonction architecturale
 
 Ce régime existe afin de rendre descriptibles les dynamiques de transition micro-physiques qui disparaîtraient si l'analyse commençait directement aux niveaux d'individuation ou de cognition.
 
@@ -59,9 +61,28 @@ Sans ce régime, l'architecture perdrait la possibilité d'auditer les tentative
 
 Contribution principale à Protokin :
 
-- Stabilisation des transitions élémentaires.
-- Cartographie des limites du réductionnisme microphysique.
-- Point d'origine des tensions T1 et T3.
+- Stabilisation des transitions élémentaires
+- Cartographie des limites du réductionnisme microphysique
+- Point d'origine des tensions T1 et T3
+
+---
+
+1.quater. Contrat de non-réification
+
+Ce régime ne doit jamais être interprété comme :
+
+- une entité ontologique autonome
+- un niveau réel du monde
+- une substance causale
+- une explication ultime
+
+Il constitue uniquement :
+
+- un dispositif de sélection d’invariants
+- une grille de stabilisation descriptive
+- un mode local de lecture
+
+Toute réification constitue une violation OVM (T1 / T11).
 
 ---
 
@@ -71,7 +92,7 @@ Contribution principale à Protokin :
 
 - Fonction : Garde-fou
 - Règle de vigilance :
-  {Règle utilisée par l'OVM pour détecter les dérives descriptives.}
+  {Règle utilisée par l'OVM pour détecter les dérives descriptives}
 
 ---
 
@@ -90,11 +111,11 @@ Un invariant est une stabilité relationnelle reproductible à l'intérieur du r
 
 Exemples :
 
-- régularité de transition ;
-- boucle de rétroaction ;
-- norme instituée ;
-- engagement déontique ;
-- structure dissipative.
+- régularité de transition
+- boucle de rétroaction
+- norme instituée
+- engagement déontique
+- structure dissipative
 
 ---
 
@@ -102,10 +123,10 @@ Exemples :
 
 Ce régime définit une manière particulière de :
 
-- percevoir ;
-- découper le réel ;
-- sélectionner des invariants ;
-- stabiliser des distinctions.
+- percevoir
+- découper le réel
+- sélectionner des invariants
+- stabiliser des distinctions
 
 Caractéristiques
 
@@ -138,11 +159,29 @@ Le régime devient insuffisant lorsque :
 - {Limite 2}
 - {Limite 3}
 
-Violations typiques détectées par l'OVM
+Violations typiques détectées par l'OVM :
 
 - {Réduction abusive 1}
 - {Compression inter-régime 1}
 - {Erreur modale 1}
+
+---
+
+4.bis. Conditions d’illégitimité (OVM)
+
+Le régime devient illégitime si :
+
+- un invariant est transformé en entité ontologique
+- une corrélation est interprétée comme causalité globale
+- un niveau supérieur est réduit à ce régime sans perte
+- une norme est dérivée d’un fait causal sans médiation
+
+Violations associées :
+
+- T1 — Réduction
+- T3 — Saut d’échelle
+- T11 — Compression inter-régime
+- T13 — Collapsus normatif
 
 ---
 
@@ -154,18 +193,33 @@ Le régime devient instable lorsque :
 - {Condition de saturation 2}
 - {Condition de saturation 3}
 
-Symptômes observables
+Symptômes observables :
 
-- perte de pouvoir explicatif ;
-- multiplication des exceptions ;
-- apparition de tensions non résolues ;
-- nécessité de nouveaux invariants.
+- perte de pouvoir explicatif
+- multiplication des exceptions
+- apparition de tensions non résolues
+- nécessité de nouveaux invariants
 
-Tensions fréquemment associées
+Tensions fréquemment associées :
 
 - T{X}
 - T{Y}
 - T{Z}
+
+---
+
+5.bis. Matrice de saturation
+
+Indicateurs de saturation :
+
+- augmentation des exceptions descriptives
+- instabilité des invariants sélectionnés
+- besoin d’un niveau explicatif supérieur
+- incohérences multi-échelles
+
+Seuil critique :
+
+≥ 2 indicateurs actifs → déclenchement CAP
 
 ---
 
@@ -195,7 +249,7 @@ Incompatibilités structurelles
 
 6.bis. Tensions constitutives
 
-Ce régime existe parce qu'il rend visibles certaines tensions fondamentales.
+Ce régime existe parce qu’il rend visibles certaines tensions fondamentales.
 
 Sans elles, il perd sa nécessité descriptive.
 
@@ -206,7 +260,7 @@ Tensions constitutives
 
 Fonction de ces tensions
 
-{Description du rôle structurant de ces tensions dans l'existence du régime.}
+{Description du rôle structurant des tensions dans l’existence du régime}
 
 ---
 
@@ -214,25 +268,23 @@ Fonction de ces tensions
 
 Vu depuis P{X}
 
-{Relecture partielle du régime dans le vocabulaire de P{X}.}
+{Relecture partielle dans le vocabulaire de P{X}}
 
 Vu depuis P{Y}
 
-{Relecture partielle du régime dans le vocabulaire de P{Y}.}
+{Relecture partielle dans le vocabulaire de P{Y}}
 
 Important
 
-Ces traductions :
-
-- ne sont pas des équivalences ;
-- ne constituent pas des réductions ;
-- ne permettent pas de fusionner les régimes.
+- ne sont pas des équivalences
+- ne sont pas des réductions
+- ne permettent pas de fusion des régimes
 
 ---
 
-8. Dynamique d'audit
+8. Dynamique d’audit (CAP + OVM)
 
-Lorsqu'une saturation est détectée, le Cycle d'Audit Protokin (CAP) peut être déclenché.
+Lorsqu’une saturation est détectée, le Cycle d’Audit Protokin (CAP) est déclenché.
 
 Diagnostic possible
 
@@ -245,28 +297,33 @@ Transitions fréquemment observées
 - P{N} → P{B} par réinterprétation
 - P{N} → P{C} par rupture
 
-Rôle de l'OVM
+Hiérarchie des transitions autorisées
 
-L'OVM ne crée pas les limites du régime.
+- Niveau 1 : Réinterprétation
+- Niveau 2 : Émergence
+- Niveau 3 : Rupture
+- Niveau 4 : Blocage OVM
 
-Il détecte les violations de ses frontières descriptives.
+Rôle de l’OVM
+
+L’OVM ne crée pas les limites du régime.
+
+Il détecte les violations de frontières descriptives.
 
 ---
 
 9. Micro-graphe local
 
+```mermaid
 graph TD
 
 P[P{N}]
 
 P --> V[Zone valide]
-
 P --> S[Saturation]
 
 S --> CAP((CAP))
-
 CAP --> OVM{OVM}
-
 OVM --> T[Transition]
 
 T --> PX[P{X}]
@@ -274,50 +331,51 @@ T --> PY[P{Y}]
 
 P -. Tension T{A} .-> PA[P{A}]
 P -. Tension T{B} .-> PB[P{B}]
+```
 
 ---
 
 10. Résumé opératoire
 
-- Ce régime capture :
-  {Fonction principale}
 
-- Il sélectionne :
-  {Type d'invariants}
 
-- Il observe via :
-  {Mode de couplage}
+Ce régime capture : {Fonction principale}
 
-- Il ignore structurellement :
-  {Angle mort}
+Il sélectionne : {Type d’invariants}
 
-- Il devient instable lorsque :
-  {Condition de saturation}
+Il observe via : {Mode de couplage}
 
-- Les tensions dominantes sont :
-  T{X}, T{Y}
+Il ignore structurellement : {Angle mort}
+
+Il devient instable lorsque : {Condition de saturation}
+
+Les tensions dominantes sont : T{X}, T{Y}
+
+
 
 ---
 
 11. Notes épistémologiques
 
+
+
 Statut ontologique
 
 Non requis.
 
-Le régime n'est pas une substance ni un niveau du réel.
+Le régime n’est pas une substance ni un niveau du réel.
 
 Statut épistémique
 
-Local.
+Local
 
-Contextuel.
+Contextuel
 
-Révisable.
+Révisable
 
 Statut relationnel
 
-Déterminé par le couplage observateur–système.
+Déterminé par le couplage observateur–système
 
 Principe fondamental
 
@@ -325,24 +383,44 @@ Un régime ne décrit pas le monde.
 
 Il décrit une manière stable de décrire le monde.
 
+
 ---
 
 12. Métadonnées
 
-- Fichier :
-  P{N}_{nom}.md
 
-- Connexions principales :
-  P{...}
-  P{...}
-  P{...}
 
-- Tensions dominantes :
-  T{...}
-  T{...}
+Fichier : P{N}_{nom}.md
 
-- Niveau de transition :
-  Faible / Moyen / Critique
+Connexions principales : P{...} P{...} P{...}
 
-- Dernière révision :
-  {AAAA-MM-JJ}
+Tensions dominantes : T{...} T{...}
+
+Niveau de transition : Faible / Moyen / Critique
+
+Dernière révision : {AAAA-MM-JJ}
+
+
+
+---
+
+13. Validation récursive (CAP ↔ OVM)
+
+
+
+Chaque régime est valide uniquement si :
+
+ses transitions CAP sont cohérentes
+
+ses tensions OVM ne sont pas court-circuitées
+
+ses invariants restent stables sous changement d’échelle
+
+aucune réduction illégitime n’est effectuée
+
+
+Toute incohérence déclenche :
+
+requalification du régime
+
+ou révision des tensions associées
