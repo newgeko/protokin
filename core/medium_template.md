@@ -1,218 +1,273 @@
 [TITLE]
 
-Subtitle
+[SUBTITLE]
 
 A public controversy is rarely a disagreement about facts. More often, it is a collision between incompatible ways of describing reality.
 
 ---
 
-1. The Event Everyone Thinks They Understand
-
+# 1. The Event Everyone Thinks They Understand
 (250–300 words)
 
-Commencez par un fait d'actualité précis.
+Commencez par un fait d’actualité précis.
 
-Pas d'analyse immédiatement.
+Pas d’analyse.
 
-Décrivez la situation telle qu'elle apparaît dans l'espace public :
+Mais introduire une contrainte supplémentaire :
 
-- les acteurs ;
-- les positions opposées ;
-- les arguments les plus visibles ;
-- les accusations réciproques.
+👉 montrer *la stabilité apparente du débat*
 
-Le lecteur doit reconnaître instantanément la controverse.
+Décrire :
 
-Terminez la section par une question :
+- les acteurs  
+- les positions opposées  
+- les arguments dominants  
+- les accusations réciproques  
 
-«What if the disagreement is not about the facts themselves, but about the framework used to describe them?»
+⚠️ Nouvelle règle :
+
+Le texte doit rendre le conflit **symétriquement plausible** des deux côtés.
+
+Fin de section :
+
+> What if the disagreement is not about the facts themselves, but about the framework used to describe them?
 
 ---
 
-2. The Mirage of Disagreement
-
+# 2. The Mirage of Disagreement
 (250–350 words)
 
-Présentez le premier déplacement conceptuel.
+Même structure, mais ajout critique :
 
-La plupart des débats publics supposent :
+👉 introduire une **faille de projection**
 
-- un objet unique ;
-- une réalité unique ;
-- plusieurs interprétations concurrentes.
+La plupart des débats supposent :
 
-Puis introduisez l'hypothèse inverse :
+- un objet unique  
+- une réalité stable  
+- plusieurs opinions  
 
-Les participants ne décrivent peut-être pas le même objet.
+Mais ici, ajouter explicitement :
 
-Ils parlent du même phénomène apparent mais depuis des régimes descriptifs différents.
+> This assumption hides a deeper instability: the object itself is not held constant across descriptions.
 
-C'est ici que l'on introduit discrètement la distinction :
+Introduire les familles de description :
 
-- causal descriptions;
-- normative descriptions;
-- institutional descriptions;
-- experiential descriptions.
+- causal / statistical  
+- normative / institutional  
+- experiential / situated  
 
-Sans encore utiliser la taxonomie complète Protokin.
+⚠️ Nouvelle contrainte :
+
+Ne pas dire qu’ils “diffèrent”.
+Dire qu’ils **ne persistent pas sous les mêmes conditions de validation**.
 
 ---
 
-3. Mapping the Descriptive Regimes
-
+# 3. Mapping the Descriptive Regimes
 (400–500 words)
 
-Cœur analytique.
+⚠️ Modification importante : cette section devient dynamique, pas descriptive.
 
-Présentez les deux ou trois régimes principaux impliqués.
+## Regime A / B / C
 
-Pour chacun :
+Pour chaque régime :
 
-Regime A
+- what it stabilizes under pressure  
+- what counts as failure inside it  
+- what it systematically cannot perceive  
+- what it erases when it expands  
 
-- ce qu'il cherche à stabiliser ;
-- ses critères de validité ;
-- ses outils ;
-- ses angles morts.
+### ⚠️ Nouvelle règle structurale :
 
-Regime B
-
-- ce qu'il cherche à stabiliser ;
-- ses critères de validité ;
-- ses outils ;
-- ses angles morts.
-
-Regime C (facultatif)
-
-Même structure.
-
-Point essentiel :
-
-Ne jamais désigner un régime comme « vrai » et l'autre comme « faux ».
-
-Montrer qu'ils répondent à des contraintes différentes.
-
-Conclure :
-
-«The controversy begins when one regime attempts to occupy the territory of another.»
+Chaque régime doit être décrit avec **son propre concept d’erreur**.
 
 ---
 
-4. The Three Frictions
+## Constraint: Asymmetric Blindness Rule
 
+Chaque régime doit contenir :
+
+> a structural blind spot that becomes visible only from another regime
+
+---
+
+## Transition line renforcée :
+
+> The conflict does not arise from disagreement, but from mutual attempts to universalize local constraints.
+
+---
+
+# 3.5 Residual Zone (NEW — CRITIQUE)
+
+(150–200 words)
+
+Toute analyse complète doit inclure :
+
+> ce qui ne peut être stabilisé dans aucun régime
+
+Exemples :
+
+- expériences non agrégables  
+- décisions sans justification complète  
+- anomalies locales persistantes  
+- contextes perdus dans la traduction  
+
+⚠️ Nouvelle règle :
+
+Ne jamais expliquer cette zone.
+
+Seulement la **pointer comme limite structurelle**.
+
+---
+
+# 4. The Three Frictions
 (350–450 words)
 
-Introduire les tensions.
+Transformation majeure :
 
-Friction 1: Scale
-
-Comment une observation locale devient abusivement universelle.
-
-Questions :
-
-- Is the claim operating at the right scale?
-- What disappears during aggregation?
-
-Friction 2: Normativity
-
-Comment une description devient une obligation.
-
-Questions :
-
-- What is being described?
-- What is being prescribed?
-
-Friction 3: Framework Collapse
-
-Comment un changement de modèle est présenté comme un changement du monde.
-
-Questions :
-
-- What has actually changed?
-- The phenomenon, or only its description?
-
-Cette section doit être la plus pédagogique.
-
-Le lecteur doit pouvoir réutiliser ces trois tests ailleurs.
+👉 les frictions deviennent des **instabilités de passage**, pas des “tests”
 
 ---
 
-5. Why This Keeps Happening
+## Friction 1 — Scale Drift (T3)
 
+Quand une structure locale devient universelle sans médiation.
+
+⚠️ Nouvelle formulation :
+
+> What disappears when locality is expanded into abstraction?
+
+---
+
+## Friction 2 — Normative Leakage (T4)
+
+Quand une description devient prescription sans transition explicite.
+
+⚠️ Nouvelle formulation :
+
+> At what point does explanation begin to act as command?
+
+---
+
+## Friction 3 — Ontological Collapse (T5)
+
+Quand un modèle est traité comme transformation du réel.
+
+⚠️ Nouvelle formulation :
+
+> What is being changed: the world, or only the vocabulary used to describe it?
+
+---
+
+## Constraint:
+
+Chaque friction doit être lisible comme :
+
+> a failure of translation, not a logical error
+
+---
+
+# 5. Why This Keeps Happening
 (250–350 words)
 
-Passage du cas particulier au diagnostic civilisationnel.
+Ajout important :
 
-Développer l'idée que les sociétés modernes produisent :
+👉 introduire la notion de **désalignement institutionnel des régimes**
 
-- davantage de données ;
-- davantage d'expertise ;
-- davantage de modèles.
+Les sociétés modernes :
 
-Mais pas nécessairement davantage de médiations entre ces modèles.
-
-Le problème devient alors institutionnel.
-
-La question n'est plus :
-
-"Who is right?"
+- produisent des modèles  
+- produisent des métriques  
+- produisent des expertises  
 
 Mais :
 
-"Which regime is being granted authority?"
+> do not produce enough structured translation layers between them
+
+⚠️ Nouvelle inversion :
+
+Le problème n’est pas l’excès de rationalité.
+
+Mais l’absence de **protocoles de passage entre rationalités incompatibles**.
 
 ---
 
-6. The Cost of Invisible Transitions
-
+# 6. The Cost of Invisible Transitions
 (200–300 words)
 
-Montrer les conséquences.
+Ajout :
 
-Lorsque les transitions entre régimes deviennent invisibles :
+👉 introduire la notion de **compression invisible**
 
-- perte de confiance ;
-- polarisation ;
-- technocratie ;
-- populisme ;
-- saturation du débat public.
+Lorsque les transitions disparaissent :
 
-Le problème n'est pas l'existence des experts.
+- trust erosion  
+- epistemic fragmentation  
+- technocratic overreach  
+- populist counter-models  
 
-Le problème est l'effacement des étapes reliant expertise, justification et décision collective.
+⚠️ Nouvelle contrainte :
+
+Toujours distinguer :
+
+- failure of knowledge  
+- failure of translation  
+
+Le texte doit privilégier la seconde.
 
 ---
 
-7. Becoming an Epistemic Auditor
-
+# 7. Becoming an Epistemic Auditor
 (250–350 words)
 
-Transformer le lecteur.
+Transformation du lecteur.
 
-Introduire la posture d'audit.
+Ajouter une couche critique :
 
-Face à une nouvelle controverse, ne pas demander immédiatement :
+👉 la question de l’exclusion épistémique
 
-- Who is lying?
-- Which side is correct?
+Nouveau point d’audit :
 
-Mais :
+> Who is being reduced to a data source instead of being treated as a participant in the space of reasons?
+
+Autres questions :
 
 - What regime is speaking?
 - What is being stabilized?
-- Which transition is being assumed?
-- What disappears during that transition?
+- What is assumed to be translatable?
+- What is silently discarded?
 
 ---
 
-Conclusion
+# CONCLUSION
 
-Une phrase courte et mémorable.
+Ajout d’une contrainte de fermeture :
 
-Par exemple :
+⚠️ interdit de “résoudre” la tension
 
-«Modern controversies are often less about reality than about the authority to describe it.»
+Conclusion doit être :
+
+- invariant court  
+- non explicatif  
+- non synthétique  
+
+Exemples :
+
+> Modern controversies are failures of translation between regimes of description.
 
 ou
 
-«Before asking who is right, ask which regime has silently become the measure of reality.»
+> The real question is not who is right, but what makes “right” even comparable across regimes.
+
+---
+
+# 🔒 FINAL SYSTEM INVARIANT
+
+A valid article must:
+
+- maintain at least two incompatible regimes throughout  
+- avoid collapse into unified explanation  
+- preserve a residual zone  
+- expose at least one invisible transition failure  
+- prevent final epistemic closure
