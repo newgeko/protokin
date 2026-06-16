@@ -1,6 +1,5 @@
-[TITLE]
-
-[SUBTITLE]
+# [TITLE]
+# [SUBTITLE]
 
 A public controversy is rarely a disagreement about facts. More often, it is a collision between incompatible ways of describing reality.
 
@@ -9,26 +8,28 @@ A public controversy is rarely a disagreement about facts. More often, it is a c
 # 1. The Event Everyone Thinks They Understand
 (250–300 words)
 
-Commencez par un fait d’actualité précis.
+Start from a concrete, publicly recognizable situation: a scientific dispute, a political controversy, a technological panic, a medical debate, or a legal conflict.
 
-Pas d’analyse.
+Do not begin with interpretation.
 
-Mais introduire une contrainte supplémentaire :
+Describe the situation as it appears from the outside:
 
-👉 montrer *la stabilité apparente du débat*
+- the actors involved
+- the apparent positions they occupy
+- the arguments that circulate most visibly
+- the accusations exchanged between sides
+- the intuitive sense that “both sides are talking about the same thing”
 
-Décrire :
+⚠️ Constraint: **stability must be convincing**
 
-- les acteurs  
-- les positions opposées  
-- les arguments dominants  
-- les accusations réciproques  
+The reader must feel that:
+- the disagreement is well-posed
+- the object is shared
+- the conflict is symmetrical and intelligible
 
-⚠️ Nouvelle règle :
+Even if this later collapses.
 
-Le texte doit rendre le conflit **symétriquement plausible** des deux côtés.
-
-Fin de section :
+End with:
 
 > What if the disagreement is not about the facts themselves, but about the framework used to describe them?
 
@@ -37,104 +38,110 @@ Fin de section :
 # 2. The Mirage of Disagreement
 (250–350 words)
 
-Même structure, mais ajout critique :
+Restate the apparent assumption:
 
-👉 introduire une **faille de projection**
+- one object
+- one reality
+- multiple interpretations
 
-La plupart des débats supposent :
-
-- un objet unique  
-- une réalité stable  
-- plusieurs opinions  
-
-Mais ici, ajouter explicitement :
+Then introduce the instability:
 
 > This assumption hides a deeper instability: the object itself is not held constant across descriptions.
 
-Introduire les familles de description :
+Introduce three families of description (adaptable to context):
 
-- causal / statistical  
-- normative / institutional  
-- experiential / situated  
+- causal / statistical (systems, mechanisms, probabilities)
+- normative / institutional (rules, responsibilities, legitimacy)
+- experiential / situated (lived, phenomenological, first-person or local access)
 
-⚠️ Nouvelle contrainte :
+⚠️ Constraint:
+Do NOT say “they differ.”
 
-Ne pas dire qu’ils “diffèrent”.
-Dire qu’ils **ne persistent pas sous les mêmes conditions de validation**.
+Instead:
+
+- they do not persist under the same conditions of validation
+- each requires a different form of stabilization to exist as an “object”
+
+Each regime implicitly reconstructs what counts as “the thing itself.”
 
 ---
 
 # 3. Mapping the Descriptive Regimes
 (400–500 words)
 
-⚠️ Modification importante : cette section devient dynamique, pas descriptive.
+This section is dynamic, not taxonomic.
 
 ## Regime A / B / C
 
-Pour chaque régime :
+For each regime:
 
-- what it stabilizes under pressure  
-- what counts as failure inside it  
-- what it systematically cannot perceive  
-- what it erases when it expands  
+### 1. What it stabilizes under pressure
+What remains coherent when the system is stressed?
 
-### ⚠️ Nouvelle règle structurale :
+### 2. Its internal concept of error
+Not “mistake” in general, but:
+- what counts as failure *inside its own logic*
 
-Chaque régime doit être décrit avec **son propre concept d’erreur**.
+### 3. Its blind spot
+What it cannot see *as long as it remains inside itself*
+
+### 4. Its expansion paradox
+What gets erased or distorted when it tries to become universal
 
 ---
 
-## Constraint: Asymmetric Blindness Rule
+⚠️ Structural rule:
 
-Chaque régime doit contenir :
+Each regime must include:
 
 > a structural blind spot that becomes visible only from another regime
 
 ---
 
-## Transition line renforcée :
+### Transition line (mandatory):
 
 > The conflict does not arise from disagreement, but from mutual attempts to universalize local constraints.
 
 ---
 
 # 3.5 Residual Zone (NEW — CRITIQUE)
-
 (150–200 words)
 
-Toute analyse complète doit inclure :
+Every analysis must acknowledge a remainder.
 
-> ce qui ne peut être stabilisé dans aucun régime
+Describe:
 
-Exemples :
+- experiences that cannot be aggregated
+- decisions that cannot be fully justified within any regime
+- anomalies that persist without resolution
+- contextual meanings lost in translation
 
-- expériences non agrégables  
-- décisions sans justification complète  
-- anomalies locales persistantes  
-- contextes perdus dans la traduction  
+⚠️ Constraint:
 
-⚠️ Nouvelle règle :
+Do NOT explain this zone.
 
-Ne jamais expliquer cette zone.
+Do NOT integrate it.
 
-Seulement la **pointer comme limite structurelle**.
+Only indicate its presence as a structural limit.
+
+It is not a mystery.
+
+It is a boundary condition.
 
 ---
 
 # 4. The Three Frictions
 (350–450 words)
 
-Transformation majeure :
+Frictions are not “problems.”
 
-👉 les frictions deviennent des **instabilités de passage**, pas des “tests”
+They are **translation failures between regimes**.
 
 ---
 
 ## Friction 1 — Scale Drift (T3)
 
-Quand une structure locale devient universelle sans médiation.
-
-⚠️ Nouvelle formulation :
+When a local description is extended globally without mediation.
 
 > What disappears when locality is expanded into abstraction?
 
@@ -142,9 +149,7 @@ Quand une structure locale devient universelle sans médiation.
 
 ## Friction 2 — Normative Leakage (T4)
 
-Quand une description devient prescription sans transition explicite.
-
-⚠️ Nouvelle formulation :
+When description silently becomes prescription.
 
 > At what point does explanation begin to act as command?
 
@@ -152,17 +157,15 @@ Quand une description devient prescription sans transition explicite.
 
 ## Friction 3 — Ontological Collapse (T5)
 
-Quand un modèle est traité comme transformation du réel.
-
-⚠️ Nouvelle formulation :
+When a model of description is mistaken for a transformation of reality.
 
 > What is being changed: the world, or only the vocabulary used to describe it?
 
 ---
 
-## Constraint:
+⚠️ Constraint for all frictions:
 
-Chaque friction doit être lisible comme :
+Each must be readable as:
 
 > a failure of translation, not a logical error
 
@@ -171,67 +174,79 @@ Chaque friction doit être lisible comme :
 # 5. Why This Keeps Happening
 (250–350 words)
 
-Ajout important :
+Introduce:
 
-👉 introduire la notion de **désalignement institutionnel des régimes**
+## Structural institutional desynchronization of regimes
 
-Les sociétés modernes :
+Modern systems:
 
-- produisent des modèles  
-- produisent des métriques  
-- produisent des expertises  
+- produce models (scientific / computational)
+- produce metrics (economic / statistical)
+- produce norms (legal / ethical)
+- produce narratives (media / cultural)
 
-Mais :
+But:
 
-> do not produce enough structured translation layers between them
+> they do not produce enough structured translation layers between them
 
-⚠️ Nouvelle inversion :
+---
 
-Le problème n’est pas l’excès de rationalité.
+⚠️ Key inversion:
 
-Mais l’absence de **protocoles de passage entre rationalités incompatibles**.
+The problem is not:
+- lack of rationality
+- lack of data
+- lack of expertise
+
+The problem is:
+
+> absence of protocols of passage between incompatible rationalities
+
+---
 
 ---
 
 # 6. The Cost of Invisible Transitions
 (200–300 words)
 
-Ajout :
+Introduce:
 
-👉 introduire la notion de **compression invisible**
+## Compression of regimes
 
-Lorsque les transitions disparaissent :
+When translation layers are missing:
 
-- trust erosion  
-- epistemic fragmentation  
-- technocratic overreach  
-- populist counter-models  
+- epistemic trust erosion
+- fragmentation of shared reality
+- technocratic overreach
+- reactive counter-models (political, populist, cultural)
 
-⚠️ Nouvelle contrainte :
+---
 
-Toujours distinguer :
+⚠️ Mandatory distinction:
 
-- failure of knowledge  
-- failure of translation  
+- failure of knowledge (lack of information)
+- failure of translation (incompatibility of frameworks)
 
-Le texte doit privilégier la seconde.
+The analysis must privilege the second.
 
 ---
 
 # 7. Becoming an Epistemic Auditor
 (250–350 words)
 
-Transformation du lecteur.
+The reader is no longer a spectator.
 
-Ajouter une couche critique :
+They become an **observer of regime shifts**.
 
-👉 la question de l’exclusion épistémique
+Introduce:
 
-Nouveau point d’audit :
+## Question of epistemic exclusion
 
 > Who is being reduced to a data source instead of being treated as a participant in the space of reasons?
 
-Autres questions :
+---
+
+Audit questions:
 
 - What regime is speaking?
 - What is being stabilized?
@@ -240,23 +255,23 @@ Autres questions :
 
 ---
 
+The goal is not to choose a side.
+
+It is to detect regime boundaries in operation.
+
+---
+
 # CONCLUSION
 
-Ajout d’une contrainte de fermeture :
+⚠️ Constraint: no resolution, no synthesis, no closure
 
-⚠️ interdit de “résoudre” la tension
+The conclusion must remain invariant and minimal.
 
-Conclusion doit être :
-
-- invariant court  
-- non explicatif  
-- non synthétique  
-
-Exemples :
+Examples:
 
 > Modern controversies are failures of translation between regimes of description.
 
-ou
+or
 
 > The real question is not who is right, but what makes “right” even comparable across regimes.
 
@@ -266,8 +281,8 @@ ou
 
 A valid article must:
 
-- maintain at least two incompatible regimes throughout  
-- avoid collapse into unified explanation  
-- preserve a residual zone  
-- expose at least one invisible transition failure  
+- maintain at least two incompatible regimes throughout
+- avoid global unification of description
+- preserve a residual zone that is not integrated
+- expose at least one invisible transition failure
 - prevent final epistemic closure
