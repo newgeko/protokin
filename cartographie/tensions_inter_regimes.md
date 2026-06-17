@@ -1202,6 +1202,12 @@ Comment passe-t-on du comportement biologique à la coordination sociale ?
 
 ---
 
+## Zone R1.bis : Du Somatique au Phylogénétique (P7 ↔ P15)
+​Tension associée : Tension d'Inadéquation Somatique (que l'on peut nommer T15).
+​Principe : Ce qui stabilise un invariant à l'échelle de la lignée germinale (la propagation du gène en P15) détruit activement la stabilisation homéostatique de l'individu (le corps jetable en P7).
+​Règle de vigilance OVM : Bloquer toute tentative de réduction (T1) qui expliquerait la mort ou le vieillissement d'un organisme comme un "programme de suicide cellulaire" délibéré pour le bien de l'espèce (dérive téléologique). L'OVM force à lire la mort comme le résultat d'un arbitrage négatif : une simple baisse de la pression de sélection après le pic de reproduction.
+
+--- 
 ## Zone R2
 
 Compétence topographique → Espace des raisons
