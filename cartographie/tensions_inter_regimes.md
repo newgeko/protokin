@@ -1188,76 +1188,8 @@ P12 -. médiation nécessaire .-> P13
 
 # ⚠️ Zones de rupture critiques
 
-Les zones suivantes doivent être surveillées dans tout audit Protokin.
 
-## Zone R1
-
-Préconditions biologiques → Intentionnalité partagée
-
-```text
-P7 → P8
-```
-
-Question :
-
-Comment passe-t-on du comportement biologique à la coordination sociale ?
-
----
-
-## Zone R1.bis : Du Somatique au Phylogénétique (P7 ↔ P15)
-​Tension associée : Tension d'Inadéquation Somatique (que l'on peut nommer T15).
-​Principe : Ce qui stabilise un invariant à l'échelle de la lignée germinale (la propagation du gène en P15) détruit activement la stabilisation homéostatique de l'individu (le corps jetable en P7).
-​Règle de vigilance OVM : Bloquer toute tentative de réduction (T1) qui expliquerait la mort ou le vieillissement d'un organisme comme un "programme de suicide cellulaire" délibéré pour le bien de l'espèce (dérive téléologique). L'OVM force à lire la mort comme le résultat d'un arbitrage négatif : une simple baisse de la pression de sélection après le pic de reproduction.
-
---- 
-## Zone R2
-
-Compétence topographique → Espace des raisons
-
-```text
-P4 → P11
-```
-
-Question :
-
-Comment passe-t-on des objets stabilisés aux justifications ?
-
----
-
-## Zone R3
-
-Couplage structurel → Normativité
-
-```text
-P10 → P11
-```
-
-Question :
-
-Comment passe-t-on des causes aux raisons ?
-
----
-
-## Zone R4
-
-Évaluation thimique → Institution inférentielle
-
-```text
-P12 → P13
-```
-
-Question :
-
-Comment une valeur devient-elle une norme ?
-
-
-Elle vise à identifier l’origine principale de la difficulté observée :
-
-- architecture des régimes ;
-- pratique descriptive ;
-- dynamique de stabilisation.
-
-Elle fournit ainsi un niveau supplémentaire d’analyse pour les audits de viabilité conceptuelle.
+fichier : ’zones.md’
 
 ---
 
