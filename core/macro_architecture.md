@@ -60,7 +60,7 @@ ils décrivent des manières différentes de stabiliser le réel.
 - R5 — Minimisation de la surprise  
 - R6 — Récursion prospective  
 - R7 — Couplage structurel  
-
+- P15 — Sélection antagoniste et dérive phylogénétique (Williams / Medawar)
 ---
 
 ### 👥 Socio-développemental
