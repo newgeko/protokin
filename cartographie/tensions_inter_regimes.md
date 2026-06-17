@@ -173,6 +173,8 @@ Les numéros (P1 à P14) sont des **index de référence interne**, utilisés po
 
 - **P7 — Couplage structurel (Maturana / Varela)**
 
+- **P15 — Sélection antagoniste et dérive phylogénétique*** (Williams / Medawar)
+
 ---
 
 ## 👥 Régimes socio-développementaux
