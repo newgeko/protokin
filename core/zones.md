@@ -2,7 +2,7 @@
 
 ## 1. Définition dans l'architecture Protokin
 
-Dans le *Protokin cOS*, les **Zones** ne sont pas des espaces géographiques ou physiques du réel, mais des lieux topologiques au sein de la cartographie métathéorique. Elles désignent les espaces critiques où s'accumulent et s'exacerbent les tensions entre différents régimes de stabilisation (particulièrement entre le versant *Proto* des causes biologiques/physiques et le versant *Kin* des normes et raisons).
+Dans le *Protokin*, les **Zones** ne sont pas des espaces géographiques ou physiques du réel, mais des lieux topologiques au sein de la cartographie métathéorique. Elles désignent les espaces critiques où s'accumulent et s'exacerbent les tensions entre différents régimes de stabilisation (particulièrement entre le versant *Proto* des causes biologiques/physiques et le versant *Kin* des normes et raisons).
 
 Elles se divisent structurellement en deux catégories majeures :
 * **ZAR (Zones d'Anomalie Régionale)** : Espaces où l'instabilité est prolongée. Les régimes descriptifs peuvent y coexister sous forte tension (par exemple, des tensions de traduction T2 ou d'échelle T3) sans s'effondrer immédiatement. Elles nécessitent des reconfigurations locales.
