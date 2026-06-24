@@ -1,8 +1,8 @@
-P10 — Couplage structurel des pratiques
+R10 — Couplage structurel des pratiques
 
 0. Identification
 
-- Numéro : P10
+- Numéro : R10
 - Nom : Couplage structurel des pratiques (Girard / Maturana / Varela)
 - Famille : normatif
 - Type : Régime de couplage
@@ -47,7 +47,7 @@ Francisco J. Varela (et Humberto Maturana)
 - Référence : references/varela.md
 - Statut : Frontière inter-régime / Générateur de tension
 - Apport opératoire :
-  Modélise la dimension strictement biologique du couplage structurel et de la dérive des pratiques (P7). Dans P10, ce concept est étendu pour décrire comment la récurrence des interactions sédimente des régularités comportementales sans transfert direct d'information prescriptive.
+  Modélise la dimension strictement biologique du couplage structurel et de la dérive des pratiques (R7). Dans R10, ce concept est étendu pour décrire comment la récurrence des interactions sédimente des régularités comportementales sans transfert direct d'information prescriptive.
 - Tensions associées :
   Tension normative (T4).
 
@@ -92,7 +92,7 @@ Jean-Pierre Dupuy
 
 - Fonction : Garde-fou
 - Règle de vigilance :
-  L'OVM interdit d'assimiler la création d'ordre par le bruit (la morphogenèse issue de la crise mimétique) à un projet rationnel, téléologique ou moral délibéré. L'émergence des pratiques dans ce régime opère par méconnaissance. Justifier rationnellement cette genèse ou la confondre avec la légitimité des raisons (P13) déclenche une violation modale (T1/T11).
+  L'OVM interdit d'assimiler la création d'ordre par le bruit (la morphogenèse issue de la crise mimétique) à un projet rationnel, téléologique ou moral délibéré. L'émergence des pratiques dans ce régime opère par méconnaissance. Justifier rationnellement cette genèse ou la confondre avec la légitimité des raisons (R13) déclenche une violation modale (T1/T11).
 
 ---
 
@@ -139,7 +139,7 @@ Angle mort structurel
 Pour fonctionner, ce régime doit nécessairement ignorer :
 
 - L'intentionnalité rationnelle et transparente des acteurs.
-- L'espace des justifications logiques et la révisabilité critique des croyances (P11).
+- L'espace des justifications logiques et la révisabilité critique des croyances (R11).
 
 ---
 
@@ -155,13 +155,13 @@ Frontières descriptives
 
 Le régime devient insuffisant lorsque :
 
-- Les pratiques doivent être requalifiées en normes explicites, justifiées et révisables (P11, P13).
+- Les pratiques doivent être requalifiées en normes explicites, justifiées et révisables (R11, R13).
 - L'analyse exige de traiter la valeur de vérité logique d'une proposition indépendamment de son origine.
 
 Violations typiques détectées par l'OVM :
 
 - Réduction abusive (T1) : affirmer que le droit constitutionnel n'est *rien d'autre* qu'un lynchage ritualisé.
-- Compression inter-régime (T11) : superposer la biologie autopoïétique (P7) et le rite sacré (P10) en un tout indifférencié.
+- Compression inter-régime (T11) : superposer la biologie autopoïétique (R7) et le rite sacré (R10) en un tout indifférencié.
 - Erreur modale : rabattre la genèse violente d'une règle sur sa validité normative.
 
 ---
@@ -226,21 +226,21 @@ Seuil critique :
 
 Compatibilités partielles
 
-- P7 — Couplage structurel : P7 fournit l'ancrage matériel et biologique vital au sein duquel les pratiques sédimentées de P10 émergent.
-- P8 — Intentionnalité partagée : P8 fournit la structure d'attention conjointe qui permet la polarisation d'un groupe sur une cible commune (objet de désir ou bouc émissaire).
+- R7 — Couplage structurel : R7 fournit l'ancrage matériel et biologique vital au sein duquel les pratiques sédimentées de R10 émergent.
+- R8 — Intentionnalité partagée : R8 fournit la structure d'attention conjointe qui permet la polarisation d'un groupe sur une cible commune (objet de désir ou bouc émissaire).
 
 Traductions stables
 
-- P10 ↔ P9 (Effet cliquet culturel) : La pratique résolutive issue de l'interaction (le rite, l'interdit) se fige et est transmise fidèlement comme artefact sédimenté aux générations suivantes.
+- R10 ↔ R9 (Effet cliquet culturel) : La pratique résolutive issue de l'interaction (le rite, l'interdit) se fige et est transmise fidèlement comme artefact sédimenté aux générations suivantes.
 
 Frictions cartographiées
 
-- P13 — Tension T4 (Normative) : Conflit entre l'apparition causale et souvent aveugle d'une pratique (P10) et sa justification explicite dans un réseau de droits et d'obligations (P13).
-- P11 — Tension T5 (Rupture) : L'incommensurabilité entre l'ordre né du bruit mimétique et l'entrée dans l'Espace des raisons.
+- R13 — Tension T4 (Normative) : Conflit entre l'apparition causale et souvent aveugle d'une pratique (R10) et sa justification explicite dans un réseau de droits et d'obligations (R13).
+- R11 — Tension T5 (Rupture) : L'incommensurabilité entre l'ordre né du bruit mimétique et l'entrée dans l'Espace des raisons.
 
 Incompatibilités structurelles
 
-- P1 — Cinétique protonique : Les dynamiques ioniques et thermodynamiques n'ont aucune accroche avec la polarisation mimétique ou la sédimentation d'une pratique collective.
+- R1 — Cinétique protonique : Les dynamiques ioniques et thermodynamiques n'ont aucune accroche avec la polarisation mimétique ou la sédimentation d'une pratique collective.
 
 ---
 
@@ -257,17 +257,17 @@ Tensions constitutives
 
 Fonction de ces tensions
 
-Ces tensions garantissent l'architecture duale de Protokin. Elles existent pour marquer la différence indépassable entre la genèse causale d'une règle (P10, ordre par le bruit et l'interaction) et la validité justificative d'une règle (P13, espace des raisons). Sans elles, P10 absorberait toute l'épistémologie dans un relativisme anthropologique effaçant l'autonomie de la rationalité.
+Ces tensions garantissent l'architecture duale de Protokin. Elles existent pour marquer la différence indépassable entre la genèse causale d'une règle (R10, ordre par le bruit et l'interaction) et la validité justificative d'une règle (R13, espace des raisons). Sans elles, R10 absorberait toute l'épistémologie dans un relativisme anthropologique effaçant l'autonomie de la rationalité.
 
 ---
 
 7. Traductions inter-régimes
 
-Vu depuis P13 (Institution inférentielle)
+Vu depuis R13 (Institution inférentielle)
 
 Le couplage des pratiques est perçu comme l'infrastructure historique et la genèse matérielle opaque qui a structuré les communautés avant que celles-ci n'instituent un système de tenue des scores déontiques explicite et transparent.
 
-Vu depuis P5 (Minimisation de la surprise)
+Vu depuis R5 (Minimisation de la surprise)
 
 Le mécanisme victimaire et les pratiques rituelles sont traduits comme des réducteurs collectifs drastiques de surprise. Face à l'entropie sociale d'une crise mimétique, le groupe génère un *prior* comportemental massif (le sacré) pour rétablir violemment la prédictibilité de son milieu.
 
@@ -286,12 +286,12 @@ Lorsqu’une saturation est détectée, le Cycle d’Audit Protokin (CAP) est d�
 Diagnostic possible
 
 - Tension principale : T4 (Tension normative)
-- Tension secondaire : T5 (Rupture face à P11)
+- Tension secondaire : T5 (Rupture face à R11)
 
 Transitions fréquemment observées
 
-- P10 → P13 par rupture (saut du mythe aveugle à la justification formelle et institutionnelle).
-- P10 → P9 par émergence (cristallisation d'une pratique résolutive en artefact sédimenté).
+- R10 → R13 par rupture (saut du mythe aveugle à la justification formelle et institutionnelle).
+- R10 → R9 par émergence (cristallisation d'une pratique résolutive en artefact sédimenté).
 
 Hiérarchie des transitions autorisées
 
@@ -313,7 +313,7 @@ Il détecte les violations de frontières descriptives. Ici, l'OVM bloque les te
 ```mermaid
 graph TD
 
-P[P10]
+P[R10]
 
 P --> V[Zone valide]
 P --> S[Saturation]
@@ -322,11 +322,11 @@ S --> CAP((CAP))
 CAP --> OVM{OVM}
 OVM --> T[Transition]
 
-T --> P9[P9]
-T --> P13[P13]
+T --> R9[R9]
+T --> R13[R13]
 
-P -. Tension T4 .-> P13_Brandom[P13]
-P -. Tension T5 .-> P11[P11]
+P -. Tension T4 .-> R13_Brandom[R13]
+P -. Tension T5 .-> R11[R11]
 ```
 
 ---
@@ -377,9 +377,9 @@ Il décrit une manière stable de décrire le monde.
 
 12. Métadonnées
 
-Fichier : P10_couplage_structurel_des_pratiques.md
+Fichier : R10_couplage_structurel_des_pratiques.md
 
-Connexions principales : P7, P8, P9, P11, P13
+Connexions principales : R7, R8, R9, R11, R13
 
 Tensions dominantes : T1, T4, T5
 
