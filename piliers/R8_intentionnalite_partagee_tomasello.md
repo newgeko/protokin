@@ -1,8 +1,8 @@
-P8 — Intentionnalité partagée (Tomasello)
+R8 — Intentionnalité partagée (Tomasello)
 
 0. Identification
 
-- Numéro : P8
+- Numéro : R8
 - Nom : Intentionnalité partagée
 - Famille : socio-développemental
 - Type : Régime de couplage
@@ -62,7 +62,7 @@ Sans ce régime, l'architecture perdrait la possibilité d'auditer les tentative
 Contribution principale à Protokin :
 
 - Stabilisation de la coordination sociale et du triangle attentionnel.
-- Cartographie du pont évolutif et développemental fondamental entre la pure biologie (P7) et la normativité culturelle et linguistique (P9, P11, P13).
+- Cartographie du pont évolutif et développemental fondamental entre la pure biologie (R7) et la normativité culturelle et linguistique (R9, R11, R13).
 - Point d'origine des tensions T2 et T4 face à l'optimisation individuelle ou aux normes abstraites.
 
 ---
@@ -92,7 +92,7 @@ Michael Tomasello (Contre l'hyper-intellectualisme)
 
 - Fonction : Garde-fou
 - Règle de vigilance :
-  L'OVM bloque toute tentative de projeter des capacités de méta-représentation logique récursive (propres aux adultes maîtrisant le langage, P11/P13) sur la simple attention conjointe des enfants pré-verbaux ou sur les fondations de l'interaction (violation T6). L'intentionnalité partagée doit être strictement modélisée comme une coordination de l'action située.
+  L'OVM bloque toute tentative de projeter des capacités de méta-représentation logique récursive (propres aux adultes maîtrisant le langage, R11/R13) sur la simple attention conjointe des enfants pré-verbaux ou sur les fondations de l'interaction (violation T6). L'intentionnalité partagée doit être strictement modélisée comme une coordination de l'action située.
 
 ---
 
@@ -147,7 +147,7 @@ Pour fonctionner, ce régime doit nécessairement ignorer :
 
 Le régime est pertinent lorsque :
 
-- Le système est composé d'au moins deux agents dotés d'une compétence topographique (P4) et d'un système de valence fonctionnel (P12).
+- Le système est composé d'au moins deux agents dotés d'une compétence topographique (R4) et d'un système de valence fonctionnel (R12).
 - Les canaux de communication pré-linguistiques (coordination oculaire, gestes déictiques) sont actifs et non saturés par du bruit.
 - L'environnement offre des opportunités de rétroaction immédiate permettant de valider l'alignement des buts.
 
@@ -156,12 +156,12 @@ Frontières descriptives
 Le régime devient insuffisant lorsque :
 
 - La coordination doit s'étendre à des échelles de temps et d'espace qui dépassent l'interaction physique directe et synchrone.
-- L'interaction nécessite la formulation de lois de validation logique ou d'engagements sémantiques révisables (P11, P13).
+- L'interaction nécessite la formulation de lois de validation logique ou d'engagements sémantiques révisables (R11, R13).
 
 Violations typiques détectées par l'OVM :
 
-- Réduction abusive (T1) : affirmer que la coopération n'est qu'un calcul d'optimisation égoïste dicté par la génétique (écrasement sur P7).
-- Compression inter-régime (T11) : fusionner l'attention conjointe enfantine (P8) et l'institution inférentielle adulte (P13) sans transition explicite.
+- Réduction abusive (T1) : affirmer que la coopération n'est qu'un calcul d'optimisation égoïste dicté par la génétique (écrasement sur R7).
+- Compression inter-régime (T11) : fusionner l'attention conjointe enfantine (R8) et l'institution inférentielle adulte (R13) sans transition explicite.
 - Erreur modale d'intellectualisation (T6).
 
 ---
@@ -201,9 +201,9 @@ Symptômes observables :
 
 Tensions fréquemment associées :
 
-- T2 (Traduction avec l'optimisation bayésienne P5)
-- T10 (Dérive inter-temporelle vers P9)
-- T4 (Tension normative face à P13)
+- T2 (Traduction avec l'optimisation bayésienne R5)
+- T10 (Dérive inter-temporelle vers R9)
+- T4 (Tension normative face à R13)
 
 ---
 
@@ -226,21 +226,21 @@ Seuil critique :
 
 Compatibilités partielles
 
-- P4 — Compétence topographique : L'intentionnalité partagée s'appuie sur la capacité à stabiliser des invariants par l'action, en l'étendant pour en faire un invariant pour *deux* observateurs.
-- P5 — Minimisation de la surprise : Le couplage triadique réduit mutuellement l'erreur prédictive en rendant le comportement du partenaire hautement saillant.
+- R4 — Compétence topographique : L'intentionnalité partagée s'appuie sur la capacité à stabiliser des invariants par l'action, en l'étendant pour en faire un invariant pour *deux* observateurs.
+- R5 — Minimisation de la surprise : Le couplage triadique réduit mutuellement l'erreur prédictive en rendant le comportement du partenaire hautement saillant.
 
 Traductions stables
 
-- P8 ↔ P9 : L'attention conjointe permet l'apprentissage mimétique fidèle qui sédimente les artefacts (le cliquet culturel P9).
+- R8 ↔ R9 : L'attention conjointe permet l'apprentissage mimétique fidèle qui sédimente les artefacts (le cliquet culturel R9).
 
 Frictions cartographiées
 
-- P10 — Couplage structurel : Le couplage biologique avec l'environnement immédiat peut entrer en conflit avec les exigences de l'alignement attentionnel social (gradients de survie vs but partagé).
-- P12 — Évaluation thimique : Les urgences affectives primitives peuvent perturber ou briser brutalement la stabilité du triangle attentionnel.
+- R10 — Couplage structurel : Le couplage biologique avec l'environnement immédiat peut entrer en conflit avec les exigences de l'alignement attentionnel social (gradients de survie vs but partagé).
+- R12 — Évaluation thimique : Les urgences affectives primitives peuvent perturber ou briser brutalement la stabilité du triangle attentionnel.
 
 Incompatibilités structurelles
 
-- P1 — Cinétique protonique : Incompatibilité d'échelle et de registre. La dynamique des flux ioniques fondamentaux ignore structurellement la notion d'agent, d'attention ou de "Nous".
+- R1 — Cinétique protonique : Incompatibilité d'échelle et de registre. La dynamique des flux ioniques fondamentaux ignore structurellement la notion d'agent, d'attention ou de "Nous".
 
 ---
 
@@ -257,17 +257,17 @@ Tensions constitutives
 
 Fonction de ces tensions
 
-Ces tensions garantissent l'autonomie du pôle socio-développemental. La T2 démontre l'écart qualitatif entre un comportement optimisé pour minimiser la surprise individuelle (P5) et l'établissement d'une véritable cible d'attention conjointe. La T3 prouve que le "mode-Nous" ne se déduit pas organiquement d'un métabolisme cellulaire (P7), nécessitant un régime descriptif propre.
+Ces tensions garantissent l'autonomie du pôle socio-développemental. La T2 démontre l'écart qualitatif entre un comportement optimisé pour minimiser la surprise individuelle (R5) et l'établissement d'une véritable cible d'attention conjointe. La T3 prouve que le "mode-Nous" ne se déduit pas organiquement d'un métabolisme cellulaire (R7), nécessitant un régime descriptif propre.
 
 ---
 
 7. Traductions inter-régimes
 
-Vu depuis P4 (Compétence topographique)
+Vu depuis R4 (Compétence topographique)
 
 L'intentionnalité partagée n'est pas une "fusion d'esprits", mais un cas particulier d'*Eigen-behavior* récursif complexe, où le comportement d'un autre observateur est traité comme une perturbation réglée que le système doit stabiliser pour maintenir ses propres invariants.
 
-Vu depuis P13 (Institution inférentielle)
+Vu depuis R13 (Institution inférentielle)
 
 Le triangle attentionnel est relu comme la matrice pré-cursive et purement comportementale des engagements implicites. Le "but commun" est la version embryonnaire d'une responsabilité partagée qui n'a pas encore accès au statut de proposition logiquement révisable et contestable.
 
@@ -285,13 +285,13 @@ Lorsqu’une saturation est détectée, le Cycle d’Audit Protokin (CAP) est d�
 
 Diagnostic possible
 
-- Tension principale : T2 (Traduction, face à P5)
-- Tension secondaire : T10 (Dérive temporelle, face à P9)
+- Tension principale : T2 (Traduction, face à R5)
+- Tension secondaire : T10 (Dérive temporelle, face à R9)
 
 Transitions fréquemment observées
 
-- P8 → P9 par émergence (bascule vers le cliquet culturel pour pérenniser les innovations de coordination au-delà de l'interaction immédiate).
-- P8 → P11 par rupture (saut sémantique vers l'espace des raisons par l'acquisition du langage propositionnel).
+- R8 → R9 par émergence (bascule vers le cliquet culturel pour pérenniser les innovations de coordination au-delà de l'interaction immédiate).
+- R8 → R11 par rupture (saut sémantique vers l'espace des raisons par l'acquisition du langage propositionnel).
 
 Hiérarchie des transitions autorisées
 
@@ -304,7 +304,7 @@ Rôle de l’OVM
 
 L’OVM ne crée pas les limites du régime.
 
-Il détecte les violations de frontières descriptives. L'OVM s'assure fermement que les notions d'engagements logiques et d'obligations normatives propres aux adultes (P13) ne soient pas rétroprojetées (T6) sur la dynamique d'attention conjointe pré-linguistique, imposant le respect des conditions matérielles et locales du couplage P8.
+Il détecte les violations de frontières descriptives. L'OVM s'assure fermement que les notions d'engagements logiques et d'obligations normatives propres aux adultes (R13) ne soient pas rétroprojetées (T6) sur la dynamique d'attention conjointe pré-linguistique, imposant le respect des conditions matérielles et locales du couplage R8.
 
 ---
 
@@ -313,7 +313,7 @@ Il détecte les violations de frontières descriptives. L'OVM s'assure fermement
 ```mermaid
 graph TD
 
-P[P8]
+P[R8]
 
 P --> V[Zone valide]
 P --> S[Saturation]
@@ -322,11 +322,11 @@ S --> CAP((CAP))
 CAP --> OVM{OVM}
 OVM --> T[Transition]
 
-T --> P9[P9]
-T --> P11[P11]
+T --> R9[R9]
+T --> R11[R11]
 
-P -. Tension T2 .-> P5[P5]
-P -. Tension T4 .-> P13[P13]
+P -. Tension T2 .-> R5[R5]
+P -. Tension T4 .-> R13[R13]
 ```
 
 ---
@@ -377,9 +377,9 @@ Il décrit une manière stable de décrire le monde.
 
 12. Métadonnées
 
-Fichier : P8_intentionnalite_partagee_tomasello.md
+Fichier : R8_intentionnalite_partagee_tomasello.md
 
-Connexions principales : P4, P5, P7, P9, P11, P13
+Connexions principales : R4, R5, R7, R9, R11, R13
 
 Tensions dominantes : T2, T3, T4, T6, T10
 
