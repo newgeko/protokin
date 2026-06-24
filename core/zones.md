@@ -152,7 +152,7 @@ Cette zone correspond à l'émergence d'institutions à partir de dynamiques dé
 ZT-3 : Thymique → Institutionnel
 
 Trajectoire :
-Évaluation thymique (P12) → Institution inférentielle (P13)
+Évaluation thymique (R12) → Institution inférentielle (R13)
 
 Question centrale :
 Comment une valeur vécue corporellement devient-elle une norme publique ?
