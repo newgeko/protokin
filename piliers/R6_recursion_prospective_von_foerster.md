@@ -1,8 +1,8 @@
-P6 — Récursion Prospective (von Foerster)
+R6 — Récursion Prospective (von Foerster)
 
 0. Identification
 
-- Numéro : P6
+- Numéro : R6
 - Nom : Récursion Prospective (von Foerster)
 - Famille : cognitif
 - Type : Régime de couplage
@@ -148,11 +148,11 @@ Le régime devient insuffisant lorsque :
 
 - L'analyse porte sur des régimes purement réactifs sans anticipation.
 - L'étude concerne des régimes strictement physiques sans boucle rétroactive temporelle.
-- Les actions relèvent d'institutions sémantiques ou morales pures (P11, P13).
+- Les actions relèvent d'institutions sémantiques ou morales pures (R11, R13).
 
 Violations typiques détectées par l'OVM :
 
-- Réduction abusive (T1) : vouloir ramener l'espace des raisons (P11) à une simple boucle de rétroaction cybernétique.
+- Réduction abusive (T1) : vouloir ramener l'espace des raisons (R11) à une simple boucle de rétroaction cybernétique.
 - Compression inter-régime (T11) : fusionner le temps thermodynamique et le temps récursif dans le même langage.
 - Dérive téléologique (T13) : attribuer à la récursion anticipatrice une finalité métaphysique.
 
@@ -218,21 +218,21 @@ Seuil critique :
 
 Compatibilités partielles
 
-- P4 — Compétence topographique : ancrage des simulations dans l'action située.
-- P5 — Minimisation de la surprise : ajustement des trajectoires anticipées.
+- R4 — Compétence topographique : ancrage des simulations dans l'action située.
+- R5 — Minimisation de la surprise : ajustement des trajectoires anticipées.
 
 Traductions stables
 
-- P6 ↔ P5 (formulation probabiliste de la rétroaction sous forme de modèle génératif temporel).
+- R6 ↔ R5 (formulation probabiliste de la rétroaction sous forme de modèle génératif temporel).
 
 Frictions cartographiées
 
-- P1 — Cinétique protonique : Tension d'échelle et de traduction, opposant l'irréversibilité locale à la récursion temporelle.
-- P2 — Dissipation structurée : Friction entre le temps thermodynamique (entropie) et le temps récursif.
+- R1 — Cinétique protonique : Tension d'échelle et de traduction, opposant l'irréversibilité locale à la récursion temporelle.
+- R2 — Dissipation structurée : Friction entre le temps thermodynamique (entropie) et le temps récursif.
 
 Incompatibilités structurelles
 
-- P11 — Rupture épistémologique : Le passage au domaine normatif est irréductible à la récursion temporelle. L'espace des raisons exige de s'arracher à la seule évaluation par rétroaction de survie.
+- R11 — Rupture épistémologique : Le passage au domaine normatif est irréductible à la récursion temporelle. L'espace des raisons exige de s'arracher à la seule évaluation par rétroaction de survie.
 
 ---
 
@@ -249,17 +249,17 @@ Tensions constitutives
 
 Fonction de ces tensions
 
-Ces tensions garantissent l'autonomie de la cognition récursive : la Tension T2 protège l'écart entre le temps purement matériel de la physique (P2) et le temps construit de la boucle anticipatrice. La Tension T13 empêche de confondre l'anticipation calculée avec un destin imposé par l'univers.
+Ces tensions garantissent l'autonomie de la cognition récursive : la Tension T2 protège l'écart entre le temps purement matériel de la physique (R2) et le temps construit de la boucle anticipatrice. La Tension T13 empêche de confondre l'anticipation calculée avec un destin imposé par l'univers.
 
 ---
 
 7. Traductions inter-régimes
 
-Vu depuis P5 (Minimisation de la surprise)
+Vu depuis R5 (Minimisation de la surprise)
 
 La récursion prospective est reconstituée comme l'extension temporelle de la minimisation de l'erreur. L'anticipation devient la mise à jour continue d'une inférence bayésienne sur les trajectoires d'états à venir.
 
-Vu depuis P8 (Intentionnalité partagée)
+Vu depuis R8 (Intentionnalité partagée)
 
 Les projections futures deviennent des espaces d'intentionnalité partagée et coordonnée, permettant aux agents d'aligner leurs attentes et de planifier une attention conjointe dans le temps.
 
@@ -282,8 +282,8 @@ Diagnostic possible
 
 Transitions fréquemment observées
 
-- P6 → P5 par émergence (optimisation formelle de l'anticipation par un calcul d'erreur).
-- P6 → P8 par émergence (socialisation des scénarios virtuels anticipés).
+- R6 → R5 par émergence (optimisation formelle de l'anticipation par un calcul d'erreur).
+- R6 → R8 par émergence (socialisation des scénarios virtuels anticipés).
 - Blocage OVM strict si une téléologie universelle ou des devoirs inférentiels purs tentent d'être déduits de la seule boucle récursive.
 
 Hiérarchie des transitions autorisées
@@ -297,7 +297,7 @@ Rôle de l’OVM
 
 L’OVM ne crée pas les limites du régime.
 
-Il détecte les violations de frontières descriptives. Il s'assure notamment que les simulations anticipatives (P6) ne soient pas réifiées comme ayant une ontologie externe ou qu'elles ne soient pas confondues de force avec les normes légitimes intersubjectives (P13).
+Il détecte les violations de frontières descriptives. Il s'assure notamment que les simulations anticipatives (R6) ne soient pas réifiées comme ayant une ontologie externe ou qu'elles ne soient pas confondues de force avec les normes légitimes intersubjectives (R13).
 
 ---
 
@@ -306,7 +306,7 @@ Il détecte les violations de frontières descriptives. Il s'assure notamment qu
 ```mermaid
 graph TD
 
-P[P6]
+P[R6]
 
 P --> V[Zone valide]
 P --> S[Saturation]
@@ -315,11 +315,11 @@ S --> CAP((CAP))
 CAP --> OVM{OVM}
 OVM --> T[Transition]
 
-T --> P5[P5]
-T --> P8[P8]
+T --> R5[R5]
+T --> R8[R8]
 
-P -. Tension T2 .-> P1_P2[P1/P2]
-P -. Tension T5 .-> P11[P11]
+P -. Tension T2 .-> R1_R2[R1/R2]
+P -. Tension T5 .-> R11[R11]
 ```
 
 ---
@@ -370,9 +370,9 @@ Il décrit une manière stable de décrire le monde.
 
 12. Métadonnées
 
-Fichier : P6_recursion_prospective_von_foerster.md
+Fichier : R6_recursion_prospective_von_foerster.md
 
-Connexions principales : P1, P2, P4, P5, P8, P11
+Connexions principales : R1, R2, R4, R5, R8, R11
 
 Tensions dominantes : T1, T2, T5, T11, T13
 
