@@ -1,63 +1,253 @@
-# Zones de Rupture et d'Anomalie (ZAR / ZR)
+Zones Critiques : Anomalie, Transition et Rupture (ZAR / ZT / ZR)
 
-## 1. Définition dans l'architecture Protokin
+1. Définition dans l'architecture Protokin
 
-Dans le *Protokin*, les **Zones** ne sont pas des espaces géographiques ou physiques du réel, mais des lieux topologiques au sein de la cartographie métathéorique. Elles désignent les espaces critiques où s'accumulent et s'exacerbent les tensions entre différents régimes de stabilisation (particulièrement entre le versant *Proto* des causes biologiques/physiques et le versant *Kin* des normes et raisons).
+Dans l'architecture Protokin, les Zones ne désignent pas des régions du réel mais des régions critiques de la cartographie métathéorique. Elles correspondent aux lieux où les tensions entre régimes descriptifs atteignent un niveau susceptible de provoquer une réorganisation, une bifurcation ou une rupture de cadre.
 
-Elles se divisent structurellement en deux catégories majeures :
-* **ZAR (Zones d'Anomalie Régionale)** : Espaces où l'instabilité est prolongée. Les régimes descriptifs peuvent y coexister sous forte tension (par exemple, des tensions de traduction T2 ou d'échelle T3) sans s'effondrer immédiatement. Elles nécessitent des reconfigurations locales.
-* **ZR (Zones de Rupture)** : Discontinuités de commensurabilité strictes. Elles marquent une frontière infranchissable en l'état, nécessitant un changement de cadre radical via un opérateur de Transition. Toute tentative de lisser ou de dissimuler une ZR génère inévitablement une Tension de Réduction (T1) ou de Collapsus (T7).
+Les Zones constituent les principaux objets de surveillance du cycle d'audit (CAP) et de l'Opérateur de Vigilance Modale (OVM).
 
----
+Trois catégories doivent être distinguées.
 
-## 2. Cartographie des Zones de Rupture Critiques (ZR)
+ZAR — Zones d'Anomalie Régionale
 
-Ces zones doivent être surveillées en priorité dans tout audit Protokin. Elles marquent le passage critique des causes aux raisons, et de la mécanique matérielle à la normativité sociale.
+Les ZAR correspondent à des espaces de tension persistante mais absorbable.
 
-### Zone R1 : Biologique → Social
-* **Trajectoire** : Préconditions biologiques (P7) → Intentionnalité partagée (P8)
-* **Question centrale** : Comment passe-t-on du comportement biologique (survie cellulaire, autopoïèse) à la coordination sociale intersubjective ?
-* **Tensions associées** : Tension de réduction (T1), Tension d'échelle (T3).
-* **Opérateurs de franchissement (exemples)** : L'effet cliquet de Tomasello, l'altruisme phylogénétique de de Waal.
+Les régimes descriptifs demeurent globalement compatibles, bien que leur articulation produise des anomalies, des incohérences locales ou des difficultés de traduction.
 
-### Zone R2 : Topographique → Raisons
-* **Trajectoire** : Compétence topographique (P4) → Espace des raisons (P11)
-* **Question centrale** : Comment passe-t-on des objets stabilisés par l'interaction sensorimotrice aux justifications explicites et logiques ?
-* **Tensions associées** : Tension normative (T4), Tension de traduction (T2).
-* **Opérateurs de franchissement** : La rupture anti-fondationnaliste de Sellars (le refus du Mythe du Donné).
+Les tensions dominantes sont généralement :
 
-### Zone R3 : Structurel → Normatif
-* **Trajectoire** : Couplage structurel (P10) → Institution inférentielle (P13)
-* **Question centrale** : Comment passe-t-on des causes (déterminismes aveugles, auto-organisation) aux raisons (règles et normes auto-instituées) ?
-* **Tensions associées** : Tension de rupture (T5), Tension de compression multi-régimes (T11).
-* **Opérateurs de franchissement** : L'auto-institution de l'imaginaire (Castoriadis), les règles constitutives (Searle).
+- T2 : Traduction
+- T3 : Échelle
+- T9 : Saturation descriptive
 
-### Zone R4 : Thymique → Institutionnel
-* **Trajectoire** : Évaluation thymique (P12) → Institution inférentielle (P13)
-* **Question centrale** : Comment une valeur initialement perçue de manière corporelle (affect, émotion, urgence somatique) devient-elle une norme instituée, délibérée et publique ?
-* **Tensions associées** : Tension de traduction (T2), Tension de collapsus (T7).
+Une ZAR appelle une reconfiguration locale mais ne nécessite pas nécessairement un changement de régime.
 
 ---
 
-## 3. Rôle dans le Workflow d'Audit (CAP / OVM)
+ZT — Zones de Transition
 
-L'identification des zones est une étape cruciale du cycle d'audit :
+Les ZT correspondent à des espaces métastables où un nouveau régime commence à émerger à l'intérieur d'un régime existant.
 
-1. **Détection (CAP)** : Le système identifie une saturation descriptive et repère une accumulation de tensions.
-2. **Qualification (OVM)** : L'Opérateur de Vigilance Modale audite l'instabilité et détermine si nous naviguons dans une ZAR ou si nous sommes face au mur d'une ZR.
-3. **Verdict** : Franchir une ZR par de simples analogies ou réductions déclenche un refus catégorique de l'OVM (Garde-fou G8 : Anti-collapsus conceptuel). Une ZR ne s'efface pas, elle requiert une **Transition de cadre** validée.
+Le système n'est plus entièrement stabilisé par son ancienne organisation, mais la nouvelle organisation n'est pas encore complètement constituée.
+
+Les ZT sont les lieux privilégiés :
+
+- de l'apprentissage ;
+- de l'institutionnalisation ;
+- de l'émergence conceptuelle ;
+- de la coordination collective ;
+- de l'individuation.
+
+Les tensions dominantes sont généralement :
+
+- T2 : Traduction
+- T3 : Échelle
+- T4 : Normativité
+- T9 : Saturation descriptive
+
+Une ZT ne constitue pas encore une rupture mais prépare les conditions de possibilité d'une éventuelle transition de cadre.
 
 ---
 
-## 4. Principe Épistémologique Final
+ZR — Zones de Rupture
 
-> « Une zone de rupture n'est pas un vide de connaissance à combler par plus de science causale, mais une discontinuité architecturale à respecter. Comprendre une zone de rupture, c'est refuser de réduire illégitimement le versant Kin au versant Proto. »
+Les ZR correspondent à des discontinuités de commensurabilité.
+
+Elles apparaissent lorsqu'aucune traduction graduelle n'est disponible entre deux régimes descriptifs.
+
+La difficulté n'est plus celle de la coordination ou de l'ajustement mais celle de la légitimité même des descriptions mobilisées.
+
+Les tensions dominantes sont généralement :
+
+- T5 : Rupture
+- T7 : Collapsus
+- T11 : Compression multi-régimes
+
+Une ZR ne peut être franchie par simple accumulation de données ou par extension quantitative d'un modèle existant.
+
+Elle exige une transition de cadre explicitement assumée.
+
+Toute tentative de masquer une ZR produit une réduction illégitime (T1) ou un collapsus conceptuel (T7).
 
 ---
 
-## 5. Métadonnées
+2. Cartographie des Zones Critiques
 
-* **Fichier** : `zones.md`
-* **Type** : Cartographie / Architecture globale
-* **Connexions principales** : `macro_architecture.md`, `tensions_inter_regimes.md`, `transition_de_cadre.md`
-* **Tags** : #Zones #ZR #ZAR #Architecture #Protokin #Frontières-épistémologiques
+ZT-1 : Biologique → Social
+
+Trajectoire :
+Préconditions biologiques (P7) → Intentionnalité partagée (P8)
+
+Question centrale :
+Comment des organismes biologiques deviennent-ils capables de coordination sociale et d'intentionnalité collective ?
+
+Tensions dominantes :
+
+- T1 : Réduction
+- T3 : Échelle
+- T9 : Saturation
+
+Conditions de transition observables :
+
+- Effet cliquet
+- Attention conjointe
+- Coopération cumulative
+- Altruisme phylogénétique
+
+Cette zone constitue une transition développementale et évolutionnaire plutôt qu'une rupture stricte.
+
+---
+
+ZR-0 : Causes → Raisons
+
+Trajectoire :
+Versant Proto → Versant Kin
+
+Question centrale :
+Comment passe-t-on des mécanismes causaux aux pratiques de justification ?
+
+Tensions dominantes :
+
+- T5 : Rupture
+- T4 : Normativité
+- T11 : Compression multi-régimes
+
+Référence architecturale principale :
+
+- Rupture sellarsienne
+- Rejet du Mythe du Donné
+
+Cette zone constitue la rupture fondamentale de l'architecture Protokin.
+
+Elle sépare l'espace des causes de l'espace des raisons.
+
+Aucune description causale ne produit à elle seule une justification normative.
+
+---
+
+ZT-2 : Structurel → Institutionnel
+
+Trajectoire :
+Couplage structurel (P10) → Institution inférentielle (P13)
+
+Question centrale :
+Comment des coordinations stabilisées deviennent-elles des règles explicites et des institutions normatives ?
+
+Tensions dominantes :
+
+- T4 : Normativité
+- T9 : Saturation
+- T11 : Compression
+
+Conditions de transition observables :
+
+- Règles constitutives
+- Stabilisation symbolique
+- Auto-institution
+
+Cette zone correspond à l'émergence d'institutions à partir de dynamiques déjà coordonnées.
+
+---
+
+ZT-3 : Thymique → Institutionnel
+
+Trajectoire :
+Évaluation thymique (P12) → Institution inférentielle (P13)
+
+Question centrale :
+Comment une valeur vécue corporellement devient-elle une norme publique ?
+
+Tensions dominantes :
+
+- T2 : Traduction
+- T4 : Normativité
+- T7 : Collapsus
+
+Conditions de transition observables :
+
+- Ritualisation
+- Coutume
+- Formalisation normative
+
+Cette zone décrit la transformation progressive des évaluations affectives en institutions collectives.
+
+---
+
+3. Fonction dans le Cycle d'Audit
+
+Étape 1 — Détection (CAP)
+
+Le système repère :
+
+- les anomalies ;
+- les contradictions ;
+- les saturations descriptives ;
+- les conflits normatifs.
+
+---
+
+Étape 2 — Qualification (OVM)
+
+L'OVM détermine si le phénomène observé relève :
+
+- d'une ZAR (instabilité locale) ;
+- d'une ZT (réorganisation émergente) ;
+- d'une ZR (rupture de commensurabilité).
+
+---
+
+Étape 3 — Décision
+
+Cas ZAR
+
+Réparation locale.
+
+Cas ZT
+
+Accompagnement de la transition et surveillance des tensions.
+
+Cas ZR
+
+Transition de cadre obligatoire.
+
+Toute tentative de réduction ou de fusion illégitime déclenche l'activation du garde-fou G8 (Anti-Collapsus Conceptuel).
+
+---
+
+4. Principe Épistémologique
+
+«Une anomalie indique qu'une description rencontre ses limites locales.
+
+Une transition indique qu'une nouvelle organisation devient possible.
+
+Une rupture indique qu'un changement de régime descriptif est devenu nécessaire.»
+
+Ainsi, une Zone de Rupture n'est pas un déficit de connaissance mais une frontière de légitimité conceptuelle.
+
+Comprendre une rupture consiste moins à la supprimer qu'à reconnaître les conditions sous lesquelles un nouveau cadre descriptif devient nécessaire.
+
+---
+
+5. Métadonnées
+
+- Fichier : "zones.md"
+- Type : Cartographie métathéorique
+- Niveau : Architecture globale
+- Connexions :
+  - "macro_architecture.md"
+  - "tensions_inter_regimes.md"
+  - "transition_de_cadre.md"
+  - "ovm.md"
+  - "audit_cap.md"
+
+Tags :
+#Zones
+#ZAR
+#ZT
+#ZR
+#Transition
+#Rupture
+#OVM
+#CAP
+#Architecture
+#Protokin
