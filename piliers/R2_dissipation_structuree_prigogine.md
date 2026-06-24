@@ -1,8 +1,8 @@
-P2 — Dissipation Structurée (Prigogine)
+R2 — Dissipation Structurée (Prigogine)
 
 0. Identification
 
-- Numéro : P2
+- Numéro : R2
 - Nom : Dissipation Structurée (Prigogine)
 - Famille : physico-dynamique
 - Type : Régime de couplage
@@ -37,7 +37,7 @@ Ilya Prigogine (et Isabelle Stengers)
 - Référence : references/prigogine.md
 - Statut : Stabilisateur de régime
 - Apport opératoire : 
-  Fournit le cadre explicatif permettant de stabiliser des invariants physiques complexes loin de l'équilibre thermodynamique. Il démontre que la genèse de l'organisation matérielle peut exister par pure dissipation d'énergie, sans aucun recours à une téléologie, à la cognition (P5) ou à l'autopoïèse biologique stricte (P7).
+  Fournit le cadre explicatif permettant de stabiliser des invariants physiques complexes loin de l'équilibre thermodynamique. Il démontre que la genèse de l'organisation matérielle peut exister par pure dissipation d'énergie, sans aucun recours à une téléologie, à la cognition (R5) ou à l'autopoïèse biologique stricte (R7).
 - Tensions associées : 
   Tension de rupture (T5), Tension de compression multi-régime (T11).
 
@@ -46,7 +46,7 @@ Henri Atlan
 - Référence : references/atlan.md
 - Statut : Frontière inter-régime / Générateur de tension
 - Apport opératoire : 
-  Prolonge la thermodynamique des processus irréversibles vers les théories de l'auto-organisation en formalisant le principe de "complexité par le bruit", établissant le pont épistémologique entre les systèmes dissipatifs (P2) et la compétence du vivant (P4, P7).
+  Prolonge la thermodynamique des processus irréversibles vers les théories de l'auto-organisation en formalisant le principe de "complexité par le bruit", établissant le pont épistémologique entre les systèmes dissipatifs (R2) et la compétence du vivant (R4, R7).
 - Tensions associées : 
   Tension de réduction (T1), Tension de rupture (T5).
 
@@ -140,8 +140,8 @@ Le régime est pertinent lorsque :
 
 Frontières descriptives
 Le régime devient insuffisant lorsque :
-- L'organisation exige une autopoïèse biologique et une clôture de réseau (P7).
-- Le maintien du système repose sur la modélisation probabiliste ou l'anticipation d'une erreur (P5).
+- L'organisation exige une autopoïèse biologique et une clôture de réseau (R7).
+- Le maintien du système repose sur la modélisation probabiliste ou l'anticipation d'une erreur (R5).
 
 Violations typiques détectées par l'OVM :
 - Réduction abusive (T1) de la biologie à la simple thermodynamique.
@@ -178,7 +178,7 @@ Symptômes observables :
 - nécessité de nouveaux invariants
 
 Tensions fréquemment associées :
-- T2 (Traduction) avec l'optimisation cognitive (P5)
+- T2 (Traduction) avec l'optimisation cognitive (R5)
 - T5 (Rupture) avec les régimes normatifs
 - T11 (Compression multi-régime)
 
@@ -200,18 +200,18 @@ Seuil critique :
 6. Relations avec les autres régimes
 
 Compatibilités partielles
-- P1 — Cinétique protonique (recouvrement physique assurant la micro-fondation des flux).
-- P3 — Ajustement allostatique (régulation interne des déséquilibres).
+- R1 — Cinétique protonique (recouvrement physique assurant la micro-fondation des flux).
+- R3 — Ajustement allostatique (régulation interne des déséquilibres).
 
 Traductions stables
-- P1 ↔ P2 (intégration transductive des flux dans les structures).
+- R1 ↔ R2 (intégration transductive des flux dans les structures).
 
 Frictions cartographiées
-- P5 — Tension T2 (différence de formalismes entre l'optimisation bayésienne et la thermodynamique hors équilibre, malgré leur finalité de stabilisation).
-- P7 — Tension de frontière (la stabilisation thermodynamique n'équivaut pas à la clôture autopoïétique biologique).
+- R5 — Tension T2 (différence de formalismes entre l'optimisation bayésienne et la thermodynamique hors équilibre, malgré leur finalité de stabilisation).
+- R7 — Tension de frontière (la stabilisation thermodynamique n'équivaut pas à la clôture autopoïétique biologique).
 
 Incompatibilités structurelles
-- P11 / P13 — Tension T5 (Rupture absolue : on ne peut déduire une institution logique, un devoir sémantique ou le lien social à partir d'un flux dissipatif sans écrasement ontologique et saut d'échelle T3/T5).
+- R11 / R13 — Tension T5 (Rupture absolue : on ne peut déduire une institution logique, un devoir sémantique ou le lien social à partir d'un flux dissipatif sans écrasement ontologique et saut d'échelle T3/T5).
 
 ---
 
@@ -231,10 +231,10 @@ La Tension T5 protège l'incommensurabilité entre l'ordre de la matière dissip
 
 7. Traductions inter-régimes
 
-Vu depuis P5 (Minimisation de la surprise)
+Vu depuis R5 (Minimisation de la surprise)
 La dissipation structurée est reconstituée comme la dynamique physique sous-tendant la minimisation locale de l'erreur prédictive face à l'environnement.
 
-Vu depuis P8 (Intentionnalité partagée)
+Vu depuis R8 (Intentionnalité partagée)
 Les structures dissipatives deviennent les substrats matériels porteurs et les supports physiques sur lesquels l'attention et l'intentionnalité collective peuvent se focaliser.
 
 Important
@@ -253,9 +253,9 @@ Diagnostic possible
 - Tension secondaire : T11 (Compression multi-régime)
 
 Transitions fréquemment observées
-- P2 → P5 par émergence (apparition de modèles prédictifs).
-- P2 → P7 par émergence (clôture opérationnelle du vivant).
-- Blocage OVM strict : toute tentative de saut direct P2 → P11 ou P2 → P13 est invalidée (T5/T11).
+- R2 → R5 par émergence (apparition de modèles prédictifs).
+- R2 → R7 par émergence (clôture opérationnelle du vivant).
+- Blocage OVM strict : toute tentative de saut direct R2 → R11 ou R2 → R13 est invalidée (T5/T11).
 
 Hiérarchie des transitions autorisées
 - Niveau 1 : Réinterprétation
@@ -265,7 +265,7 @@ Hiérarchie des transitions autorisées
 
 Rôle de l’OVM
 L’OVM ne crée pas les limites du régime.
-Il détecte les violations de frontières descriptives, s'assurant formellement qu'aucun observateur n'utilise les concepts de "bruit" ou de "fluctuations dissipatives" pour naturaliser des choix politiques, éthiques ou institutionnels relevant de P13.
+Il détecte les violations de frontières descriptives, s'assurant formellement qu'aucun observateur n'utilise les concepts de "bruit" ou de "fluctuations dissipatives" pour naturaliser des choix politiques, éthiques ou institutionnels relevant de R13.
 
 ---
 
@@ -274,7 +274,7 @@ Il détecte les violations de frontières descriptives, s'assurant formellement 
 ```mermaid
 graph TD
 
-P[P2]
+P[R2]
 
 P --> V[Zone valide]
 P --> S[Saturation]
@@ -283,11 +283,11 @@ S --> CAP((CAP))
 CAP --> OVM{OVM}
 OVM --> T[Transition]
 
-T --> P5[P5]
-T --> P7[P7]
+T --> R5[R5]
+T --> R7[R7]
 
-P -. Tension T5 .-> P11[P11]
-P -. Tension T11 .-> P13[P13]
+P -. Tension T5 .-> R11[R11]
+P -. Tension T11 .-> R13[R13]
 ```
 
 ---
@@ -330,9 +330,9 @@ Il décrit une manière stable de décrire le monde.
 
 12. Métadonnées
 
-Fichier : P2_dissipation_structuree_prigogine.md
+Fichier : R2_dissipation_structuree_prigogine.md
 
-Connexions principales : P1, P3, P5, P7
+Connexions principales : R1, R3, R5, R7
 
 Tensions dominantes : T2, T5, T11
 
