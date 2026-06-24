@@ -150,46 +150,46 @@ Cette section fournit un rappel des régimes de couplage utilisés dans les tens
 Les régimes ne constituent pas une liste ontologique fermée.  
 Ils représentent une **cartographie située des principaux modes de stabilisation descriptive actuellement identifiables**.
 
-Les numéros (P1 à P14) sont des **index de référence interne**, utilisés pour situer les relations de tension, et non des entités fixes ou exhaustives.
+Les numéros (R1 à Rn) sont des **index de référence interne**, utilisés pour situer les relations de tension, et non des entités fixes ou exhaustives.
 
 ---
 
 ## 🌐 Régimes physico-dynamiques
 
-- **P1 — Cinétique protonique**
-- **P2 — Dissipation structurée (Prigogine)**
+- **R1 — Cinétique protonique**
+- **R2 — Dissipation structurée (Prigogine)**
 
 ---
 
 ## 🧠 Régimes cognitifs
 
-- **P4 — Compétence topographique (von Foerster)**
-- **P5 — Minimisation de la surprise / FEP**
-- **P11 — Espace des raisons (Sellars / espace normatif implicite)**
+- **R4 — Compétence topographique (von Foerster)**
+- **R5 — Minimisation de la surprise / FEP**
+- **R11 — Espace des raisons (Sellars / espace normatif implicite)**
 
 ---
 
 ## 🧬 Régimes biologiques et structurels
 
-- **P7 — Couplage structurel (Maturana / Varela)**
+- **R7 — Couplage structurel (Maturana / Varela)**
 
-- **P15 — Sélection antagoniste et dérive phylogénétique*** (Williams / Medawar)
+- **R15 — Sélection antagoniste et dérive phylogénétique*** (Williams / Medawar)
 
 ---
 
 ## 👥 Régimes socio-développementaux
 
-- **P8 — Intentionnalité partagée (Tomasello)**
-- **P9 — Effet cliquet culturel**
+- **R8 — Intentionnalité partagée (Tomasello)**
+- **R9 — Effet cliquet culturel**
 
 ---
 
 ## ⚖️ Régimes normatifs et métathéoriques
 
-- **P10 — Couplage structurel des pratiques (niveau descriptif des émergences sociales)**
-- **P12 — Évaluation thimique**
-- **P13 — Institution inférentielle (Brandom)**
-- **P14 — Validation / audit métathéorique**
+- **R10 — Couplage structurel des pratiques (niveau descriptif des émergences sociales)**
+- **R12 — Évaluation thimique**
+- **R13 — Institution inférentielle (Brandom)**
+- **R14 — Validation / audit métathéorique**
 
 ---
 
@@ -217,13 +217,13 @@ Un régime tente de réduire un autre à ses propres invariants.
 
 Réduire :
 
-- les normes (P13)
-- aux mécanismes biologiques (P7)
+- les normes (R13)
+- aux mécanismes biologiques (R7)
 
 ou
 
-- les raisons (P11)
-- aux causes physiques (P2)
+- les raisons (R11)
+- aux causes physiques (R2)
 
 ### Risque
 
@@ -237,11 +237,11 @@ Deux régimes décrivent partiellement le même phénomène mais avec des langag
 
 ### Exemple
 
-P5 (FEP)
+R5 (FEP)
 
 et
 
-P8 (Intentionnalité partagée)
+R8 (Intentionnalité partagée)
 
 traitent tous deux de coordination.
 
@@ -262,11 +262,11 @@ Deux régimes opèrent à des échelles différentes.
 
 ### Exemple
 
-P1 (Cinétique protonique)
+R1 (Cinétique protonique)
 
 et
 
-P9 (Effet cliquet culturel)
+R9 (Effet cliquet culturel)
 
 peuvent participer à une même situation sans partager la même granularité descriptive.
 
@@ -282,11 +282,11 @@ Un régime causal rencontre un régime normatif.
 
 ### Exemple
 
-P10 (Couplage structurel)
+R10 (Couplage structurel)
 
 → explique comment une pratique apparaît.
 
-P13 (Institution inférentielle)
+R13 (Institution inférentielle)
 
 → explique comment une pratique devient légitime.
 
@@ -302,11 +302,11 @@ Deux régimes sont incompatibles sans transition explicite.
 
 ### Exemple
 
-P2 (Dissipation structurée)
+R2 (Dissipation structurée)
 
 et
 
-P13 (Institution inférentielle)
+R13 (Institution inférentielle)
 
 ne possèdent aucun langage commun immédiat.
 
@@ -339,7 +339,7 @@ Deux régimes sont artificiellement ramenés à un langage commun supposé.
 
 ### Exemple
 
-réduction simultanée de P5 et P11 à une logique unique d’optimisation
+réduction simultanée de R5 et R11 à une logique unique d’optimisation
 
 ### Risque
 
@@ -353,7 +353,7 @@ Un régime est appliqué à lui-même sans changement de niveau d’observation.
 
 ### Exemple
 
-tentative de justifier P11 (espace des raisons) uniquement par P11 lui-même
+tentative de justifier R11 (espace des raisons) uniquement par R11 lui-même
 
 ### Risque
 
@@ -367,7 +367,7 @@ Un régime devient trop complexe pour ses propres critères de stabilisation.
 
 ### Exemple
 
-modèle prédictif (P5) sur-paramétré perdant sa capacité de généralisation
+modèle prédictif (R5) sur-paramétré perdant sa capacité de généralisation
 
 ### Risque
 
@@ -381,7 +381,7 @@ Deux régimes restent compatibles structurellement mais divergent dans le temps.
 
 ### Exemple
 
-transformation progressive de P8 vers P9 sans rupture explicite
+transformation progressive de R8 vers R9 sans rupture explicite
 
 ### Risque
 
@@ -396,7 +396,7 @@ Plusieurs régimes sont mobilisés simultanément pour un même phénomène sans
 
 ### Exemple
 
-usage conjoint de P2 + P5 + P8 pour un même phénomène sans règle d’articulation
+usage conjoint de R2 + R5 + R8 pour un même phénomène sans règle d’articulation
 
 ### Risque
 
@@ -454,7 +454,7 @@ L'intérêt de T14 est qu'elle protège Protokin contre une erreur extrêmement 
 > oublier que les régimes eux-mêmes sont des constructions descriptives.
 
 Autrement dit, T14 doit aussi pouvoir s'appliquer à Protokin :
-> « P13 produit les normes » pourrait devenir une réification si P13 cesse d'être un outil descriptif pour devenir une entité agissante.
+> « R13 produit les normes » pourrait devenir une réification si R13 cesse d'être un outil descriptif pour devenir une entité agissante.
 
 ---
 
@@ -561,7 +561,7 @@ Ils définissent uniquement ce qu’il n’est pas possible d’en faire sans so
 
 # 📊 Cartographie des tensions majeures
 
-## P1 ↔ P2
+## R1 ↔ R2
 
 ### Nature
 
@@ -577,7 +577,7 @@ Les flux protoniques peuvent être décrits dans le cadre plus large des systèm
 
 ---
 
-## P2 ↔ P5
+## R2 ↔ R5
 
 ### Nature
 
@@ -595,7 +595,7 @@ Leur proximité ne doit pas être interprétée comme une identité.
 
 ---
 
-## P4 ↔ P5
+## R4 ↔ R5
 
 ### Nature
 
@@ -611,7 +611,7 @@ P4 :
 
 l'objet est un invariant comportemental.
 
-P5 :
+R5 :
 
 l'objet est une variable modélisée dans une dynamique prédictive.
 
@@ -619,7 +619,7 @@ Les deux approches ne sont pas équivalentes.
 
 ---
 
-## P4 ↔ P11
+## R4 ↔ R11
 
 ### Nature
 
@@ -631,15 +631,15 @@ Très forte.
 
 ### Description
 
-P4 stabilise des objets.
+R4 stabilise des objets.
 
-P11 stabilise des raisons.
+R11 stabilise des raisons.
 
 Le passage exige une rupture conceptuelle.
 
 ---
 
-## P5 ↔ P8
+## R5 ↔ R8
 
 ### Nature
 
@@ -657,7 +657,7 @@ L'intentionnalité partagée ne se déduit pas automatiquement du FEP.
 
 ---
 
-## P7 ↔ P8
+## R7 ↔ R8
 
 ### Nature
 
@@ -675,7 +675,7 @@ Elles ne suffisent pas à l'expliquer.
 
 ---
 
-## P8 ↔ P9
+## R8 ↔ R9
 
 ### Nature
 
@@ -691,7 +691,7 @@ L'effet cliquet suppose généralement l'existence préalable de formes d'intent
 
 ---
 
-## P10 ↔ P11
+## R10 ↔ R11
 
 ### Nature
 
@@ -703,15 +703,15 @@ Maximale.
 
 ### Description
 
-P10 appartient à l'espace des causes.
+R10 appartient à l'espace des causes.
 
-P11 appartient à l'espace des raisons.
+R11 appartient à l'espace des raisons.
 
 Cette frontière constitue l'une des discontinuités fondamentales de Protokin.
 
 ---
 
-## P11 ↔ P13
+## R11 ↔ R13
 
 ### Nature
 
@@ -729,7 +729,7 @@ P13 décrit son institution sociale.
 
 ---
 
-## P12 ↔ P13
+## R12 ↔ R13
 
 ### Nature
 
@@ -747,7 +747,7 @@ Le passage nécessite une stabilisation collective.
 
 ---
 
-## P13 ↔ P14
+## R13 ↔ R14
 
 ### Nature
 
@@ -950,7 +950,7 @@ Il produit une cartographie locale des conditions de stabilisation observées da
 
 # 🧷 Distinction entre tensions structurelles et tensions d’usage
 
-Toutes les tensions n’ont pas le même statut au sein de Protokin cOS.
+Toutes les tensions n’ont pas le même statut au sein de Protokin.
 
 Certaines tensions résultent directement de la coexistence de plusieurs régimes de couplage.
 
@@ -993,8 +993,8 @@ Exemple
 
 La tension entre :
 
-P10 → Couplage structurel
-P11 → Espace des raisons
+R10 → Couplage structurel
+R11 → Espace des raisons
 
 n’est pas produite par une erreur d’interprétation.
 
@@ -1048,7 +1048,7 @@ Exemple
 
 Lorsque plusieurs régimes sont artificiellement fusionnés dans un langage unique :
 
-P2 + P5 + P11
+R2 + R5 + R11
 
 la tension observée ne provient pas directement des régimes.
 
@@ -1124,7 +1124,7 @@ Cette distinction ne vise pas à classer les tensions selon leur importance.
 
 # Méta-structures et Audit Protokin
 
-Le projet **Protokin (Protokin cOS)** ne se limite pas à une simple classification des savoirs. Il se définit comme une **machine à auditer les conditions de stabilisation** des discours. Pour ce faire, il s'appuie sur des **méta-structures** qui permettent de naviguer entre les régimes hétérogènes (de la thermodynamique à l'espace des raisons) sans écraser leur spécificité.
+Le projet **Protokin (ProtokiNn)** ne se limite pas à une simple classification des savoirs. Il se définit comme une **machine à auditer les conditions de stabilisation** des discours. Pour ce faire, il s'appuie sur des **méta-structures** qui permettent de naviguer entre les régimes hétérogènes (de la thermodynamique à l'espace des raisons) sans écraser leur spécificité.
 
 Ces méta-structures ne sont pas des théories du monde, mais des **protocoles de navigation et de diagnostic** pour l'audit des systèmes descriptifs.
 
@@ -1149,7 +1149,7 @@ Elle évalue la solidité du couplage entre la source et le système.
     - **Grade C (Assertion conceptuelle) :** Projection sans ancrage philologique fort (ex: critique de Žižek).
     - **Grade D (Spéculation) :** Nécessité dialectique sans données empiriques.
 
-## 4. Fonctionnement dans Protokin cOS
+## 4. Fonctionnement dans Protokin
 Dans l'architecture globale, ces méta-structures servent d'outils de diagnostic :
 1. **Diagnostic :** Quel est le régime d'interaction ? Quelle est la solidité de la preuve ?
 2. **Audit :** Y a-t-il une "compression multi-régime" (T11) ? Le couplage est-il légitime ou illusoire ?
@@ -1164,24 +1164,24 @@ Dans l'architecture globale, ces méta-structures servent d'outils de diagnostic
 ```mermaid
 graph LR
 
-P4[Compétence Topographique]
-P5[FEP]
-P8[Intentionnalité Partagée]
-P10[Couplage Structurel]
-P11[Sellars]
-P12[Évaluation Thimique]
-P13[Brandom]
+R4[Compétence Topographique]
+R5[FEP]
+R8[Intentionnalité Partagée]
+R10[Couplage Structurel]
+R11[Sellars]
+R12[Évaluation Thimique]
+R13[Brandom]
 
-P4 -. tension .-> P5
-P4 -. rupture .-> P11
+R4 -. tension .-> R5
+R4 -. rupture .-> R11
 
-P5 -. tension .-> P8
+R5 -. tension .-> R8
 
-P10 -. rupture majeure .-> P11
+R10 -. rupture majeure .-> R11
 
-P11 -. continuité normative .-> P13
+R11 -. continuité normative .-> R13
 
-P12 -. médiation nécessaire .-> P13
+R12 -. médiation nécessaire .-> R13
 ```
 
 ---
