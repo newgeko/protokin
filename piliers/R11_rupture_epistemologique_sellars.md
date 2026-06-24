@@ -1,8 +1,8 @@
-P11 — Rupture épistémologique (Sellars) / Espace des raisons
+R11 — Rupture épistémologique (Sellars) / Espace des raisons
 
 0. Identification
 
-- Numéro : P11
+- Numéro : R11
 - Nom : Rupture épistémologique (Sellars) / Espace des raisons
 - Famille : normatif
 - Type : Régime de couplage
@@ -47,7 +47,7 @@ John McDowell
 - Référence : references/mcdowell.md
 - Statut : Frontière inter-régime / Garde-fou
 - Apport opératoire :
-  Sécurise l'intégrité de ce régime en interdisant toute forme de naturalisme réductionniste. McDowell montre qu'il est impossible de déduire les invariants du régime P11 à partir des régimes physico-biologiques (comme P1, P2 ou P7), forçant l'audit à repérer l'incommensurabilité absolue entre la nature (causes) et la norme (raisons).
+  Sécurise l'intégrité de ce régime en interdisant toute forme de naturalisme réductionniste. McDowell montre qu'il est impossible de déduire les invariants du régime R11 à partir des régimes physico-biologiques (comme R1, R2 ou R7), forçant l'audit à repérer l'incommensurabilité absolue entre la nature (causes) et la norme (raisons).
 - Tensions associées :
   T4 (Tension normative), T5 (Tension de rupture).
 
@@ -139,7 +139,7 @@ Angle mort structurel
 Pour fonctionner, ce régime doit nécessairement ignorer :
 
 - L'immanence des flux physiques purs (L'Espace des Causes).
-- Le coût cinétique ou métabolique de l'appareil de traduction propositionnelle et la matérialité thermodynamique brute (P1, P2).
+- Le coût cinétique ou métabolique de l'appareil de traduction propositionnelle et la matérialité thermodynamique brute (R1, R2).
 
 ---
 
@@ -147,7 +147,7 @@ Pour fonctionner, ce régime doit nécessairement ignorer :
 
 Le régime est pertinent lorsque :
 
-- Le système s'appuie sur des pratiques comportementales standardisées (souvent stabilisées par le cliquet culturel, P9).
+- Le système s'appuie sur des pratiques comportementales standardisées (souvent stabilisées par le cliquet culturel, R9).
 - La dynamique observée nécessite une requalification normative et justificative des états internes.
 - Le coût computationnel du traitement propositionnel ne sature pas la viabilité biologique du système.
 
@@ -155,8 +155,8 @@ Frontières descriptives
 
 Le régime devient insuffisant lorsque :
 
-- Le système doit agir en urgence absolue sans médiation réflexive (P12).
-- L'analyse porte sur les mécanismes strictement biologiques (P7) ou perceptivo-moteurs immanents (P4) dépourvus d'explicitation normative.
+- Le système doit agir en urgence absolue sans médiation réflexive (R12).
+- L'analyse porte sur les mécanismes strictement biologiques (R7) ou perceptivo-moteurs immanents (R4) dépourvus d'explicitation normative.
 
 Violations typiques détectées par l'OVM :
 
@@ -188,16 +188,16 @@ Violations associées :
 
 Le régime devient instable lorsque :
 
-- Les urgences somatiques et affectives massives (P12) s'imposent et écrasent l'impartialité requise pour formuler un syllogisme.
+- Les urgences somatiques et affectives massives (R12) s'imposent et écrasent l'impartialité requise pour formuler un syllogisme.
 - L'infrastructure biophysique et métabolique vient à défaillir ou lorsque l'environnement devient inintelligible selon les normes en vigueur.
-- La sur-rationalisation entraîne une déconnexion délétère avec les impératifs de la viabilité causale (P3).
+- La sur-rationalisation entraîne une déconnexion délétère avec les impératifs de la viabilité causale (R3).
 
 Symptômes observables :
 
 - perte de pouvoir explicatif
 - multiplication des exceptions
 - apparition de tensions non résolues
-- nécessité de nouveaux invariants (soit un retour au corps, soit un audit formel P14)
+- nécessité de nouveaux invariants (soit un retour au corps, soit un audit formel R14)
 
 Tensions fréquemment associées :
 
@@ -226,22 +226,22 @@ Seuil critique :
 
 Compatibilités partielles
 
-- P9 — Effet cliquet culturel : P9 fournit les habitudes sédimentées que P11 utilise comme matériaux bruts pour asseoir sa requalification normative et son lexique.
-- P13 — Institution inférentielle : P11 initie l'acte de naissance de la proposition (brisant le mythe du donné) que P13 déploiera ensuite dans son réseau social de *scorekeeping*.
+- R9 — Effet cliquet culturel : R9 fournit les habitudes sédimentées que R11 utilise comme matériaux bruts pour asseoir sa requalification normative et son lexique.
+- R13 — Institution inférentielle : R11 initie l'acte de naissance de la proposition (brisant le mythe du donné) que R13 déploiera ensuite dans son réseau social de *scorekeeping*.
 
 Traductions stables
 
-- P11 ↔ P13 (continuité directe du versant Kin, de la fondation sellarsienne à l'ingénierie brandomienne).
+- R11 ↔ R13 (continuité directe du versant Kin, de la fondation sellarsienne à l'ingénierie brandomienne).
 
 Frictions cartographiées
 
-- P3 — Ajustement allostatique : Tension fonctionnelle (T4) due au maintien d'engagements symboliques coûteux au détriment de l'optimisation organique proactive.
-- P12 — Évaluation thimique : Conflit (T4) entre l'asymétrie de l'intensité affective primitive et l'impartialité asémantique requise par P11.
-- P5 — Minimisation de la surprise : L'erreur prédictive pure (causale) est relue comme anomalie exigeant une révision logique, créant une tension de traduction (T2).
+- R3 — Ajustement allostatique : Tension fonctionnelle (T4) due au maintien d'engagements symboliques coûteux au détriment de l'optimisation organique proactive.
+- R12 — Évaluation thimique : Conflit (T4) entre l'asymétrie de l'intensité affective primitive et l'impartialité asémantique requise par R11.
+- R5 — Minimisation de la surprise : L'erreur prédictive pure (causale) est relue comme anomalie exigeant une révision logique, créant une tension de traduction (T2).
 
 Incompatibilités structurelles
 
-- P1 — Cinétique protonique : Incompatibilité absolue. La physique des gradients matériels ne connaît aucune norme, justification, ou vérité. Le passage est radicalement interdit sans la rupture de P11.
+- R1 — Cinétique protonique : Incompatibilité absolue. La physique des gradients matériels ne connaît aucune norme, justification, ou vérité. Le passage est radicalement interdit sans la rupture de R11.
 
 ---
 
@@ -258,19 +258,19 @@ Tensions constitutives
 
 Fonction de ces tensions
 
-Ces tensions garantissent l'autonomie conceptuelle du pôle *Kin*. Le régime P11 *incarne* la frontière de T4 et T5 : il montre que l'ordre des raisons est incommensurable avec l'ordre des causes. S'il n'y avait pas de tension (si la transition de l'ion à la conscience rationnelle était fluide), P11 serait redondant avec P7 ou P5. Il s'affirme précisément parce qu'il rend observable la rupture qualitative nécessaire.
+Ces tensions garantissent l'autonomie conceptuelle du pôle *Kin*. Le régime R11 *incarne* la frontière de T4 et T5 : il montre que l'ordre des raisons est incommensurable avec l'ordre des causes. S'il n'y avait pas de tension (si la transition de l'ion à la conscience rationnelle était fluide), R11 serait redondant avec R7 ou R5. Il s'affirme précisément parce qu'il rend observable la rupture qualitative nécessaire.
 
 ---
 
 7. Traductions inter-régimes
 
-Vu depuis P5 (Minimisation de la surprise)
+Vu depuis R5 (Minimisation de la surprise)
 
 La rupture épistémologique et l'espace des raisons sont relus comme une strate avancée d'optimisation inférentielle, abaissant drastiquement la surprise à long terme au sein d'une espèce à forte interdépendance. Les normes deviennent des *priors* d'une extrême robustesse prédictive.
 
-Vu depuis P13 (Institution inférentielle)
+Vu depuis R13 (Institution inférentielle)
 
-P11 est interprété comme le moment d'allumage ou la condition transcendantale nécessaire de la rationalité publique. L'espace des raisons de Sellars est la fondation conceptuelle que Brandom mécanise ensuite formellement par le biais du registre intersubjectif d'habilitations et d'engagements.
+R11 est interprété comme le moment d'allumage ou la condition transcendantale nécessaire de la rationalité publique. L'espace des raisons de Sellars est la fondation conceptuelle que Brandom mécanise ensuite formellement par le biais du registre intersubjectif d'habilitations et d'engagements.
 
 Important
 
@@ -291,8 +291,8 @@ Diagnostic possible
 
 Transitions fréquemment observées
 
-- P11 → P13 par réinterprétation (le passage du concept de Raison à la matérialité de sa tenue des scores en société).
-- P11 → P14 par émergence réflexive (audit métathéorique et cybernétique de second ordre de ces mêmes raisons).
+- R11 → R13 par réinterprétation (le passage du concept de Raison à la matérialité de sa tenue des scores en société).
+- R11 → R14 par émergence réflexive (audit métathéorique et cybernétique de second ordre de ces mêmes raisons).
 
 Hiérarchie des transitions autorisées
 
@@ -305,7 +305,7 @@ Rôle de l’OVM
 
 L’OVM ne crée pas les limites du régime.
 
-Il détecte les violations de frontières descriptives. L'OVM sanctionne l'absence de l'opérateur P11 lorsque des théories tentent de déduire directement une justification sémantique depuis un mécanisme darwinien ou un schéma probabiliste aveugle, imposant ainsi le respect de la "Rupture" normative.
+Il détecte les violations de frontières descriptives. L'OVM sanctionne l'absence de l'opérateur R11 lorsque des théories tentent de déduire directement une justification sémantique depuis un mécanisme darwinien ou un schéma probabiliste aveugle, imposant ainsi le respect de la "Rupture" normative.
 
 ---
 
@@ -314,7 +314,7 @@ Il détecte les violations de frontières descriptives. L'OVM sanctionne l'absen
 ```mermaid
 graph TD
 
-P[P11]
+P[R11]
 
 P --> V[Zone valide]
 P --> S[Saturation]
@@ -323,13 +323,13 @@ S --> CAP((CAP))
 CAP --> OVM{OVM}
 OVM --> T[Transition]
 
-T --> P13[P13]
-T --> P14[P14]
+T --> R13[R13]
+T --> R14[R14]
 
-P -. Tension T4 .-> P3[P3]
-P -. Tension T4/T5 .-> P7[P7]
-P -. Tension T2 .-> P5[P5]
-P -. Tension T4 .-> P12[P12]
+P -. Tension T4 .-> R3[R3]
+P -. Tension T4/T5 .-> R7[R7]
+P -. Tension T2 .-> R5[R5]
+P -. Tension T4 .-> R12[R12]
 ```
 
 ---
@@ -342,7 +342,7 @@ Il sélectionne : Les engagements sémantiques, les assertions et les critères 
 
 Il observe via : Le protocole de requalification sémantique des perturbations en énoncés justifiables.
 
-Il ignore structurellement : L'énergie thermodynamique brute, la pure survie métabolique (P7) et la genèse physique de ses propres supports (P1, P2).
+Il ignore structurellement : L'énergie thermodynamique brute, la pure survie métabolique (R7) et la genèse physique de ses propres supports (R1, R2).
 
 Il devient instable lorsque : L'appareil somatique lâche, ou que les urgences affectives primitives submergent l'impartialité requise par l'espace des raisons.
 
@@ -380,9 +380,9 @@ Il décrit une manière stable de décrire le monde.
 
 12. Métadonnées
 
-Fichier : P11_rupture_epistemologique_sellars.md
+Fichier : R11_rupture_epistemologique_sellars.md
 
-Connexions principales : P3, P5, P9, P12, P13
+Connexions principales : R3, R5, R9, R12, R13
 
 Tensions dominantes : T1, T4, T5
 
