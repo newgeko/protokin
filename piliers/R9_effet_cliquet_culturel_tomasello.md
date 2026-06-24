@@ -1,8 +1,8 @@
-P9 — Effet cliquet culturel
+R9 — Effet cliquet culturel
 
 0. Identification
 
-- Numéro : P9
+- Numéro : R9
 - Nom : Effet cliquet culturel (Tomasello)
 - Famille : socio-développemental
 - Type : Régime de couplage
@@ -38,7 +38,7 @@ Michael Tomasello
 - Référence : references/tomasello.md
 - Statut : Stabilisateur de régime
 - Apport opératoire :
-  Introduction de l'effet cliquet culturel comme mécanisme d'accumulation socio-historique empêchant la dégradation de l'information. Il démontre que la coopération humaine et l'imitation fidèle permettent la sédimentation des pratiques, constituant le pont entre la pure biologie (P7) et la normativité culturelle (P11, P13).
+  Introduction de l'effet cliquet culturel comme mécanisme d'accumulation socio-historique empêchant la dégradation de l'information. Il démontre que la coopération humaine et l'imitation fidèle permettent la sédimentation des pratiques, constituant le pont entre la pure biologie (R7) et la normativité culturelle (R11, R13).
 - Tensions associées :
   T10 (Dérive inter-temporelle), T3 (Tension d'échelle).
 
@@ -92,7 +92,7 @@ Michael Tomasello
 
 - Fonction : Garde-fou
 - Règle de vigilance :
-  L'OVM bloque toute tentative d'expliquer les institutions complexes humaines (P13) directement par une adaptation biologique (P7) sans passer par l'étape de l'accumulation lente et de l'apprentissage par reproduction fidèle qui caractérise le cliquet culturel.
+  L'OVM bloque toute tentative d'expliquer les institutions complexes humaines (R13) directement par une adaptation biologique (R7) sans passer par l'étape de l'accumulation lente et de l'apprentissage par reproduction fidèle qui caractérise le cliquet culturel.
 
 ---
 
@@ -147,7 +147,7 @@ Pour fonctionner, ce régime doit nécessairement ignorer :
 
 Le régime est pertinent lorsque :
 
-- Une population d'agents dispose de l'intentionnalité partagée (P8) permettant l'imitation fidèle.
+- Une population d'agents dispose de l'intentionnalité partagée (R8) permettant l'imitation fidèle.
 - Le système accumule des outils, pratiques et sémiotiques conservés au-delà des inventeurs initiaux.
 - L'apprentissage social ne souffre pas d'une perte d'information excessive (glissement de la ligne de base).
 
@@ -156,12 +156,12 @@ Frontières descriptives
 Le régime devient insuffisant lorsque :
 
 - Les coutumes accumulées entrent en conflit interne nécessitant une justification rationnelle ou logique.
-- Les pratiques culturelles doivent être requalifiées en raisons explicites (P11) pour fonder un espace de droit.
+- Les pratiques culturelles doivent être requalifiées en raisons explicites (R11) pour fonder un espace de droit.
 
 Violations typiques détectées par l'OVM :
 
 - Réduction abusive (T1) de la culture historique à la pure cinétique ou génétique.
-- Compression inter-régime (T11) : confondre le comportement hérité du cliquet avec l'engagement sémantique volontaire (P13).
+- Compression inter-régime (T11) : confondre le comportement hérité du cliquet avec l'engagement sémantique volontaire (R13).
 - Erreur modale d'échelle (T3) : écraser le développement de l'enfant (ontogenèse) sur la très longue sédimentation historique (phylogenèse) sans précaution.
 
 ---
@@ -189,7 +189,7 @@ Violations associées :
 Le régime devient instable lorsque :
 
 - Les coutumes accumulées deviennent trop complexes pour être arbitrées sans lois de validation logique.
-- Les artefacts ou pratiques hérités génèrent massivement des erreurs prédictives (P5) face à de nouveaux états environnementaux.
+- Les artefacts ou pratiques hérités génèrent massivement des erreurs prédictives (R5) face à de nouveaux états environnementaux.
 - Les conflits générationnels exigent une révisabilité rationnelle des croyances.
 
 Symptômes observables :
@@ -203,7 +203,7 @@ Tensions fréquemment associées :
 
 - T10 (Dérive inter-temporelle)
 - T3 (Tension d'échelle)
-- T4 (Tension normative face à P13)
+- T4 (Tension normative face à R13)
 
 ---
 
@@ -226,22 +226,22 @@ Seuil critique :
 
 Compatibilités partielles
 
-- P8 — Intentionnalité partagée : Zone de recouvrement essentielle. P8 fournit le triangle attentionnel nécessaire pour apprendre l'utilisation d'un outil, et P9 verrouille cet apprentissage dans le temps.
-- P6 — Récursion prospective : Le groupe utilise le passé accumulé par le cliquet pour simuler et outiller ses interactions futures.
+- R8 — Intentionnalité partagée : Zone de recouvrement essentielle. R8 fournit le triangle attentionnel nécessaire pour apprendre l'utilisation d'un outil, et R9 verrouille cet apprentissage dans le temps.
+- R6 — Récursion prospective : Le groupe utilise le passé accumulé par le cliquet pour simuler et outiller ses interactions futures.
 
 Traductions stables
 
-- P8 ↔ P9 : L'attention conjointe permet l'apprentissage mimétique fidèle qui sédimente les artefacts.
-- P9 ↔ P13 : Le catalogue d'artefacts culturels fournit la matière pré-réflexive de la structure discursive.
+- R8 ↔ R9 : L'attention conjointe permet l'apprentissage mimétique fidèle qui sédimente les artefacts.
+- R9 ↔ R13 : Le catalogue d'artefacts culturels fournit la matière pré-réflexive de la structure discursive.
 
 Frictions cartographiées
 
-- P3 — Ajustement allostatique : L'inertie des innovations culturelles figées par le cliquet entre en tension avec la flexibilité rapide exigée par les paramètres biologiques de survie.
-- P5 — Minimisation de la surprise : Le cliquet peut forcer la réplication d'une pratique désuète, augmentant la surprise variationnelle au lieu de la réduire.
+- R3 — Ajustement allostatique : L'inertie des innovations culturelles figées par le cliquet entre en tension avec la flexibilité rapide exigée par les paramètres biologiques de survie.
+- R5 — Minimisation de la surprise : Le cliquet peut forcer la réplication d'une pratique désuète, augmentant la surprise variationnelle au lieu de la réduire.
 
 Incompatibilités structurelles
 
-- P1 — Cinétique protonique : Incompatibilité absolue. La dérive historique n'a aucun sens sur la physique des gradients matériels.
+- R1 — Cinétique protonique : Incompatibilité absolue. La dérive historique n'a aucun sens sur la physique des gradients matériels.
 
 ---
 
@@ -258,17 +258,17 @@ Tensions constitutives
 
 Fonction de ces tensions
 
-Ces tensions garantissent l'autonomie du pôle socio-développemental en montrant la progression temporelle cumulative. La Tension T10 met en évidence que l'évolution des outils et de la culture (P9) est une sédimentation historique qui s'arrache à la pure coordination instantanée de P8 sans pour autant constituer immédiatement une institution logique (P13). 
+Ces tensions garantissent l'autonomie du pôle socio-développemental en montrant la progression temporelle cumulative. La Tension T10 met en évidence que l'évolution des outils et de la culture (R9) est une sédimentation historique qui s'arrache à la pure coordination instantanée de R8 sans pour autant constituer immédiatement une institution logique (R13). 
 
 ---
 
 7. Traductions inter-régimes
 
-Vu depuis P5 (Minimisation de la surprise)
+Vu depuis R5 (Minimisation de la surprise)
 
 L'effet cliquet culturel est traduit comme un mécanisme macroscopique de réduction de la surprise. En standardisant les comportements à travers les générations, le système stabilise des *priors* (hypothèses a priori) collectifs hautement fiables qui rendent l'environnement social prédictible.
 
-Vu depuis P11 (Rupture épistémologique)
+Vu depuis R11 (Rupture épistémologique)
 
 L'accumulation culturelle est vue comme une sédimentation d'habitudes causales performantes, mais elle reste une forme de « Donné » tant qu'elle n'a pas été brisée et justifiée normativement dans l'Espace des Raisons.
 
@@ -286,13 +286,13 @@ Lorsqu’une saturation est détectée, le Cycle d’Audit Protokin (CAP) est d�
 
 Diagnostic possible
 
-- Tension principale : T10 (Dérive temporelle, face à P8)
-- Tension secondaire : T4 (Normative, face aux régimes logiques P11/P13)
+- Tension principale : T10 (Dérive temporelle, face à R8)
+- Tension secondaire : T4 (Normative, face aux régimes logiques R11/R13)
 
 Transitions fréquemment observées
 
-- P9 → P11 par rupture normative : Bascule vers la rupture épistémologique pour requalifier les habitudes culturelles en raisons logiques révisables.
-- P8 → P9 par émergence : Bascule de l'interaction immédiate vers la sédimentation historique pour pérenniser l'innovation.
+- R9 → R11 par rupture normative : Bascule vers la rupture épistémologique pour requalifier les habitudes culturelles en raisons logiques révisables.
+- R8 → R9 par émergence : Bascule de l'interaction immédiate vers la sédimentation historique pour pérenniser l'innovation.
 
 Hiérarchie des transitions autorisées
 
@@ -305,7 +305,7 @@ Rôle de l’OVM
 
 L’OVM ne crée pas les limites du régime.
 
-Il détecte les violations de frontières descriptives. Il intervient pour empêcher la réduction de la justice ou des vérités logiques (P13/P14) à un pur "effet de cliquet" historique, forçant le chercheur à diagnostiquer la rupture nécessaire (T5/T4) entre une habitude culturelle robuste et un véritable engagement sémantique.
+Il détecte les violations de frontières descriptives. Il intervient pour empêcher la réduction de la justice ou des vérités logiques (R13/R14) à un pur "effet de cliquet" historique, forçant le chercheur à diagnostiquer la rupture nécessaire (T5/T4) entre une habitude culturelle robuste et un véritable engagement sémantique.
 
 ---
 
@@ -314,7 +314,7 @@ Il détecte les violations de frontières descriptives. Il intervient pour empê
 ```mermaid
 graph TD
 
-P[P9]
+P[R9]
 
 P --> V[Zone valide]
 P --> S[Saturation]
@@ -323,10 +323,10 @@ S --> CAP((CAP))
 CAP --> OVM{OVM}
 OVM --> T[Transition]
 
-T --> P11[P11]
+T --> R11[R11]
 
-P -. Tension T10 .-> P8[P8]
-P -. Tension T4 .-> P13[P13]
+P -. Tension T10 .-> R8[R8]
+P -. Tension T4 .-> R13[R13]
 ```
 
 ---
@@ -377,9 +377,9 @@ Il décrit une manière stable de décrire le monde.
 
 12. Métadonnées
 
-Fichier : P9_effet_cliquet_culturel_tomasello.md
+Fichier : R9_effet_cliquet_culturel_tomasello.md
 
-Connexions principales : P6, P8, P10, P11, P13
+Connexions principales : R6, R8, R10, R11, R13
 
 Tensions dominantes : T3, T4, T10
 
