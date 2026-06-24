@@ -1,8 +1,8 @@
-P7 — Préconditions du comportement (Maturana / Varela)
+R7 — Préconditions du comportement (Maturana / Varela)
 
 0. Identification
 
-- Numéro : P7
+- Numéro : R7
 - Nom : Préconditions du comportement / Couplage structurel
 - Famille : biologique
 - Type : Régime de couplage
@@ -146,8 +146,8 @@ Frontières descriptives
 
 Le régime devient insuffisant lorsque :
 
-- L'observation s'oriente vers des régimes cognitifs autonomes nécessitant l'émergence d'un monde d'objets (P4–P6).
-- L'analyse porte sur des justifications et des régimes normatifs fonctionnant indépendamment de la pure stricte viabilité biologique (P11, P13).
+- L'observation s'oriente vers des régimes cognitifs autonomes nécessitant l'émergence d'un monde d'objets (R4–R6).
+- L'analyse porte sur des justifications et des régimes normatifs fonctionnant indépendamment de la pure stricte viabilité biologique (R11, R13).
 
 Violations typiques détectées par l'OVM :
 
@@ -216,21 +216,21 @@ Seuil critique :
 
 Compatibilités partielles
 
-- P2 — Dissipation structurée : Support thermodynamique, les gradients énergétiques (P2) rendent matériellement possible le maintien de la clôture biologique (P7).
-- P3 — Ajustement allostatique : Modélise la régulation dynamique proactive qui sauvegarde concrètement les conditions de viabilité de P7.
+- R2 — Dissipation structurée : Support thermodynamique, les gradients énergétiques (R2) rendent matériellement possible le maintien de la clôture biologique (R7).
+- R3 — Ajustement allostatique : Modélise la régulation dynamique proactive qui sauvegarde concrètement les conditions de viabilité de R7.
 
 Traductions stables
 
-- P7 ↔ P10 : Le couplage biologique d'une unité à son milieu forme la racine matérielle de la dérive des pratiques et des comportements itérés (Maturana).
+- R7 ↔ R10 : Le couplage biologique d'une unité à son milieu forme la racine matérielle de la dérive des pratiques et des comportements itérés (Maturana).
 
 Frictions cartographiées
 
-- P4 — Compétence topographique : L'émergence d'invariants comportementaux stabilisés comme objets n'est pas intégralement réductible aux préconditions métaboliques.
-- P5 — Minimisation de la surprise : Reformulation purement informationnelle et bayésienne des conditions de viabilité de la biologie.
+- R4 — Compétence topographique : L'émergence d'invariants comportementaux stabilisés comme objets n'est pas intégralement réductible aux préconditions métaboliques.
+- R5 — Minimisation de la surprise : Reformulation purement informationnelle et bayésienne des conditions de viabilité de la biologie.
 
 Incompatibilités structurelles
 
-- P11 — Rupture épistémologique : Le déplacement vers l'espace des raisons (justifications et propositions normatives) est rigoureusement incommensurable avec la simple viabilité causale (T4).
+- R11 — Rupture épistémologique : Le déplacement vers l'espace des raisons (justifications et propositions normatives) est rigoureusement incommensurable avec la simple viabilité causale (T4).
 
 ---
 
@@ -247,19 +247,19 @@ Tensions constitutives
 
 Fonction de ces tensions
 
-Ces tensions garantissent l'architecture duale de Protokin. Le régime P7 s'ancre si solidement dans l'ordre causal (le maintien métabolique) qu'il fait jaillir par contraste (via T4) l'impossibilité de déduire la norme morale ou la raison logique du seul impératif de survie cellulaire.
+Ces tensions garantissent l'architecture duale de Protokin. Le régime R7 s'ancre si solidement dans l'ordre causal (le maintien métabolique) qu'il fait jaillir par contraste (via T4) l'impossibilité de déduire la norme morale ou la raison logique du seul impératif de survie cellulaire.
 
 ---
 
 7. Traductions inter-régimes
 
-Vu depuis P4 (Compétence topographique)
+Vu depuis R4 (Compétence topographique)
 
 Les préconditions biologiques de viabilité deviennent les contraintes invisibles et structurelles sous-jacentes à la libre construction d'une cartographie sensorimotrice et d'objets perceptifs.
 
-Vu depuis P5 (Minimisation de la surprise)
+Vu depuis R5 (Minimisation de la surprise)
 
-La persistance de la clôture autopoïétique et des seuils de viabilité de P7 est intégralement reformulée comme une série de contraintes forçant l'organisme à minimiser l'erreur prédictive par rapport à son milieu.
+La persistance de la clôture autopoïétique et des seuils de viabilité de R7 est intégralement reformulée comme une série de contraintes forçant l'organisme à minimiser l'erreur prédictive par rapport à son milieu.
 
 Important
 
@@ -280,8 +280,8 @@ Diagnostic possible
 
 Transitions fréquemment observées
 
-- P7 → P4 par émergence (formation d'objets topographiques hors de la pure réactivité vitale).
-- P7 → P8 par émergence (bascule de la viabilité biologique isolée vers l'intentionnalité partagée pré-linguistique, nécessitant un nouveau régime d'attention conjointe).
+- R7 → R4 par émergence (formation d'objets topographiques hors de la pure réactivité vitale).
+- R7 → R8 par émergence (bascule de la viabilité biologique isolée vers l'intentionnalité partagée pré-linguistique, nécessitant un nouveau régime d'attention conjointe).
 
 Hiérarchie des transitions autorisées
 
@@ -294,7 +294,7 @@ Rôle de l’OVM
 
 L’OVM ne crée pas les limites du régime.
 
-Il détecte les violations de frontières descriptives. Ici, il s'assure par le "Garde-fou G8" que des modèles purement normatifs (P13) ne viennent pas être justifiés, sans médiation, par l'évolution autopoïétique de P7, marquant une barrière stricte contre le naturalisme béhavioriste radical.
+Il détecte les violations de frontières descriptives. Ici, il s'assure par le "Garde-fou G8" que des modèles purement normatifs (R13) ne viennent pas être justifiés, sans médiation, par l'évolution autopoïétique de R7, marquant une barrière stricte contre le naturalisme béhavioriste radical.
 
 ---
 
@@ -303,7 +303,7 @@ Il détecte les violations de frontières descriptives. Ici, il s'assure par le 
 ```mermaid
 graph TD
 
-P[P7]
+P[R7]
 
 P --> V[Zone valide]
 P --> S[Saturation]
@@ -312,11 +312,11 @@ S --> CAP((CAP))
 CAP --> OVM{OVM}
 OVM --> T[Transition]
 
-T --> P4[P4]
-T --> P8[P8]
+T --> R4[R4]
+T --> R8[R8]
 
-P -. Tension T1 .-> P13[P13]
-P -. Tension T4/T5 .-> P11[P11]
+P -. Tension T1 .-> R13[R13]
+P -. Tension T4/T5 .-> R11[R11]
 ```
 
 ---
@@ -367,9 +367,9 @@ Il décrit une manière stable de décrire le monde.
 
 12. Métadonnées
 
-Fichier : P7_preconditions_comportement.md
+Fichier : R7_preconditions_comportement.md
 
-Connexions principales : P2, P3, P4, P5, P8, P11
+Connexions principales : R2, R3, R4, R5, R8, R11
 
 Tensions dominantes : T1, T3, T4, T5, T8
 
