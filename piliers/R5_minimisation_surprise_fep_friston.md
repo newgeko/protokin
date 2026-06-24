@@ -1,8 +1,8 @@
-P5 — Minimisation de la Surprise (FEP / Friston)
+R5 — Minimisation de la Surprise (FEP / Friston)
 
 0. Identification
 
-- Numéro : P5
+- Numéro : R5
 - Nom : Minimisation de la Surprise (Free Energy Principle / Friston)
 - Famille : cognitif
 - Type : Régime de couplage
@@ -83,7 +83,7 @@ Karl Friston (et la critique Protokin du pan-computationnalisme)
 
 - Fonction : Garde-fou
 - Règle de vigilance :
-  L'OVM bloque fermement l'extension excessive du FEP comme méta-théorie universelle. Il interdit de réduire la normativité, l'intersubjectivité ou l'espace des raisons (P11, P13) à une simple optimisation statistique de l'erreur prédictive (violation T1 / T11).
+  L'OVM bloque fermement l'extension excessive du FEP comme méta-théorie universelle. Il interdit de réduire la normativité, l'intersubjectivité ou l'espace des raisons (R11, R13) à une simple optimisation statistique de l'erreur prédictive (violation T1 / T11).
 
 ---
 
@@ -145,8 +145,8 @@ Frontières descriptives
 
 Le régime devient insuffisant lorsque :
 
-- L'analyse porte sur des régimes purement physiques sans capacité d'inférence (P1, P2).
-- Le phénomène relève de régimes normatifs irréductibles à la simple prédiction (P11, P13).
+- L'analyse porte sur des régimes purement physiques sans capacité d'inférence (R1, R2).
+- Le phénomène relève de régimes normatifs irréductibles à la simple prédiction (R11, R13).
 
 Violations typiques détectées par l'OVM :
 
@@ -216,23 +216,23 @@ Seuil critique :
 
 Compatibilités partielles
 
-- P4 — Compétence topographique : ancrage de la construction d'objets et des modèles dans l'action située.
-- P6 — Récursion prospective : extension temporelle de la modélisation inférentielle vers des états futurs.
+- R4 — Compétence topographique : ancrage de la construction d'objets et des modèles dans l'action située.
+- R6 — Récursion prospective : extension temporelle de la modélisation inférentielle vers des états futurs.
 
 Traductions stables
 
-- P4 ↔ P5 (formulation probabiliste de la boucle sensorimotrice).
-- P2 ↔ P5 (structuration locale loin de l'équilibre interprétée informationnellement).
+- R4 ↔ R5 (formulation probabiliste de la boucle sensorimotrice).
+- R2 ↔ R5 (structuration locale loin de l'équilibre interprétée informationnellement).
 
 Frictions cartographiées
 
-- P2 — Dissipation structurée : Tension de traduction (T2) ou de réduction, opposant la thermodynamique irréversible brute à l'interprétation purement informationnelle.
-- P3 — Ajustement allostatique : Risque de réduire la matérialité de l'anticipation viscérale au calcul formel de l'erreur.
-- P8 — Intentionnalité partagée : Tension de traduction (T2) face à la coordination fondée sur la reconnaissance mutuelle et le *mode-Nous*.
+- R2 — Dissipation structurée : Tension de traduction (T2) ou de réduction, opposant la thermodynamique irréversible brute à l'interprétation purement informationnelle.
+- R3 — Ajustement allostatique : Risque de réduire la matérialité de l'anticipation viscérale au calcul formel de l'erreur.
+- R8 — Intentionnalité partagée : Tension de traduction (T2) face à la coordination fondée sur la reconnaissance mutuelle et le *mode-Nous*.
 
 Incompatibilités structurelles
 
-- P11 / P13 — Rupture épistémologique et Institution inférentielle : Incompatibilité radicale. Le passage au domaine normatif et logico-discursif est irréductible à l'optimisation statistique individuelle. Le normatif ne se déduit pas du causal ou du probabiliste.
+- R11 / R13 — Rupture épistémologique et Institution inférentielle : Incompatibilité radicale. Le passage au domaine normatif et logico-discursif est irréductible à l'optimisation statistique individuelle. Le normatif ne se déduit pas du causal ou du probabiliste.
 
 ---
 
@@ -249,17 +249,17 @@ Tensions constitutives
 
 Fonction de ces tensions
 
-Ces tensions garantissent l'autonomie de P5 tout en le limitant : la Tension T2 démontre l'écart entre un comportement optimisé pour la survie et un comportement justifié devant autrui. La Tension T11 protège le système en rappelant que le formalisme bayésien du cerveau n'est pas le métalangage universel de la thermodynamique (P2) ni celui de la sociologie (P13).
+Ces tensions garantissent l'autonomie de R5 tout en le limitant : la Tension T2 démontre l'écart entre un comportement optimisé pour la survie et un comportement justifié devant autrui. La Tension T11 protège le système en rappelant que le formalisme bayésien du cerveau n'est pas le métalangage universel de la thermodynamique (R2) ni celui de la sociologie (R13).
 
 ---
 
 7. Traductions inter-régimes
 
-Vu depuis P4 (Compétence topographique)
+Vu depuis R4 (Compétence topographique)
 
 La minimisation de la surprise est reconstituée pragmatiquement comme la simple stabilisation des régularités comportementales et la réussite de la boucle sensorimotrice dans l'espace.
 
-Vu depuis P8 (Intentionnalité partagée)
+Vu depuis R8 (Intentionnalité partagée)
 
 Les erreurs de prédiction deviennent des indices et des ajustements permettant de réguler l'attention conjointe et de valider l'intentionnalité commune avec le partenaire de l'interaction.
 
@@ -282,21 +282,21 @@ Diagnostic possible
 
 Transitions fréquemment observées
 
-- P5 → P8 par émergence (ouverture des boucles prédictives à l'attention mutuelle intersubjective).
-- P5 → P11 par rupture (reconfiguration exigeant le passage de l'inférence causale à la justification logique explicite).
+- R5 → R8 par émergence (ouverture des boucles prédictives à l'attention mutuelle intersubjective).
+- R5 → R11 par rupture (reconfiguration exigeant le passage de l'inférence causale à la justification logique explicite).
 
 Hiérarchie des transitions autorisées
 
 - Niveau 1 : Réinterprétation
 - Niveau 2 : Émergence
 - Niveau 3 : Rupture
-- Niveau 4 : Blocage OVM (interdiction de dériver les normes de P13 par simple calcul d'erreur).
+- Niveau 4 : Blocage OVM (interdiction de dériver les normes de R13 par simple calcul d'erreur).
 
 Rôle de l’OVM
 
 L’OVM ne crée pas les limites du régime.
 
-Il détecte les violations de frontières descriptives. L'OVM s'assure par exemple que les modèles prédictifs (P5) ne s'approprient pas la dimension purement logico-discursive (P13) en la réduisant abusivement à du calcul neuronal abstrait, forçant la reconnaissance d'une rupture normative justifiée (T5).
+Il détecte les violations de frontières descriptives. L'OVM s'assure par exemple que les modèles prédictifs (R5) ne s'approprient pas la dimension purement logico-discursive (R13) en la réduisant abusivement à du calcul neuronal abstrait, forçant la reconnaissance d'une rupture normative justifiée (T5).
 
 ---
 
@@ -305,7 +305,7 @@ Il détecte les violations de frontières descriptives. L'OVM s'assure par exemp
 ```mermaid
 graph TD
 
-P[P5]
+P[R5]
 
 P --> V[Zone valide]
 P --> S[Saturation]
@@ -314,11 +314,11 @@ S --> CAP((CAP))
 CAP --> OVM{OVM}
 OVM --> T[Transition]
 
-T --> P4[P4]
-T --> P8[P8]
+T --> R4[R4]
+T --> R8[R8]
 
-P -. Tension T2 .-> P8_Intent[P8]
-P -. Tension T11 .-> P13[P13]
+P -. Tension T2 .-> R8_Intent[R8]
+P -. Tension T11 .-> R13[R13]
 ```
 
 ---
@@ -369,9 +369,9 @@ Il décrit une manière stable de décrire le monde.
 
 12. Métadonnées
 
-Fichier : P5_minimisation_surprise_fep_friston.md
+Fichier : R5_minimisation_surprise_fep_friston.md
 
-Connexions principales : P2, P3, P4, P6, P8, P11
+Connexions principales : R2, R3, R4, R6, R8, R11
 
 Tensions dominantes : T2, T4, T11
 
