@@ -40,7 +40,7 @@ Aucune justification normative n'est encore requise : les systèmes se stabilise
 ### Ilya Prigogine et Isabelle Stengers
 **Œuvre :** *La Nouvelle Alliance* (1979)
 
-**Régime :** P2 — Dissipation structurée
+**Régime :** R2 — Dissipation structurée
 
 #### Fonction dans Protokin
 
@@ -57,7 +57,7 @@ L'invariant observé demeure entièrement causal et énergétique.
 ### Erwin Schrödinger
 **Œuvre :** *Interprétation de la mécanique ondulatoire*
 
-**Régime :** P1 — Niveau microphysique
+**Régime :** R1 — Niveau microphysique
 
 #### Fonction dans Protokin
 
@@ -74,7 +74,7 @@ Cette situation illustre la tension T1 (réduction), qui apparaît lorsqu'un niv
 ### Karl Friston
 **Œuvre :** *Free Energy Principle*
 
-**Régime :** P5 — Stabilisation prédictive
+**Régime :** R5 — Stabilisation prédictive
 
 #### Fonction dans Protokin
 
@@ -91,7 +91,7 @@ Il ne permet pas encore de rendre compte de la justification normative.
 ### Heinz von Foerster
 **Œuvre :** Cybernétique de second ordre
 
-**Régime :** P4 — Compétence topographique
+**Régime :** R4 — Compétence topographique
 
 #### Fonction dans Protokin
 
@@ -108,7 +108,7 @@ Dans Protokin, il représente une étape avancée de la stabilisation cognitive 
 ### Konrad Lorenz
 **Œuvre :** *L'Agression* (1966)
 
-**Régime :** P7 — Couplage structurel
+**Régime :** R7 — Couplage structurel
 
 #### Fonction dans Protokin
 
@@ -121,7 +121,7 @@ Les instincts, les comportements ritualisés et les mécanismes de régulation d
 ### Frans de Waal
 **Œuvre :** *Le bonobo, Dieu et nous* (2013)
 
-**Régime :** P7, frontière P8
+**Régime :** R7, frontière R8
 
 #### Fonction dans Protokin
 
@@ -136,7 +136,7 @@ Toutefois, ces dispositions biologiques ne constituent pas encore des justificat
 ### Francisco Varela
 **Œuvre :** *The Embodied Mind* (1991)
 
-**Régime :** P7-P10
+**Régime :** R7-R10
 
 #### Fonction dans Protokin
 
@@ -163,7 +163,7 @@ Les systèmes n'y sont plus simplement coordonnés par des contraintes biologiqu
 - *Pourquoi nous coopérons* (2009)
 - *A Natural History of Human Thinking* (2014)
 
-**Régime :** P8 — Intentionnalité partagée
+**Régime :** R8 — Intentionnalité partagée
 
 #### Fonction dans Protokin
 
@@ -171,7 +171,7 @@ Tomasello fournit le maillon manquant entre l'individu biologique et la communau
 
 L'attention conjointe, les buts partagés et les capacités coopératives constituent les premières formes de coordination collective.
 
-Il agit ainsi comme un opérateur de transition entre P7 et P13.
+Il agit ainsi comme un opérateur de transition entre R7 et R13.
 
 ---
 
@@ -183,7 +183,7 @@ Il agit ainsi comme un opérateur de transition entre P7 et P13.
 - *La Violence et le Sacré* (1972)
 - *Ordres et désordres* (1982)
 
-**Régime :** P10 — Dynamique mimétique
+**Régime :** R10 — Dynamique mimétique
 
 #### Fonction dans Protokin
 
@@ -208,7 +208,7 @@ Les systèmes deviennent alors normatifs.
 ### Wilfrid Sellars
 **Œuvre :** *Empiricism and the Philosophy of Mind* (1956)
 
-**Régime :** P11 — Espace des raisons
+**Régime :** R11 — Espace des raisons
 
 #### Fonction dans Protokin
 
@@ -223,7 +223,7 @@ Cette rupture fonde la tension T4 entre causalité et normativité.
 ### John McDowell
 **Œuvre :** *Mind and World* (1994)
 
-**Régime :** P11
+**Régime :** R11
 
 #### Fonction dans Protokin
 
@@ -236,7 +236,7 @@ Il consolide ainsi la frontière entre explication causale et justification rati
 ### Ludwig Wittgenstein
 **Œuvre :** *Recherches philosophiques* (1953)
 
-**Régime :** P13
+**Régime :** R13
 
 #### Fonction dans Protokin
 
@@ -249,7 +249,7 @@ Wittgenstein agit comme un rempart contre la régression interprétative.
 ### Robert Brandom
 **Œuvre :** *Making It Explicit* (1994)
 
-**Régime :** P13
+**Régime :** R13
 
 #### Fonction dans Protokin
 
@@ -266,7 +266,7 @@ La rationalité apparaît comme un phénomène institutionnel.
 ### John Searle
 **Œuvre :** *The Construction of Social Reality* (1995)
 
-**Régime :** P13
+**Régime :** R13
 
 #### Fonction dans Protokin
 
@@ -283,7 +283,7 @@ constitue l'un des principaux opérateurs de transition entre le matériel et le
 ### Cornélius Castoriadis
 **Œuvre :** *L'Institution imaginaire de la société* (1975)
 
-**Régime :** P13
+**Régime :** R13
 
 #### Fonction dans Protokin
 
@@ -296,7 +296,7 @@ Les normes n'apparaissent plus comme des conséquences mécaniques de causes ant
 ### T. M. Scanlon
 **Œuvre :** *What We Owe to Each Other* (1998)
 
-**Régime :** P11-P13
+**Régime :** R11-R13
 
 #### Fonction dans Protokin
 
@@ -308,7 +308,7 @@ Une norme est légitime lorsqu'aucun participant raisonnable ne peut la rejeter.
 
 # IV. Le niveau méta-théorique : audit et validation des systèmes
 
-Le niveau P14 ne décrit plus directement le monde.
+Le niveau R14 ne décrit plus directement le monde.
 
 Il analyse les théories elles-mêmes.
 
@@ -324,7 +324,7 @@ Son rôle est de contrôler la cohérence architecturale du framework et de pré
 - *Nécessité ou contingence* (1984)
 - *What Are Philosophical Systems?* (1986)
 
-**Régime :** P14
+**Régime :** R14
 
 #### Fonction dans Protokin
 
@@ -338,7 +338,7 @@ Les systèmes philosophiques doivent être évalués à partir de leurs axiomes 
 
 **Œuvre :** *Prodiges et vertiges de l'analogie* (1999)
 
-**Régime :** P14
+**Régime :** R14
 
 #### Fonction dans Protokin
 
@@ -354,7 +354,7 @@ Il permet de détecter les collapsus méta-langagiers.
 - *Deux dogmes de l'empirisme* (1951)
 - *Relativité de l'ontologie* (1969)
 
-**Régime :** P14 (objet d'audit)
+**Régime :** R14 (objet d'audit)
 
 #### Fonction dans Protokin
 
@@ -368,7 +368,7 @@ Il constitue ainsi un générateur privilégié de tensions architecturales.
 
 **Œuvre :** *Théorie de la justice* (1971)
 
-**Régime :** P14 (cas d'audit)
+**Régime :** R14 (cas d'audit)
 
 #### Fonction dans Protokin
 
