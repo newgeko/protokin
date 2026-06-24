@@ -1,4 +1,4 @@
-# 🧩 Régimes de couplage (P1–P14)
+# 🧩 Régimes de couplage (R1–R14)
 
 ## 🧭 Définition
 
@@ -17,7 +17,7 @@ Chaque régime définit :
 
 Ces régimes stabilisent les transitions, les structures et les formes avant toute cognition ou normativité.
 
-## P1 — Transitions élémentaires micro-physiques
+## R1 — Transitions élémentaires micro-physiques
 Régime des régularités de transformation élémentaires.
 
 - flux
@@ -29,14 +29,14 @@ Régime des régularités de transformation élémentaires.
 
 ---
 
-## P2 — Dissipation structurée (Prigogine)
+## R2 — Dissipation structurée (Prigogine)
 Régime des structures émergentes hors équilibre.
 
 👉 stabilisation par flux et dissipation
 
 ---
 
-## P3 — Individuation transductive (Simondon)
+## R3 — Individuation transductive (Simondon)
 Régime d’émergence progressive de formes à partir de champs métastables.
 
 👉 invariant : formes en cours de stabilisation
@@ -52,14 +52,14 @@ Construction d’invariants perceptifs par interaction organisme–milieu.
 
 ---
 
-## P5 — Inférence prédictive multi-échelle (FEP)
+## R5 — Inférence prédictive multi-échelle (FEP)
 Stabilisation des systèmes par réduction d’erreur de prédiction.
 
 👉 inclut les boucles anticipatrices temporelles
 
 ---
 
-## P6 — Plasticité ontogénétique
+## R6 — Plasticité ontogénétique
 Régime d’apprentissage individuel et de transformation des schèmes d’action.
 
 - habitudes
@@ -70,7 +70,7 @@ Régime d’apprentissage individuel et de transformation des schèmes d’actio
 
 ---
 
-## P7 — Couplage structurel biologique (Maturana / Varela)
+## R7 — Couplage structurel biologique (Maturana / Varela)
 Autopoïèse et co-détermination organisme–milieu.
 
 ---
@@ -79,12 +79,12 @@ Autopoïèse et co-détermination organisme–milieu.
 
 Ces régimes introduisent la coordination intersubjective.
 
-## P8 — Intentionnalité partagée (Tomasello)
+## R8 — Intentionnalité partagée (Tomasello)
 Coordination dyadique autour de buts communs.
 
 ---
 
-## P9 — Stabilisation conventionnelle cumulative
+## R9 — Stabilisation conventionnelle cumulative
 Régime de formation et transmission de régularités sociales partagées.
 
 - conventions
@@ -95,7 +95,7 @@ Régime de formation et transmission de régularités sociales partagées.
 
 ---
 
-## P10 — Morphogenèse socio-interactive (Girard / Dupuy)
+## R10 — Morphogenèse socio-interactive (Girard / Dupuy)
 Émergence des structures sociales par dynamique mimétique et résolution de crise.
 
 ---
@@ -104,12 +104,12 @@ Régime de formation et transmission de régularités sociales partagées.
 
 Ces régimes organisent les raisons, les règles et les institutions.
 
-## P11 — Espace des raisons (Sellars)
+## R11 — Espace des raisons (Sellars)
 Séparation stricte entre causalité et justification normative.
 
 ---
 
-## P12 — Régime thymique de saillance normative
+## R12 — Régime thymique de saillance normative
 Régime de hiérarchisation pré-discursive des valeurs et des priorités d’action.
 
 - affect
@@ -123,14 +123,14 @@ Régime de hiérarchisation pré-discursive des valeurs et des priorités d’ac
 
 ---
 
-## P13 — Institution inférentielle (Brandom / Searle / Castoriadis)
+## R13 — Institution inférentielle (Brandom / Searle / Castoriadis)
 Stabilisation des normes par engagements et habilitations mutuelles.
 
 ---
 
 # 🧭 V. Régime méta-théorique
 
-## P14 — Validation / audit métathéorique (Vuillemin / Bouveresse)
+## R14 — Validation / audit métathéorique (Vuillemin / Bouveresse)
 Régime de réflexivité critique.
 
 - contrôle des abus d’analogie
