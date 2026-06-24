@@ -1,8 +1,8 @@
-P1 — Cinétique Protonique
+R1 — Cinétique Protonique
 
 0. Identification
 
-- Numéro : P1
+- Numéro : R1
 - Nom : Cinétique Protonique
 - Famille : physico-dynamique
 - Type : Régime de couplage
@@ -155,7 +155,7 @@ Frontières descriptives
 
 Le régime devient insuffisant lorsque :
 
-- Le système d'observation est confronté à des régimes macroscopiques émergents sans référence directe aux flux élémentaires (P4).
+- Le système d'observation est confronté à des régimes macroscopiques émergents sans référence directe aux flux élémentaires (R4).
 - Les dynamiques font appel à des registres symboliques, sémantiques ou normatifs autonomes (P11, P13).
 
 Violations typiques détectées par l'OVM :
@@ -202,7 +202,7 @@ Tensions fréquemment associées :
 
 - T1 (Tension de réduction)
 - T3 (Tension d'échelle)
-- T5 (Tension de rupture vers P11)
+- T5 (Tension de rupture vers R11)
 
 ---
 
@@ -225,22 +225,22 @@ Seuil critique :
 
 Compatibilités partielles
 
-- P2 — Dissipation structurée : Partage explicite de la notion de stabilisation hors équilibre et de la dynamique des flux.
-- P3 — Ajustement allostatique : Régulation et orchestration des dynamiques de transition sous contrainte physiologique de survie.
+- R2 — Dissipation structurée : Partage explicite de la notion de stabilisation hors équilibre et de la dynamique des flux.
+- R3 — Ajustement allostatique : Régulation et orchestration des dynamiques de transition sous contrainte physiologique de survie.
 
 Traductions stables
 
-- P1 ↔ P2 (Articulation physique entre le niveau micro-protonique et les structures macro-dissipatives).
+- R1 ↔ R2 (Articulation physique entre le niveau micro-protonique et les structures macro-dissipatives).
 
 Frictions cartographiées
 
-- P4 — Tension T3/T4 : Changement de statut de l'invariant (la transition de l'onde/flux microphysique vers la constitution de l'objet macroscopique topographique stabilisé).
-- P5 — Tension T2 : Conflit entre la modélisation probabiliste inférentielle de l'erreur (P5) et la dynamique purement immanente de la régularité matérielle (P1).
+- R4 — Tension T3/T4 : Changement de statut de l'invariant (la transition de l'onde/flux microphysique vers la constitution de l'objet macroscopique topographique stabilisé).
+- R5 — Tension T2 : Conflit entre la modélisation probabiliste inférentielle de l'erreur (P5) et la dynamique purement immanente de la régularité matérielle (P1).
 
 Incompatibilités structurelles
 
-- P11 — Rupture épistémologique : Changement absolu de régime de justification. P1 opère dans l'immanence stricte des causes, où la notion de "justification" rationnelle est caduque et irrecevable.
-- P13 — Institution inférentielle : Incompatibilité de famille. La physique fondamentale ignore structurellement le droit, le devoir sémantique et la tenue des scores déontiques sociaux.
+- R11 — Rupture épistémologique : Changement absolu de régime de justification. P1 opère dans l'immanence stricte des causes, où la notion de "justification" rationnelle est caduque et irrecevable.
+- R13 — Institution inférentielle : Incompatibilité de famille. La physique fondamentale ignore structurellement le droit, le devoir sémantique et la tenue des scores déontiques sociaux.
 
 ---
 
@@ -257,17 +257,17 @@ Tensions constitutives
 
 Fonction de ces tensions
 
-La tension de réduction (T1) assure l'utilité du régime P1 : ce dernier cartographie précisément l'échelle pure de la cinétique physique et met ainsi en évidence, par contraste, tout ce qui *ne peut pas* y être réduit sans perte (la vie, l'esprit, la norme). Elle signale la limite infranchissable du réductionnisme mécaniste.
+La tension de réduction (T1) assure l'utilité du régime R1 : ce dernier cartographie précisément l'échelle pure de la cinétique physique et met ainsi en évidence, par contraste, tout ce qui *ne peut pas* y être réduit sans perte (la vie, l'esprit, la norme). Elle signale la limite infranchissable du réductionnisme mécaniste.
 
 ---
 
 7. Traductions inter-régimes
 
-Vu depuis P4 (Compétence topographique)
+Vu depuis R4 (Compétence topographique)
 
 Les flux élémentaires constitutifs de la cinétique protonique sont reconstitués pragmatiquement comme les supports sous-jacents, mais directement inobservables, des objets macroscopiques stables avec lesquels l'agent interagit.
 
-Vu depuis P5 (Minimisation de la surprise)
+Vu depuis R5 (Minimisation de la surprise)
 
 Les transitions protoniques aléatoires ou déterministes deviennent des régularités statistiques, compressées et anticipées au sein d'un modèle génératif prédictif afin d'en optimiser la survie.
 
@@ -290,9 +290,9 @@ Diagnostic possible
 
 Transitions fréquemment observées
 
-- P1 → P2 par réinterprétation (passage à l'échelle des structures dissipatives émergentes).
-- P1 → P4 par émergence (stabilisation des objets comportementaux sur la base des flux).
-- Blocage OVM si tentative de saut direct P1 → P11.
+- R1 → R2 par réinterprétation (passage à l'échelle des structures dissipatives émergentes).
+- R1 → R4 par émergence (stabilisation des objets comportementaux sur la base des flux).
+- Blocage OVM si tentative de saut direct R1 → R11.
 
 Hiérarchie des transitions autorisées
 
@@ -314,7 +314,7 @@ Il détecte les violations de frontières descriptives. L'OVM interviendra forme
 ```mermaid
 graph TD
 
-P[P1]
+R[R1]
 
 P --> V[Zone valide]
 P --> S[Saturation]
@@ -323,11 +323,11 @@ S --> CAP((CAP))
 CAP --> OVM{OVM}
 OVM --> T[Transition]
 
-T --> P2[P2]
-T --> P4[P4]
+T --> R2[R2]
+T --> R4[R4]
 
-P -. Tension T1/T5 .-> P11[P11]
-P -. Tension T3 .-> P5[P5]
+R -. Tension T1/T5 .-> R11[R11]
+R -. Tension T3 .-> R5[R5]
 ```
 
 ---
@@ -380,7 +380,7 @@ Il décrit une manière stable de décrire le monde.
 
 Fichier : P1_cinetique_protonique.md
 
-Connexions principales : P2, P3, P4, P5, P11
+Connexions principales : R2, R3, R4, R5, R11
 
 Tensions dominantes : T1, T3, T5
 
