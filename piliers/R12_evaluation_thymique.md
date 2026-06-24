@@ -1,8 +1,8 @@
-P12 — Évaluation thimique
+R12 — Évaluation thimique
 
 0. Identification
 
-- Numéro : P12
+- Numéro : R12
 - Nom : Évaluation thimique
 - Famille : normatif
 - Type : Régime de couplage
@@ -42,7 +42,7 @@ Héritage philosophique (Timê / Thymos)
 - Tensions associées :
   Tension normative (T4), face à l'impartialité de l'Espace des raisons.
 
-Wilfrid Sellars / John McDowell (Garde-fous depuis P11)
+Wilfrid Sellars / John McDowell (Garde-fous depuis R11)
 
 - Référence : references/sellars.md / references/mcdowell.md
 - Statut : Frontière inter-régime / Générateur de tension
@@ -91,7 +91,7 @@ John McDowell
 
 - Fonction : Garde-fou
 - Règle de vigilance :
-  L'OVM s'assure qu'aucune évaluation thimique (une urgence affective ou un tiraillement somatique) ne soit abusivement promue au statut de justification morale ou de vérité propositionnelle sans passer par la rupture de la requalification sémantique (P11).
+  L'OVM s'assure qu'aucune évaluation thimique (une urgence affective ou un tiraillement somatique) ne soit abusivement promue au statut de justification morale ou de vérité propositionnelle sans passer par la rupture de la requalification sémantique (R11).
 
 ---
 
@@ -146,7 +146,7 @@ Pour fonctionner, ce régime doit nécessairement ignorer :
 
 Le régime est pertinent lorsque :
 
-- Le système dispose d'un couplage structurel fonctionnel (P10) et de boucles allostatiques actives (P3).
+- Le système dispose d'un couplage structurel fonctionnel (R10) et de boucles allostatiques actives (R3).
 - Les fluctuations d'intensités somatiques restent dans les limites de tolérance.
 - Les indices environnementaux sont corrélés à des conséquences adaptatives réelles.
 
@@ -159,7 +159,7 @@ Le régime devient insuffisant lorsque :
 
 Violations typiques détectées par l'OVM :
 
-- Réduction de l'espace normatif (P13) à une simple pulsion affective (T1).
+- Réduction de l'espace normatif (R13) à une simple pulsion affective (T1).
 - Écrasement d'une obligation logique sur un déterminisme émotionnel.
 
 ---
@@ -187,7 +187,7 @@ Violations associées :
 Le régime devient instable lorsque :
 
 - Les urgences affectives entrent en contradiction insoluble.
-- La dynamique du système exige une médiation par des normes intersubsidiaires publiques et logiques (P13).
+- La dynamique du système exige une médiation par des normes intersubsidiaires publiques et logiques (R13).
 
 Symptômes observables :
 
@@ -223,22 +223,22 @@ Seuil critique :
 
 Compatibilités partielles
 
-- P3 — Ajustement allostatique : L'allostasie fournit les paramètres somatiques que P12 traduit en gradients de valeur affective.
-- P4 — Compétence topographique : P12 habille les invariants de P4 d'une valence émotionnelle (objets désirables ou évitables).
+- R3 — Ajustement allostatique : L'allostasie fournit les paramètres somatiques que R12 traduit en gradients de valeur affective.
+- R4 — Compétence topographique : R12 habille les invariants de R4 d'une valence émotionnelle (objets désirables ou évitables).
 
 Traductions stables
 
-- P3 ↔ P12 : L'écart physiologique de P3 devient une valence thimique dans P12.
-- P4 ↔ P12 : Le *token* d'action devient un objet de désir/répulsion.
+- R3 ↔ R12 : L'écart physiologique de R3 devient une valence thimique dans R12.
+- R4 ↔ R12 : Le *token* d'action devient un objet de désir/répulsion.
 
 Frictions cartographiées
 
-- P11 — Tension T4/T5 : L'Espace des Raisons exige la suspension des biais thimiques, créant une tension critique permanente avec l'urgence asymétrique de P12.
-- P5 — Tension T2 : La minimisation de l'erreur prédictive est entravée par la surcharge thimique qui surpondère certaines hypothèses a priori.
+- R11 — Tension T4/T5 : L'Espace des Raisons exige la suspension des biais thimiques, créant une tension critique permanente avec l'urgence asymétrique de R12.
+- R5 — Tension T2 : La minimisation de l'erreur prédictive est entravée par la surcharge thimique qui surpondère certaines hypothèses a priori.
 
 Incompatibilités structurelles
 
-- P14 — Validation axiomatique : L'audit métathéorique s'exécute dans un espace de non-contradiction pure, totalement étranger à la force thimique primitive.
+- R14 — Validation axiomatique : L'audit métathéorique s'exécute dans un espace de non-contradiction pure, totalement étranger à la force thimique primitive.
 
 ---
 
@@ -254,19 +254,19 @@ Tensions constitutives
 
 Fonction de ces tensions
 
-Ces tensions délimitent l'espace propre de P12 : elles démontrent qu'il existe un registre de valorisation asymétrique, ancré dans l'urgence corporelle, qui n'est ni purement mécanique et probabiliste (P5), ni pleinement impartial et logiquement justifié (P11). La tension normative (T4) marque précisément la nécessité de surmonter la thimie pour accéder à la raison décontextualisée.
+Ces tensions délimitent l'espace propre de R12 : elles démontrent qu'il existe un registre de valorisation asymétrique, ancré dans l'urgence corporelle, qui n'est ni purement mécanique et probabiliste (R5), ni pleinement impartial et logiquement justifié (R11). La tension normative (T4) marque précisément la nécessité de surmonter la thimie pour accéder à la raison décontextualisée.
 
 ---
 
 7. Traductions inter-régimes
 
-Vu depuis P3 (Ajustement allostatique)
+Vu depuis R3 (Ajustement allostatique)
 
 L'évaluation thimique est relue comme la traduction neurobiologique et computationnelle des états de déviation ou d'adéquation des variables physiologiques par rapport à leurs trajectoires prédictives de viabilité.
 
-Vu depuis P11 (Rupture épistémologique)
+Vu depuis R11 (Rupture épistémologique)
 
-Le régime P12 est appréhendé comme une forme sophistiquée de l'Espace des Causes : les valences thimiques y apparaissent comme des déterminismes biophysiques incarnés et des chocs motivationnels nécessitant d'être requalifiés en concepts logiques pour devenir de véritables raisons.
+Le régime R12 est appréhendé comme une forme sophistiquée de l'Espace des Causes : les valences thimiques y apparaissent comme des déterminismes biophysiques incarnés et des chocs motivationnels nécessitant d'être requalifiés en concepts logiques pour devenir de véritables raisons.
 
 Important
 
@@ -287,8 +287,8 @@ Diagnostic possible
 
 Transitions fréquemment observées
 
-- P12 → P11 par Rupture normative.
-- P12 → P13 par institutionnalisation des urgences en normes partagées.
+- R12 → R11 par Rupture normative.
+- R12 → R13 par institutionnalisation des urgences en normes partagées.
 
 Hiérarchie des transitions autorisées
 
@@ -301,7 +301,7 @@ Rôle de l’OVM
 
 L’OVM ne crée pas les limites du régime.
 
-Il détecte les violations de frontières descriptives. Il s'assure par exemple qu'une théorie n'utilise pas la seule intensité affective d'une réaction thimique (P12) pour justifier rationnellement une posture épistémologique (P11), exigeant une rupture formelle.
+Il détecte les violations de frontières descriptives. Il s'assure par exemple qu'une théorie n'utilise pas la seule intensité affective d'une réaction thimique (R12) pour justifier rationnellement une posture épistémologique (R11), exigeant une rupture formelle.
 
 ---
 
@@ -310,7 +310,7 @@ Il détecte les violations de frontières descriptives. Il s'assure par exemple 
 ```mermaid
 graph TD
 
-P[P12]
+P[R12]
 
 P --> V[Zone valide]
 P --> S[Saturation]
@@ -319,11 +319,11 @@ S --> CAP((CAP))
 CAP --> OVM{OVM}
 OVM --> T[Transition]
 
-T --> P11[P11]
-T --> P13[P13]
+T --> R11[R11]
+T --> R13[R13]
 
-P -. Tension T4 .-> P11_Rupture[P11]
-P -. Tension T2 .-> P5[P5]
+P -. Tension T4 .-> R11_Rupture[R11]
+P -. Tension T2 .-> R5[R5]
 ```
 
 ---
@@ -373,9 +373,9 @@ Il décrit une manière stable de décrire le monde.
 
 12. Métadonnées
 
-Fichier : P12_evaluation_thymique.md
+Fichier : R12_evaluation_thymique.md
 
-Connexions principales : P3, P4, P5, P8, P11
+Connexions principales : R3, R4, R5, R8, R11
 
 Tensions dominantes : T1, T2, T4, T5
 
