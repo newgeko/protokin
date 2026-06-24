@@ -4,7 +4,7 @@
 
 L'un des problèmes récurrents des sciences humaines, de la philosophie et des sciences cognitives contemporaines est la tendance à confondre des niveaux d'analyse hétérogènes. Une théorie biologique est mobilisée pour expliquer des normes morales ; un modèle physique est utilisé pour justifier des institutions politiques ; une description psychologique est transformée en fondement ontologique.
 
-Cette confusion produit ce que l'architecture **Protokin cOS** identifie comme des **compressions de régimes descriptifs**, c'est-à-dire des passages illégitimes entre différents niveaux d'intelligibilité du réel.
+Cette confusion produit ce que l'architecture **Protokin** identifie comme des **compressions de régimes descriptifs**, c'est-à-dire des passages illégitimes entre différents niveaux d'intelligibilité du réel.
 
 La présente cartographie poursuit donc plusieurs objectifs :
 
@@ -115,6 +115,21 @@ Dans Protokin, il représente une étape avancée de la stabilisation cognitive 
 Lorenz décrit les mécanismes biologiques à l'origine de nombreux comportements sociaux.
 
 Les instincts, les comportements ritualisés et les mécanismes de régulation de l'agression constituent le socle pré-social sur lequel pourront ultérieurement se développer des institutions normatives.
+
+---
+
+### Ernst Mayr
+**Œuvre :** *What Evolution Is* (2001)
+
+**Régime :** R7 — Couplage structurel (Biologie populationnelle)
+
+#### Fonction dans Protokin
+
+Mayr consolide l'infrastructure matérielle et populationnelle du pôle Proto en agissant comme un puissant opérateur de stabilisation face à la métaphysique essentialiste. Sa conceptualisation de la « pensée populationnelle » fournit la preuve biologique que la variation continue et le tamis de la sélection naturelle suffisent à stabiliser des formes (les espèces) conçues non comme des essences idéales (blocage de la tension T1), mais comme des invariants statistiques et informationnels en co-dérive permanente avec leur milieu.
+
+De plus, l'OVM (Opérateur de Vigilance Modale) mobilise l'apport de Mayr pour désamorcer la tension de collapsus méta-langagier (T7) liée aux finalités sauvages : en substituant la *téléonomie* (l'exécution causale d'un programme d'information sédimenté historiquement par le génome) à la *téléologie* cosmique ou anthropomorphique, Mayr ramène la finalité apparente du vivant dans les limites strictes des mécanismes causaux de R7.
+
+Enfin, son analyse de l'émergence de la culture humaine trace précisément la frontière supérieure de R7 (Zone de rupture R1), balisant le point de saturation où le vivant doit transiter vers le cliquet culturel (R9) et l'espace des raisons (R11) sans pour autant autoriser une réduction sociobiologique sauvage du normatif au biologique.
 
 ---
 
