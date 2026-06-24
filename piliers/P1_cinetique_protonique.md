@@ -156,7 +156,7 @@ Frontières descriptives
 Le régime devient insuffisant lorsque :
 
 - Le système d'observation est confronté à des régimes macroscopiques émergents sans référence directe aux flux élémentaires (R4).
-- Les dynamiques font appel à des registres symboliques, sémantiques ou normatifs autonomes (P11, P13).
+- Les dynamiques font appel à des registres symboliques, sémantiques ou normatifs autonomes (R11, R13).
 
 Violations typiques détectées par l'OVM :
 
@@ -235,11 +235,11 @@ Traductions stables
 Frictions cartographiées
 
 - R4 — Tension T3/T4 : Changement de statut de l'invariant (la transition de l'onde/flux microphysique vers la constitution de l'objet macroscopique topographique stabilisé).
-- R5 — Tension T2 : Conflit entre la modélisation probabiliste inférentielle de l'erreur (P5) et la dynamique purement immanente de la régularité matérielle (P1).
+- R5 — Tension T2 : Conflit entre la modélisation probabiliste inférentielle de l'erreur (R5) et la dynamique purement immanente de la régularité matérielle (R1).
 
 Incompatibilités structurelles
 
-- R11 — Rupture épistémologique : Changement absolu de régime de justification. P1 opère dans l'immanence stricte des causes, où la notion de "justification" rationnelle est caduque et irrecevable.
+- R11 — Rupture épistémologique : Changement absolu de régime de justification. R1 opère dans l'immanence stricte des causes, où la notion de "justification" rationnelle est caduque et irrecevable.
 - R13 — Institution inférentielle : Incompatibilité de famille. La physique fondamentale ignore structurellement le droit, le devoir sémantique et la tenue des scores déontiques sociaux.
 
 ---
@@ -378,7 +378,7 @@ Il décrit une manière stable de décrire le monde.
 
 12. Métadonnées
 
-Fichier : P1_cinetique_protonique.md
+Fichier : R1_cinetique_protonique.md
 
 Connexions principales : R2, R3, R4, R5, R11
 
