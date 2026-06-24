@@ -76,7 +76,7 @@ Toute tentative de masquer une ZR produit une réduction illégitime (T1) ou un 
 ZT-1 : Biologique → Social
 
 Trajectoire :
-Préconditions biologiques (P7) → Intentionnalité partagée (P8)
+Préconditions biologiques (R7) → Intentionnalité partagée (R8)
 
 Question centrale :
 Comment des organismes biologiques deviennent-ils capables de coordination sociale et d'intentionnalité collective ?
@@ -128,7 +128,7 @@ Aucune description causale ne produit à elle seule une justification normative.
 ZT-2 : Structurel → Institutionnel
 
 Trajectoire :
-Couplage structurel (P10) → Institution inférentielle (P13)
+Couplage structurel (R10) → Institution inférentielle (R13)
 
 Question centrale :
 Comment des coordinations stabilisées deviennent-elles des règles explicites et des institutions normatives ?
