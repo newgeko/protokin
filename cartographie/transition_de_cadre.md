@@ -1,229 +1,146 @@
-🔄 Les transitions de cadre
+🔄 Les transitions de cadre dans Protokin
 
-Dans Protokin cOS, les transitions ne sont pas des événements du monde. Ce sont des événements du cadre à travers lequel le monde est décrit.
+Dans Protokin cOS, une transition de cadre descriptif n’est pas une découverte de vérité ni un progrès cognitif.
 
-Autrement dit : ce qui change, ce n’est pas le réel, mais la manière dont un régime de description devient capable — ou incapable — de le stabiliser.
+C’est une opération de reconfiguration locale qui intervient lorsque un régime de description n’est plus capable de stabiliser les phénomènes qu’il traite.
 
-Cette distinction est décisive. Elle évite une confusion classique : croire qu’un changement de théorie est un changement de réalité. Ici, une transition est toujours une reconfiguration de l’espace de lecture.
-
-
----
-
-1. Ce qu’est une transition
-
-Une transition de cadre apparaît lorsqu’un régime de stabilisation ne parvient plus à maintenir ses propres invariants.
-
-Un régime est un ensemble de règles implicites qui permet de :
-
-sélectionner ce qui compte comme pertinent
-
-stabiliser des régularités
-
-produire une intelligibilité cohérente
-
-
-Tant que ce régime fonctionne, rien ne change.
-
-Mais lorsque des tensions internes s’accumulent, quelque chose se dégrade : les invariants deviennent instables, inaccessibles ou non traduisibles.
-
-C’est à ce moment précis qu’une transition devient possible.
-
-Une transition n’est donc ni une amélioration, ni une correction. C’est une substitution de cadre rendue nécessaire par une perte de stabilité locale.
+Autrement dit : une transition ne corrige pas le réel, elle restaure une capacité de lecture.
 
 
 ---
 
-2. Aucun régime n’est universel
+1. Le déclencheur : saturation et audit (CAP)
 
-Le point de départ de Protokin cOS est simple :
+Une transition commence toujours par un moment de saturation.
 
-> aucun régime de description ne vaut partout et toujours.
+Un régime descriptif fonctionne tant qu’il peut :
 
+sélectionner ses invariants
 
+maintenir ses distinctions
 
-Chaque régime possède trois caractéristiques fondamentales :
-
-il est localement cohérent
-
-il est partiellement aveugle à ce qu’il ne peut pas traiter
-
-il est limité par ses propres critères de stabilisation
+absorber les variations du système observé
 
 
-Autrement dit, tout régime fonctionne… jusqu’au moment où il ne fonctionne plus.
+Lorsque cette capacité se dégrade, des frictions apparaissent : des phénomènes deviennent visibles sans être traitables.
 
-Les transitions ne sont pas exceptionnelles. Elles sont structurelles.
+Le Cycle d’Audit Protokin (CAP) intervient alors pour isoler la source de l’instabilité.
 
+Il ne cherche pas une “cause” au sens classique, mais un point de rupture fonctionnelle :
 
----
+changement d’invariant ?
 
-3. D’où viennent les transitions ?
+conflit d’échelle ?
 
-Les transitions émergent de l’accumulation de tensions internes.
+incompatibilité de description ?
 
-Ces tensions ne sont pas des erreurs. Ce sont des signaux de friction entre ce qu’un régime peut stabiliser et ce qu’il ne peut plus absorber.
-
-On peut les comprendre comme des formes de désajustement progressif :
-
-certains phénomènes deviennent trop complexes pour le langage du régime
-
-certaines échelles ne sont plus compatibles
-
-certaines distinctions deviennent instables
-
-certaines oppositions ne peuvent plus être traduites
+tension normative entre cadres ?
 
 
-Quand ces tensions se combinent, elles produisent une situation critique : le régime ne peut plus maintenir ses invariants.
+> Résultat du CAP : identification précise de la zone de saturation.
+
+
 
 
 ---
 
-4. Trois grandes formes de transition
+2. Le filtre de sécurité : vigilance modale (OVM)
 
-Sans être exhaustif, on peut distinguer trois dynamiques principales.
+Avant toute transition, une seconde opération intervient : la Vigilance Modale (OVM).
 
-1. La réinterprétation
+Son rôle est de vérifier que la solution envisagée ne résout pas le problème en détruisant la structure des régimes impliqués.
 
-Dans ce cas, les invariants restent stables, mais leur lecture devient impossible dans le cadre actuel.
+Elle bloque notamment trois types d’erreurs :
 
-On ne change pas ce qui est observé, mais la manière de le lire.
+réduction abusive : ramener un phénomène complexe à une seule couche explicative
 
-C’est une transition sans perte de contenu, mais avec déplacement du sens.
+confusion de catégories : traiter une propriété émergente comme un simple artefact
+
+fusion illégitime de régimes : effacer les distinctions au lieu de les articuler
 
 
----
+> Résultat de l’OVM : validation ou rejet de la trajectoire de transition.
 
-2. L’émergence
 
-Ici, quelque chose apparaît que le régime ne peut plus stabiliser.
-
-Ce n’est pas une “création” ex nihilo, mais une saturation du cadre existant.
-
-Quand un régime ne peut plus contenir ce qu’il produit, un nouveau cadre devient nécessaire.
 
 
 ---
 
-3. La rupture normative
+3. La transition : reconfiguration du cadre
 
-C’est le cas le plus profond.
+Une fois le problème isolé et la trajectoire validée, la transition peut avoir lieu.
 
-Elle survient lorsque la distinction entre ce qui est et ce qui doit être devient instable.
+Elle ne produit pas un meilleur cadre, mais un cadre plus stable localement.
 
-Autrement dit : lorsque la causalité ne suffit plus à rendre compte de la justification.
+Trois formes principales apparaissent :
 
-On passe alors d’un régime descriptif à un espace où les raisons deviennent structurantes.
+1. Réinterprétation (continuité)
 
+Les invariants restent identiques, mais leur lecture change.
 
----
-
-5. Les tensions (T1–T11)
-
-Les transitions sont déclenchées par des configurations de tensions. Elles ne sont jamais automatiques.
-
-Parmi elles :
-
-T1 : réduction abusive entre régimes
-
-T2 : impossibilité de traduction
-
-T3 : décalage d’échelle
-
-T4 : conflit causal / normatif
-
-T5 : absence d’espace de médiation
-
-T6 : projection d’un régime sur un autre
-
-T7 : confusion méta-langagière
-
-T8 : circularité interne
-
-T9 : saturation descriptive
-
-T10 : dérive temporelle des invariants
-
-T11 : superposition non hiérarchisée de régimes
-
-
-Ces tensions ne “provoquent” pas les transitions. Elles rendent simplement la stabilisation impossible.
+→ déplacement du sens sans modification du contenu
 
 
 ---
 
-6. Quand une transition devient nécessaire
+2. Changement de régime (recomposition)
 
-Une transition n’est jamais automatique.
+Les cadres existants ne suffisent plus.
 
-Elle devient pertinente lorsque :
-
-un régime ne peut plus sélectionner ses invariants
-
-les tensions deviennent dominantes
-
-aucune stabilisation locale ne suffit à restaurer la cohérence
-
-
-À ce moment-là, plusieurs régimes peuvent entrer en concurrence.
-
-La transition est alors une reconfiguration possible du champ de lecture.
+→ création ou activation d’un nouveau régime descriptif avec ses propres invariants
 
 
 ---
 
-7. Une cartographie minimale
+3. Zone de rupture (discontinuité)
 
-Dans les analyses Protokin, certaines transitions reviennent de manière récurrente :
+Aucune traduction progressive n’est possible entre deux régimes.
 
-R7 → R8 : émergence (souvent liée à des problèmes d’échelle)
-
-R8 → R9 : stabilisation historique (dérives temporelles)
-
-R4 → R11 : rupture normative (conflit causal/normatif)
-
-R10 → R11 : bascule vers les raisons
-
-R12 → R13 : reconfiguration normative complexe
-
-
-Ces trajectoires ne sont pas des lois. Ce sont des régularités d’audit.
+→ reconnaissance d’une discontinuité structurelle irréductible
 
 
 ---
 
-8. Ce que fait un audit Protokin
+4. Exemple : saturation invisible dans une équipe
 
-Un audit ne cherche pas à “corriger” un système.
+Prenons un système qui décrit une équipe de développement uniquement via un régime statistique : tickets fermés, lignes de code produites, vélocité.
 
-Il cherche à identifier :
+1. Saturation
 
-1. quels régimes sont actifs
+Les indicateurs sont bons, mais l’équipe entre en burn-out généralisé.
+
+Le régime devient aveugle à une dimension essentielle : la dégradation du support humain de la production.
+
+2. CAP
+
+L’audit isole le problème :
+
+conflit normatif (performance vs soutenabilité)
+
+changement d’échelle non capturé (individuel vs organisationnel)
+
+invariant insuffisant (productivité ≠ santé du système)
 
 
-2. quelles tensions dominent
+3. OVM
 
+Le système refuse une solution naïve du type : “ajouter un indicateur de stress” sans changer de cadre.
 
-3. si une transition est nécessaire
+→ ce serait une réduction abusive
 
+4. Transition
 
-4. quel type de reconfiguration est possible
+Le système bascule vers un régime relationnel et psychologique : de nouveaux invariants apparaissent (charge mentale, coopération, fatigue systémique).
 
-
-
-Et surtout : il refuse toute lecture téléologique.
-
-Une transition n’est pas une solution. C’est une reconfiguration locale possible d’un espace devenu instable.
+Ce n’est pas une “meilleure description”, mais une description capable de stabiliser ce que l’ancien cadre rendait invisible.
 
 
 ---
 
 Conclusion
 
-Les transitions de cadre décrivent un point précis de la dynamique épistémique :
+Dans Protokin cOS, les transitions ne sont jamais des améliorations globales.
 
-ce moment où un régime ne peut plus se maintenir sans se transformer.
+Ce sont des opérations locales de survie épistémique : des ajustements de cadre qui permettent à un système de continuer à produire du sens sans se désintégrer sous ses propres tensions.
 
-Elles ne parlent pas du monde lui-même, mais de la manière dont nous le stabilisons.
 
-Et c’est précisément dans cette instabilité contrôlée que Protokin cOS trouve son objet : non pas la vérité des descriptions, mais la dynamique de leurs conditions de possibilité.
