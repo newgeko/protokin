@@ -1,406 +1,308 @@
-# Taxonomie des Références Théoriques dans Protokin
+🧭 Taxonomie des Références Théoriques dans Protokin
 
-## Introduction : pourquoi établir cette cartographie ?
-
-L'un des problèmes récurrents des sciences humaines, de la philosophie et des sciences cognitives contemporaines est la tendance à confondre des niveaux d'analyse hétérogènes. Une théorie biologique est mobilisée pour expliquer des normes morales ; un modèle physique est utilisé pour justifier des institutions politiques ; une description psychologique est transformée en fondement ontologique.
-
-Cette confusion produit ce que l'architecture **Protokin** identifie comme des **compressions de régimes descriptifs**, c'est-à-dire des passages illégitimes entre différents niveaux d'intelligibilité du réel.
-
-La présente cartographie poursuit donc plusieurs objectifs :
-
-1. **Identifier l'ancrage disciplinaire réel des auteurs mobilisés.**
-2. **Situer chaque théorie dans un régime descriptif précis.**
-3. **Éviter les réductions abusives entre causalité et normativité.**
-4. **Fournir un outil d'audit permettant d'évaluer les transitions entre disciplines.**
-5. **Cartographier les tensions épistémologiques récurrentes entre les différents régimes.**
-
-Dans cette perspective, les œuvres sont organisées selon les deux grands versants de l'architecture Protokin :
-
-- **PROTO** : domaine des stabilisations causales, biologiques, cognitives et matérielles.
-- **KIN** : domaine des stabilisations normatives, institutionnelles, inférentielles et symboliques.
-
-Entre les deux se trouve une **zone charnière** où émergent les premières formes d'intersubjectivité et de coordination collective.
-
-Enfin, un niveau **méta-théorique** rassemble les auteurs servant à auditer la cohérence architecturale de l'ensemble.
 
 ---
 
-# I. Le versant PROTO : les systèmes de stabilisation causale et cognitive
+🧩 Introduction : pourquoi cette cartographie ?
 
-Le versant Proto regroupe les disciplines étudiant les régularités physiques, biologiques et cognitives.
+L’un des problèmes récurrents des sciences contemporaines (philosophie, biologie, sciences cognitives, sciences sociales) est la confusion entre niveaux de description hétérogènes :
 
-À ce niveau, les invariants sont maintenus par des contraintes matérielles, énergétiques, informationnelles ou adaptatives.
+une causalité physique est mobilisée comme justification normative ;
 
-Aucune justification normative n'est encore requise : les systèmes se stabilisent parce qu'ils doivent préserver leur cohérence structurelle.
+une dynamique biologique est transformée en explication morale ;
 
----
+une structure cognitive est réifiée en fondement ontologique ;
 
-## 1. Physico-chimie et thermodynamique des systèmes complexes
+une institution sociale est naturalisée comme simple effet causal.
 
-### Ilya Prigogine et Isabelle Stengers
-**Œuvre :** *La Nouvelle Alliance* (1979)
 
-**Régime :** R2 — Dissipation structurée
+Dans le cadre Protokin, ces erreurs sont décrites comme des compressions de régimes descriptifs : des passages illégitimes entre modes de stabilisation incompatibles.
 
-#### Fonction dans Protokin
-
-Prigogine montre comment des structures ordonnées peuvent émerger spontanément dans des systèmes thermodynamiques éloignés de l'équilibre.
-
-L'ordre n'est plus conçu comme l'opposé du désordre mais comme un produit de celui-ci.
-
-Dans Protokin, cette théorie constitue une référence fondamentale pour comprendre les mécanismes de stabilisation physique précédant toute forme de cognition ou de normativité.
-
-L'invariant observé demeure entièrement causal et énergétique.
 
 ---
 
-### Erwin Schrödinger
-**Œuvre :** *Interprétation de la mécanique ondulatoire*
+🎯 Objectifs de la taxonomie
 
-**Régime :** R1 — Niveau microphysique
+Cette cartographie vise à :
 
-#### Fonction dans Protokin
+1. Identifier le régime descriptif effectif d’une théorie.
 
-Schrödinger intervient principalement comme objet d'audit critique.
 
-La dualité onde-corpuscule constitue un exemple classique de tension descriptive entre deux modèles incompatibles mais néanmoins nécessaires.
+2. Localiser son domaine de validité (PROTO / transition / KIN / méta).
 
-Cette situation illustre la tension T1 (réduction), qui apparaît lorsqu'un niveau descriptif tente d'éliminer un autre au lieu de reconnaître leur coexistence.
 
----
+3. Prévenir les réductions abusives (causalité ↔ normativité).
 
-## 2. Neurosciences et sciences cognitives computationnelles
 
-### Karl Friston
-**Œuvre :** *Free Energy Principle*
+4. Identifier les tensions structurelles inter-régimes.
 
-**Régime :** R5 — Stabilisation prédictive
 
-#### Fonction dans Protokin
+5. Fournir un outil d’audit épistémologique transversal.
 
-Le principe de minimisation de l'énergie libre décrit comment un système vivant maintient sa viabilité en réduisant les écarts entre ses prédictions et les perturbations environnementales.
 
-Ce modèle constitue l'une des formulations contemporaines les plus élaborées de la stabilisation cognitive.
 
-Cependant, même lorsqu'il explique l'émergence de comportements complexes, il demeure dans le domaine des causes.
-
-Il ne permet pas encore de rendre compte de la justification normative.
 
 ---
 
-### Heinz von Foerster
-**Œuvre :** Cybernétique de second ordre
+🧭 Architecture générale
 
-**Régime :** R4 — Compétence topographique
+Le système Protokin distingue quatre grands niveaux :
 
-#### Fonction dans Protokin
+🌐 PROTO : stabilisations physico-cognitives et biologiques (causalité, dynamique, adaptation)
 
-Von Foerster analyse les processus de stabilisation cognitive produits par les boucles de rétroaction entre organisme et environnement.
+🧠 TRANSITION : émergence de l’intersubjectivité et de la coordination
 
-Le sujet apparaît comme un système auto-organisé capable de construire ses propres régularités perceptives.
+⚖️ KIN : stabilisations normatives et institutionnelles (raisons, règles, engagements)
 
-Dans Protokin, il représente une étape avancée de la stabilisation cognitive avant l'apparition de l'espace des raisons.
+🧭 MÉTA : audit des systèmes de description eux-mêmes
 
----
 
-## 3. Éthologie, biologie de l'évolution et énaction
-
-### Konrad Lorenz
-**Œuvre :** *L'Agression* (1966)
-
-**Régime :** R7 — Couplage structurel
-
-#### Fonction dans Protokin
-
-Lorenz décrit les mécanismes biologiques à l'origine de nombreux comportements sociaux.
-
-Les instincts, les comportements ritualisés et les mécanismes de régulation de l'agression constituent le socle pré-social sur lequel pourront ultérieurement se développer des institutions normatives.
 
 ---
 
-### Ernst Mayr
-**Œuvre :** *What Evolution Is* (2001)
+🌐 I. PROTO — Régimes physico-biologiques et cognitifs
 
-**Régime :** R7 — Couplage structurel (Biologie populationnelle)
+Les régimes PROTO décrivent les stabilisations avant toute normativité explicite.
 
-#### Fonction dans Protokin
-
-Mayr consolide l'infrastructure matérielle et populationnelle du pôle Proto en agissant comme un puissant opérateur de stabilisation face à la métaphysique essentialiste. Sa conceptualisation de la « pensée populationnelle » fournit la preuve biologique que la variation continue et le tamis de la sélection naturelle suffisent à stabiliser des formes (les espèces) conçues non comme des essences idéales (blocage de la tension T1), mais comme des invariants statistiques et informationnels en co-dérive permanente avec leur milieu.
-
-De plus, l'OVM (Opérateur de Vigilance Modale) mobilise l'apport de Mayr pour désamorcer la tension de collapsus méta-langagier (T7) liée aux finalités sauvages : en substituant la *téléonomie* (l'exécution causale d'un programme d'information sédimenté historiquement par le génome) à la *téléologie* cosmique ou anthropomorphique, Mayr ramène la finalité apparente du vivant dans les limites strictes des mécanismes causaux de R7.
-
-Enfin, son analyse de l'émergence de la culture humaine trace précisément la frontière supérieure de R7 (Zone de rupture R1), balisant le point de saturation où le vivant doit transiter vers le cliquet culturel (R9) et l'espace des raisons (R11) sans pour autant autoriser une réduction sociobiologique sauvage du normatif au biologique.
 
 ---
 
-### Frans de Waal
-**Œuvre :** *Le bonobo, Dieu et nous* (2013)
+R1 — Transitions micro-physiques élémentaires
 
-**Régime :** R7, frontière R8
+Régime des régularités fondamentales de transformation.
 
-#### Fonction dans Protokin
+flux
 
-De Waal montre que l'empathie, la coopération et certaines formes de comportement moral possèdent des racines biologiques profondes.
+gradients
 
-Son travail empêche de considérer la morale comme une création ex nihilo des institutions humaines.
+différenciations locales
 
-Toutefois, ces dispositions biologiques ne constituent pas encore des justifications normatives.
+continuités dynamiques minimales
 
----
 
-### Francisco Varela
-**Œuvre :** *The Embodied Mind* (1991)
+👉 invariant : transformation sans présupposition d’objet stable
 
-**Régime :** R7-R10
-
-#### Fonction dans Protokin
-
-Varela développe une épistémologie de l'autonomie biologique fondée sur l'énaction.
-
-L'organisme et son monde émergent conjointement au sein d'un processus dynamique de couplage.
-
-Cette approche explique remarquablement la cohérence du vivant mais rencontre une limite lorsqu'il s'agit d'expliquer les normes discursives et les institutions symboliques.
 
 ---
 
-# II. La zone charnière : opérateurs de transition et intersubjectivité
+R2 — Dissipation structurée (Prigogine)
 
-Cette zone correspond au passage critique entre causalité et normativité.
+Régime des structures émergentes hors équilibre thermodynamique.
 
-Les systèmes n'y sont plus simplement coordonnés par des contraintes biologiques mais commencent à partager des intentions, des attentes et des pratiques communes.
+👉 invariant : ordre stabilisé par flux énergétique
 
----
-
-## 4. Psychologie du développement et anthropologie évolutionnaire
-
-### Michael Tomasello
-**Œuvres :**
-- *Pourquoi nous coopérons* (2009)
-- *A Natural History of Human Thinking* (2014)
-
-**Régime :** R8 — Intentionnalité partagée
-
-#### Fonction dans Protokin
-
-Tomasello fournit le maillon manquant entre l'individu biologique et la communauté normative.
-
-L'attention conjointe, les buts partagés et les capacités coopératives constituent les premières formes de coordination collective.
-
-Il agit ainsi comme un opérateur de transition entre R7 et R13.
 
 ---
 
-## 5. Anthropologie fondamentale et philosophie sociale
+R3 — Ajustement allostatique (Damasio / Sterling)
 
-### René Girard et Jean-Pierre Dupuy
+Régime de régulation proactive des systèmes vivants.
 
-**Œuvres :**
-- *La Violence et le Sacré* (1972)
-- *Ordres et désordres* (1982)
+La stabilité est obtenue par anticipation des déséquilibres futurs, non par retour à un équilibre fixe.
 
-**Régime :** R10 — Dynamique mimétique
+👉 invariant : maintien dynamique de marges de viabilité anticipées
 
-#### Fonction dans Protokin
-
-Girard décrit les mécanismes mimétiques conduisant aux crises collectives et leur résolution par le mécanisme victimaire.
-
-Cette dynamique constitue une explication de la fondation des premiers ordres culturels.
-
-La stabilisation sociale apparaît ici avant l'institution explicite des normes.
 
 ---
 
-# III. Le versant KIN : systèmes de stabilisation normative
+R4 — Compétence topographique (von Foerster)
 
-Le versant Kin commence lorsque les invariants ne sont plus maintenus par des contraintes causales mais par des raisons, des règles et des engagements mutuels.
+Régime de construction d’invariants perceptifs par couplage organisme–milieu.
 
-Les systèmes deviennent alors normatifs.
+👉 invariant : stabilisation perceptive par interaction
 
----
-
-## 6. Philosophie du langage et pragmatique normative
-
-### Wilfrid Sellars
-**Œuvre :** *Empiricism and the Philosophy of Mind* (1956)
-
-**Régime :** R11 — Espace des raisons
-
-#### Fonction dans Protokin
-
-Sellars constitue le point de départ du versant Kin.
-
-Sa critique du Mythe du Donné interdit de déduire directement une justification à partir d'un simple fait causal.
-
-Cette rupture fonde la tension T4 entre causalité et normativité.
 
 ---
 
-### John McDowell
-**Œuvre :** *Mind and World* (1994)
+R5 — Minimisation de la surprise (Free Energy Principle)
 
-**Régime :** R11
+Régime de stabilisation par réduction de l’erreur de prédiction.
 
-#### Fonction dans Protokin
+👉 invariant : cohérence entre modèle interne et flux sensoriels
 
-McDowell cherche à maintenir l'ouverture rationnelle de l'esprit au monde sans retomber dans un naturalisme réductionniste.
-
-Il consolide ainsi la frontière entre explication causale et justification rationnelle.
 
 ---
 
-### Ludwig Wittgenstein
-**Œuvre :** *Recherches philosophiques* (1953)
+R6 — Récursion prospective (von Foerster)
 
-**Régime :** R13
+Régime de production du présent par boucles anticipatrices orientées vers des futurs possibles.
 
-#### Fonction dans Protokin
+👉 invariant : action structurée par simulation récursive de trajectoires futures
 
-Les jeux de langage permettent de comprendre comment les règles peuvent être stabilisées par des pratiques collectives sans nécessiter une explicitation infinie.
-
-Wittgenstein agit comme un rempart contre la régression interprétative.
 
 ---
 
-### Robert Brandom
-**Œuvre :** *Making It Explicit* (1994)
+R7 — Couplage structurel (Maturana / Varela)
 
-**Régime :** R13
+Régime de co-détermination historique organisme–environnement.
 
-#### Fonction dans Protokin
+👉 invariant : stabilité issue de l’histoire interactionnelle
 
-Brandom systématise l'espace des raisons.
-
-Les acteurs deviennent responsables de leurs engagements et de leurs habilitations au sein de pratiques sociales d'attribution mutuelle.
-
-La rationalité apparaît comme un phénomène institutionnel.
 
 ---
 
-## 7. Ontologie sociale et philosophie politique
+R15 — Sélection antagoniste et dérive phylogénétique (Williams / Medawar)
 
-### John Searle
-**Œuvre :** *The Construction of Social Reality* (1995)
+Régime des stabilités évolutives produites par sélection et dérive.
 
-**Régime :** R13
+👉 invariant : compatibilité différentielle des formes dans le temps évolutif
 
-#### Fonction dans Protokin
-
-Searle formalise le mécanisme permettant à des objets physiques d'acquérir une signification institutionnelle.
-
-La formule :
-
-> X compte comme Y dans le contexte C
-
-constitue l'un des principaux opérateurs de transition entre le matériel et le normatif.
 
 ---
 
-### Cornélius Castoriadis
-**Œuvre :** *L'Institution imaginaire de la société* (1975)
+🧠 II. TRANSITION — Régimes d’émergence cognitive et sémiotique
 
-**Régime :** R13
+Ces régimes constituent la zone où la causalité commence à produire de l’intersubjectivité structurée.
 
-#### Fonction dans Protokin
-
-Castoriadis décrit la capacité des sociétés à s'auto-instituer.
-
-Les normes n'apparaissent plus comme des conséquences mécaniques de causes antérieures mais comme des créations historiques.
 
 ---
 
-### T. M. Scanlon
-**Œuvre :** *What We Owe to Each Other* (1998)
+R8 — Intentionnalité partagée (Tomasello)
 
-**Régime :** R11-R13
+Régime de coordination d’agents autour de buts communs.
 
-#### Fonction dans Protokin
+👉 invariant : attention conjointe et coopération finalisée
 
-Scanlon développe une théorie morale fondée sur la justification mutuelle.
-
-Une norme est légitime lorsqu'aucun participant raisonnable ne peut la rejeter.
 
 ---
 
-# IV. Le niveau méta-théorique : audit et validation des systèmes
+R9 — Stabilisation conventionnelle cumulative
 
-Le niveau R14 ne décrit plus directement le monde.
+Régime de formation de régularités sociales sans institution explicite.
 
-Il analyse les théories elles-mêmes.
+👉 invariant : répétition stabilisée de pratiques partagées
 
-Son rôle est de contrôler la cohérence architecturale du framework et de prévenir les confusions entre régimes.
-
----
-
-## 8. Métaphilosophie et critique épistémologique
-
-### Jules Vuillemin
-
-**Œuvres :**
-- *Nécessité ou contingence* (1984)
-- *What Are Philosophical Systems?* (1986)
-
-**Régime :** R14
-
-#### Fonction dans Protokin
-
-Vuillemin fournit le cadre méthodologique principal de l'audit.
-
-Les systèmes philosophiques doivent être évalués à partir de leurs axiomes fondamentaux et non fusionnés artificiellement.
 
 ---
 
-### Jacques Bouveresse
+R10 — Morphogenèse socio-interactive (Girard / Dupuy)
 
-**Œuvre :** *Prodiges et vertiges de l'analogie* (1999)
+Régime d’émergence des structures sociales par imitation, conflit et résolution collective.
 
-**Régime :** R14
+👉 invariant : stabilisation par dynamique mimétique
 
-#### Fonction dans Protokin
-
-Bouveresse agit comme garde-fou contre les analogies abusives et les emprunts illégitimes entre disciplines.
-
-Il permet de détecter les collapsus méta-langagiers.
 
 ---
 
-### W. V. O. Quine
+R16 — Sémiose triadique (Peirce)
 
-**Œuvres :**
-- *Deux dogmes de l'empirisme* (1951)
-- *Relativité de l'ontologie* (1969)
+Régime de constitution du sens par relation signe–objet–interprétant.
 
-**Régime :** R14 (objet d'audit)
+👉 invariant : production d’interprétants stabilisés
 
-#### Fonction dans Protokin
-
-Le holisme de Quine produit des tensions importantes avec l'exigence de séparation régionale défendue par Vuillemin.
-
-Il constitue ainsi un générateur privilégié de tensions architecturales.
 
 ---
 
-### John Rawls
+R17 — Individuation technique et concrétisation (Simondon / Leroi-Gourhan)
 
-**Œuvre :** *Théorie de la justice* (1971)
+Régime de stabilisation des objets techniques et de leurs lignées.
 
-**Régime :** R14 (cas d'audit)
+👉 invariant : résolution progressive des tensions internes techniques
 
-#### Fonction dans Protokin
-
-Rawls sert de cas d'étude pour analyser les rapports entre contractualisme, justification normative et fondements philosophiques implicites.
 
 ---
 
-# Conclusion
+⚖️ III. KIN — Régimes normatifs et institutionnels
 
-Cette cartographie ne constitue pas un simple classement bibliographique.
+Les régimes KIN introduisent la justification, la règle et l’engagement.
 
-Elle sert d'outil d'audit épistémologique permettant :
 
-- d'identifier le régime descriptif mobilisé par une théorie ;
-- de prévenir les réductions abusives entre causalité et normativité ;
-- de localiser les transitions légitimes entre disciplines ;
-- de repérer les tensions architecturales ;
-- de maintenir la cohérence globale du framework Protokin.
+---
 
-Elle offre ainsi une vue d'ensemble de la trajectoire qui conduit des stabilisations physiques les plus élémentaires jusqu'aux formes les plus élaborées de justification normative et d'audit métathéorique.
+R11 — Espace des raisons (Sellars)
+
+Régime de distinction entre causalité et justification.
+
+👉 invariant : attribution de raisons irréductibles aux causes
+
+
+---
+
+R12 — Régime thymique de saillance normative
+
+Régime de structuration pré-discursive des valeurs et priorités.
+
+👉 invariant : hiérarchisation affective des raisons possibles
+
+⚠ transversal à tous les régimes KIN et PROTO supérieurs
+
+
+---
+
+R13 — Institution inférentielle (Brandom / Searle / Castoriadis)
+
+Régime de stabilisation des normes par engagements et reconnaissances sociales.
+
+👉 invariant : distribution des responsabilités normatives
+
+
+---
+
+🧭 IV. MÉTA — Régime d’audit et de validation
+
+
+---
+
+R14 — Validation / audit métathéorique (Vuillemin / Bouveresse)
+
+Régime réflexif de contrôle des systèmes de description eux-mêmes.
+
+Fonctions :
+
+détection des analogies abusives
+
+prévention des collapsus méta-langagiers
+
+audit des transitions inter-régimes
+
+contrôle des réductions illégitimes
+
+
+👉 invariant : cohérence architecturale des régimes
+
+
+---
+
+⚠ Propriétés générales des régimes
+
+Tous les régimes partagent les contraintes suivantes :
+
+non hiérarchiques
+
+non réductibles
+
+localement activés
+
+définis par sélection d’invariants
+
+reliés par tensions, non par inclusion
+
+sujets à saturation et audit (CAP / OVM)
+
+
+
+---
+
+🧠 Principe fondamental
+
+Un régime de couplage ne décrit pas le monde.
+
+Il décrit les conditions sous lesquelles un monde devient descriptible.
+
+
+---
+
+Si tu veux, prochaine étape utile (et importante dans ton système) serait :
+
+👉 construire la table des tensions inter-régimes (T1–T13) avec :
+
+sources
+
+déclencheurs
+
+incompatibilités structurelles
+
+et chemins de transition autorisés CAP
+
+
+C’est là que ton architecture devient vraiment “opérationnelle” plutôt que simplement taxonomique.
