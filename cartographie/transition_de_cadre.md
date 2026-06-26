@@ -1,215 +1,229 @@
-# 🔄 Transitions de Cadre
+🔄 Les transitions de cadre
 
-## Statut du document
+Dans Protokin cOS, les transitions ne sont pas des événements du monde. Ce sont des événements du cadre à travers lequel le monde est décrit.
 
-Ce document définit la théorie des transitions au sein de Protokin cOS.
+Autrement dit : ce qui change, ce n’est pas le réel, mais la manière dont un régime de description devient capable — ou incapable — de le stabiliser.
 
-Les transitions constituent des opérateurs de reconfiguration permettant de comprendre comment un régime de couplage atteint ses limites de stabilisation et comment un autre régime peut devenir dominant pour poursuivre l’activité descriptive.
+Cette distinction est décisive. Elle évite une confusion classique : croire qu’un changement de théorie est un changement de réalité. Ici, une transition est toujours une reconfiguration de l’espace de lecture.
 
-Une transition ne décrit jamais une transformation du réel lui-même.
-
-Elle décrit une transformation du cadre de lecture utilisé par un observateur pour maintenir la cohérence, l’intelligibilité et l’opérativité de ses descriptions.
-
-Les transitions sont des événements épistémiques dépendants de configurations locales de tensions (T1–T11), et non des lois globales de transformation.
 
 ---
 
-# Principe fondamental
+1. Ce qu’est une transition
 
-Protokin cOS repose sur l’hypothèse qu’aucun régime de couplage ne possède de validité universelle.
+Une transition de cadre apparaît lorsqu’un régime de stabilisation ne parvient plus à maintenir ses propres invariants.
 
-Chaque régime est :
+Un régime est un ensemble de règles implicites qui permet de :
 
-- localement cohérent ;
-- partiellement aveugle ;
-- limité par ses propres critères de stabilisation.
+sélectionner ce qui compte comme pertinent
 
-Tant qu’un régime demeure capable de sélectionner, maintenir et interpréter ses invariants, aucune transition n’est requise.
+stabiliser des régularités
 
-Lorsque cette capacité se dégrade, des tensions (T1–T11) apparaissent.
+produire une intelligibilité cohérente
 
-Une transition devient alors une **reconfiguration possible du cadre de stabilisation**, sans déterminisme ni direction imposée.
 
----
+Tant que ce régime fonctionne, rien ne change.
 
-# Définition générale
+Mais lorsque des tensions internes s’accumulent, quelque chose se dégrade : les invariants deviennent instables, inaccessibles ou non traduisibles.
 
-Une transition de cadre est définie comme :
+C’est à ce moment précis qu’une transition devient possible.
 
-> Le passage d’un régime de stabilisation descriptive à un autre lorsque certaines configurations de tensions rendent impossible la maintenance locale des invariants.
+Une transition n’est donc ni une amélioration, ni une correction. C’est une substitution de cadre rendue nécessaire par une perte de stabilité locale.
 
-La transition ne remplace pas un régime faux par un régime vrai.
-
-Elle reconfigure un régime devenu insuffisant à travers un opérateur de déplacement de cadre.
 
 ---
 
-# Pourquoi les transitions existent-elles ?
+2. Aucun régime n’est universel
 
-Les transitions existent parce que les tensions peuvent s’accumuler, se composer ou entrer en superposition.
+Le point de départ de Protokin cOS est simple :
 
-Les invariants peuvent :
+> aucun régime de description ne vaut partout et toujours.
 
-- rester stables dans un régime ;
-- devenir instables sous de nouvelles contraintes ;
-- devenir inaccessibles à leur propre cadre de stabilisation.
 
-Les transitions sont donc des **effets de bord des dynamiques de tensions inter-régimes**, sans orientation téléologique.
 
----
+Chaque régime possède trois caractéristiques fondamentales :
 
-# Les opérateurs fondamentaux de transition
+il est localement cohérent
 
-Les transitions ne sont pas primitives. Elles résultent de configurations de tensions.
+il est partiellement aveugle à ce qu’il ne peut pas traiter
 
-## 1. Réinterprétation (T2 dominant)
+il est limité par ses propres critères de stabilisation
 
-Activation lorsque :
 
-- invariants stables
-- mais incompatibilité de langage (T2)
+Autrement dit, tout régime fonctionne… jusqu’au moment où il ne fonctionne plus.
 
-Effet :
+Les transitions ne sont pas exceptionnelles. Elles sont structurelles.
 
-- changement de lecture sans modification des invariants
 
 ---
 
-## 2. Émergence (T3 + T9 typiquement)
+3. D’où viennent les transitions ?
 
-Activation lorsque :
+Les transitions émergent de l’accumulation de tensions internes.
 
-- apparition d’un invariant non stabilisable dans le régime courant
-- rupture d’échelle ou saturation descriptive
+Ces tensions ne sont pas des erreurs. Ce sont des signaux de friction entre ce qu’un régime peut stabiliser et ce qu’il ne peut plus absorber.
 
-Effet :
+On peut les comprendre comme des formes de désajustement progressif :
 
-- stabilisation d’un nouveau régime descriptif (plutôt que création ex nihilo)
+certains phénomènes deviennent trop complexes pour le langage du régime
 
----
+certaines échelles ne sont plus compatibles
 
-## 3. Rupture normative (T4 + T5 dominant)
+certaines distinctions deviennent instables
 
-Activation lorsque :
+certaines oppositions ne peuvent plus être traduites
 
-- passage irréductible entre causalité et justification
-- absence d’espace de traduction local
 
-Effet :
+Quand ces tensions se combinent, elles produisent une situation critique : le régime ne peut plus maintenir ses invariants.
 
-- reconfiguration vers l’espace des raisons (P11)
 
 ---
 
-# Conditions de déclenchement
+4. Trois grandes formes de transition
+
+Sans être exhaustif, on peut distinguer trois dynamiques principales.
+
+1. La réinterprétation
+
+Dans ce cas, les invariants restent stables, mais leur lecture devient impossible dans le cadre actuel.
+
+On ne change pas ce qui est observé, mais la manière de le lire.
+
+C’est une transition sans perte de contenu, mais avec déplacement du sens.
+
+
+---
+
+2. L’émergence
+
+Ici, quelque chose apparaît que le régime ne peut plus stabiliser.
+
+Ce n’est pas une “création” ex nihilo, mais une saturation du cadre existant.
+
+Quand un régime ne peut plus contenir ce qu’il produit, un nouveau cadre devient nécessaire.
+
+
+---
+
+3. La rupture normative
+
+C’est le cas le plus profond.
+
+Elle survient lorsque la distinction entre ce qui est et ce qui doit être devient instable.
+
+Autrement dit : lorsque la causalité ne suffit plus à rendre compte de la justification.
+
+On passe alors d’un régime descriptif à un espace où les raisons deviennent structurantes.
+
+
+---
+
+5. Les tensions (T1–T11)
+
+Les transitions sont déclenchées par des configurations de tensions. Elles ne sont jamais automatiques.
+
+Parmi elles :
+
+T1 : réduction abusive entre régimes
+
+T2 : impossibilité de traduction
+
+T3 : décalage d’échelle
+
+T4 : conflit causal / normatif
+
+T5 : absence d’espace de médiation
+
+T6 : projection d’un régime sur un autre
+
+T7 : confusion méta-langagière
+
+T8 : circularité interne
+
+T9 : saturation descriptive
+
+T10 : dérive temporelle des invariants
+
+T11 : superposition non hiérarchisée de régimes
+
+
+Ces tensions ne “provoquent” pas les transitions. Elles rendent simplement la stabilisation impossible.
+
+
+---
+
+6. Quand une transition devient nécessaire
 
 Une transition n’est jamais automatique.
 
-Elle apparaît lorsqu’une configuration de tensions devient suffisamment dominante.
+Elle devient pertinente lorsque :
 
-## T1 — réduction
-Blocage par assimilation abusive entre régimes
+un régime ne peut plus sélectionner ses invariants
 
-## T2 — traduction impossible
-Incompatibilité de langage descriptif
+les tensions deviennent dominantes
 
-## T3 — décalage d’échelle
-Granularité incompatible
+aucune stabilisation locale ne suffit à restaurer la cohérence
 
-## T4 — conflit causal/normatif
-Passage vers les raisons
 
-## T5 — rupture sans médiation
-Absence d’espace commun
+À ce moment-là, plusieurs régimes peuvent entrer en concurrence.
 
-## T6 — rétroprojection
-Projection d’un régime sur un autre
+La transition est alors une reconfiguration possible du champ de lecture.
 
-## T7 — collapsus méta-langagier
-Fusion non contrôlée des régimes
-
-## T8 — auto-inclusion
-Circularité interne
-
-## T9 — saturation descriptive
-Perte de compressibilité
-
-## T10 — dérive temporelle
-Glissement des invariants
-
-## T11 — compression multi-régime
-Superposition non hiérarchisée de régimes
 
 ---
 
-# Cartographie des transitions majeures (lecture instanciée)
+7. Une cartographie minimale
 
-## P7 → P8
+Dans les analyses Protokin, certaines transitions reviennent de manière récurrente :
 
-Dominante : T3 (échelle)
+R7 → R8 : émergence (souvent liée à des problèmes d’échelle)
 
-Type : émergence
+R8 → R9 : stabilisation historique (dérives temporelles)
 
----
+R4 → R11 : rupture normative (conflit causal/normatif)
 
-## P8 → P9
+R10 → R11 : bascule vers les raisons
 
-Dominante : T10 (dérive temporelle)
+R12 → R13 : reconfiguration normative complexe
 
-Type : stabilisation historique
 
----
+Ces trajectoires ne sont pas des lois. Ce sont des régularités d’audit.
 
-## P4 → P11
-
-Dominantes :
-- T4 (normatif)
-- T2 (traduction)
-- parfois T11 (superposition)
-
-Type : rupture normative (cas limite de reconfiguration multi-tensions)
 
 ---
 
-## P10 → P11
+8. Ce que fait un audit Protokin
 
-Dominante : T4
+Un audit ne cherche pas à “corriger” un système.
 
-Type : rupture normative
+Il cherche à identifier :
 
----
+1. quels régimes sont actifs
 
-## P12 → P13
 
-Dominante : T4 + T9
+2. quelles tensions dominent
 
-Type : reconfiguration normative
 
----
+3. si une transition est nécessaire
 
-# Utilisation dans un audit Protokin
 
-Lorsqu’une instabilité est détectée :
+4. quel type de reconfiguration est possible
 
-- Identifier les régimes en interaction
-- Identifier les tensions actives (T1–T11)
-- Déterminer les opérateurs de transition possibles
-- Vérifier s’il existe une reconfiguration locale suffisante
-- Éviter toute interprétation téléologique
 
-Une transition ne constitue pas une solution.
-Elle constitue une reconfiguration locale possible du champ de stabilisation.
+
+Et surtout : il refuse toute lecture téléologique.
+
+Une transition n’est pas une solution. C’est une reconfiguration locale possible d’un espace devenu instable.
+
 
 ---
 
-# Principe épistémologique final
+Conclusion
 
-Les transitions ne décrivent pas des changements du réel.
+Les transitions de cadre décrivent un point précis de la dynamique épistémique :
 
-Elles décrivent des reconfigurations de cadres rendues possibles par des configurations locales de tensions.
+ce moment où un régime ne peut plus se maintenir sans se transformer.
 
-Ainsi :
+Elles ne parlent pas du monde lui-même, mais de la manière dont nous le stabilisons.
 
-- les régimes constituent la géographie de Protokin cOS ;
-- les tensions (T1–T11) constituent sa structure critique ;
-- les transitions constituent ses opérateurs de reconfiguration.
+Et c’est précisément dans cette instabilité contrôlée que Protokin cOS trouve son objet : non pas la vérité des descriptions, mais la dynamique de leurs conditions de possibilité.
