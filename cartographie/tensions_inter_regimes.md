@@ -143,67 +143,151 @@ Elles sont des propriétés :
 
 ---
 
-# 🧩 Rappel des régimes de couplage (lecture contextuelle)
+🧩 Rappel des régimes de couplage (lecture contextuelle)
 
-Cette section fournit un rappel des régimes de couplage utilisés dans les tensions.
+Cette section fournit une cartographie des régimes de couplage mobilisés dans l’architecture Protokin cOS.
 
-Les régimes ne constituent pas une liste ontologique fermée.  
-Ils représentent une **cartographie située des principaux modes de stabilisation descriptive actuellement identifiables**.
+Les régimes ne constituent ni une ontologie du réel, ni une classification définitive des sciences. Ils représentent une cartographie située des principaux modes de stabilisation descriptive actuellement identifiables.
 
-Les numéros (R1 à Rn) sont des **index de référence interne**, utilisés pour situer les relations de tension, et non des entités fixes ou exhaustives.
+Un régime ne décrit jamais directement le monde : il stabilise les conditions sous lesquelles certains invariants deviennent descriptibles, observables et auditables.
 
----
+Chaque régime définit un mode spécifique de sélection des invariants, possède ses propres critères de validité et entretient des relations de compatibilité, de traduction ou de tension avec les autres régimes.
 
-## 🌐 Régimes physico-dynamiques
-
-- **R1 — Cinétique protonique**
-- **R2 — Dissipation structurée (Prigogine)**
+Les identifiants (R1 à Rn) sont des index internes de navigation des tensions, et non des niveaux de réalité ni des entités substantielles.
 
 ---
 
-## 🧠 Régimes cognitifs
+🌐 Régimes physico-dynamiques
 
-- **R4 — Compétence topographique (von Foerster)**
-- **R5 — Minimisation de la surprise / FEP**
-- **R11 — Espace des raisons (Sellars / espace normatif implicite)**
+R1 — Cinétique protonique
 
----
+Régime décrivant les stabilités issues des interactions élémentaires et des dynamiques physico-chimiques fondamentales.
 
-## 🧬 Régimes biologiques et structurels
+R2 — Dissipation structurée (Prigogine)
 
-- **R7 — Couplage structurel (Maturana / Varela)**
-
-- **R15 — Sélection antagoniste et dérive phylogénétique*** (Williams / Medawar)
+Régime décrivant les structures émergentes issues de systèmes hors équilibre et des processus de stabilisation dissipative.
 
 ---
 
-## 👥 Régimes socio-développementaux
+🧬 Régimes biologiques et évolutionnaires
 
-- **R8 — Intentionnalité partagée (Tomasello)**
-- **R9 — Effet cliquet culturel**
+R3 — Ajustement allostatique (Damasio / Sterling)
+
+Régime décrivant la régulation proactive des systèmes vivants par anticipation des déséquilibres internes.
+
+La stabilité n’y est pas définie comme retour à un équilibre fixe (homéostasie), mais comme maintien dynamique de marges de viabilité ajustées en fonction de trajectoires futures attendues.
+
+Ce régime formalise la transition entre dynamique physique et viabilité biologique anticipative.
+
+R7 — Couplage structurel (Maturana / Varela)
+
+Régime décrivant la co-détermination organisme–environnement par historique d’interactions.
+
+R15 — Sélection antagoniste et dérive phylogénétique (Williams / Medawar)
+
+Régime décrivant les stabilités évolutives issues de la sélection, des contraintes adaptatives et des dynamiques de dérive.
 
 ---
 
-## ⚖️ Régimes normatifs et métathéoriques
+🧠 Régimes cognitifs et sémiotiques
 
-- **R10 — Couplage structurel des pratiques (niveau descriptif des émergences sociales)**
-- **R12 — Évaluation thimique**
-- **R13 — Institution inférentielle (Brandom)**
-- **R14 — Validation / audit métathéorique**
+R4 — Compétence topographique (von Foerster)
+
+Régime décrivant la capacité d’un système à maintenir des distinctions opératoires lui permettant d’agir dans un environnement.
+
+R5 — Minimisation de la surprise / FEP
+
+Régime décrivant la stabilisation des interactions par réduction de l’erreur prédictive et ajustement des modèles génératifs.
+
+R6 — Récursion prospective (von Foerster)
+
+Régime décrivant la production du présent comme effet de boucles récursives orientées vers des états futurs possibles.
+
+Le présent y est structuré par la simulation de trajectoires futures concurrentes, qui agissent comme contraintes de sélection de l’action actuelle.
+
+R16 — Sémiose triadique (Peirce)
+
+Régime décrivant la stabilisation des processus de signification via la relation signe–objet–interprétant.
+
+Il formalise la transition entre perception, catégorisation et émergence de contenus symboliques, avant leur inscription dans l’espace normatif des raisons.
+
+R11 — Espace des raisons (Sellars)
+
+Régime décrivant les pratiques de justification, d’attribution de raisons et d’engagement normatif.
 
 ---
 
-## ⚠️ Statut du rappel
+🛠️ Régimes techniques et allagmatiques
 
-Ce rappel est fourni uniquement pour faciliter la lecture des tensions.
+R17 — Individuation technique et concrétisation (Simondon / Leroi-Gourhan)
 
-Il ne constitue pas :
+Régime décrivant les trajectoires propres des objets techniques et des lignées d’artefacts.
 
-- une classification définitive
-- une hiérarchie des régimes
-- une ontologie des niveaux d’organisation
+L’invariant principal n’est ni biologique ni social, mais technique : cohérence fonctionnelle, compatibilité interne et résolution progressive des tensions structurelles.
 
-Les régimes peuvent être **révisés, recontextualisés ou enrichis** sans modification du cadre général de Protokin cOS.
+Ce régime permet de décrire l’autonomie évolutive des objets techniques sans les réduire ni à la biologie ni aux institutions.
+
+---
+
+👥 Régimes socio-développementaux
+
+R8 — Intentionnalité partagée (Tomasello)
+
+Régime décrivant les formes de coordination dans lesquelles plusieurs agents construisent des objectifs et des attentions communes.
+
+R9 — Effet cliquet culturel
+
+Régime décrivant la conservation cumulative des innovations culturelles et leur stabilisation intergénérationnelle.
+
+---
+
+⚖️ Régimes normatifs et métathéoriques
+
+R10 — Couplage structurel des pratiques
+
+Régime décrivant les stabilisations émergentes issues des interactions récurrentes entre pratiques sociales.
+
+R12 — Évaluation thimique
+
+Régime décrivant les dynamiques de valorisation, de polarisation affective et d’orientation pratique.
+
+Il constitue la couche où les variations physiologiques et cognitives deviennent des différences de valeur vécue.
+
+R13 — Institution inférentielle (Brandom)
+
+Régime décrivant les pratiques publiques d’attribution de raisons, d’engagements et de responsabilités.
+
+R14 — Validation et audit métathéorique
+
+Régime décrivant les opérations de contrôle, révision et validation des régimes eux-mêmes dans le Cycle d’Audit Protokin (CAP).
+
+---
+
+🧭 Remarque méthodologique
+
+L’introduction d’un régime ne correspond pas à la découverte d’un niveau ontologique du réel.
+
+Elle correspond à l’identification d’un foyer de stabilisation descriptive irréductible, caractérisé par :
+
+- un invariant propre ;
+- des critères de réussite et d’échec propres ;
+- des conditions de saturation identifiables ;
+- des tensions irréductibles avec d’autres régimes ;
+- une capacité explicative non réductible à une fusion inter-régimes.
+
+---
+
+🔄 Principe de non-clôture
+
+La liste des régimes est structurellement ouverte.
+
+Elle peut être révisée, augmentée ou reconfigurée à mesure que de nouveaux foyers de stabilisation deviennent nécessaires à l’audit des tensions.
+
+Aucun régime n’est fondamental.
+
+Aucun régime n’est définitif.
+
+Tous sont locaux, révisables et dépendants des conditions de description qui les rendent opératoires.
 
 ---
 
