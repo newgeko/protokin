@@ -14,7 +14,7 @@ Le système Protokin est ici intégré au Content Layer de lui-même.
 
 Cela implique :
 
-- les régimes (P1–Pn) peuvent inclure des éléments de Protokin
+- les régimes (R1–Rn) peuvent inclure des éléments de Protokin
 - les tensions (T1–Tn) peuvent émerger de ses propres règles
 - les opérateurs peuvent être décrits comme objets analytiques
 
@@ -55,7 +55,7 @@ Transition
 
 À ce niveau, Protokin peut évoluer sur :
 
-- typologie des régimes (P7, P13, etc.)
+- typologie des régimes (R7, R13, etc.)
 - classification des tensions (T1–Tn)
 - heuristiques du CAP (critères d’audit)
 - règles d’interprétation de l’OVM
