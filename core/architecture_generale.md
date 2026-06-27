@@ -1,207 +1,200 @@
-
-
 🧭 Architecture générale de Protokin
 
-🧩 Introduction : nature du système
+🧩 1. Nature du système
 
-L’architecture Protokin cOS ne constitue pas une ontologie, ni une hiérarchie de niveaux du réel.
+Protokin cOS n’est ni une ontologie, ni une hiérarchie du réel.
 
 Il s’agit d’un cadre d’audit dynamique des régimes de description, conçu pour analyser :
 
-comment un monde devient descriptible ;
+comment un domaine devient descriptible ;
 
 comment des descriptions entrent en tension ;
 
 comment ces tensions sont stabilisées, déplacées ou reconfigurées ;
 
-et comment un système peut s’appliquer ses propres outils d’analyse.
+comment un système peut s’appliquer à lui-même ses propres opérations d’audit.
 
 
-Son principe central est le suivant :
+Principe fondamental
 
-> Un régime ne décrit pas le monde, il décrit les conditions sous lesquelles un monde devient descriptible.
+> Un régime ne décrit pas le monde, il définit les conditions sous lesquelles un monde devient descriptible.
 
 
 
 
 ---
 
-1. 🧩 Les Régimes : unité de base de stabilisation descriptive
+🧩 2. Régimes : unité de stabilisation descriptive
 
-Un régime est une manière localement stable de découper le réel afin de :
+Un régime est une configuration localement stable de découpage du réel permettant :
 
-sélectionner des invariants ;
+la sélection d’invariants pertinents ;
 
-organiser des critères de validité ;
+la définition de critères de validité ;
 
-ignorer certains aspects comme non pertinents ;
+l’exclusion de dimensions jugées non pertinentes ;
 
-stabiliser une forme de lisibilité opérationnelle.
+la stabilisation d’une lisibilité opérationnelle.
 
 
-Chaque régime produit donc simultanément :
+Propriétés structurelles d’un régime
 
-une capacité de description ;
+Tout régime produit simultanément :
+
+une capacité descriptive ;
 
 un angle mort structurel ;
 
-une zone de friction avec d’autres régimes.
+une zone potentielle de friction avec d’autres régimes.
 
 
 
 ---
 
-⚠ Tension et saturation
+⚠️ 3. Tension et saturation
 
-Lorsque plusieurs régimes coexistent sur un même domaine de phénomènes, deux dynamiques apparaissent :
+Lorsque plusieurs régimes s’appliquent à un même domaine, deux phénomènes apparaissent :
 
 Tension : incompatibilité partielle entre critères de validité ;
 
-Saturation : incapacité d’un régime à absorber de nouvelles distinctions sans perte de cohérence.
+Saturation : incapacité d’un régime à intégrer de nouvelles distinctions sans perte de cohérence.
 
 
-Ces phénomènes ne sont pas des erreurs, mais des signaux structurels d’instabilité descriptive.
+Ces phénomènes ne sont pas des erreurs, mais des signaux d’instabilité descriptive.
 
 
 ---
 
-2. ⚙️ Le Kernel : moteur invariant du système
+⚙️ 4. Kernel : mécanisme invariant
 
-Protokin est structuré selon une séparation stricte entre :
+Protokin est structuré selon une séparation stricte :
 
-Content Layer : l’ensemble des régimes, tensions, objets descriptifs ;
+Content Layer : ensemble des régimes, objets et tensions ;
 
 Kernel : mécanisme invariant de traitement des tensions.
 
 
-Le Kernel n’est pas descriptif. Il est opérationnel et fermé sur ses propres règles.
+Le Kernel n’est pas descriptif. Il est opérationnel et défini par ses propres règles internes.
 
 
 ---
 
-🔁 Cycle fondamental du Kernel
+🔁 Cycle du Kernel
 
 [CONTENT LAYER]
    (régimes / objets / tensions)
-          │
-          ▼
+            │
+            ▼
 1. CAP — Cycle d’Audit Protokin
-   → détecte tensions, incohérences, saturations
-          │
-          ▼
+   Détection des tensions, incohérences et saturations
+            │
+            ▼
 2. OVM — Opérateur de Vigilance Modale
-   → filtre les réductions abusives et les collapsus entre régimes
-          │
-          ▼
+   Prévention des collapsus entre régimes et des réductions abusives
+            │
+            ▼
 3. TRANSITION
-   → reconfiguration du champ descriptif
-   → stabilisation locale ou émergence de nouveaux régimes
+   Reconfiguration du champ descriptif :
+   stabilisation locale ou émergence de nouveaux régimes
 
 
 ---
 
-🧠 Fonction globale du Kernel
+🧠 Fonction du Kernel
 
 Le Kernel assure trois fonctions irréductibles :
 
 détection des ruptures de cohérence (CAP) ;
 
-protection contre les compressions de niveaux (OVM) ;
+régulation des compressions inter-régimes (OVM) ;
 
-gestion des transitions entre régimes.
+gestion des transitions de régime.
 
 
-Il ne “produit” pas de vérité, mais maintient la cohérence dynamique des conditions de descriptibilité.
+Il ne produit pas de vérité.
+Il maintient la cohérence dynamique des conditions de descriptibilité.
 
 
 ---
 
-3. 🧭 Réflexivité graduée : les 4 niveaux de Protokin
+🧭 5. Réflexivité graduée (4 niveaux)
 
-Protokin devient véritablement opératoire lorsqu’il est appliqué à lui-même. Cette auto-application est structurée en quatre niveaux de réflexivité.
+Protokin devient opératoire lorsqu’il est appliqué à lui-même. Cette auto-application est structurée en quatre niveaux.
 
 
 ---
 
 🟢 Niveau 1 — Application externe
 
-Le système est utilisé comme outil d’analyse.
-
-Protokin est extérieur à son objet.
+Protokin est un outil d’analyse externe.
 
 Le Kernel est invariant.
 
 Aucune auto-référence.
 
 
-👉 usage : cartographie de régimes externes
+→ Usage : cartographie de systèmes externes.
 
 
 ---
 
 🟡 Niveau 2 — Auto-modélisation
 
-Protokin devient lui-même un objet du Content Layer.
+Protokin devient objet du Content Layer.
 
-ses régimes sont analysés ;
+ses régimes et tensions sont analysés.
 
-ses tensions sont cartographiées ;
-
-mais le Kernel reste stable.
+le Kernel reste stable.
 
 
-👉 usage : réflexion interne sans modification structurelle
+→ Usage : analyse réflexive sans modification structurelle.
 
 
 ---
 
 🟠 Niveau 3 — Auto-révision du Kernel
 
-La réflexivité devient opératoire sur les règles elles-mêmes.
+Les règles du Kernel deviennent modifiables.
 
-CAP, OVM et transitions deviennent modifiables ;
+CAP, OVM et transitions peuvent être ajustés.
 
-les critères de détection peuvent être ajustés ;
-
-les tensions reconfigurent le système lui-même.
+Le système se reconfigure à partir de ses propres tensions.
 
 
-👉 seuil critique : transformation du cadre de stabilité
+→ Seuil critique de transformation du cadre de stabilité.
 
 
 ---
 
 🔴 Niveau 4 — Métasystème instable
 
-Le système atteint une phase de déstructuration productive.
+La distinction Kernel / Content Layer devient instable.
 
-distinction Kernel / Content Layer instable ou non pertinente ;
+émergence de kernels locaux multiples.
 
-émergence de multiples kernels locaux ;
-
-dynamique non centralisée de reconfiguration continue.
+dynamique de reconfiguration continue.
 
 
-👉 ce niveau n’est pas une stabilité supérieure, mais une zone critique de transformation permanente
+→ Ce niveau n’est pas une stabilité supérieure mais une zone de transformation permanente.
 
 
 ---
 
-4. 🧭 Métaniveau : l’audit de l’audit
+🧭 6. Métaniveau : audit du système
 
-Au-delà des quatre niveaux, Protokin reconnaît une question structurelle :
+Au-delà des niveaux précédents, une question structurelle apparaît :
 
 > Pourquoi ce système de description plutôt qu’un autre ?
 
 
 
-Ce niveau introduit une réflexivité radicale :
+Ce niveau introduit une réflexivité externe au cadre lui-même :
 
-le système devient lui-même objet d’audit ;
+le système devient objet d’audit ;
 
 ses angles morts deviennent analysables ;
 
-ses contraintes deviennent visibles comme contraintes.
+ses contraintes deviennent explicites.
 
 
 
@@ -215,7 +208,7 @@ Que rend-il invisible ?
 
 Quelles formes de pensée favorise-t-il ou bloque-t-il ?
 
-Dans quelles situations devient-il lui-même saturé ?
+Dans quelles conditions devient-il saturé ?
 
 
 
@@ -223,29 +216,29 @@ Dans quelles situations devient-il lui-même saturé ?
 
 🔁 CAP réflexif
 
-Cette étape correspond à une boucle d’audit appliquée au système lui-même :
+Le CAP peut être appliqué au système lui-même :
 
-le Kernel devient objet du CAP ;
+le Kernel devient objet d’analyse ;
 
 les tensions internes deviennent observables ;
 
-les limites du cadre deviennent partie intégrante de l’analyse.
+les limites du cadre deviennent intégrées à l’audit.
 
 
 
 ---
 
-⚠ Conclusion générale
+⚠️ Conclusion
 
 Protokin cOS est un système :
 
 non ontologique ;
 
-non hiérarchique ;
+non hiérarchique au sens substantiel ;
 
 réflexif par degrés ;
 
-fondé sur des régimes de descriptibilité plutôt que des entités ;
+fondé sur des régimes plutôt que des entités ;
 
 stabilisé par des tensions plutôt que par des identités.
 
@@ -253,16 +246,7 @@ stabilisé par des tensions plutôt que par des identités.
 
 ---
 
-🧠 Principe fondamental final
+🧠 Principe final
 
 > Protokin ne décrit pas ce qui est.
 Il décrit les conditions sous lesquelles quelque chose peut être décrit, stabilisé ou transformé en objet d’audit.
-
-
-
-
----
-
-Si tu veux, prochaine étape logique :
-
-👉 transformer tout ça en spec formelle (type “architecture document + API du Kernel”) ou en manifeste court utilisable en introduction de ton système.
