@@ -1,4 +1,4 @@
-# Taxonomie des régimes (R1–R17)
+# Taxonomie des régimes (R1–Rn)
 
 👉 Ce fichier répond à une seule question :
 
