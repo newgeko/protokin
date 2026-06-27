@@ -1,234 +1,91 @@
-🧩 Régimes de couplage (R1–R17)
+# Rôle des régimes (Kernel fonctionnel)
 
-🧭 Définition générale
+👉 Ce fichier répond à une seule question :
 
-Un régime de couplage est un cadre de stabilisation descriptive.
+> “À quoi servent les régimes dans Protokin ?”
 
-Il ne désigne ni une entité du monde, ni une couche ontologique, ni une substance explicative. Il formalise uniquement un mode de sélection des invariants sous contraintes d’observation, d’action, de régulation ou de justification.
+---
 
-Chaque régime définit :
+## 🎯 Fonction
 
-ce qui est sélectionné comme invariant ;
+Les régimes de couplage sont des opérateurs de stabilisation descriptive.
 
-ce qui est ignoré comme bruit ou hors champ ;
+Ils servent à :
 
-ce qui constitue une rupture ou une saturation descriptive ;
+ - sélectionner des invariants
 
-les tensions irréductibles avec d’autres régimes.
+- définir des conditions de validité
 
+- stabiliser des descriptions locales du réel
 
-Les indices R1–R17 sont des repères de navigation dans l’espace des tensions, non des niveaux hiérarchiques.
+- rendre possible la comparaison entre cadres incompatibles
+
+- alimenter le système de tensions inter-régimes
+
+---
+
+## ⚙️ Statut
+
+Un régime :
+
+- n’est pas une entité du monde
+
+- n’est pas un niveau ontologique
+
+- n’est pas une théorie explicative
+
+- n’est pas hiérarchique
 
 
 ---
 
-🌐 I. Régimes physico-dynamiques (PROTO I)
+## 🧠 Fonction épistémologique
 
-Ces régimes stabilisent les transformations avant toute organisation cognitive, biologique ou normative.
+Les régimes permettent de :
 
-R1 — Transitions élémentaires micro-physiques
+- rendre explicite ce qui est stabilisé implicitement dans une théorie
 
-Régime des régularités fondamentales de transformation.
+- distinguer plusieurs modes incompatibles de description
 
-flux
+- éviter la réduction d’un domaine à un autre
 
-gradients
+- rendre visibles les conditions de compatibilité entre descriptions
 
-différenciations locales
+---
 
-invariances dynamiques minimales
+## 🧩 Fonction dans l’architecture Protokin
 
+Les régimes servent de base à :
 
-👉 invariant : continuités de transformation sans présupposition d’objet stable
+⚡ Tensions inter-régimes (détection de désalignements)
+
+🔄 Transitions de cadre (reconfiguration des invariants)
+
+🧭 Audit (CAP / OVM)
+
+🧠 Analyse multi-niveaux des descriptions
 
 
 ---
 
-R2 — Dissipation structurée (Prigogine)
+## ⚠️ Principe central
 
-Régime des structures émergentes hors équilibre.
+> Un régime ne décrit pas le monde.
+Il décrit les conditions sous lesquelles le monde devient descriptible.
 
-👉 invariant : organisation stabilisée par flux énergétiques et dissipation
-
-
----
-
-R3 — Ajustement allostatique (Damasio / Sterling)
-
-Régime de régulation proactive des systèmes vivants.
-
-La stabilité n’y est pas un retour à l’équilibre, mais un maintien dynamique de marges de viabilité ajustées selon des trajectoires futures anticipées.
-
-👉 invariant : viabilité interne anticipée par modulation continue des paramètres
-
-
----
-
-🧠 II. Régimes cognitifs et opératoires (PROTO II)
-
-Ces régimes décrivent la formation de perception, d’action et d’anticipation.
-
-R4 — Compétence topographique (von Foerster)
-
-Régime de construction d’invariants perceptifs par couplage organisme–milieu.
-
-
----
-
-R5 — Minimisation de la surprise / Free Energy Principle
-
-Régime de stabilisation des systèmes par réduction de l’erreur de prédiction.
-
-👉 invariant : cohérence entre modèle interne et flux sensoriels
-
-
----
-
-R6 — Récursion prospective (von Foerster)
-
-Régime de production du présent par boucles récursives orientées vers des états futurs possibles.
-
-👉 invariant : sélection d’action structurée par simulation de trajectoires futures
-
-
----
-
-R7 — Couplage structurel (Maturana / Varela)
-
-Régime de co-détermination historique organisme–environnement.
-
-👉 invariant : stabilité issue de l’histoire des interactions
-
-
----
-
-🧬 III. Régimes biologiques et évolutionnaires
-
-R15 — Sélection antagoniste et dérive phylogénétique (Williams / Medawar)
-
-Régime des stabilités évolutives produites par sélection, contrainte et dérive.
-
-👉 invariant : compatibilité différentielle des formes dans le temps évolutif
-
-
----
-
-👥 IV. Régimes sémiotiques, cognitifs avancés et transitionnels
-
-R16 — Sémiose triadique (Peirce)
-
-Régime de stabilisation du sens via la relation signe–objet–interprétant.
-
-Il formalise la transition entre perception, catégorisation et émergence de contenus symboliques avant leur inscription normative.
-
-👉 invariant : stabilité de la médiation sémiotique (production d’interprétants)
-
-
----
-
-🛠️ V. Régimes techniques et allagmatiques
-
-R17 — Individuation technique et concrétisation (Simondon / Leroi-Gourhan)
-
-Régime de stabilisation des trajectoires propres des objets techniques et de leurs lignées.
-
-👉 invariant : cohérence fonctionnelle et résolution progressive des tensions techniques internes
-
-
----
-
-👥 VI. Régimes socio-développementaux
-
-R8 — Intentionnalité partagée (Tomasello)
-
-Régime de coordination d’agents autour de buts et d’attentions communs.
-
-
----
-
-R9 — Stabilisation conventionnelle cumulative
-
-Régime de transmission et stabilisation de régularités sociales sans institution explicite.
-
-👉 invariant : persistance de formes sociales partagées non formalisées
-
-
----
-
-R10 — Morphogenèse socio-interactive (Girard / Dupuy)
-
-Régime d’émergence des structures sociales par imitation, conflit et stabilisation collective.
-
-
----
-
-⚖️ VII. Régimes normatifs (KIN I)
-
-R11 — Espace des raisons (Sellars)
-
-Régime de distinction entre causalité et justification normative.
-
-👉 invariant : attribution de raisons comme catégorie irréductible
-
-
----
-
-R12 — Régime thymique de saillance normative
-
-Régime de structuration pré-discursive des valeurs, priorités et orientations d’action.
-
-👉 invariant : hiérarchisation des raisons possibles selon valence et importance vécue
-
-⚠ régime transversal : agit sur tous les autres régimes sans les remplacer
-
-
----
-
-R13 — Institution inférentielle (Brandom / Searle / Castoriadis)
-
-Régime de stabilisation des normes par engagements, reconnaissances et imputations mutuelles.
-
-👉 invariant : distribution sociale des responsabilités normatives
-
-
----
-
-🧭 VIII. Régime méta-théorique
-
-R14 — Validation / audit métathéorique (Vuillemin / Bouveresse)
-
-Régime réflexif de contrôle des régimes eux-mêmes.
-
-détection des analogies abusives
-
-contrôle des fusions illégitimes
-
-prévention des collapsus méta-langagiers
-
-audit des transitions inter-régimes
 
 
 
 ---
 
-⚠ Propriétés générales des régimes
+## 🔒 Garde-fous
 
-non hiérarchiques
+aucun régime n’est fondamental
 
-non réductibles
+aucun régime n’est universel
 
-localement activés selon contexte
+aucun régime ne réduit les autres
 
-reliés par tensions plutôt que par inclusion
+les régimes ne sont pas des causes
 
-définis par sélection d’invariants, non par ontologie
-
-
-
----
-
-🧠 Principe fondamental
-
-Un régime de couplage ne décrit pas le monde.
-
-Il décrit les conditions sous lesquelles un monde devient descriptible.
+les régimes ne sont pas des niveaux du réel
