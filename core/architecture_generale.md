@@ -1,8 +1,12 @@
-🧭 Architecture générale de Protokin
+
+# 🧭 Architecture générale de Protokin cOS (version étendue avec PASS)
+
+
+---
 
 🧩 1. Nature du système
 
-Protokin cOS n’est ni une ontologie, ni une hiérarchie du réel.
+Protokin n’est ni une ontologie, ni une hiérarchie du réel.
 
 Il s’agit d’un cadre d’audit dynamique des régimes de description, conçu pour analyser :
 
@@ -14,6 +18,9 @@ comment ces tensions sont stabilisées, déplacées ou reconfigurées ;
 
 comment un système peut s’appliquer à lui-même ses propres opérations d’audit.
 
+
+
+---
 
 Principe fondamental
 
@@ -36,6 +43,9 @@ l’exclusion de dimensions jugées non pertinentes ;
 
 la stabilisation d’une lisibilité opérationnelle.
 
+
+
+---
 
 Propriétés structurelles d’un régime
 
@@ -60,6 +70,9 @@ Tension : incompatibilité partielle entre critères de validité ;
 Saturation : incapacité d’un régime à intégrer de nouvelles distinctions sans perte de cohérence.
 
 
+
+---
+
 Ces phénomènes ne sont pas des erreurs, mais des signaux d’instabilité descriptive.
 
 
@@ -73,6 +86,9 @@ Content Layer : ensemble des régimes, objets et tensions ;
 
 Kernel : mécanisme invariant de traitement des tensions.
 
+
+
+---
 
 Le Kernel n’est pas descriptif. Il est opérationnel et défini par ses propres règles internes.
 
@@ -111,13 +127,84 @@ régulation des compressions inter-régimes (OVM) ;
 gestion des transitions de régime.
 
 
+
+---
+
 Il ne produit pas de vérité.
 Il maintient la cohérence dynamique des conditions de descriptibilité.
 
 
 ---
 
-🧭 5. Réflexivité graduée (4 niveaux)
+🔁 5. PASS — Protocole d’Application Séquentielle
+
+Nature du module
+
+PASS est la couche opératoire de Protokin.
+
+Il définit la séquence d’application du système sur un objet d’analyse.
+
+
+---
+
+Fonction
+
+PASS transforme l’architecture en procédure :
+
+segmentation du matériau ;
+
+identification des régimes ;
+
+détection des tensions ;
+
+analyse de saturation ;
+
+déclenchement du CAP ;
+
+filtrage OVM ;
+
+proposition de transitions ;
+
+repérage des zones de rupture ;
+
+(optionnel) activation du métaniveau.
+
+
+
+---
+
+Statut épistémologique
+
+PASS n’ajoute aucun niveau ontologique.
+
+Il n’introduit aucun nouveau concept.
+
+Il formalise uniquement l’ordre d’activation des opérations du système.
+
+
+---
+
+Relation avec le Kernel
+
+Kernel : mécanisme interne de cohérence ;
+
+PASS : protocole externe d’usage.
+
+
+
+---
+
+Relation avec PAR
+
+PAR : structure analytique ;
+
+PASS : protocole d’application de PAR.
+
+
+
+---
+
+🧭 6. Réflexivité graduée (4 niveaux)
 
 Protokin devient opératoire lorsqu’il est appliqué à lui-même. Cette auto-application est structurée en quatre niveaux.
 
@@ -132,7 +219,6 @@ Le Kernel est invariant.
 
 Aucune auto-référence.
 
-
 → Usage : cartographie de systèmes externes.
 
 
@@ -142,10 +228,9 @@ Aucune auto-référence.
 
 Protokin devient objet du Content Layer.
 
-ses régimes et tensions sont analysés.
+Ses régimes et tensions sont analysés.
 
-le Kernel reste stable.
-
+Le Kernel reste stable.
 
 → Usage : analyse réflexive sans modification structurelle.
 
@@ -160,7 +245,6 @@ CAP, OVM et transitions peuvent être ajustés.
 
 Le système se reconfigure à partir de ses propres tensions.
 
-
 → Seuil critique de transformation du cadre de stabilité.
 
 
@@ -170,23 +254,25 @@ Le système se reconfigure à partir de ses propres tensions.
 
 La distinction Kernel / Content Layer devient instable.
 
-émergence de kernels locaux multiples.
+Émergence de kernels locaux multiples.
 
-dynamique de reconfiguration continue.
-
+Dynamique de reconfiguration continue.
 
 → Ce niveau n’est pas une stabilité supérieure mais une zone de transformation permanente.
 
 
 ---
 
-🧭 6. Métaniveau : audit du système
+🧭 7. Métaniveau : audit du système
 
 Au-delà des niveaux précédents, une question structurelle apparaît :
 
 > Pourquoi ce système de description plutôt qu’un autre ?
 
 
+
+
+---
 
 Ce niveau introduit une réflexivité externe au cadre lui-même :
 
