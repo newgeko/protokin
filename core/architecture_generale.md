@@ -1,22 +1,24 @@
 
-# 🧭 Architecture générale de Protokin cOS (version étendue avec PASS)
+🧭 Architecture générale de Protokin
 
 
 ---
 
 🧩 1. Nature du système
 
-Protokin n’est ni une ontologie, ni une hiérarchie du réel.
+Protokin n’est ni une ontologie, ni une théorie de la représentation, ni une hiérarchie du réel.
 
-Il s’agit d’un cadre d’audit dynamique des régimes de description, conçu pour analyser :
+Il s’agit d’un cadre d’audit dynamique des régimes de description, permettant d’analyser :
 
-comment un domaine devient descriptible ;
+la constitution des objets descriptibles ;
 
-comment des descriptions entrent en tension ;
+la stabilisation des cadres de description ;
 
-comment ces tensions sont stabilisées, déplacées ou reconfigurées ;
+les tensions entre cadres incompatibles ;
 
-comment un système peut s’appliquer à lui-même ses propres opérations d’audit.
+les conditions de transformation des régimes eux-mêmes ;
+
+les limites internes de l’applicabilité du système.
 
 
 
@@ -24,7 +26,7 @@ comment un système peut s’appliquer à lui-même ses propres opérations d’
 
 Principe fondamental
 
-> Un régime ne décrit pas le monde, il définit les conditions sous lesquelles un monde devient descriptible.
+> Un régime ne décrit pas le monde, il définit les conditions sous lesquelles quelque chose peut devenir descriptible.
 
 
 
@@ -33,21 +35,21 @@ Principe fondamental
 
 🧩 2. Régimes : unité de stabilisation descriptive
 
-Un régime est une configuration localement stable de découpage du réel permettant :
+Un régime est une configuration localement stabilisée de découpage du réel permettant :
 
 la sélection d’invariants pertinents ;
 
-la définition de critères de validité ;
+la fixation de critères de validité ;
 
-l’exclusion de dimensions jugées non pertinentes ;
+l’exclusion de dimensions non pertinentes ;
 
-la stabilisation d’une lisibilité opérationnelle.
+la production d’un espace de lisibilité cohérent.
 
 
 
 ---
 
-Propriétés structurelles d’un régime
+Propriétés structurelles
 
 Tout régime produit simultanément :
 
@@ -55,7 +57,7 @@ une capacité descriptive ;
 
 un angle mort structurel ;
 
-une zone potentielle de friction avec d’autres régimes.
+une zone potentielle de tension avec d’autres régimes.
 
 
 
@@ -63,163 +65,193 @@ une zone potentielle de friction avec d’autres régimes.
 
 ⚠️ 3. Tension et saturation
 
-Lorsque plusieurs régimes s’appliquent à un même domaine, deux phénomènes apparaissent :
+Lorsque plusieurs régimes coexistent sur un même domaine :
 
-Tension : incompatibilité partielle entre critères de validité ;
+🔹 Tension
 
-Saturation : incapacité d’un régime à intégrer de nouvelles distinctions sans perte de cohérence.
+Incompatibilité partielle entre critères de validité.
 
+🔹 Saturation
 
-
----
-
-Ces phénomènes ne sont pas des erreurs, mais des signaux d’instabilité descriptive.
+Incapacité d’un régime à intégrer de nouvelles distinctions sans perte de cohérence.
 
 
 ---
 
-⚙️ 4. Kernel : mécanisme invariant
-
-Protokin est structuré selon une séparation stricte :
-
-Content Layer : ensemble des régimes, objets et tensions ;
-
-Kernel : mécanisme invariant de traitement des tensions.
-
+Ces phénomènes sont des signaux structurels, non des erreurs.
 
 
 ---
 
-Le Kernel n’est pas descriptif. Il est opérationnel et défini par ses propres règles internes.
+⚙️ 4. Kernel : mécanisme invariant de cohérence
 
+Le système est structuré par une séparation stricte :
 
----
+Content Layer : régimes, objets, tensions
 
-🔁 Cycle du Kernel
+Kernel : mécanisme invariant de traitement des tensions
 
-[CONTENT LAYER]
-   (régimes / objets / tensions)
-            │
-            ▼
-1. CAP — Cycle d’Audit Protokin
-   Détection des tensions, incohérences et saturations
-            │
-            ▼
-2. OVM — Opérateur de Vigilance Modale
-   Prévention des collapsus entre régimes et des réductions abusives
-            │
-            ▼
-3. TRANSITION
-   Reconfiguration du champ descriptif :
-   stabilisation locale ou émergence de nouveaux régimes
 
 
 ---
 
 🧠 Fonction du Kernel
 
-Le Kernel assure trois fonctions irréductibles :
+Le Kernel assure trois fonctions :
 
 détection des ruptures de cohérence (CAP) ;
 
 régulation des compressions inter-régimes (OVM) ;
 
-gestion des transitions de régime.
+gestion des transitions entre régimes.
 
 
 
 ---
 
-Il ne produit pas de vérité.
-Il maintient la cohérence dynamique des conditions de descriptibilité.
+🔁 Cycle Kernel
+
+[CONTENT LAYER]
+      │
+      ▼
+CAP — détection des tensions et saturations
+      │
+      ▼
+OVM — régulation des compressions normatives
+      │
+      ▼
+TRANSITION — reconfiguration ou stabilisation locale
 
 
 ---
 
-🔁 5. PASS — Protocole d’Application Séquentielle
+🚧 4bis. DELTA — Module de limite de clôture et d’indécidabilité
 
-Nature du module
+🧭 Statut structurel
 
-PASS est la couche opératoire de Protokin.
+DELTA est une couche parallèle au Kernel, non dérivable de CAP/OVM.
 
-Il définit la séquence d’application du système sur un objet d’analyse.
+Il ne participe pas à la stabilisation des régimes.
+
+Il détecte les conditions où la stabilisation devient impossible.
+
+
+---
+
+⚙️ Fonction principale
+
+DELTA identifie :
+
+les auto-boucles d’interprétation infinie ;
+
+les zones où régime et métarégime deviennent indistincts ;
+
+les cas où CAP et OVM produisent des sorties contradictoires ;
+
+les situations où la notion même de “transition” devient indécidable.
+
+
+
+---
+
+🧠 Fonction épistémique
+
+DELTA ne corrige pas.
+
+DELTA suspend l’applicabilité du système.
+
+
+---
+
+📉 Effet structurel
+
+DELTA introduit une propriété fondamentale :
+
+> Protokin n’est pas totalisable sur lui-même.
+
+
+
+
+---
+
+🔁 Position dans l’architecture
+
+CONTENT LAYER
+      │
+      ▼
+     KERNEL
+   ┌─────────┬─────────┬──────────┐
+   │  CAP    │  OVM    │ TRANSITION│
+   └─────────┴─────────┴──────────┘
+              │
+              ▼
+            DELTA
+   (limite d’applicabilité du Kernel)
+
+
+---
+
+🔁 5. PASS — Protocole d’application séquentielle
+
+PASS définit l’ordre d’usage du système sur un objet d’analyse.
 
 
 ---
 
 Fonction
 
-PASS transforme l’architecture en procédure :
+PASS transforme Protokin en procédure opératoire :
 
-segmentation du matériau ;
+1. segmentation du matériau ;
 
-identification des régimes ;
 
-détection des tensions ;
+2. identification des régimes ;
 
-analyse de saturation ;
 
-déclenchement du CAP ;
+3. détection des tensions ;
 
-filtrage OVM ;
 
-proposition de transitions ;
+4. analyse des saturations ;
 
-repérage des zones de rupture ;
 
-(optionnel) activation du métaniveau.
+5. activation CAP ;
+
+
+6. filtrage OVM ;
+
+
+7. tentative de transition ;
+
+
+8. détection des zones de rupture ;
+
+
+9. activation éventuelle du métaniveau ;
+
+
+10. vérification DELTA (condition limite).
+
 
 
 
 ---
 
-Statut épistémologique
+Statut
 
 PASS n’ajoute aucun niveau ontologique.
 
-Il n’introduit aucun nouveau concept.
-
-Il formalise uniquement l’ordre d’activation des opérations du système.
+Il organise l’ordre d’activation des modules.
 
 
 ---
 
-Relation avec le Kernel
-
-Kernel : mécanisme interne de cohérence ;
-
-PASS : protocole externe d’usage.
-
-
-
----
-
-Relation avec PAR
-
-PAR : structure analytique ;
-
-PASS : protocole d’application de PAR.
-
-
-
----
-
-🧭 6. Réflexivité graduée (4 niveaux)
-
-Protokin devient opératoire lorsqu’il est appliqué à lui-même. Cette auto-application est structurée en quatre niveaux.
-
-
----
+🧠 6. Réflexivité graduée (4 niveaux)
 
 🟢 Niveau 1 — Application externe
 
-Protokin est un outil d’analyse externe.
+Protokin analyse des systèmes externes.
 
-Le Kernel est invariant.
-
-Aucune auto-référence.
-
-→ Usage : cartographie de systèmes externes.
+Kernel stable, DELTA inactif.
 
 
 ---
@@ -228,111 +260,132 @@ Aucune auto-référence.
 
 Protokin devient objet du Content Layer.
 
-Ses régimes et tensions sont analysés.
-
-Le Kernel reste stable.
-
-→ Usage : analyse réflexive sans modification structurelle.
+Kernel stable, DELTA observateur.
 
 
 ---
 
 🟠 Niveau 3 — Auto-révision du Kernel
 
-Les règles du Kernel deviennent modifiables.
+CAP/OVM deviennent modifiables.
 
-CAP, OVM et transitions peuvent être ajustés.
-
-Le système se reconfigure à partir de ses propres tensions.
-
-→ Seuil critique de transformation du cadre de stabilité.
+DELTA surveille les instabilités de second ordre.
 
 
 ---
 
 🔴 Niveau 4 — Métasystème instable
 
-La distinction Kernel / Content Layer devient instable.
+disparition partielle distinction Kernel / Content Layer
 
-Émergence de kernels locaux multiples.
+multiplication de kernels locaux
 
-Dynamique de reconfiguration continue.
+instabilité des transitions
 
-→ Ce niveau n’est pas une stabilité supérieure mais une zone de transformation permanente.
+
+👉 DELTA devient dominant structurel
 
 
 ---
 
 🧭 7. Métaniveau : audit du système
 
-Au-delà des niveaux précédents, une question structurelle apparaît :
-
-> Pourquoi ce système de description plutôt qu’un autre ?
-
-
+Le système peut s’appliquer à lui-même comme objet d’analyse.
 
 
 ---
 
-Ce niveau introduit une réflexivité externe au cadre lui-même :
-
-le système devient objet d’audit ;
-
-ses angles morts deviennent analysables ;
-
-ses contraintes deviennent explicites.
-
-
-
----
-
-🔍 Questions du métaniveau
+Questions structurantes
 
 Que rend visible Protokin ?
 
 Que rend-il invisible ?
 
-Quelles formes de pensée favorise-t-il ou bloque-t-il ?
+Quand cesse-t-il d’être applicable ?
 
-Dans quelles conditions devient-il saturé ?
-
-
-
----
-
-🔁 CAP réflexif
-
-Le CAP peut être appliqué au système lui-même :
-
-le Kernel devient objet d’analyse ;
-
-les tensions internes deviennent observables ;
-
-les limites du cadre deviennent intégrées à l’audit.
+Où devient-il auto-indécidable ?
 
 
 
 ---
 
-⚠️ Conclusion
+CAP réflexif
+
+Le CAP peut être appliqué au Kernel lui-même.
+
+Mais :
+
+> DELTA peut suspendre cette auto-application.
+
+
+
+
+---
+
+🚧 8. Zones de rupture structurelles
+
+1. Institution vs distribution
+
+Tension entre :
+
+idéal de symétrie descriptive
+
+asymétrie réelle des conditions d’accès aux régimes
+
+
+
+---
+
+2. Limite de l’auto-interprétation
+
+Le système peut produire des boucles où :
+
+toute critique devient régime
+
+toute limite devient transition
+
+
+→ DELTA bloque cette absorption.
+
+
+---
+
+3. Instabilité du niveau méta
+
+Le système peut perdre la distinction :
+
+objet
+
+théorie
+
+métathéorie
+
+
+
+---
+
+🧭 Conclusion générale
 
 Protokin cOS est un système :
 
 non ontologique ;
 
-non hiérarchique au sens substantiel ;
+multi-régimes ;
 
-réflexif par degrés ;
+structurellement réflexif ;
 
-fondé sur des régimes plutôt que des entités ;
+fondé sur des tensions et saturations ;
 
-stabilisé par des tensions plutôt que par des identités.
+limité par DELTA comme condition d’indécidabilité interne.
 
 
 
 ---
 
-🧠 Principe final
+🧠 Principe final (version étendue)
 
 > Protokin ne décrit pas ce qui est.
-Il décrit les conditions sous lesquelles quelque chose peut être décrit, stabilisé ou transformé en objet d’audit.
+Il décrit les conditions sous lesquelles quelque chose peut être décrit, stabilisé, transformé — ou suspendu par DELTA.
+
+
+---
