@@ -1,128 +1,202 @@
-Protocole du Cycle d'Audit Protokin (CAP)
+
+
+---
+
+Protocole du Cycle d’Audit Protokin (CAP)
 
 Architecture : Protokin
-Objet : Cycle opérationnel de diagnostic et de reconfiguration descriptive.
-Statut : Noyau procédural.
+Objet : protocole opératoire de diagnostic et de reconfiguration des stabilités descriptives
+Statut : dispositif récursif d’audit interne
+
+1. Principe général
+
+Le CAP ne décrit pas des structures du réel ni des niveaux d’organisation du monde.
+
+Il formalise une suite d’opérations permettant de gérer des configurations locales de stabilité descriptive, lorsque plusieurs modes de description deviennent partiellement incompatibles.
+
+Un “régime” ne désigne pas un domaine ontologique, mais un ensemble de contraintes qui déterminent :
+
+ce qui est rendu pertinent,
+
+ce qui est stabilisé comme invariant,
+
+ce qui est traité comme frontière,
+
+ce qui est compté comme preuve ou justification.
+
+
 
 ---
 
-Le Cycle Opérationnel (Workflow)
+2. Cycle opérationnel
 
-Ce protocole décrit la séquence itérative permettant de traiter les tensions descriptives au sein du système Protokin.
+1. Stabilisation locale — « Comment cela tient-il ? »
 
-1. Stabilisation locale : « Comment cela tient-il ? »
+Une configuration est d’abord décrite à partir d’un régime donné.
 
-Tout commence avec un régime. Le régime n'est pas une vérité sur le monde mais une manière de produire une stabilité descriptive en sélectionnant :
+Cette stabilisation correspond à une réduction locale de complexité descriptive, où certains éléments deviennent pertinents et d’autres sont exclus ou marginalisés.
 
-* ce qui compte comme pertinent ;
-* ce qui compte comme preuve ;
-* ce qui compte comme invariant ;
-* ce qui compte comme frontière.
+Il ne s’agit pas d’une représentation du monde, mais d’un mode de maintien de cohérence descriptive.
+
 
 ---
 
-2. Pluralité descriptive : « Comment autre chose le décrit-il ? »
+2. Pluralité descriptive — « Sous quelles autres conditions cela peut-il être décrit ? »
 
-Une même configuration devient observable par plusieurs régimes (causal, relationnel, normatif, symbolique). On entre alors dans une situation de pluralité descriptive, où plusieurs stabilisations coexistent sans nécessairement se recouvrir.
+Une même configuration peut être prise en charge par plusieurs régimes.
 
----
+Ces descriptions ne sont pas hiérarchisées a priori et peuvent être partiellement incompatibles.
 
-3. Apparition d'une tension : « Pourquoi les stabilisations ne s'alignent-elles plus ? »
+La pluralité descriptive correspond à la coexistence de plusieurs stabilisations locales sans garantie de traductibilité complète.
 
-La tension surgit lorsque deux régimes tentent de rendre compte de la même configuration à partir de critères incompatibles.
-
-* La tension n'est ni une erreur ni un bug, mais un symptôme descriptif.
-
-«Principe : Ce qui stabilise dans un régime peut déstabiliser dans un autre.»
 
 ---
 
-4. Saturation : « Pourquoi la tension devient-elle visible ? »
+3. Apparition d’une tension — « Que rend incompatible la coexistence de ces descriptions ? »
 
-L'incompatibilité passe du stade latent au stade manifeste. Le système ne peut plus ignorer, traduire ou marginaliser la contradiction. La stabilité locale se fissure ; le coût descriptif de la tension devient trop important pour être absorbé.
+Une tension apparaît lorsque deux stabilisations descriptives ne peuvent plus être maintenues simultanément sans perte de cohérence locale.
 
----
+La tension n’est ni une erreur, ni une anomalie du système, mais un effet de friction entre contraintes descriptives hétérogènes.
 
-5. Audit : « Que révèle exactement cette tension ? »
-
-Étape centrale de diagnostic où toute tentative de résolution est momentanément suspendue afin d'identifier :
-
-* les régimes impliqués ;
-* les invariants en conflit ;
-* les frontières instables ;
-* le type de tension :
-  * structurelle ;
-  * réflexive ;
-  * dynamique.
-
-L'objectif n'est pas encore de résoudre le problème, mais de caractériser précisément sa nature.
 
 ---
 
-6. Décomposition : « Où se situe réellement le problème ? »
+4. Saturation — « À quel moment la tension devient-elle irréductible localement ? »
 
-Le conflit identifié lors de l'audit est ensuite localisé sur un élément descriptif spécifique :
+La saturation correspond au point où les dispositifs de traduction, de neutralisation ou de contournement ne suffisent plus à maintenir la coexistence des descriptions.
 
-* un invariant ;
-* une frontière ;
-* une règle de traduction ;
-* un niveau d'observation.
+Ce n’est pas une rupture globale, mais un seuil local de stabilité.
 
-Cette étape évite les faux conflits globaux en isolant le point exact où se produit la friction.
 
 ---
 
-7. Décision : « Qu'est-ce qui doit changer ? »
+5. Audit — « Que rend visible cette tension ? »
 
-L'audit et la décomposition ouvrent plusieurs possibilités de reconfiguration :
+L’audit suspend provisoirement les opérations de résolution afin de caractériser la structure de la tension.
 
-* Cas A : changement d'invariant ;
-* Cas B : déplacement de frontière ;
-* Cas C : changement de régime dominant ;
-* Cas D : changement métarégimique (modification des critères de comparaison entre régimes).
+Il identifie :
 
-Cette étape ne réalise pas encore la transformation ; elle détermine la direction de la reconfiguration.
+les régimes impliqués,
 
----
+les invariants en conflit,
 
-8. Transition : « Comment retrouver une stabilité ? »
+les points de non-traductibilité,
 
-Phase active de reconfiguration.
+la nature de la tension (structurelle, dynamique, réflexive).
 
-* Il ne s'agit pas d'une synthèse hégélienne, mais d'une réorganisation des conditions de description.
-* Les régimes demeurent distincts.
-* La transition modifie les conditions d'apparition de la tension sans supprimer la pluralité descriptive.
+
+L’audit n’est pas une position surplombante : il est une opération locale de re-description contrôlée.
+
 
 ---
 
-9. Nouvelle stabilisation : « Que permet désormais cette reconfiguration ? »
+6. Décomposition — « Où la friction s’effectue-t-elle exactement ? »
 
-Une nouvelle stabilité apparaît, mieux adaptée à la configuration observée.
+La tension est localisée sur des éléments précis :
 
-«Note : Une transition ne supprime pas les tensions ; elle modifie les conditions de leur apparition.»
+un invariant,
 
-«Principe de récursivité : Toute nouvelle stabilisation constitue le point de départ potentiel d'un nouveau cycle d'audit.»
+une règle de traduction,
+
+une frontière descriptive,
+
+une condition d’application d’un régime.
+
+
+Cette étape empêche la généralisation abusive du conflit à l’ensemble du système.
+
 
 ---
 
-Lecture condensée
+7. Décision — « Quelles contraintes doivent être modifiées ? »
 
-Le mouvement complet du CAP forme une boucle récursive :
+Plusieurs types de reconfiguration sont possibles :
 
-"Stabilisation locale" → "Pluralité descriptive" → "Tension" → "Saturation" → "Audit" → "Décomposition" → "Décision" → "Transition" → "Nouvelle stabilisation"
+modification d’un invariant,
+
+déplacement d’une frontière descriptive,
+
+changement de régime de référence local,
+
+modification des critères de comparaison entre régimes.
+
+
+Cette étape ne produit pas encore de changement effectif ; elle spécifie les conditions de transformation.
+
 
 ---
 
-Note épistémologique
+8. Transition — « Comment rétablir une cohérence locale ? »
 
-Le fonctionnement du Protokin cOS se distingue d'une révolution paradigmatique de type kuhnien :
+La transition consiste en une reconfiguration des conditions de stabilité descriptive.
 
-1. Microscopie vs macroscopie : la tension agit comme une anomalie, mais son traitement demeure local et non global.
+Elle ne supprime pas la pluralité des régimes, mais modifie les conditions sous lesquelles leurs incompatibilités deviennent ou non manifestes.
 
-2. Réversibilité : le système ne vise pas une révolution paradigmatique, mais une théorie des conditions sous lesquelles un changement devient descriptivement nécessaire.
 
-3. Réflexivité : la tension constitue un signal d'audit indiquant qu'un espace descriptif a atteint une limite locale de cohérence.
+---
 
-4. Pluralisme : aucun régime n'est présumé détenir une description définitive du réel ; le CAP organise la coexistence, l'évaluation et la reconfiguration des régimes d'observation.
+9. Nouvelle stabilisation — « Que permet la reconfiguration obtenue ? »
 
-5. Neutralité ontologique : le protocole ne statue pas sur ce qui existe réellement ; il décrit les conditions sous lesquelles une configuration descriptive demeure stable ou devient problématique.
+Une nouvelle configuration locale de stabilité descriptive apparaît.
+
+Cette stabilisation est elle-même potentiellement instable et peut devenir le point de départ d’un nouveau cycle d’audit.
+
+
+---
+
+3. Structure récursive
+
+Le CAP est récursif :
+
+Stabilisation → Pluralité → Tension → Saturation → Audit → Décomposition → Décision → Transition → Stabilisation
+
+Il ne s’agit pas d’un cycle historique ou évolutif, mais d’une structure opératoire applicable à toute configuration descriptive.
+
+
+---
+
+4. Position épistémologique
+
+Le CAP ne postule aucun niveau ontologique sous-jacent.
+
+Il n’énonce pas ce qui existe, mais décrit les conditions sous lesquelles des ensembles de descriptions :
+
+peuvent coexister,
+
+entrent en conflit,
+
+ou deviennent reconfigurables.
+
+
+
+---
+
+5. Point de cohérence final (important)
+
+La neutralité ontologique ne signifie pas absence de structure.
+
+Elle signifie :
+
+> absence d’engagement sur une structure du réel indépendante des opérations de description.
+
+
+
+Le CAP est donc un dispositif immanent aux pratiques de description, et non un méta-niveau sur celles-ci.
+
+
+---
+
+Ce qui a été corrigé conceptuellement
+
+suppression implicite d’une “architecture du monde”
+
+réduction des effets de hiérarchie cachée
+
+transformation des “régimes” en contraintes opératoires
+
+clarification de l’audit comme opération et non niveau
+
+élimination du vocabulaire suggérant une ontologie procédurale
+
+
+
