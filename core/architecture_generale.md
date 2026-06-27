@@ -1,4 +1,4 @@
-# 🧭 Architecture générale de Protokin cOS
+# 🧭 Architecture générale de Protokin
 
 ## 🧩 1. Nature du système
 
