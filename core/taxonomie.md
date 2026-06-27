@@ -1,4 +1,9 @@
-🧭 Taxonomie des Références Théoriques dans Protokin
+> ⚠️ Note épistémologique
+Cette taxonomie n’est pas une structure du réel ni une hiérarchie ontologique.
+Elle constitue un index local des régimes actuellement mobilisés dans les opérations d’audit du système Protokin.
+Elle est sujette à extension, reconfiguration et obsolescence partielle.
+
+# 🧭 Taxonomie des Références Théoriques dans Protokin
 
 
 ---
