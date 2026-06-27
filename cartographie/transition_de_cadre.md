@@ -1,146 +1,116 @@
-🔄 Les transitions de cadre dans Protokin
+# 🔄 Les transitions de cadre dans Protokin
 
-Dans Protokin cOS, une transition de cadre descriptif n’est pas une découverte de vérité ni un progrès cognitif.
+Dans Protokin cOS, une transition de cadre descriptif n’est pas une amélioration du système ni une correction du réel.
 
-C’est une opération de reconfiguration locale qui intervient lorsque un régime de description n’est plus capable de stabiliser les phénomènes qu’il traite.
-
-Autrement dit : une transition ne corrige pas le réel, elle restaure une capacité de lecture.
+Elle correspond à une reconfiguration locale des conditions de stabilité d’une description lorsque un régime devient insuffisant pour maintenir ce qu’il rend visible.
 
 
 ---
 
-1. Le déclencheur : saturation et audit (CAP)
+## 1. Saturation et mise en tension (CAP)
 
-Une transition commence toujours par un moment de saturation.
+Une transition est précédée par un moment de saturation.
 
-Un régime descriptif fonctionne tant qu’il peut :
+Un régime descriptif devient instable lorsqu’il ne parvient plus à :
 
-sélectionner ses invariants
+maintenir ses invariants
 
-maintenir ses distinctions
+stabiliser ses distinctions
 
-absorber les variations du système observé
-
-
-Lorsque cette capacité se dégrade, des frictions apparaissent : des phénomènes deviennent visibles sans être traitables.
-
-Le Cycle d’Audit Protokin (CAP) intervient alors pour isoler la source de l’instabilité.
-
-Il ne cherche pas une “cause” au sens classique, mais un point de rupture fonctionnelle :
-
-changement d’invariant ?
-
-conflit d’échelle ?
-
-incompatibilité de description ?
-
-tension normative entre cadres ?
+absorber certaines variations du système observé
 
 
-> Résultat du CAP : identification précise de la zone de saturation.
+Le Cycle d’Audit (CAP) permet alors de rendre visible la structure de cette instabilité :
 
+conflit d’invariants
+
+changement d’échelle
+
+incompatibilité de description
+
+tension entre cadres
 
 
 
 ---
 
-2. Le filtre de sécurité : vigilance modale (OVM)
+2. Qualification des conditions de transition (OVM)
 
-Avant toute transition, une seconde opération intervient : la Vigilance Modale (OVM).
+À ce stade, la dynamique de reconfiguration est examinée sous l’angle de ses conditions de cohérence.
 
-Son rôle est de vérifier que la solution envisagée ne résout pas le problème en détruisant la structure des régimes impliqués.
+Il ne s’agit pas de valider ou rejeter une transition, mais de déterminer :
 
-Elle bloque notamment trois types d’erreurs :
-
-réduction abusive : ramener un phénomène complexe à une seule couche explicative
-
-confusion de catégories : traiter une propriété émergente comme un simple artefact
-
-fusion illégitime de régimes : effacer les distinctions au lieu de les articuler
-
-
-> Résultat de l’OVM : validation ou rejet de la trajectoire de transition.
+> sous quelles conditions une reconfiguration est intelligible sans effondrement des distinctions entre régimes.
 
 
 
+L’analyse met en évidence notamment :
 
----
+les cas de réduction descriptive
 
-3. La transition : reconfiguration du cadre
+les confusions de niveaux de description
 
-Une fois le problème isolé et la trajectoire validée, la transition peut avoir lieu.
+les fusions non médiatisées de régimes
 
-Elle ne produit pas un meilleur cadre, mais un cadre plus stable localement.
-
-Trois formes principales apparaissent :
-
-1. Réinterprétation (continuité)
-
-Les invariants restent identiques, mais leur lecture change.
-
-→ déplacement du sens sans modification du contenu
 
 
 ---
 
-2. Changement de régime (recomposition)
+3. Types de reconfiguration
 
-Les cadres existants ne suffisent plus.
+Une transition peut se manifester sous trois formes :
 
-→ création ou activation d’un nouveau régime descriptif avec ses propres invariants
+Réinterprétation (continuité)
 
+Les invariants restent identiques, mais leur organisation descriptive change.
 
----
+Changement de régime (recomposition)
 
-3. Zone de rupture (discontinuité)
+Les invariants précédents deviennent insuffisants, et une nouvelle stabilisation descriptive apparaît.
 
-Aucune traduction progressive n’est possible entre deux régimes.
+Discontinuité (rupture)
 
-→ reconnaissance d’une discontinuité structurelle irréductible
-
-
----
-
-4. Exemple : saturation invisible dans une équipe
-
-Prenons un système qui décrit une équipe de développement uniquement via un régime statistique : tickets fermés, lignes de code produites, vélocité.
-
-1. Saturation
-
-Les indicateurs sont bons, mais l’équipe entre en burn-out généralisé.
-
-Le régime devient aveugle à une dimension essentielle : la dégradation du support humain de la production.
-
-2. CAP
-
-L’audit isole le problème :
-
-conflit normatif (performance vs soutenabilité)
-
-changement d’échelle non capturé (individuel vs organisationnel)
-
-invariant insuffisant (productivité ≠ santé du système)
-
-
-3. OVM
-
-Le système refuse une solution naïve du type : “ajouter un indicateur de stress” sans changer de cadre.
-
-→ ce serait une réduction abusive
-
-4. Transition
-
-Le système bascule vers un régime relationnel et psychologique : de nouveaux invariants apparaissent (charge mentale, coopération, fatigue systémique).
-
-Ce n’est pas une “meilleure description”, mais une description capable de stabiliser ce que l’ancien cadre rendait invisible.
+Aucune traduction progressive n’est possible entre deux configurations.
 
 
 ---
 
-Conclusion
+4. Exemple : saturation dans une équipe
 
-Dans Protokin cOS, les transitions ne sont jamais des améliorations globales.
+(Un exemple inchangé dans son fond, mais recadré)
 
-Ce sont des opérations locales de survie épistémique : des ajustements de cadre qui permettent à un système de continuer à produire du sens sans se désintégrer sous ses propres tensions.
+Une équipe est décrite uniquement via un régime métrique (productivité, vélocité, tickets fermés).
+
+Saturation
+
+Les indicateurs restent stables, mais une dégradation invisible apparaît (fatigue, désengagement, burn-out).
+
+Le régime devient insuffisant pour stabiliser l’ensemble des phénomènes.
+
+CAP
+
+Mise en évidence de tensions :
+
+conflit entre performance et soutenabilité
+
+changement d’échelle non capturé
+
+insuffisance des invariants
 
 
+OVM
+
+Mise en évidence des conditions de re-description nécessaires pour éviter une réduction du phénomène à une seule dimension.
+
+Transition
+
+Reconfiguration vers un régime incluant des invariants relationnels et organisationnels.
+
+
+---
+
+5. Conclusion
+
+Les transitions de cadre ne constituent pas des améliorations globales.
+
+Elles correspondent à des reconfigurations locales des conditions de stabilité descriptive, permettant à un système de continuer à rendre intelligible ce qu’il ne parvient plus à stabiliser dans un régime unique.
