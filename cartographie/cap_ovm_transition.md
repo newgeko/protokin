@@ -119,8 +119,145 @@ maintenir la récursivité des descriptions sans point de surplomb
 
 rendre explicites les conditions de transformation sans les figer en étapes
 
+---
+
+10. Conditions de bascule des descriptions (CAP / OVM / Transition)
+
+La distinction entre CAP, OVM et Transition ne dépend pas d’un changement du système, mais d’un changement de régime d’attention descriptive.
+
+Une même configuration peut être lue comme :
+
+CAP lorsque l’attention porte sur la formation des tensions
+
+OVM lorsque l’attention porte sur les conditions de compatibilité
+
+Transition lorsque l’attention porte sur la reconfiguration effective des stabilités
+
+
+Ces lectures ne sont pas exclusives, mais superposables et partiellement commutables.
+
+
+---
+
+11. Indétermination fonctionnelle
+
+Il n’existe pas de critère interne stable permettant de décider de manière définitive si une situation relève de CAP, OVM ou Transition.
+
+Cette indétermination n’est pas un défaut du système, mais une propriété structurelle :
+
+> toute opération d’audit est simultanément décomposable en détection, qualification et reconfiguration selon le niveau de granularité descriptif choisi.
 
 
 
 
+---
 
+12. Récursivité des points d’observation
+
+Tout état descriptif peut devenir à son tour :
+
+un objet de CAP (si l’on observe ses tensions internes),
+
+un objet d’OVM (si l’on analyse ses conditions de cohérence),
+
+un objet de Transition (si l’on observe sa reconfiguration dans le temps).
+
+
+Il n’existe donc pas de niveau fixe d’analyse, mais une récursion d’observations sur des stabilisations temporaires.
+
+
+---
+
+13. Absence de point de contrôle global
+
+Aucune instance interne au système ne peut garantir :
+
+la bonne attribution CAP / OVM / Transition
+
+la complétude de l’analyse
+
+la stabilité des frontières descriptives
+
+
+Toute attribution est elle-même une opération descriptive située, susceptible d’être requalifiée par une autre lecture.
+
+
+---
+
+14. Régimes de re-description
+
+Une description n’est jamais stable en soi : elle est toujours relative à un régime d’interprétation local.
+
+Les régimes ne sont pas des structures fixes, mais des configurations de lecture qui sélectionnent certains aspects d’une même dynamique.
+
+
+---
+
+15. Tension comme opérateur de reconfiguration
+
+La tension n’est ni une anomalie ni un signal d’erreur.
+
+Elle fonctionne comme un indicateur de pluralité descriptive non résolue localement.
+
+Toute tension ouvre la possibilité de :
+
+relecture (CAP)
+
+requalification (OVM)
+
+reconfiguration (Transition)
+
+
+sans ordre prescrit.
+
+
+---
+
+16. Stabilisation locale
+
+Une stabilisation est un état temporaire dans lequel une configuration descriptive devient suffisamment cohérente pour être opérée sans réactivation immédiate des tensions.
+
+Cette stabilité n’est jamais absolue, mais relativement suspendue aux régimes de lecture activés.
+
+
+---
+
+17. Récursivité générale du système
+
+Le système Protokin ne progresse pas.
+
+Il reconfigure récursivement les conditions sous lesquelles ses propres descriptions deviennent lisibles, instables ou transformables.
+
+
+---
+
+18. Principe final
+
+> Il n’existe pas de séparation entre observation, diagnostic et transformation.
+
+Il existe seulement une dynamique unique de re-description dont CAP, OVM et Transition sont des inflexions locales.
+
+
+
+
+---
+
+19. Lecture synthétique
+
+CAP = lecture des tensions
+
+OVM = lecture des compatibilités
+
+Transition = lecture des reconfigurations
+
+
+Mais ces trois termes désignent une même opération sous trois angles non hiérarchisés.
+
+
+---
+
+20. Fermeture (anti-modulaire)
+
+Toute tentative de stabiliser CAP, OVM ou Transition comme entités séparées constitue déjà une re-stabilisation locale du système descriptif, et non une propriété du système lui-même.
+
+---
