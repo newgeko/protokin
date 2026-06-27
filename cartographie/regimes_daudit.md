@@ -1,36 +1,102 @@
-# Ontologie, Épistémologie et Herméneutique : Audit Protokin
+# Ontologie, Épistémologie et Herméneutique : registres d’audit Protokin
 
-Dans l'architecture du **Protokin cOS**, ces trois domaines ne sont pas de simples disciplines académiques, mais trois **registres d'audit** distincts permettant de vérifier la validité et la structure des systèmes descriptifs.
+Dans l’architecture du Protokin, l’ontologie, l’épistémologie et l’herméneutique ne constituent pas des niveaux hiérarchiques, mais des modes distincts et partiellement superposables d’audit des descriptions.
 
-## 1. L’Ontologie : "Qu’est-ce qui est ?" (La structure des invariants)
-C'est le registre qui définit les **invariants de base** d'un régime.
-* **Fonction :** Établir les "objets" ou les "entités" que le système considère comme réels pour fonctionner.
-* **Audit Protokin :** Questionne la nature du donné traité. (ex: est-ce un flux thermodynamique ? un fait brut ? un esprit pur ?).
-* **Exemple :** En P7 (Biologie), l'autopoïèse est postulée comme un invariant réel du vivant.
-* **Risque :** Le dogmatisme, si l'on confond l'ontologie du système avec le réel absolu.
+Une même configuration peut être analysée selon plusieurs régimes d’attention, sans ordre de priorité stable.
 
-## 2. L’Épistémologie : "Comment savons-nous ce que nous savons ?" (La validité du transfert)
-C'est le cœur de l'audit Protokin, évaluant la **légitimité du passage** d'une connaissance à une autre.
-* **Fonction :** Évaluer les conditions de vérité, la portée des modèles et la robustesse des chaînes d'inférence.
-* **Audit Protokin :** Valide le transport d'un concept d'un régime à un autre (Audit des Tensions T1, T2, T11).
-* **Exemple :** Vérifier si l'explication d'une institution sociale (P13) par un principe physique (P5) constitue une "compression multi-régime" illégitime.
-
-## 3. L’Herméneutique : "Comment lisons-nous ce que nous avons reçu ?" (La strate du sens)
-C'est le registre du **contrôle philologique et réceptif**.
-* **Fonction :** Interpréter le sens d'un discours en tenant compte de son contexte historique et de son inscription dans une "forme de vie".
-* **Audit Protokin :** Vérifie la profondeur de champ de la lecture : lecture fidèle ou projection (ex: analyse des sources de Girard).
 
 ---
 
-## Synthèse : Articulation dans le cOS
+1. L’herméneutique : conditions de lecture
 
-L'interaction de ces registres lors de l'audit d'un système est hiérarchisée :
+L’herméneutique désigne les conditions de lisibilité interne d’une description.
 
-1.  **Niveau Herméneutique (L'entrée) :** Compréhension du texte dans son propre langage sans déformation.
-2.  **Niveau Épistémologique (L'audit) :** Test de solidité, vérification des transferts (tensions T1-T11) et validité de la transposition.
-3.  **Niveau Ontologique (La cartographie) :** Détermination de l'ancrage réel du système (la structure finale de stabilisation).
+Elle interroge :
 
-### Analogies pour l'audit
-* **L'ontologie** est le "matériau" de la carte (les invariants).
-* **L'épistémologie** est la règle du compas (la validité du tracé).
-* **L'herméneutique** est la lecture de la légende (la compréhension du sens transmis).
+comment un discours produit du sens dans son propre cadre
+
+quelles formes de vie ou pratiques rendent cette lecture possible
+
+quelles projections perturbent cette cohérence interne
+
+
+👉 Fonction d’audit : détection des déformations de lecture et des sur-interprétations.
+
+
+---
+
+2. L’épistémologie : conditions de transfert
+
+L’épistémologie désigne les conditions de circulation des descriptions entre régimes.
+
+Elle interroge :
+
+la stabilité des chaînes d’inférence
+
+la compatibilité entre cadres descriptifs
+
+les phénomènes de compression ou de réduction inter-régimes
+
+
+👉 Fonction d’audit : détection des tensions de type T1, T2, T11.
+
+
+---
+
+3. L’ontologie : conditions de stabilisation des invariants
+
+L’ontologie désigne les conditions sous lesquelles un ensemble de distinctions devient stable dans un régime donné.
+
+Elle interroge :
+
+quels invariants sont activés
+
+quelles entités sont stabilisées comme pertinentes
+
+quelles frontières deviennent opératoires
+
+
+👉 Fonction d’audit : explicitation des conditions de stabilité locale, sans engagement sur une réalité ultime.
+
+
+---
+
+4. Régime d’articulation
+
+Ces trois registres ne sont pas ordonnés.
+
+Ils peuvent être activés :
+
+simultanément
+
+partiellement
+
+ou de manière contextuelle selon la nature de la tension observée
+
+
+Une même description peut être :
+
+lisible (herméneutique)
+
+transportable (épistémologique)
+
+stabilisée (ontologiquement située)
+
+
+sans que ces dimensions soient hiérarchisées.
+
+
+---
+
+5. Analogie corrigée
+
+L’herméneutique est une condition de lisibilité
+
+L’épistémologie est une condition de transport
+
+L’ontologie est une condition de stabilisation locale
+
+
+Aucune de ces dimensions ne constitue un “niveau final” de description.
+
+
