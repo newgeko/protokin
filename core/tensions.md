@@ -2,53 +2,50 @@
 
 🧭 Statut
 
-Les tensions inter-régimes ne sont ni des erreurs ni des contradictions.
+Les tensions inter-régimes ne sont ni des contradictions logiques, ni des erreurs, ni des propriétés du réel.
 
-Elles désignent des désalignements locaux de stabilisation entre régimes de couplage.
+Elles désignent des désalignements locaux entre systèmes de stabilisation descriptive.
 
 Une tension apparaît lorsque plusieurs régimes :
 
-sélectionnent des invariants différents
+sélectionnent des invariants différents ;
 
-utilisent des critères de validité incompatibles
+mobilisent des critères de validité incompatibles ;
 
-stabilisent différemment une même situation
+stabilisent différemment une même configuration descriptive.
+
+
 
 ---
 
 ⚙️ Principe général
 
-Aucun régime n’est méta-descriptif.
-
-Aucun régime ne possède de privilège ontologique.
+Un régime n’est ni hiérarchiquement supérieur ni méta-descriptif.
 
 Les tensions apparaissent lorsque :
 
-un régime est mobilisé hors de son domaine de stabilisation
+un même objet est stabilisé selon plusieurs ensembles de contraintes incompatibles ;
 
-plusieurs régimes décrivent une même situation sans traduction directe
+aucune traduction immédiate ne permet de préserver simultanément les stabilités locales ;
 
-un invariant change de statut selon le régime mobilisé
+un invariant change de fonction selon le régime mobilisé.
 
----
 
-🧠 Fonction des tensions
-
-Les tensions sont des opérateurs d’audit inter-régimes.
-
-Elles permettent de :
-
-localiser des désalignements
-
-qualifier le type d’incompatibilité
-
-signaler des zones de transition possibles
 
 ---
 
-🧩 Nature des tensions
+🧠 Statut des tensions
 
-Une tension n’est jamais :
+Une tension est :
+
+une relation de désalignement entre régimes
+
+détectée dans le cadre du CAP
+
+qualifiée par l’OVM
+
+
+Elle n’est pas :
 
 une contradiction logique
 
@@ -58,47 +55,120 @@ une propriété du réel
 
 une hiérarchie entre régimes
 
+un opérateur actif du système
 
-Une tension est uniquement :
 
-> une divergence de conditions de stabilisation descriptive
 
 ---
 
-🛠️ Fonction dans l’audit
+🧩 Fonction dans l’architecture
 
-Dans le Cycle d’Audit Protokin, les tensions servent à :
+Dans CAP
 
-1. Détection
+Les tensions constituent le signal primaire de désajustement :
 
-Identifier où les régimes divergent.
+elles apparaissent lors de la comparaison inter-régimes
 
-2. Qualification
+elles précèdent les saturations
 
-Typologiser la forme du désalignement.
+elles peuvent évoluer vers des zones critiques (ZAR / ZT / ZR)
 
-3. Navigation
 
-Repérer des zones où une transition peut être nécessaire (sans la produire).
+
+---
+
+Dans OVM
+
+L’OVM :
+
+identifie les tensions
+
+les typologise (T1–T11)
+
+contrôle leur origine (traduction, échelle, modalité, etc.)
+
+vérifie les transpositions illégitimes
+
+
+
+---
+
+Dans le système global
+
+Chaîne fonctionnelle :
+
+> désalignement → tension → CAP (localisation) → OVM (qualification) → transition ou rupture
+
+
+
+
+---
+
+🧠 Nature des tensions
+
+Les tensions sont des effets structurels de pluralité de régimes, et non des anomalies.
+
+Elles indiquent :
+
+les limites locales de traductibilité
+
+les zones de friction descriptive
+
+les points possibles de reconfiguration
+
+
+
+---
+
+🛠️ Fonction analytique
+
+Les tensions permettent :
+
+la détection des incompatibilités locales
+
+la qualification des désalignements (types T)
+
+l’identification de zones de transition possibles
+
+l’activation des procédures CAP / OVM
+
+
 
 ---
 
 🛡️ Garde-fous
 
-Une tension ne produit pas de transition
+Une tension :
 
-Une tension ne hiérarchise pas les régimes
+ne hiérarchise pas les régimes
 
-Une tension ne constitue pas un méta-langage
+ne produit pas de transition
 
-Une tension est toujours locale à une configuration d’audit
+ne constitue pas une méta-structure
 
-Une tension n’est pas une erreur mais un désalignement descriptif
+n’est pas une contradiction logique
+
+reste locale à une configuration d’audit
+
+
 
 ---
 
 🔄 Principe final
 
-Les tensions décrivent :
+Les tensions désignent les limites locales de compatibilité entre régimes de stabilisation descriptive.
 
-> les limites de compatibilité entre régimes de stabilisation
+
+---
+
+🧭 Conclusion
+
+✔️ Ton fichier initial était bon conceptuellement ⚠️ mais nécessitait :
+
+séparation stricte tension / OVM
+
+suppression du statut “opérateur”
+
+articulation explicite avec CAP
+
+clarification du statut relationnel
