@@ -1,439 +1,328 @@
 🧭 Protokin — PAR (Protokin Audit des Régimes)
 
-
 ---
 
-0. 🧩 Principe de Sélection des Régimes (PSR)
+🧩 Principe de Sélection des Régimes (PSR)
 
 Question fondamentale
 
-Pourquoi cette manière de décrire le monde s’est-elle stabilisée plutôt qu’une autre ?
-
+Pourquoi une certaine manière de décrire un domaine apparaît-elle comme stabilisée dans un contexte donné ?
 
 ---
 
 Définition
 
-Le PSR constitue le niveau génétique de l’architecture.
+Le PSR est un niveau analytique de reconstruction.
 
-Un régime n’apparaît jamais gratuitement. Il est sélectionné parce qu’il permet à un système de :
+Il ne décrit pas un mécanisme réel de sélection des régimes.
 
-maintenir une coordination ;
+Il modélise les conditions sous lesquelles une stabilisation descriptive peut être comprise comme ayant une fonction dans un système donné.
 
-réduire une incertitude ;
+Un régime est ainsi analysé comme une forme de stabilisation locale permettant notamment :
 
-stabiliser une interaction ;
+- une coordination plus stable ;
+- une réduction locale d’incertitude ;
+- une stabilisation d’interactions ;
+- la continuité d’une pratique descriptive.
 
-reproduire une pratique.
-
-
-L’objet d’enquête n’est donc pas la vérité d’un régime, mais les conditions de sa stabilisation.
-
+Ces fonctions ne sont pas des causes, mais des descriptions de leur rôle dans un cadre d’analyse.
 
 ---
 
 Questions directrices
 
-Quel problème ce régime résout-il ?
-
-Quelle coordination rend-il possible ?
-
-Quels invariants sélectionne-t-il ?
-
-Quels coûts permet-il d’éviter ?
-
-Quels acteurs bénéficient de sa stabilisation ?
-
-Quels mécanismes assurent sa reproduction ?
-
-Quelles alternatives ont été écartées ?
-
-
+- Quel problème ce régime permet-il de traiter dans le cadre étudié ?
+- Quelles formes de coordination rend-il possibles ?
+- Quels invariants rend-il disponibles ?
+- Quelles distinctions permet-il de stabiliser ?
+- Quels coûts descriptifs permet-il d’éviter ?
+- Quelles alternatives sont rendues marginales dans ce cadre ?
+- Comment ce régime est-il reproduit ou maintenu (pratiques, institutions, usages) ?
 
 ---
 
 Diagnostic produit
 
-Le régime apparaît comme une réponse adaptative à un problème de coordination.
-
+Reconstruction des conditions de stabilisation locale d’un régime descriptif.
 
 ---
 
-1. 🧩 Régimes de Description
+🧩 Régimes de description
 
 Question fondamentale
 
-Que devient le réel lorsqu’il est observé depuis ce régime ?
-
+Que rend visible ce régime lorsqu’il est utilisé comme cadre d’analyse ?
 
 ---
 
 Définition
 
-Ici commence l’analyse proprement dite.
+Un régime est un outil descriptif permettant de structurer un domaine.
 
-Chaque régime produit une découpe spécifique du monde.
+Il ne reflète pas le réel.
 
-Il :
+Il organise ce qui devient :
 
-rend certaines choses visibles ;
+- visible ;
+- pertinent ;
+- explicable ;
+- justifiable.
 
-en rend d’autres invisibles.
-
-
-L’enjeu n’est pas de déterminer lequel est vrai, mais ce qu’il permet effectivement de voir.
-
+Il rend également invisibles certaines autres formes de description.
 
 ---
 
 Questions directrices
 
-Quels sont les objets reconnus ?
-
-Quels sont les invariants retenus ?
-
-Que compte-t-on comme preuve ?
-
-Qu’est-ce qui est considéré comme causal ?
-
-Qu’est-ce qui est considéré comme pertinent ?
-
-Quels phénomènes deviennent invisibles ?
-
-Quel langage est utilisé ?
-
-
+- Quels objets deviennent pertinents ?
+- Quels invariants sont stabilisés ?
+- Quels critères de validité sont utilisés ?
+- Qu’est-ce qui compte comme preuve dans ce régime ?
+- Qu’est-ce qui compte comme explication ?
+- Quels éléments deviennent inaccessibles ou secondaires ?
+- Quel vocabulaire organise la description ?
 
 ---
 
 Diagnostic produit
 
-Cartographie des capacités descriptives et des angles morts du régime.
-
+Cartographie des effets de cadrage descriptif.
 
 ---
 
-2. ⚠️ Tensions
+⚠️ Tensions
 
 Question fondamentale
 
-Où les descriptions cessent-elles d’être compatibles ?
-
+Où observe-t-on une incompatibilité entre deux cadres descriptifs ?
 
 ---
 
 Définition
 
-Les tensions apparaissent lorsque plusieurs régimes cherchent à décrire le même phénomène.
+Une tension est une relation entre régimes dans laquelle :
 
-L’objectif n’est pas de choisir un camp, mais de localiser précisément le point de friction.
-
+- les critères de validité divergent ;
+- les niveaux d’analyse ne sont pas alignés ;
+- ou les traductions produisent une perte de structure.
 
 ---
 
 Questions directrices
 
-Quels régimes sont en conflit ?
-
-Quel invariant est contesté ?
-
-Les régimes parlent-ils réellement du même objet ?
-
-Utilisent-ils des critères de validité différents ?
-
-Existe-t-il une erreur de traduction ?
-
-Existe-t-il un changement d’échelle ?
-
-Existe-t-il une incompatibilité normative ?
-
-
+- Quels régimes sont mobilisés simultanément ?
+- Quels critères de validité divergent ?
+- Existe-t-il un glissement de niveau non explicité ?
+- Les objets sont-ils réellement comparables ?
+- Y a-t-il une erreur de traduction conceptuelle ?
 
 ---
 
 Diagnostic produit
 
-Typologie de la friction observée entre régimes.
-
+Description des points de friction entre cadres.
 
 ---
 
-3. 📉 Saturation
+📉 Saturation
 
 Question fondamentale
 
-À partir de quel moment le régime ne parvient-il plus à absorber la complexité du phénomène ?
-
+À quel moment un régime perd-il sa capacité descriptive locale ?
 
 ---
 
 Définition
 
-La saturation marque la limite de rentabilité descriptive.
-
-Le régime peut continuer à fonctionner localement, mais son coût explicatif devient excessif.
-
+La saturation désigne une situation où un régime nécessite un coût croissant pour maintenir sa cohérence.
 
 ---
 
-Questions directrices
+Indicateurs
 
-Combien d’exceptions doivent être ajoutées ?
-
-Les prédictions deviennent-elles instables ?
-
-Les concepts deviennent-ils de plus en plus vagues ?
-
-Les contradictions internes se multiplient-elles ?
-
-Le régime exige-t-il des hypothèses ad hoc ?
-
-Perd-il sa capacité de compression ?
-
-
+- multiplication d’exceptions locales ;
+- instabilité des concepts ;
+- dépendance à des ajustements ad hoc ;
+- perte de capacité de compression ;
+- augmentation des reformulations.
 
 ---
 
 Diagnostic produit
 
-Identification de la frontière de validité du régime.
-
+Identification des limites internes de stabilisation.
 
 ---
 
-4. ⚙️ CAP — Cycle d’Audit Protokin
+⚙️ CAP — Cycle d’Audit Protokin
 
 Question fondamentale
 
-Quelle partie du dispositif produit réellement la saturation ?
-
+Quelle structure rend compte de la saturation observée ?
 
 ---
 
 Définition
 
-Le CAP constitue l’opération analytique centrale du système.
+CAP est une procédure analytique de décomposition.
 
-Il vise à décomposer le problème.
+Il ne détermine pas une cause réelle.
 
+Il reconstruit des facteurs possibles de déséquilibre.
 
 ---
 
 Questions directrices
 
-Le problème provient-il d’un invariant ?
-
-D’une frontière ?
-
-D’une règle de traduction ?
-
-D’une confusion d’échelle ?
-
-D’un changement de contexte ?
-
-D’une modification de l’environnement ?
-
-D’un conflit normatif ?
-
-
+- Le problème provient-il d’un invariant instable ?
+- D’une frontière mal définie ?
+- D’un changement d’échelle ?
+- D’une règle de traduction implicite ?
+- D’un changement de contexte ?
+- D’un conflit normatif ?
 
 ---
 
 Diagnostic produit
 
-Isolation du mécanisme exact de défaillance.
-
+Modélisation des sources possibles de désalignement.
 
 ---
 
-5. 🧠 OVM — Opérateur de Vigilance Modale
+🧠 OVM — Opérateur de Vigilance Modale
 
 Question fondamentale
 
-La solution proposée respecte-t-elle l’autonomie des régimes concernés ?
-
+La correction proposée respecte-t-elle la distinction entre les régimes ?
 
 ---
 
 Définition
 
-L’OVM joue un rôle épistémologique.
+OVM est un opérateur de contrôle conceptuel.
 
-Il vérifie que la résolution ne repose pas sur un raccourci illégitime.
+Il ne valide pas la vérité d’une solution.
 
+Il vérifie la cohérence des transformations proposées.
 
 ---
 
-Questions directrices
+Critères
 
-Y a-t-il réduction abusive ?
-
-Y a-t-il confusion entre causes et raisons ?
-
-Y a-t-il fusion artificielle de deux régimes ?
-
-Une émergence est-elle traitée comme une illusion ?
-
-Une norme est-elle ramenée à un mécanisme ?
-
-Un mécanisme est-il transformé abusivement en norme ?
-
-
+- réduction abusive d’un régime à un autre ;
+- confusion cause / raison ;
+- naturalisation de normes ;
+- interprétation mécaniste de faits normatifs ;
+- fusion non justifiée de niveaux descriptifs.
 
 ---
 
 Diagnostic produit
 
-Validation ou rejet de la transition envisagée.
-
+Évaluation de la cohérence des transitions proposées.
 
 ---
 
-6. 🔁 Transitions
+🔁 Transitions
 
 Question fondamentale
 
-Quelle reconfiguration permet de restaurer une stabilité descriptive ?
-
+Quelles transformations descriptives sont possibles sans perte de cohérence locale ?
 
 ---
 
 Définition
 
-Une transition n’est jamais une vérité finale.
+Une transition est une reconfiguration locale des cadres descriptifs.
 
-Elle constitue une solution locale à une saturation locale.
-
+Elle n’est ni une vérité supérieure ni une correction absolue.
 
 ---
 
-Questions directrices
+Types de transitions
 
-Faut-il réinterpréter ?
-
-Faut-il changer d’échelle ?
-
-Faut-il créer un nouveau régime ?
-
-Faut-il reconnaître une émergence ?
-
-Faut-il accepter une rupture ?
-
-Quels invariants doivent être conservés ?
-
-Quels invariants doivent être abandonnés ?
-
-
+- changement d’échelle ;
+- réinterprétation locale ;
+- introduction d’un nouveau régime ;
+- reconnaissance d’une rupture ;
+- reconfiguration partielle des invariants.
 
 ---
 
 Diagnostic produit
 
-Choix d’une trajectoire de reconfiguration.
-
+Cartographie des transformations possibles.
 
 ---
 
-7. 🚧 Zones de Rupture (ZR)
+🚧 Zones de rupture (ZR)
 
 Question fondamentale
 
-Où la traduction cesse-t-elle d’être possible ?
-
+Où la traduction entre régimes échoue-t-elle structurellement ?
 
 ---
 
 Définition
 
-Les Zones de Rupture représentent les limites structurelles de l’architecture.
-
-Elles correspondent aux points où aucun ajustement progressif ne permet de résoudre la tension.
-
+Une zone de rupture correspond à une impossibilité de stabiliser une traduction entre cadres sans perte majeure de structure.
 
 ---
 
-Questions directrices
+Critères
 
-Les deux régimes parlent-ils encore du même type d’objet ?
-
-Les critères de validité restent-ils compatibles ?
-
-Les concepts fondamentaux sont-ils traduisibles ?
-
-Une continuité est-elle démontrable ?
-
-Une rupture de langage est-elle nécessaire ?
-
-Un nouveau vocabulaire doit-il être introduit ?
-
-
+- absence de critères communs ;
+- incompatibilité persistante des descriptions ;
+- rupture de continuité interprétative ;
+- impossibilité de stabilisation partagée.
 
 ---
 
 Diagnostic produit
 
-Reconnaissance d’une discontinuité irréductible.
-
+Détection des discontinuités non résorbables.
 
 ---
 
-8. 🧭 Métaniveau — Audit de l’audit
+🧭 Métaniveau — Audit de l’audit
 
 Question fondamentale
 
-Pourquoi cet observateur utilise-t-il cette cartographie plutôt qu’une autre ?
-
+Quels sont les effets du cadre d’audit lui-même sur ce qu’il rend visible ?
 
 ---
 
 Définition
 
-C’est probablement le niveau le plus important à long terme.
-
-Protokin devient lui-même un régime descriptif.
-
-Il doit donc accepter d’être soumis à sa propre méthode.
-
+Le métaniveau consiste à appliquer PAR à ses propres conditions d’usage.
 
 ---
 
 Questions directrices
 
-Quels problèmes Protokin résout-il ?
-
-Quels sont ses propres invariants ?
-
-Quels sont ses angles morts ?
-
-Dans quelles situations sature-t-il ?
-
-Quelles tensions ne parvient-il pas à cartographier ?
-
-Existe-t-il des phénomènes qui échappent à la logique des régimes ?
-
-Quelle serait une tension T15 contre Protokin lui-même ?
-
-
+- Que rend visible ce cadre ?
+- Que rend-il difficile à voir ?
+- Quels sont ses invariants implicites ?
+- Dans quelles situations devient-il instable ?
+- Quelles tensions ne peut-il pas modéliser ?
 
 ---
 
 Diagnostic produit
 
-Possibilité d’un CAP réflexif.
-
+Analyse réflexive des limites du cadre d’audit.
 
 ---
 
-🧠 Conclusion implicite du système
+🧠 Conclusion
 
-Protokin (PAR) constitue un cadre :
+PAR est un dispositif d’analyse permettant de :
 
-non ontologique ;
+- reconstruire des régimes descriptifs ;
+- identifier leurs effets de stabilisation ;
+- repérer leurs tensions internes ;
+- analyser leurs conditions de transformation.
 
-non hiérarchique ;
+Il ne décrit pas le réel.
 
-fondé sur des régimes de description ;
-
-stabilisé par des tensions plutôt que par des identités ;
-
-opérant par audit et reconfiguration.
+Il décrit les conditions sous lesquelles des descriptions du réel deviennent possibles et stables.
