@@ -77,6 +77,7 @@ The project explores systems at the intersection of:
 
 ## Repository Structure
 
+- `/core`      → Engine, regime taxonomies, and foundational
 - `/cases` → individual theoretical analyses
 - `/methods` → reading protocols and comparison tools
 - `/synthesis` → cross-case structural patterns
