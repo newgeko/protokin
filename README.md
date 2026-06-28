@@ -1,182 +1,96 @@
-# Protokin — Inference Studies Lab
+# Protokin — Inference & Description Studies Lab
 
 ## Overview
 
-Protokin is a structured research environment dedicated to the comparative analysis of **inference regimes** across contemporary theories of cognition, agency, language, and normativity.
+Protokin is a research environment dedicated to the comparative study of how contemporary theories construct, stabilize, and transform their systems of explanation.
 
-Rather than proposing a unified theory of mind or intelligence, Protokin investigates how different theoretical frameworks **construct, stabilize, and transform their own models of inference**.
-
-It operates as a **meta-analytical reading space**, not as a theoretical system.
+It focuses on **descriptive regimes**, not on a unified theory of cognition or intelligence.
 
 ---
 
 ## Core Aim
 
-The central aim of Protokin is to study how heterogeneous systems define:
+Protokin investigates how different theoretical frameworks define:
 
-- what counts as inference
-- what counts as valid reasoning or prediction
-- how perception and action are coupled
-- how norms of justification are established
-- how systems fail, saturate, or reorganize
+- what counts as a valid description
+- what counts as inference or justification
+- how models couple with the systems they describe
+- how conceptual systems fail, saturate, or transform
 
-Each theoretical framework is treated as a **locally coherent inference regime**, not as a partial view of a single underlying truth.
-
----
-
-## Fundamental Hypothesis
-
-Different theories of cognition and intelligence do not compete on a single explanatory axis.
-
-Instead, they instantiate distinct:
-
-> **regimes of inference stabilization**
-
-A regime of inference is a structured configuration of:
-
-- epistemic norms
-- representational assumptions
-- inference rules
-- coupling between agent and environment
-- criteria of success and failure
-
-Protokin studies the conditions under which these regimes emerge, persist, and transform.
+Each framework is treated as a **locally coherent descriptive regime**.
 
 ---
 
-## Methodological Position
+## Fundamental Idea
 
-Protokin is not:
+Different scientific and philosophical models do not describe the same reality in different ways.
 
-- a cognitive theory
-- a philosophy of mind
-- a unifying model of intelligence
-- a metaphysical framework
+They construct different:
 
-It is:
+> **regimes of description and inference**
 
-> a comparative epistemology of inference systems
+A regime defines:
 
-Its method is based on structured exegesis and comparative analysis of theoretical texts.
-
----
-
-## Analytical Procedure (Reading Protocol)
-
-Each case is analyzed according to a shared protocol:
-
-### 1. Inference Structure
-What is considered inference in the system?
-
-- causal inference
-- probabilistic inference
-- normative inference
-- embodied or enactive inference
+- what can be observed
+- what can be inferred
+- what counts as explanation
+- what counts as failure
 
 ---
 
-### 2. Regime of Validity
-What makes an inference valid within the system?
+## Method
 
-- empirical adequacy
-- predictive success
-- logical coherence
-- normative justification
-- pragmatic effectiveness
+Protokin is not a theory.
 
----
+It is a **comparative reading protocol** based on structured exegesis of theoretical texts.
 
-### 3. Perception–Action Coupling
-How are perception, action, and internal modeling related?
+Each case is analyzed through:
 
-- separation (classical cognition)
-- coupling (predictive processing)
-- circular control loops (active inference)
+- its inferential structure
+- its criteria of validity
+- its coupling between model and environment
+- its failure modes and limits of stability
 
 ---
 
-### 4. Failure Modes
-How does the system break down?
+## Core Domains
 
-- prediction error accumulation
-- normative contradiction
-- representational mismatch
-- saturation or complexity collapse
+The project explores systems at the intersection of:
 
----
-
-### 5. Stability Conditions
-What allows the system to persist?
-
-- feedback loops
-- normative enforcement
-- statistical regularization
-- environmental coupling
+- cognition and neuroscience
+- philosophy of language and normativity
+- systems theory and cybernetics
+- artificial intelligence and agency models
 
 ---
 
-## Core Objects of Study
-
-Protokin focuses on structured case studies, including:
+## Example Case Studies
 
 - Active Inference
 - predictive processing frameworks
-- inferentialism (Sellars / Brandom tradition)
-- Bayesian brain models
+- inferentialism (Sellars, Brandom)
+- Bayesian cognition models
 - AI agent architectures
-- normative and socio-cognitive systems
-
-Each case is treated as a **locally valid inference regime**.
+- normative and social systems
 
 ---
 
-## Comparative Framework
+## Repository Structure
 
-The goal is not synthesis or reduction, but structured comparison.
-
-Protokin identifies:
-
-- structural invariants across systems
-- differences in inference definitions
-- variations in normativity
-- transitions between regimes
-- points of conceptual tension
-
-This produces a **map of inference architectures**, not a unified theory.
+- `/cases` → individual theoretical analyses
+- `/methods` → reading protocols and comparison tools
+- `/synthesis` → cross-case structural patterns
+- `/docs` → conceptual overview and glossary
 
 ---
 
-## Meta-Level Analysis
+## Output
 
-At a higher level, Protokin examines:
+The goal is not theoretical unification.
 
-- how inference regimes stabilize internally
-- how they respond to anomalies or overload
-- how they transform under external or internal pressure
-- how new regimes emerge from prior structures
+It is:
 
-This meta-level is sometimes referred to as the **Protokin layer**.
-
-It does not introduce new explanations of cognition, but observes the conditions under which explanations themselves are formed.
-
----
-
-## Structure of the Repository
-
-- `/cases` → individual theoretical exegeses
-- `/methods` → reading protocols and analytical tools
-- `/synthesis` → cross-case comparisons and structural patterns
-- `/docs` → conceptual framework and glossary
-
----
-
-## Output of the Project
-
-The expected output of Protokin is not a theory, but:
-
-> a structured epistemic map of contemporary inference systems
-
-This map highlights how different frameworks organize cognition, justification, and action.
+> a structured map of contemporary regimes of inference and description
 
 ---
 
@@ -186,13 +100,7 @@ Protokin is:
 
 - exploratory
 - modular
-- evolving
 - non-totalizing
+- evolving
 
-It is a research environment for comparative epistemology rather than a closed system.
-
----
-
-## License
-
-To be defined.
+It is a framework for comparative epistemology, not a closed system.
