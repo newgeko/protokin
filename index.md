@@ -1,10 +1,3 @@
-Voici une version enrichie de l’index.md avec vraie logique de navigation + “pseudo-UI cognitive” plus cohérente + intégration Mermaid + structure de navigation exploitable GitHub.
-
-On garde ton idée d’interface mentale, mais on la rend plus stable, moins fictionnelle, plus “tool-like sérieux”.
-
-
----
-
 # Protokin
 
 ## A reading interface for descriptive and inferential systems
