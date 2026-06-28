@@ -1,0 +1,12 @@
+L'apport de Maurice Merleau-Ponty à l'inférence active est avant tout de nature philosophique et fondationnelle. Bien qu'il n'ait pas formulé la théorie mathématique de l'inférence active (qui a été développée plus tard par des chercheurs comme Karl Friston), ses travaux en phénoménologie ont posé les racines conceptuelles de la **cognition incarnée**, qui a elle-même directement inspiré les théories du cerveau prédictif et de l'inférence active.
+
+Ses contributions majeures qui ont préparé le terrain pour l'inférence active se déclinent en plusieurs points clés :
+
+*   **Le rejet du dualisme cartésien :** Historiquement, la vision dominante considérait la pensée comme un calcul abstrait, séparant rigidement l'esprit du corps. Merleau-Ponty a fondamentalement rejeté cette vision en introduisant l'idée du **« sujet incarné »** et de l'**« intercorporéité »**.
+*   **Le concept du « corps vécu » (*le corps vécu*) :** Profondément influencé par Edmund Husserl et Martin Heidegger, Merleau-Ponty a souligné que le corps n'est pas un simple objet, mais qu'il est le sujet de l'expérience et une source primordiale d'agentivité. Il a mis en évidence le rôle crucial du mouvement corporel et de la sensation pour façonner notre perception du monde.
+*   **L'inséparabilité de la perception, de l'action et de l'environnement :** En démontrant que notre engagement corporel façonne fondamentalement notre perception, les travaux de Merleau-Ponty ont établi l'inséparabilité du corps et de la cognition. 
+
+**Le lien avec l'inférence active :**
+Ces idées ont provoqué un changement de paradigme éloignant la science des vues abstraites et désincarnées de l'esprit pour aller vers la cognition incarnée. Ces théories incarnées ont ensuite encouragé le développement de modèles d'intelligence artificielle et de neurosciences basés sur l'**inférence active** et le principe de l'énergie libre. 
+
+En effet, l'inférence active explique que le cerveau (ou un agent) minimise la « surprise » ou l'erreur de prédiction grâce à des **boucles de perception-action** continues, où l'action sert à modifier l'environnement pour qu'il corresponde aux prédictions internes. L'insistance de Merleau-Ponty sur le fait que la perception n'est pas une réception passive, mais un processus indissociable de l'action corporelle et de l'engagement dynamique avec le monde, constitue l'ancrage phénoménologique profond de ces mécanismes d'inférence active.
