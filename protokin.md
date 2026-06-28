@@ -51,7 +51,7 @@ Cette couche n’est pas étymologiquement grecque, mais elle introduit une dime
 
 ---
 
-Effet de superposition sémantique
+## Effet de superposition sémantique
 
 La combinaison de ces couches produit une structure interprétative à trois niveaux :
 
@@ -65,7 +65,7 @@ Il en résulte une configuration non univoque du nom :
 
 ---
 
-Statut du nom
+## Statut du nom
 
 Le nom Protokin a donc trois statuts distincts :
 
