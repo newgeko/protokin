@@ -1,68 +1,58 @@
-# Protokin
+# Protokin — Inference Studies Lab
 
-Protokin est un dispositif d’analyse des **conditions de stabilisation, de tension et de transformation des régimes descriptifs**.
+Protokin is a structured reading and analysis environment for contemporary theories of inference, cognition, agency, and normative systems.
 
-Il ne propose pas une nouvelle théorie du monde, mais une analyse des cadres à travers lesquels le monde est décrit, interprété et stabilisé.
+It does not propose a unified theory.
 
----
-
-## Objectif
-
-Protokin étudie comment des systèmes de description :
-
-- se stabilisent ;
-- entrent en tension ;
-- atteignent des seuils de saturation ;
-- se transforment ou se remplacent.
+It provides a **comparative exegesis framework** for studying how different systems model inference, action, and meaning.
 
 ---
 
-## Positionnement
+## 🎯 Objective
 
-Protokin ne se situe pas :
+To analyze and compare how different theoretical frameworks construct:
 
-- dans une ontologie des objets,
-- ni dans une théorie causale unifiée,
-- ni dans une théorie normative des raisons.
-
-Il se situe au niveau méta-descriptif :
-
-> l’analyse des conditions de possibilité des régimes de description.
+- inference (logical, probabilistic, embodied)
+- perception-action coupling
+- normativity and justification
+- cognitive and artificial agency
 
 ---
 
-## Concepts clés
+## 📚 Core Domains
 
-### Régime descriptif
-Un ensemble stabilisé de pratiques, normes et critères définissant ce qui compte comme une explication valide.
+This repository focuses on structured case studies:
 
-### Transition
-Passage d’un régime descriptif à un autre sous contrainte interne ou externe.
-
-### Saturation
-Moment où un régime ne peut plus absorber certaines anomalies ou tensions internes.
-
-### Kernel
-Dispositif d’audit des régimes descriptifs et de leurs transitions.
+- Active Inference (Friston)
+- Predictive Processing
+- Inferentialism (Brandom, Sellars)
+- Bayesian cognition
+- AI agent architectures
+- Normative and socio-cognitive systems
 
 ---
 
-## Statut du nom
+## 🧠 Method
 
-Le nom *Protokin* provient d’un choix de domaine (`protokin.com`).
+Protokin is not a theory.
 
-Les interprétations étymologiques (*proto* / *kin*, kinship) sont des couches secondaires de lecture, non fondatrices.
+It is a **reading protocol** that operates through:
 
----
-
-## Documentation
-
-- `/docs` → développement conceptuel complet
-- `/docs/kernel.md` → fonctionnement du Kernel
-- `/docs/philosophy.md` → analyse épistémologique complète
+- structured exegesis of texts
+- comparison of inference regimes
+- detection of conceptual tensions
+- mapping of transformation patterns
 
 ---
 
-## Licence
+## 📁 Structure
 
-À définir.
+See `/cases`, `/methods`, and `/synthesis` for the full analytical architecture.
+
+---
+
+## ⚠️ Status
+
+This project is exploratory, modular, and evolving.
+
+It is not a closed system.
