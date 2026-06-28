@@ -1,0 +1,11 @@
+L'apport de Francisco Varela à l'inférence active réside dans le développement de cadres conceptuels fondamentaux, en particulier l'**autopoïèse** et l'**énactivisme**, qui ont façonné les fondations mêmes de cette théorie. Tout comme Merleau-Ponty, Varela n'a pas créé les mathématiques de l'inférence active, mais ses travaux ont impulsé le changement de paradigme qui a rendu cette théorie possible.
+
+Ses contributions principales se détaillent ainsi :
+
+*   **L'autopoïèse et la co-création du monde :** Avec Humberto Maturana, Varela a introduit le concept d'autopoïèse pour définir les systèmes vivants par leur capacité à s'autoproduire. Selon cette vision, le cerveau, le corps et l'environnement sont profondément imbriqués. Ils ont avancé l'idée que la réalité n'est pas objective et passivement reçue, mais que **nous créons notre monde à travers nos interactions incarnées**.
+*   **La théorie de l'énaction (énactivisme) :** Dans son œuvre majeure coécrite avec Thompson et Rosch en 1991, Varela a défini l'« énaction » pour décrire une pensée qui déborde des frontières physiques du cerveau pour s'étendre au corps et à l'environnement. L'énactivisme soutient que **la cognition émerge de notre engagement actif avec l'environnement et de notre capacité à adapter créativement nos actions aux situations**, s'opposant ainsi à la vision classique d'un esprit fonctionnant uniquement par représentations internes.
+
+**Le lien direct avec l'inférence active :**
+L'essor des sciences cognitives incarnées dans les années 1990, propulsé par l'énactivisme de Varela, a remis en question les modèles computationnels traditionnels. C'est sur ce socle que s'est développée l'inférence active au tournant du millénaire. 
+
+En effet, l'inférence active est formellement décrite comme une **« généralisation énactive du traitement prédictif »**. Elle traduit en termes mathématiques (la minimisation de l'énergie libre) le principe posé par Varela : un agent ne se contente pas de traiter passivement de l'information, mais il interagit activement avec son environnement (par des boucles d'action et de perception) pour réduire ses incertitudes et s'adapter au monde. L'énactivisme de Varela a donc fourni le terreau philosophique et cognitif sur lequel repose l'architecture de l'inférence active.
