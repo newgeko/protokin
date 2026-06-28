@@ -1,56 +1,63 @@
-🔁 PASS — Protokin Application Sequential System
+# 🔁 PASS — Protokin Application Sequential System
 
-Objet du système
+🔗 Système parent :
+- Architecture générale → *voir le cadre global du système Protokin*
+- PAR (Protokin Audit des Régimes) → https://github.com/PROTOKIN/architecture#par (ou section correspondante locale)
 
-PASS (Protokin Application Sequential System) est le protocole opératoire permettant d'appliquer PAR (Protokin Audit des Régimes) à un corpus, un texte, une théorie, une pratique ou toute configuration descriptive.
+---
 
-PASS transforme PAR d'un cadre conceptuel en une procédure d'audit reproductible.
+## 🧭 Objet du système
 
-Son objectif n'est pas d'interpréter un contenu ni de produire une vérité sur celui-ci, mais d'organiser les conditions permettant d'analyser :
+PASS (Protokin Application Sequential System) est le protocole opératoire permettant d'appliquer **PAR (Protokin Audit des Régimes)** à :
+
+- un corpus ;
+- un texte ;
+- une théorie ;
+- une pratique institutionnelle ;
+- un dispositif technique ;
+- toute configuration descriptive structurée.
+
+---
+
+### Fonction générale
+
+PASS transforme PAR d’un cadre conceptuel en une procédure d’audit reproductible.
+
+Son objectif n’est pas :
+- d’interpréter un contenu ;
+- ni de produire une vérité sur celui-ci.
+
+Mais d’organiser les conditions permettant d’analyser :
 
 - les régimes descriptifs mobilisés ;
-- leurs relations ;
-- leurs zones de stabilité ;
-- leurs tensions ;
+- leurs relations inférentielles ;
+- leurs zones de stabilité locale ;
+- leurs tensions structurelles ;
 - leurs transformations possibles.
 
 ---
 
-Principe général
+## 🧩 Principe général
 
-PASS organise l'analyse comme une succession d'opérations ordonnées.
+PASS organise l’analyse comme une **succession ordonnée d’opérations contraintes**.
 
-Le processus conduit :
+Le processus logique est le suivant :
 
-Configuration initiale
-        ↓
-Segmentation
-        ↓
-Identification des régimes
-        ↓
-Détection des tensions
-        ↓
-Analyse de saturation
-        ↓
-CAP
-        ↓
-OVM
-        ↓
-Transitions
-        ↓
-Zones de rupture
-        ↓
-Métaniveau (optionnel)
-
-PASS ne produit pas une interprétation.
-
-PASS produit une cartographie des conditions descriptives mobilisées dans un domaine donné.
+Configuration initiale ↓ Segmentation ↓ Identification des régimes ↓ Détection des tensions ↓ Analyse de saturation ↓ CAP ↓ OVM ↓ Transitions ↓ Zones de rupture (ZR) ↓ Métaniveau (optionnel)
 
 ---
 
-Entrées et sorties
+### Statut épistémologique
 
-Entrées
+PASS ne produit pas une interprétation.
+
+PASS produit une **cartographie des conditions de stabilité, d’instabilité et de transformation des descriptions** dans un domaine donné.
+
+---
+
+## 📥 Entrées et sorties
+
+### Entrées
 
 PASS peut être appliqué à :
 
@@ -62,206 +69,226 @@ PASS peut être appliqué à :
 - un dispositif technique ;
 - un cadre conceptuel.
 
-Sorties
+---
 
-PASS produit une cartographie comprenant :
+### Sorties
 
-- les régimes descriptifs identifiés ;
-- les tensions observées ;
-- les zones de saturation ;
-- les diagnostics CAP ;
-- les validations OVM ;
-- les transitions envisageables ;
-- les zones de rupture ;
-- les analyses réflexives éventuelles.
+PASS produit une cartographie structurée comprenant :
+
+- régimes descriptifs identifiés ;
+- tensions inter-régimes ;
+- zones de saturation ;
+- diagnostics CAP ;
+- validations OVM ;
+- transitions possibles ;
+- zones de rupture (ZR) ;
+- analyses réflexives (métaniveau).
 
 ---
 
-Procédure séquentielle
+## 🔁 Procédure séquentielle
 
-Les opérations de PASS suivent un ordre logique.
+Les opérations de PASS suivent un ordre logique contraint.
 
-Les résultats d'une étape servent de contraintes pour les étapes suivantes.
+Chaque étape produit des contraintes pour les suivantes.
 
 ---
 
-Étape 1 — Segmentation
+## 🧩 Étape 1 — Segmentation
 
-Identifier les unités pertinentes d'analyse.
+### Objectif
+Identifier les unités pertinentes d’analyse.
 
-Les critères peuvent inclure :
-
+### Critères possibles
 - changement de problématique ;
 - changement de niveau descriptif ;
 - changement de critère de validité ;
 - changement de registre explicatif ;
 - changement de fonction argumentative.
 
-Objectif
-
-Construire les unités sur lesquelles l'audit sera effectué.
-
----
-
-Étape 2 — Identification des régimes
-
-Repérer les régimes descriptifs mobilisés dans chaque unité.
-
-L'objectif n'est pas d'attribuer une essence à un segment mais d'identifier les formes de stabilisation qui y sont opérantes.
-
-Objectif
-
-Cartographier les cadres descriptifs activés.
+### Résultat
+Construction d’unités d’analyse stabilisées.
 
 ---
 
-Étape 3 — Détection des tensions
+## 🧠 Étape 2 — Identification des régimes
 
-Comparer les régimes identifiés.
+### Objectif
+Identifier les régimes descriptifs mobilisés dans chaque unité.
 
-Repérer notamment :
+### Statut analytique
+Un régime n’est pas une essence du discours, mais une **structure locale de stabilisation des critères de validité**.
 
-- incompatibilités de critères ;
-- changements d'échelle non explicités ;
-- conflits normatifs ;
+### Résultat
+Cartographie des cadres descriptifs activés.
+
+---
+
+## ⚠️ Étape 3 — Détection des tensions
+
+### Objectif
+Identifier les incompatibilités entre régimes.
+
+### Types de tensions
+- incompatibilités de critères de validité ;
+- changements d’échelle non explicités ;
+- conflits normatifs implicites ;
 - glissements conceptuels ;
-- traductions problématiques entre régimes.
+- traductions inter-régimes instables.
 
-Objectif
-
-Identifier les zones de friction descriptive.
+### Résultat
+Localisation des zones de friction descriptive.
 
 ---
 
-Étape 4 — Analyse de saturation
+## 📉 Étape 4 — Analyse de saturation
 
-Repérer les situations dans lesquelles un régime rencontre ses limites de stabilisation.
+### Objectif
+Identifier les limites internes d’un régime.
 
-Indicateurs possibles :
-
-- multiplication d'exceptions ;
+### Indicateurs
+- multiplication d’exceptions ;
 - perte de pouvoir descriptif ;
 - surcharge explicative ;
-- prolifération d'hypothèses auxiliaires ;
-- ambiguïté croissante des catégories mobilisées.
+- prolifération d’hypothèses auxiliaires ;
+- instabilité des catégories.
 
-Objectif
-
-Identifier les limites locales d'un régime.
+### Résultat
+Détermination des seuils de stabilité locale.
 
 ---
 
-Étape 5 — CAP
+## ⚙️ Étape 5 — CAP (Cycle d’Audit Protokin)
 
-Cycle d'Audit Protokin
+### Objectif
+Identifier les conditions structurales associées à une saturation.
 
-CAP vise à identifier les mécanismes responsables des saturations observées.
-
-Causes typiques :
-
+### Types de conditions
 - invariant instable ;
 - frontière descriptive mal définie ;
-- confusion d'échelle ;
-- traduction incomplète ;
+- confusion d’échelle ;
+- problème de traduction inter-régimes ;
 - changement de contexte non traité ;
 - conflit normatif implicite.
 
-Objectif
-
-Localiser la source structurelle de l'instabilité.
-
----
-
-Étape 6 — OVM
-
-Opérateur de Vigilance Modale
-
-OVM évalue les solutions envisagées et contrôle leur cohérence modale.
-
-Il surveille notamment :
-
-- les réductions abusives ;
-- les confusions entre causes et raisons ;
-- les naturalisations de normes ;
-- les normativisations de mécanismes ;
-- les assimilations illégitimes d'émergences.
-
-Objectif
-
-Préserver les distinctions descriptives pertinentes.
+### Statut
+CAP n’explique pas causalement :
+il **localise des conditions de défaillance structurelle**.
 
 ---
 
-Étape 7 — Transitions
+## 🧠 Étape 6 — OVM (Opérateur de Vigilance Modale)
 
-Explorer les reconfigurations descriptives possibles.
+### Objectif
+Contrôler la validité des reconfigurations proposées.
 
-Une transition peut prendre la forme :
+### Fonction
+OVM empêche les glissements inférentiels illégitimes :
 
-- d'un changement d'échelle ;
-- d'une reformulation locale ;
-- d'une réorganisation des frontières ;
-- de l'introduction d'un nouveau régime ;
-- de la reconnaissance d'une émergence ;
-- de l'acceptation d'une rupture.
+- réduction abusive d’un régime à un autre ;
+- confusion entre causes et raisons ;
+- naturalisation de normes ;
+- normativisation de mécanismes ;
+- assimilation non justifiée d’émergence.
 
-Condition
-
-Toute transition doit améliorer ou restaurer la stabilité descriptive locale.
+### Fonction centrale
+OVM contrôle les **transpositions modales illégitimes** :
+- factuel → nécessaire
+- local → universel
+- descriptif → normatif
 
 ---
 
-Étape 8 — Zones de rupture (ZR)
+## 🔁 Étape 7 — Transitions
 
-Identifier les limites de traduction entre régimes.
+### Objectif
+Explorer les reconfigurations possibles.
 
-Indicateurs possibles :
+### Types de transition
+- changement d’échelle ;
+- reformulation locale ;
+- reconfiguration des frontières ;
+- introduction d’un nouveau régime ;
+- reconnaissance d’une émergence ;
+- acceptation d’une rupture.
 
+### Condition formelle
+Toute transition vise à **reconfigurer les conditions de stabilité descriptive locale**.
+
+---
+
+## 🚧 Étape 8 — Zones de rupture (ZR)
+
+### Objectif
+Identifier les limites de traduction inter-régimes.
+
+### Critères
 - incompatibilité persistante ;
 - absence de critères communs ;
 - rupture de continuité interprétative ;
-- impossibilité de stabilisation partagée.
+- impossibilité de stabilisation conjointe.
 
-Objectif
-
-Cartographier les discontinuités descriptives irréductibles.
+### Statut
+Les ZR ne sont pas des erreurs :
+ce sont des **discontinuités structurelles de traduction**.
 
 ---
 
-Étape 9 — Métaniveau (optionnel)
+## 🧭 Étape 9 — Métaniveau (optionnel)
 
-Appliquer l'audit à ses propres conditions d'application.
+### Objectif
+Appliquer l’audit à ses propres conditions d’application.
 
-Questions typiques :
-
+### Questions structurantes
 - Que rend visible ce cadre ?
 - Que laisse-t-il hors champ ?
 - Quels sont ses invariants implicites ?
-- Où rencontre-t-il ses propres limites ?
+- Où devient-il instable ?
 - Quelles tensions ne peut-il absorber ?
 
-Objectif
-
-Produire une analyse réflexive du dispositif d'audit lui-même.
+### Résultat
+Analyse réflexive du dispositif d’audit lui-même.
 
 ---
 
-Règles fondamentales
+## 📜 Règles fondamentales
 
 PASS :
 
 - ne produit pas de vérité ;
 - ne hiérarchise pas les régimes ;
-- ne choisit pas entre des interprétations concurrentes ;
-- ne transforme pas les modèles descriptifs en ontologies ;
-- n'établit pas une théorie du réel.
-
-PASS organise uniquement les conditions de lisibilité, de comparaison et d'audit des descriptions.
+- ne choisit pas entre interprétations concurrentes ;
+- ne transforme pas les modèles en ontologies ;
+- n’établit pas de théorie du réel.
 
 ---
 
-Principe final
+### Statut global
 
-PASS est un protocole d'audit séquentiel permettant de transformer une configuration descriptive en cartographie de régimes, de tensions, de saturations et de transitions possibles.
+PASS organise uniquement :
 
-Son rôle n'est pas d'expliquer le monde, mais de rendre explicites les conditions sous lesquelles différentes descriptions deviennent stables, conflictuelles ou transformables.
+- les conditions de lisibilité ;
+- les conditions de comparaison ;
+- les conditions d’audit des descriptions.
+
+---
+
+## 🧠 Principe final
+
+PASS est un protocole d’audit séquentiel permettant de transformer une configuration descriptive en :
+
+- cartographie de régimes ;
+- cartographie de tensions ;
+- cartographie de saturations ;
+- cartographie de transitions possibles.
+
+---
+
+### Formule finale
+
+> PASS ne vise pas à expliquer le monde.
+>
+> Il vise à expliciter les conditions sous lesquelles différentes descriptions deviennent :
+> - stables,
+> - conflictuelles,
+> - ou transformables dans un cadre donné.
