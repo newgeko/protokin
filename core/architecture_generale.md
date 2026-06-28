@@ -1,304 +1,266 @@
-# 🧭 Architecture générale de Protokin
-
-## 🧩 1. Nature du système
-
-Protokin n’est ni une ontologie, ni une théorie de la représentation, ni une hiérarchie du réel.
-
-Il constitue un cadre d’audit dynamique des régimes de description destiné à analyser :
-
-- comment un domaine devient descriptible ;
-- comment des cadres de description se stabilisent ;
-- comment des régimes distincts entrent en tension ;
-- comment ces tensions produisent des transformations ;
-- comment un système peut devenir l’objet de sa propre analyse ;
-- quelles sont les limites internes de son applicabilité.
-
-Principe fondamental
-
-«Un régime ne décrit pas le monde ; il définit les conditions sous lesquelles quelque chose peut devenir descriptible.»
+🧭 Architecture générale de Protokin
 
 ---
 
-🧩 2. Régimes : unité de stabilisation descriptive
+🧩 1. Nature du système
 
-Un régime est une configuration localement stabilisée de découpage du réel permettant :
+Protokin n’est ni une ontologie, ni une théorie de la représentation, ni une hiérarchie du réel.
 
-- la sélection d’invariants pertinents ;
-- la fixation de critères de validité ;
-- l’exclusion de dimensions jugées non pertinentes ;
-- la production d’un espace de lisibilité cohérent.
+Il constitue un cadre d’audit des régimes de description.
+
+Son objectif est de fournir des outils permettant d’analyser :
+
+- comment un domaine devient descriptible dans un cadre donné ;
+- comment des formes de description se stabilisent localement ;
+- comment différents régimes entrent en tension ;
+- comment ces tensions peuvent conduire à des transformations ;
+- comment un système peut s’appliquer à ses propres conditions d’analyse ;
+- quelles limites apparaissent dans ses usages.
+
+---
+
+🧩 Principe fondamental
+
+« Un régime ne décrit pas le monde en soi ; il définit les conditions sous lesquelles quelque chose devient descriptible dans un cadre donné. »
+
+---
+
+🧩 2. Régimes : unités de stabilisation descriptive
+
+Un régime est un modèle descriptif permettant de structurer un domaine d’analyse.
+
+Il n’est pas une structure du réel, mais un outil de découpage et de stabilisation locale.
+
+Un régime permet notamment :
+
+- de sélectionner des invariants pertinents dans un cadre ;
+- de définir des critères de validité internes ;
+- d’exclure certaines dimensions du champ d’analyse ;
+- de produire une cohérence descriptive locale.
+
+---
 
 Propriétés structurelles
 
-Tout régime produit simultanément :
+Tout régime peut être analysé comme produisant simultanément :
 
-- une capacité descriptive ;
-- un angle mort structurel ;
-- une zone potentielle de tension avec d’autres régimes.
+- une capacité descriptive locale ;
+- des angles morts structuraux (relatifs au cadre) ;
+- des zones potentielles de tension avec d’autres régimes.
 
-Aucun régime n’est exhaustif. Toute stabilisation implique une sélection.
+Ces propriétés ne sont pas des caractéristiques du réel, mais des effets d’un mode de description.
 
 ---
 
 ⚠️ 3. Tension, saturation et indécidabilité
 
-Lorsque plusieurs régimes coexistent sur un même domaine, trois phénomènes peuvent apparaître.
+Lorsque plusieurs régimes sont mobilisés sur un même domaine, certains désalignements peuvent apparaître.
+
+---
 
 🔹 Tension
 
-Incompatibilité partielle entre critères de validité.
+Incompatibilité entre critères de validité de régimes différents.
 
-Deux régimes demeurent opératoires mais produisent des descriptions difficilement conciliables.
+Les régimes restent opératoires, mais leurs résultats ne sont pas directement conciliables.
+
+---
 
 🔹 Saturation
 
-Incapacité d’un régime à intégrer de nouvelles distinctions sans perte de cohérence interne.
+Situation dans laquelle un régime nécessite des ajustements croissants pour maintenir sa cohérence.
 
-Le régime atteint une limite de complexification.
+Elle peut se manifester par :
+
+- multiplication d’exceptions ;
+- affaiblissement de la stabilité conceptuelle ;
+- dépendance à des ajustements locaux ;
+- perte de compression descriptive.
+
+---
 
 🔹 Indécidabilité
 
-Impossibilité de déterminer quelle stabilisation, quelle transition ou quel régime doit être privilégié.
+Situation dans laquelle aucune hiérarchie claire entre régimes ne peut être établie à partir des critères disponibles dans le cadre.
 
-L’indécidabilité ne constitue pas une erreur mais un signal de limite descriptive.
-
-Ces phénomènes sont des indicateurs structurels de l’état d’un système descriptif.
+Il ne s’agit pas d’une erreur, mais d’une limite descriptive locale.
 
 ---
 
 ⚙️ 4. Kernel : mécanisme de cohérence
 
-Le système repose sur une distinction fonctionnelle entre :
+Protokin repose sur une distinction fonctionnelle entre :
 
-- Content Layer : ensemble des régimes, objets, tensions et configurations analysées ;
-- Kernel : mécanisme assurant la cohérence opératoire du système.
+- Content Layer : ensemble des descriptions, régimes et configurations analysées ;
+- Kernel : ensemble des opérations assurant la cohérence interne de l’analyse.
 
-Le Kernel est invariant dans son fonctionnement ordinaire mais peut devenir révisable aux niveaux réflexifs avancés.
+---
 
-🧠 Fonction du Kernel
+Fonction du Kernel
 
-Le Kernel assure trois fonctions irréductibles :
+Le Kernel assure trois opérations principales :
 
 - détection des tensions et saturations (CAP) ;
-- régulation des compressions et confusions inter-régimes (OVM) ;
-- gestion des transitions entre régimes.
+- contrôle des glissements entre régimes (OVM) ;
+- organisation des transitions entre configurations descriptives.
 
-🔁 Cycle du Kernel
+---
+
+Cycle du Kernel
 
 CONTENT LAYER
-       │
-       ▼
+      │
+      ▼
 CAP
-(détection des tensions et saturations)
-       │
-       ▼
+(détection des tensions)
+      │
+      ▼
 OVM
-(vigilance modale et protection des distinctions)
-       │
-       ▼
+(vigilance des distinctions)
+      │
+      ▼
 TRANSITION
-(stabilisation locale ou émergence de nouveaux régimes)
-
-Le Kernel ne produit pas de vérités.
-
-Il maintient la cohérence dynamique des conditions de descriptibilité.
+(reconfiguration locale ou émergence de nouveaux cadres)
 
 ---
-
-🚧 5. DELTA — Module de limite de clôture et d’indécidabilité
-
-Statut structurel
-
-DELTA n’est pas un composant ordinaire du Kernel.
-
-Il constitue un opérateur de second ordre portant sur les conditions de fonctionnement du Kernel lui-même.
-
-Il intervient lorsque les mécanismes habituels de traitement deviennent insuffisants ou indécidables.
-
-Fonction principale
-
-DELTA identifie :
-
-- les boucles réflexives sans critère d’arrêt ;
-- les confusions entre régime et métarégime ;
-- les contradictions persistantes entre CAP et OVM ;
-- les situations où aucune transition ne peut être justifiée ;
-- les zones où la distinction entre objet, théorie et métathéorie devient instable.
-
-Fonction épistémique
-
-DELTA ne corrige pas.
-
-DELTA ne stabilise pas.
-
-DELTA signale les limites de stabilisation.
-
-Effet structurel
-
-DELTA introduit une propriété fondamentale :
-
-«Aucun système d’audit ne peut garantir sa propre clôture sans rencontrer des zones d’indécidabilité.»
-
-Ainsi :
-
-«Protokin n’est pas totalisable sur lui-même.»
-
----
-
-🔁 6. PASS — Protocole d’Application Séquentielle
-
-PASS constitue la couche opératoire de Protokin.
-
-Il organise l’ordre d’application du système à un objet d’analyse.
-
-Fonction
-
-PASS formalise la séquence suivante :
-
-1. segmentation du matériau ;
-2. identification des régimes ;
-3. détection des tensions ;
-4. analyse des saturations ;
-5. activation du CAP ;
-6. filtrage par OVM ;
-7. exploration des transitions possibles ;
-8. repérage des zones de rupture ;
-9. activation éventuelle du métaniveau ;
-10. surveillance continue des conditions DELTA.
 
 Statut
 
-PASS n’ajoute aucun niveau ontologique.
+Le Kernel ne produit pas de descriptions du monde.
 
-Il définit uniquement l’ordre d’activation des opérations du système.
+Il organise la cohérence des descriptions à l’intérieur du cadre d’analyse.
+
+---
+
+🚧 5. DELTA — opérateur de limite
+
+DELTA est un opérateur utilisé lorsque les mécanismes standards d’analyse rencontrent des limites.
+
+Il intervient notamment dans les cas suivants :
+
+- boucles d’auto-référence sans critère d’arrêt ;
+- ambiguïtés persistantes entre niveaux d’analyse ;
+- tensions non résolubles par transition locale ;
+- instabilité de la distinction entre objet et métaniveau.
+
+---
+
+Fonction
+
+DELTA ne résout pas les situations.
+
+Il signale que, dans le cadre disponible, aucune stabilisation satisfaisante n’a été obtenue.
+
+---
+
+Remarque
+
+DELTA ne doit pas être interprété comme une loi universelle.
+
+Il fonctionne comme un opérateur interne de signalement de limite.
+
+---
+
+🔁 6. PASS — protocole d’application
+
+PASS organise l’usage de PAR dans une séquence ordonnée d’opérations.
+
+Il ne constitue pas un niveau théorique supplémentaire.
+
+---
+
+Fonction
+
+PASS définit une procédure permettant :
+
+- d’appliquer PAR à un objet d’analyse ;
+- de structurer les étapes de l’audit ;
+- de rendre reproductible la démarche.
+
+---
 
 Relation avec le Kernel
 
-- le Kernel assure la cohérence ;
-- PASS organise l’usage du Kernel.
+- le Kernel assure la cohérence interne ;
+- PASS organise la mise en œuvre.
 
 ---
 
 🧠 7. Réflexivité graduée
 
-Protokin devient pleinement opératoire lorsqu’il peut être appliqué à lui-même.
+Protokin peut être appliqué à ses propres conditions d’usage.
 
-Cette auto-application se déploie selon quatre niveaux.
+---
 
-🟢 Niveau 1 — Application externe
+🟢 Niveau 1 — application externe
 
-Protokin est utilisé comme outil d’analyse de systèmes externes.
+Analyse de systèmes externes.
 
-- Kernel stable ;
-- DELTA généralement inactif.
+---
 
-🟡 Niveau 2 — Auto-modélisation
+🟡 Niveau 2 — auto-modélisation
 
-Protokin devient objet d’analyse.
+Protokin devient lui-même objet d’analyse.
 
-- le système entre dans son propre Content Layer ;
-- le Kernel demeure stable ;
-- DELTA agit comme indicateur de saturation réflexive.
+---
 
-🟠 Niveau 3 — Auto-révision du Kernel
+🟠 Niveau 3 — révision du Kernel
 
-Les règles du Kernel deviennent modifiables.
+Les règles du Kernel deviennent discutables et modifiables.
 
-- CAP et OVM peuvent être révisés ;
-- les critères de transition deviennent discutables ;
-- DELTA surveille les instabilités de second ordre.
+---
 
-🔴 Niveau 4 — Métasystème instable
+🔴 Niveau 4 — instabilité réflexive
 
-La distinction entre Kernel et Content Layer devient partiellement instable.
+La distinction entre cadre, objet et métacadre devient partiellement instable.
 
-On observe :
-
-- l’apparition de kernels locaux ;
-- la multiplication des points de cohérence ;
-- l’instabilité des transitions ;
-- la remise en question des critères d’audit eux-mêmes.
-
-À ce niveau, DELTA cesse d’être un simple mécanisme de contrôle et devient un opérateur central de description du système.
+DELTA devient alors central comme opérateur de signalement des limites.
 
 ---
 
 🧭 8. Métaniveau : audit du système
 
-Le métaniveau interroge les conditions d’existence du système lui-même.
-
-Questions structurantes
-
-- Que rend visible Protokin ?
-- Que rend-il invisible ?
-- Quelles distinctions privilégie-t-il ?
-- Quelles formes de pensée tend-il à exclure ?
-- Dans quelles conditions devient-il saturé ?
-- Quand cesse-t-il d’être applicable ?
-- Où devient-il auto-indécidable ?
-
-CAP réflexif
-
-Le CAP peut être appliqué au Kernel.
-
-Le système devient alors son propre objet d’audit.
-
-Cependant :
-
-«DELTA peut suspendre cette auto-application lorsqu’elle devient structurellement indécidable.»
+Le métaniveau consiste à analyser les conditions d’usage de Protokin lui-même.
 
 ---
 
-🚧 9. Zones de rupture structurelles
+Questions structurantes
 
-1. Institution et distribution
+- Quels types de descriptions Protokin rend-il possibles ?
+- Quels types de descriptions rend-il difficiles ?
+- Quelles distinctions privilégie-t-il ?
+- Dans quelles situations devient-il instable ?
+- Quelles tensions ne peut-il pas modéliser ?
 
-Tension entre :
+---
 
-- l’idéal de symétrie descriptive ;
-- l’asymétrie réelle des conditions d’accès aux régimes.
+🚧 9. Zones de limite
 
-2. Limite de l’auto-interprétation
+Certaines situations peuvent produire des difficultés structurelles :
 
-Le système peut produire des boucles où :
+- tensions entre niveaux descriptifs et conditions institutionnelles ;
+- risques de fermeture auto-référentielle ;
+- instabilité entre objet, théorie et métathéorie.
 
-- toute critique devient régime ;
-- toute saturation devient transition ;
-- toute limite devient nouvel objet d’audit.
-
-DELTA intervient pour empêcher cette absorption indéfinie.
-
-3. Instabilité du niveau méta
-
-La distinction entre :
-
-- objet ;
-- théorie ;
-- métathéorie ;
-
-peut devenir difficile à maintenir.
-
-Cette situation constitue l’une des principales conditions de déclenchement de DELTA.
+DELTA peut intervenir dans ces situations pour signaler des limites de stabilisation.
 
 ---
 
 🧭 Conclusion générale
 
-Protokin cOS est un système :
+Protokin est un cadre d’audit :
 
 - non ontologique ;
 - multi-régimes ;
-- réflexif par degrés ;
-- fondé sur les tensions, les saturations et les transitions ;
+- réflexif par niveaux ;
+- fondé sur tensions, saturations et transitions ;
 - limité par des zones d’indécidabilité internes ;
-- capable d’auditer ses propres conditions de fonctionnement.
-
-Il ne vise pas la clôture définitive des descriptions mais leur mise en visibilité, leur stabilisation provisoire et leur transformation.
+- capable d’analyser ses propres conditions d’usage.
 
 ---
 
 🧠 Principe final
 
-«Protokin ne décrit pas ce qui est.
+« Protokin ne décrit pas ce qui est.
 
-Il décrit les conditions sous lesquelles quelque chose peut être décrit, stabilisé, transformé ou reconnu comme provisoirement non stabilisable.»Cette version me paraît suffisamment stable pour servir de fichier central de référence (Kernel Document) auquel pourront se rattacher PAR, PASS, CAP, OVM, DELTA et les futurs modules spécialisés.
+Il organise les conditions sous lesquelles des descriptions peuvent être produites, stabilisées, comparées ou reconnues comme non stabilisables dans un cadre donné. »
