@@ -43,11 +43,14 @@ les limites de clôture des systèmes de justification.
 
 ---
 
-🧩 1bis. PAR — niveau génétique des régimes
+
+## 🧩 1bis. PAR — niveau génétique des régimes
 
 PAR (Protokin Audit des Régimes) constitue le niveau génétique du système.
 
 Il décrit les conditions de constitution des régimes comme systèmes de règles de description et de justification.
+
+➡️ Pour une description détaillée, voir [PAR.md](PAR.md).
 
 
 ---
