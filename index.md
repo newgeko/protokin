@@ -1,114 +1,266 @@
+Voici une version enrichie de l’index.md avec vraie logique de navigation + “pseudo-UI cognitive” plus cohérente + intégration Mermaid + structure de navigation exploitable GitHub.
+
+On garde ton idée d’interface mentale, mais on la rend plus stable, moins fictionnelle, plus “tool-like sérieux”.
+
+
+---
+
 # Protokin
 
-## A study of descriptive and inferential regimes
+## A reading interface for descriptive and inferential systems
 
 ---
 
-## Two ways of entering the system
+# ⟡ SYSTEM STATUS
 
-Protokin can be approached through two complementary reading vectors.
-
-They do not define two ontologies, but two **modes of attention**.
-
----
-
-<div style="display: flex; gap: 40px;">
-
-<div style="flex: 1;">
-
-## **PROTO**
-
-### (stability / constraint / causality)
-
-**Proto** refers to what structures, precedes, or constrains a system.
-
-It highlights:
-
-- causal structures
-- physical or computational constraints
-- generative conditions
-- stabilizing dynamics
-
-> What makes something persist or occur?
+> You are not reading a document.  
+> You are navigating a space of descriptive regimes.
 
 ---
 
-Typical domains:
+# ⟡ CORE INTERFACE
 
-- physics
-- biological regulation
-- predictive constraints
-- generative models
+Protokin is a comparative framework for analyzing how systems:
 
-</div>
+- construct descriptions
+- stabilize models
+- generate inferences
+- justify statements
+- fail, saturate, and transform
 
-<div style="flex: 1;">
-
-## **KIN**
-
-### (relation / justification / normativity)
-
-**Kin** refers to what links, organizes, or justifies within a system.
-
-It highlights:
-
-- relations between elements
-- inferential structures
-- normative commitments
-- meaning and justification
-
-> What makes something valid or meaningful?
+It operates as a **multi-lens reading environment**.
 
 ---
 
-Typical domains:
+# ⟡ NAVIGATION MODES
 
-- language
-- reasoning
-- normativity
-- social coordination
+Choose a lens:
 
-</div>
-
-</div>
-
----
-
-## Protokin as a reading space
-
-Protokin is not a theory of one side or the other.
-
-It is the study of how systems move between:
-
-- constraint (proto)
-- relation (kin)
-
-and how these two dimensions co-structure descriptive regimes.
+- 🟦 Proto → stability, constraints, generative structures
+- 🟨 Kin → relations, justification, inferential structure
+- 🟩 Hybrid → coupling of stability and relation
+- 🧩 Case Mode → analysis of theoretical systems
+- 🧠 Meta Mode → observation of description systems themselves
 
 ---
 
-## Core question
+# ⟡ GLOBAL ARCHITECTURE MAP
 
-> How do systems stabilize what exists  
-> and justify what counts as meaningful?
+```mermaid id="protokin_map"
+flowchart TD
+
+A[Theoretical Texts] --> B[Case Files]
+
+B --> B1[Friston - Active Inference]
+B --> B2[Brandom - Inferentialism]
+B --> B3[Predictive Processing]
+B --> B4[AI Agency Models]
+B --> B5[Normative Systems]
+
+B --> C[Reading Protocol]
+
+C --> C1[Inference Structure]
+C --> C2[Validity Regimes]
+C --> C3[Perception-Action Coupling]
+C --> C4[Failure Modes]
+
+C --> D[Regime Analysis]
+
+D --> D1[Proto Layer - Stability]
+D --> D2[Kin Layer - Relation]
+D --> D3[Hybrid Coupling Zone]
+
+D --> E[Transition Dynamics]
+
+E --> E1[Saturation]
+E --> E2[Reconfiguration]
+E --> E3[Collapse / Re-stabilization]
+
+E --> F[Protokin Meta Layer]
+
+F --> G[Epistemic Map of Descriptive Systems]
+```
 
 ---
 
-## Entry points
+⟡ LENS SYSTEM
 
-Choose a direction:
+🟦 PROTO LENS
 
-- Explore **Case Studies**
-- Learn the **Reading Protocol**
-- Examine **Inference Regimes**
-- Understand **Descriptive Stability**
+You are analyzing:
+
+stabilizing constraints
+
+generative conditions
+
+physical / computational structure
+
+persistence of systems
+
+
+Question
+
+> What allows a system to exist and remain coherent?
+
+
+
 
 ---
 
-## Status
+🟨 KIN LENS
 
-Protokin is a comparative epistemology of descriptive systems.
+You are analyzing:
 
-It does not unify proto and kin.
+inferential relations
 
-It maps their interaction.
+normative structures
+
+justification chains
+
+semantic coupling
+
+
+Question
+
+> What allows a system to count as valid or meaningful?
+
+
+
+
+---
+
+🟩 HYBRID LENS
+
+You are analyzing the interaction between Proto and Kin:
+
+how stability enables inference
+
+how inference reshapes stability
+
+how systems shift between both modes
+
+
+Key insight
+
+> No system is purely Proto or purely Kin
+All systems distribute both dimensions
+
+
+
+
+---
+
+⟡ CASE MODE
+
+You are now entering concrete systems of analysis:
+
+Active Inference
+
+Predictive Processing
+
+Inferentialism (Sellars, Brandom)
+
+AI agent architectures
+
+normative systems and coordination structures
+
+
+Each case is treated as a locally stable descriptive regime.
+
+
+---
+
+⟡ META MODE
+
+In Meta Mode, you analyze:
+
+how systems define inference
+
+how they define validity
+
+how they stabilize objects of knowledge
+
+how they handle failure
+
+how they transition between regimes
+
+
+You are no longer inside a theory.
+
+You are observing how theories construct themselves.
+
+
+---
+
+⟡ STATE MACHINE VIEW
+
+PROTO ↑ (constraints, generativity)
+KIN   ↑ (relations, justification)
+
+System evolves through:
+
+- saturation of constraints
+- breakdown of justification
+- instability of coupling
+
+→ transition to new regime
+
+
+---
+
+⟡ TRANSITION PRINCIPLE
+
+A system changes regime when:
+
+it can no longer stabilize its descriptions (PROTO failure)
+
+or it can no longer justify its inferences (KIN failure)
+
+
+Protokin studies these transitions.
+
+
+---
+
+⟡ CORE QUESTION
+
+> How do systems stabilize what exists
+and justify what counts as meaningful?
+
+
+
+
+---
+
+⟡ ENTRY PATHS
+
+Explore case studies
+
+Learn the reading protocol
+
+Switch analytical lens
+
+Observe regime transitions
+
+Study failure modes
+
+
+
+---
+
+⟡ STATUS
+
+Protokin is:
+
+a comparative epistemology framework
+
+a multi-lens reading environment
+
+a model for studying descriptive systems
+
+
+It is not a theory.
+
+It is an interface for analyzing theories.
+
+---
