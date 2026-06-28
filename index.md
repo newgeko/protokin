@@ -1,42 +1,114 @@
+# Protokin
 
-
-
-# ⚡ Protokin
-
-<div id="protokin-logo"></div>
-
-
-Architecture d'audit des conditions de stabilisation des descriptions.
+## A study of descriptive and inferential regimes
 
 ---
 
-## Entrer dans la documentation
+## Two ways of entering the system
 
-➡️ **[Navigation complète](docs/navigation.md)**
+Protokin can be approached through two complementary reading vectors.
 
-## Derniers textes
+They do not define two ontologies, but two **modes of attention**.
 
-### 1. Philosophie des Sciences et Épistémologie
+---
 
-Ce groupe rassemble les réflexions sur la méthode scientifique, la vérité et l'histoire des concepts.
+<div style="display: flex; gap: 40px;">
 
+<div style="flex: 1;">
 
-### 2. Systémique, Cybernétique et Complexité
+## **PROTO**
 
-Ouvrages portant sur l'auto-organisation, les systèmes sociaux et la gestion de l'incertitude.
+### (stability / constraint / causality)
 
-### 3. Anthropologie, Vie et Relation au Vivant
+**Proto** refers to what structures, precedes, or constrains a system.
 
-Études sur l'origine de l'homme, les rapports nature/culture et les interactions avec les autres espèces.
+It highlights:
 
-### 4. Philosophie du Langage et de l'Esprit
+- causal structures
+- physical or computational constraints
+- generative conditions
+- stabilizing dynamics
 
-Analyses de la conscience, de la cognition, du sens et des normes sociales.
+> What makes something persist or occur?
 
-### 5. Philosophie Politique, Sociale et Critique
+---
 
-Réflexions sur le pouvoir, la démocratie, l'histoire et les structures sociales.
+Typical domains:
 
-### 6. Références Spécifiques et Modèles Internes
+- physics
+- biological regulation
+- predictive constraints
+- generative models
 
-[L'institution des raisons](texte/linstitution_des_raisons.md)
+</div>
+
+<div style="flex: 1;">
+
+## **KIN**
+
+### (relation / justification / normativity)
+
+**Kin** refers to what links, organizes, or justifies within a system.
+
+It highlights:
+
+- relations between elements
+- inferential structures
+- normative commitments
+- meaning and justification
+
+> What makes something valid or meaningful?
+
+---
+
+Typical domains:
+
+- language
+- reasoning
+- normativity
+- social coordination
+
+</div>
+
+</div>
+
+---
+
+## Protokin as a reading space
+
+Protokin is not a theory of one side or the other.
+
+It is the study of how systems move between:
+
+- constraint (proto)
+- relation (kin)
+
+and how these two dimensions co-structure descriptive regimes.
+
+---
+
+## Core question
+
+> How do systems stabilize what exists  
+> and justify what counts as meaningful?
+
+---
+
+## Entry points
+
+Choose a direction:
+
+- Explore **Case Studies**
+- Learn the **Reading Protocol**
+- Examine **Inference Regimes**
+- Understand **Descriptive Stability**
+
+---
+
+## Status
+
+Protokin is a comparative epistemology of descriptive systems.
+
+It does not unify proto and kin.
+
+It maps their interaction.
