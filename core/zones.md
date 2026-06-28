@@ -1,162 +1,254 @@
-# Zones Critiques : Anomalie, Transition et Rupture (ZAR / ZT / ZR)
+🧭 Zones Critiques : Anomalie, Transition, Rupture (ZAR / ZT / ZR)
 
-Définition dans l’architecture Protokin
-
-Dans l’architecture Protokin, les “Zones” ne désignent pas des régions du réel, mais des configurations de lecture apparaissant lorsque des tensions entre régimes descriptifs atteignent différents seuils de stabilisation ou d’instabilité.
-
-Elles correspondent à des situations où plusieurs régimes deviennent simultanément pertinents sans être totalement commensurables.
-
-Les Zones sont donc des objets d’audit, activés dans le cycle CAP / OVM, et non des structures ontologiques.
+Architecture : Protokin cOS | Module du Kernel (CAP / OVM)
 
 
 ---
 
-1. ZAR — Lecture en régime d’anomalie
+1. Définition générale
 
-Une ZAR correspond à une situation où plusieurs régimes descriptifs restent globalement compatibles, mais produisent des frictions locales.
+Les Zones Critiques ne désignent ni des régions du réel ni des domaines d’objets.
 
-Les tensions sont absorbées sans modification structurelle du cadre dominant.
+Elles constituent des catégories d’analyse des configurations de stabilité entre régimes descriptifs.
 
-Tensions typiques :
+Une Zone apparaît lorsque plusieurs régimes deviennent simultanément pertinents sans être entièrement commensurables selon leurs règles internes de justification.
 
-T2 : traduction
+Elles sont donc :
 
-T3 : échelle
+des résultats d’audit
+
+produits par CAP / OVM
+
+et non des structures ontologiques
+
+
+
+---
+
+2. Statut épistémologique
+
+Les Zones sont des descriptions secondaires issues de l’analyse des tensions entre régimes.
+
+Elles ne décrivent pas le monde, mais :
+
+> les conditions sous lesquelles des descriptions deviennent localement instables, partiellement compatibles ou non traductibles.
+
+
+
+
+---
+
+🔹 ZAR — Zone d’Anomalie Régulée
+
+Une ZAR correspond à une configuration où :
+
+plusieurs régimes restent globalement compatibles
+
+mais produisent des tensions locales non structurantes
+
+
+Les incohérences sont absorbées sans modification du cadre général.
+
+
+---
+
+Tensions typiques
+
+T2 : translation locale
+
+T3 : changement d’échelle implicite
+
+T9 : surcharge descriptive
+
+
+
+---
+
+Lecture
+
+> Instabilité locale sans transformation de régime.
+
+
+
+
+---
+
+🔸 ZT — Zone de Transition
+
+Une ZT correspond à une configuration où :
+
+plusieurs régimes coexistent sans stabilisation complète
+
+un régime nouveau devient partiellement lisible à l’intérieur d’un autre
+
+
+
+---
+
+Propriété clé
+
+Il n’y a pas encore stabilisation d’un nouveau régime, mais :
+
+> des conditions de reconfiguration sont actives
+
+
+
+
+---
+
+Tensions typiques
+
+T2 : translation partielle
+
+T3 : échelle instable
+
+T4 : hybridation normative
 
 T9 : saturation
 
 
-👉 Lecture : instabilité locale sans changement de régime.
+
+---
+
+Lecture
+
+> Métastabilité entre régimes de description.
+
+
 
 
 ---
 
-2. ZT — Lecture en régime de transition
+🔻 ZR — Zone de Rupture
 
-Une ZT correspond à une configuration où un nouveau régime devient partiellement lisible à l’intérieur d’un ancien régime.
+Une ZR correspond à une configuration où :
 
-Aucun régime n’est pleinement stabilisé, mais plusieurs modes de description coexistent de manière métastable.
+aucune traduction progressive n’est disponible
 
-Tensions typiques :
+les régimes deviennent non commensurables localement
 
-T2 : traduction
-
-T3 : échelle
-
-T4 : normativité
-
-T9 : saturation
-
-
-👉 Lecture : coexistence instable de cadres concurrents.
 
 
 ---
 
-3. ZR — Lecture en régime de rupture
+Important
 
-Une ZR correspond à une situation où aucune traduction progressive entre régimes n’est disponible.
+Il ne s’agit pas d’une “absence de description”, mais d’une :
 
-Ce n’est pas une absence de description, mais une perte de commensurabilité locale entre cadres.
-
-Tensions typiques :
-
-T5 : rupture
-
-T7 : collapsus
-
-T11 : compression multi-régimes
+> discontinuité des règles de traduction entre régimes
 
 
-👉 Lecture : incompatibilité structurelle des cadres descriptifs.
 
 
 ---
 
-4. Cartographie (comme lectures typiques)
+Tensions typiques
 
-Les cas suivants ne sont pas des “zones du réel”, mais des configurations récurrentes d’audit :
+T5 : rupture de transition
 
-ZT-1 : Biologique → Social
+T7 : collapsus de médiation
 
-Lecture : transition de coordination biologique vers intentionnalité partagée
+T11 : compression multi-régime
 
-ZR-0 : Causes → Raisons
-
-Lecture : passage entre description causale et espace des raisons
-
-ZT-2 : Structurel → Institutionnel
-
-Lecture : stabilisation de coordinations en règles explicites
-
-ZT-3 : Thymique → Institutionnel
-
-Lecture : transformation de valuations vécues en normes publiques
 
 
 ---
 
-5. Fonction dans le cycle d’audit
+Lecture
+
+> Incompatibilité structurelle des cadres de justification.
+
+
+
+
+---
+
+3. Statut des Zones dans le cycle CAP / OVM
 
 Étape 1 — CAP
 
-Le système rend visibles :
+Détection des tensions structurelles :
 
-tensions
+saturation
 
-anomalies
+conflit de régimes
 
-saturations
+instabilité locale
 
-conflits entre régimes
 
+
+---
 
 Étape 2 — OVM
 
-La situation est qualifiée comme :
+Qualification des configurations :
 
-ZAR
+ZAR → friction absorbable
 
-ZT
+ZT → instabilité de transition
 
-ZR
-
-
-(non comme classement du réel, mais comme mode de lecture sous contrainte)
-
-Étape 3 — reconfiguration
-
-ZAR → ajustement local de description
-
-ZT → accompagnement de recomposition
-
-ZR → nécessité de reconfiguration de cadre
+ZR → non-commensurabilité locale
 
 
-Toute réduction abusive entre régimes active les garde-fous (G8).
+⚠️ Il s’agit d’une classification descriptive, pas d’une hiérarchie.
 
 
 ---
 
-6. Principe épistémologique
+Étape 3 — Reconfiguration
 
-Une anomalie, une transition ou une rupture ne désignent pas des propriétés du réel, mais des seuils de stabilité entre régimes descriptifs concurrents.
+ZAR → ajustement local des contraintes
 
-ZAR : friction absorbable
+ZT → exploration de reconfiguration
 
-ZT : reconfiguration en cours
-
-ZR : discontinuité de commensurabilité
+ZR → nécessité de reconstitution du cadre de traduction
 
 
 
 ---
 
-7. Conclusion
+4. Principe de non-ontologie
 
-Les Zones Critiques désignent les points où la pluralité des régimes descriptifs devient localement irréductible à une seule stabilisation.
+Les Zones ne sont jamais :
 
-Comprendre une Zone consiste non pas à la résoudre, mais à identifier les conditions sous lesquelles plusieurs descriptions cessent d’être mutuellement traductibles sans perte structurelle.
+des propriétés du réel
+
+des états du monde
+
+des niveaux de réalité
+
+
+Elles sont :
+
+> des effets structuraux de la pluralité des régimes de description
+
+
 
 
 ---
+
+5. Fonction dans l’architecture Protokin
+
+Les Zones Critiques permettent de :
+
+localiser les points de friction entre régimes
+
+distinguer types de désalignements
+
+organiser les sorties du CAP / OVM
+
+éviter les fusions abusives de cadres
+
+
+
+---
+
+🧭 Conclusion
+
+Les Zones Critiques constituent un outil de lecture des tensions entre régimes, structuré en trois formes :
+
+ZAR : friction locale stabilisable
+
+ZT : transition en cours de stabilisation
+
+ZR : rupture de commensurabilité
