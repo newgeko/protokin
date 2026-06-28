@@ -6,113 +6,126 @@
 
 Protokin n’est ni une ontologie, ni une théorie de la représentation, ni une hiérarchie du réel.
 
-Il constitue un cadre d’audit des régimes de description.
+Il constitue un cadre d’audit des régimes de description et des pratiques discursives associées.
 
-Son objectif est de fournir des outils permettant d’analyser :
+Il s’inscrit dans une tradition de philosophie analytique attentive à la clarification des conditions de validité des énoncés (Quine, Vuillemin, Bouveresse, Brandom).
 
-- comment un domaine devient descriptible dans un cadre donné ;
-- comment des formes de description se stabilisent localement ;
-- comment différents régimes entrent en tension ;
-- comment ces tensions peuvent conduire à des transformations ;
-- comment un système peut s’appliquer à ses propres conditions d’analyse ;
-- quelles limites apparaissent dans ses usages.
+---
+
+### Objet du système
+
+Protokin permet d’analyser :
+
+- les conditions de constitution des énoncés sur un domaine ;
+- la stabilisation locale des critères de validité ;
+- les interactions entre systèmes de justification concurrents ;
+- les effets de tension entre cadres sémantiques ;
+- les conditions de transformation des régimes de description ;
+- les limites internes des systèmes d’énonciation.
 
 ---
 
 ## 🧩 Principe fondamental
 
-> « Un régime ne décrit pas le monde en soi ; il définit les conditions sous lesquelles quelque chose devient descriptible dans un cadre donné. »
+> « Un régime ne décrit pas un domaine en soi ; il spécifie un ensemble de contraintes sémantiques et inférentielles sous lesquelles des énoncés deviennent recevables, justifiables ou non justifiables dans un cadre donné. »
 
 ---
 
 ## 🧩 1bis. PAR — niveau génétique des régimes
 
-PAR (Protokin Audit des Régimes) constitue le niveau analytique fondamental du système.
+PAR (Protokin Audit des Régimes) constitue le niveau génétique du système.
 
-Il ne fait pas partie du Kernel opératoire, mais définit les conditions locales de constitution et de stabilisation des régimes manipulés par le système.
-
-### Fonction
-
-PAR permet de définir :
-
-- ce qu’est un régime de description ;
-- comment un régime se stabilise ;
-- comment plusieurs régimes peuvent coexister ;
-- comment apparaissent tensions et saturations.
-
-### Statut
-
-- PAR : niveau de modélisation des régimes
-- Kernel : niveau opératoire d’analyse et de cohérence
-- PASS : niveau procédural d’application
-
-### Relation structurelle
-
-- PAR → définit les objets (régimes)
-- Kernel → traite les interactions entre régimes
-- PASS → organise la séquence d’analyse
+Il décrit les conditions de constitution, de sélection et de stabilisation des régimes de description.
 
 ---
 
-## 🧩 2. Régimes : unités de stabilisation descriptive
+### Fonction
 
-Un régime est un modèle descriptif permettant de structurer un domaine d’analyse.
+PAR permet de formaliser :
 
-Il n’est pas une structure du réel, mais un dispositif de découpage et de stabilisation locale.
+- les critères de constitution d’un régime ;
+- les conditions de stabilisation des pratiques descriptives ;
+- les mécanismes de coexistence entre régimes ;
+- les conditions d’apparition des tensions et saturations.
 
-Un régime permet notamment :
+---
 
-- de sélectionner des invariants pertinents dans un cadre ;
-- de définir des critères de validité internes ;
-- d’exclure certaines dimensions du champ d’analyse ;
-- de produire une cohérence descriptive locale.
+### Statut épistémique
+
+- PAR : niveau de modélisation des conditions de constitution des régimes
+- Kernel : niveau opératoire de traitement des interactions régimes
+- PASS : niveau procédural d’application
+
+---
+
+### Relation structurelle
+
+- PAR → définit les systèmes de règles constitutifs des régimes
+- Kernel → opère sur les relations entre régimes
+- PASS → organise la séquence d’application analytique
+
+---
+
+## 🧩 2. Régimes : systèmes de contraintes sémantiques
+
+Un régime est un système de contraintes sémantiques et inférentielles permettant la stabilisation locale de la vérité d’un ensemble d’énoncés portant sur un domaine.
+
+Il ne s’agit pas d’une structure du réel, mais d’un cadre de validation des énoncés.
+
+---
+
+### Fonction
+
+Un régime permet :
+
+- la fixation de conditions de vérité locales ;
+- la détermination des inférences légitimes ;
+- la sélection des critères de pertinence ;
+- l’exclusion de certains types d’énoncés.
 
 ---
 
 ### Propriétés structurelles
 
-Tout régime peut être analysé comme produisant simultanément :
+Tout régime produit :
 
-- une capacité descriptive locale ;
-- des angles morts structuraux relatifs au cadre ;
-- des zones potentielles de tension avec d’autres régimes.
-
-Ces propriétés ne sont pas des propriétés du réel, mais des effets d’un mode de description.
+- un espace de validité des énoncés ;
+- des conséquences inférentielles autorisées ;
+- des zones d’invisibilité descriptive ;
+- des points potentiels de tension inter-régimes.
 
 ---
 
 ## ⚠️ 3. Tension, saturation et indécidabilité
 
-Lorsque plusieurs régimes sont mobilisés sur un même domaine, des désalignements peuvent apparaître.
-
 ---
 
 ### 🔹 Tension
 
-Incompatibilité entre critères de validité de régimes différents.
+Incompatibilité entre systèmes de contraintes sémantiques distincts.
 
-Les régimes restent opératoires, mais leurs résultats peuvent ne pas être directement conciliables.
+Deux régimes peuvent porter sur les mêmes objets discursifs sans partager les mêmes règles de justification.
 
 ---
 
 ### 🔹 Saturation
 
-Situation dans laquelle un régime nécessite des ajustements croissants pour maintenir sa cohérence.
+Situation dans laquelle un régime ne peut plus intégrer de nouvelles distinctions sans modifier sa structure interne.
 
-Elle peut se manifester par :
+Elle se manifeste par :
 
-- multiplication d’exceptions ;
-- affaiblissement de la stabilité conceptuelle ;
-- dépendance à des ajustements locaux ;
-- perte de compression descriptive.
+- augmentation des ajustements ad hoc ;
+- perte de stabilité conceptuelle ;
+- affaiblissement de la capacité de compression inférentielle ;
+- multiplication des exceptions locales.
 
 ---
 
 ### 🔹 Indécidabilité
 
-Situation dans laquelle aucune hiérarchie stable entre régimes ne peut être établie à partir des critères internes disponibles.
+Une indécidabilité apparaît lorsqu’un énoncé situé à l’intersection de deux régimes ne peut recevoir de valeur de vérité stable à partir des seules règles syntaxiques et sémantiques internes à ces régimes.
 
-Il ne s’agit pas d’une erreur, mais d’une limite descriptive du cadre.
+Il ne s’agit pas d’un phénomène ontologique, mais d’une limite structurelle de compatibilité des systèmes de justification.
 
 ---
 
@@ -120,159 +133,165 @@ Il ne s’agit pas d’une erreur, mais d’une limite descriptive du cadre.
 
 Protokin repose sur une distinction fonctionnelle entre :
 
-- **Content Layer** : ensemble des descriptions, régimes et configurations analysées ;
-- **Kernel** : ensemble des opérations assurant la cohérence interne de l’analyse.
+- **Content Layer** : ensemble des énoncés, régimes et configurations analysées ;
+- **Kernel** : système de contrôle des relations inférentielles entre régimes.
 
 ---
 
 ### Fonction du Kernel
 
-Le Kernel assure trois opérations principales :
+Le Kernel assure trois opérations :
 
-- détection des tensions et saturations (CAP) ;
-- contrôle des glissements entre régimes (OVM) ;
-- organisation des transitions entre configurations descriptives.
+- détection des tensions entre régimes (CAP) ;
+- contrôle des transpositions modales illégitimes (OVM) ;
+- organisation des transitions entre systèmes de contraintes.
 
 ---
 
 ### Cycle du Kernel
 
-CONTENT LAYER │ ▼ CAP (détection des tensions et saturations) │ ▼ OVM (vigilance des distinctions) │ ▼ TRANSITION (reconfiguration locale ou émergence de nouveaux cadres)
+CONTENT LAYER │ ▼ CAP (détection des tensions sémantiques) │ ▼ OVM (contrôle des transpositions modales et des confusions de niveau) │ ▼ TRANSITION (reconfiguration des systèmes de contraintes)
 
 ---
 
 ### Statut
 
-Le Kernel ne produit pas de descriptions du monde.
+Le Kernel ne produit pas de vérité.
 
-Il régule la cohérence interne des descriptions produites dans le cadre du système.
+Il régule la cohérence des systèmes de justification.
 
 ---
 
 ## 🚧 5. DELTA — opérateur de limite
 
-DELTA est un opérateur utilisé lorsque les mécanismes standards d’analyse rencontrent une limite structurelle.
+DELTA est un opérateur de second ordre intervenant lorsque les procédures normales de régulation échouent.
 
-Il intervient notamment dans les cas suivants :
+Il signale :
 
-- boucles d’auto-référence sans critère d’arrêt ;
-- ambiguïtés persistantes entre niveaux d’analyse ;
-- tensions non résolubles par transition locale ;
-- instabilité de la distinction entre objet et métaniveau.
+- des boucles d’auto-référence sans critère de stabilisation ;
+- des conflits persistants entre systèmes de justification ;
+- des incompatibilités structurelles entre régimes ;
+- des indéterminations irréductibles dans le cadre disponible.
 
 ---
 
 ### Fonction
 
-DELTA ne résout pas les situations.
+DELTA ne résout pas les conflits.
 
-Il signale qu’aucune stabilisation satisfaisante n’est disponible dans le cadre actuel.
+Il indique l’impossibilité de stabilisation locale dans le système de règles actuel.
 
 ---
 
-### Remarque
+### Statut
 
-DELTA n’est pas une loi générale.
+DELTA n’est pas une entité ontologique.
 
-C’est un opérateur interne de signalement de limites.
+Il est un marqueur interne de limite de formalisation.
 
 ---
 
 ## 🔁 6. PASS — protocole d’application
 
-PASS organise l’usage de PAR dans une séquence ordonnée d’opérations.
+PASS est une procédure d’application du cadre PAR sur un corpus donné.
 
-Il ne constitue pas un niveau théorique supplémentaire.
+Il n’ajoute pas de niveau théorique.
 
 ---
 
 ### Fonction
 
-PASS définit une procédure permettant :
+PASS permet :
 
-- d’appliquer PAR à un objet d’analyse ;
-- de structurer les étapes de l’audit ;
-- de rendre reproductible la démarche.
+- la segmentation des énoncés ;
+- l’identification des régimes ;
+- la détection des tensions ;
+- l’analyse des saturations ;
+- l’activation du CAP ;
+- le filtrage par OVM ;
+- la proposition de transitions ;
+- la détection des zones de rupture.
 
 ---
 
 ### Relation avec le Kernel
 
-- le Kernel assure la cohérence interne ;
-- PASS organise la mise en œuvre opératoire.
+- Kernel : cohérence logique et inférentielle ;
+- PASS : séquence opératoire d’analyse.
 
 ---
 
 ## 🧠 7. Réflexivité graduée
 
-Protokin peut être appliqué à ses propres conditions d’usage.
+Protokin peut s’appliquer à ses propres conditions de validité.
 
 ---
 
 ### 🟢 Niveau 1 — application externe
 
-Analyse de systèmes externes.
+Analyse de systèmes de description externes.
 
 ---
 
 ### 🟡 Niveau 2 — auto-modélisation
 
-Protokin devient lui-même objet d’analyse.
+Protokin devient objet de son propre cadre d’analyse.
 
 ---
 
-### 🟠 Niveau 3 — révision du Kernel
+### 🟠 Niveau 3 — révision contrôlée du Kernel
 
-Les règles du Kernel deviennent discutables et ajustables.
+Les règles du Kernel deviennent ajustables sous contrainte de cohérence logique maintenue par l’OVM.
 
 ---
 
-### 🔴 Niveau 4 — instabilité réflexive
+### 🔴 Niveau 4 — instabilité réflexive contrôlée
 
-La distinction entre cadre, objet et métacadre devient partiellement instable.
+La distinction entre objet, langage et métalangage devient partiellement instable, sans suppression des contraintes de cohérence.
 
-DELTA devient alors central comme opérateur de signalement des limites.
+L’OVM empêche tout collapsus logique (type confusion niveau-objet / métaniveau au sens de Tarski ou Russell).
 
 ---
 
 ## 🧭 8. Métaniveau : audit du système
 
-Le métaniveau consiste à analyser les conditions d’usage de Protokin lui-même.
+Le métaniveau consiste à analyser les conditions de possibilité du système lui-même.
 
 ---
 
 ### Questions structurantes
 
-- Quels types de descriptions Protokin rend-il possibles ?
-- Quels types de descriptions rend-il difficiles ?
-- Quelles distinctions privilégie-t-il ?
-- Dans quelles situations devient-il instable ?
-- Quelles tensions ne peut-il pas modéliser ?
+- Quelles formes d’énoncés Protokin rend-il analysables ?
+- Quelles distinctions inférentielles privilégie-t-il ?
+- Quelles structures de justification rend-il invisibles ?
+- Quelles tensions ne peut-il pas résoudre ?
+- Quelles conditions limitent sa propre applicabilité ?
 
 ---
 
 ## 🚧 9. Zones de limite
 
-Certaines situations peuvent produire des difficultés structurelles :
+Certaines configurations produisent des tensions structurelles :
 
-- tensions entre niveaux descriptifs et conditions institutionnelles ;
-- risques de fermeture auto-référentielle ;
-- instabilité entre objet, théorie et métathéorie.
+- conflits entre systèmes de justification et conditions institutionnelles ;
+- auto-référentialité non contrôlée ;
+- instabilité des niveaux de langage ;
+- indétermination entre objet et métalangage.
 
-DELTA peut intervenir dans ces situations pour signaler des limites de stabilisation.
+DELTA intervient comme marqueur de ces limites de stabilisation.
 
 ---
 
 ## 🧭 Conclusion générale
 
-Protokin est un cadre d’audit :
+Protokin est un cadre d’analyse :
 
 - non ontologique ;
-- multi-régimes ;
-- réflexif par niveaux ;
-- fondé sur tensions, saturations et transitions ;
-- limité par des zones d’indécidabilité internes ;
-- capable d’analyser ses propres conditions d’usage.
+- fondé sur les régimes de justification ;
+- structuré par tensions, saturations et transitions ;
+- contrôlé par des opérateurs de cohérence logique ;
+- limité par des formes d’indécidabilité internes ;
+- réflexif sous contraintes.
 
 ---
 
@@ -280,6 +299,7 @@ Protokin est un cadre d’audit :
 
 > « Protokin ne décrit pas ce qui est.
 >
-> Il organise les conditions sous lesquelles des descriptions peuvent être produites, stabilisées, comparées ou reconnues comme non stabilisables dans un cadre donné. »
+> Il explicite les conditions sémantiques et inférentielles sous lesquelles des énoncés peuvent être produits, justifiés, stabilisés ou déclarés indécidables dans un cadre donné. »
 
 
+---
