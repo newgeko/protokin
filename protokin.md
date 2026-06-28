@@ -1,235 +1,162 @@
-Protokin : étymologie et concept fondateur
+# Protokin : nom, étymologie et concept fondateur
 
-Introduction
+## Introduction
 
-Le nom Protokin n'est pas un habillage terminologique choisi après coup pour désigner un système théorique déjà constitué. Il exprime au contraire l'intuition fondamentale à partir de laquelle le projet s'est progressivement développé.
+Le nom Protokin ne désigne pas d’abord une théorie construite à partir d’une étymologie, ni un système dérivé d’une reconstruction linguistique. Il provient d’un choix pragmatique initial : la disponibilité du nom de domaine protokin.com, qui a permis de fixer un identifiant stable pour le projet.
 
-L'étymologie ne constitue donc pas seulement l'origine du mot ; elle révèle également l'origine du problème philosophique auquel Protokin cherche à répondre.
+Ce choix n’est pas théoriquement motivé à l’origine. Toutefois, il a joué un rôle de support de stabilisation symbolique, permettant à une intuition de recherche de se cristalliser progressivement.
 
-Ce problème peut être formulé simplement :
-
-«Qu'est-ce qui met un système en mouvement ?»
-
-Ou plus précisément :
-
-«Qu'est-ce qui pousse un agent, une communauté ou un cadre descriptif à agir, à se transformer ou à se maintenir ?»
-
-Cette question traverse simultanément les sciences physiques, biologiques, cognitives et sociales. Pourtant, chacune de ces disciplines y répond selon un régime explicatif particulier.
-
-Protokin naît précisément de la nécessité de comprendre comment ces différents régimes décrivent ce qui « met en mouvement » les systèmes qu'ils étudient.
+Le nom précède donc le concept, mais il devient ensuite un lieu de relecture conceptuelle.
 
 ---
 
-Étymologie
+## Étymologie comme couche interprétative
 
-Le terme Protokin peut être décomposé en deux racines grecques :
+Le terme Protokin peut être analysé a posteriori à travers plusieurs couches sémantiques.
 
-Proto (πρῶτος)
+1. Proto (πρῶτος)
 
-Proto désigne :
+- premier ;
+- originaire ;
+- fondamental ;
+- ce qui joue un rôle de condition ;
+- ce qui précède une structuration.
 
-- le premier ;
-- l'originaire ;
-- le fondamental ;
-- ce qui précède un développement ultérieur ;
-- la condition de possibilité d'un processus.
-
-Le préfixe n'indique pas nécessairement un commencement chronologique mais un principe structurant.
-
----
-
-Kin (κίνησις / κινεῖν)
-
-La seconde racine renvoie à :
+2. Kin (κίνησις / κινεῖν)
 
 - κίνησις (kínēsis) : mouvement ;
-- κινεῖν (kinein) : mettre en mouvement, pousser, faire agir.
+- κινεῖν (kinein) : mettre en mouvement, faire passer d’un état à un autre.
 
-Cette famille conceptuelle est à l'origine des termes :
+Cette lecture permet une première image :
 
-- cinétique ;
-- cinématique ;
-- kinésie ;
-- télékinésie.
+«« principe de mouvement » ou « principe de transformation »»
 
-La racine ne désigne pas un objet mais un passage d'un état à un autre.
+Mais cette lecture reste interprétative, non fondatrice.
 
 ---
 
-Sens premier
+## Couche supplémentaire : kin comme relation (kinship)
 
-Pris littéralement, Protokin signifie :
+Une seconde résonance peut être ajoutée, cette fois issue de l’anglais ancien kin, signifiant :
 
-«principe premier du mouvement»
+- parenté ;
+- relation ;
+- appartenance à une même lignée ou famille.
 
-ou
+On retrouve ici l’idée de kinship : un réseau de relations structurantes entre éléments.
 
-«ce qui est à l'origine de la mise en mouvement.»
+Cette couche n’est pas étymologiquement grecque, mais elle introduit une dimension conceptuelle importante :
 
-Mais cette traduction demeure insuffisante.
-
-Car la question décisive devient alors :
-
-«De quel mouvement parle-t-on ?»
+«ce qui relie les éléments dans un même espace de dépendance et d’interaction.»
 
 ---
 
-Les deux grands régimes du mouvement
+Effet de superposition sémantique
 
-L'histoire de la pensée occidentale a progressivement distingué deux grandes réponses à cette question.
+La combinaison de ces couches produit une structure interprétative à trois niveaux :
 
-Le mouvement par les causes
+- Proto : ce qui structure ou précède ;
+- Kin (mouvement) : ce qui transforme ou met en passage ;
+- Kin (relation) : ce qui relie ou organise en réseau.
 
-Dans les sciences physiques et biologiques, un système est mis en mouvement par des causes.
+Il en résulte une configuration non univoque du nom :
 
-Une pierre tombe parce qu'elle est soumise à la gravité.
-
-Une cellule se divise parce qu'un ensemble de mécanismes biochimiques déclenche le processus.
-
-Une tempête se forme parce que certaines conditions atmosphériques sont réunies.
-
-Le mouvement est ici expliqué par des relations causales.
-
-La question pertinente est :
-
-«Qu'est-ce qui produit cet effet ?»
+«Protokin devient un espace sémantique plutôt qu’une définition.»
 
 ---
 
-Le mouvement par les raisons
+Statut du nom
 
-Dans les pratiques humaines, une autre forme de mise en mouvement apparaît.
+Le nom Protokin a donc trois statuts distincts :
 
-Un individu peut agir parce qu'il estime devoir agir.
+1. Pragmatique : nom de domaine servant d’identifiant initial.
+2. Interprétatif : recomposition étymologique a posteriori.
+3. Conceptuel secondaire : image structurante accompagnant la pensée du projet.
 
-Il peut défendre une thèse parce qu'il possède des raisons de la soutenir.
-
-Une communauté peut adopter une norme parce qu'elle la considère justifiée.
-
-Ici, le mouvement n'est plus seulement causal.
-
-Il devient normatif.
-
-La question n'est plus :
-
-«Quelle cause produit cette action ?»
-
-mais :
-
-«Quelle raison justifie cette action ?»
+Ces niveaux doivent être distingués pour éviter toute confusion entre origine du nom et structure du système.
 
 ---
 
-L'intuition centrale de Protokin
+## Problème central du projet
 
-Protokin part d'une observation simple :
+Le point de départ réel du projet n’est pas l’étymologie, mais une question :
 
-malgré leur différence, causes et raisons remplissent une fonction structurellement analogue.
+«Comment des systèmes construisent-ils, stabilisent-ils et transforment-ils leurs cadres de description ?»
 
-Toutes deux répondent à la même question fondamentale :
-
-«Qu'est-ce qui met le système en mouvement ?»
-
-Une force physique met en mouvement un corps.
-
-Une règle met en mouvement une pratique.
-
-Une justification met en mouvement une décision.
-
-Une théorie met en mouvement une recherche.
-
-Une institution met en mouvement une communauté.
-
-La différence ne réside pas dans l'existence du mouvement mais dans le type de régime descriptif mobilisé pour le rendre intelligible.
+Cette question traverse différents régimes explicatifs (physiques, cognitifs, sociaux, normatifs), sans chercher à les unifier.
 
 ---
 
-Le concept de Protokin
+## Du mouvement des objets au mouvement des descriptions
 
-À partir de cette intuition, Protokin peut être défini comme :
+Protokin opère un déplacement :
 
-«l'étude des principes de mise en mouvement propres aux différents régimes descriptifs.»
+- des objets décrits ;
+- vers les conditions de leur descriptibilité.
 
-Le projet ne cherche donc pas à déterminer quelle description est la plus vraie.
+Les systèmes ne sont pas seulement en mouvement.
 
-Il cherche à comprendre :
+Les cadres qui permettent de dire qu’ils sont en mouvement :
 
-- comment un régime identifie ce qui agit ;
-- comment il justifie ce qui produit un changement ;
-- comment il stabilise ses critères d'explication ;
-- comment il gère les tensions qui apparaissent lorsque plusieurs principes de mise en mouvement entrent en concurrence.
-
----
-
-Du mouvement des objets au mouvement des descriptions
-
-La véritable originalité de Protokin apparaît lorsque l'analyse se déplace vers les cadres descriptifs eux-mêmes.
-
-Une théorie scientifique évolue.
-
-Une tradition philosophique se transforme.
-
-Une institution modifie ses normes.
-
-Une communauté change ses pratiques.
-
-Un paradigme est remplacé par un autre.
-
-Ces phénomènes ne concernent plus directement le mouvement des objets.
-
-Ils concernent le mouvement des descriptions.
-
-Dès lors, une nouvelle question apparaît :
-
-«Qu'est-ce qui met les cadres descriptifs eux-mêmes en mouvement ?»
-
-C'est ici que Protokin devient un méta-cadre.
-
-Il ne décrit plus seulement les causes ou les raisons.
-
-Il analyse les conditions sous lesquelles des systèmes de causes ou des systèmes de raisons se stabilisent, se saturent ou se transforment.
+- se stabilisent ;
+- se transforment ;
+- entrent en tension ;
+- se reconfigurent.
 
 ---
 
-Le Kernel comme analyseur des mouvements
+## Effet conceptuel de la superposition “kin”
 
-Dans cette perspective, le Kernel de Protokin ne produit pas de nouvelles explications du réel.
+La double couche du terme kin (mouvement + relation) permet une lecture indirecte mais non constitutive :
 
-Il fonctionne comme un dispositif d'audit.
+- les causes peuvent être vues comme des structures de mise en mouvement ;
+- les raisons peuvent être vues comme des structures de justification relationnelle.
 
-Son rôle consiste à examiner :
+Toutefois, Protokin ne postule pas une symétrie entre ces domaines.
 
-- ce qui stabilise un régime ;
-- ce qui le met sous tension ;
-- ce qui provoque sa saturation ;
-- ce qui rend possible sa transformation.
+Il observe simplement que différents régimes descriptifs mobilisent différentes formes de mise en relation et de mise en mouvement.
 
-Le mouvement n'est donc plus seulement l'objet de l'analyse.
-
-Il devient également la condition de possibilité de l'analyse elle-même.
+La superposition linguistique du nom agit ici comme une image de résonance, non comme une thèse.
 
 ---
 
-Une définition synthétique
+## Le Kernel comme dispositif d’audit
 
-La formule la plus condensée du projet pourrait être :
+Le Kernel de Protokin n’explique pas le monde.
 
-«Protokin est l'étude des principes de mise en mouvement des systèmes descriptifs.»
+Il analyse les conditions de fonctionnement des cadres descriptifs :
 
-Ou encore :
+- stabilisation ;
+- tension ;
+- saturation ;
+- transition.
 
-«Protokin analyse ce qui pousse à agir, qu'il s'agisse de causes dans l'espace des phénomènes ou de raisons dans l'espace des justifications.»
+Il ne remplace pas les régimes explicatifs existants.
 
-Et, à son niveau le plus général :
+Il examine leurs conditions de possibilité et de transformation.
 
-«Protokin est l'audit des conditions qui mettent en mouvement les régimes de description eux-mêmes.»
+---
 
-Ainsi, l'étymologie n'est pas un simple nom.
+## Définition synthétique
 
-Elle constitue le concept fondateur du projet.
+Protokin peut être formulé ainsi :
 
-Le « proto » désigne la recherche du principe structurant.
+«un cadre d’analyse des conditions de stabilisation et de transformation des régimes descriptifs.»
 
-Le « kin » désigne la mise en mouvement.
+Ou :
 
-Protokin devient alors la science des principes de mise en mouvement : des objets, des actions, des normes, des théories et des cadres descriptifs qui organisent notre compréhension du monde.
+«un dispositif d’audit des systèmes de description et de leurs transitions.»
+
+---
+
+## Conclusion
+
+Le nom Protokin ne fonde pas le projet.
+
+Il résulte d’un choix pragmatique (nom de domaine), puis devient progressivement une surface d’interprétation.
+
+L’étymologie grecque (proto / kin) et la résonance anglaise (kin / kinship) ne constituent pas des fondements théoriques, mais des couches sémantiques secondaires qui accompagnent la compréhension du projet.
+
+Le cœur du système reste inchangé :
+
+«l’analyse des conditions sous lesquelles des cadres de description se stabilisent, se transforment et entrent en tension.»
