@@ -1,5 +1,9 @@
 🧭 Protokin — PAR (Protokin Audit des Régimes)
 
+
+> Ce document explicite le niveau **PAR** de l'architecture Protokin.
+> Pour une vue d'ensemble, voir [architecture.md](architecture.md).
+
 ---
 
 🧩 Principe de Sélection des Régimes (PSR)
