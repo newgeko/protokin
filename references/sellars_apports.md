@@ -1,22 +1,77 @@
-Si Richard Rorty insuffle à *Protokin* son climat de pluralisme et Robert Brandom en structure le moteur inférentiel, **Wilfrid Sellars** en est le législateur épistémologique d'origine.[1] Sa philosophie analytique et sa critique sans concession des dogmes empiristes constituent la clé de voûte conceptuelle sur laquelle repose toute la division fonctionnelle entre le niveau « Proto » et le niveau « Kin » du système.
-L'apport de Sellars à l'architecture de *Protokin* s'articule autour de quatre piliers théoriques majeurs :
-### 1. La bipartition "Proto/Kin" comme reflet des deux Espaces Logiques
-La distinction sémantique fondamentale de *Protokin* entre la couche "Proto" (stabilisation physico-cognitive) et la couche "Kin" (stabilisation normative et discursive) trouve sa source directe dans le partage sellarsien entre deux espaces logiques hétérogènes :
- * **L'espace logique des causes (ou domaine des lois) :** Il décrit les relations empiriques de fait, régies par des mécanismes physiques, biologiques ou allostatiques. C'est l'espace du descriptif brut, qui correspond dans *Protokin* aux régimes de la couche "Proto" (de **R1** à **R7**).
- * **L'espace logique des raisons :** Il est le domaine de la normativité, de la justification et des règles discursives. Pour Sellars, caractériser un état comme relevant de la connaissance n'est pas en donner une description empirique, mais « le situer dans l'espace logique des raisons, des justifications et de l'aptitude à justifier ce que l'on affirme ». Cet espace est formalisé dans *Protokin* sous le régime de l'Espace des raisons (**R11**).
-### 2. Le "Démon de von Foerster", le Perroquet et la Rupture Sellarsienne
-Pour illustrer la frontière entre ces deux espaces, Sellars utilise la célèbre comparaison entre le comportement d'un perroquet dressé et celui d'un observateur humain.
- * Le perroquet entraîné à crier « ceci est rouge » en présence d'un stimulus visuel manifeste une **disposition réactive différentielle fiable**. Il réagit mécaniquement à une cause physique, sans pour autant comprendre la signification conceptuelle de son cri.
- * Dans l'architecture *Protokin*, ce comportement limite est modélisé par le régime **P4** (compétence topographique).[1] Le « démon de von Foerster » y agit comme un filtre abstrait qui sélectionne des régularités perceptives sans y injecter de dimension normative ou conceptuelle.[1]
- * Le passage du cri mécanique du perroquet (P4) à l'affirmation justifiée de l'observateur humain (R11) constitue la **rupture sellarsienne** (*Sellarsian break*).[1] Il s'agit d'un saut qualitatif local et non-linéaire — une transition normative — où l'invariant descriptif cesse d'être une simple régularité de fait pour devenir un objet d'engagement rationnel et de justification discursive.[1] Dans le diagnostic de l'Opérateur de Vigilance Modale (OVM), cette transition critique est surveillée pour éviter tout glissement abusif ou court-circuit catégoriel entre le biologique et le rationnel.[1]
-### 3. Le refus du "Mythe du Donné" et la posture non-ontologique de l'audit
-La célèbre charge de Sellars contre le « Mythe du Donné » (*Myth of the Given*) postule qu'aucun fait brut, aucune sensation non conceptualisée ne peut servir de fondement logique ou de justification ultime à nos croyances. La justification est holistique et sémantique : « seule une proposition peut en justifier une autre ».
-*Protokin* opérationnalise radicalement ce refus du Donné à travers sa posture strictement **non-ontologique**. Le Protokin Audit des Régimes (PAR) déclare explicitement qu'il « ne décrit pas la réalité elle-même ». À l'image du holisme sellarsien, *Protokin* se structure comme une théorie des systèmes de justification. Il traite chaque description du monde non pas comme un accès direct au réel, mais comme un **régime de description** local, caractérisé par son propre dictionnaire et ses propres règles d'inférence, dont il s'agit d'auditer la cohérence interne et les seuils de saturation.
-### 4. La dualité "Picturing" / "Justifying" au cœur de la taxonomie
-Pour résoudre la tension entre son physicalisme scientifique et son rationalisme normatif, Sellars propose une distinction subtile entre deux manières dont l'esprit se rapporte au monde :
- * **Le *Picturing* (représentation-image) :** C'est une relation purement causale et biologique de mise en miroir ou de co-adaptation entre un organisme et son milieu (espace des causes).
- * **Le *Justifying* (justification) :** C'est une relation normative de cohérence logique au sein du langage (espace des raisons).
-Cette dualité structure la taxonomie des régimes de *Protokin*. Les régimes physico-dynamiques et biologiques (comme la dissipation structurée **R2**, l'ajustement allostatique **R3** ou le couplage structurel **R7**) modélisent les fonctions de co-adaptation et de *picturing* d'un système. À l'inverse, les régimes normatifs (comme l'espace des raisons **R11** ou l'institution inférentielle **R13**) prennent en charge les relations d'engagement et de justification (\Gamma\vdash\Delta) qui régissent la responsabilité discursive des agents.[1]
-### 5. La quête de la "Vision Synoptique" sans réduction
-Enfin, l'horizon ultime de la philosophie de Sellars est de réconcilier l'**image manifeste** de l'homme (le cadre de l'action libre, de la responsabilité et de la normativité rationnelle) et l'**image scientifique** (le cadre des atomes, des influx neuronaux et des lois physiques déterministes) au sein d'une unique « vision synoptique ». Sellars refuse de sacrifier l'une à l'autre : le naturalisme ne doit pas conduire à éliminer la dimension normative de notre rationalité.
-*Protokin* se présente précisément comme la concrétisation technique et formelle de cette vision synoptique. En refusant le réductionnisme ascendant (qui consisterait à dissoudre les raisons dans les causes physiques), mais en refusant également le dualisme spirituel, le noyau de *Protokin* fait coexister l'image scientifique et l'image manifeste sous la forme de régimes de description hétérogènes mais rigoureusement coordonnés.[1, 1] L'OVM et le CAP (Cycle d'Audit Protokin) agissent comme des interfaces critiques pour permettre des transitions sémantiques claires et contrôlées d'un régime à un autre, réalisant l'idéal sellarsien d'un naturalisme kantien non réductionniste.
+Wilfrid Sellars : le fondement épistémologique de Protokin
+
+Si Richard Rorty insuffle à Protokin son climat de pluralisme et si Robert Brandom en structure le moteur inférentiel, Wilfrid Sellars en constitue le fondement épistémologique. Sa philosophie analytique et sa critique sans concession des dogmes empiristes fournissent la clé de voûte conceptuelle sur laquelle repose la division fonctionnelle entre le niveau Proto et le niveau Kin du système.
+
+L'apport de Sellars à l'architecture de Protokin s'articule autour de cinq piliers théoriques majeurs.
+
+1. La bipartition Proto/Kin comme reflet des deux espaces logiques
+
+La distinction fondamentale de Protokin entre la couche Proto (stabilisation physico-cognitive) et la couche Kin (stabilisation normative et discursive) trouve son inspiration dans la distinction sellarsienne entre deux espaces logiques hétérogènes :
+
+- L'espace logique des causes (ou domaine des lois) : il décrit les relations empiriques de fait régies par des mécanismes physiques, biologiques ou allostatiques. Il correspond, dans Protokin, aux régimes de stabilisation physico-cognitive de la couche Proto.
+
+- L'espace logique des raisons : il constitue le domaine de la normativité, de la justification et des règles discursives. Pour Sellars, caractériser un état comme relevant de la connaissance ne consiste pas à en fournir une description empirique, mais à « le situer dans l'espace logique des raisons, des justifications et de l'aptitude à justifier ce que l'on affirme ». Cet espace trouve son expression dans Protokin au sein du régime R11 – Espace des raisons.
+
+Toutefois, conformément à la posture non-ontologique de Protokin, cette distinction ne doit pas être comprise comme la séparation de deux réalités distinctes, mais comme celle de deux régimes descriptifs irréductibles.
+
+2. Le démon de von Foerster, le perroquet et la rupture sellarsienne
+
+Pour illustrer la frontière entre ces deux espaces, Sellars mobilise la célèbre comparaison entre un perroquet dressé et un observateur humain.
+
+- Un perroquet entraîné à prononcer « ceci est rouge » en présence d'un certain stimulus manifeste une disposition réactive différentielle fiable. Son comportement demeure cependant purement causal : il ne maîtrise pas les implications conceptuelles de son énoncé.
+
+- Dans l'architecture de Protokin, cette situation limite peut être rapprochée du régime P4 – Compétence topographique, où un système discrimine et stabilise des régularités sans encore participer à un réseau normatif de justifications.
+
+- Le passage de cette simple discrimination à une assertion susceptible d'être justifiée, critiquée ou révisée constitue ce que l'on peut appeler une rupture sellarsienne (Sellarsian break). Il ne s'agit pas seulement d'une augmentation de complexité cognitive, mais d'un changement de statut : l'invariant descriptif devient un objet d'engagement rationnel inscrit dans un espace de raisons.
+
+Dans Protokin, l'Opérateur de Vigilance Modale (OVM) surveille précisément les transitions critiques entre ces régimes afin d'éviter les glissements catégoriels entre causalité biologique et normativité discursive.
+
+3. Le refus du Mythe du Donné et la posture non ontologique de l'audit
+
+La critique sellarsienne du Mythe du Donné (Myth of the Given) affirme qu'aucune sensation brute ou donnée immédiate ne peut constituer le fondement ultime de la connaissance.
+
+La justification possède toujours une dimension conceptuelle et s'inscrit dans un réseau de relations inférentielles. Aucune expérience ne justifie directement une croyance indépendamment d'un cadre conceptuel.
+
+Protokin radicalise cette intuition à travers sa posture explicitement non ontologique.
+
+Le Protokin Audit des Régimes (PAR) ne prétend pas décrire la réalité en elle-même. Il examine les conditions de stabilisation, de cohérence et de transformation des régimes descriptifs. Chaque description du monde est ainsi considérée comme un régime local doté de son propre dictionnaire, de ses propres règles d'inférence et de ses propres critères de validité.
+
+L'objet de l'audit n'est donc pas le réel en tant que tel, mais les systèmes de justification mobilisés pour le décrire.
+
+4. La dualité Picturing / Justifying au cœur de la taxonomie
+
+Pour articuler son naturalisme scientifique et sa théorie de la normativité, Sellars distingue deux formes de rapport au monde :
+
+- Picturing : relation causale de co-adaptation entre un organisme et son environnement. Elle relève de l'espace des causes.
+
+- Justifying : relation normative de justification et de cohérence conceptuelle. Elle relève de l'espace des raisons.
+
+Cette dualité traverse la taxonomie de Protokin.
+
+Les régimes physico-dynamiques et biologiques — tels que R2 (Dissipation structurée), R3 (Ajustement allostatique) ou R7 (Couplage structurel) — décrivent les processus de stabilisation et de co-adaptation que Sellars associerait au picturing.
+
+À l'inverse, les régimes normatifs tels que R11 (Espace des raisons) ou R13 (Institution inférentielle) prennent en charge les relations d'engagement, de justification et de responsabilité discursive pouvant être formalisées par des structures inférentielles du type :
+
+[
+\Gamma \vdash \Delta
+]
+
+La distinction entre picturing et justifying devient ainsi un principe organisateur majeur de l'architecture de Protokin.
+
+5. La quête d'une vision synoptique sans réduction
+
+L'ambition ultime de Sellars consiste à réconcilier deux images du monde :
+
+- l'image manifeste, dans laquelle apparaissent les agents, les intentions, les normes et les responsabilités ;
+
+- l'image scientifique, qui décrit les structures physiques, biologiques et neurocognitives.
+
+La philosophie sellarsienne refuse aussi bien le réductionnisme éliminatif que le dualisme. Son objectif est de produire une vision synoptique permettant de coordonner ces deux perspectives sans en abolir aucune.
+
+Protokin peut être compris comme une formalisation méthodologique de cette ambition.
+
+Le système refuse de réduire les raisons aux causes, mais refuse également de détacher les raisons de tout ancrage naturel. Les différents régimes descriptifs demeurent hétérogènes tout en étant articulables au sein d'une architecture commune.
+
+L'OVM et le Cycle d'Audit Protokin (CAP) jouent alors le rôle d'interfaces critiques permettant de clarifier les transitions entre régimes et de maintenir la cohérence des passages d'un espace descriptif à un autre.
+
+Sous cet angle, Protokin apparaît comme une tentative de réalisation formelle de l'idéal sellarsien d'un naturalisme kantien non réductionniste : une théorie capable de coordonner l'image scientifique et l'image manifeste sans confondre les causes et les raisons.
