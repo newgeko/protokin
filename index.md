@@ -14,7 +14,7 @@ Ce niveau définit l’identité minimale du système.
 - **Nom et étymologie** → nom_etymologie.md  
   Origine pragmatique du nom et couches interprétatives (proto / kin / kinship).
 
-- **Statut du projet** → statut.md  
+- **Statut du projet** → (statut.md)[statut.md]  
   Positionnement : non-ontologie, métathéorie, pragmatisme, inférentialisme.
 
 ---
