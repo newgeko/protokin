@@ -23,13 +23,13 @@ Ce niveau définit l’identité minimale du système.
 
 Ce niveau définit les cadres de description analysés par Protokin.
 
-- **Architecture générale** → architecture.md  
+- **Architecture générale** → [architecture](architecture.md)  
   Organisation globale du système d’audit.
 
-- **Régimes de description** → regimes.md  
-  Ensemble structuré des régimes (R1–R13) et leurs critères de validité internes.
+- **Régimes de description** → [régimes](regimes.md)  
+  Ensemble structuré des régimes (R1–Rn) et leurs critères de validité internes.
 
-- **Distinction causes / raisons** → causes_raisons.md  
+- **Distinction causes / raisons** → [causes & raisons](causes_raisons.md)  
   Séparation entre espace des causes (explication causale) et espace des raisons (justification normative).
 
 ---
@@ -38,13 +38,13 @@ Ce niveau définit les cadres de description analysés par Protokin.
 
 Ce niveau décrit le fonctionnement interne du dispositif d’audit.
 
-- **Kernel** → kernel.md  
+- **Kernel** → [kernel](kernel.md)  
   Module central d’analyse : tensions, saturations, transitions.
 
-- **Tensions** → tensions.md  
+- **Tensions** → [tensions](tensions.md)  
   Incompatibilités locales entre régimes descriptifs.
 
-- **Transitions** → transitions.md  
+- **Transitions** → [transitions](transitions.md)  
   Reconfigurations de cadres et gestion des zones de rupture (ZR).
 
 - **Opérations limites (DELTA)** → (intégré dans kernel.md)  
@@ -56,13 +56,13 @@ Ce niveau décrit le fonctionnement interne du dispositif d’audit.
 
 Ce niveau formalise les outils d’analyse.
 
-- **Protocole d’audit** → audit.md  
+- **Protocole d’audit** → [audit](audit.md)  
   Méthode générale d’évaluation des régimes.
 
-- **Opérateur de Vigilance Modale (OVM)** → ovm.md  
+- **Opérateur de Vigilance Modale (OVM)** → [ovm](ovm.md)  
   Détection des compressions, substitutions et mélanges causes/raisons.
 
-- **Critères de validité** → validite.md  
+- **Critères de validité** → [validité](validite.md)  
   Conditions internes de justification propres à chaque régime.
 
 ---
