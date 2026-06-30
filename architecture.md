@@ -96,7 +96,7 @@ Tout régime définit :
 
 Incompatibilité entre deux régimes appliqués simultanément à un même objet.
 
-Elle n’est pas une contradiction logique interne, mais un **désalignement des critères de justification**.
+Elle n’est pas une contradiction logique interne, mais un désalignement des critères de justification.
 
 ---
 
@@ -134,8 +134,8 @@ Le Kernel est un mécanisme de **contrôle local de cohérence entre régimes**.
 
 Il assure trois opérations :
 
-- détection des tensions (CAP) ;
-- contrôle des transpositions modales (OVM) ;
+- détection des tensions via CAP ;
+- contrôle des transpositions modales via OVM ;
 - organisation des transitions entre régimes.
 
 ---
@@ -156,7 +156,7 @@ Il régule les conditions de cohérence des systèmes de justification.
 
 # 🚧 6. DELTA — opérateur de limite
 
-DELTA est un opérateur de second ordre signalant un **échec de stabilisation dans un cadre donné**.
+DELTA est un opérateur de second ordre signalant un échec de stabilisation dans un cadre donné.
 
 ---
 
@@ -173,7 +173,7 @@ Il intervient lorsque :
 
 DELTA ne résout pas.
 
-Il signale une **limite interne du système de règles en cours d’application**.
+Il signale une limite interne du système de règles en cours d’application.
 
 ---
 
