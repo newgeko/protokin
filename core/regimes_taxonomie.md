@@ -1,114 +1,110 @@
-# Taxonomie des régimes (R1–Rn)
+# 🧭 Régimes de description (carte ouverte)
 
-👉 Ce fichier répond à une seule question :
+👉 Ce fichier ne constitue pas une taxonomie fermée.
 
-> “Quels sont les régimes utilisés dans Protokin et comment les distinguer ?”
+Il décrit un ensemble de régimes observés dans les opérations d’audit Protokin.
 
----
-
-🧭 Principe général
-
-Les régimes sont regroupés en familles fonctionnelles selon leur mode de stabilisation.
-
-Ils sont des repères d’audit, pas des entités hiérarchiques.
-
+Ces régimes ne sont pas hiérarchisés et peuvent se recouper partiellement.
 
 ---
 
-🌐 I. Régimes physico-dynamiques
+## 🧩 Principe général
 
-R1 — Transitions élémentaires micro-physiques
-Invariant : continuités de transformation sans objet stable
+Les régimes ne décrivent pas des niveaux du réel.
 
-R2 — Dissipation structurée
-Invariant : organisation émergente hors équilibre
+Ils décrivent des **modes locaux de stabilisation de la descriptibilité**.
 
----
-
-🧬 II. Régimes biologiques
-
-R3 — Ajustement allostatique
-Invariant : viabilité anticipée par régulation dynamique
-
-R7 — Couplage structurel
-Invariant : stabilité par histoire d’interactions
-
-R15 — Sélection antagoniste et dérive phylogénétique
-Invariant : stabilité évolutive différenciée
+Un même phénomène peut être stabilisé sous plusieurs régimes incompatibles ou partiellement compatibles.
 
 ---
 
-🧠 III. Régimes cognitifs et opératoires
+## 🌐 Régimes physico-dynamiques (non exclusifs)
 
-R4 — Compétence topographique
-Invariant : construction d’invariants perceptifs
+- Transitions micro-physiques sans stabilité d’objet
+- Régimes hors équilibre et structures dissipatives
 
-R5 — Minimisation de la surprise
-Invariant : cohérence modèle / flux
-
-R6 — Récursion prospective
-Invariant : action structurée par simulation future
+👉 Invariant général :
+stabilisation par transformation continue ou émergente
 
 ---
 
-👥 IV. Régimes socio-développementaux
+## 🧬 Régimes biologiques et viabilité
 
-R8 — Intentionnalité partagée
-Invariant : coordination d’agents
+- Régimes d’ajustement allostatique
+- Régimes de couplage structurel
+- Régimes évolutifs de stabilisation différentielle
 
-R9 — Stabilisation conventionnelle cumulative
-Invariant : régularités sociales non institutionnelles
-
-R10 — Morphogenèse socio-interactive
-Invariant : stabilisation par imitation et conflit
+👉 Invariant général :
+stabilisation par maintien de la viabilité dans un environnement changeant
 
 ---
 
-⚖️ V. Régimes normatifs
+## 🧠 Régimes cognitifs et opératoires
 
-R11 — Espace des raisons
-Invariant : distinction causes / justifications
+- Régimes perceptifs et construction d’invariants
+- Régimes prédictifs et minimisation d’erreur
+- Régimes prospectifs et simulation d’action
 
-R12 — Régime thymique de saillance normative
-Invariant : hiérarchisation affective des raisons
-
-R13 — Institution inférentielle
-Invariant : distribution des responsabilités normatives
+👉 Invariant général :
+stabilisation par organisation de l’anticipation et de l’action
 
 ---
 
-🛠 VI. Régimes sémiotiques et techniques
+## 👥 Régimes socio-pragmatiques
 
-R16 — Sémiose triadique
-Invariant : production d’interprétants stabilisés
+- Régimes d’intentionnalité partagée
+- Régimes de conventions stabilisées
+- Régimes d’interaction et de coordination
 
-R17 — Individuation technique
-Invariant : cohérence fonctionnelle des objets techniques
-
----
-
-🧭 VII. Régime méta
-
-R14 — Audit métathéorique
-Invariant : contrôle des régimes et des transitions
+👉 Invariant général :
+stabilisation par coordination entre agents
 
 ---
 
-⚠️ Propriétés générales
+## ⚖️ Régimes normatifs et inférentiels
 
-non hiérarchiques
+- Régimes de l’espace des raisons
+- Régimes de hiérarchisation normative
+- Régimes d’attribution de responsabilité
 
-non réductibles
-
-localement activés
-
-reliés par tensions
-
-définis par invariants, non par ontologie
+👉 Invariant général :
+stabilisation par justification et engagement inférentiel
 
 ---
 
-🧠 Principe final
+## 🛠 Régimes sémiotiques et techniques
 
-> Les régimes ne décrivent pas des niveaux du réel.
-Ils décrivent des modes de stabilisation de la descriptibilité.
+- Régimes de production d’interprétants
+- Régimes d’individuation technique
+- Régimes de stabilisation fonctionnelle des artefacts
+
+👉 Invariant général :
+stabilisation par circulation et stabilisation des signes et des fonctions
+
+---
+
+## 🧭 Régimes méta et réflexifs
+
+- Régimes d’audit des régimes
+- Régimes de transition et reconfiguration
+- Régimes de détection des limites (DELTA)
+
+👉 Invariant général :
+stabilisation par observation et transformation des conditions de stabilisation
+
+---
+
+## ⚠️ Propriétés générales
+
+- non hiérarchiques
+- non exhaustifs
+- partiellement chevauchants
+- activés localement par les opérations d’audit
+- définis par invariants fonctionnels, non par domaines du réel
+
+---
+
+## 🧠 Principe final
+
+> Les régimes ne sont pas des niveaux du monde.
+> Ils sont des manières différentes de stabiliser ce qui peut être décrit.
