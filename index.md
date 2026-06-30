@@ -8,7 +8,7 @@
 
 Ce niveau définit l’identité minimale du système.
 
-- **En une phrase** → [en_une_phrase](en_un_phrase.md)  
+- **En une phrase** → [définition](en_une_phrase.md)  
   Définition canonique du projet.
 
 - **Nom et étymologie** → [protokin](protokin.md) 
