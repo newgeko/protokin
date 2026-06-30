@@ -1,259 +1,139 @@
-# Protokin
+# Protokin — Architecture v2 stabilisée
 
-## A reading interface for descriptive and inferential systems
-
----
-
-# ⟡ SYSTEM STATUS
-
-> You are not reading a document.  
-> You are navigating a space of descriptive regimes.
+> Protokin est une métathéorie pragmatiste, inférentialiste et non-ontologique destinée à auditer les régimes de description, leurs conditions de validité, leurs conflits et leurs transitions.
 
 ---
 
-# ⟡ CORE INTERFACE
+## 1. Niveau fondationnel
 
-Protokin is a comparative framework for analyzing how systems:
+Ce niveau définit l’identité minimale du système.
 
-- construct descriptions
-- stabilize models
-- generate inferences
-- justify statements
-- fail, saturate, and transform
+- **En une phrase** → en_une_phrase.md  
+  Définition canonique du projet.
 
-It operates as a **multi-lens reading environment**.
+- **Nom et étymologie** → nom_etymologie.md  
+  Origine pragmatique du nom et couches interprétatives (proto / kin / kinship).
 
----
-
-# ⟡ NAVIGATION MODES
-
-Choose a lens:
-
-- 🟦 Proto → stability, constraints, generative structures
-- 🟨 Kin → relations, justification, inferential structure
-- 🟩 Hybrid → coupling of stability and relation
-- 🧩 Case Mode → analysis of theoretical systems
-- 🧠 Meta Mode → observation of description systems themselves
+- **Statut du projet** → statut.md  
+  Positionnement : non-ontologie, métathéorie, pragmatisme, inférentialisme.
 
 ---
 
-# ⟡ GLOBAL ARCHITECTURE MAP
+## 2. Niveau structural (régimes et distinctions)
 
-```mermaid id="protokin_map"
-flowchart TD
+Ce niveau définit les cadres de description analysés par Protokin.
 
-A[Theoretical Texts] --> B[Case Files]
+- **Architecture générale** → architecture.md  
+  Organisation globale du système d’audit.
 
-B --> B1[Friston - Active Inference]
-B --> B2[Brandom - Inferentialism]
-B --> B3[Predictive Processing]
-B --> B4[AI Agency Models]
-B --> B5[Normative Systems]
+- **Régimes de description** → regimes.md  
+  Ensemble structuré des régimes (R1–R13) et leurs critères de validité internes.
 
-B --> C[Reading Protocol]
-
-C --> C1[Inference Structure]
-C --> C2[Validity Regimes]
-C --> C3[Perception-Action Coupling]
-C --> C4[Failure Modes]
-
-C --> D[Regime Analysis]
-
-D --> D1[Proto Layer - Stability]
-D --> D2[Kin Layer - Relation]
-D --> D3[Hybrid Coupling Zone]
-
-D --> E[Transition Dynamics]
-
-E --> E1[Saturation]
-E --> E2[Reconfiguration]
-E --> E3[Collapse / Re-stabilization]
-
-E --> F[Protokin Meta Layer]
-
-F --> G[Epistemic Map of Descriptive Systems]
-```
+- **Distinction causes / raisons** → causes_raisons.md  
+  Séparation entre espace des causes (explication causale) et espace des raisons (justification normative).
 
 ---
 
-⟡ LENS SYSTEM
+## 3. Niveau opératoire (Kernel)
 
-🟦 PROTO LENS
+Ce niveau décrit le fonctionnement interne du dispositif d’audit.
 
-You are analyzing:
+- **Kernel** → kernel.md  
+  Module central d’analyse : tensions, saturations, transitions.
 
-stabilizing constraints
+- **Tensions** → tensions.md  
+  Incompatibilités locales entre régimes descriptifs.
 
-generative conditions
+- **Transitions** → transitions.md  
+  Reconfigurations de cadres et gestion des zones de rupture (ZR).
 
-physical / computational structure
-
-persistence of systems
-
-
-Question
-
-> What allows a system to exist and remain coherent?
-
-
-
+- **Opérations limites (DELTA)** → (intégré dans kernel.md)  
+  Détection des seuils de stabilité et des limites de formalisation.
 
 ---
 
-🟨 KIN LENS
+## 4. Niveau méthodologique (audit)
 
-You are analyzing:
+Ce niveau formalise les outils d’analyse.
 
-inferential relations
+- **Protocole d’audit** → audit.md  
+  Méthode générale d’évaluation des régimes.
 
-normative structures
+- **Opérateur de Vigilance Modale (OVM)** → ovm.md  
+  Détection des compressions, substitutions et mélanges causes/raisons.
 
-justification chains
-
-semantic coupling
-
-
-Question
-
-> What allows a system to count as valid or meaningful?
-
-
-
+- **Critères de validité** → validite.md  
+  Conditions internes de justification propres à chaque régime.
 
 ---
 
-🟩 HYBRID LENS
+## 5. Niveau d’application (exemples)
 
-You are analyzing the interaction between Proto and Kin:
+Ce niveau rend le système intelligible par des cas.
 
-how stability enables inference
+- **Exemples d’audit** → examples.md  
+  Cas concrets d’analyse de régimes.
 
-how inference reshapes stability
-
-how systems shift between both modes
-
-
-Key insight
-
-> No system is purely Proto or purely Kin
-All systems distribute both dimensions
-
-
-
+- **Erreurs typiques** → pitfalls.md  
+  Confusions structurelles : réduction, mélange de niveaux, faux transferts.
 
 ---
 
-⟡ CASE MODE
+## 6. Niveau théorique (cartographie)
 
-You are now entering concrete systems of analysis:
+Ce niveau stabilise les influences philosophiques.
 
-Active Inference
+- **Cartographie philosophique** → cartographie.md  
+  Sellars, Brandom, Rorty, Wittgenstein, Vuillemin, Bouveresse, Fricker.
 
-Predictive Processing
-
-Inferentialism (Sellars, Brandom)
-
-AI agent architectures
-
-normative systems and coordination structures
-
-
-Each case is treated as a locally stable descriptive regime.
-
+- **Opérationnalisation des auteurs** → influences.md  
+  Traduction fonctionnelle de chaque auteur dans le système.
 
 ---
 
-⟡ META MODE
+## 7. Niveau avancé (optionnel / extensible)
 
-In Meta Mode, you analyze:
+Ce niveau est volontairement séparé pour éviter l’inflation structurelle.
 
-how systems define inference
+- **Réflexivité du système (N1–N4)** → reflexivite.md  
+  Auto-audit du Kernel et limites de la clôture descriptive.
 
-how they define validity
-
-how they stabilize objects of knowledge
-
-how they handle failure
-
-how they transition between regimes
-
-
-You are no longer inside a theory.
-
-You are observing how theories construct themselves.
-
+> ⚠️ Ce niveau est secondaire : il décrit le système se décrivant lui-même.
 
 ---
 
-⟡ STATE MACHINE VIEW
+## 8. Guide de lecture
 
-PROTO ↑ (constraints, generativity)
-KIN   ↑ (relations, justification)
+Ordre recommandé :
 
-System evolves through:
-
-- saturation of constraints
-- breakdown of justification
-- instability of coupling
-
-→ transition to new regime
-
+1. en_une_phrase.md  
+2. nom_etymologie.md  
+3. architecture.md  
+4. regimes.md  
+5. kernel.md  
+6. audit.md  
+7. examples.md  
 
 ---
 
-⟡ TRANSITION PRINCIPLE
+## 9. Principe de stabilité du système
 
-A system changes regime when:
+Protokin ne cherche pas à produire une ontologie complète des phénomènes.
 
-it can no longer stabilize its descriptions (PROTO failure)
+Il fonctionne comme un dispositif d’audit des régimes de description.
 
-or it can no longer justify its inferences (KIN failure)
+Trois opérations fondamentales structurent son fonctionnement :
 
-
-Protokin studies these transitions.
-
-
----
-
-⟡ CORE QUESTION
-
-> How do systems stabilize what exists
-and justify what counts as meaningful?
-
-
-
+- stabilisation des cadres
+- détection des tensions
+- gestion des transitions
 
 ---
 
-⟡ ENTRY PATHS
+## 10. Limite structurale
 
-Explore case studies
+Toute extension du système doit respecter une contrainte stricte :
 
-Learn the reading protocol
+> aucun nouvel élément ne doit modifier la hiérarchie des niveaux sans justifier un gain analytique clair.
 
-Switch analytical lens
-
-Observe regime transitions
-
-Study failure modes
-
-
-
----
-
-⟡ STATUS
-
-Protokin is:
-
-a comparative epistemology framework
-
-a multi-lens reading environment
-
-a model for studying descriptive systems
-
-
-It is not a theory.
-
-It is an interface for analyzing theories.
-
----
+Protokin privilégie la **lisibilité structurelle** sur l’exhaustivité conceptuelle.
