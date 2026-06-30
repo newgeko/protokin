@@ -1,139 +1,140 @@
-# Protokin — Du Mouvement des objets au mouvement des Descriptions 
+# Protokin — Du mouvement des objets au mouvement des descriptions
 
-> Protokin est une métathéorie pragmatiste, inférentialiste et non-ontologique destinée à auditer les régimes de description, leurs conditions de validité, leurs conflits et leurs transitions.
+> Protokin est une métathéorie pragmatiste, inférentialiste et non-ontologique.
+> Elle vise à auditer les régimes de description, leurs conditions de validité, leurs conflits et leurs transitions.
 
 ---
 
-## 1. Niveau fondationnel
+## 🧭 1. Orientation générale
 
-Ce niveau définit l’identité minimale du système.
+Protokin ne décrit pas des objets du monde.
+
+Il analyse **les conditions sous lesquelles des descriptions deviennent stables, instables ou incompatibles**.
+
+### Baseline du projet
+> Du mouvement des objets au mouvement des descriptions
+
+---
+
+## 🧩 2. Niveau fondationnel
+
+Ce niveau fixe l’identité minimale du système.
 
 - **En une phrase** → [définition](en_une_phrase.md)  
-  Définition canonique du projet.
+  Formulation canonique du projet.
 
-- **Nom et étymologie** → [protokin](protokin.md) 
-  Origine pragmatique du nom et couches interprétatives (proto / kin / kinship).
+- **Nom et étymologie** → [protokin](protokin.md)  
+  Origine pragmatique du terme (proto / kin / kinship).
 
 - **Statut du projet** → [statut](statut.md)  
-  Positionnement : non-ontologie, métathéorie, pragmatisme, inférentialisme.
+  Positionnement : non-ontologie, pragmatisme, inférentialisme.
 
 ---
 
-## 2. Niveau structural (régimes et distinctions)
+## ⚙️ 3. Niveau structural (Content Layer)
 
-Ce niveau définit les cadres de description analysés par Protokin.
+Ce niveau regroupe les objets d’analyse.
 
 - **Architecture générale** → [architecture](architecture.md)  
-  Organisation globale du système d’audit.
+  Distinction Content Layer / Kernel et organisation globale.
 
-- **Régimes de description** → [régimes](regimes.md)  
-  Ensemble structuré des régimes (R1–Rn) et leurs critères de validité internes.
+- **Régimes de description** → [regimes](regimes.md)  
+  Espaces locaux de contraintes de justification.
 
 - **Distinction causes / raisons** → [causes & raisons](causes_raisons.md)  
-  Séparation entre espace des causes (explication causale) et espace des raisons (justification normative).
+  Séparation entre explication causale et justification normative.
 
 ---
 
-## 3. Niveau opératoire (Kernel)
+## ⚙️ 4. Niveau opératoire (Kernel)
 
-Ce niveau décrit le fonctionnement interne du dispositif d’audit.
+Ce niveau décrit les opérations d’audit.
 
 - **Kernel** → [kernel](kernel.md)  
-  Module central d’analyse : tensions, saturations, transitions.
+  Mécanisme de régulation des régimes.
 
 - **Tensions** → [tensions](tensions.md)  
-  Incompatibilités locales entre régimes descriptifs.
+  Désalignements entre régimes de description.
 
 - **Transitions** → [transitions](transitions.md)  
-  Reconfigurations de cadres et gestion des zones de rupture (ZR).
+  Reconfigurations locales des cadres.
 
-- **Opérations limites (DELTA)** → (intégré dans kernel.md)  
-  Détection des seuils de stabilité et des limites de formalisation.
+- **DELTA** → (intégré dans kernel.md)  
+  Signal de limite de stabilisation.
 
 ---
 
-## 4. Niveau méthodologique (audit)
-
-Ce niveau formalise les outils d’analyse.
+## 🧪 5. Niveau méthodologique (audit)
 
 - **Protocole d’audit** → [audit](audit.md)  
-  Méthode générale d’évaluation des régimes.
+  Méthode générale d’analyse des régimes.
 
-- **Opérateur de Vigilance Modale (OVM)** → [ovm](ovm.md)  
-  Détection des compressions, substitutions et mélanges causes/raisons.
+- **OVM (Opérateur de Vigilance Modale)** → [ovm](ovm.md)  
+  Détection des glissements de niveau (causes / raisons / substitutions).
 
-- **Critères de validité** → [validité](validite.md)  
+- **Critères de validité** → [validite](validite.md)  
   Conditions internes de justification propres à chaque régime.
 
 ---
 
-## 5. Niveau d’application (exemples)
+## 🧠 6. Niveau d’application
 
-Ce niveau rend le système intelligible par des cas.
+- **Exemples d’audit** → [examples](examples.md)  
+  Cas concrets d’analyse.
 
-- **Exemples d’audit** → examples.md  
-  Cas concrets d’analyse de régimes.
-
-- **Erreurs typiques** → pitfalls.md  
-  Confusions structurelles : réduction, mélange de niveaux, faux transferts.
+- **Erreurs typiques** → [pitfalls](pitfalls.md)  
+  Confusions structurelles et erreurs de lecture.
 
 ---
 
-## 6. Niveau théorique (cartographie)
+## 📚 7. Niveau théorique (cartographie)
 
-Ce niveau stabilise les influences philosophiques.
+- **Cartographie philosophique** → [cartographie](cartographie.md)  
+  Sellars, Brandom, Quine, Wittgenstein, Vuillemin, Bouveresse…
 
-- **Cartographie philosophique** → cartographie.md  
-  Sellars, Brandom, Rorty, Wittgenstein, Vuillemin, Bouveresse, Fricker.
-
-- **Opérationnalisation des auteurs** → influences.md  
-  Traduction fonctionnelle de chaque auteur dans le système.
+- **Opérationnalisation des auteurs** → [influences](influences.md)  
+  Traduction fonctionnelle dans le système.
 
 ---
 
-## 7. Niveau avancé (optionnel / extensible)
+## 🧠 8. Niveau avancé (réflexivité)
 
-Ce niveau est volontairement séparé pour éviter l’inflation structurelle.
+- **Réflexivité du système (N1–N4)** → [reflexivite](reflexivite.md)  
+  Auto-audit et limites de clôture.
 
-- **Réflexivité du système (N1–N4)** → reflexivite.md  
-  Auto-audit du Kernel et limites de la clôture descriptive.
-
-> ⚠️ Ce niveau est secondaire : il décrit le système se décrivant lui-même.
+> ⚠️ Niveau secondaire : traite du système appliqué à lui-même.
 
 ---
 
-## 8. Guide de lecture
+## 📖 9. Guide de lecture
 
 Ordre recommandé :
 
 1. en_une_phrase.md  
-2. nom_etymologie.md  
-3. architecture.md  
-4. regimes.md  
-5. kernel.md  
-6. audit.md  
-7. examples.md  
+2. architecture.md  
+3. regimes.md  
+4. kernel.md  
+5. audit.md  
+6. examples.md  
 
 ---
 
-## 9. Principe de stabilité du système
+## 🧭 10. Principe de stabilité
 
-Protokin ne cherche pas à produire une ontologie complète des phénomènes.
+Protokin fonctionne comme un système d’audit, non comme une ontologie.
 
-Il fonctionne comme un dispositif d’audit des régimes de description.
+Trois opérations structurent son fonctionnement :
 
-Trois opérations fondamentales structurent son fonctionnement :
-
-- stabilisation des cadres
-- détection des tensions
-- gestion des transitions
+- stabilisation des cadres  
+- détection des tensions  
+- gestion des transitions  
 
 ---
 
-## 10. Limite structurale
+## 🚧 11. Limite structurale
 
-Toute extension du système doit respecter une contrainte stricte :
+Toute extension doit respecter une contrainte stricte :
 
-> aucun nouvel élément ne doit modifier la hiérarchie des niveaux sans justifier un gain analytique clair.
+> aucune augmentation de complexité structurelle sans gain analytique explicite
 
-Protokin privilégie la **lisibilité structurelle** sur l’exhaustivité conceptuelle.
+Protokin privilégie la lisibilité des opérations d’audit sur l’exhaustivité descriptive.
