@@ -1,4 +1,4 @@
-# Protokin — Architecture v2 stabilisée
+# Protokin — Du Mouvement des objets au mouvement des Descriptions 
 
 > Protokin est une métathéorie pragmatiste, inférentialiste et non-ontologique destinée à auditer les régimes de description, leurs conditions de validité, leurs conflits et leurs transitions.
 
