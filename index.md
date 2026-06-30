@@ -8,13 +8,13 @@
 
 Ce niveau définit l’identité minimale du système.
 
-- **En une phrase** → en_une_phrase.md  
+- **En une phrase** → [en_une_phrase](en_un_phrase.md)  
   Définition canonique du projet.
 
-- **Nom et étymologie** → nom_etymologie.md  
+- **Nom et étymologie** → [protokin](protokin.md) 
   Origine pragmatique du nom et couches interprétatives (proto / kin / kinship).
 
-- **Statut du projet** → [statut.md](statut.md)  
+- **Statut du projet** → [statut](statut.md)  
   Positionnement : non-ontologie, métathéorie, pragmatisme, inférentialisme.
 
 ---
