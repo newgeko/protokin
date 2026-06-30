@@ -1,6 +1,5 @@
-# Protokin : nom, étymologie et concept fondateur
 
----
+# Protokin : nom, étymologie et concept fondateur
 
 ## Introduction
 
@@ -20,21 +19,22 @@ Le terme *Protokin* peut être analysé a posteriori à travers plusieurs couche
 
 ### Proto (πρῶτος)
 
-- premier
-- originaire
-- fondamental
-- ce qui joue un rôle de condition
-- ce qui précède une structuration
+- premier  
+- originaire  
+- fondamental  
+- ce qui joue un rôle de condition  
+- ce qui précède une structuration  
+
+---
 
 ### Kin (κίνησις / κινεῖν)
 
-- κίνησις (*kínēsis*) : mouvement
-- κινεῖν (*kinein*) : mettre en mouvement, faire passer d’un état à un autre
+- κίνησις (*kínēsis*) : mouvement  
+- κινεῖν (*kinein*) : mettre en mouvement, faire passer d’un état à un autre  
 
 Cette lecture permet une première image :
 
-> principe de mouvement  
-> ou principe de transformation
+> principe de mouvement ou principe de transformation
 
 Mais cette lecture reste interprétative, non fondatrice.
 
@@ -44,9 +44,9 @@ Mais cette lecture reste interprétative, non fondatrice.
 
 Une seconde résonance peut être ajoutée, issue de l’anglais ancien *kin*, signifiant :
 
-- parenté
-- relation
-- appartenance à une lignée ou une famille
+- parenté  
+- relation  
+- appartenance à une lignée ou une famille  
 
 On retrouve ici l’idée de *kinship* : un réseau de relations structurantes entre éléments.
 
@@ -60,9 +60,9 @@ Cette couche n’est pas étymologiquement grecque, mais elle introduit une dime
 
 La combinaison de ces couches produit une structure interprétative à trois niveaux :
 
-- Proto : ce qui structure ou précède
-- Kin (mouvement) : ce qui transforme ou met en passage
-- Kin (relation) : ce qui relie ou organise en réseau
+- Proto : ce qui structure ou précède  
+- Kin (mouvement) : ce qui transforme ou met en passage  
+- Kin (relation) : ce qui relie ou organise en réseau  
 
 Il en résulte une configuration non univoque du nom :
 
@@ -74,14 +74,14 @@ Il en résulte une configuration non univoque du nom :
 
 Le nom *Protokin* possède trois statuts distincts :
 
-1. **Pragmatique**  
-   Nom de domaine servant d’identifiant initial.
+### 1. Pragmatique  
+Nom de domaine servant d’identifiant initial.
 
-2. **Interprétatif**  
-   Recomposition étymologique a posteriori.
+### 2. Interprétatif  
+Recomposition étymologique a posteriori.
 
-3. **Conceptuel secondaire**  
-   Image structurante accompagnant la pensée du projet.
+### 3. Conceptuel secondaire  
+Image structurante accompagnant la pensée du projet.
 
 Ces niveaux doivent être distingués pour éviter toute confusion entre origine du nom et structure du système.
 
@@ -91,9 +91,9 @@ Ces niveaux doivent être distingués pour éviter toute confusion entre origine
 
 Le point de départ réel du projet n’est pas l’étymologie, mais une question :
 
-> Comment des systèmes construisent-ils, stabilisent-ils et transforment-ils leurs cadres de description ?
+> Comment des régimes descriptifs se construisent-ils, se stabilisent-ils, entrent-ils en tension et se transforment-ils ?
 
-Cette question traverse différents régimes explicatifs (physiques, cognitifs, sociaux, normatifs), sans chercher à les unifier.
+Cette question traverse différents régimes explicatifs (physiques, cognitifs, sociaux, normatifs), ainsi que la distinction entre l’espace des causes et l’espace des raisons, sans chercher à les unifier.
 
 ---
 
@@ -101,17 +101,17 @@ Cette question traverse différents régimes explicatifs (physiques, cognitifs, 
 
 Protokin opère un déplacement :
 
-- des objets décrits
-- vers les conditions de leur descriptibilité
+- des objets décrits  
+- vers les conditions de leur descriptibilité  
 
 Les systèmes ne sont pas seulement en mouvement.
 
 Les cadres qui permettent de dire qu’ils sont en mouvement :
 
-- se stabilisent
-- se transforment
-- entrent en tension
-- se reconfigurent
+- se stabilisent  
+- se transforment  
+- entrent en tension  
+- se reconfigurent  
 
 ---
 
@@ -119,8 +119,8 @@ Les cadres qui permettent de dire qu’ils sont en mouvement :
 
 La double couche du terme *kin* (mouvement + relation) permet une lecture indirecte mais non constitutive :
 
-- les causes peuvent être vues comme des structures de mise en mouvement
-- les raisons peuvent être vues comme des structures de justification relationnelle
+- les causes peuvent être vues comme des structures de mise en mouvement  
+- les raisons peuvent être vues comme des structures de justification relationnelle  
 
 Toutefois, Protokin ne postule pas une symétrie entre ces domaines.
 
@@ -132,14 +132,14 @@ La superposition linguistique du nom agit ici comme une **image de résonance**,
 
 ## Le Kernel comme dispositif d’audit
 
-Le Kernel de Protokin n’explique pas le monde.
+Le Kernel de Protokin ne produit pas de descriptions de premier ordre du monde.
 
 Il analyse les conditions de fonctionnement des cadres descriptifs :
 
-- stabilisation
-- tension
-- saturation
-- transition
+- stabilisation  
+- tension  
+- saturation  
+- transition  
 
 Il ne remplace pas les régimes explicatifs existants.
 
@@ -151,11 +151,11 @@ Il examine leurs conditions de possibilité et de transformation.
 
 Protokin peut être formulé ainsi :
 
-> un cadre d’analyse des conditions de stabilisation et de transformation des régimes descriptifs
+> un cadre d’analyse des conditions de stabilisation et de transformation des régimes descriptifs  
 
 ou :
 
-> un dispositif d’audit des systèmes de description et de leurs transitions
+> un dispositif d’audit des systèmes de description et de leurs transitions  
 
 ---
 
@@ -169,4 +169,4 @@ L’étymologie grecque (*proto / kin*) et la résonance anglaise (*kin / kinshi
 
 Le cœur du système reste inchangé :
 
-> l’analyse des conditions sous lesquelles des cadres de description se stabilisent, se transforment et entrent en tension.
+> l’analyse des conditions sous lesquelles des régimes descriptifs se stabilisent, se transforment et entrent en tension.
