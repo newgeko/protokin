@@ -1,136 +1,182 @@
-# ⚙️ Causes / Raisons — Distinction structurelle des régimes de description
+# Causes / Raisons — Distinction structurelle des régimes de description
 
 ---
 
-## 🧭 1. Principe général
+## 1. Principe général
 
-La distinction entre **causes** et **raisons** constitue l’un des axes structurants de l’architecture Protokin.
+La distinction entre causes et raisons constitue un axe structurant de l’architecture Protokin.
 
-Elle ne décrit pas deux domaines ontologiques du réel ou deux substances métaphysiques autonomes, mais isole deux **régimes de justification irréductibles**.
+Elle ne correspond pas à deux domaines ontologiques du réel ni à deux types de substances métaphysiques, mais à deux régimes de description et de justification irréductibles.
 
-Cette distinction prolonge la tradition analytique de la philosophie du langage et de l’esprit, notamment chez Wilfrid Sellars (critique du *Mythe du Donné*) et Robert Brandom (pragmatique normative de l’inférence).
+Cette distinction s’inscrit dans la tradition de la philosophie analytique du langage et de l’esprit, notamment chez Wilfrid Sellars (critique du Mythe du Donné) et Robert Brandom (pragmatisme inférentialiste et normatif).
 
-Selon Sellars, caractériser un état comme relevant de la connaissance ne revient pas à en proposer une description empirique, mais à le situer dans l’**espace logique des raisons**, c’est-à-dire dans un réseau de justifications et d’engagements normatifs.
+Dans cette perspective, caractériser un état comme relevant de la connaissance ou de l’action rationnelle ne consiste pas à le décrire causalement, mais à le situer dans l’espace des raisons, c’est-à-dire dans un réseau d’engagements normatifs et d’inférences.
 
 ---
 
-## 🧩 2. Définition générale
+## 2. Définition générale
 
-### 🔹 Causes
+### Causes
 
-Les causes relèvent d’un régime descriptif empirique où les événements sont appréhendés à travers des relations de dépendance régulières, de nature nomologique, indépendantes de toute exigence de justification.
+Les causes relèvent d’un régime descriptif dans lequel les événements sont compris à travers des relations de dépendance régulières, de type nomologique ou statistique, indépendantes des pratiques de justification.
 
 Une cause :
 
-- produit, déclenche ou détermine un effet physique, biologique ou statistique ;
-- s’inscrit dans une chaîne de dépendance causale efficiente ;
-- est formulable sous forme de lois ou de régularités empiriques ;
-- ne requiert aucun engagement normatif.
+- est formulée dans un cadre explicatif de type mécaniste, physique, biologique ou statistique ;
+- s’inscrit dans des chaînes de dépendance régulières ;
+- est exprimée sous forme de lois, de corrélations ou de mécanismes ;
+- ne dépend pas de l’attribution d’engagements normatifs.
 
 ---
 
-### 🔹 Raisons
+### Raisons
 
-Les raisons relèvent d’un régime normatif et discursif où les énoncés et les actions sont évalués en termes de justification et de cohérence inférentielle.
+Les raisons relèvent d’un régime normatif dans lequel les énoncés, croyances et actions sont évalués en fonction de leur place dans un espace de justification.
 
 Une raison :
 
-- justifie une assertion, une croyance ou une action ;
-- implique des **engagements (commitments)** et des **habilitations (entitlements)** ;
-- appartient à un espace de responsabilité discursive partagé ;
-- dépend de normes d’inférence explicites ou implicites.
+- justifie une croyance, une assertion ou une action ;
+- implique des engagements et des habilitations normatives ;
+- appartient à un espace de responsabilité discursive ;
+- est structurée par des relations inférentielles explicites ou implicites.
 
 ---
 
-## ⚠️ 3. Non-réduction et asymétrie structurelle
+## 3. Non-réduction et asymétrie structurelle
 
-Le cadre Protokin refuse toute forme de réductionnisme :
+Le cadre Protokin exclut toute forme de réduction entre causes et raisons.
 
-- **Réductionnisme naturaliste** : dissoudre les raisons dans des causes physiques, neuronales ou biologiques ;
-- **Réductionnisme normatif** : dissoudre les causes dans des constructions discursives.
+Deux formes de réduction sont distinguées :
+
+- réduction des raisons à des causes physiques, biologiques ou neuronales ;
+- réduction des causes à des constructions normatives discursives.
 
 Ces deux régimes sont asymétriques.
 
-Comme le souligne Richard Rorty, les causes expliquent l’origine de nos croyances, mais ne peuvent pas les justifier. La justification appartient exclusivement à l’espace normatif des raisons.
+Dans la tradition de Richard Rorty, les causes expliquent les conditions d’apparition de nos croyances, mais ne jouent pas de rôle dans leur justification.
 
-Cette asymétrie est compatible avec le **monisme anomal de Donald Davidson**, selon lequel l’irréductibilité entre causes et raisons est conceptuelle (liée aux régimes de description) et non ontologique.
-
----
-
-## 🧠 4. Erreur de transposition modale
-
-Une erreur majeure consiste à appliquer les critères de validité d’un régime à un autre.
-
-Cette confusion correspond à une réactivation du *Mythe du Donné* : croire qu’un fait brut peut produire une justification normative sans médiation.
-
-Exemples :
-
-- **Réduction biophysique** : expliquer et justifier un choix moral uniquement par des mécanismes neuronaux ou biologiques ;
-- **Confusion probabiliste** : traiter une corrélation empirique comme une justification logique ;
-- **Sophisme prédictif** : confondre prédiction causale et justification rationnelle d’une action.
+Dans la perspective du monisme anomal de Donald Davidson, cette irréductibilité est comprise comme conceptuelle et non ontologique.
 
 ---
 
-## ⚙️ 5. Typologie des confusions (OVM)
+## 4. Reconfiguration des registres normatifs
 
-L’Opérateur de Vigilance Modale (OVM) détecte les transpositions illégitimes entre régimes.
+Des tensions apparaissent lorsque des éléments appartenant à un régime de description sont reformulés dans un autre sans transformation des critères de validité associés.
 
----
+Ces cas correspondent à des reconfigurations de registre :
 
-### 🔹 Type T1 — Réduction causaliste
+- des engagements normatifs sont reformulés comme effets causaux ;
+- des régularités causales sont interprétées comme justifications normatives ;
+- des attributions de responsabilité sont remplacées par des descriptions mécanistes.
 
-Un énoncé normatif est réduit à un effet causal.
-
-Diagnostic : proche de l’**injustice testimoniale** (Fricker), où les raisons avancées par un sujet sont reclassées comme symptômes.
-
----
-
-### 🔹 Type T2 — Normativisation abusive
-
-Une régularité causale est élevée au rang de justification normative sans médiation.
-
-Diagnostic : confusion entre contrainte de fait et validité logique.
+Ces reconfigurations ne sont pas traitées comme des erreurs factuelles, mais comme des déplacements entre espaces normatifs hétérogènes.
 
 ---
 
-### 🔹 Type T3 — Substitution du sujet
+## 5. Typologie des reconfigurations de registre
 
-Un agent rationnel est remplacé par un mécanisme causal sans perte explicative visible.
-
-Diagnostic : l’**indice de substituabilité du sujet** détecte l’effacement de la responsabilité discursive au profit d’un déterminisme implicite.
+Les formes principales de reconfiguration peuvent être décrites de manière analytique.
 
 ---
 
-## 🧩 6. Espace des raisons (R11)
+### Type T1 — Reconfiguration réductionniste
 
-L’espace des raisons correspond au régime R11.
+Des engagements relevant de l’espace des raisons sont reformulés dans un cadre causal.
 
-Il s’agit d’un espace de contraintes sémantiques et inférentielles où :
+Les raisons invoquées sont interprétées comme des effets, symptômes ou produits de mécanismes.
 
-- la signification est déterminée par le rôle inférentiel des énoncés ;
-- les agents sont porteurs d’engagements normatifs ;
-- les inférences structurent la justification.
+Cette reconfiguration correspond aux critiques classiques de la réduction naturaliste dans la tradition sellarsienne.
 
-Le fonctionnement de cet espace peut être formalisé par des séquents normatifs :
+---
+
+### Type T2 — Reconfiguration normativisante non médiatisée
+
+Des régularités causales sont mobilisées comme si elles constituaient des justifications normatives sans transformation du registre d’inférence.
+
+Il y a ici confusion entre contrainte descriptive et validité normative.
+
+---
+
+### Type T3 — Reconfiguration de la responsabilité discursive
+
+Les attributions de responsabilité sont reformulées dans un vocabulaire causal, ce qui modifie la structure des engagements attribués aux agents.
+
+La responsabilité discursive est remplacée par une description mécaniste des comportements.
+
+---
+
+## 6. Espace des raisons
+
+L’espace des raisons correspond à l’ensemble des relations normatives qui structurent la signification des énoncés.
+
+Dans cet espace :
+
+- la signification dépend du rôle inférentiel des expressions ;
+- les agents sont porteurs d’engagements et d’habilitations ;
+- les inférences structurent les conditions de justification.
+
+Cette structure peut être représentée par des relations de type séquent :
 
 \[
 \Gamma \vdash \Delta
 \]
 
-où les engagements contenus dans Γ impliquent normativement les conséquences Δ.
+où les engagements contenus dans Γ impliquent normativement les engagements contenus dans Δ.
 
 ---
 
-## 🧭 Conclusion
+## 7. Analyse des régimes de description
 
-La distinction causes / raisons ne renvoie pas à deux types d’objets dans le monde, mais à deux régimes de description irréductibles.
+Les régimes de description sont des ensembles stabilisés de pratiques normatives définissant :
 
-Protokin n’unifie pas ces régimes : il analyse les conditions de leur coexistence, leurs tensions et leurs transitions.
+- ce qui compte comme objet pertinent ;
+- ce qui compte comme justification acceptable ;
+- ce qui compte comme relation explicative ;
+- ce qui compte comme inférence valide.
+
+Ils ne sont pas hiérarchisés ontologiquement.
+
+Ils sont analysés à partir de leurs engagements effectifs et de leurs relations de compatibilité, d’incompatibilité ou de traduction partielle.
 
 ---
 
-## 🧠 Formule finale
+## 8. Statut des analyses de reconfiguration
 
-> Les causes expliquent ce qui se produit.
-> Les raisons justifient ce qui est affirmé ou fait.
-> Protokin analyse les conditions de stabilité, de conflit et de transition entre ces deux régimes.
+Les notions de reconfiguration, tension ou transition ne désignent pas des entités ou des mécanismes autonomes.
+
+Elles correspondent à des descriptions de situations dans lesquelles des ensembles d’engagements normatifs deviennent incompatibles ou ne peuvent plus être maintenus de manière stable dans un cadre donné.
+
+Une transition correspond à une reconfiguration des critères de justification permettant de restaurer une cohérence locale entre engagements.
+
+---
+
+## 9. Limite du cadre
+
+Le cadre Protokin ne vise pas :
+
+- une ontologie fondamentale ;
+- une théorie unifiée des sciences ;
+- une réduction des phénomènes normatifs à des phénomènes causaux ;
+- une explication totale des phénomènes descriptifs.
+
+Il se limite à l’explicitation des conditions de stabilité, de transformation et d’incompatibilité entre ensembles de pratiques de justification.
+
+---
+
+## 10. Résumé général
+
+La distinction entre causes et raisons correspond à une distinction entre deux types de régimes normatifs irréductibles.
+
+Protokin n’unifie pas ces régimes.
+
+Il analyse les conditions de leur coexistence, les formes de leur incompatibilité et les modalités de leurs reconfigurations.
+
+---
+
+## 11. Formule de clôture
+
+Les causes appartiennent à des régimes explicatifs fondés sur des relations de dépendance.
+
+Les raisons appartiennent à des régimes normatifs fondés sur des engagements et des inférences.
+
+Protokin analyse les conditions sous lesquelles ces régimes peuvent entrer en interaction, entrer en tension ou être reconfigurés sans confusion conceptuelle.
