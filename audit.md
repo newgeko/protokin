@@ -1,20 +1,18 @@
-# 🧭 CAP — Cycle d’Audit Protokin
+# CAP — Analyse des reconfigurations de description
 
-Statut : opérateur du Kernel | Architecture : Protokin cOS
+Statut : composante du cadre d’analyse Protokin
 
 ---
 
 ## 1. Principe général
 
-Le CAP n’est ni une représentation du monde, ni un niveau ontologique, ni un mécanisme causal.
+Le CAP ne désigne ni une représentation du monde, ni un niveau ontologique, ni un mécanisme explicatif.
 
-Il constitue un **opérateur d’analyse interne des configurations descriptives**.
-
-Il décrit les conditions selon lesquelles une configuration peut être interprétée sous un ou plusieurs régimes de description.
+Il correspond à une manière de décrire les conditions sous lesquelles une même configuration peut être interprétée différemment selon des cadres de description.
 
 ---
 
-Un régime ne désigne pas un domaine du réel, mais un ensemble de contraintes déterminant :
+Un cadre de description ne désigne pas un domaine du réel, mais un ensemble de contraintes définissant :
 
 - la sélection des invariants ;
 - les règles d’inférence ;
@@ -23,129 +21,109 @@ Un régime ne désigne pas un domaine du réel, mais un ensemble de contraintes 
 
 ---
 
-## 2. Cycle opératoire
+## 2. Variations de description
 
 ---
 
-### 1. Stabilisation locale — “Comment la configuration est-elle tenue ?”
+### 1. Stabilisation locale — “Sous quelles conditions une interprétation est-elle tenue ?”
 
-Une configuration est interprétée sous un régime donné.
+Une configuration est interprétée relativement à un cadre de description donné.
 
-Cette stabilisation correspond à une réduction locale de complexité descriptive.
-
-Elle définit un espace de cohérence interne relatif à ce régime.
+Cette interprétation correspond à une cohérence locale définie par les contraintes de ce cadre.
 
 ---
 
-### 2. Pluralité descriptive — “Sous quelles autres contraintes peut-elle être décrite ?”
+### 2. Pluralité descriptive — “Sous quelles autres contraintes peut-elle être interprétée ?”
 
-Une même configuration peut être interprétée sous plusieurs régimes.
+Une même configuration peut donner lieu à plusieurs interprétations selon des cadres distincts.
 
 Ces interprétations sont :
 
 - non hiérarchisées a priori ;
 - potentiellement incompatibles ;
-- partiellement non traductibles.
+- parfois partiellement non traductibles.
 
 ---
 
-### 3. Apparition d’une tension — “Quelles incompatibilités apparaissent entre interprétations ?”
+### 3. Incompatibilités entre interprétations — “Quelles tensions apparaissent entre cadres ?”
 
-Une tension apparaît lorsque plusieurs stabilisations ne peuvent être maintenues simultanément sans perte de cohérence locale.
+Des tensions apparaissent lorsque plusieurs interprétations ne peuvent être maintenues ensemble sans perte de cohérence normative locale.
 
-La tension est :
-
-- un effet structurel ;
-- non une erreur ;
-- non une anomalie.
+Ces tensions ne sont pas des erreurs, mais des effets de pluralité de cadres.
 
 ---
 
-### 4. Saturation — “Quand les ajustements internes deviennent insuffisants”
+### 4. Saturation descriptive — “Dans quelles conditions les ajustements deviennent insuffisants ?”
 
-La saturation désigne une situation où :
+Une situation de saturation correspond à un cas où :
 
-- les procédures de traduction deviennent insuffisantes ;
-- les ajustements locaux ne stabilisent plus les écarts ;
-- la coexistence des interprétations devient instable.
+- les ajustements entre interprétations ne suffisent plus à maintenir leur compatibilité ;
+- les écarts entre cadres deviennent structurellement difficiles à reconduire.
 
 ---
 
-### 5. Audit — “Quelle structure de conflit est identifiable ?”
+### 5. Analyse des tensions — “Quelle structure de divergence est identifiable ?”
 
-L’audit est une **opération interne de description des tensions**.
+L’analyse consiste à expliciter :
 
-Il permet d’identifier :
-
-- les régimes impliqués ;
-- les invariants en conflit ;
+- les cadres de description impliqués ;
+- les engagements incompatibles ;
 - les points de non-traductibilité ;
-- la structure de la tension.
+- les divergences de critères de validité.
 
-⚠️ L’audit ne constitue pas un point de vue externe : il est une re-description interne de la configuration.
-
----
-
-### 6. Décomposition — “Où se localise la tension ?”
-
-La tension est localisée sur :
-
-- un invariant ;
-- une règle d’inférence ;
-- une frontière de régime ;
-- une condition de comparaison.
-
-Cette étape empêche la généralisation globale du conflit.
+Cette analyse correspond à une re-description des relations entre interprétations, et non à un point de vue externe.
 
 ---
 
-### 7. Reconfiguration — “Quels déplacements structurels sont possibles ?”
+### 6. Localisation des incompatibilités — “Où se situent les divergences ?”
 
-On identifie les transformations possibles :
+Les incompatibilités peuvent être situées dans :
 
-- modification d’un invariant ;
-- déplacement d’une frontière descriptive ;
-- changement de régime local ;
-- ajustement des critères de comparaison.
-
-⚠️ Il s’agit d’une analyse des conditions de transformation, non d’une prescription.
+- des engagements spécifiques ;
+- des règles d’inférence ;
+- des frontières entre cadres ;
+- des conditions de comparaison entre descriptions.
 
 ---
 
-### 8. Transition — “Comment une nouvelle stabilité peut-elle être définie ?”
+### 7. Reconfiguration — “Quels déplacements de cadre sont possibles ?”
 
-Une transition correspond à une modification des conditions de stabilité descriptive.
+On peut décrire différentes formes de déplacement :
 
-Elle ne supprime pas la pluralité des régimes, mais modifie :
-
-- leurs conditions de compatibilité ;
-- leurs zones de tension.
+- modification des engagements associés à un cadre ;
+- déplacement des frontières entre cadres de description ;
+- changement de cadre d’interprétation ;
+- ajustement des critères de compatibilité.
 
 ---
 
-### 9. Nouvelle stabilisation — “Quel nouvel équilibre local apparaît ?”
+### 8. Transformation des conditions de compatibilité — “Comment une nouvelle cohérence locale apparaît-elle ?”
 
-Une nouvelle configuration stable est définie relativement aux régimes impliqués.
+Une transition correspond à une modification des conditions de compatibilité entre ensembles d’engagements.
+
+Elle ne supprime pas la pluralité des cadres, mais reconfigure leurs relations.
+
+---
+
+### 9. Nouvelle configuration stable — “Quel ensemble cohérent apparaît ?”
+
+Une nouvelle stabilisation correspond à un ensemble d’interprétations compatibles relativement à un ensemble de contraintes donné.
 
 Elle est :
 
 - locale ;
 - provisoire ;
-- réinscriptible dans un futur cycle CAP.
+- révisable dans de futures reconfigurations.
 
 ---
 
-## 3. Structure récursive
+## 3. Structure des relations
 
-CAP suit une structure récursive :
+Les différentes étapes décrivent des relations entre formes d’interprétation :
 
-Stabilisation → Pluralité → Tension → Saturation → Audit → Décomposition → Reconfiguration → Transition → Stabilisation
+Stabilisation → Pluralité → Tensions → Saturation → Analyse → Localisation → Reconfiguration → Transition → Stabilisation
 
-Ce cycle est :
-
-- non causal ;
-- non historique ;
-- purement opératoire.
+Cette structure ne décrit pas un processus causal ou temporel, mais une chaîne possible de reconfigurations descriptives.
 
 ---
 
@@ -154,29 +132,26 @@ Ce cycle est :
 Le CAP :
 
 - ne décrit pas une réalité sous-jacente ;
-- ne produit pas de vérité ;
-- ne hiérarchise pas les régimes.
+- ne produit pas de hiérarchie de vérité ;
+- ne constitue pas un mécanisme autonome.
 
-Il analyse les conditions de compatibilité entre interprétations sous régimes multiples.
+Il explicite les conditions de compatibilité entre interprétations sous cadres multiples.
 
 ---
 
 ## 5. Position dans l’architecture Protokin
 
-Le CAP est un opérateur du Kernel :
+Le CAP s’inscrit dans un ensemble de distinctions analytiques comprenant :
 
-- PAR : génération des régimes ;
-- CAP : analyse des tensions entre régimes ;
-- OVM : contrôle des transpositions modales ;
-- PASS : procédure d’application du système.
+- PAR : conditions de formation des cadres de description ;
+- CAP : analyse des reconfigurations entre cadres ;
+- OVM : description des substitutions de registre ;
+- PASS : articulation des usages des analyses produites.
 
 ---
 
-## 🧭 Conclusion
+## Conclusion
 
-Le CAP est :
+Le CAP correspond à une manière de décrire les transformations entre ensembles d’interprétations.
 
-- un opérateur d’analyse des tensions ;
-- un dispositif de localisation des incompatibilités ;
-- un cadre de reconfiguration locale ;
-- un module strictement immanent d’analyse.
+Il ne constitue pas une procédure, mais une structure descriptive permettant d’expliciter les conditions de compatibilité entre cadres de description.
