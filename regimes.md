@@ -1,27 +1,27 @@
-# 🧩 Régimes — statut et fonction dans Protokin
+# Régimes — statut et fonction dans Protokin
 
-## 🧭 Rôle des régimes dans Protokin
+## Rôle des régimes dans Protokin
 
-👉 Ce fichier répond à une question unique :
+Ce fichier répond à une question unique :
 
 **Quel est le statut fonctionnel des régimes dans le système Protokin ?**
 
 ---
 
-## 🎯 Fonction générale
+## Fonction générale
 
-Les régimes sont des ensembles de **contraintes de stabilisation descriptive**.
+Les régimes sont des ensembles de **contraintes de stabilisation descriptive et normative**.
 
-Ils permettent de définir :
+Ils permettent de rendre explicites :
 
 - les invariants pertinents dans une configuration donnée ;
 - les critères de validité des énoncés ;
-- les frontières de pertinence descriptive ;
-- les conditions de comparabilité entre descriptions.
+- les conditions de recevabilité et d’exclusion des descriptions ;
+- les frontières de comparabilité entre descriptions.
 
 ---
 
-## ⚙️ Statut
+## Statut
 
 Un régime :
 
@@ -31,67 +31,66 @@ Un régime :
 - n’est pas un opérateur du système ;
 - n’est pas hiérarchiquement supérieur à un autre régime.
 
-👉 Un régime est un **cadre de contraintes de stabilisation**.
+Un régime est un **cadre de contraintes conditionnant la stabilité des engagements descriptifs**.
 
 ---
 
-## 🧠 Fonction épistémologique
+## Fonction épistémologique
 
 Les régimes permettent de :
 
-- expliciter les conditions implicites de stabilisation dans une théorie ou une description ;
+- expliciter les conditions implicites de stabilisation dans une théorie ou une pratique descriptive ;
 - distinguer plusieurs modes incompatibles de description d’un même domaine ;
-- éviter la réduction d’un domaine à un autre régime ;
-- rendre visibles les conditions de compatibilité ou d’incompatibilité entre descriptions.
+- éviter la réduction d’un domaine à un autre régime de validité ;
+- rendre visibles les conditions de compatibilité ou d’incompatibilité entre engagements descriptifs.
 
 ---
 
-## 🧩 Fonction dans l’architecture Protokin
+## Fonction dans l’architecture Protokin
 
-Les régimes constituent le **matériau de base descriptif** sur lequel opèrent les dispositifs d’analyse du système.
+Les régimes constituent le **milieu primaire de constitution des configurations descriptives** sur lequel opèrent les dispositifs d’analyse du système.
 
-Ils ne produisent ni transformations ni décisions, mais définissent les conditions de possibilité des configurations descriptives.
+Ils ne déterminent pas des transformations, mais définissent les conditions sous lesquelles des transformations peuvent être reconnues comme pertinentes ou problématiques.
 
 À partir d’eux sont analysés :
 
-### ⚡ Tensions inter-régimes
+### Tensions inter-régimes
 Détection des incompatibilités entre cadres de stabilisation.
 
-### 🔄 CAP (Cycle d’Audit Protokin)
-Analyse des configurations où plusieurs régimes coexistent.
+### CAP (Cycle d’Audit Protokin)
+Analyse des configurations dans lesquelles plusieurs régimes coexistent.
 
-### 📌 OVM (Opérateur de Vigilance Modale)
-Qualification des glissements et transpositions illégitimes entre régimes (types T1, T2, T3).
+### OVM (Opérateur de Vigilance Modale)
+Qualification des transpositions illégitimes entre régimes (types T1, T2, T3).
 
-### 🔁 Transitions
+### Transitions
 Analyse des reconfigurations possibles des conditions de stabilisation.
 
 ---
 
-## 🧠 Clarification importante
+## Clarification importante
 
-Les régimes ne produisent rien.
+Les régimes :
 
-Ils ne transforment rien.
-
-Ils ne sélectionnent rien.
-
-Ils ne régulent rien.
+- ne produisent pas de descriptions ;
+- ne transforment pas de descriptions ;
+- ne sélectionnent pas de descriptions ;
+- ne régulent pas de descriptions.
 
 Ils définissent uniquement :
 
-> les conditions sous lesquelles une description peut être considérée comme stable, pertinente ou incompatible dans un cadre donné.
+> les conditions sous lesquelles une description peut être considérée comme stable, recevable ou incompatible dans un cadre donné.
 
 ---
 
-## ⚠️ Principe central
+## Principe central
 
-> Un régime ne décrit pas le monde.  
-> Il définit les conditions sous lesquelles des descriptions du monde deviennent possibles.
+Un régime ne décrit pas le monde.  
+Il définit les conditions sous lesquelles des descriptions du monde deviennent possibles et normativement situables.
 
 ---
 
-## 🔒 Garde-fous conceptuels
+## Garde-fous conceptuels
 
 - aucun régime n’est fondamental ;
 - aucun régime n’est universel ;
@@ -102,21 +101,21 @@ Ils définissent uniquement :
 
 ---
 
-## 🧭 Conclusion
+## Conclusion
 
-Les régimes constituent la **structure de contrainte de la descriptibilité** dans Protokin.
+Les régimes constituent la **structure de contrainte de la descriptibilité et de la justification** dans Protokin.
 
 Ils sont :
 
-- la base de la pluralité descriptive ;
-- le support des tensions inter-régimes ;
+- le support de la pluralité descriptive ;
+- le milieu des tensions inter-régimes ;
 - le matériau analysé par CAP et OVM ;
 - le point de départ des transitions.
 
 ---
 
-## 🧭 Synthèse finale
+## Synthèse finale
 
-👉 Les régimes ne sont pas des entités du monde.
+Les régimes ne sont pas des entités du monde.
 
-👉 Ils sont les conditions formelles sous lesquelles un monde peut être décrit.
+Ils sont les conditions formelles sous lesquelles un monde devient descriptible et justifiable.
