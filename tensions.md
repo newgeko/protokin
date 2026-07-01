@@ -1,41 +1,41 @@
-# ⚡ Tensions
+# Tensions
 
-## 🧭 Statut
+## Statut
 
 Les tensions ne sont ni des contradictions logiques, ni des erreurs, ni des propriétés du réel.
 
 Elles désignent des désalignements locaux entre plusieurs régimes de description mobilisés dans l’analyse d’une même configuration du Content Layer.
 
-Une tension apparaît lorsque plusieurs régimes :
+Une tension est caractérisée lorsque plusieurs régimes :
 
 - sélectionnent des invariants différents ;
 - mobilisent des critères de validité incompatibles ;
 - stabilisent différemment une même configuration descriptive ;
-- rendent difficile ou impossible une traduction locale cohérente.
+- rendent difficile ou impossible une traduction locale préservant simultanément ces stabilités.
 
 ---
 
-## ⚙️ Principe général
+## Principe général
 
 Un régime n’est ni hiérarchiquement supérieur ni méta-descriptif.
 
-Les tensions apparaissent lorsque :
+Les tensions correspondent à des situations où :
 
 - une même configuration est interprétée sous plusieurs régimes ;
-- aucune traduction immédiate ne permet de préserver simultanément leurs stabilités locales ;
-- un invariant change de fonction selon le régime mobilisé ;
+- aucune traduction immédiate ne permet de préserver simultanément les stabilités locales ;
+- un même invariant change de fonction selon le régime mobilisé ;
 - les conditions de justification deviennent partiellement incompatibles.
 
 ---
 
-## 🧠 Statut des tensions
+## Statut des tensions
 
 Une tension est :
 
 - une relation de désalignement entre régimes ;
-- un phénomène local de compatibilité descriptive ;
-- un signal d’analyse traité par CAP ;
-- un objet potentiel de qualification par OVM.
+- un phénomène local de compatibilité descriptive sous conditions multiples ;
+- un objet d’analyse pour CAP ;
+- une structure pouvant être qualifiée par OVM.
 
 Elle n’est pas :
 
@@ -47,7 +47,7 @@ Elle n’est pas :
 
 ---
 
-## 🧩 Fonction dans l’architecture
+## Fonction dans l’architecture
 
 ### Dans le Content Layer
 
@@ -59,7 +59,7 @@ Les tensions concernent les configurations descriptives analysées :
 - pratiques discursives ;
 - ensembles d’énoncés.
 
-Elles apparaissent lorsque plusieurs régimes sont mobilisés simultanément sur une même configuration.
+Elles apparaissent dans l’analyse lorsqu’une configuration est simultanément engagée sous plusieurs régimes.
 
 ---
 
@@ -74,7 +74,7 @@ Il identifie notamment :
 - les frontières descriptives concernées ;
 - les zones de non-traductibilité.
 
-Les tensions constituent le signal primaire d’activation du cycle d’audit.
+Les tensions constituent un signal d’activation du cycle d’audit.
 
 ---
 
@@ -86,10 +86,10 @@ Il vérifie notamment :
 
 - les réductions abusives ;
 - les substitutions de niveau ;
-- les confusions causes/raisons ;
+- les confusions causes / raisons ;
 - les fusions illégitimes entre régimes.
 
-OVM ne produit pas la tension ; il en qualifie certaines formes.
+OVM ne produit pas les tensions ; il en qualifie certaines formes.
 
 ---
 
@@ -101,7 +101,7 @@ Configuration → Tension → CAP → OVM → Transition ou DELTA
 
 ---
 
-## 🧠 Nature des tensions
+## Nature des tensions
 
 Les tensions sont des effets structurels de pluralité descriptive.
 
@@ -109,14 +109,14 @@ Elles ne constituent pas des anomalies.
 
 Elles indiquent :
 
-- les limites locales de traductibilité ;
-- les zones de friction descriptive ;
-- les points possibles de reconfiguration ;
-- les conditions d’apparition d’une saturation.
+- des limites locales de traductibilité ;
+- des zones de friction descriptive ;
+- des points possibles de reconfiguration ;
+- des conditions d’apparition de saturation.
 
 ---
 
-## 🛠️ Fonction analytique
+## Fonction analytique
 
 Les tensions permettent :
 
@@ -127,26 +127,26 @@ Les tensions permettent :
 
 ---
 
-## 🛡️ Garde-fous
+## Garde-fous
 
 Une tension :
 
 - ne hiérarchise pas les régimes ;
-- ne produit pas elle-même de transition ;
+- ne produit pas de transition ;
 - ne constitue pas une méta-structure ;
 - n’est pas une contradiction logique ;
 - reste locale à une configuration d’audit.
 
 ---
 
-## 🔄 Principe final
+## Principe final
 
 Les tensions désignent les limites locales de compatibilité entre plusieurs régimes de description appliqués à une même configuration.
 
 ---
 
-## 🧭 Conclusion
+## Conclusion
 
-Les tensions constituent le signal fondamental de l’analyse dans Protokin.
+Les tensions constituent un signal fondamental de l’analyse dans Protokin.
 
 Elles rendent visibles les points où plusieurs régimes de justification cessent d’être immédiatement compatibles et où une reconfiguration descriptive peut devenir nécessaire.
