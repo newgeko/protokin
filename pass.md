@@ -1,24 +1,24 @@
-# 🔁 PASS — Protocole d’Application Séquentielle de Protokin
+# PASS — Protocole d’Application Séquentielle de Protokin
 
-## 🧭 Rôle de PASS dans Protokin
+## Rôle de PASS dans Protokin
 
-👉 Ce fichier répond à une question unique :
+Ce fichier répond à une question unique :
 
 **Comment appliquer concrètement le cadre Protokin à un ensemble d’énoncés, de textes ou de systèmes de description ?**
 
 ---
 
-## 🧠 Définition générale
+## Définition générale
 
 PASS (Protokin Application Sequential System) est une **procédure d’application structurée du cadre Protokin sur un corpus donné**.
 
 Il ne produit ni théorie nouvelle ni interprétation autonome.
 
-👉 Il organise une **séquence d’opérations d’analyse sur des régimes de description déjà constitués**.
+Il organise une **séquence d’opérations d’analyse sur des régimes de description déjà constitués**.
 
 ---
 
-## ⚙️ Principe fondamental
+## Principe fondamental
 
 PASS n’ajoute aucun contenu.
 
@@ -33,7 +33,7 @@ Il met en œuvre une **suite d’opérations normées d’analyse structurelle**
 
 ---
 
-## 🧩 Entrée du système
+## Entrée du système
 
 PASS opère sur un **corpus d’énoncés**, qui peut être :
 
@@ -42,11 +42,11 @@ PASS opère sur un **corpus d’énoncés**, qui peut être :
 - un système théorique ;
 - un ensemble de discours hétérogènes.
 
-👉 Le corpus n’est pas interprété comme “contenu du monde”, mais comme **configuration de régimes de description**.
+Le corpus n’est pas interprété comme “contenu du monde”, mais comme **configuration de régimes de description**.
 
 ---
 
-## 🔁 Séquence opératoire
+## Séquence opératoire
 
 PASS suit une chaîne d’analyse stricte :
 
@@ -124,7 +124,7 @@ Si aucune stabilisation n’est possible :
 
 ---
 
-## 🧠 Statut épistémologique
+## Statut épistémologique
 
 PASS :
 
@@ -133,59 +133,73 @@ PASS :
 - ne hiérarchise pas les régimes ;
 - ne transforme pas les contenus analysés.
 
-👉 PASS est une **procédure de lecture structurée des conditions de descriptibilité**.
+PASS est une **procédure de lecture structurée des conditions de descriptibilité**.
 
 ---
 
-## ⚠️ Principe central
+## Principe central
 
-> PASS n’interprète pas ce qui est dit.
-> Il analyse comment ce qui est dit devient stabilisable dans des régimes de description.
-
----
-
-## 🧩 Relation avec les autres modules
-
-- **PAR** → définit la structure génétique des régimes ;
-- **Régimes** → fournissent les cadres de contraintes ;
-- **Kernel** → régule les interactions ;
-- **OVM** → détecte les transpositions illégitimes ;
-- **DELTA** → signale les ruptures de stabilisation ;
-- **PASS** → exécute la procédure d’analyse.
+PASS n’interprète pas ce qui est dit.  
+Il analyse comment ce qui est dit devient stabilisable dans des régimes de description.
 
 ---
 
-## 🧠 Statut méthodologique
+## Relation avec les autres modules
+
+- PAR → définit la structure génétique des régimes
+- Régimes → fournissent les cadres de contraintes
+- Kernel → régule les interactions
+- OVM → détecte les transpositions illégitimes
+- DELTA → signale les ruptures de stabilisation
+- PASS → exécute la procédure d’analyse
+
+---
+
+## Statut méthodologique
 
 PASS est :
 
-- une procédure séquentielle ;
-- un protocole d’audit ;
-- un opérateur d’application ;
-- un cadre d’analyse structuré.
+- une procédure séquentielle
+- un protocole d’audit
+- un opérateur d’application
+- un cadre d’analyse structuré
 
-👉 Mais jamais un niveau ontologique.
-
----
-
-## 🔁 Schéma global
-
-CORPUS │ ▼ Segmentation │ ▼ Identification des régimes │ ▼ Cartographie inférentielle │ ▼ CAP (tensions) │ ▼ OVM (transpositions modales) │ ▼ KERNEL (cohérence globale) │ ▼ TRANSITION ou DELTA
+Mais jamais un niveau ontologique.
 
 ---
 
-## 🧭 Effet global de PASS
+## Schéma global
+
+CORPUS  
+│  
+▼ Segmentation  
+│  
+▼ Identification des régimes  
+│  
+▼ Cartographie inférentielle  
+│  
+▼ CAP (tensions)  
+│  
+▼ OVM (transpositions modales)  
+│  
+▼ KERNEL (cohérence globale)  
+│  
+▼ TRANSITION ou DELTA  
+
+---
+
+## Effet global de PASS
 
 PASS permet de :
 
-- rendre explicites les structures implicites des discours ;
-- visualiser les conflits de régimes ;
-- stabiliser les analyses multi-niveaux ;
-- rendre opératoire le cadre Protokin sur des corpus réels.
+- rendre explicites les structures implicites des discours
+- visualiser les conflits de régimes
+- stabiliser les analyses multi-niveaux
+- rendre opératoire le cadre Protokin sur des corpus réels
 
 ---
 
-## 🧭 Conclusion
+## Conclusion
 
 PASS est le **point d’entrée opérationnel de Protokin**.
 
@@ -195,7 +209,7 @@ Il transforme un corpus en :
 
 ---
 
-## 🧭 Formule finale
+## Formule finale
 
-> PASS ne lit pas des textes.
-> Il lit les conditions sous lesquelles des textes deviennent lisibles dans des régimes de description.
+PASS ne lit pas des textes.  
+Il lit les conditions sous lesquelles des textes deviennent lisibles dans des régimes de description.
