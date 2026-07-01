@@ -1,4 +1,4 @@
-# 🔄 Transitions de cadre dans Protokin
+# Transitions de cadre dans Protokin
 
 Dans Protokin, une transition de cadre descriptif ne constitue ni une amélioration d’un système ni une correction du réel.
 
@@ -8,9 +8,9 @@ Elle désigne une **reconfiguration locale des conditions de stabilisation d’u
 
 ## 1. Saturation et mise en tension (CAP)
 
-Une transition est précédée par une phase de saturation.
+Une transition est précédée par une phase de saturation analysée par CAP.
 
-Un régime devient instable lorsqu’il ne peut plus maintenir ses conditions internes de stabilisation sans ajustements ad hoc.
+Un régime est considéré comme entrant en saturation lorsqu’il ne peut plus maintenir ses conditions internes de stabilisation sans ajustements ad hoc.
 
 Cela peut se manifester par :
 
@@ -34,7 +34,7 @@ Le Cycle d’Audit (CAP) rend visibles ces configurations sous forme de :
 
 Le module OVM intervient pour analyser les conditions de cohérence des reconfigurations possibles.
 
-Il ne valide ni ne rejette une transition, mais évalue :
+Il ne valide ni ne rejette une transition, mais examine :
 
 > les conditions sous lesquelles une reconfiguration reste intelligible sans effondrement des distinctions entre régimes.
 
@@ -51,35 +51,35 @@ Cette analyse met en évidence notamment :
 
 ## 3. Types de reconfiguration
 
-Une transition peut prendre trois formes principales :
+Une transition peut être analysée selon trois formes principales :
 
-### 🔹 Réinterprétation (continuité)
+### Réinterprétation (continuité)
 
-Les invariants sont conservés, mais leur organisation interne est reconfigurée.
-
----
-
-### 🔹 Changement de régime (recomposition)
-
-Les invariants initiaux deviennent insuffisants pour stabiliser les descriptions, nécessitant une nouvelle structuration.
+Les invariants sont conservés, tandis que leur organisation interne est reconfigurée.
 
 ---
 
-### 🔹 Discontinuité (rupture)
+### Changement de régime (recomposition)
 
-Aucune traduction progressive n’est possible entre deux cadres de description.
+Les invariants initiaux deviennent insuffisants pour stabiliser les descriptions, ce qui motive l’adoption d’une nouvelle structuration.
+
+---
+
+### Discontinuité (rupture)
+
+Aucune traduction progressive n’est disponible entre deux cadres de description au niveau des invariants pertinents.
 
 ---
 
 ## 4. Exemple : saturation dans une équipe
 
-Une équipe est décrite uniquement via un régime métrique (productivité, vélocité, tickets fermés).
+Une équipe est initialement décrite uniquement via un régime métrique (productivité, vélocité, tickets fermés).
 
 ### Saturation
 
 Les indicateurs restent stables, mais des phénomènes non capturés apparaissent (fatigue, désengagement, burn-out).
 
-Le régime ne permet plus de stabiliser de manière cohérente l’ensemble des variations observables.
+Le régime ne permet plus de stabiliser de manière cohérente l’ensemble des variations observables sous ses propres critères.
 
 ---
 
@@ -95,7 +95,7 @@ Mise en évidence de tensions :
 
 ### OVM
 
-Identification des conditions nécessaires pour éviter la réduction du phénomène à une seule dimension descriptive.
+Identification des conditions sous lesquelles une réduction du phénomène à une seule dimension descriptive devient problématique.
 
 ---
 
