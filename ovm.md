@@ -1,174 +1,120 @@
-# ⚠️ OVM — Opérateur de Vigilance Modale
+# OVM — analyse des déplacements entre régimes de description
 
-## 🧭 Rôle de l’OVM dans Protokin
+## 1. Rôle de l’OVM dans Protokin
 
-👉 Ce fichier répond à une question unique :
+L’OVM désigne un ensemble de distinctions permettant de décrire les cas dans lesquels un même contenu est reconfiguré selon différents régimes de description.
 
-**Comment détecter les glissements illégitimes entre régimes de description sans confondre causes, raisons et niveaux de justification ?**
+Il ne constitue ni :
 
----
+- un système de validation ;
+- un dispositif de correction ;
+- un mécanisme de jugement ;
+- un niveau externe d’évaluation.
 
-## 🧠 Définition générale
-
-L’Opérateur de Vigilance Modale (OVM) est un **dispositif d’analyse des transpositions entre régimes de description**.
-
-Il ne produit ni vérité ni interprétation.
-
-Il identifie des **mouvements illégitimes entre cadres de validité**.
+Il permet de rendre explicites les conditions dans lesquelles des déplacements entre régimes deviennent interprétables.
 
 ---
 
-## ⚙️ Fonction principale
+## 2. Statut général
 
-L’OVM détecte trois types fondamentaux de désalignements :
+L’OVM ne produit pas de distinction entre “correct” et “incorrect”.
 
-- les **réductions** (raison → cause) ;
-- les **sur-normativisations** (cause → raison) ;
-- les **substitutions de sujet** (agent → mécanisme).
+Il décrit des formes de reconfiguration entre :
 
-👉 Ces désalignements ne sont pas des erreurs empiriques, mais des **violations de cohérence inter-régimes**.
-
----
-
-## 🧩 Principe fondamental
-
-> Une description n’est pas invalide en elle-même.
-> Elle devient problématique lorsqu’elle est transposée dans un régime incompatible sans médiation.
+- l’espace des causes ;
+- l’espace des raisons ;
+- les cadres de description institutionnels, techniques ou scientifiques ;
+- les régimes de justification implicites.
 
 ---
 
-## 🧠 Champ d’application
+## 3. Types de reconfigurations descriptives
 
-L’OVM opère exclusivement sur les **passages entre régimes**, et non à l’intérieur d’un régime donné.
+### 1. Reconfiguration causaliste
 
-Il surveille :
+Un contenu relevant de l’espace des raisons est interprété selon des schèmes causaux.
 
-- les glissements de statut épistémique ;
-- les changements implicites de critères de justification ;
-- les confusions entre causalité et normativité ;
-- les réifications abusives de structures descriptives.
+Exemples structurels :
 
----
+- une décision décrite comme un effet ;
+- une justification décrite comme un comportement ;
+- un engagement décrit comme un état.
 
-## ⚠️ Typologie des anomalies modales
-
-### 🔹 T1 — Réduction causaliste
-
-Un énoncé relevant de l’espace des raisons est requalifié comme effet causal.
-
-Exemple structurel :
-- une décision devient un mécanisme ;
-- une justification devient un comportement ;
-- une croyance devient un état physique.
-
-👉 Effet : effacement de la normativité.
+Cette reconfiguration correspond à une perte de visibilité des engagements normatifs.
 
 ---
 
-### 🔹 T2 — Normativisation abusive
+### 2. Reconfiguration normativisante
 
-Un fait empirique est transformé en justification normative sans médiation.
+Un contenu relevant de l’espace des régularités empiriques est interprété selon des critères de justification.
 
-Exemple structurel :
-- une corrélation devient une règle ;
-- une régularité devient une obligation ;
-- un état du monde devient une raison d’agir.
+Exemples structurels :
 
-👉 Effet : inflation normative illégitime.
+- une corrélation décrite comme règle ;
+- une régularité décrite comme norme ;
+- un fait décrit comme raison d’agir.
 
----
-
-### 🔹 T3 — Substitution du sujet
-
-Un agent normatif est remplacé par un système causal impersonnel.
-
-Exemple structurel :
-- “le système décide” remplace “un agent justifie” ;
-- un mécanisme remplace un engagement ;
-- une structure remplace une responsabilité.
-
-👉 Effet : disparition de l’espace des raisons.
+Cette reconfiguration introduit une dimension normative non explicitée.
 
 ---
 
-## 🧩 Indice de substituabilité du sujet
+### 3. Reconfiguration du statut de l’agent
 
-L’OVM utilise un indicateur structurel :
+Un contenu impliquant un agent est reformulé dans un vocabulaire impersonnel ou systémique.
 
-> **Indice de substituabilité du sujet**
+Exemples structurels :
 
-Il mesure la capacité d’un texte à remplacer un agent responsable par un processus déterministe sans perte explicative apparente.
+- une décision attribuée à un système ;
+- un engagement reformulé comme mécanisme ;
+- une responsabilité reformulée comme processus.
 
-Lorsque cet indice dépasse un seuil critique :
-
-👉 le régime des raisons est considéré comme effacé localement.
-
----
-
-## 🔁 Relation avec le Kernel
-
-L’OVM est un sous-module du Kernel.
-
-- Le Kernel organise les transitions ;
-- l’OVM vérifie leur légitimité ;
-- CAP détecte les tensions ;
-- DELTA marque les blocages.
-
-👉 OVM = filtre de cohérence inter-régimes.
+Cette reconfiguration modifie la manière dont la responsabilité est rendue intelligible.
 
 ---
 
-## 🧠 Statut épistémologique
+## 4. Indice de substituabilité du sujet
+
+On peut décrire une variation dans la manière dont les agents sont conservés ou transformés lors des reconfigurations entre régimes.
+
+Cet indice correspond à la stabilité ou à la transformation de la place de l’agent dans le passage entre descriptions.
+
+Lorsque cette transformation est maximale, la description tend à ne plus expliciter la structure d’engagement initiale.
+
+---
+
+## 5. Relation avec le Kernel
+
+L’OVM appartient à l’ensemble des distinctions mobilisées par le Kernel pour analyser les relations entre régimes.
+
+- CAP : décrit les tensions entre interprétations ;
+- OVM : décrit les formes de déplacement entre interprétations ;
+- DELTA : marque les cas où ces déplacements ne peuvent plus être stabilisés dans le système de distinctions disponible.
+
+---
+
+## 6. Statut épistémologique
 
 L’OVM :
 
-- ne juge pas la vérité des énoncés ;
-- ne corrige pas les théories ;
-- ne produit pas de hiérarchie des savoirs ;
-- ne remplace pas une interprétation.
+- ne juge pas les énoncés ;
+- ne corrige pas les raisonnements ;
+- ne produit pas de hiérarchie normative ;
+- ne fonctionne pas comme filtre externe.
 
-👉 Il analyse uniquement les **conditions de passage entre régimes**.
-
----
-
-## ⚙️ Schéma fonctionnel
-
-ÉNONCÉ │ ▼ Identification du régime implicite │ ▼ Analyse de transposition (OVM) │ ├── T1 : réduction causaliste ├── T2 : normativisation abusive └── T3 : substitution du sujet │ ▼ Signalement au Kernel
+Il explicite les conditions dans lesquelles un même contenu peut apparaître sous différents régimes de description.
 
 ---
 
-## 🧩 Effet global de l’OVM
+## 7. Lecture synthétique
 
-L’OVM permet de :
+L’OVM peut être compris comme :
 
-- maintenir la distinction causes / raisons ;
-- éviter les collapses ontologiques ;
-- préserver la pluralité des régimes ;
-- rendre visibles les glissements conceptuels invisibles.
+> un ensemble de distinctions permettant de décrire les formes de reconfiguration entre espaces de causes et de raisons.
 
 ---
 
-## ⚠️ Principe central
+## 8. Conclusion
 
-> L’erreur n’est pas dans les régimes.
-> Elle apparaît dans leur translation non médiatisée.
+L’OVM ne détermine pas ce qui est correct.
 
----
-
-## 🧭 Conclusion
-
-L’OVM est un opérateur de **vigilance conceptuelle inter-régimes**.
-
-Il garantit que :
-
-- les causes restent des causes ;
-- les raisons restent des raisons ;
-- les agents ne deviennent pas des mécanismes ;
-- les mécanismes ne deviennent pas des justifications.
-
----
-
-## 🧭 Formule synthétique
-
-> L’OVM ne dit pas ce qui est vrai.
-> Il dit quand un changement de cadre de description a été effectué sans justification suffisante.
+Il décrit les conditions dans lesquelles un contenu change de statut lorsqu’il est recontextualisé dans un autre régime de description.
