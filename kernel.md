@@ -1,150 +1,128 @@
-# ⚙️ Kernel — mécanisme de cohérence inférentielle
+# Kernel — analyse des conditions de compatibilité entre régimes de description
 
-## 🧭 Rôle du Kernel dans Protokin
+## 1. Rôle du Kernel dans Protokin
 
-👉 Ce fichier répond à une question unique :
-
-**Comment Protokin maintient-il la cohérence entre régimes de description sans produire de niveau ontologique supérieur ?**
-
----
-
-## 🧠 Définition générale
-
-Le Kernel est un **dispositif de régulation des relations inférentielles entre régimes de description**.
+Le Kernel désigne un ensemble de distinctions permettant d’analyser les relations entre régimes de description.
 
 Il ne constitue ni :
 
 - une source de vérité ;
-- un niveau explicatif du réel ;
-- un méta-régime ontologique ;
-- un système de décision.
+- un niveau ontologique ;
+- un système de décision ;
+- un mécanisme causal ou opérationnel.
 
-👉 Il est un **mécanisme de cohérence locale des transitions et des tensions**.
-
----
-
-## ⚙️ Fonction principale
-
-Le Kernel assure trois fonctions structurales :
-
-### 1. Détection des tensions (CAP)
-
-Il identifie les situations où plusieurs régimes produisent des descriptions incompatibles d’un même domaine.
-
-Ces tensions ne sont pas des erreurs, mais des **désalignements de contraintes de stabilisation**.
+Il permet de rendre explicites les conditions sous lesquelles des descriptions issues de régimes différents peuvent être compatibles, incompatibles ou partiellement non traductibles.
 
 ---
 
-### 2. Contrôle des transpositions modales (OVM)
+## 2. Statut général
 
-Le Kernel vérifie les glissements entre régimes via l’Opérateur de Vigilance Modale :
+Le Kernel ne produit pas de descriptions du monde.
 
-- causes → raisons (glissement illégitime)
-- raisons → causes (réduction)
-- régimes → ontologie (réification)
-- corrélation → justification (confusion normative)
+Il opère sur les relations entre descriptions.
 
-👉 L’OVM n’évalue pas la vérité, mais la **validité du passage entre cadres**.
+Ces relations concernent :
 
----
-
-### 3. Organisation des transitions
-
-Lorsque des tensions persistent, le Kernel peut autoriser une **transition de cadre** :
-
-- reconfiguration locale des invariants ;
-- changement de régime de description dominant ;
-- ajustement des conditions de recevabilité des énoncés.
-
-👉 Une transition n’est pas une découverte, mais une **restructuration des conditions de descriptibilité**.
+- la compatibilité des engagements ;
+- la cohérence des inférences ;
+- la stabilité des interprétations ;
+- les conditions de passage entre cadres.
 
 ---
 
-## 🔁 Schéma fonctionnel
+## 3. Analyse des tensions entre régimes (CAP)
 
-CONTENT LAYER │ ▼ CAP (détection des tensions entre régimes) │ ▼ OVM (contrôle des transpositions modales) │ ▼ TRANSITION (reconfiguration locale des cadres descriptifs)
+Les tensions correspondent à des situations dans lesquelles plusieurs ensembles d’engagements inférentiels ne peuvent être maintenus simultanément sans ajustement.
+
+Ces tensions ne sont pas des erreurs, mais des effets de pluralité de cadres de description.
 
 ---
 
-## 🧩 Statut épistémologique
+## 4. Analyse des déplacements entre régimes (OVM)
+
+L’Opérateur de Vigilance Modale permet de décrire les cas où un type d’engagement est interprété selon un autre régime sans transformation adéquate de ses conditions de validité.
+
+Sont notamment analysés :
+
+- les passages entre causes et raisons ;
+- les formes de réduction entre niveaux descriptifs ;
+- les réifications de cadres de description ;
+- les confusions entre corrélation et justification.
+
+L’OVM ne juge pas la validité des contenus, mais explicite les conditions de leur transposition entre régimes.
+
+---
+
+## 5. Reconfigurations de compatibilité
+
+Dans certains cas, les relations entre régimes ne peuvent plus être maintenues dans leur forme initiale.
+
+On peut alors décrire des reconfigurations des conditions de compatibilité entre ensembles d’engagements.
+
+Ces reconfigurations ne sont pas des événements, mais des changements dans la manière dont les relations entre descriptions peuvent être maintenues.
+
+---
+
+## 6. Structure relationnelle
+
+Les distinctions mobilisées par le Kernel peuvent être organisées ainsi :
+
+- analyse des conditions de stabilisation locale ;
+- analyse des compatibilités entre régimes ;
+- analyse des tensions entre ensembles d’engagements ;
+- analyse des transformations possibles des conditions de compatibilité.
+
+Cette organisation ne décrit pas un processus, mais une cartographie de relations entre formes de description.
+
+---
+
+## 7. Statut épistémologique
 
 Le Kernel :
 
-- ne décrit pas le monde ;
-- ne produit pas d’ontologie ;
-- ne hiérarchise pas les régimes ;
-- ne tranche pas entre vérités concurrentes.
+- ne décrit pas une réalité sous-jacente ;
+- ne produit pas de hiérarchie de vérité ;
+- ne constitue pas une structure causale.
 
-👉 Il opère uniquement sur la **cohérence des passages entre systèmes de description**.
-
----
-
-## ⚠️ Principe fondamental
-
-> Le Kernel ne juge pas les régimes.
-> Il régule leurs interactions.
+Il explicite les conditions de lisibilité des relations entre régimes de description.
 
 ---
 
-## 🧠 Relation avec les autres modules
+## 8. Relation avec les autres modules
 
-### 🧩 Régimes
-Fournissent les cadres de contraintes de description.
-
-### 🧭 PAR
-Définit la constitution génétique des régimes.
-
-### 🔁 PASS
-Applique les procédures d’analyse sur des corpus.
-
-### ⚙️ Kernel
-Régule les interactions inférentielles entre régimes.
+- **Régimes** : ensembles de contraintes de description
+- **PAR** : conditions de formation des cadres
+- **PASS** : mise en œuvre des analyses sur des matériaux
+- **Kernel** : analyse des relations entre cadres
 
 ---
 
-## 🚧 Limite structurale : DELTA
+## 9. Limite structurelle (DELTA)
 
-Lorsque les tensions deviennent non résolubles dans l’espace des régimes disponibles :
+Il peut exister des situations dans lesquelles les conditions de compatibilité entre régimes ne peuvent pas être reconstruites dans l’espace des distinctions disponibles.
 
-👉 l’opérateur **DELTA** est activé.
+Ces situations ne constituent pas des erreurs, mais des limites descriptives du cadre d’analyse.
 
-DELTA signale :
-
-- absence de transition cohérente ;
-- saturation du système de régulation ;
-- indécidabilité structurelle persistante.
-
-👉 DELTA ne résout pas.
-👉 Il marque une **limite de stabilisation interne**.
+Elles signalent une indétermination persistante dans la relation entre régimes.
 
 ---
 
-## 🧠 Lecture synthétique
+## 10. Lecture synthétique
 
 Le Kernel peut être compris comme :
 
-> un système de contrôle des conditions de compatibilité entre cadres de description.
+> un dispositif d’analyse des conditions de compatibilité entre régimes de description
 
-ou encore :
+ou :
 
-> un régulateur des passages entre espaces inférentiels hétérogènes.
-
----
-
-## 🧭 Conclusion
-
-Le Kernel est la pièce centrale de cohérence de Protokin.
-
-Il garantit que :
-
-- la pluralité des régimes reste intelligible ;
-- les conflits deviennent analysables ;
-- les transitions restent structurées ;
-- aucune ontologie unique ne s’impose.
+> une grammaire des relations entre espaces inférentiels hétérogènes
 
 ---
 
-## 🧭 Formule finale
+## 11. Conclusion
 
-> Le Kernel ne produit pas de vérité.
-> Il maintient la lisibilité des transformations entre régimes de vérité locale.
+Le Kernel n’est pas un mécanisme.
+
+Il ne produit pas de résultats.
+
+Il rend explicites les conditions sous lesquelles des régimes de description peuvent être mis en relation de manière cohérente.
