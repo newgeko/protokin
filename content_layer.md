@@ -1,138 +1,130 @@
-# 🧩 Content Layer — Couche des configurations descriptives
+# Content Layer — Couche des configurations descriptives
 
-> Le Content Layer est l’ensemble des matériaux soumis à l’analyse du Kernel dans le cadre de Protokin.
+> Le Content Layer désigne l’ensemble des configurations descriptives pouvant être soumises à une analyse dans le cadre de Protokin.
 
 Il ne constitue ni une ontologie, ni une structure du réel, ni un système de classification.
 
-Il est un **champ de configurations descriptives stabilisables sous différents régimes d’audit**.
+Il est un champ de configurations descriptives stabilisables sous différents régimes d’analyse.
 
 ---
 
-## 🧭 1. Définition générale
+## 1. Définition générale
 
-Le Content Layer regroupe tout ce qui peut être interprété, décrit ou structuré dans un régime donné.
+Le Content Layer regroupe tout ce qui peut être interprété, décrit ou structuré dans un cadre de description donné.
 
 Il inclut :
 
-- des énoncés
-- des corpus
-- des théories
-- des modèles
-- des discours
-- des systèmes conceptuels
-- des régimes de description eux-mêmes (en tant qu’objets d’audit)
+- des énoncés  
+- des corpus  
+- des théories  
+- des modèles  
+- des discours  
+- des systèmes conceptuels  
+- des régimes de description eux-mêmes, en tant qu’objets possibles d’analyse  
 
-📌 Statut fondamental :
-> Le Content Layer n’est pas un domaine du réel, mais un espace de descriptibilité.
+Statut fondamental :
 
----
-
-## ⚙️ 2. Fonction dans l’architecture
-
-Le Content Layer joue un rôle strictement passif du point de vue opératoire.
-
-Il sert de :
-
-- support d’analyse
-- surface de projection des régimes
-- matériau de détection des tensions
-- espace de variation des stabilisations
-
-Il ne produit aucune opération de régulation.
+> Le Content Layer ne constitue pas un domaine du réel, mais un espace de descriptibilité.
 
 ---
 
-## 🔁 3. Relation au Kernel
+## 2. Rôle dans l’architecture
 
-Le Content Layer est toujours analysé par le Kernel.
+Le Content Layer correspond à un ensemble de configurations descriptives considérées comme objets possibles d’analyse.
 
-Cette relation est asymétrique :
+Il n’implique aucune structure opératoire propre.
 
-| Élément | Rôle |
-|---|---|
-| Content Layer | fournit des configurations descriptives |
-| Kernel | analyse les relations entre ces configurations |
+Il est décrit comme :
 
-📌 Important :
-> Le Content Layer ne contient pas de structure explicative interne du système Protokin.
+- ensemble de matériaux d’analyse  
+- ensemble de configurations interprétables  
+- ensemble de contenus soumis à des régimes de description  
 
 ---
 
-## ⚡ 4. Nature des contenus
+## 3. Relation au niveau d’analyse
 
-Les éléments du Content Layer ne sont pas des objets stables.
+Le Content Layer et le niveau d’analyse ne sont pas deux niveaux ontologiques distincts.
 
-Ils sont :
+Ils désignent une relation asymétrique de description de second ordre :
 
-- dépendants du régime de description appliqué
-- reconfigurables selon les cadres d’analyse
-- susceptibles de tensions inter-régimes
+- le Content Layer est ce sur quoi portent les descriptions  
+- le niveau d’analyse est ce par quoi ces descriptions sont reconstruites  
 
-Un même contenu peut donc :
-
-- être stabilisé différemment selon les régimes
-- produire des tensions
-- entrer en saturation descriptive
-- déclencher des transitions
+Il s’agit d’une distinction fonctionnelle dans une pratique d’analyse, et non d’une hiérarchie ontologique.
 
 ---
 
-## 🧠 5. Statut épistémologique
+## 4. Nature des contenus
+
+Les éléments du Content Layer ne sont pas des objets stables en soi.
+
+Ils sont définis uniquement par leur inscription dans des cadres de description.
+
+Ils peuvent :
+
+- être interprétés différemment selon les régimes  
+- donner lieu à des reconfigurations de leur statut descriptif  
+- entrer en incompatibilité sous changement de cadre  
+
+Ces variations ne sont pas internes aux contenus, mais dépendent des cadres de description mobilisés.
+
+---
+
+## 5. Statut épistémologique
 
 Le Content Layer n’a pas de valeur de vérité propre.
 
-Il ne définit pas ce qui est.
+Il ne fixe pas ce qui est.
 
-Il définit ce qui peut être **décrit sous conditions**.
+Il correspond à ce qui peut être rendu descriptible dans un cadre donné.
 
-📌 Formule structurante :
+Formule structurante :
+
 > Le Content Layer est le champ des descriptions possibles, non celui des vérités établies.
 
 ---
 
-## ⚠️ 6. Neutralité ontologique
+## 6. Neutralité descriptive
 
-Le Content Layer est :
+Le Content Layer ne comporte aucune hiérarchie interne de validité.
 
-- non ontologique
-- non hiérarchique
-- non normatif
+Il ne distingue pas :
 
-Il ne distingue pas a priori :
+- vrai / faux  
+- pertinent / non pertinent  
+- central / marginal  
 
-- vrai / faux
-- pertinent / non pertinent
-- central / marginal
-
-Ces distinctions apparaissent uniquement dans l’interaction avec le Kernel.
+Ces distinctions apparaissent uniquement dans les cadres d’analyse appliqués.
 
 ---
 
-## 🔁 7. Dynamique implicite
+## 7. Variations sous changement de cadre
 
-Les contenus du Content Layer peuvent :
+Les configurations du Content Layer peuvent être reconfigurées lorsque le cadre de description change.
 
-- être reconfigurés par changement de régime
-- générer des tensions entre interprétations
-- devenir instables sous audit
-- être redistribués par transitions de cadre
-
-Mais ces dynamiques ne sont jamais internes au Content Layer seul.
+Ces reconfigurations ne sont pas des propriétés internes du Content Layer, mais des effets de re-description.
 
 ---
 
-## 🧭 8. Position dans l’architecture Protokin
+## 8. Position dans l’architecture Protokin
 
-Le Content Layer s’inscrit dans la structure globale suivante :
+Le Content Layer s’inscrit dans une architecture de description en plusieurs niveaux :
 
-PAR → génération des conditions de régimes ↓ Content Layer (configurations descriptives) ↓ Kernel (CAP / OVM / DELTA) ↓ PASS (procédure d’application)
+PAR → conditions de formation des cadres de description  
+↓  
+Content Layer → configurations descriptives  
+↓  
+Niveau d’analyse → reconstruction des relations entre configurations  
+↓  
+PASS → procédures d’application des résultats d’analyse  
 
 ---
 
-## 🧩 Conclusion
+## 9. Conclusion
 
-Le Content Layer est l’espace des descriptions avant régulation.
+Le Content Layer est l’ensemble des configurations descriptives avant leur prise en charge par une analyse.
 
-Il ne dit rien du réel.
+Il ne renvoie pas à une réalité sous-jacente.
 
-Il rend possible l’analyse des régimes qui rendent le réel descriptible.
+Il rend possible l’analyse des cadres dans lesquels quelque chose peut être décrit comme réel, pertinent ou stable.
