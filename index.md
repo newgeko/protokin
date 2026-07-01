@@ -1,140 +1,183 @@
 # Protokin — Du mouvement des objets au mouvement des descriptions
 
 > Protokin est une métathéorie pragmatiste, inférentialiste et non-ontologique.
-> Elle vise à auditer les régimes de description, leurs conditions de validité, leurs conflits et leurs transitions.
+> Elle examine les conditions normatives sous lesquelles des descriptions deviennent intelligibles, recevables, incompatibles ou transformables au sein de pratiques de justification.
+>
+> Son objet n’est pas le monde indépendamment de toute description, mais les espaces de raisons dans lesquels des énoncés acquièrent leur statut de validité.
 
 ---
 
-## 🧭 1. Orientation générale
+## 1. Orientation générale
 
-Protokin ne décrit pas des objets du monde.
+Protokin ne propose pas une description du réel.
 
-Il analyse **les conditions sous lesquelles des descriptions deviennent stables, instables ou incompatibles**.
+Il vise l’analyse des conditions de possibilité des descriptions elles-mêmes, c’est-à-dire des régimes normatifs dans lesquels des énoncés deviennent stabilisés, contestés ou révisés.
 
-### Baseline du projet
-> Du mouvement des objets au mouvement des descriptions
+L’hypothèse directrice est la suivante :
+
+> une description n’a de contenu déterminé qu’au sein d’un réseau de conséquences, d’engagements et de justifications.
+
+### Visée de la démarche
+
+> Du mouvement des objets au mouvement des descriptions.
+
+L’attention se déplace des entités supposées vers les structures inférentielles qui rendent leur intelligibilité possible.
 
 ---
 
-## 🧩 2. Niveau fondationnel
+## 2. Intentions fondamentales
 
-Ce niveau fixe l’identité minimale du système.
+Ce volet explicite le statut général de la démarche.
 
 - **En une phrase** → [définition](en_une_phrase.md)  
-  Formulation canonique du projet.
+  Formulation condensée du projet.
 
 - **Nom et étymologie** → [protokin](protokin.md)  
-  Origine pragmatique du terme (proto / kin / kinship).
+  Origine conceptuelle du terme (proto / kin / kinship comme relation de dépendance normative).
 
 - **Statut du projet** → [statut](statut.md)  
-  Positionnement : non-ontologie, pragmatisme, inférentialisme.
+  Positionnement : pragmatisme inférentialiste, analyse des pratiques de justification, non-ontologie.
+
+Protokin ne cherche pas à établir ce qui existe indépendamment des pratiques de discours, mais à expliciter les conditions normatives qui rendent possible l’attribution d’un contenu à une description.
 
 ---
 
-## ⚙️ 3. Niveau structural (Content Layer)
+## 3. Le Recueil (Matière descriptive)
 
-Ce niveau regroupe les objets d’analyse.
+Ce volet rassemble les configurations discursives soumises à analyse.
 
-- **Architecture générale** → [architecture](architecture.md)  
-  Distinction Content Layer / Kernel et organisation globale.
+- **Organisation d'ensemble** → [architecture](architecture.md)
 
-- **Régimes de description** → [regimes](regimes.md)  
-  Espaces locaux de contraintes de justification.
+- **Les cadres de description** → [regimes](regimes.md)
 
-- **Distinction causes / raisons** → [causes & raisons](causes_raisons.md)  
-  Séparation entre explication causale et justification normative.
+- **Faits et justifications** → [causes_raisons](causes_raisons.md)
 
----
+Un cadre de description est compris comme un espace local de normes inférentielles dans lequel certaines inférences sont autorisées, d’autres exclues, et d’autres encore rendues problématiques.
 
-## ⚙️ 4. Niveau opératoire (Kernel)
+Les descriptions n’y sont pas évaluées isolément, mais en fonction de leurs rôles dans des chaînes de raisons.
 
-Ce niveau décrit les opérations d’audit.
+La distinction entre causes et raisons marque la différence entre deux types de relations :
 
-- **Kernel** → [kernel](kernel.md)  
-  Mécanisme de régulation des régimes.
-
-- **Tensions** → [tensions](tensions.md)  
-  Désalignements entre régimes de description.
-
-- **Transitions** → [transitions](transitions.md)  
-  Reconfigurations locales des cadres.
-
-- **DELTA** → (intégré dans kernel.md)  
-  Signal de limite de stabilisation.
+- relations descriptives internes aux pratiques de justification ;
+- relations explicatives relevant de schèmes non normatifs.
 
 ---
 
-## 🧪 5. Niveau méthodologique (audit)
+## 4. Analyse des désalignements normatifs
 
-- **Protocole d’audit** → [audit](audit.md)  
-  Méthode générale d’analyse des régimes.
+Ce volet regroupe les formes de désajustement entre régimes de description.
 
-- **OVM (Opérateur de Vigilance Modale)** → [ovm](ovm.md)  
-  Détection des glissements de niveau (causes / raisons / substitutions).
+- **Analyse des frictions normatives** → [tensions](tensions.md)
 
-- **Critères de validité** → [validite](validite.md)  
-  Conditions internes de justification propres à chaque régime.
+- **Analyse des transferts de critères** → [transitions](transitions.md)
 
----
+- **Analyse des incohérences locales** → (intégré conceptuellement dans les mécanismes précédents)
 
-## 🧠 6. Niveau d’application
+Les tensions ne sont pas des anomalies externes.
 
-- **Exemples d’audit** → [examples](examples.md)  
-  Cas concrets d’analyse.
+Elles apparaissent lorsque plusieurs ensembles de normes inférentielles produisent des engagements incompatibles au sein d’une même situation descriptive.
 
-- **Erreurs typiques** → [pitfalls](pitfalls.md)  
-  Confusions structurelles et erreurs de lecture.
+Les transitions désignent les reconfigurations par lesquelles un ensemble de normes devient insuffisant pour stabiliser ses propres engagements, nécessitant une réorganisation des critères de justification.
 
 ---
 
-## 📚 7. Niveau théorique (cartographie)
+## 5. Procédure d’examen (analyse normative)
 
-- **Cartographie philosophique** → [cartographie](cartographie.md)  
-  Sellars, Brandom, Quine, Wittgenstein, Vuillemin, Bouveresse…
+Ce volet formalise les opérations d’analyse des pratiques de justification.
 
-- **Opérationnalisation des auteurs** → [influences](influences.md)  
-  Traduction fonctionnelle dans le système.
+- **Cycle d’analyse** → [audit](audit.md)
 
----
+- **Analyse des déplacements catégoriels** → [ovm](ovm.md)
 
-## 🧠 8. Niveau avancé (réflexivité)
+- **Conditions de validité** → [validite](validite.md)
 
-- **Réflexivité du système (N1–N4)** → [reflexivite](reflexivite.md)  
-  Auto-audit et limites de clôture.
+L’analyse ne vise pas à comparer des descriptions à une réalité indépendante.
 
-> ⚠️ Niveau secondaire : traite du système appliqué à lui-même.
+Elle consiste à expliciter les engagements normatifs implicites dans des pratiques discursives.
 
----
+Les conditions de validité sont comprises comme internes à chaque espace de justification.
 
-## 📖 9. Guide de lecture
+Elles ne sont pas imposées depuis un niveau externe, mais reconstruites à partir des usages effectifs des concepts.
 
-Ordre recommandé :
-
-1. en_une_phrase.md  
-2. architecture.md  
-3. regimes.md  
-4. kernel.md  
-5. audit.md  
-6. examples.md  
+Les déplacements de critères entre domaines différents sont analysés lorsqu’un ensemble de normes est appliqué hors de son espace d’origine sans transformation adéquate de ses conditions d’usage.
 
 ---
 
-## 🧭 10. Principe de stabilité
+## 6. Applications et diagnostics
 
-Protokin fonctionne comme un système d’audit, non comme une ontologie.
+- **Cas d’analyse** → [examples](examples.md)
 
-Trois opérations structurent son fonctionnement :
+- **Erreurs de catégorie et déplacements illégitimes** → [pitfalls](pitfalls.md)
 
-- stabilisation des cadres  
-- détection des tensions  
-- gestion des transitions  
+Les diagnostics ne portent pas sur la vérité des propositions isolées.
+
+Ils portent sur les conditions normatives qui rendent ces propositions possibles et sur les éventuelles incompatibilités entre ces conditions.
+
+L’analyse vise à rendre explicites les engagements inférentiels impliqués dans les discours étudiés.
 
 ---
 
-## 🚧 11. Limite structurale
+## 7. Cartographie théorique
 
-Toute extension doit respecter une contrainte stricte :
+- **Cartographie conceptuelle** → [cartographie](cartographie.md)
 
-> aucune augmentation de complexité structurelle sans gain analytique explicite
+- **Traductions fonctionnelles** → [influences](influences.md)
 
-Protokin privilégie la lisibilité des opérations d’audit sur l’exhaustivité descriptive.
+Protokin s’inscrit dans une tradition philosophique qui comprend le contenu conceptuel comme dépendant de ses relations inférentielles.
+
+Cette orientation est compatible avec les travaux de Sellars, Brandom, Wittgenstein, Quine et plusieurs approches contemporaines de la normativité du langage.
+
+Ces références ne jouent pas un rôle de validation externe.
+
+Elles servent à situer les problèmes traités dans un espace théorique où la signification est comprise comme dépendante des pratiques de justification.
+
+---
+
+## 8. Réflexivité
+
+- **Analyse du dispositif sur lui-même** → [reflexivite](reflexivite.md)
+
+Cette section applique les mêmes outils d’analyse aux concepts utilisés par Protokin lui-même.
+
+Aucune structure normative ne peut être considérée comme extérieure à l’espace qu’elle décrit.
+
+Les catégories d’analyse sont elles-mêmes susceptibles de révision lorsque leurs usages produisent des tensions ou des incohérences.
+
+La réflexivité constitue donc une condition interne de cohérence du dispositif analytique.
+
+---
+
+## 9. Guide de lecture
+
+1. [Définition du projet](en_une_phrase.md)
+2. [Organisation générale](architecture.md)
+3. [Cadres de description](regimes.md)
+4. [Analyse des désalignements](tensions.md)
+5. [Cycle d’analyse](audit.md)
+6. [Exemples](examples.md)
+
+---
+
+## 10. Stabilité normative
+
+Protokin peut être compris comme une méthode d’analyse des conditions de stabilité des pratiques de justification.
+
+Trois types d’opérations sont distingués :
+
+- stabilisation locale des engagements inférentiels ;
+- identification des incompatibilités normatives ;
+- réorganisation des critères lors de situations de tension.
+
+La stabilité n’est pas une propriété absolue.
+
+Elle désigne un état temporaire de compatibilité entre engagements au sein d’un espace normatif donné.
+
+---
+
+## 11. Principe de parcimonie conceptuelle
+
+Toute extension du dispositif analytique doit répondre à une exigence de clarté explicative.
+
+L’introduction de nouvelles distinctions n’est justifiée que si elle améliore la lisibilité des structures normatives qu’elle vise à expliciter.
+
+Protokin privilégie l’explicitation des engagements inférentiels sur l’accumulation de niveaux descriptifs.
