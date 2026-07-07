@@ -101,21 +101,65 @@ Il définit les conditions sous lesquelles des descriptions du monde deviennent 
 
 ---
 
-## Conclusion
+## Régimes et logiques explicatives
 
-Les régimes constituent la **structure de contrainte de la descriptibilité et de la justification** dans Protokin.
+Un régime n'est pas une explication.
 
-Ils sont :
+Il définit les conditions sous lesquelles certaines formes
+d'explication deviennent recevables.
 
-- le support de la pluralité descriptive ;
-- le milieu des tensions inter-régimes ;
-- le matériau analysé par CAP et OVM ;
-- le point de départ des transitions.
+Les logiques explicatives mobilisées dans un régime :
+
+- sélectionnent des invariants ;
+- organisent des relations d'intelligibilité ;
+- stabilisent des chaînes inférentielles ;
+- rendent certaines transformations descriptivement pertinentes.
+
+Un même phénomène peut recevoir plusieurs explications
+selon les régimes mobilisés.
+
+L'analyse protokinienne ne cherche donc pas l'explication
+ultime d'un phénomène mais les conditions de validité
+des différentes logiques explicatives qui peuvent lui être appliquées.
 
 ---
 
-## Synthèse finale
+## Régimes et normativité
 
-Les régimes ne sont pas des entités du monde.
+Un régime ne contient pas seulement des contraintes descriptives.
 
-Ils sont les conditions formelles sous lesquelles un monde devient descriptible et justifiable.
+Il stabilise également des critères normatifs permettant de distinguer :
+
+- ce qui compte comme justification ;
+- ce qui compte comme erreur ;
+- ce qui compte comme incompatibilité ;
+- ce qui compte comme révision acceptable.
+
+Les régimes ne déterminent pas le contenu des énoncés.
+
+Ils déterminent les conditions sous lesquelles
+ces énoncés peuvent être évalués.
+
+---
+
+## Régimes et ontologie
+
+Les régimes ne constituent pas une taxonomie des êtres.
+
+Ils ne divisent pas le réel en couches.
+
+Ils n'indiquent pas ce qui existe.
+
+Ils rendent explicites les conditions sous lesquelles
+certaines entités, propriétés ou relations peuvent être
+stabilisées comme objets descriptifs.
+
+La question :
+
+"Que peut-on décrire ici ?"
+
+précède dans Protokin la question :
+
+"Qu'est-ce qui existe ?"
+
+---
