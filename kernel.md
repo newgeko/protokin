@@ -1,128 +1,156 @@
-# Kernel — analyse des conditions de compatibilité entre régimes de description
+Kernel — espace d’analyse des relations entre régimes de description
 
-## 1. Rôle du Kernel dans Protokin
+1. Rôle du Kernel dans Protokin
 
-Le Kernel désigne un ensemble de distinctions permettant d’analyser les relations entre régimes de description.
+Le Kernel désigne l’ensemble des distinctions fondamentales permettant d’analyser les relations entre régimes de description.
 
 Il ne constitue ni :
 
 - une source de vérité ;
 - un niveau ontologique ;
 - un système de décision ;
-- un mécanisme causal ou opérationnel.
+- un mécanisme causal ;
+- un opérateur de transformation.
 
-Il permet de rendre explicites les conditions sous lesquelles des descriptions issues de régimes différents peuvent être compatibles, incompatibles ou partiellement non traductibles.
+Il constitue l’espace formel dans lequel peuvent être qualifiées les conditions de compatibilité, d’incompatibilité ou de non-traductibilité entre différents cadres descriptifs.
 
 ---
 
-## 2. Statut général
+2. Statut général
 
 Le Kernel ne produit pas de descriptions du monde.
 
-Il opère sur les relations entre descriptions.
+Il ne sélectionne pas un régime supérieur et ne tranche pas entre cadres concurrents.
 
-Ces relations concernent :
+Il porte sur les relations entre descriptions.
 
-- la compatibilité des engagements ;
-- la cohérence des inférences ;
-- la stabilité des interprétations ;
-- les conditions de passage entre cadres.
+Ces relations concernent notamment :
 
----
-
-## 3. Analyse des tensions entre régimes (CAP)
-
-Les tensions correspondent à des situations dans lesquelles plusieurs ensembles d’engagements inférentiels ne peuvent être maintenus simultanément sans ajustement.
-
-Ces tensions ne sont pas des erreurs, mais des effets de pluralité de cadres de description.
+- la compatibilité des engagements descriptifs ;
+- la cohérence des inférences mobilisées ;
+- la stabilité des critères de justification ;
+- les conditions de traduction entre régimes.
 
 ---
 
-## 4. Analyse des déplacements entre régimes (OVM)
+3. Analyse des tensions entre régimes (CAP)
 
-L’Opérateur de Vigilance Modale permet de décrire les cas où un type d’engagement est interprété selon un autre régime sans transformation adéquate de ses conditions de validité.
+Les tensions apparaissent lorsque plusieurs régimes appliqués à une même configuration ne permettent pas une compatibilité immédiate de leurs contraintes.
 
-Sont notamment analysés :
+Elles ne constituent :
 
-- les passages entre causes et raisons ;
-- les formes de réduction entre niveaux descriptifs ;
-- les réifications de cadres de description ;
-- les confusions entre corrélation et justification.
+- ni des erreurs ;
+- ni des contradictions logiques absolues ;
+- ni des propriétés du réel.
 
-L’OVM ne juge pas la validité des contenus, mais explicite les conditions de leur transposition entre régimes.
+Elles correspondent à des désalignements locaux entre cadres de stabilisation descriptive.
 
----
-
-## 5. Reconfigurations de compatibilité
-
-Dans certains cas, les relations entre régimes ne peuvent plus être maintenues dans leur forme initiale.
-
-On peut alors décrire des reconfigurations des conditions de compatibilité entre ensembles d’engagements.
-
-Ces reconfigurations ne sont pas des événements, mais des changements dans la manière dont les relations entre descriptions peuvent être maintenues.
+CAP analyse la structure de ces tensions.
 
 ---
 
-## 6. Structure relationnelle
+4. Analyse des déplacements entre régimes (OVM)
 
-Les distinctions mobilisées par le Kernel peuvent être organisées ainsi :
+L’Opérateur de Vigilance Modale (OVM) qualifie les déplacements entre régimes de description.
 
-- analyse des conditions de stabilisation locale ;
-- analyse des compatibilités entre régimes ;
-- analyse des tensions entre ensembles d’engagements ;
-- analyse des transformations possibles des conditions de compatibilité.
+Il analyse notamment :
 
-Cette organisation ne décrit pas un processus, mais une cartographie de relations entre formes de description.
+- les substitutions d’un cadre de validité par un autre ;
+- les réductions abusives entre régimes ;
+- les confusions entre explication causale et justification normative ;
+- les réifications de cadres descriptifs.
+
+OVM ne juge pas directement la vérité des contenus.
+
+Il examine les conditions sous lesquelles un déplacement entre régimes reste descriptivement légitime.
 
 ---
 
-## 7. Statut épistémologique
+5. Reconfigurations de compatibilité
+
+Certaines configurations peuvent conduire à une modification des relations entre régimes.
+
+Ces reconfigurations ne constituent pas des événements dans le monde.
+
+Elles désignent des transformations des conditions sous lesquelles plusieurs descriptions peuvent être articulées.
+
+Elles peuvent prendre la forme :
+
+- d’une réinterprétation ;
+- d’une variation locale (DELTA) ;
+- d’une transition de cadre.
+
+---
+
+6. Structure relationnelle
+
+Les distinctions du Kernel permettent d’analyser :
+
+- les conditions de stabilisation locale ;
+- les compatibilités entre régimes ;
+- les tensions entre engagements descriptifs ;
+- les limites de traduction ;
+- les possibilités de reconfiguration.
+
+Cette structure ne décrit pas un processus causal.
+
+Elle constitue une cartographie des relations possibles entre cadres de description.
+
+---
+
+7. Statut épistémologique
 
 Le Kernel :
 
 - ne décrit pas une réalité sous-jacente ;
 - ne produit pas de hiérarchie de vérité ;
-- ne constitue pas une structure causale.
+- ne constitue pas une structure causale ;
+- ne remplace aucun régime de description.
 
-Il explicite les conditions de lisibilité des relations entre régimes de description.
-
----
-
-## 8. Relation avec les autres modules
-
-- **Régimes** : ensembles de contraintes de description
-- **PAR** : conditions de formation des cadres
-- **PASS** : mise en œuvre des analyses sur des matériaux
-- **Kernel** : analyse des relations entre cadres
+Il explicite les conditions de lisibilité des relations entre régimes.
 
 ---
 
-## 9. Limite structurelle (DELTA)
+8. Relation avec les autres composantes
 
-Il peut exister des situations dans lesquelles les conditions de compatibilité entre régimes ne peuvent pas être reconstruites dans l’espace des distinctions disponibles.
-
-Ces situations ne constituent pas des erreurs, mais des limites descriptives du cadre d’analyse.
-
-Elles signalent une indétermination persistante dans la relation entre régimes.
+- PAR : conditions de formation des cadres descriptifs.
+- Régimes : ensembles de contraintes de stabilisation descriptive et normative.
+- Content Layer : configurations descriptives soumises à analyse.
+- Kernel : espace formel d’analyse des relations entre régimes.
+- CAP : analyse structurée des tensions.
+- OVM : qualification des déplacements entre cadres.
+- PASS : mise en œuvre des analyses sur des matériaux déterminés.
 
 ---
 
-## 10. Lecture synthétique
+9. Limite structurelle (DELTA)
+
+Certaines configurations peuvent présenter une impossibilité de reconstruire une compatibilité suffisante entre régimes dans l’espace des distinctions disponibles.
+
+Cette situation ne constitue pas une erreur.
+
+Elle indique une limite locale des conditions actuelles d’analyse.
+
+DELTA désigne alors une limite de stabilisation descriptive, et non une impossibilité du réel ou de toute connaissance.
+
+---
+
+10. Lecture synthétique
 
 Le Kernel peut être compris comme :
 
-> un dispositif d’analyse des conditions de compatibilité entre régimes de description
+«un espace formel d’analyse des conditions de compatibilité entre régimes de description.»
 
-ou :
+Ou encore :
 
-> une grammaire des relations entre espaces inférentiels hétérogènes
+«une grammaire des relations entre espaces inférentiels hétérogènes.»
 
 ---
 
-## 11. Conclusion
+11. Conclusion
 
 Le Kernel n’est pas un mécanisme.
 
-Il ne produit pas de résultats.
+Il ne produit pas de résultats et ne transforme pas les descriptions.
 
-Il rend explicites les conditions sous lesquelles des régimes de description peuvent être mis en relation de manière cohérente.
+Il rend explicites les conditions sous lesquelles plusieurs régimes de description peuvent être comparés, articulés ou reconnus comme incompatibles.
