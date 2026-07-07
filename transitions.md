@@ -1,112 +1,194 @@
-# Transitions de cadre dans Protokin
+Transitions de cadre dans Protokin
 
-Dans Protokin, une transition de cadre descriptif ne constitue ni une amélioration d’un système ni une correction du réel.
+Statut des transitions de cadre
 
-Elle désigne une **reconfiguration locale des conditions de stabilisation d’une description**, lorsque un régime ne permet plus de maintenir de manière cohérente les distinctions qu’il rend possibles.
+Dans Protokin, une transition de cadre descriptif ne constitue ni une amélioration d’un système, ni une correction du réel, ni un passage vers un régime supérieur.
 
----
+Elle désigne une reconfiguration locale des conditions de stabilisation descriptive et normative lorsqu’une configuration donnée ne peut plus maintenir la cohérence de ses engagements, de ses distinctions pertinentes et de ses critères de justification au sein d’un même régime.
 
-## 1. Saturation et mise en tension (CAP)
+Une transition ne modifie pas le monde décrit.
 
-Une transition est précédée par une phase de saturation analysée par CAP.
-
-Un régime est considéré comme entrant en saturation lorsqu’il ne peut plus maintenir ses conditions internes de stabilisation sans ajustements ad hoc.
-
-Cela peut se manifester par :
-
-- fragilisation des invariants descriptifs ;
-- multiplication des exceptions internes ;
-- perte de compression descriptive ;
-- incompatibilités locales entre distinctions.
+Elle modifie les conditions sous lesquelles certaines descriptions peuvent être stabilisées, évaluées et articulées.
 
 ---
 
-Le Cycle d’Audit (CAP) rend visibles ces configurations sous forme de :
+1. Saturation et mise en tension (CAP)
 
-- tensions entre invariants ;
-- conflits d’échelle descriptive ;
-- incompatibilités de critères de justification ;
-- désalignements entre régimes.
+Une transition devient analysable lorsqu’une configuration entre dans une phase de saturation.
 
----
+La saturation apparaît lorsque les contraintes propres à un régime mobilisé ne permettent plus de maintenir simultanément les engagements descriptifs qui organisent cette configuration.
 
-## 2. Qualification des conditions de transition (OVM)
+Elle peut se manifester par :
 
-Le module OVM intervient pour analyser les conditions de cohérence des reconfigurations possibles.
+- une fragilisation des invariants descriptifs ;
+- une multiplication des exceptions internes ;
+- une perte de cohérence entre plusieurs critères de validité ;
+- une incompatibilité croissante entre distinctions pourtant nécessaires ;
+- une diminution de la capacité du régime à organiser une description stable.
 
-Il ne valide ni ne rejette une transition, mais examine :
+La saturation ne signifie pas qu’un régime devient faux.
 
-> les conditions sous lesquelles une reconfiguration reste intelligible sans effondrement des distinctions entre régimes.
-
----
-
-Cette analyse met en évidence notamment :
-
-- les réductions de niveau descriptif ;
-- les confusions entre causes et raisons ;
-- les fusions non médiatisées de régimes ;
-- les glissements modaux non contrôlés.
+Elle indique qu’un cadre de stabilisation donné rencontre des limites dans une configuration particulière.
 
 ---
 
-## 3. Types de reconfiguration
+Analyse CAP
 
-Une transition peut être analysée selon trois formes principales :
+Le Cycle d’Audit Protokin (CAP) rend visibles ces situations sous forme de :
 
-### Réinterprétation (continuité)
+- tensions entre invariants descriptifs ;
+- conflits entre différentes échelles d’analyse ;
+- incompatibilités entre critères de justification ;
+- désalignements entre régimes mobilisés.
 
-Les invariants sont conservés, tandis que leur organisation interne est reconfigurée.
+CAP ne produit pas une solution.
 
----
-
-### Changement de régime (recomposition)
-
-Les invariants initiaux deviennent insuffisants pour stabiliser les descriptions, ce qui motive l’adoption d’une nouvelle structuration.
-
----
-
-### Discontinuité (rupture)
-
-Aucune traduction progressive n’est disponible entre deux cadres de description au niveau des invariants pertinents.
+Il identifie la structure de la tension qui rend une reconfiguration possible ou nécessaire.
 
 ---
 
-## 4. Exemple : saturation dans une équipe
+2. Qualification des conditions de transition (OVM)
 
-Une équipe est initialement décrite uniquement via un régime métrique (productivité, vélocité, tickets fermés).
+L’Opérateur de Vigilance Modale (OVM) intervient pour analyser les conditions de cohérence d’une éventuelle reconfiguration.
 
-### Saturation
+Il ne valide ni ne rejette une transition.
 
-Les indicateurs restent stables, mais des phénomènes non capturés apparaissent (fatigue, désengagement, burn-out).
+Il examine :
 
-Le régime ne permet plus de stabiliser de manière cohérente l’ensemble des variations observables sous ses propres critères.
+«les conditions sous lesquelles une modification de cadre reste intelligible sans produire de confusion entre régimes de validité distincts.»
 
----
+Cette analyse vise notamment à identifier :
 
-### CAP
+- les réductions illégitimes d’un régime à un autre ;
+- les confusions entre explications causales et justifications normatives ;
+- les fusions non médiatisées entre cadres descriptifs ;
+- les déplacements modaux non contrôlés.
 
-Mise en évidence de tensions :
-
-- conflit entre performance et soutenabilité ;
-- changement d’échelle non capturé ;
-- insuffisance des invariants descriptifs.
-
----
-
-### OVM
-
-Identification des conditions sous lesquelles une réduction du phénomène à une seule dimension descriptive devient problématique.
+OVM protège ainsi la transition contre les transformations qui supprimeraient les distinctions nécessaires à l’analyse.
 
 ---
 
-### Transition
+3. Formes de reconfiguration
 
-Reconfiguration vers un régime intégrant des invariants organisationnels et relationnels, en plus des invariants métriques.
+Les transitions peuvent prendre plusieurs formes.
+
+Ces formes ne constituent ni une hiérarchie ni une séquence obligatoire.
+
+Elles désignent différentes modalités de transformation des conditions de stabilisation.
 
 ---
 
-## 5. Conclusion
+Réinterprétation (continuité)
 
-Les transitions de cadre ne constituent pas des améliorations globales.
+Les invariants descriptifs principaux sont conservés.
 
-Elles correspondent à des **reconfigurations locales des conditions de stabilisation descriptive**, permettant à un système de maintenir l’intelligibilité d’un domaine lorsqu’un régime unique devient insuffisant.
+Cependant, leur organisation interne, leur articulation ou leur portée sont reconfigurées.
+
+La transition modifie la manière dont un ensemble d’engagements est compris sans changer fondamentalement de régime de description.
+
+---
+
+Recomposition de régime
+
+Les invariants mobilisés ne suffisent plus à stabiliser la configuration analysée.
+
+Une nouvelle organisation des contraintes descriptives et normatives devient alors nécessaire.
+
+Il ne s’agit pas de remplacer un régime inférieur par un régime supérieur, mais de modifier le cadre dans lequel certaines distinctions deviennent pertinentes.
+
+---
+
+Discontinuité (rupture)
+
+Aucune continuité descriptive suffisante ne permet de traduire un cadre dans un autre au niveau des invariants pertinents.
+
+La transition implique alors une modification profonde des conditions de description et d’évaluation.
+
+La rupture ne signifie pas l’abandon d’une description comme erreur absolue, mais l’apparition d’un nouveau régime de pertinence.
+
+---
+
+4. Exemple : saturation d’un régime descriptif métrique dans une équipe
+
+Une équipe est initialement décrite principalement à travers un régime métrique :
+
+- productivité ;
+- vélocité ;
+- nombre de tâches réalisées ;
+- volume de livraisons.
+
+---
+
+Saturation
+
+Les indicateurs restent cohérents selon leurs propres critères, mais certains phénomènes deviennent difficilement intégrables :
+
+- fatigue ;
+- désengagement ;
+- perte de coopération ;
+- fragilisation organisationnelle.
+
+Le problème n’est pas que les mesures sont fausses.
+
+Le problème est que les invariants retenus ne suffisent plus à stabiliser l’ensemble des dimensions pertinentes de la configuration.
+
+---
+
+CAP
+
+L’audit fait apparaître plusieurs tensions :
+
+- opposition entre performance immédiate et soutenabilité ;
+- changement d’échelle organisationnelle non pris en compte ;
+- insuffisance des invariants purement métriques.
+
+---
+
+OVM
+
+L’analyse identifie le risque d’une réduction illégitime :
+
+- réduire l’organisation à des indicateurs quantitatifs ;
+- traiter des phénomènes relationnels comme de simples variations métriques ;
+- confondre mesure descriptive et justification normative.
+
+---
+
+Transition
+
+La reconfiguration consiste alors à intégrer d’autres contraintes descriptives :
+
+- organisationnelles ;
+- relationnelles ;
+- temporelles ;
+- normatives.
+
+Le régime initial n’est pas supprimé.
+
+Il devient un élément partiel d’une configuration descriptive plus large.
+
+---
+
+5. Principe de non-progression
+
+Une transition de cadre ne constitue pas nécessairement un progrès.
+
+Elle ne correspond pas au passage d’un régime inférieur vers un régime supérieur.
+
+Elle désigne une modification des conditions sous lesquelles certaines descriptions deviennent stables, pertinentes et justifiables.
+
+Une transition peut augmenter la capacité descriptive d’une configuration tout en introduisant de nouvelles contraintes et de nouvelles limites.
+
+Elle constitue donc une reconfiguration de l’espace descriptif, et non une évolution linéaire de la connaissance.
+
+---
+
+Conclusion
+
+Les transitions de cadre dans Protokin correspondent à des reconfigurations locales des conditions de stabilisation descriptive et normative.
+
+Elles apparaissent lorsque les contraintes d’un régime donné ne permettent plus de maintenir une configuration intelligible sans tensions internes majeures.
+
+Elles ne corrigent pas le réel et ne remplacent pas nécessairement un cadre par un meilleur.
+
+Elles modifient les conditions sous lesquelles un domaine peut être décrit, évalué et rendu intelligible.
