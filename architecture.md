@@ -2,134 +2,185 @@
 
 ---
 
-## 1. Nature du système
+1. Nature du système
 
-Protokin n’est ni une ontologie, ni une théorie de la représentation, ni une hiérarchie du réel.
+Protokin n’est :
 
-Il constitue un cadre d’analyse des régimes de description et des pratiques de justification.
+- ni une ontologie ;
+- ni une théorie de la représentation ;
+- ni une hiérarchie du réel.
 
-Il s’inscrit dans une tradition de philosophie analytique du langage (Quine, Sellars, Vuillemin, Bouveresse, Brandom, Tarski), centrée sur l’analyse des conditions de validité des énoncés.
+Il constitue un cadre d’analyse des conditions de stabilisation descriptive, des régimes de justification et des transformations possibles des cadres de description.
+
+Il s’inscrit dans plusieurs traditions philosophiques, notamment l’analyse du langage, l’inférentialisme pragmatiste et l’épistémologie des pratiques de justification.
 
 ---
 
-## 2. Objet du système
+2. Objet du système
 
-Protokin permet de rendre explicites :
+Protokin vise à rendre explicites :
 
-- les conditions de formation des énoncés dans un régime donné ;
+- les conditions sous lesquelles des descriptions deviennent stabilisables ;
 - les critères locaux de justification ;
-- les relations inférentielles entre régimes ;
-- les incompatibilités entre cadres de description ;
-- les transformations possibles des conditions de validité ;
+- les relations inférentielles entre cadres descriptifs ;
+- les tensions entre régimes ;
+- les possibilités de reconfiguration ;
 - les limites internes des systèmes de justification.
 
+Il n’explique pas directement les objets du monde.
+
+Il analyse les conditions sous lesquelles ils peuvent devenir des objets descriptifs dans un cadre donné.
+
 ---
 
-## 3. Régimes de description
+3. Régimes de description
 
-Un régime de description est un ensemble de contraintes normatives et inférentielles.
+Un régime de description désigne un ensemble de contraintes descriptives, normatives et inférentielles.
 
-Il définit :
+Il définit notamment :
 
-- les critères de validité des énoncés ;
+- les critères de validité ;
 - les inférences autorisées ;
 - les conditions de pertinence ;
 - les exclusions possibles.
 
-Il ne constitue pas une structure du réel, mais une organisation locale des conditions de justification.
+Un régime ne constitue pas une structure du réel.
+
+Il correspond à une organisation locale des conditions sous lesquelles certaines descriptions peuvent être stabilisées et évaluées.
 
 ---
 
-## 4. Tensions, saturations et indéterminations
+4. Relations entre régimes
 
-Les relations entre régimes peuvent être décrites sous trois formes :
+Les relations entre régimes peuvent prendre plusieurs formes.
 
-### Tensions
-Elles apparaissent lorsque plusieurs ensembles de critères produisent des exigences incompatibles sur une même configuration.
+Tensions
 
----
+Une tension désigne un désalignement local entre plusieurs régimes appliqués à une même configuration.
 
-### Saturations
-Elles correspondent à des situations dans lesquelles un régime ne parvient plus à stabiliser ses propres critères sans modification interne.
+Elle apparaît lorsque plusieurs cadres de description ne permettent pas une compatibilité immédiate de leurs contraintes.
 
 ---
 
-### Indéterminations
-Elles apparaissent lorsque les critères internes d’un régime ne permettent plus de fixer un statut stable à une description donnée.
+Saturations
+
+Une saturation désigne une situation dans laquelle une configuration ne peut plus maintenir simultanément ses engagements descriptifs dans un régime donné sans modification des conditions de stabilisation.
 
 ---
 
-## 5. Analyse des relations entre régimes
+Indéterminations
 
-Le système distingue plusieurs types de relations entre régimes :
+Une indétermination apparaît lorsque les ressources internes d’un cadre descriptif ne permettent pas de fixer une stabilisation suffisante entre plusieurs descriptions concurrentes.
+
+---
+
+5. Espace des relations entre régimes
+
+Protokin analyse plusieurs formes de relations entre régimes :
 
 - compatibilités partielles ;
-- incompatibilités structurelles ;
-- transformations possibles des critères ;
-- reconfigurations locales des conditions de validité.
+- incompatibilités locales ;
+- tensions de justification ;
+- possibilités de traduction ;
+- reconfigurations des critères de validité.
 
-Ces relations ne décrivent pas un processus, mais un espace de variations possibles entre cadres de description.
+Ces relations ne décrivent pas une évolution nécessaire.
+
+Elles constituent un espace de variations possibles entre cadres descriptifs.
 
 ---
 
-## 6. Conditions de description (Content Layer)
+6. Content Layer — configurations descriptives
 
-Le Content Layer désigne l’ensemble des contenus soumis à analyse :
+Le Content Layer désigne l’ensemble des configurations descriptives soumises à analyse.
+
+Il comprend notamment :
 
 - énoncés ;
 - théories ;
 - modèles ;
 - corpus ;
 - pratiques discursives ;
-- régimes eux-mêmes, en tant qu’objets d’analyse.
+- régimes eux-mêmes lorsqu’ils deviennent objets d’analyse.
 
-Il ne constitue pas un domaine du réel, mais un espace de descriptibilité.
+Il ne constitue pas un domaine du réel.
 
----
-
-## 7. Analyse des relations (Kernel)
-
-Le Kernel désigne l’ensemble des distinctions permettant d’expliciter les relations entre régimes.
-
-Il permet de décrire :
-
-- les tensions entre régimes ;
-- les incompatibilités de critères ;
-- les formes de reconfiguration ;
-- les limites de stabilité.
-
-Il ne constitue pas un mécanisme et ne produit aucune opération.
+Il correspond au champ dans lequel des descriptions peuvent être stabilisées, comparées et mises en tension.
 
 ---
 
-## 8. Conditions de reconfiguration (CAP / OVM / DELTA)
+7. Kernel — espace formel d’analyse
 
-Ces distinctions ne désignent pas des modules opératoires, mais des types de relations analysables :
+Le Kernel désigne l’ensemble des distinctions fondamentales permettant de qualifier les relations entre régimes.
 
-- CAP : description des tensions entre interprétations ;
-- OVM : description des déplacements entre cadres de description ;
-- DELTA : description des situations où aucune compatibilité stable n’est disponible dans l’espace de distinctions actuel.
+Il constitue le cadre formel dans lequel peuvent être analysés :
 
----
+- les tensions ;
+- les incompatibilités ;
+- les transformations possibles ;
+- les limites de stabilisation.
 
-## 9. Réflexivité
+Le Kernel n’est ni un mécanisme causal, ni un opérateur de transformation.
 
-Le système peut être appliqué à ses propres conditions de description.
-
-Cette réflexivité ne constitue pas un niveau supérieur, mais une extension du même espace d’analyse.
-
----
-
-## 10. Zones d’indétermination
-
-Certaines configurations produisent des limites dans les possibilités de reconfiguration.
-
-Ces limites ne constituent pas des erreurs, mais des points où les critères disponibles ne permettent plus de stabiliser une interprétation.
+Il organise l’espace d’analyse.
 
 ---
 
-## Conclusion
+8. CAP, OVM et DELTA
 
-Protokin est un cadre d’analyse des conditions de validité des descriptions.
+Ces éléments ne constituent pas des modules agissant sur le système.
 
-Il ne décrit pas ce qui est, mais les conditions sous lesquelles quelque chose devient descriptible, justifiable ou indéterminé dans un régime donné.
+Ils désignent des fonctions analytiques distinctes.
+
+CAP — Cycle d’Audit Protokin
+
+CAP qualifie la structure des tensions entre configurations descriptives et régimes mobilisés.
+
+---
+
+OVM — Opérateur de Vigilance Modale
+
+OVM analyse les déplacements entre cadres descriptifs et identifie les transpositions problématiques.
+
+---
+
+DELTA
+
+DELTA désigne une limite locale de stabilisation lorsque les ressources disponibles ne permettent plus de maintenir une compatibilité suffisante entre engagements descriptifs.
+
+---
+
+9. Réflexivité
+
+Protokin peut analyser ses propres conditions de description.
+
+Cette réflexivité ne constitue pas un niveau supérieur.
+
+Elle correspond à l’application du même cadre d’analyse aux conditions qui rendent ce cadre possible.
+
+---
+
+10. Zones limites
+
+Certaines configurations produisent des limites dans les possibilités de stabilisation.
+
+Ces limites ne sont pas des erreurs.
+
+Elles indiquent des situations dans lesquelles les critères disponibles ne suffisent plus à produire une description suffisamment cohérente.
+
+---
+
+Conclusion
+
+Protokin est un cadre d’analyse des conditions de stabilisation des descriptions et des justifications.
+
+Il ne décrit pas directement ce qui est.
+
+Il étudie les conditions sous lesquelles quelque chose peut devenir descriptible, justifiable, comparable ou indéterminé dans un régime donné.
+
+---
+
+Formule synthétique
+
+«Protokin n’est pas une théorie du monde.
+C’est une architecture d’analyse des conditions sous lesquelles des descriptions du monde peuvent être stabilisées.»
