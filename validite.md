@@ -350,4 +350,4 @@ Elle constitue une fonction d’analyse permettant de comprendre comment des des
 
 # Formule synthétique
 
->  **La validité protokinienne est le statut qu’un régime de description accorde à une description lorsqu’elle peut publiquement soutenir ses engagements, maintenir la cohérence de ses inférences et demeurer stabilisable au sein des pratiques concernées.**
+>  **La validité protokinienne est le statut provisoire qu’un régime de description accorde à une description lorsqu’elle peut publiquement soutenir ses engagements, maintenir la cohérence de ses inférences et assurer une stabilisation suffisante au sein des pratiques concernées.**
