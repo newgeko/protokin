@@ -423,4 +423,6 @@ L’objectif de Protokin est donc de maintenir une analyse des conditions de des
 
 # Formule synthétique
 
-> **
+> **Le principal danger pour Protokin est de transformer ses outils d’analyse en objets du monde.**
+>
+> **La cohérence de l’architecture dépend du maintien permanent de leur statut fonctionnel : analyser les conditions de stabilisation sans les réifier.**
