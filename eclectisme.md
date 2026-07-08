@@ -1,354 +1,311 @@
-# Transitions — reconfiguration des conditions de stabilisation descriptive
+# Éclectisme — fusion indisciplinée des régimes descriptifs
 
-> Ce fichier analyse la fonction des transitions dans l’architecture **Protokin**.
->
-> Il répond à une question centrale :
->
-> **Comment une nouvelle stabilisation descriptive devient-elle possible lorsqu’un régime rencontre ses limites ou entre en tension avec d’autres régimes ?**
+«Ce fichier analyse le risque d’éclectisme dans Protokin.
 
----
+Il répond à une question centrale :
 
-# 1. Fonction de la transition dans Protokin
-
-Dans **Protokin**, une transition désigne une transformation des conditions sous lesquelles une description peut être :
-
-- stabilisée ;
-- justifiée ;
-- rendue intelligible ;
-- maintenue dans une pratique donnée.
-
-Elle n’est pas :
-
-- un passage nécessaire vers une description plus vraie ;
-- une hiérarchisation entre régimes ;
-- une synthèse finale des différents cadres ;
-- une suppression des tensions.
-
-La transition constitue une **opération de reconfiguration**.
-
-Elle apparaît lorsque les conditions existantes de stabilisation deviennent insuffisantes pour maintenir certains engagements descriptifs.
+Que se passe-t-il lorsque plusieurs régimes descriptifs sont combinés sans respecter leurs conditions propres de validité et de justification ?»
 
 ---
 
-# 2. Principe général
+1. Fonction de l’analyse de l’éclectisme
 
-Une description fonctionne toujours dans un ensemble de contraintes.
+Dans l’architecture Protokin, l’éclectisme désigne une pathologie de relation entre régimes descriptifs.
 
-Ces contraintes déterminent :
+Il ne correspond pas simplement à l’usage de plusieurs concepts issus de domaines différents.
 
-- ce qui compte comme objet ;
-- ce qui compte comme preuve ;
-- ce qui compte comme justification ;
-- quelles conséquences peuvent être tirées.
+La pluralité des descriptions est une condition normale de l’enquête.
 
-Lorsqu’une configuration nouvelle apparaît, plusieurs situations sont possibles :
+Le problème apparaît lorsque des éléments appartenant à plusieurs régimes sont assemblés sans analyser :
 
-- le régime existant conserve sa stabilité ;
-- le régime absorbe la nouveauté par adaptation locale ;
-- le régime entre en saturation ;
-- une transition devient nécessaire.
+- leurs critères de validité ;
+- leurs conditions d’application ;
+- leurs engagements propres ;
+- les inférences qu’ils autorisent.
 
-La transition intervient lorsque les conditions précédentes ne permettent plus de maintenir une cohérence suffisante.
-
-Voir :
-
-- [regimes.md](regimes.md)
-- [tensions.md](tensions.md)
-- [limites.md](limites.md)
+L’éclectisme constitue ainsi une perte de contrôle des relations entre régimes.
 
 ---
 
-# 3. Transition et tension
+2. Définition fonctionnelle
 
-La transition trouve son origine dans une tension.
+L’éclectisme apparaît lorsqu’une description tente de combiner plusieurs cadres sans reconstruire les conditions qui permettent leur articulation.
 
-Une tension apparaît lorsqu’une configuration met en conflit plusieurs contraintes descriptives ou normatives.
-
-Elle peut être :
-
-- interne à un régime ;
-- entre plusieurs régimes ;
-- liée à une difficulté de traduction ;
-- provoquée par une transformation du domaine étudié.
-
-La tension n’est donc pas un échec de l’analyse.
-
-Elle constitue le point de départ d’une enquête sur les conditions de transformation.
-
-Voir :
-
-- [tensions.md](tensions.md)
-- [analyse.md](analyse.md)
-
----
-
-# 4. Ce que la transition transforme
-
-Une transition ne transforme pas directement le monde.
-
-Elle transforme les **conditions descriptives permettant d’en parler**.
-
-Elle peut modifier :
-
----
-
-## 4.1 Les critères de pertinence
-
-Certains éléments deviennent significatifs alors qu’ils étaient auparavant secondaires.
-
-Une transition peut donc modifier ce qui est considéré comme une information pertinente.
-
----
-
-## 4.2 Les catégories descriptives
-
-De nouvelles distinctions peuvent être introduites afin de rendre une configuration intelligible.
-
-Une transition peut créer de nouveaux espaces conceptuels.
-
----
-
-## 4.3 Les engagements associés aux descriptions
-
-Modifier une description implique souvent de modifier :
-
-- les conséquences acceptées ;
-- les inférences autorisées ;
-- les responsabilités associées.
-
-Voir :
-
-- [engagements.md](engagements.md)
-
----
-
-## 4.4 Les relations entre régimes
-
-Une transition peut modifier la manière dont plusieurs régimes sont articulés.
-
-Elle peut permettre :
-
-- une nouvelle compatibilité ;
-- une traduction partielle ;
-- une séparation plus claire ;
-- l’identification d’une limite.
-
-Voir :
-
-- [traductions.md](traductions.md)
-
----
-
-# 5. Transition et absence de réduction
-
-Une transition protokinienne ne consiste pas à remplacer un régime par un autre.
-
-Elle refuse le modèle réductionniste selon lequel :
-
-> « Un nouveau cadre absorberait définitivement les anciens cadres. »
-
-Une description biologique ne supprime pas nécessairement une description psychologique.
-
-Une description physique ne remplace pas nécessairement une description institutionnelle.
-
-Chaque régime conserve une fonction propre tant que ses conditions de validité restent pertinentes.
-
-La transition transforme les relations entre descriptions plutôt qu’elle n’élimine leur pluralité.
-
-Voir :
-
-- [reductions.md](reductions.md)
-
----
-
-# 6. Transition et absence d’éclectisme
-
-La transition ne consiste pas non plus à fusionner librement plusieurs régimes.
-
-Une nouvelle stabilisation exige une analyse des conditions de passage.
-
-Elle nécessite de déterminer :
-
-- quels éléments peuvent être transférés ;
-- quels éléments doivent être transformés ;
-- quels engagements restent compatibles ;
-- quelles différences doivent être maintenues.
-
-La transition est donc une **opération contrôlée**.
-
-Elle se distingue d’un mélange conceptuel non justifié.
-
-Voir :
-
-- [eclectisme.md](eclectisme.md)
-- [traductions.md](traductions.md)
-
----
-
-# 7. Les formes de transition
-
-## 7.1 Transition interne
-
-Une transition interne apparaît lorsqu’un régime transforme ses propres critères.
-
-Elle peut impliquer :
-
-- une modification conceptuelle ;
-- une nouvelle organisation des preuves ;
-- une révision des engagements internes.
-
-Le régime conserve une continuité tout en modifiant ses conditions de fonctionnement.
-
----
-
-## 7.2 Transition inter-régimes
-
-Une transition inter-régimes concerne les relations entre plusieurs cadres descriptifs.
-
-Elle apparaît lorsqu’une configuration nécessite une nouvelle articulation entre régimes.
-
-Elle peut conduire à :
-
-- une coopération entre descriptions ;
-- une traduction partielle ;
-- une limitation explicite ;
-- une nouvelle distribution des fonctions descriptives.
-
----
-
-## 7.3 Transition par émergence d’un nouveau régime
-
-Dans certains cas, les cadres existants ne permettent plus une stabilisation suffisante.
-
-Une nouvelle organisation descriptive peut alors apparaître.
-
-Cette émergence ne signifie pas que l’ancien régime était faux.
-
-Elle signifie que ses conditions d’application ne suffisent plus pour la nouvelle configuration.
-
----
-
-# 8. Transition et traduction
-
-Toute transition entre régimes implique une question de traduction.
-
-Il faut déterminer :
-
-- ce qui peut être conservé ;
-- ce qui doit être reformulé ;
-- ce qui devient incompatible.
-
-La traduction constitue donc une opération intermédiaire entre :
-
-- maintien du régime initial ;
-- transformation complète ;
-- rupture.
-
-Voir :
-
-- [traductions.md](traductions.md)
-
----
-
-# 9. Transition et validité
-
-Une transition modifie nécessairement les critères de validité.
-
-Cependant, elle ne signifie pas que :
-
-> « Tout changement de cadre rend toute description acceptable. »
-
-Une nouvelle stabilisation doit encore satisfaire des contraintes :
-
-- cohérence interne ;
-- capacité explicative ;
-- compatibilité avec les engagements assumés ;
-- pertinence dans une pratique donnée.
-
-La transition reste donc une opération normative.
-
-Voir :
-
-- [validite.md](validite.md)
-
----
-
-# 10. Transition comme opération d’enquête
-
-Dans **Protokin**, la transition n’est pas un événement automatique.
-
-Elle résulte d’une enquête.
-
-Cette enquête consiste à examiner :
-
-1. Une configuration problématique.
-2. Les régimes mobilisés.
-3. Les engagements associés.
-4. Les tensions rencontrées.
-5. Les possibilités de transformation.
-6. Les nouvelles conditions de stabilisation.
-
-La transition constitue donc l’aboutissement possible d’un processus d’audit.
-
-Voir :
-
-- [audit.md](audit.md)
-
----
-
-# 11. Limites de la transition
-
-Toutes les tensions ne conduisent pas nécessairement à une transition réussie.
-
-Certaines situations produisent une limite durable.
+Il produit une apparence d’unification en supprimant les différences fonctionnelles entre régimes.
 
 Dans ce cas :
 
-- aucune traduction suffisante n’est disponible ;
-- aucune nouvelle stabilisation n’est actuellement possible ;
-- le problème demeure ouvert.
+- les concepts sont déplacés hors de leur cadre de validité ;
+- les analogies remplacent les justifications ;
+- les similitudes superficielles masquent les incompatibilités structurelles.
 
-Cette situation est enregistrée comme une limite de stabilisation.
+L’éclectisme ne crée donc pas une nouvelle stabilisation.
+
+Il produit une juxtaposition de fragments descriptifs dont les relations restent indéterminées.
+
+---
+
+3. Différence entre pluralité et éclectisme
+
+Protokin ne défend pas une séparation stricte entre régimes.
+
+Plusieurs régimes peuvent être mobilisés dans une même analyse.
+
+Une configuration complexe peut nécessiter :
+
+- une description physique ;
+- une description biologique ;
+- une description technique ;
+- une description institutionnelle ;
+- une description normative.
+
+Cette pluralité devient problématique uniquement lorsque les passages entre régimes ne sont pas explicités.
+
+La question n’est donc pas :
+
+«Combien de régimes sont mobilisés ?»
+
+Mais :
+
+«Les relations entre ces régimes sont-elles justifiées ?»
+
+---
+
+4. Les formes principales d’éclectisme
+
+4.1 L’analogie abusive
+
+Une première forme d’éclectisme consiste à transférer un concept d’un régime vers un autre uniquement sur la base d’une ressemblance apparente.
+
+Une analogie peut être heuristique lorsqu’elle ouvre une recherche.
+
+Elle devient problématique lorsqu’elle produit directement des conclusions sans justification intermédiaire.
+
+Exemples de dérives :
+
+- appliquer un modèle physique comme explication directe d’un phénomène social ;
+- utiliser un concept biologique comme justification normative ;
+- importer une structure mathématique comme modèle complet d’une organisation humaine.
+
+L’analogie cesse alors d’être un outil exploratoire et devient une substitution de raisonnement.
+
+---
+
+4.2 Le transfert non justifié
+
+Un transfert entre régimes nécessite une analyse des conditions de passage.
+
+Sans cette analyse, un concept change de statut sans que ses nouvelles conditions d’usage soient précisées.
+
+Un terme peut conserver son apparence tout en changeant de fonction.
+
+Le risque est alors une confusion entre :
+
+- ressemblance lexicale ;
+- continuité conceptuelle ;
+- identité de fonction.
+
+Protokin considère qu’un déplacement conceptuel doit toujours être analysé comme une opération de traduction potentielle.
 
 Voir :
 
-- [limites.md](limites.md)
+- "transitions.md" (transitions.md)
+- "traductions.md" (traductions.md)
 
 ---
 
-# 12. Principe central
+4.3 La confusion des critères de validité
 
-> **Une transition n’est pas le passage d’une description fausse vers une description vraie.**
->
-> **Elle est la transformation des conditions permettant à une description de devenir intelligible, justifiable et stabilisable.**
+Chaque régime possède des critères propres permettant d’évaluer :
 
----
+- ce qui constitue une preuve ;
+- ce qui constitue une justification ;
+- ce qui constitue une erreur ;
+- ce qui constitue une révision acceptable.
 
-# Conclusion
+L’éclectisme apparaît lorsque ces critères sont mélangés.
 
-Dans **Protokin**, la transition désigne une modification locale et contrôlée des conditions de description.
+Par exemple :
 
-Elle apparaît lorsque les régimes existants rencontrent :
+- une régularité empirique est transformée en norme ;
+- une valeur sociale est traitée comme un fait naturel ;
+- une cohérence formelle est utilisée comme preuve d’existence.
 
-- des tensions ;
-- des saturations ;
-- des incompatibilités ;
-- des limites de traduction.
+Cette confusion détruit la capacité à distinguer différents types de justification.
 
-Elle ne vise ni l’unification totale des descriptions ni leur séparation absolue.
+Voir :
 
-Elle cherche à rendre possible une nouvelle organisation :
-
-- des engagements ;
-- des critères ;
-- des relations entre régimes.
-
-La transition est donc une fonction centrale de transformation dans une architecture qui analyse non pas le monde lui-même, mais les conditions sous lesquelles différentes descriptions du monde peuvent devenir opératoires.
+- "regimes.md" (regimes.md)
+- "validite.md" (validite.md)
 
 ---
 
-# Formule synthétique
+5. Éclectisme et perte de cohérence inférentielle
 
-> **Une transition protokinienne n’est pas un déplacement vers un régime supérieur.**
->
-> **C’est une reconfiguration des conditions de stabilisation permettant à de nouvelles relations descriptives et justificatives de devenir possibles.**
+Un régime descriptif n’est pas un ensemble libre de notions.
+
+Il organise un réseau d’engagements et d’inférences.
+
+Utiliser un concept implique d’accepter certaines conséquences et d’en refuser d’autres.
+
+L’éclectisme fragilise cette structure en associant des éléments dont les conséquences ne sont pas compatibles.
+
+La question protokinienne devient alors :
+
+«Quelles inférences restent autorisées après le déplacement d’un concept hors de son régime initial ?»
+
+Si cette question ne reçoit pas de réponse, la relation entre régimes devient indéterminée.
+
+Voir :
+
+- "engagements.md" (engagements.md)
+- "causes_raisons.md" (causes_raisons.md)
+
+---
+
+6. Éclectisme et métaphore
+
+La métaphore constitue un cas particulier.
+
+Une métaphore peut jouer un rôle légitime de transition entre régimes lorsqu’elle :
+
+- ouvre une nouvelle description ;
+- conserve certaines relations pertinentes ;
+- permet une exploration contrôlée.
+
+Elle devient éclectique lorsqu’elle est utilisée pour masquer l’absence de justification.
+
+Le problème n’est donc pas la métaphore elle-même.
+
+Le problème est l’absence d’audit des transformations qu’elle introduit.
+
+Voir :
+
+- "traductions.md" (traductions.md)
+- "reductions.md" (reductions.md)
+
+---
+
+7. Diagnostic protokinien de l’éclectisme
+
+L’analyse de l’éclectisme s’effectue par plusieurs questions :
+
+7.1 Quels régimes sont mobilisés ?
+
+Identifier les cadres descriptifs présents.
+
+---
+
+7.2 Quels concepts sont transférés ?
+
+Repérer les déplacements de vocabulaire.
+
+---
+
+7.3 Les critères de validité sont-ils conservés ?
+
+Vérifier si le concept conserve son statut fonctionnel.
+
+---
+
+7.4 Quelles inférences sont introduites ?
+
+Analyser les conséquences tirées du transfert.
+
+---
+
+7.5 Une traduction est-elle possible ?
+
+Déterminer si une relation explicite entre régimes peut être reconstruite.
+
+Voir :
+
+- "audit.md" (audit.md)
+- "analyse.md" (analyse.md)
+
+---
+
+8. Relation avec la réduction
+
+Réduction et éclectisme constituent deux dérives opposées.
+
+La réduction affirme :
+
+«Un seul régime suffit à expliquer les autres.»
+
+L’éclectisme affirme implicitement :
+
+«Tous les régimes peuvent être combinés sans transformation nécessaire.»
+
+Protokin refuse ces deux positions.
+
+Il cherche à analyser :
+
+- les différences entre régimes ;
+- les conditions de passage ;
+- les limites de traduction ;
+- les possibilités de transformation.
+
+Voir :
+
+- "reductions.md" (reductions.md)
+- "tensions.md" (tensions.md)
+
+---
+
+9. Régulation par Protokin
+
+L’éclectisme est évité par plusieurs principes méthodologiques.
+
+9.1 Maintenir l’autonomie relative des régimes
+
+Chaque régime conserve ses propres critères.
+
+---
+
+9.2 Expliciter les passages
+
+Tout déplacement doit être analysé comme une transformation.
+
+---
+
+9.3 Identifier les limites
+
+Lorsque deux régimes ne peuvent être articulés sans perte majeure, cette limite doit être enregistrée.
+
+Voir :
+
+- "limites.md" (limites.md)
+
+---
+
+10. Principe central
+
+«La pluralité des régimes n’est pas un problème.
+
+Le problème apparaît lorsque les relations entre régimes sont affirmées sans analyse des conditions qui les rendent possibles.»
+
+---
+
+Conclusion
+
+Dans Protokin, l’éclectisme n’est pas défini comme une simple diversité théorique.
+
+Il désigne une absence de contrôle des opérations de passage entre cadres descriptifs.
+
+Il transforme :
+
+- la traduction en confusion ;
+- l’analogie en preuve ;
+- la complémentarité en fusion ;
+- la pluralité en incohérence.
+
+L’objectif de Protokin n’est donc ni d’unifier artificiellement les régimes ni de les isoler.
+
+Il consiste à analyser les conditions sous lesquelles ils peuvent être comparés, articulés, transformés ou maintenus séparés.
+
+---
+
+Formule synthétique
+
+«Un régime peut entrer en relation avec un autre régime, mais cette relation doit toujours être analysée comme une opération de traduction, de transformation ou de limite — jamais comme une fusion immédiate.»
