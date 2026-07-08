@@ -1,194 +1,407 @@
-Transitions de cadre dans Protokin
+# Transitions — reconfiguration des conditions de stabilisation descriptive
 
-Statut des transitions de cadre
-
-Dans Protokin, une transition de cadre descriptif ne constitue ni une amélioration d’un système, ni une correction du réel, ni un passage vers un régime supérieur.
-
-Elle désigne une reconfiguration locale des conditions de stabilisation descriptive et normative lorsqu’une configuration donnée ne peut plus maintenir la cohérence de ses engagements, de ses distinctions pertinentes et de ses critères de justification au sein d’un même régime.
-
-Une transition ne modifie pas le monde décrit.
-
-Elle modifie les conditions sous lesquelles certaines descriptions peuvent être stabilisées, évaluées et articulées.
+> Ce fichier analyse la fonction des **transitions** dans l’architecture **Protokin**.
+>
+> Il répond à une question centrale :
+>
+> **Comment une nouvelle stabilisation descriptive devient-elle possible lorsqu’un régime rencontre ses limites ou entre en tension avec d’autres régimes ?**
 
 ---
 
-1. Saturation et mise en tension (CAP)
+# 1. Fonction générale de la transition dans Protokin
 
-Une transition devient analysable lorsqu’une configuration entre dans une phase de saturation.
+Dans **Protokin**, une transition désigne une transformation des conditions sous lesquelles une description peut être :
 
-La saturation apparaît lorsque les contraintes propres à un régime mobilisé ne permettent plus de maintenir simultanément les engagements descriptifs qui organisent cette configuration.
+- rendue intelligible ;
+- stabilisée ;
+- justifiée ;
+- maintenue dans une pratique donnée.
 
-Elle peut se manifester par :
+La transition n’est pas une transformation du monde lui-même.
 
-- une fragilisation des invariants descriptifs ;
-- une multiplication des exceptions internes ;
-- une perte de cohérence entre plusieurs critères de validité ;
-- une incompatibilité croissante entre distinctions pourtant nécessaires ;
-- une diminution de la capacité du régime à organiser une description stable.
+Elle concerne les conditions descriptives et normatives permettant à une configuration d’être analysée et stabilisée.
 
-La saturation ne signifie pas qu’un régime devient faux.
-
-Elle indique qu’un cadre de stabilisation donné rencontre des limites dans une configuration particulière.
+Une transition apparaît lorsque les conditions existantes ne permettent plus de maintenir certains engagements descriptifs sans modification.
 
 ---
 
-Analyse CAP
+## Ce que la transition n’est pas
 
-Le Cycle d’Audit Protokin (CAP) rend visibles ces situations sous forme de :
+Une transition protokinienne n’est pas :
 
-- tensions entre invariants descriptifs ;
-- conflits entre différentes échelles d’analyse ;
-- incompatibilités entre critères de justification ;
-- désalignements entre régimes mobilisés.
+- un passage nécessaire vers une description plus vraie ;
+- une hiérarchisation entre régimes ;
+- une synthèse finale de toutes les descriptions ;
+- une suppression définitive des tensions ;
+- une évolution vers un régime supérieur.
 
-CAP ne produit pas une solution.
+Elle constitue une **reconfiguration locale des conditions d’intelligibilité**.
 
-Il identifie la structure de la tension qui rend une reconfiguration possible ou nécessaire.
+Voir :
 
----
-
-2. Qualification des conditions de transition (OVM)
-
-L’Opérateur de Vigilance Modale (OVM) intervient pour analyser les conditions de cohérence d’une éventuelle reconfiguration.
-
-Il ne valide ni ne rejette une transition.
-
-Il examine :
-
-«les conditions sous lesquelles une modification de cadre reste intelligible sans produire de confusion entre régimes de validité distincts.»
-
-Cette analyse vise notamment à identifier :
-
-- les réductions illégitimes d’un régime à un autre ;
-- les confusions entre explications causales et justifications normatives ;
-- les fusions non médiatisées entre cadres descriptifs ;
-- les déplacements modaux non contrôlés.
-
-OVM protège ainsi la transition contre les transformations qui supprimeraient les distinctions nécessaires à l’analyse.
+- [architecture.md](architecture.md)
+- [regimes.md](regimes.md)
 
 ---
 
-3. Formes de reconfiguration
+# 2. Principe général
 
-Les transitions peuvent prendre plusieurs formes.
+Toute description fonctionne dans un ensemble de contraintes.
 
-Ces formes ne constituent ni une hiérarchie ni une séquence obligatoire.
+Ces contraintes déterminent :
 
-Elles désignent différentes modalités de transformation des conditions de stabilisation.
+- ce qui compte comme objet ;
+- ce qui compte comme donnée pertinente ;
+- ce qui compte comme preuve ;
+- ce qui compte comme justification ;
+- quelles conséquences peuvent être tirées.
 
----
+Une configuration descriptive peut rester stable tant que ses contraintes permettent de maintenir une cohérence suffisante.
 
-Réinterprétation (continuité)
+Cependant, lorsqu’une situation nouvelle apparaît, plusieurs possibilités existent :
 
-Les invariants descriptifs principaux sont conservés.
+- le régime conserve sa stabilité ;
+- le régime adapte localement ses critères ;
+- le régime rencontre une saturation ;
+- une transformation devient nécessaire.
 
-Cependant, leur organisation interne, leur articulation ou leur portée sont reconfigurées.
+La transition intervient lorsque les conditions précédentes ne suffisent plus à maintenir les engagements existants.
 
-La transition modifie la manière dont un ensemble d’engagements est compris sans changer fondamentalement de régime de description.
+Voir :
 
----
-
-Recomposition de régime
-
-Les invariants mobilisés ne suffisent plus à stabiliser la configuration analysée.
-
-Une nouvelle organisation des contraintes descriptives et normatives devient alors nécessaire.
-
-Il ne s’agit pas de remplacer un régime inférieur par un régime supérieur, mais de modifier le cadre dans lequel certaines distinctions deviennent pertinentes.
-
----
-
-Discontinuité (rupture)
-
-Aucune continuité descriptive suffisante ne permet de traduire un cadre dans un autre au niveau des invariants pertinents.
-
-La transition implique alors une modification profonde des conditions de description et d’évaluation.
-
-La rupture ne signifie pas l’abandon d’une description comme erreur absolue, mais l’apparition d’un nouveau régime de pertinence.
+- [regimes.md](regimes.md)
+- [tensions.md](tensions.md)
+- [limites.md](limites.md)
 
 ---
 
-4. Exemple : saturation d’un régime descriptif métrique dans une équipe
+# 3. Transition et tension
 
-Une équipe est initialement décrite principalement à travers un régime métrique :
+La transition trouve son origine dans une tension.
 
-- productivité ;
-- vélocité ;
-- nombre de tâches réalisées ;
-- volume de livraisons.
+Une tension apparaît lorsqu’une configuration met en conflit plusieurs contraintes descriptives ou normatives.
 
----
+Elle peut être :
 
-Saturation
+## 3.1 Une tension interne
 
-Les indicateurs restent cohérents selon leurs propres critères, mais certains phénomènes deviennent difficilement intégrables :
+Un régime rencontre ses propres limites.
 
-- fatigue ;
-- désengagement ;
-- perte de coopération ;
-- fragilisation organisationnelle.
+Exemples :
 
-Le problème n’est pas que les mesures sont fausses.
-
-Le problème est que les invariants retenus ne suffisent plus à stabiliser l’ensemble des dimensions pertinentes de la configuration.
+- certains phénomènes deviennent difficiles à intégrer ;
+- des catégories deviennent insuffisantes ;
+- des critères perdent leur pouvoir discriminant.
 
 ---
 
-CAP
+## 3.2 Une tension inter-régimes
 
-L’audit fait apparaître plusieurs tensions :
+Deux ou plusieurs régimes produisent des engagements difficiles à maintenir simultanément.
 
-- opposition entre performance immédiate et soutenabilité ;
-- changement d’échelle organisationnelle non pris en compte ;
-- insuffisance des invariants purement métriques.
+Exemples :
 
----
-
-OVM
-
-L’analyse identifie le risque d’une réduction illégitime :
-
-- réduire l’organisation à des indicateurs quantitatifs ;
-- traiter des phénomènes relationnels comme de simples variations métriques ;
-- confondre mesure descriptive et justification normative.
+- conflit entre une explication causale et une justification normative ;
+- divergence entre une description scientifique et une description institutionnelle ;
+- incompatibilité entre plusieurs critères de validité.
 
 ---
 
-Transition
+## 3.3 Une tension de traduction
 
-La reconfiguration consiste alors à intégrer d’autres contraintes descriptives :
+Deux régimes peuvent porter sur une même configuration sans disposer d’un langage commun suffisant pour articuler leurs engagements.
 
-- organisationnelles ;
-- relationnelles ;
-- temporelles ;
-- normatives.
+Voir :
 
-Le régime initial n’est pas supprimé.
-
-Il devient un élément partiel d’une configuration descriptive plus large.
+- [tensions.md](tensions.md)
+- [traductions.md](traductions.md)
 
 ---
 
-5. Principe de non-progression
+# 4. Ce que transforme une transition
 
-Une transition de cadre ne constitue pas nécessairement un progrès.
+Une transition ne transforme pas directement le contenu du monde.
 
-Elle ne correspond pas au passage d’un régime inférieur vers un régime supérieur.
+Elle transforme les conditions permettant d’en produire une description stabilisée.
 
-Elle désigne une modification des conditions sous lesquelles certaines descriptions deviennent stables, pertinentes et justifiables.
-
-Une transition peut augmenter la capacité descriptive d’une configuration tout en introduisant de nouvelles contraintes et de nouvelles limites.
-
-Elle constitue donc une reconfiguration de l’espace descriptif, et non une évolution linéaire de la connaissance.
+Elle peut concerner plusieurs dimensions.
 
 ---
 
-Conclusion
+## 4.1 Transformation des critères de pertinence
 
-Les transitions de cadre dans Protokin correspondent à des reconfigurations locales des conditions de stabilisation descriptive et normative.
+Une transition peut modifier ce qui est considéré comme important.
 
-Elles apparaissent lorsque les contraintes d’un régime donné ne permettent plus de maintenir une configuration intelligible sans tensions internes majeures.
+Certains éléments auparavant secondaires peuvent devenir centraux.
 
-Elles ne corrigent pas le réel et ne remplacent pas nécessairement un cadre par un meilleur.
+La transition transforme alors :
 
-Elles modifient les conditions sous lesquelles un domaine peut être décrit, évalué et rendu intelligible.
+- ce qui est observé ;
+- ce qui est retenu ;
+- ce qui est considéré comme significatif.
+
+---
+
+## 4.2 Transformation des catégories descriptives
+
+Une transition peut introduire de nouvelles distinctions.
+
+Elle permet :
+
+- de créer de nouveaux espaces conceptuels ;
+- de différencier des phénomènes auparavant confondus ;
+- de rendre une configuration auparavant instable à nouveau intelligible.
+
+---
+
+## 4.3 Transformation des engagements
+
+Modifier une description implique souvent de modifier les engagements associés.
+
+Une transition peut transformer :
+
+- les conséquences acceptées ;
+- les inférences autorisées ;
+- les responsabilités discursives ;
+- les critères de révision.
+
+Voir :
+
+- [engagements.md](engagements.md)
+
+---
+
+## 4.4 Transformation des relations entre régimes
+
+Une transition peut modifier la manière dont plusieurs régimes sont articulés.
+
+Elle peut produire :
+
+- une nouvelle compatibilité ;
+- une séparation plus claire ;
+- une traduction partielle ;
+- une reconnaissance explicite d’une limite.
+
+Voir :
+
+- [traductions.md](traductions.md)
+
+---
+
+# 5. Transition et absence de réduction
+
+Une transition protokinienne ne consiste pas à remplacer un régime par un autre.
+
+Elle refuse l’idée selon laquelle un nouveau cadre absorberait définitivement les anciens.
+
+Une description biologique ne supprime pas nécessairement une description psychologique.
+
+Une description physique ne remplace pas nécessairement une description institutionnelle.
+
+Chaque régime conserve une fonction propre lorsque ses critères restent pertinents.
+
+La transition transforme les relations entre descriptions.
+
+Elle ne cherche pas à éliminer leur pluralité.
+
+Voir :
+
+- [reductions.md](reductions.md)
+
+---
+
+# 6. Transition et absence d’éclectisme
+
+La transition ne consiste pas non plus à mélanger librement plusieurs régimes.
+
+Une nouvelle stabilisation exige une analyse des conditions de passage.
+
+Il faut déterminer :
+
+- quels éléments peuvent être conservés ;
+- quels éléments doivent être reformulés ;
+- quels engagements sont compatibles ;
+- quelles différences doivent être maintenues.
+
+Une transition est donc une opération contrôlée.
+
+Elle s’oppose à un assemblage conceptuel non justifié.
+
+Voir :
+
+- [eclectisme.md](eclectisme.md)
+- [traductions.md](traductions.md)
+
+---
+
+# 7. Les formes de transition
+
+## 7.1 Transition interne
+
+Une transition interne apparaît lorsqu’un régime transforme ses propres conditions de fonctionnement.
+
+Elle peut impliquer :
+
+- une modification conceptuelle ;
+- une révision des critères ;
+- une nouvelle organisation des preuves ;
+- une transformation des engagements internes.
+
+Le régime conserve une continuité tout en modifiant sa structure fonctionnelle.
+
+---
+
+## 7.2 Transition inter-régimes
+
+Une transition inter-régimes concerne les relations entre plusieurs cadres descriptifs.
+
+Elle apparaît lorsqu’une configuration nécessite une nouvelle organisation des relations entre régimes.
+
+Elle peut conduire à :
+
+- une coopération entre descriptions ;
+- une traduction partielle ;
+- une division plus précise des fonctions descriptives ;
+- une reconnaissance des limites respectives.
+
+---
+
+## 7.3 Transition par émergence d’un nouveau régime
+
+Dans certains cas, les régimes existants ne permettent plus une stabilisation suffisante.
+
+Une nouvelle organisation descriptive peut alors apparaître.
+
+Cette émergence ne signifie pas que l’ancien régime était faux.
+
+Elle signifie que ses conditions d’application ne permettent plus de répondre aux nouvelles contraintes.
+
+---
+
+# 8. Transition et traduction
+
+Toute transition entre régimes implique une question de traduction.
+
+Il faut examiner :
+
+- ce qui peut être transféré ;
+- ce qui doit être transformé ;
+- ce qui devient incompatible.
+
+La traduction constitue une opération intermédiaire entre :
+
+- maintien du régime initial ;
+- transformation locale ;
+- rupture.
+
+Voir :
+
+- [traductions.md](traductions.md)
+
+---
+
+# 9. Transition et validité
+
+Une transition modifie les critères de validité.
+
+Cependant, elle ne signifie pas que tout changement de cadre rend toute description acceptable.
+
+Une nouvelle stabilisation doit conserver certaines contraintes :
+
+- cohérence interne ;
+- capacité explicative ;
+- compatibilité avec les engagements assumés ;
+- pertinence dans une pratique donnée.
+
+La transition reste donc une opération normative.
+
+Voir :
+
+- [validite.md](validite.md)
+
+---
+
+# 10. La transition comme opération d’enquête
+
+Dans **Protokin**, une transition n’est pas un événement automatique.
+
+Elle résulte d’une enquête.
+
+Cette enquête examine :
+
+1. Une configuration problématique.
+2. Les descriptions mobilisées.
+3. Les régimes concernés.
+4. Les engagements associés.
+5. Les tensions rencontrées.
+6. Les possibilités de transformation.
+7. Les nouvelles conditions de stabilisation.
+
+La transition constitue donc une possibilité issue d’un processus d’audit.
+
+Voir :
+
+- [analyse.md](analyse.md)
+- [audit.md](audit.md)
+
+---
+
+# 11. Limites de la transition
+
+Toutes les tensions ne conduisent pas nécessairement à une nouvelle stabilisation.
+
+Certaines situations peuvent maintenir une limite durable.
+
+Dans ce cas :
+
+- aucune traduction suffisante n’est disponible ;
+- aucune reconfiguration satisfaisante n’est possible ;
+- le problème demeure ouvert.
+
+Cette situation correspond à une limite de stabilisation.
+
+Voir :
+
+- [limites.md](limites.md)
+
+---
+
+# 12. Principe central
+
+> **Une transition protokinienne n’est pas le passage d’une description fausse vers une description vraie.**
+>
+> **Elle est la transformation des conditions permettant à une description de devenir intelligible, justifiable et stabilisable.**
+
+---
+
+# Conclusion
+
+Dans **Protokin**, la transition désigne une modification locale et contrôlée des conditions de description.
+
+Elle apparaît lorsque les régimes rencontrent :
+
+- des tensions ;
+- des saturations ;
+- des incompatibilités ;
+- des limites de traduction.
+
+Elle ne vise :
+
+- ni l’unification totale des descriptions ;
+- ni leur séparation absolue.
+
+Elle cherche à rendre possible une nouvelle organisation :
+
+- des engagements ;
+- des critères ;
+- des relations entre régimes.
+
+La transition constitue donc une fonction centrale de transformation dans une architecture qui analyse non pas le monde lui-même, mais les conditions sous lesquelles différentes descriptions du monde peuvent devenir opératoires.
+
+---
+
+# Formule synthétique
+
+> **Une transition protokinienne n’est pas un déplacement vers un régime supérieur.**
+>
+> **C’est une reconfiguration des conditions de stabilisation permettant à de nouvelles relations descriptives et justificatives de devenir possibles.**
