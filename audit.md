@@ -1,150 +1,434 @@
-Audit — Analyse des tensions et des transformations des descriptions
+# Audit — conditions de stabilisation descriptive dans Protokin
 
-1. Principe général
-
-L’audit désigne une méthode d’analyse permettant d’examiner comment différentes descriptions d’une même situation peuvent être construites, maintenues ou transformées.
-
-Il ne consiste pas à rechercher immédiatement quelle description est vraie ou supérieure.
-
-Il vise à expliciter :
-
-- les critères utilisés pour décrire une situation ;
-- les présupposés engagés par une description ;
-- les relations entre plusieurs manières de comprendre un même phénomène ;
-- les difficultés pouvant apparaître lorsque ces descriptions ne sont pas directement compatibles.
+> L’audit constitue l’opération méthodologique centrale de Protokin.
+>
+> Il vise à expliciter les conditions sous lesquelles une description devient stabilisable, justifiable, comparable ou problématique au sein d’une pratique donnée.
+>
+> L’audit ne mesure pas l’écart entre une description et une réalité indépendante.
+>
+> Il examine l’organisation interne d’une description : ses engagements, ses critères, ses inférences et ses limites.
 
 ---
 
-2. Objet de l’audit
+# 1. Fonction générale de l’audit
 
-Toute description repose sur un ensemble de choix implicites :
+Dans Protokin, l’audit désigne une opération d’enquête appliquée à une configuration descriptive.
 
-- certaines distinctions sont considérées comme pertinentes ;
-- certains éléments sont retenus comme importants ;
-- certaines inférences sont jugées acceptables ;
-- certaines formes d’explication sont privilégiées.
+Son objectif est de rendre explicites :
 
-L’audit consiste à rendre visibles ces conditions.
+- les descriptions mobilisées ;
+- les régimes auxquels elles appartiennent ;
+- les engagements qu’elles introduisent ;
+- les critères selon lesquels elles peuvent être évaluées ;
+- les tensions qu’elles rencontrent ;
+- les possibilités de transformation.
 
-Il ne porte donc pas seulement sur le contenu d’une description, mais sur la manière dont cette description acquiert sa cohérence.
+L’audit répond donc à la question :
 
----
-
-3. Analyse d’une description stabilisée
-
-Une première étape consiste à identifier les conditions qui rendent une description intelligible dans son propre cadre.
-
-Cela implique d’examiner :
-
-- les concepts mobilisés ;
-- les relations établies entre eux ;
-- les critères de justification utilisés ;
-- les conséquences acceptées ou refusées.
-
-Une description peut ainsi être cohérente dans un contexte donné sans être applicable à tous les contextes possibles.
+> Sous quelles conditions cette description peut-elle fonctionner comme description recevable dans une pratique donnée ?
 
 ---
 
-4. Analyse de la pluralité des descriptions
+# 2. Statut de l’audit
 
-Une même situation peut être décrite de plusieurs manières.
+## 2.1 L’audit n’est pas une évaluation externe
 
-Ces descriptions peuvent correspondre à :
+L’audit Protokin ne consiste pas à appliquer un critère universel extérieur aux descriptions.
 
-- des objectifs différents ;
-- des niveaux d’analyse différents ;
-- des critères de pertinence différents.
+Il ne cherche pas à déterminer :
 
-L’audit ne cherche pas nécessairement à réduire cette pluralité.
+- quelle description est absolument vraie ;
+- quel régime est supérieur aux autres ;
+- quelle perspective doit être éliminée.
 
-Il cherche à comprendre :
+Il cherche à comprendre les conditions internes de fonctionnement d’un régime descriptif.
 
-- ce qui rend chaque description possible ;
-- ce qui les rapproche ;
-- ce qui les distingue ;
-- dans quelles conditions elles peuvent être comparées.
+Voir :
 
----
-
-5. Analyse des tensions
-
-Des tensions apparaissent lorsque plusieurs descriptions mobilisent des critères qui ne peuvent pas être maintenus ensemble sans modification.
-
-Ces tensions peuvent concerner :
-
-- les concepts utilisés ;
-- les critères de justification ;
-- les relations entre explications ;
-- les attentes associées à une description.
-
-Une tension ne signifie pas nécessairement qu’une description est fausse.
-
-Elle indique qu’il existe une difficulté dans l’articulation de plusieurs manières de décrire.
+- [`architecture.md`](architecture.md)
+- [`regimes.md`](regimes.md)
 
 ---
 
-6. Analyse des limites
+## 2.2 L’audit comme explicitation
 
-Une description peut rencontrer des limites lorsqu’elle ne permet plus de rendre compte de certains aspects d’une situation sans modifier ses propres critères.
+Toute description stabilisée repose sur des conditions souvent implicites.
 
-Ces limites peuvent apparaître lorsque :
+L’audit rend visibles :
 
-- les exceptions deviennent nombreuses ;
-- les concepts utilisés perdent leur pouvoir explicatif ;
-- les critères employés deviennent difficiles à maintenir ensemble.
+- les catégories utilisées ;
+- les distinctions fondamentales ;
+- les engagements acceptés ;
+- les conséquences inférentielles ;
+- les critères de justification.
 
-L’audit permet alors d’identifier ce qui pose problème dans l’organisation d’une description.
-
----
-
-7. Analyse des transformations possibles
-
-Lorsque les conditions d’une description deviennent insuffisantes, plusieurs transformations peuvent être envisagées :
-
-- préciser certains concepts ;
-- modifier certains critères ;
-- adopter un autre cadre d’analyse ;
-- articuler plusieurs descriptions auparavant séparées.
-
-Ces transformations ne correspondent pas nécessairement à une correction d’une erreur.
-
-Elles peuvent correspondre à une nouvelle manière d’organiser la compréhension d’un domaine.
+Il transforme ainsi une pratique descriptive en objet d’analyse.
 
 ---
 
-8. Statut de l’audit
+# 3. Objet de l’audit : la configuration descriptive
 
-L’audit :
+L’audit porte sur une configuration descriptive.
 
-- ne décide pas quelle description doit être adoptée ;
-- ne produit pas une explication unique ;
-- ne remplace pas les pratiques scientifiques ou théoriques étudiées ;
-- ne constitue pas un point de vue extérieur au domaine analysé.
+Une configuration correspond à une situation dans laquelle plusieurs éléments peuvent être analysés :
 
-Il rend explicites les conditions qui permettent à différentes descriptions d’être formulées, comparées ou révisées.
+- un corpus théorique ;
+- un modèle scientifique ;
+- une institution ;
+- une pratique sociale ;
+- un système technique ;
+- une controverse conceptuelle.
 
----
+Voir :
 
-9. Relation avec l’architecture Protokin
-
-Dans Protokin :
-
-- les régimes désignent les différents cadres de description ;
-- l’audit examine leurs conditions de cohérence et leurs relations ;
-- l’analyse des transitions porte sur les changements possibles de cadre ;
-- la réflexivité applique cette même démarche aux outils d’analyse eux-mêmes.
+- [`content_layer.md`](content_layer.md)
+- [`architecture.md`](architecture.md)
 
 ---
 
-Conclusion
+# 4. Structure générale de l’audit
 
-L’audit est une méthode d’examen des conditions de stabilité des descriptions.
+L’audit suit une séquence méthodologique.
 
-Il ne cherche pas à établir une vision unique du réel.
+```
+Configuration descriptive
 
-Il cherche à comprendre comment différentes manières de décrire deviennent possibles, comment elles entrent en tension et comment elles peuvent être transformées.
+↓
 
-Formule finale
+1. Identification de la description
 
-«Auditer une description, ce n’est pas demander seulement si elle est vraie.
-C’est examiner les conditions qui permettent de la construire, de la justifier et de la transformer.»
+↓
+
+2. Identification des régimes mobilisés
+
+↓
+
+3. Analyse des engagements
+
+↓
+
+4. Analyse des critères de validité
+
+↓
+
+5. Détection des tensions
+
+↓
+
+6. Analyse des déplacements
+
+↓
+
+7. Évaluation des possibilités de transformation
+
+↓
+
+Nouvelle stabilisation ou limite
+```
+
+---
+
+# 5. Étape 1 — Description initiale
+
+## Question
+
+> Que cherche-t-on à décrire ?
+
+La première étape consiste à identifier la description telle qu’elle apparaît dans une pratique donnée.
+
+L’audit examine :
+
+- le vocabulaire utilisé ;
+- les objets distingués ;
+- les relations établies ;
+- les problèmes auxquels la description répond.
+
+Une description n’est pas isolée.
+
+Elle appartient toujours à un contexte d’usage.
+
+Voir :
+
+[`architecture.md`](architecture.md)
+
+---
+
+# 6. Étape 2 — Identification des régimes mobilisés
+
+## Question
+
+> Dans quel cadre cette description acquiert-elle son sens ?
+
+L’audit identifie les régimes impliqués.
+
+Il examine notamment :
+
+- les critères de pertinence ;
+- les formes d’inférence ;
+- les conditions de justification ;
+- les limites internes.
+
+Une même configuration peut mobiliser plusieurs régimes.
+
+L’objectif n’est pas de choisir entre eux mais de comprendre leurs relations.
+
+Voir :
+
+[`regimes.md`](regimes.md)
+
+---
+
+# 7. Étape 3 — Analyse des engagements
+
+## Question
+
+> Que faisons-nous lorsque nous adoptons cette description ?
+
+Toute description implique des engagements.
+
+L’audit examine :
+
+- les conséquences acceptées ;
+- les inférences autorisées ;
+- les responsabilités discursives ;
+- les incompatibilités éventuelles.
+
+Une description n’est donc pas seulement un contenu.
+
+Elle est une manière de participer à un espace de justification.
+
+Voir :
+
+[`engagements.md`](engagements.md)
+
+---
+
+# 8. Étape 4 — Analyse des critères de validité
+
+## Question
+
+> Selon quelles règles cette description peut-elle être considérée comme recevable ?
+
+L’audit identifie :
+
+- les critères de preuve ;
+- les formes d’argumentation ;
+- les procédures de correction ;
+- les conditions de révision.
+
+La validité est toujours relative au régime dans lequel elle fonctionne.
+
+Voir :
+
+[`validite.md`](validite.md)
+
+---
+
+# 9. Étape 5 — Détection des tensions
+
+## Question
+
+> Où les conditions de stabilisation deviennent-elles problématiques ?
+
+L’audit recherche les tensions :
+
+- internes à un régime ;
+- entre plusieurs régimes ;
+- liées à des déplacements conceptuels ;
+- liées à des transformations insuffisantes.
+
+Une tension indique un désalignement entre contraintes descriptives.
+
+Elle ne constitue pas nécessairement une erreur.
+
+Voir :
+
+- [`tensions.md`](tensions.md)
+- [`reductions.md`](reductions.md)
+- [`eclectisme.md`](eclectisme.md)
+
+---
+
+# 10. Étape 6 — Analyse des déplacements entre régimes
+
+## Question
+
+> Qu’arrive-t-il lorsqu’une description change de cadre ?
+
+L’audit examine les déplacements conceptuels.
+
+Il cherche à déterminer :
+
+- si le statut du concept est conservé ;
+- si les critères d’application restent valides ;
+- si une nouvelle fonction descriptive apparaît.
+
+Les déplacements peuvent prendre plusieurs formes :
+
+- traduction ;
+- analogie ;
+- métaphore ;
+- réduction.
+
+Voir :
+
+[`traductions.md`](traductions.md)
+
+---
+
+# 11. Étape 7 — Évaluation des possibilités de transformation
+
+## Question
+
+> Une nouvelle stabilisation est-elle possible ?
+
+L’audit examine plusieurs issues :
+
+## Maintien
+
+Les régimes peuvent continuer à coexister.
+
+---
+
+## Traduction partielle
+
+Une relation contrôlée peut être construite entre descriptions.
+
+---
+
+## Reconfiguration
+
+Les critères ou engagements peuvent être transformés.
+
+Voir :
+
+[`transitions.md`](transitions.md)
+
+---
+
+## Limite
+
+Aucune stabilisation suffisante n’est actuellement disponible.
+
+Voir :
+
+[`limites.md`](limites.md)
+
+---
+
+# 12. Audit et OVM
+
+L’ancien Opérateur de Vigilance Modale (OVM) est intégré ici comme une fonction particulière de l’audit.
+
+Il ne constitue pas un module autonome.
+
+Il désigne l’examen des déplacements de statut lors du passage entre régimes.
+
+L’OVM analyse notamment :
+
+- les réductions abusives ;
+- les changements clandestins de critères ;
+- les transferts non justifiés.
+
+Voir :
+
+- [`reductions.md`](reductions.md)
+- [`traductions.md`](traductions.md)
+
+---
+
+# 13. Audit et CAP
+
+Le Cycle d’Audit Protokin (CAP) correspond à la structure dynamique de l’audit.
+
+Il décrit le mouvement :
+
+1. Identifier.
+2. Expliciter.
+3. Comparer.
+4. Diagnostiquer.
+5. Transformer ou reconnaître une limite.
+
+CAP n’est pas un mécanisme.
+
+C’est une représentation fonctionnelle du mouvement d’enquête.
+
+---
+
+# 14. Audit et réduction
+
+L’audit constitue un moyen de détecter les réductions illégitimes.
+
+Il examine notamment :
+
+- la réduction des raisons aux causes ;
+- la transformation des faits en normes ;
+- la disparition des propriétés propres d’un régime.
+
+Voir :
+
+[`reductions.md`](reductions.md)
+
+---
+
+# 15. Audit et éclectisme
+
+L’audit permet également d’identifier les mélanges conceptuels non contrôlés.
+
+Il examine :
+
+- les analogies abusives ;
+- les transferts sans justification ;
+- les confusions entre critères de validité.
+
+Voir :
+
+[`eclectisme.md`](eclectisme.md)
+
+---
+
+# 16. Limites de l’audit
+
+L’audit ne garantit pas une résolution définitive des tensions.
+
+Il peut conduire à :
+
+- une nouvelle stabilisation ;
+- une traduction partielle ;
+- une transformation conceptuelle ;
+- une limite ouverte.
+
+Dans ce dernier cas, Protokin enregistre une limite de stabilisation.
+
+Cette limite n’est pas un échec.
+
+Elle indique l’état actuel des possibilités descriptives.
+
+Voir :
+
+[`limites.md`](limites.md)
+
+---
+
+# Conclusion
+
+L’audit est l’opération par laquelle Protokin examine les conditions de fonctionnement d’une description.
+
+Il permet de passer :
+
+- d’une description implicite ;
+- à l’explicitation de ses engagements ;
+- à l’analyse de ses tensions ;
+- à l’évaluation de ses transformations possibles.
+
+L’audit ne produit pas une description supérieure.
+
+Il rend visibles les conditions sous lesquelles différentes descriptions peuvent être stabilisées, comparées et transformées.
+
+---
+
+# Formule synthétique
+
+> **Auditer selon Protokin, ce n’est pas juger une description depuis un point de vue extérieur.**
+>
+> **C’est expliciter les conditions qui permettent à une description de fonctionner, les tensions qu’elle rencontre et les transformations qu’elle rend possibles.**
