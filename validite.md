@@ -325,9 +325,9 @@ Voir :
 
 # 13. Principe central
 
-> **Une description n’est pas valide parce qu’elle correspond à un point de vue absolu sur le monde.**
+> **Une description n'est pas valide parce qu'elle reflète une réalité absolue.**
 >
-> **Elle est valide lorsqu’elle satisfait les conditions de justification et de stabilisation propres au régime dans lequel elle fonctionne.**
+> **Elle est valide lorsqu'un régime de description peut publiquement justifier les engagements qu'elle implique et maintenir sa stabilisation au sein des pratiques concernées.**
 
 ---
 
