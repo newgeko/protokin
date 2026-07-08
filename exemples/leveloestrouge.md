@@ -183,3 +183,8 @@ Ainsi, l'énoncé :
 ne révèle pas simplement une caractéristique du monde.
 
 Il participe à la stabilisation d'une configuration descriptive dont les conditions de validité, de contestation et de justification deviennent les véritables objets de l'analyse.
+
+## Voir aussi
+* [[architecture]] — Pour le fonctionnement général des régimes
+* [[engagements]] — Sur la structure normative des descriptions
+* [[traductions]] — Pour les opérations de passage entre le perceptif et le scientifique
