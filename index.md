@@ -1,176 +1,274 @@
-Protokin — Du mouvement des objets au mouvement des descriptions
+# Protokin — Du mouvement des objets au mouvement des descriptions
 
-«Protokin est une métathéorie pragmatiste, inférentialiste et non-ontologique.
-
-Il analyse les conditions normatives et inférentielles sous lesquelles des descriptions deviennent intelligibles, recevables, incompatibles ou transformables dans des pratiques de justification.
-
-Son objet n’est pas le monde indépendamment de toute description, mais les conditions sous lesquelles des contenus acquièrent un statut descriptif dans des espaces de raisons.»
+> **Protokin est une métathéorie pragmatiste, inférentialiste et non-ontologique.**
+>
+> Il analyse les conditions normatives et inférentielles sous lesquelles des descriptions deviennent intelligibles, recevables, incompatibles ou transformables dans des pratiques de justification.
+>
+> Son objet n’est pas le monde indépendamment de toute description, mais les conditions sous lesquelles des contenus acquièrent un statut descriptif dans des espaces de raisons.
 
 ---
 
-1. Orientation générale
+# 1. Orientation générale
 
 Protokin ne propose pas une théorie du monde.
 
-Il ne cherche pas à identifier les structures ultimes du réel, mais à expliciter les conditions sous lesquelles des descriptions peuvent être formées, stabilisées, contestées ou révisées.
+Il ne cherche pas à identifier les structures ultimes du réel, mais à expliciter les conditions sous lesquelles des descriptions peuvent être :
 
-L’hypothèse directrice est la suivante :
+- formées ;
+- stabilisées ;
+- contestées ;
+- révisées ;
+- transformées.
 
-«Une description n’a de contenu déterminé qu’au sein d’un réseau d’engagements, d’inférences et de justifications.»
+L’hypothèse directrice est :
 
-La démarche opère donc un déplacement :
+> **Une description n’a de contenu déterminé qu’au sein d’un réseau d’engagements, d’inférences et de justifications.**
 
-«Du mouvement des objets au mouvement des descriptions.»
+La démarche opère donc un déplacement fondamental :
+
+> **Du mouvement des objets au mouvement des descriptions.**
 
 L’analyse porte moins sur les entités supposées que sur les structures normatives qui rendent leur intelligibilité possible.
 
 ---
 
-2. Statut du projet
+# 2. Statut du projet
 
 Cette section présente le positionnement général de Protokin.
 
-- En une phrase → "en_une_phrase" (en_une_phrase.md)
+## Documents fondamentaux
+
+- [Protokin en une phrase](01_statut/en_une_phrase.md)
+
   Formulation condensée du projet.
 
-- Nom et étymologie → "protokin" (protokin.md)
-  Origine conceptuelle du terme et principe relationnel associé.
+- [Statut du projet](01_statut/statut.md)
 
-- Statut du projet → "statut" (statut.md)
-  Positionnement métathéorique : pragmatisme, inférentialisme et non-ontologie.
+  Positionnement métathéorique :
 
-Protokin n’a pas pour objectif d’établir ce qui existe indépendamment de toute pratique descriptive.
-
-Il cherche à expliciter les conditions sous lesquelles quelque chose peut devenir descriptible, justifiable et stabilisable.
+  - pragmatisme ;
+  - inférentialisme ;
+  - épistémologie des pratiques ;
+  - non-ontologie.
 
 ---
 
-3. Architecture générale
+Protokin n’a pas pour objectif d’établir ce qui existe indépendamment de toute pratique descriptive.
+
+Il cherche à expliciter les conditions sous lesquelles quelque chose peut devenir :
+
+- descriptible ;
+- justifiable ;
+- stabilisable.
+
+---
+
+# 3. Architecture générale
 
 Cette section présente l’organisation conceptuelle du dispositif.
 
-- Architecture générale → "architecture" (architecture.md)
+## Documents principaux
 
-- Content Layer — configurations descriptives → "content_layer" (content_layer.md)
+- [Architecture générale](02_architecture_conceptuelle/architecture.md)
 
-- Régimes de description → "regimes" (regimes.md)
+- [Régimes de description](02_architecture_conceptuelle/regimes.md)
 
-Le Content Layer désigne l’ensemble des configurations descriptives susceptibles d’analyse :
+- [Content Layer — configurations descriptives](02_architecture_conceptuelle/content_layer.md)
+
+---
+
+Le **Content Layer** désigne l’ensemble des configurations descriptives susceptibles d’analyse :
 
 - énoncés ;
 - corpus ;
 - théories ;
 - modèles ;
+- institutions ;
 - pratiques discursives ;
 - systèmes conceptuels.
 
-Les régimes de description correspondent aux ensembles de contraintes normatives et inférentielles qui déterminent les conditions de recevabilité des descriptions.
+Les régimes de description correspondent aux ensembles de contraintes normatives et inférentielles déterminant les conditions de recevabilité des descriptions.
 
-Ils ne constituent ni des niveaux du réel, ni des entités ontologiques.
+Ils ne constituent :
 
----
-
-4. Relations entre régimes de description
-
-Cette section analyse les relations de compatibilité et d’incompatibilité entre cadres descriptifs.
-
-- Kernel — analyse des relations entre régimes → "kernel" (kernel.md)
-
-- Tensions entre régimes → "tensions" (tensions.md)
-
-- Transitions de cadre → "transitions" (transitions.md)
-
-- Limites de stabilisation → "delta" (delta.md)
-
-Le Kernel explicite les conditions sous lesquelles plusieurs régimes peuvent être mis en relation.
-
-Les tensions désignent les désalignements locaux entre engagements descriptifs.
-
-Les transitions désignent les reconfigurations possibles lorsque les conditions de stabilisation d’un régime deviennent insuffisantes.
-
-DELTA marque les situations où aucune stabilisation cohérente n’est disponible dans l’espace de distinctions actuel.
+- ni des niveaux du réel ;
+- ni des entités ontologiques ;
+- ni des mécanismes explicatifs.
 
 ---
 
-5. Conditions d’analyse et procédures
+# 4. Engagements et conditions de description
 
-Cette section présente les formes d’application du cadre Protokin.
+Cette section analyse ce qui est impliqué lorsqu’une description est adoptée.
 
-- Cycle d’Audit Protokin (CAP) → "audit" (audit.md)
+## Documents associés
 
-- Opérateur de Vigilance Modale (OVM) → "ovm" (ovm.md)
+- [Engagements descriptifs](02_architecture_conceptuelle/engagements.md)
 
-- Protocole d’application séquentielle (PASS) → "pass" (pass.md)
-
-L’analyse protokinienne ne cherche pas à produire une interprétation supplémentaire des contenus.
-
-Elle vise à reconstruire :
-
-- les engagements inférentiels impliqués ;
-- les critères de validité mobilisés ;
-- les tensions entre cadres ;
-- les possibilités de reconfiguration.
-
-PASS constitue la procédure d’application du cadre sur des corpus déterminés.
-
-CAP, OVM et DELTA désignent des formes d’analyse, non des agents opératoires autonomes.
+- [Causes et raisons](02_architecture_conceptuelle/causes_raisons.md)
 
 ---
 
-6. Causes et raisons
+Adopter une description signifie accepter certains engagements :
 
-- Faits et justifications → "causes_raisons" (causes_raisons.md)
+- conséquences inférentielles ;
+- critères de justification ;
+- responsabilités discursives ;
+- possibilités de révision.
 
-Protokin distingue deux types de relations :
+Protokin distingue :
 
-- les relations causales, portant sur des mécanismes, des dépendances et des régularités ;
-- les relations normatives, portant sur des engagements, des justifications et des responsabilités discursives.
+- l’espace des causes ;
+- l’espace des raisons.
 
-Cette distinction ne constitue pas une séparation absolue entre deux domaines.
-
-Elle permet d’analyser les conditions sous lesquelles des descriptions changent de régime de validité.
-
----
-
-7. Validité et normativité
-
-- Conditions de validité → "validite" (validite.md)
-
-Les critères de validité ne sont pas imposés depuis un point de vue extérieur.
-
-Ils sont reconstruits à partir des pratiques dans lesquelles des engagements sont attribués, contestés et révisés.
-
-L’analyse porte donc sur les conditions internes de justification propres à chaque régime.
+Cette distinction permet d’éviter la réduction des justifications à des explications causales.
 
 ---
 
-8. Applications et diagnostics
+# 5. Méthode d’enquête
 
-- Cas d’analyse → "examples" (examples.md)
+Cette section présente le fonctionnement analytique de Protokin.
 
-- Erreurs de catégorie et déplacements illégitimes → "pitfalls" (pitfalls.md)
+## Documents principaux
 
-Les diagnostics protokiniens ne portent pas directement sur la vérité d’énoncés isolés.
+- [Analyse protokinienne](03_methode_enquete/analyse.md)
 
-Ils portent sur les structures normatives qui rendent ces énoncés possibles et sur les éventuelles incompatibilités entre leurs conditions de justification.
+- [Audit des conditions de stabilisation descriptive](03_methode_enquete/audit.md)
 
 ---
 
-9. Cartographie théorique
+L’enquête suit un mouvement général :
 
-- Cartographie conceptuelle → "cartographie" (cartographie.md)
+Configuration descriptive
 
-- Influences et correspondances fonctionnelles → "influences" (influences.md)
+↓
 
-Protokin s’inscrit dans une tradition philosophique attentive au caractère inférentiel et normatif du contenu conceptuel.
+Descriptions mobilisées
 
-Il dialogue notamment avec les travaux de :
+↓
+
+Identification des régimes
+
+↓
+
+Analyse des engagements
+
+↓
+
+Détection des tensions
+
+↓
+
+Analyse des déplacements
+
+↓
+
+Possibilité de transformation
+
+↓
+
+Nouvelle stabilisation ou limite
+
+---
+
+# 6. Diagnostics : tensions et dérives
+
+Cette section analyse les difficultés rencontrées par les descriptions.
+
+## Documents associés
+
+- [Tensions entre régimes](04_diagnostics/tensions.md)
+
+- [Réductions](04_diagnostics/reductions.md)
+
+- [Éclectisme](04_diagnostics/eclectisme.md)
+
+---
+
+Les diagnostics protokiniens examinent :
+
+- les conflits entre critères ;
+- les incompatibilités d’engagements ;
+- les pertes produites par certaines opérations de réduction ;
+- les mélanges conceptuels non contrôlés.
+
+---
+
+# 7. Transformations des descriptions
+
+Cette section analyse les changements possibles.
+
+## Documents associés
+
+- [Transitions](05_transformations/transitions.md)
+
+- [Traductions entre régimes](05_transformations/traductions.md)
+
+- [Validité](05_transformations/validite.md)
+
+- [Limites de stabilisation](05_transformations/limites.md)
+
+---
+
+Une transformation protokinienne n’est pas un passage vers une vérité finale.
+
+Elle désigne :
+
+> **Une reconfiguration des conditions permettant à une description de devenir intelligible, justifiable et stabilisable.**
+
+---
+
+# 8. Applications et garde-fous
+
+Cette section présente les usages concrets de Protokin.
+
+## Documents associés
+
+- [Exemples d’analyse](07_applications/exemples.md)
+
+- [Pièges méthodologiques](07_applications/pitfalls.md)
+
+---
+
+Les applications ne cherchent pas à démontrer une théorie du monde.
+
+Elles permettent d’examiner :
+
+- les descriptions présentes ;
+- les régimes mobilisés ;
+- les engagements associés ;
+- les tensions produites ;
+- les possibilités de transformation.
+
+---
+
+# 9. Cartographie théorique
+
+Cette section situe Protokin dans son environnement philosophique.
+
+## Documents associés
+
+- [Cartographie conceptuelle](08_heritages_philosophiques/cartographie.md)
+
+- [Influences et correspondances](08_heritages_philosophiques/influences.md)
+
+---
+
+Protokin dialogue notamment avec :
+
+- le pragmatisme ;
+- l’inférentialisme ;
+- l’épistémologie sociale ;
+- la philosophie des pratiques.
+
+Références majeures :
 
 - Wilfrid Sellars ;
 - Robert Brandom ;
 - Ludwig Wittgenstein ;
 - Willard Van Orman Quine ;
-- les approches pragmatistes contemporaines.
+- John Dewey ;
+- Joseph Rouse.
 
 Ces références ne constituent pas des autorités externes.
 
@@ -178,36 +276,47 @@ Elles permettent de situer les problèmes traités dans un espace théorique com
 
 ---
 
-10. Réflexivité
+# 10. Réflexivité
 
-- Réflexivité du dispositif → "reflexivite" (reflexivite.md)
+## Document associé
+
+- [Réflexivité du dispositif](06_reflexivite/reflexivite.md)
+
+---
 
 Protokin applique ses propres critères d’analyse à ses propres concepts.
 
 Aucun cadre descriptif ne peut être considéré comme extérieur à l’espace de justification qu’il contribue à organiser.
 
-La réflexivité constitue ainsi une condition interne de cohérence du dispositif.
+La réflexivité constitue une condition interne de cohérence du dispositif.
 
 ---
 
-11. Guide de lecture recommandé
+# 11. Guide de lecture recommandé
 
-1. "En une phrase" (en_une_phrase.md)
-2. "Statut du projet" (statut.md)
-3. "Architecture générale" (architecture.md)
-4. "Régimes de description" (regimes.md)
-5. "Relations entre régimes" (kernel.md)
-6. "Tensions et transitions" (tensions.md)
-7. "Cycle d’analyse" (audit.md)
-8. "Applications" (examples.md)
+Pour une première lecture :
+
+1. [Protokin en une phrase](01_statut/en_une_phrase.md)
+
+2. [Statut du projet](01_statut/statut.md)
+
+3. [Architecture générale](02_architecture_conceptuelle/architecture.md)
+
+4. [Régimes de description](02_architecture_conceptuelle/regimes.md)
+
+5. [Engagements descriptifs](02_architecture_conceptuelle/engagements.md)
+
+6. [Tensions entre régimes](04_diagnostics/tensions.md)
+
+7. [Audit](03_methode_enquete/audit.md)
+
+8. [Applications](07_applications/exemples.md)
 
 ---
 
-12. Principes directeurs
+# 12. Principes directeurs
 
-Protokin repose sur trois principes fondamentaux :
-
-Principe de stabilité
+## Principe de stabilité
 
 La stabilité désigne une compatibilité temporaire entre engagements descriptifs dans un espace normatif donné.
 
@@ -215,26 +324,36 @@ Elle n’est pas une propriété absolue du réel.
 
 ---
 
-Principe de pluralité
+## Principe de pluralité
 
 Aucun régime ne possède une position ontologique privilégiée.
 
-Les régimes sont analysés selon leurs conditions propres de justification et leurs relations avec d’autres cadres.
+Les régimes sont analysés selon :
+
+- leurs conditions propres de justification ;
+- leurs relations avec d’autres cadres.
 
 ---
 
-Principe de parcimonie conceptuelle
+## Principe de parcimonie conceptuelle
 
 Toute nouvelle distinction doit améliorer la lisibilité des structures analysées.
 
-Protokin privilégie l’explicitation des engagements inférentiels plutôt que l’accumulation de niveaux descriptifs.
+Protokin privilégie :
+
+- l’explicitation des engagements ;
+- l’analyse des inférences ;
+- la clarification des conditions de justification.
+
+Il évite :
+
+- la multiplication des niveaux ;
+- l’accumulation de concepts autonomisés.
 
 ---
 
-Formule finale
+# Formule finale
 
-Protokin ne cherche pas à expliquer ce que le monde est indépendamment de toute description.
-
-Il cherche à expliciter :
-
-«les conditions sous lesquelles des pratiques de justification rendent possible qu’un monde devienne descriptible, discutable et transformable.»
+> **Protokin ne cherche pas à expliquer ce que le monde est indépendamment de toute description.**
+>
+> **Il cherche à expliciter les conditions sous lesquelles des pratiques de justification rendent possible qu’un monde devienne descriptible, discutable et transformable.**
