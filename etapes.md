@@ -545,3 +545,80 @@ Pour chaque concept :
 > Décrit-il une opération d’analyse, ou prétend-il devenir une entité du monde ?
 
 Si un concept semble agir comme une chose autonome, il doit être reformulé comme une fonction dans une pratique d’enquête.
+
+# site
+
+Protokin
+
+01 Statut
+│
+├── index.md
+├── en_une_phrase.md
+└── statut.md
+
+02 Architecture conceptuelle
+│
+├── architecture.md
+├── regimes.md
+├── content_layer.md
+├── engagements.md
+└── causes_raisons.md
+
+03 Méthode d'enquête
+│
+├── analyse.md
+└── audit.md
+
+04 Diagnostics
+│
+├── tensions.md
+├── reductions.md
+└── eclectisme.md
+
+05 Transformations
+│
+├── transitions.md
+├── traductions.md
+├── validite.md
+└── limites.md
+
+06 Réflexivité
+│
+└── reflexivite.md
+
+07 Applications
+│
+├── exemples.md
+└── pitfalls.md
+
+08 Héritages philosophiques
+│
+├── cartographie.md
+└── influences.md
+
+09 Stabilisation finale
+│
+└── glossaire.md
+
+# Ordre réel de rédaction conseillé
+
+Je modifierais légèrement l’ordre initial :
+
+architecture.md
+regimes.md
+engagements.md
+causes_raisons.md
+analyse.md
+audit.md
+tensions.md
+reductions.md
+eclectisme.md
+transitions.md
+traductions.md
+validite.md
+limites.md
+reflexivite.md
+exemples.md
+cartographie.md
+glossaire.md
+
