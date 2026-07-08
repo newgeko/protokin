@@ -1,181 +1,384 @@
-Tensions — statut et fonction dans Protokin
+# Tensions — formes d’incompatibilité entre régimes descriptifs
 
-Statut général
-
-Les tensions ne sont ni des contradictions logiques, ni des erreurs, ni des propriétés du réel.
-
-Elles désignent des relations locales de désalignement entre plusieurs régimes de description mobilisés dans l’analyse d’une même configuration du Content Layer.
-
-Une tension apparaît lorsque plusieurs régimes appliqués à une même configuration :
-
-- sélectionnent des invariants différents ;
-- mobilisent des critères de validité partiellement incompatibles ;
-- stabilisent différemment un même domaine descriptif ;
-- rendent impossible une traduction locale préservant simultanément toutes les contraintes engagées.
-
-Une tension n’est donc pas une défaillance d’un régime.
-
-Elle indique une difficulté de compatibilité entre plusieurs cadres de stabilisation.
+> Les tensions constituent les situations dans lesquelles les conditions de stabilisation d’une ou plusieurs descriptions deviennent problématiques.
+>
+> Dans Protokin, une tension n’est pas une erreur logique, une anomalie accidentelle ou une défaillance du raisonnement.
+>
+> Elle désigne une relation d’incompatibilité locale entre des contraintes descriptives, normatives ou inférentielles mobilisées dans une configuration donnée.
 
 ---
 
-Principe général
+# 1. Fonction générale des tensions
 
-Un régime n’est ni hiérarchiquement supérieur ni méta-descriptif.
+Les tensions permettent d’identifier les situations dans lesquelles plusieurs engagements descriptifs ne peuvent plus être maintenus simultanément sans modification.
 
-Une tension correspond à une situation dans laquelle :
+Elles apparaissent lorsque :
 
-- une même configuration est engagée sous plusieurs régimes ;
-- aucune traduction immédiate ne permet de préserver simultanément les différentes stabilités ;
-- un même élément descriptif change de fonction selon le régime mobilisé ;
-- plusieurs critères de justification deviennent difficilement compatibles.
+- plusieurs descriptions tentent de qualifier une même configuration ;
+- plusieurs régimes imposent des critères différents ;
+- plusieurs engagements deviennent difficiles à articuler ;
+- une stabilisation existante rencontre ses propres limites.
 
-La tension concerne donc la relation entre régimes, et non un régime isolé.
+La tension constitue donc un indicateur de transformation possible.
 
----
+Elle signale que les conditions actuelles de description doivent être examinées.
 
-Statut des tensions
+Voir :
 
-Une tension est :
-
-- une relation de désalignement entre régimes ;
-- une configuration locale de compatibilité problématique ;
-- un objet d’analyse pour CAP ;
-- une structure pouvant être qualifiée par OVM.
-
-Elle n’est pas :
-
-- une contradiction logique ;
-- une erreur empirique ;
-- une propriété du réel indépendamment de toute description ;
-- une hiérarchie entre régimes ;
-- un opérateur du système.
+- [`architecture.md`](architecture.md)
+- [`analyse.md`](analyse.md)
 
 ---
 
-Fonction dans l’architecture Protokin
+# 2. Statut des tensions
 
-Dans le Content Layer
+## 2.1 Une tension n’est pas une erreur
 
-Les tensions concernent les configurations descriptives analysées :
+Une tension ne signifie pas nécessairement qu’une description est fausse.
 
-- corpus ;
-- théories ;
-- modèles ;
-- pratiques discursives ;
-- ensembles d’énoncés.
+Deux descriptions peuvent être simultanément valides dans leurs régimes respectifs tout en entrant en tension lorsqu’elles sont appliquées à une même configuration.
 
-Elles sont identifiées lorsqu’une même configuration est simultanément structurée par plusieurs régimes dont les contraintes ne s’articulent pas immédiatement.
+Exemple :
 
----
+Une décision humaine peut être décrite :
 
-Dans CAP
+- comme un événement biologique soumis à des causes ;
+- comme une action justifiée par des raisons.
 
-Le Cycle d’Audit Protokin (CAP) détecte et localise les tensions.
+La tension apparaît lorsque l’on tente de supprimer l’un des deux cadres plutôt que d’analyser leur relation.
 
-Il analyse notamment :
+Voir :
 
-- les régimes impliqués ;
-- les invariants mobilisés ;
-- les critères de validité concernés ;
-- les frontières descriptives en jeu ;
-- les zones de non-traductibilité.
-
-CAP ne résout pas une tension.
-
-Il rend explicite sa structure.
+[`causes_raisons.md`](causes_raisons.md)
 
 ---
 
-Dans OVM
+## 2.2 Une tension n’est pas une contradiction absolue
 
-L’Opérateur de Vigilance Modale (OVM) examine certaines tensions sous l’angle des déplacements illégitimes entre régimes.
+Une contradiction logique implique une incompatibilité interne à un même système d’énoncés.
 
-Il analyse notamment :
+Une tension Protokinienne peut être différente.
 
-- les réductions abusives ;
-- les substitutions de cadre ;
-- les confusions entre causes et raisons ;
-- les fusions non médiatisées de régimes.
+Elle concerne souvent :
 
-OVM ne produit pas les tensions.
+- des cadres différents ;
+- des critères différents ;
+- des finalités différentes ;
+- des pratiques différentes.
 
-Il qualifie certaines formes de désalignement.
-
----
-
-Relation avec les transitions
-
-La chaîne fonctionnelle de Protokin peut être représentée ainsi :
-
-Configuration descriptive
-→ Désalignement entre régimes
-→ Analyse CAP
-→ Qualification OVM
-→ Reconfiguration éventuelle (Transition ou DELTA)
-
-Cette chaîne ne décrit pas une causalité mécanique.
-
-Elle décrit une séquence d’analyse.
-
-Une tension ne produit pas nécessairement une transition.
-
-Elle constitue une condition possible d’examen d’une reconfiguration.
+Elle est donc relationnelle et située.
 
 ---
 
-Nature des tensions
+# 3. Origine générale des tensions
 
-Les tensions sont des effets structurels de la pluralité descriptive.
+Une tension apparaît lorsqu’une configuration descriptive mobilise plusieurs contraintes qui ne peuvent pas être simultanément stabilisées.
 
-Elles ne constituent pas des anomalies à éliminer.
+Ces contraintes peuvent concerner :
 
-Elles indiquent :
-
-- des limites locales de traduction entre régimes ;
-- des zones de friction descriptive ;
-- des conflits partiels de justification ;
-- des points possibles de reconfiguration.
-
-Une tension peut rester stable sans conduire à une transition.
+- la définition de l’objet ;
+- les critères de preuve ;
+- les règles d’inférence ;
+- les formes de justification ;
+- les attentes pratiques.
 
 ---
 
-Fonction analytique
+# 4. Tensions intra-régime
 
-Les tensions permettent :
+## 4.1 Définition
 
-- de détecter les incompatibilités locales ;
-- de localiser les conflits de justification ;
-- d’identifier les conditions d’une éventuelle transition ;
-- d’activer les procédures d’analyse du Kernel.
+Une tension intra-régime apparaît lorsqu’un régime rencontre une difficulté interne à maintenir ses propres engagements.
 
----
+Le problème ne vient pas d’un autre régime.
 
-Garde-fous conceptuels
-
-Une tension :
-
-- ne hiérarchise pas les régimes ;
-- ne produit pas de transition ;
-- ne constitue pas une méta-structure ;
-- n’est pas une contradiction logique ;
-- reste relative à une configuration d’analyse déterminée.
+Il vient d’une limite interne du cadre descriptif lui-même.
 
 ---
 
-Principe final
+## 4.2 Manifestations possibles
 
-Les tensions désignent les limites locales de compatibilité entre plusieurs régimes de description appliqués à une même configuration.
+Une tension intra-régime peut apparaître par :
 
-Elles rendent visibles les points où plusieurs cadres de stabilisation cessent d’être immédiatement compatibles et où une analyse de reconfiguration peut devenir nécessaire.
+### Perte de précision
+
+Les concepts fondamentaux deviennent moins capables de distinguer les situations auxquelles ils étaient appliqués.
 
 ---
 
-Conclusion
+### Multiplication des exceptions
 
-Les tensions constituent un mécanisme analytique central de Protokin.
+Le régime doit introduire de nombreuses clauses particulières pour maintenir ses critères initiaux.
 
-Elles ne signalent pas une erreur ou une insuffisance du système descriptif.
+---
 
-Elles rendent visibles les zones où la pluralité des régimes produit des contraintes concurrentes et où la stabilité d’une configuration nécessite une analyse approfondie des conditions de compatibilité, de traduction ou de transformation.
+### Instabilité des critères
+
+Les conditions permettant de reconnaître une description valide deviennent elles-mêmes incertaines.
+
+---
+
+### Saturation
+
+Le régime ne dispose plus des ressources suffisantes pour intégrer une nouvelle configuration.
+
+Voir :
+
+[`limites.md`](limites.md)
+
+---
+
+# 5. Tensions inter-régimes
+
+## 5.1 Définition
+
+Une tension inter-régimes apparaît lorsque plusieurs régimes décrivent une même configuration selon des contraintes différentes.
+
+Le problème n’est pas nécessairement que l’un des régimes soit faux.
+
+Le problème concerne leur articulation.
+
+---
+
+## 5.2 Formes principales
+
+Une tension inter-régimes peut concerner :
+
+### Les critères de validité
+
+Deux régimes peuvent déterminer différemment ce qui compte comme preuve ou justification.
+
+---
+
+### Les objets stabilisés
+
+Un même phénomène peut être constitué comme objet différent selon le régime mobilisé.
+
+---
+
+### Les types d’inférence
+
+Une conséquence valide dans un régime peut ne pas l’être dans un autre.
+
+---
+
+### Les engagements normatifs
+
+Une description peut introduire des responsabilités ou obligations absentes d’un autre cadre.
+
+---
+
+# 6. Tensions entre espace des causes et espace des raisons
+
+Une tension centrale dans Protokin concerne la relation entre :
+
+## Espace des causes
+
+Il concerne :
+
+- les mécanismes ;
+- les régularités ;
+- les relations explicatives ;
+- les processus matériels.
+
+---
+
+## Espace des raisons
+
+Il concerne :
+
+- les justifications ;
+- les engagements ;
+- les responsabilités ;
+- les normes discursives.
+
+---
+
+La tension apparaît lorsqu’un espace prétend absorber entièrement l’autre.
+
+Deux dérives deviennent alors possibles :
+
+- réduire les raisons à des causes ;
+- transformer des causes en justifications.
+
+Voir :
+
+[`causes_raisons.md`](causes_raisons.md)
+
+---
+
+# 7. Saturation d’un régime
+
+## Définition
+
+La saturation désigne une situation dans laquelle un régime ne parvient plus à maintenir sa stabilité descriptive face à de nouvelles contraintes.
+
+Elle ne signifie pas nécessairement l’abandon immédiat du régime.
+
+Elle indique une pression interne nécessitant une enquête.
+
+---
+
+## Signes de saturation
+
+Une saturation peut produire :
+
+- une perte de cohérence ;
+- une accumulation d’exceptions ;
+- une extension abusive des concepts ;
+- une difficulté à maintenir les engagements initiaux.
+
+---
+
+# 8. Incompatibilité locale
+
+## Définition
+
+Une incompatibilité locale apparaît lorsque deux engagements ne peuvent être maintenus simultanément dans une configuration donnée.
+
+Elle est :
+
+- locale, car elle concerne une situation précise ;
+- relationnelle, car elle dépend des régimes impliqués ;
+- révisable, car une transformation peut modifier les conditions.
+
+---
+
+# 9. Diagnostic des tensions par l’audit
+
+Les tensions sont identifiées grâce à l’opération d’audit.
+
+L’audit examine :
+
+1. Les descriptions présentes.
+2. Les régimes mobilisés.
+3. Les engagements associés.
+4. Les critères de validité.
+5. Les déplacements éventuels.
+6. Les possibilités de transformation.
+
+Voir :
+
+[`audit.md`](audit.md)
+
+---
+
+# 10. Tensions et réduction
+
+Certaines tensions sont artificiellement produites par une tentative de réduction.
+
+Une réduction apparaît lorsqu’un régime prétend expliquer entièrement un autre régime.
+
+Elle peut provoquer :
+
+- disparition d’un objet descriptif ;
+- perte de visibilité des engagements ;
+- confusion entre explication et justification.
+
+Voir :
+
+[`reductions.md`](reductions.md)
+
+---
+
+# 11. Tensions et éclectisme
+
+À l’inverse, une tension peut être masquée par un mélange abusif de régimes.
+
+L’éclectisme tente de résoudre les différences en combinant des concepts sans examiner leurs conditions d’application.
+
+Il produit :
+
+- des analogies non contrôlées ;
+- des transferts illégitimes ;
+- une perte de cohérence inférentielle.
+
+Voir :
+
+[`eclectisme.md`](eclectisme.md)
+
+---
+
+# 12. Traitement des tensions
+
+Protokin ne cherche pas à supprimer toutes les tensions.
+
+Une tension peut conduire à plusieurs issues :
+
+## Maintien différencié
+
+Les régimes restent distincts mais compatibles.
+
+---
+
+## Traduction partielle
+
+Une relation contrôlée entre régimes devient possible.
+
+Voir :
+
+[`traductions.md`](traductions.md)
+
+---
+
+## Transition
+
+Les conditions de stabilisation sont transformées.
+
+Voir :
+
+[`transitions.md`](transitions.md)
+
+---
+
+## Limite
+
+Aucune stabilisation suffisante n’est actuellement disponible.
+
+Voir :
+
+[`limites.md`](limites.md)
+
+---
+
+# 13. Tensions et réflexivité
+
+Les tensions peuvent également concerner Protokin lui-même.
+
+Ses propres concepts peuvent rencontrer :
+
+- des limites d’application ;
+- des incompatibilités internes ;
+- des besoins de transformation.
+
+La réflexivité empêche Protokin de traiter ses catégories comme absolues.
+
+Voir :
+
+[`reflexivite.md`](reflexivite.md)
+
+---
+
+# Conclusion
+
+Les tensions constituent un élément central de l’architecture Protokin.
+
+Elles ne sont pas des défauts à éliminer mais des situations d’enquête.
+
+Elles permettent d’identifier :
+
+- les limites internes d’un régime ;
+- les difficultés entre plusieurs régimes ;
+- les risques de réduction ;
+- les risques d’éclectisme ;
+- les possibilités de transformation.
+
+Une tension indique que les conditions actuelles de stabilisation doivent être examinées.
+
+---
+
+# Formule synthétique
+
+> **Une tension n’est pas une erreur dans une description.**
+>
+> **C’est une relation d’incompatibilité locale entre des conditions de stabilisation qui ne peuvent plus fonctionner ensemble sans transformation.**
