@@ -1,186 +1,340 @@
 # Architecture générale de Protokin
 
----
-
-1. Nature du système
-
-Protokin n’est :
-
-- ni une ontologie ;
-- ni une théorie de la représentation ;
-- ni une hiérarchie du réel.
-
-Il constitue un cadre d’analyse des conditions de stabilisation descriptive, des régimes de justification et des transformations possibles des cadres de description.
-
-Il s’inscrit dans plusieurs traditions philosophiques, notamment l’analyse du langage, l’inférentialisme pragmatiste et l’épistémologie des pratiques de justification.
+> Protokin est une architecture d’analyse des conditions sous lesquelles des descriptions deviennent intelligibles, stabilisables et transformables au sein de pratiques de justification.
+>
+> Elle n’est pas une théorie du monde, mais une analyse des conditions qui permettent à différentes descriptions du monde d’acquérir un statut, une portée et une cohérence.
 
 ---
 
-2. Objet du système
+# 1. Nature générale du cadre
 
-Protokin vise à rendre explicites :
+## 1.1 Ce que Protokin n’est pas
 
-- les conditions sous lesquelles des descriptions deviennent stabilisables ;
-- les critères locaux de justification ;
-- les relations inférentielles entre cadres descriptifs ;
-- les tensions entre régimes ;
-- les possibilités de reconfiguration ;
-- les limites internes des systèmes de justification.
+Protokin ne constitue pas :
 
-Il n’explique pas directement les objets du monde.
+- une ontologie décrivant les structures fondamentales du réel ;
+- une théorie de la représentation expliquant comment l’esprit reproduit le monde ;
+- une hiérarchie des niveaux de réalité distinguant des couches plus ou moins fondamentales de l’être.
 
-Il analyse les conditions sous lesquelles ils peuvent devenir des objets descriptifs dans un cadre donné.
+Il ne cherche donc pas à déterminer :
+
+- ce qui existe indépendamment de toute description ;
+- quelle description serait absolument supérieure aux autres ;
+- quel régime descriptif posséderait un accès privilégié à la réalité.
 
 ---
 
-3. Régimes de description
+## 1.2 Ce que Protokin analyse
 
-Un régime de description désigne un ensemble de contraintes descriptives, normatives et inférentielles.
+Protokin étudie les conditions sous lesquelles une description peut fonctionner comme description.
 
-Il définit notamment :
+Son objet est constitué par :
+
+- les cadres dans lesquels des concepts prennent sens ;
+- les engagements associés aux descriptions ;
+- les critères permettant de les considérer comme recevables ;
+- les relations entre différentes formes d'intelligibilité.
+
+Une description n’est pas considérée comme un simple ensemble de mots ou de propositions.
+
+Elle est comprise comme une organisation d’engagements, d’inférences et de critères de pertinence.
+
+---
+
+# 2. Principe directeur : du mouvement des objets au mouvement des descriptions
+
+L’hypothèse générale de Protokin est que les difficultés philosophiques apparaissent souvent lorsque l’on analyse les objets sans examiner les conditions descriptives qui permettent de les identifier.
+
+Un même phénomène peut être décrit selon plusieurs cadres :
+
+- physique ;
+- biologique ;
+- technique ;
+- institutionnel ;
+- social ;
+- normatif.
+
+Ces descriptions ne sont pas nécessairement concurrentes.
+
+Elles peuvent répondre à des questions différentes et mobiliser des critères différents.
+
+Le problème central devient alors :
+
+> Comment plusieurs descriptions peuvent-elles être articulées sans être réduites les unes aux autres ni mélangées arbitrairement ?
+
+---
+
+# 3. Les régimes de description
+
+## 3.1 Définition
+
+Un régime de description désigne un ensemble organisé de contraintes qui déterminent la manière dont une configuration peut être comprise.
+
+Un régime définit notamment :
+
+- les distinctions considérées comme pertinentes ;
+- les concepts disponibles ;
+- les types d’inférences autorisés ;
+- les critères de justification ;
+- les limites d’application.
+
+---
+
+## 3.2 Autonomie relative des régimes
+
+Chaque régime possède une autonomie relative.
+
+Cela signifie qu’il dispose de ses propres conditions de fonctionnement sans pour autant être isolé des autres régimes.
+
+Par exemple :
+
+Une explication biologique d’un comportement et une justification donnée par un agent ne répondent pas nécessairement à la même question.
+
+L’une peut expliquer un mécanisme.
+
+L’autre peut rendre compte d’un engagement ou d’une raison.
+
+La différence entre ces descriptions ne signifie pas que l’une est vraie et l’autre fausse.
+
+Elle indique qu’elles appartiennent à des espaces de justification différents.
+
+---
+
+# 4. Les configurations descriptives
+
+## 4.1 Définition
+
+Les configurations descriptives constituent le domaine concret soumis à analyse.
+
+Elles peuvent correspondre à :
+
+- des théories scientifiques ;
+- des modèles ;
+- des pratiques institutionnelles ;
+- des discours politiques ;
+- des systèmes techniques ;
+- des corpus philosophiques ;
+- des formes d’argumentation.
+
+---
+
+## 4.2 Statut
+
+Une configuration descriptive n’est pas une copie du réel.
+
+Elle correspond à une manière organisée de sélectionner certains aspects d’une situation afin de produire une forme d’intelligibilité.
+
+L’analyse porte donc sur :
+
+- ce qu’une description rend visible ;
+- ce qu’elle laisse hors champ ;
+- les engagements qu’elle introduit ;
+- les conséquences qu’elle autorise.
+
+---
+
+# 5. Relations entre régimes descriptifs
+
+Les régimes ne sont pas simplement juxtaposés.
+
+Ils entretiennent différentes formes de relations.
+
+---
+
+## 5.1 Compatibilité
+
+Deux régimes peuvent être compatibles lorsque leurs contraintes respectives peuvent être maintenues sans contradiction majeure.
+
+Cette compatibilité n’implique pas qu’ils décrivent la même chose de la même manière.
+
+Elle signifie seulement qu’ils peuvent être articulés.
+
+---
+
+## 5.2 Tension
+
+Une tension apparaît lorsque plusieurs régimes appliqués à une même configuration produisent des engagements difficiles à maintenir simultanément.
+
+La tension peut concerner :
 
 - les critères de validité ;
-- les inférences autorisées ;
-- les conditions de pertinence ;
-- les exclusions possibles.
+- les concepts utilisés ;
+- les formes d’inférence ;
+- les attentes associées aux descriptions.
 
-Un régime ne constitue pas une structure du réel.
+Une tension n’est pas une erreur.
 
-Il correspond à une organisation locale des conditions sous lesquelles certaines descriptions peuvent être stabilisées et évaluées.
-
----
-
-4. Relations entre régimes
-
-Les relations entre régimes peuvent prendre plusieurs formes.
-
-Tensions
-
-Une tension désigne un désalignement local entre plusieurs régimes appliqués à une même configuration.
-
-Elle apparaît lorsque plusieurs cadres de description ne permettent pas une compatibilité immédiate de leurs contraintes.
+Elle constitue une situation où les conditions de stabilisation deviennent problématiques.
 
 ---
 
-Saturations
+## 5.3 Saturation
 
-Une saturation désigne une situation dans laquelle une configuration ne peut plus maintenir simultanément ses engagements descriptifs dans un régime donné sans modification des conditions de stabilisation.
+Une saturation apparaît lorsqu’un régime descriptif ne parvient plus à maintenir ses propres critères face à une situation nouvelle.
 
----
+Elle peut se manifester par :
 
-Indéterminations
+- la multiplication d’exceptions ;
+- la perte de précision des concepts ;
+- l’apparition de contradictions pratiques ;
+- l’impossibilité de stabiliser les engagements initiaux.
 
-Une indétermination apparaît lorsque les ressources internes d’un cadre descriptif ne permettent pas de fixer une stabilisation suffisante entre plusieurs descriptions concurrentes.
-
----
-
-5. Espace des relations entre régimes
-
-Protokin analyse plusieurs formes de relations entre régimes :
-
-- compatibilités partielles ;
-- incompatibilités locales ;
-- tensions de justification ;
-- possibilités de traduction ;
-- reconfigurations des critères de validité.
-
-Ces relations ne décrivent pas une évolution nécessaire.
-
-Elles constituent un espace de variations possibles entre cadres descriptifs.
+La saturation peut conduire à une transformation du cadre descriptif.
 
 ---
 
-6. Content Layer — configurations descriptives
+## 5.4 Limite de traduction
 
-Le Content Layer désigne l’ensemble des configurations descriptives soumises à analyse.
+Certaines relations entre régimes résistent aux tentatives d’articulation.
+
+Dans ce cas, l’analyse reconnaît une limite de traduction.
+
+Cette limite signifie que les ressources disponibles ne permettent pas actuellement de construire une description commune sans perte importante.
+
+Elle ne constitue pas un échec.
+
+Elle indique une frontière de l’intelligibilité disponible.
+
+---
+
+# 6. Le noyau analytique de Protokin
+
+Le noyau analytique rassemble les distinctions permettant d’examiner les relations entre descriptions.
 
 Il comprend notamment :
 
-- énoncés ;
-- théories ;
-- modèles ;
-- corpus ;
-- pratiques discursives ;
-- régimes eux-mêmes lorsqu’ils deviennent objets d’analyse.
+- la distinction entre causes et raisons ;
+- l’analyse des engagements descriptifs ;
+- l’étude des critères de validité ;
+- l’identification des tensions ;
+- l’analyse des déplacements entre régimes.
 
-Il ne constitue pas un domaine du réel.
+Ce noyau n’est pas un mécanisme produisant des résultats.
 
-Il correspond au champ dans lequel des descriptions peuvent être stabilisées, comparées et mises en tension.
-
----
-
-7. Kernel — espace formel d’analyse
-
-Le Kernel désigne l’ensemble des distinctions fondamentales permettant de qualifier les relations entre régimes.
-
-Il constitue le cadre formel dans lequel peuvent être analysés :
-
-- les tensions ;
-- les incompatibilités ;
-- les transformations possibles ;
-- les limites de stabilisation.
-
-Le Kernel n’est ni un mécanisme causal, ni un opérateur de transformation.
-
-Il organise l’espace d’analyse.
+Il fournit un ensemble d’outils conceptuels permettant d’examiner les pratiques descriptives.
 
 ---
 
-8. CAP, OVM et DELTA
+# 7. L’audit : opération centrale d’analyse
 
-Ces éléments ne constituent pas des modules agissant sur le système.
+## 7.1 Fonction générale
 
-Ils désignent des fonctions analytiques distinctes.
+L’audit constitue la méthode principale d’examen dans Protokin.
 
-CAP — Cycle d’Audit Protokin
+Il ne consiste pas à comparer une description à une réalité indépendante afin d’en mesurer l’écart.
 
-CAP qualifie la structure des tensions entre configurations descriptives et régimes mobilisés.
+Il consiste à expliciter :
 
----
-
-OVM — Opérateur de Vigilance Modale
-
-OVM analyse les déplacements entre cadres descriptifs et identifie les transpositions problématiques.
-
----
-
-DELTA
-
-DELTA désigne une limite locale de stabilisation lorsque les ressources disponibles ne permettent plus de maintenir une compatibilité suffisante entre engagements descriptifs.
+- les engagements contenus dans une description ;
+- les critères utilisés pour la soutenir ;
+- les conséquences qu’elle autorise ;
+- les tensions qu’elle rencontre.
 
 ---
 
-9. Réflexivité
+## 7.2 Étapes générales de l’audit
 
-Protokin peut analyser ses propres conditions de description.
+L’audit peut examiner :
 
-Cette réflexivité ne constitue pas un niveau supérieur.
-
-Elle correspond à l’application du même cadre d’analyse aux conditions qui rendent ce cadre possible.
-
----
-
-10. Zones limites
-
-Certaines configurations produisent des limites dans les possibilités de stabilisation.
-
-Ces limites ne sont pas des erreurs.
-
-Elles indiquent des situations dans lesquelles les critères disponibles ne suffisent plus à produire une description suffisamment cohérente.
+1. Le régime descriptif mobilisé.
+2. Les concepts centraux utilisés.
+3. Les engagements associés.
+4. Les conséquences inférentielles produites.
+5. Les tensions éventuelles.
+6. Les possibilités de transformation.
 
 ---
 
-Conclusion
+# 8. Risques lors des relations entre régimes
 
-Protokin est un cadre d’analyse des conditions de stabilisation des descriptions et des justifications.
-
-Il ne décrit pas directement ce qui est.
-
-Il étudie les conditions sous lesquelles quelque chose peut devenir descriptible, justifiable, comparable ou indéterminé dans un régime donné.
+Lorsque plusieurs régimes entrent en relation, deux dérives principales apparaissent.
 
 ---
 
-Formule synthétique
+## 8.1 Le risque de réduction
 
-«Protokin n’est pas une théorie du monde.
-C’est une architecture d’analyse des conditions sous lesquelles des descriptions du monde peuvent être stabilisées.»
+La réduction consiste à traiter un régime comme entièrement explicable par un autre.
+
+Elle produit plusieurs difficultés :
+
+- disparition de la spécificité de l’objet décrit ;
+- perte de visibilité des engagements normatifs ;
+- confusion entre explication causale et justification.
+
+Un phénomène peut avoir des causes sans que ses raisons soient supprimées.
+
+---
+
+## 8.2 Le risque d’éclectisme
+
+L’éclectisme consiste à combiner plusieurs régimes sans respecter leurs conditions propres.
+
+Il produit :
+
+- des analogies non contrôlées ;
+- des transferts conceptuels abusifs ;
+- une perte de cohérence inférentielle.
+
+La relation entre régimes nécessite donc une analyse des conditions de passage.
+
+---
+
+# 9. Transition et reconfiguration
+
+## 9.1 Principe
+
+Lorsque les tensions deviennent persistantes, une transition peut devenir nécessaire.
+
+La transition ne désigne pas un progrès vers une vérité finale.
+
+Elle désigne une modification des conditions permettant à une description de fonctionner.
+
+---
+
+## 9.2 Formes possibles de transition
+
+Une transition peut impliquer :
+
+- une modification des critères de pertinence ;
+- une transformation des engagements ;
+- l’introduction de nouvelles distinctions ;
+- une nouvelle articulation entre régimes.
+
+La transition est donc une reconfiguration des conditions d’intelligibilité.
+
+---
+
+# 10. Réflexivité
+
+Protokin applique ses propres outils à ses propres catégories.
+
+Cette réflexivité signifie que :
+
+- ses concepts peuvent être analysés ;
+- ses distinctions peuvent être révisées ;
+- son architecture reste elle-même située dans une pratique descriptive.
+
+Il n’existe pas de point de vue extérieur absolu depuis lequel l’analyse pourrait se placer.
+
+---
+
+# Conclusion générale
+
+Protokin constitue une architecture d’analyse des conditions de stabilisation des descriptions.
+
+Elle ne cherche pas à remplacer les descriptions particulières par une description ultime.
+
+Elle cherche à comprendre :
+
+- comment les descriptions deviennent possibles ;
+- comment elles maintiennent leur cohérence ;
+- comment elles entrent en tension ;
+- comment elles peuvent être transformées.
+
+---
+
+# Formule synthétique
+
+> **Protokin n’est pas une théorie du monde.**
+>
+> **C’est une architecture d’analyse des conditions sous lesquelles des descriptions du monde peuvent devenir intelligibles, justifiables et transformables.**
