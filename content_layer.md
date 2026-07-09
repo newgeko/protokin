@@ -1,27 +1,27 @@
 # Content Layer — Configurations descriptives analysables
 
-> Ce fichier définit la fonction du Content Layer dans l’architecture Protokin.
->
-> Il répond à une question centrale :
->
-> **À partir de quoi une enquête protokinienne peut-elle analyser les conditions de stabilisation, de justification et de transformation des descriptions ?**
+Ce fichier définit la fonction du **Content Layer** dans l’architecture **Protokin**.
+
+Il répond à une question centrale :
+
+**À partir de quoi une enquête protokinienne peut-elle analyser les conditions de stabilisation, de justification et de transformation des descriptions ?**
 
 ---
 
 # 1. Fonction générale du Content Layer
 
-Le Content Layer désigne l’ensemble des configurations descriptives susceptibles d’être soumises à une analyse protokinienne.
+Dans **Protokin**, le **Content Layer** désigne l’ensemble des configurations descriptives susceptibles d’être soumises à une analyse.
 
 Il ne constitue pas :
 
 - une couche du réel ;
 - un niveau ontologique ;
 - une représentation directe du monde ;
-- un ensemble neutre de données disponibles indépendamment de toute description.
+- un ensemble de données brutes indépendantes de toute pratique.
 
-Il désigne le domaine dans lequel des contenus déjà organisés peuvent être examinés selon leurs conditions de description, leurs engagements et leurs critères de validité.
+Le Content Layer désigne le domaine à partir duquel l’enquête peut reconstruire les conditions de formation, de stabilisation, de justification et de transformation des descriptions.
 
-Le Content Layer correspond donc au champ d’analyse à partir duquel Protokin étudie les pratiques descriptives.
+Il correspond ainsi au champ d’analyse des pratiques descriptives.
 
 ---
 
@@ -29,54 +29,59 @@ Le Content Layer correspond donc au champ d’analyse à partir duquel Protokin 
 
 Une configuration descriptive est une organisation de contenus dans laquelle certains éléments deviennent pertinents selon un cadre donné.
 
-Elle peut comprendre :
+Une configuration peut comprendre :
 
 - des énoncés ;
 - des textes ;
 - des corpus théoriques ;
 - des modèles scientifiques ;
+- des instruments ;
 - des pratiques discursives ;
-- des systèmes conceptuels ;
 - des dispositifs institutionnels ;
-- des formes d’argumentation.
+- des procédures ;
+- des formes d’argumentation ;
+- des systèmes conceptuels.
 
-Ces éléments ne sont jamais considérés comme des données brutes.
+Ces éléments ne sont jamais traités comme des données brutes.
 
-Ils sont analysés comme des configurations déjà structurées par :
+Ils sont déjà organisés par :
 
 - des distinctions ;
-- des concepts ;
-- des critères ;
+- des catégories ;
 - des engagements ;
+- des critères ;
+- des habitudes d’interprétation ;
 - des pratiques de justification.
 
-Formule centrale :
+## Formule centrale
 
-> **Le Content Layer n’est pas le monde décrit. Il est l’ensemble des configurations à partir desquelles les conditions de description peuvent être analysées.**
+**Le Content Layer n’est pas le monde décrit. Il est l’ensemble des configurations à partir desquelles les conditions de description peuvent être analysées.**
 
 ---
 
 # 3. Statut dans l’architecture Protokin
 
-Le Content Layer occupe une fonction déterminée dans l’architecture générale.
+Le Content Layer occupe une fonction spécifique dans l’architecture générale.
 
-Il correspond au domaine soumis à enquête.
+Il constitue le domaine soumis à enquête.
 
 À partir d’une configuration descriptive, Protokin examine :
 
 - les régimes mobilisés ;
+- les prédications produites ;
 - les engagements associés ;
 - les critères de validité ;
 - les relations d’inférence ;
 - les tensions éventuelles ;
 - les possibilités de transformation.
 
-Le Content Layer ne réalise aucune opération.
+Le Content Layer n’effectue lui-même aucune opération.
 
 Il :
 
 - ne produit pas de description ;
 - ne sélectionne pas un régime ;
+- ne justifie pas un engagement ;
 - ne décide pas d’une validité ;
 - ne transforme pas une configuration.
 
@@ -93,29 +98,29 @@ Voir :
 
 Le Content Layer et les régimes de description ne correspondent pas à deux niveaux du réel.
 
-Ils représentent deux fonctions analytiques différentes.
+Ils remplissent deux fonctions analytiques distinctes.
 
 Le Content Layer concerne :
 
 > ce qui est soumis à analyse.
 
-Les régimes de description concernent :
+Les régimes concernent :
 
-> les conditions sous lesquelles ce qui est analysé peut devenir intelligible, recevable ou justifiable.
+> les conditions sous lesquelles ce qui est analysé devient descriptible, intelligible, recevable ou justifiable.
 
 Une même configuration peut être examinée selon plusieurs régimes.
 
-Par exemple :
+Par exemple, une institution peut être décrite :
 
-- une institution peut être décrite juridiquement ;
-- économiquement ;
+- juridiquement ;
 - historiquement ;
+- économiquement ;
 - sociologiquement ;
 - politiquement.
 
-Ces descriptions ne constituent pas nécessairement des concurrents.
+Ces descriptions ne sont pas nécessairement concurrentes.
 
-Elles mobilisent des critères différents de pertinence et de justification.
+Elles mobilisent simplement des critères différents de pertinence et de justification.
 
 Voir :
 
@@ -125,23 +130,27 @@ Voir :
 
 # 5. Nature des configurations descriptives
 
-Les configurations du Content Layer ne possèdent pas un statut descriptif fixe indépendamment des pratiques.
+Les configurations du Content Layer ne possèdent jamais un statut descriptif fixe indépendamment des pratiques.
 
 Une même configuration peut :
 
 - recevoir plusieurs descriptions ;
-- être stabilisée différemment selon les régimes ;
-- produire des tensions entre cadres ;
+- être stabilisée selon plusieurs régimes ;
+- produire des tensions entre cadres descriptifs ;
 - nécessiter une transformation des conditions d’analyse.
 
-Le changement observé ne signifie pas nécessairement que le contenu lui-même a changé.
+Une modification descriptive ne signifie pas nécessairement qu’un contenu a changé.
 
-Il peut correspondre à une modification :
+Elle peut correspondre à une transformation :
 
-- des catégories utilisées ;
+- des catégories mobilisées ;
 - des critères de pertinence ;
-- des engagements associés ;
-- des relations d’inférence.
+- des engagements assumés ;
+- des inférences autorisées.
+
+Les configurations ne sont donc pas des objets fixes.
+
+Elles sont des ensembles relationnels susceptibles d’être reconstruits différemment selon les pratiques descriptives mobilisées.
 
 ---
 
@@ -149,16 +158,16 @@ Il peut correspondre à une modification :
 
 Toute configuration descriptive implique des engagements.
 
-Décrire quelque chose selon un cadre donné revient à accepter certaines conséquences et à rendre possibles certaines inférences.
+Décrire quelque chose d’une certaine manière revient à rendre possibles certaines conséquences et certaines inférences.
 
-L’analyse du Content Layer conduit donc nécessairement à examiner :
+L’analyse du Content Layer conduit donc à examiner :
 
-- ce qu’une description permet d’affirmer ;
+- ce qu’une description autorise à affirmer ;
 - ce qu’elle exclut ;
 - quelles conséquences elle entraîne ;
 - quelles responsabilités discursives elle introduit.
 
-Le contenu analysé n’est donc jamais séparé des engagements qui lui donnent une portée normative.
+Le contenu analysé ne peut être séparé des engagements qui lui donnent une portée normative.
 
 Voir :
 
@@ -166,24 +175,24 @@ Voir :
 
 ---
 
-# 7. Content Layer et critères de validité
+# 7. Content Layer et validité
 
-Le Content Layer ne contient pas directement des éléments vrais ou faux indépendamment de tout cadre.
+Le Content Layer ne contient pas directement des contenus vrais ou faux.
 
-Il ne détermine pas :
+Il ne détermine pas lui-même :
 
 - ce qui est valide ;
 - ce qui est invalide ;
 - ce qui est pertinent ;
 - ce qui est justifié.
 
-Ces déterminations apparaissent dans les régimes de description et leurs pratiques de justification.
+Ces déterminations apparaissent dans les régimes de description et dans les pratiques de justification qui leur sont associées.
 
 Ainsi :
 
-> Une configuration descriptive ne possède pas une validité intrinsèque indépendante des conditions dans lesquelles elle est évaluée.
+**Une configuration descriptive ne possède aucune validité intrinsèque indépendante des conditions dans lesquelles elle est évaluée.**
 
-La validité est toujours analysée relativement à des critères explicites ou reconstruits.
+La validité demeure toujours relative à un régime de description donné.
 
 Voir :
 
@@ -195,37 +204,38 @@ Voir :
 
 Le Content Layer possède une neutralité fonctionnelle.
 
-Cela signifie qu’il ne contient pas de hiérarchie préalable entre configurations.
+Il ne contient aucune hiérarchie préalable entre les configurations.
 
 Il ne distingue pas spontanément :
 
-- important / secondaire ;
-- vrai / faux ;
-- central / marginal ;
-- pertinent / non pertinent.
+- vrai et faux ;
+- central et marginal ;
+- pertinent et non pertinent ;
+- important et secondaire.
 
 Ces distinctions apparaissent uniquement à travers les pratiques descriptives mobilisées.
 
 Le rôle de Protokin n’est pas d’imposer une hiérarchie extérieure.
 
-Il consiste à reconstruire les conditions selon lesquelles une hiérarchie locale peut fonctionner.
+Il consiste à reconstruire les conditions selon lesquelles une hiérarchie locale devient possible.
 
 ---
 
 # 9. Transformations du Content Layer
 
-Les transformations analysées par Protokin ne correspondent pas nécessairement à une modification des objets décrits.
+Les transformations observées dans le Content Layer ne correspondent pas nécessairement à une modification des objets décrits.
 
-Elles peuvent correspondre à :
+Elles peuvent concerner :
 
-- une modification des catégories descriptives ;
-- une transformation des engagements ;
-- une réorganisation des critères de validité ;
-- une nouvelle articulation entre régimes.
+- les catégories descriptives ;
+- les critères de pertinence ;
+- les engagements ;
+- les formes de justification ;
+- les relations entre régimes.
 
-Une transition concerne donc les conditions de stabilisation d’une description.
+Une transition transforme avant tout les conditions de description.
 
-Elle ne constitue pas un changement automatique du contenu lui-même.
+Elle ne constitue pas automatiquement une transformation du contenu lui-même.
 
 Voir :
 
@@ -236,16 +246,30 @@ Voir :
 
 # 10. Content Layer et tensions
 
-Une configuration descriptive peut devenir problématique lorsque plusieurs régimes mobilisés produisent des engagements difficiles à maintenir simultanément.
+Les configurations descriptives peuvent devenir problématiques lorsque plusieurs régimes produisent des engagements difficiles à maintenir simultanément.
 
 Les tensions peuvent concerner :
 
 - les critères de pertinence ;
 - les formes d’explication ;
 - les engagements associés ;
-- les conditions de justification.
+- les conditions de justification ;
+- les critères de validité.
 
-Le Content Layer constitue alors le domaine dans lequel ces tensions deviennent observables.
+Le Content Layer constitue le domaine dans lequel ces tensions deviennent observables.
+
+Ces tensions ne doivent pas être comprises uniquement comme des erreurs ou des contradictions.
+
+Elles peuvent signaler :
+
+- une saturation locale ;
+- une difficulté de coordination ;
+- une limite d’un régime existant ;
+- l’apparition de nouvelles possibilités descriptives.
+
+Le Content Layer n’est donc pas seulement le domaine où les tensions apparaissent.
+
+Il est également le domaine où peuvent devenir visibles les conditions d’une transformation des régimes.
 
 Voir :
 
@@ -254,7 +278,35 @@ Voir :
 
 ---
 
-# 11. Content Layer et audit protokinien
+# 11. Content Layer et individuation des régimes
+
+Les régimes de description ne doivent pas être considérés comme entièrement donnés à l’avance.
+
+Dans certaines situations, les tensions observables au sein des configurations descriptives peuvent conduire à une réorganisation des pratiques, des critères et des engagements.
+
+Lorsque cette réorganisation devient suffisamment stable pour soutenir :
+
+- de nouvelles distinctions ;
+- de nouveaux critères de pertinence ;
+- de nouvelles formes de justification ;
+- de nouveaux engagements ;
+
+elle peut être analysée comme l’individuation d’un régime de description.
+
+Cette individuation ne révèle pas une structure cachée du réel.
+
+Elle correspond à la stabilisation locale d’un nouveau cadre descriptif.
+
+Ainsi, le Content Layer constitue l’un des lieux privilégiés où deviennent observables les processus de formation, de différenciation et de transformation des régimes.
+
+Voir :
+
+- [regimes.md](regimes.md)
+- [transitions.md](transitions.md)
+
+---
+
+# 12. Content Layer et audit protokinien
 
 L’audit commence par l’identification d’une configuration descriptive.
 
@@ -263,11 +315,12 @@ Il cherche ensuite à reconstruire :
 1. La configuration analysée.
 2. Les descriptions mobilisées.
 3. Les régimes associés.
-4. Les engagements introduits.
-5. Les tensions éventuelles.
-6. Les possibilités de transformation.
+4. Les engagements produits.
+5. Les tensions rencontrées.
+6. Les conditions de validité.
+7. Les possibilités de transformation.
 
-Le Content Layer constitue donc le point de départ matériel de l’enquête, sans être une donnée indépendante de toute description.
+Le Content Layer constitue donc le point de départ de l’enquête sans être une donnée indépendante de toute description.
 
 Voir :
 
@@ -275,22 +328,23 @@ Voir :
 
 ---
 
-# 12. Limites du concept
+# 13. Limites du concept
 
 Le Content Layer ne doit pas être compris comme :
 
 - une base de données du réel ;
 - un inventaire des objets existants ;
 - un niveau intermédiaire entre langage et monde ;
-- une structure cachée derrière les descriptions.
+- une structure cachée derrière les descriptions ;
+- une ontologie implicite.
 
-Son rôle est méthodologique.
+Son rôle demeure strictement méthodologique.
 
-Il permet d’identifier le domaine à partir duquel une analyse des conditions de description peut être menée.
+Il permet d’identifier le domaine à partir duquel les conditions de description peuvent être reconstruites.
 
 ---
 
-# 13. Position dans l’architecture Protokin
+# 14. Position dans l’architecture Protokin
 
 L’organisation générale peut être représentée ainsi :
 
@@ -299,34 +353,55 @@ Configuration descriptive
         ↓
 Content Layer
         ↓
-Identification des régimes mobilisés
+Tensions éventuelles
         ↓
-Analyse des engagements et critères de validité
+Régimes de description
         ↓
-Identification des tensions et limites
+Prédications
         ↓
-Possibilités de transformation ou de stabilisation nouvelle
+Engagements
+        ↓
+Justifications
+        ↓
+Audit
+        ↓
+Validité
+        ↓
+Stabilisation
+        ↓
+Transition éventuelle
 
-Cette organisation ne décrit pas des niveaux du réel.
+Cette représentation ne décrit pas des niveaux du réel.
 
-Elle représente un ordre d’enquête.
+Elle représente un ordre d’enquête et un ensemble de fonctions analytiques.
+
+Voir :
+
+architecture_fonctionnelle.md
+
 
 
 ---
 
-14. Relations avec les autres fichiers
+# 15. Relations avec les autres fichiers
 
 Le Content Layer est directement lié à :
 
 architecture.md
 
+architecture_fonctionnelle.md
+
 regimes.md
+
+predication.md
 
 engagements.md
 
 analyse.md
 
 audit.md
+
+validite.md
 
 tensions.md
 
@@ -336,7 +411,7 @@ transitions.md
 
 ---
 
-Conclusion
+# Conclusion
 
 Le Content Layer désigne le champ des configurations descriptives analysables dans Protokin.
 
@@ -352,14 +427,18 @@ leurs critères de validité ;
 
 leurs tensions ;
 
+leurs possibilités de stabilisation ;
+
 leurs possibilités de transformation.
 
+
+Le Content Layer constitue ainsi le point d’entrée de l’enquête protokinienne.
 
 
 ---
 
 Principe final
 
-> Le Content Layer ne dit pas ce qui existe.
+Le Content Layer ne dit pas ce qui existe.
 
-Il désigne ce à partir de quoi les conditions de description, de justification et de transformation peuvent être analysées.
+Il désigne le domaine à partir duquel peuvent être reconstruites les conditions de description, de justification, de stabilisation et de transformation des pratiques descriptives.
