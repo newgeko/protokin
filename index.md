@@ -6,6 +6,8 @@
 >
 > Son objet n’est pas le monde indépendamment de toute description, mais les conditions sous lesquelles des contenus acquièrent un statut descriptif dans des espaces de raisons.
 
+> Ces espaces de raisons supposent l’existence de locuteurs capables d’assumer, de contester et de réviser des engagements normatifs. L’analyse du locuteur constitue donc une composante interne de l’architecture protokinienne.
+
 ---
 
 # 1. Orientation générale
