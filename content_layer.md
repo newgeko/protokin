@@ -370,6 +370,7 @@ Validité
 Stabilisation
         ↓
 Transition éventuelle
+```
 
 Cette représentation ne décrit pas des niveaux du réel.
 
