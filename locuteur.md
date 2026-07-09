@@ -790,6 +790,179 @@ Maintien Révision Transition
 
 ---
 
+# 14. Habilitations discursives
+
+Attribution, reconnaissance et légitimité dans l'espace des raisons
+
+L'analyse du locuteur ne peut se limiter à l'étude des engagements qu'il assume lorsqu'il produit une description.
+
+Toute pratique de justification implique également des mécanismes d'attribution, de reconnaissance et de contestation des positions à partir desquelles ces engagements peuvent être tenus pour recevables.
+
+Protokin désigne cet ensemble de phénomènes sous le terme d'habilitations discursives.
+
+Une habilitation discursive correspond à la reconnaissance normative permettant à un locuteur d'intervenir dans un régime descriptif en étant traité comme un participant légitime aux pratiques de justification qui le constituent.
+
+L'habilitation n'est pas une propriété naturelle du sujet.
+
+Elle n'est ni une capacité biologique, ni une essence psychologique, ni un statut métaphysique.
+
+Elle constitue une position normative attribuée, reconnue, contestée ou retirée au sein de pratiques collectives.
+
+Ainsi, la question :
+
+«« Que décrit ce locuteur ? »»
+
+ne peut être entièrement dissociée de la question :
+
+«« À quelles conditions ce locuteur est-il reconnu comme autorisé à intervenir dans cette pratique descriptive ? »»
+
+L'analyse des descriptions suppose donc également une analyse des conditions de reconnaissance des locuteurs.
+
+---
+
+Engagement et habilitation
+
+Dans l'espace des raisons, l'engagement et l'habilitation constituent deux dimensions étroitement liées mais conceptuellement distinctes.
+
+L'engagement désigne ce qu'un locuteur assume lorsqu'il produit une description.
+
+Il devient alors responsable :
+
+- des conséquences inférentielles de son affirmation ;
+- des justifications qu'elle requiert ;
+- des incompatibilités qu'elle peut produire ;
+- des révisions qu'elle peut rendre nécessaires.
+
+L'habilitation désigne quant à elle ce qui autorise un locuteur à occuper une position recevable dans un régime descriptif donné.
+
+Elle concerne la reconnaissance de sa capacité à intervenir de manière pertinente dans une pratique de justification.
+
+Une même description peut ainsi faire simultanément l'objet de deux évaluations distinctes :
+
+- une évaluation portant sur son contenu ;
+- une évaluation portant sur la légitimité du locuteur à la produire.
+
+Cette distinction joue un rôle central dans de nombreuses situations de controverse, de conflit d'expertise ou de concurrence entre positions descriptives.
+
+---
+
+Dissociation possible entre engagement et habilitation
+
+L'engagement et l'habilitation ne coïncident pas nécessairement.
+
+Un agent peut s'engager dans une description sans que son habilitation soit unanimement reconnue.
+
+Inversement, un locuteur peut bénéficier d'une forte reconnaissance institutionnelle tout en refusant de prendre position.
+
+Cette dissociation constitue une dimension fondamentale des pratiques de justification.
+
+Elle permet notamment de comprendre :
+
+- les controverses scientifiques ;
+- les conflits politiques ;
+- les désaccords institutionnels ;
+- les revendications d'expertise ;
+- les contestations de légitimité ;
+- les phénomènes d'exclusion discursive.
+
+Dans ces situations, le conflit ne porte pas uniquement sur la validité d'une description.
+
+Il porte également sur la question de savoir qui peut être reconnu comme locuteur légitime au sein du régime considéré.
+
+---
+
+Origine sociale des habilitations
+
+Les habilitations discursives ne sont pas produites par un sujet isolé.
+
+Elles émergent au sein de pratiques collectives où les participants attribuent réciproquement des droits, des responsabilités et des formes de reconnaissance.
+
+Cette attribution peut prendre différentes formes :
+
+- confiance pratique ;
+- reconnaissance institutionnelle ;
+- compétence professionnelle ;
+- expertise scientifique ;
+- autorité juridique ;
+- légitimité politique ;
+- maîtrise conceptuelle reconnue.
+
+Selon les contextes, ces formes d'habilitation peuvent être stabilisées, fragiles ou fortement contestées.
+
+Elles demeurent toujours susceptibles de révision.
+
+Aucune habilitation n'est définitivement garantie indépendamment des pratiques qui la soutiennent.
+
+---
+
+Habilitations implicites et explicites
+
+Toutes les habilitations ne sont pas formulées de manière explicite.
+
+De nombreuses pratiques fonctionnent à partir d'attributions implicites de compétence.
+
+Les participants reconnaissent spontanément certains interlocuteurs comme aptes à intervenir sur certains sujets sans que cette reconnaissance fasse l'objet d'une formalisation particulière.
+
+Dans d'autres cas, les habilitations sont explicitement codifiées :
+
+- diplômes ;
+- certifications ;
+- statuts professionnels ;
+- procédures institutionnelles ;
+- règles juridiques ;
+- fonctions organisationnelles.
+
+L'analyse protokinienne ne présuppose aucune hiérarchie entre ces différentes formes.
+
+Elle examine les conditions sous lesquelles elles produisent effectivement des effets de reconnaissance dans une pratique donnée.
+
+---
+
+Les conflits d'habilitation comme objets d'analyse
+
+Les conflits portant sur les habilitations constituent eux-mêmes des phénomènes descriptifs analysables.
+
+Ils apparaissent lorsqu'un locuteur :
+
+- revendique une compétence qui lui est refusée ;
+- conteste une autorité reconnue ;
+- remet en question une procédure de légitimation ;
+- cherche à modifier les critères d'accès à une pratique descriptive.
+
+Dans ces situations, l'objet du désaccord ne concerne plus seulement les descriptions produites.
+
+Le désaccord porte également sur les conditions de participation à l'espace des raisons lui-même.
+
+L'analyse doit alors prendre en compte :
+
+- les mécanismes de reconnaissance ;
+- les procédures d'exclusion ;
+- les critères de légitimité mobilisés ;
+- les modalités de redistribution des habilitations.
+
+---
+
+Conséquence pour l'audit protokinien
+
+L'audit protokinien ne peut se limiter à l'analyse des contenus descriptifs.
+
+Il doit également examiner les structures normatives qui déterminent quels locuteurs peuvent intervenir, selon quelles conditions et avec quelles formes de reconnaissance.
+
+L'enquête porte alors simultanément sur :
+
+- les descriptions produites ;
+- les engagements assumés ;
+- les inférences mobilisées ;
+- les critères de justification ;
+- les régimes descriptifs impliqués ;
+- les mécanismes d'attribution des habilitations.
+
+Cette extension de l'analyse permet d'intégrer dans un même cadre les questions relatives à la validité des descriptions et celles relatives à la légitimité des locuteurs.
+
+Protokin peut ainsi examiner non seulement ce qui est décrit, mais également les conditions normatives sous lesquelles certains acteurs deviennent des participants reconnus de l'espace des raisons.
+
+---
+
 Thèse forte
 
 > Le locuteur n'est pas un sujet préalable aux descriptions.
