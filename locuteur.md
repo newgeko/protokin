@@ -535,6 +535,224 @@ Elle évolue au rythme des transformations qui affectent les régimes auxquels i
 
 Le locuteur est donc moins une substance qu'une position continuellement reconfigurée.
 
+---
+13. Du vivant causal au locuteur normatif
+
+Transition entre espace des causes et espace des raisons
+
+La distinction entre organisme biologique et locuteur constitue une articulation fondamentale de l'architecture Protokin.
+
+Elle permet d'éviter deux réductions symétriques qui menacent toute théorie de la description.
+
+La première consiste à réduire le locuteur à un simple organisme biologique produisant des comportements explicables par des mécanismes causaux.
+
+La seconde consiste à concevoir le locuteur comme une entité purement rationnelle indépendante des conditions matérielles, biologiques et pratiques qui rendent son activité possible.
+
+Protokin refuse ces deux orientations.
+
+L'organisme et le locuteur ne désignent pas deux réalités séparées, mais deux positions analytiques différentes au sein d'une même dynamique de constitution.
+
+L'organisme appartient à l'espace des causes.
+
+Le locuteur appartient à l'espace des raisons.
+
+La question centrale devient alors :
+
+«Comment un organisme inscrit dans des relations causales peut-il participer à un espace normatif où certaines de ses productions deviennent des descriptions justifiables ?»
+
+---
+
+13.1. L'organisme dans l'espace des causes
+
+L'organisme biologique constitue le point de départ matériel de toute activité descriptive.
+
+Il est inscrit dans un ensemble de relations causales qui concernent :
+
+- son métabolisme ;
+- ses capacités perceptives ;
+- ses mécanismes cognitifs ;
+- ses régulations internes ;
+- ses interactions physiques avec son environnement ;
+- ses processus d'adaptation.
+
+Dans cet espace, les comportements sont analysés selon des relations explicatives.
+
+On cherche à comprendre :
+
+«Pourquoi cet organisme agit-il ainsi ?»
+
+ou :
+
+«Quels mécanismes produisent cette réponse comportementale ?»
+
+Ces descriptions relèvent de l'espace des causes.
+
+Elles expliquent le fonctionnement du vivant sans encore lui attribuer une responsabilité normative.
+
+Un organisme peut être décrit comme sensible, adaptable ou complexe sans pour autant être considéré comme un locuteur.
+
+La capacité biologique à réagir à un environnement ne constitue pas encore une capacité à répondre de ses affirmations.
+
+---
+
+13.2. Le passage vers l'espace des raisons
+
+Le passage de l'organisme au locuteur ne correspond pas à l'apparition d'une propriété supplémentaire ajoutée à un système biologique.
+
+Il ne s'agit pas d'un passage mécanique :
+
+complexité biologique
+        ↓
+apparition du langage
+        ↓
+apparition du locuteur
+
+Une telle représentation risquerait de naturaliser la normativité en la traitant comme une simple extension des capacités causales.
+
+Protokin propose une autre compréhension.
+
+Le locuteur apparaît lorsqu'un organisme est intégré dans des pratiques où ses productions peuvent être évaluées selon des normes de correction, de justification et de responsabilité.
+
+La différence essentielle n'est donc pas une différence de substance.
+
+Elle est une différence de position dans un régime de pratiques.
+
+L'organisme fonctionne dans un environnement.
+
+Le locuteur participe à un espace normatif.
+
+---
+
+13.3. La constitution pratique du locuteur
+
+L'accès à l'espace des raisons suppose une immersion dans des pratiques déjà organisées.
+
+L'organisme devient progressivement capable d'occuper une position de locuteur à travers sa participation à :
+
+- des interactions sociales ;
+- des pratiques linguistiques ;
+- des usages d'instruments ;
+- des procédures de correction ;
+- des communautés d'évaluation.
+
+Cette participation transforme le statut de ses productions.
+
+Un comportement peut initialement être décrit causalement :
+
+«L'organisme produit un son dans certaines conditions physiologiques.»
+
+Mais dans un régime discursif, cette même production peut acquérir une dimension normative :
+
+«Le locuteur affirme quelque chose et peut être interrogé sur la justification de cette affirmation.»
+
+La différence ne réside pas simplement dans le phénomène physique observé.
+
+Elle réside dans le régime dans lequel ce phénomène devient interprétable.
+
+---
+
+13.4. Le locuteur comme position normative émergente
+
+Le locuteur ne doit donc pas être compris comme une entité séparée de l'organisme.
+
+Il constitue une position normative émergente au sein d'un organisme capable d'être intégré dans des pratiques descriptives.
+
+Cette émergence possède plusieurs caractéristiques :
+
+- elle dépend de conditions biologiques sans être réductible à celles-ci ;
+- elle dépend de pratiques sociales sans être une simple convention arbitraire ;
+- elle dépend de communautés normatives sans être une simple imitation des normes collectives.
+
+Le locuteur est ainsi une configuration relationnelle.
+
+Il existe dans l'articulation entre :
+
+- un organisme capable d'interactions ;
+- un environnement structuré ;
+- des pratiques normatives ;
+- des communautés de justification.
+
+---
+
+13.5. Non-réduction causale et non-séparation normative
+
+Cette articulation permet à Protokin de maintenir simultanément deux exigences.
+
+Refus de la réduction naturaliste
+
+Le locuteur n'est pas simplement un organisme complexe.
+
+Une description biologique peut expliquer les conditions matérielles de la parole, mais elle ne suffit pas à expliquer ce que signifie être responsable d'une assertion.
+
+Expliquer un comportement n'est pas encore justifier une affirmation.
+
+Refus de la séparation idéaliste
+
+Le locuteur n'existe pas indépendamment du vivant.
+
+Toute activité normative dépend d'organismes situés, de capacités perceptives, de corps, d'instruments et d'environnements matériels.
+
+L'espace des raisons n'est pas suspendu au-dessus du monde causal.
+
+Il s'appuie sur des conditions matérielles qu'il ne peut cependant pas être réduit à décrire.
+
+---
+
+13.6. Schéma protokinien de transition
+
+ESPACE DES CAUSES
+─────────────────
+
+Organisme biologique
+
+- métabolisme
+- perception
+- mémoire
+- régulation
+- adaptation
+- contraintes physiques
+
+          ↓
+
+Immersion dans une niche normative
+
+- pratiques sociales
+- instruments
+- interactions
+- corrections
+- institutions
+
+          ↓
+
+ESPACE DES RAISONS
+──────────────────
+
+Locuteur
+
+- prédication
+- engagements
+- justifications
+- responsabilités
+- révisions
+- transformations
+
+Cette transition ne correspond pas à une sortie de la nature.
+
+Elle correspond à une reconfiguration du type de relations dans lesquelles un être vivant peut être engagé.
+
+---
+
+13.7. Thèse forte
+
+«L'organisme est une entité située dans l'espace des causes : il peut être expliqué par des relations biologiques, physiques et fonctionnelles.»
+
+«Le locuteur est une position située dans l'espace des raisons : il peut être interpellé, justifier ses affirmations, répondre aux objections et réviser ses engagements.»
+
+«Le passage de l'organisme au locuteur ne constitue pas une transformation de substance mais une transformation de participation : un vivant devient locuteur lorsqu'il entre dans des pratiques où ses productions peuvent être évaluées comme des descriptions correctes ou incorrectes.»
+
+Ainsi, Protokin ne cherche ni à réduire la normativité au biologique, ni à détacher la normativité du vivant.
+
+L'enjeu est de comprendre comment un être inscrit dans l'espace des causes peut occuper une position dans l'espace des raisons sans que l'un de ces espaces soit absorbé par l'autre.
 
 ---
 
