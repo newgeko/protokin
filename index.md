@@ -171,6 +171,39 @@ Nouvelle stabilisation ou limite
 
 ---
 
+# 5. Du vivant au locuteur
+
+Cette section explicite la transition entre l’espace des causes et l’espace des raisons.
+
+Documents associés
+
+Du vivant causal au locuteur normatif
+Contexte C et émergence du locuteur
+
+Protokin distingue deux ordres d'analyse :
+les dynamiques causales du vivant ;
+les engagements normatifs du locuteur.
+Le vivant peut être décrit en termes :
+- d’adaptation ;
+- de régulation ;
+- de couplage ;
+- d’histoire évolutive.
+
+Le locuteur apparaît lorsqu’un organisme devient capable de participer à des pratiques où les descriptions sont soumises à des critères de justification.
+
+Cette transition ne désigne ni une rupture métaphysique ni l’apparition d’une substance nouvelle.
+
+Elle correspond à l’entrée dans un espace où deviennent possibles :
+- la prédication ;
+- l’inférence ;
+- l’engagement ;
+- la justification ;
+- la révision des descriptions.
+
+Le locuteur constitue ainsi la condition pragmatique minimale de toute description analysable par Protokin.
+
+---
+
 # 6. Diagnostics : tensions et dérives
 
 Cette section analyse les difficultés rencontrées par les descriptions.
