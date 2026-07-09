@@ -1,11 +1,11 @@
-Le locuteur dans l'architecture Protokin
+# Le locuteur
 
 Position descriptive, participation normative et trajectoire de stabilisation
 
 
 ---
 
-Introduction
+## Introduction
 
 La question du locuteur occupe une place centrale dans l'histoire de la philosophie, de la linguistique et des sciences sociales. Dans de nombreuses traditions théoriques, le locuteur est conçu comme le point de départ de l'analyse : il serait l'entité qui perçoit le monde, forme des représentations, produit des descriptions, énonce des jugements et assume la responsabilité de ses affirmations. Qu'il soit pensé comme conscience, sujet transcendantal, individu rationnel ou acteur social, le locuteur apparaît souvent comme une réalité déjà constituée dont les productions discursives constitueraient l'expression.
 
@@ -28,7 +28,7 @@ L'enjeu de ce fichier est de proposer une théorie protokinienne du locuteur com
 
 ---
 
-1. Le déplacement protokinien
+## 1. Le déplacement protokinien
 
 La plupart des théories classiques commencent par le sujet.
 
@@ -63,7 +63,7 @@ Cette inversion constitue l'un des déplacements les plus importants de l'archit
 
 ---
 
-2. Critique du modèle cartésien du locuteur
+## 2. Critique du modèle cartésien du locuteur
 
 La philosophie moderne a souvent hérité d'une image cartésienne du sujet.
 
@@ -110,7 +110,7 @@ Le locuteur apparaît alors comme le résultat d'une participation à ces relati
 
 ---
 
-3. Le locuteur comme position descriptive
+## 3. Le locuteur comme position descriptive
 
 Dans l'architecture Protokin, le locuteur doit être compris comme une position descriptive.
 
@@ -146,7 +146,7 @@ Sa position dépend toujours des pratiques dans lesquelles il participe et des e
 
 ---
 
-4. Participation avant explicitation
+## 4. Participation avant explicitation
 
 L'un des enjeux centraux de cette théorie concerne l'apprentissage.
 
@@ -194,7 +194,7 @@ Le novice est déjà pris dans le régime avant de pouvoir le décrire.
 
 ---
 
-5. Historicité et trajectoire de participation
+## 5. Historicité et trajectoire de participation
 
 Aucune position de locuteur n'apparaît spontanément.
 
@@ -243,7 +243,7 @@ Le locuteur est un nœud relationnel historiquement constitué.
 
 ---
 
-6. Communautés, reconnaissance et hétérogénéité
+## 6. Communautés, reconnaissance et hétérogénéité
 
 Aucun locuteur ne peut exister indépendamment d'une communauté de pratique.
 
@@ -290,7 +290,7 @@ Elle demeure un processus dynamique de validation et de contestation.
 
 ---
 
-7. Instruments et médiations matérielles
+## 7. Instruments et médiations matérielles
 
 Les descriptions ne sont jamais produites exclusivement à travers le langage.
 
@@ -343,7 +343,7 @@ Il occupe une position au sein d'un réseau de médiations qui participe activem
 
 ---
 
-8. Les voies d'entrée dans un régime descriptif
+## 8. Les voies d'entrée dans un régime descriptif
 
 L'accès à une position de locuteur peut emprunter plusieurs trajectoires.
 
@@ -394,7 +394,7 @@ Inversement, les activités les plus concrètes mobilisent toujours des formes i
 
 ---
 
-9. Prédication et prise de risque normative
+## 9. Prédication et prise de risque normative
 
 La prédication constitue un moment décisif dans la trajectoire du locuteur.
 
@@ -424,7 +424,7 @@ Le locuteur devient comptable de ce qu'il affirme.
 
 ---
 
-10. Justification, contestation et révision
+## 10. Justification, contestation et révision
 
 Aucune description n'est définitivement garantie.
 
@@ -469,7 +469,7 @@ Le locuteur demeure ainsi engagé dans un processus continu de correction et d'a
 
 ---
 
-11. Le locuteur dans le cycle d'audit Protokin
+## 11. Le locuteur dans le cycle d'audit Protokin
 
 Les positions descriptives ne sont jamais définitivement stabilisées.
 
@@ -510,7 +510,7 @@ Elle demeure toujours locale, contextuelle et provisoire.
 
 ---
 
-12. Le locuteur comme nœud relationnel dynamique
+## 12. Le locuteur comme nœud relationnel dynamique
 
 L'analyse précédente conduit à reformuler profondément la notion même de locuteur.
 
@@ -536,7 +536,8 @@ Elle évolue au rythme des transformations qui affectent les régimes auxquels i
 Le locuteur est donc moins une substance qu'une position continuellement reconfigurée.
 
 ---
-13. Du vivant causal au locuteur normatif
+
+## 13. Du vivant causal au locuteur normatif
 
 Transition entre espace des causes et espace des raisons
 
@@ -562,7 +563,7 @@ La question centrale devient alors :
 
 ---
 
-13.1. L'organisme dans l'espace des causes
+### 13.1. L'organisme dans l'espace des causes
 
 L'organisme biologique constitue le point de départ matériel de toute activité descriptive.
 
@@ -595,7 +596,7 @@ La capacité biologique à réagir à un environnement ne constitue pas encore u
 
 ---
 
-13.2. Le passage vers l'espace des raisons
+### 13.2. Le passage vers l'espace des raisons
 
 Le passage de l'organisme au locuteur ne correspond pas à l'apparition d'une propriété supplémentaire ajoutée à un système biologique.
 
@@ -623,7 +624,7 @@ Le locuteur participe à un espace normatif.
 
 ---
 
-13.3. La constitution pratique du locuteur
+### 13.3. La constitution pratique du locuteur
 
 L'accès à l'espace des raisons suppose une immersion dans des pratiques déjà organisées.
 
@@ -651,7 +652,7 @@ Elle réside dans le régime dans lequel ce phénomène devient interprétable.
 
 ---
 
-13.4. Le locuteur comme position normative émergente
+### 13.4. Le locuteur comme position normative émergente
 
 Le locuteur ne doit donc pas être compris comme une entité séparée de l'organisme.
 
@@ -674,7 +675,7 @@ Il existe dans l'articulation entre :
 
 ---
 
-13.5. Non-réduction causale et non-séparation normative
+### 13.5. Non-réduction causale et non-séparation normative
 
 Cette articulation permet à Protokin de maintenir simultanément deux exigences.
 
@@ -698,7 +699,7 @@ Il s'appuie sur des conditions matérielles qu'il ne peut cependant pas être r�
 
 ---
 
-13.6. Schéma protokinien de transition
+### 13.6. Schéma protokinien de transition
 
 ESPACE DES CAUSES
 ─────────────────
@@ -742,7 +743,7 @@ Elle correspond à une reconfiguration du type de relations dans lesquelles un �
 
 ---
 
-13.7. Thèse forte
+### 13.7. Thèse forte
 
 «L'organisme est une entité située dans l'espace des causes : il peut être expliqué par des relations biologiques, physiques et fonctionnelles.»
 
@@ -790,7 +791,7 @@ Maintien Révision Transition
 
 ---
 
-# 14. Habilitations discursives
+## 14. Habilitations discursives
 
 Attribution, reconnaissance et légitimité dans l'espace des raisons
 
@@ -820,7 +821,7 @@ L'analyse des descriptions suppose donc également une analyse des conditions de
 
 ---
 
-Engagement et habilitation
+### Engagement et habilitation
 
 Dans l'espace des raisons, l'engagement et l'habilitation constituent deux dimensions étroitement liées mais conceptuellement distinctes.
 
@@ -846,7 +847,7 @@ Cette distinction joue un rôle central dans de nombreuses situations de controv
 
 ---
 
-Dissociation possible entre engagement et habilitation
+### Dissociation possible entre engagement et habilitation
 
 L'engagement et l'habilitation ne coïncident pas nécessairement.
 
@@ -871,7 +872,7 @@ Il porte également sur la question de savoir qui peut être reconnu comme locut
 
 ---
 
-Origine sociale des habilitations
+### Origine sociale des habilitations
 
 Les habilitations discursives ne sont pas produites par un sujet isolé.
 
@@ -895,7 +896,7 @@ Aucune habilitation n'est définitivement garantie indépendamment des pratiques
 
 ---
 
-Habilitations implicites et explicites
+### Habilitations implicites et explicites
 
 Toutes les habilitations ne sont pas formulées de manière explicite.
 
@@ -918,7 +919,7 @@ Elle examine les conditions sous lesquelles elles produisent effectivement des e
 
 ---
 
-Les conflits d'habilitation comme objets d'analyse
+### Les conflits d'habilitation comme objets d'analyse
 
 Les conflits portant sur les habilitations constituent eux-mêmes des phénomènes descriptifs analysables.
 
@@ -942,7 +943,7 @@ L'analyse doit alors prendre en compte :
 
 ---
 
-Conséquence pour l'audit protokinien
+### Conséquence pour l'audit protokinien
 
 L'audit protokinien ne peut se limiter à l'analyse des contenus descriptifs.
 
@@ -963,7 +964,7 @@ Protokin peut ainsi examiner non seulement ce qui est décrit, mais également l
 
 ---
 
-Thèse forte
+## Thèse forte
 
 > Le locuteur n'est pas un sujet préalable aux descriptions.
 
