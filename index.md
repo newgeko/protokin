@@ -127,7 +127,40 @@ Cette distinction permet d’éviter la réduction des justifications à des exp
 
 ---
 
-# 5. Méthode d’enquête
+# 5. Du vivant au locuteur
+
+Cette section explicite la transition entre l’espace des causes et l’espace des raisons.
+
+Documents associés
+
+Du vivant causal au locuteur normatif
+Contexte C et émergence du locuteur
+
+Protokin distingue deux ordres d'analyse :
+les dynamiques causales du vivant ;
+les engagements normatifs du locuteur.
+Le vivant peut être décrit en termes :
+- d’adaptation ;
+- de régulation ;
+- de couplage ;
+- d’histoire évolutive.
+
+Le locuteur apparaît lorsqu’un organisme devient capable de participer à des pratiques où les descriptions sont soumises à des critères de justification.
+
+Cette transition ne désigne ni une rupture métaphysique ni l’apparition d’une substance nouvelle.
+
+Elle correspond à l’entrée dans un espace où deviennent possibles :
+- la prédication ;
+- l’inférence ;
+- l’engagement ;
+- la justification ;
+- la révision des descriptions.
+
+Le locuteur constitue ainsi la condition pragmatique minimale de toute description analysable par Protokin.
+
+---
+
+# 6. Méthode d’enquête
 
 Cette section présente le fonctionnement analytique de Protokin.
 
@@ -173,40 +206,7 @@ Nouvelle stabilisation ou limite
 
 ---
 
-# 5. Du vivant au locuteur
-
-Cette section explicite la transition entre l’espace des causes et l’espace des raisons.
-
-Documents associés
-
-Du vivant causal au locuteur normatif
-Contexte C et émergence du locuteur
-
-Protokin distingue deux ordres d'analyse :
-les dynamiques causales du vivant ;
-les engagements normatifs du locuteur.
-Le vivant peut être décrit en termes :
-- d’adaptation ;
-- de régulation ;
-- de couplage ;
-- d’histoire évolutive.
-
-Le locuteur apparaît lorsqu’un organisme devient capable de participer à des pratiques où les descriptions sont soumises à des critères de justification.
-
-Cette transition ne désigne ni une rupture métaphysique ni l’apparition d’une substance nouvelle.
-
-Elle correspond à l’entrée dans un espace où deviennent possibles :
-- la prédication ;
-- l’inférence ;
-- l’engagement ;
-- la justification ;
-- la révision des descriptions.
-
-Le locuteur constitue ainsi la condition pragmatique minimale de toute description analysable par Protokin.
-
----
-
-# 6. Diagnostics : tensions et dérives
+# 7. Diagnostics : tensions et dérives
 
 Cette section analyse les difficultés rencontrées par les descriptions.
 
@@ -229,7 +229,7 @@ Les diagnostics protokiniens examinent :
 
 ---
 
-# 7. Transformations des descriptions
+# 8. Transformations des descriptions
 
 Cette section analyse les changements possibles.
 
@@ -253,7 +253,7 @@ Elle désigne :
 
 ---
 
-# 8. Applications et garde-fous
+# 9. Applications et garde-fous
 
 Cette section présente les usages concrets de Protokin.
 
@@ -277,7 +277,7 @@ Elles permettent d’examiner :
 
 ---
 
-# 9. Cartographie théorique
+# 10. Cartographie théorique
 
 Cette section situe Protokin dans son environnement philosophique.
 
@@ -311,7 +311,7 @@ Elles permettent de situer les problèmes traités dans un espace théorique com
 
 ---
 
-# 10. Réflexivité
+# 11. Réflexivité
 
 ## Document associé
 
@@ -327,7 +327,7 @@ La réflexivité constitue une condition interne de cohérence du dispositif.
 
 ---
 
-# 11. Guide de lecture recommandé
+# 12. Guide de lecture recommandé
 
 Pour une première lecture :
 
@@ -349,7 +349,7 @@ Pour une première lecture :
 
 ---
 
-# 12. Principes directeurs
+# 13. Principes directeurs
 
 ## Principe de stabilité
 
