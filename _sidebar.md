@@ -33,7 +33,7 @@ D’où vient-il philosophiquement ? → Cartographie
   - [Influences et correspondances](07_heritages_philosophiques/influences.md)
 
 Comment s'applique-t-il à lui-même ? → Rélexivité
-  - Réflexivité  - [Réflexivité](08_reflexivite/reflexivite.md)
+  - [Réflexivité](08_reflexivite/reflexivite.md)
 
 Quels exemples ? → Applications
   - [Exemples](09_applications/exemples.md)
