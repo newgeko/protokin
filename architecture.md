@@ -194,6 +194,90 @@ L’analyse porte donc sur :
 
 ---
 
+# 5. Le locuteur et l'espace des raisons
+
+## 5.1 Du vivant au locuteur
+
+Les descriptions n'existent pas indépendamment des pratiques dans lesquelles elles sont produites, évaluées, contestées et révisées.
+
+Toute description analysable par Protokin suppose l'existence de participants capables d'assumer des engagements normatifs et de répondre à des demandes de justification.
+
+Protokin distingue ainsi :
+
+- les organismes décrits dans l'espace des causes ;
+- les locuteurs engagés dans l'espace des raisons.
+
+Cette distinction ne renvoie ni à deux substances ni à deux mondes séparés.
+
+Elle correspond à deux formes d'intelligibilité.
+
+Dans l'espace des causes, les phénomènes sont expliqués à partir de relations causales.
+
+Dans l'espace des raisons, les descriptions sont évaluées selon des critères de justification, d'inférence et de responsabilité normative.
+
+Le locuteur apparaît lorsqu'un organisme participe à des pratiques où il devient possible :
+
+- d'affirmer ;
+- de nier ;
+- de justifier ;
+- de contester ;
+- de demander des raisons ;
+- de réviser des descriptions.
+
+L'analyse protokinienne ne cherche pas à expliquer l'origine biologique ou psychologique de cette capacité.
+
+Elle examine les conditions normatives sous lesquelles un participant devient un locuteur au sein d'une pratique de justification.
+
+Voir :
+
+- [`locuteur.md`](locuteur.md)
+- [`causes_raisons.md`](causes_raisons.md)
+
+---
+
+## 5.2 Engagements et habilitations
+
+La participation à une pratique descriptive implique simultanément des engagements et des habilitations.
+
+Les engagements concernent ce qu'un locuteur assume lorsqu'il produit une description.
+
+Ils déterminent :
+
+- les conséquences inférentielles reconnues ;
+- les justifications requises ;
+- les incompatibilités acceptées ;
+- les responsabilités discursives associées.
+
+Les habilitations concernent les conditions sous lesquelles un locuteur est reconnu comme participant légitime à une pratique de justification.
+
+Elles déterminent notamment :
+
+- quelles affirmations peuvent être tenues pour recevables ;
+- quelles inférences peuvent être mobilisées ;
+- quelles compétences sont reconnues ;
+- quelles responsabilités peuvent être attribuées.
+
+L'engagement et l'habilitation sont étroitement liés mais ne coïncident pas nécessairement.
+
+Un locuteur peut s'engager sans que son habilitation soit pleinement reconnue.
+
+Inversement, une habilitation reconnue ne garantit pas qu'un locuteur prenne effectivement position.
+
+Les conflits descriptifs peuvent ainsi porter :
+
+- sur les descriptions elles-mêmes ;
+- sur les engagements qu'elles impliquent ;
+- sur l'attribution des habilitations discursives.
+
+L'analyse protokinienne examine conjointement ces différentes dimensions.
+
+Voir :
+
+- [`locuteur.md`](locuteur.md)
+- [`engagements.md`](engagements.md)
+
+---
+
 # 5. Stabilisation descriptive
 
 ## 5.1 Définition
