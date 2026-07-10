@@ -1,16 +1,31 @@
-Audit — méthode d’enquête de Protokin
+# Audit — méthode d’enquête de Protokin
 
-«L’audit constitue l’opération méthodologique centrale de Protokin.
+> **L’audit constitue l’opération méthodologique centrale de Protokin.**
+>
+> Il vise à expliciter les conditions sous lesquelles une description devient intelligible, stabilisable, justifiable, contestable ou transformable au sein d’une pratique donnée.
 
-Il vise à expliciter les conditions sous lesquelles une description devient intelligible, stabilisable, justifiable, contestable ou transformable au sein d’une pratique donnée.
+> L’audit ne mesure pas l’écart entre une description et une réalité supposée indépendante.
+>
+> Il examine les conditions normatives, inférentielles et descriptives qui rendent possible le fonctionnement d’une description.
 
-L’audit ne mesure pas l’écart entre une description et une réalité supposée indépendante.
-
-Il examine les conditions normatives, inférentielles et descriptives qui rendent possible le fonctionnement d’une description.»
+> Mais l’audit n’est pas un regard neutre.
+>
+> C’est un engagement pragmatique : il propose une reconstruction dont la légitimité ne repose pas sur une position de surplomb, mais sur sa capacité à rendre les régimes plus intelligibles et articulables pour les locuteurs concernés.
 
 ---
 
-1. Fonction générale de l’audit
+## Navigation
+
+- [Architecture générale](../02_architecture_conceptuelle/architecture.md)
+- [Régimes de description](../02_architecture_conceptuelle/regimes.md)
+- [CAP — Cycle d’Audit Protokin](cap.md)
+- [OVM — Opérateur de Vigilance Modale](ovm.md)
+- [Locuteur](locuteur.md)
+- [Analyse](analyse.md)
+
+---
+
+# 1. Fonction générale de l’audit
 
 Dans l’architecture Protokin, l’audit désigne le mouvement d’enquête par lequel une configuration descriptive est rendue analysable.
 
@@ -25,17 +40,28 @@ Son objectif est de rendre explicites :
 
 L’audit ne répond donc pas directement à la question :
 
-«« Qu’est-ce que cet objet est réellement ? »»
+> « Qu’est-ce que cet objet est réellement ? »
 
 Il reformule la question :
 
-«« Sous quelles conditions cette description devient-elle intelligible, recevable, justifiable et transformable ? »»
+> « Sous quelles conditions cette description devient-elle intelligible, recevable, justifiable et transformable ? »
+
+L’audit n’est pas une fin en soi.
+
+Il constitue un moyen de coordination entre locuteurs de régimes différents.
+
+Son succès ne se mesure pas à la vérité supposée de ses conclusions, mais à sa capacité à :
+
+- clarifier les engagements descriptifs ;
+- réduire certaines tensions ;
+- ouvrir des possibilités de traduction ;
+- rendre les désaccords plus intelligibles.
 
 ---
 
-2. Statut de l’audit
+# 2. Statut de l’audit
 
-2.1 L’audit n’est pas une explication causale
+## 2.1 L’audit n’est pas une explication causale
 
 L’audit ne cherche pas à identifier :
 
@@ -47,14 +73,9 @@ Il ne remplace pas les explications produites par les sciences particulières.
 
 Il examine les conditions sous lesquelles ces explications deviennent possibles, recevables et comparables.
 
-Voir :
-
-- "Architecture générale" (../02_architecture_conceptuelle/architecture.md)
-- "Causes et raisons" (../02_architecture_conceptuelle/causes_raisons.md)
-
 ---
 
-2.2 L’audit comme explicitation
+## 2.2 L’audit comme explicitation
 
 Une grande partie des difficultés conceptuelles provient de conditions descriptives implicites.
 
@@ -70,7 +91,65 @@ Il transforme ainsi des présupposés tacites en objets d’examen.
 
 ---
 
-3. Objet de l’audit : la configuration descriptive
+## 2.3 L’audit comme opérateur de dialogue inter-régimes
+
+L’audit n’est pas un jugement prononcé d’en haut.
+
+Il constitue une offre de reconstruction.
+
+Il propose un vocabulaire commun permettant de décrire :
+
+- les engagements de chaque régime ;
+- leurs relations ;
+- leurs points de compatibilité ;
+- leurs tensions.
+
+Il ne dit pas :
+
+> « Vous avez tort. »
+
+Il demande plutôt :
+
+> « Comment cette description fonctionne-t-elle ? »
+>
+> « Quels engagements implique-t-elle ? »
+>
+> « Où apparaissent les tensions ? »
+
+Sa fonction première est la médiation.
+
+---
+
+## 2.4 Légitimité pragmatique
+
+L’audit ne tire sa légitimité :
+
+- ni d’une correspondance privilégiée avec le réel ;
+- ni d’une position extérieure absolue.
+
+Sa légitimité repose sur sa capacité à :
+
+- clarifier les engagements d’un régime ;
+- expliciter ses tensions ;
+- faciliter les articulations possibles ;
+- rendre visibles certaines limites.
+
+La reconnaissance des acteurs concernés constitue un indicateur important de qualité de l’audit.
+
+Cependant, elle n’en constitue ni la condition nécessaire ni la condition suffisante.
+
+Un audit peut révéler des tensions qu’un régime refuse de reconnaître.
+
+Sa validité dépend alors principalement de :
+
+- sa fidélité descriptive ;
+- sa cohérence interne ;
+- sa puissance explicative ;
+- sa capacité à rendre intelligibles les engagements observés.
+
+---
+
+# 3. Objet de l’audit : la configuration descriptive
 
 L’audit commence toujours à partir d’une configuration descriptive.
 
@@ -84,14 +163,9 @@ Une configuration peut correspondre à :
 - un corpus philosophique ;
 - une controverse conceptuelle.
 
-Voir :
-
-- "Architecture générale" (../02_architecture_conceptuelle/architecture.md)
-- "Content Layer" (../02_architecture_conceptuelle/content_layer.md)
-
 ---
 
-3.1 Exemple de configuration
+## 3.1 Exemple de configuration
 
 Une organisation peut être décrite selon plusieurs perspectives :
 
@@ -113,51 +187,31 @@ Il cherche à comprendre :
 
 ---
 
-4. Mouvement général de l’enquête
+# 4. Mouvement général de l’enquête (CAP)
 
-L’audit suit une séquence générale.
+L’audit suit une séquence générale appelée :
 
-Configuration descriptive
+**CAP — Cycle d’Audit Protokin**
 
-↓
+1. Identifier la configuration descriptive.
+2. Expliciter les descriptions mobilisées et leurs régimes.
+3. Comparer les engagements, les critères et les inférences.
+4. Diagnostiquer les tensions et les déplacements.
+5. Transformer ou reconnaître une limite.
 
-Identification des descriptions mobilisées
+Voir également : [CAP — Cycle d’Audit Protokin](cap.md)
 
-↓
+Ce cycle n’est pas un mécanisme automatique.
 
-Identification des régimes concernés
-
-↓
-
-Analyse des engagements
-
-↓
-
-Analyse des critères de validité
-
-↓
-
-Détection des tensions
-
-↓
-
-Analyse des déplacements entre régimes
-
-↓
-
-Évaluation des possibilités de transformation
-
-↓
-
-Nouvelle stabilisation ou limite
+Il constitue une représentation fonctionnelle d’un processus itératif et révisable.
 
 ---
 
-5. Étape 1 — Identifier la configuration descriptive
+# 5. Étape 1 — Identifier la configuration descriptive
 
-Question directrice
+### Question directrice
 
-«Que cherche-t-on à décrire ?»
+> « Que cherche-t-on à décrire ? »
 
 La première étape consiste à identifier la description telle qu’elle apparaît dans une pratique donnée.
 
@@ -170,17 +224,13 @@ L’audit examine :
 
 Une description appartient toujours à un contexte d’usage.
 
-Voir :
-
-- "Architecture générale" (../02_architecture_conceptuelle/architecture.md)
-
 ---
 
-6. Étape 2 — Identifier les régimes mobilisés
+# 6. Étape 2 — Identifier les régimes mobilisés
 
-Question directrice
+### Question directrice
 
-«Dans quel cadre cette description acquiert-elle son sens ?»
+> « Dans quel cadre cette description acquiert-elle son sens ? »
 
 L’audit identifie les régimes impliqués.
 
@@ -195,17 +245,15 @@ Une même configuration peut mobiliser plusieurs régimes.
 
 L’objectif n’est pas de choisir entre eux mais de comprendre leurs relations.
 
-Voir :
-
-- "Régimes de description" (../02_architecture_conceptuelle/regimes.md)
+Voir : [Régimes de description](../02_architecture_conceptuelle/regimes.md)
 
 ---
 
-7. Étape 3 — Expliciter les engagements
+# 7. Étape 3 — Expliciter les engagements
 
-Question directrice
+### Question directrice
 
-«Que faisons-nous lorsque nous adoptons cette description ?»
+> « Que faisons-nous lorsque nous adoptons cette description ? »
 
 Toute description implique des engagements.
 
@@ -220,17 +268,17 @@ Une description n’est donc pas seulement un contenu.
 
 Elle constitue une manière de participer à un espace de justification.
 
-Voir :
+Cette explicitation peut être discutée avec les praticiens du régime concerné.
 
-- "Engagements descriptifs" (../02_architecture_conceptuelle/engagements.md)
+L’auditeur propose une reconstruction susceptible d’être révisée.
 
 ---
 
-8. Étape 4 — Examiner les critères de validité
+# 8. Étape 4 — Examiner les critères de validité
 
-Question directrice
+### Question directrice
 
-«Selon quelles règles cette description est-elle recevable ?»
+> « Selon quelles règles cette description est-elle recevable ? »
 
 L’audit identifie :
 
@@ -239,19 +287,21 @@ L’audit identifie :
 - les procédures de correction ;
 - les conditions de révision.
 
-La validité est toujours relative au régime dans lequel elle fonctionne.
+La validité demeure relative au régime dans lequel elle fonctionne.
 
-Voir :
+L’audit ne juge pas ces critères depuis un point de vue extérieur.
 
-- "Validité" (../05_transformations/validite.md)
+Il examine leur cohérence propre.
+
+La critique est donc principalement immanente.
 
 ---
 
-9. Étape 5 — Détecter les tensions
+# 9. Étape 5 — Détecter les tensions
 
-Question directrice
+### Question directrice
 
-«Où les conditions de stabilisation deviennent-elles problématiques ?»
+> « Où les conditions de stabilisation deviennent-elles problématiques ? »
 
 L’audit recherche les tensions :
 
@@ -260,33 +310,26 @@ L’audit recherche les tensions :
 - liées à des déplacements conceptuels ;
 - liées à des transformations insuffisantes.
 
-Une tension indique une difficulté de stabilisation.
+Une tension n’est pas nécessairement une erreur.
 
-Elle ne constitue pas nécessairement une erreur.
-
-Voir :
-
-- "Tensions" (../04_diagnostics/tensions.md)
-- "Réductions" (../04_diagnostics/reductions.md)
-- "Éclectisme" (../04_diagnostics/eclectisme.md)
+Elle constitue un point d’enquête privilégié.
 
 ---
 
-10. Étape 6 — Examiner les déplacements entre régimes
+# 10. Étape 6 — Examiner les déplacements entre régimes
 
-Question directrice
+### Question directrice
 
-«Que se passe-t-il lorsqu’une description change de cadre d’usage ?»
+> « Que se passe-t-il lorsqu’une description change de cadre d’usage ? »
 
-L’audit examine les déplacements conceptuels.
+L’audit examine :
 
-Il cherche à déterminer :
+- le maintien du statut conceptuel ;
+- la conservation des critères d’application ;
+- les modifications fonctionnelles ;
+- l’apparition éventuelle de nouveaux usages.
 
-- si le statut du concept est conservé ;
-- si les critères d’application demeurent pertinents ;
-- si une nouvelle fonction descriptive apparaît.
-
-Ces déplacements peuvent prendre plusieurs formes :
+Les déplacements peuvent prendre plusieurs formes :
 
 - traduction ;
 - analogie ;
@@ -294,118 +337,112 @@ Ces déplacements peuvent prendre plusieurs formes :
 - réduction ;
 - extension conceptuelle.
 
-Voir :
-
-- "Traductions" (../05_transformations/traductions.md)
-- "Réductions" (../04_diagnostics/reductions.md)
+Voir également : [OVM — Opérateur de Vigilance Modale](ovm.md)
 
 ---
 
-11. Étape 7 — Évaluer les possibilités de transformation
+# 11. Étape 7 — Évaluer les possibilités de transformation
 
-Question directrice
+### Question directrice
 
-«Une nouvelle stabilisation est-elle possible ?»
+> « Une nouvelle stabilisation est-elle possible ? »
 
-Lorsque des tensions persistent, plusieurs issues sont envisageables.
+Lorsque des tensions persistent, plusieurs issues sont envisageables :
 
-Maintien
+### Maintien
 
-Les régimes peuvent continuer à coexister.
+Les régimes continuent à coexister.
 
----
+### Traduction partielle
 
-Traduction partielle
+Une articulation limitée devient possible.
 
-Une articulation contrôlée peut être construite entre descriptions.
+### Reconfiguration
 
-Voir :
+Les critères ou les engagements sont transformés.
 
-- "Traductions" (../05_transformations/traductions.md)
+### Limite
 
----
+Aucune stabilisation satisfaisante n’est actuellement disponible.
 
-Reconfiguration
+L’audit n’impose pas une solution.
 
-Les critères, concepts ou engagements peuvent être transformés.
-
-Voir :
-
-- "Transitions" (../05_transformations/transitions.md)
+Il expose les options et leurs conséquences.
 
 ---
 
-Limite
+# 12. Audit, OVM et CAP
 
-Aucune stabilisation suffisante n’est actuellement disponible.
+## 12.1 L’OVM comme fonction d’audit
 
-Voir :
+L’Opérateur de Vigilance Modale (OVM) examine les changements de statut lors des passages entre régimes.
 
-- "Limites" (../05_transformations/limites.md)
-
----
-
-12. Audit, OVM et CAP
-
-12.1 L’OVM comme fonction d’audit
-
-L’ancien Opérateur de Vigilance Modale (OVM) est intégré à l’audit.
-
-Il ne constitue pas un module autonome.
-
-Il désigne l’examen des changements de statut lors du passage entre régimes.
-
-Cette fonction permet notamment d’identifier :
+Il permet d’identifier :
 
 - les réductions abusives ;
 - les changements implicites de critères ;
 - les transferts non justifiés ;
 - les confusions entre causes et raisons.
 
-Voir :
-
-- "Réductions" (../04_diagnostics/reductions.md)
-- "Traductions" (../05_transformations/traductions.md)
-- "Causes et raisons" (../02_architecture_conceptuelle/causes_raisons.md)
+Voir : [OVM — Opérateur de Vigilance Modale](ovm.md)
 
 ---
 
-12.2 Le CAP comme dynamique de l’enquête
+## 12.2 Le CAP comme dynamique de l’enquête
 
-Le Cycle d’Audit Protokin (CAP) désigne la structure dynamique de l’audit.
+Le CAP suit le mouvement :
 
-Il suit le mouvement :
+> Identifier → Expliciter → Comparer → Diagnostiquer → Transformer ou reconnaître une limite
 
-1. Identifier.
-2. Expliciter.
-3. Comparer.
-4. Diagnostiquer.
-5. Transformer ou reconnaître une limite.
-
-Le CAP n’est pas un mécanisme.
-
-Il constitue une représentation fonctionnelle du mouvement d’enquête.
+Le CAP constitue une représentation fonctionnelle d’un mouvement d’enquête toujours révisable.
 
 ---
 
-13. Audit et distinction causes / raisons
+# 13. Audit et distinction causes / raisons
 
-L’audit maintient la distinction entre :
+L’audit maintient généralement la distinction entre :
 
 - l’espace des causes ;
 - l’espace des raisons.
 
 Une description peut être expliquée causalement sans que ses engagements normatifs disparaissent.
 
-L’audit examine précisément les conditions sous lesquelles ces deux espaces sont articulés, distingués ou confondus.
+L’audit examine les conditions sous lesquelles ces deux espaces :
 
-Voir :
+- sont articulés ;
+- sont distingués ;
+- sont confondus.
 
-- "Causes et raisons" (../02_architecture_conceptuelle/causes_raisons.md)
+Voir : [Locuteur](locuteur.md)
+
+Cette distinction elle-même demeure révisable.
+
+Elle peut être soumise à l’audit lorsqu’un régime estime qu’elle n’est pas pertinente.
 
 ---
 
-14. Audit et réflexivité
+# 14. L’auditeur comme locuteur situé
+
+L’auditeur n’occupe jamais une position extérieure aux régimes qu’il examine.
+
+Il intervient toujours depuis une configuration descriptive déterminée.
+
+Il possède lui-même :
+
+- des catégories ;
+- des engagements ;
+- des critères ;
+- des limites.
+
+L’audit ne supprime pas la situation du locuteur.
+
+Il la rend explicite.
+
+Les catégories utilisées par l’auditeur peuvent elles-mêmes devenir des objets d’audit.
+
+---
+
+# 15. Audit et réflexivité
 
 L’audit peut être appliqué à l’architecture Protokin elle-même.
 
@@ -415,17 +452,27 @@ Cela implique que :
 - ses distinctions restent des outils d’enquête ;
 - ses catégories peuvent être transformées.
 
-Aucune catégorie protokinienne n’est soustraite à l’analyse.
+---
 
-Voir :
+## 15.1 Principe de réciprocité (contre-audit)
 
-- "Réflexivité" (../06_reflexivite/reflexivite.md)
+Tout audit doit être accompagné de la question :
+
+> « Que penserait le régime audité de la validité de l’audit lui-même ? »
+
+Les objections produites depuis le régime audité doivent pouvoir être intégrées dans l’enquête.
+
+Cette clause empêche l’audit de devenir une position de surplomb.
+
+### Formulation synthétique
+
+> Aucun audit n’est complet tant que l’audit lui-même n’a pas été exposé aux critères du régime audité.
 
 ---
 
-15. Limites de l’audit
+# 16. Limites de l’audit
 
-L’audit ne garantit pas une résolution définitive des tensions.
+L’audit ne garantit jamais une résolution définitive.
 
 Il peut conduire :
 
@@ -434,38 +481,41 @@ Il peut conduire :
 - à une reconfiguration conceptuelle ;
 - à une limite ouverte.
 
-Dans ce dernier cas, Protokin enregistre une limite de stabilisation.
-
-Cette limite ne constitue pas un échec.
+Une limite de stabilisation ne constitue pas un échec.
 
 Elle indique simplement l’état actuel des ressources descriptives disponibles.
 
-Voir :
+Toute limite demeure révisable.
 
-- "Limites" (../05_transformations/limites.md)
+L’audit n’est donc jamais un verdict final.
+
+Il ouvre une enquête qui peut être poursuivie, contestée ou transformée.
 
 ---
 
-Conclusion
+# Conclusion
 
 L’audit constitue la méthode d’enquête de Protokin.
 
 Il permet de passer :
 
-- d’une description implicite ;
-- à l’explicitation de ses engagements ;
-- à l’identification de ses régimes ;
-- à l’analyse de ses tensions ;
-- à l’évaluation de ses transformations possibles.
+- d’une description implicite à l’explicitation de ses engagements ;
+- de l’identification des régimes à l’analyse de leurs tensions ;
+- à l’exploration des transformations possibles.
 
 L’audit ne produit pas une description supérieure.
 
-Il rend visibles les conditions sous lesquelles différentes descriptions peuvent être stabilisées, comparées, critiquées et transformées.
+Il rend visibles les conditions sous lesquelles différentes descriptions peuvent être :
+
+- stabilisées ;
+- comparées ;
+- critiquées ;
+- transformées.
+
+Et il le fait avec les acteurs concernés plutôt que sur eux.
 
 ---
 
-Formule synthétique
+# Formule synthétique
 
-«Auditer selon Protokin, ce n’est pas juger une description depuis un point de vue extérieur.
-
-C’est expliciter les conditions qui lui permettent de fonctionner, les tensions qu’elle rencontre et les transformations qu’elle rend possibles.»
+> « Auditer selon Protokin, ce n’est pas juger une description depuis un point de vue extérieur. C’est proposer une reconstruction dialogique de ses engagements, de ses tensions et de ses transformations possibles. L’audit est un opérateur de coordination entre régimes descriptifs. Sa légitimité repose sur sa capacité à rendre les pratiques plus intelligibles, et non sur une position privilégiée. Il demeure toujours révisable, exposé à la critique et ouvert à la poursuite de l’enquête. »
