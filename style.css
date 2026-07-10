@@ -1,242 +1,504 @@
 /* ==========================================================================
-   PROTOKIN — MATRICE GRAPHIQUE (SYSTEME ÉPISTÉMIQUE)
-   VERSION STABILISÉE (DOCSIFY AVEC SIDEBAR)
+   PROTOKIN — INTERFACE DES RÉGIMES DESCRIPTIFS
+   Design : Archive épistémique / laboratoire conceptuel
    ========================================================================== */
+
 
 :root {
 
-  --theme-color: #1a2a3a;
-  --text-color-main: #2c3e50;
-  --text-color-muted: #7f8c8d;
-  --border-color: #eef2f5;
-  --accent-color: #3498db;
+  /* ===============================
+     PALETTE FONDAMENTALE
+     =============================== */
 
-  --regime-physique: #3498db;
-  --regime-cognitif: #9b59b6;
-  --regime-biologique: #2ecc71;
-  --regime-normatif: #e67e22;
-  --regime-meta: #e74c3c;
+  --proto-black:#111820;
+  --proto-blue:#1d4966;
+  --proto-cyan:#3aa6b9;
 
-  --font-global: 'Noto Serif', Georgia, serif;
-  --font-interface: 'Noto Sans', sans-serif;
+  --proto-paper:#f8f7f2;
+  --proto-white:#ffffff;
 
-  --base-font-size:16px;
-  --content-max-width:850px;
+  --proto-line:#d9e1e6;
+
+  --proto-text:#263238;
+  --proto-muted:#72808a;
+
+
+  /* Régimes */
+
+  --cause-color:#2878a8;
+  --life-color:#3b9564;
+  --reason-color:#b36b21;
+  --meta-color:#8d3c7c;
+
+
+  /* Typographie */
+
+  --font-body:
+  "Noto Serif",
+  "Georgia",
+  serif;
+
+  --font-ui:
+  "Noto Sans",
+  "Inter",
+  sans-serif;
+
+
 }
+
 
 
 /* ==========================================================================
-   RESET DOCSIFY
+   STRUCTURE GENERALE
    ========================================================================== */
 
-/* Sidebar Docsify ACTIVE */
-
-.sidebar {
-  display:block !important;
-  width:300px !important;
-  background:#ffffff;
-  border-right:1px solid var(--border-color);
-}
-
-
-/* Bouton mobile sidebar */
-
-.sidebar-toggle {
-  display:block !important;
-}
-
-
-/* Navigation haute masquée */
-
-.app-nav {
-  display:none !important;
-}
-
-
-/* Recherche Docsify ACTIVE */
-/* Supprimer cette partie si vous voulez garder la recherche */
-
-.search {
-  display:block !important;
-}
-
-
-/* Layout principal */
-
-.content {
-
-  margin-left:300px !important;
-
-  max-width:var(--content-max-width);
-
-  padding:60px 40px !important;
-
-}
-
-
-/* Zone markdown */
-
-.markdown-section {
-
-  max-width:var(--content-max-width);
-
-  margin:auto;
-
-}
-
-
-/* ==========================================================================
-   TYPOGRAPHIE
-   ========================================================================== */
 
 body {
 
-  font-family:var(--font-global);
+  background:
+  linear-gradient(
+    90deg,
+    rgba(30,70,90,0.04),
+    transparent 40%
+  ),
+  var(--proto-paper);
 
-  color:var(--text-color-main);
 
-  font-size:var(--base-font-size);
+  color:var(--proto-text);
 
-  line-height:1.75;
+  font-family:var(--font-body);
 
 }
 
 
 
 /* ==========================================================================
-   TITRES
+   SIDEBAR — CARTOGRAPHIE DES REGIMES
    ========================================================================== */
 
 
-h1,h2,h3,h4 {
+.sidebar {
 
-  font-family:var(--font-interface);
 
-  color:var(--theme-color);
+  background:
+
+  linear-gradient(
+  180deg,
+  #ffffff,
+  #f1f5f7
+  );
+
+
+  border-right:
+
+  1px solid var(--proto-line);
+
+
+  width:300px;
+
 
 }
+
+
+/* Logo */
+
+.app-name {
+
+
+  padding:30px 25px;
+
+
+}
+
+
+
+.protokin-logo-title {
+
+
+font-family:var(--font-ui);
+
+font-size:1.5rem;
+
+letter-spacing:5px;
+
+font-weight:800;
+
+color:var(--proto-black);
+
+}
+
+
+.protokin-logo-subtitle {
+
+
+font-family:var(--font-ui);
+
+font-size:.65rem;
+
+letter-spacing:2px;
+
+color:var(--proto-muted);
+
+}
+
+
+
+/* Liens sidebar */
+
+
+.sidebar-nav {
+
+
+padding:20px;
+
+}
+
+
+
+.sidebar-nav li {
+
+
+margin-bottom:8px;
+
+
+}
+
+
+
+.sidebar-nav a {
+
+
+font-family:var(--font-ui);
+
+font-size:.9rem;
+
+color:#40515c;
+
+
+border-left:
+
+2px solid transparent;
+
+
+padding-left:12px;
+
+
+transition:.3s;
+
+
+}
+
+
+.sidebar-nav a:hover {
+
+
+color:var(--proto-blue);
+
+
+border-left:
+
+2px solid var(--proto-cyan);
+
+
+}
+
+
+
+/* Page active */
+
+
+.sidebar-nav li.active>a {
+
+
+color:var(--proto-blue);
+
+font-weight:700;
+
+border-left:
+
+3px solid var(--proto-blue);
+
+
+}
+
+
+
+
+
+/* ==========================================================================
+   ZONE TEXTE
+   ========================================================================== */
+
+
+.content {
+
+
+margin-left:300px;
+
+
+padding:
+
+70px 60px;
+
+
+}
+
+
+
+.markdown-section {
+
+
+max-width:900px;
+
+
+}
+
+
+
+
+
+/* ==========================================================================
+   TITRES : STRUCTURE THEORIQUE
+   ========================================================================== */
+
+
+h1,h2,h3 {
+
+
+font-family:var(--font-ui);
+
+color:var(--proto-black);
+
+}
+
 
 
 h1 {
 
-  font-size:2.4em;
 
-  font-weight:800;
+font-size:2.6rem;
+
+letter-spacing:-1px;
+
+
+border-bottom:
+
+1px solid var(--proto-line);
+
+
+padding-bottom:20px;
+
 
 }
+
 
 
 h2 {
 
-  margin-top:2.5rem;
 
-  padding-left:10px;
+margin-top:3rem;
 
-  border-left:3px solid var(--theme-color);
+
+border-left:
+
+4px solid var(--proto-blue);
+
+
+padding-left:15px;
+
 
 }
+
+
 
 
 
 /* ==========================================================================
-   LIENS
-   ========================================================================== */
-
-
-a {
-
- color:var(--accent-color);
-
- text-decoration:none;
-
-}
-
-
-a:hover {
-
- color:var(--theme-color);
-
-}
-
-
-
-/* ==========================================================================
-   BLOCS PROTOKIN
+   BLOCS CONCEPTUELS PROTOKIN
    ========================================================================== */
 
 
 blockquote {
 
- border-left:4px solid var(--theme-color);
 
- background:#fcfdfe;
+background:white;
 
- padding:15px 20px;
 
- margin:2em 0;
+border-left:
+
+5px solid var(--proto-blue);
+
+
+padding:
+
+20px 25px;
+
+
+box-shadow:
+
+0 4px 15px rgba(0,0,0,.04);
+
+
+}
+
+
+
+/* espace des causes */
+
+.causes {
+
+
+border-left:
+
+5px solid var(--cause-color);
+
+
+background:#eef7fc;
+
+
+padding:20px;
+
+
+}
+
+
+
+/* vivant */
+
+.vivant {
+
+
+border-left:
+
+5px solid var(--life-color);
+
+
+background:#f0faf3;
+
+
+padding:20px;
+
+
+}
+
+
+
+/* espace des raisons */
+
+.raisons {
+
+
+border-left:
+
+5px solid var(--reason-color);
+
+
+background:#fff7ed;
+
+
+padding:20px;
+
+
+}
+
+
+
+/* métathéorie */
+
+
+.meta {
+
+
+border-left:
+
+5px solid var(--meta-color);
+
+
+background:#faf0fa;
+
+
+padding:20px;
+
+
+}
+
+
+
+
+
+/* ==========================================================================
+   EQUATIONS
+   ========================================================================== */
+
+
+.katex-display {
+
+
+background:white;
+
+
+border:
+
+1px solid var(--proto-line);
+
+
+padding:20px;
+
+
+border-radius:8px;
+
 
 }
 
 
 
 /* ==========================================================================
-   CODE
+   CODE / FORMALISATION
    ========================================================================== */
-
-
-code {
-
- font-family:'Fira Code',monospace;
-
-}
 
 
 pre {
 
- background:#f6f8fa;
 
- border-left:3px solid var(--accent-color);
+background:#101820;
 
- padding:12px;
+
+color:#e8f0f4;
+
+
+border-radius:8px;
+
+
+padding:20px;
+
 
 }
+
+
 
 
 
 /* ==========================================================================
-   BLOCS SEMANTIQUES
+   FOOTER
    ========================================================================== */
 
 
-.tension {
-
- border-left:4px solid var(--regime-meta);
-
- background:#fff5f5;
-
- padding:12px 15px;
-
-}
+footer {
 
 
-.transition {
-
- border-left:4px solid var(--regime-biologique);
-
- background:#f4fff7;
-
- padding:12px 15px;
-
-}
+font-family:var(--font-ui);
 
 
-.regime {
+font-size:.8rem;
 
- border-left:4px solid var(--regime-cognitif);
 
- background:#f8f7ff;
+color:var(--proto-muted);
 
- padding:12px 15px;
+
+border-top:
+
+1px solid var(--proto-line);
+
 
 }
 
@@ -247,21 +509,27 @@ pre {
    ========================================================================== */
 
 
-@media screen and (max-width:768px){
+@media(max-width:768px){
 
 
 .sidebar {
 
- width:260px !important;
+
+width:260px;
+
 
 }
 
 
+
 .content {
 
- margin-left:0 !important;
 
- padding:25px 15px !important;
+margin-left:0;
+
+
+padding:30px 20px;
+
 
 }
 
