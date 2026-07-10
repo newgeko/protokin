@@ -523,21 +523,31 @@ Voir :
 
 # Conclusion
 
-Protokin est une architecture d’analyse des conditions de stabilisation des descriptions.
+Protokin est une architecture d'analyse des conditions de stabilisation des descriptions.
 
 Il ne cherche pas à produire une description ultime du monde.
 
 Il cherche à comprendre :
 
+- comment des locuteurs deviennent capables de participer à des pratiques de justification ;
+- comment leurs engagements sont reconnus, contestés ou révisés ;
 - comment les descriptions deviennent possibles ;
 - comment elles acquièrent une validité locale ;
 - comment elles entrent en tension ;
 - comment elles peuvent être transformées.
 
+L'analyse porte ainsi simultanément sur :
+
+- les descriptions ;
+- les régimes qui les organisent ;
+- les positions normatives à partir desquelles elles peuvent être produites.
+
 ---
 
 # Formule synthétique
 
-> **Protokin n’est pas une théorie du monde.**
+> **Protokin n'est pas une théorie du monde.**
 >
-> **C’est une architecture d’analyse des conditions sous lesquelles des descriptions du monde peuvent devenir intelligibles, justifiables et transformables.**
+> **C'est une architecture d'analyse des conditions sous lesquelles des locuteurs, au sein de pratiques de justification, produisent des descriptions susceptibles de devenir intelligibles, justifiables et transformables.**
+
+---
