@@ -1,6 +1,6 @@
 # En une phrase
 
-« Protokin est une métathéorie pragmatiste, inférentialiste et non-ontologique visant à expliciter les conditions normatives sous lesquelles des descriptions deviennent intelligibles, recevables, incompatibles ou transformables au sein de pratiques de justification. »
+> **Protokin est une métathéorie pragmatiste, inférentialiste et non-ontologique visant à expliciter les conditions causales, normatives et inférentielles sous lesquelles des contenus deviennent des descriptions intelligibles, recevables, incompatibles ou transformables pour des locuteurs engagés dans des pratiques de justification.**
 
 ---
 
@@ -8,105 +8,136 @@
 
 Cette formulation résume l’orientation générale du projet.
 
-Protokin ne vise pas à produire une théorie du monde, mais à expliciter les conditions sous lesquelles des énoncés acquièrent un contenu déterminé dans des pratiques de justification.
+Protokin ne cherche pas à produire une théorie du monde indépendante de toute description.
 
-L’enjeu n’est pas de décrire des objets, mais de rendre visibles les normes implicites qui structurent les usages descriptifs.
+Il cherche à expliciter les conditions sous lesquelles des contenus acquièrent un statut descriptif dans des pratiques de justification.
+
+L’enjeu n’est donc pas seulement d’étudier ce qui est décrit, mais d’analyser :
+
+- les régimes qui rendent une description possible ;
+- les engagements qu’elle implique ;
+- les inférences qu’elle autorise ;
+- les conditions de sa transformation.
 
 ---
 
 ## Une métathéorie
 
-Protokin ne constitue pas une théorie de premier ordre portant sur des domaines empiriques particuliers.
+Protokin ne constitue pas une théorie de premier ordre portant sur un domaine empirique particulier.
 
-Il s’agit d’un cadre d’analyse portant sur les pratiques de description elles-mêmes.
+Il s’agit d’une architecture d’analyse portant sur les conditions de production, de stabilisation et de transformation des descriptions.
 
 Son objectif est de rendre explicites :
 
-- les engagements implicites dans les discours ;
+- les engagements associés aux descriptions ;
 - les relations d’inférence entre énoncés ;
-- les conditions de cohérence interne des usages conceptuels ;
-- les critères de révision des engagements descriptifs.
+- les critères de recevabilité ;
+- les tensions entre régimes ;
+- les possibilités de réorganisation conceptuelle.
 
 ---
 
 ## Une approche pragmatiste
 
-Dans la tradition de Charles Sanders Peirce, John Dewey et Richard Rorty, les descriptions sont comprises comme des instruments de coordination et de stabilisation des pratiques.
+Dans la continuité du pragmatisme, les descriptions sont comprises comme des pratiques situées permettant d’organiser des relations avec le monde.
 
-Une théorie, un modèle ou une catégorie conceptuelle ne sont pas évalués par leur correspondance à un réel indépendant, mais par leur rôle dans la structuration des pratiques de justification et d’action.
+Une description n’est pas évaluée uniquement comme une représentation d’un état de fait.
 
-La question n’est donc pas :
+Elle est également évaluée selon :
 
-> “Cette description représente-t-elle correctement la réalité ?”
+- ses usages ;
+- ses conséquences ;
+- sa capacité de coordination ;
+- sa résistance aux objections ;
+- sa puissance de justification.
 
-mais :
+La question protokinienne n’est donc pas seulement :
 
-> “Quels engagements implique-t-elle et quelles conséquences autorise-t-elle ?”
+> « Cette description correspond-elle au réel ? »
+
+Mais :
+
+> « Dans quel régime cette description devient-elle intelligible, justifiable et stabilisable ? »
 
 ---
 
 ## Une conception inférentialiste du sens
 
-À la suite de Wilfrid Sellars et de Robert Brandom, la signification est comprise en termes de rôle inférentiel.
+À la suite de Wilfrid Sellars et Robert Brandom, Protokin considère que le contenu conceptuel dépend du rôle qu’un énoncé occupe dans un réseau d’inférences.
 
-Comprendre un concept consiste à maîtriser :
+Comprendre une description consiste à analyser :
 
-- les inférences qu’il autorise ;
-- les engagements qu’il implique ;
-- les incompatibilités qu’il entraîne ;
-- les conditions de son usage légitime.
+- les engagements qu’elle implique ;
+- les conséquences qu’elle autorise ;
+- les incompatibilités qu’elle produit ;
+- les conditions de sa révision.
 
-Le contenu conceptuel n’est pas donné par une relation directe à un objet, mais par sa place dans un espace de raisons.
+Le sens d’une description dépend donc de sa position dans un espace de raisons.
 
 ---
 
 ## Une posture non-ontologique
 
-Protokin ne présuppose pas d’ontologie privilégiée.
+Protokin ne propose pas une ontologie concurrente.
 
-Il suspend la question de ce qui existe indépendamment des pratiques de description afin de se concentrer sur une question différente :
+Il ne cherche pas à déterminer ce que le monde est indépendamment de toute pratique descriptive.
 
-> Sous quelles conditions une description devient-elle intelligible et justifiable dans un contexte donné ?
+Il analyse les conditions sous lesquelles quelque chose peut devenir descriptible.
 
-Les ensembles de pratiques descriptives ne sont pas des niveaux du réel, mais des organisations locales de normes inférentielles.
+Ainsi :
 
----
+> **Avant de demander ce qui existe, Protokin demande dans quelles conditions quelque chose peut être décrit comme existant.**
 
-## Explicitation des pratiques de justification
+Les régimes descriptifs ne sont pas des niveaux du réel.
 
-Les pratiques de description impliquent des ensembles de critères permettant d’évaluer :
-
-- ce qui compte comme objet pertinent ;
-- ce qui compte comme raison valide ;
-- ce qui compte comme inférence autorisée ;
-- ce qui compte comme incompatibilité.
-
-L’analyse consiste à rendre explicites ces critères tels qu’ils sont effectivement mobilisés.
+Ils constituent des organisations normatives des conditions d’intelligibilité.
 
 ---
 
-## Explicitation des conflits normatifs
+## Le rôle du locuteur
 
-Des tensions apparaissent lorsque des engagements issus de pratiques différentes entrent en incompatibilité.
+Une description n’existe pas indépendamment d’une pratique capable de l’assumer, de la contester et de la réviser.
 
-Ces tensions ne sont pas des erreurs factuelles, mais des conflits entre ensembles de normes.
+Le locuteur occupe donc une position centrale.
 
-Elles peuvent apparaître lorsque des inférences issues d’un domaine sont transférées dans un autre sans ajustement de leurs conditions d’usage.
+Il constitue le point de passage entre :
+
+- l’espace des causes ;
+- l’espace des raisons.
+
+Protokin distingue ainsi :
+
+- les conditions matérielles et biologiques qui rendent possible un système capable de description ;
+- les pratiques normatives dans lesquelles ce système peut produire et défendre des engagements.
 
 ---
 
-## Explicitation des transitions normatives
+## Explicitation des conflits et transformations
 
-Lorsque les engagements d’un ensemble de pratiques ne peuvent plus être maintenus de manière cohérente, des réorganisations deviennent possibles.
+Les tensions apparaissent lorsque :
 
-Ces transitions ne correspondent pas à une découverte de vérité ultime, mais à une reconfiguration des normes permettant de restaurer une cohérence locale.
+- des engagements deviennent incompatibles ;
+- plusieurs régimes utilisent des critères différents ;
+- une description est déplacée hors de ses conditions propres d’usage.
+
+Ces tensions ne sont pas seulement des erreurs.
+
+Elles constituent des occasions d’analyse et de transformation.
+
+Une transition protokinienne désigne une reconfiguration des conditions permettant à une description de rester intelligible et justifiable.
 
 ---
 
 ## En résumé
 
-Protokin n’est ni une ontologie, ni une théorie scientifique particulière, ni une philosophie de la conscience.
+Protokin n’est :
 
-Il s’agit d’un cadre d’explicitation des pratiques de justification, visant à rendre visibles les engagements normatifs qui structurent nos descriptions, ainsi que les tensions et transformations qui en résultent.
+- ni une ontologie ;
+- ni une théorie scientifique particulière ;
+- ni une théorie générale du monde.
 
-En ce sens, Protokin peut être compris comme une méthode d’explicitation des espaces de raisons dans lesquels les discours prennent sens.
+Il constitue une architecture d’analyse des conditions sous lesquelles des locuteurs produisent, stabilisent, contestent et transforment des descriptions.
+
+Son objet n’est pas le monde séparé de toute description.
+
+Son objet est le mouvement par lequel des descriptions deviennent possibles dans des espaces de raisons.
