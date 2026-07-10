@@ -12,7 +12,6 @@ Comment fonctionne-t-il ? → Architecture
   - [Locuteur normatif](02_architecture_conceptuelle/locuteur.md)
 
 Comment l’utiliser ? → Méthode d’enquête
-  - [Analyse](03_methode_enquete/analyse.md)
   - [Audit](03_methode_enquete/audit.md)
 
 Quels problèmes analyse-t-il ? → Diagnostics
