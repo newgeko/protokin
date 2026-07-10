@@ -1,8 +1,8 @@
 # Statut du projet Protokin
 
-> **Protokin est une architecture métathéorique pragmatiste, inférentialiste et non ontologique d’analyse des conditions de description et de justification.**
+> **Protokin est une architecture métathéorique pragmatiste, inférentialiste et non ontologique analysant les conditions causales, normatives et inférentielles sous lesquelles des contenus deviennent des descriptions intelligibles, recevables et transformables dans des pratiques de justification.**
 >
-> Il étudie les conditions sous lesquelles des descriptions deviennent intelligibles, recevables, incompatibles ou transformables au sein de pratiques de justification.
+> Il étudie les conditions sous lesquelles des descriptions peuvent être stabilisées, contestées et révisées par des locuteurs engagés dans des espaces de raisons.
 
 ---
 
@@ -10,14 +10,16 @@
 
 Protokin constitue une architecture d’analyse de second ordre.
 
-Il ne cherche pas à décrire directement les objets du monde, mais à examiner les conditions sous lesquelles ces objets peuvent devenir descriptibles dans des pratiques déterminées.
+Il ne cherche pas à décrire directement les objets du monde indépendamment de toute pratique descriptive.
+
+Il examine les conditions sous lesquelles quelque chose peut devenir un objet descriptible dans un régime donné.
 
 Protokin ne constitue :
 
 - ni une théorie générale du monde ;
 - ni une ontologie concurrente des sciences ;
 - ni un système explicatif de premier ordre ;
-- ni une hiérarchie des formes de connaissance.
+- ni une hiérarchie absolue des formes de connaissance.
 
 Il ne cherche donc pas à déterminer :
 
@@ -25,12 +27,15 @@ Il ne cherche donc pas à déterminer :
 
 Son objet est différent :
 
-> **« Les conditions sous lesquelles des contenus deviennent descriptibles, justifiables et stabilisables dans différents cadres de description. »**
+> **Les conditions sous lesquelles des contenus deviennent descriptibles, justifiables et stabilisables dans des pratiques de description et de justification.**
+
+Protokin analyse également comment un système appartenant initialement à un espace causal peut devenir capable de participer à un espace normatif de raisons.
 
 Voir :
 
-- [Index du projet](index.md)
-- [Architecture générale](architecture.md)
+- [Index du projet](../index.md)
+- [Architecture générale](../02_architecture_conceptuelle/architecture.md)
+- [Du vivant causal au locuteur normatif](../02_architecture_conceptuelle/locuteur.md)
 
 ---
 
@@ -48,12 +53,20 @@ Il cherche à reconstruire les conditions qui permettent à une description :
 - d’entrer en relation avec d’autres descriptions ;
 - d’être transformée lorsque ses conditions de stabilisation deviennent insuffisantes.
 
-L’objet de Protokin n’est donc pas le contenu particulier d’une théorie, mais la structure normative et inférentielle qui rend ce contenu possible.
+L’objet de Protokin n’est donc pas seulement le contenu particulier d’une théorie.
+
+Il concerne la structure :
+
+- normative ;
+- inférentielle ;
+- pragmatique ;
+
+qui rend ce contenu descriptif possible.
 
 Voir :
 
-- [Architecture](architecture.md)
-- [Régimes de description](regimes.md)
+- [Architecture générale](../02_architecture_conceptuelle/architecture.md)
+- [Régimes de description](../02_architecture_conceptuelle/regimes.md)
 
 ---
 
@@ -61,7 +74,7 @@ Voir :
 
 Protokin s’inscrit dans une orientation pragmatiste.
 
-Dans cette perspective, les descriptions ne sont pas considérées comme des copies passives d’un monde déjà constitué.
+Les descriptions ne sont pas considérées comme des copies passives d’un monde déjà constitué.
 
 Elles sont comprises comme des pratiques d’engagement permettant :
 
@@ -71,16 +84,16 @@ Elles sont comprises comme des pratiques d’engagement permettant :
 - de coordonner des actions ;
 - de soutenir des formes de justification.
 
-Une description possède donc un sens à travers les usages, les conséquences et les pratiques dans lesquelles elle fonctionne.
+Une description possède donc un sens à travers les pratiques dans lesquelles elle fonctionne.
 
-Un régime de description peut ainsi être compris comme :
+Un régime descriptif peut ainsi être compris comme :
 
-> **Un ensemble de contraintes descriptives et normatives stabilisant certaines formes d’intelligibilité.**
+> **Une organisation de contraintes conceptuelles, normatives et inférentielles stabilisant certaines formes d’intelligibilité.**
 
 Voir :
 
-- [Régimes](regimes.md)
-- [Engagements](engagements.md)
+- [Régimes de description](../02_architecture_conceptuelle/regimes.md)
+- [Engagements descriptifs](../02_architecture_conceptuelle/engagements.md)
 
 ---
 
@@ -97,14 +110,14 @@ Une description implique :
 - des incompatibilités reconnues ;
 - des responsabilités discursives.
 
-Le contenu d’une description ne réside donc pas seulement dans ses éléments internes.
+Le contenu descriptif ne réside donc pas seulement dans un énoncé isolé.
 
 Il dépend de sa place dans un espace de raisons.
 
 Voir :
 
-- [Engagements](engagements.md)
-- [Causes et raisons](causes_raisons.md)
+- [Engagements descriptifs](../02_architecture_conceptuelle/engagements.md)
+- [Causes et raisons](../02_architecture_conceptuelle/causes_raisons.md)
 
 ---
 
@@ -116,7 +129,7 @@ Il ne cherche pas à établir :
 
 - les structures fondamentales du réel ;
 - une classification ultime des êtres ;
-- une hiérarchie entre différents niveaux d’existence.
+- une hiérarchie absolue entre différents niveaux d’existence.
 
 Il suspend méthodologiquement la question :
 
@@ -124,61 +137,78 @@ Il suspend méthodologiquement la question :
 
 afin d’examiner une autre question :
 
-> **« Sous quelles conditions quelque chose devient-il un objet descriptible, justifiable et stabilisable dans une pratique donnée ? »**
+> **Sous quelles conditions quelque chose devient-il un objet descriptible, justifiable et stabilisable dans une pratique donnée ?**
 
-Les régimes de description ne correspondent donc pas à des parties du réel.
+Les régimes descriptifs ne correspondent donc pas à des parties du réel.
 
-Ils constituent des cadres de contraintes permettant certaines formes d’intelligibilité.
+Ils constituent des cadres normatifs d’intelligibilité.
 
 Voir :
 
-- [Architecture](architecture.md)
-- [Régimes](regimes.md)
+- [Architecture générale](../02_architecture_conceptuelle/architecture.md)
+- [Régimes de description](../02_architecture_conceptuelle/regimes.md)
 
 ---
 
-# 6. Distinction centrale : espace des causes et espace des raisons
+# 6. Distinction centrale : PROTO, KIN et espaces des causes et des raisons
 
-Protokin maintient une distinction entre deux formes d’analyse.
+Protokin maintient une distinction fondamentale entre deux dimensions d’analyse.
 
-## 6.1 Espace des causes
+Cette distinction ne correspond pas à deux mondes séparés.
 
-L’espace des causes concerne les relations explicatives portant sur :
-
-- les mécanismes ;
-- les régularités ;
-- les dépendances ;
-- les processus.
-
-Il répond principalement à des questions du type :
-
-> « Comment un phénomène se produit-il ? »
+Elle décrit deux modalités différentes d’un même phénomène.
 
 ---
 
-## 6.2 Espace des raisons
+## 6.1 PROTO — Espace des causes
 
-L’espace des raisons concerne les relations normatives portant sur :
+PROTO désigne la dimension causale.
+
+Elle concerne :
+
+- les processus physiques ;
+- les dynamiques biologiques ;
+- les contraintes matérielles ;
+- les régulations ;
+- les conditions d’émergence.
+
+PROTO répond principalement à la question :
+
+> « Comment un phénomène advient-il ? »
+
+---
+
+## 6.2 KIN — Espace des raisons
+
+KIN désigne la dimension normative.
+
+Elle concerne :
 
 - les engagements ;
 - les justifications ;
-- les inférences ;
+- les critiques ;
+- les révisions ;
 - les responsabilités discursives.
 
-Il répond principalement à des questions du type :
+KIN répond principalement à la question :
 
-> « Pourquoi cette description peut-elle être défendue dans un cadre donné ? »
+> « Comment une description peut-elle être soutenue ou contestée ? »
 
 ---
 
-Protokin ne réduit pas un espace à l’autre.
+Le problème central de Protokin devient alors :
 
-Il analyse les conditions dans lesquelles des déplacements entre explication causale et justification normative deviennent problématiques.
+> **Comment un système appartenant à l’espace des causes peut-il devenir un participant dans un espace de raisons ?**
+
+Cette transition correspond au passage :
+
+- de l’organisme causal ;
+- au locuteur normatif.
 
 Voir :
 
-- [Causes et raisons](causes_raisons.md)
-- [Réductions](reductions.md)
+- [Causes et raisons](../02_architecture_conceptuelle/causes_raisons.md)
+- [Du vivant causal au locuteur normatif](../02_architecture_conceptuelle/locuteur.md)
 
 ---
 
@@ -203,8 +233,8 @@ Il constitue une structure fonctionnelle permettant d’analyser les conditions 
 
 Voir :
 
-- [Régimes](regimes.md)
-- [Validité](validite.md)
+- [Régimes de description](../02_architecture_conceptuelle/regimes.md)
+- [Validité](../05_transformations/validite.md)
 
 ---
 
@@ -220,7 +250,7 @@ Elles désignent les situations dans lesquelles plusieurs engagements ou critèr
 
 Voir :
 
-- [Tensions](tensions.md)
+- [Tensions](../04_diagnostics/tensions.md)
 
 ---
 
@@ -230,7 +260,7 @@ Elles désignent les reconfigurations des conditions permettant à une descripti
 
 Voir :
 
-- [Transitions](transitions.md)
+- [Transitions](../05_transformations/transitions.md)
 
 ---
 
@@ -240,7 +270,7 @@ Elles désignent les situations dans lesquelles aucune stabilisation suffisante 
 
 Voir :
 
-- [Limites](limites.md)
+- [Limites de stabilisation](../05_transformations/limites.md)
 
 ---
 
@@ -267,9 +297,9 @@ Elles rendent explicites les conditions sous lesquelles une transformation descr
 
 Voir :
 
-- [Analyse](analyse.md)
-- [Audit](audit.md)
-- [Traductions](traductions.md)
+- [Analyse](../03_methode_enquete/analyse.md)
+- [Audit](../03_methode_enquete/audit.md)
+- [Traductions entre régimes](../05_transformations/traductions.md)
 
 ---
 
@@ -288,7 +318,7 @@ Elle consiste à expliciter :
 
 - les conditions de formation des descriptions ;
 - leurs conditions de justification ;
-- leurs relations avec d’autres descriptions ;
+- leurs relations avec d’autres régimes ;
 - leurs possibilités de transformation.
 
 ---
@@ -300,15 +330,16 @@ Elle consiste à expliciter :
 - une architecture métathéorique ;
 - une analyse pragmatiste des pratiques descriptives ;
 - une reconstruction inférentialiste des engagements ;
-- une étude des relations entre régimes de justification ;
-- une approche non ontologique des conditions de descriptibilité.
+- une étude des régimes de justification ;
+- une analyse non ontologique des conditions de descriptibilité ;
+- une enquête sur le passage entre espace des causes et espace des raisons.
 
 ## Protokin n’est pas :
 
 - une théorie du monde ;
 - une ontologie ;
 - un système explicatif global ;
-- une hiérarchie des connaissances.
+- une hiérarchie absolue des connaissances.
 
 ---
 
@@ -326,7 +357,7 @@ Aucun concept ne doit être considéré comme une entité indépendante de la pr
 
 Voir :
 
-- [Réflexivité](reflexivite.md)
+- [Réflexivité du dispositif](../06_reflexivite/reflexivite.md)
 
 ---
 
@@ -334,20 +365,24 @@ Voir :
 
 > **Protokin ne porte pas sur ce que le monde serait indépendamment de toute description.**
 >
-> **Il porte sur les conditions dans lesquelles des pratiques de description et de justification rendent possible une intelligibilité du monde à travers des espaces de raisons.**
+> **Il porte sur les conditions dans lesquelles des organismes devenant locuteurs peuvent produire, soutenir, contester et transformer des descriptions dans des espaces de raisons.**
 
 ---
 
 ## Navigation
 
-- [Index](index.md)
-- [Architecture](architecture.md)
-- [Régimes](regimes.md)
-- [Engagements](engagements.md)
-- [Analyse](analyse.md)
-- [Audit](audit.md)
-- [Tensions](tensions.md)
-- [Transitions](transitions.md)
-- [Validité](validite.md)
-- [Limites](limites.md)
-- [Réflexivité](reflexivite.md)
+- [Protokin — Nom et orientation](protokin.md)
+- [En une phrase](en_une_phrase.md)
+- [Index](../index.md)
+- [Architecture](../02_architecture_conceptuelle/architecture.md)
+- [Régimes](../02_architecture_conceptuelle/regimes.md)
+- [Engagements](../02_architecture_conceptuelle/engagements.md)
+- [Causes et raisons](../02_architecture_conceptuelle/causes_raisons.md)
+- [Locuteur normatif](../02_architecture_conceptuelle/locuteur.md)
+- [Analyse](../03_methode_enquete/analyse.md)
+- [Audit](../03_methode_enquete/audit.md)
+- [Tensions](../04_diagnostics/tensions.md)
+- [Transitions](../05_transformations/transitions.md)
+- [Validité](../05_transformations/validite.md)
+- [Limites](../05_transformations/limites.md)
+- [Réflexivité](../06_reflexivite/reflexivite.md)
