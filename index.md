@@ -67,6 +67,10 @@ Cette section présente le positionnement général de Protokin.
 
 - [Statut du projet](01_statut/statut.md)
 
+- [Protokin — Nom, statut et orientation conceptuelle](01_statut/protokin.md)
+
+  Origine du terme, statut conceptuel et principe directeur du projet.
+
 ---
 
 Protokin constitue une métathéorie des conditions descriptives.
