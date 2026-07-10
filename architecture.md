@@ -1,8 +1,8 @@
 # Architecture générale de Protokin
 
-> Protokin est une méthode d’enquête sur les conditions de stabilisation, de conflit et de transformation des descriptions au sein de pratiques de justification.
+> **Protokin est une architecture d’analyse des conditions sous lesquelles des descriptions deviennent intelligibles, recevables, stabilisées, contestables et transformables dans des pratiques de justification.**
 >
-> Il ne constitue pas une théorie du monde, mais une architecture d’analyse des conditions sous lesquelles des descriptions deviennent intelligibles, recevables, comparables et transformables.
+> Il ne constitue pas une théorie du monde, mais une métathéorie permettant d’examiner les structures normatives et inférentielles qui rendent possibles différentes formes de description.
 
 ---
 
@@ -13,68 +13,78 @@
 Protokin ne constitue pas :
 
 - une ontologie décrivant la structure ultime du réel ;
-- une théorie de la représentation expliquant comment l’esprit reproduit le monde ;
-- une hiérarchie des niveaux de réalité distinguant des couches plus fondamentales de l’être.
+- une théorie générale des objets existants ;
+- une hiérarchie des niveaux de réalité ;
+- une explication causale universelle ;
+- une méthode destinée à remplacer les sciences particulières.
 
 Il ne cherche donc pas à déterminer :
 
-- ce qui existe indépendamment de toute description ;
-- quelle description posséderait un accès absolu à la réalité ;
-- quel régime descriptif devrait être considéré comme supérieur aux autres.
+> « Ce qui existe indépendamment de toute description. »
 
-Protokin ne remplace pas les sciences particulières.
+Son objectif est différent :
 
-Il analyse les conditions dans lesquelles différentes descriptions peuvent fonctionner comme descriptions.
+> **Analyser les conditions sous lesquelles quelque chose peut devenir un objet descriptible dans une pratique donnée.**
+
+Protokin ne remplace pas les descriptions existantes.
+
+Il examine les conditions qui permettent à ces descriptions :
+
+- d’apparaître ;
+- d’être comprises ;
+- d’être justifiées ;
+- d’être critiquées ;
+- d’être transformées.
 
 ---
 
-# 1.2 Objet général de l’enquête
+# 1.2 Objet de l’enquête
 
-L’objet de Protokin n’est pas le monde considéré indépendamment de toute description.
+L’objet de Protokin n’est pas le monde considéré indépendamment de toute pratique descriptive.
 
-Son objet est constitué par les conditions de stabilisation des descriptions.
+Son objet est constitué par les conditions de formation et de stabilisation des descriptions.
 
-Il examine notamment :
+L’analyse porte notamment sur :
 
-- comment une description devient intelligible ;
-- comment elle acquiert une validité locale ;
-- quels engagements elle introduit ;
-- quelles conséquences elle autorise ;
-- quelles tensions elle rencontre ;
-- comment elle peut être transformée ou abandonnée.
+- les distinctions mobilisées ;
+- les concepts utilisés ;
+- les engagements associés ;
+- les inférences autorisées ;
+- les critères de validité ;
+- les tensions rencontrées.
 
-Une description n’est donc pas considérée comme une simple collection d’énoncés.
+Une description n’est donc pas considérée comme une simple représentation passive.
 
-Elle constitue une organisation de :
-
-- distinctions ;
-- engagements ;
-- critères ;
-- inférences ;
-- pratiques de justification.
+Elle constitue une position dans un réseau de pratiques de justification.
 
 Voir :
 
-- [`engagements.md`](engagements.md)
-- [`validite.md`](validite.md)
+- [Engagements descriptifs](engagements.md)
+- [Validité](../05_transformations/validite.md)
 
 ---
 
-# 2. Principe directeur : analyser les conditions descriptives
+# 2. Principe directeur : du monde décrit aux conditions de description
 
 ## 2.1 Du mouvement des objets au mouvement des descriptions
 
-Les difficultés philosophiques apparaissent souvent lorsque l’on cherche à expliquer un objet sans examiner les conditions qui permettent de l’identifier comme objet.
+Une grande partie des difficultés philosophiques provient d’une question préalable souvent implicite :
 
-Protokin déplace donc l’analyse :
+> Comment un objet devient-il identifiable comme objet ?
 
-Non pas :
+Protokin déplace cette interrogation.
 
-> Qu’est-ce que l’objet en lui-même ?
+Il ne demande pas uniquement :
 
-Mais :
+> « Qu’est-ce que cet objet est ? »
 
-> Sous quelles conditions une configuration devient-elle descriptible dans une pratique donnée ?
+Il demande :
+
+> **« Sous quelles conditions cette configuration devient-elle descriptible, intelligible et justifiable ? »**
+
+Ce déplacement ne nie pas l’existence d’un monde indépendant.
+
+Il analyse les conditions grâce auxquelles ce monde peut devenir accessible dans des pratiques de description.
 
 ---
 
@@ -85,9 +95,8 @@ Une même configuration peut être décrite selon plusieurs régimes :
 - physique ;
 - biologique ;
 - technique ;
-- économique ;
-- juridique ;
 - institutionnel ;
+- juridique ;
 - social ;
 - normatif.
 
@@ -97,13 +106,13 @@ Elles peuvent répondre à des questions différentes et mobiliser des critères
 
 Le problème central devient alors :
 
-> Comment articuler plusieurs descriptions sans les réduire les unes aux autres ni les mélanger arbitrairement ?
+> **Comment articuler plusieurs descriptions sans les réduire les unes aux autres ni les mélanger arbitrairement ?**
 
 Voir :
 
-- [`regimes.md`](regimes.md)
-- [`reductions.md`](reductions.md)
-- [`eclectisme.md`](eclectisme.md)
+- [Régimes de description](regimes.md)
+- [Réductions](../04_diagnostics/reductions.md)
+- [Éclectisme](../04_diagnostics/eclectisme.md)
 
 ---
 
@@ -111,23 +120,28 @@ Voir :
 
 ## 3.1 Définition
 
-Un régime de description désigne un ensemble local de contraintes qui organise une manière de rendre une configuration intelligible.
+Un régime de description désigne un ensemble organisé de contraintes permettant de déterminer comment une configuration peut devenir intelligible.
 
-Un régime détermine notamment :
+Un régime définit notamment :
 
-- ce qui compte comme objet ;
-- ce qui compte comme donnée pertinente ;
-- ce qui compte comme preuve ;
-- ce qui compte comme justification ;
-- quelles inférences sont autorisées.
+- les objets pertinents ;
+- les distinctions opératoires ;
+- les critères de preuve ;
+- les formes de justification ;
+- les relations d’inférence acceptables.
 
-Un régime n’est pas une structure du réel.
+Un régime n’est pas :
 
-Il constitue une organisation des conditions sous lesquelles certaines descriptions peuvent être stabilisées.
+- une partie du réel ;
+- une structure cachée du monde ;
+- un niveau ontologique ;
+- une théorie complète.
+
+Il constitue une organisation normative des conditions de description.
 
 Voir :
 
-- [`regimes.md`](regimes.md)
+- [Régimes](regimes.md)
 
 ---
 
@@ -135,11 +149,11 @@ Voir :
 
 Chaque régime possède une autonomie relative.
 
-Cela signifie :
+Cela signifie qu’il dispose :
 
-- qu’il possède ses propres critères internes ;
-- qu’il organise ses propres formes de justification ;
-- qu’il ne peut pas être entièrement traduit dans un autre régime sans perte.
+- de critères internes ;
+- de formes spécifiques de justification ;
+- de contraintes propres.
 
 Cette autonomie n’implique pas une séparation absolue.
 
@@ -152,319 +166,290 @@ Les régimes peuvent entrer en relation par :
 
 Voir :
 
-- [`traductions.md`](traductions.md)
-- [`tensions.md`](tensions.md)
+- [Traductions](../05_transformations/traductions.md)
+- [Tensions](../04_diagnostics/tensions.md)
 
 ---
 
 # 4. Les configurations descriptives
 
-## 4.1 Définition
+## 4.1 Content Layer
 
-Une configuration descriptive constitue le matériau soumis à l’analyse.
+Le Content Layer désigne l’ensemble des contenus soumis à l’analyse protokinienne.
 
-Elle peut correspondre à :
+Il peut comprendre :
 
-- une théorie scientifique ;
-- un modèle ;
-- une institution ;
-- un système technique ;
-- un discours politique ;
-- une pratique sociale ;
-- un corpus philosophique.
+- énoncés ;
+- théories scientifiques ;
+- modèles ;
+- classifications ;
+- pratiques institutionnelles ;
+- systèmes techniques ;
+- discours sociaux ;
+- corpus philosophiques.
+
+Le Content Layer n’est pas une couche du réel.
+
+Il constitue le matériau descriptif à partir duquel l’analyse examine les conditions de stabilisation.
 
 Voir :
 
-- [`content_layer.md`](content_layer.md)
+- [Content Layer](content_layer.md)
 
 ---
 
-## 4.2 Statut de la configuration
+## 4.2 Statut des configurations descriptives
 
-Une configuration descriptive n’est pas une copie du réel.
+Une configuration descriptive n’est pas une copie du monde.
 
-Elle correspond à une manière organisée de sélectionner, distinguer et articuler certains aspects d’une situation.
+Elle correspond à une manière organisée de :
+
+- sélectionner ;
+- distinguer ;
+- articuler ;
+- justifier certains aspects d’une situation.
 
 L’analyse porte donc sur :
 
 - ce qui devient visible ;
-- ce qui reste hors champ ;
+- ce qui est laissé hors champ ;
 - les engagements produits ;
 - les conséquences permises.
 
 ---
 
-# 5. Le locuteur et l'espace des raisons
+# 5. Le locuteur et l’espace des raisons
 
 ## 5.1 Du vivant au locuteur
 
-Les descriptions n'existent pas indépendamment des pratiques dans lesquelles elles sont produites, évaluées, contestées et révisées.
+Les descriptions n’existent pas indépendamment des pratiques dans lesquelles elles sont produites, évaluées et contestées.
 
-Toute description analysable par Protokin suppose l'existence de participants capables d'assumer des engagements normatifs et de répondre à des demandes de justification.
+Toute description analysable par Protokin suppose des participants capables :
+
+- d’affirmer ;
+- de nier ;
+- de justifier ;
+- de demander des raisons ;
+- de réviser leurs engagements.
 
 Protokin distingue ainsi :
 
-- les organismes décrits dans l'espace des causes ;
-- les locuteurs engagés dans l'espace des raisons.
+- l’organisme inscrit dans l’espace des causes ;
+- le locuteur inscrit dans l’espace des raisons.
 
-Cette distinction ne renvoie ni à deux substances ni à deux mondes séparés.
+Cette distinction ne renvoie pas à deux mondes séparés.
 
-Elle correspond à deux formes d'intelligibilité.
-
-Dans l'espace des causes, les phénomènes sont expliqués à partir de relations causales.
-
-Dans l'espace des raisons, les descriptions sont évaluées selon des critères de justification, d'inférence et de responsabilité normative.
-
-Le locuteur apparaît lorsqu'un organisme participe à des pratiques où il devient possible :
-
-- d'affirmer ;
-- de nier ;
-- de justifier ;
-- de contester ;
-- de demander des raisons ;
-- de réviser des descriptions.
-
-L'analyse protokinienne ne cherche pas à expliquer l'origine biologique ou psychologique de cette capacité.
-
-Elle examine les conditions normatives sous lesquelles un participant devient un locuteur au sein d'une pratique de justification.
+Elle correspond à deux modalités d’analyse.
 
 Voir :
 
-- [`locuteur.md`](locuteur.md)
-- [`causes_raisons.md`](causes_raisons.md)
+- [Du vivant au locuteur normatif](locuteur.md)
+- [Causes et raisons](causes_raisons.md)
 
 ---
 
-## 5.2 Engagements et habilitations
+## 5.2 PROTO et KIN
 
-La participation à une pratique descriptive implique simultanément des engagements et des habilitations.
+Protokin distingue deux dimensions fondamentales :
 
-Les engagements concernent ce qu'un locuteur assume lorsqu'il produit une description.
+## PROTO — espace des causes
 
-Ils déterminent :
+PROTO concerne les conditions causales permettant l’existence d’un système.
 
-- les conséquences inférentielles reconnues ;
-- les justifications requises ;
-- les incompatibilités acceptées ;
-- les responsabilités discursives associées.
+Il comprend notamment :
 
-Les habilitations concernent les conditions sous lesquelles un locuteur est reconnu comme participant légitime à une pratique de justification.
+- processus physiques ;
+- processus biologiques ;
+- contraintes matérielles ;
+- régulations ;
+- dynamiques évolutives.
 
-Elles déterminent notamment :
+Question principale :
 
-- quelles affirmations peuvent être tenues pour recevables ;
-- quelles inférences peuvent être mobilisées ;
-- quelles compétences sont reconnues ;
-- quelles responsabilités peuvent être attribuées.
-
-L'engagement et l'habilitation sont étroitement liés mais ne coïncident pas nécessairement.
-
-Un locuteur peut s'engager sans que son habilitation soit pleinement reconnue.
-
-Inversement, une habilitation reconnue ne garantit pas qu'un locuteur prenne effectivement position.
-
-Les conflits descriptifs peuvent ainsi porter :
-
-- sur les descriptions elles-mêmes ;
-- sur les engagements qu'elles impliquent ;
-- sur l'attribution des habilitations discursives.
-
-L'analyse protokinienne examine conjointement ces différentes dimensions.
-
-Voir :
-
-- [`locuteur.md`](locuteur.md)
-- [`engagements.md`](engagements.md)
+> « Comment un phénomène advient-il ? »
 
 ---
 
-# 5. Stabilisation descriptive
+## KIN — espace des raisons
 
-## 5.1 Définition
+KIN concerne les conditions normatives permettant qu’une description soit soutenue, contestée ou révisée.
 
-Une description est stabilisée lorsqu’elle maintient une cohérence suffisante au sein d’une pratique donnée.
+Il comprend :
+
+- engagements ;
+- justifications ;
+- inférences ;
+- responsabilités discursives.
+
+Question principale :
+
+> « Comment une description peut-elle être défendue dans une pratique donnée ? »
+
+---
+
+PROTO et KIN ne constituent pas deux substances.
+
+Ils représentent deux perspectives analytiques complémentaires.
+
+---
+
+# 6. Stabilisation descriptive
+
+## 6.1 Définition
+
+Une description est stabilisée lorsqu’elle maintient une cohérence suffisante dans une pratique donnée.
 
 Cette stabilisation dépend :
 
-- de ses critères internes ;
-- de ses engagements ;
-- de ses usages ;
-- de sa capacité à répondre aux contraintes rencontrées.
+- des critères internes du régime ;
+- des engagements associés ;
+- des usages effectifs ;
+- de la capacité à répondre aux objections.
 
-La stabilisation n’est pas une correspondance absolue avec le réel.
+Une stabilisation n’est pas une vérité absolue.
 
-Elle désigne une réussite locale d’organisation descriptive.
+Elle correspond à une réussite locale d’organisation descriptive.
 
 ---
 
-## 5.2 Instabilité et transformation
+## 6.2 Instabilité et transformation
 
 Une stabilisation peut devenir problématique lorsque :
 
 - les engagements deviennent incompatibles ;
-- les concepts perdent leur pouvoir explicatif ;
-- les critères ne permettent plus de traiter une situation nouvelle.
+- les critères deviennent insuffisants ;
+- les concepts perdent leur efficacité descriptive.
 
-Cette situation conduit à l’analyse des tensions et des transitions.
+Cette situation conduit à l’analyse :
+
+- des tensions ;
+- des limites ;
+- des transformations.
 
 Voir :
 
-- [`tensions.md`](tensions.md)
-- [`transitions.md`](transitions.md)
+- [Tensions](../04_diagnostics/tensions.md)
+- [Transitions](../05_transformations/transitions.md)
 
 ---
 
-# 6. Relations entre régimes descriptifs
+# 7. Relations entre régimes descriptifs
 
 Les régimes peuvent entretenir plusieurs types de relations.
 
----
+## 7.1 Compatibilité
 
-## 6.1 Compatibilité
+Deux régimes sont compatibles lorsque leurs contraintes peuvent fonctionner ensemble.
 
-Deux régimes sont compatibles lorsque leurs contraintes peuvent être maintenues simultanément.
-
-La compatibilité ne signifie pas identité.
+La compatibilité n’implique pas identité.
 
 Elle signifie qu’une articulation est possible.
 
 ---
 
-## 6.2 Tension
+## 7.2 Tension
 
-Une tension apparaît lorsque plusieurs régimes produisent des engagements difficiles à maintenir ensemble.
+Une tension apparaît lorsque plusieurs engagements deviennent difficiles à maintenir simultanément.
 
 Elle peut concerner :
 
 - les critères de validité ;
-- les formes d’inférence ;
 - les concepts mobilisés ;
-- les attentes associées.
+- les formes d’inférence.
 
-Une tension n’est pas une erreur.
+Une tension n’est pas seulement une erreur.
 
-Elle indique une difficulté de stabilisation.
-
-Voir :
-
-- [`tensions.md`](tensions.md)
+Elle révèle une difficulté de stabilisation.
 
 ---
 
-## 6.3 Saturation
+## 7.3 Limite de traduction
 
-Une saturation apparaît lorsqu’un régime ne dispose plus des ressources nécessaires pour maintenir ses propres engagements.
+Certains régimes ne peuvent pas être immédiatement articulés.
 
-Elle peut produire :
+Cette situation indique une limite actuelle des ressources descriptives disponibles.
 
-- multiplication des exceptions ;
-- perte de précision conceptuelle ;
-- contradictions pratiques ;
-- nécessité d’une transformation.
-
----
-
-## 6.4 Limite de traduction
-
-Certaines relations entre régimes ne peuvent pas être stabilisées immédiatement.
-
-Dans ce cas, Protokin identifie une limite de traduction.
-
-Cette limite :
-
-- ne signifie pas impossibilité absolue ;
-- ne constitue pas une erreur ;
-- indique une insuffisance actuelle des ressources descriptives.
+Elle ne signifie pas impossibilité définitive.
 
 Voir :
 
-- [`limites.md`](limites.md)
-- [`traductions.md`](traductions.md)
-
----
-
-# 7. Le noyau analytique de Protokin
-
-Le noyau analytique regroupe les distinctions permettant d’examiner les descriptions.
-
-Il comprend :
-
-- distinction causes / raisons ;
-- analyse des engagements ;
-- critères de validité ;
-- relations entre régimes ;
-- analyse des tensions ;
-- étude des transformations.
-
-Voir :
-
-- [`causes_raisons.md`](causes_raisons.md)
-- [`engagements.md`](engagements.md)
-
-Le Kernel n’est pas un mécanisme.
-
-Il ne produit pas automatiquement des résultats.
-
-Il constitue un espace formel d’analyse.
+- [Limites](../05_transformations/limites.md)
 
 ---
 
 # 8. Le noyau analytique de Protokin
 
-Le noyau analytique regroupe les distinctions fondamentales permettant d'examiner les conditions de stabilisation des descriptions.
+Le noyau analytique regroupe les distinctions permettant d’examiner les descriptions.
 
 Il comprend :
 
-- la distinction entre causes et raisons ;
-- l'analyse des positions de locuteur ;
-- les engagements discursifs ;
-- les habilitations discursives ;
+- la distinction causes / raisons ;
+- l’analyse des régimes descriptifs ;
+- l’étude des engagements ;
+- l’examen des inférences ;
 - les critères de validité ;
-- les relations entre régimes ;
-- l'analyse des tensions ;
-- l'étude des transformations.
+- l’analyse des tensions ;
+- l’étude des transformations.
 
-Ces éléments ne constituent pas des mécanismes explicatifs.
+Ces éléments ne constituent pas des mécanismes causaux.
 
-Ils forment un ensemble de ressources analytiques permettant d'expliciter les conditions sous lesquelles des descriptions deviennent intelligibles, recevables, contestables ou transformables.
+Ils forment un ensemble d’outils d’explicitation.
+
+Le Kernel protokinien ne produit pas automatiquement des résultats.
+
+Il permet de reconstruire les conditions sous lesquelles une description devient intelligible et stabilisable.
+
+---
+
+# 9. Audit et instruments méthodologiques
+
+L’audit protokinien constitue l’opération méthodologique permettant d’examiner une configuration descriptive.
+
+Il analyse :
+
+- le régime mobilisé ;
+- les engagements associés ;
+- les inférences autorisées ;
+- les tensions éventuelles ;
+- les possibilités de transformation.
+
+Les instruments comme :
+
+- PAR ;
+- PASS ;
+- DELTA ;
+
+appartiennent au niveau opérationnel de l’audit.
+
+Ils ne constituent pas les catégories fondamentales de l’architecture.
 
 Voir :
 
-- [`causes_raisons.md`](causes_raisons.md)
-- [`locuteur.md`](locuteur.md)
-- [`engagements.md`](engagements.md)
-
-Le Kernel n'est pas un mécanisme causal.
-
-Il ne produit pas automatiquement des résultats.
-
-Il constitue un espace formel d'analyse destiné à rendre explicites les structures normatives et inférentielles impliquées dans les pratiques descriptives.
+- [Audit](../03_methode_enquete/audit.md)
 
 ---
 
-# 9. Risques des relations entre régimes
+# 10. Risques méthodologiques
 
-Lorsque plusieurs régimes entrent en relation, deux dérives principales doivent être évitées.
+Deux dérives principales doivent être évitées.
 
----
+## 10.1 Réduction
 
-# 9.1 Réduction
+Une réduction apparaît lorsqu’un régime prétend absorber entièrement un autre régime.
 
-La réduction apparaît lorsqu’un régime prétend absorber entièrement un autre régime.
+Exemples :
 
-Elle peut produire :
-
-- disparition de la spécificité de l’objet ;
-- invisibilisation des engagements normatifs ;
-- confusion entre cause et justification.
+- réduire toute justification à une cause ;
+- réduire toute normativité à un mécanisme ;
+- réduire toute pratique sociale à une structure matérielle.
 
 Voir :
 
-- [`reductions.md`](reductions.md)
+- [Réductions](../04_diagnostics/reductions.md)
 
 ---
 
-# 9.2 Éclectisme
+## 10.2 Éclectisme
 
 L’éclectisme apparaît lorsque plusieurs régimes sont combinés sans respecter leurs contraintes propres.
 
@@ -472,44 +457,21 @@ Il produit :
 
 - analogies abusives ;
 - transferts non contrôlés ;
-- perte de cohérence inférentielle.
+- perte de cohérence.
 
 Voir :
 
-- [`eclectisme.md`](eclectisme.md)
-
----
-
-# 10. Transition et reconfiguration
-
-## 10.1 Fonction
-
-Une transition désigne une transformation des conditions permettant à une description d’être stabilisée.
-
-Elle n’est pas :
-
-- une progression vers une vérité finale ;
-- une découverte d’un niveau supérieur du réel.
-
-Elle correspond à une modification locale :
-
-- des critères ;
-- des engagements ;
-- des relations entre descriptions.
-
-Voir :
-
-- [`transitions.md`](transitions.md)
+- [Éclectisme](../04_diagnostics/eclectisme.md)
 
 ---
 
 # 11. Réflexivité
 
-Protokin applique son propre cadre à ses propres catégories.
+Protokin applique son propre cadre à ses propres concepts.
 
 Cela signifie :
 
-- ses concepts peuvent être révisés ;
+- ses catégories peuvent être révisées ;
 - ses distinctions peuvent être transformées ;
 - son architecture appartient elle-même à une pratique descriptive.
 
@@ -517,37 +479,28 @@ Il n’existe pas de position extérieure absolue.
 
 Voir :
 
-- [`reflexivite.md`](reflexivite.md)
+- [Réflexivité](../06_reflexivite/reflexivite.md)
 
 ---
 
 # Conclusion
 
-Protokin est une architecture d'analyse des conditions de stabilisation des descriptions.
+Protokin est une architecture d’analyse des conditions de stabilisation des descriptions.
 
 Il ne cherche pas à produire une description ultime du monde.
 
 Il cherche à comprendre :
 
-- comment des locuteurs deviennent capables de participer à des pratiques de justification ;
-- comment leurs engagements sont reconnus, contestés ou révisés ;
-- comment les descriptions deviennent possibles ;
-- comment elles acquièrent une validité locale ;
-- comment elles entrent en tension ;
+- comment des locuteurs participent à des pratiques de justification ;
+- comment des engagements deviennent recevables ;
+- comment des descriptions acquièrent une stabilité locale ;
+- comment elles rencontrent des tensions ;
 - comment elles peuvent être transformées.
-
-L'analyse porte ainsi simultanément sur :
-
-- les descriptions ;
-- les régimes qui les organisent ;
-- les positions normatives à partir desquelles elles peuvent être produites.
 
 ---
 
 # Formule synthétique
 
-> **Protokin n'est pas une théorie du monde.**
+> **Protokin n’est pas une théorie du monde.**
 >
-> **C'est une architecture d'analyse des conditions sous lesquelles des locuteurs, au sein de pratiques de justification, produisent des descriptions susceptibles de devenir intelligibles, justifiables et transformables.**
-
----
+> **C’est une architecture d’analyse des conditions sous lesquelles des locuteurs, inscrits dans des pratiques de justification, produisent, stabilisent, contestent et transforment des descriptions.**
