@@ -4,7 +4,7 @@
 >
 > Il analyse les conditions normatives et inférentielles sous lesquelles des descriptions deviennent intelligibles, recevables, incompatibles ou transformables dans des pratiques de justification.
 >
-> Son objet n’est pas le monde indépendamment de toute description, mais les conditions sous lesquelles des contenus acquièrent un statut descriptif dans des espaces de raisons.
+> Son objet n’est pas le monde indépendamment de toute description, mais les conditions sous lesquelles certains contenus deviennent des descriptions recevables dans des espaces de raisons.
 >
 > Ces espaces de raisons supposent l’existence de locuteurs capables d’assumer, de contester et de réviser des engagements normatifs.
 >
@@ -16,7 +16,7 @@
 
 Protokin ne propose pas une théorie du monde.
 
-Il ne cherche pas à identifier les structures ultimes du réel, ni à établir une ontologie générale des objets, des propriétés ou des processus.
+Il ne cherche pas à identifier les constituants ultimes du réel, ni à établir une ontologie générale des objets, des propriétés ou des processus.
 
 Son objectif est d’expliciter les conditions sous lesquelles des descriptions deviennent possibles dans des pratiques humaines et sociales de justification.
 
@@ -65,16 +65,7 @@ Cette section présente le positionnement général de Protokin.
 
 - [Protokin en une phrase](01_statut/en_une_phrase.md)
 
-  Formulation condensée du projet.
-
 - [Statut du projet](01_statut/statut.md)
-
-  Positionnement métathéorique :
-
-  - pragmatisme ;
-  - inférentialisme ;
-  - épistémologie des pratiques ;
-  - non-ontologie.
 
 ---
 
@@ -111,8 +102,6 @@ Autrement dit :
 
 # 3. Architecture générale
 
-Cette section présente l’organisation conceptuelle du dispositif.
-
 ## Documents principaux
 
 - [Architecture générale](02_architecture_conceptuelle/architecture.md)
@@ -123,11 +112,11 @@ Cette section présente l’organisation conceptuelle du dispositif.
 
 ---
 
-L’architecture protokinienne organise l’analyse autour de plusieurs fonctions.
+L’architecture protokinienne organise l’analyse autour de fonctions méthodologiques.
 
 Ces fonctions ne correspondent pas à des niveaux ontologiques du réel.
 
-Elles constituent des instruments méthodologiques permettant d’étudier la production, la stabilisation et la transformation des descriptions.
+Elles constituent des instruments permettant d’étudier la production, la stabilisation et la transformation des descriptions.
 
 Le **Content Layer** désigne l’ensemble des configurations descriptives soumises à analyse.
 
@@ -142,7 +131,7 @@ Il comprend notamment :
 - systèmes conceptuels ;
 - classifications.
 
-Le Content Layer représente donc ce qui est effectivement décrit.
+Le Content Layer représente ce qui est décrit.
 
 Mais un contenu descriptif n’acquiert son statut qu’à travers un régime qui organise ses conditions d’intelligibilité.
 
@@ -189,11 +178,11 @@ La thèse fondamentale est :
 
 Ainsi, la question protokinienne n’est pas :
 
-« Quelle description est absolument vraie indépendamment de toute pratique ? »
+> « Quelle description est absolument vraie indépendamment de toute pratique ? »
 
 Mais :
 
-« Dans quel régime une description devient-elle intelligible, justifiable et stabilisable ? »
+> « Dans quel régime une description devient-elle intelligible, justifiable et stabilisable ? »
 
 ---
 
@@ -209,29 +198,40 @@ Mais :
 
 Toute description implique des engagements.
 
-Décrire quelque chose revient à entrer dans un espace où certaines conséquences deviennent nécessaires.
+Décrire quelque chose revient à occuper une position dans un espace où certaines conséquences deviennent nécessaires.
 
 Un locuteur qui adopte une description accepte implicitement :
 
-- des conséquences logiques ;
+- des conséquences inférentielles ;
 - des attentes pratiques ;
 - des critères de correction ;
-- des possibilités de contestation.
+- des possibilités de contestation ;
+- des obligations de justification.
 
 Une description n’est donc pas seulement un contenu propositionnel.
 
-Elle est une position dans un réseau d’inférences.
+Elle constitue une position dans un réseau d’inférences.
 
 Dans cette perspective, Protokin reprend une intuition centrale de l’inférentialisme :
 
-> Le contenu d’une proposition dépend des engagements et des conséquences qu’elle autorise.
+> **Le contenu d’une proposition dépend des engagements qu’elle implique et des conséquences qu’elle autorise.**
 
 L’analyse protokinienne porte donc sur :
 
 - ce qu’une description permet d’inférer ;
 - ce qu’elle interdit ;
 - ce qu’elle suppose ;
-- ce qu’elle rend possible.
+- ce qu’elle rend possible ;
+- les conditions dans lesquelles elle peut être corrigée.
+
+Une description n’est donc jamais isolée.
+
+Elle existe au sein d’un espace de relations entre :
+
+- des contenus ;
+- des locuteurs ;
+- des normes ;
+- des pratiques de justification.
 
 ---
 
@@ -254,6 +254,12 @@ Cette distinction reprend la séparation sellarsienne entre :
 
 Elle constitue une articulation centrale de l’architecture.
 
+Ces deux dimensions ne correspondent pas à deux mondes séparés.
+
+Elles désignent deux manières d’analyser un même phénomène selon les questions posées.
+
+---
+
 ## PROTO — L’espace des causes
 
 PROTO désigne l’ensemble des conditions causales qui rendent possible l’existence d’un système.
@@ -264,11 +270,16 @@ Cette dimension comprend :
 - processus biologiques ;
 - régulations ;
 - contraintes matérielles ;
-- dynamiques évolutives.
+- dynamiques évolutives ;
+- histoires de formation.
 
 PROTO répond principalement à la question :
 
-> Comment un phénomène advient-il ?
+> **Comment un phénomène advient-il ?**
+
+L’analyse PROTO concerne les conditions d’existence, de maintien et de transformation des systèmes.
+
+Elle décrit les processus sans leur attribuer directement une dimension normative.
 
 ---
 
@@ -280,41 +291,206 @@ KIN désigne l’espace normatif dans lequel apparaissent :
 - les engagements ;
 - les responsabilités ;
 - les critiques ;
-- les révisions.
+- les révisions ;
+- les prises de position.
 
 KIN répond principalement à la question :
 
-> Comment une description peut-elle être soutenue ou contestée ?
+> **Comment une description peut-elle être soutenue ou contestée ?**
+
+L’espace KIN suppose des acteurs capables :
+
+- d’assumer des engagements ;
+- de reconnaître des normes ;
+- de demander des justifications ;
+- de modifier leurs positions.
+
+C’est dans cet espace qu’une description acquiert un statut normatif.
 
 ---
 
-PROTO et KIN ne constituent pas deux mondes séparés.
+PROTO et KIN ne constituent donc pas deux réalités séparées.
 
-Ils correspondent à deux modalités d’analyse différentes.
+Ils décrivent deux dimensions complémentaires :
 
-Un même phénomène peut être étudié :
+- l’une causale ;
+- l’autre normative.
 
-- comme événement causal ;
-- comme contenu soumis à justification.
-
-L’objectif de Protokin est précisément d’analyser les conditions de transition permettant qu’un système appartenant à l’espace des causes puisse participer à un espace de raisons.
-
+L’enjeu protokinien consiste à analyser les conditions de transition permettant qu’un système appartenant initialement à l’espace des causes puisse participer à un espace de raisons.
 
 ---
 
-L’analyse protokinienne examine notamment :
+# 7. Le locuteur normatif
 
-- quels concepts sont utilisés ;
-- quelles distinctions sont opératoires ;
-- quelles normes déterminent l’acceptabilité ;
-- quelles inférences sont autorisées ;
-- quels conflits apparaissent.
+## Document associé
 
-Elle fonctionne donc comme une enquête sur les conditions de possibilité d’une description.
+- [Du vivant causal au locuteur normatif](02_architecture_conceptuelle/locuteur.md)
 
 ---
 
-# 11. Audit des régimes descriptifs
+L’espace des raisons ne peut exister sans des êtres capables d’y participer.
+
+Protokin introduit donc la figure du **locuteur normatif** comme condition interne de toute pratique de justification.
+
+Un locuteur normatif n’est pas simplement un organisme capable de produire des signaux.
+
+Il est un système capable :
+
+- d’assumer des engagements ;
+- de reconnaître des erreurs ;
+- de répondre à des objections ;
+- de modifier ses descriptions ;
+- de participer à des pratiques collectives de justification.
+
+Cette distinction permet d’éviter une réduction du normatif au biologique.
+
+Un organisme appartient à l’espace des causes.
+
+Il peut être décrit selon :
+
+- ses mécanismes ;
+- ses fonctions ;
+- ses régulations ;
+- son histoire évolutive.
+
+Mais un locuteur appartient également à l’espace des raisons.
+
+Il peut être évalué selon :
+
+- ses justifications ;
+- ses engagements ;
+- ses inférences ;
+- sa responsabilité discursive.
+
+La transition entre organisme et locuteur ne constitue donc pas l’apparition d’une substance nouvelle.
+
+Elle correspond à une transformation du régime d’analyse.
+
+---
+
+La thèse protokinienne est :
+
+> **Un locuteur n’est pas seulement un système qui produit des descriptions ; c’est un système capable de répondre de ses descriptions dans un espace normatif.**
+
+Cette capacité constitue la condition d’existence des pratiques de justification.
+
+---
+
+# 8. La prédication comme opération descriptive
+
+## Documents associés
+
+- [Engagements descriptifs](02_architecture_conceptuelle/engagements.md)
+
+- [Analyse des descriptions](03_methode_enquete/analyse.md)
+
+---
+
+La prédication constitue une opération fondamentale par laquelle un contenu devient une description déterminée.
+
+Décrire ne consiste pas simplement à associer un mot à un objet.
+
+Prédire une propriété, attribuer une catégorie ou appliquer un concept implique toujours un régime de description particulier.
+
+Lorsqu’un locuteur affirme :
+
+> « Cette action est illégale. »
+
+Il ne décrit pas seulement une propriété physique de l’action.
+
+Il mobilise un régime normatif comprenant :
+
+- des règles ;
+- des institutions ;
+- des critères d’application ;
+- des pratiques de justification ;
+- des locuteurs compétents.
+
+La prédication transforme ainsi un événement en contenu descriptif recevable dans un espace déterminé.
+
+---
+
+Une prédication implique toujours :
+
+- une distinction entre pertinent et non pertinent ;
+- un ensemble de critères d’application ;
+- des engagements associés ;
+- des conséquences inférentielles.
+
+Ainsi, dire :
+
+> « Ceci est une cause »
+
+ou :
+
+> « Ceci est une preuve »
+
+ou :
+
+> « Ceci est une responsabilité »
+
+ne constitue pas une simple description passive.
+
+Ces affirmations appartiennent à des régimes différents et impliquent des conditions différentes de justification.
+
+---
+
+Protokin analyse donc la prédication comme une opération de mise en relation entre :
+
+- un contenu ;
+- un régime descriptif ;
+- un locuteur ;
+- un espace d’inférences.
+
+La question centrale devient :
+
+> **Dans quelles conditions une attribution devient-elle recevable comme description ?**
+
+---
+
+# 9. Analyse des descriptions
+
+## Documents associés
+
+- [Analyse](03_methode_enquete/analyse.md)
+
+- [Audit des régimes descriptifs](03_methode_enquete/audit.md)
+
+---
+
+L’analyse protokinienne examine les conditions permettant à une description de fonctionner dans un espace de justification.
+
+Elle porte notamment sur :
+
+- les concepts mobilisés ;
+- les distinctions opératoires ;
+- les engagements associés ;
+- les normes de correction ;
+- les inférences autorisées.
+
+Elle ne cherche pas à remplacer une description par une autre.
+
+Elle cherche à reconstruire les conditions qui rendent cette description possible.
+
+---
+
+Une analyse protokinienne pose notamment les questions suivantes :
+
+- Quel régime descriptif est mobilisé ?
+- Quels engagements sont nécessaires ?
+- Quelles conséquences sont autorisées ?
+- Quelles limites apparaissent ?
+- Quelles transformations deviennent possibles ?
+
+---
+
+L’analyse constitue donc une enquête sur les conditions de possibilité d’une description.
+
+Elle prépare l’opération d’audit, qui examine la stabilité et les tensions internes des régimes descriptifs.
+
+---
+
+# 10. Audit des régimes descriptifs
 
 ## Documents associés
 
@@ -326,9 +502,13 @@ Elle fonctionne donc comme une enquête sur les conditions de possibilité d’u
 
 L’audit protokinien constitue l’opération méthodologique permettant d’examiner les conditions sous lesquelles une description devient intelligible, recevable et transformable dans une pratique de justification.
 
-Il ne cherche pas à évaluer une description depuis un point de vue extérieur ou à déterminer sa vérité indépendamment de tout contexte.
+Il ne cherche pas à évaluer une description depuis un point de vue extérieur.
+
+Il ne cherche pas non plus à déterminer une vérité indépendante de toute pratique descriptive.
 
 Il cherche à reconstruire le régime descriptif qui rend cette description possible.
+
+---
 
 L’audit examine notamment :
 
@@ -336,7 +516,10 @@ L’audit examine notamment :
 - les contraintes qui organisent son fonctionnement ;
 - les engagements qu’il implique ;
 - les inférences qu’il autorise ;
+- les critères selon lesquels il peut être corrigé ;
 - les limites à l’intérieur desquelles il demeure cohérent.
+
+---
 
 La démarche protokinienne suit plusieurs opérations générales :
 
@@ -356,15 +539,22 @@ La démarche protokinienne suit plusieurs opérations générales :
 
 L’audit protokinien n’est donc pas une critique externe des descriptions.
 
-Il constitue une reconstruction interne des conditions normatives, causales et pragmatiques qui permettent à une description d’occuper une position déterminée dans un espace de justification.
+Il constitue une reconstruction interne des conditions :
 
-Les opérateurs techniques d’audit (PAR, PASS, DELTA et autres instruments méthodologiques) appartiennent au niveau opérationnel de l’architecture Protokin et ne constituent pas ses catégories fondamentales.
+- causales ;
+- normatives ;
+- pragmatiques ;
+- inférentielles ;
+
+qui permettent à une description d’occuper une position déterminée dans un espace de justification.
+
+Les instruments techniques d’audit (PAR, PASS, DELTA et autres opérateurs méthodologiques) appartiennent au niveau opérationnel de l’architecture Protokin.
+
+Ils ne constituent pas les catégories fondamentales du projet.
 
 ---
 
-# 12. Diagnostics : tensions et dérives descriptives
-
-Cette section analyse les difficultés rencontrées par les descriptions.
+# 11. Diagnostics : tensions et dérives descriptives
 
 ## Documents associés
 
@@ -382,13 +572,25 @@ Ces tensions apparaissent lorsque plusieurs contraintes deviennent incompatibles
 
 Protokin distingue notamment :
 
+---
+
 ## Les tensions internes
 
 Elles apparaissent lorsque les engagements d’un même régime entrent en conflit.
 
+Une description peut alors produire des conséquences incompatibles avec ses propres critères de justification.
+
+---
+
 ## Les tensions entre régimes
 
-Elles apparaissent lorsque plusieurs régimes proposent des critères différents.
+Elles apparaissent lorsque plusieurs régimes proposent des critères différents d’intelligibilité ou de recevabilité.
+
+Ces tensions ne constituent pas nécessairement des erreurs.
+
+Elles peuvent révéler une différence de fonction entre plusieurs modes descriptifs.
+
+---
 
 ## Les réductions illégitimes
 
@@ -400,13 +602,15 @@ Exemples :
 - réduire toute normativité à un mécanisme ;
 - réduire toute pratique sociale à une structure matérielle.
 
+---
+
 ## Les substitutions conceptuelles
 
 Elles apparaissent lorsqu’un concept conserve son vocabulaire mais perd les conditions qui lui donnaient son sens.
 
 ---
 
-Protokin ne considère pas les tensions comme de simples erreurs.
+Protokin ne considère pas les tensions comme de simples anomalies.
 
 Elles constituent des points d’analyse privilégiés.
 
@@ -418,9 +622,7 @@ Une tension révèle souvent :
 
 ---
 
-# 13. Transformations des descriptions
-
-Cette section analyse les changements possibles des configurations descriptives.
+# 12. Transformations des descriptions
 
 ## Documents associés
 
@@ -448,6 +650,8 @@ Une transformation protokinienne n’est donc pas un passage vers une vérité f
 Elle désigne :
 
 > **Une reconfiguration des conditions permettant à une description de devenir intelligible, justifiable et stabilisable.**
+
+---
 
 Transformer une description signifie examiner :
 
@@ -484,7 +688,7 @@ Elle constitue une dynamique permanente de réorganisation des conditions descri
 
 ---
 
-# 14. Validité et critères de stabilisation
+# 13. Validité et critères de stabilisation
 
 ## Document associé
 
@@ -503,21 +707,31 @@ Une description valide possède notamment :
 - une résistance aux objections ;
 - une stabilité dans les pratiques concernées.
 
-La validité est donc relationnelle mais non arbitraire.
+---
 
-Elle dépend des critères propres au régime dans lequel une description est évaluée.
+La validité est relationnelle mais non arbitraire.
+
+Elle dépend :
+
+- des critères propres au régime concerné ;
+- des pratiques de justification associées ;
+- des capacités de correction collective.
 
 ---
 
 Protokin distingue ainsi :
 
-## Validité ontologique
+## Question ontologique classique
 
 Question :
 
-> Une description révèle-t-elle l’essence ultime du réel ?
+> Une description révèle-t-elle une structure ultime du réel ?
 
-Cette question n’est pas l’objet principal de Protokin.
+Cette question appartient à d’autres traditions philosophiques.
+
+Protokin ne cherche pas à la résoudre directement.
+
+---
 
 ## Validité pragmatique et inférentielle
 
@@ -525,13 +739,13 @@ Question :
 
 > Une description permet-elle d’organiser efficacement des pratiques de justification ?
 
-Cette seconde dimension constitue le cœur de l’analyse protokinienne.
+Cette dimension constitue le cœur de l’analyse protokinienne.
 
 ---
 
-# 15. Principe de puissance descriptive différentielle
+# 14. Principe de puissance descriptive différentielle
 
-Cette section précise le rapport entre pluralité des régimes et hiérarchisation des descriptions.
+Cette section précise le rapport entre pluralité des régimes et comparaison des descriptions.
 
 ---
 
@@ -549,9 +763,18 @@ Les régimes peuvent être comparés selon leurs capacités internes :
 - résistance aux critiques ;
 - stabilité intersubjective.
 
-Une hiérarchie éventuelle entre descriptions n’est donc pas fondée sur une position ontologique privilégiée.
+---
 
-Elle repose sur la puissance différentielle des pratiques de justification.
+Cette comparaison demeure toujours liée à des objectifs descriptifs déterminés.
+
+Un régime peut être supérieur selon un critère particulier :
+
+- prédire ;
+- intervenir ;
+- coordonner une action ;
+- produire une justification ;
+
+sans devenir supérieur absolument à tous les autres régimes.
 
 ---
 
@@ -571,9 +794,7 @@ La science constitue donc un régime à forte puissance descriptive sans devenir
 
 ---
 
-# 16. Applications et garde-fous
-
-Cette section présente les usages concrets de Protokin.
+# 15. Applications et garde-fous
 
 ## Documents associés
 
@@ -583,9 +804,7 @@ Cette section présente les usages concrets de Protokin.
 
 ---
 
-Les applications protokiniennes ne cherchent pas à démontrer une théorie générale du monde.
-
-Elles permettent d’examiner des situations où plusieurs descriptions entrent en jeu.
+Les applications protokiniennes permettent d’examiner des situations où plusieurs descriptions entrent en jeu.
 
 L’analyse porte notamment sur :
 
@@ -609,24 +828,22 @@ Les domaines d’application peuvent inclure :
 
 ---
 
-Cependant, Protokin impose plusieurs garde-fous.
+Protokin impose plusieurs garde-fous :
 
-Il évite :
+- éviter le relativisme absolu ;
+- éviter la réduction d’un régime à un autre ;
+- éviter la création d’une ontologie cachée ;
+- éviter la multiplication inutile des concepts.
 
-- le relativisme absolu ;
-- la réduction d’un régime à un autre ;
-- la création d’une ontologie cachée ;
-- l’usage excessif de nouveaux concepts.
+---
 
-Toute application doit conserver comme principe :
+Principe directeur :
 
 > **Analyser les conditions d’une description avant de produire une nouvelle description.**
 
 ---
 
-# 17. Cartographie théorique
-
-Cette section situe Protokin dans son environnement philosophique.
+# 16. Cartographie théorique
 
 ## Documents associés
 
@@ -655,16 +872,16 @@ Références majeures :
 
 Ces références ne constituent pas des fondements dogmatiques.
 
-Elles fournissent des ressources conceptuelles permettant de traiter certains problèmes :
+Elles fournissent des ressources conceptuelles permettant d’analyser :
 
-- comment les concepts acquièrent-ils leur usage ?
-- comment les engagements deviennent-ils normatifs ?
-- comment les pratiques produisent-elles des critères de justification ?
-- comment les descriptions évoluent-elles ?
+- comment les concepts acquièrent leur usage ;
+- comment les engagements deviennent normatifs ;
+- comment les pratiques produisent des critères de justification ;
+- comment les descriptions évoluent.
 
 ---
 
-# 18. Réflexivité du dispositif
+# 17. Réflexivité du dispositif
 
 ## Document associé
 
@@ -683,13 +900,15 @@ Son propre vocabulaire constitue lui-même une configuration descriptive soumise
 - des possibilités de critique ;
 - des transformations.
 
+---
+
 La réflexivité constitue donc une condition interne de cohérence.
 
 Un dispositif qui analyse les conditions de stabilisation des descriptions doit pouvoir analyser ses propres conditions de stabilisation.
 
 ---
 
-# 19. Guide de lecture recommandé
+# 18. Guide de lecture recommandé
 
 Pour une première lecture :
 
@@ -705,17 +924,17 @@ Pour une première lecture :
 
 6. [Causes et raisons](02_architecture_conceptuelle/causes_raisons.md)
 
-7. [Du vivant au locuteur normatif](02_architecture_conceptuelle/locuteur.md)
+7. [Du vivant causal au locuteur normatif](02_architecture_conceptuelle/locuteur.md)
 
-8. [Tensions entre régimes](04_diagnostics/tensions.md)
+8. [Analyse des descriptions](03_methode_enquete/analyse.md)
 
-9. [Audit](03_methode_enquete/audit.md)
+9. [Audit des régimes descriptifs](03_methode_enquete/audit.md)
 
 10. [Applications](07_applications/exemples.md)
 
 ---
 
-# 20. Principes directeurs
+# 19. Principes directeurs
 
 ## Principe de stabilité
 
@@ -723,7 +942,7 @@ La stabilité désigne une compatibilité temporaire entre engagements descripti
 
 Elle n’est pas une propriété absolue du réel.
 
-Une description est stabilisée lorsqu’elle parvient à maintenir une cohérence suffisante entre :
+Une description est stabilisée lorsqu’elle maintient une cohérence suffisante entre :
 
 - ses engagements ;
 - ses inférences ;
