@@ -13,29 +13,32 @@
 
     - [Architecture générale](02_architecture_conceptuelle/architecture.md)
     - [Régimes de description](02_architecture_conceptuelle/regimes.md)
-    - [Couche de contenu](02_architecture_conceptuelle/content_layer.md)
+    - [Couche de contenu — Content Layer](02_architecture_conceptuelle/content_layer.md)
     - [Engagements descriptifs](02_architecture_conceptuelle/engagements.md)
     - [Causes et raisons](02_architecture_conceptuelle/causes_raisons.md)
+    - [Du vivant au locuteur normatif](02_architecture_conceptuelle/locuteur.md)
+    - [Contexte C et émergence du locuteur](02_architecture_conceptuelle/contexte_c.md)
+    - [Habilitations discursives](02_architecture_conceptuelle/habilitations.md)
 
 
-  - ## 03 — Méthode d’enquête
+  - ## 03 — Analyse des descriptions
 
     - [Analyse protokinienne](03_methode_enquete/analyse.md)
     - [Audit des conditions de stabilisation descriptive](03_methode_enquete/audit.md)
 
 
-  - ## 04 — Diagnostics
+  - ## 04 — Diagnostics des tensions
 
     - [Tensions entre régimes](04_diagnostics/tensions.md)
     - [Réductions](04_diagnostics/reductions.md)
-    - [Éclectisme](04_diagnostics/eclectisme.md)
+    - [Éclectisme conceptuel](04_diagnostics/eclectisme.md)
 
 
-  - ## 05 — Transformations
+  - ## 05 — Transformations descriptives
 
     - [Transitions](05_transformations/transitions.md)
     - [Traductions entre régimes](05_transformations/traductions.md)
-    - [Validité locale](05_transformations/validite.md)
+    - [Validité](05_transformations/validite.md)
     - [Limites de stabilisation](05_transformations/limites.md)
 
 
@@ -56,6 +59,7 @@
     - [Influences conceptuelles](08_heritages_philosophiques/influences.md)
 
 
-  - ## 09 — Stabilisation finale
+  - ## 09 — Ressources
 
-    - [Glossaire](09_stabilisation_finale/glossaire.md)
+    - [Glossaire protokinien](09_ressources/glossaire.md)
+    - [Bibliographie commentée](09_ressources/bibliographie.md)
