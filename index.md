@@ -314,7 +314,7 @@ Elle fonctionne donc comme une enquête sur les conditions de possibilité d’u
 
 ---
 
-# 11. PAR, PASS et audit des régimes
+# 11. Audit des régimes descriptifs
 
 ## Documents associés
 
@@ -324,40 +324,41 @@ Elle fonctionne donc comme une enquête sur les conditions de possibilité d’u
 
 ---
 
-L’audit protokinien constitue l’opération centrale permettant d’examiner un régime descriptif.
+L’audit protokinien constitue l’opération méthodologique permettant d’examiner les conditions sous lesquelles une description devient intelligible, recevable et transformable dans une pratique de justification.
 
-Il ne cherche pas à juger extérieurement une description.
+Il ne cherche pas à évaluer une description depuis un point de vue extérieur ou à déterminer sa vérité indépendamment de tout contexte.
 
-Il cherche à expliciter son fonctionnement interne.
+Il cherche à reconstruire le régime descriptif qui rend cette description possible.
 
-Le **PAR — Protokin Audit des Régimes** analyse :
+L’audit examine notamment :
 
-- les conditions d’apparition d’un régime ;
-- ses contraintes internes ;
-- ses engagements ;
-- ses critères de validité.
+- les conditions d’émergence d’un régime descriptif ;
+- les contraintes qui organisent son fonctionnement ;
+- les engagements qu’il implique ;
+- les inférences qu’il autorise ;
+- les limites à l’intérieur desquelles il demeure cohérent.
 
-Le **PASS — Protokin Application Sequential System** organise l’application procédurale de cette analyse.
+La démarche protokinienne suit plusieurs opérations générales :
 
-L’audit suit plusieurs étapes :
+1. Identifier la configuration descriptive étudiée.
 
-1. Identifier la configuration descriptive.
+2. Reconstruire le régime mobilisé et son espace d’application.
 
-2. Déterminer le régime mobilisé.
+3. Examiner les engagements explicites et implicites associés à cette description.
 
-3. Reconstruire les engagements.
+4. Analyser les relations d’inférence qui structurent sa recevabilité.
 
-4. Identifier les inférences permises.
+5. Repérer les tensions, déplacements ou confusions entre régimes.
 
-5. Détecter les tensions.
-
-6. Examiner les possibilités de transformation.
+6. Examiner les possibilités de transformation ou de réarticulation du régime.
 
 ---
 
-L’audit protokinien n’est donc pas une critique externe.
+L’audit protokinien n’est donc pas une critique externe des descriptions.
 
-Il constitue une reconstruction interne des conditions qui rendent une description possible.
+Il constitue une reconstruction interne des conditions normatives, causales et pragmatiques qui permettent à une description d’occuper une position déterminée dans un espace de justification.
+
+Les opérateurs techniques d’audit (PAR, PASS, DELTA et autres instruments méthodologiques) appartiennent au niveau opérationnel de l’architecture Protokin et ne constituent pas ses catégories fondamentales.
 
 ---
 
