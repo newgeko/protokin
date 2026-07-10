@@ -964,6 +964,142 @@ Protokin peut ainsi examiner non seulement ce qui est décrit, mais également l
 
 ---
 
+---
+
+# 14. Le locuteur comme opérateur de transition descriptive
+
+## De la configuration au régime de description
+
+Une fois constitué comme position normative, le locuteur n'est pas un simple récepteur passif des régimes descriptifs.
+
+Il constitue un opérateur de passage entre une configuration disponible et une description stabilisée.
+
+Le locuteur n'est cependant pas une source autonome de signification.
+
+Il ne crée pas arbitrairement le sens d'une configuration.
+
+Il actualise une possibilité descriptive parmi plusieurs trajectoires accessibles dans un espace de contraintes déjà structuré.
+
+Le rôle du locuteur consiste ainsi à organiser la transition :
+
+Configuration descriptive
+↓
+Position située du locuteur
+↓
+Régime de description
+↓
+Engagement descriptif
+↓
+Énoncé justifiable
+
+---
+
+## 14.1. Le locuteur comme position située
+
+Protokin refuse le modèle d'un observateur extérieur disposant d'un point de vue absolu.
+
+Toute description est produite depuis une position particulière.
+
+Le locuteur est situé par :
+
+- ses pratiques ;
+- ses instruments ;
+- ses communautés de référence ;
+- ses engagements antérieurs ;
+- les régimes auxquels il a accès.
+
+Cette situation ne constitue pas une imperfection accidentelle.
+
+Elle constitue la condition même de toute description.
+
+Une description sans position d'énonciation n'est pas une description complète.
+
+---
+
+## 14.2. Activation de la Content Layer
+
+La Content Layer ne doit pas être comprise comme un ensemble de données brutes attendant simplement d'être interprétées.
+
+Elle correspond à un espace de configurations disponibles dont la stabilisation dépend de pratiques descriptives.
+
+Le locuteur intervient en actualisant certaines relations pertinentes :
+
+- certaines différences deviennent significatives ;
+- certaines conséquences deviennent visibles ;
+- certaines inférences deviennent disponibles.
+
+Cette opération n'est pas une création subjective.
+
+Elle constitue une activation située au sein des contraintes d'un régime.
+
+---
+
+## 14.3. Le locuteur comme opérateur stratégique
+
+Toute description ouvre ou ferme des possibilités d'action.
+
+Décrire n'est donc jamais seulement représenter.
+
+Une fermeture d'usine peut être décrite selon différents régimes :
+
+- économique ;
+- social ;
+- politique ;
+- technique.
+
+Chaque régime produit un espace différent d'inférences possibles.
+
+Le locuteur participe ainsi à l'orientation pragmatique de la situation.
+
+Il ne choisit pas seulement comment parler d'une configuration.
+
+Il contribue à déterminer quelles transformations deviennent pensables.
+
+---
+
+## 14.4. Réflexivité du locuteur
+
+Le locuteur peut lui-même devenir objet d'audit.
+
+Il doit pouvoir interroger :
+
+- la position depuis laquelle il décrit ;
+- les présupposés du régime mobilisé ;
+- les alternatives descriptives exclues ;
+- les effets normatifs produits.
+
+Cette réflexivité empêche la confusion entre :
+
+une description située ;
+
+et une description présentée comme absolue.
+
+Le locuteur appartient donc lui-même au champ de l'analyse protokinienne.
+
+---
+
+## 14.5. Le locuteur comme interface PROTO/KIN
+
+Le statut du locuteur manifeste directement la distinction fondamentale entre :
+
+PROTO : espace des causes.
+
+KIN : espace des raisons.
+
+Comme organisme, le locuteur appartient à des chaînes causales biologiques, physiques et historiques.
+
+Comme participant discursif, il entre dans un espace où ses productions peuvent être évaluées, justifiées ou contestées.
+
+Le locuteur constitue ainsi une interface :
+
+non pas entre matière et esprit ;
+
+mais entre causalité et normativité.
+
+Il est le point où une configuration produite dans l'espace des causes devient une contribution évaluable dans l'espace des raisons.
+
+---
+
 ## Thèse forte
 
 > Le locuteur n'est pas un sujet préalable aux descriptions.
