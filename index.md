@@ -129,34 +129,67 @@ Cette distinction permet d’éviter la réduction des justifications à des exp
 
 # 5. Du vivant au locuteur
 
-Cette section explicite la transition entre l’espace des causes et l’espace des raisons.
+Cette section explicite la transition entre l'espace des causes et l'espace des raisons.
 
-Documents associés
+## Documents associés
 
-Du vivant causal au locuteur normatif
-Contexte C et émergence du locuteur
+- [Du vivant causal au locuteur normatif](02_architecture_conceptuelle/locuteur.md)
+
+- [Contexte C et émergence du locuteur](02_architecture_conceptuelle/contexte_c.md)
+
+---
 
 Protokin distingue deux ordres d'analyse :
-les dynamiques causales du vivant ;
-les engagements normatifs du locuteur.
+
+- les dynamiques causales du vivant ;
+- les engagements normatifs du locuteur.
+
 Le vivant peut être décrit en termes :
-- d’adaptation ;
+
+- d'adaptation ;
 - de régulation ;
 - de couplage ;
-- d’histoire évolutive.
+- d'histoire évolutive.
 
-Le locuteur apparaît lorsqu’un organisme devient capable de participer à des pratiques où les descriptions sont soumises à des critères de justification.
+Le locuteur apparaît lorsqu'un organisme devient capable de participer à des pratiques où les descriptions sont soumises à des critères de justification.
 
-Cette transition ne désigne ni une rupture métaphysique ni l’apparition d’une substance nouvelle.
+Cette transition ne désigne ni une rupture métaphysique ni l'apparition d'une substance nouvelle.
 
-Elle correspond à l’entrée dans un espace où deviennent possibles :
+Elle correspond à l'entrée dans un espace où deviennent possibles :
+
 - la prédication ;
-- l’inférence ;
-- l’engagement ;
+- l'inférence ;
+- l'engagement ;
 - la justification ;
 - la révision des descriptions.
 
 Le locuteur constitue ainsi la condition pragmatique minimale de toute description analysable par Protokin.
+
+---
+
+# 6. Habilitations et reconnaissance
+
+Cette section analyse les conditions sous lesquelles un locuteur est reconnu comme participant légitime à une pratique de justification.
+
+## Documents associés
+
+- [Habilitations discursives](02_architecture_conceptuelle/habilitations.md)
+
+---
+
+Les pratiques descriptives ne reposent pas uniquement sur des engagements.
+
+Elles impliquent également des mécanismes de reconnaissance normative.
+
+Une habilitation désigne les conditions sous lesquelles un locuteur peut être tenu pour autorisé à intervenir dans un régime descriptif.
+
+Les conflits peuvent ainsi porter :
+
+- sur les descriptions ;
+- sur les engagements ;
+- sur l'attribution des habilitations.
+
+Protokin analyse ces mécanismes de reconnaissance comme des composantes internes des pratiques de justification.
 
 ---
 
