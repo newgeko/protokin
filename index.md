@@ -63,13 +63,11 @@ Cette section présente le positionnement général de Protokin.
 
 ## Documents fondamentaux
 
+- [Protokin — Nom, statut et orientation conceptuelle](01_statut/protokin.md)
+
 - [Protokin en une phrase](01_statut/en_une_phrase.md)
 
 - [Statut du projet](01_statut/statut.md)
-
-- [Protokin — Nom, statut et orientation conceptuelle](01_statut/protokin.md)
-
-  Origine du terme, statut conceptuel et principe directeur du projet.
 
 ---
 
