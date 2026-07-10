@@ -2,10 +2,9 @@
 
   - ## 01 — Statut de l’enquête
 
-    - [Présentation générale](01_statut/index.md)
+    - [Protokin : nom et orientation](01_statut/protokin.md)
     - [Protokin en une phrase](01_statut/en_une_phrase.md)
     - [Statut méthodologique](01_statut/statut.md)
-
 
   - ## 02 — Architecture conceptuelle
 
