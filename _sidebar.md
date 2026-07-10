@@ -1,7 +1,5 @@
 <!-- _sidebar.md -->
 
-- # Protokin
-
   - ## 01 — Statut de l’enquête
 
     - [Présentation générale](01_statut/index.md)
