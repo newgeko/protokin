@@ -18,10 +18,7 @@
 
 - [Architecture générale](../02_architecture_conceptuelle/architecture.md)
 - [Régimes de description](../02_architecture_conceptuelle/regimes.md)
-- [CAP — Cycle d’Audit Protokin](cap.md)
-- [OVM — Opérateur de Vigilance Modale](ovm.md)
 - [Locuteur](locuteur.md)
-- [Analyse](analyse.md)
 
 ---
 
@@ -199,8 +196,6 @@ L’audit suit une séquence générale appelée :
 4. Diagnostiquer les tensions et les déplacements.
 5. Transformer ou reconnaître une limite.
 
-Voir également : [CAP — Cycle d’Audit Protokin](cap.md)
-
 Ce cycle n’est pas un mécanisme automatique.
 
 Il constitue une représentation fonctionnelle d’un processus itératif et révisable.
@@ -337,8 +332,6 @@ Les déplacements peuvent prendre plusieurs formes :
 - réduction ;
 - extension conceptuelle.
 
-Voir également : [OVM — Opérateur de Vigilance Modale](ovm.md)
-
 ---
 
 # 11. Étape 7 — Évaluer les possibilités de transformation
@@ -383,8 +376,6 @@ Il permet d’identifier :
 - les changements implicites de critères ;
 - les transferts non justifiés ;
 - les confusions entre causes et raisons.
-
-Voir : [OVM — Opérateur de Vigilance Modale](ovm.md)
 
 ---
 
