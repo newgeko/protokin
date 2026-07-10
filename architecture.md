@@ -409,63 +409,36 @@ Il constitue un espace formel d’analyse.
 
 ---
 
-# 8. L’audit comme opération centrale
+# 8. Le noyau analytique de Protokin
 
-## 8.1 Fonction générale
+Le noyau analytique regroupe les distinctions fondamentales permettant d'examiner les conditions de stabilisation des descriptions.
 
-L’audit est l’opération par laquelle Protokin examine une configuration descriptive.
+Il comprend :
 
-Il cherche à expliciter :
+- la distinction entre causes et raisons ;
+- l'analyse des positions de locuteur ;
+- les engagements discursifs ;
+- les habilitations discursives ;
+- les critères de validité ;
+- les relations entre régimes ;
+- l'analyse des tensions ;
+- l'étude des transformations.
 
-- les régimes mobilisés ;
-- les engagements associés ;
-- les critères de justification ;
-- les tensions éventuelles ;
-- les possibilités de transformation.
+Ces éléments ne constituent pas des mécanismes explicatifs.
 
-Voir :
-
-- [`audit.md`](audit.md)
-
----
-
-## 8.2 Mouvement général
-
-Une enquête Protokin suit généralement ce mouvement :
-
-Configuration descriptive
-
-↓
-
-Identification des descriptions
-
-↓
-
-Identification des régimes
-
-↓
-
-Analyse des engagements
-
-↓
-
-Détection des tensions
-
-↓
-
-Analyse des déplacements
-
-↓
-
-Possibilité de transformation
-
-↓
-
-Nouvelle stabilisation ou limite
+Ils forment un ensemble de ressources analytiques permettant d'expliciter les conditions sous lesquelles des descriptions deviennent intelligibles, recevables, contestables ou transformables.
 
 Voir :
 
-- [`analyse.md`](analyse.md)
+- [`causes_raisons.md`](causes_raisons.md)
+- [`locuteur.md`](locuteur.md)
+- [`engagements.md`](engagements.md)
+
+Le Kernel n'est pas un mécanisme causal.
+
+Il ne produit pas automatiquement des résultats.
+
+Il constitue un espace formel d'analyse destiné à rendre explicites les structures normatives et inférentielles impliquées dans les pratiques descriptives.
 
 ---
 
