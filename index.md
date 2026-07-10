@@ -424,4 +424,6 @@ Il évite :
 
 > **Protokin ne cherche pas à expliquer ce que le monde est indépendamment de toute description.**
 >
-> **Il cherche à expliciter les conditions sous lesquelles des pratiques de justification rendent possible qu’un monde devienne descriptible, discutable et transformable.**
+> **Il cherche à expliciter les conditions sous lesquelles des locuteurs, au sein de pratiques de justification, produisent, stabilisent, contestent et transforment des descriptions du monde.**
+
+---
