@@ -41,7 +41,16 @@ Comment s'applique-t-il à lui-même ? → Rélexivité
 Quels exemples ? → Applications
   - [Exemples](09_applications/exemples.md)
   - [Pièges méthodologiques](09_applications/pitfalls.md)
-- [Géocentrisme et héliocentrisme](09_applications/geocentrisme_heliocentrisme.md)
+  - [Géocentrisme et héliocentrisme](09_applications/geocentrisme_heliocentrisme.md)
+  - [Théorie des humeurs](09_applications/humeurs_medecine.md)
+  - [Phlogistique et chime](09_applications/phlogistique_chimie.md)
+  - [maladies mentales](09_applications/maladies_mentales.md)
+  - [changement climatique](09_applications/changement_climatique.md)
+  - [Intelligence artificielle](09_applications/intelligence_artificielle.md)
+
+  
+
+ 
 
 
 Quels concepts ? → Glossaire
