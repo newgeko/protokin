@@ -37,6 +37,7 @@ D’où vient-il philosophiquement ? → Cartographie
     - [Pragmatisme](07_heritages_philosophiques/pragmatisme.md)
     - [Inférentialisme](07_heritages_philosophiques/inferentialisme.md)
     - [Ontologie historique](07_heritages_philosophiques/ontolgie_histoirique.md)
+    - [Individuation](07_heritages_philosophiques/individuation.md)
 
 Comment s'applique-t-il à lui-même ? → Rélexivité
   - [Réflexivité](08_reflexivite/reflexivite.md)
