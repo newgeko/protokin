@@ -41,6 +41,7 @@ Comment s'applique-t-il à lui-même ? → Rélexivité
 Quels exemples ? → Applications
   - [Exemples](09_applications/exemples.md)
   - [Pièges méthodologiques](09_applications/pitfalls.md)
+  - [Comment lire un cas ?](09_applications/comment_lire_un_cas.md)
   - [Géocentrisme et héliocentrisme](09_applications/geocentrisme_heliocentrisme.md)
   - [Théorie des humeurs](09_applications/humeurs_medecine.md)
   - [Phlogistique et chime](09_applications/phlogistique_chimie.md)
