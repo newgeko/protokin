@@ -34,6 +34,7 @@ Comment comparer les puissances descriptives ? → Image scientifique
 D’où vient-il philosophiquement ? → Cartographie
   - [Cartographie conceptuelle](07_heritages_philosophiques/cartographie.md)
   - [Influences et correspondances](07_heritages_philosophiques/influences.md)
+  - [Pragmatisme](07_heritages_philosophiques/pragmatisme.md)
 
   - [Pragmatisme](07_heritages_philosophiques/
   pragmatisme.md)
