@@ -36,7 +36,7 @@ D’où vient-il philosophiquement ? → Cartographie
   - [Influences et correspondances](07_heritages_philosophiques/influences.md)
     - [Pragmatisme](07_heritages_philosophiques/pragmatisme.md)
     - [Inférentialisme](07_heritages_philosophiques/inferentialisme.md)
-    - [Ontologie historique](07_heritages_philosophiques/ontolgie_histoirique.md)
+    - [Ontologie historique](07_heritages_philosophiques/ontologie_histoirique.md)
     - [Individuation](07_heritages_philosophiques/individuation.md)
 
 Comment s'applique-t-il à lui-même ? → Rélexivité
@@ -48,7 +48,7 @@ Quels exemples ? → Applications
   - [Comment lire un cas ?](09_applications/comment_lire_un_cas.md)
   - [Géocentrisme et héliocentrisme](09_applications/geocentrisme_heliocentrisme.md)
   - [Théorie des humeurs](09_applications/humeurs_medecine.md)
-  - [Phlogistique et chime](09_applications/phlogistique_chimie.md)
+  - [Phlogistique et chimie](09_applications/phlogistique_chimie.md)
   - [maladies mentales](09_applications/maladies_mentales.md)
   - [changement climatique](09_applications/changement_climatique.md)
   - [Intelligence artificielle](09_applications/intelligence_artificielle.md)
