@@ -10,6 +10,7 @@ Comment fonctionne-t-il ? → Architecture
   - [Engagements descriptifs](02_architecture_conceptuelle/engagements.md)
   - [Causes et raisons](02_architecture_conceptuelle/causes_raisons.md)
   - [Locuteur normatif](02_architecture_conceptuelle/locuteur.md)
+  - [Stabilisation et effet cliquet](02_architecture_conceptuelle/stabilisation.md)
 
 Comment l’utiliser ? → Méthode d’enquête
   - [Audit](03_methode_enquete/audit.md)
