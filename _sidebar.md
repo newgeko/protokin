@@ -10,6 +10,7 @@ Comment fonctionne-t-il ? → Architecture
   - [Engagements descriptifs](02_architecture_conceptuelle/engagements.md)
   - [Causes et raisons](02_architecture_conceptuelle/causes_raisons.md)
   - [Locuteur normatif](02_architecture_conceptuelle/locuteur.md)
+  - [Pratique collective](02_architecture_conceptuelle/pratique_collective.md)
   - [communauté de locuteurs](02_architecture_conceptuelle/communaute_locuteurs.md)
   - [Stabilisation et effet cliquet](02_architecture_conceptuelle/stabilisation.md)
 
