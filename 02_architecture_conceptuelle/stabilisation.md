@@ -1,117 +1,199 @@
-# L'effet cliquet
+# Stabilisation des configurations descriptives
 
-## Stabilisation cumulative des configurations descriptives
+## L'effet cliquet et la formation des régimes
+
+> Voir également :
+>
+> - [Content Layer](content_layer.md)
+> - [Engagements descriptifs](engagements.md)
+> - [Locuteur normatif](locuteur.md)
+> - [Régimes de description](regimes.md)
+> - [Transitions](../05_transformations/transitions.md)
+
+---
 
 ## Introduction
 
-Dans Protokin, l'effet cliquet désigne le processus par lequel une configuration descriptive acquiert une stabilité historique suffisante pour modifier durablement les conditions d'engagement, de justification et de transformation au sein d'un régime.
+Dans Protokin, les régimes descriptifs n'apparaissent pas spontanément.
 
-L'effet cliquet ne concerne pas directement les objets décrits ni les propriétés intrinsèques du monde.
+Entre les configurations descriptives disponibles dans le *Content Layer* et les régimes descriptifs historiquement stabilisés, il existe un ensemble de processus de transmission, de reprise, de correction, de validation et d'institutionnalisation.
 
-Il concerne la dynamique par laquelle des configurations descriptives deviennent progressivement intégrées dans des pratiques collectives de description, d'évaluation et de justification.
+L'analyse de ces processus constitue le domaine de la stabilisation.
 
-Une configuration ne devient pas dominante parce qu'elle révélerait une vérité ontologique définitive.
+L'effet cliquet désigne l'une des propriétés caractéristiques de cette dynamique.
 
-Elle devient dominante lorsqu'elle accumule un réseau suffisamment dense de compatibilités inférentielles, d'inscriptions matérielles, de pratiques institutionnelles et de reprises collectives pour orienter les engagements futurs.
+Il ne concerne ni les objets décrits ni les propriétés intrinsèques du monde.
+
+Il concerne la manière dont certaines configurations descriptives deviennent progressivement plus faciles à mobiliser, à justifier et à transmettre que d'autres.
+
+L'effet cliquet ne produit pas la vérité d'une configuration.
+
+Il décrit son degré de consolidation historique au sein d'un régime.
 
 ---
 
-# 1. Du cliquet culturel au cliquet configurationnel
+# 1. Configuration, stabilisation et régime
+
+Protokin distingue trois niveaux analytiques.
+
+## Configuration descriptive
+
+Une configuration descriptive correspond à une organisation possible de descriptions.
+
+Elle propose une manière de rendre un domaine intelligible.
+
+Plusieurs configurations peuvent coexister au sein d'un même espace descriptif.
+
+Par exemple :
+
+- géocentrisme ;
+- héliocentrisme ;
+- théorie du phlogistique ;
+- théorie atomique ;
+- théorie des humeurs ;
+- théorie microbienne.
+
+Une configuration est une possibilité descriptive.
+
+Elle n'est pas encore un régime.
+
+## Stabilisation
+
+La stabilisation désigne le processus par lequel une configuration est :
+
+- reprise ;
+- transmise ;
+- enseignée ;
+- corrigée ;
+- articulée à d'autres descriptions ;
+- intégrée à des pratiques collectives.
+
+La stabilisation ne constitue pas un état.
+
+Elle correspond à une trajectoire historique.
+
+## Régime descriptif
+
+Un régime descriptif apparaît lorsqu'un ensemble de stabilisations devient suffisamment structurant pour orienter durablement les engagements futurs.
+
+Le régime ne remplace pas les configurations.
+
+Il organise les conditions sous lesquelles certaines configurations deviennent plus facilement recevables, justifiables ou transformables que d'autres.
+
+---
+
+# 2. L'effet cliquet
+
+L'effet cliquet désigne l'asymétrie croissante produite par une trajectoire de stabilisation entre plusieurs configurations descriptives concurrentes.
+
+À mesure que certaines configurations accumulent des compatibilités inférentielles, des inscriptions matérielles et des reprises collectives, leur mobilisation devient moins coûteuse.
+
+Inversement, les configurations concurrentes exigent davantage de justifications, de révisions et de transformations.
+
+L'effet cliquet ne supprime pas les alternatives.
+
+Il modifie leur coût relatif d'engagement.
+
+Une configuration fortement stabilisée devient progressivement le point d'appui ordinaire des descriptions ultérieures.
+
+---
+
+# 3. Du cliquet culturel au cliquet configurationnel
 
 Chez Michael Tomasello, l'effet cliquet décrit l'accumulation culturelle par laquelle certaines innovations deviennent transmissibles et empêchent une simple régression au niveau précédent.
 
-Chaque génération hérite ainsi d'un espace déjà transformé par les générations antérieures.
+Chaque génération hérite d'un environnement déjà transformé par les générations antérieures.
 
-Protokin transpose cette dynamique au niveau des configurations descriptives.
+Protokin transpose cette intuition au niveau des configurations descriptives.
 
-Le cliquet n'est plus seulement attaché aux outils, aux techniques ou aux comportements.
+Le cliquet ne concerne plus seulement :
 
-Il concerne les formes de description stabilisées.
+- les outils ;
+- les techniques ;
+- les comportements ;
+- les artefacts.
 
-Une configuration descriptive acquiert un effet cliquet lorsqu'elle devient suffisamment intégrée dans un réseau collectif pour que les nouveaux engagements doivent désormais composer avec elle.
+Il concerne également les formes de description.
 
-Le passage du géocentrisme à l'héliocentrisme illustre ce phénomène.
-
-L'héliocentrisme ne s'impose pas seulement comme une hypothèse alternative.
-
-Il devient progressivement une configuration intégrée à un ensemble de pratiques :
-
-- calculs astronomiques ;
-- instruments d'observation ;
-- modèles physiques ;
-- enseignements ;
-- institutions scientifiques.
-
-La configuration précédente demeure formulable, mais elle perd son équilibre initial dans l'espace des raisons.
+Une configuration descriptive acquiert un effet cliquet lorsqu'elle devient suffisamment intégrée à des pratiques collectives pour que les nouveaux engagements doivent désormais composer avec elle.
 
 ---
 
-# 2. Locuteur et intentionnalité collective
+# 4. Locuteur et intentionnalité collective
 
-L'effet cliquet n'agit pas indépendamment des locuteurs.
+L'effet cliquet n'agit jamais indépendamment des locuteurs.
 
 Une configuration descriptive ne se stabilise que par l'activité cumulative de locuteurs engagés dans des pratiques collectives.
 
 Le locuteur normatif n'est jamais le point de départ absolu d'un espace descriptif.
 
-Il hérite d'un ensemble d'engagements déjà structurés.
+Il hérite toujours :
 
-Chaque assertion, chaque justification et chaque correction s'inscrit dans une histoire préalable de prises de position.
+- d'un vocabulaire ;
+- d'engagements préexistants ;
+- de critères de justification ;
+- de distinctions déjà stabilisées.
 
-L'intentionnalité collective fournit les conditions sociales de cette stabilisation.
+Chaque prise de position s'inscrit dans une histoire préalable de descriptions.
+
+L'intentionnalité collective fournit les conditions sociales de cette continuité.
 
 Elle permet que certaines descriptions soient :
 
 - reprises ;
 - transmises ;
-- enseignées ;
-- contestées ;
+- évaluées ;
 - corrigées ;
+- enseignées ;
 - intégrées à des pratiques communes.
 
-L'effet cliquet correspond alors à la transformation d'une configuration locale en une structure collective durable.
+La stabilisation est donc un phénomène collectif avant d'être un phénomène individuel.
 
 ---
 
-# 3. Brandom : engagements et espace des raisons
+# 5. Brandom : engagements et espace des raisons
 
-L'apport de Robert Brandom permet de comprendre la dimension inférentielle du cliquet.
+L'apport de Robert Brandom permet de comprendre la dimension inférentielle de la stabilisation.
 
-Les locuteurs ne produisent jamais leurs engagements dans un espace vide.
+Les locuteurs n'entrent jamais dans un espace vide.
 
-Ils participent à un réseau de responsabilités discursives déjà constitué.
+Ils participent à un réseau historique d'engagements et de responsabilités discursives déjà constitué.
 
-Une configuration fortement stabilisée possède :
+Une configuration fortement stabilisée possède généralement :
 
 - un grand nombre de conséquences inférentielles disponibles ;
 - des justifications déjà établies ;
-- des compatibilités avec d'autres engagements acceptés.
+- des compatibilités avec d'autres engagements ;
+- des procédures reconnues de correction.
 
-Une configuration concurrente peut rester intelligible, mais son adoption impose davantage de révisions et de justifications.
+Une configuration concurrente peut demeurer intelligible.
 
-L'effet cliquet correspond donc à une asymétrie croissante dans l'espace des raisons.
+Cependant, son adoption exige davantage de révisions et de justifications.
+
+L'effet cliquet correspond à cette asymétrie croissante dans l'espace des raisons.
 
 ---
 
-# 4. Joseph Rouse : inscription dans une niche normative
+# 6. Joseph Rouse : inscription dans une niche normative
 
 Une configuration descriptive ne flotte pas dans un espace purement conceptuel.
 
-Avec Joseph Rouse, Protokin considère que les pratiques conceptuelles sont également des pratiques matérielles.
+Avec Joseph Rouse, Protokin considère que les pratiques descriptives sont également des pratiques matérielles.
 
 Elles s'inscrivent dans :
 
 - des instruments ;
 - des institutions ;
-- des formations ;
 - des technologies ;
+- des formations ;
+- des infrastructures ;
 - des organisations sociales.
 
-L'héliocentrisme ne s'est pas stabilisé uniquement comme système théorique.
+La stabilisation d'une configuration dépend aussi de son inscription dans une niche normative et pratique.
 
-Il s'est incorporé dans une niche scientifique qui rend certaines descriptions plus disponibles que d'autres.
+Les descriptions deviennent alors plus facilement reproductibles, transmissibles et mobilisables.
 
-La stabilisation est donc à la fois :
+La stabilisation est simultanément :
 
 - inférentielle ;
 - sociale ;
@@ -119,52 +201,129 @@ La stabilisation est donc à la fois :
 
 ---
 
-# 5. Le coût inférentiel différentiel
+# 7. Coût inférentiel différentiel
 
-L'effet cliquet peut être décrit par la notion de coût inférentiel différentiel.
+L'effet cliquet peut être décrit à partir de la notion de coût inférentiel différentiel.
 
-Soient deux configurations descriptives concurrentes C1 et C2.
+Soient deux configurations descriptives concurrentes :
 
-Elles peuvent rester toutes deux formulables.
+- C₁ ;
+- C₂.
 
-Cependant, leur adoption n'entraîne pas les mêmes conséquences.
+Les deux peuvent rester formulables.
 
-Une configuration stabilisée possède un coût d'intégration faible parce qu'elle bénéficie d'un réseau déjà établi.
+Cependant, leur mobilisation n'entraîne pas les mêmes conséquences.
 
-Une configuration marginalisée possède un coût d'intégration élevé parce qu'elle nécessite une réorganisation plus importante du réseau descriptif.
+Une configuration fortement stabilisée possède un coût d'intégration relativement faible parce qu'elle bénéficie déjà :
+
+- d'un réseau de compatibilités ;
+- de justifications disponibles ;
+- d'inscriptions institutionnelles ;
+- de soutiens matériels.
+
+Une configuration marginalisée possède un coût plus élevé parce qu'elle nécessite une réorganisation plus importante du réseau descriptif.
 
 L'effet cliquet mesure cette asymétrie.
 
 Il ne mesure pas la vérité d'une configuration.
 
-Il mesure son degré de stabilisation dans un régime donné.
+Il mesure son degré de stabilisation au sein d'un régime.
 
 ---
 
-# 6. Définition protokinienne
+# 8. Exemple : géocentrisme et héliocentrisme
 
-> L'effet cliquet désigne le processus par lequel une configuration descriptive accumule suffisamment de stabilisations collectives, d'intégrations inférentielles et d'inscriptions pratiques pour modifier durablement le coût relatif des engagements possibles au sein d'un régime.
+La transition du géocentrisme vers l'héliocentrisme illustre ce processus.
 
-Le cliquet ne produit pas une irréversibilité absolue.
+Au départ, les deux configurations sont descriptivement disponibles.
 
-Il produit une asymétrie historique.
+Elles coexistent dans l'espace des possibilités.
 
-Une configuration fortement stabilisée devient le point d'appui ordinaire des descriptions ultérieures, tandis que les alternatives nécessitent une énergie normative, pratique et institutionnelle supérieure pour être réintroduites.
+Progressivement, l'héliocentrisme accumule :
+
+- des observations compatibles ;
+- des reformulations mathématiques ;
+- des instruments adaptés ;
+- des pratiques scientifiques ;
+- des dispositifs d'enseignement ;
+- des institutions de validation.
+
+Cette accumulation produit une trajectoire de stabilisation.
+
+L'effet cliquet apparaît lorsque cette trajectoire modifie durablement le coût relatif des engagements possibles.
+
+Le géocentrisme demeure formulable.
+
+Cependant, son adoption exige désormais la révision d'un ensemble beaucoup plus vaste de descriptions, de pratiques et d'institutions.
+
+L'asymétrie n'est pas ontologique.
+
+Elle est historique, pratique et inférentielle.
 
 ---
 
-# 7. Fonction dans Protokin
+# 9. Stabilisation historique et ontologie historique
 
-Dans l'architecture Protokin, l'effet cliquet est un opérateur de description des trajectoires de stabilisation.
+L'effet cliquet présente une proximité avec l'ontologie historique développée par Ian Hacking.
 
-Il explique comment :
+L'intérêt de cette approche ne réside pas dans l'identification d'entités fondamentales.
 
-configuration descriptive  
-→ accumulation d'engagements  
-→ stabilisation collective  
-→ augmentation du coût de transformation  
-→ consolidation d'un régime
+Il réside dans l'analyse des processus par lesquels certaines classifications, catégories et descriptions acquièrent une effectivité historique.
 
-Le cliquet n'est donc ni une théorie de la vérité, ni une théorie de l'évolution historique.
+Une configuration devient historiquement effective lorsqu'elle est incorporée à des pratiques collectives suffisamment stabilisées pour orienter durablement les engagements futurs.
 
-Il décrit la manière dont certaines configurations deviennent durablement structurantes pour un espace de raisons donné.
+L'effet cliquet décrit précisément cette dynamique de consolidation historique.
+
+---
+
+# 10. Fonction dans Protokin
+
+Dans l'architecture de Protokin, la stabilisation constitue le processus qui relie les configurations descriptives aux régimes descriptifs.
+
+L'effet cliquet constitue l'un des indicateurs de cette stabilisation.
+
+Le schéma général est le suivant :
+
+```text
+Configuration descriptive
+
+↓
+
+Reprises par des locuteurs
+
+↓
+
+Pratiques collectives
+
+↓
+
+Stabilisations successives
+
+↓
+
+Effet cliquet
+
+↓
+
+Régime descriptif
+
+↓
+
+Nouveaux engagements
+```
+
+L'effet cliquet n'est donc ni une théorie de la vérité ni une théorie de l'histoire.
+
+Il constitue un opérateur analytique permettant de décrire comment certaines configurations deviennent progressivement structurantes pour un espace de raisons donné.
+
+---
+
+## Définition protokinienne
+
+> **Effet cliquet**
+>
+> Asymétrie croissante produite par une trajectoire de stabilisation entre plusieurs configurations descriptives concurrentes.
+>
+> Cette asymétrie modifie progressivement le coût relatif des engagements, des justifications et des transformations possibles au sein d'un régime.
+>
+> L'effet cliquet ne produit pas une irréversibilité absolue. Il décrit le degré de consolidation historique d'une configuration dans un espace collectif de raisons.
