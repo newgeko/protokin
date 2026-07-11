@@ -35,6 +35,7 @@ D’où vient-il philosophiquement ? → Cartographie
   - [Cartographie conceptuelle](07_heritages_philosophiques/cartographie.md)
   - [Influences et correspondances](07_heritages_philosophiques/influences.md)
     - [Pragmatisme](07_heritages_philosophiques/pragmatisme.md)
+    - [Inférentialisme](07_heritages_philosophiques/inferentialisme.md)
 
 Comment s'applique-t-il à lui-même ? → Rélexivité
   - [Réflexivité](08_reflexivite/reflexivite.md)
