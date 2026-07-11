@@ -41,6 +41,8 @@ Comment s'applique-t-il à lui-même ? → Rélexivité
 Quels exemples ? → Applications
   - [Exemples](09_applications/exemples.md)
   - [Pièges méthodologiques](09_applications/pitfalls.md)
+- [Géocentrisme et héliocentrisme](09_applications/geocentrisme_heliocentrisme.md)
+
 
 Quels concepts ? → Glossaire
   - [Glossaire](10_ressources/glossaire.md)
