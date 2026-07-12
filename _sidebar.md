@@ -7,6 +7,7 @@ Comment fonctionne-t-il ? → Architecture
   - [Architecture générale](02_architecture_conceptuelle/architecture.md)
   - [Régimes de description](02_architecture_conceptuelle/regimes.md)
   - [Content Layer](02_architecture_conceptuelle/content_layer.md)
+  - [Configurations sémiotiques](02_architecture_conceptuelle/configurations_semiotiques.md)
   - [Engagements descriptifs](02_architecture_conceptuelle/engagements.md)
   - [Causes et raisons](02_architecture_conceptuelle/causes_raisons.md)
   - [Locuteur normatif](02_architecture_conceptuelle/locuteur.md)
