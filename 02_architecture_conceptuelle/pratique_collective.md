@@ -19,39 +19,108 @@ Dans Protokin, les descriptions ne sont jamais produites par des individus isol�
 
 Elles émergent, circulent, se maintiennent et se transforment dans des pratiques collectives.
 
-La pratique collective constitue ainsi le niveau intermédiaire entre le locuteur normatif et les régimes descriptifs.
+La pratique collective constitue le niveau pragmatique intermédiaire entre :
 
-Elle explique comment des individus biologiquement situés deviennent des participants d'un espace partagé de descriptions, de justifications et d'engagements.
+- le locuteur normatif ;
+- la communauté de locuteurs ;
+- les régimes descriptifs.
 
-La pratique collective n'est pas une simple addition de comportements individuels.
+Elle n'a pas pour fonction de définir le locuteur, la communauté ou le régime descriptif.
 
-Elle désigne une organisation coordonnée d'activités dans laquelle des participants acquièrent, maintiennent et transforment des critères communs de description, d'évaluation et d'action.
+Elle établit uniquement comment des activités coordonnées permettent la formation, la transmission et la transformation de configurations descriptives.
+
+Une pratique collective n'est pas une simple addition de comportements individuels.
+
+Elle désigne une organisation dynamique d'activités dans laquelle des participants acquièrent, maintiennent et transforment :
+
+- des critères de description ;
+- des formes d'évaluation ;
+- des procédures de correction ;
+- des modalités de transmission ;
+- des engagements partagés.
+
+Elle constitue ainsi le milieu pragmatique dans lequel des descriptions peuvent devenir collectivement intelligibles et durablement stabilisées.
 
 ---
 
-# 1. Le statut pragmatiste de la pratique collective
+# 1. Fonction de la pratique collective dans Protokin
+
+La pratique collective répond à une question centrale :
+
+> Comment des activités coordonnées rendent-elles possible l'existence de descriptions partageables, évaluables et transformables ?
+
+Une description n'existe pas seulement comme contenu abstrait.
+
+Elle doit pouvoir être intégrée dans des pratiques où elle devient :
+
+- utilisable ;
+- interprétable ;
+- critiquable ;
+- transmissible ;
+- révisable.
+
+La pratique collective analyse donc les conditions pragmatiques d'existence des descriptions dans des activités partagées.
+
+Elle ne constitue pas une théorie du contenu des descriptions.
+
+Elle décrit le milieu dans lequel ces descriptions acquièrent une fonction normative.
+
+---
+
+# 2. Participation et apprentissage
+
+L'entrée dans une pratique collective ne commence pas par la maîtrise explicite de règles.
+
+Elle commence par une participation progressive.
+
+Un participant apprend d'abord à travers :
+
+- l'observation ;
+- l'imitation ;
+- la répétition ;
+- la correction ;
+- l'ajustement.
+
+Il acquiert progressivement la capacité de distinguer :
+
+- ce qui est pertinent ;
+- ce qui constitue une erreur ;
+- ce qui demande une justification ;
+- ce qui peut être accepté ou contesté.
+
+La pratique collective précède donc souvent l'explicitation consciente des règles qui organisent l'activité.
+
+Le participant est d'abord engagé dans une pratique avant de pouvoir formuler les principes qui la structurent.
+
+---
+
+# 3. Statut pragmatiste
 
 Dans la tradition pragmatiste, les pratiques ne sont pas l'application d'idées déjà constituées.
 
-Elles constituent le milieu dans lequel les concepts, les normes et les critères prennent forme.
+Elles constituent le milieu dans lequel les concepts, les normes et les critères deviennent opératoires.
 
-La pratique collective précède donc l'explicitation théorique.
+La pratique collective précède ainsi l'explicitation théorique.
 
-Les participants apprennent d'abord :
+Les participants acquièrent progressivement :
 
-- des manières de faire ;
+- des habitudes d'action ;
 - des distinctions pertinentes ;
-- des critères de correction ;
-- des formes d'attention ;
-- des procédures de validation.
+- des attentes partagées ;
+- des critères de réussite ;
+- des mécanismes de correction.
 
-Les règles explicites émergent progressivement à partir de pratiques déjà organisées.
+Les règles explicites émergent à partir de pratiques déjà organisées.
+
+La pratique collective n'est donc pas un simple support extérieur des descriptions.
+
+Elle participe aux conditions mêmes de leur intelligibilité.
 
 ---
 
-# 2. Dewey : enquête et transformation des situations
+# 4. Dewey : enquête et transformation des situations
 
-Chez John Dewey, une pratique collective apparaît particulièrement dans les situations d'enquête.
+Chez John Dewey, la pratique collective apparaît particulièrement dans les situations d'enquête.
 
 Une communauté rencontre une difficulté :
 
@@ -60,11 +129,10 @@ Une communauté rencontre une difficulté :
 - une incompatibilité ;
 - un problème pratique.
 
-Elle engage alors un processus collectif de recherche et de transformation.
+Cette difficulté provoque une activité collective de recherche et de transformation.
 
-Le schéma général est :
+Le mouvement général peut être décrit ainsi :
 
-```text
 Situation problématique
 
 ↓
@@ -73,28 +141,31 @@ Enquête collective
 
 ↓
 
-Réorganisation des descriptions
+Réorganisation des pratiques
 
 ↓
 
-Nouvelle stabilisation pratique
-```
+Nouvelle stabilisation
 
-Dans Protokin, les transitions descriptives suivent une dynamique analogue.
+Dans Protokin, les transformations descriptives suivent une dynamique comparable.
 
-Un régime n'est pas remplacé simplement par une nouvelle idée.
+Un régime descriptif n'est pas transformé simplement par l'apparition d'une nouvelle idée.
 
-Il est transformé lorsque les pratiques collectives ne parviennent plus à maintenir une cohérence suffisante entre leurs engagements.
+Il évolue lorsque les pratiques collectives ne permettent plus de maintenir une cohérence suffisante entre :
+
+- les descriptions mobilisées ;
+- les engagements associés ;
+- les critères d'évaluation.
 
 ---
 
-# 3. Wittgenstein : usages et formes de vie
+# 5. Wittgenstein : usages et formes de vie
 
-La pratique collective permet également d'éviter une conception purement représentationnelle du langage.
+La pratique collective permet d'éviter une conception purement représentationnelle du langage.
 
-Une description n'a pas de sens uniquement parce qu'elle correspondrait à un état mental individuel.
+Une description n'acquiert pas sa fonction uniquement par une correspondance avec un état mental individuel.
 
-Elle acquiert une fonction parce qu'elle est utilisée dans des pratiques partagées.
+Elle devient intelligible parce qu'elle est utilisée dans des pratiques partagées.
 
 Le sens dépend de son inscription dans :
 
@@ -103,19 +174,19 @@ Le sens dépend de son inscription dans :
 - des règles ;
 - des formes de vie.
 
-Dans Protokin, une configuration descriptive devient intelligible parce qu'elle est intégrée à un réseau de pratiques collectives.
+Dans Protokin, une configuration descriptive devient fonctionnelle lorsqu'elle est intégrée dans un réseau de pratiques collectives.
 
 ---
 
-# 4. Brandom : la pratique collective comme espace des raisons
+# 6. Brandom : pratique collective et espace des raisons
 
 La pratique collective constitue le milieu dans lequel fonctionne l'espace des raisons.
 
-Les locuteurs ne produisent pas simplement des énoncés.
+Les participants ne produisent pas seulement des énoncés.
 
-Ils prennent des engagements qui peuvent être évalués par d'autres participants.
+Ils prennent des engagements susceptibles d'être évalués par d'autres participants.
 
-Chaque pratique collective organise une forme de *scorekeeping* :
+Chaque pratique collective organise une forme de suivi normatif :
 
 - attribution d'engagements ;
 - évaluation des justifications ;
@@ -128,13 +199,13 @@ Elle constitue le réseau pratique dans lequel les engagements deviennent évalu
 
 ---
 
-# 5. Rouse : pratiques, environnement et niche normative
+# 7. Rouse : pratiques, environnement et niche normative
 
-Avec Joseph Rouse, la pratique collective ne doit pas être comprise comme une activité purement symbolique.
+Avec Joseph Rouse, la pratique collective ne doit pas être comprise comme une activité uniquement symbolique.
 
 Les pratiques descriptives sont également inscrites matériellement.
 
-Elles s'appuient sur :
+Elles reposent sur :
 
 - des instruments ;
 - des institutions ;
@@ -145,19 +216,18 @@ Elles s'appuient sur :
 
 Une pratique collective transforme son environnement et est en retour transformée par lui.
 
-Elle participe ainsi à la construction d'une niche normative dans laquelle certaines descriptions deviennent plus accessibles que d'autres.
+Elle contribue ainsi à construire une niche normative dans laquelle certaines descriptions deviennent accessibles, stabilisables et transmissibles.
 
 ---
 
-# 6. Relation entre pratique collective et locuteur
+# 8. Relation entre pratique collective et locuteur
 
-Le locuteur normatif n'existe pas avant les pratiques collectives.
+Le locuteur normatif n'existe pas indépendamment des pratiques collectives.
 
-Il devient locuteur en participant à des activités où des engagements peuvent lui être attribués.
+Il devient locuteur en participant à des activités où ses productions peuvent recevoir un statut descriptif et normatif.
 
-La trajectoire du locuteur peut être décrite ainsi :
+La trajectoire générale est :
 
-```text
 Organisme
 
 ↓
@@ -179,25 +249,23 @@ Locuteur normatif
 ↓
 
 Responsabilité discursive
-```
 
-La compétence descriptive n'est donc pas une propriété purement individuelle.
+La compétence descriptive n'est donc pas une propriété individuelle isolée.
 
 Elle résulte d'une participation réussie à des pratiques collectives.
 
 ---
 
-# 7. Pratique collective et communauté de locuteurs
+# 9. Pratique collective et communauté de locuteurs
 
 La pratique collective et la communauté de locuteurs sont liées mais distinctes.
 
 La communauté désigne le réseau des participants capables d'attribuer et d'évaluer des engagements.
 
-La pratique collective désigne les activités organisées par lesquelles ces engagements prennent forme.
+La pratique collective désigne les activités organisées dans lesquelles ces engagements prennent forme.
 
-Ainsi :
+La relation générale est :
 
-```text
 Pratiques collectives
 
 ↓
@@ -215,15 +283,14 @@ Espace des raisons
 ↓
 
 Régimes descriptifs
-```
 
-La communauté n'est pas un groupe homogène.
+La communauté n'est donc pas un groupe homogène.
 
-Elle est un ensemble dynamique de positions, de compétences et de relations normatives.
+Elle constitue un ensemble dynamique de positions, de compétences et de relations normatives.
 
 ---
 
-# 8. Pratique collective et stabilisation
+# 10. Pratique collective et stabilisation
 
 La stabilisation des configurations descriptives dépend directement des pratiques collectives.
 
@@ -235,11 +302,8 @@ Une configuration devient durable lorsqu'elle est incorporée dans :
 - des formes d'apprentissage ;
 - des chaînes de transmission.
 
-L'effet cliquet apparaît lorsque cette accumulation modifie durablement le coût relatif des engagements possibles.
+La dynamique générale est :
 
-Le schéma est :
-
-```text
 Configuration descriptive
 
 ↓
@@ -261,15 +325,18 @@ Effet cliquet
 ↓
 
 Régime descriptif
-```
+
+La stabilisation n'est donc pas une simple conservation.
+
+Elle résulte d'une reproduction active dans des pratiques partagées.
 
 ---
 
-# 9. La pratique collective comme lieu de transformation
+# 11. Pratique collective comme lieu de transformation
 
-La pratique collective n'est pas seulement un mécanisme de conservation.
+La pratique collective n'est pas seulement un mécanisme de maintien.
 
-Elle est également le lieu des transformations.
+Elle constitue également un lieu de transformation.
 
 Les tensions internes peuvent produire :
 
@@ -287,17 +354,16 @@ Une pratique collective maintient donc simultanément :
 
 ---
 
-# 10. Fonction dans Protokin
+# 12. Fonction dans l'architecture Protokin
 
-Dans l'architecture de Protokin, la pratique collective constitue le mécanisme pragmatique qui relie :
+Dans Protokin, la pratique collective constitue le mécanisme pragmatique reliant :
 
 - les organismes aux locuteurs ;
 - les locuteurs aux communautés ;
 - les communautés aux régimes descriptifs.
 
-Le schéma général devient :
+Le mouvement général est :
 
-```text
 Espace des causes
 
 ↓
@@ -335,7 +401,6 @@ Régime descriptif
 ↓
 
 Transitions
-```
 
 La pratique collective n'est donc ni un simple comportement social ni une convention arbitraire.
 
