@@ -2,405 +2,325 @@
 
 > Une description n’est jamais un simple énoncé représentant une situation.
 >
-> Décrire consiste toujours à prendre position dans un espace de conséquences, d’inférences et de justifications.
+> Décrire consiste toujours à adopter une position dans un espace de conséquences, d’inférences et de justifications.
 >
-> Dans Protokin, un **engagement** désigne ce qui est assumé lorsqu’une description est adoptée au sein d’une pratique donnée.
+> Dans Protokin, un **engagement** désigne ce qui devient assumé lorsqu’une description fonctionne dans une pratique donnée.
 
 ---
 
-# 1. Fonction du concept d’engagement
+# 1. Fonction générale des engagements
 
-## 1.1 Pourquoi analyser les engagements ?
+## 1.1 Question directrice
 
-Une description ne se limite pas à identifier des objets.
+Ce fichier répond à une question centrale :
 
-Lorsqu’un agent, une institution ou une communauté adopte une description, cette adoption modifie :
+> Que devient une description lorsqu’elle n’est pas seulement comprise, mais adoptée dans une pratique de justification ?
+
+Une description ne consiste pas uniquement à identifier quelque chose.
+
+Lorsqu’un locuteur, une institution ou une communauté adopte une description, cette adoption organise :
 
 - ce qui peut être affirmé ;
+- ce qui peut être reconnu comme pertinent ;
 - ce qui peut être inféré ;
-- ce qui doit être justifié ;
-- quelles conséquences deviennent acceptables.
+- ce qui doit être justifié.
 
-L’analyse des engagements permet donc de répondre à une question centrale :
-
-> Que faisons-nous lorsque nous adoptons une manière particulière de décrire une situation ?
+L’analyse des engagements permet donc d’étudier la dimension normative des descriptions.
 
 ---
 
-## 1.2 L’engagement comme fonction analytique
+## 1.2 Définition générale
 
-Dans Protokin, un engagement n’est pas une propriété psychologique d’un individu.
+Dans Protokin, un engagement désigne :
 
-Il ne désigne pas simplement :
+> La position normative qu’une description occupe lorsqu’elle entre dans un réseau d’inférences, de justifications et de pratiques.
 
-- une croyance personnelle ;
-- une intention subjective ;
-- une conviction intérieure.
+Un engagement n’est pas :
 
-Il désigne une **fonction normative dans une pratique de justification**.
+- une croyance privée ;
+- un état mental individuel ;
+- une intention psychologique.
 
-Un engagement correspond à la position occupée par une description dans un réseau de conséquences et d’obligations discursives.
+Il correspond à une fonction dans un espace de justification partagé.
+
+Un engagement indique ce qu’une description rend possible, nécessaire ou problématique lorsqu’elle est utilisée dans une pratique donnée.
 
 Voir :
 
-- [`regimes.md`](regimes.md)
-- [`causes_raisons.md`](causes_raisons.md)
+- [Régimes de description](regimes.md)
+- [Causes et raisons](causes_raisons.md)
 
 ---
 
 # 2. Description et engagement
 
-## 2.1 Une description implique des conséquences
+## 2.1 Une description n’est jamais neutre
 
-Toute description sélectionne certains éléments comme pertinents.
+Une description sélectionne certaines différences comme pertinentes.
 
-Elle produit donc des engagements concernant :
+Elle établit donc implicitement :
 
-- ce qui compte comme objet ;
-- ce qui compte comme preuve ;
-- ce qui compte comme explication ;
-- ce qui compte comme justification.
+- ce qui mérite d’être pris en compte ;
+- ce qui peut être relié ;
+- ce qui peut servir de justification ;
+- quelles conséquences peuvent être envisagées.
 
-Exemple :
+Une description ne se contente pas d’ajouter une information.
 
-Décrire une décision comme un « choix rationnel » engage à examiner :
-
-- les raisons invoquées ;
-- la cohérence des arguments ;
-- la responsabilité de l’agent.
-
-La décrire comme un « comportement neuronal » engage plutôt à examiner :
-
-- les mécanismes biologiques ;
-- les processus causaux ;
-- les régularités observables.
-
-Ces deux descriptions peuvent être pertinentes, mais elles ne produisent pas les mêmes engagements.
+Elle organise une manière de se rapporter à une situation.
 
 ---
 
-## 2.2 Engagement et régime descriptif
+## 2.2 Décrire, c’est prendre position
 
-Les engagements ne sont jamais isolés.
+Adopter une description revient à entrer dans un espace de responsabilités descriptives.
 
-Ils appartiennent toujours à un régime descriptif déterminé.
+Cela signifie être capable de répondre à des questions comme :
 
-Un régime définit :
+- Pourquoi cette description est-elle pertinente ?
+- Quelles conséquences entraîne-t-elle ?
+- Quelles autres descriptions exclut-elle ou limite-t-elle ?
+- Quelles justifications peut-elle recevoir ?
 
-- les engagements acceptables ;
-- les inférences autorisées ;
-- les critères de justification.
+L’engagement apparaît ainsi comme la dimension normative interne à toute pratique descriptive.
+
+---
+
+# 3. Engagement et régime descriptif
+
+Les engagements ne sont jamais indépendants des régimes de description.
+
+Un régime détermine les conditions dans lesquelles certaines descriptions peuvent être évaluées.
 
 Voir :
 
-- [`regimes.md`](regimes.md)
+- [Régimes de description](regimes.md)
 
-Ainsi, un même terme peut produire des engagements différents selon le régime dans lequel il est utilisé.
+Un même objet peut donc produire des engagements différents selon le régime mobilisé.
+
+Par exemple :
+
+- une description scientifique engage des critères expérimentaux ;
+- une description juridique engage des critères institutionnels ;
+- une description historique engage des critères liés aux sources et à l’interprétation.
+
+Les engagements ne sont donc pas attachés aux objets eux-mêmes.
+
+Ils dépendent des cadres descriptifs dans lesquels les objets deviennent intelligibles.
 
 ---
 
-# 3. Structure d’un engagement
+# 4. Dimensions d’un engagement
 
-Un engagement peut être analysé selon plusieurs dimensions.
+Un engagement possède plusieurs dimensions complémentaires.
 
 ---
 
-# 3.1 Engagement descriptif
+## 4.1 Dimension descriptive
 
-Il concerne ce qui est affirmé comme pertinent dans une description.
+Elle concerne ce qu’une description rend pertinent.
+
+Elle porte sur :
+
+- les objets identifiés ;
+- les catégories utilisées ;
+- les différences reconnues.
 
 Questions :
 
-- Quel objet est identifié ?
-- Quelles distinctions sont mobilisées ?
-- Quels éléments deviennent visibles ?
-
-Exemple :
-
-Dans un régime biologique, une cellule peut être décrite comme un système d’interactions moléculaires.
-
-Dans un régime institutionnel, elle peut ne pas constituer l’objet pertinent de l’analyse.
+- Qu’est-ce qui devient visible ?
+- Selon quelles distinctions ?
+- Dans quel cadre quelque chose devient-il descriptible ?
 
 ---
 
-# 3.2 Engagement inférentiel
+## 4.2 Dimension inférentielle
 
-Il concerne les conséquences que l’on accepte lorsqu’une description est adoptée.
+Elle concerne les conséquences reconnues comme acceptables.
+
+Une description organise un réseau de relations entre affirmations.
+
+Elle détermine :
+
+- quelles conclusions peuvent être tirées ;
+- quelles relations sont admises ;
+- quelles conséquences sont compatibles avec elle.
+
+Voir :
+
+- [Régimes de description](regimes.md)
+
+---
+
+## 4.3 Dimension justificative
+
+Elle concerne les conditions permettant de soutenir une description.
+
+Elle implique :
+
+- des critères d’évaluation ;
+- des formes d’argumentation ;
+- des pratiques de correction.
+
+Une description n’existe donc jamais uniquement comme contenu.
+
+Elle existe dans un espace où elle peut être soutenue, discutée et évaluée.
+
+Voir :
+
+- [Causes et raisons](causes_raisons.md)
+
+---
+
+## 4.4 Dimension pratique
+
+Les engagements possèdent également une dimension pratique.
+
+Une description peut orienter :
+
+- des actions ;
+- des décisions ;
+- des coordinations ;
+- des comportements collectifs.
+
+Une description devient opératoire lorsqu’elle permet à des acteurs de coordonner leurs pratiques.
+
+---
+
+# 5. Engagements et espace des raisons
+
+## 5.1 Une dimension normative
+
+Les engagements appartiennent principalement à l’espace des raisons.
+
+Ils concernent :
+
+- ce qui peut être défendu ;
+- ce qui peut être critiqué ;
+- ce qui doit être justifié.
+
+Cette dimension distingue une description comme simple occurrence linguistique d’une description comme position normative.
+
+Voir :
+
+- [Causes et raisons](causes_raisons.md)
+
+---
+
+## 5.2 Engagement et responsabilité descriptive
+
+Adopter une description implique une responsabilité particulière.
+
+Le locuteur devient responsable :
+
+- de la pertinence de ses distinctions ;
+- des conséquences qu’il reconnaît ;
+- des justifications qu’il accepte.
+
+L’engagement ne désigne donc pas seulement une relation entre une description et un objet.
+
+Il désigne une relation entre une description et une pratique de justification.
+
+---
+
+# 6. Engagements et pratiques collectives
+
+Les engagements ne sont pas uniquement individuels.
+
+Ils existent dans des communautés de locuteurs.
+
+Une communauté stabilise des engagements lorsqu’elle partage :
+
+- des critères d’évaluation ;
+- des manières de justifier ;
+- des usages descriptifs ;
+- des attentes réciproques.
+
+Voir :
+
+- [Locuteur normatif](locuteur.md)
+- [Communauté de locuteurs](communaute_locuteurs.md)
+
+Les engagements constituent ainsi une dimension collective des pratiques descriptives.
+
+---
+
+# 7. Analyse protokinienne des engagements
+
+L’analyse des engagements cherche à reconstruire :
+
+## 7.1 Ce qu’une description rend possible
 
 Questions :
 
-- Quelles conclusions deviennent légitimes ?
-- Quelles relations sont reconnues ?
-- Quelles inférences deviennent interdites ?
-
-Une description n’est donc pas seulement un vocabulaire.
-
-Elle organise un espace de passages possibles entre propositions.
-
-Voir :
-
-- [`traductions.md`](traductions.md)
+- Quelles affirmations deviennent accessibles ?
+- Quelles distinctions deviennent pertinentes ?
+- Quelles pratiques sont orientées ?
 
 ---
 
-# 3.3 Engagement justificatif
-
-Il concerne les raisons permettant de soutenir une description.
+## 7.2 Ce qu’une description rend nécessaire
 
 Questions :
 
-- Qu’est-ce qui compte comme justification ?
-- Quels critères permettent d’évaluer une affirmation ?
-- Quels arguments peuvent être mobilisés ?
-
-Cette dimension permet de distinguer :
-
-- une explication causale ;
-- une justification normative.
-
-Voir :
-
-- [`causes_raisons.md`](causes_raisons.md)
+- Quels critères doivent être respectés ?
+- Quelles justifications deviennent nécessaires ?
+- Quelles conséquences doivent être assumées ?
 
 ---
 
-# 3.4 Engagement pratique
+## 7.3 Le réseau d’engagements associé
 
-Une description peut également orienter des actions.
+Une description doit être étudiée avec :
 
-Elle influence :
+- ses conditions d’apparition ;
+- ses usages ;
+- ses conséquences ;
+- ses relations avec d’autres descriptions.
 
-- les décisions ;
-- les interventions ;
-- les institutions ;
-- les pratiques collectives.
-
-Une description stabilisée n’est donc jamais uniquement théorique.
-
-Elle participe à l’organisation d’une pratique.
+L’engagement permet ainsi de passer d’une analyse du contenu descriptif à une analyse de son fonctionnement normatif.
 
 ---
 
-# 4. Engagements et espace des causes / espace des raisons
+# 8. Limites conceptuelles
 
-## 4.1 La distinction fondamentale
+## 8.1 L’engagement n’est pas une croyance
 
-Protokin reprend la distinction sellarsienne entre :
+Un engagement ne correspond pas à un état intérieur.
 
-- l’espace des causes ;
-- l’espace des raisons.
-
-Voir :
-
-- [`causes_raisons.md`](causes_raisons.md)
-
-L’espace des causes concerne :
-
-- mécanismes ;
-- régularités ;
-- dépendances empiriques.
-
-L’espace des raisons concerne :
-
-- justifications ;
-- arguments ;
-- responsabilités ;
-- engagements normatifs.
+Il appartient à une pratique publique de justification.
 
 ---
 
-## 4.2 Le problème de la réduction
+## 8.2 L’engagement n’est pas une obligation absolue
 
-Une difficulté apparaît lorsqu’un régime tente de supprimer les engagements propres à un autre régime.
+Un engagement possède toujours un contexte descriptif.
 
-Exemple :
+Il dépend :
 
-Réduire une décision politique à un simple état neuronal peut apporter une explication causale.
-
-Mais cette réduction risque de faire disparaître :
-
-- les raisons invoquées ;
-- les arguments échangés ;
-- la responsabilité attribuée.
-
-Voir :
-
-- [`reductions.md`](reductions.md)
+- d’un régime ;
+- d’une pratique ;
+- de critères d’évaluation.
 
 ---
 
-# 5. Engagements et tensions descriptives
+## 8.3 L’engagement n’est pas un objet
 
-Les engagements deviennent particulièrement visibles lorsque plusieurs régimes entrent en relation.
+Un engagement n’est pas une chose supplémentaire ajoutée aux descriptions.
 
----
-
-## 5.1 Incompatibilité d’engagements
-
-Une tension apparaît lorsque deux descriptions imposent des engagements difficilement compatibles.
-
-Exemple :
-
-Une organisation peut être décrite selon :
-
-- un régime économique privilégiant l’efficacité mesurable ;
-- un régime social privilégiant la continuité des relations humaines.
-
-Le conflit ne signifie pas qu’une description est fausse.
-
-Il indique une incompatibilité entre ensembles d’engagements.
-
-Voir :
-
-- [`tensions.md`](tensions.md)
+Il est une fonction produite par leur usage dans une pratique normative.
 
 ---
 
-## 5.2 Saturation des engagements
+# 9. Place dans l’architecture Protokin
 
-Un régime peut devenir incapable de maintenir ses engagements initiaux face à de nouvelles contraintes.
+Les engagements occupent une position intermédiaire entre description et justification.
 
-Cette saturation apparaît lorsque :
+L’organisation générale peut être représentée ainsi :
 
-- les exceptions deviennent trop nombreuses ;
-- les critères deviennent instables ;
-- les justifications perdent leur cohérence.
+Configuration descriptive
 
-Elle peut conduire à une transition.
-
-Voir :
-
-- [`transitions.md`](transitions.md)
-
----
-
-# 6. Engagements et transitions
-
-## 6.1 Transformer un cadre descriptif
-
-Une transition ne consiste pas simplement à remplacer un vocabulaire par un autre.
-
-Elle implique une modification des engagements.
-
-Elle peut transformer :
-
-- les critères de pertinence ;
-- les relations d’inférence ;
-- les formes de justification.
-
----
-
-## 6.2 Reconfiguration des engagements
-
-Une reconfiguration réussie permet de restaurer une nouvelle cohérence locale.
-
-Elle ne supprime pas nécessairement les engagements antérieurs.
-
-Elle peut :
-
-- les réorganiser ;
-- les limiter ;
-- les intégrer dans un nouveau cadre.
-
-Voir :
-
-- [`transitions.md`](transitions.md)
-
----
-
-# 7. Audit des engagements
-
-L’analyse Protokin examine systématiquement les engagements associés à une description.
-
-Dans une opération d’audit, on demande :
-
----
-
-## 7.1 Quels engagements sont produits ?
-
-Questions :
-
-- Qu’est-ce que cette description rend obligatoire ?
-- Quelles conséquences accepte-t-elle ?
-- Quelles alternatives exclut-elle ?
-
----
-
-## 7.2 Quels engagements entrent en tension ?
-
-Questions :
-
-- Deux descriptions peuvent-elles être maintenues ensemble ?
-- Quels critères deviennent incompatibles ?
-- Une traduction est-elle possible ?
-
-Voir :
-
-- [`audit.md`](audit.md)
-
----
-
-## 7.3 Quels engagements doivent être transformés ?
-
-Lorsque la stabilisation échoue, plusieurs possibilités existent :
-
-- modification du régime ;
-- changement de critères ;
-- nouvelle articulation entre descriptions.
-
-Voir :
-
-- [`limites.md`](limites.md)
-
----
-
-# 8. Risques d’erreur dans l’analyse des engagements
-
-## 8.1 Réifier les engagements
-
-Erreur :
-
-Considérer un engagement comme une chose existant indépendamment des pratiques qui le produisent.
-
-Correction :
-
-Un engagement est une fonction dans un espace de justification.
-
----
-
-## 8.2 Psychologiser les engagements
-
-Erreur :
-
-Réduire les engagements à des états mentaux individuels.
-
-Correction :
-
-Les engagements appartiennent à des pratiques sociales et discursives.
-
----
-
-## 8.3 Absolutiser les engagements
-
-Erreur :
-
-Transformer un ensemble local de critères en norme universelle.
-
-Correction :
-
-Tout engagement doit être analysé dans son régime de validité.
-
-Voir :
-
-- [`validite.md`](validite.md)
-
----
-
-# 9. Relation avec l’architecture générale de Protokin
-
-Les engagements occupent une position centrale dans l’architecture.
-
-Ils relient :
+↓
 
 Description
 
@@ -422,30 +342,28 @@ Justifications
 
 ↓
 
-Tensions
+Évaluation
 
-↓
+Cette représentation ne décrit pas des niveaux du réel.
 
-Transformation
-
-Ils constituent le point de passage entre :
-
-- une description comme organisation conceptuelle ;
-- une description comme pratique normative.
+Elle représente un ordre d’analyse.
 
 ---
 
 # Conclusion
 
-Dans Protokin, un engagement n’est pas un contenu caché derrière une description.
+Dans Protokin, un engagement désigne la dimension normative d’une description lorsqu’elle fonctionne dans une pratique de justification.
 
-Il désigne la structure normative produite par l’adoption d’un cadre descriptif.
+Une description ne se définit donc pas seulement par ce qu’elle affirme.
 
-Analyser les engagements permet de comprendre :
+Elle se définit également par :
 
-- pourquoi certaines descriptions deviennent stabilisables ;
-- pourquoi certaines tensions apparaissent ;
-- pourquoi certaines transformations deviennent nécessaires.
+- ce qu’elle rend pertinent ;
+- ce qu’elle autorise à inférer ;
+- ce qu’elle oblige à justifier ;
+- les pratiques qu’elle organise.
+
+Les engagements permettent ainsi d’analyser comment les descriptions deviennent des positions assumées dans des espaces collectifs de justification.
 
 ---
 
@@ -453,4 +371,4 @@ Analyser les engagements permet de comprendre :
 
 > **Un engagement est ce qu’une description oblige à reconnaître lorsqu’elle fonctionne dans une pratique de justification.**
 
-> **Protokin analyse les descriptions non seulement par ce qu’elles disent, mais par ce qu’elles rendent possible, obligatoire ou problématique.**
+> **Protokin analyse les descriptions non seulement par ce qu’elles disent, mais par la manière dont elles organisent des possibilités d’action, d’inférence et de justification.**
