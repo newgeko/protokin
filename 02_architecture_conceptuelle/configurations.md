@@ -1,5 +1,3 @@
-Voici une version recentrée de configurations.md conforme au principe d'architecture modulaire de Protokin : elle définit la configuration, distingue ses frontières, et prépare les pages suivantes sans empiéter sur les régimes, engagements, tensions ou transformations.
-
 # Configurations descriptives
 
 Cette page définit la notion de **configuration descriptive** dans l’architecture de **Protokin**.
