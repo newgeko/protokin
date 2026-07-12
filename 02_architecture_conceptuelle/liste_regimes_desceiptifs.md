@@ -1,1182 +1,1389 @@
 # Cartographie des régimes descriptifs Protokin
 
-Principe général
-
-Un régime descriptif est une configuration stabilisée reliant :
-
-un vocabulaire spécifique ;
-
-des objets descriptifs ;
-
-des pratiques d'observation ou d'inscription ;
-
-des critères de correction ;
-
-des formes d'inférence ;
-
-des possibilités d'intervention.
-
-
-Un régime ne décrit pas simplement une partie du monde.
-
-Il définit les conditions sous lesquelles quelque chose devient descriptible, identifiable et transformable.
-
+> Un régime descriptif n'est pas une catégorie du réel.
+>
+> Il désigne une configuration historiquement stabilisée reliant :
+>
+> - un vocabulaire spécifique ;
+> - des objets descriptifs ;
+> - des pratiques d'observation ou d'inscription ;
+> - des critères de correction ;
+> - des formes d'inférence ;
+> - des possibilités d'intervention.
+>
+> Un régime ne décrit donc pas simplement une partie du monde.
+>
+> Il définit les conditions sous lesquelles quelque chose devient descriptible, identifiable, justifiable et transformable pour une communauté de locuteurs.
 
 ---
 
-1. Régime physico-matériel
+# 1. Principe général de la cartographie
 
-Régime physico-descriptif
+La cartographie des régimes descriptifs Protokin ne constitue pas une classification ontologique.
 
-Objet :
+Elle ne cherche pas à répartir le réel en domaines fondamentaux.
 
-matière ;
+Elle analyse les différentes manières historiquement constituées par lesquelles des pratiques humaines stabilisent des descriptions.
 
-énergie ;
+Un régime descriptif organise :
 
-interactions ;
+- ce qui compte comme objet ;
+- ce qui compte comme donnée pertinente ;
+- ce qui compte comme preuve ;
+- ce qui compte comme erreur ;
+- ce qui autorise une intervention ;
+- ce qui peut être transmis à une communauté.
 
-structures physiques ;
+Chaque régime possède :
 
-transformations mesurables.
-
-
-Exemples :
-
-mécanique ;
-
-thermodynamique ;
-
-physique quantique ;
-
-cosmologie.
-
-
-Type d'inférence :
-
-causalité ;
-
-mesure ;
-
-formalisation mathématique ;
-
-prédiction.
-
-
-Puissance descriptive :
-
-calcul ;
-
-simulation ;
-
-intervention technique.
-
-
+- un espace de pertinence ;
+- des objets descriptifs privilégiés ;
+- des règles d'inférence ;
+- des formes de justification ;
+- des limites internes.
 
 ---
 
-2. Régime chimique
+# 2. Régimes physico-causaux
 
-Régime chimico-descriptif
+Les régimes physico-causaux décrivent les structures matérielles, les transformations mesurables et les relations de dépendance causale.
 
-Objet :
-
-compositions ;
-
-réactions ;
-
-structures moléculaires ;
-
-transformations chimiques.
-
-
-Type d'inférence :
-
-conservation ;
-
-transformation ;
-
-relations structure-propriété.
-
-
-Puissance :
-
-synthèse ;
-
-ingénierie des matériaux ;
-
-pharmacologie.
-
-
+Ils constituent une famille privilégiée de l'image scientifique sans pour autant épuiser toutes les formes de description possibles.
 
 ---
 
-3. Régime biologique
+# 2.1 Régime physico-matériel
 
-Régime biolog-ique
+## Régime physico-descriptif
 
-Objet :
+### Objet
 
-organismes ;
+Le régime physico-matériel porte sur :
 
-fonctions ;
+- la matière ;
+- l'énergie ;
+- les interactions ;
+- les structures physiques ;
+- les transformations mesurables.
 
-reproduction ;
+### Exemples
 
-évolution ;
+- mécanique ;
+- thermodynamique ;
+- physique quantique ;
+- cosmologie.
 
-régulation du vivant.
+### Types d'inférence
 
+- causalité ;
+- mesure ;
+- formalisation mathématique ;
+- prédiction.
 
-Ce régime ne réduit pas le vivant à la physique.
+### Puissance descriptive
 
-Il introduit des catégories spécifiques :
+Il permet :
 
-fonction ;
+- le calcul ;
+- la simulation ;
+- la modélisation ;
+- l'intervention technique.
 
-adaptation ;
+### Limite protokinienne
 
-milieu ;
+Ce régime décrit les conditions physiques des phénomènes.
 
-organisme ;
+Il ne suffit pas automatiquement à reconstruire :
 
-population.
-
-
-Type d'inférence :
-
-fonctionnelle ;
-
-évolutive ;
-
-systémique.
-
-
-Auteurs associés :
-
-Darwin ;
-
-Jacob ;
-
-Varela ;
-
-Maturana.
-
-
+- les significations ;
+- les normes ;
+- les engagements ;
+- les institutions.
 
 ---
 
-4. Régime neurocognitif
+# 2.2 Régime chimique
 
-Régime neuro-descriptif
+## Régime chimico-descriptif
 
-Objet :
+### Objet
 
-systèmes nerveux ;
+Le régime chimique porte sur :
 
-cognition ;
+- les compositions ;
+- les réactions ;
+- les structures moléculaires ;
+- les transformations de matière.
 
-perception ;
+### Types d'inférence
 
-apprentissage ;
+- conservation ;
+- transformation ;
+- relations structure-propriété.
 
-mémoire.
+### Puissance descriptive
 
+Il rend possibles :
 
-Type d'inférence :
+- la synthèse chimique ;
+- l'ingénierie des matériaux ;
+- la pharmacologie ;
+- la transformation contrôlée de la matière.
 
-corrélation ;
+### Limite protokinienne
 
-mécanismes ;
+La chimie introduit des catégories propres qui ne sont pas de simples descriptions physiques simplifiées.
 
-architectures cognitives.
+Elle possède son propre espace de pertinence :
 
-
-Limite protokinienne :
-
-Ce régime explique des conditions causales de la cognition mais ne remplace pas automatiquement l'espace des raisons.
-
-
----
-
-5. Régime phénoménologique
-
-Régime phénoménologique du vécu
-
-Objet :
-
-expérience vécue ;
-
-perception incarnée ;
-
-temporalité subjective ;
-
-corps propre.
-
-
-Il décrit :
-
-comment un monde apparaît pour un locuteur ;
-
-comment une situation est vécue.
-
-
-Type d'inférence :
-
-description vécue ;
-
-variation eidétique ;
-
-analyse intentionnelle.
-
-
-Auteurs :
-
-Husserl ;
-
-Merleau-Ponty.
-
-
+- liaison ;
+- structure ;
+- réaction ;
+- propriété émergente.
 
 ---
 
-6. Régime psychologique
+# 2.3 Régime biologique
 
-Régime psychologique
+## Régime biolog-ique
 
-Objet :
+### Objet
 
-affects ;
+Le régime biologique porte sur :
 
-représentations ;
+- les organismes ;
+- les fonctions ;
+- la reproduction ;
+- l'évolution ;
+- la régulation du vivant.
 
-motivations ;
+### Spécificité
 
-comportements individuels.
+Le vivant n'est pas décrit comme une simple accumulation de mécanismes physiques.
 
+Le régime biologique introduit des catégories spécifiques :
 
-Type d'inférence :
+- fonction ;
+- adaptation ;
+- organisme ;
+- milieu ;
+- population ;
+- développement.
 
-interprétation ;
+### Types d'inférence
 
-modèles cognitifs ;
+- fonctionnelle ;
+- évolutive ;
+- systémique.
 
-dynamique affective.
+### Auteurs associés
 
+- Darwin ;
+- Jacob ;
+- Varela ;
+- Maturana.
 
+### Limite protokinienne
+
+Le régime biologique explique des processus du vivant.
+
+Il ne réduit pas automatiquement :
+
+- l'expérience vécue ;
+- la normativité ;
+- les pratiques sociales.
 
 ---
 
-7. Régime sémiotique
+# 2.4 Régime neurocognitif
 
-Régime sémiotique
+## Régime neuro-descriptif
 
-Objet :
+### Objet
 
-signes ;
+Le régime neurocognitif porte sur :
 
-symboles ;
+- les systèmes nerveux ;
+- la cognition ;
+- la perception ;
+- l'apprentissage ;
+- la mémoire.
 
-systèmes de significations ;
+### Types d'inférence
 
-médiations.
+- corrélation ;
+- mécanismes ;
+- architectures cognitives.
 
+### Puissance descriptive
+
+Il permet :
+
+- la modélisation cérébrale ;
+- l'étude des fonctions cognitives ;
+- l'analyse des mécanismes neuronaux.
+
+### Limite protokinienne
+
+Ce régime décrit les conditions causales de certaines capacités cognitives.
+
+Il ne remplace pas automatiquement :
+
+- l'espace des raisons ;
+- les engagements normatifs ;
+- les justifications discursives.
+
+---
+
+# 3. Régimes du vivant et du couplage organisme-milieu
+
+# 3.1 Régime écologique
+
+## Régime écologique
+
+### Objet
+
+Le régime écologique porte sur :
+
+- les relations organisme-milieu ;
+- les réseaux d'interdépendance ;
+- les systèmes ouverts ;
+- les dynamiques d'équilibre et de transformation.
+
+### Types d'inférence
+
+- relationnelle ;
+- systémique ;
+- dynamique.
+
+### Auteurs associés
+
+- Bateson ;
+- Varela ;
+- Prigogine.
+
+### Puissance descriptive
+
+Il permet d'analyser :
+
+- les interactions complexes ;
+- les boucles de rétroaction ;
+- les relations entre organismes et environnements.
+
+### Limite protokinienne
+
+L'écologie décrit des systèmes relationnels.
+
+Elle ne constitue pas une explication totale des dimensions symboliques et normatives.
+
+---
+
+# 4. Régimes du vécu et de l'expérience
+
+# 4.1 Régime phénoménologique
+
+## Régime phénoménologique du vécu
+
+### Objet
+
+Le régime phénoménologique porte sur :
+
+- l'expérience vécue ;
+- la perception incarnée ;
+- la temporalité subjective ;
+- le corps propre.
+
+### Question directrice
+
+Il analyse :
+
+> Comment un monde apparaît-il pour un locuteur situé ?
+
+### Types d'inférence
+
+- description vécue ;
+- analyse intentionnelle ;
+- variation eidétique.
+
+### Auteurs associés
+
+- Husserl ;
+- Merleau-Ponty.
+
+### Limite protokinienne
+
+Le vécu n'est pas une simple donnée intérieure privée.
+
+Il constitue une dimension située du couplage entre :
+
+- organisme ;
+- milieu ;
+- pratiques ;
+- significations.
+
+---
+
+# 4.2 Régime psychologique
+
+## Régime psychologique
+
+### Objet
+
+Le régime psychologique porte sur :
+
+- les affects ;
+- les représentations ;
+- les motivations ;
+- les comportements individuels ;
+- les dynamiques émotionnelles.
+
+### Types d'inférence
+
+- interprétation ;
+- modélisation cognitive ;
+- analyse comportementale ;
+- dynamique affective.
+
+### Puissance descriptive
+
+Il permet d'analyser :
+
+- les conduites individuelles ;
+- les processus d'apprentissage ;
+- les mécanismes de décision ;
+- les configurations affectives.
+
+### Limite protokinienne
+
+Le régime psychologique décrit des processus individuels.
+
+Il ne suffit pas à expliquer entièrement :
+
+- les institutions ;
+- les normes collectives ;
+- les significations partagées.
+
+---
+
+# 5. Régimes sémiotiques et symboliques
+
+Les régimes sémiotiques analysent les conditions par lesquelles des signes, des symboles et des inscriptions rendent une configuration intelligible.
+
+Ils constituent l'infrastructure par laquelle une communauté stabilise et transmet des descriptions.
+
+---
+
+# 5.1 Régime sémiotique
+
+## Régime sémiotique
+
+### Objet
+
+Le régime sémiotique porte sur :
+
+- les signes ;
+- les symboles ;
+- les systèmes de significations ;
+- les médiations.
+
+### Question directrice
+
+Il analyse :
+
+> Comment quelque chose peut-il tenir lieu de quelque chose pour quelqu'un dans une pratique donnée ?
+
+### Types d'inférence
+
+- association symbolique ;
+- interprétation ;
+- relation signe-référent.
+
+### Auteurs associés
+
+- Peirce ;
+- Saussure ;
+- Eco.
+
+### Lien avec Protokin
+
+Le Content Layer n'est pas seulement constitué de données matérielles.
+
+Il comprend également :
+
+- des inscriptions ;
+- des traces ;
+- des signes ;
+- des systèmes symboliques.
+
+Les configurations deviennent descriptibles parce qu'elles peuvent être stabilisées sémiotiquement.
+
+---
+
+# 5.2 Régime linguistique
+
+## Régime langagier
+
+### Objet
+
+Le régime linguistique porte sur :
+
+- les énoncés ;
+- les catégories ;
+- les grammaires ;
+- les actes de langage.
+
+### Types d'inférence
+
+- signification ;
+- implication ;
+- engagement.
+
+### Auteurs associés
+
+- Wittgenstein ;
+- Austin ;
+- Brandom.
+
+### Puissance descriptive
+
+Il permet :
+
+- la coordination discursive ;
+- la formulation explicite des engagements ;
+- la transmission intersubjective.
+
+### Limite protokinienne
+
+Le langage n'est pas une simple représentation externe.
+
+Il constitue une pratique permettant :
+
+- de stabiliser ;
+- de contester ;
+- de transformer.
+
+---
+
+# 5.3 Régime inférentialiste
+
+## Régime des engagements normatifs
+
+### Objet
+
+Le régime inférentialiste porte sur :
+
+- les raisons ;
+- les justifications ;
+- les responsabilités discursives ;
+- les engagements.
+
+### Principe
+
+Le langage est compris comme une pratique de **scorekeeping** :
+
+les locuteurs sont évalués selon :
+
+- leurs engagements ;
+- leurs autorisations ;
+- leurs obligations.
+
+### Types d'inférence
+
+- conséquences matérielles ;
+- compatibilité conceptuelle ;
+- articulation normative.
+
+### Auteurs associés
+
+- Sellars ;
+- Brandom.
+
+### Lien avec Protokin
+
+Ce régime formalise le passage :
+
+du locuteur biologique
+
+vers
+
+le locuteur normatif.
+
+Il décrit comment un être capable de langage entre dans un espace de raisons.
+
+---
+
+# 6. Régimes sociaux et collectifs
+
+Les régimes sociaux décrivent les formes stabilisées de coordination entre plusieurs locuteurs.
+
+---
+
+# 6.1 Régime social
+
+## Régime socio-descriptif
+
+### Objet
+
+Le régime social porte sur :
+
+- les groupes ;
+- les interactions ;
+- les pratiques collectives ;
+- les normes sociales.
+
+### Question directrice
+
+Il analyse :
+
+> Comment des comportements individuels deviennent-ils des pratiques partagées ?
+
+### Types d'inférence
+
+- interactionnelle ;
+- institutionnelle ;
+- historique.
+
+### Puissance descriptive
+
+Il permet d'analyser :
+
+- les formes de coopération ;
+- les rôles sociaux ;
+- les attentes collectives.
+
+---
+
+# 6.2 Régime familial
+
+## Régime relationnel familial
+
+### Objet
+
+Le régime familial porte sur :
+
+- la parenté ;
+- la transmission ;
+- la mémoire familiale ;
+- les rôles relationnels.
+
+### Fonction descriptive
 
 Il analyse comment :
 
-quelque chose tient lieu de quelque chose pour quelqu'un ;
+- les identités émergent ;
+- les obligations apparaissent ;
+- les histoires individuelles s'inscrivent dans des trajectoires collectives.
 
-des signes stabilisent des pratiques.
+### Types d'inférence
 
-
-Auteurs :
-
-Peirce ;
-
-Eco ;
-
-Saussure.
-
-
-Lien Protokin :
-
-Le Content Layer n'est pas seulement sémantique.
-
-Il est aussi sémiotique :
-
-les configurations deviennent descriptibles par des inscriptions, des signes et des pratiques.
-
+- généalogique ;
+- relationnelle ;
+- narrative.
 
 ---
 
-8. Régime linguistique
+# 6.3 Régime institutionnel
 
-Régime langagier
+## Régime institutionnel
 
-Objet :
+### Objet
 
-énoncés ;
+Le régime institutionnel porte sur :
 
-catégories ;
+- les lois ;
+- les administrations ;
+- les statuts sociaux ;
+- la monnaie ;
+- les organisations.
 
-grammaires ;
-
-actes de langage.
-
-
-Type d'inférence :
-
-signification ;
-
-implication ;
-
-engagement.
-
-
-Auteurs :
-
-Wittgenstein ;
-
-Austin ;
-
-Brandom.
-
-
-
----
-
-9. Régime inférentialiste
-
-Régime des engagements normatifs
-
-Objet :
-
-raisons ;
-
-justifications ;
-
-responsabilités discursives.
-
-
-Le langage devient une pratique de scorekeeping.
-
-Le locuteur est défini par :
-
-ses engagements ;
-
-ses autorisations ;
-
-ses obligations.
-
-
-Auteurs :
-
-Sellars ;
-
-Brandom.
-
-
-
----
-
-10. Régime social
-
-Régime socio-descriptif
-
-Objet :
-
-groupes ;
-
-interactions ;
-
-pratiques collectives ;
-
-normes sociales.
-
-
-Il décrit :
-
-comment les comportements deviennent des pratiques partagées.
-
-
-Type d'inférence :
-
-institutionnelle ;
-
-historique ;
-
-interactionnelle.
-
-
-
----
-
-11. Régime familial
-
-Régime relationnel familial
-
-Objet :
-
-parenté ;
-
-transmission ;
-
-mémoire familiale ;
-
-rôles relationnels.
-
-
-Il analyse :
-
-comment les identités émergent dans des histoires partagées.
-
-
-
----
-
-12. Régime institutionnel
-
-Régime institutionnel
-
-Objet :
-
-lois ;
-
-administrations ;
-
-monnaie ;
-
-statuts sociaux.
-
-
-Principe :
+### Principe central
 
 > X compte comme Y dans le contexte C.
 
+### Auteurs associés
 
+- Searle ;
+- Ricœur ;
+- Hacking.
 
-Auteurs :
+### Types d'inférence
 
-Searle ;
+- normative ;
+- collective ;
+- procédurale.
 
-Ricœur ;
+### Lien avec Protokin
 
-Hacking.
+Les institutions montrent que certaines réalités existent par stabilisation collective :
 
+- fonctions ;
+- statuts ;
+- droits ;
+- responsabilités.
 
-Type d'inférence :
-
-normative ;
-
-collective ;
-
-procédurale.
-
-
+Elles ne sont ni de simples faits physiques, ni de simples constructions arbitraires.
 
 ---
 
-13. Régime économique
+# 6.4 Régime économique
 
-Régime économique
+## Régime économique
 
-Objet :
+### Objet
 
-échanges ;
+Le régime économique porte sur :
 
-valeur ;
+- les échanges ;
+- la valeur ;
+- la production ;
+- les marchés ;
+- les ressources.
 
-production ;
+### Fonction descriptive
 
-marchés.
+Il analyse comment certaines descriptions organisent :
 
+- les comportements ;
+- les décisions ;
+- les flux collectifs.
+
+### Types d'inférence
+
+- optimisation ;
+- calcul ;
+- allocation ;
+- anticipation.
+
+### Limite protokinienne
+
+Une description économique ne remplace pas automatiquement :
+
+- les dimensions sociales ;
+- les normes ;
+- les significations symboliques.
+
+---
+
+# 6.5 Régime politique
+
+## Régime politique
+
+### Objet
+
+Le régime politique porte sur :
+
+- le pouvoir ;
+- la légitimité ;
+- la souveraineté ;
+- la gouvernance.
+
+### Types d'inférence
+
+- justification collective ;
+- autorité ;
+- conflit normatif.
+
+### Fonction descriptive
 
 Il analyse :
 
-comment certaines descriptions organisent des comportements collectifs.
-
-
-
----
-
-14. Régime politique
-
-Régime politique
-
-Objet :
-
-pouvoir ;
-
-légitimité ;
-
-souveraineté ;
-
-gouvernance.
-
-
-Type d'inférence :
-
-justification collective ;
-
-autorité ;
-
-conflit normatif.
-
-
+- les formes d'organisation du pouvoir ;
+- les procédures de décision ;
+- les rapports entre groupes.
 
 ---
 
-15. Régime historique
+# 7. Régimes historiques et herméneutiques
 
-Régime historico-descriptif
+Ces régimes analysent la dimension temporelle, interprétative et mémorielle des configurations humaines.
 
-Objet :
+---
 
-événements ;
+# 7.1 Régime historique
 
-trajectoires ;
+## Régime historico-descriptif
 
-transformations temporelles.
+### Objet
 
+Le régime historique porte sur :
+
+- les événements ;
+- les trajectoires ;
+- les transformations temporelles ;
+- les archives.
+
+### Fonction descriptive
 
 Il analyse :
 
-comment les sociétés construisent leurs propres histoires.
+> Comment une communauté construit-elle une intelligibilité de son propre devenir ?
 
+### Types d'inférence
 
-Auteurs :
+- chronologique ;
+- causale historique ;
+- généalogique.
 
-Hacking ;
+### Auteurs associés
 
-Ricœur.
-
-
-
----
-
-16. Régime herméneutique
-
-Régime interprétatif
-
-Objet :
-
-sens ;
-
-compréhension ;
-
-symboles ;
-
-récits.
-
-
-Type d'inférence :
-
-interprétation ;
-
-cohérence narrative.
-
-
-Auteurs :
-
-Gadamer ;
-
-Ricœur.
-
-
+- Hacking ;
+- Ricœur.
 
 ---
 
-17. Régime esthétique
+# 7.2 Régime herméneutique
 
-Régime esthétique
+## Régime interprétatif
 
-Objet :
+### Objet
 
-formes sensibles ;
+Le régime herméneutique porte sur :
 
-œuvres ;
+- le sens ;
+- la compréhension ;
+- les récits ;
+- les symboles.
 
-expériences artistiques.
+### Types d'inférence
 
+- interprétation ;
+- cohérence narrative ;
+- reconstruction du sens.
+
+### Auteurs associés
+
+- Gadamer ;
+- Ricœur.
+
+### Lien avec Protokin
+
+L'herméneutique analyse comment des configurations deviennent intelligibles dans un horizon historique de compréhension.
+
+---
+
+# 8. Régimes esthétiques
+
+# 8.1 Régime esthétique
+
+## Régime esthétique
+
+### Objet
+
+Le régime esthétique porte sur :
+
+- les formes sensibles ;
+- les œuvres ;
+- les expériences artistiques ;
+- les nouvelles possibilités perceptives.
+
+### Fonction descriptive
+
+Il analyse comment certaines configurations sensibles :
+
+- modifient la perception ;
+- ouvrent de nouvelles distinctions ;
+- créent de nouveaux modes d'expérience.
+
+### Type d'inférence
+
+- expressive ;
+- analogique ;
+- sensible.
+
+---
+
+Suite dans la **partie 3/3** :  
+- technique ;
+- informatique ;
+- intelligence artificielle ;
+- juridique ;
+- moral ;
+- mythologique ;
+- théologique ;
+- religieux institutionnel ;
+- scientifique intégré ;
+- synthèse générale des familles de régimes.
+
+---
+
+# 9. Régimes constructifs et techniques
+
+Les régimes constructifs analysent les configurations produites par l'activité transformatrice humaine.
+
+Ils concernent les objets artificiels, les dispositifs, les infrastructures et les environnements construits.
+
+---
+
+# 9.1 Régime technique
+
+## Régime techno-descriptif
+
+### Objet
+
+Le régime technique porte sur :
+
+- les artefacts ;
+- les machines ;
+- les systèmes techniques ;
+- les dispositifs d'intervention.
+
+### Fonction descriptive
 
 Il analyse :
 
-comment des configurations sensibles ouvrent de nouvelles possibilités de perception.
+- les fonctions techniques ;
+- les contraintes matérielles ;
+- les relations entre invention et milieu ;
+- les processus d'individuation technique.
 
+### Auteur associé
 
+- Simondon.
 
----
+### Lien avec Protokin
 
-18. Régime technique
+L'objet technique n'est pas seulement un objet fabriqué.
 
-Régime techno-descriptif
+Il constitue une stabilisation relationnelle entre :
 
-Objet :
+- matière ;
+- forme ;
+- usage ;
+- milieu associé.
 
-artefacts ;
-
-machines ;
-
-systèmes techniques.
-
-
-Lien avec Simondon :
-
-L'objet technique est une individuation stabilisée.
-
+Le régime technique analyse comment des solutions deviennent des structures transmissibles.
 
 ---
 
-19. Régime informatique
+# 9.2 Régime informatique
 
-Régime computationnel
+## Régime computationnel
 
-Objet :
+### Objet
 
-information ;
+Le régime informatique porte sur :
 
-algorithmes ;
+- l'information ;
+- les algorithmes ;
+- les architectures computationnelles ;
+- les systèmes formels.
 
-architectures computationnelles.
+### Types d'inférence
 
+- calcul ;
+- simulation ;
+- optimisation ;
+- traitement symbolique.
 
-Type d'inférence :
+### Puissance descriptive
 
-calcul ;
+Il permet :
 
-simulation ;
+- l'automatisation ;
+- la modélisation ;
+- la simulation de systèmes complexes.
 
-optimisation.
+### Limite protokinienne
 
+Le calcul transforme des descriptions selon des règles formelles.
 
+Il ne produit pas nécessairement :
 
----
-
-20. Régime écologique
-
-Régime écologique
-
-Objet :
-
-relations organisme-milieu ;
-
-réseaux d'interdépendance ;
-
-systèmes ouverts.
-
-
-Auteurs :
-
-Bateson ;
-
-Varela ;
-
-Prigogine.
-
-
+- une compréhension ;
+- une justification ;
+- une normativité propre.
 
 ---
 
-21. Régime juridique
+# 9.3 Régime intelligence artificielle
 
-Régime normatif juridique
+## Régime computationnel adaptatif
 
-Objet :
+### Objet
 
-droits ;
+Le régime IA porte sur :
 
-obligations ;
+- les modèles d'apprentissage ;
+- les réseaux artificiels ;
+- les systèmes de classification ;
+- les agents computationnels.
 
-responsabilités.
+### Types d'inférence
 
+- optimisation statistique ;
+- reconnaissance de motifs ;
+- généralisation à partir de données.
 
-Il transforme des situations en statuts institutionnels.
+### Lien avec Protokin
 
+L'intelligence artificielle constitue un objet privilégié d'audit car elle produit des descriptions sans nécessairement occuper elle-même un espace de raisons.
 
----
+Elle permet d'analyser la différence entre :
 
-22. Régime moral
-
-Régime éthique
-
-Objet :
-
-bien ;
-
-devoir ;
-
-responsabilité ;
-
-justification pratique.
-
-
+- corrélation ;
+- inférence ;
+- justification ;
+- engagement normatif.
 
 ---
 
-23. Régime religieux et symbolique
+# 10. Régimes normatifs
 
-Régime symbolico-transcendant
-
-Objet :
-
-mythes ;
-
-rites ;
-
-cosmologies ;
-
-valeurs ultimes.
-
-
-Protokin ne l'analyse pas comme vérité métaphysique mais comme régime de stabilisation symbolique.
-
+Les régimes normatifs organisent les conditions sous lesquelles des actions, des décisions ou des institutions deviennent évaluables.
 
 ---
 
-24. Régime scientifique intégré
+# 10.1 Régime juridique
 
-Régime scientifique
+## Régime normatif juridique
 
-Ce n'est pas un régime unique mais une famille de régimes :
+### Objet
 
-physique ;
+Le régime juridique porte sur :
 
-chimie ;
+- les droits ;
+- les obligations ;
+- les responsabilités ;
+- les statuts institutionnels.
 
-biologie ;
+### Fonction descriptive
 
-neurosciences ;
+Il transforme des situations en configurations normatives :
 
-sciences sociales.
+- une personne juridique ;
+- une propriété ;
+- un contrat ;
+- une responsabilité.
 
+### Types d'inférence
 
-Sa puissance provient de :
+- normative ;
+- procédurale ;
+- institutionnelle.
 
-formalisation ;
+### Lien avec Protokin
 
-reproductibilité ;
-
-instrumentation ;
-
-capacité prédictive.
-
-
----
-
-23. Régime mythologique
-
-Régime mythico-symbolique
-
-Objet :
-
-récits d'origine ;
-
-figures archétypales ;
-
-héros ;
-
-dieux et puissances ;
-
-cycles cosmiques ;
-
-rapports entre humains, nature et forces invisibles.
-
-
-Le régime mythologique organise une intelligibilité du monde par des récits configurateurs.
-
-Il ne cherche pas principalement à produire des prédictions quantitatives, mais à :
-
-articuler une origine ;
-
-donner une structure narrative aux événements ;
-
-transmettre des modèles d'action ;
-
-stabiliser une mémoire collective.
-
-
-Type d'inférence :
-
-analogique ;
-
-narrative ;
-
-symbolique ;
-
-généalogique.
-
-
-Fonctions descriptives :
-
-expliquer l'apparition des choses ;
-
-situer l'humain dans un cosmos ;
-
-transmettre des normes collectives ;
-
-articuler l'expérience vécue avec une totalité signifiante.
-
-
-Auteurs associés :
-
-Mircea Eliade ;
-
-Claude Lévi-Strauss ;
-
-Paul Ricœur ;
-
-Ernst Cassirer.
-
-
-Lien Protokin :
-
-Le mythe constitue une configuration sémiotique narrative à haute puissance d'intégration collective.
-
-Il transforme des événements dispersés en une trajectoire intelligible.
-
-Il fonctionne comme une mémoire symbolique permettant à une communauté de stabiliser :
-
-des valeurs ;
-
-des identités ;
-
-des rapports au milieu ;
-
-des pratiques rituelles.
-
-
+Le droit illustre comment une description peut produire des effets réels par stabilisation collective.
 
 ---
 
-24. Régime théologique
+# 10.2 Régime moral
 
-Régime théologico-conceptuel
+## Régime éthique
 
-Objet :
+### Objet
 
-Dieu ou principe transcendant ;
+Le régime moral porte sur :
 
-création ;
+- le bien ;
+- le devoir ;
+- la responsabilité ;
+- la justification pratique.
 
-finalité ultime ;
+### Types d'inférence
 
-ordre cosmique ;
+- délibération ;
+- justification ;
+- évaluation normative.
 
-salut ;
+### Limite protokinienne
 
-rapport entre humain et absolu.
+Protokin analyse les conditions de stabilisation des normes morales sans déterminer une morale universelle.
 
+---
 
-Le régime théologique organise une description du monde à partir d'un principe transcendant considéré comme source d'intelligibilité ultime.
+# 10.3 Régime théologico-moral
 
-Il développe :
+## Régime normatif religieux
 
-des concepts métaphysiques ;
+### Objet
 
-des architectures doctrinales ;
+Ce régime porte sur :
 
-des systèmes d'interprétation ;
+- les obligations religieuses ;
+- les conceptions du bien ultime ;
+- les rapports entre norme et transcendance.
 
-des normes liées à une conception du bien ultime.
+### Fonction descriptive
 
+Il articule :
 
-Type d'inférence :
+- une vision du monde ;
+- une conception de l'humain ;
+- des prescriptions pratiques.
 
-déductive ;
+---
 
-analogique ;
+# 11. Régimes cosmologiques et symboliques
 
-spéculative ;
+Ces régimes organisent des formes d'intelligibilité globale reliant humains, monde, origine et finalité.
 
-herméneutique.
+---
 
+# 11.1 Régime mythologique
 
-Fonctions descriptives :
+## Régime mythico-symbolique
 
-articuler une totalité du réel ;
+### Objet
 
-déterminer une origine ultime ;
+Le régime mythologique porte sur :
 
-fournir une orientation existentielle ;
+- les récits d'origine ;
+- les figures archétypales ;
+- les héros ;
+- les dieux et puissances ;
+- les cycles cosmiques ;
+- les relations entre humains, nature et forces invisibles.
 
-organiser des communautés interprétatives.
+### Fonction descriptive
 
+Le mythe organise une intelligibilité du monde par des récits configurateurs.
 
-Auteurs associés :
+Il permet de :
 
-Augustin ;
+- articuler une origine ;
+- donner une structure narrative aux événements ;
+- transmettre des modèles d'action ;
+- stabiliser une mémoire collective.
 
-Thomas d'Aquin ;
+### Types d'inférence
 
-Maître Eckhart ;
+- analogique ;
+- narrative ;
+- symbolique ;
+- généalogique.
 
-Paul Ricœur.
+### Fonctions collectives
 
+Le mythe permet :
 
-Lien Protokin :
+- d'inscrire l'humain dans un cosmos ;
+- de transmettre des valeurs ;
+- d'organiser des pratiques rituelles ;
+- de maintenir une identité collective.
 
-La théologie n'est pas analysée comme accès à une réalité transcendante en soi.
+### Auteurs associés
 
-Elle est analysée comme un régime descriptif produisant :
+- Mircea Eliade ;
+- Claude Lévi-Strauss ;
+- Paul Ricœur ;
+- Ernst Cassirer.
 
-des catégories ;
+### Lien Protokin
 
-des engagements ;
+Le mythe est analysé comme une configuration sémiotique narrative.
 
-des institutions ;
+Il ne constitue pas pour Protokin une preuve métaphysique.
 
-des formes de justification ;
+Il constitue un régime capable de stabiliser :
 
-des pratiques collectives.
+- des catégories ;
+- des valeurs ;
+- des pratiques ;
+- des rapports au monde.
 
+---
 
-Son objet protokinien n'est donc pas :
+# 11.2 Régime théologique
+
+## Régime théologico-conceptuel
+
+### Objet
+
+Le régime théologique porte sur :
+
+- Dieu ou principe transcendant ;
+- création ;
+- finalité ultime ;
+- ordre cosmique ;
+- salut ;
+- rapport entre humain et absolu.
+
+### Fonction descriptive
+
+La théologie organise une description du monde à partir d'un principe transcendant considéré comme source ultime d'intelligibilité.
+
+Elle développe :
+
+- des concepts métaphysiques ;
+- des architectures doctrinales ;
+- des systèmes interprétatifs ;
+- des justifications normatives.
+
+### Types d'inférence
+
+- déductive ;
+- analogique ;
+- spéculative ;
+- herméneutique.
+
+### Fonctions
+
+Elle permet :
+
+- d'articuler une totalité du réel ;
+- de déterminer une origine ultime ;
+- de fournir une orientation existentielle ;
+- d'organiser des communautés interprétatives.
+
+### Auteurs associés
+
+- Augustin ;
+- Thomas d'Aquin ;
+- Maître Eckhart ;
+- Paul Ricœur.
+
+### Lien Protokin
+
+La question protokinienne n'est pas :
 
 > Dieu existe-t-il ?
 
-
-
-mais :
+Mais :
 
 > Comment une configuration théologique stabilise-t-elle des descriptions, des pratiques et des communautés de justification ?
 
+---
 
+# 11.3 Régime religieux institutionnel
 
+## Régime rituel et confessionnel
+
+### Objet
+
+Le régime religieux institutionnel porte sur :
+
+- les cultes ;
+- les rites ;
+- les communautés croyantes ;
+- les traditions ;
+- les institutions religieuses.
+
+### Distinction fondamentale
+
+Le mythe :
+
+organise des récits symboliques.
+
+La théologie :
+
+organise des concepts doctrinaux.
+
+La religion institutionnelle :
+
+organise des pratiques collectives.
+
+### Types d'inférence
+
+- rituelle ;
+- communautaire ;
+- normative ;
+- traditionnelle.
+
+### Fonctions
+
+Il permet :
+
+- de produire une appartenance collective ;
+- de transmettre une mémoire ;
+- de stabiliser des pratiques ;
+- d'organiser une forme de vie.
+
+### Lien Protokin
+
+Ce régime montre que les descriptions existent aussi dans :
+
+- des gestes ;
+- des espaces ;
+- des objets ;
+- des calendriers ;
+- des cérémonies ;
+- des institutions.
 
 ---
 
-25. Régime religieux institutionnel
+# 12. Régime scientifique intégré
 
-Régime rituel et confessionnel
+## Régime scientifique
 
-Objet :
+Le régime scientifique n'est pas un régime unique.
 
-cultes ;
+Il constitue une famille coordonnée comprenant notamment :
 
-rites ;
-
-communautés croyantes ;
-
-traditions ;
-
-institutions religieuses.
-
-
-À distinguer du régime mythologique et théologique :
-
-le mythe organise des récits symboliques ;
-
-la théologie organise des concepts doctrinaux ;
-
-la religion institutionnelle organise des pratiques collectives.
-
-
-Type d'inférence :
-
-rituelle ;
-
-communautaire ;
-
-normative ;
-
-traditionnelle.
-
-
-Fonctions :
-
-produire une appartenance collective ;
-
-transmettre une mémoire ;
-
-stabiliser des pratiques ;
-
-organiser des formes de vie.
-
-
-Lien Protokin :
-
-Ce régime montre particulièrement bien que les descriptions ne sont pas seulement linguistiques.
-
-Elles existent dans :
-
-des gestes ;
-
-des espaces ;
-
-des objets ;
-
-des calendriers ;
-
-des cérémonies ;
-
-des institutions.
-
-
+- physique ;
+- chimie ;
+- biologie ;
+- neurosciences ;
+- sciences sociales.
 
 ---
 
-La synthèse générale deviendrait donc :
+## Caractéristiques communes
 
-Cartographie des grandes familles de régimes descriptifs Protokin
+La puissance descriptive scientifique repose sur :
 
-Régimes physico-causaux
+- formalisation ;
+- instrumentation ;
+- reproductibilité ;
+- contrôle expérimental ;
+- capacité prédictive.
 
-physique ;
+---
 
-chimie ;
+## Statut protokinien
 
-biologie ;
+La science n'est pas une description du monde « en soi ».
 
-neurocognition.
+Elle constitue un ensemble de régimes fortement stabilisés permettant :
 
+- une grande précision ;
+- une forte capacité d'intervention ;
+- une correction collective organisée.
+
+Sa puissance ne provient pas d'une position ontologique privilégiée mais de ses procédures de stabilisation.
+
+---
+
+# 13. Synthèse fonctionnelle des régimes descriptifs
+
+Les régimes peuvent être regroupés selon leurs fonctions principales.
+
+---
+
+# Régimes physico-causaux
+
+Comprennent :
+
+- physique ;
+- chimie ;
+- biologie ;
+- neurocognition.
 
 Objet principal :
 
 Les structures matérielles, les mécanismes et les transformations mesurables.
 
-
 ---
 
-Régimes du vivant et de l'expérience
+# Régimes du vivant et de l'expérience
 
-biologie ;
+Comprennent :
 
-écologie ;
-
-phénoménologie ;
-
-psychologie ;
-
-affects.
-
+- biologie ;
+- écologie ;
+- phénoménologie ;
+- psychologie.
 
 Objet principal :
 
 Le couplage organisme-milieu et l'expérience vécue.
 
-
 ---
 
-Régimes sémiotiques et symboliques
+# Régimes sémiotiques et symboliques
 
-sémiotique ;
+Comprennent :
 
-langage ;
-
-mythologie ;
-
-esthétique ;
-
-herméneutique.
-
+- sémiotique ;
+- langage ;
+- mythologie ;
+- esthétique ;
+- herméneutique.
 
 Objet principal :
 
-Les systèmes de signes, de sens et de configuration narrative.
-
+Les signes, les significations et les configurations narratives.
 
 ---
 
-Régimes normatifs
+# Régimes normatifs
 
-inférentialisme ;
+Comprennent :
 
-morale ;
-
-droit ;
-
-institutions ;
-
-théologie morale.
-
+- inférentialisme ;
+- morale ;
+- droit ;
+- institutions ;
+- théologie morale.
 
 Objet principal :
 
 Les engagements, obligations et critères de justification.
 
-
 ---
 
-Régimes sociaux et collectifs
+# Régimes sociaux et collectifs
 
-famille ;
+Comprennent :
 
-société ;
-
-économie ;
-
-politique ;
-
-religion institutionnelle.
-
+- famille ;
+- société ;
+- économie ;
+- politique ;
+- religion institutionnelle.
 
 Objet principal :
 
 La coordination des pratiques humaines.
 
-
 ---
 
-Régimes historiques
+# Régimes historiques
 
-histoire ;
+Comprennent :
 
-mémoire ;
-
-archive ;
-
-herméneutique historique.
-
+- histoire ;
+- mémoire ;
+- archive ;
+- herméneutique historique.
 
 Objet principal :
 
 La genèse temporelle des configurations.
 
-
 ---
 
-Régimes constructifs et techniques
+# Régimes constructifs
 
-technique ;
+Comprennent :
 
-ingénierie ;
-
-informatique ;
-
-intelligence artificielle.
-
+- technique ;
+- ingénierie ;
+- informatique ;
+- intelligence artificielle.
 
 Objet principal :
 
 Les dispositifs artificiels et les environnements transformés.
 
-
 ---
 
-Régimes transcendants et cosmologiques
+# Régimes cosmologiques et transcendants
 
-mythologie ;
+Comprennent :
 
-théologie ;
-
-cosmologies symboliques.
-
+- mythologie ;
+- théologie ;
+- cosmologies symboliques.
 
 Objet principal :
 
 Les systèmes d'intégration ultime du sens.
 
-
 ---
 
-Cette extension renforce même la cohérence de Protokin : elle montre que la métathéorie n'est pas une classification des « choses qui existent », mais une cartographie des différentes manières humaines de rendre un monde descriptible, habitable et transmissible.
+# Conclusion protokinienne
 
-Le fichier regimes.md devrait donc probablement intégrer cette cartographie en section 7, sous le titre :
+La cartographie des régimes descriptifs ne constitue pas une hiérarchie des réalités.
 
-7. Cartographie fonctionnelle des régimes descriptifs
+Elle constitue une carte des différentes manières par lesquelles des communautés de locuteurs rendent un monde :
 
-et renvoyer vers une nouvelle page dédiée :
+- descriptible ;
+- intelligible ;
+- transmissible ;
+- habitable ;
+- transformable.
 
-02_architecture_conceptuelle/cartographie_regimes_descriptifs.md
-
-afin de ne pas transformer regimes.md en simple catalogue.
+> **Un régime descriptif ne révèle pas une partie cachée du monde.**
+>
+> **Il organise les conditions sous lesquelles une configuration devient descriptible, justifiable et transformable dans une pratique collective donnée.**
