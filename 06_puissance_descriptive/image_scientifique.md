@@ -49,7 +49,7 @@ Elle constitue une organisation normative d'engagements permettant de détermine
 
 - quelles observations comptent ;
 - quelles conséquences sont acceptables ;
-- quelles prédictions doivent être produites ;
+- quelles prédictions peuvent être formulées ;
 - quelles interventions deviennent possibles.
 
 ---
@@ -62,14 +62,15 @@ L'Image scientifique ne repose pas sur un accès immédiat à des faits bruts.
 
 > Aucun contenu ne possède une autorité justificative indépendante de tout espace de raisons.
 
-Cependant, rejeter le Donné ne signifie pas nier toute résistance extra-discursive.
+Cependant, rejeter le Donné ne signifie pas nier toute résistance matérielle.
 
 Les descriptions rencontrent des contraintes :
 
 - résistances expérimentales ;
 - échecs prédictifs ;
 - anomalies ;
-- incompatibilités théoriques.
+- incompatibilités théoriques ;
+- limites instrumentales.
 
 Ces résistances ne fondent pas directement la vérité d'une description.
 
@@ -77,7 +78,7 @@ Elles fonctionnent comme des contraintes de transformation.
 
 Le monde n'est pas un tribunal extérieur imposant une copie correcte.
 
-Il est une source de perturbations qui oblige les régimes descriptifs à se transformer.
+Il constitue une source de perturbations à laquelle les régimes descriptifs doivent répondre.
 
 ---
 
@@ -87,7 +88,7 @@ La distinction entre Image manifeste et Image scientifique constitue un point ce
 
 ## Image manifeste
 
-Elle correspond à l'espace dans lequel apparaissent :
+Elle correspond au régime descriptif dans lequel apparaissent :
 
 - les personnes ;
 - les intentions ;
@@ -95,26 +96,31 @@ Elle correspond à l'espace dans lequel apparaissent :
 - les actions ;
 - les engagements normatifs.
 
-Elle appartient à l'espace des raisons.
+Elle organise principalement l'espace des raisons.
+
+Elle permet les pratiques de justification, d'attribution d'engagements et de reconnaissance mutuelle entre locuteurs.
 
 ---
 
 ## Image scientifique
 
-Elle décrit :
+Elle correspond aux descriptions produites par les sciences lorsqu'elles élaborent des modèles théoriques permettant de rendre intelligibles des structures non directement accessibles à l'expérience ordinaire.
+
+Elle mobilise notamment :
 
 - les structures physiques ;
 - les processus biologiques ;
-- les régularités quantitatives ;
-- les mécanismes causaux.
+- les relations quantitatives ;
+- les modèles causaux ;
+- les dispositifs expérimentaux.
 
-Elle appartient principalement à l'espace des causes.
+Elle appartient à l'espace des raisons dans la mesure où elle justifie des descriptions portant sur l'espace des causes.
 
 ---
 
-La difficulté n'est pas de choisir définitivement une Image contre l'autre.
+La difficulté n'est donc pas de choisir définitivement une Image contre l'autre.
 
-La difficulté est d'éviter une transposition illégitime entre régimes.
+Elle consiste à éviter les transpositions illégitimes entre régimes.
 
 L'erreur réductionniste apparaît lorsqu'un régime tente d'absorber complètement un autre régime.
 
@@ -126,9 +132,9 @@ Réduction abusive :
 
 > Cette personne n'est qu'un ensemble de processus neurobiologiques.
 
-La seconde description peut être pertinente dans un régime causal.
+La description neurobiologique peut être pertinente dans un régime explicatif causal.
 
-Elle ne possède cependant pas automatiquement les ressources normatives nécessaires pour remplacer l'espace des raisons.
+Elle ne possède cependant pas automatiquement les ressources normatives nécessaires pour remplacer les concepts de responsabilité, d'engagement ou de justification.
 
 ---
 
@@ -138,17 +144,17 @@ Protokin reconnaît une asymétrie entre régimes descriptifs.
 
 Cette asymétrie ne signifie pas :
 
-> la science est supérieure parce qu'elle révèle mieux le réel.
+> La science est supérieure parce qu'elle révèle mieux le réel.
 
 Elle signifie :
 
-> certains régimes possèdent des capacités spécifiques de stabilisation adaptées à certaines finalités.
+> Certains régimes possèdent des capacités spécifiques de stabilisation adaptées à certaines finalités.
 
 L'Image scientifique possède notamment :
 
 - une forte densité inférentielle ;
 - une puissance projective ;
-- une capacité d'intervention ;
+- une capacité d'intervention technique ;
 - une résistance expérimentale élevée.
 
 ---
@@ -157,7 +163,7 @@ L'Image scientifique possède notamment :
 
 La puissance scientifique ne dépend pas uniquement du nombre d'inférences produites.
 
-Elle dépend de leur nature.
+Elle dépend de leur structure.
 
 Les inférences scientifiques possèdent souvent des caractéristiques particulières :
 
@@ -166,20 +172,20 @@ Les inférences scientifiques possèdent souvent des caractéristiques particuli
 - elles permettent des projections futures ;
 - elles peuvent être intégrées dans des modèles.
 
-Elles produisent une stabilisation algorithmique des relations entre phénomènes.
+Elles permettent une stabilisation cumulative des relations entre phénomènes.
 
 Cependant, Protokin refuse de considérer ce type d'inférence comme supérieur en soi.
 
 D'autres régimes possèdent d'autres formes d'inférences.
 
-L'Image manifeste produit par exemple des inférences :
+L'Image manifeste produit notamment des inférences :
 
 - contextuelles ;
 - dialogiques ;
-- révisables ;
-- liées aux intentions et aux responsabilités.
+- intentionnelles ;
+- liées aux responsabilités.
 
-Ces inférences ne sont pas moins puissantes.
+Ces inférences ne sont pas moins valides.
 
 Elles répondent à d'autres exigences normatives.
 
@@ -191,7 +197,7 @@ Elles répondent à d'autres exigences normatives.
 
 La puissance d'un régime descriptif ne se mesure pas à une utilité universelle.
 
-Elle se mesure à sa capacité à satisfaire les contraintes normatives qui organisent son propre domaine.
+Elle se mesure à sa capacité à satisfaire les contraintes propres à son domaine.
 
 Ainsi :
 
@@ -199,8 +205,8 @@ L'Image scientifique est particulièrement puissante pour :
 
 - prédire ;
 - calculer ;
-- intervenir ;
-- modéliser.
+- modéliser ;
+- intervenir.
 
 L'Image manifeste est particulièrement puissante pour :
 
@@ -211,7 +217,7 @@ L'Image manifeste est particulièrement puissante pour :
 
 L'asymétrie entre régimes ne signifie donc pas qu'un régime est simplement meilleur.
 
-Elle signifie que les régimes ne répondent pas aux mêmes questions.
+Elle signifie que les régimes répondent à des problèmes différents.
 
 ---
 
@@ -222,50 +228,38 @@ Une description scientifique n'est jamais stabilisée une fois pour toutes.
 Elle demeure exposée à :
 
 - des anomalies ;
-- des nouvelles observations ;
+- de nouvelles observations ;
 - des tensions internes ;
-- des changements d'instruments ou de modèles.
+- des transformations instrumentales.
 
 La résistance expérimentale n'est pas un accès direct au réel.
 
 Elle constitue un opérateur de transformation.
 
-Lorsque les contraintes deviennent incompatibles avec un régime existant, un Δ de stabilisation apparaît.
+Lorsqu'un régime descriptif ne parvient plus à absorber certaines tensions, une transition devient nécessaire.
 
-Ce Δ indique :
-
-- une saturation du réseau inférentiel ;
-- une perte de cohérence ;
-- la nécessité d'une transition descriptive.
+Cette transition correspond à une modification du réseau d'engagements et d'inférences.
 
 ---
 
 # 7. Stabilisation diachronique : le problème des théories abandonnées
 
-Une difficulté apparaît immédiatement.
-
-Certaines théories scientifiques ont été extrêmement puissantes historiquement mais sont aujourd'hui abandonnées.
+Certaines théories scientifiques ont été historiquement très puissantes mais sont aujourd'hui abandonnées.
 
 Exemples :
 
 - le phlogistique ;
 - l'éther luminifère.
 
-Si Protokin mesure seulement la puissance passée d'une description, ces théories possédaient une véritable robustesse.
+Une théorie peut donc être fortement stabilisée dans une période historique sans être définitivement stabilisée.
 
-La réponse protokinienne est :
+La stabilisation protokinienne est toujours locale et temporelle.
 
-> Une description peut être puissamment stabilisée dans un régime historique donné sans être éternellement stabilisée.
+L'abandon d'une théorie ne signifie pas qu'elle était dépourvue de puissance.
 
-La stabilisation est toujours provisoire.
+Il signifie qu'une transformation du réseau descriptif a modifié les critères de compatibilité, de justification et de projection.
 
-L'échec ultérieur d'une théorie ne signifie pas qu'elle était simplement une erreur sans puissance.
-
-Il signifie qu'un changement de contraintes a transformé la topologie inférentielle du régime.
-
-Les anciennes inférences cessent d'être compatibles avec un nouveau réseau descriptif.
-
-Protokin rejoint ainsi Kuhn sur la dimension historique des changements scientifiques, sans adopter une conception irrationaliste ou purement relativiste des révolutions scientifiques.
+Protokin rejoint ainsi Kuhn sur l'historicité des sciences sans adopter un relativisme radical.
 
 ---
 
@@ -273,24 +267,22 @@ Protokin rejoint ainsi Kuhn sur la dimension historique des changements scientif
 
 Dans Protokin :
 
-> Un objet scientifique n'est pas une chose découverte indépendamment de toute description ; il est un invariant stabilisé au sein d'un régime descriptif.
+> Un objet scientifique n'est pas une chose découverte indépendamment de toute description ; il fonctionne comme un invariant stabilisé au sein d'un régime descriptif.
 
-L'objet scientifique apparaît comme un attracteur.
-
-Il correspond à une convergence entre :
+L'objet scientifique correspond à une convergence entre :
 
 - observations ;
 - modèles ;
-- pratiques expérimentales ;
 - instruments ;
+- pratiques expérimentales ;
 - communautés de justification.
 
-L'objet n'est donc ni :
+Il n'est donc ni :
 
 - une invention arbitraire ;
 - ni une copie passive du monde.
 
-Il est une stabilisation dynamique sous contraintes.
+Il constitue une stabilisation dynamique sous contraintes matérielles, techniques et normatives.
 
 ---
 
@@ -300,25 +292,25 @@ La cybernétique de second ordre permet de préciser cette conception.
 
 L'observateur n'est pas extérieur au processus descriptif.
 
-Il participe à un couplage où certaines régularités deviennent des invariants.
+Il participe à un couplage dans lequel certaines régularités deviennent des invariants.
 
 L'objet scientifique peut alors être compris comme une valeur propre :
 
-> une stabilité émergente dans la relation entre un système observant et son environnement.
+> Une stabilité émergente dans la relation entre un système observant et son environnement.
 
-L'objet n'est pas produit par l'observateur seul.
+Cette relation ne signifie pas que l'observateur crée librement l'objet.
 
-Il apparaît dans une relation de contraintes réciproques.
+Elle signifie que les contraintes matérielles deviennent accessibles sous une forme stabilisée à travers des pratiques d'observation organisées.
 
 ---
 
-# 10. L'effacement de l'observateur dans la science
+# 10. L'effacement méthodologique de l'observateur
 
 L'objectivité scientifique repose souvent sur un effacement méthodologique de l'observateur.
 
 Protokin interprète cet effacement non comme une preuve d'accès direct au réel, mais comme une opération fonctionnelle.
 
-L'effacement de l'observateur permet :
+Il permet :
 
 - la reproductibilité ;
 - la comparaison intersubjective ;
@@ -326,15 +318,33 @@ L'effacement de l'observateur permet :
 
 Ainsi :
 
-> L'objectivité scientifique n'est pas absence d'observateur ; elle est une organisation particulière de sa position dans le régime descriptif.
+> L'objectivité scientifique n'est pas absence d'observateur ; elle est une organisation particulière de sa position dans un régime descriptif.
 
 L'observateur n'est pas supprimé.
 
-Il est rendu méthodologiquement interchangeable.
+Il devient méthodologiquement interchangeable.
 
 ---
 
-# 11. Principe protokinien d'asymétrie descriptive
+# 11. Image scientifique, imagination et ontologie historique
+
+L'Image scientifique n'apparaît jamais spontanément.
+
+Elle dépend d'un processus de formation dans lequel interviennent :
+
+- l'imagination scientifique ;
+- les modèles théoriques ;
+- les analogies ;
+- les instruments ;
+- les institutions.
+
+Une hypothèse scientifique commence souvent comme une variation imaginative avant de devenir un régime descriptif stabilisé.
+
+L'ontologie historique permet ensuite d'analyser comment ces descriptions s'inscrivent dans des pratiques collectives, produisent des catégories nouvelles et transforment durablement les possibilités descriptives d'une époque.
+
+---
+
+# 12. Principe protokinien d'asymétrie descriptive
 
 ## Principe d'asymétrie descriptive
 
@@ -352,7 +362,7 @@ Elles correspondent à des différences de :
 
 ---
 
-# 12. Positionnement philosophique
+# 13. Positionnement philosophique
 
 Protokin refuse deux positions opposées.
 
@@ -378,7 +388,7 @@ La position protokinienne :
 
 ---
 
-# 13. Place dans l'architecture Protokin
+# 14. Place dans l'architecture Protokin
 
 Ce fichier joue un rôle charnière :
 
@@ -394,7 +404,7 @@ Analyse pourquoi certains régimes possèdent une puissance particulière sans d
 
 ## audit.md
 
-Évalue la stabilité et la cohérence interne des descriptions.
+Évalue la cohérence, la stabilité et les coûts de traduction entre descriptions.
 
 ## tensions.md
 
