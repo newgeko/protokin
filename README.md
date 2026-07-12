@@ -227,7 +227,7 @@ I --> H
 
 ---
 
-Content Layer
+# Content Layer
 
 Le Content Layer désigne le domaine initial de l'enquête.
 
@@ -235,17 +235,17 @@ Il ne correspond pas à un stock de données brutes préexistantes.
 
 Il comprend :
 
-des configurations multiples ;
+- des configurations multiples ;
 
-des interactions matérielles ;
+- des interactions matérielles ;
 
-des inscriptions ;
+- des inscriptions ;
 
-des pratiques émergentes ;
+- des pratiques émergentes ;
 
-des tensions ;
+- des tensions ;
 
-des possibilités descriptives non encore stabilisées.
+- des possibilités descriptives non encore stabilisées.
 
 
 Le Content Layer constitue le champ à partir duquel des régimes descriptifs peuvent émerger.
@@ -255,7 +255,7 @@ Il n'est pas encore organisé selon un vocabulaire normatif pleinement stabilis�
 
 ---
 
-Régimes descriptifs
+# Régimes descriptifs
 
 Un régime descriptif est une organisation stabilisée de pratiques permettant à une communauté de déterminer :
 
@@ -272,15 +272,15 @@ quelles formes de justification sont acceptables.
 
 Un régime descriptif comprend donc :
 
-un vocabulaire ;
+- un vocabulaire ;
 
-des règles d'inférence ;
+- des règles d'inférence ;
 
-des institutions ;
+- des institutions ;
 
-des pratiques matérielles ;
+- des pratiques matérielles ;
 
-des critères de correction.
+- des critères de correction.
 
 
 Il n'est pas une simple théorie.
