@@ -18,7 +18,7 @@
 
   ## Fondements descriptifs
 
-  - [Configurations du monde : Content Layer](02_architecture_conceptuelle/content_layer.md)
+  - [Configurations descriptives analysables](02_architecture_conceptuelle/configurations.md)
   - [Primat du couplage perception-action](02_architecture_conceptuelle/primat_perception_action.md)
   - [Configurations sémiotiques](02_architecture_conceptuelle/configurations_semiotiques.md)
 
