@@ -7,7 +7,6 @@ Comment fonctionne-t-il ? → Architecture
   - [Architecture générale](02_architecture_conceptuelle/architecture.md)
   - [Régimes de description](02_architecture_conceptuelle/regimes.md)
   - [Content Layer](02_architecture_conceptuelle/content_layer.md)
-  - [Configurations sémiotiques]
   - [Primat du couplage perception-action](02_architecture_conceptuelle/primat_perceptiob_action.md)
   - [Configurations sémiotiques]
 (02_architecture_conceptuelle/configurations_semiotiques.md)
