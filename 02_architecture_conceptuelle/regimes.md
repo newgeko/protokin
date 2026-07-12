@@ -1,814 +1,300 @@
-# Régimes — Statut et fonction dans Protokin
+# Régimes de description
 
-> Un régime de description désigne une configuration locale de contraintes permettant de stabiliser certaines descriptions, d’organiser des engagements et de déterminer des critères de justification.
+## Statut et fonction dans Protokin
 
-Dans Protokin, un régime n’est pas une partie du monde.
+> Un régime de description désigne un ensemble organisé de conditions permettant à certaines configurations de devenir descriptibles, intelligibles et évaluables dans une pratique donnée.
 
-Il désigne les conditions sous lesquelles certaines descriptions du monde peuvent devenir intelligibles, recevables, évaluables et transformables.
+Dans **Protokin**, un régime n'est pas une partie du monde.
 
+Il désigne les conditions sous lesquelles une description peut prendre une forme déterminée.
 
+Un régime ne décrit donc pas directement un objet.
 
+Il organise les possibilités selon lesquelles quelque chose peut être décrit.
 
 ---
 
-1. Fonction générale des régimes
+# 1. Fonction générale des régimes
 
-1.1 Question directrice
+Les régimes constituent un concept central de Protokin.
 
-Ce fichier répond à une question centrale :
+Ils permettent d'analyser comment des configurations peuvent devenir descriptibles selon des conditions particulières.
 
-> Quel est le statut fonctionnel des régimes dans l’architecture Protokin ?
+Un régime répond à une question fondamentale :
 
+> Dans quelles conditions une description devient-elle possible ?
 
+Il concerne notamment :
 
-Les régimes constituent l’un des concepts fondamentaux permettant d’analyser comment des descriptions émergent, acquièrent une stabilité locale et deviennent transmissibles dans des pratiques collectives.
+- les distinctions disponibles ;
+- les critères de pertinence ;
+- les formes d'inférence ;
+- les possibilités de justification ;
+- les contraintes pratiques associées.
 
 Voir :
 
-architecture.md
-
-
+- [architecture.md](architecture.md)
 
 ---
 
-1.2 Définition générale
+# 2. Définition d'un régime
 
-Un régime de description est un ensemble organisé de contraintes :
+Un régime de description est une organisation locale de contraintes permettant de stabiliser certaines manières de décrire.
 
-perceptives ;
+Ces contraintes peuvent être :
 
-sémiotiques ;
+- perceptives ;
+- sémiotiques ;
+- conceptuelles ;
+- pratiques ;
+- normatives ;
+- justificatives.
 
-descriptives ;
+Un régime ne correspond pas à une simple liste de règles.
 
-inférentielles ;
+Il constitue une organisation cohérente déterminant :
 
-normatives ;
-
-justificatives ;
-
-pratiques.
-
-
-Ces contraintes déterminent les conditions sous lesquelles une configuration peut devenir descriptible dans une pratique donnée.
-
-Un régime permet notamment d’identifier :
-
-les invariants considérés comme pertinents ;
-
-les distinctions disponibles ;
-
-les concepts mobilisables ;
-
-les critères de validité ;
-
-les formes de justification acceptées ;
-
-les possibilités d’intervention ;
-
-les limites d’application.
-
-
-Un régime n’apparaît donc pas d’abord comme un ensemble de propositions.
-
-Il correspond à une organisation plus large reliant :
-
-perception ;
-
-action ;
-
-signes ;
-
-langage ;
-
-institutions ;
-
-pratiques collectives.
-
-
+- ce qui peut apparaître comme pertinent ;
+- quelles distinctions peuvent être mobilisées ;
+- quelles descriptions peuvent être recevables.
 
 ---
 
-1.3 Fonction de stabilisation
+# 3. Ce qu'un régime n'est pas
 
-Un régime ne produit pas directement une description.
+Un régime n'est pas :
 
-Il définit l’espace dans lequel certaines descriptions peuvent être stabilisées.
+- une entité du monde ;
+- une structure cachée de la réalité ;
+- une classification naturelle des choses ;
+- une théorie globale ;
+- un mécanisme causal.
 
-Il rend possible la distinction entre :
+Il ne produit pas les phénomènes qu'il permet d'analyser.
 
-une description recevable ;
+Il ne constitue pas une explication du monde.
 
-une description problématique ;
-
-une description incompatible ;
-
-une description nécessitant une transformation.
-
-
-La fonction d’un régime est donc conditionnelle :
-
-> Il ne dit pas ce qu’est une chose, mais sous quelles conditions une chose peut être décrite d’une certaine manière.
-
-
-
+Il définit un espace de possibilités descriptives.
 
 ---
 
-1.4 Origine pragmatique d’un régime
+# 4. Régime, configuration et description
 
-Un régime descriptif n’émerge pas uniquement dans le langage.
+Protokin distingue trois fonctions analytiques.
 
-Il apparaît dans un couplage entre :
+## Configuration
 
-un locuteur ;
+Une configuration désigne ce qui est soumis à enquête.
 
-un environnement ;
-
-des capacités perceptives ;
-
-des pratiques d’action ;
-
-des systèmes d’inscription ;
-
-une communauté de justification.
-
-
-Avant d’être formulée linguistiquement, une description existe comme orientation pratique dans un milieu.
-
-Le langage constitue ensuite une stabilisation sémiotique permettant :
-
-la transmission ;
-
-la coordination ;
-
-la critique ;
-
-la transformation collective.
-
+Elle correspond à une organisation déjà constituée d'éléments, de relations et de pratiques.
 
 Voir :
 
-primat_perception_action.md
-
-configurations_semiotiques.md
-
-
+- [configurations.md](configurations.md)
 
 ---
 
-2. Statut du régime dans Protokin
+## Description
 
-2.1 Ce qu’un régime n’est pas
+Une description correspond à une manière déterminée de rendre une configuration intelligible.
 
-Un régime :
+Elle implique :
 
-n’est pas une entité ontologique ;
-
-n’est pas une couche du réel ;
-
-n’est pas une théorie globale ;
-
-n’est pas un système explicatif autonome ;
-
-n’est pas un mécanisme causal ;
-
-n’est pas un opérateur indépendant ;
-
-n’est pas une classification naturelle du monde.
-
-
-Il ne possède aucune capacité d’action propre.
-
-Il ne produit pas les phénomènes qu’il permet d’analyser.
-
+- des distinctions ;
+- des catégories ;
+- des relations ;
+- des engagements.
 
 ---
 
-2.2 Statut fonctionnel
+## Régime
 
-Le statut d’un régime est formel, pragmatique et fonctionnel.
+Un régime désigne les conditions permettant à une description d'être produite, évaluée et stabilisée.
 
-Il désigne :
+Ainsi :
 
-des conditions de description ;
+Configuration
 
-des critères d’évaluation ;
+↓
 
-des règles d’inférence ;
+Possibilités descriptives
 
-des contraintes de justification ;
+↓
 
-des pratiques d’inscription et de transmission.
+Régime de description
 
+↓
 
-Un régime organise un espace de possibilités descriptives.
+Conditions d'intelligibilité et d'évaluation
 
-Il ne constitue pas une structure cachée du monde.
+Cette représentation ne décrit pas des niveaux du réel.
 
+Elle représente un ordre d'analyse.
 
 ---
 
-3. Régimes et descriptions
+# 5. Fonction d'un régime
 
-3.1 Une description située
+Un régime permet de déterminer :
 
-Une description n’existe jamais indépendamment d’un cadre de contraintes.
+- quelles différences deviennent pertinentes ;
+- quelles descriptions peuvent être formulées ;
+- quelles relations d'inférence sont possibles ;
+- quelles formes de justification sont recevables.
 
-Elle dépend notamment :
+Il ne fournit pas une description unique.
 
-d’un vocabulaire disponible ;
+Il définit un espace dans lequel plusieurs descriptions peuvent être élaborées.
 
-de signes et inscriptions ;
+---
 
-de distinctions pertinentes ;
+# 6. Pluralité des régimes
 
-de pratiques perceptives ;
+Une même configuration peut être analysée selon plusieurs régimes.
 
-de critères de preuve ;
+Par exemple, une institution peut être décrite selon :
 
-de formes d’argumentation ;
+- un régime juridique ;
+- un régime économique ;
+- un régime historique ;
+- un régime sociologique.
 
-d’une communauté capable d’évaluer les engagements.
+Ces descriptions ne correspondent pas nécessairement à des visions concurrentes d'un même objet.
 
+Elles peuvent répondre à des questions différentes et mobiliser des critères différents.
+
+Protokin cherche donc à reconstruire :
+
+- les conditions propres à chaque régime ;
+- les distinctions qu'il rend possibles ;
+- les formes d'évaluation qu'il autorise.
+
+---
+
+# 7. Régimes et conditions de validité
+
+Un régime détermine les conditions dans lesquelles une description peut être évaluée.
+
+Ces conditions concernent notamment :
+
+- les critères utilisés ;
+- les formes de preuve reconnues ;
+- les relations d'inférence admises.
+
+La validité n'est donc pas indépendante d'un régime.
+
+Elle apparaît toujours dans un espace de pratiques déterminé.
 
 Voir :
 
-architecture.md
-
-engagements.md
-
-
+- [validite.md](../05_transformations/validite.md)
 
 ---
 
-3.2 Une description comme trajectoire
+# 8. Régimes et pratiques collectives
 
-Une description n’est pas seulement un énoncé.
+Un régime n'existe pas comme un système abstrait indépendant des pratiques.
 
-Elle constitue une trajectoire de stabilisation reliant :
+Il est porté par :
 
-une configuration initiale ;
+- des communautés de locuteurs ;
+- des pratiques d'utilisation ;
+- des formes d'inscription ;
+- des institutions éventuelles.
 
-une interprétation ;
-
-une inscription sémiotique ;
-
-une pratique collective ;
-
-une institution éventuelle.
-
-
-Une description peut ainsi passer :
-
-de :
-
-configuration perceptive
-
-vers :
-
-signe
-
-puis :
-
-concept
-
-puis :
-
-engagement normatif
-
-puis :
-
-régime stabilisé.
-
-
----
-
-3.3 Un même phénomène, plusieurs régimes
-
-Une même configuration peut être décrite selon plusieurs régimes.
-
-Exemple :
-
-Une organisation peut être décrite selon :
-
-un régime économique ;
-
-un régime juridique ;
-
-un régime institutionnel ;
-
-un régime social ;
-
-un régime historique.
-
-
-Ces descriptions ne constituent pas nécessairement des concurrentes.
-
-Elles peuvent répondre à des questions différentes.
-
-L’analyse protokinienne ne cherche donc pas à déterminer quelle description est « la vraie ».
-
-Elle cherche à comprendre :
-
-quelles contraintes rendent chaque description possible ;
-
-quels engagements elle implique ;
-
-quelles pratiques elle organise ;
-
-quelles tensions apparaissent entre elles.
-
+Un régime possède donc une dimension historique et collective.
 
 Voir :
 
-tensions.md
-
-
-
----
-
-4. Dimensions internes d’un régime
-
-Un régime peut être analysé selon plusieurs dimensions.
-
+- [locuteur.md](locuteur.md)
+- [pratique_collective.md](pratique_collective.md)
 
 ---
 
-4.1 Critères de pertinence
+# 9. Les régimes comme cadres de stabilisation
 
-Chaque régime détermine ce qui compte comme élément pertinent.
+Un régime permet une stabilisation locale des descriptions.
 
-Il organise :
+Cette stabilisation signifie qu'une communauté dispose de conditions relativement organisées permettant :
 
-ce qui doit être pris en compte ;
+- la transmission ;
+- la comparaison ;
+- la critique ;
+- la révision.
 
-ce qui peut être ignoré ;
+Elle ne signifie jamais qu'une description devient définitive.
 
-quelles distinctions deviennent nécessaires.
-
-
-
----
-
-4.2 Organisation sémiotique
-
-Un régime possède toujours une dimension sémiotique.
-
-Il organise :
-
-des signes ;
-
-des catégories ;
-
-des représentations ;
-
-des formes d’inscription.
-
-
-Le langage ne constitue pas seulement un moyen de décrire une réalité déjà constituée.
-
-Il participe à la stabilisation des réalités sociales en permettant :
-
-l’attribution de statuts ;
-
-la coordination collective ;
-
-la conservation des engagements.
-
-
-Voir :
-
-configurations_semiotiques.md
-
-
+Un régime reste une organisation évolutive des conditions de description.
 
 ---
 
-4.3 Règles d’inférence
+# 10. Cartographie des régimes
 
-Un régime définit les relations considérées comme valides entre différentes descriptions.
-
-Il détermine :
-
-quelles conséquences peuvent être tirées ;
-
-quelles relations sont admises ;
-
-quelles conclusions sont interdites.
-
-
-Voir :
-
-engagements.md
-
-
-
----
-
-4.4 Critères de justification
-
-Un régime comprend des normes permettant d’évaluer les descriptions.
-
-Il détermine :
-
-ce qui compte comme preuve ;
-
-ce qui compte comme argument ;
-
-ce qui compte comme erreur ;
-
-ce qui nécessite une révision.
-
-
-Voir :
-
-validite.md
-
-
-
----
-
-4.5 Couplage perception-action
-
-Un régime repose toujours sur un rapport pratique au monde.
-
-Il implique :
-
-des capacités perceptives ;
-
-des possibilités d’action ;
-
-des attentes ;
-
-des corrections par l’expérience.
-
-
-Une description est stabilisée parce qu’elle permet une coordination efficace entre :
-
-locuteur ↔ environnement ↔ communauté.
-
-Voir :
-
-primat_perception_action.md
-
-
-
----
-
-5. Régimes et normativité
-
-5.1 Une dimension normative
-
-Un régime n’est pas uniquement descriptif.
-
-Il comprend également des contraintes normatives.
-
-Il permet de distinguer :
-
-ce qui est acceptable ;
-
-ce qui doit être justifié ;
-
-ce qui constitue une erreur ;
-
-ce qui nécessite une révision.
-
-
-
----
-
-5.2 Normativité sans absolu
-
-La normativité d’un régime est locale.
-
-Elle ne signifie pas :
-
-qu’un régime possède une validité universelle ;
-
-qu’il impose une hiérarchie ontologique ;
-
-qu’il représente une norme ultime.
-
-
-Elle signifie :
-
-> Dans une pratique donnée, certaines formes de description peuvent être évaluées selon des critères déterminés.
-
-
-
-Voir :
-
-validite.md
-
-
-
----
-
-6. Relations entre régimes
-
-Les régimes ne sont pas isolés.
-
-Ils peuvent entretenir plusieurs types de relations.
-
-
----
-
-6.1 Compatibilité
-
-Deux régimes sont compatibles lorsque leurs contraintes peuvent être articulées sans contradiction majeure.
-
-La compatibilité ne signifie pas identité.
-
-Deux régimes peuvent rester différents tout en étant compatibles.
-
-
----
-
-6.2 Tension inter-régimes
-
-Une tension apparaît lorsque deux régimes appliqués à une même configuration produisent des engagements difficiles à maintenir simultanément.
-
-Elle peut concerner :
-
-les critères de validité ;
-
-les formes d’inférence ;
-
-les descriptions de l’objet ;
-
-les responsabilités associées.
-
-
-Voir :
-
-tensions.md
-
-
-
----
-
-6.3 Traduction entre régimes
-
-Certains passages entre régimes peuvent être reconstruits.
-
-Ils nécessitent une analyse des conditions de traduction.
-
-Voir :
-
-traductions.md
-
-
-
----
-
-6.4 Réduction entre régimes
-
-Un régime peut tenter d’absorber entièrement un autre régime.
-
-Cette situation produit un risque de réduction.
+Protokin peut analyser différents domaines descriptifs sans les réduire à une hiérarchie unique.
 
 Exemples :
 
-réduction des raisons à des causes ;
+- régimes scientifiques ;
+- régimes historiques ;
+- régimes juridiques ;
+- régimes sociaux ;
+- régimes symboliques.
 
-réduction des normes à des faits ;
+Cette cartographie ne classe pas des régions du réel.
 
-réduction d’un objet social à ses seuls mécanismes physiques.
-
-
-Voir :
-
-reductions.md
-
-
-
----
-
-6.5 Historicité des régimes
-
-Un régime descriptif n’est jamais intemporel.
-
-Il possède une trajectoire :
-
-émergence ;
-
-stabilisation ;
-
-institutionnalisation ;
-
-transmission ;
-
-transformation.
-
-
-Chaque régime conserve des traces de ses stabilisations antérieures.
-
-Toute transformation doit donc composer avec un héritage descriptif.
+Elle identifie des formes différentes d'organisation descriptive.
 
 Voir :
 
-stabilisation.md
-
-
+- [cartographie_regimes_descriptifs.md](cartographie_regimes_descriptifs.md)
 
 ---
 
-7. Régimes et cartographie des domaines descriptifs
+# 11. Rôle dans l'audit Protokin
 
-Les régimes peuvent être étudiés selon différentes familles :
+L'analyse d'une configuration commence notamment par l'identification des régimes mobilisés.
 
-Régimes causaux
+L'enquête cherche à reconstruire :
 
-physique ;
-
-chimie ;
-
-biologie ;
-
-neurosciences.
-
-
-Régimes vécus
-
-phénoménologie ;
-
-psychologie ;
-
-affects.
-
-
-Régimes sémiotiques
-
-langage ;
-
-symboles ;
-
-récits.
-
-
-Régimes normatifs
-
-droit ;
-
-institutions ;
-
-morale.
-
-
-Régimes collectifs
-
-famille ;
-
-économie ;
-
-politique.
-
-
-Régimes historiques
-
-histoire ;
-
-mémoire ;
-
-herméneutique.
-
+1. Quels régimes sont présents ?
+2. Quelles conditions descriptives organisent chacun d'eux ?
+3. Quelles descriptions rendent-ils possibles ?
+4. Quels critères utilisent-ils ?
 
 Voir :
 
-cartographie_regimes_descriptifs.md
-
-
+- [audit.md](../03_methode_enquete/audit.md)
 
 ---
 
-8. Régimes et audit Protokin
-
-L’audit commence par l’identification des régimes mobilisés.
-
-Voir :
-
-audit.md
-
-
-Les questions fondamentales sont :
-
-1. Quel régime est mobilisé ?
-
-
-2. Quelles conditions perceptives, sémiotiques et discursives l’organisent ?
-
-
-3. Quels critères définit-il ?
-
-
-4. Quels engagements produit-il ?
-
-
-5. Quelles inférences autorise-t-il ?
-
-
-6. Quelles limites rencontre-t-il ?
-
-
-7. Une transformation est-elle possible ?
-
-
-
-
----
-
-9. Régimes et ontologie
-
-9.1 Pas une classification du réel
-
-Les régimes ne divisent pas le monde en catégories fondamentales.
-
-Ils ne disent pas :
-
-ce qui existe ;
-
-ce qui est plus réel ;
-
-ce qui serait fondamental.
-
-
-
----
-
-9.2 Priorité méthodologique
-
-Dans Protokin, l’analyse commence par une question descriptive :
-
-> Que peut-on décrire ici, et sous quelles conditions ?
-
-
-
-Avant une question ontologique :
-
-> Qu’est-ce qui existe ?
-
-
-
-L’ontologie devient alors un objet possible d’analyse, et non le point de départ.
-
-
----
-
-10. Garde-fous conceptuels
+# 12. Garde-fous conceptuels
 
 Aucun régime :
 
-n’est fondamental ;
+- n'est une ontologie ;
+- n'est une représentation absolue du monde ;
+- n'est universel ;
+- n'épuise toutes les descriptions possibles ;
+- ne constitue un niveau du réel.
 
-n’est universel ;
-
-n’est supérieur aux autres ;
-
-n’explique tout un domaine ;
-
-ne constitue une cause ;
-
-ne correspond à un niveau du réel.
-
-
-Les régimes doivent être compris comme :
-
-> des cadres de stabilisation descriptive, sémiotique, pratique et normative.
-
-
-
+Un régime est une condition d'intelligibilité, pas une structure fondamentale de l'être.
 
 ---
 
-Conclusion
+# Conclusion
 
-Les régimes constituent l’infrastructure fonctionnelle de Protokin.
+Les régimes constituent une fonction centrale de Protokin.
 
-Ils permettent d’analyser :
+Ils permettent d'analyser les conditions sous lesquelles des configurations deviennent descriptibles, évaluables et transmissibles.
 
-comment des descriptions deviennent possibles ;
+Ils ne disent pas ce que le monde est.
 
-comment elles acquièrent une validité locale ;
-
-comment elles produisent des engagements ;
-
-comment elles s’inscrivent matériellement ;
-
-comment elles entrent en tension ;
-
-comment elles peuvent être transformées.
-
-
-Ils ne sont ni des objets du monde, ni des mécanismes explicatifs.
-
-Ils sont les conditions sous lesquelles un domaine peut devenir descriptible, justifiable, transmissible et transformable.
-
+Ils définissent les conditions selon lesquelles certaines descriptions peuvent apparaître comme intelligibles et recevables dans une pratique donnée.
 
 ---
 
-Formule synthétique
+# Formule synthétique
 
-> Un régime ne décrit pas le monde.
-
-Il définit les conditions sous lesquelles une configuration du monde peut devenir descriptible, intelligible, recevable et justifiable dans une pratique donnée.
+> Un régime ne décrit pas le monde.  
+> Il organise les conditions sous lesquelles une configuration peut devenir descriptible.
