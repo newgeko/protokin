@@ -1,129 +1,187 @@
-# Causes / Raisons — Analyse des déplacements entre espaces explicatifs et espaces de justification
+# Causes / Raisons — Analyse des fonctions explicatives et justificatives dans Protokin
 
-> Ce fichier analyse la fonction de la distinction entre causes et raisons dans l’architecture Protokin.
+> Une description peut répondre à plusieurs types de questions.
 >
-> Il répond à une question centrale :
+> Elle peut chercher à expliquer comment un phénomène apparaît, ou à établir pourquoi une position peut être défendue dans un espace de justification.
 >
-> **Comment distinguer les relations explicatives portant sur des mécanismes et les relations justificatives portant sur des engagements, sans réduire un registre à l’autre ?**
+> Dans Protokin, la distinction entre **causes** et **raisons** permet d’analyser deux fonctions différentes de l’intelligibilité sans réduire l’une à l’autre.
 
 ---
 
-# 1. Fonction de la distinction dans Protokin
+# 1. Fonction générale de la distinction causes / raisons
 
-La distinction entre causes et raisons constitue un outil analytique permettant d’examiner les relations entre différents cadres de description.
+## 1.1 Question directrice
 
-Elle ne désigne pas :
+Ce fichier répond à une question centrale :
 
-- deux domaines séparés du réel ;
-- deux types d’objets existants indépendamment des pratiques ;
-- deux niveaux ontologiques de l’explication.
+> Comment distinguer les relations explicatives portant sur des mécanismes et les relations justificatives portant sur des engagements ?
 
-Elle permet d’analyser deux fonctions différentes dans les pratiques descriptives :
+Une description ne possède pas une seule fonction possible.
 
-- expliquer selon des relations de dépendance ;
-- justifier selon des relations d’engagement et d’inférence.
+Selon le régime dans lequel elle intervient, elle peut organiser :
 
-Dans Protokin, la distinction causes / raisons sert donc à identifier les conditions sous lesquelles une description change de registre.
+- une explication causale ;
+- une justification normative ;
+- une analyse pratique ;
+- une interprétation institutionnelle.
+
+La distinction causes / raisons permet donc d’analyser les différentes manières dont une configuration devient intelligible.
 
 ---
 
-# 2. Principe général
+## 1.2 Définition générale
 
-Une même configuration peut être décrite selon plusieurs perspectives.
+Dans Protokin :
 
-Elle peut faire l’objet :
+Les **causes** désignent les relations explicatives par lesquelles un phénomène est analysé selon des mécanismes, des dépendances ou des conditions de production.
 
-- d’une explication causale ;
-- d’une justification normative ;
-- d’une analyse institutionnelle ;
-- d’une description technique ;
-- d’une interprétation pratique.
+Les **raisons** désignent les relations justificatives par lesquelles une position devient défendable dans un espace d’engagements, d’inférences et de responsabilités.
 
-Ces descriptions ne répondent pas nécessairement aux mêmes questions.
+Cette distinction n’est pas :
 
-Une explication causale cherche notamment à établir :
+- une séparation entre deux mondes ;
+- une différence entre deux types d’objets ;
+- une hiérarchie entre deux formes de connaissance.
 
-- quelles relations produisent un phénomène ;
-- quelles dépendances peuvent être identifiées ;
-- quels mécanismes peuvent être décrits.
+Elle constitue une distinction fonctionnelle entre deux modes d’analyse.
 
-Une justification normative cherche notamment à établir :
+---
 
-- quels engagements sont assumés ;
-- quelles raisons peuvent être invoquées ;
-- quelles conséquences sont acceptables dans un espace de justification.
+# 2. Le problème de la confusion entre causes et raisons
 
-Le problème protokinien n’est donc pas de choisir entre causes et raisons.
+Une difficulté fréquente apparaît lorsque deux fonctions descriptives différentes sont confondues.
 
-Il consiste à analyser leurs conditions d’articulation.
+Une explication causale répond principalement à une question :
+
+> Comment quelque chose se produit-il ?
+
+Une justification répond principalement à une autre question :
+
+> Pourquoi cette position peut-elle être défendue ?
+
+Ces deux questions peuvent concerner une même configuration sans être interchangeables.
+
+Une analyse causale peut expliquer l’apparition d’une croyance.
+
+Elle ne détermine pas automatiquement si cette croyance est justifiée.
+
+Une justification peut expliquer pourquoi une action est considérée comme acceptable.
+
+Elle ne constitue pas nécessairement une explication de ses mécanismes de production.
 
 ---
 
 # 3. Les causes comme fonction explicative
 
-Les causes correspondent à une fonction descriptive dans laquelle les phénomènes sont analysés à partir de relations de dépendance.
+## 3.1 Définition
+
+Une cause correspond à une relation de dépendance dans laquelle un phénomène est analysé à partir de conditions permettant d’expliquer son apparition.
 
 Une analyse causale peut mobiliser :
 
 - des mécanismes ;
 - des régularités ;
 - des relations structurelles ;
-- des modèles explicatifs.
+- des modèles explicatifs ;
+- des conditions matérielles.
 
-Elle vise à déterminer comment un phénomène peut être produit, influencé ou expliqué dans un cadre donné.
-
-Cependant, une cause n’est pas une justification.
-
-Une relation causale peut expliquer pourquoi une croyance existe sans déterminer si cette croyance est rationnellement justifiée.
-
-De même, une cause peut expliquer pourquoi une action a lieu sans constituer une raison donnée par un agent pour cette action.
+Elle cherche à reconstruire les relations permettant de comprendre comment un phénomène devient possible.
 
 ---
 
-# 4. Les raisons comme fonction normative
+## 3.2 Fonction descriptive des causes
 
-Les raisons correspondent à une fonction descriptive dans laquelle les énoncés, les croyances et les actions sont évalués selon leur place dans un espace de justification.
+Les causes permettent d’étudier :
+
+- les conditions de production ;
+- les transformations observables ;
+- les relations entre événements ;
+- les contraintes matérielles.
+
+Elles appartiennent principalement à l’analyse des conditions d’apparition d’une configuration.
+
+---
+
+## 3.3 Limite de l’explication causale
+
+Une cause n’est pas une raison.
+
+Une relation causale peut expliquer :
+
+- pourquoi un comportement apparaît ;
+- pourquoi une croyance existe ;
+- pourquoi une structure se maintient.
+
+Mais elle ne suffit pas à déterminer :
+
+- si une affirmation est justifiée ;
+- si une action est défendable ;
+- quels engagements doivent être reconnus.
+
+---
+
+# 4. Les raisons comme fonction justificative
+
+## 4.1 Définition
+
+Une raison correspond à une relation normative dans laquelle une affirmation, une décision ou une position peut être évaluée dans un espace de justification.
 
 Une raison implique :
 
 - des engagements ;
-- des habilitations ;
+- des critères d’évaluation ;
 - des inférences ;
 - des responsabilités discursives.
 
-Comprendre une raison consiste à déterminer :
-
-- ce qu’elle autorise à affirmer ;
-- ce qu’elle oblige à reconnaître ;
-- quelles conséquences elle entraîne ;
-- quelles positions elle rend incompatibles.
-
-Une raison n’est donc pas une cause supplémentaire.
-
-Elle appartient à une structure normative dans laquelle des agents peuvent être tenus responsables de leurs engagements.
-
 Voir :
 
-- [engagements.md](engagements.md)
+- [Engagements](engagements.md)
 
 ---
 
-# 5. Distinction entre espace des causes et espace des raisons
+## 4.2 Fonction descriptive des raisons
 
-Protokin distingue deux fonctions analytiques :
+Les raisons permettent d’analyser :
+
+- ce qui peut être défendu ;
+- ce qui peut être critiqué ;
+- ce qui doit être justifié ;
+- quelles conséquences sont reconnues.
+
+Comprendre une raison consiste à reconstruire sa place dans un réseau d’engagements.
+
+---
+
+## 4.3 Les raisons ne sont pas des causes supplémentaires
+
+Une raison n’est pas un mécanisme caché derrière une action.
+
+Elle appartient à un autre registre d’analyse.
+
+Une personne peut avoir des causes expliquant son comportement.
+
+Mais elle peut également fournir des raisons permettant de justifier son action.
+
+Ces deux analyses peuvent être articulées sans être confondues.
+
+---
+
+# 5. Espace des causes et espace des raisons
+
+Protokin reprend la distinction entre deux fonctions analytiques.
+
+---
 
 ## 5.1 Espace des causes
 
-L’espace des causes concerne les relations explicatives.
-
-Il comprend :
+L’espace des causes concerne :
 
 - les mécanismes ;
 - les dépendances ;
 - les régularités ;
 - les conditions de production.
 
-La question directrice est :
+Question directrice :
 
 > Comment un phénomène devient-il explicable dans un cadre donné ?
 
@@ -131,228 +189,183 @@ La question directrice est :
 
 ## 5.2 Espace des raisons
 
-L’espace des raisons concerne les relations normatives.
-
-Il comprend :
+L’espace des raisons concerne :
 
 - les engagements ;
 - les justifications ;
 - les inférences ;
-- les responsabilités discursives.
+- les responsabilités.
 
-La question directrice est :
+Question directrice :
 
 > Comment une position devient-elle défendable dans un espace de justification ?
 
 ---
 
-# 6. Non-réduction des causes aux raisons
+# 6. Articulation entre causes et raisons
 
-Protokin refuse une réduction des relations causales à des relations normatives.
+Protokin ne cherche pas à séparer absolument causes et raisons.
 
-Une explication causale ne devient pas automatiquement une justification.
+Une même configuration peut nécessiter plusieurs analyses complémentaires.
 
-Exemple général :
+Une décision humaine peut être étudiée selon :
 
-Une explication biologique d’un comportement peut décrire des conditions de production d’un comportement.
+- ses conditions biologiques ;
+- ses déterminations sociales ;
+- ses raisons invoquées ;
+- ses engagements normatifs.
 
-Elle ne suffit pas nécessairement à déterminer :
+Ces analyses ne répondent pas aux mêmes questions.
 
-- si ce comportement est justifié ;
-- si un agent doit en répondre ;
-- quelles raisons peuvent être invoquées.
-
-La transformation d’une cause en raison nécessite une analyse supplémentaire.
-
-Voir :
-
-- [reductions.md](reductions.md)
+L’enjeu protokinien consiste donc à maintenir leur articulation sans produire de réduction.
 
 ---
 
-# 7. Non-réduction des raisons aux causes
+# 7. Causes, raisons et régimes descriptifs
 
-Protokin refuse également de réduire les raisons à leurs conditions causales d’apparition.
-
-Le fait qu’une croyance possède une origine causale ne suffit pas à déterminer son statut justificatif.
-
-Une croyance peut avoir :
-
-- une histoire psychologique ;
-- une origine sociale ;
-- une condition biologique ;
-
-sans que ces éléments remplacent l’analyse de ses raisons.
-
-La justification appartient à un espace normatif distinct de l’explication causale.
-
----
-
-# 8. Déplacements de registre
-
-Une difficulté centrale apparaît lorsque des éléments appartenant à une fonction descriptive sont transférés dans une autre sans transformation explicite des critères de validité.
-
-Ces déplacements peuvent produire des tensions.
-
-Ils apparaissent notamment lorsque :
-
-- une explication causale est présentée comme une justification ;
-- une justification est traitée comme un simple effet causal ;
-- une responsabilité normative est reformulée uniquement en termes mécanistes.
-
-Ces situations ne constituent pas seulement des erreurs factuelles.
-
-Elles correspondent à des changements de cadre descriptif non explicités.
-
-Voir :
-
-- [tensions.md](tensions.md)
-- [analyse.md](analyse.md)
-
----
-
-# 9. Causes, raisons et régimes de description
-
-Les causes et les raisons doivent être comprises comme des fonctions mobilisées à l’intérieur de régimes de description.
+Les causes et les raisons apparaissent toujours dans des régimes de description particuliers.
 
 Un régime détermine notamment :
 
 - quels types d’explication sont recevables ;
-- quels critères de justification sont pertinents ;
+- quelles formes de justification sont pertinentes ;
 - quelles inférences sont autorisées.
 
-Ainsi, un même phénomène peut être décrit selon plusieurs régimes :
-
-- un régime scientifique peut privilégier des relations causales ;
-- un régime institutionnel peut privilégier des engagements normatifs ;
-- un régime pratique peut articuler plusieurs formes de description.
-
-Aucun régime n’est considéré comme supérieur en soi.
-
-L’analyse porte sur leurs conditions propres de validité et leurs relations.
-
 Voir :
 
-- [regimes.md](regimes.md)
+- [Régimes de description](regimes.md)
+
+Un même phénomène peut ainsi être décrit selon plusieurs régimes :
+
+- un régime scientifique peut privilégier les relations causales ;
+- un régime institutionnel peut privilégier les engagements normatifs ;
+- un régime pratique peut articuler plusieurs fonctions descriptives.
 
 ---
 
-# 10. Causes, raisons et engagements
+# 8. Causes, raisons et engagements
 
-Dans une perspective inférentialiste, les raisons sont analysées à partir des engagements qu’elles impliquent.
+La distinction causes / raisons permet de préciser le rôle des engagements.
 
-Une description n’est pas seulement un contenu.
+Une description n’est pas seulement un contenu informatif.
 
-Elle introduit des conséquences normatives.
+Elle peut modifier :
 
-Adopter une description peut modifier :
+- ce qu’un locuteur est engagé à reconnaître ;
+- les inférences qu’il accepte ;
+- les justifications qu’il doit fournir.
 
-- ce que l’on est engagé à reconnaître ;
-- les inférences disponibles ;
-- les critiques auxquelles on devient exposé.
+Voir :
 
-La distinction causes / raisons permet donc d’examiner la différence entre :
+- [Engagements](engagements.md)
+
+L’analyse protokinienne distingue donc :
 
 - expliquer pourquoi une position apparaît ;
-- déterminer quelles raisons peuvent la soutenir.
-
-Voir :
-
-- [engagements.md](engagements.md)
+- analyser pourquoi cette position peut être soutenue.
 
 ---
 
-# 11. Traduction entre causes et raisons
+# 9. Déplacements entre espaces descriptifs
 
-Les relations entre causes et raisons ne relèvent ni d’une séparation absolue ni d’une identité complète.
+Un déplacement problématique apparaît lorsqu’une fonction descriptive est transférée dans un autre registre sans expliciter la transformation opérée.
 
-Elles peuvent nécessiter des opérations de traduction.
+Exemples :
 
-Une traduction doit déterminer :
+- présenter une explication causale comme une justification normative ;
+- réduire une justification à une simple origine causale ;
+- remplacer une analyse des engagements par une analyse uniquement mécaniste.
 
-- quels éléments peuvent être conservés ;
-- quels concepts doivent être reformulés ;
-- quelles différences doivent être maintenues.
-
-Une traduction réussie ne supprime pas la distinction entre explication et justification.
-
-Elle rend possible leur articulation contrôlée.
+Ces déplacements constituent des changements de cadre descriptif qui doivent être analysés.
 
 Voir :
 
-- [traductions.md](traductions.md)
+- [Réductions](reductions.md)
+- [Analyse](analyse.md)
 
 ---
 
-# 12. Fonction dans l’audit Protokin
+# 10. Fonction dans l’architecture Protokin
 
-Dans l’analyse protokinienne, la distinction causes / raisons intervient lors de l’examen des engagements associés à une description.
+La distinction causes / raisons intervient dans l’analyse des relations entre :
 
-L’audit cherche notamment à déterminer :
+Configuration
 
-1. Quel régime descriptif est mobilisé.
-2. Quel type d’explication est produit.
-3. Quels engagements normatifs sont introduits.
-4. Si un déplacement entre causes et raisons est effectué.
-5. Si ce déplacement est justifié ou problématique.
+↓
 
-Voir :
+Description
 
-- [audit.md](audit.md)
+↓
+
+Régime descriptif
+
+↓
+
+Engagements
+
+↓
+
+Inférences
+
+↓
+
+Justifications
+
+Cette organisation ne décrit pas des niveaux du réel.
+
+Elle représente un ordre d’analyse des fonctions descriptives.
 
 ---
 
-# 13. Statut méthodologique
+# 11. Statut méthodologique
 
-Les notions de cause et de raison ne désignent pas des objets autonomes.
+Dans Protokin, causes et raisons ne sont pas des objets autonomes.
 
-Elles constituent des fonctions d’analyse permettant d’examiner :
+Elles constituent des fonctions analytiques permettant d’examiner :
 
 - des différences de critères ;
 - des différences d’inférence ;
 - des différences de responsabilité ;
 - des différences de validité.
 
-Protokin ne cherche donc pas à construire une théorie générale des causes ou des raisons.
+Protokin ne cherche pas à construire une théorie générale de la causalité ou de la rationalité.
 
 Il analyse les conditions sous lesquelles différentes formes d’intelligibilité peuvent être articulées.
 
 ---
 
-# 14. Limites du cadre
+# 12. Limites conceptuelles
 
-Protokin ne cherche pas :
+Protokin refuse plusieurs réductions :
 
-- à supprimer les explications causales ;
-- à réduire toute explication à une justification normative ;
-- à établir une séparation absolue entre science et pratique ;
-- à produire une hiérarchie entre descriptions.
+## Réduction des raisons aux causes
 
-Son objectif est plus limité :
-
-> expliciter les conditions permettant de distinguer, articuler et transformer différents modes de description.
+Une justification ne disparaît pas parce qu’elle possède des conditions causales d’apparition.
 
 ---
 
-# 15. Relations avec l’architecture Protokin
+## Réduction des causes aux raisons
 
-La distinction causes / raisons intervient dans plusieurs dimensions du système.
+Une explication causale ne devient pas automatiquement une justification.
 
-Elle est liée à :
+---
 
-- l’analyse des régimes de description ;
-- l’étude des engagements ;
-- l’identification des réductions ;
-- l’analyse des tensions ;
-- les opérations de traduction.
+## Séparation absolue des deux espaces
 
-Voir :
+Causes et raisons peuvent être articulées dans une même analyse sans être confondues.
 
-- [architecture.md](architecture.md)
-- [regimes.md](regimes.md)
-- [engagements.md](engagements.md)
-- [reductions.md](reductions.md)
-- [traductions.md](traductions.md)
+---
+
+# 13. Relations avec l’architecture Protokin
+
+La distinction causes / raisons est liée à :
+
+- [Architecture générale](architecture.md)
+- [Régimes de description](regimes.md)
+- [Engagements](engagements.md)
+- [Réductions](reductions.md)
+
+Elle permet d’analyser comment différentes formes de description peuvent être distinguées et articulées.
 
 ---
 
@@ -360,24 +373,24 @@ Voir :
 
 Dans Protokin, causes et raisons ne désignent pas deux parties du monde.
 
-Elles désignent deux fonctions descriptives permettant d’analyser deux formes d’intelligibilité :
+Elles désignent deux fonctions descriptives :
 
-- expliquer par des relations de dépendance ;
-- justifier par des relations d’engagement et d’inférence.
+- expliquer selon des relations de dépendance ;
+- justifier selon des relations d’engagement et d’inférence.
 
 La distinction permet d’éviter deux réductions symétriques :
 
 - transformer toute raison en simple cause ;
 - transformer toute cause en justification.
 
-Elle constitue un outil d’analyse des relations entre régimes descriptifs et des conditions sous lesquelles différentes formes d’explication et de justification peuvent être articulées.
+Elle constitue un outil méthodologique permettant d’analyser les conditions sous lesquelles plusieurs formes d’intelligibilité peuvent coexister dans une même configuration descriptive.
 
 ---
 
 # Formule synthétique
 
 > **Les causes expliquent les conditions selon lesquelles un phénomène apparaît.**
->
+
 > **Les raisons établissent les conditions selon lesquelles une position peut être justifiée.**
->
-> **Protokin analyse les conditions sous lesquelles ces deux fonctions peuvent être distinguées, articulées ou entrer en tension.**
+
+> **Protokin analyse les conditions sous lesquelles ces deux fonctions peuvent être distinguées, articulées ou transformées.**
