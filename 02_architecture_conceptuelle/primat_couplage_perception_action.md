@@ -2,368 +2,228 @@
 
 ## Introduction
 
-L'analyse des descriptions ne peut être correctement comprise si elle est détachée des pratiques au sein desquelles elles émergent. Les descriptions ne constituent pas des entités autonomes flottant dans un espace purement linguistique ou sémiotique. Elles apparaissent au sein d'activités concrètes où des organismes, des locuteurs et des communautés interagissent avec leur environnement.
+Protokin ne considère pas les descriptions comme des objets autonomes apparaissant dans un espace purement symbolique.
 
-Protokin analyse les descriptions, mais il ne réduit pas l'activité humaine à la production d'énoncés. Les descriptions sont toujours enchâssées dans des dynamiques pratiques plus larges qui impliquent la perception, l'action, l'anticipation, la coordination collective et la transformation de l'environnement.
+Toute description émerge dans une relation préalable entre un système capable de percevoir, d'agir et de s'ajuster à un environnement.
 
-Cette perspective conduit à reconnaître le caractère fondamental du couplage perception-action. Avant toute description explicite, les agents sont déjà engagés dans des trajectoires d'interaction avec leur milieu. Les descriptions apparaissent à l'intérieur de ces trajectoires et participent à leur réorganisation.
+Le **primat du couplage perception-action** désigne cette condition fondamentale :
 
-Le primat du couplage perception-action constitue ainsi une condition importante de l'architecture protokinienne. Il permet d'éviter de concevoir les descriptions comme de simples représentations passives du monde ou comme de purs objets linguistiques indépendants des pratiques humaines.
+> Avant qu'une configuration devienne une description explicite, elle s'inscrit déjà dans une dynamique d'interaction entre un organisme, son milieu et ses possibilités d'action.
 
+Cette perspective permet d'éviter deux réductions :
 
----
+- considérer la description comme une simple copie passive d'un monde déjà constitué ;
+- considérer la description comme une construction purement linguistique indépendante des pratiques.
 
-## 1. Le problème théorique
-
-De nombreuses conceptions classiques de la connaissance reposent sur une séparation implicite entre :
-
-un sujet observateur ;
-
-un monde observé ;
-
-une représentation intermédiaire chargée de reproduire ce monde.
-
-
-Dans ce schéma, la perception fournirait d'abord un contenu descriptif, puis l'action interviendrait secondairement comme conséquence de cette représentation.
-
-Protokin refuse cette séquence.
-
-L'activité humaine ne commence pas par la contemplation d'un monde déjà constitué.
-
-Les organismes vivent dans des environnements avec lesquels ils entretiennent des interactions permanentes.
-
-Ils :
-
-explorent ;
-
-manipulent ;
-
-corrigent ;
-
-ajustent ;
-
-anticipent.
-
-
-La perception et l'action ne constituent donc pas deux opérations indépendantes.
-
-Elles forment un système dynamique unique.
+Dans Protokin, les descriptions apparaissent toujours dans des trajectoires d'interaction déjà engagées.
 
 
 ---
 
-## 2. Définition du couplage perception-action
+# 1. Le problème du modèle représentationnel
 
-Le couplage perception-action désigne la relation circulaire par laquelle un organisme :
+Une conception classique de la connaissance suppose souvent une séquence :
 
-perçoit son environnement ;
+Monde
+↓
+Perception
+↓
+Représentation
+↓
+Action
 
-agit sur cet environnement ;
+Dans ce modèle, la perception fournirait d'abord une représentation du monde, puis l'action interviendrait comme conséquence.
 
-modifie les conditions futures de sa perception ;
+Protokin adopte une autre perspective.
 
-ajuste son comportement à partir des conséquences produites.
+L'activité d'un système vivant ne commence pas par une observation désintéressée.
+
+Elle commence par une relation pratique avec un environnement.
+
+Un organisme :
+
+- explore ;
+- sélectionne ;
+- ajuste ;
+- anticipe ;
+- modifie son comportement.
+
+La perception et l'action ne constituent donc pas deux étapes séparées.
+
+Elles forment une dynamique couplée.
 
 
-La perception n'est jamais pure réception.
+---
 
-L'action n'est jamais simple exécution.
+# 2. Définition du couplage perception-action
 
-Les deux dimensions se déterminent mutuellement.
+Le couplage perception-action désigne la relation circulaire par laquelle :
 
-Dans cette perspective :
+- la perception oriente des possibilités d'action ;
+- l'action transforme les conditions futures de perception ;
+- les ajustements successifs modifient la relation à l'environnement.
 
-> Percevoir, c'est déjà préparer une action possible.
+La perception n'est donc pas une réception passive d'informations.
 
+Elle est liée à des possibilités pratiques.
 
+De même, l'action n'est pas une simple exécution d'une représentation préalable.
+
+Elle participe à la constitution du milieu dans lequel de nouvelles perceptions deviennent possibles.
+
+Ainsi :
+
+> Percevoir implique déjà une orientation vers des possibilités d'action.
 
 Et :
 
-> Agir, c'est transformer les conditions futures de perception.
-
-
-
-Cette dynamique constitue le milieu pratique au sein duquel émergent les descriptions.
+> Agir transforme les conditions dans lesquelles un environnement peut être perçu.
 
 
 ---
 
-## 3. Le locuteur comme participant pratique
+# 3. Configuration et couplage perception-action
 
-Le locuteur n'est pas un observateur extérieur au monde qu'il décrit.
+Le couplage perception-action constitue une condition d'apparition des configurations descriptives.
 
-Il participe à des pratiques collectives.
+Une configuration n'apparaît jamais comme un ensemble d'éléments isolés auxquels un observateur ajouterait ensuite une signification.
 
-Il agit dans un environnement matériel.
+Elle émerge dans un champ d'interactions déjà organisé.
 
-Il est engagé dans des trajectoires d'interaction.
+Ce champ comprend notamment :
 
-Lorsqu'il produit une description, il ne réalise pas seulement une opération linguistique.
+- des différences pertinentes pour l'action ;
+- des régularités rencontrées ;
+- des possibilités d'ajustement ;
+- des relations entre un système et son environnement.
 
-Il prend également position dans un espace pratique.
+Ainsi, une configuration descriptive n'est pas premièrement une collection de données.
 
-Décrire une situation revient à :
-
-orienter l'attention ;
-
-sélectionner des aspects pertinents ;
-
-anticiper certaines conséquences ;
-
-coordonner des comportements futurs ;
-
-rendre possibles certaines interventions.
-
-
-Le locuteur apparaît ainsi comme un participant à une dynamique collective plutôt que comme un simple producteur de phrases.
+Elle est une organisation issue d'une relation pratique.
 
 
 ---
 
-## 4. Description et anticipation
+# 4. Absence de donné brut
 
-Une caractéristique essentielle des descriptions est leur orientation vers l'avenir.
+Le primat du couplage perception-action implique une conséquence importante :
 
-Les descriptions ne servent pas uniquement à rendre compte de ce qui est déjà advenu.
+> Il n'existe pas de donné brut indépendant de toute configuration.
 
-Elles permettent également :
+Cela ne signifie pas que le monde dépend de nos descriptions.
 
-d'anticiper ;
+Cela signifie que ce qui apparaît comme pertinent, sélectionnable ou descriptible apparaît toujours dans une relation déterminée entre un système et son environnement.
 
-de prévoir ;
+Avant toute description explicite, il existe déjà :
 
-de coordonner ;
+- des différences perçues ;
+- des orientations pratiques ;
+- des possibilités d'action ;
+- des formes d'ajustement.
 
-de préparer des actions.
+La description ne crée donc pas cette organisation à partir de rien.
 
-
-Une communauté ne stabilise pas une description uniquement parce qu'elle résume le passé.
-
-Elle la stabilise parce qu'elle devient utile pour organiser le futur.
-
-Par exemple :
-
-> « Cette substance est inflammable »
-
-
-
-n'est pas seulement un constat.
-
-Cette description permet :
-
-d'éviter certains comportements ;
-
-de mettre en place des procédures ;
-
-d'organiser des dispositifs de sécurité ;
-
-de coordonner des pratiques collectives.
-
-
-La description agit donc comme un mécanisme de projection pratique.
+Elle intervient dans une dynamique déjà structurée.
 
 
 ---
 
-## 5. L'intention comme orientation pratique
+# 5. Relation avec l'enquête protokinienne
 
-Dans Protokin, l'intention n'est pas analysée comme un état mental privé inaccessible.
+Le couplage perception-action définit le point de départ général de l'enquête.
 
-Elle est comprise comme une orientation pratique observable dans les trajectoires d'action.
+Une analyse protokinienne ne commence pas par rechercher un objet isolé auquel une description serait appliquée.
 
-Une intention correspond à une manière relativement stabilisée d'organiser :
+Elle commence par identifier une configuration déjà organisée dans une pratique.
 
-des attentes ;
+L'enquête cherche ensuite à reconstruire :
 
-des comportements ;
+- comment cette configuration devient descriptible ;
+- quelles distinctions la rendent intelligible ;
+- quelles conditions permettent sa stabilisation.
 
-des anticipations ;
-
-des engagements.
-
-
-Elle n'est pas nécessairement consciente ou explicitée.
-
-Elle se manifeste dans les pratiques elles-mêmes.
-
-Cette approche permet d'éviter à la fois :
-
-le psychologisme ;
-
-le comportementalisme réducteur.
-
-
-L'intention est appréhendée comme une structure pratique de coordination.
+Le couplage perception-action constitue donc une condition préalable de l'analyse, non un objet d'analyse supplémentaire.
 
 
 ---
 
-## 6. L'intention partagée
+# 6. Position dans l'architecture Protokin
 
-Les pratiques humaines reposent largement sur des formes d'intention partagée.
+Le couplage perception-action se situe en amont des opérations descriptives explicites.
 
-Les membres d'une communauté coordonnent leurs comportements à partir d'attentes mutuelles.
+Il peut être représenté ainsi :
 
-Ils développent progressivement des manières communes :
+Interaction organisme / environnement
+↓ 
+Couplage perception-action 
+↓ 
+Configurations descriptives 
+↓ 
+Descriptions possibles 
+↓ 
+Analyse des conditions de justification
 
-d'interpréter ;
+Cette représentation ne décrit pas des niveaux du réel.
 
-d'agir ;
+Elle indique un ordre de dépendance méthodologique :
 
-de corriger ;
-
-d'anticiper.
-
-
-L'intention partagée ne doit pas être comprise comme une conscience collective mystérieuse.
-
-Elle correspond à une stabilisation publique des attentes réciproques.
-
-Une institution, une règle ou une pratique sociale fonctionne précisément parce que les participants anticipent les comportements des autres selon des schémas relativement stabilisés.
-
-Les descriptions jouent ici un rôle central.
-
-Elles permettent de rendre explicites les cadres de coordination collective.
+les descriptions apparaissent toujours dans des pratiques déjà engagées.
 
 
 ---
 
-## 7. Les descriptions comme dispositifs de coordination
+# 7. Relations avec les autres concepts
 
-Une description n'est pas uniquement un contenu sémantique.
+## Configurations descriptives
 
-Elle agit comme un dispositif de coordination.
+Les configurations descriptives constituent le domaine analysable par Protokin.
 
-Lorsqu'une communauté stabilise une description, elle stabilise simultanément :
+Le couplage perception-action indique pourquoi ces configurations ne peuvent pas être comprises comme des données indépendantes de toute pratique.
 
-des attentes ;
+Voir :
 
-des comportements ;
-
-des responsabilités ;
-
-des critères de correction ;
-
-des possibilités d'intervention.
+[Configurations descriptives analysables](configurations.md)
 
 
-La puissance descriptive d'un régime dépend largement de sa capacité à organiser ces coordinations.
+## Locuteur
 
-Une description efficace ne se contente pas d'être comprise.
+Le locuteur apparaît dans une continuité avec ces dynamiques pratiques.
 
-Elle permet à une communauté d'agir de manière coordonnée.
+Cependant, l'analyse du statut normatif du locuteur relève d'une autre dimension de l'architecture.
 
+Voir :
 
----
-
-## 8. Conséquences pour le Content Layer
-
-Cette analyse conduit à enrichir la définition du Content Layer.
-
-Le Content Layer ne contient pas seulement :
-
-des inscriptions ;
-
-des signes ;
-
-des énoncés ;
-
-des représentations.
+[Locuteur normatif](locuteur.md)
 
 
-Il comprend également :
+## Régimes descriptifs
 
-des pratiques ;
+Les régimes décrivent les conditions sous lesquelles certaines configurations peuvent devenir des descriptions recevables.
 
-des habitudes ;
+Ils ne constituent pas le couplage perception-action lui-même.
 
-des coordinations ;
+Voir :
 
-des anticipations ;
-
-des tensions pratiques ;
-
-des trajectoires d'action possibles.
-
-
-Les configurations qui composent le Content Layer sont donc simultanément :
-
-sémiotiques ;
-
-matérielles ;
-
-pratiques.
-
-
-Une description ne surgit jamais à partir d'un contenu purement linguistique.
-
-Elle émerge toujours dans un environnement déjà structuré par des activités humaines.
+[Régimes de description](regimes.md)
 
 
 ---
 
-## 9. Relations avec les autres composantes de Protokin
+# Principe fondamental
 
-Configurations sémiotiques
-
-Les configurations sémiotiques fournissent les supports matériels et symboliques de la description.
-
-Le couplage perception-action explique comment ces configurations deviennent opératoires dans les pratiques.
-
-Locuteur
-
-Le locuteur apparaît comme une position pratique et normative engagée dans des trajectoires d'action.
-
-Il ne peut être réduit à un simple producteur de signes.
-
-Régimes descriptifs
-
-Les régimes descriptifs stabilisent des formes particulières de coordination collective.
-
-Ils organisent des attentes et des possibilités d'action.
-
-Imagination
-
-L'imagination permet d'explorer de nouvelles trajectoires lorsque les coordinations existantes rencontrent des limites ou des tensions.
-
-Puissance descriptive
-
-La puissance descriptive d'un régime dépend notamment de sa capacité à orienter efficacement les actions futures d'une communauté.
+> Toute description émerge dans une dynamique préalable de couplage entre perception et action. Les configurations descriptives ne sont jamais des données brutes, mais des organisations issues de relations pratiques entre un système et son environnement.
 
 
 ---
 
-## 10. Principe du primat du couplage perception-action
+# Conclusion
 
-Principe
+Le primat du couplage perception-action établit une condition générale de l'architecture protokinienne.
 
-> Toute description émerge au sein d'un couplage perception-action historiquement situé.
+Avant toute description explicite, il existe déjà une relation dynamique entre un système et son environnement.
 
-Les descriptions ne constituent pas le fondement premier des pratiques humaines ; elles apparaissent comme des opérations de coordination, d'anticipation et de stabilisation à l'intérieur de trajectoires d'interaction déjà en cours entre des locuteurs, leurs communautés et leur environnement.
+Les descriptions apparaissent dans cette relation comme des possibilités d'organisation, de distinction et de compréhension.
 
+Protokin ne part donc pas d'un monde déjà découpé en objets descriptibles.
 
-
-
----
-
-## Conclusion
-
-Le primat du couplage perception-action rappelle que Protokin n'est ni une théorie du langage, ni une théorie générale des signes.
-
-Son objet demeure l'analyse des conditions sous lesquelles des descriptions deviennent intelligibles, stabilisées ou transformables dans les pratiques humaines.
-
-Les descriptions sont inséparables des activités qui les rendent nécessaires, des coordinations qu'elles permettent et des transformations qu'elles rendent possibles.
-
-Avant d'être des contenus sémantiques ou des configurations sémiotiques, elles sont des instruments de navigation collective au sein d'un environnement partagé.
-
-C'est pourquoi toute enquête protokinienne doit considérer simultanément :
-
-les configurations descriptives ;
-
-les pratiques d'action ;
-
-les formes de coordination collective ;
-
-les anticipations qui orientent l'avenir ;
-
-les conditions matérielles qui rendent ces dynamiques possibles.
+Il étudie comment, à partir de dynamiques pratiques existantes, certaines configurations peuvent devenir des objets de description.
