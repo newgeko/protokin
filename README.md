@@ -252,7 +252,6 @@ Le Content Layer constitue le champ à partir duquel des régimes descriptifs pe
 
 Il n'est pas encore organisé selon un vocabulaire normatif pleinement stabilisé.
 
-
 ---
 
 # Régimes descriptifs
@@ -287,10 +286,9 @@ Il n'est pas une simple théorie.
 
 Il est une configuration pratique complète.
 
-
 ---
 
-Locuteur
+# Locuteur
 
 Dans Protokin, le locuteur n'est pas un sujet psychologique préalable.
 
@@ -298,23 +296,22 @@ Il désigne une position normative au sein d'une communauté de justification.
 
 Être locuteur signifie pouvoir :
 
-produire des engagements ;
+- produire des engagements ;
 
-répondre à des demandes de justification ;
+- répondre à des demandes de justification ;
 
-reconnaître des conséquences ;
+- reconnaître des conséquences ;
 
-modifier ses positions ;
+- modifier ses positions ;
 
-participer à un espace collectif de correction.
+- participer à un espace collectif de correction.
 
 
 Le locuteur est une position produite par des pratiques sociales et discursives.
 
-
 ---
 
-Causes et raisons
+# Causes et raisons
 
 Protokin conserve la distinction sellarsienne entre deux dimensions irréductibles.
 
@@ -322,31 +319,31 @@ Espace des causes
 
 Il comprend :
 
-processus physiques ;
+- processus physiques ;
 
-interactions biologiques ;
+- interactions biologiques ;
 
-contraintes matérielles ;
+- contraintes matérielles ;
 
-mécanismes causaux.
+- mécanismes causaux.
 
 
-Espace des raisons
+# Espace des raisons
 
 Il comprend :
 
-justifications ;
+- justifications ;
 
-engagements ;
+- engagements ;
 
-responsabilités ;
+- responsabilités ;
 
-normes ;
+- normes ;
 
-inférences discursives.
+- inférences discursives.
 
 
-Protokin refuse :
+## Protokin refuse :
 
 de dissoudre les raisons dans les causes ;
 
@@ -666,8 +663,6 @@ Ainsi :
 
 ---
 
-Voici la Partie 3/4 du fichier README.md complet, en Markdown copiable.
-
 # Imagination et imaginaire
 
 L'analyse des descriptions ne peut se limiter aux régimes déjà stabilisés.
@@ -800,8 +795,6 @@ une pratique reconnue ;
 
 un régime descriptif stabilisé.
 
-
-
 ---
 
 Exemple : le voyage spatial
@@ -812,11 +805,11 @@ Phase imaginaire
 
 Pendant longtemps, le voyage vers la Lune appartient principalement aux récits :
 
-mythologiques ;
+- mythologiques ;
 
-littéraires ;
+- littéraires ;
 
-spéculatifs.
+- spéculatifs.
 
 
 Ces descriptions existent comme possibilités narratives.
@@ -832,17 +825,16 @@ Avec l'apparition de la physique moderne et de l'ingénierie spatiale, certaines
 
 Des chercheurs combinent :
 
-lois physiques ;
+- lois physiques ;
 
-calculs ;
+- calculs ;
 
-modèles mathématiques ;
+- modèles mathématiques ;
 
-dispositifs techniques.
+- dispositifs techniques.
 
 
 La possibilité narrative devient une configuration scientifique testable.
-
 
 ---
 
@@ -850,21 +842,19 @@ Phase de stabilisation
 
 Avec :
 
-laboratoires ;
+ - laboratoires ;
 
-institutions ;
+- institutions ;
 
-instruments ;
+- instruments ;
 
-procédures expérimentales ;
-
+- procédures expérimentales ;
 
 le voyage spatial devient un régime descriptif et technique autonome.
 
 L'enjeu protokinien n'est pas de dire que les récits anciens étaient simplement « faux ».
 
 Il consiste à analyser la transformation des conditions de justification qui ont permis le passage d'une configuration imaginative à une stabilisation technique.
-
 
 ---
 
@@ -874,6 +864,7 @@ Les régimes descriptifs ne sont pas éternels.
 
 Ils suivent des trajectoires de formation, de maintenance et de transformation.
 
+```
 flowchart TD
 
 A[Configuration non stabilisée]
@@ -903,21 +894,21 @@ H
 
 ---
 
-Stabilisation
+# Stabilisation
 
 La stabilisation désigne le processus par lequel une configuration descriptive acquiert une cohérence suffisante pour être maintenue collectivement.
 
 Elle implique :
 
-des engagements partagés ;
+- des engagements partagés ;
 
-des critères de correction ;
+- des critères de correction ;
 
-des pratiques institutionnelles ;
+- des pratiques institutionnelles ;
 
-des instruments ;
+- des instruments ;
 
-des habitudes collectives.
+- des habitudes collectives.
 
 
 Une description stabilisée devient une ressource pour de futures descriptions.
@@ -925,7 +916,7 @@ Une description stabilisée devient une ressource pour de futures descriptions.
 
 ---
 
-Effet cliquet
+# Effet cliquet
 
 L'effet cliquet désigne le seuil à partir duquel une description stabilisée acquiert une densité suffisante d'engagements, d'instruments, d'usages collectifs et d'inférences héritées pour que toute transformation ultérieure doive intégrer l'héritage du régime précédent.
 
@@ -935,85 +926,78 @@ Il signifie que les transformations futures ne peuvent plus repartir d'un point 
 
 Elles doivent composer avec :
 
-les concepts hérités ;
+- les concepts hérités ;
 
-les instruments construits ;
+- les instruments construits ;
 
-les institutions existantes ;
+- les institutions existantes ;
 
-les engagements accumulés.
-
+- les engagements accumulés.
 
 La stabilisation produit donc une historicité cumulative.
 
-
 ---
 
-Transitions descriptives
+# Transitions descriptives
 
 Une transition descriptive apparaît lorsqu'un régime rencontre des tensions qu'il ne peut plus résoudre uniquement avec ses propres ressources.
 
 Ces tensions peuvent être :
 
-anomalies empiriques ;
+- anomalies empiriques ;
 
-contradictions internes ;
+- contradictions internes ;
 
-nouveaux besoins pratiques ;
+- nouveaux besoins pratiques ;
 
-limitations institutionnelles.
-
+- limitations institutionnelles.
 
 La transition ne consiste pas simplement à remplacer une erreur par une vérité.
 
 Elle implique une transformation du réseau complet :
 
-concepts ;
+- concepts ;
 
-instruments ;
+- instruments ;
 
-critères ;
+- critères ;
 
-pratiques ;
+- pratiques ;
 
-engagements.
-
-
+- engagements.
 
 ---
 
-Le coût inférentiel des transitions
+# Le coût inférentiel des transitions
 
 Modifier une description stabilisée possède un coût.
 
 Ce coût comprend :
 
-abandon d'inférences établies ;
+- abandon d'inférences établies ;
 
-transformation des pratiques ;
+- transformation des pratiques ;
 
-reconstruction institutionnelle ;
+- reconstruction institutionnelle ;
 
-apprentissage de nouveaux critères.
+- apprentissage de nouveaux critères.
 
 
 Une transition réussie ne supprime pas simplement un régime antérieur.
 
 Elle réorganise son héritage.
 
-
 ---
 
-Théories abandonnées et historicité
+# Théories abandonnées et historicité
 
 Certaines théories scientifiques ont été historiquement très puissantes avant d'être abandonnées.
 
 Exemples :
 
-théorie du phlogistique ;
+- théorie du phlogistique ;
 
-éther luminifère.
-
+- éther luminifère.
 
 Protokin ne conclut pas que ces théories étaient simplement dépourvues de valeur.
 
@@ -1021,31 +1005,29 @@ Elles possédaient une puissance descriptive réelle dans un régime historique 
 
 Leur transformation indique que :
 
-les contraintes ont changé ;
+- les contraintes ont changé ;
 
-les réseaux inférentiels se sont reconfigurés ;
+- les réseaux inférentiels se sont reconfigurés ;
 
-de nouvelles stabilisations sont apparues.
-
+- de nouvelles stabilisations sont apparues.
 
 Une description peut donc être historiquement puissante sans être éternellement stabilisée.
 
-
 ---
 
-Individuation descriptive
+# Individuation descriptive
 
 L'individuation désigne le processus par lequel une configuration nouvelle acquiert une identité relativement stable.
 
 Dans Protokin, l'individuation concerne :
 
-objets ;
+- objets ;
 
-concepts ;
+- concepts ;
 
-catégories ;
+- catégories ;
 
-pratiques.
+- pratiques.
 
 
 Elle n'est pas une apparition ex nihilo.
@@ -1054,15 +1036,13 @@ Elle correspond à une résolution progressive de tensions au sein d'un champ m�
 
 Une nouvelle forme apparaît lorsque :
 
-certaines contraintes convergent ;
+- certaines contraintes convergent ;
 
-des relations deviennent stables ;
+- des relations deviennent stables ;
 
-une communauté reconnaît une nouvelle organisation descriptive.
+- une communauté reconnaît une nouvelle organisation descriptive.
 
 ---
-
-Voici la Partie 4/4 du fichier README.md complet, en Markdown copiable.
 
 # Audit protokinien
 
