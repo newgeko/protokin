@@ -29,6 +29,7 @@ Comment les descriptions changent-elles ?
   - [Limites](05_transformations/limites.md)
 
 Comment comparer les puissances descriptives ? → Image scientifique
+  - [Image manifeste](06_puissance_descriptive/image_manifeste.md)
   - [Image scientifique](06_puissance_descriptive/image_scientifique.md)
 
 D’où vient-il philosophiquement ? → Cartographie
