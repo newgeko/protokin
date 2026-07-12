@@ -41,7 +41,7 @@
   - [Stabilisation et effet cliquet](02_architecture_conceptuelle/stabilisation.md)
 
 
-- Comment enquêter avec Protokin ? → Méthode d’enquête
+# - Comment enquêter avec Protokin ? → Méthode d’enquête
 
   - [Audit Protokin](03_methode_enquete/audit.md)
   - [Lire une configuration descriptive](03_methode_enquete/lire_configuration.md)
@@ -49,7 +49,7 @@
   - [Comparer des descriptions](03_methode_enquete/comparer_descriptions.md)
 
 
-- Quels problèmes analyse-t-il ? → Diagnostics
+# - Quels problèmes analyse-t-il ? → Diagnostics
 
   - [Tensions entre régimes](04_diagnostics/tensions.md)
   - [Réductions descriptives](04_diagnostics/reductions.md)
@@ -57,7 +57,7 @@
   - [Confusions de niveaux descriptifs](04_diagnostics/confusions_niveaux.md)
 
 
-- Comment les descriptions changent-elles ? → Transformations
+# - Comment les descriptions changent-elles ? → Transformations
 
   - [Transitions descriptives](05_transformations/transitions.md)
   - [Traductions entre régimes](05_transformations/traductions.md)
@@ -65,7 +65,7 @@
   - [Limites internes](05_transformations/limites.md)
 
 
-- Comment comparer les puissances descriptives ? → Images et puissances
+# - Comment comparer les puissances descriptives ? → Images et puissances
 
   - [Puissance descriptive](06_puissance_descriptive/puissance_descriptive.md)
   - [Image manifeste et Image scientifique](06_puissance_descriptive/image_manifeste_scientifique.md)
@@ -74,7 +74,7 @@
   - [Image scientifique](06_puissance_descriptive/image_scientifique.md)
 
 
-- D’où vient Protokin ? → Héritages philosophiques
+# - D’où vient Protokin ? → Héritages philosophiques
 
   - [Cartographie conceptuelle](07_heritages_philosophiques/cartographie.md)
   - [Influences et correspondances](07_heritages_philosophiques/influences.md)
@@ -88,14 +88,14 @@
     - [Pragmatisme américain](07_heritages_philosophiques/pragmatisme_americain.md)
 
 
-- Comment Protokin s’applique-t-il à lui-même ? → Réflexivité
+# - Comment Protokin s’applique-t-il à lui-même ? → Réflexivité
 
   - [Réflexivité](08_reflexivite/reflexivite.md)
   - [Auto-application du régime descriptif](08_reflexivite/auto_application.md)
   - [Protokin comme objet d’audit](08_reflexivite/protokin_audit.md)
 
 
-- Quels exemples permet-il d’analyser ? → Applications
+# - Quels exemples permet-il d’analyser ? → Applications
 
   - [Exemples généraux](09_applications/exemples.md)
   - [Comment lire un cas ?](09_applications/comment_lire_un_cas.md)
@@ -114,7 +114,7 @@
   - [Intelligence artificielle](09_applications/intelligence_artificielle.md)
 
 
-- Ressources conceptuelles → Glossaire
+# - Ressources conceptuelles → Glossaire
 
   - [Glossaire](10_ressources/glossaire.md)
   - [Index conceptuel](10_ressources/index_conceptuel.md)
