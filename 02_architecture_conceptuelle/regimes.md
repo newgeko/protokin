@@ -1,300 +1,127 @@
 # Régimes de description
 
-## Statut et fonction dans Protokin
+Cette page définit la notion de **régime de description** dans l'architecture de **Protokin**.
+Elle répond à une question fondamentale :
 
-> Un régime de description désigne un ensemble organisé de conditions permettant à certaines configurations de devenir descriptibles, intelligibles et évaluables dans une pratique donnée.
+> **Qu'est-ce qui détermine la validité et l'intelligibilité d'une description ?**
 
-Dans **Protokin**, un régime n'est pas une partie du monde.
+La réponse est :
 
-Il désigne les conditions sous lesquelles une description peut prendre une forme déterminée.
+> **Une description n'est jamais valide en soi. Ses conditions de production, d'évaluation et de stabilisation dépendent toujours d'un régime de description.**
 
-Un régime ne décrit donc pas directement un objet.
+## 1. Principe général
 
-Il organise les possibilités selon lesquelles quelque chose peut être décrit.
+Dans Protokin, un **régime de description** désigne un ensemble organisé de conditions locales et de contraintes permettant à certaines configurations de devenir descriptibles, intelligibles et évaluables.
 
----
-
-# 1. Fonction générale des régimes
-
-Les régimes constituent un concept central de Protokin.
-
-Ils permettent d'analyser comment des configurations peuvent devenir descriptibles selon des conditions particulières.
-
-Un régime répond à une question fondamentale :
-
-> Dans quelles conditions une description devient-elle possible ?
-
-Il concerne notamment :
+Un régime n'est pas une portion du monde physique ou une structure cachée de la réalité.
+Il organise la manière dont une description prend une forme déterminée. Il concerne notamment :
 
 - les distinctions disponibles ;
 - les critères de pertinence ;
-- les formes d'inférence ;
+- les formes d'inférence admises ;
 - les possibilités de justification ;
-- les contraintes pratiques associées.
+- les contraintes pratiques et matérielles associées.
 
-Voir :
+Un régime ne dicte pas une description unique : il trace l'espace des descriptions recevables au sein d'une pratique donnée.
 
-- [architecture.md](architecture.md)
+## 2. Ce qu'un régime n'est pas
 
----
+Pour maintenir la clarté de la méthode, un régime ne doit pas être confondu avec :
 
-# 2. Définition d'un régime
-
-Un régime de description est une organisation locale de contraintes permettant de stabiliser certaines manières de décrire.
-
-Ces contraintes peuvent être :
-
-- perceptives ;
-- sémiotiques ;
-- conceptuelles ;
-- pratiques ;
-- normatives ;
-- justificatives.
-
-Un régime ne correspond pas à une simple liste de règles.
-
-Il constitue une organisation cohérente déterminant :
-
-- ce qui peut apparaître comme pertinent ;
-- quelles distinctions peuvent être mobilisées ;
-- quelles descriptions peuvent être recevables.
-
----
-
-# 3. Ce qu'un régime n'est pas
-
-Un régime n'est pas :
-
-- une entité du monde ;
-- une structure cachée de la réalité ;
+- une entité ou un objet du monde ;
 - une classification naturelle des choses ;
-- une théorie globale ;
-- un mécanisme causal.
+- une théorie scientifique ou globale particulière ;
+- un mécanisme explicatif ou causal.
 
-Il ne produit pas les phénomènes qu'il permet d'analyser.
+Il ne produit pas les phénomènes qu'il permet de formuler. Il définit simplement un espace de possibilités pour l'intelligibilité.
 
-Il ne constitue pas une explication du monde.
+## 3. Configuration, description et régime
 
-Il définit un espace de possibilités descriptives.
+Protokin articule trois fonctions analytiques distinctes et interdépendantes qu'il importe de ne pas confondre :
 
----
+| Fonction | Rôle dans l'enquête | Page dédiée |
+|---|---|---|
+| **Configuration** | Ce qui est soumis à l'analyse (l'organisation relationnelle de départ) | Configurations descriptives |
+| **Description** | La manière déterminée de rendre une configuration intelligible | *Sections d'aval* |
+| **Régime** | Les conditions et règles sous lesquelles cette description s'élabore | *Présente page* |
 
-# 4. Régime, configuration et description
+L'ordre de l'enquête suit cette trajectoire méthodologique :
 
-Protokin distingue trois fonctions analytiques.
-
-## Configuration
-
-Une configuration désigne ce qui est soumis à enquête.
-
-Elle correspond à une organisation déjà constituée d'éléments, de relations et de pratiques.
-
-Voir :
-
-- [configurations.md](configurations.md)
-
----
-
-## Description
-
-Une description correspond à une manière déterminée de rendre une configuration intelligible.
-
-Elle implique :
-
-- des distinctions ;
-- des catégories ;
-- des relations ;
-- des engagements.
-
----
-
-## Régime
-
-Un régime désigne les conditions permettant à une description d'être produite, évaluée et stabilisée.
-
-Ainsi :
-
-Configuration
-
-↓
-
-Possibilités descriptives
-
-↓
-
+Configuration descriptive
+          ↓
 Régime de description
+          ↓
+Description produite
 
-↓
+Cette structure n'indique pas des niveaux de réalité, mais un cheminement d'analyse.
 
-Conditions d'intelligibilité et d'évaluation
+## 4. Pluralité et autonomie des régimes
 
-Cette représentation ne décrit pas des niveaux du réel.
+Une seule et même configuration descriptive peut être examinée sous la lumière de plusieurs régimes différents.
 
-Elle représente un ordre d'analyse.
-
----
-
-# 5. Fonction d'un régime
-
-Un régime permet de déterminer :
-
-- quelles différences deviennent pertinentes ;
-- quelles descriptions peuvent être formulées ;
-- quelles relations d'inférence sont possibles ;
-- quelles formes de justification sont recevables.
-
-Il ne fournit pas une description unique.
-
-Il définit un espace dans lequel plusieurs descriptions peuvent être élaborées.
-
----
-
-# 6. Pluralité des régimes
-
-Une même configuration peut être analysée selon plusieurs régimes.
-
-Par exemple, une institution peut être décrite selon :
+Par exemple, une institution peut faire l'objet de descriptions distinctes :
 
 - un régime juridique ;
 - un régime économique ;
 - un régime historique ;
 - un régime sociologique.
 
-Ces descriptions ne correspondent pas nécessairement à des visions concurrentes d'un même objet.
+Ces perspectives ne sont pas nécessairement des visions concurrentes qui chercheraient à s'exclure. Elles répondent à des questions hétérogènes et mobilisent des critères de validation qui leur sont propres.
 
-Elles peuvent répondre à des questions différentes et mobiliser des critères différents.
+L'enquête protokinienne n'a pas pour but de hiérarchiser ces régimes, mais de reconstruire l'autonomie et les règles de chacun d'eux.
 
-Protokin cherche donc à reconstruire :
+## 5. Régime et conditions de cohérence
 
-- les conditions propres à chaque régime ;
-- les distinctions qu'il rend possibles ;
-- les formes d'évaluation qu'il autorise.
+Un régime fixe les limites à l'intérieur desquelles une description peut être corrigée, critiquée ou validée. Ces cadres de stabilisation permettent à une communauté de locuteurs d'assurer :
 
----
+- la transmission des descriptions ;
+- la comparaison des énoncés ;
+- la possibilité d'une révision ou d'une critique partagée.
 
-# 7. Régimes et conditions de validité
-
-Un régime détermine les conditions dans lesquelles une description peut être évaluée.
-
-Ces conditions concernent notamment :
-
-- les critères utilisés ;
-- les formes de preuve reconnues ;
-- les relations d'inférence admises.
-
-La validité n'est donc pas indépendante d'un régime.
-
-Elle apparaît toujours dans un espace de pratiques déterminé.
+La validité d'une proposition n'existe pas dans le vide : elle s'évalue toujours relativement aux exigences de son régime de référence. L'étude fine des critères de validité et des basculements d'un cadre à un autre renvoie aux concepts développés plus loin.
 
 Voir :
+- Validité et correction
 
-- [validite.md](../05_transformations/validite.md)
+## 6. Ancrage dans les pratiques collectives
 
----
+Un régime ne plane pas au-dessus du social comme un système purement abstrait. Il n'existe qu'à travers son incarnation dans des structures concrètes :
 
-# 8. Régimes et pratiques collectives
+- des communautés de locuteurs formées à ses règles ;
+- des formes d'inscription matérielles ou symboliques ;
+- des institutions qui en stabilisent les usages.
 
-Un régime n'existe pas comme un système abstrait indépendant des pratiques.
-
-Il est porté par :
-
-- des communautés de locuteurs ;
-- des pratiques d'utilisation ;
-- des formes d'inscription ;
-- des institutions éventuelles.
-
-Un régime possède donc une dimension historique et collective.
+Le régime porte ainsi une historicité intrinsèque, liée aux trajectoires de ces collectifs.
 
 Voir :
+- Locuteur normatif
+- Pratique collective
 
-- [locuteur.md](locuteur.md)
-- [pratique_collective.md](pratique_collective.md)
+## 7. Fonction méthodologique dans l'enquête
 
----
+Au cours de l'enquête, l'identification des régimes intervient immédiatement après le repérage de la configuration descriptive. L'analyse consiste à cartographier le terrain en posant quatre questions :
 
-# 9. Les régimes comme cadres de stabilisation
-
-Un régime permet une stabilisation locale des descriptions.
-
-Cette stabilisation signifie qu'une communauté dispose de conditions relativement organisées permettant :
-
-- la transmission ;
-- la comparaison ;
-- la critique ;
-- la révision.
-
-Elle ne signifie jamais qu'une description devient définitive.
-
-Un régime reste une organisation évolutive des conditions de description.
-
----
-
-# 10. Cartographie des régimes
-
-Protokin peut analyser différents domaines descriptifs sans les réduire à une hiérarchie unique.
-
-Exemples :
-
-- régimes scientifiques ;
-- régimes historiques ;
-- régimes juridiques ;
-- régimes sociaux ;
-- régimes symboliques.
-
-Cette cartographie ne classe pas des régions du réel.
-
-Elle identifie des formes différentes d'organisation descriptive.
+1. Quels régimes distincts s'appliquent à cette configuration ?
+2. Quelles contraintes spécifiques organisent chacun de ces régimes ?
+3. Quelles formes d'inférences et de justifications rendent-ils acceptables ?
+4. Comment ces cadres cohabitent-ils ou s'articulent-ils ?
 
 Voir :
+- Audit Protokin
+- Cartographie des régimes descriptifs
 
-- [cartographie_regimes_descriptifs.md](cartographie_regimes_descriptifs.md)
+## 8. Garde-fous conceptuels
 
----
+Dans l'architecture générale, il est crucial de rappeler qu'aucun régime :
 
-# 11. Rôle dans l'audit Protokin
+- n'est universel ou absolu ;
+- ne peut revendiquer le statut d'ontologie ultime ;
+- n'épuise la totalité de ce qui peut être dit d'une configuration.
 
-L'analyse d'une configuration commence notamment par l'identification des régimes mobilisés.
+Un régime demeure une condition de visibilité et d'intelligibilité, jamais une définition finale de l'être.
 
-L'enquête cherche à reconstruire :
+## Principe final
 
-1. Quels régimes sont présents ?
-2. Quelles conditions descriptives organisent chacun d'eux ?
-3. Quelles descriptions rendent-ils possibles ?
-4. Quels critères utilisent-ils ?
+> **Un régime ne décrit pas le monde. Il organise les conditions sous lesquelles une configuration peut devenir descriptible.**
 
-Voir :
-
-- [audit.md](../03_methode_enquete/audit.md)
-
----
-
-# 12. Garde-fous conceptuels
-
-Aucun régime :
-
-- n'est une ontologie ;
-- n'est une représentation absolue du monde ;
-- n'est universel ;
-- n'épuise toutes les descriptions possibles ;
-- ne constitue un niveau du réel.
-
-Un régime est une condition d'intelligibilité, pas une structure fondamentale de l'être.
-
----
-
-# Conclusion
-
-Les régimes constituent une fonction centrale de Protokin.
-
-Ils permettent d'analyser les conditions sous lesquelles des configurations deviennent descriptibles, évaluables et transmissibles.
-
-Ils ne disent pas ce que le monde est.
-
-Ils définissent les conditions selon lesquelles certaines descriptions peuvent apparaître comme intelligibles et recevables dans une pratique donnée.
-
----
-
-# Formule synthétique
-
-> Un régime ne décrit pas le monde.  
-> Il organise les conditions sous lesquelles une configuration peut devenir descriptible.
+Un régime de description n'est ni un objet à observer, ni l'énoncé d'une vérité définitive. Il est le cadre normatif et relationnel provisoirement stabilisé qui rend possible l'émergence, l'évaluation et la circulation de descriptions rigoureuses.
