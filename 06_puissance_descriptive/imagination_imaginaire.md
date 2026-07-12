@@ -198,6 +198,7 @@ F --> G[Régime descriptif]
 G --> I[Tensions et limites]
 
 I --> B
+```
 
 Ce modèle montre que l'imagination participe à une boucle dynamique :
 
