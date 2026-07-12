@@ -761,14 +761,265 @@ instrumentation ;
 capacité prédictive.
 
 
+---
+
+23. Régime mythologique
+
+Régime mythico-symbolique
+
+Objet :
+
+récits d'origine ;
+
+figures archétypales ;
+
+héros ;
+
+dieux et puissances ;
+
+cycles cosmiques ;
+
+rapports entre humains, nature et forces invisibles.
+
+
+Le régime mythologique organise une intelligibilité du monde par des récits configurateurs.
+
+Il ne cherche pas principalement à produire des prédictions quantitatives, mais à :
+
+articuler une origine ;
+
+donner une structure narrative aux événements ;
+
+transmettre des modèles d'action ;
+
+stabiliser une mémoire collective.
+
+
+Type d'inférence :
+
+analogique ;
+
+narrative ;
+
+symbolique ;
+
+généalogique.
+
+
+Fonctions descriptives :
+
+expliquer l'apparition des choses ;
+
+situer l'humain dans un cosmos ;
+
+transmettre des normes collectives ;
+
+articuler l'expérience vécue avec une totalité signifiante.
+
+
+Auteurs associés :
+
+Mircea Eliade ;
+
+Claude Lévi-Strauss ;
+
+Paul Ricœur ;
+
+Ernst Cassirer.
+
+
+Lien Protokin :
+
+Le mythe constitue une configuration sémiotique narrative à haute puissance d'intégration collective.
+
+Il transforme des événements dispersés en une trajectoire intelligible.
+
+Il fonctionne comme une mémoire symbolique permettant à une communauté de stabiliser :
+
+des valeurs ;
+
+des identités ;
+
+des rapports au milieu ;
+
+des pratiques rituelles.
+
+
 
 ---
 
-Synthèse protokinienne
+24. Régime théologique
 
-Les régimes descriptifs peuvent être regroupés en grandes familles :
+Régime théologico-conceptuel
 
-Régimes causaux
+Objet :
+
+Dieu ou principe transcendant ;
+
+création ;
+
+finalité ultime ;
+
+ordre cosmique ;
+
+salut ;
+
+rapport entre humain et absolu.
+
+
+Le régime théologique organise une description du monde à partir d'un principe transcendant considéré comme source d'intelligibilité ultime.
+
+Il développe :
+
+des concepts métaphysiques ;
+
+des architectures doctrinales ;
+
+des systèmes d'interprétation ;
+
+des normes liées à une conception du bien ultime.
+
+
+Type d'inférence :
+
+déductive ;
+
+analogique ;
+
+spéculative ;
+
+herméneutique.
+
+
+Fonctions descriptives :
+
+articuler une totalité du réel ;
+
+déterminer une origine ultime ;
+
+fournir une orientation existentielle ;
+
+organiser des communautés interprétatives.
+
+
+Auteurs associés :
+
+Augustin ;
+
+Thomas d'Aquin ;
+
+Maître Eckhart ;
+
+Paul Ricœur.
+
+
+Lien Protokin :
+
+La théologie n'est pas analysée comme accès à une réalité transcendante en soi.
+
+Elle est analysée comme un régime descriptif produisant :
+
+des catégories ;
+
+des engagements ;
+
+des institutions ;
+
+des formes de justification ;
+
+des pratiques collectives.
+
+
+Son objet protokinien n'est donc pas :
+
+> Dieu existe-t-il ?
+
+
+
+mais :
+
+> Comment une configuration théologique stabilise-t-elle des descriptions, des pratiques et des communautés de justification ?
+
+
+
+
+---
+
+25. Régime religieux institutionnel
+
+Régime rituel et confessionnel
+
+Objet :
+
+cultes ;
+
+rites ;
+
+communautés croyantes ;
+
+traditions ;
+
+institutions religieuses.
+
+
+À distinguer du régime mythologique et théologique :
+
+le mythe organise des récits symboliques ;
+
+la théologie organise des concepts doctrinaux ;
+
+la religion institutionnelle organise des pratiques collectives.
+
+
+Type d'inférence :
+
+rituelle ;
+
+communautaire ;
+
+normative ;
+
+traditionnelle.
+
+
+Fonctions :
+
+produire une appartenance collective ;
+
+transmettre une mémoire ;
+
+stabiliser des pratiques ;
+
+organiser des formes de vie.
+
+
+Lien Protokin :
+
+Ce régime montre particulièrement bien que les descriptions ne sont pas seulement linguistiques.
+
+Elles existent dans :
+
+des gestes ;
+
+des espaces ;
+
+des objets ;
+
+des calendriers ;
+
+des cérémonies ;
+
+des institutions.
+
+
+
+---
+
+La synthèse générale deviendrait donc :
+
+Cartographie des grandes familles de régimes descriptifs Protokin
+
+Régimes physico-causaux
 
 physique ;
 
@@ -779,7 +1030,18 @@ biologie ;
 neurocognition.
 
 
-Régimes vécus
+Objet principal :
+
+Les structures matérielles, les mécanismes et les transformations mesurables.
+
+
+---
+
+Régimes du vivant et de l'expérience
+
+biologie ;
+
+écologie ;
 
 phénoménologie ;
 
@@ -788,14 +1050,32 @@ psychologie ;
 affects.
 
 
-Régimes sémiotiques
+Objet principal :
+
+Le couplage organisme-milieu et l'expérience vécue.
+
+
+---
+
+Régimes sémiotiques et symboliques
+
+sémiotique ;
 
 langage ;
 
-symboles ;
+mythologie ;
 
-récits.
+esthétique ;
 
+herméneutique.
+
+
+Objet principal :
+
+Les systèmes de signes, de sens et de configuration narrative.
+
+
+---
 
 Régimes normatifs
 
@@ -805,45 +1085,98 @@ morale ;
 
 droit ;
 
-institutions.
+institutions ;
+
+théologie morale.
 
 
-Régimes collectifs
+Objet principal :
+
+Les engagements, obligations et critères de justification.
+
+
+---
+
+Régimes sociaux et collectifs
 
 famille ;
 
 société ;
 
+économie ;
+
 politique ;
 
-économie.
+religion institutionnelle.
 
+
+Objet principal :
+
+La coordination des pratiques humaines.
+
+
+---
 
 Régimes historiques
 
 histoire ;
 
-herméneutique ;
+mémoire ;
 
-mémoire.
+archive ;
+
+herméneutique historique.
 
 
-Régimes constructifs
+Objet principal :
 
-technique ;
-
-informatique ;
-
-ingénierie.
-
+La genèse temporelle des configurations.
 
 
 ---
 
-Dans l'architecture Protokin, cette cartographie pourrait devenir une page centrale :
+Régimes constructifs et techniques
 
-02_architecture_conceptuelle/regimes.md
+technique ;
 
-avec un principe directeur :
+ingénierie ;
 
-> Un régime descriptif n'est pas une fenêtre différente sur un même objet métaphysique. Il est une manière historiquement stabilisée d'organiser des perceptions, des inscriptions, des inférences, des pratiques et des interventions.
+informatique ;
+
+intelligence artificielle.
+
+
+Objet principal :
+
+Les dispositifs artificiels et les environnements transformés.
+
+
+---
+
+Régimes transcendants et cosmologiques
+
+mythologie ;
+
+théologie ;
+
+cosmologies symboliques.
+
+
+Objet principal :
+
+Les systèmes d'intégration ultime du sens.
+
+
+---
+
+Cette extension renforce même la cohérence de Protokin : elle montre que la métathéorie n'est pas une classification des « choses qui existent », mais une cartographie des différentes manières humaines de rendre un monde descriptible, habitable et transmissible.
+
+Le fichier regimes.md devrait donc probablement intégrer cette cartographie en section 7, sous le titre :
+
+7. Cartographie fonctionnelle des régimes descriptifs
+
+et renvoyer vers une nouvelle page dédiée :
+
+02_architecture_conceptuelle/cartographie_regimes_descriptifs.md
+
+afin de ne pas transformer regimes.md en simple catalogue.
