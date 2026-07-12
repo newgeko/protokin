@@ -30,6 +30,7 @@ Comment les descriptions changent-elles ?
 
 Comment comparer les puissances descriptives ? → Image scientifique
   - [Image manifeste](06_puissance_descriptive/image_manifeste.md)
+  - [Imagination imaginaire](06_puissance_descriptive/imagination_imaginaire.md)
   - [Image scientifique](06_puissance_descriptive/image_scientifique.md)
 
 D’où vient-il philosophiquement ? → Cartographie
