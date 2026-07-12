@@ -19,6 +19,7 @@ Comment fonctionne-t-il ? → Architecture
 
 Comment l’utiliser ? → Méthode d’enquête
   - [Audit](03_methode_enquete/audit.md)
+  - [Cartographie des régimes descriptifs](03_methode_enquete/cartographie_regimes_descriptifs.md)
 
 Quels problèmes analyse-t-il ? → Diagnostics
   - [Tensions](04_diagnostics/tensions.md)
