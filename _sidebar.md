@@ -32,7 +32,7 @@
   ## Engagements et normativité
 
   - [Engagements descriptifs](02_architecture_conceptuelle/engagements.md)
-  - [Engagements descriptifs](02_architecture_conceptuelle/inferences_justifications.md)
+  - [Inférences et justificatios](02_architecture_conceptuelle/inferences_justifications.md)
   - [Causes et raisons](02_architecture_conceptuelle/causes_raisons.md)
   - [Locuteur normatif](02_architecture_conceptuelle/locuteur.md)
   - [Pratique collective](02_architecture_conceptuelle/pratique_collective.md)
