@@ -1,371 +1,372 @@
-Oui, et même davantage : je pense que c'est probablement ce qui manque le plus à la documentation actuelle.
+# Exemple fil rouge : « X est Y »
 
-Aujourd'hui, Protokin est conceptuellement très cohérent, mais l'utilisateur découvre les notions une par une :
+## Une même forme grammaticale à travers plusieurs régimes descriptifs
 
-configuration descriptive ;
-
-régime ;
-
-engagement ;
-
-locuteur ;
-
-pratique collective ;
-
-stabilisation ;
-
-audit ;
-
-tension ;
-
-transition.
-
-
-Le risque est que le lecteur comprenne chaque concept séparément sans voir immédiatement comment ils fonctionnent ensemble.
-
-Un exemple fil rouge résout exactement ce problème.
-
-Pourquoi un exemple unique est intéressant
-
-Il permet de montrer que :
-
-1. la même phrase peut appartenir à plusieurs régimes ;
-
-
-2. les régimes ne décrivent pas le même type de chose ;
-
-
-3. les engagements changent selon le régime ;
-
-
-4. les critères de validité changent ;
-
-
-5. les tensions apparaissent lorsqu'on mélange les régimes ;
-
-
-6. l'audit consiste à reconstruire ces différences.
-
-
-
-Le lecteur voit alors Protokin travailler concrètement.
-
+> Voir également :
+>
+> - [Régimes de description](../02_architecture_conceptuelle/regimes.md)
+> - [Engagements descriptifs](../02_architecture_conceptuelle/engagements.md)
+> - [Locuteur normatif](../02_architecture_conceptuelle/locuteur.md)
+> - [Pratique collective](../02_architecture_conceptuelle/pratique_collective.md)
+> - [Stabilisation et effet cliquet](../02_architecture_conceptuelle/stabilisation.md)
+> - [Audit Protokin](../03_methode_enquete/audit.md)
 
 ---
 
-Exemple possible
+# Pourquoi un exemple fil rouge ?
 
-Une phrase extrêmement simple :
+Protokin introduit progressivement de nombreux concepts :
 
-> « Cette personne est dangereuse. »
+- configuration descriptive ;
+- régime descriptif ;
+- engagement ;
+- inférence ;
+- locuteur ;
+- pratique collective ;
+- stabilisation ;
+- audit ;
+- tension ;
+- transition.
 
+Pris séparément, ces concepts peuvent sembler abstraits.
 
+L’objectif de cette page est de fournir un exemple simple qui pourra être repris dans l’ensemble de la documentation.
 
-C'est probablement l'une des meilleures phrases possibles.
-
-Parce qu'elle peut être mobilisée dans :
-
-la biologie ;
-
-la médecine ;
-
-la psychiatrie ;
-
-la psychologie ;
-
-la criminologie ;
-
-le droit ;
-
-la politique ;
-
-les médias ;
-
-la morale ;
-
-la sécurité.
-
-
-Et pourtant elle semble toujours dire la même chose.
-
-Or Protokin montre que ce n'est pas le cas.
-
+Le même énoncé sera observé sous différents angles afin de montrer comment Protokin analyse une description.
 
 ---
 
-Configuration descriptive
+# Une phrase minimale
 
-On part simplement de :
+Considérons une structure extrêmement simple :
 
-> Cette personne est dangereuse.
-
-
-
-C'est une configuration descriptive minimale.
-
-Elle ne dit encore rien sur :
-
-le régime mobilisé ;
-
-les critères ;
-
-les engagements ;
-
-les raisons de l'affirmation.
-
-
-
----
-
-Régime biologique
-
-Dans un contexte biologique :
-
-> Cette personne est dangereuse.
-
-
-
-peut signifier :
-
-porteuse d'un agent infectieux ;
-
-vecteur de contamination ;
-
-source de risque physiologique.
-
-
-Les critères deviennent :
-
-tests ;
-
-mesures ;
-
-observations biologiques.
-
-
-
----
-
-Régime juridique
-
-La même phrase :
-
-> Cette personne est dangereuse.
-
-
-
-peut signifier :
-
-risque de récidive ;
-
-menace pour autrui ;
-
-danger légalement qualifié.
-
-
-Les critères deviennent :
-
-droit ;
-
-jurisprudence ;
-
-expertise ;
-
-procédure.
-
-
-
----
-
-Régime politique
-
-La même phrase :
-
-> Cette personne est dangereuse.
-
-
-
-peut signifier :
-
-opposant politique ;
-
-menace institutionnelle ;
-
-acteur déstabilisateur.
-
-
-Les critères changent encore.
-
-
----
-
-Régime médiatique
-
-La même phrase :
-
-> Cette personne est dangereuse.
-
-
-
-peut devenir :
-
-catégorie narrative ;
-
-dispositif de cadrage ;
-
-élément rhétorique.
-
-
-
----
-
-Régime moral
-
-Elle peut signifier :
-
-> Cette personne agit mal.
-
-
-
-ou
-
-> Cette personne menace certaines valeurs.
-
-
-
-
----
-
-Ce que montre immédiatement l'exemple
-
-La phrase reste identique.
-
-Mais changent :
-
-les engagements ;
-
-les critères ;
-
-les inférences ;
-
-les conséquences.
-
-
-C'est exactement ce que Protokin appelle un changement de régime descriptif.
-
-
----
-
-Encore plus simple : le verbe être
-
-On peut aller plus loin.
-
-Prendre simplement :
-
-> « X est Y »
-
-
+> **X est Y**
 
 Par exemple :
 
-> L'eau est H₂O.
-
-
-
-> Pierre est malade.
-
-
-
-> Cet acte est illégal.
-
-
-
-> Cette décision est injuste.
-
-
-
-> Cette théorie est fausse.
-
-
-
 > Cette personne est dangereuse.
 
+Cette phrase paraît simple.
 
+Pourtant, elle peut être utilisée dans des contextes très différents.
 
-Même structure grammaticale.
+Elle ne possède pas une signification unique indépendante de toute pratique.
 
-Mais six régimes descriptifs différents.
-
-Et donc :
-
-six types de justification ;
-
-six espaces de raisons ;
-
-six réseaux d'engagements.
-
-
-C'est probablement l'exemple le plus pédagogique de tout Protokin.
-
+Son fonctionnement dépend du régime descriptif dans lequel elle est mobilisée.
 
 ---
 
-Ce que je ferais
+# Configuration descriptive
 
-J'ajouterais très tôt dans la documentation un nouveau fichier :
+À ce stade, Protokin ne cherche pas encore à déterminer si la phrase est vraie ou fausse.
 
-00_introduction/exemple_fil_rouge.md
+Elle est simplement considérée comme une configuration descriptive.
 
-intitulé :
+> Cette personne est dangereuse.
 
-Exemple fil rouge : « X est Y »
+Cette configuration ne précise pas encore :
 
-Puis je réutiliserais cet exemple dans presque toutes les pages :
+- ce qui est considéré comme dangereux ;
+- pourquoi cela l’est ;
+- selon quels critères ;
+- pour quelles conséquences.
 
-régimes ;
+Elle constitue seulement un point de départ pour l’enquête.
 
-engagements ;
+---
 
-locuteur ;
+# Régimes descriptifs différents
 
-pratique collective ;
+La même phrase peut être mobilisée dans plusieurs régimes.
 
-stabilisation ;
+## Régime biologique
 
-audit ;
+> Cette personne est dangereuse.
 
-tensions ;
+Peut signifier :
 
-transitions ;
+- porteuse d’un agent infectieux ;
+- source de contamination ;
+- vecteur de propagation.
 
-puissance descriptive.
+---
 
+## Régime médical
 
-Le lecteur retrouverait toujours le même cas sous un angle différent.
+> Cette personne est dangereuse.
 
-C'est exactement la méthode utilisée par :
+Peut signifier :
 
-Wittgenstein (jeux de langage) ;
+- risque élevé de passage à l’acte ;
+- situation clinique critique ;
+- nécessité d’une prise en charge.
 
-Brandom (les exemples d'engagements) ;
+---
 
-Searle (« X compte comme Y dans C ») ;
+## Régime juridique
 
-Kuhn (révolutions scientifiques) ;
+> Cette personne est dangereuse.
 
-Dewey (situation problématique).
+Peut signifier :
 
+- risque de récidive ;
+- menace pour autrui ;
+- situation juridiquement qualifiée.
 
-Pour Protokin, un fil rouge du type :
+---
 
-> « Cette personne est dangereuse »
+## Régime politique
 
+> Cette personne est dangereuse.
 
+Peut signifier :
 
-ou encore plus abstrait :
+- menace pour une institution ;
+- acteur considéré comme déstabilisateur ;
+- adversaire perçu comme problématique.
 
-> « X est Y »
+---
 
+## Régime moral
 
+> Cette personne est dangereuse.
 
-permettrait probablement de gagner énormément en lisibilité sans ajouter de nouveaux concepts.
+Peut signifier :
+
+- comportement jugé répréhensible ;
+- atteinte à certaines valeurs ;
+- risque moral pour autrui.
+
+---
+
+# Les régimes se distinguent par leurs inférences
+
+Dans Protokin, un régime descriptif n’est pas défini d’abord par des critères.
+
+Il se distingue avant tout par les inférences qu’il rend possibles.
+
+La question principale devient :
+
+> Que peut-on conclure si cette description est acceptée ?
+
+---
+
+## Inférences biologiques
+
+Si :
+
+> Cette personne est dangereuse.
+
+Alors il devient possible d’inférer :
+
+- risque de contamination ;
+- nécessité d’un dépistage ;
+- surveillance sanitaire ;
+- mesures de protection.
+
+---
+
+## Inférences juridiques
+
+Si :
+
+> Cette personne est dangereuse.
+
+Alors il devient possible d’inférer :
+
+- surveillance renforcée ;
+- contrôle judiciaire ;
+- mesures de protection ;
+- restriction de certaines actions.
+
+---
+
+## Inférences politiques
+
+Si :
+
+> Cette personne est dangereuse.
+
+Alors il devient possible d’inférer :
+
+- exclusion ;
+- opposition ;
+- intervention institutionnelle ;
+- mesures de sécurité.
+
+---
+
+# Les engagements descriptifs
+
+Accepter une description implique des engagements.
+
+Le locuteur ne produit pas seulement une phrase.
+
+Il prend position dans un réseau d’inférences.
+
+Affirmer :
+
+> Cette personne est dangereuse.
+
+revient à accepter certaines conséquences et à devoir les justifier.
+
+Les engagements dépendent du régime mobilisé.
+
+---
+
+# Les critères viennent ensuite
+
+Une fois les inférences identifiées, une autre question apparaît :
+
+> Qu’est-ce qui autorise ces inférences ?
+
+C’est à ce niveau qu’interviennent les critères.
+
+Par exemple :
+
+## Biologie
+
+- analyses ;
+- observations ;
+- mesures.
+
+## Droit
+
+- jurisprudence ;
+- expertise ;
+- procédures.
+
+## Politique
+
+- doctrines ;
+- évaluations stratégiques ;
+- décisions institutionnelles.
+
+Les critères contrôlent les inférences.
+
+Ils ne les remplacent pas.
+
+---
+
+# Le locuteur
+
+La phrase n’existe jamais seule.
+
+Elle est toujours produite par un locuteur.
+
+Or le statut du locuteur modifie souvent la portée de la description.
+
+Comparer :
+
+> Un médecin affirme :
+>
+> « Cette personne est dangereuse. »
+
+et
+
+> Un journaliste affirme :
+>
+> « Cette personne est dangereuse. »
+
+La phrase est identique.
+
+Les engagements et les inférences ne le sont pas nécessairement.
+
+---
+
+# Les pratiques collectives
+
+Les descriptions ne fonctionnent pas dans le vide.
+
+Elles circulent dans des pratiques collectives.
+
+Ces pratiques permettent :
+
+- l’apprentissage ;
+- la correction ;
+- la transmission ;
+- la justification.
+
+Elles rendent les inférences partageables entre plusieurs locuteurs.
+
+---
+
+# Stabilisation
+
+Certaines descriptions deviennent progressivement plus faciles à mobiliser que d’autres.
+
+Lorsqu’une communauté reprend régulièrement certaines inférences :
+
+- elles sont enseignées ;
+- elles sont institutionnalisées ;
+- elles deviennent familières.
+
+La description acquiert alors une stabilité historique.
+
+---
+
+# Effet cliquet
+
+À mesure qu’une description est reprise :
+
+- davantage d’inférences deviennent disponibles ;
+- davantage de justifications sont accumulées ;
+- davantage de pratiques s’organisent autour d’elle.
+
+Le coût de son utilisation diminue.
+
+Inversement, les descriptions concurrentes deviennent plus difficiles à mobiliser.
+
+C’est ce que Protokin appelle l’effet cliquet.
+
+---
+
+# Audit de la phrase
+
+L’audit ne demande pas :
+
+> Cette personne est-elle réellement dangereuse ?
+
+Il demande :
+
+> Dans quel régime cette phrase fonctionne-t-elle ?
+
+> Quelles inférences autorise-t-elle ?
+
+> Quels engagements produit-elle ?
+
+> Quels critères permettent de la soutenir ?
+
+> Quelles tensions peut-elle générer ?
+
+L’audit porte sur les conditions de fonctionnement de la description.
+
+---
+
+# Ce que montre l’exemple
+
+Une même phrase :
+
+> Cette personne est dangereuse.
+
+peut :
+
+- appartenir à plusieurs régimes ;
+- produire différentes inférences ;
+- entraîner différents engagements ;
+- mobiliser différents critères ;
+- être stabilisée dans différentes pratiques.
+
+La structure grammaticale reste identique.
+
+Le fonctionnement descriptif change.
+
+---
+
+# Formule synthétique
+
+> Une même phrase peut circuler dans plusieurs régimes descriptifs.
+>
+> Ce qui change n’est pas seulement son interprétation, mais l’ensemble des inférences, des engagements, des critères et des pratiques collectives qui rendent son utilisation possible.
+>
+> L’enquête protokinienne consiste à expliciter ces différences plutôt qu’à supposer qu’une même forme grammaticale possède partout le même statut descriptif.
