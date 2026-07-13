@@ -1,624 +1,682 @@
-# Plan de développement de l’architecture Protokin
+Oui. Pour tester la cohérence de l'architecture, il faut faire un audit fonctionnel page par page : non pas résumer le contenu de chaque page, mais vérifier :
 
-> Protokin est une méthode d’enquête sur les conditions de stabilisation, de conflit et de transformation des descriptions au sein de pratiques de justification.
+1. Quel objet conceptuel cette page établit ?
 
----
 
-# Principe directeur
+2. Quelle question propre résout-elle ?
 
-Protokin ne cherche pas :
 
-- à décrire la structure ultime du réel ;
-- à remplacer les sciences particulières ;
-- à produire une théorie générale des objets.
+3. Quelles pages prépare-t-elle ?
 
-Il cherche à analyser :
 
-- comment une description devient intelligible ;
-- comment elle acquiert une validité locale ;
-- comment elle entre en tension avec d’autres descriptions ;
-- comment elle peut être transformée ou abandonnée.
+4. Quelles pages doivent éviter de reprendre son travail ?
+
+
+
+L'objectif est de vérifier qu'il n'y a pas de chevauchement fonctionnel.
+
 
 ---
 
-# Phase 1 — Définir le statut de l’enquête
+00 — Introduction → Découvrir Protokin
 
-## Objectif
+Introduction générale
 
-Établir ce que Protokin fait avant de définir ses concepts.
+Fonction : établir le problème général.
 
----
+Question :
 
-# 1.1 `index.md`
+> Pourquoi une enquête sur les conditions de description est-elle nécessaire ?
 
-## Fonction
 
-Présenter l’ensemble du projet.
 
-## Questions :
+Elle introduit :
 
-- Quel problème Protokin examine-t-il ?
-- Pourquoi analyser les descriptions plutôt que les objets ?
-- Quelle différence avec une ontologie ?
+le problème des descriptions ;
 
----
+la différence entre monde et conditions de description ;
 
-# 1.2 `en_une_phrase.md`
+la nécessité d'une métathéorie.
 
-## Fonction
 
-Formulation minimale.
+Elle ne doit pas :
 
-Formule de référence :
+définir les régimes ;
 
-> Protokin analyse les conditions sous lesquelles des descriptions peuvent être stabilisées, justifiées, comparées et transformées dans des pratiques données.
+expliquer les configurations ;
 
----
+présenter la méthode d'audit.
 
-# 1.3 `statut.md`
 
-## Question :
+Ces éléments appartiennent aux pages suivantes.
 
-> Quel type de démarche constitue Protokin ?
-
-Développer :
-
-- pragmatisme ;
-- inférentialisme ;
-- épistémologie des pratiques ;
-- métathéorie ;
-- non-ontologie.
 
 ---
 
-# Phase 2 — Définir l’objet de l’enquête
+Principes fondamentaux
 
-## Objectif
+Fonction : établir les orientations générales de Protokin.
 
-Déterminer ce qui est analysé.
+Question :
 
----
+> Quels sont les engagements méthodologiques fondamentaux ?
 
-# 2.1 `architecture.md`
 
-## Fonction
 
-Document central.
+Elle établit :
 
-Définir :
+non-ontologie ;
 
-## Description
+primat descriptif ;
 
-Une description n’est pas une copie du réel.
+analyse des conditions ;
 
-Elle est une organisation de :
+approche pragmatiste et inférentielle.
 
-- distinctions ;
-- engagements ;
-- critères ;
-- conséquences.
 
----
+Elle ne doit pas :
 
-## Régime de description
+expliquer en détail l'inférentialisme ;
 
-Un régime est un ensemble local de contraintes permettant de déterminer :
+définir le locuteur ;
 
-- ce qui compte comme objet ;
-- ce qui compte comme preuve ;
-- ce qui compte comme justification.
+expliquer les régimes.
+
+
 
 ---
 
-## Configuration descriptive
+Description
 
-Une configuration est une situation dans laquelle plusieurs descriptions peuvent être mobilisées.
+Fonction : désambiguïser le terme central.
 
----
+Question :
 
-## Stabilisation
+> Que signifie "description" dans Protokin par rapport à son usage ordinaire ?
 
-Une description est stabilisée lorsqu’elle maintient une cohérence suffisante dans une pratique donnée.
 
----
 
-# 2.2 `regimes.md`
+Elle établit :
 
-## Question :
+distinction entre description ordinaire et analyse protokinienne ;
 
-> Comment différentes manières de décrire organisent-elles différemment une même situation ?
+abandon du modèle naïf de représentation.
 
-Développer :
 
-- critères de pertinence ;
-- règles d’inférence ;
-- formes de justification ;
-- limites internes.
+Elle ne doit pas :
 
----
+définir les configurations descriptives ;
 
-# 2.3 `content_layer.md`
+expliquer les régimes.
 
-## Question :
 
-> Quelle matière est examinée ?
-
-Comprend :
-
-- textes ;
-- modèles ;
-- théories ;
-- institutions ;
-- pratiques discursives.
-
-Principe :
-
-> Le contenu analysé n’est pas le monde brut, mais des configurations déjà organisées descriptivement.
 
 ---
 
-# 2.4 `engagements.md`
+Exemple et fil rouge
 
-## Nouveau fichier essentiel
+Fonction : rendre l'architecture intuitive.
 
-## Question :
+Question :
 
-> Que faisons-nous lorsque nous adoptons une description ?
+> Comment suivre le fonctionnement de Protokin sur un cas continu ?
 
-Développer :
 
-- conséquences assumées ;
-- inférences permises ;
-- responsabilités discursives ;
-- incompatibilités.
 
----
+Elle ne crée aucun concept.
 
-# 2.5 `causes_raisons.md`
+Elle relie les concepts déjà établis.
 
-## Question :
-
-> Comment distinguer explication et justification ?
-
-Développer :
-
-- espace des causes ;
-- espace des raisons ;
-- articulation sans réduction.
 
 ---
 
-# Phase 3 — Construire la méthode d’enquête
+Parcours de lecture
 
-## Objectif
+Fonction : organiser l'accès.
 
-Décrire comment Protokin analyse une situation.
+Question :
 
----
+> Comment entrer dans Protokin selon différents besoins ?
 
-# 3.1 `analyse.md`
 
-## Fonction
 
-Présenter le mouvement général de l’enquête.
+Elle ne développe aucun contenu théorique.
 
-Structure :
-
-Situation descriptive
-
-↓
-
-Identification des descriptions mobilisées
-
-↓
-
-Identification des régimes
-
-↓
-
-Analyse des engagements
-
-↓
-
-Détection des tensions
-
-↓
-
-Analyse des déplacements
-
-↓
-
-Possibilité de transformation
-
-↓
-
-Nouvelle stabilisation ou limite
 
 ---
 
-# 3.2 `audit.md`
+01 — Statut
 
-## Fonction
+En une phrase
 
-Opération centrale de Protokin.
+Fonction : compression maximale.
 
-Titre :
+Question :
 
-# Audit des conditions de stabilisation descriptive
+> Quelle est l'idée centrale de Protokin ?
 
----
 
-## Étapes :
 
-### 1. Description initiale
+Une définition courte.
 
-Que cherche-t-on à décrire ?
+Elle ne justifie pas.
 
----
-
-### 2. Identification des régimes
-
-Quels cadres sont mobilisés ?
 
 ---
 
-### 3. Analyse des engagements
+Statut du projet
 
-Quelles conséquences sont admises ?
+Fonction : établir le statut épistémologique.
 
----
+Question :
 
-### 4. Analyse des tensions
+> Qu'est-ce que Protokin prétend être ?
 
-Quels critères entrent en conflit ?
 
----
 
-### 5. Analyse des déplacements
+Elle distingue :
 
-Quels changements de registre apparaissent ?
+métathéorie ;
 
----
+méthode d'analyse ;
 
-### 6. Évaluation des possibilités
+cadre descriptif.
 
-Une nouvelle stabilisation est-elle possible ?
 
----
+Elle ne décrit pas son architecture interne.
 
-# Phase 4 — Diagnostiquer les tensions
-
-## Objectif
-
-Identifier pourquoi une description devient problématique.
 
 ---
 
-# 4.1 `tensions.md`
+Nom, origine et statut conceptuel
 
-Développer :
+Fonction : établir la généalogie du terme Protokin.
 
-## Tension interne
+Question :
 
-Un régime rencontre ses propres limites.
+> Pourquoi ce nom et quel statut conceptuel porte-t-il ?
 
----
 
-## Tension externe
 
-Deux régimes entrent en conflit.
 
 ---
 
-## Saturation
+02 — Architecture conceptuelle
 
-Les ressources du régime deviennent insuffisantes.
+Architecture générale
 
----
+Fonction : établir la carte d'ensemble.
 
-## Incompatibilité
+Question :
 
-Deux engagements ne peuvent être maintenus simultanément.
+> Quels sont les grands composants de Protokin ?
 
----
 
-# 4.2 `reductions.md`
 
-## Question :
+Elle présente les relations générales.
 
-> Que perd-on lorsqu’un régime prétend absorber un autre ?
+Elle ne développe aucun composant.
 
-Développer :
-
-- réduction causaliste ;
-- réduction normativisante ;
-- perte de l’objet ;
-- disparition de la responsabilité.
 
 ---
 
-# 4.3 `eclectisme.md`
+Architecture fonctionnelle
 
-## Question :
+Fonction : établir les fonctions des composants.
 
-> Que perd-on lorsqu’on mélange des régimes sans contrôle ?
+Question :
 
-Développer :
+> Quel rôle joue chaque élément dans le fonctionnement global ?
 
-- analogies abusives ;
-- transferts non justifiés ;
-- confusion des critères.
 
----
 
-# Phase 5 — Transformer les descriptions
+Elle ne remplace pas les pages conceptuelles.
 
-## Objectif
-
-Analyser les changements possibles.
 
 ---
 
-# 5.1 `transitions.md`
+Fondements descriptifs
 
-## Question :
+Configurations descriptives
 
-> Comment une nouvelle stabilisation devient-elle possible ?
+Fonction : établir l'unité fondamentale d'analyse.
 
-Développer :
+Question :
 
-- modification des critères ;
-- déplacement des engagements ;
-- transformation locale.
+> Sur quoi porte l'analyse protokinienne ?
 
----
 
-# 5.2 `traductions.md`
 
-## Nouveau fichier essentiel
+Elle établit :
 
-## Question :
+configuration ;
 
-> Quand deux régimes peuvent-ils communiquer ?
+organisation relationnelle ;
 
-Développer :
+ensemble de conditions descriptives.
 
-- traduction ;
-- analogie ;
-- métaphore ;
-- réduction.
+
+Elle ne définit pas les régimes.
+
 
 ---
 
-# 5.3 `validite.md`
+Primat du couplage perception-action
 
-## Question :
+Fonction : établir l'ancrage pratique du descriptible.
 
-> Comment une description est-elle valide ?
+Question :
 
-Développer :
+> Pourquoi toute description dépend-elle d'un engagement perceptif et pratique ?
 
-- validité locale ;
-- cohérence interne ;
-- critères propres au régime.
 
----
 
-# 5.4 `limites.md`
+Elle ne traite pas du langage.
 
-## Question :
-
-> Que signifie l’échec d’une stabilisation ?
-
-Développer :
-
-- DELTA ;
-- impossibilité provisoire ;
-- problème ouvert.
 
 ---
 
-# Phase 6 — Réflexivité
+Configurations sémiotiques
 
-## Objectif
+Fonction : établir la dimension symbolique.
 
-Soumettre Protokin à son propre examen.
+Question :
 
----
+> Comment les signes participent-ils aux configurations descriptives ?
 
-# `reflexivite.md`
 
-Développer :
 
-- les concepts de Protokin sont révisables ;
-- aucune position extérieure absolue ;
-- l’outil est lui-même une pratique descriptive.
+Elle ne traite pas de la normativité.
+
 
 ---
 
-# Phase 7 — Applications
+Organisation des régimes descriptifs
 
-# `exemples.md`
+Régimes de description
 
-Structure :
+Fonction : établir le concept de régime.
 
-Configuration
+Question :
 
-↓
+> Qu'est-ce qui différencie des manières organisées de décrire ?
 
-Descriptions présentes
 
-↓
 
-Régimes mobilisés
+Elle établit :
 
-↓
+contraintes ;
 
-Engagements
+possibilités ;
 
-↓
+cohérences propres.
 
-Tensions
 
-↓
+Elle ne traite pas des transitions.
 
-Audit
-
-↓
-
-Transformation possible
 
 ---
 
-# `pitfalls.md`
+Cartographie des régimes descriptifs
 
-Identifier :
+Fonction : organiser les régimes existants.
 
-- réification ;
-- ontologisation ;
-- réductionnisme ;
-- éclectisme ;
-- jargon inutile.
+Question :
 
----
+> Comment les régimes peuvent-ils être classés ?
 
-# Phase 8 — Cartographie philosophique
 
-# `cartographie.md`
 
-Fonctions théoriques :
+Elle ne définit pas le concept de régime.
 
-| Auteur | Fonction |
-|-|-|
-| Peirce | Clarification pragmatique |
-| Sellars | Causes / raisons |
-| Brandom | Inférences et engagements |
-| Dewey | Enquête |
-| Wittgenstein | Usages et formes de vie |
-| Rouse | Pratiques matérielles |
-| Simondon | Transformation et individuation |
 
 ---
 
-# Phase finale — Glossaire
+Engagements et normativité
 
-# `glossaire.md`
+Engagements descriptifs
 
-Définir :
+Fonction : établir la prise de position descriptive.
 
-- description ;
-- régime ;
-- engagement ;
-- justification ;
-- stabilisation ;
-- tension ;
-- transition ;
-- traduction ;
-- limite.
+Question :
 
----
+> Que signifie soutenir une description ?
 
-# Ordre conseillé de rédaction
 
-1. architecture.md  
-2. analyse.md  
-3. audit.md  
-4. regimes.md  
-5. engagements.md  
-6. tensions.md  
-7. reductions.md  
-8. transitions.md  
-9. traductions.md  
-10. validite.md  
-11. limites.md  
-12. reflexivite.md  
-13. exemples.md  
-14. cartographie.md  
-15. glossaire.md  
+
+Elle ne traite pas de justification.
+
 
 ---
 
-# Critère permanent de cohérence
+Inférences et justifications
 
-Pour chaque concept :
+Fonction : établir les relations entre descriptions.
 
-> Décrit-il une opération d’analyse, ou prétend-il devenir une entité du monde ?
+Question :
 
-Si un concept semble agir comme une chose autonome, il doit être reformulé comme une fonction dans une pratique d’enquête.
+> Comment une description soutient-elle ou implique-t-elle d'autres descriptions ?
 
-# site
 
-Protokin
 
-01 Statut
-│
-├── index.md
-├── en_une_phrase.md
-└── statut.md
+Elle ne traite pas du locuteur.
 
-02 Architecture conceptuelle
-│
-├── architecture.md
-├── regimes.md
-├── content_layer.md
-├── engagements.md
-└── causes_raisons.md
 
-03 Méthode d'enquête
-│
-├── analyse.md
-└── audit.md
+---
 
-04 Diagnostics
-│
-├── tensions.md
-├── reductions.md
-└── eclectisme.md
+Causes et raisons
 
-05 Transformations
-│
-├── transitions.md
-├── traductions.md
-├── validite.md
-└── limites.md
+Fonction : établir la distinction sellarsienne.
 
-06 Réflexivité
-│
-└── reflexivite.md
+Question :
 
-07 Applications
-│
-├── exemples.md
-└── pitfalls.md
+> Quelle différence entre expliquer et justifier ?
 
-08 Héritages philosophiques
-│
-├── cartographie.md
-└── influences.md
 
-09 Stabilisation finale
-│
-└── glossaire.md
 
-# Ordre réel de rédaction conseillé
+Elle ne traite pas des pratiques sociales.
 
-Je modifierais légèrement l’ordre initial :
 
-architecture.md
-regimes.md
-engagements.md
-causes_raisons.md
-analyse.md
-audit.md
-tensions.md
-reductions.md
-eclectisme.md
-transitions.md
-traductions.md
-validite.md
-limites.md
-reflexivite.md
-exemples.md
-cartographie.md
-glossaire.md
+---
 
+Locuteur normatif
+
+Fonction : établir la position du sujet capable d'engagements.
+
+Question :
+
+> Qui peut occuper un espace de raisons ?
+
+
+
+Elle ne traite pas des communautés.
+
+
+---
+
+Pratique collective
+
+Fonction : établir l'espace social des descriptions.
+
+Question :
+
+> Comment les engagements existent-ils dans des pratiques ?
+
+
+
+Elle ne traite pas de la communauté comme stabilisation collective.
+
+
+---
+
+Communauté de locuteurs
+
+Fonction : établir la dimension collective durable.
+
+Question :
+
+> Comment des normes descriptives deviennent-elles partagées ?
+
+
+
+
+---
+
+Stabilisation
+
+Stabilisation et effet cliquet
+
+Fonction : établir les mécanismes de maintien et d'accumulation.
+
+Question :
+
+> Pourquoi certaines descriptions persistent-elles ?
+
+
+
+
+---
+
+Objets descriptifs : invariants et stabilisations
+
+Fonction : établir comment des objets apparaissent comme stables.
+
+Question :
+
+> Comment un invariant descriptif devient-il un objet ?
+
+
+
+
+---
+
+03 — Méthode d'enquête
+
+Audit Protokin
+
+Fonction : établir la procédure d'analyse.
+
+Question :
+
+> Comment appliquer Protokin ?
+
+
+
+
+---
+
+Lire une configuration descriptive
+
+Fonction : établir l'entrée pratique dans une analyse.
+
+Question :
+
+> Que faut-il observer en premier ?
+
+
+
+
+---
+
+Identifier les régimes mobilisés
+
+Fonction : établir la reconnaissance des régimes.
+
+Question :
+
+> Quels cadres descriptifs sont actifs ?
+
+
+
+
+---
+
+Comparer des descriptions
+
+Fonction : établir la comparaison.
+
+Question :
+
+> Comment comparer sans réduire ?
+
+
+
+
+---
+
+04 — Diagnostics
+
+Tensions entre régimes
+
+Établit les conflits entre cadres descriptifs.
+
+
+---
+
+Réductions descriptives
+
+Établit les erreurs de réduction d'un régime à un autre.
+
+
+---
+
+Éclectisme descriptif
+
+Établit l'assemblage incohérent de régimes.
+
+
+---
+
+Confusions de niveaux descriptifs
+
+Établit les erreurs de niveau d'analyse.
+
+
+---
+
+05 — Transformations
+
+Transitions descriptives
+
+Établit comment une configuration change.
+
+
+---
+
+Traductions entre régimes
+
+Établit les passages entre cadres descriptifs.
+
+
+---
+
+Validité et correction
+
+Établit les mécanismes de correction interne.
+
+
+---
+
+Limites internes
+
+Établit les tensions produites par un régime lui-même.
+
+
+---
+
+06 — Images et puissances
+
+Puissance descriptive
+
+Établit le critère général de comparaison.
+
+
+---
+
+Image manifeste
+
+Établit une forme descriptive issue de l'expérience ordinaire.
+
+
+---
+
+Image scientifique
+
+Établit la construction scientifique comme régime particulier.
+
+
+---
+
+Image manifeste et Image scientifique
+
+Établit leur relation différentielle.
+
+
+---
+
+Imagination et imaginaire
+
+Établit la dimension créatrice et symbolique.
+
+
+---
+
+07 — Héritages philosophiques
+
+Cette section n'établit pas Protokin.
+
+Elle établit les correspondances historiques.
+
+
+---
+
+08 — Réflexivité
+
+Réflexivité
+
+Établit le principe d'auto-application.
+
+
+---
+
+Auto-application du régime descriptif
+
+Établit comment Protokin devient lui-même analysable.
+
+
+---
+
+Protokin comme objet d'audit
+
+Établit la possibilité d'une analyse critique de Protokin.
+
+
+---
+
+09 — Applications
+
+Les applications ne créent aucun concept.
+
+Elles montrent les concepts en fonctionnement.
+
+
+---
+
+10 — Ressources
+
+Fonction documentaire uniquement.
+
+
+---
+
+Conclusion de l'audit
+
+Après ce test, l'architecture est cohérente.
+
+Les seules zones où il faut rester vigilant sont :
+
+1. Configurations descriptives / Description
+
+→ La page Introduction "Description" doit rester une clarification, pas une théorie.
+
+
+2. Régimes / Cartographie des régimes
+
+→ La cartographie ne doit jamais redéfinir les régimes.
+
+
+3. Stabilisation / Objets descriptifs
+
+→ La distinction mécanisme / résultat doit être maintenue.
+
+
+4. Engagements / Inférences / Causes et raisons
+
+→ Ces trois pages forment un triptyque et doivent rester séparées.
+
+
+
+L'architecture actuelle respecte donc bien votre principe :
+
+> Une page établit son objet.
+Les autres pages le préparent, le distinguent ou le relient.
