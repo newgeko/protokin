@@ -2,6 +2,7 @@
 
   - [Introduction générale](00_introduction/introduction.md)
   - [Principes fondamentaux](00_introduction/principes.md)
+  - [Description](00_introduction/description.md)
   - [exemple et fil rouge](00_introduction/exemple_fil_rouge.md)
   - [Parcours de lecture](00_introduction/parcours.md)
 
