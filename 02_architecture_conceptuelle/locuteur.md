@@ -1,354 +1,253 @@
-# Le locuteur — Position descriptive, participation normative et trajectoire de stabilisation
+# Le locuteur — Une position descriptive dans une pratique collective
 
+> **Dans Protokin, le locuteur désigne une position capable de participer à une pratique descriptive, de produire des descriptions et d’occuper une place identifiable dans un espace d’analyse.**
+>
 > Le locuteur n’est pas l’origine des descriptions.
 >
-> Dans Protokin, il désigne une position capable de participer à une pratique descriptive, d’assumer des affirmations et d’entrer dans des espaces de justification.
+> Il constitue une position émergente au sein de pratiques où certaines descriptions deviennent possibles.
 
 ---
 
 # Introduction
 
-La question du locuteur occupe une place centrale dans l’analyse des pratiques descriptives.
+Dans de nombreuses approches philosophiques et linguistiques, le locuteur est souvent considéré comme un point de départ.
 
-De nombreuses traditions philosophiques, linguistiques et sociales ont conçu le locuteur comme un point de départ :
+Il est alors compris comme :
 
-- une conscience produisant des représentations ;
-- un sujet exprimant des pensées ;
-- un individu transmettant des informations ;
-- un agent autonome formulant des jugements.
+- un sujet produisant des représentations ;
+- une conscience exprimant des pensées ;
+- un individu utilisant un langage ;
+- un agent transmettant des informations.
 
-Dans ces approches, le locuteur apparaît souvent comme une entité déjà constituée dont les descriptions seraient l’expression.
+Dans cette perspective, le locuteur semble exister avant la pratique descriptive.
 
-L’architecture Protokin adopte une orientation différente.
+Protokin adopte une orientation différente.
 
-Elle ne prend pas le locuteur comme une origine première, mais comme une position à analyser.
+Il ne part pas d’un sujet déjà constitué.
 
-La question n’est donc pas :
+Il cherche à comprendre :
 
-> Comment un sujet décrit-il le monde ?
+> **Sous quelles conditions une position devient-elle capable de participer à une pratique descriptive ?**
 
-Mais :
+Le locuteur n’est donc pas une origine première.
 
-> Comment une position devient-elle capable de participer à une pratique descriptive ?
-
-Cette inversion méthodologique conduit à examiner les conditions permettant :
-
-- l’émergence d’une position descriptive ;
-- son apprentissage ;
-- sa reconnaissance collective ;
-- sa capacité d’intervention ;
-- sa stabilisation dans des pratiques partagées.
-
-Le locuteur n’est donc :
-
-- ni une substance ;
-- ni une conscience fondatrice ;
-- ni une simple fonction grammaticale.
-
-Il constitue une position descriptive historiquement produite.
+Il est une position qui apparaît dans un ensemble de pratiques, de distinctions et de relations permettant à des descriptions de fonctionner.
 
 ---
 
-# 1. Fonction générale du concept de locuteur
+# 1. Fonction générale du concept
 
-## 1.1 Question directrice
+La fonction du concept de locuteur est d’identifier la position depuis laquelle une description peut être produite dans une pratique donnée.
 
-Ce fichier répond à une question centrale :
+Le locuteur désigne une capacité à :
 
-> Comment une entité devient-elle capable d’occuper une position de locuteur dans une pratique descriptive ?
+- intervenir dans une activité descriptive ;
+- utiliser des distinctions reconnues ;
+- produire des descriptions interprétables ;
+- participer à une pratique où ces descriptions peuvent être évaluées.
 
-Le problème n’est pas d’expliquer comment un sujet déjà constitué produit des descriptions.
+Le concept ne cherche pas à expliquer :
 
-Il consiste à comprendre comment une position descriptive devient possible.
+- la formation des communautés ;
+- les mécanismes de justification ;
+- les processus historiques de stabilisation.
 
----
+Ces dimensions sont développées dans d’autres espaces de l’architecture Protokin.
 
-## 1.2 Définition générale
+Voir :
 
-Dans Protokin, un locuteur désigne :
-
-> Une position reconnue comme capable de produire, soutenir et transformer des descriptions dans une pratique collective.
-
-Le locuteur n’est pas défini par :
-
-- une intériorité privée ;
-- une conscience isolée ;
-- une simple capacité linguistique.
-
-Il est défini par une participation à des pratiques où ses productions peuvent être :
-
-- interprétées ;
-- évaluées ;
-- discutées ;
-- corrigées.
+- [Communauté de locuteurs](communaute_locuteurs.md)
+- [Engagements descriptifs](engagements.md)
+- [Stabilisation et effet cliquet](stabilisation.md)
 
 ---
 
 # 2. Le déplacement protokinien
 
-## 2.1 Du sujet comme origine à la position comme résultat
+## Du sujet producteur à la position descriptive
 
-Une conception classique commence par le sujet.
+Une approche classique peut être résumée ainsi :
 
-Elle suppose :
+Sujet  
+↓  
+Pensée  
+↓  
+Langage  
+↓  
+Description
 
-- un sujet déjà constitué ;
-- une capacité descriptive préalable ;
-- une relation entre une conscience et un monde extérieur.
+Protokin inverse cette perspective.
 
-Protokin inverse cette démarche.
+L’analyse commence par les pratiques dans lesquelles certaines descriptions deviennent possibles.
 
-Il analyse les conditions qui permettent à une position de locuteur d’apparaître.
+Le mouvement devient :
 
-Le locuteur devient alors un phénomène à expliquer.
+Pratique descriptive  
+↓  
+Participation  
+↓  
+Position de locuteur  
+↓  
+Description
 
-Il n’est pas la condition première de la description.
+Le locuteur n’est donc pas une entité située en dehors de la pratique.
 
-Il est une position produite par des pratiques.
-
----
-
-## 2.2 La description comme activité située
-
-Une description n’apparaît jamais depuis un point de vue abstrait.
-
-Elle est toujours produite dans :
-
-- une pratique ;
-- un contexte ;
-- une communauté ;
-- un ensemble de médiations.
-
-Le locuteur est celui qui occupe une place identifiable dans cette activité descriptive.
+Il est une position rendue possible par cette pratique.
 
 ---
 
-# 3. Le locuteur comme position descriptive
+# 3. Définition du locuteur
 
-## 3.1 Une position et non une substance
+Dans Protokin :
 
-Le locuteur ne désigne pas une chose possédant naturellement une capacité descriptive.
+> **Un locuteur est une position reconnue comme capable de participer à une pratique descriptive.**
 
-Il désigne une position dans un réseau de pratiques.
+Cette définition implique plusieurs dimensions :
 
-Cette position implique la capacité :
+- une capacité d’intervention ;
+- une inscription dans une pratique ;
+- une possibilité d’interprétation par d’autres participants ;
+- une capacité à occuper une place descriptive déterminée.
 
-- d’énoncer une description ;
-- de maintenir des distinctions ;
-- de répondre aux demandes d’explication ;
-- de participer à des processus d’évaluation.
+Le locuteur n’est donc pas défini uniquement par la production de signes.
 
----
-
-## 3.2 Produire une description
-
-Produire une description signifie davantage que produire un énoncé.
-
-Cela implique :
-
-- sélectionner certaines différences comme pertinentes ;
-- adopter certaines distinctions ;
-- participer à une pratique d’évaluation ;
-- pouvoir répondre de son intervention.
-
-La description devient alors une prise de position.
+Il est défini par une relation entre une position, une pratique et des descriptions possibles.
 
 ---
 
-# 4. Participation avant explicitation
+# 4. Le locuteur comme position et non comme substance
 
-## 4.1 L’apprentissage du locuteur
+Le locuteur n’est pas une chose possédant naturellement une capacité descriptive.
 
-Un locuteur n’entre jamais dans un espace descriptif entièrement neutre.
+Il ne constitue pas :
 
-Il apprend au sein de pratiques déjà existantes.
+- une substance autonome ;
+- une conscience isolée ;
+- un centre absolu de production du sens.
 
-Avant de maîtriser explicitement les règles d’une activité, il participe déjà à :
+Il désigne une position fonctionnelle dans une configuration descriptive.
 
-- des gestes ;
-- des usages ;
-- des interactions ;
-- des procédures ;
-- des corrections.
+Cette position dépend :
 
-La participation précède donc l’explicitation.
+- des pratiques auxquelles elle participe ;
+- des distinctions disponibles ;
+- des possibilités d’intervention ;
+- des formes de reconnaissance présentes.
 
----
-
-## 4.2 De la participation à la position descriptive
-
-La transformation d’un participant en locuteur correspond à une évolution progressive.
-
-Elle implique :
-
-- l’apprentissage de distinctions pertinentes ;
-- la maîtrise de pratiques partagées ;
-- la reconnaissance par d’autres participants ;
-- la capacité d’intervenir de manière appropriée.
-
-Le locuteur apparaît ainsi comme le résultat d’une trajectoire.
+Une même entité peut donc occuper différentes positions de locuteur selon les pratiques concernées.
 
 ---
 
-# 5. Reconnaissance et communautés de locuteurs
+# 5. Locuteur et description
 
-## 5.1 La dimension collective
+Une description n’est pas seulement un énoncé produit par quelqu’un.
 
-Un locuteur n’existe jamais indépendamment d’autres locuteurs.
+Elle implique une position depuis laquelle elle peut être formulée.
 
-La possibilité d’occuper cette position dépend d’une reconnaissance collective.
+Le locuteur correspond ainsi à la possibilité d’inscrire une description dans une pratique où elle peut devenir :
 
-Cette reconnaissance peut prendre plusieurs formes :
+- compréhensible ;
+- discutable ;
+- utilisable ;
+- transformable.
 
-- apprentissage partagé ;
-- validation par des pairs ;
-- participation institutionnelle ;
-- intégration dans une pratique.
-
----
-
-## 5.2 Une reconnaissance située
-
-La reconnaissance d’un locuteur dépend toujours d’un contexte.
-
-Elle varie selon :
-
-- la pratique concernée ;
-- les attentes collectives ;
-- les formes d’évaluation ;
-- les cadres descriptifs mobilisés.
-
-Une même personne peut occuper différentes positions descriptives selon les pratiques auxquelles elle participe.
+Le locuteur constitue donc une condition pratique de fonctionnement des descriptions.
 
 ---
 
-# 6. Médiations matérielles
+# 6. Distinctions fondamentales
 
-Les descriptions ne sont jamais produites uniquement par des capacités individuelles.
-
-Elles reposent également sur des médiations :
-
-- instruments ;
-- documents ;
-- outils techniques ;
-- dispositifs ;
-- infrastructures.
-
-Ces médiations participent aux conditions permettant à une position de locuteur d’exister.
-
-Le locuteur n’est donc pas un centre isolé de production descriptive.
-
-Il participe à un réseau de relations.
-
----
-
-# 7. Trajectoire du locuteur
-
-Une position de locuteur possède une histoire.
-
-Cette histoire comprend :
-
-- apprentissages ;
-- ajustements ;
-- corrections ;
-- validations ;
-- transformations.
-
-Le locuteur n’est jamais donné immédiatement.
-
-Il se constitue progressivement à travers une trajectoire de participation.
-
-Cette trajectoire détermine :
-
-- les pratiques auxquelles il peut participer ;
-- les descriptions qu’il peut produire ;
-- les positions qu’il peut occuper.
-
----
-
-# 8. Distinctions fondamentales
-
-## 8.1 Locuteur et individu
+## 6.1 Locuteur et individu
 
 Le locuteur ne se confond pas avec l’individu biologique.
 
-Un individu peut exister sans encore occuper une position complète de locuteur dans une pratique donnée.
+Un individu peut participer à de nombreuses activités sans occuper une position complète de locuteur dans une pratique particulière.
 
-La position de locuteur dépend d’une participation reconnue.
+La position de locuteur dépend d’une capacité de participation descriptive reconnue.
 
 ---
 
-## 8.2 Locuteur et organisme
+## 6.2 Locuteur et organisme
 
-L’organisme constitue une condition matérielle permettant certaines formes d’activité descriptive.
+L’organisme constitue une condition matérielle permettant certaines activités.
 
-Cependant, le locuteur désigne une position pratique et normative qui ne se réduit pas à cette condition.
+Cependant, le locuteur ne désigne pas cette condition biologique.
+
+Il désigne une position descriptive qui apparaît lorsqu’une participation à des pratiques devient possible.
 
 Voir :
 
-- [causes_raisons.md](causes_raisons.md)
+- [Causes et raisons](causes_raisons.md)
 
 ---
 
-## 8.3 Locuteur et langage
+## 6.3 Locuteur et langage
 
-Le locuteur ne correspond pas simplement à un utilisateur de signes.
+Le locuteur ne correspond pas simplement à un utilisateur de langage.
 
-Il correspond à celui qui participe à une pratique où des signes peuvent fonctionner comme descriptions évaluables.
+Un système peut produire des signes sans nécessairement occuper une position de locuteur dans une pratique descriptive.
 
----
-
-# 9. Place dans l’architecture Protokin
-
-Le locuteur occupe une position intermédiaire dans l’analyse :
-
-Configuration pratique
-
-↓
-
-Participation
-
-↓
-
-Position descriptive
-
-↓
-
-Intervention descriptive
-
-↓
-
-Reconnaissance collective
-
-↓
-
-Stabilisation
-
-Cette organisation ne décrit pas des étapes du réel.
-
-Elle représente un ordre d’analyse.
+Le locuteur implique une participation à un espace où des descriptions peuvent être reconnues comme telles.
 
 ---
 
-# 10. Relations avec les autres concepts
+# 7. Place dans l’architecture Protokin
 
-Le concept de locuteur prépare l’analyse d’autres dimensions de Protokin.
+Le concept de locuteur occupe une position intermédiaire.
 
-Il est notamment relié à :
+Il relie l’analyse des configurations descriptives aux analyses portant sur les pratiques normatives.
 
-- Régimes de description ;
-- Engagements ;
-- Causes et raisons.
+Son rôle peut être représenté ainsi :
+
+Configuration descriptive  
+↓  
+Participation  
+↓  
+Position de locuteur  
+↓  
+Pratiques de description  
+↓  
+Engagements  
+↓  
+Stabilisations
+
+Cette représentation ne décrit pas une succession naturelle.
+
+Elle indique un ordre d’analyse conceptuelle.
+
+---
+
+# 8. Relations avec les autres concepts
+
+Le concept de locuteur prépare plusieurs analyses complémentaires.
+
+## Avec les engagements
+
+Une position de locuteur ouvre la possibilité d’examiner comment une description implique des conséquences et des responsabilités.
 
 Voir :
 
-- [regimes.md](regimes.md)
-- [engagements.md](engagements.md)
-- [causes_raisons.md](causes_raisons.md)
+- [Engagements descriptifs](engagements.md)
 
-Ces concepts ne sont pas développés ici.
+---
 
-Cette page établit uniquement la fonction du locuteur comme position descriptive.
+## Avec les communautés
+
+Une position de locuteur n’existe pas indépendamment des pratiques collectives dans lesquelles elle est reconnue.
+
+Voir :
+
+- [Communauté de locuteurs](communaute_locuteurs.md)
+
+---
+
+## Avec causes et raisons
+
+Le locuteur permet d’aborder le passage entre une existence dans des processus causaux et une participation à des pratiques normatives.
+
+Voir :
+
+- [Causes et raisons](causes_raisons.md)
 
 ---
 
@@ -356,18 +255,22 @@ Cette page établit uniquement la fonction du locuteur comme position descriptiv
 
 Dans Protokin, le locuteur n’est pas l’origine première des descriptions.
 
-Il est une position descriptive émergente, constituée par une trajectoire de participation, de reconnaissance et de stabilisation.
+Il désigne une position descriptive rendue possible par une pratique collective.
 
-Être locuteur signifie pouvoir intervenir dans une pratique descriptive et participer aux processus qui rendent les descriptions intelligibles.
+Le locuteur apparaît lorsque quelque chose devient capable d’occuper une place dans une activité où des descriptions peuvent être produites et reconnues.
 
-Le locuteur n’est donc pas une substance.
+Le concept permet ainsi de déplacer l’analyse :
 
-Il est une position dynamique au sein de pratiques où des descriptions deviennent possibles.
+non pas :
+
+> « Qui produit une description ? »
+
+mais :
+
+> **« Sous quelles conditions une position peut-elle devenir capable de participer à une pratique descriptive ? »**
 
 ---
 
 # Formule synthétique
 
-> **Un locuteur est une position capable de produire, soutenir et transformer des descriptions dans une pratique collective.**
-
-> **Protokin n’analyse pas ce qu’un sujet possède avant de parler, mais comment une position de locuteur devient possible.**
+> **Un locuteur est une position descriptive capable de participer à une pratique où des descriptions peuvent devenir intelligibles.**
