@@ -1,329 +1,283 @@
 # Stabilisation des configurations descriptives
 
-## L'effet cliquet et la formation des régimes
+## Processus de consolidation et effet cliquet
 
-> Voir également :
->
-> - [Content Layer](content_layer.md)
-> - [Engagements descriptifs](engagements.md)
-> - [Locuteur normatif](locuteur.md)
-> - [Régimes de description](regimes.md)
-> - [Transitions](../05_transformations/transitions.md)
+> **La stabilisation désigne le processus par lequel une configuration descriptive acquiert une continuité suffisante pour être maintenue, transmise et mobilisée dans des pratiques collectives.**
 
 ---
 
 ## Introduction
 
-Dans Protokin, les régimes descriptifs n'apparaissent pas spontanément.
+Dans Protokin, une description ne devient pas immédiatement une forme durable d’intelligibilité.
 
-Entre les configurations descriptives disponibles dans le *Content Layer* et les régimes descriptifs historiquement stabilisés, il existe un ensemble de processus de transmission, de reprise, de correction, de validation et d'institutionnalisation.
+Entre une configuration descriptive possible et une configuration suffisamment consolidée pour orienter des pratiques, il existe un processus de stabilisation.
 
-L'analyse de ces processus constitue le domaine de la stabilisation.
+La stabilisation désigne ce processus de consolidation.
 
-L'effet cliquet désigne l'une des propriétés caractéristiques de cette dynamique.
+Elle ne concerne pas la vérité intrinsèque d’une description.
 
-Il ne concerne ni les objets décrits ni les propriétés intrinsèques du monde.
+Elle concerne les conditions historiques, pratiques et inférentielles par lesquelles une configuration devient plus facilement :
 
-Il concerne la manière dont certaines configurations descriptives deviennent progressivement plus faciles à mobiliser, à justifier et à transmettre que d'autres.
+- mobilisable ;
+- transmissible ;
+- justifiable ;
+- intégrable dans d’autres descriptions.
 
-L'effet cliquet ne produit pas la vérité d'une configuration.
+La stabilisation n’est donc pas un état fixe.
 
-Il décrit son degré de consolidation historique au sein d'un régime.
-
----
-
-# 1. Configuration, stabilisation et régime
-
-Protokin distingue trois niveaux analytiques.
-
-## Configuration descriptive
-
-Une configuration descriptive correspond à une organisation possible de descriptions.
-
-Elle propose une manière de rendre un domaine intelligible.
-
-Plusieurs configurations peuvent coexister au sein d'un même espace descriptif.
-
-Par exemple :
-
-- géocentrisme ;
-- héliocentrisme ;
-- théorie du phlogistique ;
-- théorie atomique ;
-- théorie des humeurs ;
-- théorie microbienne.
-
-Une configuration est une possibilité descriptive.
-
-Elle n'est pas encore un régime.
-
-## Stabilisation
-
-La stabilisation désigne le processus par lequel une configuration est :
-
-- reprise ;
-- transmise ;
-- enseignée ;
-- corrigée ;
-- articulée à d'autres descriptions ;
-- intégrée à des pratiques collectives.
-
-La stabilisation ne constitue pas un état.
-
-Elle correspond à une trajectoire historique.
-
-## Régime descriptif
-
-Un régime descriptif apparaît lorsqu'un ensemble de stabilisations devient suffisamment structurant pour orienter durablement les engagements futurs.
-
-Le régime ne remplace pas les configurations.
-
-Il organise les conditions sous lesquelles certaines configurations deviennent plus facilement recevables, justifiables ou transformables que d'autres.
+Elle constitue une dynamique.
 
 ---
 
-# 2. L'effet cliquet
+# 1. Fonction de la stabilisation
 
-L'effet cliquet désigne l'asymétrie croissante produite par une trajectoire de stabilisation entre plusieurs configurations descriptives concurrentes.
+La stabilisation répond à une question spécifique :
 
-À mesure que certaines configurations accumulent des compatibilités inférentielles, des inscriptions matérielles et des reprises collectives, leur mobilisation devient moins coûteuse.
+> **Comment une configuration descriptive devient-elle suffisamment durable pour participer à l’organisation d’une pratique ?**
 
-Inversement, les configurations concurrentes exigent davantage de justifications, de révisions et de transformations.
+Une configuration descriptive peut exister comme possibilité conceptuelle sans être stabilisée.
 
-L'effet cliquet ne supprime pas les alternatives.
+Pour acquérir une stabilité, elle doit pouvoir être :
 
-Il modifie leur coût relatif d'engagement.
+- reprise dans des activités ;
+- conservée malgré des variations ;
+- articulée avec d’autres descriptions ;
+- soumise à des processus de correction.
 
-Une configuration fortement stabilisée devient progressivement le point d'appui ordinaire des descriptions ultérieures.
-
----
-
-# 3. Du cliquet culturel au cliquet configurationnel
-
-Chez Michael Tomasello, l'effet cliquet décrit l'accumulation culturelle par laquelle certaines innovations deviennent transmissibles et empêchent une simple régression au niveau précédent.
-
-Chaque génération hérite d'un environnement déjà transformé par les générations antérieures.
-
-Protokin transpose cette intuition au niveau des configurations descriptives.
-
-Le cliquet ne concerne plus seulement :
-
-- les outils ;
-- les techniques ;
-- les comportements ;
-- les artefacts.
-
-Il concerne également les formes de description.
-
-Une configuration descriptive acquiert un effet cliquet lorsqu'elle devient suffisamment intégrée à des pratiques collectives pour que les nouveaux engagements doivent désormais composer avec elle.
+La stabilisation décrit donc le passage entre une possibilité descriptive et une forme durablement opératoire.
 
 ---
 
-# 4. Locuteur et intentionnalité collective
+# 2. Configuration descriptive et stabilisation
 
-L'effet cliquet n'agit jamais indépendamment des locuteurs.
+Protokin distingue :
 
-Une configuration descriptive ne se stabilise que par l'activité cumulative de locuteurs engagés dans des pratiques collectives.
+## La configuration descriptive
 
-Le locuteur normatif n'est jamais le point de départ absolu d'un espace descriptif.
+Une configuration descriptive correspond à une manière possible d’organiser des distinctions et des relations descriptives.
 
-Il hérite toujours :
+Elle constitue une possibilité d’intelligibilité.
 
-- d'un vocabulaire ;
-- d'engagements préexistants ;
-- de critères de justification ;
-- de distinctions déjà stabilisées.
+Une configuration peut être :
 
-Chaque prise de position s'inscrit dans une histoire préalable de descriptions.
+- proposée ;
+- formulée ;
+- explorée ;
+- comparée à d’autres configurations.
 
-L'intentionnalité collective fournit les conditions sociales de cette continuité.
-
-Elle permet que certaines descriptions soient :
-
-- reprises ;
-- transmises ;
-- évaluées ;
-- corrigées ;
-- enseignées ;
-- intégrées à des pratiques communes.
-
-La stabilisation est donc un phénomène collectif avant d'être un phénomène individuel.
+Elle n’est cependant pas nécessairement stabilisée.
 
 ---
 
-# 5. Brandom : engagements et espace des raisons
+## La stabilisation
 
-L'apport de Robert Brandom permet de comprendre la dimension inférentielle de la stabilisation.
+La stabilisation apparaît lorsqu’une configuration devient suffisamment intégrée dans des pratiques pour pouvoir être reproduite et maintenue.
 
-Les locuteurs n'entrent jamais dans un espace vide.
+Elle implique notamment :
 
-Ils participent à un réseau historique d'engagements et de responsabilités discursives déjà constitué.
+- des reprises successives ;
+- des transmissions ;
+- des ajustements ;
+- des compatibilités avec d’autres descriptions.
 
-Une configuration fortement stabilisée possède généralement :
+La stabilisation ne transforme pas une configuration en vérité absolue.
 
-- un grand nombre de conséquences inférentielles disponibles ;
-- des justifications déjà établies ;
-- des compatibilités avec d'autres engagements ;
-- des procédures reconnues de correction.
-
-Une configuration concurrente peut demeurer intelligible.
-
-Cependant, son adoption exige davantage de révisions et de justifications.
-
-L'effet cliquet correspond à cette asymétrie croissante dans l'espace des raisons.
+Elle augmente sa capacité à fonctionner dans un espace descriptif donné.
 
 ---
 
-# 6. Joseph Rouse : inscription dans une niche normative
+# 3. Stabilisation et continuité historique
 
-Une configuration descriptive ne flotte pas dans un espace purement conceptuel.
+Une configuration descriptive stabilisée possède une histoire.
 
-Avec Joseph Rouse, Protokin considère que les pratiques descriptives sont également des pratiques matérielles.
+Elle résulte d’une accumulation de reprises, d’ajustements et de transmissions.
 
-Elles s'inscrivent dans :
+Cette continuité permet :
 
-- des instruments ;
-- des institutions ;
-- des technologies ;
-- des formations ;
-- des infrastructures ;
-- des organisations sociales.
+- la conservation de certaines distinctions ;
+- la reproduction de certaines pratiques ;
+- la transmission de certains critères.
 
-La stabilisation d'une configuration dépend aussi de son inscription dans une niche normative et pratique.
+La stabilisation constitue donc une mémoire pratique des descriptions.
 
-Les descriptions deviennent alors plus facilement reproductibles, transmissibles et mobilisables.
-
-La stabilisation est simultanément :
-
-- inférentielle ;
-- sociale ;
-- matérielle.
+Elle permet à des configurations de dépasser l’événement particulier de leur apparition.
 
 ---
 
-# 7. Coût inférentiel différentiel
+# 4. L’effet cliquet
 
-L'effet cliquet peut être décrit à partir de la notion de coût inférentiel différentiel.
+L’effet cliquet désigne une propriété particulière de la stabilisation.
 
-Soient deux configurations descriptives concurrentes :
+Lorsqu’une configuration descriptive devient fortement intégrée dans des pratiques collectives, son maintien devient progressivement moins coûteux que son abandon complet.
 
-- C₁ ;
-- C₂.
+Cette asymétrie résulte notamment de l’accumulation :
 
-Les deux peuvent rester formulables.
+- d’engagements associés ;
+- de procédures établies ;
+- de formes de transmission ;
+- de compatibilités descriptives.
 
-Cependant, leur mobilisation n'entraîne pas les mêmes conséquences.
+L’effet cliquet ne signifie pas qu’une configuration devient impossible à transformer.
 
-Une configuration fortement stabilisée possède un coût d'intégration relativement faible parce qu'elle bénéficie déjà :
-
-- d'un réseau de compatibilités ;
-- de justifications disponibles ;
-- d'inscriptions institutionnelles ;
-- de soutiens matériels.
-
-Une configuration marginalisée possède un coût plus élevé parce qu'elle nécessite une réorganisation plus importante du réseau descriptif.
-
-L'effet cliquet mesure cette asymétrie.
-
-Il ne mesure pas la vérité d'une configuration.
-
-Il mesure son degré de stabilisation au sein d'un régime.
+Il signifie que toute transformation doit désormais composer avec une histoire déjà stabilisée.
 
 ---
 
-# 8. Exemple : géocentrisme et héliocentrisme
+# 5. Stabilisation et coût de transformation
 
-La transition du géocentrisme vers l'héliocentrisme illustre ce processus.
+Deux configurations descriptives peuvent rester théoriquement possibles tout en possédant des coûts différents de mobilisation.
 
-Au départ, les deux configurations sont descriptivement disponibles.
+Une configuration fortement stabilisée bénéficie généralement :
 
-Elles coexistent dans l'espace des possibilités.
+- d’un réseau descriptif déjà organisé ;
+- de pratiques établies ;
+- de moyens de transmission disponibles.
 
-Progressivement, l'héliocentrisme accumule :
+Une configuration moins stabilisée peut demander davantage :
 
-- des observations compatibles ;
-- des reformulations mathématiques ;
-- des instruments adaptés ;
-- des pratiques scientifiques ;
-- des dispositifs d'enseignement ;
-- des institutions de validation.
+- de justifications ;
+- de réorganisations ;
+- de modifications des pratiques existantes.
 
-Cette accumulation produit une trajectoire de stabilisation.
+L’effet cliquet désigne cette différence de coût.
 
-L'effet cliquet apparaît lorsque cette trajectoire modifie durablement le coût relatif des engagements possibles.
+Il ne mesure pas :
 
-Le géocentrisme demeure formulable.
+- la vérité ;
+- la valeur morale ;
+- la supériorité absolue.
 
-Cependant, son adoption exige désormais la révision d'un ensemble beaucoup plus vaste de descriptions, de pratiques et d'institutions.
-
-L'asymétrie n'est pas ontologique.
-
-Elle est historique, pratique et inférentielle.
+Il mesure un degré de consolidation dans une trajectoire historique donnée.
 
 ---
 
-# 9. Stabilisation historique et ontologie historique
+# 6. Stabilisation et absence d’irréversibilité
 
-L'effet cliquet présente une proximité avec l'ontologie historique développée par Ian Hacking.
+La stabilisation ne signifie jamais une fixation définitive.
 
-L'intérêt de cette approche ne réside pas dans l'identification d'entités fondamentales.
+Une configuration stabilisée peut :
 
-Il réside dans l'analyse des processus par lesquels certaines classifications, catégories et descriptions acquièrent une effectivité historique.
+- rencontrer des tensions ;
+- perdre certaines compatibilités ;
+- être remplacée ;
+- être transformée.
 
-Une configuration devient historiquement effective lorsqu'elle est incorporée à des pratiques collectives suffisamment stabilisées pour orienter durablement les engagements futurs.
+La stabilisation crée une inertie relative, non une impossibilité de changement.
 
-L'effet cliquet décrit précisément cette dynamique de consolidation historique.
-
----
-
-# 10. Fonction dans Protokin
-
-Dans l'architecture de Protokin, la stabilisation constitue le processus qui relie les configurations descriptives aux régimes descriptifs.
-
-L'effet cliquet constitue l'un des indicateurs de cette stabilisation.
-
-Le schéma général est le suivant :
-
-```text
-Configuration descriptive
-
-↓
-
-Reprises par des locuteurs
-
-↓
-
-Pratiques collectives
-
-↓
-
-Stabilisations successives
-
-↓
-
-Effet cliquet
-
-↓
-
-Régime descriptif
-
-↓
-
-Nouveaux engagements
-```
-
-L'effet cliquet n'est donc ni une théorie de la vérité ni une théorie de l'histoire.
-
-Il constitue un opérateur analytique permettant de décrire comment certaines configurations deviennent progressivement structurantes pour un espace de raisons donné.
+Toute configuration reste inscrite dans un processus historique de transformation.
 
 ---
 
-## Définition protokinienne
+# 7. Relation avec les pratiques collectives
 
+La stabilisation dépend de pratiques permettant la reprise et la transmission des descriptions.
+
+Une configuration ne devient pas stable par ses seules propriétés internes.
+
+Elle acquiert une stabilité lorsqu’elle peut être intégrée dans des activités où elle devient :
+
+- utilisable ;
+- transmissible ;
+- évaluée ;
+- corrigible.
+
+La pratique collective constitue donc une condition de stabilisation.
+
+Voir :
+
+- [Pratique collective](pratique_collective.md)
+
+---
+
+# 8. Relation avec les engagements descriptifs
+
+Une configuration stabilisée organise progressivement des possibilités d’engagement.
+
+Elle influence :
+
+- ce qui peut être affirmé ;
+- ce qui doit être justifié ;
+- ce qui apparaît compatible ou incompatible.
+
+La stabilisation contribue ainsi à structurer un espace descriptif dans lequel certaines inférences deviennent disponibles.
+
+Voir :
+
+- [Engagements descriptifs](engagements.md)
+
+---
+
+# 9. Relation avec les régimes descriptifs
+
+La stabilisation participe à la formation des régimes descriptifs.
+
+Cependant, une stabilisation particulière ne constitue pas à elle seule un régime.
+
+Un régime descriptif apparaît lorsqu’un ensemble de configurations stabilisées devient suffisamment structurant pour organiser durablement des pratiques de description.
+
+Voir :
+
+- [Régimes de description](regimes.md)
+
+---
+
+# 10. Place dans l’architecture Protokin
+
+La stabilisation occupe une fonction de liaison.
+
+Elle décrit comment des configurations descriptives acquièrent une continuité permettant leur maintien et leur transformation.
+
+Schéma fonctionnel :
+
+    Configuration descriptive
+
+    ↓
+
+    Intégration dans des pratiques collectives
+
+    ↓
+
+    Reprises et transmissions
+
+    ↓
+
+    Stabilisation progressive
+
+    ↓
+
+    Effet cliquet
+
+    ↓
+
+    Renforcement des conditions de mobilisation
+
+    ↓
+
+    Participation à un régime descriptif
+
+Ce schéma ne décrit pas une loi historique universelle.
+
+Il représente une relation fonctionnelle entre plusieurs dimensions de l’analyse.
+
+---
+
+# Définition protokinienne
+
+> **Stabilisation**
+>
+> Processus par lequel une configuration descriptive acquiert une continuité suffisante pour être maintenue, transmise et mobilisée dans des pratiques collectives.
+>
 > **Effet cliquet**
 >
-> Asymétrie croissante produite par une trajectoire de stabilisation entre plusieurs configurations descriptives concurrentes.
->
-> Cette asymétrie modifie progressivement le coût relatif des engagements, des justifications et des transformations possibles au sein d'un régime.
->
-> L'effet cliquet ne produit pas une irréversibilité absolue. Il décrit le degré de consolidation historique d'une configuration dans un espace collectif de raisons.
+> Asymétrie produite par une trajectoire de stabilisation qui modifie progressivement le coût relatif de maintien, de transformation ou d’abandon d’une configuration descriptive.
+
+---
+
+## Navigation
+
+- [Content Layer](content_layer.md)
+- [Engagements descriptifs](engagements.md)
+- [Pratique collective](pratique_collective.md)
+- [Locuteur normatif](locuteur.md)
+- [Régimes de description](regimes.md)
+- [Transitions](../05_transformations/transitions.md)
