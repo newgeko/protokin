@@ -94,6 +94,7 @@
 
 - [Cartographie conceptuelle](07_heritages_philosophiques/cartographie.md)
 - [Influences et correspondances](07_heritages_philosophiques/influences.md)
+- [Analyse formelle et régimes descriptifs](07_heritages_philosophiques/analyse_formelle_regimes_descriptifs.md)
 
 ### Courants et auteurs
 
