@@ -1,312 +1,240 @@
-# Introduction générale
+# Principes fondamentaux
 
-> **Protokin est une métathéorie pragmatiste, inférentialiste et non-ontologique.**
+> **Les principes fondamentaux de Protokin définissent les contraintes générales qui organisent l’ensemble de l’architecture.**
 >
-> Il n’a pas pour objectif de décrire le monde tel qu’il serait en lui-même.
+> Ils ne constituent pas une théorie particulière du monde.
 >
-> Son objet est l’analyse des conditions sous lesquelles des descriptions deviennent possibles, intelligibles, recevables, contestables, stabilisables ou transformables au sein de pratiques collectives.
+> Ils déterminent les conditions selon lesquelles une analyse descriptive peut être conduite.
 
 ---
 
-# Pourquoi Protokin ?
+# Introduction
 
-Dans de nombreux débats philosophiques, scientifiques, politiques ou sociaux, les désaccords semblent porter sur les objets eux-mêmes :
+Protokin repose sur plusieurs principes directeurs qui orientent sa démarche.
 
-- qu’est-ce qu’un organisme ?
-- qu’est-ce qu’une personne ?
-- qu’est-ce qu’une institution ?
-- qu’est-ce qu’une maladie ?
-- qu’est-ce qu’une intelligence artificielle ?
-- qu’est-ce qui existe réellement ?
+Ces principes ne décrivent pas des objets particuliers.
 
-Pourtant, avant même de répondre à ces questions, une autre question se pose :
+Ils précisent :
 
-> Sous quelles conditions ces objets deviennent-ils descriptibles ?
+- ce qui doit être pris en compte pour analyser une description ;
+- ce qui doit être évité pour ne pas réduire une description à un seul niveau ;
+- comment articuler conditions, pratiques et stabilisations.
 
-Protokin part de cette interrogation.
-
-Son hypothèse centrale est que les conflits descriptifs ne proviennent pas uniquement des objets décrits, mais aussi des cadres à partir desquels ces objets sont rendus descriptibles.
+Ils constituent le cadre général à partir duquel les autres concepts de Protokin peuvent être développés.
 
 ---
 
-# Un déplacement du problème
+# Principe 1 — Primat des conditions descriptives
 
-Traditionnellement, une théorie cherche à expliquer :
+Une description n’apparaît jamais comme une opération isolée.
 
-> Comment est le monde ?
+Elle dépend de conditions qui rendent possible :
 
-Protokin déplace l’attention vers une autre question :
+- son apparition ;
+- son intelligibilité ;
+- son usage ;
+- sa transmission ;
+- sa stabilisation.
 
-> Comment certaines descriptions du monde deviennent-elles possibles ?
+Protokin ne commence donc pas par demander :
 
-L’enjeu n’est donc pas de produire une nouvelle image du réel.
+> Quel objet cette description désigne-t-elle ?
 
-L’enjeu est de comprendre :
+Il demande :
 
-- comment des descriptions apparaissent ;
-- comment elles se stabilisent ;
-- comment elles acquièrent une validité locale ;
-- comment elles produisent des engagements ;
-- comment elles entrent en tension ;
-- comment elles se transforment.
+> Quelles conditions permettent à cette description de fonctionner ?
 
----
+Une description est ainsi toujours considérée dans l’espace qui la rend possible.
 
-# Une métathéorie
+Voir :
 
-Protokin n’est pas :
-
-- une ontologie ;
-- une cosmologie ;
-- une théorie scientifique particulière ;
-- une doctrine politique ;
-- une théorie morale ;
-- une psychologie ;
-- une sociologie.
-
-Il se situe à un autre niveau.
-
-Il constitue une métathéorie.
-
-Autrement dit :
-
-> Une théorie portant sur les conditions de fonctionnement des descriptions elles-mêmes.
-
-Il analyse les régimes descriptifs à partir desquels les objets, les pratiques et les institutions deviennent intelligibles.
+- [Description](description.md)
+- [Supports descriptifs](../02_architecture_conceptuelle/supports_descriptifs.md)
+- [Configurations descriptives](../02_architecture_conceptuelle/configurations.md)
 
 ---
 
-# Le point de départ : les configurations du monde
+# Principe 2 — Non-ontologie
 
-Protokin ne commence pas par des objets déjà constitués.
+Protokin n’affirme pas qu’un régime descriptif particulier révélerait le monde tel qu’il serait indépendamment de toute pratique.
 
-Il commence par ce que l’on appelle le **Content Layer**.
+Il analyse les conditions selon lesquelles certaines descriptions deviennent recevables.
 
-Le Content Layer désigne l’ensemble des configurations du monde susceptibles de devenir descriptibles.
+Aucun régime descriptif n’est considéré comme :
 
-À ce stade :
+- absolu ;
+- universel ;
+- indépendant de toute condition historique ;
+- doté d’un privilège ontologique définitif.
 
-- il n’existe pas encore d’objet identifié ;
-- il n’existe pas encore de catégorie stabilisée ;
-- il n’existe pas encore de description institutionnalisée.
+Cela ne signifie pas que toutes les descriptions se valent.
 
-Il existe seulement des configurations avec lesquelles des organismes et des collectifs interagissent.
+Elles peuvent différer par :
 
----
+- leur puissance descriptive ;
+- leurs critères de justification ;
+- leurs capacités d’inférence ;
+- leurs possibilités de stabilisation.
 
-# Du couplage à la description
+Voir :
 
-Les descriptions n’apparaissent pas immédiatement.
-
-Elles émergent progressivement à travers :
-
-1. des interactions avec un environnement ;
-2. des pratiques de perception et d’action ;
-3. des inscriptions sémiotiques ;
-4. des stabilisations collectives ;
-5. des engagements normatifs.
-
-Cette trajectoire peut être représentée ainsi :
-
-```text
-Configuration
-      ↓
-Perception / Action
-      ↓
-Inscription sémiotique
-      ↓
-Description
-      ↓
-Engagement
-      ↓
-Stabilisation
-```
-
-Les descriptions ne sont donc pas des reflets passifs du monde.
-
-Elles sont le résultat de processus de stabilisation.
+- [Régimes de description](../02_architecture_conceptuelle/regimes.md)
+- [Puissance descriptive](../06_puissance_descriptive/puissance_descriptive.md)
 
 ---
 
-# Les régimes descriptifs
+# Principe 3 — Primat du couplage perception-action
 
-Une même configuration peut être décrite selon différents régimes.
+Toute description suppose une relation préalable entre une configuration et un système capable d’interagir avec elle.
 
-Par exemple :
+Une description n’émerge pas d’un observateur extérieur au monde.
 
-- biologiques ;
-- psychologiques ;
-- économiques ;
+Elle apparaît à partir de :
+
+- perceptions ;
+- actions ;
+- distinctions ;
+- interactions ;
+- inscriptions.
+
+Le rapport au monde est donc d’abord un rapport de couplage.
+
+La description constitue une stabilisation progressive de ce rapport.
+
+Voir :
+
+- [Primat du couplage perception-action](../02_architecture_conceptuelle/primat_perception_action.md)
+- [Configurations sémiotiques](../02_architecture_conceptuelle/configurations_semiotiques.md)
+
+---
+
+# Principe 4 — Structure inférentielle de la description
+
+Une description ne consiste pas seulement à attribuer un terme à quelque chose.
+
+Toute description ouvre un espace de conséquences possibles.
+
+Décrire implique :
+
+- certaines inférences ;
+- certaines attentes ;
+- certaines justifications ;
+- certains engagements.
+
+Comprendre une description revient donc à comprendre ce qu’elle autorise et ce qu’elle oblige à reconnaître.
+
+Voir :
+
+- [Inférences et justifications](../02_architecture_conceptuelle/inferences_justifications.md)
+- [Engagements descriptifs](../02_architecture_conceptuelle/engagements.md)
+- [Locuteur normatif](../02_architecture_conceptuelle/locuteur.md)
+
+---
+
+# Principe 5 — Pluralité des régimes descriptifs
+
+Une même configuration peut devenir intelligible selon plusieurs régimes descriptifs.
+
+Un phénomène peut être décrit selon différentes perspectives :
+
+- scientifiques ;
 - juridiques ;
-- politiques ;
 - historiques ;
-- religieux ;
+- politiques ;
 - techniques ;
-- phénoménologiques.
+- sociales.
 
-Chaque régime :
+Ces régimes ne sont pas simplement des opinions différentes.
 
-- sélectionne certains invariants ;
-- définit des critères de pertinence ;
-- organise des inférences ;
-- établit des normes de justification.
+Ils organisent différemment :
 
-Un régime descriptif n’est donc pas une partie du monde.
+- les objets pertinents ;
+- les critères ;
+- les inférences ;
+- les formes de justification.
 
-Il constitue un cadre permettant à certaines descriptions de devenir recevables.
+L’analyse protokinienne consiste à expliciter ces différences plutôt qu’à les effacer.
 
----
+Voir :
 
-# Les engagements
-
-Décrire n’est jamais neutre.
-
-Toute description produit des engagements.
-
-Lorsqu’un locuteur affirme quelque chose, il devient responsable de certaines conséquences :
-
-- ce qu’il affirme ;
-- ce qu’il doit justifier ;
-- ce qu’il doit reconnaître comme compatible ;
-- ce qu’il doit reconnaître comme incompatible.
-
-Cette idée s’inscrit dans la tradition inférentialiste développée notamment par Sellars et Brandom.
-
-Dans cette perspective :
-
-> Comprendre une description consiste à comprendre les engagements qu’elle implique.
+- [Régimes de description](../02_architecture_conceptuelle/regimes.md)
+- [Cartographie des régimes descriptifs](../02_architecture_conceptuelle/cartographie_regimes_descriptifs.md)
 
 ---
 
-# Les tensions descriptives
+# Principe 6 — Historicité et temporalité des descriptions
 
-Les régimes descriptifs ne sont pas toujours compatibles.
+Une description possède toujours une trajectoire.
 
-Une même situation peut être analysée de façons différentes.
+Elle apparaît dans certaines conditions.
 
-Ces différences peuvent produire :
+Elle peut ensuite :
 
-- des incompatibilités ;
-- des conflits de justification ;
-- des réductions abusives ;
-- des erreurs de catégorie.
+- être reprise ;
+- être transmise ;
+- être institutionnalisée ;
+- être contestée ;
+- être transformée.
 
-Protokin ne cherche pas à éliminer ces tensions.
+Les descriptions ne sont donc pas seulement des structures logiques.
 
-Il cherche à les rendre visibles et analysables.
+Elles possèdent une histoire.
 
----
+Voir :
 
-# Les transformations
-
-Les descriptions ne sont pas fixes.
-
-Elles évoluent au cours du temps.
-
-De nouvelles descriptions apparaissent.
-
-D’anciennes descriptions disparaissent.
-
-Des traductions deviennent possibles.
-
-Des cadres de pensée se transforment.
-
-Protokin étudie ces processus à travers :
-
-- les transitions ;
-- les traductions ;
-- les révisions ;
-- les changements de régime descriptif.
+- [Temporalité](../02_architecture_conceptuelle/temporalite.md)
+- [Stabilisation et effet cliquet](../02_architecture_conceptuelle/stabilisation.md)
+- [Transitions descriptives](../05_transformations/transitions.md)
 
 ---
 
-# Une métathéorie non-ontologique
+# Principe 7 — Stabilisation collective
 
-L’une des caractéristiques fondamentales de Protokin est son refus de faire d’une description particulière le fondement ultime du réel.
+Une description devient durable lorsqu’elle s’inscrit dans des pratiques collectives.
 
-Aucun régime :
+La stabilisation implique :
 
-- n’est absolu ;
-- n’est universel ;
-- n’est fondamental ;
-- ne possède un privilège ontologique définitif.
+- des usages répétés ;
+- des apprentissages ;
+- des institutions ;
+- des critères partagés ;
+- des mécanismes de correction.
 
-Même les descriptions scientifiques les plus puissantes sont analysées comme des régimes descriptifs possédant :
+Une description n’est donc pas seulement conservée parce qu’elle existe.
 
-- leurs critères ;
-- leurs instruments ;
-- leurs pratiques ;
-- leurs engagements.
+Elle est maintenue par un ensemble de pratiques qui la rendent opératoire.
 
-La question centrale n’est donc pas :
+Voir :
 
-> Quelle description correspond au réel en soi ?
-
-Mais :
-
-> Sous quelles conditions une description devient-elle intelligible, recevable et transformable ?
+- [Pratique collective](../02_architecture_conceptuelle/pratique_collective.md)
+- [Communauté de locuteurs](../02_architecture_conceptuelle/communaute_locuteurs.md)
+- [Stabilisation et effet cliquet](../02_architecture_conceptuelle/stabilisation.md)
 
 ---
 
-# Ce que permet Protokin
+# Principe 8 — Réflexivité
 
-Protokin fournit un cadre permettant :
+Toute description peut devenir elle-même un objet d’analyse.
 
-- d’identifier les régimes descriptifs mobilisés dans une situation ;
-- d’analyser leurs critères de validité ;
-- de comprendre leurs engagements ;
-- d’expliciter leurs tensions ;
-- d’évaluer leurs limites ;
-- de comparer leurs puissances descriptives ;
-- d’étudier leurs transformations historiques.
+Protokin applique ce principe à sa propre architecture.
 
-Il constitue ainsi un outil d’analyse applicable à des domaines très différents :
+Il ne se place pas hors de tout régime descriptif.
 
-- sciences ;
-- politique ;
-- droit ;
-- religion ;
-- économie ;
-- histoire ;
-- institutions ;
-- intelligence artificielle ;
-- pratiques ordinaires.
+Ses propres concepts peuvent également être examinés comme des configurations susceptibles d’être analysées, discutées et transformées.
+
+Voir :
+
+- [Réflexivité](../08_reflexivite/reflexivite.md)
+- [Protokin comme objet d’audit](../08_reflexivite/protokin_audit.md)
 
 ---
 
-# Orientation générale du lecteur
+# Synthèse
 
-La lecture de Protokin peut être abordée selon trois niveaux complémentaires.
+Les principes fondamentaux de Protokin peuvent être résumés ainsi :
 
-### Niveau 1 — Comprendre l’architecture
-
-- Architecture générale
-- Content Layer
-- Régimes descriptifs
-- Locuteur normatif
-- Engagements
-
-### Niveau 2 — Comprendre la méthode
-
-- Audit
-- Tensions
-- Réductions
-- Traductions
-- Transitions
-
-### Niveau 3 — Comprendre les applications
-
-- Géocentrisme et héliocentrisme
-- Théorie des humeurs
-- Phlogistique
-- Maladies mentales
-- Changement climatique
-- Intelligence artificielle
-
----
-
-# Formule synthétique
-
-> **Protokin ne cherche pas à décrire le monde.**
+> Une description n’est jamais un simple reflet du monde.
 >
-> **Il analyse les conditions sous lesquelles des descriptions du monde deviennent possibles, recevables, stabilisées, contestées ou transformées au sein de pratiques collectives.**
+> Elle est une configuration stabilisée issue d’un couplage, organisée par des inférences, inscrite dans des pratiques collectives, située dans une trajectoire historique et susceptible d’être transformée.
+
+Ces principes définissent le cadre général à partir duquel Protokin analyse les conditions de possibilité, de validité et de transformation des descriptions.
