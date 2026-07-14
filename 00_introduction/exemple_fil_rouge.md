@@ -1,13 +1,15 @@
-# Exemple fil rouge : « X est Y »
+# Exemple fil rouge : « Cette personne est dangereuse »
 
-## Une même forme grammaticale à travers plusieurs régimes descriptifs
+## Une description à travers la construction progressive d'un objet descriptif
 
 > Voir également :
 >
+> - [Supports descriptifs](../02_architecture_conceptuelle/supports_descriptifs.md)
+> - [Configurations descriptives](../02_architecture_conceptuelle/configurations.md)
+> - [Objets descriptifs : invariants et stabilisations](../02_architecture_conceptuelle/objets_descriptifs.md)
 > - [Régimes de description](../02_architecture_conceptuelle/regimes.md)
 > - [Engagements descriptifs](../02_architecture_conceptuelle/engagements.md)
 > - [Locuteur normatif](../02_architecture_conceptuelle/locuteur.md)
-> - [Pratique collective](../02_architecture_conceptuelle/pratique_collective.md)
 > - [Stabilisation et effet cliquet](../02_architecture_conceptuelle/stabilisation.md)
 > - [Audit Protokin](../03_methode_enquete/audit.md)
 
@@ -15,246 +17,199 @@
 
 # Pourquoi un exemple fil rouge ?
 
-Protokin introduit progressivement de nombreux concepts :
+Protokin introduit progressivement plusieurs concepts :
 
+- support descriptif ;
 - configuration descriptive ;
+- objet descriptif ;
 - régime descriptif ;
-- engagement ;
-- inférence ;
 - locuteur ;
-- pratique collective ;
+- engagement ;
 - stabilisation ;
-- audit ;
-- tension ;
-- transition.
+- audit.
 
 Pris séparément, ces concepts peuvent sembler abstraits.
 
-L’objectif de cette page est de fournir un exemple simple qui pourra être repris dans l’ensemble de la documentation.
+L'objectif de cette page est de fournir un exemple simple permettant de suivre la trajectoire complète d'une description.
 
-Le même énoncé sera observé sous différents angles afin de montrer comment Protokin analyse une description.
+L'exemple choisi est volontairement minimal :
+
+> **Cette personne est dangereuse.**
+
+Cette phrase semble immédiate.
+
+Pourtant, son fonctionnement dépend toujours des conditions dans lesquelles elle apparaît.
 
 ---
 
-# Une phrase minimale
+# 1. Une expression descriptive minimale
 
-Considérons une structure extrêmement simple :
+Considérons l'énoncé :
 
-> **X est Y**
+> Cette personne est dangereuse.
+
+Une lecture spontanée pourrait chercher à déterminer si cette affirmation est vraie ou fausse.
+
+Protokin commence autrement.
+
+La première question n'est pas :
+
+> Cette personne est-elle réellement dangereuse ?
+
+Mais :
+
+> Comment cette description devient-elle possible ?
+
+L'enquête commence par la reconstruction des conditions de fonctionnement de l'énoncé.
+
+Il faut examiner :
+
+- où la description apparaît ;
+- qui la produit ;
+- dans quelle pratique elle intervient ;
+- quelles conséquences elle rend possibles.
+
+---
+
+# 2. Le support descriptif
+
+Une description n'existe jamais indépendamment d'un support.
+
+Elle apparaît toujours dans une forme concrète d'inscription.
 
 Par exemple :
 
-> Cette personne est dangereuse.
+> « Cette personne est dangereuse »
 
-Cette phrase paraît simple.
+peut apparaître dans :
 
-Pourtant, elle peut être utilisée dans des contextes très différents.
+- un dossier médical ;
+- un jugement ;
+- un article de presse ;
+- un rapport administratif ;
+- une conversation ordinaire ;
+- un document politique.
 
-Elle ne possède pas une signification unique indépendante de toute pratique.
+La formulation peut être identique.
 
-Son fonctionnement dépend du régime descriptif dans lequel elle est mobilisée.
+Son fonctionnement descriptif peut cependant changer.
 
----
-
-# Configuration descriptive
-
-À ce stade, Protokin ne cherche pas encore à déterminer si la phrase est vraie ou fausse.
-
-Elle est simplement considérée comme une configuration descriptive.
-
-> Cette personne est dangereuse.
-
-Cette configuration ne précise pas encore :
-
-- ce qui est considéré comme dangereux ;
-- pourquoi cela l’est ;
-- selon quels critères ;
-- pour quelles conséquences.
-
-Elle constitue seulement un point de départ pour l’enquête.
+Le support constitue donc une première condition d'analyse.
 
 ---
 
-# Régimes descriptifs différents
+# 3. La configuration descriptive
 
-La même phrase peut être mobilisée dans plusieurs régimes.
+À partir d'un support, une configuration descriptive peut être reconstruite.
 
-## Régime biologique
+Une configuration correspond à une organisation possible d'une situation rendue descriptible.
+
+Elle implique :
+
+- certaines distinctions ;
+- certaines sélections ;
+- certains rapports entre éléments.
+
+L'énoncé :
 
 > Cette personne est dangereuse.
 
-Peut signifier :
+ne précise pas encore :
 
-- porteuse d’un agent infectieux ;
-- source de contamination ;
-- vecteur de propagation.
+- quel type de danger est en jeu ;
+- selon quel critère ;
+- pour quelle pratique ;
+- avec quelles conséquences.
+
+Il constitue un point de départ pour l'enquête.
+
+---
+
+# 4. La formation d'un objet descriptif
+
+Une description peut contribuer à stabiliser un objet descriptif.
+
+L'objet descriptif n'est pas simplement une chose déjà présente.
+
+Il correspond à une manière stabilisée d'organiser une description.
+
+Selon les contextes, la même formulation peut participer à la construction de différents objets :
+
+- individu à risque ;
+- patient nécessitant une surveillance ;
+- personne juridiquement qualifiée ;
+- adversaire politique ;
+- figure médiatique.
+
+L'objet descriptif apparaît lorsqu'une manière de décrire devient suffisamment stable pour être reprise dans des pratiques collectives.
+
+---
+
+# 5. Les régimes descriptifs
+
+Une même configuration peut être mobilisée dans plusieurs régimes descriptifs.
+
+L'expression :
+
+> Cette personne est dangereuse.
+
+ne produit pas les mêmes inférences selon le régime concerné.
 
 ---
 
 ## Régime médical
 
-> Cette personne est dangereuse.
+La description peut être associée à :
 
-Peut signifier :
-
-- risque élevé de passage à l’acte ;
-- situation clinique critique ;
-- nécessité d’une prise en charge.
+- une évaluation clinique ;
+- un risque identifié ;
+- une procédure de prise en charge.
 
 ---
 
 ## Régime juridique
 
-> Cette personne est dangereuse.
+La description peut être associée à :
 
-Peut signifier :
+- une qualification institutionnelle ;
+- des procédures ;
+- des décisions normatives.
 
-- risque de récidive ;
-- menace pour autrui ;
-- situation juridiquement qualifiée.
+---
+
+## Régime médiatique
+
+La description peut être associée à :
+
+- une narration publique ;
+- une sélection d'événements ;
+- une construction d'image.
 
 ---
 
 ## Régime politique
 
-> Cette personne est dangereuse.
+La description peut être associée à :
 
-Peut signifier :
-
-- menace pour une institution ;
-- acteur considéré comme déstabilisateur ;
-- adversaire perçu comme problématique.
+- une menace institutionnelle ;
+- une opposition ;
+- une stratégie collective.
 
 ---
 
-## Régime moral
+Une même phrase ne possède donc pas un fonctionnement descriptif unique.
 
-> Cette personne est dangereuse.
-
-Peut signifier :
-
-- comportement jugé répréhensible ;
-- atteinte à certaines valeurs ;
-- risque moral pour autrui.
+Elle acquiert sa portée dans un régime donné.
 
 ---
 
-# Les régimes se distinguent par leurs inférences
+# 6. Les locuteurs
 
-Dans Protokin, un régime descriptif n’est pas défini d’abord par des critères.
+Une description est toujours produite par un locuteur.
 
-Il se distingue avant tout par les inférences qu’il rend possibles.
+La question devient :
 
-La question principale devient :
-
-> Que peut-on conclure si cette description est acceptée ?
-
----
-
-## Inférences biologiques
-
-Si :
-
-> Cette personne est dangereuse.
-
-Alors il devient possible d’inférer :
-
-- risque de contamination ;
-- nécessité d’un dépistage ;
-- surveillance sanitaire ;
-- mesures de protection.
-
----
-
-## Inférences juridiques
-
-Si :
-
-> Cette personne est dangereuse.
-
-Alors il devient possible d’inférer :
-
-- surveillance renforcée ;
-- contrôle judiciaire ;
-- mesures de protection ;
-- restriction de certaines actions.
-
----
-
-## Inférences politiques
-
-Si :
-
-> Cette personne est dangereuse.
-
-Alors il devient possible d’inférer :
-
-- exclusion ;
-- opposition ;
-- intervention institutionnelle ;
-- mesures de sécurité.
-
----
-
-# Les engagements descriptifs
-
-Accepter une description implique des engagements.
-
-Le locuteur ne produit pas seulement une phrase.
-
-Il prend position dans un réseau d’inférences.
-
-Affirmer :
-
-> Cette personne est dangereuse.
-
-revient à accepter certaines conséquences et à devoir les justifier.
-
-Les engagements dépendent du régime mobilisé.
-
----
-
-# Les critères viennent ensuite
-
-Une fois les inférences identifiées, une autre question apparaît :
-
-> Qu’est-ce qui autorise ces inférences ?
-
-C’est à ce niveau qu’interviennent les critères.
-
-Par exemple :
-
-## Biologie
-
-- analyses ;
-- observations ;
-- mesures.
-
-## Droit
-
-- jurisprudence ;
-- expertise ;
-- procédures.
-
-## Politique
-
-- doctrines ;
-- évaluations stratégiques ;
-- décisions institutionnelles.
-
-Les critères contrôlent les inférences.
-
-Ils ne les remplacent pas.
-
----
-
-# Le locuteur
-
-La phrase n’existe jamais seule.
-
-Elle est toujours produite par un locuteur.
-
-Or le statut du locuteur modifie souvent la portée de la description.
+> Qui parle, depuis quelle position, et avec quelles responsabilités ?
 
 Comparer :
 
@@ -262,7 +217,7 @@ Comparer :
 >
 > « Cette personne est dangereuse. »
 
-et
+et :
 
 > Un journaliste affirme :
 >
@@ -270,103 +225,202 @@ et
 
 La phrase est identique.
 
-Les engagements et les inférences ne le sont pas nécessairement.
+Cependant :
+
+- les engagements changent ;
+- les justifications attendues changent ;
+- les conséquences possibles changent.
+
+Le locuteur inscrit la description dans un espace normatif.
 
 ---
 
-# Les pratiques collectives
+# 7. Les engagements descriptifs
 
-Les descriptions ne fonctionnent pas dans le vide.
+Décrire n'est jamais seulement produire une phrase.
 
-Elles circulent dans des pratiques collectives.
+Toute description crée des engagements.
 
-Ces pratiques permettent :
-
-- l’apprentissage ;
-- la correction ;
-- la transmission ;
-- la justification.
-
-Elles rendent les inférences partageables entre plusieurs locuteurs.
-
----
-
-# Stabilisation
-
-Certaines descriptions deviennent progressivement plus faciles à mobiliser que d’autres.
-
-Lorsqu’une communauté reprend régulièrement certaines inférences :
-
-- elles sont enseignées ;
-- elles sont institutionnalisées ;
-- elles deviennent familières.
-
-La description acquiert alors une stabilité historique.
-
----
-
-# Effet cliquet
-
-À mesure qu’une description est reprise :
-
-- davantage d’inférences deviennent disponibles ;
-- davantage de justifications sont accumulées ;
-- davantage de pratiques s’organisent autour d’elle.
-
-Le coût de son utilisation diminue.
-
-Inversement, les descriptions concurrentes deviennent plus difficiles à mobiliser.
-
-C’est ce que Protokin appelle l’effet cliquet.
-
----
-
-# Audit de la phrase
-
-L’audit ne demande pas :
-
-> Cette personne est-elle réellement dangereuse ?
-
-Il demande :
-
-> Dans quel régime cette phrase fonctionne-t-elle ?
-
-> Quelles inférences autorise-t-elle ?
-
-> Quels engagements produit-elle ?
-
-> Quels critères permettent de la soutenir ?
-
-> Quelles tensions peut-elle générer ?
-
-L’audit porte sur les conditions de fonctionnement de la description.
-
----
-
-# Ce que montre l’exemple
-
-Une même phrase :
+Affirmer :
 
 > Cette personne est dangereuse.
 
-peut :
+implique notamment de pouvoir répondre :
 
-- appartenir à plusieurs régimes ;
-- produire différentes inférences ;
-- entraîner différents engagements ;
-- mobiliser différents critères ;
-- être stabilisée dans différentes pratiques.
+- Sur quoi cette affirmation repose-t-elle ?
+- Quelles conséquences accepte-t-elle ?
+- Quelles objections doit-elle considérer ?
+- Quelles incompatibilités doit-elle reconnaître ?
 
-La structure grammaticale reste identique.
+Les engagements dépendent toujours du régime dans lequel la description fonctionne.
 
-Le fonctionnement descriptif change.
+---
+
+# 8. Les pratiques collectives
+
+Les descriptions ne circulent jamais seules.
+
+Elles existent dans des pratiques :
+
+- enquêter ;
+- classer ;
+- juger ;
+- soigner ;
+- informer ;
+- administrer ;
+- enseigner.
+
+Ces pratiques rendent possibles :
+
+- la transmission ;
+- la correction ;
+- la critique ;
+- la reproduction.
+
+Une description devient durable lorsqu'elle trouve une place dans des pratiques collectives.
+
+---
+
+# 9. La stabilisation
+
+Certaines descriptions deviennent progressivement plus faciles à utiliser.
+
+Elles peuvent être :
+
+- reprises ;
+- enseignées ;
+- institutionnalisées ;
+- intégrées à des procédures.
+
+La stabilisation ne signifie pas automatiquement qu'une description est vraie.
+
+Elle signifie qu'un ensemble de pratiques permet sa reproduction dans le temps.
+
+---
+
+# 10. L'effet cliquet
+
+Lorsqu'une description est fortement stabilisée, elle peut produire un effet cliquet.
+
+Cela signifie que :
+
+- certaines inférences deviennent disponibles ;
+- certaines pratiques deviennent organisées autour d'elle ;
+- certaines alternatives deviennent plus difficiles à mobiliser.
+
+Une description acquiert alors une inertie historique.
+
+---
+
+# 11. Les tensions descriptives
+
+Une description stabilisée peut néanmoins rencontrer des tensions.
+
+Par exemple :
+
+- plusieurs régimes peuvent produire des descriptions incompatibles ;
+- une catégorie peut être utilisée hors de son domaine initial ;
+- une inférence peut dépasser les critères qui la justifient ;
+- une description peut être réduite abusivement à un autre régime.
+
+Les tensions deviennent alors des points privilégiés d'analyse.
+
+---
+
+# 12. L'audit de la description
+
+L'audit protokinien ne demande pas seulement :
+
+> Cette personne est-elle réellement dangereuse ?
+
+Il examine :
+
+> Dans quel support cette description apparaît-elle ?
+
+> Quelle configuration rend-elle possible ?
+
+> Quel objet descriptif contribue-t-elle à stabiliser ?
+
+> Quel régime la porte ?
+
+> Quel locuteur la produit ?
+
+> Quels engagements implique-t-elle ?
+
+> Quelles pratiques la maintiennent ?
+
+> Quelles tensions rencontre-t-elle ?
+
+---
+
+# 13. Trajectoire générale de l'exemple
+
+```text
+Support descriptif
+
+↓
+
+Configuration descriptive
+
+↓
+
+Objet descriptif
+
+↓
+
+Régime descriptif
+
+↓
+
+Locuteur
+
+↓
+
+Engagements
+
+↓
+
+Pratiques collectives
+
+↓
+
+Stabilisation
+
+↓
+
+Effet cliquet
+
+↓
+
+Tensions éventuelles
+```
+
+---
+
+# Conclusion
+
+L'exemple montre qu'une description ordinaire n'est jamais seulement une phrase.
+
+Elle constitue une trajectoire complète reliant :
+
+- une inscription ;
+- une organisation de la situation ;
+- un objet descriptif ;
+- un régime de justification ;
+- des locuteurs ;
+- des pratiques ;
+- une histoire de stabilisation.
+
+Protokin n'analyse donc pas seulement ce qui est dit.
+
+Il analyse les conditions sous lesquelles une manière de dire devient possible, recevable, durable ou transformable.
 
 ---
 
 # Formule synthétique
 
-> Une même phrase peut circuler dans plusieurs régimes descriptifs.
+> **Une description n'est pas seulement une représentation d'un objet.**
 >
-> Ce qui change n’est pas seulement son interprétation, mais l’ensemble des inférences, des engagements, des critères et des pratiques collectives qui rendent son utilisation possible.
+> **Elle est une trajectoire de stabilisation reliant un support, une configuration, un objet descriptif, un régime, des engagements et des pratiques collectives.**
 >
-> L’enquête protokinienne consiste à expliciter ces différences plutôt qu’à supposer qu’une même forme grammaticale possède partout le même statut descriptif.
+> **L'enquête protokinienne consiste à expliciter cette trajectoire.**
