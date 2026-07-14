@@ -1,292 +1,371 @@
+Voici la version Markdown copiable Docsify avec liens relatifs intégrés et structure prête à placer dans :
+
+06_puissance_descriptive/image_manifeste_scientifique.md
+
 # L'image manifeste et l'image scientifique dans Protokin
 
-## Introduction
+## Deux régimes de stabilisation descriptive
 
-L'une des questions centrales de toute enquête sur les descriptions consiste à comprendre comment plusieurs manières de décrire une même situation peuvent coexister sans être nécessairement incompatibles.
+> Voir également :
+>
+> - [Puissance descriptive](puissance_descriptive.md)
+> - [Image manifeste](image_manifeste.md)
+> - [Image scientifique](image_scientifique.md)
+> - [Régimes de description](../02_architecture_conceptuelle/regimes.md)
+> - [Configurations descriptives](../02_architecture_conceptuelle/configurations.md)
+> - [Objets descriptifs : invariants et stabilisations](../02_architecture_conceptuelle/objets_descriptifs.md)
+> - [Causes et raisons](../02_architecture_conceptuelle/causes_raisons.md)
+> - [Stabilisation et effet cliquet](../02_architecture_conceptuelle/stabilisation.md)
 
-Une personne peut être décrite comme un locuteur responsable, comme un organisme biologique, comme un ensemble de processus neuronaux ou comme une position juridique. Ces descriptions ne mobilisent pas les mêmes concepts, ne poursuivent pas les mêmes finalités et n'engagent pas les mêmes critères d'évaluation au sein de leurs pratiques respectives.
+---
+
+# Introduction
+
+Une même situation peut être décrite selon plusieurs perspectives sans que ces descriptions soient nécessairement incompatibles.
+
+Une personne peut être décrite comme :
+
+- un locuteur responsable ;
+- un organisme biologique ;
+- un ensemble de processus neuronaux ;
+- un individu juridique ;
+- un membre d'une communauté.
+
+Ces descriptions ne mobilisent pas les mêmes concepts, ne répondent pas aux mêmes problèmes et ne reposent pas sur les mêmes critères de correction.
 
 Wilfrid Sellars a proposé de distinguer deux grandes formes d'intelligibilité :
 
 - l'image manifeste (*manifest image*) ;
 - l'image scientifique (*scientific image*).
 
-Cette distinction occupe une place importante dans Protokin car elle permet de comprendre que les conflits descriptifs proviennent souvent d'une confusion ou d'un transfert illégitime entre des régimes de description hétérogènes plutôt que d'une opposition ontologique entre vérité et erreur.
+Dans Protokin, cette distinction n'est pas comprise comme une opposition entre deux mondes.
 
-Dans Protokin, l'image manifeste et l'image scientifique ne sont pas conçues comme deux mondes distincts ni comme deux strates de l'être en concurrence. Elles sont analysées comme deux trajectoires de stabilisation descriptive possédant leurs propres réseaux d'engagements, d'incompatibilités matérielles et de critères de correction. La différence ne se situe pas entre un monde « vrai » et un monde « subjectif », mais entre deux régimes descriptifs qui résolvent des problèmes différents et doivent pouvoir coexister sans être fusionnés ni réduits l’un à l’autre.
+Elle désigne deux trajectoires de stabilisation descriptive.
+
+L'enjeu n'est pas de déterminer laquelle serait « réellement vraie », mais d'analyser :
+
+- les régimes descriptifs qu'elles organisent ;
+- les objets descriptifs qu'elles stabilisent ;
+- les engagements qu'elles rendent possibles ;
+- les pratiques collectives qui les maintiennent.
 
 ---
 
-# 1. Définition générale
+# 1. L'image manifeste
 
-## L'image manifeste
+## Définition
 
-L'image manifeste désigne le cadre descriptif fondamental à partir duquel les locuteurs apprennent initialement à se situer et à s'évaluer les uns les autres au sein de l'espace des raisons.
+L'image manifeste désigne le régime descriptif dans lequel les locuteurs se reconnaissent mutuellement comme agents capables :
 
-Elle comprend notamment :
+- d'agir ;
+- de parler ;
+- de justifier leurs affirmations ;
+- de prendre des engagements ;
+- de répondre de leurs actes.
 
-- les objets perceptibles ordinaires ;
-- les personnes reconnues comme agents normatifs ;
-- les attributions d'intentions, de croyances et d'engagements ;
+Elle constitue l'espace ordinaire dans lequel apparaissent :
+
+- les personnes ;
+- les intentions ;
+- les croyances ;
 - les responsabilités ;
 - les institutions ;
-- les pratiques collectives de justification.
+- les normes sociales.
 
-C'est dans ce cadre que prennent sens des affirmations telles que :
+Elle rend possibles des descriptions telles que :
 
-- « cette table est solide » ;
-- « ce locuteur est engagé par son affirmation » ;
-- « cette promesse doit être tenue ».
+> « Cette personne tient sa promesse. »
 
-L'image manifeste ne constitue ni une illusion subjective ni un simple sens commun préscientifique. Elle constitue le milieu même de l'intentionnalité collective et des pratiques prédicatives sans lesquelles aucune description — y compris scientifique — ne pourrait être articulée, transmise ou justifiée.
+> « Ce locuteur est responsable de son affirmation. »
+
+> « Cette décision doit être justifiée. »
+
+L'image manifeste n'est pas une simple opinion subjective.
+
+Elle constitue un régime descriptif indispensable aux pratiques normatives.
+
+Sans elle, il n'existerait pas de communauté de locuteurs capable de produire, transmettre ou évaluer des descriptions.
 
 ---
 
-## L'image scientifique
+# 2. L'image scientifique
 
-L'image scientifique désigne l'ensemble des configurations descriptives générées par les sciences lorsqu'elles élaborent des postulats théoriques et des modèles explicatifs qui complexifient ou réorganisent l'expérience immédiate. Elle émerge de l’image manifeste et s’appuie sur elle.
+## Définition
+
+L'image scientifique désigne les régimes descriptifs produits par les sciences lorsqu'elles construisent des modèles explicatifs, des instruments de mesure et des réseaux d'inférences spécialisés.
 
 Elle mobilise notamment :
 
-- des entités postulées non directement observables ;
-- des inscriptions matérielles complexes ;
-- des instruments de mesure ;
-- des environnements de laboratoire ;
-- des critères rigoureux de conséquence et d'incompatibilité matérielle.
+- des entités théoriques ;
+- des modèles ;
+- des instruments ;
+- des protocoles expérimentaux ;
+- des procédures de validation.
 
-Elle introduit des descriptions telles que :
+Elle permet de décrire :
 
-- les structures moléculaires ;
-- les processus neurobiologiques ;
-- les interactions de champs physiques ;
-- les mécanismes génétiques ;
-- les modèles cosmologiques.
+- des structures moléculaires ;
+- des processus neurobiologiques ;
+- des mécanismes génétiques ;
+- des interactions physiques ;
+- des phénomènes cosmologiques.
 
-Ces descriptions se stabilisent à travers des niches de pratiques spécialisées où le coût inférentiel d'une révision est soutenu par un réseau d'instruments techniques, de procédures de validation et d'engagements collectifs spécifiques.
+Ces descriptions ne remplacent pas simplement l'expérience ordinaire.
 
-L'image scientifique est principalement (mais pas exclusivement) orientée vers la modélisation des relations causales et des structures de constitution matérielle.
-
----
-
-# 2. Le problème théorique auquel répond cette distinction
-
-La distinction sellarsienne répond à une difficulté récurrente de l'histoire des savoirs, marquée par deux réductions symétriques.
+Elles construisent de nouveaux objets descriptifs stabilisés par des pratiques scientifiques spécifiques.
 
 ---
 
-## Première erreur : le réalisme scientifique naïf ou l'éliminativisme
+# 3. Traduction protokinienne
 
-Cette position décrète que seule l'image scientifique décrit ce qui existe « en réalité », reléguant l'image manifeste au rang d'illusion ou d'approximation commode.
+Dans Protokin, l'image manifeste et l'image scientifique sont analysées comme deux régimes descriptifs.
 
-Selon cette conception, les intentions, les engagements ou les responsabilités ne seraient « en réalité » que des trajectoires neurobiologiques ou des phénomènes physiques.
+Elles ne correspondent pas à deux niveaux de réalité.
 
-Cette réduction commet une erreur de catégorie (sophisme naturaliste, paralogisme). Elle tente d'évaluer des descriptions appartenant à l'image manifeste à l'aide des critères de correction propres à l'image scientifique. Elle détruit ainsi la structure même de l'espace des raisons, puisque des notions comme la responsabilité, la justification ou l'obligation ne possèdent pas d'équivalent direct dans le vocabulaire des sciences physiques – toute traduction y perdrait exactement ce qui fait leur signification normative.
+Elles diffèrent par :
 
----
+- leurs critères de recevabilité ;
+- leurs pratiques de justification ;
+- leurs communautés de locuteurs ;
+- leurs objets descriptifs ;
+- leurs mécanismes de stabilisation.
 
-## Deuxième erreur : l'anti-scientisme
+Leur relation peut être représentée ainsi :
 
-À l'inverse, certaines approches considèrent que seules les descriptions ordinaires possèdent une véritable légitimité et traitent les descriptions scientifiques comme de simples constructions abstraites sans rapport avec le monde.
+```text
+Configuration descriptive
 
-Cette position empêche de comprendre la puissance descriptive propre aux sciences ainsi que leur capacité à réorganiser durablement les pratiques collectives.
+↓
 
----
+Régime manifeste
+        ↘
+         Objets descriptifs
+        ↗
+Régime scientifique
 
-## L'intégration synoptique de Protokin
+↓
 
-Protokin refuse ces deux réductions.
+Engagements
 
-Dans une perspective proche de Sellars, Brandom, Rouse et Hacking, les deux images ne décrivent pas des réalités concurrentes.
+↓
 
-Elles organisent des types différents de pratiques descriptives et de rapports à l'environnement.
+Stabilisations
 
-L'objectif de l'audit n'est donc pas de choisir entre elles mais d'expliciter les conditions de leur articulation.
+↓
 
----
+Effet cliquet
+```
 
-# 3. Traduction dans l'architecture Protokin
-
-Dans Protokin, la distinction est retraduite sous la forme d'une analyse des régimes descriptifs et de leurs conditions de stabilisation.
-
-L'image manifeste et l'image scientifique ne se distinguent pas par une différence de nature entre leurs objets. Elles ne constituent pas deux niveaux de réalité hiérarchisés, mais deux trajectoires de stabilisation descriptive.
-
-Elles se distinguent par :
-
-- les engagements descriptifs qu'elles autorisent ;
-- les réseaux d'inférences qu'elles mobilisent ;
-- les pratiques qui les stabilisent ;
-- les institutions qui les maintiennent ;
-- les coûts inférentiels associés à la transformation de leurs catégories.
-
-Une même situation peut être décrite simultanément au sein de plusieurs régimes.
-
-Les tensions apparaissent lorsque des locuteurs transfèrent des inférences d'un régime à un autre sans expliciter les conditions de cette traduction.
+Une même situation peut donc appartenir simultanément à plusieurs régimes.
 
 ---
 
-# 4. Modèle analytique
+# 4. Le problème des réductions
 
-La coévolution des deux images s'articule autour des pratiques collectives, de la construction de niches scientifiques et des rétroactions techniques et institutionnelles.
-
-L'objectif de l'audit n'est pas de mesurer un écart par rapport à un réel indépendant.
-
-Il consiste à cartographier :
-
-- la puissance descriptive spécifique de chaque régime ;
-- ce qu'une description rend visible ;
-- ce qu'elle laisse hors champ ;
-- les conditions de traduction entre différents régimes ;
-- le coût inférentiel des révisions descriptives.
-
-L’image scientifique dépend conceptuellement de l’image manifeste non seulement parce qu’elle est produite par des pratiques sociales, mais aussi parce que ses concepts (loi, cause, modèle, observation) héritent de la signification qu’ils possèdent dans l’espace ordinaire des raisons.
+La distinction permet d'identifier deux erreurs symétriques.
 
 ---
 
-# 5. Exemple : l'analyse de la responsabilité
+## 4.1 La réduction scientiste
+
+Elle consiste à considérer que seules les descriptions scientifiques seraient réellement valides.
+
+Elle tente alors de réduire :
+
+- la responsabilité ;
+- l'intention ;
+- l'engagement ;
+- la justification ;
+
+à des processus physiques ou biologiques.
+
+Cette réduction confond deux régimes descriptifs.
+
+Elle applique les critères d'un régime causal à des objets appartenant à un régime normatif.
+
+---
+
+## 4.2 La réduction anti-scientifique
+
+À l'inverse, une position anti-scientifique peut considérer que seules les descriptions ordinaires seraient légitimes.
+
+Elle refuse alors la puissance descriptive propre aux sciences.
+
+Elle ignore que les pratiques scientifiques permettent de stabiliser de nouveaux objets, invisibles dans l'expérience immédiate.
+
+---
+
+# 5. Exemple protokinien : la responsabilité
 
 Considérons l'affirmation :
 
-> « Ce locuteur est engagé par sa signature. »
+> « Cette personne est responsable de son acte. »
 
-Dans l'image manifeste, cette description mobilise :
+## Dans l'image manifeste
 
-- des obligations ;
-- des droits ;
-- des justifications ;
-- des critères de reconnaissance mutuelle ;
-- des responsabilités collectives.
+Cette description mobilise :
 
-Sa fonction est de situer le locuteur dans un réseau d'engagements normatifs.
+- une personne ;
+- une intention ;
+- une capacité de justification ;
+- une responsabilité normative ;
+- une communauté de reconnaissance.
+
+L'objet descriptif stabilisé est :
+
+> « un agent responsable ».
 
 ---
 
-La même situation peut être décrite dans l'image scientifique à travers :
+## Dans l'image scientifique
 
-- l'activité neuronale ;
-- les processus cognitifs ;
+La même situation peut être étudiée à travers :
+
+- les processus neuronaux ;
+- les mécanismes cognitifs ;
 - les contraintes biologiques ;
-- les mécanismes moteurs impliqués dans l'action.
+- l'histoire développementale.
 
-Sa fonction est alors d'expliciter des régularités causales.
+L'objet descriptif devient :
 
----
-
-L'erreur consiste à vouloir remplacer une description par l'autre. C’est un paralogisme : décrire les mécanismes neuronaux d’une signature ne dit rien de la validité juridique du contrat ; décrire la validité juridique n’explique rien des mécanismes neuronaux. Les deux descriptions répondent à des questions différentes et s'appuient sur des critères de correction distincts.
+> « un organisme engagé dans certains processus causaux ».
 
 ---
 
-# 6. L'image scientifique comme produit de l'image manifeste
+Ces deux descriptions ne s'annulent pas.
 
-Une idée fondamentale de Sellars, reprise par Brandom, Rouse et Protokin, consiste à rappeler que l'image scientifique n'existe jamais indépendamment des pratiques ordinaires.
+Elles répondent à des questions différentes.
 
-Les scientifiques demeurent des locuteurs engagés dans des communautés de justification.
+Décrire les mécanismes neuronaux d'une action ne détermine pas directement son statut juridique ou moral.
 
-Ils doivent :
+Décrire la responsabilité juridique ne décrit pas les mécanismes biologiques qui rendent l'action possible.
 
-- discuter ;
-- argumenter ;
-- enseigner ;
-- critiquer ;
-- publier ;
-- former des novices ;
-- construire des instruments ;
-- maintenir des institutions.
-
-Autrement dit :
-
-Image manifeste  
-→ pratiques scientifiques  
-→ image scientifique
-
-L'image scientifique constitue une extension spécialisée de pratiques déjà ancrées dans l'espace des raisons. Elle n’hérite pas seulement de ses conditions sociales ; elle dépend aussi conceptuellement de l’image manifeste, car les notions qu’elle emploie (cause, loi, modèle) puisent leur sens ultime dans l’espace ordinaire des raisons.
-
-Elle ne flotte jamais dans un vide conceptuel ou social.
+La tension apparaît lorsque l'un des régimes prétend absorber entièrement l'autre.
 
 ---
 
-# 7. Relations avec les autres dimensions de Protokin
+# 6. Objets descriptifs et stabilisation
 
-## Causes et raisons
+Dans Protokin, la différence entre image manifeste et image scientifique concerne aussi les objets qu'elles stabilisent.
 
-L'image manifeste constitue le milieu principal de l'espace des raisons :
+L'image manifeste stabilise notamment :
 
-- attribution d'engagements ;
-- justification ;
-- responsabilité ;
-- normativité.
+- personnes ;
+- agents ;
+- institutions ;
+- responsabilités ;
+- engagements.
 
-L'image scientifique est principalement orientée vers l'explicitation des relations causales et des structures de constitution matérielle.
+L'image scientifique stabilise notamment :
 
-Cependant, l'activité scientifique elle-même demeure une pratique de l'espace des raisons puisqu'elle implique :
+- cellules ;
+- molécules ;
+- espèces ;
+- mécanismes ;
+- structures physiques.
 
-- des justifications ;
-- des critiques ;
-- des engagements ;
-- des procédures collectives d'évaluation.
+Ces objets ne sont pas simplement découverts.
 
-La distinction entre causes et raisons ne recoupe donc pas exactement la distinction entre image manifeste et image scientifique : la science est une pratique justificative qui mobilise des raisons pour stabiliser des modèles de causes.
+Ils émergent à travers des pratiques de description, de mesure, de justification et de transmission.
 
----
+Un objet descriptif devient durable lorsqu'une communauté de locuteurs dispose des moyens de :
 
-## Ontologie historique
-
-Les catégories de l'image scientifique comme celles de l'image manifeste possèdent une histoire.
-
-L'ontologie historique étudie la manière dont certaines configurations descriptives émergent, se stabilisent, acquièrent un effet cliquet et finissent par transformer durablement les possibilités descriptives disponibles pour les locuteurs.
-
----
-
-## Stabilisation et effet cliquet
-
-L'image scientifique ne s'impose pas parce qu'elle révélerait une essence cachée du réel.
-
-Elle se stabilise lorsqu'un ensemble de pratiques, d'instruments, d'institutions et de communautés de locuteurs rendent certaines descriptions plus facilement mobilisables que d'autres.
+- le reconnaître ;
+- l'utiliser ;
+- le transmettre ;
+- corriger les erreurs associées.
 
 ---
 
-## Réductions et éclectisme
+# 7. Relation avec causes et raisons
 
-L'audit identifie deux tensions fréquentes :
+La distinction entre image manifeste et image scientifique ne correspond pas exactement à la distinction entre causes et raisons.
 
-- la réduction, qui cherche à dissoudre un régime dans un autre ;
-- l'éclectisme, qui mélange des concepts issus de régimes distincts sans expliciter leurs conditions de compatibilité.
+L'image scientifique analyse principalement :
+
+- les mécanismes ;
+- les relations causales ;
+- les structures matérielles.
+
+L'image manifeste organise principalement :
+
+- les engagements ;
+- les justifications ;
+- les responsabilités.
+
+Cependant, la science elle-même appartient à l'espace des raisons.
+
+Les scientifiques :
+
+- argumentent ;
+- critiquent ;
+- publient ;
+- forment des communautés ;
+- évaluent des hypothèses.
+
+La science est donc une pratique normative produisant des descriptions causales.
 
 ---
 
-# 8. Limites et vigilance protokinienne
+# 8. Puissance descriptive
 
-L'audit protokinien maintient une attention stricte sur la portée des descriptions.
+Protokin ne demande pas :
 
-Il refuse :
+> « Quelle image est la vraie image du monde ? »
 
-- le scientisme qui oublie les conditions normatives de possibilité de la science ;
-- l'anti-scientisme qui ignore la puissance descriptive acquise par les pratiques scientifiques.
+Il demande :
 
-Aucune description n'est évaluée dans l'absolu.
+> « Quelle puissance descriptive possède chaque régime ? »
 
-Elle est toujours examinée relativement :
+Cette puissance dépend de :
 
-- au régime auquel elle appartient ;
-- aux pratiques qui la stabilisent ;
-- aux engagements qu'elle implique ;
-- aux problèmes qu'elle permet ou non de résoudre.
+- ce qu'une description rend visible ;
+- ce qu'elle permet d'expliquer ;
+- les pratiques qu'elle rend possibles ;
+- les problèmes qu'elle permet de résoudre ;
+- son coût de révision.
 
-La distinction ne postule pas deux mondes ou deux substances ; elle cartographie deux régimes de discours dont les normes de correction sont distinctes. Protokin protège ainsi le pluralisme descriptif sans renoncer à l’exigence de rigueur.
+Une description scientifique peut être plus puissante pour certains problèmes.
+
+Une description manifeste peut être indispensable pour d'autres.
+
+---
+
+# 9. Audit protokinien
+
+L'audit examine donc :
+
+- les conditions d'apparition d'un régime descriptif ;
+- les objets qu'il stabilise ;
+- les engagements qu'il produit ;
+- les limites de son application ;
+- les possibilités de traduction avec d'autres régimes.
+
+L'objectif n'est ni la réduction ni la séparation absolue.
+
+Il est de comprendre les relations entre différents espaces d'intelligibilité.
 
 ---
 
 # Conclusion
 
-La distinction entre image manifeste et image scientifique permet de comprendre que les conflits descriptifs ne sont pas nécessairement des conflits entre le vrai et le faux.
+La distinction entre image manifeste et image scientifique fournit à Protokin un outil essentiel pour analyser la pluralité descriptive.
 
-Ils sont souvent des conflits entre des régimes d'intelligibilité distincts.
+Elle montre que les conflits ne proviennent pas toujours d'une opposition entre vérité et erreur.
 
-Son apport à Protokin est de fournir un cadre permettant d'analyser simultanément :
+Ils peuvent provenir d'une confusion entre des régimes descriptifs différents.
 
-- les pratiques ordinaires ;
-- les pratiques scientifiques ;
-- leurs articulations ;
+L'image manifeste et l'image scientifique ne décrivent pas deux mondes séparés.
+
+Elles constituent deux manières historiquement stabilisées de rendre un domaine intelligible.
+
+Protokin cherche à analyser :
+
+- leurs conditions d'émergence ;
+- leurs objets descriptifs ;
+- leurs engagements ;
+- leurs stabilisations ;
 - leurs tensions ;
 - leurs possibilités de traduction.
 
-L'objectif n'est pas de choisir entre les deux images mais de comprendre comment elles participent ensemble à la constitution historique des espaces descriptifs dans lesquels les locuteurs agissent, justifient leurs engagements, transforment leurs pratiques et reconfigurent progressivement les conditions mêmes de ce qui peut être décrit. Elles ne décrivent pas des réalités séparées, mais coexistent comme des régimes complémentaires d’intelligibilité.
+> Une description n'est jamais seulement une représentation du monde : elle est une manière stabilisée de rendre quelque chose descriptible.
