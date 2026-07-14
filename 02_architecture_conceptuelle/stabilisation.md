@@ -272,12 +272,3 @@ Il représente une relation fonctionnelle entre plusieurs dimensions de l’anal
 > Asymétrie produite par une trajectoire de stabilisation qui modifie progressivement le coût relatif de maintien, de transformation ou d’abandon d’une configuration descriptive.
 
 ---
-
-## Navigation
-
-- [Content Layer](content_layer.md)
-- [Engagements descriptifs](engagements.md)
-- [Pratique collective](pratique_collective.md)
-- [Locuteur normatif](locuteur.md)
-- [Régimes de description](regimes.md)
-- [Transitions](../05_transformations/transitions.md)
