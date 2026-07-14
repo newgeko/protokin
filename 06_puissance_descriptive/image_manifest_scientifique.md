@@ -1,7 +1,3 @@
-Voici la version Markdown copiable Docsify avec liens relatifs intégrés et structure prête à placer dans :
-
-06_puissance_descriptive/image_manifeste_scientifique.md
-
 # L'image manifeste et l'image scientifique dans Protokin
 
 ## Deux régimes de stabilisation descriptive
@@ -63,7 +59,7 @@ L'image manifeste désigne le régime descriptif dans lequel les locuteurs se re
 - de prendre des engagements ;
 - de répondre de leurs actes.
 
-Elle constitue l'espace ordinaire dans lequel apparaissent :
+Elle constitue l'espace dans lequel apparaissent :
 
 - les personnes ;
 - les intentions ;
@@ -76,7 +72,7 @@ Elle rend possibles des descriptions telles que :
 
 > « Cette personne tient sa promesse. »
 
-> « Ce locuteur est responsable de son affirmation. »
+> « Ce locuteur est engagé par son affirmation. »
 
 > « Cette décision doit être justifiée. »
 
@@ -113,6 +109,34 @@ Elle permet de décrire :
 Ces descriptions ne remplacent pas simplement l'expérience ordinaire.
 
 Elles construisent de nouveaux objets descriptifs stabilisés par des pratiques scientifiques spécifiques.
+
+---
+
+## Dépendance conceptuelle de l'image scientifique
+
+L'image scientifique n'existe cependant jamais indépendamment de l'image manifeste.
+
+Elle émerge de pratiques déjà inscrites dans l'espace des raisons :
+
+- des locuteurs observent ;
+- argumentent ;
+- critiquent ;
+- transmettent ;
+- évaluent des descriptions.
+
+Les concepts scientifiques eux-mêmes — tels que :
+
+- cause ;
+- loi ;
+- modèle ;
+- observation ;
+- preuve ;
+
+héritent leur intelligibilité de pratiques ordinaires de justification dont ils constituent une transformation spécialisée.
+
+L'image scientifique est donc une extension réflexive de capacités descriptives déjà présentes dans l'image manifeste.
+
+Elle ne flotte jamais dans un espace purement extérieur aux pratiques humaines de description.
 
 ---
 
@@ -158,6 +182,8 @@ Effet cliquet
 
 Une même situation peut donc appartenir simultanément à plusieurs régimes.
 
+La difficulté apparaît lorsque des locuteurs transfèrent les critères d'un régime vers un autre sans expliciter les conditions de traduction.
+
 ---
 
 # 4. Le problème des réductions
@@ -166,9 +192,9 @@ La distinction permet d'identifier deux erreurs symétriques.
 
 ---
 
-## 4.1 La réduction scientiste
+# 4.1 La réduction scientiste
 
-Elle consiste à considérer que seules les descriptions scientifiques seraient réellement valides.
+La réduction scientiste considère que seules les descriptions scientifiques seraient réellement valides.
 
 Elle tente alors de réduire :
 
@@ -179,19 +205,25 @@ Elle tente alors de réduire :
 
 à des processus physiques ou biologiques.
 
-Cette réduction confond deux régimes descriptifs.
+Cette réduction commet un paralogisme.
 
-Elle applique les critères d'un régime causal à des objets appartenant à un régime normatif.
+Elle applique les critères de correction d'un régime causal à des objets appartenant à un régime normatif.
+
+Elle transforme une différence de fonction descriptive en une hiérarchie ontologique.
+
+Ainsi :
+
+> Décrire les mécanismes neuronaux d'une action ne suffit pas à épuiser les concepts de responsabilité, d'engagement ou de justification.
 
 ---
 
-## 4.2 La réduction anti-scientifique
+# 4.2 La réduction anti-scientifique
 
 À l'inverse, une position anti-scientifique peut considérer que seules les descriptions ordinaires seraient légitimes.
 
 Elle refuse alors la puissance descriptive propre aux sciences.
 
-Elle ignore que les pratiques scientifiques permettent de stabiliser de nouveaux objets, invisibles dans l'expérience immédiate.
+Elle ignore que les pratiques scientifiques permettent de stabiliser de nouveaux objets descriptifs, invisibles dans l'expérience immédiate.
 
 ---
 
@@ -200,6 +232,8 @@ Elle ignore que les pratiques scientifiques permettent de stabiliser de nouveaux
 Considérons l'affirmation :
 
 > « Cette personne est responsable de son acte. »
+
+---
 
 ## Dans l'image manifeste
 
@@ -293,7 +327,9 @@ L'image manifeste organise principalement :
 - les justifications ;
 - les responsabilités.
 
-Cependant, la science elle-même appartient à l'espace des raisons.
+Cependant, les deux régimes ne sont pas étanches.
+
+La science elle-même appartient à l'espace des raisons.
 
 Les scientifiques :
 
@@ -303,7 +339,15 @@ Les scientifiques :
 - forment des communautés ;
 - évaluent des hypothèses.
 
-La science est donc une pratique normative produisant des descriptions causales.
+La science est donc une pratique normative qui mobilise des raisons pour stabiliser des modèles de causes.
+
+Elle produit simultanément :
+
+- des descriptions causales ;
+- des procédures de justification ;
+- des critères collectifs de correction.
+
+La production scientifique appartient ainsi à l'espace des raisons tout en visant principalement l'explicitation de relations causales.
 
 ---
 
@@ -333,7 +377,7 @@ Une description manifeste peut être indispensable pour d'autres.
 
 # 9. Audit protokinien
 
-L'audit examine donc :
+L'audit examine :
 
 - les conditions d'apparition d'un régime descriptif ;
 - les objets qu'il stabilise ;
