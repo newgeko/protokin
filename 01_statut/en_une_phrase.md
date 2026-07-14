@@ -1,24 +1,32 @@
 # Protokin en une phrase
 
-> **Protokin est une métathéorie pragmatiste, inférentialiste et non-ontologique qui étudie les conditions sous lesquelles des contenus deviennent des descriptions intelligibles, recevables et transformables dans des pratiques de justification.**
+> **Protokin est une métathéorie pragmatiste, inférentialiste et non-ontologique qui analyse les conditions sous lesquelles des contenus deviennent des descriptions intelligibles, recevables et transformables au sein de pratiques collectives.**
 
 ---
 
-## Que signifie cette phrase ?
+# Que signifie cette formulation ?
 
-Cette formulation résume le mouvement général de Protokin :
+Cette phrase résume le déplacement fondamental opéré par Protokin.
 
-**passer de l'étude des objets décrits à l'étude des conditions qui rendent possibles les descriptions.**
+Il ne s'agit pas d'étudier uniquement les objets décrits.
 
-Protokin ne cherche pas à produire une nouvelle théorie du monde.
+Il s'agit d'étudier les conditions qui permettent qu'une configuration puisse devenir une description.
 
-Il cherche à comprendre comment un monde devient descriptible pour des locuteurs engagés dans des pratiques de perception, d'action, d'interprétation et de justification.
+La question centrale n'est donc pas seulement :
+
+> « Qu'est-ce qu'un objet ? »
+
+Mais :
+
+> « Sous quelles conditions quelque chose peut-il devenir descriptible ? »
 
 ---
 
-# Une métathéorie des descriptions
+# Une métathéorie
 
-Protokin ne décrit pas directement :
+Protokin n'est pas une théorie particulière portant sur un domaine du monde.
+
+Il ne cherche pas à expliquer directement :
 
 - la matière ;
 - le vivant ;
@@ -26,25 +34,11 @@ Protokin ne décrit pas directement :
 - la pensée ;
 - les institutions.
 
-Ces domaines possèdent déjà leurs propres régimes descriptifs.
+Ces domaines possèdent déjà leurs propres descriptions.
 
-Protokin analyse les conditions qui permettent à ces différents régimes de fonctionner.
+Protokin analyse les conditions générales qui permettent à ces descriptions de fonctionner.
 
-Son objet est :
-
-- la formation des descriptions ;
-- leur stabilisation ;
-- leurs critères de recevabilité ;
-- leurs tensions ;
-- leurs transformations.
-
-Il ne cherche donc pas à répondre directement à la question :
-
-> « Qu'est-ce qui existe ? »
-
-mais plutôt :
-
-> « Dans quelles conditions quelque chose peut-il devenir descriptible comme existant ? »
+Il porte donc sur les structures de possibilité des descriptions elles-mêmes.
 
 ---
 
@@ -54,102 +48,88 @@ Protokin considère les descriptions comme des pratiques situées.
 
 Une description n'est pas seulement une représentation d'un état du monde.
 
-Elle est aussi une manière d'organiser :
+Elle apparaît dans des relations entre :
 
-- des perceptions ;
-- des actions ;
-- des attentes ;
-- des classifications ;
-- des formes de justification.
+- des configurations ;
+- des organismes ;
+- des pratiques ;
+- des usages collectifs.
 
-Une description possède donc une dimension pratique et normative.
+Une description possède ainsi une dimension pratique : elle permet d'agir, de distinguer, de comparer et d'organiser l'expérience.
 
-Elle engage celui qui l'utilise dans un réseau de conséquences et de responsabilités.
+Voir :
+
+- [Description](../00_introduction/description.md)
+- [Primat du couplage perception-action](../02_architecture_conceptuelle/primat_perception_action.md)
 
 ---
 
 # Une approche inférentialiste
 
-Dans la continuité de Sellars et Brandom, Protokin considère que le sens d'une description dépend de sa place dans un réseau d'inférences.
+Une description n'est pas isolée.
 
-Comprendre une description revient à examiner :
+Elle prend place dans un réseau d'inférences et d'engagements.
+
+Comprendre une description consiste à examiner :
 
 - ce qu'elle permet d'affirmer ;
-- ce qu'elle interdit ;
 - quelles conséquences elle entraîne ;
-- quelles raisons peuvent la soutenir ou la contester.
+- quelles justifications peuvent la soutenir ;
+- quelles objections peuvent la contester.
 
-Une description n'existe donc jamais isolément.
+Voir :
 
-Elle appartient à un espace d'engagements et de justifications.
+- [Engagements descriptifs](../02_architecture_conceptuelle/engagements.md)
+- [Inférences et justifications](../02_architecture_conceptuelle/inferences_justifications.md)
 
 ---
 
 # Une approche non-ontologique
 
-Protokin ne propose pas une ontologie concurrente.
+Protokin ne propose pas une nouvelle image du réel.
 
-Il ne prétend pas révéler la structure ultime du réel.
+Il ne cherche pas à remplacer les descriptions existantes par une description ultime.
 
-Les régimes descriptifs ne sont pas considérés comme des couches du monde ou des niveaux d'existence.
+Il analyse les régimes descriptifs selon :
 
-Ils sont des organisations historiques et pratiques des conditions d'intelligibilité.
+- leurs conditions d'apparition ;
+- leurs critères de validité ;
+- leurs formes d'inférence ;
+- leurs possibilités de transformation.
 
-Un régime descriptif définit :
+Un régime descriptif n'est donc pas une partie du monde.
 
-- un vocabulaire ;
-- des objets pertinents ;
-- des critères de correction ;
-- des formes d'inférence ;
-- des possibilités d'intervention.
+Il est une organisation des conditions selon lesquelles quelque chose devient intelligible.
 
----
+Voir :
 
-# Le rôle du locuteur
-
-Toute description suppose un participant capable de l'assumer.
-
-Protokin introduit donc la figure du **locuteur normatif**.
-
-Un locuteur n'est pas seulement un organisme produisant des informations.
-
-Il est capable :
-
-- de prendre position ;
-- de répondre de ses affirmations ;
-- de reconnaître des erreurs ;
-- de modifier ses engagements.
-
-Le locuteur constitue ainsi le point de passage entre :
-
-- l'espace des causes ;
-- l'espace des raisons.
+- [Régimes de description](../02_architecture_conceptuelle/regimes.md)
 
 ---
 
-# Le mouvement fondamental de Protokin
+# Le rôle central des pratiques collectives
 
-La thèse directrice peut être formulée ainsi :
+Les descriptions ne fonctionnent jamais isolément.
 
-> **Un régime descriptif ne décrit pas simplement le monde ; il définit les conditions sous lesquelles quelque chose devient descriptible, identifiable et transformable.**
+Elles existent dans des pratiques où elles peuvent être :
 
-Protokin étudie donc le mouvement :
+- utilisées ;
+- transmises ;
+- justifiées ;
+- corrigées ;
+- transformées.
 
-**du monde comme événement  
-→ aux configurations descriptives  
-→ aux engagements des locuteurs  
-→ aux transformations des régimes de description.**
+Elles acquièrent ainsi une stabilité historique.
+
+Voir :
+
+- [Pratique collective](../02_architecture_conceptuelle/pratique_collective.md)
+- [Stabilisation et effet cliquet](../02_architecture_conceptuelle/stabilisation.md)
 
 ---
 
-# En bref
+# Formule synthétique
 
-Protokin est une architecture d'analyse des conditions de possibilité des descriptions.
-
-Il étudie comment des locuteurs produisent, stabilisent, contestent et transforment des manières de rendre le monde intelligible.
-
-Son objet n'est pas seulement ce qui est décrit.
-
-Son objet est :
-
-> **le mouvement par lequel des descriptions deviennent possibles.**
+> **Protokin n'analyse pas seulement ce qui est décrit.**
+>
+> **Il étudie les conditions sous lesquelles des descriptions deviennent possibles, recevables, stabilisées et transformables dans des pratiques collectives.**
