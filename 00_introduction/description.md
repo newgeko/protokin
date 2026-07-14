@@ -1,137 +1,161 @@
-La description dans Protokin
+# La description dans Protokin
 
-Introduction
+## Introduction
 
-Le terme « description » occupe une place centrale dans Protokin.
+Le terme **description** occupe une place centrale dans Protokin.
 
-Cependant, il ne désigne pas simplement une phrase qui attribue une propriété à un objet, ni une représentation mentale ou linguistique d'un monde déjà constitué.
+Cependant, il ne désigne pas simplement une phrase qui attribue une propriété à un objet déjà constitué.
 
-Dans son usage courant, une description semble être une opération simple :
+Il ne désigne pas non plus une représentation mentale ou linguistique qui viendrait simplement reproduire un monde indépendant.
 
-«« Le vélo est rouge. »»
+Dans Protokin, une description désigne une opération par laquelle quelque chose devient identifiable, articulable et discutable au sein d’une pratique.
 
-Un objet est identifié, une propriété lui est attribuée, et l'énoncé paraît correspondre à un état de choses.
+La question centrale n’est donc pas seulement :
 
-Protokin ne nie pas cette dimension ordinaire de la description.
+> Que décrit une description ?
 
-Mais il déplace la question.
+Mais :
 
-Il ne demande pas seulement :
-
-«Que décrit un énoncé ?»
-
-Il demande :
-
-«Dans quelles conditions une description peut-elle devenir possible, intelligible et stabilisée ?»
+> Sous quelles conditions une description devient-elle possible ?
 
 ---
 
-La description comme opération ordinaire
+# La description comme opération
 
-Dans la vie quotidienne, décrire consiste souvent à appliquer un vocabulaire à quelque chose.
+Dans l’usage courant, décrire semble être une opération simple.
+
+Par exemple :
+
+> Le vélo est rouge.
+
+Cette phrase paraît seulement associer :
+
+- un objet ;
+- une propriété.
+
+Pourtant, son fonctionnement suppose déjà plusieurs conditions :
+
+- qu’un objet puisse être identifié comme un vélo ;
+- qu’une distinction entre différentes couleurs soit disponible ;
+- qu’un usage du terme « rouge » soit partagé ;
+- que des critères permettent de confirmer ou de contester l’énoncé.
+
+Même une description ordinaire repose donc sur un ensemble de pratiques préalables.
+
+Elle n’apparaît jamais comme une simple correspondance entre un mot et une chose.
+
+---
+
+# Sortir du modèle de la représentation
+
+Une conception classique peut être résumée ainsi :
+
+Monde → Perception → Représentation → Langage
+
+Dans ce modèle, la description viendrait nommer une réalité déjà organisée.
+
+Protokin déplace cette perspective.
+
+Il ne commence pas par un monde déjà découpé en objets.
+
+Il examine les conditions par lesquelles certaines distinctions deviennent disponibles et permettent l’apparition d’objets descriptibles.
+
+La description n’est donc pas seulement une représentation.
+
+Elle est une manière de rendre quelque chose accessible dans un espace de pratiques.
+
+---
+
+# Décrire implique des distinctions
+
+Une description n’est jamais composée de termes isolés.
+
+Chaque terme appartient à un réseau de différences et de relations.
 
 Dire :
 
-«« Le vélo est rouge »»
+> C’est un vélo.
 
-semble consister à reconnaître un objet et à lui attribuer une caractéristique.
+implique déjà des distinctions :
 
-Cette opération est indispensable dans les pratiques humaines.
+- vélo / automobile ;
+- objet / environnement ;
+- transport / loisir ;
+- outil / machine.
 
-Les descriptions permettent d'identifier, de communiquer, de comparer et d'agir.
+Dire :
 
-Cependant, cette simplicité apparente repose déjà sur de nombreuses conditions.
+> Il est rouge.
 
-Pour qu'un énoncé comme « le vélo est rouge » soit compréhensible, il faut déjà disposer :
+implique également :
 
-- d'une manière d'identifier un objet comme un vélo ;
-- d'une distinction entre différentes propriétés perceptibles ;
-- d'un usage stabilisé du terme « rouge » ;
-- de critères permettant de discuter ou de corriger l'énoncé.
+- des critères de reconnaissance ;
+- des comparaisons possibles ;
+- des corrections envisageables.
 
-La description n'apparaît donc jamais comme une simple application mécanique d'un vocabulaire.
-
----
-
-Sortir du modèle représentatif
-
-Une conception classique pourrait être formulée ainsi :
-
-Monde → perception → représentation → langage
-
-Dans ce modèle, le langage viendrait nommer ou représenter une réalité déjà organisée.
-
-Protokin ne part pas de cette séparation.
-
-Il considère que toute description apparaît déjà dans un espace de distinctions, de relations et de pratiques qui rendent certaines formulations possibles.
-
-Le problème n'est donc pas seulement la correspondance entre un énoncé et un objet.
-
-Il concerne les conditions sous lesquelles quelque chose peut apparaître comme un objet descriptible.
+Une description fonctionne donc toujours dans un espace de relations.
 
 ---
 
-Décrire n'est pas seulement nommer
+# La description comme unité d’analyse
 
-Un vocabulaire n'est jamais une simple collection de mots.
+Pour Protokin, une description constitue un point de départ pour l’enquête.
 
-Chaque terme implique des possibilités d'usage, des différences pertinentes et des relations avec d'autres termes.
+Elle permet d’examiner :
 
-Le mot « vélo » ne désigne pas seulement une forme matérielle.
+- les distinctions qu’elle mobilise ;
+- les inférences qu’elle autorise ;
+- les engagements qu’elle produit ;
+- les pratiques dans lesquelles elle fonctionne.
 
-Il appartient à un ensemble de distinctions :
+L’objectif n’est pas d’abord de déterminer si une description correspond ou non à une réalité indépendante.
 
-- vélo / moto ;
-- objet / outil ;
-- moyen de transport / loisir ;
-- véhicule / machine.
-
-De même, « rouge » n'est pas seulement une sensation isolée.
-
-Son usage implique des critères de reconnaissance, de comparaison et de correction.
-
-Ainsi, même une description élémentaire s'inscrit déjà dans un réseau de relations.
+L’objectif est de comprendre comment elle devient opératoire.
 
 ---
 
-La description comme point de départ de l'enquête
+# Description et conditions de possibilité
 
-Protokin ne considère donc pas la description comme une représentation passive du monde.
+Une description devient possible lorsqu’un ensemble de conditions permet :
 
-Il l'aborde comme un point d'entrée permettant d'analyser les conditions qui rendent cette description possible.
+- son apprentissage ;
+- son usage ;
+- sa transmission ;
+- sa correction ;
+- sa transformation.
 
-Une description devient alors un indice permettant d'étudier :
+Ces conditions peuvent concerner :
 
-- les distinctions mobilisées ;
-- les relations entre descriptions ;
-- les conditions de stabilisation ;
-- les transformations possibles.
+- des perceptions ;
+- des signes ;
+- des pratiques collectives ;
+- des institutions ;
+- des formes de justification.
 
-L'analyse ne porte pas uniquement sur ce qui est dit.
-
-Elle porte sur l'espace dans lequel quelque chose peut être dit.
-
----
-
-La fonction de Protokin
-
-Protokin ne cherche pas à remplacer les descriptions ordinaires par une nouvelle description du monde.
-
-Il cherche à analyser les conditions selon lesquelles des descriptions deviennent :
-
-- intelligibles ;
-- justifiables ;
-- partageables ;
-- transformables.
-
-La description n'est donc pas un objet isolé de l'analyse.
-
-Elle constitue le point de départ à partir duquel Protokin examine les configurations descriptives dans lesquelles les pratiques humaines produisent du sens.
+Elles seront étudiées dans les différentes composantes de l’architecture Protokin.
 
 ---
 
-Voir aussi
+# Fonction de la page
 
-- "Principes fondamentaux" (principes.md)
-- "Configurations descriptives" (../02_architecture_conceptuelle/configurations.md)
-- "Régimes de description" (../02_architecture_conceptuelle/regimes.md)
+Cette page établit le sens général du terme **description** dans Protokin.
+
+Elle ne développe pas encore :
+
+- les configurations dans lesquelles les descriptions apparaissent ;
+- les supports qui permettent leur inscription ;
+- les niveaux selon lesquels elles peuvent être analysées ;
+- les régimes qui organisent leur validité ;
+- les processus de stabilisation.
+
+Ces dimensions sont étudiées dans les pages suivantes.
+
+---
+
+# Voir aussi
+
+- [Principes fondamentaux](principes.md)
+- [Configurations descriptives](../02_architecture_conceptuelle/configurations.md)
+- [Supports descriptifs](../02_architecture_conceptuelle/supports_descriptifs.md)
+- [Niveaux descriptifs](../02_architecture_conceptuelle/niveaux_descriptifs.md)
+- [Régimes de description](../02_architecture_conceptuelle/regimes.md)
