@@ -1,388 +1,217 @@
+Voici la version réécrite de statut.md en respectant la séparation fonctionnelle des pages.
+La page établit uniquement le statut du projet Protokin : nature, niveau d’analyse, orientation générale, limites et positionnement.
+Elle ne développe pas les concepts qui appartiennent aux pages spécialisées.
+
 # Statut du projet Protokin
 
-> **Protokin est une architecture métathéorique pragmatiste, inférentialiste et non ontologique analysant les conditions causales, normatives et inférentielles sous lesquelles des contenus deviennent des descriptions intelligibles, recevables et transformables dans des pratiques de justification.**
->
-> Il étudie les conditions sous lesquelles des descriptions peuvent être stabilisées, contestées et révisées par des locuteurs engagés dans des espaces de raisons.
+> **Protokin est une architecture métathéorique pragmatiste, inférentialiste et non ontologique qui étudie les conditions sous lesquelles des contenus deviennent des descriptions intelligibles, recevables et transformables dans des pratiques collectives de justification.**
 
 ---
 
-# 1. Nature générale
+# 1. Nature générale du projet
 
 Protokin constitue une architecture d’analyse de second ordre.
 
-Il ne cherche pas à décrire directement les objets du monde indépendamment de toute pratique descriptive.
+Il ne cherche pas à décrire directement les objets du monde indépendamment des pratiques qui permettent de les identifier, de les qualifier et de les discuter.
 
-Il examine les conditions sous lesquelles quelque chose peut devenir un objet descriptible dans un régime donné.
+Son objet n’est pas un domaine particulier du réel.
 
-Protokin ne constitue :
+Il porte sur les conditions générales qui rendent possibles des descriptions :
 
-- ni une théorie générale du monde ;
-- ni une ontologie concurrente des sciences ;
-- ni un système explicatif de premier ordre ;
-- ni une hiérarchie absolue des formes de connaissance.
+- leur apparition ;
+- leur intelligibilité ;
+- leur recevabilité ;
+- leur transformation.
 
-Il ne cherche donc pas à déterminer :
+Protokin ne demande donc pas seulement :
 
-> « Ce qui existe indépendamment de toute description. »
+> « Qu’est-ce qu’un objet ? »
 
-Son objet est différent :
+Il examine une question préalable :
 
-> **Les conditions sous lesquelles des contenus deviennent descriptibles, justifiables et stabilisables dans des pratiques de description et de justification.**
-
-Protokin analyse également comment un système appartenant initialement à un espace causal peut devenir capable de participer à un espace normatif de raisons.
-
-Voir :
-
-- [Index du projet](../index.md)
-- [Architecture générale](../02_architecture_conceptuelle/architecture.md)
-- [Du vivant causal au locuteur normatif](../02_architecture_conceptuelle/locuteur.md)
+> **Sous quelles conditions quelque chose peut-il devenir un objet descriptible dans une pratique donnée ?**
 
 ---
 
-# 2. Position métathéorique
+# 2. Statut métathéorique
 
-Protokin se situe au niveau de l’analyse des pratiques de description et de justification.
+Protokin appartient au niveau de l’analyse des descriptions.
 
-Il ne produit pas une nouvelle description du monde venant remplacer les descriptions existantes.
+Il ne constitue pas :
 
-Il cherche à reconstruire les conditions qui permettent à une description :
+- une théorie scientifique particulière ;
+- une ontologie concurrente ;
+- une cosmologie ;
+- une doctrine morale ;
+- une théorie politique ;
+- une explication totale du monde.
 
-- d’acquérir une intelligibilité ;
-- d’être maintenue dans une pratique donnée ;
-- d’être évaluée selon certains critères ;
-- d’entrer en relation avec d’autres descriptions ;
-- d’être transformée lorsque ses conditions de stabilisation deviennent insuffisantes.
+Il ne cherche pas à remplacer les descriptions produites par les différentes disciplines.
 
-L’objet de Protokin n’est donc pas seulement le contenu particulier d’une théorie.
-
-Il concerne la structure :
-
-- normative ;
-- inférentielle ;
-- pragmatique ;
-
-qui rend ce contenu descriptif possible.
+Il cherche à analyser les conditions générales selon lesquelles ces descriptions peuvent fonctionner comme descriptions.
 
 Voir :
 
 - [Architecture générale](../02_architecture_conceptuelle/architecture.md)
-- [Régimes de description](../02_architecture_conceptuelle/regimes.md)
 
 ---
 
-# 3. Position pragmatiste
+# 3. Orientation pragmatiste
 
-Protokin s’inscrit dans une orientation pragmatiste.
+Protokin adopte une orientation pragmatiste.
 
-Les descriptions ne sont pas considérées comme des copies passives d’un monde déjà constitué.
+Une description n’est pas considérée uniquement comme une représentation d’un objet déjà constitué.
 
-Elles sont comprises comme des pratiques d’engagement permettant :
+Elle est également comprise comme une pratique située dans laquelle des locuteurs :
 
-- d’identifier des objets pertinents ;
-- d’organiser des distinctions ;
-- de résoudre des problèmes ;
-- de coordonner des actions ;
-- de soutenir des formes de justification.
+- identifient ;
+- distinguent ;
+- organisent ;
+- évaluent ;
+- transforment des descriptions.
 
-Une description possède donc un sens à travers les pratiques dans lesquelles elle fonctionne.
-
-Un régime descriptif peut ainsi être compris comme :
-
-> **Une organisation de contraintes conceptuelles, normatives et inférentielles stabilisant certaines formes d’intelligibilité.**
-
-Voir :
-
-- [Régimes de description](../02_architecture_conceptuelle/regimes.md)
-- [Engagements descriptifs](../02_architecture_conceptuelle/engagements.md)
-
----
-
-# 4. Position inférentialiste
-
-Protokin adopte une conception inférentialiste du contenu conceptuel.
-
-Dans la continuité de Wilfrid Sellars et Robert Brandom, comprendre une description consiste à examiner son rôle dans un réseau d’engagements et d’inférences.
-
-Une description implique :
-
-- des conséquences acceptées ;
-- des inférences autorisées ;
-- des incompatibilités reconnues ;
-- des responsabilités discursives.
-
-Le contenu descriptif ne réside donc pas seulement dans un énoncé isolé.
-
-Il dépend de sa place dans un espace de raisons.
+Le sens d’une description dépend ainsi des pratiques dans lesquelles elle possède une fonction.
 
 Voir :
 
 - [Engagements descriptifs](../02_architecture_conceptuelle/engagements.md)
-- [Causes et raisons](../02_architecture_conceptuelle/causes_raisons.md)
+- [Pratique collective](../02_architecture_conceptuelle/pratique_collective.md)
+
+---
+
+# 4. Orientation inférentialiste
+
+Protokin adopte une orientation inférentialiste concernant le fonctionnement des descriptions.
+
+Une description n’est pas analysée comme une unité isolée.
+
+Elle est comprise à partir des relations qu’elle entretient avec :
+
+- d’autres descriptions ;
+- des possibilités d’inférence ;
+- des conditions de justification ;
+- des possibilités de critique.
+
+Cette orientation inscrit Protokin dans une tradition issue notamment des travaux de Sellars et Brandom.
+
+Voir :
+
+- [Inférences et justifications](../02_architecture_conceptuelle/inferences_justifications.md)
 
 ---
 
 # 5. Position non ontologique
 
-Protokin n’est pas une ontologie.
+Protokin ne propose pas une théorie de ce que le monde serait indépendamment de toute description.
 
 Il ne cherche pas à établir :
 
-- les structures fondamentales du réel ;
-- une classification ultime des êtres ;
-- une hiérarchie absolue entre différents niveaux d’existence.
+- une structure ultime du réel ;
+- une classification définitive des êtres ;
+- une hiérarchie absolue des descriptions.
 
-Il suspend méthodologiquement la question :
+Il suspend cette question afin d’étudier les conditions de descriptibilité.
 
-> « Qu’est-ce qui existe indépendamment de toute description ? »
+Son interrogation centrale devient :
 
-afin d’examiner une autre question :
-
-> **Sous quelles conditions quelque chose devient-il un objet descriptible, justifiable et stabilisable dans une pratique donnée ?**
-
-Les régimes descriptifs ne correspondent donc pas à des parties du réel.
-
-Ils constituent des cadres normatifs d’intelligibilité.
+> **Comment des descriptions peuvent-elles devenir possibles, recevables et transformables dans des pratiques déterminées ?**
 
 Voir :
 
-- [Architecture générale](../02_architecture_conceptuelle/architecture.md)
 - [Régimes de description](../02_architecture_conceptuelle/regimes.md)
 
 ---
 
-# 6. Distinction centrale : PROTO, KIN et espaces des causes et des raisons
+# 6. Positionnement général de l’enquête
 
-Protokin maintient une distinction fondamentale entre deux dimensions d’analyse.
+Protokin étudie l’articulation entre plusieurs dimensions nécessaires à l’analyse des descriptions.
 
-Cette distinction ne correspond pas à deux mondes séparés.
+Ces dimensions concernent notamment :
 
-Elle décrit deux modalités différentes d’un même phénomène.
+- les conditions matérielles et causales d’émergence ;
+- les conditions normatives de justification ;
+- les pratiques collectives dans lesquelles les descriptions circulent.
 
----
+Ces dimensions ne constituent pas des objets séparés.
 
-## 6.1 PROTO — Espace des causes
-
-PROTO désigne la dimension causale.
-
-Elle concerne :
-
-- les processus physiques ;
-- les dynamiques biologiques ;
-- les contraintes matérielles ;
-- les régulations ;
-- les conditions d’émergence.
-
-PROTO répond principalement à la question :
-
-> « Comment un phénomène advient-il ? »
-
----
-
-## 6.2 KIN — Espace des raisons
-
-KIN désigne la dimension normative.
-
-Elle concerne :
-
-- les engagements ;
-- les justifications ;
-- les critiques ;
-- les révisions ;
-- les responsabilités discursives.
-
-KIN répond principalement à la question :
-
-> « Comment une description peut-elle être soutenue ou contestée ? »
-
----
-
-Le problème central de Protokin devient alors :
-
-> **Comment un système appartenant à l’espace des causes peut-il devenir un participant dans un espace de raisons ?**
-
-Cette transition correspond au passage :
-
-- de l’organisme causal ;
-- au locuteur normatif.
+Elles indiquent différents aspects nécessaires pour comprendre comment une description peut fonctionner.
 
 Voir :
 
 - [Causes et raisons](../02_architecture_conceptuelle/causes_raisons.md)
-- [Du vivant causal au locuteur normatif](../02_architecture_conceptuelle/locuteur.md)
+- [Locuteur normatif](../02_architecture_conceptuelle/locuteur.md)
 
 ---
 
-# 7. Statut des régimes de description
+# 7. Statut des concepts protokiniens
 
-Les régimes de description constituent des cadres de contraintes permettant de déterminer :
+Les concepts utilisés par Protokin ne sont pas considérés comme des entités indépendantes découvertes dans le monde.
 
-- ce qui compte comme objet ;
-- ce qui compte comme preuve ;
-- ce qui compte comme justification ;
-- quelles inférences sont recevables ;
-- quelles limites internes existent.
+Ils constituent des instruments d’analyse.
 
-Un régime n’est pas :
+Ils permettent d’examiner :
 
-- une entité du monde ;
-- un niveau ontologique ;
-- une théorie complète ;
-- un mécanisme explicatif.
+- les conditions de formation des descriptions ;
+- les relations entre différents cadres descriptifs ;
+- les possibilités de stabilisation et de transformation.
 
-Il constitue une structure fonctionnelle permettant d’analyser les conditions de stabilisation d’une description.
+Ces concepts restent eux-mêmes soumis au principe réflexif du projet.
 
 Voir :
 
-- [Régimes de description](../02_architecture_conceptuelle/regimes.md)
-- [Validité](../05_transformations/validite.md)
+- [Réflexivité](../08_reflexivite/reflexivite.md)
 
 ---
 
-# 8. Statut des tensions, transitions et limites
-
-Les tensions, transitions et limites ne désignent pas des objets autonomes.
-
-Elles correspondent à des fonctions analytiques permettant d’examiner les transformations possibles des descriptions.
-
-## Les tensions
-
-Elles désignent les situations dans lesquelles plusieurs engagements ou critères deviennent difficiles à maintenir simultanément.
-
-Voir :
-
-- [Tensions](../04_diagnostics/tensions.md)
-
----
-
-## Les transitions
-
-Elles désignent les reconfigurations des conditions permettant à une description de retrouver une stabilité.
-
-Voir :
-
-- [Transitions](../05_transformations/transitions.md)
-
----
-
-## Les limites
-
-Elles désignent les situations dans lesquelles aucune stabilisation suffisante n’est actuellement disponible.
-
-Voir :
-
-- [Limites de stabilisation](../05_transformations/limites.md)
-
----
-
-# 9. Statut des fonctions analytiques
-
-Les concepts de Protokin ne sont pas des entités autonomes.
-
-Ils ne décrivent pas des mécanismes cachés du monde.
-
-Ils constituent des fonctions d’analyse permettant d’examiner les pratiques descriptives.
-
-Ces fonctions comprennent notamment :
-
-- l’identification des régimes mobilisés ;
-- l’analyse des engagements associés ;
-- l’étude des critères de validité ;
-- l’examen des tensions ;
-- l’analyse des possibilités de traduction ;
-- l’étude des transformations possibles.
-
-Ces fonctions ne produisent pas elles-mêmes les transformations.
-
-Elles rendent explicites les conditions sous lesquelles une transformation descriptive peut devenir intelligible.
-
-Voir :
-
-- [Analyse](../03_methode_enquete/analyse.md)
-- [Audit](../03_methode_enquete/audit.md)
-- [Traductions entre régimes](../05_transformations/traductions.md)
-
----
-
-# 10. Limites du projet
+# 8. Limites du projet
 
 Protokin ne cherche pas à produire :
 
-- une ontologie générale ;
 - une théorie unifiée du réel ;
-- une explication causale totale ;
-- une méthode universelle remplaçant les sciences particulières.
+- une méthode remplaçant les sciences particulières ;
+- une description définitive du monde ;
+- une hiérarchie générale des connaissances.
 
 Sa fonction est métathéorique.
 
-Elle consiste à expliciter :
-
-- les conditions de formation des descriptions ;
-- leurs conditions de justification ;
-- leurs relations avec d’autres régimes ;
-- leurs possibilités de transformation.
+Elle consiste à analyser les conditions selon lesquelles différentes descriptions peuvent devenir intelligibles, discutables et transformables.
 
 ---
 
-# 11. Résumé du statut
+# 9. Résumé du statut
 
 ## Protokin est :
 
 - une architecture métathéorique ;
-- une analyse pragmatiste des pratiques descriptives ;
-- une reconstruction inférentialiste des engagements ;
-- une étude des régimes de justification ;
-- une analyse non ontologique des conditions de descriptibilité ;
-- une enquête sur le passage entre espace des causes et espace des raisons.
+- une analyse des conditions de descriptibilité ;
+- une approche pragmatiste des pratiques descriptives ;
+- une approche inférentialiste des engagements ;
+- une démarche non ontologique.
 
 ## Protokin n’est pas :
 
-- une théorie du monde ;
 - une ontologie ;
-- un système explicatif global ;
-- une hiérarchie absolue des connaissances.
+- une théorie particulière du monde ;
+- une explication causale totale ;
+- un système philosophique fermé.
 
 ---
 
-# 12. Principe réflexif
+# Formule synthétique
 
-Protokin applique à ses propres concepts le principe qu’il applique aux autres descriptions.
-
-Ses catégories :
-
-- peuvent être révisées ;
-- peuvent être transformées ;
-- doivent rester des fonctions d’analyse.
-
-Aucun concept ne doit être considéré comme une entité indépendante de la pratique d’enquête qui lui donne son rôle.
-
-Voir :
-
-- [Réflexivité du dispositif](../06_reflexivite/reflexivite.md)
-
----
-
-# Formule de clôture
-
-> **Protokin ne porte pas sur ce que le monde serait indépendamment de toute description.**
+> **Protokin ne cherche pas à déterminer ce que le monde est indépendamment de toute description.**
 >
-> **Il porte sur les conditions dans lesquelles des organismes devenant locuteurs peuvent produire, soutenir, contester et transformer des descriptions dans des espaces de raisons.**
+> **Il étudie les conditions sous lesquelles des descriptions deviennent possibles, recevables, stabilisées et transformables au sein de pratiques collectives de justification.**
 
 ---
 
 ## Navigation
 
-- [Protokin — Nom et orientation](protokin.md)
 - [En une phrase](en_une_phrase.md)
-- [Index](../index.md)
-- [Architecture](../02_architecture_conceptuelle/architecture.md)
-- [Régimes](../02_architecture_conceptuelle/regimes.md)
-- [Engagements](../02_architecture_conceptuelle/engagements.md)
+- [Nom, origine et statut conceptuel](protokin.md)
+- [Architecture générale](../02_architecture_conceptuelle/architecture.md)
+- [Régimes de description](../02_architecture_conceptuelle/regimes.md)
+- [Engagements descriptifs](../02_architecture_conceptuelle/engagements.md)
 - [Causes et raisons](../02_architecture_conceptuelle/causes_raisons.md)
 - [Locuteur normatif](../02_architecture_conceptuelle/locuteur.md)
-- [Analyse](../03_methode_enquete/analyse.md)
-- [Audit](../03_methode_enquete/audit.md)
-- [Tensions](../04_diagnostics/tensions.md)
-- [Transitions](../05_transformations/transitions.md)
-- [Validité](../05_transformations/validite.md)
-- [Limites](../05_transformations/limites.md)
-- [Réflexivité](../06_reflexivite/reflexivite.md)
+- [Réflexivité](../08_reflexivite/reflexivite.md)
