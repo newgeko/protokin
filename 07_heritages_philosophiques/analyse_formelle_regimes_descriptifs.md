@@ -192,4 +192,58 @@ Elle est :
 
 > Régime analytique  
 > ↓  
-> Formal
+> Formalisation des descriptions  
+> ↓  
+> Analyse protokinienne des conditions de possibilité de cette formalisation
+
+---
+
+# 8. Une approche non réductionniste
+
+Protokin ne soutient pas que toutes les descriptions se valent.
+
+Il ne remplace pas la validité par un relativisme général.
+
+Chaque régime descriptif possède :
+
+- ses critères ;
+- ses contraintes ;
+- ses formes de justification ;
+- ses puissances spécifiques.
+
+La question devient alors comparative :
+
+> Quelle puissance descriptive un régime permet-il dans une situation donnée ?
+
+La supériorité d'une description n'est pas réduite à une correspondance abstraite avec un réel indépendant.
+
+Elle dépend également de sa capacité :
+
+- à intégrer des contraintes ;
+- à produire des inférences fiables ;
+- à résister aux objections ;
+- à permettre des transformations fécondes.
+
+---
+
+# Conclusion
+
+La contribution de Protokin n'est pas d'opposer une nouvelle théorie aux théories existantes.
+
+Elle consiste à rendre visibles les conditions sous lesquelles différentes puissances descriptives deviennent possibles.
+
+La rationalité analytique apparaît alors comme une réalisation historique particulièrement puissante d'un régime descriptif fondé sur la formalisation.
+
+Protokin ne demande pas :
+
+> L'analyse formelle décrit-elle le monde véritablement ?
+
+Il demande :
+
+> Quelles conditions permettent à l'analyse formelle de produire des descriptions stabilisées, transmissibles et efficaces ?
+
+---
+
+# Formule synthétique
+
+> **Un régime descriptif ne se définit pas seulement par ce qu'il décrit, mais par les conditions qui rendent ses descriptions possibles, justifiables et transformables.**
