@@ -1,357 +1,251 @@
-# Limites — échec, ouverture et conditions d’une stabilisation descriptive
+# Limites internes
 
-> Ce fichier analyse la fonction des limites dans l’architecture Protokin.
+## Le point où une configuration descriptive atteint ses ressources disponibles
+
+> Cette page établit la fonction conceptuelle des limites internes dans Protokin.
 >
-> Il répond à une question centrale :
+> Elle ne décrit pas les tensions, les transitions ou les critères de validité eux-mêmes.
 >
-> **Que signifie l’échec d’une stabilisation descriptive et comment une limite devient-elle un objet d’enquête ?**
+> Elle analyse uniquement le moment où une configuration descriptive ne dispose plus de ressources suffisantes pour poursuivre sa stabilisation dans son cadre actuel.
 
 ---
 
-# 1. Fonction générale des limites dans Protokin
+## Introduction
 
-Dans Protokin, une limite désigne une situation dans laquelle les conditions disponibles ne permettent plus de stabiliser complètement une description dans une pratique donnée.
+Dans Protokin, une limite interne désigne une situation dans laquelle une configuration descriptive rencontre une insuffisance de ses propres ressources d’organisation.
 
 Une limite n’est pas :
 
-- une absence totale de connaissance ;
-- une impossibilité définitive ;
-- une erreur simple de raisonnement ;
-- une frontière ontologique du réel.
+- une frontière du réel ;
+- une absence définitive de connaissance ;
+- une simple erreur logique ;
+- une impossibilité absolue.
 
-Elle désigne une situation où les ressources descriptives disponibles ne permettent pas actuellement de maintenir une cohérence suffisante entre :
+Elle correspond à un point où une configuration ne parvient plus à maintenir pleinement les conditions qui rendaient son fonctionnement possible.
 
-- les critères de pertinence ;
-- les engagements associés ;
-- les formes de justification ;
-- les conséquences inférentielles.
+La limite devient alors un objet d’enquête.
 
-La limite constitue donc une condition d’enquête.
-
-Elle indique un point où une description rencontre ses propres conditions de fonctionnement.
+Elle indique qu’une description doit être examinée à partir de ses propres conditions d’organisation.
 
 Voir :
 
-- [architecture.md](architecture.md)
-- [audit.md](audit.md)
+- [Configurations descriptives](../02_architecture_conceptuelle/configurations.md)
+- [Audit Protokin](../03_methode_enquete/audit.md)
 
 ---
 
-# 2. Statut conceptuel de la limite
+# 1. Fonction générale de la limite interne
 
-Une limite n’est pas une entité.
+Une limite interne répond à une question spécifique :
 
-Elle ne correspond pas à une chose située dans le monde.
+> Jusqu’où une configuration descriptive peut-elle fonctionner avec ses propres ressources ?
 
-Elle désigne une relation entre :
+Une configuration possède toujours :
+
+- des distinctions utilisées ;
+- des engagements associés ;
+- des formes d’organisation ;
+- des possibilités d’application.
+
+Une limite apparaît lorsque ces ressources ne permettent plus de maintenir une organisation descriptive suffisante.
+
+Elle ne désigne donc pas l’échec d’une description en général.
+
+Elle désigne une difficulté située dans un cadre descriptif déterminé.
+
+---
+
+# 2. Limite et configuration descriptive
+
+Une limite interne concerne toujours une configuration particulière.
+
+Elle ne porte pas directement sur :
+
+- le monde en lui-même ;
+- toutes les descriptions possibles ;
+- toute forme de connaissance.
+
+Elle concerne la relation entre :
 
 - une configuration descriptive ;
-- un régime mobilisé ;
-- des engagements assumés ;
-- une situation problématique.
+- ses propres ressources ;
+- les situations auxquelles elle cherche à s’appliquer.
 
-Dans Protokin, une limite est donc une fonction analytique.
+Une limite permet ainsi d’identifier :
 
-Elle permet d’identifier :
-
-- ce qu’un régime permet de stabiliser ;
-- ce qu’il ne permet plus de maintenir ;
-- quelles transformations deviennent envisageables.
-
----
-
-# 3. Limite et stabilisation descriptive
-
-Une description est stabilisée lorsqu’elle maintient une cohérence suffisante dans une pratique donnée.
-
-Cette stabilisation repose notamment sur :
-
-- des critères de validité reconnus ;
-- des inférences acceptées ;
-- des engagements compatibles ;
-- des usages stabilisés.
-
-Une limite apparaît lorsque cette stabilisation devient fragile.
-
-Cela peut se produire lorsque :
-
-- les exceptions deviennent trop nombreuses ;
-- les concepts utilisés perdent leur précision ;
-- les engagements deviennent incompatibles ;
-- les critères de justification cessent d’être suffisants.
-
-La limite n’est donc pas nécessairement une destruction du régime.
-
-Elle peut constituer un signal de transformation possible.
+- ce qu’une configuration permet encore de maintenir ;
+- ce qu’elle ne permet plus d’organiser ;
+- les domaines où une enquête supplémentaire devient nécessaire.
 
 Voir :
 
-- [regimes.md](regimes.md)
-- [validite.md](validite.md)
+- [Configurations descriptives](../02_architecture_conceptuelle/configurations.md)
 
 ---
 
-# 4. Les formes de limites
+# 3. Limite et conditions de fonctionnement
 
-## 4.1 Limite interne
+Une description fonctionne toujours selon certaines conditions.
 
-Une limite interne apparaît lorsqu’un régime rencontre une difficulté provenant de ses propres conditions de fonctionnement.
+Ces conditions peuvent concerner :
 
-Elle peut concerner :
+- les distinctions mobilisées ;
+- les usages établis ;
+- les engagements possibles ;
+- les formes d’application.
 
-- ses concepts fondamentaux ;
-- ses critères de preuve ;
-- ses formes d’inférence ;
-- ses engagements internes.
+Une limite interne apparaît lorsque ces conditions deviennent insuffisantes pour préserver la cohérence pratique d’une configuration.
 
-Le régime atteint alors un point où ses propres ressources deviennent insuffisantes.
+Elle ne signifie pas que la configuration disparaît.
 
-Cette limite peut conduire à :
+Elle signifie qu’une réorganisation devient nécessaire pour poursuivre son fonctionnement.
 
-- une révision interne ;
-- une modification conceptuelle ;
-- une transition.
+---
+
+# 4. Limite et diagnostic
+
+La limite constitue un résultat d’analyse.
+
+Elle n’est pas supposée avant l’enquête.
+
+Son identification nécessite d’examiner :
+
+- la configuration étudiée ;
+- les conditions dans lesquelles elle fonctionne ;
+- les difficultés rencontrées ;
+- les ressources encore disponibles.
+
+La limite permet alors de distinguer :
+
+- une difficulté locale ;
+- une insuffisance structurelle ;
+- une nécessité de transformation.
 
 Voir :
 
-- [transitions.md](transitions.md)
+- [Audit Protokin](../03_methode_enquete/audit.md)
 
 ---
 
-## 4.2 Limite inter-régimes
+# 5. Limite interne et autres diagnostics
 
-Une limite inter-régimes apparaît lorsque plusieurs régimes ne peuvent être articulés sans perte importante.
+La limite interne possède une fonction distincte des autres diagnostics Protokin.
 
-Elle concerne notamment :
+## Limite et tension
 
-- les conflits de critères ;
-- les différences de justification ;
-- les incompatibilités d’engagements.
+Une tension décrit une difficulté relationnelle entre plusieurs éléments descriptifs.
 
-Cette limite ne signifie pas qu’un régime doit être éliminé.
-
-Elle indique que certaines relations entre descriptions ne peuvent pas être établies sans transformation préalable.
+Une limite interne concerne l’insuffisance des ressources propres d’une configuration.
 
 Voir :
 
-- [tensions.md](tensions.md)
-- [traductions.md](traductions.md)
+- [Tensions entre régimes](tensions.md)
 
 ---
 
-## 4.3 Limite de traduction
+## Limite et réduction
 
-Une limite de traduction apparaît lorsque deux régimes ne disposent pas actuellement de ressources suffisantes pour construire un passage contrôlé entre leurs engagements.
+Une limite ne signifie pas qu’une autre description doit automatiquement remplacer la précédente.
 
-Elle peut concerner :
-
-- les concepts employés ;
-- les critères de validité ;
-- les finalités descriptives ;
-- les formes d’inférence.
-
-Cette limite indique une difficulté d’articulation.
-
-Elle ne signifie pas nécessairement une incompatibilité définitive.
+Elle ne justifie pas une réduction d’un régime à un autre.
 
 Voir :
 
-- [traductions.md](traductions.md)
+- [Réductions descriptives](reductions.md)
 
 ---
 
-# 5. Limite et échec
+## Limite et éclectisme
 
-Dans Protokin, l’échec d’une stabilisation n’est pas compris comme une simple erreur.
+Une limite ne doit pas conduire à une combinaison arbitraire de plusieurs descriptions.
 
-Une description peut échouer parce que :
-
-- ses catégories deviennent insuffisantes ;
-- ses engagements deviennent contradictoires ;
-- son régime d’application ne correspond plus à la configuration ;
-- ses critères ne permettent plus une justification acceptable.
-
-L’échec devient alors une information analytique.
-
-Il révèle les conditions auxquelles une description pouvait fonctionner.
-
----
-
-# 6. Limite et DELTA
-
-Le concept de **DELTA** désigne dans Protokin une situation où une stabilisation complète ne peut être obtenue dans l’état actuel des ressources descriptives.
-
-DELTA n’est pas :
-
-- une absence de solution définitive ;
-- une contradiction absolue ;
-- un abandon de l’enquête.
-
-Il correspond à une suspension analytique.
-
-Il indique que :
-
-- plusieurs engagements restent pertinents ;
-- aucune articulation satisfaisante n’est encore disponible ;
-- une transformation future demeure possible.
-
-DELTA conserve donc le problème ouvert.
-
----
-
-# 7. Limite et transformation
-
-Une limite peut devenir le point de départ d’une transition.
-
-Cependant, toute limite ne conduit pas automatiquement à une transformation réussie.
-
-Plusieurs possibilités existent :
-
-## Maintien
-
-Le régime conserve sa stabilité malgré la difficulté rencontrée.
-
-## Adaptation locale
-
-Le régime modifie certains éléments sans transformation générale.
-
-## Transition
-
-Une nouvelle organisation descriptive devient nécessaire.
-
-## Suspension
-
-Aucune nouvelle stabilisation suffisante n’est actuellement disponible.
+Toute articulation entre régimes doit conserver leurs contraintes propres.
 
 Voir :
 
-- [transitions.md](transitions.md)
+- [Éclectisme descriptif](eclectisme.md)
 
 ---
 
-# 8. Limite et absence de réduction
+# 6. Limite et transformation
 
-Une limite ne doit pas être interprétée comme une invitation à réduire un régime à un autre.
+Une limite peut ouvrir plusieurs possibilités :
 
-Lorsqu’une description rencontre une difficulté, il ne s’ensuit pas automatiquement qu’un autre régime fournit une explication supérieure.
+- maintien provisoire ;
+- modification locale ;
+- réorganisation plus profonde ;
+- nouvelle orientation descriptive.
 
-La réduction peut masquer :
+Cependant, la limite ne détermine pas à elle seule la forme d’une transformation.
 
-- la spécificité du problème initial ;
-- les engagements propres au régime ;
-- les critères qui rendaient la description pertinente.
-
-Une limite doit donc être analysée avant toute tentative de remplacement.
+Elle indique seulement qu’une configuration rencontre une insuffisance nécessitant une enquête supplémentaire.
 
 Voir :
 
-- [reductions.md](reductions.md)
+- [Transitions descriptives](../05_transformations/transitions.md)
 
 ---
 
-# 9. Limite et absence d’éclectisme
+# 7. Limite et réflexivité
 
-Face à une limite, une autre dérive consiste à mélanger plusieurs régimes afin de produire artificiellement une solution.
+La notion de limite s’applique également aux propres descriptions produites par Protokin.
 
-Cette stratégie risque de produire :
+Toute architecture descriptive peut rencontrer :
 
-- des analogies non contrôlées ;
-- des transferts conceptuels abusifs ;
-- une confusion des critères de justification.
+- des difficultés internes ;
+- des concepts insuffisamment adaptés ;
+- des relations encore indéterminées.
 
-La reconnaissance d’une limite exige donc une analyse rigoureuse des conditions de passage.
+La reconnaissance d’une limite constitue donc une condition de réflexivité.
 
 Voir :
 
-- [eclectisme.md](eclectisme.md)
+- [Réflexivité](../08_reflexivite/reflexivite.md)
 
 ---
 
-# 10. La limite dans le processus d’audit
+# 8. Fonction dans l’architecture Protokin
 
-Dans l’audit protokinien, l’identification d’une limite intervient après plusieurs opérations :
+Dans l’architecture générale, la limite intervient comme un indicateur des conditions de transformation possibles.
 
-1. Analyse de la configuration descriptive.
+Elle se situe dans la relation :
 
-2. Identification des régimes mobilisés.
+Configuration descriptive
 
-3. Analyse des engagements.
+↓
 
-4. Détection des tensions.
+Fonctionnement dans un cadre donné
 
-5. Évaluation des possibilités de transformation.
+↓
 
-6. Identification d’une limite éventuelle.
+Insuffisance des ressources disponibles
 
-La limite constitue donc un résultat d’enquête.
+↓
 
-Elle n’est pas présupposée avant l’analyse.
+Enquête complémentaire
 
-Voir :
+↓
 
-- [audit.md](audit.md)
-- [analyse.md](analyse.md)
+Possibilité de transformation
 
----
+La limite ne constitue pas un nouvel état.
 
-# 11. Limite et validité
-
-Une limite modifie la manière dont une description peut être évaluée.
-
-Elle ne signifie pas automatiquement que la description est fausse.
-
-Une description peut rester valide dans certaines conditions tout en rencontrant une limite dans d’autres.
-
-La question devient alors :
-
-> Dans quelles conditions cette description conserve-t-elle sa capacité de justification ?
-
-La limite conduit donc à préciser :
-
-- le domaine d’application ;
-- les critères pertinents ;
-- les engagements maintenables.
-
-Voir :
-
-- [validite.md](validite.md)
+Elle constitue un point d’analyse.
 
 ---
 
-# 12. Principe central
+# Définition protokinienne
 
-> **Une limite protokinienne n’est pas une frontière du réel.**
+> **Limite interne**
 >
-> **Elle désigne le point où les conditions disponibles de stabilisation descriptive deviennent insuffisantes et nécessitent une nouvelle enquête.**
-
----
-
-# Conclusion
-
-Dans Protokin, les limites constituent des indicateurs essentiels de l’état d’une description.
-
-Elles permettent d’identifier :
-
-- les insuffisances internes d’un régime ;
-- les difficultés de traduction entre régimes ;
-- les conflits persistants d’engagements ;
-- les possibilités ou impossibilités provisoires de transformation.
-
-Une limite n’est donc pas un échec final.
-
-Elle constitue une information sur les conditions mêmes qui rendent une description possible.
-
-Elle maintient ouverte la dynamique centrale de Protokin :
-
-- stabiliser ;
-- diagnostiquer les tensions ;
-- transformer lorsque cela est possible ;
-- reconnaître les situations où aucune nouvelle stabilisation n’est encore disponible.
+> Situation dans laquelle une configuration descriptive ne dispose plus de ressources suffisantes pour maintenir son fonctionnement dans les conditions où elle était jusqu’alors stabilisée.
+>
+> Elle ne désigne pas une frontière du réel, mais un point où les conditions d’organisation d’une description deviennent elles-mêmes l’objet d’une enquête.
 
 ---
 
 # Formule synthétique
 
-**Une limite protokinienne n’est pas ce qui arrête la description.**
-
-**C’est ce qui révèle les conditions auxquelles une description peut continuer à devenir intelligible, justifiable et transformable.**
+> **Une limite protokinienne n’arrête pas une description.**
+>
+> **Elle révèle le point où une description doit examiner ses propres conditions de fonctionnement.**
