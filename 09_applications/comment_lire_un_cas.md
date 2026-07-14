@@ -1,23 +1,23 @@
-Comment lire un cas avec Protokin
+# Comment lire un cas avec Protokin
 
-Guide pratique d'analyse d'une configuration descriptive
+## Guide pratique d'analyse d'une configuration descriptive
 
-«Voir également :
-
-- "Configurations descriptives" (../02_architecture_conceptuelle/configurations.md)
-- "Régimes de description" (../02_architecture_conceptuelle/regimes.md)
-- "Engagements descriptifs" (../02_architecture_conceptuelle/engagements.md)
-- "Locuteur normatif" (../02_architecture_conceptuelle/locuteur.md)
-- "Pratique collective" (../02_architecture_conceptuelle/pratique_collective.md)
-- "Communauté de locuteurs" (../02_architecture_conceptuelle/communaute_locuteurs.md)
-- "Objets descriptifs : invariants et stabilisations" (../02_architecture_conceptuelle/objets_descriptifs.md)
-- "Stabilisation et effet cliquet" (../02_architecture_conceptuelle/stabilisation.md)
-- "Audit Protokin" (../03_methode_enquete/audit.md)
-- "Transitions descriptives" (../05_transformations/transitions.md)»
+> Voir également :
+>
+> - [Configurations descriptives](../02_architecture_conceptuelle/configurations.md)
+> - [Régimes de description](../02_architecture_conceptuelle/regimes.md)
+> - [Engagements descriptifs](../02_architecture_conceptuelle/engagements.md)
+> - [Locuteur normatif](../02_architecture_conceptuelle/locuteur.md)
+> - [Pratique collective](../02_architecture_conceptuelle/pratique_collective.md)
+> - [Communauté de locuteurs](../02_architecture_conceptuelle/communaute_locuteurs.md)
+> - [Objets descriptifs : invariants et stabilisations](../02_architecture_conceptuelle/objets_descriptifs.md)
+> - [Stabilisation et effet cliquet](../02_architecture_conceptuelle/stabilisation.md)
+> - [Audit Protokin](../03_methode_enquete/audit.md)
+> - [Transitions descriptives](../05_transformations/transitions.md)
 
 ---
 
-Introduction
+# Introduction
 
 Protokin ne cherche pas à déterminer si une description est vraie ou fausse.
 
@@ -42,26 +42,27 @@ L'objectif est de comprendre comment certaines formes d'intelligibilité devienn
 
 ---
 
-Le fil rouge
+# Le fil rouge
 
 Pour illustrer la démarche, nous utiliserons un exemple simple :
 
-«« Cette personne est mauvaise. »»
+> « Cette personne est mauvaise. »
 
 Une lecture ordinaire cherche souvent à déterminer si cette affirmation est correcte.
 
 Une lecture protokinienne pose une autre question :
 
-«Comment cette description devient-elle possible, recevable et stabilisable ?»
+> Comment cette description devient-elle possible, recevable et stabilisable ?
 
 ---
 
-Principe général
+# Principe général
 
 Une enquête protokinienne peut commencer à partir d'un texte, d'une controverse, d'une pratique, d'une institution ou d'une situation particulière.
 
 Elle reconstruit progressivement les différents niveaux impliqués dans la production d'une description.
 
+```text
 Description observée
 
 ↓
@@ -107,6 +108,7 @@ Tensions
 ↓
 
 Transitions
+```
 
 Cet ordre n'est pas une procédure rigide.
 
@@ -114,13 +116,13 @@ Il constitue une grille d'enquête destinée à rendre visibles les relations en
 
 ---
 
-1. Identifier la description observée
+# 1. Identifier la description observée
 
 L'enquête commence par la description effectivement produite.
 
 Dans notre exemple :
 
-«« Cette personne est mauvaise. »»
+> « Cette personne est mauvaise. »
 
 Cette affirmation constitue le point d'entrée de l'analyse.
 
@@ -128,11 +130,11 @@ Protokin ne demande pas immédiatement si elle est vraie ou fausse.
 
 Il demande :
 
-«Que faut-il pour qu'une telle description puisse être formulée ?»
+> Que faut-il pour qu'une telle description puisse être formulée ?
 
 ---
 
-2. Identifier la configuration descriptive
+# 2. Identifier la configuration descriptive
 
 Une description n'apparaît jamais isolément.
 
@@ -149,13 +151,13 @@ Dans notre exemple, la personne est comprise à travers des catégories telles q
 
 La question devient :
 
-«Quelle organisation du domaine rend cette description intelligible ?»
+> Quelle organisation du domaine rend cette description intelligible ?
 
 L'objectif est d'identifier la configuration descriptive mobilisée.
 
 ---
 
-3. Identifier les locuteurs
+# 3. Identifier les locuteurs
 
 Toute description est portée par des locuteurs.
 
@@ -179,7 +181,7 @@ Tous ne disposent pas du même statut.
 
 ---
 
-4. Identifier les pratiques collectives
+# 4. Identifier les pratiques collectives
 
 Les descriptions circulent toujours dans des pratiques.
 
@@ -196,7 +198,7 @@ Une même description peut être recevable dans certaines pratiques et rejetée 
 
 ---
 
-5. Identifier les communautés de locuteurs
+# 5. Identifier les communautés de locuteurs
 
 Les descriptions ne deviennent durables qu'au sein de communautés capables de les reconnaître, de les transmettre et de les corriger.
 
@@ -210,17 +212,17 @@ Il convient d'identifier :
 
 La question centrale devient :
 
-«Qui attribue les critères de recevabilité ?»
+> Qui attribue les critères de recevabilité ?
 
 ---
 
-6. Identifier les engagements descriptifs
+# 6. Identifier les engagements descriptifs
 
 Toute description produit des engagements.
 
 Dire :
 
-«« Cette personne est mauvaise »»
+> « Cette personne est mauvaise »
 
 implique notamment :
 
@@ -233,7 +235,7 @@ L'enquête reconstruit ces engagements.
 
 ---
 
-7. Identifier les objets descriptifs
+# 7. Identifier les objets descriptifs
 
 Certaines descriptions finissent par produire des objets descriptifs relativement stables.
 
@@ -243,11 +245,11 @@ Il correspond à une stabilisation d'invariants descriptifs au sein d'une commun
 
 Dans notre exemple :
 
-«« Cette personne est mauvaise »»
+> « Cette personne est mauvaise »
 
 peut progressivement conduire à l'émergence d'un objet descriptif :
 
-«« la personne mauvaise ».»
+> « la personne mauvaise ».
 
 Cet objet devient progressivement mobilisable sans qu'il soit nécessaire de reconstruire à chaque fois l'ensemble des justifications initiales.
 
@@ -263,11 +265,11 @@ Les objets descriptifs peuvent être :
 
 La question devient :
 
-«Quels objets descriptifs sont stabilisés par cette configuration ?»
+> Quels objets descriptifs sont stabilisés par cette configuration ?
 
 ---
 
-8. Identifier les mécanismes de stabilisation
+# 8. Identifier les mécanismes de stabilisation
 
 Les objets descriptifs ne se maintiennent pas seuls.
 
@@ -284,11 +286,11 @@ Par exemple :
 
 La question devient :
 
-«Comment cette description se maintient-elle dans le temps ?»
+> Comment cette description se maintient-elle dans le temps ?
 
 ---
 
-9. Identifier l'effet cliquet
+# 9. Identifier l'effet cliquet
 
 Certaines descriptions deviennent progressivement plus faciles à mobiliser.
 
@@ -302,11 +304,11 @@ Les indicateurs possibles sont :
 
 La question devient :
 
-«Pourquoi cette description est-elle devenue plus facile à utiliser que ses alternatives ?»
+> Pourquoi cette description est-elle devenue plus facile à utiliser que ses alternatives ?
 
 ---
 
-10. Identifier les régimes descriptifs stabilisés
+# 10. Identifier les régimes descriptifs stabilisés
 
 Lorsque les stabilisations deviennent suffisamment durables, elles contribuent à former ou à renforcer des régimes descriptifs.
 
@@ -323,7 +325,7 @@ Il correspond à une organisation collective durable de la description.
 
 ---
 
-11. Identifier les tensions
+# 11. Identifier les tensions
 
 Aucun régime n'est parfaitement stable.
 
@@ -339,31 +341,31 @@ Les tensions révèlent souvent les limites internes d'une configuration descrip
 
 ---
 
-12. Identifier les transitions
+# 12. Identifier les transitions
 
 Enfin, il convient d'examiner les transformations possibles.
 
 Dans notre exemple :
 
-«« Cette personne est mauvaise »»
+> « Cette personne est mauvaise »
 
 peut progressivement devenir :
 
-«« Cette personne présente certains troubles psychologiques. »»
+> « Cette personne présente certains troubles psychologiques. »
 
 ou :
 
-«« Cette personne agit dans certaines conditions sociales. »»
+> « Cette personne agit dans certaines conditions sociales. »
 
 ou encore :
 
-«« Cette personne a enfreint une règle juridique. »»
+> « Cette personne a enfreint une règle juridique. »
 
 Les descriptions changent alors de configuration, de critères de justification et parfois de régime descriptif.
 
 ---
 
-Questions directrices
+# Questions directrices
 
 Une lecture protokinienne peut être guidée par les questions suivantes :
 
@@ -382,6 +384,6 @@ Une lecture protokinienne peut être guidée par les questions suivantes :
 
 ---
 
-Définition protokinienne
+# Définition protokinienne
 
-«Lire un cas avec Protokin consiste à reconstruire les relations entre une description, la configuration qui la rend possible, les locuteurs qui la portent, les pratiques qui la soutiennent, les objets descriptifs qu'elle stabilise, les régimes qui l'organisent et les transformations qui peuvent l'affecter.»
+> Lire un cas avec Protokin consiste à reconstruire les relations entre une description, la configuration qui la rend possible, les locuteurs qui la portent, les pratiques qui la soutiennent, les objets descriptifs qu'elle stabilise, les régimes qui l'organisent et les transformations qui peuvent l'affecter.
