@@ -1,382 +1,223 @@
-# Traductions — conditions de passage entre régimes descriptifs
+# Traductions — relations entre régimes descriptifs
 
-> Ce fichier analyse la fonction des traductions dans l’architecture Protokin.
->
-> Il répond à une question centrale :
->
-> **Quand et comment plusieurs régimes de description peuvent-ils communiquer sans être réduits les uns aux autres ni fusionnés arbitrairement ?**
+> La traduction protokinienne analyse les conditions sous lesquelles plusieurs régimes descriptifs peuvent entrer en relation sans perdre leurs contraintes propres.
 
 ---
 
-# 1. Fonction de la traduction dans Protokin
+# 1. Fonction de la traduction
 
-Dans Protokin, une traduction désigne une opération d’analyse permettant d’examiner les conditions de passage entre plusieurs **régimes de description**.
+Dans Protokin, la traduction désigne l’opération par laquelle une relation peut être établie entre des descriptions appartenant à des régimes différents.
 
-Elle ne consiste pas à remplacer un régime par un autre.
+Elle ne consiste pas à :
 
-Elle vise à déterminer :
+- produire un langage descriptif universel ;
+- remplacer un régime par un autre ;
+- supprimer les différences entre cadres descriptifs.
 
-- ce qui peut être transféré entre deux cadres descriptifs ;
-- ce qui doit être reformulé ;
-- ce qui devient incompatible ;
-- quelles modifications des engagements sont nécessaires.
-
-La traduction est donc une opération de médiation entre régimes.
-
-Elle permet d’analyser les relations entre descriptions sans supposer :
-
-- une langue descriptive universelle ;
-- une hiérarchie des régimes ;
-- une réduction complète d’un cadre à un autre.
+Elle examine les conditions permettant à des descriptions hétérogènes d’être mises en relation.
 
 Voir :
 
-- [regimes.md](regimes.md)
-- [architecture.md](architecture.md)
+- [Régimes de description](../02_architecture_conceptuelle/regimes.md)
+- [Configurations descriptives](../02_architecture_conceptuelle/configurations.md)
 
 ---
 
-# 2. Principe général
+# 2. Le problème de la traduction
 
-Chaque régime de description possède ses propres contraintes.
+Une même configuration peut être décrite selon plusieurs régimes.
 
-Ces contraintes déterminent :
+Ces régimes peuvent mobiliser :
 
-- les objets pertinents ;
-- les critères de preuve ;
-- les formes d’inférence ;
-- les conditions de justification.
-
-Une traduction entre deux régimes ne peut donc pas être un simple remplacement de termes.
-
-Elle implique l’examen des structures qui organisent chaque description.
-
-Une traduction réussie doit identifier :
-
-- les correspondances possibles ;
-- les différences irréductibles ;
-- les transformations nécessaires.
-
----
-
-# 3. Traduction et pluralité des régimes
-
-Protokin considère que plusieurs régimes peuvent décrire une même configuration sans produire nécessairement une contradiction.
-
-Un même phénomène peut être décrit selon différents cadres :
-
-- scientifique ;
-- technique ;
-- institutionnel ;
-- juridique ;
-- économique ;
-- social ;
-- normatif.
-
-Ces descriptions peuvent être complémentaires lorsqu’elles répondent à des questions différentes.
-
-La traduction permet alors d’examiner :
-
-- comment ces descriptions peuvent être articulées ;
-- quelles relations elles entretiennent ;
-- quelles limites apparaissent entre elles.
-
-La pluralité des régimes ne signifie pas relativisme absolu.
-
-Chaque régime conserve des critères internes de validité.
-
-Voir :
-
-- [validite.md](validite.md)
-- [regimes.md](regimes.md)
-
----
-
-# 4. Traduction et différence entre régimes
-
-Une traduction ne cherche pas à supprimer les différences entre régimes.
-
-Elle cherche à les rendre explicites.
-
-Deux régimes peuvent présenter :
-
-- des concepts différents ;
+- des distinctions différentes ;
 - des critères différents ;
-- des formes d’engagement différentes ;
-- des objectifs descriptifs différents.
+- des formes d’inférence différentes ;
+- des engagements différents.
 
-La traduction consiste alors à déterminer :
+La question protokinienne n’est donc pas :
 
-> Qu’est-ce qui peut être mis en relation malgré la différence des cadres ?
+> « Quelle description est la traduction exacte d’une autre ? »
 
-Elle ne cherche pas nécessairement une identité parfaite entre descriptions.
+Elle devient :
 
-Elle cherche une compatibilité contrôlée.
+> **« Quelles relations peuvent être établies entre des descriptions différentes sans modifier leurs conditions propres ? »**
+
+La traduction porte ainsi sur les conditions de passage entre descriptions.
 
 ---
 
-# 5. Les formes de passage entre régimes
+# 3. Traduction et différence des régimes
+
+Chaque régime descriptif possède une organisation particulière.
+
+Il définit notamment :
+
+- ce qui devient pertinent ;
+- ce qui peut être affirmé ;
+- ce qui peut être inféré ;
+- ce qui peut être justifié.
+
+Une traduction ne cherche donc pas à effacer les différences.
+
+Elle cherche à rendre ces différences compatibles avec une relation contrôlée.
+
+Une traduction réussie conserve l’écart entre les régimes tout en permettant leur articulation.
+
+Voir :
+
+- [Régimes de description](../02_architecture_conceptuelle/regimes.md)
+
+---
+
+# 4. Formes de relation traductive
 
 Les relations entre régimes peuvent prendre plusieurs formes.
 
----
+## 4.1 Correspondance
 
-## 5.1 Correspondance descriptive
+Une correspondance apparaît lorsque certains éléments de deux régimes peuvent être mis en relation.
 
-Une correspondance apparaît lorsque deux régimes identifient des aspects compatibles d’une même configuration.
+Elle n’implique pas une identité complète.
 
-Elle ne signifie pas que les deux descriptions sont équivalentes.
-
-Elle indique seulement qu’un passage partiel peut être établi.
-
-Exemple :
-
-Une description économique d’une organisation et une description institutionnelle peuvent identifier certaines structures communes sans utiliser les mêmes critères.
+Elle indique seulement qu’une relation descriptive peut être établie.
 
 ---
 
-## 5.2 Traduction partielle
+## 4.2 Reformulation
 
-Une traduction est partielle lorsque certains éléments peuvent être transférés mais que d’autres doivent rester propres au régime initial.
+Une reformulation apparaît lorsqu’un contenu descriptif peut être réorganisé dans un autre cadre.
 
-Elle implique :
+Cette opération peut modifier :
 
-- une conservation limitée ;
-- une transformation conceptuelle ;
-- une reconnaissance des différences restantes.
-
-La traduction partielle constitue une forme fréquente d’articulation entre régimes.
+- les termes employés ;
+- les relations établies ;
+- les conséquences disponibles.
 
 ---
 
-## 5.3 Traduction négative
+## 4.3 Traduction partielle
 
-Une traduction peut également révéler une impossibilité de passage.
+Une traduction peut ne concerner qu’une partie d’une configuration.
 
-Elle montre alors :
+Certains éléments peuvent être transférés tandis que d’autres restent attachés au régime initial.
 
-- qu’un concept perd son sens lorsqu’il est déplacé ;
-- qu’un engagement ne peut être conservé ;
-- qu’une équivalence supposée est impossible.
+---
 
-Cette impossibilité n’est pas une erreur.
+## 4.4 Absence de passage disponible
 
-Elle constitue un résultat analytique.
+Une relation traductive peut également rencontrer une limite.
+
+Dans ce cas, aucune articulation suffisante n’est actuellement disponible entre les régimes concernés.
 
 Voir :
 
-- [limites.md](limites.md)
+- [Limites internes](../05_transformations/limites.md)
 
 ---
 
-# 6. Traduction et réduction
+# 5. Traduction et conservation des contraintes
 
-La traduction se distingue fondamentalement de la réduction.
+Une traduction ne porte pas uniquement sur des termes.
 
-La réduction affirme :
+Elle concerne également :
 
-> Un régime peut être entièrement expliqué par un autre.
+- les engagements associés ;
+- les conséquences inférentielles ;
+- les conditions de justification.
 
-La traduction affirme :
-
-> Deux régimes peuvent parfois être mis en relation sans perdre leurs conditions propres.
-
-Une réduction causaliste peut par exemple transformer une justification en simple mécanisme.
-
-Une traduction cherche au contraire à maintenir la distinction entre :
-
-- explication ;
-- justification ;
-- description ;
-- engagement.
+Modifier une description peut donc modifier la position normative occupée par un locuteur.
 
 Voir :
 
-- [reductions.md](reductions.md)
-- [causes_raisons.md](causes_raisons.md)
+- [Engagements descriptifs](../02_architecture_conceptuelle/engagements.md)
+- [Inférences et justifications](../02_architecture_conceptuelle/inferences_justifications.md)
 
 ---
 
-# 7. Traduction et éclectisme
+# 6. Traduction comme articulation intermédiaire
 
-La traduction se distingue également de l’éclectisme.
+La traduction occupe une position intermédiaire entre deux impossibilités :
 
-L’éclectisme consiste à mélanger des éléments provenant de plusieurs régimes sans analyser leurs conditions d’application.
+- réduire entièrement un régime à un autre ;
+- isoler complètement des régimes qui doivent pourtant communiquer.
 
-Il produit :
+Elle cherche une articulation contrôlée permettant de maintenir simultanément :
 
-- des analogies abusives ;
-- des transferts non justifiés ;
-- des confusions de critères.
-
-La traduction exige au contraire une analyse préalable :
-
-- du statut des concepts ;
-- des engagements associés ;
-- des règles d’inférence ;
-- des limites de compatibilité.
+- la différence des cadres ;
+- la possibilité d’une relation ;
+- la précision des engagements.
 
 Voir :
 
-- [eclectisme.md](eclectisme.md)
+- [Réductions descriptives](../04_diagnostics/reductions.md)
+- [Éclectisme descriptif](../04_diagnostics/eclectisme.md)
 
 ---
 
-# 8. Traduction et engagements
+# 7. Traduction et transformation
 
-Toute traduction implique une analyse des engagements.
+Une traduction peut devenir une condition de transformation descriptive.
 
-Modifier un vocabulaire descriptif peut modifier :
+Lorsqu’une relation entre régimes devient suffisamment stable, elle peut modifier :
 
-- les conséquences acceptées ;
-- les responsabilités associées ;
-- les inférences autorisées ;
-- les critères de justification.
+- les concepts disponibles ;
+- les engagements associés ;
+- les pratiques de justification.
 
-Une traduction réussie doit donc examiner non seulement les mots utilisés, mais aussi les structures normatives qu’ils impliquent.
+La traduction constitue alors une possibilité de passage vers une nouvelle organisation descriptive.
 
 Voir :
 
-- [engagements.md](engagements.md)
+- [Transitions descriptives](../05_transformations/transitions.md)
 
 ---
 
-# 9. Traduction et tensions inter-régimes
+# 8. Place de la traduction dans l’architecture Protokin
 
-Les besoins de traduction apparaissent souvent lorsqu’une tension inter-régimes est identifiée.
+Dans l’architecture Protokin, la traduction intervient entre l’identification des régimes et l’étude de leurs transformations.
 
-Une tension peut provenir :
+Elle permet d’examiner :
 
-- d’une incompatibilité conceptuelle ;
-- d’un conflit de critères ;
-- d’une divergence normative ;
-- d’une impossibilité d’articulation immédiate.
+- comment des descriptions différentes peuvent être comparées ;
+- quelles relations peuvent être établies ;
+- quelles différences doivent être maintenues.
 
-La traduction constitue alors une opération permettant d’évaluer :
-
-- si une compatibilité est possible ;
-- si une transformation est nécessaire ;
-- si une limite doit être reconnue.
+Elle prépare ainsi l’analyse des tensions, des limites et des transformations.
 
 Voir :
 
-- [tensions.md](tensions.md)
-- [audit.md](audit.md)
+- [Tensions entre régimes](../04_diagnostics/tensions.md)
+- [Validité et correction](../05_transformations/validite.md)
 
 ---
 
-# 10. Traduction dans le processus d’audit
+# Principe central
 
-Dans l’audit protokinien, la traduction intervient après l’identification des régimes et des engagements.
-
-Elle examine :
-
-## 1. Les régimes concernés
-
-Quels cadres descriptifs sont en relation ?
-
----
-
-## 2. Les éléments transférables
-
-Quels concepts ou relations peuvent circuler entre eux ?
-
----
-
-## 3. Les transformations nécessaires
-
-Quels déplacements de sens sont nécessaires ?
-
----
-
-## 4. Les limites éventuelles
-
-Quels éléments ne peuvent pas être traduits sans perte ?
-
----
-
-La traduction devient ainsi une étape permettant d’évaluer les possibilités de transformation.
-
-Voir :
-
-- [audit.md](audit.md)
-- [analyse.md](analyse.md)
-
----
-
-# 11. Traduction et transition
-
-La traduction joue un rôle central dans les processus de transition.
-
-Lorsqu’un régime rencontre une limite, plusieurs possibilités existent :
-
-- maintenir la séparation entre régimes ;
-- établir une traduction partielle ;
-- transformer certains concepts ;
-- construire une nouvelle stabilisation.
-
-La traduction constitue donc une opération intermédiaire entre :
-
-- conservation ;
-- transformation ;
-- rupture.
-
-Voir :
-
-- [transitions.md](transitions.md)
-
----
-
-# 12. Limites de la traduction
-
-Toute traduction possède des limites.
-
-Certaines différences entre régimes peuvent être irréductibles.
-
-Dans ce cas :
-
-- aucune équivalence suffisante n’est disponible ;
-- aucun passage sans perte importante n’est possible ;
-- la relation entre régimes doit rester différenciée.
-
-Protokin enregistre alors une limite de stabilisation.
-
-Cette limite peut être analysée comme une fonction DELTA.
-
-Voir :
-
-- [limites.md](limites.md)
-
----
-
-# 13. Principe central
-
-Une traduction protokinienne n’est pas une conversion d’un langage dans un autre.
-
-Elle est une analyse des conditions permettant à plusieurs régimes de description d’entrer en relation sans perdre leurs critères propres.
+> **Une traduction protokinienne n’est pas une conversion d’un régime dans un autre.**
+>
+> **Elle est une analyse des conditions permettant à des descriptions hétérogènes d’entrer en relation sans perdre leurs contraintes propres.**
 
 ---
 
 # Conclusion
 
-Dans Protokin, la traduction constitue une fonction essentielle d’articulation entre régimes.
+Dans Protokin, la traduction constitue une fonction d’articulation entre régimes descriptifs.
 
-Elle permet :
+Elle ne produit pas une description unique.
 
-- d’éviter la réduction ;
-- d’éviter l’éclectisme ;
-- d’expliciter les conditions de passage ;
-- d’identifier les incompatibilités ;
-- de soutenir les transformations descriptives.
+Elle examine les conditions sous lesquelles plusieurs descriptions peuvent :
 
-La traduction ne produit pas une description unique du monde.
+- communiquer ;
+- se comparer ;
+- rester différenciées ;
+- éventuellement se transformer.
 
-Elle analyse les conditions sous lesquelles plusieurs descriptions peuvent devenir comparables, communicables ou durablement différenciées.
+La traduction maintient ainsi la pluralité descriptive sans abandonner l’exigence de cohérence.
 
 ---
 
 # Formule synthétique
 
-> **Une traduction protokinienne n’est pas une fusion des régimes ni une réduction de l’un à l’autre.**
+> **Une traduction protokinienne ne fusionne pas les régimes et ne réduit pas l’un à l’autre.**
 >
-> **Elle est l’analyse des conditions sous lesquelles des descriptions hétérogènes peuvent entrer en relation tout en conservant leurs contraintes propres.**
+> **Elle établit les conditions sous lesquelles des descriptions différentes peuvent entrer en relation tout en conservant leurs contraintes propres.**
