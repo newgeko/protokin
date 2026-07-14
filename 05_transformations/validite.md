@@ -1,33 +1,34 @@
-# Validité — conditions locales de justification dans Protokin
+# Validité — conditions de recevabilité descriptive dans Protokin
 
 > Ce fichier analyse la fonction de la **validité** dans l’architecture **Protokin**.
 >
 > Il répond à une question centrale :
 >
-> **Comment une description peut-elle être considérée comme valide dans un régime donné sans supposer l’existence d’un critère absolu indépendant de toute pratique de justification ?**
+> **Selon quelles conditions une description peut-elle être reconnue comme recevable dans un régime descriptif donné ?**
 
 ---
 
 # 1. Fonction générale de la validité dans Protokin
 
-Dans **Protokin**, la validité désigne les conditions sous lesquelles une description peut être reconnue comme recevable, justifiable et stabilisable au sein d’un régime donné.
+Dans **Protokin**, la validité désigne le statut accordé à une description lorsqu’elle satisfait aux critères d’évaluation d’un régime descriptif donné.
 
-La validité n’est pas une propriété absolue attachée aux descriptions indépendamment de tout contexte.
+La validité n’est pas une propriété absolue attachée à une description indépendamment de toute pratique.
 
 Elle correspond à une relation entre :
 
 - une description ;
-- un régime de justification ;
-- des critères de pertinence ;
-- des engagements assumés ;
-- des pratiques d’évaluation.
+- un régime descriptif ;
+- des critères d’évaluation ;
+- des conditions de recevabilité.
 
-Une description est valide lorsqu’elle satisfait les contraintes pertinentes du régime dans lequel elle fonctionne.
+Une description n’est donc pas valide en elle-même.
+
+Elle acquiert un statut de validité relativement aux contraintes du régime dans lequel elle fonctionne.
 
 Voir :
 
-- [architecture.md](architecture.md)
-- [regimes.md](regimes.md)
+- [Architecture générale](architecture.md)
+- [Régimes de description](regimes.md)
 
 ---
 
@@ -35,319 +36,201 @@ Voir :
 
 Dans Protokin, la validité n’est pas :
 
-- une correspondance parfaite entre une représentation et un réel indépendant ;
-- une vérité absolue accessible depuis un point de vue extérieur ;
-- une conformité à un critère universel unique ;
-- une simple cohérence interne détachée de toute pratique.
+- une correspondance définitive avec un réel indépendant de toute description ;
+- une vérité absolue accessible depuis une position extérieure ;
+- une simple préférence subjective ;
+- une convention arbitraire.
 
-Elle n’est pas non plus une préférence subjective.
+Elle ne constitue pas non plus un critère universel unique applicable à tous les régimes.
 
-Une validité protokinienne est toujours liée à des conditions publiques de justification.
+La validité doit toujours être analysée relativement aux conditions descriptives qui organisent une pratique donnée.
 
 ---
 
-# 3. Validité et régime de description
+# 3. Validité et régimes descriptifs
 
-Chaque régime définit des conditions particulières de validité.
+Chaque régime descriptif possède des critères propres permettant d’évaluer les descriptions qui y prennent place.
 
-Ces conditions déterminent notamment :
+Ces critères concernent notamment :
 
-- ce qui compte comme preuve ;
-- ce qui compte comme argument recevable ;
-- quelles inférences sont autorisées ;
-- quelles objections sont pertinentes ;
-- quelles révisions sont acceptables.
+- les distinctions pertinentes ;
+- les formes d’argumentation acceptables ;
+- les relations entre concepts ;
+- les conditions de correction.
 
-Ainsi, une même description peut être :
+Une même configuration peut ainsi recevoir plusieurs descriptions valides selon différents régimes.
 
-- pertinente dans un régime ;
-- insuffisante dans un autre ;
-- mal formulée dans un troisième.
+Cette pluralité ne signifie pas que toutes les descriptions sont équivalentes.
 
-Cette différence ne signifie pas nécessairement contradiction.
-
-Elle indique que les critères d’évaluation dépendent des pratiques descriptives mobilisées.
+Elle signifie que leur validité dépend des contraintes du cadre descriptif mobilisé.
 
 Voir :
 
-- [regimes.md](regimes.md)
+- [Régimes de description](regimes.md)
 
 ---
 
-# 4. Les dimensions de la validité
+# 4. Dimensions de la validité
 
-La validité protokinienne peut être analysée selon plusieurs dimensions.
+La validité protokinienne peut être examinée selon plusieurs dimensions.
 
 ---
 
-## 4.1 Cohérence interne
+## 4.1 Cohérence descriptive
 
-Une description valide doit maintenir une cohérence suffisante entre :
+Une description doit maintenir une compatibilité suffisante entre ses éléments internes.
 
-- ses concepts ;
-- ses engagements ;
-- ses conséquences ;
-- ses inférences.
+Cette cohérence concerne notamment :
 
-Une contradiction interne majeure peut empêcher une stabilisation.
+- les concepts utilisés ;
+- les distinctions opérées ;
+- les relations établies.
 
-Cependant, une tension interne n’entraîne pas automatiquement l’abandon d’un régime.
-
-Elle peut constituer un point de départ pour une transformation.
+Une difficulté interne peut signaler une tension ou une transformation possible.
 
 Voir :
 
-- [tensions.md](tensions.md)
-- [transitions.md](transitions.md)
+- [Tensions entre régimes](../04_diagnostics/tensions.md)
+- [Transitions descriptives](../05_transformations/transitions.md)
 
 ---
 
 ## 4.2 Pertinence descriptive
 
-Une description doit permettre de rendre intelligible une configuration donnée.
+Une description doit permettre de rendre une configuration intelligible dans le cadre où elle est mobilisée.
 
-Cela implique qu’elle sélectionne des distinctions pertinentes.
+La question n’est pas :
 
-Une description peut être cohérente mais inadéquate si elle mobilise des catégories qui ne permettent pas d’analyser correctement la situation.
+> « Cette description correspond-elle à une réalité indépendante de toute pratique ? »
+
+Mais :
+
+> « Permet-elle d’organiser correctement les distinctions pertinentes dans ce régime ? »
 
 ---
 
-## 4.3 Justification normative
+## 4.3 Compatibilité avec les critères du régime
 
-Une description valide implique également des engagements.
+Une description possède un statut de validité lorsqu’elle respecte les contraintes qui définissent son espace descriptif.
 
-Elle doit permettre d’identifier :
+Ces contraintes peuvent concerner :
 
-- pourquoi certaines affirmations sont acceptables ;
-- quelles conséquences elles entraînent ;
-- quelles responsabilités elles impliquent.
+- les formes d’évaluation ;
+- les possibilités de correction ;
+- les relations d’inférence reconnues.
 
-La validité ne concerne donc pas seulement ce qui est décrit, mais aussi les conditions selon lesquelles cette description peut être soutenue.
+Les engagements produits par ces descriptions sont analysés dans une autre dimension de l’architecture.
 
 Voir :
 
-- [engagements.md](engagements.md)
+- [Engagements descriptifs](engagements.md)
 
 ---
 
-## 4.4 Capacité de stabilisation
+# 5. Validité et pluralité des descriptions
 
-Une description valide doit pouvoir fonctionner durablement dans une pratique donnée.
+Protokin ne suppose pas qu’une seule description correcte doive remplacer toutes les autres.
 
-Cela signifie qu’elle doit permettre :
+Plusieurs régimes peuvent produire des descriptions recevables d’une même configuration.
 
-- la communication entre agents ;
-- la poursuite d’une enquête ;
-- l’évaluation des objections ;
-- la révision éventuelle.
+La question devient alors :
 
-La validité est donc liée à une capacité de stabilisation.
+- quelles sont leurs conditions de validité respectives ;
+- comment peuvent-elles être comparées ;
+- quelles relations peuvent être établies entre elles.
+
+La validité permet donc de comparer des descriptions sans les réduire à un critère unique.
 
 Voir :
 
-- [audit.md](audit.md)
+- [Traductions entre régimes](../05_transformations/traductions.md)
 
 ---
 
-# 5. Validité et absence de relativisme
+# 6. Validité et réduction
 
-La reconnaissance de validités locales ne conduit pas à un relativisme absolu.
+La validité d’un régime ne peut pas être évaluée uniquement à partir des critères d’un autre régime.
 
-Protokin ne soutient pas que :
+Une réduction consiste à imposer à une description des conditions de validité étrangères à son propre cadre.
 
-> « Toutes les descriptions se valent. »
+Elle peut produire une confusion entre :
 
-Une description doit toujours répondre à des contraintes :
-
-- cohérence ;
+- explication ;
 - justification ;
-- compatibilité avec les engagements ;
-- capacité à fonctionner dans une pratique donnée.
+- description ;
+- engagement.
 
-La pluralité des régimes n’implique pas l’absence de critères.
-
-Elle implique une pluralité de formes de justification.
-
----
-
-# 6. Validité et pluralité des régimes
-
-Plusieurs régimes peuvent produire des descriptions valides d’une même configuration.
-
-Cette pluralité ne signifie pas nécessairement concurrence.
-
-Elle peut correspondre à :
-
-- des questions différentes ;
-- des objectifs différents ;
-- des critères différents ;
-- des niveaux différents d’analyse.
-
-Le problème n’est donc pas de choisir immédiatement une description unique.
-
-Il consiste à analyser :
-
-- leurs conditions de validité ;
-- leurs relations ;
-- leurs possibilités de traduction.
+L’analyse de la validité exige donc de respecter les conditions propres au régime étudié.
 
 Voir :
 
-- [traductions.md](traductions.md)
+- [Réductions descriptives](../04_diagnostics/reductions.md)
 
 ---
 
-# 7. Validité et tensions entre régimes
+# 7. Validité et limites
 
-Une tension apparaît lorsque plusieurs régimes produisent des engagements difficiles à articuler.
+Un régime peut rencontrer une situation dans laquelle ses critères deviennent insuffisants.
 
-Elle peut concerner :
+Dans ce cas, la question n’est pas nécessairement :
 
-- les critères de preuve ;
-- les formes d’explication ;
-- les responsabilités associées ;
-- les conséquences pratiques.
+> « La description est-elle fausse ? »
 
-La validité ne supprime pas automatiquement ces tensions.
+Elle devient :
 
-Elle permet de déterminer précisément où elles apparaissent.
+> « Les conditions actuelles permettent-elles encore de maintenir son statut de validité ? »
+
+Une limite de validité indique une difficulté dans les conditions de fonctionnement d’un régime.
 
 Voir :
 
-- [tensions.md](tensions.md)
+- [Limites](../05_transformations/limites.md)
 
 ---
 
-# 8. Validité et réduction
+# 8. Validité dans l’audit protokinien
 
-Une erreur fréquente consiste à réduire la validité d’un régime aux critères d’un autre régime.
+Dans l’audit Protokin, la validité constitue un élément d’analyse.
 
-Par exemple :
+L’enquête examine notamment :
 
-- considérer qu’une justification normative n’est valide que si elle est entièrement expliquée causalement ;
-- considérer qu’un phénomène institutionnel n’est réel que s’il possède une description physique directe.
+- le régime mobilisé ;
+- les critères d’évaluation utilisés ;
+- les conditions de recevabilité ;
+- les éventuelles tensions rencontrées.
 
-Cette réduction détruit les conditions propres du régime analysé.
+La validité n’est donc pas un point de départ absolu.
 
-La validité exige donc le respect des critères internes de chaque cadre.
+Elle constitue un résultat relatif à l’analyse du régime concerné.
 
 Voir :
 
-- [reductions.md](reductions.md)
+- [Audit Protokin](../03_methode_enquete/audit.md)
 
 ---
 
-# 9. Validité et éclectisme
+# 9. Principe central
 
-L’inverse constitue également un risque.
-
-Mélanger plusieurs critères de validité provenant de régimes différents peut produire une confusion.
-
-Une description ne devient pas automatiquement meilleure parce qu’elle combine plusieurs vocabulaires.
-
-Il faut examiner :
-
-- quelles relations sont légitimes ;
-- quelles traductions sont possibles ;
-- quels engagements restent compatibles.
-
-Voir :
-
-- [eclectisme.md](eclectisme.md)
-- [traductions.md](traductions.md)
-
----
-
-# 10. Validité et transition
-
-Une transition implique souvent une modification des critères de validité.
-
-Cependant, cette modification n’est pas arbitraire.
-
-Une nouvelle stabilisation doit établir de nouvelles conditions permettant :
-
-- l’évaluation ;
-- la justification ;
-- la comparaison ;
-- la poursuite de l’enquête.
-
-La transition transforme donc les conditions de validité plutôt qu’elle ne les supprime.
-
-Voir :
-
-- [transitions.md](transitions.md)
-
----
-
-# 11. Validité et limites
-
-Toute validité possède des limites.
-
-Un régime peut rencontrer une situation dans laquelle :
-
-- ses critères deviennent insuffisants ;
-- ses catégories perdent leur pertinence ;
-- aucune stabilisation satisfaisante n’est possible.
-
-Cette situation ne signifie pas nécessairement que le régime est faux.
-
-Elle indique une limite de ses conditions actuelles de fonctionnement.
-
-Voir :
-
-- [limites.md](limites.md)
-
----
-
-# 12. Validité comme fonction d’enquête
-
-Dans Protokin, la validité n’est pas un résultat fixé une fois pour toutes.
-
-Elle constitue un élément permanent de l’enquête.
-
-L’analyse consiste à examiner :
-
-1. Le régime mobilisé.
-2. Les critères de validité utilisés.
-3. Les engagements associés.
-4. Les conséquences produites.
-5. Les tensions rencontrées.
-6. Les possibilités de révision.
-
-La validité est donc une fonction d’évaluation interne aux pratiques de justification.
-
-Voir :
-
-- [analyse.md](analyse.md)
-- [audit.md](audit.md)
-
----
-
-# 13. Principe central
-
-> **Une description n'est pas valide parce qu'elle reflète une réalité absolue.**
+> **Une description n’est pas valide indépendamment d’un régime descriptif.**
 >
-> **Elle est valide lorsqu'un régime de description peut publiquement justifier les engagements qu'elle implique et maintenir sa stabilisation au sein des pratiques concernées.**
+> **Elle acquiert un statut de validité lorsqu’elle satisfait aux critères qui organisent son espace de description et d’évaluation.**
 
 ---
 
 # Conclusion
 
-Dans **Protokin**, la validité désigne les conditions locales et publiques permettant à une description de devenir recevable dans une pratique donnée.
+Dans **Protokin**, la validité désigne une relation fonctionnelle entre une description et les conditions qui permettent de la reconnaître comme recevable dans un régime donné.
 
-Elle permet d’analyser :
+Elle ne constitue :
 
-- pourquoi certaines descriptions fonctionnent ;
-- comment elles sont justifiées ;
-- quelles limites elles rencontrent ;
-- comment elles peuvent être transformées.
+- ni une propriété métaphysique ;
+- ni une simple convention ;
+- ni une vérité absolue extérieure aux pratiques.
 
-La validité n’est donc ni une propriété métaphysique des descriptions, ni une simple convention arbitraire.
-
-Elle constitue une fonction d’analyse permettant de comprendre comment des descriptions acquièrent une stabilité au sein de régimes de justification.
+Elle permet d’analyser comment des descriptions peuvent être évaluées, comparées et maintenues dans différents régimes descriptifs.
 
 ---
 
 # Formule synthétique
 
->  **La validité protokinienne est le statut provisoire qu’un régime de description accorde à une description lorsqu’elle peut publiquement soutenir ses engagements, maintenir la cohérence de ses inférences et assurer une stabilisation suffisante au sein des pratiques concernées.**
+> **La validité protokinienne est le statut qu’une description acquiert lorsqu’elle satisfait aux critères d’évaluation d’un régime descriptif donné, sans supposer un critère unique extérieur à tous les régimes.**
