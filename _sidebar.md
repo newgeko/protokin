@@ -30,6 +30,8 @@
 - [Supports descriptifs](02_architecture_conceptuelle/supports_descriptifs.md)
 - [Niveaux descriptifs](02_architecture_conceptuelle/niveaux_descriptifs.md)
 - [Configurations descriptives](02_architecture_conceptuelle/configurations.md)
+- [Temporalité descriptive](02_architecture_conceptuelle/temporalite.md)
+- [Objets descriptifs : invariants et stabilisations](02_architecture_conceptuelle/objets_descriptifs.md)
 
 ### Organisation des régimes descriptifs
 
@@ -47,7 +49,6 @@
 
 ### Stabilisation des descriptions
 
-- [Objets descriptifs : invariants et stabilisations](02_architecture_conceptuelle/objets_descriptifs.md)
 - [Stabilisation et effet cliquet](02_architecture_conceptuelle/stabilisation.md)
 
 ---
