@@ -1,42 +1,40 @@
-# Protokin — Nom, statut et orientation conceptuelle
+# Protokin — Nom, origine et statut conceptuel
 
-> **Protokin désigne une architecture d’analyse des conditions sous lesquelles des contenus deviennent des descriptions intelligibles, stabilisées, justifiables et transformables pour des locuteurs engagés dans des pratiques de justification.**
+> **Protokin est le nom donné à une architecture d’analyse des conditions sous lesquelles des descriptions peuvent devenir intelligibles, stabilisées et transformables dans des pratiques collectives.**
 
 ---
 
-# 1. Origine du nom
+# 1. Fonction du nom
 
-Le terme *Protokin* constitue d’abord un identifiant permettant de désigner un projet théorique en développement.
+Le terme *Protokin* désigne avant tout un projet théorique.
 
-Son origine pratique n’a aucune fonction fondationnelle dans l’architecture conceptuelle.
+Il constitue un identifiant permettant de regrouper :
 
-Le nom ne détermine pas la théorie.
+- une architecture conceptuelle ;
+- une méthode d’analyse ;
+- un ensemble de concepts ;
+- une orientation de recherche.
 
-Il fournit simplement une référence stable permettant de regrouper un ensemble de recherches, de concepts et de méthodes.
+Le nom n’a pas de fonction fondationnelle.
 
-Conformément au principe réflexif de Protokin, le terme lui-même ne doit pas être considéré comme révélant une structure cachée du projet.
+Il ne détermine pas les concepts qu’il désigne.
 
-Il constitue une stabilisation descriptive conventionnelle.
+Il fournit une référence stable permettant l’organisation d’un ensemble théorique.
 
 ---
 
 # 2. Statut du terme
 
-Le terme *Protokin* ne désigne pas :
+*Protokin* ne désigne pas :
 
-- une entité du monde ;
-- un mécanisme naturel ;
+- une entité naturelle ;
 - une structure fondamentale du réel ;
+- un mécanisme causal ;
 - une nouvelle ontologie.
 
-Il désigne une pratique d’enquête.
+Il ne s’agit pas d’un objet découvert dans le monde.
 
-Cette enquête porte sur les conditions sous lesquelles des descriptions peuvent acquérir :
-
-- une intelligibilité ;
-- une stabilité ;
-- une recevabilité ;
-- une puissance inférentielle.
+Il désigne une pratique d’enquête portant sur les conditions de fonctionnement des descriptions.
 
 Ainsi :
 
@@ -45,55 +43,64 @@ Ainsi :
 Voir :
 
 - [Statut du projet](statut.md)
-- [Architecture générale](architecture.md)
+- [Architecture générale](../02_architecture_conceptuelle/architecture.md)
 
 ---
 
-# 3. Orientation conceptuelle
+# 3. Orientation conceptuelle du terme
 
-Protokin adopte une orientation :
+Le nom *Protokin* accompagne une orientation conceptuelle particulière.
+
+Cette orientation repose sur trois dimensions :
 
 - pragmatiste ;
 - inférentialiste ;
 - non-ontologique.
 
-Son objet n’est pas le monde indépendamment de toute description.
+Cependant, le nom ne contient pas à lui seul ces principes.
 
-Son objet est l’ensemble des conditions qui permettent à des descriptions d’occuper une position déterminée dans des pratiques de justification.
+Ce sont les développements théoriques de Protokin qui établissent leur portée.
 
-Une description n’est donc pas seulement une représentation.
+Voir :
 
-Elle constitue une opération normative :
-
-- elle engage un locuteur ;
-- elle autorise certaines inférences ;
-- elle impose certaines contraintes ;
-- elle peut être critiquée ou transformée.
+- [Principes fondamentaux](principes.md)
+- [Régimes de description](../02_architecture_conceptuelle/regimes.md)
 
 ---
 
-# 4. PROTO et KIN : le principe directeur
+# 4. Lecture conceptuelle de PROTO et KIN
 
-Le nom Protokin peut être lu comme rappelant une articulation fondamentale entre deux dimensions de l’analyse.
+Dans l’architecture Protokin, le terme peut être utilisé comme rappel d’une distinction méthodologique.
 
-Cette lecture n’est pas une étymologie fondatrice.
+Cette lecture est une reconstruction conceptuelle.
 
-Elle constitue une reconstruction conceptuelle secondaire.
+Elle ne constitue pas une étymologie démontrée.
+
+Elle sert uniquement à rappeler une articulation centrale :
+
+- conditions d’apparition ;
+- conditions de justification.
+
+---
 
 ## PROTO
 
-PROTO renvoie à la dimension causale des processus.
+PROTO renvoie à la dimension des conditions de formation.
 
-Il concerne :
+Cette dimension concerne notamment :
 
-- les conditions matérielles ;
-- les processus physiques ;
-- les dynamiques biologiques ;
-- les contraintes de formation.
+- les processus matériels ;
+- les contraintes biologiques ;
+- les conditions physiques ;
+- les dynamiques de constitution.
 
-PROTO répond à la question :
+Elle correspond à la question :
 
 > Comment quelque chose advient-il ?
+
+Voir :
+
+- [Causes et raisons](../02_architecture_conceptuelle/causes_raisons.md)
 
 ---
 
@@ -101,120 +108,78 @@ PROTO répond à la question :
 
 KIN renvoie à la dimension normative des raisons.
 
-Il concerne :
+Cette dimension concerne :
 
 - les engagements ;
 - les justifications ;
 - les critiques ;
-- les révisions ;
-- les pratiques discursives.
+- les révisions.
 
-KIN répond à la question :
+Elle correspond à la question :
 
-> Comment une description peut-elle être soutenue ou contestée ?
-
----
-
-PROTO et KIN ne constituent pas deux mondes séparés.
-
-Ils représentent deux régimes d’analyse d’un même phénomène.
-
-Le passage de l’un à l’autre constitue une question centrale de Protokin :
-
-> Comment un système appartenant à l’espace des causes peut-il participer à un espace de raisons ?
+> Comment une description peut-elle être soutenue, contestée ou transformée ?
 
 Voir :
 
-- [Causes et raisons](causes_raisons.md)
-- [Locuteur normatif](locuteur.md)
+- [Locuteur normatif](../02_architecture_conceptuelle/locuteur.md)
 
 ---
 
-# 5. Lecture étymologique secondaire
+# 5. Une distinction méthodologique
 
-Des lectures étymologiques du terme peuvent être proposées.
+PROTO et KIN ne désignent pas deux réalités séparées.
 
-Cependant, conformément au principe réflexif de Protokin, elles restent des ressources interprétatives secondaires.
+Ils indiquent deux dimensions d’analyse.
 
-Elles ne fondent pas :
+Une même configuration peut être étudiée :
+
+- selon les conditions qui la produisent ;
+- selon les raisons qui permettent de la décrire.
+
+L’articulation entre ces deux dimensions constitue un problème central de Protokin.
+
+---
+
+# 6. Lectures étymologiques secondaires
+
+Des rapprochements étymologiques peuvent être proposés autour du terme.
+
+Cependant, ils restent secondaires.
+
+Ils peuvent enrichir l’interprétation du nom, mais ne fondent pas :
 
 - les concepts ;
 - la méthode ;
 - les critères d’analyse.
 
----
-
-## Proto
-
-Le préfixe *proto-* peut évoquer :
-
-- l’ouverture ;
-- l’origine ;
-- une phase initiale d’enquête.
-
-Cette association reste métaphorique.
+Le nom ne révèle donc pas une essence cachée du projet.
 
 ---
 
-## Kin
+# 7. Principe réflexif
 
-Le segment *kin* peut évoquer :
+Comme toute notion utilisée dans Protokin, le terme *Protokin* lui-même peut devenir un objet d’analyse.
 
-- le mouvement (*kinesis*) ;
-- la relation (*kinship*).
+Il constitue une stabilisation descriptive située.
 
-Ces rapprochements suggèrent des images :
+Son usage dépend :
 
-- transformation ;
-- relation ;
-- dynamique.
-
-Ils ne constituent pas des principes théoriques.
-
----
-
-# 6. Déplacement méthodologique
-
-Protokin accompagne un déplacement fondamental :
-
-> **Du mouvement supposé des objets vers le mouvement des descriptions.**
-
-L’enquête ne commence pas par :
-
-> « Qu’est-ce qui existe indépendamment de toute description ? »
-
-Elle commence par :
-
-> **« Sous quelles conditions une description devient-elle intelligible, recevable et justifiable dans une pratique donnée ? »**
-
----
-
-# 7. Relation avec la réflexivité
-
-Le nom *Protokin* est lui-même soumis aux principes qu’il étudie.
-
-Il ne doit pas être réifié.
-
-Comme toute notion, il possède une fonction dans une pratique descriptive particulière.
-
-Le terme constitue donc lui-même une stabilisation descriptive située.
+- d’un contexte ;
+- d’une communauté de locuteurs ;
+- d’une pratique théorique.
 
 Voir :
 
-- [Réflexivité](reflexivite.md)
+- [Réflexivité](../08_reflexivite/reflexivite.md)
 
 ---
 
 # Conclusion
 
-Le nom *Protokin* constitue un identifiant conventionnel.
+Le terme *Protokin* désigne une architecture d’analyse.
 
-Ses éventuelles lectures étymologiques peuvent enrichir son interprétation, mais elles ne fondent pas son architecture.
+Son origine nominale et ses lectures possibles ne constituent pas son fondement théorique.
 
-Le projet repose sur une question centrale :
+La question centrale du projet reste :
 
-> **Comment des descriptions deviennent-elles possibles, stabilisables, justifiables et transformables pour des locuteurs engagés dans des espaces de raisons ?**
-
-Ainsi, Protokin ne désigne pas une théorie du monde.
-
-Il désigne une enquête sur les conditions sous lesquelles un monde peut devenir descriptivement accessible.
+> **Sous quelles conditions des descriptions deviennent-elles possibles, intelligibles, recevables et transformables dans des pratiques collectives ?**
