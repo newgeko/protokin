@@ -13,7 +13,7 @@ Wilfrid Sellars a proposé de distinguer deux grandes formes d'intelligibilité 
 
 Cette distinction occupe une place importante dans Protokin car elle permet de comprendre que les conflits descriptifs proviennent souvent d'une confusion ou d'un transfert illégitime entre des régimes de description hétérogènes plutôt que d'une opposition ontologique entre vérité et erreur.
 
-Dans Protokin, l'image manifeste et l'image scientifique ne sont pas conçues comme deux mondes distincts ni comme deux strates de l'être en concurrence. Elles sont analysées comme deux trajectoires de stabilisation descriptive possédant leurs propres réseaux d'engagements, d'incompatibilités matérielles et de critères de correction.
+Dans Protokin, l'image manifeste et l'image scientifique ne sont pas conçues comme deux mondes distincts ni comme deux strates de l'être en concurrence. Elles sont analysées comme deux trajectoires de stabilisation descriptive possédant leurs propres réseaux d'engagements, d'incompatibilités matérielles et de critères de correction. La différence ne se situe pas entre un monde « vrai » et un monde « subjectif », mais entre deux régimes descriptifs qui résolvent des problèmes différents et doivent pouvoir coexister sans être fusionnés ni réduits l’un à l’autre.
 
 ---
 
@@ -44,7 +44,7 @@ L'image manifeste ne constitue ni une illusion subjective ni un simple sens comm
 
 ## L'image scientifique
 
-L'image scientifique désigne l'ensemble des configurations descriptives générées par les sciences lorsqu'elles élaborent des postulats théoriques et des modèles explicatifs qui complexifient ou réorganisent l'expérience immédiate.
+L'image scientifique désigne l'ensemble des configurations descriptives générées par les sciences lorsqu'elles élaborent des postulats théoriques et des modèles explicatifs qui complexifient ou réorganisent l'expérience immédiate. Elle émerge de l’image manifeste et s’appuie sur elle.
 
 Elle mobilise notamment :
 
@@ -64,7 +64,7 @@ Elle introduit des descriptions telles que :
 
 Ces descriptions se stabilisent à travers des niches de pratiques spécialisées où le coût inférentiel d'une révision est soutenu par un réseau d'instruments techniques, de procédures de validation et d'engagements collectifs spécifiques.
 
-L'image scientifique est principalement orientée vers la modélisation des relations causales et des structures de constitution matérielle.
+L'image scientifique est principalement (mais pas exclusivement) orientée vers la modélisation des relations causales et des structures de constitution matérielle.
 
 ---
 
@@ -80,11 +80,7 @@ Cette position décrète que seule l'image scientifique décrit ce qui existe «
 
 Selon cette conception, les intentions, les engagements ou les responsabilités ne seraient « en réalité » que des trajectoires neurobiologiques ou des phénomènes physiques.
 
-Cette réduction commet une erreur de catégorie.
-
-Elle tente d'évaluer des descriptions appartenant à l'image manifeste à l'aide des critères de correction propres à l'image scientifique.
-
-Elle détruit ainsi la structure même de l'espace des raisons, puisque des notions comme la responsabilité, la justification ou l'obligation ne possèdent pas d'équivalent direct dans le vocabulaire des sciences physiques.
+Cette réduction commet une erreur de catégorie (sophisme naturaliste, paralogisme). Elle tente d'évaluer des descriptions appartenant à l'image manifeste à l'aide des critères de correction propres à l'image scientifique. Elle détruit ainsi la structure même de l'espace des raisons, puisque des notions comme la responsabilité, la justification ou l'obligation ne possèdent pas d'équivalent direct dans le vocabulaire des sciences physiques – toute traduction y perdrait exactement ce qui fait leur signification normative.
 
 ---
 
@@ -112,7 +108,7 @@ L'objectif de l'audit n'est donc pas de choisir entre elles mais d'expliciter le
 
 Dans Protokin, la distinction est retraduite sous la forme d'une analyse des régimes descriptifs et de leurs conditions de stabilisation.
 
-L'image manifeste et l'image scientifique ne se distinguent pas par une différence de nature entre leurs objets.
+L'image manifeste et l'image scientifique ne se distinguent pas par une différence de nature entre leurs objets. Elles ne constituent pas deux niveaux de réalité hiérarchisés, mais deux trajectoires de stabilisation descriptive.
 
 Elles se distinguent par :
 
@@ -130,28 +126,7 @@ Les tensions apparaissent lorsque des locuteurs transfèrent des inférences d'u
 
 # 4. Modèle analytique
 
-Dans l'architecture Protokin, la coévolution des deux images peut être représentée selon le schéma suivant :
-
-```mermaid
-flowchart TD
-    A[Pratiques collectives et interactions causales]
-    --> B[Image manifeste<br/>Normes, agents, espace des raisons]
-
-    B -->|Construction de niches spécialisées| C[Pratiques scientifiques]
-
-    C --> D[Image scientifique<br/>Modèles causaux, structures théoriques]
-
-    D -->|Rétroactions techniques et institutionnelles| B
-
-    E[Audit Protokin]
-    -->|Explicitation| B
-
-    E -->|Explicitation| D
-
-    E --> F[Tensions, réductions et traductions]
-
-    F --> G[Analyse du coût inférentiel]
-```
+La coévolution des deux images s'articule autour des pratiques collectives, de la construction de niches scientifiques et des rétroactions techniques et institutionnelles.
 
 L'objectif de l'audit n'est pas de mesurer un écart par rapport à un réel indépendant.
 
@@ -162,6 +137,8 @@ Il consiste à cartographier :
 - ce qu'elle laisse hors champ ;
 - les conditions de traduction entre différents régimes ;
 - le coût inférentiel des révisions descriptives.
+
+L’image scientifique dépend conceptuellement de l’image manifeste non seulement parce qu’elle est produite par des pratiques sociales, mais aussi parce que ses concepts (loi, cause, modèle, observation) héritent de la signification qu’ils possèdent dans l’espace ordinaire des raisons.
 
 ---
 
@@ -194,13 +171,7 @@ Sa fonction est alors d'expliciter des régularités causales.
 
 ---
 
-L'erreur consiste à vouloir remplacer une description par l'autre.
-
-Décrire les mécanismes neuronaux d'une signature n'établit pas directement la validité d'un contrat.
-
-Décrire la validité d'un contrat n'explique pas directement les mécanismes neuronaux impliqués dans l'acte de signer.
-
-Les deux descriptions répondent à des questions différentes et s'appuient sur des critères de correction distincts.
+L'erreur consiste à vouloir remplacer une description par l'autre. C’est un paralogisme : décrire les mécanismes neuronaux d’une signature ne dit rien de la validité juridique du contrat ; décrire la validité juridique n’explique rien des mécanismes neuronaux. Les deux descriptions répondent à des questions différentes et s'appuient sur des critères de correction distincts.
 
 ---
 
@@ -227,7 +198,7 @@ Image manifeste
 → pratiques scientifiques  
 → image scientifique
 
-L'image scientifique constitue une extension spécialisée de pratiques déjà ancrées dans l'espace des raisons.
+L'image scientifique constitue une extension spécialisée de pratiques déjà ancrées dans l'espace des raisons. Elle n’hérite pas seulement de ses conditions sociales ; elle dépend aussi conceptuellement de l’image manifeste, car les notions qu’elle emploie (cause, loi, modèle) puisent leur sens ultime dans l’espace ordinaire des raisons.
 
 Elle ne flotte jamais dans un vide conceptuel ou social.
 
@@ -253,7 +224,7 @@ Cependant, l'activité scientifique elle-même demeure une pratique de l'espace 
 - des engagements ;
 - des procédures collectives d'évaluation.
 
-La distinction entre causes et raisons ne recoupe donc pas exactement la distinction entre image manifeste et image scientifique.
+La distinction entre causes et raisons ne recoupe donc pas exactement la distinction entre image manifeste et image scientifique : la science est une pratique justificative qui mobilise des raisons pour stabiliser des modèles de causes.
 
 ---
 
@@ -300,6 +271,8 @@ Elle est toujours examinée relativement :
 - aux engagements qu'elle implique ;
 - aux problèmes qu'elle permet ou non de résoudre.
 
+La distinction ne postule pas deux mondes ou deux substances ; elle cartographie deux régimes de discours dont les normes de correction sont distinctes. Protokin protège ainsi le pluralisme descriptif sans renoncer à l’exigence de rigueur.
+
 ---
 
 # Conclusion
@@ -316,4 +289,4 @@ Son apport à Protokin est de fournir un cadre permettant d'analyser simultaném
 - leurs tensions ;
 - leurs possibilités de traduction.
 
-L'objectif n'est pas de choisir entre les deux images mais de comprendre comment elles participent ensemble à la constitution historique des espaces descriptifs dans lesquels les locuteurs agissent, justifient leurs engagements, transforment leurs pratiques et reconfigurent progressivement les conditions mêmes de ce qui peut être décrit.
+L'objectif n'est pas de choisir entre les deux images mais de comprendre comment elles participent ensemble à la constitution historique des espaces descriptifs dans lesquels les locuteurs agissent, justifient leurs engagements, transforment leurs pratiques et reconfigurent progressivement les conditions mêmes de ce qui peut être décrit. Elles ne décrivent pas des réalités séparées, mais coexistent comme des régimes complémentaires d’intelligibilité.
