@@ -80,10 +80,15 @@
 
 ## Comment les descriptions changent-elles ? → Transformations
 
-- [Transitions descriptives](05_transformations/transitions.md)
-- [Traductions entre régimes](05_transformations/traductions.md)
-- [Validité et correction](05_transformations/validite.md)
-- [Limites internes](05_transformations/limites.md)
+### Déclencheurs et conditions
+- [Limites internes](05_transformations/limites.md) — *Jusqu'où une description peut-elle aller ?*
+
+### Opérations de transformation
+- [Transitions descriptives](05_transformations/transitions.md) — *Comment se réorganiser ?*
+- [Traductions entre régimes](05_transformations/traductions.md) — *Comment articuler des régimes ?*
+
+### Évaluation et régulation
+- [Validité et correction](05_transformations/validite.md) — *Quand est-elle recevable ?*
 
 ---
 
