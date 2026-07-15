@@ -68,21 +68,22 @@
 ---
 
 ## Quels problèmes analyse-t-il ? → Diagnostics
+
 - **Articulation des régimes**
   - [Tensions entre régimes](04_diagnostics/tensions.md)
   - [Réductions descriptives](04_diagnostics/reductions.md)
   - [Éclectisme descriptif](04_diagnostics/eclectisme.md)
   - [Confusions de niveaux descriptifs](04_diagnostics/confusions_niveaux.md)
 
-- **Posture et justification**
- - [Dogmatisme](04_diagnostics/dogmatisme.md)
- - [Relativisme](04_diagnostics/relativisme.md)
- - [Défauts de la chaîne justificative](04_diagnostics/defauts_justification.md)
- - [Apories performatives](04_diagnostics/apories_performatives.md)
-
-- **Exclusions et angles morts**
+- **Contraintes et limites descriptives**
+  - [Contraintes descriptives](04_diagnostics/contraintes_descriptives.md)
   - [Zones de silence descriptif](04_diagnostics/zones_silence.md)
 
+- **Posture et justification**
+  - [Dogmatisme](04_diagnostics/dogmatisme.md)
+  - [Relativisme](04_diagnostics/relativisme.md)
+  - [Défauts de la chaîne justificative](04_diagnostics/defauts_justification.md)
+  - [Apories performatives](04_diagnostics/apories_performatives.md)
 
 ---
 
