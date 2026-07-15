@@ -38,6 +38,7 @@
 
 - [Régimes de description](02_architecture_conceptuelle/regimes.md)
 - [Cartographie des régimes descriptifs](02_architecture_conceptuelle/cartographie_regimes_descriptifs.md)
+- [Critères d'identification des régimes descriptifs](02_architecture_conceptuelle/criteres_regimes.md)
 - [Modes de verrouillage des régimes](02_architecture_conceptuelle/modes_verrouillage.md)
 
 ### Engagements et normativité
