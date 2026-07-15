@@ -76,7 +76,7 @@
   - [Confusions de niveaux descriptifs](04_diagnostics/confusions_niveaux.md)
 
 - **Contraintes et limites descriptives**
-  - [Contraintes descriptives](04_diagnostics/contraintes_descriptives.md)
+  - [Contraintes descriptives](04_diagnostics/contraintes.md)
   - [Zones de silence descriptif](04_diagnostics/zones_silence.md)
 
 - **Posture et justification**
