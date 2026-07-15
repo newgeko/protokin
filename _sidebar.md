@@ -80,8 +80,8 @@
  - [Défauts de la chaîne justificative](04_diagnostics/defauts_justification.md)
  - [Apories performatives](04_diagnostics/apories_performatives.md)
 
-* - **Exclusions et angles morts**
-  - [Zones de silence descriptif](04_diagnostics/zones_silence.md)*
+- **Exclusions et angles morts**
+  - [Zones de silence descriptif](04_diagnostics/zones_silence.md)
 
 
 ---
