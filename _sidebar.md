@@ -53,7 +53,7 @@
 ### Stabilisation des descriptions
 
 - [Stabilisation et effet cliquet](02_architecture_conceptuelle/stabilisation.md)
-* - [Strates temporelles et irréversibilités](02_architecture_conceptuelle/strates_temporelles.md)*
+- [Strates temporelles et irréversibilités](02_architecture_conceptuelle/strates_temporelles.md)
 
 ---
 
