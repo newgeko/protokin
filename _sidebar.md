@@ -28,6 +28,7 @@
 - [Primat du couplage perception-action](02_architecture_conceptuelle/primat_perception_action.md)
 - [Configurations sémiotiques](02_architecture_conceptuelle/configurations_semiotiques.md)
 - [Supports descriptifs](02_architecture_conceptuelle/supports_descriptifs.md)
+* - [Supports incorporés et dispositions corporelles](02_architecture_conceptuelle/supports_incorpores.md)*
 - [Niveaux descriptifs](02_architecture_conceptuelle/niveaux_descriptifs.md)
 - [Configurations descriptives](02_architecture_conceptuelle/configurations.md)
 - [Temporalité descriptive](02_architecture_conceptuelle/temporalite.md)
@@ -37,6 +38,7 @@
 
 - [Régimes de description](02_architecture_conceptuelle/regimes.md)
 - [Cartographie des régimes descriptifs](02_architecture_conceptuelle/cartographie_regimes_descriptifs.md)
+* - [Modes de verrouillage des régimes](02_architecture_conceptuelle/modes_verrouillage.md)*
 
 ### Engagements et normativité
 
@@ -46,16 +48,19 @@
 - [Locuteur normatif](02_architecture_conceptuelle/locuteur.md)
 - [Pratique collective](02_architecture_conceptuelle/pratique_collective.md)
 - [Communauté de locuteurs](02_architecture_conceptuelle/communaute_locuteurs.md)
+* - [Échelles des collectifs descriptifs](02_architecture_conceptuelle/echelles_collectifs.md)*
 
 ### Stabilisation des descriptions
 
 - [Stabilisation et effet cliquet](02_architecture_conceptuelle/stabilisation.md)
+* - [Strates temporelles et irréversibilités](02_architecture_conceptuelle/strates_temporelles.md)*
 
 ---
 
 ## Comment enquêter avec Protokin ? → Méthode d’enquête
 
 - [Audit Protokin](03_methode_enquete/audit.md)
+* - [Grille d’audit et questions directrices](03_methode_enquete/grille_audit.md)*
 - [Lire une configuration descriptive](03_methode_enquete/lire_configuration.md)
 - [Identifier les régimes mobilisés](03_methode_enquete/identifier_regimes.md)
 - [Comparer des descriptions](03_methode_enquete/comparer_descriptions.md)
@@ -74,6 +79,9 @@
  - [Relativisme](04_diagnostics/relativisme.md)
  - [Défauts de la chaîne justificative](04_diagnostics/defauts_justification.md)
  - [Apories performatives](04_diagnostics/apories_performatives.md)
+
+* - **Exclusions et angles morts**
+  - [Zones de silence descriptif](04_diagnostics/zones_silence.md)*
 
 
 ---
