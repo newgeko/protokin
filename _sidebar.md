@@ -63,6 +63,7 @@
 ## Comment enquêter avec Protokin ? → Méthode d’enquête
 
 - [Audit Protokin](03_methode_enquete/audit.md)
+- [Unité d'analyse protokinienne](03_methode_enquete/unite_analyse.md)
 - [Grille d’audit et questions directrices](03_methode_enquete/grille_audit.md)
 - [Lire une configuration descriptive](03_methode_enquete/lire_configuration.md)
 - [Identifier les régimes mobilisés](03_methode_enquete/identifier_regimes.md)
