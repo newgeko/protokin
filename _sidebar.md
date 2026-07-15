@@ -113,6 +113,7 @@
 ## Comment comparer les puissances descriptives ? → Images et puissances
 
 - [Puissance descriptive](06_puissance_descriptive/puissance_descriptive.md)
+- [Critères de comparaison descriptive](06_puissance_descriptive/criteres_comparaison.md)
 - [Image manifeste et image scientifique](06_puissance_descriptive/image_manifeste_scientifique.md)
 - [Image manifeste](06_puissance_descriptive/image_manifeste.md)
 - [Imagination et imaginaire](06_puissance_descriptive/imagination_imaginaire.md)
