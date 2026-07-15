@@ -48,7 +48,7 @@
 - [Locuteur normatif](02_architecture_conceptuelle/locuteur.md)
 - [Pratique collective](02_architecture_conceptuelle/pratique_collective.md)
 - [Communauté de locuteurs](02_architecture_conceptuelle/communaute_locuteurs.md)
-* - [Échelles des collectifs descriptifs](02_architecture_conceptuelle/echelles_collectifs.md)*
+- [Échelles des collectifs descriptifs](02_architecture_conceptuelle/echelles_collectifs.md)
 
 ### Stabilisation des descriptions
 
