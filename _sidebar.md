@@ -31,6 +31,7 @@
 - [Supports incorporés et dispositions corporelles](02_architecture_conceptuelle/supports_incorpores.md)
 - [Niveaux descriptifs](02_architecture_conceptuelle/niveaux_descriptifs.md)
 - [Configurations descriptives](02_architecture_conceptuelle/configurations.md)
+- [Relations entre configurations descriptives](02_architecture_conceptuelle/relations_configurations.md)
 - [Temporalité descriptive](02_architecture_conceptuelle/temporalite.md)
 - [Objets descriptifs : invariants et stabilisations](02_architecture_conceptuelle/objets_descriptifs.md)
 
