@@ -48,6 +48,7 @@
 - [Inférences et justifications](02_architecture_conceptuelle/inferences_justifications.md)
 - [Causes et raisons](02_architecture_conceptuelle/causes_raisons.md)
 - [Locuteur normatif](02_architecture_conceptuelle/locuteur.md)
+- [Position épistémique du locuteur](02_architecture_conceptuelle/position_epistemique.md)
 - [Pratique collective](02_architecture_conceptuelle/pratique_collective.md)
 - [Communauté de locuteurs](02_architecture_conceptuelle/communaute_locuteurs.md)
 - [Échelles des collectifs descriptifs](02_architecture_conceptuelle/echelles_collectifs.md)
