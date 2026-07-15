@@ -171,6 +171,7 @@
 
 ## Ressources conceptuelles
 
+- [Charte rédactionnelle Protokin](10_ressources/charte_redactionnelle.md)
 - [Glossaire](10_ressources/glossaire.md)
 - [Index conceptuel](10_ressources/index_conceptuel.md)
 - [Bibliographie](10_ressources/bibliographie.md)
