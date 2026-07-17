@@ -1,0 +1,14 @@
+Dans l'architecture de Protokin, la différence fondamentale entre un engagement et une obligation absolue réside dans leur **ancrage au sein d'un contexte normatif et pratique spécifique**. 
+
+**L'engagement comme prise de position située et relative**
+Un engagement désigne la position normative qu'une description occupe lorsqu'elle s'insère dans un réseau d'inférences, de justifications et de pratiques collectives. Lorsqu'un locuteur formule ou adopte une description, il ne se contente pas de représenter une situation, il prend position et entre dans un espace de responsabilités. Cet engagement l'oblige à assumer les conséquences de son affirmation, à reconnaître certaines incompatibilités et à se soumettre à des demandes de justifications.
+
+Toutefois, **un engagement n'est jamais une obligation absolue**. Une obligation absolue suggérerait une contrainte universelle, inconditionnelle, qui s'imposerait de la même manière dans toutes les situations, indépendamment des pratiques ou de l'histoire. Protokin rejette cette idée, car un engagement possède toujours un **contexte descriptif**.
+
+L'engagement est conditionnel car il dépend strictement de trois facteurs :
+*   **La dépendance au régime descriptif :** Les engagements ne sont jamais rattachés aux objets eux-mêmes de manière inhérente, mais dépendent entièrement du cadre descriptif (le régime) dans lequel l'objet devient intelligible. Par exemple, une même situation engendrera des engagements radicalement différents selon qu'elle est décrite depuis un régime scientifique (qui engage des critères expérimentaux), un régime juridique (qui engage des critères institutionnels) ou un régime historique. Un engagement pris dans un régime n'a donc pas de force obligatoire absolue en dehors de celui-ci.
+*   **La dépendance aux pratiques :** Un engagement n'existe pas dans le vide ; il dépend d'une pratique publique de justification. Il ne prend sens que parce qu'une communauté de locuteurs stabilise cet engagement à travers des usages, des attentes réciproques et des manières partagées de justifier.
+*   **La dépendance aux critères d'évaluation :** La responsabilité assumée par le locuteur est toujours relative aux critères de recevabilité et d'argumentation reconnus par sa communauté à un moment donné.
+
+**En résumé**
+Là où une obligation absolue supposerait une loi universelle déconnectée de tout contexte, l'engagement protokinien est **une responsabilité normative locale et située**. Il n'a de force contraignante qu'à l'intérieur du régime de description, de la pratique et de la communauté de locuteurs qui le rendent opératoire et justifiable.
