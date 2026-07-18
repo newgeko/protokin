@@ -703,3 +703,5 @@ Chaque page suit une charte commune :
 # garde-fou 
 
 > Une page ne doit jamais confondre configuration et description. La configuration désigne l'organisation relationnelle analysée ; la description désigne l'opération normative qui rend cette organisation intelligible.
+
+La distinction configuration/description devient donc une charnière entre le versant PROTO (organisation, causes, contraintes) et le versant KIN (raisons, engagements, justifications). Elle est probablement l'un des points architecturaux les plus importants de toute la refonte fonctionnelle.
