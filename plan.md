@@ -700,4 +700,6 @@ Chaque page suit une charte commune :
 9. Erreurs fréquentes
 10. Pages associées
 
-Cette version me paraît être la première où la structure elle-même réalise le principe protokinien : elle ne classe plus des objets théoriques, elle décrit un parcours d'enquête.
+# garde-fou 
+
+> Une page ne doit jamais confondre configuration et description. La configuration désigne l'organisation relationnelle analysée ; la description désigne l'opération normative qui rend cette organisation intelligible.
