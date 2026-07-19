@@ -1,31 +1,37 @@
+Configuration descriptive = l'espace organisé dans lequel des descriptions deviennent possibles.
+
+Fonctions descriptives = les opérations réalisées dans cet espace (prédication, configuration, assertion, inférence, justification).
+
+Régime descriptif = les conditions normatives qui rendent ces opérations recevables.
+
+
+Je modifierais aussi légèrement le vocabulaire : une configuration n'est pas seulement "le point de départ", elle est l'unité relationnelle minimale d'analyse.
+
+Voici une version révisée :
+
 # Configurations descriptives
 
 Cette page définit la notion de **configuration descriptive** dans l'architecture de **Protokin**.
 
 Elle répond à une question fondamentale :
 
-> **À partir de quoi une enquête protokinienne commence-t-elle ?**
+> **À partir de quoi une enquête protokinienne peut-elle commencer ?**
 
 La réponse est :
 
-> **Une enquête ne commence jamais à partir d'un donné brut. Elle commence toujours à partir d'une configuration descriptive déjà organisée.**
+> **Une enquête ne commence jamais à partir d'un donné brut, mais à partir d'une configuration descriptive déjà organisée.**
+
+Une configuration descriptive constitue l'espace relationnel dans lequel des éléments peuvent être identifiés, distingués, qualifiés et soumis à analyse.
 
 ---
 
 # 1. Principe général
 
-Dans Protokin, une **configuration descriptive** désigne une organisation relationnelle dans laquelle certaines descriptions deviennent possibles, intelligibles et analysables.
+Dans Protokin, une **configuration descriptive** désigne une organisation relationnelle d'éléments qui rend certaines descriptions possibles.
 
 Une configuration n'est pas une chose isolée.
 
-Elle correspond à un ensemble d'éléments dont les relations rendent possible :
-
-- une identification ;
-- une distinction ;
-- une description ;
-- une analyse.
-
-Une configuration peut comprendre :
+Elle correspond à un ensemble structuré de relations entre :
 
 - des concepts ;
 - des énoncés ;
@@ -35,97 +41,124 @@ Une configuration peut comprendre :
 - des pratiques ;
 - des institutions ;
 - des dispositifs techniques ;
-- des formes d'inscription matérielle.
+- des inscriptions matérielles.
 
-Cependant, ces éléments ne forment une configuration que par les relations qui les organisent.
+Cependant, une configuration ne résulte jamais de la simple présence simultanée de ces éléments.
 
-Une simple collection d'éléments ne constitue pas encore une configuration descriptive.
+Elle existe par les relations qui les organisent.
 
 Ainsi :
 
-> **Une configuration n'est pas une somme d'éléments, mais une organisation relationnelle qui rend certaines descriptions possibles.**
+> **Une configuration n'est pas une collection d'éléments, mais une organisation relationnelle qui rend certaines opérations descriptives possibles.**
 
 ---
 
 # 2. Il n'existe pas de donné descriptif brut
 
-Protokin part d'une hypothèse fondamentale :
+Protokin part d'un principe méthodologique :
 
 > **Tout ce qui devient descriptible apparaît déjà dans une configuration.**
 
-Cela signifie qu'une enquête ne rencontre jamais un matériau totalement indépendant de toute organisation préalable.
+Cela ne signifie pas que le monde serait une construction arbitraire.
 
-Ce qui devient analysable suppose déjà :
+Cela signifie que l'accès descriptif au monde suppose toujours des formes préalables d'organisation :
 
-- des différences pertinentes ;
-- des formes d'identification ;
-- des relations entre éléments ;
-- des critères de reconnaissance ;
-- des pratiques d'observation ou d'interprétation.
+- différences pertinentes ;
+- critères d'identification ;
+- catégories ;
+- pratiques d'observation ;
+- moyens d'inscription ;
+- formes d'interprétation.
 
-Cette position ne signifie pas que le monde serait une construction arbitraire.
+Une enquête ne commence donc jamais depuis un point zéro.
 
-Elle signifie que toute description commence depuis une organisation déjà présente.
-
-L'enquête ne part donc pas d'un point zéro.
-
-Elle part d'une configuration.
+Elle commence depuis une configuration déjà active.
 
 ---
 
 # 3. Configuration et description
 
-Une configuration descriptive ne doit pas être confondue avec une description particulière.
+La configuration descriptive ne doit pas être confondue avec une description particulière.
 
 La configuration désigne :
 
-> **L'organisation relationnelle dans laquelle une description peut prendre place.**
+> **L'organisation relationnelle dans laquelle des descriptions peuvent être produites.**
 
 La description désigne :
 
-> **L'actualisation explicite d'une configuration dans un régime descriptif déterminé.**
+> **L'actualisation d'une configuration par une opération descriptive située dans un régime déterminé.**
 
-Une description n'apparaît donc pas hors configuration.
+Une description n'est donc jamais extérieure à une configuration.
 
-Elle constitue une manière particulière d'expliciter, de qualifier et d'engager une organisation déjà structurée.
+Elle constitue une manière particulière d'expliciter cette organisation.
 
-Par exemple :
-
-L'énoncé :
+Exemple :
 
 > « Le ciel est bleu »
 
-n'est pas une simple réception passive d'une donnée.
-
-Il suppose déjà :
+Cet énoncé suppose déjà :
 
 - une distinction entre ciel et environnement ;
 - une catégorie chromatique ;
-- une pratique linguistique partagée ;
+- des pratiques linguistiques partagées ;
 - une position d'observation ;
-- des critères permettant de discuter sa correction.
+- des critères permettant d'évaluer l'énoncé.
 
-L'énoncé est donc déjà inscrit dans une configuration descriptive.
+L'énoncé n'est donc pas une réception passive d'un donné.
+
+Il est une opération réalisée dans une configuration.
 
 ---
 
-# 4. Configuration et pluralité des descriptions
+# 4. Configuration et fonctions descriptives
+
+Une configuration descriptive constitue le milieu dans lequel plusieurs fonctions descriptives peuvent être réalisées.
+
+Ces fonctions sont :
+
+| Fonction | Opération |
+|---|---|
+| Prédication | Attribuer une qualification |
+| Configuration | Organiser des relations entre éléments |
+| Assertion | Engager une position dans un espace de raisons |
+| Inférence | Produire des conséquences à partir d'une description |
+| Justification | Soutenir la recevabilité d'une description |
+
+Ainsi, une configuration ne produit pas automatiquement une description unique.
+
+Elle rend possibles différentes opérations descriptives.
+
+Par exemple :
+
+> « Cette personne est mauvaise »
+
+implique :
+
+- une prédication : attribuer une qualification morale ;
+- une configuration : relier cette qualification à une histoire, des actes et un contexte ;
+- une assertion : un locuteur engage cette description ;
+- des inférences : certaines conséquences pratiques deviennent possibles.
+
+L'analyse protokinienne porte donc sur les opérations par lesquelles une configuration devient descriptive.
+
+---
+
+# 5. Configuration et pluralité des descriptions
 
 Une même configuration peut donner lieu à plusieurs descriptions.
 
-Cela signifie qu'une configuration ne détermine jamais mécaniquement une seule manière de décrire.
-
-Par exemple, une institution peut être décrite selon différents régimes :
+Une institution, un comportement ou un événement peuvent être décrits selon différents régimes :
 
 - juridique ;
+- scientifique ;
 - historique ;
 - économique ;
-- sociologique ;
+- moral ;
 - politique.
 
-La configuration constitue donc un espace organisé de possibilités descriptives.
+La configuration constitue donc un espace de possibilités descriptives.
 
-Elle ne produit pas automatiquement une description unique.
+Elle ne détermine jamais mécaniquement une seule interprétation.
 
 L'analyse protokinienne cherche alors à comprendre :
 
@@ -136,64 +169,34 @@ L'analyse protokinienne cherche alors à comprendre :
 
 ---
 
-# 5. Configuration et régime descriptif
+# 6. Configuration et régime descriptif
 
-La distinction entre configuration et régime est centrale dans Protokin.
+La distinction entre configuration et régime est centrale.
 
 Une configuration descriptive désigne :
 
-> **Ce qui est soumis à analyse.**
+> **L'organisation relationnelle soumise à analyse.**
 
 Un régime descriptif désigne :
 
-> **Les conditions selon lesquelles une description devient intelligible et recevable.**
-
-Ces deux notions ne correspondent pas à deux niveaux du réel.
-
-Elles remplissent deux fonctions différentes dans l'enquête.
+> **Les conditions selon lesquelles certaines descriptions deviennent intelligibles, évaluables et recevables.**
 
 | Question | Concept |
 |---|---|
 | Quelle organisation est analysée ? | Configuration descriptive |
-| Selon quelles conditions cette organisation devient-elle descriptible ? | Régime descriptif |
+| Selon quelles conditions peut-elle être décrite ? | Régime descriptif |
 
 Le régime ne crée pas la configuration.
 
-Il organise les conditions selon lesquelles certaines descriptions de cette configuration peuvent être formulées, évaluées et maintenues.
+Il détermine les conditions selon lesquelles certaines opérations descriptives peuvent être réalisées dans cette configuration.
 
 ---
 
-# 6. Configuration et analyse protokinienne
-
-La configuration constitue l'unité initiale de l'enquête.
-
-Elle permet d'identifier un domaine déjà organisé pouvant être soumis à une analyse.
-
-Une enquête peut ainsi examiner :
-
-- une théorie scientifique ;
-- une pratique sociale ;
-- une institution ;
-- un modèle ;
-- une classification ;
-- un dispositif technique ;
-- une controverse.
-
-Mais elle ne considère jamais ces éléments comme des objets isolés.
-
-Elle les analyse comme des configurations relationnelles.
-
-La question initiale devient alors :
-
-> **Quelle organisation rend cette description possible, intelligible et contestable ?**
-
----
-
-# 7. Configuration et reproduction
+# 7. Configuration et stabilisation
 
 Une configuration descriptive n'est pas une structure fixe.
 
-Elle possède une stabilité relative produite par des pratiques qui la reproduisent.
+Elle possède une stabilité relative produite par des pratiques qui la maintiennent.
 
 Cette stabilité dépend notamment :
 
@@ -201,33 +204,34 @@ Cette stabilité dépend notamment :
 - de supports matériels ;
 - d'institutions ;
 - de procédures de validation ;
-- d'habitudes descriptives.
+- de transmissions historiques.
 
-Une configuration est donc toujours :
+Une configuration est donc :
 
 - située ;
-- provisoire ;
-- maintenue par des pratiques.
+- historique ;
+- reproductible ;
+- transformable.
 
-Elle ne désigne pas un état définitif, mais une organisation suffisamment reproduite pour devenir analysable.
+Elle n'est pas un état définitif, mais une organisation suffisamment stabilisée pour devenir analysable.
 
 ---
 
 # 8. Fonction dans l'architecture Protokin
 
-La configuration descriptive constitue le point d'entrée méthodologique de Protokin.
+La configuration descriptive constitue l'unité méthodologique initiale de l'enquête.
 
-L'ordre de l'enquête peut être représenté ainsi :
+L'analyse protokinienne peut être représentée ainsi :
 
-Configuration descriptive ↓ Décrire ↓ Qualifier ↓ Articuler ↓ Reproduire / Transformer ↓ Délimiter ↓ Retracer ↓ Expliquer / Justifier ↓ Auditer
+Configuration descriptive ↓ Opérations descriptives ↓ Régime descriptif ↓ Recevabilité ↓ Stabilisation / transformation ↓ Audit
 
-Cette représentation indique un ordre d'analyse.
-
-Elle ne décrit :
+Cette représentation ne décrit :
 
 - ni des étapes temporelles obligatoires ;
 - ni des niveaux du réel ;
 - ni une hiérarchie ontologique.
+
+Elle décrit une architecture fonctionnelle d'analyse.
 
 ---
 
@@ -243,7 +247,7 @@ Une configuration descriptive ne doit pas être comprise comme :
 
 Elle constitue un concept méthodologique.
 
-Son rôle est de désigner une organisation relationnelle déjà active à partir de laquelle Protokin peut analyser les conditions de description.
+Son rôle est de désigner une organisation relationnelle à partir de laquelle Protokin analyse les conditions de production, d'évaluation et de transformation des descriptions.
 
 ---
 
@@ -251,6 +255,6 @@ Son rôle est de désigner une organisation relationnelle déjà active à parti
 
 > **Protokin ne commence pas par des objets isolés, mais par des configurations descriptives dans lesquelles des objets, des faits et des distinctions deviennent analysables.**
 
-Une configuration descriptive n'est ni un donné brut, ni une description isolée.
+Une configuration descriptive n'est ni un donné brut, ni une description particulière.
 
-Elle est une organisation relationnelle déjà constituée, au sein de laquelle certaines descriptions peuvent être formulées, évaluées, reproduites et transformées.
+Elle est l'organisation relationnelle à partir de laquelle des opérations descriptives peuvent être effectuées, évaluées et transformées dans un régime donné.
