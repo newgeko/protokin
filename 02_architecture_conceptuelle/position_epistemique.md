@@ -1,192 +1,253 @@
 # Position épistémique du locuteur
 
-## Introduction
+## Fonction de la page
+
+Cette page analyse depuis quelle position une description peut être produite, évaluée et transformée.
+
+Elle répond à la question :
+
+> **Depuis quelle position une description devient-elle possible ?**
+
+Dans Protokin, une description n'est jamais produite depuis un point extérieur ou neutre.
+
+Elle apparaît toujours depuis une position située dans une configuration descriptive.
+
+---
+
+# Introduction
 
 Toute description est produite depuis une position déterminée.
 
-Un locuteur ne se situe jamais hors de toute configuration descriptive : il occupe une place depuis laquelle certaines distinctions, certains objets et certaines justifications deviennent accessibles.
+Un locuteur ne se situe jamais hors de toute configuration descriptive.
+Il participe à un ensemble de relations, de pratiques et d'engagements qui rendent certaines descriptions possibles.
 
-Cette position constitue une dimension essentielle de l’analyse protokinienne du locuteur.
+La position épistémique désigne donc :
 
-La position épistémique du locuteur désigne l’ensemble des conditions depuis lesquelles une description peut être formulée, évaluée et transformée.
+> **la place occupée par un locuteur dans une configuration descriptive depuis laquelle certaines distinctions, certains engagements et certaines justifications deviennent accessibles.**
 
-> Elle ne désigne pas une perspective subjective privée.
->
-> Elle désigne la situation descriptive depuis laquelle un locuteur participe à un espace de raisons.
+Cette notion ne désigne pas une perspective subjective privée.
 
----
+Elle ne renvoie pas à une vision individuelle du monde.
 
-## Qu’est-ce qu’une position épistémique ?
-
-Une position épistémique correspond à la place occupée par un locuteur dans une configuration descriptive.
-
-Elle comprend notamment :
-
-- les ressources descriptives disponibles ;
-- les engagements déjà établis ;
-- les pratiques auxquelles le locuteur participe ;
-- les critères de justification reconnus.
-
-Cette position rend certaines descriptions possibles tout en en limitant d’autres.
+Elle désigne une **position fonctionnelle dans un espace de relations descriptives et normatives**.
 
 ---
 
-## Position épistémique et locuteur normatif
+# 1. Principe général
 
-Le locuteur n’est pas seulement celui qui produit des énoncés.
+Dans Protokin, le locuteur n'est jamais le point de départ absolu d'une description.
 
-Il est celui qui peut :
+Il apparaît toujours dans une configuration déjà organisée comprenant :
 
-- prendre position ;
-- assumer des engagements ;
-- demander des justifications ;
-- répondre aux objections.
+- des distinctions disponibles ;
+- des supports descriptifs ;
+- des pratiques collectives ;
+- des critères de recevabilité.
 
-Voir :
+La position épistémique correspond à la manière dont un locuteur est situé dans cette organisation.
 
-- [Locuteur normatif](locuteur.md)
+Elle détermine :
 
-La position épistémique précise cependant une dimension particulière :
-
-elle examine depuis où cette activité normative devient possible.
+- ce qu'il peut identifier ;
+- ce qu'il peut formuler ;
+- ce qu'il peut justifier ;
+- ce qu'il peut contester.
 
 ---
 
-## Position et accès descriptif
+# 2. Position épistémique et configuration descriptive
 
-Une position épistémique organise un accès particulier aux objets descriptifs.
+La position épistémique doit être comprise comme une position interne à une configuration.
 
-Elle détermine notamment :
+Une configuration descriptive organise un espace de relations.
 
-- quelles distinctions peuvent être mobilisées ;
-- quelles informations sont disponibles ;
-- quelles relations peuvent être établies.
+Une position épistémique correspond à la place occupée dans cet espace.
+
+Ainsi :
+
+| Question | Concept |
+|---|---|
+| Quelle organisation est analysée ? | Configuration descriptive |
+| Depuis quelle place une description est-elle produite ? | Position épistémique |
+| Quel énoncé est formulé ? | Description |
+| Quels engagements sont assumés ? | Engagements descriptifs |
+
+La position n'est donc pas extérieure à la configuration.
+
+Elle est une manière particulière d'y participer.
 
 Voir :
 
 - [Configurations descriptives](configurations.md)
 
-L’accès descriptif n’est donc pas un simple enregistrement d’un objet déjà constitué.
+---
 
-Il dépend d’une position dans un ensemble de pratiques et de ressources.
+# 3. Position épistémique et locuteur normatif
+
+Le locuteur n'est pas simplement celui qui produit un énoncé.
+
+Il est celui qui peut entrer dans un espace de raisons.
+
+Cela signifie qu'il peut :
+
+- soutenir une affirmation ;
+- répondre à une objection ;
+- reconnaître une erreur ;
+- modifier ses engagements.
+
+La position épistémique précise la condition depuis laquelle cette activité normative devient possible.
+
+Voir :
+
+- [Locuteur normatif](locuteur.md)
+
+Ainsi :
+
+> Le locuteur n'est pas l'origine d'une description ; il est une position de participation dans un réseau de pratiques descriptives.
 
 ---
 
-## Position et engagements
+# 4. Position et accès descriptif
+
+Une position épistémique organise un accès particulier aux configurations.
+
+Elle rend certaines distinctions disponibles et en limite d'autres.
+
+Elle dépend notamment :
+
+- des connaissances accessibles ;
+- des instruments disponibles ;
+- des pratiques acquises ;
+- des classifications utilisées.
+
+Une position n'est donc pas un filtre psychologique individuel.
+
+Elle est une condition pratique d'accès aux descriptions possibles.
+
+---
+
+# 5. Position et engagements descriptifs
 
 Toute position épistémique implique des engagements.
 
-Un locuteur qui produit une description entre dans un espace où certaines affirmations peuvent être :
+Lorsqu'un locuteur adopte une description, il entre dans un réseau d'inférences.
 
-- soutenues ;
-- contestées ;
-- révisées.
+Cette position lui impose notamment :
+
+- certaines conséquences à accepter ;
+- certaines justifications à fournir ;
+- certaines objections à traiter.
 
 Voir :
 
 - [Engagements descriptifs](engagements.md)
 
-La position épistémique ne correspond donc pas seulement à un point d’observation.
-
-Elle implique une responsabilité descriptive.
+La position épistémique est donc inséparable d'une responsabilité descriptive.
 
 ---
 
-## Position et espace des raisons
+# 6. Position et espace des raisons
 
-La position épistémique concerne la manière dont un locuteur participe à un espace de raisons.
+La position épistémique désigne une participation à un espace de raisons.
 
-Elle implique :
+Elle suppose :
 
-- la capacité à fournir des justifications ;
-- la possibilité de recevoir des objections ;
-- l’inscription dans des pratiques de reconnaissance mutuelle.
+- des critères de justification ;
+- des pratiques de reconnaissance ;
+- des possibilités de contestation ;
+- des normes d'évaluation.
+
+Une position épistémique n'est donc pas seulement une localisation dans une configuration.
+
+Elle est une capacité à participer à un réseau normatif.
 
 Voir :
 
 - [Inférences et justifications](inferences_justifications.md)
 
-Une position épistémique est ainsi une position dans un réseau de relations normatives.
-
 ---
 
-## Position et supports descriptifs
+# 7. Position et supports descriptifs
 
-La position d’un locuteur dépend également des supports auxquels il a accès.
+Toute position épistémique dépend de supports.
 
 Ces supports peuvent être :
 
 - corporels ;
 - techniques ;
 - linguistiques ;
-- institutionnels.
+- institutionnels ;
+- symboliques.
+
+Un locuteur ne dispose jamais d'une capacité descriptive indépendante de ses conditions matérielles d'existence.
 
 Voir :
 
 - [Supports descriptifs](../02_architecture_conceptuelle/supports_descriptifs.md)
 
-Les capacités descriptives d’un locuteur ne sont donc jamais indépendantes des conditions matérielles et pratiques qui les rendent possibles.
+La position épistémique est donc toujours une position incarnée et située.
 
 ---
 
-## Position et collectifs descriptifs
+# 8. Position et collectifs descriptifs
 
-Les positions épistémiques ne sont pas uniquement individuelles.
+Les positions épistémiques sont également distribuées collectivement.
 
-Elles peuvent être définies par l’appartenance à des pratiques collectives.
+Un collectif peut organiser :
+
+- des rôles descriptifs ;
+- des compétences reconnues ;
+- des procédures de validation ;
+- des critères de justification.
+
+Ainsi, un médecin, un juge ou un chercheur n'occupent pas seulement une position individuelle.
+
+Ils occupent une position définie par une pratique collective.
 
 Voir :
 
 - [Pratique collective](pratique_collective.md)
 - [Communauté de locuteurs](communaute_locuteurs.md)
 
-Un collectif peut ainsi distribuer :
-
-- des rôles descriptifs ;
-- des critères de justification ;
-- des ressources d’interprétation.
-
-La position d’un locuteur dépend alors de sa place dans cette organisation collective.
-
 ---
 
-## Position et transformation des descriptions
+# 9. Position et trajectoire descriptive
 
-Une position épistémique peut évoluer lorsque les configurations descriptives changent.
+Une position épistémique n'est pas fixe.
 
-Cette évolution peut concerner :
+Elle évolue avec les transformations des configurations descriptives.
 
-- les engagements disponibles ;
-- les supports mobilisés ;
-- les relations avec d’autres locuteurs ;
-- les critères de justification.
+Elle peut changer lorsque se modifient :
+
+- les supports disponibles ;
+- les régimes mobilisés ;
+- les engagements acceptés ;
+- les relations avec d'autres positions.
+
+La position est donc une trajectoire de participation.
+
+Elle n'est pas un emplacement permanent.
 
 Voir :
 
 - [Transitions descriptives](../05_transformations/transitions.md)
 
-La transformation d’une position ne signifie pas disparition du locuteur, mais modification de sa participation descriptive.
-
 ---
 
-## Ce que cette page établit
+# Ce que cette page établit
 
 Cette page établit que :
 
-- toute description est produite depuis une position déterminée ;
-- une position épistémique désigne une place dans une configuration descriptive, et non une simple subjectivité ;
-- cette position conditionne les distinctions, engagements et justifications accessibles ;
-- le locuteur participe à un espace de raisons depuis une situation particulière ;
-- les positions épistémiques peuvent évoluer avec les transformations des configurations descriptives.
+- une description est toujours produite depuis une position située ;
+- une position épistémique n'est pas une subjectivité privée mais une place dans une configuration descriptive ;
+- le locuteur participe à un espace de raisons depuis cette position ;
+- les positions déterminent les distinctions, engagements et justifications accessibles ;
+- une position épistémique peut évoluer avec les transformations des configurations descriptives.
 
 ---
 
-## Voir également
+# Principe final
 
-- [Locuteur normatif](locuteur.md)
-- [Engagements descriptifs](engagements.md)
-- [Inférences et justifications](inferences_justifications.md)
-- [Pratique collective](pratique_collective.md)
-- [Communauté de locuteurs](communaute_locuteurs.md)
-- [Supports descriptifs](supports_descriptifs.md)
-- [Transitions descriptives](../05_transformations/transitions.md)
+> **Une description n'émane jamais d'un sujet isolé : elle apparaît depuis une position située dans une configuration de relations, de pratiques et d'engagements.**
+
+La position épistémique désigne donc la manière dont un locuteur participe à une trajectoire descriptive.
