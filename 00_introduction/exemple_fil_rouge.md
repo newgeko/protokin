@@ -1,426 +1,403 @@
-# Exemple fil rouge : « Cette personne est dangereuse »
+# Fil rouge protokinien : « Cette personne est mauvaise »
 
-## Une description à travers la construction progressive d'un objet descriptif
+## Introduction
 
-> Voir également :
->
-> - [Supports descriptifs](../02_architecture_conceptuelle/supports_descriptifs.md)
-> - [Configurations descriptives](../02_architecture_conceptuelle/configurations.md)
-> - [Objets descriptifs : invariants et stabilisations](../02_architecture_conceptuelle/objets_descriptifs.md)
-> - [Régimes de description](../02_architecture_conceptuelle/regimes.md)
-> - [Engagements descriptifs](../02_architecture_conceptuelle/engagements.md)
-> - [Locuteur normatif](../02_architecture_conceptuelle/locuteur.md)
-> - [Stabilisation et effet cliquet](../02_architecture_conceptuelle/stabilisation.md)
-> - [Audit Protokin](../03_methode_enquete/audit.md)
+L'assertion :
 
----
+> « Cette personne est mauvaise »
 
-# Pourquoi un exemple fil rouge ?
+semble, au premier abord, être une simple description d'un individu.
 
-Protokin introduit progressivement plusieurs concepts :
+Cependant, dans l'approche protokinienne, cette phrase n'est jamais analysée comme l'expression directe d'une propriété contenue dans une personne.
 
-- support descriptif ;
-- configuration descriptive ;
-- objet descriptif ;
-- régime descriptif ;
-- locuteur ;
-- engagement ;
-- stabilisation ;
-- audit.
+Elle est étudiée comme une **trajectoire descriptive** :
 
-Pris séparément, ces concepts peuvent sembler abstraits.
+- une configuration devient analysable ;
+- certaines distinctions deviennent pertinentes ;
+- un régime descriptif sélectionne des critères ;
+- une description est formulée ;
+- cette description entre dans des pratiques de reproduction ou de contestation.
 
-L'objectif de cette page est de fournir un exemple simple permettant de suivre la trajectoire complète d'une description.
+La question protokinienne n'est donc pas :
 
-L'exemple choisi est volontairement minimal :
+> Cette personne possède-t-elle réellement la propriété "mauvaise" ?
 
-> **Cette personne est dangereuse.**
+mais :
 
-Cette phrase semble immédiate.
-
-Pourtant, son fonctionnement dépend toujours des conditions dans lesquelles elle apparaît.
+> Comment une configuration en vient-elle à être décrite comme "mauvaise" ?
 
 ---
 
-# 1. Une expression descriptive minimale
+# I. Décrire
 
-Considérons l'énoncé :
+## Que décrit-on ?
 
-> Cette personne est dangereuse.
+L'enquête commence par une configuration descriptive.
 
-Une lecture spontanée pourrait chercher à déterminer si cette affirmation est vraie ou fausse.
+Avant même l'énoncé :
 
-Protokin commence autrement.
+> « Cette personne est mauvaise »
 
-La première question n'est pas :
+il existe une organisation relationnelle :
 
-> Cette personne est-elle réellement dangereuse ?
+- des comportements observés ;
+- des récits ;
+- des souvenirs ;
+- des interactions ;
+- des réactions émotionnelles ;
+- des normes sociales ;
+- des conséquences attribuées.
 
-Mais :
+Cette configuration ne contient pas encore la description "mauvaise".
 
-> Comment cette description devient-elle possible ?
+Elle constitue le champ organisé à partir duquel plusieurs descriptions deviennent possibles.
 
-L'enquête commence par la reconstruction des conditions de fonctionnement de l'énoncé.
+La même configuration pourrait donner lieu à :
 
-Il faut examiner :
+- « cette personne est dangereuse » ;
+- « cette personne souffre d'un trouble » ;
+- « cette personne agit selon certains intérêts » ;
+- « cette personne a violé une norme morale ».
 
-- où la description apparaît ;
-- qui la produit ;
-- dans quelle pratique elle intervient ;
-- quelles conséquences elle rend possibles.
+La description n'est donc pas contenue dans la configuration.
 
----
-
-# 2. Le support descriptif
-
-Une description n'existe jamais indépendamment d'un support.
-
-Elle apparaît toujours dans une forme concrète d'inscription.
-
-Par exemple :
-
-> « Cette personne est dangereuse »
-
-peut apparaître dans :
-
-- un dossier médical ;
-- un jugement ;
-- un article de presse ;
-- un rapport administratif ;
-- une conversation ordinaire ;
-- un document politique.
-
-La formulation peut être identique.
-
-Son fonctionnement descriptif peut cependant changer.
-
-Le support constitue donc une première condition d'analyse.
+Elle est une opération de sélection et d'articulation.
 
 ---
 
-# 3. La configuration descriptive
+# II. Qualifier
 
-À partir d'un support, une configuration descriptive peut être reconstruite.
-
-Une configuration correspond à une organisation possible d'une situation rendue descriptible.
-
-Elle implique :
-
-- certaines distinctions ;
-- certaines sélections ;
-- certains rapports entre éléments.
+## Selon quel régime cette description devient-elle intelligible ?
 
 L'énoncé :
 
-> Cette personne est dangereuse.
+> « Cette personne est mauvaise »
 
-ne précise pas encore :
+ne possède pas une signification unique.
 
-- quel type de danger est en jeu ;
-- selon quel critère ;
-- pour quelle pratique ;
-- avec quelles conséquences.
+Il dépend du régime descriptif mobilisé.
 
-Il constitue un point de départ pour l'enquête.
+## Régime moral
 
----
+La personne est décrite selon des catégories comme :
 
-# 4. La formation d'un objet descriptif
+- faute ;
+- intention ;
+- responsabilité ;
+- culpabilité.
 
-Une description peut contribuer à stabiliser un objet descriptif.
+La description signifie alors :
 
-L'objet descriptif n'est pas simplement une chose déjà présente.
-
-Il correspond à une manière stabilisée d'organiser une description.
-
-Selon les contextes, la même formulation peut participer à la construction de différents objets :
-
-- individu à risque ;
-- patient nécessitant une surveillance ;
-- personne juridiquement qualifiée ;
-- adversaire politique ;
-- figure médiatique.
-
-L'objet descriptif apparaît lorsqu'une manière de décrire devient suffisamment stable pour être reprise dans des pratiques collectives.
-
----
-
-# 5. Les régimes descriptifs
-
-Une même configuration peut être mobilisée dans plusieurs régimes descriptifs.
-
-L'expression :
-
-> Cette personne est dangereuse.
-
-ne produit pas les mêmes inférences selon le régime concerné.
-
----
-
-## Régime médical
-
-La description peut être associée à :
-
-- une évaluation clinique ;
-- un risque identifié ;
-- une procédure de prise en charge.
+> Cette personne possède une orientation incompatible avec certaines normes morales.
 
 ---
 
 ## Régime juridique
 
-La description peut être associée à :
+La même configuration peut devenir :
 
-- une qualification institutionnelle ;
-- des procédures ;
-- des décisions normatives.
+- auteur d'une infraction ;
+- responsable légal ;
+- personne sanctionnable.
 
----
+Le régime juridique ne cherche pas une "mauvaise nature".
 
-## Régime médiatique
-
-La description peut être associée à :
-
-- une narration publique ;
-- une sélection d'événements ;
-- une construction d'image.
+Il établit des qualifications selon des procédures.
 
 ---
 
-## Régime politique
+## Régime psychologique
 
-La description peut être associée à :
+La description peut devenir :
 
-- une menace institutionnelle ;
-- une opposition ;
-- une stratégie collective.
+- comportement problématique ;
+- fonctionnement relationnel particulier ;
+- dynamique affective.
 
----
-
-Une même phrase ne possède donc pas un fonctionnement descriptif unique.
-
-Elle acquiert sa portée dans un régime donné.
+La qualification change alors complètement.
 
 ---
 
-# 6. Les locuteurs
+Ainsi :
 
-Une description est toujours produite par un locuteur.
+> Un régime descriptif ne révèle pas une essence cachée. Il détermine les critères selon lesquels une description devient possible.
 
-La question devient :
+---
 
-> Qui parle, depuis quelle position, et avec quelles responsabilités ?
+# III. Articuler
 
-Comparer :
+## Comment plusieurs descriptions coexistent-elles ?
 
-> Un médecin affirme :
->
-> « Cette personne est dangereuse. »
+Plusieurs régimes peuvent porter sur la même configuration.
 
-et :
+Une personne peut être simultanément décrite comme :
 
-> Un journaliste affirme :
->
-> « Cette personne est dangereuse. »
+- moralement condamnable ;
+- juridiquement responsable ;
+- psychologiquement explicable ;
+- socialement influencée.
 
-La phrase est identique.
+Ces descriptions peuvent :
+
+- être compatibles ;
+- entrer en tension ;
+- tenter de se réduire mutuellement.
+
+Exemple :
+
+Réduction :
+
+> « Elle est mauvaise parce qu'elle possède une nature mauvaise. »
+
+Cette formulation transforme une description située en propriété ontologique.
+
+Protokin identifie ici une réification.
+
+---
+
+# IV. Reproduire
+
+## Comment cette description continue-t-elle d'exister ?
+
+Une description comme :
+
+> « Cette personne est mauvaise »
+
+ne se maintient pas uniquement par son énonciation.
+
+Elle doit être reproduite par des pratiques :
+
+- récits répétés ;
+- témoignages ;
+- classifications ;
+- institutions ;
+- sanctions ;
+- habitudes collectives.
+
+Une communauté peut progressivement stabiliser cette description.
+
+Elle devient alors une description recevable dans un certain espace social.
 
 Cependant :
 
-- les engagements changent ;
-- les justifications attendues changent ;
-- les conséquences possibles changent.
+la reproduction n'est jamais une preuve d'une vérité absolue.
 
-Le locuteur inscrit la description dans un espace normatif.
+Elle indique seulement qu'une description possède une efficacité pratique et collective.
 
 ---
 
-# 7. Les engagements descriptifs
+# V. Transformer
 
-Décrire n'est jamais seulement produire une phrase.
+## Comment les conditions de reproduction changent-elles ?
 
-Toute description crée des engagements.
-
-Affirmer :
-
-> Cette personne est dangereuse.
-
-implique notamment de pouvoir répondre :
-
-- Sur quoi cette affirmation repose-t-elle ?
-- Quelles conséquences accepte-t-elle ?
-- Quelles objections doit-elle considérer ?
-- Quelles incompatibilités doit-elle reconnaître ?
-
-Les engagements dépendent toujours du régime dans lequel la description fonctionne.
-
----
-
-# 8. Les pratiques collectives
-
-Les descriptions ne circulent jamais seules.
-
-Elles existent dans des pratiques :
-
-- enquêter ;
-- classer ;
-- juger ;
-- soigner ;
-- informer ;
-- administrer ;
-- enseigner.
-
-Ces pratiques rendent possibles :
-
-- la transmission ;
-- la correction ;
-- la critique ;
-- la reproduction.
-
-Une description devient durable lorsqu'elle trouve une place dans des pratiques collectives.
-
----
-
-# 9. La stabilisation
-
-Certaines descriptions deviennent progressivement plus faciles à utiliser.
-
-Elles peuvent être :
-
-- reprises ;
-- enseignées ;
-- institutionnalisées ;
-- intégrées à des procédures.
-
-La stabilisation ne signifie pas automatiquement qu'une description est vraie.
-
-Elle signifie qu'un ensemble de pratiques permet sa reproduction dans le temps.
-
----
-
-# 10. L'effet cliquet
-
-Lorsqu'une description est fortement stabilisée, elle peut produire un effet cliquet.
-
-Cela signifie que :
-
-- certaines inférences deviennent disponibles ;
-- certaines pratiques deviennent organisées autour d'elle ;
-- certaines alternatives deviennent plus difficiles à mobiliser.
-
-Une description acquiert alors une inertie historique.
-
----
-
-# 11. Les tensions descriptives
-
-Une description stabilisée peut néanmoins rencontrer des tensions.
+Une description peut être transformée lorsque ses conditions de maintien changent.
 
 Par exemple :
 
-- plusieurs régimes peuvent produire des descriptions incompatibles ;
-- une catégorie peut être utilisée hors de son domaine initial ;
-- une inférence peut dépasser les critères qui la justifient ;
-- une description peut être réduite abusivement à un autre régime.
+Une personne longtemps décrite comme :
 
-Les tensions deviennent alors des points privilégiés d'analyse.
+> « mauvaise »
 
----
+peut être redécrite comme :
 
-# 12. L'audit de la description
+- victime d'un contexte ;
+- personne ayant changé ;
+- individu réinséré ;
+- cas nécessitant une autre analyse.
 
-L'audit protokinien ne demande pas seulement :
+La transformation peut venir :
 
-> Cette personne est-elle réellement dangereuse ?
+- de nouvelles informations ;
+- d'un changement de régime ;
+- d'une modification des normes ;
+- d'une nouvelle interprétation.
 
-Il examine :
+La question devient :
 
-> Dans quel support cette description apparaît-elle ?
-
-> Quelle configuration rend-elle possible ?
-
-> Quel objet descriptif contribue-t-elle à stabiliser ?
-
-> Quel régime la porte ?
-
-> Quel locuteur la produit ?
-
-> Quels engagements implique-t-elle ?
-
-> Quelles pratiques la maintiennent ?
-
-> Quelles tensions rencontre-t-elle ?
+> Qu'est-ce qui permet ou empêche la transformation d'une description ?
 
 ---
 
-# 13. Trajectoire générale de l'exemple
+# VI. Délimiter
 
-```text
-Support descriptif
+## Jusqu'où cette description vaut-elle ?
 
-↓
+L'expression :
 
-Configuration descriptive
+> « Cette personne est mauvaise »
 
-↓
+pose immédiatement un problème de portée.
 
-Objet descriptif
+La description concerne-t-elle :
 
-↓
+- une action particulière ?
+- une période de vie ?
+- un comportement répété ?
+- toute la personne ?
 
-Régime descriptif
+Une extension excessive produit une erreur protokinienne :
 
-↓
+passer de :
 
-Locuteur
+> « Cette personne a commis une action condamnable »
 
-↓
+à :
 
-Engagements
+> « Cette personne est mauvaise en totalité ».
 
-↓
+La délimitation examine :
 
-Pratiques collectives
+- le domaine d'application ;
+- les limites ;
+- les zones de silence.
 
-↓
+Une description peut éclairer certains aspects tout en ignorant d'autres dimensions.
 
-Stabilisation
+---
 
-↓
+# VII. Retracer
 
-Effet cliquet
+## Quelle trajectoire rend cette description possible ?
 
-↓
+Une description possède une histoire.
 
-Tensions éventuelles
-```
+Il faut reconstruire :
+
+- quand elle apparaît ;
+- quelles expériences l'ont produite ;
+- quels récits l'ont renforcée ;
+- quelles institutions l'ont reprise.
+
+La personne n'est pas seulement rencontrée comme "mauvaise".
+
+Elle devient progressivement inscrite dans une trajectoire descriptive.
+
+---
+
+# VIII. Expliquer
+
+## D'où vient cette description ?
+
+L'explication cherche les conditions de production.
+
+Elle peut examiner :
+
+- les comportements observés ;
+- les circonstances sociales ;
+- les apprentissages ;
+- les contraintes biologiques ;
+- les dynamiques relationnelles.
+
+Mais :
+
+expliquer pourquoi une personne est décrite ainsi ne signifie pas encore justifier cette description.
+
+---
+
+# IX. Justifier
+
+## Pourquoi accepter cette description ?
+
+La justification analyse les raisons disponibles.
+
+Pour soutenir :
+
+> « Cette personne est mauvaise »
+
+il faut pouvoir répondre :
+
+- Selon quelles normes ?
+- Avec quelles preuves ?
+- Depuis quel régime ?
+- Avec quelles conséquences ?
+
+Une description moralement chargée exige une chaîne justificative.
+
+Elle engage celui qui la formule.
+
+---
+
+# X. Auditer
+
+## Comment analyser cette description ?
+
+L'audit protokinien examine :
+
+## 1. Réification
+
+La personne est-elle transformée en essence fixe ?
+
+Exemple :
+
+> « Elle est mauvaise par nature. »
+
+---
+
+## 2. Confusion de régime
+
+Une qualification morale est-elle présentée comme une vérité scientifique ?
+
+---
+
+## 3. Réduction
+
+Une seule dimension explique-t-elle toute la personne ?
+
+---
+
+## 4. Zone de silence
+
+Quels éléments deviennent invisibles ?
+
+---
+
+# XI. Réviser
+
+## Comment Protokin examine-t-il sa propre analyse ?
+
+Protokin doit également appliquer son analyse à cette description.
+
+Il doit demander :
+
+- Quels concepts utilise-t-il ?
+- Quelles distinctions impose-t-il ?
+- Quelles limites possède son propre régime ?
+
+Ainsi, même l'analyse :
+
+> « Cette personne est une description produite dans un régime »
+
+reste elle-même une description située et révisable.
 
 ---
 
 # Conclusion
 
-L'exemple montre qu'une description ordinaire n'est jamais seulement une phrase.
+L'assertion :
 
-Elle constitue une trajectoire complète reliant :
+> « Cette personne est mauvaise »
 
-- une inscription ;
-- une organisation de la situation ;
-- un objet descriptif ;
-- un régime de justification ;
-- des locuteurs ;
-- des pratiques ;
-- une histoire de stabilisation.
+n'est pas traitée par Protokin comme une découverte d'une propriété cachée.
 
-Protokin n'analyse donc pas seulement ce qui est dit.
+Elle est analysée comme une trajectoire :
 
-Il analyse les conditions sous lesquelles une manière de dire devient possible, recevable, durable ou transformable.
+Configuration
+→ Description
+→ Régime
+→ Articulation
+→ Reproduction
+→ Transformation
+→ Délimitation
+→ Histoire
+→ Explication
+→ Justification
+→ Audit
+→ Révision
 
----
+Protokin ne demande donc pas seulement :
 
-# Formule synthétique
+> Qui est cette personne ?
 
-> **Une description n'est pas seulement une représentation d'un objet.**
->
-> **Elle est une trajectoire de stabilisation reliant un support, une configuration, un objet descriptif, un régime, des engagements et des pratiques collectives.**
->
-> **L'enquête protokinienne consiste à expliciter cette trajectoire.**
+Il demande :
+
+> Comment cette personne est-elle devenue descriptible de cette manière, dans quelles pratiques, selon quelles normes, avec quelles limites et quelles possibilités de transformation ?
