@@ -1,0 +1,15 @@
+Dans l'architecture de Protokin, l'**audit modal** désigne une vigilance méthodologique spécifique au sein de l'enquête, dont la fonction est de réguler rigoureusement l'articulation entre les propositions de l'imagination et les exigences de la raison (les régimes descriptifs stabilisés) [1]. 
+
+L'adjectif « modal » est utilisé parce que l'imagination y est strictement comprise comme un **opérateur modal** : son rôle est d'ouvrir des *possibilités* (des variations, des hypothèses, des analogies), mais elle n'a absolument pas le pouvoir de garantir par elle-même l'actualisation ou la validation de ces possibles [1]. 
+
+Concrètement, l'audit modal maintient l'équilibre dynamique et l'innovation du système en imposant **deux limites ou distinctions essentielles** [1] :
+
+**1. Une limite posée à l'imagination (L'épreuve de la justification)**
+L'audit modal rappelle fermement qu'**une possibilité imaginée n'est pas encore une description stabilisée** [1]. 
+Lorsqu'un locuteur puise dans l'imaginaire pour proposer une nouvelle métaphore, une fiction, une expérience de pensée ou un nouveau scénario, cette proposition ne possède aucune validité automatique [1]. L'audit modal stipule que pour qu'une de ces variations quitte le statut de simple possibilité et devienne une véritable innovation descriptive objective, elle doit affronter l'épreuve de la raison. Cela signifie qu'elle doit redescendre dans l'espace des pratiques collectives pour y être confrontée aux contraintes matérielles, soumise aux critères stricts d'inférence, et survivre aux exigences de justification de la communauté de locuteurs [1]. L'imagination propose, mais elle ne valide pas.
+
+**2. Une limite posée à la raison (Le refus de la clôture définitive)**
+Symétriquement, l'audit modal rappelle à l'ordre les régimes descriptifs rationnellement établis : **une description stabilisée n'épuise pas toutes les possibilités** [1]. 
+Il est tentant pour une communauté de locuteurs de considérer qu'un régime descriptif qui fonctionne bien (qui est puissamment stabilisé et justifié) constitue la description ultime et totale du monde. L'audit modal interdit cette conclusion : un régime établi ne doit jamais être confondu avec une clôture définitive de la réalité [1]. Il garantit que l'espace reste ouvert à la variation en affirmant que l'imagination demeure indispensable en permanence pour identifier les limites internes du régime actuel et pour explorer ses reconfigurations et transformations futures [1].
+
+En somme, l'audit modal est l'outil méthodologique qui empêche deux pathologies descriptives opposées. D'un côté, il empêche le *dogmatisme rationaliste*, qui croirait avoir épuisé tout le possible dans ses descriptions actuelles [1]. De l'autre, il empêche le *relativisme ou la fantaisie*, qui croirait que les inventions de l'imagination ont une valeur descriptive objective sans avoir à passer par le filtre normatif et matériel des pratiques collectives [1].
