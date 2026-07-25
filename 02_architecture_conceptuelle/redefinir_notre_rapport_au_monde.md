@@ -166,4 +166,14 @@ Le passage du paradigme de la Référence à celui de l'Inférence constitue une
 
 L'évolution culturelle s'articule ainsi en trois grandes étapes historiques :
 
-- **La culture religieuse** : caractérisée par l'obéissance et la soumiss
+- **La culture religieuse** : caractérisée par l'obéissance et la soumission directe aux décrets d'une divinité transcendante.
+
+- **La culture métaphysique** : caractérisée par la quête d'une conformité aux structures intrinsèques d'une Nature ou d'une Réalité objective servant de substitut laïque à Dieu.
+
+- **La culture pragmatiste et démocratique** : caractérisée par la primauté de la politique culturelle, l'autonomie éthique et la prise en charge collective des responsabilités normatives au sein de la conversation humaine.
+
+Dans cette culture adulte, aucun tribunal ultime n'est reconnu en dehors de celui de la discussion libre, rationnelle et ouverte. Il convient de renoncer définitivement à l'idée que l'univers posséderait une articulation intrinsèque que notre langage devrait s'efforcer de décalquer.
+
+À l'image de l'injonction nietzschéenne d'auto-création, le pragmatisme inférentiel donne aux communautés humaines la capacité et le devoir de façonner leurs propres vocabulaires, de définir leurs propres règles d'inférence et de décider souverainement des normes qui guideront leur avenir. Ce pragmatisme joue un rôle analogue à celui de la Réforme protestante dans le domaine religieux : il restitue aux individus et à leurs institutions le contrôle direct de leur destinée en écartant tout médiateur métaphysique.
+
+> En plaçant l'Inférence, la responsabilité normative et l'engagement social au cœur de notre théorie du langage, la philosophie cesse d'être une quête stérile de la Vérité comme correspondance pour devenir une dynamique au service de la Liberté, de l'émancipation et de l'espoir social.
