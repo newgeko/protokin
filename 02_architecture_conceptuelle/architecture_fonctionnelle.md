@@ -1,411 +1,387 @@
 # Architecture fonctionnelle de Protokin
 
-## Du couplage descriptif aux régimes stabilisés
+## Le fonctionnement des descriptions
 
-> **L’architecture générale décrit les niveaux conceptuels de Protokin.**
+> **L'architecture générale présente les concepts fondamentaux de Protokin.**
 >
-> **L’architecture fonctionnelle décrit le mouvement opérationnel par lequel une configuration descriptive devient une description stabilisée dans un régime, à travers des inférences, des engagements et des pratiques collectives.**
+> **L'architecture fonctionnelle décrit la manière dont ces concepts interagissent lorsqu'une description est produite, évaluée, reprise, stabilisée et transformée au sein d'une pratique collective.**
 
 ---
 
-## Introduction
+# Introduction
 
-L’architecture fonctionnelle de Protokin décrit le processus par lequel une configuration descriptive entre dans un espace de justification, produit des conséquences inférentielles, engage des locuteurs, s’inscrit dans des pratiques collectives et peut atteindre une stabilisation historique.
+L'architecture fonctionnelle de Protokin ne décrit ni une structure du monde, ni une succession chronologique d'événements.
 
-Elle ne décrit pas une structure du monde.
+Elle décrit l'organisation des opérations qui permettent à une description :
 
-Elle décrit la dynamique interne par laquelle des descriptions deviennent :
+- d'être produite ;
+- d'être comprise ;
+- d'être évaluée ;
+- d'engager des positions descriptives ;
+- de circuler dans des pratiques collectives ;
+- d'être stabilisée ou transformée.
 
-- intelligibles ;
-- mobilisables ;
-- justifiables ;
-- transmissibles ;
-- stabilisables ;
-- transformables.
+L'architecture générale répond à la question :
 
-L’architecture générale répond à la question :
+> **Quels sont les concepts nécessaires pour analyser une description ?**
 
-> Quels sont les éléments conceptuels nécessaires pour analyser une description ?
+L'architecture fonctionnelle répond à une autre question :
 
-Voir :
+> **Comment ces concepts interagissent-ils dans le fonctionnement effectif d'une description ?**
 
-- [Architecture générale](architecture.md)
-
-L’architecture fonctionnelle répond à une autre question :
-
-> Comment ces éléments interagissent-ils dans le fonctionnement effectif d’une description ?
+Elle constitue ainsi la grammaire opératoire de l'analyse protokinienne.
 
 ---
 
-# 1. Fonction de l’architecture fonctionnelle
+# 1. Fonction de l'architecture fonctionnelle
 
-L’architecture fonctionnelle n’ajoute pas de nouveaux concepts fondamentaux.
+L'architecture fonctionnelle n'introduit aucun concept supplémentaire.
 
-Elle organise les relations entre les concepts établis dans l’architecture générale.
+Elle organise les relations entre les concepts définis par l'architecture générale.
 
-Elle décrit le passage :
+Elle décrit leur articulation fonctionnelle :
+
+```text
+Configuration sémiotique
+        ↓
+Des différences deviennent disponibles
 
 Configuration descriptive
+        ↓
+Des descriptions deviennent possibles
 
-↓
+Description
+        ↓
+Une description particulière est produite
+
+Fonctions descriptives
+        ↓
+Une opération descriptive est réalisée
+(prédication, configuration,
+assertion, inférence,
+justification)
 
 Régime descriptif
+        ↓
+L'opération est évaluée
 
-↓
-
-Inférences
-
-↓
-
-Engagements
-
-↓
-
-Locuteurs
-
-↓
+Engagements descriptifs
+        ↓
+Une position descriptive est assumée
 
 Pratiques collectives
+        ↓
+Les engagements circulent,
+sont transmis,
+corrigés et transformés
 
-↓
+Communauté de positions
+        ↓
+Les normes sont maintenues,
+discutées et reproduites
 
 Stabilisation
+        ↓
+Certaines descriptions deviennent durables
 
-↓
+Audit
+        ↓
+L'ensemble du fonctionnement
+est examiné
 
 Transformation
+        ↓
+Les configurations et les régimes évoluent
+```
 
+Cette représentation ne décrit ni des étapes temporelles obligatoires, ni des niveaux du réel.
 
-Ce mouvement n’est pas une succession temporelle obligatoire.
-
-Il constitue un ordre d’analyse permettant de reconstruire comment une description fonctionne dans une pratique donnée.
-
----
-
-# 2. Point de départ : la configuration descriptive
-
-Toute analyse protokinienne commence par une configuration descriptive.
-
-Une configuration correspond à une organisation possible permettant de rendre un domaine intelligible.
-
-Elle peut prendre la forme :
-
-- d’une théorie ;
-- d’un modèle ;
-- d’une classification ;
-- d’une institution ;
-- d’un dispositif technique ;
-- d’une pratique sociale.
-
-Voir :
-
-- [Configurations descriptives](configurations.md)
-
-À ce niveau, Protokin ne demande pas :
-
-> Cette description est-elle vraie indépendamment de toute pratique ?
-
-Il demande :
-
-> Quelle organisation descriptive rend-elle disponible ?
-
-Une configuration devient analysable lorsqu’elle est replacée dans le régime descriptif qui lui donne ses critères de fonctionnement.
+Elle constitue un ordre d'analyse.
 
 ---
 
-# 3. Mobilisation d’un régime descriptif
+# 2. Des différences deviennent disponibles
 
-Une configuration descriptive n’existe jamais isolément.
+Toute pratique rencontre un environnement au sein duquel certaines différences deviennent pertinentes.
 
-Elle fonctionne toujours dans un ou plusieurs régimes descriptifs.
+Ces différences ne sont jamais immédiatement des descriptions.
 
-Un régime détermine :
+Elles sont rendues disponibles par des formes d'inscription, de perception et de pratique.
 
-- les distinctions pertinentes ;
-- les objets reconnus ;
-- les formes d’inférence acceptables ;
+Les configurations sémiotiques organisent cette disponibilité.
+
+Elles rendent certaines différences :
+
+- identifiables ;
+- conservables ;
+- partageables ;
+- réutilisables.
+
+Elles constituent ainsi la condition matérielle de toute description.
+
+---
+
+# 3. Les descriptions deviennent possibles
+
+Les différences rendues disponibles sont ensuite organisées dans une configuration descriptive.
+
+Une configuration descriptive constitue l'espace relationnel dans lequel plusieurs descriptions deviennent possibles.
+
+Elle organise notamment :
+
+- des catégories ;
+- des distinctions ;
+- des pratiques ;
+- des concepts ;
+- des instruments ;
+- des formes d'inscription.
+
+Elle ne produit encore aucune description particulière.
+
+Elle ouvre un espace de possibilités descriptives.
+
+---
+
+# 4. Production d'une description
+
+Une description correspond à l'actualisation située d'une possibilité offerte par une configuration descriptive.
+
+Décrire consiste à rendre explicite une organisation de différences dans une pratique déterminée.
+
+Une description n'est donc :
+
+- ni une simple représentation ;
+- ni un énoncé isolé ;
+- ni une copie du monde.
+
+Elle constitue une opération descriptive située.
+
+Une même configuration peut donner lieu à plusieurs descriptions distinctes.
+
+---
+
+# 5. Réalisation des fonctions descriptives
+
+Toute description mobilise une ou plusieurs fonctions descriptives.
+
+Ces fonctions qualifient ce qui est effectivement réalisé dans l'opération.
+
+Parmi elles :
+
+- la prédication ;
+- la configuration ;
+- l'assertion ;
+- l'inférence ;
+- la justification.
+
+L'analyse protokinienne porte ainsi moins sur le contenu d'une description que sur les opérations qu'elle accomplit.
+
+---
+
+# 6. Évaluation dans un régime descriptif
+
+Une description ne fonctionne jamais indépendamment d'un régime descriptif.
+
+Le régime définit :
+
+- les distinctions reconnues ;
+- les formes d'inférence recevables ;
 - les critères de justification ;
-- les modalités de correction.
+- les modalités de correction ;
+- les conditions de recevabilité.
 
-Voir :
+Le régime ne produit donc pas la description.
 
-- [Régimes de description](regimes.md)
-
-Le régime ne produit pas la description.
-
-Il définit les conditions sous lesquelles cette description peut fonctionner.
+Il détermine les normes selon lesquelles les opérations descriptives pourront être évaluées.
 
 ---
 
-# 4. Production des inférences
+# 7. Formation des engagements descriptifs
 
-Une description ne reste jamais un contenu isolé.
+Lorsqu'une description est assumée dans un espace de raisons, elle produit des engagements.
 
-Elle entraîne des conséquences.
-
-Ces conséquences constituent son réseau d’inférences.
-
-Une même description peut produire des inférences différentes selon le régime mobilisé.
-
-Exemple :
-
-> « Cette personne présente un danger. »
-
-Selon le régime :
-
-- médical : orientation vers une évaluation clinique ;
-- juridique : ouverture d’une procédure ;
-- politique : décision collective ou institutionnelle.
-
-Voir :
-
-- [Inférences et justifications](inferences_justifications.md)
-
-L’inférence constitue donc le mécanisme par lequel une description acquiert une portée pratique.
-
----
-
-# 5. Formation des engagements descriptifs
-
-Une inférence devient un engagement lorsqu’un locuteur l’assume dans un espace de raisons.
-
-Un engagement implique :
+S'engager consiste notamment à :
 
 - accepter certaines conséquences ;
+- reconnaître certaines incompatibilités ;
 - pouvoir fournir des justifications ;
-- reconnaître des incompatibilités ;
-- répondre aux objections.
+- répondre aux objections ;
+- accepter d'éventuelles corrections.
 
-Voir :
-
-- [Engagements descriptifs](engagements.md)
-
-Une description n’est donc jamais seulement produite.
-
-Elle engage celui qui la soutient dans un réseau de responsabilités normatives.
+Une description devient ainsi une responsabilité normative.
 
 ---
 
-# 6. Constitution du locuteur normatif
+# 8. Constitution des positions descriptives
 
-Le fonctionnement d’une description suppose des positions capables d’assumer des engagements.
+Les engagements supposent des positions capables de les assumer.
 
-Le locuteur normatif désigne cette position.
+Dans Protokin, la notion de **position descriptive** désigne cette fonction normative.
 
-Il n’est pas :
+Une position descriptive n'est pas une personne.
 
-- une conscience isolée ;
-- une origine absolue ;
-- un simple producteur d’énoncés.
+Elle désigne une place reconnue dans une pratique permettant :
 
-Il est une position reconnue comme capable :
-
-- d’affirmer ;
+- d'affirmer ;
 - de justifier ;
-- de répondre ;
 - de corriger ;
-- de transformer ses engagements.
+- de contester ;
+- de transformer des engagements.
 
-Voir :
-
-- [Locuteur normatif](locuteur.md)
-
-L’architecture fonctionnelle décrit ainsi le passage :
-
-Organisme
-
-↓
-
-Participation pratique
-
-↓
-
-Position descriptive
-
-↓
-
-Locuteur normatif
-
-↓
-
-Responsabilité discursive
+Le locuteur constitue un cas particulier de position descriptive lorsque ces engagements sont exprimés par des actes de langage.
 
 ---
 
-# 7. Inscription dans les pratiques collectives
+# 9. Inscription dans les pratiques collectives
 
-Les engagements ne fonctionnent jamais dans un espace individuel fermé.
+Les positions descriptives n'existent jamais isolément.
 
-Ils existent dans des pratiques collectives où ils peuvent être :
+Elles fonctionnent dans des pratiques collectives où les descriptions peuvent être :
 
-- transmis ;
-- évalués ;
-- corrigés ;
-- enseignés ;
-- transformés.
+- transmises ;
+- évaluées ;
+- reprises ;
+- enseignées ;
+- corrigées ;
+- transformées.
 
-Voir :
-
-- [Pratique collective](pratique_collective.md)
-
-La pratique collective constitue le milieu pragmatique dans lequel une description devient partageable.
+La pratique collective constitue le milieu pragmatique des descriptions.
 
 ---
 
-# 8. Formation d’une communauté de locuteurs
+# 10. Formation d'une communauté de positions
 
-Les pratiques collectives rendent possible l’existence de communautés de locuteurs.
+Les pratiques collectives rendent possible l'existence de communautés de positions descriptives.
 
-Une communauté de locuteurs désigne un réseau de participants capables :
+Une telle communauté organise :
 
-- d’attribuer des engagements ;
-- d’évaluer des justifications ;
-- de reconnaître des erreurs ;
-- de maintenir des critères communs.
+- l'attribution des engagements ;
+- l'évaluation des justifications ;
+- la reconnaissance des erreurs ;
+- la reproduction des critères descriptifs.
 
-Voir :
-
-- [Communauté de locuteurs](communaute_locuteurs.md)
-
-La communauté n’est pas un simple groupe social.
-
-Elle constitue une organisation dynamique de positions normatives.
+Elle constitue le support social des régimes descriptifs.
 
 ---
 
-# 9. Stabilisation des descriptions
+# 11. Stabilisation des descriptions
 
-Une configuration descriptive devient stabilisée lorsqu’elle acquiert une capacité durable de reproduction dans des pratiques collectives.
+Certaines descriptions acquièrent progressivement une stabilité.
 
-Cette stabilisation repose sur :
+Cette stabilisation dépend notamment :
 
-- la répétition des usages ;
-- la transmission ;
-- les institutions ;
-- les infrastructures ;
-- les réseaux d’inférences ;
-- les engagements associés.
+- des usages répétés ;
+- des institutions ;
+- des infrastructures matérielles ;
+- des réseaux d'inférences ;
+- des engagements collectifs ;
+- des pratiques de transmission.
 
-Voir :
+Elle produit un effet de maintien :
 
-- [Stabilisation et effet cliquet](stabilisation.md)
+les descriptions déjà largement soutenues deviennent plus faciles à reproduire.
 
-La stabilisation produit un effet cliquet :
-
-certaines descriptions deviennent plus faciles à maintenir parce qu’elles disposent déjà d’un ensemble de soutiens pratiques et normatifs.
+Cette stabilité demeure toujours révisable.
 
 ---
 
-# 10. Transformation et audit
+# 12. Audit et transformation
 
-Une stabilisation n’est jamais définitive.
+Aucune stabilisation n'est définitive.
 
-Toute configuration peut rencontrer :
+Toute description peut rencontrer :
 
-- des tensions internes ;
+- des tensions ;
 - des incompatibilités ;
 - des limites ;
-- des anomalies.
+- des anomalies ;
+- des conflits entre régimes.
 
-Voir :
-
-- [Tensions entre régimes](../04_diagnostics/tensions.md)
-- [Limites internes](../05_transformations/limites.md)
-
-L’audit intervient alors comme pratique réflexive.
+L'audit protokinien intervient alors comme pratique réflexive.
 
 Il examine :
 
-- les régimes mobilisés ;
-- les engagements produits ;
-- les inférences autorisées ;
-- les tensions rencontrées ;
+- les configurations mobilisées ;
+- les opérations descriptives réalisées ;
+- les régimes invoqués ;
+- les engagements assumés ;
+- les conditions de stabilisation ;
 - les possibilités de transformation.
 
-Voir :
+L'audit ne produit pas une nouvelle théorie.
 
-- [Audit Protokin](../03_methode_enquete/audit.md)
+Il rend explicite le fonctionnement des descriptions.
 
 ---
 
-# 11. Schéma fonctionnel complet
+# 13. Schéma fonctionnel complet
 
+```text
+Configuration sémiotique
+        ↓
 Configuration descriptive
-
-↓
-
-Identification du régime descriptif
-
-↓
-
-Organisation des inférences
-
-↓
-
-Formation des engagements
-
-↓
-
-Participation des locuteurs
-
-↓
-
+        ↓
+Description
+        ↓
+Fonctions descriptives
+        ↓
+Régime descriptif
+        ↓
+Engagements descriptifs
+        ↓
+Positions descriptives
+        ↓
 Pratiques collectives
-
-↓
-
-Communauté de locuteurs
-
-↓
-
+        ↓
+Communauté de positions
+        ↓
 Stabilisation
-
-↓
-
-Effet cliquet
-
-↓
-
-Régime descriptif renforcé
-
-↓
-
+        ↓
 Audit
+        ↓
+Transformation
+```
 
-↓
+Ce schéma représente une architecture fonctionnelle.
 
-Transformation ou nouvelle stabilisation
+Il ne décrit ni une chronologie, ni une hiérarchie du réel.
+
+Il présente les opérations constitutives de toute analyse protokinienne.
 
 ---
 
-# 12. Relation avec l’architecture générale
+# 14. Relation avec l'architecture générale
 
-L’architecture générale et l’architecture fonctionnelle possèdent deux fonctions distinctes.
+Les deux architectures remplissent des fonctions complémentaires.
 
 ## Architecture générale
 
-Elle présente les composantes conceptuelles :
+Elle présente les concepts fondamentaux :
 
-- configurations ;
-- régimes ;
-- engagements ;
-- locuteurs ;
-- pratiques ;
-- stabilisations.
+- configuration sémiotique ;
+- configuration descriptive ;
+- description ;
+- fonctions descriptives ;
+- régime descriptif ;
+- engagements descriptifs ;
+- positions descriptives ;
+- pratiques collectives ;
+- stabilisation ;
+- audit.
 
-Voir :
+Elle répond à la question :
 
-- [Architecture générale](architecture.md)
+> **Quels sont les concepts mobilisés par Protokin ?**
+
+---
 
 ## Architecture fonctionnelle
 
-Elle présente leurs relations opératoires :
+Elle présente leurs relations opératoires.
 
-- comment une configuration entre dans un régime ;
-- comment elle produit des inférences ;
-- comment elle engage des locuteurs ;
-- comment elle devient une pratique stabilisée ;
-- comment elle peut être transformée.
+Elle répond à la question :
+
+> **Comment ces concepts interagissent-ils lorsqu'une description fonctionne dans une pratique ?**
 
 ---
 
@@ -413,6 +389,6 @@ Elle présente leurs relations opératoires :
 
 > **Architecture fonctionnelle**
 >
-> Organisation dynamique des opérations par lesquelles une configuration descriptive devient un ensemble stabilisé d’inférences, d’engagements et de pratiques collectives au sein d’un régime descriptif.
+> Organisation dynamique des opérations par lesquelles des différences deviennent descriptivement disponibles, sont organisées dans une configuration descriptive, actualisées sous la forme d'une description, évaluées dans un régime descriptif, assumées par des positions descriptives, reprises dans des pratiques collectives, stabilisées ou transformées à travers un processus continu d'audit.
 >
-> Elle ne décrit pas la structure du monde, mais les conditions de fonctionnement, de maintien et de transformation des descriptions.
+> Elle ne décrit pas la structure du monde, mais le fonctionnement, la reproduction et l'évolution des pratiques descriptives.
