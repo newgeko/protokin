@@ -1,16 +1,20 @@
 # Configurations sémiotiques
 
-## Des formes d'inscription du sens
+## L'organisation des différences inscrites
 
-> Protokin considère les descriptions comme des configurations sémiotiques : des organisations de signes, d'inscriptions et de pratiques par lesquelles certaines différences deviennent accessibles dans un environnement partagé.
+> Dans Protokin, une description n'émerge jamais d'un contenu linguistique isolé. Elle repose toujours sur une configuration sémiotique : une organisation de différences inscrites, de supports matériels et de pratiques qui rend certaines distinctions disponibles, partageables et réutilisables au sein d'une communauté.
 
 ---
 
 # 1. Fonction du concept
 
-Une description n'existe jamais uniquement sous la forme d'une proposition linguistique.
+Le concept de **configuration sémiotique** répond à une question fondamentale :
 
-Avant d'être formulée dans un énoncé, elle suppose déjà :
+> Comment des différences deviennent-elles disponibles pour être décrites ?
+
+Avant qu'une description puisse être formulée, discutée ou justifiée, certaines différences doivent déjà être perceptibles, reconnues, conservées et partagées.
+
+Une description suppose ainsi toujours :
 
 - des distinctions perceptives ;
 - des formes d'inscription ;
@@ -18,32 +22,34 @@ Avant d'être formulée dans un énoncé, elle suppose déjà :
 - des usages collectifs ;
 - des supports matériels.
 
-Le concept de configuration sémiotique permet ainsi d'analyser la dimension matérielle et pratique des descriptions.
+La configuration sémiotique désigne précisément cette organisation préalable.
 
-Il complète l'analyse des configurations descriptives en montrant que celles-ci ne sont jamais constituées uniquement d'éléments linguistiques.
+Elle constitue la couche d'inscription qui rend possibles les configurations descriptives sans se confondre avec elles.
 
 ---
 
 # 2. Définition
 
-Une configuration sémiotique désigne :
+Une configuration sémiotique est :
 
-> Une organisation située de signes, de traces, de supports et de pratiques permettant à certaines différences de devenir pertinentes pour une communauté.
+> Une organisation située de différences inscrites — linguistiques, gestuelles, graphiques, techniques, matérielles ou institutionnelles — qui rend certaines distinctions disponibles, partageables et réutilisables au sein d'une communauté de pratique.
 
-Une configuration sémiotique peut inclure :
+Elle peut comprendre notamment :
 
 - des signes linguistiques ;
 - des images ;
+- des gestes ;
 - des objets ;
 - des instruments ;
-- des gestes ;
 - des dispositifs techniques ;
-- des formes spatiales ;
-- des pratiques collectives.
+- des organisations spatiales ;
+- des pratiques collectives ;
+- des institutions ;
+- des traces matérielles.
 
-Ces éléments ne possèdent pas une signification isolée.
+Aucun de ces éléments ne possède une signification descriptive par lui-même.
 
-Ils acquièrent une fonction descriptive dans une organisation de relations.
+Ils acquièrent une fonction descriptive par les relations qu'ils entretiennent au sein d'une pratique.
 
 ---
 
@@ -51,26 +57,33 @@ Ils acquièrent une fonction descriptive dans une organisation de relations.
 
 Protokin refuse l'idée selon laquelle un environnement serait d'abord constitué de données neutres auxquelles une communauté ajouterait ensuite du sens.
 
-Ce qui apparaît comme un signe ou une information dépend toujours :
+Une différence ne devient jamais immédiatement un signe.
 
-- d'une organisation perceptive ;
-- d'une pratique ;
-- d'un contexte d'utilisation ;
-- d'une capacité de distinction.
+Elle devient pertinente parce qu'une pratique permet déjà de :
 
-Une trace, une variation ou un événement ne deviennent descriptivement pertinents qu'à l'intérieur d'une configuration capable de les reconnaître.
+- la distinguer ;
+- la reconnaître ;
+- l'inscrire ;
+- la conserver ;
+- la mobiliser.
 
-Ainsi :
+Ainsi, une variation, une trace ou un événement n'acquièrent une portée descriptive qu'à l'intérieur d'une configuration sémiotique.
 
-> Une configuration sémiotique ne produit pas un monde à partir de rien ; elle organise des différences dans un environnement déjà rencontré par des pratiques.
+Autrement dit :
+
+> Les différences ne deviennent pas descriptibles parce qu'elles existent ; elles le deviennent parce qu'elles sont rendues disponibles pour une communauté de pratique.
+
+Une configuration sémiotique ne crée donc pas le monde.
+
+Elle organise certaines différences rencontrées dans un environnement déjà investi par l'action.
 
 ---
 
 # 4. Dimension matérielle des descriptions
 
-Les descriptions reposent toujours sur des formes d'inscription.
+Toute description repose sur des formes d'inscription.
 
-Une inscription peut être :
+Une inscription peut prendre des formes très diverses :
 
 - une marque ;
 - un schéma ;
@@ -78,61 +91,80 @@ Une inscription peut être :
 - une formule ;
 - un objet technique ;
 - une trace corporelle ;
+- une architecture ;
 - un dispositif institutionnel.
 
-La matérialité n'est donc pas un simple support extérieur du sens.
+La matérialité n'est jamais un simple support extérieur du sens.
 
-Elle participe aux conditions permettant à une description d'être conservée, transmise et reprise.
+Elle participe aux conditions mêmes qui permettent aux descriptions :
+
+- d'être conservées ;
+- d'être transmises ;
+- d'être comparées ;
+- d'être reprises ;
+- d'être transformées.
+
+L'analyse des descriptions est donc inséparable de l'analyse de leurs conditions matérielles d'inscription.
 
 ---
 
-# 5. Du sémiotique au descriptif
+# 5. Des différences aux descriptions
 
-Le sémiotique constitue une condition de possibilité du descriptif.
+La configuration sémiotique constitue une condition de possibilité de toute description.
 
-Une communauté ne peut stabiliser une description qu'à partir de différences déjà accessibles dans une pratique.
+Elle organise des différences accessibles avant même qu'elles soient formulées dans un énoncé.
 
-Cependant, une configuration sémiotique n'est pas encore un régime descriptif.
+L'architecture de Protokin peut ainsi être comprise comme une succession de niveaux fonctionnels :
 
-Elle constitue le domaine dans lequel certaines possibilités descriptives peuvent apparaître.
+```text
+Environnement
+        ↓
+Configuration sémiotique
+        ↓
+Configuration descriptive
+        ↓
+Régime descriptif
+        ↓
+Recevabilité et justification
+```
 
-La distinction est donc la suivante :
+Ces niveaux remplissent des fonctions distinctes.
 
 **Configuration sémiotique**
 
-→ organisation de signes, de traces et de pratiques.
+→ organise les différences inscrites et les pratiques qui les rendent disponibles.
 
 **Configuration descriptive**
 
-→ organisation dans laquelle une description devient analysable comme telle.
+→ organise ces différences comme une description identifiable.
 
 **Régime descriptif**
 
-→ conditions selon lesquelles cette description peut être évaluée, justifiée et stabilisée.
+→ définit les conditions selon lesquelles cette description peut être évaluée, justifiée et stabilisée.
 
 ---
 
-# 6. Configuration sémiotique et environnement
+# 6. Articulation avec le primat perception-action
 
-Les configurations sémiotiques ne sont jamais séparées des interactions avec un environnement.
+Les configurations sémiotiques prolongent le principe du **primat perception-action**.
 
-Elles émergent dans des pratiques où des organismes et des communautés :
+Les organismes ne rencontrent jamais un environnement totalement indifférencié.
 
-- perçoivent ;
-- agissent ;
-- distinguent ;
-- mémorisent ;
-- transmettent.
+Ils y distinguent déjà certaines différences pertinentes pour leurs activités.
 
-Elles appartiennent donc à une dynamique de couplage entre des formes de vie et leurs milieux.
+Les configurations sémiotiques correspondent au moment où certaines de ces différences sont :
 
-Voir :
+- inscrites ;
+- conservées ;
+- partagées ;
+- transmises ;
+- rendues réutilisables.
 
-- [primat_perception_action.md](primat_perception_action.md)
+Elles assurent ainsi le passage entre la rencontre pratique d'un environnement et l'organisation de descriptions collectivement mobilisables.
 
 ---
 
-# 7. Écriture et inscriptions
+# 7. Écriture et autres formes d'inscription
 
 L'écriture constitue une forme particulière d'inscription sémiotique.
 
@@ -143,61 +175,79 @@ Elle permet notamment :
 - la comparaison ;
 - la formalisation.
 
-Cependant, elle ne constitue pas le modèle général de toute description.
+Cependant, elle ne constitue qu'un cas particulier.
 
-D'autres formes d'inscription peuvent également participer à la stabilisation de différences :
+Les descriptions peuvent également s'appuyer sur :
 
-- gestes techniques ;
-- images ;
-- pratiques rituelles ;
-- organisations spatiales ;
-- objets symboliques.
+- des gestes techniques ;
+- des cartes ;
+- des diagrammes ;
+- des pratiques rituelles ;
+- des organisations spatiales ;
+- des objets symboliques ;
+- des dispositifs techniques.
+
+Le sémiotique dépasse ainsi largement le seul domaine du langage.
 
 ---
 
 # 8. Rôle méthodologique dans Protokin
 
-L'analyse des configurations sémiotiques permet d'examiner :
+L'analyse des configurations sémiotiques permet d'étudier :
 
-- comment des différences deviennent accessibles ;
+- comment certaines différences deviennent disponibles ;
 - comment elles sont inscrites ;
-- comment elles circulent dans des pratiques ;
-- comment elles peuvent soutenir des descriptions.
+- comment elles circulent entre différents supports ;
+- comment elles sont reprises dans des pratiques ;
+- comment elles rendent possibles des descriptions.
 
-Elle constitue donc un préalable à l'étude des régimes descriptifs.
+Elle constitue donc un préalable à l'étude des configurations descriptives puis des régimes descriptifs.
 
-Elle ne détermine pas :
+En revanche, elle ne détermine pas encore :
 
-- la validité d'une description ;
-- son statut normatif ;
+- la recevabilité d'une description ;
+- sa justification ;
+- sa validité ;
 - sa puissance explicative ;
 - sa stabilisation historique.
 
-Ces questions relèvent d'autres dimensions de l'architecture Protokin.
+Ces questions appartiennent à d'autres niveaux de l'architecture de Protokin.
 
 ---
 
 # 9. Relations avec les autres concepts
 
+## Primat perception-action
+
+Le primat perception-action établit que les différences pertinentes apparaissent d'abord dans l'engagement pratique avec un environnement.
+
+La configuration sémiotique montre ensuite comment certaines de ces différences deviennent partageables grâce à des inscriptions.
+
+---
+
 ## Configurations descriptives
 
-Les configurations sémiotiques décrivent la dimension matérielle et pratique des configurations descriptives.
+Les configurations descriptives organisent les différences rendues disponibles par les configurations sémiotiques sous la forme de descriptions identifiables.
 
 Voir :
 
 - [configurations.md](configurations.md)
 
+---
+
 ## Régimes descriptifs
 
-Les régimes décrivent les conditions générales selon lesquelles des descriptions deviennent recevables et justifiables.
+Les régimes descriptifs déterminent les conditions selon lesquelles ces descriptions deviennent recevables, justifiables et stabilisables.
 
 Voir :
 
 - [regimes.md](regimes.md)
 
+---
+
 ## Locuteur
 
-Le locuteur apparaît comme participant aux pratiques dans lesquelles les configurations sémiotiques prennent sens.
+Le locuteur participe aux pratiques qui produisent, mobilisent et transforment les configurations sémiotiques.
 
 Voir :
 
@@ -205,6 +255,16 @@ Voir :
 
 ---
 
+# Ce que cette page établit
+
+Cette page établit que les descriptions ne reposent jamais uniquement sur des contenus linguistiques.
+
+Elles supposent toujours une organisation matérielle et pratique qui rend certaines différences disponibles, partageables et réutilisables.
+
+Les configurations sémiotiques constituent ainsi la couche d'inscription qui relie les interactions avec un environnement aux configurations descriptives, sans encore déterminer les normes propres aux régimes descriptifs.
+
+---
+
 # Principe final
 
-> Une description n'est jamais seulement un contenu linguistique. Elle repose toujours sur une configuration sémiotique où des signes, des inscriptions et des pratiques rendent certaines différences accessibles.
+> Une description n'est jamais un simple énoncé. Elle repose toujours sur une configuration sémiotique qui organise des différences inscrites, des supports matériels et des pratiques, rendant certaines distinctions disponibles pour une communauté et ouvrant ainsi l'espace dans lequel des descriptions pourront être produites, discutées et justifiées.
