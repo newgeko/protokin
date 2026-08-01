@@ -1,148 +1,291 @@
 ```text
-
 protokin-docs/
 │
-├── README.md                      # Page d'accueil générale
-├── _sidebar.md                    # Navigation latérale Docsify/MkDocs
+├── README.md
+├── _sidebar.md
 │
 ├── 00-se-reperer/
-│   ├── lire-protokin.md           # Comment lire cette documentation
-│   ├── architecture-generale.md   # La carte conceptuelle du territoire
-│   ├── architecture-fonctionnelle.md # La grammaire opératoire
-│   └── parcours-de-lecture.md     # Itinéraires conseillés selon les profils
+│   ├── lire-protokin.md
+│   │   # Comment lire Protokin : ni théorie du monde, ni métaphysique
+│   │
+│   ├── architecture-generale.md
+│   │   # Carte conceptuelle générale de Protokin
+│   │
+│   ├── architecture-fonctionnelle.md
+│   │   # La dynamique opératoire des pratiques descriptives
+│   │
+│   └── parcours-de-lecture.md
+│       # Parcours selon les questions et profils de lecture
 │
 ├── 01-fondements/
-│   ├── introduction.md            # Introduction générale
-│   ├── protokin-en-bref.md        # Protokin en une phrase
-│   ├── pourquoi-protokin.md       # Le déplacement du problème
-│   ├── principes-fondamentaux.md  # Primat perception-action & primat de la description
-│   ├── reference-inference.md     # Référence et inférence (le pont causal-normatif)
-│   └── statuts.md                 # Ce que Protokin est / Ce qu'il n'est pas
+│   ├── introduction.md
+│   │   # Introduction générale : le déplacement protokinien
+│   │
+│   ├── protokin-en-bref.md
+│   │   # Protokin en une phrase
+│   │
+│   ├── pourquoi-protokin.md
+│   │   # Pourquoi analyser les conditions de possibilité des descriptions
+│   │
+│   ├── principes-fondamentaux.md
+│   │   # Primat perception-action, primat de la description,
+│   │   # espace des causes et espace des raisons
+│   │
+│   ├── reference-inference.md
+│   │   # Référence et inférence : articulation causal/normatif
+│   │
+│   ├── statut-de-protokin.md
+│   │   # Protokin comme régime descriptif localisé et critiquable
+│   │
+│   └── statuts.md
+│       # Ce que Protokin est et ce qu'il n'est pas
 │
 ├── 02-decrire/
-│   ├── la-description.md          # La description comme actualisation située
-│   ├── config-semiotique.md       # Configuration sémiotique et différences inscrites
-│   ├── config-descriptive.md      # Configuration descriptive et espace relationnel
-│   ├── supports.md                # Supports matériels, textuels et incorporés
-│   ├── causes-et-raisons.md       # L'articulation causale et normative
-│   ├── position.md                # La position épistémique
-│   ├── trajectoire.md             # La trajectoire descriptive
-│   └── allure.md                  # L'allure comme propriété temporelle
+│   ├── la-description.md
+│   │   # La description comme opération située
+│   │
+│   ├── config-semiotique.md
+│   │   # Couplage organisme-milieu et émergence des différences
+│   │
+│   ├── config-descriptive.md
+│   │   # Organisation d'un espace de possibilités descriptives
+│   │
+│   ├── supports.md
+│   │   # Supports matériels, inscriptions et médiations
+│   │
+│   ├── causes-et-raisons.md
+│   │   # Articulation entre espace des causes et espace des raisons
+│   │
+│   ├── position.md
+│   │   # Position descriptive et fonction dans une pratique
+│   │
+│   ├── agent-localise.md
+│   │   # L'agent comme position située dans une trajectoire descriptive
+│   │
+│   ├── trajectoire.md
+│   │   # Trajectoire descriptive des opérations
+│   │
+│   └── allure.md
+│       # Allure temporelle d'une trajectoire descriptive
 │
 ├── 03-operations/
-│   └── operations-descriptives.md # La charnière : les dix verbes de l'enquête
+│   ├── operations-descriptives.md
+│   │   # Les verbes fondamentaux de l'enquête protokinienne
+│   │
+│   └── imaginer.md
+│       # Imaginer comme opération modale d'ouverture des possibles
 │
 ├── 04-qualifier/
-│   ├── predication.md             # Prédication et qualification locale
-│   ├── categorisation.md          # Catégorisation
-│   ├── taxonomies.md              # Taxonomies
-│   ├── criteres.md                # Critères de pertinence
-│   ├── assertions.md              # L'assertion comme prise de position
-│   ├── engagements.md             # Engagements descriptifs et responsabilités
-│   ├── recevabilite.md            # Recevabilité normative
-│   └── validite.md                # Validité et correction immanente
+│   ├── predication.md
+│   │   # Prédication et qualification locale
+│   │
+│   ├── categorisation.md
+│   │   # Catégorisation et découpage descriptif
+│   │
+│   ├── taxonomies.md
+│   │   # Taxonomies et organisation des catégories
+│   │
+│   ├── criteres.md
+│   │   # Critères de pertinence descriptive
+│   │
+│   ├── assertions.md
+│   │   # Assertion comme prise de position
+│   │
+│   ├── engagements.md
+│   │   # Engagements et responsabilités normatives
+│   │
+│   ├── recevabilite.md
+│   │   # Recevabilité dans un régime descriptif
+│   │
+│   └── validite.md
+│       # Validité et correction immanente
 │
 ├── 05-articuler/
-│   ├── regimes-descriptifs.md     # Régimes descriptifs et cadres de sens
-│   ├── regimes-hybrides.md        # Croisements et hybridations
-│   ├── images-sellars.md          # Le diptyque de Sellars (Manifeste, Scientifique, Articulation, Erreurs)
-│   ├── changements-regime.md      # Dynamique des bascules de régime
-│   ├── traductions.md             # Traductions possibles entre régimes
-│   ├── incommensurabilites.md     # Incommensurabilités et impossibilités de traduction
-│   └── compatibilites.md          # Compatibilités et tensions structurelles
+│   ├── regimes-descriptifs.md
+│   │   # Régimes descriptifs et cadres de pertinence
+│   │
+│   ├── regimes-hybrides.md
+│   │   # Hybridations entre régimes
+│   │
+│   ├── image-manifeste.md
+│   │   # L'image manifeste de Sellars
+│   │
+│   ├── image-scientifique.md
+│   │   # L'image scientifique de Sellars
+│   │
+│   ├── image-synoptique.md
+│   │   # Articulation synoptique des régimes descriptifs
+│   │
+│   ├── articulation-sellarsienne.md
+│   │   # Causes, raisons et articulation des images
+│   │
+│   ├── changements-regime.md
+│   │   # Transformations et bascules descriptives
+│   │
+│   ├── traductions.md
+│   │   # Traductions entre régimes
+│   │
+│   ├── incommensurabilites.md
+│   │   # Limites de traduction
+│   │
+│   └── compatibilites.md
+│       # Compatibilités et tensions structurelles
 │
 ├── 06-maintenir/
-│   ├── reproduction.md            # Reproduction des pratiques collectives
-│   ├── reproduction-engagements.md# La continuité par les engagements normatifs
-│   ├── institutions.md            # Les institutions comme stabilisateurs
-│   ├── memoire.md                 # Mémoire organique et collective
-│   ├── locuteur.md                # Le locuteur normatif et ses rôles
-│   ├── collectifs.md              # Échelles des collectifs descriptifs
-│   ├── stabilisation.md           # Stabilisation et effet cliquet
-│   └── normativite.md             # Normativité immanente des pratiques
+│   ├── reproduction.md
+│   │   # Reproduction des pratiques descriptives
+│   │
+│   ├── reproduction-engagements.md
+│   │   # Continuité par les engagements normatifs
+│   │
+│   ├── memoire-organique.md
+│   │   # Mémoire corporelle et cérébrale comme condition
+│   │
+│   ├── memoire-collective.md
+│   │   # Mémoire sociale et institutionnelle
+│   │
+│   ├── institutions.md
+│   │   # Institutions et stabilisation
+│   │
+│   ├── autorite.md
+│   │   # Autorité et attribution des positions descriptives
+│   │
+│   ├── asymetries-descriptives.md
+│   │   # Pouvoirs, ressources et stabilisation différentielle
+│   │
+│   ├── locuteur.md
+│   │   # Locuteur, engagements et responsabilité
+│   │
+│   ├── collectifs.md
+│   │   # Échelles des collectifs descriptifs
+│   │
+│   ├── stabilisation.md
+│   │   # Sédimentation et effet cliquet
+│   │
+│   └── normativite.md
+│       # Normativité immanente des pratiques
 │
 ├── 07-transformer/
-│   ├── innovation.md              # Innovation descriptive
-│   ├── imagination.md             # Imagination et imaginaire modal
-│   ├── individuation.md           # L'individuation (Simondon) et genèse des formes
-│   ├── crises-descriptives.md     # Crises et saturation des régimes en place
-│   ├── revision.md                # Révision des cadres
-│   └── reorganisation.md          # Réorganisation des configurations
+│   ├── innovation.md
+│   │   # Innovation descriptive
+│   │
+│   ├── imagination.md
+│   │   # Imaginaire modal et ouverture des possibles
+│   │
+│   ├── individuation.md
+│   │   # Simondon : genèse des formes et transduction
+│   │
+│   ├── crises-descriptives.md
+│   │   # Saturation et tensions internes des régimes
+│   │
+│   ├── bifurcations.md
+│   │   # Changements de trajectoire descriptive
+│   │
+│   ├── ruptures-descriptives.md
+│   │   # Ruptures comme accélérations de transformation
+│   │
+│   ├── revision.md
+│   │   # Révision des catégories et engagements
+│   │
+│   └── reorganisation.md
+│       # Reconfiguration fonctionnelle
 │
 ├── 08-delimiter/
-│   ├── limites-regime.md          # Limites internes des régimes
-│   ├── angles-morts.md            # Ce qu'un régime rend invisible par structure
-│   ├── confusions-niveaux.md      # Confusions de niveaux descriptifs
-│   ├── reductionnisme.md          # Réductionnisme scientiste et anti-scientiste
-│   ├── eclectisme.md              # Éclectisme et fusion indisciplinée
-│   └── erreurs-categorie.md       # Erreurs de catégorie (naturalisation / moralisation)
+│   ├── limites-regime.md
+│   │   # Limites internes des régimes descriptifs
+│   │
+│   ├── angles-morts.md
+│   │   # Invisibilités structurelles
+│   │
+│   ├── confusions-niveaux.md
+│   │   # Erreurs de niveau descriptif
+│   │
+│   ├── reductionnisme.md
+│   │   # Réductionnisme et confusion des régimes
+│   │
+│   ├── eclectisme.md
+│   │   # Fusion abusive des cadres
+│   │
+│   └── erreurs-categorie.md
+│       # Naturalisation, moralisation et erreurs de catégorie
 │
 ├── 09-tracer/
-│   ├── histoire-descriptive.md    # Histoire et sédimentation
-│   ├── genealogie.md              # Généalogie des catégories
-│   ├── trajectoires-temp.md       # Strates temporelles et irréversibilités
-│   ├── allures-temp.md            # Allures (cumulative, inertielle, critique, oscillatoire)
-│   ├── rythmes.md                 # Rythmes (récurrences, périodicités, pulsations)
-│   └── continuites-ruptures.md    # Continuités et ruptures historiques
+│   ├── histoire-descriptive.md
+│   │   # Histoire et sédimentation
+│   │
+│   ├── genealogie.md
+│   │   # Généalogie des catégories
+│   │
+│   ├── trajectoires-temp.md
+│   │   # Temporalités et irréversibilités
+│   │
+│   ├── allures-temp.md
+│   │   # Allures : inertielle, cumulative, critique, oscillatoire
+│   │
+│   ├── rythmes.md
+│   │   # Rythmes et répétitions
+│   │
+│   └── continuites-ruptures.md
+│       # Continuités et transformations
 │
 ├── 10-expliquer/
-│   ├── explication.md             # L'explication vs la justification
-│   ├── causes-expl.md             # Mécanismes causaux et espace des causes
-│   ├── raisons-expl.md            # Espace des raisons et logiques d'action
-│   ├── narration.md               # Narration et mise en intrigue
-│   ├── hermeneutique.md           # Herméneutique de la compréhension
-│   ├── ricœur.md                  # L'apport de Paul Ricœur (mimesis et identité)
-│   └── explications-croisees.md   # Articulations croisées des explications
+│   ├── explication.md
+│   ├── causes-expl.md
+│   ├── raisons-expl.md
+│   ├── narration.md
+│   ├── hermeneutique.md
+│   ├── ricœur.md
+│   └── explications-croisees.md
 │
 ├── 11-justifier/
-│   ├── normes.md                  # Normes de justification publique
-│   ├── justification.md           # Pratiques discursives de justification
-│   ├── argumentation.md           # Argumentation et force des raisons
-│   ├── inferentialisme.md         # L'inférentialisme (Brandom et scorekeeping)
-│   ├── communautes-justif.md      # Communautés de locuteurs et espaces partagés
-│   └── revision-engagements.md    # Révision et mise à jour des engagements
+│   ├── normes.md
+│   ├── justification.md
+│   ├── argumentation.md
+│   ├── inferentialisme.md
+│   ├── communautes-justif.md
+│   └── revision-engagements.md
 │
 ├── 12-auditer/
-│   ├── l-audit.md                 # L'audit comme méthode immanente d'enquête
-│   ├── questions-directrices.md   # Grille d'audit et axes d'observation
-│   ├── conditions-de-recevabilite.md # Explicitation des critères de validité locale
-│   ├── points-de-vigilance.md     # Pièges méthodologiques à éviter
-│   ├── regime-de-la-description.md # Méta-analyse du régime audité
-│   ├── audit-comparatif.md        # Comparaison croisée de plusieurs régimes sur un cas
-│   ├── audit-des-audits.md        # L'audit de l'audit et la réflexivité
-│   ├── reflexivite.md             # Réflexivité généralisée
-│   ├── limites-protokin.md        # Frontières de l'architecture protokinienne
-│   └── protokin-comme-regime.md   # Protokin comme régime descriptif critiquable
+│   ├── l-audit.md
+│   ├── questions-directrices.md
+│   ├── conditions-de-recevabilite.md
+│   ├── points-de-vigilance.md
+│   ├── regime-de-la-description.md
+│   ├── audit-comparatif.md
+│   ├── audit-des-audits.md
+│   ├── reflexivite.md
+│   ├── limites-protokin.md
+│   └── protokin-comme-regime.md
 │
 ├── 13-heritages/
-│   ├── peirce.md                  # Peirce (pragmatisme et clarification)
-│   ├── sellars.md                 # Sellars (causes/raisons, images)
-│   ├── brandom.md                 # Brandom (inférentialisme et normativité)
-│   ├── dewey.md                   # Dewey (l'enquête et la situation problématique)
-│   ├── wittgenstein.md            # Wittgenstein (jeux de langage et formes de vie)
-│   ├── rouse.md                   # Rouse (pratiques matérielles et normativité)
-│   ├── simondon.md                # Simondon (individuation et transduction)
-│   ├── ricœur.md                  # Ricœur (temporalité et identité narrative)
-│   ├── fricker.md                 # Fricker (injustice épistémique)
-│   ├── hacking.md                 # Hacking (ontologie historique)
-│   ├── maturana-varela.md         # Maturana & Varela (couplage perception-action)
-│   ├── damasio.md                 # Damasio
-│   ├── prigogine.md               # Prigogine
-│   └── von-foerster.md            # Von Foerster (valeurs propres et cybernétique de second ordre)
+│   ├── peirce.md
+│   ├── sellars.md
+│   ├── brandom.md
+│   ├── dewey.md
+│   ├── wittgenstein.md
+│   ├── rouse.md
+│   ├── simondon.md
+│   ├── ricœur.md
+│   ├── fricker.md
+│   ├── hacking.md
+│   ├── maturana-varela.md
+│   ├── damasio.md
+│   ├── prigogine.md
+│   └── von-foerster.md
 │
 ├── 14-applications/
-│   ├── fil-rouge.md               # Fil rouge : « Cette personne est mauvaise »
-│   ├── geocentrisme.md            # Du géocentrisme à l'héliocentrisme
-│   ├── monnaie.md                 # La monnaie comme fait institutionnel
-│   ├── medecin.md                 # Le médecin comme statut agentif
-│   ├── illegalite.md              # L'illégalité comme qualification normative
-│   ├── intelligence-artificielle.md # L'intelligence artificielle et l'opérativité sans raisons
-│   ├── classifications-medicales.md # Évolution des classifications médicales
-│   └── controverses-scientifiques.md # Analyse de controverses complexes
+│   ├── fil-rouge.md
+│   ├── geocentrisme.md
+│   ├── monnaie.md
+│   ├── medecin.md
+│   ├── illegalite.md
+│   ├── intelligence-artificielle.md
+│   ├── classifications-medicales.md
+│   └── controverses-scientifiques.md
 │
 └── 15-ouverture/
-    ├── avenir-de-protokin.md      # Pistes d'extension et chantiers futurs
-    ├── questions-ouvertes.md      # Tensions irrésolues et chantiers théoriques
-    ├── glossaire.md               # Définitions transversales des termes clés
-    └── bibliographie.md           # Références textuelles et ancrages théoriques
+    ├── avenir-de-protokin.md
+    ├── questions-ouvertes.md
+    ├── glossaire.md
+    └── bibliographie.md
 ```
