@@ -22,6 +22,7 @@ Aucune opération ne possède une priorité absolue. Une description n'existe ja
 
 L'ordre de présentation adopté est un ordre de reconstruction analytique. Il ne décrit ni une succession temporelle ni une hiérarchie ontologique, mais les conditions fonctionnelles d'une pratique descriptive.
 
+```text
                      AUDIT
                        │
                        ▼
@@ -42,6 +43,7 @@ Pratiques collectives
 Communauté descriptive
           ⇅
 Stabilisation
+```
 
 L'audit est transversal à cette organisation : il peut porter sur chacun de ses niveaux afin d'en expliciter les tensions et les possibilités de transformation.
 
