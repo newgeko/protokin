@@ -1,3 +1,5 @@
+```text
+
 protokin-docs/
 │
 ├── README.md                      # Page d'accueil générale
@@ -143,3 +145,4 @@ protokin-docs/
     ├── questions-ouvertes.md      # Tensions irrésolues et chantiers théoriques
     ├── glossaire.md               # Définitions transversales des termes clés
     └── bibliographie.md           # Références textuelles et ancrages théoriques
+```
