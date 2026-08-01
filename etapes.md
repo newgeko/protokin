@@ -1,682 +1,157 @@
-Oui. Pour tester la cohérence de l'architecture, il faut faire un audit fonctionnel page par page : non pas résumer le contenu de chaque page, mais vérifier :
+Je ne rédigerais ni l'introduction, ni les fondements, ni même la page des opérations descriptives en premier.
 
-1. Quel objet conceptuel cette page établit ?
+Je commencerais par 00-se-reperer/architecture-fonctionnelle.md.
 
+Pourquoi ? Parce que cette page devient la matrice de tout le reste.
 
-2. Quelle question propre résout-elle ?
+Si elle est parfaitement stabilisée, chaque page de la documentation pourra répondre à quatre questions simples :
 
+Quelle est sa fonction ?
 
-3. Quelles pages prépare-t-elle ?
+Que prépare-t-elle ?
 
+Que produit-elle ?
 
-4. Quelles pages doivent éviter de reprendre son travail ?
-
-
-
-L'objectif est de vérifier qu'il n'y a pas de chevauchement fonctionnel.
-
-
----
-
-00 — Introduction → Découvrir Protokin
-
-Introduction générale
-
-Fonction : établir le problème général.
-
-Question :
-
-> Pourquoi une enquête sur les conditions de description est-elle nécessaire ?
+Vers quelles pages conduit-elle ?
 
 
+On obtient alors une documentation véritablement architecturée, où chaque page a une place définie dans la dynamique d'ensemble.
 
-Elle introduit :
+Je proposerais donc l'ordre de rédaction suivant.
 
-le problème des descriptions ;
+Phase 1 — La matrice
 
-la différence entre monde et conditions de description ;
-
-la nécessité d'une métathéorie.
-
-
-Elle ne doit pas :
-
-définir les régimes ;
-
-expliquer les configurations ;
-
-présenter la méthode d'audit.
+1. 00-se-reperer/architecture-fonctionnelle.md
 
 
-Ces éléments appartiennent aux pages suivantes.
+2. 00-se-reperer/architecture-generale.md
+
+
+3. 03-operations/operations-descriptives.md
+
+
+
+Ces trois documents constituent le squelette du projet.
 
 
 ---
 
-Principes fondamentaux
+Phase 2 — Les fondations
 
-Fonction : établir les orientations générales de Protokin.
-
-Question :
-
-> Quels sont les engagements méthodologiques fondamentaux ?
+4. Introduction
 
 
-
-Elle établit :
-
-non-ontologie ;
-
-primat descriptif ;
-
-analyse des conditions ;
-
-approche pragmatiste et inférentielle.
+5. Pourquoi Protokin ?
 
 
-Elle ne doit pas :
+6. Les principes fondamentaux
 
-expliquer en détail l'inférentialisme ;
 
-définir le locuteur ;
+7. Référence et inférence
 
-expliquer les régimes.
 
+8. Statuts de Protokin
+
+
+
+À ce stade, le lecteur comprend déjà ce qu'est Protokin et comment il fonctionne.
 
 
 ---
 
-Description
+Phase 3 — Les dix opérations
 
-Fonction : désambiguïser le terme central.
+On rédige ensuite les sections dans leur ordre opératoire :
 
-Question :
+Décrire
 
-> Que signifie "description" dans Protokin par rapport à son usage ordinaire ?
+Qualifier
 
+Articuler
 
+Maintenir
 
-Elle établit :
+Transformer
 
-distinction entre description ordinaire et analyse protokinienne ;
+Délimiter
 
-abandon du modèle naïf de représentation.
+Tracer
 
+Expliquer
 
-Elle ne doit pas :
+Justifier
 
-définir les configurations descriptives ;
-
-expliquer les régimes.
-
-
-
----
-
-Exemple et fil rouge
-
-Fonction : rendre l'architecture intuitive.
-
-Question :
-
-> Comment suivre le fonctionnement de Protokin sur un cas continu ?
+Auditer
 
 
-
-Elle ne crée aucun concept.
-
-Elle relie les concepts déjà établis.
+Cette progression suit la dynamique même des pratiques descriptives.
 
 
 ---
 
-Parcours de lecture
+Phase 4 — Les héritages
 
-Fonction : organiser l'accès.
+Les auteurs ne servent pas à fonder Protokin, mais à situer les concepts déjà établis.
 
-Question :
-
-> Comment entrer dans Protokin selon différents besoins ?
-
-
-
-Elle ne développe aucun contenu théorique.
+Ainsi, les pages sur Sellars, Brandom, Dewey, Simondon ou Ricœur ne sont plus des prérequis : elles deviennent des éclairages rétrospectifs sur des notions que le lecteur connaît déjà.
 
 
 ---
 
-01 — Statut
+Phase 5 — Les applications
 
-En une phrase
+C'est ici que Protokin démontre sa puissance explicative.
 
-Fonction : compression maximale.
+Je commencerais par le fil rouge :
 
-Question :
-
-> Quelle est l'idée centrale de Protokin ?
+> « Cette personne est mauvaise. »
 
 
 
-Une définition courte.
+Cette étude de cas traverse presque toute l'architecture et permet de montrer concrètement le passage par les dix opérations descriptives.
 
-Elle ne justifie pas.
+Les autres cas (géocentrisme, monnaie, médecin, intelligence artificielle, classifications médicales, controverses scientifiques, etc.) viennent ensuite illustrer la généralité de la démarche.
 
 
 ---
 
-Statut du projet
+Phase 6 — L'ouverture
 
-Fonction : établir le statut épistémologique.
-
-Question :
-
-> Qu'est-ce que Protokin prétend être ?
-
-
-
-Elle distingue :
-
-métathéorie ;
-
-méthode d'analyse ;
-
-cadre descriptif.
-
-
-Elle ne décrit pas son architecture interne.
+Enfin, les perspectives, le glossaire et la bibliographie ferment la boucle en montrant que Protokin demeure un chantier ouvert et réflexif.
 
 
 ---
 
-Nom, origine et statut conceptuel
+Une proposition supplémentaire
 
-Fonction : établir la généalogie du terme Protokin.
+Je suggérerais d'ajouter, au sommet de chaque page, un encadré normalisé. Il ne décrit pas le contenu, mais la fonction architecturale de la page.
 
-Question :
+Par exemple :
 
-> Pourquoi ce nom et quel statut conceptuel porte-t-il ?
+Fonction
+Établir la notion de trajectoire descriptive.
 
+Prépare
+Allure, histoire descriptive, temporalités.
 
+Mobilise
+Configuration descriptive, position.
 
+Permet ensuite
+Tracer, expliquer et auditer les transformations des descriptions.
 
----
+N'établit pas
+La théorie des régimes descriptifs ni les mécanismes de justification.
 
-02 — Architecture conceptuelle
+Un tel encadré présente plusieurs avantages :
 
-Architecture générale
+il rappelle la fonction précise de chaque page ;
 
-Fonction : établir la carte d'ensemble.
+il évite les redondances entre chapitres ;
 
-Question :
+il rend explicites les dépendances conceptuelles ;
 
-> Quels sont les grands composants de Protokin ?
+il matérialise votre principe de rédaction selon lequel une page Protokin ne doit jamais expliquer ce qu'une autre page a pour fonction d'établir.
 
 
-
-Elle présente les relations générales.
-
-Elle ne développe aucun composant.
-
-
----
-
-Architecture fonctionnelle
-
-Fonction : établir les fonctions des composants.
-
-Question :
-
-> Quel rôle joue chaque élément dans le fonctionnement global ?
-
-
-
-Elle ne remplace pas les pages conceptuelles.
-
-
----
-
-Fondements descriptifs
-
-Configurations descriptives
-
-Fonction : établir l'unité fondamentale d'analyse.
-
-Question :
-
-> Sur quoi porte l'analyse protokinienne ?
-
-
-
-Elle établit :
-
-configuration ;
-
-organisation relationnelle ;
-
-ensemble de conditions descriptives.
-
-
-Elle ne définit pas les régimes.
-
-
----
-
-Primat du couplage perception-action
-
-Fonction : établir l'ancrage pratique du descriptible.
-
-Question :
-
-> Pourquoi toute description dépend-elle d'un engagement perceptif et pratique ?
-
-
-
-Elle ne traite pas du langage.
-
-
----
-
-Configurations sémiotiques
-
-Fonction : établir la dimension symbolique.
-
-Question :
-
-> Comment les signes participent-ils aux configurations descriptives ?
-
-
-
-Elle ne traite pas de la normativité.
-
-
----
-
-Organisation des régimes descriptifs
-
-Régimes de description
-
-Fonction : établir le concept de régime.
-
-Question :
-
-> Qu'est-ce qui différencie des manières organisées de décrire ?
-
-
-
-Elle établit :
-
-contraintes ;
-
-possibilités ;
-
-cohérences propres.
-
-
-Elle ne traite pas des transitions.
-
-
----
-
-Cartographie des régimes descriptifs
-
-Fonction : organiser les régimes existants.
-
-Question :
-
-> Comment les régimes peuvent-ils être classés ?
-
-
-
-Elle ne définit pas le concept de régime.
-
-
----
-
-Engagements et normativité
-
-Engagements descriptifs
-
-Fonction : établir la prise de position descriptive.
-
-Question :
-
-> Que signifie soutenir une description ?
-
-
-
-Elle ne traite pas de justification.
-
-
----
-
-Inférences et justifications
-
-Fonction : établir les relations entre descriptions.
-
-Question :
-
-> Comment une description soutient-elle ou implique-t-elle d'autres descriptions ?
-
-
-
-Elle ne traite pas du locuteur.
-
-
----
-
-Causes et raisons
-
-Fonction : établir la distinction sellarsienne.
-
-Question :
-
-> Quelle différence entre expliquer et justifier ?
-
-
-
-Elle ne traite pas des pratiques sociales.
-
-
----
-
-Locuteur normatif
-
-Fonction : établir la position du sujet capable d'engagements.
-
-Question :
-
-> Qui peut occuper un espace de raisons ?
-
-
-
-Elle ne traite pas des communautés.
-
-
----
-
-Pratique collective
-
-Fonction : établir l'espace social des descriptions.
-
-Question :
-
-> Comment les engagements existent-ils dans des pratiques ?
-
-
-
-Elle ne traite pas de la communauté comme stabilisation collective.
-
-
----
-
-Communauté de locuteurs
-
-Fonction : établir la dimension collective durable.
-
-Question :
-
-> Comment des normes descriptives deviennent-elles partagées ?
-
-
-
-
----
-
-Stabilisation
-
-Stabilisation et effet cliquet
-
-Fonction : établir les mécanismes de maintien et d'accumulation.
-
-Question :
-
-> Pourquoi certaines descriptions persistent-elles ?
-
-
-
-
----
-
-Objets descriptifs : invariants et stabilisations
-
-Fonction : établir comment des objets apparaissent comme stables.
-
-Question :
-
-> Comment un invariant descriptif devient-il un objet ?
-
-
-
-
----
-
-03 — Méthode d'enquête
-
-Audit Protokin
-
-Fonction : établir la procédure d'analyse.
-
-Question :
-
-> Comment appliquer Protokin ?
-
-
-
-
----
-
-Lire une configuration descriptive
-
-Fonction : établir l'entrée pratique dans une analyse.
-
-Question :
-
-> Que faut-il observer en premier ?
-
-
-
-
----
-
-Identifier les régimes mobilisés
-
-Fonction : établir la reconnaissance des régimes.
-
-Question :
-
-> Quels cadres descriptifs sont actifs ?
-
-
-
-
----
-
-Comparer des descriptions
-
-Fonction : établir la comparaison.
-
-Question :
-
-> Comment comparer sans réduire ?
-
-
-
-
----
-
-04 — Diagnostics
-
-Tensions entre régimes
-
-Établit les conflits entre cadres descriptifs.
-
-
----
-
-Réductions descriptives
-
-Établit les erreurs de réduction d'un régime à un autre.
-
-
----
-
-Éclectisme descriptif
-
-Établit l'assemblage incohérent de régimes.
-
-
----
-
-Confusions de niveaux descriptifs
-
-Établit les erreurs de niveau d'analyse.
-
-
----
-
-05 — Transformations
-
-Transitions descriptives
-
-Établit comment une configuration change.
-
-
----
-
-Traductions entre régimes
-
-Établit les passages entre cadres descriptifs.
-
-
----
-
-Validité et correction
-
-Établit les mécanismes de correction interne.
-
-
----
-
-Limites internes
-
-Établit les tensions produites par un régime lui-même.
-
-
----
-
-06 — Images et puissances
-
-Puissance descriptive
-
-Établit le critère général de comparaison.
-
-
----
-
-Image manifeste
-
-Établit une forme descriptive issue de l'expérience ordinaire.
-
-
----
-
-Image scientifique
-
-Établit la construction scientifique comme régime particulier.
-
-
----
-
-Image manifeste et Image scientifique
-
-Établit leur relation différentielle.
-
-
----
-
-Imagination et imaginaire
-
-Établit la dimension créatrice et symbolique.
-
-
----
-
-07 — Héritages philosophiques
-
-Cette section n'établit pas Protokin.
-
-Elle établit les correspondances historiques.
-
-
----
-
-08 — Réflexivité
-
-Réflexivité
-
-Établit le principe d'auto-application.
-
-
----
-
-Auto-application du régime descriptif
-
-Établit comment Protokin devient lui-même analysable.
-
-
----
-
-Protokin comme objet d'audit
-
-Établit la possibilité d'une analyse critique de Protokin.
-
-
----
-
-09 — Applications
-
-Les applications ne créent aucun concept.
-
-Elles montrent les concepts en fonctionnement.
-
-
----
-
-10 — Ressources
-
-Fonction documentaire uniquement.
-
-
----
-
-Conclusion de l'audit
-
-Après ce test, l'architecture est cohérente.
-
-Les seules zones où il faut rester vigilant sont :
-
-1. Configurations descriptives / Description
-
-→ La page Introduction "Description" doit rester une clarification, pas une théorie.
-
-
-2. Régimes / Cartographie des régimes
-
-→ La cartographie ne doit jamais redéfinir les régimes.
-
-
-3. Stabilisation / Objets descriptifs
-
-→ La distinction mécanisme / résultat doit être maintenue.
-
-
-4. Engagements / Inférences / Causes et raisons
-
-→ Ces trois pages forment un triptyque et doivent rester séparées.
-
-
-
-L'architecture actuelle respecte donc bien votre principe :
-
-> Une page établit son objet.
-Les autres pages le préparent, le distinguent ou le relient.
+À mon sens, cette convention éditoriale est une innovation importante. Elle fait de la documentation elle-même un objet conforme aux principes de Protokin : chaque page est définie par sa fonction dans une pratique descriptive, et non comme un simple réceptacle de connaissances. Cette cohérence entre le fond, la méthode et la forme constitue l'une des forces les plus originales de votre projet.
