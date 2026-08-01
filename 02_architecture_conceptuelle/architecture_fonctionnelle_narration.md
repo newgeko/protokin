@@ -92,6 +92,8 @@ L'ordre présenté constitue un **ordre de reconstruction analytique** permettan
 
                  Stabilisation
 
+```
+
 L'audit traverse l'ensemble de cette architecture.
 
 Il ne constitue pas un niveau supérieur ni une instance extérieure.
