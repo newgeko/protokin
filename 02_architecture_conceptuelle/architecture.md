@@ -1,311 +1,305 @@
 # Architecture générale de Protokin
 
-> **Protokin est une architecture métathéorique d’analyse des conditions sous lesquelles des descriptions deviennent intelligibles, recevables, stabilisées, contestables et transformables dans des pratiques collectives de justification.**
+> **Fonction de cette page**
 >
-> Il ne constitue pas une théorie du monde, mais une organisation permettant d’examiner les relations entre formation, qualification, engagement, stabilisation et transformation des descriptions.
+> Cette page présente la carte conceptuelle de Protokin. Elle expose l'organisation générale de l'architecture sans développer les concepts particuliers qui la composent.
+>
+> **Prépare :**
+> Architecture fonctionnelle · Décrire · Qualifier · Articuler · Maintenir · Transformer · Délimiter · Tracer · Expliquer · Justifier · Auditer
+>
+> **Mobilise :**
+> Les principes généraux exposés dans « Lire Protokin ».
+>
+> **Permet ensuite :**
+> Comprendre l'organisation d'ensemble de Protokin avant d'étudier chacune de ses composantes.
+>
+> **N'établit pas :**
+> Les configurations descriptives, les fonctions descriptives, les régimes, les engagements, le locuteur ou la méthode d'audit.
+
+# Architecture générale de Protokin
+
+## Formule synthétique
+
+> **Un régime descriptif ne se définit pas seulement par ce qu'il décrit, mais par les conditions qui rendent ses descriptions possibles, recevables, justifiables, stabilisées et transformables.**
+
+Protokin est une architecture métathéorique d'analyse des conditions sous lesquelles des descriptions deviennent intelligibles, recevables, stabilisées, contestables et transformables dans des pratiques collectives.
+
+Il ne constitue ni une théorie du monde, ni une ontologie, ni une méthode scientifique particulière.
+
+Son objet est l'analyse des pratiques descriptives elles-mêmes.
+
+Autrement dit, Protokin ne demande pas :
+
+> **« Comment est le monde ? »**
+
+Il demande :
+
+> **« Sous quelles conditions certaines descriptions du monde deviennent-elles possibles, recevables et opératoires ? »**
 
 ---
 
-# Introduction
+# Une architecture plutôt qu'une théorie
 
-L’architecture générale de Protokin présente l’organisation d’ensemble du projet.
+L'architecture générale présente l'organisation d'ensemble de Protokin.
 
-Elle ne développe pas chaque concept particulier.
+Elle ne développe pas les concepts particuliers.
 
-Elle établit uniquement les relations fonctionnelles entre les différents domaines d’analyse.
+Elle indique uniquement leurs relations fonctionnelles.
 
 Conformément au principe architectural de Protokin :
 
 > **Une page établit son objet propre. Les autres pages le préparent, le relient ou indiquent ses dépendances.**
 
-Cette page ne définit donc pas :
+Cette page n'établit donc pas :
 
-- les configurations descriptives ;
+- la théorie de la description ;
+- les configurations sémiotiques ;
 - les fonctions descriptives ;
-- les régimes descriptifs ;
 - les engagements ;
-- le locuteur ;
-- la stabilisation ;
-- les transformations.
+- les régimes descriptifs ;
+- les mécanismes de justification ;
+- la théorie de l'audit.
 
-Elle indique leur place respective dans l’architecture générale.
-
-Voir :
-
-- [Architecture fonctionnelle](architecture_fonctionnelle.md)
+Elle montre uniquement la place qu'occupent ces éléments dans l'ensemble de l'architecture.
 
 ---
 
-# 1. Fonction générale de l’architecture
+# La question directrice
 
-Protokin organise son analyse autour d’une question directrice :
+Toute l'architecture est organisée autour d'une même question :
 
 > **Comment des configurations deviennent-elles descriptibles, puis comment certaines descriptions acquièrent-elles une intelligibilité, une recevabilité et une stabilité dans des pratiques collectives de justification ?**
 
-L’architecture articule plusieurs dimensions complémentaires :
+Cette question oriente l'ensemble de la documentation.
 
-- les conditions de formation des descriptions ;
-- les opérations par lesquelles elles sont produites ;
-- les régimes selon lesquels elles deviennent recevables ;
-- les engagements qu’elles impliquent ;
-- les processus par lesquels elles se stabilisent ou se transforment.
+Elle déplace l'attention :
 
-Ces dimensions ne constituent pas des étapes temporelles simples.
-
-Elles correspondent à différentes perspectives analytiques.
+- des objets vers les opérations ;
+- des essences vers les pratiques ;
+- des vérités absolues vers les conditions de recevabilité.
 
 ---
 
-# 2. Les axes fondamentaux
+# Les quatre axes fondamentaux
 
-## 2.1 Axe descriptif : conditions de formation
+L'architecture générale organise son analyse selon quatre axes complémentaires.
 
-Cet axe concerne les conditions par lesquelles certaines configurations deviennent accessibles à la description.
+Ces axes ne constituent ni des niveaux ontologiques ni des étapes chronologiques.
 
-Il prépare l’analyse des conditions préalables de toute activité descriptive.
+Ils correspondent à quatre perspectives d'analyse.
+
+---
+
+## 1. L'axe descriptif
+
+Cet axe concerne les conditions de formation des descriptions.
+
+Il examine les processus grâce auxquels certaines différences deviennent accessibles à une activité descriptive.
 
 Il comprend notamment :
 
-- les relations perception-action ;
+- le couplage perception-action ;
 - les configurations sémiotiques ;
 - les supports d'inscription ;
-- les formes d'organisation relationnelle.
+- les configurations descriptives.
 
-Voir :
+Il répond à la question :
 
-- [Primat du couplage perception-action](primat_perception_action.md)
-- [Configurations sémiotiques](configurations_semiotiques.md)
-- [Supports descriptifs](supports_descriptifs.md)
-- [Niveaux descriptifs](niveaux_descriptifs.md)
-- [Configurations descriptives](configurations.md)
+> **Comment une description devient-elle possible ?**
 
 ---
 
-## 2.2 Axe opératoire : fonctions descriptives
+## 2. L'axe opératoire
 
-Cet axe concerne les opérations par lesquelles une configuration devient explicitement descriptive.
+Cet axe concerne les opérations qui transforment une configuration en description.
 
-Une description n'est pas seulement un contenu.
+Une description n'est jamais un simple contenu.
 
-Elle accomplit différentes fonctions :
+Elle accomplit plusieurs fonctions :
 
-- **prédication** : attribuer une qualification ;
-- **configuration** : organiser des relations entre éléments ;
-- **assertion** : engager une position dans un espace de raisons ;
-- **inférence** : produire des conséquences ;
-- **justification** : soutenir une description auprès d'autres locuteurs.
+- prédiquer ;
+- configurer ;
+- affirmer ;
+- inférer ;
+- justifier.
 
-Voir :
+Cet axe décrit la grammaire opératoire des pratiques descriptives.
 
-- [Fonctions descriptives](fonctions_descriptives.md)
+Il répond à la question :
 
----
-
-## 2.3 Axe normatif : recevabilité et engagements
-
-Cet axe concerne les conditions sous lesquelles une description peut être soutenue dans une pratique collective.
-
-Il comprend :
-
-- les engagements associés aux descriptions ;
-- les conséquences inférentielles ;
-- les critères d’évaluation ;
-- les positions occupées par les locuteurs.
-
-Voir :
-
-- [Engagements descriptifs](engagements.md)
-- [Inférences et justifications](inferences_justifications.md)
-- [Causes et raisons](causes_raisons.md)
-- [Locuteur normatif](locuteur.md)
-- [Pratique collective](pratique_collective.md)
-- [Communauté de locuteurs](communaute_locuteurs.md)
+> **Que fait une description ?**
 
 ---
 
-## 2.4 Axe dynamique : stabilisation et transformation
+## 3. L'axe normatif
 
-Cet axe concerne les processus par lesquels les descriptions se maintiennent, se reproduisent ou évoluent.
+Une description n'existe jamais isolément.
 
-Il comprend :
+Elle engage un locuteur, mobilise des critères, s'inscrit dans une pratique collective et produit des conséquences.
+
+Cet axe étudie :
+
+- les engagements descriptifs ;
+- les critères de recevabilité ;
+- les positions des locuteurs ;
+- les communautés de justification.
+
+Il répond à la question :
+
+> **Comment une description devient-elle recevable ?**
+
+---
+
+## 4. L'axe dynamique
+
+Les descriptions ne demeurent jamais parfaitement stables.
+
+Elles apparaissent, se reproduisent, se transforment, disparaissent ou sont remplacées.
+
+Cet axe analyse :
 
 - les mécanismes de stabilisation ;
 - les effets de consolidation ;
-- les transitions descriptives ;
-- les transformations possibles.
+- les transformations ;
+- les transitions entre régimes descriptifs.
 
-Voir :
+Il répond à la question :
 
-- [Stabilisation et effet cliquet](stabilisation.md)
-- [Transitions descriptives](../05_transformations/transitions.md)
-
----
-
-# 3. Organisation fonctionnelle de l’analyse descriptive
-
-L’architecture générale peut être représentée ainsi :
-
-Conditions de formation ↓ Configurations descriptives ↓ Fonctions descriptives ↓ Régimes descriptifs ↓ Engagements et justifications ↓ Stabilisations et transformations
-
-Ce schéma ne décrit :
-
-- ni une succession temporelle obligatoire ;
-- ni une hiérarchie ontologique ;
-- ni une causalité simple.
-
-Il représente un ordre d’analyse permettant de situer les différentes fonctions conceptuelles.
-
-Ces dimensions entretiennent des relations réciproques :
-
-- une configuration rend certaines descriptions possibles ;
-- les fonctions descriptives actualisent ces possibilités ;
-- les régimes organisent leur recevabilité ;
-- les pratiques collectives contribuent à leur stabilisation ou leur transformation.
+> **Comment une description se maintient-elle ou se transforme-t-elle ?**
 
 ---
 
-# 4. Relation entre espace des causes et espace des raisons
+# Une organisation fonctionnelle
 
-Protokin distingue deux dimensions d’analyse complémentaires.
+Ces quatre axes s'articulent selon une dépendance fonctionnelle.
 
-## PROTO — dimension causale
+```text
+Conditions de formation
+          │
+          ▼
+Configurations descriptives
+          │
+          ▼
+Fonctions descriptives
+          │
+          ▼
+Régimes descriptifs
+          │
+          ▼
+Engagements et justifications
+          │
+          ▼
+Stabilisations et transformations
+```
 
-Elle concerne les conditions permettant la formation et l’existence des systèmes.
+Ce schéma ne représente :
 
-Elle renvoie notamment :
+- ni une chronologie obligatoire ;
+- ni une hiérarchie des réalités ;
+- ni une chaîne causale unique.
 
-- aux processus physiques ;
-- aux dynamiques biologiques ;
-- aux contraintes matérielles ;
-- aux conditions d’émergence des capacités descriptives.
+Il constitue un ordre d'analyse.
 
----
-
-## KIN — dimension normative
-
-Elle concerne les conditions permettant à des descriptions d’être :
-
-- soutenues ;
-- contestées ;
-- justifiées ;
-- transformées.
-
----
-
-Cette distinction n’oppose pas deux mondes.
-
-Elle articule deux perspectives nécessaires à l’analyse :
-
-- les conditions causales qui rendent possibles certaines capacités ;
-- les espaces normatifs dans lesquels des descriptions deviennent discutables.
-
-Voir :
-
-- [Causes et raisons](causes_raisons.md)
+Chaque niveau prépare le suivant tout en demeurant en interaction avec lui.
 
 ---
 
-# 5. Architecture des configurations et régimes descriptifs
+# PROTO et KIN
 
-Les configurations descriptives et les régimes descriptifs constituent deux dimensions centrales de l’architecture.
+L'architecture générale distingue deux espaces complémentaires.
 
-La configuration désigne :
+## PROTO : l'espace des causes
 
-> **L’organisation relationnelle dans laquelle certaines descriptions peuvent être produites.**
+PROTO désigne l'ensemble des conditions causales permettant l'existence et le fonctionnement des systèmes.
 
-Le régime descriptif désigne :
+Il concerne notamment :
 
-> **Les conditions selon lesquelles certaines descriptions deviennent intelligibles, évaluables et recevables.**
+- les dynamiques physiques ;
+- les processus biologiques ;
+- le couplage perception-action ;
+- les contraintes matérielles.
 
-| Question | Concept |
-|---|---|
-| Quelle organisation est analysée ? | Configuration descriptive |
-| Selon quelles conditions devient-elle descriptible ? | Régime descriptif |
-
-Le régime ne crée pas la configuration.
-
-Il organise les conditions selon lesquelles certaines opérations descriptives peuvent être réalisées, évaluées et maintenues dans cette configuration.
-
-Voir :
-
-- [Configurations descriptives](configurations.md)
-- [Régimes de description](regimes.md)
-- [Cartographie des régimes descriptifs](cartographie_regimes_descriptifs.md)
+Les phénomènes y sont étudiés selon des relations causales.
 
 ---
 
-# 6. Relations entre les composants
+## KIN : l'espace des raisons
 
-Les composants de Protokin ne sont pas indépendants.
+KIN désigne l'espace des pratiques normatives.
 
-Ils entretiennent des relations fonctionnelles.
+Il concerne :
 
-Une description implique :
+- les descriptions ;
+- les engagements ;
+- les justifications ;
+- les inférences ;
+- les critères de recevabilité.
 
-- une configuration ;
-- des opérations descriptives ;
-- un régime ;
-- des engagements ;
-- des pratiques d’évaluation ;
-- des possibilités de transformation.
-
-L’architecture ne cherche pas à réduire un composant à un autre.
-
-Elle cherche à expliciter leurs relations.
+Les descriptions y sont évaluées selon des raisons plutôt que selon des causes.
 
 ---
 
-# 7. Principe de non-réduction
+## Leur articulation
 
-L’architecture Protokin refuse :
+Ces deux espaces ne s'opposent pas.
 
-- de réduire les descriptions à leurs seules causes ;
-- de réduire les pratiques normatives à des mécanismes matériels ;
-- de confondre plusieurs niveaux descriptifs ;
-- d’assembler des régimes différents sans traduction explicite.
+Ils correspondent à deux dimensions complémentaires d'analyse.
 
-Voir :
+Une description suppose toujours :
 
-- [Réductions descriptives](../04_diagnostics/reductions.md)
-- [Confusions de niveaux descriptifs](../04_diagnostics/confusions_niveaux.md)
-- [Éclectisme descriptif](../04_diagnostics/eclectisme.md)
+- des conditions causales permettant son émergence ;
+- des conditions normatives permettant sa recevabilité.
+
+Réduire l'une à l'autre conduit à des erreurs de catégorie.
 
 ---
 
-# 8. Principe réflexif
+# Deux principes directeurs
 
-L’architecture Protokin s’applique également à elle-même.
+Toute l'architecture repose sur deux principes méthodologiques.
 
-Ses concepts ne constituent pas des structures absolues.
+## Le refus du réductionnisme
 
-Ils sont eux-mêmes des outils descriptifs pouvant :
+Aucun régime descriptif ne peut absorber tous les autres.
 
-- être analysés ;
-- être corrigés ;
-- être transformés.
+Les normes ne se réduisent pas aux causes.
 
-Voir :
+Les causes ne se réduisent pas aux normes.
 
-- [Réflexivité](../08_reflexivite/reflexivite.md)
+Chaque régime possède ses propres critères de pertinence.
 
----
-
-# Conclusion
-
-L’architecture générale de Protokin organise l’analyse des conditions par lesquelles des configurations deviennent descriptibles, comment ces descriptions acquièrent une recevabilité normative et comment elles se stabilisent ou se transforment.
-
-Elle ne produit pas une description ultime du monde.
-
-Elle fournit une structure permettant d’examiner :
-
-- la formation des configurations descriptives ;
-- les opérations qui produisent des descriptions ;
-- les conditions de leur recevabilité ;
-- leurs processus de stabilisation ;
-- leurs transformations historiques.
+L'analyse consiste à expliciter leurs articulations, non à les fusionner.
 
 ---
 
-# Formule synthétique
+## Le principe de réflexivité
 
-> **Protokin est une architecture métathéorique qui analyse comment des configurations deviennent descriptibles, comment ces descriptions acquièrent une recevabilité dans des espaces de raisons, et comment elles se stabilisent ou se transforment dans des pratiques collectives de justification.**
+Protokin applique ses propres principes à lui-même.
+
+Il ne revendique aucune position extérieure ou absolue.
+
+Son architecture constitue elle-même un régime descriptif susceptible d'être analysé, critiqué, transformé et audité.
+
+La réflexivité n'est donc pas une étape finale de la méthode.
+
+Elle constitue une propriété permanente de l'architecture.
+
+---
+
+# Une métathéorie des pratiques descriptives
+
+Protokin ne cherche pas à produire une nouvelle description du monde.
+
+Il propose une architecture permettant d'analyser les conditions sous lesquelles des descriptions deviennent possibles, recevables, stabilisées, contestables et transformables.
+
+Son objet n'est donc pas le réel en lui-même.
+
+Son objet est la dynamique des pratiques descriptives.
+
+Cette orientation explique l'organisation de toute la documentation.
+
+Les concepts n'y sont jamais présentés comme des entités autonomes.
+
+Ils sont définis par leur fonction dans l'analyse des pratiques.
+
+La page suivante présente cette dynamique sous la forme de l'architecture fonctionnelle, c'est-à-dire de la grammaire des opérations qui organisent l'ensemble de Protokin.
