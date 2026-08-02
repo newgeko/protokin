@@ -114,6 +114,21 @@ La priorité n'est jamais le respect d'un plan fixe mais la clarté de la progre
 
 ---
 
+# Principe des dépendances
+
+Chaque page appartient à un réseau de dépendances.
+
+Lors de la rédaction, toujours identifier implicitement :
+
+- ce qui doit être compris auparavant ;
+- ce que cette page rend ensuite possible.
+
+Une page ne doit jamais apparaître comme isolée.
+
+Elle constitue toujours un maillon de l'architecture générale.
+
+---
+
 # Principe de progression
 
 Une page ne juxtapose pas des rubriques.
