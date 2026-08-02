@@ -1,127 +1,38 @@
-# Régimes de description
-
-Cette page définit la notion de **régime de description** dans l'architecture de **Protokin**.
-Elle répond à une question fondamentale :
-
-> **Qu'est-ce qui détermine la validité et l'intelligibilité d'une description ?**
-
-La réponse est :
-
-> **Une description n'est jamais valide en soi. Ses conditions de production, d'évaluation et de stabilisation dépendent toujours d'un régime de description.**
-
-## 1. Principe général
-
-Dans Protokin, un **régime de description** désigne un ensemble organisé de conditions locales et de contraintes permettant à certaines configurations de devenir descriptibles, intelligibles et évaluables.
-
-Un régime n'est pas une portion du monde physique ou une structure cachée de la réalité.
-Il organise la manière dont une description prend une forme déterminée. Il concerne notamment :
-
-- les distinctions disponibles ;
-- les critères de pertinence ;
-- les formes d'inférence admises ;
-- les possibilités de justification ;
-- les contraintes pratiques et matérielles associées.
-
-Un régime ne dicte pas une description unique : il trace l'espace des descriptions recevables au sein d'une pratique donnée.
-
-## 2. Ce qu'un régime n'est pas
-
-Pour maintenir la clarté de la méthode, un régime ne doit pas être confondu avec :
-
-- une entité ou un objet du monde ;
-- une classification naturelle des choses ;
-- une théorie scientifique ou globale particulière ;
-- un mécanisme explicatif ou causal.
-
-Il ne produit pas les phénomènes qu'il permet de formuler. Il définit simplement un espace de possibilités pour l'intelligibilité.
-
-## 3. Configuration, description et régime
-
-Protokin articule trois fonctions analytiques distinctes et interdépendantes qu'il importe de ne pas confondre :
-
-| Fonction | Rôle dans l'enquête | Page dédiée |
-|---|---|---|
-| **Configuration** | Ce qui est soumis à l'analyse (l'organisation relationnelle de départ) | Configurations descriptives |
-| **Description** | La manière déterminée de rendre une configuration intelligible | *Sections d'aval* |
-| **Régime** | Les conditions et règles sous lesquelles cette description s'élabore | *Présente page* |
-
-L'ordre de l'enquête suit cette trajectoire méthodologique :
-
-Configuration descriptive
-          ↓
-Régime de description
-          ↓
-Description produite
-
-Cette structure n'indique pas des niveaux de réalité, mais un cheminement d'analyse.
-
-## 4. Pluralité et autonomie des régimes
-
-Une seule et même configuration descriptive peut être examinée sous la lumière de plusieurs régimes différents.
-
-Par exemple, une institution peut faire l'objet de descriptions distinctes :
-
-- un régime juridique ;
-- un régime économique ;
-- un régime historique ;
-- un régime sociologique.
-
-Ces perspectives ne sont pas nécessairement des visions concurrentes qui chercheraient à s'exclure. Elles répondent à des questions hétérogènes et mobilisent des critères de validation qui leur sont propres.
-
-L'enquête protokinienne n'a pas pour but de hiérarchiser ces régimes, mais de reconstruire l'autonomie et les règles de chacun d'eux.
-
-## 5. Régime et conditions de cohérence
-
-Un régime fixe les limites à l'intérieur desquelles une description peut être corrigée, critiquée ou validée. Ces cadres de stabilisation permettent à une communauté de locuteurs d'assurer :
-
-- la transmission des descriptions ;
-- la comparaison des énoncés ;
-- la possibilité d'une révision ou d'une critique partagée.
-
-La validité d'une proposition n'existe pas dans le vide : elle s'évalue toujours relativement aux exigences de son régime de référence. L'étude fine des critères de validité et des basculements d'un cadre à un autre renvoie aux concepts développés plus loin.
-
-Voir :
-- Validité et correction
-
-## 6. Ancrage dans les pratiques collectives
-
-Un régime ne plane pas au-dessus du social comme un système purement abstrait. Il n'existe qu'à travers son incarnation dans des structures concrètes :
-
-- des communautés de locuteurs formées à ses règles ;
-- des formes d'inscription matérielles ou symboliques ;
-- des institutions qui en stabilisent les usages.
-
-Le régime porte ainsi une historicité intrinsèque, liée aux trajectoires de ces collectifs.
-
-Voir :
-- Locuteur normatif
-- Pratique collective
-
-## 7. Fonction méthodologique dans l'enquête
-
-Au cours de l'enquête, l'identification des régimes intervient immédiatement après le repérage de la configuration descriptive. L'analyse consiste à cartographier le terrain en posant quatre questions :
-
-1. Quels régimes distincts s'appliquent à cette configuration ?
-2. Quelles contraintes spécifiques organisent chacun de ces régimes ?
-3. Quelles formes d'inférences et de justifications rendent-ils acceptables ?
-4. Comment ces cadres cohabitent-ils ou s'articulent-ils ?
-
-Voir :
-- Audit Protokin
-- Cartographie des régimes descriptifs
-
-## 8. Garde-fous conceptuels
-
-Dans l'architecture générale, il est crucial de rappeler qu'aucun régime :
-
-- n'est universel ou absolu ;
-- ne peut revendiquer le statut d'ontologie ultime ;
-- n'épuise la totalité de ce qui peut être dit d'une configuration.
-
-Un régime demeure une condition de visibilité et d'intelligibilité, jamais une définition finale de l'être.
-
-## Principe final
-
-> **Un régime ne décrit pas le monde. Il organise les conditions sous lesquelles une configuration peut devenir descriptible.**
-
-Un régime de description n'est ni un objet à observer, ni l'énoncé d'une vérité définitive. Il est le cadre normatif et relationnel provisoirement stabilisé qui rend possible l'émergence, l'évaluation et la circulation de descriptions rigoureuses.
+# Les régimes descriptifs
+## Les cadres normatifs et pratiques de l’évaluation descriptive
+Dans l’architecture métathéorique de Protokin, une description ne se contente pas d'être formulée ou structurée par une configuration relationnelle : elle est immédiatement engagée dans des pratiques d'évaluation, de justification, de contestation et de validation. Le **régime descriptif** désigne ce cadre normatif stabilisé qui régit les conditions de recevabilité, la charge de la preuve, les responsabilités du locuteur et les critères de correction propres à un espace de pratiques collectives.
+Cette page établit la fonction du régime descriptif en tant que pivot normatif de l'architecture protokinienne, assurant le passage entre l'espace des possibles descriptifs et l'actualisation effective des assertions au sein d'un espace de raisons.
+## 1. Fonction conceptuelle et problème inaugural
+La question directrice de cette page est la suivante : *Selon quelles normes et par l'effet de quelles exigences pratiques une description cesse-t-elle d'être une simple proposition formelle pour devenir une assertion recevable, justifiable ou contestable au sein d'un collectif ?*
+Si l'on adopte une perspective inférentialiste et post-pragmatiste, affirmer qu'une description est « vraie » ou « correcte » ne renvoie pas à une adéquation mystérieuse avec un monde extérieur en soi, mais à sa conformité aux normes d'inférence et de justification qui caractérisent le jeu de langage ou la pratique dans laquelle elle est engagée. Un énoncé scientifique ne relève pas des mêmes critères de recevabilité qu'un jugement moral, une évaluation administrative ou une observation ordinaire.
+Le régime descriptif explicite ces différences normatives. Il évite à la fois le relativisme absolu (où toutes les descriptions se vaudraient) et le fondationalisme ontologique (qui prétendrait fonder les normes sur une structure absolue du réel), en ancrant la validité dans l'immanence des pratiques de justification collectives.
+## 2. Définition fonctionnelle
+Dans l'architecture de Protokin, on appelle **régime descriptif** :
+> Un ensemble structuré de normes, de critères de recevabilité, d'engagements inférentiels et de pratiques de justification qui détermine comment des descriptions peuvent être produites, évaluées, défendues ou révisées au sein d'une sphère d'activité collective.
+> 
+Cette définition implique des propriétés structurelles fondamentales :
+ * **La normativité immanente :** Chaque régime définit ce qui compte comme une bonne ou une mauvaise description à l'intérieur de son domaine, sans qu'il soit nécessaire d'invoquer un tribunal de la raison universelle extérieure.
+ * **L'assignation des engagements :** Énoncer une description dans un régime donné engage le locuteur à endosser des conséquences inférentielles et à assumer la charge de la justification si sa pertinence est contestée.
+ * **La pluralité irréductible :** Les régimes descriptifs coexistent au sein des sociétés humaines (scientifique, juridique, moral, médical, esthétique, ordinaire) sans qu'aucun d'eux ne puisse absorber ou réduire les autres à une seule formule générale.
+## 3. Distinction entre configuration descriptive et régime descriptif
+Il est impératif d'éviter la confusion entre l'armature relationnelle et le cadre normatif :
+ * La **configuration descriptive** fournit l'espace de dicibilité et le réseau des alternatives logiques (ce qui est possible d'affirmer et ce qui est exclu).
+ * Le **régime descriptif** introduit les normes d'évaluation, les critères de validation et les pratiques de justification qui décident si une assertion particulière est recevable ou rejetée.
+Tandis que la configuration trace la carte des possibles, le régime édicte les règles du jeu et les critères d'arbitrage qui s'appliquent aux parcours tracés sur cette carte.
+## 4. Éclairage par les fils rouges
+L'hétérogénéité et le fonctionnement des régimes descriptifs s'observent de manière exemplaire à travers nos cinq situations de référence :
+ * **Le fil rouge du vélo (« Le vélo est rouge. ») :** Relève d'un régime descriptif *ordinaire* ou perceptif, où les critères de recevabilité reposent sur des accords perceptifs immédiats, des conditions d'éclairage stables et des exigences de justification minimales, mobilisables par tout locuteur compétent.
+ * **Le fil rouge de la personne dangereuse (« Cette personne est dangereuse. ») :** Mobilise un régime de qualification *pratique, sécuritaire ou administratif*. Les critères de recevabilité ne se contentent pas d'une impression visuelle ; ils exigent des recoupements institutionnels, des historiques comportementaux consignés et engagent la responsabilité juridique ou collective du locuteur.
+ * **Le fil rouge de la personne mauvaise (« Cette personne est mauvaise. ») :** Déploie un régime *moral* (voire religieux ou politique). Ici, la justification ne relève pas de la mesure instrumentale ou du constat empirique neutre, mais de l'appel à des principes normatifs partagés, à des traditions d'évaluation ou à des grilles de lecture éthiques hautement controversées.
+ * **Le fil rouge de la forêt (le botaniste et le bûcheron) :** Met en scène la coexistence de régimes descriptifs distincts face au même milieu : le botaniste déploie un régime *scientifique et taxonomique* (soumis aux normes de la preuve empirique formalisée et de la révision par les pairs), tandis que le bûcheron active un régime *technique et productif* (soumis aux normes de l'efficacité, de la viabilité matérielle et du savoir-faire professionnel).
+ * **Le fil rouge des urgences (un patient arrive aux urgences) :** Illustre la co-présence et l'articulation complexe de multiples régimes au sein d'une même institution : l'urgentiste (régime physiopathologique d'urgence), le cardiologue (régime électro-analytique spécialisé), l'infirmière (régime de surveillance clinique continue) et l'administrateur (régime gestionnaire et logistique). Chacun évalue la situation selon ses normes propres, tout en coordonnant leurs assertions pour éviter la contradiction fatale.
+## 5. Articulation dans l'architecture fonctionnelle
+Dans l'architecture de Protokin, le régime descriptif couronne la trajectoire menant de l'environnement matériel aux normes discursives :
+C'est au niveau du régime descriptif que se déploient les pratiques de contestation, d'audit, de révision et de transformation qui font l'objet des analyses avancées de Protokin.
+## 6. Limites et tensions des régimes descriptifs
+L'analyse des régimes descriptifs met en lumière des limites structurelles inévitables :
+ * **Les zones de silence :** Tout régime descriptif, en stabilisant ses critères de recevabilité et ses axes de pertinence, produit nécessairement des angles morts ou des zones d'invisibilité pour ce qui ne rentre pas dans ses catégories.
+ * **Les conflits de régimes :** Lorsque deux régimes concurrents (par exemple, le régime juridique et le régime psychiatrique face à un accusé) qualifient la même situation, des tensions surgissent, révélant l'incommensurabilité partielle de leurs critères de justification respectifs.
+## 7. Synthèse et clôture fonctionnelle
+Le régime descriptif établit que toute description s'inscrit dans un cadre normatif immanent qui fixe les conditions de sa validité, de sa justification et de sa recevabilité collective. Il rejette toute réduction intellectualiste ou objectiviste en montrant que la correction d'une description se mesure à l'aune des pratiques argumentatives et institutionnelles qui la soutiennent.
+Ce que cette page a établi permet désormais d'examiner comment ces régimes entrent en tension, se comparent ou se transforment à travers l'analyse des **transformations descriptives**, des **zones de silence** et des **audits Protokin**.
