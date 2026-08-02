@@ -277,6 +277,21 @@ Protokin analyse les conditions descriptives et non les objets directement.
 
 ---
 
+# Principe de progressivité pédagogique
+
+Chaque page doit pouvoir être comprise indépendamment.
+
+Cependant, une lecture continue doit permettre au lecteur de reconstruire progressivement l'ensemble de l'architecture.
+
+Ainsi :
+
+- chaque page est autonome ;
+- aucune page n'est indépendante.
+
+Chaque nouvelle page suppose les précédentes sans les répéter.
+
+---
+
 # Les exemples
 
 Les exemples ont une fonction exclusivement pédagogique.
