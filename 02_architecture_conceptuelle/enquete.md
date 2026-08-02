@@ -107,5 +107,3 @@ Ce que cette page a établi — la fonction de l'enquête comme processus de rec
 *   Transitions descriptives
 
 ---
-
-🧩 **Souhaitez-vous que nous rédigions à présent la page consacrée à « l'injustice épistémique » afin d'expliciter comment Protokin diagnostique et régule les asymétries de pouvoir et les exclusions de locuteurs au sein des communautés de justification ?**
