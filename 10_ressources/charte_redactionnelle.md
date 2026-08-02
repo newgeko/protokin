@@ -176,6 +176,24 @@ Chaque développement enrichit la compréhension du concept sans répétition.
 
 ---
 
+# Principe d'économie conceptuelle
+
+Introduire un nouveau concept uniquement lorsqu'il est indispensable.
+
+Avant de créer une nouvelle notion, vérifier qu'elle ne peut pas être comprise comme :
+
+- une propriété ;
+- une dimension ;
+- une fonction ;
+- une articulation ;
+- une conséquence
+
+d'un concept déjà établi.
+
+L'architecture doit rester aussi simple que possible tout en conservant toute sa puissance descriptive.
+
+---
+
 # Style rédactionnel
 
 Le style doit être :
