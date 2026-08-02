@@ -253,6 +253,16 @@ Les variations stylistiques ne doivent jamais introduire de nouveaux concepts im
 
 ---
 
+# Principe de cohérence terminologique
+
+Lorsque plusieurs formulations sont possibles, toujours privilégier la terminologie déjà employée dans la documentation.
+
+Éviter les synonymes lorsqu'ils risquent de laisser croire à l'existence de concepts distincts.
+
+La stabilité lexicale participe directement à la stabilité conceptuelle.
+
+---
+
 # Niveau d'abstraction
 
 Chaque page demeure au niveau d'abstraction correspondant à son objet.
