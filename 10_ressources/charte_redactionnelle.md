@@ -141,6 +141,20 @@ Le lecteur doit avoir le sentiment que le concept se construit progressivement, 
 
 ---
 
+# Principe de clôture fonctionnelle
+
+Une page ne se termine jamais par une simple conclusion.
+
+Sa dernière partie doit permettre au lecteur de comprendre :
+
+- ce qui est désormais établi ;
+- quelles questions restent ouvertes ;
+- quelles pages poursuivent naturellement l'analyse.
+
+La fin d'une page prépare ainsi le mouvement vers la suivante.
+
+---
+
 # Principe de densité conceptuelle
 
 Chaque paragraphe doit faire progresser l'établissement du concept.
