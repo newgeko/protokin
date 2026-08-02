@@ -69,6 +69,24 @@ Chaque page demeure responsable de son propre domaine.
 
 ---
 
+# Principe de non-répétition
+
+Chaque concept possède une page de référence.
+
+Une fois qu'un concept est établi dans sa page propre, les autres pages ne doivent plus le redéfinir intégralement.
+
+Elles doivent :
+
+- rappeler uniquement les éléments nécessaires à leur démonstration ;
+- s'appuyer sur les définitions déjà établies ;
+- privilégier les articulations fonctionnelles plutôt que les répétitions.
+
+L'objectif est que chaque concept possède un lieu principal d'élaboration dans la documentation.
+
+La documentation progresse par enrichissement et non par redondance.
+
+---
+
 # Organisation des pages
 
 La structure d'une page doit toujours être adaptée au concept étudié.
