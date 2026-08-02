@@ -1,335 +1,49 @@
 # Le locuteur
-
-## Position épistémique, engagement descriptif et participation à un espace de raisons
-
-> **Dans Protokin, le locuteur désigne une position épistémique à partir de laquelle une description peut être assertée, justifiée, contestée et évaluée dans un espace de raisons.**
->
-> Le locuteur n'est pas l'origine des descriptions.
->
-> Il constitue une position normative rendue possible par des pratiques collectives au sein desquelles certaines descriptions deviennent recevables.
-
----
-
-# Introduction
-
-Dans de nombreuses traditions philosophiques, linguistiques ou cognitives, le locuteur est souvent considéré comme le point de départ de l'analyse.
-
-Il est alors conçu comme :
-
-- un sujet parlant ;
-- une conscience exprimant des pensées ;
-- un individu utilisant un langage ;
-- un agent produisant des représentations.
-
-Dans cette perspective, la description apparaît comme l'expression d'un contenu déjà présent chez un sujet.
-
-Protokin adopte une orientation différente.
-
-L'analyse ne commence pas par un sujet déjà constitué.
-
-Elle commence par les pratiques dans lesquelles certaines descriptions deviennent possibles, intelligibles et évaluables.
-
-La question n'est donc pas :
-
-> Qui produit la description ?
-
-mais :
-
-> **Sous quelles conditions une position devient-elle capable d'engager une description dans un espace de raisons ?**
-
-Le locuteur n'est pas une origine première.
-
-Il est une position émergente au sein de pratiques descriptives collectives.
-
----
-
-# 1. Fonction générale du concept
-
-La fonction du concept de locuteur est d'identifier la position à partir de laquelle une description peut être engagée dans une pratique normative.
-
-Le locuteur désigne une capacité à :
-
-- produire des assertions ;
-- assumer des engagements descriptifs ;
-- participer à des pratiques de justification ;
-- répondre à des contestations ;
-- occuper une position identifiable dans un espace de raisons.
-
-Le concept ne cherche pas à expliquer :
-
-- la formation biologique des organismes ;
-- la constitution historique des communautés ;
-- les mécanismes de stabilisation des régimes descriptifs.
-
-Ces questions sont traitées ailleurs dans l'architecture.
-
-Voir :
-
-- [Communauté de locuteurs](communaute_locuteurs.md)
-- [Engagements descriptifs](engagements.md)
-- [Stabilisation et effet cliquet](stabilisation.md)
-
----
-
-# 2. Le déplacement protokinien
-
-## Du sujet parlant à la position épistémique
-
-Une approche classique peut être schématisée ainsi :
-
-Sujet
-↓
-Pensée
-↓
-Langage
-↓
-Description
-
-Protokin inverse cette perspective.
-
-L'analyse commence par les pratiques descriptives.
-
-Le mouvement devient :
-
-Pratiques descriptives
-↓
-Espace de raisons
-↓
-Position épistémique
-↓
-Locuteur
-↓
-Assertion
-
-Le locuteur n'est donc pas une entité extérieure à la pratique.
-
-Il est une position rendue possible par cette pratique.
-
----
-
-# 3. Définition du locuteur
-
-Dans Protokin :
-
-> **Un locuteur est une position épistémique reconnue comme capable d'engager, de justifier et de défendre des descriptions dans un espace de raisons.**
-
-Cette définition implique plusieurs dimensions :
-
-- une capacité d'assertion ;
-- une possibilité d'engagement normatif ;
-- une aptitude à participer à des pratiques de justification ;
-- une reconnaissance au sein d'une communauté descriptive.
-
-Le locuteur n'est donc pas défini par la simple production de signes.
-
-Il est défini par sa participation à des pratiques où des descriptions peuvent être évaluées.
-
----
-
-# 4. Le locuteur comme position et non comme substance
-
-Le locuteur n'est pas une substance possédant naturellement une capacité descriptive.
-
-Il ne constitue pas :
-
-- une conscience fondatrice ;
-- un sujet transcendantal ;
-- une origine absolue du sens ;
-- un centre autonome de représentation.
-
-Il désigne une position fonctionnelle dans un espace normatif.
-
-Cette position dépend :
-
-- des pratiques auxquelles elle participe ;
-- des régimes descriptifs mobilisés ;
-- des engagements qu'elle peut assumer ;
-- des justifications qu'elle peut produire ;
-- de la reconnaissance dont elle bénéficie.
-
-Une même personne peut ainsi occuper plusieurs positions de locuteur selon les contextes.
-
----
-
-# 5. Le locuteur comme position épistémique
-
-La notion de position épistémique est centrale.
-
-Le locuteur n'est pas seulement celui qui parle.
-
-Il est celui qui peut être tenu pour responsable d'une description.
-
-Lorsqu'une description est assertée :
-
-> « Cette personne est dangereuse »
-
-l'analyse protokinienne ne porte pas d'abord sur l'identité psychologique de celui qui parle.
-
-Elle porte sur :
-
-- la position depuis laquelle l'assertion est formulée ;
-- les engagements qu'elle implique ;
-- les justifications attendues ;
-- les conséquences inférentielles qu'elle autorise.
-
-Le locuteur désigne donc la position à partir de laquelle une description devient publiquement engageante.
-
----
-
-# 6. Locuteur et espace des raisons
-
-Le concept de locuteur appartient principalement à la dimension KIN de l'architecture.
-
-Le locuteur apparaît lorsqu'une position devient capable de participer à un espace de raisons.
-
-Cet espace comprend notamment :
-
-- des engagements ;
-- des justifications ;
-- des contestations ;
-- des évaluations ;
-- des inférences.
-
-Le locuteur est donc inséparable des pratiques normatives dans lesquelles il intervient.
-
-Une position qui ne peut ni justifier, ni être contestée, ni répondre à des demandes de raisons n'occupe pas pleinement une position de locuteur au sens protokinien.
-
----
-
-# 7. Distinctions fondamentales
-
-## 7.1 Locuteur et individu
-
-Le locuteur ne se confond pas avec l'individu.
-
-Un individu biologique peut exister sans participer à une pratique descriptive donnée.
-
-Le locuteur désigne une position normative, non une identité personnelle.
-
----
-
-## 7.2 Locuteur et organisme
-
-L'organisme appartient à l'espace des causes.
-
-Le locuteur appartient à l'espace des raisons.
-
-L'organisme constitue une condition permettant certaines capacités.
-
-Le locuteur désigne une position normative rendue possible par ces capacités.
-
-Voir :
-
-- [Causes et raisons](causes_raisons.md)
-
----
-
-## 7.3 Locuteur et participant
-
-Le participant désigne une implication dans une pratique.
-
-Le locuteur désigne une position capable d'y engager des descriptions.
-
-Toute participation ne constitue donc pas nécessairement une position de locuteur.
-
----
-
-## 7.4 Locuteur et langage
-
-Le locuteur ne se réduit pas à l'utilisation d'un langage.
-
-Produire des signes ne suffit pas.
-
-Le locuteur implique la capacité d'assumer des engagements descriptifs dans une pratique de justification.
-
----
-
-# 8. Place dans l'architecture Protokin
-
-Le locuteur occupe une position charnière entre les fonctions descriptives et les engagements normatifs.
-
-Son rôle peut être représenté ainsi :
-
-Fonctions descriptives
-↓
-Assertion
-↓
-Position de locuteur
-↓
-Engagements
-↓
-Justifications
-↓
-Recevabilité
-
-Cette représentation ne décrit pas une succession temporelle.
-
-Elle indique une articulation fonctionnelle.
-
----
-
-# 9. Relations avec les autres concepts
-
-## Avec les fonctions descriptives
-
-Le locuteur intervient principalement au niveau de l'assertion.
-
-Il constitue la position depuis laquelle une description est engagée.
-
-Voir :
-
-- [Fonctions descriptives](fonctions_descriptives.md)
-
----
-
-## Avec les engagements
-
-Toute position de locuteur ouvre la possibilité d'engagements descriptifs.
-
-Voir :
-
-- [Engagements descriptifs](engagements.md)
-
----
-
-## Avec les communautés
-
-Une position de locuteur n'existe pas indépendamment des pratiques collectives dans lesquelles elle est reconnue.
-
-Voir :
-
-- [Communauté de locuteurs](communaute_locuteurs.md)
-
----
-
-## Avec causes et raisons
-
-Le locuteur constitue l'un des points où l'analyse passe des conditions causales aux pratiques normatives.
-
-Voir :
-
-- [Causes et raisons](causes_raisons.md)
-
----
-
-# Conclusion
-
-Dans Protokin, le locuteur n'est ni un sujet fondateur, ni une conscience première, ni une simple source de langage.
-
-Il désigne une position épistémique située dans un espace de raisons.
-
-Cette position permet à une description d'être assertée, justifiée, contestée et évaluée dans une pratique collective.
-
-L'analyse ne demande donc pas :
-
-> « Qui parle ? »
-
-mais :
-
-> **« Quelle position épistémique permet à cette description d'être engagée et évaluée ? »**
-
----
-
-# Formule synthétique
-
-> **Un locuteur est une position épistémique capable d'engager des descriptions dans un espace de raisons et de participer aux pratiques de justification qui en organisent la recevabilité.**
+## La position subjective et l'agentivité discursive dans l'espace des raisons
+## Introduction
+Dans l’architecture métathéorique de **Protokin**, le locuteur ne saurait être appréhendé comme une conscience souveraine, une substance psychologique close sur elle-même ou un « je » cartésien fondateur qui précéderait ses propres énonciations. La philosophie de la connaissance achoppe fréquemment lorsqu’elle réduit le sujet parlant soit à un simple réceptacle de causes neurobiologiques (dans l'espace de la *Physis*), soit à une entité purement formelle et déshumanisée. Le problème auquel répond cette page est celui de l’émergence et du statut de l'agent discursif : comment un corps vivant, pris dans des contraintes matérielles, devient-il capable de s'engager, de répondre de ses actes et de manier des normes au sein de l'espace des raisons ?
+Ce qui est établi ici, c'est que **le locuteur** n'est pas un donné anthropologique originel, mais une **position fonctionnelle et normative** conquise à l'intersection des supports incorporés, des régimes de description et de la pragmatique du *scorekeeping* déontologique.
+## 1. Fonctionnalité et problème inaugural
+La question directrice de cette page est la suivante : *À quelles conditions structurelles un agent incarné peut-il endosser la responsabilité d'une description et occuper une place active dans le jeu de donner et de demander des raisons ?*
+Si l'on adopte la perspective pragmatiste et inférentialiste de Protokin, le locuteur se définit par sa position topologique dans l'espace déontique. Il est celui qui maintient en tension la polarité entre l'espace des causes (PROTO) et l'espace des raisons (KIN). Loin d'être une simple source d'émissions sonores, le locuteur est un nœud d'imputabilité : un centre d'attribution d'engagements (*commitments*) et d'habilitations (*entitlements*).
+## 2. Définition fonctionnelle
+Dans l’architecture de Protokin, on appelle **locuteur** :
+Une position fonctionnelle et normative au sein d’une pratique discursive, caractérisée par la capacité d’endosser des engagements descriptifs, d’assumer la redevabilité de ses énonciations et de participer activement à la comptabilité déontique (*scorekeeping*) de la communauté.
+Cette définition implique plusieurs propriétés structurelles fondamentales :
+ * **L’incarnation pratique :** Le locuteur s'appuie toujours sur des supports incorporés (dispositions corporelles, larynx, posture orthostatique) sans lesquels aucune phonation ni inscription ne saurait advenir.
+ * **La double asymétrie intersubjective :** Il occupe une position pivot dans la relation « Je-Tu » (*I-Thou*), où ses auto-attributions d'engagements diffèrent structurellement des attributions qui lui sont conférées par les tiers.
+ * **La redevabilité publique :** Il est comptable de la cohérence de ses inférences et de la recevabilité de ses justifications face aux objections de ses pairs.
+## 3. Distinctions conceptuelles
+Pour cerner rigoureusement ce concept et éviter les confusions psychologisantes ou substantialistes, il convient de distinguer :
+ * **Le locuteur et l'individu psychologique :** Le locuteur ne désigne pas l'ensemble des vécus intimes, des états mentaux ou de la conscience privée d'un sujet. Il s'agit d'une fonction strictement normative et publique, déployée dans l'espace des raisons.
+ * **Le locuteur et la simple source causale :** Un organisme vivant peut émettre des sons ou réagir à des stimuli par de simples réflexes (espace des causes) sans pour autant occuper la position de locuteur, laquelle requiert l'entrée dans le jeu normatif de la justification.
+ * **Le locuteur et l'auteur souverain :** Le locuteur ne crée pas ex nihilo les règles de son discours ; il hérite de régimes descriptifs et de grilles normatives stabilisées par la communauté de pratique, qu'il réactive, infléchit ou subit.
+## 4. Développement progressif
+### A. L'ancrage somatique et la libération de la voix
+Dans l'ontologie de Protokin, l'émergence du locuteur est indissociable de la dynamique corporelle. Par le redressement postural (l'orthostatisme), le vivant libère ses membres et sa face, autorisant la descente du larynx et la constitution d'une chambre de résonance. Le corps ne subit plus seulement la nécessité matérielle : il devient le support incorporé de la parole. Le geste moteur se prolonge et se métamorphose en geste discursif.
+### B. Le locuteur comme comptable déontique (*Scorekeeper*)
+S'inscrivant dans la filiation de Robert Brandom, Protokin analyse le locuteur à travers sa participation au jeu de donner et de demander des raisons. En formulant une description, le locuteur modifie instantanément le paysage normatif : il prend des engagements, s'interdit certaines incompatibilités et doit être capable d'exhiber des habilitations en cas de contestation. Le locuteur est donc inséparable de sa redevabilité (*accountability*).
+### C. L'objectivité par le frottement intersubjectif
+L'identité du locuteur se forge dans l'altérité. C'est par la friction permanente entre la perspective de la première personne (ce que je m'engage à reconnaître) et celle de la troisième personne (ce que les autres m'imputent ou m'attribuent) que s'instaure la consistance objective du discours. Le locuteur se découvre lui-même à travers la cartographie des scores déontiques que la communauté tient à son égard.
+## 5. Éclairage par les fils rouges
+L'actualisation de la fonction de locuteur s'observe concrètement à travers nos situations de référence :
+ * **Le fil rouge de l'énoncé ordinaire (« *Le vélo est rouge.* ») :** Le locuteur qui énonce cette proposition engage sa crédibilité perceptive et s'expose à un contrôle immédiat de ses partenaires en cas de contradiction visuelle manifeste dans le même espace partagé.
+ * **Le fil rouge de la qualification institutionnelle (« *Cette personne est dangereuse.* ») :** Lorsqu'un agent énonce cette description dans un cadre professionnel ou juridique, il n'exprime pas une simple opinion subjective : il active une position de locuteur fortement institutionnalisée, endossant la responsabilité de lourdes conséquences procédurales, de mesures de précaution et d'une stricte redevabilité probatoire.
+## 6. Articulation dans l'architecture fonctionnelle
+Dans l'architecture de Protokin, le locuteur se situe au point de convergence entre les supports incorporés et la normativité des régimes :
+Le locuteur garantit la prise en charge vivante des normes, évitant que les régimes descriptifs ne demeurent des structures abstraites et inopérantes.
+## 7. Limites
+La présente page ne traite pas :
+ * de la genèse psychologique intime ou de la psychanalyse du sujet conscient ;
+ * des mécanismes neurobiologiques précis de la production de la parole au plan de l'anatomie cérébrale ;
+ * de la souveraineté ontologique d'un « moi » transcendantal.
+L'investigation se limite strictement au statut fonctionnel, pragmatique et normatif du locuteur en tant qu'agent de l'espace des raisons.
+## Synthèse et clôture fonctionnelle
+Le concept de **locuteur** établit que l'agent discursif n'est ni une donnée brute de la nature ni une fiction métaphysique, mais une position normative et incarnée au sein de l'espace des raisons. En articulant l'épaisseur somatique des supports incorporés et la rigueur de la comptabilité déontique, le locuteur assume la responsabilité des descriptions qu'il met en circulation.
+Ce que cette page a établi permet désormais d'examiner comment ces agents déploient leurs responsabilités à travers les **engagements descriptifs**, ou comment leurs interactions s'organisent au sein de la **communauté de locuteurs**.
+## Renvois complémentaires
+ * *Supports incorporés et dispositions corporelles*
+ * *Engagements descriptifs*
+ * *Inférences et justifications*
+ * *Communauté de locuteurs*
+ * *Audit des régimes de description*
