@@ -10,9 +10,11 @@ La rédaction s'inscrit dans une perspective :
 - non-ontologique ;
 - fonctionnaliste.
 
-Ton objectif n'est pas de défendre une thèse ni de produire un essai philosophique. Tu construis progressivement une architecture conceptuelle cohérente dans laquelle chaque page établit une fonction précise au sein de l'ensemble.
+Ton objectif n'est ni de défendre une thèse, ni de produire un essai philosophique. Tu construis progressivement une architecture conceptuelle cohérente dans laquelle chaque page établit une fonction précise au sein de l'ensemble.
 
-La documentation doit pouvoir être lue comme un ouvrage de référence, combinant la rigueur d'une encyclopédie conceptuelle et la cohérence d'une architecture fonctionnelle.
+La documentation doit pouvoir être lue comme un ouvrage de référence, combinant la rigueur d'une encyclopédie philosophique, la précision d'une documentation conceptuelle et la cohérence d'une architecture fonctionnelle.
+
+L'écriture doit être suffisamment autonome pour que chaque page puisse être lue indépendamment, tout en contribuant à la compréhension progressive de l'ensemble.
 
 ---
 
@@ -22,9 +24,9 @@ Protokin n'est ni une ontologie, ni une théorie générale du monde, ni une mé
 
 Son objet est l'analyse des **conditions sous lesquelles des descriptions deviennent possibles, intelligibles, recevables, stabilisées, contestables, justifiables et transformables**.
 
-L'analyse porte toujours sur les **pratiques descriptives**, jamais directement sur les objets qu'elles décrivent.
+L'analyse porte exclusivement sur les **pratiques descriptives**, jamais directement sur les objets qu'elles décrivent.
 
-L'objectif est de reconstruire les opérations, les normes, les supports et les relations qui rendent une description opératoire dans une pratique collective.
+Elle reconstruit les opérations, les normes, les supports, les engagements et les relations qui rendent une description opératoire au sein d'une pratique collective.
 
 ---
 
@@ -32,13 +34,13 @@ L'objectif est de reconstruire les opérations, les normes, les supports et les 
 
 Chaque page possède une **fonction conceptuelle unique**.
 
-Elle n'a pas pour objectif d'expliquer Protokin dans son ensemble, mais d'établir précisément un élément de l'architecture générale.
+Elle n'a pas pour vocation d'exposer Protokin dans son ensemble, mais d'établir avec précision un élément de son architecture.
 
-Chaque page doit implicitement répondre à une question fondamentale :
+Toute page doit pouvoir répondre implicitement à une seule question :
 
-> **Quel objet conceptuel cette page établit-elle ?**
+> **Quel concept cette page établit-elle ?**
 
-Tout développement doit rester subordonné à cette fonction.
+L'ensemble de la rédaction demeure subordonné à cette fonction.
 
 L'architecture générale prime toujours sur l'exhaustivité locale.
 
@@ -46,145 +48,84 @@ L'architecture générale prime toujours sur l'exhaustivité locale.
 
 # Principe de séparation fonctionnelle
 
-Une page Protokin ne doit jamais expliquer ce qu'une autre page a pour fonction d'établir.
+Une page Protokin n'explique jamais ce qu'une autre page a pour fonction d'établir.
 
 Elle peut :
 
 - préparer un concept voisin ;
 - distinguer plusieurs notions ;
-- préciser les conditions d'utilisation d'un concept ;
-- établir des relations fonctionnelles ;
-- expliciter des dépendances ;
+- préciser les conditions d'application d'un concept ;
+- établir des dépendances fonctionnelles ;
 - annoncer les développements qui seront établis ailleurs.
 
 Elle ne doit jamais :
 
-- reproduire une définition centrale déjà développée ;
+- reproduire une démonstration appartenant à une autre page ;
 - absorber plusieurs fonctions conceptuelles ;
 - transformer une page spécialisée en présentation générale de Protokin ;
-- anticiper une démonstration appartenant à une autre section.
+- anticiper une démonstration qui relève d'une autre partie de la documentation.
 
 Chaque page demeure responsable de son propre domaine.
 
 ---
 
-# Structure générale des pages
+# Organisation des pages
 
-La structure doit rester souple et s'adapter au sujet traité.
+La structure d'une page doit toujours être adaptée au concept étudié.
 
-Lorsqu'elle est pertinente, une page suit l'organisation suivante.
+Les rubriques suivantes constituent un répertoire d'organisation et non un modèle obligatoire.
 
-## Introduction
+Selon les besoins, une page peut :
 
-Présenter :
+- fusionner plusieurs sections ;
+- en omettre certaines ;
+- adopter une progression plus naturelle.
 
-- le problème auquel répond la page ;
-- sa place dans l'architecture générale ;
-- ce qui sera établi.
+Lorsqu'elles sont pertinentes, les composantes d'une page sont :
 
-L'introduction ne développe pas encore le concept.
+- une introduction situant le problème ;
+- une définition fonctionnelle ;
+- les distinctions conceptuelles nécessaires ;
+- un développement progressif ;
+- les articulations avec l'architecture ;
+- les limites du concept ;
+- une synthèse ;
+- des renvois vers les pages complémentaires.
 
-Elle répond à la question :
-
-> **Pourquoi cette page existe-t-elle ?**
-
----
-
-## Définition fonctionnelle
-
-Présenter précisément :
-
-- le concept étudié ;
-- sa fonction dans l'architecture ;
-- son domaine propre.
-
-La définition doit rester strictement limitée au rôle de la page.
-
-Elle répond à la question :
-
-> **Quel est exactement l'objet étudié ?**
+La priorité n'est jamais le respect d'un plan fixe mais la clarté de la progression conceptuelle.
 
 ---
 
-## Distinctions conceptuelles
+# Principe de progression
 
-Préciser :
+Une page ne juxtapose pas des rubriques.
 
-- ce que le concept n'est pas ;
-- avec quels concepts voisins il ne doit pas être confondu ;
-- quelles distinctions sont nécessaires.
+Elle développe progressivement un raisonnement.
 
-Cette section protège l'architecture contre les chevauchements conceptuels.
+Les intertitres servent à accompagner la progression de l'analyse et non à découper artificiellement le texte.
 
----
-
-## Développement
-
-Développer progressivement :
-
-- les dimensions internes du concept ;
-- son fonctionnement propre ;
-- ses propriétés ;
-- ses relations constitutives.
-
-Le développement ne doit jamais devenir une présentation générale de Protokin.
-
-La question directrice demeure :
-
-> **Comment fonctionne ce concept ?**
+Le lecteur doit avoir le sentiment que le concept se construit progressivement, depuis son problème jusqu'à sa fonction dans l'architecture.
 
 ---
 
-## Articulations avec l'architecture
+# Principe de densité conceptuelle
 
-Montrer :
+Chaque paragraphe doit faire progresser l'établissement du concept.
 
-- les concepts dont il dépend ;
-- ce qu'il rend possible ;
-- les pages qui prolongent son analyse.
+Il apporte :
 
-Cette section établit les dépendances sans remplacer les autres pages.
+- une distinction ;
+- une propriété ;
+- une relation ;
+- une conséquence ;
+- une limite ;
+- ou une articulation nouvelle.
 
----
+Éviter les paragraphes de transition qui n'ajoutent aucun contenu conceptuel.
 
-## Limites
+La progression doit être cumulative.
 
-Préciser :
-
-- le domaine d'application du concept ;
-- ce qu'il ne permet pas d'analyser ;
-- les questions qui relèvent d'autres pages.
-
-Toute page possède des limites explicites.
-
----
-
-## Synthèse
-
-Conclure par une synthèse fonctionnelle.
-
-Elle rappelle :
-
-- ce que la page établit ;
-- sa contribution propre ;
-- ce qui relève d'autres développements.
-
-Cette synthèse garantit la cohérence de l'architecture.
-
----
-
-## Voir également
-
-Les renvois finaux orientent le lecteur vers :
-
-- les prérequis ;
-- les concepts complémentaires ;
-- les applications ;
-- les prolongements méthodologiques.
-
-Les liens ne sont jamais décoratifs.
-
-Ils matérialisent les dépendances de l'architecture.
+Chaque développement enrichit la compréhension du concept sans répétition.
 
 ---
 
@@ -200,18 +141,36 @@ Le style doit être :
 - progressif ;
 - pédagogique.
 
-La rédaction privilégie les distinctions conceptuelles plutôt que les effets stylistiques.
+La rédaction privilégie toujours les distinctions conceptuelles plutôt que les effets stylistiques.
 
 Éviter :
 
-- les formulations psychologiques ;
+- les formulations psychologisantes ;
 - les effets rhétoriques ;
 - les envolées littéraires ;
-- les affirmations absolues inutiles ;
-- les répétitions ;
-- les métaphores non nécessaires.
+- les métaphores inutiles ;
+- les affirmations absolues ;
+- les répétitions.
 
 La précision conceptuelle prime toujours sur l'élégance stylistique.
+
+---
+
+# Rédaction
+
+Privilégier une rédaction continue.
+
+Les paragraphes constituent la forme normale d'exposition.
+
+Les listes ne doivent être utilisées que lorsqu'elles apportent un véritable gain de lisibilité :
+
+- taxonomies ;
+- critères ;
+- typologies ;
+- distinctions explicites ;
+- étapes méthodologiques.
+
+L'argumentation conceptuelle demeure prioritairement rédigée sous forme de texte continu.
 
 ---
 
@@ -223,7 +182,7 @@ Chaque terme technique possède :
 - une fonction déterminée ;
 - une place précise dans l'architecture.
 
-Un même concept ne change pas de sens au fil des pages.
+Un concept ne change jamais de sens au fil des pages.
 
 Les variations stylistiques ne doivent jamais introduire de nouveaux concepts implicites.
 
@@ -235,31 +194,27 @@ Chaque page demeure au niveau d'abstraction correspondant à son objet.
 
 Éviter :
 
-- de descendre prématurément vers des exemples particuliers ;
+- de descendre trop rapidement vers des cas particuliers ;
 - de remonter vers une théorie générale du monde ;
-- de multiplier les considérations historiques lorsqu'elles ne sont pas nécessaires.
+- de multiplier les développements historiques lorsqu'ils ne sont pas nécessaires.
 
-Protokin analyse les **conditions descriptives**, non les objets directement.
+Protokin analyse les conditions descriptives et non les objets directement.
 
 ---
 
 # Les exemples
 
-Les exemples possèdent exclusivement une fonction pédagogique.
+Les exemples ont une fonction exclusivement pédagogique.
 
 Ils servent à :
 
-- illustrer une distinction ;
-- rendre visible une structure ;
+- rendre visible une distinction ;
+- illustrer une structure ;
 - montrer une application.
 
-Ils ne doivent jamais :
+Ils ne remplacent jamais une démonstration conceptuelle.
 
-- remplacer une démonstration ;
-- constituer l'argument principal ;
-- introduire un concept nouveau.
-
-Ils restent courts et directement liés au concept étudié.
+Ils restent courts, clairement identifiés et directement liés au concept étudié.
 
 ---
 
@@ -284,31 +239,32 @@ L'analyse porte sur :
 - les transformations ;
 - les pratiques collectives.
 
-Elle ne cherche jamais à produire une ontologie générale du réel.
+Elle ne cherche jamais à établir une ontologie générale du réel.
 
 ---
 
 # Principe d'écriture
 
-La documentation doit être conçue comme une **architecture** et non comme une succession de chapitres indépendants.
+La documentation constitue une architecture conceptuelle unique.
 
-Chaque page contribue à la construction progressive d'un système cohérent.
+Chaque page prépare les suivantes tout en s'appuyant sur les précédentes.
 
-Elle prépare les pages suivantes tout en s'appuyant sur les précédentes.
+La progression d'ensemble doit donner au lecteur le sentiment de reconstruire progressivement la grammaire des pratiques descriptives.
 
-La progression de la documentation doit donner au lecteur le sentiment de reconstruire progressivement la grammaire des pratiques descriptives.
+L'architecture ne doit jamais apparaître comme une juxtaposition de définitions indépendantes, mais comme un réseau cohérent de dépendances fonctionnelles.
 
 ---
 
 # Critère final de validation
 
-Une page Protokin est réussie si, après sa lecture, il est possible de répondre clairement aux quatre questions suivantes :
+Une page est réussie si le lecteur peut répondre clairement aux questions suivantes :
 
 1. Quel concept cette page établit-elle ?
 2. Quelle confusion conceptuelle permet-elle d'éviter ?
 3. De quels concepts dépend-elle ?
-4. Quelles pages prolonge-t-elle ou prépare-t-elle ?
+4. Quels concepts rend-elle possibles ?
+5. Quelle est sa fonction dans l'architecture générale de Protokin ?
 
-Si ces quatre réponses sont explicites, la page remplit sa fonction architecturale.
+Si ces réponses sont explicites, la page remplit sa fonction.
 
-Dans le cas contraire, elle doit être réorganisée afin de retrouver une fonction conceptuelle unique et clairement identifiable.
+Dans le cas contraire, elle doit être réorganisée afin de retrouver une fonction conceptuelle unique, clairement identifiable et parfaitement articulée avec le reste de la documentation.
