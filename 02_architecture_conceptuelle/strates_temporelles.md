@@ -1,181 +1,52 @@
 # Strates temporelles et irréversibilités
-
 ## Introduction
-
-Les descriptions ne se déploient jamais dans un temps homogène.
-
-Certaines émergent rapidement et demeurent faiblement stabilisées. D'autres s'inscrivent dans des trajectoires longues, accumulent des transformations successives et deviennent liées à des héritages multiples.
-
-Cette dimension temporelle implique que les configurations descriptives peuvent être composées de plusieurs strates correspondant à différentes périodes de formation, de transmission et de stabilisation.
-
-Cette page examine la manière dont les descriptions peuvent conserver des traces de leurs trajectoires temporelles.
-
-> Elle ne constitue pas une théorie générale du changement.
->
-> Elle précise uniquement comment des dimensions temporelles différentes peuvent coexister au sein d'une même configuration descriptive.
-
----
-
+Les descriptions ne se déploient jamais dans un temps homogène ou linéaire. Certaines émergent rapidement en réponse à une situation critique immédiate et demeurent faiblement stabilisées, tandis que d'autres s'inscrivent dans des trajectoires longues, accumulent des transformations successives et contractent des héritages multiples.
+Cette dimension temporelle implique que les configurations descriptives ne se réduisent pas à un instant présent : elles sont composées de plusieurs strates correspondant à différentes périodes de formation, de transmission et de stabilisation. Cette page examine la manière dont les pratiques descriptives conservent, articulent et mobilisent des traces issues de leurs trajectoires temporelles.
+> Cette analyse ne constitue pas une théorie générale du changement historique ou ontologique.
+> Elle précise uniquement comment des temporalités hétérogènes coexistent et s'articulent au sein d'une même configuration descriptive.
+> 
 ## La pluralité des temporalités descriptives
-
-Une description ne possède pas nécessairement une seule origine temporelle identifiable.
-
-Elle peut résulter de l'articulation de plusieurs moments :
-
-- une émergence initiale ;
-- des transformations successives ;
-- des adaptations intermédiaires ;
-- des transmissions entre générations ;
-- des stabilisations ultérieures.
-
-L'analyse descriptive doit donc pouvoir distinguer plusieurs couches temporelles présentes dans une même configuration.
-
----
-
+Une description ne possède pas nécessairement une origine unique ou synchronique. Elle résulte le plus souvent de l'imbrication de plusieurs moments fonctionnels :
+ * **Une émergence initiale** : l'activation première d'un répertoire normatif face à une configuration problématique.
+ * **Des transformations successives** : les réajustements, infléchissements et corrections apportés par les communautés de locuteurs au fil des usages.
+ * **Des adaptations intermédiaires** : la confrontation à de nouveaux supports techniques ou institutionnels.
+ * **Des transmissions intergénérationnelles** : le passage par des canaux d'apprentissage et de socialisation discursive.
+ * **Des stabilisations ultérieures** : la sédimentation normative figeant certains aspects de la description en évidences opératoires.
+L'analyse protokinienne doit ainsi être capable de distinguer les couches temporelles enchevêtrées qui confèrent à une configuration descriptive sa texture présente.
 ## Qu'est-ce qu'une strate temporelle ?
-
-Une strate temporelle désigne une couche issue d'une période particulière de formation ou de stabilisation d'une description.
-
-Elle correspond à un ensemble de traces, de pratiques ou de supports qui continuent d'intervenir dans une configuration actuelle.
-
-Une strate ne correspond pas simplement à une étape passée.
-
-Elle désigne une dimension temporelle encore active dans l'organisation présente d'une description.
-
----
-
-## Superposition des strates
-
-Les configurations descriptives peuvent présenter une structure stratifiée.
-
-Une description contemporaine peut ainsi combiner :
-
-- des catégories anciennes ;
-- des pratiques héritées ;
-- des instruments récents ;
-- des reformulations théoriques ;
-- des usages nouveaux.
-
-Ces éléments ne proviennent pas nécessairement de la même période historique.
-
-Ils peuvent néanmoins fonctionner ensemble au sein d'une même configuration.
-
----
-
+Dans l'architecture de Protokin, une **strate temporelle** désigne une couche issue d'une période particulière de formation ou de stabilisation d'une description, mais qui continue d'opérer activement dans l'organisation présente.
+Une strate n'est pas un simple vestige archéologique ou une étape révolue ; elle constitue une dimension fonctionnelle active qui contraint, oriente ou alimente les inférences actuelles. Elle correspond à un ensemble de traces, de pratiques ou de supports dont la permanence pèse sur la recevabilité des assertions discursives.
+## Superposition des strates et hétérogénéité fonctionnelle
+Les configurations descriptives contemporaines présentent fréquemment une structure stratifiée où coexistent des éléments hétérogènes :
+| Type de strate | Nature des éléments | Rôle fonctionnel dans la configuration |
+|---|---|---|
+| **Catégories anciennes** | Vocabulaire sédimenté, concepts hérités | Fournissent le socle lexical et les évidences tacites. |
+| **Pratiques héritées** | Habitudes corporelles, rituels discursifs | Garantissent la continuité pragmatique sans exigence de justification explicite. |
+| **Instruments récents** | Dispositifs techniques, technologies de calcul | Modifient les seuils de visibilité et accélèrent les inférences. |
+| **Reformulations théoriques** | Apports critiques, concepts post-pragmatistes | Exercent une fonction de relecture et de correction normative. |
+Ces éléments ne proviennent pas de la même période historique, mais ils fonctionnent conjointement au sein d'une même architecture fonctionnelle.
 ## Transmission et continuité temporelle
-
-Les strates temporelles apparaissent notamment par des processus de transmission.
-
-Une description peut être conservée à travers :
-
-- des apprentissages ;
-- des documents ;
-- des institutions ;
-- des pratiques répétées ;
-- des dispositifs techniques.
-
-La transmission permet ainsi à certaines dimensions descriptives de traverser plusieurs périodes.
-
----
-
+Les strates temporelles se maintiennent et traversent les âges grâce à des vecteurs de transmission spécifiques :
+ * **Les apprentissages** : l'incorporation de schèmes inférentiels par la formation des nouveaux locuteurs.
+ * **Les documents et archives** : la matérialisation externe des normes discursives.
+ * **Les institutions** : la pérennisation des cadres normatifs par des structures organisationnelles stables.
+ * **Les pratiques répétées** : l'actualisation continue des routines discursives et corporelles.
+ * **Les dispositifs techniques** : l'inscription matérielle des contraintes inférentielles.
+La transmission permet ainsi à certaines dimensions descriptives de traverser plusieurs périodes sans perdre leur efficacité normative.
 ## Irréversibilités relatives
-
-Certaines transformations produisent des effets qui ne peuvent pas être simplement annulés.
-
-On parlera alors d'irréversibilité relative.
-
-Elle ne signifie pas qu'un retour est absolument impossible.
-
-Elle indique plutôt qu'une transformation modifie les conditions à partir desquelles de nouvelles descriptions peuvent apparaître.
-
-Après certaines transformations, le point de départ initial n'est plus directement accessible.
-
----
-
+Certaines transformations produisent des effets qui ne peuvent pas être simplement annulés. On parlera alors d'**irréversibilité relative**.
+Cette notion n'implique pas qu'un retour en arrière soit absolument métaphysiquement impossible. Elle indique plutôt qu'une transformation modifie irrévocablement les conditions à partir desquelles de nouvelles descriptions peuvent apparaître. Après certaines bifurcations ou sédimentations, le point de départ initial n'est plus directement accessible ni fonctionnellement opérant.
 ## Les formes d'irréversibilité
-
-Les irréversibilités descriptives peuvent apparaître sous différentes formes.
-
-### Irréversibilités matérielles
-
-Certaines transformations modifient les infrastructures, les outils ou les environnements dans lesquels les descriptions sont produites.
-
-### Irréversibilités institutionnelles
-
-Certaines transformations créent de nouvelles organisations, procédures ou relations qui deviennent difficiles à supprimer.
-
-### Irréversibilités pratiques
-
-Certaines transformations modifient durablement les habitudes et les manières d'agir.
-
-### Irréversibilités historiques
-
-Certaines transformations deviennent des événements de référence qui réorganisent la compréhension ultérieure d'une situation.
-
----
-
-## Strates et configurations descriptives
-
-Les strates temporelles participent à la composition des configurations descriptives.
-
-Voir :
-
-- [Configurations descriptives](configurations.md)
-- [Objets descriptifs : invariants et stabilisations](objets_descriptifs.md)
-
-Une configuration actuelle peut ainsi contenir plusieurs héritages qui ne sont pas nécessairement homogènes.
-
-L'analyse consiste alors à identifier les différentes couches temporelles qui contribuent à son fonctionnement.
-
----
-
-## Strates et stabilisation
-
-Les strates temporelles sont liées aux processus de stabilisation.
-
-Voir :
-
-- [Stabilisation et effet cliquet](stabilisation.md)
-
-Lorsqu'une description se stabilise durablement, elle peut devenir porteuse d'héritages qui orientent ses transformations ultérieures.
-
-La stabilité ne correspond donc pas uniquement à une conservation.
-
-Elle peut également être comprise comme une accumulation de transformations qui deviennent des conditions pour les étapes suivantes.
-
----
-
-## Strates et transformations
-
-Les transformations descriptives ne partent jamais d'une situation entièrement nouvelle.
-
-Elles interviennent sur des configurations déjà constituées par des trajectoires antérieures.
-
-Voir :
-
-- [Transitions descriptives](../05_transformations/transitions.md)
-- [Limites internes](../05_transformations/limites.md)
-
-L'analyse d'une transformation implique donc de considérer les éléments hérités qui rendent certaines modifications possibles ou difficiles.
-
----
-
-## Ce que cette page établit
-
-Cette page établit que :
-
-- les configurations descriptives possèdent des dimensions temporelles multiples ;
-- une description peut conserver des traces issues de différentes périodes ;
-- ces traces peuvent former des strates temporelles ;
-- certaines transformations produisent des irréversibilités relatives ;
-- l'analyse descriptive doit tenir compte des trajectoires historiques qui structurent les configurations présentes.
-
----
-
-## Voir également
-
-- [Temporalité descriptive](temporalite.md)
-- [Configurations descriptives](configurations.md)
-- [Stabilisation et effet cliquet](stabilisation.md)
-- [Transitions descriptives](../05_transformations/transitions.md)
-- [Strates temporelles et irréversibilités](strates_temporelles.md)
+Les irréversibilités descriptives peuvent apparaître sous différentes morphologies :
+ * **Irréversibilités matérielles** : certaines transformations modifient durablement les infrastructures, les outils ou les environnements techniques dans lesquels les descriptions sont produites.
+ * **Irréversibilités institutionnelles** : certaines modifications créent de nouvelles organisations, procédures ou répartitions de rôles qui deviennent extrêmement difficiles à supprimer ou à contourner.
+ * **Irréversibilités pratiques** : certaines inflexions modifient durablement les habitudes, les automatismes corporels et les dispositions des locuteurs.
+ * **Irréversibilités historiques** : l'accumulation de strates successives ferme certaines options discursives tout en en ouvrant de nouvelles, rendant caduques d'anciennes questions sans qu'il soit possible de les réactiver à l'identique.
+## Synthèse et clôture fonctionnelle
+L'analyse des strates temporelles et des irréversibilités démontre que les pratiques descriptives ne se prêtent à aucune réduction synchronique pure. Comprendre une configuration descriptive exige de restituer la stratification de ses normes, l'hétérogénéité de ses supports et le poids de ses irréversibilités relatives. C'est par cette sédimentation que la rationalité discursive stabilise ses acquis tout en restant exposée aux tensions et aux nécessités de révision.
+## Renvois complémentaires
+ * Trajectoires descriptives
+ * L'allure
+ * Stabilisation et effet cliquet
+ * Régimes de description
+ * Limites internes et tensions
