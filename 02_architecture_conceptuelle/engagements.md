@@ -1,374 +1,54 @@
-# Engagements — La dimension normative des descriptions dans Protokin
-
-> Une description n’est jamais un simple énoncé représentant une situation.
->
-> Décrire consiste toujours à adopter une position dans un espace de conséquences, d’inférences et de justifications.
->
-> Dans Protokin, un **engagement** désigne ce qui devient assumé lorsqu’une description fonctionne dans une pratique donnée.
-
----
-
-# 1. Fonction générale des engagements
-
-## 1.1 Question directrice
-
-Ce fichier répond à une question centrale :
-
-> Que devient une description lorsqu’elle n’est pas seulement comprise, mais adoptée dans une pratique de justification ?
-
-Une description ne consiste pas uniquement à identifier quelque chose.
-
-Lorsqu’un locuteur, une institution ou une communauté adopte une description, cette adoption organise :
-
-- ce qui peut être affirmé ;
-- ce qui peut être reconnu comme pertinent ;
-- ce qui peut être inféré ;
-- ce qui doit être justifié.
-
-L’analyse des engagements permet donc d’étudier la dimension normative des descriptions.
-
----
-
-## 1.2 Définition générale
-
-Dans Protokin, un engagement désigne :
-
-> La position normative qu’une description occupe lorsqu’elle entre dans un réseau d’inférences, de justifications et de pratiques.
-
-Un engagement n’est pas :
-
-- une croyance privée ;
-- un état mental individuel ;
-- une intention psychologique.
-
-Il correspond à une fonction dans un espace de justification partagé.
-
-Un engagement indique ce qu’une description rend possible, nécessaire ou problématique lorsqu’elle est utilisée dans une pratique donnée.
-
-Voir :
-
-- [Régimes de description](regimes.md)
-- [Causes et raisons](causes_raisons.md)
-
----
-
-# 2. Description et engagement
-
-## 2.1 Une description n’est jamais neutre
-
-Une description sélectionne certaines différences comme pertinentes.
-
-Elle établit donc implicitement :
-
-- ce qui mérite d’être pris en compte ;
-- ce qui peut être relié ;
-- ce qui peut servir de justification ;
-- quelles conséquences peuvent être envisagées.
-
-Une description ne se contente pas d’ajouter une information.
-
-Elle organise une manière de se rapporter à une situation.
-
----
-
-## 2.2 Décrire, c’est prendre position
-
-Adopter une description revient à entrer dans un espace de responsabilités descriptives.
-
-Cela signifie être capable de répondre à des questions comme :
-
-- Pourquoi cette description est-elle pertinente ?
-- Quelles conséquences entraîne-t-elle ?
-- Quelles autres descriptions exclut-elle ou limite-t-elle ?
-- Quelles justifications peut-elle recevoir ?
-
-L’engagement apparaît ainsi comme la dimension normative interne à toute pratique descriptive.
-
----
-
-# 3. Engagement et régime descriptif
-
-Les engagements ne sont jamais indépendants des régimes de description.
-
-Un régime détermine les conditions dans lesquelles certaines descriptions peuvent être évaluées.
-
-Voir :
-
-- [Régimes de description](regimes.md)
-
-Un même objet peut donc produire des engagements différents selon le régime mobilisé.
-
-Par exemple :
-
-- une description scientifique engage des critères expérimentaux ;
-- une description juridique engage des critères institutionnels ;
-- une description historique engage des critères liés aux sources et à l’interprétation.
-
-Les engagements ne sont donc pas attachés aux objets eux-mêmes.
-
-Ils dépendent des cadres descriptifs dans lesquels les objets deviennent intelligibles.
-
----
-
-# 4. Dimensions d’un engagement
-
-Un engagement possède plusieurs dimensions complémentaires.
-
----
-
-## 4.1 Dimension descriptive
-
-Elle concerne ce qu’une description rend pertinent.
-
-Elle porte sur :
-
-- les objets identifiés ;
-- les catégories utilisées ;
-- les différences reconnues.
-
-Questions :
-
-- Qu’est-ce qui devient visible ?
-- Selon quelles distinctions ?
-- Dans quel cadre quelque chose devient-il descriptible ?
-
----
-
-## 4.2 Dimension inférentielle
-
-Elle concerne les conséquences reconnues comme acceptables.
-
-Une description organise un réseau de relations entre affirmations.
-
-Elle détermine :
-
-- quelles conclusions peuvent être tirées ;
-- quelles relations sont admises ;
-- quelles conséquences sont compatibles avec elle.
-
-Voir :
-
-- [Régimes de description](regimes.md)
-
----
-
-## 4.3 Dimension justificative
-
-Elle concerne les conditions permettant de soutenir une description.
-
-Elle implique :
-
-- des critères d’évaluation ;
-- des formes d’argumentation ;
-- des pratiques de correction.
-
-Une description n’existe donc jamais uniquement comme contenu.
-
-Elle existe dans un espace où elle peut être soutenue, discutée et évaluée.
-
-Voir :
-
-- [Causes et raisons](causes_raisons.md)
-
----
-
-## 4.4 Dimension pratique
-
-Les engagements possèdent également une dimension pratique.
-
-Une description peut orienter :
-
-- des actions ;
-- des décisions ;
-- des coordinations ;
-- des comportements collectifs.
-
-Une description devient opératoire lorsqu’elle permet à des acteurs de coordonner leurs pratiques.
-
----
-
-# 5. Engagements et espace des raisons
-
-## 5.1 Une dimension normative
-
-Les engagements appartiennent principalement à l’espace des raisons.
-
-Ils concernent :
-
-- ce qui peut être défendu ;
-- ce qui peut être critiqué ;
-- ce qui doit être justifié.
-
-Cette dimension distingue une description comme simple occurrence linguistique d’une description comme position normative.
-
-Voir :
-
-- [Causes et raisons](causes_raisons.md)
-
----
-
-## 5.2 Engagement et responsabilité descriptive
-
-Adopter une description implique une responsabilité particulière.
-
-Le locuteur devient responsable :
-
-- de la pertinence de ses distinctions ;
-- des conséquences qu’il reconnaît ;
-- des justifications qu’il accepte.
-
-L’engagement ne désigne donc pas seulement une relation entre une description et un objet.
-
-Il désigne une relation entre une description et une pratique de justification.
-
----
-
-# 6. Engagements et pratiques collectives
-
-Les engagements ne sont pas uniquement individuels.
-
-Ils existent dans des communautés de locuteurs.
-
-Une communauté stabilise des engagements lorsqu’elle partage :
-
-- des critères d’évaluation ;
-- des manières de justifier ;
-- des usages descriptifs ;
-- des attentes réciproques.
-
-Voir :
-
-- [Locuteur normatif](locuteur.md)
-- [Communauté de locuteurs](communaute_locuteurs.md)
-
-Les engagements constituent ainsi une dimension collective des pratiques descriptives.
-
----
-
-# 7. Analyse protokinienne des engagements
-
-L’analyse des engagements cherche à reconstruire :
-
-## 7.1 Ce qu’une description rend possible
-
-Questions :
-
-- Quelles affirmations deviennent accessibles ?
-- Quelles distinctions deviennent pertinentes ?
-- Quelles pratiques sont orientées ?
-
----
-
-## 7.2 Ce qu’une description rend nécessaire
-
-Questions :
-
-- Quels critères doivent être respectés ?
-- Quelles justifications deviennent nécessaires ?
-- Quelles conséquences doivent être assumées ?
-
----
-
-## 7.3 Le réseau d’engagements associé
-
-Une description doit être étudiée avec :
-
-- ses conditions d’apparition ;
-- ses usages ;
-- ses conséquences ;
-- ses relations avec d’autres descriptions.
-
-L’engagement permet ainsi de passer d’une analyse du contenu descriptif à une analyse de son fonctionnement normatif.
-
----
-
-# 8. Limites conceptuelles
-
-## 8.1 L’engagement n’est pas une croyance
-
-Un engagement ne correspond pas à un état intérieur.
-
-Il appartient à une pratique publique de justification.
-
----
-
-## 8.2 L’engagement n’est pas une obligation absolue
-
-Un engagement possède toujours un contexte descriptif.
-
-Il dépend :
-
-- d’un régime ;
-- d’une pratique ;
-- de critères d’évaluation.
-
----
-
-## 8.3 L’engagement n’est pas un objet
-
-Un engagement n’est pas une chose supplémentaire ajoutée aux descriptions.
-
-Il est une fonction produite par leur usage dans une pratique normative.
-
----
-
-# 9. Place dans l’architecture Protokin
-
-Les engagements occupent une position intermédiaire entre description et justification.
-
-L’organisation générale peut être représentée ainsi :
-
-Configuration descriptive
-
-↓
-
-Description
-
-↓
-
-Régime descriptif
-
-↓
-
-Engagements
-
-↓
-
-Inférences
-
-↓
-
-Justifications
-
-↓
-
-Évaluation
-
-Cette représentation ne décrit pas des niveaux du réel.
-
-Elle représente un ordre d’analyse.
-
----
-
-# Conclusion
-
-Dans Protokin, un engagement désigne la dimension normative d’une description lorsqu’elle fonctionne dans une pratique de justification.
-
-Une description ne se définit donc pas seulement par ce qu’elle affirme.
-
-Elle se définit également par :
-
-- ce qu’elle rend pertinent ;
-- ce qu’elle autorise à inférer ;
-- ce qu’elle oblige à justifier ;
-- les pratiques qu’elle organise.
-
-Les engagements permettent ainsi d’analyser comment les descriptions deviennent des positions assumées dans des espaces collectifs de justification.
-
----
-
-# Formule synthétique
-
-> **Un engagement est ce qu’une description oblige à reconnaître lorsqu’elle fonctionne dans une pratique de justification.**
-
-> **Protokin analyse les descriptions non seulement par ce qu’elles disent, mais par la manière dont elles organisent des possibilités d’action, d’inférence et de justification.**
+# Engagements descriptifs
+## La dimension normative et inférentielle de l'énonciation descriptive
+## Introduction
+Dans l’architecture métathéorique de **Protokin**, une description n’est jamais un simple calque passif ou un enregistrement neutre du monde. Adopter, formuler ou soutenir une description ne consiste pas à déposer un énoncé figé dans un espace vide, mais à réaliser un coup dans un jeu normatif.
+La notion d’**engagement descriptif** désigne précisément ce qu’un locuteur assume, endosse ou se voit attribuer lorsqu’il met en circulation une description au sein d’une pratique discursive. Refusant toute conception représentationnaliste naïve qui réduirait le langage à un miroir du réel, Protokin aborde l’engagement à travers le prisme de l’inférentialisme sémantique : signifier, c'est s'engager dans un réseau de conséquences et de responsabilités.
+Cette page explicite la structure fonctionnelle des engagements descriptifs, leur articulation avec la pragmatique de l'enquête et leur rôle central dans l'audit des régimes de description.
+## 1. De la représentation passive à l'engagement normatif
+La tradition philosophique classique a longtemps subordonné l'acte de langage à une relation du type « signe-objet », dissociant la vérité d'une proposition des conditions pragmatiques de son énonciation. L'approche protokinienne, prolongeant les travaux de Wilfrid Sellars et de Robert Brandom, opère un déplacement radical : elle subordonne la sémantique à la pragmatique normative.
+Lorsqu'un locuteur formule une description, il modifie instantanément l'espace déontique de l'interaction. Il ne se contente pas de viser un état de fait ; il se place sous le régime de la redevabilité publique (*accountability*). C'est dans cette bascule que l'engagement descriptif s'institue comme le pivot de toute rationalité pratique :
+ * Une description engage le locuteur à accepter les conséquences logiques et pratiques qui en découlent.
+ * Elle l'expose à l'exigence de justification en cas de contestation par ses pairs.
+ * Elle redéfinit les frontières de ce qui est désormais permis, interdit ou requis dans l'espace de l'enquête.
+## 2. Les dimensions constitutives de l'engagement descriptif
+Dans l'analytique protokinienne, l'engagement descriptif se structure autour de quatre dimensions majeures qui régissent la comptabilité déontique (*scorekeeping*) des participants :
+### A. Les conséquences inférentielles (Commitments)
+En décrivant une situation de telle ou telle manière, le locuteur s’engage à endosser les inférences matérielles et formelles qui en découlent. Par exemple, qualifier une situation de « crise sanitaire » engage à reconnaître la légitimité de mesures d'exception et à rejeter les descriptions fondées sur la simple normalité conjoncturelle. L'engagement s'évalue ainsi à l'aune des liaisons inférentielles que le locuteur est tenu de maintenir sous peine d'incohérence.
+### B. Les responsabilités discursives et la comptabilité déontique
+Formuler une description confère au locuteur une charge de responsabilité. Au sein du jeu de donner et de demander des raisons, il devient comptable de la robustesse de son énoncé. Cette responsabilité se traduit par la capacité à exhiber des habilitations (*entitlements*) — c’est-à-dire des raisons, des preuves ou des ancrages institutionnels — qui autorisent l’énonciation sans basculer dans l’arbitraire.
+### C. Les incompatibilités reconnues
+Tout engagement descriptif délimite par exclusion un champ d'incompatibilités. S'engager dans une description implique de reconnaître qu'un ensemble d'autres descriptions concurrentes se trouve ipso facto disqualifié ou rendu contradictoire dans le même espace de jeu. La gestion de ces incompatibilités constitue l'un des moteurs principaux des tensions entre régimes.
+### D. Les justifications mobilisables
+L’engagement n'est pas un état psychologique ou une simple conviction intime ; il est publiquement évaluable. Il requiert la mise en œuvre de procédures de justification adaptées au régime descriptif dans lequel il prend place, garantissant que l'énoncé résiste à l'épreuve de la critique collective.
+## 3. Asymétrie intersubjective et objectivité sémantique
+L'architecture Protokin insiste sur le fait que les engagements descriptifs ne se comprennent pas depuis un point de vue solipsiste, mais à travers l'asymétrie fondamentale de la relation « Je-Tu » (*I-Thou*) théorisée par Robert Brandom.
+Il existe une tension irréductible entre :
+ 1. Les engagements qu'un locuteur **reconnaît** ou s'attribue à lui-même dans la première personne.
+ 2. Les engagements que la communauté ou un tiers **lui attribue** depuis la perspective de la troisième personne.
+C’est précisément dans le frottement et la régulation mutuelle de ces scores déontiques que s'institue l'objectivité sémantique. L'objectivité n'est pas une substance extérieure qui frapperait nos esprits, mais l'invariant normatif qui émerge de la coordination de nos engagements discursifs divergents.
+## 4. Éclairage par le fil rouge
+L'examen de notre énoncé de référence — **« Cette personne est dangereuse. »** — illustre concrètement la portée des engagements descriptifs selon les contextes où il est prononcé :
+ * **Dans un cadre médiatique ou d'opinion :** L'engagement consiste à susciter une réaction d'alarme ou d'urgence. Les conséquences inférentielles tolèrent l'approximation, mais le locuteur endosse une responsabilité diffuse de mise en garde publique.
+ * **Dans un cadre juridique ou pénal :** L'énoncé engage un réseau strict d'incompatibilités et de conséquences procédurales : la mobilisation de preuves matérielles, l'ouverture d'une instruction, la restriction de libertés individuelles et l'exposition à un contrôle rigoureux de recevabilité.
+ * **Dans un cadre psychiatrique :** L'engagement se déploie sous la forme d'un diagnostic, liant la description à un protocole thérapeutique ou à une évaluation spécialisée de la dangerosité fondées sur des critères objectivés.
+À travers ces variations, on observe que le contenu textuel demeure identique, mais que la structure des engagements et des responsabilités discursives change radicalement selon le régime mobilisé.
+## 5. Fonction méthodologique dans l'audit protokinien
+Pour l'analyste menant un audit protokinien, l'identification des engagements descriptifs répond à une question directrice fondamentale : *« Que faisons-nous, à quoi nous lions-nous et de quoi devenons-nous comptables lorsque nous adoptons cette description ? »*
+L'audit procède ainsi à une radiographie des implications normatives du corpus étudié :
+ * Il repère les inférences tacites que le discours autorise ou interdit en silence.
+ * Il met au jour les responsabilités que les acteurs tentent d'endosser ou, au contraire, d'éluder.
+ * Il détecte les contradictions entre les engagements proclamés et les habilitations réellement mobilisables.
+## 6. Limites et frontières conceptuelles
+L'engagement descriptif ne doit pas être confondu avec :
+ * **L'intention psychologique** ou l'état mental subjectif de celui qui parle : l'engagement est un statut normatif public et institutionnalisé dans les pratiques, non un contenu de conscience.
+ * **L'acte illocutionnaire** au sens de la pragmatique linguistique classique : l'engagement protokinien s'inscrit dans une structure inférentialiste globale où chaque coup est lié à un réseau de compatibilités et de justifications à long terme.
+## Synthèse et clôture fonctionnelle
+L'analyse des engagements descriptifs établit que toute description porte en elle une charge normative incontournable. Loin d'être de simples représentations détachées du monde, les descriptions engagent nos actions, fixent nos responsabilités et structurent l'espace public des raisons.
+Ce que cette page a établi permet désormais d'examiner comment ces engagements s'articulent avec les règles d'évaluation et de correction au sein de la **validité descriptive**, ou comment ils font l'objet d'un examen critique dans l'**audit des régimes de description**.
+## Renvois complémentaires
+ * Niveaux descriptifs
+ * Régimes de description
+ * Inférences et justifications
+ * Validité descriptive
+ * Communauté de locuteurs
+ * Audit des régimes descriptifs
