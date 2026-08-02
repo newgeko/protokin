@@ -333,6 +333,22 @@ Elle ne cherche jamais à établir une ontologie générale du réel.
 
 ---
 
+# Principe d'immanence
+
+L'analyse demeure constamment immanente aux pratiques descriptives étudiées.
+
+La rédaction n'adopte jamais un point de vue extérieur, absolu ou surplombant.
+
+Elle reconstruit les conditions internes qui rendent une description possible, recevable, justifiable, stabilisable ou transformable.
+
+Les concepts sont toujours analysés à partir de leur fonctionnement dans les pratiques descriptives et non à partir d'un fondement extérieur.
+
+Ce principe vaut également pour Protokin lui-même.
+
+L'architecture peut être auditée, discutée et révisée selon les mêmes critères qu'elle applique aux autres pratiques descriptives.
+
+---
+
 # Principe d'écriture
 
 La documentation constitue une architecture conceptuelle unique.
