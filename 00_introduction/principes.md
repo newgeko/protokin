@@ -1,240 +1,89 @@
-# Principes fondamentaux
+Les principes de Protokin
 
-> **Les principes fondamentaux de Protokin définissent les contraintes générales qui organisent l’ensemble de l’architecture.**
->
-> Ils ne constituent pas une théorie particulière du monde.
->
-> Ils déterminent les conditions selon lesquelles une analyse descriptive peut être conduite.
+Les engagements fondamentaux de l'enquête descriptive
 
----
+Les principes de Protokin ne constituent ni des vérités premières, ni des axiomes démontrant la structure ultime du monde.
 
-# Introduction
+Ils expriment les engagements méthodologiques qui orientent l'ensemble de l'architecture protokinienne.
 
-Protokin repose sur plusieurs principes directeurs qui orientent sa démarche.
+Chaque principe répond à une difficulté classique rencontrée dans les théories de la connaissance, du langage ou des sciences, et propose un déplacement conceptuel qui permet de reconstruire autrement les pratiques descriptives.
 
-Ces principes ne décrivent pas des objets particuliers.
+Ces principes ne décrivent donc pas ce que le monde est en lui-même.
 
-Ils précisent :
+Ils définissent la manière dont Protokin choisit d'aborder les descriptions, leurs conditions de possibilité, leur fonctionnement et leurs transformations.
 
-- ce qui doit être pris en compte pour analyser une description ;
-- ce qui doit être évité pour ne pas réduire une description à un seul niveau ;
-- comment articuler conditions, pratiques et stabilisations.
-
-Ils constituent le cadre général à partir duquel les autres concepts de Protokin peuvent être développés.
+Ils forment ainsi la grammaire générale à partir de laquelle l'ensemble de l'architecture fonctionnelle peut être comprise.
 
 ---
 
-# Principe 1 — Primat des conditions descriptives
+Des principes méthodologiques plutôt que des fondements
 
-Une description n’apparaît jamais comme une opération isolée.
+Protokin ne cherche pas un point de départ absolu à partir duquel toutes les descriptions pourraient être déduites.
 
-Elle dépend de conditions qui rendent possible :
+Il ne suppose ni un sujet transcendantal, ni un donné brut, ni une vérité immédiatement accessible, ni une méthode universelle qui s'imposerait à toutes les pratiques.
 
-- son apparition ;
-- son intelligibilité ;
-- son usage ;
-- sa transmission ;
-- sa stabilisation.
+Les principes présentés ici ne prétendent donc pas fonder définitivement la connaissance.
 
-Protokin ne commence donc pas par demander :
+Ils constituent des choix méthodologiques assumés.
 
-> Quel objet cette description désigne-t-elle ?
+Autrement dit, ils définissent les engagements que Protokin adopte pour reconstruire les pratiques descriptives.
 
-Il demande :
-
-> Quelles conditions permettent à cette description de fonctionner ?
-
-Une description est ainsi toujours considérée dans l’espace qui la rend possible.
-
-Voir :
-
-- [Description](description.md)
-- [Supports descriptifs](../02_architecture_conceptuelle/supports_descriptifs.md)
-- [Configurations descriptives](../02_architecture_conceptuelle/configurations.md)
+Ces engagements restent eux-mêmes susceptibles d'être discutés, comparés, révisés ou abandonnés.
 
 ---
 
-# Principe 2 — Non-ontologie
+Une lecture progressive
 
-Protokin n’affirme pas qu’un régime descriptif particulier révélerait le monde tel qu’il serait indépendamment de toute pratique.
+Les principes ne doivent pas être compris comme des propositions indépendantes.
 
-Il analyse les conditions selon lesquelles certaines descriptions deviennent recevables.
+Ils se soutiennent mutuellement.
 
-Aucun régime descriptif n’est considéré comme :
+Le primat du couplage perception-action prépare le primat de la description.
 
-- absolu ;
-- universel ;
-- indépendant de toute condition historique ;
-- doté d’un privilège ontologique définitif.
+Le primat de la description conduit à penser toute activité descriptive comme située.
 
-Cela ne signifie pas que toutes les descriptions se valent.
+La distinction entre l'espace des causes et l'espace des raisons permet ensuite de comprendre la normativité des descriptions.
 
-Elles peuvent différer par :
+Les principes d'immanence, de pluralisme et de réflexivité précisent enfin les conditions dans lesquelles les régimes descriptifs peuvent être maintenus, transformés et audités.
 
-- leur puissance descriptive ;
-- leurs critères de justification ;
-- leurs capacités d’inférence ;
-- leurs possibilités de stabilisation.
+Chaque principe éclaire ainsi les autres sans qu'aucun ne possède un privilège absolu.
 
-Voir :
-
-- [Régimes de description](../02_architecture_conceptuelle/regimes.md)
-- [Puissance descriptive](../06_puissance_descriptive/puissance_descriptive.md)
+Ils forment un réseau cohérent de dépendances méthodologiques plutôt qu'une hiérarchie de fondements.
 
 ---
 
-# Principe 3 — Primat du couplage perception-action
+Une architecture ouverte
 
-Toute description suppose une relation préalable entre une configuration et un système capable d’interagir avec elle.
+Les principes de Protokin n'ont pas vocation à clore le débat philosophique.
 
-Une description n’émerge pas d’un observateur extérieur au monde.
+Ils constituent une proposition de travail.
 
-Elle apparaît à partir de :
+Leur intérêt ne réside pas dans leur prétention à être incontestables, mais dans leur capacité à rendre les pratiques descriptives plus intelligibles et à offrir une méthode d'enquête sur leurs conditions de fonctionnement.
 
-- perceptions ;
-- actions ;
-- distinctions ;
-- interactions ;
-- inscriptions.
+En ce sens, ces principes participent eux-mêmes d'un régime descriptif.
 
-Le rapport au monde est donc d’abord un rapport de couplage.
+Ils peuvent être interrogés, comparés à d'autres traditions philosophiques, soumis à la critique ou révisés à la lumière de nouvelles analyses.
 
-La description constitue une stabilisation progressive de ce rapport.
+Cette possibilité de révision n'affaiblit pas Protokin.
 
-Voir :
-
-- [Primat du couplage perception-action](../02_architecture_conceptuelle/primat_perception_action.md)
-- [Configurations sémiotiques](../02_architecture_conceptuelle/configurations_semiotiques.md)
+Elle exprime au contraire l'un de ses engagements fondamentaux : aucune description, aucune méthode et aucun cadre théorique ne sont soustraits à l'examen réflexif.
 
 ---
 
-# Principe 4 — Structure inférentielle de la description
+Les principes fondamentaux
 
-Une description ne consiste pas seulement à attribuer un terme à quelque chose.
+Les pages qui suivent développent successivement les principaux engagements méthodologiques de Protokin :
 
-Toute description ouvre un espace de conséquences possibles.
+- le primat du couplage perception-action ;
+- le primat de la description ;
+- le principe de la description située ;
+- la distinction entre l'espace des causes et l'espace des raisons ;
+- le principe d'immanence normative ;
+- le principe des dépendances fonctionnelles ;
+- le principe du pluralisme descriptif ;
+- le principe de réflexivité ;
+- le principe d'humilité épistémique.
 
-Décrire implique :
+Ces principes ne doivent pas être lus comme une liste de règles à appliquer mécaniquement.
 
-- certaines inférences ;
-- certaines attentes ;
-- certaines justifications ;
-- certains engagements.
-
-Comprendre une description revient donc à comprendre ce qu’elle autorise et ce qu’elle oblige à reconnaître.
-
-Voir :
-
-- [Inférences et justifications](../02_architecture_conceptuelle/inferences_justifications.md)
-- [Engagements descriptifs](../02_architecture_conceptuelle/engagements.md)
-- [Locuteur normatif](../02_architecture_conceptuelle/locuteur.md)
-
----
-
-# Principe 5 — Pluralité des régimes descriptifs
-
-Une même configuration peut devenir intelligible selon plusieurs régimes descriptifs.
-
-Un phénomène peut être décrit selon différentes perspectives :
-
-- scientifiques ;
-- juridiques ;
-- historiques ;
-- politiques ;
-- techniques ;
-- sociales.
-
-Ces régimes ne sont pas simplement des opinions différentes.
-
-Ils organisent différemment :
-
-- les objets pertinents ;
-- les critères ;
-- les inférences ;
-- les formes de justification.
-
-L’analyse protokinienne consiste à expliciter ces différences plutôt qu’à les effacer.
-
-Voir :
-
-- [Régimes de description](../02_architecture_conceptuelle/regimes.md)
-- [Cartographie des régimes descriptifs](../02_architecture_conceptuelle/cartographie_regimes_descriptifs.md)
-
----
-
-# Principe 6 — Historicité et temporalité des descriptions
-
-Une description possède toujours une trajectoire.
-
-Elle apparaît dans certaines conditions.
-
-Elle peut ensuite :
-
-- être reprise ;
-- être transmise ;
-- être institutionnalisée ;
-- être contestée ;
-- être transformée.
-
-Les descriptions ne sont donc pas seulement des structures logiques.
-
-Elles possèdent une histoire.
-
-Voir :
-
-- [Temporalité](../02_architecture_conceptuelle/temporalite.md)
-- [Stabilisation et effet cliquet](../02_architecture_conceptuelle/stabilisation.md)
-- [Transitions descriptives](../05_transformations/transitions.md)
-
----
-
-# Principe 7 — Stabilisation collective
-
-Une description devient durable lorsqu’elle s’inscrit dans des pratiques collectives.
-
-La stabilisation implique :
-
-- des usages répétés ;
-- des apprentissages ;
-- des institutions ;
-- des critères partagés ;
-- des mécanismes de correction.
-
-Une description n’est donc pas seulement conservée parce qu’elle existe.
-
-Elle est maintenue par un ensemble de pratiques qui la rendent opératoire.
-
-Voir :
-
-- [Pratique collective](../02_architecture_conceptuelle/pratique_collective.md)
-- [Communauté de locuteurs](../02_architecture_conceptuelle/communaute_locuteurs.md)
-- [Stabilisation et effet cliquet](../02_architecture_conceptuelle/stabilisation.md)
-
----
-
-# Principe 8 — Réflexivité
-
-Toute description peut devenir elle-même un objet d’analyse.
-
-Protokin applique ce principe à sa propre architecture.
-
-Il ne se place pas hors de tout régime descriptif.
-
-Ses propres concepts peuvent également être examinés comme des configurations susceptibles d’être analysées, discutées et transformées.
-
-Voir :
-
-- [Réflexivité](../08_reflexivite/reflexivite.md)
-- [Protokin comme objet d’audit](../08_reflexivite/protokin_audit.md)
-
----
-
-# Synthèse
-
-Les principes fondamentaux de Protokin peuvent être résumés ainsi :
-
-> Une description n’est jamais un simple reflet du monde.
->
-> Elle est une configuration stabilisée issue d’un couplage, organisée par des inférences, inscrite dans des pratiques collectives, située dans une trajectoire historique et susceptible d’être transformée.
-
-Ces principes définissent le cadre général à partir duquel Protokin analyse les conditions de possibilité, de validité et de transformation des descriptions.
+Ils constituent des repères conceptuels qui orientent l'enquête protokinienne et permettent de reconstruire la dynamique des pratiques descriptives sans recourir à des fondements extérieurs aux pratiques elles-mêmes.
