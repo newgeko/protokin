@@ -107,5 +107,3 @@ Ce que cette page a établi — la fonction de l'injustice collective en tant qu
 *   Réflexivité
 
 ---
-
-🧩 **Souhaitez-vous que nous rédigions à présent la page consacrée à « la grille d'audit et ses questions directrices » afin de formaliser de manière autonome les outils d'application de cette vigilance critique aux configurations réelles de nos collectifs ?**
