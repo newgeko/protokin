@@ -1,109 +1,376 @@
-# L'enquête
+L'enquête
 
-#### La reconstruction active des situations problématiques et la réorganisation des régimes descriptifs
+Décrire, comprendre et réorganiser les pratiques descriptives
 
-Dans l’architecture métathéorique de Protokin, les savoirs et les descriptions ne se développent pas par une accumulation contemplative de représentations neutres. L’**enquête** désigne le processus dynamique, transactionnel et situé par lequel un collectif de locuteurs fait face à une perturbation de ses pratiques, explicite les limites de ses cadres descriptifs et réorganise ses concepts pour restaurer une stabilité perdue. Directement héritée du pragmatisme de John Dewey, l’enquête n'est pas une simple spéculation théorique ; elle constitue l'activité de reconstruction par laquelle une situation indéterminée et problématique est transformée en une situation déterminée, unifiée et fonctionnelle.
+Dans l'architecture de Protokin, l'enquête désigne l'activité par laquelle un locuteur, toujours inscrit dans des pratiques collectives, cherche à comprendre, décrire, justifier ou transformer une situation devenue problématique.
 
-Cette page a pour fonction conceptuelle unique d'établir la grammaire opératoire de l'enquête, en la situant comme la dynamique transitionnelle qui s'active lorsque les régimes stabilisés rencontrent l'épreuve de leurs limites internes.
+Elle n'est ni une simple recherche d'informations, ni une méthode scientifique particulière, ni une procédure réservée aux chercheurs.
 
----
+L'enquête constitue la forme générale sous laquelle un collectif produit, met à l'épreuve, corrige et réorganise ses descriptions.
 
-#### 1. Problème inaugural : le dépassement du modèle de l’esprit-spectateur
+Elle apparaît lorsqu'une pratique descriptive ne permet plus d'assurer de manière satisfaisante les engagements qu'elle rendait jusque-là possibles.
 
-La question directrice de cette page est la suivante : *Comment une communauté de locuteurs peut-elle réviser ses critères de description face à une anomalie sans supposer un accès direct à un réel en soi, et comment le changement conceptuel s'opère-t-il à partir des frictions de la pratique ?*
+L'enquête ne consiste donc pas à découvrir une réalité cachée.
 
-La tradition rationaliste ou empiriste classique appréhende la connaissance à travers le modèle de l'« esprit-spectateur ». Dans ce schéma, l'esprit contemplerait passivement une réalité extérieure déjà structurée, et la crise de la connaissance se réduirait à une erreur de copie qu'un surcroît d'attention ou d'information suffirait à dissiper. 
+Elle consiste à reconstruire les conditions dans lesquelles une situation peut redevenir intelligible, partageable et opératoire.
 
-Protokin suspend cette illusion représentationnaliste. Si l'on s'en tient à l'immanence des pratiques collectives, une crise descriptive n'est pas une simple erreur de correspondance ; elle est une rupture d'opérabilité dans le couplage entre un collectif et son milieu. Lorsque les catégories stabilisées par un régime ne parviennent plus à orienter l'action ou à soutenir de manière cohérente la charge des engagements discursifs, la situation devient indéterminée. L'enquête résout ce problème en définissant la rationalité non comme une soumission passive à un donné brut, mais comme une **activité pratique de transformation et de réorganisation conceptuelle** sous contrainte de viabilité.
+Elle constitue ainsi le mouvement dynamique qui traverse toute l'architecture fonctionnelle de Protokin.
 
----
-
-#### 2. Définition fonctionnelle
-
-Dans l'architecture de Protokin, on appelle **enquête** :
-Le processus continu et situé par lequel un collectif fait face à une situation problématique, en identifiant ses contraintes, en explicitant les limites du régime descriptif en vigueur, et en expérimentant de nouvelles configurations relationnelles afin de produire une nouvelle stabilisation normative et pratique.
-
-Cette opération implique quatre caractéristiques constitutives :
-*   **L’ancrage transactionnel :** Elle ne sépare pas le sujet connaissant du monde connu ; elle s'exécute au sein du couplage actif entre l'organisme (ou le collectif) et son milieu.
-*   **La médiation de l'audit :** Elle utilise l'audit immanent comme instrument réflexif pour rendre explicites les engagements tacites et les zones de silence du cadre saturé.
-*   **La dimension modale :** Elle ne se borne pas à enregistrer ce qui est factuellement le cas ; elle explore par l'imagination des alternatives possibles, des compatibilités de second ordre et des inférences projectives.
-*   **La visée de stabilisation :** Son succès ne se mesure pas à la découverte d'une vérité absolue, mais à sa capacité à installer un nouvel effet cliquet qui réduit le coût logique et pratique de la coordination collective.
 
 ---
 
-#### 3. La séquence de l'enquête : les phases de la transduction pratique
+1. Pourquoi une enquête devient-elle nécessaire ?
 
-L'analyse clinique d'une enquête exige de reconstruire une séquence fonctionnelle en cinq phases majeures, qui traduisent le passage de l'indétermination à la stabilisation :
+Une pratique descriptive fonctionne tant que les descriptions qu'elle produit permettent aux participants :
 
-##### 1. La situation indéterminée
-La perturbation s'annonce d'abord au niveau pré-conceptuel du couplage perception-action ou de la configuration sémiotique. Des anomalies, des résistances matérielles ou des frictions pratiques se manifestent sans pouvoir être encore qualifiées ou localisées par le régime existant. La situation perd son évidence et devient métastable.
+d'identifier les situations ;
 
-##### 2. L'institution du problème
-L'enquête s'active véritablement lorsque le collectif transforme ce trouble diffus en un problème déterminé. Cette phase exige l'intervention de l'**audit immanent** : identifier la configuration descriptive impliquée, repérer les critères de validité saturés et expliciter les zones de silence qui masquaient l'anomalie.
+de coordonner leurs actions ;
 
-##### 3. La détermination d'une structure de solutions
-Le collectif explore l'espace des possibles. C'est le moment où se déploie l'**imagination conceptuelle**. On élabore des hypothèses, on mobilise des analogies ou l'on esquisse des configurations descriptives provisoires pour tester mentalement ou localement leurs conséquences inférentielles.
+d'assumer leurs engagements ;
 
-##### 4. Le raisonnement et la traduction
-Chaque solution possible est évaluée selon sa densité inférentielle. Le collectif examine ce que l'adoption de la nouvelle description oblige à accepter et ce qu'elle exclut. C'est à cette étape que s'élaborent les **traductions partielles** destinées à assurer la compatibilité entre l'ancienne sédimentation et la nouvelle configuration.
+de justifier leurs affirmations ;
 
-##### 5. L'expérimentation et la nouvelle stabilisation
-La nouvelle configuration descriptive est mise à l'épreuve des pratiques matérielles et des justifications publiques. Si elle résiste aux objections et permet de coordonner de manière efficace les conduites, elle fait l'objet d'une sédimentation institutionnelle, technique et pédagogique, verrouillée par un nouvel **effet cliquet**.
+de résoudre les désaccords ordinaires.
 
----
 
-#### 4. Éclairage par les fils rouges
+Mais aucune pratique descriptive n'est parfaitement stable.
 
-Le fonctionnement et l'exigence de l'enquête se déploient de manière visible à travers les situations de référence :
+De nouvelles situations apparaissent.
 
-*   **Le fil rouge des urgences (un patient arrive aux urgences) :** Lorsqu'un patient se présente avec une symptomatologie confuse qui échappe aux grilles de tri standardisées du régime somatique d'urgence (tension, température, saturation), la situation de soin devient indéterminée. L'enquête s'enclenche : l'infirmière et l'urgentiste ne se contentent pas d'appliquer mécaniquement un protocole ; ils interrogent les limites de leur cadre, recourent à d'autres régimes (psychiatrique, social, cardiologique) et construisent à travers le dialogue clinique une description individualisée qui résout le problème de l'orientation thérapeutique.
-*   **Le fil rouge de la forêt (le botaniste et le bûcheron) :** Face à un dépérissement forestier inexpliqué, les cadres descriptifs ordinaires du bûcheron (rendement, coupes) et du botaniste (taxonomies locales) peuvent être mis en échec. L'enquête collective s'impose pour dépasser leurs incommensurabilités initiales. Ils doivent agencer une nouvelle configuration sémiotique (capteurs de sol, analyses chimiques, historiques de gestion) et traduire leurs observations réciproques pour identifier la cause systémique de la crise, modifiant conjointement leurs critères d'intervention et d'évaluation de la forêt.
-*   **Le fil rouge de la personne mauvaise (« Cette personne est mauvaise. ») :** L'attribution du prédicat de méchanceté au sein du régime moral ordinaire est souvent une manière de clore prématurément l'enquête en réifiant un comportement sous une essence substantielle. L'enquête protokinienne s'active pour suspendre cette évidence : elle retrace la trajectoire de l'agent, explicite les causes physiques ou sociales sous-jacentes, et propose des traductions (vers le régime juridique ou clinique) qui ouvrent de nouvelles possibilités d'action collective (sanction réglée, soin, réhabilitation) inaccessibles à la seule condamnation morale.
+De nouveaux instruments rendent visibles d'autres différences.
 
----
+Des conflits surgissent entre plusieurs régimes descriptifs.
 
-#### 5. Articulation dans l'architecture fonctionnelle
+Certaines catégories deviennent insuffisantes.
 
-Dans l'économie générale de Protokin, l'enquête n'est pas une pièce isolée, mais le mouvement de réorganisation transversale de l'architecture :
+Certaines inférences cessent d'être convaincantes.
 
-$$\text{Régimes descriptifs stabilisés} \quad (\text{reproduction verrouillée}) \quad$$
-$$\Downarrow$$
-$$\text{Tensions / Anomalies / Limites internes} \quad (\text{saturation des ressources}) \quad$$
-$$\Downarrow$$
-$$\mathbf{L'Enquête\ collective} \quad (\text{reconstruction pratique et conceptuelle}) \quad$$
-$$\Downarrow$$
-$$\text{Traductions / Transitions} \quad (\text{reconfiguration des conditions}) \quad$$
-$$\Downarrow$$
-$$\text{Nouvelle stabilisation} \quad (\text{effet cliquet historique}) \quad$$
+Certaines descriptions perdent progressivement leur capacité à organiser les pratiques qui les soutenaient.
 
-L'enquête dépend directement du diagnostic des **tensions** et de l'explicitation des **limites internes**. Elle rend possibles les **traductions entre régimes** et pilote les **transitions descriptives** globales.
+L'enquête naît précisément de cette perte d'opérativité.
+
+Elle constitue la réponse collective à une situation devenue problématique.
+
 
 ---
 
-#### 6. Pathologies et limites du concept
+2. Définition fonctionnelle
 
-L'analyse de l'enquête exige d'identifier deux dérives méthodologiques ou pratiques majeures (pitfalls) que l'audit Protokin doit diagnostiquer :
-*   **L'enquête infinie (la régression paralysante) :** Le cas où le collectif s'enferme dans une réflexivité stérile (l'audit de l'audit de l'audit), retardant indéfiniment la prise de décision et l'action pratique. Protokin rappelle que l'enquête doit trouver son point d'arrêt pragmatique dès que la situation problématique est suffisamment unifiée pour permettre la reprise du couplage.
-*   **La fermeture dogmatique prématurée :** La pathologie inverse, consistant à verrouiller artificiellement un régime en ignorant les anomalies et en réprimant la contestation par des dispositifs de force ou des arguments d'autorité non-humaine, condamnant le collectif à l'asphyxie adaptative.
+Dans Protokin, une enquête est :
+
+> une activité descriptive, située et collective, par laquelle des locuteurs cherchent à comprendre une situation, à expliciter les conditions de leurs descriptions, à mettre à l'épreuve leurs engagements et, si nécessaire, à réorganiser les régimes descriptifs qui orientent leurs pratiques.
+
+
+
+Cette définition possède plusieurs conséquences.
+
+L'enquête est toujours :
+
+située ;
+
+collective, même lorsqu'elle est conduite par un seul individu ;
+
+normative ;
+
+historique ;
+
+révisable.
+
+
+Elle ne s'effectue jamais depuis un point de vue extérieur aux pratiques.
+
+Le locuteur enquête toujours depuis une position descriptive déterminée.
+
+Ses catégories, ses critères, ses instruments et ses possibilités d'action sont déjà hérités d'une histoire collective.
+
+L'enquête n'est donc jamais le commencement absolu de la connaissance.
+
+Elle est toujours la poursuite critique d'une pratique descriptive déjà existante.
+
 
 ---
 
-#### 7. Synthèse et clôture fonctionnelle
+3. Le locuteur comme enquêteur
 
-L'enquête est l'opérateur de la plasticité rationnelle des collectifs de locuteurs. Elle démontre que la vérité n'est pas une correspondance passive avec des structures éternelles du réel, mais la réussite d'un travail de réorganisation pratique et conceptuelle face aux résistances de l'expérience.
+Dans Protokin, le locuteur n'est pas seulement celui qui produit des descriptions.
 
-Ce que cette page a établi — la fonction de l'enquête comme processus de reconstruction des situations indéterminées — permet désormais d'analyser les outils de passage réglé entre cadres de justification à travers l'étude des **traductions entre régimes**, d'évaluer les dérives d'exclusion de locuteurs au sein des communautés via l'analyse de l'**injustice épistémique**, ou de conduire méthodiquement l'examen des conditions de stabilisation grâce à la méthode de l'**audit des régimes descriptifs**.
+Il est également celui qui peut les examiner.
+
+Enquêter consiste pour le locuteur à interroger :
+
+les différences qu'il mobilise ;
+
+les catégories qu'il utilise ;
+
+les inférences qu'il accepte ;
+
+les engagements qu'il assume ;
+
+les pratiques auxquelles il participe ;
+
+les institutions qui stabilisent ces pratiques.
+
+
+L'enquête est ainsi la dimension réflexive de toute activité descriptive.
+
+Décrire et enquêter ne sont pas deux activités séparées.
+
+Toute description peut devenir l'objet d'une enquête.
+
+Toute enquête produit de nouvelles descriptions.
+
 
 ---
 
-##### Renvois complémentaires
-*   Primat du couplage perception-action
-*   Configurations sémiotiques
-*   Configurations descriptives
-*   Régimes descriptifs
-*   Audit des régimes descriptifs
-*   Tensions entre régimes
-*   Traductions entre régimes
-*   Transitions descriptives
+4. Les opérations de l'enquête
+
+Une enquête mobilise plusieurs opérations descriptives.
+
+Elle peut notamment conduire à :
+
+observer ;
+
+distinguer ;
+
+comparer ;
+
+catégoriser ;
+
+qualifier ;
+
+articuler ;
+
+expliquer ;
+
+justifier ;
+
+imaginer ;
+
+réviser.
+
+
+Ces opérations ne constituent pas des étapes obligatoires.
+
+Elles peuvent se combiner, se répéter ou se transformer selon les situations rencontrées.
+
+L'imagination occupe ici une place essentielle.
+
+Enquêter ne consiste pas seulement à examiner ce qui existe déjà.
+
+C'est également explorer des possibilités descriptives encore inemployées.
+
+Imaginer permet de produire des hypothèses, d'envisager d'autres catégorisations, de nouvelles traductions entre régimes ou d'autres organisations des différences disponibles.
+
+L'imagination appartient donc pleinement aux opérations descriptives.
+
+Elle constitue l'ouverture modale de l'enquête.
+
 
 ---
+
+5. L'audit comme instrument de l'enquête
+
+L'audit n'est pas l'enquête elle-même.
+
+Il est l'un des instruments privilégiés de l'enquête.
+
+Lorsque le locuteur entreprend une enquête, il peut décider d'auditer un régime descriptif.
+
+Cet audit consiste à expliciter :
+
+les différences mobilisées ;
+
+les catégories employées ;
+
+les critères de recevabilité ;
+
+les formes d'inférence ;
+
+les engagements produits ;
+
+les positions descriptives reconnues ;
+
+les pratiques collectives ;
+
+les conditions matérielles et institutionnelles de leur stabilisation.
+
+
+L'audit ne juge pas.
+
+Il reconstruit.
+
+Il rend visibles les dépendances fonctionnelles qui soutiennent une pratique descriptive.
+
+L'enquête peut utiliser cet audit pour comprendre pourquoi une description fonctionne, pourquoi elle rencontre des difficultés ou pourquoi elle se transforme.
+
+
+---
+
+6. Les moments de l'enquête
+
+Sans constituer une procédure rigide, une enquête peut généralement être reconstruite selon plusieurs moments fonctionnels.
+
+Une situation devient problématique
+
+Des tensions apparaissent.
+
+Les descriptions habituelles deviennent moins opératoires.
+
+Les engagements deviennent plus difficiles à maintenir.
+
+Les désaccords se multiplient.
+
+
+---
+
+Les limites sont explicitées
+
+Le locuteur cherche à comprendre ce qui ne fonctionne plus.
+
+Il examine les catégories mobilisées.
+
+Il interroge les critères utilisés.
+
+Il identifie les tensions entre plusieurs régimes descriptifs.
+
+C'est ici que l'audit trouve sa fonction.
+
+
+---
+
+De nouvelles possibilités descriptives sont explorées
+
+Le collectif imagine d'autres organisations possibles.
+
+Il construit de nouvelles distinctions.
+
+Il expérimente d'autres classifications.
+
+Il traduit certaines descriptions dans d'autres régimes.
+
+Il reformule ses engagements.
+
+
+---
+
+Une nouvelle organisation se stabilise
+
+Lorsque certaines descriptions permettent à nouveau :
+
+d'organiser les pratiques ;
+
+de coordonner les actions ;
+
+de soutenir les engagements ;
+
+de répondre aux objections ;
+
+
+elles peuvent progressivement se stabiliser.
+
+Cette stabilisation demeure toujours historique et révisable.
+
+
+---
+
+7. L'enquête est collective
+
+Même lorsqu'un individu enquête seul, il ne pense jamais seul.
+
+Ses concepts, son langage, ses critères, ses méthodes et ses instruments proviennent d'une histoire collective.
+
+L'enquête ne se déroule donc jamais entre un sujet isolé et un monde silencieux.
+
+Elle prend toujours place dans un réseau de descriptions déjà disponibles.
+
+Elle mobilise :
+
+une mémoire organique ;
+
+une mémoire collective ;
+
+des pratiques héritées ;
+
+des institutions ;
+
+des instruments ;
+
+des communautés descriptives.
+
+
+Le locuteur n'est pas propriétaire de ces ressources.
+
+Il les actualise au sein de sa propre trajectoire descriptive.
+
+
+---
+
+8. La réflexivité de l'enquête
+
+L'une des caractéristiques essentielles de Protokin est que l'enquête peut porter sur elle-même.
+
+Une méthode peut être examinée.
+
+Un audit peut être audité.
+
+Une enquête peut devenir l'objet d'une nouvelle enquête.
+
+Cette réflexivité ne conduit pas à une régression infinie.
+
+Elle signifie simplement qu'aucune pratique descriptive n'est soustraite à la possibilité d'être réexaminée.
+
+Cela vaut également pour Protokin.
+
+Protokin n'est pas situé au-dessus des autres régimes descriptifs.
+
+Il constitue lui-même un régime descriptif particulier.
+
+Il possède :
+
+ses propres catégories ;
+
+ses propres distinctions ;
+
+ses propres engagements ;
+
+ses propres critères d'analyse.
+
+
+Le recours à Protokin relève toujours d'un choix situé du locuteur.
+
+Ce choix peut être discuté, comparé, critiqué ou abandonné au profit d'autres cadres descriptifs.
+
+L'ambition de Protokin n'est pas d'imposer une description universelle des pratiques.
+
+Elle est de proposer une grammaire permettant de reconstruire leur fonctionnement.
+
+
+---
+
+9. Synthèse
+
+L'enquête constitue le mouvement vivant des pratiques descriptives.
+
+Elle permet aux collectifs :
+
+d'expliciter leurs descriptions ;
+
+d'examiner leurs engagements ;
+
+d'analyser leurs régimes descriptifs ;
+
+de comprendre leurs tensions ;
+
+d'imaginer d'autres possibilités descriptives ;
+
+de transformer leurs pratiques lorsque cela devient nécessaire.
+
+
+L'audit est l'un des instruments de cette enquête.
+
+La réflexivité garantit que cette activité peut toujours porter sur ses propres conditions d'exercice.
+
+L'enquête n'est donc pas la recherche d'un point de vue extérieur au monde.
+
+Elle est l'activité par laquelle des locuteurs, engagés dans des pratiques collectives, reconstruisent continuellement les conditions de possibilité, de maintien et de transformation de leurs descriptions.
