@@ -72,19 +72,28 @@ Elle exprime au contraire l'un de ses engagements fondamentaux : aucune descript
 
 Les principes fondamentaux
 
-Les pages qui suivent développent successivement les principaux engagements méthodologiques de Protokin :
+Les pages qui suivent développent successivement les principaux engagements méthodologiques de Protokin.
 
-- le primat du couplage perception-action ;
-- le primat de la description ;
-- le primat de l'enquête ;
-- le principe de la description située ;
-- la distinction entre l'espace des causes et l'espace des raisons ;
-- le principe d'immanence normative ;
-- le principe des dépendances fonctionnelles ;
-- le principe du pluralisme descriptif ;
-- le principe de réflexivité ;
-- le principe d'humilité épistémique.
+Chaque principe répond à une question fondamentale. Pris ensemble, ils constituent la grammaire conceptuelle qui oriente l'ensemble de l'architecture protokinienne.
 
-Ces principes ne doivent pas être lus comme une liste de règles à appliquer mécaniquement.
+- Le primat du couplage perception-action → Comment des différences deviennent-elles disponibles pour une activité descriptive ?
 
-Ils constituent des repères conceptuels qui orientent l'enquête protokinienne et permettent de reconstruire la dynamique des pratiques descriptives sans recourir à des fondements extérieurs aux pratiques elles-mêmes.
+- Le primat de la description → Pourquoi partir des descriptions plutôt que des objets eux-mêmes ?
+
+- Le primat de l'enquête → Comment les pratiques descriptives se transforment-elles lorsqu'elles rencontrent leurs propres limites ?
+
+- Le principe de la description située → Qui décrit, depuis quelle position et avec quelles ressources ?
+
+- La distinction entre l'espace des causes et l'espace des raisons → Quels types d'explications mobilisons-nous selon les situations ?
+
+- Le principe d'immanence normative → D'où viennent les normes qui rendent les descriptions recevables, discutables et révisables ?
+
+- Le principe des dépendances fonctionnelles → Comment les concepts fondamentaux de Protokin s'articulent-ils au sein d'une pratique descriptive ?
+
+- Le principe du pluralisme descriptif → Pourquoi plusieurs régimes descriptifs peuvent-ils être simultanément légitimes ?
+
+- Le principe de réflexivité → Comment les pratiques descriptives deviennent-elles elles-mêmes des objets d'analyse ?
+
+- Le principe d'humilité épistémique → Quelles sont les limites assumées de Protokin et pourquoi Protokin est-il lui-même un régime descriptif critiquable ?
+
+Ces dix principes ne constituent ni une théorie du monde, ni une liste de postulats métaphysiques. Ils définissent les conditions générales à partir desquelles Protokin analyse les pratiques descriptives, leurs régimes, leurs transformations et leurs possibilités de révision.
