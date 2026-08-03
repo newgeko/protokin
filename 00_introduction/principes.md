@@ -76,6 +76,7 @@ Les pages qui suivent développent successivement les principaux engagements mé
 
 - le primat du couplage perception-action ;
 - le primat de la description ;
+- le primat de l'enquête ;
 - le principe de la description située ;
 - la distinction entre l'espace des causes et l'espace des raisons ;
 - le principe d'immanence normative ;
