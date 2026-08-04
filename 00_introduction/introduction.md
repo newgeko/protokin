@@ -2,120 +2,118 @@
 
 > **Protokin est une métathéorie pragmatiste, inférentialiste et non-ontologique.**
 >
-> Il n’a pas pour objectif de décrire le monde tel qu’il serait indépendamment de toute pratique descriptive.
+> Son objectif n'est pas de décrire le monde tel qu'il serait indépendamment de toute pratique humaine.
 >
-> Son objet est d’analyser les conditions sous lesquelles certaines descriptions deviennent possibles, intelligibles, recevables, stabilisées, contestées ou transformées au sein de pratiques collectives.
+> Il cherche à comprendre comment certaines descriptions deviennent possibles, intelligibles, recevables, stabilisées, contestées ou transformées au sein de pratiques collectives.
 
 ---
 
 # Pourquoi Protokin ?
 
-Dans de nombreux domaines — sciences, philosophie, politique, droit, histoire ou pratiques ordinaires — les désaccords semblent souvent porter directement sur les choses elles-mêmes.
+Dans les sciences, la philosophie, le droit, la politique ou la vie quotidienne, les désaccords semblent souvent porter directement sur les objets eux-mêmes.
 
-Les questions formulées sont alors :
+Nous demandons spontanément :
 
-- Qu’est-ce qu’un organisme ?
-- Qu’est-ce qu’une personne ?
-- Qu’est-ce qu’une maladie ?
-- Qu’est-ce qu’une institution ?
-- Qu’est-ce qu’une intelligence artificielle ?
-- Qu’est-ce qui existe réellement ?
+- Qu'est-ce qu'une personne ?
+- Qu'est-ce qu'une maladie ?
+- Qu'est-ce qu'une institution ?
+- Qu'est-ce qu'une intelligence artificielle ?
+- Qu'est-ce qu'un organisme ?
+- Qu'est-ce qui existe réellement ?
+
+Ces questions sont importantes, mais elles supposent déjà que les objets dont elles parlent sont disponibles comme objets de description.
 
 Protokin propose un déplacement préalable.
 
-Avant de demander ce qu’est une chose, il faut examiner :
+Avant de demander ce qu'est une chose, il convient d'interroger les conditions qui rendent cette chose descriptible.
 
-> Sous quelles conditions cette chose devient-elle descriptible ?
+La question devient alors :
 
-L’enjeu n’est pas de nier l’existence des objets.
+> **Sous quelles conditions une description devient-elle possible ?**
 
-Il consiste à analyser les processus par lesquels certaines configurations deviennent identifiables, nommables, discutables et stabilisées comme objets de description.
+L'objet de Protokin n'est donc pas d'établir ce qui existe, mais d'analyser les conditions qui permettent à quelque chose d'être identifié, décrit, discuté, justifié, stabilisé ou transformé.
+
+---
+
+# Une métathéorie des pratiques descriptives
+
+Protokin ne constitue ni une nouvelle science, ni une ontologie générale, ni une théorie politique, ni une psychologie, ni une sociologie.
+
+Il se situe à un autre niveau.
+
+Il constitue une **métathéorie des pratiques descriptives**.
+
+Une métathéorie ne produit pas principalement de nouvelles descriptions du monde.
+
+Elle étudie les conditions de possibilité, de fonctionnement et de transformation des descriptions elles-mêmes.
+
+Elle cherche notamment à comprendre :
+
+- comment apparaissent les descriptions ;
+- comment elles deviennent intelligibles ;
+- comment elles acquièrent une recevabilité locale ;
+- comment elles engagent les locuteurs ;
+- comment elles se stabilisent ;
+- comment elles rencontrent leurs limites ;
+- comment elles peuvent être révisées ou remplacées.
+
+L'objet de Protokin n'est donc pas le monde indépendamment des pratiques, mais la manière dont les collectifs décrivent le monde.
 
 ---
 
 # Le déplacement du problème
 
-Une théorie classique cherche généralement à répondre à la question :
+La plupart des théories de la connaissance cherchent à répondre à une question centrale :
 
-> Comment est le monde ?
+> **Comment est le monde ?**
 
-Protokin déplace l’enquête vers une autre interrogation :
+Protokin déplace cette interrogation.
 
-> Comment certaines descriptions du monde deviennent-elles possibles ?
+Il demande plutôt :
+
+> **Comment certaines descriptions du monde deviennent-elles possibles ?**
 
 Ce déplacement ne remplace pas les sciences, les institutions ou les pratiques existantes.
 
-Il examine leurs conditions de fonctionnement.
+Il les prend comme objets d'analyse.
 
-L’analyse porte notamment sur :
+L'enquête porte sur les conditions qui rendent une description :
 
-- l’apparition des descriptions ;
-- leurs conditions de recevabilité ;
-- leurs réseaux d’inférences ;
-- leurs engagements ;
-- leurs mécanismes de stabilisation ;
-- leurs transformations possibles.
-
----
-
-# Une métathéorie des descriptions
-
-Protokin n’est pas :
-
-- une ontologie générale ;
-- une théorie scientifique particulière ;
-- une théorie politique ;
-- une psychologie ;
-- une sociologie ;
-- une doctrine morale.
-
-Il se situe à un autre niveau d’analyse.
-
-Il constitue une métathéorie.
-
-Une métathéorie ne cherche pas principalement à produire une nouvelle description du monde.
-
-Elle étudie les conditions sous lesquelles des descriptions peuvent fonctionner.
-
-Elle examine :
-
-- comment des catégories apparaissent ;
-- comment elles deviennent intelligibles ;
-- comment elles acquièrent une validité dans certaines pratiques ;
-- comment elles peuvent être critiquées ou transformées.
+- possible ;
+- intelligible ;
+- recevable ;
+- justifiable ;
+- reproductible ;
+- critiquable ;
+- transformable.
 
 ---
 
-# Du monde rencontré aux configurations descriptives
+# Le monde rencontré avant le monde décrit
 
 Protokin ne commence pas par des objets déjà constitués.
 
-Il commence par des configurations rencontrées dans l’expérience et les pratiques.
+Il commence par des situations rencontrées dans les interactions entre des organismes et leur environnement.
 
-Ces configurations ne sont pas encore nécessairement des objets identifiés.
+À ce niveau, il n'existe pas encore nécessairement de catégories, d'objets identifiés ou de concepts stabilisés.
 
-Elles deviennent progressivement descriptibles à travers des interactions entre :
+Le couplage entre perception et action rend progressivement certaines différences disponibles.
 
-- organismes ;
-- environnements ;
-- pratiques perceptives ;
-- actions ;
-- inscriptions sémiotiques ;
-- communautés de locuteurs.
+Ces différences pourront ensuite être organisées, sélectionnées et transformées en descriptions.
 
-Une configuration n’est donc pas encore une description stabilisée.
+Le monde n'apparaît donc pas immédiatement comme un ensemble d'objets déjà découpés.
 
-Elle constitue une possibilité d’organisation du sens.
+Il devient progressivement descriptible au sein de pratiques collectives.
 
 ---
 
-# Du couplage perception-action aux descriptions
+# Une dynamique descriptive
 
-Les descriptions ne sont pas produites comme de simples copies passives du monde.
+Une description ne surgit jamais isolément.
 
-Elles émergent à travers des processus de couplage entre des organismes, leurs environnements et leurs pratiques collectives.
+Elle s'inscrit dans une dynamique fonctionnelle où interviennent successivement plusieurs niveaux d'organisation.
 
-Une trajectoire générale peut être formulée ainsi :
+De manière simplifiée, cette dynamique peut être représentée ainsi :
 
 Configuration rencontrée
 
@@ -133,11 +131,23 @@ Configuration descriptive
 
 ↓
 
+Description
+
+↓
+
+Fonctions descriptives
+
+↓
+
+Engagements normatifs
+
+↓
+
 Régime descriptif
 
 ↓
 
-Engagements des locuteurs
+Pratiques collectives
 
 ↓
 
@@ -145,212 +155,226 @@ Stabilisation
 
 ↓
 
-Transformation possible
+Transformation
 
-Cette trajectoire n’est pas une chaîne mécanique.
+Cette succession ne décrit pas une chronologie rigide.
 
-Elle représente un mouvement général de constitution et de transformation des descriptions.
+Elle reconstruit les dépendances fonctionnelles qui rendent une pratique descriptive possible.
 
 ---
 
 # Les supports descriptifs
 
-Toute description existe à travers des supports.
+Toute description s'appuie sur des supports.
 
 Ces supports peuvent être :
 
 - corporels ;
+- incorporés ;
 - techniques ;
 - linguistiques ;
+- graphiques ;
 - institutionnels ;
-- symboliques ;
 - matériels.
 
-Un support descriptif rend possible la circulation, la transmission et la stabilisation d’une description.
+Ils permettent aux descriptions :
 
-Cependant, il ne se confond pas avec la description elle-même.
+- d'être produites ;
+- d'être conservées ;
+- d'être transmises ;
+- d'être comparées ;
+- d'être corrigées ;
+- d'être reprises par d'autres locuteurs.
 
-Un texte, un instrument, une institution ou une image peuvent soutenir une description sans constituer directement l’objet décrit.
+Les supports ne sont pas les descriptions elles-mêmes.
+
+Ils rendent simplement leur circulation et leur stabilisation possibles.
 
 ---
 
-# Les objets descriptifs
+# Les locuteurs et les engagements
 
-Dans Protokin, un objet descriptif n’est pas simplement une chose découverte indépendamment de toute pratique.
+Une description n'existe jamais sans être portée par un locuteur occupant une position dans une pratique collective.
 
-Il correspond à une stabilisation particulière dans laquelle certaines caractéristiques deviennent suffisamment constantes pour être identifiées, discutées et réutilisées.
+Décrire consiste toujours à engager :
 
-Un objet descriptif apparaît lorsqu’une communauté de locuteurs dispose :
+- une position épistémique ;
+- des ressources descriptives ;
+- des supports corporels et incorporés ;
+- des savoirs collectifs ;
+- des critères de justification.
 
-- de critères d’identification ;
-- de pratiques de reconnaissance ;
-- d’instruments de description ;
-- de mécanismes de correction.
+Le locuteur ne possède pas ces ressources comme des propriétés privées.
 
-L’objet descriptif est donc le résultat d’une stabilisation, et non un simple point de départ de l’analyse.
+Il les mobilise à partir des pratiques auxquelles il participe.
+
+Toute description engage alors sa responsabilité normative.
+
+Décrire, ce n'est pas seulement produire un énoncé.
+
+C'est également accepter les conséquences inférentielles de ce que l'on affirme, répondre aux objections possibles et reconnaître les critères propres au régime descriptif mobilisé.
 
 ---
 
 # Les régimes descriptifs
 
-Une même configuration peut être organisée selon plusieurs régimes descriptifs.
+Une même situation peut être décrite selon plusieurs régimes descriptifs.
 
-Un régime descriptif désigne une manière particulière d’établir :
+Un régime descriptif organise notamment :
 
-- ce qui compte comme pertinent ;
-- ce qui peut être affirmé ;
-- ce qui doit être justifié ;
-- ce qui peut être corrigé.
+- ce qui peut être observé ;
+- ce qui devient pertinent ;
+- les catégories disponibles ;
+- les critères de justification ;
+- les formes d'inférence ;
+- les procédures de correction.
 
-Une même situation peut ainsi recevoir plusieurs descriptions :
+Une même situation pourra ainsi recevoir des descriptions :
 
-- biologique ;
-- psychologique ;
-- juridique ;
-- historique ;
-- économique ;
-- politique ;
-- technique ;
-- phénoménologique.
+- biologiques ;
+- juridiques ;
+- historiques ;
+- économiques ;
+- psychologiques ;
+- techniques ;
+- politiques ;
+- phénoménologiques.
 
 Ces descriptions ne sont pas nécessairement concurrentes.
 
-Elles peuvent répondre à des problèmes différents et fonctionner selon des critères distincts.
+Elles répondent souvent à des questions différentes et poursuivent des finalités distinctes.
 
 ---
 
-# Les engagements des locuteurs
+# Les deux images du monde
 
-Décrire n’est jamais une opération neutre.
+À la suite de Wilfrid Sellars, Protokin distingue deux grandes manières d'organiser nos descriptions.
 
-Toute description engage celui qui la produit.
+L'image manifeste correspond au monde tel qu'il apparaît dans les pratiques ordinaires.
 
-Lorsqu’un locuteur affirme quelque chose, il entre dans un espace d’engagements.
+Elle mobilise les personnes, les intentions, les responsabilités, les institutions, les objets familiers et les catégories du sens commun.
 
-Il devient responsable :
+L'image scientifique décrit le monde à partir des théories, des instruments et des modèles produits par les sciences.
 
-- de ce qu’il affirme ;
-- des conséquences de son affirmation ;
-- des compatibilités qu’il doit reconnaître ;
-- des justifications qu’il doit pouvoir fournir.
+Ces deux images ne doivent être ni opposées ni confondues.
 
-Dans cette perspective, comprendre une description consiste aussi à comprendre les engagements qu’elle introduit.
+L'une ne remplace pas l'autre.
 
-Cette approche rejoint notamment l’inférentialisme développé par Wilfrid Sellars et Robert Brandom.
+L'enquête consiste souvent à comprendre leurs articulations, leurs tensions, leurs traductions possibles et les erreurs produites lorsqu'un régime prétend se substituer entièrement à l'autre.
+
+---
+
+# Les engagements et l'espace des raisons
+
+Toute description introduit un engagement.
+
+Affirmer quelque chose signifie accepter un ensemble de conséquences.
+
+Le locuteur devient responsable :
+
+- de ce qu'il affirme ;
+- des inférences qu'il autorise ;
+- des incompatibilités qu'il reconnaît ;
+- des justifications qu'il pourra fournir.
+
+La rationalité n'est donc pas une propriété intérieure de l'esprit.
+
+Elle prend forme dans des pratiques publiques où les raisons peuvent être demandées, discutées, critiquées et révisées.
 
 ---
 
 # Stabilisation et transformation
 
-Les descriptions ne demeurent pas fixes.
+Les descriptions ne demeurent jamais définitivement acquises.
 
-Elles évoluent avec les pratiques qui les portent.
+Certaines deviennent durables grâce :
 
-Certaines descriptions deviennent durablement disponibles grâce à :
+- aux apprentissages ;
+- aux institutions ;
+- aux instruments ;
+- aux textes ;
+- aux communautés de pratique ;
+- aux habitudes collectives.
 
-- des institutions ;
-- des apprentissages ;
-- des instruments ;
-- des communautés ;
-- des procédures de validation.
+D'autres rencontrent progressivement leurs limites.
 
-D’autres perdent leur capacité à organiser efficacement les pratiques.
+Des tensions apparaissent.
 
-Protokin étudie ces transformations à travers :
+Des anomalies s'accumulent.
 
-- les tensions entre régimes ;
-- les traductions ;
-- les transitions ;
-- les changements de stabilisation.
+Les critères deviennent insuffisants.
+
+Les catégories doivent être réorganisées.
+
+L'enquête permet alors d'expliciter ces tensions, d'explorer de nouvelles possibilités descriptives et de produire de nouvelles stabilisations.
 
 ---
 
-# Une métathéorie non-ontologique
+# Une métathéorie réflexive
 
-Le caractère non-ontologique de Protokin ne signifie pas que toutes les descriptions se valent.
+Protokin ne prétend occuper aucun point de vue extérieur ou privilégié.
 
-Il signifie qu’aucune description ne peut être considérée comme un fondement absolu indépendant des pratiques qui la rendent opératoire.
+Il appartient lui-même à un régime descriptif.
 
-Une description possède une puissance relative à :
+Ses concepts, ses méthodes et ses principes peuvent être examinés, discutés, comparés et révisés.
 
-- ses capacités d’explication ;
-- ses capacités de coordination ;
-- ses capacités de prédiction ;
-- ses capacités d’action ;
-- ses capacités de stabilisation.
+L'audit ne s'applique donc pas uniquement aux autres pratiques.
 
-La question centrale n’est donc pas :
+Il s'applique également à Protokin lui-même.
 
-> Quelle description correspond au réel en soi ?
-
-Mais :
-
-> Quelles conditions rendent cette description intelligible, recevable et puissante dans une pratique donnée ?
+Cette réflexivité constitue l'un de ses engagements fondamentaux.
 
 ---
 
 # Ce que permet Protokin
 
-Protokin fournit un cadre permettant :
+Protokin fournit une méthode permettant de :
 
-- d’identifier les configurations descriptives ;
-- d’analyser les régimes mobilisés ;
-- de reconstruire les engagements produits ;
-- d’étudier les mécanismes de stabilisation ;
-- de repérer les confusions de niveaux ;
-- d’analyser les tensions ;
-- d’examiner les transformations possibles.
+- reconstruire les pratiques descriptives ;
+- identifier les régimes mobilisés ;
+- analyser les engagements des locuteurs ;
+- comprendre les conditions de recevabilité ;
+- expliciter les dépendances fonctionnelles ;
+- comparer plusieurs descriptions d'une même situation ;
+- repérer les tensions entre régimes ;
+- accompagner les transformations descriptives.
 
-Il peut être appliqué à des domaines variés :
+Il ne remplace aucune discipline particulière.
 
-- sciences ;
-- histoire ;
-- politique ;
-- droit ;
-- institutions ;
-- religion ;
-- économie ;
-- technologies ;
-- intelligence artificielle ;
-- pratiques quotidiennes.
+Il propose une grammaire commune permettant d'analyser leur fonctionnement descriptif.
 
 ---
 
 # Parcours de lecture
 
-La documentation Protokin peut être parcourue selon trois mouvements complémentaires.
+La documentation peut être parcourue selon trois itinéraires complémentaires.
 
-## Comprendre l’architecture
+## Comprendre l'architecture
 
-- Architecture générale
-- Configurations descriptives
-- Supports descriptifs
-- Niveaux descriptifs
-- Régimes descriptifs
-- Locuteur normatif
-- Engagements
-- Stabilisation
-
----
+- Les principes fondamentaux
+- L'architecture générale
+- L'architecture fonctionnelle
+- Les configurations descriptives
+- Les régimes descriptifs
+- Les engagements
+- Les pratiques collectives
 
 ## Comprendre la méthode
 
-- Audit Protokin
-- Lecture d’une configuration
-- Identification des régimes
-- Comparaison des descriptions
-- Diagnostics des tensions
-
----
+- L'enquête
+- L'audit
+- Les traductions entre régimes
+- Les tensions descriptives
+- Les transformations des pratiques
 
 ## Comprendre les applications
 
-- Géocentrisme et héliocentrisme
-- Théorie des humeurs
-- Phlogistique et chimie
-- Maladies mentales
-- Changement climatique
-- Intelligence artificielle
+- Les controverses scientifiques
+- Les classifications médicales
+- Le droit
+- Les institutions
+- L'intelligence artificielle
+- Le fil rouge : « Cette personne est mauvaise »
 
 ---
 
@@ -358,4 +382,6 @@ La documentation Protokin peut être parcourue selon trois mouvements complémen
 
 > **Protokin ne cherche pas à décrire le monde depuis un point de vue extérieur.**
 >
-> **Il analyse les conditions sous lesquelles des descriptions du monde deviennent possibles, intelligibles, recevables, stabilisées, contestées ou transformables au sein de pratiques collectives.**
+> **Il analyse les conditions sous lesquelles des collectifs de locuteurs produisent, justifient, stabilisent, contestent et transforment leurs descriptions du monde.**
+>
+> **Il constitue ainsi une métathéorie pragmatiste, inférentialiste, réflexive et non-ontologique des pratiques descriptives.**
