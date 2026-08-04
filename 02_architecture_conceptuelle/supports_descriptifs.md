@@ -1,106 +1,483 @@
+Voici la page entièrement réécrite en intégrant les corrections :
+
+distinction stricte entre configuration sémiotique et support descriptif ;
+
+retrait de toute formulation trop ontologique (« manifestation ») ;
+
+clarification du rôle des supports dans l'espace des raisons ;
+
+distinction entre supports externes et supports incorporés ;
+
+limitation des exemples institutionnels ;
+
+renforcement de l'articulation avec l'architecture Protokin.
+
+
 # Le support descriptif
 
-#### Les médiations matérielles, sémiotiques et institutionnelles des descriptions
+## Les conditions matérielles, techniques et institutionnelles de circulation des descriptions
 
-Dans l’architecture métathéorique de Protokin, une description n’existe jamais sous une forme purement abstraite ou désincarnée. Elle ne flotte pas dans un espace conceptuel pur : elle apparaît, se transmet, circule et se maintient toujours à travers des médiations concrètes. Le **support descriptif** désigne ce milieu matériel, sémiotique ou institutionnel par lequel une configuration descriptive devient accessible, transmissible et analysable au sein des pratiques collectives. 
+Dans l’architecture métathéorique de Protokin, aucune description n’existe indépendamment des conditions pratiques qui permettent son inscription, sa transmission et sa reprise par une communauté de locuteurs.
 
-Cette page établit la fonction du support descriptif en tant que condition de manifestation et de circulation des descriptions, située précisément entre l'armature sémiotique et l'organisation des configurations descriptives.
+Une description ne subsiste pas comme une entité abstraite qui pourrait circuler seule dans un espace conceptuel pur. Elle dépend toujours de médiations qui rendent possible sa conservation, sa circulation, son interprétation et sa transformation.
 
----
+Le **support descriptif** désigne l’ensemble des médiations matérielles, techniques, institutionnelles ou incorporées grâce auxquelles une configuration descriptive peut être maintenue, transportée et mobilisée au sein d’une pratique collective.
 
-#### 1. Problème inaugural : l'illusion de la description désincarnée
+Cette page établit donc la fonction du support descriptif comme condition de disponibilité durable des descriptions.
 
-La question directrice de cette page s'énonce ainsi : *Par quels vecteurs matériels et pratiques des descriptions cessent-elles d'être de simples événements éphémères pour devenir des objets maniables et transmissibles à distance ?*
+Elle se situe entre :
 
-Le représentationnalisme classique et l'idéalisme linguistique commettent fréquemment l'erreur de traiter le langage ou la pensée comme des essences autonomes, détachées de leurs conditions matérielles d'inscription. Dans ces modèles, le support physique est considéré comme un accessoire secondaire ou un canal neutre qui se bornerait à transporter une signification déjà constituée. 
-
-Protokin suspend cette illusion de transparence. Fidèle à sa perspective pragmatiste et fonctionnaliste, elle pose qu'aucune description ne peut s'énoncer ou s'évaluer dans le vide. Pour qu'une différence prélevée dans le milieu acquière une portée normative et puisse engager un locuteur devant une communauté, elle doit être consignée, fixée et transportée par un support physique ou institutionnel qui en garantit la permanence et la résistance face au flux temporel. Le problème de l'objectivité descriptive est ainsi ramené à l'analyse des infrastructures matérielles de sa stabilisation.
-
----
-
-#### 2. Définition fonctionnelle
-
-Dans l'architecture de Protokin, on appelle **support descriptif** :
-Une médiation matérielle, sémiotique ou institutionnelle par laquelle une configuration descriptive peut apparaître, circuler, être interprétée et éventuellement se stabiliser au sein d'un régime descriptif.
-
-Cette définition implique de tracer des distinctions rigoureuses. Le support descriptif **n'est pas** :
-*   **L'objet décrit :** Un graphique, un dossier médical ou un registre ne se confond pas avec le phénomène physique, clinique ou social qu'il objective.
-*   **La configuration descriptive elle-même :** Le support est le milieu de manifestation et de transport d'une description, tandis que la configuration en désigne l'organisation relationnelle et logique.
-*   **Un simple canal neutre :** Il ne se borne pas à stocker ou transporter passivement des données, mais contraint et filtre activement les opérations descriptives.
+- la **configuration sémiotique**, qui rend certaines différences accessibles et partageables ;
+- la **configuration descriptive**, qui organise ces différences dans un réseau relationnel de catégories et d’inférences ;
+- le **régime descriptif**, qui définit les normes de recevabilité, de justification et d’évaluation.
 
 ---
 
-#### 3. La non-neutralité active des supports
+# 1. Problème inaugural : dépasser l’idée d’une description sans support
 
-Un support descriptif ne se limite pas à stocker passivement des distinctions ; il reconfigure activement l'espace des raisons. Sa structure, ses contraintes techniques et ses formats modifient de fait les conditions de l'exercice descriptif :
-*   **Les supports textuels et graphiques** (bases de données, formulaires, diagrammes, flores imprimées) standardisent les critères de tri, stabilisent les taxonomies à grande distance et contraignent le locuteur à couler son expérience dans des formats pré-établis.
-*   **Les supports techniques et instrumentaux** (capteurs, moniteurs, outils de mesure) opèrent un prélèvement automatique de contrastes physiques qu'ils convertissent en signaux lisibles, modifiant ce qui devient visible et ce qui circule.
-*   **Les supports incorporés** (habitudes corporelles, dispositions perceptives, gestes professionnels) sédimentent les critères directement dans la mémoire biologique et pratique des agents, permettant une coordination immédiate sans recours constant à une formulation explicite.
+La question directrice de cette page est :
 
----
+> Comment une description cesse-t-elle d’être un événement local et temporaire pour devenir une ressource durable, transmissible et réutilisable dans une pratique collective ?
 
-#### 4. Typologie fonctionnelle des supports descriptifs
+Une conception classique du langage tend parfois à considérer le support matériel comme un simple véhicule secondaire.
 
-Les supports mobilisés dans les pratiques descriptives peuvent prendre des formes diversifiées, classées selon leur mode d'intervention et de stabilisation :
-*   **Supports textuels :** Livres, articles, archives, rapports et publications scientifiques, qui assurent la conservation et la transmission intergénérationnelle des configurations.
-*   **Supports visuels :** Photographies, cartes, schémas et graphiques, qui organisent des régimes spécifiques de visibilité.
-*   **Supports instrumentaux :** Appareils de mesure, dispositifs expérimentaux, capteurs et outils techniques, qui participent à la stabilisation des objets scientifiques.
-*   **Supports institutionnels :** Administrations, tribunaux, laboratoires et organisations, qui maintiennent et réglementent des pratiques collectives de reconnaissance.
-*   **Supports numériques :** Bases de données, algorithmes, plateformes et systèmes d'information, qui introduisent de nouvelles dynamiques de sélection et de circulation.
-*   **Supports incorporés :** Dispositions corporelles, habitudes perceptives et compétences pratiques acquises au cours de trajectoires d'apprentissage, permettant d'identifier des situations de manière immédiate.
+Dans cette perspective, la signification serait déjà constituée dans une pensée ou dans un langage abstrait, tandis que l’écriture, les instruments ou les institutions ne feraient que transporter une information préexistante.
 
----
+Protokin refuse cette séparation.
 
-#### 5. Éclairage par les fils rouges
+Une description n’existe jamais uniquement comme contenu abstrait.
 
-L'intervention des supports descriptifs et leur rôle de cadres normatifs s'observent à travers les situations de référence de la documentation :
+Pour devenir partageable, elle doit être inscrite dans des dispositifs qui permettent :
 
-*   **Le fil rouge du vélo (« Le vélo est rouge. ») :** Même cette assertion perceptive ordinaire s'adosse à des supports. Elle mobilise des supports matériels (l'onde sonore de la parole portée par l'air, le catalogue commercial où figure l'objet) mais surtout des supports incorporés (les habitudes perceptives et le système visuel stabilisé de la communauté de locuteurs qui reconnaissent la « rougeur » sous des éclairages variables), montrant que l'évidence perceptive est une performance outillée.
-*   **Le fil rouge des urgences (un patient arrive aux urgences) :** C'est le lieu d'une hétérogénéité et d'une stratification massive de supports. L'intelligibilité de la situation clinique repose sur des feuilles de tri manuscrites ou numériques, des écrans de monitorage cardiaque (supports instrumentaux), des dossiers médicaux partagés (supports institutionnels et textuels), et les gestes techniques incorporés du personnel infirmier. Chacun de ces supports filtre et filtre activement la manière dont le patient devient descriptible pour chaque spécialité.
-*   **Le fil rouge de la forêt (le botaniste et le bûcheron) :** Leurs descriptions divergentes de la forêt s'adossent à des infrastructures matérielles distinctes. Le botaniste s'appuie sur des flores imprimées, des herbiers, des clés de détermination et des carnets de terrain (supports textuels et sémiotiques). Le bûcheron mobilise des repères visuels inscrits directement sur l'écorce des arbres et des dispositions corporelles façonnées par l'exercice du métier (le son du bois sous la hache, l'appréciation visuelle de la rectitude du fût). Leurs savoirs respectifs sont indissociables des instruments physiques et corporels qui les portent.
-*   **Le fil rouge de la personne dangereuse (« Cette personne est dangereuse. ») :** La production et la stabilisation de cette catégorie sécuritaire dépendent d'un support institutionnel et numérique lourd : le fichier de police, la base de données de sécurité nationale ou la fiche de signalement. Sans ces supports matériels d'inscription, la qualification resterait une impression locale éphémère ; fixée sur le support, elle acquiert une inertie institutionnelle redoutable, opposant un effet cliquet difficilement réversible à la trajectoire de l'individu.
-*   **Le fil rouge de la personne mauvaise (« Cette personne est mauvaise. ») :** Les qualifications morales s'appuient sur des supports d'inscription hautement institutionnalisés : codes de conduite écrits, réputations consignées, récits transmis, rituels d'exclusion ou expressions codées de blâme. La configuration morale ne flotte pas ; elle est matérialisée par ces dispositifs qui permettent au collectif de faire circuler les marques d'approbation et d'exiger des comptes.
+- sa conservation ;
+- sa répétition ;
+- sa comparaison ;
+- sa transmission ;
+- sa contestation.
+
+Le support descriptif n’est donc pas un simple contenant extérieur.
+
+Il constitue une condition pratique de circulation et de stabilisation des descriptions.
 
 ---
 
-#### 6. Articulation dans l'architecture fonctionnelle
+# 2. Définition fonctionnelle
 
-Dans la genèse immanente des pratiques de description, le support descriptif s'insère comme le connecteur indispensable entre la matérialité sémiotique et la logique relationnelle des catégories :
+Dans l’architecture de Protokin, on appelle **support descriptif** :
 
-$$\text{Configuration sémiotique} \quad (\text{différences inscrites et partageables}) \quad$$
-$$\Downarrow$$
-$$\mathbf{Support\ descriptif} \quad (\text{milieu matériel, technique ou institutionnel de manifestation}) \quad$$
-$$\Downarrow$$
-$$\text{Configuration descriptive} \quad (\text{organisation relationnelle des possibles et des incompatibilités}) \quad$$
-$$\Downarrow$$
-$$\text{Régime descriptif} \quad (\text{normes de recevabilité, d'assertion et de justification}) \quad$$
+> Une médiation matérielle, technique, institutionnelle ou incorporée qui permet à une configuration descriptive d’être conservée, transmise, mobilisée et transformée au sein d’une pratique collective.
 
-Le support matérialise la transition entre la simple disponibilité des différences inscrites (niveau sémiotique) et l'émergence d'une configuration intelligible, tout en fournissant l'ancrage nécessaire aux processus de stabilisation et de verrouillage (effet cliquet).
+Cette définition implique plusieurs distinctions.
 
 ---
 
-#### 7. Limites fonctionnelles du concept
+## 2.1 Le support n’est pas l’objet décrit
 
-L'analyse des supports descriptifs doit composer avec deux contraintes ou limites internes :
-*   **La clôture matérielle (Zones de silence) :** Aucun support n'est infini ou universel. En cadrant la visibilité, un support exclut structurellement d'autres dimensions de l'expérience, générant des zones de silence systématiques (par exemple, le formulaire administratif des urgences qui n'offre aucune case pour consigner la détresse existentielle du patient, ou la base de données policière qui aplatit la complexité d'une trajectoire de vie sous une fiche standardisée).
-*   **L'usure et la dérive diachronique :** Les supports physiques se dégradent, les technologies deviennent obsolètes, et les dispositions incorporées s'altèrent si elles ne sont pas entretenues par un apprentissage constant. La survie d'une description exige donc un travail permanent de maintenance, de duplication et de transmission sur de nouveaux supports.
+Un support descriptif ne se confond jamais avec ce qu’il permet de décrire.
+
+Un dossier médical n’est pas le patient.
+
+Une carte n’est pas le territoire.
+
+Un registre administratif n’est pas la trajectoire d’une personne.
+
+Un graphique scientifique n’est pas le phénomène physique étudié.
+
+Le support organise l’accès descriptif à une situation sans devenir cette situation elle-même.
+
+---
+
+## 2.2 Le support n’est pas la configuration descriptive
+
+Le support et la configuration descriptive remplissent deux fonctions différentes.
+
+La configuration descriptive concerne :
+
+- l’organisation des catégories ;
+- les relations entre propriétés ;
+- les possibilités d’inférence ;
+- les incompatibilités conceptuelles.
+
+Le support descriptif concerne :
+
+- l’inscription ;
+- la conservation ;
+- la circulation ;
+- la reprise pratique.
+
+Ainsi :
+
+> La configuration descriptive organise ce qui peut être affirmé ; le support descriptif permet que cette organisation puisse être maintenue et mobilisée.
 
 ---
 
-#### 8. Synthèse et clôture fonctionnelle
+## 2.3 Le support n’est pas un canal neutre
 
-Le support descriptif démontre qu'aucune description ne se maintient ou ne circule hors de médiations matérielles, sémiotiques, techniques ou institutionnelles. La matérialité de l'inscription n'est pas un véhicule secondaire, mais une condition active de possibilité, d'évaluation et de transformation des pratiques descriptives collectives.
+Un support ne transporte jamais simplement une description déjà constituée.
 
-Ce que cette page a établi — le rôle du support comme milieu de transport et de fixation des contrastes — permet désormais d'examiner comment ces invariants ainsi portés sont structurés sous forme de réseaux logiques par les **configurations descriptives**, d'évaluer comment s'exercent les contrôles publics de conformité au sein des **régimes descriptifs**, ou d'analyser l'accumulation historique de ces infrastructures à travers l'étude de la **stabilisation et de l'effet cliquet**.
+Sa forme influence ce qui peut être enregistré, conservé et transmis.
+
+Un formulaire administratif, une base de données, un graphique scientifique ou un instrument de mesure imposent toujours certaines possibilités d’inscription et excluent certaines autres.
+
+Le support participe donc aux conditions matérielles d’accès aux descriptions.
+
+---
+
+# 3. La fonction active des supports descriptifs
+
+Les supports descriptifs ne sont pas de simples réceptacles.
+
+Ils participent à l’organisation des pratiques descriptives.
+
+Ils agissent notamment selon trois dimensions.
 
 ---
 
-##### Renvois complémentaires
-*   Configurations sémiotiques
-*   Configurations descriptives
-*   Régimes descriptifs
-*   Supports incorporés et dispositions corporelles
-*   Stabilisation et effet cliquet
-*   Audit des régimes descriptifs
+## 3.1 Stabiliser
+
+Un support permet à une description de résister à la disparition immédiate de l’expérience.
+
+Une observation orale disparaît avec la situation.
+
+Une inscription écrite, graphique ou numérique peut être reprise ultérieurement.
+
+Le support produit ainsi une continuité temporelle.
 
 ---
+
+## 3.2 Transporter
+
+Un support permet à une description de circuler entre différents locuteurs, lieux ou moments.
+
+Un article scientifique, un dossier médical ou une archive permettent à des acteurs qui ne partagent pas la même expérience immédiate de travailler à partir d’une même inscription.
+
+Le support élargit ainsi l’espace pratique dans lequel une description peut être discutée.
+
+---
+
+## 3.3 Contraindre
+
+Un support ne transmet pas seulement une description.
+
+Il organise également les formes possibles de son expression.
+
+Une grille d’évaluation, une base de données ou un protocole expérimental déterminent :
+
+- quelles distinctions peuvent être enregistrées ;
+- quelles catégories sont disponibles ;
+- quelles comparaisons deviennent possibles.
+
+Le support agit donc sur les conditions matérielles d’exercice de l’espace des raisons.
+
+Il ne produit pas directement la normativité, mais il structure les conditions dans lesquelles les engagements descriptifs peuvent être formulés et évalués.
+
+---
+
+# 4. Typologie fonctionnelle des supports descriptifs
+
+Les supports descriptifs peuvent être distingués selon leur mode de stabilisation.
+
+---
+
+## 4.1 Supports textuels
+
+Ils assurent la conservation et la transmission des descriptions par l’écriture.
+
+Exemples :
+
+- livres ;
+- articles scientifiques ;
+- archives ;
+- rapports ;
+- carnets ;
+- documents administratifs.
+
+Ils permettent la reprise différée des descriptions.
+
+---
+
+## 4.2 Supports visuels et graphiques
+
+Ils organisent des formes particulières de visibilité et de comparaison.
+
+Exemples :
+
+- cartes ;
+- schémas ;
+- graphiques ;
+- photographies ;
+- diagrammes.
+
+Ils rendent certaines relations directement accessibles sous une forme spatiale.
+
+---
+
+## 4.3 Supports instrumentaux
+
+Ils produisent des inscriptions issues d’interactions techniques avec le milieu.
+
+Exemples :
+
+- capteurs ;
+- appareils de mesure ;
+- instruments médicaux ;
+- dispositifs expérimentaux.
+
+Ils transforment certaines variations physiques en traces exploitables par une pratique descriptive.
+
+---
+
+## 4.4 Supports institutionnels
+
+Ils stabilisent collectivement des pratiques de description.
+
+Exemples :
+
+- tribunaux ;
+- laboratoires ;
+- administrations ;
+- organisations professionnelles.
+
+Ils assurent la continuité des critères, des procédures et des responsabilités.
+
+---
+
+## 4.5 Supports numériques
+
+Ils introduisent de nouvelles formes de stockage, de circulation et de traitement.
+
+Exemples :
+
+- bases de données ;
+- systèmes d’information ;
+- plateformes numériques ;
+- archives informatiques.
+
+Ils augmentent la capacité de conservation tout en introduisant de nouvelles formes de sélection et de filtrage.
+
+---
+
+## 4.6 Supports incorporés
+
+Certains supports ne sont pas extérieurs au corps.
+
+Ils correspondent à des compétences stabilisées par apprentissage.
+
+Exemples :
+
+- gestes professionnels ;
+- habitudes perceptives ;
+- savoir-faire techniques ;
+- compétences d’identification.
+
+Un support incorporé n’est pas le corps lui-même.
+
+Il désigne une mémoire pratique et perceptive acquise dans une trajectoire d’apprentissage.
+
+---
+
+# 5. Éclairage par les fils rouges
+
+## 5.1 Le vélo rouge : « Le vélo est rouge »
+
+Même une description ordinaire repose sur des supports.
+
+La reconnaissance de la couleur dépend de supports incorporés :
+
+- apprentissages perceptifs ;
+- habitudes de discrimination ;
+- compétences linguistiques partagées.
+
+Elle peut également dépendre de supports externes :
+
+- photographies ;
+- catalogues ;
+- descriptions techniques.
+
+Le support permet ici à une distinction perceptive de devenir transmissible et réutilisable.
+
+---
+
+## 5.2 Le patient aux urgences
+
+La situation médicale repose sur une pluralité de supports :
+
+- dossier médical ;
+- constantes enregistrées ;
+- résultats biologiques ;
+- images médicales ;
+- protocoles institutionnels.
+
+Ces supports ne sont pas de simples archives.
+
+Ils organisent les possibilités de coordination entre différents acteurs :
+
+- infirmiers ;
+- urgentistes ;
+- spécialistes ;
+- biologistes.
+
+Le patient devient descriptible à travers un ensemble distribué de médiations.
+
+---
+
+## 5.3 Le botaniste et le bûcheron
+
+Les deux acteurs ne disposent pas des mêmes supports descriptifs.
+
+Le botaniste mobilise :
+
+- flores ;
+- herbiers ;
+- carnets ;
+- instruments d’identification.
+
+Le bûcheron mobilise :
+
+- outils ;
+- repères pratiques ;
+- compétences corporelles ;
+- apprentissages professionnels.
+
+Leur différence descriptive ne vient pas seulement de ce qu’ils observent, mais aussi des supports qui organisent leur manière de rendre certaines différences pertinentes.
+
+---
+
+## 5.4 « Cette personne est dangereuse »
+
+Une qualification de dangerosité peut être maintenue par différents supports :
+
+- signalements ;
+- dossiers institutionnels ;
+- archives ;
+- témoignages consignés ;
+- procédures administratives.
+
+Ces supports donnent une durée et une circulation collective à une qualification qui, sans inscription, resterait limitée à une expérience locale.
+
+Ils peuvent également produire une inertie descriptive lorsque certaines inscriptions deviennent difficiles à réviser.
+
+---
+
+## 5.5 « Cette personne est mauvaise »
+
+Les qualifications morales circulent également à travers des supports :
+
+- récits transmis ;
+- textes normatifs ;
+- traditions collectives ;
+- archives ;
+- expressions publiques.
+
+Ces supports permettent à des évaluations morales d’être conservées, reprises et contestées.
+
+---
+
+# 6. Articulation dans l’architecture Protokin
+
+Le support descriptif occupe une position intermédiaire dans la construction des descriptions :
+
+Couplage perception-action
+
+↓
+
+Configuration sémiotique
+
+(Différences inscrites et rendues disponibles)
+
+↓
+
+Support descriptif
+
+(Médiations matérielles, techniques, institutionnelles et incorporées)
+
+↓
+
+Configuration descriptive
+
+(Organisation relationnelle des catégories et des inférences)
+
+↓
+
+Régime descriptif
+
+(Normes de recevabilité, justification et évaluation)
+
+Cette articulation permet d’éviter plusieurs confusions :
+
+- les différences disponibles ne sont pas encore des descriptions ;
+- les supports ne sont pas encore des catégories ;
+- les catégories ne sont pas encore des engagements normatifs.
+
+Chaque niveau possède une fonction propre.
+
+---
+
+# 7. Limites fonctionnelles des supports
+
+## 7.1 Les zones de silence
+
+Tout support sélectionne.
+
+En rendant certaines informations disponibles, il en laisse nécessairement d’autres hors champ.
+
+Un formulaire administratif, une base de données ou un protocole scientifique définissent toujours un espace limité d’inscription.
+
+Le support produit donc des zones de silence.
+
+---
+
+## 7.2 L’obsolescence
+
+Les supports peuvent disparaître ou devenir inutilisables.
+
+Les technologies vieillissent.
+
+Les archives se dégradent.
+
+Les compétences incorporées peuvent disparaître lorsqu’elles ne sont plus transmises.
+
+La continuité descriptive exige donc un travail permanent de maintenance et de transmission.
+
+---
+
+## 7.3 L’inertie descriptive
+
+Les supports peuvent également renforcer la stabilité excessive d’une description.
+
+Une inscription durable peut devenir difficile à remettre en question.
+
+Le support contribue ainsi aux phénomènes de maintien et d’effet cliquet étudiés dans la dynamique descriptive.
+
+---
+
+# 8. Synthèse et clôture fonctionnelle
+
+Le support descriptif établit que les descriptions ne circulent jamais indépendamment des médiations qui les portent.
+
+Il ne constitue pas un simple véhicule extérieur.
+
+Il participe aux conditions matérielles de conservation, de transmission et de transformation des pratiques descriptives.
+
+La configuration sémiotique rend les différences disponibles.
+
+Le support descriptif permet leur maintien et leur circulation.
+
+La configuration descriptive organise leurs relations.
+
+Le régime descriptif détermine leurs conditions de recevabilité.
+
+Cette distinction permet désormais d'étudier comment les différences ainsi maintenues deviennent des structures descriptives organisées dans les **configurations descriptives**, puis comment elles sont évaluées et transformées dans les **régimes descriptifs**.
+
+---
+
+# Renvois complémentaires
+
+- Configuration sémiotique
+- Configuration descriptive
+- Description
+- Régimes descriptifs
+- Supports incorporés
+- Maintien et reproduction
+- Effet cliquet
+- Audit des régimes descriptifs
