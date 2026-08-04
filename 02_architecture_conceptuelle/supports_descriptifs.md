@@ -1,18 +1,3 @@
-Voici la page entièrement réécrite en intégrant les corrections :
-
-distinction stricte entre configuration sémiotique et support descriptif ;
-
-retrait de toute formulation trop ontologique (« manifestation ») ;
-
-clarification du rôle des supports dans l'espace des raisons ;
-
-distinction entre supports externes et supports incorporés ;
-
-limitation des exemples institutionnels ;
-
-renforcement de l'articulation avec l'architecture Protokin.
-
-
 # Le support descriptif
 
 ## Les conditions matérielles, techniques et institutionnelles de circulation des descriptions
