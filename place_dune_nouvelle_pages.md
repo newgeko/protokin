@@ -1,68 +1,66 @@
 # Décider de la place d'une nouvelle page dans Protokin
 
-Avant de rédiger une nouvelle page, il convient de déterminer sa fonction dans l'architecture générale.
+Avant de rédiger une nouvelle page, il est nécessaire de déterminer si cette page doit exister, quelle est sa fonction conceptuelle et où elle s'inscrit dans l'architecture générale de Protokin.
 
-## 1. Quel problème cette page résout-elle ?
+Une page n'est jamais créée pour ajouter une information, mais pour remplir une fonction précise dans l'organisation de la théorie. Son existence doit être justifiée par son rôle au sein de l'architecture conceptuelle.
 
-Une page n'existe pas parce qu'un concept est intéressant, mais parce qu'elle répond à une question nécessaire.
+---
 
-## 2. Que doit-elle établir ?
+# 1. Cette page est-elle nécessaire ?
 
-La page doit avoir un objet propre.
-Elle ne doit ni répéter ni anticiper ce qu'une autre page a pour fonction d'établir.
+Avant toute chose, il convient de se demander si le concept mérite réellement une page autonome.
 
-## 3. De quoi dépend-elle ?
+Certaines idées peuvent être développées à l'intérieur d'une page existante. Une nouvelle page n'est justifiée que lorsqu'elle possède une fonction conceptuelle propre.
 
-Quels concepts doivent déjà être compris pour que cette page soit lisible ?
+**Questions :**
 
-Ces concepts déterminent les dépendances de la page.
+- Cette idée nécessite-t-elle une page indépendante ?
+- Peut-elle être intégrée à une page existante ?
+- Son absence créerait-elle un manque dans l'architecture ?
 
-## 4. Que prépare-t-elle ?
+---
 
-Quelles pages pourront s'appuyer sur elle ?
+# 2. Quel problème cette page résout-elle ?
 
-La page doit préparer les développements ultérieurs.
+Toute page doit répondre à une question nécessaire.
 
-## 5. Dans quelle partie s'inscrit-elle ?
+Une page n'existe pas parce qu'un concept est intéressant, mais parce qu'elle permet de résoudre un problème de compréhension ou d'établir un élément indispensable à la théorie.
 
-- 00 — Se repérer
-- 01 — Les principes fondamentaux
-- 02 — Architecture générale
-- 03 — Fondements descriptifs
-- 04 — Les pratiques descriptives
-- 05 — Dynamique descriptive
-- 06 — Temporalité
-- 07 — Explication
-- 08 — Méthode Protokin
-- 09 — Réflexivité
-- 10 — Héritages philosophiques
-- 11 — Études de cas
-- 12 — Conclusion
+**Questions :**
 
-## 6. Quel est son niveau ?
+- À quelle question cette page répond-elle ?
+- Pourquoi cette question est-elle nécessaire ?
 
-La page porte-t-elle sur :
+---
 
-- un principe ?
-- un concept ?
-- une pratique ?
-- une dynamique ?
-- une méthode ?
-- une étude de cas ?
-- une réflexion sur Protokin lui-même ?
+# 3. Quel est son objet propre ?
 
-## 7. Quelles pages doivent pointer vers elle ?
+Chaque page doit avoir un objet clairement identifié.
 
-Identifier les liens entrants.
+Elle ne doit ni répéter ce qu'une autre page établit déjà, ni anticiper ce qu'une autre page aura pour fonction d'établir.
 
-## 8. Vers quelles pages doit-elle pointer ?
+Chaque page doit pouvoir être définie par un seul objet conceptuel.
 
-Identifier les liens sortants.
+**Questions :**
 
-## 9. Quelle est sa fonction unique ?
+- Quel est l'objet exact de cette page ?
+- Que cherche-t-elle à établir ?
+- Que n'a-t-elle pas pour fonction d'établir ?
 
-La page doit pouvoir être résumée en une phrase :
+---
 
-« Cette page existe pour... »
+# 4. Quel est le statut de cette page ?
 
-Si cette phrase ne peut pas être formulée clairement, c'est que la page n'a probablement pas encore sa place dans l'architecture.
+Avant de déterminer son emplacement, il faut identifier sa nature.
+
+La page concerne-t-elle :
+
+- un principe fondamental ;
+- un concept de Protokin ;
+- une distinction conceptuelle ;
+- une fonction descriptive ;
+- une opération descriptive ;
+- une pratique descriptive ;
+- une dynamique descriptive ;
+- une temporalité ;
+- un mode d'explication ;
