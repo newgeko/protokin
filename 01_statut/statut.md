@@ -1,7 +1,3 @@
-Voici la version réécrite de statut.md en respectant la séparation fonctionnelle des pages.
-La page établit uniquement le statut du projet Protokin : nature, niveau d’analyse, orientation générale, limites et positionnement.
-Elle ne développe pas les concepts qui appartiennent aux pages spécialisées.
-
 # Statut du projet Protokin
 
 > **Protokin est une architecture métathéorique pragmatiste, inférentialiste et non ontologique qui étudie les conditions sous lesquelles des contenus deviennent des descriptions intelligibles, recevables et transformables dans des pratiques collectives de justification.**
