@@ -64,7 +64,7 @@
 | Support descriptif | Définir les médiations matérielles, sémiotiques et institutionnelles des descriptions. | [`support-descriptif.md`](support-descriptif.md) |
 | Configuration descriptive | Définir l'organisation relationnelle des descriptions. | [`configuration-descriptive.md`](configuration-descriptive.md) |
 | Description | Définir la notion générale de description. | [`description.md`](description.md) |
-| Fonctions descriptives | Présenter les fonctions constitutives de la description. | []()`fonctions-descriptives.md` |
+| Fonctions descriptives | Présenter les fonctions constitutives de la description. | [`fonctions-descriptives.md`](fonctions-descriptives.md) |
 | Qualification | Définir l'opération de qualification. | []()`qualification.md` |
 | Assertion | Définir l'acte d'assertion. | []()`assertion.md` |
 | Prédication | Définir la fonction de prédication. | []()`predication.md` |
