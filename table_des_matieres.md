@@ -11,9 +11,9 @@
 | README | Présenter la section et son rôle dans l'ensemble de l'ouvrage. | `README.md` |
 | Introduction générale | Présenter le déplacement fondamental de Protokin et son objet. | `introduction-generale.md` |
 | Protokin en une phrase | Donner la définition synthétique du projet. | `protokin-en-une-phrase.md` |
-| Statut du projet | Expliquer ce que Protokin est… et n'est pas. | `statut-du-projet.md` |
+| Statut du projet | Expliquer ce que Protokin est… et ce qu'il n'est pas. | `statut-du-projet.md` |
 | Protokin : nom, origine et portée conceptuelle | Présenter le choix du nom et sa signification. | `nom-origine-portee.md` |
-| Les principes | Introduire les engagements philosophiques. | `les-principes.md` |
+| Les principes | Introduire les engagements philosophiques fondateurs. | `les-principes.md` |
 | Parcours de lecture | Orienter les différents profils de lecteurs. | `parcours-de-lecture.md` |
 | Guide d'écriture | Définir les règles de rédaction de la documentation. | `guide-decriture.md` |
 
@@ -26,216 +26,314 @@
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
 | README | Présenter le rôle des principes dans Protokin. | `README.md` |
-| Le primat du couplage perception-action | Établir que toute description commence par une interaction. | `primat-couplage-perception-action.md` |
-| Le primat de la description | Justifier le point de départ descriptif. | `primat-description.md` |
-| Le primat de l'enquête | Montrer que les descriptions résultent d'enquêtes. | `primat-enquete.md` |
-| Le principe de la description située | Montrer que toute description est située. | `description-situee.md` |
-| L'espace des causes et l'espace des raisons | Distinguer deux types d'explication. | `causes-et-raisons.md` |
-| Le principe d'immanence normative | Expliquer l'origine des normes descriptives. | `immanence-normative.md` |
-| Le principe des dépendances fonctionnelles | Montrer l'interdépendance des concepts. | `dependances-fonctionnelles.md` |
-| Le principe du pluralisme descriptif | Justifier la coexistence de plusieurs régimes. | `pluralisme-descriptif.md` |
-| Le principe de réflexivité | Introduire la réflexivité. | `reflexivite.md` |
-| Le principe d'humilité épistémique | Montrer que Protokin s'applique aussi à lui-même. | `humilite-epistemique.md` |
+| Le primat du couplage perception-action | Établir que toute description commence par une interaction avec le milieu. | `primat-couplage-perception-action.md` |
+| Le primat de la description | Justifier le point de départ descriptif de Protokin. | `primat-description.md` |
+| Le primat de l'enquête | Montrer que les descriptions résultent toujours d'une enquête. | `primat-enquete.md` |
+| Le principe de la description située | Établir que toute description est située dans une pratique. | `description-situee.md` |
+| L'espace des causes et l'espace des raisons | Distinguer les deux formes d'explication mobilisées par Protokin. | `causes-et-raisons.md` |
+| Le principe d'immanence normative | Établir que les normes émergent des pratiques descriptives. | `immanence-normative.md` |
+| Le principe des dépendances fonctionnelles | Montrer l'interdépendance des concepts de Protokin. | `dependances-fonctionnelles.md` |
+| Le principe du pluralisme descriptif | Justifier la coexistence de plusieurs régimes descriptifs. | `pluralisme-descriptif.md` |
+| Le principe de réflexivité | Introduire la réflexivité comme exigence méthodologique. | `reflexivite.md` |
+| Le principe d'humilité épistémique | Montrer que Protokin s'applique également à lui-même. | `humilite-epistemique.md` |
 
 ---
 
 # 02 — Architecture générale
 
-**Fonction générale :** Présenter les grands concepts sans encore les développer.
+**Fonction générale :** Présenter les grandes composantes de Protokin avant leur développement détaillé.
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
 | README | Présenter l'organisation générale de Protokin. | `README.md` |
-| Architecture conceptuelle | Donner la cartographie des concepts. | `architecture-conceptuelle.md` |
-| Architecture fonctionnelle | Donner la cartographie des opérations. | `architecture-fonctionnelle.md` |
+| Architecture conceptuelle | Donner la cartographie des principaux concepts. | `architecture-conceptuelle.md` |
+| Architecture fonctionnelle | Présenter la dynamique générale des opérations descriptives. | `architecture-fonctionnelle.md` |
 
 ---
 
 # 03 — Fondements descriptifs
 
-**Fonction générale :** Construire progressivement ce qu'est une description.
+**Fonction générale :** Construire progressivement ce qu'est une description et les éléments qui la rendent possible.
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
-| README | Introduire la construction d'une description. | `README.md` |
+| README | Introduire les fondements descriptifs. | `README.md` |
 | Configuration rencontrée | Définir ce qui est rencontré avant toute description. | `configuration-rencontree.md` |
-| Couplage perception-action | Introduire le couplage descriptif. | `couplage-perception-action.md` |
-| Configuration sémiotique | Définir l'organisation sémiotique. | `configuration-semiotique.md` |
-| Support descriptif | Définir les supports des descriptions. | `support-descriptif.md` |
-| Configuration descriptive | Définir l'organisation d'une description. | `configuration-descriptive.md` |
-| Description | Définir la notion de description. | `description.md` |
+| Couplage perception-action | Présenter le couplage à l'origine de toute activité descriptive. | `couplage-perception-action.md` |
+| Configuration sémiotique | Définir l'organisation des différences devenues partageables. | `configuration-semiotique.md` |
+| Support descriptif | Définir les médiations matérielles, sémiotiques et institutionnelles des descriptions. | `support-descriptif.md` |
+| Configuration descriptive | Définir l'organisation relationnelle des descriptions. | `configuration-descriptive.md` |
+| Description | Définir la notion générale de description. | `description.md` |
 | Fonctions descriptives | Présenter les fonctions constitutives de la description. | `fonctions-descriptives.md` |
-| Qualification | Définir la qualification. | `qualification.md` |
-| Assertion | Définir l'assertion. | `assertion.md` |
-| Prédication | Définir la prédication. | `predication.md` |
+| Qualification | Définir l'opération de qualification. | `qualification.md` |
+| Assertion | Définir l'acte d'assertion. | `assertion.md` |
+| Prédication | Définir la fonction de prédication. | `predication.md` |
 | Catégories | Définir les catégories descriptives. | `categories.md` |
-| Critères | Définir les critères descriptifs. | `criteres.md` |
-| Taxonomies | Définir les taxonomies descriptives. | `taxonomies.md` |
-| Objet descriptif | Définir l'objet construit par la description. | `objet-descriptif.md` |
-| Niveau descriptif | Définir les niveaux descriptifs. | `niveau-descriptif.md` |
-| Régime descriptif | Définir les régimes descriptifs. | `regime-descriptif.md` |
+| Critères | Définir les critères descriptifs permettant l'application des catégories. | `criteres.md` |
+| Taxonomies | Définir l'organisation des catégories au sein d'un régime descriptif. | `taxonomies.md` |
+| Objet descriptif | Définir l'objet tel qu'il est constitué par une description. | `objet-descriptif.md` |
+| Niveau descriptif | Définir les différents niveaux d'organisation des descriptions. | `niveau-descriptif.md` |
+| Régime descriptif | Définir les régimes descriptifs comme cadres de production et d'évaluation des descriptions. | `regime-descriptif.md` |
+
+---
 
 ---
 
 # 04 — Les pratiques descriptives
 
-**Fonction générale :** Décrire le fonctionnement collectif des descriptions.
+**Fonction générale :** Décrire le fonctionnement collectif, normatif et inférentiel des descriptions.
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
-| README | Présenter la section et les pratiques descriptives. | `README.md` |
+| README | Présenter le fonctionnement collectif des pratiques descriptives. | `README.md` |
 | Le locuteur | Définir la position du locuteur dans une pratique descriptive. | `locuteur.md` |
-| Position épistémique | Définir les ressources et contraintes de la position descriptive. | `position-epistemique.md` |
-| Supports incorporés | Présenter les ressources incorporées mobilisées par les descriptions. | `supports-incorpores.md` |
+| Position épistémique | Définir les ressources, contraintes et perspectives propres au locuteur. | `position-epistemique.md` |
+| Supports incorporés | Présenter les dispositions incorporées mobilisées dans les descriptions. | `supports-incorpores.md` |
 | Supports corporels | Décrire le rôle du corps dans les pratiques descriptives. | `supports-corporels.md` |
 | Pratique collective | Définir la description comme pratique collective. | `pratique-collective.md` |
-| Communauté de locuteurs | Définir les communautés descriptives. | `communaute-de-locuteurs.md` |
-| Engagements descriptifs | Définir les engagements pris par le locuteur. | `engagements-descriptifs.md` |
-| Responsabilité normative | Définir la responsabilité attachée aux descriptions. | `responsabilite-normative.md` |
-| Inférences | Présenter le rôle des inférences. | `inferences.md` |
-| Justifications | Définir les pratiques justificatives. | `justifications.md` |
-| Recevabilité | Définir la recevabilité d'une description. | `recevabilite.md` |
-| Validité | Définir la validité descriptive. | `validite.md` |
-| Stabilisation | Expliquer comment les descriptions se stabilisent. | `stabilisation.md` |
-| Effet cliquet | Présenter les mécanismes de stabilisation cumulative. | `effet-cliquet.md` |
+| Communauté de locuteurs | Définir les communautés au sein desquelles les descriptions prennent sens. | `communaute-de-locuteurs.md` |
+| **Norme descriptive** | Définir les règles immanentes qui rendent possibles l'évaluation et la correction des descriptions. | `norme-descriptive.md` |
+| Engagements descriptifs | Définir les engagements assumés par le locuteur lorsqu'il décrit. | `engagements-descriptifs.md` |
+| Responsabilité normative | Définir les responsabilités attachées aux engagements descriptifs. | `responsabilite-normative.md` |
+| Inférences | Présenter les inférences autorisées ou interdites par les régimes descriptifs. | `inferences.md` |
+| Justifications | Définir les pratiques de justification des descriptions. | `justifications.md` |
+| Recevabilité | Définir les conditions de recevabilité d'une description. | `recevabilite.md` |
+| Validité | Définir la validité descriptive au sein d'un régime. | `validite.md` |
+| Stabilisation | Expliquer comment les descriptions se stabilisent dans le temps. | `stabilisation.md` |
+| Effet cliquet | Présenter les mécanismes de stabilisation cumulative des descriptions. | `effet-cliquet.md` |
 
 ---
 
 # 05 — Dynamique descriptive
 
-**Fonction générale :** Comprendre comment les descriptions vivent, évoluent et se transforment.
+**Fonction générale :** Comprendre comment les descriptions évoluent, se traduisent, se transforment et se reproduisent.
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
 | README | Présenter la dynamique des descriptions. | `README.md` |
-| Tension | Définir les tensions descriptives. | `tension.md` |
+| Tension | Définir les tensions internes aux pratiques descriptives. | `tension.md` |
 | Limite interne | Définir les limites propres à un régime descriptif. | `limite-interne.md` |
-| Traduction | Définir la traduction entre descriptions. | `traduction.md` |
+| Traduction | Définir la traduction entre descriptions ou régimes descriptifs. | `traduction.md` |
 | Transition | Décrire les passages entre configurations descriptives. | `transition.md` |
-| Transformation | Définir les transformations descriptives. | `transformation.md` |
-| Maintien | Décrire les mécanismes de maintien. | `maintien.md` |
+| Transformation | Définir les transformations des descriptions. | `transformation.md` |
+| Maintien | Décrire les mécanismes assurant la continuité des descriptions. | `maintien.md` |
 | Reproduction | Définir la reproduction des pratiques descriptives. | `reproduction.md` |
-| Controverse | Décrire les controverses descriptives. | `controverse.md` |
+| Controverse | Décrire les controverses entre descriptions concurrentes. | `controverse.md` |
 | Innovation | Décrire l'émergence de nouvelles descriptions. | `innovation.md` |
 
 ---
 
 # 06 — Temporalité
 
-**Fonction générale :** Comprendre l'inscription temporelle des descriptions.
+**Fonction générale :** Comprendre l'inscription temporelle des descriptions et de leurs transformations.
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
 | README | Présenter la temporalité descriptive. | `README.md` |
-| Position | Définir la position dans une trajectoire descriptive. | `position.md` |
-| Trajectoire | Définir les trajectoires descriptives. | `trajectoire.md` |
-| Allure | Définir l'allure des trajectoires descriptives. | `allure.md` |
+| Position | Définir la position au sein d'une trajectoire descriptive. | `position.md` |
+| Trajectoire | Définir les trajectoires des descriptions. | `trajectoire.md` |
+| Allure | Définir la dynamique propre aux trajectoires descriptives. | `allure.md` |
 | Historicité | Définir l'historicité des descriptions. | `historicite.md` |
-| Temporalité descriptive | Présenter la temporalité propre aux descriptions. | `temporalite-descriptive.md` |
-| Sédimentation | Décrire les processus de sédimentation. | `sedimentation.md` |
-| Réorganisation | Décrire les réorganisations descriptives. | `reorganisation.md` |
+| Temporalité descriptive | Présenter la temporalité propre aux pratiques descriptives. | `temporalite-descriptive.md` |
+| Sédimentation | Décrire les processus de sédimentation des descriptions. | `sedimentation.md` |
+| Réorganisation | Décrire les réorganisations internes des pratiques descriptives. | `reorganisation.md` |
+
+---
 
 ---
 
 # 07 — Explication
 
-**Fonction générale :** Comprendre les différents modes d'explication mobilisés par les descriptions.
+**Fonction générale :** Comprendre les différents modes d'explication mobilisés par les descriptions et leurs relations avec les régimes descriptifs.
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
-| README | Présenter les différents types d'explication. | `README.md` |
-| Causes | Définir les explications causales. | `causes.md` |
-| Raisons | Définir les explications par les raisons. | `raisons.md` |
-| Image manifeste | Présenter l'image manifeste. | `image-manifeste.md` |
-| Image scientifique | Présenter l'image scientifique. | `image-scientifique.md` |
-| Puissance descriptive | Définir la puissance descriptive. | `puissance-descriptive.md` |
-| Compatibilités | Décrire les compatibilités entre descriptions. | `compatibilites.md` |
-| Incompatibilités | Décrire les incompatibilités descriptives. | `incompatibilites.md` |
-| Explication | Définir ce qu'est une explication dans Protokin. | `explication.md` |
+| README | Présenter les différents modes d'explication dans Protokin. | `README.md` |
+| Causes | Définir les explications causales appartenant à l'espace des causes. | `causes.md` |
+| Raisons | Définir les explications par les raisons appartenant à l'espace des raisons. | `raisons.md` |
+| Image manifeste | Présenter les descriptions issues de l'expérience vécue et des pratiques ordinaires. | `image-manifeste.md` |
+| Image scientifique | Présenter les descriptions produites par les régimes scientifiques. | `image-scientifique.md` |
+| Puissance descriptive | Définir la capacité d'une description à organiser, prévoir et transformer un domaine. | `puissance-descriptive.md` |
+| Compatibilités | Décrire les relations de compatibilité entre différents régimes descriptifs. | `compatibilites.md` |
+| Incompatibilités | Décrire les tensions et contradictions entre descriptions. | `incompatibilites.md` |
+| Explication | Définir l'explication comme opération descriptive située. | `explication.md` |
 
 ---
 
 # 08 — Méthode Protokin
 
-**Fonction générale :** Présenter les méthodes d'analyse proposées par Protokin.
+**Fonction générale :** Présenter les opérations d'enquête, d'analyse et d'audit permettant d'étudier les descriptions.
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
-| README | Présenter la méthode protokinienne. | `README.md` |
-| Qu'est-ce qu'une enquête ? | Définir la notion d'enquête. | `enquete.md` |
-| Comment conduire une enquête | Présenter la démarche d'enquête. | `conduire-une-enquete.md` |
-| Comment réaliser un audit | Présenter la méthode d'audit. | `realiser-un-audit.md` |
-| Identifier un régime | Expliquer l'identification d'un régime descriptif. | `identifier-un-regime.md` |
-| Comparer deux descriptions | Présenter la comparaison descriptive. | `comparer-deux-descriptions.md` |
-| Diagnostiquer une réduction | Décrire les réductions descriptives. | `diagnostiquer-une-reduction.md` |
-| Diagnostiquer une confusion de niveau | Décrire les confusions de niveau. | `diagnostiquer-une-confusion-de-niveau.md` |
-| Diagnostiquer une erreur de catégorie | Décrire les erreurs de catégorie. | `diagnostiquer-une-erreur-de-categorie.md` |
-| Évaluer une traduction | Définir l'évaluation des traductions. | `evaluer-une-traduction.md` |
+| README | Présenter la méthode générale d'analyse protokinienne. | `README.md` |
+| Qu'est-ce qu'une enquête ? | Définir l'enquête comme processus de transformation d'une situation problématique. | `enquete.md` |
+| Comment conduire une enquête | Présenter les étapes pratiques d'une enquête protokinienne. | `conduire-une-enquete.md` |
+| Comment réaliser un audit | Présenter l'audit comme examen des conditions descriptives d'une pratique. | `realiser-un-audit.md` |
+| Identifier un régime | Expliquer comment reconnaître un régime descriptif. | `identifier-un-regime.md` |
+| Comparer deux descriptions | Présenter la comparaison entre configurations descriptives différentes. | `comparer-deux-descriptions.md` |
+| Diagnostiquer une réduction | Décrire les réductions qui confondent un régime avec un autre. | `diagnostiquer-une-reduction.md` |
+| Diagnostiquer une confusion de niveau | Décrire les erreurs liées aux changements de niveau descriptif. | `diagnostiquer-une-confusion-de-niveau.md` |
+| Diagnostiquer une erreur de catégorie | Décrire les erreurs produites par l'application inadéquate d'une catégorie. | `diagnostiquer-une-erreur-de-categorie.md` |
+| Évaluer une traduction | Définir l'évaluation des traductions entre régimes descriptifs. | `evaluer-une-traduction.md` |
 
 ---
 
 # 09 — Réflexivité
 
-**Fonction générale :** Examiner Protokin comme pratique descriptive.
+**Fonction générale :** Examiner Protokin comme une pratique descriptive soumise aux mêmes conditions qu'il analyse.
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
-| README | Présenter la réflexivité de Protokin. | `README.md` |
-| Réflexivité | Définir la réflexivité. | `reflexivite.md` |
-| Auto-application | Montrer comment Protokin s'applique à lui-même. | `auto-application.md` |
-| Limites de Protokin | Délimiter le domaine de validité de Protokin. | `limites-de-protokin.md` |
-| Injustice épistémique | Présenter l'apport de Fricker. | `injustice-epistemique.md` |
-| Écologie des régimes descriptifs | Décrire la coexistence des régimes descriptifs. | `ecologie-des-regimes-descriptifs.md` |
+| README | Présenter la dimension réflexive de Protokin. | `README.md` |
+| Réflexivité | Définir la réflexivité comme examen des propres conditions descriptives. | `reflexivite.md` |
+| Auto-application | Montrer comment Protokin applique ses propres outils à son architecture. | `auto-application.md` |
+| Limites de Protokin | Délimiter le domaine d'application et les limites de la théorie. | `limites-de-protokin.md` |
+| Injustice épistémique | Présenter l'apport de Miranda Fricker sur les asymétries de participation aux pratiques de connaissance. | `injustice-epistemique.md` |
+| Écologie des régimes descriptifs | Décrire la coexistence et les relations entre différents régimes descriptifs. | `ecologie-des-regimes-descriptifs.md` |
 
 ---
 
 # 10 — Héritages philosophiques
 
-**Fonction générale :** Présenter les auteurs qui inspirent Protokin.
+**Fonction générale :** Présenter les filiations philosophiques et théoriques ayant contribué à la constitution de Protokin.
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
-| README | Présenter les héritages philosophiques. | `README.md` |
-| John Dewey | Présenter l'apport de Dewey. | `john-dewey.md` |
-| Wilfrid Sellars | Présenter l'apport de Sellars. | `wilfrid-sellars.md` |
-| Robert Brandom | Présenter l'apport de Brandom. | `robert-brandom.md` |
-| Joseph Rouse | Présenter l'apport de Rouse. | `joseph-rouse.md` |
-| Ian Hacking | Présenter l'apport de Hacking. | `ian-hacking.md` |
-| Ludwig Wittgenstein | Présenter l'apport de Wittgenstein. | `ludwig-wittgenstein.md` |
-| Gilbert Simondon | Présenter l'apport de Simondon. | `gilbert-simondon.md` |
-| Maurice Merleau-Ponty | Présenter l'apport de Merleau-Ponty. | `merleau-ponty.md` |
-| Francisco Varela | Présenter l'apport de Varela. | `varela.md` |
-| Humberto Maturana | Présenter l'apport de Maturana. | `maturana.md` |
-| Miranda Fricker | Présenter l'apport de Fricker. | `miranda-fricker.md` |
-| Richard Rorty | Présenter l'apport de Rorty. | `richard-rorty.md` |
+| README | Présenter les héritages philosophiques mobilisés. | `README.md` |
+| John Dewey | Présenter l'apport du pragmatisme et de l'enquête. | `john-dewey.md` |
+| Wilfrid Sellars | Présenter la distinction entre espace des causes et espace des raisons. | `wilfrid-sellars.md` |
+| Robert Brandom | Présenter l'inférentialisme et la normativité discursive. | `robert-brandom.md` |
+| Joseph Rouse | Présenter la normativité située dans les pratiques scientifiques. | `joseph-rouse.md` |
+| Ian Hacking | Présenter l'historicité des catégories et des objets descriptifs. | `ian-hacking.md` |
+| Ludwig Wittgenstein | Présenter les jeux de langage et les pratiques de signification. | `ludwig-wittgenstein.md` |
+| Gilbert Simondon | Présenter l'individuation et les processus de genèse. | `gilbert-simondon.md` |
+| Maurice Merleau-Ponty | Présenter l'inscription corporelle de la perception. | `merleau-ponty.md` |
+| Francisco Varela | Présenter l'énaction et le couplage organisme-milieu. | `varela.md` |
+| Humberto Maturana | Présenter le couplage structurel et l'autopoïèse. | `maturana.md` |
+| Miranda Fricker | Présenter l'injustice épistémique et les conditions sociales du savoir. | `miranda-fricker.md` |
+| Richard Rorty | Présenter le pragmatisme linguistique et la critique du fondationnalisme. | `richard-rorty.md` |
+
+---
 
 ---
 
 # 11 — Études de cas
 
-**Fonction générale :** Montrer Protokin en action sur des cas concrets.
+**Fonction générale :** Montrer le fonctionnement de Protokin à travers l'analyse concrète de configurations descriptives historiques, scientifiques, sociales et ordinaires.
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
-| README | Présenter les études de cas. | `README.md` |
-| Géocentrisme | Analyser le cas du géocentrisme. | `geocentrisme.md` |
-| Phlogistique | Analyser la théorie du phlogistique. | `phlogistique.md` |
-| Théorie des humeurs | Analyser la théorie humorale. | `theorie-des-humeurs.md` |
-| Changement climatique | Analyser les régimes descriptifs du climat. | `changement-climatique.md` |
-| Intelligence artificielle | Analyser les descriptions de l'IA. | `intelligence-artificielle.md` |
-| Cette personne est mauvaise | Analyser une qualification morale. | `cette-personne-est-mauvaise.md` |
-| Botaniste / bûcheron | Comparer deux régimes descriptifs d'un même objet. | `botaniste-bucheron.md` |
-| Urgences hospitalières | Analyser les pratiques descriptives en situation clinique. | `urgences-hospitalieres.md` |
+| README | Présenter le rôle des études de cas dans l'application de Protokin. | `README.md` |
+| Géocentrisme | Analyser la transformation d'un régime cosmologique et les conditions de son remplacement. | `geocentrisme.md` |
+| Phlogistique | Analyser une théorie scientifique disparue et la transformation de ses critères descriptifs. | `phlogistique.md` |
+| Théorie des humeurs | Analyser un régime médical historique et ses catégories descriptives. | `theorie-des-humeurs.md` |
+| Changement climatique | Analyser la coexistence de régimes scientifiques, politiques et médiatiques autour du climat. | `changement-climatique.md` |
+| Intelligence artificielle | Analyser les différents régimes descriptifs mobilisés autour de l'intelligence artificielle. | `intelligence-artificielle.md` |
+| Cette personne est mauvaise | Analyser une qualification morale et les conditions de sa stabilisation normative. | `cette-personne-est-mauvaise.md` |
+| Cette personne est dangereuse | Analyser une qualification sécuritaire et les effets institutionnels de sa fixation. | `cette-personne-est-dangereuse.md` |
+| Botaniste / bûcheron | Comparer deux régimes descriptifs portant sur un même milieu. | `botaniste-bucheron.md` |
+| Urgences hospitalières | Analyser une pratique collective où plusieurs régimes descriptifs interagissent. | `urgences-hospitalieres.md` |
 
 ---
 
 # 12 — Conclusion
 
-**Fonction générale :** Clore l'ouvrage et ouvrir des perspectives.
+**Fonction générale :** Clore l'architecture générale de Protokin, expliciter ses apports et ouvrir les perspectives futures.
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
-| README | Présenter la conclusion générale. | `README.md` |
-| Ce que Protokin permet | Récapituler les apports de Protokin. | `ce-que-protokin-permet.md` |
-| Ce que Protokin ne prétend pas faire | Délimiter explicitement son domaine de validité. | `ce-que-protokin-ne-pretend-pas-faire.md` |
-| Perspectives de recherche | Ouvrir les développements futurs de Protokin. | `perspectives-de-recherche.md` |
+| README | Présenter la conclusion générale de l'ouvrage. | `README.md` |
+| Ce que Protokin permet | Récapituler les possibilités ouvertes par l'analyse des régimes descriptifs. | `ce-que-protokin-permet.md` |
+| Ce que Protokin ne prétend pas faire | Délimiter explicitement le statut métathéorique et les limites du projet. | `ce-que-protokin-ne-pretend-pas-faire.md` |
+| Perspectives de recherche | Présenter les prolongements possibles de Protokin. | `perspectives-de-recherche.md` |
+
+---
+
+# Organisation fonctionnelle globale de Protokin
+
+```
+00 — Se repérer
+        ↓
+01 — Principes fondamentaux
+        ↓
+02 — Architecture générale
+        ↓
+03 — Fondements descriptifs
+        ↓
+04 — Pratiques descriptives
+        ↓
+05 — Dynamique descriptive
+        ↓
+06 — Temporalité
+        ↓
+07 — Explication
+        ↓
+08 — Méthode Protokin
+        ↓
+09 — Réflexivité
+        ↓
+10 — Héritages philosophiques
+        ↓
+11 — Études de cas
+        ↓
+12 — Conclusion
+```
+
+---
+
+# Logique interne de progression
+
+La documentation suit une progression fonctionnelle :
+
+1. **Comprendre le projet**
+   
+   Le lecteur découvre d'abord le statut de Protokin, ses principes et son déplacement théorique.
+
+2. **Construire l'objet descriptif**
+
+   La documentation établit ensuite les conditions de possibilité d'une description :
+   - interaction avec le milieu ;
+   - inscription sémiotique ;
+   - supports ;
+   - configurations ;
+   - catégories ;
+   - critères ;
+   - régimes descriptifs.
+
+3. **Comprendre les pratiques collectives**
+
+   Elle montre ensuite comment les descriptions deviennent des pratiques sociales :
+   - locuteurs ;
+   - communautés ;
+   - normes ;
+   - engagements ;
+   - justifications ;
+   - validations.
+
+4. **Étudier les transformations**
+
+   Les sections suivantes analysent :
+   - la dynamique ;
+   - les tensions ;
+   - les transitions ;
+   - les trajectoires temporelles ;
+   - les transformations historiques.
+
+5. **Développer une méthode d'analyse**
+
+   Protokin devient alors un instrument d'enquête et d'audit des descriptions.
+
+6. **Appliquer et réfléchir**
+
+   Les dernières sections montrent :
+   - comment Protokin s'applique à des cas concrets ;
+   - comment il s'examine lui-même comme pratique descriptive.
+
+---
+
+# Principe directeur de l'architecture
+
+> Protokin ne cherche pas à décrire ce que sont les choses en elles-mêmes.
+>
+> Il étudie les opérations par lesquelles des pratiques humaines rendent certaines différences descriptibles, partageables, justifiables et stabilisables.
