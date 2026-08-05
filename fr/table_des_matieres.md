@@ -60,7 +60,7 @@
 | README | Introduire les fondements descriptifs. | []()`README.md` |
 | Configuration rencontrée | Définir ce qui est rencontré avant toute description. | [`configuration-rencontree.md`](configuration-rencontree.md) |
 | Couplage perception-action | Présenter le couplage à l'origine de toute activité descriptive. | []()`couplage-perception-action.md` |
-| Configuration sémiotique | Définir l'organisation des différences devenues partageables. | []()`configuration-semiotique.md` |
+| Configuration sémiotique | Définir l'organisation des différences devenues partageables. | [`configuration-semiotique.md`](configuration-semiotique.md) |
 | Support descriptif | Définir les médiations matérielles, sémiotiques et institutionnelles des descriptions. | [`support-descriptif.md`](support-descriptif.md) |
 | Configuration descriptive | Définir l'organisation relationnelle des descriptions. | [`configuration-descriptive.md`](configuration-descriptive.md) |
 | Description | Définir la notion générale de description. | []()`description.md` |
