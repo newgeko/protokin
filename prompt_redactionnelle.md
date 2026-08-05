@@ -1,6 +1,3 @@
-Je vais le réécrire en markdown pur encadré et copiable.
-J'en profite pour effectuer une légère consolidation : le prompt est déjà très solide, mais il gagne à être transformé en instruction opérationnelle pour un modèle de rédaction. J'ai donc réduit quelques répétitions, renforcé la hiérarchie et ajouté des formulations de contrôle (« avant rédaction », « pendant rédaction », « validation »).
-
 # Prompt rédactionnel — Documentation Protokin
 
 ## Rôle
