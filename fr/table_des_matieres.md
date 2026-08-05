@@ -70,7 +70,7 @@
 | Prédication | Définir la fonction de prédication. | [`predication.md`](predication.md) |
 | Catégories | Définir les catégories descriptives. | [`categories.md`](categories.md) |
 | Critères | Définir les critères descriptifs permettant l'application des catégories. | [`criteres.md`](criteres.md) |
-| Taxonomies | Définir l'organisation des catégories au sein d'un régime descriptif. | []()`taxonomies.md` |
+| Taxonomies | Définir l'organisation des catégories au sein d'un régime descriptif. | [`taxonomies.md`](taxonomies.md) |
 | Objet descriptif | Définir l'objet tel qu'il est constitué par une description. | []()`objet-descriptif.md` |
 | Niveau descriptif | Définir les différents niveaux d'organisation des descriptions. | []()`niveau-descriptif.md` |
 | Régime descriptif | Définir les régimes descriptifs comme cadres de production et d'évaluation des descriptions. | []()`regime-descriptif.md` |
