@@ -8,7 +8,7 @@
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
-| README | Présenter la section et son rôle dans l'ensemble de l'ouvrage. | `README.md` |
+| README | Présenter la section et son rôle dans l'ensemble de l'ouvrage. | [`README.md`](README.md) |
 | Introduction générale | Présenter le déplacement fondamental de Protokin et son objet. | `introduction-generale.md` |
 | Protokin en une phrase | Donner la définition synthétique du projet. | `protokin-en-une-phrase.md` |
 | Statut du projet | Expliquer ce que Protokin est… et ce qu'il n'est pas. | `statut-du-projet.md` |
