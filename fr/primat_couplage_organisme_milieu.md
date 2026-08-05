@@ -27,6 +27,7 @@ Sujet observateur
 Représentation
         ↓
 Description
+```
 
 La difficulté est alors de comprendre comment un sujet pourrait accéder à un monde déjà organisé sans que cette organisation soit elle-même issue d'une relation préalable.
 
