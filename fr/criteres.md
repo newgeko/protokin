@@ -3,7 +3,7 @@
 | **Fonction** | Établir la notion de **critère descriptif** dans l'architecture de Protokin en tant que condition d'application d'une catégorie descriptive et règle d'évaluation immanente à un régime descriptif, permettant de déterminer dans quelles conditions une qualification est recevable, justifiable ou erronée. |
 | :--- | :--- |
 | **Prépare** | L'analyse de la recevabilité, de la validité descriptive, des normes descriptives, des régimes descriptifs et de l'audit des configurations descriptives. |
-| **Mobilise** | Les catégories descriptives, la qualification, l'assertion, les configurations descriptives et la distinction entre l'espace des causes (PROTO) et l'espace des raisons (KIN). |
+| **Mobilise** | Les catégories descriptives, la qualification, l'assertion, les configurations descriptives et la distinction entre l'espace des causes et l'espace des raisons. |
 | **Permet ensuite** | D'évaluer la correction des descriptions, d'auditer les régimes descriptifs, de diagnostiquer les réductions descriptives, les confusions de niveaux et les injustices épistémiques. |
 | **N'établit pas** | La théorie générale des normes descriptives, des régimes descriptifs ou de la comptabilité déontique collective. |
 
