@@ -26,6 +26,7 @@
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
 | README | Présenter le rôle des principes dans Protokin. | []()`README.md` |
+| Le primat du couplage organisme-milieu | Établir que toute description émerge d'une relation dynamique entre un organisme et son milieu. | []()`primat-couplage-organisme-milieu.md` |
 | Le primat du couplage perception-action | Établir que toute description commence par une interaction avec le milieu. | []()`primat-couplage-perception-action.md` |
 | Le primat de la description | Justifier le point de départ descriptif de Protokin. | []()`primat-description.md` |
 | Le primat de l'enquête | Montrer que les descriptions résultent toujours d'une enquête. | []()`primat-enquete.md` |
