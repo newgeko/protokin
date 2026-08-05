@@ -88,6 +88,7 @@
 | README | Présenter le fonctionnement collectif des pratiques descriptives. | []()`README.md` |
 | Le locuteur | Définir la position du locuteur dans une pratique descriptive. | []()`locuteur.md` |
 | L'auditeur | Définir la position de l'auditeur dans l'évaluation et la reprise des descriptions. | []()`auditeur.md` |
+| Relation locuteur-auditeur | Définir l'espace interactionnel où les descriptions sont évaluées, reprises, contestées ou justifiées. | []()`relation-locuteur-auditeur.md` |
 | Position épistémique | Définir les ressources, contraintes et perspectives propres au locuteur. | []()`position-epistemique.md` |
 | Supports incorporés | Présenter les dispositions incorporées mobilisées dans les descriptions. | []()`supports-incorpores.md` |
 | Supports corporels | Décrire le rôle du corps dans les pratiques descriptives. | []()`supports-corporels.md` |
