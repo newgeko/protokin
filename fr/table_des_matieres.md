@@ -66,7 +66,7 @@
 | Description | Définir la notion générale de description. | [`description.md`](description.md) |
 | Fonctions descriptives | Présenter les fonctions constitutives de la description. | [`fonctions-descriptives.md`](fonctions-descriptives.md) |
 | Qualification | Définir l'opération de qualification. | [`qualification.md` ](qualification.md)|
-| Assertion | Définir l'acte d'assertion. | []()`assertion.md` |
+| Assertion | Définir l'acte d'assertion. | [`assertion.md`](assertion.md) |
 | Prédication | Définir la fonction de prédication. | [`predication.md`](predication.md) |
 | Catégories | Définir les catégories descriptives. | []()`categories.md` |
 | Critères | Définir les critères descriptifs permettant l'application des catégories. | []()`criteres.md` |
