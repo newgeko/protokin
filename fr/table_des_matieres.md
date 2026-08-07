@@ -9,13 +9,13 @@
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
 | README | Présenter la section et son rôle dans l'ensemble de l'ouvrage. | [`README.md`](README.md) |
-| Introduction générale | Présenter le déplacement fondamental de Protokin et son objet. | []()`introduction-generale.md` |
-| Protokin en une phrase | Donner la définition synthétique du projet. | []()`protokin-en-une-phrase.md` |
-| Statut du projet | Expliquer ce que Protokin est… et ce qu'il n'est pas. | []()`statut-du-projet.md` |
-| Protokin : nom, origine et portée conceptuelle | Présenter le choix du nom et sa signification. | []()`nom-origine-portee.md` |
-| Les principes | Introduire les engagements philosophiques fondateurs. | []()`les-principes.md` |
-| Parcours de lecture | Orienter les différents profils de lecteurs. | []()`parcours-de-lecture.md` |
-| Guide d'écriture | Définir les règles de rédaction de la documentation. | []()`guide-decriture.md` |
+| Introduction générale | Présenter le déplacement fondamental de Protokin et son objet. | [introduction-generale.md](introduction-generale.md) |
+| Protokin en une phrase | Donner la définition synthétique du projet. | [`protokin-en-une-phrase.md`](protokin-en-une-phrase.md) |
+| Statut du projet | Expliquer ce que Protokin est… et ce qu'il n'est pas. | [`statut-du-projet.md`](statut-du-projet.md) |
+| Protokin : nom, origine et portée conceptuelle | Présenter le choix du nom et sa signification. | [`nom-origine-portee.md`](nom-origine-portee.md) |
+| Les principes | Introduire les engagements philosophiques fondateurs. | [`les-principes.md`](les-principes.md) |
+| Parcours de lecture | Orienter les différents profils de lecteurs. | [`parcours-de-lecture.md`](parcours-de-lecture.md`) |
+| Guide d'écriture | Définir les règles de rédaction de la documentation. | [`guide-decriture.md`](guide-decriture.md) |
 
 ---
 
