@@ -26,17 +26,17 @@
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
 | README | Présenter le rôle des principes dans Protokin. | []()`README.md` |
-| Le primat du couplage organisme-milieu | Établir que toute description émerge d'une relation dynamique entre un organisme et son milieu. | []()`primat-couplage-organisme-milieu.md` |
-| Le primat du couplage perception-action | Établir que toute description commence par une dynamique d'interaction, de perception et d'ajustement avec le milieu. | []()`primat-couplage-perception-action.md` |
-| Le primat de la description | Justifier le point de départ descriptif de Protokin. | []()`primat-description.md` |
-| Le primat de l'enquête | Montrer que les descriptions résultent toujours d'une enquête. | []()`primat-enquete.md` |
-| Le principe de la description située | Établir que toute description est située dans une pratique. | []()`principe-description-situee.md` |
-| L'espace des causes et l'espace des raisons | Distinguer les deux formes d'explication mobilisées par Protokin. | []()`principe-causes-et-raisons.md` |
-| Le principe d'immanence normative | Établir que les normes émergent des pratiques descriptives. | []()`principe-immanence-normative.md` |
-| Le principe des dépendances fonctionnelles | Montrer l'interdépendance des concepts de Protokin. | []()`principe-dependances-fonctionnelles.md` |
-| Le principe du pluralisme descriptif | Justifier la coexistence de plusieurs régimes descriptifs. | []()`principe-pluralisme-descriptif.md` |
-| Le principe de réflexivité | Introduire la réflexivité comme exigence méthodologique. | []()`principe-reflexivite.md` |
-| Le principe d'humilité épistémique | Montrer que Protokin s'applique également à lui-même. | []()`principe-humilite-epistemique.md` |
+| Le primat du couplage organisme-milieu | Établir que toute description émerge d'une relation dynamique entre un organisme et son milieu. | [`primat-couplage-organisme-milieu.md`](primat-couplage-organisme-milieu.md) |
+| Le primat du couplage perception-action | Établir que toute description commence par une dynamique d'interaction, de perception et d'ajustement avec le milieu. | [`primat-couplage-perception-action.md`](primat-couplage-perception-action.md) |
+| Le primat de la description | Justifier le point de départ descriptif de Protokin. | [`primat-description.md`](primat-description.md) |
+| Le primat de l'enquête | Montrer que les descriptions résultent toujours d'une enquête. | [`primat-enquete.md`](primat-enquete.md) |
+| Le principe de la description située | Établir que toute description est située dans une pratique. | [`principe-description-situee.md`](principe-description-situee.md) |
+| L'espace des causes et l'espace des raisons | Distinguer les deux formes d'explication mobilisées par Protokin. | [`principe-causes-et-raisons.md`](principe-causes-et-raisons.md) |
+| Le principe d'immanence normative | Établir que les normes émergent des pratiques descriptives. | [`principe-immanence-normative.md`](principe-immanence-normative.md) |
+| Le principe des dépendances fonctionnelles | Montrer l'interdépendance des concepts de Protokin. | [`principe-dependances-fonctionnelles.md`](principe-dependances-fonctionnelles.md) |
+| Le principe du pluralisme descriptif | Justifier la coexistence de plusieurs régimes descriptifs. | [`principe-pluralisme-descriptif.md`](principe-pluralisme-descriptif.md) |
+| Le principe de réflexivité | Introduire la réflexivité comme exigence méthodologique. | [`principe-reflexivite.md`](principe-reflexivite.md) |
+| Le principe d'humilité épistémique | Montrer que Protokin s'applique également à lui-même. | [`principe-humilite-epistemique.md`](principe-humilite-epistemique.md) |
 
 ---
 
