@@ -3,7 +3,7 @@
 | Fonction | Présenter le **couplage perception-action** à l'origine de toute activité descriptive dans l'architecture de Protokin, en montrant comment l'interaction sensorimotrice génère des variations physiques, des résistances et des prises perceptives. |
 | :--- | :--- |
 | **Prépare** | L'analyse de la configuration sémiotique (organisation des traces), du support descriptif (inscription matérielle) et de la configuration descriptive. |
-| **Mobilise** | Le principe du primat du couplage perception-action, la notion de configuration rencontrée et la distinction fondamentale entre l'espace des causes (PROTO) et l'espace des raisons (KIN). |
+| **Mobilise** | Le principe du primat du couplage perception-action, la notion de configuration rencontrée et la distinction fondamentale entre l'espace des causes et l'espace des raisons. |
 | **Permet ensuite** | D'ancrer l'enquête descriptive dans une écologie corporelle et d'auditer les glissements réductionnistes, intellectualistes ou représentationnalistes. |
 | **N'établit pas** | Le principe méthodologique général du primat de la description, la théorie détaillée des catégories ni les conditions normatives des régimes de justification. |
 
@@ -162,13 +162,13 @@ Elle correspond à une sédimentation pratique :
 
 Avant toute description explicite, le vivant possède déjà une capacité de discrimination issue de son histoire d'interactions.
 
-Dans Protokin, cette dimension appartient au plan **PROTO** :
+Dans Protokin, cette dimension appartient au plan :
 
 - causalité biologique ;
 - dynamique physique ;
 - contraintes matérielles.
 
-Elle constitue la condition d'émergence de l'espace **KIN** :
+Elle constitue la condition d'émergence de l'espace :
 
 - justification ;
 - engagement ;
