@@ -93,8 +93,8 @@
 | Position épistémique | Définir les ressources, contraintes et perspectives propres au locuteur. | [`position-epistemique.md`](position-epistemique.md) |
 | Supports descriptifs incorporés | Présenter les dispositions incorporées mobilisées dans les descriptions. | [`supports-descriptifs-incorpores.md`](supports-descriptifs-incorpores.md) |
 | Supports descriptifs externes | xxxxx | [`supports-descriptifs-externes.md`](supports-descriptifs-externes.md) |
-| Supports corporels | Décrire le rôle du corps dans les pratiques descriptives. | []()`supports-corporels.md` |
-| Pratique collective | Définir la description comme pratique collective. | []()`pratique-collective.md` |
+| Supports descriptifs institutionnels | xxxxx | [`supports-descriptifs-externes.md`](supports-descriptifs-institutionnels.md) |
+| Pratique collective | Définir la description comme pratique collective. | [`pratique-collective.md`](pratique-collective.md) |
 | Communauté de locuteurs | Définir les communautés au sein desquelles les descriptions prennent sens. | []()`communaute-de-locuteurs.md` |
 | **Norme descriptive** | Définir les règles immanentes qui rendent possibles l'évaluation et la correction des descriptions. | []()`norme-descriptive.md` |
 | Engagements descriptifs | Définir les engagements assumés par le locuteur lorsqu'il décrit. | []()`engagements-descriptifs.md` |
