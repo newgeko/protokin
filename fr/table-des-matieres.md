@@ -98,7 +98,7 @@
 | Communauté de locuteurs | Définir les communautés au sein desquelles les descriptions prennent sens. | [`communaute-de-locuteurs.md`](communaute-de-locuteurs.md) |
 | **Norme descriptive** | Définir les règles immanentes qui rendent possibles l'évaluation et la correction des descriptions. | [`norme-descriptive.md`](norme-descriptive.md) |
 | Engagements descriptifs | Définir les engagements assumés par le locuteur lorsqu'il décrit. | [`engagements-descriptifs.md`](engagements-descriptifs.md) |
-| Responsabilité normative | Définir les responsabilités attachées aux engagements descriptifs. | [`responsabilite-normative.md](responsabilite-normative.md) |
+| Responsabilité normative | Définir les responsabilités attachées aux engagements descriptifs. | [`responsabilite-normative.md`](responsabilite-normative.md) |
 | Inférences | Présenter les inférences autorisées ou interdites par les régimes descriptifs. | []()`inferences.md` |
 | Justifications | Définir les pratiques de justification des descriptions. | []()`justifications.md` |
 | Recevabilité | Définir les conditions de recevabilité d'une description. | []()`recevabilite.md` |
