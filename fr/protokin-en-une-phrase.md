@@ -57,9 +57,9 @@ N'établit pas Le développement détaillé des dix opérations descriptives, le
 
 Problème conceptuel inaugural
 
-Toute tentative d'analyser les descriptions se heurte à un risque théorique récurrent : celui de traiter les énoncés soit comme de simples miroirs d'un monde déjà organisé en objets et propriétés (réification ontologique ou réalisme naïf), soit comme de pures constructions arbitraires privées d'ancrage matériel et d'exigence normative (relativisme sceptique ou idéalisme sémantique).
+Toute tentative d'analyser les descriptions se heurte à un risque théorique récurrent : celui de traiter les énoncés soit comme de simples miroirs d'un monde déjà organisé en objets et propriétés (réification ontologique ou réalisme naïf), soit comme de pures constructions arbitraires privées d'ancrage matériel et d'exigence normative (relativisme sceptique ou idéalisme linguistique).
 
-Une définition condensée et fondatrice doit résoudre ce problème en indiquant clairement le déplacement philosophique proposé par Protokin : rompre avec la recherche d'une structure ultime et immuable des choses pour examiner les pratiques par lesquelles des collectifs de locuteurs rendent le monde descriptivement accessible, partageable, justifiable et modifiable.
+Une définition condensée et fondatrice doit résoudre ce problème en indiquant clairement le déplacement philosophique proposé par Protokin : rompre avec la recherche d'une structure ultime et immuable des choses pour examiner les pratiques par lesquelles des collectifs rendent le monde descriptivement accessible, partageable, justifiable et modifiable.
 
 ---
 
@@ -158,4 +158,4 @@ L'explicitation du Statut du projet, du Nom, origine et portée, des Principes f
 
 ---
 
-Protokin 2026 - version 1.1
+Protokin 2026 — version 26.08.081
