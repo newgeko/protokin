@@ -133,6 +133,8 @@ Fichier :
 
 [nom-du-fichier.md]
 
+Version : 26.08.081
+
 Fonction indiquée dans la table des matières :
 
 [fonction officielle]
