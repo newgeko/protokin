@@ -1,215 +1,202 @@
-# Protokin — Nom, origine et portée conceptuelle
+Protokin — Nom, origine et portée conceptuelle
 
-> **Protokin est le nom d'une métathéorie consacrée à l'étude du mouvement des pratiques descriptives.**
->
-> Il désigne une architecture conceptuelle permettant d'analyser la manière dont des configurations deviennent descriptibles, se stabilisent, se transforment et se réorganisent au sein de pratiques collectives.
+Analyse architecturale de la page
 
----
+1. Fonction unique de la page
 
-# Pourquoi « Protokin » ?
+Cette page existe pour expliciter la signification conceptuelle, l'étymologie reconstruite et la portée métathéorique du nom « Protokin » au sein de la section d'orientation d'ensemble du projet.
 
-Le nom *Protokin* n'a pas été choisi pour désigner une nouvelle théorie des objets ou une nouvelle ontologie.
+2. Choix du mode de développement
 
-Il exprime une intuition beaucoup plus générale :
+· Mode retenu : Mode A — Développement conceptuel.
+· Justification : La page a pour objectif d'établir la définition conceptuelle du nom du projet, d'en déplier l'étymologie reconstruite, et de clarifier la portée de sa posture non-ontologique appliquée au devenir des descriptions.
 
-> **les descriptions sont toujours en mouvement.**
+3. Problème conceptuel
 
-Les catégories apparaissent.
+Comment nommer, situer et orienter une métathéorie consacrée au devenir descriptif sans faire du nom une démonstration théorique close (illusion dogmatique) ou une essence immuable (illusion ontologique), tout en condensant fidèlement son ambition d'analyse des mouvements sémantiques et normatifs ?
 
-Les pratiques se transforment.
+4. Objet propre
 
-Les normes évoluent.
+· Cette page traite de : l'étymologie conceptuelle reconstituée (les termes PROTO et KIN), le déplacement analytique du mouvement des choses vers le mouvement des descriptions, l'orientation de lecture non-ontologique et le statut réflexif du nom.
+· Cette page ne traite pas de : la définition formelle de l'enquête (enquete.md), la cinétique de l'allure (allure.md), ni l'individuation physique ou biologique (PROTO au sens physique).
 
-Les communautés révisent leurs critères.
+5. Statut conceptuel
 
-Les concepts changent de fonction.
+Il s'agit d'un texte fondateur d'orientation générale appartenant à la section 00 — Se repérer.
 
-Les régimes descriptifs se déplacent.
+6. Dépendances fonctionnelles
 
-L'objet de Protokin est précisément d'étudier cette dynamique.
+Cette page suppose :
 
----
+· L'Introduction générale.
+· Protokin en une phrase.
 
-# Une étymologie conceptuelle
+Cette page rend possible :
 
-Le terme *Protokin* ne possède pas une unique origine.
+· L'explicitation des Principes fondamentaux.
+· La compréhension du Statut du projet.
+· Le déploiement de l'Architecture générale.
 
-Il fonctionne plutôt comme un condensé de plusieurs traditions qui convergent vers une même idée : celle du mouvement des configurations descriptives.
+7. Frontières conceptuelles
 
-Cette lecture n'est pas une étymologie historique.
+Nom et démonstration théorique
 
-Elle constitue une reconstruction conceptuelle assumée.
+La différence porte sur la nature de la légitimité. Le nom de Protokin ne démontre rien par lui-même ; il fonctionne comme une orientation herméneutique de lecture, tandis que les concepts tirent leur validité de l'architecture théorique elle-même.
 
----
+Mouvement physique (PROTO) et mouvement discursif (KIN)
 
-# PROTO
+La différence porte sur le registre d'intelligibilité. Le mouvement physique relève de l'espace des causes (la physis), tandis que le mouvement descriptif relève de l'espace des raisons (le logos), dont le nom Protokin articule la transition sans confusion.
 
-Le préfixe **proto-** renvoie à ce qui précède une stabilisation.
+8. Architecture locale
 
-Il désigne les conditions d'apparition d'une configuration descriptive.
-
-Il évoque :
-
-- l'émergence ;
-- la genèse ;
-- les premières différenciations ;
-- les possibilités encore ouvertes ;
-- les configurations en cours d'individuation.
-
-Dans Protokin, *proto* ne signifie donc pas « premier » au sens chronologique.
-
-Il désigne ce qui est en cours de formation.
-
----
-
-# KIN
-
-Le terme **kin** renvoie à plusieurs familles de significations qui se complètent.
-
-## La dimension kinésique
-
-Le grec *kinesis* désigne le mouvement.
-
-Cette référence rappelle que les configurations ne sont jamais figées.
-
-Elles évoluent continuellement.
-
-Le mouvement concerne :
-
-- les organismes ;
-- les pratiques ;
-- les concepts ;
-- les institutions ;
-- les descriptions.
-
-Protokin étudie cette dynamique.
+```
+          PROTOKIN EN UNE PHRASE (protokin-en-une-phrase.md)
+                             │
+                             ▼
+     PROTOKIN : NOM, ORIGINE ET PORTÉE (nom-origine-portee.md)
+                             │
+                             ▼
+              STATUT DU PROJET (statut-du-projet.md)
+```
 
 ---
 
-## La dimension historique
+Cartouche fonctionnel
 
-Le terme *kin* évoque également l'idée de continuité, de filiation et de trajectoire.
-
-Les descriptions ne surgissent jamais de rien.
-
-Elles héritent toujours :
-
-- d'une mémoire collective ;
-- d'institutions ;
-- de techniques ;
-- de classifications antérieures ;
-- de traditions d'enquête.
-
-Chaque régime descriptif possède ainsi une histoire.
+Élément Description
+Fonction Présenter le choix du nom « Protokin », son étymologie conceptuelle et sa portée métathéorique majeure.
+Prépare L'analyse des principes fondamentaux, du statut du projet et de l'architecture conceptuelle d'ensemble.
+Mobilise L'introduction générale, le problème de la descriptibilité et la formule synthétique fondatrice.
+Permet ensuite D'articuler les opérations du plan matériel (PROTO) et du plan normatif (KIN) au sein de la dynamique diachronique.
+N'établit pas Le fondement conceptuel ou la démonstration logique des catégories de Protokin.
 
 ---
 
-## La dimension relationnelle
+Problème conceptuel inaugural
 
-Enfin, *kin* rappelle l'idée de parenté (*kinship*).
+Toute métathéorie qui prend pour objet les descriptions court le risque de se figer dans une posture statique, en traitant les catégories de la connaissance comme des formes éternelles ou des représentations inertes. Pour rompre avec cette illusion de fixité sans pour autant dissoudre la rationalité dans un flux chaotique d'événements contingents, il devient nécessaire de forger une boussole terminologique. Le nom même de la métathéorie doit condenser cette ambition sans prétendre s'ériger en dogme absolu ou en preuve logique autonome.
 
-Les descriptions existent toujours au sein d'un réseau de relations.
+Dès lors, la question s'impose :
 
-Elles appartiennent à des familles conceptuelles.
+Comment nommer et orienter une métathéorie du devenir conceptuel de telle sorte que son appellation fonctionne comme un opérateur de déplacement philosophique — nous invitant à passer de l'étude du mouvement des objets à celle du mouvement des descriptions — tout en demeurant elle-même soumise à l'exigence de révisabilité ?
 
-Elles entretiennent des dépendances avec d'autres descriptions.
-
-Aucune description n'est entièrement isolée.
+Protokin résout ce problème en proposant une étymologie conceptuelle reconstituée. Le nom « Protokin » ne se présente pas comme une vérité historique ou linguistique immuable, mais comme une orientation herméneutique qui rappelle que nos descriptions ne sont jamais des états fixes, mais des pratiques collectives en transformation permanente.
 
 ---
 
-# Le mouvement des configurations
+Définition fonctionnelle
 
-Pris ensemble, **PROTO** et **KIN** expriment une idée centrale de l'architecture.
+Dans l'architecture de la métathéorie, on appelle Protokin :
 
-> **Les configurations descriptives sont toujours en mouvement.**
+Le nom d'une architecture conceptuelle et métathéorique consacrée à l'étude du mouvement des pratiques descriptives, dont l'étymologie reconstruite (PROTO-KIN) formalise le passage entre l'émergence des premières différences matérielles et la dynamique relationnelle, historique et discursive de l'espace des raisons.
 
-Elles apparaissent.
+Le choix de ce nom remplit trois rôles d'orientation indispensables :
 
-Elles se différencient.
-
-Elles s'articulent.
-
-Elles se stabilisent.
-
-Elles rencontrent des tensions.
-
-Elles se réorganisent.
-
-Elles disparaissent parfois.
-
-Protokin est l'étude de cette dynamique.
-
-Il ne cherche pas les structures éternelles du monde.
-
-Il cherche à comprendre les mouvements qui rendent les descriptions possibles.
+· Un rôle d'alerte contre le fixisme sémantique : Il rappelle constamment que les catégories apparaissent, que les normes évoluent, et que les régimes se déplacent.
+· Un rôle de transition écologique : Il articule l'amont matériel de la rencontre avec le milieu (PROTO) et l'aval normatif de la justification partagée (KIN).
+· Un rôle de réflexivité immanente : Il s'offre lui-même comme un construit historique et révisable, soumis à l'enquête qu'il prétend instituer.
 
 ---
 
-# Une architecture dynamique
+L'étymologie conceptuelle : PROTO et KIN
 
-Cette compréhension du nom traverse toute l'architecture de Protokin.
+Le terme Protokin fonctionne comme un condensé de plusieurs traditions philosophiques et scientifiques qui convergent vers l'analyse du devenir des cadres de dicibilité.
 
-Le projet étudie notamment :
+```
+                                  PROTOKIN
+                                     │
+           ┌─────────────────────────┴─────────────────────────┐
+           ▼                                                   ▼
+         PROTO                                                KIN
+(Ce qui précède la stabilisation,                    (Le mouvement des raisons,
+  conditions de genèse et d'émergence                 le réseau des dépendances
+  d'un espace de dicibilité)                          historiques et relationnelles)
+           │                                                   │
+           ▼                                       ┌───────────┼───────────┐
+  - Genèse pré-sémiotique                          ▼           ▼           ▼
+  - Possibilités ouvertes                      Kinesis     Trajectory   Kinship
+  - Individuation en cours                   (Cinétique)  (Diachronie) (Relation)
+```
 
-- l'émergence des différences ;
-- l'organisation des configurations descriptives ;
-- les engagements des locuteurs ;
-- les pratiques collectives ;
-- la stabilisation des régimes descriptifs ;
-- les tensions ;
-- l'enquête ;
-- les traductions entre régimes ;
-- les réorganisations descriptives.
+1. Le pôle PROTO : L'amont de la stabilisation
 
-Toutes ces dimensions correspondent à des mouvements.
+Le préfixe proto- renvoie à ce qui précède la consolidation d'un régime descriptif. Dans l'ordre de la métathéorie, il ne désigne pas un "premier" chronologique absolu, mais qualifie les conditions d'apparition et de genèse des descriptions :
 
-Aucune n'est conçue comme définitivement fixée.
+· L'émergence et la genèse : L'analyse des premières différenciations au sein du milieu éprouvé, avant que la situation ne soit figée par des étiquettes linguistiques.
+· Les possibilités ouvertes : L'espace des configurations descriptives encore en cours d'individuation, où les contrastes perceptifs et les traces matérielles ne sont pas encore stabilisés sous des critères rigides de correction.
 
----
+2. Le pôle KIN : Les dimensions du mouvement
 
-# Une métathéorie du devenir descriptif
+Le terme kin condense trois familles de significations complémentaires qui structurent la dimension normative et temporelle de l'espace des raisons :
 
-Protokin ne décrit pas le devenir du monde en lui-même.
+A. La dimension kinésique (Kinesis)
 
-Il décrit le devenir des descriptions du monde.
+Issu du grec kinesis (le mouvement), ce pôle rappelle que les descriptions ne sont jamais des formes inertes ou passives. Le mouvement qualifie ici l'activité continue d'ajustement, d'évaluation, de correction et de déplacement qui affecte simultanément les organismes, les concepts, les institutions et les descriptions au sein des collectifs de pratique.
 
-Autrement dit, son objet n'est pas le mouvement des choses, mais le mouvement des pratiques qui rendent ces choses descriptibles.
+B. La dimension historique (Trajectory)
 
-Ce déplacement constitue l'orientation fondamentale du projet.
+Le terme évoque la continuité, la filiation et la trajectoire temporelle d'une description. Aucune assertion ne surgit ex nihilo dans un esprit désincarné. Toute description hérite d'une mémoire collective, d'instruments de mesure sédimentés, de classifications antérieures et d'une tradition d'enquête qui orientent et contraignent ses actualisations présentes.
 
----
+C. La dimension relationnelle (Kinship)
 
-# Une lecture ouverte
-
-Aucune de ces interprétations ne constitue le fondement théorique de Protokin.
-
-Le nom ne démontre rien.
-
-Il fonctionne comme une orientation de lecture.
-
-Il rappelle que les descriptions sont toujours des pratiques en devenir.
-
-Les concepts qui composent Protokin tirent leur légitimité de l'architecture théorique elle-même, et non de l'étymologie de son nom.
+Enfin, kin rappelle l'idée de parenté et d'interdépendance relationnelle (kinship). Aucune description n'est isolée au sein d'un jeu de langage. Chaque concept appartient à des familles de catégories et entretient des dépendances fonctionnelles strictes avec d'autres descriptions qui en déterminent les incompatibilités logiques et les conséquences pratiques.
 
 ---
 
-# Principe réflexif
+Place dans l'architecture Protokin
 
-Comme toutes les notions mobilisées dans Protokin, le terme *Protokin* peut lui-même devenir l'objet d'une enquête.
+Au sein de la section 00 — Se repérer, cette page marque le moment où le projet se dote de sa signature conceptuelle, reliant l'introduction philosophique générale aux principes qui gouvernent l'enquête de second ordre :
 
-Son nom, ses usages et ses interprétations appartiennent eux aussi à une histoire.
+```
+           00 — SE REPÉRER (introduction-generale.md)
+                             │
+                             ▼
+              PROTOKIN EN UNE PHRASE (protokin-en-une-phrase.md)
+                             │
+                             ▼
+     PROTOKIN : NOM, ORIGINE ET PORTÉE (nom-origine-portee.md)
+                             │
+                             ▼
+              STATUT DU PROJET (statut-du-projet.md)
+```
 
-Ils peuvent être discutés, transformés ou révisés.
-
-Cette possibilité de révision n'est pas une faiblesse.
-
-Elle exprime l'un des engagements fondamentaux de Protokin : aucune description n'est soustraite à l'analyse, pas même celle de Protokin.
+En explicitant la signification de Protokin, le document prépare l'analyse de l'emboîtement anthropologique entre l'espace des causes (PROTO / le couplage somatique brut et pré-sémiotique) et l'espace des raisons (KIN / le mouvement réglé des justifications discursives).
 
 ---
 
-# Formule synthétique
+Éclairage par les fils rouges pédagogiques
 
-> **Protokin désigne une métathéorie du mouvement des configurations descriptives.**
->
-> **Le terme évoque simultanément l'émergence (proto), le mouvement (kinesis), la trajectoire historique et relationnelle (kinship), afin de rappeler que les descriptions ne sont jamais des états fixes mais des pratiques collectives en transformation permanente.**
+L'intuition dynamique condensée dans le nom de Protokin se déploie à travers les situations de référence de la métathéorie :
+
+· Le botaniste et le bûcheron dans la forêt : Leurs descriptions respectives de l'arbre ne sont pas des représentations statiques concurrentes d'un même objet immuable. Elles résultent de deux trajectoires historiques de transmission distinctes (le kinship des disciplines académiques pour le botaniste, le kinship des traditions de coupe pour le bûcheron) et de couplages kinésiques hétérogènes avec le milieu forestier.
+· « Cette personne est mauvaise » : Protokin montre comment cette qualification morale ordinaire fige abusivement un comportement dans une essence permanente. L'analyse protokinienne réactive le mouvement (la kinesis d'enquête) en replaçant ce jugement dans sa trajectoire historique et relationnelle, déconstruisant la réification morale pour restituer la plasticité comportementale de l'agent.
+· Le patient aux urgences : La situation hospitalière est le lieu d'un télescopage kinésique constant entre l'émergence des constantes somatiques brutes du malade (PROTO / pouls, tension) et l'organisation collective des dossiers de tri et des flux administratifs (KIN / critères de redevabilité clinique ou logistique).
+
+---
+
+Limites internes et vigilances d'usage
+
+La manipulation de cette orientation de lecture impose à l'enquêteur deux vigilances fondamentales :
+
+· Le piège de l'étymologisme dogmatique : Croire que l'analyse linguistique ou l'origine des mots suffit à démontrer la validité d'un concept. Protokin rappelle que le nom ne démontre rien ; les notions tirent exclusivement leur légitimité de leur cohérence fonctionnelle au sein de l'architecture.
+· La substantialisation du mouvement : Transformer la kinesis ou le devenir en une nouvelle substance philosophique ou une ontologie des flux qui remplacerait l'ontologie des objets. Protokin demeure une métathéorie critique de second ordre : il n'établit pas ce que le monde est (un flux en soi), mais décrit comment des collectifs stabilisent des descriptions du monde pour agir et se coordonner.
+
+---
+
+Synthèse finale
+
+Ce que cette page établit
+
+Le statut conceptuel du nom « Protokin » en tant que condensé méthodologique unifiant l'émergence des configurations (proto), le mouvement des descriptions (kinesis), leur filiation historique (trajectory) et leurs dépendances relationnelles (kinship).
+
+Ce qu'elle suppose
+
+L'Introduction générale du projet et la formule synthétique de Protokin en une phrase.
+
+Ce qu'elle rend possible
+
+Le déploiement des Principes fondamentaux (Section 01), l'explicitation du Statut du projet, et la reconstruction diachronique des Trajectoires et des Allures de second ordre (Section 06).
+
+---
+
+Protokin 2026 — version 26.08.081
