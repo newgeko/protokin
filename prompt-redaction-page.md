@@ -344,3 +344,7 @@ Une page Protokin réussie n'est pas une page qui contient beaucoup d'informatio
 C'est une page qui accomplit exactement une opération architecturale :
 
 > établir une fonction conceptuelle nécessaire dans la reconstruction de la grammaire des pratiques descriptives.
+
+# Version 
+
+Écrire : Protokin 2026 - version 1.1
