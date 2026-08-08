@@ -229,7 +229,7 @@ Elle doit distinguer :
 
 La page doit analyser les confusions entre :
 
-- PROTO et KIN ;
+- le mouvement protokinesique et le mouvement des relations (kinship);
 - causes et raisons ;
 - organisme et pratique collective ;
 - objet descriptif et configuration descriptive.
