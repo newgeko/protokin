@@ -132,17 +132,15 @@
 **Fonction générale :** Comprendre l'inscription temporelle des descriptions et de leurs transformations.
 
 | Titre | Fonction | Fichier |
-|--------|----------|----------|
-| README | Présenter la temporalité descriptive. | []()`README.md` |
-| Position | Définir la position au sein d'une trajectoire descriptive. | []()`position.md` |
-| Trajectoire | Définir les trajectoires des descriptions. | []()`trajectoire.md` |
-| Allure | Définir la dynamique propre aux trajectoires descriptives. | []()`allure.md` |
-| Historicité | Définir l'historicité des descriptions. | []()`historicite.md` |
-| Temporalité descriptive | Présenter la temporalité propre aux pratiques descriptives. | []()`temporalite-descriptive.md` |
-| Sédimentation | Décrire les processus de sédimentation des descriptions. | []()`sedimentation.md` |
-| Réorganisation | Décrire les réorganisations internes des pratiques descriptives. | []()`reorganisation.md` |
-
----
+|---|---|---|
+| README | Présenter la temporalité descriptive. | [`README.md`](README.md) |
+| Position | Définir la position au sein d'une trajectoire descriptive. | [`position.md`](position.md) |
+| Trajectoire | Définir les trajectoires des descriptions. | [`trajectoire.md`](trajectoire.md) |
+| Allure | Définir la dynamique propre aux trajectoires descriptives. | [`allure.md`](allure.md) |
+| Historicité | Définir l'historicité des descriptions. | [`historicite.md`](historicite.md) |
+| Temporalité descriptive | Présenter la temporalité propre aux pratiques descriptives. | [`temporalite-descriptive.md`](temporalite-descriptive.md) |
+| Sédimentation | Décrire les processus de sédimentation des descriptions. | [`sedimentation.md`](sedimentation.md) |
+| Réorganisation | Décrire les réorganisations internes des pratiques descriptives. | [`reorganisation.md`](reorganisation.md) |
 
 ---
 
