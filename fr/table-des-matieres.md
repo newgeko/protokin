@@ -101,6 +101,7 @@
 | Responsabilité normative | Définir les responsabilités attachées aux engagements descriptifs. | [`responsabilite-normative.md`](responsabilite-normative.md) |
 | Inférences | Présenter les inférences autorisées ou interdites par les régimes descriptifs. | []()`inferences.md` |
 | Justifications | Définir les pratiques de justification des descriptions. | []()`justifications.md` |
+| Comptabilité déontique (Scorekeeping) | Approfondir la gestion des engagements mentionnée dans la page Assertion. | `comptabilite.md` |
 | Recevabilité | Définir les conditions de recevabilité d'une description. | []()`recevabilite.md` |
 | Validité | Définir la validité descriptive au sein d'un régime. | []()`validite.md` |
 | Stabilisation | Expliquer comment les descriptions se stabilisent dans le temps. | []()`stabilisation.md` |
