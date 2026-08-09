@@ -118,6 +118,7 @@
 | Tension | Définir les tensions internes aux pratiques descriptives. | []()`tension.md` |
 | Limite interne | Définir les limites propres à un régime descriptif. | []()`limite-interne.md` |
 | Traduction | Définir la traduction entre descriptions ou régimes descriptifs. | []()`traduction.md` |
+ Connecteurs de traduction | Développer les protocoles permettant l'hybridation des régimes (ex : sylviculture écologique). | `connecteurs-de-traduction.md` |
 | Transition | Décrire les passages entre configurations descriptives. | []()`transition.md` |
 | Transformation | Définir les transformations des descriptions. | []()`transformation.md` |
 | Maintien | Décrire les mécanismes assurant la continuité des descriptions. | []()`maintien.md` |
