@@ -192,6 +192,7 @@
 | Auto-application | Montrer comment Protokin applique ses propres outils à son architecture. | []()`auto-application.md` |
 | Limites de Protokin | Délimiter le domaine d'application et les limites de la théorie. | []()`limites-de-protokin.md` |
 | Injustice épistémique | Présenter l'apport de Miranda Fricker sur les asymétries de participation aux pratiques de connaissance. | []()`injustice-epistemique.md` |
+| Injustice herméneutique | Formaliser le déficit de catégories empêchant une communauté de rendre son expérience intelligible. | `injustice-hermeneutique.md` |
 | Écologie des régimes descriptifs | Décrire la coexistence et les relations entre différents régimes descriptifs. | []()`ecologie-des-regimes-descriptifs.md` |
 
 ---
