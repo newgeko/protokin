@@ -69,7 +69,6 @@
 | Qualification | Définir l'opération de qualification. | [`qualification.md` ](qualification.md)|
 | Assertion | Définir l'acte d'assertion. | [`assertion.md`](assertion.md) |
 | Prédication | Définir la fonction de prédication. | [`predication.md`](predication.md) |
-| De la notion au concept | Formaliser le passage dynamique de la saisie intuitive (notion) à la catégorie explicitée (concept) par l'opérateur d'enquête. | [`de-la-notion-au-concept.md`](de-la-notion-au-concept.md) | 
 | Catégories | Définir les catégories descriptives. | [`categories.md`](categories.md) |
 | Critères | Définir les critères descriptifs permettant l'application des catégories. | [`criteres.md`](criteres.md) |
 | Taxonomies | Définir l'organisation des catégories au sein d'un régime descriptif. | [`taxonomies.md`](taxonomies.md) |
@@ -96,8 +95,9 @@
 | Supports descriptifs externes | xxxxx | [`supports-descriptifs-externes.md`](supports-descriptifs-externes.md) |
 | Supports descriptifs institutionnels | xxxxx | [`supports-descriptifs-externes.md`](supports-descriptifs-institutionnels.md) |
 | Pratique collective | Définir la description comme pratique collective. | [`pratique-collective.md`](pratique-collective.md) |
+| De la notion au concept | Formaliser le passage dynamique de la saisie intuitive (notion) à la catégorie explicitée (concept) par l'opérateur d'enquête. | [`de-la-notion-au-concept.md`](de-la-notion-au-concept.md) | 
 | Communauté de locuteurs | Définir les communautés au sein desquelles les descriptions prennent sens. | [`communaute-de-locuteurs.md`](communaute-de-locuteurs.md) |
-| **Norme descriptive** | Définir les règles immanentes qui rendent possibles l'évaluation et la correction des descriptions. | [`norme-descriptive.md`](norme-descriptive.md) |
+| Norme descriptive | Définir les règles immanentes qui rendent possibles l'évaluation et la correction des descriptions. | [`norme-descriptive.md`](norme-descriptive.md) |
 | Engagements descriptifs | Définir les engagements assumés par le locuteur lorsqu'il décrit. | [`engagements-descriptifs.md`](engagements-descriptifs.md) |
 | Responsabilité normative | Définir les responsabilités attachées aux engagements descriptifs. | [`responsabilite-normative.md`](responsabilite-normative.md) |
 | Inférences | Présenter les inférences autorisées ou interdites par les régimes descriptifs. | []()`inferences.md` |
