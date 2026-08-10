@@ -154,7 +154,7 @@
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
-| 07 - Explication | Présenter les différents modes d'explication dans Protokin. | [`07-explication.md`](07-methode-explication.md)`README.md` |
+| 07 - Explication | Présenter les différents modes d'explication dans Protokin. | [`07-explication.md`](07-methode-explication.md) |
 | Causes | Définir les explications causales appartenant à l'espace des causes. | [`causes.md`](causes.md) |
 | Raisons | Définir les explications par les raisons appartenant à l'espace des raisons. | [`raisons.md`](raisons.md) |
 | Image manifeste | Présenter les descriptions issues de l'expérience vécue et des pratiques ordinaires. | [`image-manifeste.md`](image-manifeste.md) |
@@ -180,8 +180,8 @@
 | Comparer deux descriptions | Présenter la comparaison entre configurations descriptives différentes. | [`comparer-deux-descriptions.md`](comparer-deux-descriptions.md) |
 | Diagnostiquer une réduction | Décrire les réductions qui confondent un régime avec un autre. | [`diagnostiquer-une-reduction.md`](`diagnostiquer-une-reduction.md`) |
 | Diagnostiquer une confusion de niveau | Décrire les erreurs liées aux changements de niveau descriptif. | [`diagnostiquer-une-confusion-de-niveau.md`](diagnostiquer-une-confusion-de-niveau.md) |
-| Diagnostiquer une erreur de catégorie | Décrire les erreurs produites par l'application inadéquate d'une catégorie. | []()`diagnostiquer-une-erreur-de-categorie.md` |
-| Évaluer une traduction | Définir l'évaluation des traductions entre régimes descriptifs. | []()`evaluer-une-traduction.md` |
+| Diagnostiquer une erreur de catégorie | Décrire les erreurs produites par l'application inadéquate d'une catégorie. | [`diagnostiquer-une-erreur-de-categorie.md`](diagnostiquer-une-erreur-de-categorie.md) |
+| Évaluer une traduction | Définir l'évaluation des traductions entre régimes descriptifs. | [`evaluer-une-traduction.md`](evaluer-une-traduction.md) |
 
 ---
 
