@@ -85,7 +85,11 @@ Il fournit le cadre général de rédaction des pages Protokin.
 
 Il fournit les contraintes spécifiques à la section concernée.
 
-## 3.3 `table-des-matieres.md`
+## 3.3 f`onctions-limites-des-sections.md`
+
+Il fournit les fonction de chaque section.
+
+## 3.4 `table-des-matieres.md`
 
 Il permet de déterminer :
 
