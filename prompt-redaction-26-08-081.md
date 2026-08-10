@@ -87,7 +87,7 @@ Il fournit les contraintes spécifiques à la section concernée.
 
 ## 3.3 `fonctions-limites-des-sections.md`
 
-Il fournit les fonctions de chaque section.
+Il fournit les fonctions et les limites de chaque section.
 
 ## 3.4 `table-des-matieres.md`
 
