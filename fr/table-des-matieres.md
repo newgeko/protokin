@@ -105,7 +105,7 @@
 | Recevabilité | Définir les conditions de recevabilité d'une description. | []()`recevabilite.md` |
 | Validité | Définir la validité descriptive au sein d'un régime. | []()`validite.md` |
 | Stabilisation | Expliquer comment les descriptions se stabilisent dans le temps. | []()`stabilisation.md` |
-| Effet cliquet | Présenter les mécanismes de stabilisation cumulative des descriptions. | []()`effet-cliquet.md` |
+| Irréversibilté descriptive | Présenter les mécanismes de stabilisation cumulative des descriptions. | []()`effet-cliquet.md` |
 
 ---
 
