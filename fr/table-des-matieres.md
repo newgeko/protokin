@@ -100,13 +100,13 @@
 | Norme descriptive | Définir les règles immanentes qui rendent possibles l'évaluation et la correction des descriptions. | [`norme-descriptive.md`](norme-descriptive.md) |
 | Engagements descriptifs | Définir les engagements assumés par le locuteur lorsqu'il décrit. | [`engagements-descriptifs.md`](engagements-descriptifs.md) |
 | Responsabilité normative | Définir les responsabilités attachées aux engagements descriptifs. | [`responsabilite-normative.md`](responsabilite-normative.md) |
-| Inférences | Présenter les inférences autorisées ou interdites par les régimes descriptifs. | []()`inferences.md` |
-| Justifications | Définir les pratiques de justification des descriptions. | []()`justifications.md` |
-| Comptabilité déontique (Scorekeeping) | Approfondir la gestion des engagements mentionnée dans la page Assertion. | `comptabilite.md` |
-| Recevabilité | Définir les conditions de recevabilité d'une description. | []()`recevabilite.md` |
-| Validité | Définir la validité descriptive au sein d'un régime. | []()`validite.md` |
-| Stabilisation | Expliquer comment les descriptions se stabilisent dans le temps. | []()`stabilisation.md` |
-| Irréversibilté descriptive | Présenter les mécanismes de stabilisation cumulative des descriptions. | []()`effet-cliquet.md` |
+| Inférences | Présenter les inférences autorisées ou interdites par les régimes descriptifs. | [`inferences.md`](inferences.md) |
+| Justifications | Définir les pratiques de justification des descriptions. | [`justifications.md`](justifications.md) |
+| Comptabilité déontique (Scorekeeping) | Approfondir la gestion des engagements mentionnée dans la page Assertion. | [`comptabilite.md`](comptabilite.md) |
+| Recevabilité | Définir les conditions de recevabilité d'une description. | [`recevabilite.md`](recevabilite.md) |
+| Validité | Définir la validité descriptive au sein d'un régime. | [`validite.md`](validite.md) |
+| Stabilisation | Expliquer comment les descriptions se stabilisent dans le temps. | [`stabilisation.md`](stabilisation.md) |
+| Irréversibilté descriptive | Présenter les mécanismes de stabilisation cumulative des descriptions. | [`effet-cliquet.md`](`effet-cliquet.md`) |
 
 ---
 
@@ -117,16 +117,16 @@
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
 | README | Présenter la dynamique des descriptions. | []()`README.md` |
-| Tension | Définir les tensions internes aux pratiques descriptives. | []()`tension.md` |
-| Limite interne | Définir les limites propres à un régime descriptif. | []()`limite-interne.md` |
-| Traduction | Définir la traduction entre descriptions ou régimes descriptifs. | []()`traduction.md` |
- Connecteurs de traduction | Développer les protocoles permettant l'hybridation des régimes (ex : sylviculture écologique). | `connecteurs-de-traduction.md` |
-| Transition | Décrire les passages entre configurations descriptives. | []()`transition.md` |
-| Transformation | Définir les transformations des descriptions. | []()`transformation.md` |
-| Maintien | Décrire les mécanismes assurant la continuité des descriptions. | []()`maintien.md` |
-| Reproduction | Définir la reproduction des pratiques descriptives. | []()`reproduction.md` |
-| Controverse | Décrire les controverses entre descriptions concurrentes. | []()`controverse.md` |
-| Innovation | Décrire l'émergence de nouvelles descriptions. | []()`innovation.md` |
+| Tension | Définir les tensions internes aux pratiques descriptives. | [`tension.md`](tension.md) |
+| Limite interne | Définir les limites propres à un régime descriptif. | [`limite-interne.md`](limite-interne.md) |
+| Traduction | Définir la traduction entre descriptions ou régimes descriptifs. | [`traduction.md`](traduction.md) |
+| Connecteurs de traduction | Développer les protocoles permettant l'hybridation des régimes (ex : sylviculture écologique). | [`connecteurs-de-traduction.md`](connecteurs-de-traduction.md) |
+| Transition | Décrire les passages entre configurations descriptives. | [`transition.md`](transition.md) |
+| Transformation | Définir les transformations des descriptions. | [`transformation.md`](transformation.md) |
+| Maintien | Décrire les mécanismes assurant la continuité des descriptions. | [`maintien.md`](maintien.md) |
+| Reproduction | Définir la reproduction des pratiques descriptives. | [`reproduction.md`](reproduction.md) |
+| Controverse | Décrire les controverses entre descriptions concurrentes. | [`controverse.md`](controverse.md) |
+| Innovation | Décrire l'émergence de nouvelles descriptions. | [`innovation.md`](innovation.md) |
 
 ---
 
@@ -154,14 +154,14 @@
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
 | README | Présenter les différents modes d'explication dans Protokin. | []()`README.md` |
-| Causes | Définir les explications causales appartenant à l'espace des causes. | []()`causes.md` |
-| Raisons | Définir les explications par les raisons appartenant à l'espace des raisons. | []()`raisons.md` |
-| Image manifeste | Présenter les descriptions issues de l'expérience vécue et des pratiques ordinaires. | []()`image-manifeste.md` |
-| Image scientifique | Présenter les descriptions produites par les régimes scientifiques. | []()`image-scientifique.md` |
-| Puissance descriptive | Définir la capacité d'une description à organiser, prévoir et transformer un domaine. | []()`puissance-descriptive.md` |
-| Compatibilités | Décrire les relations de compatibilité entre différents régimes descriptifs. | []()`compatibilites.md` |
-| Incompatibilités | Décrire les tensions et contradictions entre descriptions. | []()`incompatibilites.md` |
-| Explication | Définir l'explication comme opération descriptive située. | []()`explication.md` |
+| Causes | Définir les explications causales appartenant à l'espace des causes. | [`causes.md`](causes.md) |
+| Raisons | Définir les explications par les raisons appartenant à l'espace des raisons. | [`raisons.md`](raisons.md) |
+| Image manifeste | Présenter les descriptions issues de l'expérience vécue et des pratiques ordinaires. | [`image-manifeste.md`](image-manifeste.md) |
+| Image scientifique | Présenter les descriptions produites par les régimes scientifiques. | [`image-scientifique.md`](image-scientifique.md) |
+| Puissance descriptive | Définir la capacité d'une description à organiser, prévoir et transformer un domaine. | [`puissance-descriptive.md`](puissance-descriptive.md) |
+| Compatibilités | Décrire les relations de compatibilité entre différents régimes descriptifs. | [`compatibilites.md`](compatibilites.md) |
+| Incompatibilités | Décrire les tensions et contradictions entre descriptions. | [`incompatibilites.md`](incompatibilites.md) |
+| Explication | Définir l'explication comme opération descriptive située. | [`explication.md`](explication.md) |
 
 ---
 
@@ -172,13 +172,13 @@
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
 | README | Présenter la méthode générale d'analyse protokinienne. | []()`README.md` |
-| Qu'est-ce qu'une enquête ? | Définir l'enquête comme processus de transformation d'une situation problématique. | []()`enquete.md` |
-| Comment conduire une enquête | Présenter les étapes pratiques d'une enquête protokinienne. | []()`conduire-une-enquete.md` |
-| Comment réaliser un audit | Présenter l'audit comme examen des conditions descriptives d'une pratique. | []()`realiser-un-audit.md` |
-| Identifier un régime | Expliquer comment reconnaître un régime descriptif. | []()`identifier-un-regime.md` |
-| Comparer deux descriptions | Présenter la comparaison entre configurations descriptives différentes. | []()`comparer-deux-descriptions.md` |
-| Diagnostiquer une réduction | Décrire les réductions qui confondent un régime avec un autre. | []()`diagnostiquer-une-reduction.md` |
-| Diagnostiquer une confusion de niveau | Décrire les erreurs liées aux changements de niveau descriptif. | []()`diagnostiquer-une-confusion-de-niveau.md` |
+| Qu'est-ce qu'une enquête ? | Définir l'enquête comme processus de transformation d'une situation problématique. | [`enquete.md`](enquete.md) |
+| Comment conduire une enquête | Présenter les étapes pratiques d'une enquête protokinienne. | [`conduire-une-enquete.md`](conduire-une-enquete.md) |
+| Comment réaliser un audit | Présenter l'audit comme examen des conditions descriptives d'une pratique. | [`realiser-un-audit.md`](realiser-un-audit.md) |
+| Identifier un régime | Expliquer comment reconnaître un régime descriptif. | [`identifier-un-regime.md`](identifier-un-regime.md) |
+| Comparer deux descriptions | Présenter la comparaison entre configurations descriptives différentes. | [`comparer-deux-descriptions.md`](comparer-deux-descriptions.md) |
+| Diagnostiquer une réduction | Décrire les réductions qui confondent un régime avec un autre. | [`diagnostiquer-une-reduction.md`](`diagnostiquer-une-reduction.md`) |
+| Diagnostiquer une confusion de niveau | Décrire les erreurs liées aux changements de niveau descriptif. | [`diagnostiquer-une-confusion-de-niveau.md`](diagnostiquer-une-confusion-de-niveau.md) |
 | Diagnostiquer une erreur de catégorie | Décrire les erreurs produites par l'application inadéquate d'une catégorie. | []()`diagnostiquer-une-erreur-de-categorie.md` |
 | Évaluer une traduction | Définir l'évaluation des traductions entre régimes descriptifs. | []()`evaluer-une-traduction.md` |
 
