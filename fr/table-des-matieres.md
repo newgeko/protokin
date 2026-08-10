@@ -69,7 +69,7 @@
 | Qualification | Définir l'opération de qualification. | [`qualification.md` ](qualification.md)|
 | Assertion | Définir l'acte d'assertion. | [`assertion.md`](assertion.md) |
 | Prédication | Définir la fonction de prédication. | [`predication.md`](predication.md) |
-| De la notion au concept | formaliser le passage dynamique de la saisie intuitive (notion) à la catégorie explicitée (concept) par l'opérateur d'enquête. | [`de-la-notion-au-concept.md`](de-la-notion-au-concept.md) | 
+| De la notion au concept | Formaliser le passage dynamique de la saisie intuitive (notion) à la catégorie explicitée (concept) par l'opérateur d'enquête. | [`de-la-notion-au-concept.md`](de-la-notion-au-concept.md) | 
 | Catégories | Définir les catégories descriptives. | [`categories.md`](categories.md) |
 | Critères | Définir les critères descriptifs permettant l'application des catégories. | [`criteres.md`](criteres.md) |
 | Taxonomies | Définir l'organisation des catégories au sein d'un régime descriptif. | [`taxonomies.md`](taxonomies.md) |
