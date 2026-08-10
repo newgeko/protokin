@@ -8,7 +8,7 @@
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
-| README | Présenter la section et son rôle dans l'ensemble de l'ouvrage. | [`README.md`](README.md) |
+| 00 - Se repérer | Présenter la section et son rôle dans l'ensemble de l'ouvrage. | [`00-se-reperer.md`](00-se-reperer.md) |
 | Introduction générale | Présenter le déplacement fondamental de Protokin et son objet. | [introduction-generale.md](introduction-generale.md) |
 | Protokin en une phrase | Donner la définition synthétique du projet. | [`protokin-en-une-phrase.md`](protokin-en-une-phrase.md) |
 | Statut du projet | Expliquer ce que Protokin est… et ce qu'il n'est pas. | [`statut-du-projet.md`](statut-du-projet.md) |
@@ -25,7 +25,7 @@
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
-| README | Présenter le rôle des principes dans Protokin. | []()`README.md` |
+| 01 - Principes fondamentaux | Présenter le rôle des principes dans Protokin. | [`01-principes-fondamentaux.md`](01-principes-fondamentaux.md) |
 | Le primat du couplage organisme-milieu | Établir que toute description émerge d'une relation dynamique entre un organisme et son milieu. | [`primat-couplage-organisme-milieu.md`](primat-couplage-organisme-milieu.md) |
 | Le primat du couplage perception-action | Établir que toute description commence par une dynamique d'interaction, de perception et d'ajustement avec le milieu. | [`primat-couplage-perception-action.md`](primat-couplage-perception-action.md) |
 | Le primat de la description | Justifier le point de départ descriptif de Protokin. | [`primat-description.md`](primat-description.md) |
@@ -46,9 +46,10 @@
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
-| README | Présenter l'organisation générale de Protokin. | []()`README.md` |
-| Architecture conceptuelle | Donner la cartographie des principaux concepts. | []()`architecture-conceptuelle.md` |
-| Architecture fonctionnelle | Présenter la dynamique générale des opérations descriptives. | []()`architecture-fonctionnelle.md` |
+| 02 - Architecture générale | Présenter l'organisation générale de Protokin. | [`02-architecture-generale.md`](02-architecture-generale.md) |
+| Architecture conceptuelle | Donner la cartographie des principaux concepts. | [`architecture-conceptuelle.md`](architecture-conceptuelle.md) |
+| Architecture fonctionnelle | Présenter la dynamique générale des opérations descriptives. | [`architecture-fonctionnelle.md`](architecture-fonctionnelle.md) |
+
 
 ---
 
@@ -58,7 +59,7 @@
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
-| README | Introduire les fondements descriptifs. | []()`README.md` |
+| 03 - Fondements descriptifs | Introduire les fondements descriptifs. | [`03-fondements-descriptifs.md`](03-fondements-descriptifs.md) |
 | Configuration rencontrée | Définir ce qui est rencontré avant toute description. | [`configuration-rencontree.md`](configuration-rencontree.md) |
 | Couplage perception-action | Présenter le couplage à l'origine de toute activité descriptive. | [`couplage-perception-action.md`](couplage-perception-action.md) |
 | Configuration sémiotique | Définir l'organisation des différences devenues partageables. | [`configuration-semiotique.md`](configuration-semiotique.md) |
@@ -86,7 +87,7 @@
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
-| README | Présenter le fonctionnement collectif des pratiques descriptives. | []()`README.md` |
+| 04 - Pratiques descriptives | Présenter le fonctionnement collectif des pratiques descriptives. | [`04-pratiques-descriptives.md`](04-pratiques-descriptives.md) |
 | Le locuteur | Définir la position du locuteur dans une pratique descriptive. | [`locuteur.md`](locuteur.md) |
 | L'auditeur | Définir la position de l'auditeur dans l'évaluation et la reprise des descriptions. | [`auditeur.md`](auditeur.md) |
 | Relation locuteur-auditeur | Définir l'espace interactionnel où les descriptions sont évaluées, reprises, contestées ou justifiées. | [`relation-locuteur-auditeur.md`](relation-locuteur-auditeur.md) |
@@ -116,7 +117,7 @@
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
-| README | Présenter la dynamique des descriptions. | []()`README.md` |
+| 05 - Dynamique descriptive | Présenter la dynamique des descriptions. | [`05-dynamique.md`](05-dynamique.md) |
 | Tension | Définir les tensions internes aux pratiques descriptives. | [`tension.md`](tension.md) |
 | Limite interne | Définir les limites propres à un régime descriptif. | [`limite-interne.md`](limite-interne.md) |
 | Traduction | Définir la traduction entre descriptions ou régimes descriptifs. | [`traduction.md`](traduction.md) |
@@ -136,7 +137,7 @@
 
 | Titre | Fonction | Fichier |
 |---|---|---|
-| README | Présenter la temporalité descriptive. | [`README.md`](README.md) |
+| 06 - Temporalité | Présenter la temporalité descriptive. | [`06-temporalite.md`](06-temporalite.md) |
 | Position | Définir la position au sein d'une trajectoire descriptive. | [`position.md`](position.md) |
 | Trajectoire | Définir les trajectoires des descriptions. | [`trajectoire.md`](trajectoire.md) |
 | Allure | Définir la dynamique propre aux trajectoires descriptives. | [`allure.md`](allure.md) |
@@ -153,7 +154,7 @@
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
-| README | Présenter les différents modes d'explication dans Protokin. | []()`README.md` |
+| 07 - Explication | Présenter les différents modes d'explication dans Protokin. | [`07-explication.md`](07-methode-explication.md)`README.md` |
 | Causes | Définir les explications causales appartenant à l'espace des causes. | [`causes.md`](causes.md) |
 | Raisons | Définir les explications par les raisons appartenant à l'espace des raisons. | [`raisons.md`](raisons.md) |
 | Image manifeste | Présenter les descriptions issues de l'expérience vécue et des pratiques ordinaires. | [`image-manifeste.md`](image-manifeste.md) |
@@ -171,7 +172,7 @@
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
-| README | Présenter la méthode générale d'analyse protokinienne. | []()`README.md` |
+| 08 - Méthode Protokin | Présenter la méthode générale d'analyse protokinienne. | [`08-methode-protokin.md`](08-methode-protokin.md) |
 | Qu'est-ce qu'une enquête ? | Définir l'enquête comme processus de transformation d'une situation problématique. | [`enquete.md`](enquete.md) |
 | Comment conduire une enquête | Présenter les étapes pratiques d'une enquête protokinienne. | [`conduire-une-enquete.md`](conduire-une-enquete.md) |
 | Comment réaliser un audit | Présenter l'audit comme examen des conditions descriptives d'une pratique. | [`realiser-un-audit.md`](realiser-un-audit.md) |
@@ -190,13 +191,13 @@
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
-| README | Présenter la dimension réflexive de Protokin. | []()`README.md` |
-| Réflexivité | Définir la réflexivité comme examen des propres conditions descriptives. | []()`reflexivite.md` |
-| Auto-application | Montrer comment Protokin applique ses propres outils à son architecture. | []()`auto-application.md` |
-| Limites de Protokin | Délimiter le domaine d'application et les limites de la théorie. | []()`limites-de-protokin.md` |
-| Injustice épistémique | Présenter l'apport de Miranda Fricker sur les asymétries de participation aux pratiques de connaissance. | []()`injustice-epistemique.md` |
-| Injustice herméneutique | Formaliser le déficit de catégories empêchant une communauté de rendre son expérience intelligible. | `injustice-hermeneutique.md` |
-| Écologie des régimes descriptifs | Décrire la coexistence et les relations entre différents régimes descriptifs. | []()`ecologie-des-regimes-descriptifs.md` |
+| 09 - Réfléxivité | Présenter la dimension réflexive de Protokin. | [`09-reflexivite.md`](`09-reflexivite.md`) |
+| Réflexivité | Définir la réflexivité comme examen des propres conditions descriptives. | [`reflexivite.md`](reflexivite.md) |
+| Auto-application | Montrer comment Protokin applique ses propres outils à son architecture. | [`auto-application.md`](auto-application.md) |
+| Limites de Protokin | Délimiter le domaine d'application et les limites de la théorie. | [`limites-de-protokin.md`](limites-de-protokin.md) |
+| Injustice épistémique | Présenter l'apport de Miranda Fricker sur les asymétries de participation aux pratiques de connaissance. | [`injustice-epistemique.md`](injustice-epistemique.md) |
+| Injustice herméneutique | Formaliser le déficit de catégories empêchant une communauté de rendre son expérience intelligible. | [`injustice-hermeneutique.md`](injustice-hermeneutique.md) |
+| Écologie des régimes descriptifs | Décrire la coexistence et les relations entre différents régimes descriptifs. | [`ecologie-des-regimes-descriptifs.md`](ecologie-des-regimes-descriptifs.md) |
 
 ---
 
@@ -206,7 +207,7 @@
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
-| README | Présenter les héritages philosophiques mobilisés. | []()`README.md` |
+| 10 - Héritages philosophiques | Présenter les héritages philosophiques mobilisés. | [`10-heritages-philosophiques.md`](10-heritages-philosophiques.md) |
 | John Dewey | Présenter l'apport du pragmatisme et de l'enquête. | []()`john-dewey.md` |
 | Wilfrid Sellars | Présenter la distinction entre espace des causes et espace des raisons. | []()`wilfrid-sellars.md` |
 | Robert Brandom | Présenter l'inférentialisme et la normativité discursive. | []()`robert-brandom.md` |
@@ -230,16 +231,16 @@
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
-| README | Présenter le rôle des études de cas dans l'application de Protokin. | []()`README.md` |
-| Géocentrisme | Analyser la transformation d'un régime cosmologique et les conditions de son remplacement. | []()`geocentrisme.md` |
-| Phlogistique | Analyser une théorie scientifique disparue et la transformation de ses critères descriptifs. | []()`phlogistique.md` |
-| Théorie des humeurs | Analyser un régime médical historique et ses catégories descriptives. | []()`theorie-des-humeurs.md` |
-| Changement climatique | Analyser la coexistence de régimes scientifiques, politiques et médiatiques autour du climat. | []()`changement-climatique.md` |
-| Intelligence artificielle | Analyser les différents régimes descriptifs mobilisés autour de l'intelligence artificielle. | []()`intelligence-artificielle.md` |
-| Cette personne est mauvaise | Analyser une qualification morale et les conditions de sa stabilisation normative. | []()`cette-personne-est-mauvaise.md` |
-| Cette personne est dangereuse | Analyser une qualification sécuritaire et les effets institutionnels de sa fixation. | []()`cette-personne-est-dangereuse.md` |
-| Botaniste / bûcheron | Comparer deux régimes descriptifs portant sur un même milieu. | []()`botaniste-bucheron.md` |
-| Urgences hospitalières | Analyser une pratique collective où plusieurs régimes descriptifs interagissent. | []()`urgences-hospitalieres.md` |
+| 11 - Etudes de cas | Présenter le rôle des études de cas dans l'application de Protokin. | [`11-etudes-de-cas.md`](11-etudes-de-cas.md) |
+| Géocentrisme | Analyser la transformation d'un régime cosmologique et les conditions de son remplacement. | [`geocentrisme.md`](geocentrisme.md) |
+| Phlogistique | Analyser une théorie scientifique disparue et la transformation de ses critères descriptifs. | [`phlogistique.md`](phlogistique.md) |
+| Théorie des humeurs | Analyser un régime médical historique et ses catégories descriptives. | [`theorie-des-humeurs.md](theorie-des-humeurs.md) |
+| Changement climatique | Analyser la coexistence de régimes scientifiques, politiques et médiatiques autour du climat. | [`changement-climatique.md`](changement-climatique.md) |
+| Intelligence artificielle | Analyser les différents régimes descriptifs mobilisés autour de l'intelligence artificielle. | [`intelligence-artificielle.md`](intelligence-artificielle.md) |
+| Cette personne est mauvaise | Analyser une qualification morale et les conditions de sa stabilisation normative. | [`cette-personne-est-mauvaise.md`](cette-personne-est-mauvaise.md) |
+| Cette personne est dangereuse | Analyser une qualification sécuritaire et les effets institutionnels de sa fixation. | [`cette-personne-est-dangereuse.md`](cette-personne-est-dangereuse.md)`cette-personne-est-dangereuse.md` |
+| Botaniste / bûcheron | Comparer deux régimes descriptifs portant sur un même milieu. | [`botaniste-bucheron.md`](botaniste-bucheron.md) |
+| Urgences hospitalières | Analyser une pratique collective où plusieurs régimes descriptifs interagissent. | [`urgences-hospitalieres.md`](urgences-hospitalieres.md) |
 
 ---
 
@@ -249,10 +250,10 @@
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
-| README | Présenter la conclusion générale de l'ouvrage. | []()`README.md` |
-| Ce que Protokin permet | Récapituler les possibilités ouvertes par l'analyse des régimes descriptifs. | []()`ce-que-protokin-permet.md` |
-| Ce que Protokin ne prétend pas faire | Délimiter explicitement le statut métathéorique et les limites du projet. | []()`ce-que-protokin-ne-pretend-pas-faire.md` |
-| Perspectives de recherche | Présenter les prolongements possibles de Protokin. | []()`perspectives-de-recherche.md` |
+| 12 - Conclusion | Présenter la conclusion générale de l'ouvrage. | [`12-conclusion.md`](12-conclusion.md) |
+| Ce que Protokin permet | Récapituler les possibilités ouvertes par l'analyse des régimes descriptifs. | [`ce-que-protokin-permet.md`](ce-que-protokin-permet.md) |
+| Ce que Protokin ne prétend pas faire | Délimiter explicitement le statut métathéorique et les limites du projet. | [`ce-que-protokin-ne-pretend-pas-faire.md`](ce-que-protokin-ne-pretend-pas-faire.md) |
+| Perspectives de recherche | Présenter les prolongements possibles de Protokin. | [`perspectives-de-recherche.md`](perspectives-de-recherche.md) |
 
 ---
 
