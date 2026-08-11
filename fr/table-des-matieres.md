@@ -61,6 +61,7 @@
 |--------|----------|----------|
 | 03 - Fondements descriptifs | Introduire les fondements descriptifs. | [`03-fondements-descriptifs.md`](03-fondements-descriptifs.md) |
 | Configuration rencontrée | Définir ce qui est rencontré avant toute description. | [`configuration-rencontree.md`](configuration-rencontree.md) |
+| Différence rencontrée| Définir la genèse émergente des contrastes dans le couplage organisme-milieu. | [`difference-rencontree.md`](difference-rencontree.md) |
 | Couplage perception-action | Présenter le couplage à l'origine de toute activité descriptive. | [`couplage-perception-action.md`](couplage-perception-action.md) |
 | Configuration sémiotique | Définir l'organisation des différences devenues partageables. | [`configuration-semiotique.md`](configuration-semiotique.md) |
 | Support descriptif | Définir les médiations matérielles, sémiotiques et institutionnelles des descriptions. | [`support-descriptif.md`](support-descriptif.md) |
