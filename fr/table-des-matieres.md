@@ -63,6 +63,8 @@
 | Configuration rencontrée | Définir ce qui est rencontré avant toute description. | [`configuration-rencontree.md`](configuration-rencontree.md) |
 | Différence rencontrée| Définir la genèse émergente des contrastes dans le couplage organisme-milieu. | [`difference-rencontree.md`](difference-rencontree.md) |
 | Couplage perception-action | Présenter le couplage à l'origine de toute activité descriptive. | [`couplage-perception-action.md`](couplage-perception-action.md) |
+| Butoir | Définir les contraintes de résistance biophysique et les opérateurs de clôture normative.  | [`butoir.md`](butoir.md) |
+| Niche biologique | Définir le domaine d'interactions co-construit et réglé par les butoirs du milieu. | [`niche-biologique.md`](niche-biologique.md) |
 | Configuration sémiotique | Définir l'organisation des différences devenues partageables. | [`configuration-semiotique.md`](configuration-semiotique.md) |
 | Support descriptif | Définir les médiations matérielles, sémiotiques et institutionnelles des descriptions. | [`support-descriptif.md`](support-descriptif.md) |
 | Configuration descriptive | Définir l'organisation relationnelle des descriptions. | [`configuration-descriptive.md`](configuration-descriptive.md) |
