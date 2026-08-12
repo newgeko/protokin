@@ -94,6 +94,7 @@
 | Le locuteur | Définir la position du locuteur dans une pratique descriptive. | [`locuteur.md`](locuteur.md) |
 | L'auditeur | Définir la position de l'auditeur dans l'évaluation et la reprise des descriptions. | [`auditeur.md`](auditeur.md) |
 | Relation locuteur-auditeur | Définir l'espace interactionnel où les descriptions sont évaluées, reprises, contestées ou justifiées. | [`relation-locuteur-auditeur.md`](relation-locuteur-auditeur.md) |
+| Moi | Établir le statut du Moi en tant qu'individuation transductive opérant sur trois niveaux distincts et coordonnés. | [`moi.md`](moi.md) 
 | Position épistémique | Définir les ressources, contraintes et perspectives propres au locuteur. | [`position-epistemique.md`](position-epistemique.md) |
 | Supports descriptifs incorporés | Présenter les dispositions incorporées mobilisées dans les descriptions. | [`supports-descriptifs-incorpores.md`](supports-descriptifs-incorpores.md) |
 | Supports descriptifs externes | xxxxx | [`supports-descriptifs-externes.md`](supports-descriptifs-externes.md) |
