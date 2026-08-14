@@ -60,8 +60,10 @@
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
 | 03 - Fondements descriptifs | Introduire les fondements descriptifs. | [`03-fondements-descriptifs.md`](03-fondements-descriptifs.md) |
+| Introduction configuration | Chapeau introductif expliquant la notion de configuration descriptive. | [`introduction_configuration.md`](introduction_configuration.md) |
 | Configuration rencontrée | Définir ce qui est rencontré avant toute description. | [`configuration-rencontree.md`](configuration-rencontree.md) |
-| Différence rencontrée| Définir la genèse émergente des contrastes dans le couplage organisme-milieu. | [`difference-rencontree.md`](difference-rencontree.md) |
+| Configuration mathématique| Régime et formalisme des configurations relationnelles abstraites. | [`configuration_mathematique.md`](configuration_mathematique.md) |
+| Différence rencontrée| Définir la genèse émergente des contrastes dans le couplage organisme-milieu. | [`difference_rencontree.md`](difference_rencontree.md) |
 | Couplage perception-action | Présenter le couplage à l'origine de toute activité descriptive. | [`couplage-perception-action.md`](couplage-perception-action.md) |
 | Butoir | Définir les contraintes de résistance biophysique et les opérateurs de clôture normative.  | [`butoir.md`](butoir.md) |
 | Niche biologique | Définir le domaine d'interactions co-construit et réglé par les butoirs du milieu. | [`niche-biologique.md`](niche-biologique.md) |
@@ -125,9 +127,12 @@
 | Tension | Définir les tensions internes aux pratiques descriptives. | [`tension.md`](tension.md) |
 | Limite interne | Définir les limites propres à un régime descriptif. | [`limite-interne.md`](limite-interne.md) |
 | Traduction | Définir la traduction entre descriptions ou régimes descriptifs. | [`traduction.md`](traduction.md) |
+| Transduction relationnelle RFT | Définir la transduction relationnelle  | [`transduction_relationnelle_rft.md`](transduction_relationnelle_rft.md) |
+| Transformation relationnelle RFT | Définir les opérations de transformation formelle des relations descriptives | [`transformation_relationnelle_rft.md`](transformation_relationnelle_rft.md) |
 | Connecteurs de traduction | Développer les protocoles permettant l'hybridation des régimes (ex : sylviculture écologique). | [`connecteurs-de-traduction.md`](connecteurs-de-traduction.md) |
 | Transition | Décrire les passages entre configurations descriptives. | [`transition.md`](transition.md) |
 | Transformation | Définir les transformations des descriptions. | [`transformation.md`](transformation.md) |
+| Intra-action | Définir la genèse relationnelle constitutive oragnisme-millieu (antérieur à la coupure sujet/objet). | [`intra-action.md`](intra-action.md) |
 | Maintien | Décrire les mécanismes assurant la continuité des descriptions. | [`maintien.md`](maintien.md) |
 | Reproduction | Définir la reproduction des pratiques descriptives. | [`reproduction.md`](reproduction.md) |
 | Controverse | Décrire les controverses entre descriptions concurrentes. | [`controverse.md`](controverse.md) |
