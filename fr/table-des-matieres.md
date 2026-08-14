@@ -16,6 +16,7 @@
 | Les principes | Introduire les engagements philosophiques fondateurs. | [`les-principes.md`](les-principes.md) |
 | Parcours de lecture | Orienter les différents profils de lecteurs. | [`parcours-de-lecture.md`](parcours-de-lecture.md`) |
 | Guide d'écriture | Définir les règles de rédaction de la documentation. | [`guide-decriture.md`](guide-decriture.md) |
+| Plan directeur | Document d'orientation global et fil conducteur de l'ouvrage. | [`plan_directeur.md`](plan_directeur.md) |
 
 ---
 
@@ -49,6 +50,7 @@
 | 02 - Architecture générale | Présenter l'organisation générale de Protokin. | [`02-architecture-generale.md`](02-architecture-generale.md) |
 | Architecture conceptuelle | Donner la cartographie des principaux concepts. | [`architecture-conceptuelle.md`](architecture-conceptuelle.md) |
 | Architecture fonctionnelle | Présenter la dynamique générale des opérations descriptives. | [`architecture-fonctionnelle.md`](architecture-fonctionnelle.md) |
+| Fonctions limites des sections | Cadrage du périmètre opératoire de chaque section. | [`fonctions_limites_des_sections.md`](fonctions_limites_des_sections.md) |
 
 
 ---
