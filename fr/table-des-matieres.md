@@ -251,7 +251,7 @@
 | Cette personne est mauvaise | Analyser une qualification morale et les conditions de sa stabilisation normative. | [`cette-personne-est-mauvaise.md`](cette-personne-est-mauvaise.md) |
 | Cette personne est dangereuse | Analyser une qualification sécuritaire et les effets institutionnels de sa fixation. | [`cette-personne-est-dangereuse.md`](cette-personne-est-dangereuse.md) |
 | Botaniste / bûcheron | Comparer deux régimes descriptifs portant sur un même milieu. | [`botaniste-bucheron.md`](botaniste-bucheron.md) |
-| Urgences hospitalières | Analyser une pratique collective où plusieurs régimes descriptifs interagissent. | [`urgences-hospitalieres.md`](urgences-hospitalieres.md) |
+| Urgences hospitalières | Analyser une pratique collective où plusieurs régimes descriptifs interagissent. | [`urgence-hospitaliere.md`](urgence-hospitaliere.md) |
 
 ---
 
