@@ -172,7 +172,7 @@
 | Image scientifique | Présenter les descriptions produites par les régimes scientifiques. | [`image-scientifique.md`](image-scientifique.md) |
 | Puissance descriptive | Définir la capacité d'une description à organiser, prévoir et transformer un domaine. | [`puissance-descriptive.md`](puissance-descriptive.md) |
 | Compatibilités | Décrire les relations de compatibilité entre différents régimes descriptifs. | [`compatibilites.md`](compatibilites.md) |
-| Incompatibilités | Décrire les tensions et contradictions entre descriptions. | [`incompatibilites.md`](incompatibilites.md) |
+| Incompatibilité | Décrire les tensions et contradictions entre descriptions. | [`incompatibilite.md`](incompatibilite.md) |
 | Explication | Définir l'explication comme opération descriptive située. | [`explication.md`](explication.md) |
 
 ---
