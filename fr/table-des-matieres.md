@@ -102,7 +102,7 @@
 | Position épistémique | Définir les ressources, contraintes et perspectives propres au locuteur. | [`position-epistemique.md`](position-epistemique.md) |
 | Supports descriptifs incorporés | Présenter les dispositions incorporées mobilisées dans les descriptions. | [`supports-descriptifs-incorpores.md`](supports-descriptifs-incorpores.md) |
 | Supports descriptifs externes | xxxxx | [`supports-descriptifs-externes.md`](supports-descriptifs-externes.md) |
-| Supports descriptifs institutionnels | xxxxx | [`supports-descriptifs-externes.md`](supports-descriptifs-institutionnels.md) |
+| Supports descriptifs institutionnels | xxxxx | [`supports-descriptifs-institutionnels.md`](supports-descriptifs-institutionnels.md) |
 | Pratique collective | Définir la description comme pratique collective. | [`pratique-collective.md`](pratique-collective.md) |
 | De la notion au concept | Formaliser le passage dynamique de la saisie intuitive (notion) à la catégorie explicitée (concept) par l'opérateur d'enquête. | [`de-la-notion-au-concept.md`](de-la-notion-au-concept.md) | 
 | Communauté de locuteurs | Définir les communautés au sein desquelles les descriptions prennent sens. | [`communaute-de-locuteurs.md`](communaute-de-locuteurs.md) |
@@ -245,7 +245,7 @@
 | 11 - Etudes de cas | Présenter le rôle des études de cas dans l'application de Protokin. | [`11-etudes-de-cas.md`](11-etudes-de-cas.md) |
 | Géocentrisme | Analyser la transformation d'un régime cosmologique et les conditions de son remplacement. | [`geocentrisme.md`](geocentrisme.md) |
 | Phlogistique | Analyser une théorie scientifique disparue et la transformation de ses critères descriptifs. | [`phlogistique.md`](phlogistique.md) |
-| Théorie des humeurs | Analyser un régime médical historique et ses catégories descriptives. | [`theorie-des-humeurs.md](theorie-des-humeurs.md) |
+| Théorie des humeurs | Analyser un régime médical historique et ses catégories descriptives. | [`theorie-des-humeurs.md`](theorie-des-humeurs.md) |
 | Changement climatique | Analyser la coexistence de régimes scientifiques, politiques et médiatiques autour du climat. | [`changement-climatique.md`](changement-climatique.md) |
 | Intelligence artificielle | Analyser les différents régimes descriptifs mobilisés autour de l'intelligence artificielle. | [`intelligence-artificielle.md`](intelligence-artificielle.md) |
 | Cette personne est mauvaise | Analyser une qualification morale et les conditions de sa stabilisation normative. | [`cette-personne-est-mauvaise.md`](cette-personne-est-mauvaise.md) |
