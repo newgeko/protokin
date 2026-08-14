@@ -16,7 +16,7 @@
 | Les principes | Introduire les engagements philosophiques fondateurs. | [`les-principes.md`](les-principes.md) |
 | Parcours de lecture | Orienter les différents profils de lecteurs. | [`parcours-de-lecture.md`](parcours-de-lecture.md`) |
 | Guide d'écriture | Définir les règles de rédaction de la documentation. | [`guide-decriture.md`](guide-decriture.md) |
-| Plan directeur | Document d'orientation global et fil conducteur de l'ouvrage. | [`plan_directeur.md`](plan_directeur.md) |
+| Plan directeur | Document d'orientation global et fil conducteur de l'ouvrage. | [`plan-directeur.md`](plan-directeur.md) |
 
 ---
 
@@ -50,7 +50,7 @@
 | 02 - Architecture générale | Présenter l'organisation générale de Protokin. | [`02-architecture-generale.md`](02-architecture-generale.md) |
 | Architecture conceptuelle | Donner la cartographie des principaux concepts. | [`architecture-conceptuelle.md`](architecture-conceptuelle.md) |
 | Architecture fonctionnelle | Présenter la dynamique générale des opérations descriptives. | [`architecture-fonctionnelle.md`](architecture-fonctionnelle.md) |
-| Fonctions limites des sections | Cadrage du périmètre opératoire de chaque section. | [`fonctions_limites_des_sections.md`](fonctions_limites_des_sections.md) |
+| Fonctions limites des sections | Cadrage du périmètre opératoire de chaque section. | [`fonctions-limites-des-sections.md`](fonctions-limites-des-sections.md) |
 
 
 ---
@@ -62,10 +62,10 @@
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
 | 03 - Fondements descriptifs | Introduire les fondements descriptifs. | [`03-fondements-descriptifs.md`](03-fondements-descriptifs.md) |
-| Introduction configuration | Chapeau introductif expliquant la notion de configuration descriptive. | [`introduction_configuration.md`](introduction_configuration.md) |
+| Introduction configuration | Chapeau introductif expliquant la notion de configuration descriptive. | [`introduction-configuration.md`](introduction-configuration.md) |
 | Configuration rencontrée | Définir ce qui est rencontré avant toute description. | [`configuration-rencontree.md`](configuration-rencontree.md) |
-| Configuration mathématique| Régime et formalisme des configurations relationnelles abstraites. | [`configuration_mathematique.md`](configuration_mathematique.md) |
-| Différence rencontrée| Définir la genèse émergente des contrastes dans le couplage organisme-milieu. | [`difference_rencontree.md`](difference_rencontree.md) |
+| Configuration mathématique| Régime et formalisme des configurations relationnelles abstraites. | [`configuration-mathematique.md`](configuration-mathematique.md) |
+| Différence rencontrée| Définir la genèse émergente des contrastes dans le couplage organisme-milieu. | [`difference-rencontree.md`](difference-rencontree.md) |
 | Couplage perception-action | Présenter le couplage à l'origine de toute activité descriptive. | [`couplage-perception-action.md`](couplage-perception-action.md) |
 | Butoir | Définir les contraintes de résistance biophysique et les opérateurs de clôture normative.  | [`butoir.md`](butoir.md) |
 | Niche biologique | Définir le domaine d'interactions co-construit et réglé par les butoirs du milieu. | [`niche-biologique.md`](niche-biologique.md) |
@@ -129,8 +129,8 @@
 | Tension | Définir les tensions internes aux pratiques descriptives. | [`tension.md`](tension.md) |
 | Limite interne | Définir les limites propres à un régime descriptif. | [`limite-interne.md`](limite-interne.md) |
 | Traduction | Définir la traduction entre descriptions ou régimes descriptifs. | [`traduction.md`](traduction.md) |
-| Transduction relationnelle RFT | Définir la transduction relationnelle  | [`transduction_relationnelle_rft.md`](transduction_relationnelle_rft.md) |
-| Transformation relationnelle RFT | Définir les opérations de transformation formelle des relations descriptives | [`transformation_relationnelle_rft.md`](transformation_relationnelle_rft.md) |
+| Transduction relationnelle RFT | Définir la transduction relationnelle  | [`transduction-relationnelle-rft.md`](transduction-relationnelle-rft.md) |
+| Transformation relationnelle RFT | Définir les opérations de transformation formelle des relations descriptives | [`transformation-relationnelle-rft.md`](transformation-relationnelle-rft.md) |
 | Connecteurs de traduction | Développer les protocoles permettant l'hybridation des régimes (ex : sylviculture écologique). | [`connecteurs-de-traduction.md`](connecteurs-de-traduction.md) |
 | Transition | Décrire les passages entre configurations descriptives. | [`transition.md`](transition.md) |
 | Transformation | Définir les transformations des descriptions. | [`transformation.md`](transformation.md) |
