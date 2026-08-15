@@ -14,7 +14,7 @@
 | Statut du projet | Expliquer ce que Protokin est… et ce qu'il n'est pas. | [`statut-du-projet.md`](statut-du-projet.md) |
 | Protokin : nom, origine et portée conceptuelle | Présenter le choix du nom et sa signification. | [`nom-origine-portee.md`](nom-origine-portee.md) |
 | Les principes | Introduire les engagements philosophiques fondateurs. | [`les-principes.md`](les-principes.md) |
-| Parcours de lecture | Orienter les différents profils de lecteurs. | [`parcours-de-lecture.md`](parcours-de-lecture.md`) |
+| Parcours de lecture | Orienter les différents profils de lecteurs. | [`parcours-de-lecture.md`](parcours-de-lecture.md) |
 | Guide d'écriture | Définir les règles de rédaction de la documentation. | [`guide-decriture.md`](guide-decriture.md) |
 | Plan directeur | Document d'orientation global et fil conducteur de l'ouvrage. | [`plan-directeur.md`](plan-directeur.md) |
 
