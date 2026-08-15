@@ -115,7 +115,7 @@
 | Recevabilité | Définir les conditions de recevabilité d'une description. | [`recevabilite.md`](recevabilite.md) |
 | Validité | Définir la validité descriptive au sein d'un régime. | [`validite.md`](validite.md) |
 | Stabilisation | Expliquer comment les descriptions se stabilisent dans le temps. | [`stabilisation.md`](stabilisation.md) |
-| Irréversibilté descriptive | Présenter les mécanismes de stabilisation cumulative des descriptions. | [`effet-cliquet.md`](`effet-cliquet.md`) |
+| Irréversibilté descriptive | Présenter les mécanismes de stabilisation cumulative des descriptions. | [`effet-cliquet.md`](effet-cliquet.md) |
 
 ---
 
@@ -189,7 +189,7 @@
 | Comment réaliser un audit | Présenter l'audit comme examen des conditions descriptives d'une pratique. | [`realiser-un-audit.md`](realiser-un-audit.md) |
 | Identifier un régime | Expliquer comment reconnaître un régime descriptif. | [`identifier-un-regime.md`](identifier-un-regime.md) |
 | Comparer deux descriptions | Présenter la comparaison entre configurations descriptives différentes. | [`comparer-deux-descriptions.md`](comparer-deux-descriptions.md) |
-| Diagnostiquer une réduction | Décrire les réductions qui confondent un régime avec un autre. | [`diagnostiquer-une-reduction.md`](`diagnostiquer-une-reduction.md`) |
+| Diagnostiquer une réduction | Décrire les réductions qui confondent un régime avec un autre. | [`diagnostiquer-une-reduction.md`](diagnostiquer-une-reduction.md) |
 | Diagnostiquer une confusion de niveau | Décrire les erreurs liées aux changements de niveau descriptif. | [`diagnostiquer-une-confusion-de-niveau.md`](diagnostiquer-une-confusion-de-niveau.md) |
 | Diagnostiquer une erreur de catégorie | Décrire les erreurs produites par l'application inadéquate d'une catégorie. | [`diagnostiquer-une-erreur-de-categorie.md`](diagnostiquer-une-erreur-de-categorie.md) |
 | Évaluer une traduction | Définir l'évaluation des traductions entre régimes descriptifs. | [`evaluer-une-traduction.md`](evaluer-une-traduction.md) |
@@ -202,7 +202,7 @@
 
 | Titre | Fonction | Fichier |
 |--------|----------|----------|
-| 09 - Réfléxivité | Présenter la dimension réflexive de Protokin. | [`09-reflexivite.md`](`09-reflexivite.md`) |
+| 09 - Réflexivité | Présenter la dimension réflexive de Protokin. | [`09-reflexivite.md`](09-reflexivite.md) |
 | Réflexivité | Définir la réflexivité comme examen des propres conditions descriptives. | [`reflexivite.md`](reflexivite.md) |
 | Auto-application | Montrer comment Protokin applique ses propres outils à son architecture. | [`auto-application.md`](auto-application.md) |
 | Limites de Protokin | Délimiter le domaine d'application et les limites de la théorie. | [`limites-de-protokin.md`](limites-de-protokin.md) |
