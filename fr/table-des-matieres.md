@@ -101,8 +101,8 @@
 | Moi | Établir le statut du Moi en tant qu'individuation transductive opérant sur trois niveaux distincts et coordonnés. | [`moi.md`](moi.md) 
 | Position épistémique | Définir les ressources, contraintes et perspectives propres au locuteur. | [`position-epistemique.md`](position-epistemique.md) |
 | Supports descriptifs incorporés | Présenter les dispositions incorporées mobilisées dans les descriptions. | [`supports-descriptifs-incorpores.md`](supports-descriptifs-incorpores.md) |
-| Supports descriptifs externes | xxxxx | [`supports-descriptifs-externes.md`](supports-descriptifs-externes.md) |
-| Supports descriptifs institutionnels | xxxxx | [`supports-descriptifs-institutionnels.md`](supports-descriptifs-institutionnels.md) |
+| Supports descriptifs externes | Définir les inscriptions matérielles, outils et artefacts stabilisant les descriptions hors du corps. | [`supports-descriptifs-externes.md`](supports-descriptifs-externes.md) |
+| Supports descriptifs institutionnels | Définir les cadres juridiques, organisationnels et conventionnels garantissant la pérennité des descriptions. | [`supports-descriptifs-institutionnels.md`](supports-descriptifs-institutionnels.md) |
 | Pratique collective | Définir la description comme pratique collective. | [`pratique-collective.md`](pratique-collective.md) |
 | De la notion au concept | Formaliser le passage dynamique de la saisie intuitive (notion) à la catégorie explicitée (concept) par l'opérateur d'enquête. | [`de-la-notion-au-concept.md`](de-la-notion-au-concept.md) | 
 | Communauté de locuteurs | Définir les communautés au sein desquelles les descriptions prennent sens. | [`communaute-de-locuteurs.md`](communaute-de-locuteurs.md) |
