@@ -2,7 +2,7 @@
 
 ## Version
 
-**Protokin 2026 — version 26.08.081**
+**Protokin 2026 — version 26.08.161**
 
 ---
 
