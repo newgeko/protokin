@@ -1,357 +1,632 @@
-# Catégories descriptives
+Catégories descriptives
 
-> **Fonction :** Établir la notion de catégorie descriptive dans l'architecture de Protokin en tant que division conceptuelle ou relationnelle potentiellement disponible au sein d'une configuration descriptive.
->
-> **Prépare :** L'analyse des critères, des taxonomies, de l'objet descriptif et des diagnostics d'erreurs de catégorie.
->
-> **Mobilise :** La configuration sémiotique, la configuration descriptive, la description et la distinction entre l'espace des causes et l'espace des raisons.
->
-> **Permet ensuite :** L'examen de la qualification (comme acte d'inscription dans une catégorie), de la recevabilité et de l'injustice herméneutique (comme déficit de catégories).
->
-> **N'établit pas :** L'analyse détaillée des opérations de qualification ou d'assertion, ni la théorie complète de la recevabilité au sein d'un régime descriptif.
+«Fonction : Établir la notion de catégorie descriptive dans l'architecture de Protokin comme division conceptuelle, relationnelle et fonctionnelle disponible au sein d'une configuration descriptive.
 
----
+Prépare : L'analyse des critères, des taxonomies, de l'objet descriptif, de la qualification et des diagnostics d'erreurs de catégorie.
 
-# Les catégories descriptives
+Mobilise : La configuration sémiotique, la configuration descriptive, la description et la distinction entre l'espace des causes et l'espace des raisons.
 
-## 1. Problème conceptuel
+Permet ensuite : L'examen de la qualification comme actualisation située d'une possibilité catégorielle, puis l'analyse des critères, de la recevabilité et des déficits catégoriels.
 
-L'expérience ne se présente jamais sous la forme d'un monde déjà découpé en objets, propriétés et classes naturelles.
-
-Avant toute description, les différences rendues disponibles par les configurations sémiotiques demeurent encore indéterminées du point de vue conceptuel. Elles peuvent être observées, conservées et comparées, mais elles ne sont pas encore organisées selon des divisions permettant de les penser collectivement.
-
-Le problème auquel répond cette page est donc le suivant :
-
-> **Comment les différences disponibles deviennent-elles organisables dans un espace conceptuel partagé, de manière à rendre possibles la comparaison, la qualification et la justification ?**
-
-Protokin répond à cette question en introduisant la notion de **catégorie descriptive**.
-
-Les catégories constituent les divisions conceptuelles qui structurent les possibilités descriptives d'une communauté. Elles ne découvrent pas des essences cachées dans le monde ; elles organisent les distinctions à partir desquelles les descriptions pourront être produites.
+N'établit pas : La théorie des critères, l'analyse détaillée de la qualification ou de l'assertion, ni la théorie complète de la recevabilité au sein d'un régime descriptif.»
 
 ---
 
-## 2. Définition fonctionnelle
+Les catégories descriptives
 
-Dans l'architecture de Protokin, on appelle **catégorie descriptive** :
+1. Problème conceptuel
 
-> **Une division conceptuelle, relationnelle et fonctionnelle disponible au sein d'une configuration descriptive, permettant d'organiser des différences, de comparer des situations et de structurer les possibilités de description d'une pratique collective.**
+Une pratique descriptive ne rencontre pas un monde déjà organisé selon les distinctions qu'elle mobilise.
 
-Cette définition implique plusieurs propriétés fondamentales.
+Des différences peuvent être perçues, enregistrées, comparées ou suivies sans être pour autant intégrées dans un espace conceptuel déterminé.
 
-### Un répertoire de possibilités
+Le problème auquel répond la notion de catégorie descriptive est donc le suivant :
 
-Une catégorie n'est jamais un concept isolé.
+«Comment certaines différences deviennent-elles disponibles sous une forme conceptuelle permettant de les distinguer, de les rapprocher et de les qualifier dans une pratique collective ?»
 
-Elle appartient toujours à un ensemble plus vaste de catégories qui définissent un espace de distinctions.
+Protokin introduit la notion de catégorie descriptive pour désigner cette fonction d'organisation.
 
-Chaque catégorie prend sens par les relations qu'elle entretient avec les autres.
+Une catégorie ne découvre pas une essence cachée dans une situation. Elle fournit une division descriptive disponible à partir de laquelle certaines situations peuvent être rendues pertinentes sous un type déterminé de description.
 
----
+La catégorie ne constitue donc ni une propriété du monde ni un simple nom.
 
-### Une organisation du champ descriptif
-
-Les catégories découpent le champ des descriptions possibles.
-
-Elles rendent visibles certaines différences tout en laissant d'autres à l'arrière-plan.
-
-Toute catégorisation est donc également une sélection.
+Elle est une fonction au sein d'une configuration descriptive.
 
 ---
 
-### Un ancrage pratique
+2. Définition fonctionnelle
 
-Les catégories ne flottent pas indépendamment des pratiques.
+Dans l'architecture de Protokin, on appelle catégorie descriptive :
 
-Elles émergent, se stabilisent et évoluent dans des communautés qui les utilisent pour agir, communiquer, enquêter ou justifier leurs décisions.
+«Une division conceptuelle, relationnelle et fonctionnelle disponible au sein d'une configuration descriptive, qui permet de rendre certaines différences pertinentes sous une forme partageable et de préparer leur qualification dans une pratique donnée.»
 
----
+Cette définition comporte plusieurs dimensions.
 
-## 3. Distinctions conceptuelles
+2.1. Une division
 
-Pour préserver la cohérence de l'architecture, les catégories descriptives doivent être distinguées des notions voisines.
+Une catégorie introduit une différence pertinente.
 
-### Catégorie et qualification
+Elle permet de distinguer certains cas les uns des autres selon une dimension déterminée.
 
-Cette distinction est essentielle.
+Cette division peut porter, selon les régimes, sur des objets, des événements, des comportements, des états, des relations, des fonctions ou des propriétés.
 
-Les catégories constituent le répertoire des possibilités descriptives.
+La catégorie ne suppose donc pas un type unique d'objet.
 
-La qualification est l'opération par laquelle un locuteur inscrit une situation particulière dans l'une de ces catégories.
-
-Autrement dit :
-
-- les catégories rendent une qualification possible ;
-- la qualification actualise une catégorie.
-
-Les catégories appartiennent à la configuration descriptive.
-
-La qualification appartient à l'activité du locuteur.
+Elle désigne une manière de différencier.
 
 ---
 
-### Catégorie et prédication
+2.2. Une disponibilité
 
-La prédication correspond à la relation minimale :
+Une catégorie est disponible avant d'être nécessairement appliquée à un cas particulier.
 
-> « X est Y ».
+Une communauté peut disposer de la catégorie "dangereux" sans qu'un individu déterminé soit actuellement qualifié de dangereux.
 
-La catégorie désigne l'espace conceptuel dans lequel cette prédication reçoit son sens.
+Il faut donc distinguer :
 
-Ainsi, la prédication :
+«disponibilité catégorielle ≠ qualification»
 
-> « Cet acte est violent »
+La première désigne l'existence d'une possibilité descriptive dans une pratique.
 
-mobilise une catégorie plus large qui définit ce que signifie « violence » dans un régime donné.
-
----
-
-### Catégorie et configuration descriptive
-
-La configuration descriptive organise les relations entre les catégories.
-
-Les catégories constituent les embranchements internes de cette configuration.
-
-Autrement dit :
-
-- la configuration descriptive organise le réseau ;
-- les catégories en constituent les unités de structuration.
+La seconde désigne son actualisation dans une situation déterminée.
 
 ---
 
-### Catégorie et configuration sémiotique
+2.3. Une relation
 
-La configuration sémiotique rend des différences disponibles.
+Une catégorie n'existe pas isolément.
 
-Les catégories organisent ces différences conceptuellement.
+Elle acquiert sa fonction par les relations qu'elle entretient avec d'autres catégories.
 
-L'une fournit les contrastes.
+Ces relations peuvent prendre différentes formes :
 
-L'autre fournit les divisions conceptuelles permettant de les penser.
+- contraste ;
+- opposition ;
+- inclusion ;
+- exclusion ;
+- spécialisation ;
+- complémentarité ;
+- dépendance ;
+- incompatibilité.
+
+Une catégorie appartient ainsi toujours à un espace de distinctions.
 
 ---
 
-## 4. Les catégories comme organisation de la dicibilité
+2.4. Une fonction
 
-Les catégories rendent les descriptions possibles.
+Une catégorie n'est pas définie uniquement par son contenu lexical.
 
-Sans elles, les différences resteraient dispersées et ne pourraient être articulées dans un langage commun.
+Elle est définie par ce qu'elle permet de faire dans une pratique descriptive.
 
-Les catégories permettent notamment :
+Une même expression peut ainsi changer de fonction lorsqu'elle est déplacée dans une autre configuration ou dans un autre régime.
 
-- d'identifier des régularités ;
-- de comparer des situations ;
-- de distinguer des cas différents ;
+La question protokinienne n'est donc pas seulement :
+
+«« Que signifie cette catégorie ? »»
+
+mais également :
+
+«« Quelle fonction cette catégorie remplit-elle dans cette configuration descriptive ? »»
+
+---
+
+3. Catégorie et configuration descriptive
+
+La catégorie ne constitue pas la configuration descriptive elle-même.
+
+La configuration descriptive organise un ensemble de relations permettant qu'une situation soit décrite selon certaines opérations.
+
+La catégorie constitue l'une des divisions conceptuelles disponibles au sein de cette organisation.
+
+On peut donc distinguer :
+
+- configuration descriptive : organisation relationnelle d'une possibilité de description ;
+- catégorie : division conceptuelle disponible dans cette organisation ;
+- qualification : application située d'une catégorie à un cas déterminé.
+
+La catégorie ne doit donc pas être comprise comme une « unité » élémentaire dont toutes les configurations seraient composées.
+
+Elle fournit plutôt une possibilité de différenciation parmi d'autres.
+
+---
+
+4. Catégorie et configuration sémiotique
+
+La distinction entre configuration sémiotique et catégorie est également nécessaire.
+
+Une configuration sémiotique rend certaines différences disponibles dans un système de signes, de traces ou de relations perceptibles.
+
+La catégorie descriptive organise certaines de ces différences sous une forme conceptuellement déterminée.
+
+On peut ainsi distinguer fonctionnellement :
+
+«différence disponible → division catégorielle → possibilité de qualification»
+
+Cette séquence ne doit pas être comprise comme une succession temporelle nécessaire.
+
+Elle décrit une différenciation fonctionnelle.
+
+Une différence peut être déjà pertinente pratiquement avant qu'une catégorie explicite soit stabilisée.
+
+Inversement, une catégorie peut exister dans un répertoire collectif tout en demeurant difficilement applicable à certaines situations.
+
+---
+
+5. Catégorie et qualification
+
+La distinction entre catégorie et qualification est fondamentale.
+
+La catégorie constitue une possibilité descriptive disponible.
+
+La qualification constitue son actualisation dans une situation déterminée.
+
+Ainsi :
+
+«"dangereux"»
+
+peut constituer une catégorie disponible dans une pratique institutionnelle.
+
+L'énoncé :
+
+«« Cette personne est dangereuse »»
+
+constitue une qualification particulière mobilisant cette catégorie.
+
+La catégorie n'est donc pas encore l'attribution.
+
+On peut représenter la relation ainsi :
+
+Catégorie
+    │
+    │ disponibilité
+    ↓
+Qualification
+    │
+    │ application située
+    ↓
+Assertion
+
+La page consacrée à la qualification examinera les opérations par lesquelles une catégorie disponible est effectivement appliquée.
+
+La présente page se limite à établir la fonction de la catégorie comme répertoire de distinctions disponibles.
+
+---
+
+6. Catégorie et critère
+
+La catégorie doit également être distinguée du critère.
+
+Les deux notions sont étroitement liées mais ne remplissent pas la même fonction.
+
+La catégorie détermine le type de différence sous lequel une situation peut être qualifiée.
+
+Le critère intervient dans les conditions selon lesquelles cette qualification peut être tenue pour correcte, recevable ou justifiable dans un régime déterminé.
+
+On peut donc distinguer :
+
+«Catégorie : quelle différence est pertinente ?»
+
+«Critère : qu'est-ce qui autorise cette application ?»
+
+Cette distinction interdit de réduire une catégorie à une simple règle de décision.
+
+Elle interdit également de considérer qu'une catégorie serait déjà justifiée du seul fait qu'elle est disponible dans un répertoire collectif.
+
+Une catégorie peut être disponible sans que son application à un cas particulier soit correcte.
+
+La théorie des critères sera développée séparément.
+
+---
+
+7. Catégorie et prédication
+
+La prédication constitue une opération différente.
+
+Une prédication attribue une détermination à quelque chose :
+
+«« X est Y. »»
+
+La catégorie correspond à l'espace conceptuel dans lequel cette attribution peut prendre une forme déterminée.
+
+Ainsi :
+
+«« Cet acte est violent »»
+
+mobilise la catégorie "violent" ou "violence" dans une configuration descriptive donnée.
+
+Mais la présence de cette catégorie ne suffit pas à établir que l'attribution est correcte.
+
+Il faut distinguer :
+
+Catégorie disponible
+        ↓
+Possibilité de prédication
+        ↓
+Qualification
+        ↓
+Assertion
+        ↓
+Justification / contestation
+
+La catégorie ouvre donc un espace d'application sans préjuger de la correction de chaque application.
+
+---
+
+8. Les catégories comme organisation de la dicibilité
+
+Les catégories participent à l'organisation de ce qui peut être dit comme quelque chose dans une pratique.
+
+Elles permettent notamment :
+
+- de distinguer des cas ;
+- de rapprocher des situations ;
+- d'identifier des différences pertinentes ;
 - de construire des classifications ;
-- d'organiser les inférences.
+- de stabiliser des contrastes ;
+- d'orienter certaines inférences.
 
-Elles déterminent ainsi ce qui peut être décrit, distingué ou rapproché dans un domaine donné.
+Elles contribuent ainsi à définir un espace de dicibilité.
 
-Une catégorie n'est donc pas un simple mot.
+Cette fonction doit toutefois être comprise de manière non absolue.
 
-Elle constitue une position dans un réseau de relations.
+Une catégorie ne détermine pas tout ce qui peut être dit.
 
-Elle définit simultanément :
+Elle rend plutôt disponibles certaines formes de différenciation et de qualification.
 
-- ce qui appartient à cette catégorie ;
-- ce qui en est exclu ;
-- les rapprochements possibles ;
-- les incompatibilités pertinentes.
+Toute catégorisation produit ainsi simultanément :
 
-Les catégories rendent ainsi la description intelligible.
+- des distinctions rendues saillantes ;
+- des distinctions laissées en arrière-plan ;
+- des rapprochements rendus possibles ;
+- des différences rendues difficiles à formuler.
+
+La catégorisation possède donc une dimension sélective.
 
 ---
 
-## 5. Les catégories et les taxonomies
+9. Catégories, taxonomies et répertoires
 
-Les catégories ne demeurent généralement pas isolées.
+Une catégorie peut appartenir à un ensemble organisé de catégories.
 
-Elles sont organisées dans des ensembles plus vastes appelés **taxonomies**.
+Il convient alors de distinguer plusieurs niveaux.
 
-Une taxonomie articule les catégories selon différentes relations :
+Répertoire catégoriel
+
+Le répertoire catégoriel désigne l'ensemble des catégories disponibles dans une pratique ou une configuration déterminée.
+
+Il indique ce qui peut être catégorisé selon cette pratique.
+
+Taxonomie
+
+Une taxonomie organise certaines catégories selon des relations systématiques.
+
+Elle peut notamment comporter :
 
 - inclusion ;
 - spécialisation ;
 - hiérarchie ;
 - opposition ;
-- dépendance ;
-- complémentarité.
+- complémentarité ;
+- exclusion.
 
-Une taxonomie constitue donc l'organisation systématique des catégories disponibles dans un régime descriptif.
+Une taxonomie constitue donc une forme particulière d'organisation catégorielle.
 
-Elle garantit leur cohérence et leur stabilité relative.
+Toute catégorie n'appartient cependant pas nécessairement à une taxonomie stricte.
 
----
-
-## 6. Les fils rouges de Protokin
-
-### Le vélo rouge
-
-La catégorie « rouge » n'est pas une propriété matérielle déposée dans l'objet.
-
-Elle appartient à un espace chromatique organisé comprenant également le bleu, le vert, le jaune, etc.
-
-C'est cette organisation qui rend possible la description :
-
-> « Le vélo est rouge. »
+Cette distinction évite de réduire toute catégorisation à une classification hiérarchique.
 
 ---
 
-### Le botaniste et le bûcheron
+10. Les catégories sont historiquement et pratiquement stabilisées
 
-Les deux acteurs mobilisent des catégories différentes.
+Les catégories ne flottent pas hors des pratiques.
 
-Le botaniste utilise des catégories taxonomiques :
+Elles sont stabilisées par des usages collectifs :
+
+- pratiques professionnelles ;
+- institutions ;
+- communautés scientifiques ;
+- administrations ;
+- traditions discursives ;
+- dispositifs techniques ;
+- procédures de décision.
+
+Cette stabilisation n'implique toutefois pas leur permanence.
+
+Une catégorie peut être :
+
+- introduite ;
+- étendue ;
+- restreinte ;
+- déplacée ;
+- contestée ;
+- abandonnée ;
+- remplacée.
+
+La catégorie possède ainsi une stabilité relative.
+
+Elle est suffisamment stabilisée pour orienter les pratiques, mais suffisamment révisable pour pouvoir être transformée.
+
+---
+
+11. Fils rouges
+
+11.1. Le vélo rouge
+
+La catégorie "rouge" appartient à un espace de distinctions chromatiques.
+
+Elle permet de distinguer certaines configurations perceptives selon une dimension chromatique déterminée.
+
+La qualification :
+
+«« Le vélo est rouge »»
+
+actualise cette catégorie dans une situation particulière.
+
+Mais les conditions de correction de cette qualification peuvent varier selon les pratiques.
+
+Dans une pratique ordinaire, l'apparence perceptive peut suffire.
+
+Dans une pratique scientifique, d'autres procédures de caractérisation peuvent être mobilisées.
+
+La catégorie demeure reconnaissable tandis que les conditions de son application peuvent varier.
+
+---
+
+11.2. Le botaniste et le bûcheron
+
+Une même dynamique matérielle peut devenir pertinente dans des configurations descriptives différentes.
+
+Le botaniste peut mobiliser des catégories telles que :
 
 - espèce ;
 - famille ;
 - morphologie ;
 - phylogénie.
 
-Le bûcheron mobilise des catégories techniques :
+Le bûcheron peut mobiliser :
 
 - densité ;
 - rectitude ;
 - qualité du bois ;
 - rendement.
 
-Ils ne voient pas des mondes différents.
+Il ne s'agit pas de dire que les deux acteurs construisent deux « mondes » totalement séparés.
 
-Ils organisent différemment les mêmes différences.
+Ils organisent certaines différences disponibles sous des formes catégorielles différentes, en fonction de leurs pratiques.
 
----
+Le désaccord éventuel entre eux ne peut donc pas être résolu simplement en demandant quelle catégorisation décrit « réellement » l'objet.
 
-### La personne dangereuse
-
-La dangerosité n'est pas une propriété naturelle immédiatement observable.
-
-Elle constitue une catégorie élaborée dans certains régimes descriptifs.
-
-Cette catégorie organise des observations, des comportements et des critères afin de permettre certaines décisions.
+Il faut examiner la fonction de chaque catégorisation dans sa pratique respective.
 
 ---
 
-### La personne mauvaise
+11.3. La personne dangereuse
 
-La catégorie de « personne mauvaise » illustre un risque majeur.
+La catégorie "dangereux" peut être disponible dans différents régimes institutionnels.
 
-Elle tend à transformer une série d'actions particulières en propriété permanente de l'individu.
+Elle peut organiser des observations, des antécédents, des comportements ou des évaluations afin de soutenir certaines décisions.
 
-L'audit protokinien examine précisément ce passage d'actes observés à une catégorie globale.
+Mais sa disponibilité ne suffit pas à établir qu'une personne déterminée est dangereuse.
 
----
+L'audit doit donc distinguer :
 
-### Le patient aux urgences
+catégorie disponible
+        ≠
+qualification d'une personne
+        ≠
+correction de cette qualification
 
-Une même situation mobilise plusieurs systèmes catégoriels.
-
-Le tri infirmier utilise des catégories de gravité.
-
-Le cardiologue mobilise des catégories diagnostiques.
-
-L'administration applique des catégories de couverture sociale.
-
-Ces catégories coexistent sans appartenir au même régime descriptif.
+Cette distinction sera essentielle pour l'analyse ultérieure de la réification.
 
 ---
 
-## 7. Place dans l'architecture fonctionnelle
+11.4. La personne mauvaise
 
-Les catégories apparaissent après la configuration descriptive et avant la qualification.
+La catégorie "mauvais" ou "mauvaise" montre une autre difficulté.
 
-La trajectoire devient alors :
+Une série d'actions peut être qualifiée négativement dans un contexte moral déterminé.
 
-1. Configuration rencontrée.
-2. Configuration sémiotique.
-3. Support descriptif.
-4. Configuration descriptive.
-5. **Catégories descriptives.**
-6. Qualification.
-7. Critères.
-8. Régime descriptif.
+Une pathologie apparaît lorsque cette qualification cesse de porter sur des actions ou des conduites déterminées et devient une propriété supposée permanente de la personne.
 
-Les catégories constituent ainsi le répertoire conceptuel dans lequel les qualifications pourront être effectuées.
+Le problème n'est alors pas seulement catégoriel.
 
----
+Il concerne le déplacement fonctionnel de la catégorie :
 
-## 8. Limites internes
+qualification d'une conduite
+        ↓
+catégorisation d'un comportement
+        ↓
+catégorisation globale de la personne
+        ↓
+réification de la catégorie
 
-L'audit protokinien attire l'attention sur plusieurs limites constitutives des catégories.
-
-### Les zones de silence
-
-Toute catégorie sélectionne certaines différences.
-
-Inversement, elle laisse nécessairement d'autres dimensions dans l'ombre.
-
-Toute catégorisation produit ainsi des zones de silence descriptif.
+L'analyse détaillée de ce déplacement appartient toutefois à l'audit des qualifications et de la réification.
 
 ---
 
-### L'injustice herméneutique
+11.5. Le patient aux urgences
 
-Une communauté peut manquer des catégories nécessaires pour décrire certaines expériences.
+Une même situation peut être prise dans plusieurs configurations catégorielles.
 
-Les individus concernés rencontrent alors des difficultés à comprendre ou à faire reconnaître ce qu'ils vivent.
+Le triage hospitalier peut mobiliser des catégories de gravité.
 
-L'audit des catégories permet de mettre en évidence ces déficits conceptuels.
+Le diagnostic médical peut mobiliser des catégories pathologiques.
+
+L'administration peut mobiliser des catégories de prise en charge.
+
+Ces catégories ne sont pas nécessairement concurrentes.
+
+Elles peuvent porter sur des dimensions différentes d'une même situation tout en appartenant à des pratiques normatives distinctes.
+
+L'audit protokinien cherche alors à déterminer quelle fonction chaque catégorie remplit dans la configuration où elle est mobilisée, plutôt qu'à rechercher une catégorie unique qui serait supposée décrire correctement toute la situation.
 
 ---
 
-### L'erreur de catégorie
+12. Pathologies catégorielles
 
-Une erreur de catégorie consiste à traiter une catégorie descriptive comme une propriété naturelle de la réalité.
+Les catégories peuvent faire l'objet de plusieurs dérives.
+
+12.1. Réification
+
+La réification apparaît lorsqu'une catégorie fonctionnelle est traitée comme une propriété intrinsèque de ce qu'elle permet de qualifier.
 
 Par exemple :
 
-- considérer la dangerosité comme une substance biologique ;
-- considérer la méchanceté comme une essence de la personne.
+«« dangereux » devient une propriété supposée présente dans la personne elle-même, indépendamment des pratiques, des critères et des circonstances qui ont permis cette qualification.»
 
-Protokin rappelle que les catégories appartiennent à des pratiques descriptives et non aux objets eux-mêmes.
+La réification transforme ainsi une fonction descriptive en apparente propriété ontologique.
 
----
-
-### L'effet cliquet
-
-Lorsque des catégories sont durablement inscrites dans des institutions, des bases de données ou des procédures administratives, elles acquièrent une forte inertie.
-
-Leur révision devient difficile.
-
-Les catégories continuent alors d'organiser les descriptions alors même que les situations ont évolué.
+Elle doit être distinguée de l'erreur de catégorie.
 
 ---
 
-## 9. Synthèse
+12.2. Erreur de catégorie
 
-Les catégories descriptives constituent les divisions conceptuelles qui organisent les possibilités de description.
+Une erreur de catégorie survient lorsqu'une qualification mobilise un type de prédicat ou de distinction qui n'est pas approprié à la configuration dans laquelle il est employé.
 
-Elles ne sont ni des propriétés naturelles du monde ni de simples mots.
+Elle ne consiste donc pas simplement à « prendre une catégorie pour une propriété naturelle ».
 
-Elles appartiennent aux configurations descriptives et permettent aux communautés de structurer leurs pratiques de description, de comparaison, de justification et d'action.
-
-Les catégories rendent possible la qualification.
-
-La qualification actualise les catégories.
-
-L'audit protokinien examine ensuite la pertinence, les limites et les effets normatifs de cette actualisation.
+La réification constitue une pathologie particulière pouvant résulter d'un mauvais traitement catégoriel, mais elle ne définit pas à elle seule l'erreur de catégorie.
 
 ---
 
-## Voir aussi
+12.3. Déficit catégoriel
 
-### Cette page suppose
+Une pratique peut également manquer d'une catégorie nécessaire pour rendre certaines différences descriptibles.
+
+Il ne s'agit alors pas d'un excès catégoriel mais d'une insuffisance du répertoire disponible.
+
+Ce déficit peut rendre certaines expériences difficiles à formuler, à comparer ou à faire reconnaître.
+
+Cette question conduit vers l'analyse de l'injustice herméneutique.
+
+---
+
+12.4. Inertie catégorielle
+
+Lorsqu'une catégorie est incorporée dans des institutions, des bases de données, des formulaires ou des procédures, elle peut acquérir une forte inertie.
+
+Elle continue alors d'organiser les descriptions malgré la transformation des situations auxquelles elle s'applique.
+
+Cette inertie ne signifie pas que la catégorie est vraie ou naturelle.
+
+Elle indique seulement qu'une catégorie stabilisée peut devenir difficile à réviser.
+
+---
+
+12.5. Déplacement inter-régimes
+
+Une catégorie peut également être déplacée d'une configuration à une autre sans que sa fonction soit explicitement réexaminée.
+
+Le problème n'est pas nécessairement le déplacement lui-même.
+
+Un déplacement peut être légitime s'il existe une opération de traduction ou de reconfiguration appropriée.
+
+La pathologie apparaît lorsque la catégorie conserve son apparence de familiarité alors que les conditions fonctionnelles de son emploi ont changé.
+
+Cette question sera développée dans l'analyse des transformations inter-régimes.
+
+---
+
+13. Limites de la notion
+
+La catégorie ne doit pas être transformée en concept universel expliquant à elle seule toute activité descriptive.
+
+Elle ne suffit pas à expliquer :
+
+- la perception ;
+- la formation des différences ;
+- l'application à un cas particulier ;
+- la correction d'une qualification ;
+- l'engagement assertionnel ;
+- la justification ;
+- la révision d'une assertion.
+
+Ces opérations appartiennent à d'autres éléments de l'architecture.
+
+La catégorie désigne plus précisément la disponibilité d'une division conceptuelle au sein d'une configuration descriptive.
+
+Cette limitation est méthodologiquement importante.
+
+Protokin ne cherche pas à faire de la catégorie une nouvelle substance théorique.
+
+---
+
+14. Position dans la trajectoire descriptive
+
+La catégorie intervient dans la trajectoire descriptive comme une possibilité de différenciation disponible avant son actualisation dans une qualification.
+
+Une présentation simplifiée peut être donnée ainsi :
+
+Configuration sémiotique
+          ↓
+Différences rendues disponibles
+          ↓
+Configuration descriptive
+          ↓
+Disponibilité catégorielle
+          ↓
+Qualification
+          ↓
+Assertion
+          ↓
+Justification / contestation / révision
+
+Cette séquence est fonctionnelle et non nécessairement chronologique.
+
+Elle ne signifie pas que chaque pratique passe explicitement par chacune de ces étapes.
+
+Elle permet de distinguer les fonctions qui doivent être séparées pour éviter leur confusion.
+
+Le critère intervient dans cette trajectoire en réglant les conditions de correction de certaines qualifications. Sa théorie appartient à une page distincte.
+
+---
+
+15. Synthèse
+
+Une catégorie descriptive est une division conceptuelle, relationnelle et fonctionnelle disponible dans une configuration descriptive.
+
+Elle :
+
+- organise certaines différences ;
+- ouvre un espace de distinctions ;
+- rend certaines formes de qualification disponibles ;
+- acquiert sa fonction dans une pratique ;
+- entretient des relations avec d'autres catégories ;
+- peut être stabilisée, transformée ou abandonnée ;
+- peut produire des effets de sélection et de silence ;
+- peut être déficitaire, réifiée ou déplacée.
+
+La catégorie n'est cependant ni une propriété naturelle, ni une qualification, ni un critère de correction.
+
+La distinction fondamentale est donc :
+
+«La catégorie rend une qualification possible ; elle ne la rend pas encore correcte.»
+
+Cette dernière fonction relève des critères et des pratiques de justification.
+
+---
+
+Voir aussi
+
+Cette page suppose
 
 - Configuration sémiotique
 - Configuration descriptive
 - Description
 - Espace des raisons
 
-### Cette page prépare
+Cette page prépare
 
-- Qualification
 - Critères
+- Qualification
+- Prédication
+- Assertion
 - Taxonomies
 - Objet descriptif
 - Erreurs de catégorie
 - Injustice herméneutique
 - Régimes descriptifs
-```
+- Transformations inter-régimes
