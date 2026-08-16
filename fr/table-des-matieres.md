@@ -68,6 +68,7 @@
 | Différence rencontrée| Définir la genèse émergente des contrastes dans le couplage organisme-milieu. | [`difference-rencontree.md`](difference-rencontree.md) |
 | Couplage perception-action | Présenter le couplage à l'origine de toute activité descriptive. | [`couplage-perception-action.md`](couplage-perception-action.md) |
 | Butoir | Définir les contraintes de résistance biophysique et les opérateurs de clôture normative.  | [`butoir.md`](butoir.md) |
+| Intra-action | Définir la genèse relationnelle constitutive oragnisme-millieu (antérieur à la coupure sujet/objet). | [`intra-action.md`](intra-action.md) |
 | Niche biologique | Définir le domaine d'interactions co-construit et réglé par les butoirs du milieu. | [`niche-biologique.md`](niche-biologique.md) |
 | Configuration sémiotique | Définir l'organisation des différences devenues partageables. | [`configuration-semiotique.md`](configuration-semiotique.md) |
 | Support descriptif | Définir les médiations matérielles, sémiotiques et institutionnelles des descriptions. | [`support-descriptif.md`](support-descriptif.md) |
@@ -75,7 +76,6 @@
 | Description | Définir la notion générale de description. | [`description.md`](description.md) |
 | Fonctions descriptives | Présenter les fonctions constitutives de la description. | [`fonctions-descriptives.md`](fonctions-descriptives.md) |
 | Qualification | Définir l'opération de qualification. | [`qualification.md`](qualification.md)|
-| Assertion | Définir l'acte d'assertion. | [`assertion.md`](assertion.md) |
 | Prédication | Définir la fonction de prédication. | [`predication.md`](predication.md) |
 | Catégories | Définir les catégories descriptives. | [`categories.md`](categories.md) |
 | Critères | Définir les critères descriptifs permettant l'application des catégories. | [`criteres.md`](criteres.md) |
@@ -105,6 +105,7 @@
 | Supports descriptifs institutionnels | Définir les cadres juridiques, organisationnels et conventionnels garantissant la pérennité des descriptions. | [`supports-descriptifs-institutionnels.md`](supports-descriptifs-institutionnels.md) |
 | Pratique collective | Définir la description comme pratique collective. | [`pratique-collective.md`](pratique-collective.md) |
 | De la notion au concept | Formaliser le passage dynamique de la saisie intuitive (notion) à la catégorie explicitée (concept) par l'opérateur d'enquête. | [`de-la-notion-au-concept.md`](de-la-notion-au-concept.md) | 
+| Assertion | Définir l'acte d'assertion. | [`assertion.md`](assertion.md) |
 | Communauté de locuteurs | Définir les communautés au sein desquelles les descriptions prennent sens. | [`communaute-de-locuteurs.md`](communaute-de-locuteurs.md) |
 | Norme descriptive | Définir les règles immanentes qui rendent possibles l'évaluation et la correction des descriptions. | [`norme-descriptive.md`](norme-descriptive.md) |
 | Engagements descriptifs | Définir les engagements assumés par le locuteur lorsqu'il décrit. | [`engagements-descriptifs.md`](engagements-descriptifs.md) |
@@ -134,7 +135,6 @@
 | Connecteurs de traduction | Développer les protocoles permettant l'hybridation des régimes (ex : sylviculture écologique). | [`connecteurs-de-traduction.md`](connecteurs-de-traduction.md) |
 | Transition | Décrire les passages entre configurations descriptives. | [`transition.md`](transition.md) |
 | Transformation | Définir les transformations des descriptions. | [`transformation.md`](transformation.md) |
-| Intra-action | Définir la genèse relationnelle constitutive oragnisme-millieu (antérieur à la coupure sujet/objet). | [`intra-action.md`](intra-action.md) |
 | Maintien | Décrire les mécanismes assurant la continuité des descriptions. | [`maintien.md`](maintien.md) |
 | Reproduction | Définir la reproduction des pratiques descriptives. | [`reproduction.md`](reproduction.md) |
 | Controverse | Décrire les controverses entre descriptions concurrentes. | [`controverse.md`](controverse.md) |
