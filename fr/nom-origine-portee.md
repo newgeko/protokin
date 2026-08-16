@@ -160,7 +160,7 @@ Au sein de la section 00 — Se repérer, cette page marque le moment où le pro
               STATUT DU PROJET (statut-du-projet.md)
 ```
 
-En explicitant la signification de Protokin, le document prépare l'analyse de l'emboîtement anthropologique entre l'espace des causes (PROTO / le couplage somatique brut et pré-sémiotique) et l'espace des raisons (KIN / le mouvement réglé des justifications discursives).
+En explicitant la signification de Protokin, le document prépare l'analyse de l'articulation entre l'espace des causes (PROTO / l'amont écologique, biologique et somatique des différences rencontrées avec le milieu) et l'espace des raisons (KIN / le mouvement réglé des justifications discursives, des inférences et de la responsabilité normative).
 
 ---
 
