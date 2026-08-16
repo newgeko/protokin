@@ -45,7 +45,7 @@ La différence porte sur la nature de la légitimité. Le nom de Protokin ne dé
 
 Mouvement physique (PROTO) et mouvement discursif (KIN)
 
-La différence porte sur le registre d'intelligibilité. Le mouvement physique relève de l'espace des causes (la physis), tandis que le mouvement descriptif relève de l'espace des raisons (le logos), dont le nom Protokin articule la transition sans confusion.
+La différence porte sur le registre d'intelligibilité. Le pôle PROTO renvoie aux contraintes matérielles, aux butoirs et aux couplages somatiques pré-sémiotiques relevant de l'espace des causes (la physis et les affordances du milieu), tandis que le pôle KIN relève de l'espace des raisons (le logos et la régulation socio-normative), dont le nom Protokin articule la transition sans réduction physicaliste ni confusion des plans.
 
 8. Architecture locale
 
