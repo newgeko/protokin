@@ -861,6 +861,14 @@ Si la page décrit une enquête ou une méthode :
 - les éventuelles reprises sont-elles reconnues ?
 - la séquence n'est-elle pas artificiellement linéarisée ?
 
+### Niveau conceptuel
+
+- Le texte reste-t-il non ontologique ?
+- Les descriptions ne sont-elles pas transformées en objets substantiels ?
+- L'ancrage PROTO est-il respecté dans sa plénitude écologique et énactive ? (Ne pas réduire PROTO au seul déterminisme des « causes physiques » de l'explication : PROTO englobe l'amont vivant, le couplage organisme-milieu, les affordances, les butoirs matériels et les contrastes pré-sémiotiques).
+- L'espace des raisons (KIN) et l'espace des causes (PROTO sous son aspect explicatif strict) sont-ils démarqués sans réductionnisme ni confusion des plans ?
+- Les causes, raisons, critères et normes sont-ils correctement distingués ?
+
 ---
 
 # 15. Règle de rédaction fondamentale
@@ -904,6 +912,8 @@ Une page Protokin doit donc privilégier :
 - les critères ;
 - les transformations ;
 - les limites.
+- l'amont écologique, somatique et énactif des premières différenciations (PROTO) ;
+- le mouvement réglé des inférences, des justifications et de la responsabilité normative (KIN) ;
 
 Elle doit éviter :
 
@@ -913,4 +923,6 @@ Elle doit éviter :
 - les catalogues d'auteurs ;
 - les généralités philosophiques ;
 - les métaphores inutiles ;
-- les répétitions
+- les répétitions ;
+- la réduction de PROTO au seul déterminisme causal / physicaliste mécanique ;
+- la dissolution des raisons (KIN) dans de simples causes neurobiologiques ou matérielles ;
