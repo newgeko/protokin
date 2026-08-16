@@ -193,6 +193,7 @@
 | Diagnostiquer une confusion de niveau | Décrire les erreurs liées aux changements de niveau descriptif. | [`diagnostiquer-une-confusion-de-niveau.md`](diagnostiquer-une-confusion-de-niveau.md) |
 | Diagnostiquer une erreur de catégorie | Décrire les erreurs produites par l'application inadéquate d'une catégorie. | [`diagnostiquer-une-erreur-de-categorie.md`](diagnostiquer-une-erreur-de-categorie.md) |
 | Évaluer une traduction | Définir l'évaluation des traductions entre régimes descriptifs. | [`evaluer-une-traduction.md`](evaluer-une-traduction.md) |
+| Exégèse | xxxx. | [`exegese.md`](exegese.md) |
 
 ---
 
