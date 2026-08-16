@@ -1,330 +1,671 @@
-# Les critères descriptifs
+Les critères descriptifs
 
-| **Fonction** | Établir la notion de **critère descriptif** dans l'architecture de Protokin en tant que condition d'application d'une catégorie descriptive et règle d'évaluation immanente à un régime descriptif, permettant de déterminer dans quelles conditions une qualification est recevable, justifiable ou erronée. |
-| :--- | :--- |
-| **Prépare** | L'analyse de la recevabilité, de la validité descriptive, des normes descriptives, des régimes descriptifs et de l'audit des configurations descriptives. |
-| **Mobilise** | Les catégories descriptives, la qualification, l'assertion, les configurations descriptives et la distinction entre l'espace des causes et l'espace des raisons. |
-| **Permet ensuite** | D'évaluer la correction des descriptions, d'auditer les régimes descriptifs, de diagnostiquer les réductions descriptives, les confusions de niveaux et les injustices épistémiques. |
-| **N'établit pas** | La théorie générale des normes descriptives, des régimes descriptifs ou de la comptabilité déontique collective. |
+«Fonction : Établir la notion de critère descriptif dans l'architecture de Protokin comme condition normative de reconnaissance et d'application d'une catégorie au sein d'une pratique descriptive déterminée.
+
+Prépare : L'analyse de la recevabilité, de la correction, de la justification, des normes descriptives, des régimes descriptifs et de l'audit des configurations descriptives.
+
+Mobilise : Les catégories descriptives, la qualification, l'assertion, les configurations descriptives, la redevabilité inférentielle et la distinction entre l'espace des causes et l'espace des raisons.
+
+Permet ensuite : L'examen des conditions de correction des qualifications, de la justification publique des assertions, des conflits de critères, des réductions descriptives et des transformations inter-régimes.
+
+N'établit pas : La théorie générale des normes descriptives, la théorie complète des régimes descriptifs, la théorie de la qualification ou la comptabilité déontique collective.»
 
 ---
 
-## 1. Problème conceptuel
+Les critères descriptifs
+
+1. Problème conceptuel
 
 Disposer de catégories descriptives ne suffit pas pour produire des descriptions recevables.
 
-Savoir qu'une catégorie existe ne dit pas encore **quand**, **pourquoi** ni **dans quelles conditions** elle peut être correctement mobilisée. Deux locuteurs peuvent disposer du même vocabulaire tout en divergeant profondément sur les conditions légitimes de son application. Le problème n'est donc pas seulement celui des concepts disponibles, mais celui des règles qui gouvernent leur usage.
+Une communauté peut disposer d'une catégorie sans que son application à une situation particulière soit pour autant correcte. La disponibilité d'une distinction ne détermine pas encore les conditions dans lesquelles cette distinction peut être mobilisée de manière recevable.
 
-Dans l'architecture de Protokin, ce problème relève de la **normativité descriptive**. Si l'on renonce au Mythe du Donné et à l'idée qu'une réalité parlerait d'elle-même, il devient nécessaire d'expliquer comment une communauté de locuteurs distingue une description correcte d'une description erronée sans invoquer un fondement absolu, une correspondance immédiate avec le réel ou une norme universelle transcendante.
+Le problème n'est donc plus seulement celui de la disponibilité catégorielle, mais celui de la reconnaissance normative de son application.
 
-Protokin répond à cette question en introduisant la notion de **critère descriptif**. Les critères constituent les conditions d'application des catégories descriptives. Ils rendent possible la qualification d'une situation et permettent aux descriptions d'être discutées, corrigées et justifiées au sein d'un espace public de raisons.
+La question devient :
 
----
+«Qu'est-ce qui permet de soutenir qu'une catégorie est correctement applicable à une situation déterminée ?»
 
-## 2. Définition
+Cette question ne peut être résolue en invoquant une correspondance immédiate entre une description et une réalité supposée parler d'elle-même.
 
-Dans l'architecture de Protokin, un **critère descriptif** est :
+Protokin renonce ainsi au Mythe du Donné : aucune donnée ne porte par elle-même son statut qualificatoire.
 
-> **Une condition d'application d'une catégorie descriptive et une règle d'évaluation immanente à un régime descriptif, qui détermine dans quelles circonstances une qualification peut être considérée comme recevable, correcte, justifiée ou erronée.**
+Une donnée peut être pertinente dans une pratique sans constituer à elle seule une raison.
 
-Le critère répond ainsi à une question fondamentale :
+Il faut donc déterminer les conditions dans lesquelles certaines différences peuvent compter comme pertinentes pour l'application d'une catégorie.
 
-> **Sur quoi repose cette qualification ?**
-
-Il ne décrit pas directement le monde ; il définit les conditions sous lesquelles une description peut être tenue pour correcte dans une pratique déterminée.
+C'est cette fonction qu'assume le critère descriptif.
 
 ---
 
-## 3. Les propriétés des critères descriptifs
+2. Définition fonctionnelle
 
-### Une condition d'application
+Dans l'architecture de Protokin, un critère descriptif est :
 
-Les catégories indiquent ce qu'il est possible de distinguer.
+«Une condition normative de reconnaissance et d'application d'une catégorie au sein d'une pratique descriptive déterminée, qui contribue à régler dans quelles circonstances une qualification peut être soutenue, contestée, corrigée ou révisée.»
 
-Les critères déterminent dans quelles conditions ces distinctions peuvent être effectivement appliquées.
+Le critère répond ainsi à une question différente de celle de la catégorie.
 
-Autrement dit :
+La catégorie demande :
 
-- les catégories rendent une qualification possible ;
-- les critères rendent cette qualification légitime.
+«Quelle différence peut être mobilisée ?»
 
----
+Le critère demande :
 
-### Une règle immanente
+«Qu'est-ce qui permet de soutenir son application ici ?»
 
-Les critères n'existent jamais indépendamment des pratiques descriptives.
+Cette distinction est fondamentale.
 
-Ils sont élaborés, transmis, corrigés et stabilisés au sein de communautés de locuteurs engagées dans des activités particulières.
+Une catégorie ouvre un espace de qualification.
 
-Ils n'expriment donc pas des vérités universelles mais des exigences propres à un régime descriptif.
-
----
-
-### Un opérateur de discrimination
-
-Le critère permet de distinguer les situations où une catégorie est applicable de celles où elle ne l'est pas.
-
-Il constitue le filtre qui sépare :
-
-- les qualifications recevables ;
-- les qualifications abusives ;
-- les erreurs de catégorisation ;
-- les usages indéterminés.
+Un critère règle les conditions dans lesquelles une qualification peut être tenue pour recevable dans une pratique donnée.
 
 ---
 
-### Une exigence de justification publique
+3. Catégorie et critère
 
-Les critères rendent les descriptions contrôlables.
+La catégorie et le critère sont fonctionnellement distincts sans être indépendants.
 
-La correction d'une description ne dépend pas d'une conviction privée mais de raisons susceptibles d'être discutées publiquement.
+La catégorie fournit une division conceptuelle disponible.
 
-Les critères rendent ainsi possible la critique, la révision et l'apprentissage collectif.
+Le critère détermine les conditions sous lesquelles cette division peut être reconnue comme applicable dans une situation déterminée.
 
----
+On peut représenter leur articulation ainsi :
 
-### Une sélection du descriptible
+              Configuration descriptive
+                         │
+                 ┌───────┴───────┐
+                 ↓               ↓
+             Catégorie  ↔      Critère
+                 │               │
+                 └───────┬───────┘
+                         ↓
+                    Qualification
+                         ↓
+                      Assertion
 
-Tout critère sélectionne certaines propriétés comme pertinentes et en laisse d'autres dans l'ombre.
+Le rapport entre catégorie et critère est donc un rapport de co-détermination fonctionnelle.
 
-Il ne révèle pas la réalité en elle-même.
+Une catégorie détermine l'espace des différences pertinentes.
 
-Il organise ce qui devient descriptivement significatif dans une pratique donnée.
+Les critères déterminent les conditions de reconnaissance de ces différences.
 
-Toute sélection de critères produit ainsi simultanément des possibilités de description et des zones de silence.
+Inversement, la difficulté à appliquer certains critères peut conduire à réviser la catégorie elle-même.
 
----
-
-## 4. Critères, catégories, normes et régimes
-
-Ces notions remplissent des fonctions complémentaires mais distinctes.
-
-### Les catégories
-
-Les catégories définissent les distinctions disponibles.
-
-Elles répondent à la question :
-
-> **Que peut-on distinguer ?**
+Le rapport n'est donc pas une succession mécanique.
 
 ---
 
-### Les critères
+4. Le critère comme condition de reconnaissance
 
-Les critères déterminent les conditions d'application des catégories.
+Un critère ne constitue pas nécessairement une règle explicite.
 
-Ils répondent à la question :
+Il peut être incorporé dans :
 
-> **Sur quoi repose cette qualification ?**
+- une pratique professionnelle ;
+- une procédure ;
+- un protocole ;
+- un apprentissage ;
+- une tradition de jugement ;
+- une convention ;
+- un ensemble d'inférences ;
+- un dispositif institutionnel.
+
+Le critère peut donc être formulé explicitement ou demeurer incorporé dans une pratique.
+
+Ce qui le définit n'est pas sa forme grammaticale, mais sa fonction normative.
+
+Un critère permet de déterminer ce qui peut compter comme pertinent pour soutenir l'application d'une catégorie.
+
+Il ne constitue donc pas nécessairement une condition suffisante.
+
+Plusieurs critères peuvent devoir être articulés.
+
+Certains peuvent être nécessaires sans être suffisants.
+
+D'autres peuvent être contestés, révisés ou remplacés.
 
 ---
 
-### Les normes
+5. Critère et qualification
 
-Les normes gouvernent l'usage des critères.
+La qualification constitue l'application située d'une catégorie à une situation déterminée.
 
-Elles répondent à la question :
+Le critère intervient dans les conditions de correction de cette application.
 
-> **Selon quelles exigences les critères doivent-ils être mobilisés, articulés ou hiérarchisés ?**
+Il faut donc distinguer :
 
-Les normes organisent les critères sans se confondre avec eux.
+Catégorie
+    ↓
+possibilité de qualification
+
+Critère
+    ↓
+condition de reconnaissance
+
+Qualification
+    ↓
+application située
+
+Assertion
+    ↓
+engagement public
+
+La catégorie ne suffit pas à produire une qualification correcte.
+
+Le critère ne produit pas non plus mécaniquement la qualification.
+
+Il fournit les conditions sous lesquelles cette qualification peut être soutenue ou contestée.
+
+Ainsi, deux locuteurs peuvent partager une même catégorie tout en divergeant sur son application parce qu'ils ne mobilisent pas les mêmes critères, ou parce qu'ils hiérarchisent différemment les critères disponibles.
 
 ---
 
-### Les régimes descriptifs
+6. Critère et raison
 
-Les régimes descriptifs organisent l'ensemble des catégories, des critères et des normes qui rendent une pratique descriptive possible.
+Le critère doit être distingué de la raison.
 
-Ils définissent l'espace général dans lequel une description peut être évaluée.
+Une raison est ce qui peut être mobilisé dans une pratique discursive pour soutenir ou contester une assertion.
 
----
-
-## 5. Critères et indicateurs
-
-Une confusion fréquente consiste à identifier les critères aux observations elles-mêmes.
-
-Cette confusion doit être évitée.
-
-Un **indicateur** est une donnée observée.
-
-Un **critère** est la règle qui permet d'interpréter cette donnée.
+Un critère détermine notamment ce qui peut compter comme pertinent pour cette pratique de soutien.
 
 Ainsi :
 
-- une température corporelle de 39 °C constitue un indicateur ;
-- la règle selon laquelle une température supérieure à un certain seuil justifie une prise en charge urgente constitue un critère.
+«le critère règle la pertinence normative ; la raison constitue un élément mobilisable dans la justification.»
 
-Les indicateurs appartiennent aux observations.
+Un critère n'est donc pas lui-même nécessairement une raison.
 
-Les critères appartiennent aux pratiques de qualification.
+Il contribue à déterminer quelles observations, quels énoncés, quelles procédures ou quelles inférences peuvent acquérir une force justificatoire dans une pratique.
 
----
+Cette distinction permet d'éviter une confusion entre :
 
-## 6. Les fonctions des critères descriptifs
-
-Les critères remplissent plusieurs fonctions complémentaires.
-
-### Déterminer les conditions de correction
-
-Ils permettent de distinguer les descriptions recevables des descriptions erronées.
-
-Ils définissent ce qui compte comme une preuve, une justification ou une erreur à l'intérieur d'un régime descriptif.
+- la condition de pertinence ;
+- l'élément pertinent ;
+- la justification produite à partir de cet élément.
 
 ---
 
-### Organiser les inférences
+7. Critère et indicateur
 
-Les critères structurent les enchaînements descriptifs autorisés.
+Un indicateur est un élément susceptible d'être observé ou enregistré.
 
-Ils déterminent quelles qualifications entraînent quelles conséquences descriptives.
+Un critère détermine dans quelles conditions cet élément peut contribuer à l'application d'une catégorie.
 
-Ils participent ainsi à l'organisation de l'espace des raisons.
+Un indicateur n'est donc pas une raison par nature.
 
----
+Il acquiert une fonction justificatoire dans une configuration déterminée.
 
-### Stabiliser les pratiques collectives
+On peut représenter la relation ainsi :
 
-Les critères rendent les descriptions comparables entre plusieurs locuteurs.
+Donnée ou événement
+        ↓
+   Indicateur
+        ↓
+Pertinence selon un critère
+        ↓
+Application catégorielle
+        ↓
+Qualification
+        ↓
+Assertion
 
-Ils permettent l'apprentissage, la transmission des savoir-faire descriptifs, la correction des erreurs et la coordination des pratiques.
+Par exemple, une température corporelle mesurée constitue une donnée.
 
----
+Elle peut fonctionner comme indicateur dans une pratique clinique.
 
-## 7. Éclairages par les fils rouges
+Mais ce n'est pas la température en elle-même qui détermine sa signification normative.
 
-### « Le vélo est rouge »
+C'est la configuration clinique dans laquelle certaines valeurs, certaines observations et certaines relations entre elles peuvent compter pour l'application de catégories déterminées.
 
-Dans une description ordinaire, la qualification repose sur des critères perceptifs partagés.
-
-Dans un laboratoire de colorimétrie, la même qualification repose sur des mesures instrumentales normalisées.
-
-L'objet demeure identique.
-
-Les critères changent.
-
----
-
-### « Cette personne est dangereuse »
-
-Les critères varient selon le régime mobilisé.
-
-Le psychiatre mobilise des critères cliniques.
-
-Le policier mobilise des critères opérationnels.
-
-Le juge mobilise des critères juridiques.
-
-Aucun de ces critères n'est universel ; chacun répond à une pratique spécifique.
+Le critère appartient donc à la pratique de qualification, et non à la donnée considérée isolément.
 
 ---
 
-### « Cette personne est mauvaise »
+8. Le critère comme opérateur de redevabilité
 
-La qualification morale repose sur des critères d'évaluation normative.
+Le critère possède une fonction centrale dans l'espace des raisons.
 
-L'erreur consiste à transformer ces critères de jugement en propriétés naturelles de la personne.
+Lorsqu'un locuteur produit une qualification, celle-ci peut faire l'objet d'une demande de justification :
 
-L'audit protokinien révèle cette réification descriptive.
+«Pourquoi cette qualification est-elle applicable ?»
 
----
+Le critère contribue alors à déterminer ce qui peut être invoqué comme réponse pertinente.
 
-### Le botaniste et le bûcheron
+On peut représenter cette structure ainsi :
 
-Les deux observent le même arbre.
+Qualification
+      ↓
+« Pourquoi ? »
+      ↓
+Critères pertinents
+      ↓
+Raisons mobilisables
+      ↓
+Acceptation / contestation
+      ↓
+Révision éventuelle
 
-Le botaniste applique des critères taxonomiques.
+Le critère participe ainsi à la redevabilité inférentielle du locuteur.
 
-Le bûcheron applique des critères techniques et sylvicoles.
+Il ne garantit pas la vérité de l'assertion.
 
-Ils ne décrivent pas des réalités différentes.
+Il détermine plutôt certaines conditions dans lesquelles le locuteur peut être tenu de répondre de son application de la catégorie.
 
-Ils appliquent des critères différents en fonction de finalités différentes.
-
----
-
-### Le patient aux urgences
-
-Le tri infirmier repose sur des critères cliniques.
-
-L'administration mobilise des critères de gestion.
-
-L'injustice apparaît lorsque les critères administratifs remplacent illégitimement les critères cliniques dans une décision médicale.
-
----
-
-## 8. Place dans l'architecture
-
-Les critères descriptifs occupent une position charnière dans l'architecture fonctionnelle de Protokin.
-
-La progression conceptuelle est la suivante :
-
-1. Configuration descriptive
-2. Catégories descriptives
-3. Critères descriptifs
-4. Qualification
-5. Assertion
-6. Régime descriptif
-7. Audit
-
-Les catégories rendent certaines distinctions possibles.
-
-Les critères déterminent les conditions de leur application.
-
-La qualification applique ces critères à une situation particulière.
-
-L'assertion formule publiquement cette qualification.
-
-Le régime descriptif organise les conditions générales de sa justification.
-
-L'audit examine la cohérence de l'ensemble.
+Cette fonction est particulièrement importante dans le plan KIN.
 
 ---
 
-## 9. Vigilances d'audit
+9. Critères et espace des raisons
 
-L'analyse des critères conduit à identifier plusieurs dérives récurrentes.
+Les critères appartiennent au fonctionnement normatif des pratiques descriptives.
 
-### Hybridation des critères
+Ils ne constituent cependant pas des objets situés indépendamment des pratiques.
 
-Des critères issus de régimes différents sont combinés sans justification explicite.
+Dans l'espace des raisons, une qualification peut être :
 
----
+- soutenue ;
+- contestée ;
+- révisée ;
+- suspendue ;
+- retirée.
 
-### Réduction descriptive
+Les critères participent à la détermination de ces possibilités.
 
-Les critères d'un régime sont imposés à un autre, détruisant son autonomie.
+Ils permettent notamment de distinguer :
 
----
+«ce qui peut être invoqué comme pertinent de ce qui ne peut pas l'être dans une pratique déterminée.»
 
-### Naturalisation
+Le critère n'est donc ni une cause de la qualification ni un objet naturel auquel la qualification correspondrait.
 
-Les critères normatifs sont transformés en propriétés naturelles des objets ou des personnes.
-
----
-
-### Zones de silence
-
-Tout choix de critères rend certaines dimensions visibles et en invisibilise d'autres.
-
-L'audit doit rendre explicites ces angles morts.
+Il est une condition normative de son application et de sa contestabilité.
 
 ---
 
-## 10. Synthèse
+10. Immanence des critères
 
-Les critères descriptifs constituent les conditions d'application des catégories descriptives.
+Les critères sont immanents aux pratiques descriptives dans lesquelles ils fonctionnent.
 
-Ils rendent possibles la qualification, la justification publique des descriptions et leur évaluation collective.
+Ils sont produits, transmis, appris, stabilisés et éventuellement révisés au sein de communautés engagées dans des activités déterminées.
 
-Ils ne sont ni des vérités universelles, ni de simples observations empiriques.
+Cette immanence ne signifie toutefois pas qu'ils seraient irrévocables.
 
-Ils sont des règles immanentes aux pratiques descriptives, historiquement stabilisées et continuellement révisables.
+Un critère peut devenir lui-même l'objet d'une enquête.
 
-En résumé :
+Il peut être :
 
-- les **catégories** déterminent ce qu'il est possible de distinguer ;
-- les **critères** déterminent dans quelles conditions ces distinctions peuvent être appliquées ;
-- les **normes** organisent l'usage des critères ;
-- les **régimes descriptifs** articulent l'ensemble de ces conditions de justification.
+- contesté ;
+- insuffisant ;
+- contradictoire avec d'autres critères ;
+- déplacé dans une autre pratique ;
+- remplacé ;
+- reconfiguré.
 
-Les critères constituent ainsi l'un des principaux opérateurs par lesquels l'espace des raisons devient publiquement contrôlable, révisable et partageable.
+L'immanence signifie donc que le critère tire sa fonction normative d'une pratique déterminée.
+
+Elle ne signifie pas que cette fonction échappe à l'examen réflexif.
+
+---
+
+11. Critères, normes et régimes descriptifs
+
+Les critères doivent être distingués des normes descriptives et des régimes descriptifs.
+
+Les catégories
+
+Les catégories fournissent les divisions conceptuelles disponibles.
+
+«Que peut-on distinguer ?»
+
+Les critères
+
+Les critères règlent les conditions de reconnaissance et d'application de ces distinctions.
+
+«Qu'est-ce qui permet de soutenir cette application ?»
+
+Les normes
+
+Les normes constituent la dimension normative plus générale dans laquelle les critères acquièrent leur force et leur fonction.
+
+«Quelles exigences gouvernent cette pratique ?»
+
+Les régimes descriptifs
+
+Les régimes organisent historiquement et fonctionnellement des ensembles de catégories, de critères, de normes, de pratiques d'inférence et de procédures de justification.
+
+«Dans quelle configuration générale ces éléments fonctionnent-ils ensemble ?»
+
+Il ne faut donc pas comprendre ces niveaux comme une simple hiérarchie :
+
+Catégorie
+    ↓
+Critère
+    ↓
+Norme
+    ↓
+Régime
+
+Leur relation est plutôt systémique :
+
+                  RÉGIME DESCRIPTIF
+                         │
+          ┌──────────────┼──────────────┐
+          ↓              ↓              ↓
+      Catégories      Critères        Normes
+          │              │              │
+          └──────────────┼──────────────┘
+                         ↓
+                 Pratiques de
+                 qualification
+                         ↓
+                    Assertions
+                         ↓
+             Justification / révision
+
+---
+
+12. Les critères ne sont pas universels
+
+Un critère possède une portée déterminée par la pratique dans laquelle il fonctionne.
+
+Le fait qu'un critère soit valide dans une pratique ne suffit donc pas à l'étendre à toutes les autres.
+
+Cette propriété ne signifie pas que toutes les pratiques seraient arbitraires.
+
+Elle signifie que la correction d'une qualification doit être examinée relativement aux conditions normatives de la pratique dans laquelle elle est produite.
+
+Cette relativité fonctionnelle permet de distinguer :
+
+«pluralité des critères ≠ relativisme absolu.»
+
+Un critère peut être contestable sans que toute qualification soit équivalente à toute autre.
+
+La contestation elle-même doit pouvoir être formulée à partir de raisons recevables dans une pratique déterminée.
+
+---
+
+13. Fils rouges de Protokin
+
+13.1. « Le vélo est rouge »
+
+Dans une pratique ordinaire, la qualification peut reposer sur des critères perceptifs partagés.
+
+Dans une pratique scientifique de caractérisation des couleurs, d'autres critères peuvent être mobilisés.
+
+La catégorie "rouge" peut donc rester relativement stable tandis que les conditions de sa reconnaissance varient selon la configuration.
+
+Le point protokinien n'est pas que l'objet changerait de couleur selon les régimes.
+
+Il est que les conditions sous lesquelles une qualification chromatique est recevable peuvent différer selon la pratique descriptive.
+
+---
+
+13.2. La personne dangereuse
+
+La catégorie "dangereux" peut être mobilisée dans différentes pratiques.
+
+Les critères pertinents ne sont alors pas nécessairement identiques.
+
+Une pratique juridique, une pratique clinique ou une pratique policière peuvent organiser différemment la reconnaissance de cette catégorie.
+
+Le problème apparaît lorsque les critères d'une pratique sont transférés à une autre sans explicitation de la transformation opérée.
+
+L'audit doit alors examiner :
+
+Catégorie commune ou similaire
+        ↓
+Critères différents
+        ↓
+Fonctions différentes
+        ↓
+Risque de confusion inter-régimes
+
+La difficulté n'est pas nécessairement que l'une des pratiques serait « fausse ».
+
+Elle peut résider dans l'utilisation d'une qualification correcte dans un régime comme si elle conservait automatiquement la même fonction dans un autre.
+
+---
+
+13.3. La personne mauvaise
+
+La catégorie "mauvais" ou "mauvaise" peut fonctionner dans une pratique d'évaluation morale.
+
+Les critères qui permettent de soutenir cette qualification concernent alors des actions, des intentions, des responsabilités ou des normes déterminées.
+
+Une pathologie apparaît lorsqu'une qualification portant sur des conduites est transformée en propriété supposée intrinsèque de la personne.
+
+Le problème est alors celui d'une réification :
+
+Évaluation d'une conduite
+        ↓
+Catégorisation morale
+        ↓
+Qualification de la personne
+        ↓
+Propriété supposée intrinsèque
+
+La réification ne résulte donc pas simplement de l'existence d'un critère moral.
+
+Elle résulte du changement de statut attribué à la catégorie au cours de la trajectoire descriptive.
+
+---
+
+13.4. Le botaniste et le bûcheron
+
+Une même dynamique matérielle peut être pertinente dans plusieurs configurations descriptives.
+
+Le botaniste mobilise des catégories et des critères taxonomiques.
+
+Le bûcheron mobilise des catégories et des critères techniques.
+
+Leurs critères ne sont pas interchangeables.
+
+Mais cette non-interchangeabilité ne signifie pas que leurs pratiques seraient hermétiquement séparées.
+
+Une opération de traduction ou de reconfiguration peut permettre de passer de l'une à l'autre.
+
+La question protokinienne devient alors :
+
+«Quelles transformations permettent à une différence reconnue dans une pratique de devenir pertinente dans une autre ?»
+
+Cette question appartient à l'analyse des transformations inter-régimes.
+
+---
+
+13.5. Le patient aux urgences
+
+Une même situation peut être prise dans plusieurs pratiques.
+
+Le triage clinique mobilise des critères relatifs à l'état du patient.
+
+L'administration peut mobiliser des critères de gestion ou d'organisation.
+
+Ces critères peuvent coexister.
+
+La pathologie apparaît lorsqu'un critère relevant d'une pratique est utilisé pour substituer sa juridiction normative à celle d'une autre pratique sans justification.
+
+Par exemple, une contrainte de gestion peut devenir le motif de révision d'une qualification clinique alors qu'aucune opération légitime de traduction n'a été explicitée.
+
+L'audit ne consiste donc pas à déclarer qu'un critère administratif est « faux ».
+
+Il consiste à déterminer quelle fonction normative lui est légitimement attribuable dans la configuration considérée.
+
+---
+
+14. Pathologies des critères
+
+14.1. Hybridation des critères
+
+L'hybridation des critères apparaît lorsque des conditions provenant de pratiques différentes sont combinées sans que leur relation soit explicitée.
+
+Le problème n'est pas nécessairement l'utilisation de plusieurs critères.
+
+Une pratique complexe peut légitimement en articuler plusieurs.
+
+La pathologie apparaît lorsque des critères appartenant à des juridictions différentes sont traités comme s'ils possédaient automatiquement la même force normative.
+
+---
+
+14.2. Réduction descriptive
+
+Une réduction descriptive apparaît lorsqu'un ensemble de critères est imposé comme seul mode légitime de qualification alors que plusieurs dimensions de la situation peuvent être pertinentes.
+
+Un régime particulier devient alors la mesure implicite de tous les autres.
+
+La réduction ne consiste pas simplement à préférer un critère.
+
+Elle consiste à réduire l'espace descriptif à la juridiction d'un seul ensemble de critères.
+
+---
+
+14.3. Naturalisation
+
+La naturalisation apparaît lorsque la fonction normative d'un critère est transformée en propriété supposée naturelle de l'objet.
+
+Une règle de qualification devient alors invisible en tant que règle.
+
+Son résultat est présenté comme s'il avait été directement découvert dans le monde.
+
+Cette pathologie prolonge la réification des catégories.
+
+---
+
+14.4. Déplacement inter-régimes non explicité
+
+Un critère peut être transporté d'un régime à un autre.
+
+Ce déplacement peut être légitime.
+
+Il devient problématique lorsqu'il n'est accompagné d'aucune transformation explicite permettant de déterminer ce que le critère signifie désormais.
+
+Le critère conserve alors son apparence de familiarité tout en changeant silencieusement de fonction.
+
+---
+
+14.5. Inertie normative
+
+Un critère peut continuer à structurer une pratique après que les conditions qui avaient justifié sa stabilisation ont changé.
+
+Il acquiert alors une inertie institutionnelle.
+
+L'audit doit pouvoir distinguer :
+
+- maintien justifié ;
+- maintien par habitude ;
+- maintien institutionnel ;
+- maintien par défaut ;
+- maintien malgré des contre-exemples pertinents.
+
+---
+
+15. Critères et révision
+
+Les critères ne sont pas seulement des instruments d'application.
+
+Ils peuvent eux-mêmes être révisés.
+
+Une difficulté récurrente peut révéler :
+
+- une catégorie trop large ;
+- une catégorie trop étroite ;
+- un critère insuffisant ;
+- un conflit entre plusieurs critères ;
+- un changement de fonction du régime ;
+- un déficit catégoriel.
+
+La révision peut donc porter sur différents niveaux :
+
+Critère problématique
+        ↓
+Révision du critère
+        ↓
+ou
+Révision de la catégorie
+        ↓
+ou
+Reconfiguration de la pratique
+        ↓
+ou
+Transformation du régime
+
+La critique des critères n'implique donc pas nécessairement leur remplacement.
+
+Elle peut conduire à une réarticulation de la configuration entière.
+
+---
+
+16. Position dans l'architecture
+Le critère ne constitue pas une étape chronologique située entre catégorie et qualification.
+Il constitue une fonction normative transversale de la pratique de qualification.
+Une représentation plus adéquate est :
+RÉGIME DESCRIPTIF
+                         │
+          ┌──────────────┴──────────────┐
+          ↓                             ↓
+      Catégories                     Critères
+          │                             │
+          └──────────────┬──────────────┘
+                         ↓
+                    Qualification
+                         ↓
+                      Assertion
+                         ↓
+              Justification / contestation
+                         ↓
+                      Révision
+                         ↺
+La relation entre catégorie et critère doit être comprise comme une relation dynamique.
+Une difficulté d'application peut conduire à modifier le critère.
+Une difficulté persistante peut conduire à modifier la catégorie.
+Une transformation de la pratique peut conduire à reconfigurer leur articulation.
+L'architecture est donc révisable, et non simplement séquentielle.
+17. Limites de la notion
+Le critère descriptif ne doit pas être transformé en fondement absolu de la correction.
+Il n'est pas :
+une vérité universelle ;
+une donnée empirique ;
+une cause de la qualification ;
+une propriété naturelle ;
+une preuve suffisante par elle-même ;
+une norme transcendante ;
+une justification automatique ;
+un substitut à la comptabilité déontique.
+Il constitue une condition normative située de reconnaissance et d'application.
+Son statut doit donc toujours être rapporté à la pratique dans laquelle il fonctionne.
+Cette limitation est essentielle à la conception non ontologique de Protokin.
+Protokin ne cherche pas à découvrir les « vrais critères » qui gouverneraient toutes les descriptions.
+Il cherche à rendre explicites les conditions sous lesquelles des critères fonctionnent comme tels dans des pratiques déterminées, puis à permettre leur audit.
+18. Synthèse
+Les critères descriptifs règlent les conditions sous lesquelles une catégorie peut être reconnue comme applicable dans une pratique déterminée.
+Ils ne sont ni des données, ni des propriétés naturelles, ni des vérités universelles.
+Ils sont des conditions normatives immanentes aux pratiques de qualification.
+La distinction fondamentale peut être formulée ainsi :
+La catégorie détermine sous quel type de différence une situation peut être qualifiée ; le critère détermine ce qui permet de soutenir cette qualification.
+Cette distinction permet de séparer :
+la disponibilité d'une catégorie ;
+les conditions de son application ;
+la qualification d'une situation ;
+l'engagement pris dans une assertion ;
+les raisons mobilisables pour soutenir ou contester cet engagement.
+Le critère occupe ainsi une position centrale dans l'espace des raisons sans devenir lui-même une raison au sens strict.
+Il contribue à déterminer ce qui peut compter comme pertinent pour une raison.
+Sa fonction est donc à la fois normative, pratique et révisable.
+L'audit protokinien peut dès lors porter non seulement sur les qualifications produites, mais également sur les conditions qui rendent ces qualifications recevables.
+Voir aussi
+Cette page suppose
+Configuration sémiotique
+Configuration descriptive
+Catégories descriptives
+Description
+Espace des raisons
+Qualification
+Cette page prépare
+Recevabilité
+Justification
+Assertion
+Normes descriptives
+Régimes descriptifs
+Audit des configurations
+Réduction descriptive
+Transformations inter-régimes
+Injustice épistémique
+Comptabilité déontique
