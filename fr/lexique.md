@@ -638,3 +638,470 @@
 
 ---
 
+
+## Pratique collective
+
+**Section : 04 — Les pratiques descriptives**
+**Fonction :** Un ensemble relativement stabilisé d'activités coordonnées, de rôles, de normes, de supports, d'habitudes et de procédures permettant à plusieurs agents de produire, reconnaître, transmettre, discuter, corriger et transformer des descriptions au sein d'une communauté.
+
+**Composantes :**
+- Des participants.
+- Des supports.
+- Des normes.
+- Des opérations.
+- Une temporalité.
+
+**Ce qu'elle suppose :** le *primat du couplage perception-action*, les *supports descriptifs* et la distinction *PROTO/KIN*.
+**Ce qu'elle rend possible :** l'étude des *communautés de locuteurs*, de la circulation des engagements, de la transmission des savoirs et de l'audit des asymétries de participation.
+
+---
+
+## Prédication
+
+**Section : 03 — Fondements descriptifs**
+**Fonction :** La fonction descriptive primaire par laquelle une description attribue localement une propriété, une catégorie ou un statut à un élément, établissant la relation minimale d'association entre un sujet et un prédicat.
+
+**Propriétés :**
+- Une attribution locale.
+- Une fonction dépendante.
+- Un point d'ancrage logique.
+
+**Ce qu'elle suppose :** la *description* et la *configuration descriptive*.
+**Ce qu'elle rend possible :** l'analyse de la *qualification*, de l'*assertion*, des *catégories* et des *critères*.
+
+---
+
+## Principe des dépendances fonctionnelles
+
+**Section : 01 — Principes fondamentaux**
+**Fonction :** Le principe affirmant que chaque concept de Protokin n'acquiert son intelligibilité qu'à travers les relations qu'il entretient avec les autres concepts de l'architecture.
+
+**Propriétés :**
+- Une architecture relationnelle.
+- Une architecture sans centre.
+- Les transformations se propagent.
+
+**Ce qu'elle suppose :** le *primat de la description*, le *primat de l'enquête*, la distinction *Causes/Raisons* et le *principe d'immanence normative*.
+**Ce qu'elle rend possible :** l'*architecture conceptuelle*, l'*architecture fonctionnelle* et la méthode d'*audit*.
+
+---
+
+## Principe de la description située
+
+**Section : 01 — Principes fondamentaux**
+**Fonction :** Le principe affirmant que toute description est produite depuis une position épistémique déterminée, au sein d'une pratique collective, en mobilisant des ressources organiques, matérielles, conceptuelles et sociales.
+
+**Conséquences :**
+- Aucun locuteur ne décrit depuis un point de vue absolu.
+- Toute description mobilise des ressources acquises au cours d'une trajectoire.
+- Toute description engage son auteur dans un espace public de justification.
+
+**Ce qu'elle suppose :** le *primat du couplage perception-action*, le *primat de la description* et la distinction *Causes/Raisons*.
+**Ce qu'elle rend possible :** l'analyse du *locuteur*, des *supports descriptifs*, des *communautés de locuteurs* et des *engagements descriptifs*.
+
+---
+
+## Principe de réflexivité
+
+**Section : 09 — Réflexivité**
+**Fonction :** Le principe méthodologique et d'auto-limitation constitutive selon lequel toute analyse, toute méthode et toute catégorie produites par Protokin doivent pouvoir s'appliquer récursivement à Protokin lui-même, posant la métathéorie comme une pratique descriptive située, faillible, historiquement sédimentée et soumise aux mêmes exigences de redevabilité publique et de révisabilité que les régimes qu'elle prend pour objets d'enquête.
+
+**Exigences :**
+- L'exclusion du surplomb.
+- La révisabilité immanente.
+- La symétrie de juridiction.
+
+**Ce qu'elle suppose :** le *primat de la description*, le *primat de l'enquête*, le *principe de la description située*, le *principe d'immanence normative* et le *principe du pluralisme descriptif*.
+**Ce qu'elle rend possible :** l'*auto-application*, l'*audit des audits* et l'analyse des *limites de Protokin*.
+
+---
+
+## Principe d'humilité épistémique
+
+**Section : 01 — Principes fondamentaux**
+**Fonction :** Le principe affirmant que Protokin est une métathéorie non ontologique consacrée à l'étude des conditions de descriptibilité des pratiques humaines, se reconnaissant lui-même comme une description située, révisable et soumise aux mêmes exigences critiques que celles qu'il applique aux autres régimes descriptifs.
+
+**Conséquences :**
+- Le refus de toute ontologie générale.
+- La non-supériorité de la métathéorie.
+- La révisabilité permanente.
+
+**Ce qu'elle suppose :** le *principe de réflexivité*, le *principe du pluralisme descriptif* et le *principe de la description située*.
+**Ce qu'elle rend possible :** l'analyse des *limites de Protokin*, l'*auto-audit* permanent de la métathéorie et la critique de l'impérialisme conceptuel.
+
+---
+
+## Principe d'immanence normative
+
+**Section : 01 — Principes fondamentaux**
+**Fonction :** Le principe affirmant que les normes qui règlent les descriptions sont produites, maintenues, discutées et transformées par les pratiques descriptives collectives.
+
+**Propriétés :**
+- Les normes ne sont pas des faits.
+- Les normes appartiennent à l'espace des raisons.
+- Les normes sont publiques.
+- Les normes sont historiques.
+- Les normes dépendent des régimes descriptifs.
+
+**Ce qu'elle suppose :** le *primat de la description*, le *primat de l'enquête* et la distinction *Causes/Raisons*.
+**Ce qu'elle rend possible :** l'analyse des *normes descriptives*, des *engagements descriptifs* et de la *recevabilité*.
+
+---
+
+## Principe du pluralisme descriptif
+
+**Section : 01 — Principes fondamentaux**
+**Fonction :** Le principe affirmant qu'une même situation peut être décrite légitimement par plusieurs régimes descriptifs, dès lors que chacun répond à une enquête distincte, poursuit des finalités propres et mobilise ses propres catégories, critères, normes et engagements.
+
+**Conséquences :**
+- La pluralité des enquêtes.
+- L'autonomie des régimes.
+- L'irréductibilité des descriptions.
+
+**Ce qu'elle suppose :** le *primat de la description*, le *primat de l'enquête*, le *principe de la description située* et le *principe d'immanence normative*.
+**Ce qu'elle rend possible :** l'étude des *régimes descriptifs*, des *compatibilités*, des *traductions* et de l'*écologie des régimes descriptifs*.
+
+---
+
+## Puissance descriptive
+
+**Section : 07 — Explication**
+**Fonction :** La propriété relationnelle qui caractérise la capacité d'un régime descriptif à intégrer les contraintes et les résistances de l'environnement, à organiser un réseau dense de conséquences inférentielles, à résister aux perturbations et à guider avec efficacité la coordination collective et l'intervention pratique sur une situation donnée.
+
+**Dimensions :**
+- Densité inférentielle.
+- Capacité projective.
+- Résistance aux perturbations.
+- Puissance d'intervention pratique.
+- Capacité de coordination collective.
+
+**Ce qu'elle suppose :** le *principe du pluralisme descriptif*, la *configuration descriptive*, le *régime descriptif* et la distinction *Causes/Raisons*.
+**Ce qu'elle rend possible :** l'évaluation critique lors de l'*audit*, la conduite des *traductions inter-régimes* et la comparaison entre l'*image manifeste* et l'*image scientifique*.
+
+---
+
+## Qualification
+
+**Section : 03 — Fondements descriptifs**
+**Fonction :** L'opération descriptive située par laquelle une configuration singulière est inscrite dans une catégorie propre à un régime descriptif, déterminant les engagements, les incompatibilités et les possibilités d'inférence associés à cette description.
+
+**Propriétés :**
+- Une inscription catégorielle.
+- Une opération normative.
+- Une opération située.
+
+**Ce qu'elle suppose :** la *description*, la *configuration descriptive* et la *prédication*.
+**Ce qu'elle rend possible :** l'étude des *catégories*, des *critères*, de la *recevabilité* et des *erreurs de catégorie*.
+
+---
+
+## Raisons / Espace des raisons (KIN)
+
+**Section : 07 — Explication**
+**Fonction :** Le domaine des relations justificatives, inférentielles et déontiques par lesquelles des descriptions, des actions ou des assertions sont soumises à des critères publics de correction au sein d'une communauté de locuteurs, déterminant ce que les agents sont habilités à affirmer, ce qu'ils sont engagés à reconnaître et ce qu'ils sont tenus d'exclure.
+
+**Dimensions :**
+- La dimension déontique (engagements et incompatibilités).
+- La dimension inférentielle (discipline des transitions discursives).
+- La dimension justificative (comptabilité normative ou scorekeeping).
+
+**Ce qu'elle suppose :** le *principe d'immanence normative*, la *communauté de locuteurs*, l'*assertion* et les *engagements descriptifs*.
+**Ce qu'elle rend possible :** l'établissement de la *validité descriptive*, la conduite de l'*audit des régimes* et l'analyse des *traductions entre régimes*.
+
+---
+
+## Recevabilité
+
+**Section : 04 — Les pratiques descriptives**
+**Fonction :** La propriété fonctionnelle par laquelle une proposition ou une configuration discursive satisfait aux critères normatifs d'un régime de description donné, ce qui l'habilite à être tenue pour correcte, à figurer comme ressource dans des chaînes inférentielles et à engager la responsabilité de ses auteurs au sein d'une communauté de pratique.
+
+**Dimensions :**
+- L'accomplissement des critères du régime descriptif.
+- L'engagement inférentiel du locuteur.
+- La stabilisation par une communauté de locuteurs.
+
+**Ce qu'elle suppose :** la *description*, le *régime descriptif*, les *critères descriptifs*, l'*assertion* et les *engagements descriptifs*.
+**Ce qu'elle rend possible :** l'analyse de la *validité descriptive*, de la *comptabilité déontique* et des procédures de diagnostic lors de l'audit des régimes.
+
+---
+
+## Régime descriptif
+
+**Section : 03 — Fondements descriptifs**
+**Fonction :** Une configuration historiquement stabilisée de pratiques, de catégories, de critères, de normes, d'instruments et d'engagements qui détermine les conditions selon lesquelles une description peut être produite, évaluée et justifiée au sein d'une communauté de locuteurs.
+
+**Structure interne :**
+- Un vocabulaire spécifique.
+- Des critères de correction.
+- Des formes d'inférence.
+- Des engagements collectifs.
+
+**Ce qu'elle suppose :** les *configurations descriptives*, les *catégories*, les *critères*, les *normes* et les *communautés de locuteurs*.
+**Ce qu'elle rend possible :** l'analyse de la *recevabilité*, de la *validité descriptive*, de l'audit des confusions de niveaux et des *transitions*.
+
+---
+
+## Réorganisation
+
+**Section : 06 — Temporalité**
+**Fonction :** L'opération de second ordre par laquelle une communauté de locuteurs modifie la structure interne de ses catégories, redéfinit ses critères d'évaluation et réordonne ses chaînes inférentielles, afin de restaurer la puissance de sa configuration descriptive face aux anomalies sédimentées d'une situation problématique.
+
+**Dimensions :**
+- La plasticité normative.
+- L'intégration d'anomalies.
+- La continuité de trajectoire.
+
+**Ce qu'elle suppose :** la *configuration descriptive*, la *stabilisation*, l'*effet cliquet* et les *limites internes*.
+**Ce qu'elle rend possible :** la conduite de l'*audit clinique*, l'analyse de la *puissance descriptive* et l'étude des *transitions diachroniques*.
+
+---
+
+## Reproduction
+
+**Section : 05 — Dynamique descriptive**
+**Fonction :** Le processus collectif, formalisé et institutionnalisé par lequel une communauté de locuteurs transmet diachroniquement les structures de sa configuration descriptive — ses catégories, ses critères, ses normes de recevabilité et ses rituels de justification — en formant les compétences des nouveaux participants, en codifiant ses supports d'inscription et en distribuant les rôles normatifs au-delà de la contingence des situations singulières.
+
+**Dimensions :**
+- L'apprentissage formalisé.
+- L'institutionnalisation des critères.
+- La transmission diachronique et intergénérationnelle.
+
+**Ce qu'elle suppose :** la *configuration descriptive*, les *supports descriptifs*, les *pratiques collectives* et les *normes descriptives*.
+**Ce qu'elle rend possible :** le concept de *stabilisation diachronique*, l'analyse de l'*effet cliquet* et le diagnostic de l'*injustice collective*.
+
+---
+
+## Responsabilité normative
+
+**Section : 04 — Les pratiques descriptives**
+**Fonction :** Le statut déontique et relationnel par lequel un locuteur ou une position d'enquête est tenu de répondre de ses assertions, de justifier les habilitations qui les soutiennent, d'assumer leurs conséquences inférentielles et d'arbitrer leurs incompatibilités devant une communauté de locuteurs.
+
+**Dimensions :**
+- La redevabilité publique (*answerability*).
+- L'imputabilité relationnelle.
+- La continuité de trajectoire.
+
+**Ce qu'elle suppose :** le *locuteur*, l'*assertion*, la *position épistémique* et les *engagements descriptifs*.
+**Ce qu'elle rend possible :** l'analyse de la *recevabilité*, de la *validité descriptive* et de la *comptabilité déontique*.
+
+---
+
+## Sédimentation
+
+**Section : 06 — Temporalité**
+**Fonction :** Le processus cumulatif d'inscription, de dépôt et d'accumulation des traces sémiotiques, des habitudes corporelles, des infrastructures matérielles et des routines organisationnelles par lequel une configuration descriptive acquiert une assise physique et institutionnelle, matérialisant la mémoire d'un régime et structurant de façon asymétrique les possibles de l'enquête future.
+
+**Dimensions :**
+- Inscriptions documentaires et sémiotiques.
+- Habitudes collectives et corporelles.
+- Routines organisationnelles et institutionnelles.
+- Infrastructures techniques et instrumentales.
+
+**Ce qu'elle suppose :** le *support descriptif*, la *stabilisation* et la *temporalité descriptive*.
+**Ce qu'elle rend possible :** l'analyse de l'*effet cliquet*, l'*historicité* et l'*audit des inerties*.
+
+---
+
+## Stabilisation
+
+**Section : 04 — Les pratiques descriptives**
+**Fonction :** Le processus historique par lequel une configuration descriptive obtient une continuité relative grâce aux opérations de maintien, de transmission, d'apprentissage et de correction qui permettent sa reproduction au sein d'une communauté de locuteurs.
+
+**Propriétés :**
+- Une continuité produite et non une permanence substantielle.
+- Une propriété relationnelle.
+- Une asymétrie de coût.
+
+**Ce qu'elle suppose :** une *configuration descriptive*, des *opérations de maintien*, une *communauté de locuteurs* et des *supports matériels*.
+**Ce qu'elle rend possible :** l'analyse de l'*effet cliquet*, l'étude des *trajectoires descriptives* et le diagnostic des formes d'inertie normative.
+
+---
+
+## Support descriptif
+
+**Section : 03 — Fondements descriptifs**
+**Fonction :** Une médiation matérielle, technique, institutionnelle ou incorporée qui permet à une configuration descriptive d'être conservée, transmise, mobilisée et transformée au sein d'une pratique collective.
+
+**Fonctions :**
+- Stabiliser.
+- Transporter.
+- Structurer les possibilités descriptives.
+
+**Ce qu'elle suppose :** la *configuration sémiotique* et le *couplage perception-action*.
+**Ce qu'elle rend possible :** l'analyse de la *configuration descriptive*, du *régime descriptif* et de l'*effet cliquet*.
+
+---
+
+## Support descriptif externe
+
+**Section : 04 — Les pratiques descriptives**
+**Fonction :** Un dispositif matériel, sémiotique ou technique permettant de conserver, stabiliser, transporter, partager, consulter, modifier et réactiver des descriptions indépendamment de la présence immédiate de leurs producteurs.
+
+**Formes principales :**
+- Inscriptions textuelles.
+- Représentations graphiques.
+- Enregistrements techniques.
+- Infrastructures numériques.
+
+**Ce qu'elle suppose :** la notion générale de *support descriptif* et la distinction *PROTO/KIN*.
+**Ce qu'elle rend possible :** l'étude des *pratiques descriptives*, de la *mémoire collective* et de la circulation des *engagements descriptifs*.
+
+---
+## Support descriptif incorporé
+
+**Section : 04 — Les pratiques descriptives**
+**Fonction :** Une disposition pratique, perceptive, gestuelle et normative, stabilisée par l'apprentissage au sein d'une pratique collective, qui permet à un locuteur de porter, reconnaître, maintenir, actualiser et transmettre des descriptions conformément aux critères de correction d'une communauté, sans recourir directement à un support descriptif externe.
+
+**Formes principales :**
+- Habitudes perceptives.
+- Savoir-faire gestuels.
+- Schèmes inférentiels incorporés.
+- Dispositions interactionnelles.
+
+**Ce qu'elle suppose :** le *primat du couplage perception-action* et la distinction *PROTO/KIN*.
+**Ce qu'elle rend possible :** l'analyse de la *position épistémique*, des *communautés de locuteurs* et des *engagements descriptifs*.
+
+---
+
+## Support descriptif institutionnel
+
+**Section : 04 — Les pratiques descriptives**
+**Fonction :** Un ensemble organisé de règles, de procédures, de rôles, de responsabilités et de dispositifs collectifs qui permettent à une communauté de produire, d'évaluer, de conserver, de transmettre, de réviser et de légitimer ses descriptions selon des critères publics de correction.
+
+**Formes principales :**
+- Institutions scientifiques.
+- Institutions administratives.
+- Institutions médicales.
+- Institutions juridiques.
+- Institutions de normalisation.
+
+**Ce qu'elle suppose :** la notion générale de *support descriptif* et la distinction *PROTO/KIN*.
+**Ce qu'elle rend possible :** l'étude des *communautés descriptives*, des *positions épistémiques*, des *engagements descriptifs* et des *régimes descriptifs*.
+
+---
+
+## Taxonomies descriptives
+
+**Section : 03 — Fondements descriptifs**
+**Fonction :** Une organisation structurée des catégories, des critères et de leurs relations internes qui permet à un régime descriptif de distribuer les distinctions pertinentes, d'ordonner les qualifications possibles et de stabiliser un espace collectif de description.
+
+**Structure interne :**
+- Les catégories.
+- Les critères.
+- Les relations taxonomiques (inclusion, opposition, complémentarité).
+
+**Ce qu'elle suppose :** les *configurations descriptives*, les *catégories descriptives* et les *critères descriptifs*.
+**Ce qu'elle rend possible :** l'analyse des *objets descriptifs*, des *niveaux descriptifs* et des opérations d'*audit* des classifications.
+
+---
+
+## Temporalité descriptive
+
+**Section : 06 — Temporalité**
+**Fonction :** La condition historique, multidimensionnelle et non linéaire par laquelle une configuration descriptive articule un passé sédimenté (mémoires et supports hérités), un présent d'usage (actualisation et justification située par le locuteur) et un futur possible (anticipation inférentielle et capacité de réorganisation).
+
+**Dimensions :**
+- Le passé sédimenté (mémoire, effet cliquet, supports hérités).
+- Le présent d'usage (actualisation située, justification).
+- Le futur possible (anticipation modale, bifurcation, révision).
+
+**Ce qu'elle suppose :** le *principe d'immanence normative*, la *stabilisation*, l'*effet cliquet* et la distinction *Causes/Raisons*.
+**Ce qu'elle rend possible :** le traçage des *trajectoires*, l'évaluation de l'*allure* et l'identification de l'*historicité* des concepts.
+
+---
+
+## Tension
+
+**Section : 05 — Dynamique descriptive**
+**Fonction :** Le processus dynamique, situé et fonctionnel d'instabilité normative et inférentielle qui affecte une configuration descriptive lorsqu'une accumulation d'incompatibilités locales ou d'anomalies ne peut plus être absorbée par les ressources du régime en vigueur, compromettant la coordination collective et contraignant la communauté de locuteurs à engager une enquête de second ordre.
+
+**Dimensions :**
+- La dimension somatique (friction KIN/PROTO).
+- La dimension logique (saturation du scorekeeping).
+- La dimension sociale (friction d'échelle du cOS).
+
+**Ce qu'elle suppose :** la *configuration descriptive*, le *principe d'immanence normative* et l'*engagement descriptif*.
+**Ce qu'elle rend possible :** la conceptualisation de la *limite interne*, l'*enquête collective* et la *réorganisation*.
+
+---
+
+## Traduction
+
+**Section : 05 — Dynamique descriptive**
+**Fonction :** L'opération de second ordre, pragmatique et régulée, par laquelle une communauté de locuteurs conçoit des médiations ou des connecteurs conceptuels afin de mettre en relation des descriptions appartenant à des régimes descriptifs hétérogènes, permettant la circulation des informations discursives tout en respectant l'étanchéité, l'autonomie et les contraintes de redevabilité propres à chaque cadre.
+
+**Morphologies :**
+- Correspondance.
+- Reformulation.
+- Traduction partielle.
+- Absence de passage disponible.
+
+**Ce qu'elle suppose :** le *principe du pluralisme descriptif*, la *configuration descriptive*, le *régime descriptif* et l'*engagement descriptif*.
+**Ce qu'elle rend possible :** l'analyse des *compatibilités* et des *incompatibilités* inter-régimes, et l'*évaluation des traductions*.
+
+---
+
+## Trajectoire descriptive
+
+**Section : 06 — Temporalité**
+**Fonction :** La séquence ordonnée et orientée des transformations, des réarticulations inférentielles, des bifurcations modales et des stabilisations successives par lesquelles passe une configuration descriptive au cours de son histoire pratique, déterminant à chaque étape le champ des possibles sémantiques accessibles à une communauté de locuteurs.
+
+**Dimensions :**
+- La sédimentation inférentielle (path dependency).
+- Le couplage des mémoires (organique et collective).
+- Les points de bifurcation critique.
+- L'ouverture modale.
+
+**Ce qu'elle suppose :** la *description*, la *configuration descriptive*, la *stabilisation*, l'*effet cliquet* et la *position épistémique*.
+**Ce qu'elle rend possible :** l'*allure*, l'*historicité*, la *sédimentation* et l'*audit des trajectoires*.
+
+---
+
+## Transformation descriptive
+
+**Section : 05 — Dynamique descriptive**
+**Fonction :** L'opération ou le processus de réorganisation par lequel une configuration descriptive — s'étendant de son armature sémiotique à ses critères de justification — modifie ses distinctions internes, ses supports d'inscription et ses règles d'inférence afin de restaurer l'opérabilité de ses pratiques et de stabiliser un nouvel espace de raisons.
+
+**Morphologies :**
+- Correction interne.
+- Traduction réglée.
+- Transition globale.
+
+**Ce qu'elle suppose :** la *configuration descriptive*, le *régime descriptif*, l'*enquête* et les *limites internes*.
+**Ce qu'elle rend possible :** le concept de *stabilisation* et d'*effet cliquet*, et l'analyse des *transitions descriptives*.
+
+---
+
+## Transition
+
+**Section : 05 — Dynamique descriptive**
+**Fonction :** Le processus diachronique global, méthodique et non-téléologique par lequel une communauté de locuteurs transforme l'organisation interne de sa configuration descriptive (ses catégories, ses critères, ses règles d'inférence et ses supports d'inscription) afin de stabiliser un nouvel espace de raisons capable de restaurer la viabilité et la redevabilité de ses pratiques de justification.
+
+**Formes :**
+- Transition interne.
+- Transition entre régimes.
+- Émergence d'une nouvelle stabilisation.
+
+**Ce qu'elle suppose :** la *configuration descriptive*, la *stabilisation*, l'*effet cliquet*, les *limites internes* et la *traduction*.
+**Ce qu'elle rend possible :** l'analyse de l'*historicité*, de la *sédimentation* et des *trajectoires descriptives*.
+
+---
+
+## Validité descriptive
+
+**Section : 04 — Les pratiques descriptives**
+**Fonction :** Le statut normatif par lequel une description est reconnue comme correctement produite au sein d'un régime descriptif donné, après avoir satisfait aux critères d'évaluation, aux exigences de justification et aux contraintes inférentielles propres à ce régime.
+
+**Propriétés :**
+- Une relation immanente.
+- Une réussite normative.
+- Un statut révisable.
+
+**Ce qu'elle suppose :** le *régime descriptif*, les *critères descriptifs*, l'*assertion*, les *engagements descriptifs* et la *recevabilité*.
+**Ce qu'elle rend possible :** l'analyse de la *stabilisation*, de l'*effet cliquet*, des *trajectoires temporelles* et de l'*audit comparatif*.
+
+---
+
+
+
+
