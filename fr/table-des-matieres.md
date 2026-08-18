@@ -99,7 +99,7 @@
 | Engagements descriptifs | Définir les engagements assumés par le locuteur lorsqu'il décrit. | [engagements-descriptifs.md](engagements-descriptifs.md) |
 | Responsabilité descriptive | Définir les responsabilités attachées aux engagements descriptifs. | [responsabilite-descriptive.md](responsabilite-descriptive.md) |
 | Inférences | Présenter les inférences autorisées ou interdites par les régimes descriptifs. | [inferences.md](inferences.md) |
-| Recevabilité matérielle | Définir les conditions de recevabilité d'une description. | [recevabilite-materielle.md](recevabilite-materielle.md) |
+| Redevabilité matérielle | Définir les conditions de redevabilité matérielle d'une description. | [redevabilite-materielle.md](redevabilite-materielle.md) |
 | Justifications | Définir les pratiques de justification des descriptions. | [justifications.md](justifications.md) |
 | Recevabilité | Définir les conditions de recevabilité d'une description. | [recevabilite.md](recevabilite.md) |
 | Validité | Définir la validité descriptive au sein d'un régime. | [validite.md](validite.md) |
