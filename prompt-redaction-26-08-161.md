@@ -2,7 +2,7 @@
 
 ## Version
 
-**Protokin 2026 — version 26.08.161**
+**Protokin 2026 — version 26.08.191**
 
 ---
 
@@ -77,13 +77,14 @@ Mais elle ne doit pas en reprendre l'établissement complet.
 
 Avant toute rédaction, prendre en compte les documents disponibles.
 
-## 3.1 `prompt-gabarit-universel.md`
+## 3.1 `02-architecture-generale.md`
 
-Il fournit le cadre général de rédaction des pages Protokin.
+Il fournit la place générale dans l'architecture du projet.
 
 ## 3.2 `prompt-[section].md`
 
 Il fournit les contraintes spécifiques à la section concernée.
+
 
 ## 3.3 `fonctions-limites-des-sections.md`
 
@@ -137,7 +138,7 @@ Fichier :
 
 [nom-du-fichier.md]
 
-Version : 26.08.081
+Version : 26.xx.xxx
 
 Fonction indiquée dans la table des matières :
 
