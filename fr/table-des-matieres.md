@@ -46,6 +46,9 @@
 | Architecture fonctionnelle des sections | Définir les périmètres et rôles d'établissement exclusifs des 13 sections. |architecture-fonctionnelle-des-sections.md |
 | Causes et raisons — Pour une articulation sans conversion | Établir la distinction fonctionnelle et non-ontologique entre causes (PROTO) et raisons (KIN) sans conversion. | [articulation_vs_conversion.md](articulation_vs_conversion.md) |
 | Fonctions limites des sections | Cadrage du périmètre opératoire de chaque section. | [fonctions-limites-des-sections.md](fonctions-limites-des-sections.md) |
+| Quadripartition d'enquête | Établir la matrice Corps / Relation / Fonction / Justification. | corps-relation-fonction-justification.md |
+| Articulation vs Conversion | Délimiter la non-conversion entre causes matérielles et raisons normatives. | articulation_vs_conversion.md |
+| Capacité, performance et validité | Distinguer les capacités RFT, les actes discursifs et les statuts déontiques. | capacite_performance_validite.md |
 
 --------------------------------------------------------------------------------
 
