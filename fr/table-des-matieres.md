@@ -120,6 +120,10 @@
 | Validité | Définir la validité descriptive au sein d'un régime. | [validite.md](validite.md) |
 | Stabilisation | Expliquer comment les descriptions se stabilisent dans le temps. | [stabilisation.md](stabilisation.md) |
 | Irréversibilité descriptive | Présenter les mécanismes de stabilisation cumulative des descriptions. | [effet-cliquet.md](effet-cliquet.md) |
+| Le Moi | Formaliser l'individuation transductive du sujet normatif. | moi.md |
+| Redevabilité matérielle | Analyser la friction des butoirs physiques sur l'espace des raisons. | redevabilite-materielle.md |
+| Relations LX et explicitation | Définir le statut logique de second ordre de la métathéorie Protokin. | relations-lx-et-pragmatique-de-l-explicitation.md |
+| Expressivisme modal | Établir la robustesse contrefactuelle et l'évaluation modale des assertions. | expressivisme-modal.md |
 
 --------------------------------------------------------------------------------
 
