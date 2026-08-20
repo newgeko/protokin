@@ -160,6 +160,7 @@
 | Temporalité descriptive | Présenter la temporalité propre aux pratiques descriptives. | [temporalite-descriptive.md](temporalite-descriptive.md) |
 | Sédimentation | Décrire les processus de sédimentation des descriptions. | [sedimentation.md](sedimentation.md) |
 | Réorganisation | Décrire les réorganisations internes des pratiques descriptives. | [reorganisation.md](reorganisation.md) |
+| Reconstruction recollective et pardon | Formaliser l'intégration réparatrice des anomalies et des crises. | reconstruction-recollective-et-pardon.md |
 
 --------------------------------------------------------------------------------
 
