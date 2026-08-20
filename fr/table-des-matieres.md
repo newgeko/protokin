@@ -144,6 +144,7 @@
 | Reproduction | Définir la reproduction des pratiques descriptives. | [reproduction.md](reproduction.md) |
 | Controverse | Décrire les controverses entre descriptions concurrentes. | [controverse.md](controverse.md) |
 | Innovation | Décrire l'émergence de nouvelles descriptions. | [innovation.md](innovation.md) |
+| Désédimentation | Opérateur de réouverture active de la plasticité catégorielle. | desedimentation.md |
 
 --------------------------------------------------------------------------------
 
