@@ -78,6 +78,17 @@
 | Objet descriptif | Définir l'objet tel qu'il est constitué par une description. | [objet-descriptif.md](objet-descriptif.md) |
 | Niveau descriptif | Définir les différents niveaux d'organisation des descriptions. | [niveau-descriptif.md](niveau-descriptif.md) |
 | Régime descriptif | Définir les régimes descriptifs comme cadres de production et d'évaluation des descriptions. | [regime-descriptif.md](regime-descriptif.md) |
+| Introduction aux configurations | Poser la configuration comme unité minimale d'analyse relationnelle. | introduction-configuration.md |
+| Du corps au signe | Reconstruire la genèse sensorimotrice et énactive des différenciations. | sens-corps-difference-au-signe.md |
+| De la notion au concept | Analyser le passage de la saisie immersive à la catégorie normée. | de-la-notion-au-concept.md |
+| Anaphore | Assurer le transport et le maintien de l'autorité déontique. | anaphore.md |
+| Triade sémantique de base | Structurer les liens entre Inférence, Substitution et Anaphore (ISA). | triade-semantique-de-base.md |
+| Transduction relationnelle (RFT) | Modéliser le passage fonctionnel de la sentience à la redevabilité. | transduction-relationnelle-rft.md |
+| Transformation relationnelle (RFT) | Spécifier l'AARR et la transformation des fonctions de stimulus. | transformation-relationnelle-rft.md |
+| Opérateurs de reconfiguration | Analyser la transformation fonctionnelle sans rupture ontologique. | operateurs-de-reconfiguration-relationnelle.md |
+| Entrée perceptive et RDRD | Formaliser la capture des contrastes matériels par les dispositions réactives. | rdrd-et-entree-perceptive.md |
+| Intra-action | Penser les frontières organisme-milieu sans substantialisme. | intra-action.md |
+| Amnésie somatique | Identifier la pathologie d'effacement du support corporel. | amnesie-somatique.md |
 
 --------------------------------------------------------------------------------
 
