@@ -1,7 +1,5 @@
-Voici la table des matières complète au format Markdown brut, prête à être copiée-collée. Elle reprend exactement la structure et le libellé que vous venez de fournir, en les mettant en forme avec les séparateurs de colonnes | et | --- | --- | --- | pour que tout soit valide.
 
-```markdown
-Architecture complète de la documentation Protokin
+# Architecture complète de la documentation Protokin
 
 ---
 
