@@ -1,151 +1,134 @@
-# Distinguer le corps dans le milieu, la relation, la fonction et la justification
-**Version :** Protokin 2026 — version 26.08.171  
-**Fichier :** `corps-relation-fonction-justification.md`  
-**Statut :** Document de cadrage transversal et de démarcation épistémique (Section 00 — Se repérer / Section 07 — Explication)
+# La Quadripartition d'Enquête — Corps, Relation, Fonction, Justification
+
+## Analyse architecturale de la page
+
+### 1. Fonction unique de la page
+Cette page établit la matrice quadripartite d'audit de Protokin (*Le corps dans le milieu*, *La relation*, *La fonction*, *La justification*) non comme une ontologie étagée du réel ou une genèse cosmologique à quatre niveaux, mais comme une **séquence ordonnée de questions d'enquête**. Elle formalise la tripartition analytique (*stimulus physique* $\rightarrow$ *fonction de stimulus* $\rightarrow$ *raison*) et délimite rigoureusement l'opérateur de transformation relationnelle à l'articulation du plan somato-matériel (**PROTO**) et du plan normatif-discursif (**KIN**).
+
+### 2. Choix du mode de développement
+* **Mode retenu** : Mode A — Développement conceptuel.
+* **Justification** : Il s'agit d'installer le statut épistémologique de la quadripartition comme grille d'interrogation méthodologique de second ordre, d'en formaliser les déterminations internes, et d'immuniser l'architecture contre le piège de la réification étagée.
+
+### 3. Problème conceptuel inaugural
+L'enquête métathéorique est constamment menacée par deux confusions symétriques : 
+1. Le **réductionnisme naturaliste**, qui prétend convertir directement une chaîne causale ou un mécanisme d'apprentissage relationnel en validité normative (*« expliquer comment un organisme dérive une relation reviendrait à fonder la signification »*) ;
+2. L'**idéalisme linguistique**, qui sépare le jeu des raisons de tout ancrage corporel et matériel en postulant un règne autonome de symboles désincarnés.
+
+Comment articuler le continuum allant du frottement corporel brut jusqu'à la redevabilité discursive publique, sans faire de cette gradation une succession ontologique d'étages de l'Être ni dissoudre la frontière entre causalité et normativité ?
 
 ---
 
-### Analyse architecturale préalable de la page
+## Définition fonctionnelle de la quadripartition
 
-#### 1. Fonction unique de la page
-Cette page établit la quadripartition fondamentale qui organise l'ensemble de l'architecture de Protokin en distinguant rigoureusement :
-1. **L'ancrage somatique et écologique :** Le corps dans le milieu (**PROTO**).
-2. **L'armature structurale et le cadrage abstrait :** La relation (des couplages énactionnels aux cadres relationnels arbitrairement applicables et aux réseaux déductifs).
-3. **L'opérativité pragmatique :** La fonction (le rôle opératoire en acte au présent d'usage).
-4. **La redevabilité normative :** La justification (**KIN** — Espace des raisons).
+Dans l'architecture de Protokin, on appelle **quadripartition d'enquête** :
 
-Elle a pour rôle d'interdire tout écrasement réductionniste (réduire la justification à la cause corporelle ou au simple bon fonctionnement pragmatique) ainsi que toute dérive intellectualiste ou désincarnée (traiter la relation et la justification comme des entités logiques pures flottant hors de tout couplage vivant avec le milieu).
+> La séquence réglée et coordonnée de quatre questions d'audit par laquelle un enquêteur reconstruit la trajectoire intégrale d'une description — depuis son ancrage somatique et ses contraintes matérielles d'amont, en passant par ses configurations et transformations relationnelles opératoires, jusqu'à son évaluation publique au sein du scorekeeping déontique d'une communauté de locuteurs.
 
-#### 2. Choix du mode de développement
-* **Mode retenu :** Mode A — Développement conceptuel & matrice de démarcation.
-* **Justification :** La page installe une boussole analytique de second ordre, nécessaire tant pour l'orientation du lecteur (Section 00) que pour la conduite d'audits cliniques régulés (Section 08).
+### Règle d'or méthodologique
+> **La chaîne « Milieu $\rightarrow$ Relation $\rightarrow$ Fonction $\rightarrow$ Justification » ne constitue pas une échelle ontologique ou un millefeuille métaphysique. Elle constitue l'ordre logique et méthodologique des questions d'audit descriptif.**
 
-#### 3. Dépendances fonctionnelles
-* **Cette page suppose :** `01-principes-fondamentaux.md`, `causes.md`, `raisons.md`, `sens-corps-difference-au-signe.md`, `couplage-perception-action.md`, `intra-action.md`, `transduction-relationnelle-rft.md`, `transformation-relationnelle-rft.md`.
-* **Cette page rend possible :** `realiser-un-audit.md`, `diagnostiquer-une-confusion-de-niveau.md`, `diagnostiquer-une-reduction.md`, `puissance-descriptive.md`.
 
----
-
-### Cartouche fonctionnel
-
-| Élément | Description |
-| :--- | :--- |
-| **Section** | Transversale / 00 — Se repérer & 07 — Explication |
-| **Fichier** | `corps-relation-fonction-justification.md` |
-| **Fonction** | Poser les frontières d'intelligibilité entre ancrage corporel, armature relationnelle (incluant les cadres relationnels), opérativité fonctionnelle et redevabilité justificative. |
-| **Prépare** | L'audit clinique des réductions sémantiques, la détection des confusions de niveau et la modélisation synoptique. |
-| **Mobilise** | La dualité Causes/Raisons (PROTO/KIN), le sensorium élargi, la praktognosie, l'intra-action, les cadres relationnels (RFT & au-delà), l'individuation transductive et le scorekeeping. |
-| **Permet ensuite** | D'évaluer une description sans confondre son effectivité physique, son cadrage relationnel abstrait, son utilité d'action et sa validité discursive. |
-| **N'établit pas** | Une ontologie générale des substances du monde, ni une théorie psychologique fermée de la perception. |
+Plan PROTO (Espace des causes)
+┌──────────────────────────────────────────────┐
+│ 1. Le corps dans le milieu (Ancrage somatique)│
+└──────────────────────┬───────────────────────┘
+│ Opérateurs de transformation relationnelle (RFT / AARR)
+▼ [Transformation fonctionnelle sans domaine ontologique intermédiaire]
+┌──────────────────────────────────────────────┐
+│ 2. La relation (Configuration relationnelle) │
+└──────────────────────┬───────────────────────┘
+│
+▼
+┌──────────────────────────────────────────────┐
+│ 3. La fonction (Opérativité pragmatique)     │
+└──────────────────────┬───────────────────────┘
+│ Non-conversion (Condition fonctionnelle ≠ Justification)
+▼
+Plan KIN (Espace des raisons)
+┌──────────────────────────────────────────────┐
+│ 4. La justification (Redevabilité déontique) │
+└──────────────────────────────────────────────┘
 
 ---
 
-### Problème conceptuel inaugural
+## La tripartition analytique : *Stimulus $\rightarrow$ Fonction de stimulus $\rightarrow$ Raison*
 
-Toute tentative de rendre compte de la manière dont les humains décrivent le monde s'expose à deux impasses symétriques :
-1. **L'idéalisme intellectualiste :** Réduire la description à un pur agencement de propositions et de justifications logiques (**KIN**), en oubliant que toute parole émane d'un corps de chair et d'os aux prises avec la pesanteur, les flux sensoriels et les butoirs physiques de son environnement (**PROTO**).
-2. **Le fonctionnalisme ou physicalisme aveugle :** Réduire la validité d'une description à son succès adaptatif mécanique (« cela fonctionne pour le corps, donc c'est vrai »), en confondant l'efficacité d'un réflexe sensorimoteur ou la simple dérivation d'un cadre relationnel avec la responsabilité normative de fournir des raisons devant ses pairs.
+Pour garantir l'étanchéité entre explication causale et évaluation normative, Protokin formalise trois plans d'analyse distincts :
 
-Dès lors, la question s'impose à Protokin :
-> **Comment articuler l'ancrage somatique du vivant engagé dans son milieu, l'armature relationnelle qui découpe l'expérience (du couplage physique aux cadres relationnels abstraits), le rôle fonctionnel d'une opération en acte et l'exigence de justification publique, sans les confondre ni postuler de rupture inintelligible entre la matière et la norme ?**
 
----
+Stimulus physique ──▶ Fonction de stimulus ──▶ Raison
+(Plan PROTO)          (Opérateur RFT)       (Plan KIN)
 
-### Matrice de démarcation de la quadripartition
+1. **Le stimulus physique (Plan PROTO — Espace des causes)** :
+   * Relève d'une description causale, biophysique et sensorimotrice brute (flux photonique, onde acoustique, pression mécanique, proprioception, température, état somatique).
+   * Question d'audit : *Quel est le choc, le contraste énergétique ou le frottement matériel éprouvé par l'organisme couplé à son milieu ?*
 
-| Dimension | **1. Le corps dans le milieu** | **2. La relation & les cadres relationnels** | **3. La fonction** | **4. La justification** |
-| :--- | :--- | :--- | :--- | :--- |
-| **Pôle d'ancrage** | **Plan PROTO** (Espace des causes) | **Transversal / Seuil transductif** (PROTO ⇄ KIN) | **Pragmatique** (En acte) | **Plan KIN** (Espace des raisons) |
-| **Question directrice** | *« Depuis quel frottement somatique et sensorimoteur cela émerge-t-il ? »* | *« Quel réseau ou cadre abstrait lie les termes, contrastes et symboles ? »* | *« Que fait cette opération au sein de l'activité ? »* | *« Qu'est-ce qui autorise ou oblige publiquement à soutenir cela ? »* |
-| **Nature de la contrainte** | **Butoirs matériels :** Résistances physiques, intégrité tissulaire, limites biophysiques. | **Contraintes de réseau & cadrage :** Incompatibilités, relations arbitrairement applicables, dérivations. | **Efficacité pratique :** Coordination, viabilité d'action, guidage de la tâche. | **Normativité déontique :** Engagements (*commitments*), habilitations (*entitlements*), critères de preuve. |
-| **Ressources mobilisées** | Sensorium élargi, proprioception, intéroception, *praktognosie*, schémas moteurs. | Cadres relationnels (RFT : coordination, opposition, déictiques), individuation (Simondon), taxonomies, géométries. | Dérivations de réponses, alertes, transformation des fonctions de stimulus, prédications. | Inférences matérielles, rituels de redevabilité, *scorekeeping*, institutions. |
-| **Pathologie en cas d'isolement** | **Réduction biologisante :** Écraser les raisons sur la pure physiologie. | **Formalisme vide / Psychologisme :** Confondre une capacité relationnelle apprise avec une validité normative. | **Pragmatisme vulgaire :** Confondre succès technique immédiat et vérité publique. | **Intellectualisme désincarné :** Traiter le langage comme un jeu déconnecté du vivant. |
+2. **La fonction de stimulus (Opérateur de transformation relationnelle)** :
+   * Concerne ce que cet événement déclenche dans une dynamique comportementale et écologique donnée : il devient discriminatif, aversif, appétitif, saillant, renforçant ou prédictif.
+   * Cette fonction n'est pas réductible aux propriétés physiques intrinsèques de l'événement ; elle est modulée par une histoire d'apprentissage et par l'insertion dans des réseaux de cadres relationnels ($AARR$).
+   * Question d'audit : *Comment la configuration relationnelle transforme-t-elle l'opérativité pragmatique de l'événement pour l'organisme en acte ?*
 
----
-
-### Les quatre moments de la genèse descriptive
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│ 1. LE CORPS DANS LE MILIEU (Plan PROTO)                                 │
-│    Boucle sensorimotrice, sensorium élargi, mémoire organique, butoirs  │
-└────────────────────────────────────┬────────────────────────────────────┘
-                                     │ (Émergence des différences)
-                                     ▼
-┌─────────────────────────────────────────────────────────────────────────┐
-│ 2. LA RELATION & LES CADRES RELATIONNELS (Armature & Abstraction)       │
-│    · Relations non-arbitraires : Couplage physique, invariants          │
-│    · Cadres relationnels (AARR / RFT) : Équivalence, déictiques (Je/Tu) │
-│    · Opérateurs d'individuation transductive & Réseaux formels          │
-└────────────────────────────────────┬────────────────────────────────────┘
-                                     │ (Actualisation en contexte : Cfunc)
-                                     ▼
-┌─────────────────────────────────────────────────────────────────────────┐
-│ 3. LA FONCTION (Opérativité pragmatique en acte)                        │
-│    Transformation des fonctions de réponse, discriminer, orienter       │
-└────────────────────────────────────┬────────────────────────────────────┘
-                                     │ (Montée en redevabilité publique)
-                                     ▼
-┌─────────────────────────────────────────────────────────────────────────┐
-│ 4. LA JUSTIFICATION (Plan KIN — Espace des raisons)                     │
-│    Engagements déontiques, critères publics de preuve, scorekeeping     │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-#### 1. Le corps dans le milieu : l'ancrage somatique de premier ordre (PROTO)
-Toute description commence dans un organisme vivant en couplage dynamique avec son environnement. 
-* **Le sensorium élargi :** L'expérience ne se réduit pas à l'extéroception des cinq sens classiques ; elle mobilise en permanence la proprioception (posture, effort), l'intéroception (viscères, rythme cardiaque), le système vestibulaire (gravité, équilibre) et la thermo-/nociception (alertes de viabilité).
-* **La *praktognosie* :** Le corps propre n'est pas un objet passif (*Körper*) mais un véhicule d'action (*Leib*). Il comprend son milieu à travers un « Je peux » sensorimoteur avant tout « Je pense que » propositionnel.
-* **La mémoire organique :** Les frottements passés contre les butoirs matériels sédimentent des habitudes somatiques et des plis corporels qui constituent le socle de toute compétence d'observation.
-
-#### 2. La relation et les cadres relationnels : l'armature structurale et la genèse de l'abstraction
-Pour Protokin, la relation se déploie selon un gradient transductif continu :
-1. **Relations physiques non-arbitraires (Amont PROTO) :** Le couplage direct où l'organisme répond à des propriétés physiques dimensionnelles (taille, intensité lumineuse, température).
-2. **Cadres relationnels arbitrairement applicables (AARR / RFT) :** L'apprentissage par lequel un organisme apprend à relier des stimuli ou des symboles indépendamment de leurs propriétés physiques directes sous le contrôle d'indices contextuels ($C_{rel}$) :
-   * *Cadres de coordination (identité/équivalence) :* Relier le mot « arbre » à la plante réelle.
-   * *Cadres d'opposition et de comparaison :* Structurer les contrastes (« plus grand que », « opposé à »).
-   * *Cadres déictiques :* Structurer la perspective ($Je/Tu, Ici/L\grave{a}, Maintenant/Alors$), indispensable à la constitution de la posture de locuteur.
-3. **Pluralisme des armatures relationnelles :** La RFT est un cas d'école comportemental précieux, mais elle s'articule à d'autres modes de formalisation de la relation : l'individuation transductive (Simondon), la construction de niche discursive (Rouse) et les configurations formelles pures (axiomatiques mathématiques).
-* **Règle de non-conversion :** *Une capacité à cadrer relationnellement des événements est une condition fonctionnelle pré-normative ; elle ne constitue pas encore, à elle seule, une raison ou une norme discursive validée.*
-
-#### 3. La fonction : l'opérativité en acte au présent d'usage
-Une relation ou un cadre relationnel acquiert une fonction lorsqu'il modifie concrètement l'action dans un contexte déterminé ($C_{func}$) :
-* **La transformation des fonctions de stimulus :** L'inscription d'un élément dans un réseau relationnel modifie sa valence d'action (ex. ressentir de la vigilance face au mot « danger » écrit sur un panneau, sans choc physique direct).
-* **Le rôle opératoire :** Cadrer une situation, discriminer un obstacle, prédiquer une propriété ou allouer des ressources.
-* **Le critère d'adéquation :** La fonction s'évalue à l'aune de la coordination pratique : permet-elle de naviguer efficacement face aux contraintes du milieu ?
-
-#### 4. La justification : la redevabilité normative dans l'espace des raisons (KIN)
-L'efficacité fonctionnelle ou la dérivation relationnelle ne suffisent pas dès lors qu'un énoncé est affirmé devant la communauté.
-* **L'entrée dans le jeu des raisons :** Formuler une assertion, c'est s'exposer à la question de l'auditeur : *« Qu'est-ce qui te permet de soutenir cela ? »*.
-* **La comptabilité déontique (*Scorekeeping*) :** Le locuteur exhibe des critères publics partagés, produit des inférences valides et assume des engagements (*commitments*), transformant une prise corporelle et relationnelle en une vérité collectivement arbitrable.
+3. **La raison (Plan KIN — Espace des raisons)** :
+   * Appartient exclusivement à une pratique sociale normative et discursive. Une raison n'est pas un stimulus transformé, mais un statut déontique qui peut être publiquement avancé, contesté, revendiqué (*entitlement*) ou imputé (*commitment*).
+   * Question d'audit : *En vertu de quels critères et de quelles conséquences inférentielles cette qualification est-elle tenue pour recevable ou correcte par la communauté ?*
 
 ---
 
-### Éclairage par les fils rouges cliniques
+## Les quatre dimensions de l'enquête
 
-#### 1. Le cas du cycliste (« Le vélo rouge »)
-* **Le corps dans le milieu (PROTO) :** L'œil capte un flux de photons (longueur d'onde de 650 nm), les muscles s'ajustent à l'effort de la pente et le système vestibulaire maintient l'équilibre sur la machine.
-* **La relation & les cadres relationnels :** 
-  * *Amont sensorimoteur :* Contraste visuel entre l'objet et le décor.
-  * *Cadre relationnel (AARR) :* Cadrage de coordination reliant le stimulus visuel au symbole linguistique « rouge », et cadrage d'opposition au « bleu » ou « vert » ($C_{rel}$).
-* **La fonction :** La transformation de fonction ($C_{func}$) permet au cycliste ou à un tiers d'orienter immédiatement son attention sélective pour repérer sa machine dans un parking.
-* **La justification (KIN) :** Face à une contestation (*« Ce vélo est orange, pas rouge »*), le locuteur ne peut invoquer seulement son conditionnement relationnel : il doit faire appel aux critères de concordance sous lumière naturelle (Image Manifeste) ou aux mesures spectrophotométriques (Image Scientifique).
+### 1. Le corps dans le milieu — L'ancrage somatique (PROTO)
+Toute activité descriptive prend racine dans un organisme biologique couplé à un environnement matériel par une boucle perception-action continue. Le corps propre constitue l'infrastructure sensorimotrice et affective (extéroception, intéroception, système vestibulaire, proprioception) soumise à des **butoirs physiques** d'amont.
 
-#### 2. Le patient aux urgences hospitalières
-* **Le corps dans le milieu (PROTO) :** Une ischémie myocardique déclenche une nociception intense, une pâleur cutanée, des sueurs froides et une altération hémodynamique (butoirs physiques).
-* **La relation & les cadres relationnels :** Le cadre nosologique relie relationnellement les symptômes (douleur irradiant au bras gauche) à la classe d'équivalence diagnostique « syndrome coronarien aigu » ($A \ r_x \ B$).
-* **La fonction :** Le tri-infirmier applique le protocole d'urgence, transformant la fonction de la plainte en une attribution de priorité vitale (allocation immédiate d'un box de déchocage).
-* **La justification (KIN) :** Le diagnostic final d'« infarctus du myocarde » exige des preuves opposables (tracé ECG avec sus-décalage du segment ST, dosage de troponine, consensus cardiologique) validant la qualification devant les pairs et engageant la responsabilité médicolégale.
+### 2. La relation — Configurations et transformations relationnelles
+Cette dimension audite les connexions et agencements qui lient les événements entre eux. 
+* Au plan de base, il s'agit des contingences directes de discrimination perceptive.
+* Au plan dérivé (RFT), il s'agit des cadres relationnels arbitrairement applicables ($AARR$ : coordination, opposition, comparaison, spatialité,箬hiérarchie, etc.). L'arbitraire signifie ici que la relation n'est pas contrainte par la seule forme physique des *relata*, tout en restant matériellement ancrée dans des histoires d'apprentissage situées.
+
+### 3. La fonction — L'opérativité pragmatique en acte
+L'introduction d'un événement dans un réseau relationnel produit une transformation de ses fonctions de stimulus ($C_{func}$). La fonction désigne la modification effective des dispositions d'action et d'orientation de l'organisme (saillance, évitement, approche, catégorisation tacite).
+
+### 4. La justification — La redevabilité normative (KIN)
+Lorsqu'une conduite est thématisée, assertée et soumise au langage public, elle entre dans l'espace des raisons. Elle s'expose à la demande de justifications, au respect des critères de correction propres à un **régime descriptif**, et à la tenue du scorekeeping déontique entre locuteur et auditeur.
 
 ---
 
-### Synthèse finale
+## Distinctions conceptuelles nécessaires
 
-##### Ce que cette page établit
-La démarcation conceptuelle nette et l'articulation transductive continue entre l'ancrage somatique (**Corps dans le milieu**), l'armature relationnelle et les capacités d'abstraction arbitraire (**Relation & Cadres relationnels**), l'opérativité en contexte (**Fonction / Transformation de fonction**) et la redevabilité déontique publique (**Justification**).
+### Séquence d'enquête et Échelle ontologique
+* **L'échelle ontologique** (rejetée) poserait quatre substances ou quatre mondes superposés dans l'Univers (la matière brute, le mental relationnel, le fonctionnel, l'Esprit normatif).
+* **La séquence d'enquête** (protokinienne) prescrit l'ordre méthodique des questions que l'analyste doit poser pour rendre compte d'une performance discursive sans commettre de saut catégoriel.
 
-##### Ce qu'elle suppose
-Le primat du couplage perception-action, la Relational Frame Theory (RFT) comme modèle d'apprentissage relationnel pré-normatif, l'intra-action, et la distinction sellarsienne entre l'espace des causes (PROTO) et l'espace des raisons (KIN).
+### Fonction de stimulus et Raison discursive
+* **La fonction de stimulus** opère au niveau de l'efficacité comportementale de l'organisme (elle explique *comment* une réaction est modifiée).
+* **La raison** opère au niveau du droit discursif (elle établit *pourquoi* un énoncé est recevable ou justifié devant autrui).
 
-##### Ce qu'elle rend possible
-La prévention des réductions scientistes, comportementalistes ou pragmatistes vulgaires, le rejet de l'idéalisme désincarné, et l'explicitation rigoureuse de la règle de non-conversion entre capacité relationnelle et validité normative.
+---
+
+## Éclairage par les fils rouges pédagogiques
+
+### 1. « Le vélo est rouge »
+* **1. Le corps dans le milieu (PROTO)** : Les cônes rétiniens captent une onde électromagnétique de 650 nm ; le corps maintient son tonus postural et la dynamique de son regard.
+* **2. La relation (Opérateur relationnel)** : L'histoire d'apprentissage installe un cadre de coordination entre l'impression visuelle et la classe lexicale « rouge », doublé d'un cadre d'opposition aux classes « bleu » ou « vert ».
+* **3. La fonction (Transformation fonctionnelle)** : Le terme « rouge » oriente immédiatement la focalisation attentionnelle du locuteur pour repérer son vélo parmi d'autres sur un parking.
+* **4. La justification (KIN)** : Contesté par un pair (*« Non, il est orange brique »*), le locuteur ne peut se contenter d'invoquer sa vision cérébrale ou son conditionnement ; il doit recourir aux critères partagés d'observation sous éclairage naturel neutre (Image Manifeste) ou aux relevés spectrophotométriques (Image Scientifique).
+
+---
+
+## Synthèse finale
+
+### Ce que cette page établit
+* La quadripartition d'enquête (*Corps dans le milieu*, *Relation*, *Fonction*, *Justification*) comme séquence méthodologique d'audit de second ordre.
+* La tripartition analytique irréductible : *Stimulus physique* $\rightarrow$ *Fonction de stimulus* $\rightarrow$ *Raison normative*.
+* L'immunisation contre toute ontologie étagée intermédiaire.
+
+### Ce qu'elle suppose
+* Le *principe de causes et raisons* (`principe-causes-et-raisons.md`).
+* Le *primat du couplage organisme-milieu* (`primat-couplage-organisme-milieu.md`).
+* Les *opérateurs de reconfiguration relationnelle* (`operateurs-de-reconfiguration-relationnelle.md`).
+
+### Ce qu'elle rend possible
+* L'audit clinique des réductions causalistes et des illusions idéalistes.
+* L'articulation non-conversionnelle des théories comportementales relationnelles (RFT) et du pragmatisme inférentialiste (Brandom/Sellars).
+
+
+
