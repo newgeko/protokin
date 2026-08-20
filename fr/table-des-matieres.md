@@ -43,6 +43,7 @@
 | 02 - Architecture générale | Présenter l'organisation générale de Protokin. | [02-architecture-generale.md](02-architecture-generale.md) |
 | Architecture conceptuelle | Donner la cartographie des principaux concepts. | [architecture-conceptuelle.md](architecture-conceptuelle.md) |
 | Architecture fonctionnelle | Présenter la dynamique générale des opérations descriptives. | [architecture-fonctionnelle.md](architecture-fonctionnelle.md) |
+| Architecture fonctionnelle des sections | Définir les périmètres et rôles d'établissement exclusifs des 13 sections. |architecture-fonctionnelle-des-sections.md |
 | Causes et raisons — Pour une articulation sans conversion | Établir la distinction fonctionnelle et non-ontologique entre causes (PROTO) et raisons (KIN) sans conversion. | [articulation_vs_conversion.md](articulation_vs_conversion.md) |
 | Fonctions limites des sections | Cadrage du périmètre opératoire de chaque section. | [fonctions-limites-des-sections.md](fonctions-limites-des-sections.md) |
 
