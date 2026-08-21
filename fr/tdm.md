@@ -69,6 +69,9 @@
 | Butoir | Définir les contraintes de résistance biophysique et les opérateurs de clôture normative. | butoir.md |
 | Intra-action | Définir la genèse relationnelle constitutive organisme-milieu, antérieure à la coupure sujet/objet. | intra-action.md |
 | Niche biologique | Définir le domaine d'interactions co-construit et réglé par les butoirs du milieu. | niche-biologique.md |
+| Trace matérielle | Définir l'empreinte physique passive avant sa sélection attentionnelle comme indice. | trace.md |
+| Configuration mathématique | Régime et formalisme des configurations relationnelles abstraites. | configuration-mathematique.md |
+| Description | Définir l'acte et le produit élémentaire de qualification d'une différence. | description.md |
 | L'indice | Définir l'indice comme transition attentionnelle reliant la trace matérielle passive (PROTO) au signe d'aval (KIN). | indice.md |
 | Configuration sémiotique | Définir l'organisation des différences devenues partageables. | configuration-semiotique.md |
 | Support descriptif | Définir les médiations matérielles, sémiotiques et institutionnelles des descriptions. | support-descriptif.md |
@@ -105,6 +108,7 @@
 | Assertion | Définir l'acte d'assertion. | assertion.md |
 | Communauté de locuteurs | Définir les communautés au sein desquelles les descriptions prennent sens. | communaute-de-locuteurs.md |
 | Norme descriptive | Définir les règles immanentes qui rendent possibles l'évaluation et la correction des descriptions. | norme-descriptive.md |
+| Stabilisation | Analyser les mécanismes de stabilisation et de maintien synchronique des descriptions. | stabilisation.md |
 | L'espace des raisons | Définir l'espace des raisons comme lieu des justifications et de la redevabilité collective. | espace-des-raisons.md |
 | Engagements descriptifs | Définir les engagements assumés par le locuteur lorsqu'il décrit. | engagements-descriptifs.md |
 | Responsabilité descriptive | Définir les responsabilités attachées aux engagements descriptifs. | responsabilite-descriptive.md |
@@ -130,6 +134,7 @@
 | Limite interne | Définir les limites propres à un régime descriptif. | limite-interne.md |
 | Traduction | Définir la traduction entre descriptions ou régimes descriptifs. | traduction.md |
 | Transduction relationnelle RFT | Définir la transduction relationnelle comme opération de transformation fonctionnelle des relations. | transduction-relationnelle-rft.md |
+| Individuation descriptive | Définir la genèse et les seuils d'individuation des cadres descriptifs. | individuation.md |
 | Transformation relationnelle RFT | Spécifier l'AARR et la transformation des fonctions de stimulus. | transformation-relationnelle-rft.md |
 | Opérateurs de reconfiguration relationnelle | Définir les ressources théoriques et les opérations d'enquête permettant d'analyser la transformation d'une configuration relationnelle. | operateurs-de-reconfiguration-relationnelle.md |
 | Transition | Décrire les passages entre configurations descriptives. | transition.md |
@@ -229,6 +234,8 @@
 | Francisco Varela | Présenter l'énaction et le couplage organisme-milieu. | varela.md |
 | Miranda Fricker | Présenter l'injustice épistémique et les conditions sociales du savoir. | miranda-fricker.md |
 | Richard Rorty | Présenter le pragmatisme linguistique et la critique du fondationnalisme. | richard-rorty.md |
+| Humberto Maturana | Présenter l'apport de l'autopoïèse et du domaine d'existence des systèmes vivants. | humberto-maturana.md |
+| Paul Ricœur | Présenter l'apport de l'herméneutique, de la sédimentation narrative et de la métaphore vive. | paul-ricoeur.md |
 
 ---
 
