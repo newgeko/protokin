@@ -222,7 +222,7 @@
 | Titre | Fonction | Fichier |
 | --- | --- | --- |
 | 10 - Héritages philosophiques | Présenter les héritages philosophiques mobilisés. | 10-heritages-philosophiques.md |
-| Charles Sanders Peirce | Présenter l'apport de Peirce à la clarification pragmatique, au pragmatisme logique, à l'habitude et à l'enquête. | pierce.md |
+| Charles Sanders Peirce | Présenter l'apport de Peirce à la clarification pragmatique, au pragmatisme logique, à l'habitude et à l'enquête. | charles-sanders-pierce.md |
 | John Dewey | Présenter l'apport du pragmatisme et de l'enquête. | john-dewey.md |
 | Wilfrid Sellars | Présenter la distinction entre espace des causes et espace des raisons. | wilfrid-sellars.md |
 | Robert Brandom | Présenter l'inférentialisme et la normativité discursive. | robert-brandom.md |
