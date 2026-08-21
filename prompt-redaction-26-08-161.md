@@ -2,7 +2,7 @@
 
 ## Version
 
-**Protokin 2026 — version 26.08.191**
+**Protokin 2026 — version 26.08.211**
 
 ---
 
@@ -76,6 +76,10 @@ Mais elle ne doit pas en reprendre l'établissement complet.
 # 3. Documents de référence obligatoires
 
 Avant toute rédaction, prendre en compte les documents disponibles.
+
+## 3.0 `quadripartition-fondamentale.md`
+
+Il fournit la logique générale du projet. Toute écriture ou rédaction de page dans s'inscrire dans cette quadripartition-fondamentale.
 
 ## 3.1 `02-architecture-generale.md`
 
