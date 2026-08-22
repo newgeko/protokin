@@ -794,3 +794,28 @@ mais :
 «« Comment l'autonomisation des relations indicielle reconfigure-t-elle la fonction de la pratique, et comment la pratique peut-elle en retour maintenir, transformer ou abandonner ces relations ? »»
 
 C'est dans cette réciprocité entre relations indicielle, fonction et praxis que la complexification symbolique peut être pensée sans retomber ni dans le réductionnisme neurobiologique, ni dans le mentalisme, ni dans un platonisme des signes.
+
+## Définition conceptuelle de la dérive indicielle
+
+Dans l'architecture de Protokin, on appelle **dérive indicielle** :
+
+> Le processus par lequel un indice, initialement intégré à une dynamique fonctionnelle et praxique déterminée, acquiert une autonomie relative par rapport à la fonction pratique qu'il orientait, de sorte que sa circulation ou sa prolifération relationnelle devient elle-même le principal déterminant de la poursuite de l'activité descriptive ou comportementale.
+
+### La rupture de couplage fonctionnel
+
+L'audit métathéorique oppose deux régimes de fonctionnement :
+
+* **Dynamique avec ancrage praxique** :
+  $$\text{Indice} \longrightarrow \text{Fonction} \longrightarrow \text{Critère} \longrightarrow \text{Praxis / Raison}$$
+  L'indice demeure référé aux butoirs du milieu et aux opérations concrètes qu'il rend possibles au sein de la pratique.
+
+* **Dynamique de dérive indicielle** :
+  $$I_1 \longrightarrow I_2 \longrightarrow I_3 \longrightarrow \dots \longrightarrow I_n$$
+  L'indice est traité comme s'il portait intrinsèquement sa propre signification. Le régime descriptif poursuit les indices pour eux-mêmes, occultant la fonction pratique d'origine et neutralisant la capacité du système à éprouver ses propres conditions de révision face aux butoirs matériels.
+
+
+### Critères d'audit : Dépistage de la dérive indicielle
+Lors de l'examen d'un régime ou d'un dispositif technique, l'enquêteur applique le questionnaire de ré-ancrage :
+1. *Quelle fonction cette configuration indicielle remplit-elle dans la pratique effective ?*
+2. *La chaîne des indices est-elle révisable sous l'effet des butoirs matériels, ou tourne-t-elle en boucle fermée au sein du seul système sémiotique ?*
+3. *Y a-t-il fétichisation indicielle (illusion consistant à croire que le signal porte de lui-même sa valeur de justification sans passer par l'espace public des critères et des raisons) ?*
