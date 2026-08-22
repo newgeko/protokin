@@ -1,821 +1,727 @@
 Dérive indicielle
 
-1. Fonction de la page
+Fonction
 
-Cette page établit la notion de dérive indicielle dans l'architecture de Protokin.
+Dans l'architecture de Protokin, cette page établit la dérive indicielle comme une pathologie de désarticulation entre l'indice et la fonction pratique qu'il contribue à orienter.
 
-La dérive indicielle désigne le processus par lequel des relations entre indices, initialement engagées dans une fonction praxique déterminée, acquièrent une autonomie fonctionnelle croissante au point que les relations entre indices deviennent elles-mêmes l'objet principal de l'activité.
+Elle précise notamment comment une configuration indicielle peut progressivement se détacher de son ancrage praxique, jusqu'à fonctionner principalement par renvoi à d'autres indices, ou jusqu'à être traitée comme si elle portait en elle-même une valeur de correction ou de justification.
 
-Elle ne désigne ni une pathologie nécessaire du langage, ni une erreur dès qu'un système symbolique devient complexe.
+La dérive indicielle ne désigne donc pas la simple multiplication des signes ni l'abstraction en tant que telle. Elle désigne une perte de médiation fonctionnelle.
 
-Elle désigne une tension structurelle :
-
-[
-\boxed{
-\text{ancrage praxique}
-\quad\leftrightarrow\quad
-\text{autonomisation indicielle}
-}
-]
-
-L'enjeu de Protokin est de pouvoir décrire cette autonomisation sans la transformer en autonomie ontologique d'un « monde des signes ».
 
 ---
 
-2. De l'indice fonctionnel à l'autonomisation indicielle
+Problème conceptuel inaugural
 
-Un indice acquiert sa fonction dans une trajectoire de pratique.
+Un indice n'est pas identique à la fonction de stimulus qu'il contribue à orienter.
 
-On peut schématiser son fonctionnement initial ainsi :
+Un contraste perceptible, un signal technique, un mot, une alarme ou une configuration symbolique peuvent orienter l'activité sans que leur seule présence détermine ce qu'il convient de faire ou ce qu'il convient d'affirmer.
 
-[
-I
-\rightarrow
-F
-\rightarrow
-P
-]
+La difficulté apparaît lorsque cette distinction s'efface.
 
-où :
+Un régime peut alors progressivement substituer à la relation :
 
-- I désigne l'indice ;
-- F sa fonction ;
-- P la praxis dans laquelle cette fonction opère.
+> indice → fonction
 
-Dans certaines conditions, cependant, un indice peut être mis en relation avec d'autres indices :
 
-[
-I_1 ;R; I_2
-]
 
-puis :
+une dynamique dans laquelle les indices se renvoient principalement les uns aux autres :
 
-[
-I_2 ;R; I_3
-]
+> indice → indice → indice → ...
 
-et ainsi de suite.
 
-La relation entre indices peut alors devenir suffisamment complexe pour que l'activité porte principalement sur la transformation des relations elles-mêmes.
 
-Le schéma devient :
+La question devient alors :
 
-[
-I_1
-\rightarrow
-I_2
-\rightarrow
-I_3
-\rightarrow
-I_4.
-]
+> Comment déterminer qu'une configuration indicielle s'est suffisamment détachée de sa fonction pratique pour constituer une dérive indicielle ?
 
-La fonction initiale n'a pas nécessairement disparu.
 
-Elle peut simplement devenir moins immédiatement visible dans l'opération en cours.
 
-C'est ce déplacement que Protokin appelle dérive indicielle.
+Cette question est particulièrement importante pour les régimes fortement sémiotisés, les dispositifs techniques, les systèmes classificatoires et les pratiques descriptives dans lesquelles les traces, signaux, catégories ou représentations peuvent acquérir une autonomie relative.
+
 
 ---
 
-3. La dérive n'est pas une rupture
+Détermination fonctionnelle
 
-Le terme « dérive » ne signifie pas qu'un indice abandonnerait soudainement toute fonction.
+La dérive indicielle désigne le processus par lequel une configuration d'indices perd progressivement son ancrage fonctionnel dans une pratique située, de sorte que la circulation, la confirmation ou la transformation des indices devient relativement indépendante des fonctions pratiques qu'ils étaient censés orienter.
 
-Il désigne une modification progressive du centre de gravité fonctionnel d'une pratique.
+Elle comporte trois caractéristiques principales :
 
-On peut distinguer :
+1. désarticulation entre indice et fonction ;
 
-[
-\text{indice}
-\rightarrow
-\text{fonction dans la praxis}
-]
 
-et :
+2. autonomisation relative de la chaîne indicielle ;
 
-[
-\text{indice}
-\rightarrow
-\text{relation avec d'autres indices}.
-]
 
-Dans le premier cas, la fonction praxique est immédiatement saillante.
+3. affaiblissement de la révisabilité praxique de cette chaîne.
 
-Dans le second, l'activité peut être principalement organisée autour de transformations relationnelles internes au système indiciel.
 
-La dérive apparaît lorsque cette seconde dynamique tend à se substituer à l'analyse de la fonction praxique.
 
-Elle est donc une propriété de la trajectoire d'une pratique, et non une propriété intrinsèque du signe.
+La dérive ne suppose cependant pas qu'un indice cesse complètement d'avoir une fonction.
+
+Il suffit que la dynamique indicielle devienne prioritaire sur la fonction qui lui donnait initialement sa pertinence.
+
 
 ---
 
-4. Autonomie fonctionnelle
+1. Indice, fonction, critère et raison
 
-La possibilité d'une dérive indicielle repose sur un phénomène réel : les systèmes symboliques peuvent acquérir une autonomie fonctionnelle relative.
+La dérive indicielle ne peut être comprise qu'en maintenant la distinction entre quatre fonctions analytiques :
 
-Une relation établie dans une pratique peut être réutilisée dans d'autres contextes.
+> Indice → Fonction → Critère → Raison
 
-Elle peut être combinée à d'autres relations.
 
-Elle peut devenir une composante d'un système formel.
 
-Elle peut être manipulée sans que les conditions pratiques de son établissement soient présentes dans la situation immédiate.
+Cette séquence ne constitue pas une genèse chronologique universelle. Elle décrit des rôles fonctionnels distincts dans l'enquête.
 
-Cette autonomie est importante.
+L'indice
 
-Elle permet notamment :
+L'indice oriente.
 
-- l'abstraction ;
-- la généralisation ;
-- la recombinaison ;
-- la planification ;
-- la modélisation ;
-- l'inférence ;
-- la construction de systèmes formels.
+Il attire l'attention, signale une différence, cadre une réponse ou fournit une occasion de discrimination.
 
-Protokin ne cherche donc pas à supprimer cette autonomie.
+Il peut être :
 
-Il cherche à empêcher une confusion :
+non-arbitraire ;
 
-[
-\boxed{
-\text{autonomie fonctionnelle}
-\neq
-\text{autonomie ontologique}
-}
-]
+pré-sémiotique ;
 
-Qu'un système indiciel puisse fonctionner avec une relative indépendance vis-à-vis de son contexte d'origine ne signifie pas que ses éléments constituent des entités autonomes existant indépendamment de toute pratique.
+matériel ;
 
----
+technique ;
 
-5. Le risque de désancrage
+arbitraire ;
 
-Le problème apparaît lorsque l'autonomie fonctionnelle devient le seul niveau pris en compte.
+contextuel.
 
-Une chaîne peut alors être décrite ainsi :
 
-[
-I_1
-;R_1;
-I_2
-;R_2;
-I_3
-;R_3;
-I_4.
-]
+La fonction
 
-Mais si l'on ne demande plus :
+La fonction de stimulus rend cette orientation opératoire.
 
-«« Que transforme cette chaîne dans une pratique ? »»
+Elle concerne ce que le stimulus fait effectivement dans l'économie de l'organisme ou de la pratique : modification de la saillance, orientation de l'action, disposition comportementale, valence, évitement, approche, etc.
 
-l'analyse risque de considérer les relations comme suffisantes à elles-mêmes.
+Le critère
 
-Le système devient alors décrit comme un réseau fermé :
+Le critère permet de qualifier ou d'évaluer une configuration dans une pratique descriptive.
 
-[
-\mathcal{I}
+Il ne constitue pas simplement un indice supplémentaire.
 
-{I_1,I_2,\ldots,I_n}
-]
+Il intervient dans une pratique où certaines différences deviennent pertinentes pour déterminer si une description, une action ou une qualification satisfait une exigence déterminée.
 
-avec des relations internes :
+La raison
 
-[
-R(I_i,I_j).
-]
+La raison appartient au registre de la justification publique.
 
-Le risque théorique est de passer insensiblement de :
-
-«« un système indiciel permet certaines opérations »»
-
-à :
-
-«« le système indiciel constitue un domaine autonome d'objets et de relations ».»
-
-Cette seconde proposition n'est pas nécessaire pour expliquer la première.
-
----
-
-6. La dérive indicielle comme erreur de description
-
-La dérive indicielle devient problématique lorsqu'une propriété fonctionnelle d'un système est transformée en propriété ontologique de ses éléments.
-
-Le déplacement peut être représenté ainsi :
-
-[
-\text{relation fonctionnelle}
-]
-
-[
-\downarrow
-]
-
-[
-\text{relation autonome dans le modèle}
-]
-
-[
-\downarrow
-]
-
-[
-\text{relation considérée comme objet}
-]
-
-[
-\downarrow
-]
-
-[
-\text{réification du système indiciel}.
-]
-
-Protokin doit particulièrement surveiller cette dernière étape.
-
-Un modèle peut parfaitement contenir des objets abstraits.
-
-Une théorie mathématique peut manipuler des nombres, des ensembles ou des structures.
-
-Une théorie scientifique peut manipuler des variables et des relations formelles.
-
-Mais le fait qu'un modèle traite quelque chose comme un objet ne suffit pas à établir que cet objet existe comme une entité indépendante de la pratique dans laquelle le modèle fonctionne.
-
----
-
-7. Dérive indicielle et RFT
-
-La RFT rend cette question particulièrement visible.
-
-Les cadres relationnels permettent des relations de relations.
-
-Une première relation peut ainsi contribuer à la transformation d'une fonction de stimulus :
-
-[
-A ;R; B
-\quad\Rightarrow\quad
-\Delta C_{func}.
-]
-
-Puis plusieurs relations peuvent être combinées :
-
-[
-A ;R_1; B
-\quad\land\quad
-B ;R_2; C.
-]
-
-L'organisme peut alors répondre à une configuration relationnelle plus complexe.
-
-Cette capacité constitue une ressource majeure pour l'abstraction.
-
-Mais la possibilité de relations de relations introduit également une possibilité structurelle :
-
-[
-\text{relation}
-\rightarrow
-\text{relation de relations}
-\rightarrow
-\text{système relationnel}.
-]
-
-La complexité du système relationnel ne doit toutefois pas être confondue avec une disparition de la fonction.
-
-La question reste :
-
-«quelles fonctions sont transformées par la configuration relationnelle et dans quelle trajectoire d'activité cette transformation opère-t-elle ?»
-
----
-
-8. La dérive n'est pas « le signe qui se détache du réel »
-
-Il serait trop simple de décrire la dérive indicielle comme un éloignement progressif du réel.
-
-Cette formulation reconduirait une opposition problématique :
-
-[
-\text{réel}
-\quad/\quad
-\text{signe}.
-]
-
-Or une pratique symbolique demeure une pratique incarnée.
-
-Même lorsqu'une personne manipule des symboles très abstraits, l'activité implique :
-
-- un organisme ;
-- des capacités apprises ;
-- des supports matériels ;
-- des pratiques collectives ;
-- des institutions ;
-- des histoires d'apprentissage ;
-- des normes d'usage ;
-- des critères de réussite ou d'échec.
-
-La dérive ne consiste donc pas à quitter le réel.
-
-Elle consiste à déplacer le niveau auquel la fonction devient immédiatement opératoire.
-
----
-
-9. L'autonomie du système formel
-
-Une conséquence importante est que Protokin doit pouvoir reconnaître une autonomie réelle aux systèmes formels.
-
-Prenons une pratique mathématique.
-
-Une fois certaines conventions et règles établies, le mathématicien peut travailler sur :
-
-[
-A \Rightarrow B
-]
-
-puis :
-
-[
-B \Rightarrow C
-]
-
-et établir :
-
-[
-A \Rightarrow C.
-]
-
-L'activité peut être entièrement orientée vers la cohérence et la transformation interne du système.
-
-Cela ne signifie pas que l'activité est devenue ontologiquement indépendante de toute praxis.
-
-La fonction de ces opérations est désormais interne à une pratique formelle.
-
-L'ancrage praxique n'exige donc pas que toute relation soit immédiatement reliée à une action corporelle ou à un objet perceptif.
-
-Il exige que l'on puisse identifier la pratique dans laquelle l'autonomie formelle joue une fonction.
+Elle permet de rendre une assertion ou une action redevable dans un espace où elle peut être demandée, contestée, défendue ou révisée.
 
 Ainsi :
 
-[
-\text{autonomie formelle}
-\subset
-\text{praxis}.
-]
+> Un indice peut orienter sans justifier.
+
+
+
+Et :
+
+> Une fonction de stimulus peut expliquer une disposition sans constituer une raison.
+
+
+
+Cette distinction constitue l'un des principaux garde-fous contre la dérive indicielle.
+
 
 ---
 
-10. Dérive et fermeture opérationnelle
+2. L'ancrage praxique
 
-On peut préciser le phénomène à l'aide de la notion de fermeture opérationnelle.
+Un indice n'a pas besoin de posséder une signification intrinsèque pour être fonctionnellement pertinent.
 
-Une pratique peut produire des éléments qui deviennent les conditions d'opérations ultérieures :
+Son rôle dépend de son inscription dans une pratique.
 
-[
-I_1
-\rightarrow
-I_2
-\rightarrow
-I_3
-\rightarrow
-I_4
-]
+L'ancrage praxique désigne cette relation entre une configuration indicielle et l'activité effective dans laquelle elle intervient.
 
-où chaque résultat devient une nouvelle condition d'opération.
+Il permet de poser la question :
 
-Le système semble alors se refermer sur lui-même.
+> À quoi cet indice sert-il effectivement dans la pratique ?
 
-Cette fermeture peut être parfaitement productive.
 
-Elle permet notamment :
 
-- la construction de théories ;
-- l'élaboration de langages formels ;
-- la programmation ;
-- la classification ;
-- la démonstration ;
-- la modélisation.
+L'ancrage peut être :
 
-La fermeture devient problématique uniquement lorsque l'on confond :
+sensorimoteur ;
 
-[
-\text{fermeture opérationnelle}
-]
+écologique ;
 
-avec :
+technique ;
 
-[
-\text{indépendance ontologique}.
-]
+comportemental ;
 
-Un système peut être opérationnellement fermé tout en étant historiquement, matériellement et praxiquement situé.
+relationnel ;
+
+social ;
+
+discursif.
+
+
+Il n'est donc pas nécessairement immédiat ou purement matériel.
+
+Un indice arbitraire peut être profondément inscrit dans une pratique sans être physiquement ressemblant à ce qu'il permet d'orienter.
+
+Ce qui importe est que son fonctionnement reste rattachable à une fonction effective.
+
 
 ---
 
-11. Dérive indicielle et perte de la fonction
+3. L'indice arbitraire n'est pas une raison
 
-La dérive indicielle devient particulièrement importante lorsque la relation entre les opérations symboliques et leur fonction n'est plus explicitement reconstruite.
+Cette distinction devient particulièrement importante dans l'analyse de la RFT.
 
-On peut alors distinguer trois situations.
+Un indice contextuel arbitraire peut contrôler une transformation relationnelle sans constituer lui-même une justification normative.
 
-Situation A — Ancrage fonctionnel
+Dans une configuration RFT, un indice peut contribuer à déterminer quelle relation devient pertinente ou quelle fonction de stimulus est transformée.
 
-[
-I
-\rightarrow
-F
-\rightarrow
-P.
-]
+Il ne s'ensuit pas que cet indice :
 
-L'indice est directement intégré à une fonction identifiable dans une praxis.
+constitue une raison ;
 
-Situation B — Autonomie fonctionnelle
+possède une validité normative ;
 
-[
-I_1
-\rightarrow
-I_2
-\rightarrow
-I_3
-\rightarrow
-P.
-]
+détermine ce qui doit être affirmé ;
 
-Les relations internes aux indices occupent une place importante, mais leur fonction dans la pratique reste identifiable.
+justifie à lui seul une action.
 
-Situation C — Dérive indicielle
 
-[
-I_1
-\rightarrow
-I_2
-\rightarrow
-I_3
-\rightarrow
-I_4
-\rightarrow
-\cdots
-]
+On doit donc maintenir :
 
-sans que l'analyse puisse plus reconstruire adéquatement la fonction praxique de cette dynamique.
+> indice contextuel → transformation fonctionnelle
 
-La troisième situation ne signifie pas nécessairement que la pratique soit sans fonction.
 
-Elle signifie que le régime de description a cessé de rendre cette fonction visible.
 
-Cette précision est importante : la dérive indicielle peut être un phénomène réel de pratique, mais elle peut aussi être produite ou amplifiée par une erreur descriptive.
+et non :
+
+> indice contextuel → raison
+
+
+
+La RFT permet de comprendre des transformations de fonctions de stimulus et des relations arbitrairement applicables ; elle ne convertit pas ces capacités fonctionnelles en validité normative.
+
 
 ---
 
-12. Le critère de ré-ancrage
+4. La dérive indicielle
 
-Pour éviter cette dérive, Protokin peut utiliser un critère simple :
+La dérive commence lorsque l'indice tend à perdre la relation fonctionnelle qui justifiait son emploi dans la pratique.
 
-«Toute autonomie indicielle doit pouvoir être rapportée à une fonction dans une trajectoire de pratique.»
+La configuration peut alors devenir auto-référentielle :
 
-Il ne s'agit pas de demander :
+> Indice A → Indice B → Indice C → Indice A
 
-«« À quoi sert ce signe dans le monde ? »»
 
-comme si chaque signe devait désigner un objet extérieur.
 
-Il s'agit de demander :
+Chaque indice est confirmé, interprété ou requalifié principalement par d'autres indices du même système.
 
-«Quelle opération cette relation rend-elle possible dans cette pratique ?»
+La difficulté n'est pas simplement que le système soit complexe.
 
-Le ré-ancrage peut donc porter sur :
+Un système complexe peut rester parfaitement ancré dans une pratique.
 
-- une discrimination ;
-- une coordination ;
-- une inférence ;
-- une prédiction ;
-- une description ;
-- une classification ;
-- une justification ;
-- une transformation de problème ;
-- une transmission ;
-- une coordination collective.
+Le problème apparaît lorsque la possibilité de réviser la configuration dépend principalement de ses propres opérations internes, tandis que les conséquences pratiques, les butoirs matériels ou les échecs de l'action cessent d'exercer une contrainte effective.
 
-La fonction peut être extrêmement abstraite.
+La dérive indicielle est donc une autonomisation relative de la circulation indicielle.
 
-Elle n'en demeure pas moins une fonction dans une pratique.
 
 ---
 
-13. La dérive indicielle n'est pas nécessairement pathologique
+5. Dérive indicielle et boucle fermée
 
-Il faut éviter de transformer cette notion en critique générale de l'abstraction.
+Une chaîne indicielle n'est pas problématique parce qu'elle contient des relations entre signes.
 
-Une certaine autonomie des indices est précisément ce qui rend possibles les pratiques symboliques complexes.
+Toute pratique symbolique complexe implique de telles relations.
 
-Sans elle, il n'y aurait probablement pas :
+Le critère pertinent est la révisabilité.
 
-- de mathématiques ;
-- de logique formelle ;
-- de théories scientifiques complexes ;
-- de langages spécialisés ;
-- de systèmes de classification élaborés.
+Une configuration reste praxiquement ancrée lorsqu'une perturbation dans la pratique peut entraîner :
 
-La dérive indicielle devient donc un problème seulement lorsque :
+> butoir → échec → révision de l'indice → révision de la fonction → réorganisation de la pratique
 
-[
-\text{autonomie de fonctionnement}
-]
 
-est interprétée comme :
 
-[
-\text{autonomie d'existence}
-]
+À l'inverse, une dérive s'installe lorsque :
 
-ou lorsque le système indiciel devient incapable, dans la pratique concernée, de maintenir les fonctions qui justifient son maintien.
+> indice → interprétation → nouvel indice → confirmation → réinterprétation
 
-Il faut donc distinguer :
 
-[
-\boxed{
-\text{abstraction}
-\neq
-\text{dérive}
-}
-]
 
-et :
+peut se poursuivre sans que les conséquences pratiques disposent d'une capacité réelle de correction.
 
-[
-\boxed{
-\text{autonomie}
-\neq
-\text{désancrage}
-}
-]
+La boucle sémiotique devient alors relativement fermée.
+
 
 ---
 
-14. Dérive indicielle et KIN
+6. Le test de ré-ancrage praxique
 
-La notion devient particulièrement importante dans le rapport à KIN.
+Pour diagnostiquer une dérive indicielle, l'enquêteur peut appliquer un test de ré-ancrage praxique.
 
-Une pratique discursive peut produire des relations entre concepts, propositions et engagements qui deviennent elles-mêmes objets de nouvelles opérations.
+Question 1 — Fonction
 
-On peut alors avoir :
+> Quelle fonction cette configuration indicielle remplit-elle effectivement dans la pratique ?
 
-[
-\text{assertion}
-\rightarrow
-\text{inférence}
-\rightarrow
-\text{métainférence}
-\rightarrow
-\text{révision de l'inférence}.
-]
 
-Cette récursivité est constitutive de pratiques discursives sophistiquées.
 
-Elle ne doit pas être comprise comme une sortie de KIN.
+Il faut identifier ce que l'indice permet réellement :
 
-Au contraire, elle peut constituer une propriété interne de la pratique normative.
+d'orienter ;
 
-Le problème apparaît seulement lorsque les relations discursives sont réifiées comme des entités autonomes plutôt que décrites comme des relations fonctionnelles entre engagements dans une pratique de justification.
+de discriminer ;
 
-Ainsi, même au niveau KIN :
+de transformer ;
 
-[
-\text{relation}
-\rightarrow
-\text{engagement}
-\rightarrow
-\text{justification}
-]
+de rendre saillant ;
 
-reste préférable à :
+de déclencher ;
 
-[
-\text{relation}
-\rightarrow
-\text{relation}
-\rightarrow
-\text{relation}.
-]
+de coordonner.
+
+
+Si aucune fonction effective ne peut être identifiée, la configuration doit être examinée avec prudence.
+
 
 ---
 
-15. Dérive indicielle et pathologies sémantiques
+Question 2 — Ancrage
 
-La dérive indicielle peut fournir un principe d'analyse de certaines pathologies sémantiques.
+> À quelle activité située, disposition d'action ou contrainte la configuration reste-t-elle rattachée ?
 
-Une pathologie peut apparaître lorsque les transformations indicielle et praxique cessent de se soutenir mutuellement.
 
-Par exemple :
 
-- une distinction est maintenue alors que la pratique ne la requiert plus ;
-- une catégorie est reproduite malgré l'échec répété de sa fonction ;
-- un système de signes devient plus important que l'activité qu'il devait organiser ;
-- une formalisation empêche de percevoir les anomalies qu'elle devait permettre de détecter ;
-- une justification devient purement interne à un système dont les conditions d'application ont disparu.
+L'objectif n'est pas de rechercher une « signification réelle » cachée derrière le signe.
 
-Dans ces cas, le problème n'est pas que les signes soient abstraits.
+Il s'agit de déterminer dans quelle pratique l'indice acquiert et maintient sa fonction.
 
-Le problème est que la dynamique indicielle n'est plus suffisamment couplée à la dynamique praxique.
-
-On peut représenter cette dégradation ainsi :
-
-[
-\boxed{
-\text{variation praxique}
-\nrightarrow
-\text{révision indicielle}
-}
-]
-
-ou inversement :
-
-[
-\boxed{
-\text{réorganisation indicielle}
-\nrightarrow
-\text{réorganisation praxique}.
-}
-]
-
-La dérive devient alors un problème de désynchronisation entre deux dynamiques.
 
 ---
 
-16. Le principe de non-réification
+Question 3 — Révisabilité
 
-La notion de dérive indicielle conduit à une règle d'audit complémentaire au principe d'ancrage praxique :
+> Les butoirs matériels, les conséquences de l'action ou les échecs pratiques peuvent-ils conduire à réviser la configuration indicielle ?
 
-«Principe de non-réification indicielle : une relation entre indices ne doit pas être transformée en entité autonome du seul fait qu'elle est manipulable comme un objet dans une pratique.»
 
-Cette règle ne nie pas l'utilisation légitime d'objets abstraits.
 
-Elle interdit seulement l'inférence :
+Une configuration correctement ancrée demeure exposée aux conséquences de son usage.
 
-[
-\text{objet du modèle}
-\Rightarrow
-\text{objet ontologique}.
-]
+La possibilité de correction constitue donc un indice important de l'ancrage praxique.
 
-De même :
-
-[
-\text{relation manipulable}
-\not\Rightarrow
-\text{relation substantielle}.
-]
-
-Le statut d'un élément dans une pratique doit être déterminé par les opérations dans lesquelles il intervient, non par sa seule apparence formelle.
 
 ---
 
-17. La dérive comme problème de trajectoire
+Question 4 — Fermeture indicielle
 
-La dérive indicielle ne doit donc pas être diagnostiquée à partir d'un signe isolé.
+> La configuration peut-elle continuer à se confirmer et à se réorganiser principalement par circulation interne des indices ?
 
-Elle doit être analysée dans une trajectoire.
 
-On peut suivre :
 
-[
-T =
-(C_1,F_1,P_1)
-\rightarrow
-(C_2,F_2,P_2)
-\rightarrow
-\cdots
-\rightarrow
-(C_n,F_n,P_n).
-]
+Si oui, il faut examiner si la pratique est encore réellement gouvernée par sa fonction ou si elle tend à être gouvernée par la dynamique indicielle elle-même.
 
-La question devient :
-
-«comment la relation entre configurations indicielle et praxique évolue-t-elle au cours de la trajectoire ?»
-
-Une relation qui paraît désancrée à t_2 peut retrouver une fonction à t_3.
-
-Inversement, une relation parfaitement fonctionnelle à t_1 peut devenir progressivement autonome à t_2, puis dysfonctionnelle à t_3.
-
-La dérive est donc une propriété dynamique, non une essence du signe.
 
 ---
 
-18. Principe d'audit
+Question 5 — Fétichisation
 
-Lorsqu'une théorie rencontre un système indiciel très autonome, Protokin peut poser quatre questions :
+> Le signal est-il traité comme s'il portait de lui-même sa valeur de correction ou de justification ?
 
-1. Quelle histoire a établi les fonctions des indices ?
-2. Quelles relations entre indices sont actuellement opératoires ?
-3. Quelle fonction ces relations remplissent-elles dans la praxis ?
-4. Comment la pratique peut-elle réviser les relations lorsque leur fonction échoue ?
 
-Si la quatrième question ne peut plus être posée, le système risque d'avoir transformé ses propres instruments en fins.
 
-Le problème n'est alors pas simplement sémiotique.
+Cette question permet de détecter la fétichisation indicielle.
 
-Il devient métathéorique : le régime de description ne dispose plus des opérations nécessaires pour rendre visibles ses propres conditions de révision.
+Elle consiste à attribuer à l'indice une force qu'il ne possède pas en tant qu'indice :
+
+> la capacité d'orienter est confondue avec la capacité de justifier.
+
+
+
+Un signal peut être pertinent sans être une raison.
+
+Une trace peut être probante dans certaines conditions sans constituer par elle-même une norme.
+
+Une catégorie peut être opératoire sans être auto-justificatrice.
+
 
 ---
 
-19. Articulation avec l'ancrage praxique
+7. Dérive indicielle et fétichisation indicielle
 
-La présente page complète directement le principe établi dans Indice arbitraire et ancrage praxique.
+Ces deux phénomènes doivent être distingués.
 
-L'ancrage praxique établit :
+Dérive indicielle
 
-[
-\boxed{
-\text{relation arbitraire}
-\rightarrow
-\text{fonction}
-\rightarrow
-\text{praxis}
-}
-]
+Elle concerne principalement la dynamique fonctionnelle :
 
-La dérive indicielle examine la possibilité inverse :
+> l'indice se détache progressivement de la fonction pratique qui l'ancrait.
 
-[
-\boxed{
-\text{relation}
-\rightarrow
-\text{autonomisation}
-\rightarrow
-\text{perte ou occultation de la fonction}
-}
-]
 
-Les deux notions ne sont donc pas symétriques comme deux états absolus.
 
-L'ancrage est une condition de continuité fonctionnelle.
+Fétichisation indicielle
 
-La dérive désigne une tendance de désarticulation ou d'autonomisation relative.
+Elle concerne principalement le statut épistémique ou normatif attribué à l'indice :
 
-L'une permet de comprendre comment un système indiciel fonctionne.
+> l'indice est traité comme s'il possédait intrinsèquement une force de correction ou de justification.
 
-L'autre permet d'analyser comment son fonctionnement peut devenir partiellement indépendant des conditions praxiques qui l'ont constitué.
+
+
+Les deux phénomènes peuvent se renforcer mutuellement.
+
+On peut alors observer :
+
+> perte d'ancrage → autonomisation indicielle → fétichisation → immunisation contre la correction → perte accrue d'ancrage
+
+
+
+La dérive devient ainsi une dynamique cumulative.
+
 
 ---
 
-Conclusion
+8. Dérive indicielle et RFT
 
-La dérive indicielle désigne le processus par lequel un système de relations entre indices acquiert une autonomie fonctionnelle croissante, jusqu'à rendre moins visible ou moins opératoire la fonction praxique dans laquelle ces relations s'inscrivent.
+La RFT permet de comprendre comment un stimulus peut acquérir une fonction transformée dans une configuration relationnelle.
 
-Elle ne constitue ni une condamnation de l'abstraction, ni une preuve que les systèmes symboliques seraient illusoires.
+Mais cette capacité relationnelle ne doit pas être confondue avec une justification normative.
 
-Elle désigne une tension interne aux pratiques symboliques :
+La possibilité de répondre à un indice arbitraire, d'établir des relations entre relata et de transformer des fonctions de stimulus constitue une capacité fonctionnelle.
 
-[
-\boxed{
-\text{ancrage}
-;\longleftrightarrow;
-\text{autonomisation}
-}
-]
+La dérive indicielle peut apparaître lorsque les relations arbitraires deviennent suffisamment autonomes pour que leur propre circulation masque ou affaiblisse les conditions pratiques qui leur donnaient initialement leur fonction.
 
-Une relation arbitraire peut devenir très complexe.
+Cela ne signifie pas que la RFT « produit » nécessairement une dérive.
 
-Un système formel peut devenir opérationnellement fermé.
-
-Une pratique discursive peut manipuler des relations entre relations.
-
-Aucune de ces propriétés ne suffit toutefois à établir l'existence d'un domaine ontologiquement autonome des signes.
-
-Le principe directeur de Protokin peut ainsi être formulé :
-
-«Plus un système indiciel devient autonome dans son fonctionnement, plus l'analyse doit distinguer cette autonomie fonctionnelle de toute prétention à l'autonomie ontologique et reconstruire la trajectoire praxique dans laquelle cette autonomie opère.»
-
-La question protokinienne n'est donc pas :
-
-«« Le signe s'est-il séparé du réel ? »»
-
-mais :
-
-«« Comment l'autonomisation des relations indicielle reconfigure-t-elle la fonction de la pratique, et comment la pratique peut-elle en retour maintenir, transformer ou abandonner ces relations ? »»
-
-C'est dans cette réciprocité entre relations indicielle, fonction et praxis que la complexification symbolique peut être pensée sans retomber ni dans le réductionnisme neurobiologique, ni dans le mentalisme, ni dans un platonisme des signes.
-
-## Définition conceptuelle de la dérive indicielle
-
-Dans l'architecture de Protokin, on appelle **dérive indicielle** :
-
-> Le processus par lequel un indice, initialement intégré à une dynamique fonctionnelle et praxique déterminée, acquiert une autonomie relative par rapport à la fonction pratique qu'il orientait, de sorte que sa circulation ou sa prolifération relationnelle devient elle-même le principal déterminant de la poursuite de l'activité descriptive ou comportementale.
-
-### La rupture de couplage fonctionnel
-
-L'audit métathéorique oppose deux régimes de fonctionnement :
-
-* **Dynamique avec ancrage praxique** :
-  $$\text{Indice} \longrightarrow \text{Fonction} \longrightarrow \text{Critère} \longrightarrow \text{Praxis / Raison}$$
-  L'indice demeure référé aux butoirs du milieu et aux opérations concrètes qu'il rend possibles au sein de la pratique.
-
-* **Dynamique de dérive indicielle** :
-  $$I_1 \longrightarrow I_2 \longrightarrow I_3 \longrightarrow \dots \longrightarrow I_n$$
-  L'indice est traité comme s'il portait intrinsèquement sa propre signification. Le régime descriptif poursuit les indices pour eux-mêmes, occultant la fonction pratique d'origine et neutralisant la capacité du système à éprouver ses propres conditions de révision face aux butoirs matériels.
+La dérive constitue une pathologie possible de l'organisation d'un régime indiciel, et non une propriété de la capacité relationnelle elle-même.
 
 
-### Critères d'audit : Dépistage de la dérive indicielle
-Lors de l'examen d'un régime ou d'un dispositif technique, l'enquêteur applique le questionnaire de ré-ancrage :
-1. *Quelle fonction cette configuration indicielle remplit-elle dans la pratique effective ?*
-2. *La chaîne des indices est-elle révisable sous l'effet des butoirs matériels, ou tourne-t-elle en boucle fermée au sein du seul système sémiotique ?*
-3. *Y a-t-il fétichisation indicielle (illusion consistant à croire que le signal porte de lui-même sa valeur de justification sans passer par l'espace public des critères et des raisons) ?*
+---
+
+9. Dérive indicielle et espace des raisons
+
+La dérive devient particulièrement problématique lorsqu'elle atteint le niveau de la justification.
+
+Il faut maintenir la différence :
+
+> indice → fonction → critère → raison
+
+
+
+Une configuration indicielle peut contribuer à produire les conditions dans lesquelles un critère devient pertinent.
+
+Mais elle ne devient pas, par cette seule opération, une raison.
+
+Une raison doit pouvoir entrer dans un espace de redevabilité publique :
+
+être attribuée ;
+
+être demandée ;
+
+être défendue ;
+
+être contestée ;
+
+produire des conséquences inférentielles ;
+
+être révisée.
+
+
+Ainsi :
+
+> La présence d'un indice ne suffit jamais à produire sa propre justification.
+
+
+
+Cette règle constitue un point d'articulation essentiel entre PROTO et KIN.
+
+
+---
+
+10. Critères d'audit synthétiques
+
+Le dépistage de la dérive indicielle peut être résumé par six critères :
+
+Critère	Question d'audit
+
+Fonction	Quelle activité l'indice permet-il effectivement d'orienter ?
+Ancrage	À quelle pratique située reste-t-il rattaché ?
+Révisabilité	Les conséquences pratiques peuvent-elles modifier la configuration ?
+Ouverture	Le système reste-t-il exposé aux butoirs et aux échecs ?
+Autonomisation	Les indices tendent-ils à se déterminer principalement entre eux ?
+Fétichisation	L'indice est-il traité comme une source autonome de correction ou de justification ?
+
+
+Plusieurs critères peuvent être satisfaits simultanément.
+
+La dérive indicielle n'est donc pas un état binaire, mais une dynamique graduelle d'autonomisation.
+
+
+---
+
+11. Schèmes diagnostiques
+
+Configuration correctement ancrée
+
+> Butoir / situation
+
+↓
+
+Indice
+
+↓
+
+Fonction
+
+↓
+
+Critère
+
+↓
+
+Action / description
+
+↓
+
+Conséquences
+
+↺ Révision possible
+
+
+
+Configuration en dérive
+
+> Indice
+
+↓
+
+Indice
+
+↓
+
+Interprétation
+
+↓
+
+Nouvel indice
+
+↓
+
+Confirmation interne
+
+↺
+
+
+
+Configuration fétichisée
+
+> Indice
+
+↓
+
+« Valeur » supposée intrinsèque
+
+↓
+
+Justification
+
+
+
+Dans ce dernier cas, la médiation par la fonction, le critère et la redevabilité publique est effacée.
+
+
+---
+
+Limites et vigilances
+
+La dérive indicielle ne doit pas être confondue avec :
+
+l'abstraction ;
+
+la symbolisation ;
+
+la complexification sémiotique ;
+
+la récursivité ;
+
+l'autonomie relative d'un système symbolique ;
+
+la formalisation ;
+
+la représentation ;
+
+l'existence de relations entre signes.
+
+
+Une configuration symbolique peut être très éloignée de l'action immédiate tout en demeurant praxiquement et institutionnellement ancrée.
+
+De même, l'existence d'une boucle interne n'implique pas automatiquement une dérive.
+
+Le critère décisif reste :
+
+> la capacité effective de la pratique à soumettre ses configurations indicielles à des fonctions, des critères, des conséquences et des possibilités de révision.
+
+
+
+Il faut également éviter une réduction inverse : réancrer ne signifie pas ramener tout indice à un stimulus physique immédiat.
+
+L'ancrage praxique peut être médiatisé par :
+
+des apprentissages ;
+
+des instruments ;
+
+des pratiques collectives ;
+
+des institutions ;
+
+des configurations relationnelles ;
+
+des langages ;
+
+des normes.
+
+
+L'ancrage n'est donc pas nécessairement physique immédiat.
+
+Il est fonctionnellement traçable dans une pratique.
+
+
+---
+
+Articulation dans l'architecture de Protokin
+
+La dérive indicielle se situe à l'intersection de plusieurs fonctions :
+
+> Corps dans le milieu
+
+↓
+
+Indice
+
+↓
+
+Relation / transformation fonctionnelle
+
+↓
+
+Fonction
+
+↓
+
+Critère
+
+↓
+
+Justification
+
+↓
+
+Révision
+
+
+
+La dérive apparaît lorsque cette articulation se déséquilibre et que la circulation indicielle acquiert une autonomie excessive par rapport aux fonctions qui la rendent pertinente.
+
+Elle constitue ainsi un objet transversal d'audit, plutôt qu'un concept appartenant exclusivement au PROTO ou au KIN.
+
+
+---
+
+Relations avec les autres pages
+
+S'appuie sur
+
+indice.md
+
+indice-arbitraire.md
+
+indice-arbitraire-et-ancrage-praxique.md
+
+fonctions-descriptives.md
+
+criteres.md
+
+raisons.md
+
+espace-des-raisons.md
+
+
+Prolonge
+
+l'analyse de l'indice ;
+
+l'analyse de l'indice arbitraire ;
+
+l'analyse de l'ancrage praxique ;
+
+l'analyse de la transformation des fonctions de stimulus.
+
+
+Rend possible
+
+le diagnostic des régimes indiciels fermés ;
+
+l'identification des phénomènes de fétichisation ;
+
+l'audit des dispositifs techniques fortement sémiotisés ;
+
+l'analyse des ruptures entre fonction, critère et justification.
+
+
+Ne remplace pas
+
+l'analyse de la fonction de stimulus ;
+
+l'analyse de la RFT ;
+
+l'analyse des critères ;
+
+l'analyse de la justification ;
+
+l'analyse générale des erreurs de catégorie ou des réductions de niveau.
+
+
+
+---
+
+Synthèse finale
+
+Ce que cette page établit
+
+La dérive indicielle est une dynamique d'autonomisation relative d'une configuration d'indices par rapport à la fonction pratique qui lui donne son ancrage.
+
+Elle ne désigne ni l'abstraction ni la complexité sémiotique, mais une désarticulation fonctionnelle.
+
+Ce qu'elle suppose
+
+Elle suppose la distinction entre :
+
+> indice → fonction → critère → raison
+
+
+
+ainsi que la possibilité de maintenir un ancrage praxique révisable.
+
+Ce qu'elle rend possible
+
+Elle fournit un critère d'audit permettant de repérer les configurations dans lesquelles :
+
+> l'indice cesse progressivement d'être un opérateur d'orientation pour devenir le centre autonome d'une dynamique indicielle.
+
+
+
+Le diagnostic peut alors être résumé par la différence entre deux formes :
+
+> Ancrage praxique :
+Indice → Fonction → Critère → Raison → Révision
+
+
+
+> Dérive indicielle :
+Indice → Indice → Indice → ...
+
+
+
+La première maintient la configuration ouverte à la pratique et à la correction ; la seconde tend à faire de la circulation indicielle son propre principe de reproduction.
