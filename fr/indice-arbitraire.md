@@ -88,6 +88,26 @@ Dans l'architecture métathéorique de Protokin, on appelle **indice arbitraire*
 
 ---
 
+### Gradation analytique des rôles fonctionnels
+
+La séquence reliant le contraste matériel à la justification publique ne décrit pas une chaîne de production causale mécanique ni une hiérarchie ontologique, mais une **gradation ordonnée de questions d'enquête** :
+
+$$\text{Indice} \longrightarrow \text{Fonction} \longrightarrow \text{Critère} \longrightarrow \text{Raison}$$
+
+* **Indice** : *« Qu'est-ce qui oriente ou cadre la réponse ? »* — Clé contextuelle ($C_{rel}$ ou $C_{func}$) ou contraste prélevé dans le milieu qui cadre la relation sans constituer un décret normatif.
+* **Fonction** : *« Que fait effectivement ce stimulus dans l'économie de l'organisme ? »* — Modification des dispositions d'action, de vigilance ou de saillance somatique produite chez le vivant en acte.
+* **Critère** : *« Comment qualifier ou évaluer la situation ? »* — Règle locale de correction et de reconnaissance reconnue au sein d'une pratique partagée.
+* **Raison** : *« Qu'est-ce qui justifie ou habilite publiquement cette assertion ? »* — Statut déontique de redevabilité devant les pairs au sein de l'espace des raisons (KIN).
+
+#### Dissociation stricte entre Indice et Fonction
+L'indice et la fonction répondent à deux statuts fonctionnels distincts :
+1. **Un même indice peut acquérir des fonctions différentes** selon l'histoire d'apprentissage, le contexte opératoire et la configuration relationnelle.
+2. **Une même fonction de stimulus peut être produite par des indices différents** (pré-sémiotiques, conventionnels ou instrumentés).
+
+L'indice arbitraire ($C_{rel}$ / $C_{func}$) ne « commande » ni ne prescrit de norme ; il **cadre ou oriente la transformation de fonction** sous des conditions de contexte situées.
+
+---
+
 #### Dimensions constitutives
 
 L'indice arbitraire structure l'émancipation comportementale de l'organisme à travers trois dimensions analytiques coordonnées :
