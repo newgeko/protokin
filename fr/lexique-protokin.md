@@ -201,7 +201,7 @@ eq\; 	ext{Raison/Norme}$$
 
 #### Configuration rencontrée
 **Section : 03 — Fondements descriptifs (`configuration-rencontree.md`)**  
-**Fonction :** Organisation dynamique, située et pré-sémiotique du milieu tel qu'il est éprouvé dans le couplage perception-action d'un organisme (*Content Layer*), constituant le fond pratique matériel à partir duquel des différences émergent avant toute catégorisation linguistique.  
+**Fonction :** Organisation dynamique, située et pré-sémiotique du milieu tel qu'il est éprouvé dans le couplage perception-action d'un organisme, constituant le fond pratique matériel à partir duquel des différences émergent avant toute catégorisation linguistique.  
 **Dimensions :**
 * L'amont pré-sémiotique et pré-conceptuel de l'expérience.
 * Le champ de résistances physiques et d'affordances écologiques.
