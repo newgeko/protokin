@@ -103,7 +103,6 @@
 | Objet descriptif | Définir l'invariant relationnel stabilisé à la convergence des rituels de preuve. | [objet-descriptif.md](objet-descriptif.md) |
 | Niveau descriptif | Définir les différentes échelles analytiques pour éviter les confusions de plans. | [niveau-descriptif.md](niveau-descriptif.md) |
 | Régime descriptif | Définir le cadre normatif global d'évaluation et de justification publique. | [regime-descriptif.md](regime-descriptif.md) |
-C
 
 ---
 
