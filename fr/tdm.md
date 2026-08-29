@@ -58,35 +58,52 @@
 ### 03 — Fondements descriptifs
 **Fonction générale :** Construire progressivement ce qu'est une description et les conditions qui la rendent possible, depuis l'ancrage somatique et perceptif jusqu'à la configuration descriptive.
 
+##### 03 — Fondements descriptifs
+**Fonction générale :** Construire progressivement ce qu'est une description et les conditions matérielles, comportementales et normatives qui la rendent possible, depuis l'ancrage somatique et perceptif jusqu'à la stabilisation des régimes de justification.
+
 | Titre | Fonction | Fichier |
-| --- | --- | --- |
-| 03 - Fondements descriptifs | Introduire les fondements descriptifs et leur fonction dans l'architecture. | 03-fondements-descriptifs.md |
-| Introduction aux configurations | Poser la configuration comme unité minimale d'analyse relationnelle. | introduction-configuration.md |
-| Configuration rencontrée | Définir ce qui est rencontré avant toute description. | configuration-rencontree.md |
-| Différence rencontrée | Définir la genèse émergente des contrastes dans le couplage organisme-milieu. | difference-rencontree.md |
-| Sens, corps, différence au signe | Établir la genèse somatique, sensorimotrice et énactive par laquelle des variations du milieu deviennent des différences partageables. | sens-corps-difference-au-signe.md |
-| Entrée perceptive et RDRD | Formaliser la capture des contrastes matériels par les dispositions réactives. | rdrd-et-entree-perceptive.md |
-| Butoir | Définir les contraintes de résistance biophysique et les opérateurs de clôture normative. | butoir.md |
-| Intra-action | Définir la genèse relationnelle constitutive organisme-milieu, antérieure à la coupure sujet/objet. | intra-action.md |
-| Niche biologique | Définir le domaine d'interactions co-construit et réglé par les butoirs du milieu. | niche-biologique.md |
-| Trace matérielle | Définir l'empreinte physique passive avant sa sélection attentionnelle comme indice. | trace.md |
-| Configuration mathématique | Régime et formalisme des configurations relationnelles abstraites. | configuration-mathematique.md |
-| Description | Définir l'acte et le produit élémentaire de qualification d'une différence. | description.md |
-| L'indice | Définir l'indice comme transition attentionnelle reliant la trace matérielle passive (PROTO) au signe d'aval (KIN). | indice.md |
-| Configuration sémiotique | Définir l'organisation des différences devenues partageables. | configuration-semiotique.md |
-| Support descriptif | Définir les médiations matérielles, sémiotiques et institutionnelles des descriptions. | support-descriptif.md |
-| Configuration descriptive | Définir l'organisation relationnelle des descriptions. | configuration-descriptive.md |
-| Fonctions descriptives | Présenter les fonctions constitutives de la description. | fonctions-descriptives.md |
-| Qualification | Définir l'opération de qualification. | qualification.md |
-| Prédication | Définir la fonction de prédication. | predication.md |
-| Catégories | Définir les catégories descriptives. | categories.md |
-| Critères | Définir les critères descriptifs permettant l'application des catégories. | criteres.md |
-| Taxonomies | Définir l'organisation des catégories au sein d'un régime descriptif. | taxonomies.md |
-| De la notion au concept | Analyser le passage de la saisie immersive à la catégorie explicitée et normée par l'enquête. | de-la-notion-au-concept.md |
-| Objet descriptif | Définir l'objet tel qu'il est constitué par une description. | objet-descriptif.md |
-| Niveau descriptif | Définir les différents niveaux d'organisation des descriptions. | niveau-descriptif.md |
-| Régime descriptif | Définir les régimes descriptifs comme cadres de production et d'évaluation des descriptions. | regime-descriptif.md |
-| Amnésie somatique | Identifier la pathologie d'effacement du support corporel de la description. | amnesie-somatique.md |
+| :--- | :--- | :--- |
+| **03 - Fondements descriptifs** | Introduire la section et son rôle d'armature conceptuelle de premier ordre. | [03-fondements-descriptifs.md](03-fondements-descriptifs.md) |
+| **Introduction aux configurations** | Poser la configuration comme unité minimale d'analyse relationnelle. | [introduction-configuration.md](introduction-configuration.md) |
+| **Phase A : L'ancrage somatique** | **Le fonctionnement biologique du vivant couplé à son milieu (PROTO)** | |
+| Configuration rencontrée | Définir le milieu éprouvé dans l'interaction avant toute catégorisation. | [configuration-rencontree.md](configuration-rencontree.md) |
+| Différence rencontrée | Définir la première émergence contrastive dans la relation de couplage. | [difference-rencontree.md](difference-rencontree.md) |
+| Transduction sélective | Modéliser le filtrage sensoriel qui extrait les variations physiques du milieu. | [transduction-selective-et-ancrage-somatique.md](transduction-selective-et-ancrage-somatique.md) |
+| Du corps au signe | Reconstruire la genèse sensorimotrice, extéroceptive et intéroceptive des différences. | [sens-corps-difference-au-signe.md](sens-corps-difference-au-signe.md) |
+| Attention organique | Établir le statut de la sélection attentionnelle et sensorimotrice active d'amont. | [attention-organique.md](attention-organique.md) |
+| Entrée perceptive et RDRD | Formaliser la capture des contrastes physiques par les dispositions réactives. | [rdrd-et-entree-perceptive.md](rdrd-et-entree-perceptive.md) |
+| Butoir | Définir les contraintes de résistance biophysique (stoppers) du milieu. | [butoir.md](butoir.md) |
+| Trace matérielle | Définir l'empreinte physique passive avant sa réactivation attentionnelle. | [trace.md](trace.md) |
+| Intra-action | Penser les frontières organisme-milieu comme des effets de relation. | [intra-action.md](intra-action.md) |
+| Niche biologique | Définir le domaine d'interactions co-construit et réglé par les butoirs. | [niche-biologique.md](niche-biologique.md) |
+| **Phase B : La transduction relationnelle** | **L'émancipation du sensible sous le guidage de la RFT / AARR** | |
+| L'indice | Définir l'indice comme transition attentionnelle et d'orientation corporelle. | [indice.md](indice.md) |
+| L'indice arbitraire | Établir le statut de la clé contextuelle ($C_{rel}$ / $C_{func}$) régissant le cadrage. | [indice-arbitraire.md](indice-arbitraire.md) |
+| Indice arbitraire et praxis | Garantir que le cadrage relationnel reste rattachable à une fonction d'usage. | [indice-arbitraire-et-ancrage-praxique.md](indice-arbitraire-et-ancrage-praxique.md) |
+| Inférence mutuelle (RFT) | Modéliser la dérivation autonome et bidirectionnelle simple d'équivalence. | [inference-mutuelle.md](inference-mutuelle.md) |
+| Inférence combinatoire (RFT) | Modéliser la dérivation croisée triatrique à la base des taxonomies. | [inference-combinatoire.md](inference-combinatoire.md) |
+| Transformation de fonction | Spécifier la modification de valence somatique par insertion relationnelle. | [transformation-de-fonction-de-stimulus.md](transformation-de-fonction-de-stimulus.md) |
+| Sensibilité aux abstractions | Expliquer comment le corps réagit physiquement à des réseaux symboliques. | [sensibilite-corporelle-aux-abstractions.md](sensibilite-corporelle-aux-abstractions.md) |
+| **Phase C : La stabilisation sémiotique** | **L'objectivation et la conservation matérielle des inscriptions** | |
+| Configuration sémiotique | Définir l'organisation et la stabilisation des différences devenues partageables. | [configuration-semiotique.md](configuration-semiotique.md) |
+| Support descriptif | Définir l'épaisseur matérielle, somatique et institutionnelle des descriptions. | [support-descriptif.md](support-descriptif.md) |
+| Amnésie somatique | Dépister l'effacement idéaliste du corps et de l'épaisseur du support. | [amnesie-somatique.md](amnesie-somatique.md) |
+| Anaphore | Assurer le transport et le maintien de la référence déictique d'amont. | [anaphore.md](anaphore.md) |
+| Triade sémantique (ISA) | Structurer les liens de signification (Inférence, Substitution, Anaphore). | [triade-semantique-de-base.md](triade-semantique-de-base.md) |
+| **Phase D : La clôture normative** | **L'organisation de la redevabilité collective (KIN)** | |
+| Configuration descriptive | Définir l'organisation relationnelle et holistique des possibles de dicibilité. | [configuration-descriptive.md](configuration-descriptive.md) |
+| Configuration mathématique | Régime et formalisme des configurations relationnelles formelles pures. | [configuration-mathematique.md](configuration-mathematique.md) |
+| De la notion au concept | Analyser la formalisation des catégories et critères par l'enquête. | [de-la-notion-au-concept.md](de-la-notion-au-concept.md) |
+| Fonctions descriptives | Présenter les fonctions constitutives de la performance discursive. | [fonctions-descriptives.md](fonctions-descriptives.md) |
+| Prédication | Définir l'opération d'attribution d'une propriété ou relation à un repère. | [predication.md](predication.md) |
+| Qualification | Définir l'attribution d'un statut normatif global engageant la redevabilité. | [qualification.md](qualification.md) |
+| Catégories | Définir les divisions conceptuelles disponibles pour ordonner l'expérience. | [categories.md](categories.md) |
+| Critères | Définir les conditions normatives publiques qui règlent la correction. | [criteres.md](criteres.md) |
+| Taxonomies | Définir l'organisation hiérarchique et d'inclusion des catégories d'un régime. | [taxonomies.md](taxonomies.md) |
+| Objet descriptif | Définir l'invariant relationnel stabilisé à la convergence des rituels de preuve. | [objet-descriptif.md](objet-descriptif.md) |
+| Niveau descriptif | Définir les différentes échelles analytiques pour éviter les confusions de plans. | [niveau-descriptif.md](niveau-descriptif.md) |
+| Régime descriptif | Définir le cadre normatif global d'évaluation et de justification publique. | [regime-descriptif.md](regime-descriptif.md) |
+C
 
 ---
 
