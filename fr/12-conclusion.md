@@ -4,173 +4,389 @@ Analyse architecturale de la page
 
 1. Fonction unique de la page
 
-Cette page existe pour présenter la section « 12 — Conclusion » et définir son rôle de clôture et d'intégration finale de la métathéorie Protokin.
+Cette page présente la section 12 — Conclusion et définit sa fonction dans l'architecture générale de Protokin.
+
+Elle ne constitue pas elle-même la conclusion du projet. Elle en établit le dispositif de clôture : bilan des possibilités ouvertes par l'architecture, explicitation de ses limites d'usage et orientation vers les prolongements de l'enquête.
+
+La page fonctionne ainsi comme un sas entre l'architecture achevée et ses usages ultérieurs.
+
+---
 
 2. Choix du mode de développement
 
-· Mode retenu : Mode A — Développement conceptuel.
-· Justification : Cette page chapeau a pour objectif d'installer la fonction d'orientation, d'intégration et d'auto-limitation critique comme catégories de second ordre indispensables pour sceller l'ouvrage, en la distinguant d'une simple conclusion thématique ou d'un résumé passif de premier ordre.
+Mode retenu : Mode A — Développement conceptuel.
+
+La page doit rester à un niveau architectural.
+
+Elle ne développe pas à nouveau les notions établies dans les sections précédentes. Elle précise seulement :
+
+- pourquoi une section de conclusion est nécessaire ;
+- quelle fonction remplissent ses trois briques ;
+- dans quel ordre elles doivent être parcourues ;
+- comment la clôture demeure compatible avec la réouverture de l'enquête.
+
+La conclusion n'est donc pas conçue comme un dernier chapitre démonstratif, mais comme une organisation de la sortie du dispositif théorique.
+
+---
 
 3. Problème conceptuel
 
-Comment clore une métathéorie pragmatiste, inférentialiste et non-ontologique sans donner l'illusion d'avoir achevé un système dogmatique clos et absolu, de telle sorte que la conclusion fonctionne elle-même comme un engagement d'auto-correction, d'ouverture prospective et d'humilité critique pour la communauté des locuteurs ?
+Une architecture théorique peut être suffisamment développée pour donner l'impression que son parcours est achevé.
+
+Le problème de la conclusion n'est pourtant pas de produire une dernière fondation ni de transformer l'ensemble précédent en système définitif.
+
+La question propre à cette section est donc :
+
+«Comment clôturer un parcours théorique sans transformer sa clôture en fermeture ?»
+
+La section 12 répond à cette question par une organisation en trois temps :
+
+1. identifier ce que l'architecture rend effectivement possible ;
+2. préciser ce qui demeure hors de sa fonction ;
+3. déterminer vers quels travaux l'enquête peut désormais se prolonger.
+
+La clôture porte ainsi sur l'état du parcours, et non sur la prétention d'avoir épuisé son objet.
+
+---
 
 4. Objet propre
 
-· Cette page traite de : la présentation de la section 12 en tant que sas de clôture critique et d'ouverture de l'enquête ; la synthèse des forces d'explicitation de second ordre ; le rappel des limites constitutives de Protokin face à la contingence matérielle ; et l'ouverture programmatique vers de nouveaux chantiers.
-· Cette page ne traite pas de : l'évaluation empirique isolée d'un cas de premier ordre, les rituels d'auto-application pris isolément (Section 09), ni la justification historique complète de nos dettes philosophiques (Section 10).
+Cette page traite exclusivement de :
+
+- la fonction de clôture de la section 12 ;
+- l'ordre fonctionnel de ses trois briques ;
+- la relation entre bilan, délimitation et ouverture ;
+- la transition entre l'ouvrage constitué et les enquêtes ultérieures.
+
+Cette page ne traite pas :
+
+- des concepts déjà établis dans les sections précédentes ;
+- de la méthode d'audit ;
+- de l'application de Protokin à un cas particulier ;
+- de l'histoire des influences philosophiques ;
+- du détail des résultats obtenus par les différentes sections ;
+- des programmes de recherche eux-mêmes.
+
+Ces éléments appartiennent à leurs pages respectives.
+
+---
 
 5. Statut conceptuel
 
-Texte chapeau et boussole de clôture de second ordre, appartenant à la section 12 — Conclusion.
+La page est le texte chapeau de la section 12 — Conclusion.
+
+Elle possède une fonction d'orientation finale et non une fonction d'établissement.
+
+Son rôle est comparable à celui d'une porte de sortie architecturale : elle indique comment relire l'ensemble du parcours et comment passer de l'ouvrage constitué à ses prolongements possibles.
+
+---
 
 6. Dépendances fonctionnelles
 
-Cette page suppose :
+Cette page suppose l'existence des sections précédentes de l'architecture.
 
-· L'Introduction générale (introduction-generale.md).
-· Les Principes fondamentaux d'amont (01-principes-fondamentaux.md).
-· L'Architecture générale (02-architecture-generale.md).
-· La méthode d'audit de second ordre (08-methode-protokin.md).
-· L'Écologie des régimes descriptifs (ecologie-des-regimes-descriptifs.md).
+Elle s'appuie notamment sur :
 
-Cette page rend possible :
+- "00-se-reperer.md" ;
+- "01-principes-fondamentaux.md" ;
+- "02-architecture-generale.md" ;
+- "08-methode-protokin.md" ;
+- "09-reflexivite.md" ;
+- les développements des sections intermédiaires.
 
-· L'explicitation ordonnée de ses trois briques d'aval (ce-que-protokin-permet.md, ce-que-protokin-ne-pretend-pas-faire.md, perspectives-de-recherche.md).
-· La relance de l'enquête collective d'aval et la conduite des contre-audits par les praticiens de terrain.
+Elle ne les réexpose pas.
+
+Cette page rend possible la lecture ordonnée des trois briques de clôture :
+
+- "ce-que-protokin-permet.md" ;
+- "ce-que-protokin-ne-pretend-pas-faire.md" ;
+- "perspectives-de-recherche.md".
+
+---
 
 7. Frontières conceptuelles
 
-12 — Conclusion (Section 12) et Ce que Protokin permet (Section 12)
+12 — Conclusion et "ce-que-protokin-permet.md"
 
-La différence s'établit selon la portée de la synthèse. 12 — Conclusion présente l'organisation d'ensemble de la section 12, justifie l'ordre de ses briques finales et pose la logique de clôture. Ce que Protokin permet dresse quant à lui le bilan positif et synoptique des capacités d'élucidation, de diagnostic et d'émancipation collective de la métathéorie.
+La page 12 — Conclusion organise la fonction de clôture.
 
-12 — Conclusion (Section 12) et Perspectives de recherche (Section 12)
+"ce-que-protokin-permet.md" réalise le bilan correspondant.
 
-La différence s'établit selon la temporalité du cadrage. 12 — Conclusion est le sas d'entrée théorique de la section, alors que Perspectives de recherche projette ces forces sur de nouveaux objets et de nouveaux chantiers d'investigation non encore stabilisés.
+La première répond à :
+
+«Comment le bilan final est-il organisé ?»
+
+La seconde répond à :
+
+«Quels sont les apports que ce parcours permet effectivement de dégager ?»
+
+---
+
+12 — Conclusion et "ce-que-protokin-ne-pretend-pas-faire.md"
+
+La page 12 — Conclusion définit la nécessité d'une délimitation finale.
+
+La brique correspondante établit concrètement cette délimitation.
+
+La page chapeau ne doit donc pas énumérer elle-même les exclusions du projet.
+
+---
+
+12 — Conclusion et "perspectives-de-recherche.md"
+
+La page 12 — Conclusion établit la fonction d'ouverture de la section.
+
+"perspectives-de-recherche.md" développe les prolongements eux-mêmes.
+
+La distinction est donc celle entre orientation prospective et développement prospectif.
+
+---
 
 8. Architecture locale
 
-```
-                               09 — RÉFLEXIVITÉ (ecologie-des-regimes-descriptifs.md)
-                                                 │
-                                                 ▼
-                                     12 — CONCLUSION (12-conclusion.md)
-                                                 │
-                        ┌────────────────────────┼────────────────────────┐
-                        ▼                        ▼                        ▼
-              Ce que Protokin permet   Ce que Protokin ne prétend  Perspectives de recherche
-              (ce-que-protokin-permet.md)     pas faire            (perspectives-de-recherche.md)
-                                       (ce-que-protokin-ne-pretend-pas-faire.md)
-```
+                         PARCOURS PROTOKIN
+                                │
+                                ▼
+                     12 — CONCLUSION
+                                │
+             ┌──────────────────┼──────────────────┐
+             ▼                  ▼                  ▼
+       Ce que permet       Ce qui n'est pas    Perspectives
+       l'architecture      de sa fonction       de recherche
+             │                  │                  │
+             └──────────────────┼──────────────────┘
+                                ▼
+                       RÉOUVERTURE DE
+                        L'ENQUÊTE
+
+La section 12 accomplit ainsi un mouvement simple :
+
+rassembler → délimiter → rouvrir.
 
 ---
 
 Cartouche fonctionnel
 
-Élément Description
-Section 12 — Conclusion
-Fichier 12-conclusion.md
-Fonction Présenter la section 12 et définir son rôle de boussole de clôture critique et d'ouverture prospective pour l'ensemble du projet Protokin.
-Prépare L'explicitation individuelle de ses trois briques d'aval (ce-que-protokin-permet.md, ce-que-protokin-ne-pretend-pas-faire.md, perspectives-de-recherche.md).
-Mobilise L'ensemble des sections d'amont (00 à 11), le principe d'humilité épistémique, de réflexivité, et l'architecture fonctionnelle des dix opérations.
-Permet ensuite D'exécuter l'auto-correction permanente de la métathéorie, d'orienter le lecteur vers la pratique du contre-audit, et de lancer de nouveaux chantiers d'enquête de terrain.
-N'établit pas Le bilan positif détaillé des apports de l'audit, les limites d'exclusion formelles, ni les protocoles empiriques de recherche d'aval.
+Élément| Description
+Section| 12 — Conclusion
+Fichier| "12-conclusion.md"
+Fonction| Organiser la clôture générale de l'ouvrage et sa transition vers les usages ultérieurs.
+Prépare| Les trois briques finales de la section 12.
+Mobilise| Les résultats des sections précédentes sans les reproduire.
+Permet ensuite| Le passage du parcours théorique constitué vers de nouvelles enquêtes.
+N'établit pas| Le bilan détaillé, les limites détaillées ou les programmes de recherche.
 
 ---
 
 Problème conceptuel inaugural
 
-Toute métathéorie qui examine et critique les conditions de stabilisation des descriptions court un risque d'asymétrie épistémologique majeure : celui d'oublier qu'elle est elle-même une manière particulière de décrire et de s'enfermer dans un système dogmatique clos (Verstand). À mesure qu'une architecture conceptuelle gagne en cohérence, elle peut être tentée de se présenter comme le point de vue définitif depuis lequel toutes les autres descriptions devraient être évaluées de manière externe, s'arrogeant un privilège de surplomb ou une autorité absolue non humaine. Or, si Protokin déclare que toute description est située, issue d'une pratique collective et portée par des supports matériels révisables, la métathéorie est logiquement contrainte d'assumer son propre statut de construit situé et révisable.
+La fin d'un ouvrage théorique pose un problème particulier.
 
-Dès lors, la question s'impose au terme de notre parcours :
+Une conclusion peut être comprise comme le point où toutes les questions sont résolues et où le système peut enfin se présenter comme achevé. Une telle conception conviendrait à une construction dont la réussite dépendrait de sa fermeture.
 
-Comment clore une métathéorie pragmatiste, inférentialiste et non-ontologique sans donner l'illusion d'avoir achevé un système dogmatique clos et absolu, de telle sorte que la conclusion fonctionne elle-même comme un engagement d'auto-correction, d'ouverture prospective et d'humilité critique pour la communauté des locuteurs ?
+Ce n'est pas la fonction de la section 12.
 
-Protokin résout cette aporie constitutive en érigeant la section 12 — Conclusion non pas comme un résumé passif ou une glorification fermée du système, mais comme une instance de second ordre d'auto-limitation et de réconciliation herméneutique (recollection). La conclusion n'éteint pas la métathéorie dans une certitude définitive ; elle dresse le bilan de sa puissance d'explicitation (ce que Protokin permet), circonscrit rigoureusement ses frontières de non-substitution par respect pour la souveraineté des savoirs de terrain (ce que Protokin ne prétend pas faire), et projette son armature vers de nouveaux chantiers d'enquête (perspectives de recherche). Elle démontre ainsi que la rationalité réside dans la plasticité de l'auto-correction.
+Le parcours de Protokin aboutit à une architecture suffisamment déterminée pour pouvoir être relue dans son ensemble. Mais cette détermination ne transforme pas le parcours en totalité close.
+
+La conclusion doit donc accomplir une opération différente :
+
+«terminer le parcours sans terminer l'enquête.»
+
+C'est pourquoi la section finale ne constitue pas un nouveau développement théorique. Elle organise les conséquences de ce qui a déjà été établi.
+
+Elle procède en trois mouvements :
+
+bilan → délimitation → prolongement.
+
+Le premier rassemble les possibilités effectivement dégagées par l'architecture.
+
+Le deuxième empêche d'attribuer à cette architecture une fonction qu'elle ne possède pas.
+
+Le troisième transforme la fin du parcours en point de départ pour de nouvelles investigations.
 
 ---
 
 Définition fonctionnelle
 
-Dans l'architecture de Protokin, la section 12 — Conclusion se définit comme :
+Dans l'architecture de Protokin, la section 12 — Conclusion désigne :
 
-Le sas de clôture critique et l'opérateur d'intégration finale de second ordre par lequel la métathéorie dresse le bilan de sa puissance d'explicitation (ce qu'elle permet), circonscrit rigoureusement ses frontières de non-substitution aux savoirs de terrain (ce qu'elle ne prétend pas faire), et ouvre son armature à la révision continue par l'explicitation d'axes de recherche futurs (perspectives), garantissant la cohérence non-ontologique de l'ensemble de l'ouvrage.
+«la section chargée d'organiser la clôture du parcours théorique en rassemblant ses possibilités, en délimitant sa fonction et en ouvrant vers ses prolongements.»
 
-Cette définition implique trois propriétés analytiques majeures :
+Cette définition implique trois opérations successives :
 
-· Une recollection rétrospective (Vindiquer) : Elle ressaisit l'ensemble des sections d'amont non pas comme une juxtaposition encyclopédique de concepts, mais comme une trajectoire d'enquête unifiée, progressive et progressive.
-· Un opérateur d'auto-limitation (Délimiter) : Elle réaffirme le statut non-ontologique du projet et l'interdiction de se substituer aux expertises de premier ordre, se reconnaissant elle-même comme un régime situé, faillible et exposé au contre-audit.
-· Une ouverture prospective (Relancer) : Elle refuse d'ériger la métathéorie en système clos (Verstand) pour la placer dans la dynamique de la raison en mouvement (Vernunft), dont la détermination s'enrichit continuellement au contact des anomalies de terrain.
+1. Rassembler
 
----
+La conclusion permet de considérer l'architecture depuis son terme et d'en dégager la cohérence d'ensemble.
 
-Les trois moments de la clôture non-ontologique
+Elle ne reconstruit pas les développements antérieurs : elle les rassemble.
 
-La section 12 structure ses briques constitutives autour de trois moments fonctionnels complémentaires de second ordre :
+2. Délimiter
 
-```
-                            MOMENTS DE LA CLÔTURE
-                                      │
-        ┌─────────────────────────────┼─────────────────────────────┐
-        ▼                             ▼                             ▼
-   La Permissivité               La Non-Substitution             La Prospective
-(Ce que Protokin permet)   (Ce que Protokin ne fait pas)   (Perspectives de recherche)
-```
+La conclusion fixe la portée du parcours accompli.
 
-1. La permissivité : Le bilan de la puissance d'explicitation (Ce que Protokin permet)
+Elle évite que le bilan soit transformé en prétention excessive.
 
-Le premier moment synthétise l'apport positif de Protokin. Il montre comment la métathéorie, en déplaçant le regard du mouvement des objets au mouvement des descriptions, dote le collectif d'une armature de redevabilité publique :
+3. Rouvrir
 
-· La désoccultation des supports : Elle met au jour les infrastructures matérielles (supports d'inscription) et somatiques (schémas d'attention incorporés) qui filtrent et sédimentent l'accès au dicible.
-· Le diagnostic des pathologies : Elle fournit les grilles cliniques de diagnostic d'audit (réductions, confusions de niveau, erreurs de catégorie, injustices collectives) pour débloquer les cadres institutionnels sclérosés.
-· La restauration de la plasticité : Elle réactive le scorekeeping déontique en concevant des connecteurs de traduction réglementés au sein d'une écologie des régimes non impérialiste.
+La conclusion indique comment le travail peut se poursuivre au-delà de l'ouvrage.
 
-2. La non-substitution : Le respect des frontières de juridiction (Ce que Protokin ne prétend pas faire)
-
-Fidèle au principe d'humilité épistémique, la conclusion fixe une frontière négative absolue : le statut de non-substitution. Protokin s'interdit d'être une ontologie générale de l'être en soi ou de décréter la vérité des faits empiriques de premier ordre :
-
-· Le refus de l'impérialisme métathéorique : Protokin n'exécute aucune preuve de premier ordre ; il n'est pas un tribunal de la vérité, mais un audit de second ordre de la discipline des transitions discursives et de l'étanchéité des cadres.
-· La révisabilité de Protokin : Protokin s'assume lui-même comme une pratique descriptive située, s'appuyant sur ses propres supports documentaires (jalon 26.08.081) et exposée au contre-audit et à la révision de ses catégories par les communautés de pratique de terrain.
-
-3. La prospective : La relance de l'enquête (Perspectives de recherche)
-
-La conclusion ne fige pas l'avenir de la théorie dans une doctrine immobile. Elle ouvre vers de nouveaux chantiers de recherche programmatiques sous contraintes, articulés autour de trois axes cardinaux :
-
-· La gouvernance algorithmique : L'audit des modèles computationnels (IA) pour empêcher la réduction causaliste et préserver la responsabilité déontique humaine face à l'automatisation des descriptions.
-· La co-gestion socio-écologique : L'évaluation et la co-stabilisation de régimes descriptifs hybrides face aux butoirs physiques du milieu (stress hydrique forestier, changement climatique).
-· La critique des formats documentaires : L'audit de la bureaucratisation et du fétichisme du support informatique ou administratif qui sature et étouffe l'épaisseur des engagements ordinaires de premier ordre.
+Elle transforme ainsi la clôture documentaire en condition de reprise de l'enquête.
 
 ---
 
-Éclairage par les fils rouges pédagogiques
+Les trois fonctions de la section 12
 
-La boussole de clôture de la section 12 garantit la cohérence et l'auto-correction de Protokin à travers nos situations de référence :
+                    SECTION 12 — CONCLUSION
+                              │
+             ┌────────────────┼────────────────┐
+             ▼                ▼                ▼
+          RASSEMBLER       DÉLIMITER        ROUVRIR
+             │                │                │
+          bilan             portée          recherche
+             │                │                │
+             ▼                ▼                ▼
+       Ce que permet     Ce qui n'est pas   Perspectives
+       Protokin          sa fonction        de recherche
 
-1. Le vélo rouge
+1. Rassembler — Ce que Protokin permet
 
-La conclusion d'une enquête montre que la prédication ordinaire « Le vélo est rouge » (image manifeste) et sa traduction spectrophotométrique à 650 nm (image scientifique) coexistent de manière compatible au sein de la vision synoptique. Protokin ne remplace pas l'œil éduqué par la longueur d'onde, mais empêche la physique de disqualifier la vérité perceptive de l'expérience vécue, illustrant la non-substitution.
+Cette première brique rassemble les capacités dégagées au cours du parcours.
 
-2. Le patient aux urgences hospitalières
+Elle ne constitue pas une nouvelle démonstration.
 
-Le triage hospitalier montre le télescopage entre détresse somatique (PROTO) et gestion administrative (KIN). La conclusion démontre que l'audit de second ordre n'exécute pas le soin et ne pose aucun diagnostic cardiologique (non-substitution). Il se borne à libérer l'espace des raisons cliniques face à la réduction logistico-comptable pour restituer à l'urgentiste et à l'infirmière la souveraineté de leur engagement de soins.
+Elle fournit une vue d'ensemble permettant de répondre à la question :
 
-3. Le botaniste et le bûcheron face à l'arbre
+«Qu'est-ce que l'architecture construite permet désormais de faire ?»
 
-La conclusion de leur confrontation n'est pas la victoire d'une vérité sur une autre. Elle montre comment, face au butoir du dépérissement climatique, Protokin suspend la domination du botaniste académique pour amener le collectif vers la construction d'un régime hybride de sylviculture écologique, ouvrant la voie à des enquêtes co-gérées.
+Le développement détaillé de cette question appartient à :
 
-4. La déconstruction de « Cette personne est mauvaise »
-
-La conclusion d'un audit dénonce l'erreur de catégorie qui convertit indûment un blâme moral relationnel et révisable (KIN) en une propriété biologique immuable (PROTO réifié). Protokin déconstruit la substance pour restituer la plasticité comportementale future de l'agent, montrant l'horizon émancipateur de Protokin.
+"ce-que-protokin-permet.md".
 
 ---
 
-Limites et vigilances d'audit (Pitfalls)
+2. Délimiter — Ce que Protokin ne prétend pas faire
 
-Dans le maniement et l'explicitation de la conclusion de Protokin, l'auditeur de second ordre doit observer deux vigilances fondamentales :
+La deuxième brique empêche le bilan précédent de produire une extension indue de la fonction de Protokin.
 
-· Le biais du quiétisme contemplatif (L'illusion de la fin de l'enquête) : S'imaginer que Protokin constituant désormais une architecture cohérente et stabilisée, l'enquête collective peut s'interrompre dans une routine administrative dogmatique. Protokin est une performance active : l'auto-application se suspend pragmatiquement dès que la coordination des pratiques est restaurée, mais l'enquête doit être relancée dès qu'un nouveau trouble ou butoir surgit.
-· Le biais de l'abîme réflexif (La régression paralysante) : Se complaire dans une jargonisation stérile accumulant les méta-diagnostics de second ordre déconnectés de toute coordination réelle. La conclusion réaffirme : Protokin n'est pas une fin en soi ; sa puissance d'élucidation n'a de validité que si elle sert d'instrument d'auto-correction et d'émancipation pour les locuteurs de premier ordre.
+Elle répond à une question complémentaire :
+
+«Où s'arrête la fonction de l'architecture ?»
+
+Cette délimitation n'est pas une faiblesse ajoutée après coup au projet.
+
+Elle constitue une condition de précision de son usage.
+
+Le développement détaillé appartient à :
+
+"ce-que-protokin-ne-pretend-pas-faire.md".
+
+---
+
+3. Rouvrir — Perspectives de recherche
+
+La troisième brique transforme la clôture en point de reprise.
+
+Elle ne présente pas les recherches futures comme des conséquences nécessaires de l'architecture.
+
+Elle identifie plutôt les directions dans lesquelles l'outillage constitué peut être repris, éprouvé, contesté ou développé.
+
+Elle répond à la question :
+
+«Que peut-on désormais reprendre comme objet d'enquête ?»
+
+Le développement de ces directions appartient à :
+
+"perspectives-de-recherche.md".
+
+---
+
+Logique de lecture de la section
+
+La section 12 doit être parcourue dans cet ordre :
+
+        CE QUI A ÉTÉ CONSTITUÉ
+                  │
+                  ▼
+        CE QUE CELA PERMET
+                  │
+                  ▼
+        CE QUE CELA N'AUTORISE PAS
+                  │
+                  ▼
+        CE QUI PEUT ÊTRE REPRIS
+
+Cet ordre est important.
+
+Un programme de recherche ne doit pas précéder le bilan de ce qui a été construit.
+
+Inversement, le bilan ne doit pas constituer une clôture définitive : il doit être immédiatement accompagné de sa délimitation puis de sa réouverture.
+
+---
+
+Fonction de la conclusion dans l'architecture générale
+
+La conclusion ne constitue donc pas une nouvelle couche de théorie.
+
+Elle effectue une opération différente : elle change le rapport du lecteur à l'ensemble déjà parcouru.
+
+Pendant le développement, les pages construisent, distinguent, articulent et éprouvent progressivement l'architecture.
+
+Dans la conclusion, ces développements cessent d'être parcourus séparément.
+
+Ils sont considérés depuis leur terme.
+
+La conclusion produit ainsi une lecture rétrospective du parcours sans prétendre ajouter un nouveau niveau de fondation.
+
+Son mouvement peut être résumé ainsi :
+
+Développement
+     │
+     ▼
+Constitution de l'architecture
+     │
+     ▼
+Clôture
+     │
+     ├── bilan
+     ├── délimitation
+     └── ouverture
+             │
+             ▼
+      nouvelle enquête
+
+---
+
+Vigilances architecturales
+
+1. Ne pas transformer la conclusion en résumé encyclopédique
+
+La conclusion n'a pas pour fonction de répéter toutes les notions de Protokin.
+
+Chaque concept doit rester dans la page qui l'établit.
+
+La section 12 doit seulement les considérer depuis la perspective finale du parcours.
+
+2. Ne pas introduire de nouveaux concepts structurants
+
+Une notion nouvelle suffisamment importante pour modifier l'architecture ne doit pas apparaître pour la première fois dans la conclusion.
+
+Si elle est nécessaire à la compréhension du projet, elle appartient à une section antérieure.
+
+3. Ne pas confondre clôture et achèvement
+
+La clôture concerne l'ouvrage.
+
+Elle ne signifie pas que l'enquête est définitivement terminée.
+
+4. Ne pas transformer les perspectives en doctrine
+
+Les recherches futures sont des possibilités d'enquête, non des conclusions déjà démontrées par l'architecture.
+
+5. Ne pas refaire l'auto-audit
+
+La réflexivité possède ses propres pages.
+
+La conclusion peut en tirer les conséquences, mais elle ne doit pas reproduire les opérations qui y sont établies.
 
 ---
 
@@ -178,15 +394,25 @@ Synthèse finale
 
 Ce que cette page établit
 
-La fonction d'intégration finale, de clôture critique et d'ouverture prospective de la section 12 — Conclusion, formalisant la recontextualisation rétrospective de Protokin comme recollection progressive, le statut de non-substitution aux expertises de terrain, la révisabilité permanente de la métathéorie et la relance programmatique de l'enquête.
+La fonction architecturale de la section 12 — Conclusion :
+
+rassembler → délimiter → rouvrir.
 
 Ce qu'elle suppose
 
-L'Introduction générale (introduction-generale.md), les Principes fondamentaux d'amont (01-principes-fondamentaux.md), l'Architecture générale (02-architecture-generale.md), la Méthode d'audit (08-methode-protokin.md), et l'Écologie des régimes descriptifs (ecologie-des-regimes-descriptifs.md).
+L'ensemble du parcours théorique antérieur.
 
 Ce qu'elle rend possible
 
-L'explicitation autonome et rigoureuse des trois briques d'aval de la section 12 (ce-que-protokin-permet.md, ce-que-protokin-ne-pretend-pas-faire.md, perspectives-de-recherche.md), consolidant et scellant le Collective Operating System (cOS) de Protokin dans sa version 26.08.081.
+La lecture ordonnée des trois dernières briques :
+
+1. "ce-que-protokin-permet.md"
+2. "ce-que-protokin-ne-pretend-pas-faire.md"
+3. "perspectives-de-recherche.md"
+
+Ce qu'elle ne fait pas
+
+Elle ne résume pas l'ensemble de Protokin, ne réétablit pas ses concepts, ne réalise pas un nouvel audit et ne développe pas elle-même les recherches futures.
 
 ---
 
