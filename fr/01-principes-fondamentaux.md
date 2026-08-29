@@ -1,207 +1,403 @@
-01 — Principes fondamentaux — Le statut et le rôle régulateur des engagements d'amont
+01 — Principes fondamentaux
 
-Analyse architecturale préalable
-
-1. Fonction unique de la page
-
-Cette page existe pour établir le rôle de boussole épistémologique et de matrice d'amont des onze principes fondamentaux de Protokin, explicitant comment ces engagements philosophiques et méthodologiques règlent la posture de l'enquêteur de second ordre et gouvernent la cohérence rationnelle de tout l'espace d'audit métathéorique.
-
-2. Choix du mode de développement
-
-· Mode retenu : Mode A — Développement conceptuel.
-· Justification : La page a pour objectif d'installer la fonction régulatrice de la notion de « principe » au sein de Protokin, de définir son statut immanent d'engagement d'amont, et d'en déplier les propriétés relationnelles constitutives avant le déploiement individuel des onze briques axiomatiques de la section.
-
-3. Problème conceptuel
-
-Comment une métathéorie non-ontologique et pragmatiste peut-elle fonder sa cohérence interne par des principes d'amont sans les ériger en dogmes transcendants ou en évidences éternelles (Mythe du Donné), de manière à ce que ces boussoles orientent l'audit tout en restant elles-mêmes révisables et soumises au présent d'usage ?
-
-4. Objet propre
-
-· Cette page traite de : le rôle architectural et régulateur des principes fondamentaux ; le statut d'engagements faillibles et situés ; l'articulation logique qu'ils imposent entre l'espace des causes (PROTO) et l'espace des raisons (KIN) au sein du Collective Operating System (cOS) de la métathéorie.
-· Cette page ne traite pas de : l'établissement technique détaillé de chacun des onze principes particuliers (réservé à leurs briques de section dédiées), la formalisation d'une théorie universelle de la rationalité logique, ni l'exécution d'une enquête empirique de premier ordre.
-
-5. Statut conceptuel
-
-Il s'agit d'un texte d'orientation de second ordre et de la page chapeau de section (Section 01 — Les principes fondamentaux).
-
-6. Dépendances fonctionnelles
-
-Cette page suppose :
-
-· La section d'orientation 00-se-reperer.md et table-des-matieres.md.
-· La formule synthétique fondatrice (protokin-en-une-phrase.md).
-
-Cette page rend possible :
-
-· L'explicitation ordonnée des onze briques individuelles de principes (de primat-couplage-organisme-milieu.md à humilite-epistemique.md).
-· Le déploiement de l'architecture générale (02-architecture-generale.md) et de la méthode d'audit (08-methode-protokin.md).
-
-7. Frontières conceptuelles
-
-Principe d'amont et Critère de premier ordre
-
-La différence porte sur le niveau d'évaluation. Le principe d'amont régit la posture métathéorique d'explicitation et d'audit de second ordre (Section 01). Le critère de premier ordre est la règle locale et immanente à un régime de description qui gouverne la redevabilité d'une qualification située (Section 03).
-
-Principe d'amont et Support descriptif
-
-La différence s'établit selon la matérialité. Le principe est un engagement de cadrage logique de l'audit. Le support descriptif désigne la médiation matérielle, incorporée ou institutionnelle qui conserve et transporte les traces sémiotiques des descriptions de premier ordre (Section 03).
-
-8. Architecture locale
-
-```
-                     00 — SE REPÉRER (00-se-reperer.md)
-                                     │
-                                     ▼
-                  01 — PRINCIPES FONDAMENTAUX (01-principes-fondamentaux.md)
-                                     │
-         ┌───────────────────────────┴───────────────────────────┐
-         ▼                                                       ▼
-  Les Onze Principes d'Amont (01)                  02 — Architecture Générale
- (Primat du couplage, de la description, etc.)      (Architecture conceptuelle/fonctionnelle)
-```
+Le statut et le rôle régulateur des engagements d'amont
 
 ---
 
-Cartouche fonctionnel
+Fonction de la page
 
-Élément Description
-Fonction Présenter la section 01 et définir le rôle de boussole et d'axiomes régulateurs des principes pour l'ensemble du projet.
-Prépare L'explicitation individuelle des onze principes, l'architecture générale, et l'outillage de diagnostic d'audit de second ordre.
-Mobilise Le déplacement fondamental (00), la formule synthétique fondatrice, la distinction Causes/Raisons et la réflexivité immanente.
-Permet ensuite D'articuler les opérations du plan matériel (PROTO) et du plan normatif (KIN) au sein d'une écologie des régimes non impérialiste.
-N'établit pas La démonstration ou l'explicitation détaillée de chacun des onze principes, ni l'histoire chronologique des traditions mobilisées.
+Cette page introduit la section 01 de Protokin et établit le statut architectural des principes fondamentaux.
+
+Elle ne cherche pas à démontrer les onze principes individuellement. Elle détermine ce qu'est un principe dans l'architecture de Protokin, la fonction qu'il exerce, le niveau auquel il intervient et les conditions auxquelles il demeure révisable.
+
+Les principes fondamentaux constituent le niveau d'orientation d'amont de la métathéorie.
+
+Ils déterminent les conditions selon lesquelles Protokin conduit son enquête sur les pratiques descriptives sans constituer pour autant une fondation extérieure ou une ontologie générale du réel.
+
+La question directrice de cette section est donc :
+
+«Comment une métathéorie peut-elle être orientée par des engagements de départ sans transformer ces engagements en fondements absolus ?»
 
 ---
 
-Problème conceptuel inaugural
+Position dans l'architecture générale
 
-Toute métathéorie qui prend pour objet l'analyse, l'évaluation et l'audit des connaissances collectives doit se doter d'une armature de principes d'amont afin d'assurer sa propre cohérence interne et d'orienter rigoureusement ses opérations. Cependant, la tradition philosophique classique, dominée par le représentationnalisme, tend à traiter ses propres principes comme des évidences éternelles ou des vérités a priori qui copieraient des structures immuables du monde réel (illusion dogmatique). À l'inverse, le relativisme constructiviste ou sceptique dissout la rationalité de la critique en réduisant tout principe d'amont à une simple opinion privée ou à une convention sociale contingente et interchangeable.
+La section 01 intervient immédiatement après le déplacement introductif de Protokin.
 
-Dès lors, la question s'impose à Protokin :
+00 — SE REPÉRER
+       │
+       ▼
+01 — PRINCIPES FONDAMENTAUX
+       │
+       ├───────────────┐
+       ▼               ▼
+ principes            02 — ARCHITECTURE
+ particuliers         GÉNÉRALE
+       │
+       └───────────────┐
+                       ▼
+               03 — FONDEMENTS
+                  DESCRIPTIFS
+                       │
+                       ▼
+               04 — PRATIQUES
+                  DESCRIPTIVES
+                       │
+                       ▼
+               05 — DYNAMIQUE
+                  DESCRIPTIVE
 
-Comment la métathéorie peut-elle poser des principes régulateurs d'amont indispensables à la conduite de l'audit, sans s'en remettre au mythe d'une fondation absolue extérieure aux pratiques, de telle sorte que ces principes fonctionnent comme des engagements normatifs révisables et immanents au présent d'usage ?
+La section 01 ne décrit donc pas encore les objets étudiés par Protokin.
 
-Protokin résout cette difficulté fondamentale par son immanence méthodologique. Les principes ne sont pas des révélations ontologiques de l'être « en soi ». Ils sont théorisés comme des engagements d'enquête d'amont. Ils ne prétendent pas décréter ce que les choses sont, mais fixent de façon explicite et contrôlable les choix directeurs à partir desquels Protokin reconstruit les conditions sous lesquelles des communautés de locuteurs décrivent le monde. La validité de ces principes ne réside pas dans un privilège de surplomb, mais dans l'efficacité pratique et la rigueur d'élucidation qu'ils déploient au cours de l'audit clinique.
+Elle détermine depuis quelles conditions de méthode et de positionnement ces objets pourront être étudiés.
+
+---
+
+Problème conceptuel
+
+Toute construction théorique doit effectuer des choix qui précèdent ses descriptions particulières.
+
+Elle doit notamment déterminer ce qu'elle considère comme pertinent, ce qu'elle refuse de présupposer, la manière dont elle organise ses distinctions et les conditions auxquelles elle accepte de réviser ses propres formulations.
+
+Deux difficultés symétriques apparaissent alors.
+
+La première consiste à transformer ces choix en fondations absolues. Le principe devient alors une vérité supposée indépendante de toute pratique d'enquête.
+
+La seconde consiste à considérer que, puisque ces choix sont situés, ils ne possèdent aucune portée rationnelle particulière et ne seraient que des préférences parmi d'autres.
+
+Protokin refuse ces deux solutions.
+
+Les principes sont des engagements d'amont : ils orientent effectivement l'enquête, mais leur statut ne les soustrait pas à l'examen.
+
+La question n'est donc pas de savoir si Protokin peut fonctionner sans présupposés.
+
+Elle est de savoir :
+
+«comment rendre ses présupposés explicites, fonctionnels et révisables.»
 
 ---
 
 Définition fonctionnelle
 
-Dans l'architecture de Protokin, on appelle principes fondamentaux :
+Dans l'architecture de Protokin, un principe fondamental est :
 
-L'ensemble des engagements méthodologiques et philosophiques d'amont qui règlent la posture de l'enquêteur de second ordre, tracent la démarcation fonctionnelle et la circularité entre l'espace des causes (plan PROTO) et l'espace des raisons (plan KIN), et garantissent la révisabilité permanente de l'architecture théorique sous l'exigence d'une réflexivité symétrique sans surplomb.
+«un engagement d'amont qui règle une orientation générale de l'enquête métathéorique et dont la fonction peut être explicitement contrôlée, discutée et révisée.»
 
-Cette définition met en évidence trois propriétés relationnelles majeures :
+Cette définition comporte quatre traits essentiels.
 
-· Des boussoles d'orientation attentionnelle (Cadrer) : Ils suspendent les évidences représentationnalistes pour forcer l'enquêteur à déporter son regard du mouvement des objets vers le mouvement des descriptions.
-· Des connecteurs de transition génétique (Relier) : Ils tiennent ensemble l'ancrage corporel, somatique et écologique de la rencontre avec le milieu (PROTO) et l'organisation intersubjective de la justification déontique (KIN).
-· Des opérateurs d'auto-limitation (Réviser) : Ils s'exposent d'emblée à leurs propres diagnostics de contrôle, s'interdisant de s'ériger en tribunal absolu de la vérité pour assumer leur statut de régime descriptif situé et révisable.
+1. Un principe est un engagement
 
----
+Un principe n'est pas présenté comme une découverte portant sur une structure ultime du réel.
 
-Les trois dimensions opératoires des principes
+Il constitue un choix que l'architecture assume et dont elle accepte de répondre.
 
-Les principes de Protokin ne forment pas une liste inerte de définitions. Ils s'articulent autour de trois fonctions d'amont coordonnées :
+2. Un principe est d'amont
 
-```
-                                FONCTIONS DES PRINCIPES
-                                           │
-            ┌──────────────────────────────┼──────────────────────────────┐
-            ▼                              ▼                              ▼
-     L'Ancrage Interactif           La Constitution Normative        La Vigilance Réflexive
-  (Le couplage avec le milieu)     (L'espace des justifications)    (L'humilité épistémique)
-  - Organisme-Milieu               - Primat de la description       - Intersubjectivité
-  - Perception-Action              - Immanence normative            - Auto-audit immanent
-  - Causes physiques               - Raisons inférentielles         - Limites de surplomb
-```
+Son intervention précède les analyses particulières.
 
-1. L'ancrage interactif et somatique (Le pôle PROTO)
+Il ne constitue donc pas une règle locale permettant directement de déterminer la correction d'une description particulière.
 
-Cet ensemble de principes (Le primat du couplage organisme-milieu, Le primat du couplage perception-action, et L'espace des causes) prend en charge la dimension biologique et physique de l'expérience.
+3. Un principe est régulateur
 
-· Il pose que le corps de l'organisme est le premier dispositif de sélection, de discrimination et de mémoire sensorimotrice (mémoire organique).
-· Il garantit que Protokin n'abandonne jamais la résistance matérielle du monde (les « butoirs » ou stoppers du milieu), évitant le piège du constructivisme idéaliste ou linguistique absolu.
-· Il modélise les conditions physiques et causales qui rendent possible l'émergence des traces et des différences sémiotiques d'amont.
+Sa fonction est d'orienter les opérations de l'enquête.
 
-2. La constitution normative et inférentielle (Le pôle KIN)
+Il ne fournit pas nécessairement une réponse au problème étudié ; il détermine plutôt les conditions dans lesquelles ce problème doit être abordé.
 
-Cet ensemble (Le primat de la description, Le principe de la description située, Le principe d'immanence normative, Le principe des dépendances fonctionnelles, Le principe du pluralisme descriptif, et L'espace des raisons) régit l'organisation de l'intelligibilité collective.
+4. Un principe est révisable
 
-· Il établit que la validité n'est pas un fait naturel mais une réussite normative acquise au sein de pratiques collectives de justification.
-· Il structure le sens des concepts non comme des étiquettes de choses, mais comme des positions dynamiques au sein d'un réseau serré d'engagements, d'incompatibilités et d'inférences matérielles.
-· Il justifie la coexistence de régimes d'intelligibilité hétérogènes (l'image manifeste et l'image scientifique) et l'autonomie de leurs juridictions respectives.
+Parce qu'il appartient lui-même à l'architecture de l'enquête, il ne peut bénéficier d'une immunité de principe.
 
-3. La vigilance réflexive et d'auto-limitation (Le pôle de second ordre)
-
-Cet ensemble de fermeture (Le principe de réflexivité et Le principe d'humilité épistémique) couronne l'édifice critique de Protokin.
-
-· Il applique de façon récursive la boîte à outils de Protokin à son propre discours, forçant la métathéorie à s'assumer elle-même comme une pratique descriptive située, faillible et exposée au contre-audit.
-· Il délimite les frontières négatives de la théorie (la non-substitution), interdisant à l'audit de s'ériger en tribunal externe ou de prétendre trancher les faits empiriques ou les décisions déontiques à la place des experts de terrain de premier ordre.
+Un engagement d'amont qui empêcherait toute possibilité de révision contredirait la fonction réflexive de Protokin.
 
 ---
 
-Distinctions conceptuelles nécessaires
+Le statut d'amont
 
-Pour préserver la clarté et l'utilité clinique de l'audit de Protokin, la notion de principe régulateur d'amont doit être rigoureusement distinguée des concepts voisins :
+Le terme amont désigne ici une différence de fonction et non une hiérarchie ontologique.
 
-Principe d'amont et Critère de premier ordre
+Un principe est en amont lorsqu'il intervient dans la détermination des conditions de l'analyse avant que celle-ci ne porte sur une situation particulière.
 
-La différence porte sur la portée et le niveau de validité. Le principe fondamental est un engagement méthodologique de second ordre qui gouverne l'ensemble de Protokin et installe la posture d'amont de l'audit. Le critère descriptif est une règle d'évaluation immanente à un régime descriptif particulier de premier ordre (médical, juridique, etc.) qui détermine localement si une qualification est correcte ou erronée au présent d'usage.
+ENGAGEMENT D'AMONT
+       │
+       ▼
+ORIENTATION DE L'ENQUÊTE
+       │
+       ▼
+CONSTRUCTION DES DISTINCTIONS
+       │
+       ▼
+ANALYSE DES PRATIQUES
+       │
+       ▼
+AUDIT
+       │
+       ▼
+RÉEXAMEN DES ENGAGEMENTS
 
-Principe d'amont et Support descriptif
+L'amont n'est donc pas un lieu extérieur depuis lequel Protokin pourrait observer son objet sans être lui-même engagé dans une pratique descriptive.
 
-La différence s'établit selon la nature et la matérialité. Le principe est un engagement logique de cadrage. Le support descriptif désigne la médiation concrète (matérielle, incorporée ou institutionnelle) qui permet à une configuration descriptive de premier ordre d'être matériellement conservée, transportée et reprise au sein du collectif.
-
-Principe d'amont et Simple Règle de procédure
-
-La différence réside dans le statut réflexif. Une règle de procédure ou de guidage impose un enchaînement technique d'actions pour réaliser une opération d'enquête (par exemple, le guide d'écriture). Le principe est une condition d'intelligibilité qui justifie pourquoi cette opération est logiquement nécessaire, et s'expose symétriquement à la révision s'il sature face à des anomalies.
-
----
-
-Éclairage par les fils rouges pédagogiques
-
-La fonction d'orientation et de régulation des principes de Protokin s'éprouve directement à travers l'ensemble des cas d'application clinique du projet :
-
-1. Le vélo rouge
-
-Sans les principes fondamentaux, dire « le vélo est rouge » semble être le simple reflet passif d'une propriété brute logée dans l'objet. Les principes de description située et de couplage perception-action recadrent l'énoncé : ils montrent que cette prédication ordinaire est une performance somatique située (plan PROTO), qui coexiste de façon compatible avec sa traduction scientifique quantitative en longueur d'onde (longueur de 650 nm, plan KIN), sans que la physique ne doive écraser ou invalider la vérité perceptive de l'expérience vécue.
-
-2. Le patient aux urgences hospitalières
-
-Face au triage complexe aux urgences, l'analyste risquerait d'aplatir la situation sur un simple conflit de personnes. Le principe de distinction entre Causes (PROTO) et Raisons (KIN) et le principe d'immanence normative fournissent la boussole : ils révèlent que le trouble clinique somatique du malade (les constantes physiologiques, plan PROTO) fait l'objet d'une décision d'urgence vitale clinique souveraine (plan KIN des raisons médicales), qui se trouve compromise et écrasée lorsque le régime logistico-comptable de l'administration hospitalière tente d'imposer clandestinement ses critères d'évaluation budgétaire de disponibilité de lits.
-
-3. Le botaniste et le bûcheron face à l'arbre
-
-Leurs descriptions divergentes de l'arbre pourraient passer pour un simple conflit d'opinions subjectives ou de statuts corporatifs. Les principes du pluralisme descriptif et des dépendances fonctionnelles contraignent l'audit à les analyser comme deux régimes descriptifs également valides, adossés à des supports d'inscription et des finalités d'action hétérogènes (le savoir localisé et incorporé de la coupe face aux classifications phylogénétiques globales de l'université). Face au butoir commun du dépérissement forestier, Protokin utilise ses principes d'amont pour guider le collectif vers l'élaboration d'un régime d'hybridation (la sylviculture écologique) sans hiérarchisation unilatérale.
-
-4. « Cette personne est mauvaise » / « Cette personne est dangereuse »
-
-La qualification de déviance fige et essentialise spontanément l'agent. Le principe de description située et le principe des dépendances fonctionnelles outillent l'audit de second ordre pour dénoncer l'erreur de catégorie majeure de cet énoncé. Protokin démontre que le blâme moral ou la dangerosité policière convertissent indûment un statut d'imputation normative relative, révisable et procédural (plan KIN), en une propriété naturelle permanente et immuable de l'organisme (plan PROTO réifié), fermant ainsi asymétriquement l'espace de l'enquête.
+Il désigne une position fonctionnelle dans l'architecture.
 
 ---
 
-Limites et vigilances d'usage (Pitfalls)
+Principe et fondement absolu
 
-Dans l'utilisation et l'explicitation de ces principes d'amont, l'enquêteur de second ordre doit observer deux vigilances méthodologiques critiques :
+Protokin distingue radicalement l'idée de principe de celle d'une fondation absolue.
 
-· Le biais de la réification dogmatique (L'illusion axiomatique) : Traiter les principes fondamentaux de Protokin comme s'il s'agissait de vérités transcendantales et sacrées immuables. Protokin n'est pas une ontologie de l'être ; les principes sont des engagements d'enquête situés, dont la valeur se mesure exclusivement à leur utilité pratique pour lever l'indétermination des situations réelles de terrain.
-· Le biais de la modestie passive (L'esquive de la critique) : Mobiliser le principe d'humilité épistémique ou le pluralisme pour relâcher l'exigence de rigueur logique et d'étanchéité conceptuelle lors de l'audit. L'humilité de Protokin est une attitude rationnelle exigeante, faillible et mesurable, qui refuse le relativisme indifférencié où toutes les assertions se vaudraient à coût nul.
+Un fondement absolu prétendrait fournir un point fixe extérieur aux pratiques à partir duquel toute connaissance pourrait être définitivement validée.
+
+Le principe protokinien n'a pas cette fonction.
+
+Il intervient comme condition assumée de l'enquête.
+
+Il peut donc être :
+
+- explicité ;
+- comparé à d'autres orientations possibles ;
+- soumis à des objections ;
+- confronté à ses conséquences ;
+- révisé lorsqu'il devient inadéquat.
+
+Cette révisabilité ne constitue pas une faiblesse accidentelle.
+
+Elle appartient à son statut.
 
 ---
 
-Synthèse finale
+Principe et règle locale
+
+Il faut également distinguer le principe des règles qui apparaissent dans les domaines étudiés par Protokin.
+
+Une règle locale appartient à une pratique déterminée et intervient dans son fonctionnement propre.
+
+Un principe d'amont ne prescrit pas directement cette pratique.
+
+Il règle la manière dont Protokin entend l'étudier.
+
+La différence peut être résumée ainsi :
+
+PRINCIPE D'AMONT
+    │
+    │ oriente l'enquête
+    ▼
+MÉTATHÉORIE
+    │
+    │ analyse
+    ▼
+PRATIQUES DE PREMIER ORDRE
+    │
+    │ comportent leurs propres
+    │ critères et contraintes
+    ▼
+SITUATIONS PARTICULIÈRES
+
+Cette distinction protège Protokin contre une confusion entre les engagements de la métathéorie et ceux des pratiques qu'elle examine.
+
+---
+
+Les onze principes
+
+La section 01 rassemble onze engagements fondamentaux.
+
+Ils ne doivent pas être compris comme onze vérités indépendantes juxtaposées.
+
+Ils forment un ensemble architectural : chacun intervient à un niveau déterminé et contribue à l'orientation générale de l'enquête.
+
+La présente page n'en fournit pas le contenu détaillé.
+
+L'établissement de chacun appartient à sa page propre.
+
+01 — PRINCIPES FONDAMENTAUX
+          │
+          ├── Principe 01
+          ├── Principe 02
+          ├── Principe 03
+          ├── Principe 04
+          ├── Principe 05
+          ├── Principe 06
+          ├── Principe 07
+          ├── Principe 08
+          ├── Principe 09
+          ├── Principe 10
+          └── Principe 11
+
+La fonction de cette page est uniquement de déterminer ce que signifie leur appartenance commune à une même section.
+
+---
+
+Organisation fonctionnelle de la section
+
+Les onze principes peuvent être ordonnés selon leur fonction architecturale générale.
+
+Orientation
+
+Certains principes déterminent les déplacements de regard nécessaires à l'enquête.
+
+Ils règlent ce que Protokin doit prendre en compte avant toute analyse particulière.
+
+Articulation
+
+D'autres principes organisent les relations entre les différents niveaux auxquels l'analyse doit pouvoir circuler.
+
+Ils empêchent notamment de confondre des fonctions appartenant à des niveaux différents.
+
+Pluralisation
+
+Certains principes garantissent que l'analyse ne transforme pas prématurément une manière particulière de décrire en description universelle.
+
+Ils permettent de conserver ouvertes plusieurs juridictions descriptives lorsque leur coexistence est fonctionnellement pertinente.
+
+Réflexivité
+
+Enfin, certains principes concernent directement la possibilité pour Protokin d'examiner ses propres opérations.
+
+Ils empêchent la métathéorie de s'exclure elle-même du champ de la critique qu'elle applique aux autres descriptions.
+
+Ces quatre fonctions constituent un classement architectural, et non une nouvelle théorie venant remplacer les onze principes.
+
+---
+
+Une architecture sans surplomb
+
+Le statut des principes détermine également la position de Protokin par rapport à ce qu'il étudie.
+
+Protokin ne se place pas à l'extérieur des pratiques pour leur attribuer une validité depuis un tribunal indépendant.
+
+Il produit lui-même des descriptions de second ordre.
+
+Il doit donc accepter la conséquence suivante :
+
+«Une métathéorie qui examine les conditions de validité des descriptions doit également pouvoir examiner les conditions de validité de ses propres descriptions.»
+
+La réflexivité n'est ainsi pas une étape ajoutée à la fin de l'architecture.
+
+Elle est une contrainte qui accompagne dès le départ le statut des principes.
+
+---
+
+Le principe de non-substitution
+
+Le caractère régulateur des principes implique une limite fondamentale.
+
+Les principes de Protokin ne donnent pas à la métathéorie le droit de se substituer aux pratiques qu'elle examine.
+
+Ils permettent d'analyser :
+
+- les conditions d'une description ;
+- l'organisation d'une pratique ;
+- les relations entre ses éléments ;
+- les difficultés rencontrées par son fonctionnement ;
+- les opérations par lesquelles elle peut être révisée.
+
+Ils ne permettent pas, à eux seuls, de décider à la place d'une pratique ce qui doit être fait dans une situation particulière.
+
+Cette limite protège la distinction entre analyser une pratique et exercer cette pratique.
+
+---
+
+Rapport avec l'architecture générale
+
+La section 01 fournit à la section 02 ses conditions d'orientation.
+
+La section 02 pourra alors expliciter l'organisation générale de Protokin sans devoir réintroduire à chaque étape le statut des engagements qui la rendent possible.
+
+La relation est donc :
+
+01 — PRINCIPES
+      │
+      │ conditions d'orientation
+      ▼
+02 — ARCHITECTURE
+      │
+      │ organisation fonctionnelle
+      ▼
+03 — FONDEMENTS DESCRIPTIFS
+      │
+      ▼
+04 — PRATIQUES DESCRIPTIVES
+      │
+      ▼
+05 — DYNAMIQUE DESCRIPTIVE
+
+La section 01 fournit le cadre régulateur.
+
+Elle ne fournit pas encore l'architecture complète.
+
+---
+
+Rapport avec l'audit
+
+L'audit de Protokin intervient à un niveau réflexif.
+
+Il ne peut donc fonctionner correctement que si les engagements qui orientent son regard sont suffisamment explicites pour pouvoir eux-mêmes être examinés.
+
+Les principes jouent ici un rôle de référence.
+
+Ils permettent notamment de demander :
+
+«L'analyse conduite respecte-t-elle les engagements d'amont qu'elle prétend mobiliser ?»
+
+Cette question ne constitue pas une procédure d'audit détaillée.
+
+Elle indique seulement pourquoi les principes sont nécessaires à l'architecture méthodologique ultérieure.
+
+La formalisation de l'audit appartient à la section qui lui est consacrée.
+
+---
+
+Limites de la page
+
+Cette page ne doit pas :
+
+- démontrer les onze principes ;
+- remplacer leurs pages individuelles ;
+- développer les théories philosophiques dont ils sont issus ;
+- établir les concepts des sections 03, 04 ou 05 ;
+- transformer les principes en axiomes ontologiques ;
+- fournir une procédure complète d'audit ;
+- décider de la validité d'une description particulière.
+
+Son objet est plus restreint :
+
+«établir ce qu'est un principe dans Protokin et pourquoi des principes d'amont sont nécessaires à son architecture.»
+
+---
+
+Synthèse architecturale
 
 Ce que cette page établit
 
-Le rôle régulateur, le statut de second ordre et la cohérence interconceptuelle des principes fondamentaux de Protokin, explicitant comment ces engagements d'amont cadrent l'audit, relient le plan matériel (PROTO) et le plan normatif (KIN), et immunisent la métathéorie contre toute dérive d'impérialisme sémantique.
+Elle établit le statut des principes fondamentaux comme engagements d'amont régulateurs, explicites et révisables.
+
+Elle établit également leur fonction architecturale :
+
+- orienter l'enquête ;
+- déterminer des conditions générales d'analyse ;
+- maintenir les distinctions nécessaires à l'architecture ;
+- rendre possible une réflexivité de la métathéorie sur elle-même.
 
 Ce qu'elle suppose
 
-La section d'orientation 00-se-reperer.md et table-des-matieres.md.
+Elle suppose le déplacement méthodologique établi dans la section 00 et la formulation générale de Protokin.
 
-Ce qu'elle rend possible
+Ce qu'elle prépare
 
-L'explicitation individualisée et rigoureuse des onze principes de Protokin, le déploiement cohérent de l'architecture générale (02-architecture-generale.md), la formulation des grilles d'audit immanent (08-methode-protokin.md) et la vision synoptique des régimes.
+Elle prépare :
+
+- l'établissement individuel des onze principes ;
+- l'architecture générale de Protokin ;
+- les développements consacrés aux descriptions, aux pratiques et à leur dynamique ;
+- la méthode d'audit.
+
+---
+
+Règle de lecture
+
+«Cette page établit la fonction des principes ; les pages suivantes établissent chacun des principes.»
+
+Aucun principe particulier ne doit donc être entièrement développé ici.
+
+La cohérence de la section ne repose pas sur la répétition de leur contenu, mais sur la détermination précise de leur statut commun dans l'architecture.
 
 ---
 
