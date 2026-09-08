@@ -1,3 +1,5 @@
+# Page : configuration-descriptive.md
+
 # La Configuration Descriptive — L'armature relationnelle des possibles de dicibilité
 
 **Version :** Protokin 2026 — version 26.08.212  
