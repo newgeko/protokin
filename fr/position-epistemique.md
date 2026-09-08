@@ -1,3 +1,5 @@
+# Page : position-epistemique.md
+
 # La position épistémique
 
 | Fonction | Établir la notion de **position épistémique** dans l'architecture de Protokin en tant que configuration de ressources, de contraintes et de perspectives depuis laquelle un locuteur peut décrire, qualifier, interpréter et justifier une situation. |
