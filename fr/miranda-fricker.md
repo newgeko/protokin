@@ -1,3 +1,5 @@
+# Page : miranda-fricker.md
+
 Miranda Fricker — Les asymétries de participation et les pathologies sémantiques de l'espace des raisons
 
 Analyse architecturale de la page
