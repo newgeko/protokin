@@ -1,3 +1,5 @@
+# Page : assertion.md
+
 # Assertion
 
 > **Fonction :** Établir la notion d'assertion dans l'architecture de Protokin en tant qu'acte d'engagement du locuteur dans l'espace des raisons.
