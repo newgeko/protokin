@@ -1,3 +1,5 @@
+# Page : relation-locuteur-auditeur.md
+
 # Relation locuteur-auditeur — L'espace interactionnel des pratiques descriptives
 
 ## Fonction
