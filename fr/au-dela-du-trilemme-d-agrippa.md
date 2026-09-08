@@ -1,4 +1,4 @@
-Oui. Je la développerais en corrigeant légèrement certaines formulations historiques — notamment l’idée que Wittgenstein « démontre » une solution au trilemme d’Agrippa, ou que Popper accepte simplement des « énoncés de base conventionnels ». Pour Protokin, il est plus solide de présenter ces auteurs comme des ressources convergentes pour désamorcer l’exigence d’un fondement ultime, plutôt que comme s’ils fournissaient déjà la solution protokinienne.
+# Page : au-dela-du-trilemme-d-agrippa.md
 
 Le trilemme d’Agrippa et la justification sans fondement ultime
 
