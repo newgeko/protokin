@@ -1,3 +1,5 @@
+# Page : attention-organique.md
+
 # L'Attention organique — L'orientation fonctionnelle de l'activité du couplage
 
 **Version :** Protokin 2026 — version 26.08.212  
