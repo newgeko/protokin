@@ -1,3 +1,5 @@
+# Page : architecture-fonctionnelle.md
+
 # Architecture fonctionnelle — La grammaire opératoire et le mouvement de l'enquête
 
 ## Analyse architecturale de la page
