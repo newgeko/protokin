@@ -1,3 +1,5 @@
+# Page : intelligence-artificielle.md
+
 Intelligence artificielle — Analyse des régimes descriptifs mobilisés autour de l'agentivité computationnelle
 
 Analyse architecturale de la page
