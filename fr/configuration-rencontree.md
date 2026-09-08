@@ -1,3 +1,5 @@
+# Page : configuration-rencontree.md
+
 # Configuration rencontrée — Le niveau pré-sémiotique et dynamique du milieu éprouvé
 
 ## Fonction de la page
