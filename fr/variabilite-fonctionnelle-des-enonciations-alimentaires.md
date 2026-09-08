@@ -1,3 +1,5 @@
+# Page : variabilite-fonctionnelle-des-enonciations-alimentaires.md
+
 Variabilité des réactions aux évocations alimentaires
 
 La transformation de la fonction d'un stimulus sous l'effet du langage n'a ni la même intensité ni les mêmes manifestations chez tous les individus. L'audition d'un mot ou d'une description ne produit pas mécaniquement une réponse uniforme : elle intervient toujours dans une configuration particulière, constituée à la fois par une histoire d'apprentissage, un contexte relationnel et l'état corporel présent de l'organisme.
