@@ -1,3 +1,5 @@
+# Page : exegese.md
+
 Exégèse
 
 Fonction : Définir l'exégèse comme opération d'enquête portant sur une description théorique, philosophique ou conceptuelle, et distinguer la restitution d'une configuration descriptive de son utilisation dans une nouvelle enquête.
