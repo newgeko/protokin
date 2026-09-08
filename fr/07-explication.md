@@ -1,3 +1,5 @@
+# Page : 07-explication.md
+
 07 — Explication — Les modes d'intelligibilité, de puissance et de coexistence des descriptions
 
 Analyse architecturale de la page
