@@ -1,3 +1,5 @@
+# Page : merleau-ponty.md
+
 Maurice Merleau-Ponty — Le corps propre comme pivot de l'être au monde et infrastructure de la praktognosie
 
 Analyse architecturale de la page
