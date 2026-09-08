@@ -1,3 +1,5 @@
+# Page : relations-lx-et-pragmatique-de-l-explicitation.md
+
 ### Relations LX et pragmatique de l'explicitation — Le statut logique de la métathéorie et la genèse de l'accès conceptuel
 
 #### Fonction
