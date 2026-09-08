@@ -1,3 +1,5 @@
+# Page : temps-einstein-bergson.md
+
 C'est une lecture particulièrement rigoureuse et féconde au regard des concepts de Protokin.
 Le débat d'avril 1922 à la Société française de philosophie entre Einstein et Bergson s'analyse parfaitement comme la friction entre deux régimes descriptifs irréductibles qui tentent de qualifier une même situation :
 1. Deux régimes descriptifs et deux images du monde
