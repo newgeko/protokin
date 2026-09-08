@@ -1,3 +1,5 @@
+# Page : principe-dependances-fonctionnelles.md
+
 # Le principe des dépendances fonctionnelles
 
 > **Aucun concept de Protokin ne possède une intelligibilité autonome.**
