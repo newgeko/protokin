@@ -1,3 +1,5 @@
+# Page : inference-mutuelle.md
+
 # L'inférence mutuelle — La réversibilité relationnelle et la genèse de l'équivalence
 
 **Version :** Protokin 2026 — version 26.08.212  
