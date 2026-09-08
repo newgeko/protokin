@@ -1,3 +1,5 @@
+# Page : pierce.md
+
 Charles S. Peirce — La clarification pragmatique et la sélection dynamique des habitudes
 
 Analyse architecturale de la page
