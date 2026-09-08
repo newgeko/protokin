@@ -1,3 +1,5 @@
+# Page : engagements-descriptifs.md
+
 # Engagements descriptifs
 
 | Fonction | Établir la notion d'**engagement descriptif** dans l'architecture de Protokin en tant que statut normatif assumé ou attribué à un locuteur lorsqu'il soutient une description au sein d'une pratique descriptive. |
