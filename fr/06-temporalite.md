@@ -1,3 +1,5 @@
+# Page : 06-temporalite.md
+
 06 — Temporalité — L'inscription historique, les trajectoires et les sédimentations des régimes descriptifs
 
 Analyse architecturale de la page
