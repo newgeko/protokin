@@ -1,3 +1,5 @@
+# Page : genese-fonctionnelle-de-l-orientation.md
+
 De la transduction à la fonction : genèse fonctionnelle de l'orientation
 
 Dans l'architecture métathéorique de Protokin, la transduction doit être distinguée de la fonction de stimulus. Leur articulation est étroite, mais elles ne désignent pas la même opération.
