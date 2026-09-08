@@ -1,3 +1,5 @@
+# Page : supports-descriptifs-institutionnels.md
+
 # Support descriptif institutionnel
 
 | Fonction | Établir la notion de **support descriptif institutionnel** dans l'architecture de Protokin en tant qu'ensemble de dispositifs organisationnels, normatifs et collectifs qui rendent possibles la production, la validation, la transmission, la conservation et la révision des descriptions au sein d'une pratique sociale instituée. |
