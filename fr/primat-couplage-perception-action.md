@@ -1,3 +1,5 @@
+# Page : primat-couplage-perception-action.md
+
 # Le primat du couplage perception-action — L'ancrage interactif de l'activité descriptive
 
 | Fonction | Établir le premier engagement méthodologique de Protokin : aucune description n'émerge dans un esprit contemplant passivement un monde déjà constitué, mais toute activité descriptive s'enracine dans une relation dynamique entre un organisme et son milieu. |
