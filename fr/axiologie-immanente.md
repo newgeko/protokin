@@ -1,3 +1,5 @@
+# Page : axiologie-immanente.md
+
 Contre le faux dualisme du sensible et de la science
 
 Une certaine critique contemporaine de la rationalité scientifique tend à opposer deux régimes supposés irréductibles : d’un côté, une rationalité scientifique abstraite, calculatrice et réductrice ; de l’autre, l’expérience sensible, poétique, phénoménologique ou ordinaire, présentée comme un accès plus originaire au monde.
