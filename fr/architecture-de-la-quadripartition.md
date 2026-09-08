@@ -1,3 +1,5 @@
+# Page : architecture-de-la-quadripartition.md
+
 Quadripartition fondamentale
 
 1. Fonction de la page
