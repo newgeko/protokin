@@ -1,3 +1,5 @@
+# Page : 04-pratiques-descriptives.md
+
 04 — Pratiques descriptives — Le fonctionnement collectif, normatif et inférentiel des descriptions
 
 Analyse architecturale de la page
