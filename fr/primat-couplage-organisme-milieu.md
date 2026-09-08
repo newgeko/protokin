@@ -1,3 +1,5 @@
+# Page : primat-couplage-organisme-milieu.md
+
 # Le primat du couplage organisme-milieu — La genèse interactive des différences descriptibles
 
 | Fonction | Établir que toute activité descriptive émerge d'une relation dynamique entre un organisme et un milieu, et non d'une séparation préalable entre un sujet observateur et un monde constitué. |
