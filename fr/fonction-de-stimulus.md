@@ -1,3 +1,5 @@
+# Page : fonction-de-stimulus.md
+
 La fonction de stimulus
 
 De l'affection physique à la transformation relationnelle des fonctions
