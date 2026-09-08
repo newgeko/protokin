@@ -1,3 +1,5 @@
+# Page : sensibilite-corporelle-aux-abstractions.md
+
 De la stimulation directe à la sensibilité corporelle aux abstractions
 
 En psychologie comportementale, et plus particulièrement dans le cadre de la théorie des cadres relationnels (RFT / AARR), il est possible de comprendre comment un organisme peut en venir à réagir corporellement à des événements qui ne sont pas eux-mêmes des objets physiques immédiatement présents.
