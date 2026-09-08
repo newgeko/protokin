@@ -1,3 +1,5 @@
+# Page : indice.md
+
 ##### Étape préalable obligatoire : Analyse architecturale de la page
 ###### 1. Fonction unique de la page
 Cette page existe pour établir le concept d' **indice** au sein de l'architecture de Protokin, en le définissant comme l'opérateur de transition fonctionnelle et attentionnelle par lequel une trace matérielle passive d'amont (plan PROTO) est sélectionnée et investie d'une valence d'ajustement sensorimoteur pour un organisme, préparant ainsi son entrée dans le réseau des qualifications et des signes d'aval (plan KIN).
