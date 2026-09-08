@@ -1,3 +1,5 @@
+# Page : limite-interne.md
+
 Limite interne — La saturation des ressources d'un régime descriptif
 
 Analyse architecturale de la page
