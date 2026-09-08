@@ -1,3 +1,5 @@
+# Page : capacite_performance_validite.md
+
 Capacité relationnelle, performance discursive et validité normative
 
 Fonction architecturale
