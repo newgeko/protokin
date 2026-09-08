@@ -1,3 +1,5 @@
+# Page : ian-hacking.md
+
 Ian Hacking — L'ontologie historique, les styles de raisonnement et l'effet de boucle des descriptions
 
 Analyse architecturale de la page
