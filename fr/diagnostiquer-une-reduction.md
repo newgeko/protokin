@@ -1,3 +1,5 @@
+# Page : diagnostiquer-une-reduction.md
+
 Diagnostiquer une réduction — Protocole d'évaluation clinique des absorptions unilatérales
 
 Analyse architecturale de la page
