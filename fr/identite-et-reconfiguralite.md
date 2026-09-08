@@ -1,3 +1,5 @@
+# Page :  identite-et-reconfiguralite.md
+
 Identité et reconfigurabilité du réseau d’inférences
 
 1. Le locuteur et la recherche de vérité
