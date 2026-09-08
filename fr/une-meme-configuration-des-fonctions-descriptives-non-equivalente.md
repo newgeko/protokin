@@ -1,3 +1,5 @@
+# Page : une-meme-configuration-des-fonctions-descriptives-non-equivalente.md
+
 Une même configuration, des fonctions descriptives non équivalentes
 
 «Les mêmes configurations peuvent être prises dans des descriptions différentes sans que les fonctions de ces descriptions soient équivalentes.»
