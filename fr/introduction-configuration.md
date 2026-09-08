@@ -1,3 +1,5 @@
+# Page : introduction-configuration.md
+
 Introduction aux configurations dans l'architecture Protokin
 1. Le principe d'organisation relationnelle
 Dans l'architecture métathéorique de Protokin, une enquête ne prend jamais pour point de départ un donné brut ou des objets isolés. Toute activité descriptive s'amorce toujours au sein d'une configuration déjà organisée.
