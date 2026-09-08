@@ -1,3 +1,5 @@
+# Page : transduction-relationnelle-rft.md
+
 De la Sentience à la Redevabilité — La Transduction Relationnelle dans l'Architecture de Protokin
 
 Analyse architecturale de la page
