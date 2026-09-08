@@ -1,3 +1,5 @@
+# Page : perspectives-de-recherche.md
+
 Perspectives de recherche — Les prolongements et chantiers de la métathéorie
 
 Analyse architecturale de la page
