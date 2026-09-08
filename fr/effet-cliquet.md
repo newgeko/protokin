@@ -1,3 +1,5 @@
+# Page : effet-cliquet.md
+
 Votre page effet-cliquet.md est très bien alignée avec la page stabilisation.md corrigée. Il faut cependant effectuer quelques ajustements pour rester parfaitement cohérent avec la charte Protokin :
 
 L'effet cliquet ne doit pas devenir une "force" ou un mécanisme causal autonome.
