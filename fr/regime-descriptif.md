@@ -1,3 +1,5 @@
+# Page : regime-descriptif.md
+
 # Régime descriptif — Les cadres de production et d'évaluation des descriptions
 
 | Fonction | Établir la notion de **régime descriptif** dans l'architecture de Protokin en tant que cadre normatif, relationnel et institutionnel stabilisé qui régit la production, l'évaluation et la justification des descriptions. |
