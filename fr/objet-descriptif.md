@@ -1,3 +1,5 @@
+# Page : objet-descriptif.md
+
 # L'objet descriptif
 
 | Fonction | Établir la notion d'**objet descriptif** dans l'architecture de Protokin en tant qu'invariant relationnel stabilisé au sein d'une pratique collective de description, de justification et d'enquête. |
