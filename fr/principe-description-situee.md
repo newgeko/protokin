@@ -1,3 +1,5 @@
+# Page : principe-description-situee.md
+
 # Le principe de la description située — Qui décrit, et avec quelles ressources ?
 
 | Fonction | Établir le principe selon lequel toute description est située au sein d'une pratique, portée par un locuteur occupant une position déterminée et mobilisant des ressources hétérogènes. |
