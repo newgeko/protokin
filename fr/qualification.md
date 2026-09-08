@@ -1,3 +1,5 @@
+# Page : qualification.md
+
 # Qualification — L'inscription d'une situation dans une catégorie
 
 > **Fonction :** Établir la notion de qualification dans l'architecture de Protokin en tant qu'opération située d'inscription d'une situation ou d'une entité dans une catégorie d'un régime descriptif.
