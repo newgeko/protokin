@@ -1,3 +1,5 @@
+# Page : explication.md
+
 ### Étape préalable obligatoire : Analyse architecturale de la page explication.md
 
 #### 1. Fonction unique de la page
