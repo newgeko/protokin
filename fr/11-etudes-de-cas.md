@@ -1,3 +1,5 @@
+# Page : 11-etudes-de-cas.md
+
 11 — Études de cas — Le laboratoire clinique et l'épreuve expérimentale de l'enquête
 
 Analyse architecturale de la page
