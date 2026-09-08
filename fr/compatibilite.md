@@ -1,3 +1,5 @@
+Page : compatibilite.md
+
 ### Étape préalable obligatoire : Analyse architecturale de la page `compatibilites.md`
 
 #### 1. Fonction unique de la page
