@@ -159,8 +159,14 @@ Elle ne constitue pas une division ontologique du réel.
 
 La distinction PROTO / KIN est informée par la distinction sellarsienne entre espace des causes et espace des raisons, mais elle ne lui est pas identique.
 
+```
 PROTO ≠ espace des causes
 KIN   ≠ espace des raisons
+```
+
+Il n'y a pas de donné brut dans une description causale.
+
+Une configuration matérielle peut imposer des contraintes à une enquête, résister à certaines descriptions et rendre certaines inférences inadéquates. Mais elle ne fournit pas elle-même la description sous laquelle ces contraintes deviennent causalement intelligibles.
 
 Une description causale appartient à une pratique descriptive déterminée.
 
@@ -178,15 +184,31 @@ Ainsi, même lorsqu'une relation causale est matériellement antérieure à sa d
 
 Il faut donc distinguer :
 
+```
 relation causale décrite
         ≠
 description causale de cette relation
+```
 
 La première peut concerner une dépendance matérielle.
 
 La seconde est une opération située dans une pratique historique d'enquête.
 
+Il faut également distinguer :
+
+```
+configuration matérielle
+        ≠
+description causale de cette configuration
+```
+
+La configuration peut contraindre la description sans fournir elle-même les catégories, les critères ou les distinctions permettant de la décrire causalement.
+
 Il existe donc une histoire des raisons qui conduisent à retenir une certaine description causale, sans que la relation causale décrite devienne pour autant une raison normative.
+
+Les raisons interviennent dans la production, la sélection, la validation et la transformation des descriptions causales. Elles ne se confondent pas avec les causes que ces descriptions cherchent à établir.
+
+La distinction entre causes et raisons doit ainsi rester fonctionnelle sans devenir génétique : l'histoire des pratiques qui rendent une description causale possible n'abolit pas la différence entre la description d'une cause et les raisons de retenir cette description.
 
 ---
 
