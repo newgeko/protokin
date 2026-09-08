@@ -1,3 +1,5 @@
+# Page : de-la-normativite-vitale-a-la-normalite-reflexive.md
+
 De la normativité vitale à la normativité réflexive
 
 L'humain ne se réduit pas à un simple mécanisme de survie biologique. Son existence s'enracine certes dans des dynamiques vitales, corporelles et écologiques, mais elle se prolonge dans des formes d'expérience, de signification, d'évaluation et de pratique collective qui transforment les conditions mêmes dans lesquelles une vie peut être poursuivie.
