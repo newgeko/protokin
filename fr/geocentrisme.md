@@ -1,3 +1,5 @@
+# Page : geocentrisme.md
+
 Géocentrisme — Analyse de la transformation d'un régime cosmologique et de son remplacement
 
 Analyse architecturale de la page
