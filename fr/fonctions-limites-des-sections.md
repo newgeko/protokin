@@ -1,3 +1,5 @@
+# Page : fonctions-limites-des-sections.md
+
 # Fonctions et limites des sections — Périmètres d'établissement exclusifs
 
 Pour garantir une cohérence parfaite au sein de l'architecture Protokin et éviter tout chevauchement ou confusion entre les briques conceptuelles, chaque section doit posséder un périmètre d'établissement exclusif. Conformément à la règle d'or du projet — « Une page établit son objet propre ; les autres le préparent, le mobilisent ou indiquent ses dépendances » —, voici le développement méthodique des fonctions architecturales, des limites négatives et des consignes de rédaction pour chacune des 13 sections de la documentation.
