@@ -1,3 +1,5 @@
+# Page : traduction.md
+
 Traduction — La médiation et l'articulation entre régimes descriptifs
 
 Analyse architecturale de la page
