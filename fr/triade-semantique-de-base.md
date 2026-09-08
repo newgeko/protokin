@@ -1,3 +1,5 @@
+# Page : triade-semantique-de-base.md
+
 ### La triade sémantique de base — L'armature logique de la signification (Inférence, Substitution, Anaphore)
 
 #### Fonction
