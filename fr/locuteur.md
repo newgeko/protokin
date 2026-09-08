@@ -1,3 +1,5 @@
+# Page : locuteur.md
+
 # Le locuteur — Position épistémique, engagement descriptif et agentivité discursive
 
 | Fonction | Établir la notion de **locuteur** dans l'architecture de Protokin en tant que position épistémique, fonctionnelle et normative au sein d'une pratique descriptive. |
