@@ -1,3 +1,5 @@
+# Page : variabilite-fonctionnelle-des-evocation.md
+
 Variabilité fonctionnelle des évocations
 
 Une évocation verbale, perceptive ou mémorielle n'exerce pas nécessairement la même fonction pour tous les organismes, ni même pour un même organisme à différents moments. Un mot, une image, un son, une description ou un souvenir peut rester pratiquement neutre dans une configuration et produire, dans une autre, une réponse corporelle, perceptive, émotionnelle ou comportementale très marquée.
