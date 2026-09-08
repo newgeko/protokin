@@ -1,3 +1,5 @@
+# Page : 05-dynamique.md
+
 05 — Dynamique descriptive — Les reconfigurations, tensions et transmutations des cadres de dicibilité
 
 Analyse architecturale de la page
