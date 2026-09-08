@@ -1,3 +1,5 @@
+# Page : responsabilite-descriptive.md
+
 # Responsabilité normative — Redevabilité publique et prise en charge des conséquences descriptives
 
 | Fonction | Établir la notion de **responsabilité normative** dans l'architecture de Protokin en tant que statut de redevabilité publique, d'imputabilité et de prise en charge des conséquences inférentielles attaché aux engagements descriptifs du locuteur. |
