@@ -1,3 +1,5 @@
+# Page : hume-identite.md
+
 Hume — identité, faisceau et stabilisation relationnelle
 
 1. Le problème de l'identité personnelle
