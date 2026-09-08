@@ -1,3 +1,5 @@
+# Page : lexique-protokin.md
+
 # Protokin — Lexique conceptuel et terminologique complet
 **Version :** Protokin 2026 — version 26.08.171  
 **Fichier :** `lexique.md` (ou `lexique-protokin.md`)  
