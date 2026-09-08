@@ -1,3 +1,5 @@
+# Page : description.md
+
 # La Description — L'actualisation située d'une configuration de dicibilité
 
 **Version :** Protokin 2026 — version 26.08.212  
