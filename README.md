@@ -552,10 +552,8 @@ mais également :
 
 ## 📜 Statut du projet
 
-Protokin est un **cOS conceptuel** (Collective Operating System).
-
-Le terme « système » ne désigne pas ici une théorie close.  
-Il désigne une architecture de fonctions permettant de :
+Protokin est une architecture conceptuelle et opératoire.
+Elle organise un ensemble de fonctions permettant de :
 
 ```
 
@@ -583,7 +581,7 @@ examiner
 
 ```
 
-Ces fonctions ne constituent pas une ontologie des pratiques.  
+Ces fonctions ne constituent pas une ontologie des pratiques.
 Elles forment une architecture opératoire pour leur examen.
 
 ---
