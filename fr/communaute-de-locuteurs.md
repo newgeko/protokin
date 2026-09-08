@@ -1,3 +1,5 @@
+# Page : communaute-de-locuteurs.md
+
 # Communauté de locuteurs
 
 | Fonction | Établir la notion de **communauté de locuteurs** dans l'architecture de Protokin en tant que collectif normatif au sein duquel les descriptions sont produites, évaluées, transmises, corrigées et justifiées par des participants engagés dans une même pratique descriptive. |
