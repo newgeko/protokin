@@ -1,3 +1,5 @@
+# Page : skinner-comportement-verbal-et-non-conversion.md
+
 Skinner, comportement verbal et non-conversion
 
 La confrontation entre B. F. Skinner et le problème du langage permet de préciser une difficulté centrale de Protokin : comment articuler l'explication causale d'une pratique discursive avec le statut normatif des énoncés qui y prennent place ?
