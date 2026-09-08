@@ -1,3 +1,5 @@
+# Page : transition.md
+
 Les transitions descriptives — Reconfiguration des conditions de stabilisation
 
 Analyse architecturale de la page
