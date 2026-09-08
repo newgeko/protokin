@@ -1,3 +1,5 @@
+# Page : injustice-epistemique.md
+
 Injustice épistémique — L'analyse structurelle des asymétries de participation, d'exclusion et de disqualification dans l'espace des raisons
 
 Analyse architecturale de la page
