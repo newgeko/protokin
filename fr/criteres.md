@@ -1,3 +1,5 @@
+# Page : criteres.md
+
 # Les Critères Descriptifs — La régulation de la pertinence et de la correction
 
 **Version :** Protokin 2026 — version 26.08.212  
