@@ -1,3 +1,5 @@
+# Page : botaniste-bucheron.md
+
 Botaniste / bûcheron — Comparer deux régimes descriptifs portant sur un même milieu
 
 Analyse architecturale de la page
