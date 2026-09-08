@@ -1,3 +1,5 @@
+# Page : configuration-mathematique.md
+
 1. La configuration mathématique comme armature relationnelle pure
 Dans l'architecture métathéorique de Protokin, une structure géométrique ou mathématique abstraite (telle que la géométrie riemannienne non euclidienne) s'analyse comme une configuration descriptive pure.
  * Structure de dicibilité : Elle établit une armature relationnelle de catégories, d'incompatibilités et de règles d'inférence formalisées.
