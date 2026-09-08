@@ -8,11 +8,13 @@ Fonction de la page
 
 Cette page introduit la section 01 de Protokin et établit le statut architectural des principes fondamentaux.
 
-Elle ne cherche pas à démontrer les onze principes individuellement. Elle détermine ce qu'est un principe dans l'architecture de Protokin, la fonction qu'il exerce, le niveau auquel il intervient et les conditions auxquelles il demeure révisable.
+Elle ne cherche pas à démontrer les onze principes individuellement.
 
-Les principes fondamentaux constituent le niveau d'orientation d'amont de la métathéorie.
+Elle détermine ce qu'est un principe dans l'architecture de Protokin, la fonction qu'il exerce, le niveau auquel il intervient et les conditions auxquelles il demeure révisable.
 
-Ils déterminent les conditions selon lesquelles Protokin conduit son enquête sur les pratiques descriptives sans constituer pour autant une fondation extérieure ou une ontologie générale du réel.
+Les principes fondamentaux constituent le niveau des engagements d'amont de la métathéorie.
+
+Ils orientent l'enquête sur les pratiques descriptives sans constituer pour autant une fondation extérieure, un ensemble d'axiomes ontologiques ou une théorie générale du réel.
 
 La question directrice de cette section est donc :
 
@@ -49,7 +51,7 @@ La section 01 intervient immédiatement après le déplacement introductif de Pr
 
 La section 01 ne décrit donc pas encore les objets étudiés par Protokin.
 
-Elle détermine depuis quelles conditions de méthode et de positionnement ces objets pourront être étudiés.
+Elle détermine depuis quelles orientations générales l'enquête sera conduite.
 
 ---
 
@@ -57,23 +59,33 @@ Problème conceptuel
 
 Toute construction théorique doit effectuer des choix qui précèdent ses descriptions particulières.
 
-Elle doit notamment déterminer ce qu'elle considère comme pertinent, ce qu'elle refuse de présupposer, la manière dont elle organise ses distinctions et les conditions auxquelles elle accepte de réviser ses propres formulations.
+Elle doit notamment déterminer :
+
+- ce qu'elle considère comme pertinent ;
+- ce qu'elle refuse de présupposer ;
+- les distinctions qu'elle entend maintenir ;
+- les relations qu'elle considère comme descriptivement significatives ;
+- les conditions auxquelles elle accepte de réviser ses propres formulations.
 
 Deux difficultés symétriques apparaissent alors.
 
-La première consiste à transformer ces choix en fondations absolues. Le principe devient alors une vérité supposée indépendante de toute pratique d'enquête.
+La première consiste à transformer ces choix en fondations absolues.
 
-La seconde consiste à considérer que, puisque ces choix sont situés, ils ne possèdent aucune portée rationnelle particulière et ne seraient que des préférences parmi d'autres.
+Le principe devient alors une vérité supposée indépendante de toute pratique d'enquête.
+
+La seconde consiste à considérer que, puisque ces choix sont situés et révisables, ils ne possèdent aucune portée rationnelle particulière et ne seraient que des préférences arbitraires.
 
 Protokin refuse ces deux solutions.
 
 Les principes sont des engagements d'amont : ils orientent effectivement l'enquête, mais leur statut ne les soustrait pas à l'examen.
 
-La question n'est donc pas de savoir si Protokin peut fonctionner sans présupposés.
+La question n'est donc pas :
 
-Elle est de savoir :
+«« Protokin peut-il fonctionner sans présupposés ? »»
 
-«comment rendre ses présupposés explicites, fonctionnels et révisables.»
+Elle est :
+
+«« Comment rendre ses présupposés explicites, fonctionnels et révisables ? »»
 
 ---
 
@@ -81,7 +93,7 @@ Définition fonctionnelle
 
 Dans l'architecture de Protokin, un principe fondamental est :
 
-«un engagement d'amont qui règle une orientation générale de l'enquête métathéorique et dont la fonction peut être explicitement contrôlée, discutée et révisée.»
+«un engagement d'amont qui règle une orientation générale de l'enquête métathéorique et dont la fonction peut être explicitement examinée, discutée et révisée.»
 
 Cette définition comporte quatre traits essentiels.
 
@@ -91,31 +103,58 @@ Un principe n'est pas présenté comme une découverte portant sur une structure
 
 Il constitue un choix que l'architecture assume et dont elle accepte de répondre.
 
+Son caractère assumé ne signifie toutefois pas qu'il soit arbitraire.
+
+Il peut être motivé, comparé, critiqué et révisé.
+
+---
+
 2. Un principe est d'amont
 
-Son intervention précède les analyses particulières.
+Son caractère d'amont désigne une antériorité fonctionnelle, et non une priorité ontologique.
 
-Il ne constitue donc pas une règle locale permettant directement de déterminer la correction d'une description particulière.
+Un principe intervient avant les analyses particulières pour orienter la manière dont elles seront conduites.
+
+Il ne désigne donc pas une réalité située « derrière » les descriptions.
+
+Il désigne une condition architecturale de leur examen.
+
+---
 
 3. Un principe est régulateur
 
-Sa fonction est d'orienter les opérations de l'enquête.
+La fonction d'un principe est d'orienter les opérations de l'enquête.
 
-Il ne fournit pas nécessairement une réponse au problème étudié ; il détermine plutôt les conditions dans lesquelles ce problème doit être abordé.
+Il ne fournit pas nécessairement une réponse au problème étudié.
+
+Il contribue plutôt à déterminer :
+
+- quelles distinctions doivent être maintenues ;
+- quelles conversions doivent être évitées ;
+- quelles possibilités d'analyse doivent rester ouvertes ;
+- quelles formes de description doivent pouvoir être interrogées.
+
+Le principe règle ainsi l'enquête sans se substituer à elle.
+
+---
 
 4. Un principe est révisable
 
-Parce qu'il appartient lui-même à l'architecture de l'enquête, il ne peut bénéficier d'une immunité de principe.
+Parce qu'il appartient lui-même à l'architecture de l'enquête, un principe ne bénéficie d'aucune immunité de principe.
 
-Un engagement d'amont qui empêcherait toute possibilité de révision contredirait la fonction réflexive de Protokin.
+Un engagement d'amont qui empêcherait toute possibilité de révision entrerait en contradiction avec la fonction réflexive de Protokin.
+
+La révisabilité n'est donc pas une faiblesse accidentelle.
+
+Elle appartient au statut même du principe.
 
 ---
 
 Le statut d'amont
 
-Le terme amont désigne ici une différence de fonction et non une hiérarchie ontologique.
+Le terme amont désigne une différence de fonction et non une hiérarchie ontologique.
 
-Un principe est en amont lorsqu'il intervient dans la détermination des conditions de l'analyse avant que celle-ci ne porte sur une situation particulière.
+Un principe est en amont lorsqu'il intervient dans la détermination des conditions générales de l'analyse avant que celle-ci ne porte sur une situation particulière.
 
 ENGAGEMENT D'AMONT
        │
@@ -158,9 +197,9 @@ Il peut donc être :
 - confronté à ses conséquences ;
 - révisé lorsqu'il devient inadéquat.
 
-Cette révisabilité ne constitue pas une faiblesse accidentelle.
+Il n'est pas extérieur à l'histoire de Protokin.
 
-Elle appartient à son statut.
+Il en fait partie.
 
 ---
 
@@ -177,18 +216,18 @@ Il règle la manière dont Protokin entend l'étudier.
 La différence peut être résumée ainsi :
 
 PRINCIPE D'AMONT
-    │
-    │ oriente l'enquête
-    ▼
+       │
+       │ oriente l'enquête
+       ▼
 MÉTATHÉORIE
-    │
-    │ analyse
-    ▼
+       │
+       │ analyse
+       ▼
 PRATIQUES DE PREMIER ORDRE
-    │
-    │ comportent leurs propres
-    │ critères et contraintes
-    ▼
+       │
+       │ comportent leurs propres
+       │ critères et contraintes
+       ▼
 SITUATIONS PARTICULIÈRES
 
 Cette distinction protège Protokin contre une confusion entre les engagements de la métathéorie et ceux des pratiques qu'elle examine.
@@ -233,13 +272,13 @@ Orientation
 
 Certains principes déterminent les déplacements de regard nécessaires à l'enquête.
 
-Ils règlent ce que Protokin doit prendre en compte avant toute analyse particulière.
+Ils règlent ce que Protokin doit pouvoir prendre en compte avant toute analyse particulière.
 
 Articulation
 
-D'autres principes organisent les relations entre les différents niveaux auxquels l'analyse doit pouvoir circuler.
+D'autres principes organisent les relations entre les différents registres auxquels l'analyse doit pouvoir se rapporter.
 
-Ils empêchent notamment de confondre des fonctions appartenant à des niveaux différents.
+Ils empêchent notamment de confondre des fonctions appartenant à des régimes différents.
 
 Pluralisation
 
@@ -267,11 +306,11 @@ Il produit lui-même des descriptions de second ordre.
 
 Il doit donc accepter la conséquence suivante :
 
-«Une métathéorie qui examine les conditions de validité des descriptions doit également pouvoir examiner les conditions de validité de ses propres descriptions.»
+«Une métathéorie qui examine les conditions de ses propres descriptions doit également pouvoir examiner les conditions de ses propres engagements.»
 
 La réflexivité n'est ainsi pas une étape ajoutée à la fin de l'architecture.
 
-Elle est une contrainte qui accompagne dès le départ le statut des principes.
+Elle constitue une contrainte qui accompagne dès le départ le statut des principes.
 
 ---
 
@@ -301,27 +340,25 @@ La section 01 fournit à la section 02 ses conditions d'orientation.
 
 La section 02 pourra alors expliciter l'organisation générale de Protokin sans devoir réintroduire à chaque étape le statut des engagements qui la rendent possible.
 
-La relation est donc :
-
 01 — PRINCIPES
-      │
-      │ conditions d'orientation
-      ▼
+       │
+       │ conditions d'orientation
+       ▼
 02 — ARCHITECTURE
-      │
-      │ organisation fonctionnelle
-      ▼
+       │
+       │ organisation fonctionnelle
+       ▼
 03 — FONDEMENTS DESCRIPTIFS
-      │
-      ▼
+       │
+       ▼
 04 — PRATIQUES DESCRIPTIVES
-      │
-      ▼
+       │
+       ▼
 05 — DYNAMIQUE DESCRIPTIVE
 
-La section 01 fournit le cadre régulateur.
+La section 01 fournit donc un cadre régulateur.
 
-Elle ne fournit pas encore l'architecture complète.
+Elle ne fournit pas l'architecture complète.
 
 ---
 
@@ -337,11 +374,33 @@ Ils permettent notamment de demander :
 
 «L'analyse conduite respecte-t-elle les engagements d'amont qu'elle prétend mobiliser ?»
 
-Cette question ne constitue pas une procédure d'audit détaillée.
+Cette question n'est pas encore une procédure d'audit détaillée.
 
 Elle indique seulement pourquoi les principes sont nécessaires à l'architecture méthodologique ultérieure.
 
 La formalisation de l'audit appartient à la section qui lui est consacrée.
+
+---
+
+Les engagements d'amont ne sont pas hors enquête
+
+Un point doit être maintenu explicitement.
+
+Le fait qu'un principe soit placé en amont ne signifie pas qu'il échappe à l'enquête.
+
+Au contraire, son caractère d'amont rend nécessaire sa visibilité.
+
+Il doit pouvoir être identifié comme :
+
+- un engagement ;
+- une orientation ;
+- une contrainte méthodologique ;
+- une source possible de biais ;
+- un élément susceptible d'être révisé.
+
+Protokin ne cherche donc pas à supprimer ses présupposés.
+
+Il cherche à les rendre examinables.
 
 ---
 
@@ -359,7 +418,7 @@ Cette page ne doit pas :
 
 Son objet est plus restreint :
 
-«établir ce qu'est un principe dans Protokin et pourquoi des principes d'amont sont nécessaires à son architecture.»
+«établir ce qu'est un principe dans Protokin et pourquoi des engagements d'amont sont nécessaires à son architecture.»
 
 ---
 
@@ -372,8 +431,9 @@ Elle établit le statut des principes fondamentaux comme engagements d'amont ré
 Elle établit également leur fonction architecturale :
 
 - orienter l'enquête ;
-- déterminer des conditions générales d'analyse ;
+- déterminer certaines conditions générales d'analyse ;
 - maintenir les distinctions nécessaires à l'architecture ;
+- empêcher certaines conversions entre fonctions descriptives ;
 - rendre possible une réflexivité de la métathéorie sur elle-même.
 
 Ce qu'elle suppose
