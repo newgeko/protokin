@@ -1,3 +1,5 @@
+# Page : justifications.md
+
 # Justifications — La production publique de raisons au sein de l'espace déontique
 
 | Fonction | Établir la notion de **justification** dans l'architecture de Protokin en tant que pratique discursive publique par laquelle un locuteur produit et présente des habilitations (*entitlements*) pour défendre la recevabilité de ses engagements face aux contestations ou demandes de raisons formulées au sein de l'espace des raisons. |
