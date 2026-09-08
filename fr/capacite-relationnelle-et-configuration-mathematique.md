@@ -1,3 +1,5 @@
+# Page : capacite-relationnelle-et-configuration-mathematique.md
+
 De la capacité relationnelle à la configuration formelle
 
 Fonction
