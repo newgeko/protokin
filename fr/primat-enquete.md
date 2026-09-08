@@ -1,3 +1,5 @@
+# Page : primat-enquete.md
+
 # Le primat de l'enquête — Toute description résulte d'une pratique d'investigation
 
 | Fonction | Établir que, dans Protokin, une description n'est jamais une donnée immédiate mais le résultat d'une enquête, explicite ou implicite, par laquelle des différences sont identifiées, sélectionnées, organisées et justifiées. |
