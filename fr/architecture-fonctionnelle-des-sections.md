@@ -1,3 +1,5 @@
+# Page : architecture-fonctionnelle-des-sections.md
+
 Fonctions architecturales des sections
 
 00 — Se repérer : Matrice d’orientation générale et sas d’entrée méthodologique. Cette section accueille le lecteur, définit la posture métathéorique non ontologique de Protokin, présente son nom, sa formule synthétique, ses distinctions fondamentales et les différents parcours de lecture.
