@@ -1,3 +1,5 @@
+# Page : wilfrid-sellars.md
+
 Wilfrid Sellars — Le démantèlement du Donné et l'articulation bimodale de l'intelligibilité
 
 Analyse architecturale de la page
