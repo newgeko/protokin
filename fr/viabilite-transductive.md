@@ -1,3 +1,5 @@
+# Page : viabilite-transductive.md
+
 La viabilité transductive : normativité, réflexivité et continuité des possibles
 
 1. Le problème de la normativité humaine
