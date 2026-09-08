@@ -1,3 +1,5 @@
+# Page : norme-descriptive.md
+
 # Norme descriptive
 
 | Fonction | Établir la notion de **norme descriptive** dans l'architecture de Protokin en tant que contrainte immanente qui règle la production, l'évaluation, la justification, la correction et la révision des descriptions au sein d'une pratique descriptive. |
