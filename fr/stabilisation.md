@@ -1,3 +1,5 @@
+# Page : stabilisation.md
+
 # Stabilisation — Le processus de consolidation et la persistance des configurations descriptives
 
 | Fonction | Établir le concept de **stabilisation** dans l'architecture de Protokin comme processus historique résultant des opérations de maintien par lesquelles une configuration descriptive obtient une continuité relative, permettant sa reproduction, sa transmission et sa mobilisation au sein d'une communauté de locuteurs. |
