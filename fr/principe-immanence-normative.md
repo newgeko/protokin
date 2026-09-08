@@ -1,3 +1,5 @@
+# Page : principe-immanence-normative.md
+
 # Le principe d'immanence normative
 
 > **Toute norme descriptive est immanente aux pratiques qui la produisent, la maintiennent, la discutent et la transforment.**
