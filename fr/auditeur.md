@@ -1,3 +1,5 @@
+# Page : auditeur.md
+
 # Auditeur — Position d'évaluation, réception normative et contrôle descriptif
 
 | Fonction | Établir la notion d'**auditeur** dans l'architecture de Protokin en tant que position épistémique, normative et relationnelle par laquelle une assertion est reçue, évaluée et intégrée ou contestée au sein d'une pratique descriptive. |
