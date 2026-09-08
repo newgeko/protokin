@@ -1,4 +1,6 @@
-Voici la proposition complète de la page dédiée au chaînon manquant identifié : l'opérateur de désédimentation. Rédigée selon les normes universitaires de Protokin (Version 26.08.161) en Mode A — Développement conceptuel, elle s'insère au sein de la Section 05 — Dynamique descriptive (ou en articulation étroite avec la Section 06).
+# Page : desedimentation.md
+
+
 Protokin 2026 — version 26.08.161
 Désédimentation — L'opérateur de dé-stabilisation active et de restauration de la plasticité catégorielle
 Section : 05 — Dynamique descriptive
