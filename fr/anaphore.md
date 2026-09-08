@@ -1,3 +1,5 @@
+# Page : anaphore.md
+
 ### L'anaphore — L'héritage asymétrique et la genèse de la répétabilité
 
 #### Fonction
