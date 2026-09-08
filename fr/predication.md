@@ -1,3 +1,5 @@
+# Page : predication.md
+
 # Prédication — La fonction d'attribution locale
 
 > **Fonction :** Établir la fonction de prédication dans l'architecture de Protokin en tant que fonction descriptive primaire d'attribution locale d'une propriété, d'une catégorie ou d'un statut.
