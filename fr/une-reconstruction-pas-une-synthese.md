@@ -1,3 +1,5 @@
+# Page : une-reconstruction-pas-une-synthese.md
+
 Introduction — Une reconstruction plutôt qu'une synthèse
 
 Protokin ne se constitue pas par l'addition de doctrines philosophiques ou scientifiques préexistantes. Les traditions auxquelles elle se réfère appartiennent à des histoires intellectuelles différentes, répondent à des problèmes qui ne coïncident pas nécessairement et ne partagent ni les mêmes concepts ni les mêmes critères de validité. Leur présence dans l'architecture protokinienne doit donc être comprise autrement : elles sont reconstruites rétrospectivement à partir des fonctions qu'elles permettent d'assurer dans une même enquête.
