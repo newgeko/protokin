@@ -1,3 +1,5 @@
+# Page : pratique-collective.md
+
 # Pratique collective
 
 | Fonction | Établir la notion de **pratique collective** dans l'architecture de Protokin en tant qu'ensemble organisé d'activités, de normes, de rôles, de supports et d'interactions permettant à plusieurs agents de produire, de maintenir, de transmettre, de corriger et de transformer des descriptions. |
