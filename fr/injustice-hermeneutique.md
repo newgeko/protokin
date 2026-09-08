@@ -1,3 +1,5 @@
+# Page : injustice-hermeneutique.md
+
 Injustice herméneutique — La formalisation du déficit catégoriel structurel dans l'espace des raisons
 
 Analyse architecturale de la page
