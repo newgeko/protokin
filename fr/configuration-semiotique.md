@@ -1,3 +1,5 @@
+# Page : configuration-semiotique.md
+
 # Configuration sémiotique — L'inscription des différences disponibles
 
 ## Fonction de la page
