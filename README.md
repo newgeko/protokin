@@ -1,597 +1,508 @@
-# Protokin 🧭
+Protokin 🧭
 
-**Une métathéorie pragmatiste, inférentialiste, réflexive et non-ontologique des pratiques descriptives.**
+Une métathéorie pragmatiste, inférentialiste, réflexive et non-ontologique des pratiques descriptives.
 
-> Version : 26.08.212 · Architecture : PROTO / KIN · Statut : cOS conceptuel · Licence : CC-BY-NC-SA 4.0
-
----
-
-## 📌 En une phrase
-
-> Protokin n'est pas une théorie de ce qui est, mais une architecture d'enquête sur les conditions, les fonctions et les transformations des descriptions par lesquelles des pratiques collectives rendent certaines différences descriptibles, discutables, justifiables et transformables.
+Version : 26.08.212
+Architecture : PROTO / KIN
+Statut : architecture conceptuelle et opératoire
+Licence : CC-BY-NC-SA 4.0
 
 ---
 
-## 🧭 Qu'est-ce que Protokin ?
+En une phrase
 
-Protokin est une **métathéorie des pratiques descriptives**.
+Protokin examine comment des pratiques situées rendent certaines différences descriptibles, comment ces descriptions acquièrent des fonctions, comment elles se maintiennent ou se transforment, et comment leurs fonctions peuvent être distinguées sans convertir un type de description dans un autre.
 
-Elle ne cherche pas à produire une description ultime du monde, ni à remplacer les sciences, les pratiques professionnelles ou les formes ordinaires d'enquête.
+Protokin ne cherche donc pas à produire une description ultime du réel.
 
-**Son objet est différent :**
-
-- comment une différence devient descriptible ;
-- dans quelles conditions une description devient pertinente ;
-- comment des critères de qualification se forment ;
-- comment des descriptions sont maintenues, contestées ou transformées ;
-- comment plusieurs régimes descriptifs peuvent porter sur une même configuration ;
-- comment ces régimes peuvent être articulés sans que leurs fonctions soient confondues ;
-- comment une architecture descriptive peut elle-même être soumise à l'examen.
-
-Protokin prend ainsi pour objet non pas seulement ce qui est décrit, mais **l'activité descriptive elle-même**.
+Il examine les conditions, les fonctions, les critères, les inférences et les conséquences pratiques des descriptions.
 
 ---
 
-## 🔄 Le déplacement fondamental
+1. Qu'est-ce que Protokin ?
 
-Les controverses portent souvent directement sur leurs objets :
+Protokin est une métathéorie des pratiques descriptives.
 
-> « Qu'est-ce qu'une maladie ? »  
-> « Qu'est-ce qu'une intelligence ? »  
-> « Qu'est-ce qu'une institution ? »  
-> « Qu'est-ce qu'une action juste ? »  
-> « Qu'est-ce qu'une intelligence artificielle ? »
+Elle ne remplace ni les sciences, ni les pratiques professionnelles, ni les descriptions ordinaires. Elle cherche à comprendre comment ces pratiques fonctionnent lorsqu'elles décrivent, qualifient, expliquent, justifient ou transforment une situation.
 
-Protokin ne supprime pas ces questions.  
-Il ajoute une question antérieure :
+La question centrale n'est pas :
 
-> **« Dans quelles conditions quelque chose devient-il descriptible comme maladie, intelligence, institution, action juste ou intelligence artificielle ? »**
+«Qu'est-ce que cette chose est en réalité ?»
 
-### Le déplacement peut être formulé ainsi :
+mais :
 
-```
+«Dans quelles conditions cette différence devient-elle descriptible d'une certaine manière, et que fait cette description dans la pratique où elle intervient ?»
 
-Objet supposé disponible
-│
-▼
-DESCRIPTION
-│
-▼
-Conditions de descriptibilité
-│
-▼
-Pratiques de qualification
-│
-▼
-Critères et conséquences
-│
-▼
-Transformation possible
+Une description n'est donc jamais considérée uniquement comme un énoncé portant sur un objet.
 
-```
+Elle possède une fonction dans une pratique.
 
-Il ne s'agit donc pas de remplacer l'étude des objets par l'étude des descriptions.  
-Il s'agit de rendre explicites les conditions et les fonctions qui permettent à une description de fonctionner.
+Cette fonction peut consister à :
+
+- décrire ;
+- qualifier ;
+- distinguer ;
+- articuler ;
+- maintenir ;
+- transformer ;
+- délimiter ;
+- tracer ;
+- expliquer ;
+- justifier ;
+- auditer ;
+- examiner.
 
 ---
 
-## ⚖️ Une architecture non-ontologique
+2. Le déplacement fondamental
 
-Protokin ne pose pas derrière les descriptions un ensemble de niveaux d'être auxquels chaque régime devrait correspondre.  
-Il distingue des **fonctions descriptives**.
+Protokin déplace l'attention de l'objet supposé vers les conditions de sa descriptibilité.
 
-Une même configuration peut ainsi être prise dans plusieurs descriptions :
+Une enquête peut être schématisée ainsi :
 
-> « Les mêmes configurations peuvent être prises dans des descriptions différentes sans que les fonctions de ces descriptions soient équivalentes. »
+Situation
+   ↓
+Différence pertinente
+   ↓
+Description
+   ↓
+Qualification
+   ↓
+Critères et inférences
+   ↓
+Fonction descriptive
+   ↓
+Conséquences pratiques
+   ↓
+Maintien / contestation / transformation
 
-Cette pluralité n'implique ni relativisme absolu ni hiérarchie ontologique automatique.  
-Elle impose une **exigence de distinction fonctionnelle**.
+Ce schéma ne décrit pas une succession universelle et obligatoire.
+
+Il sert à identifier les fonctions effectivement exercées par les descriptions.
 
 ---
 
-## 🔵 PROTO et 🟠 KIN
+3. Une approche non-ontologique
 
-L'architecture générale de Protokin distingue deux fonctions architecturales :
+Protokin ne pose pas plusieurs niveaux d'être correspondant à plusieurs types de descriptions.
 
-### PROTO
-Registre des conditions matérielles, corporelles, écologiques et transactionnelles dans lesquelles les pratiques descriptives prennent place.
+Il ne dit pas :
 
-- Organisme ↔ milieu
-- Perception ↔ action
-- Contraintes
-- Traces
-- Transformations fonctionnelles
+«il existe d'abord un monde matériel, puis un monde social, puis un monde normatif.»
 
-### Articulation / transduction sans conversion
-Entre ces deux fonctions, Protokin examine les relations de dépendance, de médiation et de transformation sans autoriser une conversion automatique des catégories.
+Il distingue des fonctions descriptives différentes.
 
-### KIN
-Registre des descriptions historiques, relationnelles et normatives dans lesquelles des distinctions sont reprises, évaluées, transmises et transformées.
+Une même configuration peut ainsi être prise dans plusieurs descriptions sans que ces descriptions aient la même fonction.
 
-- Assertions
-- Critères
-- Engagements
-- Scorekeeping
-- Justifications
-- Trajectoires historiques
+Une configuration physiologique peut par exemple être décrite :
 
-**PROTO et KIN ne désignent donc ni deux mondes, ni deux substances, ni deux niveaux d'être.**  
-Ils désignent deux **fonctions architecturales de description**.
+- comme processus biologique ;
+- comme état clinique ;
+- comme expérience vécue ;
+- comme objet de recherche ;
+- comme problème institutionnel.
 
-La distinction entre espace des causes et espace des raisons, notamment dans le prolongement de Sellars, permet de préciser cette différence fonctionnelle.  
-Elle ne doit toutefois pas être transformée en identité :
+Ces descriptions peuvent porter sur une même configuration sans être interchangeables.
 
-```
+La pluralité descriptive n'implique donc ni :
+
+- relativisme absolu ;
+- hiérarchie ontologique ;
+- réduction d'une description à une autre.
+
+Elle implique l'examen de leurs fonctions respectives et de leurs relations.
+
+---
+
+4. PROTO / KIN
+
+PROTO et KIN ne désignent ni deux mondes, ni deux substances, ni deux niveaux d'être.
+
+Ils désignent deux fonctions générales de description.
+
+PROTO
+
+PROTO concerne principalement les descriptions portant sur :
+
+- les configurations matérielles ;
+- les organismes ;
+- les corps ;
+- les interactions ;
+- les contraintes ;
+- les processus biologiques ;
+- les dynamiques écologiques ;
+- les relations transactionnelles ;
+- les conditions de transformation.
+
+KIN
+
+KIN concerne principalement les descriptions portant sur :
+
+- les pratiques historiques ;
+- les relations sociales ;
+- les significations ;
+- les engagements ;
+- les critères ;
+- les normes ;
+- les assertions ;
+- les justifications ;
+- les responsabilités ;
+- les conséquences discursives.
+
+Cette distinction est fonctionnelle.
+
+Elle ne constitue pas une division ontologique du réel.
+
+---
+
+5. PROTO n'est pas l'espace des causes
+
+La distinction PROTO / KIN est informée par la distinction sellarsienne entre espace des causes et espace des raisons, mais elle ne lui est pas identique.
 
 PROTO ≠ espace des causes
 KIN   ≠ espace des raisons
 
-```
+Une description causale appartient à une pratique descriptive déterminée.
 
-La distinction est fonctionnelle, non ontologique.
+Elle suppose donc déjà :
 
-### Principe de non-conversion
+- des distinctions pertinentes ;
+- des critères de pertinence ;
+- des instruments ;
+- des méthodes ;
+- des concepts ;
+- des pratiques d'enquête ;
+- une histoire de leur élaboration.
 
-La continuité entre ces fonctions n'autorise pas leur conversion :
+Ainsi, même lorsqu'une relation causale est matériellement antérieure à sa description, la description de cette relation n'est pas historiquement sans conditions.
 
-> Une cause n'est pas une raison.  
-> Une raison n'est pas une cause.  
-> Une genèse n'est pas une justification.  
-> Une justification n'est pas une genèse.
+Il faut donc distinguer :
 
-Cela n'interdit ni les relations ni les médiations.  
-Cela interdit de **changer de régime sans signaler le changement de fonction descriptive**.
+relation causale décrite
+        ≠
+description causale de cette relation
+
+La première peut concerner une dépendance matérielle.
+
+La seconde est une opération située dans une pratique historique d'enquête.
+
+Il existe donc une histoire des raisons qui conduisent à retenir une certaine description causale, sans que la relation causale décrite devienne pour autant une raison normative.
 
 ---
 
-## 🧬 Continuité de genèse, discontinuité de fonction
+6. Causes et raisons : distinction sans séparation absolue
 
-Protokin refuse deux formes de réduction symétriques.
+Protokin maintient la différence entre causes et raisons sans supposer qu'elles seraient totalement indépendantes dans les pratiques humaines.
 
-D'une part, une description normative ne peut être simplement reconduite à ses conditions matérielles.  
-D'autre part, la distinction entre les raisons et leurs fonctions propres ne justifie pas la suspension de leurs conditions corporelles, matérielles, écologiques ou historiques.
+Une pratique scientifique peut être matériellement contrainte par son objet tout en étant historiquement orientée par des critères de pertinence.
 
-Protokin cherche plutôt à maintenir :
+Une description normative peut dépendre de conditions matérielles sans être réductible à ces conditions.
 
-```
+La relation pertinente est donc :
 
 continuité des dépendances
 +
 discontinuité des fonctions
 +
-non-conversion des régimes
+non-conversion des descriptions
 
-```
+Les causes peuvent contribuer aux conditions dans lesquelles une pratique de justification devient possible.
 
-Une description peut donc être matériellement conditionnée sans être matériellement réductible.  
-Inversement, une description normative peut avoir des effets matériels sans devenir pour autant une description causale.
+Les raisons peuvent contribuer à déterminer quelles descriptions causales seront recherchées, retenues ou contestées.
 
----
+Mais :
 
-## 🧭 Les engagements d'amont
-
-Protokin ne repose pas sur des axiomes censés garantir sa vérité depuis un point extérieur.  
-Il explicite des **engagements d'amont**.
-
-Un engagement d'amont est une orientation générale de l'enquête qui :
-
-- précède fonctionnellement les analyses particulières ;
-- règle certaines distinctions ;
-- rend certaines confusions détectables ;
-- peut être discutée ;
-- peut être révisée ;
-- reste elle-même soumise à l'examen.
-
-L'« amont » désigne donc une antériorité fonctionnelle, et non une priorité ontologique.
-
-Les principes fondamentaux ne sont pas des vérités placées hors enquête.  
-Ils font partie de l'architecture de l'enquête.
-
----
-
-## 📐 Principes structurants
-
-L'architecture de Protokin s'organise notamment autour des engagements suivants :
-
-1. Primat du couplage organisme-milieu  
-2. Primat du couplage perception-action  
-3. Primat de la description  
-4. Primat de l'enquête  
-5. Description située  
-6. Distinction fonctionnelle entre causes et raisons  
-7. Immanence normative  
-8. Dépendances fonctionnelles  
-9. Pluralisme descriptif  
-10. Réflexivité  
-11. Humilité épistémique  
-
-Cette liste constitue une cartographie architecturale.  
-L'établissement et la discussion de chaque principe appartiennent à sa page propre.
-
----
-
-## 🧩 Une architecture des régimes descriptifs
-
-Protokin ne suppose pas qu'il existe une seule manière correcte de décrire une configuration.  
-Il examine plutôt une **pluralité de régimes descriptifs**.
-
-Un régime n'est pas simplement un vocabulaire.  
-Il détermine notamment :
-
-- ce qui peut compter comme différence ;
-- ce qui peut être distingué ;
-- ce qui peut être qualifié ;
-- quels critères peuvent être mobilisés ;
-- quelles inférences deviennent disponibles ;
-- quelles transformations peuvent être reconnues ;
-- quelles conséquences pratiques peuvent être tirées.
-
-> « Un régime ne décrit pas simplement le monde : il définit les conditions sous lesquelles quelque chose devient descriptible d'une certaine manière. »
-
-Cette formulation ne signifie pas que les régimes inventent leurs objets à volonté.  
-Ils restent exposés à des contraintes, résistances, traces, pratiques et conséquences.
-
----
-
-## 🔁 Description, transformation et temporalité
-
-Une description n'est pas nécessairement un état fixe.  
-Elle peut être :
-
-```
-
-produite
-↓
-reprise
-↓
-maintenue
-↓
-contestée
-↓
-transformée
-↓
-réinscrite
-
-```
-
-Protokin s'intéresse donc également aux dynamiques descriptives :
-
-- maintien ;
-- transformation ;
-- délimitation ;
-- traçage ;
-- transmission ;
-- sédimentation ;
-- désédimentation ;
-- traduction ;
-- conflit entre régimes ;
-- réorganisation des critères.
-
-La temporalité descriptive ne constitue pas un simple arrière-plan chronologique.  
-Elle concerne la manière dont une description acquiert, conserve ou modifie sa fonction dans une trajectoire collective.
-
----
-
-## 🔬 Une métathéorie de l'enquête
-
-Protokin peut être utilisé comme un outil d'enquête de second ordre.
-
-Il ne demande pas seulement :
-
-> « Cette description est-elle vraie ? »
-
-Il permet également de demander :
-
-- Qui décrit ?
-- Depuis quelle pratique ?
-- Avec quelles ressources ?
-- Selon quels critères ?
-- Dans quel régime ?
-- Quelles distinctions deviennent possibles ?
-- Quelles inférences sont autorisées ?
-- Quelles dépendances rendent cette description possible ?
-- Que rend-elle visible ?
-- Que laisse-t-elle hors champ ?
-- Que produit sa stabilisation ?
-- Comment peut-elle être contestée ou transformée ?
-
-L'objectif n'est pas de relativiser toute description.  
-Il est de rendre son fonctionnement examinable.
-
----
-
-## 🩺 Audit et pathologies descriptives
-
-L'audit protokinien cherche notamment à repérer les situations dans lesquelles les fonctions descriptives sont confondues.
-
-Parmi les problèmes susceptibles d'être examinés :
-
-| Problème | Fonction |
-|----------|----------|
-| Réduction unilatérale | Un régime est ramené à un autre |
-| Confusion de régime | Des critères propres à un régime sont appliqués à un autre |
-| Erreur de catégorie | Une fonction descriptive est attribuée au mauvais type de description |
-| Essentialisation | Une stabilisation descriptive est transformée en propriété supposée intrinsèque |
-| Blocage de traduction | Des régimes deviennent incapables de se coordonner |
-| Injustice herméneutique | Une expérience ne dispose pas des ressources descriptives nécessaires pour être rendue intelligible |
-| Saturation descriptive | Une description monopolise la situation au détriment d'autres fonctions pertinentes |
-
-L'audit ne constitue pas un tribunal extérieur.  
-Il est lui-même une pratique descriptive susceptible d'être examinée.
-
----
-
-## 🔍 Le protocole général d'enquête
-
-L'enquête protokinienne peut être schématiquement organisée ainsi :
-
-```
-
-Trouble / situation problématique
-↓
-Délimitation de la situation
-↓
-Identification des régimes
-↓
-Cartographie des dépendances
-↓
-Examen des fonctions
-↓
-Diagnostic des confusions
-↓
-Traduction / réorganisation
-↓
-Nouvelle enquête
-
-```
-
-Il ne s'agit pas d'un algorithme universel.  
-Le protocole reste adaptable aux pratiques étudiées.
-
----
-
-## 📂 Architecture documentaire
-
-Le corpus est organisé en sections fonctionnelles :
-
-```
-
-protokin/
-│
-├── 00-se-reperer/
-│   └── Orientation, introduction, parcours et synthèses
-│
-├── 01-principes-fondamentaux/
-│   └── Engagements d'amont et principes régulateurs
-│
-├── 02-architecture-generale/
-│   └── Architecture, relations et cartographies de Protokin
-│
-├── 03-fondements-descriptifs/
-│   └── Conditions de la descriptibilité et fondements fonctionnels
-│
-├── 04-pratiques-descriptives/
-│   └── Assertions, locuteurs, qualifications et pratiques collectives
-│
-├── 05-dynamique-descriptive/
-│   └── Maintien, transformation, délimitation et conflits descriptifs
-│
-├── 06-temporalite-descriptive/
-│   └── Trajectoires, allures, sédimentations et temporalités
-│
-├── 07-explication/
-│   └── Causes, raisons, explication, justification et articulation
-│
-├── 08-methode-protokin/
-│   └── Enquête, audit, diagnostic et traduction
-│
-├── 09-reflexivite/
-│   └── Auto-application, pluralisme et examen de Protokin
-│
-├── 10-heritages-philosophiques/
-│   └── Reconstruction des filiations philosophiques
-│
-├── 11-etudes-de-cas/
-│   └── Applications et monographies
-│
-└── 12-conclusion/
-└── Bilan, limites et perspectives
-
-```
-
----
-
-## 🗺️ Parcours de lecture
-
-### 🚀 Découvrir Protokin
-
-```
-
-00-se-reperer/
-↓
-02-architecture-generale/
-↓
-03-fondements-descriptifs/
-
-```
-
-### 🧠 Comprendre ses fondements
-
-```
-
-01-principes-fondamentaux/
-↓
-03-fondements-descriptifs/
-↓
-04-pratiques-descriptives/
-↓
-05-dynamique-descriptive/
-
-```
-
-### 🛠️ Utiliser Protokin comme méthode
-
-```
-
-03-fondements-descriptifs/
-↓
-08-methode-protokin/
-↓
-11-etudes-de-cas/
-
-```
-
-### 🔄 Examiner Protokin lui-même
-
-```
-
-09-reflexivite/
-↓
-10-heritages-philosophiques/
-↓
-12-conclusion/
-
-```
-
----
-
-## 🚫 Ce que Protokin ne prétend pas faire
-
-1. **Remplacer les savoirs de premier ordre**  
-   Protokin n'est ni une science particulière, ni une méthode destinée à remplacer les compétences propres aux pratiques étudiées.
-
-2. **Produire une ontologie ultime**  
-   Protokin ne prétend pas déterminer la structure dernière de la réalité.
-
-3. **Réduire les raisons aux causes**  
-   Les conditions matérielles d'une pratique normative ne constituent pas, à elles seules, ses raisons.
-
-4. **Suspendre les conditions matérielles**  
-   La distinction fonctionnelle entre causes et raisons ne justifie pas l'effacement des conditions corporelles, matérielles, écologiques ou historiques des pratiques normatives.
-
-5. **Transformer le pluralisme en relativisme**  
-   Reconnaître plusieurs régimes descriptifs ne signifie pas que toutes les descriptions se valent indépendamment de leurs fonctions, contraintes et conséquences.
-
-6. **Devenir un tribunal extérieur**  
-   Protokin ne dispose d'aucun point de vue absolument extérieur aux pratiques qu'il examine.
-
-7. **Se soustraire à l'audit**  
-   Les concepts, principes et distinctions de Protokin doivent pouvoir être eux-mêmes discutés, critiqués et révisés.
-
----
-
-## 🔁 La règle de non-conversion
-
-La règle centrale peut être résumée ainsi :
-
-> « Une continuité entre des descriptions n'autorise pas leur conversion. »
-
-Cela implique notamment :
-
-```
-
-Cause       ≠ Raison
-Genèse      ≠ Justification
-Condition   ≠ Critère
-Trace       ≠ Signification
-Contrainte  ≠ Norme
+Cause ≠ Raison
+Condition ≠ Critère
+Genèse ≠ Justification
+Contrainte ≠ Norme
+Trace ≠ Signification
 Description ≠ Objet décrit
 
-```
-
-Ces distinctions n'interdisent pas les relations.  
-Elles permettent précisément de les décrire sans les confondre.
+La dépendance n'abolit pas la différence fonctionnelle.
 
 ---
 
-## 🪞 Réflexivité
+7. Le principe de non-conversion
 
-Protokin est soumis à la même exigence qu'il applique aux autres régimes descriptifs.
+Le principe de non-conversion constitue une contrainte fondamentale de Protokin.
 
-Ses propres catégories doivent pouvoir être :
+Une description ne doit pas être transformée artificiellement en une autre fonction descriptive.
 
-- situées ;
-- qualifiées ;
-- articulées ;
-- contestées ;
-- transformées ;
-- comparées à d'autres architectures ;
-- soumises à un contre-audit.
+Ainsi :
 
-> « Protokin ne cherche donc pas le dernier mot sur les descriptions ; il cherche à rendre leurs conditions et leurs transformations plus explicitement examinables. »
+cause → raison
 
----
+n'est pas une inférence valide simplement parce qu'une cause explique l'apparition d'une pratique.
 
-## 🤝 Contribution et contre-audit
+De même :
 
-Protokin est un projet ouvert et révisable.
+raison → cause
 
-Les contributions peuvent porter sur :
+n'est pas une inférence valide simplement parce qu'une norme possède des conditions matérielles d'existence.
 
-- les concepts ;
-- les distinctions ;
-- les régimes descriptifs ;
-- les filiations théoriques ;
-- les études de cas ;
-- les protocoles d'enquête ;
-- les diagnostics ;
-- les contre-exemples ;
-- les contre-audits.
-
-Toute critique substantielle est potentiellement une ressource pour l'architecture.
-
-Un contre-audit ne doit donc pas seulement demander :
-
-> « Protokin a-t-il raison ? »
-
-mais également :
-
-> « Dans quelles conditions les distinctions de Protokin cessent-elles de fonctionner ? »
+Protokin cherche précisément à identifier ces glissements.
 
 ---
 
-## 📜 Statut du projet
+8. Les conditions de descriptibilité
 
-Protokin est une architecture conceptuelle et opératoire.
-Elle organise un ensemble de fonctions permettant de :
+Protokin s'intéresse aux conditions sous lesquelles quelque chose devient descriptible d'une certaine manière.
 
-```
+Un régime descriptif ne correspond donc pas simplement à un vocabulaire.
 
-décrire
-↓
-qualifier
-↓
-articuler
-↓
-maintenir
-↓
-transformer
-↓
-délimiter
-↓
-tracer
-↓
-expliquer
-↓
-justifier
-↓
-auditer
-↓
-examiner
+Il détermine notamment :
 
-```
+- quelles différences peuvent être distinguées ;
+- quelles propriétés peuvent être qualifiées ;
+- quelles distinctions sont pertinentes ;
+- quels critères peuvent être mobilisés ;
+- quelles inférences deviennent possibles ;
+- quelles transformations peuvent être envisagées ;
+- quelles conséquences pratiques deviennent accessibles.
 
-Ces fonctions ne constituent pas une ontologie des pratiques.
-Elles forment une architecture opératoire pour leur examen.
+Un régime descriptif ne « crée » pas nécessairement son objet.
+
+Il détermine plutôt la manière dont une configuration peut devenir descriptible dans une pratique déterminée.
 
 ---
 
-## 🧭 Formule finale
+9. Description et transformation
 
-> « Protokin ne dit pas ce que le monde est.  
-> Il examine comment des pratiques situées rendent certaines différences descriptibles, comment leurs descriptions acquièrent une fonction, comment elles se maintiennent ou se transforment, et comment leurs distinctions peuvent être examinées sans convertir un régime dans un autre. »
+Les descriptions ne sont pas seulement des représentations.
+
+Elles peuvent intervenir dans les pratiques qu'elles décrivent.
+
+Une description peut :
+
+- rendre une différence visible ;
+- stabiliser une qualification ;
+- permettre une intervention ;
+- modifier un critère ;
+- soutenir une contestation ;
+- réorganiser une pratique ;
+- produire de nouvelles possibilités d'action.
+
+Une description peut donc participer à la transformation de la situation sans être elle-même la cause unique de cette transformation.
 
 ---
 
-**Protokin — 2026**  
-Projet conceptuel ouvert, réflexif et révisable.
+10. Temporalité des descriptions
+
+Les descriptions ont une histoire.
+
+Elles peuvent être :
+
+produites
+↓
+reprises
+↓
+maintenues
+↓
+contestées
+↓
+transformées
+↓
+réinscrites dans de nouvelles pratiques
+
+Cette temporalité permet d'étudier :
+
+- la stabilisation ;
+- la transmission ;
+- la contestation ;
+- la transformation ;
+- la réorganisation des critères ;
+- les changements de fonction.
+
+L'historicité d'une description ne signifie toutefois pas que tout serait conventionnel.
+
+Elle signifie que les pratiques descriptives ont des conditions historiques d'apparition, de maintien et de transformation.
+
+---
+
+11. Une métathéorie de l'enquête
+
+Protokin pose des questions de second ordre sur les pratiques descriptives.
+
+Pour une description donnée :
+
+- Qui décrit ?
+- Dans quelle pratique ?
+- Avec quelles ressources ?
+- À partir de quelles distinctions ?
+- Selon quels critères ?
+- Quelle fonction la description exerce-t-elle ?
+- Quelles inférences permet-elle ?
+- De quelles autres pratiques dépend-elle ?
+- Que rend-elle visible ?
+- Que laisse-t-elle hors description ?
+- Que permet-elle de maintenir ou de transformer ?
+- Comment peut-elle être contestée ?
+
+L'objectif n'est pas de produire un tribunal extérieur aux pratiques.
+
+L'audit est lui-même une pratique descriptive.
+
+Il doit donc pouvoir être examiné à son tour.
+
+---
+
+12. Problèmes descriptifs
+
+Protokin cherche notamment à repérer :
+
+- les réductions d'une fonction descriptive à une autre ;
+- les confusions entre description causale et justification ;
+- les erreurs de catégorie ;
+- les essentialisations ;
+- les changements implicites de critères ;
+- les généralisations abusives ;
+- les exclusions produites par certaines pratiques descriptives ;
+- les impossibilités de traduction entre descriptions ;
+- les injustices épistémiques ;
+- les descriptions devenues inadéquates pour la pratique où elles interviennent.
+
+L'objectif n'est pas de déclarer une description « vraie » ou « fausse » depuis une position extérieure.
+
+Il s'agit d'examiner ce qu'elle permet de faire, ce qu'elle empêche, les critères auxquels elle répond et les conséquences de son maintien.
+
+---
+
+13. Schéma général d'enquête
+
+Une enquête protokinienne peut suivre une séquence générale :
+
+1. Identifier la situation
+        ↓
+2. Délimiter la différence étudiée
+        ↓
+3. Identifier les descriptions en présence
+        ↓
+4. Examiner leurs critères
+        ↓
+5. Identifier leurs fonctions
+        ↓
+6. Examiner leurs dépendances
+        ↓
+7. Distinguer causes, conditions, critères et raisons
+        ↓
+8. Repérer les conversions illégitimes
+        ↓
+9. Examiner les conséquences pratiques
+        ↓
+10. Réorganiser ou transformer les descriptions si nécessaire
+
+Cette séquence n'est pas une méthode mécanique.
+
+Elle constitue un schéma pour orienter l'enquête.
+
+---
+
+14. Principes directeurs
+
+Protokin repose notamment sur les engagements suivants :
+
+- primat des relations organisme-milieu ;
+- attention aux interactions entre perception et action ;
+- caractère situé de toute description ;
+- importance des pratiques d'enquête ;
+- pluralité fonctionnelle des descriptions ;
+- distinction entre causes et raisons ;
+- distinction entre genèse et justification ;
+- distinction entre conditions et critères ;
+- reconnaissance des normes immanentes aux pratiques ;
+- continuité des dépendances ;
+- discontinuité des fonctions ;
+- non-conversion des descriptions ;
+- réflexivité de toute analyse ;
+- possibilité de révision des critères ;
+- humilité épistémique.
+
+Ces principes ne constituent pas une ontologie fondamentale.
+
+Ils déterminent les conditions de travail de l'enquête protokinienne.
+
+---
+
+15. Ce que Protokin ne prétend pas faire
+
+Protokin ne prétend pas :
+
+- remplacer les savoirs de première intention ;
+- produire une ontologie ultime ;
+- réduire les raisons aux causes ;
+- réduire les causes aux raisons ;
+- transformer les descriptions normatives en descriptions matérielles ;
+- suspendre les conditions matérielles des pratiques ;
+- considérer toute description comme équivalente ;
+- confondre pluralité descriptive et relativisme ;
+- fournir un point de vue absolument extérieur aux pratiques ;
+- s'exempter elle-même de l'examen réflexif.
+
+---
+
+16. Réflexivité
+
+Protokin s'applique à ses propres descriptions.
+
+Les concepts de :
+
+- régime descriptif ;
+- fonction ;
+- critère ;
+- cause ;
+- raison ;
+- condition ;
+- dépendance ;
+- transformation ;
+
+sont eux-mêmes des instruments descriptifs.
+
+Ils peuvent donc être :
+
+- examinés ;
+- contestés ;
+- modifiés ;
+- remplacés.
+
+La réflexivité n'est pas un supplément méthodologique.
+
+Elle constitue une condition de possibilité de la métathéorie.
+
+---
+
+17. Contribution de Protokin
+
+La contribution principale de Protokin consiste à proposer une manière de tenir ensemble plusieurs exigences souvent séparées :
+
+matérialité
++
+historicité
++
+normativité
++
+description
++
+action
++
+réflexivité
+
+sans les réduire les unes aux autres.
+
+La difficulté centrale n'est donc pas seulement de savoir comment relier les causes et les raisons.
+
+Elle est de comprendre comment des pratiques historiquement situées produisent des descriptions portant sur des configurations matérielles, et comment ces descriptions peuvent ensuite exercer des fonctions causales, normatives ou pratiques différentes sans que ces fonctions soient converties les unes dans les autres.
+
+---
+
+18. Formule finale
+
+«Protokin ne dit pas ce que le monde est.
+
+Il examine comment des pratiques situées rendent certaines différences descriptibles, comment leurs descriptions acquièrent une fonction, comment elles dépendent de conditions matérielles et historiques, comment elles se maintiennent ou se transforment, et comment leurs fonctions peuvent être distinguées sans convertir les causes en raisons ni les raisons en causes.»
+
+---
+
+Licence
+
+CC-BY-NC-SA 4.0
