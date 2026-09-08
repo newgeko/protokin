@@ -1,3 +1,5 @@
+# Page : inference-combinatoire.md
+
 # L'Inférence Combinatoire — La dérivation des relations croisées et l'infrastructure de la taxonomie
 
 **Version :** Protokin 2026 — version 26.08.212  
