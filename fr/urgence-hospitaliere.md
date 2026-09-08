@@ -1,3 +1,5 @@
+# Page : urgence-hospitaliere.md
+
 Urgences hospitalières — L'analyse clinique des interactions et des traductions de critères
 
 Analyse architecturale de la page
