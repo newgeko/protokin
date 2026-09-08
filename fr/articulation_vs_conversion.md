@@ -1,3 +1,5 @@
+# Page : articulation_vs_conversion.md
+
 # Causes et Raisons — Pour une Articulation sans Conversion
 
 ## Analyse architecturale de la page
