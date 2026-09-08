@@ -1,3 +1,5 @@
+# Page : diagnostiquer-une-erreur-de-categorie.md
+
 Diagnostiquer une erreur de catégorie — Protocole d'audit des déplacements catégoriels
 
 Analyse architecturale de la page
