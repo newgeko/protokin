@@ -1,3 +1,5 @@
+# Page : categories.md
+
 # Les Catégories Descriptives — L'organisation et la sélection de la dicibilité
 
 **Version :** Protokin 2026 — version 26.08.212  
