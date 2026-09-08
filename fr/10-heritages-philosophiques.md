@@ -1,3 +1,5 @@
+# Page : 10-heritages-philosophiques.md
+
 10 — Héritages philosophiques — La reconstruction rationnelle des filiations conceptuelles
 
 Analyse architecturale de la page
