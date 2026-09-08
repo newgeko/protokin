@@ -1,3 +1,5 @@
+# Page : supports-descriptifs-incorpores.md
+
 # Support descriptif incorporé
 
 | Fonction | Établir la notion de **support descriptif incorporé** dans l'architecture de Protokin en tant que disposition pratique, perceptive, gestuelle et normative stabilisée par l'apprentissage, permettant à un locuteur de porter, d'actualiser et de transmettre des descriptions sans recourir directement à un support descriptif externe. |
