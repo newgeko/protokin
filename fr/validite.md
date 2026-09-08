@@ -1,3 +1,5 @@
+# Page : validite.md
+
 # Validité — Définir la validité descriptive au sein d'un régime
 
 | Fonction | Établir la notion de **validité descriptive** dans l'architecture de Protokin en tant que statut de correction et d'autorisation normative acquis par une description lorsqu'elle satisfait aux critères d'évaluation et de justification propres à un régime descriptif. |
