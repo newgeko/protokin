@@ -1,3 +1,5 @@
+# Page : comparer-deux-descriptions.md
+
 ### Étape préalable obligatoire : Analyse architecturale de la page `comparer-deux-descriptions.md`
 
 #### 1. Fonction unique de la page
