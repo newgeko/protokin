@@ -1,3 +1,5 @@
+# Page : difference-rencontree.md
+
 La différence rencontrée
 
 La genèse émergente des contrastes dans le couplage organisme-milieu
