@@ -1,3 +1,5 @@
+# Page : redevabilite-materielle.md
+
 Redevabilité matérielle et friction de niche
 Version : Protokin 2026 — version 26.08.161
 Fichier : redevabilite-materielle.md
