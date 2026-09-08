@@ -1,3 +1,5 @@
+# Page : transduction-selective-et-ancrage-somatique.md
+
 # La Transformation des Fonctions de Stimulus — L'opérativité pragmatique de la transduction relationnelle
 
 ## Analyse architecturale de la page
