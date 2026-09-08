@@ -1,3 +1,5 @@
+# Page : amnesie-somatique.md
+
 ### Amnésie somatique — L'effacement idéaliste de l'infrastructure corporelle et des causes
 
 #### Fonction
