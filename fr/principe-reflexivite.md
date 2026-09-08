@@ -1,3 +1,5 @@
+# Page : principe-reflexivite.md
+
 # Le principe de réflexivité — La récursivité immanente de la métathéorie
 
 | Fonction | Établir le principe de **réflexivité** en montrant que Protokin applique ses propres concepts et ses propres méthodes à lui-même, excluant toute position de surplomb absolu. |
