@@ -1,3 +1,5 @@
+# Page : recevabilite.md
+
 # Recevabilité — Définir les conditions de recevabilité d'une description
 
 | Fonction | Établir la notion de **recevabilité descriptive** dans l'architecture de Protokin en tant que statut dynamique, relationnel et révisable par lequel une proposition est admise au sein d'un régime descriptif et d'une communauté de locuteurs. |
