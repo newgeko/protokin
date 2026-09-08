@@ -1,3 +1,4 @@
+# Page : analytique_empirique.md
 Analytique et empirique : deux orientations d’une même enquête
 
 La distinction entre analytique et empirique est souvent présentée comme une opposition entre deux manières de connaître. D'un côté, l'analyse conceptuelle, la logique et la cohérence interne ; de l'autre, l'observation, l'expérience et la confrontation aux faits. Cette opposition devient toutefois difficile à maintenir dès lors que l'on considère la connaissance comme une pratique d'enquête organisée.
