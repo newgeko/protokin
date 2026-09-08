@@ -1,3 +1,5 @@
+# Page : john-dewey.md
+
 John Dewey — Le pragmatisme de l'enquête et la continuité transactionnelle
 
 Analyse architecturale de la page
