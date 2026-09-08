@@ -1,3 +1,5 @@
+# Page : de-la-notion-au-concept.md
+
 Analyse architecturale préalable
 1. Fonction unique de la page
 Cette page existe pour formaliser la distinction entre la notion (saisie intuitive, plastique et sous-déterminée inférentiellement) et le concept (catégorie explicitée, délimitée par des critères et insérée dans l'espace des raisons), en établissant que l'enquête constitue la dynamique transductive par laquelle une communauté fait passer la première au second face à une indétermination pratique.
