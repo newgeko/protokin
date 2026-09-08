@@ -1,3 +1,5 @@
+# Page : introduction-generale.md
+
 # Introduction générale — Protokin, une métathéorie des pratiques descriptives
 
 > **Protokin est une métathéorie pragmatiste, inférentialiste, réflexive et non-ontologique.**
