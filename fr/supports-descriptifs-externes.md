@@ -1,3 +1,5 @@
+# Page : supports-descriptifs-externes.md
+
 # Support descriptif externe
 
 | Fonction | Établir la notion de **support descriptif externe** dans l'architecture de Protokin en tant que dispositif matériel, sémiotique ou technique permettant de conserver, de stabiliser, de transporter, de partager et de réactiver des descriptions au-delà de leur production immédiate. |
