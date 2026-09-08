@@ -1,3 +1,5 @@
+# Page : sentience.md
+
 # La Sentience — La valence biologique et l'affectation pré-normative
 
 **Version :** Protokin 2026 — version 26.08.212  
