@@ -1,3 +1,5 @@
+# Page : principe-causes-et-raisons.md
+
 # L'espace des causes et l'espace des raisons — Distinguer expliquer et justifier
 
 | Fonction | Établir la distinction conceptuelle et méthodologique entre l'espace des causes et l'espace des raisons afin de structurer les différents modes d'explication mobilisés dans Protokin. |
