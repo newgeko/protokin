@@ -1,3 +1,5 @@
+# Page : non-ontologique-et-alterite.md
+
 Non-ontologie et altérité
 
 «Protokin ne choisit pas une ontologie du réel. Il interroge, à partir de l'altérité, les régimes selon lesquels quelque chose peut devenir descriptible comme réel, matériel, causal, vivant, social, normatif ou rationnel.»
