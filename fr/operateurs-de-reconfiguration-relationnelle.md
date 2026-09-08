@@ -1,3 +1,5 @@
+# Page : operateurs-de-reconfiguration-relationnelle.md
+
 # Opérateurs de Reconfiguration Relationnelle
 
 ## Analyse architecturale de la page
