@@ -1,3 +1,5 @@
+# principe-humilite-epistemique.md
+
 # Le principe d'humilité épistémique — Délimiter le domaine de Protokin
 
 | Fonction | Établir le principe d'**humilité épistémique** en délimitant le statut non ontologique de Protokin et en affirmant sa non-supériorité à l'égard des autres régimes descriptifs. |
