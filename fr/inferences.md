@@ -1,3 +1,5 @@
+# Page : inferences.md
+
 # Inférences — La discipline des transitions discursives dans l'espace des raisons
 
 | Fonction | Établir la notion d'**inférence** dans l'architecture de Protokin en tant qu'opération normative de transition par laquelle une description autorise, exige ou exclut d'autres descriptions au sein d'un régime descriptif. |
