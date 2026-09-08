@@ -1,3 +1,5 @@
+# Page : gilbert-simondon.md
+
 # Gilbert Simondon — L'individuation transductive et la métastabilité des configurations descriptives
 
 ## Analyse architecturale de la page
