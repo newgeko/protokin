@@ -1,3 +1,5 @@
+# Page : primat-description.md
+
 # Description — L'actualisation d'une configuration descriptive
 
 > **Fonction de la page**  
