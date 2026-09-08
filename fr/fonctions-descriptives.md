@@ -1,3 +1,5 @@
+# Page : fonctions-descriptives.md
+
 # Fonctions descriptives — Les opérations constitutives d'une description
 
 > **Fonction de la page**  
