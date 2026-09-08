@@ -1,3 +1,5 @@
+# Page : richard-rorty.md
+
 Richard Rorty — L'émancipation critique par la politique culturelle
 
 Analyse architecturale de la page
