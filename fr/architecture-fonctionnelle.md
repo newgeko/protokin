@@ -1,932 +1,615 @@
-# Page : architecture-fonctionnelle.md
+cadre → ancrage → distinction des fonctions → médiation relationnelle → pratique descriptive → justification → temporalité → explication → audit → réflexivité → cas → filiations → portée
 
-# Architecture fonctionnelle — La grammaire opératoire et le mouvement de l'enquête
+00 — Cadre et délimitations
 
-## Analyse architecturale de la page
+Fonction
 
-### 1. Fonction unique de la page
+Définir ce que Protokin cherche à rendre analysable et ce qu’il refuse de prendre en charge.
 
-Cette page établit l'**architecture fonctionnelle de Protokin** comme grammaire opératoire des pratiques descriptives et de l'enquête.
+Cette partie ne développe encore aucun mécanisme particulier. Elle fixe le problème, le statut de la métathéorie et les limites de son usage.
 
-Elle formalise les dix opérations de Protokin — **Décrire, Qualifier, Articuler, Maintenir, Transformer, Délimiter, Tracer, Expliquer, Justifier, Auditer** — en précisant leur fonction, leurs conditions d'activation, leurs relations de dépendance et leur place dans la dynamique récursive de l'enquête.
+Protokin en une phrase
 
-Elle ne présente pas ces opérations comme les étapes chronologiques d'une procédure, mais comme des **fonctions analytiques susceptibles d'être mobilisées, reprises et réarticulées selon les situations**.
+Visée et non-visée
 
-### 2. Choix du mode de développement
+Refus de l’ontologie et du donné brut
 
-- **Mode retenu : Mode C — Développement opératoire.**
-- **Justification :** l'objectif de la page est de formaliser la manière dont les différentes fonctions de Protokin s'articulent dans l'activité descriptive, discursive et réflexive, ainsi que les conditions dans lesquelles une enquête peut être ouverte, poursuivie, réorientée ou auditée.
+Nom, origine et portée
 
-L'architecture fonctionnelle ne constitue donc ni une ontologie des opérations ni une procédure universelle d'application. Elle constitue une **cartographie dynamique de dépendances fonctionnelles**.
+Parcours de lecture et plan directeur
 
-### 3. Problème conceptuel
 
-Comment formaliser le fonctionnement et la transformation des pratiques descriptives sans transformer les opérations de Protokin en une taxonomie substantielle ou en une procédure linéaire ?
+Rôle dans le projet
 
-La difficulté est double.
+Cette partie empêche deux contresens initiaux :
 
-D'une part, les descriptions sont produites par des organismes et des collectifs matériellement situés. Elles dépendent de capacités, de supports, d'apprentissages et de contraintes qui ne relèvent pas immédiatement de la normativité discursive.
+transformer Protokin en théorie de ce qui existe ;
 
-D'autre part, certaines de ces performances peuvent être engagées dans des pratiques où elles deviennent des assertions, des engagements, des justifications et des objets d'évaluation normative.
+transformer Protokin en théorie générale de la connaissance.
 
-Protokin doit donc pouvoir articuler ces dimensions sans les confondre.
 
-La distinction directrice est :
+Elle établit seulement le domaine fonctionnel de l’enquête.
 
-> **capacité relationnelle ≠ performance discursive ≠ validité normative**
-
-Une capacité rend certaines performances possibles ; une performance peut participer à une pratique discursive ; une pratique discursive peut attribuer à cette performance un statut normatif.
-
-Aucune de ces relations ne constitue cependant une conversion automatique de l'un des niveaux dans l'autre.
-
-### 4. Objet propre
-
-Cette page traite de :
-
-- la formalisation de l'architecture fonctionnelle comme grammaire opératoire ;
-- les dix opérations de Protokin ;
-- leurs conditions fonctionnelles d'activation ;
-- leurs dépendances réciproques ;
-- l'organisation récursive de l'enquête ;
-- la distinction entre fonctionnement ordinaire et ouverture réflexive d'une enquête ;
-- l'articulation fonctionnelle entre les capacités relationnelles, les performances discursives et les statuts normatifs ;
-- le rôle de l'audit comme opération réflexive de second ordre.
-
-Cette page ne traite pas :
-
-- de la définition exhaustive des concepts établis dans les sections de premier ordre ;
-- de la théorie complète de la capacité relationnelle, qui relève des Fondements descriptifs ;
-- de la théorie complète de la performance discursive et de la validité normative, qui relève des Pratiques descriptives ;
-- de la démarcation détaillée entre causes et raisons, qui relève de l'Explication ;
-- de la procédure concrète d'application de l'audit sur un terrain particulier, qui relève de la Méthode Protokin ;
-- de l'exposé détaillé des héritages philosophiques.
-
-### 5. Statut conceptuel
-
-Cette page est un **texte d'intégration fonctionnelle de second ordre** appartenant à la section **02 — Architecture générale**.
-
-Elle ne constitue pas une théorie supplémentaire venant s'ajouter aux concepts de Protokin.
-
-Elle indique comment les fonctions établies ailleurs peuvent être **articulées dans une architecture de dépendances et de transformations**.
-
-### 6. Dépendances fonctionnelles
-
-Cette page suppose :
-
-- la section **00 — Se repérer** ;
-- les **Principes fondamentaux** ;
-- l'architecture générale de Protokin ;
-- la distinction fonctionnelle entre **PROTO** et **KIN** ;
-- les concepts nécessaires à la distinction entre description, pratique discursive et audit.
-
-Cette page rend possible :
-
-- l'organisation fonctionnelle des **Fondements descriptifs** ;
-- l'articulation des **Pratiques descriptives** ;
-- la compréhension de la **Dynamique descriptive** ;
-- la compréhension de la **Temporalité descriptive** ;
-- la démarcation des modes d'**Explication** ;
-- la construction de la **Méthode Protokin** ;
-- la réflexivité de la métathéorie.
 
 ---
 
-## Architecture fonctionnelle et architecture générale
+01 — Contraintes corporelles et fonctions de stimulus
 
-L'**Architecture générale** établit la structure d'ensemble de Protokin et les grandes dépendances entre ses composantes.
+Fonction
 
-L'**Architecture fonctionnelle** précise comment ces composantes peuvent être comprises comme des fonctions opératoires dans l'activité descriptive, discursive et réflexive.
+Établir l’ancrage matériel, biologique et écologique à partir duquel une différence peut entrer dans une dynamique relationnelle, sans la transformer immédiatement en signification ou en raison.
 
-L'une fournit la carte générale.
+Configuration matérielle et corporelle
 
-L'autre explicite le mouvement fonctionnel de cette carte.
+Couplage organisme-milieu et transduction
 
-L'architecture fonctionnelle ne remplace donc pas l'architecture générale : elle en constitue une **spécification opératoire**.
+Différence rencontrée et trace
 
----
+Stimulus physique et fonction de stimulus
 
-## Architecture fonctionnelle et architecture conceptuelle
+Appétit, aversion et butoirs
 
-L'**Architecture conceptuelle** cartographie les notions et leurs relations.
 
-L'**Architecture fonctionnelle** cartographie les opérations par lesquelles ces notions peuvent être mobilisées, transformées ou réarticulées dans une pratique.
+Rôle dans le projet
 
-La différence n'est donc pas celle entre une théorie statique et une théorie dynamique au sens ontologique.
+Cette partie établit le butoir amont.
 
-Elle est celle entre :
+Elle montre notamment que :
 
-> **ce qui est distingué conceptuellement**
+il existe des contraintes matérielles et corporelles ;
+
+l'organisme n'est pas un récepteur passif ;
+
+une différence physique n'est pas encore un signe ;
+
+un stimulus physique n'est pas identique à sa fonction de stimulus ;
+
+une trace n'est pas encore une signification.
+
+
+Elle permet donc d'éviter deux réductions symétriques :
+
+description ≠ physique brute
 
 et
 
-> **ce qui est fait avec ces distinctions dans une enquête.**
-
----
-
-# Définition fonctionnelle
-
-Dans l'architecture de Protokin, on appelle **architecture fonctionnelle** :
-
-> **la grammaire opératoire qui décrit les dépendances entre les fonctions de production, de qualification, d'articulation, de maintien, de transformation, de délimitation, de traçage, d'explication, de justification et d'audit des pratiques descriptives.**
-
-Cette architecture est **récursive** : une opération peut conduire à la réouverture d'une opération antérieure, modifier les conditions dans lesquelles une autre opération devient pertinente ou provoquer l'ouverture d'une enquête réflexive.
-
-Elle est également **non linéaire** : l'ordre des opérations n'est pas celui d'une procédure universelle.
-
-Enfin, elle est **non ontologique** : les opérations ne désignent pas des substances, des facultés ou des étapes naturelles de constitution du réel.
-
-Elles désignent des **fonctions d'enquête et de description**.
-
----
-
-# Trois niveaux à ne pas convertir
-
-L'architecture fonctionnelle doit distinguer trois niveaux.
-
-## 1. Capacité relationnelle
-
-La capacité relationnelle désigne la possibilité fonctionnelle d'établir et de transformer des relations entre stimuli, événements, réponses et fonctions.
-
-Dans le cadre de Protokin, la RFT peut être mobilisée pour décrire certaines formes de transformation relationnelle et de transformation des fonctions de stimulus.
-
-Cette capacité appartient au registre des **conditions fonctionnelles de possibilité**.
-
-Elle peut rendre certaines performances possibles sans constituer par elle-même une raison normative.
-
-Ainsi :
-
-> **capacité relationnelle ≠ raison**
-
-## 2. Performance discursive
-
-Une performance discursive apparaît lorsqu'une capacité est engagée dans une pratique où des productions peuvent être reprises, interprétées, contestées, justifiées et mises en relation avec d'autres productions.
-
-La performance discursive constitue ainsi une **participation pratique au langage**.
-
-Elle ne se réduit pas à la production matérielle d'un énoncé.
-
-Mais elle ne garantit pas davantage la validité de cet énoncé.
-
-Ainsi :
-
-> **performance discursive ≠ validité normative**
-
-## 3. Validité normative
-
-La validité normative concerne le statut qu'une performance acquiert dans un espace de raisons.
-
-Elle implique des relations d'engagement, d'habilitation, d'inférence, d'incompatibilité, de justification et de responsabilité.
-
-Elle relève du fonctionnement normatif des pratiques discursives et du **scorekeeping**.
-
-Ainsi :
-
-> **validité normative ≠ capacité relationnelle**
-
-La distinction générale est donc :
-
-> **capacité relationnelle → possibilité fonctionnelle**  
-> **performance discursive → participation pratique**  
-> **validité normative → statut dans l'espace des raisons**
-
-Ces trois niveaux sont articulables sans être convertibles.
-
----
-
-# Les dix opérations fonctionnelles
-
-Les dix opérations de Protokin ne constituent pas une séquence temporelle obligatoire.
-
-Elles constituent des **fonctions analytiques** qui peuvent être mobilisées à différents moments d'une pratique ou d'une enquête.
-
-```text
-                         LES DIX OPÉRATIONS
-                                │
-        ┌───────────────────────┼────────────────────────┐
-        ▼                       ▼                        ▼
- CONDITIONS DE             ORGANISATION             RÉFLEXIVITÉ
- DESCRIPTIBILITÉ           DES PRATIQUES             DE L'ENQUÊTE
-        │                       │                        │
- 1. Décrire                4. Maintenir             8. Expliquer
- 2. Qualifier              5. Transformer           9. Justifier
- 3. Articuler              6. Délimiter            10. Auditer
-                           7. Tracer
-
-Cette représentation ne doit pas être comprise comme une division en phases successives.
-
-Elle indique seulement des familles fonctionnelles.
+description ≠ production autonome de significations.
 
 
 ---
 
-1. Décrire
+02 — Quadripartition et principe de non-conversion
 
 Fonction
 
-Rendre une variation, une différence ou une configuration disponible sous une forme susceptible d'être reprise dans une pratique descriptive.
+Construire la grammaire différentielle de Protokin.
 
-Condition d'entrée
+C'est ici que sont établies les distinctions qui empêcheront les concepts des parties suivantes de se convertir les uns dans les autres.
 
-Un organisme ou un collectif est engagé dans un couplage avec un milieu et rencontre des différences, résistances ou variations pertinentes pour son activité.
+La quadripartition fondamentale
 
-Opération accomplie
+Configuration, relation, fonction et justification
 
-Une variation est sélectionnée, différenciée, inscrite ou stabilisée au moyen de capacités et de supports matériels et sémiotiques.
+Continuité des dépendances et discontinuité des fonctions
 
-Résultat
+Principe de non-conversion
 
-Une configuration devient disponible pour une opération descriptive ultérieure.
+Distinction logique : causes et raisons
 
-L'opération Décrire ne constitue pas encore une assertion normative.
+Capacité, performance et validité
+
+PROTO, transformation relationnelle et KIN
+
+
+Rôle dans le projet
+
+Cette partie ne décrit pas encore les pratiques particulières.
+
+Elle établit les conditions de séparation fonctionnelle :
+
+Corps ≠ Relation ≠ Fonction ≠ Justification
+
+et :
+
+cause ≠ raison
+genèse ≠ justification
+condition ≠ critère
+trace ≠ signification
+description ≠ objet décrit
+
+Le principe central est :
+
+> Continuité des dépendances + discontinuité des fonctions + non-conversion.
+
+
+
+La distinction PROTO | transformation relationnelle | KIN est introduite ici comme architecture fonctionnelle, et non comme une succession génétique.
 
 
 ---
 
-2. Qualifier
+03 — Cadres relationnels et transformations
 
 Fonction
 
-Inscrire une configuration dans une catégorie ou sous un prédicat disponible pour une pratique descriptive.
+Expliquer comment une différence acquiert une fonction relationnelle et comment cette fonction peut se transformer, sans passer directement au régime normatif de la justification.
 
-Condition d'entrée
+Indice et arbitrarité relationnelle
 
-Une configuration descriptive est disponible et un répertoire catégoriel peut être mobilisé.
+Théorie des cadres relationnels (RFT)
 
-Opération accomplie
+Implication mutuelle et combinatoire
 
-Une qualification est formulée selon les critères pertinents du régime descriptif.
+Transformation de fonction
 
-Résultat
+Sensibilité aux abstractions et dérive indicielle
 
-Une configuration reçoit une détermination catégorielle susceptible d'être reprise, articulée ou contestée.
+Support descriptif
 
-La qualification ne doit pas être confondue avec sa justification normative.
+
+Rôle dans le projet
+
+Cette partie constitue le noyau de médiation relationnelle.
+
+Elle explique comment une configuration peut être prise dans des relations qui modifient sa fonction sans que ses propriétés physiques aient nécessairement changé.
+
+La RFT y intervient comme outil empirique de transformation fonctionnelle, et non comme fondement ontologique.
+
+Le support descriptif est placé ici parce qu'il concerne la possibilité pour une configuration relationnellement disponible d'être retenue, reprise, déplacée et transformée dans des pratiques descriptives.
+
+Cette partie ne traite donc pas encore de :
+
+vérité ;
+
+justification ;
+
+recevabilité ;
+
+responsabilité du locuteur.
+
 
 
 ---
 
-3. Articuler
+04 — Pratiques et régimes descriptifs
 
 Fonction
 
-Mettre des qualifications en relation afin d'expliciter leurs compatibilités, incompatibilités et conséquences inférentielles.
+Décrire ce que les agents font lorsqu'une configuration est disponible pour une pratique descriptive.
 
-Condition d'entrée
+Configuration descriptive
 
-Plusieurs qualifications sont disponibles.
+Prédication, catégorie et critère
 
-Opération accomplie
+Taxonomie et objet descriptif
 
-Le réseau de relations entre les qualifications est explicité.
+Assertion et engagement inférentiel
 
-Résultat
+Régimes descriptifs et pluralisme
 
-Une configuration relationnelle d'énoncés et d'inférences devient disponible.
 
-L'articulation peut ainsi préparer une pratique de raisons sans constituer à elle seule une justification normative.
+Rôle dans le projet
+
+Ici, on passe de la transformation fonctionnelle à son usage dans une pratique descriptive.
+
+La question devient :
+
+> Que fait-on avec une configuration lorsqu'on la qualifie, la classe, la prédique ou l'asserte ?
+
+
+
+Cette partie introduit donc les premières unités proprement descriptives :
+
+configuration descriptive → prédication → catégorie → critère → assertion → engagement.
+
+Le pluralisme n'est pas encore une théorie de la tolérance entre opinions. Il désigne la possibilité que des régimes descriptifs différents prennent une même configuration dans des fonctions différentes.
 
 
 ---
 
-4. Maintenir
+05 — Espace des raisons et redevabilité
 
 Fonction
 
-Préserver la disponibilité et l'opérabilité d'une configuration descriptive dans la durée.
+Établir la dimension normative des pratiques descriptives : répondre de ce que l'on affirme et pouvoir en demander raison.
 
-Condition d'entrée
+Locuteur, auditeur et position épistémique
 
-Une configuration est suffisamment stabilisée pour être reproduite dans une pratique.
+Engagement et redevabilité
 
-Opération accomplie
+Espace des raisons et justification
 
-Les usages, apprentissages, supports matériels, habitudes, critères et procédures nécessaires à sa reproduction sont entretenus.
+Normes, recevabilité et validité
 
-Résultat
+Critères de correction
 
-La configuration reste mobilisable sans devoir être reconstruite à chaque occurrence.
 
-Le maintien désigne une fonction de reproduction et non une garantie de validité.
+Rôle dans le projet
+
+C'est ici, et seulement ici, que la justification normative devient centrale.
+
+La distinction fondamentale est :
+
+> Une description peut avoir une genèse causale sans que cette genèse constitue sa justification.
+
+
+
+L'espace des raisons ne désigne donc pas une région ontologique séparée du monde.
+
+Il désigne une fonction de redevabilité dans laquelle une assertion peut être :
+
+soutenue ;
+
+contestée ;
+
+justifiée ;
+
+corrigée ;
+
+reconnue comme recevable ou non.
+
 
 
 ---
 
-5. Transformer
+06 — Temporalité et dynamiques descriptives
 
 Fonction
 
-Modifier une configuration descriptive lorsque ses ressources deviennent insuffisantes ou inadéquates face à une situation.
+Expliquer comment les pratiques descriptives se transforment, se stabilisent, se transmettent et peuvent être rouvertes dans le temps.
 
-Condition d'entrée
+Transformation et stabilisation
 
-Une tension, une anomalie, une limite ou une transformation du contexte rend nécessaire une réorganisation.
+Tension interne et controverse
 
-Opération accomplie
+Historicité et trajectoire
 
-Des catégories, critères, relations ou pratiques sont modifiés.
+Sédimentation et effet cliquet
 
-Résultat
+Mémoire descriptive et réouverture
 
-Une configuration transformée devient disponible pour de nouvelles pratiques.
 
-La transformation peut être déclenchée par des contraintes matérielles, des tensions pratiques ou des conflits normatifs, sans que ces causes et ces raisons soient assimilées.
+Rôle dans le projet
+
+Cette partie introduit la dimension temporelle sans transformer l'histoire en progression nécessaire.
+
+Une description peut :
+
+apparaître → être reprise → se stabiliser → devenir contraignante → être contestée → être transformée.
+
+Mais il ne s'agit pas d'une succession téléologique.
+
+La sédimentation explique notamment pourquoi certaines distinctions acquièrent une inertie historique sans devenir pour autant des vérités ontologiques.
 
 
 ---
 
-6. Délimiter
+07 — Expliquer sans convertir
 
 Fonction
 
-Identifier la portée, les conditions d'application et les limites d'un régime descriptif.
+Établir comment une pratique descriptive peut produire une explication causale sans convertir cette explication en justification normative.
 
-Condition d'entrée
+L'opération d'explication
 
-Un régime dispose de catégories, de critères et de règles permettant certaines distinctions.
+Descriptions causales situées
 
-Opération accomplie
+Genèse causale vs justification normative
 
-L'enquête explicite ce que le régime permet de décrire, ce qu'il exclut et les conditions dans lesquelles ses catégories cessent d'être opératoires.
+Image manifeste et image scientifique
 
-Résultat
+Incompatibilité et puissance descriptive
 
-La juridiction descriptive du régime est explicitée.
 
-La délimitation constitue ainsi une condition de non-absolutisation des régimes.
+Rôle dans le projet
+
+Cette partie est le lieu privilégié de la séparation :
+
+explication causale ↔ justification normative.
+
+Elle permet d'affirmer simultanément que :
+
+les causes comptent ;
+
+les descriptions causales sont situées ;
+
+aucune cause ne devient automatiquement une raison ;
+
+une explication de la genèse d'une pratique ne constitue pas sa justification.
+
+
+L'image manifeste / image scientifique sert ici à analyser une différence de régime descriptif, et non à opposer deux mondes.
 
 
 ---
 
-7. Tracer
+08 — Protocole d'enquête et d'audit
 
 Fonction
 
-Reconstruire la trajectoire temporelle d'une configuration descriptive.
+Transformer l'architecture théorique en procédure d'analyse effective.
 
-Condition d'entrée
+Situation problématique et posture d'enquête
 
-Une configuration possède une histoire suffisamment sédimentée pour que ses transformations puissent être reconstruites.
+Audit des quatre dimensions
 
-Opération accomplie
+Comparaison de régimes descriptifs
 
-L'enquête retrace les positions successives, les trajectoires, les allures, les sédimentations et les réorganisations.
+Diagnostic : conversion et réduction
 
-Résultat
+Diagnostic : erreur de catégorie
 
-L'historicité de la configuration devient descriptivement accessible.
+Diagnostic : dérive indicielle
 
-Tracer ne transforme pas l'histoire en une succession téléologique.
+Traduction, incompatibilité et coordination
+
+
+Rôle dans le projet
+
+C'est ici que Protokin devient opératoire.
+
+L'audit pose systématiquement les questions :
+
+Corps ?
+Relation ?
+Fonction ?
+Justification ?
+
+Puis vérifie les éventuelles conversions indues.
+
+Par exemple :
+
+> une condition corporelle est-elle transformée en justification ?
+
+
+
+> une fonction relationnelle est-elle transformée en propriété intrinsèque ?
+
+
+
+> une cause est-elle transformée en raison ?
+
+
+
+> un indice est-il traité comme une signification autonome ?
+
+
+
+Le protocole ne tranche donc pas souverainement entre toutes les descriptions. Il permet d'identifier leurs fonctions, leurs dépendances et leurs incompatibilités.
 
 
 ---
 
-8. Expliquer
+09 — Réflexivité et pathologies descriptives
 
 Fonction
 
-Distinguer et articuler les différents modes d'intelligibilité pertinents pour une situation problématique.
+Appliquer l'architecture à ses propres conditions d'application et aux échecs des pratiques descriptives.
 
-Condition d'entrée
+Auto-application et limites internes
 
-Une situation exige de déterminer ce qui relève d'une explication causale, d'une justification normative ou de leur articulation.
+Écologie des régimes descriptifs
 
-Opération accomplie
+Injustice épistémique et herméneutique
 
-L'enquête distingue les relations causales relevant de PROTO et les relations justificatives relevant de KIN, puis examine leurs conditions d'articulation sans conversion.
+Zones de silence
 
-Résultat
+Naturalisation et réification normative
 
-Les différents régimes d'intelligibilité deviennent explicitement différenciés.
+Impérialisme descriptif
 
-L'explication ne constitue donc pas une synthèse surplombante des causes et des raisons.
 
-Elle établit les conditions de leur non-confusion et de leur articulation fonctionnelle.
+Rôle dans le projet
+
+Cette partie empêche Protokin de devenir un tribunal extérieur des descriptions.
+
+Elle demande notamment :
+
+> Protokin peut-il lui-même produire les conversions qu'il cherche à diagnostiquer ?
+
+
+
+L'injustice épistémique, les zones de silence, la naturalisation et l'impérialisme descriptif deviennent ainsi des pathologies de fonctionnement des régimes descriptifs, et non des catégories morales ajoutées de l'extérieur.
 
 
 ---
 
-9. Justifier
+10 — Études de cas
 
 Fonction
 
-Soumettre une performance discursive à l'examen des raisons qui peuvent la soutenir, l'autoriser ou la contester.
+Mettre l'architecture à l'épreuve sur des configurations concrètes.
 
-Condition d'entrée
+Astronomie : la rupture géocentrique
 
-Une assertion ou un engagement est repris dans une pratique où une demande de raisons est pertinente.
+Chimie : la persistance phlogistique
 
-Opération accomplie
+Médecine : médecine humorale vs physiologie
 
-Le locuteur produit ou mobilise des raisons, des habilitations et des relations inférentielles susceptibles de soutenir son engagement.
+Écologie : le consensus climatique
 
-Résultat
+Technique : l'intentionnalité artificielle
 
-La performance est soumise à l'évaluation normative de la communauté de locuteurs.
+Morale : « Cette personne est mauvaise »
 
-Cette opération ne garantit pas mécaniquement la validité.
+Perspective : le botaniste et le bûcheron
 
-La justification peut être acceptée, contestée, révisée ou rejetée.
-
-Ainsi :
-
-> justifier ≠ valider automatiquement
+Institution : le tri aux urgences hospitalières
 
 
+Rôle dans le projet
 
-La validité est le résultat éventuel d'une pratique normative d'évaluation, et non une propriété produite causalement par l'opération de justification.
+Les cas ne servent pas à « prouver » Protokin.
+
+Ils servent à vérifier si l'architecture permet effectivement de reconstruire :
+
+les configurations ;
+
+les relations ;
+
+les fonctions ;
+
+les justifications ;
+
+les transformations historiques ;
+
+les conflits entre régimes descriptifs.
+
+
+Le cas est donc un audit de second ordre, pas un tribunal de vérité empirique.
 
 
 ---
 
-10. Auditer
+11 — Filiations théoriques
 
 Fonction
 
-Examiner de manière immanente et réflexive l'organisation d'une pratique descriptive ou discursive.
+Identifier les filiations dont Protokin reconstruit certaines fonctions conceptuelles, sans présenter le projet comme une simple synthèse d'auteurs.
 
-Condition d'entrée
+Pragmatisme : Peirce, Dewey, Rorty
 
-Un trouble, une tension persistante, une contradiction, une confusion de niveau ou une difficulté pratique rend nécessaire une enquête de second ordre.
+Inférentialisme et espace des raisons : Sellars, Brandom, McDowell
 
-Opération accomplie
+Usage et jeux de langage : Wittgenstein
 
-L'audit examine les configurations, supports, catégories, critères, inférences, pratiques discursives et relations normatives pertinentes.
+Énaction et individuation : Simondon, Merleau-Ponty, Varela
 
-Il recherche notamment :
-
-les réductions indues ;
-
-les confusions de niveau ;
-
-les erreurs de catégorie ;
-
-les conversions entre causes et raisons ;
-
-les absolutisations de régime ;
-
-les exclusions descriptives ;
-
-les asymétries de participation ou de reconnaissance ;
-
-les formes d'injustice épistémique.
+Épistémologie sociale et pratique : Rouse, Hacking, Fricker
 
 
-Résultat
+Rôle dans le projet
 
-La structure fonctionnelle du trouble devient explicite et peut ouvrir une transformation, une réorganisation ou une révision des critères.
+Cette partie vient volontairement après les cas.
 
-L'audit ne constitue donc pas un point de vue extérieur au système analysé.
+Elle ne dit pas :
 
-Il est une opération réflexive immanente.
+> « Protokin vient de Peirce + Dewey + Sellars + RFT + Simondon… »
+
+
+
+Elle demande plutôt :
+
+> Quelle fonction déjà nécessaire dans l'architecture trouve-t-on, sous une autre forme, chez tel auteur ou dans telle tradition ?
+
+
+
+Cela transforme l'histoire intellectuelle en reconstruction fonctionnelle plutôt qu'en catalogue d'influences.
 
 
 ---
 
-Organisation récursive de l'enquête
+12 — Portée et ouvertures
 
-L'architecture fonctionnelle ne doit pas être représentée comme une chaîne linéaire.
+Fonction
 
-Une pratique ordinaire peut fonctionner sans mobiliser explicitement toutes les opérations.
+Déterminer ce que l'architecture permet effectivement de faire, ce qu'elle laisse indéterminé et ce qui reste à développer.
 
-Une difficulté peut toutefois rendre certaines fonctions problématiques et provoquer l'ouverture d'une enquête.
+Ce que l'armature permet
 
-Le mouvement général peut alors être décrit ainsi :
+Ce que le modèle ne prend pas en charge
 
-PRATIQUE ORDINAIRE
-       │
-       ▼
-FRICTION / TENSION / BUTOIR
-       │
-       ▼
-SITUATION PROBLÉMATIQUE
-       │
-       ▼
-OUVERTURE DE L'ENQUÊTE
-       │
-       ▼
-EXPLICITATION / AUDIT
-       │
-       ├──► Décrire
-       ├──► Qualifier
-       ├──► Articuler
-       ├──► Délimiter
-       ├──► Tracer
-       ├──► Expliquer
-       └──► Justifier
-       │
-       ▼
-DIAGNOSTIC
-       │
-       ▼
-TRANSFORMATION / RÉORGANISATION
-       │
-       ▼
-NOUVELLE CONFIGURATION
-       │
-       ▼
-REPRISE DE LA PRATIQUE
-       │
-       └──────────────► nouvelle friction éventuelle
-
-Ce cycle n'est pas une loi historique.
-
-Il constitue un schème fonctionnel de l'enquête.
-
-Une enquête peut commencer par une difficulté normative, une anomalie descriptive, une contrainte matérielle ou une impossibilité pratique.
-
-Elle peut mobiliser plusieurs opérations en parallèle.
-
-Elle peut également revenir sur une opération antérieure lorsque les résultats obtenus rendent nécessaire une nouvelle qualification ou une nouvelle délimitation.
-
-La récursivité signifie donc :
-
-> une opération peut modifier les conditions de pertinence d'une autre opération.
+Perspectives de recherche
 
 
+Rôle dans le projet
+
+La conclusion ne doit pas réintroduire de nouveaux concepts.
+
+Elle répond seulement à trois questions :
+
+1. Qu'est-ce que l'architecture permet de distinguer ?
+
+
+2. Qu'est-ce qu'elle ne permet pas de décider ?
+
+
+3. Quels problèmes restent ouverts ?
+
+
+
+Elle ferme donc le système sans le fermer dogmatiquement.
 
 
 ---
 
-Le rôle du trouble
+Documents transversaux
 
-Le trouble n'est pas nécessairement un événement exclusivement matériel.
+Ces documents ne constituent pas des parties supplémentaires du raisonnement. Ils servent à rendre l'architecture navigable et contrôlable.
 
-Il peut prendre plusieurs formes :
+Lexique opératoire
 
-résistance du milieu ;
+Définit les termes selon leur fonction précise et signale les termes qui ne doivent pas être confondus.
 
-anomalie descriptive ;
+Table synoptique des non-conversions
 
-incompatibilité entre qualifications ;
+Condense les distinctions :
 
-échec pratique ;
+Ne pas convertir	En
 
-conflit de critères ;
-
-contestation d'une assertion ;
-
-saturation d'un régime ;
-
-injustice épistémique ;
-
-contradiction entre différents régimes de description.
+cause	raison
+genèse	justification
+condition	critère
+trace	signification
+description	objet décrit
+capacité	performance
+performance	validité
 
 
-Le trouble constitue ce qui interrompt l'évidence ordinaire d'une pratique et rend nécessaire son explicitation.
+Matrice de la quadripartition
 
-L'enquête commence alors non par un point de vue extérieur, mais par une difficulté rencontrée dans la pratique elle-même.
+Permet de contrôler les descriptions selon :
 
+Corps / Relation / Fonction / Justification.
 
----
+Graphe des dépendances conceptuelles
 
-Capacité relationnelle, performance discursive et validité normative
+Montre les dépendances sans les transformer en chaîne génétique.
 
-La distinction entre ces trois niveaux doit rester visible dans toute formalisation de l'architecture fonctionnelle.
+Index conceptuel
 
-Capacité relationnelle
-
-Elle concerne ce qu'un organisme peut faire en établissant et transformant des relations.
-
-Elle peut être étudiée au niveau des processus comportementaux et fonctionnels.
-
-La RFT peut être mobilisée ici comme ressource descriptive.
-
-Performance discursive
-
-Elle concerne ce qu'un participant fait lorsqu'une capacité est engagée dans une pratique de langage.
-
-Une performance devient discursive lorsqu'elle peut être reprise, interprétée, contestée et insérée dans des relations d'engagement et d'inférence.
-
-Validité normative
-
-Elle concerne la manière dont cette performance est comptée dans un espace de raisons.
-
-Elle implique les statuts d'engagement, d'habilitation, de responsabilité, de justification et d'incompatibilité.
-
-La relation entre les trois niveaux peut donc être formulée ainsi :
-
-CAPACITÉ RELATIONNELLE
-        │
-        │ rend certaines performances possibles
-        ▼
-PERFORMANCE DISCURSIVE
-        │
-        │ peut être soumise à l'évaluation publique
-        ▼
-STATUT NORMATIF
-        │
-        ▼
-VALIDITÉ / INVALIDITÉ
-
-Les flèches ne représentent pas des déductions nécessaires.
-
-Elles indiquent des relations de dépendance fonctionnelle.
-
-La règle correspondante est :
-
-> Ce qui explique comment une capacité devient possible ne justifie pas ce qui est dit ; ce qui permet une performance discursive ne garantit pas sa validité normative.
-
-
+Permet de retrouver chaque concept et surtout son lieu principal d'établissement.
 
 
 ---
 
-PROTO et KIN dans l'architecture fonctionnelle
+L'architecture fonctionnelle obtenue
+
+Je la résumerais ainsi :
+
+00  DÉLIMITER
+    ↓
+01  ANCRER
+    ↓
+02  DISTINGUER
+    ↓
+03  MÉDIER / TRANSFORMER
+    ↓
+04  DÉCRIRE
+    ↓
+05  JUSTIFIER
+    ↓
+06  TRANSFORMER DANS LE TEMPS
+    ↓
+07  EXPLIQUER SANS CONVERTIR
+    ↓
+08  AUDITER
+    ↓
+09  RÉFLÉCHIR SUR LES PATHOLOGIES
+    ↓
+10  ÉPROUVER PAR LES CAS
+    ↓
+11  RECONSTRUIRE LES FILIATIONS
+    ↓
+12  DÉLIMITER LA PORTÉE
+
+Le point important est que ce n'est pas une genèse de la description. Ce n'est pas :
+
+matière → stimulus → relation → langage → raison
+
+C'est une organisation des fonctions d'analyse :
+
+> ancrer sans réduire → distinguer sans séparer ontologiquement → expliquer les médiations → analyser les pratiques → identifier la redevabilité → suivre les transformations → expliquer sans convertir → auditer → appliquer la réflexivité.
 
-L'architecture fonctionnelle doit maintenir la distinction entre les deux pôles d'intelligibilité de Protokin.
 
-PROTO
 
-PROTO concerne le domaine des causes et des conditions fonctionnelles :
-
-corps ;
-
-milieu ;
-
-contraintes matérielles ;
-
-processus biologiques ;
-
-supports ;
-
-apprentissages ;
-
-transformations comportementales ;
-
-relations causales.
-
-
-PROTO peut ainsi contribuer à expliquer les conditions dans lesquelles certaines capacités et performances deviennent possibles.
-
-PROTO ne détermine cependant pas la validité normative d'une assertion.
-
-KIN
-
-KIN concerne l'espace des raisons :
-
-assertions ;
-
-engagements ;
-
-habilitations ;
-
-justifications ;
-
-inférences ;
-
-incompatibilités ;
-
-responsabilités ;
-
-scorekeeping.
-
-
-KIN permet de décrire comment une performance discursive acquiert ou perd un statut normatif.
-
-KIN ne constitue cependant pas une explication causale de l'acquisition des capacités relationnelles.
-
-
----
-
-La règle de non-conversion
-
-L'architecture fonctionnelle est régie par une règle de non-conversion :
-
-> Une relation causale ne devient pas une raison par simple changement de description.
-
-
-
-Inversement :
-
-> Une relation normative ne devient pas une relation causale simplement parce qu'elle peut avoir des effets matériels.
-
-
-
-Cette règle interdit notamment :
-
-de déduire une norme à partir d'un mécanisme biologique ;
-
-de déduire une justification à partir d'une capacité relationnelle ;
-
-de réduire la normativité à une régularité comportementale ;
-
-de réduire les conditions matérielles d'une pratique à ses statuts normatifs ;
-
-de confondre l'explication de la capacité avec l'évaluation de la performance.
-
-
-La distinction n'empêche pas l'articulation.
-
-Elle en constitue la condition.
-
-
----
-
-Architecture fonctionnelle et audit
-
-L'audit intervient lorsque le fonctionnement ordinaire ne suffit plus à résoudre un trouble.
-
-Il ne consiste pas à imposer de l'extérieur un critère de correction.
-
-Il consiste à rendre explicites les relations fonctionnelles déjà engagées dans la pratique.
-
-L'audit peut alors examiner :
-
-1. ce qui est décrit ;
-
-
-2. comment cela est qualifié ;
-
-
-3. comment les qualifications sont articulées ;
-
-
-4. comment la configuration est maintenue ;
-
-
-5. comment elle se transforme ;
-
-
-6. ce qu'elle exclut ;
-
-
-7. comment elle s'est constituée historiquement ;
-
-
-8. quel mode d'explication est pertinent ;
-
-
-9. quelles justifications sont demandées et produites ;
-
-
-10. comment l'ensemble peut être réévalué.
-
-
-
-L'audit ne constitue donc pas une opération qui dominerait les neuf autres.
-
-Il constitue la fonction réflexive par laquelle l'organisation des opérations devient elle-même objet d'enquête.
-
-
----
-
-Distinction entre architecture fonctionnelle et procédure bureaucratique
-
-Une procédure de premier ordre prescrit généralement un enchaînement de tâches destiné à produire un résultat déterminé.
-
-L'architecture fonctionnelle de Protokin ne fonctionne pas ainsi.
-
-Elle ne prescrit pas :
-
-> « effectuer obligatoirement l'opération 1, puis l'opération 2, puis l'opération 3 ».
-
-
-
-Elle indique plutôt :
-
-> quelles fonctions sont engagées, quelles dépendances les relient et quelles réouvertures deviennent pertinentes lorsqu'un trouble apparaît.
-
-
-
-Une procédure bureaucratique peut donc elle-même devenir un objet d'audit.
-
-L'architecture fonctionnelle n'est pas une bureaucratie supérieure.
-
-Elle est une grammaire réflexive permettant d'interroger les conditions de fonctionnement des pratiques.
-
-
----
-
-Limites internes
-
-L'utilisation de l'architecture fonctionnelle expose à plusieurs risques.
-
-1. Le risque de linéarisation
-
-Traiter les dix opérations comme des étapes fixes d'une procédure.
-
-Correction : les considérer comme des fonctions analytiques récursives.
-
-2. Le risque de conversion
-
-Faire passer directement une explication causale à une conclusion normative.
-
-Correction : maintenir la distinction entre capacité relationnelle, performance discursive et validité normative.
-
-3. Le risque de surplomb
-
-Faire de l'audit une position extérieure permettant de juger les pratiques depuis un point de vue absolu.
-
-Correction : maintenir l'audit comme opération immanente et réflexive.
-
-4. Le risque de réification
-
-Transformer les opérations en facultés, substances ou structures ontologiques.
-
-Correction : les définir exclusivement par leur fonction dans l'enquête.
-
-5. Le risque de formalisation excessive
-
-Transformer la grammaire fonctionnelle en calcul abstrait détaché des pratiques.
-
-Correction : rapporter les opérations aux situations concrètes dans lesquelles elles deviennent pertinentes.
-
-6. Le risque d'oubli des conditions matérielles
-
-Traiter les pratiques discursives comme indépendantes des corps, des supports, des apprentissages et des infrastructures.
-
-Correction : maintenir l'ancrage de KIN dans les conditions matérielles de possibilité sans réduire KIN à PROTO.
-
-
----
-
-Synthèse architecturale
-
-L'architecture fonctionnelle de Protokin peut être condensée en quatre propositions.
-
-1. Les opérations sont fonctionnelles
-
-> Une opération décrit ce qu'une pratique accomplit, non une substance qu'elle contiendrait.
-
-
-
-2. Les opérations sont récursives
-
-> Une opération peut modifier les conditions de pertinence d'une autre et provoquer la réouverture de l'enquête.
-
-
-
-3. Les niveaux ne se convertissent pas
-
-> Capacité relationnelle, performance discursive et validité normative sont articulables mais non réductibles les unes aux autres.
-
-
-
-4. L'audit est immanent
-
-> L'enquête de second ordre examine les conditions de fonctionnement d'une pratique depuis les tensions et les problèmes rencontrés dans cette pratique elle-même.
-
-
-
-L'architecture fonctionnelle ne décrit donc pas une succession d'états.
-
-Elle décrit un réseau de fonctions et de dépendances susceptible de se réorganiser sous la contrainte des pratiques.
-
-
----
-
-Ce que cette page établit
-
-Cette page établit :
-
-le statut de l'architecture fonctionnelle comme grammaire opératoire de Protokin ;
-
-la fonction des dix opérations ;
-
-leur caractère analytique et non chronologique ;
-
-leur organisation récursive ;
-
-la distinction entre capacité relationnelle, performance discursive et validité normative ;
-
-la règle de non-conversion entre conditions causales et statuts normatifs ;
-
-le rôle de l'audit comme fonction réflexive immanente.
-
-
-Ce qu'elle suppose
-
-Cette page suppose :
-
-l'orientation générale de Protokin ;
-
-les principes fondamentaux ;
-
-l'architecture générale ;
-
-les distinctions conceptuelles nécessaires à l'analyse des pratiques descriptives.
-
-
-Ce qu'elle rend possible
-
-Cette page rend possible :
-
-l'organisation fonctionnelle des Fondements descriptifs ;
-
-l'analyse des Pratiques descriptives ;
-
-l'étude de la Dynamique descriptive ;
-
-l'étude de la Temporalité descriptive ;
-
-la démarcation des modes d'Explication ;
-
-la formalisation de la Méthode Protokin ;
-
-l'auto-application réflexive de la métathéorie.
-
-
-
----
-
-Protokin — Architecture fonctionnelle
