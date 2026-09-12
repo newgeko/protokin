@@ -1,615 +1,190 @@
-cadre → ancrage → distinction des fonctions → médiation relationnelle → pratique descriptive → justification → temporalité → explication → audit → réflexivité → cas → filiations → portée
-
+PROTOKIN — ARCHITECTURE FONCTIONNELLE GÉNÉRALE
+Formule matricielle d'orientation
+> Règle générale de questionnement :
+> Toute enquête distingue quatre questions :
+>  * Corps : dans quelle configuration corporelle et matérielle ?
+>  * Relation : sous quelles relations ?
+>  * Fonction : pour quelle fonction ?
+>  * Justification : sous quelle justification ?
+> Aucune réponse à l'une de ces questions ne vaut, par elle-même, réponse aux trois autres.
+> 
+Séquence des opérations architecturales
 00 — Cadre et délimitations
-
-Fonction
-
-Définir ce que Protokin cherche à rendre analysable et ce qu’il refuse de prendre en charge.
-
-Cette partie ne développe encore aucun mécanisme particulier. Elle fixe le problème, le statut de la métathéorie et les limites de son usage.
-
-Protokin en une phrase
-
-Visée et non-visée
-
-Refus de l’ontologie et du donné brut
-
-Nom, origine et portée
-
-Parcours de lecture et plan directeur
-
-
-Rôle dans le projet
-
-Cette partie empêche deux contresens initiaux :
-
-transformer Protokin en théorie de ce qui existe ;
-
-transformer Protokin en théorie générale de la connaissance.
-
-
-Elle établit seulement le domaine fonctionnel de l’enquête.
-
-
----
-
+ * Fonction architecturale : Établir le sas d'entrée métathéorique. Définir ce que Protokin cherche à rendre analysable (le mouvement, l'institution et la révision des descriptions) et ce qu'il refuse de prendre en charge (l'ontologie première, la théorie générale de la connaissance, le tribunal absolu de la vérité).
+ * Briques conceptuelles :
+   * Protokin en une phrase (la formule opératoire d'accueil).
+   * Visée et non-visée (suspension du représentationnalisme et de la métaphysique spéculative).
+   * Refus de l'ontologie et du donné brut (critique du Mythe du Donné sellarsien appliqué à l'armature de second ordre).
+   * Nom, origine et portée (démarcation des coordonnées sans hypostase lexicale).
+   * Parcours de lecture et plan directeur (guide de navigation à travers le réseau des dépendances fonctionnelles).
+ * Périmètre d'établissement exclusif :
+   * Établit : Les conditions d'entrée dans l'enquête, la matrice d'orientation et la délimitation du champ de questionnement.
+   * N'établit pas : Les contraintes matérielles du vivant (01), les distinctions logiques d'audit (02), ni les études de cas (10).
 01 — Contraintes corporelles et fonctions de stimulus
-
-Fonction
-
-Établir l’ancrage matériel, biologique et écologique à partir duquel une différence peut entrer dans une dynamique relationnelle, sans la transformer immédiatement en signification ou en raison.
-
-Configuration matérielle et corporelle
-
-Couplage organisme-milieu et transduction
-
-Différence rencontrée et trace
-
-Stimulus physique et fonction de stimulus
-
-Appétit, aversion et butoirs
-
-
-Rôle dans le projet
-
-Cette partie établit le butoir amont.
-
-Elle montre notamment que :
-
-il existe des contraintes matérielles et corporelles ;
-
-l'organisme n'est pas un récepteur passif ;
-
-une différence physique n'est pas encore un signe ;
-
-un stimulus physique n'est pas identique à sa fonction de stimulus ;
-
-une trace n'est pas encore une signification.
-
-
-Elle permet donc d'éviter deux réductions symétriques :
-
-description ≠ physique brute
-
-et
-
-description ≠ production autonome de significations.
-
-
----
-
+ * Fonction architecturale : Établir l'ancrage matériel, biologique et sensorimoteur à partir duquel certaines différences deviennent fonctionnellement disponibles pour un organisme, sans les convertir immédiatement en significations, signes ou raisons.
+ * Briques conceptuelles :
+   * Configuration matérielle et corporelle (l'organisme comme système somatique situé).
+   * Couplage organisme-milieu et transduction (l'unité transactionnelle première et le filtrage des contrastes physiques).
+   * Différence rencontrée et trace (le surgissement de contrastes biophysiques sans attribution conceptuelle).
+   * Stimulus physique et fonction de stimulus (la distinction fonctionnelle entre énergie brute et rôle comportemental).
+   * Appétit, aversion et butoirs (la résistance matérielle du milieu et les stoppers biophysiques).
+ * Périmètre d'établissement exclusif :
+   * Établit : L'infrastructure sensorimotrice du vivant et les contraintes de viabilité matérielle.
+   * N'établit pas : L'armature relationnelle arbitraire (03), la catégorisation (04) ou la validation normative (05).
 02 — Quadripartition et principe de non-conversion
-
-Fonction
-
-Construire la grammaire différentielle de Protokin.
-
-C'est ici que sont établies les distinctions qui empêcheront les concepts des parties suivantes de se convertir les uns dans les autres.
-
-La quadripartition fondamentale
-
-Configuration, relation, fonction et justification
-
-Continuité des dépendances et discontinuité des fonctions
-
-Principe de non-conversion
-
-Distinction logique : causes et raisons
-
-Capacité, performance et validité
-
-PROTO, transformation relationnelle et KIN
-
-
-Rôle dans le projet
-
-Cette partie ne décrit pas encore les pratiques particulières.
-
-Elle établit les conditions de séparation fonctionnelle :
-
-Corps ≠ Relation ≠ Fonction ≠ Justification
-
-et :
-
-cause ≠ raison
-genèse ≠ justification
-condition ≠ critère
-trace ≠ signification
-description ≠ objet décrit
-
-Le principe central est :
-
-> Continuité des dépendances + discontinuité des fonctions + non-conversion.
-
-
-
-La distinction PROTO | transformation relationnelle | KIN est introduite ici comme architecture fonctionnelle, et non comme une succession génétique.
-
-
----
-
+ * Fonction architecturale : Construire la grammaire différentielle et l'appareil logique d'audit. Fixer les conditions formelles de non-conversion pour empêcher que les dépendances d'une pratique ne soient prises pour ses critères de validité.
+ * Briques conceptuelles :
+   * La quadripartition fondamentale (Corps dans le milieu, Relation, Fonction, Justification).
+   * Configuration, relation, fonction et justification (la caractérisation des quatre dimensions d'interrogation).
+   * Continuité des dépendances et discontinuité des fonctions (l'articulation sans déduction ni absorption ontologique).
+   * Principe de non-conversion (interdictions formelles : cause \neq raison, genèse \neq justification, condition \neq critère, trace \neq signification, description \neq objet décrit).
+   * Capacité, performance et validité (la distinction opératoire : pouvoir cadrer des relations \neq produire un acte discursif \neq être normativement justifié).
+ * Périmètre d'établissement exclusif :
+   * Établit : La grille formelle d'interrogation et les règles logiques de non-confusion de plans.
+   * N'établit pas : La modélisation empirique des apprentissages relationnels (03), l'analyse syntaxique de l'énoncé (04) ni le scorekeeping public (05).
 03 — Cadres relationnels et transformations
-
-Fonction
-
-Expliquer comment une différence acquiert une fonction relationnelle et comment cette fonction peut se transformer, sans passer directement au régime normatif de la justification.
-
-Indice et arbitrarité relationnelle
-
-Théorie des cadres relationnels (RFT)
-
-Implication mutuelle et combinatoire
-
-Transformation de fonction
-
-Sensibilité aux abstractions et dérive indicielle
-
-Support descriptif
-
-
-Rôle dans le projet
-
-Cette partie constitue le noyau de médiation relationnelle.
-
-Elle explique comment une configuration peut être prise dans des relations qui modifient sa fonction sans que ses propriétés physiques aient nécessairement changé.
-
-La RFT y intervient comme outil empirique de transformation fonctionnelle, et non comme fondement ontologique.
-
-Le support descriptif est placé ici parce qu'il concerne la possibilité pour une configuration relationnellement disponible d'être retenue, reprise, déplacée et transformée dans des pratiques descriptives.
-
-Cette partie ne traite donc pas encore de :
-
-vérité ;
-
-justification ;
-
-recevabilité ;
-
-responsabilité du locuteur.
-
-
-
----
-
+ * Fonction architecturale : Modéliser comment une configuration est prise dans des relations qui lui confèrent certaines fonctions comportementales et comment ces fonctions peuvent être transformées, sans présupposer une conversion ontologique ni introduire prématurément le régime normatif de la justification.
+ * Briques conceptuelles :
+   * Indice et différenciation relationnelle (la différenciation entre saillance physique et fonction relationnelle guidée par des contextes C_{rel} et C_{func}).
+   * Théorie des cadres relationnels (RFT) (la ressource empirique décrivant les réponses relationnelles arbitrairement applicables — AARR).
+   * Implication mutuelle et combinatoire (la bidirectionnalité et l'extension en réseau des relations dérivées).
+   * Transformation de fonction (la modification de valence sans altération physique du stimulus).
+   * Sensibilité aux abstractions et dérive indicielle (la réactivité somatique aux réseaux symboliques et la désarticulation fonctionnelle possible).
+   * Support descriptif (la prise matérielle, technique ou corporelle permettant la conservation et le transport des configurations).
+ * Périmètre d'établissement exclusif :
+   * Établit : L'opérativité de la médiation relationnelle et la flexibilité des fonctions comportementales.
+   * N'établit pas : L'assertion au présent d'usage (04), la redevabilité déontique publique ni les critères de justification (05).
 04 — Pratiques et régimes descriptifs
-
-Fonction
-
-Décrire ce que les agents font lorsqu'une configuration est disponible pour une pratique descriptive.
-
-Configuration descriptive
-
-Prédication, catégorie et critère
-
-Taxonomie et objet descriptif
-
-Assertion et engagement inférentiel
-
-Régimes descriptifs et pluralisme
-
-
-Rôle dans le projet
-
-Ici, on passe de la transformation fonctionnelle à son usage dans une pratique descriptive.
-
-La question devient :
-
-> Que fait-on avec une configuration lorsqu'on la qualifie, la classe, la prédique ou l'asserte ?
-
-
-
-Cette partie introduit donc les premières unités proprement descriptives :
-
-configuration descriptive → prédication → catégorie → critère → assertion → engagement.
-
-Le pluralisme n'est pas encore une théorie de la tolérance entre opinions. Il désigne la possibilité que des régimes descriptifs différents prennent une même configuration dans des fonctions différentes.
-
-
----
-
+ * Fonction architecturale : Décrire comment une configuration disponible devient exploitable dans une pratique descriptive en acte, à travers des qualifications, des découpages catégoriels et des inférences matérielles.
+ * Briques conceptuelles :
+   * Configuration descriptive (l'organisation relationnelle holistique structurant l'espace des dicibilités possibles).
+   * Prédication, catégorie et critère (les attributions différentielles et les conditions d'application des distinctions).
+   * Taxonomie et objet descriptif (la hiérarchisation des inclusions et l'invariant stabilisé par les rituels de preuve).
+   * Assertion et engagement inférentiel (l'énonciation au présent d'usage et le réseau de conséquences matérielles autorisées ou exclues).
+   * Régimes descriptifs et pluralisme (la diversité des grammaires descriptives pouvant organiser une même configuration matérielle sans équivalence ontologique).
+ * Périmètre d'établissement exclusif :
+   * Établit : La morphologie opératoire du dicible, la mise en relation réglée des énoncés et les conditions d'application internes aux régimes descriptifs.
+   * N'établit pas : La responsabilité déontique intersubjective (05) ni les profils de persistance temporelle (06).
 05 — Espace des raisons et redevabilité
-
-Fonction
-
-Établir la dimension normative des pratiques descriptives : répondre de ce que l'on affirme et pouvoir en demander raison.
-
-Locuteur, auditeur et position épistémique
-
-Engagement et redevabilité
-
-Espace des raisons et justification
-
-Normes, recevabilité et validité
-
-Critères de correction
-
-
-Rôle dans le projet
-
-C'est ici, et seulement ici, que la justification normative devient centrale.
-
-La distinction fondamentale est :
-
-> Une description peut avoir une genèse causale sans que cette genèse constitue sa justification.
-
-
-
-L'espace des raisons ne désigne donc pas une région ontologique séparée du monde.
-
-Il désigne une fonction de redevabilité dans laquelle une assertion peut être :
-
-soutenue ;
-
-contestée ;
-
-justifiée ;
-
-corrigée ;
-
-reconnue comme recevable ou non.
-
-
-
----
-
+ * Fonction architecturale : Établir ce que l'affirmation d'une description engage publiquement : la responsabilité déontique, l'administration des raisons et la sanction intersubjective de la correction.
+ * Briques conceptuelles :
+   * Locuteur, auditeur et position épistémique (les rôles fonctionnels d'autorisation, d'engagement et d'évaluation critique).
+   * Engagement et redevabilité (la tenue de la comptabilité déontique et l'obligation de répondre de ses assertions).
+   * Espace des raisons et justification (l'arène publique d'examen des prétentions à la validité).
+   * Normes, recevabilité et validité (la distinction entre l'acceptabilité d'une assertion dans une pratique et sa correction au regard des normes qui la régissent).
+   * Critères de correction publique (les règles reconnues déterminant l'admissibilité des justifications).
+ * Périmètre d'établissement exclusif :
+   * Établit : La structure déontique intersubjective, les conditions de justification et les critères de correction d'une assertion.
+   * N'établit pas : La vérité absolue d'une proposition, la genèse sensorimotrice (01), la syntaxe catégorielle (04) ni les causes physiques du discours (07).
 06 — Temporalité et dynamiques descriptives
-
-Fonction
-
-Expliquer comment les pratiques descriptives se transforment, se stabilisent, se transmettent et peuvent être rouvertes dans le temps.
-
-Transformation et stabilisation
-
-Tension interne et controverse
-
-Historicité et trajectoire
-
-Sédimentation et effet cliquet
-
-Mémoire descriptive et réouverture
-
-
-Rôle dans le projet
-
-Cette partie introduit la dimension temporelle sans transformer l'histoire en progression nécessaire.
-
-Une description peut :
-
-apparaître → être reprise → se stabiliser → devenir contraignante → être contestée → être transformée.
-
-Mais il ne s'agit pas d'une succession téléologique.
-
-La sédimentation explique notamment pourquoi certaines distinctions acquièrent une inertie historique sans devenir pour autant des vérités ontologiques.
-
-
----
-
+ * Fonction architecturale : Expliquer comment les pratiques descriptives se transforment, se stabilisent, sédimentent et deviennent coûteuses à rouvrir à travers le temps, en refusant tout schème téléologique.
+ * Briques conceptuelles :
+   * Transformation et stabilisation (les dynamiques d'équilibre, d'usure et d'adaptation des régimes).
+   * Tension interne et controverse (l'apparition d'anomalies saturant les critères établis).
+   * Historicité et trajectoire (le déploiement temporel des régimes sans progression nécessaire).
+   * Sédimentation et effet cliquet (l'accumulation matérielle et institutionnelle qui rend certaines distinctions difficiles ou coûteuses à rouvrir en pratique).
+   * Mémoire descriptive et réouverture (les procédures par lesquelles une communauté réactive des choix catégoriels naturalisés).
+ * Périmètre d'établissement exclusif :
+   * Établit : Les régularités temporelles, les allures et la persistance pratique des descriptions instituées.
+   * N'établit pas : L'explication causale de ces états (07) ni leur audit clinique (08).
 07 — Expliquer sans convertir
-
-Fonction
-
-Établir comment une pratique descriptive peut produire une explication causale sans convertir cette explication en justification normative.
-
-L'opération d'explication
-
-Descriptions causales situées
-
-Genèse causale vs justification normative
-
-Image manifeste et image scientifique
-
-Incompatibilité et puissance descriptive
-
-
-Rôle dans le projet
-
-Cette partie est le lieu privilégié de la séparation :
-
-explication causale ↔ justification normative.
-
-Elle permet d'affirmer simultanément que :
-
-les causes comptent ;
-
-les descriptions causales sont situées ;
-
-aucune cause ne devient automatiquement une raison ;
-
-une explication de la genèse d'une pratique ne constitue pas sa justification.
-
-
-L'image manifeste / image scientifique sert ici à analyser une différence de régime descriptif, et non à opposer deux mondes.
-
-
----
-
+ * Fonction architecturale : Établir comment une pratique descriptive peut produire une explication causale de la genèse d'un énoncé sans déterminer la validité normative de ce qui est décrit, ni dissoudre son autorité interne.
+ * Briques conceptuelles :
+   * L'opération d'explication causale (la modélisation des conditions de production matérielle sans prétention justificative).
+   * Descriptions causales situées (la reconnaissance du point de vue de l'explication comme régime descriptif particulier).
+   * Genèse causale vs justification normative (rendre compte de l'émergence d'un énoncé n'équivaut ni à sa validation ni à son élimination).
+   * Incompatibilité et puissance descriptive (la capacité différentielle des régimes à coordonner l'action sans réductionnisme).
+   * Image manifeste et image scientifique (mobilisée secondairement comme cas paradigmatique d'articulation de régimes).
+ * Périmètre d'établissement exclusif :
+   * Établit : L'épistémologie de l'explication non réductrice et la distinction fonctionnelle entre descriptions causales et justifications normatives.
+   * N'établit pas : La méthode d'audit de terrain (08).
 08 — Protocole d'enquête et d'audit
-
-Fonction
-
-Transformer l'architecture théorique en procédure d'analyse effective.
-
-Situation problématique et posture d'enquête
-
-Audit des quatre dimensions
-
-Comparaison de régimes descriptifs
-
-Diagnostic : conversion et réduction
-
-Diagnostic : erreur de catégorie
-
-Diagnostic : dérive indicielle
-
-Traduction, incompatibilité et coordination
-
-
-Rôle dans le projet
-
-C'est ici que Protokin devient opératoire.
-
-L'audit pose systématiquement les questions :
-
-Corps ?
-Relation ?
-Fonction ?
-Justification ?
-
-Puis vérifie les éventuelles conversions indues.
-
-Par exemple :
-
-> une condition corporelle est-elle transformée en justification ?
-
-
-
-> une fonction relationnelle est-elle transformée en propriété intrinsèque ?
-
-
-
-> une cause est-elle transformée en raison ?
-
-
-
-> un indice est-il traité comme une signification autonome ?
-
-
-
-Le protocole ne tranche donc pas souverainement entre toutes les descriptions. Il permet d'identifier leurs fonctions, leurs dépendances et leurs incompatibilités.
-
-
----
-
+ * Fonction architecturale : Transformer l'architecture théorique en grille clinique d'analyse pour diagnostiquer les blocages, réductions et délocalisations fonctionnelles dans des situations concrètes.
+ * Briques conceptuelles :
+   * Situation problématique et posture d'enquête (la suspension méthodique des évidences descriptives).
+   * Audit des quatre dimensions (le passage au crible : Corps, Relation, Fonction, Justification).
+   * Comparaison de régimes descriptifs (l'examen différentiel des vocabulaires, critères et régimes d'inférence).
+   * Diagnostic : conversion et réduction (l'identification de l'absorption indue d'un plan par un autre).
+   * Diagnostic : erreur de catégorie (l'attribution à un régime de prédicats qui ne remplissent pas la même fonction dans un autre régime).
+   * Diagnostic : dérive indicielle (la rupture du couplage entre l'armature relationnelle et son opérativité d'usage).
+   * Traduction, incompatibilité et coordination (l'évaluation du coût logique et pratique des passages entre régimes).
+ * Périmètre d'établissement exclusif :
+   * Établit : Le protocole ordonné d'examen critique de second ordre.
+   * N'établit pas : La typologie des pathologies comme théorie autonome (09) ni l'exercice effectif sur les monographies (10).
 09 — Réflexivité et pathologies descriptives
-
-Fonction
-
-Appliquer l'architecture à ses propres conditions d'application et aux échecs des pratiques descriptives.
-
-Auto-application et limites internes
-
-Écologie des régimes descriptifs
-
-Injustice épistémique et herméneutique
-
-Zones de silence
-
-Naturalisation et réification normative
-
-Impérialisme descriptif
-
-
-Rôle dans le projet
-
-Cette partie empêche Protokin de devenir un tribunal extérieur des descriptions.
-
-Elle demande notamment :
-
-> Protokin peut-il lui-même produire les conversions qu'il cherche à diagnostiquer ?
-
-
-
-L'injustice épistémique, les zones de silence, la naturalisation et l'impérialisme descriptif deviennent ainsi des pathologies de fonctionnement des régimes descriptifs, et non des catégories morales ajoutées de l'extérieur.
-
-
----
-
+ * Fonction architecturale : Appliquer l'audit aux limites internes de Protokin et caractériser les pathologies descriptives : non comme des erreurs factuelles, mais comme des organisations de descriptions qui empêchent structurellement la révision, la contestation ou l'usage réglé.
+ * Briques conceptuelles :
+   * Auto-application et limites internes (l'obligation pour la métathéorie de satisfaire à ses propres critères de non-surplomb).
+   * Typologie des pathologies fonctionnelles :
+     * Erreur descriptive (faute de premier ordre corrigée par les critères internes du régime) ;
+     * Conflit de régimes (friction entre deux grammaires autonomes face à une même configuration matérielle) ;
+     * Naturalisation (cristallisation d'une attribution déontique en essence matérielle brute) ;
+     * Verrouillage institutionnel (maintien d'un régime par contrainte structurelle interdisant l'anomalie) ;
+     * Injustice épistémique et herméneutique (déficit structurel de crédibilité imputé ou absence de ressources pour faire entendre une expérience) ;
+     * Impérialisme descriptif (prétention d'un régime à s'ériger en tribunal universel de toutes les descriptions).
+   * Zones de silence (l'effacement systématique de différences par saturation ou fermeture des critères).
+ * Périmètre d'établissement exclusif :
+   * Établit : L'auto-contrôle critique du dispositif et la nosologie structurelle des blocages discursifs.
+   * N'établit pas : Les études de cas spécifiques (10).
 10 — Études de cas
-
-Fonction
-
-Mettre l'architecture à l'épreuve sur des configurations concrètes.
-
-Astronomie : la rupture géocentrique
-
-Chimie : la persistance phlogistique
-
-Médecine : médecine humorale vs physiologie
-
-Écologie : le consensus climatique
-
-Technique : l'intentionnalité artificielle
-
-Morale : « Cette personne est mauvaise »
-
-Perspective : le botaniste et le bûcheron
-
-Institution : le tri aux urgences hospitalières
-
-
-Rôle dans le projet
-
-Les cas ne servent pas à « prouver » Protokin.
-
-Ils servent à vérifier si l'architecture permet effectivement de reconstruire :
-
-les configurations ;
-
-les relations ;
-
-les fonctions ;
-
-les justifications ;
-
-les transformations historiques ;
-
-les conflits entre régimes descriptifs.
-
-
-Le cas est donc un audit de second ordre, pas un tribunal de vérité empirique.
-
-
----
-
+ * Fonction architecturale : Mettre l'architecture à l'épreuve sans réinventer de théorie, en appliquant strictement le protocole d'audit uniforme (issu de 08) à chaque configuration analysée.
+ * Protocole d'audit uniforme :
+   * Configuration : quelle configuration matérielle, corporelle ou institutionnelle est concernée ?
+   * Relation : quelles relations sont effectivement établies, apprises ou mobilisées ?
+   * Fonction : que permet la description dans la pratique considérée ?
+   * Justification : quelles raisons, normes et critères de correction la rendent recevable ?
+   * Non-conversion : quelle confusion éventuelle entre ces dimensions faut-il diagnostiquer ?
+   * Régimes : quels régimes descriptifs sont en présence et où leurs fonctions divergent-elles ?
+   * Révision : quelle transformation, coordination ou réouverture devient possible ?
+ * Monographies d'épreuve :
+   * Astronomie : la rupture géocentrique (substitution de modèles sans destruction des contrastes d'observation somatique).
+   * Chimie : la persistance phlogistique (inertie d'un schème explicatif face aux butoirs pondéraux).
+   * Médecine : médecine humorale vs physiologie (déplacement des critères d'équilibres vers des mécanismes causaux).
+   * Écologie : le consensus climatique (coordination de disciplines hétérogènes face aux butoirs de niche).
+   * Technique : l'intentionnalité artificielle (audit de l'attribution mentale projetée sur des calculs d'optimisation formelle).
+   * Morale : « Cette personne est mauvaise » (diagnostic de la naturalisation substantielle d'un jugement déontique).
+   * Perspective : le botaniste et le bûcheron (pluralité de régimes d'action irréductibles sur une configuration végétale identique).
+   * Institution : le tri aux urgences hospitalières (arbitrage sous tension entre butoirs physiologiques et normes organisationnelles).
+ * Périmètre d'établissement exclusif :
+   * Établit : L'épreuve clinique de consistance sur des matériaux historiques, empiriques et normatifs.
+   * N'établit pas : L'histoire des idées philosophiques (11).
 11 — Filiations théoriques
-
-Fonction
-
-Identifier les filiations dont Protokin reconstruit certaines fonctions conceptuelles, sans présenter le projet comme une simple synthèse d'auteurs.
-
-Pragmatisme : Peirce, Dewey, Rorty
-
-Inférentialisme et espace des raisons : Sellars, Brandom, McDowell
-
-Usage et jeux de langage : Wittgenstein
-
-Énaction et individuation : Simondon, Merleau-Ponty, Varela
-
-Épistémologie sociale et pratique : Rouse, Hacking, Fricker
-
-
-Rôle dans le projet
-
-Cette partie vient volontairement après les cas.
-
-Elle ne dit pas :
-
-> « Protokin vient de Peirce + Dewey + Sellars + RFT + Simondon… »
-
-
-
-Elle demande plutôt :
-
-> Quelle fonction déjà nécessaire dans l'architecture trouve-t-on, sous une autre forme, chez tel auteur ou dans telle tradition ?
-
-
-
-Cela transforme l'histoire intellectuelle en reconstruction fonctionnelle plutôt qu'en catalogue d'influences.
-
-
----
-
+ * Fonction architecturale : Reconstituer a posteriori les parentés conceptuelles requises par l'armature, en montrant quelles nécessités fonctionnelles trouvent écho dans l'histoire de la pensée, sans autorité tutélaire ni syncrétisme éclectique.
+ * Chantiers de filiation fonctionnelle :
+   * Pragmatisme (Peirce, Dewey, Rorty) : fonction d'enquête, anti-fondationalisme, ré-ancrage par les conséquences de l'action.
+   * Inférentialisme et espace des raisons (Sellars, Brandom, McDowell) : scorekeeping déontique, non-conversion, critique du Mythe du Donné.
+   * Usage et jeux de langage (Wittgenstein) : signification définie par l'usage réglé, refus des entités intermédiaires.
+   * Énaction et individuation (Simondon, Merleau-Ponty, Varela) : primat de la relation de couplage, transduction somatique, mémoire organique.
+   * Épistémologie sociale et pratique (Rouse, Hacking, Fricker) : redevabilité matérielle, bouclage institutionnel, diagnostic des asymétries épistémiques.
+ * Périmètre d'établissement exclusif :
+   * Établit : L'inscription réflexive de l'armature dans les débats théoriques contemporains.
+   * N'établit pas : Le bilan des limites internes et des prolongements de l'enquête (12).
 12 — Portée et ouvertures
-
-Fonction
-
-Déterminer ce que l'architecture permet effectivement de faire, ce qu'elle laisse indéterminé et ce qui reste à développer.
-
-Ce que l'armature permet
-
-Ce que le modèle ne prend pas en charge
-
-Perspectives de recherche
-
-
-Rôle dans le projet
-
-La conclusion ne doit pas réintroduire de nouveaux concepts.
-
-Elle répond seulement à trois questions :
-
-1. Qu'est-ce que l'architecture permet de distinguer ?
-
-
-2. Qu'est-ce qu'elle ne permet pas de décider ?
-
-
-3. Quels problèmes restent ouverts ?
-
-
-
-Elle ferme donc le système sans le fermer dogmatiquement.
-
-
----
-
-Documents transversaux
-
-Ces documents ne constituent pas des parties supplémentaires du raisonnement. Ils servent à rendre l'architecture navigable et contrôlable.
-
-Lexique opératoire
-
-Définit les termes selon leur fonction précise et signale les termes qui ne doivent pas être confondus.
-
-Table synoptique des non-conversions
-
-Condense les distinctions :
-
-Ne pas convertir	En
-
-cause	raison
-genèse	justification
-condition	critère
-trace	signification
-description	objet décrit
-capacité	performance
-performance	validité
-
-
-Matrice de la quadripartition
-
-Permet de contrôler les descriptions selon :
-
-Corps / Relation / Fonction / Justification.
-
-Graphe des dépendances conceptuelles
-
-Montre les dépendances sans les transformer en chaîne génétique.
-
-Index conceptuel
-
-Permet de retrouver chaque concept et surtout son lieu principal d'établissement.
-
-
----
-
-L'architecture fonctionnelle obtenue
-
-Je la résumerais ainsi :
-
-00  DÉLIMITER
-    ↓
-01  ANCRER
-    ↓
-02  DISTINGUER
-    ↓
-03  MÉDIER / TRANSFORMER
-    ↓
-04  DÉCRIRE
-    ↓
-05  JUSTIFIER
-    ↓
-06  TRANSFORMER DANS LE TEMPS
-    ↓
-07  EXPLIQUER SANS CONVERTIR
-    ↓
-08  AUDITER
-    ↓
-09  RÉFLÉCHIR SUR LES PATHOLOGIES
-    ↓
-10  ÉPROUVER PAR LES CAS
-    ↓
-11  RECONSTRUIRE LES FILIATIONS
-    ↓
-12  DÉLIMITER LA PORTÉE
-
-Le point important est que ce n'est pas une genèse de la description. Ce n'est pas :
-
-matière → stimulus → relation → langage → raison
-
-C'est une organisation des fonctions d'analyse :
-
-> ancrer sans réduire → distinguer sans séparer ontologiquement → expliquer les médiations → analyser les pratiques → identifier la redevabilité → suivre les transformations → expliquer sans convertir → auditer → appliquer la réflexivité.
-
-
-
+ * Fonction architecturale : Redélimiter le périmètre de l'enquête au terme du parcours, en dressant le bilan des clarifications opérées, des indécidables méthodologiques et des chantiers futurs.
+ * Briques conclusives :
+   * Ce que l'armature permet (outiller l'audit différentiel, préserver l'autonomie des pratiques, bloquer les réductions abusives).
+   * Ce que le modèle ne prend pas en charge (trancher la vérité empirique ou morale à la place des acteurs de premier ordre).
+   * Perspectives de recherche (prolongements vers l'audit des modèles d'apprentissage automatique, les régimes juridiques environnementaux et l'écologie institutionnelle des descriptions).
+ * Périmètre d'établissement exclusif :
+   * Établit : La clôture sans dogmatisme et le tracé des frontières d'usage légitime.
+Documents transversaux d'appui
+ * Lexique opératoire : Stabilisation des définitions d'après leurs fonctions d'usage et leurs clauses d'exclusion mutuelle.
+ * Table synoptique des non-conversions : Matrice de veille récapitulant les confusions de plans proscrites :
+   * cause \not\rightarrow raison ;
+   * genèse \not\rightarrow justification ;
+   * condition \not\rightarrow critère ;
+   * trace \not\rightarrow signification ;
+   * description \not\rightarrow objet décrit ;
+   * capacité \not\rightarrow performance \not\rightarrow validité.
+ * Matrice de la quadripartition : Gabarit de diagnostic clinique croisant distinctement Corps, Relation, Fonction et Justification.
+ * Graphe des dépendances conceptuelles : Tracé du flux fonctionnel interdisant l'appel anticipé aux concepts d'aval.
+ * Index conceptuel : Répertoire d'attribution des briques à leur lieu exclusif d'établissement.
+Grille de test pour chaque page
+Pour auditer et calibrer chaque page avant intégration, appliquer systématiquement les sept questions de conformité :
+ * Fonction unique : quelle opération singulière cette page accomplit-elle dans l'armature ?
+ * Lieu d'établissement : dans quelle section (00 à 12) son contenu est-il formellement institué ?
+ * Clause d'exclusion négative : quel concept ou opération cette page s'interdit-elle formellement d'établir ?
+ * Prise quadripartite : quelle(s) dimension(s) parmi Corps, Relation, Fonction, Justification la page met-elle au travail ?
+ * Vigilance de non-conversion : quel glissement ou réduction (cause/raison, trace/signe, capacité/validité) la page neutralise-t-elle activement ?
+ * Dépendances d'amont : de quelles pages établies dépend-elle nécessairement ?
+ * Ouvertures d'aval : quelles pages rend-elle opératoirement possibles ?
