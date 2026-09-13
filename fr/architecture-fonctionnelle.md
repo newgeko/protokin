@@ -2,27 +2,21 @@
 
 ## Formule matricielle d'orientation
 
-$$
-\text{Protokin n'organise pas des niveaux de réalité. Il organise des fonctions d'enquête.} \\
-\text{Une même configuration peut être prise dans plusieurs descriptions sans que ces descriptions aient la même fonction.} \\
-\text{Continuité des dépendances ; discontinuité des fonctions ; non-conversion.} \\
-\boxed{\text{Corps dans le milieu} \;\leftrightarrow\; \text{Relation} \;\leftrightarrow\; \text{Fonction} \;\leftrightarrow\; \text{Justification}}
-$$
+> Toute enquête distingue quatre questions :
+> **Corps**, **Relation**, **Fonction**, **Justification**.
 
-**Règle générale de questionnement :** Toute enquête distingue quatre questions :
-
-- **Corps** : dans quelle configuration corporelle et matérielle ?
-- **Relation** : sous quelles relations ?
-- **Fonction** : pour quelle fonction ?
-- **Justification** : sous quelle justification ?
+> **Corps** : dans quelle configuration corporelle et matérielle ?
+> **Relation** : sous quelles relations ?
+> **Fonction** : pour quelle fonction ?
+> **Justification** : sous quelle justification ?
 
 Aucune réponse à l'une de ces questions ne vaut, par elle-même, réponse aux trois autres.
 
 ## Séquence des opérations architecturales
 
-$$
-\text{00 Délimiter} \rightarrow \text{01 Ancrer} \rightarrow \text{02 Distinguer} \rightarrow \text{03 Relier} \rightarrow \text{04 Décrire} \rightarrow \text{05 Justifier} \rightarrow \text{06 Temporaliser} \rightarrow \text{07 Expliquer} \rightarrow \text{08 Auditer} \rightarrow \text{09 Réfléchir} \rightarrow \text{10 Éprouver} \rightarrow \text{11 Reconstituer} \rightarrow \text{12 Redélimiter}
-$$
+`00 Délimiter` → `01 Ancrer` → `02 Distinguer` → `03 Relier` → `04 Décrire` → `05 Justifier` → `06 Temporaliser` → `07 Expliquer` → `08 Auditer` → `09 Réfléchir` → `10 Éprouver` → `11 Reconstituer` → `12 Redélimiter`
+
+---
 
 ## 00 — Cadre et délimitations
 
@@ -40,8 +34,10 @@ $$
 
 ### Périmètre d'établissement exclusif
 
-- **Établit :** Les conditions d'entrée dans l'enquête, la matrice d'orientation et la délimitation du champ de questionnement.
-- **N'établit pas :** Les contraintes matérielles du vivant (01), les distinctions logiques d'audit (02), ni les études de cas (10).
+- **Établit** : les conditions d'entrée dans l'enquête, la matrice d'orientation et la délimitation du champ de questionnement.
+- **N'établit pas** : les contraintes matérielles du vivant (01), les distinctions logiques d'audit (02), ni les études de cas (10).
+
+---
 
 ## 01 — Contraintes corporelles et fonctions de stimulus
 
@@ -59,8 +55,10 @@ $$
 
 ### Périmètre d'établissement exclusif
 
-- **Établit :** L'infrastructure sensorimotrice du vivant et les contraintes de viabilité matérielle.
-- **N'établit pas :** L'armature relationnelle arbitraire (03), la catégorisation (04) ou la validation normative (05).
+- **Établit** : l'infrastructure sensorimotrice du vivant et les contraintes de viabilité matérielle.
+- **N'établit pas** : l'armature relationnelle arbitraire (03), la catégorisation (04) ou la validation normative (05).
+
+---
 
 ## 02 — Quadripartition et principe de non-conversion
 
@@ -73,13 +71,15 @@ Construire la grammaire différentielle et l'appareil logique d'audit. Fixer les
 - **La quadripartition fondamentale** (Corps dans le milieu, Relation, Fonction, Justification).
 - **Configuration, relation, fonction et justification** (la caractérisation des quatre dimensions d'interrogation).
 - **Continuité des dépendances et discontinuité des fonctions** (l'articulation sans déduction ni absorption ontologique).
-- **Principe de non-conversion** (interdictions formelles : $cause \neq raison$, $genèse \neq justification$, $condition \neq critère$, $trace \neq signification$, $description \neq objet décrit$).
-- **Capacité, performance et validité** (la distinction opératoire : pouvoir cadrer des relations $\neq$ produire un acte discursif $\neq$ être normativement justifié).
+- **Principe de non-conversion** (interdictions formelles : cause ≠ raison, genèse ≠ justification, condition ≠ critère, trace ≠ signification, description ≠ objet décrit).
+- **Capacité, performance et validité** (la distinction opératoire : pouvoir cadrer des relations ≠ produire un acte discursif ≠ être normativement justifié).
 
 ### Périmètre d'établissement exclusif
 
-- **Établit :** La grille formelle d'interrogation et les règles logiques de non-confusion de plans.
-- **N'établit pas :** La modélisation empirique des apprentissages relationnels (03), l'analyse syntaxique de l'énoncé (04) ni le scorekeeping public (05).
+- **Établit** : la grille formelle d'interrogation et les règles logiques de non-confusion de plans.
+- **N'établit pas** : la modélisation empirique des apprentissages relationnels (03), l'analyse syntaxique de l'énoncé (04) ni le scorekeeping public (05).
+
+---
 
 ## 03 — Cadres relationnels et transformations
 
@@ -89,7 +89,7 @@ Modéliser comment une configuration est prise dans des relations qui lui confè
 
 ### Briques conceptuelles
 
-- **Indice et différenciation relationnelle** (la différenciation entre saillance physique et fonction relationnelle guidée par des contextes $C_{rel}$ et $C_{func}$).
+- **Indice et différenciation relationnelle** (la différenciation entre saillance physique et fonction relationnelle guidée par des contextes `C_rel` et `C_func`).
 - **Théorie des cadres relationnels (RFT)** (la ressource empirique décrivant les réponses relationnelles arbitrairement applicables — AARR).
 - **Implication mutuelle et combinatoire** (la bidirectionnalité et l'extension en réseau des relations dérivées).
 - **Transformation de fonction** (la modification de valence sans altération physique du stimulus).
@@ -98,8 +98,10 @@ Modéliser comment une configuration est prise dans des relations qui lui confè
 
 ### Périmètre d'établissement exclusif
 
-- **Établit :** L'opérativité de la médiation relationnelle et la flexibilité des fonctions comportementales.
-- **N'établit pas :** L'assertion au présent d'usage (04), la redevabilité déontique publique ni les critères de justification (05).
+- **Établit** : l'opérativité de la médiation relationnelle et la flexibilité des fonctions comportementales.
+- **N'établit pas** : l'assertion au présent d'usage (04), la redevabilité déontique publique ni les critères de justification (05).
+
+---
 
 ## 04 — Pratiques et régimes descriptifs
 
@@ -117,8 +119,10 @@ Décrire comment une configuration disponible devient exploitable dans une prati
 
 ### Périmètre d'établissement exclusif
 
-- **Établit :** La morphologie opératoire du dicible, la mise en relation réglée des énoncés et les conditions d'application internes aux régimes descriptifs.
-- **N'établit pas :** La responsabilité déontique intersubjective (05) ni les profils de persistance temporelle (06).
+- **Établit** : la morphologie opératoire du dicible, la mise en relation réglée des énoncés et les conditions d'application internes aux régimes descriptifs.
+- **N'établit pas** : la responsabilité déontique intersubjective (05) ni les profils de persistance temporelle (06).
+
+---
 
 ## 05 — Espace des raisons et redevabilité
 
@@ -136,8 +140,10 @@ Décrire comment une configuration disponible devient exploitable dans une prati
 
 ### Périmètre d'établissement exclusif
 
-- **Établit :** La structure déontique intersubjective, les conditions de justification et les critères de correction d'une assertion.
-- **N'établit pas :** La vérité absolue d'une proposition, la genèse sensorimotrice (01), la syntaxe catégorielle (04) ni les causes physiques du discours (07).
+- **Établit** : la structure déontique intersubjective, les conditions de justification et les critères de correction d'une assertion.
+- **N'établit pas** : la vérité absolue d'une proposition, la genèse sensorimotrice (01), la syntaxe catégorielle (04) ni les causes physiques du discours (07).
+
+---
 
 ## 06 — Temporalité et dynamiques descriptives
 
@@ -155,8 +161,10 @@ Expliquer comment les pratiques descriptives se transforment, se stabilisent, s�
 
 ### Périmètre d'établissement exclusif
 
-- **Établit :** Les régularités temporelles, les allures et la persistance pratique des descriptions instituées.
-- **N'établit pas :** L'explication causale de ces états (07) ni leur audit clinique (08).
+- **Établit** : les régularités temporelles, les allures et la persistance pratique des descriptions instituées.
+- **N'établit pas** : l'explication causale de ces états (07) ni leur audit clinique (08).
+
+---
 
 ## 07 — Expliquer sans convertir
 
@@ -174,8 +182,10 @@ Expliquer comment les pratiques descriptives se transforment, se stabilisent, s�
 
 ### Périmètre d'établissement exclusif
 
-- **Établit :** L'épistémologie de l'explication non réductrice et la distinction fonctionnelle entre descriptions causales et justifications normatives.
-- **N'établit pas :** La méthode d'audit de terrain (08).
+- **Établit** : l'épistémologie de l'explication non réductrice et la distinction fonctionnelle entre descriptions causales et justifications normatives.
+- **N'établit pas** : la méthode d'audit de terrain (08).
+
+---
 
 ## 08 — Protocole d'enquête et d'audit
 
@@ -195,8 +205,10 @@ Transformer l'architecture théorique en grille clinique d'analyse pour diagnost
 
 ### Périmètre d'établissement exclusif
 
-- **Établit :** Le protocole ordonné d'examen critique de second ordre.
-- **N'établit pas :** La typologie des pathologies comme théorie autonome (09) ni l'exercice effectif sur les monographies (10).
+- **Établit** : le protocole ordonné d'examen critique de second ordre.
+- **N'établit pas** : la typologie des pathologies comme théorie autonome (09) ni l'exercice effectif sur les monographies (10).
+
+---
 
 ## 09 — Réflexivité et pathologies descriptives
 
@@ -207,21 +219,21 @@ Appliquer l'audit aux limites internes de Protokin et caractériser les patholog
 ### Briques conceptuelles
 
 - **Auto-application et limites internes** (l'obligation pour la métathéorie de satisfaire à ses propres critères de non-surplomb).
-
-- **Typologie des pathologies fonctionnelles :**
+- **Typologie des pathologies fonctionnelles** :
   - **Erreur descriptive** (faute de premier ordre corrigée par les critères internes du régime) ;
   - **Conflit de régimes** (friction entre deux grammaires autonomes face à une même configuration matérielle) ;
   - **Naturalisation** (cristallisation d'une attribution déontique en essence matérielle brute) ;
   - **Verrouillage institutionnel** (maintien d'un régime par contrainte structurelle interdisant l'anomalie) ;
   - **Injustice épistémique et herméneutique** (déficit structurel de crédibilité imputé ou absence de ressources pour faire entendre une expérience) ;
   - **Impérialisme descriptif** (prétention d'un régime à s'ériger en tribunal universel de toutes les descriptions).
-
 - **Zones de silence** (l'effacement systématique de différences par saturation ou fermeture des critères).
 
 ### Périmètre d'établissement exclusif
 
-- **Établit :** L'auto-contrôle critique du dispositif et la nosologie structurelle des blocages discursifs.
-- **N'établit pas :** Les études de cas spécifiques (10).
+- **Établit** : l'auto-contrôle critique du dispositif et la nosologie structurelle des blocages discursifs.
+- **N'établit pas** : les études de cas spécifiques (10).
+
+---
 
 ## 10 — Études de cas
 
@@ -231,29 +243,31 @@ Mettre l'architecture à l'épreuve sans réinventer de théorie, en appliquant 
 
 ### Protocole d'audit uniforme
 
-- **Configuration :** quelle configuration matérielle, corporelle ou institutionnelle est concernée ?
-- **Relation :** quelles relations sont effectivement établies, apprises ou mobilisées ?
-- **Fonction :** que permet la description dans la pratique considérée ?
-- **Justification :** quelles raisons, normes et critères de correction la rendent recevable ?
-- **Non-conversion :** quelle confusion éventuelle entre ces dimensions faut-il diagnostiquer ?
-- **Régimes :** quels régimes descriptifs sont en présence et où leurs fonctions divergent-elles ?
-- **Révision :** quelle transformation, coordination ou réouverture devient possible ?
+- **Configuration** : quelle configuration matérielle, corporelle ou institutionnelle est concernée ?
+- **Relation** : quelles relations sont effectivement établies, apprises ou mobilisées ?
+- **Fonction** : que permet la description dans la pratique considérée ?
+- **Justification** : quelles raisons, normes et critères de correction la rendent recevable ?
+- **Non-conversion** : quelle confusion éventuelle entre ces dimensions faut-il diagnostiquer ?
+- **Régimes** : quels régimes descriptifs sont en présence et où leurs fonctions divergent-elles ?
+- **Révision** : quelle transformation, coordination ou réouverture devient possible ?
 
 ### Monographies d'épreuve
 
-- **Astronomie :** la rupture géocentrique (substitution de modèles sans destruction des contrastes d'observation somatique).
-- **Chimie :** la persistance phlogistique (inertie d'un schème explicatif face aux butoirs pondéraux).
-- **Médecine :** médecine humorale vs physiologie (déplacement des critères d'équilibres vers des mécanismes causaux).
-- **Écologie :** le consensus climatique (coordination de disciplines hétérogènes face aux butoirs de niche).
-- **Technique :** l'intentionnalité artificielle (audit de l'attribution mentale projetée sur des calculs d'optimisation formelle).
-- **Morale :** « Cette personne est mauvaise » (diagnostic de la naturalisation substantielle d'un jugement déontique).
-- **Perspective :** le botaniste et le bûcheron (pluralité de régimes d'action irréductibles sur une configuration végétale identique).
-- **Institution :** le tri aux urgences hospitalières (arbitrage sous tension entre butoirs physiologiques et normes organisationnelles).
+- **Astronomie** : la rupture géocentrique (substitution de modèles sans destruction des contrastes d'observation somatique).
+- **Chimie** : la persistance phlogistique (inertie d'un schème explicatif face aux butoirs pondéraux).
+- **Médecine** : médecine humorale vs physiologie (déplacement des critères d'équilibres vers des mécanismes causaux).
+- **Écologie** : le consensus climatique (coordination de disciplines hétérogènes face aux butoirs de niche).
+- **Technique** : l'intentionnalité artificielle (audit de l'attribution mentale projetée sur des calculs d'optimisation formelle).
+- **Morale** : « Cette personne est mauvaise » (diagnostic de la naturalisation substantielle d'un jugement déontique).
+- **Perspective** : le botaniste et le bûcheron (pluralité de régimes d'action irréductibles sur une configuration végétale identique).
+- **Institution** : le tri aux urgences hospitalières (arbitrage sous tension entre butoirs physiologiques et normes organisationnelles).
 
 ### Périmètre d'établissement exclusif
 
-- **Établit :** L'épreuve clinique de consistance sur des matériaux historiques, empiriques et normatifs.
-- **N'établit pas :** L'histoire des idées philosophiques (11).
+- **Établit** : l'épreuve clinique de consistance sur des matériaux historiques, empiriques et normatifs.
+- **N'établit pas** : l'histoire des idées philosophiques (11).
+
+---
 
 ## 11 — Filiations théoriques
 
@@ -263,16 +277,18 @@ Reconstituer a posteriori les parentés conceptuelles requises par l'armature, e
 
 ### Chantiers de filiation fonctionnelle
 
-- **Pragmatisme (Peirce, Dewey, Rorty) :** fonction d'enquête, anti-fondationalisme, ré-ancrage par les conséquences de l'action.
-- **Inférentialisme et espace des raisons (Sellars, Brandom, McDowell) :** scorekeeping déontique, non-conversion, critique du Mythe du Donné.
-- **Usage et jeux de langage (Wittgenstein) :** signification définie par l'usage réglé, refus des entités intermédiaires.
-- **Énaction et individuation (Simondon, Merleau-Ponty, Varela) :** primat de la relation de couplage, transduction somatique, mémoire organique.
-- **Épistémologie sociale et pratique (Rouse, Hacking, Fricker) :** redevabilité matérielle, bouclage institutionnel, diagnostic des asymétries épistémiques.
+- **Pragmatisme** (Peirce, Dewey, Rorty) : fonction d'enquête, anti-fondationalisme, ré-ancrage par les conséquences de l'action.
+- **Inférentialisme et espace des raisons** (Sellars, Brandom, McDowell) : scorekeeping déontique, non-conversion, critique du Mythe du Donné.
+- **Usage et jeux de langage** (Wittgenstein) : signification définie par l'usage réglé, refus des entités intermédiaires.
+- **Énaction et individuation** (Simondon, Merleau-Ponty, Varela) : primat de la relation de couplage, transduction somatique, mémoire organique.
+- **Épistémologie sociale et pratique** (Rouse, Hacking, Fricker) : redevabilité matérielle, bouclage institutionnel, diagnostic des asymétries épistémiques.
 
 ### Périmètre d'établissement exclusif
 
-- **Établit :** L'inscription réflexive de l'armature dans les débats théoriques contemporains.
-- **N'établit pas :** Le bilan des limites internes et des prolongements de l'enquête (12).
+- **Établit** : l'inscription réflexive de l'armature dans les débats théoriques contemporains.
+- **N'établit pas** : le bilan des limites internes et des prolongements de l'enquête (12).
+
+---
 
 ## 12 — Portée et ouvertures
 
@@ -288,28 +304,34 @@ Redélimiter le périmètre de l'enquête au terme du parcours, en dressant le b
 
 ### Périmètre d'établissement exclusif
 
-- **Établit :** La clôture sans dogmatisme et le tracé des frontières d'usage légitime.
+- **Établit** : la clôture sans dogmatisme et le tracé des frontières d'usage légitime.
+
+---
 
 ## Documents transversaux d'appui
 
-- **Lexique opératoire :** Stabilisation des définitions d'après leurs fonctions d'usage et leurs clauses d'exclusion mutuelle.
-- **Table synoptique des non-conversions :** Matrice de veille récapitulant les confusions de plans proscrites :
-  - $cause \not\rightarrow raison$ ;
-  - $genèse \not\rightarrow justification$ ;
-  - $condition \not\rightarrow critère$ ;
-  - $trace \not\rightarrow signification$ ;
-  - $description \not\rightarrow objet décrit$ ;
-  - $capacité \not\rightarrow performance \not\rightarrow validité$.
-- **Matrice de la quadripartition :** Gabarit de diagnostic clinique croisant distinctement Corps, Relation, Fonction et Justification.
-- **Graphe des dépendances conceptuelles :** Tracé du flux fonctionnel interdisant l'appel anticipé aux concepts d'aval.
-- **Index conceptuel :** Répertoire d'attribution des briques à leur lieu exclusif d'établissement.
+- **Lexique opératoire** : stabilisation des définitions d'après leurs fonctions d'usage et leurs clauses d'exclusion mutuelle.
+- **Table synoptique des non-conversions** : matrice de veille récapitulant les confusions de plans proscrites :
+  - `cause ≠ raison` ;
+  - `genèse ≠ justification` ;
+  - `condition ≠ critère` ;
+  - `trace ≠ signification` ;
+  - `description ≠ objet décrit` ;
+  - `capacité ≠ performance ≠ validité`.
+- **Matrice de la quadripartition** : gabarit de diagnostic clinique croisant distinctement Corps, Relation, Fonction et Justification.
+- **Graphe des dépendances conceptuelles** : tracé du flux fonctionnel interdisant l'appel anticipé aux concepts d'aval.
+- **Index conceptuel** : répertoire d'attribution des briques à leur lieu exclusif d'établissement.
+
+---
 
 ## Grille de test pour chaque page
 
 Pour auditer et calibrer chaque page avant intégration, appliquer systématiquement les sept questions de conformité :
 
-- **Fonction unique :** quelle opération singulière cette page accomplit-elle dans l'armature ?
-- **Lieu d'établissement :** dans quelle section (00 à 12) son contenu est-il formellement institué ?
-- **Clause d'exclusion négative :** quel concept ou opération cette page s'interdit-elle formellement d'établir ?
-- **Prise quadripartite :** quelle(s) dimension(s) parmi Corps, Relation, Fonction, Justification la page met-elle au travail ?
-- **Vigilan
+- **Fonction unique** : quelle opération singulière cette page accomplit-elle dans l'armature ?
+- **Lieu d'établissement** : dans quelle section (00 à 12) son contenu est-il formellement institué ?
+- **Clause d'exclusion négative** : quel concept ou opération cette page s'interdit-elle formellement d'établir ?
+- **Prise quadripartite** : quelle(s) dimension(s) parmi Corps, Relation, Fonction, Justification la page met-elle au travail ?
+- **Vigilance de non-conversion** : quel glissement ou réduction (cause/raison, trace/signe, capacité/validité) la page neutralise-t-elle activement ?
+- **Dépendances d'amont** : de quelles pages établies dépend-elle nécessairement ?
+- **Ouvertures d'aval** : quelles pages rend-elle opératoirement possibles ?
