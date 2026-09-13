@@ -1,284 +1,224 @@
 # Page : tdm.md
 
-# Architecture complète de la documentation Protokin
+# PROTOKIN — TABLE DES MATIÈRES
+
+*« Une métathéorie pragmatiste, inférentialiste, réflexive et non-ontologique des pratiques descriptives. »*
+
+## Architecture fonctionnelle
+
+`00 Délimiter` → `01 Ancrer` → `02 Distinguer` → `03 Relier` → `04 Décrire` → `05 Justifier` → `06 Temporaliser` → `07 Expliquer` → `08 Auditer` → `09 Réfléchir` → `10 Éprouver` → `11 Reconstituer` → `12 Redélimiter`
+
+La séquence indique l'ordre fonctionnel des opérations de l'ouvrage.
+
+Elle ne constitue ni une genèse ontologique, ni une hiérarchie des régimes, ni une progression de la matière vers la norme.
+
+La grille transversale de toute enquête reste :
+
+> **Corps dans le milieu** ↔ **Relation** ↔ **Fonction** ↔ **Justification**
 
 ---
 
-### 00 — Se repérer
-**Fonction générale :** Permettre au lecteur de comprendre ce qu'il est en train de lire avant d'entrer dans la théorie.
+## 00 — Délimiter
+
+**Fonction** : Établir les conditions d'entrée dans l'enquête et délimiter ce que Protokin prend en charge.
 
 | Titre | Fonction | Fichier |
-| --- | --- | --- |
-| 00 - Se repérer | Présenter la section et son rôle dans l'ensemble de l'ouvrage. | 00-se-reperer.md |
-| Introduction générale | Présenter le déplacement fondamental de Protokin et son objet. | introduction-generale.md |
-| Protokin en une phrase | Donner la définition synthétique du projet. | protokin-en-une-phrase.md |
-| Statut du projet | Expliquer ce que Protokin est… et ce qu'il n'est pas. | statut-du-projet.md |
-| Protokin : nom, origine et portée conceptuelle | Présenter le choix du nom et sa signification. | nom-origine-portee.md |
-| Les principes | Introduire les engagements philosophiques fondateurs sans encore les établir. | les-principes.md |
-| Parcours de lecture | Orienter les différents profils de lecteurs. | parcours-de-lecture.md |
-| Plan directeur | Présenter le fil directeur et l'organisation générale de l'ouvrage. | plan-directeur.md |
+|---|---|---|
+| 00 - Se repérer | Présenter la fonction d'orientation de la section. | [00-se-reperer.md](00-se-reperer.md) |
+| Introduction générale | Présenter le déplacement fondamental de Protokin vers l'analyse des pratiques descriptives. | [introduction-generale.md](introduction-generale.md) |
+| Protokin en une phrase | Formuler la définition synthétique du projet. | [protokin-en-une-phrase.md](protokin-en-une-phrase.md) |
+| Statut du projet | Délimiter le statut métathéorique, non-ontologique et réflexif de Protokin. | [statut-du-projet.md](statut-du-projet.md) |
+| Nom, origine et portée | Définir le nom Protokin et sa portée sans hypostase lexicale. | [nom-origine-portee.md](nom-origine-portee.md) |
+| Visée et non-visée | Délimiter ce que Protokin cherche à analyser et ce qu'il refuse de prendre en charge. | [visee-et-non-visee.md](visee-et-non-visee.md) |
+| Parcours de lecture | Orienter les différents modes de lecture de l'ouvrage. | [parcours-de-lecture.md](parcours-de-lecture.md) |
+| Plan directeur | Présenter l'organisation fonctionnelle générale de l'ouvrage. | [plan-directeur.md](plan-directeur.md) |
 
 ---
 
-### 01 — Les principes fondamentaux
-**Fonction générale :** Établir les engagements philosophiques qui rendent toute l'architecture intelligible.
+## 01 — Contraintes corporelles et fonctions de stimulus
+
+**Fonction** : Établir l'ancrage matériel, biologique et sensorimoteur des pratiques sans convertir les différences rencontrées en significations ou en raisons.
 
 | Titre | Fonction | Fichier |
-| --- | --- | --- |
-| 01 - Principes fondamentaux | Présenter le rôle des principes dans Protokin. | 01-principes-fondamentaux.md |
-| Le primat du couplage organisme-milieu | Établir que toute description émerge d'une relation dynamique entre un organisme et son milieu. | primat-couplage-organisme-milieu.md |
-| Le primat du couplage perception-action | Établir que toute description commence par une dynamique d'interaction, de perception et d'ajustement avec le milieu. | primat-couplage-perception-action.md |
-| Le primat de la description | Justifier le point de départ descriptif de Protokin. | primat-description.md |
-| Le primat de l'enquête | Montrer que les descriptions résultent toujours d'une enquête. | primat-enquete.md |
-| Le principe de la description située | Établir que toute description est située dans une pratique. | principe-description-situee.md |
-| L'espace des causes et l'espace des raisons | Distinguer les deux formes d'explication mobilisées par Protokin sans les convertir l'une dans l'autre. | principe-causes-et-raisons.md |
-| Le principe d'immanence normative | Établir que les normes émergent des pratiques descriptives. | principe-immanence-normative.md |
-| Le principe des dépendances fonctionnelles | Montrer l'interdépendance fonctionnelle des concepts de Protokin. | principe-dependances-fonctionnelles.md |
-| Le principe du pluralisme descriptif | Justifier la coexistence de plusieurs régimes descriptifs. | principe-pluralisme-descriptif.md |
-| Le principe de réflexivité | Introduire la réflexivité comme exigence méthodologique. | principe-reflexivite.md |
-| Le principe d'humilité épistémique | Montrer que Protokin s'applique également à lui-même. | principe-humilite-epistemique.md |
+|---|---|---|
+| 01 - Contraintes corporelles et fonctions de stimulus | Présenter l'ancrage corporel et matériel de l'enquête. | [01-contraintes-corporelles-et-fonctions-de-stimulus.md](01-contraintes-corporelles-et-fonctions-de-stimulus.md) |
+| Configuration matérielle et corporelle | Décrire l'organisme comme système somatique situé. | [configuration-materielle-et-corporelle.md](configuration-materielle-et-corporelle.md) |
+| Couplage organisme-milieu | Établir le couplage dynamique entre organisme et milieu. | [primat-couplage-organisme-milieu.md](primat-couplage-organisme-milieu.md) |
+| Perception-action | Décrire l'ajustement sensorimoteur de l'organisme à son milieu. | [primat-couplage-perception-action.md](primat-couplage-perception-action.md) |
+| Différence rencontrée | Décrire l'émergence d'un contraste dans le couplage organisme-milieu. | [difference-rencontree.md](difference-rencontree.md) |
+| Stimulus physique | Distinguer l'événement physique de sa fonction de stimulus. | [stimulus-physique.md](stimulus-physique.md) |
+| Fonction de stimulus | Établir le rôle comportemental d'une configuration physique pour un organisme. | [fonction-de-stimulus.md](fonction-de-stimulus.md) |
+| Transduction sélective | Décrire la sélection sensorimotrice des variations du milieu. | [transduction-selective-et-ancrage-somatique.md](transduction-selective-et-ancrage-somatique.md) |
+| Sens, corps et différence | Décrire les modalités somatiques par lesquelles des différences deviennent disponibles. | [sens-corps-difference-au-signe.md](sens-corps-difference-au-signe.md) |
+| Attention organique | Décrire la sélection attentionnelle et sensorimotrice. | [attention-organique.md](attention-organique.md) |
+| Entrée perceptive | Décrire la capture des contrastes par les dispositions réactives. | [rdrd-et-entree-perceptive.md](rdrd-et-entree-perceptive.md) |
+| Appétit et aversion | Décrire les orientations somatiques positives et négatives envers le milieu. | [appetit-et-aversion.md](appetit-et-aversion.md) |
+| Butoir | Décrire les résistances matérielles rencontrées par l'organisme. | [butoir.md](butoir.md) |
+| Trace | Distinguer l'empreinte matérielle de sa réactivation fonctionnelle. | [trace.md](trace.md) |
+| Intra-action | Décrire les frontières organisme-milieu comme effets de relation. | [intra-action.md](intra-action.md) |
+| Niche biologique | Décrire le domaine d'interactions stabilisé entre organisme et milieu. | [niche-biologique.md](niche-biologique.md) |
 
 ---
 
-### 02 — Architecture générale
-**Fonction générale :** Présenter les grandes composantes de Protokin avant leur développement détaillé.
+## 02 — Quadripartition et principe de non-conversion
+
+**Fonction** : Construire la grammaire différentielle permettant de distinguer les dimensions d'une pratique et d'empêcher leur conversion.
 
 | Titre | Fonction | Fichier |
-| --- | --- | --- |
-| 02 - Architecture générale | Présenter l'organisation générale de Protokin. | 02-architecture-generale.md |
-| Architecture conceptuelle | Donner la cartographie des principaux concepts et de leurs relations. | architecture-conceptuelle.md |
-| Architecture fonctionnelle | Présenter la dynamique générale des opérations descriptives. | architecture-fonctionnelle.md |
-| Architecture fonctionnelle des sections | Définir les périmètres et rôles d'établissement exclusifs des 13 sections. | architecture-fonctionnelle-des-sections.md |
-| Causes et raisons — Pour une articulation sans conversion | Établir la distinction fonctionnelle et non ontologique entre causes (PROTO) et raisons (KIN), sans conversion ni réduction. | articulation_vs_conversion.md |
-| Fonctions limites des sections | Cadrer les limites opératoires et les frontières entre les sections. | fonctions-limites-des-sections.md |
-| Quadripartition d'enquête | Établir la matrice Corps / Relation / Fonction / Justification. | corps-relation-fonction-justification.md |
-| Capacité, performance et validité | Distinguer les capacités relationnelles, les actes discursifs et les statuts déontiques. | capacite_performance_validite.md |
+|---|---|---|
+| 02 - Quadripartition et principe de non-conversion | Présenter la grille formelle d'audit et ses règles de distinction. | [02-quadripartition-et-non-conversion.md](02-quadripartition-et-non-conversion.md) |
+| Quadripartition fondamentale | Établir les quatre dimensions : Corps, Relation, Fonction, Justification. | [corps-relation-fonction-justification.md](corps-relation-fonction-justification.md) |
+| Continuité des dépendances et discontinuité des fonctions | Articuler les dimensions sans les convertir. | [continuite-des-dependances-discontinuite-des-fonctions.md](continuite-des-dependances-discontinuite-des-fonctions.md) |
+| Principe de non-conversion | Formaliser les distinctions entre cause, raison, genèse, justification, condition et critère. | [articulation_vs_conversion.md](articulation_vs_conversion.md) |
+| Capacité, performance et validité | Distinguer capacité relationnelle, performance discursive et validité normative. | [capacite_performance_validite.md](capacite_performance_validite.md) |
+| Configuration, relation, fonction et justification | Préciser le statut des quatre dimensions d'interrogation. | [configuration-relation-fonction-justification.md](configuration-relation-fonction-justification.md) |
 
 ---
 
-### 03 — Fondements descriptifs
-**Fonction générale :** Construire progressivement ce qu'est une description et les conditions qui la rendent possible, depuis l'ancrage somatique et perceptif jusqu'à la configuration descriptive.
+## 03 — Cadres relationnels et transformations
 
-##### 03 — Fondements descriptifs
-**Fonction générale :** Construire progressivement ce qu'est une description et les conditions matérielles, comportementales et normatives qui la rendent possible, depuis l'ancrage somatique et perceptif jusqu'à la stabilisation des régimes de justification.
+**Fonction** : Modéliser la manière dont des configurations sont prises dans des relations et comment ces relations modifient leurs fonctions.
 
 | Titre | Fonction | Fichier |
-| :--- | :--- | :--- |
-| **03 - Fondements descriptifs** | Introduire la section et son rôle d'armature conceptuelle de premier ordre. | [03-fondements-descriptifs.md](03-fondements-descriptifs.md) |
-| **Introduction aux configurations** | Poser la configuration comme unité minimale d'analyse relationnelle. | [introduction-configuration.md](introduction-configuration.md) |
-| **Phase A : L'ancrage somatique** | **Le fonctionnement biologique du vivant couplé à son milieu (PROTO)** | |
-| Configuration rencontrée | Définir le milieu éprouvé dans l'interaction avant toute catégorisation. | [configuration-rencontree.md](configuration-rencontree.md) |
-| Différence rencontrée | Définir la première émergence contrastive dans la relation de couplage. | [difference-rencontree.md](difference-rencontree.md) |
-| Transduction sélective | Modéliser le filtrage sensoriel qui extrait les variations physiques du milieu. | [transduction-selective-et-ancrage-somatique.md](transduction-selective-et-ancrage-somatique.md) |
-| Du corps au signe | Reconstruire la genèse sensorimotrice, extéroceptive et intéroceptive des différences. | [sens-corps-difference-au-signe.md](sens-corps-difference-au-signe.md) |
-| Attention organique | Établir le statut de la sélection attentionnelle et sensorimotrice active d'amont. | [attention-organique.md](attention-organique.md) |
-| Entrée perceptive et RDRD | Formaliser la capture des contrastes physiques par les dispositions réactives. | [rdrd-et-entree-perceptive.md](rdrd-et-entree-perceptive.md) |
-| Butoir | Définir les contraintes de résistance biophysique (stoppers) du milieu. | [butoir.md](butoir.md) |
-| Trace matérielle | Définir l'empreinte physique passive avant sa réactivation attentionnelle. | [trace.md](trace.md) |
-| Intra-action | Penser les frontières organisme-milieu comme des effets de relation. | [intra-action.md](intra-action.md) |
-| Niche biologique | Définir le domaine d'interactions co-construit et réglé par les butoirs. | [niche-biologique.md](niche-biologique.md) |
-| **Phase B : La transduction relationnelle** | **L'émancipation du sensible sous le guidage de la RFT / AARR** | |
-| L'indice | Définir l'indice comme transition attentionnelle et d'orientation corporelle. | [indice.md](indice.md) |
-| L'indice arbitraire | Établir le statut de la clé contextuelle ($C_{rel}$ / $C_{func}$) régissant le cadrage. | [indice-arbitraire.md](indice-arbitraire.md) |
-| Indice arbitraire et praxis | Garantir que le cadrage relationnel reste rattachable à une fonction d'usage. | [indice-arbitraire-et-ancrage-praxique.md](indice-arbitraire-et-ancrage-praxique.md) |
-| Inférence mutuelle (RFT) | Modéliser la dérivation autonome et bidirectionnelle simple d'équivalence. | [inference-mutuelle.md](inference-mutuelle.md) |
-| Inférence combinatoire (RFT) | Modéliser la dérivation croisée triatrique à la base des taxonomies. | [inference-combinatoire.md](inference-combinatoire.md) |
-| Transformation de fonction | Spécifier la modification de valence somatique par insertion relationnelle. | [transformation-de-fonction-de-stimulus.md](transformation-de-fonction-de-stimulus.md) |
-| Sensibilité aux abstractions | Expliquer comment le corps réagit physiquement à des réseaux symboliques. | [sensibilite-corporelle-aux-abstractions.md](sensibilite-corporelle-aux-abstractions.md) |
-| **Phase C : La stabilisation sémiotique** | **L'objectivation et la conservation matérielle des inscriptions** | |
-| Configuration sémiotique | Définir l'organisation et la stabilisation des différences devenues partageables. | [configuration-semiotique.md](configuration-semiotique.md) |
-| Support descriptif | Définir l'épaisseur matérielle, somatique et institutionnelle des descriptions. | [support-descriptif.md](support-descriptif.md) |
-| Amnésie somatique | Dépister l'effacement idéaliste du corps et de l'épaisseur du support. | [amnesie-somatique.md](amnesie-somatique.md) |
-| Anaphore | Assurer le transport et le maintien de la référence déictique d'amont. | [anaphore.md](anaphore.md) |
-| Triade sémantique (ISA) | Structurer les liens de signification (Inférence, Substitution, Anaphore). | [triade-semantique-de-base.md](triade-semantique-de-base.md) |
-| **Phase D : La clôture normative** | **L'organisation de la redevabilité collective (KIN)** | |
-| Configuration descriptive | Définir l'organisation relationnelle et holistique des possibles de dicibilité. | [configuration-descriptive.md](configuration-descriptive.md) |
-| Configuration mathématique | Régime et formalisme des configurations relationnelles formelles pures. | [configuration-mathematique.md](configuration-mathematique.md) |
-| De la notion au concept | Analyser la formalisation des catégories et critères par l'enquête. | [de-la-notion-au-concept.md](de-la-notion-au-concept.md) |
-| Fonctions descriptives | Présenter les fonctions constitutives de la performance discursive. | [fonctions-descriptives.md](fonctions-descriptives.md) |
-| Prédication | Définir l'opération d'attribution d'une propriété ou relation à un repère. | [predication.md](predication.md) |
-| Qualification | Définir l'attribution d'un statut normatif global engageant la redevabilité. | [qualification.md](qualification.md) |
-| Catégories | Définir les divisions conceptuelles disponibles pour ordonner l'expérience. | [categories.md](categories.md) |
-| Critères | Définir les conditions normatives publiques qui règlent la correction. | [criteres.md](criteres.md) |
-| Taxonomies | Définir l'organisation hiérarchique et d'inclusion des catégories d'un régime. | [taxonomies.md](taxonomies.md) |
-| Objet descriptif | Définir l'invariant relationnel stabilisé à la convergence des rituels de preuve. | [objet-descriptif.md](objet-descriptif.md) |
-| Niveau descriptif | Définir les différentes échelles analytiques pour éviter les confusions de plans. | [niveau-descriptif.md](niveau-descriptif.md) |
-| Régime descriptif | Définir le cadre normatif global d'évaluation et de justification publique. | [regime-descriptif.md](regime-descriptif.md) |
+|---|---|---|
+| 03 - Cadres relationnels et transformations | Présenter la fonction de la médiation relationnelle. | [03-cadres-relationnels-et-transformations.md](03-cadres-relationnels-et-transformations.md) |
+| Configuration relationnelle | Définir l'unité relationnelle dans laquelle une configuration acquiert une fonction. | [configuration-relationnelle.md](configuration-relationnelle.md) |
+| Indice | Décrire le rôle fonctionnel de l'indice dans l'orientation vers une différence. | [indice.md](indice.md) |
+| Indice arbitraire | Décrire les relations arbitrairement applicables à une configuration. | [indice-arbitraire.md](indice-arbitraire.md) |
+| Indice arbitraire et ancrage praxique | Maintenir le rattachement fonctionnel du cadrage relationnel à une pratique. | [indice-arbitraire-et-ancrage-praxique.md](indice-arbitraire-et-ancrage-praxique.md) |
+| Théorie des cadres relationnels | Présenter la RFT comme ressource empirique sur les AARR. | [transformation-relationnelle-rft.md](transformation-relationnelle-rft.md) |
+| Inférence mutuelle | Décrire la dérivation bidirectionnelle des relations. | [inference-mutuelle.md](inference-mutuelle.md) |
+| Inférence combinatoire | Décrire l'extension en réseau des relations dérivées. | [inference-combinatoire.md](inference-combinatoire.md) |
+| Transformation de fonction | Décrire la modification de fonction d'un stimulus sans modification physique nécessaire. | [transformation-de-fonction-de-stimulus.md](transformation-de-fonction-de-stimulus.md) |
+| Sensibilité aux abstractions | Décrire la réactivité somatique aux réseaux relationnels abstraits. | [sensibilite-corporelle-aux-abstractions.md](sensibilite-corporelle-aux-abstractions.md) |
+| Dérive indicielle | Diagnostiquer la désarticulation possible entre relation et fonction. | [derive-indicielle.md](derive-indicielle.md) |
+| Support descriptif | Décrire les prises matérielles, techniques ou corporelles des configurations. | [support-descriptif.md](support-descriptif.md) |
 
 ---
 
-### 04 — Pratiques descriptives
-**Fonction générale :** Décrire le fonctionnement collectif, normatif et inférentiel des descriptions, ainsi que les espaces sociaux de reprise, d'évaluation et de justification.
+## 04 — Pratiques et régimes descriptifs
+
+**Fonction** : Décrire les opérations par lesquelles une configuration devient exploitable dans une pratique descriptive.
 
 | Titre | Fonction | Fichier |
-| --- | --- | --- |
-| 04 - Pratiques descriptives | Présenter le fonctionnement collectif des pratiques descriptives. | 04-pratiques-descriptives.md |
-| Le locuteur | Définir la position du locuteur dans une pratique descriptive. | locuteur.md |
-| L'auditeur | Définir la position de l'auditeur dans l'évaluation et la reprise des descriptions. | auditeur.md |
-| Relation locuteur-auditeur | Définir l'espace interactionnel où les descriptions sont évaluées, reprises, contestées ou justifiées. | relation-locuteur-auditeur.md |
-| Moi | Établir le statut du Moi comme individuation transductive opérant sur trois niveaux distincts et coordonnés. | moi.md |
-| Position épistémique | Définir les ressources, contraintes et perspectives propres au locuteur. | position-epistemique.md |
-| Supports descriptifs incorporés | Présenter les dispositions incorporées mobilisées dans les descriptions. | supports-descriptifs-incorpores.md |
-| Supports descriptifs externes | Définir les inscriptions matérielles, outils et artefacts stabilisant les descriptions hors du corps. | supports-descriptifs-externes.md |
-| Supports descriptifs institutionnels | Définir les cadres juridiques, organisationnels et conventionnels garantissant la pérennité des descriptions. | supports-descriptifs-institutionnels.md |
-| Pratique collective | Définir la description comme pratique collective. | pratique-collective.md |
-| Assertion | Définir l'acte d'assertion. | assertion.md |
-| Communauté de locuteurs | Définir les communautés au sein desquelles les descriptions prennent sens. | communaute-de-locuteurs.md |
-| Norme descriptive | Définir les règles immanentes qui rendent possibles l'évaluation et la correction des descriptions. | norme-descriptive.md |
-| Stabilisation | Analyser les mécanismes de stabilisation et de maintien synchronique des descriptions. | stabilisation.md |
-| L'espace des raisons | Définir l'espace des raisons comme lieu des justifications et de la redevabilité collective. | espace-des-raisons.md |
-| Engagements descriptifs | Définir les engagements assumés par le locuteur lorsqu'il décrit. | engagements-descriptifs.md |
-| Responsabilité descriptive | Définir les responsabilités attachées aux engagements descriptifs. | responsabilite-descriptive.md |
-| Inférences | Présenter les inférences autorisées ou interdites par les régimes descriptifs. | inferences.md |
-| Triade sémantique de base (ISA) | Structurer les liens entre Inférence, Substitution et Anaphore. | triade-semantique-de-base.md |
-| Anaphore | Définir le transport et le maintien de l'autorité déontique dans les pratiques discursives. | anaphore.md |
-| Redevabilité matérielle | Définir les conditions de redevabilité matérielle d'une description et la friction des butoirs physiques sur l'espace des raisons. | redevabilite-materielle.md |
-| Justifications | Définir les pratiques de justification des descriptions. | justifications.md |
-| Recevabilité | Définir les conditions de recevabilité d'une description. | recevabilite.md |
-| Validité | Définir la validité descriptive au sein d'un régime. | validite.md |
-| Relations LX et explicitation | Définir le statut logique de second ordre de la métathéorie Protokin. | relations-lx-et-pragmatique-de-l-explicitation.md |
-| Expressivisme modal | Établir la robustesse contrefactuelle et l'évaluation modale des assertions. | expressivisme-modal.md |
+|---|---|---|
+| 04 - Pratiques et régimes descriptifs | Présenter le fonctionnement des pratiques descriptives en acte. | [04-pratiques-et-regimes-descriptifs.md](04-pratiques-et-regimes-descriptifs.md) |
+| Configuration descriptive | Définir l'organisation relationnelle des possibles de dicibilité. | [configuration-descriptive.md](configuration-descriptive.md) |
+| Qualification | Définir l'opération de qualification. | [qualification.md](qualification.md) |
+| Prédication | Définir l'opération de prédication. | [predication.md](predication.md) |
+| Catégories | Définir les catégories disponibles dans une pratique descriptive. | [categories.md](categories.md) |
+| Critères | Définir les conditions d'application des catégories. | [criteres.md](criteres.md) |
+| Taxonomies | Décrire l'organisation des catégories et de leurs relations. | [taxonomies.md](taxonomies.md) |
+| Objet descriptif | Définir l'invariant stabilisé par une pratique descriptive. | [objet-descriptif.md](objet-descriptif.md) |
+| Niveau descriptif | Distinguer les différentes échelles d'analyse. | [niveau-descriptif.md](niveau-descriptif.md) |
+| Régime descriptif | Définir l'organisation globale d'une pratique descriptive. | [regime-descriptif.md](regime-descriptif.md) |
+| Assertion | Définir l'acte d'assertion au présent d'usage. | [assertion.md](assertion.md) |
+| Engagement inférentiel | Décrire les conséquences assumées par une assertion. | [engagements-descriptifs.md](engagements-descriptifs.md) |
+| Inférences | Décrire les conséquences autorisées ou exclues par un régime. | [inferences.md](inferences.md) |
+| Pratique collective | Décrire la dimension collective des pratiques descriptives. | [pratique-collective.md](pratique-collective.md) |
+| Communauté de locuteurs | Décrire le collectif au sein duquel les descriptions sont reprises et évaluées. | [communaute-de-locuteurs.md](communaute-de-locuteurs.md) |
+| Pluralisme descriptif | Décrire la coexistence de régimes descriptifs fonctionnellement différents. | [principe-pluralisme-descriptif.md](principe-pluralisme-descriptif.md) |
 
 ---
 
-### 05 — Dynamique descriptive
-**Fonction générale :** Comprendre comment les descriptions évoluent, se traduisent, se transforment, se recomposent et se reproduisent.
+## 05 — Espace des raisons et redevabilité
+
+**Fonction** : Établir ce que l'affirmation d'une description engage publiquement et selon quels critères elle peut être justifiée et corrigée.
 
 | Titre | Fonction | Fichier |
-| --- | --- | --- |
-| 05 - Dynamique descriptive | Présenter la dynamique des descriptions. | 05-dynamique.md |
-| Tension | Définir les tensions internes aux pratiques descriptives. | tension.md |
-| Limite interne | Définir les limites propres à un régime descriptif. | limite-interne.md |
-| Traduction | Définir la traduction entre descriptions ou régimes descriptifs. | traduction.md |
-| Transduction relationnelle RFT | Définir la transduction relationnelle comme opération de transformation fonctionnelle des relations. | transduction-relationnelle-rft.md |
-| Individuation descriptive | Définir la genèse et les seuils d'individuation des cadres descriptifs. | individuation.md |
-| Transformation relationnelle RFT | Spécifier l'AARR et la transformation des fonctions de stimulus. | transformation-relationnelle-rft.md |
-| Opérateurs de reconfiguration relationnelle | Définir les ressources théoriques et les opérations d'enquête permettant d'analyser la transformation d'une configuration relationnelle. | operateurs-de-reconfiguration-relationnelle.md |
-| Transition | Décrire les passages entre configurations descriptives. | transition.md |
-| Transformation | Définir les transformations des descriptions. | transformation.md |
-| Maintien | Décrire les mécanismes assurant la continuité des descriptions. | maintien.md |
-| Reproduction | Définir la reproduction des pratiques descriptives. | reproduction.md |
-| Controverse | Décrire les controverses entre descriptions concurrentes. | controverse.md |
-| Innovation | Décrire l'émergence de nouvelles descriptions. | innovation.md |
-| Désédimentation | Définir l'opérateur de réouverture active de la plasticité catégorielle. | desedimentation.md |
+|---|---|---|
+| 05 - Espace des raisons et redevabilité | Présenter la structure déontique des pratiques descriptives. | [05-espace-des-raisons-et-redevabilite.md](05-espace-des-raisons-et-redevabilite.md) |
+| Locuteur | Définir la position du locuteur dans l'espace des raisons. | [locuteur.md](locuteur.md) |
+| Auditeur | Définir la position de celui qui évalue et reprend une assertion. | [auditeur.md](auditeur.md) |
+| Relation locuteur-auditeur | Décrire l'espace interactionnel de l'évaluation publique. | [relation-locuteur-auditeur.md](relation-locuteur-auditeur.md) |
+| Position épistémique | Définir les ressources et contraintes liées à une position descriptive. | [position-epistemique.md](position-epistemique.md) |
+| Engagement | Définir ce qu'un locuteur assume en assertant. | [engagements-descriptifs.md](engagements-descriptifs.md) |
+| Redevabilité | Définir l'obligation de répondre de ses engagements descriptifs. | [responsabilite-descriptive.md](responsabilite-descriptive.md) |
+| Espace des raisons | Définir l'espace public de justification et de correction. | [espace-des-raisons.md](espace-des-raisons.md) |
+| Norme descriptive | Définir les règles immanentes d'évaluation d'une description. | [norme-descriptive.md](norme-descriptive.md) |
+| Critères de correction | Définir les règles publiques déterminant la correction d'une assertion. | [criteres-de-correction.md](criteres-de-correction.md) |
+| Redevabilité matérielle | Décrire la prise en compte des contraintes matérielles dans la justification. | [redevabilite-materielle.md](redevabilite-materielle.md) |
+| Justification | Définir l'opération de justification publique. | [justifications.md](justifications.md) |
+| Recevabilité | Définir les conditions de recevabilité d'une assertion. | [recevabilite.md](recevabilite.md) |
+| Validité | Définir la validité au sein d'un régime descriptif. | [validite.md](validite.md) |
+| Anaphore | Décrire le maintien des références dans les pratiques discursives. | [anaphore.md](anaphore.md) |
+| Triade sémantique | Décrire les rapports entre inférence, substitution et anaphore. | [triade-semantique-de-base.md](triade-semantique-de-base.md) |
 
 ---
 
-### 06 — Temporalité
-**Fonction générale :** Comprendre l'inscription temporelle des descriptions, leur sédimentation, leurs crises, leur historicité et leurs effets d'irréversibilité.
+## 06 — Temporalité et dynamiques descriptives
+
+**Fonction** : Expliquer comment les pratiques descriptives se transforment, se stabilisent, se sédimentent et deviennent coûteuses à rouvrir.
 
 | Titre | Fonction | Fichier |
-| --- | --- | --- |
-| 06 - Temporalité | Présenter la temporalité descriptive. | 06-temporalite.md |
-| Position | Définir la position au sein d'une trajectoire descriptive. | position.md |
-| Trajectoire | Définir les trajectoires des descriptions. | trajectoire.md |
-| Allure | Définir la dynamique propre aux trajectoires descriptives. | allure.md |
-| Historicité | Définir l'historicité des descriptions. | historicite.md |
-| Temporalité descriptive | Présenter la temporalité propre aux pratiques descriptives. | temporalite-descriptive.md |
-| Sédimentation | Décrire les processus de sédimentation des descriptions. | sedimentation.md |
-| Irréversibilité descriptive (effet cliquet) | Présenter les mécanismes de stabilisation cumulative qui rendent certaines transformations descriptives difficilement réversibles. | effet-cliquet.md |
-| Réorganisation | Décrire les réorganisations internes des pratiques descriptives. | reorganisation.md |
-| Reconstruction recollective et pardon | Formaliser l'intégration réparatrice des anomalies et des crises dans la trajectoire d'une pratique. | reconstruction-recollective-et-pardon.md |
+|---|---|---|
+| 06 - Temporalité et dynamiques descriptives | Présenter la dimension temporelle des pratiques descriptives. | [06-temporalite-et-dynamiques-descriptives.md](06-temporalite-et-dynamiques-descriptives.md) |
+| Stabilisation | Décrire les processus de maintien des descriptions dans le temps. | [stabilisation.md](stabilisation.md) |
+| Tension | Décrire les tensions internes qui rendent une révision nécessaire. | [tension.md](tension.md) |
+| Limite interne | Définir le point où un régime ne parvient plus à traiter certaines configurations. | [limite-interne.md](limite-interne.md) |
+| Transformation | Décrire les modifications d'une pratique descriptive dans le temps. | [transformation.md](transformation.md) |
+| Maintien | Décrire les mécanismes assurant la continuité des descriptions. | [maintien.md](maintien.md) |
+| Reproduction | Décrire la reproduction des pratiques descriptives. | [reproduction.md](reproduction.md) |
+| Controverse | Décrire les confrontations entre descriptions ou régimes. | [controverse.md](controverse.md) |
+| Innovation | Décrire l'apparition de nouvelles possibilités descriptives. | [innovation.md](innovation.md) |
+| Temporalité descriptive | Définir la structure temporelle propre aux pratiques descriptives. | [temporalite-descriptive.md](temporalite-descriptive.md) |
+| Position | Définir la position d'une description dans une trajectoire. | [position.md](position.md) |
+| Trajectoire | Décrire le parcours temporel d'une pratique descriptive. | [trajectoire.md](trajectoire.md) |
+| Allure | Décrire le rythme et le profil d'une transformation. | [allure.md](allure.md) |
+| Historicité | Décrire l'inscription historique des descriptions. | [historicite.md](historicite.md) |
+| Sédimentation | Décrire l'accumulation des acquis descriptifs et institutionnels. | [sedimentation.md](sedimentation.md) |
+| Effet cliquet | Décrire l'asymétrie des coûts de reproduction et de réouverture. | [effet-cliquet.md](effet-cliquet.md) |
+| Réorganisation | Décrire la recomposition interne d'un régime descriptif. | [reorganisation.md](reorganisation.md) |
+| Désédimentation | Décrire la réouverture de distinctions devenues stabilisées. | [desedimentation.md](desedimentation.md) |
 
 ---
 
-### 07 — Explication
-**Fonction générale :** Comprendre les différents modes d'explication mobilisés par les descriptions et leurs relations avec les régimes descriptifs.
+## 07 — Expliquer sans convertir
+
+**Fonction** : Distinguer l'explication causale de la justification normative sans réduire l'une à l'autre.
 
 | Titre | Fonction | Fichier |
-| --- | --- | --- |
-| 07 - Explication | Présenter les différents modes d'explication dans Protokin. | 07-explication.md |
-| Causes | Définir les explications causales appartenant à l'espace des causes. | causes.md |
-| Raisons | Définir les explications par les raisons appartenant à l'espace des raisons. | raisons.md |
-| Image manifeste | Présenter les descriptions issues de l'expérience vécue et des pratiques ordinaires. | image-manifeste.md |
-| Image scientifique | Présenter les descriptions produites par les régimes scientifiques. | image-scientifique.md |
-| Puissance descriptive | Définir la capacité d'une description à organiser, prévoir et transformer un domaine. | puissance-descriptive.md |
-| Compatibilités | Décrire les relations de compatibilité entre différents régimes descriptifs. | compatibilite.md |
-| Incompatibilité | Décrire les tensions et contradictions entre descriptions. | incompatibilite.md |
-| Explication | Définir l'explication comme opération descriptive située. | explication.md |
+|---|---|---|
+| 07 - Expliquer sans convertir | Présenter la distinction fonctionnelle entre explication causale et justification. | [07-expliquer-sans-convertir.md](07-expliquer-sans-convertir.md) |
+| Explication | Définir l'explication comme opération descriptive située. | [explication.md](explication.md) |
+| Causes | Décrire l'explication causale des conditions de production. | [causes.md](causes.md) |
+| Raisons | Décrire l'explication par les raisons dans l'espace normatif. | [raisons.md](raisons.md) |
+| Descriptions causales situées | Décrire les conditions de production sans les convertir en critères de validité. | [descriptions-causales-situees.md](descriptions-causales-situees.md) |
+| Genèse causale et justification normative | Établir la non-conversion entre genèse et justification. | [genese-causale-et-justification-normative.md](genese-causale-et-justification-normative.md) |
+| Image manifeste | Présenter la fonction descriptive de l'image manifeste. | [image-manifeste.md](image-manifeste.md) |
+| Image scientifique | Présenter la fonction descriptive de l'image scientifique. | [image-scientifique.md](image-scientifique.md) |
+| Puissance descriptive | Comparer la puissance opératoire de descriptions sans les réduire à une mesure unique. | [puissance-descriptive.md](puissance-descriptive.md) |
+| Compatibilité | Décrire les conditions de coordination entre descriptions. | [compatibilite.md](compatibilite.md) |
+| Incompatibilité | Décrire les conflits fonctionnels entre descriptions. | [incompatibilite.md](incompatibilite.md) |
 
 ---
 
-### 08 — Méthode Protokin
-**Fonction générale :** Présenter les opérations d'enquête, d'analyse et d'audit permettant d'étudier les descriptions.
+## 08 — Protocole d'enquête et d'audit
+
+**Fonction** : Transformer l'architecture en procédure clinique d'examen de situations concrètes.
 
 | Titre | Fonction | Fichier |
-| --- | --- | --- |
-| 08 - Méthode Protokin | Présenter la méthode générale d'analyse protokinienne. | 08-methode-protokin.md |
-| Qu'est-ce qu'une enquête ? | Définir l'enquête comme processus de transformation d'une situation problématique. | enquete.md |
-| Comment conduire une enquête | Présenter les étapes pratiques d'une enquête protokinienne. | conduire-une-enquete.md |
-| Comment réaliser un audit | Présenter l'audit comme examen des conditions descriptives d'une pratique. | realiser-un-audit.md |
-| Identifier un régime | Expliquer comment reconnaître un régime descriptif. | identifier-un-regime.md |
-| Comparer deux descriptions | Présenter la comparaison entre configurations descriptives différentes. | comparer-deux-descriptions.md |
-| Diagnostiquer une réduction | Décrire les réductions qui confondent un régime avec un autre. | diagnostiquer-une-reduction.md |
-| Diagnostiquer une confusion de niveau | Décrire les erreurs liées aux changements de niveau descriptif. | diagnostiquer-une-confusion-de-niveau.md |
-| Diagnostiquer une erreur de catégorie | Décrire les erreurs produites par l'application inadéquate d'une catégorie. | diagnostiquer-une-erreur-de-categorie.md |
-| Évaluer une traduction | Définir l'évaluation des traductions entre régimes descriptifs. | evaluer-une-traduction.md |
-| Exégèse | Définir l'exégèse comme opération d'explicitation, de reconstruction et d'évaluation d'une pratique descriptive. | exegese.md |
+|---|---|---|
+| 08 - Protocole d'enquête et d'audit | Présenter le protocole général d'audit. | [08-protocole-enquete-et-audit.md](08-protocole-enquete-et-audit.md) |
+| Situation problématique | Identifier le trouble qui rend l'enquête nécessaire. | [enquete.md](enquete.md) |
+| Posture d'enquête | Définir la suspension méthodique des évidences descriptives. | [posture-enquete.md](posture-enquete.md) |
+| Audit des quatre dimensions | Appliquer la grille Corps / Relation / Fonction / Justification. | [audit-des-quatre-dimensions.md](audit-des-quatre-dimensions.md) |
+| Identifier un régime | Déterminer les critères et fonctions d'un régime descriptif. | [identifier-un-regime.md](identifier-un-regime.md) |
+| Comparer deux descriptions | Comparer deux régimes sans présupposer leur équivalence. | [comparer-deux-descriptions.md](comparer-deux-descriptions.md) |
+| Diagnostiquer une conversion | Identifier l'absorption indue d'une fonction par une autre. | [diagnostiquer-une-reduction.md](diagnostiquer-une-reduction.md) |
+| Diagnostiquer une erreur de catégorie | Identifier l'application inadéquate d'une catégorie ou d'un critère. | [diagnostiquer-une-erreur-de-categorie.md](diagnostiquer-une-erreur-de-categorie.md) |
+| Diagnostiquer une confusion de niveau | Identifier les déplacements indus entre niveaux descriptifs. | [diagnostiquer-une-confusion-de-niveau.md](diagnostiquer-une-confusion-de-niveau.md) |
+| Diagnostiquer une dérive indicielle | Identifier la rupture entre cadre relationnel et fonction d'usage. | [diagnostiquer-une-derive-indicielle.md](diagnostiquer-une-derive-indicielle.md) |
+| Évaluer une traduction | Évaluer les conditions et le coût d'un passage entre régimes. | [evaluer-une-traduction.md](evaluer-une-traduction.md) |
+| Traduction, incompatibilité et coordination | Distinguer traduction possible, incompatibilité fonctionnelle et coordination pratique. | [traduction-incompatibilite-coordination.md](traduction-incompatibilite-coordination.md) |
 
 ---
 
-### 09 — Réflexivité
-**Fonction générale :** Examiner Protokin comme une pratique descriptive soumise aux mêmes conditions que celles qu'elle analyse.
+## 09 — Réflexivité et pathologies descriptives
+
+**Fonction** : Appliquer l'audit à Protokin lui-même et caractériser les blocages fonctionnels des pratiques descriptives.
 
 | Titre | Fonction | Fichier |
-| --- | --- | --- |
-| 09 - Réflexivité | Présenter la dimension réflexive de Protokin. | 09-reflexivite.md |
-| Réflexivité | Définir la réflexivité comme examen des propres conditions descriptives. | reflexivite.md |
-| Auto-application | Montrer comment Protokin applique ses propres outils à son architecture. | auto-application.md |
-| Limites de Protokin | Délimiter le domaine d'application et les limites de la théorie. | limites-de-protokin.md |
-| Injustice épistémique | Présenter les asymétries de participation aux pratiques de connaissance et leurs effets normatifs. | injustice-epistemique.md |
-| Injustice herméneutique | Formaliser le déficit de catégories empêchant une communauté de rendre son expérience intelligible. | injustice-hermeneutique.md |
-| Écologie des régimes descriptifs | Décrire la coexistence et les relations entre différents régimes descriptifs. | ecologie-des-regimes-descriptifs.md |
-
----
-
-### 10 — Héritages philosophiques
-**Fonction générale :** Présenter les filiations philosophiques et théoriques ayant contribué à la constitution de Protokin.
-
-| Titre | Fonction | Fichier |
-| --- | --- | --- |
-| 10 - Héritages philosophiques | Présenter les héritages philosophiques mobilisés. | 10-heritages-philosophiques.md |
-| Charles Sanders Peirce | Présenter l'apport de Peirce à la clarification pragmatique, au pragmatisme logique, à l'habitude et à l'enquête. | charles-sanders-pierce.md |
-| John Dewey | Présenter l'apport du pragmatisme et de l'enquête. | john-dewey.md |
-| Wilfrid Sellars | Présenter la distinction entre espace des causes et espace des raisons. | wilfrid-sellars.md |
-| Robert Brandom | Présenter l'inférentialisme et la normativité discursive. | robert-brandom.md |
-| Joseph Rouse | Présenter la normativité située dans les pratiques scientifiques. | joseph-rouse.md |
-| Ian Hacking | Présenter l'historicité des catégories et des objets descriptifs. | ian-hacking.md |
-| Ludwig Wittgenstein | Présenter les jeux de langage et les pratiques de signification. | ludwig-wittgenstein.md |
-| Gilbert Simondon | Présenter l'individuation et les processus de genèse. | gilbert-simondon.md |
-| Maurice Merleau-Ponty | Présenter l'inscription corporelle de la perception. | merleau-ponty.md |
-| Francisco Varela | Présenter l'énaction et le couplage organisme-milieu. | varela.md |
-| Miranda Fricker | Présenter l'injustice épistémique et les conditions sociales du savoir. | miranda-fricker.md |
-| Richard Rorty | Présenter le pragmatisme linguistique et la critique du fondationnalisme. | richard-rorty.md |
-| Humberto Maturana | Présenter l'apport de l'autopoïèse et du domaine d'existence des systèmes vivants. | humberto-maturana.md |
-| Paul Ricœur | Présenter l'apport de l'herméneutique, de la sédimentation narrative et de la métaphore vive. | paul-ricoeur.md |
-
----
-
-### 11 — Études de cas
-**Fonction générale :** Montrer le fonctionnement de Protokin à travers l'analyse concrète de configurations descriptives historiques, scientifiques, sociales et ordinaires.
-
-| Titre | Fonction | Fichier |
-| --- | --- | --- |
-| 11 - Études de cas | Présenter le rôle des études de cas dans l'application de Protokin. | 11-etudes-de-cas.md |
-| Géocentrisme | Analyser la transformation d'un régime cosmologique et les conditions de son remplacement. | geocentrisme.md |
-| Phlogistique | Analyser une théorie scientifique disparue et la transformation de ses critères descriptifs. | phlogistique.md |
-| Théorie des humeurs | Analyser un régime médical historique et ses catégories descriptives. | theorie-des-humeurs.md |
-| Changement climatique | Analyser la coexistence de régimes scientifiques, politiques et médiatiques autour du climat. | changement-climatique.md |
-| Intelligence artificielle | Analyser les différents régimes descriptifs mobilisés autour de l'intelligence artificielle. | intelligence-artificielle.md |
-| Cette personne est mauvaise | Analyser une qualification morale et les conditions de sa stabilisation normative. | cette-personne-est-mauvaise.md |
-| Botaniste / bûcheron | Comparer deux régimes descriptifs portant sur un même milieu. | botaniste-bucheron.md |
-| Urgences hospitalières | Analyser une pratique collective où plusieurs régimes descriptifs interagissent. | urgence-hospitaliere.md |
-
----
-
-### 12 — Conclusion
-**Fonction générale :** Clore l'architecture générale de Protokin, expliciter ses apports, ses limites et ses perspectives.
-
-| Titre | Fonction | Fichier |
-| --- | --- | --- |
-| 12 - Conclusion | Présenter la conclusion générale de l'ouvrage. | 12-conclusion.md |
-| Ce que Protokin permet | Récapituler les possibilités ouvertes par l'analyse des régimes descriptifs. | ce-que-protokin-permet.md |
-| Ce que Protokin ne prétend pas faire | Délimiter explicitement le statut métathéorique et les limites du projet. | ce-que-protokin-ne-pretend-pas-faire.md |
-| Perspectives de recherche | Présenter les prolongements possibles de Protokin. | perspectives-de-recherche.md |
+|---|---|---|
+| 09 - Réflexivité et pathologies descriptives | Présenter la fonction réflexive et diagnostique de la section. | [09-reflexivite-et-pathologies-descriptives.md](09-reflexivite-et-pathologies-descriptives.md) |
+| Réflexivité | Définir l'examen 
