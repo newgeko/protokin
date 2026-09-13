@@ -97,7 +97,7 @@ L'architecture générale organise l'enquête selon treize opérations :
 - 11 — Filiations théoriques
 - 12 — Portée et ouvertures
 
-[Voir l'architecture fonctionnelle générale](architecture-fonctionnelle.md)
+[Voir l'architecture fonctionnelle générale](fr/architecture-fonctionnelle.md)
 
 ## Méthode
 
