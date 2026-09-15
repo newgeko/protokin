@@ -1,439 +1,529 @@
 # Page : introduction-generale.md
 
-# Introduction générale — Protokin, une métathéorie des pratiques descriptives
+# L'allure — Une grille analytique de la distribution temporelle des transformations descriptives
 
-> **Protokin est une métathéorie pragmatiste, inférentialiste, réflexive et non-ontologique.**
->
-> Son objectif n'est pas de décrire le monde tel qu'il serait indépendamment de toute pratique.
->
-> Il cherche à comprendre comment certaines différences deviennent descriptibles, intelligibles, recevables, justifiables, stabilisées, contestées ou transformées au sein de pratiques collectives.
+## Analyse architecturale préalable
 
----
+### 1. Fonction unique de la page
 
-# Pourquoi Protokin ?
+Cette page établit le concept d'**allure** comme fonction analytique permettant de qualifier **comment les transformations descriptives se distribuent dans le temps au cours d'une trajectoire**.
 
-Dans les sciences, la philosophie, le droit, la politique ou la vie quotidienne, les désaccords semblent souvent porter directement sur les objets eux-mêmes.
+Elle ne vise ni à expliquer les causes d'une transformation, ni à établir les raisons qui la justifient, ni à déterminer sa valeur ou sa finalité.
 
-Nous demandons spontanément :
+### 2. Problème conceptuel
 
-- Qu'est-ce qu'une personne ?
-- Qu'est-ce qu'une maladie ?
-- Qu'est-ce qu'une institution ?
-- Qu'est-ce qu'une intelligence artificielle ?
-- Qu'est-ce qu'un organisme ?
-- Qu'est-ce qui existe réellement ?
+Une trajectoire descriptive peut présenter des transformations comparables tout en les distribuant temporellement de manière différente.
 
-Ces questions sont importantes.
+Certaines transformations procèdent par additions successives ; d'autres restent longtemps limitées avant de connaître une discontinuité ; d'autres encore alternent durablement entre plusieurs configurations.
 
-Cependant, elles supposent déjà que les objets dont elles parlent sont disponibles comme objets de description.
+Le problème est donc le suivant :
 
-Protokin propose un déplacement préalable.
+> **Comment qualifier les différentes formes de distribution temporelle d'une transformation descriptive sans les réduire à une simple chronologie et sans convertir cette qualification en explication causale, normative ou ontologique ?**
 
-Avant de demander ce qu'est une chose, il convient d'interroger les conditions qui rendent cette chose descriptible.
+L'allure répond à ce problème.
 
-La question fondamentale devient alors :
+### 3. Objet propre
 
-> **Sous quelles conditions certaines différences deviennent-elles descriptibles ?**
+Cette page traite exclusivement de la **distribution temporelle des transformations descriptives** :
 
-L'objet de Protokin n'est donc pas d'établir ce qui existe indépendamment de toute pratique, mais d'analyser les conditions qui permettent à quelque chose d'être identifié, décrit, discuté, justifié, stabilisé ou transformé.
+* continuité ;
+* maintien prolongé ;
+* accélération ;
+* discontinuité ;
+* alternance ;
+* concentration temporelle.
 
----
+Elle ne traite pas :
 
-# Une métathéorie des pratiques descriptives
+* de la **trajectoire descriptive** elle-même ;
+* de l'**historicité** d'une trajectoire ;
+* de la **stabilisation** comme processus ;
+* de l'**effet cliquet** comme asymétrie des possibilités de révision ;
+* des **causes** d'une transformation ;
+* des **raisons** qui permettent de la justifier, de la contester ou de la défendre.
 
-Protokin ne constitue ni une nouvelle science, ni une ontologie générale, ni une théorie particulière d'un domaine du monde.
+### 4. Statut conceptuel
 
-Il se situe à un autre niveau.
+L'allure est une **grille analytique de second ordre** relevant de la section **06 — Temporalité**.
 
-Il constitue une **métathéorie des pratiques descriptives**.
+Elle est appliquée à une trajectoire descriptive pour qualifier la manière dont ses transformations se distribuent temporellement.
 
-Une métathéorie n'a pas pour fonction première de produire de nouvelles descriptions du monde.
+Elle n'est ni une propriété naturelle des choses, ni une dynamique physique, ni un mécanisme explicatif.
 
-Elle étudie les conditions de possibilité, de fonctionnement et de transformation des descriptions elles-mêmes.
+### 5. Dépendances fonctionnelles
 
-Elle cherche notamment à comprendre :
+L'analyse de l'allure suppose :
 
-- comment certaines différences deviennent pertinentes ;
-- comment elles sont organisées dans des configurations descriptives ;
-- comment elles deviennent intelligibles ;
-- comment elles acquièrent une recevabilité locale ;
-- comment elles engagent les locuteurs ;
-- comment elles se stabilisent dans des pratiques collectives ;
-- comment elles rencontrent leurs limites ;
-- comment elles peuvent être révisées ou transformées.
+* une **description** ;
+* une **configuration descriptive** ;
+* une **trajectoire descriptive** permettant d'identifier un parcours de transformations ;
+* une **période d'analyse** ;
+* une **échelle temporelle déterminée**.
 
-L'objet de Protokin n'est donc pas le monde indépendamment des pratiques, mais le mouvement des pratiques qui rendent certaines descriptions possibles.
+Elle peut être mise en relation avec la stabilisation, la sédimentation ou l'effet cliquet, mais aucun de ces concepts ne constitue sa définition.
 
----
+### 6. Frontières conceptuelles
 
-# Le déplacement du problème
+L'allure ne doit pas être convertie en :
 
-La plupart des théories de la connaissance cherchent à répondre à une question centrale :
+* cause ;
+* mécanisme ;
+* raison ;
+* valeur ;
+* finalité ;
+* propriété naturelle ;
+* vitesse physique ;
+* prédiction de l'évolution future.
 
-> **Comment est le monde ?**
+Sa fonction est strictement déterminée :
 
-Protokin déplace cette interrogation.
-
-Il demande plutôt :
-
-> **Comment certaines descriptions du monde deviennent-elles possibles ?**
-
-Ce déplacement ne signifie pas que les objets, les sciences ou les institutions seraient de simples constructions arbitraires.
-
-Il signifie que toute description possède des conditions d'apparition, d'organisation et d'évaluation.
-
-L'enquête porte alors sur les conditions qui rendent une description :
-
-- possible ;
-- intelligible ;
-- recevable ;
-- justifiable ;
-- reproductible ;
-- critiquable ;
-- transformable.
+> **qualifier la distribution temporelle des transformations descriptives.**
 
 ---
 
-# Le monde rencontré avant le monde décrit
+## Fonction
 
-Protokin ne commence pas par des objets déjà constitués.
+Dans l'architecture de Protokin, l'**allure** désigne une grille analytique qui qualifie **la forme temporelle selon laquelle une transformation descriptive se distribue au cours d'une trajectoire**.
 
-Il commence par des configurations rencontrées dans les interactions entre des organismes et leurs milieux.
+Plus simplement :
 
-Avant toute catégorie, tout concept ou toute assertion, il existe des situations dans lesquelles un organisme est engagé.
+> **L'allure qualifie comment une transformation descriptive se distribue dans le temps.**
 
-Cet engagement produit :
+Cette définition implique trois propriétés.
 
-- des différences ;
-- des variations ;
-- des résistances ;
-- des régularités ;
-- des possibilités d'action.
+### Une qualification analytique
 
-Ces différences ne sont pas encore des objets descriptifs.
+L'allure n'est pas une propriété de la réalité en soi.
 
-Elles constituent des possibilités de différenciation qui pourront être reprises, organisées et stabilisées dans des pratiques collectives.
+Elle résulte d'une reconstruction analytique portant sur une trajectoire descriptive déterminée.
 
-Le monde ne devient donc pas descriptible parce qu'il serait déjà entièrement découpé en objets.
+Elle ne désigne donc pas une dynamique intrinsèque des objets décrits.
 
-Il devient progressivement descriptible dans l'histoire des interactions entre organismes, milieux, supports et collectifs.
+### Une qualification située
 
----
+Une allure n'est jamais attribuée indépendamment :
 
-# Le couplage organisme-milieu
+* d'une trajectoire ;
+* d'une période ;
+* d'une échelle d'analyse.
 
-Toute activité descriptive possède un ancrage dans une relation dynamique entre un organisme et son milieu.
+Une même trajectoire peut présenter différentes allures selon les portions temporelles et les résolutions considérées.
 
-L'organisme n'est jamais un observateur extérieur placé devant un monde déjà constitué.
+### Une qualification non explicative
 
-Il agit.
+Qualifier une transformation d'**inertielle**, de **cumulative**, de **critique** ou d'**oscillatoire** ne permet pas, par cette seule qualification, d'établir pourquoi cette transformation se produit.
 
-Il perçoit les conséquences de ses actions.
+L'allure décrit une forme temporelle.
 
-Il ajuste ses comportements.
-
-Il transforme continuellement sa relation avec son environnement.
-
-Le milieu n'est donc pas simplement un décor extérieur.
-
-Il constitue un espace d'interactions dans lequel certaines différences deviennent pertinentes pour l'organisme.
-
-Le couplage organisme-milieu constitue ainsi la condition générale à partir de laquelle peuvent émerger des possibilités descriptives.
+Elle n'en fournit pas le mécanisme.
 
 ---
 
-# Le couplage perception-action
+## Les quatre morphologies analytiques
 
-Au sein du couplage organisme-milieu, la perception et l'action forment une dynamique continue.
+Protokin distingue quatre morphologies principales de l'allure :
 
-Un organisme ne reçoit jamais passivement des informations.
+1. **cumulative** ;
+2. **inertielle** ;
+3. **critique** ;
+4. **oscillatoire**.
 
-Ses actions modifient ses conditions perceptives.
+Ces catégories constituent une grille analytique ouverte.
 
-Ses perceptions orientent ensuite ses actions futures.
+Elles ne sont ni des types naturels, ni des stades nécessaires, ni des lois de développement.
 
-Cette boucle dynamique rend progressivement disponibles certaines différences :
+### 1. Allure cumulative
 
-- contrastes ;
-- variations ;
-- résistances ;
-- continuités ;
-- ruptures.
+L'allure est **cumulative** lorsque les transformations se distribuent par **additions, ajustements ou révisions successives**, sans discontinuité temporelle majeure.
 
-Ces différences ne sont pas encore des catégories descriptives.
+La configuration se modifie progressivement.
 
-Elles constituent les conditions préalables à partir desquelles des descriptions pourront être élaborées.
+Chaque transformation peut prolonger, préciser, compléter ou réviser partiellement la précédente sans qu'une rupture temporelle majeure puisse être identifiée.
 
-La description humaine prolonge cette dynamique sans jamais s'en détacher complètement.
+**Exemple**
 
----
+Une classification botanique peut être progressivement modifiée par l'ajout de nouvelles distinctions, la précision de critères existants ou la révision de certaines catégories.
 
-# Les supports descriptifs
+L'analyse qualifie ici la manière dont les transformations se succèdent.
 
-Toute description s'appuie sur des supports.
+Elle ne conclut ni que cette accumulation constitue un progrès, ni qu'elle est produite par une cause unique.
 
-Ces supports peuvent être :
+**Vigilance**
 
-- corporels ;
-- incorporés ;
-- techniques ;
-- linguistiques ;
-- graphiques ;
-- matériels ;
-- institutionnels.
+Une allure cumulative ne signifie pas que les transformations soient faibles ou insignifiantes.
 
-Ils permettent aux descriptions :
-
-- d'être produites ;
-- d'être conservées ;
-- d'être transmises ;
-- d'être comparées ;
-- d'être corrigées ;
-- d'être reprises par d'autres pratiques.
-
-Les supports ne sont pas les descriptions elles-mêmes.
-
-Ils rendent possible leur circulation et leur stabilisation.
+Elle qualifie seulement leur **distribution temporelle**.
 
 ---
 
-# La configuration descriptive
+### 2. Allure inertielle
 
-Les différences rendues disponibles dans les interactions ne deviennent pas immédiatement des descriptions.
+L'allure est **inertielle** lorsque les transformations observables demeurent faibles, rares ou espacées sur la période considérée, tandis qu'une configuration descriptive conserve une continuité importante.
 
-Elles doivent être organisées dans des configurations descriptives.
+Il s'agit d'une qualification de **maintien prolongé**.
 
-Une configuration descriptive organise :
+L'inertie ne signifie pas absence totale de reprise, de reformulation ou d'activité descriptive.
 
-- des différences pertinentes ;
-- des relations ;
-- des catégories ;
-- des critères ;
-- des possibilités d'application.
+Une configuration peut continuer à être mobilisée, reproduite ou interprétée tout en présentant une faible transformation observable sur l'échelle temporelle retenue.
 
-Elle constitue l'espace dans lequel certaines descriptions peuvent apparaître comme intelligibles.
+**Exemple**
 
-La description n'est donc pas une simple copie d'une réalité déjà organisée.
+Une qualification administrative peut être reproduite dans une série de dossiers pendant une longue période sans modification substantielle de sa formulation ou de son statut descriptif.
 
-Elle est une actualisation située d'une configuration de possibilités descriptives.
+L'analyse peut alors qualifier la trajectoire d'inertielle sur cette période.
 
----
+Elle ne permet pas, à elle seule, d'établir pourquoi cette continuité persiste.
 
-# Les locuteurs et les engagements
+**Vigilance**
 
-Une description n'existe jamais indépendamment des pratiques dans lesquelles elle est formulée.
+> **Inertielle ne signifie ni immobile ni sans cause.**
 
-Le locuteur occupe une position au sein d'une communauté descriptive.
-
-Décrire consiste toujours à mobiliser :
-
-- une position épistémique ;
-- des ressources descriptives ;
-- des supports corporels et incorporés ;
-- des catégories collectives ;
-- des critères de justification ;
-- des normes de recevabilité.
-
-Le locuteur ne possède pas ces ressources comme des propriétés privées.
-
-Il les mobilise à partir des pratiques auxquelles il participe.
-
-Toute description engage alors une responsabilité normative.
-
-Décrire, ce n'est pas seulement produire un énoncé.
-
-C'est également accepter les conséquences de ce qui est affirmé, répondre aux objections possibles et reconnaître les critères du régime descriptif mobilisé.
+L'allure qualifie seulement la faible transformation observable sur la période et à l'échelle considérées.
 
 ---
 
-# Les auditeurs et l'évaluation collective
+### 3. Allure critique
 
-Une description ne devient publique que lorsqu'elle peut être reçue, évaluée et reprise par d'autres positions.
+L'allure est **critique** lorsqu'une transformation présente une **accélération ou une discontinuité temporelle marquée**.
 
-L'auditeur n'est donc pas un récepteur passif.
+La transformation apparaît alors fortement concentrée dans une période relativement brève au regard de la distribution temporelle qui la précède.
 
-Il participe à la régulation collective des descriptions.
+L'allure critique peut correspondre à une rupture identifiable entre deux configurations ou à une concentration inhabituelle des transformations.
 
-Il peut :
+**Exemple**
 
-- accepter une assertion ;
-- demander une justification ;
-- contester une inférence ;
-- demander des critères supplémentaires ;
-- contribuer à une transformation descriptive.
+Une qualification administrative peut demeurer relativement stable pendant plusieurs années, puis être modifiée de manière très rapprochée à travers plusieurs décisions successives.
 
-L'espace descriptif est ainsi constitué par une relation dynamique entre production, réception, évaluation et correction.
+La qualification d'allure critique porte sur cette concentration temporelle du changement.
 
----
+Elle ne permet pas d'établir qu'un seuil causal aurait été franchi.
 
-# Les régimes descriptifs
+**Vigilance**
 
-Une même situation peut être décrite selon plusieurs régimes descriptifs.
+Une allure critique ne signifie pas :
 
-Un régime descriptif organise notamment :
+* qu'une cause unique existe ;
+* qu'un mécanisme de rupture a été identifié ;
+* que la transformation est irréversible ;
+* que la transformation constitue une amélioration.
 
-- ce qui devient pertinent ;
-- les catégories disponibles ;
-- les critères d'application ;
-- les formes d'inférence ;
-- les procédures de correction.
-
-Une même situation pourra ainsi recevoir des descriptions :
-
-- biologiques ;
-- juridiques ;
-- historiques ;
-- économiques ;
-- psychologiques ;
-- techniques ;
-- politiques ;
-- phénoménologiques.
-
-Ces descriptions ne sont pas nécessairement concurrentes.
-
-Elles peuvent répondre à des questions différentes et poursuivre des finalités distinctes.
+Elle qualifie uniquement **la distribution temporelle du changement**.
 
 ---
 
-# Les deux images du monde
+### 4. Allure oscillatoire
 
-À la suite de Wilfrid Sellars, Protokin distingue deux grandes dimensions descriptives.
+L'allure est **oscillatoire** lorsque plusieurs configurations descriptives alternent de manière récurrente sans qu'une configuration unique se maintienne durablement sur la période considérée.
 
-L'image manifeste correspond aux descriptions issues des pratiques ordinaires.
+La trajectoire présente alors des retours, alternances ou réapparitions de configurations concurrentes.
 
-Elle mobilise :
+**Exemple**
 
-- les personnes ;
-- les intentions ;
-- les responsabilités ;
-- les institutions ;
-- les objets familiers ;
-- les catégories du quotidien.
+Une organisation peut alterner entre deux modes de qualification d'une même situation au cours de plusieurs cycles successifs, sans qu'un seul de ces modes se stabilise durablement.
 
-L'image scientifique correspond aux descriptions produites par les sciences à travers :
+L'analyse décrit alors une distribution oscillatoire.
 
-- les théories ;
-- les instruments ;
-- les modèles ;
-- les méthodes expérimentales.
+Elle ne permet pas de conclure à une indécision psychologique, à une faiblesse institutionnelle ou à un conflit causal déterminé.
 
-Ces deux dimensions ne doivent être ni opposées ni confondues.
+**Vigilance**
 
-L'enquête consiste à comprendre leurs relations, leurs tensions et leurs traductions possibles.
+> **L'oscillation qualifie une structure temporelle, non un état psychologique.**
 
 ---
 
-# Les engagements et l'espace des raisons
+## Une trajectoire peut changer d'allure
 
-Toute description introduit des engagements.
+Une trajectoire descriptive ne possède pas nécessairement une allure unique.
 
-Affirmer quelque chose signifie accepter un ensemble de conséquences.
+L'allure qualifie une portion déterminée de son déploiement temporel.
 
-Le locuteur devient responsable :
+Une même trajectoire peut ainsi présenter plusieurs morphologies successives :
 
-- de ce qu'il affirme ;
-- des inférences autorisées ;
-- des incompatibilités reconnues ;
-- des justifications disponibles.
+```text
+cumulative → inertielle → critique → stabilisation → oscillatoire
+```
 
-La rationalité n'est donc pas une propriété intérieure de l'esprit.
+Cette succession n'est ni nécessaire ni normative.
 
-Elle prend forme dans des pratiques publiques où les raisons peuvent être demandées, discutées, critiquées et révisées.
+Elle constitue seulement une possibilité de reconstruction.
 
----
+Une trajectoire peut également passer directement d'une allure cumulative à une allure oscillatoire, ou présenter plusieurs phases cumulatives séparées par des périodes critiques.
 
-# Stabilisation et transformation
+Il faut donc distinguer deux opérations :
 
-Les descriptions ne demeurent jamais définitivement acquises.
+> **Reconstruire la trajectoire.**
 
-Certaines deviennent durables grâce :
+et :
 
-- aux apprentissages ;
-- aux institutions ;
-- aux instruments ;
-- aux textes ;
-- aux communautés de pratique ;
-- aux habitudes collectives.
+> **Qualifier l'allure d'une portion de cette trajectoire.**
 
-D'autres rencontrent leurs limites.
+La trajectoire décrit le **parcours des transformations**.
 
-Des tensions apparaissent.
+L'allure qualifie **la distribution temporelle de ces transformations**.
 
-Des catégories deviennent insuffisantes.
+Ainsi :
 
-Des critères doivent être réorganisés.
+> **Une trajectoire peut conserver son identité historique tout en changeant d'allure.**
 
-L'enquête permet alors d'explorer de nouvelles possibilités descriptives et de produire de nouvelles stabilisations.
+Inversement, un changement d'allure n'implique pas nécessairement un changement de régime descriptif.
 
 ---
 
-# Une métathéorie réflexive
+## L'échelle temporelle
 
-Protokin ne prétend occuper aucun point de vue extérieur ou privilégié.
+L'allure dépend de la résolution temporelle de l'enquête.
 
-Il appartient lui-même à un régime descriptif.
+Une trajectoire peut apparaître cumulative sur une période longue et présenter plusieurs épisodes critiques lorsqu'elle est reconstruite à une échelle plus fine.
 
-Ses concepts, ses méthodes et ses principes peuvent être examinés, discutés, comparés et révisés.
+Inversement, une série de transformations rapides peut apparaître relativement stable lorsqu'elle est considérée à une échelle temporelle beaucoup plus large.
 
-L'audit ne s'applique donc pas uniquement aux autres pratiques.
+Il ne s'agit pas d'une contradiction.
 
-Il s'applique également à Protokin lui-même.
+Les deux analyses portent sur des **résolutions temporelles différentes**.
 
-Cette réflexivité constitue l'un de ses engagements fondamentaux.
+La règle est donc :
 
----
+> **Une allure n'est attribuée qu'en fonction d'une trajectoire, d'une période et d'une échelle d'analyse déterminées.**
 
-# Ce que permet Protokin
+Cette règle ne rend pas l'analyse arbitraire.
 
-Protokin fournit une méthode permettant de :
-
-- reconstruire les pratiques descriptives ;
-- identifier les régimes mobilisés ;
-- analyser les engagements des locuteurs ;
-- comprendre les conditions de recevabilité ;
-- expliciter les dépendances fonctionnelles ;
-- comparer plusieurs descriptions d'une même situation ;
-- repérer les tensions entre régimes ;
-- accompagner les transformations descriptives.
-
-Il ne remplace aucune discipline particulière.
-
-Il propose une grammaire commune permettant d'analyser le fonctionnement descriptif des pratiques humaines.
+Elle explicite simplement les conditions de validité de la qualification temporelle.
 
 ---
 
-# Parcours de lecture
+## Allure et stabilisation
 
-La documentation peut être parcourue selon trois itinéraires complémentaires.
+L'allure inertielle doit être distinguée de la **stabilisation**.
 
-## Comprendre l'architecture
+La stabilisation désigne le processus par lequel une configuration acquiert et maintient une continuité suffisante pour être reprise dans une pratique.
 
-- Les principes fondamentaux
-- L'architecture générale
-- Les fondements descriptifs
-- Les configurations descriptives
-- Les régimes descriptifs
-- Les engagements
-- Les pratiques collectives
+L'allure inertielle qualifie, quant à elle, une **faible distribution temporelle des transformations observables**.
 
-## Comprendre la méthode
+Une stabilisation peut donc présenter différentes allures au cours de son développement.
 
-- L'enquête
-- L'audit
-- Les traductions entre régimes
-- Les tensions descriptives
-- Les transformations des pratiques
+Inversement, une allure inertielle ne suffit pas à établir qu'une stabilisation est en cours.
 
-## Comprendre les applications
+La distinction est donc :
 
-- Les controverses scientifiques
-- Les classifications médicales
-- Le droit
-- Les institutions
-- L'intelligence artificielle
-- Les qualifications morales
+> **La stabilisation concerne la continuité d'une configuration ; l'allure concerne la distribution temporelle de ses transformations.**
 
 ---
+
+## Allure et effet cliquet
+
+L'effet cliquet désigne une **asymétrie des possibilités et des coûts de révision** produite par certaines stabilisations antérieures.
+
+L'allure ne définit pas cette asymétrie.
+
+Une trajectoire affectée par un effet cliquet peut présenter une allure inertielle, cumulative ou critique selon la période considérée.
+
+Inversement, une allure inertielle ne suffit pas à établir l'existence d'un effet cliquet.
+
+La distinction est donc :
+
+> **L'effet cliquet qualifie une asymétrie de révision ; l'allure qualifie la distribution temporelle des transformations.**
+
+Les deux concepts peuvent être articulés dans une enquête, mais ils ne doivent pas être convertis l'un dans l'autre.
+
+---
+
+## Allure et causalité
+
+Décrire une allure ne revient pas à expliquer une transformation.
+
+Une allure critique peut être observée sans que son mécanisme causal soit établi.
+
+Une allure inertielle peut être identifiée sans que les conditions de sa persistance soient connues.
+
+Une allure cumulative peut être décrite sans supposer une causalité par accumulation.
+
+La distinction est donc :
+
+> **L'allure décrit la forme temporelle du changement ; l'explication recherche les conditions ou relations susceptibles de rendre compte de ce changement.**
+
+L'analyse causale relève d'une enquête distincte.
+
+Elle peut porter sur les conditions matérielles, les instruments, les pratiques, les institutions ou d'autres relations pertinentes, sans que l'allure elle-même fournisse cette explication.
+
+---
+
+## Allure et justification
+
+L'allure ne permet pas davantage d'établir la validité ou la légitimité d'une transformation.
+
+Une allure cumulative n'est pas un progrès.
+
+Une allure inertielle n'est pas nécessairement une défaillance.
+
+Une allure critique n'est pas nécessairement une amélioration.
+
+Une allure oscillatoire n'est pas nécessairement une indécision.
+
+L'allure ne possède donc aucune valeur normative intrinsèque.
+
+> **Qualifier une transformation temporellement ne revient pas à la justifier.**
+
+Les raisons susceptibles de justifier, de contester ou de défendre une description appartiennent à une autre opération analytique.
+
+---
+
+## Une grille analytique ouverte
+
+Les quatre morphologies proposées ne constituent pas une typologie exhaustive.
+
+Une trajectoire peut présenter :
+
+* des formes mixtes ;
+* des transitions progressives entre morphologies ;
+* des phases difficiles à qualifier ;
+* plusieurs allures simultanément selon les échelles considérées.
+
+L'enquête ne doit donc pas forcer une trajectoire dans une catégorie préexistante.
+
+La qualification doit rester subordonnée à la reconstruction effective de la distribution temporelle.
+
+> **Les catégories d'allure servent l'analyse ; l'analyse ne sert pas à confirmer les catégories.**
+
+---
+
+## Fonction d'audit
+
+L'allure permet de rendre visibles des différences temporelles qui disparaîtraient si l'on ne considérait qu'une succession d'états ou les configurations initiale et finale.
+
+Deux trajectoires peuvent aboutir à une configuration comparable tout en présentant des distributions temporelles différentes :
+
+* transformation cumulative ;
+* maintien prolongé suivi d'une discontinuité ;
+* alternance récurrente avant stabilisation ;
+* transformations fortement concentrées dans une période courte.
+
+L'allure permet ainsi de comparer les **formes temporelles de trajectoires descriptives** sans leur attribuer immédiatement une cause ou une valeur.
+
+Elle permet notamment de repérer :
+
+* les maintiens prolongés ;
+* les concentrations temporelles de transformation ;
+* les alternances récurrentes ;
+* les changements d'allure ;
+* les différences d'allure selon les échelles d'analyse.
+
+Ces constats peuvent ensuite être mobilisés par d'autres fonctions de l'enquête.
+
+L'allure ne constitue pas, à elle seule, une explication.
+
+---
+
+## Distinctions conceptuelles
+
+| Concept            | Question propre                                                            |
+| ------------------ | -------------------------------------------------------------------------- |
+| **Trajectoire**    | Quel est le parcours des transformations ?                                 |
+| **Allure**         | Comment ces transformations se distribuent-elles dans le temps ?           |
+| **Historicité**    | Dans quelle genèse ce parcours est-il inscrit ?                            |
+| **Stabilisation**  | Comment une configuration acquiert-elle et maintient-elle une continuité ? |
+| **Effet cliquet**  | Quelles transformations deviennent asymétriquement coûteuses à réviser ?   |
+| **Réorganisation** | Comment une configuration descriptive se recombine-t-elle ?                |
+
+Ces fonctions ne sont pas interchangeables.
+
+La trajectoire ne devient pas une allure.
+
+L'allure ne devient pas une cause.
+
+La stabilisation ne devient pas une inertie.
+
+L'effet cliquet ne devient pas une allure.
+
+L'historicité ne devient pas une chronologie.
+
+---
+
+## Règle de non-conversion
+
+L'analyse de l'allure est soumise à une règle stricte :
+
+> **Qualifier la distribution temporelle d'une transformation ne revient ni à expliquer cette transformation, ni à la justifier, ni à l'évaluer.**
+
+Il faut donc maintenir les distinctions suivantes :
+
+**allure ≠ trajectoire**
+
+**allure ≠ historicité**
+
+**allure ≠ stabilisation**
+
+**allure ≠ effet cliquet**
+
+**allure ≠ cause**
+
+**allure ≠ raison**
+
+**allure ≠ finalité**
+
+**allure ≠ valeur**
+
+La fonction de l'allure peut être résumée ainsi :
+
+> **L'allure qualifie la manière dont les transformations descriptives se distribuent dans le temps, relativement à une trajectoire, une période et une échelle d'analyse déterminées.**
+
+---
+
+## Synthèse
+
+L'allure est une **qualification temporelle située** des transformations descriptives.
+
+Elle permet de distinguer quatre morphologies analytiques principales :
+
+> **cumulative — inertielle — critique — oscillatoire**
+
+Ces morphologies ne sont ni des propriétés naturelles, ni des mécanismes, ni des stades nécessaires.
+
+Une même trajectoire peut changer d'allure.
+
+Une même allure peut apparaître à différentes étapes de trajectoires différentes.
+
+Une même trajectoire peut également présenter des allures différentes selon la période ou l'échelle d'analyse retenue.
+
+L'allure répond ainsi à une question déterminée :
+
+> **Comment les transformations se distribuent-elles dans le temps ?**
+
+Elle ne répond pas aux questions :
+
+> **Qu'est-ce qui produit cette transformation ?**
+
+> **Quelles raisons permettent de la justifier ou de la contester ?**
+
+> **Quelle transformation devrait être retenue ?**
+
+Ces questions relèvent d'autres fonctions de l'architecture Protokin.
+
+La fonction propre de l'allure est donc :
+
+> **qualifier temporellement une transformation descriptive sans convertir cette qualification en explication causale, justification normative, évaluation ou propriété ontologique.**
+
+---
+
+## Place dans l'architecture de Protokin
+
+L'allure appartient à la **section 06 — Temporalité**.
+
+Elle intervient après la possibilité de reconstruire une trajectoire descriptive et avant les opérations explicatives qui peuvent porter sur les conditions de sa transformation.
+
+Elle n'est pas une étape de la trajectoire.
+
+Elle est une **qualification transversale de son déploiement temporel**.
+
+La distinction fondamentale est :
+
+> **Trajectoire : parcours des transformations.**
+
+> **Allure : distribution temporelle de ces transformations.**
+
+C'est cette distinction qui permet à Protokin de décrire des temporalités descriptives hétérogènes sans transformer leur forme temporelle en mécanisme causal, en norme de développement ou en propriété de la réalité décrite.
+
+**Protokin — version 26.09**
+
 
 # Formule synthétique
 
