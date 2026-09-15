@@ -1,3 +1,5 @@
+# Page : architecture-fonctionnelle.md
+
 # PROTOKIN — ARCHITECTURE FONCTIONNELLE GÉNÉRALE
 
 ## Formule matricielle d'orientation
