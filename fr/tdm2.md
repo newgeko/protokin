@@ -1,4 +1,4 @@
-Oui. J’ai retenu la version **resserrée**, en supprimant les doublons et en regroupant les concepts dont la fonction n’est pas suffisamment autonome. Les liens sont en chemins Markdown relatifs, compatibles avec Docsify.
+# Page : tdm2.md
 
 # Table des matières
 
