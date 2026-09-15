@@ -1,4 +1,4 @@
-# Page : articulation_vs_conversion.md
+# Page : articulation-vs-conversion.md
 
 # Causes et Raisons — Pour une Articulation sans Conversion
 
