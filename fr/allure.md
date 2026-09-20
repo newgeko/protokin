@@ -1,525 +1,617 @@
 # Page : allure.md
 
-# L'allure — Une grille analytique de la distribution temporelle des transformations descriptives
+L’allure — La distribution temporelle des transformations descriptives
 
-## Analyse architecturale préalable
+Fonction
 
-### 1. Fonction unique de la page
+L’allure qualifie la manière dont les transformations d’une configuration descriptive se distribuent dans le temps.
 
-Cette page établit le concept d'**allure** comme fonction analytique permettant de qualifier **comment les transformations descriptives se distribuent dans le temps au cours d'une trajectoire**.
+Elle permet de décrire comment une configuration :
 
-Elle ne vise ni à expliquer les causes d'une transformation, ni à établir les raisons qui la justifient, ni à déterminer sa valeur ou sa finalité.
+- se maintient ;
+- se transforme progressivement ;
+- concentre ses transformations sur une période ;
+- alterne entre plusieurs configurations.
 
-### 2. Problème conceptuel
+L’allure ne désigne donc ni la cause d’une transformation, ni la raison qui la justifie, ni sa valeur, ni sa finalité.
 
-Une trajectoire descriptive peut présenter des transformations comparables tout en les distribuant temporellement de manière différente.
+Elle répond à une question déterminée :
 
-Certaines transformations procèdent par additions successives ; d'autres restent longtemps limitées avant de connaître une discontinuité ; d'autres encore alternent durablement entre plusieurs configurations.
+«Comment une configuration descriptive se maintient-elle et se transforme-t-elle dans le temps ?»
 
-Le problème est donc le suivant :
+Cette question suppose de distinguer deux opérations :
 
-> **Comment qualifier les différentes formes de distribution temporelle d'une transformation descriptive sans les réduire à une simple chronologie et sans convertir cette qualification en explication causale, normative ou ontologique ?**
-
-L'allure répond à ce problème.
-
-### 3. Objet propre
-
-Cette page traite exclusivement de la **distribution temporelle des transformations descriptives** :
-
-* continuité ;
-* maintien prolongé ;
-* accélération ;
-* discontinuité ;
-* alternance ;
-* concentration temporelle.
-
-Elle ne traite pas :
-
-* de la **trajectoire descriptive** elle-même ;
-* de l'**historicité** d'une trajectoire ;
-* de la **stabilisation** comme processus ;
-* de l'**effet cliquet** comme asymétrie des possibilités de révision ;
-* des **causes** d'une transformation ;
-* des **raisons** qui permettent de la justifier, de la contester ou de la défendre.
-
-### 4. Statut conceptuel
-
-L'allure est une **grille analytique de second ordre** relevant de la section **06 — Temporalité**.
-
-Elle est appliquée à une trajectoire descriptive pour qualifier la manière dont ses transformations se distribuent temporellement.
-
-Elle n'est ni une propriété naturelle des choses, ni une dynamique physique, ni un mécanisme explicatif.
-
-### 5. Dépendances fonctionnelles
-
-L'analyse de l'allure suppose :
-
-* une **description** ;
-* une **configuration descriptive** ;
-* une **trajectoire descriptive** permettant d'identifier un parcours de transformations ;
-* une **période d'analyse** ;
-* une **échelle temporelle déterminée**.
-
-Elle peut être mise en relation avec la stabilisation, la sédimentation ou l'effet cliquet, mais aucun de ces concepts ne constitue sa définition.
-
-### 6. Frontières conceptuelles
-
-L'allure ne doit pas être convertie en :
-
-* cause ;
-* mécanisme ;
-* raison ;
-* valeur ;
-* finalité ;
-* propriété naturelle ;
-* vitesse physique ;
-* prédiction de l'évolution future.
-
-Sa fonction est strictement déterminée :
-
-> **qualifier la distribution temporelle des transformations descriptives.**
-
----
-
-## Fonction
-
-Dans l'architecture de Protokin, l'**allure** désigne une grille analytique qui qualifie **la forme temporelle selon laquelle une transformation descriptive se distribue au cours d'une trajectoire**.
-
-Plus simplement :
-
-> **L'allure qualifie comment une transformation descriptive se distribue dans le temps.**
-
-Cette définition implique trois propriétés.
-
-### Une qualification analytique
-
-L'allure n'est pas une propriété de la réalité en soi.
-
-Elle résulte d'une reconstruction analytique portant sur une trajectoire descriptive déterminée.
-
-Elle ne désigne donc pas une dynamique intrinsèque des objets décrits.
-
-### Une qualification située
-
-Une allure n'est jamais attribuée indépendamment :
-
-* d'une trajectoire ;
-* d'une période ;
-* d'une échelle d'analyse.
-
-Une même trajectoire peut présenter différentes allures selon les portions temporelles et les résolutions considérées.
-
-### Une qualification non explicative
-
-Qualifier une transformation d'**inertielle**, de **cumulative**, de **critique** ou d'**oscillatoire** ne permet pas, par cette seule qualification, d'établir pourquoi cette transformation se produit.
-
-L'allure décrit une forme temporelle.
-
-Elle n'en fournit pas le mécanisme.
-
----
-
-## Les quatre morphologies analytiques
-
-Protokin distingue quatre morphologies principales de l'allure :
-
-1. **cumulative** ;
-2. **inertielle** ;
-3. **critique** ;
-4. **oscillatoire**.
-
-Ces catégories constituent une grille analytique ouverte.
-
-Elles ne sont ni des types naturels, ni des stades nécessaires, ni des lois de développement.
-
-### 1. Allure cumulative
-
-L'allure est **cumulative** lorsque les transformations se distribuent par **additions, ajustements ou révisions successives**, sans discontinuité temporelle majeure.
-
-La configuration se modifie progressivement.
-
-Chaque transformation peut prolonger, préciser, compléter ou réviser partiellement la précédente sans qu'une rupture temporelle majeure puisse être identifiée.
-
-**Exemple**
-
-Une classification botanique peut être progressivement modifiée par l'ajout de nouvelles distinctions, la précision de critères existants ou la révision de certaines catégories.
-
-L'analyse qualifie ici la manière dont les transformations se succèdent.
-
-Elle ne conclut ni que cette accumulation constitue un progrès, ni qu'elle est produite par une cause unique.
-
-**Vigilance**
-
-Une allure cumulative ne signifie pas que les transformations soient faibles ou insignifiantes.
-
-Elle qualifie seulement leur **distribution temporelle**.
-
----
-
-### 2. Allure inertielle
-
-L'allure est **inertielle** lorsque les transformations observables demeurent faibles, rares ou espacées sur la période considérée, tandis qu'une configuration descriptive conserve une continuité importante.
-
-Il s'agit d'une qualification de **maintien prolongé**.
-
-L'inertie ne signifie pas absence totale de reprise, de reformulation ou d'activité descriptive.
-
-Une configuration peut continuer à être mobilisée, reproduite ou interprétée tout en présentant une faible transformation observable sur l'échelle temporelle retenue.
-
-**Exemple**
-
-Une qualification administrative peut être reproduite dans une série de dossiers pendant une longue période sans modification substantielle de sa formulation ou de son statut descriptif.
-
-L'analyse peut alors qualifier la trajectoire d'inertielle sur cette période.
-
-Elle ne permet pas, à elle seule, d'établir pourquoi cette continuité persiste.
-
-**Vigilance**
-
-> **Inertielle ne signifie ni immobile ni sans cause.**
-
-L'allure qualifie seulement la faible transformation observable sur la période et à l'échelle considérées.
-
----
-
-### 3. Allure critique
-
-L'allure est **critique** lorsqu'une transformation présente une **accélération ou une discontinuité temporelle marquée**.
-
-La transformation apparaît alors fortement concentrée dans une période relativement brève au regard de la distribution temporelle qui la précède.
-
-L'allure critique peut correspondre à une rupture identifiable entre deux configurations ou à une concentration inhabituelle des transformations.
-
-**Exemple**
-
-Une qualification administrative peut demeurer relativement stable pendant plusieurs années, puis être modifiée de manière très rapprochée à travers plusieurs décisions successives.
-
-La qualification d'allure critique porte sur cette concentration temporelle du changement.
-
-Elle ne permet pas d'établir qu'un seuil causal aurait été franchi.
-
-**Vigilance**
-
-Une allure critique ne signifie pas :
-
-* qu'une cause unique existe ;
-* qu'un mécanisme de rupture a été identifié ;
-* que la transformation est irréversible ;
-* que la transformation constitue une amélioration.
-
-Elle qualifie uniquement **la distribution temporelle du changement**.
-
----
-
-### 4. Allure oscillatoire
-
-L'allure est **oscillatoire** lorsque plusieurs configurations descriptives alternent de manière récurrente sans qu'une configuration unique se maintienne durablement sur la période considérée.
-
-La trajectoire présente alors des retours, alternances ou réapparitions de configurations concurrentes.
-
-**Exemple**
-
-Une organisation peut alterner entre deux modes de qualification d'une même situation au cours de plusieurs cycles successifs, sans qu'un seul de ces modes se stabilise durablement.
-
-L'analyse décrit alors une distribution oscillatoire.
-
-Elle ne permet pas de conclure à une indécision psychologique, à une faiblesse institutionnelle ou à un conflit causal déterminé.
-
-**Vigilance**
-
-> **L'oscillation qualifie une structure temporelle, non un état psychologique.**
-
----
-
-## Une trajectoire peut changer d'allure
-
-Une trajectoire descriptive ne possède pas nécessairement une allure unique.
-
-L'allure qualifie une portion déterminée de son déploiement temporel.
-
-Une même trajectoire peut ainsi présenter plusieurs morphologies successives :
-
-```text
-cumulative → inertielle → critique → stabilisation → oscillatoire
-```
-
-Cette succession n'est ni nécessaire ni normative.
-
-Elle constitue seulement une possibilité de reconstruction.
-
-Une trajectoire peut également passer directement d'une allure cumulative à une allure oscillatoire, ou présenter plusieurs phases cumulatives séparées par des périodes critiques.
-
-Il faut donc distinguer deux opérations :
-
-> **Reconstruire la trajectoire.**
+«Reconstruire une trajectoire de transformations.»
 
 et :
 
-> **Qualifier l'allure d'une portion de cette trajectoire.**
+«Qualifier l’allure temporelle de cette trajectoire.»
 
-La trajectoire décrit le **parcours des transformations**.
+La trajectoire décrit le parcours des transformations.
 
-L'allure qualifie **la distribution temporelle de ces transformations**.
-
-Ainsi :
-
-> **Une trajectoire peut conserver son identité historique tout en changeant d'allure.**
-
-Inversement, un changement d'allure n'implique pas nécessairement un changement de régime descriptif.
+L’allure qualifie leur distribution temporelle.
 
 ---
 
-## L'échelle temporelle
+Problème
 
-L'allure dépend de la résolution temporelle de l'enquête.
+Une configuration descriptive peut demeurer reconnaissable tout en se transformant.
 
-Une trajectoire peut apparaître cumulative sur une période longue et présenter plusieurs épisodes critiques lorsqu'elle est reconstruite à une échelle plus fine.
+Elle peut être reprise pendant une longue période avec peu de modifications, évoluer par additions successives, connaître une concentration soudaine de transformations ou alterner durablement entre plusieurs configurations.
 
-Inversement, une série de transformations rapides peut apparaître relativement stable lorsqu'elle est considérée à une échelle temporelle beaucoup plus large.
+La stabilité d’une configuration ne doit donc pas être confondue avec l’absence de transformation.
 
-Il ne s'agit pas d'une contradiction.
+Une configuration peut se maintenir à travers des transformations.
 
-Les deux analyses portent sur des **résolutions temporelles différentes**.
+Le problème est alors le suivant :
+
+«Comment qualifier les différentes formes temporelles du maintien et de la transformation d’une configuration descriptive sans réduire cette qualification à une simple chronologie, ni la convertir en explication causale, normative ou ontologique ?»
+
+L’allure répond à ce problème.
+
+---
+
+Objet propre
+
+L’allure porte exclusivement sur la distribution temporelle des transformations descriptives.
+
+Elle permet notamment de qualifier :
+
+- la continuité ;
+- le maintien prolongé ;
+- l’accumulation ;
+- l’accélération ;
+- la concentration temporelle ;
+- la discontinuité ;
+- l’alternance ;
+- la récurrence.
+
+Elle ne constitue pas une théorie générale du temps.
+
+Elle ne porte pas directement sur :
+
+- les causes d’une transformation ;
+- les raisons de sa justification ;
+- la validité d’une description ;
+- la finalité d’une trajectoire ;
+- l’histoire complète d’une pratique ;
+- les mécanismes physiques de changement.
+
+---
+
+Statut conceptuel
+
+L’allure est une grille analytique de second ordre.
+
+Elle est attribuée à une trajectoire descriptive déterminée, relativement :
+
+- à une période ;
+- à une échelle temporelle ;
+- à une résolution d’analyse.
+
+Elle n’est donc pas une propriété de l’objet décrit.
+
+Elle qualifie la temporalité reconstruite d’une trajectoire descriptive.
+
+Une allure n’existe pas indépendamment de l’enquête qui reconstruit la trajectoire à laquelle elle est attribuée.
+
+Cela ne la rend pas arbitraire.
+
+La qualification dépend de critères explicites portant sur la distribution observable des transformations au cours de la période considérée.
+
+---
+
+Une stabilité qui n’est pas une immobilité
+
+Une configuration descriptive peut rester suffisamment reconnaissable pour continuer à être mobilisée alors même qu’elle se transforme.
+
+Il faut donc distinguer :
+
+«maintien d’une configuration»
+
+et :
+
+«absence de transformation.»
+
+Une configuration peut être maintenue par des reprises, des ajustements, des précisions, des révisions ou des recompositions successives.
+
+L’allure permet alors de qualifier la manière temporelle dont cette continuité se maintient à travers les transformations.
+
+Ainsi, une transformation n’est pas nécessairement l’opposé d’une stabilisation.
+
+Une stabilisation peut être :
+
+- faiblement transformative ;
+- cumulative ;
+- interrompue par une reconfiguration ;
+- soumise à des alternances.
+
+La stabilisation et l’allure ne désignent toutefois pas la même chose.
+
+«La stabilisation concerne le maintien suffisamment durable d’une configuration ; l’allure qualifie la distribution temporelle des transformations qui affectent cette configuration.»
+
+---
+
+Les quatre morphologies principales
+
+Protokin distingue quatre morphologies analytiques principales :
+
+1. cumulative ;
+2. inertielle ;
+3. critique ;
+4. oscillatoire.
+
+Ces catégories ne constituent pas une typologie naturelle.
+
+Elles ne sont :
+
+- ni des stades nécessaires ;
+- ni des lois de développement ;
+- ni des mécanismes ;
+- ni des valeurs ;
+- ni des prédictions.
+
+Elles constituent une grille ouverte permettant de qualifier différentes distributions temporelles.
+
+---
+
+1. Allure cumulative
+
+L’allure est cumulative lorsque les transformations se distribuent par additions, ajustements, précisions ou révisions successives.
+
+La configuration se modifie progressivement sans concentration temporelle majeure ni rupture dominante.
+
+Chaque transformation peut prolonger, compléter ou réviser partiellement une configuration antérieure tout en conservant une continuité identifiable.
+
+Exemple
+
+Une classification botanique peut être progressivement transformée par :
+
+- l’ajout de nouvelles distinctions ;
+- la précision de critères ;
+- la subdivision de catégories ;
+- la révision de certaines classifications.
+
+La trajectoire présente alors une distribution cumulative des transformations.
+
+Cette qualification ne signifie pas que la classification progresse.
+
+Elle ne permet pas davantage d'établir pourquoi les transformations se produisent.
+
+«Cumulative qualifie une distribution temporelle, non une valeur de développement.»
+
+---
+
+2. Allure inertielle
+
+L’allure est inertielle lorsque les transformations observables restent faibles, rares ou espacées pendant la période considérée, tandis qu’une configuration conserve une continuité importante.
+
+L’inertie est donc une qualification de maintien prolongé relativement à une échelle temporelle déterminée.
+
+Elle ne signifie pas :
+
+- absence absolue de changement ;
+- absence d’activité ;
+- absence de révision ;
+- absence de cause.
+
+Une configuration peut continuer à être mobilisée, reformulée ou interprétée tout en présentant une faible transformation observable à l’échelle retenue.
+
+Exemple
+
+Une qualification administrative peut être reprise dans une longue série de dossiers sans modification substantielle de sa formulation ou de son usage.
+
+La trajectoire peut alors être qualifiée d’inertielle sur cette période.
+
+Mais cette qualification ne permet pas d’établir pourquoi cette continuité persiste.
+
+«Inertielle signifie faible transformation observable relativement à une période et à une échelle déterminées ; elle ne signifie ni immobilité ni absence de conditions explicatives.»
+
+---
+
+3. Allure critique
+
+L’allure est critique lorsque les transformations se concentrent dans une période relativement brève ou présentent une discontinuité temporelle marquée.
+
+Une configuration peut être maintenue pendant une période prolongée puis connaître une concentration de transformations.
+
+L’allure critique qualifie cette concentration temporelle du changement.
+
+Exemple
+
+Une qualification administrative peut rester relativement stable pendant plusieurs années, puis être modifiée à travers une succession rapprochée de décisions.
+
+La qualification d’allure critique porte sur la distribution temporelle de ces transformations.
+
+Elle n'établit pas :
+
+- l’existence d’une cause unique ;
+- l’existence d’un seuil causal ;
+- l’irréversibilité de la transformation ;
+- la valeur de la nouvelle configuration.
+
+«Critique qualifie une concentration ou une discontinuité temporelle ; elle ne constitue pas une théorie du mécanisme de rupture.»
+
+---
+
+4. Allure oscillatoire
+
+L’allure est oscillatoire lorsque plusieurs configurations alternent ou réapparaissent de manière récurrente au cours d’une période.
+
+La trajectoire ne se réduit alors ni à une accumulation continue, ni à un maintien prolongé d’une configuration unique.
+
+Une configuration peut être abandonnée, réintroduite, modifiée puis de nouveau mobilisée.
+
+Exemple
+
+Une organisation peut alterner entre deux modes de qualification d’une même situation au cours de plusieurs cycles, sans qu’un seul de ces modes ne se stabilise durablement.
+
+La trajectoire présente alors une allure oscillatoire.
+
+Cette qualification ne permet pas de conclure à :
+
+- une indécision psychologique ;
+- une faiblesse institutionnelle ;
+- un conflit causal déterminé ;
+- une absence de justification.
+
+«Oscillatoire qualifie une structure temporelle d’alternance, non un état mental ou institutionnel.»
+
+---
+
+Une trajectoire peut changer d’allure
+
+Une trajectoire descriptive ne possède pas nécessairement une allure unique.
+
+L’allure est attribuée à une portion déterminée de la trajectoire, relativement à une période et à une échelle.
+
+Une trajectoire peut ainsi présenter successivement :
+
+cumulative → inertielle → critique → oscillatoire
+
+Cette succession n’est ni nécessaire ni normative.
+
+Une trajectoire peut :
+
+- passer directement d’une allure cumulative à une allure critique ;
+- alterner entre inertie et transformation cumulative ;
+- présenter plusieurs phases critiques ;
+- demeurer oscillatoire pendant une longue période ;
+- présenter des allures différentes selon l’échelle temporelle retenue.
+
+Il faut donc distinguer :
+
+«la trajectoire comme parcours»
+
+et :
+
+«l’allure comme qualification de sa distribution temporelle.»
+
+Une trajectoire peut conserver une continuité historique tout en changeant d’allure.
+
+Inversement, un changement d’allure n’implique pas nécessairement un changement complet de configuration ou de régime descriptif.
+
+---
+
+L’échelle temporelle
+
+Toute qualification d’allure est relative à une résolution temporelle déterminée.
+
+Une trajectoire peut apparaître cumulative à une échelle longue et présenter plusieurs épisodes critiques lorsqu’elle est reconstruite à une échelle plus fine.
+
+Inversement, une succession rapide de transformations peut apparaître comme une période relativement stable lorsqu’elle est observée à une échelle temporelle beaucoup plus large.
+
+Ces descriptions ne sont pas nécessairement contradictoires.
+
+Elles portent sur des résolutions différentes.
 
 La règle est donc :
 
-> **Une allure n'est attribuée qu'en fonction d'une trajectoire, d'une période et d'une échelle d'analyse déterminées.**
+«Une allure n’est attribuée qu’en fonction d’une trajectoire, d’une période et d’une échelle d’analyse déterminées.»
 
-Cette règle ne rend pas l'analyse arbitraire.
+L’échelle n’est pas un détail méthodologique secondaire.
 
-Elle explicite simplement les conditions de validité de la qualification temporelle.
+Elle fait partie des conditions sous lesquelles la qualification temporelle devient pertinente.
 
 ---
 
-## Allure et stabilisation
+Allure et stabilisation
 
-L'allure inertielle doit être distinguée de la **stabilisation**.
+La stabilisation et l’allure doivent être distinguées.
 
-La stabilisation désigne le processus par lequel une configuration acquiert et maintient une continuité suffisante pour être reprise dans une pratique.
+La stabilisation désigne le processus par lequel une configuration acquiert ou maintient une continuité suffisante pour être reprise dans une pratique.
 
-L'allure inertielle qualifie, quant à elle, une **faible distribution temporelle des transformations observables**.
+L’allure qualifie la manière dont les transformations affectant cette configuration se distribuent dans le temps.
 
-Une stabilisation peut donc présenter différentes allures au cours de son développement.
+Ainsi :
 
-Inversement, une allure inertielle ne suffit pas à établir qu'une stabilisation est en cours.
+«La stabilisation concerne le maintien d’une configuration.»
+
+«L’allure concerne la distribution temporelle de ses transformations.»
+
+Une stabilisation peut donc présenter différentes allures.
+
+Elle peut être :
+
+- inertielle, lorsque les transformations observables restent faibles ;
+- cumulative, lorsque la continuité se maintient à travers des révisions successives ;
+- critique, lorsqu’une reconfiguration se concentre dans une période ;
+- oscillatoire, lorsque plusieurs configurations alternent durablement.
+
+Inversement, une allure inertielle ne suffit pas à établir qu’une stabilisation est effectivement en cours.
+
+Il faut éviter la conversion :
+
+«stabilisation ≠ inertie»
+
+et :
+
+«transformation ≠ déstabilisation.»
+
+Une configuration peut se transformer sans cesser d’être reconnaissable.
+
+---
+
+Allure et transformation
+
+L’allure permet ainsi de dissocier plusieurs phénomènes souvent confondus.
+
+Une transformation peut être :
+
+- progressive ou concentrée ;
+- cumulative ou discontinue ;
+- rare ou récurrente ;
+- compatible avec une forte continuité ou accompagnée d’une reconfiguration.
+
+La transformation n’est donc pas définie par son intensité seule.
+
+Ce qui importe ici est sa distribution temporelle relativement à la trajectoire considérée.
+
+Une même quantité apparente de transformations peut produire des allures différentes selon leur répartition dans le temps.
+
+---
+
+Allure et historicité
+
+L’historicité et l’allure ne répondent pas à la même question.
+
+L’historicité porte sur la manière dont une configuration s’inscrit dans une genèse, des reprises, des transformations antérieures et des conditions historiques déterminées.
+
+L’allure porte sur la distribution temporelle des transformations au cours de la période reconstruite.
+
+Ainsi :
+
+«L’historicité situe une trajectoire dans son devenir historique.»
+
+«L’allure qualifie la distribution temporelle des transformations de cette trajectoire.»
+
+L’allure ne remplace donc pas l’analyse historique.
+
+Elle peut constituer l’une de ses qualifications analytiques.
+
+---
+
+Allure et effet cliquet
+
+L’effet cliquet désigne une asymétrie dans les possibilités de révision produite par certaines stabilisations antérieures.
+
+Il concerne donc les conditions de retour, de révision ou de recomposition d’une configuration.
+
+L’allure, elle, décrit la distribution temporelle des transformations effectivement observées.
+
+Une trajectoire affectée par un effet cliquet peut présenter une allure :
+
+- inertielle ;
+- cumulative ;
+- critique ;
+- oscillatoire.
+
+Inversement, une allure inertielle ne suffit pas à établir l’existence d’un effet cliquet.
+
+«L’effet cliquet qualifie une asymétrie de révision ; l’allure qualifie une distribution temporelle.»
+
+Les deux concepts peuvent être articulés, mais ne doivent pas être convertis l’un dans l’autre.
+
+---
+
+Allure et causalité
+
+L’allure n’est pas une explication.
+
+Décrire une transformation comme cumulative, inertielle, critique ou oscillatoire ne permet pas, par cette qualification seule, d’établir ce qui la produit.
+
+Une allure critique peut avoir des conditions causales multiples.
+
+Une allure inertielle peut résulter de conditions très différentes.
+
+Une allure cumulative peut être produite par des mécanismes hétérogènes.
+
+Une allure oscillatoire peut elle-même avoir plusieurs conditions explicatives.
 
 La distinction est donc :
 
-> **La stabilisation concerne la continuité d'une configuration ; l'allure concerne la distribution temporelle de ses transformations.**
+«L’allure décrit la forme temporelle du changement ; l’enquête causale recherche les conditions ou relations susceptibles d’en rendre compte.»
+
+La causalité relève d’une opération distincte.
 
 ---
 
-## Allure et effet cliquet
+Allure et justification
 
-L'effet cliquet désigne une **asymétrie des possibilités et des coûts de révision** produite par certaines stabilisations antérieures.
+L’allure ne permet pas davantage d’établir la validité d’une transformation.
 
-L'allure ne définit pas cette asymétrie.
+Une allure cumulative n’est pas nécessairement un progrès.
 
-Une trajectoire affectée par un effet cliquet peut présenter une allure inertielle, cumulative ou critique selon la période considérée.
+Une allure inertielle n’est pas nécessairement une défaillance.
 
-Inversement, une allure inertielle ne suffit pas à établir l'existence d'un effet cliquet.
+Une allure critique n’est pas nécessairement une amélioration.
 
-La distinction est donc :
+Une allure oscillatoire n’est pas nécessairement une indécision.
 
-> **L'effet cliquet qualifie une asymétrie de révision ; l'allure qualifie la distribution temporelle des transformations.**
+Il faut donc maintenir :
 
-Les deux concepts peuvent être articulés dans une enquête, mais ils ne doivent pas être convertis l'un dans l'autre.
+«allure ≠ justification»
 
----
+et :
 
-## Allure et causalité
+«allure ≠ valeur.»
 
-Décrire une allure ne revient pas à expliquer une transformation.
+La justification porte sur les raisons qui permettent de défendre, contester ou réviser une description.
 
-Une allure critique peut être observée sans que son mécanisme causal soit établi.
-
-Une allure inertielle peut être identifiée sans que les conditions de sa persistance soient connues.
-
-Une allure cumulative peut être décrite sans supposer une causalité par accumulation.
-
-La distinction est donc :
-
-> **L'allure décrit la forme temporelle du changement ; l'explication recherche les conditions ou relations susceptibles de rendre compte de ce changement.**
-
-L'analyse causale relève d'une enquête distincte.
-
-Elle peut porter sur les conditions matérielles, les instruments, les pratiques, les institutions ou d'autres relations pertinentes, sans que l'allure elle-même fournisse cette explication.
+L’allure porte sur la distribution temporelle des transformations.
 
 ---
 
-## Allure et justification
+Une grille analytique ouverte
 
-L'allure ne permet pas davantage d'établir la validité ou la légitimité d'une transformation.
-
-Une allure cumulative n'est pas un progrès.
-
-Une allure inertielle n'est pas nécessairement une défaillance.
-
-Une allure critique n'est pas nécessairement une amélioration.
-
-Une allure oscillatoire n'est pas nécessairement une indécision.
-
-L'allure ne possède donc aucune valeur normative intrinsèque.
-
-> **Qualifier une transformation temporellement ne revient pas à la justifier.**
-
-Les raisons susceptibles de justifier, de contester ou de défendre une description appartiennent à une autre opération analytique.
-
----
-
-## Une grille analytique ouverte
-
-Les quatre morphologies proposées ne constituent pas une typologie exhaustive.
+Les quatre morphologies constituent une grille ouverte.
 
 Une trajectoire peut présenter :
 
-* des formes mixtes ;
-* des transitions progressives entre morphologies ;
-* des phases difficiles à qualifier ;
-* plusieurs allures simultanément selon les échelles considérées.
+- des formes mixtes ;
+- des transitions entre plusieurs morphologies ;
+- des phases difficiles à qualifier ;
+- des allures différentes selon les échelles ;
+- plusieurs dimensions temporelles simultanées.
 
-L'enquête ne doit donc pas forcer une trajectoire dans une catégorie préexistante.
+L’enquête ne doit donc pas forcer une trajectoire dans une catégorie préexistante.
 
-La qualification doit rester subordonnée à la reconstruction effective de la distribution temporelle.
+La qualification doit rester subordonnée à la reconstruction effective de la trajectoire.
 
-> **Les catégories d'allure servent l'analyse ; l'analyse ne sert pas à confirmer les catégories.**
+«Les catégories d’allure servent l’analyse ; l’analyse ne sert pas à confirmer les catégories.»
 
 ---
 
-## Fonction d'audit
+Fonction d’audit
 
-L'allure permet de rendre visibles des différences temporelles qui disparaîtraient si l'on ne considérait qu'une succession d'états ou les configurations initiale et finale.
+L’allure permet de rendre visibles des différences temporelles qui disparaîtraient si l’on ne considérait que les configurations initiale et finale.
 
-Deux trajectoires peuvent aboutir à une configuration comparable tout en présentant des distributions temporelles différentes :
+Deux trajectoires peuvent aboutir à des configurations comparables tout en présentant des distributions temporelles différentes :
 
-* transformation cumulative ;
-* maintien prolongé suivi d'une discontinuité ;
-* alternance récurrente avant stabilisation ;
-* transformations fortement concentrées dans une période courte.
+- transformation cumulative ;
+- maintien prolongé suivi d’une reconfiguration concentrée ;
+- alternance récurrente ;
+- transformation progressive interrompue par une phase critique ;
+- maintien prolongé avec modifications ponctuelles.
 
-L'allure permet ainsi de comparer les **formes temporelles de trajectoires descriptives** sans leur attribuer immédiatement une cause ou une valeur.
+L’allure permet ainsi de comparer des formes temporelles de transformation sans leur attribuer immédiatement une cause ou une valeur.
 
 Elle permet notamment de repérer :
 
-* les maintiens prolongés ;
-* les concentrations temporelles de transformation ;
-* les alternances récurrentes ;
-* les changements d'allure ;
-* les différences d'allure selon les échelles d'analyse.
+- les maintiens prolongés ;
+- les concentrations de transformation ;
+- les accumulations successives ;
+- les alternances récurrentes ;
+- les changements d’allure ;
+- les différences de distribution selon les échelles.
 
-Ces constats peuvent ensuite être mobilisés par d'autres fonctions de l'enquête.
+Ces constats peuvent ensuite être mobilisés par d’autres fonctions de l’enquête.
 
-L'allure ne constitue pas, à elle seule, une explication.
+L’allure ne constitue jamais, à elle seule, une explication.
 
 ---
 
-## Distinctions conceptuelles
+Distinctions conceptuelles
 
-| Concept            | Question propre                                                            |
-| ------------------ | -------------------------------------------------------------------------- |
-| **Trajectoire**    | Quel est le parcours des transformations ?                                 |
-| **Allure**         | Comment ces transformations se distribuent-elles dans le temps ?           |
-| **Historicité**    | Dans quelle genèse ce parcours est-il inscrit ?                            |
-| **Stabilisation**  | Comment une configuration acquiert-elle et maintient-elle une continuité ? |
-| **Effet cliquet**  | Quelles transformations deviennent asymétriquement coûteuses à réviser ?   |
-| **Réorganisation** | Comment une configuration descriptive se recombine-t-elle ?                |
+Concept| Question propre
+Configuration| Quelle organisation descriptive est actuellement mobilisée ?
+Trajectoire| Quel parcours de transformations cette configuration présente-t-elle ?
+Allure| Comment ces transformations se distribuent-elles dans le temps ?
+Stabilisation| Comment une configuration acquiert-elle et maintient-elle une continuité ?
+Historicité| Dans quelle genèse et quelles reprises cette trajectoire s’inscrit-elle ?
+Effet cliquet| Quelles transformations deviennent asymétriquement difficiles à réviser ?
+Réorganisation| Comment une configuration descriptive se recombine-t-elle ?
 
 Ces fonctions ne sont pas interchangeables.
 
-La trajectoire ne devient pas une allure.
-
-L'allure ne devient pas une cause.
-
-La stabilisation ne devient pas une inertie.
-
-L'effet cliquet ne devient pas une allure.
-
-L'historicité ne devient pas une chronologie.
+«Configuration ≠ trajectoire ≠ allure ≠ stabilisation ≠ historicité ≠ effet cliquet.»
 
 ---
 
-## Règle de non-conversion
+Règle de non-conversion
 
-L'analyse de l'allure est soumise à une règle stricte :
+L’analyse de l’allure est soumise à une règle stricte :
 
-> **Qualifier la distribution temporelle d'une transformation ne revient ni à expliquer cette transformation, ni à la justifier, ni à l'évaluer.**
+«Qualifier la distribution temporelle d’une transformation ne revient ni à expliquer cette transformation, ni à la justifier, ni à l’évaluer.»
 
-Il faut donc maintenir les distinctions suivantes :
+Il faut donc maintenir :
 
-**allure ≠ trajectoire**
+allure ≠ trajectoire
 
-**allure ≠ historicité**
+allure ≠ historicité
 
-**allure ≠ stabilisation**
+allure ≠ stabilisation
 
-**allure ≠ effet cliquet**
+allure ≠ effet cliquet
 
-**allure ≠ cause**
+allure ≠ cause
 
-**allure ≠ raison**
+allure ≠ raison
 
-**allure ≠ finalité**
+allure ≠ finalité
 
-**allure ≠ valeur**
+allure ≠ valeur
 
-La fonction de l'allure peut être résumée ainsi :
+allure ≠ propriété de l’objet décrit
 
-> **L'allure qualifie la manière dont les transformations descriptives se distribuent dans le temps, relativement à une trajectoire, une période et une échelle d'analyse déterminées.**
+L’allure est une qualification située de la temporalité d’une trajectoire descriptive.
 
 ---
 
-## Synthèse
+Synthèse
 
-L'allure est une **qualification temporelle située** des transformations descriptives.
+L’allure qualifie la manière dont les transformations d’une configuration descriptive se distribuent dans le temps.
 
 Elle permet de distinguer quatre morphologies analytiques principales :
 
-> **cumulative — inertielle — critique — oscillatoire**
+«cumulative — inertielle — critique — oscillatoire»
 
 Ces morphologies ne sont ni des propriétés naturelles, ni des mécanismes, ni des stades nécessaires.
 
-Une même trajectoire peut changer d'allure.
+Une même trajectoire peut changer d’allure.
 
-Une même allure peut apparaître à différentes étapes de trajectoires différentes.
+Une même configuration peut se maintenir tout en se transformant.
 
-Une même trajectoire peut également présenter des allures différentes selon la période ou l'échelle d'analyse retenue.
-
-L'allure répond ainsi à une question déterminée :
-
-> **Comment les transformations se distribuent-elles dans le temps ?**
-
-Elle ne répond pas aux questions :
-
-> **Qu'est-ce qui produit cette transformation ?**
-
-> **Quelles raisons permettent de la justifier ou de la contester ?**
-
-> **Quelle transformation devrait être retenue ?**
-
-Ces questions relèvent d'autres fonctions de l'architecture Protokin.
-
-La fonction propre de l'allure est donc :
-
-> **qualifier temporellement une transformation descriptive sans convertir cette qualification en explication causale, justification normative, évaluation ou propriété ontologique.**
-
----
-
-## Place dans l'architecture de Protokin
-
-L'allure appartient à la **section 06 — Temporalité**.
-
-Elle intervient après la possibilité de reconstruire une trajectoire descriptive et avant les opérations explicatives qui peuvent porter sur les conditions de sa transformation.
-
-Elle n'est pas une étape de la trajectoire.
-
-Elle est une **qualification transversale de son déploiement temporel**.
+Une stabilisation peut donc être dynamique sans que le concept de stabilisation soit confondu avec celui d’allure.
 
 La distinction fondamentale est :
 
-> **Trajectoire : parcours des transformations.**
+«La stabilisation concerne la continuité d’une configuration ; l’allure qualifie la distribution temporelle des transformations qui l’affectent.»
 
-> **Allure : distribution temporelle de ces transformations.**
+L’allure répond ainsi à une question déterminée :
 
-C'est cette distinction qui permet à Protokin de décrire des temporalités descriptives hétérogènes sans transformer leur forme temporelle en mécanisme causal, en norme de développement ou en propriété de la réalité décrite.
+«Comment une configuration descriptive se maintient-elle et se transforme-t-elle dans le temps ?»
 
-**Protokin — version 26.09**
+Elle ne répond pas aux questions :
+
+«Qu’est-ce qui produit cette transformation ?»
+
+«Quelles raisons permettent de la justifier ou de la contester ?»
+
+«Quelle transformation devrait être retenue ?»
+
+Ces questions relèvent d’autres fonctions de l’enquête.
+
+L’allure demeure ainsi une qualification temporelle située, permettant de décrire des formes de maintien et de transformation sans les convertir en mécanismes causaux, en normes de développement ou en propriétés de la réalité décrite.
+
+---
+
+Place dans l’architecture de Protokin
+
+L’allure appartient à la section 06 — Temporalité.
+
+Elle intervient à partir d’une trajectoire descriptive reconstruite et permet d’en qualifier le déploiement temporel.
+
+Elle n’est pas une étape de la trajectoire.
+
+Elle est une qualification transversale de son déploiement temporel.
+
+La distinction fondamentale est :
+
+«Trajectoire : parcours des transformations.»
+
+«Allure : distribution temporelle de ces transformations.»
+
+Cette distinction permet de décrire des temporalités descriptives hétérogènes sans transformer leur forme temporelle en mécanisme causal, en norme de développement ou en propriété de la réalité décrite.
+
+Protokin — version 26.09
