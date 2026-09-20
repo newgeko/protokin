@@ -11,17 +11,9 @@ Statut : Concept analytique de premier ordre
 
 Fonction
 
-L'occurrence permet de désigner le cas singulier auquel une pratique descriptive applique une distinction, une qualification ou une catégorie.
+L'occurrence permet de distinguer une réalisation singulière du type, de la forme ou de la catégorie relativement auxquels elle est identifiée.
 
-Elle permet de :
-
-«maintenir la singularité de ce qui est rencontré, décrit ou traité sans la confondre avec la catégorie sous laquelle cette occurrence peut être regroupée, avec le mot qui peut la désigner ou avec l'expérience dans laquelle elle peut apparaître.»
-
-La page doit pouvoir être résumée par une seule fonction :
-
-«L'occurrence désigne le cas singulier auquel une pratique descriptive applique une distinction.»
-
-Elle ne doit pas utiliser l'occurrence pour établir à elle seule ce qu'est la chose, comment elle est catégorisée ou comment elle est vécue.
+Son rôle est de maintenir la différence entre une réalisation particulière et le principe selon lequel elle est reconnue comme relevant d'un même ensemble.
 
 ---
 
@@ -29,162 +21,118 @@ Problème
 
 Situation de départ
 
-Une pratique descriptive ne rencontre pas seulement des catégories générales ou des termes linguistiques : elle rencontre des cas singuliers auxquels ces catégories et ces termes peuvent être appliqués.
+Une pratique descriptive rencontre des réalisations singulières qu'elle peut compter, comparer, désigner, catégoriser ou qualifier.
 
-Une confusion apparaît lorsque la description d'un cas singulier est assimilée à la catégorie qui permet de le regrouper avec d'autres cas, ou lorsque le mot utilisé pour le désigner est pris pour le cas lui-même.
+Le risque apparaît lorsque l'on confond :
 
-Dire :
-
-«« cette voiture »»
-
-désigne une occurrence singulière.
-
-Dire :
-
-«« voiture »»
-
-peut mobiliser une catégorie.
-
-Employer le mot « voiture » n'efface donc pas la singularité de l'occurrence à laquelle il est appliqué.
+- une réalisation avec le type dont elle relève ;
+- une occurrence linguistique avec le mot dont elle est une réalisation ;
+- un cas singulier avec la catégorie sous laquelle il est regroupé ;
+- ce qui est décrit avec la description qui lui est appliquée.
 
 Confusion à éviter
 
-- occurrence ≠ catégorie
-- occurrence ≠ mot
-- occurrence ≠ expérience
-- occurrence ≠ description
+«type ≠ occurrence
+mot ≠ occurrence linguistique
+catégorie ≠ occurrence
+description ≠ occurrence»
 
 Question d'enquête
 
-«Quel cas singulier une pratique descriptive est-elle en train de distinguer, qualifier ou regrouper ?»
+«De quoi cette réalisation est-elle une occurrence, et selon quel principe est-elle identifiée comme telle ?»
 
 ---
 
 Définition fonctionnelle
 
-«Une occurrence est un cas singulier rencontré ou traité par une pratique descriptive comme instance déterminée d'une description, d'une distinction ou d'une catégorie.»
+«Une occurrence est une réalisation singulière identifiable relativement à un type, une forme ou une catégorie dans une pratique déterminée.»
 
-L'occurrence constitue ainsi le pôle singulier auquel une opération descriptive peut être appliquée.
+Le terme est donc relationnel : une occurrence est toujours occurrence de quelque chose.
 
-Elle peut être :
+Cette définition permet de couvrir plusieurs usages :
 
-- observée ;
-- désignée ;
-- mesurée ;
-- catégorisée ;
-- comparée ;
-- qualifiée ;
-- décrite de plusieurs manières.
+- une occurrence linguistique est une réalisation particulière d'une forme ou d'un type linguistique ;
+- une occurrence d'un événement est une réalisation singulière d'un type d'événement ;
+- une occurrence relevant d'une catégorie est un cas particulier auquel cette catégorie est appliquée.
 
-Mais aucune de ces opérations ne se confond avec l'occurrence elle-même.
+Ces usages ne doivent pas être confondus.
 
-Précision
-
-L'occurrence n'est pas définie comme une « chose en soi » indépendante de toute pratique.
-
-Le concept sert à maintenir une distinction entre :
-
-«ce qui est singulièrement rencontré ou traité»
-
-et
-
-«la manière dont une pratique le décrit.»
-
-Une même occurrence peut donc faire l'objet de plusieurs descriptions sans que ces descriptions soient pour autant identiques.
-
-Inversement, plusieurs occurrences peuvent être regroupées sous une même catégorie sans devenir une seule occurrence.
-
-«La catégorie regroupe ; l'occurrence singularise.»
+«Une occurrence est singulière ; ce relativement à quoi elle est identifiée peut être général.»
 
 ---
 
 Distinctions constitutives
 
-Occurrence et catégorie
+Type
 
-«Occurrence ≠ catégorie»
+«Type ≠ occurrence»
 
-L'occurrence désigne le cas singulier.
+Le type fournit le principe relativement auquel plusieurs réalisations peuvent être reconnues comme du même genre.
 
-La catégorie organise un regroupement ou une distinction pertinente entre plusieurs occurrences.
+Dans le vocabulaire classique :
 
-Une occurrence peut relever d'une catégorie sans être identique à la catégorie.
+«type / token»
 
-«Cette voiture-ci est une occurrence ; « voiture » peut fonctionner comme catégorie.»
+Le token correspond à l'occurrence particulière du type.
 
-Occurrence et mot
+Mot
 
-«Occurrence ≠ mot»
+«Mot ≠ occurrence linguistique»
 
-Le mot est une ressource linguistique mobilisée pour désigner ou qualifier.
+Un mot peut être considéré comme une unité ou une forme linguistique.
 
-L'occurrence est le cas singulier auquel cette ressource peut être appliquée.
+Une occurrence linguistique est une réalisation particulière de cette forme dans un contexte déterminé.
 
-La présence du mot ne constitue donc pas l'occurrence.
+Dans :
 
-Occurrence et expérience
+«« Le chien aboie. Le chien court. »»
 
-«Occurrence ≠ expérience»
+« chien » apparaît deux fois : il s'agit de deux occurrences d'une même forme linguistique, selon le niveau d'analyse retenu.
 
-Une occurrence peut être perçue, imaginée, mesurée ou décrite dans une expérience.
+Catégorie
 
-Mais l'expérience correspond à ce qui est vécu, perçu ou imaginé dans une situation déterminée.
+«Catégorie ≠ occurrence»
 
-Une même occurrence peut donner lieu à des expériences différentes, et une expérience peut comporter plusieurs occurrences.
+Une catégorie permet de regrouper ou de distinguer des occurrences relativement à une différence pertinente.
 
-Occurrence et description
+«La catégorie regroupe ; l'occurrence singularise.»
 
-«Occurrence ≠ description»
+Description
 
-L'occurrence est ce à quoi une pratique descriptive peut appliquer une qualification.
+«Description ≠ occurrence»
 
-La description est une manière déterminée de la présenter, de la distinguer ou de la qualifier.
+Une occurrence peut recevoir plusieurs descriptions.
 
-«Description ≠ occurrence décrite.»
-
-Une modification de la description ne constitue donc pas nécessairement une modification de l'occurrence.
+Changer la description ne signifie donc pas, par là même, changer l'occurrence.
 
 ---
 
 Fonction dans l'enquête
 
-L'occurrence intervient lorsqu'une enquête doit :
+Le concept intervient lorsque l'enquête doit compter, comparer ou distinguer des réalisations particulières sans les confondre avec les types, catégories ou formes qui permettent de les identifier.
 
-1. isoler le cas singulier auquel porte une description ;
-2. distinguer ce cas des catégories ou descriptions qui lui sont appliquées ;
-3. comparer plusieurs cas sans les confondre avec le principe de leur regroupement.
+Il permet notamment de :
 
-Elle permet de rendre visible :
+- distinguer plusieurs réalisations d'un même type ;
+- comparer plusieurs occurrences d'une même catégorie ;
+- examiner différentes descriptions portant sur une même occurrence ;
+- distinguer une occurrence linguistique de l'unité linguistique dont elle constitue une réalisation.
 
-«la singularité du cas auquel une pratique descriptive applique une opération.»
-
-Elle permet ensuite de :
-
-«comparer différentes descriptions d'un même cas, examiner différentes applications d'une même catégorie et distinguer les transformations de la description des transformations de ce qui est décrit.»
-
-Cette fonction ne doit pas être confondue avec :
-
-- la définition d'une catégorie ;
-- la signification du mot employé ;
-- l'expérience vécue ;
-- la justification de la description ;
-- l'établissement d'une propriété intrinsèque.
+L'occurrence ne fournit donc ni la catégorie, ni la description, ni la justification de l'opération descriptive.
 
 ---
 
 Articulation avec la quadripartition
 
-L'occurrence concerne principalement Corps, Relation et Fonction.
+Cette notion peut concerner les quatre dimensions selon l'objet de l'enquête :
 
 Question| Ce que l'enquête examine
-Corps| la configuration corporelle et matérielle singulière considérée
-Relation| les relations dans lesquelles cette occurrence est rencontrée ou devient pertinente
-Fonction| la fonction descriptive pour laquelle l'occurrence est isolée
-Justification| les critères permettant de soutenir une description de cette occurrence
+Corps| la configuration matérielle ou corporelle singulière considérée
+Relation| les relations selon lesquelles cette réalisation est identifiée
+Fonction| la fonction pour laquelle elle est distinguée
+Justification| les critères permettant de soutenir son identification ou sa qualification
 
-La quadripartition ne constitue pas une structure ontologique de l'occurrence.
-
-Elle permet de distinguer le cas singulier des conditions matérielles dans lesquelles il apparaît, des relations dans lesquelles il est traité, de la fonction de sa description et des critères qui permettent de la justifier.
+La quadripartition sert ici à éviter qu'une condition d'identification soit confondue avec la fonction ou la justification de cette identification.
 
 «Corps ≠ Relation ≠ Fonction ≠ Justification.»
 
@@ -194,209 +142,120 @@ Articulation avec l'architecture
 
 Suppose
 
-- une situation dans laquelle un cas singulier peut être distingué ;
-- une pratique descriptive susceptible de porter sur ce cas.
+- une réalisation pouvant être distinguée ;
+- un principe de comparaison ou d'identification.
 
 Mobilise
 
-- la distinction singulier / regroupement ;
-- la distinction occurrence / description ;
-- éventuellement une catégorie ou une qualification.
+- type / occurrence ;
+- selon le cas, mot / occurrence linguistique ou catégorie / occurrence.
 
 Prépare
 
-- la catégorisation ;
-- la qualification ;
-- la comparaison entre cas ;
-- l'examen de différentes descriptions d'un même cas.
+- comptage ;
+- comparaison ;
+- catégorisation ;
+- qualification.
 
 Permet ensuite
 
-- d'étudier comment une occurrence est décrite ;
-- de comparer les catégories qui lui sont appliquées ;
-- de distinguer les transformations de la description des transformations de l'occurrence ;
-- d'examiner les conditions et critères d'une qualification.
+D'analyser séparément les réalisations particulières, les types auxquels elles sont rapportées et les catégories qui peuvent leur être appliquées.
 
 Ne remplace pas
 
-- la catégorie ;
+- le type ;
 - le mot ;
-- l'expérience ;
+- la catégorie ;
 - la description ;
-- la justification de la description.
+- l'expérience.
 
 ---
 
 Exemple directeur
 
-Cette voiture-ci
+Deux occurrences de « chien »
 
 Situation :
 
-Une personne voit un véhicule stationné devant elle et dit :
+«« Le chien aboie et le chien court. »»
 
-«« Cette voiture est rouge. »»
+Occurrence :
 
-Occurrence ou configuration :
+La forme « chien » apparaît deux fois dans l'énoncé.
 
-Le véhicule singulier auquel l'énoncé se rapporte constitue ici l'occurrence considérée.
+Distinction :
 
-Distinction mobilisée :
-
-L'occurrence est distinguée de la catégorie « voiture », du mot « voiture » et de la qualification « rouge ».
+Ces deux réalisations sont deux occurrences d'une même forme linguistique ; elles ne constituent pas deux mots différents au sens lexical pertinent.
 
 Fonction :
 
-Le concept d'occurrence permet de maintenir le caractère singulier du cas auquel ces différentes opérations descriptives sont appliquées.
+Le concept permet ici de compter et de distinguer les réalisations particulières d'une même forme.
 
 Limite :
 
-Identifier l'occurrence ne suffit pas à établir :
+Cette distinction ne détermine ni la catégorie mobilisée par « chien », ni la référence de chaque occurrence, ni l'expérience du locuteur.
 
-- qu'elle relève correctement de la catégorie « voiture » ;
-- que la qualification « rouge » est correcte ;
-- pourquoi elle est ainsi décrite ;
-- comment elle est vécue par l'observateur ;
-- quelles propriétés doivent être considérées comme constitutives de cette occurrence.
+«Le type peut être identique alors que ses occurrences sont multiples.»
 
-«L'occurrence est le cas singulier auquel une description s'applique ; elle n'est pas la description qui lui est appliquée.»
+Cas singulier
 
-Règle
+Le terme peut également être appliqué à un cas singulier relevant d'une catégorie : ce chien-ci peut être une occurrence de la catégorie « chien ».
 
-L'exemple doit maintenir la différence entre le cas singulier et les opérations descriptives qui portent sur lui.
+Il faut alors préciser qu'il ne s'agit plus d'une occurrence linguistique, mais d'un cas singulier catégorisé.
 
-Il ne doit pas transformer l'occurrence en « objet en soi » défini indépendamment de toute pratique descriptive.
+Cette précision évite de faire glisser deux usages du terme l'un dans l'autre.
 
 ---
 
 Limites
 
-Le concept n'établit pas, à lui seul :
+L'occurrence n'établit pas :
 
-- la nature ontologique de ce qui constitue l'occurrence ;
-- la catégorie sous laquelle elle doit être classée ;
-- la validité d'une description ;
-- la signification du terme qui la désigne ;
-- l'expérience vécue de cette occurrence ;
-- les critères justifiant une qualification.
+- la nature du type dont elle relève ;
+- la catégorie qui doit lui être appliquée ;
+- la signification du mot qui peut la désigner ;
+- la validité de sa description ;
+- sa référence ;
+- l'expérience qui lui est associée.
 
 Portée
 
-Le concept est pertinent dès qu'une enquête doit distinguer le cas singulier auquel porte une opération descriptive des catégories, mots, descriptions et expériences qui peuvent lui être associés.
-
-Il est particulièrement utile lorsqu'une même occurrence fait l'objet de descriptions différentes ou lorsqu'une même catégorie est appliquée à plusieurs occurrences.
+Le concept est pertinent chaque fois qu'une enquête doit maintenir la différence entre réalisation particulière et principe général d'identification.
 
 Hors périmètre
 
-L'occurrence ne constitue pas :
-
-- une théorie de l'objet ;
-- une théorie de l'individuation ;
-- une théorie de la perception ;
-- une théorie de la référence ;
-- une théorie de la substance.
-
-Ces questions nécessitent d'autres fonctions analytiques.
+Il ne constitue pas une théorie générale de l'individuation, de la référence, de la signification ou de l'expérience.
 
 ---
 
 Non-conversions
 
-Conversion principale
+Les conversions propres à cette page sont :
 
-«occurrence → catégorie»
+«type ≠ occurrence
+mot ≠ occurrence linguistique
+catégorie ≠ occurrence
+description ≠ occurrence»
 
-Le fait qu'une occurrence soit regroupée sous une catégorie ne signifie pas qu'elle se confonde avec cette catégorie.
+La conversion la plus importante est :
 
-Conversion secondaire
+«réalisation singulière → principe général»
 
-«description → occurrence»
-
-Une description ne doit pas être identifiée avec le cas singulier qu'elle décrit.
-
-Une modification descriptive n'implique donc pas automatiquement une modification de l'occurrence.
-
-Conversion complémentaire
-
-«occurrence → expérience»
-
-Le fait qu'une occurrence soit vécue ou perçue ne permet pas de la réduire à l'expérience qu'elle produit.
-
-Règle générale
-
-Pour cette page, les distinctions suivantes sont particulièrement importantes :
-
-«occurrence ≠ catégorie
-occurrence ≠ mot
-occurrence ≠ expérience
-occurrence ≠ description
-description ≠ objet décrit»
-
----
-
-Pathologies
-
-Catégorisation de l'occurrence
-
-Confusion :
-
-«occurrence → catégorie»
-
-Effet :
-
-Le cas singulier est traité comme s'il était identique au type sous lequel il est regroupé.
-
-La singularité de l'occurrence disparaît derrière la classification.
-
-Linguistisation de l'occurrence
-
-Confusion :
-
-«mot → occurrence»
-
-Effet :
-
-Le terme qui désigne un cas est pris pour le cas lui-même.
-
-La distinction entre ressource linguistique et ce à quoi elle s'applique disparaît.
-
-Réification de la description
-
-Confusion :
-
-«description → occurrence»
-
-Effet :
-
-La manière dont un cas est décrit est traitée comme une propriété immédiate du cas lui-même.
-
-Psychologisation de l'occurrence
-
-Confusion :
-
-«expérience → occurrence»
-
-Effet :
-
-Le cas singulier est réduit à la manière dont il est perçu, imaginé ou vécu.
+Une occurrence ne doit pas être transformée en type, catégorie ou forme générale par le simple fait qu'elle en relève.
 
 ---
 
 Règle d'audit
 
-L'audit de l'occurrence doit permettre de répondre à sept questions :
+Avant d'utiliser le terme, vérifier :
 
-1. Quelle fonction unique le concept d'occurrence accomplit-il ?
-2. Dans quelle situation d'enquête cette fonction devient-elle nécessaire ?
-3. Quelle singularité permet-il de maintenir ?
-4. Avec quelle notion risque-t-il d'être confondu ?
-5. Quelles dimensions de la quadripartition sont effectivement concernées ?
-6. Quelle conversion doit-il empêcher ?
-7. Quelle fonction de l'architecture dépend de cette distinction ?
+1. Quelle réalisation singulière est considérée ?
+2. De quoi est-elle une occurrence ?
+3. Le terme désigne-t-il une occurrence linguistique ou un cas singulier ?
+4. Quel type ou quelle catégorie permet de l'identifier ?
+5. Cette identification est-elle distinguée de sa description ?
 
-Règle propre au concept
-
-«Toujours distinguer le cas singulier auquel une description s'applique de la catégorie qui le regroupe, du mot qui le désigne, de l'expérience dans laquelle il apparaît et de la description qui le qualifie.»
+«Une occurrence doit toujours être déterminée relativement à ce dont elle est l'occurrence.»
 
 ---
 
@@ -404,35 +263,28 @@ Synthèse fonctionnelle
 
 Fonction
 
-Maintenir la singularité du cas auquel une pratique descriptive applique une opération.
+Distinguer une réalisation singulière du type, de la forme ou de la catégorie relativement auxquels elle est identifiée.
 
 Prépare
 
-La catégorisation, la qualification, la comparaison et l'analyse de différentes descriptions d'un même cas.
-
-Mobilise
-
-La distinction entre singularité, regroupement et description.
-
-Permet ensuite
-
-D'examiner comment une même occurrence peut être décrite de plusieurs manières et comment plusieurs occurrences peuvent être regroupées sous une même catégorie.
+Le comptage, la comparaison et la qualification de réalisations particulières.
 
 N'établit pas
 
-La nature ontologique du cas, sa catégorie correcte, la validité de sa description ou l'expérience qu'il produit.
+Le type, la catégorie, la signification, la référence ou la validité de la description.
 
 ---
 
 Principe retenu
 
-«Une occurrence est un cas singulier auquel une pratique descriptive peut appliquer différentes distinctions ; aucune de ces descriptions ne se confond avec l'occurrence elle-même.»
+«Une occurrence est une réalisation singulière ; elle n'est pas le type, la catégorie ou la forme relativement auxquels elle est identifiée.»
 
 ---
 
 Formule minimale
 
-«Occurrence = cas singulier auquel une pratique descriptive applique une distinction, une qualification ou une catégorie.»
+«Occurrence = réalisation singulière identifiable relativement à un type, une forme ou une catégorie.»
 
 ---
+
 
