@@ -1,3 +1,5 @@
+# Page : la-relation-n-est-pas-la-proriete-physique-de-la-chose.md
+
 La relation n’est pas la propriété physique de la chose
 
 «La relation n’est pas la propriété physique de la chose, et la fonction n’est pas la chose elle-même.»
