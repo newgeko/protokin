@@ -1,5 +1,3 @@
-# Page : temps.md
-
 Le temps
 
 «Notre accès empirique au temps est nécessairement médiatisé par des relations entre événements et processus physiques.»
@@ -12,29 +10,29 @@ Cette page ne cherche pas à déterminer ce qu'est le temps en soi, mais à pré
 
 La distinction est importante :
 
-«les conditions empiriques d'accès au temps ne constituent pas nécessairement une définition ontologique du temps.»
+«Les conditions empiriques d'accès au temps ne constituent pas nécessairement une définition ontologique du temps.»
 
 ---
 
 Mesurer le temps
 
-Aucune expérience ne consiste à isoler le temps lui-même pour en mesurer directement les propriétés.
+Une expérience ne mesure pas le temps indépendamment de tout processus physique.
 
 Nous mesurons des durées, des écarts, des périodes et des relations temporelles entre événements ou processus.
 
-Une horloge fournit à cette fin un processus physique régulier : oscillation, rotation, vibration, transition atomique, etc.
+Une horloge exploite à cette fin un processus physique régulier : oscillation, vibration, transition atomique, rotation, etc.
 
 Schématiquement :
 
-«événement A → processus de référence → événement B»
+«événement A → processus physique de référence → événement B»
 
-Le processus de référence permet de comparer l'intervalle séparant A et B.
+Le processus permet de comparer l'intervalle séparant A et B.
 
 Il ne s'agit donc pas nécessairement d'un déplacement dans l'espace. Le mouvement spatial n'est qu'un cas particulier parmi les processus susceptibles de servir de repère temporel.
 
 Le principe général est plutôt :
 
-«un processus physique régulier permet de quantifier une relation temporelle.»
+«Un processus physique régulier permet de quantifier une relation temporelle.»
 
 ---
 
@@ -46,7 +44,7 @@ Dire :
 
 «« A dure dix secondes »»
 
-suppose une comparaison entre l'évolution de A et un processus de référence.
+suppose une comparaison entre l'évolution de A et un processus physique servant de référence.
 
 De même :
 
@@ -145,15 +143,37 @@ Le temps fournit un cas particulièrement clair du principe général :
 
 «La relation n'est pas la propriété physique de la chose, et la fonction n'est pas la chose elle-même.»
 
-Une horloge possède des propriétés physiques déterminées. Elle acquiert une fonction de mesure temporelle dans un dispositif et selon des conventions et procédures déterminées.
+Une horloge possède des propriétés physiques déterminées. Elle peut exercer une fonction de mesure temporelle dans une pratique déterminée.
 
 De même, une relation temporelle entre deux événements ne devient pas pour autant une propriété physique intrinsèque de chacun d'eux.
 
 On peut donc distinguer :
 
-«propriété physique → relation temporelle → fonction de mesure»
+«processus physique → relation temporelle → fonction de mesure»
 
 sans convertir l'un de ces termes dans un autre.
+
+Le processus physique fournit le support matériel ; la relation temporelle est ce qui est comparé ou décrit ; la fonction de mesure appartient à la pratique dans laquelle le processus est utilisé comme référence.
+
+---
+
+Relativité et temps propre
+
+La relativité permet de préciser cette distinction.
+
+Deux horloges peuvent suivre des trajectoires différentes et, lorsqu'elles sont ensuite comparées, avoir enregistré des durées différentes.
+
+L'expérience ne consiste pas à observer directement « le temps qui se dilate ».
+
+Elle consiste à comparer les processus physiques des horloges.
+
+La théorie relativiste décrit cette différence au moyen de la structure de l'espace-temps et du temps propre associé à chaque trajectoire.
+
+La mesure empirique et la formalisation théorique doivent donc être distinguées :
+
+«processus physique → comparaison expérimentale → relation temporelle mesurée → formalisation théorique»
+
+La structure en quatre dimensions de l'espace-temps est une construction théorique physiquement contrainte par les relations mesurées ; elle n'est pas elle-même un objet observé comme une quatrième direction spatiale.
 
 ---
 
@@ -173,7 +193,7 @@ Elle n'établit pas que le temps est :
 
 Elle établit une proposition plus limitée :
 
-«l'expérience empirique du temps passe par la comparaison et l'ordonnancement d'événements et de processus physiques.»
+«L'expérience empirique du temps passe par la comparaison et l'ordonnancement d'événements et de processus physiques.»
 
 La question de savoir si cette structure révèle la nature même du temps relève d'une enquête ontologique supplémentaire.
 
@@ -189,6 +209,6 @@ Ainsi :
 
 «Nous n'observons jamais le temps lui-même : nous observons des relations temporelles entre des événements et des processus physiques.»
 
-Cette proposition décrit notre accès empirique au temps sans préjuger de son statut ontologique.
+Cette condition empirique d'accès ne préjuge pas, à elle seule, du statut ontologique de la structure temporelle décrite par la théorie.
 
 «Accès relationnel au temps ne signifie pas nécessairement ontologie relationnelle du temps.»
