@@ -172,13 +172,13 @@ L'architecture conceptuelle de Protokin n'est pas une pyramide ontologique ou un
 Cette structure s'analyse comme un réseau sans centre (décentré) régi par des boucles de rétroaction et des dépendances fonctionnelles réciproques :
 
 ```
-               COUPLAGE SOMATIQUE (PROTO / Espace des causes)
+               COUPLAGE SOMATIQUE (PROTO / configuration corporelle et matérielle)
                                       │
                                       ▼
                MÉDIATIONS MATÉRIELLES (Trace / Supports / Inscriptions)
                                       │
                                       ▼
-               SCOREKEEPING DÉONTIQUE (KIN / Espace des raisons)
+               SCOREKEEPING DÉONTIQUE (KIN / Ensemble de pratiques descriptives, normatives et justificatoires)
                                       │
                                       ▼
                BOUCLE DE RÉTROACTION (Sédimentation / Effet cliquet)
