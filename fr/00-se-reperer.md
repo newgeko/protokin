@@ -1,203 +1,150 @@
-# Page : 00-se-reperer.md
+# Page : 00-cadre-et-delimitation.md
 
-00 — Se repérer — Présentation et rôle de la section d'orientation
+00 — Cadre et délimitations
 
-Analyse architecturale de la page
+Fonction
 
-1. Fonction unique de la page
+Cette section constitue le point d'entrée de Protokin.
 
-Cette page existe pour présenter la section « 00 — Se repérer » et définir son rôle de matrice d'orientation d'ensemble du projet Protokin. Elle prépare le lecteur au déplacement fondamental de la métathéorie (passer de l'étude du mouvement des objets à l'étude du mouvement des descriptions) et lui fournit la clé d'interprétation de la table des matières et des parcours de lecture.
+Elle ne cherche pas encore à décrire un domaine particulier, ni à établir une théorie du réel. Elle définit le cadre dans lequel une pratique descriptive peut devenir l'objet d'une enquête.
 
-2. Choix du mode de développement
+Le point de départ n'est donc pas une chose à connaître, une réalité à représenter ou une ontologie à établir.
 
-· Mode retenu : Mode A — Développement conceptuel.
-· Justification : Bien que la page introduise la méthode d'appropriation de l'ouvrage, elle a pour objectif d'installer la fonction d'orientation comme catégorie de second ordre, d'en formaliser les propriétés relationnelles (la boussole de lecture) et d'installer l'économie de la transition cognitive requise pour entrer dans le projet, en la distinguant d'une simple introduction thématique.
+Le point de départ est un problème de description.
 
-3. Problème conceptuel
+Une description peut fonctionner dans une pratique, permettre certaines distinctions, orienter certaines actions ou soutenir certaines justifications, puis devenir insuffisante, contestée ou incompatible avec d'autres descriptions.
 
-Comment orienter et repérer le lecteur à l'entrée d'une métathéorie pragmatiste, inférentialiste et non-ontologique sans reproduire clandestinement l'illusion dogmatique d'un point de vue de surplomb absolu ou d'un savoir déjà clos, de manière à situer d'emblée la démarche comme une enquête située, révisable et pragmatiquement contrainte ?
+L'enquête commence lorsque cette situation demande à être reconstruite.
 
-4. Objet propre
+Protokin cherche alors à déterminer :
 
-· Cette page traite de : la présentation de la section 00 en tant que sas d'entrée méthodologique, la justification de l'ordre d'exposition de l'ouvrage (de la rencontre avec le milieu aux rituels d'audit et de réflexivité), et la logique des différents parcours de lecture.
-· Cette page ne traite pas de : l'introduction philosophique générale prise pour elle-même (réservée à introduction-generale.md), le statut de non-ontologie (réservé à statut-du-projet.md), ni la définition du nom (réservée à nom-origine-portee.md).
+- ce qui est effectivement distingué ;
+- dans quelles conditions ces distinctions peuvent fonctionner ;
+- quelles fonctions elles accomplissent ;
+- comment elles sont soutenues, discutées ou contestées ;
+- comment elles se transforment au cours d'une trajectoire ;
+- et quelles confusions de fonction doivent être évitées pour préserver leur intelligibilité.
 
-5. Statut conceptuel
+Protokin ne décrit donc pas un domaine supplémentaire.
 
-Texte chapeau et boussole d'orientation d'ensemble, appartenant à la section 00 — Se repérer.
-
-6. Dépendances fonctionnelles
-
-Cette page suppose :
-
-· La table des matières globale (table-des-matieres.md).
-
-Cette page rend possible :
-
-· L'accès aux briques d'orientation de la section 00 (introduction-generale.md, protokin-en-une-phrase.md, statut-du-projet.md, nom-origine-portee.md, parcours-de-lecture.md).
-· Le déploiement des principes fondamentaux (01-principes-fondamentaux.md).
-· La mise en mouvement de l'architecture fonctionnelle (architecture-fonctionnelle.md).
-
-7. Frontières conceptuelles
-
-00 — Se repérer et Introduction générale
-
-La différence porte sur la portée du cadrage. 00 — Se repérer présente l'organisation de l'ouvrage, le rôle de la section 00 et la méthode d'appropriation du carnet par le lecteur. L'Introduction générale déploie quant à elle le cœur de la thèse philosophique, le diagnostic historique sur l'illusion référentielle et le couplage immanent entre PROTO et KIN.
-
-8. Architecture locale
-
-```
-                      TABLE DES MATIÈRES GLOBALE (table-des-matieres.md)
-                                         │
-                                         ▼
-                             00 — SE REPÉRER (00-se-reperer.md)
-                                         │
-                    ┌────────────────────┴────────────────────┐
-                    ▼                                         ▼
-       Briques d'Orientation (00)              Principes Fondamentaux (01)
-   (Introduction, Phrase, Statut, Nom)      (Le primat du couplage, etc.)
-```
+«Protokin enquête sur les conditions dans lesquelles des pratiques rendent quelque chose descriptible.»
 
 ---
 
-Cartouche fonctionnel
+Le déplacement initial
 
-Élément Description
-Section 00 — Se repérer
-Fichier 00-se-reperer.md
-Fonction Présenter la section 00 et définir son rôle de boussole et de sas d'entrée méthodologique pour l'ensemble de l'ouvrage.
-Prépare L'introduction générale, la définition synthétique en une phrase, l'explicitation du statut du projet, la portée du nom et les parcours de lecture.
-Mobilise La table des matières globale, la logique des dépendances fonctionnelles et la dynamique de l'enquête.
-Permet ensuite D'accéder de manière ordonnée et progressive aux principes fondateurs, aux fondements descriptifs et à la méthode d'audit de second ordre.
-N'établit pas L'introduction philosophique générale, la délimitation du statut non-ontologique, ni l'histoire conceptuelle du nom Protokin.
+Une description n'est jamais prise ici comme un accès transparent à son objet.
 
----
+Cela ne signifie pas qu'elle serait arbitraire, purement conventionnelle ou détachée de toute contrainte.
 
-Problème conceptuel inaugural
+Une pratique descriptive est prise dans des dépendances : elle rencontre des contraintes corporelles et matérielles, s'inscrit dans des relations, accomplit certaines fonctions et engage des formes de justification.
 
-Toute métathéorie qui prend pour objet d'étude les connaissances, les sciences et les discours collectifs s'expose à un risque d'asymétrie épistémologique majeure : celui d'imposer un cadre d'analyse rigide de l'extérieur sans expliciter les conditions de sa propre dicibilité. Si elle se présente comme un recueil de définitions closes ou comme un système philosophique dogmatique, elle contredit le principe même de révisabilité et d'humilité qu'elle prétend instituer.
+Mais ces dimensions ne doivent pas être confondues.
 
-Dès lors, la question se pose :
+Une contrainte n'est pas encore une justification.
 
-Comment orienter et repérer le lecteur à l'entrée de Protokin sans reproduire clandestinement l'illusion d'un point de vue de surplomb absolu, de manière à ce que la boussole d'orientation fonctionne comme un instrument d'appropriation active et d'enquête située au présent de l'usage ?
+Une relation n'est pas encore une fonction.
 
-Protokin résout cette difficulté en érigeant la section 00 — Se repérer non comme une introduction passive, mais comme une matrice d'orientation et de réflexivité immanente. Cette section n'expose pas des vérités définitives ; elle fournit les coordonnées méthodologiques (la boussole) qui permettent au lecteur de comprendre ce qu'il est en train de lire avant d'entrer dans la théorie, de mesurer le coût logique des distinctions qu'il s'apprête à manipuler et de tracer ses propres parcours au sein du réseau de dépendances fonctionnelles de Protokin.
+Une fonction n'est pas encore un critère de validité.
 
----
+Une description n'est pas identique à ce qu'elle décrit.
 
-Définition fonctionnelle
+L'enquête doit donc pouvoir suivre les dépendances entre ces dimensions sans les convertir les unes dans les autres.
 
-Dans l'architecture de Protokin, la section 00 — Se repérer se définit comme :
-
-Le sas d'entrée méthodologique et l'opérateur d'orientation de second ordre par lequel le lecteur suspend ses habitudes de pensée représentationnalistes pour s'approprier les coordonnées fondatrices du projet, appréhender la table des matières comme un réseau de dépendances fonctionnelles et choisir son itinéraire d'apprentissage au sein des plans d'explication matériels (PROTO) et normatifs (KIN).
-
-Cette définition met en lumière que se repérer est une performance active :
-
-· Une rupture avec l'illusion référentielle : Elle installe d'emblée le déplacement qui consiste à passer de la question substantielle (« Qu'est-ce que le réel ? ») à la question relationnelle (« Sous quelles conditions quelque chose devient-il descriptible ? »).
-· Une cartographie des dépendances : Elle refuse de juxtaposer arbitrairement les concepts ; elle montre que chaque brique n'acquiert sa valeur que par les relations qu'elle entretient avec les autres nœuds de l'armature.
-· Une invitation à l'enquête : Elle ne livre pas un dogme ; elle s'offre elle-même comme un construit situé, révisable et soumis au contre-audit.
+C'est cette exigence qui commandera l'architecture qui suit.
 
 ---
 
-Les trois dimensions de la fonction d'orientation
+Sortir du donné sans nier la contrainte
 
-La section 00 structure ses briques constitutives autour de trois fonctions complémentaires de second ordre :
+Le refus du « donné » ne consiste pas à nier qu'une pratique rencontre quelque chose qui lui résiste.
 
-```
-                                FONCTIONS D'ORIENTATION
-                                           │
-            ┌──────────────────────────────┼──────────────────────────────┐
-            ▼                              ▼                              ▼
-    La Transition Cognitive         La Cartographie Dynamique       La Plasticité des Parcours
-(Rupture avec le représentationnel) (Dépendances fonctionnelles)   (Itinéraires personnalisés)
-```
+Il consiste à refuser l'inférence selon laquelle ce qui résiste serait, par lui-même, déjà organisé sous la forme d'une description, d'une catégorie ou d'une justification.
 
-1. La transition cognitive (SAS)
+Une situation peut imposer une résistance.
 
-Pour entrer dans Protokin, le lecteur doit abandonner l'illusion de transparence qui traite les descriptions comme des copies passives du monde. Les briques d'orientation de la section 00 opèrent ce nettoyage de premier ordre :
+Elle ne fournit pas pour autant, à elle seule, le vocabulaire dans lequel cette résistance doit être décrite, la fonction qu'elle doit recevoir ou la justification qui permettra de l'utiliser comme argument.
 
-· L'Introduction générale et la Formule synthétique définissent la posture non-ontologique de la métathéorie.
-· Elles démontrent que l'accès au réel suppose toujours l'épaisseur de supports matériels, de catégories historiques et de rituels publics de justification, déplaçant notre attention du mouvement des objets au mouvement des descriptions.
+L'enquête porte précisément sur ces opérations de différenciation.
 
-2. La cartographie des dépendances fonctionnelles (BOUSSOLE)
+Ainsi, Protokin ne choisit pas entre :
 
-Se repérer exige de comprendre l'unité de l'ouvrage. La section 00 montre que l'ordre des chapitres n'est pas thématique mais fonctionnel :
+- un monde entièrement donné que le langage ne ferait que représenter ;
+- un monde entièrement construit par les pratiques descriptives.
 
-· 01 — Principes fondamentaux : pose les engagements philosophiques d'amont.
-· 03 — Fondements descriptifs : définit ce qu'est une description et ses conditions de possibilité matérielles.
-· 04 — Pratiques descriptives : étudie le fonctionnement de premier ordre au présent d'usage.
-· 05 à 07 — Dynamique, Temporalité, Explication : décrivent l'évolution et les modes d'intelligibilité des régimes.
-· 08 et 09 — Méthode et Réflexivité : fournissent les rituels d'audit et d'auto-application de second ordre.
-
-3. La plasticité des parcours (CARTE)
-
-Fidèle au pragmatisme, Protokin refuse l'idée d'un point d'entrée unique et absolu dans la théorie. La section 00 offre ainsi plusieurs parcours de lecture adaptés aux disciplines et aux objectifs des enquêteurs :
-
-· Le parcours découverte : pour saisir rapidement l'armature globale.
-· Le parcours méthodologique : pour s'armer immédiatement des outils d'audit de terrain.
-· Le parcours philosophique ou sciences humaines : pour approfondir la filiation inférentialiste et les dynamiques de reproduction collective des normes.
+Il déplace la question vers les conditions de fonctionnement des descriptions.
 
 ---
 
-Distinctions conceptuelles nécessaires
+Une matrice, non une genèse
 
-Pour préserver la clarté méthodologique de l'audit, l'orientation de second ordre doit être rigoureusement distinguée des concepts voisins :
+Pour éviter qu'une telle enquête ne reconstitue subrepticement une hiérarchie entre le matériel, le relationnel, le fonctionnel et le normatif, Protokin adopte une matrice d'orientation :
 
-Se repérer (Section 00) et Expliquer (Section 07)
+«Corps ↔ Relation ↔ Fonction ↔ Justification»
 
-La différence porte sur le niveau d'évaluation. Se repérer est une opération d'orientation méthodologique d'amont ; elle présente la carte de l'ouvrage et prépare les conditions de lecture. Expliquer est une opération descriptive de premier et second ordre qui intervient au cœur de la théorie pour articuler l'espace des causes (PROTO) et l'espace des raisons (KIN) face à une situation problématique.
+Ces quatre questions doivent être distinguées :
 
-Boussole d'orientation (Section 00) et Guide d'écriture (Section 00)
+- Corps : dans quelle configuration corporelle et matérielle ?
+- Relation : sous quelles relations ?
+- Fonction : pour quelle fonction ?
+- Justification : sous quelle justification ?
 
-La différence s'établit selon la position de l'agent. La boussole d'orientation s'adresse au lecteur qui découvre l'architecture construite et cherche à s'y repérer selon ses besoins d'enquête. Le guide d'écriture s'adresse à l'auteur et définit les règles de sédimentation documentaire (comme la règle de non-substitution) nécessaires pour garantir que chaque page n'établisse qu'un seul concept sans redondance.
+Aucune réponse à l'une de ces questions ne vaut, par elle-même, réponse aux trois autres.
 
----
+La quadripartition ne constitue donc ni quatre niveaux du réel, ni quatre étapes de formation d'une description, ni quatre composantes d'un même objet.
 
-Éclairage par les fils rouges pédagogiques
+Elle constitue une grille d'enquête et d'audit.
 
-La fonction d'orientation de la section 00 est indispensable pour aborder l'ensemble des études cliniques du projet :
-
-1. Le vélo rouge
-
-Sans le repérage de la section 00, dire « le vélo est rouge » est vu comme l'enregistrement passif d'une propriété chromatique brute. La section 00 oriente le regard : elle prépare le lecteur à voir dans cette prédication ordinaire une opération située, soutenue par un support somatique d'observation (l'œil) et un couplage actif avec le milieu (plan PROTO), qui coexiste légitimement avec sa traduction scientifique quantitative en longueur d'onde (image scientifique, plan KIN).
-
-2. Le patient aux urgences hospitalières
-
-Face au triage complexe aux urgences, l'analyste risque de se perdre dans la description des conflits d'acteurs de premier ordre. La section 00 fournit la boussole : elle montre que la clé du trouble réside dans la friction entre trois régimes descriptifs hétérogènes (clinique, biomédical, logistico-comptable), préparant l'enquêteur à auditer l'injustice testimoniale subie par le patient sans réduire l'analyse à une simple critique morale de l'administration.
-
-3. Le botaniste et le bûcheron face à l'arbre
-
-La confrontation de leurs savoirs sur la forêt peut sembler n'être qu'un conflit d'opinions privées ou de statuts sociaux. En passant par la section 00, l'enquêteur apprend à traiter cette situation comme la coexistence de deux régimes d'intelligibilité également valides, adossés à des supports d'inscription différents (le savoir incorporé de l'artisan contre le savoir formalisé de l'université), ouvrant la voie à leur hybridation par connecteur de traduction.
-
-4. « Cette personne est mauvaise » / « Cette personne est dangereuse »
-
-La qualification de déviance fige spontanément l'individu sous une essence immuable. La section 00 donne la coordonnée critique : elle prépare la déconstruction de ce verrouillage en montrant que l'énoncé commet une erreur de catégorie majeure, convertissant indûment un statut d'imputation normative relative (plan KIN) en une propriété biologique permanente (plan PROTO réifié).
+Elle permet de suivre les dépendances entre plusieurs dimensions d'une pratique tout en maintenant leur différence fonctionnelle.
 
 ---
 
-Limites et vigilances d'usage (Pitfalls)
+Une architecture ouverte
 
-Lors de l'utilisation de cette brique d'orientation, l'enquêteur doit surveiller deux pièges méthodologiques critiques :
+L'ordre des sections de Protokin ne doit pas être compris comme une chaîne de fondation.
 
-· Le piège de la contemplation passive (L'illusion du manuel) : Traiter la section 00 comme un guide d'instructions scolaires ou un dogme fermé qu'il faudrait appliquer de manière mécanique. Se repérer est un acte d'enquête : la boussole ne vaut que par son utilité pratique pour orienter l'action et clarifier les situations réelles de terrain.
-· La jargonisation de premier contact : S'enfermer dès l'entrée dans une sur-conceptualisation technique (le jargon pour lui-même) qui masquerait l'enracinement somatique et pragmatique de Protokin. L'orientation doit rester pédagogique et sobre, rappelant toujours que les concepts les plus denses de second ordre ne sont là que pour libérer et éclairer les pratiques ordinaires de premier ordre.
+Il indique un ordre fonctionnel d'exposition.
 
----
+L'enquête commence par la délimitation du problème, installe ensuite sa matrice d'orientation, approfondit les différentes dimensions pertinentes, examine leur transformation temporelle, traite les opérations d'explication et d'audit, puis éprouve ses distinctions dans des cas, des filiations et des prolongements.
 
-Synthèse finale
+Cet ordre peut être repris lorsque l'enquête l'exige.
 
-Ce que cette page établit
+Une distinction peut être précisée.
 
-La présentation systématique de la section 00 — Se repérer en tant que sas d'orientation et boussole d'ensemble du projet, formalisant son rôle de transition cognitive, de cartographie des dépendances et de guide des parcours de lecture.
+Une dépendance peut être reconstruite autrement.
 
-Ce qu'elle suppose
+Une fonction peut être révisée.
 
-La table des matières complète de Protokin, décrivant la progression logique des treize sections de l'ouvrage.
+Un cas peut obliger à modifier une catégorie.
 
-Ce qu'elle rend possible
-
-Le déploiement des briques d'orientation de second plan (l'Introduction générale, Protokin en une phrase, le Statut du projet, le Nom, origine et portée, et le Parcours de lecture), ouvrant la voie à l'établissement des principes fondamentaux et de la méthode d'audit immanent.
+La possibilité de révision n'est donc pas extérieure à l'architecture : elle appartient à son fonctionnement.
 
 ---
 
-Protokin 2026 — version 26.08.081
+Fonction de la section 00
+
+La section 00 établit ainsi les coordonnées minimales de l'enquête.
+
+Elle précise :
+
+- ce que Protokin prend pour problème ;
+- ce qu'il refuse de présupposer ;
+- pourquoi une description ne peut être traitée comme un donné transparent ;
+- pourquoi les dimensions de l'enquête doivent être distinguées sans être séparées ontologiquement ;
+- et selon quel ordre fonctionnel l'architecture va être déployée.
+
+Elle ne développe pas encore les contraintes corporelles, les cadres relationnels, les fonctions descriptives, les justifications, la temporalité ou les procédures d'audit.
+
+Ces fonctions appartiennent aux sections suivantes.
+
+Synthèse
+
+«Protokin ne commence pas par déterminer ce qu'est le réel.
+
+Il commence par délimiter le problème dans lequel une pratique descriptive doit être reconstruite.»
+
+La question directrice est alors :
+
+«Comment une pratique rend-elle des différences descriptibles, discutables, justifiables, stabilisables, contestables et transformables ?»
+
+Cette question ouvre l'enquête sans préjuger de la réponse.
