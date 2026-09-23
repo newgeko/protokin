@@ -1,804 +1,627 @@
-# Page : quadripartition-fondamentale.md
-
 # Quadripartition fondamentale
 
-## 1. Fonction de la page
+## Fonction
 
-Cette page établit la **quadripartition fondamentale** de Protokin comme une **matrice méthodologique d'audit**.
+La quadripartition fondamentale constitue l'une des matrices d'orientation de Protokin.
 
-Elle distingue quatre dimensions à partir desquelles une pratique descriptive peut être examinée :
+Elle distingue quatre questions irréductibles pour l'enquête :
 
-- **Le corps dans le milieu** ;
-- **La relation** ;
-- **La fonction** ;
-- **La justification**.
+> «Corps — dans quelles conditions corporelles et matérielles ?
+> Relation — sous quelles relations ?
+> Fonction — que fait cette configuration dans la pratique ?
+> Justification — selon quels critères peut-elle être défendue, contestée ou révisée ?»
 
-Cette quadripartition ne constitue ni une ontologie en quatre niveaux, ni une genèse chronologique allant de la matière vers l'esprit, ni une succession de substances.
+Ces quatre questions permettent d'examiner une même pratique sans réduire une détermination à une autre.
 
-Elle définit un **ordre logique de questions d'enquête**.
+La quadripartition n'est :
 
-Un auditeur peut ainsi examiner une description en demandant successivement :
+- ni une ontologie en quatre niveaux ;
+- ni une théorie de la constitution des objets ;
+- ni une succession de phases ;
+- ni une généalogie allant de la matière vers le langage ou la norme ;
+- ni une classification exhaustive de tout ce qui existe.
 
-1. Quelles conditions corporelles et matérielles sont engagées ?
-2. Quelles relations sont établies ou transformées ?
-3. Quelles fonctions ces relations remplissent-elles dans une pratique ?
-4. Selon quelles raisons et quels critères cette pratique est-elle tenue pour correcte ou recevable ?
-
-La quadripartition constitue donc une **grille de différenciation**, non une échelle de l'être.
-
----
-
-## 2. La quadripartition comme matrice d'enquête
-
-La structure fondamentale peut être représentée ainsi :
-
-$$ \boxed{ \text{Corps dans le milieu} \;\leftrightarrow\; \text{Relation} \;\leftrightarrow\; \text{Fonction} \;\leftrightarrow\; \text{Justification} } $$
-
-Les flèches ne désignent pas une production causale linéaire.
-
-Elles indiquent que ces dimensions peuvent être articulées dans une même trajectoire de pratique, chacune pouvant contraindre, reconfigurer ou rendre révisable les autres sans se convertir en elles.
-
-La question protokinienne n'est donc pas :
-
-$$ \text{Comment le corps produit-il la raison ?} $$
-
-mais :
-
-$$ \text{Comment une pratique articule-t-elle des conditions corporelles, des relations, des fonctions et des justifications ?} $$
-
-Cette reformulation est décisive.
-
-Elle déplace l'enquête d'une recherche de fondement ontologique vers une analyse des médiations fonctionnelles et normatives.
+Elle est une **distinction fonctionnelle de l'enquête**.
 
 ---
 
-## 3. Première dimension — Le corps dans le milieu
+## Problème
 
-### 3.1. L'ancrage somatique et matériel
+Toute enquête portant sur une pratique descriptive rencontre des déterminations hétérogènes.
 
-La première dimension concerne l'organisme comme **corps engagé dans un milieu**.
+Une pratique est matériellement réalisée. Elle engage des corps, des supports et des contraintes.
+
+Elle établit des relations.
+
+Ces relations peuvent avoir certaines fonctions dans la pratique.
+
+Les descriptions ainsi produites peuvent ensuite être soumises à des critères, des engagements, des contestations et des procédures de révision.
+
+Le problème apparaît lorsque ces déterminations sont confondues.
+
+Une condition corporelle peut alors être traitée comme une justification.
+
+Une relation peut être assimilée à une propriété physique de la chose.
+
+Une fonction peut être transformée en propriété intrinsèque.
+
+Une justification peut être interprétée comme une cause.
+
+La difficulté fondamentale est donc :
+
+> «Comment distinguer les déterminations d'une pratique sans les isoler, et les articuler sans les convertir les unes dans les autres ?»
+
+La quadripartition répond à cette difficulté.
+
+---
+
+## 1. Quatre questions, une même enquête
+
+La quadripartition peut être formulée ainsi :
+
+| Dimension | Question directrice |
+|---|---|
+| **Corps** | Dans quelles conditions corporelles et matérielles cette pratique est-elle possible ? |
+| **Relation** | Quelles relations sont établies, transformées ou maintenues ? |
+| **Fonction** | Que font ces configurations dans la pratique ? |
+| **Justification** | Selon quels critères leurs descriptions et leurs engagements peuvent-ils être défendus, contestés ou révisés ? |
+
+Ces questions portent sur une même situation.
+
+Elles ne désignent donc pas quatre objets différents.
+
+Elles ne constituent pas non plus quatre réponses successives à une même question.
+
+Elles maintiennent quatre fonctions d'analyse qui doivent rester distinguables.
+
+Une même pratique peut ainsi être examinée simultanément sous ses conditions corporelles, ses relations, ses fonctions et ses conditions de justification.
+
+---
+
+## 2. Le Corps
+
+La dimension du Corps concerne les conditions corporelles et matérielles dans lesquelles une pratique peut effectivement avoir lieu.
 
 Elle comprend notamment :
 
-- les conditions matérielles ;
-- les contraintes énergétiques ;
+- les configurations corporelles ;
 - les capacités sensorielles et motrices ;
-- les traces physiques ;
+- les contraintes matérielles ;
+- les supports ;
+- les infrastructures ;
+- les traces ;
 - les butoirs du milieu ;
-- les supports corporels ;
-- les infrastructures matérielles ;
-- la niche écologique ;
-- les transformations somatiques.
+- les conditions énergétiques ;
+- les habitudes incorporées ;
+- les possibilités et résistances rencontrées par l'organisme.
 
-Le corps n'est pas ici un objet isolé placé devant un environnement.
+Le corps n'est pas ici conçu comme une substance séparée du milieu.
 
-Il est décrit comme une **configuration d'interactions**.
+Il est examiné dans les conditions matérielles de son engagement.
 
-On peut schématiser :
+Mais cette dimension ne permet pas, à elle seule, de déterminer la fonction d'une configuration ou la justification d'une description.
 
-$$ \text{corps} \leftrightarrow \text{milieu}. $$
+Une même configuration matérielle peut participer à des pratiques différentes.
 
-Cette dimension constitue l'un des ancrages du régime descriptif.
-
-Elle permet notamment d'éviter qu'une description normative ou symbolique soit traitée comme si elle pouvait fonctionner indépendamment de toute condition matérielle.
-
-### 3.2. Le corps n'explique pas la justification
-
-L'ancrage matériel ne doit cependant pas être converti en explication normative.
-
-Le fait qu'une capacité corporelle soit nécessaire à une pratique ne suffit pas à déterminer :
-
-- ce qu'un locuteur affirme ;
-- ce qu'il devrait affirmer ;
-- ce qui constitue une bonne raison ;
-- ce qui rend une assertion recevable ;
-- ce qui justifie une conclusion.
+Inversement, une même fonction peut être réalisée à travers des configurations matérielles différentes.
 
 Ainsi :
 
-$$ \boxed{ \text{condition corporelle} \neq \text{justification} } $$
+> «condition corporelle ≠ fonction»
 
-Une configuration neurophysiologique peut être une condition causale d'une performance sans constituer une raison de considérer cette performance comme correcte.
+et :
 
-C'est l'une des formes fondamentales de **non-conversion**.
+> «incarnation ≠ réduction biologique»
+
+Le corps fournit des conditions, des capacités et des contraintes.
+
+Il ne fournit pas, à lui seul, les critères selon lesquels une description est correcte ou justifiable.
 
 ---
 
-## 4. Deuxième dimension — La relation
+## 3. La Relation
 
-### 4.1. De la propriété à la relation
+La dimension de la Relation concerne les mises en rapport et les transformations relationnelles dans lesquelles une configuration intervient.
 
-La deuxième dimension concerne les **relations** qui permettent à un organisme ou à une communauté de reconfigurer ce qui compte comme pertinent dans une situation.
+Une relation n'est pas simplement une propriété physique supplémentaire de la chose.
 
-Elle comprend notamment :
+Elle désigne une configuration dans laquelle certains éléments deviennent pertinents les uns relativement aux autres pour une pratique donnée.
 
+Cette dimension permet notamment d'examiner :
+
+- les mises en rapport ;
 - les discriminations ;
-- les coordinations ;
-- les oppositions ;
-- les comparaisons ;
-- les classifications ;
-- les relations temporelles ;
-- les relations spatiales ;
-- les relations causales ;
-- les relations entre relations ;
-- les cadres relationnels arbitrairement applicables.
+- les dépendances ;
+- les transformations relationnelles ;
+- les configurations sémiotiques ;
+- les apprentissages relationnels ;
+- les changements de fonction produits par une modification de la relation.
 
-La relation permet de ne pas limiter l'activité aux propriétés physiques immédiatement présentes.
+La relation ne doit cependant pas être transformée en principe ontologique selon lequel les relations constitueraient nécessairement les termes qu'elles mettent en rapport.
 
-On peut ainsi avoir :
+Protokin n'a pas besoin d'une telle thèse.
 
-$$ A \;R\; B $$
+Il suffit à l'enquête de constater que les termes d'une relation peuvent être décrits différemment selon la configuration relationnelle dans laquelle ils interviennent.
 
-sans que \(R\) soit déterminée par une ressemblance ou une propriété physique directe de \(A\) et \(B\).
+Ainsi :
 
-### 4.2. La RFT dans cette dimension
+> «la relation n'est pas la propriété physique de la chose.»
 
-La **Relational Frame Theory** peut être mobilisée ici comme ressource empirique pour analyser certaines formes de transformation relationnelle.
+Elle ne se confond pas non plus avec la fonction qu'elle peut remplir.
 
-Elle permet notamment d'étudier comment des relations arbitrairement applicables peuvent transformer les fonctions de stimulus.
+Une relation peut rendre certaines opérations possibles sans déterminer à elle seule la manière dont elles seront effectivement utilisées.
 
-On peut schématiser :
+Donc :
 
-$$ A \;R\; B $$
-$$ \Downarrow $$
-$$ C_{func}(A) \rightarrow C'_{func}(A). $$
-
-La relation modifie alors la fonction avec laquelle un élément intervient dans une activité.
-
-La RFT n'est donc pas placée comme un quatrième niveau ontologique entre le corps et la raison.
-
-Elle constitue une **ressource d'analyse des transformations relationnelles**.
+> «relation ≠ fonction»
 
 ---
 
-## 5. Troisième dimension — La fonction
+## 4. La Fonction
 
-### 5.1. La fonction comme opérativité
+La dimension de la Fonction concerne ce qu'une configuration permet effectivement de faire dans une pratique.
 
-La troisième dimension concerne ce que les configurations corporelles et relationnelles permettent effectivement de **faire** dans une pratique.
+La fonction n'est pas une propriété intrinsèque de la chose.
 
-La fonction ne désigne pas une propriété cachée d'un objet.
+Elle dépend de la manière dont une configuration intervient dans une activité déterminée.
 
-Elle désigne le **rôle** qu'une configuration joue dans une trajectoire d'activité.
+Une même configuration matérielle ou relationnelle peut ainsi recevoir des fonctions différentes selon les pratiques dans lesquelles elle est engagée.
 
-On peut écrire :
+La fonction permet notamment d'examiner :
 
-$$ \text{configuration} \rightarrow \text{opération} \rightarrow \text{fonction}. $$
+- l'opérativité d'une configuration ;
+- ce qu'elle permet ou empêche ;
+- les transformations qu'elle rend possibles ;
+- son rôle dans une pratique ;
+- les effets fonctionnels d'une modification relationnelle ;
+- les différences entre capacité et performance.
 
-La fonction peut concerner :
+Cette distinction est essentielle :
 
-- une discrimination ;
-- une orientation ;
-- une coordination ;
-- une prédiction ;
-- une qualification ;
-- une classification ;
-- une transformation ;
-- une inférence ;
-- une description ;
-- une réorganisation ;
-- une transmission ;
-- une coordination collective.
+> «capacité ≠ performance»
 
-### 5.2. Fonction ne signifie pas utilité immédiate
+et :
 
-L'ancrage fonctionnel ne doit pas être réduit à une conception instrumentale de la pratique.
+> «fonction ≠ justification»
 
-Une fonction peut être :
+Qu'une configuration remplisse une fonction ne signifie pas que cette fonction soit justifiée.
 
-- différée ;
-- indirecte ;
-- réflexive ;
-- formelle ;
-- théorique ;
-- institutionnelle ;
-- discursive.
+Inversement, qu'une pratique soit justifiée ne permet pas d'inférer immédiatement quelles sont ses conditions corporelles ou relationnelles.
 
-Une démonstration mathématique peut ainsi remplir une fonction sans produire immédiatement une action matérielle.
-
-Une distinction conceptuelle peut transformer une pratique sans correspondre à un objet perceptible.
-
-Il faut donc distinguer :
-
-$$ \boxed{ \text{fonction} \neq \text{utilité immédiate} } $$
-
-La fonction qualifie l'**opérativité** d'une configuration dans une trajectoire de pratique.
+La fonction occupe donc une place propre dans l'analyse sans devenir un niveau intermédiaire entre matière et raison.
 
 ---
 
-## 6. Quatrième dimension — La justification
+## 5. La Justification
 
-### 6.1. Le statut normatif
+La dimension de la Justification concerne les conditions sous lesquelles une description, une qualification ou un engagement peut être défendu, contesté ou révisé.
 
-La quatrième dimension concerne le **statut des engagements** dans un espace public de raisons.
+Elle porte notamment sur :
 
-Elle comprend notamment :
-
-- l'assertion ;
-- la prédication ;
-- les engagements ;
-- les conséquences inférentielles ;
-- la justification ;
-- la recevabilité ;
-- la validité ;
-- la responsabilité descriptive ;
-- la redevabilité ;
 - les critères ;
-- les catégories ;
-- le scorekeeping ;
-- les pratiques collectives de correction.
+- les raisons ;
+- les engagements ;
+- les habilitations ;
+- les incompatibilités ;
+- les conséquences inférentielles ;
+- la recevabilité ;
+- la contestation ;
+- la révision.
 
-Cette dimension correspond au plan **KIN**.
+Justifier n'est pas simplement expliquer une cause.
 
-Elle concerne ce qui peut être :
+Une cause peut expliquer pourquoi un événement se produit.
 
-- affirmé ;
-- contesté ;
-- soutenu ;
-- retiré ;
-- révisé ;
-- justifié ;
-- imputé à un locuteur.
-
-### 6.2. La justification n'est pas une fonction cérébrale supérieure
-
-Une pratique normative peut dépendre de capacités biologiques et relationnelles sans être réductible à celles-ci.
+Une justification concerne les conditions sous lesquelles une description ou un engagement peut être tenu pour recevable.
 
 Ainsi :
 
-$$ \boxed{ \text{capacité relationnelle} \neq \text{engagement normatif} } $$
+> «cause ≠ raison»
 
 et :
 
-$$ \boxed{ \text{performance fonctionnelle} \neq \text{justification}. } $$
+> «genèse ≠ justification»
 
-Le fait qu'un organisme puisse établir des relations complexes ne suffit pas à produire le statut normatif d'une assertion.
+La justification ne constitue donc pas l'aboutissement naturel d'une chaîne qui commencerait dans le corps.
 
-La justification appartient à un **espace de pratiques** dans lequel les engagements deviennent redevables à des raisons.
+Elle constitue une fonction d'analyse distincte.
 
----
+Une pratique matériellement réalisée peut être normativement contestée.
 
-## 7. Les quatre dimensions ne sont pas quatre niveaux
+Une justification peut produire des conséquences matérielles sans devenir pour autant une cause matérielle au sens strict.
 
-Cette précision constitue un principe architectural central.
-
-Il serait incorrect de représenter la quadripartition ainsi :
-
-$$ \text{Corps} \rightarrow \text{Relation} \rightarrow \text{Fonction} \rightarrow \text{Justification} $$
-
-comme si chaque niveau produisait le suivant.
-
-Ce schéma suggérerait une genèse ontologique.
-
-Protokin ne soutient pas cette thèse.
-
-La structure correcte est plutôt :
-
-$$ \boxed{ \begin{array}{c} \text{Corps dans le milieu}\\ \Updownarrow\\ \text{Relation}\\ \Updownarrow\\ \text{Fonction}\\ \Updownarrow\\ \text{Justification} \end{array} } $$
-
-Les relations entre les dimensions sont **historiques, fonctionnelles, pratiques et normatives**, et non des relations de production ontologique.
+La continuité entre ces dimensions n'abolit donc pas leur différence fonctionnelle.
 
 ---
 
-## 8. Quadripartition et tripartition PROTO–RFT–KIN
+## 6. L'irréductibilité des quatre dimensions
 
-La quadripartition ne remplace pas la tripartition analytique de Protokin.
+La quadripartition repose sur un principe simple :
 
-Les deux architectures répondent à des questions différentes.
+> «Aucune réponse apportée à l'une des quatre questions ne vaut, à elle seule, réponse aux trois autres.»
 
-La tripartition peut être schématisée ainsi :
+On peut ainsi distinguer :
 
-$$ \boxed{ PROTO \quad \vert \quad \text{Transformation relationnelle} \quad \vert \quad KIN } $$
+- condition corporelle ≠ relation ;
+- relation ≠ fonction ;
+- fonction ≠ justification ;
+- cause ≠ raison ;
+- genèse ≠ justification ;
+- condition ≠ critère ;
+- trace ≠ signification ;
+- description ≠ objet décrit ;
+- capacité ≠ performance ;
+- fonction ≠ propriété intrinsèque.
 
-Elle permet de distinguer :
+Cette irréductibilité ne signifie pas que les dimensions sont indépendantes.
 
-- les causes ;
-- les transformations fonctionnelles ;
-- les raisons.
+Au contraire, elles peuvent être profondément dépendantes.
 
-La quadripartition permet quant à elle de poser les questions :
+Une contrainte corporelle peut modifier les relations disponibles.
 
-$$ \boxed{ \text{Corps} \rightarrow \text{Relation} \rightarrow \text{Fonction} \rightarrow \text{Justification} } $$
+Une transformation relationnelle peut modifier une fonction.
 
-Elle est donc une **matrice d'audit**.
+Une modification fonctionnelle peut rendre nécessaire une nouvelle justification.
 
-La relation entre les deux peut être représentée approximativement ainsi :
+Une contestation normative peut conduire à réorganiser une pratique et donc à modifier ses conditions matérielles ou relationnelles.
 
-| Quadripartition | Tripartition analytique |
-| :--- | :--- |
-| Corps dans le milieu | principalement PROTO |
-| Relation | zone des transformations relationnelles |
-| Fonction | articulation entre capacités relationnelles et pratiques |
-| Justification | KIN |
-
-Mais cette correspondance n'est pas une identité.
-
-La quadripartition est plus fine sur le plan méthodologique.
-
-La tripartition est plus stricte sur le plan du statut des descriptions.
+Mais aucune de ces dépendances n'autorise la conversion d'une dimension dans une autre.
 
 ---
 
-## 9. La fonction comme articulation critique
+## 7. Continuité des dépendances, discontinuité des fonctions
 
-La dimension de la fonction occupe une position particulièrement importante.
+La règle générale peut être formulée ainsi :
 
-Elle empêche que la relation soit immédiatement convertie en raison.
+> «Continuité des dépendances + discontinuité des fonctions + non-conversion.»
 
-On pourrait avoir :
+Les quatre dimensions peuvent donc être liées par des dépendances réelles sans former une chaîne de réduction.
 
-$$ \text{corps} \rightarrow \text{relation} $$
+On peut représenter leur articulation de manière non linéaire :
 
-sans que cela implique :
+```
 
-$$ \text{relation} \rightarrow \text{raison}. $$
+```
 
-La fonction fournit une dimension intermédiaire permettant de demander :
+Cette représentation n'indique ni une hiérarchie ni une causalité circulaire universelle.
 
-> Que fait cette relation dans cette pratique ?
+Elle signifie seulement qu'une enquête peut être conduite dans plusieurs directions et qu'une modification observée dans une dimension peut conduire à réexaminer les autres.
 
-Cette question est essentielle pour éviter deux réductions opposées :
+La structure n'est donc ni :
 
-$$ \text{relation} \rightarrow \text{objet mental} $$
+> Corps → Relation → Fonction → Justification
 
-et :
+comme chaîne de constitution,
 
-$$ \text{relation} \rightarrow \text{raison normative}. $$
+ni :
 
-La relation est d'abord examinée comme **opération fonctionnelle**.
+> Corps | Relation | Fonction | Justification
+
+comme juxtaposition de domaines indépendants.
+
+Elle est une **architecture de distinctions dépendantes**.
 
 ---
 
-## 10. L'indice arbitraire dans la quadripartition
+## 8. La chaîne d'enquête n'est pas une chaîne de constitution
 
-Cette architecture permet également de préciser le statut de l'indice arbitraire.
+Protokin peut néanmoins organiser certaines enquêtes selon une séquence.
 
-L'indice arbitraire appartient principalement à la dimension relationnelle, mais son analyse ne peut être complète sans la dimension fonctionnelle.
+Par exemple :
 
-On doit distinguer :
+> Délimiter
+> → Ancrer
+> → Distinguer
+> → Relier
+> → Décrire
+> → Justifier
+> → Temporaliser
+> → Expliquer
+> → Auditer
+> → Réfléchir
+> → Éprouver
+> → Reconstituer
+> → Redélimiter
 
-$$ \text{arbitrarité relationnelle} $$
+Cette chaîne décrit le mouvement de l'enquête.
 
-et :
+Elle ne décrit pas la constitution ontologique de son objet.
 
-$$ \text{ancrage fonctionnel}. $$
+Cette distinction doit rester explicite :
 
-L'arbitrarité signifie que la relation n'est pas imposée par les propriétés physiques immédiates des termes.
+> «La chaîne de Protokin est une chaîne d'enquête, non une chaîne de constitution.»
 
-Elle ne signifie pas :
+Les flèches indiquent des déplacements de question, des dépendances méthodologiques ou des reprises d'analyse.
 
-$$ \text{absence de fonction}. $$
+Elles n'affirment pas que le premier terme produit ontologiquement le suivant.
 
 Ainsi :
 
-$$ \boxed{ \text{indice arbitraire} \neq \text{indice sans fonction} } $$
+> «le milieu ne produit pas la relation comme une étape de la genèse du réel ; l'enquête peut partir des conditions du milieu pour examiner ensuite les relations pertinentes.»
 
-Cette distinction constitue le **principe d'ancrage praxique**.
+De même :
 
----
+> «la relation ne produit pas la fonction comme une substance engendrée ; l'enquête peut demander ce que cette relation permet effectivement dans une pratique.»
 
-## 11. La dérive indicielle
+Et :
 
-L'architecture permet également de localiser la dérive indicielle.
+> «la fonction ne produit pas la justification ; l'enquête peut ensuite examiner selon quels critères cette fonction ou la pratique qui la mobilise peut être défendue ou contestée.»
 
-Elle apparaît lorsque la dimension relationnelle acquiert une autonomie croissante par rapport à la fonction qui l'inscrit dans une praxis.
-
-On peut schématiser :
-
-$$ \text{Relation} \gg \text{Fonction}. $$
-
-Cette situation ne constitue pas nécessairement une pathologie.
-
-Une pratique formelle peut développer une grande autonomie relationnelle.
-
-Le problème apparaît lorsque cette autonomie fonctionnelle est confondue avec une autonomie ontologique :
-
-$$ \boxed{ \text{autonomie fonctionnelle} \neq \text{autonomie ontologique} } $$
-
-ou lorsque le système indiciel n'est plus effectivement révisable à partir des fonctions qu'il devait permettre.
-
-La dérive indicielle constitue donc un problème de **couplage entre relation et fonction**, et non simplement un éloignement du « réel ».
+La chaîne ordonne donc les déplacements de l'enquête, pas les niveaux du réel.
 
 ---
 
-## 12. Le principe de non-substitution
+## 9. La quadripartition n'est pas une théorie de l'objet descriptif
 
-La quadripartition permet de formuler un principe général :
+Cette distinction est particulièrement importante.
 
-**Aucune dimension de la quadripartition ne peut être substituée à une autre pour déterminer son statut propre.**
+La quadripartition ne prétend pas expliquer comment un objet descriptif serait ontologiquement constitué.
+
+Elle permet de poser quatre questions lorsqu'un objet est décrit.
+
+Un objet descriptif peut être examiné :
+
+- sous ses conditions corporelles et matérielles ;
+- sous les relations dans lesquelles il est identifié ;
+- sous les fonctions qu'il remplit dans une pratique ;
+- sous les critères qui rendent sa description recevable, contestable ou révisable.
+
+L'objet descriptif n'est donc pas le quatrième terme d'une chaîne :
+
+> Milieu → Relation → Fonction → Objet
+
+Il n'est pas davantage une substance cachée derrière les quatre dimensions.
+
+On peut plutôt le définir, pour les besoins de l'enquête, comme :
+
+> «une différence stabilisée comme identifiable et réutilisable dans une pratique descriptive.»
+
+Cette définition ne constitue pas une théorie ontologique de la constitution des objets.
+
+Elle indique seulement ce que l'enquête doit pouvoir suivre lorsqu'une différence devient suffisamment stable pour être reprise dans des descriptions.
 
 Ainsi :
 
-$$ \text{Corps} \neq \text{Relation} $$
-$$ \text{Relation} \neq \text{Fonction} $$
-$$ \text{Fonction} \neq \text{Justification}. $$
+> «description ≠ objet décrit»
 
-Mais surtout :
-
-$$ \boxed{ \text{Corps} \not\Rightarrow \text{Justification} } $$
-$$ \boxed{ \text{Relation} \not\Rightarrow \text{Justification} } $$
-$$ \boxed{ \text{Fonction} \not\Rightarrow \text{Validité normative} } $$
-
-Ce principe généralise la règle de non-conversion.
-
-Il interdit qu'une différence de statut soit effacée par une relation de dépendance.
+L'enquête peut examiner comment une description stabilise une différence sans conclure que la description crée ontologiquement cette différence.
 
 ---
 
-## 13. Le principe de médiation
+## 10. Pourquoi quatre dimensions ?
 
-La non-substitution ne signifie cependant pas isolement.
+La quadripartition ne prétend pas que toute réalité comporte exactement quatre dimensions.
 
-Les dimensions sont **médiatisées** les unes par les autres dans les pratiques.
+Elle affirme quelque chose de beaucoup plus limité :
 
-Une perturbation matérielle peut conduire à une transformation fonctionnelle :
+> «Pour l'orientation de l'enquête protokinienne, quatre distinctions suffisent à maintenir les différences fonctionnelles fondamentales que l'analyse ne doit pas convertir les unes dans les autres.»
 
-$$ \text{butoir} \rightarrow \text{révision de fonction}. $$
+Le nombre quatre est donc fonctionnellement minimal, et non ontologiquement exhaustif.
 
-Cette transformation peut conduire à une modification relationnelle :
+Cette précision est décisive.
 
-$$ \text{révision de fonction} \rightarrow \text{réorganisation relationnelle}. $$
+D'autres distinctions sont nécessaires dans certaines enquêtes :
 
-Cette réorganisation peut entraîner une révision descriptive :
-
-$$ \text{réorganisation relationnelle} \rightarrow \text{nouvelle assertion}. $$
-
-Cette assertion peut à son tour être soumise à justification :
-
-$$ \text{assertion} \rightarrow \text{évaluation normative}. $$
-
-Et la décision normative peut réorganiser la pratique :
-
-$$ \text{justification} \rightarrow \text{nouvelle pratique}. $$
-
-Il existe donc une **continuité dynamique sans conversion ontologique**.
-
----
-
-## 14. La quadripartition comme architecture récursive
-
-Une même pratique peut être auditée plusieurs fois, à des échelles différentes.
-
-Par exemple, une pratique scientifique peut être examinée :
-
-**À l'échelle corporelle**
-> Quels supports matériels, instruments et capacités perceptives sont engagés ?
-
-**À l'échelle relationnelle**
-> Quelles distinctions et relations sont construites ?
-
-**À l'échelle fonctionnelle**
-> Que permettent ces distinctions dans l'enquête ?
-
-**À l'échelle normative**
-> Quelles assertions sont autorisées et selon quels critères ?
-
-Mais chacune de ces dimensions peut elle-même devenir l'objet d'une nouvelle enquête.
-
-La quadripartition est donc **récursive**.
-
-Elle ne divise pas définitivement le monde.
-
-Elle fournit une méthode pour décrire les opérations par lesquelles un régime devient analysable.
-
----
-
-## 15. La quadripartition comme dispositif anti-réductionniste
-
-La quadripartition permet ainsi de diagnostiquer plusieurs formes de réduction.
-
-**Réduction corporelle**
-
-$$ \text{Justification} \rightarrow \text{Corps}. $$
-
-Elle traite les raisons comme des effets de mécanismes matériels.
-
-**Réduction relationnelle**
-
-$$ \text{Fonction} \rightarrow \text{Relations}. $$
-
-Elle transforme les opérations fonctionnelles en simples structures relationnelles.
-
-**Réduction fonctionnelle**
-
-$$ \text{Justification} \rightarrow \text{Fonction}. $$
-
-Elle traite la correction normative comme une simple efficacité comportementale.
-
-**Réduction normative**
-
-$$ \text{Corps} \rightarrow \text{Justification}. $$
-
-Elle transforme les conditions de l'activité en raisons de ce qui doit être affirmé.
-
-Ces réductions ont une structure commune : une dimension est utilisée pour absorber le statut d'une autre.
-
----
-
-## 16. La quadripartition comme dispositif anti-platoniste
-
-La quadripartition protège également contre une autre erreur : l'autonomisation ontologique des structures relationnelles.
-
-Une relation peut être :
-
-- abstraite ;
-- formelle ;
-- générale ;
-- récursive ;
-- manipulable indépendamment d'un objet immédiatement perceptible.
-
-Aucune de ces propriétés ne suffit à en faire une entité ontologiquement autonome.
-
-L'audit demande :
-
-$$ \text{relation} \rightarrow \text{fonction} \rightarrow \text{praxis}. $$
-
-Il ne demande pas :
-
-$$ \text{relation} \rightarrow \text{monde abstrait}. $$
-
-La quadripartition fournit ainsi une voie intermédiaire entre réductionnisme et platonisme.
-
----
-
-## 17. La quadripartition comme dispositif anti-cognitiviste
-
-Elle permet également de déplacer le problème du concept.
-
-Un concept ne doit pas être immédiatement identifié à :
-
-- une représentation neuronale ;
-- une image mentale ;
-- un objet abstrait interne ;
-- un symbole stocké dans le cerveau.
-
-L'analyse demande plutôt :
-
-$$ \text{conditions corporelles} $$
-$$ \downarrow $$
-$$ \text{capacités relationnelles} $$
-$$ \downarrow $$
-$$ \text{fonctions dans une pratique} $$
-$$ \downarrow $$
-$$ \text{engagements discursifs}. $$
-
-Cette trajectoire n'est pas une conversion.
-
-Elle décrit les médiations nécessaires à l'analyse d'une pratique conceptuelle.
-
----
-
-## 18. La justification comme dimension irréductible
-
-La quadripartition ne doit toutefois pas être utilisée pour faire de la justification un simple produit final.
-
-La justification peut rétroagir sur l'ensemble de la pratique.
-
-Une objection peut conduire à :
-
-$$ \text{révision de l'assertion} $$
-
-puis :
-
-$$ \text{révision de la classification} $$
-
-puis :
-
-$$ \text{réorganisation de la pratique}. $$
-
-Cette pratique peut ensuite rencontrer de nouveaux butoirs matériels.
-
-On obtient alors une boucle :
-
-$$ \boxed{ \text{Corps} \rightarrow \text{Relation} \rightarrow \text{Fonction} \rightarrow \text{Justification} \rightarrow \text{Pratique} \rightarrow \text{Corps} } $$
-
-Cette boucle ne constitue pas une causalité descendante de la raison vers la matière au sens ontologique.
-
-Elle décrit une **reconfiguration historique des pratiques**.
-
----
-
-## 19. La quadripartition n'est donc pas une généalogie
-
-Il faut maintenir cette distinction avec fermeté.
-
-Protokin ne dit pas :
-
-$$ \text{matière} \rightarrow \text{relation} \rightarrow \text{fonction} \rightarrow \text{raison}. $$
-
-Il dit :
-
-> Pour auditer une pratique descriptive, il faut pouvoir distinguer les conditions corporelles, les configurations relationnelles, les fonctions opératoires et les conditions normatives de justification.
-
-La quadripartition est donc :
-
-$$ \boxed{ \text{méthode d'enquête} } $$
-
-et non :
-
-$$ \boxed{ \text{théorie de la genèse de l'être}. } $$
-
-Cette distinction protège l'architecture contre une lecture métaphysique.
-
----
-
-## 20. Une même pratique peut occuper les quatre dimensions
-
-Il ne faut pas attribuer les dimensions à des objets différents.
-
-Une même pratique peut comporter simultanément les quatre dimensions.
-
-Prenons une activité d'enquête scientifique.
-
-Elle implique :
-
-**Corps**
-> Des organismes, instruments, supports, contraintes matérielles.
-
-**Relation**
-> Des mesures, distinctions, classifications et relations entre variables.
-
-**Fonction**
-> Des opérations de comparaison, de prédiction et de transformation du problème.
-
-**Justification**
-> Des critères de preuve, d'argumentation, de réplication et de correction.
-
-La pratique n'est donc pas « située » dans une seule dimension.
-
-Elle est **traversée par les quatre**.
-
----
-
-## 21. La quadripartition comme grille de lecture documentaire
-
-Cette fonction méthodologique permet également de classer la documentation Protokin.
-
-Les pages peuvent être regroupées selon la dimension qu'elles établissent principalement :
-
-**Le corps dans le milieu**
-Pages relatives à :
-- PROTO ;
-- causes ;
-- traces ;
-- butoirs ;
-- niche ;
-- corps ;
-- supports matériels ;
-- ancrage somatique.
-
-**La relation**
-Pages relatives à :
-- indice ;
-- indice arbitraire ;
-- RFT ;
-- transformation relationnelle ;
-- transduction relationnelle ;
-- inférence combinatoire ;
-- configurations sémiotiques.
-
-**La fonction**
-Pages relatives à :
-- fonctions descriptives ;
-- qualification ;
-- prédication ;
-- configuration descriptive ;
+- temporalité ;
 - trajectoire ;
 - allure ;
-- transition ;
-- transformation ;
+- distance ;
+- réflexivité ;
 - réorganisation ;
-- sédimentation et désédimentation.
+- sédimentation ;
+- transformation ;
+- audit ;
+- apprentissage.
 
-**La justification**
-Pages relatives à :
-- raisons ;
-- espace des raisons ;
-- assertion ;
-- engagements ;
-- responsabilité ;
-- recevabilité ;
-- validité ;
-- catégories ;
-- critères ;
-- locuteur ;
-- auditeur ;
-- communauté de locuteurs.
+Mais leur nécessité locale ne signifie pas qu'elles doivent devenir de nouvelles dimensions fondamentales.
 
-Ce classement reste fonctionnel : une page peut dépendre de plusieurs dimensions, mais elle doit avoir une fonction architecturale principale.
+Elles peuvent traverser les quatre dimensions.
 
----
+Une trajectoire peut être corporelle, relationnelle, fonctionnelle et normative.
 
-## 22. Le second ordre : l'audit de la quadripartition
+Une réorganisation peut modifier simultanément les relations, les fonctions et les critères de justification.
 
-La quadripartition elle-même peut être auditée.
+La réflexivité peut porter sur chacune des quatre dimensions.
 
-Protokin doit pouvoir demander :
+La temporalité peut être examinée dans chacune d'elles.
 
-> Une description attribue-t-elle correctement à chaque dimension son propre statut ?
+Il n'est donc pas nécessaire d'ajouter une cinquième dimension appelée « Temps », une sixième appelée « Réflexivité » ou une septième appelée « Transformation ».
 
-Cela permet de diagnostiquer :
+La règle est :
 
-- une réduction ;
-- une confusion de niveau ;
-- une erreur de catégorie ;
-- une dérive indicielle ;
-- une fétichisation cérébrale ;
-- une réification normative ;
-- un oubli du support matériel ;
-- une autonomisation injustifiée d'un régime.
+> «Toute distinction supplémentaire doit répondre à une difficulté effectivement rencontrée par l'enquête.»
 
-La quadripartition devient alors elle-même un **instrument réflexif**.
+Et :
 
-Elle ne décrit pas seulement les pratiques.
-
-Elle permet d'examiner comment une description distribue ses propres engagements entre corps, relation, fonction et justification.
+> «La réflexivité ne doit pas produire une nouvelle couche lorsqu'elle ne permet aucune distinction supplémentaire.»
 
 ---
 
-## 23. Principe général d'audit
+## 11. Une pratique peut être examinée sous les quatre dimensions
 
-La quadripartition peut finalement être condensée dans quatre questions :
+La quadripartition ne distribue pas les pratiques entre quatre catégories exclusives.
 
-1. **Corps** : dans quelles conditions matérielles et somatiques cette pratique est-elle possible ?
-2. **Relation** : quelles relations sont établies, transformées ou combinées ?
-3. **Fonction** : quelles opérations ces relations permettent-elles dans la pratique ?
-4. **Justification** : selon quelles raisons et quels critères ces opérations et leurs résultats peuvent-ils être défendus, contestés ou révisés ?
+Une même pratique peut mobiliser simultanément les quatre dimensions.
 
-Ces quatre questions constituent le **noyau de l'audit protokinien**.
+Une enquête scientifique, par exemple, engage :
 
----
+**Corps**
 
-## 24. Principe de non-conversion généralisé
+Des organismes, instruments, supports et contraintes matérielles.
 
-À partir de la quadripartition, le principe de non-conversion peut être formulé de manière plus générale :
+**Relation**
 
-**Aucune condition d'une pratique ne suffit, à elle seule, à déterminer le statut d'une autre dimension de cette pratique.**
+Des relations entre mesures, variables, instruments et configurations expérimentales.
 
-Ainsi :
+**Fonction**
 
-$$ \boxed{ \text{condition} \neq \text{relation} \neq \text{fonction} \neq \text{justification} } $$
+Des opérations de discrimination, comparaison, prédiction ou transformation du problème.
 
-mais :
+**Justification**
 
-$$ \boxed{ \text{condition} \leftrightarrow \text{relation} \leftrightarrow \text{fonction} \leftrightarrow \text{justification} } $$
+Des critères de preuve, de correction, de réplication, d'argumentation et de révision.
 
-dans les trajectoires historiques et pratiques.
+Il serait donc incorrect de demander à quelle dimension « appartient » une pratique entière.
 
-La différence est essentielle.
+La question pertinente est :
 
-**Irréductibilité ne signifie pas séparation.**
-**Articulation ne signifie pas conversion.**
+> «Quelle dimension l'enquête cherche-t-elle à rendre explicite à ce moment précis ?»
+
+Une page peut également mobiliser plusieurs dimensions tout en ayant une fonction architecturale principale.
 
 ---
 
-## Conclusion
+## 12. Le statut transversal de la temporalité et de la réflexivité
 
-La quadripartition fondamentale de Protokin ne décrit pas quatre couches de la réalité.
+La temporalité n'est pas une cinquième dimension fondamentale.
 
-Elle fournit quatre angles irréductibles d'enquête sur une même pratique :
+Elle constitue une fonction transversale permettant d'examiner :
 
-$$ \boxed{ \text{Corps dans le milieu} \quad \text{Relation} \quad \text{Fonction} \quad \text{Justification} } $$
+- la succession ;
+- la durée ;
+- la simultanéité ;
+- la trajectoire ;
+- l'allure ;
+- la transformation ;
+- la sédimentation ;
+- la réorganisation.
 
-- Le **corps** fournit des conditions et rencontre des butoirs.
-- La **relation** permet des transformations qui ne sont pas déterminées par les propriétés physiques immédiates.
-- La **fonction** détermine ce que ces transformations permettent effectivement dans une praxis.
-- La **justification** établit les conditions sous lesquelles des engagements peuvent être tenus pour recevables, défendus ou corrigés.
+De même, la réflexivité n'est pas une cinquième région de la pratique.
 
-Aucune de ces dimensions ne peut être réduite aux autres.
+Elle désigne la possibilité pour l'enquête d'appliquer ses propres opérations à ses propres descriptions.
 
-Mais aucune n'est isolée.
+La réflexivité peut donc demander :
 
-La structure générale de Protokin peut ainsi être formulée comme une continuité sans conversion :
+- quelles sont les conditions corporelles de l'enquête ;
+- quelles relations elle établit ;
+- quelles fonctions ses distinctions remplissent ;
+- selon quels critères ses propres descriptions peuvent être défendues ou révisées.
 
-$$ \boxed{ \text{Corps} \;\leftrightarrow\; \text{Relation} \;\leftrightarrow\; \text{Fonction} \;\leftrightarrow\; \text{Justification} } $$
+La temporalité et la réflexivité traversent la quadripartition.
 
-Cette formule constitue une protection simultanée contre quatre erreurs symétriques :
+Elles ne l'augmentent pas.
 
-$$ \boxed{ \text{réductionnisme} \quad \text{mentalisme} \quad \text{réification} \quad \text{platonisme} } $$
+---
 
-La quadripartition ne cherche donc pas à expliquer comment une substance devient une autre.
+## 13. La quadripartition comme principe d'audit
 
-Elle cherche à maintenir ouvertes les médiations entre des dimensions dont aucune ne peut être autorisée à absorber le statut des autres.
+La quadripartition devient également un instrument de contrôle des descriptions.
 
-C'est en ce sens qu'elle constitue non une ontologie de Protokin, mais l'une de ses **matrices fondamentales d'audit**.
+Lorsqu'une enquête rencontre une difficulté, elle peut demander :
+
+> «Quelle dimension est actuellement décrite ?»
+
+Puis :
+
+> «Cette description attribue-t-elle à cette dimension un statut qui appartient en réalité à une autre ?»
+
+Cette question permet notamment de repérer :
+
+- une réduction biologique ;
+- une confusion entre relation et propriété physique ;
+- une conversion de fonction en propriété ;
+- une conversion de condition en critère ;
+- une confusion entre trace et signification ;
+- une conversion de cause en raison ;
+- une confusion entre capacité et performance ;
+- une réification d'une qualification normative.
+
+La quadripartition ne sert donc pas seulement à construire l'analyse.
+
+Elle sert également à contrôler les conversions produites par l'analyse elle-même.
+
+---
+
+## 14. La quadripartition s'applique à Protokin lui-même
+
+Protokin n'est pas extérieur à cette architecture.
+
+Ses propres distinctions sont des descriptions.
+
+Elles peuvent donc être examinées selon les quatre questions :
+
+**Corps**
+
+Dans quelles conditions matérielles, techniques, corporelles et documentaires Protokin est-il produit et transmis ?
+
+**Relation**
+
+Quelles relations conceptuelles et pratiques établit-il entre ses distinctions ?
+
+**Fonction**
+
+Que permettent effectivement ses concepts dans une enquête ?
+
+**Justification**
+
+Selon quels critères ses distinctions peuvent-elles être défendues, contestées, corrigées ou abandonnées ?
+
+Cette possibilité constitue une contrainte réflexive essentielle.
+
+La quadripartition ne peut donc pas servir à analyser les autres pratiques tout en étant exemptée de l'analyse qu'elle rend possible.
+
+---
+
+## 15. Ce que la quadripartition établit
+
+La quadripartition établit :
+
+- quatre questions fondamentales d'enquête ;
+- leur irréductibilité fonctionnelle ;
+- leur articulation par dépendances ;
+- le principe de non-conversion ;
+- la distinction entre chaîne d'enquête et chaîne de constitution ;
+- le caractère fonctionnellement minimal de la quadripartition ;
+- le statut transversal de la temporalité et de la réflexivité ;
+- la possibilité d'appliquer ces distinctions à Protokin lui-même.
+
+---
+
+## 16. Ce que la quadripartition n'établit pas
+
+Elle n'établit pas :
+
+- une ontologie du réel ;
+- quatre niveaux de l'être ;
+- une théorie de la constitution des objets ;
+- une généalogie du langage ;
+- une réduction de la normativité à la matière ;
+- une séparation de la normativité d'avec ses conditions matérielles ;
+- une théorie selon laquelle toute pratique suivrait nécessairement quatre étapes ;
+- une hiérarchie entre les quatre dimensions ;
+- une théorie complète de la temporalité ;
+- une théorie générale de la fonction ;
+- une procédure mécanique d'enquête.
+
+Ces questions appartiennent aux pages qui leur sont consacrées.
+
+---
+
+## Synthèse
+
+La quadripartition fondamentale de Protokin peut être condensée ainsi :
+
+> «Corps — dans quelles conditions ?
+> Relation — sous quelles relations ?
+> Fonction — que fait cette configuration ?
+> Justification — selon quels critères peut-elle être défendue, contestée ou révisée ?»
+
+Ces quatre questions portent sur une même pratique.
+
+Elles sont dépendantes sans être convertibles.
+
+La continuité des dépendances n'abolit pas la discontinuité des fonctions.
+
+La distinction des fonctions n'implique pas une séparation ontologique.
+
+La chaîne d'enquête ne constitue pas une chaîne de constitution.
+
+Et l'objet descriptif n'est pas produit comme le terme final de la quadripartition.
+
+La règle architecturale générale est donc :
+
+> «Distinguer sans isoler. Articuler sans convertir.»
+
+La quadripartition s'arrête à quatre non parce que tout pourrait être ramené à quatre dimensions, mais parce que quatre distinctions suffisent à maintenir les différences fondamentales que l'enquête protokinienne doit pouvoir examiner sans les confondre.
+
+> **La quadripartition est fonctionnellement minimale, transversalement ouverte et réflexivement révisable.**
