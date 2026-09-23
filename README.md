@@ -19,11 +19,11 @@ Il enquête sur les pratiques par lesquelles des descriptions sont produites, ut
 
 ---
 
-## Une enquête, pas une ontologie
+## Le problème : point de départ de l'enquête
 
-Protokin ne part pas d'une ontologie générale destinée à déterminer ce que les choses sont en elles-mêmes.
+Protokin ne commence pas par une ontologie générale, ni par un ensemble de catégories posées a priori.
 
-Il part de problèmes rencontrés dans les pratiques descriptives :
+L'enquête commence lorsqu'une pratique descriptive rencontre un problème :
 
 - une distinction devient contestable ;
 - une description change de fonction ;
@@ -34,16 +34,80 @@ Il part de problèmes rencontrés dans les pratiques descriptives :
 - une condition est transformée en critère ;
 - une capacité est confondue avec une performance.
 
-L'enquête cherche alors à reconstruire les conditions dans lesquelles une pratique rend ses distinctions opératoires, les maintient, les discute et les transforme.
+Le problème n'est donc ni une simple ignorance, ni un manque d'information, ni une difficulté psychologique individuelle.
 
-Elle ne cherche pas à remplacer une description par une description ultime.
+Il désigne une difficulté rencontrée dans le fonctionnement même d'une pratique descriptive.
 
-Elle cherche à déterminer :
+Le problème ne fournit pas à l'avance sa solution.
+
+Il indique qu'une distinction, une description ou une relation ne permet plus de traiter une situation sans produire une difficulté supplémentaire.
+
+L'enquête consiste alors à reconstruire les conditions du problème :
+
+- quelles distinctions sont effectivement mobilisées ;
+- dans quelles conditions corporelles et matérielles elles prennent place ;
+- sous quelles relations elles fonctionnent ;
+- quelles fonctions elles remplissent ;
+- selon quels critères elles peuvent être maintenues, contestées ou révisées.
+
+> «Le problème déclenche l'enquête ; la quadripartition l'oriente ; l'architecture fonctionnelle organise ses déplacements.»
+
+Une enquête peut se clore lorsque la reconstruction obtenue est suffisante relativement au problème traité.
+
+Elle peut être reprise lorsqu'un nouveau trouble apparaît ou qu'une distinction jusque-là stabilisée devient elle-même problématique.
+
+---
+
+## Une enquête, pas une ontologie
+
+Protokin ne cherche pas à déterminer ce que les choses sont en elles-mêmes à partir d'une ontologie première.
+
+Il cherche à comprendre comment des pratiques descriptives rendent certaines différences opératoires dans des situations déterminées.
+
+Il ne cherche donc pas à remplacer une description par une description ultime.
+
+Il examine :
 
 - dans quelles conditions une description devient possible ;
-- sous quelles relations elle prend sens et fonction ;
+- sous quelles relations elle fonctionne ;
 - ce qu'elle permet effectivement de faire ;
 - selon quels critères elle peut être défendue, contestée ou révisée.
+
+Cette orientation n'implique pas que ce qui est décrit soit inexistant ou purement construit.
+
+Elle suspend seulement l'idée qu'une description particulière puisse, à elle seule, fournir le fondement ontologique de toutes les autres.
+
+---
+
+## Les deux piliers de l'architecture
+
+L'architecture générale repose sur deux documents complémentaires.
+
+### Architecture fonctionnelle générale
+
+[architecture-fonctionnelle.md](architecture-fonctionnelle.md) décrit le mouvement de l'enquête :
+
+> Délimiter → Ancrer → Distinguer → Relier → Décrire → Justifier → Temporaliser → Expliquer → Auditer → Réfléchir → Éprouver → Reconstituer → Redélimiter
+
+Cette chaîne organise des déplacements de question.
+
+Elle ne constitue ni une hiérarchie, ni une succession de niveaux, ni une théorie de la constitution des objets.
+
+> «La chaîne de Protokin est une chaîne d'enquête, non une chaîne de constitution.»
+
+### Quadripartition fondamentale
+
+[quadripartition-fondamentale.md](quadripartition-fondamentale.md) établit les quatre questions irréductibles que l'enquête doit pouvoir distinguer :
+
+> «Corps — dans quelles conditions corporelles et matérielles ?
+> Relation — sous quelles relations ?
+> Fonction — que fait cette configuration dans la pratique ?
+> Justification — selon quels critères peut-elle être défendue, contestée ou révisée ?»
+
+Ces deux documents ont donc des fonctions différentes :
+
+- l'architecture fonctionnelle organise les déplacements de l'enquête ;
+- la quadripartition organise les distinctions fondamentales de l'analyse.
 
 ---
 
@@ -66,7 +130,7 @@ La quadripartition est donc une **distinction fonctionnelle de l'enquête**.
 
 Elle est fonctionnellement minimale, sans prétendre être ontologiquement exhaustive.
 
-La temporalité, la trajectoire, l'allure, la réflexivité, l'audit ou la réorganisation peuvent traverser ces quatre dimensions sans devenir de nouvelles dimensions fondamentales.
+La temporalité, la trajectoire, l'allure, la distance, la réflexivité, l'audit ou la réorganisation peuvent traverser ces quatre dimensions sans devenir de nouvelles dimensions fondamentales.
 
 > «Distinguer sans isoler. Articuler sans convertir.»
 
@@ -98,40 +162,6 @@ Une relation peut modifier une fonction sans être elle-même cette fonction.
 Une fonction peut être effective sans être justifiée.
 
 Une justification peut transformer une pratique sans devenir pour autant une cause matérielle au même sens.
-
----
-
-## La chaîne d'enquête
-
-Protokin possède également une architecture fonctionnelle qui organise les déplacements de l'enquête.
-
-Elle peut être formulée ainsi :
-
-> Délimiter
-> → Ancrer
-> → Distinguer
-> → Relier
-> → Décrire
-> → Justifier
-> → Temporaliser
-> → Expliquer
-> → Auditer
-> → Réfléchir
-> → Éprouver
-> → Reconstituer
-> → Redélimiter
-
-Cette séquence n'est pas un protocole mécanique.
-
-Elle n'indique ni une hiérarchie, ni une genèse du réel, ni une succession de niveaux.
-
-> «La chaîne de Protokin est une chaîne d'enquête, non une chaîne de constitution.»
-
-Les flèches indiquent des déplacements de question, des dépendances méthodologiques et des possibilités de reprise.
-
-Une enquête peut commencer ailleurs, revenir sur une distinction antérieure ou réouvrir son problème initial.
-
-La clôture de l'enquête est donc relative au problème traité.
 
 ---
 
@@ -176,7 +206,7 @@ Elle demande notamment :
 - quelles fonctions elles remplissent ;
 - selon quels critères elles peuvent être défendues, contestées ou révisées.
 
-La réflexivité n'est donc pas une nouvelle couche de l'architecture.
+La réflexivité n'est pas une nouvelle dimension de la quadripartition.
 
 Elle est une **fonction transversale de reprise et d'audit**.
 
@@ -196,9 +226,7 @@ Cette question ne suspend pas l'existence de ce qui est décrit.
 
 Elle suspend l'attribution à une description particulière d'un privilège ontologique qui permettrait d'en dériver toutes les autres.
 
-Protokin ne cherche donc pas à établir la description ultime d'une configuration.
-
-Il examine les conditions, fonctions, usages, justifications et transformations des pratiques qui la rendent descriptible.
+Protokin examine ainsi les conditions, fonctions, usages, justifications et transformations des pratiques qui rendent quelque chose descriptible.
 
 ---
 
@@ -323,7 +351,9 @@ Son orientation fondamentale repose sur quatre questions :
 
 Ces dimensions sont dépendantes sans être convertibles.
 
-La chaîne fonctionnelle organise le mouvement de l'enquête sans constituer une théorie de la genèse de son objet.
+La quadripartition fixe les distinctions fondamentales de l'analyse.
+
+L'architecture fonctionnelle organise les déplacements de l'enquête.
 
 La réflexivité et la temporalité traversent l'architecture sans devenir de nouvelles dimensions fondamentales.
 
