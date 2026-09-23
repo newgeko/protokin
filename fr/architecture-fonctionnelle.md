@@ -86,25 +86,54 @@ La séquence donne donc une **orientation**, non un protocole obligatoire.
 
 ---
 
-## 00 — Délimiter
+# 00 — Délimiter
 
-### Fonction
+## Fonction
 
-Déterminer le problème sur lequel porte l'enquête et ses frontières.
+Déterminer le problème sur lequel porte l'enquête et en préciser les frontières.
 
-Il s'agit notamment de distinguer :
-
-- ce qui fait problème ;
-- ce qui est effectivement étudié ;
-- ce qui ne l'est pas ;
-- les concepts déjà disponibles ;
-- les présupposés qui doivent être rendus visibles.
-
-### Ce que cela prépare
-
-La délimitation évite que l'enquête commence par une réponse générale à un problème qu'elle n'a pas encore formulé.
+Protokin ne commence pas par une ontologie générale ni par un ensemble de catégories posées a priori.
 
 > «Le point de départ de Protokin est le problème, non un fondement.»
+
+Le problème apparaît lorsqu'une pratique descriptive rencontre un trouble qu'elle ne parvient plus à traiter sans difficulté supplémentaire :
+
+- une distinction devient contestable ;
+- une catégorie ne permet plus de traiter une situation ;
+- une description change de fonction ;
+- plusieurs descriptions entrent en tension ;
+- une explication est confondue avec une justification ;
+- une condition est transformée en critère ;
+- une description est confondue avec ce qu'elle décrit.
+
+Le problème n'est donc ni une simple ignorance, ni un manque d'information, ni une difficulté psychologique individuelle.
+
+Il constitue le **point de départ effectif** de l'enquête.
+
+Délimiter consiste alors à déterminer :
+
+- ce qui fait effectivement problème ;
+- dans quelle pratique le problème apparaît ;
+- quelles distinctions sont engagées ;
+- quelles conversions ou réductions rendent le problème difficile à traiter ;
+- quel périmètre l'enquête doit examiner ;
+- quelles questions peuvent être laissées hors de son périmètre.
+
+Le problème ne fournit pas à l'avance la solution.
+
+Il indique qu'une description, une distinction ou une relation ne permet plus de traiter la situation de manière suffisamment déterminée.
+
+L'enquête peut alors commencer son déplacement vers les conditions corporelles et matérielles pertinentes, les relations engagées, les fonctions remplies et les conditions de justification.
+
+> «Le problème déclenche l'enquête ; la quadripartition l'oriente.»
+
+La délimitation ne clôt donc pas le problème.
+
+Elle établit le périmètre à partir duquel il peut être enquêté.
+
+Une enquête ultérieure peut montrer que ce périmètre était trop étroit, qu'une distinction avait été mal formulée ou qu'un nouveau trouble impose de reprendre l'analyse.
+
+> «Délimiter ne signifie pas résoudre : cela signifie rendre le problème enquêtable.»
 
 ---
 
