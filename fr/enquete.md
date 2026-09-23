@@ -1,156 +1,535 @@
-# Page : enquete.md
-
-# Qu'est-ce qu'une enquête ?
+# Enquête
 
 ## Fonction
-Dans l'architecture de Protokin, l'**enquête** désigne le processus réflexif, transactionnel et collectif de reconstruction par lequel une communauté de locuteurs transforme une situation indéterminée et problématique en une configuration descriptive intelligible, cohérente et opératoire. Elle constitue l'activité dynamique majeure qui traverse la métathéorie, permettant de réorganiser les grilles de dicibilité et d'évaluation des régimes descriptifs lorsque ceux-ci rencontrent l'usure ou la saturation de leurs limites.
+
+L'enquête désigne la reprise réflexive d'une pratique descriptive lorsqu'un trouble empêche son fonctionnement ordinaire.
+
+Elle ne constitue ni une méthode générale de découverte du réel, ni une procédure d'accès à un objet caché.
+
+Elle intervient lorsqu'une distinction, une qualification, une relation fonctionnelle ou une justification ne permet plus de poursuivre la pratique de manière suffisamment intelligible et discutable.
+
+Son mouvement général peut être formulé ainsi :
+
+> «Pratique → Trouble → Enquête → Reprise → Audit possible»
+
+L'enquête n'est donc pas extérieure à la pratique.
+
+Elle constitue une manière de reprendre une pratique devenue problématique en examinant les distinctions et les engagements qui permettent son fonctionnement.
 
 ---
 
-## Problème conceptuel inaugural
-La philosophie de la connaissance classique a longuement appréhendé la vérité et le savoir à travers le modèle de l'« esprit-spectateur », dans lequel un sujet contemplatif et détaché s'efforcerait de reproduire fidèlement, au moyen du langage, les articulations naturelles d'un monde déjà entièrement découpé en soi. Face aux défaillances de nos descriptions ou à l'apparition de crises sémantiques, cette perspective oscille entre deux impasses méthodologiques :
-1. **L'illusion réaliste / fondationnaliste** : elle décrète que l'erreur n'est qu'un accident de copie ou un manque d'informations factuelles, et qu'il suffirait d'enregistrer passivement de nouvelles données neutres (PROTO) pour restaurer la vérité absolue.
-2. **L'écueil sceptique / relativiste** : constatant l'irréductibilité historique de nos cadres de sens, elle conclut que toute transformation de nos descriptions n'est qu'un saut arbitraire et irrationnel entre paradigmes incommensurables, soumis à de purs rapports de force politiques ou subjectifs.
+## Problème
 
-Dès lors, la question inaugurale s'impose à la métathéorie :
-> **Comment expliquer le processus par lequel un collectif de locuteurs réorganise et corrige de façon rationnelle ses critères de description face à ses propres limites, sans s'en remettre à une correspondance magique avec une réalité extérieure en soi, et sans réduire le changement conceptuel à un arbitraire subjectif ?**
+Une pratique descriptive peut fonctionner sans que les conditions de son fonctionnement soient constamment explicitées.
 
-Protokin résout cette aporie en s'adossant à l'héritage pragmatiste de John Dewey : la rationalité ne réside pas dans un fondement statique immuable, mais dans la **plasticité corrective de l'enquête**. L'enquête s'enclenche lorsqu'une pratique collective de justification éprouve une rupture d'opérabilité ou une tension sémantique insoluble. Elle ne consiste pas à copier le monde, mais à reconstruire activement la situation problématique pour restaurer la viabilité du couplage entre le collectif de locuteurs et son milieu d'action.
+Une distinction est utilisée, une relation est établie, une fonction est attribuée, une justification est mobilisée.
 
----
+Tant que ces opérations permettent de poursuivre la pratique, elles peuvent rester implicites.
 
-## Définition fonctionnelle
-Dans l'architecture de Protokin, on appelle **enquête** :
-> **L'activité descriptive, située et collective, par laquelle une communauté de locuteurs, confrontée à une situation problématique où ses cadres de dicibilité habituels perdent leur opérabilité pratique, explicite ses engagements normatifs, mobilise des ressources matérielles et conceptuelles et réorganise ses critères d'évaluation pour produire une nouvelle configuration stabilisée.**
+Le problème apparaît lorsqu'une difficulté empêche cette poursuite.
 
-Cette définition implique trois caractéristiques fondamentales :
-*   **Un processus transactionnel situé** : L'enquête n'est pas l'œuvre d'un observateur désincarné placé hors du monde ; elle se déploie à l'intérieur même du couplage dynamique entre l'organisme (ou le collectif) et son milieu d'interaction.
-*   **Un travail de reconstruction immanente** : Elle ne vise pas une vérité absolue transcendante, mais s'exécute sur le sol des sédimentations, des techniques et des mémoires collectives héritées (effet cliquet), les réinterprétant pour lever les anomalies constatées.
-*   **Une dimension réflexive et modale** : Elle ne se limite pas à enregistrer des données de premier ordre. Elle utilise des diagnostics de second ordre (dont l'audit et le repérage des zones de silence) pour évaluer ses propres conditions de possibilité et explorer de nouveaux possibles descriptifs par l'imagination conceptuelle.
+Une distinction devient contestable.
 
----
+Une condition est traitée comme un critère.
 
-## Dimensions principales
-L'enquête protokinienne s'articule autour de quatre dimensions constitutives qui règlent sa force thérapeutique de second ordre :
+Une cause est invoquée comme une raison.
 
-### 1. L'ancrage dans la situation problématique (Le point de départ pratique)
-L'enquête ne s'initie jamais par pure curiosité spéculative. Elle est provoquée par un trouble réel au sein de la pratique : une anomalie rebelle du milieu (PROTO) qui sature les critères de redevabilité du régime en vigueur (KIN), ou une tension inter-régime non maîtrisée qui paralyse la coordination collective.
+Une trace est directement assimilée à une signification.
 
-### 2. L'explicitation réflexive de second ordre (Le recours à l'audit)
-L'enquête dépasse la simple observation passive de faits. Elle exige d'auditer la pratique en crise en rendant explicites ses conditions matérielles (les supports d'inscription), ses dépendances logiques (les chaînes inférentielles d'amont) et ses exclusions asymétriques (les zones de silence sédimentées), transformant ainsi l'impasse d'origine en problème formulable.
+Une fonction est transformée en propriété intrinsèque.
 
-### 3. L'ouverture modale et l'imagination conceptuelle (La variation des possibles)
-Pour débloquer une configuration descriptive saturée, l'enquête active l'imagination. Les hypothèses, les expériences de pensée, les métaphores et les analogies ne sont pas des fictions secondaires ; elles fonctionnent comme des opérateurs de variation conceptuelle indispensables pour explorer d'autres agencements de critères et d'engagements sans subir immédiatement l'inertie du cliquet dominant.
+Une description produit des conséquences que le cadre utilisé ne permet plus de traiter.
 
-### 4. La visée de transduction et de nouvelle stabilisation
-L'enquête s'interrompt de manière pragmatique dès lors que le trouble est résorbé. Le succès de l'enquête ne se mesure pas à une vérité métaphysique intemporelle, mais à sa capacité à installer un nouvel équilibre fonctionnel : un nouveau régime stabilisé par l'effet cliquet, réduisant le coût de la coordination future.
+Le trouble ne désigne donc pas nécessairement une erreur.
+
+Il désigne le moment où le fonctionnement d'une pratique descriptive devient lui-même problématique.
+
+La question de l'enquête devient alors :
+
+> «Comment reprendre une pratique lorsque les distinctions qui permettaient jusque-là de la poursuivre ne suffisent plus à en assurer l'intelligibilité ?»
 
 ---
 
-## Distinctions conceptuelles nécessaires
+## 1. Le trouble déclenche l'enquête
 
-### Enquête et Observation passive (ou Collecte d'informations)
-La différence porte sur la portée transformatrice de l'opération. L'**observation passive** (ou la simple collecte de données) enregistre et accumule des faits de premier ordre à l'intérieur d'une grille catégorielle existante qu'elle s'interdit de contester. L'**enquête**, à l'inverse, est une **opération de reconstruction de second ordre** : elle remet en cause la grille catégorielle elle-même, réorganisant les critères d'évaluation et de pertinence pour rendre à nouveau dicible ce que l'ancien cadre occultait.
-*La collecte d'informations ajoute des faits dans des cases ; l'enquête modifie la forme même des cases.*
+Le trouble n'est pas une entité supplémentaire.
 
-### Enquête et Démonstration
-La différence porte sur la fonction logique. La **démonstration** est une opération déductive formelle s'exécutant au sein d'un espace de raisons clos, dont les règles, les critères et les axiomes de départ sont supposés intangibles et non contestables. L'**enquête** est le processus historique et métastable qui **construit, éprouve et stabilise les descriptions** qui pourront ensuite faire l'objet d'une démonstration rationnelle au sein d'une communauté de locuteurs.
-*La démonstration conclut à l'intérieur d'un régime ; l'enquête institue et réorganise les régimes.*
+Il désigne une difficulté rencontrée dans le fonctionnement d'une pratique.
 
-### Enquête et Audit
-La différence porte sur la granularité et la finalité de la méthode. L'**enquête** désigne le mouvement diachronique d'ensemble de résolution de la situation problématique (elle englobe la rencontre du trouble, l'exploration des possibles et la nouvelle stabilisation pratique). L'**audit** est l'**instrument réflexif privilégié de l'enquête** : il intervient comme une étape immanente d'examen et de diagnostic clinique, chargée de dresser la cartographie des conditions matérielles, des engagements et des limites qui soutiennent le régime en vigueur.
-*L'enquête est l'activité générale de transformation ; l'audit est l'outil critique d'explicitation des conditions.*
+Il peut prendre des formes différentes :
 
----
+- une distinction devenue instable ;
+- une incompatibilité entre descriptions ;
+- une fonction qui ne produit plus l'effet attendu ;
+- une relation dont le rôle devient indéterminé ;
+- une justification devenue contestable ;
+- une conversion indue entre deux dimensions ;
+- une incapacité à poursuivre la description sans modifier ses propres critères.
 
-## Articulation dans l'architecture Protokin
+Le trouble n'est donc pas défini par sa seule intensité.
 
-Au sein de l'armature de Protokin, l'enquête se situe à l'articulation de la dynamique descriptive et des méthodes d'audit :
+Il est défini par sa fonction dans l'enquête :
 
-```text
-Pratiques collectives (Reproduction des configurations normatives)
-        ↓
-Tensions, anomalies & Limites internes (Saturation des régimes de justification)
-        ↓
-QU'EST-CE QU'UNE ENQUÊTE ? (Opérateur de reconstruction et de transduction)
-        ↓
-Comment conduire une enquête (Séquence opératoire pratique)
-        ↓
-Comment réaliser un audit & Critères de vigilance (Instruments d'explicitation)
-        ↓
-Traductions & Transitions descriptives (Reconfiguration globale des conditions)
-        ↓
-Nouvelle stabilisation (Sédimentation et nouvel effet cliquet)
-```
+> «il rend nécessaire l'examen de ce qui permettait jusque-là de poursuivre la pratique.»
+
+Il ne constitue pas une cause première de l'enquête.
+
+Il est le point à partir duquel une pratique devient réflexivement problématique.
 
 ---
 
-Développement progressif : la plasticité de l'espace des raisons
+## 2. De la pratique à l'enquête
 
-L'établissement de l'enquête comme principe d'intelligibilité interdit à Protokin de considérer la raison comme un monument de marbre ou un système de règles figé pour l'éternité. L'espace des raisons (KIN) ne s'impose pas par une adéquation mystique avec un ordre naturel pré-découpé, mais par l'efficacité de ses structures de coordination face au milieu.
+Avant le trouble, une pratique peut fonctionner à son premier ordre.
 
-Lorsqu'une communauté de locuteurs est installée au sein d'un régime fortement stabilisé par des supports institutionnels, textuels et documentaires (allure inertielle), le coût d'abandon des catégories évitant l'effet cliquet est exorbitant. Cependant, l'interaction vivante de l'organisme avec le milieu (plan PROTO) finit inévitablement par faire surgir des "butoirs" matériels — des anomalies et des souffrances qu'aucune description du cadre dominant ne peut formuler sans paradoxe ou réduction abusive.
+Les participants utilisent des distinctions disponibles pour décrire, comparer, agir, argumenter ou répondre.
 
-La situation entre alors dans une phase indéterminée et métastable. La communauté de locuteurs ne peut se satisfaire d'un simple remplacement superficiel de ses énoncés. Elle doit suspendre la routine immanente et s'engager dans l'enquête.
+L'enquête de second ordre apparaît lorsque ces opérations deviennent elles-mêmes pertinentes pour le problème rencontré.
 
-L'enquête procède par une analyse immanente : elle ne rejette pas l'héritage du passé, mais l'utilise comme ressource. En s'appuyant sur des outils d'audit, elle repère les confusions de niveaux, les réductions sauvages et les injustices testimoniales. Elle utilise l'imagination pour tester de nouvelles configurations de redevabilité.
+La distinction peut alors être formulée ainsi :
 
-Ce travail de transduction réorganise la structure interne du régime : certaines implications logiques sont modifiées, des incompatibilités sont levées, et de nouveaux supports d'inscription sont sédimentés, ouvrant l'espace des raisons à de nouvelles habilitations de parole.
+> «Premier ordre : utiliser une distinction pour poursuivre une pratique.»
 
----
+> «Second ordre : examiner comment cette distinction fonctionne dans la pratique et selon quelles conditions elle peut être maintenue, modifiée ou abandonnée.»
 
-Éclairage par les fils rouges pédagogiques
+Le second ordre n'est donc pas un niveau supérieur de réalité.
 
-1. Le patient aux urgences
+Il ne constitue pas une nouvelle couche ontologique.
 
-À l'arrivée du patient souffrant, la situation est d'abord marquée par l'indétermination de la configuration rencontrée (gémissements, pâleur, PROTO). Si l'équipe applique de manière rigide la grille de tri administrative standardisée, l'action s'installe dans une allure inertielle qui risque de masquer une détresse atypique (zone de silence du support informatique). Le dysfonctionnement et le trouble clinique déclenchent l'enquête : l'infirmière de tri et l'urgentiste suspendent le protocole comptable routinier pour interroger les limites de leurs critères, mobilisent des perspectives hétérogènes (clinique, somatique, vécue) et reconstruisent une description individualisée de la situation pour ajuster la décision thérapeutique vitale.
+Il désigne un changement de fonction de l'enquête :
 
-2. Le botaniste et le bûcheron dans la forêt
-
-Marchant dans la même forêt, leurs descriptions respectives coexistent de façon compatible en temps normal car elles répondent à des finalités d'action disjointes. Toutefois, si un dépérissement forestier systémique surgit (stress hydrique lié au réchauffement, PROTO), leurs régimes respectifs saturent. Le bûcheron ne peut plus évaluer la coupe de manière marchande brute ; le botaniste ne peut plus classer les espèces de manière purement contemplative. Ils doivent s'engager dans une enquête commune : ils créent un espace d'investigation, conçoivent une nouvelle configuration de sylviculture écologique et élaborent des traductions rigoureuses entre leurs critères respectifs de biodiversité et d'exploitation.
-
-3. « Cette personne est mauvaise »
-
-Au sein du régime moral ordinaire, cet énoncé est un coup de redevabilité qui fige et réifie l'individu sous une étiquette d'essence permanente, fermant prématurément l'enquête à coût nul. Protokin intervient ici comme un outil d'enquête de second ordre : il suspend cette évidence naturalisée, retrace la trajectoire descriptive de cette qualification, identifie les zones de silence qu'elle impose et propose des reconfigurations (traductions vers des explications causales psychologiques, sociologiques ou cliniques) qui restaurent la plasticité et les possibilités réelles d'évolution comportementale de l'individu.
+> «la pratique devient capable de prendre ses propres opérations descriptives comme problème.»
 
 ---
 
-Limites et vigilances méthodologiques de l'enquête
+## 3. Une fonction d'audition, une fonction d'enquête, une fonction de parole
 
-Lors d'un audit de la dynamique d'une enquête, l'analyste de second ordre doit surveiller deux pathologies majeures du changement conceptuel :
+L'enquête peut être décrite à partir de trois fonctions successives.
 
-· L'enquête infinie (La régression paralysante de second ordre) : L'illusion réflexive dans laquelle une communauté s'auto-enferme dans un examen permanent et sans fin de ses propres critères (l'audit de l'audit de l'audit), retardant indéfiniment l'action de premier ordre. L'audit rappelle que l'enquête doit trouver son point d'arrêt pragmatique dès lors que la coordination collective et le couplage avec le milieu sont fonctionnellement restaurés.
-· La fermeture dogmatique prématurée : La pathologie inverse consistant à verrouiller de force un régime de description saturé en ignorant les anomalies et en réprimant la contestation par des dispositifs de force ou des arguments d'autorité non-humaine, condamnant la communauté à l'asphyxie adaptative et à l'injustice herméneutique cumulative.
-· Le biais de l'observateur invisible (Illusion de surplomb) : L'erreur de l'enquêteur qui croit mener son investigation depuis une position extérieure absolue, oubliant que toute enquête est une description située, dépendante de ses propres supports documentaires et de ses propres limites conceptuelles.
+### Audition
+
+L'audition consiste à recevoir et traiter une description dans le cadre des distinctions disponibles.
+
+Elle ne suppose ni accord ni adhésion.
+
+Un interlocuteur peut comprendre une description sans l'accepter.
+
+Tant que les distinctions disponibles permettent de poursuivre la discussion, aucune enquête de second ordre n'est nécessaire.
+
+### Enquête
+
+L'enquête commence lorsque le cadre descriptif lui-même devient une partie du problème.
+
+Il ne suffit plus de demander :
+
+> «Que signifie cette description ?»
+
+Il faut également demander :
+
+> «Quelle distinction permet ici cette description ?»
+
+> «Quelle fonction cette distinction remplit-elle ?»
+
+> «Quelles conditions la rendent possible ?»
+
+> «Selon quels critères peut-elle être maintenue, contestée ou révisée ?»
+
+### Parole
+
+La parole reprend lorsque l'enquête a suffisamment clarifié le trouble initial pour permettre une nouvelle formulation.
+
+Cette reprise ne produit pas nécessairement une vérité définitive.
+
+Elle produit une description suffisamment stabilisée pour redevenir opératoire, discutable et révisable.
+
+L'audition, l'enquête et la parole ne désignent donc pas trois types de personnes.
+
+Elles désignent trois fonctions possibles dans une même pratique descriptive.
 
 ---
 
-Synthèse finale
+## 4. La quadripartition comme matrice d'enquête
 
-Ce que cette page établit
+L'enquête utilise la quadripartition pour éviter les conversions indues entre dimensions.
 
-Cette page établit le concept d'enquête comme le processus transactionnel, immanent et collectif par lequel une communauté de locuteurs reconstruit activement ses configurations descriptives et réorganise ses régimes de justification pour résoudre une situation problématique.
+Elle peut demander :
 
-Ce qu'elle suppose
+| Question | Objet de l'examen |
+|---|---|
+| **Corps** | Quelles conditions corporelles et matérielles interviennent ? |
+| **Relation** | Quelles mises en rapport sont pertinentes ? |
+| **Fonction** | Que permettent effectivement ces configurations dans la pratique ? |
+| **Justification** | Selon quels critères les descriptions ou engagements peuvent-ils être défendus, contestés ou révisés ? |
 
-Cette page suppose établis :
+Ces questions ne constituent pas quatre étapes obligatoires.
 
-· Le primat de l'enquête.
-· La configuration rencontrée et la description.
-· La stabilisation et l'effet cliquet.
-· Les tensions et les limites internes.
+Elles permettent de déterminer où se situe le trouble et quelle distinction doit être reprise.
 
-Ce qu'elle rend possible
+L'enquête peut commencer par une contrainte corporelle, une relation devenue problématique, une fonction inattendue ou une contestation de justification.
 
-Cette page rend possibles :
+Elle peut ensuite conduire à réexaminer les autres dimensions.
 
-· La méthode pratique de conduite d'une enquête (Comment conduire une enquête).
-· L'élaboration de l'audit immanent des régimes (Comment réaliser un audit).
-· Le diagnostic clinique des pathologies relationnelles (réductions, confusions de niveaux, injustices collectives).
-· Les opérations de traduction inter-régimes et les transitions descriptives globales.
+La quadripartition oriente donc l'enquête sans en prédéterminer le parcours.
 
 ---
 
-Version
+## 5. Délimiter
 
-Protokin 2026 - version 1.1
+Toute enquête commence par une délimitation du problème.
+
+Il s'agit de déterminer ce qui est effectivement problématique et ce qui ne l'est pas encore.
+
+Cette opération évite d'étendre le trouble à l'ensemble de la pratique.
+
+Délimiter consiste notamment à demander :
+
+> «Quelle distinction ne fonctionne plus ?»
+
+> «Dans quelle situation ?»
+
+> «Pour quelle opération ?»
+
+> «Avec quelles conséquences ?»
+
+La délimitation protège l'enquête contre la prolifération inutile des distinctions.
+
+Elle constitue une première exigence de sobriété.
+
+---
+
+## 6. Ancrer
+
+L'enquête cherche ensuite les conditions dans lesquelles le problème apparaît.
+
+Ancrer ne signifie pas réduire le problème à sa condition matérielle.
+
+Il s'agit de déterminer les configurations corporelles, matérielles, relationnelles et pratiques qui rendent le problème observable et traitable.
+
+Une condition peut expliquer l'apparition d'une difficulté sans constituer pour autant sa justification.
+
+Ainsi :
+
+> «condition ≠ critère»
+
+et :
+
+> «cause ≠ raison»
+
+L'ancrage fournit des dépendances pertinentes sans transformer ces dépendances en conclusions normatives.
+
+---
+
+## 7. Distinguer
+
+L'enquête examine ensuite les distinctions qui organisent la pratique.
+
+Cette opération cherche notamment à identifier les conversions indues :
+
+- condition → critère ;
+- cause → raison ;
+- trace → signification ;
+- fonction → propriété ;
+- capacité → performance ;
+- genèse → justification ;
+- description → objet décrit.
+
+Distinguer ne consiste pas à séparer absolument les phénomènes.
+
+Il s'agit de maintenir leur différence fonctionnelle tout en conservant les dépendances qui les relient.
+
+La règle peut être formulée ainsi :
+
+> «Distinguer sans isoler.»
+
+---
+
+## 8. Relier
+
+Une distinction n'est utile que si elle permet également de déterminer les relations pertinentes avec les autres dimensions.
+
+L'enquête ne cherche donc pas à établir quatre domaines indépendants.
+
+Elle examine les dépendances :
+
+> «une modification corporelle peut transformer une relation ;»
+
+> «une transformation relationnelle peut modifier une fonction ;»
+
+> «une modification fonctionnelle peut rendre une justification nécessaire ;»
+
+> «une contestation d'une justification peut conduire à transformer la pratique.»
+
+Mais aucune de ces dépendances n'autorise une conversion automatique.
+
+La règle devient :
+
+> «Articuler sans convertir.»
+
+La continuité des dépendances ne supprime donc pas la discontinuité des fonctions.
+
+---
+
+## 9. Décrire
+
+Après délimitation, ancrage, distinction et articulation, l'enquête peut reconstruire une description du problème.
+
+Cette description ne prétend pas reproduire une réalité indépendante de toute opération descriptive.
+
+Elle cherche à rendre explicite :
+
+- la différence observée ;
+- les conditions pertinentes ;
+- les relations engagées ;
+- la fonction concernée ;
+- les critères de recevabilité ;
+- les limites de la description.
+
+Une description issue de l'enquête est donc une description dont les conditions de fonctionnement sont davantage explicites.
+
+Elle reste néanmoins révisable.
+
+---
+
+## 10. Justifier
+
+La justification intervient lorsque la description ou l'engagement doit pouvoir être défendu, contesté ou révisé.
+
+Elle ne consiste pas à rechercher une cause supplémentaire.
+
+Elle examine les raisons, critères, engagements et conséquences inférentielles qui rendent une position recevable dans une pratique donnée.
+
+Ainsi :
+
+> «genèse ≠ justification»
+
+Une description peut avoir une histoire déterminée sans que cette histoire suffise à la justifier.
+
+Inversement, une justification peut transformer une pratique sans devenir pour autant sa cause matérielle.
+
+La justification reste donc une fonction distincte des conditions corporelles, des relations et des fonctions pratiques.
+
+---
+
+## 11. Reconstituer
+
+L'enquête n'a pas pour objectif de maintenir indéfiniment le problème ouvert.
+
+Elle vise une reprise de la pratique.
+
+Reconstituer consiste à rassembler les distinctions pertinentes après leur examen afin de produire une configuration suffisamment cohérente pour poursuivre l'activité.
+
+Cette reconstitution peut conduire :
+
+- à conserver une distinction ;
+- à la préciser ;
+- à en modifier la fonction ;
+- à abandonner une distinction ;
+- à reformuler le problème ;
+- à redélimiter le domaine de pertinence.
+
+L'enquête ne se termine donc pas nécessairement par une solution.
+
+Elle peut se terminer par une reconfiguration praticable du problème.
+
+---
+
+## 12. Redélimiter
+
+Une enquête réussie ne clôt pas nécessairement définitivement le problème.
+
+La reprise peut faire apparaître que la première formulation était trop large, trop étroite ou mal orientée.
+
+La dernière opération consiste alors à redélimiter :
+
+> «ce qui est désormais établi, ce qui reste indéterminé et ce qui demeure ouvert à contestation.»
+
+Cette redélimitation empêche la stabilisation obtenue par l'enquête de devenir une nouvelle évidence intouchable.
+
+Une stabilisation reste une stabilisation :
+
+> «elle peut fonctionner sans être définitive.»
+
+---
+
+## 13. L'enquête est une chaîne d'enquête, non une chaîne de constitution
+
+Le parcours de l'enquête peut être représenté ainsi :
+
+> «Délimiter → Ancrer → Distinguer → Relier → Décrire → Justifier → Reconstituer → Redélimiter»
+
+Cette séquence décrit le mouvement possible de l'enquête.
+
+Elle ne décrit pas la constitution ontologique de ce qui est enquêté.
+
+Les flèches indiquent des reprises fonctionnelles.
+
+Elles ne signifient pas :
+
+> «matière → relation → fonction → justification.»
+
+Elles ne signifient pas davantage que toute enquête doit parcourir toutes ces opérations dans cet ordre.
+
+La chaîne fournit une orientation méthodologique, non une loi de constitution du réel.
+
+---
+
+## 14. La réflexivité n'est pas une nouvelle couche
+
+L'enquête devient réflexive lorsqu'elle peut appliquer ses propres distinctions à ses propres opérations.
+
+Elle peut alors demander :
+
+> «Dans quelles conditions cette enquête est-elle menée ?»
+
+> «Quelles relations construit-elle entre ses distinctions ?»
+
+> «Quelle fonction remplit chacune de ses opérations ?»
+
+> «Selon quels critères ses propres descriptions peuvent-elles être contestées ou révisées ?»
+
+La réflexivité ne constitue donc pas une cinquième dimension.
+
+Elle traverse la quadripartition.
+
+L'enquête peut être réflexive sans produire une nouvelle hiérarchie :
+
+> «description → méta-description → méta-méta-description.»
+
+Elle revient au contraire au problème initial.
+
+Ainsi :
+
+> «le second ordre n'est pas un étage supérieur ; c'est une reprise de l'enquête sur les conditions de son propre fonctionnement.»
+
+---
+
+## 15. La sobriété comme règle d'arrêt
+
+L'enquête doit rester proportionnée au trouble qui l'a déclenchée.
+
+Multiplier les distinctions sans nécessité fonctionnelle peut produire une nouvelle difficulté au lieu de résoudre celle qui a motivé l'enquête.
+
+La sobriété impose donc une question simple :
+
+> «Quelle distinction supplémentaire est nécessaire pour traiter le trouble ?»
+
+Si aucune distinction supplémentaire ne permet de mieux délimiter, expliquer, justifier ou réviser le problème, l'enquête n'a pas de raison de poursuivre son niveau de réflexivité.
+
+La règle d'arrêt n'est donc pas :
+
+> «atteindre le dernier niveau de description.»
+
+Elle est :
+
+> «avoir rendu le trouble suffisamment intelligible pour permettre la reprise de la pratique.»
+
+Cette reprise reste ouverte à un nouvel audit.
+
+---
+
+## 16. Enquête et temporalité
+
+L'enquête est également une pratique temporelle.
+
+Une distinction peut être stable à un moment donné et devenir problématique ultérieurement.
+
+Une fonction peut se transformer.
+
+Une justification peut être contestée.
+
+Une relation peut être réorganisée.
+
+Une description peut se sédimenter avant d'être reprise.
+
+La temporalité ne constitue donc pas une étape supplémentaire de l'enquête.
+
+Elle permet d'examiner comment les distinctions et leurs fonctions se transforment au cours de la pratique.
+
+Trajectoire, allure et distance peuvent ainsi être mobilisées lorsque le problème porte sur la manière dont une transformation se distribue dans le temps.
+
+---
+
+## 17. L'enquête peut s'appliquer à Protokin
+
+Protokin n'est pas exempt de l'enquête qu'il propose.
+
+Ses propres distinctions peuvent devenir problématiques.
+
+Une distinction peut être trop large.
+
+Un concept peut remplir plusieurs fonctions incompatibles.
+
+Une page peut convertir une condition en justification.
+
+Une catégorie peut devenir une classification ontologique alors qu'elle devait rester un outil d'enquête.
+
+Une architecture peut produire des dépendances qu'elle ne parvient plus à distinguer.
+
+Dans ce cas, Protokin doit pouvoir appliquer à lui-même ses propres opérations :
+
+> «délimiter → distinguer → relier → justifier → auditer → réviser.»
+
+La réflexivité de Protokin n'est donc pas une affirmation de cohérence absolue.
+
+Elle est la possibilité de soumettre continuellement ses propres distinctions aux conditions d'enquête qu'il propose.
+
+---
+
+## Ce que l'enquête établit
+
+L'enquête établit :
+
+- une reprise d'une pratique devenue problématique ;
+- le rôle déclencheur du trouble ;
+- la distinction entre premier et second ordre ;
+- l'usage de la quadripartition comme matrice d'orientation ;
+- la non-conversion entre Corps, Relation, Fonction et Justification ;
+- la distinction entre chaîne d'enquête et chaîne de constitution ;
+- la possibilité de reconstruire une description sans prétendre atteindre une vérité absolue ;
+- la révisabilité de toute stabilisation obtenue.
+
+---
+
+## Ce que l'enquête n'établit pas
+
+L'enquête n'établit pas :
+
+- une ontologie du réel ;
+- une correspondance garantie entre description et monde ;
+- une hiérarchie des niveaux de réalité ;
+- une procédure universelle de résolution des problèmes ;
+- une vérité définitive ;
+- une clôture de la pratique ;
+- une nouvelle couche métaphysique appelée « second ordre ».
+
+Elle ne garantit pas non plus la validité de la description produite.
+
+Elle rend plutôt ses conditions, ses fonctions, ses engagements et ses limites plus explicites, plus discutables et plus révisables.
+
+---
+
+## Synthèse
+
+L'enquête commence lorsqu'une pratique descriptive rencontre un trouble que ses distinctions ordinaires ne permettent plus de traiter suffisamment.
+
+Elle reprend alors les opérations qui rendent cette pratique possible.
+
+> «Le trouble déclenche.
+> La délimitation circonscrit.
+> L'ancrage situe.
+> La distinction sépare sans isoler.
+> La relation articule sans convertir.
+> La description reconstruit.
+> La justification rend contestable et révisable.
+> La reconstitution permet la reprise.
+> La redélimitation maintient l'ouverture à l'audit.»
+
+L'enquête de second ordre n'est donc pas un niveau supérieur de connaissance.
+
+Elle est une reprise réflexive d'une pratique lorsque son propre fonctionnement devient problématique.
+
+Son critère d'arrêt n'est pas l'atteinte d'un fondement ultime.
+
+C'est la possibilité de reprendre la pratique avec des distinctions devenues suffisamment explicites pour être utilisées, discutées, justifiées et révisées.
+
+> «Protokin ne décrit pas un réel depuis l'extérieur. Il enquête sur les conditions dans lesquelles une pratique peut produire des descriptions suffisamment stables pour être discutées et suffisamment ouvertes pour être révisées.»
