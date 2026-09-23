@@ -1,224 +1,736 @@
-# Page : tdm.md
+# Table des matières développée
 
-# PROTOKIN — TABLE DES MATIÈRES
+Cette table reprend les opérations de la chaîne d'enquête.
 
-*« Une métathéorie pragmatiste, inférentialiste, réflexive et non-ontologique des pratiques descriptives. »*
+Chaque section correspond à une fonction d'enquête, non à une étape de constitution d'un objet, d'un sujet ou du réel.
 
-## Architecture fonctionnelle
+Les entrées signalées par ▸ sont développées dans les fichiers de référence.
 
-`00 Délimiter` → `01 Ancrer` → `02 Distinguer` → `03 Relier` → `04 Décrire` → `05 Justifier` → `06 Temporaliser` → `07 Expliquer` → `08 Auditer` → `09 Réfléchir` → `10 Éprouver` → `11 Reconstituer` → `12 Redélimiter`
+Les entrées signalées par · désignent des distinctions locales, mobilisables selon les problèmes rencontrés sans devenir des dimensions fondamentales de l'architecture.
 
-La séquence indique l'ordre fonctionnel des opérations de l'ouvrage.
+> «La chaîne de Protokin est une chaîne d'enquête, non une chaîne de constitution.»
 
-Elle ne constitue ni une genèse ontologique, ni une hiérarchie des régimes, ni une progression de la matière vers la norme.
+La chaîne ordonne les opérations de l'enquête ; la quadripartition ordonne les questions que ces opérations doivent maintenir distinctes.
 
-La grille transversale de toute enquête reste :
+---
 
-> **Corps dans le milieu** ↔ **Relation** ↔ **Fonction** ↔ **Justification**
+## Cadre général
+
+Cette partie ne relève pas de la chaîne d'enquête. Elle positionne Protokin et organise la lecture.
+
+### Protokin en une phrase
+
+▸ « Protokin enquête sur les conditions, fonctions et transformations par lesquelles des pratiques rendent des différences descriptibles, discutables, justifiables, stabilisables, contestables et révisables. »
+
+▸ « Protokin ne décrit rien. Il enquête sur la manière dont des pratiques rendent quelque chose descriptible. »
+
+### Le problème : point de départ de l'enquête
+
+▸ Protokin ne commence ni par une ontologie générale ni par des catégories posées a priori.
+
+▸ L'enquête commence lorsqu'une pratique descriptive rencontre un problème : distinction contestable, description qui change de fonction, explication confondue avec justification, cause prise pour raison, stabilisation traitée comme immobilité, description confondue avec ce qu'elle décrit, condition transformée en critère, capacité confondue avec performance.
+
+▸ Le problème n'est pas une chose à découvrir derrière la pratique. Il est ce qui rend nécessaire sa reprise.
+
+### Une enquête, pas une ontologie
+
+▸ Protokin ne cherche pas à déterminer ce que les choses sont en elles-mêmes.
+
+▸ Il examine dans quelles conditions une description devient possible, sous quelles relations elle fonctionne, ce qu'elle permet de faire, selon quels critères elle peut être défendue, contestée ou révisée.
+
+### Non-ontologie
+
+▸ Protokin ne choisit pas entre matérialisme, idéalisme, réalisme ou relativisme ontologique.
+
+▸ Il demande :
+
+> « Sous quelles conditions une configuration peut-elle être décrite comme réelle, matérielle, causale, vivante, sociale, normative ou rationnelle dans une pratique déterminée ? »
+
+### Ce que Protokin n'établit pas
+
+▸ Ni ontologie générale.
+
+▸ Ni théorie de la constitution du réel.
+
+▸ Ni théorie de la constitution ontologique des objets.
+
+▸ Ni théorie générale du langage.
+
+▸ Ni réduction biologique.
+
+▸ Ni théorie selon laquelle toute pratique suivrait quatre étapes.
+
+▸ Ni hiérarchie de niveaux.
+
+▸ Ni procédure mécanique.
+
+▸ Ni doctrine définitive.
+
+### Pour commencer
+
+▸ Introduction générale
+→ Architecture fonctionnelle
+→ Quadripartition fondamentale
+→ Principes fondamentaux
+→ Protocole d'audit
+
+### Parcours de lecture
+
+▸ Les autres sections développent, éprouvent ou mettent en perspective cette architecture.
 
 ---
 
 ## 00 — Délimiter
 
-**Fonction** : Établir les conditions d'entrée dans l'enquête et délimiter ce que Protokin prend en charge.
+Fonction : déterminer le problème sur lequel porte l'enquête et en préciser les frontières.
 
-| Titre | Fonction | Fichier |
-|---|---|---|
-| 00 - Se repérer | Présenter la fonction d'orientation de la section. | [00-se-reperer.md](00-se-reperer.md) |
-| Introduction générale | Présenter le déplacement fondamental de Protokin vers l'analyse des pratiques descriptives. | [introduction-generale.md](introduction-generale.md) |
-| Protokin en une phrase | Formuler la définition synthétique du projet. | [protokin-en-une-phrase.md](protokin-en-une-phrase.md) |
-| Statut du projet | Délimiter le statut métathéorique, non-ontologique et réflexif de Protokin. | [statut-du-projet.md](statut-du-projet.md) |
-| Nom, origine et portée | Définir le nom Protokin et sa portée sans hypostase lexicale. | [nom-origine-portee.md](nom-origine-portee.md) |
-| Visée et non-visée | Délimiter ce que Protokin cherche à analyser et ce qu'il refuse de prendre en charge. | [visee-et-non-visee.md](visee-et-non-visee.md) |
-| Parcours de lecture | Orienter les différents modes de lecture de l'ouvrage. | [parcours-de-lecture.md](parcours-de-lecture.md) |
-| Plan directeur | Présenter l'organisation fonctionnelle générale de l'ouvrage. | [plan-directeur.md](plan-directeur.md) |
+> « Le point de départ de Protokin est le problème, non un fondement. »
 
----
+> « Délimiter ne signifie pas résoudre : cela signifie rendre le problème enquêtable. »
 
-## 01 — Contraintes corporelles et fonctions de stimulus
+### Trouble
 
-**Fonction** : Établir l'ancrage matériel, biologique et sensorimoteur des pratiques sans convertir les différences rencontrées en significations ou en raisons.
+▸ Difficulté rencontrée dans le fonctionnement d'une pratique.
 
-| Titre | Fonction | Fichier |
-|---|---|---|
-| 01 - Contraintes corporelles et fonctions de stimulus | Présenter l'ancrage corporel et matériel de l'enquête. | [01-contraintes-corporelles-et-fonctions-de-stimulus.md](01-contraintes-corporelles-et-fonctions-de-stimulus.md) |
-| Configuration matérielle et corporelle | Décrire l'organisme comme système somatique situé. | [configuration-materielle-et-corporelle.md](configuration-materielle-et-corporelle.md) |
-| Couplage organisme-milieu | Établir le couplage dynamique entre organisme et milieu. | [primat-couplage-organisme-milieu.md](primat-couplage-organisme-milieu.md) |
-| Perception-action | Décrire l'ajustement sensorimoteur de l'organisme à son milieu. | [primat-couplage-perception-action.md](primat-couplage-perception-action.md) |
-| Différence rencontrée | Décrire l'émergence d'un contraste dans le couplage organisme-milieu. | [difference-rencontree.md](difference-rencontree.md) |
-| Stimulus physique | Distinguer l'événement physique de sa fonction de stimulus. | [stimulus-physique.md](stimulus-physique.md) |
-| Fonction de stimulus | Établir le rôle comportemental d'une configuration physique pour un organisme. | [fonction-de-stimulus.md](fonction-de-stimulus.md) |
-| Transduction sélective | Décrire la sélection sensorimotrice des variations du milieu. | [transduction-selective-et-ancrage-somatique.md](transduction-selective-et-ancrage-somatique.md) |
-| Sens, corps et différence | Décrire les modalités somatiques par lesquelles des différences deviennent disponibles. | [sens-corps-difference-au-signe.md](sens-corps-difference-au-signe.md) |
-| Attention organique | Décrire la sélection attentionnelle et sensorimotrice. | [attention-organique.md](attention-organique.md) |
-| Entrée perceptive | Décrire la capture des contrastes par les dispositions réactives. | [rdrd-et-entree-perceptive.md](rdrd-et-entree-perceptive.md) |
-| Appétit et aversion | Décrire les orientations somatiques positives et négatives envers le milieu. | [appetit-et-aversion.md](appetit-et-aversion.md) |
-| Butoir | Décrire les résistances matérielles rencontrées par l'organisme. | [butoir.md](butoir.md) |
-| Trace | Distinguer l'empreinte matérielle de sa réactivation fonctionnelle. | [trace.md](trace.md) |
-| Intra-action | Décrire les frontières organisme-milieu comme effets de relation. | [intra-action.md](intra-action.md) |
-| Niche biologique | Décrire le domaine d'interactions stabilisé entre organisme et milieu. | [niche-biologique.md](niche-biologique.md) |
+▸ Le trouble peut prendre la forme d'une distinction instable, d'une incompatibilité entre descriptions, d'une fonction qui ne produit plus l'effet attendu, d'une relation dont le rôle devient indéterminé, d'une justification contestable, d'une conversion indue ou d'une incapacité à poursuivre sans modifier les critères.
 
----
+▸ Le trouble n'est pas défini par son intensité mais par sa fonction : il rend nécessaire l'examen de ce qui permettait jusque-là de poursuivre la pratique.
 
-## 02 — Quadripartition et principe de non-conversion
+▸ Il ne constitue pas une cause première de l'enquête.
 
-**Fonction** : Construire la grammaire différentielle permettant de distinguer les dimensions d'une pratique et d'empêcher leur conversion.
+### Situation problématique
 
-| Titre | Fonction | Fichier |
-|---|---|---|
-| 02 - Quadripartition et principe de non-conversion | Présenter la grille formelle d'audit et ses règles de distinction. | [02-quadripartition-et-non-conversion.md](02-quadripartition-et-non-conversion.md) |
-| Quadripartition fondamentale | Établir les quatre dimensions : Corps, Relation, Fonction, Justification. | [corps-relation-fonction-justification.md](corps-relation-fonction-justification.md) |
-| Continuité des dépendances et discontinuité des fonctions | Articuler les dimensions sans les convertir. | [continuite-des-dependances-discontinuite-des-fonctions.md](continuite-des-dependances-discontinuite-des-fonctions.md) |
-| Principe de non-conversion | Formaliser les distinctions entre cause, raison, genèse, justification, condition et critère. | [articulation_vs_conversion.md](articulation_vs_conversion.md) |
-| Capacité, performance et validité | Distinguer capacité relationnelle, performance discursive et validité normative. | [capacite_performance_validite.md](capacite_performance_validite.md) |
-| Configuration, relation, fonction et justification | Préciser le statut des quatre dimensions d'interrogation. | [configuration-relation-fonction-justification.md](configuration-relation-fonction-justification.md) |
+▸ Le problème apparaît lorsqu'une pratique descriptive rencontre un trouble qu'elle ne parvient plus à traiter sans difficulté supplémentaire.
 
----
+▸ Le problème n'est ni une simple ignorance, ni un manque d'information, ni une difficulté psychologique individuelle.
 
-## 03 — Cadres relationnels et transformations
+▸ Il constitue le point de départ effectif de l'enquête.
 
-**Fonction** : Modéliser la manière dont des configurations sont prises dans des relations et comment ces relations modifient leurs fonctions.
+### Distinctions engagées
 
-| Titre | Fonction | Fichier |
-|---|---|---|
-| 03 - Cadres relationnels et transformations | Présenter la fonction de la médiation relationnelle. | [03-cadres-relationnels-et-transformations.md](03-cadres-relationnels-et-transformations.md) |
-| Configuration relationnelle | Définir l'unité relationnelle dans laquelle une configuration acquiert une fonction. | [configuration-relationnelle.md](configuration-relationnelle.md) |
-| Indice | Décrire le rôle fonctionnel de l'indice dans l'orientation vers une différence. | [indice.md](indice.md) |
-| Indice arbitraire | Décrire les relations arbitrairement applicables à une configuration. | [indice-arbitraire.md](indice-arbitraire.md) |
-| Indice arbitraire et ancrage praxique | Maintenir le rattachement fonctionnel du cadrage relationnel à une pratique. | [indice-arbitraire-et-ancrage-praxique.md](indice-arbitraire-et-ancrage-praxique.md) |
-| Théorie des cadres relationnels | Présenter la RFT comme ressource empirique sur les AARR. | [transformation-relationnelle-rft.md](transformation-relationnelle-rft.md) |
-| Inférence mutuelle | Décrire la dérivation bidirectionnelle des relations. | [inference-mutuelle.md](inference-mutuelle.md) |
-| Inférence combinatoire | Décrire l'extension en réseau des relations dérivées. | [inference-combinatoire.md](inference-combinatoire.md) |
-| Transformation de fonction | Décrire la modification de fonction d'un stimulus sans modification physique nécessaire. | [transformation-de-fonction-de-stimulus.md](transformation-de-fonction-de-stimulus.md) |
-| Sensibilité aux abstractions | Décrire la réactivité somatique aux réseaux relationnels abstraits. | [sensibilite-corporelle-aux-abstractions.md](sensibilite-corporelle-aux-abstractions.md) |
-| Dérive indicielle | Diagnostiquer la désarticulation possible entre relation et fonction. | [derive-indicielle.md](derive-indicielle.md) |
-| Support descriptif | Décrire les prises matérielles, techniques ou corporelles des configurations. | [support-descriptif.md](support-descriptif.md) |
+▸ Déterminer quelles distinctions sont effectivement mobilisées dans la pratique étudiée.
+
+▸ Repérer celles qui fonctionnent, celles qui deviennent insuffisantes et celle qui ne permet plus de poursuivre l'enquête sans révision.
+
+### Conversions et réductions
+
+▸ Repérer ce qui rend le problème difficile à traiter :
+
+- condition → critère
+- cause → raison
+- trace → signification
+- fonction → propriété
+- capacité → performance
+- genèse → justification
+- description → objet décrit
+
+### Périmètre d'enquête
+
+▸ Déterminer ce qui fait effectivement problème.
+
+▸ Déterminer dans quelle pratique le problème apparaît.
+
+▸ Déterminer quel périmètre doit être examiné.
+
+▸ Déterminer quelles questions doivent rester hors périmètre.
+
+▸ Une enquête ultérieure peut montrer que le périmètre était trop étroit ou qu'un nouveau trouble impose une reprise.
 
 ---
 
-## 04 — Pratiques et régimes descriptifs
+## 01 — Ancrer
 
-**Fonction** : Décrire les opérations par lesquelles une configuration devient exploitable dans une pratique descriptive.
+Fonction : identifier les conditions corporelles, matérielles et écologiques pertinentes pour le problème étudié.
 
-| Titre | Fonction | Fichier |
-|---|---|---|
-| 04 - Pratiques et régimes descriptifs | Présenter le fonctionnement des pratiques descriptives en acte. | [04-pratiques-et-regimes-descriptifs.md](04-pratiques-et-regimes-descriptifs.md) |
-| Configuration descriptive | Définir l'organisation relationnelle des possibles de dicibilité. | [configuration-descriptive.md](configuration-descriptive.md) |
-| Qualification | Définir l'opération de qualification. | [qualification.md](qualification.md) |
-| Prédication | Définir l'opération de prédication. | [predication.md](predication.md) |
-| Catégories | Définir les catégories disponibles dans une pratique descriptive. | [categories.md](categories.md) |
-| Critères | Définir les conditions d'application des catégories. | [criteres.md](criteres.md) |
-| Taxonomies | Décrire l'organisation des catégories et de leurs relations. | [taxonomies.md](taxonomies.md) |
-| Objet descriptif | Définir l'invariant stabilisé par une pratique descriptive. | [objet-descriptif.md](objet-descriptif.md) |
-| Niveau descriptif | Distinguer les différentes échelles d'analyse. | [niveau-descriptif.md](niveau-descriptif.md) |
-| Régime descriptif | Définir l'organisation globale d'une pratique descriptive. | [regime-descriptif.md](regime-descriptif.md) |
-| Assertion | Définir l'acte d'assertion au présent d'usage. | [assertion.md](assertion.md) |
-| Engagement inférentiel | Décrire les conséquences assumées par une assertion. | [engagements-descriptifs.md](engagements-descriptifs.md) |
-| Inférences | Décrire les conséquences autorisées ou exclues par un régime. | [inferences.md](inferences.md) |
-| Pratique collective | Décrire la dimension collective des pratiques descriptives. | [pratique-collective.md](pratique-collective.md) |
-| Communauté de locuteurs | Décrire le collectif au sein duquel les descriptions sont reprises et évaluées. | [communaute-de-locuteurs.md](communaute-de-locuteurs.md) |
-| Pluralisme descriptif | Décrire la coexistence de régimes descriptifs fonctionnellement différents. | [principe-pluralisme-descriptif.md](principe-pluralisme-descriptif.md) |
+> « Condition matérielle ≠ fonction ≠ justification. »
 
----
+### Corps
 
-## 05 — Espace des raisons et redevabilité
+▸ Configurations corporelles, capacités sensorielles et motrices, habitudes incorporées, possibilités et résistances rencontrées par l'organisme.
 
-**Fonction** : Établir ce que l'affirmation d'une description engage publiquement et selon quels critères elle peut être justifiée et corrigée.
+▸ Le corps n'est pas conçu comme une substance séparée du milieu.
 
-| Titre | Fonction | Fichier |
-|---|---|---|
-| 05 - Espace des raisons et redevabilité | Présenter la structure déontique des pratiques descriptives. | [05-espace-des-raisons-et-redevabilite.md](05-espace-des-raisons-et-redevabilite.md) |
-| Locuteur | Définir la position du locuteur dans l'espace des raisons. | [locuteur.md](locuteur.md) |
-| Auditeur | Définir la position de celui qui évalue et reprend une assertion. | [auditeur.md](auditeur.md) |
-| Relation locuteur-auditeur | Décrire l'espace interactionnel de l'évaluation publique. | [relation-locuteur-auditeur.md](relation-locuteur-auditeur.md) |
-| Position épistémique | Définir les ressources et contraintes liées à une position descriptive. | [position-epistemique.md](position-epistemique.md) |
-| Engagement | Définir ce qu'un locuteur assume en assertant. | [engagements-descriptifs.md](engagements-descriptifs.md) |
-| Redevabilité | Définir l'obligation de répondre de ses engagements descriptifs. | [responsabilite-descriptive.md](responsabilite-descriptive.md) |
-| Espace des raisons | Définir l'espace public de justification et de correction. | [espace-des-raisons.md](espace-des-raisons.md) |
-| Norme descriptive | Définir les règles immanentes d'évaluation d'une description. | [norme-descriptive.md](norme-descriptive.md) |
-| Critères de correction | Définir les règles publiques déterminant la correction d'une assertion. | [criteres-de-correction.md](criteres-de-correction.md) |
-| Redevabilité matérielle | Décrire la prise en compte des contraintes matérielles dans la justification. | [redevabilite-materielle.md](redevabilite-materielle.md) |
-| Justification | Définir l'opération de justification publique. | [justifications.md](justifications.md) |
-| Recevabilité | Définir les conditions de recevabilité d'une assertion. | [recevabilite.md](recevabilite.md) |
-| Validité | Définir la validité au sein d'un régime descriptif. | [validite.md](validite.md) |
-| Anaphore | Décrire le maintien des références dans les pratiques discursives. | [anaphore.md](anaphore.md) |
-| Triade sémantique | Décrire les rapports entre inférence, substitution et anaphore. | [triade-semantique-de-base.md](triade-semantique-de-base.md) |
+### Supports
+
+▸ Supports matériels, infrastructures, traces, conditions d'inscription et de transmission.
+
+### Contraintes matérielles
+
+▸ Contraintes physiques, énergétiques et écologiques pertinentes pour la pratique.
+
+▸ Butoirs et résistances rencontrés dans l'engagement matériel.
+
+### Capacités
+
+▸ Capacités d'action et de description effectivement disponibles.
+
+▸ Une capacité ne préjuge ni de sa mise en œuvre ni de sa validité.
+
+### Possibilités d'action
+
+▸ Ce que la configuration corporelle et matérielle rend possible ou empêche.
+
+### Conditions d'inscription et de transmission
+
+▸ Conditions par lesquelles une pratique descriptive est matériellement réalisée, inscrite et transmise.
+
+### Limite de l'ancrage
+
+▸ L'ancrage identifie les conditions pertinentes pour l'enquête.
+
+▸ Il ne détermine pas à lui seul la fonction de ces conditions dans la pratique.
+
+▸ Il empêche qu'une pratique soit reconstruite comme indépendante de ses conditions matérielles sans autoriser pour autant sa réduction à ces conditions.
 
 ---
 
-## 06 — Temporalité et dynamiques descriptives
+## 02 — Distinguer
 
-**Fonction** : Expliquer comment les pratiques descriptives se transforment, se stabilisent, se sédimentent et deviennent coûteuses à rouvrir.
+Fonction : maintenir les différences conceptuelles nécessaires à l'enquête.
 
-| Titre | Fonction | Fichier |
-|---|---|---|
-| 06 - Temporalité et dynamiques descriptives | Présenter la dimension temporelle des pratiques descriptives. | [06-temporalite-et-dynamiques-descriptives.md](06-temporalite-et-dynamiques-descriptives.md) |
-| Stabilisation | Décrire les processus de maintien des descriptions dans le temps. | [stabilisation.md](stabilisation.md) |
-| Tension | Décrire les tensions internes qui rendent une révision nécessaire. | [tension.md](tension.md) |
-| Limite interne | Définir le point où un régime ne parvient plus à traiter certaines configurations. | [limite-interne.md](limite-interne.md) |
-| Transformation | Décrire les modifications d'une pratique descriptive dans le temps. | [transformation.md](transformation.md) |
-| Maintien | Décrire les mécanismes assurant la continuité des descriptions. | [maintien.md](maintien.md) |
-| Reproduction | Décrire la reproduction des pratiques descriptives. | [reproduction.md](reproduction.md) |
-| Controverse | Décrire les confrontations entre descriptions ou régimes. | [controverse.md](controverse.md) |
-| Innovation | Décrire l'apparition de nouvelles possibilités descriptives. | [innovation.md](innovation.md) |
-| Temporalité descriptive | Définir la structure temporelle propre aux pratiques descriptives. | [temporalite-descriptive.md](temporalite-descriptive.md) |
-| Position | Définir la position d'une description dans une trajectoire. | [position.md](position.md) |
-| Trajectoire | Décrire le parcours temporel d'une pratique descriptive. | [trajectoire.md](trajectoire.md) |
-| Allure | Décrire le rythme et le profil d'une transformation. | [allure.md](allure.md) |
-| Historicité | Décrire l'inscription historique des descriptions. | [historicite.md](historicite.md) |
-| Sédimentation | Décrire l'accumulation des acquis descriptifs et institutionnels. | [sedimentation.md](sedimentation.md) |
-| Effet cliquet | Décrire l'asymétrie des coûts de reproduction et de réouverture. | [effet-cliquet.md](effet-cliquet.md) |
-| Réorganisation | Décrire la recomposition interne d'un régime descriptif. | [reorganisation.md](reorganisation.md) |
-| Désédimentation | Décrire la réouverture de distinctions devenues stabilisées. | [desedimentation.md](desedimentation.md) |
+> « Distinguer sans isoler. »
+
+### Quadripartition fondamentale
+
+▸ Quatre questions irréductibles :
+
+Corps — dans quelles conditions corporelles et matérielles ?
+
+Relation — sous quelles relations ?
+
+Fonction — que fait cette configuration dans la pratique ?
+
+Justification — selon quels critères peut-elle être défendue, contestée ou révisée ?
+
+▸ La quadripartition n'est ni une ontologie en quatre niveaux, ni une théorie de la constitution des objets, ni une succession de phases, ni une généalogie de la matière vers la norme.
+
+▸ Elle constitue une matrice fonctionnelle minimale pour orienter l'enquête.
+
+### Corps / Relation / Fonction / Justification
+
+▸ Aucune réponse à l'une de ces questions ne vaut, à elle seule, réponse aux trois autres.
+
+▸ Une même pratique peut être examinée simultanément sous les quatre dimensions.
+
+▸ Les quatre questions peuvent être articulées sans être converties les unes dans les autres.
+
+### Non-conversion
+
+▸ Cause ≠ raison.
+
+▸ Genèse ≠ justification.
+
+▸ Condition ≠ critère.
+
+▸ Trace ≠ signification.
+
+▸ Description ≠ objet décrit.
+
+▸ Capacité ≠ performance ≠ validité.
+
+▸ Fonction ≠ justification.
+
+▸ Incarnation ≠ réduction biologique.
+
+> « Continuité des dépendances, discontinuité des fonctions, non-conversion. »
+
+### Distinctions locales
+
+▸ Des distinctions supplémentaires peuvent être nécessaires dans une enquête particulière.
+
+▸ Elles répondent alors à un problème déterminé sans devenir pour autant de nouvelles dimensions fondamentales.
+
+### Causes et raisons
+
+▸ Une cause peut expliquer pourquoi un événement se produit.
+
+▸ Une justification concerne les conditions sous lesquelles une description ou un engagement peut être tenu pour recevable.
+
+### Capacité, performance et validité
+
+▸ Une capacité désigne une possibilité disponible.
+
+▸ Une performance désigne sa mise en œuvre effective.
+
+▸ Une validité concerne les critères auxquels une description ou une inférence peut être soumise.
 
 ---
 
-## 07 — Expliquer sans convertir
+## 03 — Relier
 
-**Fonction** : Distinguer l'explication causale de la justification normative sans réduire l'une à l'autre.
+Fonction : examiner les relations entre les éléments distingués sans les fusionner.
 
-| Titre | Fonction | Fichier |
-|---|---|---|
-| 07 - Expliquer sans convertir | Présenter la distinction fonctionnelle entre explication causale et justification. | [07-expliquer-sans-convertir.md](07-expliquer-sans-convertir.md) |
-| Explication | Définir l'explication comme opération descriptive située. | [explication.md](explication.md) |
-| Causes | Décrire l'explication causale des conditions de production. | [causes.md](causes.md) |
-| Raisons | Décrire l'explication par les raisons dans l'espace normatif. | [raisons.md](raisons.md) |
-| Descriptions causales situées | Décrire les conditions de production sans les convertir en critères de validité. | [descriptions-causales-situees.md](descriptions-causales-situees.md) |
-| Genèse causale et justification normative | Établir la non-conversion entre genèse et justification. | [genese-causale-et-justification-normative.md](genese-causale-et-justification-normative.md) |
-| Image manifeste | Présenter la fonction descriptive de l'image manifeste. | [image-manifeste.md](image-manifeste.md) |
-| Image scientifique | Présenter la fonction descriptive de l'image scientifique. | [image-scientifique.md](image-scientifique.md) |
-| Puissance descriptive | Comparer la puissance opératoire de descriptions sans les réduire à une mesure unique. | [puissance-descriptive.md](puissance-descriptive.md) |
-| Compatibilité | Décrire les conditions de coordination entre descriptions. | [compatibilite.md](compatibilite.md) |
-| Incompatibilité | Décrire les conflits fonctionnels entre descriptions. | [incompatibilite.md](incompatibilite.md) |
+> « La relation n'est pas la propriété physique de la chose. »
 
----
+### Relations
 
-## 08 — Protocole d'enquête et d'audit
+▸ Mises en rapport, discriminations, dépendances, transformations relationnelles, configurations sémiotiques, apprentissages relationnels et changements de fonction produits par une modification de la relation.
 
-**Fonction** : Transformer l'architecture en procédure clinique d'examen de situations concrètes.
+▸ La relation n'est pas une substance supplémentaire.
 
-| Titre | Fonction | Fichier |
-|---|---|---|
-| 08 - Protocole d'enquête et d'audit | Présenter le protocole général d'audit. | [08-protocole-enquete-et-audit.md](08-protocole-enquete-et-audit.md) |
-| Situation problématique | Identifier le trouble qui rend l'enquête nécessaire. | [enquete.md](enquete.md) |
-| Posture d'enquête | Définir la suspension méthodique des évidences descriptives. | [posture-enquete.md](posture-enquete.md) |
-| Audit des quatre dimensions | Appliquer la grille Corps / Relation / Fonction / Justification. | [audit-des-quatre-dimensions.md](audit-des-quatre-dimensions.md) |
-| Identifier un régime | Déterminer les critères et fonctions d'un régime descriptif. | [identifier-un-regime.md](identifier-un-regime.md) |
-| Comparer deux descriptions | Comparer deux régimes sans présupposer leur équivalence. | [comparer-deux-descriptions.md](comparer-deux-descriptions.md) |
-| Diagnostiquer une conversion | Identifier l'absorption indue d'une fonction par une autre. | [diagnostiquer-une-reduction.md](diagnostiquer-une-reduction.md) |
-| Diagnostiquer une erreur de catégorie | Identifier l'application inadéquate d'une catégorie ou d'un critère. | [diagnostiquer-une-erreur-de-categorie.md](diagnostiquer-une-erreur-de-categorie.md) |
-| Diagnostiquer une confusion de niveau | Identifier les déplacements indus entre niveaux descriptifs. | [diagnostiquer-une-confusion-de-niveau.md](diagnostiquer-une-confusion-de-niveau.md) |
-| Diagnostiquer une dérive indicielle | Identifier la rupture entre cadre relationnel et fonction d'usage. | [diagnostiquer-une-derive-indicielle.md](diagnostiquer-une-derive-indicielle.md) |
-| Évaluer une traduction | Évaluer les conditions et le coût d'un passage entre régimes. | [evaluer-une-traduction.md](evaluer-une-traduction.md) |
-| Traduction, incompatibilité et coordination | Distinguer traduction possible, incompatibilité fonctionnelle et coordination pratique. | [traduction-incompatibilite-coordination.md](traduction-incompatibilite-coordination.md) |
+### Configurations
+
+▸ Configuration selon laquelle des éléments, événements, organismes, signes ou pratiques sont effectivement mis en rapport dans l'analyse.
+
+### Dépendances
+
+▸ Une modification corporelle peut transformer une relation.
+
+▸ Une transformation relationnelle peut modifier une fonction.
+
+▸ Une modification fonctionnelle peut rendre une justification nécessaire.
+
+▸ Une contestation d'une justification peut conduire à transformer la pratique.
+
+▸ Aucune de ces dépendances n'autorise une conversion automatique.
+
+> « Articuler sans convertir. »
 
 ---
 
-## 09 — Réflexivité et pathologies descriptives
+## 04 — Configurer
 
-**Fonction** : Appliquer l'audit à Protokin lui-même et caractériser les blocages fonctionnels des pratiques descriptives.
+Fonction : examiner comment une différence devient identifiable, réutilisable et opératoire dans une pratique descriptive.
 
-| Titre | Fonction | Fichier |
-|---|---|---|
-| 09 - Réflexivité et pathologies descriptives | Présenter la fonction réflexive et diagnostique de la section. | [09-reflexivite-et-pathologies-descriptives.md](09-reflexivite-et-pathologies-descriptives.md) |
-| Réflexivité | Définir l'examen 
+> « Décrire n'est pas produire l'objet ; c'est participer à une configuration descriptive dans laquelle une différence peut être reprise. »
+
+### Pratiques descriptives
+
+▸ Protokin enquête sur les pratiques par lesquelles des descriptions sont produites, utilisées, discutées, justifiées, stabilisées, contestées et transformées.
+
+### Différence
+
+▸ Une différence devient pertinente lorsqu'elle peut être discriminée dans une pratique.
+
+▸ Elle peut être désignée, catégorisée, qualifiée, inscrite, maintenue, reprise ou transformée.
+
+### Indice
+
+▸ Un indice oriente l'attention, la discrimination ou le cadrage d'une relation.
+
+▸ Un indice n'est pas encore une fonction, un critère ou une raison.
+
+### Objet descriptif
+
+▸ « Un objet descriptif est une différence stabilisée comme identifiable et réutilisable dans une pratique descriptive. »
+
+▸ Cette formulation ne constitue pas une théorie ontologique de la constitution des objets.
+
+▸ Description ≠ objet décrit.
+
+### Configuration descriptive
+
+▸ Une configuration descriptive articule des différences, des indices, des catégories, des qualifications et des usages dans une pratique déterminée.
+
+### Stabilisation
+
+▸ Une différence devient suffisamment stable pour être reprise, discutée, justifiée ou transformée dans une pratique.
+
+▸ Une stabilisation n'est pas une immobilité.
+
+---
+
+## 05 — Justifier
+
+Fonction : examiner les conditions sous lesquelles une description peut être soutenue, contestée, corrigée ou révisée.
+
+> « Fonction ≠ justification. »
+
+### Critères
+
+▸ Critères selon lesquels une description peut être soutenue, contestée, corrigée ou révisée.
+
+### Engagements
+
+▸ Engagements inférentiels mobilisés par une description ou une qualification.
+
+### Habilitations
+
+▸ Conditions sous lesquelles un locuteur est habilité à produire une description.
+
+### Incompatibilités
+
+▸ Incompatibilités entre descriptions ou entre engagements.
+
+### Conséquences inférentielles
+
+▸ Conséquences qu'une description engage.
+
+### Redevabilité
+
+▸ Conditions sous lesquelles un locuteur peut être tenu responsable de ses descriptions.
+
+### Correction publique
+
+▸ Possibilité de correction publique des descriptions.
+
+### Justification
+
+▸ La justification examine les raisons, critères, engagements et conséquences inférentielles qui rendent une position recevable.
+
+▸ Genèse ≠ justification.
+
+---
+
+## 06 — Temporaliser
+
+Fonction : examiner comment les transformations se distribuent dans le temps.
+
+Section transversale : cette fonction traverse les quatre dimensions de la quadripartition sans constituer une cinquième dimension.
+
+> « La temporalité est transversale à la quadripartition. »
+
+### Trajectoire
+
+▸ Manière dont une transformation se distribue dans le temps.
+
+### Allure
+
+▸ Rythme ou vitesse d'une transformation.
+
+### Durée
+
+▸ Extension temporelle d'une transformation.
+
+### Succession
+
+▸ Ordre dans lequel les transformations se produisent.
+
+### Simultanéité
+
+▸ Transformations qui se produisent en même temps.
+
+### Réorganisation
+
+▸ Modification de l'organisation d'une pratique ou d'une configuration.
+
+### Sédimentation
+
+▸ Une distinction ou une description peut se sédimenter au cours d'une pratique et devenir disponible pour des reprises ultérieures.
+
+### Transformation
+
+▸ Une distinction peut être stable à un moment et devenir problématique ultérieurement.
+
+▸ Une fonction peut se transformer.
+
+▸ Une justification peut être contestée.
+
+▸ Une relation peut être réorganisée.
+
+### Stabilisation
+
+▸ Une stabilisation reste une stabilisation : elle peut fonctionner sans être définitive.
+
+---
+
+## 07 — Expliquer
+
+Fonction : articuler les différents types d'intelligibilité mobilisés par l'enquête sans les convertir.
+
+> « Cause ≠ raison. Genèse ≠ justification. »
+
+### Conditions matérielles
+
+▸ Une explication peut porter sur des conditions corporelles, matérielles ou écologiques.
+
+### Relations
+
+▸ Une explication peut porter sur des relations et leurs transformations.
+
+### Fonctions
+
+▸ Une explication peut porter sur les fonctions produites dans une pratique.
+
+### Pratiques
+
+▸ Une explication peut porter sur les conditions de fonctionnement d'une pratique.
+
+### Justifications
+
+▸ Une explication peut porter sur les conditions dans lesquelles une justification apparaît, se stabilise ou se transforme.
+
+▸ Expliquer une justification ne revient pas à la justifier.
+
+### Transformations
+
+▸ Une explication peut porter sur la manière dont une configuration se transforme dans le temps.
+
+### Cause ≠ raison
+
+▸ Une explication causale ne devient pas pour autant une justification.
+
+### Genèse ≠ justification
+
+▸ Le fait qu'une description ait une histoire, une cause ou une condition d'apparition ne détermine pas les critères selon lesquels elle peut être défendue ou contestée.
+
+---
+
+## 08 — Auditer
+
+Fonction : examiner la cohérence fonctionnelle de la pratique étudiée et détecter les conversions indues produites par l'enquête.
+
+> « L'audit ne constitue pas un tribunal extérieur. Il est une opération de l'enquête elle-même. »
+
+### Conversions indues
+
+▸ Une condition présentée comme un critère.
+
+▸ Une capacité présentée comme une performance.
+
+▸ Une fonction présentée comme une propriété.
+
+▸ Une trace présentée comme une signification.
+
+▸ Une description présentée comme l'objet décrit.
+
+▸ Une cause présentée comme une raison.
+
+▸ Une justification présentée comme une cause.
+
+### Réductions
+
+▸ Réduction biologique.
+
+▸ Confusion entre relation et propriété physique.
+
+▸ Conversion de fonction en propriété.
+
+▸ Conversion de condition en critère.
+
+▸ Confusion entre trace et signification.
+
+▸ Conversion de cause en raison.
+
+▸ Confusion entre capacité et performance.
+
+▸ Réification d'une qualification normative.
+
+### Protocole d'audit
+
+▸ Examiner la cohérence fonctionnelle de la pratique étudiée.
+
+▸ Identifier les conversions produites par l'analyse elle-même.
+
+▸ Vérifier que les distinctions nécessaires restent fonctionnellement distinctes.
+
+▸ La quadripartition sert également d'instrument de contrôle des descriptions.
+
+---
+
+## 09 — Réfléchir
+
+Fonction : appliquer les opérations de l'enquête à leurs propres conditions.
+
+Section transversale : la réflexivité n'est pas une cinquième dimension.
+
+> « La réflexivité est une fonction transversale de l'enquête, non une cinquième dimension du réel. »
+
+### Réflexivité
+
+▸ L'analyse des pratiques descriptives est elle-même une pratique descriptive.
+
+▸ La réflexivité consiste à appliquer les exigences de l'enquête à l'enquête elle-même.
+
+▸ Le second ordre n'est pas un étage supérieur ; c'est une reprise de l'enquête sur les conditions de son propre fonctionnement.
+
+### Distinctions
+
+▸ Examiner ses propres distinctions.
+
+### Catégories
+
+▸ Examiner ses propres catégories.
+
+### Présupposés
+
+▸ Examiner ses propres présupposés.
+
+### Exclusions
+
+▸ Examiner ses propres exclusions.
+
+### Effets de cadrage
+
+▸ Examiner ses propres effets de cadrage.
+
+### Auto-application
+
+▸ Protokin n'est pas exempt de l'enquête qu'il propose.
+
+▸ Ses propres distinctions peuvent devenir problématiques.
+
+▸ Une distinction utile dans un contexte peut devenir une source de confusion dans un autre.
+
+---
+
+## 10 — Éprouver
+
+Fonction : confronter les distinctions de Protokin aux situations dans lesquelles elles prétendent être utiles.
+
+> « L'épreuve empirique peut modifier l'architecture elle-même. »
+
+L'épreuve ne vient donc pas simplement après la construction conceptuelle.
+
+### Cas
+
+▸ Les cas ne servent pas uniquement à illustrer les concepts.
+
+▸ Ils permettent d'examiner leur fonctionnement dans des configurations déterminées.
+
+### Confirmation
+
+▸ Un cas peut confirmer provisoirement la pertinence d'une distinction.
+
+### Ambiguïté
+
+▸ Un cas peut révéler une ambiguïté conceptuelle ou fonctionnelle.
+
+### Conversion
+
+▸ Un cas peut montrer qu'une distinction a été convertie en une autre.
+
+### Distinction manquante
+
+▸ Un cas peut faire apparaître une distinction qui n'avait pas été prévue.
+
+### Révision
+
+▸ Un cas peut imposer une révision d'une distinction, d'une fonction ou du périmètre de l'enquête.
+
+---
+
+## 11 — Reconstituer
+
+Fonction : reconstruire la configuration du problème après l'analyse des différentes dimensions.
+
+> « Reconstituer ne consiste pas à revenir à une totalité originelle. »
+
+La reconstitution rassemble les distinctions pertinentes sans effacer les différences établies pendant l'enquête.
+
+### Configuration du problème
+
+▸ Rassembler les distinctions qui se sont révélées pertinentes afin de rendre la situation à nouveau intelligible.
+
+▸ Les distinctions établies ne sont pas abolies au moment de la reconstitution.
+
+### Nouvelle organisation descriptive
+
+▸ La reconstitution peut conduire à une nouvelle organisation descriptive.
+
+### Nouvelle pratique
+
+▸ La reconstitution peut conduire à une nouvelle pratique.
+
+### Nouvelle formulation
+
+▸ La reconstitution peut conduire à une nouvelle formulation du problème.
+
+### Reprise
+
+▸ Une distinction peut être conservée.
+
+▸ Elle peut être précisée.
+
+▸ Sa fonction peut être modifiée.
+
+▸ Elle peut être abandonnée.
+
+▸ Le problème peut être reformulé.
+
+▸ Le domaine de pertinence peut être redéfini.
+
+> « Reconstituer n'unit pas ce que l'analyse aurait artificiellement séparé ; elle construit une configuration dans laquelle les distinctions peuvent à nouveau fonctionner ensemble sans être converties les unes dans les autres. »
+
+---
+
+## 12 — Redélimiter
+
+Fonction : réexaminer les frontières initiales du problème à partir de ce que l'enquête a rendu visible.
+
+> « Une enquête s'arrête lorsqu'une reconstruction suffisante est atteinte, non lorsque tout est expliqué. »
+
+### Frontières initiales
+
+▸ La reprise peut faire apparaître que la première formulation était trop large, trop étroite ou mal orientée.
+
+### Clôture relative
+
+▸ La clôture d'une enquête n'est pas une clôture absolue.
+
+▸ Elle signifie seulement qu'une reconstruction est devenue suffisante relativement au problème étudié.
+
+▸ Une stabilisation reste une stabilisation : elle peut fonctionner sans être définitive.
+
+### Réouverture
+
+▸ Un nouveau problème peut rouvrir l'enquête.
+
+▸ La redélimitation empêche la stabilisation obtenue de devenir une nouvelle évidence intouchable.
+
+▸ Cette reprise reste ouverte à un nouvel audit.
+
+> « La fin d'une enquête n'abolit pas le problème ; elle détermine provisoirement les conditions dans lesquelles il peut être considéré comme suffisamment traité. »
+
+---
+
+## Documents de référence
+
+Ces documents ne constituent pas des sections supplémentaires de la chaîne. Ils outillent l'ensemble de l'enquête.
+
+### Table des matières
+
+▸ Le présent document.
+
+### Architecture fonctionnelle générale
+
+▸ Décrit le mouvement de l'enquête :
+
+Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Temporaliser → Expliquer → Auditer → Réfléchir → Éprouver → Reconstituer → Redélimiter
+
+▸ « La chaîne de Protokin est une chaîne d'enquête, non une chaîne de constitution. »
+
+### Quadripartition fondamentale
+
+▸ Établit les quatre questions irréductibles :
+
+Corps — Relation — Fonction — Justification
+
+▸ « Distinguer sans isoler. Articuler sans convertir. »
+
+### Lexique opératoire
+
+▸ Définitions opératoires des concepts mobilisés dans l'enquête.
+
+### Protocole d'audit
+
+▸ Opérations permettant d'examiner la cohérence fonctionnelle d'une description et de détecter les conversions indues.
+
+### Pathologies
+
+▸ Pathologies descriptives et dispositifs de diagnostic.
+
+### Études de cas
+
+▸ Mise à l'épreuve des distinctions dans des configurations déterminées.
+
+---
+
+## Filiations
+
+Cette section situe Protokin dans différents héritages philosophiques. Elle ne relève pas de la chaîne d'enquête.
+
+- Peirce
+- Dewey
+- Wittgenstein
+- Sellars
+- Brandom
+- Rouse
+- Rorty
+- McDowell
+- Hacking
+- Simondon
+- Merleau-Ponty
+- Varela
+- Fricker
+- Autres héritages
