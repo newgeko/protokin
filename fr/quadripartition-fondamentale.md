@@ -279,13 +279,11 @@ Les quatre dimensions peuvent donc être liées par des dépendances réelles sa
 
 On peut représenter leur articulation de manière non linéaire :
 
-
       CORPS
    ↗         ↘
 RELATION ↔ FONCTION
    ↖         ↙
     JUSTIFICATION
-
 
 Cette représentation n'indique ni une hiérarchie ni une causalité circulaire universelle.
 
