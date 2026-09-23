@@ -1,348 +1,508 @@
-# Page : architecture-fonctionnelle.md
+# PROTOKIN — ARCHITECTURE FONCTIONNELLE GÉNÉRALE
 
-PROTOKIN — ARCHITECTURE FONCTIONNELLE GÉNÉRALE
+## Fonction
 
-Formule matricielle d'orientation
+Cette page établit l'architecture fonctionnelle de Protokin.
 
-«Toute enquête distingue quatre questions :
-Corps, Relation, Fonction, Justification.»
+Elle répond à une question simple :
 
-«Corps : dans quelle configuration corporelle et matérielle ?
-Relation : sous quelles relations ?
-Fonction : pour quelle fonction ?
-Justification : sous quelle justification ?»
+> «Comment une enquête peut-elle suivre une situation complexe sans convertir une dimension de l'analyse en une autre ?»
+
+L'architecture ne constitue ni une ontologie du réel, ni une théorie de la constitution des objets descriptifs, ni une généalogie allant de la matière vers la norme.
+
+Elle fournit une **chaîne d'enquête** : un ensemble de déplacements fonctionnels permettant de préciser progressivement un problème, de distinguer les dimensions pertinentes, de suivre leurs dépendances et de réouvrir l'analyse lorsque les distinctions deviennent insuffisantes.
+
+---
+
+## Formule matricielle
+
+> «Toute enquête distingue quatre questions :
+> Corps · Relation · Fonction · Justification.»
+
+Ces quatre questions peuvent être formulées ainsi :
+
+- **Corps** — dans quelle configuration corporelle et matérielle ?
+- **Relation** — sous quelles relations ?
+- **Fonction** — quelle fonction cette configuration ou cette relation remplit-elle dans la pratique ?
+- **Justification** — sous quels critères peut-elle être soutenue, contestée ou révisée ?
 
 Aucune réponse à l'une de ces questions ne vaut, par elle-même, réponse aux trois autres.
 
-Cette quadripartition constitue une grille d'orientation et d'audit. Elle ne décrit ni quatre niveaux du réel, ni quatre étapes de genèse, ni quatre composantes d'un objet.
+La quadripartition est donc **fonctionnellement minimale**, non ontologiquement exhaustive.
+
+Elle ne dit pas de quoi le réel est fait.
+
+Elle indique quelles différences une enquête doit pouvoir maintenir sans les convertir les unes dans les autres.
 
 ---
 
-Séquence fonctionnelle de l'enquête
+## La quadripartition n'est pas une chaîne de constitution
 
-"00 Délimiter" → "01 Ancrer" → "02 Distinguer" → "03 Relier" → "04 Décrire" → "05 Justifier" → "06 Temporaliser" → "07 Expliquer" → "08 Auditer" → "09 Réfléchir" → "10 Éprouver" → "11 Reconstituer" → "12 Redélimiter"
+Il faut distinguer deux usages possibles d'une flèche.
 
-Cette séquence indique un ordre fonctionnel de l'enquête, et non une hiérarchie ontologique ou une chaîne de fondation.
+Une flèche peut signifier :
 
-Les fonctions peuvent être reprises, précisées ou réouvertes lorsqu'une enquête ultérieure montre qu'une distinction était insuffisante.
+> «X produit Y.»
 
----
+Elle constitue alors une relation de **genèse** ou de **constitution**.
 
-00 — Cadre et délimitations
+Ou elle peut signifier :
 
-Fonction architecturale
+> «l'enquête se déplace de X vers une question portant sur Y.»
 
-Établir le cadre d'entrée dans la démarche d'enquête. Définir ce que Protokin cherche à rendre analysable — le mouvement, l'institution et la révision des descriptions — et ce qu'il refuse de prendre en charge : l'ontologie première, la théorie générale de la connaissance ou un tribunal absolu de la vérité.
+Elle indique alors une **dépendance** ou un **déplacement fonctionnel**.
 
-Briques conceptuelles
+C'est le second sens qui est retenu ici.
 
-- Protokin en une phrase (la formule opératoire d'accueil).
-- Visée et non-visée (suspension du représentationnalisme et de la métaphysique spéculative).
-- Refus de l'ontologie et du donné brut (critique du Mythe du Donné appliquée à l'analyse des conditions de description).
-- Nom, origine et portée (démarcation des coordonnées sans hypostase lexicale).
-- Parcours de lecture et plan directeur (guide de navigation à travers le réseau des dépendances fonctionnelles).
+Ainsi :
 
-Périmètre d'établissement exclusif
+> «Corps → Relation → Fonction → Justification»
 
-- Établit : les conditions d'entrée dans l'enquête, la matrice d'orientation et la délimitation du champ de questionnement.
-- N'établit pas : les contraintes matérielles du vivant (01), les distinctions logiques d'audit (02), ni les études de cas (10).
+ne signifie pas :
 
----
+> «le corps produit la relation, qui produit la fonction, qui produit la justification.»
 
-01 — Contraintes corporelles et fonctions de stimulus
+Cela signifie :
 
-Fonction architecturale
+> «l'enquête peut partir des conditions corporelles et matérielles, examiner les relations pertinentes, préciser les fonctions engagées et interroger ensuite les conditions de justification.»
 
-Établir l'ancrage matériel, biologique et sensorimoteur à partir duquel certaines différences deviennent fonctionnellement disponibles pour un organisme, sans les convertir immédiatement en significations, signes ou raisons.
-
-Briques conceptuelles
-
-- Configuration matérielle et corporelle (l'organisme comme système somatique situé).
-- Couplage organisme-milieu et transduction (l'unité transactionnelle et le filtrage des contrastes physiques).
-- Différence rencontrée et trace (le surgissement de contrastes biophysiques sans attribution conceptuelle).
-- Stimulus physique et fonction de stimulus (la distinction fonctionnelle entre énergie physique et rôle comportemental).
-- Appétit, aversion et butoirs (la résistance matérielle du milieu et les contraintes biophysiques).
-
-Périmètre d'établissement exclusif
-
-- Établit : l'infrastructure sensorimotrice du vivant et les contraintes de viabilité matérielle.
-- N'établit pas : l'armature relationnelle (03), la catégorisation (04) ou la validation normative (05).
+Les quatre dimensions peuvent également être réinterrogées dans un autre ordre lorsque le problème l'exige.
 
 ---
 
-02 — Quadripartition et principe de non-conversion
+## La chaîne d'enquête
 
-Fonction architecturale
+L'architecture générale de l'enquête peut être condensée ainsi :
 
-Établir la grille différentielle et les règles d'audit permettant de distinguer les fonctions engagées dans une pratique sans convertir leurs dépendances en identité fonctionnelle.
+> «Délimiter → Ancrer → Distinguer → Relier → Décrire → Justifier → Temporaliser → Expliquer → Auditer → Réfléchir → Éprouver → Reconstituer → Redélimiter»
 
-Briques conceptuelles
+Cette séquence correspond aux grandes fonctions des sections de Protokin.
 
-- La quadripartition fondamentale (Corps dans le milieu, Relation, Fonction, Justification).
-- Configuration, relation, fonction et justification (la caractérisation des quatre dimensions d'interrogation).
-- Continuité des dépendances et discontinuité des fonctions (l'articulation sans déduction ni absorption ontologique).
-- Principe de non-conversion (interdictions formelles : cause ≠ raison, genèse ≠ justification, condition ≠ critère, trace ≠ signification, description ≠ objet décrit).
-- Capacité, performance et validité (la distinction entre pouvoir produire une réponse, réaliser effectivement une performance et satisfaire à des critères de validité).
+Elle ne constitue pas une procédure mécanique.
 
-Périmètre d'établissement exclusif
+Une enquête peut commencer par un trouble normatif, une anomalie empirique, une difficulté descriptive ou une contradiction dans les critères. Elle peut revenir à une fonction antérieure lorsqu'une distinction se révèle insuffisante.
 
-- Établit : la grille formelle d'interrogation et les règles de non-conversion.
-- N'établit pas : la modélisation empirique des apprentissages relationnels (03), l'analyse des pratiques descriptives (04) ni la redevabilité publique (05).
+La séquence donne donc une **orientation**, non un protocole obligatoire.
 
 ---
 
-03 — Cadres relationnels et transformations
+## 00 — Délimiter
 
-Fonction architecturale
+### Fonction
 
-Modéliser comment une configuration est prise dans des relations qui lui confèrent certaines fonctions et comment ces fonctions peuvent être transformées, sans introduire prématurément le régime normatif de la justification.
+Déterminer le problème sur lequel porte l'enquête et ses frontières.
 
-Briques conceptuelles
+Il s'agit notamment de distinguer :
 
-- Indice et différenciation relationnelle (la distinction entre saillance physique et fonction relationnelle).
-- Théorie des cadres relationnels (RFT) (ressource empirique pour l'étude des réponses relationnelles arbitrairement applicables — AARR).
-- Implication mutuelle et combinatoire (la bidirectionnalité et l'extension en réseau des relations dérivées).
-- Transformation de fonction (la modification d'une fonction sans altération nécessaire de la configuration physique).
-- Sensibilité aux abstractions et dérive indicielle (la réactivité aux réseaux relationnels et la désarticulation fonctionnelle possible).
-- Support descriptif (la prise matérielle, technique ou corporelle permettant la conservation et le transport de configurations).
+- ce qui fait problème ;
+- ce qui est effectivement étudié ;
+- ce qui ne l'est pas ;
+- les concepts déjà disponibles ;
+- les présupposés qui doivent être rendus visibles.
 
-Périmètre d'établissement exclusif
+### Ce que cela prépare
 
-- Établit : l'opérativité de la médiation relationnelle et la transformation des fonctions.
-- N'établit pas : les pratiques descriptives (04), la redevabilité déontique publique ni les critères de justification (05).
+La délimitation évite que l'enquête commence par une réponse générale à un problème qu'elle n'a pas encore formulé.
 
----
-
-04 — Pratiques et régimes descriptifs
-
-Fonction architecturale
-
-Décrire comment une configuration disponible devient exploitable dans une pratique descriptive en acte, à travers des qualifications, des découpages catégoriels et des inférences.
-
-Briques conceptuelles
-
-- Configuration descriptive (l'organisation relationnelle structurant un espace de dicibilité).
-- Prédication, catégorie et critère (les attributions différentielles et les conditions d'application des distinctions).
-- Taxonomie et objet descriptif (la stabilisation de différences sous des procédures réglées).
-- Assertion et engagement inférentiel (l'énonciation et le réseau de conséquences qu'elle autorise ou exclut).
-- Régimes descriptifs et pluralisme (la diversité des grammaires descriptives pouvant organiser une même configuration sans équivalence ontologique).
-
-Périmètre d'établissement exclusif
-
-- Établit : la morphologie opératoire du dicible, la mise en relation réglée des énoncés et les conditions d'application internes aux régimes descriptifs.
-- N'établit pas : la responsabilité déontique intersubjective (05) ni les profils de persistance temporelle (06).
+> «Le point de départ de Protokin est le problème, non un fondement.»
 
 ---
 
-05 — Espace des raisons et redevabilité
+## 01 — Ancrer
 
-Fonction architecturale
+### Fonction
 
-Établir ce que l'affirmation d'une description engage publiquement : la responsabilité déontique, l'administration des raisons et les conditions intersubjectives de correction.
+Identifier les conditions corporelles et matérielles pertinentes pour le problème étudié.
 
-Briques conceptuelles
+L'ancrage porte notamment sur :
 
-- Locuteur, auditeur et position épistémique (les rôles fonctionnels d'autorisation, d'engagement et d'évaluation critique).
-- Engagement et redevabilité (la tenue de la comptabilité déontique et l'obligation de répondre de ses assertions).
-- Espace des raisons et justification (l'espace public d'examen des prétentions à la validité).
-- Normes, recevabilité et validité (la distinction entre acceptabilité dans une pratique et correction au regard des normes qui la régissent).
-- Critères de correction publique (les règles reconnues déterminant l'admissibilité des justifications).
+- les corps ;
+- les supports ;
+- les contraintes matérielles ;
+- les capacités ;
+- les possibilités d'action ;
+- les résistances du milieu ;
+- les conditions d'inscription et de transmission.
 
-Périmètre d'établissement exclusif
+Cette fonction empêche qu'une pratique descriptive soit reconstruite comme si elle était indépendante de ses conditions matérielles de réalisation.
 
-- Établit : la structure déontique intersubjective, les conditions de justification et les critères de correction d'une assertion.
-- N'établit pas : la vérité absolue d'une proposition, la genèse sensorimotrice (01), la syntaxe catégorielle (04) ni les causes physiques du discours (07).
+Elle n'autorise toutefois pas à réduire une pratique à ces conditions.
 
----
-
-06 — Temporalité et dynamiques descriptives
-
-Fonction architecturale
-
-Qualifier comment les pratiques descriptives se transforment, se stabilisent et se réouvrent dans le temps, sans supposer une progression nécessaire ni une téléologie.
-
-Briques conceptuelles
-
-- Transformation et stabilisation (les formes de continuité et de transformation des régimes).
-- Tension interne et controverse (l'apparition de difficultés ou d'anomalies au regard des critères établis).
-- Historicité et trajectoire (le déploiement temporel des transformations sans progression nécessaire).
-- Allure (la distribution temporelle des transformations sur une trajectoire donnée).
-- Sédimentation et effet cliquet (l'accumulation de contraintes matérielles et institutionnelles pouvant rendre certaines distinctions coûteuses à rouvrir).
-- Mémoire descriptive et réouverture (les procédures par lesquelles des choix catégoriels stabilisés peuvent être réactivés et révisés).
-
-Périmètre d'établissement exclusif
-
-- Établit : les formes de persistance et de transformation temporelle des pratiques descriptives.
-- N'établit pas : leur explication causale (07) ni leur audit (08).
+> «Condition matérielle ≠ fonction ≠ justification.»
 
 ---
 
-07 — Expliquer sans convertir
+## 02 — Distinguer
 
-Fonction architecturale
+### Fonction
 
-Établir comment une pratique descriptive peut produire une explication causale de la genèse d'un phénomène ou d'un énoncé sans convertir cette genèse en justification normative, ni l'inverse.
+Maintenir les différences conceptuelles nécessaires à l'enquête.
 
-Briques conceptuelles
+Une distinction n'a de valeur que si elle permet d'éviter une confusion effectivement rencontrée.
 
-- L'opération d'explication causale (la modélisation des conditions de production matérielle).
-- Descriptions causales situées (la reconnaissance de l'explication causale comme régime descriptif particulier).
-- Genèse causale vs justification normative (rendre compte de l'émergence d'un énoncé n'équivaut ni à sa validation ni à son élimination).
-- Incompatibilité et puissance descriptive (la capacité différentielle des régimes à produire des coordinations descriptives).
-- Image manifeste et image scientifique (mobilisée comme cas paradigmatique d'articulation entre régimes).
+La distinction centrale est celle des quatre questions :
 
-Périmètre d'établissement exclusif
+> «Corps / Relation / Fonction / Justification»
 
-- Établit : les conditions de l'explication causale et sa distinction fonctionnelle avec la justification normative.
-- N'établit pas : le protocole d'audit (08).
+D'autres distinctions peuvent être mobilisées localement lorsqu'elles répondent à un problème déterminé.
+
+Elles ne deviennent pas pour autant de nouvelles dimensions fondamentales.
 
 ---
 
-08 — Protocole d'enquête et d'audit
+## 03 — Relier
 
-Fonction architecturale
+### Fonction
 
-Transformer l'architecture fonctionnelle en grille d'examen pour diagnostiquer les blocages, réductions et délocalisations fonctionnelles dans des situations concrètes.
+Examiner les relations entre les éléments distingués sans les fusionner.
 
-Briques conceptuelles
+La relation ne désigne pas une substance supplémentaire.
 
-- Situation problématique et posture d'enquête (la suspension méthodique des évidences descriptives).
-- Audit des quatre dimensions (le passage au crible : Corps, Relation, Fonction, Justification).
-- Comparaison de régimes descriptifs (l'examen différentiel des vocabulaires, critères et régimes d'inférence).
-- Diagnostic : conversion et réduction (l'identification de l'absorption indue d'un plan par un autre).
-- Diagnostic : erreur de catégorie (l'attribution à un régime de prédicats qui ne remplissent pas la même fonction dans un autre régime).
-- Diagnostic : dérive indicielle (la rupture du couplage entre l'armature relationnelle et son opérativité d'usage).
-- Traduction, incompatibilité et coordination (l'évaluation du coût logique et pratique des passages entre régimes).
+Elle désigne la configuration selon laquelle des éléments, des événements, des organismes, des signes ou des pratiques sont effectivement mis en rapport dans l'analyse.
 
-Périmètre d'établissement exclusif
+Une relation peut transformer les possibilités d'action ou de description sans déterminer à elle seule leur fonction ni leur statut normatif.
 
-- Établit : le protocole ordonné d'examen critique de second ordre.
-- N'établit pas : la typologie des pathologies (09) ni l'exercice effectif sur les monographies (10).
+> «La relation n'est pas la propriété physique de la chose.»
 
 ---
 
-09 — Réflexivité et pathologies descriptives
+## 04 — Décrire
 
-Fonction architecturale
+### Fonction
 
-Examiner les limites internes de la démarche et caractériser les pathologies descriptives : non comme de simples erreurs factuelles, mais comme des organisations de descriptions qui empêchent structurellement la révision, la contestation ou l'usage réglé.
+Construire et examiner les descriptions par lesquelles une différence devient identifiable dans une pratique.
 
-Briques conceptuelles
+Décrire ne consiste pas à reproduire un objet déjà découpé indépendamment de toute pratique.
 
-- Auto-application et limites internes (la réflexivité de l'enquête et l'examen de ses propres distinctions).
-- Typologie des pathologies fonctionnelles :
-  - Erreur descriptive (faute de premier ordre corrigée par les critères internes du régime) ;
-  - Conflit de régimes (friction entre deux grammaires autonomes face à une même configuration) ;
-  - Naturalisation (cristallisation d'une attribution déontique en essence matérielle brute) ;
-  - Verrouillage institutionnel (maintien d'un régime par contrainte structurelle interdisant l'anomalie) ;
-  - Injustice épistémique et herméneutique (déficit structurel de crédibilité ou absence de ressources interprétatives) ;
-  - Impérialisme descriptif (prétention d'un régime à s'ériger en tribunal universel de toutes les descriptions).
-- Zones de silence (effacement systématique de différences par saturation ou fermeture des critères).
+Mais cela ne signifie pas non plus que la description fabriquerait arbitrairement son objet.
 
-Périmètre d'établissement exclusif
+L'enquête examine plutôt comment une différence est :
 
-- Établit : la réflexivité de la démarche et la caractérisation fonctionnelle des blocages descriptifs.
-- N'établit pas : les études de cas spécifiques (10).
+- discriminée ;
+- désignée ;
+- catégorisée ;
+- inscrite ;
+- maintenue ;
+- reprise ;
+- transformée.
 
----
+Un **objet descriptif** peut ainsi être compris comme une différence stabilisée comme identifiable dans une pratique.
 
-10 — Études de cas
+Cette formulation ne constitue pas une théorie de sa constitution ontologique.
 
-Fonction architecturale
+Elle indique seulement ce que l'enquête peut avoir à suivre lorsqu'elle rencontre quelque chose décrit comme un objet.
 
-Mettre l'architecture à l'épreuve sans réinventer de théorie, en appliquant le protocole d'audit uniforme issu de 08 aux configurations analysées.
-
-Protocole d'audit uniforme
-
-- Configuration : quelle configuration matérielle, corporelle ou institutionnelle est concernée ?
-- Relation : quelles relations sont effectivement établies, apprises ou mobilisées ?
-- Fonction : que permet la description dans la pratique considérée ?
-- Justification : quelles raisons, normes et critères de correction la rendent recevable ?
-- Non-conversion : quelle confusion éventuelle entre ces dimensions faut-il diagnostiquer ?
-- Régimes : quels régimes descriptifs sont en présence et où leurs fonctions divergent-elles ?
-- Révision : quelle transformation, coordination ou réouverture devient possible ?
-
-Monographies d'épreuve
-
-- Astronomie : la rupture géocentrique.
-- Chimie : la persistance phlogistique.
-- Médecine : médecine humorale vs physiologie.
-- Écologie : le consensus climatique.
-- Technique : l'intentionnalité artificielle.
-- Morale : « Cette personne est mauvaise ».
-- Perspective : le botaniste et le bûcheron.
-- Institution : le tri aux urgences hospitalières.
-
-Périmètre d'établissement exclusif
-
-- Établit : l'épreuve de consistance de l'architecture sur des matériaux historiques, empiriques et normatifs.
-- N'établit pas : la reconstitution des filiations théoriques (11).
+> «L'objet descriptif est ce dont l'enquête suit la description ; il n'est pas une étape finale de la chaîne.»
 
 ---
 
-11 — Filiations théoriques
+## 05 — Justifier
 
-Fonction architecturale
+### Fonction
 
-Reconstituer a posteriori les parentés conceptuelles requises par l'enquête, en montrant quelles nécessités fonctionnelles trouvent des échos dans l'histoire de la pensée, sans autorité tutélaire ni syncrétisme éclectique.
+Examiner les conditions sous lesquelles une description peut être soutenue, contestée, corrigée ou révisée.
 
-Chantiers de filiation fonctionnelle
+La justification introduit les questions de :
 
-- Pragmatisme (Peirce, Dewey, Rorty) : fonction d'enquête, anti-fondationalisme, réancrage par les conséquences de l'action.
-- Inférentialisme et espace des raisons (Sellars, Brandom, McDowell) : scorekeeping déontique, non-conversion, critique du Mythe du Donné.
-- Usage et jeux de langage (Wittgenstein) : signification dans l'usage réglé, refus des entités intermédiaires.
-- Énaction et individuation (Simondon, Merleau-Ponty, Varela) : couplage, individuation, transformation relationnelle.
-- Épistémologie sociale et pratique (Rouse, Hacking, Fricker) : redevabilité, institutions et asymétries épistémiques.
+- critères ;
+- engagements ;
+- habilitations ;
+- incompatibilités ;
+- conséquences inférentielles ;
+- redevabilité ;
+- correction publique.
 
-Périmètre d'établissement exclusif
+La justification ne découle donc pas mécaniquement d'une fonction ou d'une relation.
 
-- Établit : l'inscription réflexive de la démarche dans les débats théoriques auxquels elle se rattache ou dont elle se distingue.
-- N'établit pas : le bilan des limites internes et des prolongements de l'enquête (12).
+Elle constitue une dimension distincte de l'enquête.
 
----
-
-12 — Portée et ouvertures
-
-Fonction architecturale
-
-Redélimiter le périmètre de l'enquête au terme du parcours, en dressant le bilan des clarifications opérées, des indécidables méthodologiques et des chantiers futurs.
-
-Briques conclusives
-
-- Ce que la démarche permet (outiller l'audit différentiel, préserver l'autonomie fonctionnelle des pratiques, bloquer les réductions abusives).
-- Ce que la démarche ne prend pas en charge (trancher la vérité empirique ou morale à la place des acteurs de premier ordre).
-- Perspectives de recherche (prolongements vers l'audit des modèles d'apprentissage automatique, les régimes juridiques environnementaux et l'écologie institutionnelle des descriptions).
-
-Périmètre d'établissement exclusif
-
-- Établit : les limites d'usage de la démarche et les conditions de ses prolongements.
+> «Fonction ≠ justification.»
 
 ---
 
-Documents transversaux d'appui
+## 06 — Temporaliser
 
-- Lexique opératoire : stabilisation des définitions d'après leurs fonctions d'usage et leurs clauses d'exclusion mutuelle.
-- Table synoptique des non-conversions : matrice de veille récapitulant les confusions de plans proscrites :
-  - "cause ≠ raison" ;
-  - "genèse ≠ justification" ;
-  - "condition ≠ critère" ;
-  - "trace ≠ signification" ;
-  - "description ≠ objet décrit" ;
-  - "capacité ≠ performance ≠ validité".
-- Matrice de la quadripartition : gabarit de diagnostic croisant distinctement Corps, Relation, Fonction et Justification.
-- Graphe des dépendances conceptuelles : tracé des dépendances fonctionnelles et des interdictions d'appel anticipé aux concepts d'aval.
-- Index conceptuel : répertoire d'attribution des briques à leur lieu d'établissement.
+### Fonction
+
+Examiner comment les transformations se distribuent dans le temps.
+
+La temporalité permet notamment de distinguer :
+
+- trajectoire ;
+- allure ;
+- durée ;
+- succession ;
+- simultanéité ;
+- réorganisation ;
+- sédimentation.
+
+Elle ne constitue pas une cinquième dimension de la quadripartition.
+
+Elle traverse les quatre dimensions.
+
+Une transformation corporelle, une relation, une fonction ou une justification peuvent toutes avoir une trajectoire et une allure propres.
+
+> «La temporalité est transversale à la quadripartition.»
 
 ---
 
-Grille de test pour chaque page
+## 07 — Expliquer
 
-Pour auditer et calibrer chaque page avant intégration, appliquer systématiquement les sept questions de conformité :
+### Fonction
 
-- Fonction unique : quelle opération singulière cette page accomplit-elle dans l'architecture de l'enquête ?
-- Lieu d'établissement : dans quelle section (00 à 12) son contenu est-il formellement institué ?
-- Clause d'exclusion négative : quel concept ou opération cette page s'interdit-elle formellement d'établir ?
-- Prise quadripartite : quelle(s) dimension(s) parmi Corps, Relation, Fonction, Justification la page met-elle au travail ?
-- Vigilance de non-conversion : quel glissement ou réduction (cause/raison, trace/signification, capacité/validité) la page neutralise-t-elle activement ?
-- Dépendances d'amont : de quelles fonctions établies dépend-elle nécessairement ?
-- Ouvertures d'aval : quelles fonctions rend-elle opératoirement possibles ?
+Articuler les différents types d'intelligibilité mobilisés par l'enquête sans les convertir.
+
+Une explication peut porter sur :
+
+- des conditions matérielles ;
+- des relations ;
+- des fonctions ;
+- des pratiques ;
+- des justifications ;
+- leurs transformations respectives.
+
+Mais une explication causale ne devient pas pour autant une justification.
+
+Inversement, une justification ne devient pas une cause simplement parce qu'elle produit des conséquences.
+
+> «Cause ≠ raison.
+> Genèse ≠ justification.»
+
+Protokin ne cherche donc pas à remplacer une forme d'explication par une autre, mais à maintenir leurs fonctions distinctes.
+
+---
+
+## 08 — Auditer
+
+### Fonction
+
+Examiner la cohérence fonctionnelle de la pratique étudiée et les conversions indues qui peuvent s'y produire.
+
+L'audit peut notamment rechercher :
+
+- une condition présentée comme un critère ;
+- une capacité présentée comme une performance ;
+- une fonction présentée comme une propriété ;
+- une trace présentée comme une signification ;
+- une description présentée comme l'objet décrit ;
+- une cause présentée comme une raison ;
+- une justification présentée comme une cause.
+
+L'audit ne constitue pas un tribunal extérieur.
+
+Il est une opération de l'enquête elle-même.
+
+---
+
+## 09 — Réfléchir
+
+### Fonction
+
+Appliquer les opérations de l'enquête à leurs propres conditions.
+
+Protokin ne peut pas demander aux pratiques étudiées d'expliciter leurs conditions tout en considérant son propre appareil comme transparent.
+
+La réflexivité permet donc d'examiner :
+
+- ses propres distinctions ;
+- ses propres catégories ;
+- ses propres présupposés ;
+- ses propres exclusions ;
+- ses propres effets de cadrage.
+
+Elle ne constitue pas une nouvelle couche ontologique.
+
+> «La réflexivité est une fonction transversale de l'enquête, non une cinquième dimension du réel.»
+
+---
+
+## 10 — Éprouver
+
+### Fonction
+
+Confronter les distinctions de Protokin aux situations dans lesquelles elles prétendent être utiles.
+
+Les cas ne servent pas uniquement à illustrer les concepts.
+
+Ils peuvent :
+
+- confirmer une distinction ;
+- révéler une ambiguïté ;
+- montrer une conversion indue ;
+- faire apparaître une distinction manquante ;
+- imposer une révision.
+
+L'épreuve empirique ne vient donc pas simplement après la construction conceptuelle.
+
+Elle peut modifier l'architecture elle-même.
+
+---
+
+## 11 — Reconstituer
+
+### Fonction
+
+Reconstruire la configuration du problème après l'analyse des différentes dimensions.
+
+La reconstitution ne consiste pas à revenir à une totalité originelle.
+
+Elle rassemble les distinctions qui se sont révélées pertinentes afin de rendre la situation à nouveau intelligible sans effacer les différences établies pendant l'enquête.
+
+Elle peut conduire à une nouvelle organisation descriptive, à une nouvelle pratique ou à une nouvelle formulation du problème.
+
+---
+
+## 12 — Redélimiter
+
+### Fonction
+
+Réexaminer les frontières initiales du problème à partir de ce que l'enquête a rendu visible.
+
+La clôture d'une enquête n'est donc pas une clôture absolue.
+
+Elle signifie seulement qu'une reconstruction est devenue suffisante relativement au problème étudié.
+
+Un nouveau problème peut rouvrir l'enquête.
+
+> «Une enquête s'arrête lorsqu'une reconstruction suffisante est atteinte, non lorsque tout est expliqué.»
+
+---
+
+## La chaîne n'est pas une hiérarchie
+
+Les fonctions de l'enquête entretiennent des dépendances, mais elles ne forment pas une hiérarchie de réalité.
+
+Ainsi :
+
+> «Ancrer ne fonde pas Relier.
+> Relier ne produit pas Fonctionner.
+> Fonctionner ne produit pas Justifier.»
+
+De même :
+
+> «Décrire ne produit pas l'objet décrit.
+> Justifier ne transforme pas une description en objet.
+> Temporaliser ne constitue pas une nouvelle substance temporelle.»
+
+La continuité de l'enquête n'implique donc aucune continuité ontologique entre ses fonctions.
+
+---
+
+## Les dépendances sans conversion
+
+L'architecture peut être résumée par une règle générale :
+
+> «Continuité des dépendances + discontinuité des fonctions + non-conversion.»
+
+Une fonction peut dépendre d'une autre sans lui être réductible.
+
+Une justification peut dépendre de conditions corporelles et matérielles sans être une propriété du corps.
+
+Une fonction peut dépendre d'une relation sans être une propriété de cette relation.
+
+Une description peut dépendre de supports matériels sans être identique à ces supports.
+
+Une pratique peut être matériellement réalisée sans être réductible à sa réalisation matérielle.
+
+Cette règle permet de tenir ensemble **dépendance** et **irréductibilité fonctionnelle**.
+
+---
+
+## L'objet descriptif dans l'architecture
+
+L'objet descriptif ne doit pas être placé au bout d'une chaîne de production.
+
+Il n'est pas le résultat ontologique de :
+
+> «milieu → relation → fonction → pratique → objet.»
+
+Une telle lecture transformerait la chaîne d'enquête en théorie de la constitution de l'objet.
+
+Protokin retient une formulation plus sobre :
+
+> «Un objet descriptif est une différence stabilisée comme identifiable et réutilisable dans une pratique descriptive.»
+
+Cette stabilisation peut être examinée sous les quatre questions de la quadripartition :
+
+- **Corps** : dans quelles conditions matérielles et corporelles la différence peut-elle être rencontrée ou inscrite ?
+- **Relation** : dans quelles relations devient-elle pertinente ?
+- **Fonction** : quel rôle joue-t-elle dans la pratique ?
+- **Justification** : selon quels critères peut-elle être soutenue, contestée ou révisée ?
+
+L'objet descriptif traverse ainsi l'enquête sans constituer une dimension supplémentaire de celle-ci.
+
+---
+
+## Pourquoi la quadripartition s'arrête à quatre
+
+La quadripartition ne prétend pas épuiser tout ce qu'une enquête peut rencontrer.
+
+Elle s'arrête à quatre parce que ces quatre distinctions suffisent à maintenir des différences fonctionnelles fondamentales :
+
+> «Corps / Relation / Fonction / Justification»
+
+Ajouter une nouvelle dimension fondamentale n'est justifié que si l'enquête rencontre une différence qui ne peut être maintenue par aucune des quatre précédentes.
+
+La temporalité, la trajectoire, l'allure, la réflexivité, l'audit, la réorganisation ou l'épreuve ne satisfont pas cette condition.
+
+Elles peuvent être analysées à travers les quatre dimensions.
+
+La quadripartition est donc :
+
+> «minimale pour l'orientation, ouverte pour l'enquête.»
+
+---
+
+## Règle architecturale
+
+La règle générale de Protokin peut être formulée ainsi :
+
+> «Toute distinction supplémentaire doit répondre à une difficulté effectivement rencontrée par l'enquête.»
+
+Et son corollaire :
+
+> «La réflexivité ne doit pas produire une nouvelle couche lorsqu'elle ne permet aucune distinction supplémentaire.»
+
+L'architecture doit donc rester proportionnée au problème qu'elle permet d'analyser.
+
+Une enquête complexe ne nécessite pas nécessairement un appareil conceptuel complexe.
+
+La complexité du problème et la complexité de l'architecture sont deux questions différentes.
+
+---
+
+## Synthèse
+
+### Ce que cette page établit
+
+Elle établit :
+
+- la quadripartition **Corps / Relation / Fonction / Justification** ;
+- le caractère fonctionnellement minimal de cette quadripartition ;
+- la distinction entre **chaîne d'enquête** et **chaîne de constitution** ;
+- la séquence fonctionnelle des opérations de l'enquête ;
+- la règle de **continuité des dépendances, de discontinuité des fonctions et de non-conversion** ;
+- le caractère transversal de la temporalité et de la réflexivité ;
+- le statut non ontologique de l'objet descriptif.
+
+### Ce qu'elle n'établit pas
+
+Elle ne fournit :
+
+- ni théorie générale du réel ;
+- ni théorie de la constitution des objets ;
+- ni généalogie causale du langage ;
+- ni hiérarchie entre matière, relation, fonction et normativité ;
+- ni procédure mécanique applicable à toute enquête.
+
+### Formule finale
+
+> «La chaîne de Protokin décrit le mouvement de l'enquête, non la genèse du réel.»
+
+Et :
+
+> «La quadripartition ne décrit pas quatre couches du monde ; elle maintient quatre questions qu'une enquête ne doit pas convertir les unes dans les autres.»
+
+Enfin :
+
+> «Protokin ne décrit rien en dehors de l'enquête : il examine comment une enquête rend ses propres distinctions descriptivement opératoires.»
