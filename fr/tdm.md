@@ -4,7 +4,7 @@ Cette table reprend les opérations de la chaîne d'enquête.
 
 Chaque section correspond à une fonction d'enquête, non à une étape de constitution d'un objet, d'un sujet ou du réel.
 
-Les entrées signalées par ▸ sont développées dans les fichiers de référence.
+Les entrées signalées par ▸ sont développées dans les documents de référence.
 
 Les entrées signalées par · désignent des distinctions locales, mobilisables selon les problèmes rencontrés sans devenir des dimensions fondamentales de l'architecture.
 
@@ -16,7 +16,7 @@ La chaîne ordonne les opérations de l'enquête ; la quadripartition ordonne le
 
 Cadre général
 
-Cette partie positionne Protokin et permet d'en comprendre l'orientation avant d'entrer dans la chaîne d'enquête.
+Cette partie présente l'orientation de Protokin avant l'entrée dans la chaîne d'enquête.
 
 Protokin en une phrase
 
@@ -30,19 +30,17 @@ Le problème : point de départ de l'enquête
 
 ▸ L'enquête commence lorsqu'une pratique descriptive rencontre un problème.
 
-▸ Le problème peut concerner une distinction instable, une incompatibilité entre descriptions, une fonction qui change, une justification contestée ou une conversion indue entre des registres distincts.
+▸ Le problème peut concerner une distinction instable, une incompatibilité entre descriptions, une transformation de fonction, une justification contestée ou une conversion indue entre des registres distincts.
 
 ▸ Le problème n'est pas une chose à découvrir derrière la pratique. Il est ce qui rend nécessaire sa reprise.
 
 Une enquête, pas une ontologie
 
-▸ Protokin ne cherche pas à déterminer ce que les choses sont en elles-mêmes.
+▸ Protokin n'essaie pas de déterminer ce que les choses sont en elles-mêmes.
 
-▸ Il examine les conditions dans lesquelles une description devient possible, les relations sous lesquelles elle fonctionne, ce qu'elle permet de faire et les critères selon lesquels elle peut être défendue, contestée ou révisée.
+▸ Il examine les conditions dans lesquelles une configuration peut être décrite, les relations sous lesquelles elle fonctionne, les fonctions qu'elle remplit et les critères selon lesquels une description peut être défendue, contestée ou révisée.
 
-Non-ontologie
-
-▸ Protokin ne choisit pas entre matérialisme, idéalisme, réalisme ou relativisme ontologique.
+▸ Il ne choisit pas entre matérialisme, idéalisme, réalisme ou relativisme ontologique.
 
 ▸ Il demande sous quelles conditions une configuration peut être décrite comme réelle, matérielle, causale, vivante, sociale, normative ou rationnelle dans une pratique déterminée.
 
@@ -66,19 +64,19 @@ Ce que Protokin n'établit pas
 
 Pour commencer
 
-▸ "Introduction générale" (introduction-generale.md)
+▸ Introduction générale
 
-▸ "Architecture fonctionnelle" (architecture-fonctionnelle.md)
+▸ Architecture fonctionnelle
 
-▸ "Quadripartition fondamentale" (quadripartition-fondamentale.md)
+▸ Quadripartition fondamentale
 
-▸ "Principes fondamentaux" (01-principes-fondamentaux.md)
+▸ Principes fondamentaux
 
-▸ "Protocole d'audit" (protocole-audit.md)
+▸ Protocole d'audit
 
 Parcours de lecture
 
-▸ Présentation générale
+Présentation générale
 
 → Architecture fonctionnelle
 
@@ -99,6 +97,8 @@ Chaîne d'enquête
 La chaîne constitue le parcours fonctionnel de Protokin.
 
 Elle ne décrit pas la constitution progressive d'un objet. Elle organise les opérations par lesquelles un problème peut être rendu enquêtable, examiné, articulé, éprouvé et éventuellement repris.
+
+L'ordre de la chaîne indique des fonctions privilégiées, non une procédure mécanique. Une enquête peut revenir sur une opération antérieure lorsque le problème l'exige.
 
 ---
 
@@ -130,7 +130,7 @@ Périmètre d'enquête
 
 Conversions et réductions
 
-▸ Repérer les confusions qui rendent le problème difficile à traiter.
+▸ Repérer les confusions susceptibles de rendre le problème difficile à traiter.
 
 ---
 
@@ -150,11 +150,11 @@ Supports
 
 Contraintes matérielles
 
-▸ Contraintes physiques, énergétiques et écologiques pertinentes.
+▸ Contraintes physiques, énergétiques et écologiques pertinentes pour l'enquête.
 
 Capacités
 
-▸ Possibilités d'action et de description effectivement disponibles.
+▸ Possibilités corporelles et matérielles effectivement disponibles.
 
 Possibilités d'action
 
@@ -162,7 +162,7 @@ Possibilités d'action
 
 Limite de l'ancrage
 
-▸ Identifier les conditions pertinentes sans les transformer en fonctions ou en critères.
+▸ Identifier les conditions pertinentes sans les transformer en fonctions, en raisons ou en critères de justification.
 
 ---
 
@@ -174,7 +174,7 @@ Fonction : maintenir les différences conceptuelles nécessaires à l'enquête.
 
 Distinctions fondamentales
 
-▸ Les questions fondamentales que l'enquête doit maintenir distinctes.
+▸ Les questions que l'enquête doit maintenir distinctes.
 
 Non-conversion
 
@@ -196,7 +196,7 @@ Non-conversion
 
 Distinctions locales
 
-▸ Distinctions supplémentaires nécessaires dans une enquête particulière.
+▸ Distinctions supplémentaires rendues nécessaires par une enquête particulière.
 
 Articulation
 
@@ -346,9 +346,9 @@ Réorganisation
 
 ▸ Modification de l'organisation d'une pratique ou d'une configuration.
 
-Transformation
+Transformations temporelles
 
-▸ Modification d'une relation, d'une fonction, d'une justification ou d'une configuration.
+▸ Modifications dont l'enquête cherche à reconstruire la trajectoire, l'allure ou la distance.
 
 ---
 
@@ -360,7 +360,7 @@ Fonction : articuler les différents types d'intelligibilité mobilisés par l'e
 
 Conditions matérielles
 
-▸ Conditions corporelles, matérielles et écologiques.
+▸ Conditions corporelles, matérielles et écologiques pertinentes.
 
 Relations
 
@@ -546,17 +546,17 @@ Réouverture
 
 Documents de référence
 
-Ces documents ne constituent pas des étapes supplémentaires de la chaîne. Ils explicitent, outillent ou mettent à l'épreuve son fonctionnement.
+Ces documents ne constituent pas des étapes supplémentaires de la chaîne. Ils explicitent, contraignent, outillent ou mettent à l'épreuve son fonctionnement.
 
 Architecture
 
-▸ "Architecture fonctionnelle générale" (architecture-fonctionnelle.md)
+▸ Architecture fonctionnelle générale
 
-▸ Décrit la chaîne d'enquête et ses fonctions.
+▸ Décrit la chaîne d'enquête et la fonction de chacune de ses opérations.
 
 Quadripartition
 
-▸ "Quadripartition fondamentale" (quadripartition-fondamentale.md)
+▸ Quadripartition fondamentale
 
 ▸ Établit les quatre questions irréductibles :
 
@@ -564,31 +564,31 @@ Corps — Relation — Fonction — Justification
 
 Principes
 
-▸ "Principes fondamentaux" (01-principes-fondamentaux.md)
+▸ Principes fondamentaux
 
-▸ Formalise les principes de dépendance, de non-conversion et de distinction fonctionnelle.
+▸ Explicite les principes qui permettent de maintenir les dépendances sans convertir les fonctions.
 
 Audit
 
-▸ "Protocole d'audit" (protocole-audit.md)
+▸ Protocole d'audit
 
-▸ Organise les opérations de contrôle des descriptions et des conversions.
+▸ Organise les opérations de contrôle des distinctions, des dépendances et des conversions.
 
 Lexique
 
-▸ "Lexique opératoire" (lexique-protokin.md)
+▸ Lexique opératoire
 
-▸ Définitions opératoires des concepts mobilisés.
+▸ Définit les concepts mobilisés dans les différentes opérations de l'enquête.
 
 Pathologies
 
-▸ "Pathologies descriptives" (pathologies.md)
+▸ Pathologies descriptives
 
 ▸ Regroupe les formes récurrentes de dysfonctionnement descriptif.
 
 Études de cas
 
-▸ "Études de cas" (etudes-de-cas.md)
+▸ Études de cas
 
 ▸ Met les distinctions à l'épreuve de configurations déterminées.
 
@@ -596,19 +596,23 @@ Pathologies
 
 Filiations
 
-Cette section situe Protokin dans différents héritages philosophiques. Elle ne relève pas de la chaîne d'enquête.
+Cette section situe Protokin dans différents héritages philosophiques.
 
-* "Peirce" (peirce.md)
-* "Dewey" (dewey.md)
-* "Wittgenstein" (wittgenstein.md)
-* "Sellars" (sellars.md)
-* "Brandom" (brandom.md)
-* "Rouse" (rouse.md)
-* "Rorty" (rorty.md)
-* "McDowell" (mcdowell.md)
-* "Hacking" (hacking.md)
-* "Simondon" (simondon.md)
-* "Merleau-Ponty" (merleau-ponty.md)
-* "Varela" (varela.md)
-* "Fricker" (fricker.md)
-* "Autres héritages" (autres-heritages.md)
+Elle ne constitue pas une partie de la chaîne d'enquête.
+
+Chaque filiation constitue une ressource de distinction, de comparaison ou d'audit. Elle ne doit pas être comprise comme une préfiguration de Protokin ni comme une fondation doctrinale de son architecture.
+
+* Peirce
+* Dewey
+* Wittgenstein
+* Sellars
+* Brandom
+* Rouse
+* Rorty
+* McDowell
+* Hacking
+* Simondon
+* Merleau-Ponty
+* Varela
+* Fricker
+* Autres héritages
