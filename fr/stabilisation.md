@@ -1,354 +1,204 @@
 # Page : stabilisation.md
 
-# Stabilisation — Le processus de consolidation et la persistance des configurations descriptives
+Stabilisation
 
-| Fonction | Établir le concept de **stabilisation** dans l'architecture de Protokin comme processus historique résultant des opérations de maintien par lesquelles une configuration descriptive obtient une continuité relative, permettant sa reproduction, sa transmission et sa mobilisation au sein d'une communauté de locuteurs. |
-| :--- | :--- |
-| **Prépare** | L'analyse de l'effet cliquet, des irréversibilités relatives, des strates temporelles, de l'allure, de la trajectoire et des modes de verrouillage descriptifs. |
-| **Mobilise** | La configuration descriptive, le régime descriptif, les opérations de maintien, les pratiques collectives, les communautés de locuteurs et les supports descriptifs. |
-| **Permet ensuite** | L'étude de la persistance historique des cadres d'intelligibilité, du coût de révision des descriptions, de l'inertie normative et des pathologies de réification. |
-| **N'établit pas** | Le mécanisme précis de l'effet cliquet, la morphologie détaillée des trajectoires descriptives, ni les conditions générales de validité des descriptions. |
+Fonction
 
----
+La stabilisation permet de décrire la persistance relative d'une configuration à travers ses reprises et ses variations.
 
-# 1. Problème conceptuel inaugural
+Elle intervient lorsqu'une enquête doit déterminer comment une configuration peut demeurer suffisamment reconnaissable pour être reprise, sans supposer qu'elle reste identique à elle-même.
 
-Toute description apparaît initialement comme une opération située : une assertion, une qualification ou une distinction produite par un locuteur dans une configuration particulière.
+«Stabiliser, c'est rendre une configuration suffisamment persistante pour qu'elle puisse être reprise sans être recréée à chaque occurrence.»
 
-Cependant, une description ne devient une ressource collective qu'à partir du moment où elle peut dépasser l'événement singulier de son énonciation. Elle doit pouvoir être reprise, transmise, enseignée, corrigée et mobilisée par d'autres locuteurs.
-
-Le problème conceptuel auquel répond la stabilisation est donc :
-
-> **Comment une configuration descriptive peut-elle acquérir une continuité historique suffisante pour être reproduite collectivement sans supposer qu'elle correspond à une structure ontologique indépendante, et sans être réduite à une convention arbitraire ?**
-
-Protokin déplace le lieu de la persistance.
-
-Une description ne demeure pas parce qu'elle aurait découvert une essence préalable du monde. Elle demeure parce qu'un ensemble d'opérations de maintien organise les conditions pratiques, matérielles, institutionnelles et normatives de sa reproduction.
-
-La stabilité d'une description n'est donc pas une propriété intrinsèque. Elle est une réussite collective continuellement entretenue.
+La stabilisation ne désigne donc ni une permanence substantielle ni une absence de transformation.
 
 ---
 
-# 2. Définition fonctionnelle
+Établie dans l'architecture
 
-Dans l'architecture de Protokin, on appelle **stabilisation** :
+La stabilisation appartient à l'analyse des configurations descriptives dans le temps.
 
-> **Le processus historique par lequel une configuration descriptive obtient une continuité relative grâce aux opérations de maintien, de transmission, d'apprentissage et de correction qui permettent sa reproduction au sein d'une communauté de locuteurs.**
+Elle intervient lorsque l'enquête a déjà identifié une configuration et cherche à déterminer ce qui permet d'en reconnaître une continuité à travers différentes occurrences.
 
-Cette définition implique plusieurs propriétés fondamentales.
+Elle se situe ainsi à l'articulation de :
 
-## 2.1 Une continuité produite et non une permanence substantielle
+«configuration → reprise → persistance relative»
 
-La stabilisation n'est pas un état fixe.
+Elle n'est pas une étape nécessaire de toute enquête.
 
-Une configuration descriptive stabilisée continue d'être reprise, ajustée, interprétée et parfois corrigée. Sa continuité provient d'un ensemble de réactivations successives.
-
-La stabilisation désigne donc un équilibre dynamique entre :
-
-- reproduction ;
-- variation ;
-- correction ;
-- transmission.
-
-Une description tient parce qu'elle est continuellement maintenue.
+Elle devient pertinente lorsqu'une question porte sur la continuité d'une configuration au cours de ses reprises.
 
 ---
 
-## 2.2 Une propriété relationnelle
+Ce que la stabilisation n'établit pas
 
-Une configuration descriptive ne se stabilise jamais isolément.
+La stabilisation n'établit pas :
 
-Sa persistance dépend des relations qu'elle entretient avec :
+- la validité d'une description ;
+- sa justification ;
+- sa vérité ;
+- sa cause ;
+- sa nécessité ;
+- son caractère définitif ;
+- une propriété intrinsèque de l'objet décrit.
 
-- d'autres descriptions compatibles ;
-- des instruments d'inscription ;
-- des pratiques d'apprentissage ;
-- des procédures de validation ;
-- des institutions qui organisent son usage.
+La persistance d'une configuration ne constitue donc pas un argument suffisant en faveur de sa validité.
 
-La stabilisation concerne donc une écologie descriptive complète plutôt qu'un énoncé particulier.
+«Persistance ≠ validité.»
 
----
+De même, une configuration stabilisée peut continuer à être transformée.
 
-## 2.3 Une asymétrie de coût
-
-La stabilisation modifie les conditions pratiques d'accès aux descriptions possibles.
-
-Lorsqu'une configuration descriptive est largement maintenue, elle devient plus facile à mobiliser que des alternatives nouvelles.
-
-Cette asymétrie ne signifie pas nécessairement qu'elle est plus vraie.
-
-Elle signifie qu'elle bénéficie d'un avantage historique lié à :
-
-- ses supports existants ;
-- ses habitudes d'utilisation ;
-- ses réseaux de justification ;
-- ses formes d'apprentissage.
+«Stabilisation ≠ immobilité.»
 
 ---
 
-# 3. Distinctions conceptuelles nécessaires
+Dimensions de la quadripartition mobilisées
 
-## 3.1 Stabilisation et validité descriptive
+La stabilisation peut mettre au travail plusieurs dimensions de la quadripartition, mais elle ne les confond pas.
 
-La **validité descriptive** concerne la correction d'une description au sein d'un régime descriptif donné.
+Corps
 
-La **stabilisation** concerne sa capacité à être reproduite historiquement dans une pratique collective.
+Les conditions corporelles et matérielles peuvent contribuer à la persistance d'une pratique.
 
-Ces deux dimensions peuvent être dissociées.
+Elles peuvent notamment concerner les capacités nécessaires à sa reprise, les supports matériels ou les conditions d'utilisation.
 
-| Situation | Validité | Stabilisation |
-| :--- | :--- | :--- |
-| Une découverte scientifique émergente | forte mais locale | faible |
-| Une classification administrative devenue obsolète | contestée | forte |
-| Une théorie scientifique institutionnalisée | forte | forte |
+Mais :
 
-La stabilisation ne garantit donc pas la correction ; elle décrit les conditions de persistance.
+«condition matérielle ≠ stabilisation.»
 
----
+Relation
 
-## 3.2 Stabilisation et objet descriptif
+La stabilisation peut être examinée à travers les relations qui permettent à une configuration d'être reprise dans différentes situations.
 
-L'objet descriptif désigne l'invariant relationnel construit au sein d'une configuration descriptive.
+Mais :
 
-La stabilisation désigne le processus historique par lequel cette configuration est maintenue.
+«relation ≠ persistance.»
 
-Ainsi :
+Une relation contribue éventuellement à une configuration stabilisée sans constituer par elle-même son critère de continuité.
 
-> **La stabilisation concerne la trajectoire de reproduction ; l'objet descriptif concerne ce qui demeure invariant à travers cette trajectoire.**
+Fonction
 
-L'objet n'existe pas indépendamment des opérations qui permettent son maintien descriptif.
+La stabilisation concerne principalement la possibilité pour une configuration de continuer à remplir une fonction reconnaissable à travers ses variations.
 
----
+Elle permet ainsi d'examiner ce qui reste suffisamment continu lorsqu'une configuration est reprise dans des contextes différents.
 
-## 3.3 Stabilisation et mémoire
+Mais :
 
-La stabilisation repose sur l'articulation entre deux dimensions de mémoire.
+«fonction ≠ stabilisation.»
 
-### Mémoire organique (PROTO)
+La fonction d'une configuration et la persistance de cette configuration sont deux questions distinctes.
 
-Elle désigne les capacités incorporées permettant l'engagement pratique avec un environnement :
+Justification
 
-- habitudes perceptives ;
-- coordinations sensorimotrices ;
-- compétences corporelles ;
-- dispositions acquises.
+La justification intervient lorsque l'enquête examine les critères permettant de défendre, contester ou réviser une description.
 
-### Mémoire collective (KIN)
+La stabilisation peut affecter les conditions dans lesquelles une description est reprise, mais elle ne fournit pas elle-même sa justification.
 
-Elle désigne les supports permettant la transmission et la reprise :
-
-- langages ;
-- archives ;
-- classifications ;
-- institutions ;
-- procédures.
-
-La stabilisation apparaît dans leur articulation :
-
-> **Les dispositions organiques rendent possible l'usage des descriptions, tandis que les dispositifs collectifs orientent, sélectionnent et transmettent les formes descriptives disponibles.**
+«Stabilisation ≠ justification.»
 
 ---
 
-# 4. Les conditions opérationnelles de la stabilisation
+Conversion ou réduction neutralisée
 
-Une configuration descriptive ne se maintient pas par sa seule formulation linguistique.
+La stabilisation neutralise principalement la conversion :
 
-Sa persistance dépend de plusieurs familles de conditions.
+«persistance → validité»
 
-STABILISATION D'UNE CONFIGURATION DESCRIPTIVE
+Une description ne devient pas correcte parce qu'elle est ancienne, fréquente, largement reprise ou institutionnellement maintenue.
 
-                            │
+Elle neutralise également la conversion :
 
-    ┌───────────────────────┼───────────────────────┐
+«persistance descriptive → propriété de l'objet décrit»
 
-    ▼                       ▼                       ▼
+Une configuration peut rester stable dans une pratique sans que cette stabilité révèle une essence de ce qu'elle décrit.
 
-Conditions matérielles   Conditions cognitives   Conditions institutionnelles
+Enfin, elle empêche de convertir :
 
-Supports externes       Habitudes incorporées    Rôles, procédures, Archives, outils        Apprentissages           validations collectives
+«stabilité → immobilité»
 
-└───────────────────────┼───────────────────────┘
+Une configuration peut être stabilisée tout en étant modifiée sur certaines dimensions.
 
-                            ▼
-
-                Conditions politiques
-
-         Distribution de l'autorité descriptive
+La stabilisation permet ainsi de distinguer ce qui persiste de ce qui change.
 
 ---
 
-## 4.1 Conditions matérielles et infrastructurales
+Dépendances
 
-Les supports matériels permettent l'inscription et la répétition des descriptions.
+La stabilisation dépend de fonctions déjà établies.
 
-Ils comprennent notamment :
+Elle suppose notamment qu'une configuration puisse avoir été configurée suffisamment pour que l'enquête puisse déterminer ce qui est susceptible de persister.
 
-- documents ;
-- bases de données ;
-- instruments de mesure ;
-- formulaires ;
-- dispositifs techniques.
+Elle dépend également de la possibilité de distinguer :
 
-Ces supports rendent certaines distinctions plus facilement disponibles que d'autres.
+- ce qui est maintenu ;
+- ce qui varie ;
+- ce qui est transformé ;
+- ce qui cesse d'être reconnaissable comme relevant de la même configuration.
 
----
+Elle peut ensuite être articulée avec la justification, lorsque la persistance d'une description doit être distinguée des critères qui permettent de la défendre ou de la contester.
 
-## 4.2 Conditions cognitives et pédagogiques
-
-La stabilisation implique l'apprentissage de manières de percevoir et de qualifier.
-
-Elle repose sur :
-
-- la formation du regard ;
-- l'acquisition de compétences ;
-- l'incorporation de critères ;
-- la transmission des savoir-faire.
-
-Une description devient familière lorsqu'une communauté apprend à la reconnaître et à l'utiliser.
+La stabilisation ne remplace donc aucune de ces fonctions.
 
 ---
 
-## 4.3 Conditions institutionnelles et procédurales
+Fonctions rendues possibles
 
-Les institutions assurent la continuité des descriptions en organisant :
+Une fois la persistance relative d'une configuration établie, l'enquête peut examiner :
 
-- des rôles spécialisés ;
-- des procédures de validation ;
-- des formes d'autorité ;
-- des mécanismes de correction.
+- les transformations qui affectent cette configuration ;
+- les transitions entre configurations suffisamment différenciées ;
+- les trajectoires dans lesquelles certaines continuités peuvent être reconstruites ;
+- les allures selon lesquelles ces transformations se distribuent dans le temps ;
+- les difficultés de révision ou de réorganisation.
 
-Elles rendent certaines descriptions plus résistantes aux variations individuelles.
+La stabilisation fournit ainsi une condition descriptive pour poser la question :
 
----
+«Qu'est-ce qui continue à être reconnu comme la même configuration alors même que quelque chose change ?»
 
-## 4.4 Conditions politiques
-
-Toute stabilisation implique une distribution inégale des capacités de validation.
-
-Certains locuteurs disposent d'une autorité plus grande pour :
-
-- imposer une qualification ;
-- définir les critères pertinents ;
-- exclure certaines descriptions alternatives.
-
-La stabilisation doit donc être auditée selon ses conditions de participation.
+Elle ne détermine pas la réponse à cette question ; elle permet de la formuler.
 
 ---
 
-# 5. Place dans l'architecture fonctionnelle
+Vigilance d'audit
 
-La stabilisation intervient après les opérations de justification et avant l'analyse des irréversibilités relatives.
+L'audit doit notamment vérifier que la stabilisation n'est pas utilisée pour introduire subrepticement :
 
-ASSERTION
+- une théorie de la vérité ;
+- une théorie de la causalité ;
+- une théorie de la mémoire ;
+- une théorie de l'institution ;
+- une théorie de l'irréversibilité ;
+- une théorie du progrès.
 
-│
+Une stabilisation peut être constatée sans que l'on ait encore expliqué pourquoi elle existe.
 
-▼
+De même, son existence ne permet pas de conclure qu'elle devrait être maintenue.
 
-CONFIGURATION DESCRIPTIVE
+«Décrire une persistance n'est ni l'expliquer entièrement ni la justifier.»
 
-│
-
-▼
-
-JUSTIFICATION
-
-(recevabilité / validité descriptive)
-
-│
-
-▼
-
-MAINTIEN
-
-(opérations de reproduction)
-
-│
-
-▼
-
-STABILISATION
-
-(continuité historique relative)
-
-│
-
-▼
-
-EFFET CLIQUET
-
-(accumulation d'irréversibilités)
-
-│
-
-▼
-
-TRAJECTOIRE ET ALLURE
-
-(formes temporelles de transformation)
-
-La stabilisation constitue donc le passage entre la justification locale d'une description et son inscription durable dans une pratique collective.
+La stabilisation doit donc rester une fonction de description de la continuité, et non devenir un mécanisme général de l'histoire des pratiques.
 
 ---
 
-# 6. Vigilances d'audit
+Synthèse
 
-La stabilisation produit des continuités nécessaires mais peut également générer des pathologies.
+La stabilisation accomplit une fonction unique :
 
-## 6.1 Réification
+«décrire la persistance relative d'une configuration à travers ses reprises et ses variations.»
 
-Une description historiquement stabilisée peut être traitée comme une propriété naturelle indépendante des pratiques qui l'ont produite.
+Elle mobilise les dimensions de la quadripartition sans les convertir les unes dans les autres.
 
-L'audit examine alors le passage abusif :
+Elle neutralise principalement la conversion :
 
-Description stabilisée ↓ Nature supposée ↓ Essence attribuée
+«persistance → validité»
 
----
+et, secondairement :
 
-## 6.2 Inertie documentaire
+«stabilité → immobilité
+persistance descriptive → propriété de l'objet décrit»
 
-Les supports matériels peuvent devenir des contraintes excessives lorsque :
+Elle dépend de la configuration et des distinctions permettant d'identifier ce qui persiste et ce qui varie.
 
-- les catégories administratives remplacent l'observation ;
-- les formulaires empêchent les nuances ;
-- les bases de données figent les possibilités descriptives.
+Elle rend ensuite possibles l'examen des transformations, des transitions et des trajectoires dans lesquelles ces continuités peuvent être reconstruites.
 
----
-
-## 6.3 Illusion de transparence
-
-Une description peut apparaître comme évidente alors qu'elle dépend :
-
-- d'apprentissages longs ;
-- d'institutions ;
-- d'instruments ;
-- d'une histoire collective.
-
-L'audit rend visibles les conditions cachées de sa reproduction.
-
----
-
-# 7. Synthèse et ouvertures
-
-La stabilisation permet à Protokin d'analyser la dimension temporelle des descriptions sans les transformer en objets autonomes.
-
-Elle montre que les descriptions persistent non parce qu'elles seraient simplement découvertes, mais parce qu'elles sont continuellement maintenues par des pratiques, des supports et des communautés.
-
-**Ce qu'elle suppose :**
-
-- une configuration descriptive ;
-- des opérations de maintien ;
-- une communauté de locuteurs ;
-- des supports matériels et symboliques.
-
-**Ce qu'elle rend possible :**
-
-- l'analyse de l'effet cliquet ;
-- l'étude des trajectoires descriptives ;
-- l'examen des irréversibilités relatives ;
-- le diagnostic des formes d'inertie normative et d'exclusion descriptive.
-
-La stabilisation ne désigne donc pas une propriété du monde ni une qualité intrinsèque d'une description.
-
-Elle désigne la forme temporelle prise par une configuration descriptive lorsqu'une communauté parvient à en assurer durablement la reproduction.
+«La stabilisation ne désigne pas ce qui ne change plus. Elle désigne ce qui demeure suffisamment continu pour pouvoir être repris comme une même configuration selon un critère déterminé.»
