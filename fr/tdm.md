@@ -11,7 +11,7 @@ Elle distingue :
 
 La table des matières n'ajoute donc pas une nouvelle fonction théorique à l'architecture.
 
-«La chaîne de Protokin est une chaîne d'enquête, non une chaîne de constitution.»
+««La chaîne de Protokin est une chaîne d'enquête, non une chaîne de constitution.»»
 
 ---
 
@@ -31,10 +31,12 @@ Quadripartition fondamentale
 
 Maintient les quatre questions irréductibles :
 
-«Corps — dans quelles conditions corporelles et matérielles ?
+««Condition — dans quelles conditions cette pratique peut-elle effectivement avoir lieu ?
 Relation — sous quelles relations ?
 Fonction — que fait cette configuration dans la pratique ?
-Justification — selon quels critères peut-elle être défendue, contestée ou révisée ?»
+Justification — selon quels critères peut-elle être défendue, contestée ou révisée ?»»
+
+Ces quatre questions sont dépendantes sans être convertibles.
 
 Table des matières
 
@@ -50,7 +52,7 @@ Elle ne constitue ni une succession obligatoire d'étapes, ni une hiérarchie de
 
 Une enquête peut mobiliser plusieurs fonctions, revenir sur une fonction antérieure ou en laisser certaines de côté selon le problème rencontré.
 
-«L'ordre de la chaîne est fonctionnel, non mécanique.»
+««L'ordre de la chaîne est fonctionnel, non mécanique.»»
 
 ---
 
@@ -68,7 +70,7 @@ Fonction : déterminer le problème sur lequel porte l'enquête et en préciser 
 
 01 — Ancrer
 
-Fonction : identifier les conditions corporelles, matérielles et écologiques pertinentes pour le problème étudié.
+Fonction : identifier les conditions corporelles, matérielles, écologiques et techniques pertinentes pour le problème étudié.
 
 - Corps
 - Supports
@@ -77,7 +79,9 @@ Fonction : identifier les conditions corporelles, matérielles et écologiques p
 - Possibilités d'action
 - Limites de l'ancrage
 
-«Condition matérielle ≠ fonction ≠ justification.»
+Le corps constitue ici une catégorie parmi les conditions pertinentes, et non une dimension fondamentale distincte.
+
+««Condition ≠ relation ≠ fonction ≠ justification.»»
 
 ---
 
@@ -90,7 +94,7 @@ Fonction : maintenir les différences nécessaires à l'enquête sans les transf
 - Distinctions locales
 - Articulation
 
-«Distinguer sans isoler.»
+««Distinguer sans isoler.»»
 
 ---
 
@@ -103,7 +107,7 @@ Fonction : examiner les relations entre les éléments distingués sans les conv
 - Dépendances
 - Limites de la relation
 
-«La relation n'est pas la propriété physique de la chose.»
+««La relation n'est pas la propriété physique de la chose.»»
 
 ---
 
@@ -118,7 +122,7 @@ Fonction : examiner comment une différence devient identifiable, réutilisable 
 - Objet descriptif
 - Stabilisation
 
-«Décrire n'est pas produire l'objet.»
+««Décrire n'est pas produire l'objet.»»
 
 ---
 
@@ -135,7 +139,7 @@ Fonction : examiner selon quels critères une description ou un engagement peut 
 - Correction publique
 - Justification
 
-«Fonction ≠ justification.»
+««Fonction ≠ justification.»»
 
 ---
 
@@ -153,7 +157,7 @@ Fonction : examiner comment les transformations et les configurations se distrib
 - Réorganisation
 - Transformations temporelles
 
-«La temporalité est transversale à la quadripartition.»
+««La temporalité est transversale à la quadripartition.»»
 
 ---
 
@@ -169,8 +173,8 @@ Fonction : articuler différentes formes d'intelligibilité sans convertir leurs
 - Transformations
 - Limites de l'explication
 
-«Cause ≠ raison.
-Genèse ≠ justification.»
+««Cause ≠ raison.
+Genèse ≠ justification.»»
 
 ---
 
@@ -194,7 +198,7 @@ L'audit porte notamment sur les conversions entre :
 - capacité et performance ;
 - description et objet décrit.
 
-«L'audit est une opération de l'enquête elle-même.»
+««L'audit est une opération de l'enquête elle-même.»»
 
 ---
 
@@ -210,7 +214,7 @@ Fonction : appliquer les opérations de l'enquête à leurs propres conditions d
 - Effets de cadrage
 - Auto-application
 
-«La réflexivité est une fonction transversale de l'enquête, non une cinquième dimension.»
+««La réflexivité est une fonction transversale de l'enquête, non une cinquième dimension.»»
 
 ---
 
@@ -224,7 +228,7 @@ Fonction : confronter les distinctions de Protokin aux situations dans lesquelle
 - Distinctions manquantes
 - Révision
 
-«L'épreuve peut modifier l'architecture elle-même.»
+««L'épreuve peut modifier l'architecture elle-même.»»
 
 ---
 
@@ -238,7 +242,7 @@ Fonction : reconstruire la configuration du problème après l'examen des diffé
 - Nouvelle formulation
 - Reprise
 
-«Reconstituer ne consiste pas à revenir à une totalité originelle.»
+««Reconstituer ne consiste pas à revenir à une totalité originelle.»»
 
 ---
 
@@ -250,7 +254,7 @@ Fonction : réexaminer les frontières initiales du problème à partir de ce qu
 - Clôture relative
 - Réouverture
 
-«La fin d'une enquête n'abolit pas le problème.»
+««La fin d'une enquête n'abolit pas le problème.»»
 
 ---
 
@@ -330,7 +334,7 @@ Elles peuvent notamment concerner :
 
 Une filiation sert à examiner une convergence, une divergence, une ressource ou une difficulté.
 
-«Une filiation n'est pas une fondation.»
+««Une filiation n'est pas une fondation.»»
 
 ---
 
@@ -352,5 +356,5 @@ Table des matières
 
 Les autres pages peuvent ensuite être mobilisées selon le problème étudié.
 
-«Les pages canoniques définissent l'architecture.
-Les autres pages la précisent, l'appliquent ou la mettent à l'épreuve.»
+««Les pages canoniques définissent l'architecture.
+Les autres pages la précisent, l'appliquent ou la mettent à l'épreuve.»»
