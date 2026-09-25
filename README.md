@@ -96,7 +96,7 @@ Quadripartition fondamentale
 
 Maintient quatre questions irréductibles :
 
-«Corps — dans quelles conditions corporelles et matérielles ?
+«Condition — dans quelles conditions cette pratique peut-elle effectivement avoir lieu?
 Relation — sous quelles relations ?
 Fonction — que fait cette configuration dans la pratique ?
 Justification — selon quels critères peut-elle être défendue, contestée ou révisée ?»
