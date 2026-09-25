@@ -1,104 +1,56 @@
 Table des matières
 
-Cette table reprend les opérations de la chaîne d'enquête.
+Cette table des matières cartographie l'architecture documentaire de Protokin.
 
-Chaque section correspond à une fonction d'enquête, non à une étape de constitution d'un objet, d'un sujet ou du réel.
+Elle distingue :
 
-Les entrées signalées par ▸ sont développées dans les fichiers de référence.
+- les pages canoniques, qui définissent le cadre de référence du projet ;
+- la chaîne d'enquête, qui organise les fonctions de l'enquête ;
+- les développements, qui précisent, appliquent ou mettent à l'épreuve cette architecture ;
+- les filiations, qui permettent de comparer Protokin à d'autres travaux.
 
-Les entrées signalées par · désignent des distinctions locales, mobilisables selon les problèmes rencontrés sans devenir des dimensions fondamentales de l'architecture.
+La table des matières n'ajoute donc pas une nouvelle fonction théorique à l'architecture.
 
-«« La chaîne de Protokin est une chaîne d'enquête, non une chaîne de constitution. »»
-
-La chaîne ordonne les opérations de l'enquête ; la quadripartition ordonne les questions que ces opérations doivent maintenir distinctes.
+«La chaîne de Protokin est une chaîne d'enquête, non une chaîne de constitution.»
 
 ---
 
-Cadre général
+Pages canoniques
 
-Cette partie positionne Protokin et permet d'en comprendre l'orientation avant d'entrer dans la chaîne d'enquête.
+Les quatre pages suivantes constituent le noyau stable de l'architecture documentaire.
 
-Protokin en une phrase
+README
 
-▸ « Protokin enquête sur les conditions, fonctions et transformations par lesquelles des pratiques rendent des différences descriptibles, discutables, justifiables, stabilisables, contestables et révisables. »
+Présente Protokin, son orientation, son point de départ et ses limites.
 
-▸ « Protokin ne décrit rien. Il enquête sur la manière dont des pratiques rendent quelque chose descriptible. »
+Architecture fonctionnelle
 
-Le problème : point de départ de l'enquête
+Organise les fonctions de la chaîne d'enquête.
 
-▸ Protokin ne commence ni par une ontologie générale ni par des catégories posées a priori.
+Quadripartition fondamentale
 
-▸ L'enquête commence lorsqu'une pratique descriptive rencontre un problème.
+Maintient les quatre questions irréductibles :
 
-▸ Le problème peut concerner une distinction instable, une incompatibilité entre descriptions, une fonction qui change, une justification contestée ou une conversion indue entre des registres distincts.
+«Corps — dans quelles conditions corporelles et matérielles ?
+Relation — sous quelles relations ?
+Fonction — que fait cette configuration dans la pratique ?
+Justification — selon quels critères peut-elle être défendue, contestée ou révisée ?»
 
-▸ Le problème n'est pas une chose à découvrir derrière la pratique. Il est ce qui rend nécessaire sa reprise.
+Table des matières
 
-Une enquête, pas une ontologie
-
-▸ Protokin ne cherche pas à déterminer ce que les choses sont en elles-mêmes.
-
-▸ Il examine les conditions dans lesquelles une description devient possible, les relations sous lesquelles elle fonctionne, ce qu'elle permet de faire et les critères selon lesquels elle peut être défendue, contestée ou révisée.
-
-Non-ontologie
-
-▸ Protokin ne choisit pas entre matérialisme, idéalisme, réalisme ou relativisme ontologique.
-
-▸ Il demande sous quelles conditions une configuration peut être décrite comme réelle, matérielle, causale, vivante, sociale, normative ou rationnelle dans une pratique déterminée.
-
-Ce que Protokin n'établit pas
-
-▸ Ni ontologie générale.
-
-▸ Ni théorie de la constitution du réel.
-
-▸ Ni théorie ontologique de la constitution des objets.
-
-▸ Ni théorie générale du langage.
-
-▸ Ni réduction biologique.
-
-▸ Ni hiérarchie de niveaux.
-
-▸ Ni procédure mécanique.
-
-▸ Ni doctrine définitive.
-
-Pour commencer
-
-▸ "Introduction générale" (introduction-generale.md)
-
-▸ "Architecture fonctionnelle" (architecture-fonctionnelle.md)
-
-▸ "Quadripartition fondamentale" (quadripartition-fondamentale.md)
-
-▸ "Principes fondamentaux" (01-principes-fondamentaux.md)
-
-▸ "Protocole d'audit" (protocole-audit.md)
-
-Parcours de lecture
-
-▸ Présentation générale
-
-→ Architecture fonctionnelle
-
-→ Quadripartition fondamentale
-
-→ Principes fondamentaux
-
-→ Chaîne d'enquête
-
-→ Audit
-
-→ Mise à l'épreuve
+Cartographie l'ensemble du projet et distingue le noyau canonique de ses développements.
 
 ---
 
 Chaîne d'enquête
 
-La chaîne constitue le parcours fonctionnel de Protokin.
+La chaîne organise les déplacements fonctionnels de l'enquête.
 
-Elle ne décrit pas la constitution progressive d'un objet. Elle organise les opérations par lesquelles un problème peut être rendu enquêtable, examiné, articulé, éprouvé et éventuellement repris.
+Elle ne constitue ni une succession obligatoire d'étapes, ni une hiérarchie de niveaux, ni une théorie de la constitution d'un objet.
+
+Une enquête peut mobiliser plusieurs fonctions, revenir sur une fonction antérieure ou en laisser certaines de côté selon le problème rencontré.
+
+«L'ordre de la chaîne est fonctionnel, non mécanique.»
 
 ---
 
@@ -106,31 +58,11 @@ Elle ne décrit pas la constitution progressive d'un objet. Elle organise les op
 
 Fonction : déterminer le problème sur lequel porte l'enquête et en préciser les frontières.
 
-«« Le point de départ de Protokin est le problème, non un fondement. »»
-
-Trouble
-
-▸ Difficulté rencontrée dans le fonctionnement d'une pratique.
-
-Situation problématique
-
-▸ Situation dans laquelle une pratique ne peut plus poursuivre son fonctionnement sans réexaminer certaines de ses distinctions, relations ou critères.
-
-Distinctions engagées
-
-▸ Identifier les distinctions effectivement mobilisées dans la pratique.
-
-Périmètre d'enquête
-
-▸ Déterminer ce qui fait problème.
-
-▸ Déterminer dans quelle pratique le problème apparaît.
-
-▸ Déterminer ce qui doit être examiné et ce qui reste hors périmètre.
-
-Conversions et réductions
-
-▸ Repérer les confusions qui rendent le problème difficile à traiter.
+- Trouble
+- Situation problématique
+- Distinctions engagées
+- Périmètre d'enquête
+- Conversions et réductions
 
 ---
 
@@ -138,101 +70,40 @@ Conversions et réductions
 
 Fonction : identifier les conditions corporelles, matérielles et écologiques pertinentes pour le problème étudié.
 
-«« Condition matérielle ≠ fonction ≠ justification. »»
+- Corps
+- Supports
+- Contraintes matérielles
+- Capacités
+- Possibilités d'action
+- Limites de l'ancrage
 
-Corps
-
-▸ Configurations corporelles, capacités sensorielles et motrices, habitudes incorporées.
-
-Supports
-
-▸ Supports matériels, infrastructures, traces, conditions d'inscription et de transmission.
-
-Contraintes matérielles
-
-▸ Contraintes physiques, énergétiques et écologiques pertinentes.
-
-Capacités
-
-▸ Possibilités d'action et de description effectivement disponibles.
-
-Possibilités d'action
-
-▸ Ce que la configuration corporelle et matérielle rend possible ou empêche.
-
-Limite de l'ancrage
-
-▸ Identifier les conditions pertinentes sans les transformer en fonctions ou en critères.
+«Condition matérielle ≠ fonction ≠ justification.»
 
 ---
 
 02 — Distinguer
 
-Fonction : maintenir les différences conceptuelles nécessaires à l'enquête.
+Fonction : maintenir les différences nécessaires à l'enquête sans les transformer en séparations ontologiques.
 
-«« Distinguer sans isoler. »»
+- Distinctions fondamentales
+- Non-conversion
+- Distinctions locales
+- Articulation
 
-Distinctions fondamentales
-
-▸ Les questions fondamentales que l'enquête doit maintenir distinctes.
-
-Non-conversion
-
-▸ Condition ≠ critère.
-
-▸ Cause ≠ raison.
-
-▸ Genèse ≠ justification.
-
-▸ Trace ≠ signification.
-
-▸ Description ≠ objet décrit.
-
-▸ Capacité ≠ performance ≠ validité.
-
-▸ Fonction ≠ justification.
-
-▸ Incarnation ≠ réduction biologique.
-
-Distinctions locales
-
-▸ Distinctions supplémentaires nécessaires dans une enquête particulière.
-
-Articulation
-
-▸ Maintenir les distinctions sans empêcher leurs relations fonctionnelles.
-
-«« Continuité des dépendances, discontinuité des fonctions, non-conversion. »»
+«Distinguer sans isoler.»
 
 ---
 
 03 — Relier
 
-Fonction : examiner les relations entre les éléments distingués sans les fusionner.
+Fonction : examiner les relations entre les éléments distingués sans les convertir les uns dans les autres.
 
-«« Articuler sans convertir. »»
+- Relations
+- Configurations
+- Dépendances
+- Limites de la relation
 
-Relations
-
-▸ Mises en rapport, dépendances, discriminations et transformations relationnelles.
-
-Configurations
-
-▸ Manières dont des éléments, événements, organismes, signes ou pratiques sont effectivement mis en rapport.
-
-Dépendances
-
-▸ Une modification corporelle peut transformer une relation.
-
-▸ Une transformation relationnelle peut modifier une fonction.
-
-▸ Une modification fonctionnelle peut rendre une justification nécessaire.
-
-▸ Une contestation peut conduire à transformer la pratique.
-
-Limite de la relation
-
-▸ La relation n'est pas la propriété physique de la chose.
+«La relation n'est pas la propriété physique de la chose.»
 
 ---
 
@@ -240,231 +111,106 @@ Limite de la relation
 
 Fonction : examiner comment une différence devient identifiable, réutilisable et opératoire dans une pratique descriptive.
 
-«« Décrire n'est pas produire l'objet ; c'est participer à une configuration descriptive dans laquelle une différence peut être reprise. »»
+- Pratiques descriptives
+- Différence
+- Indice
+- Configuration descriptive
+- Objet descriptif
+- Stabilisation
 
-Pratiques descriptives
-
-▸ Production, usage, discussion, justification, stabilisation et transformation des descriptions.
-
-Différence
-
-▸ Une différence devient pertinente lorsqu'elle peut être discriminée dans une pratique.
-
-Indice
-
-▸ Un indice oriente l'attention ou la discrimination sans constituer à lui seul une fonction ou une raison.
-
-Configuration descriptive
-
-▸ Articulation de différences, indices, catégories, qualifications et usages.
-
-Objet descriptif
-
-▸ Différence stabilisée comme identifiable et réutilisable dans une pratique descriptive.
-
-Stabilisation
-
-▸ Stabilisation suffisante pour permettre la reprise d'une description sans impliquer son immobilité.
+«Décrire n'est pas produire l'objet.»
 
 ---
 
 05 — Justifier
 
-Fonction : examiner les conditions sous lesquelles une description peut être soutenue, contestée, corrigée ou révisée.
+Fonction : examiner selon quels critères une description ou un engagement peut être soutenu, contesté, corrigé ou révisé.
 
-«« Fonction ≠ justification. »»
+- Critères
+- Engagements
+- Habilitations
+- Incompatibilités
+- Conséquences inférentielles
+- Redevabilité
+- Correction publique
+- Justification
 
-Critères
-
-▸ Conditions selon lesquelles une description peut être soutenue ou contestée.
-
-Engagements
-
-▸ Engagements inférentiels liés à une description ou une qualification.
-
-Habilitations
-
-▸ Conditions sous lesquelles un locuteur est habilité à produire une description.
-
-Incompatibilités
-
-▸ Incompatibilités entre descriptions ou engagements.
-
-Conséquences inférentielles
-
-▸ Conséquences qu'une description engage.
-
-Redevabilité
-
-▸ Conditions sous lesquelles un locuteur peut être tenu responsable de ses descriptions.
-
-Correction publique
-
-▸ Possibilité de correction des descriptions dans une pratique collective.
-
-Justification
-
-▸ Raisons, critères, engagements et conséquences rendant une position recevable.
+«Fonction ≠ justification.»
 
 ---
 
 06 — Temporaliser
 
-Fonction : examiner comment les transformations se distribuent dans le temps.
+Fonction : examiner comment les transformations et les configurations se distribuent dans le temps.
 
-«« La temporalité est transversale à la quadripartition. »»
+- Trajectoire
+- Allure
+- Distance
+- Durée
+- Succession
+- Simultanéité
+- Sédimentation
+- Réorganisation
+- Transformations temporelles
 
-Trajectoire
-
-▸ Parcours d'une transformation dans le temps.
-
-Allure
-
-▸ Manière dont une transformation se distribue temporellement.
-
-Distance
-
-▸ Écart pertinent entre configurations, états ou descriptions dans le cadre d'une enquête.
-
-Durée
-
-▸ Extension temporelle d'une transformation.
-
-Succession
-
-▸ Ordre dans lequel les transformations se produisent.
-
-Simultanéité
-
-▸ Transformations qui se produisent conjointement.
-
-Sédimentation
-
-▸ Stabilisation historique de distinctions ou de descriptions disponibles pour des reprises ultérieures.
-
-Réorganisation
-
-▸ Modification de l'organisation d'une pratique ou d'une configuration.
-
-Transformation
-
-▸ Modification d'une relation, d'une fonction, d'une justification ou d'une configuration.
+«La temporalité est transversale à la quadripartition.»
 
 ---
 
 07 — Expliquer
 
-Fonction : articuler les différents types d'intelligibilité mobilisés par l'enquête sans les convertir.
+Fonction : articuler différentes formes d'intelligibilité sans convertir leurs fonctions.
 
-«« Cause ≠ raison. Genèse ≠ justification. »»
+- Conditions matérielles
+- Relations
+- Fonctions
+- Pratiques
+- Justifications
+- Transformations
+- Limites de l'explication
 
-Conditions matérielles
-
-▸ Conditions corporelles, matérielles et écologiques.
-
-Relations
-
-▸ Relations et transformations relationnelles.
-
-Fonctions
-
-▸ Fonctions produites dans une pratique.
-
-Pratiques
-
-▸ Conditions de fonctionnement d'une pratique.
-
-Justifications
-
-▸ Conditions dans lesquelles une justification apparaît, se stabilise ou se transforme.
-
-Transformations
-
-▸ Transformations d'une configuration dans le temps.
-
-Limites de l'explication
-
-▸ Expliquer une justification ne revient pas à la justifier.
-
-▸ Expliquer la genèse d'une description ne suffit pas à déterminer sa validité.
+«Cause ≠ raison.
+Genèse ≠ justification.»
 
 ---
 
 08 — Auditer
 
-Fonction : examiner la cohérence fonctionnelle de l'enquête et détecter les conversions indues.
+Fonction : examiner la cohérence fonctionnelle de l'enquête et repérer les conversions ou réductions indues.
 
-«« L'audit ne constitue pas un tribunal extérieur. Il est une opération de l'enquête elle-même. »»
+- Conversions
+- Réductions
+- Confusions de périmètre
+- Dépendances
+- Critères
+- Réexamen
 
-Conversions indues
+L'audit porte notamment sur les conversions entre :
 
-▸ Condition → critère.
+- condition et critère ;
+- cause et raison ;
+- trace et signification ;
+- fonction et propriété ;
+- capacité et performance ;
+- description et objet décrit.
 
-▸ Cause → raison.
-
-▸ Trace → signification.
-
-▸ Fonction → propriété.
-
-▸ Capacité → performance.
-
-▸ Description → objet décrit.
-
-Réductions
-
-▸ Réduction biologique.
-
-▸ Réification normative.
-
-▸ Confusion entre relation et propriété physique.
-
-Protocole d'audit
-
-▸ Vérifier les distinctions.
-
-▸ Identifier les conversions.
-
-▸ Examiner les dépendances.
-
-▸ Vérifier le périmètre.
-
-▸ Réexaminer les critères mobilisés.
+«L'audit est une opération de l'enquête elle-même.»
 
 ---
 
 09 — Réfléchir
 
-Fonction : appliquer les opérations de l'enquête à leurs propres conditions.
+Fonction : appliquer les opérations de l'enquête à leurs propres conditions de fonctionnement.
 
-«« La réflexivité est une fonction transversale de l'enquête, non une cinquième dimension du réel. »»
+- Réflexivité
+- Distinctions
+- Catégories
+- Présupposés
+- Exclusions
+- Effets de cadrage
+- Auto-application
 
-Réflexivité
-
-▸ L'analyse des pratiques descriptives est elle-même une pratique descriptive.
-
-Distinctions
-
-▸ Examiner ses propres distinctions.
-
-Catégories
-
-▸ Examiner ses propres catégories.
-
-Présupposés
-
-▸ Examiner ses propres présupposés.
-
-Exclusions
-
-▸ Examiner ses propres exclusions.
-
-Effets de cadrage
-
-▸ Examiner les effets produits par le cadrage de l'enquête.
-
-Auto-application
-
-▸ Protokin applique à ses propres distinctions les exigences qu'il applique aux autres pratiques.
+«La réflexivité est une fonction transversale de l'enquête, non une cinquième dimension.»
 
 ---
 
@@ -472,55 +218,27 @@ Auto-application
 
 Fonction : confronter les distinctions de Protokin aux situations dans lesquelles elles prétendent être utiles.
 
-«« L'épreuve peut modifier l'architecture elle-même. »»
+- Cas
+- Ambiguïtés
+- Conversions
+- Distinctions manquantes
+- Révision
 
-Cas
-
-▸ Examiner le fonctionnement des distinctions dans des configurations déterminées.
-
-Ambiguïté
-
-▸ Identifier les ambiguïtés conceptuelles ou fonctionnelles.
-
-Conversion
-
-▸ Repérer les conversions produites par l'analyse.
-
-Distinction manquante
-
-▸ Identifier les distinctions devenues nécessaires.
-
-Révision
-
-▸ Modifier une distinction, une fonction ou le périmètre de l'enquête lorsque le cas l'exige.
+«L'épreuve peut modifier l'architecture elle-même.»
 
 ---
 
 11 — Reconstituer
 
-Fonction : reconstruire la configuration du problème après l'analyse des différentes dimensions.
+Fonction : reconstruire la configuration du problème après l'examen des différentes dimensions.
 
-«« Reconstituer ne consiste pas à revenir à une totalité originelle. »»
+- Configuration du problème
+- Nouvelle organisation descriptive
+- Nouvelle pratique
+- Nouvelle formulation
+- Reprise
 
-Configuration du problème
-
-▸ Rassembler les distinctions pertinentes sans abolir celles établies pendant l'enquête.
-
-Nouvelle organisation descriptive
-
-▸ Réorganiser les descriptions à partir de ce que l'enquête a rendu visible.
-
-Nouvelle pratique
-
-▸ Modifier les conditions de fonctionnement de la pratique lorsque cela devient pertinent.
-
-Nouvelle formulation
-
-▸ Reformuler le problème.
-
-Reprise
-
-▸ Conserver, préciser, modifier ou abandonner une distinction.
+«Reconstituer ne consiste pas à revenir à une totalité originelle.»
 
 ---
 
@@ -528,87 +246,111 @@ Reprise
 
 Fonction : réexaminer les frontières initiales du problème à partir de ce que l'enquête a rendu visible.
 
-«« La fin d'une enquête n'abolit pas le problème ; elle détermine provisoirement les conditions dans lesquelles il peut être considéré comme suffisamment traité. »»
+- Frontières initiales
+- Clôture relative
+- Réouverture
 
-Frontières initiales
-
-▸ Réexaminer la formulation et le périmètre initiaux.
-
-Clôture relative
-
-▸ Une enquête peut être considérée comme suffisamment traitée sans prétendre avoir tout expliqué.
-
-Réouverture
-
-▸ Un nouveau problème peut conduire à reprendre l'enquête.
+«La fin d'une enquête n'abolit pas le problème.»
 
 ---
 
-Documents de référence
+Développements
 
-Ces documents ne constituent pas des étapes supplémentaires de la chaîne. Ils explicitent, outillent ou mettent à l'épreuve son fonctionnement.
+Les développements ne constituent pas de nouvelles étapes de la chaîne.
 
-Architecture
+Ils permettent de préciser, appliquer, comparer ou mettre à l'épreuve une fonction déterminée de l'architecture.
 
-▸ "Architecture fonctionnelle générale" (architecture-fonctionnelle.md)
+Concepts
 
-▸ Décrit la chaîne d'enquête et ses fonctions.
+Pages consacrées à une distinction ou à une fonction particulière.
 
-Quadripartition
+Elles sont construites selon la règle générale des pages conceptuelles :
 
-▸ "Quadripartition fondamentale" (quadripartition-fondamentale.md)
+1. fonction unique ;
+2. inscription dans l'architecture ;
+3. limites ;
+4. dimensions de la quadripartition mobilisées ;
+5. conversion ou réduction neutralisée ;
+6. dépendances ;
+7. fonctions rendues possibles.
 
-▸ Établit les quatre questions irréductibles :
+Problèmes et pathologies
 
-Corps — Relation — Fonction — Justification
+Pages consacrées aux difficultés susceptibles d'apparaître dans une enquête :
 
-Principes
+- tensions ;
+- conversions ;
+- réductions ;
+- confusions ;
+- réifications ;
+- autres difficultés identifiées au cours de l'enquête.
 
-▸ "Principes fondamentaux" (01-principes-fondamentaux.md)
+Cas
 
-▸ Formalise les principes de dépendance, de non-conversion et de distinction fonctionnelle.
+Pages consacrées à des situations déterminées permettant d'éprouver les distinctions de Protokin.
 
-Audit
+Un cas ne constitue pas une preuve générale de l'architecture.
 
-▸ "Protocole d'audit" (protocole-audit.md)
+Il peut conduire à préciser, déplacer, réviser ou abandonner une distinction.
 
-▸ Organise les opérations de contrôle des descriptions et des conversions.
+Outils d'audit
+
+Pages permettant d'examiner concrètement les conversions, les dépendances et les limites d'une analyse.
 
 Lexique
 
-▸ "Lexique opératoire" (lexique-protokin.md)
+Pages consacrées au sens précis des termes utilisés dans le projet.
 
-▸ Définitions opératoires des concepts mobilisés.
-
-Pathologies
-
-▸ "Pathologies descriptives" (pathologies.md)
-
-▸ Regroupe les formes récurrentes de dysfonctionnement descriptif.
-
-Études de cas
-
-▸ "Études de cas" (etudes-de-cas.md)
-
-▸ Met les distinctions à l'épreuve de configurations déterminées.
+Le lexique ne constitue pas une seconde architecture.
 
 ---
 
 Filiations
 
-Cette section situe Protokin dans différents héritages philosophiques. Elle ne relève pas de la chaîne d'enquête.
+Les filiations présentent des travaux avec lesquels Protokin peut être rapproché, distingué ou mis en discussion.
 
-* "Peirce" (peirce.md)
-* "Dewey" (dewey.md)
-* "Wittgenstein" (wittgenstein.md)
-* "Sellars" (sellars.md)
-* "Brandom" (brandom.md)
-* "Rouse" (rouse.md)
-* "Rorty" (rorty.md)
-* "McDowell" (mcdowell.md)
-* "Hacking" (hacking.md)
-* "Simondon" (simondon.md)
-* "Merleau-Ponty" (merleau-ponty.md)
-* "Varela" (varela.md)
-* "Fricker" (fricker.md)
-* "Autres héritages" (autres-heritages.md)
+Elles ne constituent ni des fondements de Protokin, ni des étapes de sa chaîne d'enquête.
+
+Elles peuvent notamment concerner :
+
+- Peirce
+- Dewey
+- Wittgenstein
+- Sellars
+- Brandom
+- Rouse
+- Rorty
+- McDowell
+- Hacking
+- Simondon
+- Merleau-Ponty
+- Varela
+- Fricker
+- autres héritages pertinents
+
+Une filiation sert à examiner une convergence, une divergence, une ressource ou une difficulté.
+
+«Une filiation n'est pas une fondation.»
+
+---
+
+Règle de lecture
+
+Pour entrer dans Protokin :
+
+README
+→ orientation générale
+
+Architecture fonctionnelle
+→ organisation des fonctions de l'enquête
+
+Quadripartition fondamentale
+→ quatre questions à maintenir distinctes
+
+Table des matières
+→ navigation dans les développements
+
+Les autres pages peuvent ensuite être mobilisées selon le problème étudié.
+
+«Les pages canoniques définissent l'architecture.
+Les autres pages la précisent, l'appliquent ou la mettent à l'épreuve.»
