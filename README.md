@@ -6,11 +6,15 @@ Protokin 🧭
 
 Protokin en une phrase
 
-«Protokin enquête sur les conditions, fonctions et transformations par lesquelles des pratiques rendent des différences descriptibles, discutables, justifiables, stabilisables, contestables et révisables.»
+«Protokin enquête sur les conditions, fonctions et transformations par lesquelles des pratiques rendent certaines différences descriptibles, discutables, justifiables, stabilisables, contestables et révisables.»
 
-Protokin ne propose pas une description de premier ordre du monde.
+Protokin ne prétend pas fournir une description ultime du monde.
 
-«Protokin ne décrit rien. Il enquête sur les conditions dans lesquelles des pratiques rendent quelque chose descriptible.»
+Il enquête sur les conditions dans lesquelles une description peut être tenue pour adéquate à ce qu'elle prétend décrire.
+
+La question n'est donc pas seulement de savoir si une construction descriptive est cohérente, mais aussi ce qui permet de considérer qu'elle est adéquate, justifiable, contestable ou révisable.
+
+«La cohérence d'une description ne suffit pas à établir son adéquation à ce qu'elle prétend décrire.»
 
 ---
 
@@ -31,7 +35,7 @@ L'enquête commence lorsqu'une pratique descriptive rencontre un problème :
 
 Le problème n'est pas simplement un manque d'information.
 
-Il désigne une difficulté dans le fonctionnement d'une pratique descriptive.
+Il désigne une difficulté dans le fonctionnement d'une pratique descriptive : une distinction ne fonctionne plus comme prévu, plusieurs fonctions sont confondues, une inférence ne produit pas l'effet attendu, ou une description est utilisée au-delà des conditions qui la rendent pertinente.
 
 L'enquête cherche alors à reconstruire cette difficulté sans convertir les déterminations qu'elle rencontre les unes dans les autres.
 
@@ -43,7 +47,7 @@ Une enquête, pas une ontologie
 
 Protokin ne cherche pas à déterminer ce que les choses sont en elles-mêmes à partir d'une ontologie première.
 
-Il examine plutôt comment des pratiques descriptives rendent certaines différences identifiables et opératoires dans des situations déterminées.
+Il examine comment des pratiques descriptives rendent certaines différences identifiables et opératoires dans des situations déterminées.
 
 Cette orientation ne signifie pas que ce qui est décrit serait inexistant ou purement construit.
 
@@ -53,7 +57,11 @@ Protokin demande notamment :
 
 «Sous quelles conditions une configuration peut-elle être décrite comme réelle, matérielle, causale, vivante, sociale, normative ou rationnelle dans une pratique déterminée ?»
 
-La question porte sur les conditions d'emploi et de justification d'une description, non sur une ontologie ultime de ce qu'elle décrit.
+La question porte sur les conditions d'emploi, d'adéquation et de justification d'une description, non sur une ontologie ultime de ce qu'elle décrit.
+
+Protokin ne choisit donc pas entre matérialisme, idéalisme, réalisme ou relativisme comme doctrine ontologique générale.
+
+Il cherche à déterminer ce que fait une telle qualification dans une pratique donnée, sur quelles conditions elle repose, à quelles relations elle s'applique et selon quels critères elle peut être défendue, contestée ou révisée.
 
 ---
 
@@ -62,8 +70,7 @@ Ce que Protokin n'établit pas
 Protokin n'établit pas :
 
 - une ontologie générale ;
-- une théorie de la constitution du réel ;
-- une théorie ontologique de la constitution des objets ;
+- une théorie ontologique de la constitution du réel et des objets ;
 - une théorie générale du langage ;
 - une réduction biologique ;
 - une hiérarchie de niveaux ;
@@ -74,6 +81,10 @@ Ces exclusions ne constituent pas une doctrine négative complète.
 
 Elles délimitent simplement le type de travail que Protokin cherche à accomplir.
 
+Elles n'impliquent pas que Protokin renonce à décrire, expliquer ou distinguer.
+
+Elles indiquent seulement qu'aucune de ces opérations n'est convertie en fondement ontologique ultime.
+
 ---
 
 Les quatre pages canoniques
@@ -82,7 +93,7 @@ L'architecture de Protokin repose sur quatre pages canoniques.
 
 README
 
-Présente l'orientation générale de Protokin, son point de départ et son périmètre.
+Présente l'orientation générale de Protokin, son point de départ, son périmètre et son organisation.
 
 Architecture fonctionnelle
 
@@ -90,24 +101,30 @@ Organise les opérations de l'enquête :
 
 «Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Temporaliser → Expliquer → Auditer → Réfléchir → Éprouver → Reconstituer → Redélimiter»
 
-La chaîne est une chaîne d'enquête, non une chaîne de constitution.
+Cette chaîne décrit une organisation fonctionnelle de l'enquête.
+
+Elle ne constitue ni une succession nécessaire, ni une hiérarchie de niveaux, ni une chaîne de constitution du réel.
+
+«La chaîne est une chaîne d'enquête, non une chaîne de constitution.»
 
 Quadripartition fondamentale
 
 Maintient quatre questions irréductibles :
 
-«Condition — dans quelles conditions cette pratique peut-elle effectivement avoir lieu?
+«Condition — dans quelles conditions cette pratique peut-elle effectivement avoir lieu ?
 Relation — sous quelles relations ?
 Fonction — que fait cette configuration dans la pratique ?
 Justification — selon quels critères peut-elle être défendue, contestée ou révisée ?»
 
-Ces quatre questions sont dépendantes sans être convertibles.
+Ces quatre questions sont interdépendantes sans être convertibles les unes dans les autres.
+
+Elles constituent une matrice fonctionnelle de l'enquête, et non une division exhaustive de ce qui existe.
 
 Table des matières
 
 Cartographie les fonctions de l'architecture et leurs développements.
 
-Elle permet de distinguer les pages qui définissent l'architecture de celles qui la précisent, l'appliquent, la mettent à l'épreuve ou en examinent les filiations.
+Elle distingue les pages qui définissent l'architecture de celles qui la précisent, l'appliquent, la mettent à l'épreuve ou en examinent les filiations.
 
 ---
 
@@ -115,7 +132,7 @@ Une architecture ouverte, un noyau stable
 
 Les quatre pages canoniques constituent le noyau architectural de Protokin.
 
-Les autres pages ne redéfinissent pas ce noyau.
+Les autres pages ne redéfinissent pas ce noyau par leur seule existence.
 
 Elles peuvent :
 
@@ -127,11 +144,13 @@ Elles peuvent :
 - comparer une proposition extérieure ;
 - documenter une filiation.
 
-Une page secondaire peut donc modifier ou conduire à réviser une distinction, mais elle ne devient pas pour autant une nouvelle page canonique.
+Une page secondaire peut ainsi conduire à préciser ou à réviser une distinction du noyau architectural.
 
-«Une page secondaire peut préciser, appliquer, comparer ou mettre à l'épreuve l'architecture ; elle ne peut pas la redéfinir à elle seule.»
+La révision du noyau relève toutefois de l'ensemble de l'architecture et ne dépend pas de l'autorité d'une page isolée.
 
-Cette organisation permet de conserver une architecture sobre tout en laissant l'enquête ouverte à la révision.
+«Une page secondaire peut préciser, appliquer, comparer ou mettre à l'épreuve l'architecture ; elle ne la redéfinit pas à elle seule.»
+
+L'architecture cherche ainsi à maintenir un noyau suffisamment stable pour assurer la continuité du projet, tout en restant révisable lorsque l'enquête fait apparaître une distinction insuffisante, ambiguë ou inadéquate.
 
 ---
 
