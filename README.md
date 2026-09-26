@@ -1,12 +1,12 @@
 Protokin 🧭
 
-«Une démarche d'enquête pragmatiste, inférentialiste, réflexive et non-ontologique sur les pratiques descriptives.»
+«« Une démarche d'enquête pragmatiste, inférentialiste, réflexive et non-ontologique sur les pratiques descriptives. »»
 
 ---
 
 Protokin en une phrase
 
-«Protokin enquête sur les conditions, fonctions et transformations par lesquelles des pratiques rendent certaines différences descriptibles, discutables, justifiables, stabilisables, contestables et révisables.»
+«« Protokin enquête sur les conditions, fonctions et transformations par lesquelles des pratiques rendent certaines différences descriptibles, discutables, justifiables, stabilisables, contestables et révisables. »»
 
 Protokin ne prétend pas fournir une description ultime du monde.
 
@@ -14,7 +14,7 @@ Il enquête sur les conditions dans lesquelles une description peut être tenue 
 
 La question n'est donc pas seulement de savoir si une construction descriptive est cohérente, mais aussi ce qui permet de considérer qu'elle est adéquate, justifiable, contestable ou révisable.
 
-«La cohérence d'une description ne suffit pas à établir son adéquation à ce qu'elle prétend décrire.»
+«« La cohérence d'une description ne suffit pas à établir son adéquation à ce qu'elle prétend décrire. »»
 
 ---
 
@@ -39,7 +39,7 @@ Il désigne une difficulté dans le fonctionnement d'une pratique descriptive : 
 
 L'enquête cherche alors à reconstruire cette difficulté sans convertir les déterminations qu'elle rencontre les unes dans les autres.
 
-«Le problème déclenche l'enquête ; la quadripartition l'oriente ; l'architecture fonctionnelle organise ses déplacements.»
+«« Le problème déclenche l'enquête ; la quadripartition l'oriente ; l'architecture fonctionnelle organise ses déplacements. »»
 
 ---
 
@@ -55,13 +55,13 @@ Elle signifie qu'une description particulière ne reçoit pas, par principe, le 
 
 Protokin demande notamment :
 
-«Sous quelles conditions une configuration peut-elle être décrite comme réelle, matérielle, causale, vivante, sociale, normative ou rationnelle dans une pratique déterminée ?»
+«« Sous quelles conditions une configuration peut-elle être décrite comme réelle, matérielle, causale, vivante, sociale, normative ou rationnelle dans une pratique déterminée ? »»
 
-La question porte sur les conditions d'emploi, d'adéquation et de justification d'une description, non sur une ontologie ultime de ce qu'elle décrit.
+La question porte sur les conditions d'emploi, d'adéquation et de justification de cette description, non sur une ontologie ultime de ce qu'elle décrit.
 
 Protokin ne choisit donc pas entre matérialisme, idéalisme, réalisme ou relativisme comme doctrine ontologique générale.
 
-Il cherche à déterminer ce que fait une telle qualification dans une pratique donnée, sur quelles conditions elle repose, à quelles relations elle s'applique et selon quels critères elle peut être défendue, contestée ou révisée.
+Il cherche à déterminer ce que fait une telle qualification dans une pratique donnée, sous quelles conditions elle peut être employée, dans quelles relations elle intervient et selon quels critères elle peut être défendue, contestée ou révisée.
 
 ---
 
@@ -91,36 +91,42 @@ Les quatre pages canoniques
 
 L'architecture de Protokin repose sur quatre pages canoniques.
 
-README
+"README" (README.md)
 
 Présente l'orientation générale de Protokin, son point de départ, son périmètre et son organisation.
 
-Architecture fonctionnelle
+"Architecture fonctionnelle" (architecture-fonctionnelle.md)
 
 Organise les opérations de l'enquête :
 
-«Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Temporaliser → Expliquer → Auditer → Réfléchir → Éprouver → Reconstituer → Redélimiter»
+«« Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Temporaliser → Expliquer → Auditer → Réfléchir → Éprouver → Reconstituer → Redélimiter »»
 
 Cette chaîne décrit une organisation fonctionnelle de l'enquête.
 
 Elle ne constitue ni une succession nécessaire, ni une hiérarchie de niveaux, ni une chaîne de constitution du réel.
 
-«La chaîne est une chaîne d'enquête, non une chaîne de constitution.»
+«« La chaîne est une chaîne d'enquête, non une chaîne de constitution. »»
 
-Quadripartition fondamentale
+"Quadripartition fondamentale" (quadripartition-fondamentale.md)
 
 Maintient quatre questions irréductibles :
 
-«Condition — dans quelles conditions cette pratique peut-elle effectivement avoir lieu ?
+«« Condition — dans quelles conditions cette pratique peut-elle effectivement avoir lieu ?
 Relation — sous quelles relations ?
 Fonction — que fait cette configuration dans la pratique ?
-Justification — selon quels critères peut-elle être défendue, contestée ou révisée ?»
+Justification — selon quels critères peut-elle être défendue, contestée ou révisée ? »»
+
+La condition constitue ici le registre général des conditions de possibilité et d'exercice d'une pratique. Le corps en constitue une détermination particulière, notamment lorsqu'une enquête porte sur les configurations corporelles et matérielles.
+
+La relation désigne les mises en rapport dans lesquelles une configuration intervient. Elle n'est pas la propriété physique de la chose, et elle ne constitue pas un niveau intermédiaire dont la fonction découlerait automatiquement.
+
+La fonction concerne ce que fait effectivement une configuration dans une pratique. Elle ne se confond ni avec la configuration elle-même, ni avec sa justification.
 
 Ces quatre questions sont interdépendantes sans être convertibles les unes dans les autres.
 
 Elles constituent une matrice fonctionnelle de l'enquête, et non une division exhaustive de ce qui existe.
 
-Table des matières
+"Table des matières" (tdm.md)
 
 Cartographie les fonctions de l'architecture et leurs développements.
 
@@ -148,7 +154,7 @@ Une page secondaire peut ainsi conduire à préciser ou à réviser une distinct
 
 La révision du noyau relève toutefois de l'ensemble de l'architecture et ne dépend pas de l'autorité d'une page isolée.
 
-«Une page secondaire peut préciser, appliquer, comparer ou mettre à l'épreuve l'architecture ; elle ne la redéfinit pas à elle seule.»
+«« Une page secondaire peut préciser, appliquer, comparer ou mettre à l'épreuve l'architecture ; elle ne la redéfinit pas à elle seule. »»
 
 L'architecture cherche ainsi à maintenir un noyau suffisamment stable pour assurer la continuité du projet, tout en restant révisable lorsque l'enquête fait apparaître une distinction insuffisante, ambiguë ou inadéquate.
 
@@ -158,10 +164,10 @@ Pour commencer
 
 Pour comprendre Protokin, lire dans cet ordre :
 
-1. README — orientation générale ;
-2. Architecture fonctionnelle — organisation de l'enquête ;
-3. Quadripartition fondamentale — distinctions directrices ;
-4. Table des matières — parcours dans les développements.
+1. "README" (README.md) — orientation générale ;
+2. "Architecture fonctionnelle" (architecture-fonctionnelle.md) — organisation de l'enquête ;
+3. "Quadripartition fondamentale" (quadripartition-fondamentale.md) — distinctions directrices ;
+4. "Table des matières" (tdm.md) — parcours dans les développements.
 
 Les autres pages sont à consulter ensuite selon le problème étudié.
 
@@ -169,9 +175,9 @@ Les autres pages sont à consulter ensuite selon le problème étudié.
 
 Formule directrice
 
-«Distinguer sans isoler.
-Articuler sans convertir.»
+«« Distinguer sans isoler.
+Articuler sans convertir. »»
 
 Et le principe architectural général :
 
-«Continuité des dépendances, discontinuité des fonctions, non-conversion.»
+«« Continuité des dépendances, discontinuité des fonctions, non-conversion. »»
