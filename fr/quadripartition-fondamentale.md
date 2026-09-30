@@ -4,12 +4,12 @@ Fonction
 
 La quadripartition fondamentale constitue l'une des matrices d'orientation de Protokin.
 
-Elle distingue quatre questions irréductibles pour l'enquête :
+Elle distingue quatre questions fonctionnellement irréductibles pour l'enquête :
 
-««Condition — dans quelles conditions cette pratique peut-elle effectivement avoir lieu ?
+« Condition — dans quelles conditions cette pratique peut-elle effectivement avoir lieu ?
 Relation — sous quelles relations ?
 Fonction — que fait cette configuration dans la pratique ?
-Justification — selon quels critères peut-elle être défendue, contestée ou révisée ?»»
+Justification — selon quels critères peut-elle être défendue, contestée ou révisée ? »
 
 Ces quatre questions permettent d'examiner une même pratique sans réduire une détermination à une autre.
 
@@ -21,7 +21,7 @@ La quadripartition n'est :
 - ni une généalogie allant de la matière vers le langage ou la norme ;
 - ni une classification exhaustive de tout ce qui existe.
 
-Elle est une distinction fonctionnelle de l'enquête.
+Elle est une distinction fonctionnelle et minimale de l'enquête.
 
 ---
 
