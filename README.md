@@ -59,6 +59,12 @@ Protokin demande notamment :
 
 La question porte sur les conditions d'emploi, d'adéquation et de justification de cette description, non sur une ontologie ultime de ce qu'elle décrit.
 
+Décrire une configuration n'est pas la constituer.
+
+Une pratique descriptive peut référer à une configuration matérielle, à un organisme, à un événement, à une relation ou à une construction représentationnelle. La catégorie sous laquelle cette configuration est décrite dépend du régime descriptif et des critères mobilisés dans la pratique.
+
+Le contexte ne constitue donc pas le référent. Il contribue à déterminer ce qui est pertinent à décrire, la catégorie mobilisée et les critères selon lesquels la description peut être tenue pour adéquate.
+
 Protokin ne choisit donc pas entre matérialisme, idéalisme, réalisme ou relativisme comme doctrine ontologique générale.
 
 Il cherche à déterminer ce que fait une telle qualification dans une pratique donnée, sous quelles conditions elle peut être employée, dans quelles relations elle intervient et selon quels critères elle peut être défendue, contestée ou révisée.
