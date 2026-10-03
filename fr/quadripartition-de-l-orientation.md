@@ -1,4 +1,4 @@
-Quadripartition — Le présent descriptif de l’enquête
+Quadripartition de l'orientation — Le présent descriptif de l’enquête
 
 Fonction
 
