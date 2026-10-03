@@ -2,632 +2,377 @@ Quadripartition — Le présent descriptif de l’enquête
 
 Fonction
 
-La quadripartition constitue l'une des matrices d'orientation de Protokin.
+La quadripartition fournit à l’enquête protokinienne une orientation minimale selon quatre questions fonctionnellement irréductibles :
 
-Elle distingue quatre questions fonctionnellement irréductibles pour l'enquête :
+- Condition — dans quelles conditions matérielles, corporelles et environnementales une configuration peut-elle être prise en compte ?
+- Relation — sous quelles relations cette configuration est-elle déterminée, distinguée ou reliée à d’autres configurations ?
+- Fonction — que fait cette configuration dans une pratique déterminée ?
+- Justification — selon quels critères cette description peut-elle être défendue, contestée ou révisée ?
 
-«Condition — dans quelles conditions cette pratique peut-elle effectivement avoir lieu ?
-Relation — sous quelles relations ?
-Fonction — que fait cette configuration dans la pratique ?
-Justification — selon quels critères peut-elle être défendue, contestée ou révisée ?»
+Ces quatre questions ne constituent ni quatre dimensions de la réalité, ni quatre niveaux de l’objet, ni quatre étapes nécessaires de l’enquête.
 
-Ces quatre questions permettent d'examiner une même pratique sans réduire une détermination à une autre.
-
-La quadripartition n'est :
-
-- ni une ontologie en quatre niveaux ;
-- ni une théorie de la constitution des objets ;
-- ni une succession de phases ;
-- ni une généalogie allant de la matière vers le langage ou la norme ;
-- ni une classification exhaustive de tout ce qui existe.
-
-Elle constitue une distinction fonctionnelle et minimale de l'enquête.
-
-Elle donne forme au présent descriptif dans lequel une configuration peut, à un moment donné de l'enquête, être examinée sous ces quatre dimensions.
-
-Ce présent n'est pas un instant fixe. Il est la configuration provisoire des distinctions, relations, fonctions et justifications actuellement disponibles dans l'enquête.
-
-La quadripartition peut donc être reprise, déplacée et reconfigurée au cours de l'enquête.
+Elles indiquent quatre directions fonctionnelles dans lesquelles une enquête peut avoir besoin de préciser son problème.
 
 ---
 
 Problème
 
-Toute enquête portant sur une pratique descriptive rencontre des déterminations hétérogènes.
+Une pratique descriptive peut échouer parce qu'elle ne parvient pas à déterminer ce dont elle parle, les relations pertinentes, la fonction d'une distinction ou les raisons permettant de défendre une description.
 
-Une pratique est matériellement réalisée. Elle engage des corps, des supports, des infrastructures et des contraintes.
+Mais ces difficultés ne sont pas nécessairement séparées.
 
-Elle établit des relations.
+Une difficulté concernant une catégorie peut conduire à examiner les conditions matérielles dans lesquelles elle s'applique. Une modification de ces conditions peut conduire à reconfigurer les relations pertinentes. Une nouvelle relation peut modifier la fonction descriptive d'une distinction. Cette modification peut à son tour rendre nécessaire une nouvelle justification.
 
-Ces relations peuvent avoir certaines fonctions dans la pratique.
-
-Les descriptions ainsi produites peuvent ensuite être soumises à des critères, des engagements, des contestations et des procédures de révision.
-
-Le problème apparaît lorsque ces déterminations sont confondues.
-
-Une condition corporelle peut alors être traitée comme une justification.
-
-Une relation peut être assimilée à une propriété physique de la chose.
-
-Une fonction peut être transformée en propriété intrinsèque.
-
-Une justification peut être interprétée comme une cause.
-
-La difficulté est donc :
-
-«Comment distinguer les déterminations d'une pratique sans les isoler, et les articuler sans les convertir les unes dans les autres ?»
-
-La quadripartition répond à cette difficulté en maintenant quatre fonctions d'analyse distinctes tout en permettant d'examiner leurs dépendances.
-
-Elle ne fournit cependant pas une grille à remplir une fois pour toutes.
-
-Les quatre dimensions peuvent être précisées, déplacées ou reconfigurées lorsque l'enquête produit de nouvelles distinctions.
+La quadripartition doit donc permettre de différencier ces questions sans les transformer en domaines indépendants.
 
 ---
 
-1. Quatre questions, une même enquête
+Une orientation initialement presque vide
 
-La quadripartition peut être formulée ainsi :
+Au début d'une enquête, la quadripartition peut être pratiquement vide.
 
-Dimension| Question directrice
-Condition| Dans quelles conditions cette pratique peut-elle effectivement avoir lieu ?
-Relation| Quelles relations sont établies, transformées ou maintenues ?
-Fonction| Que font ces configurations dans la pratique ?
-Justification| Selon quels critères leurs descriptions et leurs engagements peuvent-ils être défendus, contestés ou révisés ?
+Les termes Condition, Relation, Fonction et Justification ne fournissent pas quatre contenus déjà constitués qu'il suffirait de remplir.
 
-Ces questions portent sur une même situation.
+Ils indiquent seulement des directions possibles de l'enquête.
 
-Elles ne désignent donc pas quatre objets différents.
+Ce n'est qu'au cours de celle-ci que deviennent progressivement déterminables :
 
-Elles ne constituent pas non plus quatre réponses successives à une même question.
+- les conditions pertinentes ;
+- les relations qui doivent être distinguées ;
+- les fonctions effectivement exercées ;
+- les critères permettant de justifier les distinctions retenues.
 
-Elles maintiennent quatre fonctions d'analyse qui doivent rester distinguables.
+La quadripartition n'est donc pas un cadre appliqué à un problème déjà connu.
 
-Une même pratique peut ainsi être examinée simultanément sous ses conditions corporelles, matérielles, écologiques et techniques, ses relations, ses fonctions et ses conditions de justification.
-
-Mais cette simultanéité ne signifie pas que les quatre dimensions soient déjà déterminées au commencement de l'enquête.
-
-Au début, la quadripartition peut être pratiquement vide.
-
-C'est l'enquête qui détermine progressivement ce qui doit être retenu comme condition, relation, fonction ou justification.
+Elle constitue une manière de laisser ouvertes les questions que l'enquête devra déterminer.
 
 ---
 
-2. La Condition
+Condition
 
-La dimension de la Condition concerne ce qui rend une pratique possible, la contraint, la limite ou l'empêche.
+La question de la condition porte sur les contraintes et possibilités matérielles, corporelles et environnementales dans lesquelles une configuration peut être prise en compte.
 
-Elle porte sur les conditions corporelles, matérielles, écologiques et techniques dans lesquelles une pratique peut effectivement avoir lieu.
+Elle peut concerner notamment :
 
-Elle comprend notamment :
-
-- les configurations corporelles ;
-- les capacités sensorielles et motrices ;
 - les contraintes matérielles ;
-- les supports ;
-- les infrastructures ;
-- les traces ;
-- les butoirs du milieu ;
-- les conditions énergétiques ;
-- les habitudes incorporées ;
-- les possibilités et résistances rencontrées par l'organisme.
+- les capacités d'un organisme ;
+- les conditions corporelles ;
+- les relations avec un milieu ;
+- les traces disponibles ;
+- les limites rencontrées dans une interaction.
 
-Le corps constitue donc une catégorie parmi les conditions pertinentes.
+La condition n'est pas pour autant une explication causale complète.
 
-Il n'est pas ici conçu comme une substance séparée du milieu.
-
-Il est examiné dans les conditions matérielles de son engagement.
-
-Mais les conditions ne permettent pas, à elles seules, de déterminer les relations établies, la fonction d'une configuration ou la justification d'une description.
-
-Une même configuration matérielle peut participer à des pratiques différentes.
-
-Inversement, une même fonction peut être réalisée à travers des configurations matérielles différentes.
+Elle ne fournit pas automatiquement la fonction d'une configuration ni la justification d'une description.
 
 Ainsi :
 
-«condition ≠ relation»
+«condition ≠ critère
+cause ≠ raison
+capacité ≠ performance»
 
-«condition ≠ fonction»
-
-«condition ≠ critère»
-
-L'incarnation ne se confond pas non plus avec une réduction biologique :
-
-«incarnation ≠ réduction biologique»
-
-Les conditions fournissent des possibilités, des capacités, des contraintes et des résistances.
-
-Elles ne fournissent pas, à elles seules, les critères selon lesquels une description est correcte ou justifiable.
+Une condition peut rendre une pratique possible sans déterminer à elle seule la manière dont cette pratique décrit ou justifie ce qu'elle prend en compte.
 
 ---
 
-3. La Relation
+Relation
 
-La dimension de la Relation concerne les mises en rapport et les transformations relationnelles dans lesquelles une configuration intervient.
+La question de la relation porte sur les dépendances et les connexions pertinentes pour l'enquête.
+
+Une relation peut être matérielle, biologique, sociale, pratique, descriptive ou sémantique. Ces formes de relation ne doivent cependant pas être confondues.
 
 Une relation n'est pas simplement une propriété physique supplémentaire de la chose.
 
-Elle désigne une configuration dans laquelle certains éléments deviennent pertinents les uns relativement aux autres pour une pratique donnée.
+Elle dépend de ce que l'enquête cherche à déterminer : relation de dépendance, de contraste, d'interaction, de référence, d'inférence ou de fonction.
 
-Cette dimension permet notamment d'examiner :
+Il faut notamment distinguer :
 
-- les mises en rapport ;
-- les discriminations ;
-- les dépendances ;
-- les transformations relationnelles ;
-- les configurations sémiotiques ;
-- les apprentissages relationnels ;
-- les changements de fonction produits par une modification de la relation.
+«relation ≠ propriété intrinsèque
+relation ≠ fonction
+relation sémantique ≠ référence»
 
-La relation ne doit cependant pas être transformée en principe ontologique selon lequel les relations constitueraient nécessairement les termes qu'elles mettent en rapport.
+Une relation peut contribuer à déterminer une fonction sans être elle-même cette fonction.
 
-Protokin n'a pas besoin d'une telle thèse.
-
-Il suffit à l'enquête de constater que les termes d'une relation peuvent être décrits différemment selon la configuration relationnelle dans laquelle ils interviennent.
-
-Ainsi :
-
-«la relation n'est pas la propriété physique de la chose.»
-
-Elle ne se confond pas non plus avec la fonction qu'elle peut remplir.
-
-Une relation peut rendre certaines opérations possibles sans déterminer à elle seule la manière dont elles seront effectivement utilisées.
-
-Donc :
-
-«relation ≠ fonction»
+De même, une relation sémantique peut organiser l'usage d'une expression sans constituer pour autant le référent auquel cette expression renvoie.
 
 ---
 
-4. La Fonction
+Fonction
 
-La dimension de la Fonction concerne ce qu'une configuration permet effectivement de faire dans une pratique.
+La question de la fonction porte sur ce qu'une configuration, une distinction ou une description fait dans une pratique déterminée.
 
 La fonction n'est pas une propriété intrinsèque de la chose.
 
-Elle dépend de la manière dont une configuration intervient dans une activité déterminée.
+Elle dépend du rôle qu'une configuration joue dans un ensemble de relations pratiques et descriptives.
 
-Une même configuration matérielle ou relationnelle peut ainsi recevoir des fonctions différentes selon les pratiques dans lesquelles elle est engagée.
+Ainsi, une même configuration peut exercer des fonctions différentes selon les pratiques dans lesquelles elle est mobilisée.
 
-La fonction permet notamment d'examiner :
+Il faut donc maintenir :
 
-- l'opérativité d'une configuration ;
-- ce qu'elle permet ou empêche ;
-- les transformations qu'elle rend possibles ;
-- son rôle dans une pratique ;
-- les effets fonctionnels d'une modification relationnelle ;
-- les différences entre capacité et performance.
+«fonction ≠ propriété intrinsèque
+fonction ≠ justification
+fonction ≠ référent»
 
-Cette distinction est essentielle :
-
-«capacité ≠ performance»
-
-et :
-
-«fonction ≠ justification»
-
-Qu'une configuration remplisse une fonction ne signifie pas que cette fonction soit justifiée.
-
-Inversement, qu'une pratique soit justifiée ne permet pas d'inférer immédiatement quelles sont ses conditions ou ses relations.
-
-La fonction occupe donc une place propre dans l'analyse sans devenir un niveau intermédiaire entre condition et justification.
+Une fonction descriptive peut expliquer pourquoi une distinction est mobilisée sans établir que cette distinction est correctement justifiée.
 
 ---
 
-5. La Justification
+Justification
 
-La dimension de la Justification concerne les conditions sous lesquelles une description, une qualification ou un engagement peut être défendu, contesté ou révisé.
+La question de la justification porte sur les critères selon lesquels une description peut être défendue, contestée ou révisée.
 
-Elle porte notamment sur :
+Elle peut mobiliser :
 
-- les critères ;
-- les raisons ;
-- les engagements ;
-- les habilitations ;
-- les incompatibilités ;
-- les conséquences inférentielles ;
-- la recevabilité ;
-- la contestation ;
-- la révision.
+- des observations ;
+- des inférences ;
+- des critères d'application ;
+- des normes de correction ;
+- des contraintes pratiques ;
+- des résultats expérimentaux ;
+- des accords ou désaccords argumentés.
 
-Justifier n'est pas simplement expliquer une cause.
-
-Une cause peut expliquer pourquoi un événement se produit.
-
-Une justification concerne les conditions sous lesquelles une description ou un engagement peut être tenu pour recevable.
+La justification ne doit pas être confondue avec la genèse de la description.
 
 Ainsi :
 
-«cause ≠ raison»
+«genèse ≠ justification
+cause ≠ raison
+cohérence ≠ adéquation»
 
-et :
-
-«genèse ≠ justification»
-
-La justification ne constitue donc pas l'aboutissement naturel d'une chaîne qui commencerait dans les conditions matérielles.
-
-Elle constitue une fonction d'analyse distincte.
-
-Une pratique matériellement réalisée peut être normativement contestée.
-
-Une justification peut produire des conséquences matérielles sans devenir pour autant une cause matérielle au sens strict.
-
-La continuité entre ces dimensions n'abolit donc pas leur différence fonctionnelle.
+Une description peut avoir une histoire, une fonction et des conditions d'apparition sans que ces éléments suffisent à établir qu'elle est adéquate à ce qu'elle prétend décrire.
 
 ---
 
-6. L'irréductibilité des quatre dimensions
+Continuité des dépendances, discontinuité des fonctions
 
-La quadripartition repose sur un principe simple :
+La quadripartition repose sur une exigence de non-conversion.
 
-«Aucune réponse apportée à l'une des quatre questions ne vaut, à elle seule, réponse aux trois autres.»
+Les différentes questions peuvent être liées sans que la réponse à l'une puisse être simplement convertie en réponse à une autre.
 
-On peut ainsi distinguer :
+Une enquête peut ainsi établir une continuité entre plusieurs dépendances sans en déduire une continuité de fonction.
 
-- condition ≠ relation ;
-- relation ≠ fonction ;
-- fonction ≠ justification ;
-- cause ≠ raison ;
-- genèse ≠ justification ;
-- condition ≠ critère ;
-- trace ≠ signification ;
-- description ≠ objet décrit ;
-- capacité ≠ performance ;
-- fonction ≠ propriété intrinsèque.
+Inversement, une transformation de fonction ne suppose pas nécessairement une transformation de la configuration matérielle.
 
-Cette irréductibilité ne signifie pas que les dimensions sont indépendantes.
+La formule générale est :
 
-Au contraire, elles peuvent être profondément dépendantes.
+«continuité des dépendances + discontinuité des fonctions + non-conversion»
 
-Une contrainte corporelle peut modifier les relations disponibles.
+Cette formule empêche notamment de transformer :
 
-Une transformation relationnelle peut modifier une fonction.
-
-Une modification fonctionnelle peut rendre nécessaire une nouvelle justification.
-
-Une contestation normative peut conduire à réorganiser une pratique et donc à modifier ses conditions matérielles ou relationnelles.
-
-Mais aucune de ces dépendances n'autorise la conversion d'une dimension dans une autre.
-
-On peut donc formuler la règle générale ainsi :
-
-«continuité des dépendances + discontinuité des fonctions + non-conversion.»
+- une condition en critère ;
+- une relation en fonction ;
+- une fonction en justification ;
+- une genèse en raison ;
+- une trace en signification ;
+- une description en objet décrit.
 
 ---
 
-7. La quadripartition comme présent descriptif
+La quadripartition comme présent descriptif
 
-La quadripartition ne doit pas être comprise comme une structure fixe que l'enquête appliquerait de l'extérieur à son objet.
+La quadripartition ne décrit pas quatre éléments permanents de l'objet.
 
-Elle constitue plutôt la toile temporelle du présent descriptif de l'enquête.
+Elle organise provisoirement ce qui est descriptivement disponible dans l'enquête.
 
-À un moment donné, l'enquête dispose d'une certaine configuration de conditions, de relations, de fonctions et de justifications.
+Le présent de l'enquête n'est donc pas ce qui demeure identique pendant l'enquête ; c'est ce qui est momentanément stabilisé comme descriptivement pertinent et disponible pour une reprise.
 
-Cette configuration constitue son présent descriptif.
+Une enquête peut ainsi modifier ce qu'elle considère comme :
 
-Mais ce présent est provisoire.
+- une condition pertinente ;
+- une relation pertinente ;
+- une fonction pertinente ;
+- un critère de justification.
 
-Une nouvelle relation peut modifier ce qui était considéré comme pertinent.
+La quadripartition ne garantit donc pas la stabilité de son propre contenu.
 
-Une nouvelle condition peut conduire à reprendre une fonction.
-
-Une contestation peut obliger à réviser une justification.
-
-Une transformation fonctionnelle peut conduire à redécrire les relations.
-
-La quadripartition est donc moins un tableau à compléter qu'un espace de reprise.
-
-L'enquête ne progresse pas nécessairement en passant de Condition à Relation, puis de Relation à Fonction et enfin à Justification.
-
-Elle peut revenir sur chacune de ces dimensions.
-
-Elle peut rester longtemps sur une seule.
-
-Elle peut en mobiliser plusieurs simultanément.
-
-Elle peut également découvrir qu'une distinction initialement retenue ne permet plus de résoudre le problème et doit être reformulée.
-
-Ainsi :
-
-«le présent de l'enquête n'est pas ce qui demeure identique pendant l'enquête ; c'est ce qui est momentanément stabilisé comme descriptivement pertinent et disponible pour une reprise.»
+Elle permet au contraire de rendre cette transformation explicite.
 
 ---
 
-8. Reprise et reconfiguration
+Reprise et reconfiguration
 
-La temporalité de la quadripartition est donc une temporalité de reprise.
+La quadripartition est révisable avec l'enquête elle-même.
 
-Une enquête peut être schématisée ainsi :
+Une distinction initialement placée sous Relation peut apparaître ensuite comme relevant principalement d'une fonction.
 
-«configuration actuelle → reprise → reconfiguration → nouvelle configuration actuelle»
+Une condition initialement considérée comme déterminante peut devenir secondaire.
 
-La nouvelle configuration devient à son tour le présent depuis lequel une nouvelle reprise peut avoir lieu.
+Une fonction attribuée à une description peut être abandonnée lorsqu'une autre pratique permet de mieux expliquer son rôle.
 
-La temporalité ne décrit donc pas ici la succession des états d'un objet.
+Un critère de justification peut lui-même devenir l'objet de l'enquête.
 
-Elle décrit la transformation des prises descriptives de l'enquête.
+La quadripartition ne doit donc pas être comprise comme une grille fixe.
 
-Une distinction peut être conservée mais changer de fonction.
-
-Une relation peut demeurer mais devenir pertinente sous une autre description.
-
-Une fonction peut être maintenue tout en recevant une nouvelle justification.
-
-Une condition peut rester matériellement identique tout en devenant pertinente à la suite d'une modification de la pratique descriptive.
-
-La quadripartition permet ainsi de maintenir la continuité de l'enquête sans supposer la stabilité des catégories mobilisées.
+Elle constitue une organisation provisoire du problème tel qu'il est actuellement déterminé.
 
 ---
 
-9. La chaîne d'enquête n'est pas une chaîne de constitution
+La chaîne d'enquête
 
-Protokin peut néanmoins organiser certaines enquêtes selon une séquence.
+La quadripartition ne remplace pas la chaîne d'enquête.
 
-Par exemple :
+La chaîne indique le mouvement général de l'enquête :
 
 «Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Temporaliser → Expliquer → Auditer → Réfléchir → Éprouver → Reconstituer → Redélimiter»
 
-Cette chaîne décrit le mouvement de l'enquête.
+Cette chaîne est une chaîne d'enquête, non une chaîne de constitution.
 
-Elle ne décrit pas la constitution ontologique de son objet.
+Elle ne décrit pas les étapes par lesquelles un objet serait constitué.
 
-Cette distinction doit rester explicite :
+Elle décrit plutôt les opérations par lesquelles une pratique descriptive peut être progressivement examinée, précisée, contestée et reconstruite.
 
-«La chaîne de Protokin est une chaîne d'enquête, non une chaîne de constitution.»
+La quadripartition et la chaîne ont donc deux fonctions différentes :
 
-Les flèches indiquent des déplacements de question, des dépendances méthodologiques ou des reprises d'analyse.
+«chaîne = mouvement de l'enquête
+quadripartition = organisation provisoire de son présent descriptif»
 
-Elles n'affirment pas que le premier terme produit ontologiquement le suivant.
-
-La chaîne décrit donc le parcours de la reprise, tandis que la quadripartition décrit la structure du présent dans lequel cette reprise s'effectue.
-
-Les deux architectures sont ainsi complémentaires :
-
-«chaîne = mouvement de l'enquête»
-
-«quadripartition = organisation provisoire de son présent descriptif»
+Elles peuvent se croiser sans se confondre.
 
 ---
 
-10. La quadripartition n'est pas une théorie de l'objet descriptif
+La temporalité traverse les quatre questions
 
-La quadripartition ne prétend pas expliquer comment un objet descriptif serait ontologiquement constitué.
+La temporalité ne constitue pas une cinquième dimension de la quadripartition.
 
-Elle permet de poser quatre questions lorsqu'une configuration est décrite.
+Elle traverse chacune des quatre questions.
 
-Une configuration peut être examinée :
+Les conditions peuvent changer.
 
-- sous ses conditions corporelles et matérielles ;
-- sous les relations dans lesquelles elle est identifiée ;
-- sous les fonctions qu'elle remplit dans une pratique ;
-- sous les critères qui rendent sa description recevable, contestable ou révisable.
+Les relations peuvent se transformer.
 
-L'objet descriptif n'est donc pas le quatrième terme d'une chaîne :
+Les fonctions peuvent se déplacer.
 
-«Condition → Relation → Fonction → Objet»
+Les critères de justification peuvent être révisés.
 
-Il n'est pas davantage une substance cachée derrière les quatre dimensions.
+Il faut donc pouvoir distinguer :
 
-On peut plutôt le définir, pour les besoins de l'enquête, comme :
+«continuité de l'expression ≠ continuité des critères
+continuité des critères ≠ continuité de la fonction
+transformation des critères ≠ transformation nécessaire du référent»
 
-«une différence stabilisée comme identifiable et réutilisable dans une pratique descriptive.»
-
-Cette définition n'est pas une théorie ontologique de la constitution des objets.
-
-Elle indique ce que l'enquête doit pouvoir suivre lorsqu'une différence devient suffisamment stable pour être reprise dans des descriptions.
-
-Ainsi :
-
-«description ≠ objet décrit»
-
-L'enquête peut examiner comment une description stabilise une différence sans conclure que la description crée ontologiquement cette différence.
+Cette dimension temporelle est particulièrement importante lorsque l'enquête porte sur des pratiques descriptives anciennes et sur leur comparaison avec des usages ultérieurs.
 
 ---
 
-11. Pourquoi quatre dimensions ?
+La réflexivité traverse également les quatre questions
 
-La quadripartition ne prétend pas que toute réalité comporte exactement quatre dimensions.
+La réflexivité n'est pas une cinquième région ajoutée aux quatre précédentes.
 
-Elle affirme quelque chose de beaucoup plus limité :
+Elle consiste à pouvoir examiner les conditions dans lesquelles l'enquête elle-même produit ses distinctions.
 
-«Pour l'orientation de l'enquête protokinienne, quatre distinctions permettent de maintenir les différences fonctionnelles que l'analyse ne doit pas convertir les unes dans les autres.»
+L'enquête peut ainsi demander :
 
-Le nombre quatre est donc fonctionnel, et non ontologiquement exhaustif.
+- pourquoi cette condition a-t-elle été retenue comme pertinente ?
+- pourquoi cette relation plutôt qu'une autre ?
+- quelle fonction attribuons-nous à cette distinction ?
+- selon quels critères jugeons-nous cette description justifiée ?
 
-D'autres distinctions peuvent être nécessaires dans certaines enquêtes :
-
-- temporalité ;
-- trajectoire ;
-- allure ;
-- distance ;
-- réflexivité ;
-- réorganisation ;
-- sédimentation ;
-- transformation ;
-- audit ;
-- apprentissage.
-
-Mais leur nécessité locale ne signifie pas qu'elles doivent devenir de nouvelles dimensions fondamentales.
-
-Elles peuvent traverser les quatre dimensions.
-
-Une trajectoire peut être corporelle, relationnelle, fonctionnelle et normative.
-
-Une réorganisation peut modifier simultanément les relations, les fonctions et les critères de justification.
-
-La réflexivité peut porter sur chacune des quatre dimensions.
-
-La temporalité peut être examinée dans chacune d'elles.
-
-Il n'est donc pas nécessaire d'ajouter une cinquième dimension appelée « Temps », une sixième appelée « Réflexivité » ou une septième appelée « Transformation ».
-
-La règle est :
-
-«Toute distinction supplémentaire doit répondre à une difficulté effectivement rencontrée par l'enquête.»
+La réflexivité porte donc sur la manière dont la quadripartition est elle-même utilisée et reconfigurée.
 
 ---
 
-12. Le statut transversal de la temporalité
+Pourquoi quatre ?
 
-La temporalité n'est pas une cinquième dimension.
+Le nombre quatre est fonctionnel, non ontologique.
 
-Elle traverse les quatre dimensions et permet d'examiner leur transformation dans l'enquête.
+Il permet de maintenir ensemble quatre questions suffisamment distinctes pour éviter certaines conversions abusives, tout en restant suffisamment général pour accueillir des problèmes différents.
 
-Elle peut porter sur :
+Il n'est pas nécessaire d'ajouter une nouvelle dimension fondamentale chaque fois qu'une nouvelle question apparaît.
 
-- la succession ;
-- la durée ;
-- la simultanéité ;
-- la trajectoire ;
-- l'allure ;
-- la transformation ;
-- la sédimentation ;
-- la réorganisation ;
-- la reprise.
+La temporalité, la réflexivité, la transformation ou la référence peuvent traverser les quatre questions sans devenir pour autant de nouvelles catégories fondamentales.
 
-La temporalité n'est donc pas extérieure à la quadripartition.
+La quadripartition n'a donc pas vocation à être exhaustive.
 
-Elle constitue la dimension de reprise du présent descriptif.
-
-Une condition peut changer.
-
-Une relation peut se transformer.
-
-Une fonction peut apparaître ou disparaître.
-
-Une justification peut être abandonnée, reprise ou reconstruite.
-
-La temporalité permet de suivre ces transformations sans transformer la quadripartition en une succession de phases.
+Elle doit rester assez ouverte pour que l'enquête puisse produire de nouvelles distinctions lorsque le problème l'exige.
 
 ---
 
-13. Le statut transversal de la réflexivité
+La quadripartition comme principe d'audit
 
-De même, la réflexivité n'est pas une cinquième région de la pratique.
+La quadripartition peut également servir à auditer une description déjà construite.
 
-Elle désigne la possibilité pour l'enquête d'appliquer ses propres opérations à ses propres descriptions.
-
-La réflexivité peut donc demander :
-
-- quelles sont les conditions de l'enquête ;
-- quelles relations elle établit ;
-- quelles fonctions ses distinctions remplissent ;
-- selon quels critères ses propres descriptions peuvent être défendues ou révisées.
-
-Cette possibilité constitue une contrainte réflexive essentielle.
-
-La quadripartition ne peut donc pas servir à analyser les autres pratiques tout en étant exemptée de l'analyse qu'elle rend possible.
-
----
-
-14. Une pratique peut être examinée sous les quatre dimensions
-
-La quadripartition ne distribue pas les pratiques entre quatre catégories exclusives.
-
-Une même pratique peut mobiliser simultanément les quatre dimensions.
-
-Une enquête scientifique, par exemple, engage :
+Pour une distinction donnée, l'enquête peut demander :
 
 Condition
 
-Des organismes, instruments, supports et contraintes matérielles.
+Quelles contraintes ou possibilités rendent cette description pertinente ?
 
 Relation
 
-Des relations entre mesures, variables, instruments et configurations expérimentales.
+Quelles relations sont nécessaires pour déterminer ce qu'elle distingue ?
 
 Fonction
 
-Des opérations de discrimination, comparaison, prédiction ou transformation du problème.
+Que fait cette distinction dans la pratique où elle est mobilisée ?
 
 Justification
 
-Des critères de preuve, de correction, de réplication, d'argumentation et de révision.
+Selon quels critères peut-elle être défendue, contestée ou révisée ?
 
-Il serait donc incorrect de demander à quelle dimension « appartient » une pratique entière.
+L'audit ne consiste pas à vérifier mécaniquement quatre cases.
 
-La question pertinente est plutôt :
+Il consiste à rechercher les conversions implicites entre ces questions.
 
-«Quelle dimension l'enquête cherche-t-elle à rendre explicite à ce moment précis ?»
+Une description peut par exemple présenter une condition comme si elle constituait déjà une justification, ou transformer une fonction pratique en propriété intrinsèque de la configuration décrite.
 
-Une enquête peut également mobiliser plusieurs dimensions simultanément tout en donnant momentanément priorité à l'une d'elles.
+La quadripartition permet alors de rendre visible le déplacement.
 
 ---
 
-15. La quadripartition comme principe d'audit
-La quadripartition devient également un instrument de contrôle des descriptions.
-Lorsqu'une enquête rencontre une difficulté, elle peut demander :
-> **Quelle dimension est actuellement décrite ?**
-Puis :
-> **Cette description attribue-t-elle à cette dimension un statut qui appartient en réalité à une autre ?**
-Cette question permet notamment de repérer :
-une réduction biologique ;
-une confusion entre relation et propriété physique ;
-une conversion de fonction en propriété ;
-une conversion de condition en critère ;
-une confusion entre trace et signification ;
-une conversion de cause en raison ;
-une confusion entre capacité et performance.
-La quadripartition ne sert donc pas seulement à construire l'analyse.
-Elle sert également à auditer les conversions produites par l'analyse elle-même.
----
-16. La quadripartition s'applique à Protokin lui-même
-Protokin n'est pas extérieur à cette architecture.
-Ses propres distinctions sont des descriptions.
-Elles peuvent donc être examinées selon les quatre questions :
-Condition
-Dans quelles conditions matérielles, techniques, corporelles et documentaires Protokin est-il produit et transmis ?
-Relation
-Quelles relations conceptuelles et pratiques établit-il entre ses distinctions ?
-Fonction
-Que permettent effectivement ses concepts dans une enquête ?
-Justification
-Selon quels critères ses distinctions peuvent-elles être défendues, contestées, corrigées ou abandonnées ?
-Cette possibilité constitue une contrainte réflexive essentielle.
-La quadripartition ne peut donc pas servir à analyser les autres pratiques tout en étant exemptée de l'analyse qu'elle rend possible.
----
-17. Ce que la quadripartition établit
+Ce que la quadripartition établit
+
 La quadripartition établit :
-quatre questions fonctionnelles d'enquête ;
-leur irréductibilité fonctionnelle ;
-leur articulation par dépendances ;
-le principe de non-conversion ;
-leur caractère provisoire et reconfigurable dans l'enquête ;
-leur fonction d'organisation du présent descriptif ;
-la distinction entre chaîne d'enquête et chaîne de constitution ;
-le caractère fonctionnellement minimal de la quadripartition ;
-le statut transversal de la temporalité et de la réflexivité ;
-la possibilité d'appliquer ces distinctions à Protokin lui-même.
+
+- quatre directions fonctionnelles de l'enquête ;
+- leur irréductibilité fonctionnelle ;
+- leur caractère provisoire et reconfigurable ;
+- la nécessité de distinguer leurs fonctions ;
+- la possibilité d'examiner leurs dépendances sans les convertir les unes dans les autres ;
+- la possibilité d'utiliser ces distinctions pour auditer une pratique descriptive.
+
 ---
-18. Ce que la quadripartition n'établit pas
-Elle n'établit pas :
-une ontologie du réel ;
-quatre niveaux de l'être ;
-une théorie de la constitution des objets ;
-une généalogie du langage ;
-une réduction de la normativité à la matière ;
-une séparation de la normativité d'avec ses conditions matérielles ;
-une théorie selon laquelle toute pratique suivrait nécessairement quatre étapes ;
-une hiérarchie entre les quatre dimensions ;
-une théorie générale de la temporalité ;
-une théorie complète de la fonction ;
-une procédure mécanique d'enquête.
+
+Ce qu'elle n'établit pas
+
+La quadripartition n'établit pas :
+
+- quatre composantes de toute réalité ;
+- quatre niveaux de l'être ;
+- une ontologie implicite ;
+- une succession nécessaire d'étapes ;
+- une théorie générale de la causalité ;
+- une théorie générale du langage ;
+- une constitution du référent par le contexte ;
+- une justification automatique d'une description.
+
+Elle ne permet pas non plus de déduire la réponse à une question simplement parce que cette question a été correctement classée sous Condition, Relation, Fonction ou Justification.
+
+La classification elle-même reste soumise à l'enquête.
+
 ---
+
 Synthèse
-La quadripartition de Protokin peut être condensée ainsi :
-> **Condition — dans quelles conditions cette pratique peut-elle effectivement avoir lieu ?**  
-> **Relation — sous quelles relations ?**  
-> **Fonction — que fait cette configuration dans la pratique ?**  
-> **Justification — selon quels critères peut-elle être défendue, contestée ou révisée ?**
-Ces quatre questions portent sur une même pratique.
-Elles sont dépendantes sans être convertibles.
-> **Continuité des dépendances + discontinuité des fonctions + non-conversion.**
-La quadripartition n'est ni une structure ontologique, ni une succession de phases.
-Elle constitue le présent descriptif de l'enquête : la configuration provisoire des distinctions par lesquelles une pratique peut être examinée à un moment donné.
-Ce présent est toujours susceptible d'être repris.
-> **Configuration actuelle → reprise → reconfiguration → nouvelle configuration actuelle.**
-La quadripartition fournit ainsi la toile temporelle sur laquelle l'enquête stabilise provisoirement ses distinctions, les éprouve, les conteste et les reconfigure.
-La chaîne de Protokin décrit le mouvement de cette enquête.
-La quadripartition en décrit la structure momentanée.
-> **La chaîne décrit le mouvement de la reprise ; la quadripartition organise le présent depuis lequel cette reprise devient possible.**
+
+La quadripartition fournit à Protokin une orientation minimale :
+
+«Condition — Relation — Fonction — Justification»
+
+Ces quatre termes ne désignent pas quatre dimensions préexistantes de la réalité.
+
+Ils permettent de maintenir distinctes quatre questions que l'enquête peut être amenée à préciser.
+
+Au début, leur contenu peut être presque vide. Au cours de l'enquête, ils deviennent progressivement déterminés, peuvent être révisés et peuvent changer de statut.
+
+La quadripartition organise ainsi le présent descriptif de l'enquête sans prétendre constituer son objet.
+
+La chaîne décrit le mouvement de l'enquête ; la quadripartition organise provisoirement ce qui y est devenu pertinent.
+
+La temporalité et la réflexivité traversent les quatre questions au lieu de constituer de nouvelles dimensions.
+
+L'ensemble repose sur une même exigence :
+
+«continuité des dépendances + discontinuité des fonctions + non-conversion.»
+
+La quadripartition n'est donc ni une ontologie, ni une classification du réel, ni une procédure mécanique.
+
+Elle est une manière de maintenir ouvertes, dans une même enquête, les questions relatives aux conditions, relations, fonctions et justifications d'une pratique descriptive.
