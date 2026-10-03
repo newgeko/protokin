@@ -1,57 +1,50 @@
 - Protokin
   
   - "README" (README.md)
-  - "Architecture du système" (architecture-systeme.md)
+  - "Architecture du système" (architecture-du-systeme.md)
   - "Table des matières" (tdm.md)
 
-- 1. Problème
+- 1 — Problème
   
   - "Point de départ" (probleme.md)
 
-- 2. Quadripartition
+- 2 — Quadripartition
   
-  - "Quadripartition fondamentale" (quadripartition.md)
-  - "Condition" (condition.md)
-  - "Relation" (relation.md)
-  - "Fonction" (fonction.md)
-  - "Justification" (justification.md)
+  - "Quadripartition fondamentale" (quadripartition-fondamentale.md)
 
-- 3. Mouvement
+- 3 — Mouvement de l’enquête
   
-  - "Délimiter" (delimiter.md)
-  - "Ancrer" (ancrer.md)
-  - "Distinguer" (distinguer.md)
-  - "Relier" (relier.md)
-  - "Configurer" (configurer.md)
-  - "Justifier" (justifier.md)
-  - "Reconstituer" (reconstituer.md)
-  - "Redélimiter" (redelimiter.md)
+  - Délimiter
+  - Ancrer
+  - Distinguer
+  - Relier
+  - Configurer
+  - Justifier
+  - Reconstituer
+  - Redélimiter
 
-- 4. Transversal
+- 4 — Fonctions transversales
   
-  - "Temporaliser" (temporaliser.md)
-  - "Auditer" (auditer.md)
-  - "Réfléchir" (reflechir.md)
-  - "Éprouver" (eprouver.md)
+  - Temporaliser
+  - Auditer
+  - Réfléchir
+  - Éprouver
 
-- 5. Registres
+- 5 — Instruments d’épreuve
   
-  - "Cognitif" (registre-cognitif.md)
-  - "Sémantique" (registre-semantique.md)
-  - "Référentiel" (registre-referentiel.md)
+  - Substitution
+  - Cas
+  - Comparaison
+  - Reprise
 
-- 6. Épreuve
+- 6 — Reconfiguration
   
-  - "Substitution" (substitution.md)
-  - "Cas" (cas.md)
-  - "Comparaison" (comparaison.md)
-  - "Reprise" (reprise.md)
+  - Reconfiguration
 
-- 7. Reconfiguration
+- Développements
   
-  - "Reconfiguration" (reconfiguration.md)
-
-- Ressources
-  
-  - "Références" (references.md)
-  - "Filiations" (filiations.md)
+  - Registres
+  - Référence
+  - Régimes descriptifs
+  - Transformations
+  - Filiations
