@@ -1,16 +1,16 @@
 - Protokin
   
-  - "README" (README.md)
-  - "Architecture du système" (architecture-du-systeme.md)
-  - "Table des matières" (tdm.md)
+  - "README" 
+  - "Architecture du système"
+  - "Table des matières"
 
 - 1 — Problème
   
-  - "Point de départ" (probleme.md)
+  - "Point de départ" 
 
 - 2 — Quadripartition
   
-  - "Quadripartition fondamentale" (quadripartition-fondamentale.md)
+  - "Quadripartition"
 
 - 3 — Mouvement de l’enquête
   
