@@ -1,16 +1,16 @@
 - Protokin
   
-  - "README" 
-  - "Architecture du système"
-  - "Table des matières"
+  - Accueil 
+  - Architecture du système
+  - Table des matières
 
 - 1 — Problème
   
-  - "Point de départ" 
+  - Point de départ
 
 - 2 — Quadripartition
   
-  - "Quadripartition"
+  - Quadripartition
 
 - 3 — Mouvement de l’enquête
   
