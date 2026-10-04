@@ -1,10 +1,10 @@
-Protokin 🧭
+# Protokin 🧭
 
 « Une démarche d'enquête pragmatique, inférentielle, réflexive et non-ontologique sur les pratiques descriptives. »
 
 ---
 
-Protokin en une phrase
+## Protokin en une phrase
 
 « Protokin enquête sur les conditions, fonctions et transformations par lesquelles des pratiques rendent certaines différences descriptibles, discutables, justifiables, stabilisables, contestables et révisables. »
 
@@ -18,7 +18,7 @@ La question n'est donc pas seulement de savoir si une description est cohérente
 
 ---
 
-Le point de départ : le problème
+## Le point de départ : le problème
 
 Protokin ne part ni d'une ontologie préalable, ni d'un ensemble de catégories déjà constituées.
 
@@ -41,7 +41,7 @@ L'enquête ne cherche donc pas immédiatement à produire une nouvelle catégori
 
 ---
 
-Une enquête, pas une ontologie
+## Une enquête, pas une ontologie
 
 Protokin n'a pas pour objectif de déterminer ce que les choses sont en elles-mêmes à partir d'une ontologie première.
 
@@ -73,7 +73,7 @@ Il cherche à déterminer ce que fait une telle qualification dans une pratique 
 
 ---
 
-La quadripartition : une orientation minimale
+## La quadripartition : une orientation minimale
 
 La quadripartition fournit une orientation générale à l'enquête :
 
@@ -99,7 +99,7 @@ Les conditions, les relations, les fonctions et les critères de justification p
 
 ---
 
-Le mouvement de l'enquête
+## Le mouvement de l'enquête
 
 La quadripartition oriente l'enquête ; elle n'en constitue pas la séquence.
 
@@ -111,31 +111,31 @@ Cette chaîne ne constitue ni une succession nécessaire, ni une hiérarchie de 
 
 Elle organise les principaux déplacements par lesquels le problème peut être rendu progressivement enquêtable, reconstruit et éventuellement redéfini.
 
-Délimiter
+### Délimiter
 
 Rendre le problème enquêtable en déterminant provisoirement ce qui est en jeu.
 
 Délimiter ne signifie pas résoudre.
 
-Ancrer
+### Ancrer
 
 Identifier les conditions corporelles, matérielles, écologiques et historiques pertinentes pour le problème.
 
 Ancrer n'implique pas de réduire la pratique à ses conditions.
 
-Distinguer
+### Distinguer
 
 Séparer les éléments dont la confusion produit le problème.
 
 Distinguer ne signifie pas isoler.
 
-Relier
+### Relier
 
 Examiner les relations, dépendances et articulations entre les éléments distingués.
 
 Relier ne signifie pas convertir une relation en cause, une dépendance en fonction ou une fonction en justification.
 
-Configurer
+### Configurer
 
 Examiner comment une différence devient identifiable, réutilisable et opératoire dans une pratique descriptive.
 
@@ -143,13 +143,13 @@ L'objet descriptif peut ainsi être compris comme une différence stabilisée co
 
 Décrire une configuration n'est pas la constituer.
 
-Justifier
+### Justifier
 
 Examiner les critères selon lesquels une description ou une distinction peut être défendue, contestée, corrigée ou révisée.
 
 La justification ne se réduit pas à la genèse de la description.
 
-Reconstituer
+### Reconstituer
 
 Reconstruire la configuration du problème à partir des distinctions, relations, fonctions et critères établis au cours de l'enquête.
 
@@ -157,7 +157,7 @@ Reconstituer ne signifie pas revenir à une totalité initiale.
 
 Il s'agit de déterminer comment les éléments peuvent tenir ensemble sans supprimer les distinctions nécessaires.
 
-Redélimiter
+### Redélimiter
 
 Reprendre les frontières initiales du problème à partir de ce que l'enquête a rendu visible.
 
@@ -165,7 +165,7 @@ La redélimitation peut conduire à une nouvelle formulation du problème et don
 
 ---
 
-Les fonctions transversales
+## Les fonctions transversales
 
 Certaines opérations ne constituent pas des étapes supplémentaires de la chaîne.
 
@@ -185,7 +185,7 @@ Elles peuvent conduire à reprendre une opération antérieure, à modifier une 
 
 ---
 
-Les registres à distinguer
+## Les registres à distinguer
 
 L'enquête peut rencontrer plusieurs registres dont les relations doivent être examinées sans les convertir les uns dans les autres.
 
@@ -214,7 +214,7 @@ Protokin maintient notamment les distinctions suivantes :
 
 ---
 
-Les instruments d'épreuve
+## Les instruments d'épreuve
 
 L'enquête dispose d'opérations locales permettant d'éprouver les distinctions établies.
 
@@ -249,7 +249,7 @@ Ces instruments ne constituent pas des étapes obligatoires.
 
 ---
 
-La reconfiguration
+## La reconfiguration
 
 L'enquête doit pouvoir transformer ses propres distinctions.
 
@@ -270,7 +270,7 @@ L'architecture de Protokin est ainsi suffisamment stable pour assurer la continu
 
 ---
 
-Le principe de non-conversion
+## Le principe de non-conversion
 
 L'ensemble du système est organisé par un principe de non-conversion :
 
@@ -297,7 +297,7 @@ Elle signifie qu'une relation de dépendance ou d'articulation ne suffit pas à 
 
 ---
 
-Une architecture ouverte
+## Une architecture ouverte
 
 L'architecture de Protokin constitue un noyau fonctionnel plutôt qu'un système clos.
 
@@ -321,20 +321,20 @@ La reconfiguration du système relève alors de l'enquête elle-même.
 
 ---
 
-Pour commencer
+## Pour commencer
 
 Pour comprendre Protokin :
 
-1. README.md — orientation générale et architecture du système ;
-2. architecture-fonctionnelle.md — organisation des opérations de l'enquête ;
-3. quadripartition-fondamentale.md — orientation par les quatre registres ;
-4. tdm.md — cartographie des développements.
+1. Orientation générale et architecture du système ;
+2. Organisation des opérations de l'enquête ;
+3. Orientation par les quatre registres ;
+4. Cartographie des développements.
 
 Les autres pages sont à consulter selon le problème étudié.
 
 ---
 
-Principe architectural
+## Principe architectural
 
 Distinguer sans isoler.
 
