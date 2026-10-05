@@ -1,6 +1,6 @@
-Architecture du système Protokin
+# Architecture du système Protokin
 
-1. Point de départ : le problème
+## 1. Point de départ : le problème
 
 Protokin ne part pas d'une ontologie préalable ni d'un ensemble de catégories déjà constituées.
 
@@ -25,7 +25,7 @@ une description est confondue avec ce qu'elle décrit.
 
 Le problème rend nécessaire une enquête sur les conditions, relations, fonctions et justifications qui permettent de le traiter.
 
-2. Orientation : la quadripartition
+## 2. Orientation : la quadripartition
 
 La quadripartition fournit une orientation minimale :
 
@@ -44,7 +44,7 @@ Au début de l'enquête, leur contenu est pratiquement indéterminé. Il se pré
 
 La temporalité traverse les quatre dimensions au lieu de constituer une cinquième dimension.
 
-3. Mouvement de l'enquête
+# 3. Mouvement de l'enquête
 
 La quadripartition oriente l'enquête ; elle n'en constitue pas la séquence.
 
@@ -104,7 +104,7 @@ Reprendre les frontières initiales du problème à partir de ce que l'enquête 
 
 La redélimitation peut conduire à une nouvelle formulation du problème et donc à une nouvelle enquête.
 
-4. Fonctions transversales
+# 4. Fonctions transversales
 
 Certaines opérations ne constituent pas des étapes supplémentaires de la chaîne.
 
@@ -121,7 +121,7 @@ Réfléchir — appliquer l'enquête à ses propres conditions et opérations.
 
 Ces fonctions peuvent intervenir à tout moment.
 
-5. Registres à distinguer
+# 5. Registres à distinguer
 
 L'enquête peut rencontrer plusieurs registres dont les relations doivent être examinées sans les convertir les uns dans les autres :
 
@@ -149,7 +149,7 @@ critère de correction ≠ propriété du référent ;
 contexte descriptif ≠ constitution du référent.
 
 
-6. Instruments d'épreuve
+# 6. Instruments d'épreuve
 
 L'enquête dispose d'opérations locales permettant d'éprouver les distinctions établies.
 
@@ -188,7 +188,7 @@ Réexaminer une distinction, une description ou une inférence à partir de ce q
 
 Ces instruments ne constituent pas des étapes obligatoires.
 
-7. Reconfiguration
+# 7. Reconfiguration
 
 L'enquête doit pouvoir transformer ses propres distinctions.
 
@@ -209,7 +209,7 @@ abandonnée.
 
 La reconfiguration n'est donc pas une étape finale ajoutée à l'enquête. Elle désigne la possibilité permanente de modifier les instruments conceptuels lorsque ceux-ci ne permettent plus de traiter adéquatement le problème.
 
-8. Principe de non-conversion
+# 8. Principe de non-conversion
 
 L'ensemble du système est organisé par un principe de non-conversion :
 
