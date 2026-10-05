@@ -1,349 +1,596 @@
-# Page : assertion.md
+Assertion — La prise en charge publique d'une proposition
 
-# Assertion
+«Fonction : Déterminer ce qui distingue une assertion d'une simple prédication en tant qu'acte par lequel un locuteur prend publiquement en charge une proposition.
 
-> **Fonction :** Établir la notion d'assertion dans l'architecture de Protokin en tant qu'acte d'engagement du locuteur dans l'espace des raisons.
->
-> **Prépare :** L'analyse des engagements descriptifs, de la responsabilité normative, de la comptabilité déontique et de l'espace des raisons.
->
-> **Mobilise :** La notion de description, la configuration descriptive, la qualification et la prédication.
->
-> **Permet ensuite :** L'étude de la recevabilité, de la validité et de l'audit des régimes descriptifs.
->
-> **N'établit pas :** La théorie complète de la comptabilité déontique collective ni l'analyse générale de l'injustice épistémique.
+Prépare : L'analyse des engagements, de la justification, de la recevabilité et de la contestation.
+
+Mobilise : La prédication, la proposition, les normes d'usage et les relations entre interlocuteurs.
+
+Permet ensuite : L'analyse des engagements déontiques, de l'habilitation, de la responsabilité justificative et du jeu de donner et demander des raisons.
+
+N'établit pas : La vérité d'une proposition, sa justification effective ni la validité complète du régime descriptif dans lequel elle intervient.»
 
 ---
 
-# L'assertion comme engagement descriptif
+1. Problème
 
-## 1. Problème conceptuel
+Une phrase peut avoir une forme propositionnelle sans constituer une assertion.
 
-Une tradition représentationnaliste considère l'énoncé comme un contenu doté de conditions de vérité indépendantes de celui qui le produit. Dans cette perspective, affirmer consiste simplement à mettre en mots un état de choses déjà constitué.
+Comparer :
 
-Protokin adopte une perspective différente.
+«« Le métal est chaud. »»
 
-Une description peut exister comme possibilité au sein d'une configuration descriptive sans être encore assumée par quiconque. Tant qu'aucun locuteur ne l'endosse, elle demeure une possibilité descriptive parmi d'autres.
+«« Le métal est-il chaud ? »»
 
-Le problème auquel répond cette page est donc le suivant :
+«« Si le métal est chaud, il se dilate. »»
 
-> **Comment une description devient-elle un engagement public pris par un locuteur devant une communauté de pratiques ?**
+«« Il a dit : “Le métal est chaud.” »»
 
-L'assertion constitue précisément cette transformation. Elle ne crée pas le contenu descriptif ; elle le fait entrer dans l'espace des raisons en engageant publiquement celui qui l'énonce.
+La même structure prédicative peut ainsi apparaître dans des actes différents.
 
-L'assertion est ainsi le point où une description cesse d'être seulement possible pour devenir une responsabilité normative.
+La différence ne se situe donc pas uniquement dans la syntaxe ou dans le contenu propositionnel.
 
----
+Elle concerne ce que le locuteur fait en employant la proposition.
 
-## 2. Définition fonctionnelle
+Lorsqu'un locuteur dit :
 
-Dans l'architecture de Protokin, on appelle **assertion** :
+«« Le métal est chaud. »»
 
-> **L'opération descriptive par laquelle un locuteur engage publiquement une description au sein d'un espace des raisons, assumant la responsabilité des conséquences inférentielles et justificatives de ce qu'il affirme.**
+dans le but de l'affirmer, il ne se contente pas de produire une prédication.
 
-Cette définition implique plusieurs propriétés fondamentales.
+Il prend cette proposition à son compte et s'expose à ce que son interlocuteur lui demande :
 
-### Une prise de position
+«« Pourquoi le dites-vous ? »»
 
-Une assertion n'est pas une pensée privée.
+Le problème protokinien est donc :
 
-Elle constitue une prise de position visible dans une pratique collective.
-
-Le contenu devient alors disponible pour être discuté, repris, corrigé ou contesté.
-
-### Un engagement du locuteur
-
-Toute assertion suppose un locuteur identifiable.
-
-Quelqu'un répond désormais de cette description.
-
-L'assertion crée ainsi une responsabilité discursive.
-
-### Une transformation normative
-
-Asserter ne consiste pas simplement à ajouter une phrase à une conversation.
-
-L'assertion modifie les droits, les attentes et les obligations des participants.
-
-Elle ouvre un nouvel espace de justification.
+«Comment distinguer l'attribution descriptive d'un prédicat de la prise en charge publique d'une proposition par un locuteur ?»
 
 ---
 
-## 3. Distinctions conceptuelles
+2. Définition fonctionnelle
 
-Afin d'éviter toute confusion de niveaux, l'assertion doit être distinguée des notions voisines.
+Dans Protokin, on appelle assertion :
 
-### Assertion et description
+«l'acte discursif par lequel un locuteur prend publiquement en charge une proposition comme pouvant être tenue pour recevable dans la situation considérée.»
 
-La **configuration descriptive** organise les descriptions possibles.
+L'assertion ajoute ainsi à la structure propositionnelle une dimension pragmatique.
 
-La **description** actualise l'une de ces possibilités.
+La prédication établit :
 
-L'**assertion** engage publiquement cette description.
+«X est Y.»
 
-La description produit un contenu.
+L'assertion accomplit :
 
-L'assertion engage un locuteur.
+«Je prends en charge que X est Y.»
 
----
+Cette prise en charge rend l'énoncé attribuable au locuteur.
 
-### Assertion et prédication
+Elle permet notamment aux interlocuteurs de lui demander :
 
-La prédication établit une relation locale :
+«« Sur quoi vous fondez-vous ? »»
 
-> « X est Y »
-
-L'assertion consiste à soutenir publiquement cette relation.
-
-Autrement dit :
-
-- la prédication relie un sujet et un prédicat ;
-- l'assertion relie un locuteur à cette prédication.
-
-Il est possible de prédiquer sans asserter (fiction, hypothèse, exemple, exercice logique).
-
-En revanche, toute assertion mobilise au moins une prédication.
+L'assertion ouvre ainsi un espace de responsabilité discursive.
 
 ---
 
-### Assertion et qualification
+3. Prédication et assertion
 
-La qualification inscrit une situation dans une catégorie propre à un régime descriptif.
+La distinction entre prédication et assertion est fondamentale.
 
-L'assertion consiste à prendre publiquement la responsabilité de cette qualification.
+La prédication consiste à appliquer un prédicat.
 
-La qualification concerne la catégorie.
+L'assertion consiste à assumer discursivement la proposition qui en résulte.
 
-L'assertion concerne le locuteur.
+Ainsi :
 
----
+«« Le métal est chaud. »»
 
-### Assertion et justification
+peut être une prédication dans une proposition hypothétique :
 
-L'assertion n'est pas encore une justification.
+«« Si le métal est chaud, il se dilate. »»
 
-Elle crée seulement l'obligation éventuelle de justifier.
+Mais le locuteur n'affirme pas nécessairement que le métal est effectivement chaud.
 
-La justification intervient lorsque cette assertion est contestée ou doit être défendue.
+À l'inverse :
 
----
+«« Le métal est chaud. »»
 
-## 4. La dynamique normative de l'assertion
+prononcé comme réponse à :
 
-L'assertion constitue le véritable point d'entrée dans l'espace des raisons.
+«« Quelle est la température du métal ? »»
 
-En affirmant quelque chose, le locuteur modifie immédiatement la situation normative de l'interaction.
+constitue une assertion.
 
-Cette transformation comporte plusieurs dimensions.
+On peut donc distinguer :
 
-### Assumer des engagements
+«prédication = attribution descriptive»
 
-Le locuteur accepte les conséquences de ce qu'il affirme.
+«assertion = prise en charge publique de cette attribution sous forme propositionnelle»
 
-Il reconnaît les inférences que son assertion autorise.
+Cette distinction est fonctionnelle.
 
-Il accepte également les incompatibilités qui en découlent.
+Elle ne suppose pas que prédication et assertion soient deux événements séparés dans le temps.
 
----
-
-### Ouvrir des droits d'inférence
-
-Les autres participants peuvent désormais utiliser cette assertion dans leurs propres raisonnements.
-
-Une assertion devient ainsi une ressource collective.
-
-Elle peut être reprise, discutée ou servir de prémisse.
+Une même phrase peut accomplir simultanément les deux fonctions.
 
 ---
 
-### Devenir responsable devant autrui
+4. La prise en charge par le locuteur
 
-Une assertion expose toujours son auteur.
+L'élément caractéristique de l'assertion est la prise en charge.
 
-Les autres locuteurs peuvent demander :
+En affirmant :
 
-- pourquoi cette description ?
-- selon quels critères ?
-- sur quelles observations ?
-- dans quel régime descriptif ?
+«« Cette pièce est en cuivre. »»
 
-L'assertion rend ces demandes légitimes.
+le locuteur ne se contente pas de mettre en relation « cette pièce » et « cuivre ».
 
----
+Il se présente comme quelqu'un qui peut répondre de cette affirmation.
 
-## 5. Les fils rouges de Protokin
+Si un interlocuteur demande :
 
-### Le vélo rouge
+«« Comment le savez-vous ? »»
 
-Dire :
+la question s'adresse au locuteur.
 
-> « Le vélo est rouge. »
+Il peut alors :
 
-n'est pas simplement constater une couleur.
+- fournir une mesure ;
+- invoquer une observation ;
+- citer une source ;
+- produire une inférence ;
+- reconnaître une incertitude ;
+- retirer ou modifier son assertion.
 
-Le locuteur engage sa compétence perceptive.
+L'assertion crée donc une relation particulière entre :
 
-Il accepte que d'autres puissent vérifier ou contester cette description.
+«une proposition»
 
----
+et :
 
-### La personne dangereuse
-
-Dire :
-
-> « Cette personne est dangereuse. »
-
-engage immédiatement des conséquences importantes.
-
-Selon le régime mobilisé, cette assertion peut conduire à :
-
-- une surveillance,
-- une hospitalisation,
-- une mesure judiciaire,
-- une intervention de sécurité.
-
-L'assertion ne crée pas ces procédures.
-
-Elle autorise leur mobilisation.
+«un locuteur responsable de son emploi.»
 
 ---
 
-### La personne mauvaise
+5. Autorité et responsabilité
 
-Dire :
+L'assertion possède deux dimensions corrélatives.
 
-> « Cette personne est mauvaise. »
+5.1. Une autorité discursive
 
-constitue une assertion morale.
+En affirmant une proposition, le locuteur autorise normalement les autres participants à prendre cette proposition en considération comme prémisse dans leurs propres raisonnements.
 
-Le locuteur assume publiquement un jugement de blâme.
+Si je dis :
 
-Il devra pouvoir rendre raison des critères mobilisés.
+«« Le pont est fermé. »»
 
-L'audit protokinien examinera précisément les catégories, les critères et les inférences qui rendent cette assertion recevable — ou non.
+mon interlocuteur peut utiliser cette information :
 
----
+«« Donc nous devons prendre un autre itinéraire. »»
 
-### Le botaniste et le bûcheron
+L'assertion fournit ainsi une ressource pour les inférences d'autrui.
 
-Face au même arbre, chacun produit des assertions différentes.
+Cette autorité n'est toutefois pas absolue.
 
-Le botaniste affirme :
-
-> « Cet arbre est un *Abies alba*. »
-
-Le bûcheron affirme :
-
-> « Ce tronc est exploitable. »
-
-Les deux assertions sont recevables dans leurs propres régimes descriptifs.
-
-Elles ne s'opposent pas ; elles poursuivent des finalités différentes.
+Elle peut être contestée.
 
 ---
 
-### Le patient aux urgences
+5.2. Une responsabilité justificative
 
-Lorsque l'infirmière affirme :
+Celui qui affirme peut être invité à justifier ce qu'il avance.
 
-> « Ce patient relève d'une urgence vitale. »
+Si quelqu'un demande :
 
-elle ne décrit pas seulement une situation.
+«« Comment le savez-vous ? »»
 
-Elle engage immédiatement l'organisation hospitalière.
+le locuteur doit pouvoir, lorsque cela est pertinent, fournir des raisons, des observations ou d'autres éléments permettant de soutenir son assertion.
 
-Son assertion déclenche des protocoles, redistribue les priorités et mobilise des ressources.
+Il existe donc une relation entre :
 
----
+«autorité à faire valoir une proposition»
 
-## 6. Place dans l'architecture fonctionnelle
+et :
 
-L'assertion apparaît après la description, la prédication et la qualification.
+«responsabilité d'en répondre.»
 
-Elle transforme un contenu descriptif en engagement public.
+L'assertion ne garantit pas que le locuteur possède effectivement une justification suffisante.
 
-La trajectoire fonctionnelle devient alors :
-
-1. Configuration rencontrée.
-2. Configuration sémiotique.
-3. Support descriptif.
-4. Configuration descriptive.
-5. Description.
-6. Prédication.
-7. Qualification.
-8. **Assertion.**
-9. Engagements descriptifs.
-10. Régime descriptif.
-11. Recevabilité.
-12. Validité.
-
-L'assertion constitue ainsi le seuil d'entrée effectif dans l'espace des raisons.
+Elle le place dans une position où cette justification peut lui être demandée.
 
 ---
 
-## 7. Limites internes
+6. Habilitation et vérité
 
-L'audit protokinien doit éviter deux confusions majeures.
+Une distinction doit être maintenue entre :
 
-### Le psychologisme
+«être habilité à affirmer»
 
-Une assertion n'est pas une croyance privée.
+et :
 
-Elle est un statut public.
+«être vrai.»
 
-Ce qui importe n'est pas ce que pense intérieurement le locuteur, mais les engagements qu'il assume devant une communauté.
+Un locuteur peut être raisonnablement habilité à affirmer quelque chose et néanmoins se tromper.
 
----
+Inversement, une proposition peut être vraie sans que le locuteur qui l'affirme dispose de bonnes raisons de la soutenir.
 
-### L'illusion d'auto-justification
+L'assertion ne produit donc pas la vérité.
 
-Asserter ne suffit jamais à établir la correction d'une description.
+Elle produit un engagement discursif dont la correction pourra être examinée.
 
-Une assertion peut être :
+Ainsi :
 
-- recevable,
-- irrecevable,
-- fondée,
-- infondée,
-- valide,
-- invalide.
+«assertion ≠ vérité»
 
-Ces propriétés ne résultent pas de l'assertion elle-même.
+et :
 
-Elles dépendent des critères du régime descriptif concerné.
+«habilitation à affirmer ≠ vérité.»
+
+Cette distinction est essentielle pour Protokin.
 
 ---
 
-## 8. Synthèse
+7. La structure déontique de l'assertion
 
-L'assertion constitue le moment où une description devient un engagement public.
+L'assertion modifie le statut du locuteur dans la pratique discursive.
 
-Elle ne crée ni les catégories, ni les critères, ni les configurations descriptives.
+Avant l'assertion :
 
-Elle relie un locuteur à une description et introduit cette dernière dans l'espace des raisons.
+«le locuteur n'est pas encore engagé publiquement sur la proposition.»
 
-L'assertion transforme ainsi un contenu descriptif en responsabilité normative.
+Après l'assertion :
 
-C'est pourquoi elle constitue une étape décisive de l'architecture fonctionnelle de Protokin.
+«la proposition lui est désormais attribuable.»
+
+Il peut alors être tenu de :
+
+- reconnaître certaines conséquences de ce qu'il a affirmé ;
+- accepter certaines incompatibilités ;
+- répondre à certaines objections ;
+- fournir des raisons ;
+- retirer ou corriger son affirmation.
+
+L'assertion possède ainsi une dimension normative.
+
+Elle ne décrit pas seulement un état mental du locuteur.
+
+Elle modifie ce que le locuteur peut être légitimement tenu de reconnaître ou de défendre dans la conversation.
 
 ---
 
-## Voir aussi
+8. Ce qui dépend du locuteur
 
-### Cette page suppose
+Le locuteur contrôle le fait d'effectuer ou non l'assertion.
 
-- Description
-- Configuration descriptive
-- Prédication
-- Qualification
-- Locuteur
-- Espace des raisons
+Il peut dire :
 
-### Cette page prépare
+«« Le métal est chaud. »»
 
-- Engagements descriptifs
-- Responsabilité normative
-- Comptabilité déontique
-- Recevabilité
-- Validité
-- Régimes descriptifs
-- Audit des régimes descriptifs
+ou :
+
+«« Je ne sais pas si le métal est chaud. »»
+
+ou encore :
+
+«« On m'a dit que le métal était chaud. »»
+
+Le choix de l'acte discursif dépend donc du locuteur.
+
+Mais cette maîtrise ne signifie pas qu'il contrôle toutes les conséquences de ce qu'il affirme.
+
+Une assertion engage le locuteur dans un espace de conséquences qui dépasse sa seule intention.
+
+---
+
+9. Ce qui ne dépend pas du locuteur
+
+En affirmant :
+
+«« Cette pièce est en cuivre. »»
+
+le locuteur ne décide pas arbitrairement de toutes les conséquences de l'emploi de « cuivre ».
+
+L'usage du concept s'inscrit dans un ensemble de relations descriptives et inférentielles qui ne dépendent pas entièrement de sa volonté.
+
+S'il existe des conséquences pertinentes de cette classification, le locuteur peut être amené à les reconnaître même s'il ne les avait pas anticipées.
+
+C'est ici que l'inférentialisme devient particulièrement utile.
+
+Le contenu d'une assertion n'est pas épuisé par ce que le locuteur avait subjectivement à l'esprit.
+
+Il possède un rôle dans un réseau de conséquences que le locuteur doit pouvoir assumer ou corriger.
+
+Ainsi :
+
+«intention du locuteur ≠ portée inférentielle de l'assertion.»
+
+---
+
+10. Assertion et jeu de donner et demander des raisons
+
+L'assertion constitue l'un des mouvements fondamentaux du jeu discursif dans lequel les participants donnent et demandent des raisons.
+
+Une assertion peut :
+
+- servir de prémisse ;
+- être elle-même contestée ;
+- demander une justification ;
+- produire des conséquences qui devront être assumées.
+
+Par exemple :
+
+«« Le sol est mouillé. »»
+
+Un interlocuteur peut répondre :
+
+«« Pourquoi ? »»
+
+Le locuteur peut alors produire :
+
+«« Parce qu'il vient de pleuvoir. »»
+
+La première assertion devient ainsi le point de départ d'une demande de justification.
+
+La seconde assertion peut à son tour être contestée.
+
+Le discours rationnel n'est donc pas simplement une succession de phrases.
+
+Il constitue un espace dans lequel les participants acquièrent, transmettent, contestent et révisent des engagements.
+
+---
+
+11. Assertion et conséquences inférentielles
+
+Une assertion n'engage pas seulement la proposition explicitement formulée.
+
+Elle peut également engager certaines conséquences.
+
+Par exemple :
+
+«« Paul est célibataire. »»
+
+peut rendre pertinente l'inférence :
+
+«« Paul n'est pas marié. »»
+
+Si le locuteur refuse ensuite cette conséquence, son interlocuteur peut demander une explication.
+
+La portée exacte de ces conséquences dépend toutefois des concepts mobilisés et du régime descriptif concerné.
+
+Il ne faut donc pas transformer chaque conséquence possible en conséquence nécessaire.
+
+L'analyse protokinienne doit demander :
+
+«Quelles conséquences cette assertion rend-elle effectivement pertinentes dans ce régime descriptif ?»
+
+---
+
+12. Assertion et contestation
+
+Une assertion peut être contestée.
+
+La contestation ne signifie pas simplement :
+
+«« Je ne suis pas d'accord. »»
+
+Elle peut porter sur :
+
+- la référence ;
+- la prédication ;
+- les critères employés ;
+- les données invoquées ;
+- l'inférence ;
+- la justification ;
+- les conséquences tirées.
+
+Ainsi :
+
+«« Cette personne est dangereuse. »»
+
+peut être contesté de plusieurs manières :
+
+«« De qui parlez-vous ? »»
+
+«« Qu'entendez-vous par dangereuse ? »»
+
+«« Sur quelles observations vous fondez-vous ? »»
+
+«« Cette observation ne permet pas cette conclusion. »»
+
+La contestation permet ainsi de décomposer l'engagement plutôt que de traiter l'assertion comme un bloc indivisible.
+
+---
+
+13. Assertion et révision
+
+Une assertion n'est pas nécessairement définitive.
+
+Une information nouvelle peut conduire le locuteur à :
+
+- maintenir son assertion ;
+- la préciser ;
+- la restreindre ;
+- la reformuler ;
+- la retirer.
+
+Cette possibilité de révision est constitutive d'une pratique discursive rationnelle.
+
+La révision ne signifie pas que l'assertion initiale était dépourvue de sens.
+
+Elle signifie que son statut peut être modifié lorsque les raisons ou les informations pertinentes changent.
+
+Ainsi :
+
+«engagement ≠ irrévocabilité.»
+
+---
+
+14. Assertion rapportée
+
+Il faut également distinguer l'assertion effectuée par un locuteur de la simple mention de cette assertion.
+
+Comparer :
+
+«« Le métal est chaud. »»
+
+et :
+
+«« Paul affirme que le métal est chaud. »»
+
+Dans le second cas, le locuteur actuel n'endosse pas nécessairement lui-même la proposition.
+
+Il attribue une assertion à Paul.
+
+Cette distinction devient particulièrement importante pour l'analyse des chaînes de transmission :
+
+«Paul affirme p → Marie rapporte que Paul affirme p → Jean rapporte que Marie rapporte que Paul affirme p.»
+
+Chaque étape peut modifier les responsabilités et les engagements des participants.
+
+Le fait de rapporter une assertion ne revient donc pas automatiquement à l'asserter soi-même.
+
+---
+
+15. Ce que l'assertion n'établit pas
+
+L'assertion ne permet pas, à elle seule, d'établir :
+
+La vérité
+
+«assertion ≠ vérité»
+
+La justification effective
+
+«assertion ≠ justification»
+
+L'adéquation descriptive
+
+«assertion ≠ adéquation au référent»
+
+La compétence du locuteur
+
+Un locuteur peut être habilité par défaut, mal informé ou simplement se tromper.
+
+L'unicité du régime descriptif
+
+Une même proposition peut être pertinente dans plusieurs pratiques et recevoir des critères différents.
+
+La stabilité définitive de l'engagement
+
+Un engagement peut être corrigé ou retiré.
+
+---
+
+16. Principe de non-conversion
+
+L'assertion constitue un autre point où le principe de non-conversion doit être appliqué.
+
+Il faut notamment éviter :
+
+«assertion ≠ vérité»
+
+«engagement ≠ connaissance»
+
+«habilitation ≠ vérité»
+
+«responsabilité ≠ justification effective»
+
+«intention du locuteur ≠ contenu inférentiel»
+
+«assertion ≠ prédication»
+
+«assertion ≠ référent»
+
+«assertion rapportée ≠ assertion effectuée par le rapporteur»
+
+Ces distinctions empêchent de transformer un acte discursif en propriété du monde ou en garantie automatique de sa correction.
+
+---
+
+17. Place dans l'architecture de Protokin
+
+L'assertion est une fonction pragmatique de prise en charge.
+
+Elle ne constitue pas une étape nécessaire de toute description.
+
+Une description peut rester exploratoire, hypothétique ou provisoire sans devenir immédiatement une assertion assumée.
+
+Lorsqu'une proposition est assertée, son statut change :
+
+Prédication
+      ↓
+Proposition
+      ↓
+Prise en charge par un locuteur
+      ↓
+Assertion
+      ↓
+Engagements
+      ↓
+Contestations / justifications / révisions
+
+Cette représentation décrit des dépendances fonctionnelles.
+
+Elle ne constitue pas une chaîne de constitution.
+
+L'assertion peut intervenir, être suspendue, être retirée puis réintroduite au cours d'une même enquête.
+
+---
+
+18. Synthèse
+
+L'assertion est l'acte par lequel un locuteur prend publiquement en charge une proposition.
+
+Elle se distingue de la prédication parce qu'elle ajoute une dimension pragmatique : la proposition devient attribuable au locuteur et peut être utilisée par les interlocuteurs comme ressource discursive.
+
+Cette prise en charge produit une double dimension :
+
+«une autorité discursive à faire valoir la proposition ;»
+
+«une responsabilité à pouvoir en répondre lorsqu'elle est contestée.»
+
+L'assertion n'est cependant ni une garantie de vérité ni une justification déjà accomplie.
+
+Elle ouvre un espace dans lequel la proposition peut être :
+
+- reprise ;
+- utilisée comme prémisse ;
+- contestée ;
+- justifiée ;
+- corrigée ;
+- révisée.
+
+Le rôle protokinien de l'assertion peut donc être résumé ainsi :
+
+«La prédication attribue ; l'assertion prend en charge ; la justification soutient ; la contestation éprouve ; la révision transforme l'engagement.»
+
+Ces fonctions doivent rester distinctes pour éviter leur conversion les unes dans les autres.
+
+---
+
+Ouvertures
+
+Cette page suppose :
+
+- une proposition ;
+- une prédication ;
+- un locuteur ;
+- un espace discursif dans lequel l'énoncé peut être repris et contesté.
+
+Cette page prépare :
+
+- les engagements déontiques ;
+- l'habilitation ;
+- la responsabilité justificative ;
+- la contestation ;
+- la recevabilité ;
+- le jeu de donner et demander des raisons.
+
+Cette page n'établit pas :
+
+- la vérité de l'assertion ;
+- sa justification effective ;
+- son adéquation au référent ;
+- la validité complète du régime descriptif ;
+- les conditions générales de toute connaissance.
