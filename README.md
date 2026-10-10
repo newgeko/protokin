@@ -8,6 +8,10 @@
 
 Protokin ne prétend pas fournir une description ultime du monde ni fonder une métaphysique générale. Il intervient comme une démarche d'enquête réflexive de second ordre déclenchée lorsqu'une pratique descriptive rencontre une **difficulté**, une ambiguïté ou un **blocage**.
 
+Son objet est le rapport entre deux mouvements : celui des configurations décrites et celui des pratiques par lesquelles leurs transformations deviennent descriptibles. Ces mouvements sont liés, sans se confondre. Les configurations peuvent se transformer sans que les descriptions évoluent en conséquence ; inversement, les catégories, les critères et les descriptions peuvent changer sans que ces changements correspondent à une transformation du référent.
+
+Protokin examine les conditions de leur articulation, les médiations qui les relient et les épreuves permettant d'évaluer l'adéquation des descriptions à ce qu'elles prétendent décrire.
+
 > *« La cohérence d'une description ne suffit pas à établir son adéquation à ce qu'elle prétend décrire. »*
 
 ---
