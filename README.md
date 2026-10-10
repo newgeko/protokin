@@ -99,7 +99,7 @@ Pour éviter la confusion entre la forme grammaticale et la force pragmatique, P
 3. **L'[assertion](fr/assertion.md) (Prise en charge publique)** : Acte pragmatique par lequel un locuteur prend publiquement en charge une proposition. L'assertion crée une double structure déontique :
    * **Autorité discursive** : Elle autorise les auditeurs à utiliser la proposition comme prémisse.
    * **Responsabilité justificative** : Le locuteur s'oblige à répondre des raisons de son affirmation si elle est contestée.
-4. **La portée inférentielle** : Le réseau de conséquences objectives et d'incompatibilités qui déborde l'intention subjective du locuteur.
+4. **La [portée inférentielle](la-portee-inferentielle.md)** : Le réseau de conséquences objectives et d'incompatibilités qui déborde l'intention subjective du locuteur.
 
 ---
 
