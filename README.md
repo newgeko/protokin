@@ -95,8 +95,8 @@ Quatre fonctions peuvent intervenir à tout moment du parcours :
 Pour éviter la confusion entre la forme grammaticale et la force pragmatique, Protokin distingue quatre niveaux fonctionnels :
 
 1. **La prédication (Attribution locale)** : Application locale d'un prédicat à un sujet (`X est Y`).
-2. **La proposition (Contenu inférentiel)** : Structure conceptuelle minimale pouvant servir de prémisse et de conclusion. Elle forme un contenu neutralisé réutilisable sous forme d'hypothèse, de question ou de négation.
-3. **L'[assertion](fr/assertion.md) (Prise en charge publique)** : Acte pragmatique par lequel un locuteur prend publiquement en charge une proposition. L'assertion crée une double structure déontique :
+2. **La [proposition](/fr/proposition.md) (Contenu inférentiel)** : Structure conceptuelle minimale pouvant servir de prémisse et de conclusion. Elle forme un contenu neutralisé réutilisable sous forme d'hypothèse, de question ou de négation.
+3. **L'[assertion](fr/assertion.md) (Prise en charge publique)** : Acte pragmatique par lequel un locuteur prend publiquement en charge une [proposition](/fr/proposition.md). L'assertion crée une double structure déontique :
    * **Autorité discursive** : Elle autorise les auditeurs à utiliser la proposition comme prémisse.
    * **Responsabilité justificative** : Le locuteur s'oblige à répondre des raisons de son affirmation si elle est contestée.
 4. **La portée inférentielle** : Le réseau de conséquences objectives et d'incompatibilités qui déborde l'intention subjective du locuteur.
@@ -121,7 +121,7 @@ Les éléments d'une pratique sont fortement interdépendants, mais aucune relat
 * $\text{capacité} \neq \text{performance}$
 * $\text{description} \neq \text{objet décrit}$
 * $\text{contexte} \neq \text{référent}$
-* $\text{forme propositionnelle} \neq \text{acte d'assertion}$
+* $\text{forme [proposition](/fr/proposition.md)nelle} \neq \text{acte d'assertion}$
 
 ---
 
