@@ -57,7 +57,7 @@ Pour éviter tant le *Mythe du Donné* (traiter la matière comme une vérité d
 
 1. **La résistance matérielle** (pôle **Condition**) : Une contrainte, opacité ou dysfonctionnement surgit dans la configuration matérielle sans porter de signification par elle-même.
 2. **Le constat d'incompatibilité** (pôle **Problème / Épreuve**) : Une pratique descriptive ou technique rencontre une rupture d'opérativité.
-3. **La révision normative** (pôle **Justification / Reconstitution**) : L'échec pratique contraint à réexaminer les engagements inférentiels et les descriptions.
+3. **La révision normative** (pôle **Justification / Reconstitution**) : L'échec pratique contraint à réexaminer les engagements inférentiels et les descriptions. Ces révisions s'appuient sur des **inférences matérielles** non-monotoniques et défaisables lorsque les conditions d'environnement se modifient.
 
 ### Maximes canoniques du butoir
 * *« Un butoir matériel ne justifie pas une description ; il limite les descriptions et les pratiques compatibles avec une configuration donnée. »*
@@ -74,15 +74,16 @@ $$\text{Délimiter} \rightarrow \text{Ancrer} \rightarrow \text{Distinguer} \rig
 * **Délimiter** : Rendre le problème enquêtable en traçant un périmètre provisoire.
 * **Ancrer** : Identifier les contraintes matérielles, corporelles et environnementales réelles.
 * **Distinguer** : Séparer les registres dont la confusion produit le blocage (*« Distinguer sans isoler »*).
-* **Relier** : Examiner les dépendances et articulations sans les réduire les unes aux autres.
+* **Relier** : Examiner les dépendances et articulations sans les réduire les unes aux autres (en s'appuyant sur des inférences matérielles non-monotoniques).
 * **Configurer** : Suivre comment une différence devient un *objet descriptif* (« une différence stabilisée comme identifiable et réutilisable »).
 * **Justifier** : Examiner les critères, habilitations et raisons permettant de soutenir ou réviser la description.
 * **Reconstituer** : Reconstruire une configuration où les distinctions établies fonctionnent ensemble sans être converties.
 * **Redélimiter** : Reprendre les frontières du problème à la lumière des découvertes de l'enquête.
 
-### Les fonctions transversales
-Quatre fonctions peuvent intervenir à tout moment du parcours :
+### Les cinq fonctions transversales
+Cinq fonctions peuvent intervenir à tout moment du parcours :
 * **Temporaliser** : Suivre les trajectoires, durées, transitions et sédimentations.
+* **Expliquer** : Rendre compte du fonctionnement, des dépendances et des blocages d'une configuration sans hypostasier de structures cachées ni invoquer d'entités métaphysiques premières.
 * **Auditer** : Contrôler la rigueur des distinctions et traquer les réductions indues.
 * **Réfléchir** : Appliquer les exigences de l'enquête aux propres opérations de Protokin (second ordre immanent).
 * **Éprouver** : Confronter les distinctions à des cas, des substitutions, des comparaisons ou des reprises.
@@ -91,15 +92,18 @@ Quatre fonctions peuvent intervenir à tout moment du parcours :
 
 ---
 
-## 7. Les registres du langage : De la proposition à l'assertion
-Pour éviter la confusion entre la forme grammaticale et la force pragmatique, Protokin distingue quatre niveaux fonctionnels :
+## 7. Les registres du langage et du jeu des raisons
+Pour éviter la confusion entre forme grammaticale, contenu inférentiel et force pragmatique, Protokin distingue sept niveaux fonctionnels articulés :
 
-1. **La [prédication](fr/predication.md) (Attribution locale)** : Application locale d'un prédicat à un sujet (`X est Y`).
-2. **La [proposition](/fr/proposition.md) (Contenu inférentiel)** : Structure conceptuelle minimale pouvant servir de prémisse et de conclusion. Elle forme un contenu neutralisé réutilisable sous forme d'hypothèse, de question ou de négation.
-3. **L'[assertion](fr/assertion.md) (Prise en charge publique)** : Acte pragmatique par lequel un locuteur prend publiquement en charge une proposition. L'assertion crée une double structure déontique :
+1. **La prédication (Attribution locale)** : Application locale d'un prédicat à un sujet (`X est Y`).
+2. **La proposition (Contenu inférentiel)** : Structure conceptuelle minimale pouvant servir de prémisse et de conclusion. Elle forme un contenu neutralisé réutilisable sous forme d'hypothèse, de question ou de négation.
+3. **L'assertion (Prise en charge publique)** : Acte pragmatique par lequel un locuteur prend publiquement en charge une proposition. L'assertion crée une double structure déontique :
    * **Autorité discursive** : Elle autorise les auditeurs à utiliser la proposition comme prémisse.
    * **Responsabilité justificative** : Le locuteur s'oblige à répondre des raisons de son affirmation si elle est contestée.
-4. **La [portée inférentielle](fr/la-portee-inferentielle.md)** : Le réseau de conséquences objectives et d'incompatibilités qui déborde l'intention subjective du locuteur.
+4. **La portée inférentielle** : Le réseau de conséquences objectives et d'incompatibilités qui déborde l'intention subjective du locuteur.
+5. **L'Objet descriptif vs le Référent matériel** : Distinction entre la catégorie stabilisée dans la pratique (`objet descriptif`) et la configuration physique récalcitrante (`référent`).
+6. **La tenue de registre déontique (*Scorekeeping*)** : Suivi social dynamique des *engagements* et *habilitations* attribués (*attributing*) ou reconnus (*acknowledging*) par les interlocuteurs dans l'espace des raisons.
+7. **Les ascriptions *de dicto* / *de re*** : Dualité de perspective entre la restitution des motifs dans le vocabulaire du locuteur (*de dicto*) et la caractérisation de l'objet réel dans la voix de l'analyseur (*de re*).
 
 ---
 
@@ -120,8 +124,12 @@ Les éléments d'une pratique sont fortement interdépendants, mais aucune relat
 * $\text{trace} \neq \text{signification}$
 * $\text{capacité} \neq \text{performance}$
 * $\text{description} \neq \text{objet décrit}$
+* $\text{objet descriptif} \neq \text{référent matériel}$
 * $\text{contexte} \neq \text{référent}$
-* $\text{forme [proposition](/fr/proposition.md)nelle} \neq \text{acte d'assertion}$
+* $\text{forme propositionnelle} \neq \text{acte d'assertion}$
+* $\text{statut normatif (engagement/habilitation)} \neq \text{attitude subjective (attribution/reconnaissance)}$
+* $\text{inférence matérielle} \neq \text{déduction logique formelle}$
+* $\text{ascription } de\ dicto \neq \text{ascription } de\ re$
 
 ---
 
@@ -129,3 +137,11 @@ Les éléments d'une pratique sont fortement interdépendants, mais aucune relat
 * **Maxime méthodologique** : *« Distinguer sans isoler. Articuler sans convertir. »*
 * **Règle de sobriété** : *« La rigueur ne consiste pas seulement à savoir quoi ajouter ; elle consiste aussi à savoir où ne pas ajouter. »*
 * **Règle de clôture** : *« Une enquête s'arrête lorsqu'une reconstruction suffisante est atteinte, non lorsque tout est expliqué. »*
+
+---
+
+## 10. Cartographie des fiches canoniques d'enquête
+Pour approfondir la démarche, le dépôt met à disposition la **Table des matières** (`tdm.md`) ainsi qu'un ensemble de fiches canoniques d'audit pragmatique et fonctionnel :
+* **Pragmatique & Langage** : `predication.md`, `proposition.md`, `assertion.md`, `la-portee-inferentielle.md`.
+* **Référence & Normativité** : `referent.md`, `scorekeeping-deontique.md`, `inference-materielle.md`, `ascriptions-de-dicto-de-re.md`.
+* **Architecture & Méthode** : `architecture-systeme.md`, `quadripartition-de-base.md`, `tdm.md`.
