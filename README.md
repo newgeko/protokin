@@ -97,17 +97,89 @@ Cinq fonctions peuvent intervenir à tout moment du parcours :
 ---
 
 ## 7. Les registres du langage et du jeu des raisons
-Pour éviter la confusion entre forme grammaticale, contenu inférentiel et force pragmatique, Protokin distingue sept niveaux fonctionnels articulés :
 
-1. **La prédication (Attribution locale)** : Application locale d'un prédicat à un sujet (`X est Y`).
-2. **La proposition (Contenu inférentiel)** : Structure conceptuelle minimale pouvant servir de prémisse et de conclusion. Elle forme un contenu neutralisé réutilisable sous forme d'hypothèse, de question ou de négation.
-3. **L'assertion (Prise en charge publique)** : Acte pragmatique par lequel un locuteur prend publiquement en charge une proposition. L'assertion crée une double structure déontique :
-   * **Autorité discursive** : Elle autorise les auditeurs à utiliser la proposition comme prémisse.
-   * **Responsabilité justificative** : Le locuteur s'oblige à répondre des raisons de son affirmation si elle est contestée.
-4. **La portée inférentielle** : Le réseau de conséquences objectives et d'incompatibilités qui déborde l'intention subjective du locuteur.
-5. **L'Objet descriptif vs le Référent matériel** : Distinction entre la catégorie stabilisée dans la pratique (`objet descriptif`) et la configuration physique récalcitrante (`référent`).
-6. **La tenue de registre déontique (*Scorekeeping*)** : Suivi social dynamique des *engagements* et *habilitations* attribués (*attributing*) ou reconnus (*acknowledging*) par les interlocuteurs dans l'espace des raisons.
-7. **Les ascriptions *de dicto* / *de re*** : Dualité de perspective entre la restitution des motifs dans le vocabulaire du locuteur (*de dicto*) et la caractérisation de l'objet réel dans la voix de l'analyseur (*de re*).
+Distinguer les opérations linguistiques, les relations inférentielles, les engagements pragmatiques et les modalités d'ancrage référentiel nécessaires à l'analyse d'une pratique descriptive.
+
+### 1. Prédication — attribution locale
+
+La prédication attribue une qualification à un terme ou à un référent dans une configuration descriptive.
+
+La forme "X est Y" permet d'examiner une attribution sans présupposer que le prédicat désigne une propriété intrinsèque, indépendante de toute condition d'identification et d'usage.
+
+La prédication ne se confond ni avec l'assertion ni avec la justification de l'attribution.
+
+### 2. Proposition — contenu susceptible d'être inféré
+
+La proposition constitue un contenu susceptible d'être affirmé, nié, interrogé, supposé ou mobilisé dans un raisonnement.
+
+Elle peut être analysée comme prémisse ou conclusion d'une inférence. Son identification ne suffit cependant pas à déterminer la force pragmatique de son emploi ni les engagements effectivement assumés par un locuteur.
+
+La proposition fournit ainsi une unité d'analyse sans constituer, à elle seule, la totalité du contenu concret d'une pratique descriptive.
+
+### 3. Assertion — prise en charge publique
+
+L'assertion est un acte par lequel un participant prend publiquement en charge une proposition.
+
+Dans le modèle de Brandom, cette prise en charge engage notamment deux dimensions :
+
+- Autorité discursive : l'assertion peut habiliter d'autres participants à reprendre son contenu comme prémisse, sous réserve des conditions applicables.
+- Responsabilité justificative : le locuteur devient comptable de son engagement et peut être tenu de répondre aux contestations.
+
+L'assertion ne garantit ni la vérité de son contenu ni la légitimité de toutes les inférences qui pourraient en être tirées.
+
+### 4. Portée inférentielle — conséquences et incompatibilités
+
+Le contenu conceptuel d'une proposition se caractérise notamment par les inférences qu'elle autorise, les conséquences qu'elle permet de tirer et les incompatibilités qu'elle entretient avec d'autres contenus.
+
+Les inférences matérielles dépendent du contenu des concepts et des relations reconnues dans une pratique. Elles ne se réduisent pas à la forme logique des raisonnements. Par exemple, l'attribution de conductivité au cuivre mobilise des connaissances conceptuelles et empiriques qui ne découlent pas de la seule syntaxe d'une proposition.
+
+Certaines inférences sont révisables : de nouvelles informations ou des conditions particulières peuvent conduire à retirer une conclusion auparavant admise. Cette propriété non monotone doit être distinguée du caractère matériel de l'inférence lui-même.
+
+L'analyse doit donc examiner les conséquences d'une description, les conditions de leur maintien et les circonstances susceptibles de les invalider.
+
+### 5. Ancrage référentiel — objet descriptif et référent
+
+L'ancrage référentiel concerne les rapports entre une description, l'objet qu'elle stabilise dans une pratique et ce à quoi elle prétend se rapporter.
+
+L'objet descriptif désigne une différence stabilisée comme identifiable et réutilisable dans une pratique descriptive. Le référent désigne ce à quoi cette pratique entend se rapporter, sans que son existence ou sa configuration soit nécessairement constituée par la description.
+
+Cette distinction évite deux assimilations :
+
+- réduire la référence à une correspondance immédiate entre un mot et une chose ;
+- réduire le référent aux catégories et aux énoncés par lesquels il est décrit.
+
+L'ancrage doit être examiné selon la nature du référent, les conditions d'identification et les épreuves pertinentes. Le butoir matériel constitue l'un des cas où ces épreuves rencontrent une résistance qui ne fournit pas, à elle seule, sa propre interprétation.
+
+### 6. Tenue de registre déontique — scorekeeping
+
+Le scorekeeping désigne le suivi social des engagements et des habilitations dans une pratique discursive.
+
+Il faut distinguer :
+
+- Les statuts normatifs : engagements (commitments) et habilitations (entitlements).
+- Les attitudes pragmatiques : reconnaître ou assumer un statut, et attribuer ce statut à un autre participant.
+
+Un participant peut reconnaître un engagement qu'il assume, attribuer un engagement à autrui ou contester l'habilitation associée à une assertion. Les statuts et les attitudes ne coïncident donc pas nécessairement.
+
+Pour Protokin, cette distinction permet d'auditer les écarts entre ce qui est affirmé, ce que les participants reconnaissent, ce qu'ils attribuent et ce qu'ils peuvent effectivement justifier.
+
+### 7. Ascriptions de dicto et de re — deux perspectives d'attribution
+
+Les ascriptions de dicto et de re permettent de distinguer deux manières de rapporter un contenu à un participant et à ce dont il parle.
+
+Une ascription de dicto restitue une attribution sous une description ou dans un cadre conceptuel déterminé. Une ascription de re rapporte l'attribution à l'objet dont il est question, même lorsque la caractérisation retenue par l'analyste diffère de celle du participant.
+
+Cette distinction ne se réduit pas à une opposition entre le vocabulaire individuel et celui de la communauté. Elle concerne les conditions sous lesquelles une attribution est rapportée à un contenu ou à un objet.
+
+L'audit doit préserver la différence entre ce qu'un participant affirme, ce qu'il entend désigner et ce que l'analyse permet d'établir à propos du référent.
+
+### Synthèse
+
+Ces fonctions sont articulées, mais elles ne constituent ni une séquence obligatoire ni une hiérarchie ontologique.
+
+La prédication permet une attribution ; la proposition fournit un contenu analysable ; l'assertion engage un participant ; les relations inférentielles déterminent des conséquences et des incompatibilités ; l'ancrage référentiel concerne ce qui est décrit ; le scorekeeping organise le suivi social des statuts normatifs ; les ascriptions de dicto et de re différencient des perspectives d'attribution.
+
+L'enquête porte sur leurs dépendances et leurs éventuelles discordances, sans convertir une fonction en une autre. 
 
 ---
 
