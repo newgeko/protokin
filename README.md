@@ -104,11 +104,11 @@ Explorer les principaux objets d’analyse
 
 - "Description" (fr/description.md) — examiner l’activité descriptive.
 - "Objet descriptif" (fr/objet-descriptif.md) — comprendre comment une différence devient identifiable et réutilisable dans une pratique.
-- "Référent" (fr/referent.md) — examiner ce à quoi une description prétend se rapporter.
+- "Référent" [referent.md](fr/referent.md) — examiner ce à quoi une description prétend se rapporter.
 - "Régime descriptif" (fr/regime-descriptif.md) — étudier les manières organisées de décrire.
-- "Prédication" (fr/predication.md) — analyser une fonction d’attribution.
-- "Proposition" (fr/proposition.md) — examiner un contenu susceptible d’être affirmé, nié ou inféré.
-- "Assertion" (fr/assertion.md) — étudier la prise en charge d’un contenu dans une pratique.
+- "Prédication" [predication.md](fr/predication.md) — analyser une fonction d’attribution.
+- "Proposition" [proposition.md](fr/proposition.md) — examiner un contenu susceptible d’être affirmé, nié ou inféré.
+- "Assertion" [assertion.md](fr/assertion.md) — étudier la prise en charge d’un contenu dans une pratique.
 - "Inférence matérielle" (fr/inference-materielle.md) — examiner les conséquences qui dépendent du contenu et des relations mobilisées.
 
 Ces pages ne forment pas une séquence obligatoire. Elles permettent d’entrer dans le corpus à partir de questions différentes.
