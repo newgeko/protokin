@@ -1,10 +1,10 @@
-Protokin 🧭
+# Protokin 🧭
 
 «L’Intelligence des Stabilisations
 
 Une démarche d’enquête pragmatique, inférentielle, réflexive et non-ontologique sur les pratiques descriptives.»
 
-Présentation
+## Présentation
 
 Protokin part d’un problème simple : nous décrivons des situations, des événements, des organismes, des relations ou des pratiques, mais les descriptions que nous mobilisons ne sont pas toujours suffisantes pour les comprendre, les comparer ou les justifier.
 
@@ -33,7 +33,7 @@ L’enquête vise alors à rendre ces difficultés explicites et à construire l
 
 La question n’est pas seulement de savoir si une description est cohérente, mais de déterminer ce qui autorise à la maintenir, à la contester ou à la réviser.
 
-Une démarche de second ordre
+## Une démarche de second ordre
 
 Protokin ne propose ni une description ultime du monde ni une ontologie générale destinée à fixer par avance ce que sont les choses.
 
@@ -64,7 +64,7 @@ Protokin vise à fournir des instruments pour :
 
 La démarche ne garantit pas à elle seule l’adéquation d’un résultat. Elle organise les conditions dans lesquelles ce résultat peut être examiné, discuté et repris.
 
-Principes de travail
+## Principes de travail
 
 Protokin s’appuie sur une exigence générale :
 
@@ -80,7 +80,7 @@ Distinguer sans isoler. Articuler sans convertir.
 
 Pour le développement détaillé de ces principes, voir "Les principes" (fr/les-principes.md) et "Architecture du système" (fr/architecture-systeme.md).
 
-Entrer dans le corpus
+## Entrer dans le corpus
 
 Les pages suivantes constituent les principaux points d’entrée. Elles remplissent des fonctions différentes : présenter le projet, expliciter l’organisation de l’enquête, préciser ses distinctions ou permettre de parcourir les développements.
 
@@ -113,7 +113,7 @@ Explorer les principaux objets d’analyse
 
 Ces pages ne forment pas une séquence obligatoire. Elles permettent d’entrer dans le corpus à partir de questions différentes.
 
-Parcours de lecture
+## Parcours de lecture
 
 Pour une première approche, il est possible de suivre ce parcours :
 
