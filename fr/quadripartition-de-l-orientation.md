@@ -213,7 +213,7 @@ La quadripartition ne remplace pas la chaîne d'enquête.
 
 La chaîne indique le mouvement général de l'enquête :
 
-«Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Temporaliser → Expliquer → Auditer → Réfléchir → Éprouver → Reconstituer → Redélimiter»
+«Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter»
 
 Cette chaîne est une chaîne d'enquête, non une chaîne de constitution.
 
