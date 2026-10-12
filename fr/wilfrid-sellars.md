@@ -1,304 +1,96 @@
-# Page : wilfrid-sellars.md
-
- 
-Sellars
+Sellars — Naturalisation et normativité
 
 Fonction
 
-La référence à Wilfrid Sellars permet à Protokin d'éprouver une distinction centrale entre conditions causales de la perception, contenus descriptifs et justification dans l'espace des raisons.
+Cette page examine la tension entre les conditions naturelles des pratiques descriptives et la normativité des opérations par lesquelles leurs productions sont évaluées, justifiées et révisées.
 
-Sellars est particulièrement utile pour examiner une difficulté récurrente :
+Elle situe cette tension à partir de Wilfrid Sellars et de deux grandes orientations de sa réception : l'approfondissement de l'autonomie normative du conceptuel et la naturalisation des capacités cognitives et représentatives.
 
-«comment éviter de traiter une expérience, une trace ou un donné comme s'il fournissait directement la justification d'une description ?»
+Problème
 
-Cette page ne cherche pas à intégrer la philosophie de Sellars à l'architecture de Protokin.
+Dans Empirisme et philosophie de l'esprit (1956), Sellars critique le mythe du donné : aucune donnée sensorielle ne peut, par sa seule présence, constituer une connaissance ou justifier une croyance. La connaissance suppose des capacités conceptuelles et une position au sein de pratiques dans lesquelles des prétentions peuvent être évaluées.
 
-Elle en retient certains problèmes comme ressources d'enquête.
+Cette critique soulève une difficulté. Les pratiques cognitives et descriptives sont matériellement réalisées : elles dépendent d'organismes, de capacités perceptives, d'environnements et d'interactions. Pourtant, décrire leurs conditions causales ne suffit pas à établir la validité des jugements qu'elles produisent.
 
----
+Inversement, reconnaître la spécificité des normes ne permet pas de soustraire les pratiques qui les mobilisent à toute enquête sur leurs conditions matérielles.
 
-1. Le mythe du donné
+Le problème consiste donc à articuler deux exigences sans convertir l'une dans l'autre :
 
-Dans Empiricism and the Philosophy of Mind, Sellars critique ce qu'il appelle le mythe du donné.
+- expliquer les conditions naturelles et matérielles des pratiques descriptives ;
+- examiner les normes selon lesquelles leurs productions peuvent être justifiées, contestées ou révisées.
 
-Le problème ne consiste pas simplement à nier l'existence des sensations, des perceptions ou des événements perceptifs.
+Définition
 
-Il consiste à contester l'idée qu'une expérience puisse, en vertu de son caractère immédiat, fournir directement une connaissance ou une justification non médiatisée.
+La distinction entre sellarsiens de gauche et sellarsiens de droite désigne une opposition interprétative au sein de la réception de Sellars. Elle porte principalement sur la priorité accordée à l'autonomie normative de l'espace des raisons ou au pouvoir explicatif de l'image scientifique.
 
-Une expérience peut avoir une dimension causale et perceptive sans constituer pour autant, à elle seule, une raison épistémique.
+1. L'orientation normativiste
 
-Ainsi :
+Robert Brandom et John McDowell illustrent, selon des perspectives différentes, l'importance accordée à la normativité conceptuelle.
 
-«être causé à percevoir ≠ être justifié à croire»
+Chez Brandom, comprendre le contenu d'une assertion suppose notamment d'examiner les engagements qu'elle entraîne, les habilitations à l'affirmer et les inférences qui la relient à d'autres assertions. La justification relève de pratiques normatives dans lesquelles les participants attribuent et évaluent des engagements.
 
-et :
+Chez McDowell, l'expérience peut exercer une contrainte rationnelle sur la pensée sans être conçue comme un donné brut qui justifierait les croyances indépendamment de toute capacité conceptuelle.
 
-«présence d'une expérience ≠ justification d'une description»
+Cette orientation refuse de réduire la justification à l'explication causale d'un état cognitif. Elle ne suppose pas pour autant que les pratiques normatives soient dépourvues de conditions naturelles.
 
-Pour Protokin, cette distinction est directement liée à la non-conversion entre Corps et Justification.
+2. L'orientation naturaliste
 
----
+Paul et Patricia Churchland défendent des formes de naturalisme qui accordent une place centrale aux sciences cognitives et aux neurosciences. Ils contestent notamment la suffisance explicative de la psychologie ordinaire et envisagent la révision, voire l'élimination, de certaines de ses catégories.
 
-2. Conditions causales et espace des raisons
+Ruth Millikan développe une autre voie naturaliste. Sa théorie des fonctions propres cherche notamment à expliquer les fonctions et les représentations à partir de l'histoire biologique des systèmes qui les produisent et les utilisent.
 
-Sellars distingue les relations explicatives propres à l'ordre causal et les relations de justification propres à ce qu'il appelle l'espace logique des raisons.
+Ces approches ne sont donc pas équivalentes. Le naturalisme peut chercher à réduire certaines catégories, à les reconstruire ou à expliquer leurs conditions de possibilité sans nécessairement les éliminer.
 
-Une perception peut être expliquée par des conditions physiques, physiologiques ou environnementales.
+Leur point commun est de refuser que les catégories de l'image manifeste soient soustraites par principe à l'enquête scientifique.
 
-Mais expliquer causalement pourquoi une personne a une certaine perception ne revient pas encore à établir pourquoi elle est autorisée à soutenir une proposition déterminée.
+3. La double exigence de Sellars
 
-On peut donc distinguer :
+Sellars distingue l'image manifeste, dans laquelle les personnes et les objets sont appréhendés au sein de nos pratiques ordinaires, et l'image scientifique, qui reconstruit le monde au moyen de théories scientifiques.
 
-«cause ≠ raison»
+Son projet de stéréoscopie vise leur articulation plutôt que le simple choix de l'une contre l'autre. Sa formule du scientia mensura souligne l'autorité de la science en matière de description et d'explication du monde, mais ne suffit pas à établir que toute catégorie de l'image manifeste serait éliminable.
 
-Une stimulation, une configuration corporelle ou un état perceptif peut contribuer causalement à une réponse sans constituer pour autant la justification qui rend cette réponse défendable.
+La distinction entre orientations normativiste et naturaliste désigne ainsi une tension réelle de sa réception, sans épuiser la diversité de ses interprétations.
 
-La distinction n'implique pas l'indépendance des deux domaines.
+Distinctions opératoires
 
-Les capacités de répondre, de percevoir et de juger ont des conditions corporelles et matérielles.
+Pour Protokin, cette tension doit être examinée sans confondre les registres concernés.
 
-Mais cette dépendance ne permet pas de convertir une description causale en justification.
+- Condition ≠ justification. Les conditions causales d'une croyance ne suffisent pas à établir qu'elle est justifiée.
+- Réalisation matérielle ≠ validité normative. Le fait qu'une pratique soit matériellement réalisée ne détermine pas, à lui seul, la validité de ses productions.
+- Fonction ≠ justification. Une description peut remplir une fonction sans que cette fonction suffise à justifier son contenu.
+- Naturalisation ≠ élimination. Expliquer une capacité ou une représentation par des processus naturels n'implique pas nécessairement de supprimer les catégories qui permettent de la décrire.
+- Autonomie normative ≠ indépendance matérielle. La spécificité des critères de justification n'implique pas que les pratiques qui les mobilisent échappent aux conditions naturelles.
 
-«continuité des dépendances ≠ continuité des fonctions»
+Ces distinctions empêchent de passer directement d'une explication causale à une conclusion normative, ou d'une distinction normative à l'affirmation d'une indépendance ontologique.
 
----
+Mise à l'épreuve
 
-3. L'expérience n'est pas encore une connaissance
+Considérons l'assertion : « Ce vélo est rouge. »
 
-L'une des difficultés centrales du mythe du donné concerne l'idée qu'une expérience pourrait constituer une connaissance simplement parce qu'elle est immédiatement présente.
+L'assertion dépend de conditions matérielles : les propriétés du vélo, l'éclairage, les capacités perceptives du locuteur et les circonstances de l'observation.
 
-Pour qu'un état perceptif joue un rôle épistémique, il doit prendre place dans un ensemble de capacités conceptuelles et de pratiques d'inférence.
+Elle mobilise également des relations descriptives : les usages du terme « rouge », les comparaisons pertinentes et les pratiques permettant d'identifier ou de distinguer des couleurs.
 
-Cela permet de distinguer :
+Elle remplit une fonction dans une situation déterminée : identifier un objet, répondre à une question ou corriger une description antérieure.
 
-«avoir une expérience ≠ savoir ce qui est le cas»
+Enfin, elle peut être justifiée, contestée ou révisée selon des critères adaptés au contexte. Une différence d'éclairage, un désaccord sur l'identification de la couleur ou l'emploi d'un autre système de classification peuvent conduire à reprendre la description.
 
-et :
+L'explication des processus perceptifs ne remplace pas l'examen de la justification. Mais l'examen de la justification ne dispense pas d'étudier les conditions matérielles dans lesquelles la perception et l'assertion ont lieu.
 
-«disposer d'une capacité discriminative ≠ disposer d'une justification»
+La quadripartition permet de distinguer ces questions sans supposer qu'elles correspondent à quatre domaines indépendants.
 
-La perception peut fournir des conditions nécessaires ou des ressources pour une description sans que son contenu épistémique soit simplement contenu dans l'état perceptif lui-même.
+Portée pour Protokin
 
-Pour Protokin, cela empêche une conversion directe :
+Protokin ne tranche pas a priori entre la priorité du normatif et celle du naturel. Il examine les conditions, les relations, les fonctions et les procédures de justification mobilisées dans des pratiques descriptives déterminées.
 
-«Corps → Justification»
+Cette orientation ne constitue pas un compromis entre deux doctrines. Elle impose une discipline d'enquête : aucune explication causale ne vaut automatiquement justification, et aucune exigence normative ne dispense d'examiner les conditions matérielles de sa mise en œuvre.
 
-Une condition corporelle peut rendre une réponse possible sans devenir le critère qui la justifie.
-
----
-
-4. Le rôle des concepts
-
-Sellars refuse également de concevoir les contenus conceptuels comme de simples copies internes de données immédiatement présentes.
-
-Un concept fonctionne dans un réseau de capacités à inférer, à distinguer, à corriger et à engager des conséquences.
-
-Une description n'est donc pas seulement produite par l'enregistrement passif d'une impression.
-
-Elle prend place dans une pratique où certaines assertions autorisent, excluent ou rendent pertinentes d'autres assertions.
-
-Pour Protokin :
-
-«description ≠ enregistrement»
-
-Une description possède une fonction dans une pratique.
-
-Elle peut être reprise, corrigée, opposée à d'autres descriptions et engagée dans des inférences.
-
-Cette conception rejoint la dimension Fonction de la quadripartition sans réduire la description à sa fonction.
-
----
-
-5. Image manifeste et image scientifique
-
-Sellars distingue notamment l'image manifeste et l'image scientifique.
-
-L'image manifeste correspond à la manière dont les personnes et les choses sont décrites dans le cadre ordinaire de l'expérience et des pratiques humaines.
-
-L'image scientifique reconstruit certains aspects du monde au moyen de concepts théoriques et scientifiques.
-
-La distinction ne doit pas être comprise comme une simple opposition entre une description vraie et une description fausse.
-
-Les deux images répondent à des fonctions descriptives différentes.
-
-Elles peuvent notamment organiser différemment les relations entre personnes, objets, propriétés, événements et explications.
-
-Pour Protokin, cette distinction permet d'éviter une conversion fréquente :
-
-«description scientifique ≠ remplacement ontologique de toutes les autres descriptions»
-
-Une description scientifique peut disposer de ressources explicatives qui ne sont pas celles d'une description ordinaire.
-
-Cela ne suffit pas à conclure que l'une des deux descriptions doit être convertie en description ultime de ce qui existe.
-
----
-
-6. Le problème de la priorité
-
-La critique du donné conduit à une question plus générale :
-
-«qu'est-ce qui doit être déjà en place pour qu'une expérience puisse compter comme une raison ?»
-
-Une expérience ne devient pas épistémiquement significative par sa seule présence.
-
-Elle doit pouvoir prendre place dans des pratiques où certaines réponses sont reconnues comme appropriées, où des assertions peuvent être soutenues ou retirées, et où des inférences sont possibles.
-
-La justification possède donc une dimension normative et fonctionnelle qui ne se laisse pas reconstruire simplement à partir de faits causaux.
-
-Pour Protokin :
-
-«condition ≠ critère»
-
-Une condition peut être indispensable au fonctionnement d'une pratique sans constituer le critère selon lequel une description est défendable.
-
----
-
-7. Le donné et l'objet descriptif
-
-Le mythe du donné est également pertinent pour la conception protokinienne de l'objet descriptif.
-
-Protokin ne traite pas l'objet descriptif comme une donnée brute immédiatement disponible avant toute pratique.
-
-Mais il ne conclut pas pour autant que l'objet serait librement produit par le langage.
-
-Une différence peut être rendue identifiable, désignée, catégorisée et réutilisée dans une pratique descriptive.
-
-Ainsi :
-
-«donnée immédiate ≠ objet descriptif»
-
-et :
-
-«construction descriptive ≠ création ontologique»
-
-L'enquête porte sur les conditions dans lesquelles une différence devient suffisamment stabilisée pour pouvoir fonctionner dans une pratique.
-
----
-
-8. Le donné, la trace et l'inférence
-
-Une trace peut fournir une information causale ou historique sur ce qui s'est produit.
-
-Mais sa présence ne détermine pas automatiquement ce qu'elle signifie dans une pratique.
-
-Il faut distinguer :
-
-«trace ≠ signification»
-
-et :
-
-«trace ≠ justification»
-
-Une empreinte, un enregistrement, une sensation ou une mesure peuvent constituer des ressources pour une enquête.
-
-Mais leur fonction dépend des pratiques dans lesquelles ils sont interprétés et des critères qui permettent d'établir ce qu'ils autorisent à conclure.
-
-Cela rejoint directement l'inférentialisme :
-
-«une donnée n'est pas une raison simplement parce qu'elle est donnée.»
-
----
-
-9. Ce que Sellars permet de distinguer
-
-La confrontation avec Sellars permet à Protokin de maintenir plusieurs distinctions :
-
-Question| Ce que l'enquête peut suivre| Ce qu'elle ne doit pas en déduire automatiquement
-Perception| ses conditions corporelles et causales| sa justification épistémique immédiate
-Expérience| son rôle dans une pratique| une connaissance simplement donnée
-Trace| son inscription causale ou historique| sa signification
-Mesure| les conditions de sa production| la validité automatique de l'inférence
-Concept| ses relations inférentielles| une copie mentale d'un donné
-Description| sa fonction dans une pratique| une reproduction transparente de l'objet
-Science| ses ressources théoriques et explicatives| une description ontologique ultime de tout ce qui existe
-Condition| ce qui rend une pratique possible| le critère qui la justifie
-
-Cette série ne constitue pas une reconstruction exhaustive de Sellars.
-
-Elle fournit à Protokin des points de non-conversion.
-
----
-
-10. Sellars et la quadripartition
-
-Sellars permet notamment de préciser les rapports entre deux pôles de la quadripartition.
-
-Corps peut concerner les conditions perceptives, corporelles et causales dans lesquelles une réponse devient possible.
-
-Justification concerne les conditions normatives et inférentielles dans lesquelles une description peut être défendue, contestée ou révisée.
-
-Entre les deux interviennent des relations et des fonctions qui ne peuvent être simplement supprimées.
-
-Ainsi :
-
-«Corps → Justification»
-
-n'est pas une inférence valide en tant que telle.
-
-Il faut examiner les relations et les fonctions qui permettent éventuellement à une condition corporelle de participer à une pratique justificatoire.
-
-La quadripartition ne sépare donc pas deux mondes.
-
-Elle empêche leur conversion fonctionnelle.
-
----
-
-11. Sellars et l'inférentialisme
-
-L'intérêt de Sellars pour Protokin ne réside pas seulement dans la critique du donné.
-
-Il tient également à l'idée qu'une capacité conceptuelle doit être comprise à partir de sa place dans un réseau de relations d'inférence et de justification.
-
-Dire quelque chose, reconnaître quelque chose ou appliquer un concept engage des conséquences.
-
-Une description peut ainsi être examinée non seulement selon son origine, mais selon ce qu'elle permet d'inférer, ce qu'elle exclut et ce à quoi elle rend son auteur redevable.
-
-Cela rapproche directement :
-
-«description → conséquences → redevabilité»
-
-sans transformer cette chaîne en mécanisme psychologique ou en succession ontologique.
-
----
-
-12. Limite de la filiation
-
-Protokin ne reprend pas la philosophie de Sellars comme une théorie générale des pratiques descriptives.
-
-Il ne cherche pas non plus à résoudre les débats concernant le rapport entre l'image manifeste et l'image scientifique, le statut des contenus perceptifs ou les différentes interprétations de l'inférentialisme sellarsien.
-
-La fonction de cette filiation est plus limitée.
-
-Elle permet d'éprouver une question précise :
-
-«Comment une condition causale, perceptive ou corporelle peut-elle participer à une pratique de justification sans devenir elle-même une raison ou un critère ?»
-
-Cette question permet de maintenir ensemble dépendance matérielle et discontinuité fonctionnelle.
-
----
+La question n'est donc pas de choisir entre deux images générales du monde, mais de déterminer ce que chacune permet d'établir, les limites de ses conclusions et les relations qu'une enquête peut légitimement établir entre elles.
 
 Synthèse
 
-Sellars fournit à Protokin une ressource particulièrement importante pour distinguer condition, contenu, inférence et justification.
+La tension héritée de Sellars peut être formulée ainsi : les pratiques descriptives sont matériellement réalisées, mais la validité de leurs productions ne se déduit pas de leur seule réalisation.
 
-Une expérience peut avoir des conditions causales sans constituer à elle seule une justification.
+Protokin prend cette tension comme un problème d'enquête. Il distingue les conditions de réalisation d'une pratique, les relations qu'elle mobilise, les fonctions qu'elle remplit et les critères par lesquels ses productions peuvent être justifiées ou révisées.
 
-Une trace peut avoir une histoire causale sans déterminer sa signification.
-
-Une description peut être fonctionnellement située sans être une copie transparente de son objet.
-
-Une description scientifique peut transformer notre manière d'expliquer certaines configurations sans que cette transformation constitue automatiquement une théorie ontologique ultime.
-
-Le mythe du donné permet ainsi de préciser plusieurs distinctions :
-
-«cause ≠ raison
-condition ≠ critère
-trace ≠ signification
-expérience ≠ justification
-description ≠ objet décrit»
-
-La question directrice peut être formulée ainsi :
-
-«Une condition peut rendre une pratique possible sans fournir, par elle-même, le critère qui justifie ce que cette pratique affirme.»
-
-Sellars constitue ainsi pour Protokin une ressource de distinction et d'audit, en particulier pour maintenir séparées les conditions corporelles et causales, les fonctions descriptives et les conditions de justification.
+La continuité des dépendances matérielles n'abolit pas la distinction des fonctions descriptives et des critères de justification.
