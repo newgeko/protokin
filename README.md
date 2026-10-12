@@ -1,24 +1,24 @@
 # Protokin 🧭
 
-«L’Intelligence des Stabilisations
-
-Une démarche d’enquête pragmatique, inférentielle, réflexive et non-ontologique sur les pratiques descriptives.»
+> « L’Intelligence des Stabilisations »
+>
+> Une démarche d’enquête pragmatique, inférentielle, réflexive et non ontologique sur les pratiques descriptives.
 
 ## Présentation
 
-Protokin part d’un problème simple : nous décrivons des situations, des événements, des organismes, des relations ou des pratiques, mais les descriptions que nous mobilisons ne sont pas toujours suffisantes pour les comprendre, les comparer ou les justifier.
+Protokin part d’un problème simple : nous décrivons des situations, des événements, des organismes, des relations ou des pratiques, mais les descriptions que nous mobilisons ne sont pas toujours suffisamment stables, examinables ou révisables pour soutenir une enquête rigoureuse.
 
-Une distinction peut devenir incertaine. Une catégorie peut ne plus convenir à certains cas. Plusieurs descriptions peuvent entrer en conflit. Une explication peut être confondue avec une justification, ou une description avec ce qu’elle prétend décrire.
+Une distinction peut devenir incertaine. Une catégorie peut ne plus convenir à certains cas. Plusieurs descriptions peuvent entrer en conflit. Une explication peut être confondue avec une justification. Une règle peut sembler évidente alors qu’elle dépend de conditions particulières, d’objets, de pratiques ou de fonctions qu’on n’a pas clarifiées.
 
-Ces difficultés ne demandent pas nécessairement une nouvelle théorie générale du monde. Elles demandent d’examiner comment une pratique descriptive fonctionne, sur quoi elle s’appuie, ce qu’elle permet d’établir et dans quelles conditions elle doit être révisée.
+Ces difficultés ne demandent pas nécessairement une nouvelle théorie générale du monde. Elles demandent d’examiner comment une pratique descriptive fonctionne, sur quoi elle s’appuie, ce qu’elle permet de distinguer et quelles transformations elle rend visibles ou invisibles.
 
 Protokin est une démarche d’enquête sur ces conditions de description et de révision.
 
-«Protokin enquête sur les conditions, fonctions et transformations par lesquelles des pratiques rendent certaines différences descriptibles, discutables, justifiables, stabilisables, contestables et révisables.»
+> « Protokin enquête sur les conditions, fonctions et transformations par lesquelles des pratiques rendent certaines différences descriptibles, discutables, justifiables, stabilisables, contestables et révisables. »
 
-Pourquoi Protokin ?
+## Pourquoi Protokin ?
 
-Une description ne vaut pas uniquement par sa cohérence interne. Elle doit aussi pouvoir être examinée au regard de ce qu’elle prétend décrire, des conditions dans lesquelles elle est produite et des critères selon lesquels elle peut être défendue.
+Une description ne vaut pas uniquement par sa cohérence interne. Elle doit aussi pouvoir être examinée au regard de ce qu’elle prétend décrire, des conditions dans lesquelles elle est produite, des relations qu’elle mobilise et des usages auxquels elle répond.
 
 Protokin s’intéresse notamment aux situations dans lesquelles :
 
@@ -44,13 +44,13 @@ Cette démarche distingue deux questions qui ne doivent pas être confondues :
 - ce qui se transforme dans une situation ou dans la configuration étudiée ;
 - ce qui se transforme dans les descriptions, les catégories et les critères par lesquels cette situation est comprise.
 
-Ces transformations peuvent être liées sans être identiques. Une description peut changer sans que son référent ait changé de la même manière ; une configuration peut se transformer sans que les descriptions disponibles rendent immédiatement compte de cette transformation.
+Ces transformations peuvent être liées sans être identiques. Une description peut changer sans que son référent ait changé de la même manière ; une configuration peut se transformer sans que les catégories qui la décrivent soient elles-mêmes transformées de manière équivalente.
 
 Protokin cherche à examiner ces écarts plutôt qu’à les résoudre par une opposition générale entre le réel et le langage.
 
-Il ne suppose pas non plus que toute description constitue son référent. Dans certaines situations sociales, juridiques ou institutionnelles, des pratiques descriptives et des règles peuvent toutefois contribuer à constituer un statut. La nature de cette contribution doit être établie dans chaque enquête.
+Il ne suppose pas non plus que toute description constitue son référent. Dans certaines situations sociales, juridiques ou institutionnelles, des pratiques descriptives et des règles peuvent transformer, stabiliser ou contraindre ce que l’on peut affirmer.
 
-Ce que la démarche cherche à rendre possible
+## Ce que la démarche cherche à rendre possible
 
 Protokin vise à fournir des instruments pour :
 
@@ -68,60 +68,60 @@ La démarche ne garantit pas à elle seule l’adéquation d’un résultat. Ell
 
 Protokin s’appuie sur une exigence générale :
 
-«Continuité des dépendances, discontinuité des fonctions, non-conversion.»
+> « Continuité des dépendances, discontinuité des fonctions, non-conversion. »
 
-Les éléments d’une pratique peuvent dépendre les uns des autres sans remplir la même fonction. Une condition peut rendre une pratique possible sans constituer à elle seule un critère de justification. Une cause peut contribuer à expliquer une situation sans fournir automatiquement une raison de défendre une affirmation. Une description peut contribuer à identifier un référent sans se confondre avec lui.
+Les éléments d’une pratique peuvent dépendre les uns des autres sans remplir la même fonction. Une condition peut rendre une pratique possible sans constituer à elle seule un critère de justification, ni un élément directement comparable à un autre.
 
 Il ne s’agit pas d’isoler artificiellement ces éléments, mais d’examiner les relations qui les unissent sans les assimiler.
 
 Cette exigence se résume par une maxime :
 
-Distinguer sans isoler. Articuler sans convertir.
+> Distinguer sans isoler. Articuler sans convertir.
 
-Pour le développement détaillé de ces principes, voir "Les principes" (fr/les-principes.md) et "Architecture du système" (fr/architecture-systeme.md).
+Pour le développement détaillé de ces principes, voir [Les principes](fr/les-principes.md) et [Architecture du système](fr/architecture-systeme.md).
 
 ## Entrer dans le corpus
 
-Les pages suivantes constituent les principaux points d’entrée. Elles remplissent des fonctions différentes : présenter le projet, expliciter l’organisation de l’enquête, préciser ses distinctions ou permettre de parcourir les développements.
+Les pages suivantes constituent les principaux points d’entrée. Elles remplissent des fonctions différentes : présenter le projet, expliciter l’organisation de l’enquête, préciser ses distinctions, et ouvrir des objets d’analyse.
 
 ### Comprendre la démarche
 
-- "Introduction générale" [introduction-generale.md](fr/introduction-generale.md) — entrer dans le problème auquel répond Protokin.
-- "Protokin en une phrase" [protokin-en-une-phrase.md](fr/protokin-en-une-phrase.md) — retrouver la formulation synthétique du projet.
-- "Ce que Protokin permet" (fr/ce-que-protokin-permet.md) — comprendre les usages visés par la démarche.
-- "Ce que Protokin ne prétend pas faire" (fr/ce-que-protokin-ne-pretend-pas-faire.md) — préciser son périmètre et ses limites.
-- "Statut du projet" (fr/statut-du-projet.md) — situer le statut de la démarche.
+- [Introduction générale](fr/introduction-generale.md) — entrer dans le problème auquel répond Protokin ;
+- [Protokin en une phrase](fr/protokin-en-une-phrase.md) — retrouver la formulation synthétique du projet ;
+- [Ce que Protokin permet](fr/ce-que-protokin-permet.md) — comprendre les usages visés par la démarche ;
+- [Ce que Protokin ne prétend pas faire](fr/ce-que-protokin-ne-pretend-pas-faire.md) — préciser son périmètre et ses limites ;
+- [Statut du projet](fr/statut-du-projet.md) — situer le statut de la démarche.
 
 ### Comprendre l’organisation de l’enquête
 
-- "Architecture du système" (fr/architecture-projet.md) — consulter les distinctions structurantes et les règles de contrôle.
-- "Architecture fonctionnelle de l’enquête" (fr/architecture-fonctionnelle-de-l-enquete.md) — comprendre les opérations de l’enquête et leurs fonctions transversales.
-- "Quadripartition de l’orientation" (fr/quadripartition-de-l-orientation.md) — découvrir les questions relatives à la Condition, à la Relation, à la Fonction et à la Justification.
-- "Conduire une enquête" (fr/conduire-une-enquete.md) — aborder la démarche sous un angle pratique.
-- "Table des matières du corpus" [tdm.md](fr/tdm.md) — accéder à l’ensemble des pages disponibles.
+- [Architecture du système](fr/architecture-systeme.md) — consulter les distinctions structurantes et les règles de contrôle ;
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — comprendre les opérations de l’enquête et leurs fonctions transversales ;
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — découvrir les questions relatives à la condition, à la relation, à la fonction et à la justification ;
+- [Conduire une enquête](fr/conduire-une-enquete.md) — aborder la démarche sous un angle pratique ;
+- [Table des matières du corpus](fr/tdm.md) — accéder à l’ensemble des pages disponibles.
 
 ### Explorer les principaux objets d’analyse
 
-- "Description" (fr/description.md) — examiner l’activité descriptive.
-- "Objet descriptif" (fr/objet-descriptif.md) — comprendre comment une différence devient identifiable et réutilisable dans une pratique.
-- "Référent" [referent.md](fr/referent.md) — examiner ce à quoi une description prétend se rapporter.
-- "Régime descriptif" (fr/regime-descriptif.md) — étudier les manières organisées de décrire.
-- "Prédication" [predication.md](fr/predication.md) — analyser une fonction d’attribution.
-- "Proposition" [proposition.md](fr/proposition.md) — examiner un contenu susceptible d’être affirmé, nié ou inféré.
-- "Assertion" [assertion.md](fr/assertion.md) — étudier la prise en charge d’un contenu dans une pratique.
-- "Inférence matérielle" (fr/inference-materielle.md) — examiner les conséquences qui dépendent du contenu et des relations mobilisées.
+- [Description](fr/description.md) — examiner l’activité descriptive ;
+- [Objet descriptif](fr/objet-descriptif.md) — comprendre comment une différence devient identifiable et réutilisable dans une pratique ;
+- [Référent](fr/referent.md) — examiner ce à quoi une description prétend se rapporter ;
+- [Régime descriptif](fr/regime-descriptif.md) — étudier les manières organisées de décrire ;
+- [Prédication](fr/predication.md) — analyser une fonction d’attribution ;
+- [Proposition](fr/proposition.md) — examiner un contenu susceptible d’être affirmé, nié ou inféré ;
+- [Assertion](fr/assertion.md) — étudier la prise en charge d’un contenu dans une pratique ;
+- [Inférence matérielle](fr/inference-materielle.md) — examiner les conséquences qui dépendent du contenu et des relations mobilisées.
 
 Ces pages ne forment pas une séquence obligatoire. Elles permettent d’entrer dans le corpus à partir de questions différentes.
 
-### Parcours de lecture
+## Parcours de lecture
 
 Pour une première approche, il est possible de suivre ce parcours :
 
-1. "Introduction générale" [introduction-generale.md](fr/introduction-generale.md) — comprendre le point de départ.
-2. "Architecture fonctionnelle de l’enquête" (fr/architecture-fonctionnelle-de-l-enquete.md) — saisir le mouvement général de la démarche.
-3. "Quadripartition de l’orientation" (fr/quadripartition-de-l-orientation.md) — comprendre les quatre questions directrices.
-4. "Architecture du projet" (fr/architecture-systeme.md) — approfondir les distinctions et les règles de contrôle.
-5. "Table des matières" [tdm.md](fr/tdm.md) — poursuivre selon les problèmes rencontrés.
+1. [Introduction générale](fr/introduction-generale.md) — comprendre le point de départ ;
+2. [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — saisir le mouvement général de la démarche ;
+3. [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — comprendre les quatre questions directrices ;
+4. [Architecture du système](fr/architecture-systeme.md) — approfondir les distinctions et les règles de contrôle ;
+5. [Table des matières](fr/tdm.md) — poursuivre selon les problèmes rencontrés.
 
 Ce parcours est indicatif. Une enquête peut commencer par une difficulté précise, un cas, une catégorie ou un désaccord descriptif.
 
@@ -129,7 +129,7 @@ Ce parcours est indicatif. Une enquête peut commencer par une difficulté préc
 
 Protokin est un projet en développement. Ses distinctions, ses formulations et ses instruments ne sont pas soustraits à l’examen qu’ils permettent eux-mêmes de conduire.
 
-Une règle peut être précisée, une distinction révisée ou une opération réorganisée lorsque son usage révèle une insuffisance. Cette révisabilité ne signifie pas que toutes les descriptions se valent : elle implique que les choix de l’enquête doivent pouvoir être défendus et éprouvés.
+Une règle peut être précisée, une distinction révisée ou une opération réorganisée lorsque son usage révèle une insuffisance. Cette révisabilité ne signifie pas que toutes les descriptions soient équivalentes ni que toute divergence soit immédiatement résolue. Elle signifie que les pratiques descriptives peuvent être interrogées, modifiées et réajustées à partir de leurs usages, de leurs limites et de leurs effets.
 
 L’objectif n’est pas de fermer une fois pour toutes la question de la description, mais de rendre les pratiques descriptives plus explicites, plus contrôlables et plus aptes à être reprises.
 
