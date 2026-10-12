@@ -58,7 +58,7 @@ Les conditions, les relations, les fonctions et les justifications peuvent dépe
 
 L'architecture de Protokin distingue deux plans complémentaires :
 
-- [L'architecture du système](architecture-systeme.md) explicite les distinctions, les dépendances et les règles de contrôle de l'enquête.
+- [L'architecture du projet](architecture-projet.md) explicite les distinctions, les dépendances et les règles de contrôle du projet.
 - [L'architecture fonctionnelle de l'enquête](architecture-fonctionnelle-de-l-enquete.md) organise les opérations par lesquelles un problème est délimité, ancré, distingué, relié, configuré, justifié, reconstitué et redélimité.
 
 La chaîne principale n'est pas une succession nécessaire d'étapes ni une chaîne de constitution du réel. Elle indique des déplacements possibles de l'enquête. Les opérations peuvent être reprises, révisées ou modifiées selon le problème rencontré.
