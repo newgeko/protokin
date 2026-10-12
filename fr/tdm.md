@@ -9,7 +9,7 @@ La table des matières est un instrument de navigation. Elle ne constitue ni une
 Ces pages définissent la présentation générale, les distinctions structurantes et l'organisation de l'enquête.
 
 - "README — Présentation générale de Protokin" (../README.md)
-- "Architecture du système" (architecture-systeme.md)
+- "Architecture du projet" (architecture-projet.md)
 - "Architecture fonctionnelle de l'enquête" (architecture-fonctionnelle-de-l-enquete.md)
 - "Quadripartition de l'orientation" (quadripartition-de-l-orientation.md)
 - "Enquête" (enquete.md)
