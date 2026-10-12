@@ -1,4 +1,4 @@
-Architecture du système Protokin
+Architecture du PROJET Protokin
 
 Fonction : spécifier les distinctions, les dépendances et les règles de contrôle qui permettent d'examiner la cohérence d'une enquête Protokin sans préjuger de ses résultats.
 
@@ -18,7 +18,7 @@ L'architecture ne se situe donc pas au-dessus des pratiques comme une théorie q
 
 Le corpus distingue deux fonctions.
 
-· L'architecture du système précise les distinctions de référence, la quadripartition, les non-conversions et les règles de contrôle documentaire.
+· L'architecture du projet précise les distinctions de référence, la quadripartition, les non-conversions et les règles de contrôle documentaire.
 · L'architecture fonctionnelle de l'enquête décrit les opérations par lesquelles une enquête délimite un problème, construit ses appuis, établit des distinctions, examine des relations, configure une situation et révise ses délimitations.
 
 La première aide à contrôler les opérations. La seconde décrit leur organisation dans l'enquête.
