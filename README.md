@@ -94,7 +94,7 @@ Comprendre la démarche
 
 Comprendre l’organisation de l’enquête
 
-- "Architecture du système" (fr/architecture-systeme.md) — consulter les distinctions structurantes et les règles de contrôle.
+- "Architecture du système" (fr/architecture-projet.md) — consulter les distinctions structurantes et les règles de contrôle.
 - "Architecture fonctionnelle de l’enquête" (fr/architecture-fonctionnelle-de-l-enquete.md) — comprendre les opérations de l’enquête et leurs fonctions transversales.
 - "Quadripartition de l’orientation" (fr/quadripartition-de-l-orientation.md) — découvrir les questions relatives à la Condition, à la Relation, à la Fonction et à la Justification.
 - "Conduire une enquête" (fr/conduire-une-enquete.md) — aborder la démarche sous un angle pratique.
@@ -120,7 +120,7 @@ Pour une première approche, il est possible de suivre ce parcours :
 1. "Introduction générale" (fr/introduction-generale.md) — comprendre le point de départ.
 2. "Architecture fonctionnelle de l’enquête" (fr/architecture-fonctionnelle-de-l-enquete.md) — saisir le mouvement général de la démarche.
 3. "Quadripartition de l’orientation" (fr/quadripartition-de-l-orientation.md) — comprendre les quatre questions directrices.
-4. "Architecture du système" (fr/architecture-systeme.md) — approfondir les distinctions et les règles de contrôle.
+4. "Architecture du projet" (fr/architecture-systeme.md) — approfondir les distinctions et les règles de contrôle.
 5. "Table des matières" (fr/tdm.md) — poursuivre selon les problèmes rencontrés.
 
 Ce parcours est indicatif. Une enquête peut commencer par une difficulté précise, un cas, une catégorie ou un désaccord descriptif.
