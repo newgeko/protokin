@@ -14,7 +14,7 @@ L'architecture générale peut être représentée par une chaîne principale :
 
 À cette chaîne s'ajoutent des fonctions transversales :
 
-«Temporaliser · Auditer · Réfléchir · Éprouver»
+«Temporaliser · Expliquer · Auditer · Réfléchir · Éprouver»
 
 Ces fonctions ne correspondent pas à des étapes supplémentaires. Elles peuvent intervenir à différents moments de l'enquête, selon les exigences du problème.
 
