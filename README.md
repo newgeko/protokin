@@ -86,7 +86,7 @@ Les pages suivantes constituent les principaux points d’entrée. Elles remplis
 
 Comprendre la démarche
 
-- "Introduction générale" ‘[introduction-generale.md]‘(fr/introduction-generale.md) — entrer dans le problème auquel répond Protokin.
+- "Introduction générale" [introduction-generale.md](fr/introduction-generale.md) — entrer dans le problème auquel répond Protokin.
 - "Protokin en une phrase" (fr/protokin-en-une-phrase.md) — retrouver la formulation synthétique du projet.
 - "Ce que Protokin permet" (fr/ce-que-protokin-permet.md) — comprendre les usages visés par la démarche.
 - "Ce que Protokin ne prétend pas faire" (fr/ce-que-protokin-ne-pretend-pas-faire.md) — préciser son périmètre et ses limites.
@@ -117,7 +117,7 @@ Ces pages ne forment pas une séquence obligatoire. Elles permettent d’entrer 
 
 Pour une première approche, il est possible de suivre ce parcours :
 
-1. "Introduction générale" (fr/introduction-generale.md) — comprendre le point de départ.
+1. "Introduction générale" [introduction-generale.md](fr/introduction-generale.md) — comprendre le point de départ.
 2. "Architecture fonctionnelle de l’enquête" (fr/architecture-fonctionnelle-de-l-enquete.md) — saisir le mouvement général de la démarche.
 3. "Quadripartition de l’orientation" (fr/quadripartition-de-l-orientation.md) — comprendre les quatre questions directrices.
 4. "Architecture du projet" (fr/architecture-systeme.md) — approfondir les distinctions et les règles de contrôle.
