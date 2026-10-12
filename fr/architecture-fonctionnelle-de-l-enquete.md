@@ -1,33 +1,31 @@
-Architecture fonctionnelle générale de l'enquête
+# Architecture fonctionnelle générale de l'enquête
 
-Fonction
+> Fonction : organiser les déplacements de l'enquête et préciser les opérations qui peuvent être mobilisées lorsqu'un problème rencontre une pratique descriptive.
 
-L'architecture fonctionnelle organise les déplacements de l'enquête.
-
-Elle indique quelles opérations peuvent être mobilisées lorsqu'un problème rencontre une pratique descriptive et que cette pratique doit être examinée, articulée, éprouvée ou reprise.
+L'architecture fonctionnelle indique quelles opérations peuvent être mobilisées lorsqu'un problème rencontre une pratique descriptive et que cette pratique doit être examinée, articulée, éprouvée ou reprise.
 
 Elle ne décrit ni la constitution d'un objet, ni les niveaux du réel, ni une succession nécessaire d'états.
 
-L'architecture générale peut être représentée par une chaîne principale :
+La structure générale peut être représentée par la chaîne principale :
 
-«Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter»
+> Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter
 
 À cette chaîne s'ajoutent des fonctions transversales :
 
-«Temporaliser · Expliquer · Auditer · Réfléchir · Éprouver»
+> Temporaliser · Expliquer · Auditer · Réfléchir · Éprouver
 
 Ces fonctions ne correspondent pas à des étapes supplémentaires. Elles peuvent intervenir à différents moments de l'enquête, selon les exigences du problème.
 
 La distinction est donc la suivante :
 
-«chaîne principale = déplacements structurants de l'enquête
-fonctions transversales = opérations susceptibles de traverser ces déplacements»
+> Chaîne principale = déplacements structurants de l'enquête  
+> Fonctions transversales = opérations susceptibles de traverser ces déplacements
 
 La chaîne de Protokin est ainsi une chaîne d'enquête, non une chaîne de constitution.
 
 ---
 
-1. Le problème avant la procédure
+## 1. Le problème avant la procédure
 
 Protokin ne commence pas par une ontologie générale ni par un ensemble de catégories posées a priori.
 
@@ -53,11 +51,11 @@ La première fonction de l'architecture est donc de rendre le problème enquêta
 
 ---
 
-2. La chaîne principale
+## 2. La chaîne principale
 
 La chaîne principale rassemble les opérations qui structurent le déplacement général de l'enquête :
 
-«Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter»
+> Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter
 
 Cette chaîne donne une orientation sans imposer un protocole.
 
@@ -67,19 +65,17 @@ Les flèches indiquent des possibilités de déplacement et de dépendance, non 
 
 Ainsi :
 
-«une condition peut être examinée avant une relation sans constituer cette relation ;»
-
-«une relation peut être examinée avant une fonction sans produire cette fonction ;»
-
-«une fonction peut être examinée avant sa justification sans produire cette justification.»
+- une condition peut être examinée avant une relation sans constituer cette relation ;
+- une relation peut être examinée avant une fonction sans produire cette fonction ;
+- une fonction peut être examinée avant sa justification sans produire cette justification.
 
 L'ordre de la chaîne organise donc les questions et opérations de l'enquête, non les niveaux du réel.
 
 ---
 
-3. Délimiter
+## 3. Délimiter
 
-Fonction
+### Fonction
 
 Déterminer ce qui fait problème et préciser le périmètre dans lequel l'enquête peut porter.
 
@@ -94,7 +90,7 @@ Délimiter consiste à identifier :
 
 La délimitation ne résout pas le problème.
 
-«Délimiter ne signifie pas résoudre : cela signifie rendre le problème enquêtable.»
+> Délimiter ne signifie pas résoudre : cela signifie rendre le problème enquêtable.
 
 Le périmètre ainsi établi reste révisable.
 
@@ -102,9 +98,9 @@ Une enquête peut montrer que le problème avait été trop largement ou trop é
 
 ---
 
-4. Ancrer
+## 4. Ancrer
 
-Fonction
+### Fonction
 
 Identifier les conditions matérielles, corporelles et environnementales pertinentes pour le problème étudié.
 
@@ -123,15 +119,15 @@ L'ancrage empêche de reconstruire une pratique comme indépendante de ses condi
 
 Il n'autorise toutefois pas à réduire la pratique à ces conditions.
 
-«Condition matérielle ≠ fonction ≠ justification.»
+> Condition matérielle ≠ fonction ≠ justification.
 
 L'ancrage établit des dépendances pertinentes ; il n'établit pas à lui seul leur fonction descriptive ni leur justification.
 
 ---
 
-5. Distinguer
+## 5. Distinguer
 
-Fonction
+### Fonction
 
 Maintenir les différences nécessaires au traitement du problème.
 
@@ -151,7 +147,7 @@ La distinction peut porter sur :
 
 Le principe directeur est :
 
-«Distinguer sans isoler.»
+> Distinguer sans isoler.
 
 Distinguer permet ainsi de préparer l'articulation sans confondre les fonctions.
 
@@ -159,9 +155,9 @@ Cette opération est directement liée au principe de non-conversion.
 
 ---
 
-6. Relier
+## 6. Relier
 
-Fonction
+### Fonction
 
 Examiner les relations et les dépendances entre les éléments distingués sans les convertir les uns dans les autres.
 
@@ -176,21 +172,21 @@ Relier permet d'examiner :
 
 Une relation peut modifier les possibilités d'une configuration sans devenir une propriété intrinsèque de chacun de ses éléments.
 
-«La relation n'est pas simplement une propriété physique de la chose.»
+> La relation n'est pas simplement une propriété physique de la chose.
 
 Relier ne signifie donc ni fusionner ni réduire.
 
 Il faut notamment maintenir :
 
-«relation ≠ fonction
-relation ≠ propriété intrinsèque
-relation sémantique ≠ référence»
+- relation ≠ fonction;
+- relation ≠ propriété intrinsèque;
+- relation sémantique ≠ référence.
 
 ---
 
-7. Configurer
+## 7. Configurer
 
-Fonction
+### Fonction
 
 Examiner comment une différence devient identifiable, réutilisable et opératoire dans une pratique descriptive.
 
@@ -205,7 +201,7 @@ Configurer permet d'examiner :
 
 Un objet descriptif peut être compris comme :
 
-«une différence stabilisée comme identifiable et réutilisable dans une pratique descriptive.»
+> une différence stabilisée comme identifiable et réutilisable dans une pratique descriptive.
 
 Cette formulation ne constitue pas une théorie ontologique de la constitution des objets.
 
@@ -213,15 +209,15 @@ Elle permet de suivre les conditions dans lesquelles une différence devient dis
 
 Décrire une configuration n'est donc pas la constituer.
 
-«Description ≠ objet décrit.»
+> Description ≠ objet décrit.
 
-Une configuration peut être matérielle, biologique, événementielle, relationnelle ou représentationnelle sans que sa catégorie descriptive soit déterminée indépendamment de la pratique dans laquelle elle est examinée.
+Une configuration peut être matérielle, biologique, événementielle, relationnelle ou représentationnelle sans que sa catégorie descriptive soit déterminée indépendamment de la pratique descriptive.
 
 ---
 
-8. Justifier
+## 8. Justifier
 
-Fonction
+### Fonction
 
 Examiner selon quels critères une description ou une pratique peut être défendue, contestée, corrigée ou révisée.
 
@@ -239,11 +235,11 @@ La justification peut mobiliser :
 
 Justifier ne consiste pas à expliquer causalement l'apparition d'une description.
 
-«Cause ≠ raison.»
+> Cause ≠ raison.
 
 De même :
 
-«Genèse ≠ justification.»
+> Genèse ≠ justification.
 
 Une description peut avoir une histoire, des conditions matérielles et des effets sans que ceux-ci constituent par eux-mêmes les critères qui la justifient.
 
@@ -251,9 +247,9 @@ La justification porte sur les raisons et critères permettant de défendre, con
 
 ---
 
-9. Reconstituer
+## 9. Reconstituer
 
-Fonction
+### Fonction
 
 Reconstruire la configuration du problème après que les distinctions, relations, fonctions et critères pertinents ont été examinés.
 
@@ -271,15 +267,15 @@ La reconstitution peut conduire à :
 - la modification de sa fonction ;
 - l'abandon d'une distinction.
 
-«Reconstituer ne consiste pas à annuler les distinctions de l'analyse, mais à construire une configuration dans laquelle elles peuvent fonctionner ensemble sans être converties.»
+> Reconstituer ne consiste pas à annuler les distinctions de l'analyse, mais à construire une configuration dans laquelle elles peuvent fonctionner ensemble sans être converties.
 
 La reconstitution correspond ainsi au moment où l'enquête peut tenter de reconstruire le problème à partir de ce qu'elle a établi.
 
 ---
 
-10. Redélimiter
+## 10. Redélimiter
 
-Fonction
+### Fonction
 
 Réexaminer les frontières initiales du problème à partir de ce que l'enquête a rendu visible.
 
@@ -297,15 +293,15 @@ Elle constitue une reprise transformée du problème.
 
 La chaîne peut ainsi recommencer sur une base différente :
 
-«Redélimiter → nouveau problème → nouvelle enquête»
+> Redélimiter → nouveau problème → nouvelle enquête
 
 La clôture d'une enquête est donc relative.
 
-«Une enquête s'arrête lorsqu'une reconstruction suffisante est atteinte, non lorsque tout est expliqué.»
+> Une enquête s'arrête lorsqu'une reconstruction suffisante est atteinte, non lorsque tout est expliqué.
 
 ---
 
-11. Les fonctions transversales
+## 11. Les fonctions transversales
 
 Certaines opérations ne doivent pas être placées comme des étapes successives de la chaîne principale.
 
@@ -313,15 +309,13 @@ Elles peuvent intervenir partout où le problème les rend nécessaires.
 
 Les quatre principales sont :
 
-«Temporaliser · Auditer · Réfléchir · Éprouver»
+> Temporaliser · Auditer · Réfléchir · Éprouver
 
 Cette distinction évite de transformer des opérations transversales en étapes artificiellement linéaires.
 
----
+### 11.1. Temporaliser
 
-11.1 Temporaliser
-
-Fonction
+#### Fonction
 
 Examiner comment les configurations, relations, fonctions et justifications se transforment et se distribuent dans le temps.
 
@@ -346,21 +340,17 @@ Elle ne constitue donc pas une cinquième dimension de la quadripartition.
 
 La temporalisation permet notamment de distinguer :
 
-«Transformation — qu'est-ce qui est modifié ?»
-
-«Transition — comment des configurations se succèdent-elles ?»
-
-«Trajectoire — quelle succession temporelle peut-on reconstruire ?»
-
-«Allure — selon quel rythme cette succession se distribue-t-elle ?»
-
-«Distance — quel écart décrit-on entre les configurations ?»
+- Transformation — qu'est-ce qui est modifié ?
+- Transition — comment des configurations se succèdent-elles ?
+- Trajectoire — quelle succession temporelle peut-on reconstruire ?
+- Allure — selon quel rythme cette succession se distribue-t-elle ?
+- Distance — quel écart décrit-on entre les configurations ?
 
 ---
 
-12. Auditer
+## 12. Auditer
 
-Fonction
+### Fonction
 
 Examiner les conditions de fonctionnement de l'analyse elle-même et repérer les conversions ou réductions indues.
 
@@ -375,31 +365,24 @@ L'audit vérifie notamment :
 
 L'audit permet notamment de repérer :
 
-«condition → critère»
-
-«cause → raison»
-
-«trace → signification»
-
-«fonction → propriété»
-
-«capacité → performance»
-
-«description → objet décrit»
-
-«incarnation → réduction biologique»
-
-«contexte → constitution du référent»
+- condition → critère ;
+- cause → raison ;
+- trace → signification ;
+- fonction → propriété ;
+- capacité → performance ;
+- description → objet décrit ;
+- incarnation → réduction biologique ;
+- contexte → constitution du référent.
 
 L'audit n'est pas un tribunal extérieur à l'enquête.
 
-«Auditer, c'est examiner les conditions de fonctionnement de l'analyse elle-même.»
+> Auditer, c'est examiner les conditions de fonctionnement de l'analyse elle-même.
 
 ---
 
-13. Réfléchir
+## 13. Réfléchir
 
-Fonction
+### Fonction
 
 Appliquer les opérations de l'enquête à leurs propres conditions de fonctionnement.
 
@@ -416,7 +399,7 @@ Protokin doit donc pouvoir examiner :
 
 La réflexivité ne constitue pas un niveau supérieur.
 
-«La réflexivité est une fonction transversale de l'enquête, non une cinquième dimension du réel.»
+> La réflexivité est une fonction transversale de l'enquête, non une cinquième dimension du réel.
 
 Le second ordre ne désigne donc pas un étage situé au-dessus du premier.
 
@@ -424,9 +407,9 @@ Il désigne la reprise de l'enquête sur les conditions dans lesquelles ses prop
 
 ---
 
-14. Éprouver
+## 14. Éprouver
 
-Fonction
+### Fonction
 
 Confronter les distinctions produites par l'enquête aux situations dans lesquelles elles prétendent être pertinentes.
 
@@ -443,7 +426,7 @@ L'épreuve n'est donc pas une simple illustration de concepts déjà établis.
 
 Elle peut modifier les distinctions elles-mêmes.
 
-«Une distinction qui ne permet plus de traiter le problème doit pouvoir être reprise.»
+> Une distinction qui ne permet plus de traiter le problème doit pouvoir être reprise.
 
 L'épreuve peut intervenir avant, pendant ou après la reconstitution.
 
@@ -451,16 +434,16 @@ Elle peut également provoquer une nouvelle délimitation.
 
 ---
 
-15. La quadripartition dans l'architecture
+## 15. La quadripartition dans l'architecture
 
 La quadripartition ne constitue pas une étape supplémentaire.
 
 Elle fournit une orientation minimale pour les questions auxquelles les opérations de l'enquête doivent pouvoir répondre :
 
-«Condition — dans quelles conditions ?
-Relation — sous quelles relations ?
-Fonction — que fait cette configuration dans la pratique ?
-Justification — selon quels critères peut-elle être défendue, contestée ou révisée ?»
+> Condition — dans quelles conditions ?  
+> Relation — sous quelles relations ?  
+> Fonction — que fait cette configuration dans la pratique ?  
+> Justification — selon quels critères peut-elle être défendue, contestée ou révisée ?
 
 Les quatre termes ne désignent pas quatre dimensions préexistantes de la réalité.
 
@@ -476,17 +459,16 @@ Elle peut être reconfigurée lorsque l'enquête montre qu'une distinction étai
 
 La relation entre architecture et quadripartition peut donc être formulée ainsi :
 
-«Architecture fonctionnelle = déplacement de l'enquête.»
-
-«Quadripartition = orientation des questions dans ce déplacement.»
+> Architecture fonctionnelle = déplacement de l'enquête.  
+> Quadripartition = orientation des questions dans ce déplacement.
 
 ---
 
-16. Le principe de non-conversion
+## 16. Le principe de non-conversion
 
 L'ensemble de l'architecture repose sur une exigence générale :
 
-«Continuité des dépendances + discontinuité des fonctions + non-conversion.»
+> Continuité des dépendances + discontinuité des fonctions + non-conversion.
 
 Les différents éléments d'une pratique peuvent être fortement dépendants sans devenir convertibles les uns dans les autres.
 
@@ -502,27 +484,18 @@ Une transformation de la pratique peut à son tour modifier les conditions maté
 
 Mais aucune de ces dépendances ne permet d'écrire :
 
-«condition = fonction»
-
-ou :
-
-«cause = raison»
-
-ou :
-
-«fonction = justification»
-
-ou :
-
-«description = objet décrit»
+- condition = fonction ;
+- cause = raison ;
+- fonction = justification ;
+- description = objet décrit.
 
 La continuité des dépendances n'abolit donc pas la discontinuité des fonctions.
 
-«Distinguer sans isoler. Articuler sans convertir.»
+> Distinguer sans isoler. Articuler sans convertir.
 
 ---
 
-17. Une architecture ouverte
+## 17. Une architecture ouverte
 
 L'architecture fonctionnelle n'est pas un système clos.
 
@@ -544,17 +517,17 @@ L'architecture doit donc être :
 - suffisamment ouverte pour permettre une révision ;
 - suffisamment sobre pour ne pas transformer chaque distinction en nouvelle catégorie fondamentale.
 
-«La rigueur ne consiste pas seulement à savoir quoi ajouter. Elle consiste aussi à savoir où ne pas ajouter.»
+> La rigueur ne consiste pas seulement à savoir quoi ajouter. Elle consiste aussi à savoir où ne pas ajouter.
 
 ---
 
-18. Lorsque le problème semble résolu
+## 18. Lorsque le problème semble résolu
 
 Une enquête n'a pas nécessairement besoin de maintenir explicitement toute l'architecture jusqu'à sa clôture.
 
-Lorsque les distinctions pertinentes sont stabilisées, les dépendances établies et les conversions contrôlées, la quadripartition et les opérations peuvent progressivement se fondre dans un réseau d'inférences propre au problème traité.
+Lorsque les distinctions pertinentes sont stabilisées, les dépendances établies et les conversions contrôlées, la quadripartition et les opérations peuvent progressivement se fondre dans une configuration de travail plus intégrée.
 
-Cela ne signifie pas que l'architecture disparaît.
+Cela ne signifie pas que l'architecture disparaisse.
 
 Elle devient moins visible parce que ses fonctions sont désormais intégrées dans la configuration reconstruite.
 
@@ -575,7 +548,7 @@ L'architecture est donc à la fois instrument de construction et instrument de r
 
 ---
 
-19. Règle de construction des pages
+## 19. Règle de construction des pages
 
 L'architecture fonctionnelle fournit également une règle de construction des pages conceptuelles.
 
@@ -597,7 +570,7 @@ Elle accomplit une fonction déterminée dans l'architecture générale.
 
 ---
 
-20. Ce que l'architecture établit
+## 20. Ce que l'architecture établit
 
 L'architecture fonctionnelle établit :
 
@@ -613,7 +586,7 @@ Elle permet ainsi d'examiner une pratique descriptive sans transformer son analy
 
 ---
 
-21. Ce que l'architecture n'établit pas
+## 21. Ce que l'architecture n'établit pas
 
 L'architecture fonctionnelle n'établit pas :
 
@@ -633,21 +606,21 @@ Certaines opérations peuvent rester marginales, être reprises plusieurs fois o
 
 ---
 
-Synthèse
+## Synthèse
 
 L'architecture fonctionnelle de Protokin organise les déplacements d'une enquête déclenchée par un problème descriptif.
 
 Sa chaîne principale est :
 
-«Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter»
+> Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter
 
 Ses fonctions transversales sont :
 
-«Temporaliser · Auditer · Réfléchir · Éprouver»
+> Temporaliser · Auditer · Réfléchir · Éprouver
 
 La quadripartition :
 
-«Condition · Relation · Fonction · Justification»
+> Condition · Relation · Fonction · Justification
 
 n'est pas une étape de la chaîne.
 
@@ -660,14 +633,21 @@ Les fonctions transversales peuvent intervenir à tout moment.
 La quadripartition elle-même peut être reconfigurée.
 
 Lorsque le problème semble suffisamment résolu, les distinctions peuvent se fondre dans un réseau d'inférences. Lorsqu'un nouveau problème apparaît, l'architecture peut être réactivée.
+
 L'architecture fonctionnelle n'est donc pas une machine qui conduit nécessairement d'un point à un autre.
 
 Elle constitue un dispositif de déplacement, de distinction, d'articulation, d'épreuve et de reprise.
 
 Son principe directeur reste :
-Continuité des dépendances.
-Discontinuité des fonctions.
-Non-conversion.
+
+- continuité des dépendances ;
+- discontinuité des fonctions ;
+- non-conversion.
 
 Et sa règle méthodologique :
-Distinguer sans isoler. Articuler sans convertir.
+
+> Distinguer sans isoler. Articuler sans convertir.
+
+---
+
+Pour aller plus loin : [Architecture du projet](architecture-projet.md), [Quadripartition de l'orientation](quadripartition-de-l-orientation.md), [Prédication](predication.md), [Proposition](proposition.md), [Assertion](assertion.md), [Table des matières](tdm.md).
