@@ -84,7 +84,7 @@ Pour le développement détaillé de ces principes, voir "Les principes" (fr/les
 
 Les pages suivantes constituent les principaux points d’entrée. Elles remplissent des fonctions différentes : présenter le projet, expliciter l’organisation de l’enquête, préciser ses distinctions ou permettre de parcourir les développements.
 
-Comprendre la démarche
+### Comprendre la démarche
 
 - "Introduction générale" [introduction-generale.md](fr/introduction-generale.md) — entrer dans le problème auquel répond Protokin.
 - "Protokin en une phrase" [protokin-en-une-phrase.md](fr/protokin-en-une-phrase.md) — retrouver la formulation synthétique du projet.
@@ -92,15 +92,15 @@ Comprendre la démarche
 - "Ce que Protokin ne prétend pas faire" (fr/ce-que-protokin-ne-pretend-pas-faire.md) — préciser son périmètre et ses limites.
 - "Statut du projet" (fr/statut-du-projet.md) — situer le statut de la démarche.
 
-Comprendre l’organisation de l’enquête
+### Comprendre l’organisation de l’enquête
 
 - "Architecture du système" (fr/architecture-projet.md) — consulter les distinctions structurantes et les règles de contrôle.
 - "Architecture fonctionnelle de l’enquête" (fr/architecture-fonctionnelle-de-l-enquete.md) — comprendre les opérations de l’enquête et leurs fonctions transversales.
 - "Quadripartition de l’orientation" (fr/quadripartition-de-l-orientation.md) — découvrir les questions relatives à la Condition, à la Relation, à la Fonction et à la Justification.
 - "Conduire une enquête" (fr/conduire-une-enquete.md) — aborder la démarche sous un angle pratique.
-- "Table des matières du corpus" (fr/tdm.md) — accéder à l’ensemble des pages disponibles.
+- "Table des matières du corpus" [tdm.md](fr/tdm.md) — accéder à l’ensemble des pages disponibles.
 
-Explorer les principaux objets d’analyse
+### Explorer les principaux objets d’analyse
 
 - "Description" (fr/description.md) — examiner l’activité descriptive.
 - "Objet descriptif" (fr/objet-descriptif.md) — comprendre comment une différence devient identifiable et réutilisable dans une pratique.
@@ -113,7 +113,7 @@ Explorer les principaux objets d’analyse
 
 Ces pages ne forment pas une séquence obligatoire. Elles permettent d’entrer dans le corpus à partir de questions différentes.
 
-## Parcours de lecture
+### Parcours de lecture
 
 Pour une première approche, il est possible de suivre ce parcours :
 
@@ -121,11 +121,11 @@ Pour une première approche, il est possible de suivre ce parcours :
 2. "Architecture fonctionnelle de l’enquête" (fr/architecture-fonctionnelle-de-l-enquete.md) — saisir le mouvement général de la démarche.
 3. "Quadripartition de l’orientation" (fr/quadripartition-de-l-orientation.md) — comprendre les quatre questions directrices.
 4. "Architecture du projet" (fr/architecture-systeme.md) — approfondir les distinctions et les règles de contrôle.
-5. "Table des matières" (fr/tdm.md) — poursuivre selon les problèmes rencontrés.
+5. "Table des matières" [tdm.md](fr/tdm.md) — poursuivre selon les problèmes rencontrés.
 
 Ce parcours est indicatif. Une enquête peut commencer par une difficulté précise, un cas, une catégorie ou un désaccord descriptif.
 
-Portée et révisabilité
+## Portée et révisabilité
 
 Protokin est un projet en développement. Ses distinctions, ses formulations et ses instruments ne sont pas soustraits à l’examen qu’ils permettent eux-mêmes de conduire.
 
