@@ -86,7 +86,7 @@ Les pages suivantes constituent les principaux points d’entrée. Elles remplis
 
 Comprendre la démarche
 
-- "Introduction générale" (fr/introduction-generale.md) — entrer dans le problème auquel répond Protokin.
+- "Introduction générale" [’introduction-generale.md’](fr/introduction-generale.md) — entrer dans le problème auquel répond Protokin.
 - "Protokin en une phrase" (fr/protokin-en-une-phrase.md) — retrouver la formulation synthétique du projet.
 - "Ce que Protokin permet" (fr/ce-que-protokin-permet.md) — comprendre les usages visés par la démarche.
 - "Ce que Protokin ne prétend pas faire" (fr/ce-que-protokin-ne-pretend-pas-faire.md) — préciser son périmètre et ses limites.
