@@ -1,239 +1,120 @@
-# Page : introduction-generale.md
+Introduction générale
 
-Introduction générale à Protokin
+Pourquoi Protokin ?
 
-Une démarche d'enquête sur les pratiques descriptives
+Nous décrivons des situations, des événements, des organismes, des relations et des pratiques. Nous comparons des cas, utilisons des catégories, expliquons des transformations et justifions des affirmations.
 
-Protokin est une démarche d'enquête pragmatiste, inférentialiste, réflexive et non-ontologique sur les pratiques descriptives.
+La plupart du temps, ces opérations peuvent être poursuivies sans que nous ayons à examiner en détail leur fonctionnement. Les distinctions disponibles paraissent suffisantes, les catégories restent utilisables et les critères appliqués ne suscitent pas de difficulté particulière.
 
-Il ne s'agit pas d'une théorie supplémentaire destinée à décrire le monde depuis un point de vue extérieur.
+Mais il arrive que cette organisation ne suffise plus.
 
-Protokin part d'une question plus en amont :
+Une distinction ne permet plus de différencier les cas rencontrés. Une catégorie s'applique mal à une situation nouvelle. Deux descriptions d'une même situation deviennent incompatibles. Une explication paraît convaincante sans justifier la conclusion qu'on en tire. Une description demeure cohérente, mais son adéquation à ce qu'elle prétend décrire devient contestable.
 
-«Comment des pratiques rendent-elles des différences descriptibles, discutables, justifiables, stabilisables, contestables et transformables ?»
+Le problème ne consiste alors pas toujours à trouver une meilleure formulation. Il peut être nécessaire d'examiner les distinctions mobilisées, les relations établies, les fonctions exercées et les critères selon lesquels les descriptions sont défendues ou révisées.
 
-L'enquête porte donc sur les conditions dans lesquelles des descriptions peuvent fonctionner, sur les distinctions qu'elles mobilisent, sur les fonctions qu'elles accomplissent et sur les transformations auxquelles elles sont exposées.
+Protokin part de ce moment où les moyens disponibles pour décrire une situation ne suffisent plus à traiter le problème rencontré.
 
----
+Il propose une démarche d'enquête pour rendre cette difficulté explicite et examiner les conditions dans lesquelles une description peut être maintenue, contestée ou transformée.
 
-1. Le point de départ : une situation d'enquête
+1. Quand une description devient problématique
 
-Protokin ne commence pas par une ontologie.
+Considérons un arbre.
 
-Il commence par une situation dans laquelle une distinction, une description ou une manière de qualifier quelque chose devient problématique.
+Un botaniste peut le décrire selon son espèce, son développement et son état biologique. Un bûcheron peut examiner sa structure, sa résistance et les conditions de son abattage. Un propriétaire peut s'intéresser aux dommages que ses branches risquent de provoquer.
 
-Une description peut fonctionner dans une pratique puis devenir insuffisante, contestée ou incompatible avec d'autres descriptions.
+Ces descriptions peuvent porter sur le même arbre sans répondre aux mêmes questions. Elles ne sélectionnent pas les mêmes différences, ne mobilisent pas les mêmes relations et ne remplissent pas les mêmes fonctions.
 
-Une explication peut être confondue avec une justification.
+Cette diversité ne constitue pas nécessairement un désaccord. Elle devient problématique lorsque les descriptions prétendent répondre à une même question sans disposer de critères permettant de déterminer leur compatibilité, leur portée ou leurs limites.
 
-Une cause peut être prise pour une raison.
+La difficulté peut aussi apparaître lorsque la situation change. Si l'arbre se met à pencher au-dessus d'une habitation, son état biologique, sa stabilité et le risque qu'il représente peuvent devenir des aspects conjointement pertinents. Une description antérieure peut alors rester correcte dans son domaine tout en étant insuffisante pour traiter le nouveau problème.
 
-Une stabilisation peut être assimilée à une immobilité.
+Il faut donc distinguer plusieurs questions :
 
-Une description peut être traitée comme si elle était identique à ce qu'elle décrit.
+- De quoi parle-t-on ?
+- Quelles différences sont pertinentes pour la question examinée ?
+- Quelles relations faut-il prendre en compte ?
+- Que permet d'accomplir la description dans la pratique considérée ?
+- Selon quels critères peut-on défendre la description et les conclusions qu'on en tire ?
 
-L'enquête commence lorsque ces confusions deviennent suffisamment problématiques pour nécessiter une reconstruction.
+Ces questions sont liées, mais elles ne sont pas équivalentes.
 
-Il ne s'agit alors pas simplement de produire une nouvelle description.
+Une description biologique ne constitue pas, à elle seule, une évaluation du risque. Une fonction pratique ne suffit pas à justifier une conclusion. Une transformation de la situation ne détermine pas automatiquement la description qu'il convient d'en produire.
 
-Il faut déterminer :
+Le problème apparaît lorsque ces différences fonctionnelles ne sont pas maintenues, ou lorsque les ressources descriptives disponibles ne permettent plus de traiter suffisamment la situation.
 
-- quelles distinctions sont effectivement mobilisées ;
-- dans quelles conditions elles peuvent fonctionner ;
-- quelles fonctions elles accomplissent ;
-- selon quels critères elles peuvent être discutées ;
-- comment elles peuvent être stabilisées ou transformées ;
-- quelles confusions doivent être empêchées pour maintenir leur différence fonctionnelle.
+2. Enquêter plutôt que poser une théorie générale
 
-Protokin est ainsi une pratique de reconstruction des conditions d'une description.
+Protokin ne commence pas par une ontologie qui déterminerait à l'avance ce que sont les choses et la manière dont elles devraient être décrites.
 
----
+Il commence par une difficulté rencontrée dans une pratique.
 
-2. Enquêter plutôt que fonder
+Cette difficulté peut concerner une distinction, une catégorie, une relation, une fonction, une justification ou leur articulation. Elle peut également provenir d'une transformation matérielle, d'un changement de contexte ou de la rencontre entre plusieurs pratiques descriptives.
 
-Protokin ne cherche pas à établir un fondement ontologique ultime à partir duquel toutes les descriptions pourraient être dérivées.
+Le point de départ est donc un problème déterminé, et non l'application systématique d'un ensemble de catégories préétablies.
 
-Il ne cherche pas davantage à produire une description définitive de la réalité.
+L'enquête cherche à préciser :
 
-L'enquête procède autrement.
+- ce qui fait problème ;
+- dans quelles conditions la difficulté apparaît ;
+- quelles distinctions sont mobilisées ;
+- quelles relations et quelles fonctions sont en jeu ;
+- quelles raisons et quels critères soutiennent les descriptions ;
+- ce qui doit être conservé, révisé ou abandonné.
 
-Elle examine les pratiques dans lesquelles des distinctions deviennent opératoires et demande ce qui permet à ces distinctions de fonctionner.
+Cette démarche ne garantit pas qu'une solution définitive sera trouvée. Elle permet de reconstruire le problème de manière à rendre les réponses proposées plus explicites et plus contrôlables.
 
-La question n'est donc pas :
+La question directrice n'est donc pas seulement : « Quelle description faut-il retenir ? »
 
-«Quelle est la description vraie qui doit remplacer toutes les autres ?»
+Elle est aussi : « Quelles opérations et quels critères permettent de retenir, de contester ou de réviser cette description ? »
 
-mais :
+3. Les pratiques descriptives comme objet d'enquête
 
-«Dans quelles conditions une description fonctionne-t-elle, quelle fonction accomplit-elle et comment peut-elle être discutée ou transformée ?»
+Une pratique descriptive ne consiste pas uniquement à associer des mots à des choses.
 
-Cela ne signifie pas que toutes les descriptions se valent.
+Elle mobilise des distinctions, des catégories, des relations, des instruments et des critères. Elle permet d'identifier des différences, de comparer des situations, de tirer des conséquences, de coordonner des actions et de soutenir des affirmations.
 
-Une description peut être mieux établie qu'une autre, mieux justifiée, plus opératoire, plus résistante à la contestation ou plus adaptée à une fonction déterminée.
+Certaines différences deviennent ainsi suffisamment stabilisées pour être identifiées, reprises et utilisées dans une pratique. Cette stabilisation ne signifie pas que la situation reste immobile ni que la description devient définitive.
 
-Mais ces différences doivent être enquêtées.
+Protokin examine les conditions et les opérations par lesquelles ces différences deviennent descriptivement disponibles, ainsi que les fonctions qu'elles remplissent et les transformations auxquelles elles sont soumises.
 
-Elles ne peuvent pas être déduites d'une position ontologique générale.
+Il s'intéresse notamment aux situations dans lesquelles plusieurs descriptions coexistent, se complètent, se contredisent ou deviennent insuffisantes. Il cherche à déterminer ce qui distingue leurs fonctions, leurs conditions d'application et leurs critères de justification, sans présumer qu'elles sont équivalentes ni qu'une seule description doit nécessairement remplacer toutes les autres.
 
----
+L'objet de l'enquête n'est donc pas seulement une description isolée. Il comprend aussi les pratiques dans lesquelles elle fonctionne, les dépendances qui la rendent possible et les conditions dans lesquelles elle peut être reprise.
 
-3. Les pratiques descriptives
+4. Distinguer la description de ce qu'elle décrit
 
-Une pratique descriptive est une pratique dans laquelle certaines différences deviennent pertinentes sous une forme déterminée.
+Une difficulté récurrente consiste à confondre les opérations descriptives avec la situation à laquelle elles se rapportent.
 
-Décrire n'est pas simplement enregistrer une réalité déjà découpée selon les mêmes distinctions.
+Une description peut changer alors que son référent ne change pas de la même manière. Inversement, une situation peut se transformer sans que les descriptions disponibles rendent immédiatement compte de cette transformation.
 
-Une pratique sélectionne, distingue, relie, compare, classe, mesure, qualifie, nomme, explique ou justifie.
+Il faut donc distinguer :
 
-Elle produit ainsi un espace dans lequel certaines différences deviennent utilisables.
+- la situation ou la configuration étudiée ;
+- les différences retenues pour la décrire ;
+- la description produite dans une pratique ;
+- les critères selon lesquels cette description est évaluée.
 
-Une même configuration peut donc être décrite de plusieurs manières.
+Cette distinction ne signifie pas que les descriptions seraient indépendantes de leurs conditions matérielles, de leurs supports ou de leurs usages. Elle ne signifie pas davantage que les pratiques descriptives ne peuvent jamais contribuer à transformer ce qu'elles décrivent.
 
-Ces descriptions ne sont pas nécessairement équivalentes.
+Dans certaines situations sociales, juridiques ou institutionnelles, des règles et des pratiques contribuent effectivement à constituer des statuts ou des relations. Mais cette contribution doit être examinée selon le cas ; elle ne peut être généralisée à toute description.
 
-Elles peuvent avoir :
+Protokin ne présuppose donc ni que le référent serait immédiatement donné, indépendamment de toute médiation, ni que toute description constituerait son référent.
 
-- des fonctions différentes ;
-- des critères différents ;
-- des conditions d'application différentes ;
-- des formes de justification différentes ;
-- des possibilités de révision différentes.
+Il examine les relations entre les situations décrites, les pratiques qui les rendent descriptibles et les critères permettant d'évaluer les descriptions produites.
 
-L'enquête porte précisément sur ces différences.
+La cohérence d'une description ne suffit pas à établir son adéquation à ce qu'elle prétend décrire.
 
----
+Cette exigence conduit à examiner conjointement les descriptions, leurs conditions d'application, leurs conséquences et les justifications avancées.
 
-4. Une démarche réflexive
+5. Articuler les dépendances sans confondre les fonctions
 
-L'enquête ne peut pas prétendre se situer entièrement hors des pratiques qu'elle analyse.
+Les pratiques descriptives dépendent de conditions corporelles, matérielles, environnementales, techniques, historiques et sociales. Elles mobilisent également des relations, remplissent des fonctions et s'inscrivent dans des pratiques où les affirmations peuvent être justifiées ou contestées.
 
-Lorsqu'elle étudie une pratique descriptive, elle produit elle-même des distinctions, utilise des critères, construit des descriptions et établit des relations.
+Ces dépendances ne doivent pas être niées. Mais elles ne rendent pas les fonctions interchangeables.
 
-Elle doit donc pouvoir examiner ses propres opérations.
+Une condition peut rendre une pratique possible sans constituer un critère de validité. Une cause peut contribuer à expliquer l'apparition d'une description sans fournir une raison suffisante de la défendre. Une fonction peut expliquer le rôle d'une distinction sans justifier son application. Une trace peut contribuer à identifier une différence sans déterminer à elle seule sa signification.
 
-La réflexivité de Protokin peut être formulée ainsi :
-
-«L'analyse des pratiques descriptives est elle-même une pratique descriptive.»
-
-Cette proposition n'annule pas la distinction entre une description et l'objet décrit.
-
-Elle impose plutôt à l'enquête de ne pas oublier les conditions dans lesquelles elle produit elle-même ses distinctions.
-
-La réflexivité porte donc sur :
-
-- les catégories utilisées par l'enquête ;
-- les fonctions qu'elles remplissent ;
-- les conditions de leur application ;
-- les distinctions qu'elles permettent ;
-- les conversions qu'elles doivent empêcher.
-
-La réflexivité n'est ainsi ni une introspection psychologique ni une réflexion individuelle sur soi.
-
-Elle est une propriété de l'enquête qui examine ses propres conditions de description.
-
----
-
-5. Une orientation pragmatiste
-
-Le pragmatisme intervient ici comme une orientation de l'enquête.
-
-Une distinction est étudiée à partir de ce qu'elle permet de faire dans une pratique déterminée : distinguer, anticiper, coordonner, justifier, contester, corriger, transmettre ou transformer.
-
-Le sens d'une distinction ne peut donc pas être séparé entièrement des usages dans lesquels elle fonctionne.
-
-Mais usage, fonction et justification ne sont pas identiques.
-
-Une description peut être effectivement utilisée sans être pour autant correctement justifiée.
-
-Inversement, une description peut être contestée tout en demeurant fonctionnelle dans une pratique.
-
-L'enquête doit donc maintenir ces différences.
-
-Le pragmatisme n'est pas ici une réduction de la vérité à l'utilité.
-
-Il constitue une orientation vers les conditions effectives de fonctionnement et de transformation des pratiques.
-
----
-
-6. Une orientation inférentialiste
-
-Les descriptions ne fonctionnent pas isolément.
-
-Elles prennent place dans des réseaux d'inférences : certaines descriptions autorisent des conséquences, excluent certaines conclusions, rendent certaines demandes pertinentes ou imposent certaines justifications.
-
-Une description peut ainsi modifier ce qu'il devient possible de dire, de demander, de contester ou de défendre dans une pratique.
-
-L'inférentialisme permet d'enquêter sur ces relations sans réduire la signification d'une description à un objet auquel elle correspondrait.
-
-Il permet notamment de distinguer :
-
-«ce qu'une description désigne, ce qu'elle permet d'inférer et ce qu'elle autorise à faire dans une pratique.»
-
-Ces dimensions peuvent être liées sans être convertibles les unes dans les autres.
-
----
-
-7. La non-ontologie
-
-Protokin ne choisit pas entre matérialisme, idéalisme, réalisme ou relativisme ontologique.
-
-Il ne pose pas une ontologie première à partir de laquelle toutes les descriptions devraient être dérivées.
-
-La question est plutôt :
-
-«Sous quelles conditions une configuration peut-elle être décrite comme réelle, matérielle, causale, vivante, sociale, normative ou rationnelle dans une pratique déterminée ?»
-
-Cette question ne nie pas l'existence de ce qui est décrit.
-
-Elle refuse simplement de confondre une description particulière avec le fondement ontologique de toutes les autres descriptions.
-
-Protokin ne cherche donc pas à déterminer ce que les choses sont en dehors de toute pratique descriptive.
-
-Il enquête sur les conditions dans lesquelles certaines manières de les décrire deviennent possibles, fonctionnelles, justifiables ou contestables.
-
----
-
-8. La quadripartition de l'enquête
-
-Toute enquête Protokin distingue quatre questions :
-
-«Corps : dans quelle configuration corporelle et matérielle ?»
-
-«Relation : sous quelles relations ?»
-
-«Fonction : pour quelle fonction ?»
-
-«Justification : sous quelle justification ?»
-
-Ces quatre questions ne constituent ni quatre niveaux de réalité, ni quatre étapes d'une genèse.
-
-Elles constituent une matrice d'enquête et d'audit.
-
-Une réponse concernant la configuration corporelle ne constitue pas, par elle-même, une réponse concernant la fonction.
-
-Une relation décrite ne constitue pas, par elle-même, une justification.
-
-Une fonction remplie ne constitue pas, par elle-même, une validité.
-
-Une justification ne constitue pas, par elle-même, une description de la configuration matérielle.
-
-Ainsi :
-
-«Corps ≠ Relation ≠ Fonction ≠ Justification.»
-
-La quadripartition sert à empêcher que l'enquête transforme une réponse obtenue sur un plan en réponse suffisante sur les autres.
-
----
-
-9. Continuité des dépendances, discontinuité des fonctions
-
-Protokin reconnaît les dépendances entre les différents aspects d'une pratique sans en déduire leur identité fonctionnelle.
-
-Les pratiques descriptives sont incarnées dans des organismes, des environnements, des instruments, des institutions, des apprentissages et des interactions.
-
-Mais le fait qu'une fonction dépende de certaines conditions ne signifie pas que cette fonction soit réductible à ces conditions.
-
-C'est pourquoi l'enquête maintient notamment les distinctions suivantes :
+Protokin maintient ainsi plusieurs distinctions :
 
 - cause ≠ raison ;
 - genèse ≠ justification ;
@@ -241,236 +122,140 @@ C'est pourquoi l'enquête maintient notamment les distinctions suivantes :
 - trace ≠ signification ;
 - description ≠ objet décrit ;
 - capacité ≠ performance ≠ validité ;
-- fonction ≠ justification ;
-- incarnation ≠ réduction biologique.
+- fonction ≠ justification.
 
-La règle générale peut être formulée ainsi :
+Ces distinctions ne visent pas à isoler des domaines indépendants. Elles permettent d'examiner les dépendances sans convertir automatiquement une réponse obtenue dans une dimension en réponse suffisante dans une autre.
 
-«Continuité des dépendances, discontinuité des fonctions, non-conversion.»
+Le principe général est le suivant :
 
----
+Continuité des dépendances, discontinuité des fonctions, non-conversion.
 
-10. PROTO / KIN
+Distinguer sans isoler. Articuler sans convertir.
 
-L'architecture utilise les termes PROTO et KIN pour organiser deux fonctions générales de l'enquête.
+6. La quadripartition : quatre questions pour orienter l'enquête
 
-PROTO désigne le versant des contraintes corporelles, matérielles, biologiques et écologiques dans lesquelles les pratiques prennent place.
+Pour examiner une difficulté sans confondre les questions qu'elle engage, Protokin propose une quadripartition : Condition, Relation, Fonction et Justification.
 
-KIN désigne le versant des pratiques descriptives dans lesquelles des descriptions sont produites, utilisées, discutées, justifiées, transmises, stabilisées et révisées.
+Ces quatre termes ne désignent ni quatre composantes de toute réalité ni quatre étapes successives. Ils indiquent quatre directions fonctionnelles dans lesquelles l'enquête peut avoir besoin de préciser son problème.
 
-PROTO et KIN ne sont ni deux substances, ni deux mondes, ni deux étapes d'une genèse.
+Condition
 
-PROTO n'est pas l'espace des causes.
+Dans quelles conditions la situation et la pratique considérées se déroulent-elles ?
 
-KIN n'est pas l'espace des raisons.
+Cette question porte notamment sur les contraintes et les possibilités corporelles, matérielles, environnementales, techniques ou institutionnelles pertinentes.
 
-Une relation causale peut être décrite, mais la description causale de cette relation constitue elle-même une pratique qui possède des conditions, des instruments, des distinctions et des critères.
+La condition ne constitue pas automatiquement une explication complète, une fonction ou une justification.
 
-La continuité des dépendances n'implique donc jamais une conversion fonctionnelle.
+Relation
 
----
+Quelles dépendances et quelles mises en rapport sont pertinentes pour le problème ?
 
-11. Stabiliser sans clore
+Cette question permet d'examiner les relations entre les éléments distingués, sans réduire une relation à une propriété intrinsèque de chacun d'eux.
 
-Une pratique descriptive doit pouvoir acquérir suffisamment de stabilité pour fonctionner.
+Les relations peuvent être matérielles, biologiques, sociales, pratiques, descriptives ou inférentielles. Leur nature doit être déterminée en fonction de ce que l'enquête cherche à établir.
 
-Sans stabilisation, une distinction ne pourrait être durablement reprise, transmise, discutée ou utilisée.
+Fonction
 
-Mais une stabilisation ne doit pas être confondue avec une clôture.
+Que fait la configuration, la distinction ou la description dans la pratique considérée ?
 
-Une configuration peut se maintenir à travers des transformations.
+Cette question porte sur le rôle exercé : identifier, comparer, anticiper, coordonner, qualifier, expliquer ou accomplir une autre opération déterminée.
 
-Elle peut être suffisamment stable pour être reconnaissable tout en restant susceptible de révision.
+Une fonction dépend de relations et de conditions, mais elle ne se confond ni avec elles ni avec la justification de ce qui est fait.
 
-Cette tension est centrale :
+Justification
 
-«Comment une pratique peut-elle être suffisamment stabilisée pour fonctionner sans devenir suffisamment close pour empêcher sa transformation ?»
+Selon quels critères une description ou une conclusion peut-elle être défendue, contestée ou révisée ?
 
-Protokin enquête sur cette tension entre continuité et transformation.
+Cette question concerne les raisons avancées, les critères d'application, les inférences mobilisées et les exigences auxquelles une affirmation doit répondre.
 
-La stabilisation n'est donc pas l'absence de changement.
+La justification ne se réduit ni à la genèse d'une description ni à son efficacité pratique.
 
-Elle désigne une continuité capable de se maintenir à travers certaines transformations.
+La quadripartition sert à maintenir ces questions distinctes tout en permettant d'examiner leurs dépendances. Son contenu n'est pas fixé d'avance : les conditions, relations, fonctions et critères pertinents se déterminent au cours de l'enquête.
 
-La temporalité, la trajectoire, l'allure, l'historicité et l'effet cliquet permettent ensuite de différencier différentes formes de cette continuité et de sa transformation.
+Elle constitue une orientation et un instrument de contrôle, non une grille exhaustive à remplir mécaniquement.
 
----
+7. L'architecture de l'enquête : des opérations révisables
 
-12. L'enquête comme reconstruction
+La quadripartition indique les questions à maintenir distinctes. L'architecture fonctionnelle organise, quant à elle, les déplacements possibles de l'enquête.
 
-Protokin ne fournit pas un catalogue de descriptions correctes.
+Sa chaîne principale est la suivante :
 
-Il propose une architecture permettant de reconstruire une situation descriptive.
+Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter
 
-Cette reconstruction consiste notamment à demander :
+- Délimiter : préciser ce qui fait problème et le périmètre de l'enquête.
+- Ancrer : examiner les conditions pertinentes pour la difficulté rencontrée.
+- Distinguer : maintenir les différences nécessaires à son traitement.
+- Relier : reconstruire les dépendances entre les éléments distingués.
+- Configurer : examiner comment les différences deviennent identifiables et réutilisables dans une pratique descriptive.
+- Justifier : préciser les raisons et les critères permettant de défendre ou de contester une description.
+- Reconstituer : reconstruire une configuration dans laquelle les résultats de l'enquête peuvent fonctionner ensemble sans abolir leurs différences.
+- Redélimiter : reprendre le périmètre du problème à la lumière de ce qui a été établi.
 
-1. quelle différence est produite ou mobilisée ;
-2. dans quelle configuration elle apparaît ;
-3. sous quelles relations elle devient pertinente ;
-4. quelle fonction elle remplit ;
-5. selon quels critères elle peut être justifiée ;
-6. comment elle se stabilise ;
-7. comment elle peut être contestée ou transformée.
+Cette chaîne n'est ni une succession obligatoire d'étapes ni une description de la manière dont un objet serait constitué. Une enquête peut revenir sur une opération antérieure, en répéter une autre ou modifier l'ordre dans lequel certaines questions sont examinées.
 
-Ces questions ne constituent pas une procédure mécanique applicable indépendamment des situations.
+La redélimitation est particulièrement importante : l'enquête peut montrer que le problème initial était trop étroit, trop large ou mal formulé. Elle peut également faire apparaître une difficulté distincte.
 
-Elles constituent une discipline de l'enquête.
+La chaîne organise ainsi les déplacements de l'enquête sans prédéterminer ses résultats.
 
-Chaque page du projet doit donc avoir une fonction déterminée et ne pas anticiper les fonctions établies ailleurs.
+À ces opérations s'ajoutent des fonctions transversales, notamment temporaliser, expliquer, auditer, réfléchir et éprouver. Elles ne constituent pas des étapes supplémentaires : elles peuvent intervenir à différents moments, selon les besoins du problème.
 
----
+8. Reconfigurer sans confondre les transformations
 
-13. L'architecture de Protokin
+Une enquête peut conduire à modifier une description, à réorganiser les relations pertinentes ou à réviser les critères de justification. Elle peut également révéler que la situation matérielle a changé.
 
-L'architecture générale comprend treize sections, de 00 à 12.
+Ces transformations doivent être distinguées.
 
-- 00 — Cadre et délimitations
-- 01 — Contraintes corporelles et fonctions de stimulus
-- 02 — Quadripartition et non-conversion
-- 03 — Cadres relationnels
-- 04 — Pratiques et régimes descriptifs
-- 05 — Espace des raisons et redevabilité
-- 06 — Temporalité
-- 07 — Expliquer sans convertir
-- 08 — Protocole d'audit
-- 09 — Pathologies
-- 10 — Cas
-- 11 — Filiations
-- 12 — Portée
+Une reformulation ne constitue pas nécessairement une reconfiguration du problème. Une reconfiguration descriptive ne suppose pas nécessairement une transformation du référent. Une transformation matérielle ne détermine pas, à elle seule, la description qui doit en être produite.
 
-Chaque section possède une fonction propre.
+Il peut cependant exister des dépendances entre ces changements. Une modification matérielle peut rendre une distinction insuffisante ; la reprise de cette distinction peut modifier la délimitation du problème ; cette nouvelle délimitation peut conduire à revoir les critères selon lesquels les réponses sont évaluées.
 
-L'architecture ne constitue pas une hiérarchie de niveaux ontologiques.
+L'enquête doit reconstruire ces relations au lieu de supposer une conversion automatique entre elles.
 
-Elle organise les fonctions de l'enquête.
+Le problème n'est donc pas seulement le point de départ de l'enquête. Sa propre délimitation peut devenir un objet d'examen.
 
----
+9. Une démarche réflexive et révisable
 
-14. La règle architecturale
+Protokin examine les pratiques descriptives au moyen de distinctions, de catégories et de critères. Il produit donc lui-même des descriptions.
 
-Chaque page de Protokin doit pouvoir répondre à sept questions :
+Il ne peut pas considérer ses propres opérations comme soustraites à l'examen qu'il propose.
 
-1. Quelle fonction unique accomplit-elle ?
-2. Où cette fonction est-elle établie dans l'architecture ?
-3. Que s'interdit-elle d'établir ?
-4. Quelles dimensions de la quadripartition met-elle au travail ?
-5. Quelle conversion ou réduction neutralise-t-elle ?
-6. De quelles fonctions établies dépend-elle ?
-7. Quelles fonctions rend-elle ensuite possibles ?
+Ses distinctions peuvent être insuffisantes, ses catégories mal délimitées ou ses instruments inadaptés à un problème particulier. Leur usage peut révéler des ambiguïtés, des confusions ou des limites qui conduisent à les réviser.
 
-Cette règle vise à maintenir la non-substitution des fonctions.
+La réflexivité consiste à rendre cette possibilité explicite. Elle ne signifie pas que toutes les descriptions se valent, ni que l'enquête doive remettre en cause chaque opération à tout moment.
 
-Elle empêche notamment qu'un concept soit utilisé pour accomplir une fonction qui appartient à une autre partie de l'architecture.
+Elle signifie que les choix de l'enquête doivent pouvoir être examinés et défendus, et que leur révision doit rester possible lorsque des difficultés le justifient.
 
-Elle constitue une règle de construction et d'audit du projet.
+La révisabilité est ainsi liée à une exigence de justification : une distinction ne doit pas être maintenue simplement parce qu'elle appartient déjà à l'architecture du projet.
 
-Elle n'est pas elle-même une nouvelle catégorie théorique.
+10. Ce que Protokin cherche à rendre possible
 
----
+Protokin ne propose ni une description ultime du monde ni une procédure universelle de résolution des problèmes.
 
-15. Ce que Protokin ne cherche pas à faire
+Il vise à rendre les pratiques descriptives plus explicites et plus contrôlables, notamment en permettant de :
 
-Protokin ne cherche pas :
+- préciser la difficulté qui rend une enquête nécessaire ;
+- différencier les questions relatives aux conditions, aux relations, aux fonctions et aux justifications ;
+- examiner les dépendances sans confondre les fonctions ;
+- comparer des descriptions sans présumer leur équivalence ;
+- éprouver des distinctions au moyen de cas, de substitutions et de comparaisons ;
+- déterminer ce qu'une description permet d'établir et ce qu'elle n'établit pas ;
+- reconstruire les transformations d'une configuration descriptive ;
+- justifier le maintien, la contestation ou la révision d'une description.
 
-- à produire une ontologie générale ;
-- à remplacer toutes les descriptions par une description ultime ;
-- à réduire les raisons aux causes ;
-- à réduire les fonctions à leurs conditions matérielles ;
-- à transformer les conditions d'une description en justification de cette description ;
-- à confondre stabilisation et immobilité ;
-- à déduire une norme à partir d'une genèse ;
-- à transformer une description en objet décrit.
+La démarche n'assure pas à elle seule l'adéquation d'un résultat. Elle organise les conditions dans lesquelles ce résultat peut être examiné et mis à l'épreuve.
 
-Il ne cherche pas davantage à supprimer les différences entre les pratiques.
+Ses instruments sont eux-mêmes révisables. Leur valeur dépend de ce qu'ils permettent effectivement de distinguer, d'examiner et de justifier.
 
-Il cherche à rendre ces différences analysables sans les convertir les unes dans les autres.
+Conclusion
 
----
+Protokin est une démarche d'enquête pragmatique, inférentielle, réflexive et non-ontologique sur les pratiques descriptives.
 
-16. Une enquête toujours révisable
+Son point de départ est une difficulté : les distinctions, les relations, les fonctions ou les justifications disponibles ne suffisent plus à traiter un problème de manière satisfaisante.
 
-Une enquête n'est pas une clôture définitive.
+Son travail consiste à rendre cette difficulté examinable, à reconstruire les dépendances pertinentes et à maintenir distinctes les fonctions que ces dépendances articulent.
 
-Une reconstruction peut être corrigée lorsqu'une distinction s'avère insuffisante, lorsqu'une fonction a été confondue avec une autre, lorsqu'une dépendance a été mal reconstruite ou lorsqu'un cas résiste à l'analyse.
+La quadripartition fournit une orientation. La chaîne principale organise les déplacements de l'enquête. La réflexivité et les fonctions transversales permettent d'examiner les opérations, leurs limites et leurs transformations.
 
-Cette possibilité de révision n'est pas un défaut de l'enquête.
+L'objectif n'est pas de clore la description du monde, mais de rendre les pratiques descriptives plus aptes à être discutées, éprouvées et révisées.
 
-Elle appartient à son fonctionnement.
-
-Protokin doit donc pouvoir appliquer à ses propres distinctions les exigences qu'il applique aux pratiques qu'il étudie.
-
-«Une distinction utile doit pouvoir être révisée sans que sa révision exige l'abandon de toute distinction.»
-
-L'enquête produit ainsi des stabilisations conceptuelles qui restent ouvertes à leur propre transformation.
-
----
-
-Synthèse
-
-Protokin est une démarche d'enquête pragmatiste, inférentialiste, réflexive et non-ontologique sur les pratiques descriptives.
-
-Il enquête sur les conditions dans lesquelles des différences deviennent descriptibles, sur les fonctions que ces descriptions accomplissent, sur les formes de justification qui les soutiennent et sur les transformations auxquelles elles peuvent être soumises.
-
-Son point de départ n'est pas une ontologie.
-
-Son point de départ est le problème.
-
-Son opération n'est pas la fondation d'un système définitif.
-
-Son opération est la reconstruction.
-
-Son principe de vigilance est la non-conversion.
-
-Son dispositif d'audit est la quadripartition.
-
-Son horizon n'est pas la clôture d'une description, mais la possibilité de stabiliser des distinctions sans empêcher leur révision.
-
-La formule générale peut être résumée ainsi :
-
-«Protokin ne décrit rien.
-
-Protokin enquête sur les conditions dans lesquelles des pratiques rendent quelque chose descriptible.»
-
-Et cette enquête porte également sur elle-même :
-
-«L'analyse des pratiques descriptives est elle-même une pratique descriptive.»
-
-C'est pourquoi Protokin ne se situe pas au-dessus des pratiques qu'il étudie.
-
-Il construit une manière de les interroger, de reconstruire leurs fonctions, de distinguer leurs dépendances et d'auditer les conversions qui menacent leur intelligibilité.
-
----
-
-Place de cette introduction
-
-Cette page constitue le point d'entrée général du projet.
-
-Elle établit :
-
-- le statut de Protokin comme démarche d'enquête ;
-- son orientation pragmatiste, inférentialiste et réflexive ;
-- son refus d'une fondation ontologique ;
-- son objet : les pratiques descriptives ;
-- la quadripartition ;
-- le principe de non-conversion ;
-- la fonction générale de l'architecture.
-
-Elle ne doit pas se substituer aux sections spécialisées.
-
-Les distinctions concernant les contraintes corporelles, les cadres relationnels, les pratiques, les raisons, la temporalité, l'explication, l'audit, les pathologies et les cas sont établies dans leurs sections respectives.
-
-La fonction de cette introduction est donc de rendre l'enquête elle-même intelligible avant son déploiement architectural.
-
----
-
-Formule courte
-
-«Protokin est une démarche d'enquête pragmatiste, inférentialiste, réflexive et non-ontologique sur les pratiques descriptives.
-
-Il étudie comment des différences deviennent descriptibles, comment ces descriptions fonctionnent, comment elles se justifient, se stabilisent, se contestent et se transforment.
-
-Il maintient la continuité des dépendances sans convertir les fonctions qu'elles rendent possibles.
-
-Protokin ne décrit rien : il enquête sur les conditions dans lesquelles des pratiques rendent quelque chose descriptible.»
-
-Protokin — version 26.09
+Protokin enquête sur les conditions, les fonctions et les transformations par lesquelles des pratiques rendent certaines différences descriptibles, discutables, justifiables, stabilisables, contestables et révisables.
