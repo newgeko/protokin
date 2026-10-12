@@ -1,163 +1,69 @@
-# Page : protokin-en-une-phrase.md
-
 Protokin en une phrase
 
-Analyse architecturale de la page
+«Protokin enquête sur les conditions, fonctions et transformations par lesquelles des pratiques rendent certaines différences descriptibles, discutables, justifiables, stabilisables, contestables et révisables.»
 
-1. Fonction unique de la page
+Ce que cette phrase situe
 
-Cette page existe pour donner la définition synthétique du projet Protokin en une formule fondatrice, condensant l'ensemble de ses engagements métathéoriques, pragmatistes, inférentialistes et non-ontologiques.
+Protokin est une démarche d’enquête de second ordre. Il ne propose pas une description supplémentaire du monde : il examine comment des pratiques produisent, utilisent, évaluent et transforment leurs descriptions.
 
-2. Choix du mode de développement
+Son point de départ n’est pas une ontologie ni un ensemble de catégories à appliquer d’avance. C’est un problème descriptif : une distinction devient insuffisante, une catégorie se révèle instable, plusieurs descriptions entrent en conflit, une justification est contestée ou les critères disponibles ne permettent plus de poursuivre l’enquête.
 
-Mode retenu : Mode A — Développement conceptuel
-Justification : La page a pour objectif d'établir la définition conceptuelle première du projet Protokin, d'en expliciter la nécessité théorique, de déplier les dimensions de sa formule fondatrice et de clarifier ses relations de second ordre avec l'espace des causes (PROTO) et l'espace des raisons (KIN).
+Protokin cherche alors à reconstruire ce qui est distingué, les conditions dans lesquelles la distinction fonctionne, les relations qu’elle engage, les fonctions qu’elle remplit et les raisons qui permettent de la défendre ou de la réviser.
 
-3. Problème conceptuel
+Les termes de la formule
 
-Comment condenser l'ambition d'une métathéorie des pratiques descriptives en une formule unique sans la réduire à une ontologie des objets, à un positivisme méthodologique ou à un relativisme indifférencié ?
+Conditions — Les conditions matérielles, corporelles, techniques, environnementales et pratiques qui rendent certaines opérations possibles ou les contraignent. Elles ne fournissent pas à elles seules une description ni sa justification.
 
-4. Objet propre
+Fonctions — Ce que les descriptions permettent d’accomplir dans une pratique : identifier, distinguer, comparer, coordonner, expliquer, décider ou intervenir. Une fonction ne constitue pas en elle-même un critère de validité.
 
-· Cette page traite de : la formule synthétique fondatrice de Protokin, la décomposition fonctionnelle de ses termes cardinaux (métathéorie, pragmatiste, inférentialiste, non-ontologique), et l'articulation de base entre les conditions matérielles (PROTO) et normatives (KIN) de descriptibilité.
-· Cette page ne traite pas de : le développement détaillé des dix opérations descriptives (développé dans architecture-fonctionnelle.md), la théorie complète du langage ou de l'esprit (développée dans raisons.md), ni des protocoles spécifiques d'enquête et d'audit (développés dans conduire-une-enquete.md et realiser-un-audit.md).
+Transformations — Les modifications des descriptions, de leurs catégories, de leurs usages et de leurs critères au cours du temps. Une transformation peut conduire à reprendre la délimitation initiale du problème.
 
-5. Statut conceptuel
+Pratiques descriptives — Les activités situées dans lesquelles des différences sont identifiées, nommées, reliées, discutées et réutilisées. Elles ne sont ni de simples copies d’un monde déjà découpé, ni des constructions arbitraires sans contrainte.
 
-Il s'agit d'un texte fondateur d'orientation générale appartenant à la section 00 — Se repérer.
+Différences descriptibles — Des différences qu’une pratique peut rendre identifiables et réutilisables. Leur description ne se confond pas avec la configuration à laquelle elle se rapporte.
 
-6. Dépendances fonctionnelles
+Justifiables, contestables et révisables — Une description ne devient pas valide par sa seule cohérence, sa répétition ou son acceptation collective. Les raisons, les critères et la portée de ses conclusions doivent pouvoir être examinés. Les critères eux-mêmes peuvent être remis en question.
 
-Cette page suppose :
+Une enquête, pas une ontologie
 
-· L'Introduction générale.
-· Le problème de la descriptibilité du monde.
+Protokin ne cherche pas à déterminer ce que les choses sont en elles-mêmes. Il examine les conditions dans lesquelles des descriptions peuvent être produites, mises en rapport, défendues et transformées.
 
-Cette page rend possible :
+Ce déplacement ne revient pas à nier l’existence de contraintes matérielles ni à soutenir que toutes les descriptions se valent. Une description peut rencontrer des résistances, échouer dans une pratique, entrer en contradiction avec d’autres descriptions ou ne pas satisfaire aux exigences qu’elle prétend respecter. Mais aucune de ces difficultés ne fournit automatiquement, à elle seule, la description correcte : il faut encore identifier le problème et justifier les opérations retenues.
 
-· La compréhension du Statut du projet.
-· La clarification du Nom, origine et portée.
-· L'explicitation des Principes fondamentaux.
-· L'appréhension de l'Architecture générale.
+La distinction directrice est donc la suivante :
 
-7. Frontières conceptuelles
+Continuité des dépendances, discontinuité des fonctions, non-conversion.
 
-Cette formule fixe la définition fondatrice de Protokin comme métathéorie des pratiques descriptives. Elle ne doit pas absorber les développements autonomes des principes fondamentaux (section 01) ni de l'architecture fonctionnelle (section 02), mais elle doit en donner la matrice conceptuelle de premier plan.
+Les conditions, les relations, les fonctions et les justifications peuvent dépendre les unes des autres sans être interchangeables. Une cause n’est pas une raison ; une condition n’est pas un critère ; une fonction n’est pas une justification ; une description n’est pas ce qu’elle décrit.
 
----
+Comment l’enquête s’organise
 
-Cartouche fonctionnel
+L’architecture de Protokin distingue deux plans complémentaires :
 
-Élément Description
-Fonction Donner la définition synthétique du projet Protokin et fixer son orientation métathéorique majeure.
-Prépare L'examen du statut du projet, la clarification du nom et de sa portée, ainsi que l'explicitation des principes fondamentaux.
-Mobilise L'introduction générale et le déplacement fondamental de l'enquête descriptive.
-Permet ensuite D'articuler les concepts de l'espace des causes (PROTO) et de l'espace des raisons (KIN) au sein de l'architecture fonctionnelle.
-N'établit pas Le développement détaillé des dix opérations descriptives, les théories particulières du langage, ni les méthodes d'audit clinique.
+- L’"architecture du système" (architecture-systeme.md) explicite les distinctions, les dépendances et les règles de contrôle de l’enquête.
+- L’"architecture fonctionnelle de l’enquête" (architecture-fonctionnelle-de-l-enquete.md) organise les opérations par lesquelles un problème est délimité, ancré, distingué, relié, configuré, justifié, reconstitué puis redélimité.
 
----
+La chaîne principale n’est pas une succession nécessaire d’étapes ni une chaîne de constitution du réel. Elle indique des déplacements possibles de l’enquête. Les opérations peuvent être reprises ou réordonnées selon le problème.
 
-Problème conceptuel inaugural
+Le point d’entrée général est présenté dans "00 — Cadre et délimitations" (00-se-reperer.md). Les pages consacrées à l’"assertion" (assertion.md) et à la "validité" (validite.md) développent certaines questions particulières de l’enquête.
 
-Toute tentative d'analyser les descriptions se heurte à un risque théorique récurrent : celui de traiter les énoncés soit comme de simples miroirs d'un monde déjà organisé en objets et propriétés (réification ontologique ou réalisme naïf), soit comme de pures constructions arbitraires privées d'ancrage matériel et d'exigence normative (relativisme sceptique ou idéalisme linguistique).
+Ce que la formule n’établit pas
 
-Une définition condensée et fondatrice doit résoudre ce problème en indiquant clairement le déplacement philosophique proposé par Protokin : rompre avec la recherche d'une structure ultime et immuable des choses pour examiner les pratiques par lesquelles des collectifs rendent le monde descriptivement accessible, partageable, justifiable et modifiable.
+Cette formule ne prétend pas :
 
----
+- fournir une description ultime du monde ;
+- réduire les descriptions à leurs causes matérielles ;
+- réduire les contraintes matérielles aux catégories par lesquelles elles sont décrites ;
+- considérer tous les régimes descriptifs comme équivalents ou incomparables ;
+- garantir la validité d’une description par sa cohérence, sa stabilisation ou son acceptation ;
+- soustraire l’architecture de Protokin à la révision.
 
-La formule synthétique fondatrice
+Elle fixe une orientation de travail, non une réponse anticipée à chaque problème.
 
-Dans l'architecture de Protokin, cette formule établit la coordonnée conceptuelle première permettant d'embrasser l'objet, le statut et l'orientation générale du projet :
+Synthèse
 
-Protokin est une métathéorie pragmatiste, inférentialiste et non-ontologique qui analyse les conditions normatives, matérielles et inférentielles sous lesquelles des descriptions deviennent intelligibles, recevables, stabilisées ou transformables au sein de pratiques collectives de justification et d'intervention.
+Protokin examine comment des pratiques descriptives fonctionnent, sur quoi elles s’appuient, ce qu’elles permettent et à quelles conditions elles peuvent être justifiées ou révisées.
 
----
+Il ne remplace pas les enquêtes particulières : il aide à reconstruire leurs distinctions, à expliciter leurs dépendances et à éviter que des fonctions différentes soient confondues.
 
-Décomposition fonctionnelle de la formule
-
-Chaque terme de cette formule synthétique remplit une fonction précise et indispensable au sein de la métathéorie :
-
-1. Une métathéorie (Analyse de second ordre)
-
-Protokin ne produit pas une description concurrente du monde et ne prétend pas se substituer aux sciences ou aux disciplines particulières. Il constitue une analyse de second ordre (une métathéorie) qui prend pour objet d'enquête les pratiques descriptives elles-mêmes, en décrivant leurs conditions de fonctionnement et leurs régimes d'évaluation.
-
-2. Pragmatiste, inférentialiste et non-ontologique
-
-· Pragmatiste : Les descriptions sont appréhendées comme des activités situées, émergeant de l'action incarnée, de l'enquête et des interactions pratiques et continues entre un organisme et son milieu.
-· Inférentialiste : Le sens et la valeur d'une description ne résident pas dans un rapport de copie ou de correspondance terme à terme avec le réel, mais dans le réseau d'engagements, de conséquences, d'incompatibilités et de justifications qu'elle entraîne au sein d'un espace de raisons.
-· Non-ontologique : Protokin suspend toute prétention à déterminer ce que les choses sont « en elles-mêmes » (l'être en soi) pour examiner exclusivement sous quelles conditions normatives et matérielles elles deviennent identifiables, qualifiables et discutables dans une pratique collective.
-
-3. Les conditions normatives, matérielles et inférentielles
-
-L'analyse protokinienne refuse l'autonomie absolue du discours autant que le réductionnisme naturaliste en tenant ensemble deux dimensions irréductibles de l'intelligibilité :
-
-· L'ancrage matériel et causal (PROTO) : Les contraintes physiques, biologiques, perceptives, corporelles et techniques qui régissent la production des signaux et rendent possibles certaines capacités de distinction.
-· L'organisation normative et inférentielle (KIN) : Les règles, critères, responsabilités et régimes de recevabilité au sein desquels des assertions acquièrent une valeur de justification dans un espace de raisons.
-
-4. Intelligibilité, recevabilité, stabilisation et transformation
-
-La formule décline le cycle de vie des descriptions au sein des collectifs :
-
-· L'intelligibilité caractérise le découpage d'un espace de dicibilité cohérent.
-· La recevabilité désigne le seuil d'admission à partir duquel une assertion satisfait aux contraintes d'évaluation d'un régime donné.
-· La stabilisation rend compte de la persistance historique et matérielle des cadres de description.
-· La transformation (ou reconfiguration) désigne la plasticité adaptative par laquelle les collectifs réorganisent leurs catégories face aux butoirs du milieu.
-
-5. Pratiques collectives de justification et d'intervention
-
-Les descriptions ne sont ni des représentations individuelles privées, ni des abstractions théoriques isolées. Elles prennent corps dans des pratiques collectives de co-régulation et de coordination au sein d'une communauté de locuteurs où les participants s'engagent, répondent de leurs assertions et guident l'action concrète dans le monde.
-
----
-
-Articulation dans l'architecture Protokin
-
-Au sein de la section 00 — Se repérer, cette formule constitue le pivot entre la découverte initiale du projet et le déploiement de son armature théorique :
-
-```
-               00 — SE REPÉRER (introduction-generale.md)
-                             │
-                             ▼
-              PROTOKIN EN UNE PHRASE (protokin-en-une-phrase.md)
-                             │
-                             ▼
-                  STATUT DU PROJET (statut-du-projet.md)
-                             │
-                             ▼
-               LES PRINCIPES FONDAMENTAUX (Section 01)
-```
-
----
-
-Ce que cette formule établit et ce qu'elle évite
-
-Ce qu'elle établit :
-
-· Le principe fondamental selon lequel la description précède l'ontologie dans l'ordre de l'analyse.
-· Le déplacement critique consistant à passer de l'étude du mouvement des objets à l'étude du mouvement des descriptions.
-· L'articulation indissociable entre l'ancrage causal (PROTO) et le mouvement normativement réglé des justifications (KIN).
-
-Ce qu'elle évite :
-
-· L'illusion référentielle (Mythe du Donné) qui croirait que le monde se présente déjà naturellement découpé et étiqueté en faits évidents.
-· Le constructivisme désincarné qui oublierait les contraintes corporelles et les résistances matérielles (les butoirs) du milieu.
-· L'impérialisme sémantique qui tenterait d'ériger un régime descriptif (notamment la métathéorie Protokin elle-même) en tribunal absolu et transcendant de la vérité.
-
----
-
-Synthèse finale
-
-Ce que cette page établit
-
-La définition synthétique et fondatrice de Protokin comme métathéorie pragmatiste, inférentialiste et non-ontologique de l'enquête sur les conditions normatives et matérielles de nos pratiques descriptives.
-
-Ce qu'elle suppose
-
-L'Introduction générale et le problème inaugural de la descriptibilité du monde.
-
-Ce qu'elle rend possible
-
-L'explicitation du Statut du projet, du Nom, origine et portée, des Principes fondamentaux et de l'ensemble de l'Architecture générale.
-
----
-
-Protokin 2026 — version 26.08.081
+La cohérence d’une description ne suffit pas à établir son adéquation à ce qu’elle prétend décrire.
