@@ -178,8 +178,8 @@ Relier ne signifie donc ni fusionner ni réduire.
 
 Il faut notamment maintenir :
 
-- relation ≠ fonction;
-- relation ≠ propriété intrinsèque;
+- relation ≠ fonction ;
+- relation ≠ propriété intrinsèque ;
 - relation sémantique ≠ référence.
 
 ---
@@ -211,7 +211,7 @@ Décrire une configuration n'est donc pas la constituer.
 
 > Description ≠ objet décrit.
 
-Une configuration peut être matérielle, biologique, événementielle, relationnelle ou représentationnelle sans que sa catégorie descriptive soit déterminée indépendamment de la pratique descriptive.
+Une configuration peut être matérielle, biologique, événementielle, relationnelle ou représentationnelle sans que sa catégorie descriptive soit déterminée indépendamment de la pratique dans laquelle elle est prise en compte.
 
 ---
 
@@ -525,7 +525,7 @@ L'architecture doit donc être :
 
 Une enquête n'a pas nécessairement besoin de maintenir explicitement toute l'architecture jusqu'à sa clôture.
 
-Lorsque les distinctions pertinentes sont stabilisées, les dépendances établies et les conversions contrôlées, la quadripartition et les opérations peuvent progressivement se fondre dans une configuration de travail plus intégrée.
+Lorsque les distinctions pertinentes sont stabilisées, les dépendances établies et les conversions contrôlées, la quadripartition et les opérations peuvent progressivement se fondre dans un réseau d'inférences.
 
 Cela ne signifie pas que l'architecture disparaisse.
 
@@ -650,4 +650,11 @@ Et sa règle méthodologique :
 
 ---
 
-Pour aller plus loin : [Architecture du projet](architecture-projet.md), [Quadripartition de l'orientation](quadripartition-de-l-orientation.md), [Prédication](predication.md), [Proposition](proposition.md), [Assertion](assertion.md), [Table des matières](tdm.md).
+## Voir aussi
+
+- [Architecture du projet](architecture-projet.md)
+- [Quadripartition de l'orientation](quadripartition-de-l-orientation.md)
+- [Prédication](predication.md)
+- [Proposition](proposition.md)
+
+> La chaîne d'enquête et la quadripartition doivent être lues ensemble : la première décrit le mouvement, la seconde oriente les questions.
