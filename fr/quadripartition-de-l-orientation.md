@@ -68,25 +68,28 @@ Une résistance matérielle peut rendre une description insuffisante ou une acti
 
 La question de la relation porte sur les dépendances et les mises en rapport pertinentes pour l’examen d’un problème.
 
-Elle peut concerner une interaction matérielle, une dépendance fonctionnelle, une relation sociale, une relation de référence ou une relation inférentielle. Ces relations ne sont pas équivalentes et doivent être précisées selon ce que l’enquête cherche à établir.
+Elle peut concerner une interaction matérielle, une dépendance fonctionnelle, une relation sociale, une relation de référence ou une relation inférentielle. Ces relations ne sont pas équivalentes. Leur nature et leur pertinence doivent être établies en fonction de ce que l’enquête cherche à examiner.
 
-Dans le cas d’une relation inférentielle, il s’agit d’examiner comment une assertion, compte tenu des engagements qu’elle implique, des règles applicables et des prémisses disponibles, autorise certaines conclusions. Ces conclusions ne sont pas contenues dans l’assertion comme si elles en étaient toutes explicitement formulées. Leur autorisation dépend des relations inférentielles reconnues dans la pratique concernée et des conditions dans lesquelles elles s’appliquent.
+Dans le cas d’une relation inférentielle, il s’agit d’examiner comment une assertion, compte tenu des engagements qui lui sont associés, des règles applicables et des prémisses disponibles, autorise certaines conclusions. Ces conclusions ne sont pas toutes explicitement formulées dans l’assertion. Leur autorisation dépend des relations inférentielles mobilisées dans la pratique concernée et des conditions dans lesquelles elles s’appliquent.
 
-Il faut distinguer les conclusions autorisées par ces règles et ces prémisses, celles qui sont effectivement tirées dans une pratique et celles qui exigent des prémisses ou des règles supplémentaires. Le fait qu’une conclusion soit effectivement tirée ne suffit donc pas à établir qu’elle est autorisée par l’assertion initiale.
+Il faut distinguer les conclusions autorisées par les règles et les prémisses mobilisées, celles qui sont effectivement tirées dans une pratique et celles qui exigent des prémisses ou des règles supplémentaires. Le fait qu’une conclusion soit effectivement tirée ne suffit pas à établir qu’elle est autorisée par l’assertion initiale. Inversement, une conclusion peut être autorisée sans être effectivement tirée.
 
-Une relation ne doit pas être traitée automatiquement comme une propriété intrinsèque de l’un des termes reliés. Elle ne doit pas non plus être confondue avec la fonction que cette relation peut contribuer à rendre possible.
+La reconnaissance d’une règle dans une pratique permet d’identifier les inférences qui y sont admises. Elle ne suffit pas, à elle seule, à justifier cette règle ni toutes les conclusions qu’elle permet de tirer. L’examen d’une relation inférentielle doit donc distinguer les règles effectivement suivies, les conclusions qu’elles autorisent et les raisons de les accepter ou de les contester.
+
+Une relation ne doit pas être traitée automatiquement comme une propriété intrinsèque de l’un des termes reliés. Elle ne doit pas non plus être confondue avec la fonction que cette relation peut contribuer à rendre possible. Identifier une dépendance ne suffit pas à déterminer ce qu’elle produit dans une pratique, ni à justifier les conclusions qu’on en tire.
 
 Il faut notamment distinguer :
 
-    - relation et propriété intrinsèque ;
-    - relation et fonction ;
-    - dépendance et identité ;
-    - relation de référence et référent ;
-    - conséquence inférentielle et conclusion effectivement justifiée.
+- relation et propriété intrinsèque ;
+- relation et fonction ;
+- dépendance et identité ;
+- relation de référence et référent ;
+- conclusion effectivement tirée et conclusion autorisée ;
+- inférence autorisée et inférence justifiée.
 
-Une relation sémantique contribue à déterminer comment une expression renvoie à ce qu’elle désigne, sans constituer à elle seule ce référent. De même, identifier une relation inférentielle ne suffit pas à établir que toutes les conclusions qu’elle rend possibles sont justifiées.
+Une relation de référence contribue à déterminer comment une expression renvoie à ce qu’elle désigne, sans constituer à elle seule le référent. De même, identifier une relation inférentielle ne suffit ni à établir l’adéquation des prémisses mobilisées ni à justifier toutes les conclusions que cette relation permet de tirer.
 
-**Question directrice** : quels éléments dépendent les uns des autres, de quelle manière et pour quel problème ?
+**Question directrice** : quels éléments dépendent les uns des autres, de quelle manière, dans quelles conditions et pour quel problème ?
 
 ### 4.3. Fonction
 
