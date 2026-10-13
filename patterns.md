@@ -67,7 +67,7 @@ Pages concernées :
 - "introduction-generale.md"
 - "architecture-projet.md"
 - "architecture-fonctionnelle-de-l-enquete.md"
-- "quadripartition.md"
+- "quadripartition-de-l-orientation.md"
 
 Fonction
 
