@@ -70,7 +70,9 @@ La question de la relation porte sur les dépendances et les mises en rapport pe
 
 Elle peut concerner une interaction matérielle, une dépendance fonctionnelle, une relation sociale, une relation de référence ou une relation inférentielle. Ces relations ne sont pas équivalentes et doivent être précisées selon ce que l’enquête cherche à établir.
 
-Dans le cas d’une relation inférentielle, il s’agit d’examiner comment une assertion, compte tenu des règles applicables et des prémisses disponibles, autorise certaines conclusions. Il faut distinguer les conclusions autorisées par ces règles et ces prémisses, celles qui sont effectivement tirées dans une pratique et celles qui exigent des prémisses ou des règles supplémentaires. Le fait qu’une conclusion soit effectivement tirée ne suffit donc pas à établir qu’elle est autorisée par l’assertion initiale.
+Dans le cas d’une relation inférentielle, il s’agit d’examiner comment une assertion, compte tenu des engagements qu’elle implique, des règles applicables et des prémisses disponibles, autorise certaines conclusions. Ces conclusions ne sont pas contenues dans l’assertion comme si elles en étaient toutes explicitement formulées. Leur autorisation dépend des relations inférentielles reconnues dans la pratique concernée et des conditions dans lesquelles elles s’appliquent.
+
+Il faut distinguer les conclusions autorisées par ces règles et ces prémisses, celles qui sont effectivement tirées dans une pratique et celles qui exigent des prémisses ou des règles supplémentaires. Le fait qu’une conclusion soit effectivement tirée ne suffit donc pas à établir qu’elle est autorisée par l’assertion initiale.
 
 Une relation ne doit pas être traitée automatiquement comme une propriété intrinsèque de l’un des termes reliés. Elle ne doit pas non plus être confondue avec la fonction que cette relation peut contribuer à rendre possible.
 
