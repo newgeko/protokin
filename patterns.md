@@ -1,6 +1,4 @@
-Patterns éditoriaux de Protokin
-
-Version de travail
+# Patterns éditoriaux de Protokin
 
 1. Fonction du document
 
