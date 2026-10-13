@@ -1,274 +1,618 @@
-Réfléchi pendant 32s
+Patterns éditoriaux de Protokin
 
-### 2\. Les huit patterns que je recommande
+Version de travail
 
-### Pattern A — Pages d’orientation et de cadrage
+1. Fonction du document
 
-### Présenter le projet et ses architectures
+Ce document définit des repères éditoriaux pour rédiger, réviser et harmoniser les pages de Protokin.
 
-Exemples : `introduction-generale.md`, `architecture-projet.md`, `architecture-fonctionnelle-de-l-enquete.md`, `quadripartition-de-l-orientation.md`.
+Il distingue les principaux types de pages, précise leur fonction et propose, pour chacun, une structure adaptée.
 
-Plan recommandé
+Ces patterns sont des guides de rédaction, non des gabarits obligatoires. Ils servent à maintenir la cohérence du corpus sans uniformiser artificiellement des pages qui remplissent des fonctions différentes.
 
-* Fonction et statut de la page
+L’objectif est que chaque page :
 
-* Problème auquel elle répond
+- réponde à un problème identifiable ;
+- remplisse une fonction distincte ;
+- définisse précisément son objet ;
+- explicite ses distinctions importantes ;
+- s’articule avec les autres pages sans les répéter ;
+- indique ce qu’elle permet d’établir et ce qu’elle n’établit pas ;
+- renvoie vers les pages nécessaires à sa compréhension.
 
-* Principe d’organisation
+2. Noyau éditorial commun
 
-* Distinctions structurantes
+Les rubriques suivantes constituent une grille de vérification applicable à l’ensemble du corpus.
 
-* Articulation avec les autres architectures
+Fonction
 
-* Portée et limites
+À quoi sert la page dans l’enquête de Protokin ?
 
-* Synthèse et renvois
+Problème
 
-    Règle éditoriale : expliquer comment les éléments s’articulent, sans refaire les pages qui les définissent individuellement. L’introduction expose le problème général ; l’architecture formalise l’organisation ; la quadripartition précise l’orientation.
+Quel problème descriptif, conceptuel, pratique ou méthodologique justifie cette page ?
 
-### Pattern B — Pages d’opération
+Définition
 
-### Décrire ce que fait une opération d’enquête
+Quel sens précis les termes employés prennent-ils dans le cadre de la page ?
 
-Exemples : `ancrer.md`, `configurer.md`, `distinguer.md`, `relier.md`, `justifier.md`, `reconstituer.md`.
+Distinctions
 
-Plan recommandé
+Quelles notions proches doivent être distinguées pour éviter les confusions ?
 
-* Fonction
+Articulation
 
-* Problème
+Comment la page se rapporte-t-elle aux autres notions, opérations ou instruments de Protokin ?
 
-* Définition opérationnelle
+Limites
 
-* Conditions de mobilisation
+Qu’est-ce que la page ne prétend pas établir ? Quelles inférences ou conversions ne sont pas justifiées ?
 
-* Déroulement ou questions de travail
+Épreuve
 
-* Ce que l’opération permet d’établir
+Quel exemple, cas, comparaison ou examen permet de vérifier la portée des distinctions proposées ?
 
-* Ce qu’elle n’établit pas
+Renvois
 
-* Articulation avec la chaîne d’enquête
+Quelles pages faut-il consulter pour approfondir, compléter ou mettre à l’épreuve le propos ?
 
-* Synthèse
+Ces rubriques forment une liste de contrôle. Elles ne doivent pas nécessairement devenir les titres de toutes les pages. Leur présence et leur développement dépendent du type de page et de sa fonction.
 
-    Règle éditoriale : décrire une action intellectuelle ou méthodologique, pas un objet théorique. Une opération doit indiquer ce que l’enquêteur fait, dans quelle situation et avec quel résultat provisoire.
+---
 
-La section « Déroulement » reste facultative : certaines opérations se décrivent mieux par des questions de contrôle que par une séquence.
+3. Les huit patterns éditoriaux
 
-### Pattern C — Pages de notion
+Pattern A — Pages d’orientation et de cadrage
 
-### Définir une notion sans lui faire porter toute l’architecture
+Pages concernées :
 
-Exemples : `butoir.md`, `referent.md`, `objet-descriptif.md`, `regime-descriptif.md`, `stabilisation.md`, `trace.md`.
+- "introduction-generale.md"
+- "architecture-projet.md"
+- "architecture-systeme.md", si cette page existe dans l’architecture retenue
+- "architecture-enquete.md"
+- "quadripartition.md"
 
-Plan recommandé
+Fonction
 
-* Fonction de la notion
+Présenter Protokin, situer son problème de départ et rendre intelligible l’organisation générale de l’enquête.
 
-* Problème
+Structure recommandée
 
-* Définition
+1. Fonction de la page
+2. Problème auquel répond Protokin
+3. Statut de la démarche
+4. Principe d’organisation
+5. Distinctions structurantes
+6. Articulation entre les architectures et les opérations
+7. Limites du cadre proposé
+8. Synthèse et renvois
 
-* Distinctions nécessaires
+Points de vigilance
 
-* Articulation avec les notions voisines
+- Distinguer l’architecture du projet, l’architecture de l’enquête et l’orientation de la quadripartition.
+- Ne pas présenter la quadripartition comme une ontologie, une hiérarchie de niveaux ou une succession obligatoire de phases.
+- Partir du problème descriptif plutôt que de catégories supposées préalablement constituées.
+- Ne pas présenter Protokin comme une théorie exhaustive du langage ou une description ultime du monde.
+- Distinguer la présentation générale du projet de l’analyse détaillée de ses notions.
+- Éviter de répéter les mêmes développements dans plusieurs pages d’orientation.
 
-* Exemple discriminant
+---
 
-* Limites et non-conversions
+Pattern B — Pages consacrées aux opérations de l’enquête
 
-* Synthèse
+Pages concernées :
 
-    Règle éditoriale : la page doit apporter une définition stable et une distinction utile. Elle n’a pas à reproduire une analyse architecturale préalable, un inventaire complet des filiations philosophiques ou quatre exemples pédagogiques déjà présents ailleurs.
+- "delimier.md" ou le nom de fichier retenu pour délimiter
+- "ancrer.md"
+- "distinguer.md"
+- "relier.md"
+- "configurer.md"
+- "justifier.md"
+- "reconstituer.md"
+- "redelimier.md", si cette opération dispose d’une page autonome
 
-Les sections « Distinctions » et « Articulation » sont centrales ; les autres s’adaptent à la notion.
+Fonction
 
-### Pattern D — Pages d’analyse du langage et de l’inférence
+Définir une opération de l’enquête, préciser les problèmes auxquels elle répond et indiquer ce qu’elle permet d’examiner.
 
-### Distinguer des fonctions linguistiques proches
+Structure recommandée
 
-Exemples : `predication.md`, `proposition.md`, `assertion.md`, `inference-materielle.md`, `raisons.md`, `justifications.md`.
+1. Fonction
+2. Problème
+3. Définition opérationnelle
+4. Conditions d’activation
+5. Procédure ou questions d’examen
+6. Ce que l’opération permet d’établir
+7. Ce qu’elle n’établit pas
+8. Articulation avec les autres opérations
+9. Exemple d’application
+10. Synthèse et renvois
 
-Plan recommandé
+Points de vigilance
 
-* Fonction analysée
+- Décrire une opération identifiable, plutôt qu’une notion générale.
+- Ne pas confondre une opération d’enquête avec une étape nécessaire de constitution de son objet.
+- Ne pas transformer la chaîne des opérations en procédure linéaire obligatoire.
+- Préciser les résultats attendus sans leur attribuer une portée excessive.
+- Indiquer les conditions dans lesquelles l’opération doit être reprise ou révisée.
+- Distinguer les dépendances entre opérations de leur éventuelle succession temporelle.
 
-* Problème de distinction
+La chaîne de Protokin est une chaîne d’enquête, non une chaîne de constitution.
 
-* Définition fonctionnelle
+---
 
-* Exemple minimal
+Pattern C — Pages consacrées aux notions
 
-* Différences avec les opérations voisines
+Pages concernées, notamment :
 
-* Conséquences et engagements
+- "butoir.md"
+- "referent.md"
+- "objet-descriptif.md"
+- "regime-descriptif.md"
+- "stabilisation.md"
+- "trace.md"
+- "configuration-rencontree.md"
+- "configuration-semiotique.md"
+- "configuration-descriptive.md"
+- toute autre page définissant une notion du lexique
 
-* Conditions de correction ou de justification
+Fonction
 
-* Ce que l’analyse n’autorise pas à conclure
+Définir une notion, expliquer le problème auquel elle répond et préciser son rôle dans le vocabulaire de Protokin.
 
-* Place dans l’enquête
+Structure recommandée
 
-* Synthèse
+1. Fonction
+2. Problème
+3. Définition
+4. Distinctions avec les notions voisines
+5. Articulation avec l’architecture de l’enquête
+6. Exemple discriminant
+7. Limites et non-conversions
+8. Synthèse et renvois
 
-    Règle éditoriale : séparer explicitement la forme grammaticale, le contenu susceptible d’être affirmé, l’acte d’assertion et les conséquences inférentielles, lorsqu’ils sont pertinents. Ne pas les transformer en étapes universelles de production du sens.
+Points de vigilance
 
-Ici, l’exemple « Le vélo est rouge » est particulièrement utile : il permet de montrer ce que chaque notion éclaire sans faire croire qu’elle décrit à elle seule tout l’événement linguistique.
+- Définir la notion par sa fonction dans l’enquête, sans la réduire à une simple étiquette.
+- Ne pas multiplier les synonymes lorsque des distinctions sont nécessaires.
+- Distinguer une notion de ses conditions, de ses manifestations et des usages qui en sont faits.
+- Ne pas transformer une distinction analytique en succession chronologique ou en hiérarchie ontologique.
+- Ne pas confondre description, configuration décrite, objet descriptif et référent.
+- Ne pas supposer que toute configuration rencontrée devient nécessairement une configuration sémiotique, puis une configuration descriptive.
+- Distinguer les dépendances entre notions de leur éventuelle conversion l’une dans l’autre.
 
-### Pattern E — Pages de méthode et d’instrument d’épreuve
+Exemple de vérification
 
-### Indiquer comment conduire une analyse
+Pour une page consacrée au référent, vérifier que le texte distingue :
 
-Exemples : `identifier-un-regime.md`, `realiser-un-audit.md`, `evaluer-une-traduction.md`, ainsi que les pages consacrées à la substitution, aux cas et à la comparaison.
+- ce dont une description parle ;
+- la manière dont cette chose, cet événement ou cette situation est décrit ;
+- le contenu descriptif mobilisé ;
+- les conditions dans lesquelles le référent est identifié et réidentifié.
 
-Plan recommandé
+La description d’une configuration ne suffit pas à établir que cette description constitue la configuration décrite.
 
-* Objet de l’examen
+---
 
-* Problème à résoudre
+Pattern D — Pages d’analyse du langage et de l’inférence
 
-* Conditions d’application
+Pages concernées :
 
-* Questions ou étapes de l’examen
+- "predication.md"
+- "proposition.md"
+- "assertion.md"
+- "inference-materielle.md"
+- "raisons.md"
+- "justifications.md"
+- les pages consacrées aux engagements, aux critères ou aux distinctions entre registres
 
-* Indices et matériaux à recueillir
+Fonction
 
-* Interprétation des résultats
+Analyser une fonction du langage ou de l’inférence et préciser les conditions dans lesquelles elle intervient dans une pratique descriptive.
 
-* Limites et risques d’erreur
+Structure recommandée
 
-* Exemple d’application
+1. Fonction
+2. Problème de distinction
+3. Définition
+4. Exemple minimal
+5. Distinctions avec les fonctions voisines
+6. Conséquences et engagements
+7. Conditions de correction ou de justification
+8. Inférences qui ne sont pas autorisées
+9. Position dans l’enquête de Protokin
+10. Synthèse et renvois
 
-* Résultat attendu
+Points de vigilance
 
-    Règle éditoriale : fournir un instrument utilisable. Une méthode doit produire un diagnostic provisoire, des distinctions à vérifier ou des questions à reprendre — pas simplement une nouvelle définition théorique.
+- Distinguer la forme grammaticale, le contenu conceptuel et la force pragmatique d’une énonciation.
+- Ne pas assimiler automatiquement proposition, assertion et description.
+- Ne pas traiter la prédication comme une théorie complète de la signification.
+- Ne pas réduire le contenu d’une énonciation à sa seule forme grammaticale.
+- Ne pas supposer que toutes les fonctions du langage interviennent nécessairement dans un ordre unique.
+- Ne pas confondre la genèse d’un contenu, les engagements associés à son usage et sa justification.
+- Ne pas déduire une obligation normative de la seule présence d’une description.
 
-Une page d’audit peut être plus longue qu’une page de notion, car elle doit permettre de passer de la question au diagnostic.
+Exemple de vérification
 
-### Pattern F — Pages d’articulation
+Dans l’exemple « Ce vélo est rouge », distinguer :
 
-### Examiner des relations entre plusieurs notions ou régimes
+- la forme grammaticale de l’énoncé ;
+- le contenu attribué au vélo ;
+- l’acte d’asserter quelque chose ;
+- les circonstances dans lesquelles l’énoncé est produit ;
+- les critères et les raisons susceptibles de justifier ou de contester l’attribution.
 
-Exemples : `ecologie-des-regimes-descriptifs.md`, `relation-et-fonction.md`, `compatibilite.md`, `incompatibilite.md`.
+Cette analyse ne suppose pas que le contenu concret de l’expérience de l’enfant se réduise à la proposition reconstruite par l’analyste.
 
-Plan recommandé
+---
 
-* Fonction de l’articulation
+Pattern E — Pages consacrées aux méthodes et aux instruments
 
-* Problème relationnel
+Pages concernées :
 
-* Éléments mis en relation
+- "identifier-un-regime.md"
+- "realiser-un-audit.md"
+- "evaluer-une-traduction.md"
+- les pages consacrées à la substitution, aux cas et à la comparaison
+- les autres pages décrivant une procédure d’examen
 
-* Type de relation examinée
+Fonction
 
-* Conditions de compatibilité ou de conflit
+Fournir une procédure utilisable pour examiner une description, comparer plusieurs descriptions ou évaluer une transformation descriptive.
 
-* Cas discriminants
+Structure recommandée
 
-* Conséquences pour l’enquête
+1. Objet de l’examen
+2. Problème
+3. Conditions d’application
+4. Procédure
+5. Questions à poser
+6. Éléments à recueillir
+7. Règles d’interprétation
+8. Limites de l’instrument
+9. Exemple d’application
+10. Résultat attendu et renvois
 
-* Limites de l’articulation
+Points de vigilance
 
-* Synthèse
+- Distinguer l’instrument, son objet et les conclusions tirées de son application.
+- Expliciter les conditions qui rendent la procédure pertinente.
+- Distinguer les observations recueillies de leur interprétation.
+- Ne pas présenter une procédure comme une garantie automatique de validité.
+- Préciser ce qui compte comme résultat pertinent et ce qui reste indéterminé.
+- Permettre à un lecteur d’appliquer la méthode sans devoir reconstruire toute l’architecture théorique.
 
-    Règle éditoriale : préciser la relation étudiée plutôt que redéfinir intégralement chaque terme. Une page sur la compatibilité n’est pas une seconde page sur les régimes descriptifs ; une page sur l’écologie des régimes ne doit pas devenir un catalogue de toutes les notions du corpus.
+Critère de réussite
 
-### Pattern G — Études de cas et analyses situées
+Une page méthodologique doit permettre au lecteur de comprendre ce qu’il doit examiner, comment procéder, ce qu’il peut conclure et ce qui exige un examen supplémentaire.
 
-### Éprouver les distinctions sur un cas déterminé
+---
 
-Exemples : `temps-einstein-bergson.md`, `variabilite-fonctionnelle-des-enonciations-alimentaires.md` et les analyses situées recensées dans la table des matières.
+Pattern F — Pages consacrées aux articulations entre notions ou régimes
 
-Plan recommandé
+Pages concernées :
 
-* Situation et question examinée
+- "ecologie-des-regimes-descriptifs.md"
+- "relation-et-fonction.md"
+- "compatibilite.md"
+- "incompatibilite.md"
+- les pages étudiant les rapports entre description, référence, fonction et justification
 
-* Matériaux ou faits disponibles
+Fonction
 
-* Descriptions en présence
+Examiner les relations entre plusieurs notions, descriptions ou régimes descriptifs sans les confondre.
 
-* Distinctions pertinentes
+Structure recommandée
 
-* Analyse des fonctions, conditions et critères
+1. Fonction
+2. Problème relationnel
+3. Éléments mis en relation
+4. Type de relation examiné
+5. Conditions de compatibilité ou de conflit
+6. Cas discriminants
+7. Conséquences pour l’enquête
+8. Limites
+9. Synthèse et renvois
 
-* Résultats de l’épreuve
+Points de vigilance
 
-* Limites de l’interprétation
+- Identifier précisément les éléments mis en relation.
+- Distinguer relation, dépendance, compatibilité, incompatibilité et opposition.
+- Ne pas supposer que deux descriptions portant sur un même référent sont nécessairement concurrentes.
+- Ne pas confondre différence de vocabulaire, différence de fonction et contradiction.
+- Ne pas réduire une relation à une propriété intrinsèque de l’un des termes.
+- Préciser les conditions dans lesquelles une incompatibilité devient pertinente pour l’enquête.
+- Éviter de transformer une articulation locale en principe universel.
 
-* Enseignements pour Protokin
+Critère de réussite
 
-    Règle éditoriale : partir du cas, non d’une thèse que le cas serait chargé d’illustrer. Une analyse située peut mettre en difficulté les distinctions de Protokin ; elle ne doit pas simplement les confirmer.
+La page doit permettre de déterminer ce qui relie les éléments étudiés, dans quelles conditions cette relation est pertinente et quelles conclusions elle autorise.
 
-### Pattern H — Pages de référence et de navigation
+---
 
-### Permettre de retrouver et de parcourir le corpus
+Pattern G — Pages consacrées aux études de cas
 
-Exemples : `tdm.md`, `lexique-protokin.md`, `parcours-de-lecture.md`.
+Pages concernées, notamment :
 
-Plan recommandé
+- "temps-einstein-bergson.md"
+- "variabilite-fonctionnelle-des-enonciations-alimentaires.md"
+- les autres études de cas présentes ou à venir
 
-* Pour la table des matières : regroupements fonctionnels, titres exacts, liens vérifiés, index.
+Fonction
 
-* Pour le lexique : terme, définition courte, distinctions essentielles, page de référence.
+Mettre les distinctions et les instruments de Protokin à l’épreuve d’une situation concrète.
 
-* Pour les parcours : question du lecteur, itinéraire, fonction de chaque étape, points d’entrée alternatifs.
+Structure recommandée
 
-    Règle éditoriale : ces pages facilitent l’accès au corpus ; elles ne doivent pas devenir des lieux où l’on réécrit une seconde fois la théorie.
+1. Situation étudiée
+2. Question d’enquête
+3. Matériaux et faits disponibles
+4. Descriptions en présence
+5. Distinctions pertinentes
+6. Analyse du cas
+7. Résultats des épreuves
+8. Limites de l’interprétation
+9. Enseignements pour Protokin
+10. Renvois
 
-### 3\. Le noyau commun à toutes les pages théoriques
+Points de vigilance
 
-Je conserverais un petit nombre de rubriques transversales, mais sans imposer qu’elles apparaissent toutes sous forme de sections distinctes.
+- Distinguer les faits disponibles, les descriptions produites et l’interprétation proposée.
+- Présenter les matériaux nécessaires à la compréhension du cas.
+- Ne pas forcer le cas à confirmer une distinction théorique préétablie.
+- Identifier les éléments qui résistent à l’analyse ou restent indéterminés.
+- Ne pas transformer une différence descriptive en opposition absolue entre deux régimes.
+- Distinguer l’analyse du cas des conclusions générales que l’on pourrait en tirer.
+- Signaler les limites documentaires ou interprétatives.
 
-| Rubrique     | Question à laquelle elle répond                              |
-| ------------ | ------------------------------------------------------------ |
-| Fonction     | À quoi sert cette page dans Protokin ?                       |
-| Problème     | Quelle difficulté rend la notion ou l’opération nécessaire ? |
-| Définition   | Que désigne-t-elle précisément ?                             |
-| Distinctions | Avec quoi risque-t-on de la confondre ?                      |
-| Articulation | De quoi dépend-elle et que permet-elle d’examiner ?          |
-| Limites      | Qu’est-ce qu’elle ne permet pas d’établir ?                  |
-| Épreuve      | Quel cas ou quelle question permet de vérifier son usage ?   |
-| Renvois      | Où approfondir les notions connexes ?                        |
+Critère de réussite
 
-Ce noyau constitue une grille de contrôle éditorial, pas un sommaire obligatoire.
+Le cas doit montrer ce que les instruments permettent effectivement d’examiner, mais aussi ce qu’ils ne permettent pas de conclure.
 
-Par exemple, une page d’opération aura besoin d’expliciter ce que l’enquêteur fait ; une page de notion devra surtout stabiliser une définition et ses frontières ; une page de méthode devra expliquer comment procéder et interpréter le résultat. Les rubriques peuvent donc être fusionnées, déplacées ou omises lorsque leur fonction est déjà remplie.
+Une étude de cas peut conduire à réviser une distinction, une définition ou une hypothèse de Protokin.
 
-### 4\. Les corrections structurelles à traiter en priorité
+---
 
-Avant de réécrire toutes les pages, je traiterais les problèmes transversaux que la lecture du dépôt fait apparaître.
+Pattern H — Pages de référence et de navigation
 
-Priorité 1 — Séparer l’analyse préparatoire du texte publié
+Pages concernées :
 
-Dans `configuration-descriptive.md`, `description.md` et `criteres.md`, supprimer de la page finale les longues sections de conception éditoriale qui expliquent comment la page a été construite. Conserver uniquement les résultats utiles au lecteur : fonction, problème, définition, distinctions, limites et articulation.
+- "tdm.md"
+- "lexique-protokin.md"
+- "parcours-de-lecture.md"
 
-Priorité 2 — Distinguer les familles de notions
+Fonction
 
-Le groupe `configuration-rencontree.md` / `configuration-semiotique.md` / `configuration-descriptive.md` / `description.md` mérite un audit conjoint. Il faut vérifier que chaque page répond à une question différente et que leurs relations n’impliquent pas une succession nécessaire ni une constitution automatique du référent.
+Permettre au lecteur de s’orienter dans le corpus, de retrouver les notions et de choisir un parcours adapté à son problème.
 
-Priorité 3 — Contrôler les engagements théoriques
+A. Table des matières
 
-Vérifier chaque occurrence de PROTO/KIN, du cOS, de l’hylémorphisme et des formulations comme « constitution », « dimension constitutive » ou « armature constitutive ». Le but n’est pas de bannir les termes, mais de déterminer s’ils sont nécessaires, compatibles avec l’architecture actuelle et suffisamment justifiés.
+Structure recommandée :
+
+1. Entrées principales
+2. Organisation par fonction ou domaine
+3. Regroupement des pages
+4. Liens vers les pages existantes
+5. Vérification des chemins et des intitulés
+
+Points de vigilance :
+
+- Vérifier chaque lien.
+- Employer les noms de fichiers réellement présents dans le dépôt.
+- Éviter les doublons et les catégories de classement contradictoires.
+- Signaler clairement les pages d’orientation, les opérations, les notions, les méthodes et les études de cas.
+
+B. Lexique
+
+Structure recommandée pour chaque entrée :
+
+1. Terme
+2. Définition concise
+3. Distinctions essentielles
+4. Page de référence
+5. Éventuels renvois complémentaires
+
+Points de vigilance :
+
+- Faire du lexique un instrument de consultation, non une répétition intégrale des pages théoriques.
+- Employer les termes de manière cohérente dans tout le corpus.
+- Signaler les termes abandonnés, redéfinis ou encore provisoires lorsque cela est utile.
+- Éviter les définitions circulaires.
+- Ne pas multiplier les synonymes sans préciser leur statut.
+- Vérifier que chaque définition renvoie vers une page qui développe effectivement la notion.
+
+C. Parcours de lecture
+
+Structure recommandée :
+
+1. Question ou problème de départ
+2. Pages à consulter
+3. Ordre de lecture proposé
+4. Fonction de chaque étape
+5. Parcours complémentaires
+
+Points de vigilance :
+
+- Organiser les parcours selon les problèmes rencontrés ou les objectifs du lecteur.
+- Ne pas imposer un ordre unique lorsque plusieurs entrées sont possibles.
+- Expliquer brièvement pourquoi chaque page est proposée.
+- Vérifier que les parcours correspondent à l’état actuel du corpus.
+- Éviter de présenter un parcours pédagogique comme une chaîne nécessaire de constitution.
+
+---
+
+4. Priorités de révision du dépôt
+
+Priorité 1 — Supprimer les analyses éditoriales internes des pages publiées
+
+Rechercher les passages qui relèvent de notes de travail plutôt que du contenu destiné au lecteur.
+
+Pages à examiner en priorité :
+
+- "configuration-descriptive.md"
+- "description.md"
+- "criteres.md"
+
+Repérer notamment les formulations telles que « analyse architecturale préalable », les commentaires sur la construction du document et les indications qui décrivent le travail éditorial au lieu d’expliquer la notion.
+
+Ces éléments ne doivent être conservés que s’ils remplissent une fonction explicite dans la documentation publiée.
+
+Priorité 2 — Réviser conjointement le groupe des configurations et de la description
+
+Pages à examiner ensemble :
+
+- "configuration-rencontree.md"
+- "configuration-semiotique.md"
+- "configuration-descriptive.md"
+- "description.md"
+- "objet-descriptif.md"
+- "referent.md"
+
+Pour chacune, vérifier :
+
+- sa fonction propre ;
+- son problème spécifique ;
+- la définition de ses termes ;
+- ses différences avec les pages voisines ;
+- ses dépendances conceptuelles ;
+- les limites des inférences qu’elle autorise ;
+- l’absence de répétitions inutiles ;
+- la cohérence des exemples et des renvois.
+
+Ne pas présupposer une séquence nécessaire entre configuration rencontrée, configuration sémiotique, configuration descriptive, description, objet descriptif et référent.
+
+Les relations entre ces notions doivent être explicitées sans faire de l’une la constitution automatique de l’autre.
+
+Priorité 3 — Réexaminer les engagements théoriques hérités
+
+Examiner notamment les termes et expressions suivants :
+
+- PROTO / KIN ;
+- cOS ;
+- hylémorphisme ;
+- constitution ;
+- dimension constitutive ;
+- armature constitutive.
+
+Il ne s’agit pas de les supprimer systématiquement, mais d’évaluer leur nécessité et leur compatibilité avec l’orientation actuelle du projet.
+
+Pour chaque occurrence, se demander :
+
+1. Quel problème le terme permet-il de traiter ?
+2. Une formulation plus précise est-elle disponible ?
+3. Le terme introduit-il un engagement théorique non nécessaire ?
+4. Est-il cohérent avec les distinctions établies ailleurs ?
+5. Est-il indispensable à la compréhension de la page ?
+
+Le terme « constitution » doit notamment être examiné lorsqu’il risque de faire passer une relation descriptive pour une relation de production ou de détermination ontologique.
 
 Priorité 4 — Vérifier la navigation et les noms de fichiers
 
-La table des matières et le README présentent déjà des écarts à vérifier : le README renvoie vers `architecture-systeme.md`, alors que la page consultée dans le dépôt est `architecture-projet.md` ; la table contient aussi des chemins qui paraissent mal orthographiés, comme `delimier.md` et `la-relarion-n-est-la-propriete-physique-de-la-chose.md`. Il faut contrôler l’existence des fichiers et corriger les liens avant de considérer la cartographie comme stabilisée.
+Contrôler :
 
-### 5\. Comment appliquer ces patterns sans uniformiser artificiellement le corpus
+- l’existence effective des fichiers ciblés ;
+- la correspondance entre les liens et les chemins du dépôt ;
+- la cohérence entre les intitulés des pages et ceux de la navigation ;
+- les liens internes aux pages ;
+- les références croisées du lexique et des parcours de lecture ;
+- les éventuels noms de fichiers mal orthographiés.
 
-Je recommande de travailler par lots cohérents, en conservant pour chaque page quatre décisions éditoriales : conserver, corriger, fusionner ou restructurer.
+Ne pas corriger un chemin sur la seule base d’une supposition : vérifier d’abord le nom réel du fichier et son rôle dans l’architecture.
 
-* Premier lot : les pages d’architecture. Stabiliser les rôles respectifs de l’introduction, de l’architecture du projet, de l’architecture fonctionnelle et de la quadripartition.
+---
 
-* Deuxième lot : les configurations et la description. Auditer ensemble les pages sur la configuration rencontrée, la configuration sémiotique, la configuration descriptive, la description, l’objet descriptif et le référent.
+5. Ordre recommandé pour reprendre le corpus
 
-* Troisième lot : les notions linguistiques et normatives. Prédication, qualification, proposition, assertion, inférence, critères, raisons et justifications. Ici, le contrôle prioritaire porte sur les distinctions fonctionnelles et les non-conversions.
+Étape 1 — Pages d’orientation
 
-* Quatrième lot : les méthodes et les articulations. Identifier un régime, réaliser un audit, évaluer une traduction, compatibilité et écologie des régimes.
+Réviser l’introduction générale, les pages d’architecture et la quadripartition.
 
-* Cinquième lot : les études de cas, le lexique et les index. Vérifier que les exemples ne dupliquent pas inutilement le corpus et que les pages de navigation renvoient vers les bonnes références.
+Objectif : stabiliser la présentation du problème de départ, du statut de Protokin et de l’organisation de l’enquête.
 
-Chaque page révisée devrait ensuite être contrôlée sur cinq points : sa fonction est-elle unique et explicite ? Sa définition est-elle compatible avec les pages connexes ? Les dépendances sont-elles décrites sans conversion indue ? Les limites sont-elles claires ? Les liens conduisent-ils vers les pages effectivement pertinentes ?
+Étape 2 — Groupe des configurations et de la description
 
-Ma conclusion : Protokin n’a pas besoin d’un modèle unique de page, mais d’une petite grammaire éditoriale. Huit patterns couvrent les principales fonctions du dépôt ; un noyau commun assure leur cohérence ; un audit des dépendances évite que la standardisation ne masque les différences conceptuelles que le projet cherche précisément à maintenir.
+Réviser conjointement les pages de configuration, de description, d’objet descriptif et de référent.
+
+Objectif : différencier les fonctions des notions et éviter les enchaînements nécessaires ou les conversions injustifiées.
+
+Étape 3 — Langage, inférence et normativité
+
+Réviser les pages consacrées à la prédication, à la proposition, à l’assertion, à l’inférence, aux raisons, aux justifications et aux critères.
+
+Objectif : préciser les distinctions entre forme, contenu, acte, engagement, raison et justification.
+
+Étape 4 — Méthodes et articulations
+
+Réviser les pages consacrées aux instruments, aux audits, aux traductions et aux relations entre régimes descriptifs.
+
+Objectif : rendre les procédures applicables et préciser la portée de leurs résultats.
+
+Étape 5 — Études de cas et pages de référence
+
+Réviser les études de cas, le lexique, la table des matières et les parcours de lecture.
+
+Objectif : vérifier que les exemples mettent réellement les distinctions à l’épreuve et que la navigation reflète le corpus existant.
+
+---
+
+6. Grille de décision pour chaque page
+
+Chaque page doit faire l’objet d’une décision explicite.
+
+Conserver
+
+La fonction est distincte, le contenu est cohérent et les limites sont suffisamment explicites.
+
+Corriger
+
+La page remplit une fonction utile, mais comporte des imprécisions, des répétitions, des liens erronés ou des engagements théoriques mal maîtrisés.
+
+Fusionner
+
+Deux pages remplissent essentiellement la même fonction et leur distinction ne justifie pas deux développements autonomes.
+
+Restructurer
+
+La page traite d’un problème pertinent, mais son organisation ne permet pas de distinguer clairement sa fonction, ses notions et ses conclusions.
+
+Pour chaque décision, documenter brièvement :
+
+- la fonction actuelle ;
+- le problème constaté ;
+- la décision retenue ;
+- les pages liées à modifier ;
+- les vérifications nécessaires après révision.
+
+---
+
+7. Contrôle final avant publication
+
+Avant de considérer une page comme stabilisée, vérifier les points suivants.
+
+- [ ] La fonction de la page est identifiable.
+- [ ] Le problème auquel elle répond est explicite.
+- [ ] Les termes centraux sont définis.
+- [ ] Les distinctions nécessaires sont établies.
+- [ ] La page remplit une fonction distincte des pages voisines.
+- [ ] Les dépendances sont distinguées des conversions.
+- [ ] Les exemples permettent de comprendre ou d’éprouver les distinctions.
+- [ ] Les limites des conclusions sont explicites.
+- [ ] Aucun commentaire éditorial interne ne subsiste sans justification.
+- [ ] Les liens et les noms de fichiers sont vérifiés.
+- [ ] Le vocabulaire est cohérent avec le reste du corpus.
+- [ ] La page contribue à l’enquête sans prétendre constituer à elle seule une théorie générale.
+
+8. Principe éditorial général
+
+La cohérence du corpus ne dépend pas de l’uniformité de ses pages, mais de la compatibilité de leurs fonctions, de leurs définitions et de leurs conclusions.
+
+Chaque page doit apporter une contribution identifiable à l’enquête. Elle peut dépendre d’autres pages, les compléter ou les mettre à l’épreuve, sans les répéter ni présupposer leurs conclusions.
+
+La révision éditoriale doit donc préserver trois exigences :
+
+- Différenciation des fonctions : chaque page répond à un problème déterminé.
+- Continuité des dépendances : les pages s’articulent sans devenir indépendantes les unes des autres.
+- Non-conversion : une distinction, une relation ou une dépendance ne suffit pas à établir une identité, une succession nécessaire ou une détermination d’un registre par un autre.
+
+Ces patterns servent à rendre le corpus plus lisible, plus contrôlable et plus facile à réviser, sans transformer l’architecture de Protokin en système fermé.
