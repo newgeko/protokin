@@ -1,6 +1,6 @@
 # Patterns éditoriaux de Protokin
 
-1. Fonction du document
+## 1. Fonction du document
 
 Ce document définit des repères éditoriaux pour rédiger, réviser et harmoniser les pages de Protokin.
 
@@ -18,7 +18,7 @@ L’objectif est que chaque page :
 - indique ce qu’elle permet d’établir et ce qu’elle n’établit pas ;
 - renvoie vers les pages nécessaires à sa compréhension.
 
-2. Noyau éditorial commun
+## 2. Noyau éditorial commun
 
 Les rubriques suivantes constituent une grille de vérification applicable à l’ensemble du corpus.
 
@@ -58,9 +58,9 @@ Ces rubriques forment une liste de contrôle. Elles ne doivent pas nécessaireme
 
 ---
 
-3. Les huit patterns éditoriaux
+## 3. Les huit patterns éditoriaux
 
-Pattern A — Pages d’orientation et de cadrage
+### Pattern A — Pages d’orientation et de cadrage
 
 Pages concernées :
 
@@ -95,11 +95,11 @@ Points de vigilance
 
 ---
 
-Pattern B — Pages consacrées aux opérations de l’enquête
+### Pattern B — Pages consacrées aux opérations de l’enquête
 
 Pages concernées :
 
-- "delimiter.md" ou le nom de fichier retenu pour délimiter
+- "delimiter.md"
 - "ancrer.md"
 - "distinguer.md"
 - "relier.md"
@@ -138,7 +138,7 @@ La chaîne de Protokin est une chaîne d’enquête, non une chaîne de constitu
 
 ---
 
-Pattern C — Pages consacrées aux notions
+### Pattern C — Pages consacrées aux notions
 
 Pages concernées, notamment :
 
@@ -191,7 +191,7 @@ La description d’une configuration ne suffit pas à établir que cette descrip
 
 ---
 
-Pattern D — Pages d’analyse du langage et de l’inférence
+### Pattern D — Pages d’analyse du langage et de l’inférence
 
 Pages concernées :
 
@@ -244,7 +244,7 @@ Cette analyse ne suppose pas que le contenu concret de l’expérience de l’en
 
 ---
 
-Pattern E — Pages consacrées aux méthodes et aux instruments
+### Pattern E — Pages consacrées aux méthodes et aux instruments
 
 Pages concernées :
 
