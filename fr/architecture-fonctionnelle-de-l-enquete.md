@@ -273,19 +273,19 @@ La quadripartition n’est pas non plus une grille exhaustive à remplir systém
 
 Elle fournit une orientation pour l’enquête, non une classification préalable de la réalité.
 
-7. Articulation entre les opérations
+## 7. Articulation entre les opérations
 
 Les opérations principales sont distinctes, mais elles ne sont pas indépendantes.
 
-Opération| Contribution principale| Limite
-Délimiter| Rend le problème enquêtable.| Ne détermine pas sa solution.
-Ancrer| Identifie les appuis et conditions pertinents.| Ne justifie pas à elle seule une conclusion.
-Distinguer| Maintient les différences nécessaires.| N’établit pas à elle seule les relations entre elles.
-Relier| Explicite les dépendances pertinentes.| Ne rend pas les éléments interchangeables.
-Configurer| Organise l’analyse descriptive.| Ne garantit pas son adéquation.
-Justifier| Examine les raisons et critères des conclusions.| Ne se confond pas avec la genèse ou l’utilité d’une description.
-Reconstituer| Articule les résultats de l’enquête.| Ne garantit pas une résolution définitive.
-Redélimiter| Reprend le problème à partir des résultats.| N’impose pas de recommencer toute la chaîne.
+Opération | Contribution principale | Limite
+Délimiter | Rend le problème enquêtable. | Ne détermine pas sa solution.
+Ancrer | Identifie les appuis et conditions pertinents. | Ne justifie pas à elle seule une conclusion.
+Distinguer | Maintient les différences nécessaires. | N’établit pas à elle seule les relations entre elles.
+Relier | Explicite les dépendances pertinentes. | Ne rend pas les éléments interchangeables.
+Configurer | Organise l’analyse descriptive. | Ne garantit pas son adéquation.
+Justifier | Examine les raisons et critères des conclusions. | Ne se confond pas avec la genèse ou l’utilité d’une description.
+Reconstituer | Articule les résultats de l’enquête. | Ne garantit pas une résolution définitive.
+Redélimiter | Reprend le problème à partir des résultats. | N’impose pas de recommencer toute la chaîne.
 
 Les fonctions transversales peuvent intervenir dans chacune de ces opérations. Une épreuve peut révéler que le problème a été mal délimité ; un audit peut faire apparaître une confusion dans la justification ; une temporalisation peut modifier l’interprétation d’une fonction ; une réflexion sur les présupposés peut conduire à revoir une distinction.
 
