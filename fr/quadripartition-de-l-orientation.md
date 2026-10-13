@@ -103,11 +103,11 @@ L’examen d’une description doit également distinguer l’intention de son l
 
 Il faut donc distinguer :
 
-    - fonction et propriété intrinsèque ;
-    - fonction et relation ;
-    - fonction et intention du locuteur ;
-    - portée inférentielle et effets effectivement produits ;
-    - fonction et justification.
+- fonction et propriété intrinsèque ;
+- fonction et relation ;
+- fonction et intention du locuteur ;
+- portée inférentielle et effets effectivement produits ;
+- fonction et justification.
 
 La fonction d’une description peut expliquer pourquoi elle est mobilisée, maintenue ou contestée. Elle ne suffit pas à établir que ses affirmations sont exactes, que ses distinctions sont adéquates ou que les conclusions tirées sont justifiées.
 
@@ -125,11 +125,11 @@ La justification d’une inférence et l’adéquation de la description ou des 
 
 Il faut notamment distinguer :
 
-    - genèse et justification ;
-    - cause et raison ;
-    - utilité et validité ;
-    - validité d’une inférence et adéquation de ses prémisses ;
-    - cohérence et adéquation.
+- genèse et justification ;
+- cause et raison ;
+- utilité et validité ;
+- validité d’une inférence et adéquation de ses prémisses ;
+- cohérence et adéquation.
 
 La justification est elle-même susceptible d’examen : les critères retenus peuvent être inadaptés, insuffisamment explicites ou contestés. Cela ne dispense pas de justifier les conclusions ; cela rend nécessaire l’examen des critères employés et des passages entre les éléments observés, les descriptions proposées et les conclusions défendues.
 
