@@ -25,6 +25,16 @@ La quadripartition répond à ce problème : **distinguer les fonctions des rép
 
 Elle ne présuppose pas que les quatre orientations soient également pertinentes dans toute enquête. Le problème rencontré détermine celles qui doivent être examinées et les relations qu’il faut établir entre elles.
 
+Une difficulté descriptive peut tenir à deux écarts distincts.
+
+Le premier concerne le rapport entre une description et ce qu’elle prétend décrire. Une description retient certaines différences et en laisse d’autres hors de son champ. Cette sélectivité ne suffit pas à la rendre inadéquate : il faut examiner ce qu’elle prétend établir, dans quel problème elle intervient et si les différences retenues permettent de soutenir ses conclusions.
+
+Le second concerne la portée inférentielle d’une description. Une assertion peut autoriser des conclusions qui dépassent ce que son locuteur entendait dire ou avait anticipé. Cette portée dépend des engagements associés à l’assertion, des règles d’inférence, des prémisses disponibles et des pratiques dans lesquelles elle intervient. Elle ne se confond ni avec l’intention du locuteur ni avec les effets effectivement produits sur les autres.
+
+Ces deux écarts peuvent interagir sans se confondre. Une description peut être adéquate pour un usage limité tout en autorisant des inférences insuffisamment justifiées. Inversement, un raisonnement peut être cohérent au regard de ses prémisses sans que la description initiale soit adéquate à ce qu’elle prétend décrire.
+
+La quadripartition aide à examiner ces difficultés sans les ramener à une question unique : les conditions dans lesquelles la description est produite, les relations qu’elle établit, les fonctions qu’elle remplit et les justifications de ses conclusions doivent être distinguées, puis mises en rapport.
+
 ## 3. Statut de la quadripartition
 
 Condition, Relation, Fonction et Justification sont quatre orientations fonctionnellement distinctes de l’examen. Elles ne désignent pas quatre composantes que toute situation posséderait indépendamment de l’enquête.
