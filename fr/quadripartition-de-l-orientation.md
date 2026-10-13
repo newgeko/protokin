@@ -146,7 +146,7 @@ La continuité des dépendances signifie que les réponses peuvent être liées 
 
 La discontinuité des fonctions signifie que les questions ne remplissent pas le même rôle dans l’examen.
 
-La non-conversion signifie qu’une réponse ne peut pas être utilisée comme réponse suffisante à une autre question sans justification supplémentaire.
+La non-conversion signifie qu’une réponse relevant d’une orientation ne constitue pas, à elle seule, une réponse suffisante à une question relevant d’une autre orientation. Un passage reste possible, mais il faut préciser ce qui l’autorise et dans quelles limites. Une dépendance entre deux questions ne suffit pas à rendre leurs réponses équivalentes.
 
 Ainsi :
 
