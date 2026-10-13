@@ -68,26 +68,21 @@ Une résistance matérielle peut rendre une description insuffisante ou une acti
 
 La question de la relation porte sur les dépendances et les mises en rapport pertinentes pour l’examen d’un problème.
 
-Elle peut concerner une interaction matérielle, une dépendance fonctionnelle, une relation sociale, une relation de référence ou une relation inférentielle. Ces relations ne sont pas équivalentes. Leur nature et leur pertinence doivent être établies en fonction de ce que l’enquête cherche à examiner.
+Elle peut concerner une interaction matérielle, une dépendance fonctionnelle, une relation sociale, une relation de référence ou une relation inférentielle. Ces relations ne sont pas équivalentes. Leur nature et leur pertinence doivent être établies en fonction du problème étudié.
 
-Dans le cas d’une relation inférentielle, il s’agit d’examiner comment une assertion, compte tenu des engagements qui lui sont associés, des règles applicables et des prémisses disponibles, autorise certaines conclusions. Ces conclusions ne sont pas toutes explicitement formulées dans l’assertion. Leur autorisation dépend des relations inférentielles mobilisées dans la pratique concernée et des conditions dans lesquelles elles s’appliquent.
+Dans le cas d’une relation inférentielle, il s’agit d’examiner comment une assertion, compte tenu des engagements qui lui sont associés, des règles applicables et des prémisses disponibles, autorise certaines conclusions. Ces conclusions ne sont pas nécessairement explicitées dans l’assertion, ni effectivement tirées dans la pratique.
 
-Il faut distinguer les conclusions autorisées par les règles et les prémisses mobilisées, celles qui sont effectivement tirées dans une pratique et celles qui exigent des prémisses ou des règles supplémentaires. Le fait qu’une conclusion soit effectivement tirée ne suffit pas à établir qu’elle est autorisée par l’assertion initiale. Inversement, une conclusion peut être autorisée sans être effectivement tirée.
+Il faut donc distinguer les conclusions autorisées par les règles et les prémisses mobilisées, celles qui sont effectivement tirées et celles qui nécessitent des prémisses ou des règles supplémentaires. Une conclusion effectivement tirée n’est pas nécessairement autorisée ; inversement, une conclusion autorisée peut ne jamais être tirée.
 
-La reconnaissance d’une règle dans une pratique permet d’identifier les inférences qui y sont admises. Elle ne suffit pas, à elle seule, à justifier cette règle ni toutes les conclusions qu’elle permet de tirer. L’examen d’une relation inférentielle doit donc distinguer les règles effectivement suivies, les conclusions qu’elles autorisent et les raisons de les accepter ou de les contester.
-
-Une relation ne doit pas être traitée automatiquement comme une propriété intrinsèque de l’un des termes reliés. Elle ne doit pas non plus être confondue avec la fonction que cette relation peut contribuer à rendre possible. Identifier une dépendance ne suffit pas à déterminer ce qu’elle produit dans une pratique, ni à justifier les conclusions qu’on en tire.
+Une relation ne doit pas être traitée automatiquement comme une propriété intrinsèque de l’un des termes reliés. Elle ne se confond pas non plus avec la fonction qu’elle peut contribuer à rendre possible. Identifier une dépendance ne suffit pas à déterminer ce qu’elle produit dans une pratique.
 
 Il faut notamment distinguer :
 
 - relation et propriété intrinsèque ;
 - relation et fonction ;
 - dépendance et identité ;
-- relation de référence et référent ;
-- conclusion effectivement tirée et conclusion autorisée ;
-- inférence autorisée et inférence justifiée.
-
-Une relation de référence contribue à déterminer comment une expression renvoie à ce qu’elle désigne, sans constituer à elle seule le référent. De même, identifier une relation inférentielle ne suffit ni à établir l’adéquation des prémisses mobilisées ni à justifier toutes les conclusions que cette relation permet de tirer.
+- référence et référent ;
+- conclusion autorisée et conclusion effectivement tirée.
 
 **Question directrice** : quels éléments dépendent les uns des autres, de quelle manière, dans quelles conditions et pour quel problème ?
 
@@ -117,23 +112,24 @@ La fonction d’une description peut expliquer pourquoi elle est mobilisée, mai
 
 La question de la justification porte sur les raisons et les critères qui permettent de défendre, de contester ou de réviser une description ou une conclusion.
 
-Elle peut mobiliser des observations, des inférences, des critères d’application, des résultats expérimentaux, des normes de correction ou des arguments liés à une pratique. Les éléments pertinents dépendent de la nature de la conclusion examinée et des exigences auxquelles elle doit répondre.
+Elle peut mobiliser des observations, des inférences, des critères d’application, des résultats expérimentaux, des normes de correction ou des arguments liés à une pratique. Les éléments pertinents dépendent de la conclusion examinée et des exigences auxquelles elle doit répondre.
 
-Justifier ne consiste pas simplement à expliquer pourquoi une description est apparue, pourquoi elle est utilisée ou pourquoi elle est utile à certains acteurs. Il faut examiner ce qui autorise effectivement la conclusion, notamment lorsque celle-ci dépend de plusieurs prémisses ou de règles d’inférence qui ne sont pas explicitées.
+Justifier une conclusion ne consiste pas seulement à identifier les règles qui permettent de l’inférer. Il faut examiner si les prémisses mobilisées sont suffisamment établies, si les règles d’inférence sont recevables et si leur application est défendable dans le cas considéré. La reconnaissance d’une règle dans une pratique permet d’identifier les inférences qui y sont admises ; elle ne suffit pas, à elle seule, à justifier cette règle ni les conclusions qu’elle autorise.
 
-La justification d’une inférence et l’adéquation de la description ou des prémisses sur lesquelles elle repose constituent des questions distinctes. Une conclusion peut découler correctement de prémisses sans que celles-ci soient adéquates à la situation décrite. Inversement, une description adéquate ne suffit pas à justifier toute conclusion que l’on prétend en tirer. Il faut donc examiner à la fois les passages inférentiels et les éléments qui autorisent les prémisses mobilisées.
+Il faut également distinguer la justification d’une inférence et l’adéquation de la description ou des prémisses sur lesquelles elle repose. Une conclusion peut découler correctement de prémisses inadéquates à la situation décrite. Inversement, une description adéquate ne suffit pas à justifier toute conclusion que l’on prétend en tirer.
 
 Il faut notamment distinguer :
 
 - genèse et justification ;
 - cause et raison ;
 - utilité et validité ;
+- conclusion autorisée et conclusion justifiée ;
 - validité d’une inférence et adéquation de ses prémisses ;
 - cohérence et adéquation.
 
-La justification est elle-même susceptible d’examen : les critères retenus peuvent être inadaptés, insuffisamment explicites ou contestés. Cela ne dispense pas de justifier les conclusions ; cela rend nécessaire l’examen des critères employés et des passages entre les éléments observés, les descriptions proposées et les conclusions défendues.
+La justification est elle-même susceptible d’examen : les critères retenus peuvent être inadaptés, insuffisamment explicites ou contestés. Il faut alors examiner les critères employés et les passages entre les éléments observés, les descriptions proposées et les conclusions défendues.
 
-**Question directrice** : qu’est-ce qui autorise cette conclusion, quelles prémisses suppose-t-elle et dans quelles conditions peut-elle être contestée ou révisée ?
+**Question directrice** : quelles raisons et quels critères permettent de défendre cette conclusion, quelles prémisses suppose-t-elle et dans quelles conditions peut-elle être contestée ou révisée ?
 
 ## 5. Articulation des quatre orientations
 
