@@ -15,25 +15,21 @@ La quadripartition n’est ni une ontologie, ni une classification générale du
 
 ## 2. Problème
 
-Une difficulté descriptive peut être entretenue par la confusion de plusieurs questions.
+Une difficulté descriptive peut être entretenue par la confusion de questions distinctes. Une condition matérielle peut être présentée comme si elle justifiait une conclusion ; une relation observée peut être assimilée à une fonction ; l’utilité d’une description peut être invoquée comme preuve de son adéquation.
 
-Une condition matérielle peut être présentée comme si elle justifiait une conclusion. Une relation observée peut être assimilée à une fonction. L’utilité pratique d’une description peut être invoquée comme preuve de son adéquation. L’origine d’une catégorie peut tenir lieu de justification de son maintien.
+Deux écarts méritent une attention particulière.
 
-Ces confusions ne signifient pas que les questions concernées seraient indépendantes. Les conditions influencent les pratiques, les relations contribuent à déterminer les fonctions et les critères de justification dépendent eux-mêmes de situations et de pratiques. Mais ces dépendances ne rendent pas les réponses interchangeables.
+Le premier concerne le rapport entre une description et ce qu’elle prétend décrire. Une description retient certaines différences sans pouvoir être présumée exhaustive. Cette sélectivité ne suffit pas à établir son inadéquation : il faut examiner ce qu’elle prétend établir et si les différences retenues permettent de soutenir ses conclusions.
 
-La quadripartition répond à ce problème : **distinguer les fonctions des réponses sans isoler les questions auxquelles elles répondent.**
+Le second concerne la portée inférentielle d’une description. Une assertion peut autoriser des conclusions qui dépassent ce que son locuteur entendait dire ou avait anticipé. Cette portée dépend des engagements associés à l’assertion, des règles d’inférence, des prémisses disponibles et des pratiques concernées. Elle ne se confond ni avec l’intention du locuteur ni avec les effets effectivement produits.
 
-Elle ne présuppose pas que les quatre orientations soient également pertinentes dans toute enquête. Le problème rencontré détermine celles qui doivent être examinées et les relations qu’il faut établir entre elles.
+Ces deux écarts peuvent interagir sans se confondre. Un raisonnement peut être cohérent au regard de ses prémisses sans que la description initiale soit adéquate à ce qu’elle prétend décrire. Une description peut également être adéquate pour un usage limité sans que toutes les inférences qu’elle autorise soient suffisamment justifiées.
 
-Une difficulté descriptive peut tenir à deux écarts distincts.
+La quadripartition permet d’examiner ces difficultés en distinguant les conditions d’une pratique, les relations pertinentes, les fonctions exercées et les justifications des conclusions. Ces questions peuvent dépendre les unes des autres sans recevoir la même réponse.
 
-Le premier concerne le rapport entre une description et ce qu’elle prétend décrire. Une description retient certaines différences et en laisse d’autres hors de son champ. Cette sélectivité ne suffit pas à la rendre inadéquate : il faut examiner ce qu’elle prétend établir, dans quel problème elle intervient et si les différences retenues permettent de soutenir ses conclusions.
+**Distinguer les fonctions des réponses sans isoler les questions auxquelles elles répondent.**
 
-Le second concerne la portée inférentielle d’une description. Une assertion peut autoriser des conclusions qui dépassent ce que son locuteur entendait dire ou avait anticipé. Cette portée dépend des engagements associés à l’assertion, des règles d’inférence, des prémisses disponibles et des pratiques dans lesquelles elle intervient. Elle ne se confond ni avec l’intention du locuteur ni avec les effets effectivement produits sur les autres.
-
-Ces deux écarts peuvent interagir sans se confondre. Une description peut être adéquate pour un usage limité tout en autorisant des inférences insuffisamment justifiées. Inversement, un raisonnement peut être cohérent au regard de ses prémisses sans que la description initiale soit adéquate à ce qu’elle prétend décrire.
-
-La quadripartition aide à examiner ces difficultés sans les ramener à une question unique : les conditions dans lesquelles la description est produite, les relations qu’elle établit, les fonctions qu’elle remplit et les justifications de ses conclusions doivent être distinguées, puis mises en rapport.
+La pertinence de chaque orientation dépend du problème rencontré. La quadripartition ne suppose donc ni que les quatre orientations soient également pertinentes dans toute enquête, ni qu’elles suffisent à traiter toute difficulté descriptive.
 
 ## 3. Statut de la quadripartition
 
@@ -70,20 +66,23 @@ Une résistance matérielle peut rendre une description insuffisante ou une acti
 
 ### 4.2. Relation
 
-La question de la relation porte sur les dépendances et les mises en rapport nécessaires à l’examen d’un problème.
+La question de la relation porte sur les dépendances et les mises en rapport pertinentes pour l’examen d’un problème.
 
-Elle peut concerner, par exemple, une interaction matérielle, une dépendance fonctionnelle, une relation sociale, une relation de référence ou une relation inférentielle. Ces relations ne sont pas équivalentes et doivent être précisées selon ce que l’enquête cherche à déterminer.
+Elle peut concerner une interaction matérielle, une dépendance fonctionnelle, une relation sociale, une relation de référence ou une relation inférentielle. Ces relations ne sont pas équivalentes et doivent être précisées selon ce que l’enquête cherche à établir.
+
+Dans le cas d’une relation inférentielle, il s’agit d’examiner comment une assertion, compte tenu des règles applicables et des prémisses disponibles, autorise certaines conclusions. Une conclusion peut dépendre d’une assertion sans être autorisée par elle seule. Il faut donc distinguer les conséquences effectivement soutenues par un raisonnement de celles qui exigent des prémisses ou des règles supplémentaires.
 
 Une relation ne doit pas être traitée automatiquement comme une propriété intrinsèque de l’un des termes reliés. Elle ne doit pas non plus être confondue avec la fonction que cette relation peut contribuer à rendre possible.
 
 Il faut notamment distinguer :
 
-- relation et propriété intrinsèque ;
-- relation et fonction ;
-- dépendance et identité ;
-- relation sémantique et référent.
+    - relation et propriété intrinsèque ;
+    - relation et fonction ;
+    - dépendance et identité ;
+    - relation de référence et référent ;
+    - conséquence inférentielle et conclusion effectivement justifiée.
 
-Une relation entre deux éléments peut être nécessaire pour comprendre leur rôle sans suffire à déterminer ce que chacun fait dans une pratique. De même, une relation sémantique peut contribuer à organiser l’usage d’une expression sans constituer, à elle seule, le référent auquel cette expression renvoie.
+Une relation sémantique contribue à déterminer comment une expression renvoie à ce qu’elle désigne, sans constituer à elle seule ce référent. De même, identifier une relation inférentielle ne suffit pas à établir que toutes les conclusions qu’elle rend possibles sont justifiées.
 
 **Question directrice** : quels éléments dépendent les uns des autres, de quelle manière et pour quel problème ?
 
@@ -91,22 +90,23 @@ Une relation entre deux éléments peut être nécessaire pour comprendre leur r
 
 La question de la fonction porte sur ce que fait une configuration, une distinction ou une description dans une pratique déterminée.
 
-Il s’agit d’examiner le rôle effectivement exercé, et non d’attribuer à la chose une propriété fonctionnelle indépendante de ses usages et de ses relations.
+Il s’agit d’examiner le rôle qu’elle y exerce, et non d’attribuer à la chose une propriété fonctionnelle indépendante de ses usages et de ses relations.
 
 Une même configuration peut remplir des fonctions différentes selon les pratiques dans lesquelles elle intervient. Inversement, des configurations matériellement différentes peuvent remplir une fonction comparable dans une pratique donnée.
 
-L’enquête doit donc préciser la pratique considérée, le rôle étudié et les éléments qui permettent de caractériser ce rôle.
+L’examen d’une description doit également distinguer l’intention de son locuteur, les usages qui en sont faits et les conséquences qu’elle autorise. Le locuteur ne maîtrise pas nécessairement toutes les inférences associées à son assertion. Celles-ci dépendent aussi des engagements, des règles et des prémisses reconnus dans la pratique concernée. Les conclusions que d’autres en tirent effectivement constituent un autre aspect : elles ne sont pas nécessairement toutes autorisées par l’assertion initiale.
 
-Il faut notamment distinguer :
+Il faut donc distinguer :
 
-- fonction et propriété intrinsèque ;
-- fonction et relation ;
-- fonction et intention ;
-- fonction et justification.
+    - fonction et propriété intrinsèque ;
+    - fonction et relation ;
+    - fonction et intention du locuteur ;
+    - portée inférentielle et effets effectivement produits ;
+    - fonction et justification.
 
-La fonction d’une description peut expliquer pourquoi elle est mobilisée ou maintenue. Elle ne suffit pas à établir que ses affirmations sont exactes, que ses distinctions sont adéquates ou que ses conclusions sont justifiées.
+La fonction d’une description peut expliquer pourquoi elle est mobilisée, maintenue ou contestée. Elle ne suffit pas à établir que ses affirmations sont exactes, que ses distinctions sont adéquates ou que les conclusions tirées sont justifiées.
 
-**Question directrice** : que fait cette configuration ou cette description dans la pratique étudiée ?
+**Question directrice** : que fait cette configuration ou cette description dans la pratique étudiée, indépendamment de ce que son locuteur entendait en faire ?
 
 ### 4.4. Justification
 
@@ -114,20 +114,21 @@ La question de la justification porte sur les raisons et les critères qui perme
 
 Elle peut mobiliser des observations, des inférences, des critères d’application, des résultats expérimentaux, des normes de correction ou des arguments liés à une pratique. Les éléments pertinents dépendent de la nature de la conclusion examinée et des exigences auxquelles elle doit répondre.
 
-Justifier ne consiste pas simplement à expliquer pourquoi une description est apparue, pourquoi elle est utilisée ou pourquoi elle est utile à certains acteurs.
+Justifier ne consiste pas simplement à expliquer pourquoi une description est apparue, pourquoi elle est utilisée ou pourquoi elle est utile à certains acteurs. Il faut examiner ce qui autorise effectivement la conclusion, notamment lorsque celle-ci dépend de plusieurs prémisses ou de règles d’inférence qui ne sont pas explicitées.
+
+La justification d’une inférence et l’adéquation de la description sur laquelle elle repose constituent toutefois deux questions distinctes. Un raisonnement peut être valide au regard de ses prémisses sans que celles-ci soient adéquates à la situation décrite. Inversement, une description adéquate ne suffit pas à justifier toute conclusion que l’on prétend en tirer.
 
 Il faut notamment distinguer :
 
-- genèse et justification ;
-- cause et raison ;
-- utilité et validité ;
-- cohérence et adéquation.
+    - genèse et justification ;
+    - cause et raison ;
+    - utilité et validité ;
+    - validité d’une inférence et adéquation de ses prémisses ;
+    - cohérence et adéquation.
 
-Une description peut être cohérente dans son propre cadre et remplir efficacement une fonction sans être adéquate à ce qu’elle prétend décrire. Inversement, la contestation d’une justification ne suffit pas à établir que tous les autres aspects de la description sont faux.
+La justification est elle-même susceptible d’examen : les critères retenus peuvent être inadaptés, insuffisamment explicites ou contestés. Cela ne dispense pas de justifier les conclusions ; cela rend nécessaire l’examen des critères employés et des passages entre les éléments observés, les descriptions proposées et les conclusions défendues.
 
-La justification est elle-même susceptible d’examen : les critères retenus peuvent être inadaptés, insuffisamment explicites ou contestés. Cela ne dispense pas de justifier les conclusions ; cela rend nécessaire l’examen des critères employés.
-
-**Question directrice** : qu’est-ce qui autorise cette conclusion, et dans quelles conditions peut-elle être contestée ou révisée ?
+**Question directrice** : qu’est-ce qui autorise cette conclusion, quelles prémisses suppose-t-elle et dans quelles conditions peut-elle être contestée ou révisée ?
 
 ## 5. Articulation des quatre orientations
 
