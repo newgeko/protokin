@@ -68,8 +68,7 @@ Pages concernées :
 
 - "introduction-generale.md"
 - "architecture-projet.md"
-- "architecture-systeme.md", si cette page existe dans l’architecture retenue
-- "architecture-enquete.md"
+- "architecture-fonctionnelle-de-l-enquete.md"
 - "quadripartition.md"
 
 Fonction
@@ -89,7 +88,7 @@ Structure recommandée
 
 Points de vigilance
 
-- Distinguer l’architecture du projet, l’architecture de l’enquête et l’orientation de la quadripartition.
+- Distinguer l’architecture du projet, l’architecture fonctionnelle de l’enquête et l’orientation de la quadripartition.
 - Ne pas présenter la quadripartition comme une ontologie, une hiérarchie de niveaux ou une succession obligatoire de phases.
 - Partir du problème descriptif plutôt que de catégories supposées préalablement constituées.
 - Ne pas présenter Protokin comme une théorie exhaustive du langage ou une description ultime du monde.
@@ -102,14 +101,14 @@ Pattern B — Pages consacrées aux opérations de l’enquête
 
 Pages concernées :
 
-- "delimier.md" ou le nom de fichier retenu pour délimiter
+- "delimiter.md" ou le nom de fichier retenu pour délimiter
 - "ancrer.md"
 - "distinguer.md"
 - "relier.md"
 - "configurer.md"
 - "justifier.md"
 - "reconstituer.md"
-- "redelimier.md", si cette opération dispose d’une page autonome
+- "redelimiter.md"
 
 Fonction
 
