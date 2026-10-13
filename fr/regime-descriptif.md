@@ -1,399 +1,110 @@
-# Page : regime-descriptif.md
+Régime descriptif — Conditions d’organisation d’une description
 
-# Régime descriptif — Les cadres de production et d'évaluation des descriptions
+Fonction
 
-| Fonction | Établir la notion de **régime descriptif** dans l'architecture de Protokin en tant que cadre normatif, relationnel et institutionnel stabilisé qui régit la production, l'évaluation et la justification des descriptions. |
-| :--- | :--- |
-| **Prépare** | L'analyse de la recevabilité, de la validité descriptive, de la puissance descriptive et l'audit critique des classifications. |
-| **Mobilise** | Les configurations descriptives, les catégories, les critères, les normes et la distinction fondamentale entre l'espace des causes et l'espace des raisons. |
-| **Permet ensuite** | L'examen des engagements inférentiels, du scorekeeping déontique, de l'effet cliquet, des transitions et des traductions inter-régimes. |
-| **N'établit pas** | La théorie complète de la comptabilité déontique collective ni la méthode détaillée de l'audit comparatif. |
+La notion de régime descriptif permet d’examiner les conditions selon lesquelles une pratique organise la production, l’interprétation, la circulation et l’évaluation des descriptions.
 
----
+Elle sert à comprendre pourquoi des descriptions portant sur un même référent peuvent différer sans nécessairement se contredire, mais aussi comment des différences de description peuvent devenir incompatibles lorsque leurs usages, leurs critères ou leurs engagements ne concordent plus.
 
-## 1. Problème conceptuel inaugural
+Problème
 
-Une description ne possède pas une validité autonome ou intrinsèque. Elle n'est ni une simple copie d'une réalité pré-découpée, ni une construction arbitraire indépendante des contraintes du monde.
+Une même configuration peut être décrite de plusieurs manières selon les questions posées, les distinctions retenues, les fonctions recherchées et les critères mobilisés.
 
-Le problème fondamental auquel répond la notion de **régime descriptif** est donc le suivant :
+Un arbre, par exemple, peut être décrit comme organisme vivant, ressource forestière, élément d’un paysage ou propriété cadastrale. Ces descriptions ne sélectionnent pas les mêmes différences et ne répondent pas aux mêmes exigences.
 
-> Comment une communauté de locuteurs peut-elle distinguer une description correcte d'une description erronée sans supposer un fondement absolu extérieur aux pratiques, tout en évitant de réduire toute validité à une simple convention arbitraire ?
+Il ne suffit donc pas de constater leur pluralité. Il faut déterminer ce qui organise chacune d’elles, ce qu’elle permet d’établir et les conditions dans lesquelles elle peut être comparée à une autre.
 
-Le rejet du **Mythe du Donné** conduit Protokin à déplacer l'analyse : la validité d'une description ne provient pas d'une correspondance immédiate avec un monde déjà organisé, mais d'un ensemble de conditions normatives, historiques et pratiques qui rendent certaines descriptions recevables au sein d'une communauté.
+Le problème apparaît lorsque les différences entre descriptions sont traitées trop rapidement comme des différences de référent, ou lorsque des descriptions distinctes sont déclarées équivalentes au seul motif qu’elles portent sur une même chose.
 
-Un régime descriptif ne révèle donc pas simplement un objet préexistant. Il établit les conditions sous lesquelles quelque chose peut devenir descriptivement accessible, intelligible, évaluable et justifiable.
+Définition
 
----
+Un régime descriptif désigne une organisation relativement stabilisée des pratiques, des distinctions, des opérations et des critères par lesquels des descriptions sont produites, interprétées et évaluées dans un domaine d’activité.
 
-# 2. Définition fonctionnelle
+Un régime descriptif ne se réduit ni à un vocabulaire spécialisé, ni à un ensemble de propositions, ni à une perspective individuelle. Il concerne les conditions pratiques dans lesquelles certaines descriptions deviennent recevables, utilisables, contestables ou révisables.
 
-Dans l'architecture métathéorique de Protokin, on appelle **régime descriptif** :
+Il peut notamment impliquer :
 
-> **Une configuration historiquement stabilisée de pratiques, de catégories, de critères, de normes, d'instruments et d'engagements qui détermine les conditions selon lesquelles une description peut être produite, évaluée et justifiée au sein d'une communauté de locuteurs.**
+- des questions jugées pertinentes ;
+- des distinctions disponibles et des catégories héritées ;
+- des opérations descriptives privilégiées ;
+- des usages auxquels les descriptions sont destinées ;
+- des critères d’adéquation et des procédures de validation ;
+- des formes de circulation, de transmission et de contestation.
 
-Le régime descriptif possède plusieurs propriétés fondamentales :
+Cette liste indique des dimensions d’analyse possibles, et non les composantes nécessaires de tout régime.
 
-### 2.1 Un cadre de recevabilité
+Régime et description particulière
 
-Le régime définit ce qui compte comme une description acceptable :
+Une description particulière est une réalisation située. Un régime descriptif permet d’examiner les conditions qui rendent cette réalisation possible et intelligible au sein d’une pratique.
 
-- quelles observations sont pertinentes ;
-- quelles preuves sont recevables ;
-- quelles inférences sont autorisées ;
-- quelles objections peuvent entraîner une révision.
+Le régime ne détermine cependant pas mécaniquement chaque description. Une pratique peut mobiliser plusieurs ressources, rencontrer des situations inédites ou produire des descriptions qui mettent en difficulté ses propres critères.
 
-Il constitue ainsi l'espace normatif dans lequel une assertion peut être évaluée.
+Il faut donc distinguer la régularité d’un régime et la détermination de chaque description. La première rend certaines opérations plus disponibles ou plus recevables ; elle ne suffit pas à expliquer toutes leurs réalisations ni à garantir leur adéquation.
 
-### 2.2 Une organisation des possibilités descriptives
+Régimes différents et référent commun
 
-Un régime ne produit pas nécessairement une seule description correcte.
+Plusieurs régimes descriptifs peuvent concerner un même référent sans remplir les mêmes fonctions.
 
-Il organise plutôt un espace de possibilités :
+Le botaniste et le bûcheron peuvent parler du même arbre, tout en sélectionnant des propriétés différentes. Le premier peut s’intéresser à l’identification d’une espèce, à sa structure ou à son développement ; le second, à la qualité du bois, à son exploitation ou aux conditions d’abattage.
 
-- certaines distinctions deviennent disponibles ;
-- certaines catégories deviennent applicables ;
-- certaines relations d'inférence deviennent légitimes ;
-- certaines descriptions deviennent impossibles ou incohérentes.
+Ces descriptions ne sont pas nécessairement concurrentes. Elles peuvent être complémentaires, partiellement traduisibles ou pertinentes pour des questions différentes.
 
-Le régime délimite donc l'espace du dicible sans épuiser la totalité du réel.
+Leur comparaison exige d’examiner ce qu’elles cherchent à établir, les distinctions qu’elles mobilisent et les critères selon lesquels elles peuvent être évaluées.
 
-### 2.3 Une stabilisation collective
+Le référent commun ne garantit donc ni l’identité des contenus descriptifs ni leur compatibilité. Inversement, la différence entre les descriptions ne prouve pas que chacune constitue son propre référent.
 
-Un régime existe parce qu'il est maintenu par des pratiques collectives :
+Régime et registres descriptifs
 
-- apprentissage ;
-- institutions ;
-- instruments ;
-- archives ;
-- communautés d'experts ou d'usagers.
+Un régime descriptif ne doit pas être confondu avec un registre descriptif.
 
-Il constitue une forme de mémoire normative collective.
+Les registres cognitif, sémantique et référentiel permettent de distinguer des dimensions de l’enquête qui ne doivent pas être converties les unes dans les autres. Ils concernent notamment les conditions de connaissance, les significations et les relations au référent.
 
----
+Un régime descriptif peut articuler ces dimensions dans une pratique déterminée. Il ne constitue pas un quatrième registre venant s’ajouter aux trois autres.
 
-# 3. Distinctions conceptuelles nécessaires
+Cette distinction permet d’étudier leur articulation sans réduire une difficulté sémantique à une difficulté cognitive, une relation au référent à une question de signification, ou une justification à la seule cohérence d’un discours.
 
-## 3.1 Régime descriptif et configuration descriptive
+Régime, stabilisation et transformation
 
-La **configuration descriptive** désigne l'organisation relationnelle des catégories, distinctions et possibilités de description.
+Un régime descriptif peut se stabiliser par la répétition des usages, la transmission des catégories, l’adoption de procédures, la reconnaissance institutionnelle ou la conservation de documents et d’instruments.
 
-Le **régime descriptif** ajoute une dimension normative :
+Cette stabilisation ne suppose ni convention explicite ni accord permanent entre les participants. Elle peut résulter de pratiques héritées, de contraintes matérielles, de dispositifs techniques ou de règles institutionnelles.
 
-- comment une description peut être justifiée ;
-- selon quels critères elle peut être corrigée ;
-- quelles conséquences inférentielles elle autorise.
+Un régime peut également se transformer lorsque ses catégories deviennent insuffisantes, que ses critères sont contestés, que de nouvelles pratiques apparaissent ou que des descriptions jusque-là séparées doivent être articulées.
 
-La configuration rend une description possible.
+Une transformation ne se réduit pas nécessairement au remplacement d’un vocabulaire. Elle peut modifier les différences jugées pertinentes, les opérations disponibles, les usages des descriptions ou les conditions de leur justification.
 
-Le régime détermine les conditions de sa validité.
+Il faut toutefois distinguer la transformation du régime descriptif de celle de la configuration décrite. Une modification des pratiques de description n’implique pas automatiquement une transformation du référent ; une transformation du référent peut, inversement, mettre en défaut un régime descriptif jusque-là opérant.
 
----
+Enquête sur un régime descriptif
 
-## 3.2 Régime descriptif et description
+L’analyse d’un régime descriptif peut être conduite en examinant :
 
-La **description** est une opération située réalisée par un locuteur.
+1. Le problème : quelle difficulté ou quelle question rend la description nécessaire ?
+2. Les distinctions : quelles différences sont retenues, et lesquelles demeurent difficiles à formuler ?
+3. Les opérations : comment les éléments sont-ils identifiés, qualifiés, reliés et configurés ?
+4. Les fonctions : à quoi servent les descriptions dans les pratiques concernées ?
+5. Les justifications : quels critères permettent de défendre, de contester ou de réviser les descriptions ?
+6. Les transformations : que change l’apparition d’une nouvelle description dans les pratiques, les catégories ou les critères existants ?
 
-Elle actualise une possibilité disponible dans une configuration.
+Ces questions ne constituent pas une procédure automatique. Elles orientent l’enquête lorsque la pluralité ou l’instabilité des descriptions devient un problème.
 
-Le **régime descriptif** constitue le cadre qui permet d'évaluer cette actualisation.
+Ce que la notion n’établit pas
 
-Il ne produit pas directement chaque description particulière ; il établit les règles selon lesquelles elles peuvent être reconnues comme correctes ou erronées.
+La notion de régime descriptif n’établit pas :
 
----
+- que chaque régime constitue un monde séparé ;
+- que toute description est relative à un régime de manière exclusive ;
+- que les descriptions issues de régimes différents sont incommensurables ;
+- que les critères d’un régime sont nécessairement légitimes ;
+- que la stabilisation d’une description garantit son adéquation ;
+- que la transformation d’un régime transforme nécessairement le référent décrit.
 
-## 3.3 Régime descriptif, critères et normes
+Identifier un régime descriptif ne dispense donc pas d’examiner les affirmations produites en son sein ni les moyens de les éprouver.
 
-Les **critères descriptifs** répondent à la question :
+Synthèse
 
-> Sur quoi repose cette qualification ?
+Un régime descriptif permet d’étudier l’organisation relativement stabilisée des pratiques par lesquelles des descriptions deviennent possibles, utilisables et évaluables.
 
-Ils permettent de discriminer localement les cas.
+Il rend analysables les conditions de la pluralité descriptive sans faire de cette pluralité une preuve de relativité absolue. Il permet également d’examiner comment des catégories et des critères se maintiennent, sont contestés ou se transforment.
 
-Les **normes descriptives** répondent à la question :
-
-> Selon quelles exigences ces critères doivent-ils être utilisés ?
-
-Elles organisent leur usage.
-
-Le **régime descriptif** constitue l'architecture générale qui articule :
-
-- catégories ;
-- critères ;
-- normes ;
-- pratiques de justification.
-
----
-
-# 4. Structure interne du régime descriptif
-
-Un régime descriptif repose sur plusieurs dimensions coordonnées.
-
-## 4.1 Un vocabulaire spécifique
-
-Chaque régime possède des catégories propres permettant certaines distinctions.
-
-Exemples :
-
-- diagnostic médical ;
-- catégorie juridique ;
-- classification biologique ;
-- description morale.
-
----
-
-## 4.2 Des critères de correction
-
-Les critères déterminent les conditions d'application correcte des catégories.
-
-Ils peuvent être :
-
-- perceptifs ;
-- instrumentaux ;
-- statistiques ;
-- expérimentaux ;
-- normatifs.
-
----
-
-## 4.3 Des formes d'inférence
-
-Un régime détermine quelles conséquences peuvent être tirées d'une description.
-
-Exemple :
-
-Qualifier une personne de « patient en urgence vitale » autorise certaines inférences médicales et organisationnelles.
-
----
-
-## 4.4 Des engagements collectifs
-
-Entrer dans un régime implique une responsabilité discursive.
-
-Un locuteur qui affirme une proposition accepte :
-
-- certaines conséquences ;
-- certaines obligations de justification ;
-- certaines possibilités de contestation.
-
-Le régime organise ainsi le **scorekeeping déontique**.
-
----
-
-# 5. Régimes descriptifs et pluralité des descriptions
-
-Protokin refuse deux positions opposées :
-
-## 5.1 Le réalisme descriptif naïf
-
-Selon cette position, un seul régime correct révélerait directement la structure du réel.
-
-Cette approche ignore que différentes pratiques peuvent stabiliser différentes descriptions pertinentes.
-
----
-
-## 5.2 Le relativisme absolu
-
-Selon cette position, toutes les descriptions seraient équivalentes car aucune norme commune n'existerait.
-
-Cette approche ignore les contraintes internes propres aux pratiques de justification.
-
----
-
-## 5.3 Le pluralisme descriptif régulé
-
-Protokin soutient une troisième voie :
-
-> Plusieurs régimes peuvent décrire un même phénomène selon des finalités différentes, à condition que chacun respecte ses propres critères de cohérence et explicite ses conditions de validité.
-
-La pluralité n'est donc pas une absence de norme.
-
-Elle correspond à une pluralité de cadres normatifs.
-
----
-
-# 6. Éclairage par les fils rouges pédagogiques
-
-## « Le vélo est rouge »
-
-Dans un régime perceptif ordinaire :
-
-- la couleur repose sur une observation visuelle partagée ;
-- la compétence linguistique suffit généralement.
-
-Dans un régime colorimétrique industriel :
-
-- la mesure exige des instruments ;
-- des conditions lumineuses contrôlées ;
-- des standards quantifiés.
-
-Le vélo reste physiquement identique.
-
-Cependant, les critères de correction changent selon le régime.
-
----
-
-## « Cette personne est dangereuse »
-
-La qualification dépend du régime mobilisé.
-
-### Régime psychiatrique
-
-Critères :
-
-- symptômes ;
-- historique clinique ;
-- évaluation du risque.
-
-### Régime policier
-
-Critères :
-
-- signalements ;
-- comportements observables ;
-- analyse opérationnelle.
-
-### Régime juridique
-
-Critères :
-
-- preuves recevables ;
-- procédure contradictoire ;
-- imputabilité.
-
-La même expression ne possède donc pas la même fonction normative selon le régime.
-
----
-
-## « Cette personne est mauvaise »
-
-Cette qualification appartient à un régime moral.
-
-Elle évalue des actes selon des normes collectives.
-
-L'erreur apparaît lorsque cette évaluation normative est transformée en propriété essentielle de la personne.
-
-L'audit protokinien identifie alors une réification :
-
-> Une qualification située devient artificiellement une nature permanente.
-
----
-
-## Le botaniste et le bûcheron
-
-Face au même arbre :
-
-Le botaniste mobilise un régime scientifique :
-
-- critères morphologiques ;
-- relations phylogénétiques ;
-- classification biologique.
-
-Le bûcheron mobilise un régime technique :
-
-- qualité du bois ;
-- rectitude ;
-- potentiel d'exploitation.
-
-Les deux descriptions peuvent être correctes car elles répondent à des finalités différentes.
-
----
-
-## Le patient aux urgences
-
-Plusieurs régimes coexistent :
-
-- régime clinique : urgence physiologique ;
-- régime diagnostique : maladie et causalité médicale ;
-- régime administratif : organisation des ressources.
-
-L'audit porte sur les conflits possibles entre ces régimes lorsque l'un tente d'imposer ses critères aux autres.
-
----
-
-# 7. Place dans l'architecture fonctionnelle
-
-Le régime descriptif intervient après la constitution des éléments descriptifs fondamentaux :
-
-Configuration rencontrée ↓ Configuration sémiotique ↓ Support descriptif ↓ Configuration descriptive ↓ Catégories et critères ↓ Taxonomie descriptive ↓ Objet descriptif ↓ Régime descriptif ↓ Recevabilité et validité descriptive
-
-Le régime constitue l'instance qui organise l'évaluation normative de l'ensemble précédent.
-
----
-
-# 8. Pathologies d'audit des régimes descriptifs
-
-## 8.1 La réduction descriptive
-
-Elle apparaît lorsqu'un régime est absorbé par un autre.
-
-Exemple :
-
-Réduire une responsabilité morale à une simple explication biologique.
-
-L'espace des raisons est alors aplati sur l'espace des causes.
-
----
-
-## 8.2 L'éclectisme descriptif
-
-Il consiste à mélanger des critères appartenant à différents régimes sans expliciter leurs conditions de passage.
-
-Exemple :
-
-Utiliser une corrélation statistique comme justification morale directe.
-
----
-
-## 8.3 La naturalisation
-
-Elle transforme une catégorie historiquement construite en propriété naturelle.
-
-Exemple :
-
-Traiter la « dangerosité » comme une essence biologique permanente.
-
----
-
-## 8.4 L'effet cliquet
-
-Lorsqu'un régime est inscrit dans :
-
-- des bases de données ;
-- des procédures ;
-- des institutions ;
-- des logiciels ;
-
-il accumule une inertie qui peut empêcher sa révision.
-
-La stabilisation devient alors un obstacle possible à l'enquête.
-
----
-
-# 9. Synthèse et ouvertures
-
-Le régime descriptif désigne l'ensemble des conditions normatives, pratiques et institutionnelles qui rendent une description possible, contrôlable et révisable.
-
-Il n'est ni une représentation passive du monde, ni une construction arbitraire.
-
-Il constitue une forme historique de coordination entre :
-
-- des catégories ;
-- des critères ;
-- des pratiques ;
-- des instruments ;
-- des engagements collectifs.
-
-## Ce qu'il suppose
-
-- Les configurations descriptives.
-- Les catégories.
-- Les critères.
-- Les normes.
-- Les communautés de locuteurs.
-
-## Ce qu'il rend possible
-
-- L'analyse de la recevabilité.
-- L'évaluation de la validité descriptive.
-- L'audit des confusions de niveaux.
-- L'étude des transitions et traductions entre régimes.
+Décrire un régime descriptif, c’est enquêter sur les conditions de production et d’évaluation des descriptions, sans confondre ces conditions avec la constitution de ce qu’elles prétendent décrire.
