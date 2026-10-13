@@ -19,13 +19,13 @@ Une difficulté descriptive peut être entretenue par la confusion de questions 
 
 Deux écarts méritent une attention particulière.
 
-Le premier concerne le rapport entre une description et ce qu’elle prétend décrire. Une description retient certaines différences sans pouvoir être présumée exhaustive. Cette sélectivité ne suffit pas à établir son inadéquation : il faut examiner ce qu’elle prétend établir et si les différences retenues permettent de soutenir ses conclusions.
+Le premier concerne le rapport entre une description et ce qu’elle prétend décrire. Une description retient certaines différences plutôt que d’autres. Cette sélectivité n’établit, à elle seule, ni son inadéquation ni sa suffisance. Il faut examiner si les différences retenues sont pertinentes au regard du problème traité et si elles permettent de soutenir les conclusions avancées.
 
-Le second concerne la portée inférentielle d’une description. Une assertion peut autoriser des conclusions qui dépassent ce que son locuteur entendait dire ou avait anticipé. Cette portée dépend des engagements associés à l’assertion, des règles d’inférence, des prémisses disponibles et des pratiques concernées. Elle ne se confond ni avec l’intention du locuteur ni avec les effets effectivement produits.
+Le second concerne la portée inférentielle d’une assertion. Une assertion peut autoriser des conclusions qui dépassent ce que son locuteur entendait dire ou avait anticipé. Cette portée dépend des engagements associés à l’assertion, des règles d’inférence, des prémisses disponibles et des pratiques concernées. Elle doit être distinguée des conclusions effectivement tirées et des effets produits par l’assertion.
 
-Ces deux écarts peuvent interagir sans se confondre. Un raisonnement peut être cohérent au regard de ses prémisses sans que la description initiale soit adéquate à ce qu’elle prétend décrire. Une description peut également être adéquate pour un usage limité sans que toutes les inférences qu’elle autorise soient suffisamment justifiées.
+Ces deux écarts peuvent interagir sans se confondre. Une inférence peut être correctement conduite à partir de prémisses qui ne sont pas adéquates à la situation décrite. Inversement, une description peut être adéquate pour un problème déterminé sans que toutes les conclusions qu’on en tire soient justifiées.
 
-La quadripartition permet d’examiner ces difficultés en distinguant les conditions d’une pratique, les relations pertinentes, les fonctions exercées et les justifications des conclusions. Ces questions peuvent dépendre les unes des autres sans recevoir la même réponse.
+La quadripartition permet d’examiner ces difficultés en distinguant les conditions d’une pratique, les relations pertinentes, les fonctions exercées et les justifications des conclusions. Elle ne résout pas ces difficultés par leur simple classement : elle aide à préciser les questions en jeu et à examiner les passages entre les réponses.
 
 **Distinguer les fonctions des réponses sans isoler les questions auxquelles elles répondent.**
 
@@ -70,7 +70,7 @@ La question de la relation porte sur les dépendances et les mises en rapport pe
 
 Elle peut concerner une interaction matérielle, une dépendance fonctionnelle, une relation sociale, une relation de référence ou une relation inférentielle. Ces relations ne sont pas équivalentes et doivent être précisées selon ce que l’enquête cherche à établir.
 
-Dans le cas d’une relation inférentielle, il s’agit d’examiner comment une assertion, compte tenu des règles applicables et des prémisses disponibles, autorise certaines conclusions. Une conclusion peut dépendre d’une assertion sans être autorisée par elle seule. Il faut donc distinguer les conséquences effectivement soutenues par un raisonnement de celles qui exigent des prémisses ou des règles supplémentaires.
+Dans le cas d’une relation inférentielle, il s’agit d’examiner comment une assertion, compte tenu des règles applicables et des prémisses disponibles, autorise certaines conclusions. Il faut distinguer les conclusions autorisées par ces règles et ces prémisses, celles qui sont effectivement tirées dans une pratique et celles qui exigent des prémisses ou des règles supplémentaires. Le fait qu’une conclusion soit effectivement tirée ne suffit donc pas à établir qu’elle est autorisée par l’assertion initiale.
 
 Une relation ne doit pas être traitée automatiquement comme une propriété intrinsèque de l’un des termes reliés. Elle ne doit pas non plus être confondue avec la fonction que cette relation peut contribuer à rendre possible.
 
@@ -106,7 +106,7 @@ Il faut donc distinguer :
 
 La fonction d’une description peut expliquer pourquoi elle est mobilisée, maintenue ou contestée. Elle ne suffit pas à établir que ses affirmations sont exactes, que ses distinctions sont adéquates ou que les conclusions tirées sont justifiées.
 
-**Question directrice** : que fait cette configuration ou cette description dans la pratique étudiée, indépendamment de ce que son locuteur entendait en faire ?
+**Question directrice** : quel rôle cette configuration ou cette description exerce-t-elle dans la pratique étudiée, et comment ce rôle se distingue-t-il de l’intention du locuteur et des effets effectivement produits ?
 
 ### 4.4. Justification
 
@@ -116,7 +116,7 @@ Elle peut mobiliser des observations, des inférences, des critères d’applica
 
 Justifier ne consiste pas simplement à expliquer pourquoi une description est apparue, pourquoi elle est utilisée ou pourquoi elle est utile à certains acteurs. Il faut examiner ce qui autorise effectivement la conclusion, notamment lorsque celle-ci dépend de plusieurs prémisses ou de règles d’inférence qui ne sont pas explicitées.
 
-La justification d’une inférence et l’adéquation de la description sur laquelle elle repose constituent toutefois deux questions distinctes. Un raisonnement peut être valide au regard de ses prémisses sans que celles-ci soient adéquates à la situation décrite. Inversement, une description adéquate ne suffit pas à justifier toute conclusion que l’on prétend en tirer.
+La justification d’une inférence et l’adéquation de la description ou des prémisses sur lesquelles elle repose constituent des questions distinctes. Une conclusion peut découler correctement de prémisses sans que celles-ci soient adéquates à la situation décrite. Inversement, une description adéquate ne suffit pas à justifier toute conclusion que l’on prétend en tirer. Il faut donc examiner à la fois les passages inférentiels et les éléments qui autorisent les prémisses mobilisées.
 
 Il faut notamment distinguer :
 
