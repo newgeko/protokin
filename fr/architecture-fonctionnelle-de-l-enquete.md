@@ -10,9 +10,9 @@ L’architecture fonctionnelle organise l’examen de cette difficulté. Elle ne
 
 Elle complète :
 
-- l’"Introduction générale" (introduction-generale.md), qui présente le problème auquel répond Protokin ;
-- l’"Architecture du projet" (architecture-projet.md), qui organise les ressources conceptuelles et documentaires du corpus ;
-- la "Quadripartition de l’orientation" (quadripartition-de-l-orientation.md), qui distingue quatre dimensions de l’examen.
+- l’[Introduction générale](introduction-generale.md), qui présente le problème auquel répond Protokin ;
+- l’[Architecture du projet](architecture-projet.md), qui organise les ressources conceptuelles et documentaires du corpus ;
+- la [Quadripartition de l’orientation](quadripartition-de-l-orientation.md), qui distingue quatre dimensions de l’examen.
 
 ## 2. Le problème avant la procédure
 
@@ -42,7 +42,7 @@ L’architecture fonctionnelle distingue deux formes d’organisation : une cha�
 
 La chaîne principale est la suivante :
 
-Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter
+**Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter**
 
 Elle décrit les principaux déplacements possibles de l’enquête. Chaque opération remplit une fonction distincte et prépare des examens que d’autres opérations peuvent prolonger.
 
@@ -54,7 +54,7 @@ Les flèches indiquent une organisation fonctionnelle et des dépendances possib
 
 Quatre fonctions transversales accompagnent les opérations principales :
 
-Temporaliser · Auditer · Réfléchir · Éprouver
+**Temporaliser · Auditer · Réfléchir · Éprouver**
 
 Elles ne constituent pas des étapes supplémentaires. Elles peuvent intervenir à différents moments de l’enquête, selon le problème rencontré.
 
@@ -71,7 +71,7 @@ La différence est donc la suivante :
 
 ### 4.1. Délimiter
 
-Fonction : déterminer ce qui fait problème et circonscrire ce qui doit être examiné.
+**Fonction : déterminer ce qui fait problème et circonscrire ce qui doit être examiné.**
 
 Délimiter consiste à préciser :
 
@@ -85,11 +85,11 @@ La délimitation ne résout pas le problème. Elle établit un périmètre de tr
 
 Ce périmètre reste provisoire. Les résultats obtenus peuvent montrer que la difficulté était trop largement formulée, trop étroitement circonscrite ou mal identifiée.
 
-Délimiter ne signifie pas résoudre : cela signifie rendre le problème enquêtable.
+**Délimiter ne signifie pas résoudre : cela signifie rendre le problème enquêtable.**
 
 ### 4.2. Ancrer
 
-Fonction : identifier les appuis et les conditions pertinents pour examiner le problème.
+**Fonction : identifier les appuis et les conditions pertinents pour examiner le problème.**
 
 L’ancrage porte sur les éléments qui permettent de situer l’enquête et d’éprouver les descriptions mobilisées : observations, traces, supports, conditions corporelles, dispositifs techniques, contraintes matérielles, données institutionnelles ou autres éléments pertinents.
 
@@ -97,11 +97,11 @@ Il ne s’agit pas de supposer que tout problème descriptif peut être ramené 
 
 L’ancrage doit également préciser les limites des éléments disponibles : une trace peut soutenir une identification sans déterminer à elle seule sa signification ; une observation peut révéler une difficulté sans décider de la description qu’il faut retenir.
 
-Ancrer établit des appuis et des dépendances pertinentes ; cela ne justifie pas à soi seul une conclusion.
+**Ancrer établit des appuis et des dépendances pertinentes ; cela ne justifie pas à soi seul une conclusion.**
 
 ### 4.3. Distinguer
 
-Fonction : maintenir les différences nécessaires au traitement du problème.
+**Fonction : maintenir les différences nécessaires au traitement du problème.**
 
 Distinguer consiste à identifier les éléments qui doivent être différenciés pour que l’enquête ne confonde pas des questions ou des fonctions distinctes.
 
@@ -113,11 +113,11 @@ Distinguer ne signifie pas isoler absolument les éléments. Deux fonctions peuv
 
 Une distinction peut également s’avérer insuffisante ou inadéquate. Elle doit alors pouvoir être précisée, déplacée ou abandonnée.
 
-Distinguer sans isoler : maintenir les différences nécessaires pour pouvoir examiner leurs relations.
+**Distinguer sans isoler : maintenir les différences nécessaires pour pouvoir examiner leurs relations.**
 
 ### 4.4. Relier
 
-Fonction : examiner les relations et les dépendances entre les éléments distingués.
+**Fonction : examiner les relations et les dépendances entre les éléments distingués.**
 
 Relier consiste à déterminer comment les éléments interviennent ensemble dans le problème étudié.
 
@@ -136,7 +136,7 @@ Relier ne signifie donc ni fusionner ni réduire. Il s’agit d’expliciter les
 
 ### 4.5. Configurer
 
-Fonction : organiser les éléments retenus pour rendre explicite la configuration descriptive pertinente pour le problème.
+**Fonction : organiser les éléments retenus pour rendre explicite la configuration descriptive pertinente pour le problème.**
 
 Configurer consiste à examiner comment les différences, les relations et les descriptions mobilisées peuvent être organisées dans une analyse déterminée.
 
@@ -153,11 +153,11 @@ Configurer ne consiste pas à produire nécessairement un nouvel objet ni à con
 
 La configuration retenue doit rester ouverte à la comparaison et à la révision. Sa cohérence interne ne garantit pas son adéquation à ce qu’elle prétend décrire.
 
-Configurer organise l’analyse ; cela ne suffit pas à établir l’adéquation de ses résultats.
+**Configurer organise l’analyse ; cela ne suffit pas à établir l’adéquation de ses résultats.**
 
 ### 4.6. Justifier
 
-Fonction : examiner les raisons et les critères permettant de défendre, contester ou réviser les conclusions de l’enquête.
+**Fonction : examiner les raisons et les critères permettant de défendre, contester ou réviser les conclusions de l’enquête.**
 
 Justifier consiste à expliciter ce qui permet de soutenir une description ou une conclusion, les objections auxquelles elle doit répondre et les conditions dans lesquelles elle pourrait être révisée.
 
@@ -167,11 +167,11 @@ La justification doit être distinguée de l’explication causale de l’appari
 
 Une cause peut expliquer pourquoi une description est apparue sans constituer une raison suffisante de la maintenir. Une fonction pratique peut expliquer l’utilité d’une description sans établir sa validité. Une condition peut rendre une pratique possible sans justifier les conclusions qu’elle produit.
 
-Justifier consiste à examiner les raisons et les critères invoqués, non à confondre la validité avec la genèse ou l’utilité d’une description.
+**Justifier consiste à examiner les raisons et les critères invoqués, non à confondre la validité avec la genèse ou l’utilité d’une description.**
 
 ### 4.7. Reconstituer
 
-Fonction : reconstruire le problème à partir des distinctions, des relations et des résultats établis pendant l’enquête.
+**Fonction : reconstruire le problème à partir des distinctions, des relations et des résultats établis pendant l’enquête.**
 
 Reconstituer consiste à rendre explicite une configuration dans laquelle les éléments examinés peuvent être articulés sans que leurs fonctions soient confondues.
 
@@ -185,7 +185,7 @@ La reconstitution ne garantit pas que le problème soit définitivement résolu.
 
 ### 4.8. Redélimiter
 
-Fonction : reprendre le périmètre du problème à la lumière des résultats obtenus.
+**Fonction : reprendre le périmètre du problème à la lumière des résultats obtenus.**
 
 La redélimitation intervient lorsque l’enquête révèle que le problème initial doit être reformulé ou que son périmètre doit être modifié.
 
@@ -195,13 +195,13 @@ La redélimitation n’est donc pas la répétition à l’identique de la déli
 
 Elle peut ouvrir une nouvelle enquête, mais elle peut aussi conduire à préciser les limites d’un résultat sans remettre en cause l’ensemble de l’analyse.
 
-Redélimiter consiste à réexaminer le problème, non à recommencer mécaniquement toute la chaîne.
+**Redélimiter consiste à réexaminer le problème, non à recommencer mécaniquement toute la chaîne.**
 
 ## 5. Les fonctions transversales
 
 ### 5.1. Temporaliser
 
-Fonction : examiner les transformations et les différences temporelles pertinentes pour le problème.
+**Fonction : examiner les transformations et les différences temporelles pertinentes pour le problème.**
 
 La temporalisation permet de déterminer comment les conditions, les relations, les fonctions et les justifications se maintiennent, se transforment ou cessent d’être pertinentes au cours du temps.
 
@@ -213,7 +213,7 @@ Temporaliser ne consiste pas à imposer une chronologie unique. Il s’agit de d
 
 ### 5.2. Auditer
 
-Fonction : contrôler les distinctions, les dépendances et les inférences mobilisées dans l’enquête.
+**Fonction : contrôler les distinctions, les dépendances et les inférences mobilisées dans l’enquête.**
 
 L’audit examine si l’analyse maintient les distinctions nécessaires et si les conclusions reposent sur des passages suffisamment justifiés entre les dimensions du problème.
 
@@ -233,7 +233,7 @@ Il peut conduire à corriger une formulation, à reprendre une inférence ou à 
 
 ### 5.3. Réfléchir
 
-Fonction : examiner les conditions et les limites de l’enquête elle-même.
+**Fonction : examiner les conditions et les limites de l’enquête elle-même.**
 
 Protokin utilise des distinctions, des catégories, des critères et des instruments pour examiner les pratiques descriptives. Ces ressources doivent elles-mêmes pouvoir être interrogées.
 
@@ -245,7 +245,7 @@ La réflexivité ne signifie pas que toutes les descriptions se valent. Elle sig
 
 ### 5.4. Éprouver
 
-Fonction : confronter les distinctions et les résultats aux situations dans lesquelles ils prétendent être pertinents.
+**Fonction : confronter les distinctions et les résultats aux situations dans lesquelles ils prétendent être pertinents.**
 
 Une épreuve peut prendre la forme d’un examen de cas, d’une comparaison entre descriptions, d’une substitution, d’une confrontation à des observations ou d’une analyse des contraintes rencontrées.
 
@@ -295,7 +295,7 @@ Il faut donc distinguer l’organisation des opérations de leur ordre effectif 
 
 L’architecture fonctionnelle repose sur le principe suivant :
 
-Continuité des dépendances, discontinuité des fonctions, non-conversion.
+**Continuité des dépendances, discontinuité des fonctions, non-conversion.**
 
 Les dimensions d’un problème peuvent être liées sans être interchangeables.
 
@@ -355,7 +355,7 @@ La chaîne principale — Délimiter, Ancrer, Distinguer, Relier, Configurer, Ju
 
 La quadripartition oriente les questions relatives aux conditions, aux relations, aux fonctions et aux justifications sans imposer une grille exhaustive ni un ordre obligatoire.
 
-L’ensemble repose sur une même exigence : distinguer les fonctions, expliciter les dépendances et justifier les passages entre elles.
+L’ensemble repose sur une même exigence : **distinguer les fonctions, expliciter les dépendances et justifier les passages entre elles.**
 
 La chaîne de Protokin est une chaîne d’enquête, non une chaîne de constitution.
 
