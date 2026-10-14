@@ -1,160 +1,176 @@
-# Page : configuration-descriptive.md
+Configuration descriptive — Organiser les possibilités de description
 
-# La Configuration Descriptive — L'armature relationnelle des possibles de dicibilité
+Fonction
 
-**Version :** Protokin 2026 — version 26.08.212  
-**Fichier :** `configuration-descriptive.md`  
-**Section :** 03 — Fondements descriptifs  
-**Statut conceptuel :** Opérateur analytique d'armature relationnelle (Pôle de transition PROTO ➔ KIN)  
+Une configuration descriptive organise les différences, les catégories et les relations qui rendent certaines descriptions possibles et intelligibles dans une pratique déterminée.
 
----
+Elle permet d’examiner comment des distinctions se soutiennent mutuellement, quelles qualifications deviennent disponibles et quelles inférences peuvent être mobilisées dans un contexte donné.
 
-## Analyse architecturale préalable de la page
+Elle ne constitue ni une représentation complète du monde ni un système fermé qui déterminerait à l’avance toutes les descriptions possibles.
 
-### 1. Fonction unique de la page
-Cette page établit le concept de **configuration descriptive** au sein de la section **03 — Fondements descriptifs** de Protokin. Elle la formalise comme l'organisation relationnelle, logique et holistique par laquelle des différences disponibles, issues des configurations sémiotiques et portées par des supports matériels (plan **PROTO**), s'assemblent en un réseau de dicibilité structuré, définissant l'espace général des possibles conceptuels avant toute actualisation sous forme de description singulière ou d'assertion normative (plan **KIN**).
+Problème
 
-### 2. Choix du mode de développement
-* **Mode retenu :** Mode A — Développement conceptuel (articulé à une décomposition hylémorphique et relationnelle).
-* **Justification :** Il s'agit d'installer un nœud fonctionnel intermédiaire capital reliant la matérialité passive des traces et des signes à l'activité discursive de l'espace des raisons, d'en formaliser les propriétés de structuration négative (contrastive), et de barrer toute réification des catégories de dicibilité.
+Une description singulière mobilise rarement une distinction isolée. Qualifier un objet, comparer deux situations ou attribuer une propriété suppose de pouvoir différencier des cas, d’employer des catégories et de comprendre certaines relations entre les qualifications disponibles.
 
-### 3. Problème conceptuel inaugural
-Comment rendre intelligible l'organisation structurée des concepts et des prédicats par lesquels nous découpons et qualifions notre environnement, sans supposer que le monde physique contient déjà des essences prédécoupées et évidentes à copier (Mythe du Donné), et sans détacher les concepts de leur ancrage dans les couplages corporels et les supports matériels d'inscription (amnésie somatique) ?  
-La difficulté réside dans le fait que la signification n'émerge pas d'un choc physique brut, mais qu'elle ne flotte pas non plus dans un espace sémantique autotélique. Protokin résout ce problème en posant que la configuration descriptive n'est ni une donnée brute de la nature, ni une fiction linguistique arbitraire. Elle est l'**armature relationnelle immanente** qui configure la table des alternatives et des qualifications admissibles au sein d'une niche de vie, ordonnant les possibles de la dicibilité avant qu'une prise de position singulière ne soit assertée.
+Or ces ressources ne fonctionnent pas indépendamment les unes des autres. La pertinence d’une catégorie peut dépendre d’autres distinctions ; une qualification peut autoriser certaines inférences et en exclure d’autres ; un changement de critères peut modifier la manière dont plusieurs occurrences sont comparées.
 
-### 4. Objet propre
-* **Cette page traite de :** la configuration descriptive comme structure holistique des possibles de la dicibilité ; la nature contrastive et différentielle du réseau conceptuel ; l'agencement des prédicats et des catégories d'amont ; le rôle de délimitation de l'espace de dicibilité (zones de silence de support et d'échelle).
-* **Cette page ne traite pas de :** la configuration sémiotique des signaux et des traces d'amont (réservée à `configuration-semiotique.md`) ; l'opération de qualification située (réservée à `qualification.md`) ; l'acte d'assertion en tant qu'engagement public d'endossement déontique (réservé à `assertion.md` dans la section 04) ; ni la modélisation complète du scorekeeping déontique d'aval (réservée à `raisons.md`).
+Une difficulté apparaît lorsque cette organisation reste implicite, lorsqu’elle ne permet plus de traiter certains cas ou lorsque ses distinctions ne suffisent plus à soutenir les conclusions avancées.
 
-### 5. Statut conceptuel
-Concept analytique de premier ordre et armature relationnelle de la descriptibilité, appartenant à la **Section 03 — Fondements descriptifs**.
+La question d’enquête est donc la suivante :
 
-### 6. Dépendances fonctionnelles
-* **Cette page suppose :** `configuration-semiotique.md`, `support-descriptif.md`, `difference-rencontree.md` et `trace.md`.
-* **Cette page prépare :** `description.md`, `categories.md`, `criteres.md`, `predication.md`, `regime-descriptif.md` et `justifications.md`.
-* **Cette page rend possible :** La structuration ordonnée de la table des alternatives d'observation, l'analyse clinique des pathologies de réification ou d'indigence contrefactuelle, et le passage contrôlé des contrastes physiques à l'échange des raisons.
+Comment les différences, les catégories et les relations mobilisées dans une pratique organisent-elles les possibilités de décrire une situation, et quelles sont les limites de cette organisation ?
 
-### 7. Frontières conceptuelles
-* **Configuration descriptive and Configuration sémiotique :** La *configuration sémiotique* concerne l'organisation des traces, des signaux et des mesures pour rendre des différences physiques *disponibles* pour un collectif. La *configuration descriptive* concerne l'organisation relationnelle et logique de ces différences pour les rendre *articulables* sous forme de concepts. *La sémiotique isole la trace ; la descriptive structure le dicible.*
-* **Configuration descriptive and Support descriptif :** Le *support descriptif* désigne le véhicule matériel, technologique ou corporel qui conserve et transporte les inscriptions. La *configuration descriptive* désigne le réseau conceptuel et contrastif des prédicats et oppositions ainsi véhiculés. *Le support conserve l'écriture ; la configuration organise le sens.*
-* **Configuration descriptive and Description :** La *configuration descriptive* constitue l'espace général des possibles conceptuels et des alternatives d'observation. La *description* désigne l'opération située par laquelle un locuteur actualise l'une de ces possibilités sous la forme d'un énoncé propositionnel singulier au présent d'usage. *La configuration est l'armature de dicibilité ; la description est la performance située.*
-* **Configuration descriptive and Régime descriptif :** La *configuration descriptive* structure les possibles de l'intelligibilité (le dicible). Le *régime descriptif* ajoute la dimension de l'évaluation normative et de la co-régulation publique, spécifiant les conditions selon lesquelles ces descriptions possibles deviennent effectivement recevables, valides et justifiables devant des pairs. *La configuration organise les possibles ; le régime en arbitre la loi.*
+Définition
 
-### 8. Architecture locale
-$$\text{Configuration sémiotique (Signaux)} \quad \longrightarrow \quad \text{Médiation par support} \quad \longrightarrow \quad \mathbf{\text{CONFIGURATION DESCRIPTIVE (Possibles)}} \quad \longrightarrow \quad \text{Description (Actualisation)} \quad \longrightarrow \quad \text{Régime (Normes)}$$
+Une configuration descriptive est une organisation relationnelle de différences, de catégories, de qualifications et de possibilités inférentielles mobilisées dans une pratique descriptive.
 
----
+Elle rend certaines distinctions disponibles, permet de relier des qualifications et contribue à déterminer quelles descriptions peuvent être formulées, comprises, comparées ou discutées dans cette pratique.
 
-## Cartouche fonctionnel
+Son organisation est liée aux apprentissages, aux usages, aux critères et aux supports qui permettent de stabiliser et de transmettre les distinctions. Elle n’est donc ni indépendante des pratiques dans lesquelles elle intervient, ni réductible à un support matériel particulier.
 
-| Élément | Description |
-| :--- | :--- |
-| **Section** | 03 — Fondements descriptifs |
-| **Fichier** | `configuration-descriptive.md` |
-| **Fonction** | Établir le concept de configuration descriptive comme armature relationnelle holistique structurant l'espace des possibles de dicibilité. |
-| **Prépare** | L'opération de description singulière, l'analyse des critères de correction, les catégories et la constitution des régimes d'évaluation. |
-| **Mobilise** | Les configurations sémiotiques, les supports descriptifs (externes, incorporés, institutionnels) et l'inférentialisme matériel d'amont. |
-| **Permet ensuite** | D'auditer la cohérence interne des répertoires catégoriels et de diagnostiquer les pathologies de naturalisation ou d'indigence contrefactuelle. |
-| **N'établit pas** | Une sémantique formelle extentionnelle pure, une syntaxe logique universelle, ni une ontologie générale des formes de la conscience. |
+Une configuration descriptive n’est pas nécessairement entièrement explicite. Une pratique peut mobiliser des distinctions et des relations dont les participants ne peuvent pas toujours formuler toutes les règles ou anticiper toutes les conséquences.
 
----
+Elle reste en outre partielle et révisable. Elle organise certaines possibilités descriptives sans épuiser ce qui peut être observé, éprouvé ou découvert dans la situation examinée.
 
-## Définition fonctionnelle
+Organisation relationnelle et différentielle
 
-Dans l'architecture métathéorique de Protokin, on appelle **configuration descriptive** :
+Les éléments d’une configuration descriptive prennent leur portée relativement aux autres distinctions avec lesquelles ils sont employés.
 
-> **L'organisation relationnelle de différences disponibles, de catégories, de contrastes et de chemins inférentiels matériels qui structure un espace de possibles descriptifs au sein duquel des qualifications et des énoncés propositionnels peuvent être formulés, comparés et évalués par une communauté de locuteurs.**
+Une catégorie, par exemple, ne détermine pas seule toutes les conséquences de son application. Sa portée dépend des critères qui permettent de l’appliquer, des contrastes qu’elle maintient et des inférences reconnues dans la pratique concernée.
 
-```text
-┌────────────────────────────────────────────────────────┐
-│             CONFIGURATION SÉMIOTIQUE (PROTO)           │
-│        (Différences matérielles disponibles, traces)   │
-└──────────────────────────┬─────────────────────────────┘
-                           │
-                           ▼ Inscription / Véhicule
-┌────────────────────────────────────────────────────────┐
-│                SUPPORT DESCRIPTIF (Vecteur)            │
-│       (Feuille de triage, appareil, corps éduqué)      │
-└──────────────────────────┬─────────────────────────────┘
-                           │
-                           ▼ Structuration contrastive (AARR / RFT)
-┌────────────────────────────────────────────────────────┐
-│             CONFIGURATION DESCRIPTIVE (Possible)       │
-│        (Armature relationnelle, réseau de dicibilité)  │
-└──────────────────────────┬─────────────────────────────┘
-                           │
-                           ▼ Actualisation en acte / Assertion
-┌────────────────────────────────────────────────────────┐
-│               DESCRIPTION SINGULIÈRE (KIN)             │
-│          (Statut déontique, engagement, raison)        │
-└────────────────────────────────────────────────────────┘
-```
+Cette organisation peut être examinée à partir de trois questions :
 
----
+- Différences : quels traits ou contrastes sont retenus comme pertinents ?
+- Relations : comment les catégories et les qualifications se rapportent-elles les unes aux autres ?
+- Conséquences : quelles conclusions ou quelles opérations deviennent possibles, attendues ou exclues lorsque ces distinctions sont mobilisées ?
 
-## Dimensions constitutives
+Ces questions permettent de décrire une organisation sans supposer qu’elle forme un système parfaitement cohérent, exhaustif ou explicitement représenté par les participants.
 
-### 1. L'organisation relationnelle, différentielle et holistique
-Une configuration descriptive n'est jamais un simple agrégat de catégories isolées ou d'étiquettes nominatives autonomes. Fidèle à l'inférentialisme fort, Protokin pose qu'un concept n'acquiert son contenu déterminé que par sa position relative au sein d'un réseau contrastif d'exclusions réciproques et de conséquences matérielles d'amont. L'application d'un prédicat descriptivement pertinent se définit négativement par rapport aux autres prédicats qu'il exclut au sein de son domaine (par exemple, la partition d'un espace colorimétrique, la nomenclature des symptômes d'un manuel diagnostique, ou le système de coordonnées géométriques d'une carte). C'est cet agencement holistique qui donne son armature logique à l'espace de dicibilité.
+Une configuration peut comporter des tensions, des distinctions mal définies ou des règles d’application contestées. Ces difficultés ne sont pas nécessairement des anomalies extérieures au système : elles peuvent devenir le point de départ d’une enquête sur son fonctionnement et ses limites.
 
-### 2. La délimitation de l'espace de dicibilité possible (Les frontières du dicible)
-La configuration descriptive fonctionne comme un filtre ou un diaphragme de second ordre : elle trace la frontière entre ce qui peut être formulé au cours de l'enquête et ce qui est nécessairement laissé hors champ. Toute configuration séquestre ainsi ses propres **zones de silence**, sélectionnant et rehaussant certains contrastes physiques (plan **PROTO**) tout en anesthésiant ou en occultant d'autres aspects de la situation. L'audit d'une configuration descriptive ne consiste pas seulement à examiner la cohérence de ce qu'elle formule, mais à identifier ses limites de support, ses silences d'échelle et ses exclusions structurelles qui mutilent parfois l'intelligibilité des vécus somatiques.
+Configuration descriptive et notions voisines
 
-### 3. L'ancrage infrastructural et hylémorphique
-Les possibles d'une configuration descriptive ne flottent pas dans un ciel sémantique autonome à coût d'apprentissage nul. Ils sont indissociables de l'épaisseur matérielle de leurs supports d'inscription. La structure des relations et des alternatives d'observation est physiquement encastrée dans des dispositifs matériels (les cases d'un formulaire, les colonnes d'un tableau Excel, la bande de papier d'un oscilloscope) et incorporée dans le corps propre des praticiens par l'éducation de l'attention perceptive (RDRD). La plasticité de la configuration descriptive est ainsi constamment bornée par l'inertie de ses supports et par les butoirs physiques du milieu que ces supports prélèvent.
+Configuration sémiotique
 
----
+La configuration sémiotique concerne l’organisation de signes, de traces ou de différences rendues disponibles dans une pratique.
 
-## Éclairage par les fils rouges pédagogiques
+La configuration descriptive concerne la manière dont des différences et des ressources de signification sont articulées en catégories, qualifications et relations descriptives.
 
-### 1. « Le vélo est rouge »
-L'assertion ordinaire « Le vélo est rouge » n'est pas le reflet passif d'une propriété chromatique inhérente à l'objet. Elle suppose une configuration descriptive d'amont qui structure l'espace chromatique commun. Cette configuration organise le prédicat « rouge » en l'opposant de manière exclusive aux prédicats « bleu » ou « vert », et en le reliant à des inférences matérielles d'usage (comme la visibilité nocturne ou l'aspect sous éclairage artificiel). C'est cette armature relationnelle sédimentée, incorporée par l'apprentissage du corps de premier ordre (PROTO), qui permet à l'énoncé de porter un contenu de dicibilité intelligible et contestable au sein de l'espace des raisons (KIN).
+Ces fonctions peuvent dépendre l’une de l’autre, mais elles ne sont pas interchangeables. La disponibilité d’une trace ne détermine pas à elle seule la qualification qu’il convient d’en tirer. Inversement, une configuration descriptive ne peut pas être tenue pour adéquate au seul motif qu’elle est cohérente avec les distinctions qu’elle mobilise.
 
-### 2. Le patient aux urgences hospitalières
-La détresse cardiaque du patient (pression artérielle, tracé électrique ECG, PROTO) est saisie à l'accueil et projetée au sein de trois configurations descriptives hétérogènes :
-*   **La configuration clinique** (le codage d'urgence vitale de 1 à 5), axée sur la viabilité biologique immédiate ;
-*   **La configuration biomédicale** (la physiopathologie de l'ischémie myocardique), axée sur l'image scientifique microscopique ;
-*   **La configuration logistico-comptable** (les lits disponibles, la tarification à l'activité), axée sur la rationalisation administrative.
-L'audit de Protokin montre que le conflit hospitalier ne surgit pas de la matière biologique, mais du télescopage de ces configurations descriptives disjointes. L'administration commet une pathologie d'écrasement lorsqu'elle utilise sa configuration de gestion comptable pour étouffer ou disqualifier la configuration clinique de secours, s'avérant modaly indéterminée pour capter le danger de mort du malade.
+Il ne faut pas en déduire une succession universelle dans laquelle toute configuration sémiotique produirait nécessairement une configuration descriptive.
 
-### 3. Le botaniste et le bûcheron face à l'arbre
-Le botaniste et le bûcheron font face au même végétal physique (PROTO) mais opèrent à travers deux configurations descriptives disjointes. La configuration du botaniste est structurée par des divisions phylogénétiques, des critères cellulaires et la nomenclature internationale de l'image scientifique (*Abies alba*). La configuration du bûcheron est ordonnée par des critères de rectitude de fût, de nervation, de dureté de l'écorce et de viabilité commerciale (image manifeste technique). Leurs descriptions coexistent car elles s'adossent à des configurations de possibles hétérogènes, entraînées par des rituels de justification étanches et des supports distincts qui répondent à des finalités pratiques d'action autonomes.
+Support descriptif
 
-### 4. La déconstruction du blâme d'essence (« Cette personne est mauvaise »)
-L'assertion d'infamie « Cette personne est mauvaise par nature » est le produit d'une configuration descriptive pathologique et figée. Elle commet une confusion de niveau majeure en convertissant un jugement d'imputation morale relative et révisable (plan KIN) en une propriété intrinsèque naturelle et biologique de l'organisme (plan PROTO réifié). L'audit de second ordre déconstruit cette armature bloquée en traduisant l'essence factice en une séquence de conduites et de traces comportementales situées. En réouvrant la configuration descriptive vers des critères d'apprentissage, d'histoire comportementale et d'influences écologiques d'amont, Protokin débloque les contrefactuels de réhabilitation et restaure la plasticité temporelle de l'agent.
+Un support descriptif est un moyen matériel, technique, corporel ou institutionnel qui permet de conserver, de transmettre ou de mobiliser des inscriptions et des distinctions.
 
----
+Une configuration descriptive ne se confond pas avec ce support. Un formulaire, une carte, un tableau ou un dispositif de mesure peut soutenir une organisation descriptive sans déterminer à lui seul la portée de toutes les distinctions qui y figurent.
 
-## Limites internes et vigilances d'audit
+Le support compte néanmoins dans l’enquête : ses contraintes, ses possibilités d’inscription et ses modalités d’utilisation peuvent favoriser certaines distinctions, en limiter d’autres ou rendre certaines informations difficiles à prendre en compte.
 
-### 1. La naturalisation de la configuration (L'illusion du donné)
-L'illusion empiriste consistant à traiter les catégories, les divisions et les contrastes structurés par une configuration descriptive (tels que les classifications d'une base de données administrative ou les nomenclatures d'une nosologie clinique) comme s'il s'agissait de structures éternelles découvertes intactes dans la nature. L'auditeur de second ordre doit traquer ce fétichisme du donné en rappelant que toute configuration descriptive est une construction historique sédimentée, issue du travail de l'enquête collective, et qu'elle demeure révisable face aux butoirs rencontrés.
+Catégorie
 
-### 2. L'amnésie somatique (L'effacement du support)
-S'enfermer dans l'analyse formelle des relations logiques, des calculs de propositions ou des arborescences de concepts purement abstraites, en occultant que sans la persistance des supports d'inscription matériels (les instruments de mesure, les registres, les dossiers physiques) et le couplage corporel éduqué des praticiens (RDRD, supports incorporés), la configuration descriptive perd toute adhérence sur la physis et s'effondre dans un jeu sémantique autotélique stérile. L'audit doit toujours exiger la traçabilité des supports matériels qui soutiennent les possibles du dicible.
+Une catégorie permet de regrouper ou de distinguer des occurrences selon une différence pertinente pour une pratique.
 
----
+La configuration descriptive désigne l’organisation dans laquelle plusieurs catégories et distinctions prennent leur portée relative. Elle ne se réduit donc ni à une catégorie particulière ni à une simple liste de catégories.
 
-## Synthèse finale
+Une configuration peut être interrogée lorsque les catégories qu’elle mobilise deviennent incompatibles, insuffisantes ou inadéquates pour traiter un problème.
 
-### Ce que cette page établit
-* Le concept de **configuration descriptive** comme armature relationnelle, contrastive et holistique de premier ordre, formalisant l'espace logique intermédiaire par lequel des différences sémiotiques disponibles sont structurées en un réseau de dicibilité possible avant leur actualisation.
-* L'analyse de la configuration comme diaphragme sélectif traçant ses propres zones de silence et ses frontières de dicibilité.
+Description
 
-### Ce qu'elle suppose
-* Le principe du couplage perception-action (`primat-couplage-perception-action.md`).
-* Le concept de trace matérielle et de support (`trace.md`, `support-descriptif.md`).
-* L'établissement de la configuration sémiotique (`configuration-semiotique.md`).
+La description est une manière située de rendre certaines différences identifiables et utilisables à propos d’une situation.
 
-### Ce qu'elle rend possible
-* L'actualisation de la description singulière (`description.md`) et de l'assertion (`assertion.md`).
-* L'évaluation méthodique des catégories (`categories.md`) et des critères publics de correction (`criteres.md`).
-* L'établissement du régime descriptif (`regime-descriptif.md`) et des rituels de justification (`justifications.md`).
-* La conduite clinique de l'audit de second ordre et le diagnostic des pathologies d'asymétrie sémantique (`08-methode-protokin.md`).
+La configuration descriptive désigne l’organisation de ressources et de relations dans laquelle une description peut prendre sens. Elle ne se confond pas avec une description particulière et ne détermine pas mécaniquement ce qui sera effectivement décrit.
 
-### Principe retenu
-> **« Aucune qualification n'est intelligible de manière isolée : décrire une situation exige toujours d'actualiser une armature relationnelle de possibles préalablement stabilisée sur des supports matériels. »**
+Plusieurs descriptions peuvent mobiliser une configuration comparable. Une même situation peut aussi être décrite à partir de configurations différentes, selon les questions posées et les pratiques concernées.
 
----
+La relation entre configuration et description doit donc être examinée dans chaque cas, plutôt que présupposée comme un rapport nécessaire entre structure préalable et actualisation.
 
-Protokin 2026 — version 26.08.212
+Régime descriptif
+
+Un régime descriptif concerne les pratiques, les règles et les critères selon lesquels des descriptions sont produites, évaluées, défendues ou contestées.
+
+La configuration descriptive porte sur l’organisation des distinctions et des relations mobilisées. Le régime descriptif porte notamment sur les conditions d’usage et d’évaluation de ces descriptions dans une pratique.
+
+Les deux peuvent se recouper sans se confondre. Une configuration peut rendre une qualification intelligible sans que son application soit recevable dans toutes les situations. De même, l’existence de règles d’évaluation ne garantit pas que la configuration mobilisée soit adéquate au problème.
+
+Exemple : le botaniste et le bûcheron devant le même arbre
+
+Le botaniste Étienne et le bûcheron Gérald examinent le même arbre.
+
+Étienne s’intéresse notamment à son espèce, à son développement et à son état biologique. Gérald examine sa résistance, la rectitude de son tronc et son aptitude à être abattu ou utilisé comme bois.
+
+Leurs descriptions ne diffèrent pas seulement par les mots employés. Elles mobilisent des catégories, des critères et des relations qui donnent une portée différente aux observations effectuées.
+
+Pour Étienne, une caractéristique peut contribuer à identifier l’espèce ou à apprécier l’état de l’arbre. Pour Gérald, une caractéristique peut compter dans l’évaluation de sa résistance ou de son intérêt pour une opération déterminée.
+
+Ces différences n’impliquent pas que les deux descriptions soient incompatibles. Elles peuvent répondre à des questions distinctes sur le même référent.
+
+Une difficulté apparaît, par exemple, si Gérald doit décider si l’arbre peut être abattu en sécurité. Les informations botaniques peuvent alors être pertinentes, mais elles ne suffisent pas nécessairement à établir la décision. Il faut examiner les conditions matérielles, les relations entre les caractéristiques observées et l’opération envisagée, ainsi que les critères permettant de justifier la conclusion.
+
+L’enquête porte alors sur les rapports entre les distinctions mobilisées, non sur la recherche d’une configuration unique qui devrait remplacer toutes les autres.
+
+Cet exemple permet de distinguer trois questions :
+
+- quelles différences chaque pratique retient-elle ?
+- comment ces différences sont-elles organisées et reliées ?
+- dans quelles conditions les conclusions issues de ces organisations peuvent-elles être confrontées ?
+
+Limites et possibilités de révision
+
+Une configuration descriptive peut faciliter certaines descriptions tout en rendant d’autres distinctions difficiles à mobiliser. Elle peut stabiliser un vocabulaire utile, mais aussi maintenir des catégories devenues inadéquates à de nouvelles situations.
+
+L’enquête peut alors chercher à identifier :
+
+- les différences qui restent hors champ ;
+- les catégories dont l’application devient incertaine ;
+- les relations inférentielles qui ne sont plus défendables ;
+- les supports ou les habitudes qui contribuent au maintien de distinctions problématiques ;
+- les modifications nécessaires pour mieux traiter le problème rencontré.
+
+Ces limites ne permettent pas de conclure automatiquement qu’une configuration est fausse ou arbitraire. Elles indiquent ce qui doit être examiné pour évaluer sa portée et les conditions de sa révision.
+
+Inversement, la cohérence interne d’une configuration ne garantit pas son adéquation à la situation décrite. Des catégories peuvent être bien articulées entre elles tout en reposant sur des distinctions insuffisantes, des données inadéquates ou des critères mal adaptés au problème.
+
+Il faut donc distinguer :
+
+- cohérence et adéquation ;
+- possibilité de formuler une description et validité de cette description ;
+- stabilité d’une configuration et justification de son maintien ;
+- fonction descriptive et justification normative.
+
+Articulation avec l’enquête de Protokin
+
+La configuration descriptive est une notion mobilisable dans l’enquête, et non une étape obligatoire de sa chaîne principale.
+
+Elle peut être examinée lorsque le problème concerne les catégories disponibles, les relations entre des qualifications, la portée d’une inférence ou les limites d’une manière de décrire.
+
+Son analyse peut notamment conduire à :
+
+- Délimiter ce qui fait problème dans l’organisation descriptive ;
+- Ancrer l’examen dans les observations, les traces, les supports et les pratiques pertinents ;
+- Distinguer les catégories, les relations et les fonctions en jeu ;
+- Relier les éléments sans confondre leurs fonctions ;
+- Configurer l’analyse du problème ;
+- Justifier les conclusions avancées ;
+- Reconstituer les dépendances pertinentes ;
+- Redélimiter le problème si les distinctions initiales se révèlent insuffisantes.
+
+Cette liste indique des opérations susceptibles d’intervenir dans l’examen ; elle ne prescrit ni un ordre obligatoire ni une séquence de constitution de la configuration descriptive.
+
+La quadripartition peut également orienter l’analyse :
+
+- Condition : quels supports, apprentissages et contraintes interviennent dans la disponibilité des distinctions ?
+- Relation : comment les catégories et les qualifications dépendent-elles les unes des autres ?
+- Fonction : quel rôle cette organisation joue-t-elle dans la pratique concernée ?
+- Justification : quels critères permettent d’évaluer les descriptions et les conclusions qu’elle rend possibles ?
+
+Ces orientations différencient les questions de l’enquête sans transformer la configuration descriptive en une structure ontologique ou en un système nécessairement clos.
+
+Synthèse
+
+Une configuration descriptive organise des différences, des catégories et des relations qui rendent certaines descriptions possibles et intelligibles dans une pratique déterminée.
+
+Elle contribue à définir les qualifications disponibles et les inférences mobilisables, sans déterminer mécaniquement les descriptions effectivement produites ni garantir leur adéquation.
+
+Une configuration descriptive organise des possibilités de description ; elle ne garantit ni la pertinence de ses distinctions ni la validité des conclusions qui en sont tirées.
