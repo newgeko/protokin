@@ -1,229 +1,235 @@
-# Page : comparer-deux-descriptions.md
+Comparer deux descriptions
 
-### Étape préalable obligatoire : Analyse architecturale de la page `comparer-deux-descriptions.md`
+1. Objet de l’examen
 
-#### 1. Fonction unique de la page
-Cette page existe pour établir le protocole méthodologique de **comparaison entre deux configurations descriptives hétérogènes** appliquées à une même situation, en définissant des critères d'évaluation immanents permettant d'analyser leurs puissances relatives sans les écraser sous une hiérarchie ontologique absolue ni les dissoudre dans un relativisme radical.
+Comparer deux descriptions consiste à examiner ce qui les distingue, ce qu’elles permettent d’établir et les rapports qu’elles entretiennent au regard d’un problème déterminé.
 
-#### 2. Problème conceptuel
-Comment mener une confrontation critique et rationnelle entre des configurations descriptives différentes (et potentiellement incommensurables) qui portent sur un même milieu ou une même situation problématique, sans présupposer de regard de surplomb absolu qui décréterait qu'une description est « vraie » parce qu'elle copie le réel en soi, et sans s'effondrer dans un relativisme laxiste où toutes les descriptions se vaudraient de façon équivalente ?
+La comparaison peut porter sur deux énoncés, deux descriptions développées ou deux ensembles de pratiques descriptives. L’objet comparé doit être précisé : ces différentes unités ne permettent pas de tirer les mêmes conclusions.
 
-#### 3. Objet propre
-*   **Cette page traite de** : le protocole d'analyse comparative de second ordre, l'évaluation méthodique des puissances relatives de deux configurations à partir de critères explicites (extension, résolution, stabilité, adaptabilité, justification, portée pratique), l'identification des zones de friction et de complémentarité.
-*   **Cette page ne traite pas de** : la notion de *puissance descriptive* prise pour elle-même (développée dans [`puissance-descriptive.md`](puissance-descriptive.md)), ni de l'opération de *traduction inter-régimes* en tant que mécanisme de transfert d'engagements (développée dans [`traduction.md`](traduction.md)), ni de la simple synonymie ou comparaison lexicale formelle.
+La comparaison vise à déterminer :
 
-#### 4. Statut conceptuel
-Il s'agit d'un **concept de second ordre (méthode d'enquête et d'outil d'audit)** appartenant à la section **08 — Méthode Protokin** de la métathéorie.
+- ce que chaque description affirme ou permet de distinguer ;
+- les critères et les éléments sur lesquels elle s’appuie ;
+- les fonctions qu’elle remplit dans la situation étudiée ;
+- les conclusions qu’elle autorise ou que ses utilisateurs en tirent ;
+- les accords, les écarts et les éventuelles incompatibilités entre les deux descriptions ;
+- les limites de ce que leur confrontation permet d’établir.
 
-#### 5. Dépendances fonctionnelles
-##### Cette page suppose :
-*   Le *principe du pluralisme descriptif*.
-*   La *configuration descriptive*.
-*   Le *régime descriptif*.
-*   La *puissance descriptive*.
-*   L'*espace des raisons* (KIN).
+La comparaison ne présuppose ni que les descriptions sont concurrentes, ni qu’elles sont compatibles, ni que l’une doit être préférée à l’autre.
 
-##### Cette page rend possible :
-*   L'**audit comparatif** des pratiques.
-*   Le diagnostic clinique des *réductions*, *confusions de niveaux* et *erreurs de catégorie*.
-*   Les arbitrages lors des *controverses* et la régulation des *injustices herméneutiques*.
-*   Le développement d'une *écologie des régimes descriptifs*.
+2. Problème
 
-#### 6. Frontières conceptuelles
-Cette page ne doit pas absorber la définition de la *puissance descriptive* ni l'opération dynamique de *traduction*, mais elle doit s'installer précisément à leur intersection pour fournir à l'enquêteur le guide opératoire de leur confrontation clinique.
+Deux descriptions peuvent porter sur une même situation sans sélectionner les mêmes différences, répondre aux mêmes questions ou poursuivre les mêmes fins.
 
----
+Cette diversité ne constitue pas en elle-même un désaccord. Une difficulté apparaît lorsque les descriptions doivent être confrontées pour traiter une question commune, lorsque leurs conclusions divergent ou lorsque leurs critères semblent incompatibles.
 
-# Comparer deux descriptions — Protocole d'analyse comparative des configurations descriptives
+Il faut alors éviter deux conclusions prématurées.
 
-## Fonction
-Dans l'architecture de Protokin, **comparer deux descriptions** désigne la procédure méthodique de second ordre par laquelle un analyste ou une communauté d'enquête évalue, de manière immanente, les capacités, les limites, les points de friction et les puissances relatives de deux configurations descriptives hétérogènes appliquées à une même situation rencontrée. Elle fournit les critères d'évaluation nécessaires pour guider la coordination pratique et l'arbitrage critique sans s'en remettre à une hiérarchie ontologique transcendante.
+La première consiste à considérer qu’une description est supérieure dès lors qu’elle est plus précise, plus stable, plus étendue ou plus utile dans une pratique donnée. Ces propriétés ne sont pertinentes qu’au regard d’un problème et ne suffisent pas, isolément, à établir l’adéquation d’une description.
 
----
+La seconde consiste à considérer que deux descriptions étant différentes, aucune comparaison raisonnée n’est possible. Leurs différences peuvent au contraire permettre de préciser ce que chacune examine, les questions auxquelles elle répond et les limites de sa portée.
 
-## Problème conceptuel inaugural
-Dès lors que la métathéorie Protokin récuse le « Mythe du Donné » et le réalisme métaphysique naïf — selon lesquels le monde se présenterait à l'esprit déjà découpé en objets évidents qu'il s'agirait simplement de copier —, la pluralité des descriptions cesse d'être une anomalie logique pour devenir le fonctionnement normal de l'espace des raisons. Face à une même situation (un patient souffrant, une forêt en crise, un acte déviant), différentes communautés produisent des qualifications divergentes.
+La question directrice est donc :
 
-Face à cette multiplicité, les théories de la connaissance s'enferment fréquemment dans une alternative stérile :
-1.  **L'illusion de la hiérarchisation unilatérale (le réductionnisme)** : elle présuppose qu'un seul régime descriptif (généralement physico-causal) est fondamental et que tous les autres doivent y être ramenés ou éliminés comme des illusions subjectives.
-2.  **L'écueil de l'équivalence indifférenciée (le relativisme radical)** : elle décrète que puisque toute description est située, elle possède la même valeur pratique et la même validité rationnelle, détruisant ainsi toute possibilité d'évaluation et d'auto-correction collective.
+Que permet d’établir la confrontation de deux descriptions, compte tenu de leurs objets, de leurs fonctions, de leurs critères et du problème à traiter ?
 
-Dès lors, la difficulté théorique à laquelle répond cette page est la suivante :
-> **Comment comparer et évaluer l'efficacité de deux configurations descriptives hétérogènes portant sur une même situation sans postuler de point de vue de nulle part qui décréterait laquelle est « adéquate » au réel en soi, et sans renoncer à l'exigence de rigueur normative ?**
+3. Conditions d’application
 
-Protokin résout cette aporie en déplaçant le lieu de l'évaluation : on ne compare pas la fidélité de deux descriptions à copier un réel indépendant ; **on compare les capacités de deux configurations descriptives à découper, organiser, justifier et transformer un domaine d'action donné**. La comparaison devient une opération clinique, mesurable et rationnelle, qui prend pour étalon la puissance sémantique et pragmatique locale des cadres de dicibilité en présence.
+Avant de comparer deux descriptions, il convient de préciser trois éléments.
 
----
+3.1. Le problème de comparaison
 
-## Définition fonctionnelle
-Dans l'architecture de Protokin, on appelle **comparaison descriptive** :
-> **L'opération de second ordre par laquelle l'analyste identifie les objets descriptifs constitués, reconstruit les critères de correction immanents, et analyse les fonctions respectives de deux configurations descriptives concurrentes ou coexistantes, afin d'en évaluer les puissances différentielles face aux contraintes d'une situation problématique.**
+La comparaison doit répondre à une question identifiable. Cherche-t-on à comprendre un désaccord, à évaluer une affirmation, à préparer une décision, à examiner la portée de deux catégories ou à déterminer si deux descriptions peuvent être utilisées conjointement ?
 
-Cette opération exige de l'enquêteur qu'il suspende temporairement les prétentions à la validité des locuteurs pour reconstruire :
-*   **La différence des objets constitués** : comment chaque configuration délimite et stabilise ses invariants (les objets descriptifs) à partir du même milieu éprouvé.
-*   **La divergence des critères** : sur quelles règles d'évaluation locales repose l'application des catégories dans chaque cadre.
-*   **L'asymétrie des inférences et des justifications** : quelles transitions discursives chaque description autorise ou exclut, et quelles obligations justificatives elle impose au locuteur devant sa communauté de pairs.
+La question détermine les dimensions pertinentes de l’examen. Elle évite de transformer la comparaison en inventaire général des ressemblances et des différences.
 
----
+3.2. Les descriptions à comparer
 
-## Les critères de comparaison descriptive
-Pour mener une comparaison rigoureuse qui échappe à la simple correspondance lexicale ou à l'éclectisme laxiste, Protokin formalise six critères d'évaluation de la puissance descriptive :
+Il faut préciser ce qui est effectivement comparé : des énoncés particuliers, des descriptions récurrentes ou des pratiques descriptives plus larges.
 
-```text
-                        CRITÈRES DE COMPARAISON DESCRIPTIVE
-                                        │
-         ┌───────────────────┬──────────┴──────────┬───────────────────┐
-         ▼                   ▼                     ▼                   ▼
-     Extension           Résolution            Stabilité          Adaptabilité
-  (Étendue du domaine  (Finesse et grain    (Reproduction des   (Capacité de révision
-    et des dimensions)   des distinctions)    catégories dans      et d'intégration
-                                                 le temps)          des anomalies)
-         │                                                             │
-         └─────────────────────────────┬───────────────────────────────┘
-                                       ▼
-                              Portée Pratique
-                             (Orientation de l'action
-                               et de l'ingénierie)
-```
+Lorsque les descriptions relèvent de pratiques différentes, il peut être nécessaire d’examiner les critères, les supports et les règles d’inférence associés à ces pratiques. Il ne faut cependant pas présupposer que chaque description particulière exprime intégralement un régime descriptif.
 
-1. Le critère d'extension descriptive
+3.3. La situation concernée
 
-Il mesure l'étendue du domaine et la diversité des dimensions qu'une configuration est capable de rendre intelligibles. Une description dotée d'une large extension intègre une multitude de variables et de relations hétérogènes au sein d'un cadre sémantique unifié.
+Il faut établir ce dont parlent les descriptions et dans quelles circonstances elles sont mobilisées.
 
-· Question d'audit : Combien de dimensions de la situation problématique cette configuration permet-elle de prendre en charge ?
+Deux descriptions peuvent porter sur le même référent tout en répondant à des questions différentes. Elles peuvent aussi employer un même terme sans désigner exactement la même chose. L’identité des mots ne suffit donc pas à établir l’identité des contenus, pas plus que la différence de vocabulaire ne suffit à établir une divergence de fond.
 
-2. Le critère de résolution descriptive
+Ces précisions sont provisoires : la comparaison peut révéler que le problème, les descriptions retenues ou leur rapport à la situation ont été mal délimités.
 
-Il évalue le niveau de précision, la granularité et la finesse des contrastes qu'une configuration permet de prélever. Une description de haute résolution identifie des micro-différences et des nuances d'états qui échappent à un cadre plus général.
+4. Procédure de comparaison
 
-· Question d'audit : Quel est le niveau de détail et le "grain" des distinctions que ce découpage catégoriel permet d'isoler ?
+La procédure suivante constitue un guide d’examen, non une séquence obligatoire. Certaines questions peuvent être traitées conjointement ; d’autres peuvent nécessiter un retour sur la délimitation initiale.
 
-3. Le critère de stabilité descriptive
+4.1. Délimiter la question
 
-Il caractérise la capacité d'une configuration à maintenir ses catégories, ses critères de correction et ses objets de référence à travers des contextes, des locuteurs et des temporalités différentes. La stabilité est portée par la sédimentation des supports (archives, institutions, habitudes incorporées).
+Formuler le problème auquel la comparaison doit répondre.
 
-· Question d'audit : Dans quelle mesure cette description résiste-t-elle à l'érosion du temps et à la variabilité des interactions locales ?
+Préciser ce qui doit être départagé, expliqué ou évalué, ainsi que les conclusions qui seraient pertinentes pour l’enquête.
 
-4. Le critère d'adaptabilité descriptive (ou révisabilité)
+Une comparaison ne doit pas chercher à départager toutes les propriétés possibles des descriptions lorsque seules certaines importent pour le problème.
 
-Il mesure la plasticité de la configuration face à l'apparition de "butoirs" matériels ou d'anomalies cliniques. Un régime adaptable dispose de règles immanentes d'auto-correction qui lui permettent de modifier ses critères ou de réorganiser ses catégories sans que son armature de raisons ne s'effondre.
+4.2. Décrire chaque description séparément
 
-· Question d'audit : Comment cette configuration gère-t-elle ses propres limites et intègre-t-elle les cas déviants au cours de l'enquête ?
+Pour chaque description, relever :
 
-5. Le critère de portée pratique
+- ce qu’elle affirme ou distingue ;
+- la situation ou le référent auquel elle se rapporte ;
+- la question à laquelle elle répond ;
+- les critères utilisés pour reconnaître les cas pertinents ;
+- les éléments, observations ou supports sur lesquels elle s’appuie ;
+- les conclusions qu’elle permet de tirer ;
+- sa fonction dans la pratique considérée.
 
-Il évalue l'efficacité pragmatique de la description pour coordonner l'activité collective, guider les décisions et transformer matériellement le milieu rencontré (plan PROTO). La puissance descriptive s'éprouve ici dans sa capacité à concevoir des ingénieries fiables.
+Cette première analyse permet de ne pas réduire une description à sa formulation littérale. Elle ne doit toutefois pas attribuer à celle-ci des engagements qui ne peuvent être établis à partir de son usage, de ses règles ou des pratiques concernées.
 
-· Question d'audit : Quelles actions coordonnées et quelles transformations techniques cette description permet-elle de réaliser ?
+4.3. Identifier les différences pertinentes
 
----
+Comparer les descriptions en fonction du problème retenu.
 
-Distinctions conceptuelles nécessaires
+Les différences peuvent concerner :
 
-Comparer des descriptions et Réduire des descriptions
+- les éléments sélectionnés ;
+- la précision des distinctions ;
+- l’étendue des situations couvertes ;
+- les critères de correction ;
+- les relations et les inférences mobilisées ;
+- les fonctions exercées ;
+- les conditions dans lesquelles les descriptions peuvent être révisées.
 
-La différence porte sur le respect de l'autonomie des cadres. La réduction est une opération hégémonique qui absorbe unilatéralement les critères d'un régime au sein d'un autre, niant la légitimité de ses fonctions propres. La comparaison maintient fermement l'indépendance de chaque juridiction normative : elle n'annule pas les différences, elle les cartographie pour évaluer ce que chaque configuration met en lumière et ce qu'elle rejette dans ses zones de silence.
-La réduction écrase l'espace des raisons ; la comparaison en mesure les puissances relatives.
+Toutes les différences ne sont pas pertinentes pour toute enquête. Une différence de vocabulaire peut recouvrir une fonction comparable ; une formulation proche peut, à l’inverse, engager des critères ou des conclusions distincts.
 
-Comparaison par critères de puissance et Comparaison lexicale formelle
+4.4. Examiner les critères et les conclusions
 
-La comparaison lexicale se borne à vérifier si deux énoncés partagent le même vocabulaire ou les mêmes étiquettes linguistiques, s'exposant à de graves contresens sémantiques. La comparaison protokinienne porte sur les structures inférentielles, les rituels de justification, les supports d'inscription et les responsabilités normatives réelles qui configurent le dicible.
-La comparaison lexicale s'arrête aux mots ; la comparaison protokinienne remonte aux règles des pratiques.
+Identifier les critères employés dans chaque description et déterminer ce qu’ils permettent effectivement d’établir.
 
----
+Il faut notamment demander :
 
-Articulation dans l'architecture Protokin
+- quelles observations ou quelles prémisses soutiennent les affirmations ;
+- quelles règles permettent de passer de ces éléments aux conclusions ;
+- si ces règles sont recevables pour le problème étudié ;
+- si les critères sont appliqués de manière comparable dans les cas pertinents ;
+- quelles conclusions nécessitent des informations ou des justifications supplémentaires.
 
-Au sein de la section 08 — Méthode Protokin, l'opération de comparaison fait le pont entre l'identification des régimes et le diagnostic des pathologies d'altération descriptive :
+La comparaison ne consiste pas à appliquer automatiquement les critères d’une description à l’autre. Elle consiste à déterminer si ces critères sont pertinents pour la question commune et dans quelles conditions une confrontation est possible.
 
-```text
-Identifier un régime (expliciter les catégories, critères et supports)
-        ↓
-COMPARER DEUX DESCRIPTIONS (confronter les puissances et délimiter les zones de silence)
-        ↓
-Diagnostiquer une réduction (repérer l'aplatissement illégitime d'un régime)
-        ↓
-Diagnostiquer une confusion de niveau (repérer les glissements de plans d'analyse)
-        ↓
-Diagnostiquer une erreur de catégorie (repérer l'application inadéquate de concepts)
-```
+4.5. Examiner les rapports entre les descriptions
 
----
+À partir des éléments recueillis, caractériser leur relation. Plusieurs situations sont possibles :
 
-Développement progressif : le travail de la comparaison immanente
+- Différence sans conflit : les descriptions sélectionnent des aspects distincts sans produire de conclusions incompatibles.
+- Complémentarité possible : chacune apporte des éléments utiles au traitement du problème, sous réserve que leur articulation soit effectivement établie.
+- Compatibilité partielle : les descriptions peuvent être utilisées conjointement dans certaines limites, mais pas pour toutes leurs affirmations ou tous leurs usages.
+- Conflit localisé : certaines affirmations ou certains critères entrent en tension dans un domaine précis.
+- Incompatibilité établie : deux affirmations ne peuvent être maintenues conjointement dans les conditions considérées, compte tenu des mêmes éléments pertinents et des engagements en jeu.
+- Rapport indéterminé : les éléments disponibles ne permettent pas de caractériser suffisamment la relation.
 
-La conduite d'une comparaison exige de l'enquêteur de second ordre qu'il applique une méthode rigoureuse en quatre étapes d'investigation :
+Ces catégories servent à préciser le résultat de l’examen. Elles ne constituent pas une classification exhaustive, et une même comparaison peut faire apparaître plusieurs types de relations.
 
-Étape 1 : L'extraction des configurations descriptives
+4.6. Évaluer les conséquences pour le problème
 
-L'enquêteur doit s'assurer de ne pas comparer des propositions isolées de leurs conditions d'existence. Pour chaque description observée, il doit remonter à son unité d'audit : la configuration descriptive d'origine. Il identifie les supports d'inscription (externes ou incorporés), les taxonomies et les rituels de justification qui la soutiennent.
+Déterminer ce que la comparaison permet de décider, de maintenir ou de réviser.
 
-Étape 2 : Le traçage des objets et de leurs fonctions
+Il peut être nécessaire de préciser le domaine dans lequel une description est pertinente, de limiter une conclusion, de recueillir de nouveaux éléments ou de revoir la question initiale.
 
-Il convient de cartographier l'objet descriptif stabilisé par chaque configuration. L'analyste se demande : Quel invariant relationnel cette grille de lecture fait-elle apparaître dans la situation rencontrée ? À quelle finalité d'action répond cet invariant ?
+La comparaison peut également montrer que le désaccord ne porte pas sur les mêmes objets, que les critères utilisés ne répondent pas à la même question ou que les informations disponibles sont insuffisantes pour trancher.
 
-Étape 3 : La confrontation multidimensionnelle des puissances
+Elle ne garantit donc pas qu’une description doive être retenue à l’exclusion de l’autre.
 
-C'est le cœur de l'opération comparative. L'analyste confronte les deux configurations à l'aune des six critères (extension, résolution, stabilité, adaptabilité, justification, portée pratique). Il montre que l'asymétrie de puissance n'est jamais absolue mais relative à l'enquête : une configuration hautement instrumentée (image scientifique) peut posséder une immense puissance projective face aux causes physiques, tout en s'avérant inférentiellement impuissante à justifier une responsabilité morale ou juridique face aux personnes (image manifeste).
+5. Questions de contrôle
 
-Étape 4 : Le repérage des zones de silence et des chevauchements de juridictions
+Au cours de l’examen, les questions suivantes peuvent servir de points de contrôle :
 
-La comparaison met en évidence les zones de silence réciproques. Elle délimite précisément où s'arrêtent la pertinence et la redevabilité de chaque cadre. Elle prépare ainsi le terrain pour les opérations de traduction inter-régimes et prévient les transpositions sauvages de critères.
+Dimension| Questions
+Objet| Les descriptions portent-elles sur le même référent, la même situation ou le même aspect du problème ?
+Sélection| Quelles différences chacune retient-elle, et lesquelles laisse-t-elle de côté ?
+Fonction| À quelle question pratique ou descriptive chacune répond-elle ?
+Critères| Selon quels critères les affirmations sont-elles évaluées ?
+Inférences| Quelles conclusions sont autorisées, et lesquelles sont effectivement tirées ?
+Appuis| Quels éléments soutiennent les affirmations et quelles limites présentent-ils ?
+Révision| Comment chaque description peut-elle être contestée, corrigée ou révisée ?
+Conséquences| Qu’est-ce que leur confrontation permet d’établir pour le problème initial ?
 
----
+Cette grille est indicative. Il n’est pas nécessaire de renseigner toutes les dimensions si certaines ne sont pas pertinentes pour la question étudiée.
 
-Éclairage par les fils rouges pédagogiques
+6. Règles d’interprétation
 
-1. Le botaniste et le bûcheron dans la forêt
+Les résultats de la comparaison doivent respecter plusieurs distinctions.
 
-Confrontés au même arbre (situation rencontrée), leurs descriptions semblent s'opposer. La comparaison protokinienne suspend ce désaccord de premier ordre :
+Différence ne signifie pas incompatibilité. Deux descriptions peuvent sélectionner des aspects distincts d’une même situation sans se contredire.
 
-· La configuration du botaniste (Abies alba, image scientifique) possède une forte extension taxonomique mondiale et une haute densité inférentielle : elle relie l'arbre aux flores internationales et à des critères génétiques stricts. Sa puissance est prédictive et classificatoire.
-· La configuration du bûcheron (tronc exploitable, image manifeste technique) possède une haute résolution tactile et sensorielle locale et une portée pratique immédiate : elle guide l'orientation de l'abattage et estime la valeur commerciale.
-  L'analyse comparative démontre que leurs descriptions sont parfaitement compatibles car elles répondent à des finalités d'action étanches. Elle interdit d'imposer les critères de l'un pour disqualifier l'autre, préservant l'intelligibilité de leurs expertises respectives.
+Complémentarité ne signifie pas adéquation générale. Deux descriptions peuvent contribuer conjointement à un problème sans que toutes leurs affirmations soient établies.
 
-2. Le patient aux urgences hospitalières
+Précision ne signifie pas supériorité générale. Une description plus détaillée peut être mieux adaptée à une question et moins pertinente pour une autre.
 
-L'arrivée d'un patient cardiaque met en frottement plusieurs configurations descriptives :
+Utilité ne signifie pas validité. Une description peut faciliter une action sans que cela suffise à justifier toutes les affirmations qu’elle contient.
 
-· La configuration clinique de l'infirmière de tri : elle qualifie la situation en termes de "gravité vitale" (de 1 à 5), s'appuyant sur des critères physiologiques immédiats pour organiser la priorité d'accès aux soins.
-· La configuration comptable de l'administration hospitalière : elle qualifie la situation en termes de "séjour facturable" et de "flux de lits", s'appuyant sur des indicateurs de gestion budgétaire.
-  Mener une comparaison permet d'auditer la légitimité de leurs revendications de second ordre. Elle démontre que la configuration clinique possède une puissance descriptive de triage et de survie absolue, tandis que la configuration administrative n'a qu'une puissance logistique secondaire. L'audit comparatif intervient pour bloquer la réduction de la clinique à la comptabilité, protégeant la redevabilité déontique du soignant.
+Cohérence ne signifie pas adéquation. Une description peut être cohérente dans son organisation tout en reposant sur des distinctions inadéquates ou sur des prémisses insuffisamment établies.
 
-3. « Cette personne est mauvaise » (ou « dangereuse »)
+Reconnaissance institutionnelle ne signifie pas justification. Le fait qu’une description soit reconnue ou privilégiée dans une pratique constitue un élément pertinent pour comprendre son usage et son autorité, mais ne suffit pas à établir la validité de ses conclusions.
 
-La qualification de dangerosité d'un sujet peut être comparée sous deux angles catégoriels :
+Enfin, une conclusion autorisée par les règles et les prémisses mobilisées ne doit pas être confondue avec une conclusion effectivement tirée. La comparaison doit préciser ce qu’elle établit, les engagements dont elle dépend et les questions qu’elle laisse ouvertes.
 
-· Une configuration morale ordinaire (l'image manifeste de la personne malveillante) : elle fige l'individu sous une essence statique définitive (« mauvaise par nature »), fermant de manière asymétrique ses perspectives de réhabilitation et produisant une immense zone de silence sur sa plasticité comportementale future.
-· Une configuration clinique ou psychosociale (l'image scientifique de la vulnérabilité) : elle analyse les causes d'un comportement déviant en termes de déterminants neurologiques, d'habitus sociaux ou de traumatismes, offrant une révisabilité et une adaptabilité supérieures pour accompagner un parcours de soin.
-  Comparer ces deux descriptions permet de mesurer les coûts de leurs engagements et de dénoncer l'injustice herméneutique qui consiste à présenter une étiquette d'exclusion sécuritaire comme une description psychologique objective.
+7. Exemple : le botaniste et le bûcheron
 
----
+Un botaniste et un bûcheron examinent le même arbre.
 
-Limites et vigilances d'audit
+Le botaniste s’intéresse notamment à l’espèce, à l’état biologique et au développement de l’arbre. Le bûcheron examine sa structure, ses dimensions, son état mécanique et les conditions d’un éventuel abattage.
 
-Lors de l'application de ce protocole, l'analyste doit surveiller trois écueils méthodologiques :
+Leurs descriptions diffèrent, mais cette différence ne suffit pas à établir un désaccord. Elles peuvent répondre à des questions distinctes.
 
-· Le piège de la hiérarchisation ontologique (erreur scientiste) : Croire que l'asymétrie de puissance technique ou prédictive d'une description (comme la physique ou la biologie face au PROTO) lui confère le droit de juridiction suprême pour invalider les régimes de responsabilité morale ou juridique (face au KIN).
-· L'illusion de la neutralité de l'auditeur (le biais de surplomb) : S'imaginer que l'analyste qui compare les configurations s'extrait de l'espace des raisons pour prononcer des verdicts depuis un point de vue de nulle part. Protokin le rappelle : comparer est elle-même une opération descriptive située, soumise à l'auto-audit et à la critique de sa propre communauté d'enquête.
-· Le brouillage éclectique lors de la comparaison (l'hybridation laxiste) : Prétendre comparer deux descriptions en fusionnant ou en mélangeant leurs critères de correction respectifs (par exemple, mêler des termes d'éthique ordinaire et de neurobiologie dans un diagnostic clinique), ce qui détruit la cohérence inférentielle de l'analyse et égare l'enquêteur.
+Supposons maintenant que l’arbre penche au-dessus d’une habitation et qu’il faille évaluer le risque qu’il représente.
 
----
+La comparaison doit alors préciser les informations pertinentes pour cette question. L’identification botanique peut apporter des éléments sur l’espèce et l’état de l’arbre. L’examen technique peut apporter des éléments sur sa structure, son inclinaison et les conditions d’une intervention. Il faut encore déterminer quelles informations permettent d’évaluer sa stabilité, quelles conséquences sont envisagées et selon quels critères le risque doit être apprécié.
 
-Synthèse finale
+Il ne suffit pas d’affirmer que les deux descriptions sont complémentaires parce qu’elles proviennent de deux expertises différentes. Il faut examiner ce que chacune établit, ce qui lui manque et comment les éléments peuvent être mis en relation.
 
-Ce que cette page établit
+Si leurs conclusions divergent, l’enquête doit localiser le désaccord : porte-t-il sur les observations, sur leur interprétation, sur les critères employés ou sur la décision à prendre ? Il peut nécessiter des observations supplémentaires ou une expertise distincte.
 
-Le protocole de comparaison descriptive comme méthode de second ordre pour confronter et évaluer la puissance relative de deux configurations descriptives à partir de critères de redevabilité explicites, sans recours à un arbitre ontologique transcendant.
+La comparaison ne désigne donc pas à l’avance la description la plus puissante. Elle précise ce que chacune permet d’établir pour la question posée et les raisons pour lesquelles une conclusion peut être maintenue ou contestée.
 
-Ce qu'elle suppose
+8. Limites de l’instrument
 
-Le principe du pluralisme descriptif, la configuration descriptive, le régime descriptif et la notion de puissance descriptive.
+La comparaison ne fournit pas, à elle seule, un critère universel permettant de classer toutes les descriptions.
 
-Ce qu'elle rend possible
+Elle ne garantit pas :
 
-La conduite clinique de l'audit comparatif, le diagnostic des dérives d'éclectisme ou de réduction descriptive, l'évaluation rigoureuse des traductions entre régimes et la formalisation d'une écologie des régimes descriptifs réflexive.
+- que les descriptions portent sur un objet identique ;
+- qu’elles puissent être traduites dans un vocabulaire commun ;
+- que leurs critères soient directement comparables ;
+- que les informations disponibles permettent de trancher ;
+- que l’une des descriptions soit globalement préférable ;
+- que la décision résultant de la comparaison soit automatiquement justifiée.
 
----
+Lorsque les descriptions mobilisent des critères différents, il faut examiner si une question commune permet de les confronter, si certaines de leurs conclusions peuvent être comparées ou si le désaccord exige un examen supplémentaire. L’absence de critère commun immédiatement disponible ne suffit pas à établir une incommensurabilité définitive.
 
-Protokin 2026 - version 1.1
+La comparaison est elle-même une opération située. Le choix des descriptions, la formulation du problème et la sélection des critères peuvent être contestés. Ils doivent donc rester accessibles à la critique et, si nécessaire, être révisés.
+
+Enfin, la comparaison ne remplace ni l’identification d’un régime descriptif, ni l’analyse des relations entre plusieurs régimes, ni l’évaluation d’une traduction entre eux. Elle peut mobiliser ces examens lorsqu’ils sont nécessaires, sans se substituer à leur fonction propre.
+
+9. Résultat attendu et articulation avec l’enquête
+
+À l’issue de la comparaison, le résultat doit préciser :
+
+- la question examinée ;
+- les descriptions effectivement comparées ;
+- les différences pertinentes identifiées ;
+- les critères et les éléments mobilisés ;
+- la nature du rapport établi entre les descriptions ;
+- les conclusions soutenues et leurs limites ;
+- les incertitudes ou les examens supplémentaires nécessaires.
+
+Ce résultat peut conduire à maintenir les deux descriptions, à en limiter la portée, à préciser un désaccord, à réviser une conclusion ou à redélimiter le problème.
+
+La comparaison s’articule ainsi avec plusieurs opérations de l’enquête : Délimiter, pour préciser la question ; Distinguer, pour identifier les différences pertinentes ; Relier, pour examiner les rapports entre les éléments ; Justifier, pour contrôler les conclusions ; Reconstituer et Redélimiter, lorsque les résultats conduisent à reprendre l’analyse.
+
+Cette articulation ne fait pas de la comparaison une étape obligatoire de toute enquête. Elle indique les opérations susceptibles d’être mobilisées selon le problème rencontré.
+
+Pour approfondir :
+
+- "Identifier un régime descriptif" (identifier-un-regime.md)
+- "Écologie des régimes descriptifs" (ecologie-des-regimes-descriptifs.md)
+- "Architecture fonctionnelle de l’enquête" (architecture-fonctionnelle-de-l-enquete.md)
+- "Quadripartition de l’orientation" (quadripartition-de-l-orientation.md)
+
+Comparer deux descriptions, ce n’est pas décider d’avance laquelle l’emporte : c’est établir ce que leur confrontation permet de soutenir, pour quel problème et dans quelles limites.
