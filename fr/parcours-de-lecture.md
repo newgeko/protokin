@@ -1,333 +1,91 @@
-# Page : parcours-de-lecture.md
+Parcours de lecture
 
-# Parcours de lecture
+Fonction de cette page
 
-> **Protokin peut être parcouru selon plusieurs itinéraires complémentaires.**
->
-> Cette page n'établit aucun concept nouveau.
->
-> Elle propose différents chemins de lecture adaptés aux objectifs du lecteur et met en évidence les dépendances fonctionnelles entre les différentes parties de l'architecture.
->
-> Il n'existe pas un ordre unique de lecture.
->
-> Les parcours présentés ici constituent autant de manières d'entrer dans une même enquête sur les pratiques descriptives.
+Cette page propose plusieurs entrées dans la documentation de Protokin selon les questions que le lecteur souhaite examiner.
 
----
+Elle ne présente pas une nouvelle fois le projet, son architecture ou ses concepts. Elle indique quelles pages consulter, dans quel but et vers quelles ressources poursuivre la lecture.
 
-# Fonction de cette page
+Il n’existe pas d’ordre unique de lecture. Les parcours sont des propositions d’orientation : ils ne constituent ni une procédure obligatoire ni une succession nécessaire dans la constitution d’un objet.
 
-La documentation de Protokin forme une architecture conceptuelle organisée autour d'une question centrale :
+Pour une vue plus complète des ressources disponibles, consulter la "Table des matières" (tdm.md).
 
-> **Comment des pratiques collectives rendent-elles certaines différences descriptibles, produisent-elles des descriptions, les justifient-elles, les stabilisent-elles, les transmettent-elles, les contestent-elles et les transforment-elles ?**
+1. Découvrir Protokin
 
-Toutes les pages ne remplissent pas la même fonction.
+Question de départ : à quel problème répond Protokin et comment son enquête s’organise-t-elle ?
 
-Certaines établissent les principes méthodologiques du projet.
+1. "Introduction générale" (introduction-generale.md) — Comprendre pourquoi les pratiques descriptives peuvent devenir problématiques et pourquoi leur examen peut nécessiter une enquête.
+2. "Architecture du projet" (architecture-projet.md) — Identifier les principales ressources du projet et leurs fonctions respectives.
+3. "Architecture fonctionnelle de l’enquête" (architecture-fonctionnelle-de-l-enquete.md) — Comprendre comment les opérations permettent d’examiner un problème, de reprendre les distinctions et de réviser les résultats.
+4. "Quadripartition de l’orientation" (quadripartition-de-l-orientation.md) — Découvrir les quatre orientations qui permettent de différencier les questions examinées.
 
-D'autres définissent les concepts fondamentaux.
+Ce parcours permet de situer le problème de départ et de distinguer l’organisation documentaire du projet, l’organisation fonctionnelle de l’enquête et l’orientation de l’examen.
 
-D'autres encore analysent les pratiques descriptives, présentent la méthode d'enquête, développent les héritages philosophiques ou illustrent l'architecture à travers des études de cas.
+2. Comprendre comment une enquête se conduit
 
-Les parcours proposés ci-dessous permettent d'explorer cette architecture selon différents objectifs.
+Question de départ : comment traiter une difficulté descriptive concrète ?
 
----
+1. "Architecture fonctionnelle de l’enquête" (architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations et comprendre leurs relations.
+2. "Délimiter" (delimiter.md) — Préciser le problème à examiner.
+3. "Ancrer" (ancrer.md) — Identifier les éléments de la situation sur lesquels l’enquête peut s’appuyer.
+4. "Distinguer" (distinguer.md) — Séparer les éléments ou les fonctions que le problème conduit à différencier.
+5. "Relier" (relier.md) — Examiner les dépendances pertinentes entre les éléments distingués.
+6. "Configurer" (configurer.md) — Organiser les éléments et leurs relations au regard du problème.
+7. "Justifier" (justifier.md) — Examiner les raisons et les critères qui permettent de défendre ou de contester les conclusions.
+8. "Reconstituer" (reconstituer.md) — Reprendre l’organisation de la situation et de sa description à la lumière de l’examen.
+9. "Redélimiter" (redelimiter.md) — Réviser la délimitation initiale si les résultats conduisent à reformuler le problème.
 
-# Parcours 1 — Découvrir Protokin
+Ce parcours permet de découvrir les opérations de l’enquête et leur articulation. L’ordre proposé sert de repère de lecture : les opérations peuvent être reprises, combinées ou réordonnées selon la difficulté rencontrée.
 
-Ce parcours est destiné aux lecteurs qui souhaitent comprendre rapidement le projet, son objet et son orientation générale.
+3. Examiner un problème à partir de la quadripartition
 
-## Ordre conseillé
+Question de départ : quelles questions faut-il distinguer pour éviter de tirer une conclusion trop rapidement ?
 
-1. Introduction générale
-2. Protokin en une phrase
-3. Statut du projet
-4. Nom, origine et portée conceptuelle
-5. Les principes fondamentaux
-6. Architecture générale
-7. Architecture fonctionnelle
+1. "Quadripartition de l’orientation" (quadripartition-de-l-orientation.md) — Comprendre la distinction entre Condition, Relation, Fonction et Justification.
+2. "Architecture fonctionnelle de l’enquête" (architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations qui permettent de traiter les questions soulevées.
+3. "Description" (description.md) — Examiner ce que fait une description et comment elle se rapporte à ce qu’elle prétend décrire.
+4. "Assertion" (assertion.md) — Approfondir les questions relatives à ce qui est affirmé et aux conclusions qu’une assertion peut autoriser.
 
-## Ce parcours permet de comprendre
+Ce parcours permet de distinguer les conditions d’une pratique, les relations pertinentes, les fonctions exercées et la justification des conclusions. Il aide notamment à éviter de confondre une condition avec un critère, une fonction avec une justification ou une inférence autorisée avec une conclusion justifiée.
 
-- ce qu'est Protokin ;
-- pourquoi cette métathéorie a été développée ;
-- quel est son objet ;
-- comment s'organise l'ensemble de l'architecture.
+La quadripartition oriente l’examen ; elle ne fournit pas automatiquement les réponses aux questions posées.
 
----
+4. Partir d’une description ou d’une situation concrète
 
-# Parcours 2 — Comprendre les principes fondamentaux
+Question de départ : comment les distinctions de Protokin peuvent-elles être mises à l’épreuve d’un cas ?
 
-Ce parcours présente les engagements méthodologiques qui rendent l'architecture de Protokin intelligible.
+1. "Introduction générale" (introduction-generale.md) — Découvrir le problème à travers la diversité des descriptions d’une même situation.
+2. "Le botaniste et le bûcheron" (botaniste-bucheron.md) — Examiner comment plusieurs pratiques peuvent retenir des différences et mobiliser des critères distincts à propos d’un même objet.
+3. "Description" (description.md) — Approfondir le rôle de la description dans la pratique étudiée.
+4. "Lexique Protokin" (lexique-protokin.md) — Retrouver les termes nécessaires à l’analyse et accéder aux pages qui les développent.
+5. "Table des matières" (tdm.md) — Choisir d’autres notions, opérations ou études de cas selon les questions qui demeurent ouvertes.
 
-## Ordre conseillé
+Ce parcours permet de partir d’une situation plutôt que d’un inventaire de concepts. Il invite à examiner les différences retenues par chaque pratique, les fonctions de ses descriptions et les critères mobilisés, sans supposer que des descriptions différentes sont nécessairement incompatibles.
 
-1. Le primat du couplage organisme-milieu
-2. Le primat du couplage perception-action
-3. Le primat de la description
-4. Le primat de l'enquête
-5. Le principe de la description située
-6. L'espace des causes et l'espace des raisons
-7. Le principe d'immanence normative
-8. Le principe des dépendances fonctionnelles
-9. Le principe du pluralisme descriptif
-10. Le principe de réflexivité
-11. Le principe d'humilité épistémique
+5. Examiner les transformations et les limites de l’enquête
 
-## Ce parcours permet de comprendre
+Question de départ : comment les descriptions et les instruments employés pour les examiner peuvent-ils eux-mêmes être révisés ?
 
-- les engagements philosophiques de Protokin ;
-- les relations entre les différents principes ;
-- la logique générale de l'architecture.
+1. "Architecture fonctionnelle de l’enquête" (architecture-fonctionnelle-de-l-enquete.md) — Repérer les possibilités de reprise et de révision de l’enquête.
+2. "Temporalité descriptive" (temporalite-descriptive.md) — Examiner la dimension temporelle des pratiques descriptives et leurs transformations.
+3. "Réflexivité" (reflexivite.md) — Étudier la manière dont une pratique peut interroger ses propres distinctions et opérations.
+4. "Auto-application" (auto-application.md) — Examiner ce qui se passe lorsque Protokin applique ses propres exigences à son organisation et à ses descriptions.
+5. "Table des matières" (tdm.md) — Poursuivre vers les ressources pertinentes pour la difficulté rencontrée.
 
----
+Ce parcours permet de comprendre que les descriptions, les critères et les instruments d’enquête ne sont pas soustraits à la révision. Il ne suppose pas que toute transformation soit un progrès, ni que l’auto-application garantisse à elle seule la validité des résultats.
 
-# Parcours 3 — Comprendre comment une description devient possible
+Choisir une autre entrée
 
-Ce parcours suit la genèse d'une description depuis l'interaction avec le milieu jusqu'à son organisation conceptuelle.
+Les cinq parcours précédents ne couvrent pas toutes les possibilités de lecture.
 
-## Ordre conseillé
+Le lecteur peut également partir d’un terme précis, d’une opération particulière ou d’une étude de cas. Le "Lexique Protokin" (lexique-protokin.md) facilite l’accès aux termes ; la "Table des matières" (tdm.md) donne une vue plus large des ressources classées selon leur fonction.
 
-1. Configuration rencontrée
-2. Couplage organisme-milieu
-3. Couplage perception-action
-4. Supports descriptifs
-5. Configuration sémiotique
-6. Configuration descriptive
-7. Description
-8. Fonctions descriptives
-9. Qualification
-10. Assertion
-11. Prédication
-12. Catégories
-13. Critères
-14. Taxonomies
+Les parcours peuvent se croiser. Une difficulté rencontrée dans une étude de cas peut conduire à consulter une notion, à reprendre une opération ou à examiner les critères d’une conclusion. Le choix de la lecture suivante dépend alors du problème qui reste à traiter.
 
-## Ce parcours permet de comprendre
+Principe d’orientation
 
-- comment certaines différences deviennent descriptibles ;
-- comment elles sont organisées ;
-- comment une description acquiert une structure.
+Les parcours organisent l’accès à la documentation ; ils ne déterminent pas l’ordre de l’enquête.
 
----
+Ils rendent visibles plusieurs entrées possibles dans le projet sans transformer ses ressources en étapes obligatoires. La fonction de chaque page doit rester distincte : présenter le projet, organiser ses ressources, décrire les opérations, orienter l’examen ou approfondir une notion.
 
-# Parcours 4 — Comprendre les positions descriptives
-
-Ce parcours est centré sur les acteurs des pratiques descriptives et leurs relations.
-
-## Ordre conseillé
-
-1. Le locuteur
-2. L'auditeur
-3. Relation locuteur-auditeur
-4. Position épistémique
-5. Supports incorporés
-6. Supports corporels
-7. Communauté de locuteurs
-8. Engagements descriptifs
-9. Responsabilité normative
-10. Justifications
-11. Recevabilité
-
-## Ce parcours permet de comprendre
-
-- qui produit une description ;
-- qui l'évalue ;
-- dans quelles conditions elle devient publique ;
-- comment les engagements sont régulés collectivement.
-
----
-
-# Parcours 5 — Comprendre les régimes descriptifs
-
-Ce parcours montre comment les descriptions s'organisent collectivement selon différents cadres de pertinence et d'évaluation.
-
-## Ordre conseillé
-
-1. Régime descriptif
-2. Catégories
-3. Critères
-4. Taxonomies
-5. Niveau descriptif
-6. Objet descriptif
-7. Compatibilités
-8. Incompatibilités
-9. Traductions entre régimes
-10. Transformations descriptives
-
-## Ce parcours permet de comprendre
-
-- pourquoi plusieurs descriptions peuvent coexister ;
-- comment elles sont structurées ;
-- comment elles peuvent entrer en tension ou être traduites.
-
----
-
-# Parcours 6 — Comprendre l'enquête et l'audit
-
-Ce parcours présente Protokin comme une méthode d'analyse des pratiques descriptives.
-
-## Ordre conseillé
-
-1. L'enquête
-2. Conduire une enquête
-3. Identifier un régime descriptif
-4. Comparer deux descriptions
-5. Diagnostiquer une réduction
-6. Diagnostiquer une confusion de niveau
-7. Diagnostiquer une erreur de catégorie
-8. Évaluer une traduction
-9. Réaliser un audit
-
-## Ce parcours permet de comprendre
-
-- comment analyser une pratique descriptive ;
-- comment identifier ses conditions de fonctionnement ;
-- comment repérer ses tensions et ses limites.
-
----
-
-# Parcours 7 — Comprendre la dynamique des pratiques descriptives
-
-Ce parcours suit les transformations internes des descriptions dans le temps.
-
-## Ordre conseillé
-
-1. Stabilisation
-2. Effet cliquet
-3. Maintien
-4. Reproduction
-5. Tension
-6. Limite interne
-7. Transition
-8. Transformation
-9. Controverse
-10. Innovation
-11. Réorganisation
-
-## Ce parcours permet de comprendre
-
-- comment les descriptions se maintiennent ;
-- pourquoi elles changent ;
-- comment émergent de nouvelles configurations descriptives.
-
----
-
-# Parcours 8 — Comprendre les temporalités descriptives
-
-Ce parcours explore l'inscription historique des pratiques descriptives.
-
-## Ordre conseillé
-
-1. Position
-2. Trajectoire
-3. Allure
-4. Temporalité descriptive
-5. Historicité
-6. Sédimentation
-7. Réorganisation
-
-## Ce parcours permet de comprendre
-
-- comment les descriptions évoluent ;
-- comment elles héritent du passé ;
-- comment elles prennent différentes formes temporelles.
-
----
-
-# Parcours 9 — Comprendre les héritages philosophiques
-
-Ce parcours présente les principales traditions mobilisées par Protokin.
-
-## Ordre conseillé
-
-- Charles Sanders Peirce
-- John Dewey
-- Wilfrid Sellars
-- Robert Brandom
-- Ludwig Wittgenstein
-- Joseph Rouse
-- Gilbert Simondon
-- Paul Ricœur
-- Miranda Fricker
-- Ian Hacking
-- Humberto Maturana
-- Francisco Varela
-- Antonio Damasio
-- Ilya Prigogine
-- Heinz von Foerster
-
-## Ce parcours permet de comprendre
-
-- les filiations philosophiques de Protokin ;
-- les concepts repris ;
-- les déplacements opérés par le projet.
-
----
-
-# Parcours 10 — Comprendre les applications
-
-Ce parcours montre comment Protokin peut être mobilisé pour analyser des situations concrètes.
-
-## Ordre conseillé
-
-1. Le fil rouge : « Cette personne est mauvaise »
-2. Le géocentrisme
-3. La monnaie
-4. Le médecin
-5. L'illégalité
-6. Les classifications médicales
-7. Les controverses scientifiques
-8. L'intelligence artificielle
-
-## Ce parcours permet de comprendre
-
-- comment appliquer Protokin ;
-- comment comparer plusieurs régimes descriptifs ;
-- comment conduire une enquête sur une situation particulière.
-
----
-
-# Parcours 11 — Comprendre la réflexivité de Protokin
-
-Ce dernier parcours applique les outils de Protokin à sa propre architecture.
-
-## Ordre conseillé
-
-1. Réflexivité
-2. Auto-application
-3. Audit des audits
-4. Limites de Protokin
-5. Protokin comme régime descriptif
-
-## Ce parcours permet de comprendre
-
-- pourquoi aucune pratique descriptive n'échappe à l'analyse ;
-- comment Protokin devient lui-même un objet d'enquête ;
-- pourquoi la réflexivité constitue un engagement fondamental.
-
----
-
-# Une architecture ouverte
-
-Ces parcours ne constituent pas une hiérarchie entre les différentes parties de la documentation.
-
-Ils proposent plusieurs points d'entrée dans une même architecture fonctionnelle.
-
-Selon ses objectifs, le lecteur peut commencer par :
-
-- les principes ;
-- les concepts ;
-- les pratiques ;
-- la méthode ;
-- les héritages philosophiques ;
-- les applications.
-
-Tous ces itinéraires convergent progressivement vers une même compréhension de Protokin comme métathéorie pragmatiste, inférentialiste, réflexive et non ontologique des pratiques descriptives.
-
----
-
-# Formule synthétique
-
-> **Il n'existe pas un ordre unique pour lire Protokin.**
->
-> **Chaque parcours éclaire une dimension particulière du projet, mais tous conduisent vers une même enquête : comprendre comment des pratiques collectives rendent certaines différences descriptibles, produisent des descriptions, les justifient, les stabilisent, les contestent et les transforment.**
+Pour consulter l’ensemble des principales ressources, voir la "Table des matières" (tdm.md).
