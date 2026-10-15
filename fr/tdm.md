@@ -1,1077 +1,134 @@
-# Table des matières — Corpus Protokin
-
-Cette page cartographie le corpus documentaire de Protokin. Elle permet d'identifier les pages de référence, de parcourir les principaux ensembles thématiques et d'accéder à chaque document du corpus.
-
-La table des matières est un instrument de navigation. Elle ne constitue ni une architecture théorique supplémentaire ni une hiérarchie définitive entre les textes.
-
-## 1. Pages de référence
-
-Ces pages définissent la présentation générale, les distinctions structurantes et l'organisation de l'enquête.
-
-- [README — Présentation générale de Protokin](../README.md)
-- [Architecture du projet](architecture-projet.md)
-- [Architecture fonctionnelle de l'enquête](architecture-fonctionnelle-de-l-enquete.md)
-- [Quadripartition de l'orientation](quadripartition-de-l-orientation.md)
-- [Enquête](enquete.md)
-- [Protokin en une phrase](protokin-en-une-phrase.md)
-- [Les principes](les-principes.md)
-- [Statut du projet](statut-du-projet.md)
-- [Ce que Protokin permet](ce-que-protokin-permet.md)
-- [Ce que Protokin ne prétend pas faire](ce-que-protokin-ne-pretend-pas-faire.md)
-- [Limites de Protokin](limites-de-protokin.md)
-- [Table des matières — ancienne page de cartographie](table-des-matieres.md)
-
-La chaîne principale de l'enquête est :
-
-Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter
-
-Les fonctions transversales sont : Temporaliser, Expliquer, Auditer, Réfléchir et Éprouver.
-
-La quadripartition — Condition, Relation, Fonction, Justification — constitue une matrice d'orientation, non une série d'étapes. La chaîne organise les déplacements de l'enquête ; elle ne fixe pas un ordre ontologique.
-
-## 2. Se repérer dans le projet
-
-- [Introduction générale](introduction-generale.md)
-- [Parcours de lecture](parcours-de-lecture.md)
-- [Onboarding](onboarding.md)
-- [Nom, origine et portée conceptuelle](nom-origine-portee.md)
-- [Lexique Protokin](lexique-protokin.md)
-- [Pourquoi ne pas alourdir l'enquête](pourquoi-ne-pas-alourdir-l-enquete.md)
-- [Perspectives de recherche](perspectives-de-recherche.md)
-
-## 3. Architecture et conduite de l'enquête
-
-### Opérations principales
-
-- [Délimiter](delimier.md)
-- [Ancrer](ancrer.md)
-- [Distinguer](distinguer.md)
-- [Relier](relier.md)
-- [Configurer](configurer.md)
-- [Justifier](justifier.md)
-- [Reconstituer](reconstituer.md)
-- [Redélimiter](redelimiter.md)
-- [La chaîne principale de l'enquête](la-chaine-principale-de-l-enquete.md)
-- [Conduire une enquête](conduire-une-enquete.md)
-- [Genèse fonctionnelle de l'orientation](genese-fonctionnelle-de-l-orientation.md)
-- [Fonctions limites des sections](fonctions-limites-des-sections.md)
-
-### Fonctions transversales et contrôle
-
-- [Temporalité descriptive](temporalite-descriptive.md)
-- [Explication](explication.md)
-- [Réaliser un audit](realiser-un-audit.md)
-- [Réflexivité](reflexivite.md)
-- [Recevabilité](recevabilite.md)
-- [Auto-application](auto-application.md)
-
-## 4. Conditions, relations et configurations
-
-- [Corps, Relation, Fonction, Justification](corps-relation-fonction-justification.md)
-- [Relation et fonction](relation-et-fonction.md)
-- [La relation n'est pas la propriété physique de la chose](la-relarion-n-est-la-propriete-physique-de-la-chose.md)
-- [Butoir](butoir.md)
-- [Condition et ancrage matériel](langage-et-ancrage-materiel-et-espace-des-raisons.md)
-- [Différence rencontrée](difference-rencontree.md)
-- [Configuration rencontrée](configuration-rencontree.md)
-- [Configuration descriptive](configuration-descriptive.md)
-- [Configuration mathématique](configuration-mathematique.md)
-- [Configuration sémiotique](configuration-semiotique.md)
-- [Introduction à la configuration](introduction-configuration.md)
-- [Objet descriptif](objet-descriptif.md)
-- [Référent](referent.md)
-- [Le référent temporel](le-referent-temporel.md)
-- [Niveau descriptif](niveau-descriptif.md)
-- [Position](position.md)
-- [Position épistémique](position-epistemique.md)
-- [Intra-action](intra-action.md)
-- [Chaîne des déterminations](chaine-des-determinations.md)
-- [Capacité relationnelle et configuration mathématique](capacite-relationnelle-et-configuration-mathematique.md)
-
-## 5. Description, catégories et régimes descriptifs
-
-- [Description](description.md)
-- [Description et normativité](description-et-normativite.md)
-- [Fonctions descriptives](fonctions-descriptives.md)
-- [Régime descriptif](regime-descriptif.md)
-- [Écologie des régimes descriptifs](ecologie-des-regimes-descriptifs.md)
-- [Identifier un régime](identifier-un-regime.md)
-- [Taxonomies](taxonomies.md)
-- [Catégories](categories.md)
-- [Qualification](qualification.md)
-- [Prédication](predication.md)
-- [Proposition](proposition.md)
-- [Assertion](assertion.md)
-- [Engagements descriptifs](engagements-descriptifs.md)
-- [Puissance descriptive](puissance-descriptive.md)
-- [Stabilisation](stabilisation.md)
-- [Maintien](maintien.md)
-- [Allure](allure.md)
-- [Compatibilité](compatibilite.md)
-- [Incompatibilité](incompatibilite.md)
-- [Une même configuration des fonctions descriptives non équivalente](une-meme-configuration-des-fonctions-descriptives-non-equivalente.md)
-- [Fonction de stimulus](fonction-de-stimulus.md)
-- [Transformation de fonction de stimulus](transformation-de-fonction-de-stimulus.md)
-- [Variabilité fonctionnelle des énonciations alimentaires](variabilite-fonctionnelle-des-enonciations-alimentaires.md)
-- [Variabilité fonctionnelle des évocations](variabilite-fonctionnelle-des-evocation.md)
-
-## 6. Indices, traces et supports
-
-- [Indice](indice.md)
-- [Indice arbitraire](indice-arbitraire.md)
-- [Indice, arbitraire et ancrage praxique](indice-arbitraire-et-ancrage-praxique.md)
-- [De l'indice à l'arbitraire](de-l-indice-a-l-arbitraire.md)
-- [Dérive indicielle](derive-indicielle.md)
-- [Trace](trace.md)
-- [Support descriptif](support-descriptif.md)
-- [Supports descriptifs externes](supports-descriptifs-externes.md)
-- [Supports descriptifs incorporés](supports-descriptifs-incorpores.md)
-- [Supports descriptifs institutionnels](supports-descriptifs-institutionnels.md)
-- [Baseline](baseline.md)
-- [Butoir](butoir.md)
-
-## 7. Inférence, raisons et justification
-
-- [Inférences](inferences.md)
-- [Inférence matérielle](inference-materielle.md)
-- [Inférence combinatoire](inference-combinatoire.md)
-- [Inférence mutuelle](inference-mutuelle.md)
-- [La portée inférentielle](la-portee-inferentielle.md)
-- [Espace des raisons](espace-des-raisons.md)
-- [Raisons](raisons.md)
-- [Justifications](justifications.md)
-- [Critères](criteres.md)
-- [Norme descriptive](norme-descriptive.md)
-- [Dérivation relationnelle et inférence normative](derivation-relationnelle-et-inference-normative.md)
-- [Scorekeeping déontique](scorekeeping-deontique.md)
-- [Responsabilité descriptive](responsabilite-descriptive.md)
-- [Redevabilité matérielle](redevabilite-materielle.md)
-- [Axiologie immanente](axiologie-immanente.md)
-- [Thèse](these.md)
-- [Expressivisme modal](expressivisme-modal.md)
-- [De la normativité vitale à la normalité réflexive](de-la-normativite-vitale-a-la-normalite-reflexive.md)
-
-## 8. Langage, sens et référence
-
-- [Mot](mot.md)
-- [Anaphore](anaphore.md)
-- [Occurrence](occurence.md)
-- [Triade sémantique de base](triade-semantique-de-base.md)
-- [Relation sémantique et référence](relation-semantique-et-reference.md)
-- [Communauté de locuteurs](communaute-de-locuteurs.md)
-- [Locuteur](locuteur.md)
-- [Auditeur](auditeur.md)
-- [Relation locuteur-auditeur](relation-locuteur-auditeur.md)
-- [Asymétrie entre auto-attribution et attribution par autrui](asymetrie-entre-auto-attribution-et-attribution-par-autrui.md)
-- [Le débordement pragmatique de l'assertion](le-debordement-pragmatique-de-l-assertion.md)
-- [Relations lexicales et pragmatique de l'explicitation](relations-lx-et-pragmatique-de-l-explicitation.md)
-- [Traduction](traduction.md)
-- [Évaluer une traduction](evaluer-une-traduction.md)
-- [Exégèse](exegese.md)
-- [Injustice épistémique](injustice-epistemique.md)
-- [Injustice herméneutique](injustice-hermeneutique.md)
-- [Non-ontologique et altérité](non-ontologique-et-alterite.md)
-- [Image manifeste](image-manifeste.md)
-- [Image scientifique](image-scientifique.md)
-
-## 9. Conditions corporelles, vivant et pratiques
-
-- [Amnésie somatique](amnesie-somatique.md)
-- [Attention organique](attention-organique.md)
-- [Appétit et aversion](appetit-et-aversion.md)
-- [Sensibilité corporelle aux abstractions](sensibilite-corporelle-aux-abstractions.md)
-- [Sens, corps, différence et signe](sens-corps-difference-au-signe.md)
-- [Sentience](sentience.md)
-- [Soi](soi.md)
-- [Moi](moi.md)
-- [Niche biologique](niche-biologique.md)
-- [Pratique collective](pratique-collective.md)
-- [Transduction sélective et ancrage somatique](transduction-selective-et-ancrage-somatique.md)
-- [Capacité, performance et validité](capacite_performance_validite.md)
-- [Reconstruction récollective et pardon](reconstruction-recollective-et-pardon.md)
-- [Tenir et troubler](tenir-et-troubler.md)
-- [Les digues symboliques](les-digues-symboliques.md)
-
-## 10. Transformation, temporalité et histoire
-
-- [Transformation](transformation.md)
-- [Transformation relationnelle RFT](transformation-relationnelle-rft.md)
-- [Transduction relationnelle RFT](transduction-relationnelle-rft.md)
-- [Opérateurs de reconfiguration relationnelle](operateurs-de-reconfiguration-relationnelle.md)
-- [Identité et reconfigurabilité](identite-et-reconfiguralite.md)
-- [Transition](transition.md)
-- [Trajectoire](trajectoire.md)
-- [Temps](temps.md)
-- [Temps : Einstein et Bergson](temps-einstein-bergson.md)
-- [Historicité](historicite.md)
-- [Anachronisme](anachronisme.md)
-- [Sédimentation](sedimentation.md)
-- [Désédimentation](desedimentation.md)
-- [Réorganisation](reorganisation.md)
-- [Reproduction](reproduction.md)
-- [Effet cliquet](effet-cliquet.md)
-- [Innovation](innovation.md)
-- [Limite interne](limite-interne.md)
-- [Tension](tension.md)
-- [Dérive indicielle](derive-indicielle.md)
-
-## 11. Problèmes, confusions et instruments d'épreuve
-
-- [Articulation et conversion](articulation-vs-conversion.md)
-- [Diagnostiquer une confusion de niveau](diagnostiquer-une-confusion-de-niveau.md)
-- [Diagnostiquer une erreur de catégorie](diagnostiquer-une-erreur-de-categorie.md)
-- [Diagnostiquer une réduction](diagnostiquer-une-reduction.md)
-- [Comparer deux descriptions](comparer-deux-descriptions.md)
-- [Controverse](controverse.md)
-- [Auto-application](auto-application.md)
-- [Recevabilité](recevabilite.md)
-- [Au-delà du trilemme d'Agrippa](au-dela-du-trilemme-d-agrippa.md)
-- [Limites de Protokin](limites-de-protokin.md)
-- [Pourquoi ne pas alourdir l'enquête](pourquoi-ne-pas-alourdir-l-enquete.md)
-
-## 12. Cas et analyses situées
-
-- [Le botaniste et le bûcheron](botaniste-bucheron.md)
-- [Cette personne est mauvaise](cette-personne-est-mauvaise.md)
-- [Changement climatique](changement-climatique.md)
-- [Géocentrisme](geocentrisme.md)
-- [Phlogistique](phlogistique.md)
-- [Urgence hospitalière](urgence-hospitaliere.md)
-- [Je me sens femme](je-me-sens-femme.md)
-- [Stoïcisme](stoïcisme.md)
-- [Théorie des humeurs](theorie-des-humeurs.md)
-- [Anti-naturalisme allemand](../divers/anti-naturalisme-allemand.md)
-
-## 13. Auteurs, filiations et discussions
-
-- [John Dewey](john-dewey.md)
-- [Peirce](pierce.md)
-- [Ludwig Wittgenstein](ludwig-wittgenstein.md)
-- [Wilfrid Sellars](wilfrid-sellars.md)
-- [Robert Brandom](robert-brandom.md)
-- [Joseph Rouse](joseph-rouse.md)
-- [Richard Rorty](richard-rorty.md)
-- [Rorty et Protokin](rorty_et_protokin.md)
-- [Saul Kripke](saul-kripke.md)
-- [Ian Hacking](ian-hacking.md)
-- [Gilbert Simondon](gilbert-simondon.md)
-- [Merleau-Ponty](merleau-ponty.md)
-- [Francisco Varela](francisco-varela.md)
-- [Miranda Fricker](miranda-fricker.md)
-- [Hume et identité](hume-identite.md)
-- [Wittgenstein : formes de vie et langage](wittgenstein-formes-de-vie-langage.md)
-- [Skinner : comportement verbal et non-conversion](skinner-comportement-verbal-et-non-conversion.md)
-- [Isme versus isme](isme-versus-isme.md)
-- [De la notion au concept](de-la-notion-au-concept.md)
-- [De la notion au concept opératoire](de-la-notion-au-concept-operatoire.md)
-
-## 14. Corpus intégral — index alphabétique
-
-L'index ci-dessous complète les parcours thématiques. Il permet de retrouver les documents dont le classement thématique est incertain ou qui relèvent de plusieurs ensembles.
-
-- [Allure](allure.md)
-- [Amnésie somatique](amnesie-somatique.md)
-- [Anachronisme](anachronisme.md)
-- [Analytique empirique](analytique_empirique.md)
-- [Anaphore](anaphore.md)
-- [Ancrer](ancrer.md)
-- [Appétit et aversion](appetit-et-aversion.md)
-- [Architecture fonctionnelle de l'enquête](architecture-fonctionnelle-de-l-enquete.md)
-- [Architecture système](architecture-systeme.md)
-- [Articulation vs conversion](articulation-vs-conversion.md)
-- [Assertion](assertion.md)
-- [Asymétrie entre auto-attribution et attribution par autrui](asymetrie-entre-auto-attribution-et-attribution-par-autrui.md)
-- [Attention organique](attention-organique.md)
-- [Au-delà du trilemme d'Agrippa](au-dela-du-trilemme-d-agrippa.md)
-- [Auditeur](auditeur.md)
-- [Auto-application](auto-application.md)
-- [Avatar](avatar.md)
-- [Axiologie immanente](axiologie-immanente.md)
-- [Baseline](baseline.md)
-- [Butoir](butoir.md)
-- [Capacité relationnelle et configuration mathématique](capacite-relationnelle-et-configuration-mathematique.md)
-- [Capacité, performance et validité](capacite_performance_validite.md)
-- [Catégories](categories.md)
-- [Causes](causes.md)
-- [Ce que Protokin ne prétend pas faire](ce-que-protokin-ne-pretend-pas-faire.md)
-- [Ce que Protokin permet](ce-que-protokin-permet.md)
-- [Cette personne est mauvaise](cette-personne-est-mauvaise.md)
-- [Chaîne des déterminations](chaine-des-determinations.md)
-- [Changement climatique](changement-climatique.md)
-- [Communauté de locuteurs](communaute-de-locuteurs.md)
-- [Comparer deux descriptions](comparer-deux-descriptions.md)
-- [Compatibilité](compatibilite.md)
-- [Conduire une enquête](conduire-une-enquete.md)
-- [Configuration descriptive](configuration-descriptive.md)
-- [Configuration mathématique](configuration-mathematique.md)
-- [Configuration rencontrée](configuration-rencontree.md)
-- [Configuration sémiotique](configuration-semiotique.md)
-- [Configurer](configurer.md)
-- [Controverse](controverse.md)
-- [Corps, relation, fonction, justification](corps-relation-fonction-justification.md)
-- [Critères](criteres.md)
-- [De l'indice à l'arbitraire](de-l-indice-a-l-arbitraire.md)
-- [De la notion au concept](de-la-notion-au-concept.md)
-- [De la notion au concept opératoire](de-la-notion-au-concept-operatoire.md)
-- [De la normativité vitale à la normalité réflexive](de-la-normativite-vitale-a-la-normalite-reflexive.md)
-- [Dérivation relationnelle et inférence normative](derivation-relationnelle-et-inference-normative.md)
-- [Dérive indicielle](derive-indicielle.md)
-- [Description](description.md)
-- [Description et normativité](description-et-normativite.md)
-- [Désédimentation](desedimentation.md)
-- [Diagnostiquer une confusion de niveau](diagnostiquer-une-confusion-de-niveau.md)
-- [Diagnostiquer une erreur de catégorie](diagnostiquer-une-erreur-de-categorie.md)
-- [Diagnostiquer une réduction](diagnostiquer-une-reduction.md)
-- [Différence rencontrée](difference-rencontree.md)
-- [Distinguer](distinguer.md)
-- [Écologie des régimes descriptifs](ecologie-des-regimes-descriptifs.md)
-- [Effet cliquet](effet-cliquet.md)
-- [Engagements descriptifs](engagements-descriptifs.md)
-- [Enquête](enquete.md)
-- [Espace des raisons](espace-des-raisons.md)
-- [Évaluer une traduction](evaluer-une-traduction.md)
-- [Exégèse](exegese.md)
-- [Explication](explication.md)
-- [Expressivisme modal](expressivisme-modal.md)
-- [Fonction de stimulus](fonction-de-stimulus.md)
-- [Fonctions descriptives](fonctions-descriptives.md)
-- [Fonctions limites des sections](fonctions-limites-des-sections.md)
-- [Francisco Varela](francisco-varela.md)
-- [Genèse fonctionnelle de l'orientation](genese-fonctionnelle-de-l-orientation.md)
-- [Géocentrisme](geocentrisme.md)
-- [Gilbert Simondon](gilbert-simondon.md)
-- [Historicité](historicite.md)
-- [Hume et identité](hume-identite.md)
-- [Ian Hacking](ian-hacking.md)
-- [Identifier un régime](identifier-un-regime.md)
-- [Identité et reconfigurabilité](identite-et-reconfiguralite.md)
-- [Image manifeste](image-manifeste.md)
-- [Image scientifique](image-scientifique.md)
-- [Incompatibilité](incompatibilite.md)
-- [Indice](indice.md)
-- [Indice arbitraire](indice-arbitraire.md)
-- [Indice, arbitraire et ancrage praxique](indice-arbitraire-et-ancrage-praxique.md)
-- [Inférence combinatoire](inference-combinatoire.md)
-- [Inférence matérielle](inference-materielle.md)
-- [Inférence mutuelle](inference-mutuelle.md)
-- [Inférences](inferences.md)
-- [Injustice épistémique](injustice-epistemique.md)
-- [Injustice herméneutique](injustice-hermeneutique.md)
-- [Innovation](innovation.md)
-- [Intelligence artificielle](intelligence-artificielle.md)
-- [Intra-action](intra-action.md)
-- [Introduction à la configuration](introduction-configuration.md)
-- [Introduction générale](introduction-generale.md)
-- [Je me sens femme](je-me-sens-femme.md)
-- [John Dewey](john-dewey.md)
-- [Joseph Rouse](joseph-rouse.md)
-- [Justifications](justifications.md)
-- [Justifier](justifier.md)
-- [La chaîne principale de l'enquête](la-chaine-principale-de-l-enquete.md)
-- [La portée inférentielle](la-portee-inferentielle.md)
-- [La relation n'est pas la propriété physique de la chose](la-relarion-n-est-la-propriete-physique-de-la-chose.md)
-- [Le débordement pragmatique de l'assertion](le-debordement-pragmatique-de-l-assertion.md)
-- [Le référent temporel](le-referent-temporel.md)
-- [Le stimulus physique](le-stimulus-physique.md)
-- [Les digues symboliques](les-digues-symboliques.md)
-- [Les principes](les-principes.md)
-- [Lexique Protokin](lexique-protokin.md)
-- [Limite interne](limite-interne.md)
-- [Limites de Protokin](limites-de-protokin.md)
-- [Locuteur](locuteur.md)
-- [Ludwig Wittgenstein](ludwig-wittgenstein.md)
-- [Maintien](maintien.md)
-- [Merleau-Ponty](merleau-ponty.md)
-- [Miranda Fricker](miranda-fricker.md)
-- [Moi](moi.md)
-- [Mot](mot.md)
-- [Niche biologique](niche-biologique.md)
-- [Niveau descriptif](niveau-descriptif.md)
-- [Nom, origine et portée conceptuelle](nom-origine-portee.md)
-- [Non-ontologique et altérité](non-ontologique-et-alterite.md)
-- [Norme descriptive](norme-descriptive.md)
-- [Objet descriptif](objet-descriptif.md)
-- [Occurrence](occurence.md)
-- [Onboarding](onboarding.md)
-- [Opérateurs de reconfiguration relationnelle](operateurs-de-reconfiguration-relationnelle.md)
-- [Parcours de lecture](parcours-de-lecture.md)
-- [Perspectives de recherche](perspectives-de-recherche.md)
-- [Phlogistique](phlogistique.md)
-- [Peirce](pierce.md)
-- [Position](position.md)
-- [Position épistémique](position-epistemique.md)
-- [Pourquoi ne pas alourdir l'enquête](pourquoi-ne-pas-alourdir-l-enquete.md)
-- [Pratique collective](pratique-collective.md)
-- [Prédication](predication.md)
-- [Proposition](proposition.md)
-- [Protokin en une phrase](protokin-en-une-phrase.md)
-- [Puissance descriptive](puissance-descriptive.md)
-- [Quadripartition de l'orientation](quadripartition-de-l-orientation.md)
-- [Qualification](qualification.md)
-- [Raisons](raisons.md)
-- [RDRD et entrée perceptive](rdrd-et-entree-perceptive.md)
-- [Réaliser un audit](realiser-un-audit.md)
-- [Recevabilité](recevabilite.md)
-- [Reconstituer](reconstituer.md)
-- [Reconstruction récollective et pardon](reconstruction-recollective-et-pardon.md)
-- [Redélimiter](redelimiter.md)
-- [Redevabilité matérielle](redevabilite-materielle.md)
-- [Référent](referent.md)
-- [Réflexivité](reflexivite.md)
-- [Régime descriptif](regime-descriptif.md)
-- [Relation et fonction](relation-et-fonction.md)
-- [Relation locuteur-auditeur](relation-locuteur-auditeur.md)
-- [Relation sémantique et référence](relation-semantique-et-reference.md)
-- [Relations lexicales et pragmatique de l'explicitation](relations-lx-et-pragmatique-de-l-explicitation.md)
-- [Relier](relier.md)
-- [Réorganisation](reorganisation.md)
-- [Reproduction](reproduction.md)
-- [Responsabilité descriptive](responsabilite-descriptive.md)
-- [Richard Rorty](richard-rorty.md)
-- [Robert Brandom](robert-brandom.md)
-- [Rorty et Protokin](rorty_et_protokin.md)
-- [Saul Kripke](saul-kripke.md)
-- [Scorekeeping déontique](scorekeeping-deontique.md)
-- [Sédimentation](sedimentation.md)
-- [Sens, corps, différence et signe](sens-corps-difference-au-signe.md)
-- [Sensibilité corporelle aux abstractions](sensibilite-corporelle-aux-abstractions.md)
-- [Sentience](sentience.md)
-- [Skinner : comportement verbal et non-conversion](skinner-comportement-verbal-et-non-conversion.md)
-- [Soi](soi.md)
-- [Stabilisation](stabilisation.md)
-- [Statut du projet](statut-du-projet.md)
-- [Stoïcisme](stoïcisme.md)
-- [Substituer](subtistuer.md)
-- [Support descriptif](support-descriptif.md)
-- [Supports descriptifs externes](supports-descriptifs-externes.md)
-- [Supports descriptifs incorporés](supports-descriptifs-incorpores.md)
-- [Supports descriptifs institutionnels](supports-descriptifs-institutionnels.md)
-- [Table des matières](table-des-matieres.md)
-- [Taxonomies](taxonomies.md)
-- [Temps](temps.md)
-- [Temps : Einstein et Bergson](temps-einstein-bergson.md)
-- [Temporalité descriptive](temporalite-descriptive.md)
-- [Tenir et troubler](tenir-et-troubler.md)
-- [Tension](tension.md)
-- [Théorie des humeurs](theorie-des-humeurs.md)
-- [Thèse](these.md)
-- [Trace](trace.md)
-- [Traduction](traduction.md)
-- [Trajectoire](trajectoire.md)
-- [Transduction relationnelle RFT](transduction-relationnelle-rft.md)
-- [Transduction sélective et ancrage somatique](transduction-selective-et-ancrage-somatique.md)
-- [Transformation](transformation.md)
-- [Transformation de fonction de stimulus](transformation-de-fonction-de-stimulus.md)
-- [Transformation relationnelle RFT](transformation-relationnelle-rft.md)
-- [Transition](transition.md)
-- [Triade sémantique de base](triade-semantique-de-base.md)
-- [Une même configuration des fonctions descriptives non équivalente](une-meme-configuration-des-fonctions-descriptives-non-equivalente.md)
-- [Urgence hospitalière](urgence-hospitaliere.md)
-- [Valence](valence.md)
-- [Validité](validite.md)
-- [Viabilité transductive](viabilite-transductive.md)
-- [Wilfrid Sellars](wilfrid-sellars.md)
-- [Wittgenstein : formes de vie et langage](wittgenstein-formes-de-vie-langage.md)
-
-## 15. Règle de lecture
-
-Les pages de référence exposent l'architecture et les règles de contrôle. Les pages thématiques développent une notion, une distinction ou un problème. Les cas mettent ces ressources à l'épreuve.
-
-Une page peut relever de plusieurs ensembles ; son classement ici sert à orienter la lecture, pas à fixer définitivement sa fonction.
-
-La table des matières cartographie le corpus ; elle ne garantit pas à elle seule la cohérence de chaque page.
+Table des matières — Protokin
 
----
+Cette table des matières présente les principales entrées du corpus et la fonction qu’elles remplissent dans l’enquête. Elle privilégie les pages de référence et quelques pages représentatives plutôt qu’un inventaire exhaustif.
 
-Pour plus de contexte, voir [Architecture du projet](architecture-projet.md) et [Architecture fonctionnelle de l'enquête](architecture-fonctionnelle-de-l-enquete.md).
+Elle sert à orienter la lecture : le classement des pages ne constitue ni une hiérarchie théorique définitive ni une architecture supplémentaire. Une page peut contribuer à plusieurs problèmes sans que ses fonctions soient interchangeables.
 
+1. Entrer dans Protokin
 
+Ces pages présentent le problème de départ, le statut du projet et ses principaux repères.
 
+- "README — Présentation générale" (../README.md)
+- "Introduction générale" (introduction-generale.md) — Pourquoi enquêter sur les pratiques descriptives lorsque les ressources disponibles ne suffisent plus ?
+- "Architecture du projet" (architecture-projet.md) — Comment organiser le corpus sans confondre les fonctions de ses ressources ?
+- "Architecture fonctionnelle de l’enquête" (architecture-fonctionnelle-de-l-enquete.md) — Quelles opérations permettent d’examiner et de reprendre un problème descriptif ?
+- "Quadripartition de l’orientation" (quadripartition-de-l-orientation.md) — Quelles dimensions faut-il distinguer pour orienter l’examen ?
+- "Parcours de lecture" (parcours-de-lecture.md)
+- "Lexique Protokin" (lexique-protokin.md)
 
+2. Organiser et conduire l’enquête
 
+L’enquête part d’une difficulté rencontrée. Les opérations ci-dessous décrivent des fonctions de travail, non les étapes nécessaires d’une constitution du réel. Leur ordre et leur reprise dépendent du problème examiné.
 
+Opérations principales
 
+- "Délimiter" (delimier.md) — Préciser le problème à traiter.
+- "Ancrer" (ancrer.md) — Établir les conditions et les éléments sur lesquels l’examen peut prendre appui.
+- "Distinguer" (distinguer.md) — Séparer les questions, les fonctions ou les termes qu’une confusion rend indiscernables.
+- "Relier" (relier.md) — Examiner les dépendances pertinentes entre les éléments.
+- "Configurer" (configurer.md) — Organiser les éléments retenus pour rendre le problème examinable.
+- "Justifier" (justifier.md) — Examiner les raisons et les critères qui soutiennent ou contestent une conclusion.
+- "Reconstituer" (reconstituer.md) — Reprendre les relations et les transformations qui éclairent le problème.
+- "Redélimiter" (redelimiter.md) — Réviser la délimitation lorsque l’examen fait apparaître de nouvelles difficultés.
+- "La chaîne principale de l’enquête" (la-chaine-principale-de-l-enquete.md)
+- "Conduire une enquête" (conduire-une-enquete.md)
 
+Fonctions transversales
 
+- "Temporalité descriptive" (temporalite-descriptive.md)
+- "Réaliser un audit" (realiser-un-audit.md)
+- "Réflexivité" (reflexivite.md)
+- "Comparer deux descriptions" (comparer-deux-descriptions.md)
+- "Auto-application" (auto-application.md)
 
+La chaîne principale et les fonctions transversales se complètent : la première organise les opérations de l’enquête ; les secondes permettent notamment d’en examiner les conditions, les résultats et les limites.
 
+3. Orienter l’examen : Condition, Relation, Fonction, Justification
 
+La quadripartition distingue quatre orientations fonctionnelles. Elle ne décrit ni quatre composantes universelles du réel ni quatre phases successives.
 
+- Condition — Dans quelles conditions la situation et la pratique se déroulent-elles ?
+- Relation — Quelles dépendances et quelles mises en rapport sont pertinentes ?
+- Fonction — Que fait une configuration ou une description dans la pratique considérée ?
+- Justification — Selon quels critères une description ou une conclusion peut-elle être défendue, contestée ou révisée ?
 
+Pages pour approfondir :
 
+- "Quadripartition de l’orientation" (quadripartition-de-l-orientation.md)
+- "Relation et fonction" (relation-et-fonction.md)
+- "Butoir" (butoir.md)
+- "Condition et ancrage matériel" (langage-et-ancrage-materiel-et-espace-des-raisons.md)
+- "Articulation et conversion" (articulation-vs-conversion.md)
 
+Principe de contrôle : continuité des dépendances, discontinuité des fonctions, non-conversion. Une condition ne vaut pas à elle seule comme critère ; une cause ne constitue pas nécessairement une raison ; une fonction ne suffit pas à établir une justification.
 
+4. Décrire, identifier et stabiliser
 
+Ces pages examinent ce qui est décrit, les différences retenues et les conditions dans lesquelles une description peut être maintenue ou révisée.
 
+- "Description" (description.md)
+- "Régime descriptif" (regime-descriptif.md)
+- "Écologie des régimes descriptifs" (ecologie-des-regimes-descriptifs.md)
+- "Identifier un régime" (identifier-un-regime.md)
+- "Différence rencontrée" (difference-rencontree.md)
+- "Configuration rencontrée" (configuration-rencontree.md)
+- "Configuration descriptive" (configuration-descriptive.md)
+- "Objet descriptif" (objet-descriptif.md)
+- "Référent" (referent.md)
+- "Stabilisation" (stabilisation.md)
+- "Trace" (trace.md)
+- "Support descriptif" (support-descriptif.md)
 
+Ces notions ne désignent pas des étapes qui se convertiraient automatiquement les unes dans les autres. La description d’une configuration ne suffit pas à établir qu’elle constitue la configuration décrite.
 
+5. Langage, assertion et portée inférentielle
 
+Ces pages permettent d’examiner comment des énoncés prennent place dans des pratiques, quels engagements ils impliquent et quelles conclusions ils autorisent.
 
+- "Prédication" (predication.md)
+- "Proposition" (proposition.md)
+- "Assertion" (assertion.md)
+- "Engagements descriptifs" (engagements-descriptifs.md)
+- "La portée inférentielle" (la-portee-inferentielle.md)
+- "Inférence matérielle" (inference-materielle.md)
+- "Espace des raisons" (espace-des-raisons.md)
+- "Raisons" (raisons.md)
+- "Justifications" (justifications.md)
+- "Critères" (criteres.md)
+- "Relation sémantique et référence" (relation-semantique-et-reference.md)
+- "Le débordement pragmatique de l’assertion" (le-debordement-pragmatique-de-l-assertion.md)
 
+Une assertion peut autoriser des conclusions qui dépassent ce que son locuteur avait anticipé. Il faut distinguer les conclusions autorisées par les engagements, les règles et les prémisses pertinentes, celles qui sont effectivement tirées, et celles qui demandent des éléments supplémentaires.
 
+6. Examiner les difficultés et mettre les descriptions à l’épreuve
 
+Ces pages servent à diagnostiquer les confusions, comparer des descriptions et examiner la portée des conclusions.
 
+- "Diagnostiquer une confusion de niveau" (diagnostiquer-une-confusion-de-niveau.md)
+- "Diagnostiquer une erreur de catégorie" (diagnostiquer-une-erreur-de-categorie.md)
+- "Diagnostiquer une réduction" (diagnostiquer-une-reduction.md)
+- "Comparer deux descriptions" (comparer-deux-descriptions.md)
+- "Évaluer une traduction" (evaluer-une-traduction.md)
+- "Recevabilité" (recevabilite.md)
+- "Limites de Protokin" (limites-de-protokin.md)
 
+Un instrument d’examen ne garantit pas automatiquement la validité de son résultat. Il faut préciser ce qu’il permet d’établir, dans quelles conditions et ce qui demeure indéterminé.
 
+7. Mettre les distinctions à l’épreuve par des cas
 
+Les études de cas confrontent les distinctions et les opérations à des situations particulières. Elles ne sont pas de simples illustrations : elles peuvent faire apparaître les limites d’une formulation ou la nécessité de réviser une distinction.
 
+- "Le botaniste et le bûcheron" (botaniste-bucheron.md)
+- "Cette personne est mauvaise" (cette-personne-est-mauvaise.md)
+- "Changement climatique" (changement-climatique.md)
+- "Géocentrisme" (geocentrisme.md)
+- "Phlogistique" (phlogistique.md)
+- "Urgence hospitalière" (urgence-hospitaliere.md)
 
+8. Repères éditoriaux
 
+- "Patterns éditoriaux de Protokin" (../patterns.md) — Principes de rédaction, fonctions des types de pages et points de vigilance pour maintenir la cohérence du corpus.
 
+Les pages de référence cadrent le projet ; les pages consacrées aux opérations décrivent des fonctions de l’enquête ; les pages notionnelles précisent des distinctions ; les instruments organisent des examens ; les cas mettent les propositions à l’épreuve.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-n
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Cette table des matières sélectionne des entrées pour faciliter la lecture. Elle ne prétend pas recenser tous les fichiers du dépôt ni garantir, à elle seule, la cohérence de chaque page.
