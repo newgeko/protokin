@@ -1,134 +1,190 @@
-Table des matières — Protokin
+Table des matières — Architecture Protokin
 
-Cette table des matières présente les principales entrées du corpus et la fonction qu’elles remplissent dans l’enquête. Elle privilégie les pages de référence et quelques pages représentatives plutôt qu’un inventaire exhaustif.
+Cette table des matières organise les principales ressources de Protokin selon leur fonction dans l’enquête. Elle privilégie les pages de référence et les distinctions nécessaires à la compréhension du projet, sans chercher à recenser l’ensemble du dépôt.
 
-Elle sert à orienter la lecture : le classement des pages ne constitue ni une hiérarchie théorique définitive ni une architecture supplémentaire. Une page peut contribuer à plusieurs problèmes sans que ses fonctions soient interchangeables.
+Le classement proposé est documentaire. Il ne constitue ni une hiérarchie ontologique ni une succession nécessaire d’opérations. Les pages sont regroupées selon les problèmes qu’elles permettent de traiter, les distinctions qu’elles précisent et les fonctions qu’elles remplissent.
 
-1. Entrer dans Protokin
+---
 
-Ces pages présentent le problème de départ, le statut du projet et ses principaux repères.
+I. Cadre de référence et orientation du projet
 
-- "README — Présentation générale" (../README.md)
-- "Introduction générale" (introduction-generale.md) — Pourquoi enquêter sur les pratiques descriptives lorsque les ressources disponibles ne suffisent plus ?
-- "Architecture du projet" (architecture-projet.md) — Comment organiser le corpus sans confondre les fonctions de ses ressources ?
-- "Architecture fonctionnelle de l’enquête" (architecture-fonctionnelle-de-l-enquete.md) — Quelles opérations permettent d’examiner et de reprendre un problème descriptif ?
-- "Quadripartition de l’orientation" (quadripartition-de-l-orientation.md) — Quelles dimensions faut-il distinguer pour orienter l’examen ?
-- "Parcours de lecture" (parcours-de-lecture.md)
-- "Lexique Protokin" (lexique-protokin.md)
+Ces pages précisent le problème auquel répond Protokin, l’organisation du projet et les fonctions respectives de ses principales ressources.
 
-2. Organiser et conduire l’enquête
+- "README — Présentation générale" (../README.md) — Présenter le projet, son orientation et ses limites.
+- "Introduction générale" (introduction-generale.md) — Situer les difficultés rencontrées dans les pratiques descriptives et introduire la nécessité d’une enquête.
+- "Architecture du projet" (architecture-projet.md) — Organiser les ressources du corpus et préciser leurs fonctions.
+- "Architecture fonctionnelle de l’enquête" (architecture-fonctionnelle-de-l-enquete.md) — Décrire les opérations par lesquelles une difficulté descriptive peut être examinée et reprise.
+- "Quadripartition de l’orientation" (quadripartition-de-l-orientation.md) — Distinguer quatre orientations d’examen : Condition, Relation, Fonction et Justification.
+- "Parcours de lecture" (parcours-de-lecture.md) — Proposer des entrées dans le corpus selon les besoins de lecture.
+- "Lexique Protokin" (lexique-protokin.md) — Définir les termes employés et préciser leur fonction dans le projet.
 
-L’enquête part d’une difficulté rencontrée. Les opérations ci-dessous décrivent des fonctions de travail, non les étapes nécessaires d’une constitution du réel. Leur ordre et leur reprise dépendent du problème examiné.
+La quadripartition constitue un cadre minimal d’orientation et d’audit. Elle ne décrit ni quatre composantes universelles du réel ni quatre phases successives de sa constitution.
 
-Opérations principales
+L’architecture du projet organise les ressources ; l’architecture fonctionnelle décrit les opérations de l’enquête ; la quadripartition distingue les orientations selon lesquelles une configuration peut être examinée. Ces fonctions sont articulées, mais ne sont pas interchangeables.
 
-- "Délimiter" (delimier.md) — Préciser le problème à traiter.
-- "Ancrer" (ancrer.md) — Établir les conditions et les éléments sur lesquels l’examen peut prendre appui.
-- "Distinguer" (distinguer.md) — Séparer les questions, les fonctions ou les termes qu’une confusion rend indiscernables.
-- "Relier" (relier.md) — Examiner les dépendances pertinentes entre les éléments.
-- "Configurer" (configurer.md) — Organiser les éléments retenus pour rendre le problème examinable.
-- "Justifier" (justifier.md) — Examiner les raisons et les critères qui soutiennent ou contestent une conclusion.
-- "Reconstituer" (reconstituer.md) — Reprendre les relations et les transformations qui éclairent le problème.
-- "Redélimiter" (redelimiter.md) — Réviser la délimitation lorsque l’examen fait apparaître de nouvelles difficultés.
-- "La chaîne principale de l’enquête" (la-chaine-principale-de-l-enquete.md)
-- "Conduire une enquête" (conduire-une-enquete.md)
+---
 
-Fonctions transversales
+II. Opérations principales de l’enquête
 
-- "Temporalité descriptive" (temporalite-descriptive.md)
-- "Réaliser un audit" (realiser-un-audit.md)
-- "Réflexivité" (reflexivite.md)
-- "Comparer deux descriptions" (comparer-deux-descriptions.md)
-- "Auto-application" (auto-application.md)
+L’enquête prend appui sur un problème rencontré dans une pratique descriptive : distinction insuffisante, catégorie instable, descriptions incompatibles, justification contestée ou confusion entre plusieurs registres.
 
-La chaîne principale et les fonctions transversales se complètent : la première organise les opérations de l’enquête ; les secondes permettent notamment d’en examiner les conditions, les résultats et les limites.
+Les opérations suivantes permettent de travailler ces difficultés. Elles forment une chaîne de référence, non un protocole linéaire dont chaque opération devrait être achevée avant la suivante.
 
-3. Orienter l’examen : Condition, Relation, Fonction, Justification
+Délimiter et ancrer le problème
 
-La quadripartition distingue quatre orientations fonctionnelles. Elle ne décrit ni quatre composantes universelles du réel ni quatre phases successives.
+- "Délimiter" (delimier.md) — Préciser la difficulté à examiner et déterminer ce qui est en question.
+- "Ancrer" (ancrer.md) — Identifier les conditions matérielles, corporelles, techniques et environnementales pertinentes.
 
-- Condition — Dans quelles conditions la situation et la pratique se déroulent-elles ?
-- Relation — Quelles dépendances et quelles mises en rapport sont pertinentes ?
-- Fonction — Que fait une configuration ou une description dans la pratique considérée ?
-- Justification — Selon quels critères une description ou une conclusion peut-elle être défendue, contestée ou révisée ?
+Distinguer et relier
 
-Pages pour approfondir :
+- "Distinguer" (distinguer.md) — Séparer les registres, les fonctions et les critères que la difficulté tend à confondre.
+- "Relier" (relier.md) — Examiner les dépendances, les contrastes et les relations pertinentes entre les éléments retenus.
 
-- "Quadripartition de l’orientation" (quadripartition-de-l-orientation.md)
-- "Relation et fonction" (relation-et-fonction.md)
-- "Butoir" (butoir.md)
-- "Condition et ancrage matériel" (langage-et-ancrage-materiel-et-espace-des-raisons.md)
-- "Articulation et conversion" (articulation-vs-conversion.md)
+Configurer et justifier
 
-Principe de contrôle : continuité des dépendances, discontinuité des fonctions, non-conversion. Une condition ne vaut pas à elle seule comme critère ; une cause ne constitue pas nécessairement une raison ; une fonction ne suffit pas à établir une justification.
+- "Configurer" (configurer.md) — Organiser les éléments de l’analyse en une configuration susceptible d’être examinée.
+- "Justifier" (justifier.md) — Évaluer les raisons, les critères, les engagements et les incompatibilités qui affectent une conclusion.
 
-4. Décrire, identifier et stabiliser
+Reconstituer et redélimiter
 
-Ces pages examinent ce qui est décrit, les différences retenues et les conditions dans lesquelles une description peut être maintenue ou révisée.
+- "Reconstituer" (reconstituer.md) — Reprendre les relations et les transformations pertinentes à la lumière des résultats de l’enquête.
+- "Redélimiter" (redelimiter.md) — Réviser le périmètre du problème lorsque l’examen fait apparaître de nouvelles difficultés.
 
-- "Description" (description.md)
-- "Régime descriptif" (regime-descriptif.md)
-- "Écologie des régimes descriptifs" (ecologie-des-regimes-descriptifs.md)
-- "Identifier un régime" (identifier-un-regime.md)
-- "Différence rencontrée" (difference-rencontree.md)
-- "Configuration rencontrée" (configuration-rencontree.md)
-- "Configuration descriptive" (configuration-descriptive.md)
-- "Objet descriptif" (objet-descriptif.md)
-- "Référent" (referent.md)
-- "Stabilisation" (stabilisation.md)
-- "Trace" (trace.md)
-- "Support descriptif" (support-descriptif.md)
+Ressources de conduite
 
-Ces notions ne désignent pas des étapes qui se convertiraient automatiquement les unes dans les autres. La description d’une configuration ne suffit pas à établir qu’elle constitue la configuration décrite.
+- "La chaîne principale de l’enquête" (la-chaine-principale-de-l-enquete.md) — Présenter l’articulation des opérations.
+- "Conduire une enquête" (conduire-une-enquete.md) — Préciser les modalités de mise en œuvre de la démarche.
 
-5. Langage, assertion et portée inférentielle
+La chaîne organise des déplacements possibles dans l’enquête. Elle n’établit ni une genèse des objets ni une progression obligatoire du matériel vers le sémantique, puis vers le normatif. Les opérations peuvent être reprises, combinées ou suspendues selon le problème examiné.
 
-Ces pages permettent d’examiner comment des énoncés prennent place dans des pratiques, quels engagements ils impliquent et quelles conclusions ils autorisent.
+---
 
-- "Prédication" (predication.md)
-- "Proposition" (proposition.md)
-- "Assertion" (assertion.md)
-- "Engagements descriptifs" (engagements-descriptifs.md)
-- "La portée inférentielle" (la-portee-inferentielle.md)
-- "Inférence matérielle" (inference-materielle.md)
-- "Espace des raisons" (espace-des-raisons.md)
-- "Raisons" (raisons.md)
-- "Justifications" (justifications.md)
-- "Critères" (criteres.md)
-- "Relation sémantique et référence" (relation-semantique-et-reference.md)
-- "Le débordement pragmatique de l’assertion" (le-debordement-pragmatique-de-l-assertion.md)
+III. Fonctions transversales et audit de second ordre
 
-Une assertion peut autoriser des conclusions qui dépassent ce que son locuteur avait anticipé. Il faut distinguer les conclusions autorisées par les engagements, les règles et les prémisses pertinentes, celles qui sont effectivement tirées, et celles qui demandent des éléments supplémentaires.
+Ces fonctions permettent d’examiner l’enquête elle-même, ses conditions d’exercice, ses résultats et les limites des distinctions mobilisées. Elles ne constituent pas des étapes supplémentaires de la chaîne principale.
 
-6. Examiner les difficultés et mettre les descriptions à l’épreuve
+- "Temporalité descriptive" (temporalite-descriptive.md) — Examiner les trajectoires, les durées, les rythmes et les transformations des descriptions.
+- "Réaliser un audit" (realiser-un-audit.md) — Repérer les glissements catégoriels, les réductions et les équivalences insuffisamment justifiées.
+- "Réflexivité" (reflexivite.md) — Examiner les conditions et les limites de l’exercice descriptif, y compris celles du cadre employé.
+- "Comparer deux descriptions" (comparer-deux-descriptions.md) — Mettre en regard les engagements, les critères et les conséquences de descriptions distinctes.
+- "Auto-application" (auto-application.md) — Soumettre les instruments de l’enquête aux exigences qu’ils appliquent aux autres descriptions.
 
-Ces pages servent à diagnostiquer les confusions, comparer des descriptions et examiner la portée des conclusions.
+L’audit ne consiste pas seulement à vérifier la cohérence interne d’un discours. Il examine aussi les conditions dans lesquelles ses distinctions, ses inférences et ses justifications peuvent être maintenues, contestées ou révisées.
 
-- "Diagnostiquer une confusion de niveau" (diagnostiquer-une-confusion-de-niveau.md)
-- "Diagnostiquer une erreur de catégorie" (diagnostiquer-une-erreur-de-categorie.md)
-- "Diagnostiquer une réduction" (diagnostiquer-une-reduction.md)
-- "Comparer deux descriptions" (comparer-deux-descriptions.md)
-- "Évaluer une traduction" (evaluer-une-traduction.md)
-- "Recevabilité" (recevabilite.md)
-- "Limites de Protokin" (limites-de-protokin.md)
+---
 
-Un instrument d’examen ne garantit pas automatiquement la validité de son résultat. Il faut préciser ce qu’il permet d’établir, dans quelles conditions et ce qui demeure indéterminé.
+IV. Pratiques discursives, proposition et inférence
 
-7. Mettre les distinctions à l’épreuve par des cas
+Cette partie examine les engagements et les relations inférentielles qui rendent les descriptions discutables, justifiables et révisables.
 
-Les études de cas confrontent les distinctions et les opérations à des situations particulières. Elles ne sont pas de simples illustrations : elles peuvent faire apparaître les limites d’une formulation ou la nécessité de réviser une distinction.
+L’analyse distingue le contenu d’un énoncé, l’acte par lequel il est endossé et les conséquences qu’il autorise. Elle ne suppose pas que les conséquences d’une assertion se réduisent à l’intention de son locuteur.
 
-- "Le botaniste et le bûcheron" (botaniste-bucheron.md)
-- "Cette personne est mauvaise" (cette-personne-est-mauvaise.md)
-- "Changement climatique" (changement-climatique.md)
-- "Géocentrisme" (geocentrisme.md)
-- "Phlogistique" (phlogistique.md)
-- "Urgence hospitalière" (urgence-hospitaliere.md)
+A. Proposition, assertion et engagements
 
-8. Repères éditoriaux
+- "Proposition" (proposition.md) — Examiner les contenus susceptibles d’être évalués et mobilisés comme prémisses ou conclusions.
+- "Assertion" (assertion.md) — Examiner l’acte d’endossement et la responsabilité discursive qui lui est associée.
+- "Engagements descriptifs" (engagements-descriptifs.md) — Préciser les engagements associés à un énoncé et leurs conséquences dans une pratique.
+- "Le débordement pragmatique de l’assertion" (le-debordement-pragmatique-de-l-assertion.md) — Examiner les conclusions qu’une assertion peut autoriser au-delà de l’intention explicite du locuteur.
 
-- "Patterns éditoriaux de Protokin" (../patterns.md) — Principes de rédaction, fonctions des types de pages et points de vigilance pour maintenir la cohérence du corpus.
+La proposition et l’assertion remplissent des fonctions distinctes. L’une concerne le contenu évaluable ; l’autre, son endossement dans une pratique discursive. Les engagements associés à cet endossement dépendent notamment des règles, des prémisses et des relations inférentielles pertinentes.
 
-Les pages de référence cadrent le projet ; les pages consacrées aux opérations décrivent des fonctions de l’enquête ; les pages notionnelles précisent des distinctions ; les instruments organisent des examens ; les cas mettent les propositions à l’épreuve.
+B. Inférence et espace des raisons
 
-Cette table des matières sélectionne des entrées pour faciliter la lecture. Elle ne prétend pas recenser tous les fichiers du dépôt ni garantir, à elle seule, la cohérence de chaque page.
+- "La portée inférentielle" (la-portee-inferentielle.md) — Examiner les engagements présupposés et les conséquences autorisées par un contenu.
+- "Inférence matérielle" (inference-materielle.md) — Examiner les relations d’autorisation qui dépendent du contenu des énoncés.
+- "Espace des raisons" (espace-des-raisons.md) — Situer les relations entre raisons, conclusions, habilitations et incompatibilités.
+- "Raisons" (raisons.md) — Préciser ce qui peut soutenir, contester ou réviser une conclusion.
+- "Justifications" (justifications.md) — Examiner les conditions dans lesquelles un engagement peut être défendu.
+- "Critères" (criteres.md) — Préciser les normes selon lesquelles une description ou une conclusion est évaluée.
+- "Relation sémantique et référence" (relation-semantique-et-reference.md) — Examiner l’articulation entre contenu, usage et visée référentielle.
+
+Une conclusion autorisée n’est pas nécessairement une conclusion effectivement tirée. De même, la possibilité d’inférer une conclusion ne suffit pas, à elle seule, à établir que les prémisses sont vraies ou que la description est adéquate à ce qu’elle prétend décrire.
+
+C. Inférence, substitution et anaphore
+
+L’analyse discursive requiert également l’examen des relations entre les expressions, des substitutions possibles et des reprises qui assurent la continuité d’un discours.
+
+- "Prédication" (predication.md) — Examiner la fonction d’attribution et les engagements associés à une prédication.
+- "Référent" (referent.md) — Examiner les pratiques d’identification, les jugements d’identité et la visée d’objet.
+- "Objet descriptif" (objet-descriptif.md) — Préciser comment une différence est stabilisée comme identifiable et réutilisable dans une pratique descriptive.
+- "Description" (description.md) — Examiner les descriptions comme des configurations susceptibles d’être discutées et révisées.
+- "Anaphore" (anaphore.md) — Examiner les reprises discursives et les relations de dépendance entre occurrences.
+- "Stabilisation" (stabilisation.md) — Examiner le maintien provisoire d’une distinction dans une pratique.
+
+L’inférence, la substitution et l’anaphore ne constituent pas trois niveaux successifs. Elles désignent des dimensions articulées de l’analyse : les relations entre engagements, les transformations possibles des expressions et les conditions de reprise discursive.
+
+---
+
+V. Conditions, relations, fonctions et régimes descriptifs
+
+Cette partie rassemble les ressources permettant d’examiner une configuration sans confondre ses conditions matérielles, ses relations, ses fonctions pratiques et les justifications mobilisées pour la décrire.
+
+A. Orientations de l’examen
+
+- "Quadripartition de l’orientation" (quadripartition-de-l-orientation.md) — Présenter le cadre d’orientation en quatre dimensions.
+- "Butoir" (butoir.md) — Examiner les contraintes qui limitent certaines descriptions ou inférences.
+- "Articulation et conversion" (articulation-vs-conversion.md) — Distinguer la mise en relation de registres de leur conversion injustifiée.
+
+La quadripartition organise l’examen sans imposer de passage automatique d’une dimension à une autre. Une condition ne vaut pas à elle seule comme critère ; une cause ne constitue pas nécessairement une raison ; une fonction ne suffit pas à établir une justification.
+
+B. Régimes descriptifs et identification
+
+- "Régime descriptif" (regime-descriptif.md) — Examiner les règles et les critères qui organisent une pratique descriptive.
+- "Écologie des régimes descriptifs" (ecologie-des-regimes-descriptifs.md) — Examiner les rapports entre plusieurs régimes descriptifs.
+- "Identifier un régime" (identifier-un-regime.md) — Préciser les indices et les critères mobilisés pour distinguer un régime.
+- "Différence rencontrée" (difference-rencontree.md) — Examiner la différence qui donne lieu à une difficulté descriptive.
+- "Configuration rencontrée" (configuration-rencontree.md) — Décrire la configuration sur laquelle porte l’enquête.
+- "Configuration descriptive" (configuration-descriptive.md) — Examiner l’organisation des éléments retenus dans une description.
+- "Trace" (trace.md) — Examiner les traces mobilisées dans une pratique et les limites de leur interprétation.
+- "Support descriptif" (support-descriptif.md) — Préciser le rôle des supports dans les pratiques descriptives.
+
+Ces ressources n’établissent pas une chaîne de constitution allant de la différence à l’objet, puis à sa description. Elles permettent d’examiner les relations entre une configuration rencontrée, les moyens employés pour la décrire et les critères qui rendent cette description recevable ou contestable.
+
+---
+
+VI. Instruments d’épreuve et diagnostic des difficultés
+
+Les instruments d’épreuve servent à examiner les distinctions, les inférences et les justifications. Leur fonction n’est pas de garantir automatiquement un résultat, mais de rendre certaines difficultés identifiables et discutables.
+
+A. Diagnostiquer les confusions
+
+- "Diagnostiquer une confusion de niveau" (diagnostiquer-une-confusion-de-niveau.md) — Repérer le passage injustifié entre des niveaux ou des fonctions distincts.
+- "Diagnostiquer une erreur de catégorie" (diagnostiquer-une-erreur-de-categorie.md) — Examiner l’attribution d’une propriété ou d’une fonction dans un cadre inadéquat.
+- "Diagnostiquer une réduction" (diagnostiquer-une-reduction.md) — Repérer la réduction d’une fonction ou d’un registre à un autre.
+- "Recevabilité" (recevabilite.md) — Examiner les conditions auxquelles une description ou une conclusion peut être acceptée dans une pratique.
+
+B. Comparer et éprouver
+
+- "Comparer deux descriptions" (comparer-deux-descriptions.md) — Examiner les différences d’engagement, de fonction et de conséquence entre deux descriptions.
+- "Évaluer une traduction" (evaluer-une-traduction.md) — Examiner les transformations produites par le passage d’une description à une autre.
+- "Butoir" (butoir.md) — Identifier les contraintes qui empêchent certaines interprétations ou certains enchaînements.
+- "Limites de Protokin" (limites-de-protokin.md) — Préciser ce que la démarche permet d’examiner et ce qu’elle ne prétend pas établir.
+
+Une épreuve doit préciser ce qu’elle permet d’établir, les engagements qu’elle met en jeu et les résultats qui demeurent indéterminés. La cohérence d’une description ne suffit pas à établir son adéquation à ce qu’elle prétend décrire.
+
+---
+
+VII. Cas et confrontations
+
+Les cas permettent de confronter les distinctions et les opérations à des situations particulières. Ils ne servent pas uniquement à illustrer une théorie : ils peuvent révéler une ambiguïté, faire apparaître une limite ou conduire à réviser une formulation.
+
+- "Le botaniste et le bûcheron" (botaniste-bucheron.md) — Examiner la coexistence de descriptions différentes d’une même situation.
+- "Cette personne est mauvaise" (cette-personne-est-mauvaise.md) — Examiner les fonctions descriptives et évaluatives d’une attribution.
+- "Changement climatique" (changement-climatique.md) — Confronter les descriptions, les mesures et les critères mobilisés dans un problème complexe.
+- "Géocentrisme" (geocentrisme.md) — Examiner la transformation des descriptions et les critères de leur évaluation.
+- "Phlogistique" (phlogistique.md) — Examiner la révision d’un cadre descriptif et explicatif.
+- "Urgence hospitalière" (urgence-hospitaliere.md) — Examiner les rapports entre contraintes, décisions pratiques et justifications.
+
+La fonction d’un cas dépend du problème qu’il permet de mettre à l’épreuve. Il ne doit pas être traité comme la simple confirmation d’une distinction formulée à l’avance.
+
+---
+
+VIII. Repères éditoriaux et navigation
+
+- "Patterns éditoriaux de Protokin" (../patterns.md) — Définir les fonctions des types de pages, les exigences de rédaction et les points de vigilance pour maintenir la cohérence du corpus.
+- "Parcours de lecture" (parcours-de-lecture.md) — Orienter la consultation selon le problème rencontré.
+- "Lexique Protokin" (lexique-protokin.md) — Retrouver les termes et leurs définitions fonctionnelles.
+
+Les patterns définissent des exigences de composition et de cohérence ; ils ne remplacent pas le travail conceptuel propre à chaque page. Le lexique précise les termes ; les pages de référence cadrent le projet ; les pages d’opération décrivent des fonctions de l’enquête ; les instruments organisent des épreuves ; les cas confrontent les distinctions à des situations particulières.
+
+Cette table des matières est une sélection raisonnée des principales entrées du corpus. Elle n’est ni un inventaire exhaustif ni une garantie de cohérence : celle-ci doit être examinée page par page, en tenant compte de la fonction de chaque ressource et de ses relations avec les autres.
