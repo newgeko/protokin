@@ -1,50 +1,47 @@
 - Protokin
   
-  - Accueil 
-  - Architecture du système
-  - Table des matières
+  - "Accueil" (README.md)
+  - "Introduction générale" (fr/introduction-generale.md)
+  - "Parcours de lecture" (fr/parcours-de-lecture.md)
+  - "Table des matières" (fr/tdm.md)
 
-- 1 — Problème
+- Repères du projet
   
-  - Point de départ
+  - "Architecture du projet" (fr/architecture-projet.md)
+  - "Architecture fonctionnelle de l’enquête" (fr/architecture-fonctionnelle-de-l-enquete.md)
+  - "Quadripartition de l’orientation" (fr/quadripartition-de-l-orientation.md)
+  - "Lexique Protokin" (fr/lexique-protokin.md)
 
-- 2 — Quadripartition
+- Opérations de l’enquête
   
-  - Quadripartition
+  - "Délimiter" (fr/delimiter.md)
+  - "Ancrer" (fr/ancrer.md)
+  - "Distinguer" (fr/distinguer.md)
+  - "Relier" (fr/relier.md)
+  - "Configurer" (fr/configurer.md)
+  - "Justifier" (fr/justifier.md)
+  - "Reconstituer" (fr/reconstituer.md)
+  - "Redélimiter" (fr/redelimiter.md)
+  - "Conduire une enquête" (fr/conduire-une-enquete.md)
 
-- 3 — Mouvement de l’enquête
+- Fonctions transversales
   
-  - Délimiter
-  - Ancrer
-  - Distinguer
-  - Relier
-  - Configurer
-  - Justifier
-  - Reconstituer
-  - Redélimiter
+  - "Temporalité descriptive" (fr/temporalite-descriptive.md)
+  - "Réflexivité" (fr/reflexivite.md)
+  - "Auto-application" (fr/auto-application.md)
 
-- 4 — Fonctions transversales
+- Langage et inférence
   
-  - Temporaliser
-  - Auditer
-  - Réfléchir
-  - Éprouver
+  - "Proposition" (fr/proposition.md)
+  - "Assertion" (fr/assertion.md)
+  - "Inférence matérielle" (fr/inference-materielle.md)
 
-- 5 — Instruments d’épreuve
+- Description et épreuves
   
-  - Substitution
-  - Cas
-  - Comparaison
-  - Reprise
+  - "Description" (fr/description.md)
+  - "Le botaniste et le bûcheron" (fr/botaniste-bucheron.md)
+  - "Toutes les ressources et études de cas" (fr/tdm.md)
 
-- 6 — Reconfiguration
+- Références éditoriales
   
-  - Reconfiguration
-
-- Développements
-  
-  - Registres
-  - Référence
-  - Régimes descriptifs
-  - Transformations
-  - Filiations
+  - "Patterns éditoriaux" (patterns.md)
