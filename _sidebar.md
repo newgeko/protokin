@@ -1,16 +1,16 @@
 - Protokin
   
-  - "Accueil" (README.md)
-  - "Introduction générale" (fr/introduction-generale.md)
-  - "Parcours de lecture" (fr/parcours-de-lecture.md)
-  - "Table des matières" (fr/tdm.md)
+  - [Accueil](README.md)
+  - [Introduction générale](fr/introduction-generale.md)
+  - [Parcours de lecture](fr/parcours-de-lecture.md)
+  - [Table des matières](fr/tdm.md)
 
 - Repères du projet
   
-  - "Architecture du projet" (fr/architecture-projet.md)
-  - "Architecture fonctionnelle de l’enquête" (fr/architecture-fonctionnelle-de-l-enquete.md)
-  - "Quadripartition de l’orientation" (fr/quadripartition-de-l-orientation.md)
-  - "Lexique Protokin" (fr/lexique-protokin.md)
+  - [Architecture du projet](fr/architecture-projet.md)
+  - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
+  - [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
+  - [Lexique Protokin](fr/lexique-protokin.md)
 
 - Opérations de l’enquête
   
