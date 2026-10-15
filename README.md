@@ -1,10 +1,10 @@
-Protokin 🧭
+# Protokin 🧭
 
-«L’Intelligence des Stabilisations
+> «L’Intelligence des Stabilisations
+>
+> Une démarche d’enquête pragmatique, inférentielle, réflexive et non ontologique sur les pratiques descriptives.»
 
-Une démarche d’enquête pragmatique, inférentielle, réflexive et non ontologique sur les pratiques descriptives.»
-
-Présentation
+## Présentation
 
 Nous décrivons des situations, des événements, des organismes, des relations et des pratiques. Nous mobilisons pour cela des distinctions, des catégories, des critères et des descriptions qui nous permettent de les identifier, de les comparer, de les expliquer et d’en discuter.
 
@@ -14,7 +14,7 @@ Protokin part de ces difficultés descriptives. Il propose une démarche d’enq
 
 Protokin enquête sur les conditions, les fonctions et les transformations par lesquelles des pratiques rendent certaines différences descriptibles, discutables, justifiables, stabilisables, contestables et révisables.
 
-Une enquête sur les pratiques descriptives
+## Une enquête sur les pratiques descriptives
 
 Protokin ne propose ni une description ultime du monde ni une ontologie destinée à fixer par avance ce que sont les choses. Son objet n’est pas de remplacer toutes les descriptions existantes par un vocabulaire unique.
 
@@ -29,19 +29,19 @@ Une description peut changer sans que son référent change de la même manière
 
 Il ne suffit donc pas qu’une description soit cohérente pour que son adéquation à ce qu’elle prétend décrire soit établie. Cette adéquation doit être examinée à partir du problème traité, des éléments pertinents et des critères mobilisés.
 
-Un principe de travail
+## Un principe de travail
 
 L’organisation de Protokin repose sur une exigence :
 
-«Continuité des dépendances, discontinuité des fonctions, non-conversion.»
+> «Continuité des dépendances, discontinuité des fonctions, non-conversion.»
 
 Les dimensions d’un problème peuvent dépendre les unes des autres sans remplir la même fonction. Une condition peut contraindre une pratique sans constituer à elle seule un critère de justification. Une cause peut expliquer un événement sans fournir nécessairement une raison de défendre une conclusion. L’utilité d’une description ne suffit pas à établir sa validité.
 
 Il ne s’agit pas d’isoler artificiellement ces dimensions, mais d’examiner leurs relations sans rendre leurs réponses interchangeables.
 
-Distinguer sans isoler. Articuler sans convertir.
+**Distinguer sans isoler. Articuler sans convertir.**
 
-Une démarche révisable
+## Une démarche révisable
 
 Protokin organise l’examen des difficultés descriptives sans présupposer leur solution. Les distinctions, les opérations et les instruments mobilisés restent eux-mêmes soumis à l’épreuve de leurs usages.
 
@@ -51,17 +51,17 @@ Cette révisabilité ne signifie pas que toutes les descriptions se valent. Elle
 
 Protokin est ainsi une démarche d’enquête, non un système fermé ni une procédure garantissant automatiquement la validité de ses résultats.
 
-Repères pour entrer dans le projet
+## Repères pour entrer dans le projet
 
 Les ressources suivantes remplissent des fonctions distinctes :
 
-- "Architecture du projet" (fr/architecture-projet.md) — comprendre l’organisation des ressources du corpus et les règles qui encadrent leurs relations.
-- "Architecture fonctionnelle de l’enquête" (fr/architecture-fonctionnelle-de-l-enquete.md) — découvrir les opérations par lesquelles un problème descriptif est examiné et repris.
-- "Quadripartition de l’orientation" (fr/quadripartition-de-l-orientation.md) — distinguer les quatre orientations de l’examen : Condition, Relation, Fonction et Justification.
-- "Table des matières" (fr/tdm.md) — parcourir les principales ressources et choisir une entrée selon le problème étudié.
+- **«Architecture du projet»** (`fr/architecture-projet.md`) — comprendre l’organisation des ressources du corpus et les règles qui encadrent leurs relations.
+- **«Architecture fonctionnelle de l’enquête»** (`fr/architecture-fonctionnelle-de-l-enquete.md`) — découvrir les opérations par lesquelles un problème descriptif est examiné et repris.
+- **«Quadripartition de l’orientation»** (`fr/quadripartition-de-l-orientation.md`) — distinguer les quatre orientations de l’examen : Condition, Relation, Fonction et Justification.
+- **«Table des matières»** (`fr/tdm.md`) — parcourir les principales ressources et choisir une entrée selon le problème étudié.
 
 Ces pages ne constituent pas une succession obligatoire de lectures. Elles permettent d’aborder le projet par son organisation, par le mouvement de l’enquête ou par les questions qu’une situation exige d’examiner.
 
 ---
 
-Protokin — Enquêter sur les pratiques descriptives, leurs conditions, leurs justifications et leurs transformations.
+**Protokin** — Enquêter sur les pratiques descriptives, leurs conditions, leurs justifications et leurs transformations.
