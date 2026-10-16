@@ -1,114 +1,161 @@
-# L'Assertion : Prise en charge publique et responsabilité normative
+# Assertion — Prise en charge d’un contenu
 
----
+## 1. Fonction
 
-## 1. Définition fonctionnelle et statut dans Protokin
+L’assertion est l’acte par lequel un locuteur avance un contenu dans une pratique discursive et en assume la responsabilité. Elle rend ce contenu disponible à la discussion, à la contestation et, selon les circonstances, à la demande de justification.
 
-Dans l'architecture de **Protokin** et au sein de la philosophie pragmatique du langage (Gottlob Frege, Wilfrid Sellars, Robert Brandom, Michael Dummett), l'**assertion** désigne l'acte discursif pragmatique par lequel un locuteur **prend publiquement en charge une proposition** et modifie son statut déontique dans le jeu social des raisons.
+Cette page précise les engagements associés à l’assertion, les conséquences qu’elle peut autoriser et les limites de ce que l’acte d’affirmer permet d’établir.
 
-Là où la proposition constitue un contenu conceptuel neutralisé (« en bac à sable ») pouvant être simplement pensé, interrogé ou formulé dans une hypothèse sans engagement, l'assertion ajoute la **force pragmatique** (*Kraft*) d'un souscription effective :
-* Le locuteur présente la proposition comme vraie ou recevable dans la situation donnée.
-* Il investit son autorité discursive et s'expose à la critique ou à la demande de justification.
+## 2. Problème
 
----
+Dire « Cet arbre présente un risque pour l’habitation » ne consiste pas seulement à produire une phrase. Dans un contexte où cette phrase est affirmée, le locuteur avance une conclusion dont d’autres peuvent tenir compte, qu’ils peuvent contester ou dont ils peuvent demander les raisons.
 
-## 2. La tripartition fonctionnelle : Prédication, Proposition, Assertion
+Mais plusieurs questions doivent être distinguées :
 
-Pour éviter les confusions catégorielles récurrentes dans l'analyse du langage, Protokin maintient une étanchéité stricte entre trois niveaux d'opérations discursives :
+- Le locuteur affirme-t-il effectivement ce contenu, ou le formule-t-il comme une hypothèse ?
+- Quels engagements assume-t-il en l’affirmant ?
+- Quelles conséquences les autres peuvent-ils raisonnablement en tirer ?
+- Quelles raisons permettent de défendre l’affirmation ?
+- L’affirmation est-elle adéquate à la situation qu’elle décrit ?
 
-```
-[ Prédication ]  --->  Attribution locale (P appliqué à X)
-       │
-       ▼
-[ Proposition ]  --->  Contenu inférentiel neutralisé (pensable / en bac à sable)
-       │
-       ▼
-[  Assertion  ]  --->  Prise en charge publique (engagement & responsabilité)
-```
+Ces questions sont liées sans recevoir la même réponse. Affirmer une proposition ne suffit ni à la rendre vraie ni à la justifier. De même, l’absence de justification immédiate ne signifie pas nécessairement qu’une assertion est dépourvue de toute recevabilité : les conditions d’acceptation et de contestation dépendent de la pratique considérée.
 
-| Dimension | Opération | Rôle fonctionnel | Exemple |
-| :--- | :--- | :--- | :--- |
-| **Prédication** | Attribution localisée | Applique un prédicat $P$ à un sujet ou objet descriptif $X$. | « ... être chaud » appliqué à *ce métal*. |
-| **Proposition** | Organisation du contenu | Structure les dépendances et conséquences inférentielles sans engagement. | « *Si le métal est chaud...* » (Hypothèse) |
-| **Assertion** | Prise en charge pragmatique | Transforme la proposition en coup réel engageant le locuteur. | « *Ce métal est chaud.* » (Affirmation publique) |
+## 3. Définition
 
----
+Dans Protokin, l’**assertion** désigne l’acte discursif par lequel un locuteur avance un contenu comme étant à retenir dans une situation donnée et accepte d’en répondre dans les limites des engagements associés à cet acte.
 
-## 3. La double structure normativo-pragmatique : Autorité et Responsabilité
+L’assertion ne se réduit donc ni à une phrase grammaticalement déclarative ni à l’expression d’un état psychologique privé. Elle intervient dans une pratique où les contenus peuvent être repris, contestés, mis en relation et soumis à examen.
 
-L'assertion effectuée par un locuteur n'est pas un simple événement psychologique privé (exprimer une croyance) ; elle constitue l'institution d'une **relation sociale bicipitale** fondée sur deux piliers indissociables :
+Son caractère engageant ne signifie pas que le locuteur maîtrise toutes les conséquences de ce qu’il affirme. Il signifie que son intervention peut être évaluée au regard des engagements et des règles pertinents, y compris lorsque certaines conséquences ne lui étaient pas explicitement présentes à l’esprit.
 
-### A. La dimension d'Autorité (Habilitation de l'auditoire)
-En effectuant une assertion, le locuteur accorde à ses interlocuteurs une **licence d'inférence** (*inferential license*) :
-* Il autorise l'auditoire à réutiliser la proposition affirmée comme prémisse dans ses propres raisonnements.
-* Il permet aux auditeurs de réaffirmer la proposition en déférant (*deferral*) la responsabilité de sa justification au locuteur initial.
+La nature et l’étendue de ces engagements doivent toutefois être établies dans le contexte concerné. Elles ne se déduisent pas mécaniquement de la seule forme de la phrase.
 
-### B. La dimension de Responsabilité Justificative (*Task-responsibility*)
-En contrepartie de l'autorité revendiquée, le locuteur contracte une **obligation conditionnelle de justification** :
-* Si son droit normatif (*entitlement*) à affirmer la proposition est contesté de manière légitime par d'autres agents, le locuteur est tenu de défendre son assertion en fournissant des raisons.
-* Faute de pouvoir lever la contestation ou de fournir des justifications adéquates, l'autorité de l'assertion est suspendue ou révoquée.
+## 4. Contenu et acte d’assertion
 
-### C. Habilitation par défaut et contestation légitime (*Default & Challenge*)
-Dans le jeu ordinaire des raisons, la plupart des assertions d'observation bénéficient d'une **habilitation par défaut** (*default entitlement*) : elles sont reçues comme légitimes sans justification préalable, jusqu'à ce qu'un interlocuteur apporte une raison d'incompatibilité ou un doute motivé (*legitimate challenge*).
+Considérons la phrase « Cet arbre est incliné ».
 
----
+Elle peut intervenir de plusieurs manières :
 
-## 4. L'asymétrie fondamentale : Acte du locuteur vs Portée inférentielle
+- « Cet arbre est incliné » : le contenu est affirmé dans un contexte approprié.
+- « Cet arbre est-il incliné ? » : le contenu est interrogé.
+- « Supposons que cet arbre soit incliné » : le contenu est envisagé comme hypothèse.
+- « Il prétend que cet arbre est incliné » : l’affirmation est rapportée, sans être nécessairement reprise à son compte.
 
-Protokin souligne une asymétrie cruciale entre le geste du locuteur et les conséquences de son acte :
+La forme linguistique contribue à identifier ce qui est exprimé, mais elle ne suffit pas toujours à déterminer la force de l’intervention. Le contexte, l’usage et la place de l’énoncé dans l’échange sont également pertinents.
 
-1. **Ce qui dépend du locuteur (La décision d'engager)** :
-   Le locuteur est entièrement libre d'effectuer ou non l'assertion, d'appliquer tel concept ou de jouer ce coup sur l'échiquier discursif.
-2. **Ce qui échappe au locuteur (La portée inférentielle objective)** :
-   Une fois l'assertion produite, le contenu de l'engagement échappe au vouloir du locuteur. En affirmant par exemple qu'un échantillon est du « *cuivre* », le locuteur s'engage vers toutes les conséquences inférentielles et incompatibilités matérielles associées objectivement au concept de cuivre (son point de fusion, sa conductivité, etc.), que le locuteur les connaisse ou non.
+Il faut donc distinguer :
 
-### Conséquence pour l'ascription : *De Dicto* vs *De Re*
-Dans la pratique de tenue des comptes déontiques (*deontic scorekeeping* - Brandom), cette asymétrie se traduit par deux manières de rapporter une assertion :
-* **Ascription *De Dicto*** : Rapporter l'assertion dans les termes mêmes utilisés par le locuteur (ex. « *A affirme que la pierre est du métal lourd* »).
-* **Ascription *De Re*** : Rapporter l'engagement en substituant des termes équivalents selon les connaissances de l'auditeur, pour préciser ce sur quoi porte réellement l'assertion (ex. « *A affirme au sujet du plomb que c'est un métal lourd* »).
+- **le contenu propositionnel**, susceptible d’être examiné indépendamment de son affirmation effective ;
+- **l’assertion**, qui consiste à avancer ce contenu dans une pratique discursive ;
+- **la justification**, qui concerne les raisons permettant de défendre ou de contester ce qui est affirmé.
 
----
+Ces fonctions ne constituent pas trois étapes obligatoires d’un processus unique. Un contenu peut être examiné sans être asserté ; une assertion peut être produite avant qu’une justification explicite soit demandée ; une justification peut conduire à réviser l’assertion.
 
-## 5. L'assertion dans l'architecture de Protokin
+Voir [Proposition](fr/proposition.md) et [Prédication](fr/predication.md).
 
-Au sein de la **quadripartition de base** et du déroulement de l'enquête, l'assertion occupe une position charnière entre la mise en relation et la justification :
+## 5. Engagements et responsabilité discursive
 
-```
-[ Condition ]  ---> Résistance matérielle / Butoir du milieu
-      │
-[ Relation ]   ---> Forme propositionnelle / Catégories mobilisées
-      │
-[ Fonction ]   ---> Assertion : Acte pragmatique d'engagement
-      │
-[ Justification] -> Critères, épreuves et raisons défendues
-```
+En affirmant un contenu, le locuteur s’expose à des conséquences discursives. Son intervention peut notamment :
 
-* **Rôle dans le jeu des raisons** : L'assertion est la seule entité capable de jouer simultanément le rôle de **donneur de raisons** (servant de prémisse pour justifier d'autres propositions) et de **demandeur de raisons** (nécessitant d'être étayée si elle est contestée).
-* **Point d'application de l'audit** : L'assertion constitue la cible privilégiée des opérations d'audit de Protokin, car c'est là que se cristallisent les prétentions à l'autorité et les risques de confusion entre prétention subjective et adéquation objective.
+- permettre à d’autres de reprendre le contenu comme prémisse provisoire ;
+- autoriser certaines inférences, sous réserve des règles et des autres prémisses pertinentes ;
+- entrer en conflit avec des engagements antérieurs ou avec d’autres affirmations ;
+- susciter une demande de précision ou de justification ;
+- être retirée, corrigée ou reformulée à la suite d’une contestation.
 
----
+Ces possibilités ne constituent pas un ensemble de conséquences automatiques et identiques pour toutes les assertions. Leur portée dépend de la pratique, du contexte, des règles reconnues et du statut accordé au locuteur.
 
-## 6. Fiche d'audit et Règles de non-conversion
+Dans certaines situations ordinaires, une assertion est acceptée sans justification préalable. Dans d’autres, notamment lorsqu’une décision importante en dépend, des éléments de preuve ou des raisons explicites peuvent être exigés dès le départ.
 
-Pour maintenir la rigueur méthodologique, Protokin soumet l'assertion à cinq règles de non-conversion impératives :
+L’acceptation provisoire d’une assertion ne garantit pas sa correction. Inversement, une contestation ne suffit pas à la réfuter : il faut examiner ce qui motive cette contestation et quelles exigences s’appliquent au cas considéré.
 
-1. **`Forme propositionnelle ≠ Assertion`**
-   * *Principe* : Formuler un contenu ou une hypothèse ne signifie pas l'assumer comme vrai. L'absence de prise en charge préserve le statut de contenu neutralisé.
-2. **`Assertion ≠ Vérité`**
-   * *Principe* : L'acte d'affirmer publiquement une proposition ($p$) montre que le locuteur prétend à la vérité, mais n'assure en rien que $p$ soit vraie ou adéquate au référent.
-3. **`Intention du locuteur ≠ Portée inférentielle`**
-   * *Principe* : Ce que le locuteur croyait ou voulait dire ne limite pas l'ensemble des engagements et conséquences logico-matérielles déclenchés par son assertion.
-4. **`Assertion ≠ Référent (Configuration décrite)`**
-   * *Principe* : L'assertion est un événement discursif dans l'espace des normes ; elle ne fabrique ni ne constitue la configuration matérielle ou biologique à laquelle elle se rapporte.
-5. **`Autorité du locuteur ≠ Justification de la proposition`**
-   * *Principe* : Le statut ou l'institution dont se réclame un locuteur ne remplace pas la fourniture de raisons ou de critères de correction lors d'une contestation légitime.
+L’assertion engage ainsi une responsabilité discursive, mais la nature de cette responsabilité ne doit pas être confondue avec une obligation universelle de justifier immédiatement toute phrase affirmée.
 
----
+## 6. L’asymétrie entre l’intention du locuteur et les conséquences de son assertion
 
-## 7. Résumé des formules canoniques
+Le locuteur peut choisir d’affirmer un contenu, mais il ne détermine pas souverainement toutes les conséquences de cette intervention.
 
-> **« La proposition propose ; l'assertion engage ; la justification soutient ; le référent borne. »**
+Supposons qu’une personne affirme : « Cet échantillon est du cuivre ».
 
-> **« On ne peut revendiquer d'autorité discursive sans accepter simultanément la responsabilité d'en répondre face aux raisons de ses pairs. »**
+Dans une pratique scientifique donnée, cette assertion peut autoriser certaines inférences concernant les propriétés attendues de l’échantillon. Elle peut aussi entrer en conflit avec des résultats expérimentaux ou des classifications incompatibles.
 
-> **« L'assertion est le coup élémentaire par lequel une pensée devient un acte social et une responsabilité publique. »**
+Le locuteur n’a pas besoin de connaître toutes ces conséquences pour que leur examen soit pertinent. Toutefois, celles-ci ne découlent pas de la seule intention de parler du cuivre : elles dépendent du contenu employé, des règles d’inférence pertinentes et des connaissances mobilisées.
+
+Il faut donc distinguer :
+
+- ce que le locuteur voulait dire ;
+- ce qu’il a effectivement affirmé ;
+- les engagements que cette assertion entraîne dans la pratique concernée ;
+- les conséquences que d’autres peuvent légitimement en tirer ;
+- les raisons permettant de défendre ces engagements ou de les contester.
+
+L’interprétation d’une assertion peut ainsi dépasser ce que son auteur avait explicitement envisagé. Cela ne dispense pas de préciser les règles et les prémisses qui autorisent cette interprétation.
+
+## 7. Assertion, inférence et justification
+
+Une assertion peut servir de prémisse à un raisonnement. Cela ne signifie pas que toutes les conclusions qu’on lui associe sont justifiées.
+
+Reprenons l’affirmation : « Cet arbre présente un risque pour l’habitation ».
+
+Elle peut contribuer à motiver une inspection ou une mesure de sécurité. Mais le passage de l’affirmation à une décision dépend d’autres éléments : l’évaluation du risque, les conséquences possibles, les critères applicables et les exigences propres à la situation.
+
+Trois questions doivent rester distinctes :
+
+1. **Conséquence inférentielle** : que peut-on conclure à partir de cette assertion, compte tenu des autres prémisses et des règles pertinentes ?
+2. **Justification** : quelles raisons permettent de défendre l’assertion et les conclusions qui en sont tirées ?
+3. **Adéquation descriptive** : les affirmations et les prémisses rendent-elles correctement compte de la situation examinée ?
+
+Une inférence peut être recevable au regard de prémisses admises sans que celles-ci soient correctement établies. Une assertion peut être cohérente avec d’autres assertions tout en restant inadéquate à la situation décrite. Une décision peut enfin être utile sans que cela suffise à justifier rétrospectivement toutes les affirmations qui l’ont motivée.
+
+L’examen doit donc porter sur les passages entre l’affirmation, ses conséquences et les raisons invoquées, plutôt que de traiter ces éléments comme équivalents.
+
+Voir [Inférence matérielle](fr/inference-materielle.md) et [Justifier](fr/justifier.md).
+
+## 8. Ce que l’assertion n’établit pas
+
+L’acte d’asserter ne suffit pas à établir :
+
+- la vérité du contenu affirmé ;
+- l’adéquation de ce contenu à son référent ;
+- la validité de toutes les inférences qui lui sont associées ;
+- la qualité des prémisses mobilisées ;
+- la justification de la conclusion ;
+- l’autorité définitive du locuteur sur la question.
+
+L’assurance du locuteur, son statut ou l’acceptation provisoire de son affirmation peuvent jouer un rôle dans une pratique. Ils ne remplacent pas l’examen des raisons lorsque celui-ci est nécessaire.
+
+De même, les engagements associés à une assertion ne doivent pas être assimilés à l’ensemble des conséquences que l’on pourrait imaginer à partir de ses mots. Leur portée doit être reconstruite en fonction du contenu, des règles et du contexte pertinents.
+
+## 9. Place dans l’enquête de Protokin
+
+L’assertion devient pertinente pour Protokin lorsqu’une affirmation joue un rôle dans une description, un raisonnement, une contestation ou une décision.
+
+Son examen permet notamment de demander :
+
+- quel contenu est effectivement avancé ;
+- qui l’avance et dans quelles circonstances ;
+- quels engagements sont associés à cette intervention ;
+- quelles conséquences sont tirées de l’affirmation ;
+- quelles prémisses et quels critères soutiennent ces conséquences ;
+- dans quelles conditions l’affirmation peut être contestée, corrigée ou retirée.
+
+La quadripartition — Condition, Relation, Fonction, Justification — peut orienter cet examen. Elle ne classe pas l’assertion dans l’une de ses quatre orientations : elle aide à distinguer les questions portant sur les conditions de l’intervention, les relations mobilisées, le rôle de l’affirmation et les raisons permettant de la défendre.
+
+L’assertion n’est donc ni une étape obligatoire de la chaîne d’enquête ni une garantie de validité. Elle constitue un objet d’analyse lorsque la prise en charge d’un contenu et ses conséquences discursives doivent être précisées.
+
+## Synthèse
+
+L’assertion est l’acte par lequel un locuteur avance un contenu et en assume la responsabilité dans une pratique discursive.
+
+Elle peut autoriser la reprise d’un contenu, ouvrir des possibilités d’inférence et exposer l’affirmation à la contestation. Mais la portée de ces engagements dépend du contexte, des règles pertinentes et des autres prémisses mobilisées.
+
+**Affirmer n’est pas démontrer ; être autorisé à affirmer n’est pas garantir la vérité ; tirer une conclusion n’est pas encore la justifier.**
+
+L’analyse de l’assertion permet ainsi à Protokin d’examiner les engagements associés aux affirmations sans confondre l’acte discursif, ses conséquences inférentielles, sa justification et son adéquation à ce qu’il prétend décrire.
+
+**Renvois :**
+- [Prédication](fr/predication.md)
+- [Proposition](fr/proposition.md)
+- [Inférence matérielle](fr/inference-materielle.md)
+- [Justifier](fr/justifier.md)
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
