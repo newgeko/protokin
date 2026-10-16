@@ -1,110 +1,143 @@
-# La Proposition dans la Philosophie Analytique et l'Architecture de Protokin
+# Proposition — Contenu et rôle inférentiel
+
+## 1. Fonction
+
+Cette page précise le rôle de la proposition dans l’analyse des pratiques discursives. Elle distingue le contenu propositionnel de la prédication qui contribue à le formuler et de l’assertion par laquelle un locuteur prend ce contenu en charge.
+
+Dans Protokin, la proposition est examinée en fonction des inférences auxquelles elle participe, des prémisses sur lesquelles elle s’appuie et des conséquences qu’elle autorise dans un contexte déterminé.
+
+## 2. Problème
+
+Une même formulation peut intervenir dans des usages différents. Elle peut être affirmée, mise en doute, envisagée comme hypothèse ou intégrée à un raisonnement conditionnel. Inversement, des formulations différentes peuvent exprimer un contenu comparable.
+
+Il faut donc distinguer ce qui est formulé, le contenu que l’on examine et l’acte par lequel ce contenu est affirmé.
+
+Sans cette distinction, on risque notamment :
+
+- de confondre une phrase avec le contenu qu’elle exprime ;
+- de traiter toute formulation propositionnelle comme une assertion ;
+- de déduire les engagements d’un locuteur de la seule présence d’une phrase ;
+- de confondre les conséquences d’un contenu avec sa justification ;
+- de prendre la cohérence d’un raisonnement pour une preuve de l’adéquation de ses prémisses.
+
+## 3. Définition
+
+Une **proposition** désigne ici un contenu susceptible d’être examiné dans des pratiques discursives, notamment en tant que prémisse, conclusion, hypothèse ou élément d’un raisonnement.
+
+Ce contenu peut être étudié indépendamment de la question de savoir si un locuteur l’affirme effectivement. Cette possibilité d’examen ne fait pas de la proposition un objet abstrait dont l’existence ou la nature seraient établies par la seule analyse.
+
+La proposition est notamment identifiable par les relations inférentielles dans lesquelles elle intervient : ce qui peut être conclu à partir d’elle, ce qui peut la soutenir et ce qui est incompatible avec elle, compte tenu des autres prémisses et des règles pertinentes.
+
+Son rôle ne se réduit donc ni à sa formulation grammaticale ni à une liste de conséquences considérées isolément.
+
+## 4. Prédication, proposition et assertion
+
+Ces trois termes désignent des fonctions distinctes. Ils ne constituent pas les étapes obligatoires d’une séquence.
+
+### 4.1. Prédication : une fonction d’attribution
+
+La prédication attribue une propriété, une caractéristique ou une détermination à quelque chose.
+
+Dans « Cet arbre est incliné », la prédication attribue l’inclinaison à l’arbre désigné. Elle contribue à formuler un contenu, mais ne détermine pas à elle seule toutes les conditions dans lesquelles cette attribution est recevable.
+
+La prédication ne constitue donc ni une théorie complète de la proposition ni une garantie de la justesse de l’attribution.
+
+### 4.2. Proposition : un contenu examinable
+
+Le contenu exprimé par « Cet arbre est incliné » peut être considéré comme une hypothèse, servir de prémisse dans un raisonnement ou être mis en relation avec d’autres contenus.
+
+Par exemple, il peut contribuer à un raisonnement sur la sécurité d’une habitation. Mais la conclusion selon laquelle une intervention est nécessaire dépendra d’autres éléments : l’état de l’arbre, son environnement, les risques évalués et les critères retenus.
+
+Le contenu propositionnel peut ainsi être examiné sans être immédiatement affirmé. Son rôle dépend des relations dans lesquelles il est mobilisé.
+
+### 4.3. Assertion : une prise en charge
+
+L’assertion consiste à avancer un contenu comme vrai ou recevable dans une pratique discursive.
+
+En affirmant « Cet arbre est incliné », un locuteur ne se contente pas de rendre un contenu disponible : il le présente comme défendable et s’expose, selon les règles de la pratique concernée, à des demandes de justification ou à des objections.
+
+L’assertion engage donc des responsabilités discursives qui ne découlent pas de la seule formulation du contenu. La nature exacte de ces engagements dépend du contexte et des normes de la pratique.
+
+**Distinction directrice :** la prédication attribue, la proposition fournit un contenu examinable, l’assertion engage un locuteur à l’égard de ce contenu.
+
+## 5. Le rôle inférentiel de la proposition
+
+Une proposition peut servir de prémisse ou de conclusion. Son rôle dépend des relations inférentielles dans lesquelles elle intervient.
+
+Considérons les énoncés suivants :
+
+- P1 : Cet arbre est fortement incliné.
+- P2 : Une chute de l’arbre pourrait atteindre l’habitation.
+- C : Une mesure de sécurité doit être envisagée.
+
+Le passage de P1 et P2 à C ne découle pas de la seule forme des propositions. Il suppose des informations complémentaires sur la situation, une appréciation du risque et des critères permettant de défendre la conclusion pratique.
+
+Cet exemple permet de distinguer trois questions :
+
+1. **Conséquence** : quelles conclusions peut-on tirer des prémisses, compte tenu des autres engagements et des règles d’inférence retenues ?
+2. **Justification** : les prémisses et les règles mobilisées sont-elles suffisamment établies et recevables dans le cas considéré ?
+3. **Adéquation** : les prémisses et la conclusion rendent-elles correctement compte de la situation qu’elles prétendent décrire ?
+
+Une conclusion peut être correctement inférée à partir de prémisses qui se révèlent fausses ou inadéquates. Inversement, une proposition pertinente pour décrire une situation ne justifie pas automatiquement toutes les conclusions qu’on lui associe.
+
+Le rôle inférentiel contribue à caractériser un contenu ; il ne dispense pas d’examiner les conditions de recevabilité des inférences particulières.
+
+## 6. Proposition, vérité et justification
+
+La proposition ne doit être confondue ni avec sa vérité ni avec sa justification.
+
+- **Proposition ≠ assertion** : un contenu peut être envisagé sans être affirmé.
+- **Proposition ≠ vérité** : identifier un contenu ne suffit pas à établir qu’il est vrai.
+- **Conséquence ≠ justification** : une conclusion peut découler de prémisses sans que celles-ci soient suffisamment justifiées.
+- **Cohérence ≠ adéquation** : un ensemble de propositions peut être cohérent sans décrire adéquatement la situation concernée.
+- **Contenu ≠ référent** : ce qui est dit à propos d’une situation ne se confond pas avec cette situation.
+
+Ces distinctions n’interdisent pas les relations entre les termes. Elles empêchent de considérer qu’une fonction remplit automatiquement celle d’une autre.
+
+## 7. Place dans l’enquête de Protokin
+
+La proposition intervient dans l’enquête lorsque des contenus sont formulés, comparés, inférés ou contestés. Elle ne correspond pas à une opération particulière de la chaîne principale et ne constitue pas une étape nécessaire de l’enquête.
+
+Son examen peut notamment aider à :
+
+- identifier les contenus mobilisés comme prémisses ou conclusions ;
+- expliciter les conséquences tirées d’une description ;
+- repérer les prémisses implicites d’un raisonnement ;
+- distinguer une hypothèse examinée d’une affirmation effectivement soutenue ;
+- localiser un désaccord portant sur le contenu, les inférences ou les conditions de justification.
+
+Ces usages restent subordonnés au problème examiné. Toute difficulté descriptive ne se réduit pas à un désaccord entre propositions : les conditions matérielles, les pratiques, les relations et les fonctions des descriptions peuvent également être en jeu.
+
+La proposition doit donc être analysée dans son articulation avec les autres dimensions de l’enquête, sans lui attribuer le pouvoir de les résumer.
+
+## 8. Limites
+
+L’analyse propositionnelle ne garantit pas à elle seule :
+
+- que le contenu étudié a été effectivement affirmé ;
+- que les prémisses sont vraies ou suffisamment établies ;
+- que les inférences retenues sont recevables dans toute pratique ;
+- que les conclusions sont justifiées ;
+- que le contenu décrit adéquatement son référent ;
+- que toute difficulté descriptive peut être reformulée en problème propositionnel.
+
+La forme grammaticale, le contenu, les engagements du locuteur, les règles d’inférence et les critères de justification doivent être distingués, puis reliés lorsque le problème l’exige.
+
+## Synthèse
+
+Dans Protokin, la proposition est un contenu examinable dans des pratiques discursives, notamment par les relations inférentielles auxquelles il participe.
+
+La distinguer de la prédication permet de ne pas réduire le contenu à sa formulation ; la distinguer de l’assertion permet de ne pas confondre un contenu envisagé avec un contenu pris en charge. Son rôle comme prémisse ou conclusion ne suffit cependant à établir ni sa justification ni l’adéquation de ce qu’il affirme à la situation décrite.
+
+L’enjeu n’est pas de faire de la proposition le fondement de toute description, mais de préciser ce qu’elle permet d’examiner et les conclusions que son usage autorise.
 
 ---
 
-## 1. Introduction & Définition Générale
+Pour poursuivre :
 
-Dans la philosophie du langage, la logique et la théorie de la connaissance, la **proposition** (ou contenu propositionnel) constitue l'unité minimale de contenu conceptuel capable d'exprimer une pensée complète, d'être évaluée selon des conditions de vérité ou de justification, et de servir à la fois de **prémisse** et de **conclusion** dans un raisonnement.
-
-Si la grammaire traditionnelle voit dans la phrase une simple juxtaposition de mots (sujet, verbe, complément), la tradition analytique et la pragmatique inférentielle inversent cette perspective : la proposition est l'unité première de sens à partir de laquelle la signification des mots isolés est dérivée.
-
----
-
-## 2. La Tripartition Fonctionnelle de Protokin : Prédication, Proposition, Assertion
-
-Pour éviter les confusions conceptuelles majeures, le cadre d'enquête **Protokin** distingue strictement trois niveaux fonctionnels trop souvent amalgamés :
-
-| Niveau | Nature fonctionnelle | Rôle dans l'analyse discursives |
-| :--- | :--- | :--- |
-| **Prédication** | Attribution locale | Opération descriptive qualifiant un objet ou un référent déjà identifié (structure « $X$ est $Y$ »). |
-| **Proposition** | Structure de contenu neutralisée | Unité de contenu inférentiel (ce qui découle de la proposition et ce dont elle découle). C'est un « bac à sable » conceptuel qui peut être manipulé sans engagement affirmatif immédiat. |
-| **Assertion** | Prise en charge publique | Acte pragmatique par lequel un locuteur assume la proposition comme recevable, engageant sa responsabilité justificative et modifiant les statuts déontiques dans le jeu des raisons. |
-
----
-
-## 3. Le Principe de Priorité du Propositionnel (*Top-Down*)
-
-Hérité d'Immanuel Kant et de Gottlob Frege, le **principe de priorité du propositionnel** (*top-down approach*) affirme que la proposition prime logiquement et pragmatiquement sur les éléments sub-propositionnels (mots, termes singuliers, prédicats) :
-
-1. **L'unité minimale de responsabilité discursives** : Un mot isolé (par exemple « pomme » ou « rouge ») ne constitue pas un acte discursif auquel on peut souscrire ou s'opposer. Seule la proposition entière forme l'unité minimale dont un agent rationnel peut prendre la responsabilité.
-2. **Le coup dans le jeu des raisons** : Seule une proposition complète peut servir de donner ou de demander des raisons (prémisse/conclusion).
-3. **Derivation substitutionnelle** : Les termes singuliers (noms, démonstratifs) et les prédicats n'ont pas de signification autonome hors proposition ; leur contenu est dérivé par analyse des variations de valeur de vérité ou de rôle inférentiel lors de substitutions au sein de propositions.
-
----
-
-## 4. La Proposition à travers la Philosophie Analytique
-
-La tradition analytique a exploré la proposition selon plusieurs modèles théoriques majeurs :
-
-### A. Gottlob Frege : Sens, Pensée et Définition Inférentielle
-* **Sens (*Sinn*) vs Référence (*Bedeutung*)** : Le sens d'une phrase déclarative est une « pensée » (*Gedanke*) objective, partageable et indépendante des états psychologiques. La référence de la proposition est sa valeur de vérité (le Vrai ou le Faux).
-* **Définition inférentielle précoce (1879)** : Dès le *Begriffsschrift*, Frege définit le contenu conceptuel de manière fonctionnelle : deux énoncés possèdent le même contenu conceptuel si et seulement si toutes les inférences que l'on peut en tirer (combinées aux mêmes prémisses collatérales) restent identiques.
-
-### B. Bertrand Russell : Structure Directe et Forme Logique
-* **Proposition russellienne** : Russell rejette le sens frégéen intermédiaire et conçoit la proposition comme une structure directement composée d'objets réels, de propriétés et de relations.
-* **Forme logique vs Forme grammaticale** : À travers la théorie des descriptions définies, Russell montre que la forme grammaticale apparente masque la structure quantificielle réelle de la proposition.
-
-### C. Ludwig Wittgenstein : De l'Image Logique aux Jeux de Langage
-* **Le *Tractatus*** : La proposition y est définie comme une **image logique** (*Bild*) de la réalité, dont le sens réside dans ses conditions de vérité.
-* **Les *Investigations philosophiques*** : Abandon du miroir logique au profit de l'**usage** (*Gebrauch*) dans des jeux de langage, déplaçant l'attention vers les conditions d'affirmabilité sociale.
-
-### D. Donald Davidson : La Théorie de la Vérité sans Entités Abstraites
-* **Rejet des propositions reifiées** : Davidson refuse de traiter la proposition comme un objet abstrait intermédiaire.
-* **Convention T (Tarski)** : Le sens est rendu explicite par une théorie formelle de la vérité générant des biconditionnels (*« p » est vrai ssi p*), guidée par l'interprétation radicale.
-
-### E. Michael Dummett : Anti-Réalisme et Sens Autonome vs Ingrédient
-* **Conditions de justification** : Conteste le réalisme de la vérité transcendante aux capacités de vérification. Le sens réside dans les conditions de vérification/justification.
-* **Sens autonome (*Freestanding*) vs Ingrédient (*Ingredient*)** : Dummett distingue le sens autonome d'une proposition affirmée indépendamment et le sens ingrédient de cette même proposition lorsqu'elle est encastrée dans un énoncé complexe (antécédent d'un conditionnel « *Si p, alors q* »).
-
-### F. Paul Grice : L'Approche Intentionnelle
-* **Signification du locuteur (*Speaker's Meaning*)** : Explique le contenu propositionnel à partir des intentions communicatives de l'agent et de leur reconnaissance réflexive par l'auditeur.
-
-### G. W.V.O. Quine : Holisme et Rejet du « Mythe du Musée »
-* **Holisme sémantique** : Les propositions isolées n'ont pas de lien direct individuel avec l'expérience ; c'est l'ensemble du réseau théorique qui affronte le tribunal de l'expérience.
-
-### H. Kit Fine : La Sémantique des Vérificateurs (*Truth-Makers*)
-* **Vérificateurs et falsificateurs exacts** : La proposition est un couple d'états de faits matériels ou possibles qui la rendent exactement vraie ou fausse.
-
-### I. Wilfrid Sellars & Robert Brandom : L'Inférentialisme Pragmatique
-* **Rôle inférentiel** : Le contenu d'une proposition est déterminé par son rôle dans le réseau des conséquences matérielles et des incompatibilités au sein du « jeu de donner et demander des raisons ».
-* **Scorekeeping déontique** : Navigue entre les engagements (*commitments*) et les habilitations (*entitlements*) attribués et assumés par les locuteurs.
-
----
-
-## 5. La Proposition dans Protokin : Le « Bac à Sable » Conceptuel
-
-Dans le cadre d'enquête de **Protokin**, la proposition est abordée de façon strictement opérationnelle :
-
-* **Un espace de neutralisation** : La proposition permet de suspendre la force d'affirmation pour examiner, tester, composer ou déduire des conséquences sans engager prématurément la responsabilité du chercheur.
-* **Articulations de l'Enquête** :
-  * **Condition / Ancrage (01)** : La proposition est ancrée dans des configurations matérielles sans se réduire à elles.
-  * **Problème / Éprouver (10)** : Elle permet de formuler des hypothèses et des épreuves sous forme de propositions ingrédients.
-  * **Justification (05) & Reconstitution (11)** : Elle sert d'unité pour réorganiser le réseau des raisons et des critères de correction.
-
----
-
-## 6. Les Règles d'Audit et de Non-Conversion
-
-Afin de garantir la sobriété méthodologique, Protokin applique à la proposition plusieurs maximes d'audit :
-
-1. **`Prédication ≠ Proposition ≠ Assertion`** : Ne pas confondre la qualification d'un objet (prédication), la structure de contenu (proposition) et la prise en charge publique (assertion).
-2. **`Forme propositionnelle ≠ Assertion`** : Formuler une hypothèse ou une clause sous conditionnel n'équivaut pas à l'affirmer comme vraie.
-3. **`Proposition ≠ Vérité`** : La cohérence interne d'une proposition n'assure pas son adéquation au réel.
-4. **`Proposition ≠ Référent`** : La structure propositionnelle organise l'espace discursif, mais elle ne fabrique pas la configuration matérielle ou biologique (le référent) à laquelle elle se rapporte.
-
----
-
-## 7. Synthèse Comparative des Approches
-
-| Courant / Auteur | Définition de la proposition | Moteur de la signification |
-| :--- | :--- | :--- |
-| **Frege** | Pensée (*Gedanke*) / Sens autonome | Conditions de vérité & compositionnalité |
-| **Russell** | Structure directe d'objets et de propriétés | Forme logique & référence directe |
-| **Wittgenstein (Tardif)** | Rôle régulé dans un jeu de langage | Conditions d'affirmabilité & usage |
-| **Davidson** | Structure générée par la théorie Tarski | Conditions de vérité & interprétation radicale |
-| **Dummett** | Capacité de justification (*freestanding/ingredient*) | Conditions de vérification |
-| **Grice** | Expression d'une intention communicative | Intention réflexive du locuteur |
-| **Quine** | Pseudo-entité réifiée (Holisme) | Dispositions comportementales & réseau |
-| **Fine** | Paire de vérificateurs/falsificateurs exacts | États de faits exacts (*truth-makers*) |
-| **Sellars & Brandom** | Unité minimale du jeu des raisons | Rôle inférentiel (prémisse/conclusion) |
-| **Protokin** | Bac à sable conceptuel & contenu neutralisé | Audit de non-conversion & chaîne d'enquête |
+- [Prédication](fr/predication.md)
+- [Assertion](fr/assertion.md)
+- [Inférence matérielle](fr/inference-materielle.md)
+- [Justifier](fr/justifier.md)
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
+- [Table des matières](fr/tdm.md)
