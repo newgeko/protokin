@@ -1,145 +1,134 @@
-Raison — Soutenir et contester une prise de position
+# Raison — Soutenir et contester une prise de position
 
-1. Fonction
+## 1. Fonction
 
-Cette page précise le rôle des raisons dans les pratiques descriptives. Elle examine comment une affirmation, une décision ou une description peut être soutenue, contestée ou révisée à partir de considérations reconnues comme pertinentes.
+Cette page précise ce qui peut compter comme raison pour soutenir, contester ou réviser une prise de position dans une pratique descriptive.
 
-Elle distingue les raisons des causes qui expliquent la production d’un phénomène, des critères qui orientent son évaluation et de la justification comme activité de défense d’une prise de position.
+Elle distingue la raison de ce qui explique la production d’une affirmation, des critères qui orientent son évaluation et de la justification qui consiste à défendre cette affirmation.
 
-2. Problème
+## 2. Problème
 
-Expliquer pourquoi une personne affirme quelque chose ne suffit pas à établir que son affirmation est recevable.
+Expliquer pourquoi une personne affirme quelque chose ne suffit pas à établir que son affirmation est recevable. Inversement, une considération peut soutenir une conclusion sans expliquer pourquoi une personne l’a retenue.
 
-Une personne peut qualifier un arbre de dangereux parce qu’elle en a peur, parce qu’un expert l’a alertée ou parce qu’elle a observé une fissure importante dans son tronc. Ces éléments n’ont pas nécessairement le même statut. La peur peut contribuer à expliquer sa réaction ; l’avis de l’expert et l’observation de la fissure peuvent, sous certaines conditions, fournir des raisons d’examiner le risque.
+Supposons qu’une personne affirme : « Cet arbre est dangereux. » Sa peur peut contribuer à expliquer sa réaction. Une fissure observée dans le tronc peut constituer une raison d’examiner la stabilité de l’arbre. Mais cette observation ne suffit pas nécessairement à établir que l’arbre doit être abattu.
 
-Il faut donc distinguer deux questions :
+Il faut distinguer :
 
-- Qu’est-ce qui explique la production d’une affirmation ou d’une décision ?
-- Qu’est-ce qui permet de soutenir cette affirmation ou cette décision ?
+- ce qui explique la production d’une prise de position ;
+- ce qui peut être invoqué en faveur ou à l’encontre de cette position ;
+- ce qui permet d’évaluer la portée de cette considération.
 
-La seconde question porte sur les raisons. Elle ne se résout ni par la seule description des causes d’un comportement ni par l’identification des intentions de celui qui agit.
+La difficulté ne consiste donc pas seulement à identifier les éléments invoqués, mais à déterminer ce qu’ils permettent effectivement de soutenir.
 
-3. Définition
+## 3. Définition
 
-Une raison est une considération mobilisée ou reconnue comme pertinente pour soutenir, contester ou réviser une prise de position dans une pratique déterminée.
+Une **raison** est une considération susceptible de soutenir, de contester ou de réviser une prise de position relativement à une question déterminée.
 
-Une raison n’agit pas comme une cause supplémentaire. Elle intervient dans une relation où quelque chose compte en faveur ou à l’encontre d’une affirmation, d’une inférence ou d’une décision.
+Elle intervient dans une relation d’évaluation : elle peut compter en faveur d’une affirmation, fragiliser une conclusion ou conduire à revoir une décision. Son rôle dépend de la question traitée, des prémisses disponibles, des engagements associés à la position et des règles applicables dans la pratique concernée.
 
-Ce statut dépend de la question examinée, des prémisses disponibles, des engagements associés à la prise de position et des règles applicables dans la pratique concernée.
+Une considération n’est donc pas une raison suffisante du seul fait qu’elle existe ou qu’un locuteur la présente comme décisive. Sa pertinence et sa portée doivent être examinées.
 
-Une même considération peut ainsi être pertinente pour une question et insuffisante pour une autre. Une fissure observée dans un arbre peut justifier une inspection plus approfondie sans suffire, à elle seule, à établir qu’un abattage est nécessaire.
+Une fissure peut, par exemple, justifier une inspection supplémentaire sans établir à elle seule un danger imminent. La même observation peut ainsi soutenir une conclusion limitée sans suffire à en soutenir une autre, plus exigeante.
 
-La pertinence d’une raison doit donc être examinée : elle ne découle ni de son existence matérielle ni du fait qu’un locuteur la présente comme décisive.
+## 4. Distinctions nécessaires
 
-4. Raisons, causes et motifs
+### 4.1. Raison, cause et motif
 
-Ces notions répondent à des questions distinctes.
+Une **cause** intervient dans l’explication de la production d’un phénomène. Un **motif** peut désigner une intention, une préférence ou une disposition qui contribue à expliquer une conduite. Une **raison** concerne ce qui peut soutenir ou contester une prise de position.
 
-La cause intervient dans une explication de la production d’un phénomène. Elle permet d’examiner les processus et les dépendances par lesquels celui-ci se produit.
+Ces dimensions peuvent être liées sans se confondre. La peur peut expliquer pourquoi une personne affirme qu’un arbre est dangereux ; elle ne suffit pas, à elle seule, à établir que cette affirmation est fondée. Inversement, une observation pertinente peut soutenir la conclusion sans expliquer pourquoi elle a été remarquée ou retenue.
 
-Le motif désigne une intention, une préférence, une disposition ou un état psychologique susceptible d’expliquer une conduite ou une prise de position.
+La distinction ne sépare donc pas deux mondes indépendants. Elle empêche de traiter une explication de la conduite comme une justification automatique de ce qui est affirmé.
 
-La raison concerne ce qui peut soutenir ou contester cette prise de position dans une pratique d’évaluation et d’inférence.
+### 4.2. Raison, critère et justification
 
-Ces dimensions peuvent être liées. Un motif peut contribuer à expliquer pourquoi une personne agit ; cette personne peut également avancer une raison pour défendre son action. Mais le motif qui explique son comportement ne constitue pas nécessairement une raison recevable, et une raison avancée n’explique pas nécessairement à elle seule pourquoi elle a été retenue.
+Ces trois notions remplissent des fonctions distinctes :
 
-De même, établir la cause d’un événement ne détermine pas automatiquement les conclusions qu’il est justifié d’en tirer.
+- **Raison** : considération susceptible de soutenir ou de contester une prise de position.
+- **Critère** : exigence au regard de laquelle une description, une attribution ou une conclusion peut être évaluée.
+- **Justification** : examen et mobilisation des raisons permettant de défendre une prise de position au regard des exigences pertinentes.
 
-5. Raisons, critères et justification
+Une raison ne satisfait pas automatiquement les critères applicables. Un critère ne fournit pas nécessairement, à lui seul, une raison suffisante dans un cas particulier. Et le fait qu’une justification ait été formulée ne garantit pas qu’elle soit recevable.
 
-Trois notions doivent être distinguées.
+### 4.3. Raison et conséquence inférentielle
 
-- La raison est une considération qui peut soutenir ou contester une prise de position.
-- Le critère est une règle ou une exigence au regard de laquelle une description, une attribution ou une décision peut être évaluée.
-- La justification est l’activité qui consiste à mobiliser des raisons pour défendre une prise de position au regard de critères pertinents.
+Une raison peut soutenir une conclusion en vertu d’une relation inférentielle. Mais les deux notions ne sont pas équivalentes.
 
-Ces notions sont liées, mais elles ne sont pas interchangeables.
+Une inférence indique comment une conclusion peut être autorisée à partir de certaines prémisses et de règles applicables. L’examen des raisons porte notamment sur ce qui soutient la position défendue et sur la pertinence des éléments invoqués.
 
-Un critère ne constitue pas nécessairement une raison suffisante dans un cas particulier. Une raison avancée ne satisfait pas automatiquement les critères applicables. Une justification peut être entreprise sans aboutir à une conclusion recevable.
+Une conclusion peut être correctement inférée à partir de prémisses contestables. De même, une conséquence autorisée par une assertion ne constitue pas automatiquement une raison suffisante de défendre cette conséquence.
 
-Il faut également distinguer la justification effectivement proposée de la possibilité de la défendre : une justification peut être contestée, complétée ou révisée.
+Il faut donc examiner les prémisses, les règles mobilisées et la question à laquelle la conclusion prétend répondre.
 
-6. Raisons et inférences
+## 5. Examiner la portée d’une raison
 
-Une prise de position ne se limite pas toujours à son contenu explicitement formulé. Dans une pratique descriptive, affirmer quelque chose peut autoriser certaines conclusions, rendre d’autres affirmations incompatibles avec elle ou appeler des précisions supplémentaires.
+L’examen d’une raison peut être organisé autour de quatre questions :
 
-Cette portée dépend des engagements associés à l’assertion, des règles d’inférence applicables et des prémisses disponibles. Elle ne se réduit donc ni à la phrase prononcée ni à ce que le locuteur avait l’intention de communiquer.
+1. **Quelle position doit-elle soutenir ou contester ?** Une considération pertinente pour une question ne l’est pas nécessairement pour une autre.
+2. **Sur quels éléments repose-t-elle ?** Il peut s’agir d’observations, de mesures, de témoignages, de documents ou de règles mobilisées dans une pratique.
+3. **Quelle conclusion permet-elle de soutenir ?** Il faut distinguer ce qu’elle établit, ce qu’elle rend plausible et ce qui demanderait des éléments supplémentaires.
+4. **Qu’est-ce qui pourrait la fragiliser ou conduire à la réviser ?** Une objection, une nouvelle observation ou la remise en cause d’une prémisse peut modifier sa portée.
 
-Considérons l’énoncé :
+Ces questions ne constituent pas une procédure obligatoire. Elles indiquent des points d’examen lorsque la valeur d’une raison est contestée.
 
-« Cet arbre est dangereux. »
+Elles ne garantissent pas qu’une conclusion sera établie. Elles permettent de préciser les éléments sur lesquels elle repose et les conditions auxquelles elle peut être maintenue, limitée ou révisée.
 
-Selon le contexte et les engagements mobilisés, cette affirmation peut conduire à examiner sa stabilité, à demander une expertise ou à discuter d’une intervention. Elle ne justifie pas automatiquement chacune de ces conclusions. Il faut déterminer quelles prémisses les soutiennent, quelles règles permettent de passer de l’une à l’autre et quelles conditions doivent être satisfaites.
+## 6. Exemple discriminant : un arbre dangereux
 
-Il convient donc de distinguer :
+Une personne affirme : « Cet arbre est dangereux. » Elle invoque une fissure dans le tronc.
 
-- les conséquences qu’une affirmation autorise ;
-- les conclusions effectivement tirées ;
-- les raisons avancées pour soutenir ces conclusions ;
-- les conséquences pratiques ou institutionnelles qui leur sont attribuées.
+La fissure constitue un élément susceptible de soutenir l’examen d’un risque. Sa portée dépend cependant de la situation : sa localisation, son étendue, l’état de l’arbre et les autres observations disponibles peuvent modifier l’évaluation.
 
-Une conséquence inférentielle n’est pas, à elle seule, une justification suffisante. Une conclusion peut découler correctement de prémisses qui restent elles-mêmes contestables ou inadéquates à la situation examinée.
+Trois conclusions doivent être distinguées :
 
-7. Les raisons dans les pratiques descriptives
+- la fissure justifie de vérifier plus attentivement l’état de l’arbre ;
+- les éléments disponibles permettent de conclure que l’arbre présente un risque ;
+- le risque constaté justifie une intervention déterminée, par exemple un abattage.
 
-Les raisons interviennent dans des pratiques où les affirmations peuvent être demandées, soutenues, contestées et révisées. Elles ne sont pas de simples événements psychologiques privés : leur fonction dépend des relations dans lesquelles elles peuvent être examinées.
+La première conclusion ne suffit pas nécessairement à établir la deuxième, ni la deuxième à établir la troisième. Chaque passage demande des éléments et des critères adaptés à la question examinée.
 
-Ces pratiques ne reposent pas toutes sur les mêmes ressources. Selon le problème, les raisons mobilisées peuvent s’appuyer sur des observations, des mesures, des témoignages, des documents, des procédures techniques ou des règles institutionnelles.
+Cet exemple montre qu’une raison peut être pertinente sans être suffisante pour toutes les conclusions qu’on voudrait en tirer. Sa portée ne dépend ni de sa seule présence matérielle ni de l’assurance avec laquelle elle est avancée.
 
-La nature de ces ressources ne suffit toutefois pas à déterminer leur portée. Une mesure doit être interprétée ; un témoignage peut être contesté ; une procédure peut être inadaptée au cas examiné. Il faut établir ce que chaque élément permet effectivement de soutenir.
+## 7. Limites et non-conversions
 
-L’examen des raisons suppose ainsi de préciser la question traitée, les éléments invoqués, les critères pertinents et les passages inférentiels qui conduisent à la conclusion défendue.
+L’examen des raisons ne permet pas, à lui seul, d’établir :
 
-Il ne garantit pas que les interlocuteurs parviendront à un accord. Il rend plus explicites les points sur lesquels leur désaccord porte et les conditions auxquelles une position pourrait être maintenue ou révisée.
-
-8. Exemple : le vélo rouge
-
-Un enfant affirme : « Ce vélo est rouge. »
-
-L’analyse peut distinguer plusieurs questions.
-
-La production de l’énoncé peut être étudiée à partir des conditions perceptives, de l’apprentissage et de la situation dans laquelle l’enfant parle. Ces éléments peuvent contribuer à expliquer pourquoi l’énoncé a été produit.
-
-La recevabilité de l’affirmation soulève une autre question : quelles observations et quels critères permettent de soutenir ou de contester l’attribution de la couleur ? L’éclairage, l’état du vélo ou les conditions d’observation peuvent devenir pertinents selon le désaccord rencontré.
-
-Si quelqu’un conteste l’affirmation, il ne suffit pas d’expliquer pourquoi l’enfant l’a prononcée. Il faut examiner les raisons de la contestation et les critères mobilisés pour évaluer l’attribution.
-
-Cet exemple ne suppose pas que l’expérience concrète de l’enfant se réduise à la proposition reconstruite par l’analyse. Il montre seulement que l’explication de la production d’un énoncé et l’examen des raisons qui permettent de le soutenir remplissent des fonctions différentes.
-
-9. Limites
-
-L’analyse des raisons ne permet pas, à elle seule, d’établir :
-
-- que les prémisses mobilisées sont adéquates à la situation décrite ;
+- que les prémisses mobilisées sont adéquates à la situation ;
 - que les critères employés sont pertinents pour le problème ;
 - que toutes les conséquences d’une assertion ont été identifiées ;
-- qu’une justification effectivement proposée est suffisante ;
-- qu’un accord entre interlocuteurs garantit la correction d’une description.
+- qu’une justification proposée est suffisante ;
+- qu’un accord entre interlocuteurs garantit la correction de la conclusion.
 
-Les raisons s’examinent toujours relativement à une question et à des engagements déterminés. Cela ne signifie pas que toute raison se vaut, ni que la correction dépend uniquement de préférences individuelles. La pertinence des raisons et des critères doit elle-même pouvoir être discutée et mise à l’épreuve.
+Il faut notamment éviter les conversions suivantes :
 
-Il faut donc éviter deux réductions symétriques : considérer qu’une explication causale suffit à déterminer ce qu’il est justifié d’affirmer, ou considérer que l’existence d’une justification suffit à établir l’adéquation de l’affirmation à ce qu’elle décrit.
+- **cause → raison** : ce qui explique un événement ne justifie pas automatiquement une conclusion à son sujet ;
+- **motif → raison recevable** : ce qui explique une prise de position ne suffit pas à la défendre ;
+- **raison avancée → raison suffisante** : invoquer une considération ne détermine pas sa portée ;
+- **inférence valide → conclusion adéquate** : la validité du passage inférentiel ne garantit pas l’adéquation des prémisses à la situation ;
+- **accord collectif → correction** : l’acceptation d’une raison ne dispense pas de l’examiner.
 
-10. Articulation avec l’enquête de Protokin
+Ces distinctions ne signifient pas que les raisons dépendent uniquement des préférences individuelles. Leur pertinence peut être discutée, éprouvée et révisée à partir des éléments disponibles et des exigences applicables.
 
-La page porte sur les raisons comme ressources de soutien et de contestation des prises de position. Elle ne remplace pas l’analyse des causes, des critères, des justifications ou des inférences, mais précise leurs rapports.
+## 8. Place dans l’enquête de Protokin
 
-Dans la quadripartition de l’orientation, les raisons interviennent notamment lorsque l’enquête examine comment une description ou une conclusion peut être défendue, contestée ou révisée. Cette orientation ne constitue pas une étape obligatoire : sa pertinence dépend du problème rencontré.
+Les raisons interviennent lorsque l’enquête examine ce qui permet de soutenir, de contester ou de réviser une description ou une conclusion.
 
-L’enquête peut alors examiner :
+Elles sont particulièrement pertinentes pour l’orientation **Justification** de la quadripartition, sans s’y réduire : des raisons peuvent également intervenir dans l’examen des relations entre des assertions, des prémisses et des conclusions.
 
-- quelles raisons sont avancées ;
-- quelles prémisses elles mobilisent ;
-- quelles conclusions elles soutiennent ;
-- quels critères permettent de les évaluer ;
-- quelles objections conduisent à les compléter ou à les abandonner.
+Dans la chaîne d’enquête, leur examen peut contribuer à l’opération **Justifier**. Il ne constitue cependant ni une étape isolée des autres opérations ni une garantie du résultat. Une raison peut conduire à reprendre une distinction, à rechercher de nouveaux éléments ou à redélimiter le problème.
 
-L’examen des raisons contribue ainsi au contrôle des conclusions sans se substituer à l’étude des conditions, des relations ou des fonctions pertinentes.
+La page se concentre sur le rôle des raisons. Pour approfondir les notions voisines :
 
-Synthèse
+- [Inférence](fr/inference.md) — Examiner les transitions qui autorisent, exigent ou excluent des conclusions.
+- [Espace des raisons](fr/espace-des-raisons.md) — Situer les relations entre raisons, conclusions, habilitations et incompatibilités.
+- [Justifications](fr/justifications.md) — Examiner les conditions dans lesquelles une prise de position peut être défendue.
+- [Critère](fr/critere.md) — Préciser les exigences au regard desquelles une description ou une conclusion est évaluée.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Situer l’examen des raisons parmi les quatre orientations de l’enquête.
 
-Une raison est une considération susceptible de soutenir ou de contester une prise de position dans une pratique déterminée.
+## Synthèse
 
-Elle se distingue de la cause qui explique la production d’un phénomène, du motif qui peut expliquer une conduite, du critère qui oriente l’évaluation et de la justification comme activité de défense.
+Une raison est une considération susceptible de soutenir ou de contester une prise de position relativement à une question déterminée.
 
-Expliquer la production d’une affirmation ne suffit pas à la justifier ; avancer une raison ne suffit pas non plus à établir qu’une conclusion est adéquate à ce qu’elle prétend décrire.
+Elle ne se confond ni avec la cause qui explique un phénomène, ni avec le motif qui contribue à expliquer une conduite, ni avec le critère d’évaluation ou l’activité de justification.
+
+**Avancer une raison ne suffit pas à établir sa pertinence ; établir sa pertinence ne suffit pas toujours à établir la conclusion qu’elle soutient.** Son rôle et sa portée doivent être examinés au regard des éléments disponibles, des prémisses mobilisées et de la question traitée.
