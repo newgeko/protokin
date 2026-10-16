@@ -1,413 +1,166 @@
-Le débordement pragmatique de l'assertion
+# Le débordement pragmatique de l’assertion
 
-Fonction
+## 1. Fonction
 
-Cette page précise pourquoi le contenu d'une assertion ne peut pas être réduit à la forme grammaticale de la proposition énoncée.
+Cette page examine l’écart entre l’intention explicite d’un locuteur et les conséquences qu’une assertion peut autoriser dans une pratique discursive.
 
-Une proposition peut être considérée abstraitement comme une unité susceptible d'être affirmée, niée, interrogée, conditionnée ou intégrée à d'autres structures. Mais lorsqu'elle est effectivement assertée dans une pratique, elle n'est plus seulement une forme propositionnelle : elle acquiert une force pragmatique, produit des engagements et des habilitations, entre dans un réseau d'inférences et s'inscrit dans des conditions matérielles et sociales d'utilisation.
+Une assertion peut engager des conséquences que son auteur n’avait pas anticipées. Mais cet écart ne signifie pas que tout ce qu’un interlocuteur peut associer à une phrase devient une conséquence légitime de l’assertion.
 
-Il faut donc distinguer :
+Le problème consiste donc à déterminer **ce qui autorise une conséquence au-delà de l’intention du locuteur, et dans quelles limites**.
 
-«forme propositionnelle ≠ acte d'assertion ≠ portée pragmatique de l'assertion»
+## 2. Problème : l’intention ne détermine pas toute la portée
 
-Cette distinction ne signifie pas que le contenu propositionnel serait indépendant de ses usages. Elle signifie au contraire que son rôle dans une pratique ne peut pas être épuisé par sa seule structure syntaxique.
+Considérons l’assertion :
 
----
+« Cet arbre présente un risque pour l’habitation. »
 
-Forme propositionnelle et force pragmatique
+Le locuteur peut vouloir signaler une inquiétude ou attirer l’attention sur l’état de l’arbre. Son intention ne détermine pourtant pas, à elle seule, les conséquences que d’autres peuvent tirer de son assertion.
 
-Une proposition telle que :
+Selon les connaissances et les règles pertinentes, celle-ci peut autoriser une demande d’inspection, conduire à examiner la stabilité de l’arbre ou rendre certaines affirmations antérieures incompatibles avec les éléments désormais avancés.
 
-«« Le métal est chaud »»
+Ces conséquences ne sont pas équivalentes. Certaines découlent de relations entre contenus ; d’autres dépendent de critères d’évaluation ou de règles propres à une pratique. Une intervention pratique peut, quant à elle, nécessiter des éléments supplémentaires.
 
-peut être considérée indépendamment de la situation dans laquelle elle est énoncée.
+Il faut donc distinguer ce que le locuteur entend faire, ce que son assertion autorise, ce que les autres en tirent effectivement et ce qui peut être justifié.
 
-Elle peut être interrogée :
+## 3. Définition
 
-«« Le métal est-il chaud ? »»
+Le **débordement pragmatique de l’assertion** désigne le fait que les conséquences pertinentes d’une assertion ne se limitent pas à l’intention explicite de son auteur.
 
-placée dans un conditionnel :
+Lorsqu’une assertion entre dans une pratique discursive, elle peut être reprise comme prémisse, mise en relation avec d’autres contenus, confrontée à des engagements antérieurs ou mobilisée pour soutenir une conclusion. Sa portée dépend alors des relations inférentielles, des règles et des conditions d’application pertinentes.
 
-«« Si le métal est chaud, il se dilate »»
+Le débordement n’est donc ni une propriété mystérieuse de la phrase ni une extension indéfinie de son sens. Il désigne un écart déterminé entre l’intention de l’instance qui asserte et les conséquences que son intervention autorise dans une pratique donnée.
 
-ou simplement mentionnée :
+Cet écart doit être établi. Il ne suffit pas qu’une conséquence soit imaginable, utile à un interlocuteur ou effectivement tirée pour qu’elle soit autorisée par l’assertion.
 
-«« “Le métal est chaud” est une proposition. »»
+## 4. Distinguer intention, autorisation et conséquence effective
 
-Dans ces différents cas, la même forme propositionnelle peut être mobilisée sans que le locuteur contracte nécessairement l'engagement correspondant à une assertion.
+Trois questions doivent être séparées.
 
-L'assertion ajoute donc quelque chose qui n'est pas réductible à la syntaxe de la proposition.
+### 4.1. L’intention du locuteur
 
-Lorsqu'un locuteur affirme :
+L’intention renseigne sur ce que le locuteur cherche à exprimer ou à accomplir en produisant son assertion. Elle peut aider à comprendre son intervention et à lever certaines ambiguïtés.
 
-«« Le métal est chaud »»
+Elle ne détermine cependant pas toutes les conséquences de ce qu’il affirme. Un locuteur peut ne pas avoir anticipé une incompatibilité avec un engagement antérieur ou une conséquence pertinente pour la pratique dans laquelle son assertion est reprise.
 
-il ne produit pas seulement une combinaison de termes selon une structure grammaticale. Il s'engage publiquement sur ce qu'il affirme.
+Inversement, le fait qu’il souhaite faire admettre une conclusion ne suffit pas à établir que son assertion autorise cette conclusion.
 
-Cette dimension pragmatique peut être décrite comme une modification du statut du locuteur dans une pratique discursive.
+### 4.2. La conséquence autorisée
 
-Il devient alors possible de lui demander :
+Une conséquence est autorisée lorsqu’une relation pertinente entre contenus, engagements ou règles permet de soutenir le passage de l’assertion à cette conséquence.
 
-«« Comment le savez-vous ? »»
+Cette autorisation peut dépendre de connaissances relatives au contenu des énoncés, de prémisses supplémentaires, de conditions d’application ou de normes propres à une pratique. Elle ne se déduit donc pas de la seule intention du locuteur, mais pas davantage de la seule forme grammaticale de sa phrase.
 
-ou :
+L’autorisation doit être précisée : quelle relation permet le passage ? Quelles prémisses sont nécessaires ? Quelles conditions ou exceptions limitent la conclusion ?
 
-«« Sur quoi fondez-vous cette affirmation ? »»
+### 4.3. La conséquence effectivement tirée
 
-L'assertion introduit ainsi une responsabilité justificative.
+Un interlocuteur peut tirer une conclusion qui n’est pas autorisée par l’assertion. Une conséquence peut aussi être autorisée sans être effectivement tirée par quiconque.
 
----
+Il faut donc distinguer la portée que l’on peut défendre à partir des relations pertinentes et l’usage qu’un participant fait effectivement de l’assertion.
 
-Engagement et habilitation
+Dans l’exemple de l’arbre, l’affirmation qu’il présente un risque peut justifier une demande d’évaluation. Elle ne permet pas, à elle seule, de conclure que l’abattage est nécessaire. Si un interlocuteur en déduit immédiatement qu’il faut abattre l’arbre, il faut examiner les prémisses et les critères supplémentaires qui autoriseraient cette décision.
 
-Dans une pratique inférentielle, une assertion ne produit pas seulement un engagement du locuteur. Elle peut également modifier ce que les autres participants sont habilités à faire avec cette assertion.
+Le débordement pragmatique ne consiste donc pas à attribuer automatiquement au locuteur toutes les conclusions tirées par les autres participants.
 
-Si j'affirme :
+## 5. Engagement du locuteur et habilitation des autres participants
 
-«« Le métal est chaud »,»
+Une assertion peut engager son locuteur et habiliter d’autres participants à l’utiliser dans leurs propres inférences. Ces deux fonctions sont liées, mais distinctes.
 
-je prends en charge cette proposition comme une affirmation que je suis prêt à défendre.
+Le locuteur prend en charge un contenu en l’assertant. Il peut être invité à le préciser, à répondre à une objection ou à justifier les raisons qui le soutiennent. L’étendue de ses engagements dépend toutefois de la portée de son assertion et des règles pertinentes : elle ne se confond pas avec toutes les conclusions qu’un autre participant pourrait en tirer.
 
-Mais d'autres participants peuvent également s'en servir comme prémisse dans une inférence :
+Les autres participants peuvent, de leur côté, reprendre l’assertion comme prémisse, examiner ses conséquences ou contester son application. Cette possibilité ne leur confère pas une autorisation illimitée. Leurs propres inférences doivent également pouvoir être examinées.
 
-«« Le métal est chaud »
-donc
-« Il est dangereux de le toucher à mains nues. »»
+Ainsi, dans une pratique discursive :
 
-La première assertion devient ainsi une ressource pour d'autres opérations discursives et pratiques.
+- une assertion peut engager son auteur au-delà de ce qu’il avait explicitement envisagé ;
+- elle peut autoriser d’autres participants à en tirer certaines conséquences ;
+- elle ne rend pas toutes ces conséquences explicitement imputables à son auteur ;
+- elle ne garantit ni la correction des inférences effectuées ni la justification des décisions qui en découlent.
 
-Il faut cependant éviter de confondre cette relation avec une conséquence automatique.
+L’écart entre intention et portée ne supprime donc pas la responsabilité du locuteur, mais il ne permet pas non plus de lui attribuer indistinctement tous les usages ultérieurs de son assertion.
 
-Le fait qu'une assertion puisse servir de prémisse n'établit pas que toutes les conséquences imaginables deviennent immédiatement des engagements explicites du locuteur.
+## 6. Ce que le débordement n’autorise pas à conclure
 
-Le statut pragmatique d'une assertion dépend des normes et des pratiques inférentielles dans lesquelles elle est employée.
+Le débordement pragmatique ne signifie pas que toutes les conséquences concevables d’une assertion appartiennent à sa portée.
 
-On peut donc parler de deux dimensions complémentaires :
+Pour établir une conséquence, il faut identifier les contenus mis en relation, les engagements pertinents, les règles mobilisées et les conditions dans lesquelles le passage reste recevable.
 
-- engagement : ce que le locuteur prend en charge en assertant ;
-- habilitation : ce que cette assertion permet aux participants de faire ou de soutenir dans le jeu discursif.
+Il faut également distinguer plusieurs questions :
 
-L'assertion modifie ainsi les positions normatives des participants.
+- **Autorisation inférentielle :** la relation entre les contenus permet-elle de tirer cette conclusion ?
+- **Justification :** les raisons, les prémisses et les critères permettent-ils de défendre cette conclusion dans le cas considéré ?
+- **Effet pratique :** quelles conduites cette assertion contribue-t-elle effectivement à orienter ?
+- **Adéquation descriptive :** l’assertion décrit-elle correctement la situation à laquelle elle se rapporte ?
 
----
+Ces questions peuvent dépendre les unes des autres sans se confondre.
 
-Le contenu déborde l'intention du locuteur
+Une conclusion peut être autorisée à partir de prémisses admises sans être suffisamment justifiée si ces prémisses sont inadéquates. Une assertion peut orienter une décision sans que cette décision soit justifiée. Une inférence peut être cohérente sans que la description initiale soit adéquate à ce qu’elle prétend décrire.
 
-Une distinction essentielle pour Protokin est celle entre intention du locuteur et portée inférentielle de l'assertion.
+De même, l’effet causal d’une assertion — par exemple, la peur qu’elle suscite ou la décision qu’elle provoque — ne suffit pas à établir la validité de ses conséquences inférentielles.
 
-Un locuteur peut avoir une intention très limitée en produisant une phrase.
+Le débordement ne transforme donc ni une conséquence autorisée en conclusion nécessairement justifiée, ni un effet produit en raison, ni une description cohérente en description adéquate.
 
-Il peut vouloir simplement signaler :
+## 7. Exemple : du risque à la décision
 
-«« Le métal est chaud. »»
+Une personne affirme : « Cet arbre présente un risque pour l’habitation. »
 
-Il ne contrôle pourtant pas entièrement les conséquences que cette assertion peut avoir dans la pratique.
+Cette assertion peut conduire à examiner l’état du tronc, l’inclinaison de l’arbre, la proximité du bâtiment ou les conditions du sol. Elle peut aussi rendre nécessaire une clarification : de quel risque parle-t-on, sur quelles observations repose l’affirmation et dans quelles conditions ce risque est-il établi ?
 
-Selon le contexte, elle peut entraîner :
+Mais plusieurs passages doivent être distingués.
 
-- la nécessité de justifier l'observation ;
-- l'exclusion de certaines descriptions incompatibles ;
-- des inférences concernant la température ;
-- des précautions pratiques ;
-- une réévaluation d'une hypothèse antérieure ;
-- une contestation de la proposition ;
-- une modification de la conduite.
+L’assertion peut autoriser une demande d’évaluation sans établir que l’arbre doit être abattu. Une observation peut soutenir l’hypothèse d’un risque sans suffire à justifier une mesure particulière. Une décision peut être prise en réponse à l’assertion sans que cette décision soit la conséquence nécessaire de son contenu.
 
-Le locuteur contrôle donc son acte d'assertion, mais ne maîtrise pas souverainement la totalité du rôle que cette assertion prendra dans le réseau discursif.
+Si le locuteur répond qu’il voulait seulement attirer l’attention sur l’arbre, cette intention ne suffit pas à annuler les conséquences que son assertion autorise effectivement. Inversement, si un interlocuteur en conclut qu’un abattage immédiat est obligatoire, cette conclusion ne devient pas recevable du seul fait qu’elle a été tirée.
 
-La formule peut être condensée ainsi :
+L’examen doit donc identifier les relations et les critères qui soutiennent chaque passage, plutôt que de déduire la portée de l’assertion de l’intention initiale ou des effets qu’elle a produits.
 
-«intention du locuteur ≠ portée inférentielle de l'assertion»
+## 8. Place dans l’enquête de Protokin
 
-Cela ne signifie pas que toute conséquence logiquement imaginable constitue automatiquement une conséquence pragmatique effective.
+Le débordement pragmatique intervient lorsque l’enquête doit examiner une conséquence tirée d’une assertion qui excède ce que son auteur avait explicitement envisagé, ou lorsqu’une intention déclarée est invoquée pour écarter une conséquence pourtant pertinente.
 
-Cela signifie que le contenu d'une assertion est déterminé en partie par les relations inférentielles qu'une pratique reconnaît comme pertinentes.
+Il invite à distinguer :
 
-Le contenu n'est donc pas une propriété enfermée dans la phrase.
+- les conditions qui affectent l’application de l’assertion ;
+- les relations qui autorisent ou excluent certaines conséquences ;
+- la fonction exercée par l’assertion dans la pratique ;
+- les raisons et les critères permettant de défendre les conclusions tirées.
 
----
+Ces orientations ne constituent ni quatre composantes de l’assertion ni quatre étapes obligatoires de son analyse. Elles permettent de préciser les questions que soulève le problème rencontré.
 
-Les relations inférentielles en amont et en aval
+L’examen peut notamment conduire à expliciter une prémisse manquante, à identifier une incompatibilité, à contester une inférence ou à réviser la délimitation initiale du problème. Le débordement ne désigne donc pas une phase supplémentaire de la chaîne d’enquête, mais un problème susceptible d’apparaître dans différentes pratiques descriptives.
 
-Le contenu propositionnel peut être considéré comme un nœud dans un réseau de relations.
+## 9. Limites et non-conversions
 
-Certaines relations sont orientées vers l'amont :
+Le débordement pragmatique de l’assertion n’établit pas :
 
-«Qu'est-ce qui autorise cette assertion ?»
+- que l’intention du locuteur est sans importance ;
+- que toutes les conséquences logiquement imaginables sont autorisées ;
+- que toute conséquence tirée par un interlocuteur est imputable au locuteur ;
+- que les conséquences autorisées sont nécessairement justifiées ;
+- que les règles d’une pratique garantissent à elles seules la correction de ses inférences ;
+- que les effets pratiques d’une assertion déterminent son contenu ;
+- que la cohérence d’une inférence garantit l’adéquation de la description à son référent.
 
-D'autres sont orientées vers l'aval :
+Le principe directeur est le suivant : **l’intention ne détermine pas toute la portée d’une assertion, mais la portée ne peut être étendue au-delà des relations et des conditions qui permettent de la défendre.**
 
-«Qu'est-ce que cette assertion permet ou oblige à reconnaître ?»
+## Synthèse
 
-L'assertion se trouve ainsi prise entre :
+Le débordement pragmatique de l’assertion désigne l’écart entre l’intention explicite du locuteur et les conséquences que son assertion peut autoriser dans une pratique discursive.
 
-«justifications → assertion → conséquences inférentielles»
+Il permet de comprendre pourquoi une assertion peut engager plus que ce que son auteur avait anticipé, sans attribuer à celui-ci toutes les conclusions tirées par les autres participants ni étendre indéfiniment le contenu de son intervention.
 
-Le contenu pertinent pour la pratique ne se réduit donc pas à ce qui est explicitement énoncé.
+L’enjeu est de déterminer les relations qui autorisent une conséquence, les conditions qui en limitent la portée et les raisons nécessaires pour la justifier.
 
-Cette structure explique pourquoi deux phrases grammaticalement proches peuvent avoir des rôles pratiques différents, et pourquoi une même proposition peut acquérir des conséquences différentes selon les normes inférentielles du contexte.
+**Intention, conséquence autorisée, conséquence effectivement tirée et justification sont liées, mais ne sont pas interchangeables.**
 
-La question n'est plus seulement :
+### Pour poursuivre
 
-«« Que signifie cette phrase ? »»
-
-mais également :
-
-«« Quel rôle cette assertion joue-t-elle dans les pratiques où elle est employée ? »»
-
-Cette seconde question relève directement de l'inférentialisme pragmatique.
-
----
-
-L'assertion comme acte public
-
-L'assertion possède également une dimension sociale.
-
-Dire quelque chose publiquement, c'est rendre cette affirmation disponible à la contestation, à la reprise et à l'inférence.
-
-Une assertion peut donc être :
-
-- demandée en justification ;
-- contestée ;
-- reprise par un autre locuteur ;
-- utilisée comme prémisse ;
-- reconnue comme incompatible avec une autre assertion ;
-- retirée ou révisée.
-
-L'assertion modifie ainsi l'espace des raisons partagé par les participants.
-
-Cette dimension est importante pour Protokin parce qu'elle empêche de concevoir la description comme une relation privée entre un individu et un référent.
-
-Une description peut être matériellement contrainte par ce qu'elle cherche à décrire, mais lorsqu'elle est formulée comme assertion, elle entre également dans une pratique sociale de justification et de contestation.
-
-Il faut donc distinguer :
-
-«ce qui rend une description adéquate à son référent»
-
-et :
-
-«ce qui rend une assertion recevable dans une pratique discursive.»
-
-Ces deux questions peuvent être liées sans être converties l'une dans l'autre.
-
----
-
-L'ancrage matériel
-
-L'assertion n'est toutefois pas seulement sociale.
-
-Une pratique discursive reste située dans des conditions matérielles.
-
-Pour qu'un agent puisse affirmer qu'un métal est chaud, il faut notamment qu'il puisse effectuer certaines discriminations, disposer de moyens d'observation ou de mesure appropriés et être en mesure d'utiliser des critères permettant de distinguer différents états du matériau.
-
-Ces conditions ne constituent pas elles-mêmes la signification de l'assertion.
-
-Elles constituent des conditions de son application et de son évaluation.
-
-Cette distinction est essentielle :
-
-«condition d'application ≠ contenu propositionnel»
-
-et :
-
-«condition matérielle ≠ justification normative»
-
-Une mesure peut contribuer à justifier une assertion sans devenir elle-même l'assertion.
-
-Une contrainte matérielle peut rendre une conduite impossible sans constituer une prescription.
-
-Un événement peut provoquer une croyance sans constituer, à lui seul, une raison reconnue dans la pratique.
-
-Le principe de non-conversion reste donc pleinement applicable.
-
----
-
-De l'entrée linguistique à la sortie pratique
-
-La conception sellarsienne permet de décrire cette articulation à partir de différentes transitions.
-
-Une pratique peut relier :
-
-«entrée perceptive → traitement conceptuel → inférence → sortie pratique»
-
-Une perception ou une mesure peut fournir une condition d'entrée dans une pratique linguistique.
-
-Cette entrée peut être articulée à une assertion.
-
-L'assertion peut ensuite entrer dans des relations inférentielles avec d'autres propositions.
-
-Ces inférences peuvent enfin participer à l'orientation d'une conduite.
-
-Mais cette chaîne ne doit pas être comprise comme une transformation mécanique :
-
-«perception → proposition vraie → devoir → action»
-
-Une telle formulation réintroduirait précisément la conversion que Protokin cherche à éviter.
-
-Il faut plutôt distinguer les fonctions :
-
-«ancrage matériel → articulation descriptive → inférence → justification → orientation pratique»
-
-Chaque étape dépend des précédentes sans pouvoir être réduite à leur fonction.
-
----
-
-Le débordement n'est donc pas une expansion infinie
-
-Dire que l'assertion déborde sa forme propositionnelle ne signifie pas que son contenu serait indéfiniment extensible.
-
-Le débordement est fonctionnellement déterminé.
-
-Il comprend les engagements, habilitations, incompatibilités et conséquences qui deviennent pertinentes dans une pratique donnée.
-
-Il ne signifie pas que tout ce que l'on pourrait associer à une phrase appartient à son contenu.
-
-Cette précision est importante pour éviter une conception vague du « contexte ».
-
-Le contexte ne constitue pas arbitrairement le référent.
-
-Il détermine notamment quelles relations inférentielles, quelles conditions d'application et quelles conséquences pratiques deviennent pertinentes pour l'usage de l'assertion.
-
-On retrouve ici une distinction fondamentale de Protokin :
-
-«le contexte n'est pas le référent.»
-
-Une assertion peut être située dans un contexte matériel, social et discursif sans que ce contexte constitue ce dont elle parle.
-
----
-
-Du contenu au statut
-
-Il faut donc distinguer au moins quatre dimensions :
-
-Le contenu propositionnel
-
-Ce qui peut être formulé sous une structure propositionnelle déterminée.
-
-La force pragmatique
-
-Le statut de l'énoncé dans l'acte accompli par le locuteur : assertion, question, hypothèse, conditionnel, etc.
-
-Le statut normatif
-
-Les engagements, habilitations et responsabilités associés à cet acte dans une pratique donnée.
-
-La portée inférentielle et pratique
-
-Les relations que l'assertion entretient avec d'autres propositions et les conduites auxquelles ces relations peuvent contribuer.
-
-Ces dimensions sont dépendantes mais non identiques.
-
-«forme ≠ force ≠ statut ≠ portée»
-
-Cette distinction permet d'éviter deux réductions symétriques.
-
-La première réduit l'assertion à sa forme grammaticale.
-
-La seconde réduit le contenu propositionnel à l'ensemble indéfini de ses usages.
-
-Protokin cherche à maintenir l'articulation sans supprimer les différences fonctionnelles.
-
----
-
-Conséquence pour la description
-
-Cette analyse modifie également le statut de la description dans Protokin.
-
-Une description n'est pas une proposition isolée qui représenterait passivement une réalité extérieure.
-
-Lorsqu'elle est effectivement utilisée, elle participe à une pratique dans laquelle des agents :
-
-- distinguent ;
-- identifient ;
-- infèrent ;
-- justifient ;
-- contestent ;
-- coordonnent ;
-- agissent ;
-- révisent.
-
-Le contenu descriptif peut donc être matériellement contraint et discursivement normé sans que l'un de ces registres soit réductible à l'autre.
-
-Une description peut être inadéquate à ce qu'elle prétend décrire.
-
-Une assertion peut être insuffisamment justifiée.
-
-Une inférence peut être invalide.
-
-Une conduite peut être injustifiable.
-
-Ces erreurs ne sont pas du même type.
-
-La non-conversion exige précisément de pouvoir les distinguer.
-
----
-
-Relation avec la normativité
-
-Cette analyse complète la thèse selon laquelle la description ne suffit pas.
-
-La normativité ne surgit pas seulement lorsqu'un agent formule explicitement une prescription.
-
-Elle est déjà présente dans le statut pragmatique de l'assertion : pouvoir être tenu responsable d'une affirmation, devoir pouvoir la justifier, être soumis à certaines conséquences inférentielles et rendre cette affirmation disponible à la contestation.
-
-Mais cette normativité discursive ne se confond pas davantage avec la normativité pratique.
-
-Il faut donc distinguer :
-
-«normes de correction de l'assertion»
-
-«normes d'engagement et de justification»
-
-«normes d'orientation de la conduite»
-
-Elles peuvent se soutenir mutuellement sans être convertibles.
-
-Une assertion peut être correctement formée mais fausse.
-
-Elle peut être vraie mais insuffisamment justifiée dans une situation donnée.
-
-Elle peut être correctement justifiée sans déterminer à elle seule ce qu'il faut faire.
-
-L'enquête doit pouvoir parcourir ces différences.
-
----
-
-N'établit pas
-
-Cette page n'établit pas que :
-
-- le sens d'une proposition se réduit à ses conséquences pratiques ;
-- l'intention du locuteur est sans importance ;
-- toutes les conséquences logiques d'une proposition constituent des engagements effectifs ;
-- le langage constitue le référent ;
-- les conditions matérielles déterminent à elles seules le contenu ;
-- toute assertion produit immédiatement une prescription ;
-- le normatif peut être réduit au discursif.
-
-Elle établit seulement que l'assertion effectivement produite dans une pratique possède un statut qui excède sa seule forme propositionnelle.
-
----
-
-Synthèse
-
-Une proposition peut être considérée comme une structure de contenu. Une assertion est l'usage de cette structure dans une pratique.
-
-Cet usage lui confère une force pragmatique et la place dans un réseau d'engagements, d'habilitations, de justifications et de conséquences.
-
-Le contenu pratiquement pertinent d'une assertion n'est donc pas enfermé dans la phrase qui la formule.
-
-«La forme propositionnelle organise localement le contenu ; l'assertion lui confère un statut ; les pratiques inférentielles en déterminent la portée ; les conditions matérielles et sociales contraignent son application.»
-
-Il faut cependant maintenir les distinctions :
-
-«proposition ≠ assertion
-contenu ≠ force
-intention ≠ portée inférentielle
-condition d'application ≠ justification
-description ≠ prescription
-référent ≠ contexte»
-
-Le débordement pragmatique de l'assertion ne constitue donc pas une dissolution des frontières entre ces fonctions.
-
-Il montre au contraire pourquoi ces frontières doivent être maintenues : l'assertion dépasse sa forme précisément parce qu'elle entre dans un réseau de relations dont les fonctions ne peuvent pas être converties les unes dans les autres.
+- [Assertion](fr/assertion.md)
+- [Locuteur](fr/locuteur.md)
+- [Auditeur](fr/auditeur.md)
+- [Proposition](fr/proposition.md)
+- [Inférence](fr/inference.md)
+- [La portée inférentielle](fr/la-portee-inferentielle.md)
+- [Espace des raisons](fr/espace-des-raisons.md)
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
