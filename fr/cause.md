@@ -1,4 +1,4 @@
-Causes — Expliquer les phénomènes
+Cause — Expliquer les phénomènes
 
 Fonction
 
