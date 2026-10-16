@@ -63,7 +63,7 @@ La référence concerne la manière dont une pratique descriptive vise quelque c
 
 Cette distinction évite de confondre la relation établie dans une pratique avec ce qui est visé par cette relation. Les usages linguistiques, les conventions, le contexte et les critères d’identification peuvent contribuer à déterminer ce dont il est question, sans que le référent se réduise à ces ressources.
 
-Voir [Relation sémantique et référence](relation-semantique-et-reference.md).
+Voir [Relation sémantique et référence](fr/relation-semantique-et-reference.md).
 
 ### 4.4. Identification et jugement d’identité
 
