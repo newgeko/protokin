@@ -1,112 +1,127 @@
-Reconstituer — Rendre le cheminement de l’enquête explicite
+# Reconstituer — Rendre le cheminement de l’enquête explicite
 
-Fonction
+## 1. Fonction
 
-Reconstituer consiste à reprendre les opérations, les distinctions, les relations et les justifications qui ont conduit à une configuration descriptive retenue.
+Reconstituer consiste à reprendre le cheminement d’une enquête afin de rendre explicites les opérations, les appuis, les distinctions et les justifications qui ont conduit aux résultats retenus.
 
-L’opération rend examinable le cheminement de l’enquête : ce qui a été établi, sur quels appuis, au moyen de quelles inférences et avec quelles limites.
+L’opération permet de comprendre comment une description a été élaborée, transformée et défendue, mais aussi d’identifier les incertitudes et les limites qui demeurent.
 
-Problème
+Elle ne vise pas à raconter simplement ce qui s’est passé. Elle rend le cheminement suffisamment explicite pour qu’il puisse être examiné, contesté ou repris.
 
-Une enquête peut aboutir à une description défendable sans que son cheminement soit suffisamment explicite pour être repris ou contesté.
+## 2. Problème
 
-Des distinctions peuvent avoir été modifiées en cours d'examen, certaines hypothèses abandonnées, des critères révisés ou des relations nouvellement établies. Si ces transformations restent implicites, il devient difficile de comprendre pourquoi la description retenue a été préférée à d'autres possibilités.
+Une enquête peut aboutir à une conclusion sans que les transformations qui y ont conduit soient suffisamment visibles.
 
-Le résultat final ne suffit donc pas à rendre compte de l'enquête qui y a conduit.
+Une distinction a pu être reformulée, une hypothèse abandonnée, un critère révisé ou une dépendance nouvellement identifiée. Si ces modifications restent implicites, il devient difficile de comprendre pourquoi le résultat a été retenu et dans quelles conditions il pourrait être remis en question.
 
-Reconstituer répond à cette difficulté. Il ne s'agit ni de raconter simplement les événements dans leur ordre chronologique, ni de reconstruire une chaîne causale supposée expliquer mécaniquement le résultat. Il s'agit de rendre explicites les opérations et les dépendances qui permettent de comprendre comment la description a été élaborée et justifiée.
+Le résultat final ne suffit donc pas à rendre compte du travail qui l’a rendu possible.
 
-Définition
+Reconstituer répond à cette difficulté. Il ne s’agit ni de restituer nécessairement une chronologie complète, ni de reconstruire une chaîne causale qui expliquerait mécaniquement le résultat. Il s’agit de rendre visibles les passages pertinents entre les éléments examinés, les opérations réalisées et les conclusions soutenues.
 
-Reconstituer consiste à reconstruire le cheminement descriptif en identifiant :
+## 3. Définition opérationnelle
 
-- les délimitations successives du problème ;
-- les conditions et les appuis mobilisés ;
-- les distinctions établies, abandonnées ou reformulées ;
-- les relations et les dépendances examinées ;
-- les configurations envisagées et retenues ;
-- les raisons et les critères mobilisés pour défendre les résultats ;
-- les incertitudes, les limites et les possibilités de révision qui demeurent.
+Reconstituer, c’est reconstruire le cheminement descriptif en distinguant :
 
-La reconstitution porte sur les opérations effectives de l'enquête et sur les raisons qui permettent d'en rendre compte. Elle ne doit pas attribuer rétrospectivement à l'enquête une nécessité ou une cohérence que son déroulement ne permet pas d'établir.
+- **Les appuis** : observations, documents, traces et autres éléments mobilisés.
+- **Les transformations** : distinctions reformulées, hypothèses abandonnées, relations réexaminées ou critères modifiés.
+- **Les passages inférentiels** : les étapes par lesquelles certains éléments ont été mobilisés pour soutenir des conclusions.
+- **Les justifications** : les raisons et les critères invoqués pour défendre les choix effectués.
+- **Les limites** : les incertitudes, les alternatives non examinées et les questions qui restent ouvertes.
 
-Elle distingue notamment ce qui a été observé, ce qui a été inféré, ce qui a été retenu comme hypothèse et ce qui a été justifié.
+Cette reconstruction doit distinguer ce qui a été observé, ce qui a été inféré, ce qui a été retenu provisoirement et ce qui a effectivement été justifié.
 
-Opération
+Elle porte sur le cheminement que les éléments disponibles permettent de documenter. Elle ne doit pas attribuer rétrospectivement à l’enquête une nécessité, une cohérence ou une intention que ces éléments ne permettent pas d’établir.
 
-L'opération de reconstitution consiste à :
+## 4. Conditions d’activation
 
-1. Reprendre le problème : préciser la difficulté initiale et les transformations de sa délimitation.
-2. Retracer les appuis : identifier les observations, les documents, les traces, les instruments et les conditions mobilisés.
-3. Expliciter les distinctions : établir quelles différences ont été maintenues, modifiées ou abandonnées.
-4. Reconstruire les dépendances : préciser les relations entre les éléments retenus et les médiations nécessaires aux passages inférentiels.
-5. Examiner les choix descriptifs : rendre explicites les raisons et les critères qui ont conduit à retenir une configuration plutôt qu'une autre.
-6. Délimiter les résultats : distinguer ce qui est établi, ce qui reste hypothétique et ce qui demanderait une nouvelle épreuve.
+La reconstitution devient pertinente lorsque le résultat d’une enquête doit être rendu intelligible, contrôlé ou transmis, notamment lorsque :
 
-Ces opérations ne constituent pas nécessairement une succession chronologique. Leur ordre dépend du problème et des éléments qu'il faut reprendre pour rendre l'enquête intelligible.
+- plusieurs versions d’une description se sont succédé ;
+- des hypothèses ou des critères ont été modifiés ;
+- les raisons d’un choix restent implicites ;
+- une conclusion dépend d’inférences dont les prémisses doivent être retrouvées ;
+- un résultat est contesté et son cheminement doit être réexaminé ;
+- une enquête doit être reprise dans des conditions nouvelles.
 
-Reconstitution et quadripartition
+Elle peut également révéler qu’il manque des éléments pour comprendre le résultat. Dans ce cas, reconstituer ne consiste pas à combler les lacunes par des suppositions, mais à les identifier comme telles.
 
-La reconstitution reprend les quatre dimensions de l'enquête sans les confondre.
+## 5. Questions d’examen
 
-Dimension| Question de reconstitution
-Condition| Quelles conditions ont rendu l'enquête possible, l'ont limitée ou ont imposé une révision ?
-Relation| Quelles dépendances ont été établies, modifiées ou laissées indéterminées ?
-Fonction| Quel rôle les éléments et les configurations ont-ils effectivement joué dans la pratique examinée ?
-Justification| Quelles raisons et quels critères ont permis de soutenir, de contester ou de réviser les descriptions ?
+Pour reconstituer une enquête, il faut notamment se demander :
 
-La reconstitution ne réduit pas le cheminement à une seule de ces dimensions.
+1. **Quel problème a été examiné ?** Comment sa délimitation a-t-elle évolué ?
+2. **Sur quels appuis l’enquête s’est-elle fondée ?** Quels éléments ont été observés, recueillis ou écartés ?
+3. **Quelles distinctions ont été retenues ou modifiées ?** Quelles difficultés ont motivé ces changements ?
+4. **Quels passages ont conduit aux conclusions ?** Quelles prémisses, relations et inférences ont été mobilisées ?
+5. **Pourquoi certaines possibilités ont-elles été préférées à d’autres ?** Quelles raisons et quels critères ont soutenu ces choix ?
+6. **Qu’est-ce qui demeure incertain ?** Quels éléments manquent, quelles alternatives restent ouvertes et quelles conclusions demanderaient une nouvelle épreuve ?
 
-L'origine d'une distinction ne suffit pas à la justifier. Une contrainte rencontrée ne détermine pas à elle seule la description à retenir. Le fonctionnement d'une configuration ne prouve pas son adéquation. Une justification recevable ne dispense pas de reprendre les conditions et les relations sur lesquelles elle repose.
+Ces questions ne prescrivent pas un ordre obligatoire. Elles servent à retrouver les éléments nécessaires à l’intelligibilité du cheminement étudié.
 
-Reconstituer les transformations
+## 6. Exemple d’application
 
-Une enquête ne suit pas nécessairement un parcours linéaire. Un résultat peut conduire à modifier une distinction antérieure ; une comparaison peut révéler une dépendance négligée ; une difficulté de justification peut imposer de reprendre l'ancrage ou la délimitation du problème.
+Un rapport signale une fissure dans un bâtiment et conclut à la nécessité d’une intervention.
 
-La reconstitution doit donc rendre visibles les transformations qui ont affecté l'enquête.
+La reconstitution ne consiste pas seulement à résumer le rapport. Elle cherche à comprendre comment la conclusion a été élaborée : quels éléments ont été observés, comment la fissure a été caractérisée, quels critères ont servi à évaluer le risque et comment ces éléments ont conduit à recommander une intervention.
 
-Elle peut notamment distinguer :
+L’examen peut révéler que la conclusion s’appuie sur une observation pertinente, mais aussi qu’un critère a été appliqué sans explication suffisante ou qu’une hypothèse alternative n’a pas été examinée.
 
-- une modification des appuis disponibles ;
-- une révision des catégories ou des distinctions ;
-- une relation nouvellement établie ;
-- un changement dans la fonction d'un élément ;
-- une révision des critères de justification ;
-- une modification de la portée de la conclusion.
+Il devient alors possible de distinguer ce que le rapport établit, ce qu’il suppose et ce qui reste à vérifier. La reconstitution ne décide pas à elle seule si l’intervention est justifiée : elle rend le raisonnement accessible à un examen complémentaire.
 
-Ces transformations ne sont pas équivalentes. Elles doivent être rapportées aux opérations concernées et aux conséquences qu'elles produisent sur le reste de l'enquête.
+## 7. Ce que l’opération permet d’établir
 
-Reconstituer permet ainsi de distinguer une simple reformulation d'une modification qui affecte réellement les résultats ou leurs conditions de validité.
+Reconstituer permet de :
 
-Prépare
+- rendre explicites les appuis et les transformations de l’enquête ;
+- retrouver les passages entre les éléments examinés et les conclusions ;
+- identifier les raisons et les critères mobilisés ;
+- distinguer les résultats établis des hypothèses et des points indéterminés ;
+- repérer les ruptures, les dépendances insuffisamment étayées et les alternatives négligées ;
+- déterminer quelles parties du cheminement doivent être reprises pour examiner une difficulté.
 
-La reconstitution prépare la redélimitation.
+La reconstitution fournit ainsi une représentation révisable du cheminement de l’enquête, et non une explication exhaustive de tout ce qui a contribué au résultat.
 
-En rendant visibles les résultats, les dépendances et les limites de l'enquête, elle permet de déterminer si le problème initial demeure pertinent, s'il doit être précisé ou si les résultats font apparaître une difficulté nouvelle.
+## 8. Ce que l’opération n’établit pas
 
-La redélimitation ne découle pas automatiquement de la reconstitution. Elle exige d'examiner ce que le cheminement établi permet désormais de soutenir et ce qu'il laisse encore ouvert.
-
-N'établit pas
-
-Reconstituer n'établit pas automatiquement :
+Reconstituer n’établit pas automatiquement :
 
 - que le cheminement suivi était nécessaire ;
 - que toutes les opérations pertinentes ont été réalisées ;
-- que les résultats sont vrais ou adéquats ;
-- que les décisions prises étaient les seules possibles ;
-- que les éléments non documentés n'ont joué aucun rôle ;
-- que la description retenue ne devra plus être révisée.
+- que le résultat est vrai ou adéquat ;
+- que les choix effectués étaient les seuls possibles ;
+- que tous les facteurs ayant contribué à l’enquête sont connus ;
+- que les conclusions ne devront plus être révisées.
 
-La reconstitution peut rendre une enquête plus intelligible sans garantir sa réussite. Elle peut aussi révéler une rupture dans le raisonnement, une dépendance insuffisamment étayée, un critère appliqué de manière incohérente ou une alternative qui n'a pas été examinée.
+Une reconstruction cohérente peut masquer une lacune si elle restitue le cheminement comme s’il avait toujours conduit au résultat retenu. Il faut donc distinguer la cohérence du récit rétrospectif et la solidité des raisons qui soutiennent les conclusions.
 
-Elle doit conserver ces difficultés au lieu de les effacer au profit d'un récit rétrospectif parfaitement ordonné.
+La reconstitution doit préserver les incertitudes et les ruptures documentées, plutôt que les effacer au profit d’un parcours artificiellement continu.
 
-Synthèse
+## 9. Articulation avec les autres opérations
 
-Reconstituer, c'est rendre explicite le cheminement par lequel une enquête a élaboré, transformé et justifié une configuration descriptive.
+Reconstituer mobilise les résultats des autres opérations sans se substituer à elles.
 
-L'opération relie les résultats aux appuis, aux distinctions, aux inférences et aux critères qui permettent de les examiner. Elle rend également visibles les ruptures, les incertitudes et les possibilités de reprise.
+- **Délimiter** permet de retrouver le problème initial et les modifications de sa portée.
+- **Ancrer** permet d’identifier les appuis et les conditions retenus.
+- **Distinguer** permet de repérer les différences maintenues, reformulées ou abandonnées.
+- **Relier** et **Configurer** permettent de reprendre les dépendances et leur organisation.
+- **Justifier** permet d’examiner les raisons et les critères soutenant les conclusions.
+- **Redélimiter** permet de reformuler le problème lorsque la reconstruction fait apparaître une difficulté nouvelle ou une limite du problème initial.
 
-La reconstitution ne constitue pas une clôture. Elle fournit les éléments nécessaires pour déterminer ce qui peut être maintenu, ce qui doit être révisé et ce qui appelle une nouvelle délimitation.
+Ces relations ne définissent pas une succession obligatoire. Une reconstitution peut conduire à reprendre une opération antérieure, notamment lorsqu’un passage inférentiel reste inexpliqué ou qu’une distinction s’avère insuffisante.
 
-Justifier examine les raisons de soutenir les résultats. Reconstituer rend explicite le cheminement qui y a conduit. Redélimiter reprend le problème à la lumière de ce cheminement.
+La reconstitution se distingue ainsi de la justification : **Justifier examine les raisons de soutenir une conclusion ; Reconstituer rend explicite le cheminement par lequel cette conclusion a été élaborée et défendue.**
+
+## Synthèse
+
+Reconstituer, c’est rendre le cheminement d’une enquête intelligible et réexaminable en reliant ses résultats aux appuis, aux transformations, aux inférences et aux justifications qui les soutiennent.
+
+Cette opération ne transforme pas le parcours suivi en procédure nécessaire et ne garantit pas la validité des résultats. Elle rend visibles ce qui a été établi, ce qui reste incertain et ce qui doit éventuellement être repris.
+
+La reconstitution prépare ainsi la redélimitation, sans l’imposer : l’examen du cheminement peut confirmer la pertinence du problème initial, conduire à en préciser la portée ou faire apparaître une difficulté nouvelle.
+
+Pour poursuivre :
+
+- [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md)
+- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md)
+- [Justifier](justifier.md)
+- [Redélimiter](redelimiter.md)
