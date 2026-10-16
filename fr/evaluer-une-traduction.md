@@ -1,295 +1,198 @@
-# Page : evaluer-une-traduction.md
+# Évaluer une traduction — Examiner la portée d’un passage descriptif
 
-Évaluer une traduction — Protocole d'évaluation clinique des connecteurs inter-régimes
+## 1. Objet de l’examen
 
-Analyse architecturale de la page
+Évaluer une traduction consiste à examiner les correspondances établies entre deux descriptions, les transformations produites par leur mise en relation et les limites du passage proposé.
 
-1. Fonction unique de la page
+Cette opération intervient lorsqu’une description est reformulée dans un autre vocabulaire, mobilisée dans une autre pratique ou reprise selon des critères différents. Elle vise à déterminer ce que ce passage permet de conserver, ce qu’il modifie et ce qu’il ne permet plus d’établir.
 
-Cette page existe pour établir le protocole méthodologique de second ordre par lequel l'audit de Protokin évalue la fidélité, le coût d'inférence et la légitimité des connecteurs conceptuels et des équivalences établis entre deux régimes descriptifs hétérogènes.
+L’évaluation ne remplace pas l’opération de traduction. Elle examine la pertinence de ses résultats au regard d’un problème déterminé.
 
-2. Choix du mode de développement
+## 2. Problème
 
-· Mode retenu : Mode C — Développement opératoire.
-· Justification : Évaluer une traduction est une opération d'audit de second ordre. Elle exige de détailler la séquence des étapes cliniques d'examen (le quoi, le pourquoi, le comment, les conditions de passage et de contrôle) qui permettent de mesurer la perte inférentielle, de vérifier l'étanchéité des cadres de redevabilité et d'enregistrer de manière traçable l'usure sémantique.
+Deux descriptions peuvent porter sur une même situation sans remplir la même fonction ni autoriser les mêmes conclusions.
 
-3. Problème conceptuel
+Le passage de l’une à l’autre peut rendre certains éléments plus accessibles, mais aussi modifier les distinctions retenues, les conséquences admises ou les critères mobilisés. Une formulation apparemment équivalente peut ainsi introduire une différence importante dans ce qu’il devient possible d’affirmer ou de justifier.
 
-Comment évaluer, contrôler et réguler de manière immanente les déplacements conceptuels entre régimes de justification hétérogènes sans postuler une traduction idéale transparente (illusion de synonymie complète) ni s'en remettre à une condamnation extrinsèque, de manière à préserver l'étanchéité des conditions de validité de chaque cadre tout en autorisant leur coordination pratique ?
+La difficulté consiste à examiner ces transformations sans supposer une équivalence complète entre les descriptions ni conclure d’avance qu’elles sont incompatibles.
 
-4. Objet propre
+**Question directrice :** que permet effectivement d’établir la traduction proposée, et sous quelles conditions ses résultats peuvent-ils être repris dans l’autre pratique descriptive ?
 
-· Cette page traite de : la procédure critique et opératoire d'audit pour évaluer une traduction inter-régime, la mesure de la perte inférentielle (l'archivage des limites et les zones de silence), l'application du critère de vigilance immanente, et la distinction entre traduction légitime, réduction unilatérale et éclectisme laxiste.
-· Cette page ne traite pas de : la définition conceptuelle générale de la traduction en elle-même (développée dans traduction.md), de la compatibilité passive (développée dans compatibilites.md), ni de la méthode générale d'audit global d'une situation de terrain (développée dans realiser-un-audit.md).
+## 3. Conditions d’application
 
-5. Statut conceptuel
+L’évaluation devient pertinente lorsqu’au moins une des situations suivantes se présente :
 
-Il s'agit d'un outil d'analyse et d'une méthode d'enquête de second ordre, appartenant à la section 08 — Méthode Protokin de la métathéorie.
+- une description est reformulée pour être utilisée dans une autre pratique ;
+- une correspondance entre deux termes ou deux catégories est proposée ;
+- une conclusion est transférée d’un cadre descriptif à un autre ;
+- un désaccord apparaît sur ce qui a été conservé ou modifié dans le passage ;
+- une description traduite semble autoriser une conclusion que la description initiale ne soutenait pas de la même manière.
 
-6. Dépendances fonctionnelles
+L’évaluation suppose que l’on puisse identifier, au moins provisoirement, la description de départ, la description d’arrivée et le passage proposé entre elles. Si ces éléments restent indéterminés, l’enquête doit d’abord préciser ce qui est mis en relation.
 
-Cette page suppose :
+## 4. Procédure d’évaluation
 
-· traduction.md (l'opération de médiation réglée et de négociation des engagements) ;
-· regime-descriptif.md (le cadre normatif de redevabilité) ;
-· engagements-descriptifs.md (la structure des obligations inférentielles) ;
-· inferences.md (les chemins de conséquence discursive) ;
-· audit.md et enquete.md (la dynamique de résolution des situations problématiques).
+L’évaluation peut être conduite à partir de cinq examens. Ils constituent des points de contrôle, et non des étapes obligatoirement successives. Selon le problème, certains peuvent être conduits conjointement ou repris après une première analyse.
 
-Cette page rend possible :
+### 4.1. Délimiter le passage proposé
 
-· realiser-un-audit.md (l'application pratique sur un terrain d'enquête) ;
-· ecologie-des-regimes-descriptifs.md (la coexistence réflexive des cadres de dicibilité) ;
-· La résorption des tensions.md et des controverses.md inter-régimes ;
-· L'évaluation de la puissance-descriptive.md reconstruite après traduction.
+Identifier les éléments que la traduction met en correspondance et préciser son objectif.
 
-7. Frontières conceptuelles
+Questions à poser :
 
-Évaluer une traduction et Traduire
+- Quelles descriptions sont mises en relation ?
+- Quel élément, terme, résultat ou conclusion est transféré ?
+- À quelle fin le passage est-il proposé ?
+- S’agit-il d’une reformulation, d’une correspondance partielle ou d’une équivalence plus forte ?
 
-La différence porte sur la fonction d'audit. traduction.md pose le connecteur dynamique et l'opération de second ordre de médiation conceptuelle. evaluer-une-traduction.md fournit l'opération critique d'audit qui examine, mesure, valide ou invalide la viabilité et le coût logique de ce connecteur au cours de l'enquête.
+Une ressemblance de vocabulaire ne suffit pas à établir une correspondance fonctionnelle. Le passage doit être décrit assez précisément pour que ses conséquences puissent être examinées.
 
-Évaluer une traduction et Réaliser un audit global
+### 4.2. Examiner les correspondances
 
-L'évaluation de traduction est un outil critique ciblé sur la viabilité inférentielle d'un passage inter-régime. L'audit global, lui, radiographie l'ensemble d'une pratique, de ses supports matériels à ses modes de sédimentation.
+Déterminer quels éléments restent identifiables dans la description d’arrivée et sous quelles conditions.
 
-8. Architecture locale
+Questions à poser :
 
-```
-            traduction.md (Section 05)
-                 │
-                 ▼
-     ÉVALUER UNE TRADUCTION (Section 08)
-                 │
-                 ▼
-         realiser-un-audit.md (Section 08)
-```
+- Le même élément ou la même situation est-il visé ?
+- Les distinctions pertinentes dans la description de départ restent-elles disponibles ?
+- Les termes employés remplissent-ils des fonctions comparables ?
+- Une correspondance locale est-elle présentée à tort comme une équivalence générale ?
 
----
+Il faut distinguer la continuité de ce dont les descriptions parlent de l’identité de leurs contenus, de leurs fonctions ou de leurs critères. Une correspondance peut être suffisante pour un usage précis sans établir une équivalence complète.
 
-Fonction
+### 4.3. Examiner les transformations
 
-Dans l'architecture de Protokin, évaluer une traduction désigne l'opération critique et opératoire de second ordre par laquelle l'audit mesure la fidélité, le coût inférentiel et la légitimité des connecteurs conceptuels et des équivalences établis entre deux régimes descriptifs hétérogènes. Cette procédure permet d'analyser ce qui est conservé, ce qui est transformé et ce qui devient incompatible lors du passage d'un cadre normatif à un autre, garantissant que la circulation des informations discursives ne détruise pas l'autonomie ni l'étanchéité des critères d'évaluation de chaque juridiction de justification.
+Repérer ce que le passage modifie dans la description, dans son usage ou dans les conclusions qu’elle autorise.
 
----
+Questions à poser :
 
-Problème conceptuel inaugural
+- Quels éléments sont reformulés, regroupés ou écartés ?
+- Les critères permettant d’accepter ou de contester une affirmation changent-ils ?
+- Certaines conséquences deviennent-elles disponibles, tandis que d’autres ne le sont plus ?
+- Une fonction propre à la description de départ est-elle modifiée dans la description d’arrivée ?
 
-Nos descriptions du monde ne flottent pas dans une neutralité absolue : elles s'inscrivent toujours au sein de régimes descriptifs autonomes, dotés de leurs propres critères de validité, de leurs réseaux d'inférences et de leurs règles de justification. Lorsqu'une situation problématique exige de faire circuler des informations entre des espaces de raisons hétérogènes, les locuteurs effectuent des déplacements conceptuels. Cependant, sans un examen méthodique et réflexif de ces passages, la relation entre régimes dégénère fréquemment dans des pathologies sémantiques destructrices :
+Une transformation n’est pas nécessairement une erreur. Elle doit toutefois être explicitée lorsque ses effets sont pertinents pour le problème traité.
 
-· La réduction unilatérale : L'absorption violente d'un régime par un autre (comme l'aplatissement des raisons morales ou cliniques sur de simples causes physiques ou comptables).
-· L'éclectisme laxiste : La juxtaposition indifférenciée de critères hétérogènes qui détruit la clarté et la rigueur de la justification publique.
-· L'illusion de synonymie complète : L'affirmation naïve selon laquelle un terme conserve exactement le même sens et la même portée lorsqu'il change de cadre d'application.
+### 4.4. Examiner les conséquences et les limites
 
-Dès lors, la question s'impose :
+Comparer ce que les deux descriptions permettent d’affirmer, de conclure ou de justifier.
 
-Comment évaluer et réguler de manière immanente les traductions conceptuelles entre régimes descriptifs sans s'ériger en tribunal extérieur, de manière à mesurer le coût logique d'un déplacement, à expliciter la perte inférentielle subie et à valider la viabilité pratique du connecteur ?
+Questions à poser :
 
-Protokin résout cette difficulté par l'opération d'évaluation d'une traduction. Elle ne cherche pas à entraver les passages conceptuels — qui sont nécessaires au développement des connaissances —, mais à en dresser le bilan méthodique pour que le calcul déontique collectif demeure contrôlé, transparent et révisable.
+- Quelles conclusions peuvent être reprises dans la description d’arrivée ?
+- Les prémisses et les règles qui autorisaient ces conclusions restent-elles pertinentes ?
+- Quelles conséquences ne peuvent plus être établies de la même manière ?
+- Des conclusions nouvelles apparaissent-elles, et sur quelles bases ?
+- Quelles incertitudes ou différences doivent rester explicites ?
 
----
+Une conséquence autorisée dans un cadre ne devient pas automatiquement justifiée dans un autre. Il faut examiner les prémisses, les règles d’inférence et les critères pertinents pour le nouveau problème.
 
-Définition fonctionnelle
+Les éléments qui ne trouvent pas de correspondance doivent être consignés lorsqu’ils affectent l’interprétation ou la décision. Ils ne constituent pas nécessairement une perte mesurable : ils peuvent signaler une limite du passage, une différence de fonction ou une question qui reste à examiner.
 
-On appelle évaluation d'une traduction :
+### 4.5. Déterminer la portée du résultat
 
-L'opération critique de second ordre par laquelle l'audit d'une enquête mesure la fidélité, le coût inférentiel et la légitimité des connecteurs établis entre deux régimes descriptifs hétérogènes, en dressant le bilan explicite de ce qui est conservé, de ce qui est transformé et de ce qui devient incompatible lors du passage.
+Formuler ce que l’évaluation permet de conclure, en précisant les conditions et les réserves nécessaires.
 
----
+La traduction peut être :
 
-Les trois dimensions de l'analyse traductive
+- **recevable dans un usage circonscrit**, lorsque les correspondances sont suffisantes pour le problème traité ;
+- **recevable sous conditions**, lorsque son emploi exige de conserver des distinctions ou des réserves explicites ;
+- **à réviser**, lorsque des transformations importantes restent insuffisamment explicitées ;
+- **insuffisante pour la conclusion visée**, lorsque le passage ne fournit pas les bases nécessaires pour soutenir cette conclusion.
 
-Pour évaluer la qualité et la rigueur d'une traduction entre régimes, l'enquête protokinienne passe la relation au crible de trois dimensions fondamentales :
+Ces résultats ne sont pas des verdicts définitifs sur les descriptions en présence. Une nouvelle information, un changement de problème ou une objection pertinente peut conduire à reprendre l’évaluation.
 
-```
-                        DIMENSIONS DE L'ANALYSE TRADUCTIVE
-                                        │
-         ┌──────────────────────────────┼──────────────────────────────┐
-         ▼                              ▼                              ▼
-    Ce qui est                     Ce qui est                    Ce qui devient
-    CONSERVÉ                      TRANSFORMÉ                      INCOMPATIBLE
-(Invariances fonctionnelles    (Ajustements lexicaux,            (Perte inférentielle,
-  et stabilité de l'action)      rituels de preuve et rôles)    zones de silence produites)
-```
+## 5. Éléments à recueillir
 
-1. Ce qui est conservé
+Pour rendre l’examen contrôlable, il est utile de consigner :
 
-L'évaluation identifie les invariances fonctionnelles qui traversent la frontière des régimes. Elle vérifie si les connecteurs de second ordre parviennent à maintenir une équivalence pratique ou une capacité d'orientation suffisante pour guider l'action collective sans altérer l'objet décrit.
+- la description de départ et la description d’arrivée ;
+- l’objectif du passage proposé ;
+- les correspondances retenues et leur domaine de validité ;
+- les transformations introduites ;
+- les conclusions reprises, abandonnées ou nouvellement avancées ;
+- les règles, prémisses et critères mobilisés ;
+- les limites identifiées et les questions qui restent ouvertes.
 
-· Question d'audit : La capacité d'orientation pratique et l'intelligibilité de la situation sont-elles préservées après le passage dans le régime d'accueil ?
+Cette trace permet de distinguer les éléments effectivement examinés de ceux qui demeurent hypothétiques. Elle facilite également la reprise de l’évaluation si le problème ou les descriptions évoluent.
 
-2. Ce qui est transformé
+## 6. Règles d’interprétation
 
-Toute traduction réarticule le contenu transféré selon les exigences de la grammaire du régime d'accueil. L'évaluation cartographie les ajustements de vocabulaire, la modification des rituels de preuve et la réorganisation des habilitations et responsabilités exigées du locuteur.
+L’évaluation doit maintenir plusieurs distinctions.
 
-· Question d'audit : Quelles sont les nouvelles obligations et responsabilités discursives que le locuteur contracte en adoptant la description traduite ?
+**Correspondance n’est pas équivalence complète.** Deux expressions peuvent désigner un même élément dans un contexte donné sans avoir la même portée dans tous leurs usages.
 
-3. Ce qui devient incompatible (La perte inférentielle)
+**Transformation n’est pas nécessairement déformation.** Un changement de vocabulaire ou de fonction peut être adapté à l’objectif poursuivi. Il devient problématique lorsqu’il modifie silencieusement les conclusions ou les critères pertinents.
 
-Il n'existe pas de traduction parfaite ou exhaustive sans résidu. L'évaluation traque la perte inférentielle — c'est-à-dire l'ensemble des conséquences, des nuances phénoménologiques ou des raisons normatives qui ne peuvent pas être enregistrées par le régime d'accueil et qui se trouvent de fait rejetées dans une zone de silence.
+**Possibilité d’inférer n’est pas justification suffisante.** Une conclusion peut découler de prémisses selon certaines règles sans que ces prémisses soient établies ou adéquates au problème.
 
-· Question d'audit : Quels aspects décisifs de la situation initiale sont neutralisés, simplifiés ou rendus invisibles par les contraintes sémantiques de la grille de traduction ?
+**Différence n’est pas incompatibilité.** Deux descriptions peuvent diverger par leur fonction, leur vocabulaire ou leurs critères sans se contredire. L’incompatibilité doit être établie à partir de ce que chacune affirme et des engagements qu’elle implique.
 
----
+**Limite de traduction n’est pas incommensurabilité absolue.** Un passage partiel peut être utile sans rendre les deux descriptions entièrement équivalentes. L’absence de correspondance sur un point ne suffit pas à exclure toute mise en relation.
 
-Distinctions conceptuelles indispensables
+## 7. Exemple : le botaniste et le bûcheron
 
-Afin d'éviter tout brouillage lors de l'audit méthodologique, l'évaluation doit maintenir des frontières étanches entre ces opérations distinctes :
+Un botaniste décrit un arbre en fonction de son état sanitaire, de son espèce et de signes de dépérissement. Un bûcheron l’examine notamment en fonction de son volume exploitable, de son état mécanique et des possibilités d’abattage.
 
-Opération Objectif Ce qu'elle refuse
-Traduire et Évaluer Établir et contrôler des équivalences entre cadres hétérogènes en respectant l'étanchéité de leurs critères locaux. Refuse l'unification forcée, le réductionnisme et la fusion aveugle.
-Fusionner / Absorber Éliminer les frontières entre les régimes au profit d'un vocabulaire unique ou d'une hégémonie causale/normative. Refuse la pluralité des régimes et détruit la souveraineté de leurs juridictions.
-Éclectisme Combiner de façon laxiste des critères hétérogènes sans règles de passage explicitables. Refuse la discipline des transitions discursives et le scorekeeping déontique.
+Les deux descriptions portent sur un même arbre, mais elles ne répondent pas à la même question.
 
----
+Une traduction peut rapprocher certains de leurs résultats : les signes de dépérissement peuvent contribuer à préciser l’état de l’arbre, tandis que l’évaluation de sa stabilité peut renseigner sur les conditions d’intervention. Ces correspondances doivent toutefois être établies à partir des observations et des critères effectivement mobilisés.
 
-Séquence opératoire : Le protocole d'évaluation (en 5 étapes)
+L’évaluation examine alors trois points :
 
-L'évaluation clinique d'une traduction s'exécute selon une séquence d'investigation rigoureuse qui se structure de la manière suivante :
+- **Correspondances :** quels constats peuvent être repris d’une description à l’autre, et avec quel degré de précision ?
+- **Transformations :** comment les observations sont-elles reformulées selon les objectifs respectifs du diagnostic botanique et de l’intervention forestière ?
+- **Limites :** le volume exploitable ou la possibilité d’abattage suffisent-ils à établir l’état écologique de l’arbre ? Inversement, le diagnostic botanique suffit-il à déterminer les conditions concrètes d’une intervention ?
 
-Étape 1 : Saisie de la règle de traduction
+Aucune de ces descriptions ne remplace automatiquement l’autre. Leur mise en relation peut soutenir une décision commune, à condition de distinguer les informations partagées, les critères propres à chaque examen et les conclusions qui nécessitent une justification supplémentaire.
 
-Fonction
+L’évaluation ne décide donc pas abstraitement quelle description est supérieure. Elle examine si le passage proposé est adapté à la question pratique et si les conclusions qui en sont tirées sont suffisamment étayées.
 
-Identifier le connecteur ou le protocole qui sert de médiation pour passer du régime de départ au régime d'accueil.
+## 8. Limites de l’instrument
 
-Condition d'entrée
+L’évaluation d’une traduction ne garantit ni l’exhaustivité de l’analyse ni l’adéquation des descriptions à leur référent.
 
-Le repérage d'un déplacement conceptuel de premier ordre au présent d'usage au sein d'une situation problématique.
+Elle ne fournit pas non plus un étalon universel permettant de mesurer toute perte descriptive. La portée d’une transformation dépend du problème, des usages envisagés et des critères pertinents pour l’examen.
 
-Opération accomplie
+Elle ne remplace pas :
 
-Expliciter la règle de traduction : s'agit-il d'un connecteur de second ordre formalisé et révisable, ou le passage s'opère-t-il par un saut immédiat et une analogie abusive ?
+- l’examen de la description initiale et de ses conditions d’application ;
+- la comparaison des descriptions lorsqu’il faut analyser leurs différences plus largement ;
+- la justification des conclusions qui orientent une décision ;
+- l’audit général d’une pratique lorsque la difficulté dépasse le passage étudié.
 
-Résultat
+Enfin, l’évaluation elle-même doit pouvoir être révisée. Ses critères, ses catégories et ses conclusions peuvent être remis en cause si l’examen révèle une distinction inadéquate, une conséquence négligée ou une condition jusque-là ignorée.
 
-La mise en évidence de la structure logique de la médiation.
+## 9. Articulation avec l’enquête de Protokin
 
-Étape 2 : Examen de la capacité d'imputation
+L’évaluation d’une traduction est un instrument ciblé. Elle peut être mobilisée au cours de l’enquête chaque fois qu’un passage descriptif devient pertinent pour le problème étudié.
 
-Fonction
+Elle s’articule notamment avec :
 
-Vérifier si le transfert conceptuel n'annule pas la responsabilité normative de l'agent.
+- [Traduction](traduction.md), qui définit l’opération consistant à mettre des descriptions en relation ;
+- [Réaliser un audit](realiser-un-audit.md), qui examine plus largement les distinctions, les passages et les justifications d’une pratique ;
+- [Écologie des régimes descriptifs](ecologie-des-regimes-descriptifs.md), qui étudie les rapports entre des régimes descriptifs ;
+- [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md), qui situe les opérations et leurs reprises ;
+- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md), qui aide à distinguer les questions relatives aux conditions, aux relations, aux fonctions et aux justifications.
 
-Condition d'entrée
+La quadripartition ne constitue pas ici une séquence d’évaluation. Elle permet de repérer des questions distinctes : les conditions dans lesquelles le passage est produit, les relations établies entre les descriptions, la fonction du passage dans la pratique et les raisons qui permettent d’en défendre les conclusions.
 
-La règle de traduction ayant été explicitée.
+L’évaluation peut conduire à reprendre la traduction, à comparer plus précisément les descriptions ou à redélimiter le problème. Elle ne constitue pas une étape obligatoire de toute enquête.
 
-Opération accomplie
+## Synthèse
 
-L'auditeur examine si le locuteur ou l'institution demeure un agent responsable capable de répondre de l'assertion dans le nouveau cadre, ou si la redevabilité a été déléguée de manière clandestine à un dispositif causal ou technique.
+Évaluer une traduction consiste à examiner les correspondances, les transformations et les limites d’un passage entre descriptions, afin de déterminer ce qu’il permet effectivement d’établir.
 
-Résultat
+L’instrument rend explicites les conditions d’acceptation d’une traduction pour un problème donné. Il ne présuppose ni équivalence complète ni incompatibilité générale entre les descriptions.
 
-L'évaluation de la conservation de la capacité d'imputation.
+Son résultat reste circonscrit, argumenté et révisable.
 
-Étape 3 : Audit d'étanchéité des critères de correction
+**Principe de contrôle :** une traduction peut rendre des descriptions coordonnées sans rendre leurs fonctions, leurs critères ou leurs justifications interchangeables.
 
-Fonction
+Pour poursuivre :
 
-S'assurer que le régime d'accueil n'est pas infiltré ou corrompu par des contraintes hétérogènes.
-
-Condition d'entrée
-
-La capacité d'imputation ayant été validée.
-
-Opération accomplie
-
-L'auditeur vérifie si le régime d'accueil applique rigoureusement ses propres contraintes de preuve sans laisser infiltrer clandestinement des critères étrangers non arbitrés.
-
-Résultat
-
-La préservation de la souveraineté de la juridiction d'accueil.
-
-Étape 4 : Archivage et traçabilité de la perte inférentielle
-
-Fonction
-
-Documenter explicitement le résidu de la traduction et les zones de silence produites.
-
-Condition d'entrée
-
-L'étanchéité des critères ayant été éprouvée.
-
-Opération accomplie
-
-Mesurer et consigner ce qui a été mis entre parenthèses, simplifié ou neutralisé lors du transfert conceptuel.
-
-Résultat
-
-L'établissement de la carte d'usure sémantique et des zones de silence associées.
-
-Étape 5 : Arbitrage de viabilité et d'autonomie
-
-Fonction
-
-Prononcer le verdict d'acceptation, de correction ou de rejet de la traduction.
-
-Condition d'entrée
-
-La perte inférentielle ayant été quantifiée et documentée.
-
-Opération accomplie
-
-Vérifier si la traduction évite de disqualifier ou de détruire le régime de départ au profit d'une prétention hégémonique du régime d'accueil. Si le coût inférentiel est acceptable pour l'action sans mutiler la rationalité d'origine, valider la traduction ; sinon, exiger sa réorganisation ou sa suspension.
-
-Résultat
-
-La stabilisation d'un connecteur légitime ou le blocage de la pathologie réductionniste.
-
----
-
-Éclairage par les fils rouges pédagogiques
-
-1. Le patient aux urgences hospitalières
-
-L'urgence d'évaluer une traduction s'observe de manière décisive dans la gestion clinique et logistique d'un service hospitalier :
-
-· Le régime clinique d'urgence (Plan KIN / Soin) : Évalue l'état d'un patient cardiaque à partir de critères somatiques directs (tension, pouls, ECG, détresse respiratoire). L'engagement principal est d'assurer la survie et le soulagement immédiat.
-· Le régime logistico-comptable (Plan Administration / Gestion) : Évalue la même situation à partir de grilles de tarification, de flux de lits et de durées moyennes de séjour.
-· L'évaluation de la traduction : Lorsqu'un médecin traduit l'état du patient en code de tarification ou en niveau de priorité d'admission, une traduction s'opère. Évaluer cette traduction consiste à vérifier :
-  1. Ce qui est conservé : La priorité d'accès aux soins pour les cas vitaux graves.
-  2. Ce qui est transformé : La souffrance singulière et vécue du patient, reconvertie en catégorie administrative de classement standardisé.
-  3. Ce qui devient incompatible (perte inférentielle) : La logique comptable ne peut pas se substituer à la décision thérapeutique. Si la grille budgétaire de la direction de l'hôpital tente d'annuler ou de court-circuiter le diagnostic médical, l'audit déclare la traduction défaillante ou abusive, exigeant de restaurer la priorité normative du régime clinique de soin.
-
-2. Le botaniste et le bûcheron face au dépérissement forestier
-
-Confrontés au butoir d'une crise écologique (stress hydrique majeur de la parcelle), le botaniste et le bûcheron doivent traduire leurs descriptions respectives au sein d'une configuration intégrée de sylviculture écologique. L'évaluation de cette traduction s'attache à vérifier :
-
-· Ce qui est conservé : L'accès au même arbre physique (PROTO) et l'action de sauvegarde de la forêt.
-· Ce qui est transformé : La classification phylogénétique pure du botaniste et l'estimation de cubage marchand du bûcheron sont traduits en indicateurs de résilience somatique et de biodiversité fonctionnelle.
-· Ce qui devient incompatible : Traiter l'arbre uniquement comme du bois de coupe immédiatement exploitable sans intégrer les indices de dépérissement. L'évaluation de l'audit bloque la réduction technique pour préserver la viabilité biologique de la parcelle.
-
----
-
-Limites et vigilances d'audit : pièges de l'évaluation
-
-L'exercice de l'évaluation impose à l'enquêteur de second ordre de surveiller trois risques critiques de déformation sémantique :
-
-· L'illusion de la synonymie exhaustive (Le biais de transparence) : Croire qu'un connecteur peut transférer un concept d'un régime à un autre sans aucun résidu inférentiel. L'audit doit rejeter cette illusion de transparence en exigeant que toute perte ou zone de silence soit documentée et archivée explicitement.
-· Le réductionnisme masqué de la langue d'accueil : Traduire en apparence un régime dominé (par exemple, le savoir pratique incorporé du bûcheron) en lui imposant silencieusement les critères d'évaluation d'un régime dominant (la taxonomie académique du botaniste). L'évaluation doit traquer ces asymétries de second ordre pour protéger l'autonomie des critères locaux.
-· Le dogme de l'incommensurabilité absolue : Décréter a priori que deux régimes hétérogènes sont par nature incapables de communiquer, interdisant toute coordination pratique. L'évaluation de Protokin montre qu'il existe toujours des continuités pratiques résiduelles (notamment dans le couplage perception-action ou dans les mémoires collectives) qui permettent d'amorcer des traductions partielles et d'accompagner l'enquête.
-
----
-
-Synthèse finale
-
-Ce que cette page établit
-
-Le protocole d'évaluation d'une traduction en tant qu'opération critique de second ordre de l'audit, formalisant ses trois dimensions d'analyse (ce qui est conservé, transformé, incompatible), sa séquence opératoire de diagnostic en cinq étapes, et ses critères de vigilance contre les déformations de réduction impérialiste ou d'éclectisme laxiste.
-
-Ce qu'elle suppose
-
-Le régime descriptif, la configuration descriptive, l'engagement descriptif, l'espace des raisons, l'enquête et l'audit des régimes.
-
-Ce qu'elle rend possible
-
-L'évaluation comparative de la puissance descriptive des cadres, le diagnostic des réductions et des confusions de niveau, la stabilisation de l'écologie des régimes descriptifs et la réorganisation des pratiques collectives de coordination face aux situations problématiques de crise.
-
-Séquence établie
-
-Saisie de la règle → Examen de l'imputation → Audit d'étanchéité → Archivage de la perte → Arbitrage de viabilité
-
----
-
-Protokin 2026 — version 26.08.081
+- [Traduction](fr/traduction.md)
+- [Réaliser un audit](fr/realiser-un-audit.md)
+- [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md)
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
+- [Table des matières](fr/tdm.md)
