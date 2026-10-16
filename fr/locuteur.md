@@ -1,400 +1,137 @@
-# Page : locuteur.md
+# Locuteur — Position discursive et responsabilité descriptive
 
-# Le locuteur — Position épistémique, engagement descriptif et agentivité discursive
+## 1. Fonction
 
-| Fonction | Établir la notion de **locuteur** dans l'architecture de Protokin en tant que position épistémique, fonctionnelle et normative au sein d'une pratique descriptive. |
-| :--- | :--- |
-| **Prépare** | L'analyse des engagements descriptifs, de la responsabilité normative, de la comptabilité déontique et de l'audit des régimes descriptifs. |
-| **Mobilise** | Les notions de description, de configuration descriptive, de qualification, de prédication, d'assertion et de communauté de justification. |
-| **Permet ensuite** | L'étude de l'auditeur, des communautés de locuteurs, de la recevabilité, de la validité et du scorekeeping déontique. |
-| **N'établit pas** | La genèse psychologique de la conscience privée, les mécanismes neurobiologiques de la parole, ni la théorie complète de la comptabilité déontique collective. |
+Cette page définit le **locuteur** comme une position dans une pratique discursive : celle à laquelle une prise de position peut être attribuée et dont les engagements peuvent être examinés.
 
----
+Elle précise le rapport entre le locuteur, l’assertion et la responsabilité discursive. Elle ne vise ni à expliquer la genèse biologique ou psychologique de la parole, ni à développer une théorie générale de la signification ou de la justification.
 
-## 1. Problème conceptuel inaugural
+## 2. Problème
 
-Toute théorie de la description rencontre une difficulté fondamentale : **qui est celui qui décrit ?**
+Une description peut être étudiée selon son contenu, sa formulation, ses conditions de production ou les conséquences qu’elle autorise. Mais lorsqu’un contenu est avancé dans une pratique discursive, une question supplémentaire se pose : **à qui cette prise de position est-elle attribuée, et de quoi cette personne ou cette instance peut-elle être tenue responsable ?**
 
-Les conceptions classiques ont souvent considéré le locuteur comme le point d'origine du langage : un sujet individuel possédant des représentations internes qu'il exprimerait ensuite par des signes. Dans ce modèle, la description serait la traduction extérieure d'un contenu déjà constitué dans une conscience privée.
+Il faut éviter deux réductions.
 
-Cette conception rencontre deux difficultés majeures.
+La première consiste à traiter le locuteur comme l’origine souveraine du contenu qu’il énonce, comme si celui-ci dépendait uniquement de son intention. Or les mots, les catégories et les règles mobilisés dans une pratique ne sont pas nécessairement créés par celui qui les emploie.
 
-Premièrement, elle isole artificiellement le locuteur de la communauté qui rend ses descriptions compréhensibles et évaluables. Une assertion n'existe jamais uniquement parce qu'un individu la prononce ; elle existe parce qu'un espace collectif permet de reconnaître, contester ou corriger cette prise de position.
+La seconde consiste à réduire le locuteur à l’organisme qui produit matériellement des sons ou des signes. La production d’un signal et l’attribution d’une prise de position ne remplissent pas la même fonction.
 
-Deuxièmement, elle risque de transformer l'agentivité discursive en propriété psychologique interne, alors que la capacité de décrire dépend de règles, de catégories, de critères et de pratiques collectives historiquement stabilisés.
+Le problème consiste donc à définir le locuteur sans le traiter ni comme une origine autonome du sens, ni comme une simple source causale.
 
-Le problème conceptuel auquel répond cette page est donc :
+## 3. Définition
 
-> **Comment définir le locuteur si l'on refuse à la fois l'idée d'un sujet souverain producteur autonome du sens et la réduction de la parole à un simple événement causal biologique ?**
+Dans Protokin, le **locuteur** désigne la position discursive à laquelle est attribué un contenu avancé dans une pratique et dont les engagements éventuels peuvent être examinés au regard des règles pertinentes.
 
-Protokin répond à cette difficulté en concevant le locuteur non comme une origine absolue de la description, mais comme une **position fonctionnelle et normative émergente** au sein d'un espace collectif de justification.
+Cette définition comporte trois aspects :
 
-Le locuteur n'est pas celui qui crée seul le sens ; il est celui qui peut prendre position, engager une description et répondre de cette position devant d'autres participants.
+- **Attribution d’une prise de position.** Le locuteur est celui auquel une intervention discursive est attribuée. Cette attribution ne suffit pas, à elle seule, à établir que toute formulation produite constitue une assertion.
+- **Inscription dans une pratique.** Les catégories, les critères et les règles employés dépendent de pratiques déterminées. Le locuteur ne les invente pas nécessairement et ne maîtrise pas seul leur portée.
+- **Responsabilité discursive.** Lorsqu’un contenu est effectivement avancé comme une assertion, le locuteur peut être tenu de répondre des engagements qui lui sont associés. Leur étendue doit être établie en fonction du contenu, des prémisses, des règles d’inférence et de la situation considérée.
 
----
+Le locuteur est ainsi une position fonctionnelle et relationnelle. Il ne désigne ni une substance supplémentaire ni une propriété qui suffirait à expliquer toutes les conduites d’un individu.
 
-# 2. Définition fonctionnelle
+## 4. Distinctions nécessaires
 
-Dans l'architecture métathéorique de Protokin, on appelle **locuteur** :
+### 4.1. Locuteur et individu
 
-> **Une position fonctionnelle, épistémique et normative occupée par un agent au sein d'une pratique descriptive, caractérisée par la capacité d'asserter, d'endosser des engagements descriptifs et de répondre publiquement de ses prises de position dans un espace de raisons.**
+L’individu désigne ici la personne ou l’agent auquel une intervention peut être attribuée. Le locuteur désigne la position qu’il occupe dans une pratique discursive déterminée.
 
-Cette définition implique trois dimensions fondamentales.
+Une même personne peut parler comme témoin, expert, patient ou représentant d’une institution. Ces positions peuvent modifier les attentes, les responsabilités et les critères pertinents. Elles ne déterminent pas automatiquement la correction de ce qui est affirmé.
 
-## 2.1 Une position et non une substance
+La distinction ne suppose donc pas deux entités séparées — un individu d’un côté et un locuteur de l’autre. Elle distingue l’agent auquel une intervention est attribuée et la fonction discursive examinée.
 
-Le locuteur ne désigne pas une entité métaphysique ou une conscience fondatrice.
+### 4.2. Locuteur et organisme
 
-Il désigne une place dans une pratique collective où certaines capacités deviennent reconnues :
+Toute pratique discursive dépend de conditions corporelles, matérielles, techniques et environnementales. Ces conditions contribuent à rendre possibles la perception, la production et la circulation de signes.
 
-- produire des descriptions ;
-- utiliser des catégories disponibles ;
-- appliquer des critères ;
-- répondre aux objections ;
-- modifier ses engagements.
+Elles ne suffisent toutefois pas à déterminer le statut discursif d’une intervention. Inversement, l’analyse du locuteur ne permet pas d’écarter ces conditions ni d’expliquer la parole indépendamment d’elles.
 
-Le locuteur est donc une fonction relationnelle, non une essence individuelle.
+La distinction entre conditions de production et responsabilité discursive ne constitue pas une séparation entre deux domaines étanches. Elle empêche de traiter une explication causale comme une justification, ou une condition matérielle comme un critère de validité.
 
----
+### 4.3. Locuteur et assertion
 
-## 2.2 Une participation à l'espace des raisons
+Le locuteur est la position à laquelle une intervention est attribuée ; l’assertion est l’acte par lequel un contenu est avancé dans une pratique discursive.
 
-Le locuteur ne se définit pas par la simple émission physique de signes.
+Une phrase déclarative peut être citée, hypothétiquement envisagée ou rapportée sans être assertée par la personne qui la prononce. La forme grammaticale ne suffit donc pas à établir l’acte accompli.
 
-Un organisme peut produire des sons ou des réactions sans occuper une position de locuteur.
+Lorsqu’un locuteur asserte effectivement un contenu, il s’expose aux conséquences discursives associées à cette prise de position. Il ne s’ensuit pas qu’il ait anticipé toutes les conséquences que d’autres pourront en tirer, ni que toute conséquence imaginable puisse lui être imputée.
 
-Le locuteur apparaît lorsque l'énoncé entre dans un espace normatif où il devient possible de demander :
+L’analyse doit distinguer l’intention du locuteur, l’acte accompli, les engagements pertinents et les inférences que les règles de la pratique autorisent.
 
-- Pourquoi cette description ?
-- Quels critères la soutiennent ?
-- Quelles conséquences implique-t-elle ?
-- Quelles objections doit-elle pouvoir affronter ?
+### 4.4. Locuteur et auditeur
 
-La parole devient alors une prise de position publique.
+Le locuteur et l’auditeur désignent deux positions fonctionnelles distinctes dans une pratique discursive. Le premier est associé à l’intervention examinée ; le second peut la recevoir, en évaluer les engagements, la contester ou demander des raisons.
 
----
+Ces positions ne désignent pas nécessairement deux personnes différentes dans toutes les situations. Un participant peut examiner sa propre affirmation, revenir sur ses engagements ou en réviser la portée.
 
-## 2.3 Une source d'engagements publics
+La distinction sert à analyser des fonctions différentes, non à imposer une succession temporelle ou une séparation permanente entre les participants.
 
-Occuper la position de locuteur signifie accepter les conséquences associées à une assertion.
+## 5. Exemple discriminant : qualifier un arbre de dangereux
 
-Lorsqu'un locuteur affirme :
+Un arboriste affirme : « Cet arbre présente un risque pour l’habitation. »
 
-> « Cette personne est dangereuse »
+L’énoncé peut être examiné sous plusieurs rapports :
 
-il ne produit pas seulement une qualification.
+- le contenu avancé : l’arbre présente un risque ;
+- la position du locuteur : il intervient, par exemple, en qualité d’arboriste ;
+- les engagements associés à l’assertion : les éléments qui soutiennent l’évaluation et les conséquences qu’elle autorise dans la pratique concernée ;
+- les critères pertinents : les observations, les méthodes d’évaluation et les exigences applicables au cas.
 
-Il engage une série de conséquences :
+La qualification professionnelle du locuteur peut compter dans l’évaluation de son intervention. Elle ne suffit cependant ni à établir la présence du risque ni à garantir la validité de la conclusion. Il faut examiner les éléments avancés, les critères appliqués et les inférences qui relient ces éléments à la conclusion.
 
-- quelles observations soutiennent cette description ?
-- quelles actions cette qualification autorise-t-elle ?
-- quelles responsabilités implique-t-elle ?
+De même, une autre personne peut contester l’affirmation sans que sa contestation suffise à la réfuter. La position des participants, les éléments disponibles et les exigences de justification doivent être examinés sans confondre autorité, engagement et validité.
 
-Le locuteur devient ainsi responsable de la trajectoire inférentielle ouverte par son assertion.
+Cet exemple montre que le locuteur permet d’identifier à qui une prise de position est attribuée et quelles responsabilités discursives peuvent être examinées. Il ne remplace pas l’évaluation du contenu.
 
----
+## 6. Portée et limites
 
-# 3. Distinctions conceptuelles nécessaires
+### Ce que la notion permet d’établir
 
-## 3.1 Locuteur et individu psychologique
+La notion de locuteur permet de distinguer :
 
-L'individu psychologique désigne un organisme doté d'une vie mentale et corporelle.
+- l’agent auquel une intervention est attribuée ;
+- la position qu’il occupe dans une pratique discursive ;
+- l’acte d’assertion, lorsqu’il a effectivement lieu ;
+- les engagements qui peuvent être examinés au regard des règles pertinentes.
 
-Le locuteur désigne une position normative publique.
+Elle permet également de ne pas réduire la responsabilité discursive à l’intention privée de celui qui parle.
 
-Un individu peut exister sans encore participer à une pratique de justification.
+### Ce qu’elle suggère
 
-Inversement, une même personne peut occuper plusieurs positions de locuteur selon les régimes descriptifs mobilisés :
+La notion suggère que les capacités à prendre position et à répondre de ses affirmations dépendent de pratiques partagées, de ressources descriptives et de normes d’évaluation. Elle invite à examiner comment ces pratiques distribuent les rôles, les habilitations et les responsabilités.
 
-- patient ;
-- témoin ;
-- expert ;
-- chercheur ;
-- juge.
+Cette proposition doit être étudiée dans les situations considérées. Elle ne fournit pas, à elle seule, une théorie complète de l’apprentissage, de la socialisation ou de l’acquisition du langage.
 
----
+### Ce qu’elle n’établit pas
 
-## 3.2 Locuteur et organisme
+La notion de locuteur n’établit pas :
 
-L'organisme appartient au plan des causes (`PROTO`).
+- que toute production de signes constitue une assertion ;
+- que le locuteur crée seul le contenu ou le sens de ce qu’il dit ;
+- que l’intention détermine toutes les conséquences d’une intervention ;
+- que la position sociale ou professionnelle garantit la correction d’une affirmation ;
+- que les engagements attribués au locuteur sont identiques dans toutes les pratiques ;
+- que la reconnaissance collective suffit à rendre une description valide ;
+- que les conditions corporelles et matérielles se convertissent en raisons ou en critères de justification.
 
-Il possède :
+La responsabilité discursive doit être déterminée en fonction des engagements et des règles pertinents. Elle ne se déduit ni de la seule production d’un énoncé ni de toutes les conséquences qu’un interprète pourrait lui associer.
 
-- des capacités perceptives ;
-- des capacités motrices ;
-- des capacités communicationnelles.
+## 7. Articulation avec les autres pages
 
-Le locuteur appartient au plan des raisons (`KIN`).
+La notion de locuteur prend place dans l’analyse des pratiques discursives, mais ne remplace aucune des fonctions voisines.
 
-Il suppose :
+- [Assertion](assertion.md) — Analyser l’acte d’avancer un contenu et les engagements qui lui sont associés.
+- [Auditeur](auditeur.md) — Examiner la réception, l’évaluation et la contestation d’une assertion.
+- [Proposition](proposition.md) — Distinguer le contenu examinable de l’acte par lequel il est pris en charge.
+- [Prédication](predication.md) — Examiner la fonction d’attribution dans la formulation d’un contenu.
+- [Espace des raisons](espace-des-raisons.md) — Situer les relations entre raisons, inférences, critères et justifications.
+- [Régime descriptif](regime-descriptif.md) — Examiner les règles et les critères qui organisent une pratique descriptive.
+- [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations de l’enquête sans transformer le locuteur en étape obligatoire de leur déroulement.
 
-- des règles d'usage ;
-- des critères de correction ;
-- des engagements publics.
+## Synthèse
 
-Les capacités biologiques rendent possible la parole, mais elles ne suffisent pas à constituer un locuteur.
+Le locuteur est une position discursive à laquelle une intervention peut être attribuée et dont les engagements éventuels peuvent être examinés. Il n’est ni une origine souveraine du sens ni une simple source causale.
 
----
+La distinction entre locuteur, assertion et auditeur permet de séparer l’attribution d’une intervention, l’acte d’avancer un contenu et l’évaluation de ses engagements. Ces fonctions sont liées sans être interchangeables.
 
-## 3.3 Locuteur et simple source causale
-
-Un comportement produit par une cause physique n'est pas nécessairement une prise de position.
-
-Un réflexe vocal, une réaction émotionnelle ou un signal biologique appartiennent au domaine causal.
-
-Une assertion appartient au domaine normatif lorsqu'elle peut être évaluée comme correcte ou incorrecte.
-
----
-
-## 3.4 Locuteur et auteur souverain
-
-Le locuteur n'invente pas librement les catégories et les critères qu'il utilise.
-
-Lorsqu'il parle, il hérite :
-
-- d'un vocabulaire ;
-- d'une taxonomie ;
-- d'un régime descriptif ;
-- d'une histoire collective de pratiques.
-
-Son agentivité consiste moins à créer ex nihilo qu'à pouvoir transformer, maintenir ou contester ces cadres.
-
----
-
-# 4. Constitution progressive du locuteur
-
-## 4.1 L'ancrage incorporé du locuteur
-
-Le locuteur n'est pas une conscience désincarnée.
-
-Sa capacité descriptive suppose un organisme situé disposant de capacités perceptives, motrices et communicationnelles.
-
-Ces conditions appartiennent cependant au plan des causes (`PROTO`).
-
-Elles rendent possible l'apparition d'une agentivité discursive, mais ne constituent pas encore un locuteur.
-
-Le locuteur apparaît lorsque ces capacités incorporées sont intégrées dans une pratique collective où des descriptions peuvent être produites, évaluées et justifiées.
-
----
-
-## 4.2 Du récepteur au locuteur : le rôle de l'audition
-
-Toute capacité de locution suppose une capacité préalable d'audition.
-
-Avant de produire des descriptions, un agent apprend à reconnaître :
-
-- des catégories ;
-- des distinctions ;
-- des critères ;
-- des formes de correction.
-
-Le locuteur est donc toujours déjà un auditeur formé.
-
-Il n'entre dans l'espace des raisons qu'après avoir appris à recevoir, comprendre et évaluer les descriptions d'autrui.
-
----
-
-## 4.3 Le locuteur comme comptable déontique
-
-Dans la perspective inférentialiste, le locuteur participe à une pratique de donner et demander des raisons.
-
-Lorsqu'il produit une assertion, il modifie l'état normatif de l'interaction.
-
-Il contracte :
-
-### Un engagement (*commitment*)
-
-Il devient responsable :
-
-- des conséquences de son assertion ;
-- des incompatibilités qu'elle crée ;
-- des justifications qu'elle exige.
-
-### Une habilitation (*entitlement*)
-
-Son assertion peut devenir une ressource pour d'autres locuteurs qui pourront l'utiliser comme prémisse dans leurs propres inférences.
-
-Le locuteur existe donc dans un réseau public de responsabilités et d'autorisations.
-
----
-
-## 4.4 L'objectivité par le contrôle intersubjectif
-
-L'objectivité descriptive ne provient pas d'un accès direct à un monde sans médiation.
-
-Elle émerge du contrôle mutuel entre locuteurs.
-
-Une description devient robuste lorsqu'elle peut :
-
-- être reprise ;
-- être contestée ;
-- être corrigée ;
-- résister aux demandes de justification.
-
-Le locuteur se constitue ainsi dans une relation permanente entre :
-
-- la première personne qui assume une description ;
-- les autres locuteurs qui évaluent cette prise de position.
-
----
-
-# 5. Éclairage par les fils rouges pédagogiques
-
-## « Le vélo est rouge »
-
-Dire :
-
-> « Le vélo est rouge »
-
-n'est pas seulement produire une réaction visuelle.
-
-Le locuteur mobilise :
-
-- une catégorie chromatique ;
-- un critère d'application ;
-- une compétence linguistique partagée.
-
-Il engage sa crédibilité perceptive devant une communauté capable de confirmer ou de contester cette description.
-
----
-
-## « Cette personne est dangereuse »
-
-Cette assertion dépend fortement de la position du locuteur.
-
-Un voisin, un psychiatre, un policier ou un juge n'occupent pas le même régime descriptif.
-
-Le problème n'est donc pas uniquement :
-
-> Qui parle ?
-
-mais :
-
-> Depuis quelle position descriptive cette parole possède-t-elle une autorité ?
-
----
-
-## « Cette personne est mauvaise »
-
-Cette qualification engage une position morale.
-
-Le locuteur ne décrit pas seulement un comportement ; il produit une évaluation susceptible d'entraîner :
-
-- du blâme ;
-- une exclusion ;
-- une réputation durable.
-
-L'audit examine alors si le locuteur transforme abusivement une qualification normative située en propriété essentielle d'une personne.
-
----
-
-## Le botaniste et le bûcheron
-
-Face au même arbre, deux locuteurs mobilisent des régimes différents.
-
-Le botaniste affirme :
-
-> « C'est un Abies alba »
-
-selon des critères scientifiques.
-
-Le bûcheron affirme :
-
-> « Ce tronc est exploitable »
-
-selon des critères techniques.
-
-Ils n'occupent pas la même position descriptive, car ils ne répondent pas aux mêmes exigences de correction.
-
----
-
-## Le patient aux urgences
-
-L'infirmière, le médecin et l'administration occupent des positions différentes.
-
-L'infirmière peut qualifier :
-
-> « urgence vitale »
-
-selon un régime clinique.
-
-Le médecin peut produire une description diagnostique.
-
-L'administration peut produire une qualification réglementaire.
-
-Chaque locuteur engage des conséquences différentes selon sa position.
-
----
-
-# 6. Place dans l'architecture fonctionnelle
-
-Le locuteur intervient au moment où une possibilité descriptive devient une prise de position normative.
-
-Configuration rencontrée ↓ Couplage perception-action ↓ Configuration sémiotique ↓ Support descriptif ↓ Configuration descriptive ↓ Qualification / Prédication ↓ Locuteur (position capable d'asserter) ↓ Assertion ↓ Engagement descriptif ↓ Régime descriptif ↓ Justification et audit
-
-Le locuteur constitue le point de passage entre :
-
-- les conditions matérielles de la description ;
-- les engagements normatifs de la justification.
-
----
-
-# 7. Limites internes du concept
-
-## 7.1 Le psychologisme
-
-Erreur consistant à réduire le locuteur à un état mental privé.
-
-Protokin rappelle que le locuteur est une position publique dans une pratique collective.
-
----
-
-## 7.2 L'illusion d'auto-justification
-
-Erreur consistant à croire que produire une assertion suffit à la rendre valide.
-
-Une assertion ouvre un espace d'évaluation ; elle ne garantit pas elle-même sa correction.
-
----
-
-## 7.3 L'effacement des supports
-
-Erreur consistant à considérer le locuteur comme une conscience pure indépendante des conditions matérielles.
-
-Toute prise de position suppose :
-
-- un corps ;
-- des instruments ;
-- des archives ;
-- des supports d'inscription.
-
----
-
-# 8. Synthèse et ouvertures
-
-Le locuteur protokinien n'est pas un sujet souverain placé à l'origine du langage.
-
-Il est une position normative et relationnelle émergente au sein d'une communauté descriptive.
-
-Il est simultanément :
-
-- un organisme capable d'interaction ;
-- un auditeur formé par des pratiques collectives ;
-- un locuteur capable d'assertion ;
-- un agent responsable dans l'espace des raisons.
-
-**Ce qu'il suppose :**
-
-- la description ;
-- la qualification ;
-- la prédication ;
-- l'audition ;
-- les communautés de justification.
-
-**Ce qu'il rend possible :**
-
-- l'analyse de l'assertion ;
-- l'étude des engagements descriptifs ;
-- la responsabilité normative ;
-- l'audit des positions épistémiques ;
-- l'analyse des communautés de locuteurs.
+La position du locuteur compte dans l’examen d’une description, mais elle ne suffit à établir ni sa correction ni sa validité. Celles-ci dépendent des contenus, des éléments disponibles, des règles d’inférence et des critères pertinents pour la pratique considérée.
