@@ -6,7 +6,7 @@ Cette page propose des repères pratiques pour conduire une enquête dans le cad
 
 Elle aide à passer d’une difficulté rencontrée dans une pratique descriptive à un examen organisé de ce qui fait problème, des éléments disponibles, des distinctions mobilisées et des conclusions que l’on peut défendre.
 
-Elle complète l’[Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md), qui définit les opérations de l’enquête. Elle ne les remplace pas et ne constitue pas une seconde chaîne d’opérations.
+Elle complète l’[Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md), qui définit les opérations de l’enquête. Elle ne les remplace pas et ne constitue pas une seconde chaîne d’opérations.
 
 ## 2. Point de départ : une difficulté à examiner
 
