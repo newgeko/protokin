@@ -14,15 +14,15 @@
 
 - Opérations de l’enquête
   
-  - "Délimiter" (fr/delimiter.md)
-  - "Ancrer" (fr/ancrer.md)
-  - "Distinguer" (fr/distinguer.md)
-  - "Relier" (fr/relier.md)
-  - "Configurer" (fr/configurer.md)
-  - "Justifier" (fr/justifier.md)
-  - "Reconstituer" (fr/reconstituer.md)
-  - "Redélimiter" (fr/redelimiter.md)
-  - "Conduire une enquête" (fr/conduire-une-enquete.md)
+  - [Délimiter](fr/delimiter.md)
+  - [Ancrer](fr/ancrer.md)
+  - [Distinguer](fr/distinguer.md)
+  - [Relier](fr/relier.md)
+  - [Configurer](fr/configurer.md)
+  - [Justifier](fr/justifier.md)
+  - [Reconstituer](fr/reconstituer.md)
+  - [Redélimiter](fr/redelimiter.md)
+  - [Conduire une enquête](fr/conduire-une-enquete.md)
 
 - Fonctions transversales
   
