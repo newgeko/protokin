@@ -129,7 +129,7 @@ Il faut préciser les contenus concernés, les règles et les prémisses mobilis
 
 L’analyse peut alors établir qu’un passage est recevable dans certaines conditions, qu’il nécessite des éléments supplémentaires ou qu’il doit être révisé. Elle ne garantit pas, par elle-même, la résolution du problème descriptif.
 
-## Synthèse
+## 9. Synthèse
 
 Une inférence est une transition discursive qui relie des contenus selon des relations d’autorisation, d’engagement ou d’incompatibilité.
 
@@ -139,7 +139,7 @@ L’inférence formelle et l’inférence matérielle examinent des dimensions d
 
 L’inférence contribue ainsi à l’enquête sans se substituer à l’examen des prémisses, à la justification des conclusions ni à l’évaluation de l’adéquation d’une description.
 
-## Pour poursuivre
+## 10. Pour poursuivre
 
 - [La portée inférentielle](fr/la-portee-inferentielle.md)
 - [Inférence formelle](fr/inference-formelle.md)
