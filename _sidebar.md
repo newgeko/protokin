@@ -48,7 +48,7 @@
   - [Inférence matérielle](fr/inference-materielle.md)
   - [Espace des raisons](fr/espace-des-raisons.md)
   - [Raison](fr/raison.md)
-  - [Pairs — Engagement discursif et habilitation](pairs.md)
+  - [Pairs — Engagement discursif et habilitation](fr/pairs.md)
   - [Justification](fr/justification.md)
   - [Critère](fr/critere.md)
   - [Relation sémantique et référence](fr/relation-semantique-et-reference.md)
