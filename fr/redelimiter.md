@@ -1,113 +1,143 @@
-Redélimiter — Reprendre la définition du problème
+# Redélimiter — Réexaminer les limites du problème
 
-Fonction
+## 1. Fonction
 
-Redélimiter consiste à réexaminer les limites du problème descriptif à la lumière des résultats, des justifications et des limites établis au cours de l’enquête.
+Redélimiter consiste à réexaminer la formulation, la portée et les limites du problème descriptif à la lumière des résultats de l’enquête.
 
-L’opération détermine si la délimitation initiale peut être maintenue, doit être précisée ou doit être remplacée par une autre formulation du problème.
+Cette opération permet de déterminer si le problème initial peut être maintenu, s’il doit être précisé ou s’il recouvre plusieurs difficultés qu’il faut désormais distinguer. Elle peut aussi conduire à formuler un nouveau problème lorsque les résultats font apparaître une difficulté jusque-là non identifiée.
 
-Problème
+Redélimiter ne signifie donc pas nécessairement changer de problème. Le maintien de la formulation initiale constitue lui aussi une possibilité, à condition que les résultats disponibles permettent de le défendre.
 
-La délimitation initiale est une hypothèse de travail. Elle circonscrit une difficulté à partir des éléments disponibles, mais ne garantit pas que le problème soit correctement formulé ni que ses limites demeurent pertinentes au cours de l’enquête.
+## 2. Problème
 
-L’examen peut révéler qu’une distinction était insuffisante, qu’une dépendance avait été négligée, qu’un critère ne permettait pas de départager plusieurs descriptions ou que la difficulté rencontrée ne correspondait pas exactement au problème initialement identifié.
+La délimitation initiale est une hypothèse de travail. Elle permet de circonscrire une difficulté à partir des éléments disponibles, sans garantir que sa formulation soit suffisante ni que ses limites restent pertinentes pendant toute l’enquête.
 
-Maintenir la première délimitation malgré ces résultats risque de préserver une formulation devenue inadéquate. À l’inverse, modifier le problème à chaque difficulté rencontrée empêcherait de distinguer une véritable révision d’un simple déplacement de la question.
+Au cours de l’examen, plusieurs difficultés peuvent apparaître : une distinction ne permet pas de départager les cas, un critère se révèle inadapté, une dépendance jusque-là négligée modifie l’interprétation des résultats ou plusieurs questions initialement confondues s’avèrent distinctes.
 
-Redélimiter consiste à examiner les raisons qui autorisent à maintenir ou à modifier les limites du problème.
+Ces difficultés n’appellent pas toutes une modification du problème. Certaines exigent seulement de reprendre une opération ou de corriger une conclusion locale. D’autres montrent que la question initiale ne permet plus de traiter adéquatement ce qui a été mis au jour.
 
-Définition
+Le problème consiste donc à distinguer ce qui exige une révision de la délimitation de ce qui peut être corrigé sans la modifier.
 
-Redélimiter consiste à réviser la portée, la formulation ou les limites du problème à partir de ce que l’enquête a établi et de ce qu’elle n’a pas permis d’établir.
+## 3. Définition opérationnelle
 
-Cette opération peut conduire à :
+Redélimiter consiste à examiner si les limites du problème initial restent adaptées aux résultats, aux difficultés persistantes et aux conclusions que l’enquête peut effectivement soutenir.
 
-- maintenir la délimitation initiale lorsque les résultats la confirment suffisamment ;
-- préciser les différences pertinentes lorsque le problème était trop large ou insuffisamment déterminé ;
-- distinguer plusieurs problèmes auparavant confondus ;
-- intégrer une dépendance ou une condition jusque-là négligée ;
-- reformuler la question lorsque les critères retenus ne permettent pas de traiter la difficulté initiale ;
-- ouvrir un nouveau problème lorsque les résultats font apparaître une difficulté distincte.
+La révision peut prendre plusieurs formes :
 
-Redélimiter ne signifie donc pas nécessairement changer de problème. Le maintien de la délimitation constitue lui aussi un résultat possible, à condition que ce maintien puisse être défendu.
+- **Maintenir** la délimitation lorsque les résultats restent pertinents au regard de la question initiale.
+- **Préciser** le problème lorsque sa formulation demeure pertinente, mais que son domaine ou les différences à examiner doivent être mieux déterminés.
+- **Scinder** le problème lorsque plusieurs difficultés auparavant confondues appellent des examens distincts.
+- **Reformuler** le problème lorsque la question initiale ne permet pas de rendre compte de la difficulté effectivement rencontrée.
+- **Ouvrir un autre problème** lorsque l’enquête fait apparaître une question distincte, qui ne se réduit pas à la résolution de la difficulté initiale.
 
-Opération
+Ces possibilités ne constituent pas une série d’étapes. Elles désignent différentes décisions envisageables, dont la pertinence dépend de la difficulté examinée.
 
-L’opération de redélimitation consiste à :
+## 4. Conditions d’activation
 
-1. Reprendre la délimitation initiale : rappeler la difficulté, les différences retenues et les limites posées au départ.
-2. Examiner les résultats : déterminer ce que les opérations précédentes permettent effectivement de soutenir.
-3. Identifier les écarts : repérer les éléments inexpliqués, les distinctions insuffisantes et les difficultés qui persistent.
-4. Évaluer la portée : déterminer si ces écarts affectent le problème lui-même, les moyens de l’examiner ou seulement certaines conclusions.
-5. Justifier la nouvelle délimitation : expliciter les raisons de maintenir, de préciser, de scinder ou de reformuler le problème.
-6. Déterminer la suite : préciser si l’enquête peut s’arrêter sur ce problème, doit reprendre certaines opérations ou doit ouvrir une nouvelle enquête.
+Une redélimitation devient pertinente lorsque les résultats de l’enquête mettent en question les limites ou la formulation du problème initial.
 
-Ces opérations ne constituent pas une procédure automatique. La modification de la délimitation doit être proportionnée à la difficulté identifiée et aux résultats disponibles.
+Elle peut notamment être envisagée lorsque :
 
-Rapport au mouvement de l’enquête
+- une distinction nécessaire à l’examen se révèle insuffisante ;
+- les critères disponibles ne permettent pas de traiter la question comme elle avait été formulée ;
+- une dépendance pertinente modifie la portée du problème ;
+- plusieurs difficultés initialement réunies doivent être distinguées ;
+- les résultats obtenus répondent à une question différente de celle qui avait été posée ;
+- une difficulté persistante révèle une limite dans la manière même de circonscrire le problème.
 
-Redélimiter reprend le mouvement de l’enquête sans annuler les opérations déjà réalisées.
+Il faut cependant distinguer une difficulté qui affecte la délimitation d’une difficulté qui concerne seulement une réponse particulière. Une inférence incorrecte, par exemple, peut nécessiter une correction sans rendre inadéquate la formulation générale du problème.
 
-Opération| Apport à la redélimitation
-Délimiter| Fournit la formulation initiale du problème.
-Ancrer| Rend visibles les conditions et les appuis de son examen.
-Distinguer| Identifie les différences nécessaires à son traitement.
-Relier| Reconstruit les dépendances pertinentes.
-Configurer| Organise les éléments retenus dans une configuration descriptive.
-Justifier| Examine les raisons et les critères permettant de défendre les résultats.
-Reconstituer| Rend explicite le cheminement et ses limites.
-Redélimiter| Réexamine le problème à partir de ce cheminement et de ses résultats.
+La présence d’un résultat inattendu ne suffit donc pas, à elle seule, à justifier une redélimitation.
 
-Cette organisation ne constitue pas une chaîne de constitution du réel. Elle décrit un mouvement d’enquête dont les opérations peuvent être reprises lorsque le problème l’exige.
+## 5. Questions d’examen
 
-La redélimitation peut ainsi conduire à revenir sur l’ancrage, à reprendre une distinction, à examiner une relation ou à réviser une justification. Elle ne commande pas de recommencer toutes les opérations : elle permet de déterminer lesquelles doivent être reprises et pourquoi.
+Avant de maintenir ou de modifier la délimitation, l’enquête peut examiner les points suivants :
 
-Conditions de révision
+1. **Quel était le problème initial ?** Rappeler la difficulté identifiée, les différences retenues et les limites posées.
+2. **Qu’a établi l’enquête ?** Distinguer les résultats suffisamment étayés, les hypothèses encore ouvertes et les questions restées sans réponse.
+3. **Où se situe la difficulté persistante ?** Déterminer si elle concerne une conclusion, une distinction, un critère, une dépendance ou la formulation du problème lui-même.
+4. **La délimitation reste-t-elle pertinente ?** Examiner si elle permet toujours de traiter la difficulté ou si elle conduit à réunir des questions distinctes.
+5. **Quelle révision est proportionnée ?** Déterminer si une correction locale suffit ou si une précision, une scission ou une reformulation est nécessaire.
+6. **Qu’est-ce qui justifie la décision ?** Expliciter les résultats et les raisons qui autorisent à maintenir ou à modifier la délimitation.
 
-Une redélimitation doit pouvoir expliciter ce qui motive la révision.
+L’objectif n’est pas de produire systématiquement un nouveau problème, mais de rendre défendable la décision prise à son sujet.
 
-La modification peut être justifiée par :
+## 6. Exemple d’application
 
-- une inadéquation entre la formulation du problème et les difficultés effectivement rencontrées ;
-- l’apparition d’une distinction qui modifie la portée de la question ;
-- la découverte d’une dépendance pertinente ;
-- l’insuffisance des critères disponibles pour traiter le problème ;
-- la mise en évidence de plusieurs problèmes jusque-là confondus ;
-- une transformation de la configuration qui rend la délimitation antérieure insuffisante.
+Une enquête commence par chercher pourquoi deux descriptions d’une même situation paraissent contradictoires. L’examen montre progressivement que les deux descriptions ne mobilisent pas les mêmes critères : l’une évalue la situation selon un objectif pratique, l’autre selon une exigence de classification.
 
-Il faut distinguer une difficulté qui appelle une nouvelle délimitation d’une difficulté qui appelle seulement une correction locale. Une erreur dans une inférence, par exemple, ne nécessite pas toujours de reformuler le problème général. Inversement, une succession d’échecs locaux peut révéler une délimitation initiale inadéquate.
+La difficulté initiale semblait porter sur une contradiction entre deux descriptions. Les résultats suggèrent plutôt que plusieurs questions ont été confondues : les descriptions sont-elles incompatibles, répondent-elles à des objectifs différents, ou appliquent-elles des critères dont les rapports restent à examiner ?
 
-La décision doit donc porter sur la nature de la difficulté, et non sur la seule présence d’un résultat inattendu.
+Il ne serait pas justifié de conclure immédiatement à l’absence de contradiction. Il faut d’abord déterminer dans quelles conditions les descriptions peuvent être comparées et si elles avancent effectivement des conclusions incompatibles.
 
-Prépare
+La redélimitation peut alors consister à remplacer la question générale de la contradiction par un examen plus précis des critères mobilisés et des conditions de leur compatibilité. Elle ne résout pas d’avance le désaccord : elle reformule le problème de manière à rendre son examen plus pertinent.
 
-La redélimitation prépare une nouvelle séquence d’enquête lorsque la difficulté reformulée exige de nouveaux appuis, de nouvelles distinctions ou d’autres critères.
+## 7. Ce que la redélimitation permet d’établir
 
-Elle peut également permettre de maintenir le problème initial tout en précisant la portée des résultats obtenus.
+La redélimitation permet de préciser :
 
-Elle ne fixe pas à l’avance la suite du mouvement. Selon le cas, l’enquête peut reprendre à l’ancrage, à la distinction, à la relation ou à la justification. Une nouvelle délimitation n’impose pas nécessairement de recommencer depuis la première opération.
+- si la formulation initiale reste adaptée aux résultats ;
+- quelles difficultés ont été résolues et lesquelles persistent ;
+- si plusieurs questions doivent désormais être distinguées ;
+- quelle partie de l’enquête doit être reprise ;
+- quelles nouvelles questions deviennent pertinentes ;
+- dans quelles limites les conclusions obtenues répondent au problème initial.
 
-N’établit pas
+Elle contribue ainsi à maintenir un rapport explicite entre la question examinée, les moyens mobilisés et les conclusions défendues.
+
+## 8. Ce qu’elle n’établit pas
 
 Redélimiter n’établit pas automatiquement :
 
 - que la délimitation initiale était erronée ;
-- que toute difficulté appelle un nouveau problème ;
-- que la reformulation retenue est définitive ;
-- que les résultats obtenus sont adéquats dans tous les contextes ;
-- que l’enquête doit se poursuivre indéfiniment ;
-- que la cohérence du mouvement suffit à justifier ses conclusions.
+- que toute difficulté persistante exige un nouveau problème ;
+- que la nouvelle formulation est nécessairement meilleure ;
+- que les résultats obtenus sont adéquats au-delà des conditions examinées ;
+- qu’une reformulation permet d’écarter les résultats qui contredisent une hypothèse ;
+- que l’enquête doit se poursuivre indéfiniment.
 
-La redélimitation est elle-même une opération à justifier. Une reformulation qui écarterait simplement les résultats gênants, déplacerait les critères sans les expliciter ou rendrait le problème artificiellement insoluble ne constituerait pas une révision adéquate.
+Une redélimitation peut devenir une manière d’éviter une difficulté si elle modifie les critères ou la question uniquement pour préserver une conclusion préalable. Elle doit donc être justifiée par ce que l’enquête a effectivement mis au jour.
 
-L’enquête peut s’arrêter lorsque son objectif est suffisamment circonscrit et que ses résultats sont défendables au regard des critères retenus. Cet arrêt demeure situé : il n’équivaut pas à une clôture définitive de la question.
+Le maintien du problème initial peut être préférable à une reformulation lorsque les difficultés rencontrées appellent seulement des corrections locales. Inversement, conserver une formulation devenue inadéquate peut empêcher de traiter les résultats obtenus.
 
-Synthèse
+## 9. Articulation avec les autres opérations
 
-Redélimiter consiste à reprendre le problème à partir de ce que l’enquête a rendu descriptible, examinable et justifiable, mais aussi à partir de ce qu’elle laisse irrésolu.
+La redélimitation intervient en relation avec les autres opérations de l’enquête, sans imposer de les reprendre toutes.
 
-L’opération permet de maintenir, de préciser ou de reformuler le problème sans confondre révision et abandon, ni continuité de l’enquête et répétition mécanique de ses étapes.
+- **Délimiter** fournit la formulation initiale à réexaminer.
+- **Ancrer** permet de reprendre les conditions et les appuis mobilisés lorsque leur pertinence est mise en question.
+- **Distinguer** permet de réexaminer les différences lorsque plusieurs cas ou difficultés ont été confondus.
+- **Relier** et **Configurer** peuvent être repris lorsque les dépendances ou l’organisation des éléments ne permettent plus de traiter le problème initial.
+- **Justifier** permet d’examiner les raisons et les critères qui soutiennent la décision de maintenir ou de modifier la délimitation.
+- **Reconstituer** rend explicites le cheminement de l’enquête, les transformations opérées et les limites des résultats sur lesquels la décision s’appuie.
 
-Elle rend possible un nouveau mouvement lorsque les résultats le requièrent, ou un arrêt provisoire lorsque la délimitation et les conclusions sont suffisamment défendables.
+Cette articulation ne constitue pas une procédure obligatoire. Selon la difficulté rencontrée, l’enquête peut reprendre une seule opération, en combiner plusieurs ou maintenir les résultats antérieurs tout en reformulant le problème.
 
-Délimiter ouvre l’enquête. Reconstituer rend son cheminement explicite. Redélimiter reprend le problème à la lumière des résultats.
+La distinction essentielle est la suivante : **reconstituer rend le cheminement explicite ; redélimiter réexamine le problème à partir de ce cheminement et de ses résultats.**
+
+## 10. Conditions de clôture
+
+La redélimitation peut conduire à poursuivre l’enquête, à ouvrir une question distincte ou à maintenir le problème dans ses limites initiales.
+
+Une enquête peut s’arrêter lorsque le problème est suffisamment circonscrit pour son objectif et que les conclusions obtenues sont défendables au regard des critères retenus. Cet arrêt n’exige pas que toute difficulté possible soit résolue.
+
+La décision de clore l’examen reste elle-même située : elle dépend du problème traité, des résultats disponibles et des exigences auxquelles les conclusions doivent répondre. Elle ne vaut pas clôture définitive de toutes les questions connexes.
+
+## Synthèse
+
+Redélimiter consiste à réexaminer les limites du problème à partir de ce que l’enquête a établi, de ce qu’elle n’a pas permis d’établir et des difficultés qu’elle a fait apparaître.
+
+L’opération permet de maintenir, de préciser, de scinder ou de reformuler le problème sans confondre révision et abandon, ni difficulté locale et inadéquation de la délimitation.
+
+Elle ne garantit pas que la nouvelle formulation soit meilleure : celle-ci doit être défendue à partir des résultats et des raisons qui motivent la révision.
+
+Délimiter formule le problème. Reconstituer rend le cheminement de l’enquête explicite. Redélimiter réexamine les limites du problème à la lumière des résultats.
+
+---
+
+Pour poursuivre :
+
+- [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md)
+- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md)
+- [Table des matières](tdm.md)
+- [Patterns éditoriaux de Protokin](../patterns.md)
