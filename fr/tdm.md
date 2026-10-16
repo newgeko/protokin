@@ -80,32 +80,44 @@ L’analyse distingue le contenu d’un énoncé, l’acte par lequel il est end
 
 ### A. Proposition, assertion et engagements
 
-- [Proposition](proposition.md) — Examiner les contenus susceptibles d’être évalués et mobilisés comme prémisses ou conclusions.
-- [Assertion](assertion.md) — Examiner l’acte d’endossement et la responsabilité discursive qui lui est associée.
-- [Engagements descriptifs](engagements-descriptifs.md) — Préciser les engagements associés à un énoncé et leurs conséquences dans une pratique.
-- [Le débordement pragmatique de l’assertion](le-debordement-pragmatique-de-l-assertion.md) — Examiner les conclusions qu’une assertion peut autoriser au-delà de l’intention explicite de l’instance qui l’énonce.
+- [Proposition](fr/proposition.md) — Examiner les contenus susceptibles d’être évalués et mobilisés comme prémisses ou conclusions.
+- [Assertion](fr/assertion.md) — Examiner l’acte d’endossement et la responsabilité discursive qui lui est associée.
+- [Engagements descriptifs](fr/engagements-descriptifs.md) — Préciser les engagements associés à un énoncé et leurs conséquences dans une pratique.
+- [Le débordement pragmatique de l’assertion](fr/le-debordement-pragmatique-de-l-assertion.md) — Examiner les conclusions qu’une assertion peut autoriser au-delà de l’intention explicite de l’instance qui l’énonce.
 
 La proposition et l’assertion remplissent des fonctions distinctes : l’une concerne le contenu évaluable ; l’autre, son endossement dans une pratique discursive.
 
 ### B. Inférence et espace des raisons
 
-- [La portée inférentielle](la-portee-inferentielle.md) — Examiner les engagements présupposés et les conséquences autorisées par un contenu.
--  [Inférence formelle](inference-formelle.md) — Examiner la validité d’un raisonnement à partir de sa structure logique, indépendamment de la vérité effective de ses prémisses.
-- [Inférence matérielle](inference-materielle.md) — Examiner les relations d’autorisation qui dépendent du contenu des énoncés.
-- [Espace des raisons](espace-des-raisons.md) — Situer les relations entre raisons, conclusions, habilitations et incompatibilités.
-- [Raisons](raisons.md) — Préciser ce qui peut soutenir, contester ou réviser une conclusion.
-- [Justifications](justifications.md) — Examiner les conditions dans lesquelles un engagement peut être défendu.
-- [Critères](criteres.md) — Préciser les normes selon lesquelles une description ou une conclusion est évaluée.
-- [Relation sémantique et référence](relation-semantique-et-reference.md) — Examiner l’articulation entre contenu, usage et visée référentielle.
+- [Inférences](fr/inferences.md) — Présenter l’inférence comme une transition discursive qui autorise, exige ou exclut d’autres descriptions.
+- [La portée inférentielle](fr/la-portee-inferentielle.md) — Examiner les engagements présupposés et les conséquences autorisées par un contenu.
+- [Inférence formelle](fr/inference-formelle.md) — Examiner la validité d’un raisonnement à partir de sa structure logique.
+- [Inférence matérielle](fr/inference-materielle.md) — Examiner les relations d’autorisation qui dépendent du contenu des énoncés.
+- [Espace des raisons](fr/espace-des-raisons.md) — Situer les relations entre raisons, conclusions, habilitations et incompatibilités.
+- [Raisons](fr/raisons.md) — Préciser ce qui peut soutenir, contester ou réviser une conclusion.
+- [Justifications](fr/justifications.md) — Examiner les conditions dans lesquelles un engagement peut être défendu.
+- [Critères](fr/criteres.md) — Préciser les normes selon lesquelles une description ou une conclusion est évaluée.
+- [Relation sémantique et référence](fr/relation-semantique-et-reference.md) — Examiner l’articulation entre contenu, usage et visée référentielle.
 
-### C. Inférence, substitution et anaphore
+### C. Dérivation relationnelle et inférence normative
 
-- [Prédication](predication.md) — Examiner la fonction d’attribution et les engagements associés à une prédication.
-- [Référent](referent.md) — Examiner les pratiques d’identification, les jugements d’identité et la visée d’objet.
-- [Objet descriptif](objet-descriptif.md) — Préciser comment une différence est stabilisée comme identifiable et réutilisable dans une pratique descriptive.
-- [Description](description.md) — Examiner les descriptions comme des configurations susceptibles d’être discutées et révisées.
-- [Anaphore](anaphore.md) — Examiner les reprises discursives et les relations de dépendance entre occurrences.
-- [Stabilisation](stabilisation.md) — Examiner le maintien provisoire d’une distinction dans une pratique.
+Ces pages distinguent la dérivation de relations apprises, la transformation des fonctions de stimulus et le statut normatif des inférences. Leur rapprochement ne suppose pas que les mécanismes décrits par la RFT suffisent à justifier une conclusion.
+
+- [Inférence mutuelle](fr/inference-mutuelle.md) — Examiner la dérivation d’une relation réciproque à partir d’une relation apprise.
+- [Inférence combinatoire](fr/inference-combinatoire.md) — Examiner la dérivation de relations nouvelles à partir de relations apprises séparément.
+- [Dérivation relationnelle et inférence normative](fr/derivation-relationnelle-et-inference-normative.md) — Distinguer la dérivation relationnelle de l’inférence normative dans l’architecture de Protokin.
+- [Transduction relationnelle — RFT](fr/transduction-relationnelle-rft.md) — Examiner l’articulation entre transformations fonctionnelles et pratiques de redevabilité, sans réduire les raisons à des causes.
+- [Transformation relationnelle des fonctions de stimulus — RFT](fr/transformation-relationnelle-rft.md) — Décrire comment des relations apprises peuvent transformer les fonctions de stimulus, sans convertir ces effets en justification.
+- [Transformation des fonctions de stimulus](fr/transformation-de-fonction-de-stimulus.md) — Distinguer les effets comportementaux d’un stimulus des relations qui les modulent et de la justification des conclusions associées.
+
+### D. Inférence, substitution et anaphore
+
+- [Prédication](fr/predication.md) — Examiner la fonction d’attribution et les engagements associés à une prédication.
+- [Référent](fr/referent.md) — Examiner les pratiques d’identification, les jugements d’identité et la visée d’objet.
+- [Objet descriptif](fr/objet-descriptif.md) — Préciser comment une différence est stabilisée comme identifiable et réutilisable dans une pratique descriptive.
+- [Description](fr/description.md) — Examiner les descriptions comme des configurations susceptibles d’être discutées et révisées.
+- [Anaphore](fr/anaphore.md) — Examiner les reprises discursives et les relations de dépendance entre occurrences.
+- [Stabilisation](fr/stabilisation.md) — Examiner le maintien provisoire d’une distinction dans une pratique.
 
 L’inférence, la substitution et l’anaphore désignent des dimensions articulées de l’analyse : les relations entre engagements, les transformations linguistiques et la continuité discursive.
 
