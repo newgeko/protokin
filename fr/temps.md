@@ -1,214 +1,114 @@
-Le temps
+# Temps physique — Mesure et relations temporelles
 
-«Notre accès empirique au temps est nécessairement médiatisé par des relations entre événements et processus physiques.»
+## 1. Fonction
 
-Fonction
+Cette page examine comment les relations temporelles sont établies, mesurées et interprétées dans l’étude des processus physiques.
 
-Le concept de temps permet de décrire l'ordre, la durée, la succession, la simultanéité et la transformation des événements.
+Elle distingue les processus qui servent de repères, les relations temporelles mesurées et les modèles théoriques qui permettent de les décrire. Elle ne cherche pas à déterminer ce qu’est le temps en soi.
 
-Cette page ne cherche pas à déterminer ce qu'est le temps en soi, mais à préciser comment il intervient dans une description empirique.
+La question directrice est la suivante : **que mesure-t-on lorsqu’on mesure une durée, et sur quoi repose l’établissement d’une relation temporelle ?**
 
-La distinction est importante :
+## 2. Problème
 
-«Les conditions empiriques d'accès au temps ne constituent pas nécessairement une définition ontologique du temps.»
+Dans l’étude d’un processus physique, il faut pouvoir ordonner des événements, comparer des durées et caractériser des transformations. Ces opérations supposent des repères et des procédures de mesure.
 
----
+Une horloge ne fournit pas une durée indépendamment de tout dispositif : elle exploite un processus physique dont les évolutions peuvent être comparées et utilisées pour mesurer un intervalle. Les résultats obtenus dépendent notamment du fonctionnement de l’instrument, de son étalonnage et du cadre théorique dans lequel les mesures sont interprétées.
 
-Mesurer le temps
+Il faut donc distinguer trois questions :
 
-Une expérience ne mesure pas le temps indépendamment de tout processus physique.
+- Quels processus physiques servent de repères ?
+- Quelles relations temporelles établit-on par comparaison ?
+- Selon quelles méthodes et quels modèles interprète-t-on les mesures ?
 
-Nous mesurons des durées, des écarts, des périodes et des relations temporelles entre événements ou processus.
+Ces questions sont liées, mais leurs réponses ne sont pas interchangeables.
 
-Une horloge exploite à cette fin un processus physique régulier : oscillation, vibration, transition atomique, rotation, etc.
+## 3. Mesurer une durée
 
-Schématiquement :
+Les horloges exploitent des processus physiques réguliers ou suffisamment reproductibles : oscillations, vibrations, transitions atomiques ou autres phénomènes adaptés à une mesure.
 
-«événement A → processus physique de référence → événement B»
+La comparaison d’un processus avec un repère permet d’attribuer une durée à un intervalle. La mesure ne consiste donc pas nécessairement à suivre un déplacement dans l’espace. Le mouvement spatial constitue un cas particulier parmi les processus susceptibles de servir de repères temporels.
 
-Le processus permet de comparer l'intervalle séparant A et B.
-
-Il ne s'agit donc pas nécessairement d'un déplacement dans l'espace. Le mouvement spatial n'est qu'un cas particulier parmi les processus susceptibles de servir de repère temporel.
-
-Le principe général est plutôt :
-
-«Un processus physique régulier permet de quantifier une relation temporelle.»
-
----
-
-Temps et relation
-
-Une durée n'est pas une propriété simple d'un événement considéré isolément.
-
-Dire :
-
-«« A dure dix secondes »»
-
-suppose une comparaison entre l'évolution de A et un processus physique servant de référence.
-
-De même :
-
-«« A précède B »»
-
-exprime une relation entre deux événements, et non une propriété intrinsèque de A ou de B.
-
-Le temps intervient ainsi dans la description comme une dimension relationnelle de l'ordre et de la durée des transformations.
-
-Mais cette constatation ne suffit pas à établir que le temps est ontologiquement une relation.
+Dire qu’un événement ou un processus dure dix secondes revient à situer son évolution par rapport à une unité de durée réalisée et utilisée dans un dispositif de mesure.
 
 Il faut distinguer :
 
-«description relationnelle du temps ≠ thèse selon laquelle le temps est une relation.»
+- le processus physique employé comme repère ;
+- la procédure qui permet d’établir la mesure ;
+- la durée attribuée au processus étudié.
 
----
+Le processus de référence rend la mesure possible dans des conditions déterminées. Il ne se confond ni avec la durée mesurée ni avec la procédure qui permet de l’établir.
 
-Temps et changement
+## 4. Relations temporelles et transformations
 
-Le temps est particulièrement important lorsqu'une enquête porte sur une transformation.
+Les descriptions physiques mobilisent différentes relations temporelles :
 
-Décrire une transformation implique de pouvoir distinguer :
+- **Antériorité et postériorité** : un événement est situé avant ou après un autre dans un cadre temporel déterminé.
+- **Succession** : des événements sont ordonnés selon une relation temporelle.
+- **Simultanéité** : des événements sont considérés comme simultanés selon les conditions et le cadre de référence pertinents.
+- **Durée** : un intervalle est mesuré entre des événements ou au cours d’un processus.
+- **Périodicité** : un processus présente des occurrences ou des phases qui se répètent selon un certain régime.
 
-«un état antérieur → une modification → un état ultérieur»
+Ces relations permettent de décrire les transformations et de comparer des processus. Elles ne constituent pas, à elles seules, une explication de leur production.
 
-Le temps permet alors de situer et de comparer les changements.
+En particulier :
 
-Il ne faut cependant pas transformer cette fonction descriptive en explication causale.
+**Succession ≠ causalité**
 
-Ainsi :
+**Antériorité ≠ cause**
 
-«succession ≠ causalité»
+Le fait qu’un événement précède un autre ne suffit pas à établir qu’il en est la cause. Une explication causale exige des éléments supplémentaires, adaptés au phénomène étudié.
 
-et :
+La temporalisation permet également de caractériser l’allure d’un processus : accélération, ralentissement, oscillation, stabilité relative ou changement de régime. Ces caractérisations dépendent de ce qui est mesuré et de l’échelle temporelle retenue.
 
-«antériorité ≠ cause»
+## 5. Mesure et modèle théorique
 
-Un événement peut précéder un autre sans en être la cause.
+Une mesure et son interprétation théorique remplissent des fonctions différentes.
 
----
+La mesure établit des résultats selon un dispositif, des procédures et des conditions déterminés. Un modèle théorique permet d’organiser ces résultats, de les relier à d’autres phénomènes et de formuler des prédictions.
 
-Temps et trajectoire
+La théorie physique ne se réduit donc pas à la lecture immédiate d’une mesure ; inversement, les modèles théoriques ne sont pas indépendants des contraintes empiriques auxquelles ils doivent répondre.
 
-La temporalisation permet également de décrire l'allure d'une transformation.
+La relativité en fournit un exemple. Deux horloges suivant des trajectoires différentes peuvent, lorsqu’elles sont comparées, indiquer des durées propres différentes. L’analyse de cette différence mobilise les conditions physiques des trajectoires, les procédures de comparaison et la structure théorique de l’espace-temps.
 
-Une trajectoire peut être :
+Il ne suffit pas de dire que le temps « ralentit » comme si cette formule constituait à elle seule une description complète du phénomène. Il faut préciser quelles horloges sont comparées, dans quelles conditions et selon quel modèle les résultats sont interprétés.
 
-- cumulative ;
-- inertielle ;
-- critique ;
-- oscillatoire.
+La mesure, la comparaison expérimentale et la formalisation théorique sont ainsi articulées, sans être confondues.
 
-Ces qualificatifs caractérisent la manière dont une transformation se distribue dans la durée et non des propriétés éternelles du processus.
+## 6. Ce que l’analyse empirique permet d’établir
 
-Une même trajectoire peut d'ailleurs présenter plusieurs régimes successifs.
+L’étude physique du temps permet d’établir des relations temporelles, de comparer des durées et d’examiner les transformations de processus dans des conditions déterminées.
 
-Le temps permet ainsi de ne pas seulement constater qu'un changement a eu lieu, mais de décrire comment il se déploie.
+La portée des résultats dépend des instruments utilisés, des incertitudes de mesure, des procédures de comparaison et des modèles mobilisés. Une mesure ne doit pas être interprétée au-delà de ce que ces conditions autorisent.
 
----
+Ces constats ne tranchent pas, à eux seuls, les questions philosophiques portant sur le statut du temps. L’efficacité d’une méthode de mesure ne suffit pas à établir que le temps est une substance, une propriété fondamentale, une relation entre événements ou une construction mentale. De même, décrire le temps au moyen de relations mesurables ne suffit pas à démontrer qu’il est ontologiquement réductible à ces relations.
 
-Temps et quadripartition
+Il faut donc distinguer les résultats établis dans une enquête physique et les conclusions plus générales que l’on voudrait en tirer sur la nature du temps.
 
-Le temps peut être interrogé selon les quatre dimensions sans que celles-ci constituent quatre « parties » du temps.
+## 7. Temps physique et temporalité descriptive
 
-Corps
+Le temps physique et la temporalité descriptive ne désignent pas le même objet d’examen.
 
-Quels processus physiques permettent l'établissement d'un repère temporel ?
+Le premier concerne les relations temporelles établies dans l’étude de processus physiques. La seconde concerne la manière dont les descriptions se maintiennent, se transmettent, sont mobilisées et se transforment dans des pratiques.
 
-Horloges, oscillations, transitions et autres phénomènes réguliers constituent les supports matériels de la mesure.
+Une description peut être révisée longtemps après la transformation de la situation qu’elle vise. Inversement, une description peut changer alors que son référent demeure suffisamment stable pour être réidentifié. L’ordre des transformations physiques ne suffit donc pas à déterminer celui des révisions descriptives.
 
-Relation
+Cette distinction ne signifie pas que les pratiques descriptives seraient indépendantes de leurs conditions physiques. Elles mobilisent des organismes, des supports matériels, des instruments et des environnements. Mais les conditions physiques d’une pratique ne suffisent pas à expliquer l’ensemble des relations sémantiques et des normes qui organisent ses descriptions.
 
-Comment les événements et processus sont-ils ordonnés ou comparés ?
+La temporalité des pratiques descriptives doit être examinée pour elle-même, sans être ramenée à la seule mesure physique du temps.
 
-C'est ici que se situent la succession, la simultanéité, l'antériorité, la postériorité et la durée.
+Pour approfondir cette distinction, voir [Temporalité descriptive](temporalite-descriptive.md).
 
-Fonction
+## Synthèse
 
-Que permet la temporalisation dans une pratique descriptive ?
+L’étude physique du temps repose sur l’établissement de relations temporelles au moyen de processus de référence, de procédures de mesure et de modèles théoriques.
 
-Elle permet notamment de comparer des transformations, d'établir des durées, d'ordonner des événements et de caractériser des trajectoires.
+Elle permet d’ordonner des événements, de comparer des durées et de caractériser des transformations, sans que ces opérations déterminent à elles seules le statut ontologique du temps.
 
-Justification
+La distinction avec la temporalité descriptive est fonctionnelle : mesurer les relations temporelles de processus physiques et examiner les transformations des pratiques descriptives sont deux enquêtes liées, mais non substituables.
 
-Selon quels critères une mesure ou une description temporelle est-elle tenue pour valide ?
+Pour poursuivre :
 
-Cette question concerne notamment l'étalonnage, la précision, la méthode de comparaison et les conditions de validité du dispositif.
-
-Ces dimensions doivent rester distinctes.
-
----
-
-Principe de non-conversion
-
-Le temps fournit un cas particulièrement clair du principe général :
-
-«La relation n'est pas la propriété physique de la chose, et la fonction n'est pas la chose elle-même.»
-
-Une horloge possède des propriétés physiques déterminées. Elle peut exercer une fonction de mesure temporelle dans une pratique déterminée.
-
-De même, une relation temporelle entre deux événements ne devient pas pour autant une propriété physique intrinsèque de chacun d'eux.
-
-On peut donc distinguer :
-
-«processus physique → relation temporelle → fonction de mesure»
-
-sans convertir l'un de ces termes dans un autre.
-
-Le processus physique fournit le support matériel ; la relation temporelle est ce qui est comparé ou décrit ; la fonction de mesure appartient à la pratique dans laquelle le processus est utilisé comme référence.
-
----
-
-Relativité et temps propre
-
-La relativité permet de préciser cette distinction.
-
-Deux horloges peuvent suivre des trajectoires différentes et, lorsqu'elles sont ensuite comparées, avoir enregistré des durées différentes.
-
-L'expérience ne consiste pas à observer directement « le temps qui se dilate ».
-
-Elle consiste à comparer les processus physiques des horloges.
-
-La théorie relativiste décrit cette différence au moyen de la structure de l'espace-temps et du temps propre associé à chaque trajectoire.
-
-La mesure empirique et la formalisation théorique doivent donc être distinguées :
-
-«processus physique → comparaison expérimentale → relation temporelle mesurée → formalisation théorique»
-
-La structure en quatre dimensions de l'espace-temps est une construction théorique physiquement contrainte par les relations mesurées ; elle n'est pas elle-même un objet observé comme une quatrième direction spatiale.
-
----
-
-Ce que cette page n'établit pas
-
-Cette analyse ne tranche pas entre les différentes conceptions philosophiques du temps.
-
-Elle n'établit pas que le temps est :
-
-- une substance ;
-- une propriété fondamentale de l'univers ;
-- une relation entre événements ;
-- une construction mentale ;
-- une dimension indépendante ;
-- une illusion ;
-- ou un simple produit du changement.
-
-Elle établit une proposition plus limitée :
-
-«L'expérience empirique du temps passe par la comparaison et l'ordonnancement d'événements et de processus physiques.»
-
-La question de savoir si cette structure révèle la nature même du temps relève d'une enquête ontologique supplémentaire.
-
----
-
-Synthèse
-
-Nous ne mesurons pas le temps comme nous mesurons directement une masse, une température ou une longueur.
-
-Nous établissons des relations temporelles à partir de processus physiques comparables et suffisamment réguliers pour servir de repères.
-
-Ainsi :
-
-«Nous n'observons jamais le temps lui-même : nous observons des relations temporelles entre des événements et des processus physiques.»
-
-Cette condition empirique d'accès ne préjuge pas, à elle seule, du statut ontologique de la structure temporelle décrite par la théorie.
-
-«Accès relationnel au temps ne signifie pas nécessairement ontologie relationnelle du temps.»
+- [Temporalité descriptive](fr/temporalite-descriptive.md) — Examiner les transformations des descriptions dans les pratiques.
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer la fonction Temporaliser dans l’enquête.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations de l’examen sans les convertir les unes dans les autres.
+- [Table des matières](fr/tdm.md) — Replacer cette page dans l’organisation du corpus.
