@@ -1,204 +1,186 @@
-# Page : stabilisation.md
+# Stabilisation — Le maintien relatif d’une configuration
 
-Stabilisation
+## Fonction
 
-Fonction
+La **stabilisation** permet d’examiner comment une configuration demeure suffisamment reconnaissable pour être reprise dans une pratique, malgré les variations qui l’affectent.
 
-La stabilisation permet de décrire la persistance relative d'une configuration à travers ses reprises et ses variations.
+Elle concerne la continuité que l’enquête peut établir entre plusieurs occurrences d’une configuration, à partir de critères explicites. Elle ne suppose ni que tous les éléments restent identiques, ni que la configuration conserve nécessairement la même fonction.
 
-Elle intervient lorsqu'une enquête doit déterminer comment une configuration peut demeurer suffisamment reconnaissable pour être reprise, sans supposer qu'elle reste identique à elle-même.
+La question directrice est la suivante :
 
-«Stabiliser, c'est rendre une configuration suffisamment persistante pour qu'elle puisse être reprise sans être recréée à chaque occurrence.»
+**Qu’est-ce qui permet de reconnaître le maintien d’une configuration à travers ses reprises et ses variations ?**
 
-La stabilisation ne désigne donc ni une permanence substantielle ni une absence de transformation.
+## 1. Problème : reconnaître une continuité
 
----
+Une configuration peut être reprise dans plusieurs situations sans être reproduite à l’identique. Certains de ses éléments peuvent varier, être remplacés ou être réorganisés, tandis que d’autres permettent encore de la reconnaître comme relevant d’une même configuration.
 
-Établie dans l'architecture
+La difficulté consiste à déterminer ce qui autorise cette reconnaissance. La répétition d’une forme, d’un terme ou d’une procédure ne suffit pas toujours : une même formulation peut remplir des fonctions différentes selon les pratiques, tandis que des formulations différentes peuvent préserver certaines continuités.
 
-La stabilisation appartient à l'analyse des configurations descriptives dans le temps.
+L’enquête doit donc préciser les critères selon lesquels une configuration est tenue pour maintenue. Ces critères dépendent du problème examiné : ils peuvent concerner des relations, des règles d’usage, des éléments matériels, des opérations récurrentes ou d’autres caractéristiques pertinentes.
 
-Elle intervient lorsque l'enquête a déjà identifié une configuration et cherche à déterminer ce qui permet d'en reconnaître une continuité à travers différentes occurrences.
+La stabilisation ne désigne pas une propriété intrinsèque de la configuration. Elle qualifie une continuité que l’on peut examiner et discuter à partir de critères déterminés.
 
-Elle se situe ainsi à l'articulation de :
+## 2. Définition et conditions d’examen
 
-«configuration → reprise → persistance relative»
+On appelle **stabilisation** le maintien relatif d’une configuration, reconnu à travers ses reprises et ses variations selon des critères pertinents pour une pratique ou une enquête.
 
-Elle n'est pas une étape nécessaire de toute enquête.
+Son examen demande de préciser :
 
-Elle devient pertinente lorsqu'une question porte sur la continuité d'une configuration au cours de ses reprises.
+- **La configuration concernée** : ce dont on cherche à établir la continuité.
+- **Les reprises observées** : les occurrences, les usages ou les situations comparés.
+- **Les variations constatées** : les éléments modifiés, remplacés, ajoutés ou abandonnés.
+- **Les critères de continuité** : les éléments ou les relations qui permettent de reconnaître un maintien malgré ces variations.
+- **La portée du constat** : les dimensions de la configuration dont la continuité est établie, et celles pour lesquelles elle reste incertaine.
 
----
+Ces éléments ne constituent pas une procédure obligatoire. Ils indiquent les questions à examiner lorsque la continuité d’une configuration est en jeu.
 
-Ce que la stabilisation n'établit pas
+La stabilisation peut être partielle : certains aspects d’une configuration peuvent être maintenus alors que d’autres se transforment. Elle peut également être reconnue à une échelle et non à une autre. Une procédure peut, par exemple, rester identifiable dans son organisation générale alors que plusieurs de ses règles d’application changent.
 
-La stabilisation n'établit pas :
+Il faut donc préciser ce qui est stabilisé, selon quels critères et dans quelles limites.
 
-- la validité d'une description ;
-- sa justification ;
-- sa vérité ;
-- sa cause ;
-- sa nécessité ;
-- son caractère définitif ;
-- une propriété intrinsèque de l'objet décrit.
+## 3. Maintien et variation
 
-La persistance d'une configuration ne constitue donc pas un argument suffisant en faveur de sa validité.
+La stabilisation ne signifie pas qu’une configuration demeure inchangée. Elle permet précisément d’examiner comment certaines continuités sont maintenues au cours des variations.
 
-«Persistance ≠ validité.»
+Trois situations doivent notamment être distinguées :
 
-De même, une configuration stabilisée peut continuer à être transformée.
+- **Maintien avec variation** : certains éléments changent, mais les critères retenus permettent toujours de reconnaître la continuité de la configuration.
+- **Maintien partiel** : certaines dimensions persistent, tandis que d’autres sont modifiées ou abandonnées.
+- **Continuité devenue incertaine** : les variations sont telles que les critères disponibles ne permettent plus de déterminer si la configuration doit encore être reconnue comme la même.
 
-«Stabilisation ≠ immobilité.»
+La troisième situation ne conduit pas automatiquement à conclure à une rupture. Elle peut signaler que les critères de continuité doivent être précisés ou que plusieurs reconstructions restent possibles.
 
----
+Une configuration peut ainsi être stabilisée sans être immobile, et une continuité apparente peut être contestée lorsque les éléments qui la fondent sont examinés.
 
-Dimensions de la quadripartition mobilisées
+**Stabilisation ≠ immobilité.**
 
-La stabilisation peut mettre au travail plusieurs dimensions de la quadripartition, mais elle ne les confond pas.
+**Continuité reconnue ≠ identité absolue.**
 
-Corps
+## 4. Ce qui contribue au maintien
 
-Les conditions corporelles et matérielles peuvent contribuer à la persistance d'une pratique.
+Le maintien d’une configuration peut dépendre de plusieurs éléments, dont la pertinence varie selon la pratique étudiée.
 
-Elles peuvent notamment concerner les capacités nécessaires à sa reprise, les supports matériels ou les conditions d'utilisation.
+Des relations peuvent être reproduites d’une occurrence à l’autre. Des règles d’usage peuvent permettre de reconnaître une configuration malgré des variations locales. Des supports matériels ou techniques peuvent rendre certaines reprises possibles. Des habitudes acquises, des procédures ou des dispositifs institutionnels peuvent également contribuer à la continuité observée.
 
-Mais :
+Ces éléments ne remplissent pas tous la même fonction. Un support peut conserver une inscription sans garantir qu’elle sera interprétée de la même manière. Une règle peut orienter les usages sans assurer que ses applications restent identiques. Une pratique répétée peut persister sans que les raisons de la maintenir soient explicitées.
 
-«condition matérielle ≠ stabilisation.»
+L’examen doit donc distinguer les éléments qui contribuent au maintien de la configuration, les critères selon lesquels ce maintien est reconnu et les explications éventuelles de sa persistance.
 
-Relation
+La présence d’un facteur contribuant au maintien ne suffit pas à établir qu’il explique entièrement la stabilisation observée.
 
-La stabilisation peut être examinée à travers les relations qui permettent à une configuration d'être reprise dans différentes situations.
+## 5. Distinctions nécessaires
 
-Mais :
+### 5.1. Stabilisation et configuration
 
-«relation ≠ persistance.»
+La configuration désigne l’organisation des éléments retenus pour l’examen d’un problème. La stabilisation concerne la continuité que l’on peut reconnaître lorsque cette configuration est reprise ou varie.
 
-Une relation contribue éventuellement à une configuration stabilisée sans constituer par elle-même son critère de continuité.
+L’analyse d’une configuration ne suffit donc pas à établir qu’elle se maintient dans le temps. Inversement, constater une continuité ne dispense pas de préciser ce qui est maintenu.
 
-Fonction
+### 5.2. Stabilisation et sédimentation
 
-La stabilisation concerne principalement la possibilité pour une configuration de continuer à remplir une fonction reconnaissable à travers ses variations.
+La stabilisation porte sur le maintien relatif d’une configuration à travers ses reprises. La **sédimentation** concerne l’accumulation de traces, d’inscriptions, de routines ou de supports au cours du temps.
 
-Elle permet ainsi d'examiner ce qui reste suffisamment continu lorsqu'une configuration est reprise dans des contextes différents.
+Une configuration peut être reprise sans laisser de trace documentaire durable. À l’inverse, une inscription peut être conservée alors que sa fonction ou ses conditions d’usage ont changé.
 
-Mais :
+La conservation d’une trace ne démontre donc pas, à elle seule, la stabilisation de la configuration à laquelle elle se rapporte.
 
-«fonction ≠ stabilisation.»
+Voir [Sédimentation](sedimentation.md).
 
-La fonction d'une configuration et la persistance de cette configuration sont deux questions distinctes.
+### 5.3. Stabilisation et effet cliquet
 
-Justification
+Une configuration stabilisée peut devenir plus coûteuse à réviser ou à abandonner, notamment lorsque plusieurs usages, supports ou engagements dépendent de son maintien. Mais cette asymétrie ne découle pas de la seule persistance.
 
-La justification intervient lorsque l'enquête examine les critères permettant de défendre, contester ou réviser une description.
+L’**effet cliquet** désigne une asymétrie des coûts de maintien, de révision ou d’abandon qu’il faut établir séparément. Il ne constitue ni une cause autonome de stabilisation ni une conséquence nécessaire de toute persistance.
 
-La stabilisation peut affecter les conditions dans lesquelles une description est reprise, mais elle ne fournit pas elle-même sa justification.
+Voir [Effet cliquet](effet-cliquet.md).
 
-«Stabilisation ≠ justification.»
+### 5.4. Stabilisation et trajectoire
 
----
+La stabilisation permet de caractériser une continuité reconnue dans les reprises d’une configuration. La **trajectoire** concerne le parcours des transformations que l’enquête peut reconstruire.
 
-Conversion ou réduction neutralisée
+Une trajectoire peut comporter des périodes de stabilisation, mais elle ne se réduit pas à leur succession. La stabilisation, à elle seule, ne permet pas de reconstruire le parcours qui a conduit à la configuration observée.
 
-La stabilisation neutralise principalement la conversion :
+Voir [Trajectoire descriptive](trajectoire.md).
 
-«persistance → validité»
+### 5.5. Stabilisation et allure
 
-Une description ne devient pas correcte parce qu'elle est ancienne, fréquente, largement reprise ou institutionnellement maintenue.
+L’**allure** qualifie la distribution temporelle des transformations d’une trajectoire. Elle peut notamment faire apparaître une période de faible transformation, sans que cette observation suffise à expliquer le maintien de la configuration.
 
-Elle neutralise également la conversion :
+La stabilisation porte sur la continuité reconnue ; l’allure, sur la distribution temporelle des transformations. Les deux analyses peuvent se compléter sans se confondre.
 
-«persistance descriptive → propriété de l'objet décrit»
+Voir [Allure](allure.md).
 
-Une configuration peut rester stable dans une pratique sans que cette stabilité révèle une essence de ce qu'elle décrit.
+### 5.6. Stabilisation et justification
 
-Enfin, elle empêche de convertir :
+Une description peut être maintenue dans une pratique sans que les raisons de ce maintien aient été examinées ou soient encore défendables.
 
-«stabilité → immobilité»
+La stabilisation ne justifie donc pas la configuration qu’elle permet de reconnaître. La justification exige un examen distinct des critères, des raisons et des objections pertinents.
 
-Une configuration peut être stabilisée tout en étant modifiée sur certaines dimensions.
+**Persistance ≠ validité.**
 
-La stabilisation permet ainsi de distinguer ce qui persiste de ce qui change.
+## 6. Orientations possibles de l’examen
 
----
+La stabilisation peut être examinée sous plusieurs orientations, selon le problème rencontré. Ces orientations ne constituent ni des composantes de la stabilisation ni des étapes successives de son analyse.
 
-Dépendances
+- **Condition** : quelles conditions matérielles, corporelles, techniques ou environnementales permettent ou limitent les reprises de la configuration ?
+- **Relation** : quelles relations sont maintenues, modifiées ou abandonnées entre les éléments de la configuration ?
+- **Fonction** : quel rôle la configuration exerce-t-elle dans la pratique, et ce rôle demeure-t-il reconnaissable malgré les variations ?
+- **Justification** : quels critères et quelles raisons permettent de soutenir la reconnaissance d’une continuité, et quelles objections peuvent la remettre en cause ?
 
-La stabilisation dépend de fonctions déjà établies.
+Une même configuration peut être examinée sous plusieurs de ces rapports. Les réponses peuvent dépendre les unes des autres, mais elles ne sont pas interchangeables.
 
-Elle suppose notamment qu'une configuration puisse avoir été configurée suffisamment pour que l'enquête puisse déterminer ce qui est susceptible de persister.
+Une condition matérielle peut contribuer à la persistance sans établir la continuité pertinente. Une relation peut être maintenue alors que la fonction change. Une fonction peut rester comparable alors que les supports sont remplacés. Enfin, le constat d’une continuité ne suffit pas à justifier le maintien de la configuration.
 
-Elle dépend également de la possibilité de distinguer :
+La quadripartition sert ainsi à préciser les questions pertinentes sans transformer la stabilisation en une propriété unique ni en un processus doté de quatre phases.
 
-- ce qui est maintenu ;
-- ce qui varie ;
-- ce qui est transformé ;
-- ce qui cesse d'être reconnaissable comme relevant de la même configuration.
+Voir [Quadripartition de l’orientation](quadripartition-de-l-orientation.md).
 
-Elle peut ensuite être articulée avec la justification, lorsque la persistance d'une description doit être distinguée des critères qui permettent de la défendre ou de la contester.
+## 7. Exemple : le maintien d’une qualification administrative
 
-La stabilisation ne remplace donc aucune de ces fonctions.
+Une administration utilise une même qualification dans plusieurs dossiers successifs. Le terme demeure identique et les formulaires continuent à le proposer, mais les critères d’application, les usages de la catégorie ou les conséquences des décisions peuvent évoluer.
 
----
+Pour examiner la stabilisation de cette qualification, il faut distinguer plusieurs questions :
 
-Fonctions rendues possibles
+- Le terme est-il simplement conservé, ou la catégorie reste-t-elle appliquée selon des critères comparables ?
+- Les règles d’usage et les relations avec les autres catégories demeurent-elles suffisamment continues ?
+- Les modifications constatées touchent-elles la formulation, la fonction pratique ou les critères d’application ?
+- Les éléments disponibles permettent-ils de reconnaître une continuité, ou la portée de cette continuité reste-t-elle incertaine ?
 
-Une fois la persistance relative d'une configuration établie, l'enquête peut examiner :
+La présence du même terme dans les formulaires ne suffit pas à établir que la catégorie est stabilisée sous tous ses aspects. Il faut examiner les usages effectifs et les critères de continuité pertinents.
 
-- les transformations qui affectent cette configuration ;
-- les transitions entre configurations suffisamment différenciées ;
-- les trajectoires dans lesquelles certaines continuités peuvent être reconstruites ;
-- les allures selon lesquelles ces transformations se distribuent dans le temps ;
-- les difficultés de révision ou de réorganisation.
+Même si la stabilisation est établie, cela ne démontre ni que la qualification est adéquate, ni que son maintien est justifié, ni que son abandon serait plus coûteux. Ces conclusions demandent des examens supplémentaires.
 
-La stabilisation fournit ainsi une condition descriptive pour poser la question :
+## 8. Portée et limites
 
-«Qu'est-ce qui continue à être reconnu comme la même configuration alors même que quelque chose change ?»
+La stabilisation permet de décrire une continuité relative à partir de reprises, de variations et de critères explicites. Elle aide à distinguer ce qui demeure reconnaissable de ce qui change, sans supposer une identité parfaite entre les occurrences.
 
-Elle ne détermine pas la réponse à cette question ; elle permet de la formuler.
+Elle ne fournit pas, à elle seule :
 
----
+- une explication complète des causes du maintien ;
+- une théorie générale de la mémoire ou des institutions ;
+- une mesure de l’irréversibilité d’une configuration ;
+- une preuve de la validité ou de la vérité d’une description ;
+- une justification du maintien ou de l’abandon de la configuration ;
+- une reconstruction complète de son histoire.
 
-Vigilance d'audit
+Le constat de stabilisation peut ouvrir ces questions, mais il ne les résout pas automatiquement. Si les critères de continuité sont contestés, l’enquête doit les expliciter, les comparer à d’autres critères possibles et réviser son analyse si nécessaire.
 
-L'audit doit notamment vérifier que la stabilisation n'est pas utilisée pour introduire subrepticement :
+## Synthèse
 
-- une théorie de la vérité ;
-- une théorie de la causalité ;
-- une théorie de la mémoire ;
-- une théorie de l'institution ;
-- une théorie de l'irréversibilité ;
-- une théorie du progrès.
+La stabilisation permet d’examiner **le maintien relatif d’une configuration à travers ses reprises et ses variations**. Elle exige de préciser la configuration concernée, les occurrences comparées et les critères qui autorisent à reconnaître une continuité.
 
-Une stabilisation peut être constatée sans que l'on ait encore expliqué pourquoi elle existe.
+Elle distingue la continuité de l’immobilité, la conservation d’une trace du maintien d’une configuration, et la persistance de la validité ou de la justification.
 
-De même, son existence ne permet pas de conclure qu'elle devrait être maintenue.
+Elle peut contribuer à l’étude des trajectoires, des allures, de la sédimentation et de l’effet cliquet, sans se substituer à ces notions.
 
-«Décrire une persistance n'est ni l'expliquer entièrement ni la justifier.»
+**Décrire une stabilisation, ce n’est ni expliquer entièrement pourquoi une configuration persiste, ni démontrer qu’elle est valide, ni établir qu’elle doit être maintenue.**
 
-La stabilisation doit donc rester une fonction de description de la continuité, et non devenir un mécanisme général de l'histoire des pratiques.
+Pour poursuivre :
 
----
-
-Synthèse
-
-La stabilisation accomplit une fonction unique :
-
-«décrire la persistance relative d'une configuration à travers ses reprises et ses variations.»
-
-Elle mobilise les dimensions de la quadripartition sans les convertir les unes dans les autres.
-
-Elle neutralise principalement la conversion :
-
-«persistance → validité»
-
-et, secondairement :
-
-«stabilité → immobilité
-persistance descriptive → propriété de l'objet décrit»
-
-Elle dépend de la configuration et des distinctions permettant d'identifier ce qui persiste et ce qui varie.
-
-Elle rend ensuite possibles l'examen des transformations, des transitions et des trajectoires dans lesquelles ces continuités peuvent être reconstruites.
-
-«La stabilisation ne désigne pas ce qui ne change plus. Elle désigne ce qui demeure suffisamment continu pour pouvoir être repris comme une même configuration selon un critère déterminé.»
+- [Configuration descriptive](fr/configuration-descriptive.md) — Examiner l’organisation des éléments d’une configuration descriptive.
+- [Sédimentation](fr/sedimentation.md) — Étudier l’accumulation des traces et des supports au cours du temps.
+- [Effet cliquet](fr/effet-cliquet.md) — Examiner les asymétries de coût associées au maintien et à la révision.
+- [Trajectoire descriptive](fr/trajectoire.md) — Reconstruire le parcours des transformations.
+- [Allure](fr/allure.md) — Qualifier la distribution temporelle des transformations.
+- [Temporalité descriptive](fr/temporalite-descriptive.md) — Situer ces analyses dans l’examen des transformations descriptives dans le temps.
+- [Table des matières](fr/tdm.md) — Replacer la page dans l’organisation du corpus.
