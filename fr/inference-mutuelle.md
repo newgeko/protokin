@@ -1,172 +1,159 @@
-# Page : inference-mutuelle.md
+# Inférence mutuelle — Dériver une relation réciproque
 
-# L'inférence mutuelle — La réversibilité relationnelle et la genèse de l'équivalence
+## 1. Fonction
 
-**Version :** Protokin 2026 — version 26.08.212  
-**Fichier :** `inference-mutuelle.md`  
-**Section :** 03 — Fondements descriptifs  
-**Statut conceptuel :** Première propriété opératoire de la transduction relationnelle (Pôle PROTO).  
+L’inférence mutuelle désigne, dans la théorie des cadres relationnels (*Relational Frame Theory*, RFT), la dérivation d’une relation réciproque à partir d’une relation apprise.
 
----
+Cette page précise ce que cette dérivation permet d’examiner, les conditions dont elle dépend et ses limites. Elle distingue la réversibilité d’une relation apprise de la symétrie logique, de l’inférence combinatoire et de la justification d’une conclusion.
 
-### Analyse architecturale de la page
+## 2. Problème
 
-#### 1. Fonction unique de la page
-Cette page établit le statut métathéorique et comportemental de l'**inférence mutuelle** (*Mutual Entailment*) au sein de la section **03 — Fondements descriptifs** de Protokin. Elle formalise la capacité d'un organisme entraîné à dériver de manière autonome, stable et bidirectionnelle, sous le contrôle d'une clé contextuelle de relation ($C_{rel}$), la relation réciproque entre deux stimuli ($B \rightarrow A$) à partir de l'apprentissage direct d'une relation unilatérale d'amont ($A \rightarrow B$).
+Apprendre une relation entre deux éléments ne signifie pas nécessairement apprendre séparément toutes les manières de les relier. Selon le type de relation et les conditions de l’apprentissage, un organisme peut dériver une relation réciproque qui n’a pas été directement entraînée.
 
-#### 2. Choix du mode de développement
-* **Mode retenu :** Mode A — Développement conceptuel et hylémorphique.
-* **Justification :** Il s'agit de modéliser le premier pôle de l'activité relationnelle d'amont (plan **PROTO**) pour expliquer comment se structure la réversibilité indispensable à la constitution des invariants sémantiques de premier ordre (signes, classifications), barrant ainsi l'accès aux théories représentationnalistes classiques de la copie ou du miroir.
+Cette capacité ne se réduit pas à la répétition d’une association dans le même sens. Elle dépend du type de relation appris et des conditions dans lesquelles cette relation est établie.
 
-#### 3. Problème conceptuel inaugural
-Comment un organisme physique et biologique peut-il s'affranchir du conditionnement associatif linéaire et unidirectionnel (un stimulus physique en déclenchant un autre de manière passive et irréversible) pour faire émerger la réversibilité bidirectionnelle nécessaire à l'équivalence symbolique, sans que l'on doive postuler une "faculté rationnelle innée" ou un troisième monde d'essences idéales plane au-dessus de la matière (Mythe du Donné) ?  
-Protokin résout cette aporie en s'adossant à l'inférence mutuelle théorisée par la Théorie des Cadres Relationnels (RFT). Elle démontre que l'organisme vivant acquiert par apprentissage d'exemplaires multiples l'aptitude à appliquer des relations arbitraires réversibles. L'inférence mutuelle constitue la première brique de transduction relationnelle qui permet à la matière physique (causes, PROTO) de se disposer à recevoir le pli de la règle logique (raisons, KIN).
+Il faut cependant éviter deux conclusions excessives. La réciprocité dérivée n’est pas toujours une simple inversion des termes ; elle peut exiger une transformation de la relation. Elle ne constitue pas non plus, à elle seule, une preuve que la relation initiale est correcte ou que toutes les conclusions qui en découlent sont justifiées.
 
-#### 4. Objet propre
-* **Cette page traite de :** la réversibilité relationnelle simple entre deux termes ; le rôle du contrôle contextuel de relation ($C_{rel}$) ; la symétrie (coordination, égalité) et l'asymétrie (comparaison, opposition) des dérivations mutuelles ; et la genèse comportementale par apprentissage d'exemplaires multiples.
-* **Cette page ne traite pas de :** l'inférence combinatoire impliquant trois termes ou plus (réservée à `inference-combinatoire.md`) ; la transformation des fonctions de stimulus par cadrage relationnel (réservée à `transformation-relationnelle-rft.md`) ; la déduction logique formelle d'aval ; ni l'inférence matérielle de redevabilité publique (réservée à `raisons.md` / `inferences.md`).
+Le problème consiste donc à caractériser une dérivation relationnelle sans confondre son fonctionnement, la nature de la relation obtenue et le statut des conclusions que l’on peut en tirer.
 
-#### 5. Statut conceptuel
-Concept de premier ordre d'infrastructure comportementale et d'amorce relationnelle, appartenant à la **Section 03 — Fondements descriptifs**.
+## 3. Définition
 
-#### 6. Dépendances fonctionnelles
-* **Cette page suppose :** `causes.md`, `operativite-de-la-difference.md`, `disposition-de-reponse.md` et `sentience.md`.
-* **Cette page prépare :** `inference-combinatoire.md`, `transformation-relationnelle-rft.md`, `configuration-semiotique.md` et `categories.md`.
-* **Cette page rend possible :** L'analyse de l'équivalence et du premier seuil de détachement symbolique qui permet à un indice physique d'être traité comme un signe d'aval.
+On appelle **inférence mutuelle** la dérivation, à partir d’une relation apprise entre deux éléments, d’une relation réciproque entre ces mêmes éléments, sans apprentissage direct supplémentaire de cette relation réciproque dans la configuration examinée.
 
-#### 7. Frontières conceptuelles
-* **Inférence mutuelle et Inférence combinatoire :** L'inférence mutuelle opère de manière bidirectionnelle directe sur deux termes uniques ($A \leftrightarrow B$). L'inférence combinatoire coordonne au moins deux relations mutuelles via un tiers pivot commun pour dériver des relations croisées non entraînées ($A \leftrightarrow B \leftrightarrow C$).
-* **Inférence mutuelle et Inférence matérielle :** L'inférence mutuelle est une propriété psychobiologique et comportementale d'amont (plan **PROTO**) ; l'inférence matérielle est une relation logique de justification, d'évaluation et de redevabilité publique au sein de l'espace des raisons (plan **KIN**).
+On peut représenter le principe général ainsi :
 
-#### 8. Architecture locale
-$$\text{Stimulus causal (PROTO)} \quad \longrightarrow \quad \text{RDRD} \quad \longrightarrow \quad \mathbf{\text{INFÉRENCE MUTUELLE (RFT)}} \quad \longrightarrow \quad \text{Inférence combinatoire} \quad \longrightarrow \quad \text{KIN}$$
+\[
+C_{\mathrm{rel}}:\quad A\ r_x\ B
+\quad\Longrightarrow\quad
+B\ r_y\ A
+\]
 
----
+Dans cette représentation :
 
-## Cartouche fonctionnel
+- \(A\) et \(B\) désignent les éléments mis en relation ;
+- \(r_x\) désigne la relation apprise ;
+- \(r_y\) désigne la relation réciproque dérivée ;
+- \(C_{\mathrm{rel}}\) désigne les conditions contextuelles qui contribuent à déterminer le cadre relationnel mobilisé.
 
-| Élément | Description |
-| :--- | :--- |
-| **Section** | 03 — Fondements descriptifs |
-| **Fichier** | `inference-mutuelle.md` |
-| **Fonction** | Établir le statut de la réversibilité relationnelle simple comme première condition comportementale de l'équivalence symbolique. |
-| **Prépare** | L'inférence combinatoire, la transformation des fonctions de stimulus, la configuration sémiotique d'aval et la théorie des catégories. |
-| **Mobilise** | La Théorie des Cadres Relationnels (RFT), l'espace des causes (PROTO), la plasticité comportementale et l'apprentissage d'exemplaires multiples. |
-| **Permet ensuite** | D'auditer les erreurs de fétichisme symétrique ou de naturalisation consistant à déduire une équivalence d'essence à partir d'une simple corrélation causale unidirectionnelle. |
-| **N'établit pas** | Les règles formelles de la logique propositionnelle, les formalismes syntaxiques d'aval, ni les rituels de justification de l'espace des raisons. |
+La relation dérivée \(r_y\) n’est pas nécessairement identique à la relation initiale \(r_x\). Sa forme dépend du type de relation considéré. Dans une relation de coordination, la réciprocité peut conserver le même type de relation. Dans une comparaison orientée, elle peut exiger une inversion.
 
----
+L’inférence mutuelle est ici une capacité de dérivation relationnelle étudiée dans un cadre comportemental. Elle ne désigne pas toute association entre deux éléments ni toute relation que l’on peut inverser dans une description.
 
-## Définition fonctionnelle
+## 4. Exemple minimal
 
-Dans l'architecture métathéorique de Protokin, on appelle **inférence mutuelle** :
+Une personne apprend que l’objet A est plus grand que l’objet B.
 
-> **La propriété comportementale, adaptative et relationnelle par laquelle un organisme, ayant appris à appliquer une relation arbitraire spécifique $r_x$ sous le contrôle d'un indice contextuel de relation ($C_{rel}$) depuis un stimulus $A$ vers un stimulus $B$, dérive de manière autonome, stable et bidirectionnelle la relation réciproque exacte $r_y$ depuis le stimulus $B$ vers le stimulus $A$, sans qu'aucun apprentissage direct ou supplémentaire de cette relation de retour ne soit nécessaire.**
+Elle peut dériver que B est plus petit que A, sans avoir eu besoin d’apprendre séparément cette relation de retour dans la même configuration.
 
-La formule canonique de cette dérivation s'énonce ainsi :
+On peut représenter ce cas ainsi :
 
-$$C_{rel} \{ (A \ r_x \ B) \quad \Longrightarrow \quad (B \ r_y \ A) \}$$
+\[
+A > B \quad\Longrightarrow\quad B < A
+\]
 
-```text
-       PLAN DE L'ESPACE DES CAUSES (Pôle PROTO)
-       
-       C_rel (Indice contextuel arbitraire de relation)
-         │
-         ▼
-     [ Stimulus A ] ──────── ( Relation rx apprise directement ) ───────► [ Stimulus B ]
-         ▲                                                                    │
-         └───────────── ( Relation ry dérivée mutuellement ) ─────────────────┘
-                            ( Sans entraînement additionnel )
-```
+La relation réciproque n’est pas une reproduction à l’identique de la relation initiale : son orientation change et le terme de comparaison s’inverse.
 
----
+Un autre cas est celui de la coordination : si deux éléments sont appris comme équivalents dans un cadre de coordination, la relation peut être dérivée dans le sens inverse. Le type de relation détermine donc la forme attendue de la réciprocité.
 
-## Dimensions analytiques de l'inférence mutuelle
+L’exemple permet de distinguer trois éléments : la relation initialement apprise, la relation réciproque dérivée et les conditions qui rendent cette dérivation possible.
 
-### 1. La bidirectionnalité et l'asymétrie relationnelle
-Contrairement aux associations pavloviennes qui lient passivement un signal à un événement dans un seul sens, l'inférence mutuelle réorganise de manière réversible le champ de l'expérience. Cette réversibilité n'est pas limitée à la simple égalité symétrique (ex: « A est identique à B » implique « B est identique à A »). Elle régit avec la même précision les **relations asymétriques complexes** d'opposition ou de comparaison :
-*   *Dans un cadre de comparaison* : Si l'organisme apprend que $A$ est plus grand que $B$ ($A > B$), il dérive de manière stable et autonome que $B$ est plus petit que $A$ ($B < A$).
-*   *Dans un cadre d'opposition* : Si $A$ est opposé à $B$, l'organisme dérive de fait que $B$ est opposé à $A$.
-*   *Dans un cadre de distinction* : Si $A$ est différent de $B$, l'organisme dérive de fait que $B$ est différent de $A$.
+## 5. Conditions et limites de la réversibilité
 
-La dérivation mutuelle recalcule la valeur réciproque sous la contrainte logique de l'indice appliqué, démontrant que l'organisme ne subit pas passivement les associations de fait, mais sculpte et ajuste dynamiquement ses schèmes de réponse.
+L’inférence mutuelle dépend du cadre relationnel mobilisé et des conditions dans lesquelles l’organisme a appris à appliquer ce cadre. Dans la RFT, l’apprentissage d’exemplaires multiples peut contribuer à établir une disposition à dériver des relations dans de nouvelles situations.
 
-### 2. Le contrôle contextuel de relation ($C_{rel}$)
-L'opérativité de l'inférence mutuelle s'exécute indépendamment des propriétés physiques des relata. Ce qui détermine le type de réversibilité à appliquer, c'est l'**indice contextuel de relation ($C_{rel}$)**. Cet indice est un stimulus arbitraire sédimenté et partagé par la communauté, qui agit comme un opérateur logique de tri d'amont :
-*   Le mot « pareil » ou le symbole « = » active le cadre de coordination.
-*   Le mot « contraire » ou le symbole « ≠ » active le cadre d'opposition.
-*   Le mot « pire » ou le symbole « < » active le cadre de comparaison temporelle ou quantitative.
+Il ne faut toutefois pas considérer la réciprocité comme une propriété universelle de toutes les relations.
 
-Grâce à ce contrôle contextuel, l'organisme peut appliquer une même relation mutuelle sur des stimuli physiques totalement hétérogènes, arrachant la discursivité d'amont à l'immédiateté matérielle du milieu.
+Certaines relations changent de forme lorsqu’on inverse leur orientation. D’autres ne peuvent pas être simplement inversées sans modifier le sens de la relation. La dérivation attendue dépend donc du cadre relationnel et ne peut pas être déduite de la seule présence de deux éléments.
 
-### 3. L'acquisition par exemplaires multiples
-La capacité à dériver des relations mutuelles ne surgit pas de manière magique ou innée chez le vivant. Elle est le produit d'un long **dressage somatique et comportemental** d'amont, sédimenté au cours de l'enfance et de l'éducation par l'exposition à des *exemplaires multiples* d'associations réciproques. 
-Le collectif montre à l'enfant l'objet physique $A$ et prononce le mot $B$ (« Voici le vélo »), puis lui montre le mot écrit $B$ et lui demande de pointer l'objet $A$. C'est cette boucle constante et rigoureusement validée par les pairs qui finit par graver dans le corps de l'organisme la pliure relationnelle de la réversibilité, installant ainsi l'effet cliquet d'amont indispensable à la manipulation ultérieure des symboles.
+Il faut également distinguer la relation physique entre deux éléments de la relation que l’organisme apprend à appliquer à leur égard. Une relation apprise peut porter sur des objets physiques, des mots, des événements ou des éléments abstraits. Les propriétés physiques de ces éléments ne déterminent pas à elles seules le cadre relationnel mobilisé.
 
----
+L’examen doit donc porter sur la relation effectivement apprise, le contexte de son application et la forme de la relation réciproque dérivée.
 
-## Distinctions conceptuelles nécessaires
+## 6. Distinctions avec les notions voisines
 
-### Inférence mutuelle et Conditionnement classique (Association unilatérale)
-Le conditionnement pavlovien classique (plan **PROTO**) associe un stimulus conditionnel (la cloche) à un stimulus inconditionnel (la nourriture) de façon strictement unidirectionnelle : entendre la cloche fait saliver l'animal, mais lui présenter de la nourriture ne réactive pas la cloche dans son sensorium. L'inférence mutuelle est irréductiblement bidirectionnelle : elle réorganise le champ de sorte que le signal et sa cible sont mutuellement accessibles. *Le conditionnement subit l'association ; l'inférence mutuelle crée la réversibilité.*
+### 6.1. Inférence mutuelle et association
 
-### Inférence mutuelle et Inférence combinatoire (Paire vs Triade relationnelle)
-La différence réside dans la complexité de l'armature relationnelle. L'inférence mutuelle exige uniquement deux termes reliés de manière réciproque ($A \leftrightarrow B$). L'inférence combinatoire requiert au minimum trois termes reliés par deux relations directes à pivot commun (la triade relationnelle minimale $A-B-C$), permettant de recalculer des relations croisées non apprises. *L'inférence mutuelle établit la réversibilité de base ; l'inférence combinatoire structure le réseau taxonomique d'aval.*
+Une association entre deux événements peut orienter une réponse sans que l’organisme dérive pour autant une relation réciproque entre eux.
 
-### Inférence mutuelle et Identité logique (Comportement vivant vs Axiome)
-L'identité logique ou la symétrie mathématique est un postulat formel hors temps et hors coût, posé de droit au sein de l'espace des raisons (plan **KIN**). L'inférence mutuelle est une performance comportementale et psychobiologique incarnée de l'organisme (plan **PROTO**). Elle consomme de l'énergie métabolique, exige un temps de réaction physique, s'appuie sur la plasticité synaptique et reste sujette à la fatigue, à la distraction ou à la dégradation des capteurs biologiques. *L'identité logique est une règle de validité normative ; l'inférence mutuelle est une régularité de fiabilité causale.*
+L’inférence mutuelle concerne plus précisément la dérivation d’une relation de retour dans un cadre relationnel. Elle ne suppose pas que toute association soit unidirectionnelle, ni que les mécanismes associatifs et la dérivation relationnelle soient mutuellement exclusifs.
 
----
+La distinction porte sur le phénomène examiné : association entre événements, ou dérivation d’une relation réciproque.
 
-## Épreuve par les quatre fils rouges cliniques
+### 6.2. Inférence mutuelle et inférence combinatoire
 
-### 1. Le vélo rouge
-L'apprentissage perceptif ordinaire du vélo rouge s'adosse à une inférence mutuelle directe d'amont (plan **PROTO**). Si la communauté montre directement le cadre chromatique de 650 nm $A$ et enseigne à l'organisme qu'il correspond au phonème « rouge » $B$ (relation directe $A \rightarrow B$ sous le contrôle de $C_{rel}$), l'organisme dérive de lui-même de manière stable la relation de retour : entendre ou lire le mot « rouge » $B$ oriente instantanément son attention organique et ses postures oculaires vers les contrastes chromatiques correspondants $A$ ($B \rightarrow A$). C'est cette équivalence mutuelle d'amont qui sert d'infrastructure matérielle à l'assertion d'aval « Le vélo est rouge » au sein de l'espace des raisons (plan **KIN**).
+L’inférence mutuelle concerne une relation entre deux éléments et la dérivation de sa réciproque.
 
-### 2. Le triage hospitalier
-Aux urgences, l'infirmière d'accueil s'appuie sur l'inférence mutuelle pour stabiliser sa coordination pratique face à la détresse somatique :
-*   L'infirmière associe les symptômes somatiques aigus du patient $A$ (la moiteur, la douleur thoracique irradiante) au code d'alerte « PRIORITÉ 1 » $B$ (relation $A \rightarrow B$).
-*   Par inférence mutuelle, voir l'inscription « PRIORITÉ 1 » $B$ sur le moniteur de triage réactive instantanément dans son attention éduquée la constellation de vigilance et d'action clinique d'amont $A$ ($B \rightarrow A$).
-Cette réversibilité de premier ordre évite l'évanescence des situations cliniques instables. Le trouble d'audit apparaît lorsque le logiciel de gestion logistico-comptable tente de confisquer l'inscription $B$ pour la figer sous la forme d'un indicateur de tarification budgétaire, brisant la réversibilité de retour vers le soin direct au profit d'un calcul financier abstrait.
+L’inférence combinatoire concerne la dérivation d’une relation nouvelle à partir de plusieurs relations apprises qui partagent un élément commun. Elle suppose donc une configuration relationnelle plus étendue.
 
-### 3. Le botaniste et le bûcheron face à l'arbre
-Le bûcheron et le botaniste déploient des inférences mutuelles hétérogènes face au même *Abies alba* physique d'amont (plan **PROTO**) :
-*   Le botaniste associe la forme singulière des aiguilles $A$ au nom binomial *Abies alba* $B$ ($A \leftrightarrow B$ sous un $C_{rel}$ taxonomique).
-*   Le bûcheron associe la nervation et la flexibilité de la fibre $A'$ à la qualification « bois de charpente de catégorie A » $C$ ($A' \leftrightarrow C$ sous un $C_{rel}$ technique d'exploitation).
-Chaque acteur dérive des réversibilités bidirectionnelles autonomes et incommensurables, qui orientent leurs actions et délimitent leurs Umwelten respectifs sans qu'aucune ne puisse détruire la pertinence adaptative de l'autre au sein de sa niche.
+Dans un schéma simplifié :
 
-### 4. « Cette personne est mauvaise » / « Cette personne est dangereuse »
-La qualification sécuritaire de dangerosité est construite par des rapports, fiches policières et signalements sédimentés (supports externes durs) [920]. L'amnésie somatique commise par l'appareil administratif consiste à figer l'inférence mutuelle entre un comportement de transgression situé d'amont $A$ et l'imputation de blâme moral $B$ (« mauvaise ») sous la forme d'une équivalence ontologique absolue et immuable ($A \equiv B$). L'audit de second ordre déconstruit cette pathologie en démontrant que le cadre relationnel appliqué n'est pas une loi physique de la nature, mais un pli relationnel arbitraire. En réintroduisant la recollection temporelle, l'audit redresse la dérive en ramenant le blâme à sa dimension de redevabilité relative et révisable, restaurant ainsi la plasticité comportementale d'amont de l'agent.
+- **Inférence mutuelle** : une relation entre A et B permet de dériver une relation réciproque entre B et A.
+- **Inférence combinatoire** : des relations apprises entre A et B, puis entre B et C, peuvent permettre de dériver une relation entre A et C.
 
----
+La seconde peut mobiliser des relations mutuelles, mais elle ne se réduit pas à leur simple juxtaposition. La nature des relations et les conditions de leur combinaison doivent être examinées.
 
-## Limites et vigilances d'audit : les pathologies relationnelles
+### 6.3. Inférence mutuelle et inférence formelle
 
-Lors de la conduite d'un audit de second ordre d'un domaine d'activité, l'enquêteur applique des critères de vigilance stricts pour dépister trois pathologies majeures liées à l'inférence mutuelle :
+L’inférence mutuelle désigne une capacité de dérivation relationnelle étudiée dans le cadre de l’apprentissage. L’inférence formelle examine si une conclusion découle de prémisses selon une structure logique déterminée.
 
-### 1. Le fétichisme symétrique (La réification de la corrélation)
-La pathologie consistant à traiter une simple asymétrie physique ou une corrélation causale unidirectionnelle d'amont (PROTO) comme s'il s'agissait d'une équivalence logique ou d'une symétrie normative d'aval (KIN). C'est la dérive classique consistant à affirmer : *« Le symptôme $A$ s'observe souvent avec la maladie $B$, donc la présence de la maladie $B$ prouve de jure la culpabilité biologique du patient face au symptôme $A$ »*. L'auditeur corrige ce glissement en forçant l'explicitation des probabilités de fait et en rétablissant l'asymétrie réelle de la chaîne causale.
+Une relation réciproque peut correspondre à une transformation logique valide dans un cas donné, mais les deux analyses ne sont pas équivalentes. L’étude comportementale porte sur la dérivation observée ; l’analyse formelle porte sur la structure du raisonnement.
 
-### 2. L'indigence relationnelle (Le blocage unidirectionnel)
-La défaillance d'une pratique d'enquête ou d'un outil d'enregistrement bureaucratique qui s'avère incapable d'assurer la relation de retour. *Un logiciel administratif d'urgence qui permet d'associer un code d'admissibilité financière à un patient, mais qui interdit au médecin de remonter à partir de ce code à l'observation clinique somatique directe de la douleur est un système en état de mort clinique relationnelle.*
+### 6.4. Inférence mutuelle et inférence matérielle
 
-### 3. L'amnésie matérielle de la réversibilité (L'idéalisme logique)
-La pathologie rationaliste consistant à imaginer que l'équivalence sémantique ou le signe logique pourraient exister ou flotter librement dans un espace rationnel autonome sans le coût d'apprentissage des corps, sans l'entretien biologique des cerveaux et sans la maintenance physique des supports d'inscription qui les rendent matériellement possibles. L'audit rappelle que sans le travail continu d'apprentissage d'exemplaires multiples et de conservation des traces, la réversibilité relationnelle s'effondre instantanément par perte d'infrastructure somatique.
+L’inférence matérielle concerne les transitions entre contenus dont la recevabilité dépend notamment des concepts employés et des pratiques dans lesquelles ils interviennent.
 
----
+L’inférence mutuelle peut contribuer à expliquer comment un organisme devient capable d’établir certaines relations. Elle ne suffit pas à déterminer si une transition entre contenus est recevable dans une pratique discursive, ni si une conclusion est justifiée.
 
-## Synthèse finale
+Ces analyses peuvent être articulées, mais leur différence de fonction doit être maintenue.
 
-### Ce que cette page établit
-* Le concept d'**inférence mutuelle** en tant que première propriété opératoire bidirectionnelle de la transduction relationnelle (PROTO/RFT), formalisant comment l'organisme dérive de manière autonome la relation réciproque réciproque exacte entre deux stimuli sous le contrôle d'un indice contextuel ($C_{rel}$) sédimenté par la communauté.
-* Le fait que cette réversibilité est une régularité comportementale apprise par exemplaires multiples constituant l'infrastructure matérielle non normative de l'équivalence et du signe.
+## 7. Place dans l’enquête de Protokin
 
-### Ce qu'elle suppose
-* Le principe du couplage organisme-environnement, le primat du couplage perception-action, les dispositions réactives fiables (RDRD, `disposition-de-reponse.md`), la sentience biologique (`sentience.md`) et l'operativité de la différence (`operativite-de-la-difference.md`).
+L’inférence mutuelle peut être étudiée lorsqu’un problème descriptif conduit à examiner comment une relation est apprise, appliquée ou dérivée.
 
-### Ce qu'elle rend possible
-* La dérivation tridimensionnelle croisée de l'**inférence combinatoire** (`inference-combinatoire.md`), la modélisation de la **transformation relationnelle des fonctions de stimulus** (`transformation-relationnelle-rft.md`), la constitution de la **configuration sémiotique** d'aval (`configuration-semiotique.md`) et la théorie des **catégories** d'opposition (`categories.md`).
+La quadripartition permet d’orienter cet examen sans imposer quatre étapes successives.
 
----
+**Condition.** Quelles conditions d’apprentissage, quels supports et quels contextes interviennent dans la dérivation ?
 
-Protokin 2026 — version 26.08.212
+**Relation.** Quelle relation a été apprise et quelle relation réciproque est dérivée ?
+
+**Fonction.** Quel rôle cette dérivation joue-t-elle dans la pratique examinée ?
+
+**Justification.** Quels éléments permettent de défendre les conclusions qui reposent sur cette relation ?
+
+Ces questions sont liées, mais elles ne se substituent pas les unes aux autres. Expliquer les conditions d’une dérivation ne suffit pas à établir l’adéquation de son résultat. Décrire son rôle dans une pratique ne suffit pas à justifier les conclusions qui en sont tirées.
+
+L’inférence mutuelle constitue donc un objet d’examen possible dans l’enquête. Elle n’est ni une opération obligatoire de la chaîne principale ni une étape nécessaire de toute description.
+
+## 8. Limites et erreurs de conversion
+
+L’inférence mutuelle ne permet pas, à elle seule, d’établir :
+
+- que la relation initialement apprise est correcte ;
+- que toute relation entre deux éléments est réversible ;
+- que la relation réciproque conserve nécessairement la même forme ;
+- que la dérivation observée garantit l’adéquation de la relation à la situation ;
+- que les conclusions qui mobilisent cette relation sont justifiées ;
+- qu’une capacité de dérivation explique à elle seule la signification d’un signe ou la validité d’un raisonnement.
+
+Une erreur consiste à confondre la réciprocité dérivée avec une identité logique universelle. Une autre consiste à transformer une régularité comportementale en justification normative.
+
+La capacité à dériver une relation peut expliquer comment une relation devient disponible pour un organisme. Elle ne suffit pas à déterminer ce qu’un locuteur est autorisé à affirmer, ce qu’un collectif doit reconnaître ou si une description est adéquate à ce qu’elle prétend décrire.
+
+**La dérivation relationnelle et la justification restent distinctes, même lorsqu’elles interviennent dans une même pratique.**
+
+## Synthèse
+
+L’inférence mutuelle désigne la dérivation d’une relation réciproque à partir d’une relation apprise entre deux éléments. La forme de cette réciprocité dépend du cadre relationnel et des conditions de son application.
+
+Elle permet d’examiner comment une relation apprise peut être mobilisée dans un sens qui n’a pas fait l’objet d’un apprentissage direct supplémentaire. Elle se distingue de l’inférence combinatoire, qui met en jeu plusieurs relations, ainsi que des analyses formelle et matérielle portant sur d’autres aspects du raisonnement.
+
+Pour Protokin, l’enjeu est de décrire cette capacité sans convertir les conditions de son acquisition en critères de validité ou en justifications.
+
+**Renvois :**
+
+- [Inférence combinatoire](fr/inference-combinatoire.md)
+- [Inférence formelle](fr/inference-formelle.md)
+- [Inférence matérielle](fr/inference-materielle.md)
+- [Transformation relationnelle des fonctions de stimulus](fr/transformation-relationnelle-rft.md)
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
