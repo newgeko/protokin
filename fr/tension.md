@@ -1,280 +1,154 @@
-# Page : tension.md
+# Tension — Difficulté située de fonctionnement
 
-Tension
+## 1. Fonction
 
-Fonction
+La notion de tension permet de décrire une difficulté de fonctionnement qui affecte une pratique, une configuration ou la coordination de plusieurs exigences.
 
-La tension permet de décrire une situation dans laquelle une configuration ne parvient plus à maintenir sans difficulté certaines de ses opérations, relations ou exigences dans une pratique.
+Elle devient pertinente lorsque les ressources habituellement mobilisées ne suffisent plus à traiter une difficulté de manière satisfaisante, ou lorsque leur emploi devient lui-même problématique.
 
-Elle désigne ainsi une difficulté de fonctionnement située, et non une propriété de la chose décrite.
+La tension ne désigne ni une propriété intrinsèque de la chose examinée ni une force qui la pousserait nécessairement à changer. Elle caractérise une difficulté relative à une configuration, à une pratique et aux conditions dans lesquelles elles fonctionnent.
 
-La tension peut concerner une description, une pratique, une relation entre descriptions ou plusieurs exigences qui doivent être coordonnées.
+## 2. Problème
 
-Elle peut conduire à une enquête, à une correction ou à une réorganisation, mais aucune de ces transformations n'est impliquée par le seul fait qu'une tension existe.
+Une pratique peut continuer à fonctionner tout en rencontrant des difficultés récurrentes. Une distinction devient difficile à maintenir, une procédure ne permet plus de traiter certains cas ou plusieurs exigences ne peuvent plus être coordonnées sans examen supplémentaire.
 
----
+Il faut pouvoir décrire ces difficultés sans les ramener immédiatement à une erreur, une contradiction logique, un conflit social ou une cause matérielle. Il faut également éviter de supposer qu'elles imposent nécessairement une transformation.
 
-Problème
+**La question est donc de déterminer quand une difficulté locale devient un problème de fonctionnement qui demande un examen spécifique.**
 
-Une pratique peut continuer à fonctionner tout en rencontrant des difficultés répétées : une distinction devient difficile à maintenir, une description ne permet plus de traiter certains cas, plusieurs exigences deviennent difficiles à coordonner ou une correction ordinaire cesse de suffire.
+La notion de tension permet de poser cette question sans présupposer la nature de la difficulté ni la manière dont elle devra être traitée.
 
-Il faut alors pouvoir décrire cette difficulté sans la convertir immédiatement :
+## 3. Définition
 
-- en contradiction logique ;
-- en erreur ;
-- en conflit social ;
-- en cause matérielle ;
-- ou en nécessité de transformation.
+Une tension est une difficulté située dans le maintien ou la coordination d'une configuration, lorsque certaines exigences deviennent difficiles à satisfaire au moyen des ressources disponibles dans une pratique donnée.
 
-La question est donc :
+Son identification suppose de préciser :
 
-«Comment décrire une difficulté de fonctionnement sans lui attribuer une nature qu'elle n'a pas ?»
+- la configuration ou la pratique concernée ;
+- les exigences qu'il faut maintenir ou coordonner ;
+- les ressources disponibles pour y répondre ;
+- la difficulté effectivement rencontrée ;
+- les conditions dans lesquelles cette difficulté devient pertinente.
 
-La tension répond à cette question en désignant le caractère problématique d'une configuration pour une pratique donnée et dans des conditions données.
+La tension est donc relative à une situation déterminée. Une même difficulté peut être importante pour une pratique et secondaire pour une autre, selon leurs fonctions, leurs exigences et leurs moyens de correction.
 
----
+Elle ne fournit pas, à elle seule, l'explication de ce qui se produit. Elle permet de circonscrire une difficulté dont les conditions et les conséquences restent à examiner.
 
-Définition
+## 4. Distinctions avec les notions voisines
 
-Une tension est une difficulté située dans le maintien ou la coordination des opérations d'une configuration lorsqu'une ou plusieurs exigences deviennent difficiles à satisfaire avec les ressources actuellement disponibles.
+### 4.1. Tension et incompatibilité
 
-La tension est donc relative :
+L'incompatibilité désigne une relation entre des éléments qui ne peuvent pas être maintenus conjointement selon certaines règles, certains critères ou certains engagements.
 
-- à une configuration ;
-- à une pratique ;
-- à des exigences déterminées ;
-- à des ressources disponibles ;
-- et à une situation donnée.
+La tension désigne la difficulté de fonctionnement susceptible d'apparaître lorsque cette relation affecte une pratique.
 
-Elle n'est ni une substance, ni une force cachée, ni une propriété intrinsèque du monde.
+Une incompatibilité peut rester sans conséquence notable pour une pratique donnée. Inversement, une tension peut apparaître sans incompatibilité formelle, par exemple lorsque plusieurs exigences sont difficiles à coordonner sans être strictement contradictoires.
 
----
+**L'incompatibilité caractérise une relation ; la tension caractérise une difficulté de fonctionnement.**
 
-Tension et incompatibilité
+### 4.2. Tension et erreur
 
-L'incompatibilité désigne une relation déterminée entre des éléments qui ne peuvent pas être maintenus conjointement selon certaines règles, critères ou engagements.
+Une erreur peut parfois être corrigée au moyen des ressources déjà disponibles. La difficulté reste alors locale et ne remet pas nécessairement en question le fonctionnement de la pratique.
 
-La tension désigne la difficulté pratique qui peut apparaître lorsque cette relation affecte le fonctionnement d'une configuration.
+Une tension devient pertinente lorsque la correction ordinaire ne suffit plus, lorsque les erreurs se répètent dans des conditions similaires ou lorsque les moyens de les identifier et de les corriger deviennent eux-mêmes problématiques.
 
-Ainsi :
+La répétition d'une erreur ne suffit toutefois pas à établir l'existence d'une tension. Il faut examiner si elle révèle une difficulté plus générale dans les ressources ou les procédures mobilisées.
 
-«L'incompatibilité décrit une relation ; la tension décrit une difficulté de fonctionnement.»
+### 4.3. Tension et contradiction
 
-Une incompatibilité ne produit donc pas nécessairement une tension.
+Une contradiction logique relève d'une relation entre des propositions au regard de règles déterminées. Une tension peut avoir une dimension logique, mais elle ne se réduit pas à cette dimension.
 
-Inversement, une tension peut exister sans incompatibilité logique ou formelle.
+Elle peut aussi concerner l'application d'un critère, la coordination de plusieurs descriptions, le maintien d'une distinction ou l'articulation de pratiques qui répondent à des exigences différentes.
 
----
+Une contradiction peut ainsi contribuer à une tension, sans que toute tension soit une contradiction.
 
-Tension et erreur
+### 4.4. Tension et conflit
 
-Une erreur peut être corrigée à partir des ressources déjà disponibles dans une pratique.
+Un conflit entre personnes, groupes ou institutions peut être associé à une tension, mais les deux notions ne sont pas équivalentes.
 
-Une tension apparaît lorsque la difficulté ne se laisse pas simplement traiter comme une erreur locale, ou lorsque les procédures ordinaires de correction deviennent elles-mêmes problématiques.
+La tension concerne une difficulté de fonctionnement. Le conflit désigne une opposition entre des acteurs, des positions ou des intérêts. Un conflit peut perturber une pratique, mais il peut également coexister avec son fonctionnement ordinaire. Une difficulté de coordination peut, inversement, exister sans opposition explicite entre les participants.
 
-La distinction n'est toutefois pas absolue.
+L'enquête doit établir le rapport entre ces phénomènes au lieu de les assimiler.
 
-Une erreur répétée peut contribuer à faire apparaître une tension ; une tension peut également conduire à identifier une erreur jusque-là non reconnue.
+### 4.5. Tension et transformation
 
----
+La tension n'est pas une transformation et ne suffit pas à en établir la nécessité.
 
-Tension et contradiction
+Une difficulté peut être corrigée, contournée, déplacée, absorbée ou maintenue. Elle peut aussi conduire à réviser une distinction, une procédure ou l'organisation d'une pratique. Le choix entre ces possibilités dépend de l'examen de la situation.
 
-Une contradiction logique relève d'une relation formelle entre des propositions selon certaines règles d'inférence.
+Il n'existe donc pas de passage nécessaire de la tension à la réorganisation. La tension rend une difficulté identifiable ; elle ne détermine pas la réponse à lui apporter.
 
-Une tension n'est pas nécessairement logique.
+## 5. Articulation avec l'enquête
 
-Elle peut concerner :
+La tension devient utile lorsque l'enquête doit préciser pourquoi une pratique rencontre une difficulté qu'elle ne parvient pas à traiter avec ses ressources habituelles.
 
-- la coordination de plusieurs descriptions ;
-- l'application d'un critère ;
-- le maintien d'une distinction ;
-- l'articulation de plusieurs pratiques ;
-- la compatibilité entre une exigence et les ressources disponibles.
+Elle peut conduire à reprendre différentes opérations :
 
-Une contradiction peut donc constituer une source de tension sans que toute tension soit une contradiction.
+- **Délimiter**, pour préciser l'étendue de la difficulté et les cas concernés ;
+- **Distinguer**, pour déterminer si plusieurs problèmes ont été confondus ;
+- **Relier**, pour examiner les dépendances entre les exigences en jeu ;
+- **Justifier**, pour contrôler les raisons et les critères mobilisés ;
+- **Reconstituer**, pour examiner comment la difficulté est apparue ou s'est maintenue ;
+- **Redélimiter**, si les résultats conduisent à modifier le périmètre initial du problème.
 
----
+Ces opérations ne forment pas une séquence obligatoire. Une tension peut être identifiée dès le début de l'enquête ou apparaître au cours de l'examen. Elle peut également conduire à reprendre une analyse antérieure.
 
-Tension et conflit
+La tension ne constitue donc ni une étape de la chaîne ni une explication autonome. Elle contribue à préciser ce qui demande à être examiné.
 
-Un conflit entre personnes, groupes ou institutions peut produire ou manifester une tension.
+## 6. Examiner une tension selon les quatre orientations
 
-Mais la tension n'est pas synonyme de conflit.
+La quadripartition permet d'examiner une tension selon quatre orientations distinctes, sans faire de celle-ci une cinquième orientation.
 
-Une difficulté peut exister dans le fonctionnement d'une pratique sans opposition explicite entre acteurs.
+**Condition.** Quelles contraintes matérielles, corporelles, environnementales ou techniques affectent la situation ?
 
-Inversement, un conflit social peut être parfaitement compatible avec le fonctionnement ordinaire d'une pratique.
+**Relation.** Quelles dépendances ou quelles difficultés de coordination sont pertinentes ?
 
-L'enquête doit donc distinguer :
+**Fonction.** Quelle opération ou quel rôle de la pratique est affecté ?
 
-«la difficulté de fonctionnement de la configuration et le conflit entre les participants à la pratique.»
+**Justification.** Quels critères, engagements ou raisons deviennent difficiles à maintenir, à articuler ou à défendre ?
 
----
+Ces questions peuvent être liées, mais leurs réponses ne sont pas interchangeables. Une contrainte peut contribuer à une difficulté sans justifier une conclusion. Une difficulté relationnelle peut affecter une fonction sans suffire à expliquer l'ensemble de la situation. Une justification contestable ne constitue pas, par elle-même, une cause matérielle.
 
-Tension et transformation
+L'examen doit établir les dépendances pertinentes sans convertir automatiquement une réponse obtenue sous une orientation en réponse suffisante pour une autre.
 
-La tension n'est pas une transformation.
+## 7. Exemple discriminant : l'arbre qui penche au-dessus d'une habitation
 
-Elle désigne une difficulté qui peut rendre une transformation pertinente ou nécessaire à examiner.
+Considérons un arbre dont l'inclinaison suscite une inquiétude concernant la sécurité d'une habitation.
 
-Une tension peut être :
+L'inclinaison est une caractéristique de la situation examinée ; elle ne constitue pas, à elle seule, une tension au sens défini ici.
 
-- résolue ;
-- corrigée ;
-- contournée ;
-- absorbée ;
-- déplacée ;
-- maintenue ;
-- ou conduire à une réorganisation.
+Une tension peut apparaître dans la pratique d'évaluation lorsque les informations sur l'état biologique de l'arbre, l'appréciation de sa stabilité et l'évaluation du risque ne suffisent pas à coordonner les décisions à prendre. Les critères disponibles peuvent être insuffisants pour le cas rencontré, ou les procédures habituelles peuvent ne pas permettre de départager les conclusions proposées.
 
-Il n'existe donc pas de passage nécessaire de la tension à la transformation.
+Il faut alors déterminer ce qui fait effectivement difficulté. Le problème vient-il d'informations manquantes, de critères mal adaptés, de descriptions qui ne répondent pas à la même question ou de difficultés dans la coordination de l'évaluation et de la décision ?
 
----
+Ces possibilités ne sont pas équivalentes. Elles peuvent être liées, mais chacune demande des éléments propres pour être établie.
 
-Dimension temporelle
+La tension identifiée dans cette pratique ne prouve donc ni que l'arbre est dangereux ni qu'une intervention déterminée est nécessaire. Elle indique que les ressources mobilisées pour évaluer la situation doivent être examinées.
 
-La tension peut être ponctuelle ou durable.
+## 8. Limites et non-conversions
 
-Une difficulté ponctuelle ne constitue pas nécessairement une tension persistante.
+La notion de tension doit rester suffisamment précise pour ne pas devenir un terme générique désignant toute difficulté.
 
-À l'inverse, la répétition d'une difficulté peut modifier son statut dans l'enquête : ce qui pouvait d'abord être traité comme un incident peut devenir un problème récurrent de fonctionnement.
+Son emploi ne permet pas, à lui seul, de conclure :
 
-La temporalité permet alors de distinguer :
+- qu'il existe une contradiction logique ;
+- qu'une description est erronée ;
+- que plusieurs exigences sont incompatibles ;
+- qu'un conflit entre acteurs explique la difficulté ;
+- qu'une cause matérielle a été identifiée ;
+- qu'une transformation est nécessaire ;
+- que les ressources disponibles sont définitivement insuffisantes.
 
-- l'apparition d'une difficulté ;
-- sa répétition ;
-- sa persistance ;
-- son déplacement ;
-- son absorption ;
-- sa résolution ;
-- sa réorganisation éventuelle.
+La dimension temporelle peut aider à distinguer un incident ponctuel d'une difficulté persistante ou récurrente. La répétition ne suffit toutefois pas à déterminer la nature de la tension. Celle-ci doit être caractérisée à partir de la pratique et du problème concernés.
 
-La tension n'est donc pas définie par sa durée, mais sa durée peut devenir pertinente pour l'enquête.
+De même, un audit peut rechercher si la difficulté s'accompagne d'une confusion ou d'une conversion injustifiée — par exemple entre condition et critère, cause et raison, fonction et justification, ou description et objet décrit. Mais la présence d'une tension ne prouve pas qu'une telle conversion a eu lieu.
 
----
+Il faut donc distinguer le constat d'une difficulté, son explication et l'évaluation des réponses proposées.
 
-Tension et ressources disponibles
+## Synthèse
 
-Une même situation peut constituer une tension pour une pratique et ne pas en constituer une pour une autre.
+La tension désigne une difficulté située dans le maintien ou la coordination d'une configuration au sein d'une pratique. Elle devient pertinente lorsque les exigences en jeu ne peuvent plus être traitées de manière satisfaisante au moyen des ressources habituellement mobilisées.
 
-Cela dépend notamment des ressources disponibles :
+Elle se distingue de l'incompatibilité, de l'erreur, de la contradiction et du conflit, même si ces phénomènes peuvent contribuer à son apparition. Elle ne constitue ni une cause nécessaire de transformation ni une explication suffisante de la situation.
 
-- distinctions ;
-- critères ;
-- procédures ;
-- supports ;
-- capacités d'action ;
-- relations ;
-- pratiques de correction ;
-- moyens de justification.
-
-La tension ne doit donc pas être comprise comme une propriété absolue d'une situation.
-
-Elle indique une difficulté relative à une configuration et à ses ressources.
-
----
-
-Fonction dans l'enquête
-
-La tension devient pertinente lorsque l'enquête cherche à comprendre pourquoi une pratique ne parvient plus à fonctionner de la manière habituelle.
-
-Elle peut alors orienter l'analyse vers plusieurs questions :
-
-- Quelle opération devient difficile ?
-- Quelle distinction ne tient plus dans le cas rencontré ?
-- Quelle exigence entre en difficulté avec une autre ?
-- Quelles ressources sont actuellement disponibles ?
-- Ces ressources permettent-elles encore une correction ordinaire ?
-- La difficulté est-elle locale ou récurrente ?
-- La configuration doit-elle être maintenue, corrigée ou réorganisée ?
-
-La tension sert ainsi à délimiter un problème d'enquête.
-
-Elle ne fournit pas à elle seule son explication.
-
----
-
-Articulation avec la quadripartition
-
-La tension ne constitue pas une cinquième dimension de Protokin.
-
-Elle peut être examinée selon chacune des quatre questions fondamentales :
-
-Corps
-
-Quelles contraintes corporelles ou matérielles participent à la difficulté ?
-
-Relation
-
-Quelles relations deviennent difficiles à maintenir ou à coordonner ?
-
-Fonction
-
-Quelle opération de la pratique rencontre une difficulté ?
-
-Justification
-
-Quels critères, engagements ou raisons deviennent difficiles à maintenir, à articuler ou à défendre ?
-
-Aucune de ces réponses ne se substitue aux autres.
-
-Une contrainte corporelle peut contribuer à une tension sans constituer sa fonction.
-
-Une difficulté relationnelle peut contribuer à une tension sans fournir sa justification.
-
-Une difficulté de justification peut contribuer à une tension sans devenir une cause matérielle.
-
----
-
-Articulation avec l'audit
-
-L'audit permet de déterminer si une tension est effectivement liée à une conversion ou à une confusion conceptuelle.
-
-Il peut notamment examiner si l'on transforme :
-
-- une condition en critère ;
-- une cause en raison ;
-- une trace en signification ;
-- une fonction en propriété ;
-- une capacité en performance ;
-- une description en objet décrit.
-
-La tension peut donc être un indice pour l'audit, mais elle ne constitue pas en elle-même la preuve d'une conversion.
-
----
-
-Limites
-
-Il ne faut pas appeler tension toute difficulté rencontrée dans une pratique.
-
-L'enquête doit notamment distinguer :
-
-- difficulté ponctuelle et difficulté persistante ;
-- erreur locale et insuffisance des ressources de correction ;
-- désaccord et difficulté de coordination ;
-- contradiction logique et difficulté fonctionnelle ;
-- conflit social et problème descriptif ;
-- contrainte matérielle et tension descriptive.
-
-Ces distinctions évitent de faire de la tension une catégorie générale dans laquelle toutes les difficultés seraient regroupées.
-
----
-
-Synthèse
-
-La tension désigne une difficulté située de fonctionnement.
-
-Elle apparaît lorsqu'une configuration rencontre des exigences qu'elle ne parvient plus à maintenir, coordonner ou traiter sans difficulté avec les ressources dont elle dispose.
-
-Elle ne constitue :
-
-- ni une propriété de la chose ;
-- ni une contradiction nécessaire ;
-- ni un conflit social ;
-- ni une cause de transformation ;
-- ni une essence cachée du régime descriptif.
-
-Elle peut cependant rendre un problème suffisamment manifeste pour qu'une enquête soit engagée.
-
-«Une tension ne désigne pas ce qui pousse nécessairement une configuration à changer. Elle désigne une difficulté dans son fonctionnement, à partir de laquelle la question d'une correction ou d'une réorganisation peut devenir pertinente.»
+Sa fonction dans Protokin est de rendre une difficulté identifiable et de préciser ce qui demande un examen, sans préjuger des causes, des conclusions ou des transformations qui pourront être établies.
