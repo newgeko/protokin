@@ -1,4 +1,4 @@
-# Inférences — Transitions et engagements discursifs
+# Inférence — Transitions et engagements discursifs
 
 ## 1. Fonction
 
