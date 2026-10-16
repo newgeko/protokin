@@ -89,7 +89,7 @@ L’analyse distingue le contenu d’un énoncé, l’acte par lequel il est end
 - [Assertion](fr/assertion.md) — Examiner l’acte d’endossement et la responsabilité discursive qui lui est associée.
 - [Locuteur](fr/locuteur.md) — Examiner la position discursive à laquelle une assertion et les engagements correspondants peuvent être attribués.
 - [Auditeur](fr/auditeur.md) — Examiner la position depuis laquelle une assertion peut être interrogée, contestée ou provisoirement acceptée.
-- [Engagements descriptifs](fr/engagements-descriptifs.md) — Définir le statut normatif associé à une prise de position descriptive et préciser les engagements attribuables au locuteur.
+- [Engagement descriptif](fr/engagement-descriptif.md) — Définir le statut normatif associé à une prise de position descriptive et préciser les engagements attribuables au locuteur.
 - [Le débordement pragmatique de l’assertion](fr/le-debordement-pragmatique-de-l-assertion.md) — Examiner les conclusions qu’une assertion peut autoriser au-delà de l’intention explicite de l’instance qui l’énonce.
 
 La proposition et l’assertion remplissent des fonctions distinctes : l’une concerne le contenu évaluable ; l’autre, son endossement dans une pratique discursive.
@@ -102,7 +102,7 @@ La proposition et l’assertion remplissent des fonctions distinctes : l’une c
 - [Inférence matérielle](fr/inference-materielle.md) — Examiner les relations d’autorisation qui dépendent du contenu des énoncés.
 - [Espace des raisons](fr/espace-des-raisons.md) — Situer les relations entre raisons, conclusions, habilitations et incompatibilités.
 - [Raison](fr/raison.md) — Préciser ce qui peut soutenir, contester ou réviser une conclusion.
-- [Pairs — Engagement discursif et habilitation](pairs.md) — Examiner comment les participants reconnaissent, contestent et révisent les engagements et les habilitations dans une pratique discursive.
+- [Pairs — Engagement discursif et habilitation](fr/pairs.md) — Examiner comment les participants reconnaissent, contestent et révisent les engagements et les habilitations dans une pratique discursive.
 - [Justification](fr/justification.md) — Examiner les conditions dans lesquelles un engagement peut être défendu.
 - [Critère](fr/critere.md) — Préciser les normes selon lesquelles une description ou une conclusion est évaluée.
 - [Relation sémantique et référence](fr/relation-semantique-et-reference.md) — Examiner l’articulation entre contenu, usage et visée référentielle.
