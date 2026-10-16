@@ -11,6 +11,7 @@ Le classement proposé est documentaire. Il ne constitue ni une hiérarchie onto
 Ces pages précisent le problème auquel répond Protokin, l’organisation du projet et les fonctions respectives de ses principales ressources.
 
 - [Présentation générale](../README.md) — Présenter le projet, son orientation et ses limites.
+- [Nom, origine et portée](fr/nom-origine-portee.md) — Expliquer le choix du nom Protokin, les rapprochements conceptuels qu’il suggère et les limites de leur portée.
 - [Introduction générale](fr/introduction-generale.md) — Situer les difficultés rencontrées dans les pratiques descriptives et introduire la nécessité d’une enquête.
 - [Architecture du projet](fr/architecture-projet.md) — Organiser les ressources du corpus et préciser leurs fonctions.
 - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Décrire les opérations par lesquelles une difficulté descriptive peut être examinée et reprise.
