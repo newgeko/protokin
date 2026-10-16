@@ -1,4 +1,4 @@
-Critères — Les conditions d’évaluation d’une attribution
+Critère — Les conditions d’évaluation d’une attribution
 
 Fonction
 
