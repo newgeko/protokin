@@ -122,7 +122,7 @@ Ces pages distinguent la dérivation de relations apprises, la transformation de
 - [Objet descriptif](fr/objet-descriptif.md) — Préciser comment une différence est stabilisée comme identifiable et réutilisable dans une pratique descriptive.
 - [Description](fr/description.md) — Examiner les descriptions comme des configurations susceptibles d’être discutées et révisées.
 - [Anaphore](fr/anaphore.md) — Examiner les reprises discursives et les relations de dépendance entre occurrences.
-- [Stabilisation](fr/stabilisation.md) — Examiner le maintien provisoire d’une distinction dans une pratique.
+- [Stabilisation](fr/stabilisation.md) — Examiner le maintien relatif d’une configuration à travers ses reprises et ses variations.
 
 L’inférence, la substitution et l’anaphore désignent des dimensions articulées de l’analyse : les relations entre engagements, les transformations linguistiques et la continuité discursive.
 
