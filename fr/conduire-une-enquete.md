@@ -90,7 +90,7 @@ La décision doit être proportionnée à ce que l’enquête a effectivement é
 
 ## 4. Mobiliser les opérations de l’enquête
 
-L’[Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md) distingue huit opérations :
+L’[Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) distingue huit opérations :
 
 **Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter**
 
