@@ -78,7 +78,7 @@ Ces deux dimensions ne s’excluent pas. Une transition peut être examinée sou
 
 Aucune de ces analyses ne suffit, à elle seule, à établir que les prémisses sont adéquates à la situation décrite ou que la conclusion est justifiée.
 
-Pour approfondir ces distinctions, voir [Inférence formelle](inference-formelle.md) et [Inférence matérielle](inference-materielle.md).
+Pour approfondir ces distinctions, voir [Inférence formelle](fr/inference-formelle.md) et [Inférence matérielle](fr/inference-materielle.md).
 
 ## 6. Inférence, causalité et justification
 
@@ -99,7 +99,7 @@ Il faut ainsi distinguer :
 
 La correction d’un passage ne garantit donc ni la vérité de ses prémisses ni l’adéquation de la conclusion. De même, le fait qu’une conclusion soit effectivement tirée ne prouve pas que le passage qui y conduit soit recevable.
 
-Voir [Raisons](raisons.md), [Justifications](justifications.md) et [Critères](criteres.md).
+Voir [Raisons](raisons.md), [Justifications](fr/justifications.md) et [Critères](fr/criteres.md).
 
 ## 7. Position dans l’enquête de Protokin
 
