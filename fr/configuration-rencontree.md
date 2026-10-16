@@ -1,397 +1,97 @@
-# Page : configuration-rencontree.md
+# Configuration rencontrée — Décrire la situation examinée
 
-# Configuration rencontrée — Le niveau pré-sémiotique et dynamique du milieu éprouvé
+## 1. Fonction
 
-## Fonction de la page
+La notion de **configuration rencontrée** désigne la situation sur laquelle porte une enquête, telle qu’elle est délimitée au regard d’un problème descriptif.
 
-Cette page existe pour établir la fonction conceptuelle de la **configuration rencontrée** comme condition initiale de toute enquête descriptive.
+Elle permet de préciser ce qui est examiné sans confondre la situation, les différences retenues pour la décrire et la description produite. Elle ne présuppose ni que la situation soit dépourvue de toute description préalable, ni qu’elle soit intégralement connue.
 
-Elle décrit le niveau amont où une situation pratique est éprouvée avant toute inscription sémiotique, catégorisation conceptuelle ou formulation discursive.
+## 2. Problème
 
-La configuration rencontrée constitue ainsi le point de départ fonctionnel de la trajectoire descriptive de Protokin.
+Une enquête descriptive porte toujours sur une situation déterminée, mais celle-ci ne se présente pas nécessairement comme un ensemble déjà délimité selon les besoins de l’examen.
 
-Elle ne désigne pas un « monde brut » indépendant de toute relation, mais la manière dont un milieu se présente dans une interaction située entre un agent et son environnement.
+Il faut préciser ce qui est en question, quels éléments sont pertinents et dans quelles limites la situation est considérée. Cette délimitation dépend du problème rencontré et peut être révisée lorsque les premières descriptions se révèlent insuffisantes.
 
----
+Une même situation peut ainsi faire l’objet de plusieurs enquêtes. Leurs différences ne signifient pas nécessairement qu’elles portent sur des réalités distinctes : elles peuvent examiner des aspects différents d’une même configuration, ou retenir des limites différentes selon leurs objectifs.
 
-# 1. Problème conceptuel inaugural
+Le problème consiste donc à désigner la situation examinée sans confondre la délimitation nécessaire à l’enquête avec une description exhaustive de ce qui existe.
 
-Une pratique descriptive ne commence jamais directement avec des concepts, des catégories ou des propositions.
+## 3. Définition
 
-Avant qu'une communauté puisse dire :
+On appelle **configuration rencontrée** la configuration située — matérielle, relationnelle, pratique ou institutionnelle — sur laquelle porte une enquête, dans les limites provisoirement définies par le problème descriptif.
 
-> « Le vélo est rouge »
+Le terme *configuration* indique que l’examen porte sur une situation comprenant des éléments et des relations pertinents pour le problème. Le terme *rencontrée* souligne que cette situation est abordée depuis une pratique et des conditions déterminées, et non depuis un point de vue extérieur à toute enquête.
 
-ou :
+La configuration rencontrée n’est donc ni un inventaire complet de la situation, ni une description déjà validée de celle-ci. Sa délimitation est une décision d’enquête dont la pertinence peut être discutée et révisée.
 
-> « Cette personne est dangereuse »,
+## 4. Distinctions avec les notions voisines
 
-il faut qu'une situation ait d'abord été rencontrée, éprouvée et différenciée dans une pratique concrète.
+### 4.1. Configuration rencontrée et différence rencontrée
 
-Cependant, cette antériorité pose un problème théorique.
+La **configuration rencontrée** désigne la situation examinée dans les limites d’un problème. La **différence rencontrée** désigne une différence qui intervient dans une situation et peut contribuer à faire apparaître une difficulté descriptive.
 
-Deux positions classiques doivent être évitées :
+Une différence peut motiver l’enquête sans suffire à délimiter toute la configuration pertinente. Inversement, l’examen d’une configuration peut conduire à identifier plusieurs différences dont la pertinence reste à établir.
 
-- l'idée empiriste d'un **donné brut** qui fournirait directement des informations indépendantes de toute activité ;
-- l'idée constructiviste radicale selon laquelle toute organisation du réel serait entièrement produite par le langage.
+### 4.2. Configuration rencontrée et configuration sémiotique
 
-Protokin ne retient aucune de ces deux alternatives.
+La configuration rencontrée ne se définit pas par l’absence de signes, de traces ou de catégories. Une situation peut déjà être décrite, interprétée ou organisée par des pratiques sémiotiques lorsque l’enquête commence.
 
-Le point de départ d'une description n'est ni un objet déjà constitué attendant d'être nommé, ni une construction arbitraire produite à partir de rien.
+La **configuration sémiotique** concerne plus précisément les différences rendues disponibles dans des pratiques de signes, de traces ou de formes reconnaissables. Cette distinction porte sur la fonction examinée, et non sur deux états qui se succéderaient nécessairement.
 
-Il s'agit d'une situation dynamique dans laquelle un organisme, un collectif ou une pratique rencontre des résistances, des variations, des différences et des possibilités d'action.
+### 4.3. Configuration rencontrée et configuration descriptive
 
-Le problème conceptuel auquel répond cette page est donc :
+La configuration rencontrée désigne la situation examinée ; la **configuration descriptive** concerne l’organisation des éléments retenus dans une description.
 
-> Comment une situation pratique devient-elle le point de départ d'une enquête descriptive sans être considérée comme un donné ontologique déjà organisé ?
+Les deux ne doivent pas être confondues. Décrire une configuration suppose des choix de délimitation et d’organisation, mais la description obtenue ne constitue pas, par cette seule opération, la situation qu’elle décrit. Son adéquation reste à examiner au regard du problème traité.
 
-La configuration rencontrée permet de désigner ce niveau préalable sans lui attribuer une structure conceptuelle qu'il ne possède pas encore.
+## 5. Articulation avec l’architecture de l’enquête
 
----
+La configuration rencontrée intervient dans la délimitation du problème et dans les reprises de l’enquête. Elle aide à préciser ce sur quoi porte l’examen, sans déterminer à elle seule les opérations à effectuer ni les résultats à obtenir.
 
-# 2. Définition fonctionnelle
+La chaîne principale de Protokin — Délimiter, Ancrer, Distinguer, Relier, Configurer, Justifier, Reconstituer, Redélimiter — organise les opérations possibles de l’enquête. Elle n’impose pas que la configuration rencontrée constitue un premier état qui se transformerait nécessairement en configuration sémiotique, puis en configuration descriptive.
 
-Dans l'architecture de Protokin, on appelle **configuration rencontrée** :
+La situation examinée peut rester relativement stable tandis que sa délimitation change. Inversement, une transformation de la situation peut obliger à reprendre l’enquête, même si les catégories descriptives disponibles n’ont pas encore été modifiées.
 
-> Une organisation dynamique, située et pré-sémiotique d'un milieu tel qu'il est éprouvé dans un couplage perception-action, constituant le fond pratique à partir duquel certaines différences pourront ultérieurement devenir disponibles pour une description.
+La configuration rencontrée est donc un repère pour l’examen, non une étape constitutive d’une trajectoire universelle.
 
-Cette définition implique plusieurs propriétés fondamentales.
+## 6. Exemple discriminant : un arbre qui penche au-dessus d’une habitation
 
----
+Un arbre situé près d’une maison commence à pencher. La situation peut être examinée au regard de plusieurs questions : son état biologique, sa stabilité, les conditions météorologiques ou le risque qu’il représente pour l’habitation.
 
-## 2.1 Une organisation dynamique
+Ces questions concernent une même situation, mais elles ne mobilisent pas nécessairement les mêmes éléments ni les mêmes critères. Une observation de l’inclinaison peut motiver l’enquête sans suffire à établir le niveau de risque. Un diagnostic biologique peut apporter des informations utiles sans justifier, à lui seul, une décision de sécurité.
 
-La configuration rencontrée n'est pas un ensemble fixe de propriétés.
+La configuration rencontrée ne fournit pas d’avance la réponse à ces questions. Elle désigne la situation à examiner, dont la délimitation et les caractéristiques pertinentes doivent être précisées au cours de l’enquête.
 
-Elle correspond à une situation en transformation constante, composée :
+Si de nouvelles informations apparaissent, la situation peut être redélimitée : l’état du sol, l’évolution de l’inclinaison ou la proximité d’autres constructions peuvent devenir pertinents. Cette révision ne signifie pas nécessairement que la situation matérielle a changé ; elle peut aussi traduire une modification de ce que l’enquête doit examiner.
 
-- de variations ;
-- de résistances ;
-- de possibilités d'action ;
-- de tensions ;
-- de régularités pratiques.
+## 7. Limites et non-conversions
 
-Le milieu n'est pas rencontré comme une collection d'objets isolés, mais comme un champ de relations dans lequel certaines actions deviennent possibles et d'autres impossibles.
+La notion de configuration rencontrée ne permet pas, à elle seule, d’établir :
 
-La configuration rencontrée possède donc une dimension temporelle et processuelle.
+- que tous les éléments pertinents de la situation ont été identifiés ;
+- que la délimitation retenue est la seule possible ;
+- que la situation est accessible indépendamment de toute pratique d’examen ;
+- qu’une différence observée possède déjà une signification déterminée ;
+- qu’une configuration rencontrée devient nécessairement sémiotique, puis descriptive ;
+- que la description produite est adéquate à ce qu’elle prétend décrire ;
+- qu’une relation observée établit une causalité, une fonction ou une justification.
 
----
+La situation examinée impose des contraintes à l’enquête, mais leur identification et leur interprétation demandent un examen. La cohérence de la description ne suffit pas à garantir son adéquation ; inversement, le fait que la délimitation soit révisable ne signifie pas que la situation serait librement construite par la description.
 
-## 2.2 Une organisation située
+La configuration rencontrée désigne ainsi un objet d’examen provisoirement délimité, dont la pertinence doit être éprouvée et peut être révisée.
 
-La configuration rencontrée n'existe pas pour un observateur abstrait placé hors du monde.
+## 8. Synthèse et renvois
 
-Elle dépend toujours :
+La configuration rencontrée désigne la situation située sur laquelle porte une enquête, telle qu’elle est délimitée au regard d’un problème descriptif.
 
-- d'un corps ;
-- d'une position pratique ;
-- d'une trajectoire d'action ;
-- d'une situation particulière.
+Elle permet de distinguer la situation examinée des différences qui y sont retenues et de l’organisation descriptive qui en est proposée, sans présupposer une succession nécessaire entre ces dimensions.
 
-Deux agents peuvent être confrontés au même environnement physique tout en rencontrant des configurations différentes parce qu'ils n'y engagent pas les mêmes possibilités d'action.
+Pour approfondir les notions associées :
 
-La configuration rencontrée est donc toujours relative à une manière d'être engagé dans un milieu.
-
----
-
-## 2.3 Une organisation pré-sémiotique
-
-La configuration rencontrée précède fonctionnellement l'apparition des signes, des catégories et des descriptions.
-
-Elle ne contient pas encore :
-
-- de noms ;
-- de classifications ;
-- de propositions ;
-- de critères explicites ;
-- de normes de justification.
-
-Elle constitue seulement le niveau où certaines différences peuvent commencer à émerger comme pertinentes pour une activité ultérieure.
-
-Elle n'est donc pas encore une description.
-
-Elle est la condition pratique à partir de laquelle une description pourra devenir possible.
-
----
-
-# 3. Distinctions conceptuelles nécessaires
-
-Afin d'éviter les confusions de niveaux, la configuration rencontrée doit être distinguée des autres dimensions de l'architecture.
-
----
-
-## 3.1 Configuration rencontrée et objet en soi
-
-La configuration rencontrée ne désigne pas une réalité ultime indépendante de toute relation.
-
-Protokin ne cherche pas à décrire ce que serait le monde avant toute interaction.
-
-Elle reconstruit une fonction :
-
-> le rôle joué par une situation éprouvée dans la genèse d'une pratique descriptive.
-
-La configuration rencontrée n'est donc pas une ontologie du réel.
-
-Elle est un concept fonctionnel permettant de décrire l'amont des opérations descriptives.
-
----
-
-## 3.2 Configuration rencontrée et configuration sémiotique
-
-La distinction entre ces deux niveaux est fondamentale.
-
-La **configuration rencontrée** correspond au milieu éprouvé avant qu'une différence soit retenue comme signe ou trace partageable.
-
-La **configuration sémiotique** commence lorsque certaines différences deviennent disponibles pour une pratique collective grâce à :
-
-- une inscription ;
-- une trace ;
-- un signal ;
-- une forme reconnaissable ;
-- une possibilité de réidentification.
-
-Passage :
-
-Milieu éprouvé ↓ Configuration rencontrée ↓ Différences retenues ↓ Configuration sémiotique
-
-La configuration rencontrée fournit donc la matière pratique de l'enquête.
-
-La configuration sémiotique organise les différences qui deviennent disponibles.
-
----
-
-## 3.3 Configuration rencontrée et configuration descriptive
-
-La configuration rencontrée ne contient pas encore d'organisation conceptuelle.
-
-Elle ne produit pas :
-
-- de catégories ;
-- de prédications ;
-- d'assertions ;
-- d'inférences.
-
-La configuration descriptive intervient lorsque les différences disponibles sont organisées dans un espace relationnel permettant des descriptions partageables.
-
-Passage :
-
-Configuration rencontrée ↓ Configuration sémiotique ↓ Configuration descriptive ↓ Régime descriptif
-
-Chaque niveau ajoute une capacité nouvelle.
-
-Aucun niveau ne peut être réduit au précédent.
-
----
-
-# 4. Le refus du donné brut
-
-La configuration rencontrée permet à Protokin d'éviter une conception naïve de l'expérience.
-
-Une variation physique n'est jamais immédiatement une information descriptive.
-
-Une modification lumineuse n'est pas encore une couleur.
-
-Une variation biologique n'est pas encore un diagnostic.
-
-Une réaction corporelle n'est pas encore une qualification morale.
-
-Ces différences deviennent descriptivement pertinentes seulement lorsqu'elles entrent dans une trajectoire d'inscription, de sélection et d'organisation collective.
-
-La configuration rencontrée n'est donc pas un stock d'informations disponibles.
-
-Elle est un champ de possibilités à partir duquel certaines différences pourront être stabilisées.
-
----
-
-# 5. Éclairage par les fils rouges pédagogiques
-
-Les situations de référence permettent d'observer la fonction de la configuration rencontrée.
-
----
-
-## 5.1 « Le vélo est rouge »
-
-Avant toute assertion :
-
-> « Le vélo est rouge »
-
-il existe une rencontre pratique avec une situation.
-
-Un agent perçoit :
-
-- une présence matérielle ;
-- des contrastes lumineux ;
-- une forme ;
-- une résistance lors de l'interaction.
-
-À ce niveau, il n'existe encore ni objet nommé « vélo », ni propriété qualifiée comme « rouge ».
-
-La configuration rencontrée désigne cette situation perceptive et pratique avant son organisation descriptive.
-
----
-
-## 5.2 « Cette personne est dangereuse »
-
-Avant toute qualification sécuritaire, une interaction peut être éprouvée comme problématique.
-
-Elle peut impliquer :
-
-- une tension corporelle ;
-- une modification de comportement ;
-- une anticipation d'un risque ;
-- une rupture avec une attente pratique.
-
-Cependant, cette expérience initiale n'est pas encore une catégorie de dangerosité.
-
-Elle deviendra une description seulement après inscription, catégorisation et justification dans un régime donné.
-
----
-
-## 5.3 « Cette personne est mauvaise »
-
-Une évaluation morale commence également par une situation rencontrée.
-
-Elle peut prendre la forme :
-
-- d'une déception ;
-- d'un conflit ;
-- d'une souffrance relationnelle ;
-- d'une rupture d'attente.
-
-Mais cette perturbation pratique n'est pas encore un jugement moral.
-
-La transformation en qualification morale nécessite des normes, des catégories et des pratiques justificatives.
-
----
-
-## 5.4 Le botaniste et le bûcheron dans une forêt
-
-Deux acteurs peuvent partager un même environnement sans rencontrer exactement la même configuration pratique.
-
-Le botaniste rencontre :
-
-- des variations morphologiques ;
-- des structures végétales ;
-- des différences biologiques pertinentes.
-
-Le bûcheron rencontre :
-
-- des propriétés mécaniques ;
-- des résistances ;
-- des possibilités techniques d'exploitation.
-
-Ils ne rencontrent pas deux réalités différentes.
-
-Ils développent deux engagements pratiques différents dans un même milieu.
-
----
-
-## 5.5 Le patient aux urgences
-
-Avant les descriptions médicales, il existe une situation éprouvée :
-
-- douleur ;
-- fatigue ;
-- agitation ;
-- altération corporelle.
-
-Ces éléments ne sont pas encore des diagnostics.
-
-Ils constituent la configuration rencontrée à partir de laquelle une enquête médicale pourra organiser des signes, produire des catégories et établir des décisions.
-
----
-
-# 6. Place dans l'architecture fonctionnelle
-
-La configuration rencontrée appartient à la section :
-
-03 — Fondements descriptifs
-
-Elle constitue le premier niveau de la trajectoire descriptive.
-
-Son rôle est d'établir l'ancrage pratique et écologique de toute description.
-
-La chaîne fonctionnelle est :
-
-Configuration rencontrée ↓ Couplage perception-action ↓ Configuration sémiotique ↓ Support descriptif ↓ Configuration descriptive ↓ Régime descriptif
-
-La configuration rencontrée établit donc la condition initiale :
-
-aucune description ne commence dans un espace purement conceptuel.
-
-Toute pratique descriptive possède un ancrage dans une situation rencontrée.
-
----
-
-# 7. Limites internes du concept
-
-## 7.1 Le paradoxe de formulation
-
-La configuration rencontrée possède une limite méthodologique fondamentale.
-
-Dès qu'elle est décrite, elle entre nécessairement dans un régime sémiotique et descriptif.
-
-Il est impossible de présenter directement une expérience pré-sémiotique sans utiliser :
-
-- des catégories ;
-- du langage ;
-- des distinctions.
-
-Le concept de configuration rencontrée est donc une reconstruction théorique.
-
-Il ne montre pas un état accessible directement.
-
-Il indique une fonction nécessaire dans la genèse des descriptions.
-
----
-
-## 7.2 Le risque de réification
-
-Une erreur serait de transformer la configuration rencontrée en une nouvelle substance cachée derrière les descriptions.
-
-Protokin évite cette dérive.
-
-La configuration rencontrée n'est pas :
-
-- un niveau fondamental du réel ;
-- une réalité primitive ;
-- une essence préalable.
-
-Elle est une position fonctionnelle dans une architecture d'analyse.
-
----
-
-# 8. Ouvertures et renvois
-
-## Ce que cette page suppose
-
-Cette page suppose établi :
-
-- le principe d'immanence ;
-- le primat du couplage perception-action ;
-- la distinction entre conditions pratiques et conditions descriptives.
-
----
-
-## Ce que cette page rend possible
-
-Cette page rend possible :
-
-- l'analyse des configurations sémiotiques ;
-- l'étude des supports descriptifs ;
-- l'analyse de la transformation des différences en descriptions ;
-- l'étude des régimes descriptifs.
-
----
-
-# Synthèse fonctionnelle
-
-La configuration rencontrée désigne le point d'origine pratique d'une enquête descriptive.
-
-Elle n'est ni un objet déjà constitué, ni un donné brut, ni une construction linguistique.
-
-Elle correspond à la manière dont un milieu est éprouvé dans une interaction située avant que certaines différences deviennent des signes, des catégories et finalement des descriptions.
-
-Elle établit ainsi le premier principe de Protokin :
-
-> Toute description possède une genèse pratique : elle commence par une rencontre avant de devenir une organisation sémiotique, conceptuelle et normative.
+- [Différence rencontrée](fr/difference-rencontree.md)
+- [Configuration sémiotique](fr/configuration-semiotique.md)
+- [Configuration descriptive](fr/configuration-descriptive.md)
+- [Description](fr/description.md)
+- [Objet descriptif](fr/objet-descriptif.md)
+- [Référent](fr/referent.md)
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
