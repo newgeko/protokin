@@ -1,4 +1,4 @@
-Raisons — Soutenir et contester une prise de position
+Raison — Soutenir et contester une prise de position
 
 1. Fonction
 
