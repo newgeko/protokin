@@ -1,124 +1,110 @@
-Cause — Expliquer les phénomènes
+# Cause — Expliquer la production d’un phénomène
 
-Fonction
+## 1. Fonction
 
-Cette page précise ce qu’une explication causale permet d’établir dans une enquête descriptive. Elle distingue l’identification des processus par lesquels un phénomène se produit de l’examen des descriptions et des conclusions formulées à son sujet.
+Cette page précise ce qu’une explication causale permet d’établir et ce qu’elle ne permet pas de conclure à elle seule. Elle distingue l’explication de la production d’un phénomène de l’examen de sa fonction, de sa signification ou de sa justification.
 
-Problème
+## 2. Problème
 
-Lorsqu’un phénomène est expliqué par ses causes, deux confusions sont possibles.
+Expliquer pourquoi un phénomène se produit ne revient pas à répondre à toutes les questions que ce phénomène soulève.
 
-La première consiste à traiter une explication causale comme une explication suffisante de tout ce qui concerne le phénomène. Identifier les processus qui produisent un comportement, une perception ou un événement ne suffit pas nécessairement à expliquer sa signification dans une pratique, sa fonction ou la validité d’une affirmation à son sujet.
+Une explication causale peut identifier des facteurs, des mécanismes ou des dépendances qui contribuent à la production d’un événement. Mais elle ne suffit pas nécessairement à déterminer ce que cet événement signifie dans une pratique, si une affirmation à son sujet est correcte ou si une décision est justifiée.
 
-La seconde consiste à détacher les descriptions de leurs conditions matérielles. Les pratiques descriptives dépendent d’organismes, d’interactions, de dispositifs techniques et d’environnements. Ces dépendances doivent pouvoir être examinées sans que les descriptions soient réduites à leurs seules causes.
+Une difficulté apparaît lorsque l’explication causale est utilisée pour répondre à une question qui exige d’autres éléments. L’origine d’une affirmation peut alors être confondue avec les raisons de la maintenir ; les conditions d’un comportement, avec sa justification ; les effets d’une pratique, avec sa validité.
 
-Le problème est donc de préciser ce que l’explication causale établit, ce qu’elle laisse à examiner et dans quelles conditions elle contribue à une enquête plus large.
+L’enjeu n’est pas de séparer les dimensions matérielles et descriptives, mais de préciser ce que leur articulation permet effectivement d’établir.
 
-Définition
+## 3. Définition
 
-Une cause désigne, dans une explication déterminée, un facteur, un processus ou un ensemble de relations auquel on attribue un rôle dans la production d’un phénomène.
+Une **cause** désigne, dans une explication déterminée, un facteur, un processus ou un ensemble de dépendances auquel est attribué un rôle dans la production d’un phénomène.
 
-Une explication causale cherche à établir comment ou pourquoi un phénomène se produit en identifiant les dépendances, les mécanismes ou les régularités qui permettent d’en rendre compte.
+Une **explication causale** cherche à rendre compte de cette production en identifiant les facteurs pertinents et la manière dont ils contribuent au phénomène étudié.
 
-La pertinence d’une cause ne découle pas de sa seule existence. Elle dépend de la question étudiée, des éléments disponibles et de la solidité de la relation causale proposée.
+La présence d’un facteur ne suffit toutefois pas à établir son rôle causal. Celui-ci dépend de la question posée, des relations examinées et des éléments permettant de soutenir l’explication proposée.
 
-Une explication causale doit ainsi préciser le phénomène à expliquer, les facteurs retenus, le type de dépendance invoqué et les éléments qui permettent de soutenir cette explication.
+Il faut donc préciser le phénomène à expliquer, les facteurs retenus, le type de dépendance invoqué et les éléments qui étayent la conclusion. Une explication causale peut rester partielle ou devoir être révisée lorsque de nouveaux éléments apparaissent.
 
-Distinguer cause et condition
+## 4. Distinctions avec les notions voisines
+
+### 4.1. Cause et condition
 
 Une condition désigne une contrainte ou une possibilité pertinente pour une situation ou une pratique. Une cause intervient dans une explication de la production d’un phénomène.
 
-La distinction dépend de la question posée. Une même circonstance peut constituer une condition dans une enquête et participer à une relation causale dans une autre.
+Une même circonstance peut être examinée comme condition dans une enquête et comme facteur causal dans une autre. Les deux termes ne désignent donc pas nécessairement des éléments différents : ils correspondent à des questions distinctes.
 
-Par exemple, la température ambiante peut être une condition de croissance d’un arbre. Pour expliquer un ralentissement de cette croissance, il faut établir si et comment les variations de température ont contribué au phénomène, en tenant compte d’autres facteurs possibles.
+Par exemple, la température ambiante constitue une condition de croissance d’un arbre. Pour expliquer un ralentissement de cette croissance, il faut examiner si et comment une variation de température y a contribué, parmi d’autres facteurs possibles.
 
-Une condition n’est donc pas nécessairement une cause identifiée. Inversement, une cause peut être étudiée comme une condition pertinente pour la poursuite d’une pratique.
+**Une condition n’est pas automatiquement une cause identifiée ; une cause ne suffit pas, à elle seule, à déterminer toutes les conséquences pertinentes pour l’enquête.**
 
-Distinguer cause et raison
+### 4.2. Cause et raison
 
-Une cause et une raison ne répondent pas nécessairement à la même question.
+Une cause peut contribuer à expliquer pourquoi une personne formule une affirmation. Une raison peut contribuer à établir pourquoi cette affirmation mérite d’être maintenue, contestée ou révisée.
 
-L’explication causale porte sur les processus et les dépendances par lesquels un phénomène se produit. L’examen des raisons porte notamment sur ce qui autorise une affirmation, soutient une conclusion ou permet de défendre une position dans une pratique.
+Ces deux questions ne sont pas interchangeables.
 
-Ainsi, les processus physiologiques qui interviennent dans la perception d’une couleur peuvent contribuer à expliquer comment une personne distingue certaines stimulations visuelles. Ils ne suffisent pas à établir que son affirmation « ce vélo est rouge » est correcte dans les circonstances considérées.
+Les processus perceptifs, l’apprentissage ou les circonstances d’une observation peuvent expliquer pourquoi une personne affirme qu’un objet est rouge. Ils ne suffisent pas à établir que cette affirmation est correcte dans les circonstances considérées.
 
-Cette correction dépend également de ce qui est montré, des conditions d’observation, de l’usage des catégories chromatiques et des critères pertinents pour évaluer l’affirmation.
+Inversement, une affirmation peut être défendue par des raisons pertinentes sans que l’on ait entièrement expliqué les processus qui ont conduit la personne à la formuler.
 
-Il ne s’agit pas d’opposer deux domaines indépendants. Les raisons sont mobilisées par des agents corporels, dans des pratiques matériellement situées. Mais les conditions causales de leur production ne se substituent pas à l’examen de leur portée et de leur justification.
+Cette distinction ne sépare pas deux domaines indépendants. Les agents qui produisent des affirmations sont matériellement situés, et les raisons sont mobilisées dans des pratiques concrètes. Mais les causes de production d’une affirmation ne se substituent pas à l’examen des raisons qui permettent de la défendre.
 
-Cause ≠ raison. Expliquer la production d’une affirmation ne suffit pas à justifier son contenu ; justifier une affirmation ne dispense pas d’examiner les processus matériels pertinents pour la question posée.
+**Cause ≠ raison : expliquer la production d’une affirmation ne suffit pas à justifier son contenu.**
 
-Causes et pratiques descriptives
+## 5. Articulation avec les pratiques descriptives
 
-Les pratiques descriptives peuvent elles-mêmes faire l’objet d’explications causales.
+Les pratiques descriptives peuvent elles-mêmes faire l’objet d’explications causales. Une enquête peut étudier le rôle d’un dispositif technique dans la production de données, les effets d’une modification de l’environnement sur une observation ou les conditions d’apprentissage d’une capacité.
 
-Une enquête peut examiner les effets d’un dispositif technique sur les observations disponibles, les conséquences d’une modification de l’environnement sur une pratique, ou le rôle d’un apprentissage dans l’acquisition d’une capacité.
+Ces explications contribuent à comprendre comment certaines descriptions sont produites, deviennent possibles ou se transforment. Elles ne déterminent pas automatiquement leur contenu, leur fonction dans une pratique ou leur adéquation à ce qu’elles prétendent décrire.
 
-Ces explications contribuent à comprendre les conditions dans lesquelles certaines descriptions deviennent possibles, sont produites ou se transforment. Elles ne déterminent pas à elles seules le contenu de ces descriptions ni leur validité.
+Il convient ainsi de distinguer :
 
-Il faut notamment distinguer :
-
-- la production matérielle d’une inscription et ce qu’elle signifie dans une pratique ;
+- la production matérielle d’une inscription et sa signification dans une pratique ;
 - l’origine d’une catégorie et les critères de son application ;
 - la cause d’un comportement et les raisons invoquées pour le défendre ;
-- les effets d’une description et l’adéquation de cette description à ce qu’elle prétend décrire.
+- les effets d’une description et son adéquation à la situation décrite.
 
-Ces distinctions ne rendent pas les dimensions indépendantes. Elles empêchent qu’une réponse causale soit utilisée comme réponse suffisante à une question d’une autre nature.
+Ces dimensions peuvent dépendre les unes des autres. L’enquête doit toutefois examiner les relations entre elles au lieu de supposer qu’une explication dans un registre suffit à répondre aux questions des autres.
 
-Exemple : un arbre qui penche
+## 6. Exemple discriminant : le déclenchement d’une alarme
 
-Un arbre penche au-dessus d’une habitation. Une enquête peut chercher à expliquer cette inclinaison en examinant le développement des racines, la structure du sol, l’exposition au vent ou d’éventuelles dégradations du tronc.
+Une alarme se déclenche dans un bâtiment. Une explication causale peut établir que des particules présentes dans l’air ont activé son capteur.
 
-L’identification de ces facteurs peut contribuer à expliquer l’état de l’arbre. Elle ne suffit pas, à elle seule, à établir le risque que celui-ci représente pour l’habitation, ni à déterminer quelle intervention est justifiée.
+Cette explication rend compte du déclenchement de l’alarme. Elle ne permet pas, à elle seule, de conclure qu’un incendie est en cours : d’autres phénomènes peuvent également activer le capteur.
 
-L’évaluation du risque exige de préciser la situation examinée, les conséquences possibles, les critères employés et les éléments disponibles pour soutenir le diagnostic. Les explications causales peuvent contribuer à cette évaluation sans se substituer à elle.
+Pour déterminer si l’alerte signale effectivement un incendie, il faut examiner d’autres éléments, tels que les observations disponibles, le fonctionnement du dispositif et les critères employés pour interpréter le signal.
 
-Inversement, une décision d’intervention ne dispense pas d’examiner les causes de l’inclinaison lorsque cette connaissance est nécessaire pour choisir ou évaluer une action.
+La décision d’évacuer ou d’intervenir soulève encore une question distincte : celle des critères et des responsabilités qui justifient l’action dans la situation considérée.
 
-Le cas montre que plusieurs questions peuvent dépendre les unes des autres sans être interchangeables.
+Le cas distingue ainsi trois questions : pourquoi l’alarme s’est déclenchée, ce que son déclenchement permet d’établir et quelle action est justifiée. Les réponses peuvent être liées sans être équivalentes.
 
-Limites
+## 7. Limites et non-conversions
 
-L’explication causale ne constitue ni une théorie générale de toute intelligibilité ni une garantie de connaissance adéquate du phénomène étudié.
+Une explication causale ne garantit ni l’exhaustivité de l’explication ni l’adéquation de toutes les descriptions portant sur le phénomène.
 
 Elle ne permet pas, à elle seule :
 
 - de déterminer la signification d’une description ;
 - d’établir la validité d’une affirmation ;
 - de justifier une décision ou une obligation ;
-- de déduire une fonction descriptive d’un mécanisme matériel ;
-- de conclure qu’une description est adéquate au seul motif que son processus de production est bien expliqué.
+- de déduire la fonction d’une pratique de son seul mécanisme matériel ;
+- de conclure qu’une description est adéquate parce que sa production est expliquée.
 
-Une explication causale peut être incomplète, reposer sur des facteurs mal identifiés ou ne pas répondre à la question effectivement posée. Elle reste donc soumise à l’examen de ses éléments, de ses hypothèses et de sa portée.
+Ces limites ne signifient pas que les causes seraient sans pertinence pour l’examen des descriptions. Une explication causale peut modifier l’interprétation d’une observation, fragiliser une conclusion ou conduire à réviser une pratique. Mais ces conséquences doivent être établies à partir des éléments et des relations pertinents.
 
-Articulation avec l’enquête
+L’explication causale est donc une ressource de l’enquête, non une réponse universelle aux problèmes qu’elle examine.
 
-Dans Protokin, l’examen des causes intervient lorsque la compréhension d’un problème nécessite d’étudier les processus de production ou les dépendances causales pertinentes.
+## 8. Synthèse et renvois
 
-Son rôle se précise en fonction du problème rencontré. Il peut contribuer à l’examen des conditions, à la reconstruction de certaines relations ou à l’évaluation d’une explication proposée. Il ne constitue pas une étape obligatoire de toute enquête et ne précède pas nécessairement l’examen des descriptions ou de leurs justifications.
+L’explication causale cherche à rendre compte de la production d’un phénomène en examinant les facteurs et les dépendances qui y contribuent.
 
-La quadripartition aide à maintenir cette distinction :
+Dans Protokin, elle intervient lorsque le problème exige d’examiner ces processus. Elle peut éclairer les conditions d’une pratique ou contribuer à reconstruire certaines relations, sans se substituer à l’examen des fonctions descriptives et des justifications.
 
-- Condition : quelles contraintes et possibilités sont pertinentes ?
-- Relation : quelles dépendances causales ou autres relations sont établies ?
-- Fonction : quel rôle le phénomène ou la description joue-t-il dans la pratique étudiée ?
-- Justification : quels éléments et critères permettent de défendre les conclusions ?
-
-Ces orientations ne répartissent pas le réel en domaines séparés. Elles permettent de différencier les questions posées et d’examiner les passages entre leurs réponses.
-
-Synthèse
-
-L’explication causale cherche à établir comment un phénomène se produit en identifiant les facteurs, les mécanismes et les dépendances qui y contribuent.
-
-Elle est indispensable lorsque le problème exige de comprendre des processus matériels, biologiques, techniques ou environnementaux. Elle ne suffit toutefois pas à établir la signification d’une description, sa fonction dans une pratique ou la justification d’une conclusion.
-
-Expliquer causalement un phénomène, c’est établir certaines conditions de sa production ; ce n’est pas encore déterminer tout ce qu’il est pertinent d’en dire, ni justifier ce qui en est affirmé.
+Le principe directeur reste le suivant : **une dépendance entre plusieurs dimensions ne rend pas leurs fonctions interchangeables.** Expliquer comment un phénomène se produit ne suffit pas à établir tout ce qu’il est pertinent d’en dire.
 
 Pour poursuivre :
 
-- "Introduction générale" (introduction-generale.md)
-- "Architecture fonctionnelle de l’enquête" (architecture-fonctionnelle-de-l-enquete.md)
-- "Quadripartition de l’orientation" (quadripartition-de-l-orientation.md)
-- "Raisons" (raisons.md)
-- "Justifications" (justifications.md)
-- "Butoir" (butoir.md)
+- [Butoir](fr/butoir.md) — Examiner les contraintes qui limitent certaines descriptions ou inférences.
+- [Raison](fr/raison.md) — Préciser ce qui peut soutenir, contester ou réviser une conclusion.
+- [Justification](fr/justification.md) — Examiner les conditions dans lesquelles une conclusion peut être défendue.
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer l’examen causal parmi les opérations de l’enquête.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les questions relatives aux conditions, aux relations, aux fonctions et aux justifications.
