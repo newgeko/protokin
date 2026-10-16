@@ -62,11 +62,12 @@ La chaîne organise des déplacements possibles dans l’enquête. Elle n’éta
 
 Ces fonctions permettent d’examiner l’enquête elle-même, ses conditions d’exercice, ses résultats et les limites des distinctions mobilisées. Elles ne constituent pas des étapes supplémentaires mais des angles d’examen complémentaires.
 
-- [Temporalité descriptive](temporalite-descriptive.md) — Examiner les trajectoires, les durées, les rythmes et les transformations des descriptions.
-- [Réaliser un audit](realiser-un-audit.md) — Repérer les glissements catégoriels, les réductions et les équivalences insuffisamment justifiées.
-- [Réflexivité](reflexivite.md) — Examiner les conditions et les limites de l’exercice descriptif, y compris celles du cadre employé.
-- [Comparer deux descriptions](comparer-deux-descriptions.md) — Mettre en regard les engagements, les critères et les conséquences de descriptions distinctes.
-- [Auto-application](auto-application.md) — Soumettre les instruments de l’enquête aux exigences qu’ils appliquent aux autres descriptions.
+- [Temps physique](fr/temps.md) — Examiner comment les relations temporelles sont établies et mesurées dans l’étude des processus physiques, en les distinguant de la temporalité propre aux pratiques descriptives.
+- [Temporalité descriptive](fr/temporalite-descriptive.md) — Examiner les trajectoires, les durées, les rythmes et les transformations des descriptions.
+- [Réaliser un audit](fr/realiser-un-audit.md) — Repérer les glissements catégoriels, les réductions et les équivalences insuffisamment justifiées.
+- [Réflexivité](fr/reflexivite.md) — Examiner les conditions et les limites de l’exercice descriptif, y compris celles du cadre employé.
+- [Comparer deux descriptions](fr/comparer-deux-descriptions.md) — Mettre en regard les engagements, les critères et les conséquences de descriptions distinctes.
+- [Auto-application](fr/auto-application.md) — Soumettre les instruments de l’enquête aux exigences qu’ils appliquent aux autres descriptions.
 
 L’audit ne consiste pas seulement à vérifier la cohérence interne d’un discours. Il examine aussi les conditions dans lesquelles ses distinctions, ses inférences et ses justifications peuvent être maintenues ou remises en cause.
 
