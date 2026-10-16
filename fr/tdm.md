@@ -87,6 +87,8 @@ L’analyse distingue le contenu d’un énoncé, l’acte par lequel il est end
 
 - [Proposition](fr/proposition.md) — Examiner les contenus susceptibles d’être évalués et mobilisés comme prémisses ou conclusions.
 - [Assertion](fr/assertion.md) — Examiner l’acte d’endossement et la responsabilité discursive qui lui est associée.
+- [Locuteur](fr/locuteur.md) — Examiner la position discursive à laquelle une assertion et les engagements correspondants peuvent être attribués.
+- [Auditeur](fr/auditeur.md) — Examiner la position depuis laquelle une assertion peut être interrogée, contestée ou provisoirement acceptée.
 - [Engagements descriptifs](fr/engagements-descriptifs.md) — Définir le statut normatif associé à une prise de position descriptive et préciser les engagements attribuables au locuteur.
 - [Le débordement pragmatique de l’assertion](fr/le-debordement-pragmatique-de-l-assertion.md) — Examiner les conclusions qu’une assertion peut autoriser au-delà de l’intention explicite de l’instance qui l’énonce.
 
