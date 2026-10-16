@@ -10,13 +10,12 @@ Le classement proposé est documentaire. Il ne constitue ni une hiérarchie onto
 
 Ces pages précisent le problème auquel répond Protokin, l’organisation du projet et les fonctions respectives de ses principales ressources.
 
-- [README — Présentation générale](../README.md) — Présenter le projet, son orientation et ses limites.
+- [Présentation générale](../README.md) — Présenter le projet, son orientation et ses limites.
 - [Introduction générale](fr/introduction-generale.md) — Situer les difficultés rencontrées dans les pratiques descriptives et introduire la nécessité d’une enquête.
 - [Architecture du projet](fr/architecture-projet.md) — Organiser les ressources du corpus et préciser leurs fonctions.
-- [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md) — Décrire les opérations par lesquelles une difficulté descriptive peut être examinée et reprise.
-- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md) — Distinguer quatre orientations d’examen : Condition, Relation, Fonction et Justification.
-- [Parcours de lecture](parcours-de-lecture.md) — Proposer des entrées dans le corpus selon les besoins de lecture.
-- [Lexique Protokin](lexique-protokin.md) — Définir les termes employés et préciser leur fonction dans le projet.
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Décrire les opérations par lesquelles une difficulté descriptive peut être examinée et reprise.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer quatre orientations d’examen : Condition, Relation, Fonction et Justification.
+- [Parcours de lecture](fr/parcours-de-lecture.md) — Proposer des entrées dans le corpus selon les besoins de lecture.
 
 La quadripartition constitue un cadre minimal d’orientation et d’audit. Elle ne décrit ni quatre composantes universelles du réel ni quatre phases successives de sa constitution.
 
@@ -32,28 +31,28 @@ Les opérations suivantes permettent de travailler ces difficultés. Elles forme
 
 ### Délimiter et ancrer le problème
 
-- [Délimiter](delimier.md) — Préciser la difficulté à examiner et déterminer ce qui est en question.
-- [Ancrer](ancrer.md) — Identifier les conditions matérielles, corporelles, techniques et environnementales pertinentes.
+- [Délimiter](fr/delimier.md) — Préciser la difficulté à examiner et déterminer ce qui est en question.
+- [Ancrer](fr/ancrer.md) — Identifier les conditions matérielles, corporelles, techniques et environnementales pertinentes.
 
 ### Distinguer et relier
 
-- [Distinguer](distinguer.md) — Séparer les registres, les fonctions et les critères que la difficulté tend à confondre.
-- [Relier](relier.md) — Examiner les dépendances, les contrastes et les relations pertinentes entre les éléments retenus.
+- [Distinguer](fr/distinguer.md) — Séparer les registres, les fonctions et les critères que la difficulté tend à confondre.
+- [Relier](fr/relier.md) — Examiner les dépendances, les contrastes et les relations pertinentes entre les éléments retenus.
 
 ### Configurer et justifier
 
-- [Configurer](configurer.md) — Organiser les éléments de l’analyse en une configuration susceptible d’être examinée.
+- [Configurer](fr/configurer.md) — Organiser les éléments de l’analyse en une configuration susceptible d’être examinée.
 - [Justifier](justifier.md) — Évaluer les raisons, les critères, les engagements et les incompatibilités qui affectent une conclusion.
 
 ### Reconstituer et redélimiter
 
-- [Reconstituer](reconstituer.md) — Reprendre les relations et les transformations pertinentes à la lumière des résultats de l’enquête.
-- [Redélimiter](redelimiter.md) — Réviser le périmètre du problème lorsque l’examen fait apparaître de nouvelles difficultés.
+- [Reconstituer](fr/reconstituer.md) — Reprendre les relations et les transformations pertinentes à la lumière des résultats de l’enquête.
+- [Redélimiter](fr/redelimiter.md) — Réviser le périmètre du problème lorsque l’examen fait apparaître de nouvelles difficultés.
 
 ### Ressources de conduite
 
-- [La chaîne principale de l’enquête](la-chaine-principale-de-l-enquete.md) — Présenter l’articulation des opérations.
-- [Conduire une enquête](conduire-une-enquete.md) — Préciser les modalités de mise en œuvre de la démarche.
+- [La chaîne principale de l’enquête](fr/la-chaine-principale-de-l-enquete.md) — Présenter l’articulation des opérations.
+- [Conduire une enquête](fr/conduire-une-enquete.md) — Préciser les modalités de mise en œuvre de la démarche.
 
 La chaîne organise des déplacements possibles dans l’enquête. Elle n’établit ni une genèse des objets ni une progression obligatoire du matériel vers le sémantique, puis vers le normatif.
 
