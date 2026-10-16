@@ -1,94 +1,132 @@
-# Page : trace.md
+# Trace — Persistance et disponibilité
 
-### La trace — La persistance matérielle et la surface d'inscription
+## Fonction
 
-#### Fonction
-Dans l'architecture de Protokin, la **trace** désigne la modification physique ou l'empreinte résiduelle laissée par une interaction dynamique au sein du milieu ou sur le corps propre d'un organisme (plan **PROTO**). Elle constitue la condition matérielle minimale et l'infrastructure de conservation indispensable à partir de laquelle une différence rencontrée peut persister au-delà de l'instant de son apparition, préparant ainsi son investissement attentionnel en tant qu'indice, puis son élévation au statut de signe et de raison d'usage (plan **KIN**).
+Examiner ce qui, dans une pratique descriptive, demeure disponible après une situation, une activité ou un événement, et préciser les limites des conclusions que l’on peut tirer de cette persistance.
 
-#### Problème conceptuel inaugural
-Toute théorie pragmatiste de l'accès sémantique doit résoudre un paradoxe de continuité. Si nous rejetons le Mythe du Donné — qui prétend que le monde physique se présente d'emblée à l'esprit sous la forme d'entités déjà découpées, étiquetées et logiquement contraignantes —, nous devons admettre que le milieu physique est initialement muet. Dès lors, comment des variations dynamiques et des contrastes transitoires peuvent-ils s'inscrire et se conserver dans la durée sans que nous n'ayons à postuler une présence immédiate et magique de la signification au cœur de la matière ? 
+## 1. Problème : que permet d’établir une trace ?
 
-Si l'on affirme que le sens émerge uniquement avec le langage propositionnel (idéalisme linguistique), l'espace des raisons se déconnecte entièrement de la physicalité et de l'histoire corporelle du vivant, flottant dans un vide logique sans frottement. À l'inverse, si l'on prétend que la cause physique d'un signal dicte mécaniquement sa propre validité sémantique, on retombe dans le réductionnisme naturaliste. 
+Une pratique descriptive peut mobiliser des marques, des inscriptions, des enregistrements ou des modifications qui se rapportent à une situation antérieure. Ces éléments permettent de reprendre un événement qui n’est plus directement présent, de comparer plusieurs occurrences ou de réexaminer une qualification.
 
-Protokin résout cette aporie en théorisant la **trace** comme un opérateur de persistance matérielle. La trace ne contient pas de concept "déjà-là" ; elle est l'enregistrement passif, inerte et muet d'une friction physique (PROTO), qui offre une surface de disponibilité durable. C'est cette persistance physique qui permet à une différence transitoire d'être ultérieurement reprise par l'attention d'un vivant, devenant ainsi la base matérielle de tout support descriptif et le point de départ de la sémiotisation (KIN).
+Mais la présence d’une trace ne suffit pas à déterminer ce qu’elle signifie ni ce qu’elle permet de conclure. Une inscription peut être conservée sans être pertinente pour la question examinée. Une marque peut être identifiable sans que son origine soit établie. Une donnée peut être mobilisée dans une description sans justifier la conclusion à laquelle elle contribue.
 
-#### Définition fonctionnelle
-Dans l'architecture de Protokin, on appelle **trace** :
-**La modification physique stable ou l'empreinte résiduelle, imprimée dans le milieu ou incorporée dans l'organisme au cours du couplage perception-action, qui conserve la mémoire d'une interaction passée et offre une surface matérielle de disponibilité passive permettant à une différence d'être ultérieurement identifiée, reprise et qualifiée au sein de l'espace des raisons.**
+Le problème est donc de distinguer **ce qui demeure disponible, l’usage qui en est fait et les conclusions que cet usage permet de soutenir**.
 
-Cette définition implique trois caractéristiques fondamentales :
-*   **Une persistance passive (Plan PROTO)** : La trace est une modification inerte du monde physique (une marque, un pli, un dépôt). Elle ne parle pas d'elle-même, ne formule aucun jugement et ne prescrit aucune action. Elle conserve de fait, mais ne qualifie pas.
-*   **Une surface de disponibilité** : Elle arrache la rencontre avec le milieu à l'immédiateté de l'instant. Sans la trace, la boucle perception-action se dissoudrait dans un présent pur sans accumulation ; grâce à elle, le passé matériel demeure disponible pour être réactivé.
-*   **Une binarité émergente** : La trace s'analyse sous deux polarités : la trace matérielle (le fait causal brut du dépôt) et la trace sémiotique (le moment où cette empreinte est sélectionnée par une pratique collective pour servir de support à un signe).
+## 2. Définition
 
-#### Dimensions principales de la trace
-L'analyse de second ordre déploie le concept de trace à travers trois dimensions structurelles coordonnées :
+On appelle **trace** une marque, une inscription ou une modification identifiable, rapportée à une situation, une activité ou un événement, qui demeure disponible ou peut être retrouvée et mobilisée dans une pratique.
 
-#### 1. La trace matérielle (Le pôle somatique et physique)
-Au sein de l'espace des causes (PROTO), la trace est l'effet mécanique ou biologique d'une interaction. Elle s'inscrit dans la physis : le tracé d'une aiguille sur du papier carbone, l'empreinte d'un pas dans l'argile, la modification électrophysiologique d'une membrane neuronale, ou la cicatrice sur l'écorce d'un arbre. À ce niveau, la trace est soumise aux lois de l'entropie et de la dégradation physique. Elle n'est ni vraie, ni fausse, ni correcte : elle est simplement présente de fait.
+Une trace peut être matérielle, biologique, instrumentale ou documentaire. Elle peut être conservée sur un support externe, incorporée à une organisation corporelle ou reprise dans un dispositif technique ou institutionnel. Ces formes ne sont pas équivalentes : elles diffèrent notamment par leurs conditions de production, de conservation, d’accès et d’interprétation.
 
-#### 2. La trace sémiotique (Le seuil d'accès au dicible)
-Une trace devient sémiotique lorsqu'elle est sélectionnée au sein d'une pratique commune pour servir de point de repère. Ce passage ne convertit pas magiquement la cause en raison ; il réorganise la configuration relationnelle. La communauté de locuteurs s'accorde, par ses habitudes d'attention éduquées, pour traiter cette modification physique comme un repère d'observation. La trace sémiotique est la matière brute du signe : elle est ce qui permet à une différence d'être montrée, comparée et transmise au sein du collectif.
+La trace est définie ici par une relation entre un élément identifiable, ce à quoi il est rapporté et les possibilités de le retrouver ou de le mobiliser. Sa présence ne garantit ni que cette relation soit correctement établie, ni que la trace soit pertinente pour une enquête donnée.
 
-#### 3. L'infrastructure minimale des supports descriptifs
-Toute description s'adosse à des médiations concrètes. La trace est l'unité élémentaire qui constitue l'épaisseur de ces supports. Qu'il s'agisse de supports externes (le papier du registre, le silicium du disque dur), de supports incorporés (le pli sensoriel ou la mémoire organique du corps propre), ou de supports institutionnels (les formulaires standardisés), tous dépendent de la persistance physique de traces stabilisées pour conserver et faire circuler les engagements déontiques du scorekeeping.
+## 3. Distinctions avec les notions voisines
 
-#### Distinctions conceptuelles nécessaires
-Pour préserver la rigueur de l'audit de second ordre, la trace doit être rigoureusement démarquée de ses concepts voisins :
+### 3.1. Trace et différence rencontrée
 
-#### Trace et Différence rencontrée
-La différence s'établit selon la dimension de la temporalité et de la persistance. La **différence rencontrée** désigne l'effet d'affection instantané et dynamique produit dans le couplage organisme-milieu au présent de l'action. Elle est transitoire et s'éteint avec l'interaction immédiate. La **trace** est la persistance physique stable de cette modification au-delà du moment de l'interaction. *La différence affecte ; la trace conserve.*
+La **différence rencontrée** désigne une différence qui devient pertinente dans une situation et donne lieu à une difficulté ou à une question descriptive. La trace désigne une marque, une inscription ou une modification susceptible de demeurer disponible au-delà de cette situation.
 
-#### Trace et Indice
-La différence porte sur l'activité attentionnelle et l'orientation. La **trace** est passive, inerte, muette et disponible (ex : une empreinte dans la boue). L'**indice** désigne cette même trace lorsqu'elle est reprise, sélectionnée et réactivée par l'attention d'un vivant qui l'investit d'une valence d'ajustement sensorimoteur et d'orientation corporelle (ex : l'animal qui suit l'empreinte pour chasser). *La trace gît ; l'indice oriente.*
+Une différence rencontrée peut ne laisser aucune trace identifiable. Inversement, une trace peut être retrouvée longtemps après la situation à laquelle elle est rapportée, sans que sa pertinence actuelle soit acquise.
 
-#### Trace et Sédimentation
-La différence s'établit selon le niveau d'organisation collective et d'échelle historique. La **trace** est l'enregistrement physique singulier et localisé d'une interaction de premier ordre. La **sédimentation** désigne le processus cumulatif et macro-historique par lequel des réseaux entiers de traces, de critères et d'inscriptions se déposent et se solidifient pour structurer l'infrastructure d'un régime descriptif complet (KIN). *La trace est l'empreinte ; la sédimentation est la strate.*
+La différence rencontrée et la trace ne se distinguent donc pas simplement comme deux moments successifs : elles remplissent des fonctions différentes dans l’examen d’une situation.
 
-#### Articulation dans l'architecture Protokin
-Au sein de la section 03 — Fondements descriptifs, la trace s'inscrit à l'origine exacte de la chaîne de transduction relationnelle qui fait passer le milieu éprouvé du plan physique au plan normatif :
+Voir [Différence rencontrée](difference-rencontree.md).
 
-$$\text{Couplage perception-action} \quad \longrightarrow \quad \text{Différence rencontrée} \quad \longrightarrow \quad \mathbf{\text{TRACE}} \quad \longrightarrow \quad \text{Indice} \quad \longrightarrow \quad \text{Signe} \quad \longrightarrow \quad \text{KIN}$$
+### 3.2. Trace et indice
 
-Dans cette armature :
-*   Le couplage perception-action explore et frotte le milieu ;
-*   La différence rencontrée signale l'impact instantané de cette friction ;
-*   La **trace** matérialise la persistance de cet impact dans le temps (PROTO) ;
-*   L'indice investit cette persistance d'une fonction d'orientation corporelle ;
-*   Le signe élève l'indice au statut de ressource publique et conventionnelle ;
-*   L'espace des raisons (KIN) évalue et justifie les assertions ainsi produites.
+Une **trace** est susceptible d’être mobilisée ; un **indice** désigne un élément considéré comme orientant l’examen d’une question ou l’interprétation d’une situation.
 
-#### Éclairage par les fils rouges pédagogiques
-La fonction d'infrastructure de la trace s'éprouve cliniquement à travers les situations de référence du projet :
+Une trace peut ainsi servir d’indice lorsqu’une pratique lui attribue une pertinence pour départager des hypothèses, orienter une recherche ou ajuster une action. Mais toute trace n’est pas un indice, et un élément utilisé comme indice peut avoir une portée incertaine ou être interprété à tort.
 
-#### 1. Le patient aux urgences hospitalières
-La détresse cardiaque du patient produit des modifications physiologiques brutes (plan PROTO). Le tracé électrique imprimé par l'électrocardiographe sur la bande de papier thermique constitue une **trace** matérielle objective. Pour l'infirmière de tri, ce tracé de papier n'est pas une simple ligne sinueuse physique : il fonctionne immédiatement comme un ensemble de traces sémiotiques et d'indices de gravité vitale. Ces traces sont consignées sur la feuille de triage (support externe), stabilisant la situation clinique pour les médecins d'aval bien après que la crise de douleur initiale ait été temporairement apaisée.
+Le passage de la trace à l’indice ne correspond donc pas à une transformation automatique de la matière en signification. Il dépend de la question examinée, des relations retenues et des usages dans lesquels l’élément est mobilisé.
 
-#### 2. Le vélo rouge
-L'assertion ordinaire « Le vélo est rouge » suppose une chaîne de traces. Avant toute prédication, l'impact des ondes lumineuses à 650 nm sur les cellules de la rétine produit des traces biophysiques transitoires dans le système visuel de l'organisme (plan PROTO). Par l'apprentissage, ces traces sont associées à des schèmes d'attention et d'observation chromatique incorporés (supports incorporés). L'énoncé actualise ces traces somatiques ordinaires en les qualifiant de "rouges" selon les critères de correction partagés par la communauté (plan KIN).
+Voir [Indice](indice.md).
 
-#### 3. « Cette personne est mauvaise » / « Cette personne est dangereuse »
-Un comportement déviant produit une trace factuelle et comportementale localisée (plan PROTO). L'erreur de catégorie majeure commise par l'appareil sécuritaire ou judiciaire consiste à utiliser cette **trace** isolée pour la figer instantanément sous un prédicat d'essence permanente (« elle est dangereuse par nature »), inscrivant cette étiquette dans des fichiers numériques sédimentés (supports externes rigides). L'audit protokinien déconstruit ce verrouillage en rappelant que la trace est un dépôt historique révisable, et non le reflet transparent d'une essence biologique immuable.
+### 3.3. Trace et support descriptif
 
-#### 4. Le botaniste et le bûcheron face à l'arbre
-Le botaniste et le bûcheron s'adossent à des traces hétérogènes sur le même tronc physique (PROTO). Le bûcheron prélève des traces techniques de croissance (la texture de l'écorce, la résonance du bois sous le marteau) pour qualifier le fût de "bois d'œuvre" exploitable. Le botaniste prélève des traces morphologiques et biologiques (la nervation des aiguilles, la présence de lichens) pour classifier l'Abies alba au sein de sa taxonomie scientifique. Leurs deux descriptions coexistent pacifiquement car elles répondent à des rituels de justification autonomes soutenus par des supports de traces distincts.
+La **trace** désigne ce qui est conservé ou rendu disponible. Le **support descriptif** désigne la médiation qui permet notamment de l’inscrire, de la conserver, de la retrouver ou de la transmettre.
 
-#### Limites et vigilances d'audit : les pathologies de la trace
-Lors de l'exercice clinique de l'audit, l'enquêteur de second ordre applique des critères de vigilance stricts pour dépister deux dérives majeures liées au concept de trace :
-*   **La naturalisation de la trace (Le fétichisme du donné)** : L'illusion consistant à croire que la trace porte en elle-même sa propre qualification ou énonce de sa propre voix sa signification normative d'aval. Un tracé d'électrocardiogramme ou un signal thermique est une cause physique muette (PROTO) ; il ne devient une raison d'action clinique (KIN) que parce que le collectif s'accorde, par ses rituels de preuve, pour lui déléguer l'autorité normative de clôture de son enquête.
-*   **L'effacement idéaliste du support (L'amnésie matérielle)** : S'enfermer dans un calcul logique de propositions ou un scorekeeping déontique purement abstrait, en occultant que sans la persistance physique et l'entretien matériel des traces (nettoyer les capteurs, archiver les dossiers, éduquer le corps des agents), notre espace des raisons s'effondrerait instantanément par perte d'infrastructure.
+Une même trace peut être reproduite sur plusieurs supports. Un support peut également conserver des traces différentes, dont les fonctions et les conditions d’interprétation ne sont pas identiques.
 
-#### Synthèse finale
+La trace ne doit donc pas être confondue avec le dispositif matériel ou technique qui la rend accessible. L’existence d’un support ne garantit pas davantage que les inscriptions qu’il conserve soient complètes, accessibles ou correctement interprétées.
 
-##### Ce que cette page établit
-Le concept de **trace** en tant que modification physique résiduelle et persistante du plan PROTO, qualifiant la surface de disponibilité matérielle minimale qui permet à une différence rencontrée d'être conservée avant d'être réactivée attentionnellement comme indice, puis élevée au statut de signe et de raison.
+Voir [Support descriptif](support-descriptif.md).
 
-##### Ce qu'elle suppose
-Le principe du couplage organisme-milieu, le primat du couplage perception-action, la différence rencontrée, et la distinction fondamentale entre l'espace des causes (PROTO) et l'espace des raisons (KIN).
+### 3.4. Trace et sédimentation
 
-##### Ce qu'elle rend possible
-La modélisation de l'**indice** d'orientation d'aval, l'explicitation des **supports descriptifs** externes, incorporés et institutionnels, le diagnostic des **confusions de niveaux** par naturalisation des inscriptions, et la reconstruction génétique de la trajectoire d'accès au dicible.
+La **sédimentation** concerne la conservation, l’accumulation et la transmission de traces issues de pratiques descriptives. La trace peut être étudiée à l’échelle d’un élément particulier ; la sédimentation porte sur les processus par lesquels des éléments conservés deviennent disponibles pour des usages ultérieurs.
 
---------------------------------------------------------------------------------
+L’accumulation de traces ne garantit pas la continuité de leur fonction. Une inscription peut être conservée alors que la catégorie dans laquelle elle avait été produite a changé, ou que les critères permettant de l’interpréter sont devenus contestables.
 
-Protokin 2026 — version 26.08.191
+Voir [Sédimentation](sedimentation.md).
+
+## 4. Articulation avec l’enquête
+
+La trace peut intervenir à différents moments d’une enquête, selon le problème rencontré. Elle peut contribuer à identifier une situation, à comparer des descriptions, à examiner une attribution ou à reconstruire certaines transformations d’une pratique.
+
+Son examen peut conduire à poser plusieurs questions :
+
+- **Production :** dans quelles circonstances la trace a-t-elle été produite ?
+- **Conservation :** qu’est-ce qui a permis son maintien, et quelles transformations a-t-elle subies ?
+- **Identification :** sur quels critères est-elle reconnue comme la trace pertinente pour l’enquête ?
+- **Mobilisation :** dans quelle pratique et pour répondre à quelle question est-elle utilisée ?
+- **Interprétation :** quelles conclusions lui sont attribuées, et sur quelles relations ou quels critères reposent-elles ?
+
+Ces questions ne forment pas une procédure obligatoire. Selon la difficulté, certaines peuvent être prioritaires, d’autres déjà documentées ou impossibles à résoudre avec les éléments disponibles.
+
+La trace ne constitue donc ni le point de départ nécessaire de toute enquête ni une étape imposant un passage vers l’indice, le signe ou la justification. Elle est une ressource dont le rôle doit être établi dans la configuration examinée.
+
+## 5. Exemple discriminant : une mesure conservée dans un dossier
+
+Un appareil enregistre une mesure lors d’un examen technique. La valeur obtenue est inscrite dans un dossier, puis consultée ultérieurement pour évaluer l’état d’un équipement.
+
+Il faut distinguer plusieurs questions.
+
+- L’inscription conservée constitue-t-elle une trace identifiable de la mesure effectuée ?
+- Les conditions d’enregistrement permettent-elles de rapporter cette trace à l’équipement et à la situation concernés ?
+- La valeur est-elle pertinente pour la question posée ?
+- Les critères d’interprétation employés permettent-ils de soutenir la conclusion tirée de cette valeur ?
+
+L’existence de l’inscription peut être établie sans que l’origine exacte de la mesure le soit. Son origine peut être établie sans que sa pertinence pour la décision actuelle soit démontrée. Enfin, une mesure pertinente ne justifie pas nécessairement, à elle seule, la conclusion retenue.
+
+L’exemple permet ainsi de distinguer la disponibilité d’une trace, son usage comme indice et la justification d’une conclusion.
+
+## 6. Limites et non-conversions
+
+L’analyse d’une trace permet d’examiner ce qui a été conservé, les conditions dans lesquelles cet élément demeure disponible et les usages auxquels il est soumis. Elle peut contribuer à une enquête sur une situation passée ou sur la continuité d’une pratique.
+
+Elle ne permet pas, à elle seule, d’établir :
+
+- l’origine exacte de la trace ;
+- la signification qu’il convient de lui attribuer ;
+- sa pertinence pour toute question ultérieure ;
+- la validité de la description dans laquelle elle est mobilisée ;
+- la justification de la conclusion qui en est tirée ;
+- la continuité de la fonction qu’elle remplissait au moment de sa production.
+
+Plusieurs distinctions doivent ainsi être maintenues :
+
+- **trace ≠ indice** : une trace n’oriente l’examen que dans un usage déterminé ;
+- **conservation ≠ fiabilité** : le maintien d’une inscription ne garantit ni son intégrité ni la correction de son interprétation ;
+- **origine causale ≠ justification** : expliquer comment une trace a été produite ne suffit pas à justifier une conclusion ;
+- **disponibilité ≠ pertinence** : un élément conservé n’est pas nécessairement utile à la question examinée ;
+- **accumulation ≠ stabilisation** : la conservation de traces ne prouve pas le maintien d’une configuration.
+
+Ces distinctions n’interdisent pas d’établir des relations entre les termes. Elles imposent d’examiner les conditions dans lesquelles une relation est pertinente, plutôt que de convertir automatiquement une fonction en une autre.
+
+## Synthèse
+
+La trace désigne une marque, une inscription ou une modification identifiable qui demeure disponible ou peut être retrouvée et mobilisée dans une pratique. Elle permet d’examiner comment des éléments rapportés à une situation peuvent être conservés et repris, sans présumer de leur pertinence ni de leur portée.
+
+Son rôle dépend des conditions de production et de conservation, des critères d’identification et de l’usage qui en est fait. Une trace peut servir d’indice, être conservée sur un support descriptif ou participer à un processus de sédimentation, sans se confondre avec ces fonctions.
+
+**La présence d’une trace ne suffit pas à établir ce qu’elle signifie ni à justifier la conclusion que l’on en tire.**
+
+Pour poursuivre :
+
+- [Différence rencontrée](fr/difference-rencontree.md) — Examiner la différence qui donne lieu à une difficulté descriptive.
+- [Indice](fr/indice.md) — Examiner le rôle d’un élément dans l’orientation d’une recherche ou d’une interprétation.
+- [Support descriptif](fr/support-descriptif.md) — Examiner les médiations qui permettent l’inscription, la conservation et la circulation des ressources descriptives.
+- [Sédimentation](fr/sedimentation.md) — Examiner la conservation et l’accumulation des traces au cours du temps.
+- [Stabilisation](fr/stabilisation.md) — Examiner le maintien relatif d’une configuration à travers ses reprises et ses variations.
+- [Table des matières](fr/tdm.md) — Replacer la page dans l’organisation du corpus.
