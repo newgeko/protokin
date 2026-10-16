@@ -120,13 +120,13 @@ La responsabilité discursive doit être déterminée en fonction des engagement
 
 La notion de locuteur prend place dans l’analyse des pratiques discursives, mais ne remplace aucune des fonctions voisines.
 
-- [Assertion](assertion.md) — Analyser l’acte d’avancer un contenu et les engagements qui lui sont associés.
-- [Auditeur](auditeur.md) — Examiner la réception, l’évaluation et la contestation d’une assertion.
-- [Proposition](proposition.md) — Distinguer le contenu examinable de l’acte par lequel il est pris en charge.
-- [Prédication](predication.md) — Examiner la fonction d’attribution dans la formulation d’un contenu.
-- [Espace des raisons](espace-des-raisons.md) — Situer les relations entre raisons, inférences, critères et justifications.
-- [Régime descriptif](regime-descriptif.md) — Examiner les règles et les critères qui organisent une pratique descriptive.
-- [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations de l’enquête sans transformer le locuteur en étape obligatoire de leur déroulement.
+- [Assertion](fr/assertion.md) — Analyser l’acte d’avancer un contenu et les engagements qui lui sont associés.
+- [Auditeur](fr/auditeur.md) — Examiner la réception, l’évaluation et la contestation d’une assertion.
+- [Proposition](fr/proposition.md) — Distinguer le contenu examinable de l’acte par lequel il est pris en charge.
+- [Prédication](fr/predication.md) — Examiner la fonction d’attribution dans la formulation d’un contenu.
+- [Espace des raisons](fr/espace-des-raisons.md) — Situer les relations entre raisons, inférences, critères et justifications.
+- [Régime descriptif](fr/regime-descriptif.md) — Examiner les règles et les critères qui organisent une pratique descriptive.
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations de l’enquête sans transformer le locuteur en étape obligatoire de leur déroulement.
 
 ## Synthèse
 
