@@ -1,197 +1,122 @@
-# Page : justification.md
+# Justification — Défendre et réviser un engagement
 
-# Justifications — La production publique de raisons au sein de l'espace déontique
+## 1. Fonction
 
-| Fonction | Établir la notion de **justification** dans l'architecture de Protokin en tant que pratique discursive publique par laquelle un locuteur produit et présente des habilitations (*entitlements*) pour défendre la recevabilité de ses engagements face aux contestations ou demandes de raisons formulées au sein de l'espace des raisons. |
-| :--- | :--- |
-| **Prépare** | L'analyse de la recevabilité, de la validité descriptive, de la puissance descriptive et l'audit critique des régimes de description. |
-| **Mobilise** | Le locuteur normatif, l'assertion, les engagements descriptifs, la responsabilité normative, les critères descriptifs, les inférences et la communauté de locuteurs. |
-| **Permet ensuite** | L'étude des conflits de régimes, les processus de traduction de second ordre, l'audit comparatif des pratiques et le diagnostic structurel de l'injustice collective. |
-| **N'établit pas** | La théorie formelle de la déduction logique ou mathématique, la psychologie individuelle des croyances ou de l'intime, ni la théorie complète du scorekeeping déontique collectif. |
+Cette page précise les conditions dans lesquelles un engagement descriptif peut être défendu, contesté ou révisé.
 
----
+Elle distingue la justification de l’origine d’un engagement, des raisons avancées pour le soutenir et des critères employés pour évaluer une conclusion.
 
-## 1. Problème conceptuel inaugural
+## 2. Problème
 
-Dès lors que l'on rejette le Mythe du Donné (Sellars) — c'est-à-dire l'illusion selon laquelle le monde physique se présenterait déjà découpé et étiqueté en objets et faits évidents dotés d'une autorité justificative intrinsèque —, une question cruciale s'impose :
+Une description peut être cohérente sans être adéquate à la situation qu’elle prétend décrire. Elle peut aussi être admise dans une pratique sans que les raisons de la maintenir aient été suffisamment examinées.
 
-**Comment une assertion descriptive peut-elle prétendre à la correction ou à l'objectivité sémantique sans s'appuyer sur un accès direct ou transparent au réel, et sans pour autant se dissoudre dans l'arbitraire subjectif d'une convention fluide ?**
+Inversement, expliquer pourquoi une personne produit une description ne suffit pas à établir qu’elle est justifiée. Une habitude, une contrainte matérielle ou une fonction pratique peuvent expliquer son apparition ou son maintien sans autoriser les conclusions qui en sont tirées.
 
-Protokin répond en théorisant les **pratiques de justification**.
+Le problème est donc de déterminer **ce qui permet de défendre un engagement, quelles objections il doit pouvoir affronter et à quelles conditions il doit être révisé**.
 
-Une description n'est jamais valide en soi. Elle n'acquiert son autorité rationnelle et sa force contraignante que lorsqu'elle peut être **publiquement étayée par des raisons** au sein de l'espace des raisons (`KIN`).
+## 3. Définition
 
-Justifier est l'opération dynamique par laquelle un locuteur honore la dette sémantique qu'il a contractée en assertant.
+La **justification** désigne l’examen des raisons, des critères, des observations et des inférences mobilisés pour défendre un engagement, ainsi que des conditions dans lesquelles cet engagement peut être contesté ou révisé.
 
-C’est par le frottement intersubjectif de la demande et de l'offre de justifications que les découpages du monde se disciplinent, se corrigent et s'imposent comme des repères durables pour l'action collective.
+Justifier ne consiste pas seulement à fournir des éléments en faveur d’une affirmation. Il faut également examiner leur pertinence pour la conclusion considérée, les éventuelles objections et les limites de ce qu’ils permettent d’établir.
 
----
+La justification est ainsi une pratique de redevabilité : celui qui soutient une conclusion doit pouvoir préciser sur quoi elle repose et répondre aux contestations pertinentes. Cette exigence ne suppose ni un accord systématique entre les participants ni l’existence de critères incontestables.
 
-## 2. Définition fonctionnelle
+## 4. Distinctions nécessaires
 
-Dans l'architecture métathéorique de Protokin, on appelle **justification** :
+### Justification et genèse
 
-> **La pratique discursive et normative de second ordre par laquelle un locuteur produit, articule et soumet à sa communauté les habilitations (*entitlements*), observations, protocoles ou garanties qui fondent la recevabilité de ses engagements descriptifs, répondant ainsi aux contestations et demandes de raisons de ses pairs.**
+La genèse concerne les conditions et les processus par lesquels un engagement apparaît ou se maintient. La justification concerne ce qui permet de le défendre.
 
-De cette définition découlent trois thèses directrices :
+Une cause peut expliquer pourquoi une description a été produite sans constituer une raison suffisante de la maintenir.
 
-- **L'immanence de la justification :**  
-  On ne justifie jamais une description depuis un point de surplomb extérieur. La justification mobilise toujours des critères de correction et des normes de preuve immanents au régime descriptif concerné.
+### Justification et raison
 
-- **Une opération relationnelle et intersubjective :**  
-  Justifier n'est pas un état de conscience privé ou une croyance intime. C'est un acte de redevabilité publique (*accountability*) qui requiert une communauté de locuteurs capable de tenir à jour le score déontique de l'interaction.
+Une raison est un élément susceptible de soutenir, de contester ou de réviser une conclusion. La justification examine la pertinence de cet élément et la manière dont il soutient effectivement l’engagement considéré.
 
-- **La distinction entre origine et validité :**  
-  Expliquer l'histoire causale par laquelle un énoncé a été matériellement proféré (plan `PROTO`) ne constitue jamais la justification normative de sa correction (plan `KIN`).
+L’invocation d’une raison ne suffit donc pas à justifier une conclusion.
 
----
+### Justification et critère
 
-## 3. Distinctions conceptuelles nécessaires
+Un critère précise ce qui compte pour évaluer une attribution ou une conclusion dans une pratique déterminée. La justification examine si les critères mobilisés sont pertinents, s’ils sont correctement appliqués et s’ils suffisent à défendre la conclusion.
 
-- **Justification et démonstration logique formelle :**  
-  La démonstration formelle est une opération syntaxique de calcul ou de déduction à partir de règles abstraites désincarnées.
+Un critère reconnu ou correctement appliqué ne garantit pas à lui seul l’adéquation de la description.
 
-  La justification protokinienne est **matérielle et située** : elle s'ancre dans l'épaisseur des supports matériels, des techniques expérimentales et des finalités pratiques d'un collectif d'enquête.
+### Justification et validité inférentielle
 
-- **Justification et assertion :**  
-  L'*assertion* est le coup discursif par lequel le locuteur met en circulation une description et contracte un engagement.
+Une conclusion peut découler correctement de prémisses sans que celles-ci soient adéquates à la situation décrite. Il faut donc distinguer la validité du passage inférentiel et la justification de l’engagement dans son ensemble.
 
-  La *justification* est la réponse active à la demande de raisons suscitée par cette assertion.
+La justification ne se réduit ni à la correction formelle d’un raisonnement ni à la seule acceptation de ses règles dans une pratique.
 
-  L'assertion ouvre la dette ; la justification l'honore.
+## 5. Exemple : un arbre qui penche au-dessus d’une habitation
 
-- **Justification et critère descriptif :**  
-  Le *critère* est la règle de discrimination locale qui répond à la question : « Sur quoi s'appuie cette qualification ? ».
+Un arbre penche au-dessus d’une habitation. Une personne affirme qu’il présente un danger et qu’il faut l’abattre.
 
-  La *justification* est l'activité d'explicitation qui démontre à l'auditeur que les exigences de ce critère ont été rigoureusement respectées dans la situation donnée.
+Plusieurs questions doivent être distinguées :
 
----
+- **Les observations** : quels éléments concernant l’arbre, le sol et son environnement ont été relevés ?
+- **Les raisons** : quels éléments soutiennent l’affirmation qu’un danger existe ?
+- **Les critères** : selon quelles exigences la situation est-elle considérée comme dangereuse ?
+- **L’inférence** : dans quelle mesure les éléments disponibles autorisent-ils la conclusion avancée ?
+- **La décision** : les éléments établis suffisent-ils à justifier une intervention déterminée ?
 
-## 4. Typologie des pratiques de justification
+L’inclinaison de l’arbre peut contribuer à l’évaluation du risque sans suffire à établir, à elle seule, qu’il doit être abattu. La décision dépend également de l’état de l’arbre, de son environnement, des conséquences possibles et des exigences applicables.
 
-L'audit immanent d'un régime descriptif exige de cartographier de quelle manière les habilitations sont produites.
+Une justification défendable doit ainsi préciser ce que les éléments disponibles établissent, ce qu’ils rendent seulement probable et ce qui demeure incertain.
 
-Protokin distingue trois grandes familles de justifications :
+Si de nouvelles observations contredisent l’évaluation initiale, la justification doit pouvoir être reprise. La révision peut porter sur la conclusion, sur les raisons avancées ou sur les critères employés.
 
-### A. La justification perceptive directe
+## 6. Examiner une justification
 
-Elle s'adosse directement au couplage perception-action et à l'éducation sensorielle des locuteurs.
+Pour examiner un engagement, l’enquête peut poser les questions suivantes :
 
-L'habilitation repose ici sur la fiabilité d'un observateur situé partageant la même configuration rencontrée.
+1. **Quel engagement est défendu ?** Délimiter précisément l’affirmation et les conclusions qui en dépendent.
+2. **Quelles raisons sont avancées ?** Identifier les observations, les données, les inférences et les autres éléments mobilisés.
+3. **Quels critères interviennent ?** Préciser ce qui compte pour évaluer l’affirmation dans la pratique concernée.
+4. **Les éléments soutiennent-ils la conclusion ?** Examiner les liens entre les prémisses, les critères et ce qui est effectivement affirmé.
+5. **Quelles objections sont pertinentes ?** Rechercher les contre-exemples, les éléments manquants et les interprétations concurrentes.
+6. **Qu’est-ce qui conduirait à réviser l’engagement ?** Identifier les limites de la justification et les conditions d’une reprise de l’examen.
 
-Elle exige la convergence des regards sous des conditions ordinaires de visibilité.
+Ces questions constituent des repères, non une procédure nécessairement linéaire. Une objection peut conduire à reprendre la délimitation du problème, à modifier les critères ou à examiner autrement les éléments disponibles.
 
-### B. La justification instrumentale ou technique
+## 7. Limites et non-conversions
 
-Elle mobilise des supports descriptifs externes (instruments calibrés, capteurs, métriques quantifiées) qui étendent les prises perceptives.
+Une justification peut être examinée sans que son issue soit immédiatement déterminée. Les raisons disponibles peuvent être insuffisantes, les critères contestables ou les éléments contradictoires.
 
-L'habilitation ne dépend plus seulement de la perception somatique brute, mais du respect de protocoles techniques standardisés d'enregistrement et de mesure.
+La justification ne garantit donc pas automatiquement la vérité ou l’adéquation d’une description. Elle ne fournit pas davantage un fondement absolu qui soustrairait les engagements à toute révision.
 
-### C. La justification procédurale ou institutionnelle
+Il faut notamment éviter les conversions suivantes :
 
-Elle s'adosse à des supports institutionnels (règlements, fiches d'évaluation standardisées, codes juridiques, rituels de validation par les pairs).
+- cause → raison ;
+- origine d’un engagement → justification de cet engagement ;
+- cohérence d’un raisonnement → adéquation de ses prémisses ;
+- reconnaissance collective → correction garantie ;
+- application d’un critère → validité automatique de la conclusion ;
+- justification recevable → certitude définitive.
 
-La redevabilité du jugement est ici garantie par le respect strict d'étapes de décision formalisées, de compétences professionnelles certifiées et de voies de recours contradictoires.
+Ces distinctions n’impliquent pas que toutes les descriptions se valent. Elles imposent d’examiner les éléments qui les soutiennent, les critères qui les évaluent et les objections auxquelles elles doivent répondre.
 
----
+## 8. Place dans l’enquête de Protokin
 
-## 5. Justification et comptabilité déontique (Scorekeeping)
+Dans la quadripartition, la **Justification** désigne l’orientation qui examine selon quels critères une description ou une conclusion peut être défendue, contestée ou révisée.
 
-La rationalité de Protokin s'éprouve dans la dynamique de la comptabilité déontique publique d'une communauté :
+Dans l’architecture fonctionnelle, **Justifier** est une opération de l’enquête : elle examine les raisons et les critères mobilisés, sans confondre la genèse, la fonction et la validité d’une description.
 
-    Locuteur émet une Assertion (Engagement contracté)
-                         ↓
-    Auditeur formule une contestation (« Pourquoi ? »)
-                         ↓
-    Locuteur produit une Justification (Habilitations exhibées)
-                         ↓
-    Auditeur évalue la Justification selon les normes du régime
-                 ↙                              ↘
-    [Justification acceptée]          [Justification rejetée]
-              ↓                                  ↓
-    Habilitation partagée          Engagement annulé / Correction exigée
-    Assertion devient               Dette discursive impayée
-    ressource collective
+La justification peut conduire à maintenir une conclusion, à en limiter la portée, à réviser un critère ou à redélimiter le problème. Elle ne constitue pas nécessairement l’aboutissement définitif de l’enquête.
 
-La justification maintient la fluidité de l'espace des raisons.
+Elle s’inscrit dans le principe directeur de Protokin : continuité des dépendances, discontinuité des fonctions, non-conversion. Les éléments d’une justification peuvent dépendre de conditions matérielles, de relations et de fonctions pratiques, mais ces dépendances ne dispensent pas d’examiner ce qui autorise la conclusion.
 
-Si un locuteur échoue à justifier son assertion sous la demande de ses pairs, il perd son habilitation et son assertion est frappée d'irrecevabilité, forçant la révision ou l'abandon de sa description.
+## Synthèse
 
----
+Justifier un engagement consiste à examiner ce qui permet de le défendre, les objections auxquelles il doit répondre et les conditions de sa révision.
 
-## 6. Éclairage par les fils rouges pédagogiques
+La justification met en relation des raisons, des critères et des inférences sans les confondre. Elle ne garantit pas une validité définitive : elle rend les engagements examinables et précise la portée de ce qu’il est possible de soutenir.
 
-- **« Le vélo est rouge » :**  
-  Dans le régime perceptif ordinaire, la justification de cette qualification repose sur une simple constatation visuelle directe partagée dans des conditions d'éclairage normales.
+Pour poursuivre :
 
-  Dans le régime de colorimétrie industrielle, la même description exige pour être justifiée des mesures spectrales enregistrées par un colorimètre calibré.
-
-- **Le patient aux urgences :**  
-  Ce cas clinique met en scène la confrontation de justifications hétérogènes.
-
-  L'infirmière de tri justifie son attribution de gravité en invoquant des justifications cliniques immédiates.
-
-  L'administration tente parfois d'imposer des justifications logistico-comptables.
-
-  L'audit Protokin examine les situations où un régime administratif tente d'écraser les critères propres au régime clinique.
-
-- **« Cette personne est dangereuse » :**  
-  Justifier cet énoncé exige des habilitations extrêmement strictes en raison de ses conséquences inférentielles.
-
-  L'audit examine si les critères mobilisés appartiennent réellement au régime capable de produire cette qualification.
-
-- **Le botaniste et le bûcheron :**  
-  Face au même arbre, leurs justifications relèvent de régimes différents.
-
-  Le botaniste mobilise une justification taxonomique.
-
-  Le bûcheron mobilise une justification technique liée à l'exploitation du matériau.
-
----
-
-## 7. Place dans l'architecture fonctionnelle
-
-Au sein de l'architecture, la justification intervient après l'engagement descriptif et avant l'évaluation de recevabilité :
-
-    Assertion du locuteur
-            ↓
-    Engagements descriptifs
-            ↓
-    Responsabilité normative
-            ↓
-    Pratiques de justification
-            ↓
-    Recevabilité & Validité
-            ↓
-    Stabilisation de la description
-
-La justification constitue ainsi le mécanisme par lequel une description passe d'une proposition individuelle à une ressource collective partageable.
-
----
-
-## 8. Vigilances d'audit : pathologies des justifications
-
-Lors d'un audit, l'analyse des pratiques de justification permet de diagnostiquer plusieurs pathologies :
-
-- **L'esquive de justification :**  
-  Un locuteur produit une description aux conséquences importantes mais refuse d'exhiber les critères qui la rendent recevable.
-
-- **Le dogmatisme fondationnaliste :**  
-  Un régime prétend disposer d'une justification absolue indépendante de toute pratique humaine et de toute possibilité de révision.
-
-- **L'éclectisme justificatif :**  
-  Des critères provenant de régimes différents sont mélangés sans traduction méthodique, produisant une confusion normative.
-
----
-
-## 9. Synthèse et ouvertures
-
-Les justifications désignent les opérations discursives concrètes par lesquelles la normativité de l'espace des raisons s'exerce sur nos descriptions.
-
-Protokin montre que l'objectivité descriptive ne repose ni sur un accès immédiat au monde, ni sur une convention arbitraire, mais sur la capacité des communautés d'enquête à produire, discuter et réviser des raisons publiques.
-
-- **Ce qu'elle suppose :**  
-  Le principe d'immanence normative, la communauté de locuteurs, l'assertion et les engagements descriptifs.
-
-- **Ce qu'elle rend possible :**  
-  L'analyse de la recevabilité, de la validité, l'audit des régimes et les opérations de traduction inter-régimes.
+- [Raison](fr/raison.md)
+- [Critère](fr/critere.md)
+- [Espace des raisons](fr/espace-des-raisons.md)
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
+- [Justifier](fr/justifier.md)
