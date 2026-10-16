@@ -1,215 +1,165 @@
-Écologie des régimes descriptifs
+# Écologie des régimes descriptifs — Examiner leurs relations
 
-1. Fonction
+## 1. Fonction
 
-Cette page examine les relations entre plusieurs régimes descriptifs lorsqu’ils interviennent dans une même situation ou dans une même enquête.
+L’écologie des régimes descriptifs examine les relations entre plusieurs pratiques descriptives lorsqu’elles interviennent dans une même situation ou doivent contribuer à un problème commun.
 
-Elle porte sur leurs interactions, leurs complémentarités éventuelles, leurs tensions et les asymétries qui affectent leur mise en relation. Elle cherche à déterminer dans quelles conditions des descriptions peuvent être articulées, confrontées ou maintenues distinctes.
+Elle permet de déterminer ce qui distingue ces pratiques, ce qui peut être articulé entre elles et dans quelles conditions leurs descriptions deviennent compatibles, complémentaires ou conflictuelles.
 
-L’écologie des régimes descriptifs ne désigne ni une harmonie entre les descriptions ni un système général destiné à les unifier. Elle constitue une orientation de l’enquête sur leurs relations effectives.
+Elle ne vise ni à unifier les descriptions ni à établir une hiérarchie générale entre les régimes. Elle examine les relations pertinentes pour une situation déterminée.
 
-2. Problème
+## 2. Problème relationnel
 
-Une même situation peut faire l’objet de descriptions différentes selon les pratiques dans lesquelles elle est examinée.
+Plusieurs pratiques peuvent décrire une même situation sans retenir les mêmes différences, poursuivre les mêmes fonctions ou mobiliser les mêmes critères.
 
-Ces descriptions peuvent retenir des différences distinctes, répondre à des questions différentes et mobiliser des critères de correction qui ne sont pas interchangeables. Leur coexistence ne constitue pas nécessairement un problème.
+Cette pluralité ne constitue pas en elle-même un problème. Une difficulté apparaît lorsque les descriptions doivent être confrontées, lorsque leurs conclusions divergent ou lorsque l’une d’elles est utilisée dans un contexte où sa pertinence n’est pas établie.
 
-Une difficulté apparaît notamment lorsque :
+Il faut alors distinguer plusieurs questions :
 
-- plusieurs descriptions doivent contribuer à une même décision ;
-- une conclusion défendue dans une pratique est contestée à partir des critères d’une autre ;
-- une description est utilisée au-delà du domaine dans lequel ses critères sont pertinents ;
-- une pratique impose ses catégories à une autre sans expliciter les conditions de ce transfert ;
-- des différences de ressources ou d’autorité affectent la possibilité de faire reconnaître une description ;
-- les relations entre plusieurs descriptions restent indéterminées alors que leurs conséquences pratiques doivent être examinées.
+- Les descriptions portent-elles sur le même aspect de la situation ?
+- Remplissent-elles des fonctions différentes ou concurrentes ?
+- Leurs affirmations peuvent-elles être maintenues conjointement ?
+- Leurs critères permettent-ils d’évaluer les mêmes questions ?
+- Quelles conséquences pratiques découlent de leur mise en relation ?
 
-Il ne suffit donc ni de constater la pluralité des descriptions ni de supposer qu’elles doivent être réunies dans un cadre commun. Il faut déterminer ce qui les relie, ce qui les distingue et ce que leur confrontation permet effectivement d’établir.
+La difficulté consiste à examiner ces relations sans présupposer que la différence implique un conflit, que la complémentarité est toujours possible ou qu’un cadre commun permet nécessairement de résoudre les désaccords.
 
-Comment examiner les relations entre des régimes descriptifs sans présupposer leur compatibilité, leur incompatibilité ou la supériorité générale de l’un d’entre eux ?
+## 3. Éléments mis en relation
 
-3. Éléments mis en relation
+L’enquête porte d’abord sur les régimes concernés, mais elle ne peut se limiter à les comparer comme des ensembles abstraits. Elle doit examiner ce qui intervient effectivement dans la situation étudiée.
 
-Un régime descriptif désigne une organisation relativement stabilisée de distinctions, d’opérations, de critères et de pratiques qui rendent certaines descriptions possibles, utilisables, discutables et contestables.
+Selon le problème, les éléments pertinents peuvent comprendre :
 
-L’écologie des régimes descriptifs porte sur les relations entre de telles organisations. Elle n’ajoute pas nécessairement un nouveau régime au-dessus des autres. Elle examine ce qui se passe lorsqu’ils sont mobilisés conjointement, confrontés ou amenés à répondre d’un même problème.
+- les descriptions produites et les affirmations qu’elles soutiennent ;
+- les fonctions que ces descriptions remplissent dans les pratiques concernées ;
+- les critères employés pour les évaluer ou les contester ;
+- les informations, les instruments et les supports disponibles ;
+- les opérations par lesquelles une observation, une mesure ou une qualification est reprise dans une autre pratique ;
+- les conséquences attachées aux conclusions obtenues.
 
-L’analyse peut notamment porter sur :
+Cette liste constitue un ensemble de points d’examen, non un inventaire obligatoire.
 
-- les descriptions produites : ce qui est affirmé, distingué ou qualifié ;
-- les fonctions exercées : les rôles que ces descriptions remplissent dans les pratiques concernées ;
-- les critères mobilisés : ce qui permet de défendre, de contester ou de corriger les descriptions ;
-- les conditions matérielles et institutionnelles : les ressources, les supports et les contraintes qui affectent leur production et leur circulation ;
-- les passages entre pratiques : les opérations par lesquelles une qualification, une mesure ou une conclusion est reprise dans un autre contexte.
+Il importe surtout de distinguer les relations entre les descriptions des relations entre les situations décrites. Deux descriptions peuvent différer à propos d’un même référent sans se contredire. Inversement, des formulations proches peuvent soutenir des conclusions différentes.
 
-Ces éléments ne constituent pas une liste exhaustive. Leur pertinence dépend du problème étudié.
+L’identification des régimes concernés ne suffit donc pas à déterminer la nature de leurs relations. Celle-ci doit être établie à partir des descriptions, des fonctions et du problème en cause.
 
-Il faut également distinguer les relations entre descriptions des relations entre les situations auxquelles elles se rapportent. Deux descriptions peuvent diverger alors qu’elles portent sur le même référent ; inversement, deux descriptions apparemment proches peuvent conduire à des conclusions différentes.
+## 4. Types de relations entre régimes
 
-4. Examiner les relations entre régimes
+### 4.1. Différence sans conflit
 
-L’enquête ne doit pas classer d’avance les relations entre régimes. Elle doit les caractériser à partir des questions posées, des critères mobilisés et des conséquences des descriptions en présence.
+Deux régimes peuvent examiner une même situation à partir de questions différentes.
 
-4.1. Différence sans conflit
+Leurs descriptions peuvent alors différer sans que leurs affirmations soient incompatibles. Une différence de vocabulaire ne suffit pas non plus à établir une différence de fonction : celle-ci doit être examinée dans les pratiques où les termes sont employés.
 
-Deux régimes peuvent décrire une même situation en répondant à des questions différentes.
+La question est de savoir si les descriptions répondent à des questions distinctes, si elles se recoupent ou si elles soutiennent des conclusions qui ne peuvent pas être maintenues conjointement.
 
-Un botaniste peut examiner l’espèce et l’état biologique d’un arbre. Un bûcheron peut s’intéresser à sa résistance, à ses possibilités de coupe et à son aptitude à fournir du bois d’œuvre.
+### 4.2. Complémentarité
 
-Leurs descriptions diffèrent par leurs distinctions et leurs fonctions. Cette différence ne suffit pas à établir une incompatibilité.
+Deux régimes sont complémentaires lorsque leurs contributions respectives permettent de traiter un problème de manière plus satisfaisante que chacune ne le permettrait isolément.
 
-Il faut examiner si leurs affirmations se contredisent, si elles répondent à des questions distinctes ou si leur confrontation est nécessaire pour traiter un problème commun.
+Cette complémentarité dépend de la situation et de la conclusion recherchée. Une description peut apporter une information nécessaire sans suffire à établir la conclusion commune. Une autre peut contribuer à cette conclusion tout en laissant certaines questions sans réponse.
 
-4.2. Complémentarité
+La complémentarité doit donc être éprouvée : il faut préciser ce que chaque contribution permet d’établir, ce qui reste indéterminé et quelles informations ou raisons supplémentaires sont nécessaires.
 
-Deux régimes sont complémentaires lorsqu’une mise en relation de leurs contributions permet de traiter un problème que chacune ne permet pas, à elle seule, de résoudre de manière satisfaisante.
+### 4.3. Compatibilité partielle
 
-Cette complémentarité doit être établie dans une situation déterminée. Elle ne signifie pas que les descriptions se complètent toujours, ni qu’elles doivent être systématiquement réunies.
+Des descriptions peuvent être compatibles sur certains points et diverger sur d’autres.
 
-La contribution de chaque régime dépend de la question examinée, des informations disponibles et des critères nécessaires à la conclusion recherchée.
+Une mesure, par exemple, peut être admise par plusieurs pratiques alors que son interprétation, son importance ou les décisions qu’elle autorise restent discutées.
 
-4.3. Compatibilité partielle
+Il faut préciser la portée de l’accord : quelles affirmations peuvent être maintenues ensemble, quelles conclusions divergent et quelles prémisses ou quels critères permettraient de poursuivre l’examen.
 
-Deux descriptions peuvent être compatibles sur certains points et diverger sur d’autres.
+Une compatibilité locale n’établit ni un accord général entre les régimes ni la validité de toutes les conclusions qu’ils produisent.
 
-Une mesure peut être admise par plusieurs pratiques sans que celles-ci s’accordent sur sa signification, son importance ou les décisions qu’elle autorise.
+### 4.4. Conflit ou incompatibilité
 
-Il faut donc préciser la portée de la compatibilité : quelles affirmations peuvent être maintenues conjointement, quelles conclusions restent contestées et quelles prémisses supplémentaires seraient nécessaires pour les départager ?
+Une incompatibilité devient pertinente lorsque des affirmations ou des conclusions ne peuvent pas être maintenues conjointement pour le problème considéré.
 
-La compatibilité locale ne garantit pas une compatibilité générale entre les pratiques concernées.
+Il faut alors identifier ce qui fait désaccord. Le conflit peut porter sur les observations retenues, les catégories employées, les inférences admises, les critères de correction ou les décisions à prendre.
 
-4.4. Conflit ou incompatibilité
+Ces désaccords ne se traitent pas de la même manière. Une contradiction entre deux affirmations ne se confond pas avec une divergence sur les finalités d’une pratique. De même, des descriptions compatibles peuvent conduire à des décisions opposées lorsque les critères de décision diffèrent.
 
-Un conflit devient pertinent lorsque des descriptions ou des critères conduisent à des conclusions qui ne peuvent pas être maintenues conjointement pour le problème considéré.
+L’enquête doit préciser l’objet et la portée du conflit. Elle ne doit pas étendre une incompatibilité locale à l’ensemble des pratiques concernées.
 
-Il faut alors déterminer la nature du désaccord.
+## 5. Cas d’application : évaluer la qualité d’une rivière
 
-Le conflit peut porter sur les faits retenus, les catégories employées, les règles d’inférence, les critères de correction ou les décisions à prendre. Ces désaccords ne se traitent pas de la même manière.
+Une rivière fait l’objet de plusieurs examens. Un laboratoire mesure certaines substances présentes dans l’eau. Des habitants signalent des changements d’odeur, de couleur ou de présence de poissons. Une autorité administrative utilise des seuils réglementaires pour déterminer les mesures à prendre.
 
-Une contradiction entre deux affirmations ne se confond pas avec une différence de finalité. De même, un désaccord pratique peut persister même lorsque les descriptions factuelles sont compatibles.
+Ces pratiques ne produisent pas nécessairement les mêmes descriptions. Elles ne mobilisent pas non plus les mêmes moyens d’observation ni les mêmes critères.
 
-L’enquête doit préciser ce qui est incompatible, dans quelles conditions et avec quelles conséquences. Elle ne doit pas étendre un conflit local à l’ensemble des deux régimes.
+Les mesures du laboratoire peuvent établir la présence ou la concentration des substances recherchées, dans les conditions de l’analyse réalisée. Les observations des habitants peuvent signaler des changements qui justifient des investigations supplémentaires, sans suffire à identifier leur cause. Les seuils réglementaires peuvent servir à déterminer si certaines obligations sont déclenchées, sans résumer à eux seuls tous les aspects de l’état de la rivière.
 
-4.5. Asymétrie entre pratiques
+Leur mise en relation suppose alors d’examiner :
 
-Les régimes descriptifs ne disposent pas nécessairement des mêmes ressources matérielles, institutionnelles ou sociales.
+- ce que chaque observation ou mesure permet effectivement d’établir ;
+- les conditions dans lesquelles les résultats ont été obtenus ;
+- les relations entre les observations, les mesures et les critères réglementaires ;
+- les conclusions qui peuvent être soutenues conjointement ;
+- les informations encore nécessaires pour décider des mesures appropriées.
 
-Une pratique peut bénéficier de procédures de certification, de moyens de mesure, d’archives ou d’une autorité institutionnelle qui facilitent la reconnaissance de ses descriptions. Une autre peut s’appuyer sur des savoir-faire incorporés, une expérience locale ou des observations qui sont moins facilement documentés.
+Ces descriptions peuvent contribuer à une même enquête sans être interchangeables. Une observation n’établit pas automatiquement une cause ; une mesure ne répond pas à toutes les questions concernant la rivière ; une conformité réglementaire ne suffit pas à établir l’absence de tout problème environnemental.
 
-Ces différences peuvent affecter les conditions dans lesquelles les descriptions sont entendues, discutées ou prises en compte.
+La complémentarité dépend ici des relations effectivement établies entre les résultats. Elle ne découle pas de la seule coexistence des pratiques.
 
-L’existence d’une asymétrie ne suffit toutefois pas à établir qu’une description est fausse ou qu’une autre est juste. Elle constitue un élément à examiner pour comprendre comment certaines affirmations acquièrent de l’autorité, comment d’autres sont écartées et quels moyens de contestation sont effectivement disponibles.
+## 6. Asymétries et conditions de confrontation
 
-L’analyse porte sur les effets de ces asymétries dans la situation étudiée, sans présumer qu’elles produisent toujours les mêmes conséquences.
+Les régimes descriptifs ne disposent pas nécessairement des mêmes ressources ni des mêmes possibilités de faire reconnaître leurs descriptions.
 
-5. Cas d’application : l’arbre et la maison
+Certaines pratiques disposent d’instruments de mesure, de procédures de certification, d’archives ou d’une autorité institutionnelle. D’autres s’appuient sur des observations locales, une expérience accumulée ou des savoir-faire moins facilement consignés dans des documents reconnus.
 
-Une famille souhaite construire une maison avant l’hiver. Gérald, le bûcheron mandaté pour le chantier, examine un arbre situé à proximité. Étienne, le botaniste, s’intéresse à son espèce, à son état biologique et aux signes de dépérissement. Un enfant de huit ans, Gregory, observe que l’arbre penche vers la maison.
+Ces différences peuvent affecter les descriptions qui sont entendues, les preuves qui sont admises et les objections qui peuvent être examinées.
 
-Ces observations ne remplissent pas la même fonction.
+L’enquête peut alors se demander :
 
-Étienne peut contribuer à caractériser l’état biologique de l’arbre. Gérald doit examiner les conditions techniques de coupe et les propriétés du bois utiles à son travail. L’observation de Gregory peut attirer l’attention sur une configuration spatiale pertinente, sans suffire à établir le niveau de risque.
-
-Si la question devient celle de la sécurité de la maison, plusieurs descriptions doivent être confrontées. L’état biologique de l’arbre, son inclinaison, la stabilité du sol et les conséquences possibles d’une chute deviennent des éléments pertinents, mais aucun ne suffit isolément à établir toutes les conclusions recherchées.
-
-L’enquête doit alors préciser :
-
-- quelles observations sont disponibles et comment elles ont été établies ;
-- quelles conclusions chaque observation autorise ;
-- quelles informations supplémentaires sont nécessaires ;
-- quels critères permettent d’évaluer le risque ;
-- quelles conséquences pratiques sont envisagées et sur quelles raisons elles reposent.
-
-Il ne s’agit pas de fusionner les descriptions en une seule ni de déclarer l’une supérieure aux autres dans tous les domaines. Il s’agit d’établir leur contribution respective au problème concret, puis d’examiner les relations et les éventuelles insuffisances de leurs conclusions.
-
-La complémentarité est ici une possibilité à éprouver, non un résultat garanti par la diversité des points de vue.
-
-6. Asymétries, contestation et justification
-
-L’analyse des relations entre régimes doit prendre en compte les conditions dans lesquelles leurs descriptions peuvent être confrontées.
-
-Un désaccord ne se déroule pas nécessairement entre des acteurs disposant des mêmes moyens d’observation, de formulation ou de contestation. Certaines descriptions sont consignées dans des documents officiels, produites par des instruments reconnus ou soutenues par des institutions. D’autres reposent sur une expérience difficile à formaliser ou sur des observations qui ne bénéficient pas du même statut.
-
-L’enquête peut donc examiner :
-
-- qui peut formuler une description reconnue ;
+- qui peut produire ou faire reconnaître une description ;
 - quelles preuves sont recevables dans la situation étudiée ;
-- quelles objections peuvent être exprimées et examinées ;
-- quels supports permettent de conserver les observations ;
-- quelles descriptions sont écartées et pour quelles raisons ;
-- si les critères appliqués à une pratique sont également pertinents pour une autre.
+- quelles objections peuvent être formulées et examinées ;
+- quels moyens permettent de conserver, de transmettre ou de vérifier les observations ;
+- quels critères sont appliqués et à quelles pratiques ils sont pertinents.
 
-Cette analyse peut contribuer à mettre au jour une exclusion ou une asymétrie injustifiée. Elle ne permet pas de conclure automatiquement que les descriptions minorées sont exactes, ni que les descriptions institutionnellement reconnues sont erronées.
+Une asymétrie de ressources ou d’autorité peut expliquer pourquoi certaines descriptions s’imposent plus facilement que d’autres. Elle ne suffit toutefois pas à établir que les descriptions reconnues sont fausses ou que les descriptions minorées sont exactes.
 
-Il faut distinguer les conditions sociales de reconnaissance d’une description et les raisons qui permettent d’en défendre le contenu. Ces dimensions peuvent interagir sans se confondre.
+Il faut distinguer les conditions de reconnaissance d’une description des raisons qui permettent de défendre son contenu. Ces dimensions peuvent interagir sans se confondre.
 
-L’écologie des régimes descriptifs ne constitue donc pas un tribunal qui répartirait de l’extérieur la légitimité entre toutes les pratiques. Elle permet d’examiner comment les relations entre elles affectent la possibilité de formuler, de discuter et de justifier des descriptions.
+## 7. Portée pour l’enquête
 
-7. Articulation avec les opérations de Protokin
+L’écologie des régimes descriptifs devient pertinente lorsque le problème exige d’examiner plusieurs pratiques et les relations entre leurs descriptions, leurs fonctions ou leurs critères.
 
-L’analyse écologique n’est pas une phase supplémentaire dans la chaîne de l’enquête. Elle peut être mobilisée lorsqu’un problème exige d’examiner les relations entre plusieurs pratiques descriptives.
+Elle peut conduire à préciser le problème, à distinguer les affirmations en présence, à examiner leurs dépendances et à évaluer les conclusions qui peuvent être tirées de leur confrontation. Elle peut également faire apparaître que les distinctions initiales sont insuffisantes et qu’il faut reprendre l’examen.
 
-Selon le cas, elle peut conduire à :
+La chaîne de Protokin fournit des opérations mobilisables à cette fin, sans imposer une procédure particulière à toute comparaison entre régimes. De même, la quadripartition — Condition, Relation, Fonction et Justification — peut aider à différencier les questions soulevées par une situation, sans constituer une grille exhaustive des relations possibles.
 
-- Délimiter ce qui fait l’objet du désaccord ;
-- Distinguer les affirmations, les critères et les fonctions concernés ;
-- Relier les éléments dont les dépendances sont pertinentes ;
-- Configurer une analyse qui rende visibles les relations entre descriptions ;
-- Justifier les conclusions tirées de leur confrontation ;
-- Reconstituer les résultats et les points qui restent indéterminés ;
-- Redélimiter le problème lorsque les distinctions initiales se révèlent insuffisantes.
+L’analyse relationnelle doit enfin pouvoir être révisée. Les régimes identifiés, les relations établies et les conclusions tirées de leur comparaison restent tributaires du problème étudié et des éléments disponibles.
 
-Ces opérations peuvent être reprises, combinées ou réordonnées selon les difficultés rencontrées. L’écologie des régimes descriptifs ne leur impose pas de séquence particulière.
+## 8. Limites et synthèse
 
-La quadripartition peut également orienter l’examen :
+L’écologie des régimes descriptifs ne permet pas de conclure :
 
-- Condition : quelles contraintes et ressources affectent les pratiques concernées ?
-- Relation : quelles dépendances existent entre les descriptions, les critères et leurs supports ?
-- Fonction : quels rôles les descriptions remplissent-elles dans chaque pratique ?
-- Justification : quelles raisons permettent de défendre ou de contester les conclusions avancées ?
+- que des descriptions différentes sont nécessairement incompatibles ;
+- que des régimes distincts sont toujours complémentaires ;
+- que des critères différents sont nécessairement incommensurables ;
+- qu’une compatibilité partielle établit un accord général ;
+- que la reconnaissance institutionnelle garantit la validité d’une description ;
+- qu’une asymétrie de pouvoir suffit à invalider une description ;
+- que la mise en relation des régimes permet toujours de résoudre leurs désaccords.
 
-Ces orientations aident à différencier les questions. Elles ne fournissent pas à l’avance les réponses à leur apporter.
-
-8. Limites et non-conversions
-
-L’écologie des régimes descriptifs ne suppose pas que toutes les descriptions puissent être conciliées, ni qu’elles doivent l’être.
-
-Elle n’établit pas :
-
-- que tout régime descriptif possède des frontières nettes et stables ;
-- que des descriptions différentes sont nécessairement complémentaires ;
-- que deux pratiques sont incompatibles parce qu’elles emploient des critères distincts ;
-- que des critères sont incommensurables dès qu’ils ne sont pas identiques ;
-- qu’un régime est valide du seul fait de sa stabilité ou de sa reconnaissance institutionnelle ;
-- qu’une asymétrie de pouvoir suffit à invalider les descriptions d’une pratique dominante ;
-- qu’une description minorée est nécessairement plus adéquate ;
-- que Protokin dispose d’un point de vue extérieur qui permettrait de trancher définitivement tous les conflits.
-
-Il faut notamment maintenir les distinctions suivantes :
+Les distinctions suivantes doivent notamment être maintenues :
 
 - différence de vocabulaire ≠ différence de fonction ;
 - différence de fonction ≠ incompatibilité ;
+- dépendance ≠ équivalence ;
 - compatibilité locale ≠ compatibilité générale ;
-- autorité institutionnelle ≠ validité ;
-- genèse d’une description ≠ justification de son contenu ;
+- autorité institutionnelle ≠ justification ;
 - cohérence d’une description ≠ adéquation à ce qu’elle prétend décrire.
 
-Ces distinctions n’interdisent pas d’établir des relations entre les termes concernés. Elles demandent de préciser les médiations et les épreuves qui rendent les conclusions pertinentes.
+L’écologie des régimes descriptifs examine ainsi ce qui peut être articulé, ce qui doit rester distinct, ce qui entre en conflit et ce que la confrontation permet effectivement d’établir.
 
-Enfin, Protokin mobilise lui-même des distinctions et des critères pour conduire cet examen. Ses catégories et ses conclusions doivent donc rester susceptibles d’être discutées et révisées. La réflexivité ne lui confère pas une position souveraine ; elle rend explicites les conditions et les limites de son propre travail.
-
-Synthèse
-
-L’écologie des régimes descriptifs examine les relations entre plusieurs pratiques descriptives lorsque leurs descriptions, leurs critères ou leurs fonctions doivent être confrontés.
-
-Elle permet de caractériser des différences, des complémentarités, des compatibilités partielles, des conflits et des asymétries, sans présupposer que ces relations prennent une forme unique.
-
-Son rôle est de préciser ce qui peut être articulé, ce qui doit rester distinct, ce qui entre en conflit et ce que l’enquête peut effectivement conclure. Elle ne garantit ni l’accord entre les régimes ni la validité des descriptions examinées.
-
-L’écologie des régimes descriptifs n’unifie pas les descriptions : elle examine les conditions et les conséquences de leurs relations.
+Elle ne cherche pas à unifier les descriptions ni à les départager depuis une position souveraine. Elle rend examinables les conditions, les effets et les limites de leurs relations.
 
 Pour poursuivre :
 
-- "Régime descriptif" (regime-descriptif.md)
-- "Identifier un régime" (identifier-un-regime.md)
-- "Architecture fonctionnelle de l’enquête" (architecture-fonctionnelle-de-l-enquete.md)
-- "Quadripartition de l’orientation" (quadripartition-de-l-orientation.md)
+- [Régime descriptif](fr/regime-descriptif.md) — examiner l’organisation d’une pratique descriptive.
+- [Identifier un régime](fr/identifier-un-regime.md) — examiner les indices permettant de caractériser un régime.
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — retrouver les opérations mobilisables dans l’enquête.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — distinguer les quatre orientations de l’examen.
+- [Introduction générale](fr/introduction-generale.md) — retrouver le problème général auquel répond Protokin.
