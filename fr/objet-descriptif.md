@@ -1,408 +1,145 @@
-# Page : objet-descriptif.md
+# Objet descriptif — Stabiliser une différence comme identifiable
 
-# L'objet descriptif
+## 1. Fonction
 
-| Fonction | Établir la notion d'**objet descriptif** dans l'architecture de Protokin en tant qu'invariant relationnel stabilisé au sein d'une pratique collective de description, de justification et d'enquête. |
-| :--- | :--- |
-| **Prépare** | L'analyse des régimes descriptifs, de la stabilisation cumulative, de la sédimentation descriptive et des processus de réification. |
-| **Mobilise** | Les configurations descriptives, les catégories, les critères, les taxonomies, les qualifications et les engagements descriptifs. |
-| **Permet ensuite** | L'étude de la manière dont les collectifs maintiennent, transforment ou contestent des objets descriptifs au sein de différents régimes de justification. |
-| **N'établit pas** | Une théorie métaphysique de l'existence des objets ni une ontologie générale des entités. |
+Cette page précise comment une différence est stabilisée comme identifiable et réutilisable dans une pratique descriptive.
 
----
+Elle examine ce qui permet de reconnaître un objet descriptif à travers plusieurs descriptions, occurrences ou situations, sans le confondre avec le référent, la description qui le caractérise ou la configuration descriptive mobilisée.
 
-# 1. Problème conceptuel inaugural
+La question directrice est la suivante :
 
-Toute pratique descriptive rencontre une difficulté fondamentale :
+**Qu’est-ce qui permet de maintenir une différence comme identifiable et réutilisable, et dans quelles limites cette continuité peut-elle être reconnue ?**
 
-Comment une communauté de locuteurs peut-elle parler de quelque chose comme d'un même objet à travers des situations différentes, sans supposer que cet objet existe déjà entièrement constitué indépendamment des pratiques descriptives ?
+## 2. Problème et définition
 
-Une description efficace suppose une certaine stabilité.
+Une pratique descriptive ne retient pas toutes les différences possibles. Elle en distingue certaines, les rapporte à des catégories et les utilise pour identifier, comparer ou caractériser ce dont elle parle.
 
-Pourtant, cette stabilité ne peut pas être expliquée simplement par une correspondance passive entre les mots et des choses déjà données.
+Une difficulté apparaît lorsque la continuité de ce qui est identifié doit être maintenue malgré des variations : les descriptions changent, les critères sont précisés, de nouvelles observations apparaissent ou plusieurs personnes reprennent une identification dans des circonstances différentes.
 
-Deux erreurs symétriques doivent être évitées :
+La répétition d’un nom ou d’une formulation ne suffit pas à établir que le même objet descriptif est maintenu. Inversement, une modification de vocabulaire ou de description ne signifie pas nécessairement qu’un nouvel objet descriptif est apparu.
 
-## Le réalisme naïf
+Dans Protokin, un **objet descriptif** est une différence stabilisée comme identifiable et réutilisable dans une pratique descriptive.
 
-Il considère que les objets existent comme des unités entièrement constituées avant toute opération descriptive.
+Cette stabilisation permet de reprendre une identification, de comparer des occurrences, de discuter des caractéristiques attribuées et, si nécessaire, de corriger ou de réviser la description. Elle suppose des critères de continuité pertinents pour la pratique concernée, mais ceux-ci ne sont pas nécessairement entièrement explicites ni définitivement établis.
 
-La description ne ferait alors qu'enregistrer une réalité déjà organisée.
+L’objet descriptif désigne donc une continuité identifiable dans une pratique. Il ne garantit ni que toutes les descriptions associées soient adéquates, ni que les critères utilisés soient justifiés, ni que la continuité reconnue doive être maintenue dans tous les contextes.
 
-Cette conception ignore le rôle des catégories, des critères, des instruments et des pratiques collectives dans la constitution de ce qui devient descriptivement identifiable.
+## 3. Distinctions avec les notions voisines
 
----
+### 3.1. Objet descriptif et référent
 
-## Le constructivisme radical
+Le référent est ce à quoi une pratique descriptive se rapporte ou prétend se rapporter. L’objet descriptif désigne une différence stabilisée qui permet de rendre quelque chose identifiable et réutilisable dans cette pratique.
 
-Il réduit l'objet à une pure construction arbitraire du langage ou des conventions humaines.
+Ces notions ne sont pas interchangeables. L’objet descriptif contribue à organiser la manière dont un référent est identifié ou caractérisé, mais il ne se confond pas avec ce référent.
 
-Cette position ignore les résistances du monde, les contraintes matérielles, les échecs pratiques et les capacités de correction des descriptions.
+Une même personne, par exemple, peut être identifiée dans plusieurs pratiques à partir de descriptions et de critères différents. Cette pluralité ne prouve pas à elle seule qu’il existe plusieurs référents. Elle ne garantit pas non plus que toutes les identifications soient correctes.
 
----
+Inversement, le fait qu’une pratique stabilise un objet descriptif ne suffit pas à établir que ce qu’elle identifie correspond correctement à ce qu’elle prétend viser.
 
-Protokin propose une troisième voie :
+Voir [Référent](fr/referent.md).
 
-> **L'objet descriptif n'est ni une donnée brute préexistante, ni une invention arbitraire ; il est une stabilisation relationnelle obtenue dans une pratique collective de description.**
+### 3.2. Objet descriptif et description
 
----
+La description est une pratique qui retient et organise certaines différences pour caractériser une situation, un objet ou une relation.
 
-# 2. Définition fonctionnelle
+L’objet descriptif correspond à une différence stabilisée dans cette pratique. Il ne se confond donc ni avec l’activité de décrire ni avec le contenu particulier d’une description.
 
-Dans l'architecture de Protokin, on appelle **objet descriptif** :
+Plusieurs descriptions peuvent contribuer à maintenir un même objet descriptif, en le caractérisant sous des rapports différents. Une description peut aussi être reformulée ou corrigée sans que la continuité de l’objet descriptif soit nécessairement abandonnée.
 
-> **Un invariant relationnel stabilisé par une configuration descriptive, une taxonomie, des critères d'identification et des pratiques collectives de justification, permettant à des locuteurs de maintenir une continuité de référence à travers des situations différentes.**
+Cette continuité doit cependant être établie dans le cas examiné. Elle ne se déduit ni de la seule répétition d’une expression ni de la seule intention de conserver le même objet.
 
-L'objet descriptif n'est donc pas une chose indépendante de toute description.
+Voir [Description](fr/description.md).
 
-Il est ce qui devient suffisamment stable dans un régime descriptif pour pouvoir être :
+### 3.3. Objet descriptif et configuration descriptive
 
-- identifié ;
-- comparé ;
-- suivi dans le temps ;
-- discuté ;
-- corrigé.
+Une configuration descriptive organise les différences, les catégories, les qualifications et les relations qui rendent certaines descriptions possibles dans une pratique.
 
----
+L’objet descriptif est une différence stabilisée au sein d’une pratique qui mobilise de telles ressources. Il n’est ni la configuration elle-même ni le résultat automatique d’une organisation descriptive.
 
-# 3. Les propriétés fondamentales de l'objet descriptif
+Une configuration peut rendre certaines identifications disponibles sans que toutes soient effectivement utilisées. Elle peut aussi être modifiée sans que chaque objet descriptif associé disparaisse nécessairement.
 
-## 3.1 Un invariant relationnel
+Inversement, une difficulté d’identification peut conduire à réexaminer les distinctions ou les relations qui composent la configuration descriptive.
 
-L'objet descriptif n'est pas défini par une essence cachée.
+Voir [Configuration descriptive](fr/configuration-descriptive.md).
 
-Il est constitué par la stabilité d'un ensemble de relations :
+### 3.4. Objet descriptif et stabilisation
 
-- relations entre observations ;
-- relations entre catégories ;
-- relations entre critères ;
-- relations entre usages ;
-- relations entre locuteurs.
+La stabilisation désigne le maintien relatif d’une configuration à travers ses reprises et ses variations, selon des critères pertinents pour une pratique ou une enquête.
 
-Son identité correspond à la continuité de ces relations.
+L’objet descriptif désigne ce qui est maintenu comme identifiable et réutilisable dans une pratique descriptive. La stabilisation permet d’examiner cette continuité, mais les deux notions n’ont pas la même fonction.
 
----
+Il faut préciser ce qui est tenu pour continu, quelles variations sont admises et selon quels critères. La continuité peut être partielle ou devenir incertaine lorsque les critères disponibles ne permettent plus de reconnaître suffisamment ce qui est repris.
 
-## 3.2 Une stabilisation collective
+**Stabilisation ≠ immobilité. Continuité reconnue ≠ identité absolue.**
 
-Un objet descriptif existe comme point de référence partagé lorsqu'une communauté de locuteurs maintient des pratiques permettant de le reconnaître et de le discuter.
+Voir [Stabilisation](fr/stabilisation.md).
 
-Cette stabilisation repose sur :
+## 4. Exemple discriminant : identifier une espèce
 
-- des apprentissages ;
-- des instruments ;
-- des documents ;
-- des institutions ;
-- des procédures de validation.
+Considérons une espèce identifiée dans une pratique naturaliste.
 
----
+Des observations différentes peuvent être réalisées à plusieurs moments, par des personnes différentes ou au moyen d’instruments distincts. Les descriptions disponibles peuvent être précisées à mesure que de nouvelles observations sont recueillies ou que les critères d’identification sont révisés.
 
-## 3.3 Un nœud d'engagements descriptifs
+La continuité de l’objet descriptif dépend alors de ce qui autorise à rapporter ces observations et ces identifications à une même espèce dans la pratique concernée. La répétition d’un nom ne suffit pas à elle seule : il faut examiner les critères appliqués, les éléments disponibles et les éventuelles révisions de la classification.
 
-Reconnaître un objet descriptif implique des engagements.
+Trois situations doivent être distinguées :
 
-Identifier quelque chose comme un objet déterminé signifie accepter certaines conséquences :
+- **Continuité maintenue :** les variations de description restent compatibles avec les critères qui permettent de reconnaître le même objet descriptif.
+- **Continuité à réexaminer :** les nouveaux éléments ou la modification des critères rendent incertaine l’identification maintenue jusqu’alors.
+- **Révision de l’identification :** les éléments de l’enquête conduisent à abandonner ou à reformuler l’identification précédente.
 
-- certaines inférences deviennent possibles ;
-- certaines descriptions deviennent incompatibles ;
-- certaines corrections deviennent nécessaires.
+Ces situations ne constituent pas les étapes obligatoires d’un processus. Elles indiquent des résultats possibles de l’examen.
 
-L'objet descriptif appartient ainsi à un espace de raisons.
+Le cas ne permet pas de conclure que l’objet descriptif serait entièrement produit par la classification, ni que son identité serait fixée indépendamment des pratiques d’identification. Il permet d’examiner comment une continuité est reconnue, sur quels appuis elle repose et dans quelles conditions elle doit être révisée.
 
----
+## 5. Conditions et limites de la stabilisation
 
-## 3.4 Une identité évolutive
+La stabilisation d’un objet descriptif peut dépendre de plusieurs éléments : des observations, des catégories disponibles, des critères d’identification, des pratiques de comparaison, des compétences acquises ou des supports permettant de conserver et de reprendre des informations.
 
-Un objet descriptif peut changer sans perdre toute continuité.
+Ces éléments ne remplissent pas tous la même fonction. Un support peut conserver une inscription sans garantir que son interprétation soit correcte. Un critère peut être appliqué de manière cohérente sans être adapté au problème. Une identification peut être largement partagée sans que cet accord suffise à la justifier.
 
-Les objets scientifiques, juridiques ou sociaux évoluent avec leurs critères, leurs instruments et leurs pratiques.
+La continuité d’un objet descriptif doit donc être examinée à partir des éléments pertinents pour le cas étudié. Il ne faut pas la déduire automatiquement de la permanence d’un nom, de la répétition d’une procédure ou de l’accord entre plusieurs participants.
 
-L'identité d'un objet descriptif est donc une continuité historique, et non une permanence substantielle.
+Il faut également distinguer la continuité de l’objet descriptif de celle du référent. Une description peut changer alors que la pratique continue de viser le même référent. Une identification peut, au contraire, être maintenue alors que les éléments disponibles conduisent à contester ce qu’elle prétend désigner.
 
----
+La stabilisation ne constitue pas davantage une justification. Elle permet de comprendre comment une identification est maintenue et réutilisée ; elle ne suffit pas à établir que les critères de cette identification sont pertinents ni que les descriptions associées sont adéquates.
 
-# 4. Distinctions conceptuelles nécessaires
+Enfin, l’objet descriptif n’est pas nécessairement le produit d’un consensus explicite. Sa continuité peut être maintenue par des pratiques distribuées entre personnes, instruments, documents ou procédures. Cette organisation peut contribuer à la stabilisation sans garantir la correction des identifications.
 
-## 4.1 Objet descriptif et objet en soi
+## 6. Articulation avec l’enquête
 
-L'objet en soi suppose une réalité entièrement déterminée indépendamment de toute pratique descriptive.
+La notion d’objet descriptif devient utile lorsque l’enquête doit déterminer ce qui est maintenu comme identifiable à travers plusieurs descriptions ou lorsque cette continuité est contestée.
 
-L'objet descriptif désigne au contraire une stabilisation obtenue dans une relation entre :
+Selon le problème, l’examen peut porter sur :
 
-- un monde contraignant ;
-- des pratiques d'enquête ;
-- des catégories ;
-- des critères ;
-- des communautés de justification.
+- les différences retenues pour identifier l’objet ;
+- les critères qui permettent de reconnaître une continuité ;
+- les variations de description admises dans la pratique ;
+- les éléments qui conduisent à maintenir, contester ou réviser l’identification ;
+- les conséquences d’une modification des catégories ou des critères.
 
----
+Ces questions ne constituent pas une procédure obligatoire. Elles indiquent des points d’examen dont la pertinence dépend de la difficulté rencontrée.
 
-## 4.2 Objet descriptif et configuration descriptive
+La quadripartition peut aider à distinguer les conditions de l’identification, les relations entre les éléments retenus, la fonction de l’objet descriptif dans la pratique et les raisons de maintenir ou de réviser une conclusion. Elle n’impose ni quatre composantes de l’objet ni un ordre fixe d’analyse.
 
-La configuration descriptive désigne l'ensemble des conditions permettant une description :
+La chaîne des opérations de l’enquête permet, quant à elle, d’organiser les examens nécessaires. La présente notion ne se substitue ni à cette architecture ni aux pages qui définissent ses opérations.
 
-- supports ;
-- pratiques ;
-- instruments ;
-- locuteurs ;
-- catégories ;
-- critères.
+## Synthèse
 
-L'objet descriptif est l'invariant qui se stabilise à l'intérieur de cette configuration.
+Un objet descriptif est une différence stabilisée comme identifiable et réutilisable dans une pratique descriptive.
 
----
+Cette notion permet d’examiner comment une identification se maintient à travers des descriptions, des occurrences ou des situations différentes. Elle distingue cette continuité du référent visé, de la description produite, de la configuration descriptive mobilisée et des opérations de stabilisation.
 
-## 4.3 Objet descriptif et qualification
+La continuité reconnue ne garantit ni la correction de l’identification ni l’adéquation des descriptions qui s’y rapportent. Elle peut être maintenue, contestée ou révisée selon les éléments et les critères pertinents pour le problème traité.
 
-La qualification est l'opération située par laquelle un locuteur applique une catégorie à une situation.
+L’objet descriptif constitue ainsi un repère pour l’enquête, non une garantie de validité ni une entité dont l’identité serait établie une fois pour toutes.
 
-L'objet descriptif est ce qui demeure suffisamment stable pour rendre cette qualification possible.
+Pour poursuivre :
 
-Ainsi :
-
-- la qualification est une opération ;
-- l'objet descriptif est une stabilisation.
-
----
-
-## 4.4 Objet descriptif et support descriptif
-
-Un support conserve et transmet des inscriptions.
-
-Exemples :
-
-- dossier médical ;
-- archive ;
-- base de données ;
-- formulaire administratif.
-
-Le support n'est pas l'objet.
-
-Il contribue cependant à maintenir l'objet comme invariant collectif.
-
----
-
-# 5. La constitution d'un objet descriptif
-
-Un objet descriptif apparaît lorsque plusieurs éléments convergent :
-
-```text
-Configuration descriptive
-
-        ↓
-
-Catégories
-
-        ↓
-
-Critères
-
-        ↓
-
-Taxonomie
-
-        ↓
-
-Qualifications répétées
-
-        ↓
-
-Stabilisation d'un invariant
-
-        ↓
-
-Objet descriptif
-```
-
-L'objet est donc le résultat d'une histoire de descriptions réussies et maintenues.
-
----
-
-# 6. Deux grandes familles d'objets descriptifs
-
-## 6.1 Les objets scientifiques
-
-Les objets scientifiques sont stabilisés par :
-
-- des instruments ;
-- des modèles ;
-- des procédures expérimentales ;
-- des critères reproductibles.
-
-Exemples :
-
-- une cellule ;
-- une particule ;
-- une maladie.
-
-Ils possèdent une forte densité d'inférences car leur identification autorise de nombreuses conséquences théoriques et pratiques.
-
----
-
-## 6.2 Les objets institutionnels
-
-Les objets institutionnels existent par des pratiques collectives normatives.
-
-Exemples :
-
-- une monnaie ;
-- un contrat ;
-- une personne juridique ;
-- une propriété.
-
-Ils ne sont pas de simples objets physiques.
-
-Ils existent parce qu'une communauté maintient des règles selon lesquelles ils comptent comme tels.
-
----
-
-# 7. Éclairages par les fils rouges
-
-## « Le vélo est rouge »
-
-Le vélo physique constitue une situation rencontrée.
-
-Il devient un objet descriptif lorsque :
-
-- une catégorie chromatique est disponible ;
-- des critères perceptifs permettent son application ;
-- une communauté partage ces distinctions.
-
-« Le vélo rouge » est donc un invariant descriptif, non une propriété isolée indépendante de tout cadre descriptif.
-
----
-
-## Le botaniste et le bûcheron
-
-Le même arbre peut devenir plusieurs objets descriptifs.
-
-Pour le botaniste :
-
-- une espèce ;
-- une classification ;
-- un organisme.
-
-Pour le bûcheron :
-
-- une ressource ;
-- un volume exploitable ;
-- une qualité de bois.
-
-Il ne s'agit pas de deux réalités différentes, mais de deux stabilisations descriptives différentes.
-
----
-
-## « Cette personne est dangereuse »
-
-La dangerosité n'est pas une propriété naturelle directement observable.
-
-Elle est un objet descriptif institutionnel produit par :
-
-- des catégories ;
-- des critères ;
-- des pratiques d'évaluation.
-
-L'audit examine les conditions de cette stabilisation et les risques de réification.
-
----
-
-## « Cette personne est mauvaise »
-
-La qualification morale devient problématique lorsqu'elle cesse d'être une évaluation située pour devenir une propriété supposée permanente de la personne.
-
-L'erreur consiste à transformer un objet descriptif normatif en essence naturelle.
-
----
-
-# 8. Place dans l'architecture fonctionnelle
-
-L'objet descriptif occupe la position suivante :
-
-```text
-Configuration descriptive
-
-        ↓
-
-Catégories et critères
-
-        ↓
-
-Taxonomies descriptives
-
-        ↓
-
-Objet descriptif
-
-        ↓
-
-Régime descriptif
-
-        ↓
-
-Audit
-```
-
-La taxonomie organise les distinctions.
-
-L'objet descriptif est l'invariant produit par cette organisation.
-
-Le régime descriptif détermine les conditions de recevabilité et de justification de cet invariant.
-
-L'audit examine ses conditions de formation et ses limites.
-
----
-
-# 9. Vigilances d'audit
-
-## Réification
-
-Une stabilisation descriptive est traitée comme une essence indépendante.
-
-Exemple :
-
-Transformer une catégorie sociale ou morale en propriété naturelle.
-
----
-
-## Naturalisation
-
-Un objet produit dans une pratique historique est présenté comme une division éternelle du réel.
-
----
-
-## Inertie descriptive
-
-Un objet stabilisé continue d'être utilisé alors que les pratiques ou les situations ont changé.
-
----
-
-## Zones de silence
-
-Toute stabilisation rend certaines dimensions visibles et en laisse d'autres hors champ.
-
-L'audit doit examiner ce que l'objet rend descriptible et ce qu'il empêche de formuler.
-
----
-
-# 10. Synthèse
-
-L'objet descriptif est l'invariant relationnel par lequel une communauté stabilise un point de référence dans ses pratiques de description et de justification.
-
-Il n'est ni une chose brute découverte indépendamment des pratiques, ni une construction arbitraire.
-
-Il est une réussite descriptive :
-
-- produite par des catégories ;
-- organisée par des taxonomies ;
-- maintenue par des critères ;
-- portée par des pratiques collectives.
-
-Dans Protokin :
-
-- les **catégories** rendent les distinctions possibles ;
-- les **critères** déterminent leurs conditions d'application ;
-- les **taxonomies** organisent ces distinctions ;
-- les **objets descriptifs** stabilisent les invariants ;
-- les **régimes descriptifs** déterminent les conditions de justification.
-
-L'objet descriptif constitue ainsi le point où une pratique collective transforme une pluralité d'expériences en un repère durable pour l'enquête, l'action et la discussion.
+- [Référent](fr/referent.md) — Examiner la visée référentielle et les pratiques d’identification.
+- [Description](fr/description.md) — Distinguer l’activité descriptive, le contenu et la situation décrite.
+- [Configuration descriptive](fr/configuration-descriptive.md) — Examiner l’organisation des différences et des relations descriptives.
+- [Stabilisation](fr/stabilisation.md) — Analyser le maintien relatif d’une configuration à travers ses variations.
+- [Support descriptif](fr/support-descriptif.md) — Examiner les moyens de conservation, de transmission et de reprise.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations de l’examen.
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations mobilisables dans l’enquête.
