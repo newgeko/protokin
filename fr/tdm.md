@@ -142,14 +142,14 @@ Cette partie rassemble les ressources permettant d’examiner une configuration 
 
 ### B. Régimes descriptifs et identification
 
-- [Régime descriptif](regime-descriptif.md) — Examiner les règles et les critères qui organisent une pratique descriptive.
-- [Écologie des régimes descriptifs](ecologie-des-regimes-descriptifs.md) — Examiner les rapports entre plusieurs régimes descriptifs.
-- [Identifier un régime](identifier-un-regime.md) — Préciser les indices et les critères mobilisés pour distinguer un régime.
-- [Différence rencontrée](difference-rencontree.md) — Examiner la différence qui donne lieu à une difficulté descriptive.
-- [Configuration rencontrée](configuration-rencontree.md) — Décrire la configuration sur laquelle porte l’enquête.
-- [Configuration descriptive](configuration-descriptive.md) — Examiner l’organisation des éléments retenus dans une description.
-- [Trace](trace.md) — Examiner les traces mobilisées dans une pratique et les limites de leur interprétation.
-- [Support descriptif](support-descriptif.md) — Préciser le rôle des supports dans les pratiques descriptives.
+- [Régime descriptif](fr/regime-descriptif.md) — Examiner les règles et les critères qui organisent une pratique descriptive.
+- [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md) — Examiner les rapports entre plusieurs régimes descriptifs.
+- [Identifier un régime](fr/identifier-un-regime.md) — Préciser les indices et les critères mobilisés pour distinguer un régime.
+- [Différence rencontrée](fr/difference-rencontree.md) — Examiner la différence qui donne lieu à une difficulté descriptive.
+- [Configuration rencontrée](fr/configuration-rencontree.md) — Décrire la configuration sur laquelle porte l’enquête.
+- [Configuration descriptive](fr/configuration-descriptive.md) — Examiner l’organisation des éléments retenus dans une description.
+- [Trace](fr/trace.md) — Examiner les traces mobilisées dans une pratique et les limites de leur interprétation.
+- [Support descriptif](fr/support-descriptif.md) — Préciser le rôle des supports dans les pratiques descriptives.
 
 ---
 
