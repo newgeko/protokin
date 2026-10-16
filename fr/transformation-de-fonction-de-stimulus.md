@@ -1,179 +1,129 @@
-# Page : transduction-selective-et-ancrage-somatique.md
+# Transformation des fonctions de stimulus
 
-# La Transformation des Fonctions de Stimulus — L'opérativité pragmatique de la transduction relationnelle
+## 1. Fonction de la page
 
-## Analyse architecturale de la page
+Cette page définit la transformation des fonctions de stimulus dans le cadre de la théorie des cadres relationnels (*Relational Frame Theory*, RFT). Elle précise comment les relations apprises entre des stimuli peuvent modifier les effets qu’ils exercent sur le comportement.
 
-### 1. Fonction unique de la page
-Cette page définit le statut métathéorique et clinique de la **transformation des fonctions de stimulus** au sein de la section **03 — Fondements descriptifs** de Protokin. Elle formalise l'opération par laquelle l'insertion d'un événement ou d'un signal au sein d'un réseau relationnel (RFT) en modifie la valence comportementale, attentionnelle, somatique ou affective pour un organisme en acte, sans qu'il soit nécessaire de modifier ses propriétés physiques intrinsèques ni de passer par un conditionnement direct. Elle constitue le pivot dynamique de la transduction relationnelle, assurant la transition entre la pure réactivité causale et la prise en charge conceptuelle de premier ordre.
+Elle distingue ces transformations des propriétés physiques des stimuli, des relations établies entre eux et de la justification des descriptions ou des décisions qui leur sont associées.
 
-### 2. Choix du mode de développement
-* **Mode retenu :** Mode A — Développement conceptuel et sémiotique.
-* **Justification :** Il s'agit d'installer un concept clé de la boucle de transition, de spécifier sa mécanique comportementale et relationnelle, et de prémunir l'auditeur contre toute confusion entre l'efficacité pragmatique de la transformation et la validité normative de la justification discursive.
+## 2. Problème
 
-### 3. Problème conceptuel inaugural
-Comment expliquer qu'un symbole ou un signal arbitraire (comme un code d'alarme ou un mot écrit) acquière instantanément la force motrice et l'impact somatique d'une contrainte matérielle brute (comme la fuite face au feu ou la sidération face à un danger), sans pour autant que l'organisme ait subi d'association physique directe préalable avec ce signal ? Si la signification n'est qu'une affaire de conditionnement pavlovien, le vivant reste captif de son environnement immédiat. Si, à l'inverse, on postule que le symbole tire son pouvoir d'un règne autonome de significations pures et désincarnées, on retombe dans l'idéalisme sémantique et l'amnésie somatique.  
-Protokin surmonte cette aporie en théorisant la **transformation des fonctions de stimulus** sous le prisme de la Théorie des Cadres Relationnels (RFT). Elle montre que l'organisme humain n'apprend pas seulement à réagir à des forces matérielles, mais acquiert l'aptitude à mettre en relation des stimuli de façon arbitraire. Dès lors qu'un stimulus est inséré dans un réseau relationnel, ses valences psychophysiologiques sont reconfigurées de manière indirecte et dérivée, scellant l'unité du corps et du sens au présent de l'action.
+Un stimulus peut modifier la conduite d’un organisme sans posséder lui-même les propriétés physiques de ce à quoi il renvoie. Un mot, une image ou un signal peuvent orienter l’attention, susciter une réaction affective ou modifier une conduite en fonction de relations apprises.
 
-### 4. Objet propre
-* **Cette page traite de :** la définition de la fonction de stimulus ($C_{func}$) et de sa transformation sous contrôle relationnel ; le rôle des clés contextuelles de relation ($C_{rel}$) et de fonction ($C_{func}$) ; la distinction entre *transfert* de fonction et *transformation* de fonction ; et le statut pré-normatif de cette opérativité.
-* **Cette page ne traite pas de :** la clinique comportementale appliquée (comme l'ACT) ; les protocoles de matching-to-sample de premier ordre ; ni les rituels de scorekeeping d'aval (réservés à l'espace des raisons).
+Comment expliquer cette efficacité sans réduire les effets du langage à des associations directes entre stimuli, ni supposer que la signification agit indépendamment des conditions corporelles, matérielles et historiques de l’activité ?
 
-### 5. Statut conceptuel
-Concept de premier ordre d'infrastructure transitionnelle, appartenant à la **Section 03 — Fondements descriptifs**.
+La RFT permet d’examiner comment les relations établies entre des stimuli peuvent participer à la transformation de leurs fonctions. Elle ne suppose pas que toute relation produise automatiquement un effet déterminé : les résultats dépendent notamment de l’histoire d’apprentissage, du contexte et de la fonction considérée.
 
-### 6. Dépendances fonctionnelles
-* **Cette page suppose :** `causes.md`, `primat-couplage-perception-action.md`, `difference-rencontree.md` et `transduction-relationnelle-rft.md`.
-* **Cette page prépare :** `configuration-semiotique.md`, `support-descriptif.md`, `configuration-descriptive.md` et `categories.md`.
-* **Cette page rend possible :** L'analyse de l'opérativité des indices et la détection clinique des pathologies de réduction naturaliste ou d'amnésie somatique de l'évaluation lors de l'audit.
+## 3. Définition
 
----
+La **transformation des fonctions de stimulus** désigne la modification des effets qu’un stimulus peut exercer sur le comportement en fonction des relations dérivées dans lesquelles il est engagé.
 
-## Cartouche fonctionnel
+Une fonction peut notamment concerner l’orientation de l’attention, l’approche, l’évitement ou certaines réactions affectives. Elle ne constitue pas nécessairement une propriété stable du stimulus : ses effets peuvent varier selon les circonstances et les activités dans lesquelles celui-ci intervient.
 
-| Élément | Description |
-| :--- | :--- |
-| **Section** | 03 — Fondements descriptifs |
-| **Fichier** | `transformation-de-fonction-de-stimulus.md` |
-| **Fonction** | Définir la transformation des fonctions de stimulus comme condition matérielle et comportementale de l'opérativité sémantique. |
-| **Prépare** | L'analyse de la configuration sémiotique, des supports descriptifs et de l'entrée dans l'espace des raisons. |
-| **Mobilise** | La RFT, le cadrage relationnel arbitrairement applicable (AARR), le contrôle contextuel ($C_{func}$ / $C_{rel}$) et le principe de non-conversion. |
-| **Permet ensuite** | D'auditer la fétichisation des indices et de déconstruire le réductionnisme naturaliste ainsi que l'idéalisme linguistique. |
-| **N'établit pas** | Un manuel de psychologie cognitive expérimentale, ni un protocole thérapeutique direct. |
+Dans la RFT, une relation apprise entre des stimuli peut permettre à un organisme de répondre à un stimulus en fonction d’une relation qui n’a pas été directement entraînée dans toutes ses occurrences. Les fonctions associées aux stimuli peuvent alors être transformées conformément à cette relation. Cette transformation ne signifie pas que toutes les fonctions du stimulus initial sont reproduites à l’identique.
 
----
+## 4. Exemple minimal
 
-## Définition fonctionnelle
+Une personne apprend qu’un lieu est associé à un risque. Par la suite, un signal conventionnel indiquant que ce lieu est dangereux peut suffire à modifier sa conduite, même si ce signal n’a pas lui-même été directement associé à toutes les conséquences du danger.
 
-Dans l'architecture de Protokin, on appelle **transformation des fonctions de stimulus** :
+Le signal et le lieu ne sont pas physiquement identiques. L’effet du signal dépend des relations apprises, du contexte et de l’histoire de la personne. Il peut modifier son attention ou favoriser l’évitement, sans que toutes les personnes réagissent nécessairement de la même façon.
 
-> **L'opération d'amont, d'origine comportementale et somatique, par laquelle l'insertion d'un stimulus dans un réseau relationnel historiquement appris modifie ses valences fonctionnelles (attentionnelles, émotionnelles, discriminatives ou motrices) pour un organisme couplé à son milieu, sous le contrôle strict de clés de relation ($C_{rel}$) et de fonction ($C_{func}$), et indépendamment de toute modification de ses propriétés physiques intrinsèques.**
+Cet exemple permet de distinguer trois questions :
 
-```text
-               PLAN DE L'ESPACE DES CAUSES (Pôle PROTO)
-               
-               [ Stimulus physique ou perturbation brute ]
-                                    │
-                                    ▼ (Apprentissage relationnel AARR)
-                       OPÉRATEUR DE RELATION (C_rel)
-               ┌────────────────────────────────────────┐
-               │    Réseau relationnel (Equivalence)    │
-               │        Symbole B ◀───► Objet A         │
-               └────────────────────┬───────────────────┘
-                                    │
-                       OPÉRATEUR DE FONCTION (C_func)
-               ┌────────────────────────────────────────┐
-               │  Transformation fonctionnelle (C_func) │
-               │  Le Symbole B acquiert la valence de A │
-               │     (Stress somatique, alerte)         │
-               └────────────────────┬───────────────────┘
-                                    │
-                   ┌────────────────┴────────────────┐
-                   ▼                                 ▼
-         [ CONDUITE EN ACTE ]             [ REDEVABILITÉ KIN ]
-       - Orientation corporelle         - Entrée dans l'espace des raisons :
-       - Réaction d'urgence               « Ce signal exige l'arrêt car
-       - Ajustement sensorimoteur         le critère C est atteint »
-```
+- **Relation :** quelle relation a été apprise ou dérivée entre le signal et le lieu ?
+- **Fonction :** quels effets le signal exerce-t-il effectivement sur la conduite dans cette situation ?
+- **Justification :** quelles raisons permettent de considérer le signal comme fiable et la conduite comme appropriée ?
 
----
+La transformation fonctionnelle aide à expliquer les effets du signal. Elle ne répond pas, à elle seule, à la question de sa fiabilité ni à celle de la justification de la conduite.
 
-## Les dimensions constitutives de la transformation des fonctions
+## 5. Le rôle du contexte
 
-La transformation des fonctions de stimulus se distingue du simple transfert mécanique et s'organise autour de trois dimensions clés :
+La RFT distingue notamment les indices contextuels qui contribuent à déterminer la relation établie entre des stimuli et ceux qui modulent les fonctions comportementales pertinentes.
 
-### 1. La distinction entre Transfert et Transformation
-*   Le **transfert de fonction** intervient au sein d'une relation d'équivalence stricte (cadre de coordination) : la fonction d'un stimulus passe de manière identique à un autre (ex : si le mot écrit "danger" est équivalent au danger, il hérite directement de sa valence aversive).
-*   La **transformation de fonction** caractérise les réseaux relationnels asymétriques (opposition, comparaison, hiérarchie, spatialité). Ici, la modification de la fonction n'est pas une simple copie, mais elle est recalculée de manière dynamique en accord avec la relation dérivée. Si un individu appren que le stimulus $B$ est *l'opposé* du stimulus $A$, et que $A$ acquiert une fonction aversive (perte de points), $B$ acquiert de manière autonome une fonction renforçante ou appétitive, sans aucun entraînement direct préalable.
+### 5.1. Le cadrage relationnel
 
-### 2. Le double contrôle contextuel : $C_{rel}$ et $C_{func}$
-La complexité de la discursivité exige que l'organisme ne réagisse pas à toutes les fonctions d'un stimulus en même temps, sous peine de détruire la spécificité des signaux (le "mush" fonctionnel). Protokin modélise cette régulation par deux clés distinctes :
-*   **L'indice de relation ($C_{rel}$)** : Contrôle *quel type* de cadre relationnel doit être appliqué entre les éléments (sameness, opposition, comparaison, temporalité).
-*   **L'indice de fonction ($C_{func}$)** : Contrôle *quelle fonction spécifique* du stimulus d'origine est transformée dans le stimulus d'arrivée. Par exemple, face au symbole "banane", c'est la clé de fonction $C_{func}$ (« imagine le goût ») qui va activer la valence gustative somatique, tandis que la clé « dessine » va activer la seule valence motrice et visuelle.
+Le cadrage relationnel participe à déterminer comment les stimuli sont mis en relation : coordination, opposition, comparaison, hiérarchie ou autre relation apprise.
 
-### 3. La formule canonique de la transformation analogique
-Au niveau supérieur de l'abstraction (le passage vers le langage et la modélisation), l'organisme met en relation des relations entre elles (analogies, métaphores). Protokin formalise cette transformation croisée de second ordre de la manière suivante :
+La relation mobilisée ne suffit cependant pas à prédire tous les effets fonctionnels qui lui seront associés. Ceux-ci dépendent également de l’histoire d’apprentissage et du contexte dans lequel la relation intervient.
 
-$$C_{func} [ C_{rel} \{ (A\ r_x\ B)f^1\ r_s\ C\ r_x\ D \ \Vert\ \ (C\ r_x\ D)f^1\ r_s \} ]$$
+### 5.2. Le contrôle fonctionnel
 
-Où :
-*   $C_{func}$ est la clé contextuelle qui actualise la fonction ;
-*   $(A\ r_x\ B)$ est le réseau relationnel de départ possédant la fonction d'amont $f^1$ ;
-*   $r_s$ est la relation de second ordre (la similarité analogique) reliant les deux réseaux ;
-*   $(C\ r_x\ D)$ est le réseau de destination qui hérite de la fonction $f^1$ par dérivation.
+Le contrôle fonctionnel concerne les fonctions susceptibles d’être mobilisées ou modifiées dans un contexte donné.
 
----
+Un même stimulus peut ainsi exercer des fonctions différentes selon la tâche ou l’activité. Lire le mot « banane » peut servir à identifier un fruit, à rechercher une image, à évoquer un goût ou à préparer une action. Ces effets ne sont ni nécessairement simultanés ni systématiquement présents.
 
-## Distinctions conceptuelles nécessaires
+Le cadrage relationnel et le contrôle fonctionnel sont donc des distinctions analytiques utiles. Ils ne doivent pas être traités comme deux opérateurs autonomes produisant mécaniquement un résultat.
 
-### Fonction de stimulus et Indice arbitraire
-*   L'**indice arbitraire** ($C_{rel}$ / $C_{func}$) est le *stimulus-cadre* ou la clé contextuelle qui oriente l'attention et indique quelles conditions de relation appliquer. L'indice ne commande pas et ne produit pas directement l'action au sens normatif : il *cadre* la situation.
-*   La **fonction de stimulus** désigne l'**état somatique et pragmatique transformé** (l'effet comportemental effectif, la hausse de vigilance, le réflexe moteur) produit chez le vivant par ce cadrage. *L'indice cadre ; la fonction rend opératoire.*
+## 6. Distinctions avec les notions voisines
 
-### Transformation de fonction et Validité normative (PROTO vs KIN)
-*   La **transformation de fonction** est une réussite adaptative de premier ordre qui explique *comment* le corps d'un organisme s'oriente et réagit de façon cohérente à des symboles (plan **PROTO / RFT**).
-*   La **validité normative** est le statut déontique d'habilitation ou d'imputation accordé à un énoncé au sein de la communauté de locuteurs (plan **KIN**). *Le fait qu'un mot déclenche un stress biologique (fonction) explique la force du signal, mais ne justifie en rien la vérité de l'assertion produite (raison).*
+### 6.1. Propriétés physiques et fonctions de stimulus
 
----
+Les propriétés physiques d’un stimulus ne se confondent pas avec ses fonctions comportementales. Deux stimuli physiquement différents peuvent exercer des fonctions comparables dans une pratique donnée. Inversement, un même stimulus physique peut produire des effets différents selon le contexte et l’histoire de l’organisme.
 
-## Éclairage par les fils rouges pédagogiques
+Cette distinction ne signifie pas que les propriétés physiques soient sans importance. Elles peuvent contraindre la perception, l’apprentissage et l’action sans déterminer à elles seules tous les effets du stimulus.
 
-### 1. Le vélo rouge
-*   **Stimulus physique (PROTO) :** Les photons réfléchis par le cadre du vélo à la longueur d'onde de 650 nm frappent la rétine.
-*   **Transformation de fonction (RFT) :** L'histoire d'apprentissage associe cette empreinte visuelle au phonème « rouge ». Sous le contrôle de la clé de fonction $C_{func}$ (« repère ton vélo »), le mot « rouge » transforme instantanément les fonctions attentionnelles de l'organisme, orientant le regard vers le vélo précis sur le parking.
-*   **Raison discursive (KIN) :** Si un ami conteste la teinte (« il est orange brique »), le locuteur ne peut s'adosser à sa seule fonction rétinienne ; il doit entrer dans l'espace des raisons en exhibant les critères partagés de comparaison chromatique.
+### 6.2. Transfert et transformation de fonction
 
-### 2. Le patient aux urgences hospitalières
-*   **Le trouble :** L'ischémie myocardique produit des contraintes biophysiques brutes (PROTO). L'infirmière de tri possède une RDRD et une attention organique hautement éduquées : elle repère instantanément la pâleur et la moiteur du patient (indices).
-*   **Transformation de fonction :** Ces indices déclenchent une hausse de vigilance somatique aiguë et l'action de secours immédiate (fonction). En lisant le code d'alerte « Code SCA » sur le dossier, l'équipe subit une transformation de fonction : la clé contextuelle d'urgence absolue réorganise leurs conduites motrices.
-*   **Pathologie d'audit :** L'amnésie matérielle s'installe lorsque le logiciel informatique comptable de l'administration oblige l'infirmière à remplir des cases financières d'admissibilité avant de libérer le déchocage, traitant la saisie de l'indice administratif comme prioritaire sur la fonction de secours vitale.
+Le terme *transfert de fonction* est souvent employé pour décrire la reprise d’une fonction au sein d’une relation de coordination ou d’équivalence. La notion de *transformation de fonction* permet d’examiner plus largement les changements associés à des relations diverses.
 
-### 3. Le botaniste et le bûcheron face à l'arbre
-*   Face à l'arbre (*Abies alba*, PROTO), ils activent deux réseaux de transformation de fonction hétérogènes.
-*   Le bûcheron relie la texture de l'écorce à la fonction d'utilité technique (« bois de charpente »). La vue d'une fissure transforme ses dispositions de coupe (action immédiate).
-*   Le botaniste relie la structure des aiguilles à la taxonomie phylogénétique. La vue de la même fissure transforme ses fonctions d'évaluation écologique (calcul de résilience hydrique). Leurs transformations de fonctions coexistent de manière parfaitement compatible sans qu'une description n'ait le droit d'écraser l'autre.
+Il ne faut cependant pas opposer rigidement un transfert qui serait toujours identique à une transformation qui serait toujours différente. La nature et l’ampleur des effets dépendent de la relation considérée, des fonctions en jeu et du contexte. Une relation d’opposition, par exemple, ne garantit pas que la fonction du stimulus opposé sera exactement inverse de celle du stimulus initial.
 
-### 4. La déconstruction du blâme moral (« Cette personne est mauvaise »)
-*   **Le trouble :** Un individu commet un acte de transgression situé (PROTO).
-*   **La pathologie :** L'institution ou le groupe fige cet indice arbitraire (l'acte déviant) en une essence biologique et permanente de l'organisme de l'agent (« cette personne est mauvaise par nature », PROTO réifié). Par dérivation relationnelle close, tout acte futur de cet organisme se trouve lié à cette essence immuable, interdisant toute plasticité temporelle.
-*   **L'audit :** L'audit protokinien déconstruit cette pathologie en montrant que l'acte n'est qu'un signal d'imputation relative (KIN) régi par des critères publics révisables, réinsérant l'individu dans sa kinesis temporelle et réouvrant l'espace des contrefactuels de réhabilitation.
+### 6.3. Transformation de fonction et inférence relationnelle
 
----
+La dérivation d’une relation entre stimuli et la transformation de leurs fonctions sont liées, mais distinctes. La première concerne une relation dérivée ; la seconde concerne les changements fonctionnels qui peuvent lui être associés.
 
-## Limites internes et vigilances d'audit
+Une relation peut être dérivée sans entraîner la transformation fonctionnelle attendue. De même, constater une modification comportementale ne suffit pas à établir par quelle relation elle a été produite.
 
-Lors de la conduite d'un audit de terrain, l'enquêteur applique des critères de vigilance stricts pour dépister trois pathologies majeures liées aux fonctions de stimulus :
+### 6.4. Transformation de fonction et justification
 
-### 1. La réduction béhavioriste (La naturalisation de la raison)
-La dérive réductionniste consistant à prétendre qu'expliquer mécaniquement comment un mot ou un signal provoque une réaction corporelle ou une orientation motrice (PROTO/RFT) suffirait à valider ou à dispenser de justification la vérité de l'énoncé au sein du collectif (KIN). *L'adéquation comportementale n'est pas la validité logique.*
+Un stimulus peut orienter efficacement une conduite sans que cette conduite soit justifiée. Un signal d’alerte peut susciter une réaction immédiate ; il reste possible d’examiner ensuite sa fiabilité, les circonstances de son émission et les critères qui autorisent la décision.
 
-### 2. L'amnésie somatique de l'évaluation (L'isolationnisme logique)
-La dérive idéaliste classique consistant à s'imaginer que les concepts logiques ou les rituels de justification pourraient flotter de façon close à coût d'entretien nul. Protokin rappelle que sans l'éducation continue des corps, le maintien d'habitudes d'attention éduquées et la maintenance des supports d'inscriptions, l'espace des raisons tourne à vide et s'effondre par manque d'infrastructures.
+L’efficacité comportementale, la validité d’une inférence et la justification d’une assertion sont donc des questions distinctes. Elles peuvent être liées dans une pratique, mais elles ne se remplacent pas.
 
-### 3. La dérive indicielle (La fétichisation sémiotique)
-La pathologie par laquelle un indice arbitraire se détache de la praxis fonctionnelle qui fondait initialement sa pertinence adaptative. La circulation et la confirmation des indices s'enclosent dans une boucle stérile ($I_1 \rightarrow I_2 \rightarrow I_3 \dots$), masquant les butoirs réels du milieu.
+## 7. Articulation avec l’enquête de Protokin
 
----
+La transformation des fonctions de stimulus permet d’examiner comment des relations apprises participent aux conduites et aux pratiques descriptives. Elle conduit notamment à interroger les conditions corporelles et matérielles de l’apprentissage, les relations mobilisées et les fonctions effectivement exercées par un signal.
 
-## Synthèse finale
+Dans la [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md), ces questions peuvent être examinées selon quatre orientations :
 
-### Ce que cette page établit
-*   Le concept de **transformation des fonctions de stimulus** comme opérateur comportemental d'amont agissant à la frontière de PROTO et de KIN.
-*   La distinction rigoureuse entre transfert symétrique de coordination et transformation asymétrique calculée en accord avec les cadres relationnels.
-*   Le double contrôle contextuel exercé par les indices de relation ($C_{rel}$) et de fonction ($C_{func}$).
-*   Le statut pré-normatif de la fonction de stimulus, qui conditionne l'accès aux pratiques descriptives sans jamais se convertir en justification normative.
+- **Condition :** quelles conditions corporelles, matérielles, environnementales ou historiques interviennent ?
+- **Relation :** quelles relations entre stimuli sont apprises, mobilisées ou dérivées ?
+- **Fonction :** quels effets le stimulus exerce-t-il dans la pratique considérée ?
+- **Justification :** quels critères et quelles raisons permettent de défendre les conclusions ou les décisions associées ?
 
-### Ce qu'elle suppose
-*   Le *primat du couplage perception-action* (`primat-couplage-perception-action.md`).
-*   Le concept de *différence rencontrée* (`difference-rencontree.md`).
-*   Le concept d'*indice arbitraire* (`indice-arbitraire.md`).
-*   Le *principe de non-conversion* (`articulation_vs_conversion.md`).
+Cette répartition est une orientation de l’examen, non une succession obligatoire. La transformation des fonctions de stimulus ne constitue ni une étape nécessaire de toute description ni une explication exhaustive de la signification.
 
-### Ce qu'elle rend possible
-*   La modélisation de la *configuration sémiotique* (`configuration-semiotique.md`).
-*   La constitution des *supports descriptifs incorporés* (`supports-descriptifs-incorpores.md`).
-*   L'analyse de l'opérativité des concepts lors de l'audit de terrain (`realiser-un-audit.md`).
+Elle peut contribuer à l’analyse d’une pratique descriptive, mais elle ne remplace pas l’examen de ses catégories, de ses critères ou de ses justifications.
 
---------------------------------------------------------------------------------
+## 8. Limites et non-conversions
 
-Protokin 2026 — version 26.08.212
+La transformation des fonctions de stimulus ne permet pas, à elle seule, de conclure :
+
+- qu’une relation dérivée est correcte dans tous les contextes ;
+- que tous les stimuli engagés dans une relation acquièrent les mêmes fonctions ;
+- qu’une conduite observée résulte nécessairement d’une transformation relationnelle ;
+- qu’un effet comportemental établit la vérité d’une assertion ;
+- qu’une fonction efficace fournit une justification suffisante ;
+- que les contraintes matérielles, corporelles ou historiques déterminent entièrement les pratiques descriptives.
+
+L’analyse doit donc distinguer les relations établies, les fonctions observées et les conclusions que l’on peut défendre à partir des éléments disponibles.
+
+**Une transformation fonctionnelle peut expliquer une modification de la conduite sans établir, à elle seule, la validité de la description ou de la décision qui lui est associée.**
+
+## 9. Synthèse
+
+La transformation des fonctions de stimulus désigne les changements fonctionnels qui peuvent accompagner des relations apprises ou dérivées entre stimuli. La RFT permet d’étudier ces changements sans les réduire aux propriétés physiques des stimuli ni à des associations directes systématiques.
+
+Pour Protokin, cette notion contribue à examiner les conditions relationnelles et comportementales dans lesquelles certains signaux deviennent opératoires. Elle ne permet pas de convertir directement l’efficacité d’un signal en vérité, en raison ou en justification.
+
+La distinction directrice est la suivante : **les conditions d’apparition d’un effet, la fonction qu’il exerce et les raisons de le justifier ne répondent pas à la même question.**
+
+## 10. Pour poursuivre
+
+- [Transduction relationnelle — RFT](fr/transduction-relationnelle-rft.md)
+- [Transformation relationnelle — RFT](fr/transformation-relationnelle-rft.md)
+- [Inférence mutuelle](fr/inference-mutuelle.md)
+- [Inférence combinatoire](fr/inference-combinatoire.md)
+- [Inférence matérielle](fr/inference-materielle.md)
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
