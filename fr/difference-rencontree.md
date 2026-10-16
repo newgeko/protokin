@@ -1,356 +1,105 @@
-# Page : difference-rencontree.md
+# Différence rencontrée — Ce qui fait problème dans une situation
 
-La différence rencontrée
+## 1. Fonction
 
-La genèse émergente des contrastes dans le couplage organisme-milieu
+Cette page précise le statut de la différence rencontrée dans une enquête descriptive : une différence qui se manifeste dans une situation et devient pertinente pour un organisme ou une pratique, sans être nécessairement déjà identifiée ni décrite.
 
-Cartouche fonctionnel| 
-Fonction| Établir le statut de la différence rencontrée comme première différenciation fonctionnelle du couplage organisme-milieu, à partir de laquelle une différence peut affecter, orienter et éventuellement être discriminée avant toute inscription sémiotique.
-Prépare| La sensibilité, la sentience, l'attention organique, la différence discriminée, la différence coordonnante, la différence inscrite, la configuration sémiotique et la configuration descriptive.
-Mobilise| Le couplage organisme-milieu, le primat perception-action, la sensibilité différentielle, la sentience, l'espace des causes (PROTO) et l'espace des raisons (KIN).
-Permet ensuite| De comprendre comment des différences affectantes et des coordinations pré-sémiotiques peuvent devenir descriptibles et recevoir ultérieurement une qualification normative (KIN), sans que cette qualification soit déjà contenue dans leur organisation causale (PROTO).
-N'établit pas| Une catégorie descriptive déjà constituée, une représentation mentale, un jugement normatif, une théorie générale de la conscience, ni une essence naturelle des phénomènes.
+Elle permet de distinguer ce qui se présente dans la situation, ce qui retient l’attention et ce qui sera ensuite sélectionné pour construire une description.
 
----
+## 2. Problème
 
-1. Problème conceptuel inaugural
+Une difficulté descriptive apparaît parfois parce que les distinctions disponibles ne suffisent plus à rendre compte d’une situation. Un élément inattendu, une variation, une résistance ou un contraste peut conduire à remettre en question une description existante.
 
-Une activité descriptive ne commence ni dans un langage autosuffisant, ni face à un monde déjà segmenté en objets et en propriétés intrinsèques. Avant qu'une proposition puisse être formulée (« Cette réaction est empathique ») ou qu'un diagnostic puisse être porté, il faut qu'un organisme soit déjà engagé dans un milieu au sein duquel certaines variations puissent faire une différence pour lui.
+Mais rencontrer une différence ne revient pas encore à savoir ce qu’elle signifie, à quelle catégorie elle appartient ou quelle conclusion elle autorise.
 
-Le problème auquel répond le concept de différence rencontrée s'énonce ainsi :
+Un arbre penché au-dessus d’une habitation peut attirer l’attention d’un propriétaire, d’un botaniste ou d’un bûcheron. La situation ne leur pose pas nécessairement le même problème : chacun peut remarquer des éléments différents en fonction de son activité et de la question examinée.
 
-«Comment des variations ou des contraintes du milieu deviennent-elles des différences susceptibles d'affecter et d'orienter un organisme, sans supposer ni un « donné brut » métaphysique, ni une catégorisation discursive préexistante ?»
+Il faut donc distinguer **la différence rencontrée, la différence retenue pour l’enquête et la description qui en est produite**.
 
-Une variation physique n'est pas encore, par elle-même, une différence pertinente pour un organisme. Elle ne le devient qu'au sein d'un couplage dans lequel les capacités de l'organisme et les contraintes du milieu se répondent.
+## 3. Définition
 
-Protokin ne situe donc pas le commencement de la différenciation au niveau de la catégorie ou de la discrimination conceptuelle. Il le situe dans le couplage organisme-milieu.
+Une **différence rencontrée** désigne une variation, un contraste, une résistance ou un écart qui devient pertinent dans une situation et peut contribuer à faire apparaître une difficulté descriptive.
 
-La première émergence n'est pas encore un objet reconnu, un contenu représenté ou une proposition : c'est une différence rencontrée, c'est-à-dire une variation qui affecte effectivement la dynamique de l'organisme.
+Cette pertinence ne suppose pas que la différence soit déjà nommée, catégorisée ou formulée dans un jugement. Elle peut se manifester par une modification de l’activité, une attente déçue, une résistance pratique ou une discordance entre ce qui est observé et ce que la description disponible permet d’établir.
 
-Cette rencontre ouvre alors plusieurs possibilités fonctionnelles : l'organisme peut être affecté, cette affection peut acquérir une valence, certaines différences peuvent orienter son activité, puis être discriminées et coordonnées avant toute inscription sémiotique.
+La différence rencontrée n’est pas pour autant une propriété dont la description pourrait être déduite directement. Son identification et son rôle dans l’enquête demandent un examen.
 
----
+## 4. Distinctions nécessaires
 
-2. Définition fonctionnelle
+### Différence rencontrée et variation
 
-Dans l'architecture métathéorique de Protokin, on appelle différence rencontrée :
+Toute variation ne devient pas nécessairement pertinente pour une pratique. Une variation peut survenir sans affecter la tâche en cours ni mettre en difficulté la description mobilisée.
 
-«Une variation, un contraste, une résistance ou une régularité dynamique qui, dans le couplage organisme-milieu, affecte l'organisme et peut modifier son activité, son orientation ou son état. Elle constitue une différenciation pré-sémiotique et non conceptuelle à partir de laquelle peuvent émerger sensibilité, sentience, attention organique, discrimination et coordination, sans constituer encore une catégorie, une représentation ou une raison.»
+La différence rencontrée désigne ici une variation qui prend une importance dans la situation examinée.
 
-La différence rencontrée ne désigne donc pas une propriété intrinsèque du milieu isolée de tout organisme. Elle désigne une différence émergente dans une relation de couplage.
+### Différence rencontrée et différence retenue
 
-Elle ne suppose cependant pas que l'organisme « reconnaisse » déjà ce qui lui arrive. Une différence peut affecter l'organisme sans être représentée, nommée ou conceptuellement identifiée.
+Une différence peut attirer l’attention sans être retenue comme déterminante pour l’enquête. À l’inverse, une différence initialement négligée peut devenir pertinente lorsque le problème est reformulé.
 
-Sensibilité, sentience et attention organique
+La différence retenue est celle que l’enquête décide d’examiner au regard de la difficulté rencontrée. Ce choix peut être révisé.
 
-La rencontre d'une différence peut être précisée selon plusieurs dimensions fonctionnelles qui appartiennent encore au plan PROTO :
+### Différence rencontrée et catégorie descriptive
 
-Dimension| Fonction| Statut
-Sensibilité| Capacité d'un organisme à être affecté par certaines variations de son milieu ou de son propre état.| Pré-sémiotique / causal
-Sentience| Dimension selon laquelle certaines affections acquièrent une valence pour l'organisme et peuvent ainsi compter dans sa dynamique propre.| Sentient / pré-normatif
-Attention organique| Orientation fonctionnelle de l'activité de l'organisme vers certaines différences susceptibles de modifier son couplage.| Sensorimoteur / régulatif
-Discrimination| Différenciation fonctionnelle de certaines variations permettant une orientation ou un ajustement déterminé.| Sensorimoteur / opératoire
+Rencontrer une différence ne suffit pas à déterminer à quelle catégorie elle appartient. Une résistance, par exemple, peut être interprétée comme un indice de fragilité, une contrainte de travail ou une caractéristique attendue du matériau selon la question posée.
 
-Ces distinctions ne constituent pas quatre niveaux ontologiques successifs. Elles permettent de différencier des fonctions du couplage qui peuvent se recouvrir, se renforcer ou apparaître selon des trajectoires différentes.
+La catégorie mobilisée doit donc être examinée en fonction de ce qu’elle permet de distinguer et des conclusions qu’elle autorise.
 
-La sentience ne doit notamment pas être confondue avec une qualification normative : qu'une différence compte pour un organisme ne signifie pas encore qu'elle compte comme quelque chose pour une communauté de locuteurs.
+### Différence rencontrée et difficulté descriptive
 
----
+Une différence rencontrée ne constitue pas nécessairement un problème. Elle devient le point de départ d’une difficulté descriptive lorsque les ressources disponibles ne permettent pas de déterminer suffisamment comment la décrire, comment la distinguer d’autres éléments ou quelle portée lui attribuer.
 
-3. La chaîne de la différenciation
+La difficulté ne réside donc pas nécessairement dans la différence elle-même, mais dans le rapport entre la situation, la description mobilisée et ce qu’il reste à établir.
 
-Une différence ne devient pas immédiatement sémiotique ou descriptive. Une coordination pratique entre organismes peut survenir avant toute inscription formelle, et une affection peut orienter l'organisme avant toute discrimination explicite.
+## 5. Exemple : un arbre penché
 
-Pour éviter de faire de la discrimination le commencement de la perception, Protokin distingue les principales opérations de la trajectoire de différenciation :
+Un arbre penche au-dessus d’une habitation.
 
-«Variation → Différence rencontrée → Sensibilité → Sentience → Attention organique → Discrimination → Coordination → Inscription → Communication → Qualification»
+Le propriétaire peut remarquer la proximité de l’arbre avec le bâtiment et s’inquiéter d’un risque. Le botaniste peut relever des signes de dépérissement. Le bûcheron peut examiner l’inclinaison du tronc, la résistance du bois et les conditions d’une intervention.
 
-Cette chaîne ne doit pas être comprise comme une succession temporelle obligatoire. Elle constitue une cartographie fonctionnelle des transformations possibles d'une différence au sein du couplage.
+Ces différences ne sont pas nécessairement incompatibles. Elles répondent à des questions distinctes et peuvent se révéler complémentaires.
 
-1. Différence rencontrée
+Une difficulté apparaît, par exemple, si l’inclinaison est traitée comme une preuve suffisante de danger, ou si l’état biologique de l’arbre est tenu pour suffisant pour décider d’une intervention.
 
-La variation, le contraste, la résistance ou la régularité qui affecte l'organisme dans son couplage avec le milieu.
+L’enquête doit alors préciser quelles différences sont pertinentes pour le problème, quelles relations doivent être examinées et quels critères peuvent soutenir la conclusion envisagée.
 
-La différence rencontrée n'est pas encore identifiée comme « quelque chose ». Elle constitue simplement une différence qui survient pour un organisme engagé.
+La différence rencontrée ouvre ainsi un examen ; elle ne détermine pas à elle seule son résultat.
 
-2. Sensibilité
+## 6. Place dans l’enquête
 
-La capacité différentielle de l'organisme à être affecté par certaines variations.
+La différence rencontrée peut contribuer à faire émerger un problème descriptif, mais elle ne constitue ni une première étape obligatoire ni un fondement indépendant de toute pratique.
 
-Tous les événements du milieu ne modifient pas de la même manière l'organisme. La sensibilité délimite ainsi un champ de différences auxquelles le couplage peut répondre.
+Dans l’architecture fonctionnelle de Protokin, elle peut intervenir au moment de délimiter un problème, conduire à distinguer des éléments jusque-là confondus ou provoquer la reprise d’une description. Le déroulement dépend de la difficulté étudiée.
 
-3. Sentience
+La différence rencontrée ne remplace donc aucune opération de l’enquête. Elle désigne un élément de la situation à partir duquel certaines questions peuvent devenir nécessaires.
 
-Certaines affections ne constituent pas seulement des modifications causales de l'organisme : elles acquièrent une valence dans sa dynamique propre.
+Elle doit également être distinguée de la **configuration rencontrée**, qui porte sur l’organisation de la situation examinée, et de la **configuration descriptive**, qui porte sur l’organisation des éléments retenus dans une description.
 
-La sentience désigne ici cette dimension selon laquelle une différence peut être vécue comme favorable, défavorable, attirante, répulsive, douloureuse, agréable, menaçante ou autrement signifiante pour l'organisme, sans que cette signification soit encore conceptuelle ou normative.
+## 7. Limites et non-conversions
 
-La sentience n'est donc pas une raison : elle est une manière pour une différence de compter pour l'organisme avant de pouvoir compter comme raison.
+La différence rencontrée ne permet pas, à elle seule, de conclure :
 
-4. Attention organique
+- qu’un objet ou une propriété a déjà été correctement identifié ;
+- qu’une catégorie descriptive est adéquate ;
+- qu’une différence est pertinente pour toutes les pratiques ;
+- qu’une variation observée constitue une cause ;
+- qu’un élément remarqué justifie une décision ;
+- que plusieurs descriptions d’une même situation sont nécessairement incompatibles.
 
-L'organisme oriente alors fonctionnellement son activité vers certaines différences.
+La rencontre d’une différence ne garantit donc ni son identification correcte ni la validité des conclusions qui en seront tirées.
 
-Cette attention ne suppose ni conscience réflexive ni représentation linguistique. Elle désigne une orientation sensorimotrice, physiologique ou comportementale par laquelle certaines différences acquièrent une priorité fonctionnelle dans la dynamique du couplage.
+Ces conclusions dépendent d’autres opérations : ancrer l’examen, distinguer les éléments pertinents, examiner leurs relations, configurer l’analyse et justifier ce qui est affirmé.
 
-5. Différence discriminée
+## Synthèse
 
-Certaines différences sont différenciées de manière suffisamment déterminée pour permettre une orientation, une réponse ou un ajustement.
+La différence rencontrée désigne ce qui, dans une situation, peut devenir pertinent et contribuer à faire apparaître une difficulté descriptive. Elle ne se confond ni avec la différence retenue pour l’enquête, ni avec la catégorie employée pour la décrire, ni avec la conclusion qui en sera tirée.
 
-La discrimination est donc une opération fonctionnelle, et non nécessairement un acte conscient ou conceptuel.
+Son rôle est circonscrit : **elle ouvre une possibilité d’examen sans préjuger de la description adéquate ni de l’issue de l’enquête**.
 
-6. Différence coordonnante
+Pour poursuivre :
 
-La différence discriminée peut participer à une coordination comportementale ou sensorimotrice.
-
-L'ajustement peut concerner l'organisme lui-même, plusieurs organismes ou un collectif d'organismes. Une coordination peut ainsi survenir sans qu'une trace sémiotique explicite ne soit encore requise.
-
-7. Différence inscrite
-
-La différence est fixée dans un support matériel, gestuel, graphique, technique ou institutionnel.
-
-Elle entre alors dans une configuration sémiotique.
-
-8. Différence communicable
-
-La différence inscrite devient disponible pour plusieurs agents et peut être reprise, comparée, stabilisée et transformée au sein d'une pratique collective.
-
-Elle entre dans une configuration descriptive.
-
-9. Différence qualifiée
-
-La différence reçoit un prédicat, un statut, une valeur ou une attribution au sein d'un espace de raisons.
-
-Elle devient alors susceptible d'être évaluée, justifiée, contestée ou imputée dans le plan KIN.
-
-Cette chaîne montre que l'activité descriptive ne surgit pas d'un coup avec le langage discursif. Il existe des opérations de sensibilité, d'affection, d'orientation, de sélection et de coordination bien antérieures aux catégories linguistiques, sans qu'il soit nécessaire de les qualifier déjà de « descriptions » au sens strict.
-
----
-
-4. Déploiement clinique : la sentience et le cas de l'empathie
-
-L'analyse de l'empathie offre une illustration privilégiée du passage entre les conditions causales du couplage et leur qualification normative.
-
-La distinction Sellarsienne entre espace des causes (PROTO) et espace des raisons (KIN) permet ici d'éviter deux réductions symétriques.
-
-Le pôle PROTO : sensibilité, sentience et coordination
-
-Affirmer que « l'empathie n'existe pas dans le biologique » serait une erreur si cette formulation entend nier les conditions biologiques auxquelles une communauté pourra ultérieurement appliquer la qualification d'empathie.
-
-Le niveau PROTO peut comprendre des phénomènes tels que :
-
-- contagion affective et résonance motrice ;
-- variations physiologiques liées à l'état d'autrui ;
-- synchronisations cardiaques ou posturales ;
-- sensibilité aux vocalisations et aux postures de détresse ;
-- réponses d'approche, de retrait ou d'apaisement ;
-- comportements affiliatifs et protecteurs ;
-- ajustements comportementaux entre organismes.
-
-Ces phénomènes peuvent être compris selon les dimensions de la sensibilité, de la sentience, de l'attention organique et de la coordination.
-
-Mais aucune de ces dimensions ne constitue à elle seule le concept normatif d'« empathie ».
-
-La sentience peut constituer une condition d'intelligibilité d'une réponse à autrui sans constituer elle-même l'empathie.
-
-Éviter les deux pièges symétriques de la réification
-
-Cette distinction prémunit l'analyse contre deux erreurs de catégorie.
-
-La naturalisation ascendante
-
-«Prétendre que « les organismes sont empathiques » par nature parce qu'ils manifestent des coordinations biologiques, une sensibilité à autrui ou des comportements d'apaisement.»
-
-La présence de conditions causales et sentientes ne suffit pas à établir la qualification normative.
-
-La projection descendante
-
-«Prétendre que toute sensibilité, toute sentience ou toute coordination biologique est déjà une forme d'empathie.»
-
-La qualification normative ne peut être projetée rétroactivement sur le couplage biologique.
-
-La sentience est ainsi pré-normative sans être normative.
-
-Le pôle KIN : la qualification normative
-
-Lorsque la communauté discursive intervient au niveau KIN, elle ne crée pas ex nihilo les phénomènes biologiques auxquels elle donne le nom d'« empathie ». Elle transforme leur statut descriptif et normatif en les faisant entrer dans un espace de raisons.
-
-Ainsi, énoncer :
-
-«« Cette réaction est empathique »»
-
-ne revient pas à enregistrer passivement une régularité biologique.
-
-C'est accomplir une opération de qualification : attribuer à une réaction un statut déterminé, orienter la manière dont elle doit être comprise et, selon le régime concerné, déterminer les engagements, attentes ou imputations qui peuvent lui être associés.
-
-Le même épisode peut donc être :
-
-- causalement décrit en PROTO ;
-- affectivement caractérisé selon sa dimension sentiente ;
-- fonctionnellement décrit selon les coordinations qu'il produit ;
-- puis normativement qualifié en KIN comme « empathique ».
-
-Ces descriptions ne sont ni concurrentes ni équivalentes.
-
----
-
-5. Schéma d'intégration fonctionnelle
-
-PROTO : Couplage organisme–milieu
-        ↓
-Variation
-        ↓
-Différence rencontrée
-        ↓
-Sensibilité
-        ↓
-Sentience
-        ↓
-Attention organique
-        ↓
-Discrimination
-        ↓
-Coordination
-        ↓
-Inscription / trace matérielle
-─────────────────────────────────────────
-             Seuil de sémiotisation
-─────────────────────────────────────────
-Configuration sémiotique
-        ↓
-Configuration descriptive
-        ↓
-Disponibilité collective
-        ↓
-Qualification
-        ↓
-Évaluation / justification
-        ↓
-KIN : « empathie »
-     Espace des raisons
-
-La frontière entre PROTO et KIN n'est pas une frontière entre un monde sans signification et un monde doté de signification. Elle distingue deux régimes de détermination.
-
-Dans PROTO, une différence peut affecter, orienter, contraindre et coordonner.
-
-Dans KIN, cette différence peut être qualifiée, évaluée, justifiée et imputée.
-
----
-
-6. Éclairage par les fils rouges pédagogiques
-
-Le botaniste et le bûcheron
-
-Face au même arbre, le botaniste et le bûcheron ne rencontrent pas exactement les mêmes différences pertinentes.
-
-Le couplage sensorimoteur du bûcheron privilégie certaines résistances du bois, la densité du matériau, la configuration du terrain et les conditions pratiques de la coupe.
-
-Le botaniste est orienté vers d'autres différences : nervure foliaire, structure florale, organisation des tissus, développement de la plante.
-
-Avant même la description scientifique ou technique, leurs organismes sont engagés dans des couplages différents avec le même milieu.
-
-La description vient ensuite stabiliser, inscrire et organiser des différences déjà rencontrées, discriminées et orientées dans une pratique.
-
-Le patient aux urgences
-
-La pâleur, la sudation, une variation du rythme cardiaque ou une modification respiratoire constituent des différences rencontrées dans le couplage organisme-milieu et peuvent déclencher des réponses physiologiques et comportementales.
-
-Elles peuvent être discriminées par différents systèmes sensoriels et intégrées dans une orientation pratique.
-
-Elles ne deviennent toutefois pas automatiquement un « choc septique » ou une « urgence vitale ».
-
-Ces qualifications supposent leur inscription dans un dispositif clinique : dossier, mesures, catégories diagnostiques, protocoles et critères de décision.
-
-Le passage de l'affection et de la discrimination à la qualification est donc médié par des opérations descriptives et normatives.
-
-« Cette personne est mauvaise »
-
-Des frictions sociales, des agressions physiques ou des comportements hostiles constituent des événements et des différences rencontrées dans une situation.
-
-Ils peuvent affecter, orienter et provoquer des réponses chez les personnes concernées.
-
-Mais transformer ces épisodes localisés en une essentialisation :
-
-«« cette personne est mauvaise par nature »»
-
-constitue une confusion de niveau.
-
-Une qualification morale située est transformée en propriété supposée intrinsèque et stable de l'organisme.
-
-L'audit doit alors reconstruire la chaîne qui a permis cette réification au lieu de traiter la qualification morale comme une donnée biologique.
-
----
-
-7. Vigilances d'audit et confusions de niveaux
-
-L'audit d'une pratique descriptive doit veiller à plusieurs distinctions.
-
-1. Ne pas confondre variation brute et différence rencontrée
-
-Une variation physique peut exister indépendamment de toute rencontre.
-
-La différence rencontrée suppose un couplage effectif dans lequel cette variation peut affecter l'organisme.
-
-2. Ne pas confondre sensibilité et sentience
-
-La sensibilité désigne la capacité d'être affecté.
-
-La sentience ajoute la dimension selon laquelle certaines affections acquièrent une valence pour l'organisme.
-
-Toutes les sensibilités ne doivent donc pas être immédiatement décrites dans les termes d'une expérience consciente ou réflexive.
-
-3. Ne pas confondre sentience et normativité
-
-Qu'une différence compte pour un organisme ne signifie pas encore qu'elle constitue une raison.
-
-La sentience appartient au plan pré-normatif du couplage ; la normativité discursive relève de KIN.
-
-4. Ne pas confondre attention organique et attention consciente
-
-L'attention organique désigne une orientation fonctionnelle du couplage.
-
-Elle ne suppose ni représentation explicite, ni réflexion, ni intention consciente.
-
-5. Ne pas confondre différence rencontrée et différence discriminée
-
-Une différence peut affecter un organisme sans être encore différenciée selon une opération sensorimotrice déterminée.
-
-La discrimination constitue une transformation fonctionnelle de la rencontre, non sa condition originaire.
-
-6. Ne pas confondre différence et catégorie
-
-La différence rencontrée ne contient aucun nom, aucun concept et aucune règle d'inférence.
-
-Elle ne devient une catégorie qu'au terme de médiations supplémentaires.
-
-7. Expliciter les médiations de la chaîne
-
-Il faut éviter tout passage direct du comportement biologique à la qualification morale ou juridique.
-
-Entre les conditions causales et la qualification normative peuvent intervenir sensibilité, sentience, attention, discrimination, coordination, inscription, communication et configuration descriptive.
-
-Ces médiations n'ont pas pour fonction de « produire » mécaniquement KIN à partir de PROTO. Elles rendent possible une reconstruction non réductionniste de leur articulation.
-
----
-
-Synthèse finale
-
-Ce que cette page établit
-
-La définition de la différence rencontrée comme première différenciation fonctionnelle du couplage organisme-milieu, ainsi que les principales médiations par lesquelles une différence peut affecter, acquérir une valence, orienter l'activité, être discriminée, coordonner l'action, être inscrite et devenir finalement qualifiable.
-
-Elle établit également la distinction fonctionnelle entre sensibilité, sentience, attention organique et discrimination, sans les constituer en niveaux ontologiques séparés.
-
-Le cas de l'empathie montre enfin comment ces dimensions pré-sémiotiques peuvent fournir des conditions causales et sentientes auxquelles une communauté pourra ultérieurement attribuer une qualification normative en KIN.
-
-Ce qu'elle suppose
-
-Le principe du couplage organisme-environnement, le primat perception-action, la sensibilité différentielle des organismes et la distinction entre l'espace des causes et l'espace des raisons.
-
-Ce qu'elle rend possible
-
-L'analyse rigoureuse du passage du pré-sémiotique au discursif, l'étude de la sentience comme dimension pré-normative du couplage, le diagnostic des réductions naturalistes et des projections idéalistes, ainsi que l'audit des médiations par lesquelles des différences rencontrées deviennent des différences descriptibles et éventuellement qualifiées.
-
----
-
-Protokin 2026 — version 26.08.081
+- [Introduction générale](fr/introduction-generale.md)
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
+- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md)
+- [Configuration rencontrée](fr/configuration-rencontree.md)
+- [Configuration descriptive](fr/configuration-descriptive.md)
+- [Distinguer](fr/distinguer.md)
