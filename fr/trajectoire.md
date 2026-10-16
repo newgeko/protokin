@@ -1,173 +1,166 @@
-# Page : trajectoire.md
-
-### Étape préalable obligatoire : Analyse architecturale de la page
-
-#### 1. Fonction unique de la page
-Cette page existe pour établir la notion de **trajectoire descriptive** en tant qu'organisation diachronique et modale des transformations normatives, catégorielles et matérielles par lesquelles passe une description au cours de son histoire au sein des pratiques collectives.
-
-#### 2. Problème conceptuel
-Quel problème théorique rend cette page nécessaire ?
-> **Comment reconstruire le mouvement historique et évolutif d'une description au sein de l'espace des raisons sans la réduire à une simple succession chronologique d'événements contingents (chronologie brute) ni à un enchaînement déterministe de causes physiques ou logiques orientées vers un progrès nécessaire (illusion téléologique) ?**
-
-#### 3. Objet propre
-*   **Cette page traite de** : la structure diachronique des descriptions, l'enchaînement ordonné de leurs mutations, continuités, ruptures, transitions et bifurcations temporelles sous l'effet du scorekeeping déontique et des contraintes matérielles.
-*   **Cette page ne traite pas de** : la cinétique temporelle ou la vitesse du changement (objet de la page *Allure*), ni de l'accumulation sédimentaire brute des traces matérielles (objet de la page *Sédimentation*).
-
-#### 4. Statut conceptuel
-Il s'agit d'un **concept interne à Protokin** appartenant à la section **06 — Temporalité** de la métathéorie.
-
-#### 5. Dépendances fonctionnelles
-##### Cette page suppose :
-*   *La description*
-*   *La configuration descriptive*
-*   *La stabilisation et l'effet cliquet*
-*   *La position épistémique du locuteur*
-##### Cette page rend possible :
-*   *L'allure*
-*   *L'historicité*
-*   *La sédimentation*
-*   *Les transitions descriptives*
-*   *L'audit des trajectoires*
-
-#### 6. Frontières conceptuelles
-Cette page ne doit pas établir la notion d'*allure* (développée dans la page `allure.md`) ni celle de *sédimentation* (développée dans `sedimentation.md`), car celles-ci décrivent respectivement la cinétique temporelle de la trajectoire et le mode d'accumulation des traces.
-
----
-
-# La trajectoire descriptive — La diachronie des pratiques descriptives et la succession des réarticulations normatives
+# Trajectoire descriptive — Reconstruire un parcours de transformations
 
 ## Fonction
-Dans l'architecture de Protokin, la **trajectoire descriptive** désigne la séquence diachronique des transformations, des réarticulations inférentielles et des stabilisations successives par laquelle une configuration ou un régime de description évolue à l'intérieur d'une pratique collective. Elle constitue l'opérateur analytique permettant de reconstruire la dimension temporelle et génétique de l'enquête, en montrant comment les descriptions ne sont pas seulement produites dans un présent, mais possèdent une histoire de sédimentation et d'irréversibilité relative.
 
----
+La **trajectoire descriptive** désigne le parcours de transformations qu’une enquête reconstruit dans l’histoire d’une description, d’une configuration descriptive ou d’une pratique.
 
-## Problème conceptuel inaugural
-L'analyse philosophique classique de la connaissance et du langage, particulièrement dans ses variantes représentationnalistes et analytiques statiques, tend à appréhender les énoncés descriptifs comme des propositions intemporelles ou des structures synchroniques dont la validité s'évalue dans un présent logique pur. Face à l'histoire, elle oscille alors entre deux écueils symétriques : d'une part, une **réduction chronologique brute** qui se borne à lister des dates et des événements externes sans intelligibilité sémantique (l'histoire des sciences comme catalogue de faits) ; d'autre part, une **illusion téléologique (ou progrès linéaire)** qui reconstruit le devenir conceptuel comme une convergence nécessaire et irrésistible vers la révélation finale de la réalité en soi.
+Elle permet d’examiner ce qui change, ce qui se maintient, les réorganisations successives et les relations que l’on peut établir entre différents états d’une description. Elle ne consiste pas seulement à comparer un état initial et un état final : elle cherche à reconstruire, dans la mesure où les éléments disponibles le permettent, le parcours qui les relie.
 
-Dès lors, le problème conceptuel inaugural est le suivant :
-> **Comment reconstruire le mouvement évolutif et historique d'une description au sein de l'espace des raisons sans la réduire à une simple contingence factuelle (chronologie brute) ni à un enchaînement déterministe de vérités progressives (téléologie rationnelle) ?**
+La question directrice est la suivante :
 
-Protokin dissout ce problème en posant que la rationalité des descriptions n'est ni figée dans l'éternité logique, ni flottante dans l'arbitraire historique. Elle possède une **trajectoire** : un parcours de transformations contraint par les choix inférentiels passés (effet cliquet), les structures matérielles d'inscription (supports) et les nécessités d'ajustement face aux résistances du milieu rencontrées par le collectif de locuteurs.
+**Quelles transformations peut-on reconstruire dans le parcours d’une description, et sur quels éléments cette reconstruction repose-t-elle ?**
 
----
+La trajectoire est un objet de reconstruction, non une évolution nécessaire vers un résultat prédéterminé. Elle ne suppose ni continuité parfaite, ni progrès, ni orientation unique.
 
-## Définition fonctionnelle
-Dans l'architecture métathéorique de Protokin, on appelle **trajectoire descriptive** :
-> **La séquence ordonnée et orientée des transformations, des réarticulations inférentielles, des bifurcations modales et des stabilisations successives par lesquelles passe une configuration descriptive au cours de son histoire pratique, déterminant à chaque étape le champ des possibles sémantiques accessibles à une communauté de locuteurs.**
+## 1. Problème : reconstruire les transformations
 
-De cette définition découlent trois principes directeurs pour l'enquête :
-*   **L'historicité des engagements :** Toute description formulée au présent hérite des obligations d'un passé sédimenté. La trajectoire retrace le fil de ces dettes et habilitations déontiques accumulées au fil des enquêtes.
-*   **L'irréversibilité relative :** Les choix descriptifs et les stabilisations institutionnelles passées ferment de manière asymétrique certaines options d'évolution future tout en en ouvrant de nouvelles, augmentant drastiquement le coût logique et matériel d'un retour aux configurations antérieures.
-*   **L'organisation modale des bifurcations :** Une trajectoire ne se limite pas à la description de ce qui est de fait advenu. Elle doit reconstituer de façon modale les alternatives disponibles, les chemins non pris, les incommensurabilités et les bifurcations critiques qui ont jalonné l'enquête collective.
+Une description peut être reprise, précisée, modifiée, contestée ou abandonnée au cours d’une pratique. Son vocabulaire peut demeurer stable alors que ses usages et ses critères changent. À l’inverse, une modification de formulation ne suffit pas toujours à établir une transformation de sa fonction.
 
----
+La comparaison de descriptions prises à deux moments différents permet de repérer certains écarts. Elle ne suffit pas nécessairement à déterminer comment ces écarts sont apparus, quelles continuités ont été maintenues ou quels événements et dispositifs ont contribué aux changements.
 
-## Dimensions principales de la trajectoire
-La trajectoire descriptive s'analyse à travers quatre dimensions fonctionnelles coordonnées :
+Reconstruire une trajectoire consiste à examiner ces transformations à partir des éléments disponibles : descriptions successives, documents, décisions, pratiques, critères explicités ou changements de contexte pertinents.
 
-### 1. La sédimentation inférentielle (Path Dependency)
-La trajectoire s'appuie sur l'effet cliquet. Plus une description est reprise et mobilisée au sein d'une pratique, plus la densité de ses engagements et de ses incompatibilités s'accroît. Cette densification trace une ligne de dépendance historique : les décisions futures d'une communauté de locuteurs sont contraintes par l'armature logique sédimentée qu'elles ont héritée de la trajectoire.
+Cette reconstruction peut rester partielle. Des périodes peuvent être mal documentées, des transitions demeurer incertaines ou plusieurs interprétations du parcours rester possibles. Ces limites font partie du résultat de l’enquête ; elles ne doivent pas être comblées par une continuité supposée.
 
-### 2. Le couplage des mémoires : organique et collective
-La trajectoire d'une description n'est pas une abstraction désincarnée. Elle se matérialise à la croisée de deux conditions temporelles de l'agentivité :
-*   *La mémoire organique (somatique, PROTO) :* les habitudes perceptives, les coordinations sensorimotrices et les compétences gestuelles incorporées par l'apprentissage des locuteurs.
-*   *La mémoire collective (sémantique, KIN) :* les archives documentaires, les bases de données, les classifications institutionnelles et les rituels publics de validation.
-La trajectoire est le produit de leur enchevêtrement : la mémoire collective éduque et discipline la mémoire organique au cours du temps.
+## 2. Définition et conditions de reconstruction
 
-### 3. Les points de bifurcation critique
-Le mouvement d'une trajectoire est marqué par la non-linéarité. Lorsque les conditions matérielles (supports) ou normatives d'un régime descriptif entrent en tension insurmontable avec les résistances du milieu (anomalies), le système d'engagements sature. La trajectoire rencontre alors une **bifurcation** : le point critique où le collectif doit réviser ses critères, abandonner certaines inférences et s'orienter vers une nouvelle configuration sous peine d'insolvabilité sémantique.
+On appelle **trajectoire descriptive** la reconstruction du parcours de transformations d’une description, d’une configuration descriptive ou d’une pratique, à partir des continuités et des différences que les éléments disponibles permettent d’établir.
 
-### 4. L'ouverture modale
-Une trajectoire descriptive protokinienne n'est pas une simple ligne continue de faits. Elle possède une **épaisseur modale** : elle intègre l'analyse des hypothèses abandonnées, des controverses avortées et des traductions impossibles qui ont dessiné l'espace de raisons d'une période donnée, évitant ainsi le piège du rétrospectivisme téléologique.
+Une telle reconstruction demande de préciser :
 
----
+- **L’objet suivi** : une description, une catégorie, une configuration descriptive, une pratique ou un ensemble délimité de descriptions en interaction.
+- **Les états ou épisodes comparés** : les occurrences, documents, usages ou situations à partir desquels les transformations sont examinées.
+- **Les dimensions suivies** : formulation, fonction pratique, critères d’application, engagements associés, supports ou conditions d’usage.
+- **Les éléments de liaison** : les indices qui permettent de soutenir qu’un changement appartient au parcours étudié plutôt qu’à une simple juxtaposition d’occurrences.
 
-## Distinctions conceptuelles nécessaires
+Ces dimensions ne doivent pas toutes être examinées dans chaque enquête. Leur pertinence dépend du problème rencontré.
 
-### Trajectoire descriptive et Chronologie simple
-La différence porte sur la nature de l'enchaînement temporel. La **chronologie** enregistre une succession factuelle et neutre d'événements extérieurs (dates, publications, décisions politiques) sans expliciter leur cohérence sémantique. La **trajectoire**, quant à elle, cartographie la généalogie interne et la réorganisation logique des engagements, des incompatibilités et des conditions de recevabilité de l'espace des raisons. 
-*La chronologie liste des faits ; la trajectoire reconstruit la métamorphose des règles de justification.*
+Une trajectoire peut être reconstruite à partir d’une documentation incomplète, mais la portée de ses conclusions doit alors être proportionnée aux éléments disponibles. La succession de deux descriptions ne démontre pas, à elle seule, qu’une transformation précise a conduit de l’une à l’autre.
 
-### Trajectoire descriptive et Allure
-La différence porte sur la forme cinétique du mouvement. La **trajectoire** désigne le parcours et la succession logique des étapes par lesquelles passe une configuration descriptive (elle répond à la question : *« Par quelles réorganisations conceptuelles cette description est-elle passée ? »*). L'**allure** qualifie la dynamique cinétique, le rythme et le profil de vitesse de ce parcours (allure cumulative, inertielle, critique ou oscillatoire ; elle répond à la question : *« Selon quel rythme et sous quelle pression temporelle ces transformations se produisent-elles ? »*).
-*La trajectoire est le chemin ; l'allure est la signature temporelle de la vitesse d'évolution sur ce chemin.*
+## 3. Continuités, transformations et ruptures
 
-### Trajectoire descriptive et Progrès téléologique
-Le progrès téléologique présume que les descriptions convergent de manière linéaire vers une copie enfin exacte et transparente d'un réel pré-découpé. La **trajectoire descriptive** refuse cette illusion métaphysique. Elle montre que les transformations s'opèrent par des réorganisations immanentes sous contraintes (techniques, sociales, normatives), chaque nouvelle stabilisation résolvant des tensions locales au prix de l'instauration de nouvelles limites et de nouvelles zones de silence.
+La reconstruction d’une trajectoire distingue plusieurs types de phénomènes susceptibles de coexister.
 
----
+### 3.1. Continuité
 
-## Articulation dans l'architecture Protokin
+Une continuité peut être établie lorsque certains éléments d’une description ou d’une pratique sont maintenus au cours des transformations : une catégorie reste identifiable, une procédure demeure en usage ou certains critères continuent d’organiser les décisions.
 
-Au sein de l'axe temporel de Protokin, la trajectoire descriptive s'insère comme le connecteur diachronique fondamental entre la stabilisation des régimes et la cinétique de leurs évolutions :
+Cette continuité doit être précisée. Le maintien d’un même terme ne prouve pas que sa fonction, ses critères d’application ou les conclusions qu’il autorise soient restés identiques.
 
-```text
-Maintien & Stabilisation (consolidation immanente des descriptions)
-        ↓
-Effet cliquet (asymétrie cumulative des coûts de révision)
-        ↓
-TRAJECTOIRE DESCRIPTIVE (reconstruction du parcours diachronique des normes)
-        ↓
-Allure (détermination de la signature cinétique et rythmique de la trajectoire)
-        ↓
-Transitions et réorganisations descriptives (opérations de reconfiguration globale)
-        ↓
-Audit des trajectoires (évaluation critique des inerties et des pertes inférentielles)
-```
+**Continuité lexicale ≠ continuité fonctionnelle.**
 
-Dans cette armature, la trajectoire fournit le matériau longitudinal indispensable à la conduite clinique de l'audit et à l'auto-application réflexive de la métathéorie.
+### 3.2. Transformation
 
----
+Une transformation peut concerner la formulation d’une description, les situations auxquelles elle s’applique, sa fonction dans une pratique, les critères qui permettent de l’évaluer ou les conséquences qui lui sont associées.
 
-## Développement progressif : la logique diachronique de l'enquête
+Ces dimensions peuvent évoluer ensemble ou séparément. Une modification de formulation peut accompagner un changement de fonction, mais elle peut aussi laisser cette fonction largement inchangée. Inversement, une description dont le vocabulaire varie peu peut être mobilisée selon de nouveaux critères.
 
-La reconstruction d'une trajectoire descriptive interdit à l'enquêteur de considérer une description actuelle comme une évidence naturelle ou un donné immédiat. L'explicitation de la trajectoire montre que les catégories de l'espace des raisons (KIN) s'adossent à des infrastructures héritées.
+L’enquête doit donc préciser la dimension transformée plutôt que de traiter toute différence comme une transformation générale de la description.
 
-Le locuteur n'est jamais le propriétaire souverain de sa mémoire descriptive. Lorsqu'il prend position au présent, sa parole s'énonce depuis un nœud d'engagements dont la trajectoire diachronique définit les chemins inférentiels autorisés et les incompatibilités à respecter. L'effet cliquet agit alors comme un réducteur de contingence : il scelle des traditions d'enquêtes réussies dans des formulaires, des instruments, des langages et des institutions, fluidifiant l'usage des concepts établis tout en pénalisant financièrement et logiquement l'invention d'alternatives descriptives.
+### 3.3. Rupture et bifurcation
 
-La trajectoire d'une description n'est pas close : elle est traversée par des **tensions de second ordre**. Lorsque les supports d'inscription s'avèrent obsolètes ou que les grilles de redevabilité d'un régime masquent des anomalies vitales du milieu éprouvé (PROTO), la trajectoire ralentit ou s'affaisse dans l'allure inertielle, préparant le terrain pour la rupture d'équilibre et le saut transductif vers une nouvelle configuration.
+Une rupture désigne une discontinuité que la reconstruction permet de distinguer dans le parcours. Une bifurcation désigne une situation dans laquelle plusieurs orientations possibles peuvent être envisagées ou documentées.
 
----
+Ces termes n’impliquent pas nécessairement une crise, une rupture irréversible ou un changement de régime complet. Ils ne doivent être employés que si les éléments examinés permettent de préciser ce qui est interrompu, modifié ou réorienté.
 
-## Éclairage par les fils rouges pédagogiques
+L’existence d’une bifurcation ne prouve pas que toutes les possibilités alternatives étaient réellement accessibles aux acteurs. Cette conclusion demande des éléments propres au contexte étudié : options formulées, décisions discutées, contraintes identifiées ou pratiques concurrentes attestées.
 
-### 1. Le patient aux urgences
-La trajectoire du patient montre comment une même situation matérielle (le corps souffrant, PROTO) est prise en charge par une cascade de trajectoires descriptives hétérogènes. La plainte brute première est traduite sur une feuille de tri par l'infirmière (première étape de la trajectoire, échelle locale). Elle se prolonge ensuite dans la trajectoire du dossier médical numérisé (support externe), s'enrichit des tracés d'électrocardiogramme (configuration sémiotique) et s'articule dans le diagnostic du cardiologue (régime clinique spécialisé). L'audit Protokin retrace cette trajectoire pour s'assurer qu'aucun glissement ou télescopage de niveaux (par exemple, l'écrasement de la trajectoire de soin par la trajectoire de facturation administrative) ne vienne corrompre la rationalité de la décision clinique.
+### 3.4. Continuité et changement peuvent coexister
 
-### 2. « Cette personne est dangereuse »
-La dangerosité n'est pas une qualité physique immuable ; elle est le produit d'une trajectoire descriptive institutionnelle et procédurale lourde. La trajectoire de cette qualification commence souvent par un signalement comportemental local, s'objective par l'accumulation de rapports d'expertises psychiatriques et de notes de police (supports documentaires sédimentés), et se cristallise dans une décision judiciaire coercitive de restriction de liberté (régime légal). L'analyse de sa trajectoire permet d'auditer l'effet cliquet qui fige l'individu sous une étiquette rigide, effaçant sa plasticité comportementale future (zone de silence descriptive).
+Une trajectoire ne se divise pas nécessairement en périodes entièrement stables séparées par des ruptures nettes. Certains éléments peuvent se maintenir pendant que d’autres changent. Des modifications peuvent être progressives, localisées ou inégalement documentées.
 
-### 3. Le botaniste et le bûcheron
-Face au même arbre, leurs descriptions suivent deux trajectoires distinctes de sédimentation. Le botaniste inscrit sa description d'*Abies alba* dans une trajectoire taxonomique longue, contrainte par les codes internationaux de nomenclature phylogénétique et les flores de référence publiées. Le bûcheron inscrit sa description dans une trajectoire technique locale, régie par des savoir-faire corporels incorporés et des exigences d'exploitation forestière transmises corporativement. Leurs trajectoires ne sont pas concurrentes ; elles expriment l'autonomie et l'étanchéité de leurs régimes respectifs de justification.
+Il faut donc éviter de réduire le parcours à une opposition générale entre stabilité et changement. La reconstruction gagne à préciser ce qui se transforme, ce qui demeure et les éléments qui soutiennent chacune de ces qualifications.
 
----
+## 4. Les contraintes héritées et les possibilités de révision
 
-## Limites et vigilances d'audit
+Les transformations d’une description s’inscrivent dans des conditions qui peuvent faciliter, limiter ou orienter les changements ultérieurs.
 
-Lors de l'audit d'une trajectoire, l'analyste de second ordre doit surveiller trois pathologies majeures :
-*   **L'illusion de l'origine absolue (ou amnésie descriptive) :** Croire qu'un locuteur peut produire une description libre, transparente et neutre du monde à coût nul, en occultant le fait que toute parole s'inscrit au sein d'une trajectoire et d'une mémoire collective qui la précèdent et la configurent.
-*   **La dérive continuiste (l'illusion d'identité lexicale) :** L'erreur consistant à croire qu'un concept conserve les mêmes engagements et les mêmes critères de validité tout au long de son histoire simplement parce qu'il conserve le même nom. *Conserver le lexique ne garantit pas la continuité de la fonction normative.*
-*   **Le déterminisme historique (ou fatalisme de la trajectoire) :** Considérer qu'une trajectoire descriptive s'impose de façon nécessaire et mécanique aux collectifs. Protokin réaffirme que toute sédimentation reste **relativement révisable** par l'exercice de l'enquête et de la réflexivité publique de la communauté d'évaluation.
+Des décisions antérieures, des règles d’usage, des supports documentaires, des dispositifs techniques ou des habitudes acquises peuvent contribuer au maintien d’une configuration. Ils peuvent également rendre certaines modifications plus faciles que d’autres.
 
----
+Ces contraintes doivent être examinées à partir de la situation considérée. Leur présence ne signifie pas que la trajectoire était déterminée à l’avance. Une contrainte peut peser sur les options disponibles sans en fixer une seule issue.
 
-## Synthèse finale
+Il convient notamment de distinguer :
 
-### Ce que cette page établit
-Cette page établit le concept de **trajectoire descriptive** comme la reconstruction diachronique, ordonnée et modale des réarticulations normatives et matérielles d'une configuration de raisons au fil des enquêtes collectives.
+- **La stabilisation**, qui concerne le maintien d’une configuration dans une pratique.
+- **La sédimentation**, qui concerne l’accumulation et la conservation de traces matérielles, documentaires ou pratiques.
+- **L’effet cliquet**, qui concerne une asymétrie dans les possibilités ou les coûts de retour et de révision.
+- **La trajectoire**, qui concerne le parcours de transformations reconstruit.
 
-### Ce qu'elle suppose
-Cette page suppose établis :
-*   La *description*
-*   La *configuration descriptive*
-*   La *stabilisation et l'effet cliquet*
-*   Le *locuteur* et sa *position épistémique*
+Ces phénomènes peuvent contribuer à expliquer certains aspects d’une trajectoire, mais aucun ne se déduit automatiquement de sa seule reconstruction. Une trajectoire qui présente peu de changements ne prouve pas, à elle seule, qu’un effet cliquet est à l’œuvre ; une succession de modifications ne démontre pas davantage une accumulation irréversible.
 
-### Ce qu'elle rend possible
-Cette page rend possibles :
-*   L'analyse de **l'allure temporelle** des révisions (cinétique).
-*   L'étude des **strates temporelles** et des **irréversibilités relatives**.
-*   Le diagnostic de l'**inertie normative** et de la **réification** lors de l'audit.
-*   Le traçage méthodique des **transitions descriptives** globales au sein des collectifs d'enquête.
+## 5. Trajectoire et chronologie
 
----
+Une chronologie ordonne des événements selon des repères temporels. Elle peut enregistrer des publications, des décisions, des changements de procédure ou des occurrences d’usage.
+
+Une trajectoire mobilise éventuellement cette chronologie, mais cherche en plus à établir quelles transformations peuvent être reconstruites entre les événements retenus. Elle examine les continuités, les différences et les relations pertinentes pour le problème étudié.
+
+La chronologie n’est donc pas une forme insuffisante qu’il faudrait toujours dépasser. Dans certains cas, elle constitue le résultat pertinent de l’enquête ; dans d’autres, elle fournit les matériaux à partir desquels une reconstruction plus détaillée devient possible.
+
+**Chronologie ≠ trajectoire**, mais une trajectoire peut s’appuyer sur une chronologie.
+
+Il faut également distinguer l’ordre temporel d’une relation explicative. Le fait qu’une modification survienne après une décision ne suffit pas à démontrer que cette décision l’a causée. L’explication causale demande un examen distinct des relations et des conditions de production pertinentes.
+
+## 6. Trajectoire et allure
+
+La trajectoire concerne le parcours des transformations reconstruites. L’**allure** qualifie la manière dont ces transformations se distribuent dans le temps, pour une période et une échelle d’analyse déterminées.
+
+Une trajectoire peut ainsi comporter des transformations successives espacées, une période de faible changement ou une concentration de modifications. Ces caractéristiques relèvent de la qualification de son allure.
+
+L’allure ne remplace pas la reconstruction du parcours. Réciproquement, connaître certains épisodes d’une trajectoire ne suffit pas à établir leur distribution temporelle générale.
+
+Pour qualifier cette distribution, voir [Allure](allure.md).
+
+## 7. Portée et limites de la reconstruction
+
+La reconstruction d’une trajectoire permet de proposer un parcours argumenté des transformations d’une description ou d’une pratique. Elle peut mettre au jour des continuités, des changements de fonction, des révisions de critères ou des discontinuités qui ne seraient pas visibles dans la seule comparaison de deux états.
+
+Elle peut également contribuer à formuler des hypothèses sur les contraintes qui ont pesé sur le parcours ou sur les alternatives qui ont été envisagées. La force de ces hypothèses dépend toutefois des éléments disponibles.
+
+Une trajectoire reconstruite n’établit pas automatiquement :
+
+- que chaque transformation résulte de la précédente ;
+- que les acteurs disposaient d’une vue d’ensemble du parcours ;
+- que les possibilités non réalisées étaient effectivement accessibles ;
+- que les transformations suivent une direction nécessaire ;
+- que la description finale est plus adéquate ou mieux justifiée que les précédentes.
+
+Une reconstruction peut elle-même être révisée lorsque de nouveaux documents, de nouvelles comparaisons ou une redélimitation du problème font apparaître des éléments négligés.
+
+La trajectoire ne constitue donc ni une explication causale complète, ni une évaluation normative, ni une histoire exhaustive de son objet.
+
+## 8. Exemple : la transformation d’une qualification administrative
+
+Supposons qu’une administration utilise pendant plusieurs années une même qualification pour classer des situations. Des dossiers successifs montrent ensuite une modification des critères d’application, puis l’apparition d’une nouvelle catégorie.
+
+Une reconstruction de trajectoire cherchera à distinguer :
+
+- la période durant laquelle la qualification initiale est attestée ;
+- les éventuels changements de ses critères ou de ses usages ;
+- les documents ou décisions qui permettent de situer ces changements ;
+- la relation entre l’ancienne et la nouvelle catégorie ;
+- les aspects du parcours qui restent indéterminés faute de données suffisantes.
+
+Le maintien du même terme ne prouve pas que ses critères sont demeurés constants. L’apparition d’une nouvelle catégorie ne démontre pas non plus qu’elle a entièrement remplacé l’ancienne dans toutes les pratiques.
+
+Enfin, la succession de décisions et de documents ne suffit pas à établir les causes de la transformation ni à justifier les catégories successives. Ces questions demandent des examens supplémentaires.
+
+Cet exemple illustre la fonction de la trajectoire : reconstruire un parcours étayé, tout en séparant les transformations établies des relations explicatives ou des évaluations qui restent à examiner.
+
+## Synthèse
+
+La trajectoire descriptive est la reconstruction du parcours de transformations d’une description, d’une configuration descriptive ou d’une pratique. Elle permet d’examiner les continuités, les changements et les discontinuités à partir d’éléments qui doivent pouvoir être discutés.
+
+Elle ne présuppose ni une histoire linéaire, ni un progrès nécessaire, ni une détermination complète du futur par les états antérieurs. Ses résultats restent proportionnés aux matériaux et aux relations que l’enquête permet d’établir.
+
+La règle centrale est la suivante :
+
+**Reconstruire un parcours ne suffit ni à expliquer ses transformations, ni à démontrer leur nécessité, ni à justifier leur résultat.**
+
+Pour poursuivre :
+
+- [Allure](fr/allure.md) — Qualifier la distribution temporelle des transformations d’une trajectoire.
+- [Stabilisation](fr/stabilisation.md) — Examiner le maintien d’une configuration dans une pratique.
+- [Sédimentation](fr/sedimentation.md) — Examiner l’accumulation et la conservation des traces.
+- [Historicité](fr/historicite.md) — Examiner le statut historique des descriptions et de leurs critères.
+- [Temporalité descriptive](fr/temporalite-descriptive.md) — Examiner les dimensions temporelles des pratiques descriptives.
+- [Table des matières](fr/tdm.md) — Replacer cette page dans l’organisation du corpus.
