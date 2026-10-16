@@ -30,7 +30,7 @@ Une différence rencontrée peut ne laisser aucune trace identifiable. Inverseme
 
 La différence rencontrée et la trace ne se distinguent donc pas simplement comme deux moments successifs : elles remplissent des fonctions différentes dans l’examen d’une situation.
 
-Voir [Différence rencontrée](difference-rencontree.md).
+Voir [Différence rencontrée](fr/difference-rencontree.md).
 
 ### 3.2. Trace et indice
 
@@ -40,7 +40,7 @@ Une trace peut ainsi servir d’indice lorsqu’une pratique lui attribue une pe
 
 Le passage de la trace à l’indice ne correspond donc pas à une transformation automatique de la matière en signification. Il dépend de la question examinée, des relations retenues et des usages dans lesquels l’élément est mobilisé.
 
-Voir [Indice](indice.md).
+Voir [Indice](fr/indice.md).
 
 ### 3.3. Trace et support descriptif
 
@@ -50,7 +50,7 @@ Une même trace peut être reproduite sur plusieurs supports. Un support peut é
 
 La trace ne doit donc pas être confondue avec le dispositif matériel ou technique qui la rend accessible. L’existence d’un support ne garantit pas davantage que les inscriptions qu’il conserve soient complètes, accessibles ou correctement interprétées.
 
-Voir [Support descriptif](support-descriptif.md).
+Voir [Support descriptif](fr/support-descriptif.md).
 
 ### 3.4. Trace et sédimentation
 
@@ -58,7 +58,7 @@ La **sédimentation** concerne la conservation, l’accumulation et la transmiss
 
 L’accumulation de traces ne garantit pas la continuité de leur fonction. Une inscription peut être conservée alors que la catégorie dans laquelle elle avait été produite a changé, ou que les critères permettant de l’interpréter sont devenus contestables.
 
-Voir [Sédimentation](sedimentation.md).
+Voir [Sédimentation](fr/sedimentation.md).
 
 ## 4. Articulation avec l’enquête
 
