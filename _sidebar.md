@@ -38,7 +38,7 @@
   - [Assertion](fr/assertion.md)
   - [Locuteur](fr/locuteur.md)
   - [Auditeur](fr/auditeur.md)
-  - [Engagements descriptifs](fr/engagements-descriptifs.md)
+  - [Engagement descriptif](fr/engagement-descriptif.md)
   - [Le débordement pragmatique de l’assertion](fr/le-debordement-pragmatique-de-l-assertion.md)
 
 - **Inférence et espace des raisons**
