@@ -1,228 +1,189 @@
-Identifier un régime descriptif
+# Identifier un régime descriptif
 
-1. Objet de l’examen
+## 1. Objet de l’examen
 
-Identifier un régime descriptif consiste à examiner les critères, les distinctions et les pratiques qui organisent la production, l’évaluation et la révision des descriptions dans une situation donnée.
+Identifier un régime descriptif consiste à examiner les indices et les critères qui permettent de caractériser l’organisation d’une pratique descriptive.
 
-Cette opération intervient lorsqu’une difficulté descriptive conduit à s’interroger sur les règles effectivement mobilisées : plusieurs personnes emploient-elles les mêmes critères ? Une qualification change-t-elle de portée selon la pratique concernée ? Des conclusions sont-elles défendues au moyen de critères qui ne répondent pas à la même question ?
+L’examen porte notamment sur les distinctions mobilisées, les conditions de correction des affirmations, les inférences admises et les moyens de produire, de vérifier ou de contester les descriptions.
 
-L’identification vise à rendre ces différences explicites. Elle ne consiste ni à attribuer automatiquement une étiquette à un discours, ni à classer définitivement une pratique dans une catégorie préétablie.
+Il vise à établir quels repères organisent effectivement une pratique, sans supposer qu’ils forment un ensemble homogène, explicite ou définitivement stabilisé.
 
-Elle constitue un instrument d’enquête, dont la pertinence et les résultats restent révisables.
+## 2. Problème
 
-2. Problème
+Un vocabulaire ne suffit pas à identifier un régime descriptif. Une même qualification peut remplir des fonctions différentes selon les pratiques ; inversement, des pratiques employant des termes différents peuvent partager certains critères.
 
-Un vocabulaire ne suffit pas à identifier le régime descriptif dans lequel une qualification prend son sens et sa portée.
+La présence d’un instrument, d’une règle écrite ou d’un vocabulaire spécialisé ne suffit pas davantage. Il faut déterminer le rôle de ces éléments dans les descriptions produites et dans leur évaluation.
 
-Le terme « dangereux », par exemple, peut intervenir dans une évaluation médicale, une décision juridique, une procédure de sécurité ou une conversation ordinaire. Le mot est identique, mais les questions posées, les critères retenus et les conséquences pratiques peuvent différer.
+La question directrice est donc :
 
-Inversement, des pratiques peuvent employer des vocabulaires différents tout en partageant certains critères ou certaines opérations.
+**Quels indices permettent de caractériser les règles et les critères effectivement mobilisés dans une pratique descriptive, et jusqu’où ces indices autorisent-ils à distinguer un régime ?**
 
-L’identification doit donc dépasser le seul relevé lexical. Elle doit examiner comment les descriptions sont produites, utilisées, défendues et contestées dans la pratique considérée.
+## 3. Conditions d’application
 
-Le problème est le suivant :
-
-Comment caractériser les repères qui organisent une pratique descriptive sans réduire celle-ci à son vocabulaire, lui imposer une classification préalable ou supposer que ses critères forment un ensemble parfaitement homogène ?
-
-Cette question ne présuppose pas que toute pratique relève d’un régime unique et nettement délimité. L’identification peut faire apparaître des repères partagés, des différences locales, des tensions ou des contours encore indéterminés.
-
-3. Conditions d’application
-
-L’identification d’un régime devient pertinente lorsqu’un problème précis justifie d’examiner les conditions de recevabilité des descriptions.
+L’identification devient pertinente lorsqu’un problème conduit à examiner l’organisation d’une pratique plutôt que la seule formulation d’une description.
 
 Elle peut notamment être mobilisée lorsque :
 
-- une même qualification reçoit des évaluations différentes ;
-- des acteurs ne s’accordent pas sur les critères pertinents ;
-- une conclusion est contestée alors que son vocabulaire paraît partagé ;
-- une règle ou un critère est importé d’une pratique dans une autre ;
-- une description change de fonction selon son contexte d’utilisation ;
-- les conditions de validation d’une affirmation restent incertaines.
+- une même qualification donne lieu à des évaluations divergentes ;
+- les critères de correction ou de contestation restent incertains ;
+- une règle est appliquée différemment selon les situations ;
+- une description est transférée d’une pratique à une autre ;
+- les conclusions tirées d’une affirmation semblent dépasser ce qu’elle permet d’établir.
 
-Il n’est pas nécessaire de reconstituer l’ensemble d’une pratique avant de commencer. L’enquête peut partir d’une affirmation, d’une décision, d’un désaccord ou d’un cas particulier, puis élargir l’examen si les éléments recueillis le justifient.
+L’examen peut partir d’un cas limité. Il n’est pas nécessaire de reconstituer d’emblée toute la pratique : son périmètre peut être élargi si les indices recueillis le justifient.
 
-L’identification n’est donc ni un préalable universel à toute enquête ni une procédure à appliquer intégralement à chaque description.
+## 4. Procédure d’identification
 
-4. Démarche d’identification
+Les questions suivantes constituent des repères d’examen, non une séquence obligatoire.
 
-La démarche consiste à recueillir et à confronter des éléments pertinents pour le problème rencontré. Les questions suivantes constituent des repères d’examen, non une séquence obligatoire.
-
-4.1. Délimiter la situation examinée
+### 4.1. Délimiter le cas
 
 Préciser la description, la qualification ou la décision dont le statut pose problème.
 
-Il faut notamment distinguer :
+Distinguer ce qui a été affirmé, la situation concernée, la difficulté rencontrée et les pratiques impliquées. Cette délimitation reste révisable si les premières observations révèlent que le problème a été mal formulé.
 
-- ce qui a été affirmé ou inscrit ;
-- la situation à laquelle l’affirmation se rapporte ;
-- la difficulté qui motive l’examen ;
-- les acteurs et les pratiques directement concernés.
+### 4.2. Examiner les distinctions mobilisées
 
-Cette délimitation reste provisoire. L’examen peut conduire à reformuler le problème ou à élargir le cas étudié.
+Relever les catégories, les oppositions et les différences qui structurent la pratique.
 
-4.2. Examiner les distinctions mobilisées
+Il faut notamment examiner comment les catégories sont appliquées, quels cas elles rapprochent ou séparent, et si leur fonction varie selon les circonstances.
 
-Relever les catégories et les oppositions qui structurent la description.
+Le vocabulaire constitue un indice initial. Il ne permet pas, à lui seul, d’établir la nature du régime.
 
-Questions possibles :
+### 4.3. Rechercher les critères de correction
 
-- Quelles différences sont retenues ?
-- Comment les catégories sont-elles appliquées ?
-- Quels cas sont rapprochés, séparés ou exclus ?
-- Les mêmes termes conservent-ils leur fonction d’un contexte à l’autre ?
+Identifier ce qui permet de tenir une description pour acceptable, erronée, insuffisante ou contestable.
 
-Un vocabulaire constitue un premier indice, non une preuve suffisante. Il faut examiner ce que les catégories permettent effectivement de distinguer dans la pratique.
+Les critères peuvent s’appuyer sur des observations, des mesures, des documents, des règles professionnelles, des procédures institutionnelles ou des appréciations ordinaires.
 
-4.3. Rechercher les critères de correction
+Il convient de distinguer :
 
-Identifier les conditions dans lesquelles une description est tenue pour acceptable, erronée, insuffisante ou contestable.
+- les critères explicitement formulés ;
+- les critères effectivement appliqués ;
+- les raisons avancées pour défendre leur pertinence.
 
-Les critères peuvent notamment reposer sur des observations, des mesures, des documents, des règles professionnelles, des procédures institutionnelles ou des appréciations ordinaires.
+Une règle écrite ne détermine pas nécessairement les pratiques réelles. Inversement, des critères peuvent être appliqués sans être entièrement formulés.
 
-Il convient de demander :
+### 4.4. Examiner les inférences et les engagements
 
-- Qu’est-ce qui compte comme preuve ou comme objection ?
-- Qui peut contester la qualification, et au nom de quoi ?
-- Quelles erreurs sont reconnues et comment sont-elles corrigées ?
-- Les critères invoqués sont-ils effectivement appliqués dans les cas examinés ?
+Rechercher les conclusions associées aux descriptions et les règles qui autorisent les passages d’une affirmation à une autre.
 
-La présence d’une règle écrite ne garantit pas qu’elle détermine à elle seule les pratiques réelles. Inversement, des critères peuvent être appliqués sans être entièrement formulés.
+Quelles conclusions sont tirées ? Quelles prémisses ou règles supplémentaires sont nécessaires ? Quelles conséquences sont contestées ?
 
-4.4. Examiner les inférences et les engagements
+Il faut distinguer les conclusions effectivement tirées de celles que les engagements et les règles mobilisés autorisent. Une affirmation ne contient pas nécessairement, à elle seule, toutes les conséquences qu’une pratique permet d’en tirer.
 
-Rechercher les conclusions associées aux descriptions et les transitions admises entre les affirmations.
+### 4.5. Examiner les supports et les pratiques de validation
 
-Questions possibles :
+Identifier les supports, les instruments et les procédures qui interviennent dans la production, la conservation ou la vérification des descriptions.
 
-- Quelles conclusions sont tirées d’une qualification ?
-- Quelles conclusions sont considérées comme autorisées ?
-- Quelles prémisses ou règles supplémentaires sont nécessaires ?
-- Quelles conséquences sont contestées, et pour quelles raisons ?
+Un formulaire, une base de données, un instrument de mesure ou une procédure de certification peut contribuer à stabiliser certaines distinctions. Il faut cependant établir comment cet élément intervient dans la pratique, plutôt que lui attribuer d’emblée une fonction déterminante.
 
-Il faut distinguer les conclusions autorisées par les engagements, les règles et les prémisses mobilisés, les conclusions effectivement tirées et celles qui exigent un complément de justification.
+### 4.6. Examiner la contestation et la révision
 
-Une affirmation ne contient pas nécessairement, à elle seule, toutes les conclusions qu’une pratique permet d’en tirer. La portée inférentielle doit être reconstruite à partir des engagements et des règles pertinents.
+Lorsque cela est pertinent, déterminer qui peut produire, corriger ou contester les descriptions, selon quelles règles et avec quelles obligations de justification.
 
-4.5. Examiner les supports et les pratiques de validation
+Une pratique collective ne suppose ni un accord complet entre ses membres ni une application uniforme de ses critères. Les désaccords et les exceptions peuvent révéler des variations internes au régime plutôt que l’existence immédiate de régimes distincts.
 
-Les descriptions s’appuient souvent sur des supports matériels, techniques, documentaires ou corporels.
+## 5. Questions de contrôle
 
-Il peut s’agir, selon les cas, de formulaires, de dossiers, d’instruments de mesure, de bases de données, d’habitudes perceptives acquises ou de procédures de certification.
+Au cours de l’examen, les questions suivantes permettent de contrôler la caractérisation proposée.
 
-L’enquête cherche à déterminer :
+| Dimension | Question |
+|---|---|
+| Distinctions | Quelles différences la pratique retient-elle et comment les applique-t-elle ? |
+| Critères | Qu’est-ce qui compte comme preuve, erreur ou objection ? |
+| Inférences | Quelles conclusions sont autorisées, et sur quelles prémisses ? |
+| Supports | Quels instruments ou documents interviennent, et quel rôle jouent-ils ? |
+| Validation | Comment les descriptions sont-elles vérifiées, corrigées ou contestées ? |
+| Variations | Quels critères changent selon les cas, les acteurs ou les circonstances ? |
 
-- Quels supports interviennent dans la production ou la conservation des descriptions ?
-- Comment contribuent-ils à stabiliser certaines distinctions ?
-- Quelles opérations rendent une qualification vérifiable ou contestable ?
-- Quels acteurs peuvent produire, corriger ou valider les descriptions ?
+Ces questions ne constituent pas une grille exhaustive. Leur pertinence dépend du problème examiné.
 
-Ces supports ne déterminent pas automatiquement la signification ou la validité des descriptions. Leur rôle doit être établi dans la pratique étudiée.
+## 6. Éléments à recueillir
 
-4.6. Examiner les acteurs et les possibilités de contestation
+La caractérisation doit s’appuyer sur des éléments observables ou documentables, par exemple :
 
-Une description peut être évaluée par différentes personnes, selon des compétences, des responsabilités ou des règles distinctes.
+- des descriptions effectivement produites ;
+- des cas dans lesquels une même catégorie est appliquée ou contestée ;
+- des règles écrites et des traces de leur mise en œuvre ;
+- des observations, mesures ou documents invoqués à l’appui d’une affirmation ;
+- des exemples de correction, de désaccord ou de révision ;
+- des conséquences pratiques tirées des descriptions.
 
-Il faut examiner, lorsque cela est pertinent :
+Il faut autant que possible confronter les règles déclarées aux usages constatés. Un discours sur les critères d’une pratique ne suffit pas à établir comment ils fonctionnent dans les cas concrets.
 
-- qui formule les descriptions ;
-- qui est habilité à les corriger ou à les contester ;
-- quelles obligations de justification sont reconnues ;
-- comment les désaccords sont traités ;
-- si les critères changent selon les acteurs ou les circonstances.
+L’absence d’un élément ne prouve pas qu’il n’intervient jamais. Elle peut simplement signifier que les informations disponibles ne permettent pas encore de déterminer son rôle.
 
-L’existence d’une pratique collective ne suppose ni un accord complet entre ses membres ni une application uniforme de toutes ses règles.
+## 7. Règles d’interprétation
 
-5. Interpréter les éléments recueillis
+Les indices recueillis doivent être distingués de la caractérisation que l’on en tire.
 
-Les éléments de l’examen ne doivent pas être confondus avec les conclusions que l’on en tire.
+La présence d’un terme, d’une règle ou d’un instrument est une observation. Son rôle dans l’organisation d’une pratique doit encore être établi.
 
-La présence d’un vocabulaire spécialisé, d’un instrument technique, d’une règle écrite ou d’une institution constitue une observation. Pour caractériser un régime descriptif, il faut encore établir le rôle de cet élément dans la pratique et ses relations avec les autres éléments pertinents.
+Plusieurs résultats sont possibles :
 
-L’enquête peut faire apparaître plusieurs configurations :
+- **Repères convergents** : plusieurs indices suggèrent une organisation relativement stable des distinctions et des critères.
+- **Repères partagés mais variables** : certains critères sont communs, mais leur application diffère selon les cas ou les acteurs.
+- **Tensions internes** : des règles ou des critères conduisent à des évaluations divergentes.
+- **Déplacement de fonction** : une qualification ou une règle change de rôle lorsqu’elle est mobilisée dans un autre contexte.
+- **Caractérisation indéterminée** : les éléments disponibles ne suffisent pas à distinguer clairement les repères de la pratique.
 
-- Des repères convergents : les catégories, les critères et les pratiques d’évaluation semblent se soutenir mutuellement.
-- Des repères partagés mais incomplets : certains critères sont communs, tandis que d’autres restent incertains ou varient selon les cas.
-- Des tensions : plusieurs critères conduisent à des évaluations divergentes ou ne répondent pas à la même question.
-- Des déplacements : une qualification ou une règle change de fonction selon le contexte dans lequel elle est mobilisée.
-- Des éléments insuffisants : les informations disponibles ne permettent pas encore de caractériser la pratique avec assez de précision.
+Ces résultats sont descriptifs et provisoires. Ils ne forment pas une classification exhaustive des régimes.
 
-Ces résultats ne forment pas une classification exhaustive. Ils servent à préciser ce que l’enquête a effectivement établi et ce qui reste à examiner.
+Il ne faut notamment pas conclure :
 
-Il ne faut notamment pas conclure à l’existence de deux régimes distincts à partir d’une simple différence de vocabulaire, ni supposer qu’un vocabulaire partagé implique des critères identiques.
+- à deux régimes distincts sur la seule base d’un vocabulaire différent ;
+- à un régime uniforme parce que certains critères sont partagés ;
+- à la validité d’une description parce qu’elle respecte les règles reconnues ;
+- à la légitimité d’un critère parce qu’il est effectivement appliqué.
 
-6. Exemple : le botaniste et le bûcheron
+Identifier les critères d’une pratique ne revient pas à les justifier.
 
-Un botaniste, Étienne, et un bûcheron, Gérald, examinent le même arbre.
+## 8. Limites de l’instrument
 
-Étienne cherche à déterminer son espèce, son état biologique et les caractéristiques de son développement. Gérald a été mandaté par une famille pour construire une maison avant l’hiver ; il examine notamment les propriétés du bois, les conditions de coupe et les possibilités d’utilisation de l’arbre.
+L’identification ne garantit ni la correction des descriptions examinées ni leur adéquation à la situation décrite.
 
-Leurs descriptions diffèrent, mais cette différence ne suffit pas à établir un désaccord.
+Elle ne permet pas, à elle seule, de déterminer si deux descriptions sont compatibles, si l’une doit être préférée ou quelle décision doit être prise. Ces questions peuvent nécessiter une comparaison, un audit ou un examen spécifique des justifications.
 
-Pour identifier les repères qui organisent leurs pratiques, l’enquête peut examiner plusieurs questions :
+Un régime ne doit pas non plus être supposé parfaitement homogène, exclusif ou nettement délimité. Une description peut mobiliser des repères issus de plusieurs pratiques ; certaines frontières peuvent rester incertaines.
 
-- Quelles différences chacun retient-il pour traiter son problème ?
-- Quelles observations ou mesures soutiennent ses qualifications ?
-- Quelles conclusions tire-t-il de l’état de l’arbre ?
-- Quels outils, savoir-faire ou documents interviennent dans ses évaluations ?
-- Qu’est-ce qui permettrait à chacun de corriger ou de contester une conclusion ?
+La caractérisation proposée doit donc rester proportionnée aux indices disponibles et ouverte à la révision.
 
-L’examen peut montrer qu’Étienne mobilise des critères botaniques pour identifier l’arbre, tandis que Gérald mobilise des critères techniques pour apprécier son aptitude à un usage déterminé.
+## 9. Exemple d’application : qualifier une machine de dangereuse
 
-Ces différences permettent de caractériser des pratiques descriptives distinctes, sans supposer que les deux acteurs parlent de réalités différentes. Elles ne suffisent pas non plus à établir que leurs conclusions sont toujours compatibles.
+Dans un atelier, une machine est qualifiée de « dangereuse ».
 
-Si l’arbre penche au-dessus de la maison, une question supplémentaire apparaît : son état biologique permet-il d’évaluer le risque pour l’habitation ? Quels éléments techniques ou observations supplémentaires sont nécessaires ? Quels critères justifient une décision d’abattage ?
+Un technicien examine son état matériel et ses dispositifs de sécurité. Un responsable de prévention évalue les conditions d’utilisation et les risques pour les personnes. Un responsable hiérarchique peut, de son côté, employer la qualification pour décider d’interrompre le travail ou de modifier une procédure.
 
-La situation oblige alors à examiner les relations entre plusieurs descriptions sans assimiler leurs fonctions. L’identification aide à préciser les critères mobilisés ; elle ne détermine pas, à elle seule, la décision à prendre.
+Le terme est partagé, mais cela ne prouve pas que les acteurs mobilisent les mêmes critères ni qu’ils tirent les mêmes conclusions.
 
-7. Limites de l’identification
+Pour identifier les repères de leurs pratiques, l’enquête peut examiner les défauts observés, les règles de sécurité invoquées, les procédures d’évaluation, les conditions d’arrêt de la machine et les raisons permettant de contester une décision.
 
-Identifier un régime descriptif ne garantit ni la validité des descriptions produites dans la pratique, ni leur adéquation à la situation examinée.
+L’examen peut révéler que les acteurs partagent certains critères, mais les mobilisent pour des questions différentes. Il peut aussi faire apparaître un désaccord sur les éléments qui établissent le risque ou sur les mesures à prendre.
 
-L’identification ne permet pas, à elle seule :
+La seule différence de fonction ne suffit pas à conclure à une incompatibilité ; le vocabulaire commun ne suffit pas non plus à établir un accord. Il faut préciser ce que chaque qualification permet d’affirmer, les critères qui la soutiennent et les conséquences qui en sont tirées.
 
-- de déduire un régime du seul vocabulaire employé ;
-- de supposer que les critères d’une pratique sont homogènes ou unanimement partagés ;
-- de transformer des repères d’examen en composantes nécessaires et exhaustives ;
-- de conclure que deux descriptions sont incompatibles parce qu’elles diffèrent ;
-- de conclure qu’elles sont compatibles parce qu’elles répondent à des finalités distinctes ;
-- de considérer les critères effectivement appliqués comme nécessairement légitimes ;
-- de déduire la validité d’une description de la cohérence de son organisation ;
-- de déterminer automatiquement ce qui doit être fait à partir de la caractérisation d’une pratique.
+L’identification rend ainsi les repères de la pratique examinables. Elle ne décide pas, à elle seule, si la machine est effectivement dangereuse ni quelle mesure doit être retenue.
 
-Les critères d’une pratique peuvent eux-mêmes devenir l’objet de l’enquête. Les décrire ne revient pas à les justifier.
+## 10. Résultat attendu et renvois
 
-De même, les catégories proposées par l’analyste doivent rester ouvertes à la révision. Si les éléments recueillis ne permettent pas de délimiter clairement un régime, cette incertitude doit être conservée plutôt que remplacée par une classification artificiellement nette.
+Le résultat de l’identification doit préciser :
 
-8. Articulation avec les autres instruments
+- le problème et la pratique examinés ;
+- les indices effectivement recueillis ;
+- les distinctions et les critères mis en évidence ;
+- le rôle des règles, des supports et des inférences observés ;
+- les convergences, les variations ou les tensions constatées ;
+- les incertitudes qui restent ouvertes.
 
-L’identification d’un régime descriptif remplit une fonction limitée dans l’enquête.
-
-- ""regime-descriptif.md"" (regime-descriptif.md) définit la notion de régime descriptif.
-- ""architecture-fonctionnelle-de-l-enquete.md"" (architecture-fonctionnelle-de-l-enquete.md) présente l’organisation des opérations de l’enquête et leurs relations.
-- ""quadripartition-de-l-orientation.md"" (quadripartition-de-l-orientation.md) aide à distinguer les questions relatives aux conditions, aux relations, aux fonctions et aux justifications.
-- ""comparer-deux-descriptions.md"" (comparer-deux-descriptions.md) examine les rapports entre des descriptions.
-- ""realiser-un-audit.md"" (realiser-un-audit.md) organise l’examen d’une configuration descriptive et de ses difficultés.
-
-L’identification peut contribuer à préparer une comparaison ou un audit lorsqu’un problème le justifie. Elle ne constitue pas une étape obligatoire entre ces opérations et ne préjuge pas de leurs résultats.
-
-Synthèse
-
-Identifier un régime descriptif consiste à examiner les catégories, les critères, les inférences, les supports et les pratiques de validation qui interviennent dans une situation descriptive.
-
-Ces éléments sont des repères à confronter, non les composantes nécessaires d’une structure préétablie. Leur pertinence dépend du problème étudié et des observations disponibles.
-
-L’identification permet de formuler une caractérisation provisoire des pratiques examinées, de repérer leurs convergences ou leurs tensions et de préciser les questions qui nécessitent un examen supplémentaire.
-
-Elle ne remplace ni la comparaison des descriptions ni l’évaluation de leurs justifications. Elle contribue à l’enquête sans garantir la validité de ses conclusions.
-
-Identifier un régime, c’est rendre examinables les critères d’une pratique, non les tenir d’avance pour justifiés.
-
----
+Ce résultat constitue une caractérisation provisoire. Il peut servir à préparer une comparaison ou un audit lorsque le problème le requiert, sans former une étape obligatoire de toute enquête.
 
 Pour poursuivre :
 
-- "Régime descriptif" (regime-descriptif.md)
-- "Comparer deux descriptions" (comparer-deux-descriptions.md)
-- "Réaliser un audit" (realiser-un-audit.md)
-- "Architecture fonctionnelle de l’enquête" (architecture-fonctionnelle-de-l-enquete.md)
-- "Quadripartition de l’orientation" (quadripartition-de-l-orientation.md)
+- [Régime descriptif](fr/regime-descriptif.md) — Définir la notion de régime descriptif.
+- [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md) — Examiner les relations entre plusieurs régimes.
+- [Comparer deux descriptions](fr/comparer-deux-descriptions.md) — Examiner les différences et les rapports entre des descriptions.
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Présenter les opérations mobilisables dans l’enquête.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations de l’examen.
+
+Identifier un régime descriptif, c’est établir quels repères organisent une pratique à partir des indices disponibles, sans confondre leur présence, leur fonction et leur justification.
