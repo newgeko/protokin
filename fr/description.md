@@ -1,163 +1,153 @@
-Description — Une pratique de différenciation
+# Description — Distinguer pratique, contenu et situation décrite
 
-Fonction
+## 1. Fonction
 
-Cette page précise le rôle de la description dans Protokin. Elle distingue l’activité consistant à décrire, le contenu produit ou mobilisé et ce dont une description parle.
+Cette page définit la description comme une pratique située qui retient et organise certaines différences pour caractériser une situation.
 
-La description est examinée comme une pratique située : elle retient certaines différences, les organise et les rend utilisables dans un contexte déterminé. Elle peut être formulée oralement, inscrite sur un support, reprise par d’autres personnes ou intégrée à une procédure.
+Elle distingue l’activité de décrire, le contenu descriptif mobilisé et la situation décrite. Cette distinction permet d’examiner leurs rapports sans confondre ce qui est fait, ce qui est formulé et ce dont il est question.
 
-L’objectif n’est pas de proposer une théorie générale du langage, mais de préciser ce que l’enquête doit examiner lorsqu’une description devient problématique.
+La page précise également comment la description se rapporte aux ressources descriptives disponibles, et pourquoi sa cohérence ou son utilité ne suffisent pas à établir son adéquation.
 
-1. Problème
+## 2. Problème et définition
 
-Décrire une situation suppose de retenir certaines différences plutôt que d’autres. Selon la question posée, un même arbre peut être décrit par son espèce, son état sanitaire, sa résistance mécanique ou le risque qu’il représente pour une habitation.
+Décrire une situation suppose de retenir certaines différences plutôt que d’autres. Les différences retenues dépendent notamment de la question examinée, des ressources disponibles et de la pratique dans laquelle la description intervient.
 
-Ces descriptions ne retiennent pas les mêmes caractéristiques et ne remplissent pas les mêmes fonctions. Elles peuvent néanmoins porter sur le même arbre.
+Une description destinée à repérer une dégradation, par exemple, ne retient pas nécessairement les mêmes caractéristiques qu’une description destinée à comparer des matériaux. Cette différence de sélection ne suffit pas à établir que les descriptions sont incompatibles. Il faut examiner ce qu’elles caractérisent, la fonction qu’elles remplissent et les critères auxquels elles répondent.
 
-La difficulté apparaît lorsque l’on confond les différences retenues avec la totalité de la situation, lorsqu’on traite une description comme une reproduction transparente de ce qu’elle décrit ou lorsqu’on suppose que sa cohérence suffit à établir son adéquation.
+Dans Protokin, une **description** est une manière située de retenir et d’organiser certaines différences afin de caractériser un objet, un événement, une relation ou une situation dans une pratique déterminée.
 
-Il faut donc pouvoir examiner une description sans confondre :
+Une description peut être formulée oralement, inscrite dans un document, répartie entre plusieurs énoncés ou mobilisée dans une procédure. Elle ne se réduit donc ni à une phrase isolée ni à un acte linguistique particulier.
 
-- ce qui est décrit ;
-- les différences retenues pour le décrire ;
-- le contenu formulé ou inscrit ;
-- les conditions dans lesquelles ce contenu est produit et utilisé ;
-- les raisons de maintenir, de contester ou de réviser la description.
+La description dépend de ressources disponibles dans la pratique : distinctions, catégories, termes, critères, instruments et formes d’inscription. Ces ressources rendent certaines caractérisations possibles et en contraignent d’autres, sans déterminer mécaniquement la description qui sera produite ni garantir son adéquation.
 
-2. Définition
+Une description peut être reprise, précisée, contestée ou révisée lorsque de nouvelles observations apparaissent, que les critères sont remis en question ou que la situation examinée change.
 
-Dans Protokin, une description est une manière située de rendre certaines différences identifiables et utilisables pour caractériser une situation, un événement, un objet ou une relation.
+## 3. Activité descriptive, contenu et situation décrite
 
-Elle sélectionne et organise des différences au moyen de ressources descriptives disponibles dans une pratique : distinctions, catégories, termes, critères, instruments et formes d’inscription.
+L’analyse distingue trois éléments dont les rapports doivent être établis dans chaque cas.
 
-Cette sélection dépend notamment de la question traitée, des capacités et des contraintes des personnes concernées, des ressources disponibles et des usages envisagés. Elle ne détermine pas à elle seule si la description est adéquate.
+### 3.1. L’activité descriptive
 
-Une description peut être formulée dans un énoncé, répartie entre plusieurs énoncés, consignée dans un document ou incorporée à un dispositif de classement. Elle ne se réduit donc ni à une phrase isolée ni à un acte linguistique particulier.
+L’activité descriptive désigne ce qui est fait lorsqu’une personne ou un dispositif produit, reprend, utilise ou révise une description dans une pratique déterminée.
 
-La description est révisable : de nouvelles observations, une comparaison, un changement de situation ou une contestation peuvent conduire à modifier les différences retenues, les catégories employées ou les conclusions tirées.
+Cette activité peut comprendre plusieurs opérations : sélectionner des informations, comparer des observations, appliquer des catégories, formuler des qualifications ou consigner des résultats. Toutes ces opérations ne sont pas nécessaires dans chaque cas.
 
-3. Décrire, contenu descriptif et situation décrite
+L’activité descriptive se distingue de ses conditions de production. Expliquer pourquoi une personne produit une description ne suffit pas à déterminer ce que cette description signifie ni si elle est adéquate.
 
-L’enquête doit distinguer trois éléments.
+### 3.2. Le contenu descriptif
 
-L’activité de décrire désigne ce qu’une personne ou un dispositif fait en produisant, en reprenant ou en modifiant une description dans une pratique donnée.
+Le contenu descriptif correspond à ce qui est formulé, inscrit ou mobilisé pour caractériser une situation. Il peut être exprimé dans un énoncé, réparti entre plusieurs énoncés ou conservé sur un support.
 
-Le contenu descriptif correspond à ce qui est présenté comme étant le cas. Il peut être formulé, transmis, discuté ou inscrit sur un support. Sa formulation ne suffit pas à déterminer toutes les conséquences que d’autres pourront en tirer.
+Ce contenu peut être provisoire, hypothétique ou contesté. Sa présence ne signifie donc pas qu’il est effectivement affirmé par un locuteur, accepté par une communauté ou justifié selon les critères pertinents.
 
-La situation décrite est ce à quoi la description se rapporte. Elle ne se confond ni avec les termes employés ni avec le contenu descriptif qui la caractérise.
+Il faut distinguer le contenu mobilisé de l’acte accompli en le formulant, ainsi que des conséquences que d’autres peuvent en tirer. La portée d’une assertion et les engagements qui lui sont associés relèvent d’un examen spécifique.
 
-Ces éléments sont liés, mais leurs relations ne doivent pas être présupposées.
+### 3.3. La situation décrite
 
-Une activité de description peut échouer à caractériser correctement une situation. Un contenu peut être repris dans un contexte différent de celui où il a été formulé. Une situation peut changer sans que sa description soit immédiatement révisée. Inversement, une description peut être reformulée alors que la situation décrite n’a pas changé.
+La situation décrite désigne ce sur quoi porte la description, dans les limites où cette situation est examinée.
 
-Décrire une configuration ne signifie donc pas la constituer. La description participe à une pratique qui porte sur une situation ; elle ne se substitue pas à cette situation.
+Elle ne se confond ni avec l’activité descriptive ni avec le contenu qui la caractérise. Une description peut être reformulée alors que la situation n’a pas changé. Inversement, la situation peut évoluer sans que le contenu descriptif soit immédiatement actualisé.
 
-4. Une description dépend d’une pratique
+Cette distinction ne suppose pas que la situation soit connue indépendamment de toute pratique d’observation, d’identification ou de description. Elle signifie que les moyens employés pour la caractériser ne suffisent pas, à eux seuls, à établir ce qu’il en est.
 
-Aucune description ne retient toutes les différences possibles. Ce qui devient pertinent dépend du problème traité et des activités dans lesquelles la description intervient.
+Décrire une situation ne signifie donc pas la constituer. Si une pratique descriptive contribue également à transformer une situation, cette contribution doit être examinée séparément.
 
-Considérons un même arbre.
+## 4. Distinctions avec les notions voisines
 
-Le botaniste Étienne cherche à identifier l’espèce de l’arbre et à caractériser son état biologique. Gérald, bûcheron mandaté par une famille pour préparer le bois nécessaire à la construction d’une maison pour l’hiver, examine notamment sa structure, son diamètre et les possibilités de coupe.
+### 4.1. Description et configuration descriptive
 
-Étienne et Gérald ne répondent pas à la même question. Ils mobilisent des distinctions et des critères différents parce que leurs activités ne requièrent pas les mêmes informations.
+Une configuration descriptive désigne l’organisation relationnelle des différences, des catégories, des qualifications et des possibilités inférentielles mobilisées dans une pratique.
 
-Leurs descriptions ne sont pas nécessairement incompatibles. Elles peuvent être complémentaires, se croiser ou entrer en conflit si une question commune exige de départager leurs conclusions.
+La description désigne une pratique située qui retient et organise certaines différences en s’appuyant sur des ressources disponibles. Elle ne se confond donc pas avec l’organisation de ces ressources.
 
-Le fait qu’ils décrivent le même arbre n’impose donc ni une description unique ni une séparation absolue entre leurs descriptions. Leurs rapports doivent être examinés en fonction des questions posées, des caractéristiques concernées et des conséquences pratiques de leurs affirmations.
+Une configuration descriptive peut rendre certaines caractérisations possibles sans qu’elles soient effectivement produites. Inversement, une description particulière ne permet pas de reconstituer à elle seule l’ensemble des ressources et des possibilités de la configuration mobilisée.
 
-5. Description et configuration descriptive
+Le rapport entre description et configuration doit être examiné à partir de la pratique concernée. Il ne constitue pas une succession nécessaire entre deux états.
 
-Une description ne mobilise pas ses distinctions dans le vide. Elle s’appuie sur des ressources qui rendent certaines caractérisations possibles et d’autres difficiles, contestables ou indisponibles.
+Voir [Configuration descriptive](fr/configuration-descriptive.md).
 
-La notion de configuration descriptive permet d’examiner l’organisation de ces ressources, notamment les catégories, les distinctions et les incompatibilités pertinentes dans une pratique.
+### 4.2. Description et objet descriptif
 
-Il faut cependant distinguer cette configuration d’une description particulière. La configuration descriptive ne constitue pas un répertoire exhaustif de toutes les descriptions possibles, et son existence ne signifie pas qu’une description déterminée sera nécessairement produite.
+L’objet descriptif désigne une différence stabilisée comme identifiable et réutilisable dans une pratique descriptive.
 
-Inversement, une description effectivement produite ne révèle pas à elle seule l’ensemble des ressources, des contraintes et des alternatives qui ont rendu sa formulation possible.
+La description est une pratique qui organise des différences pour caractériser ce dont elle parle. L’objet descriptif désigne une différence maintenue comme identifiable dans cette pratique ; il ne désigne ni l’activité de décrire ni le contenu particulier d’une description.
 
-La relation entre configuration et description doit donc être étudiée, et non posée comme une succession automatique.
+Une description peut contribuer à maintenir, préciser ou réviser un objet descriptif. Cette relation ne garantit pas que l’identification soit correcte ni que les caractéristiques attribuées soient adéquates.
 
-6. Description et assertion
+Voir [Objet descriptif](fr/objet-descriptif.md).
 
-Décrire et asserter ne désignent pas la même fonction.
+### 4.3. Description et référent
 
-Une description peut être formulée sous la forme d’une assertion. Dans ce cas, une personne présente publiquement un contenu comme étant le cas et s’expose à des demandes de justification ou à des contestations.
+Le référent désigne ce à quoi une pratique descriptive se rapporte ou prétend se rapporter. La description est la pratique par laquelle certaines différences sont retenues et organisées pour caractériser ce dont il est question.
 
-Mais toute description ne doit pas être assimilée d’emblée à une assertion. Une hypothèse, une question, une possibilité envisagée ou une inscription provisoire peuvent participer à une activité descriptive sans constituer le même acte d’engagement.
+Ces notions ne sont pas interchangeables. Une description peut viser un référent sans le caractériser correctement. Plusieurs descriptions peuvent porter sur un même référent tout en répondant à des questions différentes.
 
-Il faut donc distinguer le contenu formulé, l’acte accompli en le formulant et les engagements associés à cet acte.
+La situation décrite et le référent ne doivent pas non plus être assimilés sans examen : la première désigne ce qui est considéré dans les limites d’une description, tandis que le second concerne ce à quoi la pratique entend se rapporter. Selon le problème, leur délimitation peut demander un examen supplémentaire.
 
-De même, la possibilité d’utiliser un contenu comme prémisse dans un raisonnement ne signifie pas que la personne qui l’a formulé avait anticipé toutes les conséquences que d’autres pourront en tirer. Ces conséquences dépendent des engagements pertinents, des prémisses mobilisées et des règles d’inférence applicables.
+Voir [Référent](fr/referent.md).
 
-La page consacrée à l’assertion examine plus précisément l’engagement associé à cet acte. La présente page ne vise pas à en reprendre l’analyse.
+### 4.4. Description, assertion et justification
 
-7. Description et justification
+Une description peut être formulée sous la forme d’une assertion, mais décrire et asserter ne désignent pas la même fonction. Un contenu descriptif peut être envisagé comme hypothèse, consigné provisoirement ou cité sans être affirmé par la personne qui le mentionne.
 
-Produire une description et justifier cette description sont deux activités distinctes.
+La justification relève d’une autre question : quelles raisons permettent de défendre ou de contester une description ou une conclusion ?
 
-Une description peut être cohérente avec les catégories employées dans une pratique tout en étant inadéquate à la situation qu’elle prétend caractériser. Elle peut également être utile pour une tâche déterminée sans que cette utilité suffise à établir toutes les affirmations qu’elle contient.
+Une description peut être cohérente avec les catégories utilisées, utile pour une tâche ou largement acceptée sans que ces propriétés suffisent à établir son adéquation à la situation examinée. Inversement, l’origine d’une description ou les intérêts associés à son emploi ne suffisent pas à la déclarer inadéquate.
 
-Pour examiner une description, il faut donc préciser ce qui est avancé, dans quelles conditions, à propos de quoi et selon quels critères sa pertinence peut être défendue ou contestée.
+L’examen doit donc distinguer la production d’une description, l’acte éventuel d’asserter son contenu et les raisons avancées pour la maintenir.
 
-Les raisons avancées pour maintenir une description doivent être distinguées des causes qui expliquent sa production, des intérêts qui peuvent motiver son emploi et des critères utilisés pour l’évaluer.
+Voir [Assertion](fr/assertion.md) et [Justifier](fr/justifier.md).
 
-Ces éléments peuvent être liés. Aucun ne remplace automatiquement les autres.
+## 5. Exemple discriminant : décrire l’humidité d’un bâtiment
 
-Une description ne devient pas adéquate parce qu’elle est largement partagée, institutionnellement stabilisée ou conforme aux attentes de ses utilisateurs. Réciproquement, son origine intéressée ou ses conditions particulières de production ne suffisent pas à la déclarer fausse.
+Un technicien examine un mur présentant des traces d’humidité. Il réalise des observations, utilise un instrument de mesure et consigne ses résultats dans un rapport.
 
-L’adéquation, la portée et les limites d’une description demandent un examen spécifique.
+Trois éléments doivent être distingués :
 
-8. La description comme objet d’enquête
+- **Activité descriptive :** le technicien observe le mur, effectue des mesures et consigne les résultats selon une procédure.
+- **Contenu descriptif :** le rapport indique les mesures obtenues et caractérise les zones où l’humidité a été relevée.
+- **Situation décrite :** l’état du mur et les conditions matérielles examinées, dans les limites retenues pour l’inspection.
 
-Dans Protokin, une description peut devenir elle-même l’objet d’une enquête lorsque son usage rencontre une difficulté.
+Ces éléments sont liés, mais aucun ne garantit automatiquement les autres. Une mesure peut avoir été réalisée selon une procédure sans que son interprétation soit correcte. Le rapport peut être cohérent tout en laissant de côté une information pertinente. Le mur peut également se modifier après l’inspection sans que le rapport soit immédiatement mis à jour.
 
-L’examen peut notamment porter sur les questions suivantes :
+La révision du rapport peut alors répondre à plusieurs problèmes distincts : une erreur de mesure, une interprétation contestable, une délimitation insuffisante de la zone examinée ou une transformation de la situation.
 
-- Quelles différences la description retient-elle ?
-- À quelle situation ou à quel référent se rapporte-t-elle ?
-- Quelles catégories et quelles ressources rendent sa formulation possible ?
-- Quelle fonction remplit-elle dans la pratique concernée ?
-- Quelles conséquences son usage autorise-t-il ou entraîne-t-il ?
-- Quels critères et quelles raisons permettent de la défendre ou de la contester ?
-- Quelles observations, comparaisons ou transformations pourraient conduire à la réviser ?
+Il ne faut pas traiter ces difficultés comme équivalentes. Une erreur de mesure n’est pas nécessairement une erreur de formulation ; une formulation correcte ne garantit pas l’adéquation du rapport à la situation ; une modification du rapport ne prouve pas, à elle seule, que le mur a changé.
 
-Ces questions ne constituent ni une procédure obligatoire ni une liste exhaustive. Leur pertinence dépend du problème rencontré.
+L’exemple montre ainsi pourquoi l’activité descriptive, le contenu produit et la situation décrite doivent être distingués pour déterminer ce qui est effectivement contesté et ce qui doit être réexaminé.
 
-La chaîne des opérations de l’enquête permet d’organiser les examens nécessaires ; la quadripartition oriente les questions relatives aux conditions, aux relations, aux fonctions et aux justifications. La présente page ne remplace ni l’une ni l’autre.
+## 6. Limites et portée de la notion
 
-9. Limites
+La définition proposée permet d’examiner la description comme une pratique située, sans la réduire à une représentation transparente de la situation ni en faire ce qui constitue cette situation.
 
-Cette définition de la description n’établit pas :
+Elle n’établit pas :
 
-- qu’une description reproduit intégralement la situation décrite ;
-- que la situation décrite est constituée par sa description ;
+- qu’une description retient toutes les différences pertinentes ;
+- que le contenu descriptif reproduit intégralement la situation décrite ;
 - que toute description prend la forme d’une proposition ou d’une assertion ;
-- que toute description est explicitement justifiée par son auteur ;
 - que les descriptions portant sur un même référent sont nécessairement compatibles ou incompatibles ;
 - que la cohérence, l’utilité ou la stabilité d’une description garantissent son adéquation ;
-- qu’une description détermine à elle seule les usages et les inférences qui en seront faits.
+- que les conditions de production d’une description suffisent à la justifier ou à la réfuter.
 
-La description reste dépendante de conditions matérielles, de ressources conceptuelles et de pratiques déterminées. Ces dépendances doivent être examinées sans réduire le contenu descriptif à ses seules causes de production, ni transformer ses conditions en critères de validité.
+Ces limites ne rendent pas les descriptions arbitraires. Les observations, les contraintes matérielles, les critères d’application et les résultats des examens peuvent soutenir ou mettre en défaut une description. Leur portée doit cependant être établie dans le problème considéré.
 
-La notion de description est elle-même révisable si les distinctions proposées se révèlent insuffisantes pour traiter les cas étudiés.
+La description ne garantit donc pas elle-même sa validité. Son adéquation doit être examinée en tenant compte de ce qu’elle prétend caractériser, des éléments disponibles et des critères pertinents.
 
-Synthèse
+## Synthèse
 
-Une description rend certaines différences identifiables et utilisables dans une pratique déterminée. Elle sélectionne et organise des caractéristiques à partir de ressources disponibles, sans épuiser la situation à laquelle elle se rapporte.
+Une description est une pratique située qui retient et organise certaines différences afin de caractériser un objet, un événement, une relation ou une situation.
 
-L’enquête distingue l’activité de décrire, le contenu descriptif et la situation décrite. Elle examine leurs relations sans confondre description, configuration descriptive, assertion et justification.
+L’enquête distingue l’activité descriptive, le contenu descriptif et la situation décrite. Elle examine leurs rapports sans les confondre avec la configuration descriptive mobilisée, l’objet descriptif stabilisé, le référent visé ou les fonctions d’assertion et de justification.
 
-Une description peut être cohérente, utile et stabilisée sans que ces propriétés suffisent à établir son adéquation. Celle-ci doit être examinée en fonction du problème, de la situation décrite, des critères pertinents et des conséquences que la description autorise.
+Une description peut être cohérente, utile ou stabilisée sans que ces propriétés suffisent à établir son adéquation. Celle-ci reste examinable et révisable à partir du problème traité, des éléments disponibles et des critères pertinents.
 
-Décrire n’est ni copier intégralement une situation ni la constituer : c’est organiser certaines différences dans une pratique dont les descriptions restent examinables et révisables.
-
----
+**Décrire n’est ni reproduire intégralement une situation ni la constituer : c’est retenir et organiser certaines différences dans une pratique dont la portée doit pouvoir être examinée.**
 
 Pour poursuivre :
 
-- "Introduction générale" (introduction-generale.md)
-- "Architecture du projet" (architecture-projet.md)
-- "Architecture fonctionnelle de l’enquête" (architecture-fonctionnelle-de-l-enquete.md)
-- "Quadripartition de l’orientation" (quadripartition-de-l-orientation.md)
-- "Patterns éditoriaux de Protokin" (../patterns.md)
+- [Configuration descriptive](fr/configuration-descriptive.md) — Examiner l’organisation des ressources qui rendent certaines descriptions possibles.
+- [Objet descriptif](fr/objet-descriptif.md) — Préciser comment une différence est stabilisée comme identifiable et réutilisable.
+- [Référent](fr/referent.md) — Examiner la visée référentielle et les pratiques d’identification.
+- [Assertion](fr/assertion.md) — Analyser l’acte d’avancer un contenu et les engagements qui lui sont associés.
+- [Justifier](fr/justifier.md) — Examiner les raisons permettant de défendre ou de contester une conclusion.
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations mobilisables pour traiter une difficulté descriptive.
