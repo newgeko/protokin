@@ -1,79 +1,105 @@
-Justifier — Examiner les raisons et les critères
+# Justifier — Examiner les raisons et les critères
 
-Fonction
+## 1. Fonction
 
-Justifier examine les raisons et les critères au moyen desquels une description, une distinction ou une affirmation peut être défendue, contestée ou révisée.
+Justifier consiste à examiner ce qui autorise à soutenir une description, une affirmation ou une conclusion, et dans quelles limites cette conclusion peut être défendue, contestée ou révisée.
 
-Problème
+L’opération porte sur les raisons avancées, les éléments mobilisés à leur appui, les critères d’évaluation et les inférences qui conduisent à la conclusion.
 
-Une description peut être cohérente sans être adéquate. Une affirmation peut être compatible avec les usages établis sans être suffisamment étayée. Une distinction peut fonctionner dans une pratique sans que les critères qui la soutiennent soient explicites.
+Elle ne vise pas à produire une garantie générale de validité, mais à rendre explicites les conditions auxquelles une conclusion peut être soutenue.
 
-Le problème n’est donc pas seulement de savoir comment une description a été produite ou comment ses éléments sont organisés. Il est de déterminer ce qui autorise à la soutenir, dans quelles limites et au regard de quelles exigences.
+## 2. Problème
 
-La justification ne peut pas être remplacée par la genèse d’une description, ses conditions matérielles, son efficacité pratique ou sa stabilisation collective.
+Une affirmation peut être cohérente sans être suffisamment étayée. Une conclusion peut découler des prémisses retenues sans que celles-ci soient adéquates à la situation examinée. Une description peut remplir une fonction utile sans que cette utilité suffise à justifier ce qu’elle affirme.
 
-Définition
+Le problème consiste donc à examiner le passage entre ce qui est avancé et ce qui peut effectivement être soutenu.
 
-Justifier consiste à rendre examinables les raisons, les critères et les engagements qui soutiennent une description.
+Ce passage ne se réduit ni à l’origine de l’affirmation, ni aux conditions dans lesquelles elle a été produite, ni à son acceptation dans une pratique. Il suppose d’examiner les raisons et les critères mobilisés, ainsi que les inférences qui relient les éléments disponibles à la conclusion.
 
-L’enquête distingue notamment :
+## 3. Définition opérationnelle
 
-- Les raisons invoquées : ce qui est avancé pour défendre une description ou une affirmation.
-- Les critères mobilisés : ce qui permet d’évaluer leur pertinence dans une pratique donnée.
-- Les éléments d’appui : observations, traces, documents, comparaisons ou résultats pertinents.
-- Les engagements inférentiels : ce qu’une affirmation autorise à conclure, implique ou oblige à réexaminer.
-- Les conditions de révision : ce qui pourrait conduire à limiter, corriger ou abandonner la description.
+Justifier, c’est rendre examinables les raisons et les critères qui soutiennent une conclusion, en précisant les prémisses dont elle dépend et la portée des inférences mobilisées.
 
-Ces dimensions sont liées, mais elles ne sont pas interchangeables. Un élément d’appui ne constitue pas à lui seul une raison suffisante ; une raison invoquée ne satisfait pas nécessairement les critères pertinents ; une inférence admise dans une pratique peut elle-même être contestée.
+L’opération distingue quatre éléments :
 
-Opération
+- **Éléments d’appui** : observations, traces, documents, mesures ou résultats invoqués dans l’examen.
+- **Raisons avancées** : éléments et considérations présentés pour soutenir une affirmation ou une conclusion.
+- **Critères d’évaluation** : exigences au regard desquelles les raisons et les éléments d’appui sont jugés pertinents ou suffisants.
+- **Inférences mobilisées** : passages par lesquels les prémisses retenues sont censées autoriser une conclusion.
 
-L’opération de justification consiste à :
+Ces éléments sont liés, mais ne sont pas interchangeables. Une observation ne justifie pas à elle seule toute conclusion qu’on en tire. Une raison invoquée peut être pertinente sans être suffisante. Une inférence admise dans une pratique peut être contestée si ses prémisses, sa règle ou son application sont insuffisamment défendues.
 
-1. Identifier ce qui est effectivement affirmé.
-2. Expliciter les raisons avancées pour le soutenir.
-3. Identifier les critères selon lesquels ces raisons sont évaluées.
-4. Examiner les éléments d’appui et les inférences mobilisées.
-5. Délimiter la portée de la conclusion et ses conditions de révision.
+La justification doit donc porter sur le cheminement qui conduit à la conclusion, et pas seulement sur les éléments qui lui sont associés.
 
-Cette opération ne suppose pas que toutes les descriptions relèvent d’un critère unique. Les exigences varient selon les pratiques, les fonctions et les objets examinés. Elles doivent néanmoins pouvoir être explicitées et soumises à l’examen.
+## 4. Conditions d’activation
 
-Articulation avec la quadripartition
+L’opération devient pertinente lorsque la conclusion avancée ne peut pas être soutenue sans examen supplémentaire, notamment lorsque :
 
-Registre| Question examinée
-Condition| Quelles conditions rendent l’examen possible ou en limitent la portée ?
-Relation| Quelles dépendances et quelles inférences soutiennent la description ?
-Fonction| Quel rôle la description joue-t-elle dans la pratique concernée ?
-Justification| Quelles raisons et quels critères permettent de la défendre ou de la contester ?
+- les raisons invoquées restent implicites ou imprécises ;
+- les éléments d’appui ne semblent pas suffisants au regard de la conclusion ;
+- les critères employés sont contestés ou mal adaptés au problème ;
+- une inférence paraît recevable, mais ses prémisses restent incertaines ;
+- plusieurs conclusions sont tirées des mêmes éléments sans que leur différence soit explicitée ;
+- une conclusion est défendue par son utilité, son origine ou son acceptation plutôt que par des raisons pertinentes ;
+- les conditions dans lesquelles la conclusion devrait être corrigée ou abandonnée ne sont pas identifiées.
 
-La condition d’une affirmation ne constitue pas sa justification. La fonction d’une description ne garantit pas son adéquation. La relation entre plusieurs éléments ne suffit pas à établir la validité d’une inférence.
+Ces situations ne constituent pas une liste exhaustive. L’opération est pertinente dès que le passage des éléments disponibles à la conclusion demande à être explicité ou mis à l’épreuve.
 
-Justifier exige donc de maintenir ces différences tout en examinant leurs dépendances.
+## 5. Questions d’examen
 
-Prépare
+Pour examiner une justification, l’enquête peut poser les questions suivantes :
 
-La justification prépare la reconstitution : il devient possible de reprendre le cheminement de l’enquête, d’identifier les opérations qui ont conduit à une conclusion et d’examiner les transformations qui affecteraient sa portée.
+1. **Quelle conclusion est soutenue ?** Préciser ce qui est effectivement affirmé et éviter d’étendre sa portée au-delà de sa formulation.
+2. **Quels éléments sont mobilisés ?** Distinguer les observations disponibles de leur interprétation.
+3. **Quelles raisons sont avancées ?** Identifier ce qui est présenté comme un appui à la conclusion.
+4. **Quelles prémisses sont nécessaires ?** Expliciter les affirmations qui doivent être admises pour que le raisonnement aboutisse.
+5. **Quelles inférences sont mobilisées ?** Examiner si le passage des prémisses à la conclusion est recevable et correctement appliqué.
+6. **Quels critères servent à l’évaluation ?** Préciser ce qui permet de juger les raisons pertinentes et suffisantes dans le problème considéré.
+7. **Qu’est-ce qui pourrait conduire à réviser la conclusion ?** Identifier les contre-exemples, les données nouvelles, les critères contestables ou les prémisses à réexaminer.
 
-Elle rend également possible une nouvelle délimitation lorsque les critères mobilisés révèlent un problème différent, une distinction insuffisante ou une exigence jusque-là négligée.
+Les réponses peuvent faire apparaître une justification suffisante dans certaines limites, une justification partielle ou une difficulté qui exige de reprendre l’enquête.
 
-N’établit pas
+L’absence d’une justification suffisante ne démontre pas automatiquement que la conclusion est fausse. Elle signifie que les raisons disponibles ne permettent pas, en l’état, de la soutenir comme elles le prétendent.
+
+## 6. Exemple d’application
+
+Un rapport signale une fissure dans un bâtiment. On en conclut que le bâtiment présente un danger et qu’une intervention est nécessaire.
+
+La présence de la fissure constitue un élément d’appui. Elle ne suffit cependant pas, à elle seule, à établir la conclusion. Il faut examiner les caractéristiques de la fissure, sa localisation, son évolution, les éléments pertinents concernant le bâtiment et les critères employés pour évaluer le risque.
+
+Il faut également distinguer deux conclusions : celle selon laquelle un danger est établi et celle selon laquelle une intervention est nécessaire. La seconde mobilise des exigences supplémentaires concernant le risque, les conséquences possibles et les conditions de décision.
+
+L’opération de justification consiste à examiner les raisons et les critères qui soutiennent chacun de ces passages. Elle peut conduire à confirmer la conclusion, à en limiter la portée ou à demander des éléments supplémentaires.
+
+Cet examen ne consiste pas à appliquer mécaniquement un critère universel. Il vise à rendre explicites les exigences pertinentes pour la situation étudiée et à vérifier que les conclusions ne dépassent pas ce que les éléments disponibles permettent de soutenir.
+
+## 7. Ce que l’opération permet d’établir
+
+La justification permet notamment :
+
+- de préciser les raisons avancées pour soutenir une conclusion ;
+- de distinguer les éléments d’appui de leur interprétation ;
+- d’expliciter les prémisses et les inférences mobilisées ;
+- d’identifier les critères selon lesquels une conclusion est évaluée ;
+- de repérer les insuffisances, les présupposés ou les passages contestables ;
+- de délimiter la portée d’une conclusion ;
+- de préciser les conditions dans lesquelles elle pourrait être révisée.
+
+Le résultat est une conclusion dont les conditions de soutien sont plus explicites et dont les limites peuvent être examinées.
+
+## 8. Ce que l’opération n’établit pas
 
 Justifier n’établit pas automatiquement :
 
 - la vérité d’une affirmation ;
 - l’adéquation définitive d’une description à ce qu’elle prétend décrire ;
 - l’universalité des critères employés ;
+- la recevabilité de toute inférence admise dans une pratique ;
 - la légitimité de toute conséquence pratique ou normative ;
-- l’impossibilité d’une révision ultérieure.
+- l’impossibilité d’une contestation ou d’une révision ultérieure.
 
-Une justification est elle-même susceptible d’examen. Ses critères, ses éléments d’appui et ses inférences peuvent être contestés. La cohérence du raisonnement ne suffit pas à garantir l’adéquation de la conclusion.
+Il faut notamment distinguer :
 
-Il faut également distinguer expliquer une origine et justifier une affirmation : la genèse d’une description peut contribuer à son examen sans fournir, à elle seule, les raisons de l’accepter.
-
-Synthèse
-
-Justifier, c’est examiner ce qui autorise à soutenir une description, sans confondre son origine, ses conditions, sa fonction et les raisons de l’accepter.
-
-La justification ne clôt pas l’enquête. Elle rend ses conclusions défendables dans certaines limites et suffisamment explicites pour être reprises, contestées ou révisées.
-
-Relier reconstruit les dépendances. Configurer examine leur organisation. Justifier éprouve les raisons et les critères. Reconstituer reprend le cheminement de l’enquête.
+- **genèse et justification** : expliquer comment une affirmation est apparue ne suffit pas à établir les raisons de l’accepter ;
+- **cause et raison** : identifier ce qui a produit une affirmation ne revient pas à justifier son contenu ;
+- **conclusion autorisée et conclusion justifiée** : une inférence peut être autorisée par des engagements et des règles recon
