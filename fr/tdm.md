@@ -162,10 +162,10 @@ Les instruments d’épreuve servent à examiner les distinctions, les inférenc
 
 ### A. Diagnostiquer les confusions
 
-- [Diagnostiquer une confusion de niveau](diagnostiquer-une-confusion-de-niveau.md) — Repérer le passage injustifié entre des niveaux ou des fonctions distincts.
-- [Diagnostiquer une erreur de catégorie](diagnostiquer-une-erreur-de-categorie.md) — Examiner l’attribution d’une propriété ou d’une fonction dans un cadre inadéquat.
-- [Diagnostiquer une réduction](diagnostiquer-une-reduction.md) — Repérer la réduction d’une fonction ou d’un registre à un autre.
-- [Recevabilité](recevabilite.md) — Examiner les conditions auxquelles une description ou une conclusion peut être acceptée dans une pratique.
+- [Diagnostiquer une confusion de niveau](fr/diagnostiquer-une-confusion-de-niveau.md) — Repérer le passage injustifié entre des niveaux ou des fonctions distincts.
+- [Diagnostiquer une erreur de catégorie](fr/diagnostiquer-une-erreur-de-categorie.md) — Examiner l’attribution d’une propriété ou d’une fonction dans un cadre inadéquat.
+- [Diagnostiquer une réduction](fr/diagnostiquer-une-reduction.md) — Repérer la réduction d’une fonction ou d’un registre à un autre.
+- [Recevabilité](fr/recevabilite.md) — Examiner les conditions auxquelles une description ou une conclusion peut être acceptée dans une pratique.
 
 ### B. Comparer et éprouver
 
@@ -179,20 +179,19 @@ Les instruments d’épreuve servent à examiner les distinctions, les inférenc
 
 Les cas permettent de confronter les distinctions et les opérations à des situations particulières. Ils servent aussi à repérer des ambiguïtés ou des limites des cadres décrits.
 
-- [Le botaniste et le bûcheron](botaniste-bucheron.md) — Examiner la coexistence de descriptions différentes d’une même situation.
-- [Cette personne est mauvaise](cette-personne-est-mauvaise.md) — Examiner les fonctions descriptives et évaluatives d’une attribution.
-- [Changement climatique](changement-climatique.md) — Confronter les descriptions, les mesures et les critères mobilisés dans un problème complexe.
-- [Géocentrisme](geocentrisme.md) — Examiner la transformation des descriptions et les critères de leur évaluation.
-- [Phlogistique](phlogistique.md) — Examiner la révision d’un cadre descriptif et explicatif.
-- [Urgence hospitalière](urgence-hospitaliere.md) — Examiner les rapports entre contraintes, décisions pratiques et justifications.
+- [Le botaniste et le bûcheron](fr/botaniste-bucheron.md) — Examiner la coexistence de descriptions différentes d’une même situation.
+- [Cette personne est mauvaise](fr/cette-personne-est-mauvaise.md) — Examiner les fonctions descriptives et évaluatives d’une attribution.
+- [Changement climatique](fr/changement-climatique.md) — Confronter les descriptions, les mesures et les critères mobilisés dans un problème complexe.
+- [Géocentrisme](fr/geocentrisme.md) — Examiner la transformation des descriptions et les critères de leur évaluation.
+- [Phlogistique](fr/phlogistique.md) — Examiner la révision d’un cadre descriptif et explicatif.
+- [Urgence hospitalière](fr/urgence-hospitaliere.md) — Examiner les rapports entre contraintes, décisions pratiques et justifications.
 
 ---
 
 ## VIII. Repères éditoriaux et navigation
 
 - [Patterns éditoriaux de Protokin](../patterns.md) — Définir les fonctions des types de pages, les exigences de rédaction et les points de vigilance pour maintenir la cohérence du corpus.
-- [Parcours de lecture](parcours-de-lecture.md) — Orienter la consultation selon le problème rencontré.
-- [Lexique Protokin](lexique-protokin.md) — Retrouver les termes et leurs définitions fonctionnelles.
+- [Parcours de lecture](fr/parcours-de-lecture.md) — Orienter la consultation selon le problème rencontré.
 
 Les patterns définissent des exigences de composition et de cohérence ; ils ne remplacent pas le travail conceptuel propre à chaque page. Le lexique précise les termes ; les pages de référence complètent les définitions.
 
