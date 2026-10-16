@@ -167,10 +167,9 @@ Les instruments d’épreuve servent à examiner les distinctions, les inférenc
 
 ### B. Comparer et éprouver
 
-- [Comparer deux descriptions](comparer-deux-descriptions.md) — Examiner les différences d’engagement, de fonction et de conséquence entre deux descriptions.
-- [Évaluer une traduction](evaluer-une-traduction.md) — Examiner les transformations produites par le passage d’une description à une autre.
-- [Butoir](butoir.md) — Identifier les contraintes qui empêchent certaines interprétations ou certains enchaînements.
-- [Limites de Protokin](limites-de-protokin.md) — Préciser ce que la démarche permet d’examiner et ce qu’elle ne prétend pas établir.
+- [Comparer deux descriptions](fr/comparer-deux-descriptions.md) — Examiner les différences d’engagement, de fonction et de conséquence entre deux descriptions.
+- [Évaluer une traduction](fr/evaluer-une-traduction.md) — Examiner les transformations produites par le passage d’une description à une autre.
+- [Butoir](fr/butoir.md) — Identifier les contraintes qui empêchent certaines interprétations ou certains enchaînements.
 
 ---
 
