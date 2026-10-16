@@ -43,7 +43,7 @@ Un même arbre peut ainsi être identifié comme un arbre particulier, décrit c
 
 La diversité des objets descriptifs ne prouve donc pas que chaque description vise un référent distinct. Elle ne garantit pas non plus que toutes les descriptions soient compatibles ou adéquates.
 
-Pour approfondir cette distinction, voir [Objet descriptif](objet-descriptif.md).
+Pour approfondir cette distinction, voir [Objet descriptif](fr/objet-descriptif.md).
 
 ### 4.2. Référent et description
 
@@ -55,7 +55,7 @@ Une description peut être corrigée alors que son référent demeure le même. 
 
 La relation entre description et référent doit ainsi être examinée sans assimiler la description à ce qu’elle décrit.
 
-Voir [Description](description.md).
+Voir [Description](fr/description.md).
 
 ### 4.3. Référence et référent
 
