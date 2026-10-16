@@ -84,7 +84,7 @@ Une configuration peut être reprise sans laisser de trace documentaire durable.
 
 La conservation d’une trace ne démontre donc pas, à elle seule, la stabilisation de la configuration à laquelle elle se rapporte.
 
-Voir [Sédimentation](sedimentation.md).
+Voir [Sédimentation](fr/sedimentation.md).
 
 ### 5.3. Stabilisation et effet cliquet
 
@@ -92,7 +92,7 @@ Une configuration stabilisée peut devenir plus coûteuse à réviser ou à aban
 
 L’**effet cliquet** désigne une asymétrie des coûts de maintien, de révision ou d’abandon qu’il faut établir séparément. Il ne constitue ni une cause autonome de stabilisation ni une conséquence nécessaire de toute persistance.
 
-Voir [Effet cliquet](effet-cliquet.md).
+Voir [Effet cliquet](fr/effet-cliquet.md).
 
 ### 5.4. Stabilisation et trajectoire
 
@@ -100,7 +100,7 @@ La stabilisation permet de caractériser une continuité reconnue dans les repri
 
 Une trajectoire peut comporter des périodes de stabilisation, mais elle ne se réduit pas à leur succession. La stabilisation, à elle seule, ne permet pas de reconstruire le parcours qui a conduit à la configuration observée.
 
-Voir [Trajectoire descriptive](trajectoire.md).
+Voir [Trajectoire descriptive](fr/trajectoire.md).
 
 ### 5.5. Stabilisation et allure
 
@@ -108,7 +108,7 @@ L’**allure** qualifie la distribution temporelle des transformations d’une t
 
 La stabilisation porte sur la continuité reconnue ; l’allure, sur la distribution temporelle des transformations. Les deux analyses peuvent se compléter sans se confondre.
 
-Voir [Allure](allure.md).
+Voir [Allure](fr/allure.md).
 
 ### 5.6. Stabilisation et justification
 
@@ -133,7 +133,7 @@ Une condition matérielle peut contribuer à la persistance sans établir la con
 
 La quadripartition sert ainsi à préciser les questions pertinentes sans transformer la stabilisation en une propriété unique ni en un processus doté de quatre phases.
 
-Voir [Quadripartition de l’orientation](quadripartition-de-l-orientation.md).
+Voir [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md).
 
 ## 7. Exemple : le maintien d’une qualification administrative
 
