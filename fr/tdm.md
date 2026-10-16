@@ -65,6 +65,8 @@ Ces fonctions permettent d’examiner l’enquête elle-même, ses conditions d�
 
 - [Temps physique](fr/temps.md) — Examiner comment les relations temporelles sont établies et mesurées dans l’étude des processus physiques, en les distinguant de la temporalité propre aux pratiques descriptives.
 - [Temporalité descriptive](fr/temporalite-descriptive.md) — Examiner les trajectoires, les durées, les rythmes et les transformations des descriptions.
+- [Trajectoire](fr/trajectoire.md) — Reconstruire le parcours des transformations descriptives.
+- [Allure](fr/allure.md) — Qualifier la distribution temporelle des transformations d’une trajectoire.
 - [Réaliser un audit](fr/realiser-un-audit.md) — Repérer les glissements catégoriels, les réductions et les équivalences insuffisamment justifiées.
 - [Réflexivité](fr/reflexivite.md) — Examiner les conditions et les limites de l’exercice descriptif, y compris celles du cadre employé.
 - [Comparer deux descriptions](fr/comparer-deux-descriptions.md) — Mettre en regard les engagements, les critères et les conséquences de descriptions distinctes.
