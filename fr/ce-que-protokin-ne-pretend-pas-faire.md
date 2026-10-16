@@ -1,181 +1,121 @@
-# Page : ce-que-protokin-ne-pretend-pas-faire.md
+# Ce que Protokin ne prétend pas faire
 
-Ce que Protokin ne prétend pas faire — Le statut de non-substitution et de non-ontologie de la métathéorie
+## 1. Fonction de la page
 
-Analyse architecturale de la page
+Cette page précise les limites de Protokin. Elle détermine ce que l’enquête sur les pratiques descriptives ne permet pas, à elle seule, d’établir ou de décider.
 
-1. Fonction unique de la page
+Protokin examine les conditions, les relations, les fonctions et les justifications mobilisées dans des pratiques descriptives. Cette position ne lui confère ni un accès privilégié au réel, ni une autorité générale sur les pratiques examinées.
 
-Cette page existe pour délimiter de manière explicite les frontières négatives de Protokin, barrant toute dérive d'impérialisme sémantique, d'ontologisation ou de substitution aux savoirs de premier ordre.
+La limite porte donc moins sur les sujets que Protokin pourrait aborder que sur les conclusions qu’il peut légitimement tirer de son propre examen.
 
-2. Choix du mode de développement
+## 2. Le problème de la délimitation
 
-· Mode retenu : Mode A — Développement conceptuel.
-· Justification : La page a pour objectif d'installer la synthèse conceptuelle des limites négatives et de non-substitution en tant que frontières négatives de la métathéorie, complétant ainsi l'analyse positive des capacités de second ordre d'élucidation.
+Une démarche qui examine les descriptions, leurs catégories et leurs critères peut être tentée de se placer au-dessus des pratiques étudiées. Elle risque alors de transformer ses propres distinctions en normes universelles et de traiter ses conclusions comme si elles échappaient aux difficultés qu’elle cherche à identifier ailleurs.
 
-3. Problème conceptuel
+Le risque inverse consiste à conclure que, puisque toute description dépend de pratiques et de critères, aucune ne peut être évaluée au-delà de son contexte d’usage.
 
-Comment formaliser et stabiliser les frontières négatives et de non-substitution d'une métathéorie des pratiques descriptives sans s'en remettre à un tribunal de surplomb transcendant, de manière à immuniser le projet contre l'impérialisme sémantique et à préserver l'autonomie et l'autorité locale des régimes de premier ordre ?
+Ces deux positions sont insuffisantes. L’analyse de second ordre ne dispose pas d’un tribunal absolu, mais elle n’est pas pour autant dispensée d’examiner les incompatibilités, les inférences, les critères et les prétentions des descriptions.
 
-4. Objet propre
+Protokin doit donc préciser la portée de ses analyses sans renoncer à leur mise à l’épreuve.
 
-· Cette page traite de : la délimitation explicite des frontières négatives de Protokin (ce qu'il ne prétend pas faire) ; la non-substitution aux savoirs et critères de premier ordre ; la critique de l'impérialisme sémantique et métathéorique ; le refus d'une ontologie de l'être.
-· Cette page ne traite pas de : la récapitulation positive des capacités d'élucidation de l'audit (développée dans ce-que-protokin-permet.md), l'analyse des perspectives de recherche futures (développée dans perspectives-de-recherche.md), ni l'audit ou le diagnostic d'une pathologie descriptive locale spécifique.
+## 3. Le statut de la démarche
 
-5. Statut conceptuel
+Protokin est une démarche d’enquête sur les pratiques descriptives. Il ne constitue ni une ontologie générale, ni une science de premier ordre, ni une instance universelle de décision.
 
-Il s'agit d'un texte de synthèse et de conclusion générale appartenant à la section 12 — Conclusion.
+Son objet est notamment d’examiner comment certaines différences deviennent descriptibles, comment des descriptions sont utilisées et quelles raisons permettent de défendre ou de contester les conclusions qui en sont tirées.
 
-6. Dépendances fonctionnelles
+Cela ne signifie pas que Protokin ne puisse produire aucune description. Il peut formuler des descriptions nouvelles des pratiques examinées, de leurs dépendances et de leurs transformations. Mais ces descriptions restent situées, discutables et révisables. Elles ne constituent pas, par leur seul statut de second ordre, une description définitive du réel.
 
-Cette page suppose :
+La démarche ne présuppose donc pas que les pratiques descriptives constituent intégralement leurs référents. Elle ne prétend pas davantage accéder à ces référents indépendamment de toute condition d’examen.
 
-· Le concept de limites de Protokin.
-· Le principe d'humilité épistémique.
-· Le principe de réflexivité.
-· Le diagnostic de la réduction et de la confusion de niveau.
+## 4. Ce que Protokin ne prétend pas établir
 
-Cette page rend possible :
+### 4.1. Une ontologie générale
 
-· La formulation des Perspectives de recherche libérée de toute prétention dogmatique et absolue.
-· La conduite de contre-audits transparents par les praticiens de terrain.
-· L'auto-correction pérenne de Protokin.
+Protokin ne cherche pas à déterminer ce que le monde serait indépendamment de toute pratique descriptive. Il ne fournit pas un inventaire définitif des êtres, des propriétés ou des structures du réel.
 
-7. Frontières conceptuelles
+Il examine les conditions dans lesquelles des objets, des différences et des relations sont identifiés et décrits dans des pratiques déterminées.
 
-"Ce que Protokin permet" et "Ce que Protokin ne prétend pas faire"
+Cette délimitation ne revient pas à affirmer que le réel serait produit par les descriptions. Elle interdit précisément de confondre l’analyse des pratiques descriptives avec une théorie générale de la constitution du monde.
 
-La différence porte sur la polarité de la délimitation. Ce que Protokin permet dresse le bilan positif des forces et des capacités d'élucidation logique de la métathéorie. Ce que Protokin ne prétend pas faire fixe la frontière critique négative, barrant les dérives d'impérialisme métathéorique, d'ontologisation ou de substitution aux savoirs de premier ordre.
+### 4.2. Une validation factuelle à la place des pratiques compétentes
 
-8. Architecture locale
+Protokin ne remplace pas les observations, les mesures, les expérimentations ou les compétences nécessaires pour établir un résultat dans une discipline particulière.
 
-```
-              CE QUE PROTOKIN PERMET (ce-que-protokin-permet.md)
-                             │
-                             ▼
-         CE QUE PROTOKIN NE PRÉTEND PAS FAIRE (ce-que-protokin-ne-pretend-pas-faire.md)
-                             │
-                             ▼
-             PERSPECTIVES DE RECHERCHE (perspectives-de-recherche.md)
-```
+Il peut examiner la manière dont une conclusion est construite, les prémisses dont elle dépend, les critères mobilisés et les passages entre les éléments disponibles et le résultat avancé. Cet examen ne suffit pas toujours à établir si les observations sont exactes ou si la conclusion est empiriquement correcte.
 
----
+La distinction est importante : analyser la structure d’une justification n’équivaut pas à accomplir toutes les opérations nécessaires pour vérifier son contenu.
 
-Cartouche fonctionnel
+### 4.3. Un tribunal universel des valeurs
 
-Élément Description
-Fonction Délimiter explicitement le statut métathéorique et les frontières négatives de Protokin en interdisant toute dérive d'impérialisme sémantique ou de substitution aux savoirs de premier ordre.
-Prépare L'analyse des perspectives de recherche futures libérées de toute prétention dogmatique et la conduite de contre-audits par les praticiens de terrain.
-Mobilise Le principe d'humilité épistémique, le principe de réflexivité, le concept de limites de Protokin et l'écologie des régimes descriptifs.
-Permet ensuite De garantir le statut non hégémonique de la métathéorie, d'orienter l'auditeur vers un audit purement clinique et de préserver l'autonomie des régimes de premier ordre.
-N'établit pas Le bilan positif des apports de l'audit, le protocole méthodologique de l'enquête locale, ni les fondements d'une éthique normative.
+Protokin ne déduit pas automatiquement d’un diagnostic descriptif une conclusion morale ou politique.
 
----
+Repérer une asymétrie, une exclusion ou une confusion de catégories peut contribuer à examiner une décision et ses conséquences. Cela ne suffit pas, sans arguments et critères supplémentaires, à déterminer ce qui est juste, légitime ou souhaitable.
 
-Problème conceptuel inaugural
+Les engagements normatifs doivent pouvoir être explicités, discutés et justifiés. Protokin peut contribuer à cet examen, mais ne remplace pas la délibération ni les responsabilités des personnes et des institutions concernées.
 
-Toute métathéorie qui prend pour objet d'étude les connaissances, les sciences et les discours collectifs s'expose au risque de s'ériger clandestinement en tribunal absolu et transcendant de la vérité. En dénonçant les pathologies relationnelles et les réductions sémantiques des autres disciplines, l'auditeur peut succomber à l'illusion d'une fondation unique et d'un point de vue de nulle part qui lui conférerait le monopole de la vérité objective. Cette tentation dogmatique ou hégémonique réintroduit clandestinement le « Mythe du Donné » sous la forme d'un méta-régime absolu qui viendrait invalider, corriger ou remplacer de l'extérieur les savoirs de premier ordre.
+### 4.4. Une garantie de résolution des désaccords
 
-Dès lors, la question s'impose à la conclusion de Protokin :
+Protokin ne garantit ni l’accord entre plusieurs pratiques, ni la traduction complète de leurs descriptions, ni la résolution des conflits qu’elles rencontrent.
 
-Comment formaliser et stabiliser les frontières négatives et de non-substitution d'une métathéorie des pratiques descriptives, de manière à immuniser le projet contre l'impérialisme sémantique et à préserver l'autonomie et l'autorité locale des régimes de premier ordre ?
+L’enquête peut clarifier un désaccord, en préciser les conditions ou montrer qu’il porte sur des questions différentes. Elle peut aussi faire apparaître une incompatibilité persistante, des données insuffisantes ou des critères qui restent contestés.
 
-Protokin résout cette aporie en posant que la cohérence de la métathéorie exige une auto-limitation constitutive. Protokin ne produit pas de nouvelles descriptions du monde et n'établit aucune ontologie de l'être. Sa validité se mesure exclusivement à sa capacité d'explicitation et d'auto-correction. En délimitant de manière de premier ordre ses frontières négatives, Protokin se reconnaît comme un régime descriptif situé, révisable et sans privilège de surplomb, s'interdisant toute substitution aux critères locaux des collectifs d'enquête.
+Le résultat pertinent n’est pas nécessairement la résolution du conflit. Il peut consister à déterminer plus précisément ce qui est en désaccord, ce qui a été établi et ce qui demeure ouvert.
 
----
+## 5. La non-substitution aux pratiques examinées
 
-Définition fonctionnelle
+La non-substitution est une règle de portée : l’examen de second ordre ne dispense pas d’accomplir les opérations requises par la pratique concernée.
 
-Dans l'architecture de Protokin, ce que la métathéorie ne prétend pas faire se définit comme :
+Une analyse des critères médicaux ne soigne pas un patient. Une analyse des catégories d’un modèle scientifique ne remplace pas l’expérimentation. Une analyse des procédures administratives ne prend pas, à elle seule, la décision qui relève de l’autorité compétente.
 
-La délimitation explicite des frontières négatives de l'appareil d'audit, interdisant à la métathéorie de se substituer aux critères de validité des sciences ou des pratiques de premier ordre, et affirmant son statut de régime descriptif situé, faillible, non ontologique et exposé au contre-audit des communautés de praticiens.
+Ces exemples ne signifient pas que les pratiques de premier ordre seraient à l’abri de toute critique extérieure ou que leurs critères seraient intouchables. Les pratiques peuvent être comparées, leurs présupposés interrogés et leurs justifications contestées. Mais une telle critique doit expliciter les raisons de ses évaluations au lieu de tirer son autorité du seul fait qu’elle se situe au second ordre.
 
-Cette définition met en garde contre les dérives d'impérialisme conceptuel et pose trois principes de non-substitution :
+Il faut ainsi distinguer trois opérations :
 
-· Le refus d'un tribunal externe de la vérité : Protokin n'a pas vocation à invalider ou à valider de façon neutre et absolue les faits empiriques ou les jugements éthiques des régimes de premier ordre.
-· Le refus de toute ontologie substantielle : Protokin ne décrit pas les choses telles qu'elles sont indépendamment des pratiques ; il décrit les conditions sous lesquelles les collectifs les rendent descriptibles.
-· La symétrie du contre-audit : La métathéorie accepte de se prêter elle-même aux exigences d'audit et d'être corrigée ou révisée par les praticiens de premier ordre dont elle analyse la structure.
+- **Examiner** les conditions, les fonctions et les justifications d’une pratique.
+- **Évaluer** les descriptions et les conclusions à partir d’éléments et de critères pertinents, dont la recevabilité peut elle-même être discutée.
+- **Décider ou intervenir** dans la situation concernée, ce qui peut exiger des compétences, des preuves, des responsabilités et des procédures que l’analyse ne fournit pas à elle seule.
 
----
+Ces opérations peuvent se soutenir mutuellement, mais elles ne sont pas interchangeables.
 
-Les quatre frontières de non-substitution de Protokin
+## 6. La réflexivité et la révisabilité de Protokin
 
-L'auto-limitation de Protokin s'articule autour de quatre exclusions de juridiction fondamentales :
+Les distinctions et les instruments de Protokin ne bénéficient d’aucune immunité particulière. Puisque la démarche examine les conditions et les limites des pratiques descriptives, elle doit également accepter que ses propres catégories, formulations et critères soient soumis à l’examen.
 
-```
-                       FRONTIÈRES DE PROTOKIN
-                                  │
-      ┌───────────────────────────┼───────────────────────────┐
-      ▼                           ▼                           ▼
-La Non-Ontologie           La Non-Substitution         L'Absence de Tribunal
- (Pas de théorie de          (Pas de décision à          (Pas de jugement sur
-   l'être en soi)             la place de l'expert)       la vérité factuelle)
-                                                              │
-                                                              ▼
-                                                     L'Auto-Savoir Situé
-                                                   (Régime faillible révisable)
-```
+Une distinction peut se révéler inadéquate à un cas. Une catégorie peut introduire une confusion qu’elle était censée éviter. Une analyse peut négliger une condition pertinente ou tirer une conclusion insuffisamment justifiée.
 
-1. Protokin ne prétend pas être une ontologie (Le plan de l'être)
+Ces difficultés peuvent conduire à réviser les instruments du projet. La révision ne consiste pas à abandonner toute règle, mais à examiner les raisons de son maintien ou de sa modification.
 
-Protokin ne propose aucune de ces théories qui cherchent à déterminer ce que le monde est « en soi ». Il suspend toute affirmation ontologique directe pour se focaliser exclusivement sur l'étude des pratiques et du mouvement des descriptions. La métathéorie n'établit pas d'inventaire définitif ou absolu des êtres du monde ; son domaine est celui des descriptions et de l'explicitation de nos manières de dicibilité, non celui de l'être en soi.
+La réflexivité n’accorde donc pas à Protokin un privilège supplémentaire. Elle constitue une exigence de cohérence entre ce que la démarche demande aux pratiques examinées et ce qu’elle accepte pour elle-même.
 
-2. Protokin ne prétend pas se substituer aux disciplines de premier ordre
+## 7. Limites de cette auto-limitation
 
-La validité d'une description ne peut être évaluée qu'au sein et à l'aune des critères immanents, des rituels de preuve et des apprentissages spécialisés de son propre régime. Protokin n'a pas vocation à mener des enquêtes empiriques ou à résoudre des problèmes factuels particuliers. Il n'exécute aucune preuve et ne produit aucun fait de premier ordre ; il se borne à reconstruire leurs conditions de sédimentation et d'engagement, et à auditer la discipline de leurs transitions et traductions. L'audit n'exécute pas la décision ; il en examine la structure de redevabilité.
+La délimitation de Protokin ne résout pas toutes les difficultés qu’elle identifie.
 
-3. Protokin ne prétend pas détenir un tribunal moral ou politique suprême
+Premièrement, distinguer des fonctions ne suffit pas à déterminer les relations empiriques entre elles. Ces relations doivent être examinées à partir des éléments disponibles.
 
-La dénonciation d'une réduction ou d'une erreur de catégorie ne s'érige jamais en blâme moral ou idéologique contre une institution ou une communauté. Protokin demeure une analyse clinique immanente et descriptive de la puissance et du coût logique d'une configuration. Protokin ne distribue aucun certificat de vertu éthique ou de légitimité politique ; il maintient seulement l'espace des raisons ouvert pour que le collectif puisse délibérer librement et assumer ses propres engagements déontiques.
+Deuxièmement, rendre explicites des critères ne suffit pas à les justifier. Leur pertinence et leur application peuvent rester contestées.
 
-4. Protokin ne prétend pas être un méta-régime absolu (Réflexivité symétrique)
+Troisièmement, reconnaître plusieurs descriptions ne permet pas de conclure qu’elles sont équivalentes. Certaines peuvent être mieux étayées pour une question déterminée, tandis que d’autres se révèlent insuffisantes ou incompatibles avec les éléments disponibles.
 
-L'armature théorique de Protokin ne bénéficie d'aucun privilège de surplomb ou d'immunité épistémique. Elle est elle-même une pratique discursive et matérielle située, s'inscrivant dans des contextes textuels et linguistiques révisables. Protokin s'expose de manière symétrique aux rituels de contrôle de l'auto-application et au contre-audit des communautés de premier ordre, acceptant la correction permanente et la réorganisation de son propre lexique face aux butoirs rencontrés.
+Enfin, l’explicitation d’une difficulté ne garantit pas sa transformation pratique. Les ressources, les responsabilités et les rapports de pouvoir peuvent limiter les possibilités de révision, même lorsqu’un problème est clairement identifié.
 
----
+Ces limites ne rendent pas l’enquête inutile. Elles précisent ce qu’elle a établi, ce qu’elle laisse indéterminé et les conditions d’un examen supplémentaire.
 
-Éclairage par les fils rouges pédagogiques
+## 8. Synthèse et renvois
 
-1. Le patient aux urgences hospitalières
+Protokin ne prétend ni fournir une ontologie générale, ni remplacer les enquêtes de premier ordre, ni trancher toutes les controverses factuelles, morales ou politiques. Il ne garantit pas davantage la résolution des désaccords ou la transformation des pratiques.
 
-· L'illusion d'impérialisme : S'imaginer que l'audit de Protokin guérit le corps biologique ou dicte au médecin quel traitement administrer.
-· Ce que Protokin ne prétend pas faire : L'audit de Protokin ne soigne aucun patient, ne pose aucun diagnostic cardiologique et ne remplace ni l'infirmière, ni le médecin. Il s'interdit d'intervenir dans la décision clinique elle-même, mais se borne à libérer et à délimiter l'espace des raisons (le triage clinique) face aux écrasements clandestins du régime administratif budgétaire, pour garantir la souveraineté du diagnostic du soignant.
+Sa portée dépend de la qualité des distinctions proposées, des éléments examinés et des justifications avancées. Ses propres analyses restent soumises à ces exigences.
 
-2. Le botaniste et le bûcheron face à l'arbre
+**Protokin ne se place pas au-dessus des pratiques descriptives : il examine leurs conditions, leurs fonctions et leurs justifications, sans confondre cet examen avec la preuve, la décision ou l’intervention qu’elles peuvent exiger.**
 
-· L'illusion d'impérialisme : Décréter quel acteur décrit l'arbre « réellement » ou possède le regard le plus légitime sur la forêt.
-· Ce que Protokin ne prétend pas faire : Protokin s'interdit de trancher le débat entre la systématique universitaire du botaniste (image scientifique) et l'estimation de coupe du bûcheron (image manifeste technique). Il ne produit aucune équation sylvicole ni aucun fait botanique. Son rôle se borne à cartographier leurs conditions de sédimentation et d'engagement respectives, et à concevoir par traduction réglée un régime hybride (la sylviculture écologique) qui articule leurs forces sans qu'aucun de leurs critères ne serve à écraser clandestinement l'autre.
+Pour approfondir :
 
-3. La déconstruction de « Cette personne est mauvaise »
-
-· L'illusion d'impérialisme : S'ériger en tribunal moralisateur pour distribuer des condamnations morales ou des absolutions métathéoriques.
-· Ce que Protokin ne prétend pas faire : Protokin n'établit aucune éthique substantielle ni aucune métaphysique du mal en soi. L'audit ne vise pas à blâmer ou à excuser l'individu, mais à déconstruire l'erreur de catégorie consistant à traiter un blâme situé (KIN) comme une essence naturelle biologique fixe de l'organisme (PROTO). Protokin décrit la mécanique du scorekeeping déontique ordinaire sans prétendre remplacer la responsabilité de l'agent ou les rituels de justice du collectif.
-
----
-
-Limites internes et vigilances de l'auto-audit
-
-La manipulation de ce concept impose à l'enquêteur de second ordre deux vigilances fondamentales :
-
-· Le piège de l'auto-justification par la modestie (La modestie passive) : Utiliser l'argument des limites de Protokin pour soustraire l'analyse de second ordre à l'exigence de rigueur et de précision argumentative. L'humilité de Protokin est une attitude rationnelle exigeante et faillible, qui doit s'éprouver dans la réussite de l'enquête.
-· La dérive de l'incommensurabilité relativiste : Interpréter la délimitation stricte de non-substitution comme l'affirmation que les régimes de premier ordre sont des monades étanches définitivement coupées de toute circulation conceptuelle. Protokin réaffirme l'exigence de la traduction et de la symbiose écologique : les régimes sont autonomes mais compatibles par l'explicitation de connecteurs de second ordre.
-
----
-
-Synthèse finale
-
-Ce que cette page établit
-
-Le statut de non-substitution et de non-ontologie de Protokin, fixant de manière conclusive ses frontières critiques négatives et barrant toute dérive d'impérialisme métathéorique ou de substitution factuelle de premier ordre aux sciences et pratiques de terrain.
-
-Ce qu'elle suppose
-
-Le principe de réflexivité, le principe d'humilité épistémique, le concept de limites de Protokin, et l'architecture de second ordre de l'écologie des régimes.
-
-Ce qu'elle rend possible
-
-La formulation rigoureuse des Perspectives de recherche d'aval, l'auto-correction dynamique de la métathéorie, et l'ouverture pérenne de Protokin aux contre-audits des communautés de pratique.
-
----
-
-Protokin 2026 — version 26.08.081
+- [Ce que Protokin permet](fr/ce-que-protokin-permet.md)
+- [Introduction générale](fr/introduction-generale.md)
+- [Architecture du projet](fr/architecture-projet.md)
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
+- [Réaliser un audit](fr/realiser-un-audit.md)
+- [Limites de Protokin](fr/limites-de-protokin.md)
