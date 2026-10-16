@@ -129,9 +129,10 @@ Cette partie rassemble les ressources permettant d’examiner une configuration 
 
 ### A. Orientations de l’examen
 
-- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md) — Présenter le cadre d’orientation en quatre dimensions.
-- [Butoir](butoir.md) — Examiner les contraintes qui limitent certaines descriptions ou inférences.
-- [Articulation et conversion](articulation-vs-conversion.md) — Distinguer la mise en relation de registres de leur conversion injustifiée.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Présenter le cadre d’orientation en quatre dimensions.
+- [Butoir](fr/butoir.md) — Examiner les contraintes qui limitent certaines descriptions ou inférences.
+- [Cause](fr/cause.md) — Examiner ce qu’une explication causale établit et distinguer la production d’un phénomène de sa fonction ou de sa justification.
+- [Articulation et conversion](fr/articulation-vs-conversion.md) — Distinguer la mise en relation de registres de leur conversion injustifiée.
 
 ### B. Régimes descriptifs et identification
 
