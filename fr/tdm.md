@@ -90,6 +90,7 @@ La proposition et l’assertion remplissent des fonctions distinctes : l’une c
 ### B. Inférence et espace des raisons
 
 - [La portée inférentielle](la-portee-inferentielle.md) — Examiner les engagements présupposés et les conséquences autorisées par un contenu.
+-  [Inférence formelle](inference-formelle.md) — Examiner la validité d’un raisonnement à partir de sa structure logique, indépendamment de la vérité effective de ses prémisses.
 - [Inférence matérielle](inference-materielle.md) — Examiner les relations d’autorisation qui dépendent du contenu des énoncés.
 - [Espace des raisons](espace-des-raisons.md) — Situer les relations entre raisons, conclusions, habilitations et incompatibilités.
 - [Raisons](raisons.md) — Préciser ce qui peut soutenir, contester ou réviser une conclusion.
