@@ -68,6 +68,7 @@ Pages concernées :
 - "architecture-projet.md"
 - "architecture-fonctionnelle-de-l-enquete.md"
 - "quadripartition-de-l-orientation.md"
+- "nom-origine-portee.md"
 
 Fonction
 
