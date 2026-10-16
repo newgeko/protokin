@@ -89,7 +89,7 @@ La proposition et l’assertion remplissent des fonctions distinctes : l’une c
 
 ### B. Inférence et espace des raisons
 
-- [Inférences](fr/inferences.md) — Présenter l’inférence comme une transition discursive qui autorise, exige ou exclut d’autres descriptions.
+- [Inférence](fr/inference.md) — Présenter l’inférence comme une transition discursive qui autorise, exige ou exclut d’autres descriptions.
 - [La portée inférentielle](fr/la-portee-inferentielle.md) — Examiner les engagements présupposés et les conséquences autorisées par un contenu.
 - [Inférence formelle](fr/inference-formelle.md) — Examiner la validité d’un raisonnement à partir de sa structure logique.
 - [Inférence matérielle](fr/inference-materielle.md) — Examiner les relations d’autorisation qui dépendent du contenu des énoncés.
