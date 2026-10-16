@@ -94,7 +94,7 @@ La proposition et l’assertion remplissent des fonctions distinctes : l’une c
 - [Inférence formelle](fr/inference-formelle.md) — Examiner la validité d’un raisonnement à partir de sa structure logique.
 - [Inférence matérielle](fr/inference-materielle.md) — Examiner les relations d’autorisation qui dépendent du contenu des énoncés.
 - [Espace des raisons](fr/espace-des-raisons.md) — Situer les relations entre raisons, conclusions, habilitations et incompatibilités.
-- [Raisons](fr/raisons.md) — Préciser ce qui peut soutenir, contester ou réviser une conclusion.
+- [Raison](fr/raison.md) — Préciser ce qui peut soutenir, contester ou réviser une conclusion.
 - [Justifications](fr/justifications.md) — Examiner les conditions dans lesquelles un engagement peut être défendu.
 - [Critères](fr/criteres.md) — Préciser les normes selon lesquelles une description ou une conclusion est évaluée.
 - [Relation sémantique et référence](fr/relation-semantique-et-reference.md) — Examiner l’articulation entre contenu, usage et visée référentielle.
