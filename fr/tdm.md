@@ -11,8 +11,8 @@ Le classement proposé est documentaire. Il ne constitue ni une hiérarchie onto
 Ces pages précisent le problème auquel répond Protokin, l’organisation du projet et les fonctions respectives de ses principales ressources.
 
 - [README — Présentation générale](../README.md) — Présenter le projet, son orientation et ses limites.
-- [Introduction générale](introduction-generale.md) — Situer les difficultés rencontrées dans les pratiques descriptives et introduire la nécessité d’une enquête.
-- [Architecture du projet](architecture-projet.md) — Organiser les ressources du corpus et préciser leurs fonctions.
+- [Introduction générale](fr/introduction-generale.md) — Situer les difficultés rencontrées dans les pratiques descriptives et introduire la nécessité d’une enquête.
+- [Architecture du projet](fr/architecture-projet.md) — Organiser les ressources du corpus et préciser leurs fonctions.
 - [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md) — Décrire les opérations par lesquelles une difficulté descriptive peut être examinée et reprise.
 - [Quadripartition de l’orientation](quadripartition-de-l-orientation.md) — Distinguer quatre orientations d’examen : Condition, Relation, Fonction et Justification.
 - [Parcours de lecture](parcours-de-lecture.md) — Proposer des entrées dans le corpus selon les besoins de lecture.
