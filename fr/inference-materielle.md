@@ -1,80 +1,143 @@
-# L'Inférence Matérielle
+# Inférence matérielle — Conséquences liées au contenu
 
-## 1. Définition et positionnement canonique
+## 1. Fonction
 
-L'**inférence matérielle** désigne une relation d'entraînement d'un énoncé à un autre dont la validité et la force normative reposent non pas sur une forme logique abstraite ou formelle, mais sur le **contenu conceptuel propre** des expressions employées et sur les pratiques discursives d'une communauté.
+L’inférence matérielle permet d’examiner les transitions entre des contenus descriptifs lorsque leur recevabilité dépend de ce qui est affirmé, des concepts mobilisés et des pratiques dans lesquelles ces contenus sont employés.
 
-Protokin, dans la lignée de Wilfrid Sellars et de Robert Brandom, soutient que la signification d'un concept n'est pas une représentation passive du monde, mais le rôle qu'il joue dans des inférences matérielles.
+Cette page précise comment une affirmation peut autoriser une conclusion, quelles conditions peuvent rendre cette transition recevable et pourquoi une inférence peut devoir être révisée sans que toute la description soit pour autant abandonnée.
 
-> **Formule clé** : *L'inférence matérielle ne dérive pas d'une règle logique formelle préexistante ; c'est au contraire l'inférence matérielle qui constitue le contenu des concepts, la logique n'intervenant que pour la rendre explicite.*
+## 2. Problème
 
----
+Considérons l’inférence suivante :
 
-## 2. Le renversement inférentialiste : Contenu vs Forme
+« Cet échantillon est en cuivre ; il conduit donc l’électricité. »
 
-### 2.1 La critique du modèle formaliste (Sellars, Brandom)
-La tradition dogmatique (formaliste ou positiviste) soutient que toute inférence valide doit être soit une **déduction logique pure** (reposant sur la forme tautologique, ex. *Modus Ponens*), soit un **enthymème** (une inférence incomplète masquant une prémisse majeure universelle).
+La transition entre les deux énoncés ne repose pas seulement sur leur forme grammaticale. Elle dépend de ce que l’on entend par *cuivre*, des connaissances disponibles sur le matériau et des conditions dans lesquelles sa conductivité est considérée.
 
-* **Exemple classique** :
-  $$\text{« Cette pièce est en cuivre »} \implies \text{« Cette pièce conduit l'électricité »}$$
-* **Analyse formaliste classique** : Traite cet énoncé comme un enthymème masquant la prémisse universelle *« Tout morceau de cuivre conduit l'électricité »*.
-* **Analyse inférentialiste (Sellars / Brandom / Protokin)** : Refuse ce détour. L'inférence du cuivre à la conductivité est **directement valide en vertu de ce que signifie le concept de "cuivre"**. Saisir le concept de cuivre, c'est précisément maîtriser la viabilité pratique de cette transition inférentielle.
+Mais cette transition ne doit pas être tenue pour inconditionnellement recevable. La conclusion peut dépendre de la composition de l’échantillon, de son état et du sens précis donné à l’affirmation initiale. Il faut également distinguer la conclusion autorisée par des prémisses admises de la justification de ces prémisses.
 
-### 2.2 L'expressivisme logique
-Pour l'expressivisme logique, le vocabulaire logique (comme le conditionnel *« Si... alors »*, la négation ou le quantificateur) ne crée pas la validité des raisons. Il possède une **fonction expressive** :
-* Le conditionnel *« Si $A$, alors $B$ »* sert à transformer une règle inférentielle matérielle implicite dans la pratique en une **proposition explicite** qui peut être affirmée, débattue ou révisée dans le jeu des raisons.
-* La négation sert à rendre explicite la relation d'**incompatibilité matérielle** entre deux contenus qui ne peuvent être conjointement assumés sans perte d'habilitation déontique.
+Le problème est donc de déterminer ce qui autorise le passage d’un contenu à un autre, dans quelles conditions ce passage est recevable et quelles informations pourraient conduire à le réviser.
 
----
+## 3. Définition
 
-## 3. Propriétés fondamentales de l'inférence matérielle
+Une **inférence matérielle** est une transition entre des contenus dont la recevabilité dépend notamment de leur contenu conceptuel et des pratiques dans lesquelles ils sont employés, plutôt que de leur seule forme logique.
 
-1. **Sensibilité au contenu (*Content-dependence*)** : La rectitude d'une inférence matérielle dépend de la structure du monde et de la pratique descriptive, non d'une symétrie formelle.
-2. **Non-monotonie (Défaisabilité)** : Une inférence matérielle valide peut être mise en échec par l'adjonction d'une information collatérale ou la rencontre d'une contrainte du milieu.
-   * *Exemple* : « On frotte cette allumette, donc elle s'enflamme » est une inférence matérielle valide, sauf si « l'allumette est trempée », « l'air est dépourvu d'oxygène », etc.
-3. **Non-transitivité stricte** : L'enchaînement des inférences matérielles dépend des contextes et des configurations matérielles d'application, interdisant l'extrapolation aveugle d'une chaîne deductive sans contrôle d'ancrage.
+Elle permet de tirer certaines conséquences d’une affirmation en fonction de ce que celle-ci signifie dans une pratique descriptive donnée.
 
----
+Par exemple, conclure qu’un matériau est conducteur à partir de l’affirmation qu’il s’agit de cuivre mobilise des connaissances et des critères relatifs au cuivre. La transition n’est pas justifiée par la seule structure grammaticale des deux énoncés.
 
-## 4. L'inférence matérielle dans l'architecture de Protokin
+Cela ne signifie pas que toute association habituelle entre deux contenus constitue une inférence recevable. Une transition peut être familière dans une pratique tout en reposant sur une généralisation fragile, une classification contestable ou des conditions d’application insuffisamment précisées.
 
-Au sein de Protokin, l'inférence matérielle constitue le **moteur de la mise en réseau des descriptions** et alimente le pôle de la **Relation** et de la **Justification**.
+La qualification d’une inférence comme recevable doit donc pouvoir être examinée et, si nécessaire, révisée.
 
-```
-[ Ancrage / Condition ] ──(Résistance matérielle)──> [ Constat d'Incompatibilité ]
-                                                              │
-                                                   (Inférence matérielle)
-                                                              │
-                                                              ▼
-                                               [ Révision des Engagements ]
-```
+## 4. Inférence formelle et inférence matérielle
 
-* **Transition sans conversion** : L'inférence matérielle relie des engagements descriptifs entre eux. Elle est guidée par les contraintes matérielles du milieu (**Condition**), mais elle demeure une opération normative située dans l'espace des raisons.
-* **Articulations dans la quadripartition** :
-  * **Condition** : Fournit le terrain des contiguïtés et des résistances où s'appliquent les inférences.
-  * **Relation** : Organise le réseau des conséquences et des incompatibilités matérielles entre propositions.
-  * **Fonction** : Détermine la pertinence de la transition inférentielle par rapport au but de la pratique d'enquête.
-  * **Justification** : Évalue et défend l'habilitation à effectuer la transition inférentielle.
+Une inférence formelle est évaluée en fonction de sa structure logique : sa validité ne dépend pas, dans le même sens, du contenu particulier des termes non logiques.
 
----
+Une inférence matérielle dépend davantage du contenu des concepts et des conditions dans lesquelles ils sont employés.
 
-## 5. Grille d'audit et règles de non-conversion
+Ces deux dimensions ne s’excluent pas. Une inférence peut être analysée sous l’angle de sa forme logique tout en reposant sur des prémisses dont la pertinence dépend du contenu et du contexte.
 
-Protokin applique quatre règles de vigilance pour prémunir l'analyse contre les erreurs de catégorie :
+Il n’est donc pas nécessaire d’opposer une logique formelle qui serait inutile à une inférence matérielle qui suffirait à elle seule. Les deux analyses répondent à des questions différentes : l’une porte sur la structure du passage entre les prémisses et la conclusion ; l’autre examine ce qui rend ce passage recevable compte tenu des contenus mobilisés.
 
-1. **`Inférence matérielle ≠ Diction logique formelle`**
-   * *Règle* : Ne pas confondre la validité pratique d'un enchaînement de contenu avec une nécessité formelle ou tautologique. La logique explicite l'inférence ; elle ne la fonde pas.
-2. **`Inférence matérielle ≠ Causalité physique`**
-   * *Règle* : Une cause physique explique un événement mécanique ; une inférence matérielle articule la redevabilité normative entre propositions. L'une relève de la contrainte du milieu, l'autre du jeu des raisons.
-3. **`Inférence matérielle ≠ Vérité définitive`**
-   * *Règle* : L'inférence matérielle est non-monotonique et défaisable. L'émergence d'un butoir matériel ou d'un contre-exemple invalide l'habilitation sans détruire le concept.
-4. **`Raison matérielle ≠ Motivation psychologique`**
-   * *Règle* : L'inférence matérielle lie des statuts normatifs publics (engagements, redevabilités), indépendamment des états mentaux ou des associations d'idées privées du locuteur.
+L’explicitation d’une transition matérielle peut faire apparaître une règle générale ou une prémisse supplémentaire. Cela ne prouve pas que toute inférence matérielle doive être reconstruite comme l’application mécanique d’une règle universelle ; cela permet de rendre ses conditions d’application discutables.
 
----
+## 5. Recevabilité et révision
 
-## 6. Maximes de synthèse
+Les inférences matérielles peuvent être défaisables : une conclusion qui était recevable au regard des informations disponibles peut cesser de l’être lorsqu’une information supplémentaire devient pertinente.
 
-> **« Ce ne sont pas les règles logiques qui donnent leur sens aux concepts, ce sont les inférences matérielles de nos pratiques qui donnent leur rôle au vocabulaire logique. »**
+Considérons l’exemple :
 
-> **« Une inférence matérielle ne garantit pas la certitude absolue ; elle trace le réseau des conséquences réelles et défaisables qu'un agent doit assumer lorsqu'il décrit la situation. »**
+- Prémisse : « Cette allumette peut s’enflammer lorsqu’on la frotte. »
+- Conclusion : « Si on la frotte dans les conditions appropriées, elle s’enflammera. »
+- Information nouvelle : « L’allumette est trempée. »
+
+L’information nouvelle peut conduire à suspendre ou à réviser la conclusion attendue. Elle ne montre pas que toute inférence relative aux allumettes est invalide ; elle oblige à préciser les conditions dans lesquelles la transition est recevable.
+
+Il convient de distinguer trois questions :
+
+- **Recevabilité de la transition** : les prémisses autorisent-elles la conclusion dans les conditions considérées ?
+- **Adéquation des prémisses** : les prémisses rendent-elles correctement compte de la situation examinée ?
+- **Justification** : quelles raisons permettent de défendre les prémisses et la conclusion ?
+
+Une inférence peut être recevable à partir de prémisses qui se révèlent ensuite inadéquates. La correction du passage ne garantit donc pas, à elle seule, l’adéquation de la description.
+
+## 6. Inférence, causalité et raisons
+
+Une inférence matérielle ne doit pas être confondue avec une relation causale.
+
+Une relation causale concerne la production ou l’explication d’un événement. Une inférence concerne le passage d’un contenu à un autre dans un raisonnement ou une pratique discursive.
+
+Ces relations peuvent être liées sans être équivalentes. Un événement peut causer un autre événement sans que le premier constitue, pour un locuteur, une raison de croire ou d’affirmer le second. Inversement, un contenu peut servir de raison dans un raisonnement sans être lui-même la cause de ce dont il est question.
+
+De même, une inférence matériellement recevable n’est pas automatiquement justifiée. Il faut examiner les prémisses mobilisées, les règles reconnues et les conditions dans lesquelles la conclusion est tirée.
+
+Cette distinction évite de convertir une dépendance entre événements en relation normative entre contenus, ou de traiter une transition admise dans une pratique comme une preuve suffisante de sa propre validité.
+
+## 7. Contenu conceptuel et portée de l’inférence
+
+Une assertion peut autoriser des conclusions que son auteur n’a pas explicitement envisagées. La portée d’une inférence ne se réduit donc pas à l’intention du locuteur.
+
+Toutefois, cette portée n’est pas non plus un ensemble illimité de conséquences que l’analyste pourrait attribuer arbitrairement aux mots employés. Elle dépend du contenu effectivement mobilisé, des règles d’inférence pertinentes, des autres prémisses et des conditions d’application.
+
+Lorsqu’une personne affirme qu’un échantillon est du cuivre, certaines conclusions relatives à ses propriétés peuvent être pertinentes dans une pratique scientifique. Mais il faut examiner le sens de l’identification, la composition de l’échantillon et les conditions auxquelles les propriétés attendues s’appliquent.
+
+L’analyste peut ainsi expliciter des conséquences que le locuteur n’avait pas envisagées. Il doit néanmoins justifier les règles et les prémisses qui autorisent cette reconstruction.
+
+Il faut donc distinguer :
+
+- les conséquences reconnues dans une pratique ;
+- les conclusions effectivement tirées par les interlocuteurs ;
+- les conséquences que les prémisses autorisent ;
+- les conclusions qui sont suffisamment justifiées dans le cas examiné.
+
+Ces ensembles peuvent se recouper sans être identiques.
+
+## 8. Place dans l’enquête de Protokin
+
+L’inférence matérielle est pertinente lorsque l’enquête examine un passage entre contenus descriptifs, notamment lorsqu’une conclusion est tirée d’une classification, d’une observation ou d’une assertion.
+
+Elle peut aider à repérer :
+
+- une conclusion dont les prémisses restent implicites ;
+- une transition qui dépend de conditions d’application non précisées ;
+- une généralisation mise en défaut par un cas particulier ;
+- une confusion entre conséquence inférentielle et relation causale ;
+- une conclusion recevable à partir de prémisses dont l’adéquation reste à établir.
+
+Dans la quadripartition, l’examen d’une inférence peut mobiliser plusieurs orientations. Les conditions permettent d’identifier les contraintes pertinentes ; les relations aident à préciser les dépendances entre contenus ; la fonction situe la transition dans la pratique ; la justification examine les raisons de défendre les prémisses et la conclusion.
+
+Ces orientations ne constituent pas les étapes d’un raisonnement obligatoire. Elles servent à distinguer les questions que soulève l’inférence et à éviter de traiter sa recevabilité comme une justification complète.
+
+L’inférence matérielle n’est ni une opération unique de la chaîne d’enquête ni une garantie de validité. Elle constitue un objet d’analyse lorsque la portée d’une transition entre contenus doit être précisée.
+
+## 9. Ce que l’inférence matérielle n’établit pas
+
+La recevabilité d’une inférence matérielle ne suffit pas à établir :
+
+- la vérité de toutes ses prémisses ;
+- l’adéquation de la description à son référent ;
+- la validité de toute généralisation associée aux concepts mobilisés ;
+- la justification définitive de la conclusion ;
+- une relation causale entre les contenus ;
+- une théorie exhaustive de la signification.
+
+Une inférence peut être admise dans une pratique et néanmoins devoir être révisée lorsque ses prémisses, ses critères ou ses conditions d’application sont contestés.
+
+La possibilité de révision ne rend pas toutes les inférences équivalentes. Elle exige de préciser ce qui les autorise, ce qui pourrait les mettre en défaut et la portée des conclusions qu’elles permettent de tirer.
+
+## Synthèse
+
+L’inférence matérielle désigne une transition entre contenus dont la recevabilité dépend du contenu conceptuel et des pratiques dans lesquelles ils sont employés.
+
+Elle permet d’examiner les conséquences qu’une affirmation autorise, les conditions dont dépend cette transition et les informations susceptibles de la remettre en cause.
+
+**Une conclusion autorisée n’est pas nécessairement justifiée ; une inférence recevable ne garantit pas l’adéquation de ses prémisses.**
+
+Pour Protokin, l’enjeu est de rendre les transitions entre contenus explicites et révisables sans confondre leur recevabilité, leur justification et leur adéquation à ce qu’elles prétendent décrire.
+
+**Renvois :**
+- [Proposition](fr/proposition.md)
+- [Assertion](fr/assertion.md)
+- [Justifier](fr/justifier.md)
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
