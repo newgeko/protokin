@@ -1,295 +1,134 @@
-# Page : auditeur.md
+# Auditeur — Position d’évaluation dans une pratique discursive
 
-# Auditeur — Position d'évaluation, réception normative et contrôle descriptif
+## 1. Fonction
 
-| Fonction | Établir la notion d'**auditeur** dans l'architecture de Protokin en tant que position épistémique, normative et relationnelle par laquelle une assertion est reçue, évaluée et intégrée ou contestée au sein d'une pratique descriptive. |
-| :--- | :--- |
-| **Prépare** | L'analyse de la recevabilité, de la correction, de la critique, de la demande de justification et de la régulation collective des descriptions. |
-| **Mobilise** | Les notions d'assertion, d'engagement descriptif, de régime descriptif, de communauté de locuteurs et de scorekeeping déontique. |
-| **Permet ensuite** | L'étude de la validation intersubjective, des conflits de régimes, des traductions descriptives et des mécanismes d'audit. |
-| **N'établit pas** | La psychologie individuelle de l'écoute, les mécanismes neurobiologiques de la perception auditive, ni la théorie complète de la communication collective. |
+Cette page définit la fonction d’auditeur dans une pratique discursive : examiner une assertion, interroger ses engagements, demander des raisons, contester une inférence ou accepter provisoirement une conclusion.
 
----
+Elle distingue la réception d’une assertion de son évaluation, puis de son éventuelle acceptation. Elle précise également les rapports entre auditeur, locuteur et pairs, sans supposer que l’évaluation collective garantit la validité d’une description.
 
-## 1. Problème conceptuel inaugural
+## 2. Problème : recevoir n’est pas évaluer
 
-Une description n'existe pas uniquement parce qu'elle est produite par un locuteur. Une assertion ne devient une contribution effective à l'espace des raisons qu'à partir du moment où elle peut être reçue, évaluée et reprise par d'autres positions discursives.
+Une assertion peut être entendue ou lue sans être comprise, acceptée ou même examinée. Inversement, une assertion peut être évaluée à distance, à partir d’un texte, d’un rapport ou d’une trace, sans que son auteur soit présent.
 
-Les conceptions classiques du langage ont souvent privilégié l'acte d'émission : un sujet produit un énoncé qui transmettrait un contenu déjà constitué vers un autre sujet chargé simplement de le recevoir.
+Il faut donc distinguer plusieurs opérations :
 
-Cette conception rencontre une difficulté fondamentale :
+- **Recevoir** : avoir accès à une assertion ou à une intervention.
+- **Examiner** : déterminer ce qui est affirmé, quels engagements lui sont associés et quelles conséquences elle autorise.
+- **Évaluer** : confronter l’assertion aux raisons, aux critères et aux éléments pertinents.
+- **Accepter** : reconnaître provisoirement ou durablement une assertion dans une pratique donnée.
+- **Justifier** : exposer les raisons permettant de défendre une assertion ou une conclusion.
 
-**Comment une assertion peut-elle acquérir une valeur publique si la réception n'est pas une simple transmission d'information, mais une opération active d'évaluation, de contrôle et d'intégration normative ?**
+Ces opérations peuvent être liées, mais elles ne sont ni équivalentes ni nécessairement successives. Recevoir une assertion ne signifie pas l’accepter ; la contester ne suffit pas à la réfuter ; l’accepter ne garantit pas qu’elle soit adéquate à ce qu’elle prétend décrire.
 
-Protokin répond à cette difficulté en considérant que l'auditeur n'est pas un récepteur passif. Il constitue une position active dans l'espace des raisons : il examine les engagements produits par une assertion, vérifie leur compatibilité avec un régime descriptif et participe à la stabilisation ou à la transformation des descriptions collectives.
+La question est donc de déterminer quelle fonction remplit la position depuis laquelle une assertion est examinée, et ce que cette évaluation permet effectivement d’établir.
 
-L'audition devient ainsi une opération épistémique.
+## 3. Définition fonctionnelle
 
----
+Dans Protokin, l’**auditeur** désigne la position fonctionnelle depuis laquelle une assertion ou une intervention discursive peut être examinée, interrogée, contestée ou provisoirement acceptée.
 
-## 2. Définition fonctionnelle
+Cette position permet notamment de :
 
-Dans l'architecture de Protokin, on appelle **auditeur** :
+- préciser le contenu de ce qui est affirmé ;
+- examiner les engagements associés à l’assertion ;
+- demander les raisons ou les éléments qui la soutiennent ;
+- repérer une incompatibilité ou une inférence insuffisamment justifiée ;
+- évaluer la pertinence des critères mobilisés ;
+- accepter une conclusion sous certaines réserves, suspendre son jugement ou demander une révision.
 
-> **Une position fonctionnelle, épistémique et normative au sein d'une pratique discursive, caractérisée par la capacité à recevoir une assertion, à évaluer ses engagements, à demander des justifications et à participer à la régulation collective des descriptions.**
+Il ne s’agit pas d’une procédure obligatoire. Selon la difficulté rencontrée, l’examen peut porter sur le contenu d’une assertion, ses conséquences, ses conditions d’application ou les raisons avancées pour la défendre.
 
-Cette définition implique trois dimensions fondamentales :
+L’auditeur ne garantit pas la correction de ce qu’il examine. Sa fonction est de rendre une prise de position susceptible d’être évaluée, et non de transformer automatiquement cette évaluation en validation.
 
-### Une position et non une réception passive
+## 4. Distinctions nécessaires
 
-L'auditeur n'est pas simplement celui qui reçoit un signal sonore ou une information.
+### 4.1. Auditeur et récepteur sensoriel
 
-Il occupe une position normative dans laquelle il peut :
-- accepter une assertion ;
-- la contester ;
-- demander des raisons supplémentaires ;
-- produire une correction ;
-- transformer son propre espace d'engagements.
+Un organisme peut recevoir un signal sonore ou visuel sans examiner une assertion. Inversement, un texte peut être examiné sans réception auditive.
 
-L'audition est donc une activité réglée.
+Le récepteur sensoriel et l’auditeur ne désignent donc pas la même fonction. Le premier relève des conditions perceptives de la réception ; le second, de l’examen d’une intervention dans une pratique discursive.
 
-### Une participation au scorekeeping déontique
+Les conditions corporelles et matérielles peuvent rendre cet examen possible ou le limiter. Elles ne suffisent pas, à elles seules, à déterminer la valeur d’une assertion.
 
-Dans une perspective inférentialiste, entendre une assertion signifie prendre position vis-à-vis des engagements qu'elle produit.
+### 4.2. Auditeur et locuteur
 
-L'auditeur évalue :
+Le locuteur endosse une assertion ; l’auditeur examine cette assertion et les engagements qui lui sont associés.
 
-- ce que l'assertion autorise comme inférence ;
-- ce qu'elle interdit ;
-- quelles conséquences pratiques elle implique ;
-- si le locuteur possède les habilitations nécessaires pour l'affirmer.
+Cette distinction est fonctionnelle, non nécessairement personnelle. Une même personne peut examiner sa propre assertion, reprendre un jugement antérieur ou demander à autrui d’en évaluer les raisons. Les deux fonctions ne supposent donc ni deux individus distincts ni un ordre temporel obligatoire.
 
-### Une fonction de contrôle collectif
+L’examen d’une assertion ne donne pas non plus à l’auditeur la maîtrise de toutes ses conséquences. Une assertion peut autoriser des conclusions que son auteur n’avait pas explicitement envisagées, sous réserve des prémisses et des règles d’inférence pertinentes.
 
-L'auditeur assure la dimension publique de la connaissance.
+### 4.3. Auditeur et pairs
 
-Sans auditeur capable de demander « pourquoi ? », une assertion resterait une production privée sans portée normative.
+Les **pairs** désignent des participants susceptibles d’examiner les engagements d’autrui, de demander des raisons et de reconnaître ou de contester des habilitations dans une pratique discursive.
 
-L'objectivité apparaît ainsi dans l'espace de circulation entre locuteur et auditeur.
+L’auditeur désigne la fonction d’examen ; les pairs désignent une relation entre participants de cette pratique. Un pair peut donc agir comme auditeur, mais les deux termes ne sont pas synonymes.
 
----
+La relation entre pairs n’implique pas une égalité de compétences, de responsabilités ou de pouvoir. Un spécialiste peut être davantage habilité à formuler un diagnostic dans une pratique déterminée, sans que cette habilitation suffise à justifier chacune de ses conclusions.
 
-## 3. Distinctions conceptuelles nécessaires
+De même, la reconnaissance d’une affirmation par plusieurs pairs ne garantit pas sa validité. L’accord, le désaccord et l’habilitation doivent être distingués des raisons qui permettent de défendre une conclusion.
 
-### Auditeur et récepteur biologique
+### 4.4. Auditeur et juge extérieur
 
-Un organisme peut recevoir des sons, des signaux lumineux ou des stimulations physiques sans pour autant occuper une position d'auditeur.
+L’auditeur n’est pas défini comme un arbitre situé hors de toute pratique descriptive. Il évalue à partir de critères, de règles et de connaissances dont la pertinence peut elle-même être interrogée.
 
-Le récepteur appartient au plan causal (`PROTO`).
+Cela ne signifie pas que tous les critères se valent ni que toute évaluation se réduit aux normes d’un groupe. Il faut examiner les critères mobilisés, leurs conditions d’application et les raisons permettant de les maintenir ou de les réviser.
 
-L'auditeur appartient au plan normatif (`KIN`).
+## 5. Exemple : « Cet arbre présente un risque pour l’habitation »
 
-Il ne s'agit pas seulement de percevoir un signal, mais d'être capable d'en évaluer la portée descriptive.
+Une personne affirme qu’un arbre présente un risque pour une habitation. L’auditeur demande sur quelles observations repose cette conclusion : inclinaison du tronc, état des racines, état sanitaire, proximité du bâtiment ou résultats d’une expertise.
 
----
+L’examen distingue alors plusieurs questions :
 
-### Auditeur et interprète psychologique
+- Que signifie ici « présenter un risque » ?
+- Quels faits ou observations soutiennent l’affirmation ?
+- Quelles conclusions ces éléments autorisent-ils ?
+- Quels critères permettent d’évaluer le risque dans cette situation ?
+- Les éléments disponibles suffisent-ils à soutenir la conclusion formulée ?
 
-L'auditeur n'est pas défini par une représentation mentale privée produite par l'écoute.
+L’auditeur peut estimer l’affirmation plausible, demander des informations supplémentaires ou contester le passage des observations à la conclusion. Aucune de ces réactions ne suffit isolément à établir le risque réel.
 
-Il n'est pas celui qui fabrique intérieurement un sens à partir d'un message.
+Le rôle de l’auditeur est de rendre explicites les engagements, les inférences et les critères en jeu. La conclusion demeure soumise à l’examen des éléments pertinents et des raisons avancées.
 
-Il est celui qui entre dans un espace public d'évaluation où les critères de correction sont partagés.
+## 6. Portée et limites
 
----
+La notion d’auditeur permet de distinguer :
 
-### Auditeur et locuteur
+- la réception d’une assertion et son examen ;
+- l’examen d’une assertion et son acceptation ;
+- la contestation d’une affirmation et sa réfutation ;
+- la reconnaissance d’une habilitation et la justification d’une conclusion ;
+- l’accord entre participants et l’adéquation d’une description à ce qu’elle prétend décrire.
 
-Le locuteur et l'auditeur constituent deux positions complémentaires :
+Elle permet aussi d’examiner les conditions dans lesquelles une assertion peut être discutée et révisée : qui peut la contester, quelles raisons peuvent être demandées et quelles objections sont prises en considération.
 
-| Locuteur | Auditeur |
-| :--- | :--- |
-| Produit une assertion | Reçoit et évalue une assertion |
-| Contracte des engagements | Examine ces engagements |
-| Rend une description publique | Contrôle sa recevabilité |
-| Demande à être reconnu comme responsable | Demande des raisons et peut contester |
+Elle n’établit pas :
 
-Ces positions sont réversibles.
+- que toute assertion doit être immédiatement examinée par une autre personne ;
+- que l’auditeur comprend nécessairement correctement ce qu’il examine ;
+- que les critères partagés sont toujours pertinents ;
+- que la majorité ou l’autorité d’un expert garantit la validité ;
+- que toute contestation constitue une réfutation ;
+- que l’évaluation suffit à justifier une conclusion ;
+- que l’examen collectif remplace l’étude du référent ou de la situation concernée.
 
-Tout locuteur compétent doit pouvoir devenir auditeur de ses propres descriptions lorsqu'il examine ses engagements.
+L’évaluation elle-même peut comporter des erreurs, des asymétries d’accès à l’information ou des critères insuffisants. Elle peut donc devenir à son tour un objet d’enquête.
 
----
+## 7. Articulation avec les autres pages
 
-### Auditeur et juge extérieur
+- [Locuteur](fr/locuteur.md) — Examiner la position à laquelle une assertion et les engagements correspondants sont attribués.
+- [Assertion](fr/assertion.md) — Distinguer l’acte d’endossement du contenu affirmé et des conséquences qui lui sont associées.
+- [Proposition](fr/proposition.md) — Examiner les contenus susceptibles d’être mobilisés comme prémisses ou conclusions.
+- [Pairs — Engagement discursif et habilitation](fr/pairs.md) — Examiner les relations entre participants, leurs engagements et leurs habilitations.
+- [Espace des raisons](fr/espace-des-raisons.md) — Situer les relations entre raisons, conclusions, habilitations et incompatibilités.
+- [Régime descriptif](fr/regime-descriptif.md) — Examiner les règles et les critères qui organisent une pratique descriptive.
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer l’examen des assertions dans l’organisation générale de l’enquête.
 
-L'auditeur n'est pas un arbitre transcendant situé hors du régime descriptif.
+Ces pages remplissent des fonctions distinctes. La présente page ne développe ni une théorie générale de la communication ni une procédure complète de justification. Elle précise la fonction d’examen depuis laquelle les engagements associés à une assertion peuvent être interrogés.
 
-Il évalue depuis un ensemble de critères, de catégories et de normes déjà institués.
+## Synthèse
 
-L'audit protokinien porte précisément sur ces conditions d'évaluation.
+L’auditeur désigne une position fonctionnelle depuis laquelle une assertion peut être examinée, contestée ou provisoirement acceptée dans une pratique discursive.
 
----
+Cette fonction contribue à rendre les engagements et les raisons discutables, sans garantir leur correction. Elle doit être distinguée de la réception sensorielle, de la fonction du locuteur et de la relation entre pairs.
 
-# 4. La constitution de la position d'auditeur
-
-## A. L'écoute comme opération descriptive
-
-Avant toute validation conceptuelle, l'audition commence dans un couplage perception-action.
-
-L'organisme discrimine des variations :
-
-- sons ;
-- gestes ;
-- expressions ;
-- traces ;
-- comportements.
-
-Cependant, ces variations ne deviennent une écoute descriptive qu'à partir du moment où elles sont intégrées dans une configuration sémiotique et normative.
-
-L'auditeur ne reçoit donc pas un contenu brut : il reconstruit une position dans un espace de significations possibles.
-
----
-
-## B. L'auditeur comme gardien des engagements
-
-Dans le modèle de Brandom, la communauté tient continuellement à jour les engagements de ses membres.
-
-L'auditeur participe à cette comptabilité.
-
-Face à une assertion :
-
-« Cette personne est dangereuse »
-
-l'auditeur demande :
-
-- Selon quels critères ?
-- Dans quel régime descriptif ?
-- Avec quelles preuves ?
-- Quelles conséquences cette qualification autorise-t-elle ?
-
-L'auditeur transforme ainsi une affirmation individuelle en objet d'enquête collective.
-
----
-
-## C. L'auditeur comme opérateur de correction
-
-Une communauté descriptive progresse parce que ses membres peuvent corriger leurs propres descriptions.
-
-L'auditeur introduit une résistance normative :
-
-- il détecte les contradictions ;
-- il révèle les insuffisances ;
-- il demande des distinctions supplémentaires ;
-- il provoque parfois une transformation du régime descriptif.
-
-La correction n'est donc pas un échec de la description : elle est une condition de sa dynamique.
-
----
-
-# 5. Éclairage par les fils rouges pédagogiques
-
-## « Le vélo est rouge »
-
-Le locuteur affirme une propriété perceptive.
-
-L'auditeur vérifie :
-
-- partage-t-il la même situation perceptive ?
-- reconnaît-il les critères ordinaires de couleur ?
-- accepte-t-il la qualification proposée ?
-
-La description devient publique par convergence ou désaccord réglé.
-
----
-
-## « Cette personne est dangereuse »
-
-L'auditeur ne reçoit pas simplement une information.
-
-Il examine :
-
-- le régime utilisé ;
-- les critères mobilisés ;
-- la qualité des preuves ;
-- les conséquences institutionnelles.
-
-L'auditeur empêche qu'une qualification lourde devienne une évidence automatique.
-
----
-
-## « Cette personne est mauvaise »
-
-L'auditeur joue ici un rôle critique essentiel.
-
-Il demande :
-
-- S'agit-il d'une description d'actes ?
-- D'un jugement moral ?
-- D'une attribution d'essence ?
-
-Il révèle le risque de réification d'une qualification normative.
-
----
-
-## Le botaniste et le bûcheron
-
-Chaque communauté possède ses auditeurs compétents.
-
-Le botaniste évalue selon un régime taxonomique.
-
-Le bûcheron évalue selon un régime technique.
-
-Ils ne rejettent pas simplement les descriptions adverses : ils les rapportent à des critères différents.
-
----
-
-# 6. Place dans l'architecture fonctionnelle
-
-Dans la trajectoire descriptive, l'auditeur intervient après l'assertion du locuteur :
-
-1. Configuration rencontrée.
-2. Configuration sémiotique.
-3. Support descriptif.
-4. Configuration descriptive.
-5. Description / Qualification / Prédication.
-6. Assertion du locuteur.
-7. **Audition et évaluation par une position d'auditeur.**
-8. Engagements descriptifs.
-9. Recevabilité dans un régime descriptif.
-10. Stabilisation ou transformation.
-
-L'auditeur constitue donc le mécanisme par lequel une description passe du statut d'énoncé produit au statut de proposition publiquement examinable.
-
----
-
-# 7. Vigilances d'audit
-
-## Le mythe de la réception passive
-
-Erreur consistant à considérer l'auditeur comme un simple canal.
-
-Protokin rappelle que toute réception implique des critères, des attentes et des capacités d'évaluation.
-
----
-
-## Le relativisme absolu
-
-Erreur consistant à croire que chaque auditeur possède son propre régime totalement indépendant.
-
-L'auditeur est toujours inscrit dans des pratiques collectives partageant des normes de correction.
-
----
-
-## L'autorité automatique
-
-Erreur consistant à considérer qu'une assertion devient vraie simplement parce qu'elle est entendue ou répétée.
-
-L'auditeur conserve la fonction critique de demander des raisons.
-
----
-
-# 8. Synthèse et ouvertures
-
-L'auditeur désigne la position normative par laquelle une description devient publiquement contrôlable.
-
-Il n'est pas un récepteur passif mais un opérateur de validation, de critique et de transformation des pratiques descriptives.
-
-Le couple :
-
-**Locuteur → Assertion → Auditeur → Évaluation**
-
-constitue l'unité minimale d'une pratique descriptive dans l'espace des raisons.
-
-*Ce qu'il suppose :* la possibilité d'une assertion publique, des engagements descriptifs et un régime de correction.
-
-*Ce qu'il rend possible :* la recevabilité, la critique collective, l'audit des descriptions et la transformation des régimes descriptifs.
+**Principe de distinction : examiner ou reconnaître une assertion ne suffit pas à la justifier.**
