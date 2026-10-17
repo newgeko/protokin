@@ -1,234 +1,148 @@
-# Page : cette-personne-est-mauvaise.md
+# Cette personne est mauvaise — Étude d’une qualification morale
 
-Cette personne est mauvaise — Analyse d'une qualification morale et des conditions de sa stabilisation normative
+## 1. Situation et question d’enquête
 
-Analyse architecturale de la page
+L’énoncé « Cette personne est mauvaise » attribue une qualification morale à une personne. Selon le contexte, il peut exprimer une condamnation, résumer plusieurs conduites, signaler une défiance ou présenter une évaluation comme un trait durable de l’individu.
 
-1. Fonction unique de la page
+Sa formulation ne suffit pas à déterminer laquelle de ces fonctions est effectivement remplie. Elle ne permet pas non plus de savoir si le jugement est fondé, si sa portée est proportionnée aux faits invoqués ou si sa révision reste possible.
 
-Cette page existe pour analyser, à travers l'étude clinique du fil rouge éthique « Cette personne est mauvaise », comment s'opèrent la genèse sémantique, la sédimentation collective, le verrouillage déontique et les pathologies de réification d'une qualification morale ordinaire au sein de l'espace des raisons, afin de fournir à l'enquêteur de second ordre les instruments de déconstruction de la clôture catégorielle et de restitution de la plasticité relationnelle de l'agent.
+Le cas pose donc la question suivante :
 
-2. Choix du mode de développement
+**Dans quelles conditions une qualification morale portant sur une personne est-elle justifiée, et quand son emploi conduit-il à étendre abusivement l’évaluation de certaines conduites à l’ensemble de l’individu ?**
 
-· Mode retenu : Mode D — Développement dynamique ou temporel.
-· Justification : L'évaluation ordinaire « Cette personne est mauvaise » ne constitue pas un énoncé statique ou immédiat ; elle est le produit d'une véritable trajectoire diachronique d'enquête, sédimentée par des apprentissages corporels et codifiée par des institutions normatives. Le Mode D permet de retracer méthodiquement les étapes de cette trajectoire temporelle (de la rencontre sensorimotrice à la fermeture dogmatique par effet cliquet) et les conditions de sa réorganisation critique.
+L’enquête ne présuppose ni que toute condamnation globale constitue une réification ni que toute qualification morale soit arbitraire. Elle cherche à déterminer ce que l’énoncé permet de soutenir dans une situation donnée, sur quelles bases et avec quelles limites.
 
-3. Problème conceptuel
+## 2. De l’acte à la qualification de la personne
 
-Comment rendre compte de la force normative et de la stabilisation historique d'un jugement moral asseyant la qualification d'essence d'une « personne mauvaise » sans réifier ce découpage relationnel sous la forme d'une substance naturelle immuable (illusion ontologique), et sans dissoudre la rigueur des critères de correction intersubjectifs dans l'arbitraire subjectif d'un relativisme moral commode ?
+Considérons trois énoncés :
 
-4. Objet propre
+- « Cette personne a menti. »
+- « Ce mensonge est condamnable. »
+- « Cette personne est mauvaise. »
 
-· Cette page traite de : la genèse pratique de la qualification morale ordinaire « mauvaise » dans l'image manifeste ; le processus de sédimentation cumulative de cet invariant relationnel ; le diagnostic d'audit des pathologies de réification, de naturalisation et de glissements de régimes ; la méthode de déconstruction réflexive visant à restaurer la plasticité comportementale de l'agent et la redevabilité collective.
-· Cette page ne traite pas de : formuler ou défendre une théorie éthique normative substantielle (laissé à la philosophie morale de premier ordre) ; décrire la psychopathologie ou le comportement antisocial pour eux-mêmes (laissé à la psychiatrie clinique) ; ni définir de manière isolée les notions générales de catégorie, de critère ou d'audit.
+Ces énoncés ne remplissent pas exactement la même fonction.
 
-5. Statut conceptuel
+Le premier attribue une conduite à une personne. Il reste nécessaire de déterminer si les faits établissent effectivement le mensonge et dans quelles circonstances il a eu lieu.
 
-Il s'agit d'une étude de cas et d'une application pratique (Section 11 — Études de cas).
+Le deuxième évalue cette conduite au regard de critères normatifs. La conclusion dépend notamment de ce qui s’est passé, des attentes pertinentes et des raisons avancées pour juger l’acte condamnable.
 
-6. Dépendances fonctionnelles
+Le troisième porte la qualification au niveau de la personne. Il peut résumer une appréciation plus générale de ses conduites, mais il peut aussi faire disparaître les différences entre des actes, des circonstances et des périodes distinctes.
 
-Cette page suppose :
+Le passage d’un énoncé à l’autre n’est donc pas automatique. Le constat d’un acte ne suffit pas à établir son caractère condamnable ; l’évaluation d’un acte ne suffit pas non plus à justifier toute qualification globale de son auteur.
 
-· La distinction immanente entre Causes (PROTO) et Raisons (KIN).
-· Le concept d'image manifeste et de personne.
-· Les opérations de qualification, de prédication et d'assertion.
-· Le processus de stabilisation, d'effet cliquet et de sédimentation.
-· L'analyse de l'injustice herméneutique.
+Cela ne signifie pas qu’un jugement général sur une personne soit nécessairement illégitime. Une telle appréciation peut s’appuyer sur des conduites répétées, des engagements non tenus ou d’autres éléments pertinents. Il faut cependant examiner ce que ces éléments permettent effectivement de conclure.
 
-Cette page rend possible :
+La distinction importante ne sépare donc pas les jugements portant sur les actes, qui seraient toujours légitimes, de ceux portant sur les personnes, qui seraient toujours abusifs. Elle concerne la portée de l’attribution et les raisons qui permettent de la soutenir.
 
-· La mise en œuvre pratique de l'audit des régimes.
-· L'exercice de l'écologie des régimes descriptifs.
-· La conduite méthodique de la réorganisation et de la traduction conceptuelles.
+## 3. Quand une qualification se maintient
 
-7. Frontières conceptuelles
+Une qualification peut être reprise au-delà de la situation dans laquelle elle a été formulée. Elle peut circuler dans des récits, être répétée par plusieurs personnes, être consignée dans des documents ou orienter l’interprétation de conduites ultérieures.
 
-Qualification morale ordinaire et Prédication d'acte
+Ces reprises peuvent contribuer à maintenir le jugement. Elles ne démontrent cependant ni sa validité ni son invalidité.
 
-La prédication associe localement un acte à une propriété (« Cet acte est répréhensible »). La qualification morale « Cette personne est mauvaise » opère un saut de second ordre en rapportant la totalité de l'individu à une catégorie d'essence stable, transformant une action située en propriété permanente de l'organisme.
+Prenons une situation dans laquelle une personne a menti à plusieurs reprises. Les faits peuvent justifier une défiance dans certaines circonstances. Mais si chaque conduite ultérieure est interprétée à partir de la qualification « mauvaise », l’enquête risque de devenir asymétrique : les éléments qui confirment le jugement sont retenus, tandis que ceux qui pourraient le nuancer ou le contester reçoivent moins d’attention.
 
-Invalidation de la réification et Dissolution de la responsabilité
+Il faut alors distinguer plusieurs questions :
 
-Déconstruire la réification morale de l'essence (« mauvaise par nature ») n'équivaut pas à annuler la redevabilité de l'individu devant sa communauté. Protokin maintient que l'explication causale (biologique, psychologique) d'un acte n'exclut pas l'obligation pour le locuteur de répondre de ses engagements dans l'espace des raisons.
+- Quels faits soutiennent la qualification initiale ?
+- Les faits rapportés sont-ils établis, indépendants les uns des autres ou issus d’une même source ?
+- La qualification reste-t-elle pertinente dans la situation présente ?
+- Les éléments contraires sont-ils examinés selon des critères comparables ?
+- Quelles conséquences la qualification produit-elle sur les conduites et les décisions du collectif ?
 
-8. Architecture locale
+Une qualification durable peut conserver une fonction pratique, par exemple en orientant la prudence ou la confiance. Cette fonction ne suffit pas à prouver qu’elle est correctement appliquée. Inversement, le fait qu’une qualification ait des conséquences négatives ne suffit pas, à lui seul, à établir qu’elle est injustifiée.
 
-```
-           04 — PRATIQUES DESCRIPTIVES (norme-descriptive.md / responsabilite-descriptive.md)
-                                         │
-                                         ▼
-           11 — ÉTUDES DE CAS : CETTE PERSONNE EST MAUVAISE (cette-personne-est-mauvaise.md)
-                                         │
-                                         ▼
-                        09 — RÉFLEXIVITÉ (ecologie-des-regimes.md)
-```
+L’enquête doit donc examiner séparément les raisons du jugement, les conditions de son maintien et les conséquences de son usage.
 
----
+## 4. Expliquer une conduite et évaluer une personne
 
-Cartouche fonctionnel
+L’examen d’une conduite peut mobiliser des explications causales : circonstances matérielles, contraintes sociales, apprentissages, habitudes ou conditions corporelles. Ces éléments peuvent contribuer à comprendre pourquoi une action a eu lieu.
 
-Élément Description
-Fonction Analyser, à travers le cas de la qualification morale ordinaire « mauvaise », la genèse, la sédimentation cumulative, le verrouillage déontique et les pathologies de réification des prédicats d'essence.
-Prépare L'audit des erreurs de catégorie, l'invalidation des réductions sémantiques, la gestion des injustices herméneutiques et l'exercice d'une réflexivité sans surplomb.
-Mobilise Prédication, qualification, assertion, image manifeste, causes/raisons, supports d'inscription (externes, incorporés) et sédimentation.
-Permet ensuite D'expliquer comment déconstruire les verrous sémantiques qui figent les statuts d'agent pour restaurer la plasticité relationnelle au sein de l'écologie des régimes.
-N'établit pas Une éthique normative substantielle, une métaphysique du mal en soi, ni un diagnostic clinique psychiatrique.
+Ils ne répondent pas automatiquement à la question de savoir si l’action était justifiée, condamnable, excusable ou susceptible d’engager la responsabilité de son auteur.
 
----
+**Une cause n’est pas une raison, et une explication causale ne constitue pas, à elle seule, une justification normative.** Réciproquement, un jugement moral ne fournit pas, à lui seul, une explication de la conduite jugée.
 
-Problème conceptuel inaugural
+Il faut éviter deux réductions symétriques.
 
-Toute tentative de cartographier les qualifications morales ordinaires au sein de l'image manifeste se heurte à une illusion de transparence. Lorsque des locuteurs affirment au présent d'usage « Cette personne est mauvaise », l'énoncé se donne comme le constat immédiat d'une propriété interne objective de l'individu, accessible à l'observation ordinaire.
+La première consiste à déduire d’une explication causale que toute évaluation normative serait dépourvue de sens. Comprendre les conditions d’une conduite ne suffit pas à déterminer comment elle doit être évaluée.
 
-Pourtant, la « méchanceté » ou la « mauvaise nature » ne constituent pas des substances physiques ou biologiques directement observables du corps propre (plan PROTO). Elles sont des catégories normatives relationnelles (plan KIN), stabilisées par des pratiques de reprobations et des rituels collectifs de redevabilité.
+La seconde consiste à traiter toute conduite condamnable comme la manifestation d’une mauvaise nature. Une évaluation négative ne dispense pas d’examiner les circonstances, les différences entre les actes et les possibilités de changement.
 
-Dès lors, la question s'impose :
+Ces distinctions ne déterminent pas à l’avance la responsabilité de la personne. Celle-ci doit être examinée à partir des faits, des engagements concernés, des circonstances et des critères pertinents. L’explication, l’évaluation et l’imputation peuvent dépendre les unes des autres sans être interchangeables.
 
-Comment reconstruire le processus de stabilisation par lequel des comportements déviants locaux et contingents d'un organisme sont traduits et figés sous l'essence permanente d'une « mauvaise personne » au présent d'usage, sans transformer cette qualification sémantique en réalité naturelle objective, et sans détruire la rationalité propre aux blâmes ordinaires de la communauté ?
+## 5. Éprouver la qualification
 
-Protokin résout cette difficulté en traitant cet énoncé non comme la description passive d'un objet donné, mais comme une trajectoire descriptive. L'audit démontre que l'essence morale est une réussite normative collective : elle n'est pas trouvée dans la nature, mais maintenue par des sédimentations de récits, des préjugés incorporés et des verrous institutionnels qui, s'ils assurent la coordination et le contrôle des déviances, saturent rapidement en excluant de manière illégitime la révisabilité des catégories et la plasticité de l'agent.
+Pour examiner l’énoncé « Cette personne est mauvaise », plusieurs questions permettent de préciser sa portée.
 
----
+**Les faits invoqués**
 
-Détermination fonctionnelle de la qualification
+- Quels actes ou comportements soutiennent le jugement ?
+- S’agit-il de faits directement établis, de témoignages, d’interprétations ou de récits rapportés ?
+- Les éléments disponibles suffisent-ils à soutenir la conclusion formulée ?
 
-Dans l'architecture de Protokin, on appelle qualification morale d'essence :
+**La portée du jugement**
 
-L'opération discursive et collective au présent d'usage par laquelle une communauté de locuteurs fige une succession d'actes déviants ou de frictions pratiques localisés sous un unique prédicat d'essence permanente, réifiant un statut d'imputation normative relative (KIN) en une propriété intrinsèque naturelle de l'individu (PROTO), et fermant asymétriquement l'espace de l'enquête face aux possibilités de réorganisation future.
+- La qualification porte-t-elle sur un acte, une conduite récurrente ou la personne dans son ensemble ?
+- Le passage d’une conduite particulière à une attribution globale est-il justifié ?
+- Des différences pertinentes entre les actes ou les circonstances sont-elles effacées ?
 
-De cette définition découlent trois thèses métathéoriques :
+**Les critères d’évaluation**
 
-· La primauté de l'acte sur l'essence : La personne n'est pas mauvaise en soi ; elle commet des actes que la communauté qualifie de répréhensibles selon ses critères de redevabilité. La mauvaise nature est une naturalisation de second ordre du blâme intersubjectif.
-· L'enracinement infrastructural de l'évaluation : La persistance de cette qualification ne repose pas sur une intuition pure, mais exige des supports d'inscription matériels (récits transmis, casiers, réputations) et des supports incorporés (habitudes d'attention, expressions corporelles du rejet) éduqués par la socialisation.
-· Le coût de la fermeture herméneutique : En figeant l'individu sous une étiquette fixe, la qualification morale produit des zones de silence massives sur les causes biophysiques ou sociales de son action, commettant une injustice herméneutique structurelle qui paralyse l'enquête d'auto-émancipation.
+- Quels critères permettent de qualifier les conduites de mauvaises ?
+- Sont-ils explicités, appliqués de manière cohérente et ouverts à la contestation ?
+- Les mêmes critères sont-ils appliqués aux éléments qui confirment le jugement et à ceux qui le mettent en difficulté ?
 
----
+**Le maintien et la révision**
 
-La trajectoire dynamique de la qualification (Mode D)
+- Qu’est-ce qui justifie de conserver la qualification dans la situation présente ?
+- Quels éléments pourraient conduire à la préciser, à la limiter ou à l’abandonner ?
+- La qualification est-elle maintenue en raison de raisons toujours pertinentes, ou principalement parce qu’elle a déjà été répétée et inscrite dans les pratiques collectives ?
 
-La constitution d'une « personne mauvaise » s'élabore selon une séquence ordonnée de sédimentation et d'irréversibilités relatives :
+Ces questions ne constituent pas un protocole obligatoire ni une procédure garantissant une conclusion correcte. Elles indiquent les points sur lesquels l’enquête peut porter lorsque la portée ou la justification d’une qualification devient problématique.
 
-```
-[Friction et situation de trouble] ──► [Sémiotisation et récits] ──► [Institutionnalisation] ──► [Effet cliquet et réification]
-```
+Une réponse négative à l’une de ces questions ne suffit pas nécessairement à invalider l’ensemble du jugement. Elle indique plutôt ce qui doit être précisé, justifié ou réexaminé.
 
-Étape 1 : La situation rencontrée pré-sémiotique (La friction)
+## 6. Ce que le cas permet d’établir
 
-Toute évaluation morale s'amorce par une perturbation dans le couplage pratique entre un collectif et son milieu :
+Ce cas permet de distinguer trois problèmes souvent confondus :
 
-· La perturbation : Un individu subit une souffrance relationnelle, une déception, un conflit ou une rupture d'attentes collectives ordinaires (le mensonge, la trahison, la violence).
-· Le statut pré-sémiotique (PROTO) : À ce niveau, la situation n'est pas encore formulée verbalement ; elle est vécue somatiquement sous forme de tension corporelle, de vigilance, d'évitement ou d'inquiétude pré-sémiotique.
+- **La correction de l’attribution** : les faits permettent-ils d’attribuer les conduites considérées à la personne ?
+- **La justification de l’évaluation** : les critères et les raisons avancés permettent-ils de juger ces conduites condamnables ?
+- **La portée de la qualification** : les éléments disponibles justifient-ils d’étendre cette évaluation à la personne dans son ensemble et de maintenir cette qualification dans la situation présente ?
 
-Étape 2 : L'organisation sémiotique et narrative (Sédimentation)
+Une réponse satisfaisante à l’une de ces questions ne règle pas automatiquement les deux autres.
 
-La perturbation corporelle est transposée sous forme d'inscriptions et de récits partageables :
+Le cas montre également qu’une qualification peut se maintenir au moyen de reprises collectives sans que cette persistance constitue une preuve suffisante de sa validité. Lorsque les conditions de maintien deviennent pertinentes pour l’enquête, il peut être utile d’examiner les mécanismes de stabilisation et les asymétries qui rendent certaines révisions plus difficiles.
 
-· Le prélèvement des traces : Les actes déviants locaux sont isolés, mémorisés et verbalisés sous forme de témoignages, de reprobations et de réputations sociales (configuration sémiotique).
-· La sédimentation narrative : La communauté s'empare de ces traces par la transmission de récits consolidés (socialisation secondaire). Les contes moraux, les fables et les préjugés familiaux s'inscrivent comme des habitudes perceptives incorporées, éduquant l'attention des pairs à décoder systématiquement chaque geste futur de l'individu à l'aune de sa mauvaise nature.
+Enfin, si la qualification empêche certaines expériences d’être formulées ou prises au sérieux faute de ressources catégorielles appropriées, la question d’une injustice herméneutique peut se poser. Elle exige toutefois un examen spécifique : toute contestation d’un jugement moral ne constitue pas une injustice herméneutique.
 
-Étape 3 : L'institutionnalisation catégorielle (Le verrouillage)
+## 7. Limites de l’analyse
 
-La qualification s'autonomise et s'affranchit de l'immédiateté des face-à-face individuels :
+Ce cas n’établit pas qu’une personne ne puisse jamais être décrite au moyen d’une qualification morale générale. Il ne démontre pas non plus que toute qualification durable résulte d’une réification, d’un préjugé ou d’un mécanisme de fermeture collective.
 
-· La codification : Les théologies, les tribunaux de premier ordre, l'école ou les appareils d'administration pénale codifient la catégorie de « personne mauvaise » ou d'« agent déviant ».
-· L'effet cliquet de second ordre : La qualification est matérialisée dans des dossiers, des jugements ou des fiches de signalement (supports documentaires institutionnels). L'effet cliquet s'active : le coût logique, institutionnel et relationnel de retour à une position d'indétermination ou de réhabilitation devient exorbitant pour l'individu, verrouillant durablement son identité sous l'étiquette d'exclusion.
+Il ne permet pas, sans éléments supplémentaires, de déterminer si une personne particulière est mauvaise, si ses actes sont excusables ou quelle responsabilité lui incombe. Ces conclusions dépendent des faits, des critères et du contexte étudiés.
 
----
+Il ne propose pas davantage une théorie morale substantielle. Son objet est plus limité : examiner les conditions dans lesquelles une qualification morale est soutenue, étendue, maintenue ou révisée.
 
-Les trois pathologies sémantiques de la qualification morale
+La révisabilité d’un jugement ne signifie pas qu’il faille suspendre indéfiniment toute évaluation. Elle signifie que les raisons de le maintenir doivent pouvoir être distinguées de la seule persistance de son usage.
 
-L'audit critique de Protokin identifie trois dérives relationnelles et catégorielles majeures que l'enquêteur doit diagnostiquer et corriger au présent de l'usage :
+## 8. Articulation avec les autres pages
 
-A. La pathologie de réification et de naturalisation (Erreur de catégorie)
+- [Prédication](predication.md) — Examiner la fonction d’attribution et les limites de ce que la forme prédicative permet de conclure.
+- [Qualification](qualification.md) — Examiner l’inscription d’une situation ou d’une personne dans une catégorie.
+- [Assertion](assertion.md) — Examiner les engagements associés à l’affirmation d’un contenu.
+- [Responsabilité descriptive](responsabilite-descriptive.md) — Examiner la redevabilité attachée aux engagements descriptifs.
+- [Norme descriptive](norme-descriptive.md) — Examiner les critères de correction, de justification et de révision au sein d’une pratique.
+- [Stabilisation](stabilisation.md) — Examiner les critères permettant de reconnaître le maintien d’une configuration à travers ses reprises et ses variations.
+- [Effet cliquet](effet-cliquet.md) — Examiner les asymétries cumulatives qui peuvent augmenter le coût d’une transformation.
+- [Diagnostiquer une erreur de catégorie](diagnostiquer-une-erreur-de-categorie.md) — Examiner les attributions qui mobilisent une catégorie ou une fonction dans un cadre inadéquat.
+- [Injustice herméneutique](injustice-hermeneutique.md) — Examiner les situations où des ressources catégorielles insuffisantes ou asymétriquement disponibles empêchent certaines expériences de devenir intelligibles.
+- [Écologie des régimes descriptifs](ecologie-des-regimes-descriptifs.md) — Examiner les relations entre les pratiques descriptives concernées.
 
-Elle consiste à traiter une coordonnée déontique relationnelle et révisable, propre au blâme intersubjectif (KIN), comme s'il s'agissait d'une propriété physique, d'une substance biologique ou d'une essence innée déposée dans les choses elles-mêmes (PROTO) :
+## Synthèse
 
-· Le mécanisme d'erreur : Passer de l'énoncé situé « Cet individu a commis un acte moralement blâmable » à la réification substantielle « Cet individu est mauvais par nature ».
-· Le coût inférentiel : Cette naturalisation élimine la plasticité comportementale future de l'individu et exonère la communauté de sa propre responsabilité d'évaluer ses critères, figeant la relation dans un destin immuable.
+Le cas « Cette personne est mauvaise » permet d’examiner comment une qualification morale s’appuie sur des conduites, des critères et des reprises collectives, puis peut être étendue à la personne dans son ensemble.
 
-B. La dérive de la réduction causaliste
+Il invite à distinguer les faits attribués, l’évaluation des conduites, la portée du jugement et les conditions de son maintien. Il montre que la persistance d’une qualification ne suffit pas à justifier sa validité, mais que sa révision ne dispense pas non plus d’examiner les actes et les responsabilités concernés.
 
-Elle prétend dissoudre entièrement la redevabilité normative du sujet dans des déterminismes physiques ou biophysiques exclusifs :
-
-· Le mécanisme d'erreur : Invoquer une anomalie neurobiologique, un influx synaptique ou un traumatisme social passé pour affirmer que la qualification de responsabilité ou de blâme moral est une illusion pré-scientifique dénuée de sens.
-· Le coût inférentiel : Elle détruit l'autonomie logique de l'espace des raisons (plan KIN). Expliquer causalement la genèse d'un comportement violent (PROTO) est précieux pour comprendre l'histoire de l'organisme, mais cela ne dispense jamais de devoir répondre de ses engagements devant ses pairs au présent.
-
-C. La dérive de la réduction normativisante (La moralisation du malheur)
-
-À l'exact opposé, elle consiste à projeter des exigences de culpabilité, de faute morale ou de mauvaise intention subjective sur des déterminismes ou des accidents biophysiques contingents :
-
-· Le mécanisme d'erreur : Traiter un dysfonctionnement organique, un trouble génétique, ou même un accident environnemental (inondation, foudre) affectant la personne comme s'il s'agissait de la punition morale ou du châtiment d'une mauvaise nature.
-· Le coût inférentiel : Elle détruit l'autonomie logique des mécanismes causaux, substituant une théodicée théologico-morale grossière à l'analyse empirique des butoirs du milieu.
-
----
-
-Injustice herméneutique structurelle et zones de silence
-
-En figeant l'individu sous la catégorie univoque de « personne mauvaise », le régime moral dominant de l'image manifeste exerce une asymétrie de participation radicale :
-
-· Le déficit catégoriel : Si le collectif ne dispose d'aucun autre vocabulaire que l'alternative binaire "bon/mauvais", l'agent déviant se trouve dans l'incapacité d'articuler la complexité de son expérience ou de ses traumatismes d'amont dans un langage recevable.
-· La zone de silence : Les circonstances sociales, les causes physiologiques et les possibilités réelles de réhabilitation sont rejetées dans les ombres sémantiques. L'individu est enfermé dans la seule exigence de culpabilité ou d'exclusion sécuritaire.
-· La mutilation du statut d'agent : L'asymétrie de dépôt sédimentaire fige l'individu sous une étiquette d'indignité qui diminue systématiquement la crédibilité de sa parole, transformant son expression subjective (sa plainte, sa souffrance) en un bruit non rationnel (PROTO) plutôt qu'en une raison justifiable (KIN).
-
----
-
-Le protocole d'audit de la qualification morale en cinq étapes
-
-Pour déconstruire ce verrouillage déontique sans abandonner la rigueur de l'immanence normative, l'enquêteur de Protokin déploie la séquence d'audit suivante :
-
-```
-Saisie de l'énoncé ──► Identification des plans ──► Explicitation des critères ──► Diagnostic des réductions ──► Restructuration écologique
-```
-
-Étape 1 : Saisie de l'énoncé et suspension
-
-L'enquêteur isole la qualification litigieuse dans la situation de trouble de premier ordre.
-
-· Énoncé suspect : « Cette personne est mauvaise par nature. »
-· Opération : Suspendre l'évidence de premier ordre de sa vérité objective pour la traiter comme une qualification située.
-
-Étape 2 : Identification et cartographie des plans impliqués
-
-L'enquêteur identifie l'asymétrie de juridiction entre les cadres mobilisés de surface.
-
-· Analyse : Repérer que l'énoncé prétend énoncer une propriété intrinsèque du corps propre (PROTO réifié) tout en contractant des engagements de blâme intersubjectif (KIN moral).
-
-Étape 3 : Explicitation des critères de correction d'origine
-
-L'enquêteur reconstruit la structure d'imputation et les supports qui soutiennent cette qualification morale :
-
-· Régime moral d'origine : Repose sur des blâmes intersubjectifs face à des transgressions de promesses ou d'attentes partagées au sein de la conversation ordinaire.
-· Supports : Socialisation secondaire, récits partagés d'exclusion, reprobations collectives diffuses.
-
-Étape 4 : Diagnostic des pathologies descriptives
-
-L'enquêteur passe l'assertion au crible du critère de vigilance immanente :
-
-· Constat d'audit : L'assertion commet une erreur de catégorie par naturalisation d'essence. Elle traite un statut normatif révisable et relationnel (le blâme d'acte) comme une substance biophysique définitive de la personne, produisant une zone de silence sur ses capacités de changement et d'auto-correction. Le diagnostic de réification abusive doit être prononcé.
-
-Étape 5 : Restructuration écologique et ouverture d'enquête (Traduction)
-
-L'audit suspend la clôture sémantique et réactive le mouvement des autres qualifications possibles au sein de l'écologie des régimes :
-
-· La traduction réglée : « L'individu X a accompli l'acte matériel Y, qui contrevient aux attentes normatives de notre communauté et justifie un blâme intersubjectif situé (plan KIN). Ce comportement déviant s'explique par une trajectoire de contraintes traumatiques et biophysiques identifiables (plan PROTO). La reconnaissance de ces causes ne dissout pas sa responsabilité présente de répondre de ses actes devant ses pairs, mais elle interdit de figer son identité sous une mauvaise essence définitive. Elle oblige notre collectif à réordonner ses catégories pour maintenir l'enquête ouverte et accompagner son parcours de réhabilitation. »
-
----
-
-Synthèse finale
-
-Ce que cette page établit
-
-L'étude de cas de la qualification morale ordinaire « Cette personne est mauvaise » en tant qu'illustration clinique de la genèse, de la sédimentation et des pathologies de réification des prédicats d'essence, démontrant comment l'audit de second ordre déconstruit la naturalisation des normes pour restituer la plasticité d'agent au sein de l'espace des raisons.
-
-Ce qu'elle suppose
-
-La distinction fondamentale entre l'espace des causes (PROTO) et l'espace des raisons (KIN), le régime descriptif, les opérations de prédication et de qualification, le concept de stabilisation cumulative et d'injustice herméneutique.
-
-Ce qu'elle rend possible
-
-Le diagnostic clinique des erreurs de catégorie dans l'évaluation des personnes, la détection des dérives réductionnistes et normatrices du blâme ordinaire, et la mise en œuvre de connecteurs de traduction réglés au sein d'une écologie des régimes descriptivement équilibrée.
-
----
-
-Protokin 2026 — version 26.08.081
+Il ne tranche pas à lui seul la légitimité d’un jugement moral particulier. Il rend explicites les questions auxquelles il faut répondre pour en examiner la portée et la justification.
