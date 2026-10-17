@@ -125,6 +125,7 @@ Ces pages distinguent la dérivation de relations apprises, la transformation de
 - [Objet descriptif](fr/objet-descriptif.md) — Préciser comment une différence est stabilisée comme identifiable et réutilisable dans une pratique descriptive.
 - [Description](fr/description.md) — Examiner les descriptions comme des configurations susceptibles d’être discutées et révisées.
 - [Anaphore](fr/anaphore.md) — Examiner les reprises discursives et les relations de dépendance entre occurrences.
+- [Occurrence](fr/occurence.md) — Distinguer une réalisation particulière de la forme ou du type auquel elle est rapportée.
 - [Substitution](substitution.md) — Examiner ce qui se maintient ou change lorsqu’une expression est remplacée par une autre dans un contexte déterminé.
 - [Stabilisation](fr/stabilisation.md) — Examiner le maintien relatif d’une configuration à travers ses reprises et ses variations.
 
