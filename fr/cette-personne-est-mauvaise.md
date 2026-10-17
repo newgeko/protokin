@@ -128,16 +128,16 @@ La révisabilité d’un jugement ne signifie pas qu’il faille suspendre indé
 
 ## 8. Articulation avec les autres pages
 
-- [Prédication](predication.md) — Examiner la fonction d’attribution et les limites de ce que la forme prédicative permet de conclure.
-- [Qualification](qualification.md) — Examiner l’inscription d’une situation ou d’une personne dans une catégorie.
-- [Assertion](assertion.md) — Examiner les engagements associés à l’affirmation d’un contenu.
-- [Responsabilité descriptive](responsabilite-descriptive.md) — Examiner la redevabilité attachée aux engagements descriptifs.
-- [Norme descriptive](norme-descriptive.md) — Examiner les critères de correction, de justification et de révision au sein d’une pratique.
-- [Stabilisation](stabilisation.md) — Examiner les critères permettant de reconnaître le maintien d’une configuration à travers ses reprises et ses variations.
-- [Effet cliquet](effet-cliquet.md) — Examiner les asymétries cumulatives qui peuvent augmenter le coût d’une transformation.
-- [Diagnostiquer une erreur de catégorie](diagnostiquer-une-erreur-de-categorie.md) — Examiner les attributions qui mobilisent une catégorie ou une fonction dans un cadre inadéquat.
-- [Injustice herméneutique](injustice-hermeneutique.md) — Examiner les situations où des ressources catégorielles insuffisantes ou asymétriquement disponibles empêchent certaines expériences de devenir intelligibles.
-- [Écologie des régimes descriptifs](ecologie-des-regimes-descriptifs.md) — Examiner les relations entre les pratiques descriptives concernées.
+- [Prédication](fr/predication.md) — Examiner la fonction d’attribution et les limites de ce que la forme prédicative permet de conclure.
+- [Qualification](fr/qualification.md) — Examiner l’inscription d’une situation ou d’une personne dans une catégorie.
+- [Assertion](fr/assertion.md) — Examiner les engagements associés à l’affirmation d’un contenu.
+- [Responsabilité descriptive](fr/responsabilite-descriptive.md) — Examiner la redevabilité attachée aux engagements descriptifs.
+- [Norme descriptive](fr/norme-descriptive.md) — Examiner les critères de correction, de justification et de révision au sein d’une pratique.
+- [Stabilisation](fr/stabilisation.md) — Examiner les critères permettant de reconnaître le maintien d’une configuration à travers ses reprises et ses variations.
+- [Effet cliquet](fr/effet-cliquet.md) — Examiner les asymétries cumulatives qui peuvent augmenter le coût d’une transformation.
+- [Diagnostiquer une erreur de catégorie](fr/diagnostiquer-une-erreur-de-categorie.md) — Examiner les attributions qui mobilisent une catégorie ou une fonction dans un cadre inadéquat.
+- [Injustice herméneutique](fr/injustice-hermeneutique.md) — Examiner les situations où des ressources catégorielles insuffisantes ou asymétriquement disponibles empêchent certaines expériences de devenir intelligibles.
+- [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md) — Examiner les relations entre les pratiques descriptives concernées.
 
 ## Synthèse
 
