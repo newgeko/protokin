@@ -1,290 +1,135 @@
-# Page : occurence.md
+# Occurrence — Réalisation particulière et type
 
-OCCURRENCE
+## 1. Fonction
 
-Version : Protokin 2026 — 26.08.212
-Fichier : "occurrence.md"
-Section : 04 — Pratiques et régimes descriptifs
-Statut : Concept analytique de premier ordre
+Cette page définit l’**occurrence** comme une réalisation particulière identifiable relativement à une forme ou à un type. Elle précise ce que cette distinction permet de compter et de comparer, ainsi que les limites des conclusions qu’elle autorise.
 
----
+L’occurrence permet notamment de distinguer plusieurs réalisations d’une même forme linguistique. Le terme peut également s’appliquer à des événements particuliers reconnus comme relevant d’un même type, mais cette extension doit être explicitée selon le problème examiné.
 
-Fonction
+## 2. Problème
 
-L'occurrence permet de distinguer une réalisation singulière du type, de la forme ou de la catégorie relativement auxquels elle est identifiée.
+Une pratique peut reconnaître plusieurs réalisations comme relevant d’une même forme ou d’un même type. Elle peut alors les compter, les comparer ou examiner leurs différences.
 
-Son rôle est de maintenir la différence entre une réalisation particulière et le principe selon lequel elle est reconnue comme relevant d'un même ensemble.
+Une confusion apparaît lorsque l’on assimile les réalisations particulières au type qui permet de les rapprocher, ou lorsque l’on suppose que plusieurs occurrences d’une même forme désignent nécessairement la même chose.
 
----
+La question directrice est la suivante :
 
-Problème
+**Qu’est-ce qui est considéré comme une occurrence, et relativement à quelle forme ou à quel type cette occurrence est-elle identifiée ?**
 
-Situation de départ
+La réponse dépend du niveau d’analyse retenu. Une occurrence linguistique, un événement particulier et un cas relevant d’une catégorie ne désignent pas exactement le même rapport.
 
-Une pratique descriptive rencontre des réalisations singulières qu'elle peut compter, comparer, désigner, catégoriser ou qualifier.
+## 3. Définition
 
-Le risque apparaît lorsque l'on confond :
+Une **occurrence** est une réalisation particulière identifiée relativement à une forme ou à un type dans une pratique déterminée.
 
-- une réalisation avec le type dont elle relève ;
-- une occurrence linguistique avec le mot dont elle est une réalisation ;
-- un cas singulier avec la catégorie sous laquelle il est regroupé ;
-- ce qui est décrit avec la description qui lui est appliquée.
+La notion est relationnelle : parler d’une occurrence suppose de préciser ce dont elle est l’occurrence et selon quels critères cette relation est établie.
 
-Confusion à éviter
+Dans le cas linguistique, une occurrence est une réalisation particulière d’une forme dans un énoncé ou une situation d’usage. Dans le cas d’un événement, elle désigne un événement particulier reconnu comme relevant d’un type d’événement.
 
-«type ≠ occurrence
-mot ≠ occurrence linguistique
-catégorie ≠ occurrence
-description ≠ occurrence»
+Cette définition ne suppose pas que le type soit toujours explicitement formulé, ni que les critères d’identification soient définitivement fixés. Elle demande que la relation entre la réalisation particulière et ce à quoi elle est rapportée puisse être examinée.
 
-Question d'enquête
+## 4. Distinctions nécessaires
 
-«De quoi cette réalisation est-elle une occurrence, et selon quel principe est-elle identifiée comme telle ?»
+### 4.1. Type et occurrence
 
----
+Un **type** permet de reconnaître plusieurs réalisations comme relevant d’une même forme ou d’un même genre. Une **occurrence** désigne une réalisation particulière rapportée à ce type.
 
-Définition fonctionnelle
+Dans le vocabulaire linguistique, cette distinction correspond classiquement à celle entre *type* et *token*.
 
-«Une occurrence est une réalisation singulière identifiable relativement à un type, une forme ou une catégorie dans une pratique déterminée.»
+L’identité du type n’implique pas l’identité numérique de ses occurrences. Plusieurs réalisations peuvent être reconnues comme relevant du même type sans constituer une seule réalisation.
 
-Le terme est donc relationnel : une occurrence est toujours occurrence de quelque chose.
+### 4.2. Forme linguistique et occurrence linguistique
 
-Cette définition permet de couvrir plusieurs usages :
+Dans l’énoncé :
 
-- une occurrence linguistique est une réalisation particulière d'une forme ou d'un type linguistique ;
-- une occurrence d'un événement est une réalisation singulière d'un type d'événement ;
-- une occurrence relevant d'une catégorie est un cas particulier auquel cette catégorie est appliquée.
+« Le chien aboie. Le chien court. »
 
-Ces usages ne doivent pas être confondus.
+La forme « chien » apparaît deux fois. Selon le niveau d’analyse retenu, il s’agit de deux occurrences d’une même forme linguistique.
 
-«Une occurrence est singulière ; ce relativement à quoi elle est identifiée peut être général.»
+Ce constat permet de distinguer les réalisations présentes dans l’énoncé. Il ne suffit pas à établir que les deux occurrences ont le même référent : elles peuvent désigner le même animal ou deux animaux différents selon le contexte.
 
----
+Il faut donc distinguer l’identité de forme, le nombre d’occurrences et l’identité de ce qui est désigné.
 
-Distinctions constitutives
+### 4.3. Occurrence d’un événement et cas relevant d’une catégorie
 
-Type
+Le terme peut également être employé pour une occurrence d’un type d’événement. Deux événements particuliers peuvent, par exemple, être reconnus comme des occurrences d’un même type d’accident.
 
-«Type ≠ occurrence»
+Un cas particulier peut aussi être classé dans une catégorie : un chien déterminé relève de la catégorie « chien ». Mais l’appartenance à une catégorie ne doit pas être assimilée sans examen à la relation entre un type et une occurrence linguistique.
 
-Le type fournit le principe relativement auquel plusieurs réalisations peuvent être reconnues comme du même genre.
+Ces usages ont un point commun : ils distinguent un cas particulier de ce à quoi il est rapporté. Ils ne reposent pas nécessairement sur les mêmes critères d’identification et ne doivent donc pas être confondus.
 
-Dans le vocabulaire classique :
+### 4.4. Occurrence et référent
 
-«type / token»
+Une occurrence linguistique est une réalisation particulière d’une forme dans un discours. Le référent est ce à quoi une expression ou une pratique descriptive se rapporte ou prétend se rapporter.
 
-Le token correspond à l'occurrence particulière du type.
+Plusieurs occurrences d’une même forme peuvent viser un même référent, mais ce n’est pas automatique. Inversement, des expressions différentes peuvent être utilisées pour parler d’un même référent.
 
-Mot
+L’analyse des occurrences ne suffit donc pas à établir l’identité de ce qui est désigné. Celle-ci doit être examinée à partir des usages, du contexte et des critères d’identification pertinents.
 
-«Mot ≠ occurrence linguistique»
+Voir [Référent](fr/referent.md).
 
-Un mot peut être considéré comme une unité ou une forme linguistique.
+## 5. Exemple discriminant : compter les occurrences de « chien »
 
-Une occurrence linguistique est une réalisation particulière de cette forme dans un contexte déterminé.
+Dans « Le chien aboie. Le chien court », on peut relever deux occurrences de la forme « chien ».
 
-Dans :
+Ce comptage permet d’établir que la forme apparaît deux fois dans l’énoncé. Il ne permet pas, à lui seul, de conclure que le même animal est désigné dans les deux phrases.
 
-«« Le chien aboie. Le chien court. »»
+Pour examiner cette question, il faut considérer le contexte et les éléments qui permettent d’identifier ou de réidentifier le référent. Il faut également distinguer cette identification de la description attribuée à ce référent : un même animal peut être décrit différemment sans que cela suffise à établir qu’il s’agit de deux animaux.
 
-« chien » apparaît deux fois : il s'agit de deux occurrences d'une même forme linguistique, selon le niveau d'analyse retenu.
+L’exemple met ainsi en évidence trois questions distinctes :
 
-Catégorie
+- combien d’occurrences de la forme sont présentes ?
+- à quoi chacune de ces occurrences se rapporte-t-elle ?
+- quels critères permettent de soutenir l’identification proposée ?
 
-«Catégorie ≠ occurrence»
+La réponse à la première question ne détermine pas automatiquement les réponses aux deux autres.
 
-Une catégorie permet de regrouper ou de distinguer des occurrences relativement à une différence pertinente.
+## 6. Portée et limites
 
-«La catégorie regroupe ; l'occurrence singularise.»
+### Ce que la notion permet d’établir
 
-Description
+La notion d’occurrence permet de distinguer des réalisations particulières, de les compter et de les comparer relativement à une forme ou à un type donné.
 
-«Description ≠ occurrence»
+Elle aide à préciser le niveau auquel une identité est reconnue : identité de forme, appartenance à un type, répétition d’une expression ou identification d’un référent. Ces rapports peuvent être liés, mais ils ne sont pas interchangeables.
 
-Une occurrence peut recevoir plusieurs descriptions.
+### Ce qu’elle suggère
 
-Changer la description ne signifie donc pas, par là même, changer l'occurrence.
+La comparaison d’occurrences peut conduire à examiner les critères selon lesquels plusieurs réalisations sont reconnues comme relevant d’un même type, ou les raisons pour lesquelles certaines différences sont jugées pertinentes.
 
----
+Elle peut également révéler qu’une forme identique est employée dans des contextes différents, ou que plusieurs réalisations regroupées sous un même type présentent des différences importantes pour le problème traité.
 
-Fonction dans l'enquête
+Ces questions demandent un examen supplémentaire. La notion d’occurrence ne fournit pas, à elle seule, les critères permettant de les résoudre.
 
-Le concept intervient lorsque l'enquête doit compter, comparer ou distinguer des réalisations particulières sans les confondre avec les types, catégories ou formes qui permettent de les identifier.
+### Ce qu’elle n’établit pas
 
-Il permet notamment de :
+La notion d’occurrence n’établit pas, à elle seule :
 
-- distinguer plusieurs réalisations d'un même type ;
-- comparer plusieurs occurrences d'une même catégorie ;
-- examiner différentes descriptions portant sur une même occurrence ;
-- distinguer une occurrence linguistique de l'unité linguistique dont elle constitue une réalisation.
+- la validité du type auquel une réalisation est rapportée ;
+- la pertinence de la catégorie appliquée à un cas particulier ;
+- l’identité du référent associé à plusieurs occurrences linguistiques ;
+- la signification d’une expression dans tous ses contextes d’usage ;
+- l’adéquation d’une description à ce qu’elle prétend décrire ;
+- la continuité d’une configuration à travers plusieurs occurrences.
 
-L'occurrence ne fournit donc ni la catégorie, ni la description, ni la justification de l'opération descriptive.
+Ces conclusions exigent des critères et des éléments adaptés au problème considéré.
 
----
+## 7. Articulation avec les autres notions
 
-Articulation avec la quadripartition
+L’occurrence fournit une distinction utile pour plusieurs analyses, sans se substituer à leurs fonctions propres.
 
-Cette notion peut concerner les quatre dimensions selon l'objet de l'enquête :
+- [Anaphore](fr/anaphore.md) — Examiner la dépendance entre une occurrence discursive et un élément antérieur du discours.
+- [Substitution](fr/substitution.md) — Examiner ce qui se maintient ou change lorsqu’une expression est remplacée par une autre.
+- [Référent](fr/referent.md) — Étudier l’identification de ce dont une pratique descriptive se rapporte ou prétend se rapporter.
+- [Objet descriptif](fr/objet-descriptif.md) — Examiner la stabilisation d’une différence comme identifiable et réutilisable dans une pratique.
+- [Description](fr/description.md) — Distinguer l’activité descriptive, son contenu et la situation décrite.
+- [Stabilisation](fr/stabilisation.md) — Examiner la continuité reconnue entre plusieurs occurrences ou reprises d’une configuration.
 
-Question| Ce que l'enquête examine
-Corps| la configuration matérielle ou corporelle singulière considérée
-Relation| les relations selon lesquelles cette réalisation est identifiée
-Fonction| la fonction pour laquelle elle est distinguée
-Justification| les critères permettant de soutenir son identification ou sa qualification
+La notion d’occurrence contribue ainsi au comptage et à la comparaison de réalisations particulières. Elle ne détermine pas, à elle seule, ce qui permet de les identifier, de les regrouper ou de les rapporter à un même référent.
 
-La quadripartition sert ici à éviter qu'une condition d'identification soit confondue avec la fonction ou la justification de cette identification.
+## Synthèse
 
-«Corps ≠ Relation ≠ Fonction ≠ Justification.»
+Une occurrence est une réalisation particulière identifiée relativement à une forme ou à un type dans une pratique déterminée.
 
----
+Cette notion permet de distinguer la multiplicité des réalisations de l’identité du type auquel elles sont rapportées. Elle ne suffit toutefois pas à établir que plusieurs occurrences ont le même référent, que leur regroupement est justifié ou que les descriptions associées sont adéquates.
 
-Articulation avec l'architecture
-
-Suppose
-
-- une réalisation pouvant être distinguée ;
-- un principe de comparaison ou d'identification.
-
-Mobilise
-
-- type / occurrence ;
-- selon le cas, mot / occurrence linguistique ou catégorie / occurrence.
-
-Prépare
-
-- comptage ;
-- comparaison ;
-- catégorisation ;
-- qualification.
-
-Permet ensuite
-
-D'analyser séparément les réalisations particulières, les types auxquels elles sont rapportées et les catégories qui peuvent leur être appliquées.
-
-Ne remplace pas
-
-- le type ;
-- le mot ;
-- la catégorie ;
-- la description ;
-- l'expérience.
-
----
-
-Exemple directeur
-
-Deux occurrences de « chien »
-
-Situation :
-
-«« Le chien aboie et le chien court. »»
-
-Occurrence :
-
-La forme « chien » apparaît deux fois dans l'énoncé.
-
-Distinction :
-
-Ces deux réalisations sont deux occurrences d'une même forme linguistique ; elles ne constituent pas deux mots différents au sens lexical pertinent.
-
-Fonction :
-
-Le concept permet ici de compter et de distinguer les réalisations particulières d'une même forme.
-
-Limite :
-
-Cette distinction ne détermine ni la catégorie mobilisée par « chien », ni la référence de chaque occurrence, ni l'expérience du locuteur.
-
-«Le type peut être identique alors que ses occurrences sont multiples.»
-
-Cas singulier
-
-Le terme peut également être appliqué à un cas singulier relevant d'une catégorie : ce chien-ci peut être une occurrence de la catégorie « chien ».
-
-Il faut alors préciser qu'il ne s'agit plus d'une occurrence linguistique, mais d'un cas singulier catégorisé.
-
-Cette précision évite de faire glisser deux usages du terme l'un dans l'autre.
-
----
-
-Limites
-
-L'occurrence n'établit pas :
-
-- la nature du type dont elle relève ;
-- la catégorie qui doit lui être appliquée ;
-- la signification du mot qui peut la désigner ;
-- la validité de sa description ;
-- sa référence ;
-- l'expérience qui lui est associée.
-
-Portée
-
-Le concept est pertinent chaque fois qu'une enquête doit maintenir la différence entre réalisation particulière et principe général d'identification.
-
-Hors périmètre
-
-Il ne constitue pas une théorie générale de l'individuation, de la référence, de la signification ou de l'expérience.
-
----
-
-Non-conversions
-
-Les conversions propres à cette page sont :
-
-«type ≠ occurrence
-mot ≠ occurrence linguistique
-catégorie ≠ occurrence
-description ≠ occurrence»
-
-La conversion la plus importante est :
-
-«réalisation singulière → principe général»
-
-Une occurrence ne doit pas être transformée en type, catégorie ou forme générale par le simple fait qu'elle en relève.
-
----
-
-Règle d'audit
-
-Avant d'utiliser le terme, vérifier :
-
-1. Quelle réalisation singulière est considérée ?
-2. De quoi est-elle une occurrence ?
-3. Le terme désigne-t-il une occurrence linguistique ou un cas singulier ?
-4. Quel type ou quelle catégorie permet de l'identifier ?
-5. Cette identification est-elle distinguée de sa description ?
-
-«Une occurrence doit toujours être déterminée relativement à ce dont elle est l'occurrence.»
-
----
-
-Synthèse fonctionnelle
-
-Fonction
-
-Distinguer une réalisation singulière du type, de la forme ou de la catégorie relativement auxquels elle est identifiée.
-
-Prépare
-
-Le comptage, la comparaison et la qualification de réalisations particulières.
-
-N'établit pas
-
-Le type, la catégorie, la signification, la référence ou la validité de la description.
-
----
-
-Principe retenu
-
-«Une occurrence est une réalisation singulière ; elle n'est pas le type, la catégorie ou la forme relativement auxquels elle est identifiée.»
-
----
-
-Formule minimale
-
-«Occurrence = réalisation singulière identifiable relativement à un type, une forme ou une catégorie.»
-
----
-
-
+**L’identité du type, la multiplicité des occurrences et l’identité du référent sont trois questions distinctes.**
