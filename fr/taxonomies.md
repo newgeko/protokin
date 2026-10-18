@@ -1,173 +1,178 @@
-# Page : taxonomies.md
+# Taxonomie descriptive — Organiser les relations entre catégories
 
-# Les Taxonomies Descriptives — L'organisation systématique des catégories
+## 1. Fonction
 
-**Version :** Protokin 2026 — version 26.08.212  
-**Fichier :** `taxonomies.md`  
-**Section :** 03 — Fondements descriptifs  
-**Statut conceptuel :** Opérateur d'organisation logique et d'emprise catégorielle (Pôle KIN/Transition).  
+Cette page examine comment les catégories mobilisées dans une pratique descriptive sont organisées les unes par rapport aux autres.
 
----
+Une taxonomie descriptive permet d’étudier les relations établies entre des catégories : inclusion, différenciation, opposition ou complémentarité, par exemple. Elle aide à comprendre quelles distinctions sont maintenues, quelles qualifications peuvent être rapprochées et quelles conséquences découlent de l’organisation retenue.
 
-## Analyse architecturale préalable de la page
+La notion devient utile lorsque l’enquête ne porte plus seulement sur l’application d’une catégorie particulière, mais sur les rapports entre plusieurs catégories et sur les effets de leur organisation.
 
-### 1. Fonction unique de la page
-Cette page établit le concept de **taxonomie descriptive** au sein de la section **03 — Fondements descriptifs** de Protokin. Elle la formalise comme l'organisation systématique, hiérarchique, emboîtée ou réticulaire par laquelle un régime descriptif ordonne ses catégories et ses critères d'évaluation les uns par rapport aux autres. Elle constitue l'infrastructure logique d'amont qui distribue les contrastes et les relations de compatibilité ou d'incompatibilité au sein de l'espace des raisons (plan **KIN**), permettant de structurer l'espace de dicibilité d'une pratique collective avant toute actualisation sous forme de qualification ou d'assertion au présent d'usage.
+## 2. Problème et définition
 
-### 2. Choix du mode de développement
-* **Mode retenu :** Mode A — Développement conceptuel (articulé à une décomposition logique et hylémorphique).
-* **Justification :** Il s'agit d'installer la brique de structuration et d'emprise catégorielle de premier ordre, de définir rigoureusement les rapports d'inclusion et d'exclusion mutuelle, et de prémunir l'auditeur contre les pathologies de naturalisation classificatoire ou d'impérialisme taxonomique.
+Une pratique descriptive peut mobiliser plusieurs catégories pour identifier, comparer ou classer des occurrences. Ces catégories ne sont pas nécessairement indépendantes : certaines peuvent inclure d’autres catégories, s’opposer sur un critère, se compléter pour traiter un problème ou se recouper partiellement.
 
-### 3. Problème conceptuel inaugural
-Une pratique descriptive ne rencontre jamais un monde déjà découpé ou organisé selon les distinctions catégorielles qu'elle mobilise. Le réalisme métaphysique naïf commet à cet égard une erreur majeure en postulant que les objets et les classes existent « en soi » dans la nature, et que le langage se bornerait à les étiqueter passivement (Mythe du Donné). À l'inverse, le relativisme sceptique radical considère que nos classifications ne sont que des fictions arbitraires, interchangeables et dénuées de force contraignante, ce qui dissout toute possibilité d'auto-correction et d'apprentissage (idéalisme sémantique).  
-La difficulté à laquelle répond le concept de taxonomie descriptive s'énonce ainsi : comment un ensemble de catégories de premier ordre peut-il s'ordonner systématiquement pour former un espace de dicibilité cohérent, contraignant et publiquement évaluable par le collectif sans s'en remettre à une structure naturelle préexistante et sans sombrer dans l'arbitraire subjectif ?  
-Protokin résout cette aporie en théorisant la taxonomie non comme un reflet passif de la réalité, mais comme une **réussite normative collective et relationnelle**. Les catégories n'acquièrent de contenu déterminé que par le réseau d'exclusions, d'inclusions et de dépendances réciproques dans lequel la communauté les insère. La taxonomie est la structure logique qui organise ce réseau de redevabilité déontique d'amont.
+Une difficulté apparaît lorsque ces relations restent implicites, lorsque plusieurs catégories semblent incompatibles ou lorsque leur organisation ne permet plus de traiter certains cas.
 
-### 4. Objet propre
-* **Cette page traite de :** l'organisation structurée et relationnelle des catégories, des critères et de leurs rapports d'ordonnancement (inclusion, hiérarchie, opposition, complémentarité, exclusion) ; la stabilisation des domaines d'action et d'évaluation publique ; l'analyse des pathologies taxonomiques (naturalisation, impérialisme, zones de silence, inertie).
-* **Cette page ne traite pas de :** le simple répertoire catégoriel non structuré (réservé à `categories.md`) ; le critère local d'application pris isolément (réservé à `criteres.md`) ; l'opération de qualification située (réservée à `qualification.md`) ; ni l'évaluation globale de la puissance descriptive de second ordre (réservée à `puissance-descriptive.md`).
+Dans Protokin, une **taxonomie descriptive** désigne une organisation relativement stabilisée de catégories et des relations établies entre elles dans une pratique descriptive.
 
-### 5. Statut conceptuel
-Concept analytique de premier ordre et armature logique de la structure catégorielle, appartenant à la **Section 03 — Fondements descriptifs**.
+Cette organisation peut être hiérarchique, réticulaire ou plus limitée. Elle n’est pas nécessairement exhaustive ni entièrement explicite. Sa forme et sa portée dépendent des distinctions retenues, des usages concernés et du problème pour lequel les catégories sont mobilisées.
 
-### 6. Dépendances fonctionnelles
-* **Cette page suppose :** `categories.md`, `criteres.md`, `configuration-descriptive.md` et `principe-pluralisme-descriptif.md`.
-* **Cette page prépare :** `objet-descriptif.md`, `qualification.md`, `predication.md`, `assertion.md`, `regime-descriptif.md`, `ecologie-des-regimes-descriptifs.md` et `diagnostiquer-une-erreur-de-categorie.md`.
-* **Cette page rend possible :** La stabilisation de l'objet descriptif comme invariant relationnel, le diagnostic clinique des erreurs de catégorie et des injustices herméneutiques lors de l'audit.
+Une taxonomie ne se réduit donc pas à une liste de termes. Elle organise des rapports entre catégories. Mais elle ne détermine pas, à elle seule, la correction de leur application ni l’adéquation des descriptions qui les mobilisent.
 
-### 7. Frontières conceptuelles
-* **Taxonomie et Répertoire catégoriel :** Le répertoire catégoriel (`categories.md`) désigne la simple liste non ordonnée des catégories disponibles. La taxonomie est l'organisation systématique de ces divisions selon des règles de conséquence, de hiérarchie et d'exclusion. *Le répertoire rassemble ; la taxonomie ordonne.*
-* **Taxonomie et Critère descriptif :** Le critère (`criteres.md`) régit l'application locale d'un concept à une situation (relation de premier contact). La taxonomie est la structure logique interne reliant les catégories entre elles indépendamment de leur application instantanée. *Le critère règle l'application d'une catégorie ; la taxonomie régit le réseau des catégories.*
-* **Taxonomie et Configuration descriptive :** La configuration descriptive (`configuration-descriptive.md`) est le milieu associé global réunissant toutes les conditions de dicibilité. La taxonomie désigne spécifiquement l'organisation logique et conceptuelle des divisions au sein de ce milieu. *La configuration est le milieu associé ; la taxonomie est sa grammaire logique.*
-* **Taxonomie et Régime descriptif :** La taxonomie structure les possibles de dicibilité (les implications). Le régime descriptif (`regime-descriptif.md`) est le cadre institutionnel complet d'évaluation publique qui arbitre la recevabilité et la redevabilité de ces possibles devant la communauté. *La taxonomie organise la dicibilité ; le régime administre sa redevabilité.*
+## 3. Relations entre catégories
 
-### 8. Architecture locale
-$$\text{Configuration rencontrée} \quad \longrightarrow \quad \text{Catégorie} \quad \longrightarrow \quad \mathbf{\text{TAXONOMIE}} \quad \longrightarrow \quad \text{Objet descriptif} \quad \longrightarrow \quad \text{Régime descriptif (KIN)}$$
+Les relations entre catégories peuvent prendre plusieurs formes. Les formes présentées ici sont des possibilités d’examen, non une typologie exhaustive.
 
----
+### 3.1. Inclusion et spécialisation
 
-## Cartouche fonctionnel
+Une catégorie peut être comprise comme un cas particulier d’une catégorie plus générale.
 
-| Élément | Description |
-| :--- | :--- |
-| **Section** | 03 — Fondements descriptifs |
-| **Fichier** | `taxonomies.md` |
-| **Fonction** | Établir le concept de taxonomie descriptive comme organisation logique et relationnelle systématique des catégories et critères. |
-| **Prépare** | L'objet descriptif en tant qu'invariant, les régimes descriptifs et l'écologie des descriptions. |
-| **Mobilise** | Les catégories disponibles, les critères de correction locaux, le principe d'immanence normative et les supports d'inscription. |
-| **Permet ensuite** | Le diagnostic clinique des erreurs de catégorie, le redressement des injustices herméneutiques et l'évaluation de la puissance descriptive relative. |
-| **N'établit pas** | Une taxonomie naturelle de premier ordre (biologique ou médicale), une théorie de la syntaxe logique pure, ni un calcul propositionnel extentionnel. |
+Dans une classification biologique, par exemple, une catégorie peut être incluse dans une catégorie plus large selon les règles de classification retenues. Cette relation permet d’organiser les catégories et, sous certaines conditions, de transférer des conséquences d’une catégorie générale à une catégorie particulière.
 
----
+Ce transfert n’est pas automatique dans tous les contextes. Il dépend du sens des catégories, des règles de classification et de la portée des conséquences considérées.
 
-## Définition fonctionnelle
+L’inclusion d’une catégorie dans une autre ne signifie pas que toutes les propriétés attribuées à l’une se transmettent sans examen à l’autre.
 
-Dans l'architecture métathéorique de Protokin, on appelle **taxonomie descriptive** :
+### 3.2. Différenciation et opposition
 
-> **L'organisation structurée et relationnelle des catégories, des critères et de leurs rapports d'ordonnancement (inclusion, hiérarchie, opposition, complémentarité, exclusion) par laquelle un régime descriptif distribue ses contrastes pertinents, délimite son espace de dicibilité possible et stabilise un domaine d'action et d'évaluation publique pour une communauté de locuteurs.**
+Une taxonomie peut organiser des catégories en fonction de différences pertinentes pour une pratique.
 
-```text
-       ┌────────────────────────────────────────────────────────┐
-       │                TAXONOMIE DESCRIPTIVE (Réseau)          │
-       │    (Relations d'inclusion, d'opposition et d'exclusion)│
-       └───────────────────────────┬────────────────────────────┘
-                                   │
-         ┌─────────────────────────┴─────────────────────────┐
-         ▼                                                   ▼
-┌────────────────────────────────┐                  ┌────────────────────────────────┐
-│   UNITÉS CATÉGORIELLES (Quoi)  │                  │   CRITÈRES DE CORRECTION (Comment)│
-│ (Divisions, classes, concepts) │                  │ (Filtres, règles d'application)│
-└────────────────────────────────┘                  └────────────────────────────────┘
-                                   │
-                                   ▼ Sédimentation
-┌────────────────────────────────────────────────────────────────────────────────────┐
-│                    SUPPORTS MATÉRIELS D'INSCRIPTION (Inertie)                       │
-│           (Flores, formulaires informatiques, manuels de diagnostic)                │
-└────────────────────────────────────────────────────────────────────────────────────┘
-```
+Certaines catégories peuvent s’opposer selon un critère déterminé. Cette opposition ne suffit pas à établir qu’elles s’excluent mutuellement dans toutes les situations. Deux catégories peuvent différencier des aspects distincts d’une même occurrence, ou être incompatibles seulement dans un domaine d’application précis.
 
----
+Pour déterminer si deux qualifications peuvent être maintenues conjointement, il faut examiner ce qu’elles attribuent, les conditions dans lesquelles elles s’appliquent et le rapport qu’elles entretiennent dans le cas étudié.
 
-## Dimensions constitutives
+**Différence ≠ contradiction. Opposition ≠ exclusion automatique.**
 
-### 1. L'agencement relationnel systématique (L'emprise logique)
-Une taxonomie n'est pas un simple répertoire accumulé de termes isolés. Elle existe par l'ensemble des relations logiques d'emprise qu'elle établit et maintient entre ses catégories. Ces relations se déclinent selon trois modalités fondamentales :
-* **L'inclusion (ou spécialisation)** : l'emboîtement ordonné de catégories du général au particulier (ex : *Mammifère* $\rightarrow$ *Carnivore* $\rightarrow$ *Canidé*), réglant le transport asymétrique des engagements inférentiels.
-* **L'opposition et l'exclusion mutuelle** : l'armature négative et exclusive qui interdit de soutenir simultanément deux qualificatifs contradictoires pour un même invariant au présent d'usage (ex : *Bénin* / *Malin* ; *Accidentel* / *Intentionnel*), structurant les limites de la compossibilité.
-* **La complémentarité** : l'association horizontale de distinctions coordonnées pour couvrir l'intégralité d'un domaine d'action (ex : les différentes étapes d'un protocole technique).
+### 3.3. Complémentarité et recoupement
 
-### 2. L'infrastructure de dicibilité et de visibilité (La sélection de second ordre)
-En ordonnant les catégories, la taxonomie configure d'avance ce qui peut accéder à l'existence et à la légitimité publiques au sein d'un domaine d'activité. Elle trace la frontière entre ce qui est dicible, justifiable et évaluable d'une part, et ce qui est rejeté dans l'arrière-plan ou rendu invisible d'autre part. Toute taxonomie est une opération de capture sélective : elle met en saillance les contrastes jugés critiques pour la viabilité du collectif tout en créant inévitablement ses propres « zones de silence ». L'auditeur de second ordre examine ces découpages pour repérer les exclusions sémantiques arbitraires ou les injustices d'échelle.
+Plusieurs catégories peuvent remplir des fonctions complémentaires dans une pratique. Elles peuvent aussi se recouper, c’est-à-dire s’appliquer en partie aux mêmes occurrences sans être équivalentes.
 
-### 3. L'ancrage infrastructural matériel et la plasticité révisable
-Les taxonomies de premier ordre ne planent pas de manière désincarnée dans l'espace logique. Elles sont portées, véhiculées et contraintes par l'épaisseur matérielle de **supports d'inscription** (manuels de référence, formulaires administratifs, arbres de décision informatiques, flores de détermination). Ces supports garantissent la permanence des catégories dans le temps, mais leur confèrent également une inertie physique. Une taxonomie est une structure stable mais non éternelle : elle demeure révisable et plastique au cours de l'enquête collective, lorsque la confrontation répétée avec les **butoirs** de la physis (plan **PROTO**) sature ses divisions d'amont et exige un reformatage de ses critères.
+La complémentarité ne signifie pas nécessairement que les catégories couvrent ensemble la totalité d’un domaine. Elle indique seulement que leurs contributions peuvent être articulées pour une question déterminée.
 
----
+Le recoupement ne constitue pas non plus, en lui-même, une incohérence. Il faut examiner les différences que chaque catégorie retient et les conséquences attachées à son application.
 
-## Éclairage par les fils rouges pédagogiques
+### 3.4. Organisation hiérarchique ou réticulaire
 
-### 1. Le botaniste et le bûcheron face à l'arbre
-Le botaniste universitaire et le bûcheron partagent la même forêt physique d'amont (plan PROTO), mais opèrent à travers deux taxonomies descriptives hétérogènes, autonomes et parfaitement légitimes :
-* Le botaniste déploie une **taxonomie scientifique et phylogénétique** (Image Scientifique) qui ordonne la matière selon des critères de morphologie florale, de nervation d'aiguilles et de filiation génétique (*Abies alba*), s'adossant à l'autorité de flores de détermination mondiales.
-* Le bûcheron déploie une **taxonomie technique et sylvicole** (Image Manifeste technique) qui classe le même tronc selon des critères de rectitude de fût, de densité de fibre et de rendement mécanique (« bois de charpente de catégorie A », « bois de chauffage »), s'adossant à son geste incorporé et à l'usage de ses outils.
-Leur coexistence est pacifique car leurs taxonomies répondent à des finalités pratiques d'enquête étanches. L'audit protokinien interdit d'utiliser la légitimité académique de la taxonomie du botaniste pour délégitimer ou invalider le savoir-faire incorporé et la pertinence pratique de la taxonomie de l'artisan.
+Une taxonomie peut ordonner les catégories selon des relations de généralité et de spécialisation. Elle peut également relier des catégories selon plusieurs rapports qui ne se réduisent pas à une hiérarchie unique.
 
-### 2. Le patient aux urgences hospitalières
-Le triage hospitalier met en lumière le télescopage de deux taxonomies rivales sur un même corps souffrant :
-* La **taxonomie clinique et thérapeutique** de gravité (de 1 à 5) est structurée par des critères vitaux d'amont (constantes ECG, saturation, anamnèse) et règle l'obligation d'action médicale immédiate (triage et massage).
-* La **taxonomie administrative et comptable** de gestion (admissibilité, lits disponibles, codage par pathologie pour la tarification à l'activité) est réglée par des flux logistiques et financiers d'aval.
-La pathologie de second ordre surgit lorsque l'institution comptable tente d'imposer les critères et les divisions de sa taxonomie de gestion pour écraser ou invalider la priorité clinique de la taxonomie médicale. L'audit rétablit la hiérarchie rationnelle en démontrant que la taxonomie de gestion est structurellement aveugle à la viabilité immédiate de l'organisme, commettant une pathologie de dureté de cœur mortifère pour le malade.
+Il ne faut donc pas présupposer que toute classification forme un arbre ordonné, que chaque catégorie occupe une seule place ou qu’un niveau supérieur détermine toutes les applications des catégories qui en dépendent.
 
-### 3. « Le vélo est rouge »
-Qualifier le vélo de « rouge » suppose l'inscription implicite de l'énoncé au sein d'une **taxonomie chromatique** partagée (Régime perceptif ordinaire). Cette taxonomie n'enregistre pas une essence physique isolée. Elle organise un espace de contrastes qui exclut d'emblée d'autres qualificatifs incompatibles (« ceci est bleu », « ceci est vert ») et se lie de façon contrefactuellement robuste à des critères de correction d'apparence (le vélo doit apparaître rouge sous une lumière naturelle neutre). L'assertion d'aval (plan KIN) s'approprie ainsi la cause physique (l'onde de 650 nm, plan PROTO) en la disciplinant au sein d'un réseau public de non-contradiction sémantique.
+La structure pertinente doit être établie à partir de la classification examinée. Elle peut être partielle, comporter des recoupements ou laisser certaines relations indéterminées.
 
-### 4. « Cette personne est mauvaise » / « Cette personne est dangereuse »
-La qualification « mauvaise par nature » ou « dangereuse » commet une confusion de niveau et une injustice herméneutique majeures. Elle applique les catégories d'une **taxonomie morale ou sécuritaire rigide** pour figer la totalité d'un agent sous une essence biologique immuable (plan PROTO réifié). Ce verrouillage catégoriel bloque tout contrefactuel de changement en affirmant implicitement qu'« il est impossible que cette personne agisse correctement à l'avenir ». L'audit déconstruit cette essence factice en traduisant l'étiquette d'infamie en une séquence d'actions matérielles situées (l'acte déviant). En réinsérant l'agent au sein d'une chaîne d'anaphores et de responsabilités partagées, Protokin déverrouille l'effet cliquet moral pour ouvrir des trajectoires de réhabilitation futures.
+## 4. Distinctions avec les notions voisines
 
-### 5. La théorie des humeurs et son remplacement historique
-La transition historique de la médecine humorale classique vers la médecine anatomo-clinique moderne illustre la substitution réglée d'une taxonomie par une autre :
-* La **taxonomie humorale** classait les maladies selon l'équilibre qualitatif des quatre humeurs (sang, flegme, bile jaune, bile noire) et le tempérament de l'organisme, s'adossant à une thérapeutique de régulation des flux (saignées, diète).
-* La **taxonomie anatomo-clinique** moderne classe les pathologies selon la localisation tissulaire et spatiale de la lésion objective, s'adossant à des supports d'inscription hautement instrumentés (scopes, microscopes de précision).
-L'audit montre comment cette transition s'opère par réorganisation transductive de l'espace des raisons sous la pression de nouveaux butoirs physiques d'amont, et non par le simple triomphe désincarné de la vérité sur l'erreur.
+### 4.1. Taxonomie et catégorie
 
----
+Une catégorie permet de regrouper ou de distinguer des occurrences selon une différence pertinente pour une pratique descriptive.
 
-## Limites internes et vigilances d'audit : les pathologies taxonomiques
+La taxonomie concerne l’organisation de plusieurs catégories et les relations établies entre elles. Elle ne se confond donc pas avec une catégorie particulière.
 
-Lors de la conduite clinique d'un audit de second ordre, l'enquêteur applique des critères de vigilance stricts pour dépister quatre pathologies classificatoires :
+Une catégorie peut être examinée isolément lorsque le problème porte sur son sens ou sur son application. La taxonomie devient pertinente lorsque l’enquête doit également examiner sa place dans une organisation de catégories.
 
-### 1. La naturalisation des taxonomies (L'illusion d'éternité)
-Le biais empiriste classique consistant à traiter une classification historiquement instituée, sédimentée et révisable (comme un manuel diagnostique psychiatrique DSM ou un barème d'assurance) comme s'il s'agissait d'un découpage naturel et immuable de la réalité physique en soi. L'auditeur de second ordre déconstruit cette illusion en retraçant l'histoire des compromis, des arbitrages et des supports matériels qui ont construit et stabilisé la grille.
+Voir [Catégorie](fr/categories.md).
 
-### 2. La réduction unilatérale (L'impérialisme taxonomique)
-La pathologie par laquelle un régime d'intelligibilité s'appuie sur sa domination sociale ou institutionnelle pour imposer sa propre taxonomie comme l'unique manière correcte de décrire une situation (ex : écraser la description subjective du patient par les seuls critères de la taxonomie d'imagerie médicale, ou réduire la responsabilité d'un geste à une taxonomie statistique). L'audit protokinien réaffirme le principe du pluralisme descriptif en défendant l'autonomie et l'étanchéité des rituels de justification d'amont.
+### 4.2. Taxonomie et critère
 
-### 3. Les zones de silence structurelles (L'injustice herméneutique)
-L'exclusion systématique de certaines dimensions de l'expérience physique ou somatique des grilles de classement officielles, privant un groupe d'locuteurs des catégories indispensables pour formuler et justifier leur situation face au collectif (ex : l'absence d'une case administrative pour enregistrer l'impact de la précarité thermique sur la santé). L'audit identifie ces silences de support pour réorienter l'enquête et élargir la puissance descriptive du régime.
+Un critère précise ce qui compte pour évaluer une attribution, une description ou une conclusion dans une pratique déterminée.
 
-### 4. L'inertie taxonomique (Le fétichisme du support)
-Le maintien bureaucratique d'une classification obsolète et manifestement défaillante face aux anomalies de terrain (butoirs de PROTO), parce que le coût d'adaptation de ses supports d'inscription externes rigides (logiciels d'enregistrement, bases de données, formulaires imprimés) est jugé prohibitif par l'institution. L'auditeur de second ordre démontre la mort clinique sémantique du régime en pointant l'accumulation des dysfonctionnements matériels.
+Une taxonomie peut être associée à des critères qui permettent d’appliquer ou de distinguer ses catégories. Mais la relation entre catégories et critères doit être examinée : l’organisation des catégories ne détermine pas nécessairement toutes les exigences de leur application.
 
----
+Il faut notamment distinguer l’existence d’une catégorie, les critères mobilisés pour l’appliquer et la justification de son emploi dans un cas particulier.
 
-## Synthèse finale
+Voir [Critère](fr/critere.md).
 
-### Ce que cette page établit
-* Le concept de **taxonomie descriptive** en tant qu'organisation systématique et relationnelle des catégories et des critères d'un régime descriptif, déterminant par inclusion et exclusion mutuelle la structure de l'espace de dicibilité d'une communauté de locuteurs.
-* L'armature logique d'emprise catégorielle (inclusion, opposition, complémentarité) et sa sédimentation sur des supports d'inscription.
+### 4.3. Taxonomie et configuration descriptive
 
-### Ce que cette page suppose
-* La *catégorie descriptive* (`categories.md`).
-* Le *critère descriptif* (`criteres.md`).
-* La *configuration descriptive* (`configuration-descriptive.md`).
-* Le *principe du pluralisme descriptif* (`principe-pluralisme-descriptif.md`).
+Une configuration descriptive organise les différences, les catégories et les relations qui rendent certaines descriptions possibles et intelligibles dans une pratique.
 
-### Ce que cette page rend possible
-* L'identification de l'**objet descriptif** en tant qu'invariant relationnel.
-* Le diagnostic clinique des **erreurs de catégorie** (`diagnostiquer-une-erreur-de-categorie.md`) et des **injustices herméneutiques** d'exclusion sémantique lors de l'audit.
-* L'évaluation et la comparaison de la **puissance descriptive** relative des classifications hétérogènes.
-* La modélisation de l'**écologie des régimes descriptifs** (`ecologie-des-regimes-descriptifs.md`).
+La taxonomie porte plus précisément sur l’organisation des catégories. Elle peut constituer un aspect de la configuration descriptive, mais ne résume pas l’ensemble des ressources et des relations qui y interviennent.
 
----
+Une configuration descriptive peut mobiliser une taxonomie sans se réduire à elle. Elle peut également être révisée sans que toutes les catégories ou toutes les relations de classification soient modifiées de la même manière.
 
-Protokin 2026 — version 26.08.212
+Voir [Configuration descriptive](fr/configuration-descriptive.md).
+
+### 4.4. Taxonomie et régime descriptif
+
+Un régime descriptif désigne une organisation relativement stabilisée de règles d’usage, de distinctions, d’opérations et de critères qui oriente la production et l’évaluation des descriptions dans une pratique donnée.
+
+Une taxonomie peut être mobilisée dans un régime descriptif et contribuer à son organisation. Elle ne suffit cependant pas à caractériser le régime entier : celui-ci comprend également des usages, des opérations et des exigences d’évaluation qui ne se réduisent pas aux relations entre catégories.
+
+La taxonomie ne détermine donc pas à elle seule les conditions de recevabilité d’une description ni les raisons permettant de la défendre.
+
+Voir [Régime descriptif](fr/regime-descriptif.md).
+
+## 5. Exemple discriminant : classer un arbre
+
+Considérons une pratique qui distingue plusieurs catégories d’arbres selon leur espèce, leur état biologique ou leur aptitude à un usage technique.
+
+Ces catégories ne remplissent pas nécessairement la même fonction. Une classification botanique peut organiser les espèces selon des critères propres à la systématique. Une classification technique peut distinguer les arbres selon des propriétés pertinentes pour une opération, comme la résistance du bois ou les conditions d’abattage.
+
+Ces classifications peuvent se recouper sans être équivalentes. Une catégorie botanique ne détermine pas, à elle seule, l’aptitude d’un arbre à un usage technique. Inversement, une catégorie définissant une aptitude pratique ne remplace pas son identification biologique.
+
+Une difficulté apparaît si une catégorie d’une classification est utilisée comme si elle déterminait automatiquement une qualification dans l’autre. Il faut alors examiner les relations entre les catégories, les critères d’application et la conclusion recherchée.
+
+L’exemple ne permet pas de conclure que les classifications sont toujours indépendantes, également pertinentes ou également adéquates. Il montre que leurs relations doivent être établies à partir des questions auxquelles elles répondent et des critères qui permettent de les évaluer.
+
+## 6. Réviser une taxonomie
+
+Une taxonomie peut devenir un objet d’enquête lorsque son organisation ne permet plus de traiter une difficulté descriptive.
+
+Plusieurs questions peuvent alors être examinées :
+
+- Certaines catégories se recouvrent-elles sans que ce recouvrement soit explicité ?
+- Une relation d’inclusion ou d’exclusion est-elle effectivement justifiée ?
+- Une catégorie nouvelle met-elle en difficulté les distinctions disponibles ?
+- Des catégories sont-elles utilisées dans des fonctions différentes sans que ce changement soit pris en compte ?
+- L’organisation retenue laisse-t-elle de côté une différence pertinente pour le problème ?
+- Les critères d’application permettent-ils de maintenir les distinctions proposées ?
+
+Ces questions ne constituent pas une procédure obligatoire. Leur pertinence dépend du problème rencontré.
+
+Une difficulté peut conduire à préciser une relation, à restreindre le domaine d’application d’une catégorie, à modifier une classification ou à reconnaître que plusieurs organisations répondent à des questions différentes.
+
+La révision d’une taxonomie ne garantit pas, à elle seule, que la nouvelle organisation soit adéquate. Il faut encore examiner les raisons de la modification, les critères mobilisés et les conséquences qu’elle autorise.
+
+## 7. Limites et non-conversions
+
+La notion de taxonomie descriptive permet d’examiner l’organisation des catégories dans une pratique. Elle n’établit pas :
+
+- que la classification reproduit un découpage naturel et exhaustif du domaine examiné ;
+- que toute taxonomie doit être hiérarchique ou former un système complet ;
+- que deux catégories opposées sont toujours mutuellement exclusives ;
+- que la stabilité d’une classification garantit la correction de ses applications ;
+- que l’usage régulier ou institutionnalisé d’une taxonomie suffit à la justifier ;
+- que des classifications différentes sont nécessairement incompatibles ou équivalentes ;
+- que l’organisation des catégories détermine toutes les fonctions et tous les critères d’une pratique.
+
+Il faut notamment éviter les conversions suivantes :
+
+- **Catégorie → validité :** l’existence ou l’application d’une catégorie ne garantit pas la correction du classement.
+- **Organisation → exhaustivité :** une classification structurée ne couvre pas nécessairement toutes les différences pertinentes.
+- **Stabilité → justification :** le maintien d’une taxonomie ne suffit pas à justifier sa pertinence.
+- **Différence → incompatibilité :** deux classifications distinctes ne sont pas nécessairement contradictoires.
+- **Taxonomie → régime descriptif :** l’organisation des catégories ne résume pas l’ensemble des règles et des opérations d’une pratique.
+- **Classification → réalité constituée :** le fait qu’une pratique classe des occurrences ne suffit pas à établir que cette classification constitue les occurrences qu’elle décrit.
+
+Ces limites n’impliquent pas que les taxonomies soient arbitraires. Leur pertinence peut être examinée à partir des distinctions qu’elles permettent, des critères de leur application, des difficultés qu’elles rencontrent et des conclusions qu’elles soutiennent.
+
+## Synthèse
+
+Une taxonomie descriptive est une organisation relativement stabilisée de catégories et des relations établies entre elles dans une pratique descriptive.
+
+Elle permet d’examiner comment des catégories sont incluses, différenciées, opposées, articulées ou mises en recouvrement, ainsi que les conséquences de cette organisation pour les descriptions et les qualifications mobilisées.
+
+Elle ne se confond ni avec une catégorie particulière, ni avec les critères de son application, ni avec la configuration descriptive ou le régime dans lequel elle intervient.
+
+L’organisation d’une taxonomie doit pouvoir être examinée et révisée. Sa stabilité ne garantit ni son exhaustivité, ni la correction de ses applications, ni l’adéquation des descriptions qu’elle contribue à rendre possibles.
+
+Pour poursuivre :
+
+- [Catégorie](fr/categories.md) — Examiner le regroupement et la distinction des occurrences.
+- [Critère](fr/critere.md) — Préciser les exigences qui permettent d’évaluer une attribution ou une conclusion.
+- [Configuration descriptive](fr/configuration-descriptive.md) — Examiner l’organisation plus large des ressources descriptives.
+- [Régime descriptif](fr/regime-descriptif.md) — Examiner les règles et les critères d’une pratique descriptive.
+- [Diagnostiquer une erreur de catégorie](fr/diagnostiquer-une-erreur-de-categorie.md) — Examiner les attributions dont la fonction ou le cadre d’application pose problème.
+- [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md) — Examiner les relations entre plusieurs pratiques descriptives.
+- [Table des matières](fr/tdm.md) — Retrouver les pages et les parcours du corpus.
+- [Patterns éditoriaux de Protokin](../patterns.md) — Consulter les repères éditoriaux du projet.
