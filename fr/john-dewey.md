@@ -1,187 +1,151 @@
-# Page : john-dewey.md
+# John Dewey — Enquête, transaction et transformation des habitudes
 
-John Dewey — Le pragmatisme de l'enquête et la continuité transactionnelle
+## Fonction
 
-Analyse architecturale de la page
+Cette page présente les apports de John Dewey à la compréhension de l’enquête comme activité située, engagée dans des situations problématiques et susceptible de transformer les habitudes, les descriptions et les manières d’agir.
 
-1. Fonction unique de la page
+Elle examine trois aspects de sa pensée : la transaction entre organisme et environnement, la transformation des situations indéterminées par l’enquête et le rôle des habitudes dans l’expérience.
 
-Cette page existe pour établir le statut conceptuel et méthodologique de l'héritage de John Dewey au sein de l'architecture de Protokin, en explicitant comment son pragmatisme de l'enquête, la continuité transactionnelle et la résolution des situations problématiques fondent la dynamique de second ordre de la réorganisation des régimes et de l'audit clinique.
+Pour Protokin, Dewey constitue une ressource philosophique permettant de comprendre pourquoi une enquête part d’une difficulté rencontrée dans une pratique plutôt que de l’application d’un cadre entièrement défini à l’avance.
 
-2. Choix du mode de développement
+Il ne fournit pas pour autant l’architecture complète de Protokin. Les notions et les opérations propres au projet doivent être définies et justifiées indépendamment de cet héritage.
 
-· Mode retenu : Mode A — Développement conceptuel.
-· Justification : La page a pour objectif de formaliser l'apport de Dewey comme ressource de second ordre pour l'espace des raisons (KIN) et la théorie de l'enquête, sans se limiter à une simple exégèse historique ou biographique de l'auteur.
+## 1. Le problème : comprendre une enquête située
 
-3. Problème conceptuel
+Une pratique peut fonctionner de manière relativement régulière sans que ses participants aient besoin d’expliciter toutes les distinctions, les règles ou les attentes qu’ils mobilisent.
 
-Comment concevoir l'ajustement dynamique, la correction et la réorganisation de nos catégories descriptives sous l'épreuve des perturbations réelles (anomalies, butoirs) sans s'en remettre au mythe d'une adéquation magique avec une vérité brute en soi (représentationnalisme) ni abandonner l'exigence de correction normative et rationnelle (relativisme) ?
+Une difficulté apparaît lorsque cette organisation ne suffit plus : une habitude conduit à une impasse, une attente est déçue, une décision devient contestable ou les moyens disponibles ne permettent plus de déterminer comment agir.
 
-4. Objet propre
+Il ne suffit alors pas toujours de répéter une opération, de préciser une définition ou d’appliquer une règle supplémentaire. Il peut être nécessaire de réexaminer la situation, de reformuler le problème et de modifier les moyens utilisés pour y répondre.
 
-· Cette page traite de : l'enquête (inquiry) comme transformation active d'une situation problématique indéterminée en une configuration déterminée et unifiée ; le concept de transaction organisme-environnement ; la continuité entre expérience vécue, action située et production de connaissances ; le statut pré-cognitif et adaptatif du trouble.
-· Cette page ne traite pas de : la définition de l'enquête de premier ordre prise isolément (réservée à enquete.md), les étapes détaillées de l'audit de terrain (réservées à realiser-un-audit.md), ni une histoire exhaustive du pragmatisme américain.
+La philosophie de Dewey permet de penser cette transformation sans réduire l’enquête à une activité intellectuelle séparée de l’action. L’enquête se développe à partir d’une situation dans laquelle les manières habituelles de comprendre et d’agir ne permettent plus de poursuivre sans difficulté.
 
-5. Statut conceptuel
+Pour Protokin, cet apport est important : une enquête descriptive ne commence pas nécessairement par une question théorique déjà bien délimitée. La formulation même du problème peut devoir être révisée au cours de l’examen.
 
-Il s'agit d'un héritage philosophique reconstruit rétroactivement (Section 10 — Héritages philosophiques).
+## 2. La transaction entre organisme et environnement
 
-6. Dépendances fonctionnelles
+Dewey critique les conceptions qui séparent d’abord un sujet connaissant et un monde extérieur, puis cherchent à expliquer comment le premier pourrait accéder au second.
 
-Cette page suppose :
+Dans une perspective transactionnelle, l’organisme et son environnement doivent être examinés à partir de leurs rapports effectifs. Les capacités d’un organisme, ses habitudes, les conditions matérielles de son activité et les possibilités offertes par son environnement prennent sens dans une situation déterminée.
 
-· Le primat du couplage organisme-environnement.
-· Le primat de l'enquête.
-· La notion de configuration rencontrée.
-· La démarcation entre Causes et Raisons.
+La transaction ne désigne donc pas simplement une interaction entre deux entités dont toutes les propriétés seraient déjà fixées indépendamment l’une de l’autre. Elle invite à étudier les transformations et les dépendances qui apparaissent dans leur rapport.
 
-Cette page rend possible :
+Cette approche permet notamment de comprendre que l’expérience n’est pas une réception passive d’informations. Les activités perceptives et pratiques contribuent à déterminer ce qui devient pertinent dans une situation. Elles restent néanmoins exposées aux contraintes et aux conséquences de ce qui se produit.
 
-· L'explicitation du concept d'enquête.
-· Le développement de la méthode d'audit.
-· La formulation de la transformation descriptive (réorganisations, traductions, transitions).
+Une manière d’agir peut ainsi être adaptée à certaines conditions et devenir inadéquate lorsque celles-ci changent. Les habitudes d’un individu, les caractéristiques d’un outil et l’organisation d’un environnement peuvent se soutenir mutuellement sans que cet ajustement soit garanti dans toutes les situations.
 
-7. Frontières conceptuelles
+### Ce que Protokin peut en retenir
 
-L'héritage de Dewey (Section 10) et l'Enquête (Section 08)
+La perspective transactionnelle invite à examiner les conditions corporelles, matérielles, techniques et environnementales des pratiques descriptives. Elle rappelle que les descriptions ne sont pas produites indépendamment des activités, des instruments et des situations dans lesquelles elles sont mobilisées.
 
-Le legs de Dewey est une ressource historique et conceptuelle de second ordre reconstruite pour justifier les choix d'amont de Protokin. L'Enquête (Section 08) est l'opération dynamique et méthodologique de premier ordre mise en mouvement sur le terrain par le collectif.
+Elle ne permet toutefois pas de déduire le contenu d’une description de ses seules conditions de production. Expliquer comment une personne en vient à décrire une situation ne suffit pas à déterminer si sa description est adéquate.
 
-8. Architecture locale
+Les conditions de production, le contenu descriptif et la justification d’une conclusion doivent donc rester distingués, même lorsqu’ils entretiennent des dépendances importantes.
 
-```
-            LE COUPLAGE ORGANISME-ENVIRONNEMENT (Section 01)
-                                   │
-                                   ▼
-                       JOHN DEWEY (john-dewey.md)
-                                   │
-             ┌─────────────────────┴─────────────────────┐
-             ▼                                           ▼
-   L'ENQUÊTE (enquete.md)                      L'AUDIT (audit.md)
-```
+## 3. L’enquête et la transformation d’une situation problématique
 
----
+Dans *Logic: The Theory of Inquiry* (1938), Dewey analyse l’enquête comme la transformation contrôlée d’une situation indéterminée en une situation dont les éléments et les relations sont suffisamment déterminés pour permettre un jugement ou une action.
 
-Cartouche fonctionnel
+Une situation devient problématique lorsque les manières habituelles de la comprendre ou d’y agir ne permettent plus de s’y orienter de façon satisfaisante. L’indétermination ne désigne pas nécessairement un manque d’information isolé. Elle peut concerner la manière même de délimiter le problème, d’identifier les éléments pertinents ou de déterminer ce qui constituerait une réponse acceptable.
 
-Élément Description
-Section 10 — Héritages philosophiques
-Fichier john-dewey.md
-Fonction Présenter l'apport du pragmatisme de l'enquête et de la continuité transactionnelle de John Dewey dans Protokin.
-Prépare L'explicitation de l'enquête, de l'audit, des tensions et de la dynamique de réorganisation.
-Mobilise Le primat du couplage, la configuration rencontrée, et la posture de non-substitution.
-Permet ensuite De conseiller la plasticité des régimes face aux anomalies et de guider l'auto-correction.
-N'établit pas La théorie de premier ordre de l'enquête, la taxonomie des régimes, ni la sociologie empirique.
+L’enquête ne consiste donc pas uniquement à rechercher une solution à une question déjà fixée. Elle peut conduire à reformuler la question, à distinguer des difficultés jusque-là confondues, à produire des hypothèses ou à réexaminer les moyens d’évaluation disponibles.
 
----
+Les résultats de cet examen transforment la situation initiale. Une conclusion peut rendre une décision possible, réorienter l’action ou modifier les habitudes mobilisées. Mais elle ne clôt pas nécessairement toute difficulté : de nouvelles circonstances ou de nouvelles questions peuvent exiger une reprise de l’enquête.
 
-Problème conceptuel inaugural
+### Un exemple : l’arbre qui penche
 
-Toute métathéorie qui cherche à détrôner le représentationnalisme s'expose à un défi structurel : comment expliquer l'évolution rationnelle de nos descriptions sans s'en remettre à l'illusion d'une nature pré-découpée qui dicterait sa propre vérité (réalisme naïf), et sans pour autant dissoudre l'objectivité dans un jeu de langage purement arbitraire et flottant (scepticisme relativiste) ? Si le sens de nos énoncés ne provient pas d'une correspondance passive avec les choses "en soi", comment nos concepts se règlent-ils et s'auto-corrigent-ils ?
+Un arbre situé à proximité d’une habitation présente une inclinaison inhabituelle.
 
-Pour surmonter cette aporie, John Dewey introduit un déplacement radical : remplacer la théorie de l'esprit-spectateur par une théorie de l'enquête située. L'esprit n'est pas un miroir qui contemple passivement le monde depuis l'extérieur ; il est un aspect d'un organisme vivant en transaction continue avec un milieu qui lui oppose des résistances.
+L’observation initiale ne suffit pas nécessairement à déterminer si l’arbre est dangereux. Il faut peut-être examiner son état biologique, la stabilité de son ancrage, les conditions du sol, son environnement et les conséquences possibles d’une chute.
 
-Protokin s'approprie cet héritage pour modéliser le moteur du changement conceptuel : une crise descriptive ou une anomalie n'est pas une simple erreur logique abstraite, mais une rupture d'opérabilité dans le couplage entre le collectif et son environnement. L'enquête est la réponse immanente par laquelle le collectif réorganise ses catégories pour restaurer sa puissance d'action.
+Le problème se précise à mesure que ces éléments sont examinés. Une information nouvelle peut modifier l’évaluation initiale ou montrer que la question posée était trop générale.
 
----
+L’enquête ne consiste pas à faire entrer automatiquement l’arbre dans une catégorie préétablie. Elle vise à déterminer quelles distinctions et quelles informations sont pertinentes pour la difficulté rencontrée, puis à examiner les conclusions que ces éléments permettent de soutenir.
 
-Définition fonctionnelle
+Cet exemple ne signifie pas que toutes les enquêtes suivent une procédure identique. Il montre plutôt que la détermination du problème et celle des réponses possibles peuvent se transformer conjointement.
 
-Dans l'architecture de Protokin, l'héritage de John Dewey désigne :
+### Ce que Protokin peut en retenir
 
-La ressource métathéorique et de second ordre qui modélise l'enquête comme le processus transactionnel par lequel un collectif transforme une situation de trouble indéterminée en une configuration déterminée et unifiée, enracinant les justifications normatives (plan KIN) dans la continuité adaptative des couplages sensorimoteurs (plan PROTO).
+Dewey aide à comprendre pourquoi une difficulté descriptive peut conduire à réviser non seulement une réponse, mais aussi les distinctions et les critères qui permettaient de la formuler.
 
-De cette définition se dégagent trois contributions directrices majeures :
+Cette idée rejoint l’orientation générale de Protokin : l’enquête doit pouvoir reprendre son point de départ lorsque l’examen révèle que le problème a été mal délimité ou que les ressources disponibles sont insuffisantes.
 
-· Le dépassement du dualisme sujet-monde (La Transaction) : Le vivant et son milieu ne sont pas deux substances isolables venant interagir, mais un complexe unifié, co-constitué à travers le couplage dynamique.
-· La genèse de la normativité par le trouble (La Continuité) : Les raisons discursives ne naissent pas ex nihilo ; elles prolongent la normativité biologique brute des organismes s'efforçant de maintenir leur viabilité face aux butoirs du milieu.
-· Le caractère instrumental des catégories (La Plasticité) : Nos cadres de dicibilité ne sont pas des essences contemplatives éternelles, mais des outils de second ordre, pliés par l'action et révisables dans l'enquête.
+La chaîne des opérations décrite dans l’[architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) précise la manière dont Protokin organise cet examen. Elle ne doit pas être présentée comme une transcription de la théorie de Dewey ni comme une succession nécessaire de phases.
 
----
+## 4. Habitudes, expérience et révision
 
-La pragmatique transactionnelle de l'enquête
+Dans *Human Nature and Conduct* (1922), Dewey accorde une place centrale aux habitudes pour comprendre la conduite humaine.
 
-L'intégration de l'approche de Dewey dans Protokin s'articule autour de trois massifs théoriques coordonnés :
+Une habitude n’est pas seulement une répétition mécanique ni une règle explicitement formulée. Elle désigne une disposition acquise qui organise certaines manières de percevoir, d’agir et de répondre aux situations.
 
-```
-                           L'HÉRITAGE DE DEWEY DANS PROTOKIN
-                                          │
-         ┌────────────────────────────────┼────────────────────────────────┐
-         ▼                                ▼                                ▼
-La Transaction (PROTO)          L'Enquête Transductive             L'Instrumentalisme (KIN)
-- Dépassement du dualisme       - Situation indéterminée           - Catégories comme outils
-- Couplage organisme-milieu     - Institution du problème          - Concepts ouverts
-- Résistances et butoirs        - Réorganisation et clôture        - Rationalité d'action
-```
+Les habitudes rendent possibles des conduites relativement régulières sans exiger une délibération complète à chaque occasion. Elles contribuent aussi à orienter l’attention : certaines caractéristiques deviennent saillantes, certaines réponses paraissent naturelles et certaines possibilités restent moins facilement envisagées.
 
-A. Le modèle transactionnel : le couplage organisme-environnement (PROTO)
+Cette organisation n’est ni immuable ni nécessairement adéquate. Une habitude peut être efficace dans un environnement et rencontrer des difficultés dans un autre. Une transformation des conditions peut également rendre problématique une manière de faire jusque-là satisfaisante.
 
-Contre le dualisme hérité de Descartes, Dewey conçoit l'organisme en transaction permanente avec son environnement. Dans l'espace des causes (PROTO), l'organisme n'est pas un récepteur passif de stimuli, mais un agent dont la boucle perception-action découpe et configure activement son milieu associé. 
-Le monde biophysique ne dicte pas sa vérité, mais il oppose des résistances réelles — des butoirs (stoppers) — qui s'opposent mécaniquement ou biologiquement aux gestes et aux attentes du vivant. La transaction désigne cette circularité dynamique où l'organisme et le milieu se co-déterminent et se modifient mutuellement au présent d'usage.
+La révision ne consiste donc pas simplement à remplacer une règle par une autre. Elle peut demander de transformer les habitudes, les attentes et l’organisation de l’activité dans laquelle le problème apparaît.
 
-B. L'enquête comme dynamique transductive de réorganisation
+Il faut néanmoins éviter de considérer toute difficulté comme la cause automatique d’un changement. Une situation problématique peut être ignorée, mal interprétée ou traitée par le maintien des pratiques existantes. Les possibilités de révision dépendent notamment des ressources disponibles, des intérêts en présence et des conditions dans lesquelles le problème peut être examiné.
 
-Lorsque le couplage routinier de l'organisme avec le milieu se heurte à des butoirs ou à des anomalies insurmontables, la transaction est bloquée. La situation perd son évidence, sature ses critères et devient indéterminée. C'est ce trouble adaptatif qui enclenche l'enquête. 
-L'enquête est le processus par lequel le collectif suspend ses routines de premier ordre pour :
+### Ce que Protokin peut en retenir
 
-1. Déterminer le problème : transformer un trouble diffus en une contradiction localisée et intelligible.
-2. Reconstruire les médiations : examiner les supports, les instruments et les traces impliqués.
-3. Formuler des solutions conceptuelles : tester de nouvelles configurations descriptives pour restaurer l'équilibre dynamique du couplage.
+Les descriptions et les catégories mobilisées dans une pratique peuvent être soutenues par des habitudes qui ne sont pas toutes explicites. L’absence d’une règle formulée ne signifie donc pas que les conduites soient dépourvues d’organisation.
 
-La rationalité n'est pas une conformité contemplative à un ordre éternel, mais la performance active de réorganisation par laquelle le collectif redonne de la viabilité à son action.
+Inversement, la stabilité d’une habitude ou d’une catégorie ne suffit pas à établir son adéquation. Il faut examiner ce qu’elle permet de faire, les conditions dans lesquelles elle fonctionne et les difficultés qu’elle laisse subsister.
 
-C. Le caractère instrumental et ouvert de la connaissance (KIN)
+Une régularité pratique peut contribuer à expliquer la persistance d’une description sans constituer une justification suffisante de cette description.
 
-Pour Dewey, les concepts et les catégories ne sont pas des représentations statiques, mais des instruments de second ordre forgés par les pratiques collectives pour coordonner la redevabilité. Dans l'espace des raisons (KIN), nos descriptions sont de nature ouverte (open-textured) : elles héritent d'une sédimentation historique d'usages réussis, mais elles restent ouvertes à la révision et à l'ajustement face aux contraintes du terrain. L'instrumentalisme de Dewey justifie ainsi le statut non-ontologique de Protokin : la valeur d'une catégorie ne réside pas dans son essence prétendue, mais dans sa puissance d'organisation et d'intervention pratique au chevet de l'enquête.
+## 5. Instrumentalisme et portée des résultats
 
----
+Dewey accorde aux idées et aux concepts une fonction dans l’enquête. Ils ne sont pas seulement des représentations contemplées indépendamment de leurs usages : ils peuvent servir à formuler un problème, à organiser un examen, à anticiper des conséquences et à orienter l’action.
 
-Éclairage par les fils rouges pédagogiques
+Cette orientation est souvent désignée par le terme d’instrumentalisme. Elle ne doit pas être réduite à l’idée selon laquelle une affirmation serait vraie dès lors qu’elle est utile, confortable ou efficace pour atteindre un objectif immédiat.
 
-L'intégration de la perspective de Dewey structure l'analyse de nos situations de référence :
+Une hypothèse peut aider à organiser une enquête sans être encore suffisamment établie. Une procédure peut produire un résultat utilisable tout en reposant sur des hypothèses contestables. Une solution peut également répondre à un problème local en en aggravant un autre.
 
-1. Le vélo rouge
+La fonction d’une idée dans une enquête et les raisons qui permettent de maintenir cette idée doivent donc être distinguées. Les conséquences anticipées ou observées peuvent contribuer à l’évaluation d’une hypothèse, mais leur portée dépend du problème, des conditions de l’examen et des autres éléments pertinents.
 
-L'énoncé « Le vélo est rouge » n'est pas le simple reflet passif d'une propriété chromatique de la nature. L'analyse inspirée de Dewey montre qu'il s'agit d'une performance sensorimotrice et transactionnelle située (plan PROTO). Le locuteur s'appuie sur ses schèmes d'attention et d'observation chromatique éduqués par l'usage collectif. La qualification ordinaire de la couleur rouge est un outil stabilisé et gratuit de coordination pratique, qui coexiste de façon compatible avec sa traduction en longueur d'onde physique (650 nm), démontrant que différentes configurations transactionnelles peuvent cohabiter sans réductionnisme.
+Pour Protokin, cet apport permet de comprendre les concepts comme des ressources dont les usages et les limites peuvent être examinés. Il ne dispense pas de distinguer la fonction d’une description, ses conséquences, sa cohérence et son adéquation à ce qu’elle prétend décrire.
 
-2. Le patient aux urgences hospitalières
+Une description peut remplir efficacement une fonction particulière sans être adéquate pour toutes les questions auxquelles on voudrait l’appliquer.
 
-Le triage d'urgence illustre l'enquête de Dewey face à une rupture de transaction. Le corps souffrant du patient (constantes physiologiques, plan PROTO) introduit un trouble adaptatif aigu. L'infirmière de triage suspend ses routines pour conduire une enquête : elle utilise des supports externes (ECG, scopes) pour convertir le trouble muet en une catégorie déterminée de priorité clinique (choc septique, urgence vitale, plan KIN). La friction survient lorsque le régime de soin clinique est étouffé clandestinement par le régime logistico-comptable de l'administration, qui tente de figer la situation au moyen de critères budgétaires, commettant ainsi une pathologie de blocage d'enquête.
+## 6. Ce que Protokin retient de Dewey — et ce qu’il n’en déduit pas
 
-3. Le botaniste et le bûcheron face à l'arbre
+Trois apports sont particulièrement utiles.
 
-Leurs distinctions hétérogènes sur l'arbre ne sont pas des descriptions contemplatives en conflit pour capter l'essence de l'objet. Elles découlent de deux modes de transaction différents avec le milieu forestier. En cas de crise globale (le dépérissement de la forêt sous l'impact climatique, PROTO), leurs routines respectives saturent. Protokin utilise alors l'enquête pour suspendre leurs critères et les contraindre à formuler un connecteur de traduction (sylviculture écologique), hybridant leurs savoirs sans écraser leurs juridictions respectives.
+**1. L’enquête part d’une situation problématique.** Elle n’applique pas nécessairement un cadre entièrement déterminé à une situation dont les limites seraient déjà établies. La formulation du problème peut elle-même être reprise.
 
-4. La déconstruction de « Cette personne est mauvaise »
+**2. L’enquête engage des pratiques situées.** Les habitudes, les instruments, les conditions matérielles et l’environnement contribuent à organiser les possibilités d’examen et d’action. Ces conditions doivent être considérées sans être confondues avec la justification des conclusions.
 
-L'assertion « Cette personne est mauvaise » est un blâme moral qui fige et substantive une suite de comportements contingents locaux en une essence biologique immuable. Pour Dewey, le caractère n'est pas une substance fixe mais une transaction continue d'habitudes et de situations. L'audit de second ordre déconstruit ce verrouillage déontique. Il montre que l'erreur de catégorie consiste à traiter un statut d'imputation morale relative (KIN) comme s'il s'agissait d'une propriété naturelle biologique fixe (PROTO), fermant asymétriquement l'espace de l'enquête. L'audit rétablit la kinesis en restituant à l'agent sa plasticité comportementale et ses possibilités de réorganisation future.
+**3. Les résultats restent susceptibles de révision.** La détermination d’une situation permet de poursuivre l’action ou le jugement, mais elle ne garantit ni une clôture définitive ni l’absence de difficultés ultérieures.
 
----
+Ces apports ne signifient pas que Protokin applique simplement Dewey. Le projet développe ses propres distinctions, notamment entre Condition, Relation, Fonction et Justification, ainsi que ses propres opérations d’enquête. Leur pertinence doit être évaluée au regard des problèmes qu’elles permettent de traiter.
 
-Limites internes et vigilances d'audit (Pitfalls)
+La [quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) constitue à cet égard un cadre propre à Protokin. Elle distingue des questions adressées à une même configuration ; elle ne doit pas être présentée comme une division du réel en composantes ni comme une conséquence directe de la philosophie de Dewey.
 
-L'appropriation de l'héritage de Dewey exige de l'auditeur trois vigilances rigoureuses :
+L’héritage de Dewey ne permet pas non plus de conclure :
 
-· Le piège de la psychologisation de l'enquête (Le biais mentaliste) : Réduire l'enquête de Dewey à un processus mental ou psychologique subjectif se déroulant dans la tête de l'agent. Protokin réaffirme que l'enquête est une transaction publique, matérielle et discursive, matérialisée par des supports externes et disciplinée par les rituels de scorekeeping d'une communauté de locuteurs.
-· L'amnésie des causes et de l'entropie (Le biais de l'idéalisme sémantique) : S'imaginer que l'on peut réorganiser librement le langage de l'enquête sans se soucier de la résistance physique réelle des butoirs du milieu. Le pragmatisme de Dewey n'est pas un constructivisme arbitraire ; il rappelle que l'enquête s'adosse à un vivant vulnérable qui doit staving off death (lutter contre la mort) face aux contraintes réelles de son milieu.
-· L'illusion utilitariste brute (Le biais du premier ordre) : Confondre l'utilité pragmatique directe des actions de premier ordre avec la cohérence de second ordre d'une configuration descriptive. Un énoncé faux ou un régime réductionniste peut s'avérer localement "utile" ou confortable, mais l'audit de second ordre doit évaluer sa puissance descriptive à l'aune de la clarté de ses engagements et de son absence d'injustice testimoniale ou herméneutique.
+- que toute difficulté déclenche nécessairement une enquête ;
+- que toute enquête transforme effectivement les habitudes ;
+- que toute solution pratique est suffisamment justifiée ;
+- que les descriptions sont déterminées par leurs seules conditions matérielles ;
+- que les catégories utiles sont, de ce fait, adéquates ;
+- que les distinctions propres à Protokin se déduisent intégralement de son œuvre.
 
----
+## Synthèse
 
-Synthèse finale
+John Dewey permet de comprendre l’enquête comme une activité située qui transforme une situation devenue problématique. Sa conception transactionnelle invite à examiner les rapports entre organisme et environnement ; son analyse des habitudes montre comment les pratiques s’organisent sans dépendre entièrement de règles explicites ; son instrumentalisme souligne le rôle des idées dans l’examen et la transformation des situations.
 
-Ce que cette page établit
+Pour Protokin, cet héritage justifie l’attention portée aux difficultés concrètes, à la révision des descriptions et aux conditions dans lesquelles les pratiques peuvent être réorganisées.
 
-L'intégration de John Dewey comme ressource de second ordre de la métathéorie, formalisant l'enquête transactionnelle, le dépassement de l'esprit-spectateur, la continuité entre la normativité vitale (PROTO) et l'espace des raisons (KIN), et la rationalité comme performance située de réorganisation.
+Il ne suffit cependant pas à établir l’adéquation d’une description ni à justifier une conclusion particulière. L’explication d’une pratique, la fonction d’une description et les raisons de la maintenir restent des questions distinctes.
 
-Ce qu'elle suppose
+Dewey constitue ainsi une ressource pour penser la dynamique de l’enquête, non un fondement qui dispenserait Protokin d’examiner et de justifier ses propres distinctions.
 
-Le principe du couplage organisme-environnement, la configuration rencontrée, et la démarcation Causes/Raisons.
+Pour poursuivre :
 
-Ce qu'elle rend possible
-
-L'explicitation des concepts de premier ordre d'enquête et d'audit au sein de la section 08 (enquete.md, realiser-un-audit.md), et le déploiement de la dynamique des transformations de la section 05 (maintien, transformation, réorganisation).
-
----
-
-Protokin 2026 — version 26.08.081
+- [Introduction générale](fr/introduction-generale.md) — Situer le problème descriptif auquel répond Protokin.
+- [Architecture du projet](fr/architecture-projet.md) — Comprendre la fonction des ressources du corpus et leurs relations.
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Examiner les opérations mobilisables pour traiter une difficulté descriptive.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations selon lesquelles une même configuration peut être examinée.
+- [Description](fr/description.md) — Distinguer la pratique descriptive, son contenu et la situation décrite.
+- [Table des matières](fr/tdm.md) — Retrouver les autres ressources de Protokin.
