@@ -65,7 +65,7 @@ La chaîne organise des déplacements possibles dans l’enquête. Elle n’éta
 Ces fonctions permettent d’examiner l’enquête elle-même, ses conditions d’exercice, ses résultats et les limites des distinctions mobilisées. Elles ne constituent pas des étapes supplémentaires mais des angles d’examen complémentaires.
 
 - [Temps physique](fr/temps.md) — Examiner comment les relations temporelles sont établies et mesurées dans l’étude des processus physiques, en les distinguant de la temporalité propre aux pratiques descriptives.
-- [Temporalité descriptive](fr/temporalite-descriptive.md) — Examiner les trajectoires, les durées, les rythmes et les transformations des descriptions.
+- [Temporalité descriptive](fr/temporalite-descriptive.md) — Examiner comment les pratiques descriptives héritent de ressources antérieures, les mobilisent et les transforment au cours du temps.
 - [Trajectoire](fr/trajectoire.md) — Reconstruire le parcours des transformations descriptives.
 - [Allure](fr/allure.md) — Qualifier la distribution temporelle des transformations d’une trajectoire.
 - [Sédimentation](fr/sedimentation.md) — Examiner comment des traces issues de pratiques descriptives sont conservées, accumulées et transmises, parfois au-delà du contexte dans lequel elles ont été produites.
