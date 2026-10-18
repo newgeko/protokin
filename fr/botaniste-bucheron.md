@@ -131,16 +131,16 @@ La fonction du cas est plus limitée : montrer comment comparer plusieurs descri
 
 ## 9. Articulation avec les autres pages
 
-- [Introduction générale](introduction-generale.md) — Situer le problème général des difficultés rencontrées par les pratiques descriptives.
-- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md) — Distinguer les orientations Condition, Relation, Fonction et Justification sans les traiter comme des composantes du réel.
-- [Description](description.md) — Distinguer la pratique de description, son contenu et la situation décrite.
-- [Régime descriptif](regime-descriptif.md) — Examiner les règles, les distinctions, les opérations et les critères qui organisent une pratique descriptive.
-- [Image manifeste](image-manifeste.md) — Examiner le statut et les usages de l’image manifeste.
-- [Image scientifique](image-scientifique.md) — Examiner les caractéristiques et les conditions de l’image scientifique.
-- [Écologie des régimes descriptifs](ecologie-des-regimes-descriptifs.md) — Examiner les relations entre plusieurs pratiques descriptives.
-- [Traduction](traduction.md) — Examiner les transformations et les pertes possibles lorsqu’une description est reprise dans une autre pratique.
-- [Injustice épistémique](injustice-epistemique.md) — Examiner les asymétries qui affectent la participation aux pratiques de connaissance.
-- [Injustice herméneutique](injustice-hermeneutique.md) — Examiner les situations dans lesquelles des ressources interprétatives insuffisantes ou inégalement accessibles empêchent certaines expériences de devenir intelligibles.
+- [Introduction générale](fr/introduction-generale.md) — Situer le problème général des difficultés rencontrées par les pratiques descriptives.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations Condition, Relation, Fonction et Justification sans les traiter comme des composantes du réel.
+- [Description](fr/description.md) — Distinguer la pratique de description, son contenu et la situation décrite.
+- [Régime descriptif](fr/regime-descriptif.md) — Examiner les règles, les distinctions, les opérations et les critères qui organisent une pratique descriptive.
+- [Image manifeste](fr/image-manifeste.md) — Examiner le statut et les usages de l’image manifeste.
+- [Image scientifique](fr/image-scientifique.md) — Examiner les caractéristiques et les conditions de l’image scientifique.
+- [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md) — Examiner les relations entre plusieurs pratiques descriptives.
+- [Traduction](fr/traduction.md) — Examiner les transformations et les pertes possibles lorsqu’une description est reprise dans une autre pratique.
+- [Injustice épistémique](fr/injustice-epistemique.md) — Examiner les asymétries qui affectent la participation aux pratiques de connaissance.
+- [Injustice herméneutique](fr/injustice-hermeneutique.md) — Examiner les situations dans lesquelles des ressources interprétatives insuffisantes ou inégalement accessibles empêchent certaines expériences de devenir intelligibles.
 
 ## Synthèse
 
