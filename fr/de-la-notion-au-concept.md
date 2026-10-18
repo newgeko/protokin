@@ -1,85 +1,192 @@
-# Page : de-la-notion-au-concept.md
+# De la notion au concept — Clarifier une détermination descriptive
 
-Analyse architecturale préalable
-1. Fonction unique de la page
-Cette page existe pour formaliser la distinction entre la notion (saisie intuitive, plastique et sous-déterminée inférentiellement) et le concept (catégorie explicitée, délimitée par des critères et insérée dans l'espace des raisons), en établissant que l'enquête constitue la dynamique transductive par laquelle une communauté fait passer la première au second face à une indétermination pratique.
-2. Problème conceptuel
-Comment expliquer la rigueur et la précision de nos catégories descriptives sans présupposer qu'elles préexistent à l'expérience (fixisme platonicien ou intellectualisme) ni qu'elles sont déjà gravées dans le monde brut (réalisme naïf), tout en montrant que la précision conceptuelle est un produit historique et normatif de l'enquête ?
-3. Statut conceptuel
-Concept interne de second ordre appartenant à la Section 03 — Fondements descriptifs (Mode B : Conceptualisation et définition fonctionnelle).
-4. Dépendances fonctionnelles
- * Cette page suppose : configuration-rencontree.md, couplage-perception-action.md, primat-enquete.md et espace-des-causes-et-des-raisons.md.
- * Cette page prépare : categories.md, criteres.md, taxonomies.md et objet-descriptif.md.
- * Cette page ne remplace pas : categories.md (qui définit la structure et le fonctionnement du répertoire catégoriel), ni enquete.md (Section 08, qui explicite la méthodologie pratique de l'audit de terrain).
-5. Frontières conceptuelles
-La trajectoire Notion \rightarrow Concept ne doit pas être confondue avec :
- * Une psychologie cognitive de l'apprentissage : Elle ne décrit pas la maturation cérébrale d'un individu, mais les conditions de justification d'une pratique collective.
- * Un progrès téléologique vers la vérité absolue : Le concept n'est pas « plus vrai » que la notion ; il est plus explicite, plus contraint inférentiellement et mieux armé pour la coordination et la justification publique.
-De la notion au concept — La genèse de la détermination catégorielle
-de-la-notion-au-concept.md
-| Cartouche fonctionnel |  |
-|---|---|
-| Fonction | Établir la distinction entre la notion (saisie intuitive et sous-déterminée) et le concept (catégorie explicitée et insérée dans un réseau d'inférences), en montrant que l'enquête est le processus qui transforme la première en le second. |
-| Prépare | L'analyse des catégories (categories.md), des critères (criteres.md), des taxonomies (taxonomies.md) et des objets descriptifs (objet-descriptif.md). |
-| Mobilise | Le couplage perception-action, la configuration rencontrée, le primat de l'enquête et la distinction entre l'espace des causes et l'espace des raisons. |
-| Permet ensuite | L'étude des réorganisations catégorielles (reorganisation.md), du diagnostic des réductions et du glissement sémantique inter-régimes. |
-| N'établit pas | Une théorie psychologique du développement cognitif, une histoire des idées, ni un platonisme des essences abstraites. |
-1. Fonction dans l'architecture de Protokin
-Au sein de la Section 03 — Fondements descriptifs, cette page occupe une position charnière entre l'ancrage sensorimoteur du sujet et la formalisation des catégories dans un régime descriptif :
-Elle montre que nos capacités de description ne démarrent pas par des concepts purs et parfaits, mais par des notions plastiques. C'est lorsque ces notions rencontrent une indétermination dans l'action que l'enquête s'active pour extraire des critères rigoureux et cristalliser des concepts.
-2. Le problème conceptuel : L'illusion des concepts « déjà-là »
-Les théories classiques de la connaissance tombent fréquemment dans deux pièges symétriques :
- * Le platonisme / intellectualisme : Traiter les concepts comme des formes abstraites éternelles que l'esprit n'aurait qu'à contempler ou appliquer.
- * Le réalisme naïf : Imprimer les concepts directement depuis la matière, comme si le monde brut contenait déjà ses propres découpages taxonomiques.
-Protokin refuse ces deux approches non-historiques. Si les concepts étaient déjà là, nous ne pourrions expliquer ni l'usure des cadres de dicibilité, ni les crises descriptives, ni le besoin d'innover. Protokin affirme que la précision catégorielle n'est pas un donné, mais un résultat d'ajustement.
-3. Définitions fonctionnelles
-A. La Notion : La saisie immersive et sous-déterminée
-Dans l'architecture de Protokin, la notion désigne :
-> Une orientation descriptive initiale, plastique et holistique, directement issue du couplage perception-action, permettant à un vivant ou à un collectif de se repérer dans un milieu sans que les critères d'application ni les obligations inférentielles de cette saisie ne soient encore explicités.
-> 
- * Ancrage : Proche de l'espace des causes (plan PROTO), la notion fonctionne par synthèse pratique immédiate.
- * Statut normatif : Elle est efficace pour l'action située, mais sous-déterminée pour la justification publique. Face à un désaccord ou un doute, la notion seule ne permet pas de trancher qui a raison.
-B. Le Concept : La catégorie explicitée et contrainte
-Le concept désigne :
-> Une catégorie descriptive stabilisée, dotée de critères de correction explicites, dont le rôle est défini par l'ensemble des inférences qu'elle autorise et des incompatibilités qu'elle maintient au sein d'un régime descriptif.
-> 
- * Ancrage : Pleinement inscrite dans l'espace des raisons (plan KIN), la catégorie conceptuelle est prise en charge par la comptabilité déontique (scorekeeping) de la communauté.
- * Statut normatif : Le concept est armé pour le jeu de donner et demander des raisons. Il autorise l'imputation, la correction et la prédiction.
-4. La dynamique transductive : L'enquête comme passage
-Le passage de la notion au concept s'opère par l'opérateur d'enquête (héritage pragmatiste de John Dewey) :
- [ Situation Routinière ] ──► [ Perturbation / Anomalie ] ──► [ Phase d'Enquête ] ──► [ Cristallisation Conceptuelle ]
-  Usage de notions plastiques   La notion sature et échoue   Explicitation des critères    Fixation de la catégorie 
-  sans justification requise    à guider la coordination     et des incompatibilités      dans le réseau des raisons
+## 1. Fonction
 
- * La saturation de la notion : Tant que la pratique est fluide, la notion suffit. Dès qu'une anomalie apparaît (un cas ambigu, un conflit d'action, une panne de matériel), la notion s plasticité devient une faiblesse : elle engorge la coordination.
- * Le travail d'enquête : Le collectif suspend l'action immédiate. Il isole des traces sémiotiques, teste des critères de comparaison et explicite ce que la notion contenait de manière implicite.
- * La cristallisation conceptuelle : En fixant les règles d'inclusion et d'exclusion, l'enquête transforme la notion fluide en un concept délimité. Ce concept est alors consigné sur des supports (textes, protocoles, instruments) et intégré dans une taxonomie.
-5. Tableau d'analyse comparative
-| Dimension d'analyse | La Notion | L'Enquête (Moteur) | Le Concept |
-|---|---|---|---|
-| Régime d'appartenance | Proximal du plan PROTO (couplage). | Transition transductive. | Pleinement inscrit dans KIN (raisons). |
-| Degré de détermination | Sous-déterminé, holistique, plastique. | Processus de clarification. | Déterminé par des critères et incompatibilités. |
-| Mode d'efficience | Orientation pratique et ajustement local. | Transformation de la situation. | Justification, prédiction et imputation normative. |
-| Comportement au doute | Sature et génère des équivoques. | Suspends l'évidence et analyse. | Offre des règles explicites de résolution. |
-6. Éclairage par les fils rouges pédagogiques
-A. Le fil rouge des urgences hospitalières
- * La Notion : Le patient se présente en disant : « Je ne me sens pas bien, j'ai une oppression bizarre ». L'infirmière d'accueil perçoit une notion globale de « malaise inquiétant ». Cette notion oriente l'attention immédiate mais ne suffit pas à fixer l'orientation clinique d'urgence.
- * L'Enquête : L'équipe active l'enquête clinique : pose du scope ECG, prise de constantes, dosage des troponines.
- * Le Concept : L'enquête transforme la notion de « malaise » en un concept nosologique rigoureux : « Syndrome coronarien aigu avec sus-décalage du segment ST ». Ce concept déclenche immédiatement des obligations inférentielles irréversibles (envoi direct en salle de cathétérisme).
-B. Le fil rouge de la forêt (Le botaniste et le bûcheron)
- * La Notion : Le bûcheron et le promenant partagent la notion ordinaire d'« arbre » (un végétal haut avec un tronc et des feuilles).
- * Les Concepts séparés : Face aux exigences de leurs régimes respectifs, l'enquête transforme cette notion commune en deux concepts distincts :
-   * Pour le bûcheron : Le concept de « gisement de bois d'œuvre » (délimité par des critères de fûts exploitables, de cubage et de droit de coupe).
-   * Pour le botaniste : Le concept phylogénétique d'« organisme autotrophe de la famille des Fagacées » (délimité par des critères de structure cellulaire et de taxonomie).
-7. Limites et vigilances d'audit
-L'analyste de second ordre doit éviter deux dérives lors de l'examen de cette trajectoire :
- * Le dogmatisme intellectualiste (L'amnésie des notions) : Vouloir éliminer toutes les notions au profit de concepts totalement formalisés. Une communauté qui refuse les notions plastiques se paralyse : elle perd sa capacité d'exploration et d'accueil des phénomènes émergents qui n'entrent pas encore dans ses cases.
- * Le romantisme de l'indéterminé (Le refus du concept) : Fétichiser la notion contre le concept sous prétexte que la notion serait « plus authentique » ou « plus proche du réel ». Refuser la conceptualisation, c'est refuser de rendre ses descriptions justifiables et contestables devant la communauté de locuteurs.
-8. Synthèse et articulations dans l'architecture
-Ce que cette page établit
-La trajectoire par laquelle une saisie intuitive et plastique (notion) est transformée, sous la pression d'une anomalie et par le travail de l'enquête, en une catégorie délimitée et comptable (concept).
-Ce qu'elle suppose
-Le couplage perception-action (couplage-perception-action.md), la configuration rencontrée (configuration-rencontree.md) et le primat de l'enquête (primat-enquete.md).
-Ce qu'elle rend possible
-La définition de la structure des catégories (categories.md), l'analyse des critères de justification (criteres.md), la constitution des taxonomies (taxonomies.md) et l'étude des réorganisations internes d'un régime (reorganisation.md).
-Protokin 2026 — version 26.08.081
+Cette page examine la différence entre une notion encore insuffisamment déterminée pour un problème donné et un concept dont les distinctions, les conditions d’application ou les conséquences sont davantage explicitées.
+
+Elle permet de comprendre pourquoi une pratique peut fonctionner avec des notions relativement souples, puis rencontrer une difficulté qui exige de préciser ce qu’elle désigne, les différences qu’elle retient ou les conclusions qu’elle autorise.
+
+La distinction ne décrit pas deux étapes nécessaires de toute connaissance. Elle sert à examiner un problème de clarification lorsque les ressources conceptuelles disponibles ne suffisent plus à traiter une situation de manière satisfaisante.
+
+## 2. Problème : quand une notion ne suffit plus
+
+Dans une pratique, certains termes et certaines notions permettent de s’orienter sans que leurs conditions d’application soient entièrement explicitées.
+
+Cette souplesse n’est pas nécessairement un défaut. Elle peut suffire tant que les cas rencontrés ne soulèvent pas de difficulté particulière. Mais une ambiguïté, un désaccord ou une situation nouvelle peut révéler que plusieurs personnes n’emploient pas la même notion de la même manière, ou qu’elles ne lui attribuent pas les mêmes conséquences.
+
+La difficulté peut alors porter sur plusieurs points :
+
+- ce que la notion permet de désigner ;
+- les différences qui la distinguent de notions voisines ;
+- les conditions dans lesquelles elle peut être appliquée ;
+- les conséquences que son emploi autorise ;
+- les critères permettant de contester ou de maintenir une attribution.
+
+Il ne suffit pas toujours de remplacer un terme par une définition plus longue. Il faut déterminer ce qui, dans son usage, demeure indécis et si cette indétermination affecte effectivement le problème examiné.
+
+La question directrice est donc la suivante :
+
+**Que faut-il préciser dans une notion pour que son emploi permette de traiter le problème sans introduire de distinctions ou de conclusions insuffisamment justifiées ?**
+
+## 3. Notion et concept : une distinction fonctionnelle
+
+Dans cette page, les termes *notion* et *concept* servent à distinguer deux degrés possibles de détermination dans une pratique descriptive. Ils ne désignent pas deux facultés mentales séparées ni deux stades universels du développement cognitif.
+
+### 3.1. La notion
+
+Une notion est une manière de saisir ou de caractériser quelque chose dans une pratique, sans que toutes les distinctions pertinentes, les conditions d’application ou les conséquences de son emploi soient nécessairement explicitées.
+
+Une notion peut être familière, pratique et suffisamment déterminée pour certains usages. Elle peut également rester équivoque lorsqu’il faut distinguer des cas proches, résoudre un désaccord ou justifier une attribution.
+
+Son caractère plus ou moins déterminé dépend du problème rencontré. Une notion peut être suffisamment précise dans une situation ordinaire et devenir insuffisante dans une situation exigeant des distinctions plus fines.
+
+Il ne faut donc pas assimiler la notion à une intuition purement subjective, à une saisie prélinguistique ou à une représentation dépourvue de toute organisation. Une notion peut être partagée, apprise, corrigée et mobilisée dans des pratiques réglées.
+
+### 3.2. Le concept
+
+Un concept permet de déterminer plus explicitement les différences pertinentes pour un usage, les conditions d’application d’un terme ou les conséquences associées à une attribution.
+
+Cette détermination peut reposer sur une définition, des critères, des distinctions avec des notions voisines ou des engagements inférentiels. Tous ces éléments ne doivent pas nécessairement être formalisés dans chaque pratique : ce qui doit être explicité dépend de la difficulté à traiter.
+
+Un concept n’est donc pas simplement un terme plus technique ou une définition plus longue. Il contribue à préciser ce qui est affirmé lorsqu’il est employé, les cas qu’il permet de distinguer et les conclusions que cet emploi autorise ou exclut.
+
+Cette explicitation ne garantit cependant ni la correction du concept ni l’adéquation de ses applications. Un concept peut être précis mais mal adapté au problème, reposer sur des critères contestables ou conduire à des conclusions insuffisamment soutenues.
+
+### 3.3. Une différence relative au problème
+
+La distinction entre notion et concept ne constitue pas une séparation absolue.
+
+Une notion peut être suffisamment déterminée pour une pratique et demander davantage de précision dans une autre. Un concept explicité peut lui-même être contesté, révisé ou rendu plus précis lorsqu’un cas nouveau révèle ses limites.
+
+L’enquête ne conduit donc pas nécessairement d’une notion vers un concept définitif. Elle peut préciser une notion, formaliser certaines de ses conditions d’emploi, distinguer plusieurs usages ou conclure qu’une conceptualisation supplémentaire n’est pas nécessaire.
+
+La distinction porte sur le travail de détermination requis par un problème, non sur une hiérarchie générale entre deux formes de pensée.
+
+## 4. Le rôle de l’enquête dans la clarification
+
+Une difficulté descriptive peut rendre nécessaire la clarification d’une notion lorsque les ressources disponibles ne permettent plus de déterminer ce qui est affirmé, quelles différences comptent ou quelles conclusions peuvent être soutenues.
+
+L’enquête peut alors examiner :
+
+- **La délimitation du problème :** quelle difficulté exige une clarification ?
+- **Les usages :** dans quelles situations la notion est-elle employée, et pour répondre à quelles questions ?
+- **Les distinctions :** quels cas ou quelles fonctions sont confondus ?
+- **Les critères :** qu’est-ce qui compte pour appliquer ou contester la qualification ?
+- **Les conséquences :** quelles conclusions l’emploi de la notion autorise-t-il, compte tenu des engagements et des règles pertinents ?
+- **La portée :** quelles conclusions restent indéterminées malgré la clarification obtenue ?
+
+Ces examens ne constituent pas une procédure obligatoire. Ils désignent des questions possibles dont la pertinence dépend de la difficulté rencontrée.
+
+La clarification peut conduire à expliciter une distinction déjà mobilisée dans la pratique, à modifier une définition, à distinguer plusieurs usages ou à abandonner une catégorie devenue inadéquate. Elle peut aussi montrer qu’une notion, bien que souple, suffit pour le problème traité.
+
+Il faut donc distinguer la nécessité de clarifier d’une préférence générale pour des concepts toujours plus précis. Toute distinction supplémentaire a un coût : elle peut compliquer l’usage, multiplier les critères ou créer de nouvelles difficultés. Sa pertinence doit être appréciée au regard du problème.
+
+L’[architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) présente les opérations par lesquelles Protokin examine et reprend de telles difficultés. La présente page ne les redéfinit pas : elle précise un problème particulier auquel l’enquête peut être confrontée.
+
+## 5. Exemple discriminant : identifier un arbre malade
+
+Dans une conversation ordinaire, une personne peut dire qu’un arbre est malade en s’appuyant sur son apparence générale : feuilles jaunies, branches mortes ou croissance inhabituelle.
+
+Cette notion peut suffire à signaler une inquiétude ou à orienter une observation. Elle ne permet pas nécessairement de déterminer la cause de l’état de l’arbre ni de justifier une intervention particulière.
+
+Si la décision dépend d’un diagnostic, il peut devenir nécessaire de préciser ce que signifie « malade » dans le contexte concerné, quels signes sont pertinents, quelles autres explications doivent être envisagées et quelles observations permettraient de départager les hypothèses.
+
+Le travail de clarification peut alors distinguer plusieurs questions : décrire les symptômes, caractériser l’état biologique, identifier une cause possible et déterminer si une intervention est justifiée.
+
+Ces questions sont liées, mais leurs réponses ne sont pas interchangeables. Une description précise des symptômes ne suffit pas nécessairement à établir un diagnostic. Un diagnostic ne détermine pas à lui seul la décision à prendre. La décision exige un examen complémentaire des risques, des objectifs et des critères pertinents.
+
+L’enquête peut donc rendre le concept de maladie plus explicite pour un usage déterminé, sans garantir que toutes les difficultés diagnostiques seront résolues.
+
+Cet exemple montre également qu’une notion ordinaire ne doit pas être systématiquement remplacée par un concept spécialisé. La précision supplémentaire devient pertinente lorsque le problème l’exige.
+
+## 6. Distinctions avec les notions voisines
+
+### 6.1. Notion, concept et catégorie
+
+Une catégorie permet de regrouper ou de distinguer des occurrences selon une différence pertinente dans une pratique déterminée.
+
+Un concept peut contribuer à expliciter ce qui distingue une catégorie, les conditions de son application ou les conséquences de son emploi. Mais concept et catégorie ne sont pas synonymes : le premier concerne ici la détermination conceptuelle, tandis que la seconde désigne une manière organisée de traiter des occurrences.
+
+La clarification d’un concept peut conduire à réviser une catégorie ou ses critères d’application. Elle ne détermine pas automatiquement quelle catégorie doit être retenue.
+
+Voir [Catégories](fr/categories.md).
+
+### 6.2. Concept et critère
+
+Un concept peut mobiliser des critères qui précisent les conditions d’une attribution. Le critère indique ce qui compte pour évaluer une description ou une conclusion dans une pratique donnée.
+
+Rendre un concept plus explicite peut donc conduire à préciser les critères pertinents. Mais expliciter un critère ne garantit pas qu’il soit suffisant ou adapté au cas considéré.
+
+Il faut distinguer la détermination du concept, les exigences retenues pour son application et l’évaluation des éléments disponibles.
+
+Voir [Critère](fr/critere.md).
+
+### 6.3. Concept et taxonomie
+
+Une taxonomie descriptive organise des catégories et les relations établies entre elles. La clarification d’un concept peut contribuer à cette organisation en précisant les différences entre catégories, leurs rapports d’inclusion ou les incompatibilités pertinentes.
+
+Cependant, clarifier un concept ne revient pas à organiser une taxonomie complète. La relation entre plusieurs catégories exige un examen spécifique.
+
+Voir [Taxonomie descriptive](fr/taxonomies.md).
+
+### 6.4. Concept et objet descriptif
+
+Un objet descriptif est une différence stabilisée comme identifiable et réutilisable dans une pratique descriptive.
+
+La clarification d’un concept peut contribuer à préciser comment un objet descriptif est identifié ou caractérisé. Elle ne suffit pas à établir que cette identification est adéquate, ni que la différence retenue doit être maintenue dans tous les contextes.
+
+La détermination conceptuelle et la stabilisation d’un objet descriptif peuvent dépendre l’une de l’autre sans se confondre.
+
+Voir [Objet descriptif](fr/objet-descriptif.md).
+
+### 6.5. Clarification et justification
+
+Clarifier un concept consiste à préciser son emploi, ses distinctions ou ses conséquences. Justifier une attribution ou une conclusion consiste à examiner les raisons et les critères qui permettent de la défendre.
+
+La clarification peut faciliter la justification en rendant plus explicite ce qui est affirmé et ce qui doit être établi. Elle ne fournit pas automatiquement les éléments nécessaires pour soutenir cette affirmation.
+
+Un concept clairement défini peut être mal appliqué. Une attribution peut également rester contestable même lorsque les termes employés sont parfaitement compris.
+
+La clarification et la justification sont donc liées, mais non convertibles l’une dans l’autre.
+
+Voir [Justifier](fr/justifier.md).
+
+## 7. Limites et non-conversions
+
+La distinction entre notion et concept permet d’examiner le degré de détermination requis dans une pratique. Elle n’établit pas :
+
+- que toute notion doit être transformée en concept ;
+- que les notions sont nécessairement intuitives, holistiques ou dépourvues de règles ;
+- que les concepts sont toujours explicites, formalisés ou partagés par tous les participants ;
+- que le concept est plus vrai ou plus proche du réel que la notion ;
+- que l’explicitation des critères garantit la correction de leur application ;
+- que la clarification suffit à justifier une conclusion ;
+- que toute enquête conduit à une définition stable ou à un accord collectif ;
+- que les catégories forment une taxonomie exhaustive ou une hiérarchie naturelle.
+
+La distinction n’oppose pas non plus une pratique située à un espace de raisons qui lui serait extérieur. Les usages, les apprentissages et les critères peuvent être liés sans remplir la même fonction. Leur articulation doit être examinée plutôt que présupposée.
+
+Une notion peut orienter efficacement une action sans que toutes ses conditions d’application soient explicitées. Inversement, une définition formelle peut rester inadéquate si les critères qu’elle mobilise ne répondent pas au problème.
+
+La clarification conceptuelle constitue donc un moyen de rendre certaines différences plus déterminées et plus discutables. Sa nécessité, son degré et ses résultats doivent être évalués dans chaque enquête.
+
+## Synthèse
+
+La distinction entre notion et concept permet d’examiner les situations dans lesquelles une manière de caractériser quelque chose ne suffit plus à traiter un problème descriptif.
+
+Une notion peut être suffisamment déterminée pour certains usages tout en restant équivoque dans d’autres. Un concept permet de préciser certaines distinctions, conditions d’application ou conséquences, sans garantir pour autant la correction de ses usages.
+
+Dans Protokin, le passage de la notion au concept n’est ni une succession nécessaire ni un progrès universel vers une forme supérieure de connaissance. Il désigne une possibilité de clarification mobilisée lorsque le problème l’exige.
+
+Clarifier une notion ne suffit pas à valider une catégorie, à justifier une attribution ou à établir l’adéquation d’une description. Ces questions restent distinctes et doivent être examinées selon les exigences propres au problème.
+
+Pour poursuivre :
+
+- [Catégories](fr/categories.md) — Examiner comment des occurrences sont regroupées ou distinguées.
+- [Critère](fr/critere.md) — Préciser les exigences au regard desquelles une attribution ou une conclusion est évaluée.
+- [Taxonomie descriptive](fr/taxonomies.md) — Examiner les relations établies entre catégories.
+- [Objet descriptif](fr/objet-descriptif.md) — Comprendre comment une différence est stabilisée comme identifiable et réutilisable.
+- [Distinguer](fr/distinguer.md) — Examiner les différences nécessaires au traitement d’un problème.
+- [Justifier](fr/justifier.md) — Examiner les raisons et les critères qui soutiennent une conclusion.
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations mobilisables pour traiter une difficulté descriptive.
+- [Table des matières](fr/tdm.md) — Retrouver les autres ressources du corpus.
