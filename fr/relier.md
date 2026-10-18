@@ -1,138 +1,166 @@
-# Relier — Établir les dépendances pertinentes
+# Redevabilité matérielle et friction de niche
 
-## 1. Fonction
+## Fonction
 
-Relier consiste à examiner les dépendances entre des éléments distingués dans une enquête, afin de déterminer comment ils interviennent ensemble dans le problème étudié.
+Cette page examine comment les conséquences pratiques d’une description peuvent mettre à l’épreuve les engagements associés à son usage, sans que la résistance matérielle fournisse directement une justification.
 
-Une distinction permet de maintenir séparés des éléments qui ne remplissent pas la même fonction. Elle ne suffit cependant pas à établir leurs rapports. Relier vise à préciser ces rapports, les conditions dans lesquelles ils sont pertinents et les conclusions qu’ils autorisent.
+La **redevabilité matérielle** désigne l’exigence de prendre en compte les conséquences matérielles pertinentes des descriptions et des décisions qui s’appuient sur elles. Elle concerne les conditions dans lesquelles une pratique descriptive doit répondre des écarts entre ce qu’elle affirme, ce qu’elle permet d’anticiper et ce qui se produit lorsqu’elle est mobilisée.
 
-**Relier, c’est établir les dépendances sans confondre les fonctions.**
+La **friction de niche** désigne une situation dans laquelle une pratique rencontre des contraintes ou des conséquences qui compromettent, limitent ou mettent en question sa manière de fonctionner dans un milieu matériel et environnemental déterminé.
 
-## 2. Problème
+Ces notions articulent des dimensions qui dépendent les unes des autres sans être interchangeables. Une résistance peut rendre une description problématique ; elle ne détermine pas à elle seule ce qu’il faut en conclure ni quelle révision est justifiée.
 
-Une enquête peut isoler artificiellement des éléments pourtant interdépendants. Elle risque alors de manquer les conditions qui rendent une pratique possible, les relations qui la contraignent ou les transformations qui modifient ses possibilités.
+## 1. Problème : comment une pratique descriptive répond-elle de ses conséquences matérielles ?
 
-L’erreur inverse consiste à traiter comme équivalents des éléments dont les fonctions diffèrent. Une dépendance matérielle peut ainsi être présentée comme une raison de décider, une relation observée comme une explication suffisante, ou une conséquence pratique comme une justification.
+Une pratique descriptive mobilise des affirmations, des catégories, des critères et des inférences pour identifier une situation, anticiper des conséquences ou orienter une action. Ces descriptions ne sont pas séparées des conditions dans lesquelles elles sont utilisées : elles peuvent contribuer à des décisions techniques, médicales, administratives ou environnementales qui produisent des effets matériels.
 
-Le problème est donc double : ne pas ignorer les dépendances pertinentes, mais ne pas leur attribuer une portée qu’elles n’ont pas encore été reconnues comme ayant.
+Une difficulté apparaît lorsque les résultats obtenus ne correspondent pas aux attentes associées à ces descriptions. Une prévision échoue, une procédure ne fonctionne pas comme prévu, une intervention détériore la situation qu’elle devait améliorer ou une activité compromet les conditions matérielles dont elle dépend.
 
-## 3. Définition opérationnelle
+Ces résultats peuvent mettre en question les descriptions et les engagements qui ont orienté l’action. Ils ne constituent toutefois pas, par eux-mêmes, une interprétation déjà formée de ce qui s’est passé.
 
-Relier consiste à identifier, caractériser et éprouver les relations pertinentes entre les éléments retenus pour traiter un problème.
+Il faut distinguer plusieurs questions :
 
-Une relation peut notamment être matérielle, causale, temporelle, sociale, institutionnelle, descriptive ou inférentielle. Ces types de relations ne sont pas interchangeables. Le terme « relation » ne suffit pas à préciser la nature du rapport considéré : celle-ci doit être établie dans l’enquête.
+- Quel événement ou quel échec a été observé ?
+- Quelles conditions matérielles ont contribué au résultat ?
+- Quelle affirmation, quelle prévision ou quelle procédure est mise en question ?
+- Quelles conclusions peut-on tirer de l’écart constaté ?
+- Quels critères permettent d’évaluer ces conclusions ?
+- Quelle révision est justifiée, et quelle incertitude demeure ?
 
-Pour chaque relation examinée, il convient de préciser :
+Le problème n’est donc ni de faire du milieu une source immédiate de normes, ni de considérer que la recevabilité d’une description dépend exclusivement de l’accord entre locuteurs. Il s’agit d’examiner comment les conséquences matérielles entrent dans une enquête et contribuent, sous certaines conditions, à la révision des prises de position.
 
-- **Les termes reliés** : quels éléments, événements, descriptions ou engagements sont concernés ?
-- **Le rapport affirmé** : s’agit-il d’une contrainte, d’une dépendance, d’une corrélation, d’une règle, d’une inférence ou d’un autre type de relation ?
-- **Les conditions de validité** : dans quelles circonstances ce rapport se manifeste-t-il ou reste-t-il pertinent ?
-- **Les médiations** : quelles observations, règles, opérations ou prémisses permettent de l’établir ?
-- **La portée** : quelles conséquences peut-on en tirer, et lesquelles restent à établir ?
+## 2. Redevabilité matérielle
 
-Cette grille sert à examiner une relation, non à imposer une procédure uniforme. Certaines questions peuvent rester ouvertes lorsque les éléments disponibles ne permettent pas de trancher.
+### 2.1. Définition
 
-## 4. Conditions d’activation
+La redevabilité matérielle désigne la possibilité et l’exigence, pour une pratique descriptive, de répondre des conséquences matérielles pertinentes de ses affirmations, de ses prévisions et des actions qu’elles contribuent à orienter.
 
-L’opération devient pertinente lorsque l’enquête doit examiner ce qui relie des éléments déjà identifiés ou distingués.
+Elle suppose que les conséquences d’une description puissent être examinées au regard des engagements pris et des critères pertinents pour la situation. Cette exigence n’implique pas que toute conséquence soit prévisible, qu’un locuteur maîtrise tous les effets de son affirmation ou qu’un échec suffise à établir une faute.
 
-C’est notamment le cas lorsque :
+La redevabilité matérielle porte sur la relation entre les engagements descriptifs et les conditions pratiques dans lesquelles ils sont mobilisés. Elle devient particulièrement importante lorsque les conséquences observées mettent en question les présupposés, les applications ou les limites d’une description.
 
-- des éléments sont traités séparément alors que leur interdépendance pourrait expliquer une difficulté ;
-- une description affirme un rapport sans en préciser la nature ;
-- une variation est interprétée comme la cause d’un changement sans examen supplémentaire ;
-- une conclusion repose sur un passage entre deux registres dont la médiation reste incertaine ;
-- une transformation de la pratique oblige à réexaminer des relations jusque-là tenues pour acquises.
+### 2.2. De la résistance à la révision
 
-Relier ne suppose donc pas que toutes les relations pertinentes soient connues dès le début. L’opération peut faire apparaître une dépendance nouvelle ou révéler qu’une relation précédemment admise était insuffisamment établie.
+Une résistance matérielle peut rendre une pratique problématique. Pour qu’elle contribue à la révision d’une description, il faut néanmoins que l’enquête établisse les relations pertinentes entre l’événement observé et les engagements qui sont mis en question.
 
-## 5. Questions d’examen
+On peut distinguer quatre moments d’analyse, sans en faire une procédure obligatoire :
 
-L’enquête peut poser les questions suivantes :
+1. **Constater une résistance ou un résultat inattendu.** Une opération échoue, une prévision n’est pas confirmée ou une intervention produit un effet non anticipé.
+2. **Préciser ce qui est mis à l’épreuve.** Il faut déterminer si la difficulté concerne une prémisse, une mesure, une condition d’application, une inférence, une procédure ou une attente associée à la description.
+3. **Examiner les explications et les conséquences possibles.** Plusieurs facteurs peuvent contribuer au résultat ; l’écart constaté ne désigne pas nécessairement une cause unique.
+4. **Évaluer une éventuelle révision.** Les éléments disponibles peuvent justifier de modifier une affirmation, de restreindre son domaine d’application, de réviser une procédure ou de maintenir provisoirement la description en identifiant ses limites.
 
-1. Quels éléments doivent être mis en relation pour traiter le problème ?
-2. Quelle nature de relation est affirmée ou recherchée ?
-3. Quels éléments permettent de soutenir cette relation ?
-4. Quelles conditions limitent sa portée ?
-5. Quelles médiations sont nécessaires pour passer de la relation observée à la conclusion proposée ?
-6. Quelles autres explications ou relations restent possibles ?
-7. Quels résultats conduiraient à réviser la relation retenue ?
+Ces moments sont des repères analytiques. L’enquête peut les combiner, les reprendre ou en laisser certains indéterminés.
 
-Ces questions visent à distinguer ce qui est observé, ce qui est proposé pour rendre compte de l’observation et ce qui peut effectivement en être conclu.
+La résistance matérielle ne devient donc pas automatiquement une raison. Elle peut devenir pertinente pour une justification lorsque l’événement est identifié, interprété et relié à des engagements au moyen d’une enquête.
 
-Une relation peut être suffisamment établie pour un problème local sans expliquer entièrement la situation. Sa portée doit rester proportionnée aux éléments qui la soutiennent.
+### 2.3. Ce que la redevabilité matérielle ne signifie pas
 
-## 6. Exemple : une machine qui s’arrête
+La redevabilité matérielle ne désigne pas une sanction exercée par le milieu sur les locuteurs. Le milieu ne formule pas de jugement, ne désigne pas une erreur et ne prescrit pas la révision à effectuer.
 
-Dans un atelier, une machine s’arrête régulièrement. Un capteur signale une température élevée et l’opérateur constate un ralentissement de la production.
+Elle ne signifie pas non plus que les conséquences pratiques suffisent à établir la validité d’une description. Une procédure peut réussir pour de mauvaises raisons, dans des conditions limitées ou sans permettre de généraliser son résultat. Inversement, un échec peut provenir d’une erreur d’exécution ou de conditions particulières sans réfuter toutes les affirmations mobilisées.
 
-Plusieurs relations doivent être examinées sans être confondues.
+La redevabilité matérielle exige donc que les conséquences pertinentes puissent être prises en compte dans l’examen des engagements descriptifs. Elle ne dispense ni de l’analyse des causes ni de la justification des conclusions.
 
-Le lien entre la température et l’arrêt peut relever d’un mécanisme matériel ou technique. Le rapport entre le signal du capteur et l’arrêt peut dépendre d’une règle de commande intégrée à la machine. Le lien entre ces observations et la décision de suspendre la production relève également de procédures et de critères de sécurité.
+## 3. Friction de niche
 
-La présence simultanée d’une température élevée et d’un arrêt ne suffit pas, à elle seule, à établir le mécanisme responsable de l’incident. De même, le fait qu’un arrêt soit techniquement déclenché ne suffit pas à justifier toute décision prise ensuite dans l’atelier.
+### 3.1. Définition
 
-L’enquête doit déterminer quelles relations sont établies, quelles règles interviennent et quels éléments supplémentaires permettraient de soutenir les conclusions envisagées.
+La friction de niche désigne une tension entre les activités d’une pratique et les conditions matérielles, corporelles ou environnementales dont son maintien dépend.
 
-Cet exemple montre que plusieurs relations peuvent participer à une même situation sans se réduire les unes aux autres.
+Le terme *niche* renvoie ici au milieu de contraintes, de ressources et de possibilités dans lequel une activité se déroule. Il ne désigne pas un espace fermé ni un environnement qui déterminerait unilatéralement les pratiques.
 
-## 7. Ce que relier permet d’établir
+Une friction apparaît lorsque les manières d’agir, les dispositifs employés ou les descriptions qui orientent une pratique rencontrent des contraintes qui limitent leur fonctionnement, dégradent certaines conditions de poursuite de l’activité ou rendent nécessaire un nouvel examen.
 
-L’opération permet de préciser :
+Cette friction peut être ponctuelle ou durable, localisée ou étendue. Sa portée dépend des relations établies entre l’activité, ses conséquences et les conditions du milieu. Elle ne doit pas être postulée à partir de la seule présence d’un obstacle.
 
-- les éléments entre lesquels une dépendance pertinente est établie ;
-- la nature du rapport examiné ;
-- les conditions et les médiations qui soutiennent ce rapport ;
-- les conséquences que l’on peut raisonnablement en tirer ;
-- les limites et les incertitudes qui restent à examiner.
+### 3.2. Friction locale et difficulté de maintien
 
-Elle peut ainsi révéler une dépendance jusque-là négligée, mettre au jour une relation insuffisamment étayée ou montrer qu’une conclusion exige une médiation supplémentaire.
+Un obstacle local ne constitue pas nécessairement une friction de niche au sens pertinent pour Protokin. Une difficulté peut être corrigée sans modifier durablement la pratique ni affecter les conditions de sa poursuite.
 
-## 8. Ce que relier n’établit pas
+La notion devient utile lorsque l’enquête examine une tension plus large entre le fonctionnement d’une activité et les conditions matérielles qui le rendent possible. Par exemple, un dispositif de production peut atteindre son objectif immédiat tout en détériorant progressivement une ressource dont son fonctionnement à long terme dépend.
 
-Relier ne permet pas, à lui seul, d’établir :
+Cette situation ne suffit pas encore à établir que l’activité est globalement inadéquate, qu’elle doit être abandonnée ou qu’une autre organisation serait préférable. Ces conclusions exigent de préciser les effets considérés, l’échelle temporelle retenue, les autres conditions pertinentes et les critères d’évaluation.
 
-- qu’une corrélation est une relation causale ;
-- qu’une dépendance est nécessaire ou suffisante ;
-- qu’une relation vaut dans tous les contextes ;
-- que les éléments reliés remplissent la même fonction ;
-- que la relation explique entièrement la situation ;
-- que les conclusions tirées de cette relation sont justifiées ;
-- que la description de la relation est adéquate à ce dont elle traite.
+La friction de niche désigne donc un problème à examiner, non une conclusion prédéterminée sur la valeur d’une pratique.
 
-Une relation peut contribuer à une explication, à une description ou à une justification. Mais cette contribution dépend de la question posée et des éléments qui autorisent le passage vers la conclusion recherchée.
+### 3.3. Rapport avec les descriptions
 
-La non-conversion ne signifie donc pas qu’aucun passage entre des dimensions distinctes ne soit possible. Elle signifie que ce passage ne doit pas être tenu pour acquis.
+Une friction de niche peut conduire à remettre en question les descriptions qui orientent une activité. Une catégorie peut masquer un effet pertinent, un indicateur peut ne pas rendre compte d’une dégradation, ou une prévision peut ignorer une dépendance matérielle.
 
-## 9. Articulation avec les autres opérations
+Mais la difficulté peut aussi provenir de facteurs qui ne relèvent pas directement de la description : une modification du milieu, une défaillance technique, une ressource devenue indisponible ou un changement des conditions d’utilisation.
 
-- **Délimiter** précise le problème pour lequel certaines relations deviennent pertinentes.
-- **Ancrer** identifie les appuis et les conditions qui permettent d’examiner les relations proposées.
-- **Distinguer** maintient séparés les éléments et les fonctions dont les rapports doivent être étudiés.
-- **Relier** établit les dépendances pertinentes entre ces éléments.
-- **Configurer** examine comment les éléments et leurs relations s’organisent dans l’analyse du problème.
-- **Justifier** examine les raisons et les critères permettant de défendre ou de contester les conclusions.
-- **Reconstituer** reprend les résultats et les transformations pertinentes de l’enquête.
-- **Redélimiter** révise le problème lorsque les relations établies révèlent que son périmètre initial était insuffisant ou inadéquat.
+L’enquête doit donc éviter de convertir toute friction matérielle en erreur descriptive. Elle cherche à déterminer si la difficulté porte sur la situation, sur sa description, sur les inférences qui en sont tirées, sur l’action engagée ou sur les relations entre ces éléments.
 
-Cet ordre présente les opérations de référence, non une succession obligatoire. Une relation nouvellement identifiée peut conduire à reprendre une distinction, un ancrage ou la délimitation du problème.
+## 4. Exemple : une activité qui dégrade les conditions de sa poursuite
 
-Relier prépare ainsi l’examen d’une configuration sans déterminer à l’avance la manière dont ses éléments doivent être organisés.
+Considérons une activité agricole dont les pratiques d’irrigation permettent d’obtenir des rendements satisfaisants à court terme, mais contribuent à l’épuisement progressif d’une ressource en eau.
+
+Plusieurs questions doivent être distinguées.
+
+**Le constat matériel.** Des mesures indiquent une baisse de la ressource disponible. La qualité de ces mesures, leur portée et leur relation avec les autres facteurs doivent être examinées.
+
+**La description de la situation.** Les catégories utilisées pour caractériser la disponibilité de l’eau, les besoins de l’activité et les effets de l’irrigation peuvent rendre certaines différences visibles et en laisser d’autres au second plan.
+
+**Les relations causales.** Il faut établir dans quelle mesure les pratiques d’irrigation contribuent à la baisse observée, en tenant compte des autres facteurs pertinents. La succession entre irrigation et baisse de la ressource ne suffit pas à démontrer à elle seule une relation causale.
+
+**Les engagements descriptifs.** Si l’activité repose sur l’affirmation que les prélèvements sont compatibles avec le maintien de la ressource, la baisse observée peut mettre cette affirmation à l’épreuve. Il faut préciser les conditions et l’échelle auxquelles cette compatibilité était affirmée.
+
+**La justification d’une révision.** Une modification des pratiques peut être proposée, mais elle suppose des critères permettant d’évaluer les options, les conséquences attendues et les contraintes auxquelles elles répondent. Le constat matériel ne détermine pas à lui seul la décision à prendre.
+
+La situation peut relever d’une friction de niche si l’enquête établit une tension entre les pratiques d’irrigation et les conditions de maintien de l’activité. Elle met en jeu la redevabilité matérielle lorsque les engagements descriptifs associés à ces pratiques doivent être réexaminés au regard des conséquences établies.
+
+L’exemple ne permet pas de conclure que toute baisse d’une ressource impose une solution déterminée. Il montre comment une difficulté matérielle peut rendre nécessaire l’examen conjoint des conditions, des relations, des fonctions et des justifications.
+
+## 5. Distinctions et non-conversions
+
+L’articulation entre redevabilité matérielle et friction de niche exige de maintenir plusieurs distinctions.
+
+- **Résistance matérielle ≠ raison.** Une résistance peut susciter une enquête ; elle ne formule pas elle-même une justification.
+- **Échec pratique ≠ réfutation complète.** La portée de l’échec dépend de ce qui était affirmé, des conditions d’application et des autres facteurs pertinents.
+- **Conséquence observée ≠ cause établie.** La relation causale entre une pratique et un résultat doit être examinée.
+- **Réussite pratique ≠ validité générale.** Un résultat satisfaisant dans certaines conditions ne garantit pas que la description soit adéquate dans d’autres cas.
+- **Friction de niche ≠ erreur descriptive.** La difficulté peut provenir de la pratique, du milieu, de la description ou de leurs relations.
+- **Redevabilité matérielle ≠ responsabilité morale ou juridique.** Déterminer qui doit répondre d’une conséquence, à quel titre et dans quelle mesure demande des critères supplémentaires.
+- **Révision descriptive ≠ prescription automatique.** La nécessité d’examiner une description ne détermine pas à elle seule la conduite à adopter.
+
+Ces distinctions ne séparent pas les dimensions concernées. Elles empêchent de traiter une conclusion établie sous un rapport comme si elle suffisait à répondre à toutes les autres questions.
+
+## 6. Portée et limites
+
+La redevabilité matérielle permet d’examiner comment les conséquences pratiques entrent dans l’évaluation des engagements descriptifs. La friction de niche permet de caractériser les situations où les conditions matérielles de maintien d’une activité deviennent elles-mêmes un problème pour l’enquête.
+
+Ces notions peuvent contribuer à l’examen d’une prévision défaillante, d’une procédure qui ne fonctionne plus dans les conditions prévues ou d’une activité dont les effets compromettent certaines de ses conditions de poursuite.
+
+Elles ne permettent pas, à elles seules :
+
+- d’identifier la cause d’un échec ;
+- de déterminer la description qui doit remplacer celle qui est contestée ;
+- de prouver qu’une pratique est globalement non viable ;
+- de décider quelles conséquences doivent être prioritaires ;
+- de déterminer automatiquement qui est responsable d’un dommage ;
+- de déduire une obligation normative d’un constat matériel ;
+- de garantir la validité d’une description parce qu’elle permet une action efficace.
+
+La portée de l’analyse dépend des observations, des comparaisons, des critères et des arguments effectivement disponibles. Lorsqu’ils sont insuffisants, l’enquête doit conserver l’incertitude plutôt que transformer une difficulté en conclusion générale.
 
 ## Synthèse
 
-Relier consiste à établir et à éprouver les dépendances pertinentes entre des éléments distingués dans une enquête.
+La redevabilité matérielle désigne l’exigence de prendre en compte les conséquences matérielles pertinentes des descriptions et des actions qu’elles contribuent à orienter. La friction de niche désigne une tension entre une pratique et les conditions matérielles ou environnementales dont sa poursuite dépend.
 
-L’opération évite aussi bien l’isolement artificiel des éléments que la conversion automatique d’une relation en explication ou en justification. Elle précise la nature des rapports examinés, leurs conditions, leurs médiations et la portée des conclusions qu’ils autorisent.
+Une résistance matérielle peut mettre des engagements descriptifs à l’épreuve, mais elle ne détermine ni la signification de l’événement ni la révision à retenir. Ces conclusions demandent une enquête qui distingue les constats, les relations causales, les engagements, les critères et les justifications.
 
-Une relation n’est pas simplement supposée parce que deux éléments sont associés. Elle doit être établie en fonction du problème et rester révisable lorsque de nouveaux éléments en modifient la portée.
+**Les pratiques descriptives ne sont ni indépendantes de leurs conditions matérielles ni justifiées par elles seules.**
 
-**Distinguer sans isoler. Relier sans convertir. Configurer sans confondre.**
+Pour approfondir :
 
-Pour poursuivre :
-
-- [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md)
-- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md)
-- [Distinguer](distinguer.md)
-- [Configurer](configurer.md)
-- [Justifier](justifier.md)
+- [Butoir](fr/butoir.md) — Examiner les résistances qui limitent une pratique ou une opération.
+- [Inférence matérielle](fr/inference-materielle.md) — Analyser les transitions entre contenus descriptifs.
+- [Espace des raisons](fr/espace-des-raisons.md) — Examiner les relations qui permettent de soutenir et de contester des prises de position.
+- [Norme descriptive](fr/norme-descriptive.md) — Définir les contraintes normatives des pratiques descriptives.
+- [Description et normativité](fr/description-et-normativite.md) — Distinguer les fonctions descriptives et normatives.
+- [Responsabilité descriptive](fr/responsabilite-descriptive.md) — Examiner la redevabilité publique associée aux engagements descriptifs.
+- [Validité](fr/validite.md) — Évaluer et réviser une description.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations de l’examen.
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations et fonctions transversales de l’enquête.
+- [Table des matières](fr/tdm.md) — Replacer la page dans l’organisation du corpus.
