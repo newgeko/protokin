@@ -1,192 +1,177 @@
-# Page : temporalite-descriptive.md
-
-### Étape préalable obligatoire : Analyse architecturale de la page
-
-#### 1. Fonction unique de la page
-Cette page existe pour établir la spécificité conceptuelle de la **temporalité descriptive** en tant que structure temporelle immanente, non linéaire et collective qui régit le devenir des descriptions. Elle démontre que la temporalité propre aux pratiques de description ne se réduit ni à un écoulement physique homogène (plan `PROTO`), ni à un flux psychologique privé, mais qu’elle s'organise autour d'un couplage dynamique entre mémoire, transmission, présent d'usage et ouverture modale.
-
-#### 2. Problème conceptuel
-Quel problème théorique rend cette page nécessaire ?
-> **Comment concevoir le temps dans lequel se déploient, se maintiennent et se réorganisent nos catégories descriptives sans en faire un cadre transcendant neutre (illusion physicaliste) ni le réduire à la conscience intime d'un sujet connaissant (illusion psychologiste) ?**
-
-#### 3. Objet propre
-*   **Cette page traite de** : la structure temporelle interne de l'activité discursive ; l'articulation entre le passé sédimenté, le présent d'usage et les futurs possibles (anticipation/transformation) ; la sédimentation à travers la dualité des mémoires (organique et collective).
-*   **Cette page ne traite pas de** : la cinétique de la transformation (allure), le parcours diachronique des étapes historiques (trajectoire), l'accumulation purement documentaire des traces matérielles (sédimentation), ni de l'histoire empirique ou chronologique des sciences.
-
-#### 4. Statut conceptuel
-Il s'agit d'un **concept propre à Protokin** qui couronne et unifie la section **06 — Temporalité**.
-
-#### 5. Dépendances fonctionnelles
-##### Cette page suppose :
-*   Le *principe d'immanence normative* ;
-*   La *stabilisation* et l'*effet cliquet* ;
-*   La distinction entre l'*espace des causes* (`PROTO`) et l'*espace des raisons* (`KIN`).
-##### Cette page rend possible :
-*   L'analyse méthodique des *trajectoires* et des *allures* ;
-*   L'étude des *transitions* et des *réorganisations* conceptuelles ;
-*   La conduite clinique de l'*audit temporel des régimes descriptifs*.
-
-#### 6. Frontières conceptuelles
-Cette page ne doit pas absorber la notion de *trajectoire* (qui décrit le tracé des étapes historiques) ni celle d'*allure* (qui qualifie le rythme et le profil cinétique), bien que ces briques opérationnelles s'adossent à elle pour acquérir leur légitimité diachronique.
-
----
-
-# Temporalité descriptive
+# Temporalité descriptive — Héritages, usages et transformations
 
 ## Fonction
-Dans l'architecture de Protokin, la **temporalité descriptive** désigne la structure temporelle immanente et propre à l'espace des raisons (`KIN`). Elle caractérise la manière dont les descriptions et les cadres d'intelligibilité n'existent pas simplement dans un présent instantané, mais se déploient historiquement à travers des processus de sédimentation, de reproduction, de transmission et d'ouverture modale. 
 
----
+La **temporalité descriptive** désigne la dimension temporelle des pratiques par lesquelles des descriptions sont produites, reprises, transmises, maintenues et révisées.
 
-## Problème conceptuel inaugural
-Les théories classiques de la connaissance appréhendent fréquemment le temps comme un réceptacle externe, homogène et neutre au sein duquel se succéderaient de façon chronologique des énoncés et des représentations. Face à l'histoire, la philosophie oscille alors entre deux écueils réductionnistes :
-1.  **L'illusion physicaliste / naturaliste** : elle réduit le devenir descriptif au temps biologique ou physique (plan `PROTO`), ne voyant dans l'évolution des concepts que le reflet causal de modifications somatiques ou environnementales.
-2.  **L'illusion psychologiste / mentaliste** : elle enferme le temps des descriptions dans la sphère privée d'une conscience intime (temps phénoménologique ou subjectif), interdisant de comprendre comment des normes de correction s'imposent publiquement et durablement à une communauté.
+Elle permet d’examiner comment une description actuelle dépend de pratiques antérieures, comment elle est mobilisée dans une situation présente et dans quelles conditions elle peut être transformée. Elle concerne aussi bien les continuités que les décalages entre les transformations d’une situation et celles des descriptions qui s’y rapportent.
 
-Dès lors, le problème conceptuel inaugural est le suivant :
-> **Comment caractériser la temporalité immanente des descriptions sans la réduire à l'écoulement causal de la nature physique ni au flux d'une subjectivité privée, afin d'en faire l'infrastructure normative d'une histoire collective d'enquêtes ?**
+La temporalité descriptive ne désigne ni une forme particulière du temps physique ni une chronologie générale des énoncés. Elle porte sur les transformations temporelles des pratiques descriptives et sur les relations que l’enquête peut établir entre leurs différents états.
 
-Protokin résout cette aporie en posant que la temporalité d'une description est une **propriété émergente des pratiques de justification** qui la soutiennent. Le temps des raisons n'est pas linéaire ni cumulatif ; il est un réseau dynamique d'engagements hérités, d'usages présents et de devenirs modaux ouverts à l'auto-correction.
+## 1. Problème : décrire dans le temps
 
----
+Une description n’apparaît pas nécessairement dans une pratique sans antécédents. Elle peut reprendre des catégories, des distinctions, des critères, des habitudes et des inscriptions élaborés auparavant. Ces éléments rendent certaines descriptions disponibles et peuvent orienter les manières d’identifier une situation, de la qualifier ou de justifier une conclusion.
 
-## Définition fonctionnelle
-Dans l'architecture de Protokin, on appelle **temporalité descriptive** :
-> **La condition historique, multidimensionnelle et non linéaire par laquelle une configuration descriptive articule un passé sédimenté (mémoires et supports hérités), un présent d'usage (actualisation et justification située par le locuteur) et un futur possible (anticipation inférentielle et capacité de réorganisation).**
+Cependant, la présence d’un héritage ne détermine pas entièrement l’usage qui en sera fait. Une catégorie peut être maintenue, modifiée, contestée ou abandonnée. Une règle peut continuer d’être appliquée alors que les conditions de son application ont changé. Une description peut également être révisée à la suite d’une difficulté qui n’avait pas été anticipée.
 
-Elle remplit trois fonctions analytiques majeures dans la métathéorie :
-*   **La dé-présentification de l'analyse** : elle montre qu'aucune description actuelle ne s'énonce à coût nul dans un présent absolu ; elle hérite de dettes inférentielles et de structures matérielles antérieures.
-*   **La caractérisation de l'inertie sémantique** : elle explique pourquoi les régimes descriptifs résistent aux perturbations immédiates du milieu en s'adossant à l'effet cliquet historique.
-*   **Le repérage des points de métastabilité** : elle rend visibles les moments où les cadres d'évaluation entrent en saturation, ouvrant la trajectoire vers des transitions ou des bifurcations.
+Le problème consiste donc à examiner ensemble les continuités et les transformations, sans supposer que les descriptions reproduisent mécaniquement leur passé, qu’elles évoluent nécessairement vers un résultat déterminé ou qu’elles changent au même rythme que les situations auxquelles elles se rapportent.
 
----
+**La temporalité descriptive permet d’examiner les conditions de maintien et de transformation des pratiques descriptives, sans présupposer leur direction ni leur résultat.**
 
-## Dimensions principales
-La temporalité descriptive se structure à travers trois dimensions coordonnées qui régissent l'économie temporelle de l'espace des raisons :
+## 2. Définition et dimensions temporelles
 
-```text
-                        TEMPORALITÉ DESCRIPTIVE
-                                  │
-         ┌────────────────────────┼────────────────────────┐
-         ▼                        ▼                        ▼
-  Le Passé Sédimenté       Le Présent d'Usage       Le Futur Possible
- (Mémoire, effet cliquet, (Actualisation situated, (Anticipation modale,
-   supports hérités)         justification)          bifurcation, révision)
-```
+On appelle **temporalité descriptive** l’ensemble des rapports temporels pertinents pour comprendre comment une description ou une pratique descriptive hérite de ressources antérieures, les mobilise dans une situation donnée et demeure susceptible de transformation.
 
-### 1. Le passé sédimenté (L'héritage d'enquête)
-Le passé ne désigne pas une série d'événements révolus. Il désigne l'ensemble des contraintes matérielles, sémiotiques et catégorielles qui pèsent sur l'admissibilité des descriptions au présent. Il s'incarne dans :
-*   **L'effet cliquet** : l'asymétrie qui rend l'abandon d'une catégorie plus coûteux que sa reproduction en raison des investissements de la communauté.
-*   **Les supports sédimentés** : les bases de données, les formulaires institutionnels, les instruments calibrés qui canalisent le dicible.
+Pour les examiner, trois dimensions peuvent être distinguées.
 
-### 2. Le présent d'usage (La prise de position située)
-Le présent est le moment de l'**actualisation**. C'est l'acte situé par lequel un locuteur normatif, s'adossant à une position épistémique, met en mouvement une configuration descriptive pour résoudre un trouble de l'action ou répondre à une demande de raisons. *Le présent est le lieu de l'imputabilité et du scorekeeping en acte*.
+### 2.1. Les héritages
 
-### 3. Le futur possible (L'ouverture modale)
-Le futur de Protokin n'est pas un horizon vide ou déterminé. Il est constitué par **la dynamique inférentielle** :
-*   **L'anticipation** : les conséquences logiques et pratiques que le locuteur s'oblige à accepter lorsqu'il formule une qualification au présent.
-*   **La révisabilité** : l'ouverture permanente de la description à la contestation, à l'anomalie et à la transition de régime sous la contrainte de l'enquête collective.
+Une pratique descriptive peut reprendre des catégories, des critères, des procédures, des habitudes acquises ou des traces conservées. Ces éléments sont disponibles au présent sans que leur origine et leur fonction antérieure soient nécessairement connues de tous les participants.
 
----
+L’héritage peut être matériel, documentaire, technique, institutionnel ou incorporé. Il peut faciliter certaines opérations, limiter les possibilités de révision ou rendre certaines distinctions plus familières que d’autres.
 
-## Distinctions conceptuelles nécessaires
+Ces effets ne sont pas automatiques. La présence d’une catégorie dans un document ne prouve pas qu’elle sera utilisée ; la transmission d’une règle ne garantit pas qu’elle sera appliquée de façon identique ; la conservation d’une trace ne garantit ni la continuité de son interprétation ni la validité de la description qu’elle conserve.
 
-### Temporalité descriptive et Temps physique (plan PROTO)
-La différence porte sur la nature de la contrainte. Le **temps physique** régit la causalité mécanique, les processus thermodynamiques et les régularités biologiques de l'organisme. La **temporalité descriptive** régit la transition des statuts normatifs (habilitation, engagement, redevabilité) au sein de l'espace des raisons. 
-*Le temps physique explique la vitesse de production d'un signal ; la temporalité descriptive règle le droit de s'en prévaloir comme raison.*
+### 2.2. Les usages présents
 
-### Temporalité descriptive et Temps psychologique individuel
-Le temps psychologique ou subjectif renvoie aux états mentaux privés d'un sujet, à son flux de conscience ou à son ressenti intérieur. La **temporalité descriptive** est **irréductiblement publique et collective**. Elle s'organise à travers des dispositifs de transmission (écoles, classifications, rituels d'audit) et une comptabilité déontique partagée dont la communauté tient le score.
+Une description héritée est mobilisée dans des situations particulières. Son usage dépend notamment du problème rencontré, des éléments disponibles, des pratiques concernées et des critères employés.
 
-### Temporalité descriptive et Simple chronologie (Histoire événementielle)
-La **chronologie** classe linéairement des dates et des faits bruts d'apprentissage sans intelligibilité interne. La **temporalité descriptive** reconstruit la généalogie et la stratification des règles de correction, révélant comment des concepts présents héritent, traduisent ou rejettent des configurations antérieures.
-*La chronologie énumère les occurrences de parole ; la temporalité descriptive retrace la métamorphose de l'autorité des normes.*
+Le maintien d’un terme ne suffit pas à établir que son sens pratique, sa fonction ou ses conditions d’application sont demeurés identiques. Inversement, une formulation nouvelle ne prouve pas à elle seule qu’une pratique descriptive a changé dans toutes ses dimensions.
 
----
+L’analyse temporelle doit donc distinguer ce qui est repris de ce qui est effectivement maintenu ou transformé. Elle peut notamment comparer les formulations, les fonctions, les critères d’application et les conséquences associées à une description.
 
-## Articulation dans l'architecture Protokin
+### 2.3. Les transformations possibles
 
-Au sein de l'axe diachronique de Protokin, la temporalité descriptive agit comme l'opérateur de second ordre qui coordonne l'ensemble des concepts temporels :
+Une description peut être précisée, étendue à de nouveaux cas, restreinte, contestée, réinterprétée ou abandonnée. Ces transformations peuvent résulter de difficultés rencontrées, de nouvelles observations, de changements de pratique ou de la révision des critères mobilisés.
 
-```text
-Maintien & Stabilisation (Reproduction locale des conditions d'usage)
-        ↓
-Effet cliquet (Asymétrie des coûts d'abandon et de révision)
-        ↓
-Position & Trajectoire (La coordonnée locale et le parcours des mutations)
-        ↓
-TEMPORALITÉ DESCRIPTIVE (Articulation globale du passé, du présent et du futur)
-        ↓
-Allure (La cinétique et le profil de vitesse de la trajectoire)
-        ↓
-Historicité & Sédimentation (La condition de devenir et l'accumulation des traces)
-        ↓
-Réorganisation & Transition (La reconfiguration dynamique face aux anomalies)
-```
+La possibilité d’une transformation ne signifie pas qu’elle aura lieu. Une difficulté peut persister sans provoquer de révision ; une alternative peut être concevable sans être disponible dans la pratique concernée.
 
----
+Il faut donc distinguer les transformations effectivement observées, les possibilités envisagées par les participants et celles que l’analyse reconstruit rétrospectivement. Ces éléments ne possèdent pas le même statut.
 
-## Développement progressif : le couplage des mémoires
+Les dimensions précédentes ne constituent ni trois étapes successives ni trois composantes de toute description. Elles sont des angles d’examen dont la pertinence dépend du problème étudié.
 
-La temporalité descriptive ne se déploie pas dans l'éther logico-formel. Elle se matérialise et se soutient à l'exact point de recouvrement de deux dimensions temporelles de l'agentivité :
+## 3. Temporalité descriptive et notions voisines
 
-### A. La mémoire organismique / somatique (plan PROTO)
-Elle désigne l'ensemble des dispositions incorporées, façonnées par une éducation sensorimotrice et une trajectoire d'apprentissage individuelle. Elle comprend :
-*   les habitudes perceptives (l'œil clinique du médecin, l'attention exercée du bûcheron) ;
-*   les schèmes d'action et savoir-faire corporels incorporés.
-Cette mémoire n'est pas une représentation interne privée ; elle est une sédimentation pratique de l'organisme face au milieu.
+### 3.1. Temporalité descriptive et temps physique
 
-### B. La mémoire collective / sémantique (plan KIN)
-Elle désigne les infrastructures de transmission d'un collectif qui transcendent la vie des individus singuliers. Elle s'objective dans :
-*   les supports d'inscription externes (archives, dossiers cliniques, bases de données) ;
-*   les structures taxonomiques et les rituels de validation institutionnelle.
+Le **temps physique** concerne les relations temporelles établies et mesurées dans l’étude des processus physiques. La **temporalité descriptive** concerne le maintien et la transformation des descriptions dans les pratiques.
 
-> **La temporalité descriptive est le produit de leur articulation dynamique : les dispositifs collectifs du KIN éduquent, disciplinent et réorganisent la mémoire organismique du PROTO au fil des générations, tandis que l'actualisation somatique de premier ordre maintient vivantes les exigences normatives du KIN.**
+Les deux peuvent être liés. Une transformation corporelle ou environnementale peut rendre une description inadéquate ou susciter une nouvelle enquête. Une mesure physique peut également fournir des éléments qui conduisent à réviser une qualification.
 
-```text
-     MÉMOIRE ORGANISMIQUE (PROTO)  ◄─── Éducation de l'attention ───►  MÉMOIRE COLLECTIVE (KIN)
-       (Habitudes, corps propre)                                      (Archives, classifications)
-                 │                                                                 │
-                 └───────────────────► TEMPORALITÉ DESCRIPTIVE ◄───────────────────┘
-                                  (Articulation vivante des raisons)
-```
+Mais la succession des événements physiques ne détermine pas à elle seule l’ordre des transformations descriptives. Une situation peut changer avant que sa description soit révisée ; une description peut changer alors que le phénomène visé reste suffisamment stable pour être réidentifié.
 
-Cette co-détermination historique engendre un phénomène de **boucle de rétroaction (effet Hacking)** : lorsqu'une communauté stabilise une description (par exemple, le diagnostic de dangerosité), elle transforme les pratiques d'intervention et modifie en retour le comportement des agents décrits, déplaçant ainsi les conditions de l'enquête temporelle future.
+**Temps physique ≠ temporalité descriptive.**
 
----
+Cette distinction ne sépare pas les pratiques descriptives de leurs conditions matérielles. Elle interdit de déduire directement la fonction, le sens ou la justification d’une description de la seule mesure d’un processus physique.
 
-## Éclairage par les fils rouges pédagogiques
+Pour les procédures de mesure et les relations temporelles physiques, voir [Temps physique](fr/temps.md).
 
-### 1. Le patient aux urgences
-Le triage hospitalier montre que le patient n'est pas seulement un corps biologique instantané. Sa prise en charge est une cascade de temporalités descriptives hétérogènes en interaction. Le passé sédimenté du patient (historique médical, constantes physiologiques) est traduit au présent par l'infirmière de tri sous un score de gravité de 1 à 5 (actualisation). Cet enregistrement s'inscrit sur un support informatique (mémoire collective), qui déclenche immédiatement un futur possible contraignant : l'obligation inférentielle d'une intervention médicale d'aval dans un délai fixé. L'audit examine comment ces temporalités se coordonnent ou entrent en conflit s'il y a télescopage avec le régime comptable de l'administration hospitalière.
+### 3.2. Temporalité descriptive et chronologie
 
-### 2. « Cette personne est dangereuse »
-La dangerosité n'est pas une substance statique ou une essence intemporelle. L'analyse de sa temporalité descriptive montre que cet énoncé est le point d'aboutissement d'une trajectoire cumulative lente (strates de rapports administratifs, de notes policières, d'expertises cliniques). Une fois cette qualification stabilisée par l'effet cliquet de l'institution pénale, elle se fige dans une allure inertielle qui pèse lourdement sur le présent d'usage de l'individu, fermant de manière asymétrique ses perspectives de réhabilitation en transformant une position provisoire en essence permanente.
+Une **chronologie** ordonne des événements, des documents, des décisions ou des occurrences selon des repères temporels. Elle peut constituer un matériau nécessaire à l’enquête.
 
-### 3. Le botaniste et le bûcheron dans la forêt
-Face au même arbre, les deux locuteurs n'habitent pas la même temporalité descriptive. Le botaniste inscrit sa prédication d'*Abies alba* dans le temps long et cumulatif d'une historicité académique mondiale (codes internationaux, flores historiques). Le bûcheron inscrit sa qualification de "bois exploitable" dans une temporalité plus courte et réactive, rythmée par les nécessités de l'abattage saisonnier, le transport matériel et les cycles de valorisation sylvicole. Leurs descriptions n'entrent pas en contradiction car elles répondent à des temporalités de pratiques disjointes.
+La temporalité descriptive pose une question supplémentaire : quelles continuités et quelles transformations des pratiques descriptives peut-on établir à partir de ces événements ?
 
----
+Une chronologie peut indiquer qu’une catégorie a été introduite à une date, modifiée quelques années plus tard puis remplacée dans un document. Elle ne suffit pas nécessairement à établir si sa fonction a changé, si ses critères d’application ont été révisés ou si son usage s’est maintenu dans d’autres pratiques.
 
-## Limites et vigilances d'audit
+La chronologie n’est donc ni inutile ni toujours insuffisante. Sa portée dépend du problème à traiter.
 
-Lors de l'audit critique immanent d'une configuration, l'analyste de second ordre doit surveiller trois pathologies temporelles :
+**Succession chronologique ≠ reconstruction d’une transformation descriptive.**
 
-*   **Le biais de naturalisation temporelle (L'illusion d'éternité)** : Consister à traiter une catégorie descriptive stabilisée (comme une classification clinique ou une dangerosité institutionnelle) comme une vérité immuable issue d'un ordre naturel des choses, en occultant le coût historique des apprentissages, des sédimentations et des infrastructures requis pour la maintenir.
-*   **La dérive psychologisante** : Réduire la temporalité descriptive d'un espace de raisons au simple vécu subjectif de l'agent, effaçant la matérialité des supports d'inscription et la dimension publique de la comptabilité déontique de la communauté.
-*   **L'illusion téléologique (Erreur de progrès linéaire)** : Reconstruire une trajectoire descriptive comme le mouvement nécessaire et irrésistible d'une approximation progressive de la vérité en soi, traitant les configurations passées comme de simples "erreurs" au lieu de reconstruire les problèmes spécifiques auxquels elles s'efforçaient de répondre.
+### 3.3. Temporalité descriptive et trajectoire
 
----
+La **trajectoire descriptive** concerne le parcours de transformations qu’une enquête reconstruit pour une description, une configuration descriptive ou une pratique.
 
-## Synthèse finale
+La temporalité descriptive désigne le problème plus général des rapports temporels dans lesquels ces transformations prennent place : héritages, reprises, maintiens et possibilités de révision.
 
-### Ce que cette page établit
-La **temporalité descriptive** comme condition historique et non linéaire de l'espace des raisons, articulant le passé sédimenté, le présent d'usage et les devenirs modaux possibles au sein de nos pratiques collectives de justification.
+Une trajectoire particulière peut contribuer à l’analyse de cette temporalité. Elle ne l’épuise pas : une reconstruction peut rester partielle, et plusieurs descriptions ou pratiques peuvent entretenir des rapports temporels différents autour d’une même situation.
 
-### Ce qu'elle suppose
-Le *principe d'immanence normative*, la *stabilisation*, l'*effet cliquet* et la distinction fondamentale entre *Causes* (`PROTO`) et *Raisons* (`KIN`).
+Pour reconstruire un parcours déterminé, voir [Trajectoire](fr/trajectoire.md).
 
-### Ce qu'elle rend possible
-Le traçage des *trajectoires*, l'évaluation de la cinétique des *allures*, l'identification de l'*historicité* des concepts, l'analyse des *sédimentations* et la conduite méthodique de l'*audit critique des régimes descriptifs*.
+### 3.4. Temporalité descriptive et allure
 
----
+L’**allure** qualifie la distribution temporelle des transformations d’une trajectoire, pour une période et une échelle d’analyse déterminées.
+
+Elle permet de caractériser, par exemple, une succession d’ajustements, une faible transformation observable ou une concentration de changements. Elle ne détermine pas pourquoi ces transformations ont lieu ni si elles sont justifiées.
+
+La temporalité descriptive ne doit donc pas être réduite à une question de rythme. Une analyse peut devoir examiner les héritages et les conditions de révision d’une pratique même lorsque la distribution temporelle des changements a déjà été caractérisée.
+
+Pour cette qualification, voir [Allure](fr/allure.md).
+
+### 3.5. Temporalité descriptive et sédimentation
+
+La **sédimentation** désigne l’accumulation et la conservation de traces issues de pratiques descriptives. Elle concerne notamment les documents, les données, les procédures, les dispositifs et les habitudes qui restent disponibles pour des usages ultérieurs.
+
+La temporalité descriptive porte plus largement sur les rapports temporels des pratiques. La sédimentation peut en éclairer une dimension, mais toute transmission ne se réduit pas à l’accumulation de traces et toute trace conservée ne demeure pas nécessairement active.
+
+Une catégorie peut être reprise dans une pratique sans que son histoire soit explicitement documentée. À l’inverse, un document peut être conservé longtemps après que la fonction de la description qu’il contient a changé.
+
+Pour l’accumulation et la conservation des traces, voir [Sédimentation](fr/sedimentation.md).
+
+### 3.6. Temporalité descriptive, stabilisation et effet cliquet
+
+La **stabilisation** concerne le maintien relatif d’une configuration dans une pratique. L’**effet cliquet** concerne une asymétrie dans les possibilités ou les coûts de maintien, de révision ou d’abandon.
+
+Ces phénomènes peuvent contribuer à expliquer pourquoi une description persiste ou pourquoi sa révision devient difficile. Ils ne se déduisent toutefois pas de la seule durée de maintien.
+
+Une description peut rester longtemps en usage parce qu’elle continue de répondre au problème traité, parce qu’aucune difficulté pertinente n’a été rencontrée ou parce que sa révision est coûteuse. Ces possibilités doivent être distinguées et examinées à partir des éléments disponibles.
+
+**Durée de maintien ≠ stabilisation démontrée ; maintien durable ≠ effet cliquet établi.**
+
+## 4. Exemple : la transformation d’une qualification administrative
+
+Une administration utilise une catégorie pour qualifier certaines situations. Cette catégorie apparaît dans des formulaires et des dossiers successifs. Quelques années plus tard, de nouvelles distinctions sont introduites et les critères d’application sont modifiés.
+
+La temporalité descriptive invite à examiner plusieurs questions distinctes :
+
+- Depuis quand la catégorie est-elle attestée dans les documents disponibles ?
+- Dans quelles pratiques est-elle reprise ?
+- Sa formulation est-elle restée stable ?
+- Ses critères d’application ou sa fonction ont-ils changé ?
+- Quels éléments permettent d’établir ces changements ?
+- Quelles transformations restent incertaines faute de documentation ?
+
+La présence continue du même terme ne prouve pas que la qualification a conservé la même fonction. L’apparition de nouveaux critères ne démontre pas non plus que l’ancienne catégorie a été abandonnée dans toutes les pratiques.
+
+Enfin, la succession des documents ne suffit pas à expliquer pourquoi les changements ont eu lieu ni à établir que la nouvelle qualification est plus adéquate. Ces conclusions exigent des examens distincts des conditions, des relations, des fonctions et des justifications pertinentes.
+
+L’exemple montre que l’enquête temporelle ne consiste pas seulement à dater des occurrences. Elle cherche à préciser les continuités et les transformations que les éléments disponibles permettent effectivement d’établir.
+
+## 5. Portée et limites
+
+L’analyse de la temporalité descriptive permet de repérer les héritages mobilisés, les usages qui se maintiennent, les transformations attestées et les possibilités de révision qui restent ouvertes ou contraintes.
+
+Elle peut conduire à reconstruire une trajectoire, à examiner la distribution temporelle des changements ou à étudier le rôle des traces conservées. Ces travaux spécialisés complètent l’analyse sans se confondre avec elle.
+
+La temporalité descriptive ne permet pas, à elle seule, d’établir :
+
+- la cause d’une transformation ;
+- la nécessité du parcours suivi ;
+- la validité d’une description héritée ou nouvelle ;
+- le caractère progressif ou régressif d’un changement ;
+- l’existence d’un effet cliquet ;
+- la continuité de la fonction d’une catégorie à partir de la seule stabilité de son nom ;
+- la correspondance nécessaire entre l’évolution d’une situation et celle de sa description.
+
+Une reconstruction temporelle doit rester proportionnée aux documents, aux observations et aux comparaisons disponibles. Lorsque la continuité ou la transformation ne peut pas être établie, l’enquête doit conserver cette indétermination plutôt que la combler par une histoire supposée.
+
+Les rapports temporels peuvent ainsi être examinés sans convertir la succession en causalité, la durée en stabilité, la conservation en validité ou la transformation en progrès.
+
+## Synthèse
+
+La temporalité descriptive concerne les rapports temporels par lesquels des pratiques descriptives héritent de ressources antérieures, les mobilisent dans des situations présentes et demeurent susceptibles de transformation.
+
+Elle permet de distinguer la chronologie des événements, la reconstruction d’une trajectoire, la qualification de son allure et l’étude de la sédimentation des traces. Ces analyses sont complémentaires, mais elles ne se remplacent pas les unes les autres.
+
+**Examiner la temporalité d’une pratique descriptive ne suffit ni à expliquer ses transformations, ni à démontrer leur nécessité, ni à justifier leur résultat.**
+
+Pour poursuivre :
+
+- [Temps physique](fr/temps.md) — Examiner la mesure et l’interprétation des relations temporelles physiques.
+- [Trajectoire descriptive](fr/trajectoire.md) — Reconstruire le parcours de transformations d’une description ou d’une pratique.
+- [Allure](fr/allure.md) — Qualifier la distribution temporelle des transformations d’une trajectoire.
+- [Sédimentation](fr/sedimentation.md) — Examiner l’accumulation et la conservation des traces.
+- [Stabilisation](fr/stabilisation.md) — Examiner le maintien relatif d’une configuration.
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer la fonction transversale Temporaliser dans la conduite de l’enquête.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations d’examen sans les convertir les unes dans les autres.
+- [Table des matières](fr/tdm.md) — Replacer cette page dans l’organisation du corpus.
