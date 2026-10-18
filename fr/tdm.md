@@ -156,6 +156,33 @@ Cette partie rassemble les ressources permettant d’examiner une configuration 
 - [Trace](fr/trace.md) — Examiner les traces mobilisées dans une pratique et les limites de leur interprétation.
 - [Support descriptif](fr/support-descriptif.md) — Préciser le rôle des supports dans les pratiques descriptives.
 
+### C. Catégories, taxonomies et clarification conceptuelle
+
+- [Catégories](fr/categories.md) — Examiner comment une pratique regroupe ou distingue des occurrences selon des différences jugées pertinentes.
+- [Taxonomies descriptives](fr/taxonomies.md) — Examiner l’organisation des relations entre catégories : inclusion, différenciation, opposition ou complémentarité.
+- [De la notion au concept](fr/de-la-notion-au-concept.md) — Examiner quand une notion doit être davantage déterminée pour traiter un problème descriptif.
+- [Qualification](fr/qualification.md) — Examiner l’inscription située d’une situation ou d’une entité dans une catégorie.
+
+Ces ressources distinguent l’application d’une catégorie, l’organisation de plusieurs catégories et la clarification des déterminations mobilisées. Elles ne supposent pas qu’une classification constitue à elle seule son objet.
+
+### D. Normativité, validité et responsabilité descriptives
+
+- [Norme descriptive](fr/norme-descriptive.md) — Examiner les contraintes qui règlent la production, l’évaluation, la correction et la révision des descriptions dans une pratique.
+- [Validité](fr/validite.md) — Examiner ce qui autorise à tenir une description ou une inférence pour valide selon les exigences pertinentes.
+- [Description et normativité](fr/description-et-normativite.md) — Examiner les rapports entre description, évaluation et exigences normatives.
+- [Responsabilité descriptive](fr/responsabilite-descriptive.md) — Examiner la redevabilité associée aux descriptions, à leurs engagements et à leurs conséquences.
+
+La présence d’une norme ne garantit pas qu’une description soit valide ; la validité, la justification et la responsabilité restent des questions distinctes.
+
+### E. Supports descriptifs
+
+- [Support descriptif](fr/support-descriptif.md) — Examiner le rôle des supports dans la conservation, la réalisation et la circulation des descriptions.
+- [Supports descriptifs incorporés](fr/supports-descriptifs-incorpores.md) — Examiner les dispositions pratiques, perceptives et gestuelles qui permettent de porter et d’actualiser des descriptions.
+- [Supports descriptifs externes](fr/supports-descriptifs-externes.md) — Examiner les dispositifs matériels, sémiotiques ou techniques qui conservent, transportent et réactivent des descriptions.
+- [Supports descriptifs institutionnels](fr/supports-descriptifs-institutionnels.md) — Examiner les dispositifs collectifs et organisationnels qui rendent possibles la production, la validation, la transmission et la révision des descriptions.
+
+Ces formes de support peuvent être articulées dans une même pratique sans être confondues ni ramenées les unes aux autres.
+
 ---
 
 ## VI. Instruments d’épreuve et diagnostic des difficultés
