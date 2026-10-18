@@ -216,13 +216,19 @@ Les cas permettent de confronter les distinctions et les opérations à des situ
 - [Urgence hospitalière](fr/urgence-hospitaliere.md) — Examiner les rapports entre contraintes, décisions pratiques et justifications.
 
 ---
+## VIII. Héritages philosophiques
 
-## VIII. Repères éditoriaux et navigation
+Cette rubrique rassemble les rapprochements philosophiques utiles pour situer certaines questions travaillées par Protokin. Elle ne présente ni une généalogie exhaustive du projet ni un ensemble de doctrines dont celui-ci serait la synthèse. Chaque page précise ce qui est repris, transformé ou laissé de côté, ainsi que la fonction de ce rapprochement pour l’enquête.
 
-- [Patterns éditoriaux de Protokin](../patterns.md) — Définir les fonctions des types de pages, les exigences de rédaction et les points de vigilance pour maintenir la cohérence du corpus.
-- [Parcours de lecture](fr/parcours-de-lecture.md) — Orienter la consultation selon le problème rencontré.
+- [John Dewey](fr/john-dewey.md) — Situer l’enquête dans le traitement pragmatiste des situations problématiques et des difficultés rencontrées dans l’expérience.
+- [Charles Sanders Peirce](fr/charles-sanders-pierce.md) — Examiner les rapports entre enquête, signes, abduction et révision des croyances.
+- [Ludwig Wittgenstein](fr/ludwig-wittgenstein.md) — Éclairer le rôle des usages, des règles et des pratiques dans l’examen du sens.
+- [Wilfrid Sellars](fr/wilfrid-sellars.md) — Situer la distinction entre description, explication et espace des raisons, sans reconduire un donné qui justifierait de lui-même nos énoncés.
+- [Robert Brandom](fr/robert-brandom.md) — Examiner les engagements, les habilitations et les conséquences inférentielles associés aux pratiques discursives.
+- [Joseph Rouse](fr/joseph-rouse.md) — Éclairer les rapports entre pratiques scientifiques, contraintes matérielles et normativité.
+- [Richard Rorty](fr/richard-rorty.md) — Situer certains usages du pragmatisme et les limites d’une recherche de fondements ultimes.
 
-Les patterns définissent des exigences de composition et de cohérence ; ils ne remplacent pas le travail conceptuel propre à chaque page. Le lexique précise les termes ; les pages de référence complètent les définitions.
+Ces rapprochements n’ont pas tous le même statut. Une ressemblance de vocabulaire ne suffit pas à établir une filiation ; une influence reconnue ne vaut pas adhésion à l’ensemble d’une doctrine. Les pages philosophiques servent à documenter des proximités et des écarts, non à remplacer l’examen fonctionnel des problèmes propres à Protokin.
 
 ---
 
