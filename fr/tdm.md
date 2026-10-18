@@ -54,6 +54,7 @@ Les opérations suivantes permettent de travailler ces difficultés. Elles forme
 
 - [La chaîne principale de l’enquête](fr/la-chaine-principale-de-l-enquete.md) — Présenter l’articulation des opérations.
 - [Conduire une enquête](fr/conduire-une-enquete.md) — Préciser les modalités de mise en œuvre de la démarche.
+[Pourquoi ne pas alourdir l’enquête ?](pourquoi-ne-pas-alourdir-l-enquete.md) — Évaluer la nécessité d’une distinction, d’une catégorie ou d’un contrôle supplémentaire au regard du problème examiné.
 
 La chaîne organise des déplacements possibles dans l’enquête. Elle n’établit ni une genèse des objets ni une progression obligatoire du matériel vers le sémantique, puis vers le normatif.
 
