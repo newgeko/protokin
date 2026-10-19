@@ -85,7 +85,7 @@ Cette articulation n’est toutefois pas une séquence obligatoire. Une désigna
 
 **La déixis ne présuppose donc pas l’anaphore.** La reprise anaphorique peut prolonger une désignation, mais elle n’est pas la condition générale de son interprétation.
 
-Pour approfondir cette distinction, voir [Anaphore](anaphore.md).
+Pour approfondir cette distinction, voir [Anaphore](fr/anaphore.md).
 
 ### 4.2. Déixis et occurrence
 
@@ -104,7 +104,7 @@ L’identité de la forme n’établit ni l’identité de la situation ni celle
 
 La déixis ne constitue pas une propriété de toute occurrence linguistique. Elle caractérise le fonctionnement de certaines expressions et de certains gestes dans leurs conditions d’usage.
 
-Voir [Occurrence](occurence.md).
+Voir [Occurrence](fr/occurence.md).
 
 ### 4.3. Déixis et référence
 
@@ -118,11 +118,11 @@ Inversement, une référence peut être établie sans déixis immédiate. Un arb
 
 La déixis est donc une ressource possible de l’identification référentielle, non une condition nécessaire de toute référence.
 
-Voir [Référent](referent.md).
+Voir [Référent](fr/referent.md).
 
 ### 4.4. Déixis et opération d’ancrage
 
-L’[opération Ancrer](ancrer.md) consiste à identifier les appuis et les conditions pertinents pour examiner un problème : observations, traces, supports, contraintes matérielles ou autres éléments disponibles.
+L’[opération Ancrer](fr/ancrer.md) consiste à identifier les appuis et les conditions pertinents pour examiner un problème : observations, traces, supports, contraintes matérielles ou autres éléments disponibles.
 
 La déixis relève d’un problème plus local : l’interprétation d’une expression ou d’un geste à partir d’une situation d’énonciation.
 
@@ -185,7 +185,7 @@ L’examen peut également mobiliser plusieurs opérations de l’enquête. Il p
 
 La déixis ne prescrit cependant aucune procédure unique. Elle ne constitue ni le point de départ obligatoire de l’enquête ni une transition nécessaire entre la perception et l’inférence.
 
-Pour situer ces distinctions, voir la [Quadripartition de l’orientation](quadripartition-de-l-orientation.md) et l’[Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md).
+Pour situer ces distinctions, voir la [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) et l’[Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md).
 
 ## 7. Limites et non-conversions
 
@@ -219,11 +219,11 @@ Le principe directeur est le suivant :
 
 Pour poursuivre :
 
-- [Anaphore](anaphore.md) — Examiner la reprise d’éléments accessibles dans le discours.
-- [Occurrence](occurence.md) — Distinguer une réalisation particulière de la forme ou du type auquel elle est rapportée.
-- [Référent](referent.md) — Examiner l’identification et la visée de ce dont une pratique descriptive parle.
-- [Ancrer](ancrer.md) — Identifier les appuis pertinents pour l’examen d’un problème.
-- [RDRD et entrée perceptive](rdrd-et-entree-perceptive.md) — Examiner les dispositions de réponse différentielle et les conditions de l’entrée perceptive.
-- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md) — Distinguer les orientations de l’examen.
+- [Anaphore](fr/anaphore.md) — Examiner la reprise d’éléments accessibles dans le discours.
+- [Occurrence](fr/occurence.md) — Distinguer une réalisation particulière de la forme ou du type auquel elle est rapportée.
+- [Référent](fr/referent.md) — Examiner l’identification et la visée de ce dont une pratique descriptive parle.
+- [Ancrer](fr/ancrer.md) — Identifier les appuis pertinents pour l’examen d’un problème.
+- [RDRD et entrée perceptive](fr/rdrd-et-entree-perceptive.md) — Examiner les dispositions de réponse différentielle et les conditions de l’entrée perceptive.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations de l’examen.
 - [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations mobilisables dans l’enquête.
-- [Table des matières](tdm.md) — Retrouver les ressources du corpus.
+- [Table des matières](fr/tdm.md) — Retrouver les ressources du corpus.
