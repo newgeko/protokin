@@ -171,8 +171,8 @@ La cohérence d'une organisation conceptuelle ne suffit pas à établir sa néce
 
 Cette page ne remplace ni la présentation des orientations ni celle du chemin opératoire.
 
-- La page [Quadripartition de l'orientation](quadripartition-de-l-orientation.md) présente les quatre orientations.
-- La page [Architecture fonctionnelle de l'enquête](architecture-fonctionnelle-de-l-enquete.md) présente l'organisation des opérations de l'enquête.
+- La page [Quadripartition de l'orientation](fr/quadripartition-de-l-orientation.md) présente les quatre orientations.
+- La page [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) présente l'organisation des opérations de l'enquête.
 - La présente page examine leur articulation et formule les conditions auxquelles leur distinction pourrait être maintenue.
 
 Elle devra être révisée si l'examen des cas montre que cette articulation est redondante, insuffisamment définie ou utile seulement dans un domaine limité.
