@@ -32,7 +32,7 @@ Les opérations suivantes permettent de travailler ces difficultés. Elles forme
 
 ### Délimiter et ancrer le problème
 
-- [Délimiter](fr/delimier.md) — Préciser la difficulté à examiner et déterminer ce qui est en question.
+- [Délimiter](fr/delimiter.md) — Préciser la difficulté à examiner et déterminer ce qui est en question.
 - [Ancrer](fr/ancrer.md) — Identifier les conditions matérielles, corporelles, techniques et environnementales pertinentes.
 
 ### Distinguer et relier
@@ -127,7 +127,7 @@ Ces pages distinguent la dérivation de relations apprises, la transformation de
 - [Description](fr/description.md) — Examiner les descriptions comme des configurations susceptibles d’être discutées et révisées.
 - [Anaphore](fr/anaphore.md) — Examiner les reprises discursives et les relations de dépendance entre occurrences.
 - [Déixis](fr/deixis.md) — Examiner comment l’interprétation d’une désignation dépend de la situation dans laquelle elle est produite.
-- [Occurrence](fr/occurence.md) — Distinguer une réalisation particulière de la forme ou du type auquel elle est rapportée.
+- [Occurrence](fr/occurrence.md) — Distinguer une réalisation particulière de la forme ou du type auquel elle est rapportée.
 - [Substitution](substitution.md) — Examiner ce qui se maintient ou change lorsqu’une expression est remplacée par une autre dans un contexte déterminé.
 - [Stabilisation](fr/stabilisation.md) — Examiner le maintien relatif d’une configuration à travers ses reprises et ses variations.
 
