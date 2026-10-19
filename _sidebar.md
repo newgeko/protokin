@@ -15,7 +15,7 @@
   - [Conduire une enquête](fr/conduire-une-enquete.md)
   - [Pourquoi ne pas alourdir l’enquête ?](fr/pourquoi-ne-pas-alourdir-l-enquete.md)
   - **Délimiter et ancrer**
-    - [Délimiter](fr/delimier.md)
+    - [Délimiter](fr/delimiter.md)
     - [Ancrer](fr/ancrer.md)
   - **Distinguer et relier**
     - [Distinguer](fr/distinguer.md)
@@ -71,7 +71,7 @@
     - [Description](fr/description.md)
     - [Anaphore](fr/anaphore.md)
     - [Déixis](fr/deixis.md)
-    - [Occurrence](fr/occurence.md)
+    - [Occurrence](fr/occurrence.md)
     - [Substitution](fr/substitution.md)
     - [Stabilisation](fr/stabilisation.md)
 
