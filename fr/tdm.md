@@ -195,7 +195,7 @@ Les instruments d’épreuve servent à examiner les distinctions, les inférenc
 - [Diagnostiquer une confusion de niveau](fr/diagnostiquer-une-confusion-de-niveau.md) — Repérer le passage injustifié entre des niveaux ou des fonctions distincts.
 - [Diagnostiquer une erreur de catégorie](fr/diagnostiquer-une-erreur-de-categorie.md) — Examiner l’attribution d’une propriété ou d’une fonction dans un cadre inadéquat.
 - [Diagnostiquer une réduction](fr/diagnostiquer-une-reduction.md) — Repérer la réduction d’une fonction ou d’un registre à un autre.
-- [Recevabilité](fr/recevabilite.md) — Examiner les conditions auxquelles une description ou une conclusion peut être acceptée dans une pratique.
+- [Recevabilité](fr/recevabilite.md) – Examiner les conditions auxquelles une description ou une conclusion peut être admise à l’examen dans une pratique.
 
 ### B. Comparer et éprouver
 
