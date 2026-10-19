@@ -1,227 +1,176 @@
-# Page : auto-application.md
+# Auto-application — Examiner Protokin à partir de ses propres exigences
 
-Auto-application — L'auto-examen opératoire de l'architecture Protokin
+## 1. Fonction
 
-Analyse architecturale de la page
+L’auto-application consiste à examiner les concepts, les distinctions, les méthodes et les textes de Protokin en leur appliquant les exigences d’enquête que le projet mobilise pour examiner d’autres pratiques descriptives.
 
-1. Fonction unique de la page
+Elle permet de vérifier si les ressources de Protokin remplissent effectivement la fonction qui leur est attribuée, si leurs distinctions restent cohérentes avec le reste du corpus et si leurs conclusions sont soutenues par les éléments disponibles.
 
-Cette page existe pour formaliser l'opération d'auto-application au sein de l'architecture de Protokin, démontrant comment la métathéorie applique ses propres instruments d'enquête, ses dix opérations descriptives, sa cartographie des régimes et ses diagnostics cliniques de second ordre à ses propres énoncés et structures conceptuels, matérialisant ainsi de façon pratique l'exigence de réflexivité immanente et d'auto-limitation.
+L’auto-application ne consiste pas à confirmer que Protokin respecte ses propres principes. Elle consiste à déterminer ce que leur application à un élément concret du projet permet d’établir, de contester ou de réviser.
 
-2. Choix du mode de développement
+## 2. Problème
 
-· Mode retenu : Mode C — Développement opératoire.
-· Justification : L'auto-application n'est pas seulement un concept abstrait ; elle désigne l'exécution effective, récursive et méthodique d'une séquence de contrôle que Protokin s'impose à lui-même. Il s'agit donc de reconstruire de manière ordonnée le protocole opératoire par lequel la métathéorie s'auto-explicite, s'auto-diagnostique et se réorganise face à ses propres limites.
+Protokin propose des distinctions et des instruments pour examiner les pratiques descriptives. Or ces distinctions et ces instruments sont eux-mêmes formulés dans des textes, organisés dans un corpus et mobilisés au cours d’enquêtes.
 
-3. Problème conceptuel
+Ils peuvent donc rencontrer les mêmes difficultés que les ressources qu’ils servent à examiner : une distinction peut être insuffisante, une catégorie peut recevoir plusieurs sens, un renvoi peut devenir inadéquat, une conclusion peut dépasser les éléments disponibles ou une méthode peut être utilisée au-delà de sa portée.
 
-Comment opérationnaliser la réflexivité immanente de Protokin sans qu'elle ne glisse vers un formalisme autoréférentiel stérile ou une régression paralysante à l'infini, de manière à ce que l'auto-analyse constitue un véritable opérateur d'ajustement, de révision et d'auto-correction de la métathéorie au cours de ses applications réelles ?
+Le projet ne peut pas traiter ces difficultés comme de simples défauts de présentation. Une incohérence documentaire peut révéler une ambiguïté conceptuelle ; une distinction répétée dans plusieurs pages peut masquer une fonction mal définie ; une procédure apparemment cohérente peut ne pas permettre d’obtenir les résultats annoncés.
 
-4. Objet propre
+L’auto-application rend ces difficultés examinables sans supposer d’avance qu’elles invalident l’ensemble du projet ou qu’elles exigent nécessairement une modification.
 
-· Cette page traite de : la séquence opératoire d'auto-application des dix concepts descriptifs de Protokin à lui-même ; l'exercice récursif des diagnostics de second ordre (réductions, confusions de niveaux, erreurs de catégorie) sur les propres constructions de Protokin ; la clôture fonctionnelle pragmatique qui arrête la régression à l'infini ; le statut de Protokin comme niche descriptive située et révisable.
-· Cette page ne traite pas de : l'énonciation purement théorique ou de second ordre du principe de réflexivité (développée dans reflexivite.md) ; la délimitation de la portée et des limites externes de la théorie (développée dans limites-de-protokin.md) ; l'injustice épistémique (développée dans injustice-epistemique.md) ; les études de cas empiriques de premier ordre.
+## 3. Statut de l’auto-application
 
-5. Statut conceptuel
+L’auto-application est une méthode d’examen de second ordre. Son objet est une ressource de Protokin : une page, une notion, une distinction, une procédure, un renvoi ou une proposition concernant le fonctionnement du projet.
 
-Il s'agit d'une opération descriptive de second ordre et d'une méthode d'auto-examen appartenant à la section 09 — Réflexivité.
+Elle se distingue de trois démarches voisines.
 
-6. Dépendances fonctionnelles
+- **La réflexivité** établit l’exigence générale selon laquelle Protokin ne peut s’exempter de l’examen auquel il soumet les pratiques qu’il étudie. L’auto-application met cette exigence en pratique.
+- **La conduite d’une enquête** fournit des repères pour examiner une difficulté rencontrée dans une pratique descriptive. L’auto-application reprend cette exigence d’enquête en prenant les ressources de Protokin elles-mêmes pour objet.
+- **La révision éditoriale** modifie un texte ou son organisation. L’auto-application peut conduire à une telle révision, mais elle peut aussi conclure qu’une formulation doit être conservée, qu’une question reste ouverte ou que les éléments disponibles ne permettent pas encore de décider.
 
-Cette page suppose :
+Ces démarches sont liées sans être équivalentes. L’auto-application n’est ni une nouvelle opération fondamentale de l’enquête ni une étape supplémentaire à ajouter à sa chaîne principale.
 
-· Le principe de réflexivité (reflexivite.md).
-· Le principe d'humilité épistémique (humilite-epistemique.md).
-· L'ensemble de l'architecture fonctionnelle et conceptuelle de Protokin.
-· L'armature des diagnostics d'audit (diagnostiquer-une-reduction.md, diagnostiquer-une-confusion-de-niveau.md, diagnostiquer-une-erreur-de-categorie.md).
+Voir [Réflexivité](fr/reflexivite.md), [Conduire une enquête](fr/conduire-une-enquete.md) et [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md).
 
-Cette page rend possible :
+## 4. Conduire un examen d’auto-application
 
-· Le repérage et la formalisation des limites de Protokin face aux anomalies conceptuelles.
-· La réorganisation et l'auto-correction continue du Collective Operating System (cOS) de la métathéorie.
-· L'élaboration réglée d'une écologie des régimes descriptifs non hiérarchique.
+L’examen commence par une difficulté déterminée. Il peut porter sur une contradiction entre deux pages, une définition incertaine, une méthode dont les résultats sont discutables ou une affirmation dont la portée paraît excessive.
 
-7. Frontières conceptuelles
+Les questions suivantes organisent le travail. Elles constituent des repères adaptables, non une procédure obligatoire à exécuter intégralement dans tous les cas.
 
-Auto-application et Réflexivité
+### 4.1. Quel élément est examiné et pourquoi ?
 
-La différence porte sur le statut opératoire. La réflexivité est le principe méthodologique général qui exige que la métathéorie ne s'exclue d'aucun de ses propres constats. L'auto-application désigne la procédure technique concrète par laquelle Protokin applique effectivement sa boîte à outils (supports, rituels de justification, etc.) à son propre discours. Le principe ordonne ; l'auto-application s'exécute.
+Délimiter l’objet de l’examen et formuler le problème rencontré.
 
-Auto-application et Auto-audit
+Il peut s’agir, par exemple, d’une distinction entre deux notions, de la fonction attribuée à une page ou de la conclusion qu’un instrument est censé permettre.
 
-La différence s'établit au niveau de l'objet d'analyse. L'auto-audit est l'opération synoptique globale qui examine la fidélité et la cohérence de l'enquêteur sur un terrain donné. L'auto-application est le protocole structurel récursif qui prend l'architecture Protokin elle-même (ses pages, son lexique, son gabarit) comme une configuration descriptive ordinaire pour en éprouver les limites matérielles et les engagements normatifs.
+Il faut préciser ce qui motive l’examen sans présupposer son résultat. Une répétition apparente ne prouve pas que deux pages sont redondantes ; une divergence de vocabulaire ne suffit pas à établir une contradiction ; une difficulté de lecture ne démontre pas à elle seule une incohérence conceptuelle.
 
-8. Architecture locale
+La délimitation initiale reste révisable si l’examen fait apparaître un problème différent de celui qui avait été formulé.
 
-```
-                       RÉFLEXIVITÉ (reflexivite.md)
-                             │
-                             ▼
-                AUTO-APPLICATION (auto-application.md)
-                             │
-                             ▼
-                LIMITES DE PROTOKIN (limites-de-protokin.md)
-```
+### 4.2. Sur quels matériaux l’examen s’appuie-t-il ?
 
----
+Recueillir les éléments nécessaires pour examiner le problème : contenu effectif des pages concernées, exemples employés, renvois, distinctions mobilisées et usages attestés des termes.
 
-Cartouche fonctionnel
+Il convient de distinguer les constats des interprétations.
 
-Élément Description
-Fonction Formaliser le protocole opératoire par lequel Protokin applique de façon récursive ses propres outils d'enquête et de diagnostic à sa propre architecture théorique.
-Prépare L'analyse systématique des limites de la métathéorie, le repérage de ses propres zones de silence et sa réorganisation conceptuelle.
-Mobilise Les principes de réflexivité, d'humilité épistémique, l'architecture fonctionnelle des dix opérations et l'outillage de diagnostic d'audit.
-Permet ensuite D'exécuter l'auto-correction permanente des catégories protokiniennes et de garantir le statut non hégémonique de la métathéorie.
-N'établit pas Le principe général de réflexivité, la liste empirique des limites d'application, ni les théories sociologiques du champ universitaire.
+Le fait que deux pages emploient le même terme ne prouve pas qu’elles lui attribuent le même sens. Le fait qu’une page annonce une fonction ne démontre pas que son contenu la remplit effectivement. Le fait qu’un lien figure dans la table des matières ne garantit pas que la cible existe ou corresponde à l’intitulé annoncé.
 
----
+L’examen doit également signaler les éléments manquants. Si une page nécessaire est inaccessible ou si un renvoi ne peut pas être vérifié, cette limite ne doit pas être compensée par une reconstitution supposée de son contenu.
 
-Problème conceptuel inaugural
+### 4.3. Quelles distinctions et quels engagements sont mobilisés ?
 
-Toute métathéorie vouée à l'analyse et à la critique des régimes sémantiques s'expose à une contradiction performative fondamentale. Si elle affirme que toute description est située, qu'elle émerge d'un couplage corporel et technique avec l'environnement, et qu'elle tire sa validité de critères normatifs immanents à un collectif, elle doit justifier la validité de sa propre position critique. Faute de quoi, elle s'attribue implicitement une immunité magique, se posant comme un regard désincarné de nulle part (l'illusion de surplomb) capable de juger souverainement les autres pratiques sans s'exposer à leurs épreuves.
+Reconstituer les distinctions sur lesquelles repose l’élément examiné et déterminer les conclusions qu’il autorise.
 
-Or, si elle applique purement et simplement ses propres règles à elle-même de manière spéculative, elle risque d'être emportée par la régression à l'infini (l'audit de l'audit de l'audit) ou de se dissoudre dans un formalisme autoréférentiel stérile qui l'isole des terrains d'enquête réels.
+Il faut notamment vérifier :
 
-Dès lors, la question s'impose à la métathéorie :
+- si les termes centraux sont employés de manière suffisamment stable ;
+- si des notions voisines remplissent réellement des fonctions distinctes ;
+- si les dépendances entre plusieurs dimensions sont distinguées de leur éventuelle conversion ;
+- si les conclusions restent compatibles avec les distinctions établies ailleurs dans le projet ;
+- si la formulation engage Protokin au-delà de ce que le problème examiné exige.
 
-Comment concevoir et exécuter l'application récursive des outils de Protokin à sa propre structure théorique, de telle sorte que cette opération ne paralyse pas l'enquête dans un abîme logique sans fin, mais serve de méthode concrète d'auto-correction et d'auto-limitation des concepts ?
+Une difficulté peut ainsi provenir d’une définition insuffisante, mais aussi d’une relation mal précisée entre plusieurs notions ou d’une conséquence introduite sans justification.
 
-Protokin résout ce problème en posant que l'auto-application n'est pas un exercice spéculatif abstrait, mais une opération d'enquête sous contraintes pratiques. Protokin traite sa propre documentation et ses énoncés non comme des vérités transcendantales, mais comme une configuration descriptive sédimentée ordinaire. L'auto-application met en œuvre la récursivité en retraçant comment Protokin découpe le dicible, quels supports matériels il mobilise, quelles dettes d'inférence il contracte, et comment il s'expose au contre-audit des communautés de premier ordre.
+La cohérence avec les autres pages est un élément de contrôle, non une preuve suffisante de correction. Plusieurs pages peuvent reprendre la même erreur ou partager une distinction inadéquate.
 
----
+### 4.4. Quelles épreuves permettraient de préciser le diagnostic ?
 
-Définition fonctionnelle
+Mettre les distinctions et les affirmations examinées à l’épreuve des éléments disponibles.
 
-Dans l'architecture de Protokin, on appelle auto-application :
+Selon le problème, l’examen peut mobiliser :
 
-La procédure d'enquête récursive de second ordre par laquelle Protokin prend pour objet d'analyse sa propre architecture conceptuelle et documentaire, en y appliquant systématiquement son gabarit d'opérations et ses diagnostics cliniques, afin d'expliciter le caractère situé, révisable et non-hégémonique de ses propres catégories de justification.
+- la comparaison de plusieurs pages ;
+- la substitution d’un terme par un autre pour repérer les différences de conséquence ;
+- l’examen d’un cas où la distinction devrait produire un résultat identifiable ;
+- la recherche d’un contre-exemple ou d’une situation qui résiste à l’analyse ;
+- la vérification d’un renvoi ou d’une affirmation documentaire ;
+- la confrontation de la conclusion proposée avec les engagements qu’elle suppose.
 
-Cette définition implique plusieurs propriétés opératoires :
+Il ne s’agit pas d’appliquer systématiquement tous ces instruments. Le choix dépend de la difficulté : une erreur de chemin appelle une vérification documentaire ; une ambiguïté conceptuelle peut exiger une comparaison des usages ; une affirmation méthodologique peut demander un cas permettant d’examiner ses résultats.
 
-· Un traitement symétrique de la métathéorie : Protokin ne se situe pas « au-dessus » de la mêlée sémantique. L'auto-application le traite comme une pratique discursive située et instrumentée, dotée de son propre vocabulaire technique et de ses propres rituels de validation entre pairs.
-· La traçabilité des engagements métathéoriques : Elle exige de cartographier de manière rigoureuse les dettes logiques et les obligations de justification que Protokin contracte en formulant ses concepts (par exemple, ses emprunts à Sellars, Brandom ou Simondon).
-· Un moteur d'auto-correction : Elle sert de méthode concrète pour lever les rigidités de l'armature théorique (effet cliquet interne) lorsque celle-ci s'avère inadaptée face aux résistances d'un terrain ou à l'émergence d'anomalies cliniques.
+Une épreuve qui ne permet pas de trancher doit être signalée comme telle. Elle ne doit pas être interprétée comme une confirmation par défaut.
 
----
+### 4.5. Quelle décision l’examen autorise-t-il ?
 
-Le protocole d'auto-application en cinq étapes d'enquête
+Le diagnostic doit déboucher sur une décision proportionnée aux éléments recueillis.
 
-L'auto-application ne s'exécute pas de manière anarchique. L'enquêteur Protokin applique un protocole d'auto-examen opératoire rigoureux structuré en cet enchaînement fonctionnel :
+Plusieurs issues sont possibles :
 
-```
-                     SÉQUENCE DE L'AUTO-APPLICATION
-                                   │
-                                   ▼
-        Étape 1 : Saisie d'une catégorie protokinienne (ex: "Régime")
-                                   │
-                                   ▼
-        Étape 2 : Explicitation des supports matériels et textuels
-                                   │
-                                   ▼
-        Étape 3 : Cartographie du réseau inférentiel et des dettes
-                                   │
-                                   ▼
-        Étape 4 : Exécution des diagnostics d'audit (Vigilance)
-                                   │
-                                   ▼
-        Étape 5 : Exposition au contre-audit et révision réglée
-```
+- **Conserver** lorsque la fonction de la ressource est distincte et que les difficultés relevées ne justifient pas sa modification.
+- **Préciser** lorsque la distinction est utile, mais que sa formulation ou ses conditions d’application restent ambiguës.
+- **Réviser** lorsque le contenu, les exemples ou les conclusions ne remplissent pas correctement la fonction annoncée.
+- **Fusionner ou supprimer** lorsque plusieurs ressources remplissent essentiellement la même fonction et que leur séparation n’apporte pas de différence identifiable.
+- **Laisser ouvert** lorsque les matériaux disponibles ne permettent pas de trancher.
 
-Étape 1 : Saisie de la catégorie et isolation de l'énoncé
+La décision doit préciser ce qui la motive, les éléments sur lesquels elle repose et les conséquences qu’elle entraîne pour les pages liées.
 
-L'enquêteur sélectionne un concept de l'architecture Protokin (par exemple, la catégorie de « Régime descriptif » ou d'« Erreur de catégorie ») ou un énoncé d'une page de documentation. Il suspend sa prétention à l'universalité pour le traiter comme une qualification située.
+Une révision locale peut nécessiter une vérification des renvois ou du vocabulaire dans le reste du corpus. Elle ne justifie pas pour autant une réécriture générale si le problème reste circonscrit.
 
-Étape 2 : Explicitation des supports matériels, sémiotiques et collectifs
+## 5. Interpréter les résultats sans surévaluer leur portée
 
-L'auditeur recherche sur quelles infrastructures matérielles repose la viabilité de cette catégorie.
+L’auto-application peut révéler une incohérence, une distinction insuffisante, un engagement non explicité ou une limite documentaire. Elle peut aussi montrer qu’une difficulté apparente résulte d’une différence de fonction légitime entre deux pages.
 
-· Opération : Identifier les supports externes (fichiers markdown, répertoires GitHub, documents de référence, schémas mermaid), les supports incorporés (l'apprentissage universitaire de l'auditeur, ses compétences de lecture critique), et les supports institutionnels (colloques, rituels d'évaluation par les pairs, chartes de rédaction) qui maintiennent et stabilisent l'usage de ce concept.
+Ses résultats doivent être interprétés en fonction de l’examen effectivement réalisé.
 
-Étape 3 : Cartographie du réseau inférentiel et traçage des dettes
+**Une cohérence interne ne garantit pas l’adéquation.** Des pages peuvent être compatibles entre elles tout en reposant sur une distinction inadéquate ou sur une affirmation insuffisamment étayée.
 
-L'auditeur explicite les conséquences logiques induites par l'usage de ce concept et retrace ses filiations théoriques.
+**Une contradiction locale n’invalide pas nécessairement le projet.** Elle peut exiger la révision d’une formulation, d’une notion ou d’un ensemble limité de pages. Sa portée doit être déterminée par l’examen.
 
-· Opération : Lister les inférences autorisées par la catégorie et les incompatibilités qu'elle impose. Identifier précisément ses dettes philosophiques : par exemple, comment l'usage de la distinction « Causes/Raisons » lie Protokin aux contraintes logiques de l'espace d'explicitation de Wilfrid Sellars, ou comment la notion d'« Invariant relationnel » hérite de la cybernétique de second ordre de Heinz von Foerster.
+**Une difficulté identifiée ne commande pas automatiquement une nouvelle notion.** Avant d’ajouter une catégorie ou une page, il faut déterminer si les ressources existantes peuvent traiter le problème après clarification ou révision.
 
-Étape 4 : Exécution des diagnostics d'audit (Application des critères de vigilance)
+**Une révision ne constitue pas en elle-même une amélioration.** Il faut pouvoir préciser ce qu’elle corrige, ce qu’elle préserve et ce qu’elle permet désormais d’examiner.
 
-L'auditeur applique la grille des pathologies d'altération descriptive au concept de Protokin pour déceler ses propres dérives.
+**L’absence de contradiction repérée ne prouve pas l’absence de difficulté.** Le résultat dépend du périmètre retenu, des matériaux consultés et des épreuves effectivement conduites.
 
-· Question d'audit : La métathéorie est-elle en train de commettre une erreur de catégorie en substantialisant ses propres outils ? Par exemple, traiter la « configuration rencontrée » comme s'il s'agissait d'une réalité primitive physique cachée sous les descriptions (ontologisation), ou traiter la catégorie métathéorique « dangerosité » comme une essence absolue, violerait le principe d'humilité épistémique.
+L’auto-application ne transforme donc pas la cohérence du corpus en critère ultime de validité. Elle rend les engagements et les limites de Protokin plus explicites afin qu’ils puissent être discutés et éprouvés.
 
-Étape 5 : Exposition au contre-audit et révision réglée
+## 6. Conditions d’arrêt et reprise de l’examen
 
-La formulation de l'auto-application est partagée et soumise à l'évaluation des communautés d'enquête et des praticiens de premier ordre audités.
+Un examen peut être suspendu lorsque la difficulté initiale a reçu une réponse suffisamment étayée pour permettre la décision envisagée.
 
-· Opération : Tester la robustesse des concepts en acceptant que le clinicien, l'urgentiste ou le botaniste conteste la pertinence des découpages de second ordre proposés par l'audit. Si l'anomalie est validée, l'auto-application enclenche la réorganisation et la révision réglée du lexique et des critères de Protokin.
+Cette suspension est provisoire. Elle signifie que les éléments disponibles permettent d’avancer sans poursuivre immédiatement l’examen ; elle ne signifie pas que toute objection possible a été levée.
 
----
+L’examen doit être repris si une nouvelle difficulté apparaît, si une conséquence non anticipée est mise en évidence ou si une application ultérieure montre que la distinction retenue ne permet pas de traiter le problème.
 
-Distinctions conceptuelles nécessaires
+Cette possibilité de reprise ne commande pas une vérification permanente de chaque énoncé. L’exigence est plus limitée : ne pas maintenir une formulation ou une méthode uniquement parce qu’elle appartient déjà au corpus, et ne pas engager une révision sans motif identifiable.
 
-Auto-application et Spéculation autoréférentielle
+L’arrêt pragmatique détermine ainsi la poursuite du travail au regard du problème rencontré. Il ne constitue ni une justification ultime ni une garantie de validité.
 
-La différence porte sur la finalité pratique de l'opération. La spéculation autoréférentielle s'enferme dans un jeu de miroir linguistique abstrait visant à contempler ou à justifier de manière circulaire l'excellence formelle de la théorie (la régression paralysante). L'auto-application est une opération d'enquête immanente sous contraintes de terrain : elle s'arrête dès que les concepts redeviennent opérationnels, que la coordination collective de l'audit est restaurée et que le trouble d'une situation de premier ordre est résolu.
+## 7. Ce que l’auto-application établit et n’établit pas
 
-Auto-application et Contre-audit
+L’auto-application permet d’établir, dans les limites de l’examen conduit, si une ressource remplit la fonction annoncée, quelles distinctions elle mobilise, quelles difficultés ont été repérées et quelles révisions sont justifiées par les éléments disponibles.
 
-La différence s'établit au niveau de l'origine de la critique. L'auto-application est une procédure récursive interne où la métathéorie applique ses propres règles de contrôle à ses concepts (l'auto-diagnostic). Le contre-audit est une exigence de symétrie externe qui consiste à exposer les résultats de l'audit protokinien à l'évaluation et aux objections de la communauté auditée de premier ordre (par exemple, soumettre l'audit d'une pratique clinique à la contestation directe des médecins). L'auto-application est le contrôle que Protokin s'applique ; le contre-audit est le contrôle qu'il accepte de subir de l'extérieur.
+Elle peut également rendre visibles les limites d’une analyse et les questions qui restent indéterminées.
 
-Auto-application et Réfutation théorique
+Elle n’établit pas à elle seule :
 
-La réfutation théorique vise à détruire la validité d'un énoncé en le déclarant faux de manière externe et absolue. L'auto-application ne réfute pas Protokin : elle en délimite le domaine d'emprise pragmatique et en cartographie les limites d'intelligibilité, renforçant sa puissance d'élucidation par l'explicitation de ses propres conditions de sédimentation.
+- la validité générale de Protokin ;
+- l’adéquation de toutes ses descriptions à ce qu’elles prétendent décrire ;
+- l’absence de contradictions dans l’ensemble du corpus ;
+- la supériorité de ses catégories sur celles des pratiques examinées ;
+- la nécessité de réviser toute ressource dès qu’une difficulté est signalée ;
+- la résolution d’un désaccord par le seul fait qu’il a été explicité.
 
----
+L’auto-application ne confère donc à Protokin aucun privilège de validation. Ses résultats restent dépendants des matériaux examinés, des critères mobilisés et de la portée des conclusions proposées.
 
-Éclairage par les fils rouges pédagogiques
+## 8. Articulation avec le reste du projet
 
-Le fonctionnement clinique de l'auto-application se manifeste directement à travers les situations de référence de Protokin :
+L’auto-application mobilise les ressources de Protokin sans les remplacer.
 
-1. « Le vélo est rouge »
+- [Architecture du projet](fr/architecture-projet.md) permet de situer la fonction d’une page dans le corpus.
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) décrit les opérations mobilisables pour examiner une difficulté.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) distingue les rapports sous lesquels la situation examinée peut être étudiée.
+- [Réflexivité](fr/reflexivite.md) expose l’exigence générale d’appliquer à Protokin les exigences d’examen qu’il mobilise.
+- [Conduire une enquête](fr/conduire-une-enquete.md) donne des repères pour organiser l’examen d’une difficulté.
+- [Table des matières](fr/tdm.md) permet de retrouver les ressources du corpus et leurs fonctions.
 
-· L'application ordinaire : Protokin montre que la rougeur n'est pas une substance absolue mais une qualification relationnelle issue d'un couplage situé.
-· L'auto-application : L'auditeur applique ce constat à Protokin lui-même. Dire « Le vélo est rouge est une prédication de l'image manifeste » constitue également une description produite au sein de la métathéorie. Cette affirmation n'est pas une vérité absolue tombée du ciel : elle dépend du lexique Protokin, de sa sédimentation textuelle et des engagements d'explicitation du second ordre. L'auditeur n'a pas accès au "vrai" vélo ; il propose une description située et révisable de la pratique descriptive ordinaire du vélo.
+Ces relations ne définissent pas une succession obligatoire. Le choix des ressources dépend de l’objet de l’examen et des difficultés rencontrées.
 
-2. Le patient aux urgences hospitalières
+## 9. Synthèse
 
-· L'application ordinaire : L'audit protokinien analyse et cartographie les tensions entre le régime clinique des soignants et le régime comptable de l'administration.
-· L'auto-application : L'auditeur doit reconnaître que sa propre reconstruction du cas n'est pas neutre. L'audit n'est pas un miroir transparent de l'hôpital : il utilise des instruments de second ordre (la grille d'audit, les échelles collectives) qui sélectionnent certains aspects et laissent dans l'ombre d'autres dimensions de la souffrance des patients. L'auditeur assume la responsabilité déontique de ses découpages et s'expose au contre-audit des urgentistes hospitaliers qui peuvent contester sa cartographie des flux de raisons.
+L’auto-application consiste à examiner les ressources de Protokin à partir de leurs fonctions, de leurs engagements et des épreuves auxquelles leurs affirmations peuvent être soumises.
 
-3. La déconstruction de « Cette personne est mauvaise »
+Elle ne vise pas à confirmer le projet ni à le soumettre à une procédure uniforme. Elle permet de déterminer ce qui doit être conservé, précisé, révisé ou laissé ouvert, en proportion du problème rencontré et des éléments disponibles.
 
-· L'application ordinaire : Protokin dénonce l'erreur de catégorie qui fige un comportement local de premier ordre sous une essence morale immuable (« elle est mauvaise par nature »).
-· L'auto-application : L'auditeur doit appliquer cette vigilance à ses propres concepts. Traiter la notion de « dangerosité » ou d'« erreur de catégorie » comme s'il s'agissait d'une étiquette définitive ou d'une propriété intrinsèque de la réalité physique (PROTO) violerait le principe d'humilité épistémique. Protokin rappelle que ses concepts sont des instruments d'enquête plastiques et révisables, et non une nouvelle ontologie des essences descriptives qui remplacerait les essences morales.
-
----
-
-Limites et pathologies de l'auto-application : les pièges d'audit
-
-Lors de l'exécution de cette procédure récursive, l'enquêteur doit surveiller trois dérives méthodologiques majeures :
-
-· Le piège de l'abîme paralysant (La régression infinie) : Transformer l'auto-application en une boucle sans fin d'auto-justifications conceptuelles (l'audit de l'audit de l'audit) qui suspend indéfiniment la capacité de la métathéorie à mener des enquêtes de premier ordre. La clause d'arrêt de Protokin est pragmatique : l'auto-application se suspend dès que le trouble conceptuel initial est résolu et que la coordination des pratiques est restaurée.
-· La dérive du fétichisme de l'auto-flagellation (Le scepticisme d'auto-dissolution) : Interpréter le principe de révisabilité permanente et d'humilité épistémique comme un relativisme lâche où tous les concepts se vaudraient et où Protokin n'aurait aucune puissance descriptive à proposer aux collectifs. L'auto-application ne détruit pas Protokin ; elle valide sa rigueur en délimitant de manière de premier ordre ses conditions de validité.
-· Le biais du formalisme bureaucratique : Réduire l'auto-application à une simple case à cocher ou à l'application mécanique d'un formulaire administratif, en perdant de vue que cette procédure est une enquête située qui doit réagir à de réelles anomalies logiques éprouvées sur les terrains d'audit.
-
----
-
-Synthèse finale
-
-Ce que cette page établit
-
-L'opération d'auto-application en tant que protocole méthodologique récursif de second ordre (section 09 — Réflexivité), formalisant sa séquence opératoire en cinq étapes d'enquête, ses distinctions conceptuelles critiques, et ses critères de vigilance d'audit appliqués à l'architecture Protokin elle-même.
-
-Ce qu'elle suppose
-
-Le principe de réflexivité, le principe d'humilité épistémique, l'ensemble de l'architecture fonctionnelle, et l'armature des diagnostics d'audit (réductions, confusions, erreurs de catégorie).
-
-Ce qu'elle rend possible
-
-Le diagnostic clinique des pathologies internes de la métathéorie, la délimitation rigoureuse des limites de Protokin, la réorganisation dynamique de ses catégories, et la conduite de contre-audits transparents avec les communautés de premier ordre.
-
-Séquence opératoire établie
-
-Saisie d'un concept → Identification des supports d'inscription → Traçage des dettes d'inférence → Exécution des diagnostics d'audit → Exposition au contre-audit et révision
-
----
-
-Protokin 2026 — version 26.08.081
+La cohérence de Protokin ne dispense pas ses distinctions d’être examinées ; leur examen ne garantit pas non plus leur validité.
