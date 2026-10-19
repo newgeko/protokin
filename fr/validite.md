@@ -1,280 +1,172 @@
-Validité — Évaluer et réviser une description
+# Validité — Évaluer une description
 
-Fonction
+## Fonction
 
-Définir la validité descriptive dans l’architecture de Protokin comme le statut provisoire d’une description dont la production et les conséquences satisfont aux exigences de justification pertinentes dans une situation d’enquête déterminée.
+Cette page précise à quelles conditions une description peut être tenue pour valide dans une situation d’enquête déterminée, ce que ce jugement permet d’établir et dans quelles conditions il doit être révisé.
 
-La page distingue la validité d’une description, les critères qui permettent de l’évaluer et les opérations par lesquelles ces critères peuvent eux-mêmes être contestés ou révisés.
+La validité descriptive désigne un statut évaluatif relatif à une prétention déterminée. Elle dépend des exigences pertinentes pour examiner cette prétention, sans se réduire à la conformité aux règles d’un régime descriptif ni à l’acceptation de la description par une communauté.
 
-Problème
+## Problème
 
-Une description peut être cohérente, recevable et conforme aux usages d’un régime descriptif sans être pour autant adéquate à ce qu’elle prétend décrire.
+Une description peut être cohérente, admise dans une pratique et conforme aux critères qui y sont employés sans que son adéquation à ce qu’elle prétend décrire soit établie.
 
-Inversement, une différence observée ou une résistance matérielle ne suffit pas, à elle seule, à déterminer la description qu’il convient de retenir. Il faut encore identifier ce qui est décrit, préciser les distinctions mobilisées et examiner les raisons qui autorisent une conclusion.
+Inversement, constater une différence ou rencontrer une résistance matérielle ne suffit pas à déterminer quelle description doit être retenue. Il faut encore préciser ce qui est affirmé, examiner les éléments disponibles et déterminer ce qu’ils autorisent à conclure.
 
-Le problème de la validité ne se réduit donc ni à la correspondance supposée entre un énoncé et un réel immédiatement accessible, ni à l’acceptation d’une description par une communauté.
+Le problème de la validité consiste donc à examiner une description au regard de sa prétention, des exigences pertinentes pour l’évaluer et des objections susceptibles de la mettre en difficulté.
 
-Il consiste à déterminer :
+Il faut également pouvoir examiner les critères eux-mêmes : leur application peut être correcte alors que leur pertinence pour le problème est contestable.
 
-- selon quels critères une description peut être tenue pour correcte ;
-- ce que ces critères permettent effectivement d’établir ;
-- quelles conditions et quelles relations doivent être prises en compte ;
-- comment une description peut être contestée au regard de ses conséquences, de ses limites ou de descriptions concurrentes ;
-- dans quelles conditions les critères eux-mêmes doivent être révisés.
+## Définition
 
-La difficulté centrale est de reconnaître le rôle des normes descriptives sans faire de leur acceptation la garantie de leur adéquation.
+Dans Protokin, la **validité descriptive** désigne le statut révisable d’une description tenue pour défendable au regard de sa prétention, des éléments disponibles et des exigences pertinentes pour l’évaluer.
 
-Définition
+Ce statut n’est pas une propriété intrinsèque d’un énoncé isolé. Il dépend de ce qui est affirmé, de la portée de cette affirmation et des conditions dans lesquelles elle est examinée.
 
-On appelle validité descriptive le statut révisable d’une description qui satisfait, dans une situation d’enquête déterminée, aux exigences pertinentes de qualification, de justification et d’évaluation propres au régime descriptif mobilisé, compte tenu de ce que la description prétend établir.
+Une description peut ainsi être tenue pour valide relativement à une question déterminée sans que toutes les conclusions qu’on pourrait en tirer soient également établies. Son évaluation ne dispense pas d’examiner les prémisses, les critères et les conséquences mobilisés.
 
-La validité est un statut normatif : elle indique qu’une description est autorisée à être retenue, réutilisée ou défendue au regard de critères déterminés.
+La validité est donc située, mais non soustraite à la critique. Les exigences employées pour évaluer une description peuvent elles-mêmes devenir l’objet de l’enquête.
 
-Elle n’est ni une propriété intrinsèque d’un énoncé isolé, ni le simple constat qu’une communauté l’accepte.
+## Distinctions nécessaires
 
-Elle met en relation :
+### Validité et recevabilité
 
-- une description, avec le contenu et la portée qui lui sont attribués ;
-- un régime descriptif, avec ses catégories, ses usages et ses critères ;
-- des procédures d’évaluation, qui permettent de justifier, de contester ou de réviser la description ;
-- ce que la description prétend établir, qui ne se confond ni avec les critères mobilisés ni avec l’acceptation collective de son contenu.
+La recevabilité concerne la possibilité de soumettre une description à l’examen dans une pratique donnée. La validité concerne le jugement porté sur cette description au regard des exigences pertinentes.
 
-La validité dépend donc de normes déterminées, mais elle ne se réduit pas à leur application mécanique. Leur pertinence et leur portée peuvent elles-mêmes devenir des objets d’enquête.
+Une description peut être recevable parce qu’elle peut être discutée, sans satisfaire aux exigences nécessaires pour être tenue pour valide.
 
-1. Validité, recevabilité et acceptation
+**Recevabilité ≠ validité.**
 
-Recevabilité
+### Validité et justification
 
-La recevabilité désigne la possibilité de soumettre une description à une évaluation dans un régime donné.
+La justification consiste à examiner les raisons, les critères, les observations et les inférences mobilisés pour défendre ou contester une prise de position. La validité désigne le statut évaluatif que cet examen peut soutenir.
 
-Une description recevable peut être examinée, discutée ou contestée. Cela ne signifie pas qu’elle satisfait déjà aux exigences de correction du régime.
+Une justification proposée ne garantit donc pas que la description soit valide. Ses raisons peuvent être insuffisantes, ses critères inadaptés ou ses prémisses contestables. Inversement, un jugement de validité doit pouvoir être défendu lorsque les exigences de la pratique le demandent.
 
-Recevabilité ≠ validité.
+**Justification proposée ≠ validité établie.**
 
-Acceptation collective
+Voir [Justification](fr/justification.md).
 
-Une description peut être admise, enseignée, répétée ou institutionnellement reconnue sans que son adéquation soit établie.
+### Validité et adéquation descriptive
 
-L’acceptation collective peut contribuer à la stabilisation d’une description et à sa transmission. Elle ne garantit pas, à elle seule, sa validité.
+La validité et l’adéquation sont liées, mais ne sont pas interchangeables.
 
-Acceptation ≠ justification.
+L’évaluation de la validité porte sur ce que la description prétend établir et sur les exigences permettant d’examiner cette prétention. L’adéquation concerne la manière dont la description rend compte de ce qu’elle prétend décrire, dans les limites de sa portée.
 
-Validité
+La conformité aux critères d’un régime ne garantit pas à elle seule l’adéquation. Les critères peuvent être incomplets, mal appliqués ou insuffisants pour traiter une différence pertinente.
 
-Une description est valide lorsque les exigences pertinentes ont été satisfaites au regard de ce qu’elle prétend établir et des objections qui peuvent légitimement lui être opposées.
+Il ne s’ensuit pas que la validité soit une simple conformité interne, indépendante de ce qui est décrit. La prétention de la description, les éléments sur lesquels elle s’appuie et les limites de son application restent déterminants pour l’évaluation.
 
-Cette évaluation demeure située : les critères ne sont pas identiques dans une pratique taxonomique, une enquête clinique, une mesure industrielle ou une procédure juridique.
+**Cohérence ≠ adéquation.**  
+**Conformité aux critères ≠ garantie d’adéquation.**
 
-Mais leur caractère situé ne les soustrait pas à la critique.
+### Validité descriptive et validité inférentielle
 
-2. Les critères de validité
+La validité inférentielle concerne la correction d’un passage entre des prémisses et une conclusion au regard des règles ou des relations d’inférence pertinentes.
 
-Les critères sont les exigences au moyen desquelles une description peut être évaluée. Leur nature et leur poids dépendent de la fonction de la description et du régime dans lequel elle intervient.
+La validité descriptive porte sur l’évaluation d’une description dans son ensemble, compte tenu notamment de ce qu’elle affirme, des éléments qui la soutiennent et des exigences applicables.
 
-Ils peuvent notamment concerner :
+Une conclusion peut découler correctement de prémisses sans que celles-ci soient suffisamment établies ou adéquates à la situation. La correction du raisonnement ne garantit donc pas, à elle seule, la validité de la description.
 
-- La qualification : les distinctions et les catégories employées sont-elles appropriées à la tâche descriptive ?
-- La justification : les raisons avancées autorisent-elles effectivement la conclusion ?
-- Les conséquences inférentielles : la description reste-t-elle compatible avec les engagements qu’elle entraîne ?
-- Les procédures d’épreuve : les observations, les mesures ou les opérations invoquées ont-elles été produites selon des procédures adaptées ?
-- La révisabilité : la description peut-elle répondre aux objections, aux contre-exemples et aux résultats qui la mettent en difficulté ?
+**Validité inférentielle ≠ validité descriptive.**
 
-Tous ces critères ne sont pas requis de la même manière dans chaque situation. Leur pertinence doit être établie en fonction de ce qui est évalué.
+Voir [Inférence](fr/inference.md).
 
-Un critère ne devient pas pertinent du seul fait qu’un régime l’utilise. Il faut pouvoir préciser ce qu’il permet de contrôler et les limites de ce contrôle.
+### Validité et stabilisation
 
-3. Validité et adéquation descriptive
+Une description peut être durablement reprise, transmise ou institutionnalisée sans que sa validité soit définitivement établie. La stabilisation contribue à expliquer son maintien dans une pratique ; elle ne garantit pas sa correction.
 
-La validité descriptive et l’adéquation ne doivent pas être confondues.
+Inversement, une description tenue pour valide peut être contestée ou révisée lorsque de nouveaux éléments apparaissent, que ses limites sont mieux identifiées ou que les critères employés sont remis en question.
 
-La validité concerne le statut normatif d’une description au regard des exigences d’évaluation mobilisées.
+**Stabilisation ≠ validité.**
 
-L’adéquation concerne la capacité de cette description à rendre compte de ce qu’elle prétend décrire, dans les limites de sa portée.
+Voir [Stabilisation](fr/stabilisation.md).
 
-Une description peut satisfaire aux règles d’un régime sans que cela suffise à établir son adéquation. Les critères peuvent être incomplets, mal adaptés à la situation ou incapables de prendre en compte une différence pertinente.
+## Examiner un jugement de validité
 
-Inversement, une difficulté rencontrée dans la pratique ne détermine pas immédiatement quelle description doit la résoudre. Elle déclenche un travail de distinction, d’interprétation, de comparaison et de justification.
+L’évaluation d’une description peut être orientée par les questions suivantes :
 
-Il faut donc maintenir les distinctions suivantes :
+1. **Quelle est la prétention examinée ?** Préciser ce que la description affirme et la portée qu’elle revendique.
+2. **Quels éléments la soutiennent ?** Identifier les observations, les données, les traces, les témoignages ou les autres ressources effectivement mobilisés.
+3. **Quelles exigences s’appliquent ?** Déterminer les critères pertinents au regard de la question et de la fonction de la description.
+4. **Que permettent-ils de conclure ?** Distinguer ce qui est établi, ce qui est seulement rendu plausible et ce qui demeure indéterminé.
+5. **Quelles objections sont pertinentes ?** Examiner les contre-exemples, les incompatibilités, les limites d’application et les éléments susceptibles de fragiliser la conclusion.
+6. **Qu’est-ce qui doit être révisé ?** Déterminer si la difficulté porte sur la description, les éléments mobilisés, l’application d’un critère ou la pertinence du critère lui-même.
 
-- "Cohérence ≠ adéquation"
-- "Conformité aux critères ≠ garantie d'adéquation"
-- "Résistance matérielle ≠ justification complète"
-- "Description ≠ configuration décrite"
+Ces questions constituent des repères d’examen, non une procédure obligatoire. Elles peuvent conduire à maintenir une description, à en limiter la portée, à la corriger ou à reprendre les critères utilisés.
 
-La configuration à laquelle une description se rapporte ne se réduit pas à la description qui en est produite. Une enquête peut modifier les catégories, les critères et les conclusions sans que cette révision constitue pour autant la configuration décrite.
+La révision d’une conclusion ne suffit pas à invalider automatiquement le critère qui l’a produite. Réciproquement, constater qu’un critère est insuffisant ne détermine pas, à lui seul, celui qui devrait le remplacer.
 
-La validité n’établit donc pas, à elle seule, une correspondance définitive entre une description et son référent.
+Pour approfondir le rôle des exigences d’évaluation, voir [Critère](fr/critere.md).
 
-4. La validité dans la quadripartition
+## Exemple : qualifier un arbre de dangereux
 
-La quadripartition permet de distinguer les questions que l’évaluation d’une description doit articuler.
+Une personne affirme qu’un arbre est dangereux parce qu’une fissure est visible dans son tronc.
 
-Condition
+La fissure peut justifier un examen supplémentaire. Elle ne suffit pas nécessairement à établir que l’arbre présente un risque déterminé, ni que son abattage constitue la réponse appropriée.
 
-Quelles conditions matérielles, corporelles, techniques ou environnementales interviennent dans la production de la description et dans les possibilités de l’éprouver ?
+Il faut distinguer plusieurs prétentions :
 
-L’examen des conditions peut révéler une erreur, une limitation ou une dépendance. Il ne fournit pas automatiquement la justification d’une conclusion.
+- la présence d’une fissure ;
+- l’existence d’un risque pour les personnes ou les biens ;
+- la nécessité d’une intervention particulière.
 
-Relation
+Les éléments nécessaires à l’examen ne sont pas identiques pour ces trois affirmations. La fissure peut être directement observable, tandis que l’évaluation du risque dépend d’autres éléments concernant l’arbre, son environnement et les conséquences envisagées. La décision d’intervenir suppose encore d’examiner les options disponibles et les exigences applicables.
 
-Quelles distinctions, catégories, dépendances et conséquences sont mobilisées par la description ?
+Une description peut donc être suffisamment étayée pour justifier une inspection sans que les conclusions plus fortes soient déjà établies.
 
-Une difficulté peut provenir d’une catégorie inadaptée, d’une relation mal établie ou d’une incompatibilité entre engagements descriptifs.
+Si une expertise ultérieure modifie l’évaluation, il faut déterminer ce qui a changé : les éléments disponibles, leur interprétation, les critères appliqués ou la conclusion elle-même.
 
-Fonction
+Cet exemple montre que la validité doit être examinée relativement à la prétention effectivement formulée. Elle ne se transmet pas automatiquement d’une affirmation limitée aux conclusions plus exigeantes qu’on voudrait en tirer.
 
-Que permet de faire la description dans la pratique considérée ?
+## Limites et non-conversions
 
-Identifier, mesurer, classer, diagnostiquer ou décider ne sont pas des opérations équivalentes. Une description efficace pour une tâche peut être insuffisante pour une autre.
+Un jugement de validité ne garantit ni une description définitive ni une connaissance exhaustive de ce qui est décrit. Il indique ce que l’examen permet de tenir pour défendable dans des conditions déterminées, sous réserve des objections et des révisions possibles.
 
-Justification
+Il faut notamment éviter les conversions suivantes :
 
-Quelles raisons, procédures et épreuves autorisent à retenir la description ? Quelles objections peuvent lui être opposées ? Quelles exigences permettent de décider si elle doit être maintenue ou révisée ?
+- **Acceptation collective → validité** : l’adoption d’une description ne suffit pas à établir sa correction.
+- **Conformité à un régime → adéquation garantie** : les critères d’une pratique peuvent être pertinents sans être suffisants pour toutes les prétentions.
+- **Cause → justification** : expliquer la production d’une description ne suffit pas à défendre son contenu.
+- **Validité inférentielle → validité descriptive** : la correction d’un raisonnement ne garantit pas l’adéquation de ses prémisses à la situation.
+- **Stabilisation → correction** : la persistance d’une description ne prouve pas sa validité.
+- **Validité pour une tâche → validité pour toute conclusion ultérieure** : une description défendable dans un usage déterminé ne justifie pas automatiquement ses autres usages.
+- **Révision → arbitraire** : la possibilité de réviser un jugement ne signifie pas que tous les jugements se valent.
 
-La justification ne constitue pas un registre indépendant des autres. Elle examine les descriptions en tenant compte de leurs conditions, de leurs relations et de leurs fonctions, sans se réduire à aucune d’elles.
+Ces distinctions ne rendent pas les exigences d’évaluation indépendantes des pratiques dans lesquelles elles sont employées. Elles permettent d’examiner leurs fonctions, leurs limites et les raisons pour lesquelles elles peuvent être maintenues ou révisées.
 
-La quadripartition organise ainsi l’enquête sur la validité ; elle ne constitue pas une procédure automatique qui garantirait une conclusion correcte.
+## Place dans l’enquête de Protokin
 
-5. La révision des critères
+La validité devient un enjeu lorsque l’enquête doit déterminer si une description peut être maintenue, réutilisée ou défendue au regard de ce qu’elle prétend établir.
 
-Les critères d’un régime descriptif ne sont ni arbitraires par définition, ni soustraits à l’examen parce qu’ils sont établis et partagés.
+Son examen peut mobiliser les quatre orientations de la quadripartition :
 
-Ils peuvent être mis à l’épreuve lorsque leur application produit des difficultés persistantes, lorsqu’ils échouent à distinguer des cas pertinents ou lorsqu’ils entrent en conflit avec d’autres exigences que l’enquête a des raisons de prendre en compte.
+- **Condition** : examiner les conditions et les contraintes pertinentes pour produire ou éprouver la description ;
+- **Relation** : examiner les distinctions, les dépendances et les conséquences mobilisées ;
+- **Fonction** : préciser ce que la description permet d’accomplir dans la pratique considérée ;
+- **Justification** : examiner les raisons et les critères qui permettent de la défendre ou de la contester.
 
-La révision peut porter sur plusieurs éléments :
+Ces orientations différencient les questions à examiner ; elles ne constituent ni quatre composantes du réel ni des étapes obligatoires conduisant à la validité.
 
-- une description particulière ;
-- la qualification d’un cas ;
-- une règle d’inférence ;
-- une procédure de mesure ou d’observation ;
-- un critère de correction ;
-- les limites d’application du régime ;
-- les relations entre plusieurs régimes descriptifs.
+Dans la chaîne d’enquête, l’examen de la validité peut conduire à reprendre une opération antérieure, à rechercher de nouveaux éléments, à modifier une distinction ou à redélimiter le problème. Il ne constitue pas une étape terminale garantissant le résultat de l’enquête.
 
-Il importe de distinguer la contestation d’une conclusion de celle du critère qui a servi à la produire. Rejeter une conclusion ne suffit pas à invalider le critère ; constater l’insuffisance d’un critère ne détermine pas non plus automatiquement celui qui doit le remplacer.
+Voir [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) et [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md).
 
-La révision demande de reconstruire le problème : quelle différence n’a pas été prise en compte, quelle distinction s’est révélée insuffisante et quelles conséquences entraîne le maintien de la description initiale ?
+## Synthèse
 
-Un régime descriptif peut ainsi être soumis à une enquête sur ses propres critères, sans qu’il soit nécessaire de supposer l’existence d’un point de vue universel dispensé de toute justification.
+La validité descriptive désigne le statut révisable d’une description tenue pour défendable au regard de sa prétention, des éléments disponibles et des exigences pertinentes pour l’évaluer.
 
-6. Comparaison des régimes descriptifs
+Elle ne se réduit ni à la recevabilité, ni à la justification proposée, ni à la correction inférentielle, ni à l’acceptation collective ou à la stabilisation d’une description. Elle ne garantit pas davantage l’adéquation de toutes les conclusions que l’on voudrait en tirer.
 
-Des régimes différents peuvent produire des descriptions du même référent sans accomplir la même fonction ni mobiliser les mêmes critères.
+La validité n’est pas indépendante des critères, mais ceux-ci ne sont pas soustraits à l’examen. Leur pertinence et leur portée peuvent être contestées lorsque la description rencontre une difficulté ou que de nouveaux éléments modifient l’évaluation.
 
-Le botaniste qui identifie un arbre selon une classification taxonomique et le bûcheron qui évalue son bois pour un usage technique ne répondent pas à la même question.
+**La validité est un jugement défendable dans des conditions déterminées, non une clôture de l’enquête.**
 
-Leurs descriptions peuvent être simultanément pertinentes. Elles ne deviennent pas pour autant interchangeables : chacune doit être évaluée selon ce qu’elle prétend établir.
+## Pour poursuivre
 
-La comparaison exige donc de préciser :
-
-- ce qui est commun aux descriptions et permet de les mettre en rapport ;
-- les fonctions respectives qu’elles remplissent ;
-- les critères propres à chaque régime ;
-- les conséquences qu’elles autorisent ;
-- les éventuelles incompatibilités entre leurs conclusions ;
-- les limites de ce qu’elles permettent d’établir.
-
-Une différence de critères n’implique pas automatiquement un conflit. Un conflit ne peut être établi qu’en précisant ce qui est incompatible, à quelles conditions et sur quel objet de comparaison.
-
-Inversement, le fait que deux régimes soient distincts ne suffit pas à les rendre incomparables. Une enquête peut examiner leurs dépendances, leurs conséquences et les conditions d’une traduction partielle entre leurs descriptions.
-
-La comparaison ne consiste donc ni à imposer systématiquement les critères d’un régime à tous les autres, ni à considérer chaque régime comme souverain dans son domaine.
-
-7. Mise à l’épreuve
-
-« Ce vélo est rouge »
-
-Dans une situation ordinaire, cette assertion peut être recevable et justifiée par l’observation.
-
-Son évaluation dépend notamment des conditions d’éclairage, des capacités perceptives, des usages du terme « rouge » et de la situation dans laquelle l’identification est effectuée.
-
-Dans une procédure industrielle de contrôle colorimétrique, la même qualification peut exiger des instruments calibrés, des conditions normalisées et des seuils de mesure déterminés.
-
-Ces situations ne mobilisent pas exactement les mêmes critères, parce qu’elles ne répondent pas nécessairement à la même question.
-
-Une description correcte dans l’usage ordinaire ne satisfait pas automatiquement toutes les exigences d’une procédure industrielle. Inversement, une mesure instrumentale ne détermine pas, sans interprétation supplémentaire, tous les usages ordinaires d’un terme de couleur.
-
-Si un désaccord apparaît, il faut préciser sa nature : différence de perception, de conditions d’observation, de seuil de mesure, d’usage du terme ou de fonction descriptive.
-
-La validité ne se décide donc ni par la seule perception, ni par la seule conformité instrumentale. Elle s’examine au regard de la prétention effectivement formulée.
-
-« Cette personne est dangereuse »
-
-Cette description peut intervenir dans une décision juridique, une évaluation clinique ou une appréciation ordinaire.
-
-Les critères applicables diffèrent selon la fonction recherchée et les conséquences attachées à la qualification. Une impression personnelle ne satisfait pas nécessairement les exigences d’une décision institutionnelle.
-
-Mais l’existence d’une procédure institutionnelle ne suffit pas non plus à garantir l’adéquation de toutes ses catégories ou de toutes ses décisions.
-
-L’enquête doit distinguer les éléments invoqués, les critères appliqués, les conséquences de la qualification et les possibilités de contestation. Elle doit également examiner si les critères employés sont appropriés à la conclusion effectivement formulée.
-
-8. Pathologies de l'évaluation
-
-Conformité circulaire
-
-Une description est tenue pour valide parce qu’elle satisfait aux critères du régime, tandis que la pertinence de ces critères est justifiée uniquement par leur usage dans ce même régime.
-
-La conformité peut alors être constatée sans que l’adéquation de la description soit suffisamment examinée.
-
-Confusion des régimes
-
-Des critères appartenant à des pratiques différentes sont combinés sans que leurs fonctions, leurs conditions d’application ou leurs relations soient précisées.
-
-L’enjeu n’est pas d’interdire tout croisement, mais d’établir ce qui autorise ce croisement.
-
-Naturalisation de la validité
-
-La réussite d’un processus causal, biologique ou technique est tenue pour une justification suffisante de la description qu’il produit.
-
-Une explication de la production ne remplace pas l’examen des raisons qui autorisent à retenir sa conclusion.
-
-Autonomie normative absolutisée
-
-Les critères d’un régime sont considérés comme suffisants par principe, sans examen de leurs conditions de mise en œuvre, de leurs limites ou de leurs conséquences.
-
-La spécificité de la justification ne dispense pas d’enquêter sur les pratiques qui la rendent possible.
-
-Confusion entre stabilisation et validité
-
-Une description est tenue pour valide parce qu’elle est durablement adoptée, institutionnalisée ou transmise.
-
-La stabilisation explique sa persistance. Elle ne suffit pas à établir sa correction.
-
-9. Place dans l’architecture de Protokin
-
-La validité intervient dans l’évaluation des productions descriptives. Elle entretient des relations avec l’assertion, les engagements descriptifs, la responsabilité normative, la recevabilité et la stabilisation, sans se confondre avec ces opérations.
-
-Une assertion peut engager son auteur sans être valide. Une description peut être recevable sans satisfaire aux critères pertinents. Une description valide peut se stabiliser, mais sa stabilisation n’est ni automatique ni irréversible.
-
-Le rapport entre ces opérations n’est donc pas une chaîne de garanties successives. La validité peut être réexaminée après la stabilisation, et la contestation d’une description stabilisée peut conduire à reprendre les étapes antérieures de l’enquête.
-
-La validité ne constitue pas non plus une clôture de l’enquête : elle désigne un statut qui autorise provisoirement la réutilisation d’une description tout en maintenant la possibilité de sa révision.
-
-Synthèse
-
-La validité descriptive désigne le statut normatif d’une description dont les prétentions ont été examinées au regard de critères pertinents, de raisons défendables et de procédures d’évaluation adaptées.
-
-Elle ne se réduit ni à l’acceptation collective, ni à la conformité formelle aux règles d’un régime, ni à l’explication causale de la production d’un énoncé.
-
-Les critères qui rendent une description évaluable sont nécessaires à l’enquête, mais ils ne sont pas intouchables. Leur pertinence, leur portée et leurs relations avec d’autres critères peuvent elles-mêmes être examinées.
-
-La validité est ainsi située sans être souverainement déterminée par le régime qui l’évalue ; normative sans être indépendante des conditions matérielles ; révisable sans être arbitraire.
-
-La cohérence d’une description ne suffit pas à établir son adéquation à ce qu’elle prétend décrire. La conformité aux critères d’un régime ne suffit pas davantage à soustraire ces critères à l’enquête.
-
-Dépendances et ouvertures
-
-Cette page mobilise :
-
-- l’assertion et les engagements descriptifs ;
-- la recevabilité et la justification ;
-- les critères et les régimes descriptifs ;
-- la quadripartition Condition / Relation / Fonction / Justification.
-
-Elle prépare :
-
-- l’analyse de la stabilisation et de l’effet cliquet ;
-- la comparaison et la traduction entre régimes descriptifs ;
-- l’audit des critères et des pathologies descriptives ;
-- l’étude des conditions dans lesquelles une description doit être maintenue, limitée ou révisée.
+- [Critère](fr/critere.md) — Préciser les exigences au regard desquelles une description ou une conclusion est évaluée.
+- [Justification](fr/justification.md) — Examiner les raisons et les critères mobilisés pour défendre ou réviser un engagement.
+- [Recevabilité](fr/recevabilite.md) — Distinguer l’admission d’une description de son évaluation.
+- [Inférence](fr/inference.md) — Examiner les relations qui autorisent, exigent ou excluent des conclusions.
+- [Norme descriptive](fr/norme-descriptive.md) — Examiner les normes qui règlent l’évaluation et la révision des descriptions.
+- [Stabilisation](fr/stabilisation.md) — Examiner le maintien relatif d’une description dans une pratique.
+- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md) — Situer l’évaluation parmi les orientations de l’enquête.
