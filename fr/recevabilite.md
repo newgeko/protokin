@@ -1,205 +1,160 @@
-# Page : recevabilite.md
+# Recevabilité — Admettre une description à l’examen
 
-# Recevabilité — Définir les conditions de recevabilité d'une description
+## Fonction
 
-| Fonction | Établir la notion de **recevabilité descriptive** dans l'architecture de Protokin en tant que statut dynamique, relationnel et révisable par lequel une proposition est admise au sein d'un régime descriptif et d'une communauté de locuteurs. |
-| :--- | :--- |
-| **Prépare** | L'analyse de la validité descriptive, de la comptabilité déontique collective (*scorekeeping*) et des procédures de diagnostic lors de l'audit des régimes. |
-| **Mobilise** | La description comme opération, le régime descriptif, les critères descriptifs, l'assertion, les engagements descriptifs et la responsabilité normative. |
-| **Permet ensuite** | Le diagnostic clinique des pathologies relationnelles (réductions, éclectismes, confusions de niveaux) et le contrôle public des prétentions à la correction. |
-| **N'établit pas** | La théorie formelle de la déduction logique, la psychologie empirique des croyances subjectives privées, ni la définition de la validité descriptive finale. |
+Cette page précise les conditions dans lesquelles une description ou une conclusion peut être admise à l’examen dans une pratique déterminée.
 
----
+La recevabilité désigne la possibilité de prendre une proposition en considération, de l’interroger et de la soumettre à une discussion ou à une évaluation. Elle ne préjuge pas du résultat de cet examen.
 
-## 1. Problème conceptuel inaugural
+## Problème
 
-Dans l’architecture métathéorique de Protokin, une description ne s’impose jamais d’elle-même par une prétendue transparence face au réel, pas plus qu’elle ne vaut par le simple effet d’une convention arbitraire ou d’une décision subjective.
+Une proposition peut être contestable sans être dépourvue de recevabilité. Pour pouvoir être examinée, elle doit pouvoir être rapportée à une question, à une pratique ou à des conditions d’évaluation suffisamment identifiables.
 
-Le rejet du Mythe du Donné interdit de considérer que le monde physique se présenterait déjà découpé et étiqueté en faits évidents dotés d'une autorité justificative intrinsèque.
+Inversement, le fait qu’une proposition soit admise dans une discussion, une procédure ou un régime descriptif ne garantit pas qu’elle soit correcte. Elle peut être examinée puis rejetée, limitée ou reformulée.
 
-Le problème auquel répond cette page est celui de **l'accès au jeu discursif** :
+La difficulté consiste donc à distinguer deux questions :
 
-**Selon quelles dynamiques et sous quelles conditions normatives un énoncé, une configuration ou une trace matérielle passe-t-il du statut d'émission brute ou de proposition marginale à celui de description recevable par un collectif ?**
+- **La proposition peut-elle être examinée dans les conditions considérées ?**
+- **Les éléments et les raisons disponibles permettent-ils de la tenir pour valide ?**
 
-Protokin répond en définissant la recevabilité comme une **admission fonctionnelle et normative**.
+La première concerne la recevabilité. La seconde relève de l’évaluation et de la justification de la proposition.
 
-Une description n'est pas un atome sémantique validé dans le vide ; elle reçoit son droit de cité dans l'espace des raisons uniquement lorsqu'elle franchit des seuils de correction contrôlés publiquement par une communauté de pratique.
+## Définition
 
-La recevabilité constitue ainsi le filtre critique par lequel la multiplicité des énoncés possibles devient un ensemble de descriptions opératoires, transmissibles et justifiables.
+Dans Protokin, la **recevabilité descriptive** désigne le statut par lequel une description ou une conclusion peut être prise en considération dans une pratique déterminée et soumise aux formes d’examen pertinentes pour cette pratique.
 
----
+La recevabilité dépend des conditions dans lesquelles une proposition est présentée et peut être examinée. Selon la situation, ces conditions peuvent concerner la formulation de la prétention, son rapport à la question traitée, les éléments qu’elle mobilise, les procédures applicables ou la possibilité de répondre aux objections.
 
-## 2. Définition fonctionnelle
+Ces exigences ne sont pas identiques dans toutes les pratiques. Une procédure juridique, une enquête clinique, une classification botanique et une discussion ordinaire n’admettent pas nécessairement les mêmes types d’éléments ni les mêmes modalités de présentation.
 
-Dans l'architecture de Protokin, on appelle **recevabilité descriptive** :
+La recevabilité ne constitue toutefois ni une propriété intrinsèque de l’énoncé ni une garantie de sa correction. Elle indique qu’une proposition peut être examinée dans un cadre déterminé, non qu’elle satisfait déjà à toutes les exigences permettant de la défendre.
 
-> **La propriété fonctionnelle par laquelle une proposition ou une configuration discursive satisfait aux critères normatifs d'un régime de description donné, ce qui l'habilite à être tenue pour correcte, à figurer comme ressource dans des chaînes inférentielles et à engager la responsabilité de ses auteurs au sein d'une communauté de pratique.**
+## Distinctions nécessaires
 
-La recevabilité n’est pas une propriété intrinsèque de l’énoncé.
+### Recevabilité et validité
 
-Elle désigne un **statut dynamique, relationnel et révisable** acquis lorsqu'une description réussit à :
+La recevabilité concerne l’admission d’une description à l’examen. La validité concerne le statut évaluatif que l’examen peut soutenir au regard de ce que la description prétend établir et des exigences pertinentes.
 
-- s'inscrire dans un régime descriptif ;
-- satisfaire aux critères de correction pertinents ;
-- engager un locuteur dans un réseau d'inférences ;
-- être reconnue comme opératoire par une communauté.
+Une proposition peut être recevable et se révéler insuffisamment étayée. Elle peut aussi être recevable tout en donnant lieu à un désaccord sur les critères à appliquer ou sur la portée de ses conclusions.
 
----
+**Recevabilité ≠ validité.**
 
-## 3. Distinctions conceptuelles nécessaires
+Voir [Validité](fr/validite.md).
 
-### Recevabilité et vérité ontologique
+### Recevabilité et acceptation collective
 
-Être recevable ne signifie pas correspondre à une structure ultime du réel ou à un absolu métaphysique.
+Une proposition peut être admise à la discussion sans être acceptée par les participants. La contestation fait partie des possibilités ouvertes par son examen.
 
-Une description peut être parfaitement recevable dans un régime déterminé sans que cela implique qu'elle constitue une description universelle ou exclusive du monde.
+Inversement, une proposition peut être largement acceptée, transmise ou institutionnalisée sans que son adéquation ait été suffisamment examinée.
 
-La recevabilité concerne les conditions d'entrée dans un espace descriptif, non une capture ontologique du réel.
+L’acceptation collective peut contribuer à la circulation d’une description, mais elle ne se confond pas avec sa recevabilité ni avec sa validité.
 
-### Recevabilité et correction formelle stricte
+**Acceptation collective ≠ validité.**
 
-Un énoncé peut être syntaxiquement correct et logiquement cohérent tout en étant irrecevable dans un régime descriptif donné.
+### Recevabilité et justification
 
-La recevabilité dépend également des supports matériels, des critères pratiques, des méthodes d'enquête et des normes propres au régime concerné.
+La justification porte sur les raisons, les critères et les inférences mobilisés pour défendre ou contester un engagement.
 
-### Recevabilité et infaillibilité
+La recevabilité rend possible l’examen d’une proposition dans des conditions déterminées. Elle ne garantit ni que les raisons avancées soient suffisantes ni que les critères mobilisés soient pertinents.
 
-Une description recevable n'est ni définitive ni indiscutable.
+Une proposition peut ainsi être recevable alors que sa justification reste à construire ou qu’une justification proposée appelle des objections.
 
-Elle possède uniquement un statut d'admission provisoire : elle a franchi les épreuves actuelles de justification et demeure ouverte à la révision.
+Voir [Justification](fr/justification.md).
 
-### Recevabilité et croyance privée
+### Recevabilité et conformité aux normes
 
-Le fait qu'un individu adhère intérieurement à une description ne lui confère aucun droit automatique d'entrée dans l'espace des raisons.
+Une pratique peut imposer des conditions de présentation, des procédures ou des exigences pour qu’une proposition soit examinée. Mais il faut distinguer le respect de ces conditions de la correction de la conclusion.
 
-La recevabilité est une propriété publique, évaluée dans une pratique collective de justification.
+Une proposition peut satisfaire aux exigences formelles d’une procédure sans que le contenu qu’elle avance soit établi. Les règles d’admission peuvent elles-mêmes être contestées si elles excluent sans raison pertinente des éléments nécessaires à l’examen.
 
----
+La recevabilité ne dispense donc pas d’examiner la fonction et la portée des normes qui règlent l’accès à une procédure.
 
-## 4. Les trois dimensions constitutives de la recevabilité
+Voir [Norme descriptive](fr/norme-descriptive.md).
 
-Pour qu'une description franchisse le seuil de recevabilité, trois dimensions doivent être réunies.
+## Exemple discriminant : signaler un arbre dangereux
 
-### A. L'accomplissement des critères du régime descriptif
+Une personne signale qu’un arbre situé près d’une habitation présente une fissure et pourrait être dangereux.
 
-Une description doit respecter :
+Le signalement peut être recevable comme motif d’examen : il désigne une situation, formule une inquiétude identifiable et fournit un élément susceptible d’être vérifié.
 
-- les critères de pertinence ;
-- les méthodes de justification ;
-- les règles d'inférence ;
-- les procédures de correction.
+Cette recevabilité ne suffit cependant pas à établir que l’arbre présente effectivement un risque déterminé, ni qu’une intervention particulière est nécessaire.
 
-La recevabilité dépend ainsi des normes descriptives immanentes au régime mobilisé.
+Il faut distinguer plusieurs questions :
 
-### B. L'engagement inférentiel du locuteur
+- Le signalement fournit-il des éléments suffisamment identifiables pour justifier un examen ?
+- Les observations disponibles permettent-elles d’établir l’existence et l’importance d’un risque ?
+- Les éléments établis justifient-ils une intervention déterminée ?
 
-Une description recevable n'est jamais une simple information déposée dans un espace neutre.
+La première question porte sur la recevabilité du signalement. La deuxième concerne l’évaluation de la description du risque. La troisième exige d’examiner les raisons et les critères qui soutiennent la décision envisagée.
 
-Elle constitue une prise de position.
+Une réponse positive à la première question ne détermine pas les réponses aux deux autres. Le signalement peut être recevable même si le risque annoncé n’est finalement pas confirmé. Il peut également conduire à rechercher de nouveaux éléments avant qu’une conclusion soit défendable.
 
-Le locuteur qui l'énonce doit :
+L’exemple montre que l’admission d’une proposition à l’examen et l’évaluation de ce qu’elle affirme remplissent des fonctions distinctes.
 
-- assumer ses conséquences inférentielles ;
-- accepter les demandes de justification ;
-- répondre aux objections des autres locuteurs.
+## Conditions et difficultés de recevabilité
 
-### C. La stabilisation par une communauté de locuteurs
+Les conditions pertinentes varient selon la pratique et le problème. Leur examen peut notamment porter sur les points suivants :
 
-Une description devient pleinement opératoire lorsqu'elle est :
+- **La prétention est-elle identifiable ?** Il faut pouvoir déterminer ce qui est affirmé, signalé ou soumis à l’examen.
+- **Le problème est-il suffisamment précisé ?** Une proposition peut nécessiter une clarification avant que sa portée puisse être évaluée.
+- **Les éléments invoqués peuvent-ils être examinés ?** Leur origine, leur disponibilité et leurs limites peuvent affecter les possibilités de discussion.
+- **Les conditions de la procédure sont-elles pertinentes ?** Une exigence de présentation ou d’admission peut faciliter l’examen, mais aussi l’entraver si elle est mal adaptée au problème.
+- **La contestation reste-t-elle possible ?** Une pratique qui interdit par principe toute objection peut rendre l’examen de certaines propositions impossible ou purement formel.
 
-- reprise ;
-- évaluée ;
-- corrigée ;
-- transmise.
+Ces questions ne constituent pas une liste de conditions universelles que toute description devrait satisfaire de manière identique. Elles servent à déterminer ce qui rend une proposition examinable dans la situation considérée.
 
-La communauté de locuteurs assure la continuité du jeu descriptif et maintient les critères de correction dans le temps.
+Une difficulté de recevabilité peut provenir d’une formulation trop indéterminée, de l’absence d’éléments nécessaires à l’examen ou de règles de procédure inadaptées. Elle ne permet pas, à elle seule, de conclure que la proposition est fausse ou valide.
 
----
+## Limites et non-conversions
 
-## 5. Éclairage par les fils rouges pédagogiques
+La recevabilité permet de distinguer l’admission d’une proposition à l’examen de l’évaluation de ce qu’elle affirme. Elle ne garantit pas que cet examen aboutira à une conclusion déterminée.
 
-### « Le vélo est rouge »
+Il faut notamment éviter les conversions suivantes :
 
-Dans un régime perceptif ordinaire, la recevabilité repose sur une situation visuelle partagée et sur la compétence perceptive commune des locuteurs.
+- **Recevabilité → validité** : pouvoir examiner une proposition ne suffit pas à établir sa correction.
+- **Acceptation collective → recevabilité garantie** : l’adoption d’une proposition ne dispense pas d’examiner les conditions de sa discussion et de son évaluation.
+- **Irrecevabilité → fausseté** : une proposition qui ne peut être examinée dans une procédure donnée n’est pas nécessairement fausse ; les conditions de cette procédure peuvent elles-mêmes être inadéquates.
+- **Conformité procédurale → justification** : satisfaire aux règles d’une procédure ne suffit pas à défendre le contenu d’une conclusion.
+- **Admission → stabilisation** : une proposition recevable peut être abandonnée, rester contestée ou ne jamais être reprise dans la pratique.
+- **Conditions de recevabilité → normes universelles** : les exigences d’admission doivent être rapportées au problème et à la pratique concernés.
 
-Dans un régime de colorimétrie industrielle, la même qualification exige des habilitations instrumentales : mesures spectrales, protocole expérimental et calibration des instruments.
+Ces distinctions ne signifient pas que la recevabilité serait arbitraire ou que toute proposition devrait être admise en toutes circonstances. Elles demandent de pouvoir expliquer les conditions d’examen retenues et leur pertinence pour le problème traité.
 
-La même phrase possède donc des conditions de recevabilité différentes selon le régime descriptif.
+## Place dans l’enquête de Protokin
 
-### « Cette personne est dangereuse »
+La recevabilité intervient lorsqu’il faut déterminer si une description ou une conclusion peut être prise en considération dans une pratique et soumise à un examen pertinent.
 
-La recevabilité de cette qualification dépend fortement du régime dans lequel elle est produite.
+Elle peut être liée à la formulation d’une prétention, aux engagements associés à une assertion, aux conditions institutionnelles d’une procédure ou aux normes qui règlent la discussion. Aucune de ces relations ne constitue à elle seule une chaîne nécessaire menant de la production d’une description à sa validation.
 
-Dans un régime juridique, elle exige des preuves admissibles et une procédure contradictoire.
+Dans la quadripartition, plusieurs orientations peuvent être mobilisées pour examiner une difficulté de recevabilité :
 
-Dans un régime clinique, elle nécessite des critères d'évaluation du risque et des protocoles professionnels.
+- **Condition** : quelles contraintes matérielles, techniques ou institutionnelles affectent la possibilité d’examiner la proposition ?
+- **Relation** : comment la proposition se rapporte-t-elle à la question traitée, aux autres descriptions et aux engagements pertinents ?
+- **Fonction** : quel rôle l’admission ou l’exclusion de la proposition joue-t-elle dans la pratique ?
+- **Justification** : quelles raisons permettent de défendre les conditions d’admission retenues, ou de contester leur application ?
 
-Une utilisation ordinaire de cette qualification engage une responsabilité différente, car elle ne possède pas les mêmes habilitations.
+Ces orientations différencient les questions de l’enquête. Elles ne sont ni des composantes de la recevabilité ni des étapes obligatoires de son examen.
 
-### Le patient aux urgences
+Une difficulté de recevabilité peut conduire à clarifier une proposition, à reprendre les conditions de son examen ou à contester une règle d’admission. Elle peut aussi révéler un problème distinct de validité ou de justification, qui doit alors être examiné pour lui-même.
 
-La plainte initiale du patient constitue une configuration descriptive première.
+Voir [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) et [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md).
 
-Pour devenir recevable dans le régime médical, elle doit être traduite en observations cliniques, constantes physiologiques et critères de gravité.
+## Synthèse
 
-Une pathologie institutionnelle apparaît lorsque des critères administratifs tentent de remplacer les critères propres au régime clinique.
+La recevabilité descriptive désigne la possibilité de soumettre une description ou une conclusion à l’examen dans une pratique déterminée.
 
----
+Elle ne garantit ni sa validité, ni la suffisance de sa justification, ni son acceptation collective. Elle ne constitue pas davantage une étape obligatoire menant à la stabilisation d’une description.
 
-## 6. Place dans l'architecture fonctionnelle
+Son examen consiste à préciser les conditions qui rendent une proposition examinable et à déterminer si ces conditions sont pertinentes pour le problème traité.
 
-Dans l'architecture de Protokin, la recevabilité constitue le pivot entre l'engagement individuel et la reconnaissance collective :
+**Admettre une description à l’examen ne revient pas à la tenir pour correcte.**
 
-    Description / Qualification / Prédication
-                    ↓
-    Assertion publique du locuteur
-                    ↓
-    Engagements descriptifs
-                    ↓
-    Responsabilité normative
-                    ↓
-    RECEVABILITÉ DESCRIPTIVE
-                    ↓
-    Validité descriptive
-                    ↓
-    Stabilisation historique de la description
+Pour poursuivre :
 
-La recevabilité représente donc le passage d'une production discursive locale vers une ressource partageable dans un régime descriptif.
-
----
-
-## 7. Limites constitutives et vigilances d'audit
-
-L'audit des conditions de recevabilité permet d'identifier plusieurs pathologies.
-
-### L'exclusion épistémique
-
-Une communauté refuse la recevabilité d'une description en raison de la position du locuteur plutôt qu'en raison de la qualité des raisons fournies.
-
-Cette pathologie prive l'enquête collective de ressources descriptives pertinentes.
-
-### Le brouillage des conditions
-
-Un régime applique à une description les critères d'un autre régime sans effectuer de traduction.
-
-L'audit identifie alors une erreur de catégorie ou une exportation sauvage de normes.
-
-### L'inertie documentaire
-
-Des procédures, supports ou dispositifs techniques deviennent tellement rigides qu'ils empêchent l'apparition de nouvelles descriptions ou l'intégration d'anomalies significatives.
-
-La recevabilité devient alors un mécanisme de fermeture plutôt qu'un outil d'enquête.
-
----
-
-## 8. Synthèse
-
-La recevabilité descriptive rappelle une règle fondamentale de Protokin :
-
-**Une description ne possède pas sa validité par elle-même.**
-
-Elle acquiert son statut opératoire par une réussite normative collective : satisfaire des critères, assumer des engagements, répondre aux demandes de justification et pouvoir être maintenue dans une communauté de locuteurs.
-
-La recevabilité désigne ainsi le seuil d'entrée d'une description dans l'espace des raisons.
-
-Elle ne constitue ni une vérité absolue ni une simple convention, mais une condition pratique de participation à un régime descriptif.
+- [Validité](fr/validite.md) — Examiner ce qui permet de tenir une description pour défendable.
+- [Critère](fr/critere.md) — Préciser les exigences au regard desquelles une attribution ou une conclusion peut être évaluée.
+- [Justification](fr/justification.md) — Examiner les raisons et les critères mobilisés pour défendre ou réviser un engagement.
+- [Norme descriptive](fr/norme-descriptive.md) — Examiner les contraintes qui règlent la production, l’évaluation et la révision des descriptions.
+- [Engagement descriptif](fr/engagement-descriptif.md) — Examiner les engagements associés à une prise de position descriptive.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les quatre orientations de l’examen.
+- [Table des matières](fr/tdm.md) — Replacer cette page dans l’organisation du corpus.
