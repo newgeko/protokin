@@ -4,13 +4,9 @@
 
 La **trajectoire descriptive** désigne le parcours de transformations qu’une enquête reconstruit dans l’histoire d’une description, d’une configuration descriptive ou d’une pratique.
 
-Elle permet d’examiner ce qui change, ce qui se maintient, les réorganisations successives et les relations que l’on peut établir entre différents états d’une description. Elle ne consiste pas seulement à comparer un état initial et un état final : elle cherche à reconstruire, dans la mesure où les éléments disponibles le permettent, le parcours qui les relie.
+Elle permet d’examiner les changements, les continuités, les réorganisations et les relations que l’on peut établir entre différents éléments documentés. Sa reconstruction ne suppose pas que le parcours soit constitué d’une série prédéfinie d’états successifs. Les transformations peuvent être progressives, discontinues, inégalement documentées ou identifiables à partir de matériaux de nature différente.
 
-La question directrice est la suivante :
-
-**Quelles transformations peut-on reconstruire dans le parcours d’une description, et sur quels éléments cette reconstruction repose-t-elle ?**
-
-La trajectoire est un objet de reconstruction, non une évolution nécessaire vers un résultat prédéterminé. Elle ne suppose ni continuité parfaite, ni progrès, ni orientation unique.
+La trajectoire ne consiste donc pas seulement à comparer un état initial et un état final : elle cherche à reconstruire, dans la mesure où les éléments disponibles le permettent, les transformations et les relations qui éclairent le parcours étudié.
 
 ## 1. Problème : reconstruire les transformations
 
@@ -29,7 +25,7 @@ On appelle **trajectoire descriptive** la reconstruction du parcours de transfor
 Une telle reconstruction demande de préciser :
 
 - **L’objet suivi** : une description, une catégorie, une configuration descriptive, une pratique ou un ensemble délimité de descriptions en interaction.
-- **Les états ou épisodes comparés** : les occurrences, documents, usages ou situations à partir desquels les transformations sont examinées.
+- **Les matériaux et occurrences examinés** : les documents, usages, situations, décisions, observations ou configurations qui permettent d’étudier les transformations. Ils ne doivent pas nécessairement former une série complète d’états successifs.
 - **Les dimensions suivies** : formulation, fonction pratique, critères d’application, engagements associés, supports ou conditions d’usage.
 - **Les éléments de liaison** : les indices qui permettent de soutenir qu’un changement appartient au parcours étudié plutôt qu’à une simple juxtaposition d’occurrences.
 
@@ -70,6 +66,8 @@ L’existence d’une bifurcation ne prouve pas que toutes les possibilités alt
 Une trajectoire ne se divise pas nécessairement en périodes entièrement stables séparées par des ruptures nettes. Certains éléments peuvent se maintenir pendant que d’autres changent. Des modifications peuvent être progressives, localisées ou inégalement documentées.
 
 Il faut donc éviter de réduire le parcours à une opposition générale entre stabilité et changement. La reconstruction gagne à préciser ce qui se transforme, ce qui demeure et les éléments qui soutiennent chacune de ces qualifications.
+
+Ces phénomènes ne constituent pas nécessairement des phases successives. Une transformation peut être établie sans que tous les états intermédiaires soient connus, et plusieurs dimensions d’une pratique peuvent évoluer à des rythmes différents. La reconstruction porte sur les relations que les matériaux permettent d’établir, non sur une succession complète de positions qu’il faudrait reconstituer à tout prix.
 
 ## 4. Les contraintes héritées et les possibilités de révision
 
