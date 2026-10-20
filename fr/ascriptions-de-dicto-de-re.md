@@ -127,13 +127,13 @@ Ces distinctions permettent de relier l’analyse des attributions à l’examen
 
 ## 8. Renvois
 
-- [Assertion](assertion.md) — Examiner l’acte par lequel un contenu est avancé dans une pratique discursive.
-- [Engagement descriptif](engagement-descriptif.md) — Examiner le statut normatif associé à une prise de position et les conséquences qui peuvent être attribuées au locuteur.
-- [Scorekeeping déontique](scorekeeping-deontique.md) — Examiner le suivi et l’attribution des engagements et des habilitations.
-- [Référent](referent.md) — Examiner les pratiques d’identification et de réidentification de ce dont une description parle.
-- [Relation sémantique et référence](relation-semantique-et-reference.md) — Examiner les rapports entre contenu, usage et visée référentielle.
-- [Espace des raisons](espace-des-raisons.md) — Examiner les conditions dans lesquelles une prise de position peut être soutenue, contestée ou révisée.
-- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md) — Situer les questions d’identification, de relation, de fonction et de justification sans les convertir les unes dans les autres.
+- [Assertion](fr/assertion.md) — Examiner l’acte par lequel un contenu est avancé dans une pratique discursive.
+- [Engagement descriptif](fr/engagement-descriptif.md) — Examiner le statut normatif associé à une prise de position et les conséquences qui peuvent être attribuées au locuteur.
+- [Scorekeeping déontique](fr/scorekeeping-deontique.md) — Examiner le suivi et l’attribution des engagements et des habilitations.
+- [Référent](fr/referent.md) — Examiner les pratiques d’identification et de réidentification de ce dont une description parle.
+- [Relation sémantique et référence](fr/relation-semantique-et-reference.md) — Examiner les rapports entre contenu, usage et visée référentielle.
+- [Espace des raisons](fr/espace-des-raisons.md) — Examiner les conditions dans lesquelles une prise de position peut être soutenue, contestée ou révisée.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Situer les questions d’identification, de relation, de fonction et de justification sans les convertir les unes dans les autres.
 
 ## Synthèse
 
