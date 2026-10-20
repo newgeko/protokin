@@ -68,6 +68,7 @@ Ces fonctions permettent d’examiner l’enquête elle-même, ses conditions d�
 - [Temporalité descriptive](fr/temporalite-descriptive.md) — Examiner comment les pratiques descriptives héritent de ressources antérieures, les mobilisent et les transforment au cours du temps.
 - [Trajectoire](fr/trajectoire.md) — Reconstruire le parcours des transformations descriptives.
 - [Allure](fr/allure.md) — Qualifier la distribution temporelle des transformations d’une trajectoire.
+- [transformation](fr/transformation.md) — Caractériser une modification de configuration sans présumer de sa nature, de sa portée ou de sa justification.
 - [Sédimentation](fr/sedimentation.md) — Examiner comment des traces issues de pratiques descriptives sont conservées, accumulées et transmises, parfois au-delà du contexte dans lequel elles ont été produites.
 - [Réaliser un audit](fr/realiser-un-audit.md) — Repérer les glissements catégoriels, les réductions et les équivalences insuffisamment justifiées.
 - [Réflexivité](fr/reflexivite.md) — Examiner les conditions et les limites de l’exercice descriptif, y compris celles du cadre employé.
