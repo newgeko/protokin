@@ -45,7 +45,7 @@ Une résistance apparaît lorsqu’une opération, une attente ou une pratique s
 
 Cette résistance limite ce qui peut être réalisé dans les conditions considérées. Elle ne fournit pas, à elle seule, une interprétation de l’échec.
 
-Pour approfondir cette notion, voir [Butoir](butoir.md).
+Pour approfondir cette notion, voir [Butoir](fr/butoir.md).
 
 ### 4.2. Le constat d’une difficulté
 
@@ -61,7 +61,7 @@ L’interprétation cherche à déterminer ce que le résultat met effectivement
 
 Les conséquences associées à une affirmation peuvent aider à repérer les résultats qui lui sont incompatibles. Elles ne suffisent pas toujours à identifier la cause de cette incompatibilité.
 
-L’analyse des conséquences et des transitions entre contenus relève notamment de l’[Inférence matérielle](inference-materielle.md).
+L’analyse des conséquences et des transitions entre contenus relève notamment de l’[Inférence matérielle](fr/inference-materielle.md).
 
 ### 4.4. La justification d’une révision
 
@@ -78,7 +78,7 @@ Selon le cas, l’enquête peut conduire à :
 
 La révision d’un engagement ne découle donc pas mécaniquement d’un échec pratique. Elle dépend de ce que l’examen permet d’établir et des exigences auxquelles la conclusion doit répondre.
 
-Pour approfondir, voir [Justification](justification.md).
+Pour approfondir, voir [Justification](fr/justification.md).
 
 ## 5. Redevabilité matérielle et responsabilité discursive
 
@@ -97,7 +97,7 @@ Il faut donc distinguer :
 
 La redevabilité matérielle ne révoque pas elle-même une habilitation. Les résultats pratiques peuvent contribuer à contester une habilitation, mais la portée de cette contestation doit être établie dans la pratique concernée.
 
-Pour approfondir ces questions, voir [Engagement descriptif](engagement-descriptif.md) et [Scorekeeping déontique](scorekeeping-deontique.md).
+Pour approfondir ces questions, voir [Engagement descriptif](fr/engagement-descriptif.md) et [Scorekeeping déontique](fr/scorekeeping-deontique.md).
 
 ## 6. Ce que la redevabilité matérielle permet d’examiner
 
@@ -167,9 +167,9 @@ Une résistance contraint les opérations possibles ; son interprétation déter
 
 ## Renvois
 
-- [Butoir](butoir.md) — Définir les résistances qui limitent une opération ou une description.
-- [Inférence matérielle](inference-materielle.md) — Examiner les conséquences et les incompatibilités associées à un contenu.
-- [Engagement descriptif](engagement-descriptif.md) — Définir le statut normatif d’une prise de position descriptive.
-- [Scorekeeping déontique](scorekeeping-deontique.md) — Examiner l’attribution et le suivi des engagements et des habilitations.
-- [Justification](justification.md) — Examiner les raisons et les critères qui soutiennent ou contestent une conclusion.
-- [La pièce de cuivre](la-piece-de-cuivre.md) — Mettre à l’épreuve ces distinctions dans une situation illustrative.
+- [Butoir](fr/butoir.md) — Définir les résistances qui limitent une opération ou une description.
+- [Inférence matérielle](fr/inference-materielle.md) — Examiner les conséquences et les incompatibilités associées à un contenu.
+- [Engagement descriptif](fr/engagement-descriptif.md) — Définir le statut normatif d’une prise de position descriptive.
+- [Scorekeeping déontique](fr/scorekeeping-deontique.md) — Examiner l’attribution et le suivi des engagements et des habilitations.
+- [Justification](fr/justification.md) — Examiner les raisons et les critères qui soutiennent ou contestent une conclusion.
+- [La pièce de cuivre](fr/la-piece-de-cuivre.md) — Mettre à l’épreuve ces distinctions dans une situation illustrative.
