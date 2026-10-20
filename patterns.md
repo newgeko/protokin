@@ -145,7 +145,7 @@ La chaîne de Protokin est une chaîne d’enquête, non une chaîne de constitu
 
 ### Pattern C — Pages consacrées aux notions
 
-Pages concernées, notamment :
+#### Pages concernées, notamment :
 
 - "butoir.md"
 - "referent.md"
@@ -158,11 +158,11 @@ Pages concernées, notamment :
 - "configuration-descriptive.md"
 - toute autre page définissant une notion du lexique
 
-Fonction
+#### Fonction
 
 Définir une notion, expliquer le problème auquel elle répond et préciser son rôle dans le vocabulaire de Protokin.
 
-Structure recommandée
+#### Structure recommandée
 
 1. Fonction
 2. Problème
@@ -177,7 +177,7 @@ Structure recommandée
 
 Cette structure est indicative. Les rubriques ne doivent pas nécessairement devenir des sections distinctes dans la page publiée. Leur présence dépend de la fonction de la page et de la pertinence du contenu.
 
-Questions ouvertes
+#### Questions ouvertes
 
 Signaler les problèmes que la définition actuelle ne permet pas de trancher et qui pourraient conduire à préciser ou réviser la notion.
 
@@ -186,7 +186,7 @@ Signaler les problèmes que la définition actuelle ne permet pas de trancher et
 - Ne pas présenter une question ouverte comme une conclusion déjà acquise.
 - Ne pas imposer cette rubrique lorsqu’aucune question pertinente n’a été identifiée.
 
-Références
+#### Références
 
 Indiquer les sources qui contribuent à définir, discuter ou mettre à l’épreuve la notion.
 
@@ -195,7 +195,7 @@ Indiquer les sources qui contribuent à définir, discuter ou mettre à l’épr
 - Distinguer les sources effectivement mobilisées des rapprochements possibles.
 - Ne pas traiter l’autorité d’une source comme une justification suffisante d’une proposition.
 
-Contrôle de cohérence avec les autres notions
+#### Contrôle de cohérence avec les autres notions
 
 Lors de la rédaction ou de la révision, vérifier les rapports entre la définition de la notion et celles des autres pages du corpus.
 
@@ -208,7 +208,7 @@ Lors de la rédaction ou de la révision, vérifier les rapports entre la défin
 
 Ce contrôle est systématique lors d’une révision approfondie, mais il ne doit pas nécessairement apparaître comme une rubrique dans la page publiée.
 
-Points de vigilance
+#### Points de vigilance
 
 - Définir la notion par sa fonction dans l’enquête, sans la réduire à une simple étiquette.
 - Ne pas multiplier les synonymes lorsque des distinctions sont nécessaires.
@@ -218,7 +218,7 @@ Points de vigilance
 - Ne pas supposer que toute configuration rencontrée devient nécessairement une configuration sémiotique, puis une configuration descriptive.
 - Distinguer les dépendances entre notions de leur éventuelle conversion l’une dans l’autre.
 
-Exemple de vérification
+#### Exemple de vérification
 
 Pour une page consacrée au référent, vérifier que le texte distingue :
 
