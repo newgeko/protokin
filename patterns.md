@@ -168,13 +168,45 @@ Structure recommandée
 2. Problème
 3. Définition
 4. Distinctions avec les notions voisines
-5. Cohérence avec les autres notions
-6. Articulation avec l’architecture de l’enquête
-7. Exemple discriminant
+5. Articulation avec l’architecture de l’enquête
+6. Exemple discriminant
+7. Limites et non-conversions
 8. Questions ouvertes, si nécessaire
 9. Références, si nécessaire
-10. Limites et non-conversions
-11. Synthèse et renvois
+10. Synthèse et renvois
+
+Cette structure est indicative. Les rubriques ne doivent pas nécessairement devenir des sections distinctes dans la page publiée. Leur présence dépend de la fonction de la page et de la pertinence du contenu.
+
+Questions ouvertes
+
+Signaler les problèmes que la définition actuelle ne permet pas de trancher et qui pourraient conduire à préciser ou réviser la notion.
+
+- Formuler des questions précises plutôt que des pistes vagues.
+- Distinguer les difficultés conceptuelles non résolues des améliorations rédactionnelles possibles.
+- Ne pas présenter une question ouverte comme une conclusion déjà acquise.
+- Ne pas imposer cette rubrique lorsqu’aucune question pertinente n’a été identifiée.
+
+Références
+
+Indiquer les sources qui contribuent à définir, discuter ou mettre à l’épreuve la notion.
+
+- Privilégier les références directement pertinentes pour le problème traité.
+- Préciser leur apport lorsque celui-ci ne va pas de soi.
+- Distinguer les sources effectivement mobilisées des rapprochements possibles.
+- Ne pas traiter l’autorité d’une source comme une justification suffisante d’une proposition.
+
+Contrôle de cohérence avec les autres notions
+
+Lors de la rédaction ou de la révision, vérifier les rapports entre la définition de la notion et celles des autres pages du corpus.
+
+- Identifier les pages et les notions concernées.
+- Distinguer contradiction, divergence de définition, chevauchement fonctionnel, dépendance présupposée et conversion injustifiée.
+- Ne pas confondre une incompatibilité réelle avec une différence de vocabulaire ou de fonction.
+- Ne pas résoudre artificiellement une tension pour préserver une cohérence d’ensemble.
+- Lorsque la difficulté dépasse la page, indiquer les pages à examiner conjointement.
+- Ne pas présenter une difficulté identifiée comme une incohérence avérée avant de l’avoir examinée.
+
+Ce contrôle est systématique lors d’une révision approfondie, mais il ne doit pas nécessairement apparaître comme une rubrique dans la page publiée.
 
 Points de vigilance
 
@@ -607,6 +639,8 @@ Avant de considérer une page comme stabilisée, vérifier les points suivants.
 - [ ] Les liens et les noms de fichiers sont vérifiés.
 - [ ] Le vocabulaire est cohérent avec le reste du corpus.
 - [ ] La page contribue à l’enquête sans prétendre constituer à elle seule une théorie générale.
+- [ ] Les définitions et distinctions sont compatibles avec celles des pages liées, ou les tensions identifiées sont explicitement prises en compte.
+- [ ] Les questions ouvertes et les références sont présentes lorsqu’elles apportent une contribution réelle, sans être ajoutées artificiellement.
 
 8. Principe éditorial général
 
