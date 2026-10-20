@@ -157,7 +157,7 @@ De même, l'analyseur ne peut pas conclure à la vérité d'une affirmation en s
 
 La distinction permet d'examiner les différences de perspective et les conditions de réidentification. Elle ne constitue ni une procédure automatique d'identification du référent ni une garantie de vérité.
 
-Pour approfondir la fonction du référent et les conditions de son identification, voir [Référent](referent.md).
+Pour approfondir la fonction du référent et les conditions de son identification, voir [Référent](fr/referent.md).
 
 ## 8. Limites et non-conversions
 
@@ -200,12 +200,12 @@ Il permet de distinguer ce qu'un locuteur assume, ce que les autres lui attribue
 
 Pour poursuivre :
 
-- [Assertion](assertion.md)
-- [Engagement descriptif](engagement-descriptif.md)
-- [Espace des raisons](espace-des-raisons.md)
-- [Pairs — Engagement discursif et habilitation](pairs.md)
-- [Inférence matérielle](inference-materielle.md)
-- [Justification](justification.md)
-- [Référent](referent.md)
-- [Quadripartition de l'orientation](quadripartition-de-l-orientation.md)
-- [Table des matières](tdm.md)
+- [Assertion](fr/assertion.md)
+- [Engagement descriptif](fr/engagement-descriptif.md)
+- [Espace des raisons](fr/espace-des-raisons.md)
+- [Pairs — Engagement discursif et habilitation](frpairs.md)
+- [Inférence matérielle](fr/inference-materielle.md)
+- [Justification](fr/justification.md)
+- [Référent](fr/referent.md)
+- [Quadripartition de l'orientation](fr/quadripartition-de-l-orientation.md)
+- [Table des matières](frtdm.md)
