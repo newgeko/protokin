@@ -22,35 +22,35 @@ L’objectif est que chaque page :
 
 Les rubriques suivantes constituent une grille de vérification applicable à l’ensemble du corpus.
 
-Fonction
+### Fonction
 
 À quoi sert la page dans l’enquête de Protokin ?
 
-Problème
+### Problème
 
 Quel problème descriptif, conceptuel, pratique ou méthodologique justifie cette page ?
 
-Définition
+### Définition
 
 Quel sens précis les termes employés prennent-ils dans le cadre de la page ?
 
-Distinctions
+### Distinctions
 
 Quelles notions proches doivent être distinguées pour éviter les confusions ?
 
-Articulation
+### Articulation
 
 Comment la page se rapporte-t-elle aux autres notions, opérations ou instruments de Protokin ?
 
-Limites
+### Limites
 
 Qu’est-ce que la page ne prétend pas établir ? Quelles inférences ou conversions ne sont pas justifiées ?
 
-Épreuve
+### Épreuve
 
 Quel exemple, cas, comparaison ou examen permet de vérifier la portée des distinctions proposées ?
 
-Renvois
+### Renvois
 
 Quelles pages faut-il consulter pour approfondir, compléter ou mettre à l’épreuve le propos ?
 
