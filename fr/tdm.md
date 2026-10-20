@@ -174,6 +174,7 @@ Ces ressources distinguent l’application d’une catégorie, l’organisation 
 - [Validité](fr/validite.md) — Examiner ce qui autorise à tenir une description ou une inférence pour valide selon les exigences pertinentes.
 - [Description et normativité](fr/description-et-normativite.md) — Examiner les rapports entre description, évaluation et exigences normatives.
 - [Responsabilité descriptive](fr/responsabilite-descriptive.md) — Examiner la redevabilité associée aux descriptions, à leurs engagements et à leurs conséquences.
+- [Redevabilité matérielle](fr/redevabilite-materielle.md) — Examiner comment les résultats pratiques peuvent conduire à réévaluer une description sans convertir la résistance matérielle en justification.
 
 La présence d’une norme ne garantit pas qu’une description soit valide ; la validité, la justification et la responsabilité restent des questions distinctes.
 
