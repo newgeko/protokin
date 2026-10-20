@@ -42,6 +42,10 @@ Quelles notions proches doivent être distinguées pour éviter les confusions ?
 
 Comment la page se rapporte-t-elle aux autres notions, opérations ou instruments de Protokin ?
 
+### Cohérence
+
+Les définitions, distinctions et engagements de la page sont-ils compatibles avec ceux des pages auxquelles elle se rapporte ? Des contradictions, des chevauchements ou des dépendances présupposées doivent-ils être examinés ?
+
 ### Limites
 
 Qu’est-ce que la page ne prétend pas établir ? Quelles inférences ou conversions ne sont pas justifiées ?
