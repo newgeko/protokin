@@ -1,165 +1,114 @@
-# Page : position.md
-
-### Étape préalable obligatoire : Analyse architecturale de la page
-
-#### 1. Fonction unique de la page
-Cette page existe pour établir le statut conceptuel de la **position** dans l'architecture de Protokin en tant que coordonnée temporelle, relationnelle et relative qui situe l'état d'une pratique descriptive à un moment précis de sa trajectoire d'évolution.
-
-#### 2. Problème conceptuel
-> **Comment appréhender l'état d'une pratique descriptive à un instant donné sans la figer dans une essence immuable (illusion d'un état fixe) ni la dissoudre dans le flux insaisissable du changement perpétuel (relativisme de l'instabilité pure) ?**
-
-#### 3. Objet propre
-*   **Cette page traite de** : la coordonnée locale, relationnelle et temporelle d'une description au sein de son devenir historique ; l'ancrage situé d'une configuration descriptive à un moment déterminé de sa sédimentation.
-*   **Cette page ne traite pas de** : la *trajectoire* en tant que parcours diachronique complet des mutations (développée dans `trajectoire.md`), ni de la *position épistémique* du locuteur en tant qu'agencement individuel de ressources, d'instruments et de responsabilités (développée dans `position-epistemique.md`).
-
-#### 4. Statut conceptuel
-Il s'agit d'un **concept analytique de second ordre** appartenant au niveau de la **temporalité des pratiques descriptives** (Section 06 — Temporalité).
-
-#### 5. Dépendances fonctionnelles
-
-##### Cette page suppose :
-*   La *configuration descriptive*.
-*   Le *régime descriptif*.
-*   La *stabilisation*.
-*   Le *locuteur normatif*.
-
-##### Cette page rend possible :
-*   La *trajectoire descriptive*.
-*   L'*allure*.
-*   L'*historicité*.
-*   La *sédimentation*.
-*   Les *transitions*.
-
-#### 6. Frontières conceptuelles
-Cette page ne doit pas absorber la notion de *position épistémique*, car celle-ci qualifie l'équipement normatif et instrumental d'un agent au cours de l'enquête, tandis que la *position* temporelle désigne le point d'évolution relatif d'une catégorie ou d'un énoncé sur sa propre ligne de devenir historique.
-
----
-
-# Position
+# Position — Situer une configuration descriptive
 
 ## Fonction
-Dans l'architecture de Protokin, la **position** désigne la propriété analytique par laquelle une description est appréhendée comme un point situé, relationnel et temporel au sein d'une trajectoire d'enquête et de justification. Elle marque l'état relatif d'une pratique descriptive à une étape déterminée de sa stabilisation ou de sa réorganisation.
 
----
+La notion de **position** permet de caractériser une configuration descriptive telle qu’elle peut être reconstruite à un moment donné d’une pratique.
 
-## Problème conceptuel inaugural
-Une tentation récurrente des théories de la connaissance consiste à traiter les catégories descriptives comme des formes éternelles ou des représentations statiques dont la valeur de vérité s'évaluerait dans l'absolu. À l'inverse, l'historicisme radical dissout la consistance de la rationalité en la réduisant à un flux d'événements contingents où aucune norme ne peut s'imposer durablement. 
+Elle sert à distinguer la situation examinée du parcours des transformations qui la relient à d’autres situations. Elle peut notamment aider à comparer des descriptions mobilisées à différents moments, à condition de préciser les critères selon lesquels leurs continuités et leurs différences sont établies.
 
-Dès lors, le problème conceptuel inaugural est le suivant :
-> **Comment localiser et évaluer la validité d'une description à un moment précis de son histoire sans présupposer qu'elle possède une identité immuable (illusion d'un état fixe) ni succomber à une instabilité sémantique totale ?**
+La position ne constitue ni une entité indépendante des pratiques, ni une étape nécessaire de l’enquête. Sa pertinence dépend du problème examiné.
 
-Protokin résout cette difficulté en posant que toute description intervient depuis une **position**. Une description n'est jamais un énoncé hors du temps ; elle possède une coordonnée temporelle et relationnelle qui définit son degré d'évolution, sa résistance aux anomalies et son niveau de sédimentation par rapport aux alternatives déjà rejetées ou aux réorganisations futures.
+## 1. Problème : caractériser une situation sans la figer
 
----
+Une pratique descriptive peut être examinée à différents moments. Certaines catégories sont maintenues, des critères sont révisés, des usages changent ou de nouvelles ressources deviennent disponibles.
 
-## Définition fonctionnelle
-Dans l'architecture de Protokin, on appelle **position** :
-> **La coordonnée temporelle, relationnelle et relative par laquelle une description s'inscrit au sein d'une trajectoire diachronique, déterminant à un instant donné l'ensemble des engagements inférentiels hérités qu'elle doit assumer et les critères d'évaluation auxquels elle doit répondre.**
+Pour comprendre ces transformations, il peut être utile de caractériser une situation particulière avant de la comparer à d’autres. Mais cette caractérisation ne doit pas faire de la situation un état immuable, ni présupposer que son histoire détermine entièrement ses usages présents.
 
-Cette définition implique que la position :
-*   **N'est pas une substance** : elle ne désigne pas une entité fixe, mais une relation dynamique entre des sédimentations matérielles (supports) et des contraintes normatives (régimes).
-*   **Est relative à la trajectoire** : sa valeur s'apprécie comparativement aux étapes antérieures de l'enquête et prépare les points de bifurcation futurs.
-*   **Est logiquement contrainte** : elle n'est pas un choix arbitraire mais résulte de l'accumulation des coûts d'action produits par l'effet cliquet.
+Le problème est donc de décrire une configuration située sans confondre ce qui peut être établi à un moment donné, ce qui relève de son histoire et ce qui reste susceptible de transformation.
 
----
+## 2. Définition
 
-## Dimensions principales
-La position temporelle d'une description se structure à travers trois dimensions coordonnées :
+On appelle **position**, dans cette page, la caractérisation locale d’une configuration descriptive relativement à une pratique, à un problème et à des critères d’examen déterminés.
 
-### 1. La coordonnée relationnelle (L'inscription dans les raisons)
-La position d'une description n'est pas une localisation physique (plan **PROTO**). Elle se définit par sa place dans le réseau des engagements, des implications et des incompatibilités de l'espace des raisons (plan **KIN**) à un moment T. Elle détermine ce que la formulation de l'énoncé oblige à accepter et ce qu'elle interdit de soutenir sous la sanction de la communauté de locuteurs.
+Cette caractérisation peut porter sur les descriptions mobilisées, les distinctions retenues, les relations établies, les critères appliqués ou les justifications disponibles. Les éléments pertinents varient selon la question étudiée : ils ne forment pas une liste exhaustive ni un ensemble nécessaire à toute analyse.
 
-### 2. L'épaisseur temporelle (La strate d'héritage)
-Toute position hérite d'une histoire déjà stabilisée. Elle s'adosse à une mémoire collective (archives, classifications, institutions) et à une mémoire organique (habitudes corporelles, compétences incorporées) qui augmentent asymétriquement le coût de mobilisation de descriptions alternatives. *La position est le point de convergence de ces strates temporelles.*
+Une position n’est donc pas un point temporel qui existerait indépendamment de toute reconstruction. Elle est établie à partir des éléments disponibles et des critères qui permettent de caractériser la situation examinée.
 
-### 3. La révisabilité relative (La métastabilité)
-La position n'est pas une identité permanente. Elle est par définition révisable et ouverte à la réorganisation si des anomalies ou des tensions inter-régimes viennent saturer ses ressources de justification. Elle exprime l'état de compromis transitoire d'une enquête collective.
+Sa description peut être partielle. Certains éléments peuvent être connus, tandis que d’autres restent incertains ou ne sont pas pertinents pour le problème retenu.
 
----
+## 3. Distinguer position et trajectoire
 
-## Distinctions conceptuelles nécessaires
+La **position** et la **trajectoire** ne désignent pas le même objet d’examen.
 
-### Position et État fixe (ou Identité permanente)
-La différence porte sur la plasticité temporelle. L'**état fixe** postule une catégorie comme une propriété naturelle ou une essence immuable du monde. La **position** protokinienne désigne au contraire une coordonnée relationnelle provisoire et réversible, dont la continuité ne repose pas sur une substance mais sur le maintien actif de sa sédimentation par les pratiques collectives.
+La position caractérise une configuration descriptive située. La trajectoire concerne les transformations que l’on peut reconstruire entre plusieurs configurations ou situations.
 
-### Position (temporelle) et Position épistémique
-La différence porte sur le pôle de l'analyse. La **position épistémique** qualifie l'équipement normatif, cognitif et instrumental d'un locuteur individuel ou collectif à la première personne au sein d'un régime (ses ressources, ses contraintes, ses habilitations). La **position** (Section 06) qualifie la coordonnée diachronique objective de la configuration descriptive elle-même dans son processus d'évolution historique.
-*La position épistémique définit qui peut décrire et comment ; la position temporelle définit où se situe la description dans l'histoire des normes.*
+Une comparaison entre deux positions peut faire apparaître une différence, une continuité ou une rupture. Elle ne suffit toutefois pas à reconstruire le parcours qui relie les situations considérées. Pour cela, il faut disposer d’éléments permettant d’établir les transformations intervenues, leur ordre éventuel et les relations pertinentes entre elles.
 
-### Position et Trajectoire descriptive
-La différence porte sur la granularité temporelle. La **position** désigne un point précis, localisé et situé à un instant déterminé de l'enquête. La **trajectoire** désigne le parcours d'ensemble, la séquence ordonnée des mutations, des bifurcations et des transitions qui relient ces différentes positions entre elles.
-*La position est la coordonnée ponctuelle ; la trajectoire est le vecteur continu.*
+Inversement, la reconstruction d’une trajectoire peut conduire à réviser la caractérisation d’une position antérieure, notamment lorsque de nouvelles traces ou de nouveaux critères modifient l’interprétation des éléments disponibles.
 
----
+**Position ≠ trajectoire.**
 
-## Articulation dans l'architecture Protokin
+## 4. Distinctions avec les notions voisines
 
-Dans l'axe temporel de la métathéorie, la position intervient comme la première brique diachronique, initiant le passage de l'analyse synchronique à l'étude historique :
+### 4.1. Position et temporalité descriptive
 
-```text
-Stabilisation (consolidation locale des critères de correction)
-        ↓
-POSITION (point situé et relationnel à un instant T)
-        ↓
-Trajectoire descriptive (séquence ordonnée des transformations)
-        ↓
-Allure (cinétique et rythmes de la trajectoire)
-        ↓
-Historicité et Sédimentation (accumulation des traces du passé)
-```
+La **temporalité descriptive** concerne les rapports temporels par lesquels des pratiques descriptives héritent de ressources antérieures, les mobilisent et les transforment.
 
----
+La position constitue un angle d’examen plus local : elle permet de caractériser une situation particulière dans le cadre d’une enquête portant sur ces rapports.
 
-## Développement progressif : la coordonnée de l'enquête
+Elle ne suffit pas à établir comment cette situation s’est formée, quelles pratiques antérieures l’ont rendue possible ou quelles transformations lui succéderont.
 
-Reconstruire la position d'une description interdit de la traiter comme une évidence naturelle ou un donné immédiat. Toute prédication ordinaire ou scientifique s'énonce depuis un nœud d'engagements historiques qui la configurent. 
+### 4.2. Position et stabilisation
 
-La position se caractérise par sa **dépendance fonctionnelle** à l'égard de l'effet cliquet. Lorsqu'une communauté de locuteurs est située dans une position descriptive stabilisée, le coût logique et matériel de retour vers une position antérieure s'avère exorbitant. Les instruments de mesure, les formulaires administratifs, les classifications et les compétences incorporées ont verrouillé le dicible.
+La **stabilisation** concerne le maintien relatif d’une configuration à travers ses reprises et ses variations.
 
-Toutefois, la position n'est pas figée. L'apparition d'anomalies cliniques ou de tensions entre régimes peut saturer le cadre de recevabilité. La position descriptive commence alors à vaciller : elle entre dans une phase métastable, préparant une bifurcation ou une transition vers une nouvelle position capable de restaurer la redevabilité du discours.
+Caractériser une position ne démontre donc pas que la configuration observée est stabilisée. Pour établir une continuité, il faut comparer plusieurs occurrences et préciser les critères qui permettent de reconnaître leur maintien.
 
----
+Une position peut être décrite sans que sa stabilité soit établie. Une configuration stabilisée peut, quant à elle, faire l’objet de caractérisations différentes selon le problème examiné.
 
-## Éclairage par les fils rouges pédagogiques
+### 4.3. Position et position épistémique
 
-### 1. Le patient aux urgences
-À l'arrivée du patient, la description de la douleur brute ou de la moiteur cutanée (PROTO) occupe une première **position** dans l'enquête. Dès lors que l'infirmière traduit ces constantes sur la feuille de triage (qualification clinique, KIN), la situation acquiert une nouvelle **position** relationnelle et temporelle au sein de la trajectoire de soin, entraînant un cliquet déontique qui oblige l'activation immédiate de protocoles d'intervention d'urgence. L'audit examine comment cette position évolue ou se trouve compromise si des critères administratifs secondaires viennent s'y télescoper.
+La **position épistémique** concerne les ressources, les contraintes, les compétences, les instruments et les responsabilités qui rendent certaines descriptions et justifications possibles pour un locuteur dans une pratique.
 
-### 2. « Cette personne est dangereuse »
-La dangerosité n'est pas une nature biologique stable. Elle est une qualification institutionnelle qui occupe une **position** dans une trajectoire procédurale lourde. Sa position commence par un signalement local, se densifie par l'accumulation de rapports d'expertises (strates de sédimentation) et se fige dans une position administrative coercitive. Analyser sa position permet d'auditer le niveau de verrouillage inférentiel qui interdit toute réévaluation ou réversibilité du statut de l'individu.
+La position étudiée ici concerne la configuration descriptive examinée, non l’équipement du locuteur qui la mobilise.
 
-### 3. Le botaniste et le bûcheron
-Face au même arbre, leurs descriptions occupent deux **positions** incommensurables mais étanches. Le botaniste situe son assertion d'*Abies alba* dans une position taxonomique contrainte par les flores mondiales et les conventions académiques. Le bûcheron situe sa qualification de "tronc exploitable" dans une position technique et commerciale locale issue d'une tradition corporative. Leurs positions ne sont pas en contradiction car elles obéissent à des finalités pratiques d'enquêtes différentes.
+Ces deux dimensions peuvent être liées : les ressources disponibles pour un locuteur peuvent contribuer à expliquer pourquoi certaines descriptions sont produites ou privilégiées. Cette relation doit toutefois être examinée dans chaque cas. La position épistémique ne détermine pas mécaniquement le contenu d’une description, et la description produite ne suffit pas à reconstituer l’ensemble des ressources de son auteur.
 
----
+## 5. Conditions de reconstruction
 
-## Limites et vigilances d'audit
+Caractériser une position demande de préciser ce que l’enquête cherche à établir.
 
-Lors de l'audit critique immanent d'un régime descriptif, l'analyste doit surveiller trois dérives méthodologiques majeures liées au concept de position :
+Selon le problème, il peut être nécessaire d’examiner :
 
-*   **L'illusion du présent absolu (amnésie diachronique) :** L'erreur consistant à traiter une position descriptive actuelle comme une vérité immédiate ou intemporelle, en effaçant les strates de sédimentation historique, les choix d'apprentissage et le coût des infrastructures qui l'ont rendue possible.
-*   **La naturalisation de la coordonnée (réification) :** Transformer une position fonctionnelle et réversible au sein de l'espace des raisons en une propriété physique fixe de la réalité ou en un état biologique déterministe (plan **PROTO**), anéantissant la redevabilité et la plasticité de l'enquête.
-*   **La réduction à l'opinion (illusion subjectiviste) :** Traiter la position d'une description comme s'il s'agissait du simple sentiment intime, du biais cognitif ou de la croyance privée d'un sujet conscient, au lieu d'y analyser une coordonnée publique, co-régulée et normée par une communauté de pratique.
+- les descriptions effectivement mobilisées ;
+- les distinctions et les catégories utilisées ;
+- les critères appliqués et les raisons avancées ;
+- les traces, les documents ou les observations disponibles ;
+- les conditions dans lesquelles la situation a été décrite ;
+- les incertitudes qui limitent la caractérisation proposée.
 
----
+Ces éléments ne constituent pas une procédure obligatoire. Ils indiquent des ressources possibles pour justifier la reconstruction d’une position.
 
-## Synthèse finale
+Il faut distinguer les éléments directement observés, les interprétations proposées et les hypothèses portant sur ce qui n’est pas documenté. Une caractérisation rétrospective ne doit pas être présentée comme si les participants avaient eux-mêmes identifié leur situation de cette manière.
 
-### Ce que cette page établit
-Cette page établit le concept de **position** comme coordonnée relationnelle, temporelle et relative d'une description au sein d'une trajectoire diachronique d'enquête, marquant l'état transitoire des engagements d'un collectif.
+Une position peut également être reconstruite de façon différente lorsque le problème, les matériaux disponibles ou les critères d’examen changent. Cette révision ne signifie pas nécessairement que la situation passée a changé : elle peut concerner la description que l’enquête en propose.
 
-### Ce qu'elle suppose
-Cette page suppose établis :
-*   La *configuration descriptive*.
-*   Le *régime descriptif*.
-*   La *stabilisation*.
-*   Le *locuteur normatif*.
+## 6. Limites et non-conversions
 
-### Ce qu'elle rend possible
-Cette page rend possibles :
-*   La reconstruction de la **trajectoire descriptive** (le parcours des transformations).
-*   L'analyse de l'**allure** (la cinétique et le rythme des révisions de critères).
-*   La mise en évidence de l'**historicité** et de la **sédimentation** des concepts.
-*   L'audit méthodique des **inerties dogmatiques** et des **bifurcations critiques**.
+La notion de position permet de caractériser une situation descriptive. Elle n’autorise pas, à elle seule, à conclure :
 
----
+- que cette situation est stable ou durable ;
+- que son état présent résulte nécessairement de son histoire antérieure ;
+- que les descriptions mobilisées sont adéquates à ce qu’elles prétendent décrire ;
+- que les engagements associés à une assertion sont effectivement justifiés ;
+- que les participants disposent tous des mêmes ressources ou partagent la même caractérisation ;
+- que la position observée détermine les transformations futures.
+
+Plus généralement, il faut distinguer la caractérisation d’une situation, l’explication de sa formation, l’établissement de sa continuité et la justification des descriptions qui y sont mobilisées.
+
+Ces questions peuvent être liées, mais aucune réponse obtenue sur l’un de ces plans ne suffit automatiquement à résoudre les autres.
+
+## Synthèse
+
+La position désigne ici une manière de caractériser localement une configuration descriptive relativement à un problème et à des critères explicites.
+
+Elle peut servir à comparer des situations et à examiner les transformations que l’enquête cherche à reconstruire. Elle ne constitue ni une unité temporelle absolue, ni un mécanisme de transformation, ni une étape obligatoire de l’enquête.
+
+Sa valeur dépend de la précision de la caractérisation proposée, des éléments qui la soutiennent et des limites reconnues à son interprétation.
+
+Pour approfondir les notions voisines :
+
+- [Temporalité descriptive](temporalite-descriptive.md)
+- [Trajectoire](trajectoire.md)
+- [Stabilisation](stabilisation.md)
+- [Position épistémique](position-epistemique.md)
