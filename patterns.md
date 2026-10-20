@@ -164,10 +164,13 @@ Structure recommandée
 2. Problème
 3. Définition
 4. Distinctions avec les notions voisines
-5. Articulation avec l’architecture de l’enquête
-6. Exemple discriminant
-7. Limites et non-conversions
-8. Synthèse et renvois
+5. Cohérence avec les autres notions
+6. Articulation avec l’architecture de l’enquête
+7. Exemple discriminant
+8. Questions ouvertes, si nécessaire
+9. Références, si nécessaire
+10. Limites et non-conversions
+11. Synthèse et renvois
 
 Points de vigilance
 
