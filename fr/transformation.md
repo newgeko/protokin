@@ -83,7 +83,7 @@ Une transformation peut être suivie d’une stabilisation, mais ce résultat n�
 
 La stabilisation n’est pas non plus une absence absolue de changement : elle dépend des aspects considérés et du degré de variation compatible avec le maintien de la configuration.
 
-Voir [Stabilisation](stabilisation.md).
+Voir [Stabilisation](fr/stabilisation.md).
 
 ## 4. Transformation, temporalité et trajectoire
 
@@ -101,7 +101,7 @@ Ces notions remplissent donc des fonctions complémentaires :
 - la trajectoire permet de reconstruire un parcours de modifications ;
 - la temporalité descriptive permet d’examiner les rapports temporels plus larges des pratiques.
 
-Voir [Temporalité descriptive](temporalite-descriptive.md) et [Trajectoire](trajectoire.md).
+Voir [Temporalité descriptive](fr/temporalite-descriptive.md) et [Trajectoire](fr/trajectoire.md).
 
 ## 5. Causes, fonctions et justifications
 
@@ -131,7 +131,7 @@ Inversement, une transformation peut être défendue au moyen de raisons et de c
 
 Il faut ainsi distinguer ce qui a changé, les conditions de ce changement, ses effets éventuels et les raisons permettant de l’approuver ou de le contester.
 
-Voir [Justification](justification.md).
+Voir [Justification](fr/justification.md).
 
 ## 6. Exemple : une qualification administrative
 
@@ -176,10 +176,10 @@ Elle permet de caractériser ce qui change sans présumer que le changement cons
 
 ## Renvois
 
-- [Trajectoire](trajectoire.md) — Reconstruire le parcours de transformations d’une description ou d’une pratique.
-- [Temporalité descriptive](temporalite-descriptive.md) — Examiner les rapports temporels des pratiques descriptives.
-- [Stabilisation](stabilisation.md) — Examiner le maintien relatif d’une configuration.
-- [Position](position.md) — Caractériser localement une configuration descriptive.
-- [Justification](justification.md) — Examiner les raisons et les critères qui permettent de défendre ou de contester une modification.
-- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md) — Distinguer les orientations d’examen sans les convertir les unes dans les autres.
-- [Table des matières](tdm.md) — Replacer cette page dans l’organisation du corpus.
+- [Trajectoire](fr/trajectoire.md) — Reconstruire le parcours de transformations d’une description ou d’une pratique.
+- [Temporalité descriptive](fr/temporalite-descriptive.md) — Examiner les rapports temporels des pratiques descriptives.
+- [Stabilisation](fr/stabilisation.md) — Examiner le maintien relatif d’une configuration.
+- [Position](fr/position.md) — Caractériser localement une configuration descriptive.
+- [Justification](fr/justification.md) — Examiner les raisons et les critères qui permettent de défendre ou de contester une modification.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations d’examen sans les convertir les unes dans les autres.
+- [Table des matières](fr/tdm.md) — Replacer cette page dans l’organisation du corpus.
