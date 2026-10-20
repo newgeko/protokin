@@ -1,186 +1,172 @@
-# la-piece-de-cuivre.md — Étude de cas : La pièce de cuivre et l'analyse des inférences matérielles 🧭
+# La pièce de cuivre — Étude de cas
 
-> **Fiche d'étude de cas (Section 11) : Analyse clinique des inférences matérielles, de la redevabilité et du double verrou (PROTO/KIN) à partir du cas de la pièce de cuivre**
+## 1. Situation étudiée
 
----
+Dans un atelier, une personne désigne une pièce métallique et affirme :
 
-### Analyse architecturale de la page
+« Cette pièce est en cuivre pur. »
 
-#### 1. Fonction unique de la page
-Cette page existe pour analyser, à travers l'étude de cas canonique de la **pièce de cuivre** (héritée de Wilfrid Sellars, Robert Brandom et Joseph Rouse), comment une assertion empirique en apparente simplicité (« *Cette pièce est en cuivre pur* ») engage un réseau dense d'**inférences matérielles non-monotoniques** et d'incompatibilités objectives, illustrant cliniquement l'articulation entre les contraintes du milieu réel (pôle **PROTO**) et la tenue de compte des engagements déontiques au sein de la communauté des locuteurs (pôle **KIN**).
+L’affirmation peut sembler simple. Pourtant, elle engage plusieurs questions distinctes : comment la pièce a-t-elle été identifiée ? Quelles propriétés sont associées à la qualification « cuivre pur » ? Quelles vérifications permettraient de soutenir ou de contester cette qualification ? Que faudrait-il réviser si les résultats ne correspondaient pas aux attentes ?
 
-#### 2. Problème conceptuel inaugural
-Comment une qualification empirique portée sur un objet ordinaire (une pièce de cuivre) peut-elle engager le locuteur au-delà de ses intentions subjectives conscientes, sans réduire la vérité de l'assertion à un pur choc causal physique ni la dissoudre dans une convention linguistique arbitraire ?
-Protokin résout ce problème en montrant que l'assertion « *Cette pièce est en cuivre* » institue une responsabilité envers le **contenu réel du concept**, dont les conséquences inférentielles (conductivité, point de fusion à 1085 °C) et les incompatibilités (être en aluminium pur, être un isolant) sont régulées par la communauté d'enquête et sanctuarisées par la friction du **butoir matériel**.
+Le cas ne suppose pas que la pièce soit effectivement en cuivre pur. Sa composition est précisément ce qui doit être examiné.
 
-#### 3. Statut conceptuel
-Fiche d'étude de cas et d'application clinique de second ordre appartenant à la **Section 11 — Études de cas**.
+Il faut également distinguer la pièce comme objet matériel, sa composition, son éventuelle fonction monétaire et l’usage auquel on la destine. Ces descriptions peuvent concerner le même objet sans répondre aux mêmes questions.
 
-#### 4. Dépendances fonctionnelles
-* **Cette page suppose** : 
-  * [01-principes-fondamentaux.md](01-principes-fondamentaux.md) (Étanchéité Causes/Raisons)
-  * [inference-materielle.md](inference-materielle.md) (Inférences matérielles non-monotoniques)
-  * [redevabilite-materielle.md](redevabilite-materielle.md) (Rétroaction du milieu sur les habilitations)
-  * [scorekeeping-deontique.md](scorekeeping-deontique.md) (Tenue de registre des engagements)
-  * [ascriptions-de-dicto-de-re.md](ascriptions-de-dicto-de-re.md) (Écart entre perspective du locuteur et de l'analyseur)
-  * [referent.md](referent.md) & [butoir.md](butoir.md) (Ancrage sur le milieu récalcitrant)
-* **Cette page rend possible** : 
-  * L'exercice clinique de l'audit synoptique des assertions empiriques d'observation.
-  * L'invalidation du réductionnisme causaliste et de l'idéalisme sémantique dans l'analyse des objets matériels.
-  * La démonstration du rôle de la triade **ISA** (Inférence, Substitution, Anaphore) sur un cas physique concret.
+## 2. Question d’enquête
 
-#### 5. Architecture locale
-```text
-           03 — FONDEMENTS DESCRIPTIFS (inference-materielle.md / referent.md)
-                                         │
-                                         ▼
-           11 — ÉTUDES DE CAS : LA PIÈCE DE CUIVRE (la-piece-de-cuivre.md)
-                                         │
-                                         ▼
-            09 — RÉFLEXIVITÉ & AUDIT (ecologie-des-regimes-descriptifs.md)
-```
+La question n’est pas seulement de savoir si l’affirmation est vraie ou fausse. Il s’agit de déterminer ce qui permet de l’évaluer et comment les différents éléments de l’examen contribuent à cette évaluation.
 
----
+Quatre questions sont à distinguer :
 
-### Cartouche fonctionnel
+- **Assertion :** qu’est-ce qui est effectivement affirmé ?
+- **Inférence :** quelles conséquences et incompatibilités sont associées à cette qualification ?
+- **Identification :** quels éléments permettent d’identifier la composition de la pièce ?
+- **Épreuve :** quels examens permettent de soutenir, de préciser ou de contester la qualification initiale ?
 
-| Élément | Description |
-| :--- | :--- |
-| **Section** | Section 11 — Études de cas |
-| **Fichier** | `la-piece-de-cuivre.md` |
-| **Fonction** | Analyser l'assertion « *Cette pièce est en cuivre* » comme prototype d'engagement inférentiel matériel sous contrainte de redevabilité écologique. |
-| **Prépare** | L'audit des rapports d'observation, l'évaluation des erreurs de qualification empirique et l'analyse synoptique des régimes. |
-| **Mobilise** | La triade ISA, l'inférence matérielle, le butoir matériel, la redevabilité de niche, la distinction *De Dicto / De Re* et le *scorekeeping*. |
-| **Permet ensuite** | De démontrer comment l'espace des raisons s'adosse au milieu réel sans conversion de catégories et de déconstruire le Mythe du Donné. |
-| **N'établit pas** | Un traité de métallurgie physique de premier ordre, ni un cours de chimie des solides sur l'élément Cu. |
+Ces questions dépendent les unes des autres sans être interchangeables. La formulation d’une affirmation ne prouve pas son contenu ; les conséquences associées à une qualification ne démontrent pas que cette qualification s’applique au cas considéré ; un résultat expérimental ne détermine pas, à lui seul, le diagnostic à retenir.
 
----
+## 3. L’affirmation et ses conséquences
 
-### 1. La situation d'épreuve : L'assertion sur la pièce de cuivre
+Affirmer que la pièce est en cuivre ne consiste pas uniquement à lui attribuer un nom. Dans une pratique où cette qualification est comprise, elle autorise certaines attentes concernant les propriétés du matériau.
 
-Considérons la situation où un participant au jeu des raisons pointe une pièce métallique sur une table de laboratoire ou d'atelier et formule l'assertion :
+On peut notamment s’attendre à ce que le cuivre conduise l’électricité et présente des propriétés physiques caractéristiques. La qualification permet ainsi d’anticiper certains résultats, de choisir des opérations et de comparer les observations aux attentes.
 
-$$\text{« Cette pièce est en cuivre pur. »}$$
+Ces conséquences ne sont pas toutes du même type. Certaines reposent sur des connaissances établies concernant les propriétés du cuivre ; d’autres dépendent des conditions de l’expérience, de la précision de la qualification et des propriétés effectivement recherchées.
 
-À première vue, cette assertion semble être la simple attribution d'un nom à une chose. L'audit Protokin montre qu'il s'agit en réalité d'un **acte pragmatique d'engagement** qui active instantanément trois niveaux d'intelligibilité :
+L’affirmation « Cette pièce est en cuivre pur » est également plus précise que « Cette pièce est métallique ». La seconde qualification ne permet pas, à elle seule, de tirer toutes les conclusions associées à la première.
 
-1. **L'Ancrage d'occurrence (Pôle PROTO / Deixis)** : L'événement d'énonciation singulier, daté et situé (*hic et nunc*), ciblant la pièce de monnaie comme corps physique récalcitrant dans le milieu.
-2. **Le Contenu propositionnel (Pôle KIN / Inférence matérielle)** : L'insertion de l'énoncé dans le réseau des conséquences et des incompatibilités qui constituent la signification du concept `cuivre`.
-3. **Le Scorekeeping déontique (Intersubjectivité / Ascriptions)** : L'autorisation accordée aux auditeurs d'utiliser cette affirmation comme prémisse pour des actions pratiques (ex. l'intégrer dans un circuit électrique) et l'obligation pour le locuteur de répondre des raisons de son affirmation en cas de doute.
+L’examen des conséquences permet donc de préciser la portée de l’affirmation. Il ne suffit cependant pas à établir que la pièce possède effectivement les propriétés attendues.
 
----
+Pour approfondir cette distinction, voir [Assertion](assertion.md) et [Inférence matérielle](inference-materielle.md).
 
-### 2. L'Anatomie de l'Inférence Matérielle : Conséquences et Incompatibilités
+## 4. Identifier la composition de la pièce
 
-Conformément aux travaux de Sellars et Brandom, la signification du concept `cuivre` ne réside pas dans une image mentale ni dans une définition nominale passive, mais dans un ensemble de **règles d'inférence matérielle non-monotoniques** :
+La pièce présente une couleur, une masse, une forme et un comportement observable. Ces caractéristiques peuvent contribuer à une première identification, mais elles ne suffisent pas nécessairement à déterminer sa composition.
 
-```text
-                               ┌──►  « La pièce est conductrice d'électricité »
-                               │
- « Cette pièce est en cuivre » ├──►  « La pièce fond à environ 1085 °C »
-                               │
-                               └──►  « La pièce réagit à l'acide nitrique »
-                               
- Incompatibilités matérielles  ──►  ≠ « La pièce est en aluminium pur »
-                               ──►  ≠ « La pièce est un isolant électrique parfait »
-```
+Une apparence cuivrée ne prouve pas que l’objet est constitué de cuivre pur. Il peut s’agir d’un alliage, d’un autre métal ou d’un matériau recouvert d’une couche superficielle. De même, une mesure de conductivité peut fournir un indice utile sans constituer à elle seule une identification complète.
 
-#### A. Les conséquences d'application (Entraînements matériels)
-Affirmer que la pièce est en cuivre autorise immédiatement des transitions inférentielles qui ne sont pas des pures tautologies logiques formelles ($A \land \neg A$), mais des vérités synthétiques ancrées dans la physique du matériau :
-* Si la pièce est en cuivre, alors elle conduira le courant électrique avec une faible résistance.
-* Si elle est chauffée sous pression atmosphérique standard jusqu'à 1085 °C, elle entrera en phase de fusion.
+L’enquête doit donc préciser les éléments mobilisés pour identifier le matériau : provenance de la pièce, documentation disponible, mesures physiques, analyse de composition ou comparaison avec des échantillons de référence.
 
-#### B. Les incompatibilités matérielles (Incompatibility Entailments)
-L'engagement sur le concept `cuivre` exclut d'autres qualifications de manière normative :
-* L'affirmation « *Cette pièce est en cuivre pur* » est **matériellement incompatible** avec « *Cette pièce est en aluminium pur* » ou « *Cette pièce est un isolant électrique* ».
-* Si l'instrumentation montre que la pièce est un isolant, l'habilitation du locuteur est révoquée par constat d'incompatibilité.
+La pertinence de ces éléments dépend de la question posée. Une vérification suffisante pour un usage courant peut ne pas l’être pour certifier la composition d’un matériau dans un contexte industriel ou scientifique.
 
----
+Il faut distinguer :
 
-### 3. Les deux régimes d'intelligibilité : Image Manifeste vs Image Scientifique
+- **La pièce :** l’objet matériel examiné.
+- **La qualification :** l’affirmation selon laquelle la pièce est en cuivre pur.
+- **Les indices :** les observations, mesures ou documents invoqués à l’appui de cette qualification.
+- **L’identification :** la conclusion selon laquelle les éléments disponibles autorisent à rapporter la pièce à une composition déterminée.
 
-La pièce de cuivre offre un exemple parfait de la dyade des images chez Sellars et Protokin :
+Ces distinctions n’impliquent pas que l’identification soit arbitraire ou qu’elle dépende uniquement du vocabulaire employé. Elles indiquent que l’identification doit être soutenue par des éléments pertinents et que ces éléments peuvent être réexaminés.
 
-| Dimension | Image Manifeste (Régime usuel / Économique) | Image Scientifique (Physique des solides) |
-| :--- | :--- | :--- |
-| **Objet descriptif** | La pièce de monnaie, le jeton métallique, le support de valeur d'échange. | L'agrégat cristallin d'atomes $Cu$ ($Z=29$) avec bande de conduction d'électrons libres. |
-| **Supports d'accès** | La perception oculaire (couleur rougeoie/brillante), le toucher, la masse en main, le registre monétaire. | Le spectromètre, la balance de précision, le banc de mesure de conductivité électrique. |
-| **Inférences majeures** | « *Cette pièce permet d'acquérir un bien* », « *Elle est lourde et sonore* ». | « *La densité est de 8,96 g/cm³* », « *La résistance thermique suit la loi de Wiedemann-Franz* ». |
-| **Règle d'audit** | **Non-réduction** : La physique atomique explique le comportement du matériau (PROTO) mais ne dissout pas la valeur institutionnelle de la pièce dans l'échange marchand (KIN). |
+Pour approfondir, voir [Référent — Identification et visée d’objet](referent.md).
 
----
+## 5. Mettre la qualification à l’épreuve
 
-### 4. L'Analyse par la Triade ISA et les Ascriptions *De Dicto* / *De Re*
+Supposons que la pièce soit destinée à un montage électrique et que son utilisateur compte sur sa conductivité.
 
-#### A. La décomposition par la Triade ISA (Inférence, Substitution, Anaphore)
-1. **Inférence** : L'assertion globale « *La pièce de cuivre est dans le circuit* » autorise la conclusion « *Le courant va passer* ».
-2. **Substitution (Rôle symétrique des termes singuliers)** : La substitution de « *cette pièce de cuivre* » par « *la pièce rapportée du laboratoire* » préserve la valeur de vérité (*salva veritate*). Cela définit la classe d'équivalence ciblant le même référent.
-3. **Anaphore** : Dans la séquence « *Le physicien a posé une pièce de cuivre. Elle a conduit le courant* », le pronom « *Elle* » hérite du contenu de l'occurrence initiale et transporte sa charge normative à travers le temps.
+Le montage ne fonctionne pas comme prévu. Ce résultat contrarie une attente associée à l’usage de la pièce, mais il ne permet pas encore de conclure que celle-ci n’est pas en cuivre.
 
-#### B. L'écart entre Ascription *De Dicto* et *De Re*
-Dans le suivi du registre déontique (*scorekeeping*), l'auditeur distingue :
-* **Ascription *De Dicto* (Perspective du locuteur)** : « *Paul croit [de dicto] que cette pièce est en cuivre pur* ». On évalue la cohérence cognitive interne de Paul selon son propre vocabulaire.
-* **Ascription *De Re* (Perspective du scorekeeper / analyseur)** : « *Paul affirme, au sujet du morceau de laiton [de re], qu'il s'agit de cuivre* ». L'analyseur substitue le terme de Paul par le terme adéquat pour ancrer la description sur le **référent matériel réel**.
+Plusieurs explications restent possibles : la pièce n’a pas la composition attendue ; le contact électrique est mauvais ; l’instrument est défectueux ; les conditions de l’essai sont inadéquates ; ou l’explication initiale du dysfonctionnement est insuffisante.
 
----
+L’échec devient un élément d’enquête lorsqu’il est rapporté à une attente déterminée et examiné avec les autres éléments disponibles.
 
-### 5. Le Butoir Matériel : La friction du milieu récalcitrant
+L’enquête peut alors contrôler le montage, répéter l’essai, comparer les résultats, examiner les conditions de mesure ou recourir à une méthode d’identification plus appropriée. Ces opérations ne garantissent pas toutes le même type de résultat et ne sont pas nécessairement requises dans chaque situation.
 
-Cette étude de cas illustre de manière lumineuse pourquoi Protokin refuse l'idéalisme linguistique (Rorty/Goodman) :
+Il faut notamment distinguer trois constats :
 
-1. **L'action de sortie du langage (*Language-exit transition*)** : Le locuteur intègre la pièce de cuivre dans un montage expérimental ou industriel en s'attendant à ce qu'elle conduise le courant.
-2. **Le choc du Butoir matériel** : Si la pièce s'avère être un alliage factice ou un morceau de plastique recouvert d'une fine pellicule brillante, le courant ne passe pas. Le montage échoue.
-3. **La règle de non-conversion** : 
-   * La panne électrique ou l'absence de courant (pôle **PROTO**) est une **cause physique brute** / une résistance du milieu. Elle ne formule pas de phrases.
-   * Mais elle **révoque l'habilitation** du locuteur dans l'espace des raisons (pôle **KIN**) : le collectif contraint le locuteur à réviser son assertion initialement portée.
+1. **Un résultat attendu ne se produit pas.** L’opération rencontre une difficulté dans les conditions de l’essai.
+2. **Une incompatibilité est mise en évidence.** Le résultat entre en conflit avec une attente précise, une mesure ou une qualification.
+3. **Une conclusion est révisée.** Les éléments recueillis et leur interprétation justifient de modifier l’affirmation initiale, les conditions retenues ou le diagnostic.
 
----
+Ces constats peuvent être liés, mais ils ne se confondent pas. L’échec d’une opération ne détermine pas immédiatement sa cause, et l’identification d’une cause ne suffit pas toujours à justifier une conclusion générale sur le matériau.
 
-### 6. Protocole d'audit de l'assertion empirique en 5 étapes
+Pour approfondir, voir [Butoir](butoir.md).
 
-Lorsqu'un audit Protokin traite une controverse portant sur une qualification matérielle (ex. litige sur la qualité d'un matériau dans une industrie ou une expertise) :
+## 6. Ce que le cas permet de distinguer
 
-```text
-  [1. Saisie de l'assertion]
-               │
-               ▼
-  [2. Cartographie des inférences matérielles] ──► (Incompatibilités & Conséquences)
-               │
-               ▼
-  [3. Évaluation De Dicto / De Re] ─────────────► (Écart entre croyance et référent)
-               │
-               ▼
-  [4. Épreuve du Butoir matériel] ──────────────► (Test de sortie du langage / Action)
-               │
-               ▼
-  [5. Restructuration & Révision des critères]
-```
+### 6.1. Résistance matérielle et interprétation
 
-1. **Étape 1 : Saisie de l'énoncé** — Isoler l'assertion d'observation (« *Ce matériau est du cuivre pur* »).
-2. **Étape 2 : Cartographie des inférences matérielles** — Expliciter la liste des conséquences autorisées et des incompatibilités exclues.
-3. **Étape 3 : Évaluation de la perspective (*De Dicto / De Re*)** — Séparer ce que le locuteur pense affirmer et la qualification réelle du référent selon les instruments de mesure.
-4. **Étape 4 : Épreuve du Butoir matériel** — Confronter la qualification à une manipulation instrumentale ou technique réelle (passage de courant, test de densité).
-5. **Étape 5 : Restructuration de la tenue de registre** — Si le butoir invalide l'assertion, corriger le registre déontique, révoquer l'habilitation et mettre à jour le vocabulaire d'enquête.
+L’absence de conductivité attendue, ou le dysfonctionnement d’un montage, constitue un résultat rencontré dans des conditions déterminées. Ce résultat ne contient pas directement sa propre interprétation.
 
----
+Il faut déterminer ce qui a échoué, quelles attentes sont mises en question et quelles autres hypothèses doivent être examinées.
 
-### Synthèse finale
+La résistance matérielle contraint donc l’enquête sans fournir à elle seule la description à retenir. Elle peut rendre une affirmation difficile à maintenir, mais le diagnostic doit être soutenu par des observations et des raisons.
 
-#### Ce que cette page établit
-L'analyse clinique de l'étude de cas de la pièce de cuivre, démontrant la structure des inférences matérielles non-monotoniques, le rôle de la redevabilité écologique face au butoir matériel et le fonctionnement des ascriptions *de dicto / de re* dans le *scorekeeping* déontique.
+### 6.2. Conséquence attendue et preuve d’identification
 
-#### Ce qu'elle suppose
-La démarcation sellarsienne entre Causes et Raisons ([01-principes-fondamentaux.md](01-principes-fondamentaux.md)), la théorie des inférences matérielles ([inference-materielle.md](inference-materielle.md)), la redevabilité matérielle ([redevabilite-materielle.md](redevabilite-materielle.md)) et l'analyse de l'ancrage référentiel ([referent.md](referent.md)).
+Le fait qu’un matériau conduise l’électricité est compatible avec une composition en cuivre, mais cette propriété n’est pas exclusive au cuivre. Observer une conductivité ne suffit donc pas à établir que la pièce est en cuivre pur.
 
-#### Ce qu'elle rend possible
-L'audit rigoureux des expertises de terrain portant sur des objets physiques, la déconstruction du Mythe du Donné d'observation et l'harmonisation synoptique de l'Image manifeste et de l'Image scientifique.
+Inversement, un résultat inattendu peut mettre en question la qualification initiale sans permettre immédiatement d’identifier une autre composition.
 
-#### Séquence d'audit établie
-`Saisie de l'assertion → Explicitation des inférences matérielles → Analyse De Dicto / De Re → Épreuve du Butoir matériel → Réajustement des critères`
+Il faut distinguer les conséquences associées à une qualification et les éléments qui permettent de déterminer si cette qualification s’applique effectivement au cas examiné.
 
----
+### 6.3. Composition matérielle et fonction de la pièce
 
-##### 🌐 Liens avec le Corpus et les Pages Canoniques
-* **Cadre & Méthode** : [README-v3.md](README-v3.md) · [architecture-systeme.md](architecture-systeme.md) · [tdm-v2.md](tdm-v2.md)
-* **Pragmatique & Langage** : [predication.md](predication.md) · [proposition.md](proposition.md) · [assertion.md](assertion.md) · [la-portee-inferentielle.md](la-portee-inferentielle.md)
-* **Référence & Normativité** : [referent.md](referent.md) · [scorekeeping-deontique.md](scorekeeping-deontique.md) · [inference-materielle.md](inference-materielle.md) · [ascriptions-de-dicto-de-re.md](ascriptions-de-dicto-de-re.md) · [occurrence-v2.md](occurrence-v2.md)
+La pièce peut être décrite comme un objet composé d’un matériau déterminé et comme une pièce de monnaie ayant une fonction institutionnelle.
+
+Une analyse de sa composition peut éclairer certaines propriétés physiques. Elle ne suffit pas à établir sa valeur monétaire, son statut institutionnel ou sa fonction dans une transaction.
+
+Inversement, le fait qu’un objet soit reconnu comme une pièce de monnaie ne garantit pas que sa composition corresponde à celle qu’on lui attribue.
+
+Les deux descriptions peuvent être liées dans la pratique, mais elles ne se remplacent pas. La description physique ne dissout pas automatiquement la fonction institutionnelle, et la fonction institutionnelle ne détermine pas la composition matérielle.
+
+### 6.4. Erreur descriptive et responsabilité du locuteur
+
+Si la qualification initiale est contestée, il faut examiner les raisons qui la soutenaient, les éléments accessibles au locuteur et les exigences de la pratique concernée.
+
+Une erreur de qualification ne prouve pas à elle seule que le locuteur a agi de manière irresponsable. Il peut avoir utilisé des indices insuffisants, suivi une procédure défaillante ou disposé d’informations incomplètes. Il peut aussi avoir ignoré des résultats qui auraient dû conduire à réviser son affirmation.
+
+La correction de la description et l’évaluation de la responsabilité du locuteur sont donc deux questions distinctes. Leur articulation dépend du contexte, des engagements pris et des critères applicables.
+
+Pour approfondir, voir [Scorekeeping déontique](scorekeeping-deontique.md).
+
+## 7. Résultats et limites de l’analyse
+
+Ce cas permet d’établir plusieurs distinctions utiles.
+
+Premièrement, une affirmation empirique engage des conséquences qui dépassent la seule formulation de la phrase. Ces conséquences permettent de préciser ce qui est attendu d’une qualification et ce qui peut la mettre en difficulté.
+
+Deuxièmement, les conséquences associées à une qualification ne suffisent pas à prouver que celle-ci s’applique à un objet particulier. L’identification exige des éléments pertinents et une interprétation de ces éléments.
+
+Troisièmement, un échec pratique peut déclencher une enquête sans déterminer à lui seul sa conclusion. Il peut conduire à réviser l’affirmation, mais aussi à corriger le dispositif expérimental ou à réexaminer les conditions de l’essai.
+
+Enfin, les propriétés matérielles de la pièce et sa fonction institutionnelle peuvent être décrites conjointement sans que l’une soit réduite à l’autre.
+
+Le cas ne fournit toutefois pas de résultat empirique sur une pièce effectivement analysée. Aucun échantillon, rapport de mesure ou protocole de laboratoire n’est présenté ici. L’analyse porte sur la structure d’une situation possible et sur les distinctions nécessaires pour l’examiner ; elle ne certifie pas la composition d’un objet réel.
+
+## 8. Enseignements pour Protokin
+
+La pièce de cuivre montre comment une difficulté descriptive peut mettre en relation plusieurs questions sans les rendre équivalentes.
+
+Une qualification peut orienter des attentes et des opérations. Les résultats de ces opérations peuvent contrarier ces attentes. L’enquête doit alors déterminer ce qui est mis en cause, quelles explications restent possibles et quelles raisons permettent de réviser ou de maintenir la qualification.
+
+Cette analyse ne suppose ni que le milieu fournisse directement une description vraie, ni que la validité d’une affirmation dépende uniquement de l’accord entre locuteurs.
+
+Elle conduit à préserver plusieurs non-conversions :
+
+- **Affirmation ≠ preuve de son contenu.**
+- **Conséquence attendue ≠ identification du matériau.**
+- **Échec pratique ≠ diagnostic de l’échec.**
+- **Résistance matérielle ≠ justification.**
+- **Composition physique ≠ fonction institutionnelle.**
+- **Erreur descriptive ≠ faute du locuteur.**
+
+Ces distinctions n’isolent pas les dimensions de l’enquête. Elles permettent d’examiner leurs dépendances tout en maintenant la différence entre les fonctions qu’elles remplissent.
+
+## Renvois
+
+- [Assertion](assertion.md) — Prise en charge d’un contenu dans une pratique discursive.
+- [Inférence matérielle](inference-materielle.md) — Conséquences et incompatibilités associées au contenu d’un énoncé.
+- [Référent](referent.md) — Identification et visée d’objet.
+- [Butoir](butoir.md) — Résistances et contraintes qui limitent certaines opérations ou descriptions.
+- [Substitution](substitution.md) — Effets du remplacement d’une expression dans un contexte donné.
+- [Scorekeeping déontique](scorekeeping-deontique.md) — Suivi des engagements et des habilitations.
+- [Redevabilité matérielle](redevabilite-materielle.md) — Articulation entre résultats pratiques et révision des engagements descriptifs.
+
+## Synthèse
+
+La pièce de cuivre permet d’examiner comment une affirmation empirique engage des attentes, comment une épreuve peut les mettre en difficulté et pourquoi les résultats obtenus doivent être interprétés avant de justifier une révision.
+
+Le cas ne prouve pas qu’une résistance matérielle dicte la bonne description. Il montre que l’enquête doit tenir ensemble les conséquences d’une qualification, les éléments qui soutiennent l’identification et les raisons permettant de maintenir ou de réviser l’affirmation.
+
+**Une épreuve peut contraindre une description sans fournir, à elle seule, le diagnostic qui doit la remplacer.**
