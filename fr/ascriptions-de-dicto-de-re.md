@@ -1,145 +1,144 @@
-# ascriptions-de-dicto-de-re-v2.md — Ascriptions *De Dicto* et *De Re* : Dualité de perspective, Scorekeeping social et Ancrage référentiel 🧭
+# Ascriptions *de dicto* et *de re*
 
-> **Page canonique de la bimodalité perspective-objet, de l'asymétrie sociale de la référence et de l'audit de second ordre**
+## 1. Fonction
 
----
+Cette page examine la distinction entre les ascriptions *de dicto* et *de re*. Elle précise comment un contenu peut être attribué en conservant la description sous laquelle il est formulé ou en identifiant autrement l’objet dont il est question.
 
-### 1. Statut et Fonction de la Distinction *De Dicto* / *De Re*
+Cette distinction est utile lorsqu’un locuteur emploie une expression sans connaître toutes les identités ou les relations que l’enquête permet d’établir. Elle permet de différencier ce qu’une personne soutient sous une description déterminée de ce qu’un analyste peut lui attribuer au sujet d’un objet identifié autrement.
 
-Dans la philosophie du langage, la logique modale et le pragmatisme inférentiel (de Gottlob Frege et W.V.O. Quine à Wilfrid Sellars et Robert Brandom), la distinction entre ascriptions ***de dicto*** (« au sujet de ce qui est dit ») et ***de re*** (« au sujet de la chose ») permet de caractériser la manière dont les croyances, assertions et engagements d'un agent sont attribués et évalués par un tiers (*scorekeeper* ou analyseur).
+Elle ne constitue ni une opposition entre subjectivité et réalité ni une méthode garantissant l’accès au référent. La pertinence d’une attribution dépend du contexte, de la formulation retenue et des éléments qui permettent de soutenir l’identification proposée.
 
-Au sein de l'architecture d'enquête **Protokin**, cette distinction ne constitue pas une simple finesse de logique formelle, mais l'**opérateur d'audit de second ordre** qui permet de résoudre la tension entre la pluralité des perspectives discursives (*pôle KIN*) et l'objectivité de l'ancrage matériel (*pôle PROTO*) :
+## 2. Problème : une même chose, plusieurs descriptions
 
-1. **La bimodalité des perspectives** : L'ascription *de dicto* restitue la cohérence cognitive interne du locuteur dans son propre vocabulaire, tandis que l'ascription *de re* réarticule cette affirmation dans le vocabulaire de l'analyseur pour la connecter au référent matériel réel (*butoir*).
-2. **L'asymétrie sociale de la référence** : Conformément aux thèses de Brandom (*Making It Explicit*, *A Spirit of Trust*), l'objectivité de la référence n'est pas un rapport métaphysique direct entre le mot et la chose, mais une **structure sociale asymétrique** qui émerge de l'écart entre ce que le locuteur affirme dans ses termes (*de dicto*) et ce à quoi son affirmation se rapporte du point de vue de l'évaluateur (*de re*).
+Deux expressions peuvent désigner le même objet sans que cette équivalence soit connue de tous les locuteurs ni pertinente dans tous les contextes.
 
-```text
-                       [ Acte d'Assertion du Locuteur ]
-                                      │
-           ┌──────────────────────────┴──────────────────────────┐
-           ▼                                                     ▼
-[ Ascription De Dicto ]                               [ Ascription De Re ]
-Perspective du locuteur                               Perspective de l'analyseur
-(Vocabulaire & rôle inférentiel local)                (Ancrage sur le référent matériel)
-"S croit que le réactif A..."                         "S croit, au sujet du produit toxique B, que..."
-```
+Considérons une personne qui sait que l’étoile du matin est visible à l’aube, mais qui ignore que l’étoile du matin et l’étoile du soir désignent la même planète.
 
----
+On peut lui attribuer la croyance que l’étoile du matin est visible à l’aube. En revanche, on ne peut pas en déduire automatiquement qu’elle croit que l’étoile du soir est visible à l’aube. La substitution des deux expressions, bien qu’elles désignent le même objet, peut modifier ce que l’attribution exprime au sujet de cette personne.
 
-### 2. Définition Fonctionnelle & Structure Opératoire
+La difficulté vient de ce que l’identité de l’objet ne suffit pas à préserver le contenu d’une attribution dans tous les contextes. Il faut distinguer l’identification que l’analyste peut établir et la description sous laquelle le locuteur conçoit ou désigne ce dont il parle.
 
-Lorsqu'un analyste, un auditeur ou un partenaire de dialogue attribue un engagement descriptif à un locuteur, il peut le spécifier selon deux régimes d'étanchéité distincts :
+Cette distinction ne signifie pas que le locuteur dispose d’un contenu entièrement privé, indépendant des usages linguistiques. Elle signifie que les conditions dans lesquelles une expression est comprise ou reconnue peuvent affecter ce qu’il est légitime de lui attribuer.
 
-#### A. Ascription *De Dicto* (La perspective du locuteur)
-L'ascription *de dicto* spécifie le contenu d'un engagement en conservant **scrupuleusement le vocabulaire, les concepts et les règles d'inférence du locuteur lui-même**.
+## 3. Définition des deux formes d’attribution
 
-* **Fonction** : Reconstruire la cohérence cognitive interne, les motifs intentionnels et les engagements reconnus (*acknowledged commitments*) par l'agent.
-* **Critère d'opacité sémantique** : Substitution *salva veritate* interdite. On ne peut pas remplacer une expression par un terme co-référentiel sans risquer de modifier la valeur de vérité de l'ascription, car le locuteur peut ignorer cette équivalence.
-* **Exemple d'audit** : *« Le technicien affirme [de dicto] que le produit A est inoffensif. »* Si le technicien ignore que le produit A est chimiquement identique à la substance toxique B, l'analyste ne peut pas déduire *de dicto* que le technicien affirme que la substance B est inoffensive.
+### 3.1. Ascription *de dicto*
 
-#### B. Ascription *De Re* (La perspective du *scorekeeper* / analyseur)
-L'ascription *de re* spécifie le contenu d'un engagement en substituant le vocabulaire du locuteur par **le vocabulaire d'enquête de l'analyseur ou de la communauté**, afin d'isoler **l'objet réel** (*référent matériel*) sur lequel porte l'affirmation.
+Une ascription *de dicto* attribue un contenu en conservant la description sous laquelle ce contenu est formulé dans le contexte examiné.
 
-* **Fonction** : Ancrer la description sur le milieu récalcitrant (*butoir matériel*), évaluer la portée réelle des actes et rendre comparables des descriptions concurrentes portant sur un même phénomène.
-* **Critère de transparence sémantique** : Substitution de termes co-référentiels autorisée selon le registre de preuves du *scorekeeper*.
-* **Exemple d'audit** : *« Le technicien affirme, au sujet de la substance toxique B [de re], qu'elle est inoffensive. »* Ici, l'analyseur identifie le danger réel du produit manipulé par le technicien, indépendamment du vocabulaire utilisé par ce dernier.
+Elle permet notamment de préciser ce qu’un locuteur affirme, croit ou tient pour établi sous les termes qu’il emploie, sans remplacer ceux-ci par une autre description au seul motif que l’analyste considère les expressions comme coréférentielles.
 
----
+Dans l’exemple précédent, attribuer à la personne la croyance que l’étoile du matin est visible à l’aube conserve la description sous laquelle elle reconnaît le phénomène.
 
-### 3. Le *Scorekeeping* Déontique et l'Inférence Substitutionnelle
+Cette forme d’attribution ne donne pas un accès direct à l’état mental privé du locuteur. Elle constitue une manière de formuler ce qui lui est attribué, à partir des paroles, des conduites et du contexte disponibles.
 
-Dans le jeu de donner et demander des raisons (*Deontic Scorekeeping*), les ascriptions *de dicto* et *de re* structurent le tableau des **statuts normatifs** et des **attitudes pragmatiques** :
+### 3.2. Ascription *de re*
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                      STRUCTURE SOCIALE DU SCOREKEEPING                      │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ • Première personne (Locuteur)  ──► Engagement reconnu (De Dicto)          │
-│ • Troisième personne (Auditeur) ──► Engagement attribué De Re (Référent)   │
-│ • Écart Inférentiel            ──► Émergence de l'Objectivité de Référence │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+Une ascription *de re* attribue une croyance, une affirmation ou une autre attitude à propos d’un objet identifié sous une description qui peut différer de celle employée par le locuteur.
 
-#### A. Inférence substitutionnelle et types de termes
-Selon Brandom, la distinction *de dicto / de re* repose sur l'analyse de l'inférence substitutionnelle :
-1. **Termes singuliers** : Génèrent des licences de substitution symétriques (*t = t'*). L'ascription *de re* utilise ces identités pour substituer des désignateurs rigides ou des descriptions définies.
-2. **Prédicats** : Génèrent des inférences substitutionnelles asymétriques. L'ascription *de re* permet de mesurer l'écart entre le prédicat attribué par le locuteur et la qualification requise par les lois matérielles du milieu.
+Dans l’exemple précédent, l’analyste peut attribuer à la personne une croyance concernant Vénus, identifiée comme la planète désignée par l’expression « étoile du matin ». Cette attribution s’appuie sur une identification de l’objet que la personne n’effectue pas nécessairement elle-même.
 
-#### B. La genèse pragmatique de l'objectivité
-L'objectivité de la référence ne découle pas d'un regard panoptique extérieur au langage. Elle consiste dans le fait qu'un *scorekeeper* attribue à un locuteur un engagement *de re* qui peut différer de ce que le locuteur reconnaît *de dicto*. C'est précisément dans cette **asymétrie sociale** que réside la possibilité de l'erreur, de la révision et de la découverte empirique.
+L’ascription *de re* permet donc de formuler une attribution à partir d’une identification retenue par l’analyste. Elle ne signifie pas que le locuteur reconnaît cette identification ni qu’il accepte les conséquences associées à la description employée par l’analyste.
 
----
+Elle n’est pas non plus une simple reformulation extérieure qui serait nécessairement plus vraie ou plus objective. L’identification de l’objet, la relation entre cette identification et l’attitude attribuée, ainsi que la formulation de l’attribution doivent pouvoir être défendues.
 
-### 4. Diagnostic Clinical des Pathologies Discursives dans Protokin
+## 4. La substitution et ses limites
 
-L'utilisation d'une grille d'audit mal calibrée entre *de dicto* et *de re* engendre trois pathologies majeures que l'enquêteur Protokin doit savoir repérer et corriger :
+La distinction entre *de dicto* et *de re* devient particulièrement importante lorsque l’analyste envisage de remplacer une expression par une autre.
 
-#### 1. L'Erreur d'Imputation (Le procès d'intention)
-* **Symptôme** : Attribuer à un agent une intention ou une responsabilité morale *de dicto* sur la seule base des conséquences *de re* de son action.
-* **Correction** : Rétablir la frontière : un acteur peut être matériellement responsable *de re* d'avoir manipulé un produit dangereux sans être moralement coupable *de dicto* s'il ne disposait pas des catégories pour l'identifier.
+Dans un contexte ordinaire, deux expressions qui désignent le même objet peuvent souvent être substituées sans modifier ce qui est affirmé. Mais cette possibilité ne se maintient pas automatiquement dans les contextes qui attribuent une croyance, un désir, une connaissance ou une autre attitude à une personne.
 
-#### 2. L'Amnésie du Référent (L'autisme discursif)
-* **Symptôme** : S'enfermer dans l'analyse exclusive des ascriptions *de dicto*, en traitant la cohérence interne du discours du locuteur comme si elle annulait les défaillances *de re* de son action face au milieu.
-* **Correction** : Activer le levier *de re* : montrer que la cohérence des mots du locuteur n'empêche pas l'appareil de casser face au **butoir matériel**.
+La substitution peut modifier le contenu de l’attribution lorsqu’elle introduit une description que le locuteur ne reconnaît pas, ou lorsqu’elle modifie la manière dont l’objet intervient dans ce qui lui est attribué.
 
-#### 3. L'Anachronisme Descriptif
-* **Symptôme** : Projeter *de dicto* sur des acteurs historiques ou des communautés traditionnelles des catégories scientifiques *de re* élaborées ultérieurement.
-* **Correction** : Reconstruire la trajectoire : reconnaître qu'un alchimiste traitait *de re* du mercure tout en maintenant *de dicto* des inférences fondées sur la théorie des principes hermétiques.
+Il faut donc distinguer :
 
----
+- **L’identité référentielle** : deux expressions désignent le même objet, selon les éléments disponibles.
+- **L’équivalence dans un contexte d’attribution** : remplacer une expression par une autre préserve ce qui est attribué au locuteur dans ce contexte.
+- **La connaissance de cette équivalence par le locuteur** : le locuteur reconnaît ou non que les deux expressions désignent le même objet.
+- **La légitimité de l’attribution** : les éléments disponibles autorisent à attribuer le contenu ainsi formulé.
 
-### 5. Articulation dans l'Architecture Protokin
+Ces quatre questions sont liées, mais aucune ne reçoit automatiquement sa réponse des autres.
 
-#### A. Ancrage dans la Quadripartition de Base
-La distinction *de dicto / de re* traverse les quatre questions d'orientation de l'enquête :
+L’identité référentielle ne garantit donc pas la substitution dans un contexte d’attitude. Inversement, le fait qu’un locuteur ignore une identité ne signifie pas que les deux expressions désignent nécessairement des objets distincts.
 
-| Dimension | Traitement *De Dicto* (Locuteur) | Traitement *De Re* (Analyseur) |
-| :--- | :--- | :--- |
-| **Condition** | Perceptions et repères réceptifs vécus par l'agent. | **Butoir matériel** et contraintes physiques réelles du milieu. |
-| **Relation** | Réseau d'incompatibilités conceptuelles reconnu par le locuteur. | Invariants relationnels et équivalences de co-référence de la communauté. |
-| **Fonction** | Rôle d'orientation pratique immédiate dans la conduite de l'agent. | Opérativité technique et puissance d'intervention sur la situation. |
-| **Justification** | Raisons, critères et autorités explicitement invoqués. | Révision des habilitations déontiques face aux faits avérés. |
+## 5. Exemple : un produit désigné sous deux descriptions
 
-#### B. Les Maximes Canoniques de Non-Conversion
-* $\text{Ascription } De\ Dicto \\neq \\text{Ascription } De\ Re$ (Ne pas confondre les termes de l'agent et ceux du scorekeeper).
-* $\text{Rôle Inférentiel } (De\ Dicto) \\neq \\text{Référence Objective } (De\ Re)$ (La cohérence du sens ne garantit pas l'identité de l'objet).
-* $\text{Vocabulaire du Locuteur} \\neq \\text{Constitution du Référent}$ (L'ignorance sémantique d'un sujet n'annule pas la réalité de la contrainte matérielle).
+Un technicien affirme : « Le produit A est inoffensif. » L’enquête établit ensuite que le produit A correspond à une substance également désignée sous le nom de produit B, dont certains usages présentent un danger.
 
----
+Plusieurs questions doivent être distinguées.
 
-### 6. Application des 7 Questions de Construction Canoniques
+**Attribution *de dicto*.** L’analyste restitue l’affirmation sous la description « produit A ». Il examine ce que le technicien a effectivement soutenu sous cette désignation, les critères qu’il employait et les informations dont il disposait.
 
-1. **Quelle fonction unique accomplit cette page ?**  
-   Formaliser le statut conceptuel et opératoire de la dualité *de dicto / de re* comme outil d'audit de second ordre pour articuler la perspective du locuteur et l'ancrage référentiel de l'enquête.
-2. **Quelle opération de la chaîne met-elle en œuvre ?**  
-   **Distinguer (02)** (séparation des registres de perspective) et **Relier (03)** (articulation de la voix du locuteur à l'objet de l'analyseur), ainsi que la fonction transversale **Auditer (08)**.
-3. **Quelle question de la quadripartition mobilise-t-elle ?**  
-   **Justification** (évaluation des raisons et des régimes d'attribution) et **Condition** (ancrage sur le référent réel).
-4. **De quelles fiches établies dépend-elle ?**  
-   Dépend de [predication.md](fr/predication.md), [proposition.md](fr/proposition.md), [assertion.md](fr/assertion.md), [la-portee-inferentielle.md](fr/la-portee-inferentielle.md), [referent.md](fr/referent.md), [scorekeeping-deontique.md](fr/scorekeeping-deontique.md) et [inference-materielle.md](fr/inference-materielle.md).
-5. **Quelle conversion ou réduction permet-elle d'éviter ?**  
-   Évite la réduction de l'objectivité à un subjectivisme discursif (*de dicto* pur) et l'imputation abusive d'omniscience aux acteurs de terrain (*de re* absolutisé).
-6. **Qu'est-ce qu'elle permet ensuite d'examiner ?**  
-   L'audit des controverses scientifiques, le diagnostic des injustices herméneutiques et la conduite des traductions inter-régimes.
-7. **Que s'interdit-elle d'établir ?**  
-   S'interdit de poser un point de vue panoptique transcendantal au-dessus des pratiques ou de dissoudre la responsabilité des locuteurs.
+**Attribution *de re*.** L’analyste attribue l’affirmation au sujet de la substance identifiée sous la description « produit B ». Cette reformulation suppose que l’identification entre A et B soit suffisamment établie et que l’attribution conserve le sens pertinent de la prise de position examinée.
 
----
+**Examen de la description.** L’identification du produit ne suffit pas à déterminer si l’affirmation d’innocuité est fausse dans tous les contextes. Il faut examiner les propriétés de la substance, les conditions d’exposition, l’usage considéré et les critères permettant d’évaluer le danger.
 
-### 7. Synthèse Comparative
+Cet exemple distingue ainsi trois questions : ce que le technicien a affirmé sous une désignation donnée, l’objet auquel cette affirmation peut être rapportée et l’adéquation de l’affirmation aux conditions de la situation.
 
-| Dimension d'Analyse | Ascription *De Dicto* | Ascription *De Re* |
-| :--- | :--- | :--- |
-| **Perspective** | 1re / 2e personne (Voix du locuteur) | 3e personne (Voix du *scorekeeper* / analyseur) |
-| **Pôle prédominant** | **Fonction & Proposition** (Contenu conceptuel) | **Condition & Référent** (Objet du milieu) |
-| **Vocabulaire utilisé** | Vocabulaire et critères de l'agent évalué | Vocabulaire d'enquête et normes de la communauté |
-| **Régime sous substitution** | Opacité sémantique (Substitution interdite) | Transparence sémantique (Substitution co-référentielle) |
-| **Rôle dans l'audit** | Évaluer la cohérence cognitive et les motifs de l'agent | Évaluer l'adéquation au réel et la convergence des pratiques |
-| **Pathologie si absoluisé** | Solipsisme discursif / Amnésie du réel | Anachronisme / Procès d'intention |
+L’ascription *de re* rend possible une reformulation utile à l’enquête. Elle ne remplace ni la justification de l’identification ni l’examen de l’affirmation elle-même.
 
----
+## 6. Portée et limites
 
-##### 🌐 Liens avec le Corpus et les Pages Canoniques
-* **Cadre & Spécifications** : [README-v3.md](fr/README-v3.md) · [architecture-systeme.md](fr/architecture-systeme.md) · [tdm-v2.md](fr/tdm-v2.md)
-* **Pragmatique & Langage** : [predication.md](fr/predication.md) · [proposition.md](fr/proposition.md) · [assertion.md](fr/assertion.md) · [la-portee-inferentielle.md](fr/la-portee-inferentielle.md) · [referent.md](fr/referent.md) · [scorekeeping-deontique.md](fr/scorekeeping-deontique.md) · [inference-materielle.md](fr/inference-materielle.md)
-* **Études de cas & Audit** : [la-piece-de-cuivre.md](fr/la-piece-de-cuivre.md) · [occurrence-v2.md](fr/occurrence-v2.md)
+### Ce que la distinction permet d’examiner
+
+La distinction entre *de dicto* et *de re* permet :
+
+- de différencier une attribution qui conserve une description de celle qui identifie autrement l’objet concerné ;
+- de repérer les substitutions qui risquent de modifier le contenu attribué ;
+- d’examiner les écarts entre les descriptions reconnues par un locuteur et celles mobilisées par l’analyste ;
+- de distinguer l’attribution d’un contenu, l’identification d’un référent et l’évaluation de la description ;
+- de limiter les imputations abusives, notamment lorsque l’analyste dispose d’informations que le locuteur ne possédait pas.
+
+### Ce qu’elle suggère
+
+La distinction suggère que l’examen d’une affirmation peut exiger plusieurs descriptions de ce dont elle parle. Elle invite à expliciter les identifications, les équivalences et les règles de substitution mobilisées par l’analyste.
+
+Elle peut également aider à examiner les changements de vocabulaire entre des pratiques ou des périodes historiques. Une description ultérieure peut identifier autrement ce dont parlait un acteur antérieur, sans que celui-ci ait disposé des concepts ou des critères associés à cette nouvelle description.
+
+Ces usages restent à évaluer au cas par cas. Ils ne permettent pas de conclure que toute reformulation ultérieure est préférable à la description initiale.
+
+### Ce que la distinction n’établit pas
+
+La distinction entre *de dicto* et *de re* n’établit pas :
+
+- que le locuteur dispose d’un accès exclusivement subjectif à l’objet ;
+- que l’analyste dispose d’un point de vue extérieur à toute pratique descriptive ;
+- que toute identité référentielle autorise une substitution dans un contexte d’attribution ;
+- que l’attribution *de re* est nécessairement plus objective ou plus adéquate ;
+- que l’ignorance d’une identité constitue à elle seule une erreur ou une faute du locuteur ;
+- que la cohérence d’une attribution garantit la vérité de son contenu ;
+- que l’identification d’un référent suffit à justifier une description portant sur celui-ci.
+
+Une attribution peut être cohérente tout en reposant sur une identification erronée. Elle peut également identifier correctement son objet tout en lui attribuant une propriété insuffisamment établie.
+
+## 7. Articulation avec l’enquête de Protokin
+
+La distinction *de dicto* / *de re* intervient lorsque l’enquête doit préciser ce qui est attribué à un locuteur et sous quelle description. Elle constitue une ressource d’analyse mobilisable lorsqu’une difficulté d’attribution, de substitution ou d’identification apparaît.
+
+Elle ne correspond pas à une étape obligatoire de l’enquête et ne détermine pas à elle seule les orientations à mobiliser. Selon le problème, l’examen peut concerner les conditions d’identification de l’objet, les relations entre expressions, la fonction de la reformulation ou les raisons permettant de défendre l’attribution.
+
+Trois non-conversions sont particulièrement importantes :
+
+- **Identité référentielle ≠ équivalence dans tout contexte d’attribution.**
+- **Attribution d’un contenu ≠ justification de ce contenu.**
+- **Identification d’un objet ≠ adéquation de la description à cet objet.**
+
+Ces distinctions permettent de relier l’analyse des attributions à l’examen des pratiques descriptives sans confondre les questions linguistiques, référentielles et normatives.
+
+## 8. Renvois
+
+- [Assertion](assertion.md) — Examiner l’acte par lequel un contenu est avancé dans une pratique discursive.
+- [Engagement descriptif](engagement-descriptif.md) — Examiner le statut normatif associé à une prise de position et les conséquences qui peuvent être attribuées au locuteur.
+- [Scorekeeping déontique](scorekeeping-deontique.md) — Examiner le suivi et l’attribution des engagements et des habilitations.
+- [Référent](referent.md) — Examiner les pratiques d’identification et de réidentification de ce dont une description parle.
+- [Relation sémantique et référence](relation-semantique-et-reference.md) — Examiner les rapports entre contenu, usage et visée référentielle.
+- [Espace des raisons](espace-des-raisons.md) — Examiner les conditions dans lesquelles une prise de position peut être soutenue, contestée ou révisée.
+- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md) — Situer les questions d’identification, de relation, de fonction et de justification sans les convertir les unes dans les autres.
+
+## Synthèse
+
+Les ascriptions *de dicto* et *de re* différencient deux manières d’attribuer un contenu : en conservant la description sous laquelle il est formulé ou en rapportant l’attitude à un objet identifié autrement.
+
+Cette distinction permet d’examiner les effets des substitutions et les écarts entre les descriptions d’un locuteur et celles d’un analyste. Elle ne garantit ni l’exactitude de l’identification ni l’adéquation de la description.
+
+**Une attribution peut changer de description sans que son objet change ; elle ne conserve pas pour autant automatiquement le même contenu ni la même portée.**
