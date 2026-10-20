@@ -37,7 +37,7 @@ L’affirmation « Cette pièce est en cuivre pur » est également plus précis
 
 L’examen des conséquences permet donc de préciser la portée de l’affirmation. Il ne suffit cependant pas à établir que la pièce possède effectivement les propriétés attendues.
 
-Pour approfondir cette distinction, voir [Assertion](assertion.md) et [Inférence matérielle](inference-materielle.md).
+Pour approfondir cette distinction, voir [Assertion](fr/assertion.md) et [Inférence matérielle](fr/inference-materielle.md).
 
 ## 4. Identifier la composition de la pièce
 
@@ -58,7 +58,7 @@ Il faut distinguer :
 
 Ces distinctions n’impliquent pas que l’identification soit arbitraire ou qu’elle dépende uniquement du vocabulaire employé. Elles indiquent que l’identification doit être soutenue par des éléments pertinents et que ces éléments peuvent être réexaminés.
 
-Pour approfondir, voir [Référent — Identification et visée d’objet](referent.md).
+Pour approfondir, voir [Référent — Identification et visée d’objet](fr/referent.md).
 
 ## 5. Mettre la qualification à l’épreuve
 
@@ -80,7 +80,7 @@ Il faut notamment distinguer trois constats :
 
 Ces constats peuvent être liés, mais ils ne se confondent pas. L’échec d’une opération ne détermine pas immédiatement sa cause, et l’identification d’une cause ne suffit pas toujours à justifier une conclusion générale sur le matériau.
 
-Pour approfondir, voir [Butoir](butoir.md).
+Pour approfondir, voir [Butoir](fr/butoir.md).
 
 ## 6. Ce que le cas permet de distinguer
 
@@ -118,7 +118,7 @@ Une erreur de qualification ne prouve pas à elle seule que le locuteur a agi de
 
 La correction de la description et l’évaluation de la responsabilité du locuteur sont donc deux questions distinctes. Leur articulation dépend du contexte, des engagements pris et des critères applicables.
 
-Pour approfondir, voir [Scorekeeping déontique](scorekeeping-deontique.md).
+Pour approfondir, voir [Scorekeeping déontique](fr/scorekeeping-deontique.md).
 
 ## 7. Résultats et limites de l’analyse
 
@@ -155,13 +155,13 @@ Ces distinctions n’isolent pas les dimensions de l’enquête. Elles permetten
 
 ## Renvois
 
-- [Assertion](assertion.md) — Prise en charge d’un contenu dans une pratique discursive.
-- [Inférence matérielle](inference-materielle.md) — Conséquences et incompatibilités associées au contenu d’un énoncé.
-- [Référent](referent.md) — Identification et visée d’objet.
-- [Butoir](butoir.md) — Résistances et contraintes qui limitent certaines opérations ou descriptions.
-- [Substitution](substitution.md) — Effets du remplacement d’une expression dans un contexte donné.
-- [Scorekeeping déontique](scorekeeping-deontique.md) — Suivi des engagements et des habilitations.
-- [Redevabilité matérielle](redevabilite-materielle.md) — Articulation entre résultats pratiques et révision des engagements descriptifs.
+- [Assertion](fr/assertion.md) — Prise en charge d’un contenu dans une pratique discursive.
+- [Inférence matérielle](fr/inference-materielle.md) — Conséquences et incompatibilités associées au contenu d’un énoncé.
+- [Référent](fr/referent.md) — Identification et visée d’objet.
+- [Butoir](fr/butoir.md) — Résistances et contraintes qui limitent certaines opérations ou descriptions.
+- [Substitution](fr/substitution.md) — Effets du remplacement d’une expression dans un contexte donné.
+- [Scorekeeping déontique](fr/scorekeeping-deontique.md) — Suivi des engagements et des habilitations.
+- [Redevabilité matérielle](fr/redevabilite-materielle.md) — Articulation entre résultats pratiques et révision des engagements descriptifs.
 
 ## Synthèse
 
