@@ -211,6 +211,7 @@ Les instruments d’épreuve servent à examiner les distinctions, les inférenc
 
 Les cas permettent de confronter les distinctions et les opérations à des situations particulières. Ils servent aussi à repérer des ambiguïtés ou des limites des cadres décrits.
 
+- [La pièce de cuivre](fr/la-piece-de-cuivre.md) — Examiner les rapports entre affirmation empirique, identification d'un matériau, épreuve pratique et révision d'une description.
 - [Le botaniste et le bûcheron](fr/botaniste-bucheron.md) — Examiner comment des descriptions produites par des pratiques différentes peuvent être comparées, confrontées et mises en relation dans une décision commune.
 - [Cette personne est mauvaise](fr/cette-personne-est-mauvaise.md) — Examiner les fonctions descriptives et évaluatives d’une attribution.
 - [Changement climatique](fr/changement-climatique.md) — Confronter les descriptions, les mesures et les critères mobilisés dans un problème complexe.
