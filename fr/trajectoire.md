@@ -86,7 +86,7 @@ La trajectoire concerne le parcours des transformations reconstruites. L’**all
 
 Une trajectoire peut comporter des changements espacés, une période de faible changement ou une concentration de modifications. Connaître certains épisodes ne suffit pas toujours à établir leur distribution temporelle générale.
 
-Pour qualifier cette distribution, voir [Allure](allure.md).
+Pour qualifier cette distribution, voir [Allure](fr/allure.md).
 
 ## 7. Portée et limites de la reconstruction
 
@@ -118,9 +118,9 @@ La trajectoire descriptive reconstruit un parcours de transformations à partir 
 
 Pour poursuivre :
 
-- [Allure](allure.md) — Qualifier la distribution temporelle des transformations d’une trajectoire.
-- [Stabilisation](stabilisation.md) — Examiner le maintien relatif d’une configuration.
-- [Sédimentation](sedimentation.md) — Examiner l’accumulation et la conservation des traces.
-- [Historicité](historicite.md) — Examiner le statut historique des descriptions et de leurs critères.
-- [Temporalité descriptive](temporalite-descriptive.md) — Examiner les rapports temporels des pratiques descriptives.
-- [Table des matières](tdm.md) — Replacer cette page dans l’organisation du corpus.
+- [Allure](fr/allure.md) — Qualifier la distribution temporelle des transformations d’une trajectoire.
+- [Stabilisation](fr/stabilisation.md) — Examiner le maintien relatif d’une configuration.
+- [Sédimentation](fr/sedimentation.md) — Examiner l’accumulation et la conservation des traces.
+- [Historicité](fr/historicite.md) — Examiner le statut historique des descriptions et de leurs critères.
+- [Temporalité descriptive](fr/temporalite-descriptive.md) — Examiner les rapports temporels des pratiques descriptives.
+- [Table des matières](fr/tdm.md) — Replacer cette page dans l’organisation du corpus.
