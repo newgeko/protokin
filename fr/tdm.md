@@ -104,6 +104,7 @@ La proposition et l’assertion remplissent des fonctions distinctes : l’une c
 - [Espace des raisons](fr/espace-des-raisons.md) — Situer les relations entre raisons, conclusions, habilitations et incompatibilités.
 - [Raison](fr/raison.md) — Préciser ce qui peut soutenir, contester ou réviser une conclusion.
 - [Pairs — Engagement discursif et habilitation](fr/pairs.md) — Examiner comment les participants reconnaissent, contestent et révisent les engagements et les habilitations dans une pratique discursive.
+- [Scorekeeping déontique — Suivre les engagements et les habilitations](scorekeeping-deontique.md) — Examiner comment les engagements et les habilitations sont attribués, suivis et contestés dans une pratique discursive.
 - [Justification](fr/justification.md) — Examiner les conditions dans lesquelles un engagement peut être défendu.
 - [Critère](fr/critere.md) — Préciser les normes selon lesquelles une description ou une conclusion est évaluée.
 - [Relation sémantique et référence](fr/relation-semantique-et-reference.md) — Examiner l’articulation entre contenu, usage et visée référentielle.
