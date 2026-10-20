@@ -1,345 +1,185 @@
-# Page : transformation.md
+# Transformation — Décrire une modification de configuration
 
-Transformation
+## Fonction
 
-Fonction
+La **transformation** désigne une modification identifiable d’une configuration, d’une pratique ou d’une description, relativement à un problème et à des critères d’examen déterminés.
 
-Le concept de transformation permet de décrire une modification dans la configuration d'une pratique, d'une description, d'une relation ou d'un ensemble de critères au cours du temps.
+Elle permet de caractériser ce qui change sans présumer de la cause, de la portée, de la valeur ou de la justification du changement.
 
-Il permet ainsi de distinguer une configuration à différents moments de son parcours sans supposer que le changement constitue nécessairement un progrès, une adaptation ou une rupture.
+La transformation est une notion descriptive. Elle ne constitue ni une explication du changement ni une évaluation de son résultat.
 
-La transformation est un concept descriptif de la modification.
+## 1. Problème : caractériser ce qui change
 
-Elle ne fournit pas à elle seule l'explication de cette modification, sa justification ou sa valeur.
+Une pratique peut évoluer sans que cette évolution constitue nécessairement un progrès, une correction, une rupture ou une adaptation réussie.
 
----
+Une formulation peut changer sans que la fonction de la description change. À l’inverse, une même formulation peut être conservée alors que ses critères d’application ou ses conséquences pratiques sont modifiés.
 
-Problème
+La seule constatation d’une différence ne suffit donc pas à déterminer ce qui a changé. Il faut préciser les éléments comparés et les critères selon lesquels une modification est reconnue.
 
-Une pratique peut changer sans que ce changement puisse être décrit simplement comme :
+Le problème consiste à décrire une transformation sans lui attribuer une structure, une direction ou une signification que les éléments disponibles ne permettent pas d’établir.
 
-- une erreur corrigée ;
-- un remplacement complet ;
-- une rupture radicale ;
-- un progrès vers une forme plus vraie ;
-- ou une adaptation réussie à son environnement.
+## 2. Définition
 
-Il faut donc pouvoir décrire le changement lui-même tout en maintenant distinctes les questions de sa cause, de sa fonction et de sa justification.
+On appelle **transformation** une modification identifiable d’un ou de plusieurs aspects d’une configuration, établie par comparaison avec une autre situation ou relativement à un état antérieur documenté.
 
-La question est :
+Selon le problème étudié, cette modification peut concerner une formulation, une distinction, une relation, une fonction, un critère, un support ou une pratique.
 
-«Comment décrire une modification de configuration sans transformer cette modification en progrès, en nécessité ou en rupture absolue ?»
+Ces dimensions ne forment pas une liste de propriétés que toute transformation devrait nécessairement réunir. La modification pertinente dépend de ce que l’enquête cherche à examiner.
 
----
+Pour qualifier une transformation, il faut pouvoir préciser :
 
-Définition
+- **Ce qui est comparé :** les configurations, descriptions ou pratiques concernées.
+- **Ce qui diffère :** les éléments dont la modification peut être établie.
+- **Le critère de comparaison :** ce qui permet de considérer cette différence comme pertinente pour le problème étudié.
+- **Les limites du constat :** les éléments qui restent inconnus ou dont la modification ne peut pas être établie.
 
-Une transformation est une modification identifiable d'une configuration au cours du temps.
+Une transformation peut être partielle, étendue, progressive ou rapide. Elle peut conserver certains éléments et en modifier d’autres. Ces qualifications doivent être soutenues par les éléments disponibles : elles ne découlent pas de la notion de transformation elle-même.
 
-Cette modification peut concerner :
+## 3. Distinctions nécessaires
 
-- les distinctions mobilisées ;
-- les relations entre éléments ;
-- les fonctions remplies ;
-- les supports utilisés ;
-- les critères de correction ;
-- les pratiques ;
-- les modalités de justification ;
-- ou leur organisation.
+### 3.1. Transformation et différence
 
-Une transformation peut être locale ou étendue, progressive ou rapide, réversible ou difficilement réversible, intentionnelle ou non intentionnelle.
+Deux descriptions peuvent différer sans que l’on puisse établir qu’une transformation a conduit de l’une à l’autre.
 
-Ces propriétés doivent être établies par l'enquête.
+Une différence peut être constatée entre deux occurrences, deux formulations ou deux situations. Pour parler de transformation, il faut en plus préciser ce qui autorise à les rapporter à une modification d’une configuration ou d’une pratique.
 
-Elles ne sont pas contenues dans le concept de transformation lui-même.
+La comparaison peut donc établir une différence sans permettre de reconstruire son origine, son parcours ou son éventuelle continuité historique.
 
----
+**Différence constatée ≠ transformation reconstruite.**
 
-Transformation et changement
+### 3.2. Transformation et reformulation
 
-Tout changement n'a pas nécessairement la même portée.
+Une reformulation modifie la manière d’exprimer un contenu. Elle peut conserver les engagements, les critères et la fonction de la description, mais aussi les modifier.
 
-Une modification matérielle peut changer la configuration corporelle d'une pratique sans transformer ses critères descriptifs.
+Le seul changement de vocabulaire ne permet donc pas de déterminer si la transformation est uniquement expressive ou si elle affecte d’autres aspects de la pratique.
 
-Une modification lexicale peut transformer une formulation sans transformer la catégorie mobilisée.
+Inversement, une formulation inchangée peut être mobilisée dans de nouvelles conditions ou selon des critères différents.
 
-Une modification d'un critère peut transformer les conditions de recevabilité d'une description sans modifier l'ensemble de la pratique.
+La portée de la modification doit être examinée, plutôt que déduite de la seule variation des mots.
 
-Le concept de transformation ne fixe donc pas à l'avance ce qui doit être considéré comme une transformation significative.
+### 3.3. Transformation et correction
 
-«La portée de la transformation est une question d'enquête, non une propriété du concept.»
+Une correction modifie une description ou une opération au regard d’un critère d’évaluation. Une transformation peut inclure une correction, mais elle ne se réduit pas à celle-ci.
 
----
+La correction suppose que le critère employé soit pertinent pour l’évaluation considérée. Une transformation peut également modifier les critères, les conditions d’application ou la fonction d’une description.
 
-Transformation et reformulation
+Une modification ne constitue donc pas une correction du seul fait qu’elle intervient après une difficulté. Il faut établir ce qui est corrigé, au regard de quoi, et avec quelles raisons.
 
-Une reformulation modifie la manière d'exprimer une description.
+### 3.4. Transformation et remplacement
 
-Une transformation peut aller plus loin lorsqu'elle modifie les relations fonctionnelles ou les critères selon lesquels la description est utilisée.
+Une transformation ne suppose pas le remplacement complet d’une configuration par une autre.
 
-Mais la frontière n'est pas purement lexicale.
+Certains éléments peuvent être maintenus, tandis que d’autres sont modifiés, supprimés ou réorganisés. La persistance d’un élément ne garantit toutefois pas que sa fonction soit restée identique.
 
-Deux formulations différentes peuvent avoir la même fonction.
+Inversement, le remplacement d’une formulation ou d’un support ne démontre pas à lui seul que l’ensemble de la pratique a changé.
 
-Deux formulations presque identiques peuvent engager des critères différents.
+La continuité et la discontinuité doivent être établies pour les aspects effectivement examinés.
 
-L'enquête doit donc examiner ce qui a effectivement changé plutôt que déduire la transformation du seul changement de mots.
+### 3.5. Transformation et stabilisation
 
----
+La transformation désigne une modification ; la **stabilisation** concerne le maintien relatif d’une configuration à travers ses reprises et ses variations.
 
-Transformation et correction
+Une transformation peut être suivie d’une stabilisation, mais ce résultat n’est pas nécessaire. Une configuration peut continuer à changer, demeurer instable ou retrouver une organisation antérieure.
 
-Une correction modifie une description en fonction de critères déjà disponibles.
+La stabilisation n’est pas non plus une absence absolue de changement : elle dépend des aspects considérés et du degré de variation compatible avec le maintien de la configuration.
 
-Une transformation peut inclure une correction lorsque celle-ci modifie durablement la configuration dans laquelle les descriptions sont produites ou évaluées.
+Voir [Stabilisation](stabilisation.md).
 
-Mais toute correction n'est pas une transformation au sens fort.
+## 4. Transformation, temporalité et trajectoire
 
-La distinction dépend de la portée du changement dans la pratique considérée.
+Une transformation est examinée relativement à une différence entre des situations, mais elle ne fournit pas à elle seule la reconstruction de leur parcours temporel.
 
----
+La **temporalité descriptive** concerne plus largement les rapports temporels dans lesquels les pratiques descriptives héritent de ressources antérieures, les reprennent et les transforment. Elle ne se réduit pas à l’étude d’une modification particulière.
 
-Transformation et tension
+La **trajectoire descriptive** désigne le parcours de transformations qu’une enquête peut reconstruire à partir des éléments disponibles. Ce parcours ne suppose ni une série complète d’états successifs ni une continuité historique toujours démontrable.
 
-Une tension peut être associée à une transformation lorsqu'une difficulté de fonctionnement conduit à modifier une configuration.
+Une transformation peut être établie localement alors que son origine ou son inscription dans une trajectoire reste incertaine. À l’inverse, la reconstruction d’une trajectoire peut conduire à réviser la caractérisation d’une transformation particulière.
 
-Mais il n'existe aucune relation nécessaire entre les deux.
+Ces notions remplissent donc des fonctions complémentaires :
 
-Une transformation peut être intentionnelle, planifiée ou expérimentale sans avoir été précédée d'une tension.
+- la transformation permet de caractériser une modification ;
+- la trajectoire permet de reconstruire un parcours de modifications ;
+- la temporalité descriptive permet d’examiner les rapports temporels plus larges des pratiques.
 
-Une tension peut également être résolue sans transformation.
+Voir [Temporalité descriptive](temporalite-descriptive.md) et [Trajectoire](trajectoire.md).
 
-«La tension décrit une difficulté de fonctionnement ; la transformation décrit une modification de configuration.»
+## 5. Causes, fonctions et justifications
 
----
+Identifier une transformation ne suffit pas à expliquer pourquoi elle s’est produite, à déterminer ce qu’elle permet ou à justifier sa réalisation.
 
-Transformation et transition
+### 5.1. Transformation et causalité
 
-La transition désigne un changement considéré dans sa dimension temporelle ou historique, notamment lorsqu'une trajectoire relie plusieurs configurations.
+Une transformation peut être associée à des conditions matérielles, corporelles, sociales, historiques ou institutionnelles. L’établissement de ces relations demande un examen spécifique.
 
-La transformation désigne la modification elle-même.
+La succession de deux situations ne suffit pas à établir que la première a causé la seconde. De même, l’explication causale d’une modification ne détermine pas à elle seule la fonction qu’elle exerce dans une pratique.
 
-Ainsi :
+**Succession temporelle ≠ causalité établie.**
 
-«La transformation porte sur ce qui change ; la transition porte sur le passage temporel entre des configurations.»
+### 5.2. Transformation et fonction
 
-Une transition peut comporter plusieurs transformations.
+Une transformation peut modifier ce qu’une configuration permet de faire, les opérations auxquelles elle contribue ou les effets qu’elle produit dans une pratique.
 
-Une transformation locale peut ne constituer qu'un moment d'une transition plus longue.
+Cette modification fonctionnelle doit être établie indépendamment de la seule différence de formulation ou de structure.
 
----
+Une modification peut également intervenir sans changement fonctionnel identifiable relativement au problème étudié. Cela ne signifie pas qu’elle est inexistante, mais que sa portée fonctionnelle n’est pas établie.
 
-Transformation et remplacement
+### 5.3. Transformation et justification
 
-Une transformation ne suppose pas qu'une configuration entière soit remplacée.
+Le fait qu’une configuration ait changé ne justifie pas ce changement. Une transformation peut être souhaitée, imposée, accidentelle ou simplement constatée ; aucune de ces qualifications ne suffit à établir qu’elle est justifiée.
 
-Certains éléments peuvent être conservés, d'autres modifiés, supprimés ou réorganisés.
+Inversement, une transformation peut être défendue au moyen de raisons et de critères pertinents. Cette justification porte sur les raisons de la soutenir, non sur le seul fait qu’elle s’est produite.
 
-Inversement, deux configurations peuvent présenter une continuité historique tout en différant profondément sur certaines fonctions ou certains critères.
+Il faut ainsi distinguer ce qui a changé, les conditions de ce changement, ses effets éventuels et les raisons permettant de l’approuver ou de le contester.
 
-La continuité et la discontinuité doivent donc être examinées séparément.
+Voir [Justification](justification.md).
 
-«La persistance d'un élément ne suffit pas à établir la persistance de sa fonction.»
+## 6. Exemple : une qualification administrative
 
----
+Supposons qu’une administration utilise une même qualification dans plusieurs dossiers, puis modifie les critères selon lesquels cette qualification est appliquée.
 
-Transformation et conservation
+La formulation peut rester identique alors que les situations auxquelles elle s’applique changent. Une nouvelle formulation peut, à l’inverse, être introduite sans modifier les critères utilisés dans les décisions.
 
-Une transformation peut conserver certains éléments de la configuration antérieure.
+Pour caractériser la transformation, l’enquête doit préciser les éléments documentés : formulation, critères d’application, fonction dans la procédure ou conséquences associées.
 
-Mais la conservation matérielle ou lexicale d'un élément ne garantit pas la conservation de sa fonction ou de sa signification.
+Si seuls les formulaires successifs sont disponibles, l’enquête peut établir une modification de formulation, mais pas nécessairement une transformation des critères ou des décisions. Si les règles d’application sont également documentées, la portée du changement peut être examinée plus précisément.
 
-Il faut donc distinguer :
+Enfin, la modification des critères ne démontre pas à elle seule que la nouvelle qualification est plus adéquate ou mieux justifiée. Cette évaluation demande un examen distinct des raisons et des exigences pertinentes.
 
-- conservation d'un support ;
-- conservation d'une forme ;
-- conservation d'une relation ;
-- conservation d'une fonction ;
-- conservation d'un critère.
+L’exemple montre qu’une transformation ne se déduit ni de la seule différence lexicale ni de la seule succession chronologique : sa caractérisation dépend des éléments comparés et de ce qu’ils permettent d’établir.
 
-Cette distinction permet d'éviter de confondre continuité historique et identité fonctionnelle.
+## 7. Portée et limites
 
----
+La notion de transformation permet de décrire une modification sans lui attribuer d’avance une direction ou une valeur. Elle aide à distinguer ce qui change de ce qui demeure, à condition que les critères de comparaison soient explicites.
 
-Dimension temporelle
+Elle ne permet pas, à elle seule, d’établir :
 
-La transformation est nécessairement située dans une temporalité.
+- la cause de la modification ;
+- la continuité historique entre les situations comparées ;
+- le caractère durable ou irréversible du changement ;
+- l’évolution de la fonction à partir de la seule variation de formulation ;
+- le progrès, la régression ou l’adaptation de la configuration ;
+- la validité ou la justification du résultat obtenu.
 
-Elle peut être étudiée selon :
+Ces conclusions peuvent être examinées, mais elles demandent des éléments et des critères qui ne sont pas fournis par la notion de transformation elle-même.
 
-- sa trajectoire ;
-- son allure ;
-- sa distance par rapport à la configuration antérieure ;
-- sa durée ;
-- sa répétition ;
-- sa réversibilité ;
-- sa stabilisation éventuelle.
+La caractérisation peut également rester partielle. Une enquête peut établir qu’un critère a changé sans pouvoir déterminer quand ni pourquoi ce changement s’est produit. Elle peut identifier une différence fonctionnelle sans disposer des éléments permettant de reconstruire tout le parcours qui l’a rendue possible.
 
-Ces dimensions ne déterminent pas la transformation.
+L’absence de reconstruction complète ne doit pas être compensée par une histoire supposée.
 
-Elles permettent d'en préciser la dynamique.
+## Synthèse
 
-Une transformation peut être graduelle sans être cumulative.
+La transformation désigne une modification identifiable d’une configuration relativement à un problème et à des critères de comparaison explicites.
 
-Elle peut être rapide sans constituer une rupture totale.
+Elle permet de caractériser ce qui change sans présumer que le changement constitue un progrès, une correction, une rupture ou une adaptation réussie. La portée, les causes, les effets et la justification de la transformation restent des questions distinctes.
 
-Elle peut être durable sans être irréversible.
+**Établir qu’une configuration a changé ne suffit ni à expliquer ce changement, ni à reconstruire son parcours, ni à justifier son résultat.**
 
----
+## Renvois
 
-Transformation et quadripartition
-
-La transformation ne constitue pas une cinquième question fondamentale.
-
-Elle peut être examinée selon les quatre questions de la quadripartition.
-
-Corps
-
-Quelles modifications corporelles ou matérielles accompagnent la transformation ?
-
-Relation
-
-Quelles relations sont modifiées, maintenues ou réorganisées ?
-
-Fonction
-
-Qu'est-ce qui change dans ce que la configuration permet de faire ?
-
-Justification
-
-Quels critères, engagements ou raisons changent, et selon quelles conditions peuvent-ils être défendus ou contestés ?
-
-Ces réponses ne doivent pas être converties les unes dans les autres.
-
-Une transformation corporelle n'est pas par elle-même une transformation fonctionnelle.
-
-Une transformation fonctionnelle n'est pas par elle-même une transformation normative.
-
-Une transformation normative n'est pas par elle-même une transformation matérielle.
-
----
-
-Transformation et justification
-
-Le fait qu'une configuration soit transformée ne justifie pas la transformation.
-
-Inversement, une transformation peut être justifiée par des critères explicitables.
-
-Il faut donc distinguer :
-
-«ce qui a changé ; pourquoi cela a changé ; ce que ce changement permet ; et selon quels critères il peut être défendu.»
-
-La transformation relève de la description du changement.
-
-La justification relève de l'évaluation des raisons qui peuvent être avancées en faveur ou contre ce changement.
-
----
-
-Transformation et causalité
-
-Une transformation peut avoir des causes matérielles, biologiques, sociales, historiques ou institutionnelles.
-
-Mais l'identification de ces causes ne suffit pas à déterminer la fonction ou la justification de la transformation.
-
-De même, la justification donnée par les participants ne constitue pas nécessairement la cause effective du changement.
-
-«Cause ≠ raison.»
-
-L'explication causale de la transformation et sa justification doivent donc rester distinctes.
-
----
-
-Transformation et enquête
-
-La transformation peut être un objet de l'enquête.
-
-L'enquête peut chercher à déterminer :
-
-- ce qui a changé ;
-- ce qui est resté stable ;
-- à quel moment le changement est apparu ;
-- quelles relations ont été modifiées ;
-- quelles fonctions ont été conservées ou déplacées ;
-- quels critères ont changé ;
-- quelles conséquences cette modification produit ;
-- et comment la transformation peut être justifiée ou contestée.
-
-L'enquête ne présuppose pas que la transformation soit réussie.
-
-Elle peut montrer qu'une modification :
-
-- échoue ;
-- produit une nouvelle difficulté ;
-- résout un problème local ;
-- crée une incompatibilité ;
-- stabilise une pratique ;
-- ou reste sans effet durable.
-
----
-
-Transformation et stabilisation
-
-Une transformation peut être suivie d'une stabilisation.
-
-Mais la stabilisation n'est pas le résultat nécessaire de toute transformation.
-
-Une configuration peut continuer à changer.
-
-Elle peut revenir à une organisation antérieure.
-
-Elle peut osciller entre plusieurs configurations.
-
-Elle peut également rester instable.
-
-Il faut donc distinguer :
-
-«transformation ≠ stabilisation.»
-
-La première décrit une modification.
-
-La seconde décrit la manière dont une configuration acquiert une certaine persistance dans une pratique.
-
----
-
-Limites d'audit
-
-Le concept de transformation doit notamment être protégé contre quatre dérives.
-
-La téléologie
-
-Ne pas décrire toute transformation comme un progrès vers une configuration plus vraie, plus rationnelle ou plus adaptée.
-
-Le catastrophisme
-
-Ne pas transformer toute modification en rupture de régime.
-
-Le continuisme
-
-Ne pas déduire l'identité fonctionnelle de la seule persistance d'un mot, d'un support ou d'une institution.
-
-Le discontinuisme
-
-Ne pas déduire l'incommensurabilité de la seule différence entre deux configurations.
-
-Ces quatre dérives consistent à attribuer au changement une structure que l'enquête doit précisément établir.
-
----
-
-Synthèse
-
-La transformation désigne une modification identifiable d'une configuration au cours du temps.
-
-Elle ne constitue :
-
-- ni un progrès ;
-- ni une adaptation nécessaire ;
-- ni une rupture ;
-- ni une correction ;
-- ni une justification ;
-- ni une cause.
-
-Elle peut être liée à une tension, à une correction, à une innovation, à une contrainte ou à une décision, mais ces relations doivent être établies dans chaque enquête.
-
-La transformation permet ainsi de décrire le changement sans convertir le changement en explication ou en justification.
-
-«Transformer n'est pas nécessairement progresser, corriger ou rompre. C'est modifier une configuration ; le sens, les causes, les fonctions et la justification de cette modification restent des questions distinctes.»
+- [Trajectoire](trajectoire.md) — Reconstruire le parcours de transformations d’une description ou d’une pratique.
+- [Temporalité descriptive](temporalite-descriptive.md) — Examiner les rapports temporels des pratiques descriptives.
+- [Stabilisation](stabilisation.md) — Examiner le maintien relatif d’une configuration.
+- [Position](position.md) — Caractériser localement une configuration descriptive.
+- [Justification](justification.md) — Examiner les raisons et les critères qui permettent de défendre ou de contester une modification.
+- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md) — Distinguer les orientations d’examen sans les convertir les unes dans les autres.
+- [Table des matières](tdm.md) — Replacer cette page dans l’organisation du corpus.
