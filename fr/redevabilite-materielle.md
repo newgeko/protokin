@@ -1,86 +1,175 @@
-# Page : redevabilite-materielle.md
+# Redevabilité matérielle — Éprouver les engagements par les conséquences pratiques
 
-Redevabilité matérielle et friction de niche
-Version : Protokin 2026 — version 26.08.161
-Fichier : redevabilite-materielle.md
-Statut : Document conceptuel d'articulation transversale (Section 04 — Espace des raisons / Section 07 — Explication)
-Mode de développement : Mode A — Conceptuel & Opératoire
-1. Analyse architecturale préalable de la page
-1.1 Fonction unique de la page
-Cette page formalise le concept de Redevabilité matérielle (Material Accountability) et de Friction de niche dans l'architecture Protokin. Elle établit comment l'espace public des raisons et des justifications (KIN) demeure objectivement contraint par les retours d'impact et les butoirs de viabilité du milieu écologique et pratique (PROTO), sans jamais violer la règle de non-conversion (c'est-à-dire sans faire dériver magiquement une norme d'une simple cause biophysique).
-1.2 Dépendances fonctionnelles
- * Cette page suppose :
-   * La démarcation bimodale entre l'espace des causes (PROTO) et l'espace des raisons (KIN) (01-principes-fondamentaux.md, causes.md, raisons.md).
-   * La quadripartition fondamentale du corps dans le milieu, de la relation, de la fonction et de la justification (corps-relation-fonction-justification.md).
-   * L'armature inférentialiste du scorekeeping déontique (espace-des-raisons.md, justification.md).
-   * Le concept de construction de niche biologique et discursive (niche.md, couplage-organisme-milieu.md).
- * Cette page rend possible :
-   * L'explicitation du mécanisme de suspension et de révocation de l'habilitation déontique face à l'anomalie pratique (entitlement, anomalie.md).
-   * Le verrouillage contre l'isolationnisme linguistique et le sociologisme pur (le danger d'un espace des raisons tournant à vide).
-   * L'outillage méthodologique de l'audit des ruptures descriptives de terrain (08-methode-protokin.md).
-1.3 Frontières conceptuelles
- * Redevabilité matérielle et Butoir causal brut : Le butoir causal (PROTO) est l'événement physique opaque d'un échec d'interaction (une rupture mécanique, un empoisonnement, une résistance thermique). La redevabilité matérielle est le statut normatif de second ordre par lequel cet échec physique est traduit au sein du jeu discursif comme une obligation de réviser ou d'abandonner une assertion.
- * Redevabilité matérielle et Scorekeeping social : Le scorekeeping (Brandom) désigne la tenue de registre intersubjective des engagements et habilitations au sein d'une communauté de locuteurs. La redevabilité matérielle désigne l'impossibilité pour cette communauté de maintenir indéfiniment un accord déontique si les performances pratiques qui en dépendent détruisent la viabilité de l'organisme dans sa niche (Rouse).
-2. Problème conceptuel inaugural
-Toute théorie non-ontologique et inférentialiste du langage se heurte à une tension d'architecture majeure :
- * Si l'on refuse le Mythe du Donné (Sellars), on pose qu'aucun fait physique ou choc causal ne dicte de lui-même la signification ou la vérité d'une proposition. Les normes sont instituées par les pratiques sociales d'attribution et de reconnaissance (Brandom).
- * Mais si la normativité n'est régie que par les pairs au sein de la communauté linguistique, l'espace des raisons risque de se refermer en un idéalisme social désincarné ou un pur jeu de cohérence interne sans prise sur le monde réel.
-Comment l'espace des raisons (KIN) peut-il être authentiquement contraint par le milieu matériel (PROTO) si les causes ne peuvent pas se convertir en raisons ?
-Le concept de redevabilité matérielle répond à ce problème : il décrit comment les engagements discursifs pris dans KIN engagent des prédictions pratiques dont la sanction dans le milieu PROTO rétroagit normativement sur les droits de parole des locuteurs.
-3. Cartouche fonctionnel
-| Élément | Description |
-|---|---|
-| Section | Section 04 — L'espace des raisons (KIN) / Section 07 — Explication |
-| Fichier | redevabilite-materielle.md |
-| Fonction | Établir l'opérateur d'ancrage par lequel l'incompatibilité matérielle du milieu révoque l'habilitation déontique dans l'espace des raisons. |
-| Prépare | Le traitement de l'anomalie, la dynamique de l'enquête (Dewey) et la réorganisation des régimes descriptifs. |
-| Mobilise | La démarcation PROTO/KIN, l'incompatibilité matérielle (Brandom), la vulnérabilité de niche (Rouse), et la transition de sortie du langage (Sellars). |
-| Permet ensuite | D'interdire l'arbitraire relativiste dans l'audit des descriptions et de modéliser les crises d'opérativité sur le terrain. |
-| N'établit pas | Un réalisme métaphysique naïf, un accès direct aux choses en soi, ni la réduction du sens à des signaux physiques. |
-4. Dimensions analytiques et structure opératoire
-4.1 La tripartition des transitions selon Sellars
-Pour que la pensée ne « tourne pas à vide », elle doit être articulée à trois régimes de transition fonctionnelle :
- * Les transitions d'entrée dans le langage (Language-entry transitions) : La réponse différentielle fiable du corps couplé au milieu (ex. : voir une teinte rouge et formuler « ceci est rouge »).
- * Les transitions intralinguistiques (Intra-linguistic transitions) : Le déploiement autonome des inférences au sein du réseau conceptuel (ex. : « ceci est rouge, donc ceci est coloré »).
- * Les transitions de sortie du langage (Language-exit transitions) : Le passage de la conclusion normative à l'opération matérielle corporelle ou technique (ex. : « le voyant est au rouge, donc je dois actionner le frein d'urgence »).
-La redevabilité matérielle prend corps au niveau des transitions de sortie : lorsque l'action motrice guidée par la justification KIN est déployée dans le monde PROTO, elle produit des effets physiques réels qui confirment ou brisent la viabilité du couplage.
-4.2 L'incompatibilité matérielle (Brandom)
-Dans l'inférentialisme protokinien, les concepts ne sont pas de pures formes logiques abstraites. Ils sont tissés d'incompatibilités matérielles :
- * Soutenir simultanément qu'un objet est « en cuivre plein » et qu'il est « un isolant électrique parfait » constitue un engagement contradictoire non en vertu de la pure logique formelle A \land \neg A, mais en vertu des propriétés matérielles régissant notre interaction avec les métaux.
- * Si un locuteur soutient une assertion dont les conséquences matérielles s'avèrent impossibles lors de la manipulation effective, il ne perd pas simplement un débat rhétorique : son habilitation déontique (entitlement) est révoquée par le constat de l'incompatibilité.
-4.3 La vulnérabilité de niche (Rouse)
-Joseph Rouse démontre que les pratiques discursives humaines sont des activités d'organismes vivants engagés dans la construction et l'entretien de leur niche biologique.
- * Les critères de justification ne sont pas suspendus dans un ciel intelligible ; ils équipent des laboratoires, des ateliers, des hôpitaux, des chaînes de production et des rituels de survie.
- * Une communauté discursive ne peut pas décréter arbitrairement la validité d'une description si celle-ci conduit à l'effondrement de sa niche (épuisement des ressources, empoisonnement, faillite technique). La friction de niche est l'épreuve par laquelle le milieu impose sa sanction matérielle aux montages normatifs du groupe.
-5. La règle protokinienne de non-conversion bidirectionnelle
-La modélisation de la redevabilité matérielle obéit strictement aux deux interdits fondamentaux de la métathéorie :
-                  ┌──────────────────────────────────────────────────────────┐
-                  │                 ESPACE DES RAISONS (KIN)                 │
-                  │   Assertions • Justifications • Habilitations • Normes   │
-                  └──────────────┬───────────────────────────▲───────────────┘
-                                 │                           │
-                   Sortie du     │ Engagements               │ Révision / Révocation
-                   langage       │ moteurs                   │ de l'habilitation
-                   (Action)      │ et techniques             │ (Redevabilité)
-                                 │                           │
-                                 ▼                           │
-                  ┌──────────────────────────────────────────┴───────────────┐
-                  │                 ESPACE DES CAUSES (PROTO)                │
-                  │      Milieu biophysique • Frictions • Butoirs bruts      │
-                  └──────────────────────────────────────────────────────────┘
+## 1. Fonction
 
- * Interdiction de la naturalisation ascendante (PROTO \rightarrow KIN) : La brûlure ou la fracture (PROTO) ne formulent aucune proposition. Elles constituent des causes et des ruptures brutes. Elles ne deviennent une raison de modifier la théorie que lorsqu'un locuteur les prend en charge dans un jugement (« Ce matériau ne résiste pas à cette charge »).
- * Interdiction de l'idéalisme descendant (KIN \rightarrow PROTO) : Le consensus social le plus parfait ne peut abolir la résistance d'un alliage ou la thermodynamique d'un moteur. La redevabilité matérielle est le constat que KIN est constamment bordé par l'opacité somatique et mécanique de PROTO.
-6. Critères de vigilance pour l'audit clinique
-Lors de l'analyse d'une controverse ou d'un régime descriptif en crise (Section 08 / Section 11), l'auditeur Protokin mobilise la redevabilité matérielle à travers trois indicateurs cliniques :
- * Le diagnostic de déconnexion de niche (Autisme discursif) : Repérer les situations où une communauté institutionnelle maintient des règles de justification et des titres d'autorité en vase clos, en ignorant délibérément la dégradation des indicateurs biophysiques de son milieu d'action.
- * Le diagnostic d'écrasement causaliste (Mythe du Donné de terrain) : Repérer les tentatives d'imposer une décision politique ou normative sous le prétexte fallacieux que « les faits bruts ou la matière nous y obligent directement », en masquant les choix de catégorisation intermédiaires.
- * Le test de révocabilité pratique : Vérifier si le dispositif descriptif audité intègre des protocoles de révision explicites dès lors qu'une transition de sortie du langage rencontre un butoir matériel récurrent.
-7. Synthèse finale
-Ce que cette page établit
-La définition de la Redevabilité matérielle comme opérateur de rétroaction normative par lequel les résistances concrètes du milieu (PROTO) contraignent l'attribution des statuts déontiques dans l'espace public des raisons (KIN), garantissant l'ancrage écologique des pratiques sans céder au réductionnisme causal.
-Ce qu'elle suppose
-La démarcation sellarsienne causes/raisons (01-principes-fondamentaux.md), la grammaire déontique de l'inférentialisme (espace-des-raisons.md) et la théorie de la niche pratique (niche.md).
-Ce qu'elle rend possible
-La modélisation rigoureuse de la dynamique de l'enquête face à l'anomalie (dewey-enquete.md), l'évaluation de la robustesse des traductions descriptives (evaluer-une-traduction.md), et l'assainissement critique des régimes discursifs coupés de leurs conditions matérielles de viabilité (08-methode-protokin.md).
+La **redevabilité matérielle** désigne l’articulation entre les résistances rencontrées dans une pratique et l’examen des engagements descriptifs qui orientent cette pratique.
 
+Elle permet d’étudier comment une difficulté matérielle, technique ou environnementale peut mettre une description en question, quelles interprétations de cette difficulté sont défendables et dans quelles conditions une révision devient justifiée.
+
+La redevabilité matérielle ne désigne ni une sanction exercée directement par la matière ni une règle imposant d’abandonner toute description mise en difficulté. Elle concerne le rapport entre une résistance rencontrée, son interprétation et les raisons permettant de maintenir ou de réviser un engagement.
+
+## 2. Problème : une pratique peut-elle maintenir une description mise en difficulté ?
+
+Une description peut être admise dans une pratique et permettre certaines opérations sans avoir été suffisamment éprouvée dans toutes les conditions pertinentes.
+
+Supposons qu’une personne affirme qu’une pièce est en cuivre pur et qu’elle compte sur sa conductivité pour réaliser un montage électrique. Si le montage ne fonctionne pas, un écart apparaît entre le résultat attendu et ce qui se produit effectivement.
+
+Cet écart ne détermine pas immédiatement ce qui doit être révisé. La pièce peut ne pas être composée du matériau annoncé, mais le montage, l’instrument ou les conditions de l’essai peuvent également expliquer le résultat.
+
+Il serait donc injustifié de conclure, à partir du seul échec, que l’affirmation initiale est fausse. Il serait tout aussi injustifié de maintenir cette affirmation sans examiner les résultats qui la mettent en difficulté.
+
+Le problème consiste à comprendre comment une résistance rencontrée peut devenir pertinente pour l’évaluation d’un engagement descriptif, sans confondre ce qui arrive, la manière dont on l’interprète et les raisons qui autorisent une conclusion.
+
+## 3. Définition et articulation
+
+La redevabilité matérielle est une **relation d’enquête** : elle met en rapport les conséquences pratiques d’une description avec les exigences auxquelles cette description doit pouvoir répondre.
+
+Cette relation peut être examinée à partir de quatre questions distinctes :
+
+- **Condition :** quelles contraintes et possibilités matérielles interviennent dans la situation ?
+- **Relation :** à quelles attentes, opérations ou descriptions la difficulté rencontrée se rapporte-t-elle ?
+- **Fonction :** quel rôle l’affirmation joue-t-elle dans la pratique, et quelles opérations oriente-t-elle ?
+- **Justification :** quelles raisons permettent de maintenir, de préciser ou de réviser cette affirmation ?
+
+Ces orientations ne sont ni des composantes indépendantes de la situation ni des étapes obligatoires. Elles différencient les questions que soulève un même problème.
+
+La redevabilité matérielle devient pertinente lorsque les résultats d’une pratique conduisent à examiner les descriptions, les inférences ou les critères sur lesquels cette pratique s’appuie. Elle peut aussi conduire à réexaminer le dispositif matériel lui-même, sans présupposer que la description initiale est nécessairement en cause.
+
+## 4. De la résistance à la révision
+
+Plusieurs fonctions doivent être distinguées.
+
+### 4.1. La résistance rencontrée
+
+Une résistance apparaît lorsqu’une opération, une attente ou une pratique se heurte à une contrainte ou à un résultat inattendu. Elle peut prendre la forme d’un dysfonctionnement, d’une impossibilité pratique, d’une rupture ou d’une mesure qui ne correspond pas au résultat attendu.
+
+Cette résistance limite ce qui peut être réalisé dans les conditions considérées. Elle ne fournit pas, à elle seule, une interprétation de l’échec.
+
+Pour approfondir cette notion, voir [Butoir](butoir.md).
+
+### 4.2. Le constat d’une difficulté
+
+Une résistance devient pertinente pour l’enquête lorsqu’elle est rapportée à une attente, une opération ou une description déterminée.
+
+Un montage qui ne fonctionne pas ne met pas nécessairement en cause toutes les propriétés attribuées à ses composants. Il peut en revanche contredire une attente précise, signaler une condition non prise en compte ou révéler une incompatibilité entre plusieurs éléments de l’explication proposée.
+
+Le constat doit donc préciser ce qui était attendu, ce qui a été observé et dans quelles conditions l’écart apparaît.
+
+### 4.3. L’interprétation du résultat
+
+L’interprétation cherche à déterminer ce que le résultat met effectivement en question. Elle peut nécessiter de comparer plusieurs hypothèses, de contrôler un instrument, de répéter une opération ou de modifier les conditions de l’essai.
+
+Les conséquences associées à une affirmation peuvent aider à repérer les résultats qui lui sont incompatibles. Elles ne suffisent pas toujours à identifier la cause de cette incompatibilité.
+
+L’analyse des conséquences et des transitions entre contenus relève notamment de l’[Inférence matérielle](inference-materielle.md).
+
+### 4.4. La justification d’une révision
+
+Une révision est justifiée lorsque les éléments disponibles, leur interprétation et les critères pertinents soutiennent la modification envisagée.
+
+Selon le cas, l’enquête peut conduire à :
+
+- corriger la description initiale ;
+- préciser les conditions dans lesquelles elle est recevable ;
+- réviser une inférence ou une hypothèse auxiliaire ;
+- corriger le dispositif ou la procédure d’essai ;
+- suspendre la conclusion lorsque les éléments restent insuffisants ;
+- maintenir provisoirement l’affirmation en indiquant les incertitudes restantes.
+
+La révision d’un engagement ne découle donc pas mécaniquement d’un échec pratique. Elle dépend de ce que l’examen permet d’établir et des exigences auxquelles la conclusion doit répondre.
+
+Pour approfondir, voir [Justification](justification.md).
+
+## 5. Redevabilité matérielle et responsabilité discursive
+
+La redevabilité matérielle concerne la manière dont les résultats pratiques interviennent dans l’examen d’une description. Elle ne se confond pas avec l’attribution des engagements et des habilitations aux participants.
+
+Un locuteur peut être engagé par une affirmation sans disposer de raisons suffisantes pour la défendre. Il peut également être raisonnablement habilité à soutenir une hypothèse qui sera ensuite révisée à la lumière de nouveaux éléments.
+
+De même, le fait qu’une description se révèle inadéquate ne suffit pas à établir que son auteur a manqué à ses responsabilités. Cette évaluation dépend notamment des informations dont il disposait, des exigences de la pratique et de la manière dont il a répondu aux difficultés rencontrées.
+
+Il faut donc distinguer :
+
+- la correction ou la révision d’une description ;
+- l’évaluation des raisons qui la soutiennent ;
+- l’attribution d’un engagement au locuteur ;
+- l’évaluation de sa responsabilité dans le maintien ou la révision de cet engagement.
+
+La redevabilité matérielle ne révoque pas elle-même une habilitation. Les résultats pratiques peuvent contribuer à contester une habilitation, mais la portée de cette contestation doit être établie dans la pratique concernée.
+
+Pour approfondir ces questions, voir [Engagement descriptif](engagement-descriptif.md) et [Scorekeeping déontique](scorekeeping-deontique.md).
+
+## 6. Ce que la redevabilité matérielle permet d’examiner
+
+La notion aide à repérer plusieurs difficultés.
+
+### 6.1. Le maintien d’une description malgré des résultats contraires
+
+Une pratique peut continuer à mobiliser une description alors que certains résultats la mettent en difficulté. L’enquête peut alors examiner si ces résultats ont été pris en compte, si leur interprétation est défendable et si les conditions de maintien de la description restent satisfaites.
+
+Le simple désaccord entre une attente et un résultat ne suffit cependant pas à établir que la description doit être abandonnée.
+
+### 6.2. La conversion d’une contrainte en justification
+
+Une contrainte matérielle peut rendre une opération impossible ou montrer qu’un résultat attendu ne se produit pas. Elle ne détermine pas à elle seule la règle, le critère ou la décision qui doit en découler.
+
+Dire « cette opération ne peut pas être réalisée dans ces conditions » ne suffit pas à établir « cette description est fausse », ni « cette décision est justifiée ». Des éléments supplémentaires sont nécessaires pour soutenir ces conclusions.
+
+### 6.3. Le maintien d’une justification sans examen de ses conditions pratiques
+
+Une justification peut être cohérente avec les règles et les prémisses admises dans une pratique tout en reposant sur des conditions matérielles mal décrites ou insuffisamment vérifiées.
+
+L’enquête doit alors examiner les relations entre ces prémisses, les résultats pratiques et les conditions dans lesquelles les opérations ont été réalisées. La cohérence interne ne suffit pas à garantir l’adéquation de la description.
+
+Inversement, l’échec pratique ne rend pas automatiquement toute la justification invalide : il faut préciser quelle prémisse, quelle inférence ou quelle condition est mise en question.
+
+## 7. Limites et non-conversions
+
+La redevabilité matérielle repose sur le maintien de distinctions entre des fonctions liées, mais non interchangeables.
+
+- **Résistance matérielle ≠ raison.** Une résistance peut devenir pertinente pour une enquête sans constituer directement une raison.
+- **Échec pratique ≠ diagnostic de l’échec.** Plusieurs explications peuvent rester compatibles avec un même résultat.
+- **Incompatibilité constatée ≠ réfutation complète.** L’étendue de la conclusion dépend des conditions de l’épreuve et des autres éléments disponibles.
+- **Conséquence inférentielle ≠ identification.** Les propriétés attendues d’un matériau ne suffisent pas toujours à identifier sa composition.
+- **Révision d’une description ≠ faute du locuteur.** L’évaluation de la responsabilité exige un examen distinct.
+- **Accord collectif ≠ adéquation descriptive.** L’acceptation d’une affirmation ne dispense pas d’examiner les résultats qui la mettent en difficulté.
+- **Condition matérielle ≠ critère de justification.** Une contrainte limite les possibilités sans déterminer à elle seule ce qui doit être affirmé ou décidé.
+
+Ces distinctions n’isolent pas les pratiques discursives de leurs conditions matérielles. Elles permettent au contraire d’examiner comment ces conditions affectent les descriptions sans leur attribuer directement une signification ou une force justificative.
+
+## 8. Ce que la page établit, suggère et n’établit pas
+
+### Ce qu’elle établit
+
+La redevabilité matérielle permet d’analyser comment les résultats pratiques peuvent conduire à réexaminer une description, les inférences qui lui sont associées et les raisons invoquées pour la maintenir.
+
+Elle établit également qu’une résistance, son interprétation et la justification d’une révision remplissent des fonctions distinctes.
+
+### Ce qu’elle suggère
+
+La notion invite à examiner si une pratique dispose de moyens effectifs pour repérer les difficultés, réévaluer ses descriptions et rendre explicites les conditions dans lesquelles elle les maintient.
+
+Elle peut ainsi contribuer à l’analyse de pratiques dont les justifications restent inchangées malgré des résultats répétés qui les mettent en difficulté. Ce diagnostic demande toutefois une étude de la pratique concernée et des éléments effectivement disponibles.
+
+### Ce qu’elle n’établit pas
+
+La redevabilité matérielle ne garantit pas qu’une description révisée sera adéquate. Elle ne fournit pas une méthode universelle pour identifier la bonne interprétation d’un résultat, ne transforme pas la résistance en vérité et ne détermine pas à elle seule les obligations d’un locuteur ou d’une institution.
+
+Elle ne présuppose pas non plus que toute pratique doive être évaluée selon un indicateur unique de réussite ou de viabilité. Les critères pertinents dépendent du problème, de la pratique et des conclusions examinées.
+
+## Synthèse
+
+La redevabilité matérielle permet d’examiner comment les résultats d’une pratique peuvent mettre en question les descriptions et les engagements qui l’orientent.
+
+Une résistance contraint les opérations possibles ; son interprétation détermine ce qu’elle met effectivement en question ; la justification permet d’évaluer les révisions proposées. Ces fonctions sont liées, mais aucune ne se substitue automatiquement aux autres.
+
+**La matière peut mettre une description à l’épreuve ; elle ne fournit pas, à elle seule, la justification de sa révision.**
+
+## Renvois
+
+- [Butoir](butoir.md) — Définir les résistances qui limitent une opération ou une description.
+- [Inférence matérielle](inference-materielle.md) — Examiner les conséquences et les incompatibilités associées à un contenu.
+- [Engagement descriptif](engagement-descriptif.md) — Définir le statut normatif d’une prise de position descriptive.
+- [Scorekeeping déontique](scorekeeping-deontique.md) — Examiner l’attribution et le suivi des engagements et des habilitations.
+- [Justification](justification.md) — Examiner les raisons et les critères qui soutiennent ou contestent une conclusion.
+- [La pièce de cuivre](la-piece-de-cuivre.md) — Mettre à l’épreuve ces distinctions dans une situation illustrative.
