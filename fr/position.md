@@ -108,7 +108,7 @@ Sa valeur dépend de la précision de la caractérisation proposée, des éléme
 
 Pour approfondir les notions voisines :
 
-- [Temporalité descriptive](temporalite-descriptive.md)
-- [Trajectoire](trajectoire.md)
-- [Stabilisation](stabilisation.md)
-- [Position épistémique](position-epistemique.md)
+- [Temporalité descriptive](fr/temporalite-descriptive.md)
+- [Trajectoire](fr/trajectoire.md)
+- [Stabilisation](fr/stabilisation.md)
+- [Position épistémique](fr/position-epistemique.md)
