@@ -231,7 +231,7 @@ Les cas permettent de confronter les distinctions et les opérations à des situ
 - [Changement climatique](fr/changement-climatique.md) — Confronter les descriptions, les mesures et les critères mobilisés dans un problème complexe.
 - [Géocentrisme](fr/geocentrisme.md) — Examiner la transformation des descriptions et les critères de leur évaluation.
 - [Phlogistique](fr/phlogistique.md) — Examiner la révision d’un cadre descriptif et explicatif.
-- [Urgence hospitalière](fr/urgence-hospitaliere.md) — Examiner les rapports entre contraintes, décisions pratiques et justifications.
+- [Urgence hospitalière](fr/urgence-hospitaliere.md) — Examiner les fonctions et les critères de pratiques cliniques, biomédicales et administratives, ainsi que les conditions de leur coordination.
 - [Théorie des humeurs](fr/theorie-des-humeurs.md) — Examiner les catégories, les critères et les transformations historiques des pratiques médicales.
 
 ---
