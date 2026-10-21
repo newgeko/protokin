@@ -67,6 +67,7 @@ Ces fonctions permettent d’examiner l’enquête elle-même, ses conditions d�
 - [Temps physique](fr/temps.md) — Examiner comment les relations temporelles sont établies et mesurées dans l’étude des processus physiques, en les distinguant de la temporalité propre aux pratiques descriptives.
 - [Temporalité descriptive](fr/temporalite-descriptive.md) — Examiner comment les pratiques descriptives héritent de ressources antérieures, les mobilisent et les transforment au cours du temps.
 - [Trajectoire](fr/trajectoire.md) — Reconstruire le parcours des transformations descriptives.
+- [Transition](fr/transition.md) — Examiner le passage temporel entre des configurations sans présumer de la continuité, des causes ni du résultat du changement.
 - [Allure](fr/allure.md) — Qualifier la distribution temporelle des transformations d’une trajectoire.
 - [transformation](fr/transformation.md) — Caractériser une modification de configuration sans présumer de sa nature, de sa portée ou de sa justification.
 - [Sédimentation](fr/sedimentation.md) — Examiner comment des traces issues de pratiques descriptives sont conservées, accumulées et transmises, parfois au-delà du contexte dans lequel elles ont été produites.
