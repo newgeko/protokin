@@ -77,6 +77,7 @@ Ces fonctions permettent d’examiner l’enquête elle-même, ses conditions d�
 - [Comparer deux descriptions](fr/comparer-deux-descriptions.md) — Mettre en regard les engagements, les critères et les conséquences de descriptions distinctes.
 - [Auto-application](fr/auto-application.md) — Soumettre les instruments de l’enquête aux exigences qu’ils appliquent aux autres descriptions.
 - [Injustice épistémique](fr/injustice-epistemique.md) — Examiner les torts qui affectent la crédibilité, l’interprétation et la participation aux pratiques de connaissance.
+- [Injustice herméneutique](fr/injustice-hermeneutique.md) — Examiner les désavantages structurels qui affectent l’accès aux ressources interprétatives collectives.
 
 L’audit ne consiste pas seulement à vérifier la cohérence interne d’un discours. Il examine aussi les conditions dans lesquelles ses distinctions, ses inférences et ses justifications peuvent être maintenues ou remises en cause.
 
