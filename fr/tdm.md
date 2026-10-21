@@ -16,6 +16,7 @@ Ces pages précisent le problème auquel répond Protokin, l’organisation du p
 - [Architecture du projet](fr/architecture-projet.md) — Organiser les ressources du corpus et préciser leurs fonctions.
 - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Décrire les opérations par lesquelles une difficulté descriptive peut être examinée et reprise.
 - [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer quatre orientations d’examen : Condition, Relation, Fonction et Justification.
+- [Registres](fr/registres.md) — Distinguer les registres cognitif, sémantique et référentiel sans les traiter comme des niveaux du réel.
 - [Parcours de lecture](fr/parcours-de-lecture.md) — Proposer des entrées dans le corpus selon les besoins de lecture.
 
 La quadripartition constitue un cadre minimal d’orientation et d’audit. Elle ne décrit ni quatre composantes universelles du réel ni quatre phases successives de sa constitution.
@@ -164,6 +165,7 @@ Cette partie rassemble les ressources permettant d’examiner une configuration 
 - [Régime descriptif](fr/regime-descriptif.md) — Examiner les règles et les critères qui organisent une pratique descriptive.
 - [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md) — Examiner les rapports entre plusieurs régimes descriptifs.
 - [Identifier un régime](fr/identifier-un-regime.md) — Préciser les indices et les critères mobilisés pour distinguer un régime.
+- [Une première cartographie des régimes descriptifs](fr/une-premiere-cartographie-des-regimes-descriptifs.md) — Proposer des repères révisables pour identifier et comparer différentes manières d’organiser les descriptions.
 - [Différence rencontrée](fr/difference-rencontree.md) — Examiner la différence qui donne lieu à une difficulté descriptive.
 - [Configuration rencontrée](fr/configuration-rencontree.md) — Décrire la configuration sur laquelle porte l’enquête.
 - [Configuration descriptive](fr/configuration-descriptive.md) — Examiner l’organisation des éléments retenus dans une description.
@@ -175,6 +177,7 @@ Cette partie rassemble les ressources permettant d’examiner une configuration 
 - [Image scientifique](fr/image-scientifique.md) — Examiner les pratiques scientifiques de mesure, de modélisation, d’expérimentation et de contrôle des résultats.
 
 - [Fonction de stimulus](fr/fonction-de-stimulus.md) — Distinguer les propriétés physiques d’un événement du rôle qu’il exerce dans une organisation comportementale.
+- [Stimulus physique](fr/le-stimulus-physique.md) — Distinguer les propriétés physiques d’un événement des fonctions qu’il peut exercer dans une pratique comportementale.
   
 
 ### C. Catégories, taxonomies et clarification conceptuelle
@@ -218,6 +221,7 @@ Les instruments d’épreuve servent à examiner les distinctions, les inférenc
 - [Diagnostiquer une erreur de catégorie](fr/diagnostiquer-une-erreur-de-categorie.md) — Examiner l’attribution d’une propriété ou d’une fonction dans un cadre inadéquat.
 - [Diagnostiquer une réduction](fr/diagnostiquer-une-reduction.md) — Repérer la réduction d’une fonction ou d’un registre à un autre.
 - [Recevabilité](fr/recevabilite.md) – Examiner les conditions auxquelles une description ou une conclusion peut être admise à l’examen dans une pratique.
+- [Tension](fr/tension.md) — Caractériser une difficulté qui affecte le fonctionnement d’une pratique ou la coordination de plusieurs exigences.
 
 ### B. Comparer et éprouver
 
@@ -240,7 +244,7 @@ Les cas permettent de confronter les distinctions et les opérations à des situ
 - [Phlogistique](fr/phlogistique.md) — Examiner la révision d’un cadre descriptif et explicatif.
 - [Urgence hospitalière](fr/urgence-hospitaliere.md) — Examiner les fonctions et les critères de pratiques cliniques, biomédicales et administratives, ainsi que les conditions de leur coordination.
 - [Théorie des humeurs](fr/theorie-des-humeurs.md) — Examiner les catégories, les critères et les transformations historiques des pratiques médicales.
-- [Intelligence artificielle](intelligence-artificielle.md) — Examiner ce que les résultats d’un système d’IA permettent de conclure dans une pratique descriptive.
+- [Intelligence artificielle](fr/intelligence-artificielle.md) — Examiner ce que les résultats d’un système d’IA permettent de conclure dans une pratique descriptive.
 
 ---
 ## VIII. Héritages philosophiques
