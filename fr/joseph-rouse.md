@@ -1,362 +1,169 @@
-# Page : joseph-rouse.md
+# Joseph Rouse — Pratiques scientifiques, matérialité et normativité
 
-Rouse
+## Fonction
 
-Fonction
+Cette page examine l'apport de Joseph Rouse à un problème qui concerne directement Protokin : comment étudier des pratiques scientifiques comme des activités matériellement situées, socialement organisées et normativement évaluables, sans réduire leurs fonctions aux conditions physiques de leur réalisation ni séparer ces pratiques du monde dans lequel elles interviennent.
 
-La référence à Joseph Rouse permet à Protokin d'examiner les pratiques scientifiques et descriptives comme des pratiques situées, matérielles, normatives et historiquement engagées.
+Rouse constitue une ressource pour penser ensemble les activités scientifiques, leurs dispositifs matériels, leurs relations sociales et les exigences auxquelles leurs performances sont soumises. Son intérêt tient notamment à la manière dont il problématise le rapport entre causalité et normativité.
 
-Rouse est particulièrement utile pour une question :
+Cette page présente les éléments de cette approche utiles à l'enquête. Elle ne propose ni une reconstruction exhaustive de la philosophie de Rouse ni une adhésion de Protokin à l'ensemble de ses engagements.
 
-«Comment une pratique descriptive peut-elle être à la fois matériellement située, causalement efficace et normativement orientée sans réduire la normativité à des faits physiques ni séparer la pratique du monde auquel elle répond ?»
+## 1. Le problème : décrire la science comme une pratique
 
-Cette filiation prolonge plusieurs problèmes rencontrés chez Sellars et Brandom, mais déplace l'analyse vers les pratiques scientifiques elles-mêmes.
+La science peut être décrite à partir de ses résultats : propositions, modèles, mesures, classifications et explications. Mais ces résultats ne suffisent pas à rendre compte des activités par lesquelles ils sont produits, éprouvés, utilisés et révisés.
 
-Rouse insiste notamment sur une conception de la science comme activité pratique située plutôt que comme simple ensemble de représentations du monde.
+Une pratique scientifique mobilise notamment des instruments, des compétences, des procédures, des interactions, des inscriptions matérielles et des critères d'évaluation. Ces éléments interviennent dans les conditions concrètes de production et d'utilisation des descriptions.
 
----
+Dans *Knowledge and Power* (1987), *Engaging Science* (1996) et *How Scientific Practices Matter* (2002), Rouse développe différentes dimensions d'une conception de la science attentive aux pratiques, à leurs conditions matérielles et à leurs implications normatives et politiques.
 
-1. La science comme pratique
+L'enjeu n'est pas simplement d'ajouter le contexte social ou matériel à une description de la connaissance déjà constituée. Il consiste à examiner comment les activités scientifiques prennent forme, comment elles interviennent dans leurs situations et comment leurs résultats acquièrent un rôle dans des pratiques déterminées.
 
-Dans Knowledge and Power et Engaging Science, Rouse analyse la science comme une pratique sociale et interprétative, plutôt que comme une activité dont le résultat pourrait être isolé des conditions concrètes de sa production.
+Pour Protokin, cela invite à distinguer une description scientifique des activités, des relations et des conditions qui permettent de la produire et de l'utiliser. Ces dimensions sont liées, mais elles ne remplissent pas la même fonction.
 
-Une pratique scientifique implique notamment :
+## 2. Matérialité et activité scientifique
 
-- des activités matérielles ;
-- des instruments ;
-- des expérimentations ;
-- des compétences ;
-- des interactions entre chercheurs ;
-- des critères d'évaluation ;
-- des formes de description et d'interprétation.
+Les conditions matérielles ne constituent pas un simple décor extérieur de la science. Les instruments rendent certaines observations possibles, les dispositifs expérimentaux organisent les interventions et les propriétés des matériaux contraignent les opérations réalisables.
 
-La connaissance scientifique n'est donc pas seulement un ensemble de propositions déjà constituées.
+Une modification du dispositif peut changer les observations accessibles. Une intervention peut rendre un phénomène détectable dans des conditions qui ne l'étaient pas auparavant. Une contrainte matérielle peut empêcher une opération attendue ou conduire à réviser la manière dont une situation est décrite.
 
-Elle prend forme dans des pratiques déterminées.
+Ces rapports ne permettent cependant pas de réduire les descriptions scientifiques aux conditions de leur production.
 
-Pour Protokin :
+Il faut distinguer :
 
-«description scientifique ≠ proposition isolée»
+- les conditions matérielles dans lesquelles une pratique se déroule ;
+- les opérations qu'elle réalise ;
+- les différences qu'elle permet de détecter ou de stabiliser ;
+- les descriptions et les inférences qu'elle mobilise ;
+- les raisons permettant de défendre ses résultats.
 
-Une description doit pouvoir être examinée relativement aux opérations, relations, contraintes et fonctions qui lui permettent de jouer un rôle dans une pratique.
+Ces dimensions peuvent dépendre les unes des autres sans être interchangeables.
 
----
+**Une condition matérielle peut expliquer pourquoi une opération est possible ou impossible sans justifier, à elle seule, la description qui en résulte.**
 
-2. Une pratique est située
+L'intérêt de Rouse est de rendre problématique une conception dans laquelle les pratiques scientifiques seraient uniquement des représentations d'un monde extérieur à leurs activités. Leur matérialité appartient aux situations étudiées : mesurer, expérimenter et intervenir sont aussi des manières d'agir dans le monde.
 
-Rouse insiste sur le caractère situé des pratiques scientifiques : leur environnement matériel n'est pas un simple décor extérieur de l'activité scientifique. Les pratiques sont constituées par des interactions avec des dispositifs, des objets, des personnes et des situations déterminées.
+Cela ne signifie pas que toute différence identifiée par une pratique soit produite par cette pratique. L'intervention, la détection, l'identification et la constitution d'un objet descriptif doivent rester distinguables.
 
-Cela permet de maintenir ensemble deux propositions :
+## 3. Causalité et normativité
 
-«une pratique est matériellement située»
+Une difficulté centrale concerne le rapport entre les conditions causales d'une pratique et les exigences normatives auxquelles elle est soumise.
 
-et :
+Une activité scientifique dépend de processus physiques, de compétences acquises, de dispositifs techniques et d'interactions sociales. Mais expliquer comment une performance a été produite ne suffit pas à déterminer si elle est correcte, adéquate ou justifiée.
 
-«une pratique n'est pas réductible à ses conditions matérielles»
+Inversement, les exigences normatives ne doivent pas être traitées comme si elles étaient nécessairement extérieures aux activités concrètes dans lesquelles les performances sont évaluées.
 
-Cette distinction correspond directement à la quadripartition de Protokin.
+Rouse cherche à repenser ce rapport en examinant la normativité au sein des pratiques, plutôt qu'en la séparant entièrement de leurs conditions naturelles et matérielles.
 
-Les conditions corporelles et matérielles participent au fonctionnement d'une pratique sans épuiser ses relations, ses fonctions ou ses critères de justification.
+Pour Protokin, cet apport ouvre une question d'enquête : comment une pratique matériellement située organise-t-elle la distinction entre ce qui se produit, ce qui fonctionne, ce qui compte comme correct et ce qui peut être justifié ?
 
----
+Cette question impose de maintenir plusieurs distinctions :
 
-3. Normativité et causalité
+- **Cause et raison :** expliquer la production d'une affirmation ne suffit pas à justifier son contenu.
+- **Condition et critère :** ce qui rend une performance possible ne détermine pas nécessairement ce qui la rend correcte.
+- **Fonction et justification :** le rôle exercé par une description ne suffit pas à établir que son usage est justifié.
+- **Efficacité et validité :** obtenir un résultat pratique ne garantit pas la validité de toutes les descriptions mobilisées pour l'obtenir.
 
-Une difficulté centrale de Rouse concerne le rapport entre nature et normativité.
+Ces distinctions ne supposent pas que les dimensions causales et normatives soient indépendantes. Elles empêchent de conclure de l'une à l'autre sans examiner les relations qui autorisent le passage.
 
-Il cherche à éviter deux réductions symétriques :
+## 4. Normativité et redevabilité des performances
 
-- réduire la normativité à des faits naturels ou causaux ;
-- traiter la normativité comme un domaine entièrement séparé du monde naturel.
+L'analyse des pratiques chez Rouse conduit à examiner comment les performances peuvent être évaluées relativement à ce qui est en jeu dans une activité.
 
-Dans How Scientific Practices Matter, il cherche ainsi à articuler les pouvoirs causaux des choses et la normativité des pratiques sans les placer dans deux domaines indépendants.
+Une pratique n'a pas nécessairement besoin d'être expliquée par un ensemble de règles explicites qui existeraient avant toute activité. Des attentes, des compétences, des manières de corriger une conduite et des relations entre participants peuvent contribuer à rendre certaines performances appropriées, inadéquates ou contestables.
 
-Pour Protokin, cette proposition est particulièrement féconde mais doit être maintenue sous contrôle :
+Il faut néanmoins distinguer la présence de régularités et l'existence d'exigences normatives. Une répétition ne constitue pas automatiquement une règle. De même, l'absence d'une règle formulée explicitement ne suffit pas à établir qu'aucune évaluation normative n'est possible.
 
-«cause ≠ raison»
+Pour Protokin, la question est de déterminer comment une pratique rend certaines performances évaluables, quels critères interviennent dans cette évaluation et comment ces critères peuvent être contestés ou révisés.
 
-L'articulation entre causalité et normativité ne signifie pas que la causalité devient une justification.
+Cette approche permet également de distinguer trois dimensions :
 
-Elle signifie qu'il faut examiner comment des pratiques matériellement situées peuvent être normativement organisées.
+- **Capacité :** ce qu'un participant est en mesure de faire dans certaines conditions.
+- **Performance :** ce qu'il réalise effectivement dans une situation déterminée.
+- **Validité :** ce qui autorise à tenir un résultat ou une conclusion pour correct au regard des exigences pertinentes.
 
-La dépendance n'autorise donc pas la conversion.
+Une capacité ne garantit pas la réussite d'une performance. Une performance réussie ne suffit pas à justifier toutes les affirmations qui l'accompagnent. Une évaluation négative ne permet pas non plus de conclure automatiquement à l'absence de capacité.
 
----
+La redevabilité intervient lorsque les performances et les engagements associés peuvent être examinés, contestés ou corrigés dans une pratique. Son analyse détaillée relève toutefois des pages consacrées à la normativité, aux engagements et à la responsabilité descriptive.
 
-4. La normativité comme redevabilité
+## 5. Pratiques scientifiques, pouvoir et circulation des descriptions
 
-Dans son analyse des pratiques sociales, Rouse défend une conception normative fondée sur la redevabilité mutuelle des performances plutôt que sur l'existence préalable de règles ou de significations stables.
+Les pratiques scientifiques sont également traversées par des relations de pouvoir. Les activités de classification, de mesure, d'expérimentation et d'interprétation contribuent à rendre certaines différences visibles, à stabiliser certaines catégories et à rendre possibles certaines interventions.
 
-Une pratique n'a donc pas nécessairement besoin d'être expliquée par un ensemble de règles explicites qui existeraient avant les performances.
+Les conditions de production et de circulation des descriptions peuvent déterminer quels résultats sont accessibles, quelles classifications sont utilisées, quels problèmes deviennent reconnus et quels acteurs sont en mesure de demander des justifications.
 
-Les participants peuvent se rendre mutuellement redevables de ce qu'ils font relativement à ce qui est en jeu dans la pratique.
+Cette dimension politique ne se réduit pas à une influence extérieure qui viendrait modifier une science autrement indépendante de ses pratiques sociales. Elle concerne aussi les conditions dans lesquelles les résultats sont produits, retenus, diffusés et mobilisés.
 
-Cela rejoint directement une préoccupation de Protokin :
+Pour Protokin, il devient alors pertinent d'examiner :
 
-«régularité ≠ règle»
+- quelles différences une pratique rend visibles ou laisse hors champ ;
+- quels dispositifs et quelles institutions contribuent à stabiliser ses descriptions ;
+- quels usages et quelles interventions ces descriptions rendent possibles ;
+- qui peut contester une classification ou demander la justification d'une décision ;
+- quelles conséquences la circulation d'une description produit dans une situation déterminée.
 
-Une pratique peut présenter des régularités sans que celles-ci constituent des règles explicites.
+Cet examen ne permet pas de déduire automatiquement la validité d'une description de ses effets politiques.
 
-Inversement, son caractère normatif ne nécessite pas nécessairement une règle préexistante qui commanderait de l'extérieur chaque performance.
+Une classification peut avantager certains acteurs sans être, pour cette seule raison, fausse. Une description peut être techniquement efficace tout en produisant des conséquences contestables. Une institution peut reconnaître une description sans que cette reconnaissance suffise à la justifier.
 
----
+Il faut donc distinguer l'analyse du pouvoir, l'examen des effets pratiques et l'évaluation des descriptions. Ces questions peuvent se croiser sans se substituer les unes aux autres.
 
-5. Pratique et performance
+## 6. Ce que cette lecture apporte à Protokin
 
-Cette conception permet de distinguer la pratique de chacune de ses performances particulières.
+La lecture de Rouse permet de préciser plusieurs questions que l'enquête peut adresser aux pratiques descriptives.
 
-Une performance peut être évaluée comme appropriée, inadéquate, réussie, défaillante ou contestable relativement à ce qui est en jeu dans la pratique.
+**Premièrement, les conditions matérielles doivent être examinées comme des éléments pertinents de la pratique.** Elles ne constituent ni un simple contexte extérieur ni une explication suffisante de toutes les fonctions descriptives.
 
-La normativité apparaît alors dans la possibilité même d'une telle évaluation.
+**Deuxièmement, les pratiques peuvent être normativement organisées sans que toute norme doive prendre la forme d'une règle explicite préexistante.** Il reste nécessaire d'examiner les critères et les modalités d'évaluation effectivement mobilisés.
 
-Pour Protokin :
+**Troisièmement, les interventions scientifiques peuvent transformer les situations étudiées.** Il faut alors distinguer les transformations produites, les différences rendues accessibles et les conclusions tirées de ces transformations.
 
-«capacité ≠ performance ≠ validité»
+**Quatrièmement, les effets sociaux et politiques des descriptions doivent pouvoir être étudiés sans être confondus avec leur validité.** L'examen des usages et des conséquences complète l'évaluation des descriptions, mais ne la remplace pas.
 
-Une personne peut disposer d'une capacité sans l'exercer.
+**Enfin, les pratiques doivent pouvoir être étudiées dans leur transformation.** La continuité d'une activité ne suppose pas l'identité de toutes ses opérations, de ses moyens ou de ses critères. Une pratique peut maintenir certains rapports tout en modifiant ses fonctions ou les conditions de leur réalisation.
 
-Elle peut produire une performance sans que celle-ci soit valide ou justifiée.
+Ces apports ne constituent pas une procédure supplémentaire dans l'architecture de l'enquête. Ils fournissent des points d'attention pour examiner des situations dans lesquelles les dimensions matérielles, relationnelles, fonctionnelles et normatives sont étroitement liées.
 
-Une performance peut à son tour modifier les conditions de la pratique.
+## 7. Limites de la reprise
 
-La fonction d'une pratique ne doit donc pas être réduite à la somme de ses occurrences.
+Protokin ne reprend pas la philosophie de Rouse comme une ontologie générale de la nature ou de la pratique.
 
----
+Rouse développe une conception philosophique dans laquelle les pratiques scientifiques, leurs pouvoirs causaux et leurs dimensions normatives doivent être repensés conjointement. Protokin peut mobiliser cette proposition sans considérer que le problème ontologique est ainsi résolu.
 
-6. Les pratiques scientifiques transforment leur milieu
+Il n'est pas nécessaire de décider à l'avance si les objets scientifiques sont entièrement indépendants des pratiques, entièrement constitués par elles ou caractérisés par une relation générale entre ces deux termes. L'enquête peut examiner, dans un cas déterminé, ce que les pratiques transforment, ce qu'elles rendent identifiable, ce qui leur résiste et ce que leurs résultats permettent effectivement de soutenir.
 
-Chez Rouse, les pratiques scientifiques ne se contentent pas de représenter un monde déjà entièrement déterminé indépendamment de leur activité.
+Cette suspension ne revient pas à nier l'existence d'un monde matériel indépendant des descriptions. Elle consiste à ne pas déduire une position ontologique générale de l'analyse d'une pratique particulière.
 
-Elles interviennent matériellement dans ce qu'elles étudient : expérimentation, instrumentation, classification, mesure, manipulation et intervention modifient les relations dans lesquelles les phénomènes deviennent accessibles. Cette orientation traverse notamment son analyse de la science comme activité pratique.
+De même, Protokin ne suppose pas que toute pratique soit normative au même sens, ni que toute activité puisse être évaluée selon des critères identiques. Les exigences pertinentes doivent être examinées dans les pratiques considérées.
 
-Il faut toutefois distinguer :
+Rouse constitue ainsi une ressource de confrontation : ses analyses permettent de formuler des questions et de préciser des distinctions, mais elles ne dispensent pas d'examiner les situations concrètes ni de justifier les conclusions de l'enquête.
 
-«intervenir dans une situation ≠ créer ontologiquement ce qui y apparaît»
+## Synthèse
 
-Une pratique peut modifier les conditions sous lesquelles une différence devient observable, mesurable ou exploitable sans que cette intervention suffise à conclure que la pratique a créé cette différence.
+L'apport de Joseph Rouse tient à l'attention portée aux pratiques scientifiques comme activités matérielles, sociales et normativement organisées.
 
-Pour Protokin :
+Cette perspective permet d'examiner conjointement les conditions de production des descriptions, les interventions réalisées, les performances évaluées et les rapports de pouvoir qui affectent leur circulation.
 
-«configuration descriptive ≠ création ontologique»
+Elle ne justifie cependant aucune conversion automatique entre ces dimensions :
 
-La question devient alors :
+- une condition matérielle n'est pas un critère ;
+- une cause n'est pas une raison ;
+- une régularité n'est pas nécessairement une règle ;
+- une performance n'est pas une garantie de validité ;
+- un effet pratique ou politique n'est pas une justification ;
+- une intervention n'établit pas, à elle seule, une création ontologique de son objet.
 
-«quelles transformations une pratique rend-elle possibles, et quelles différences ces transformations rendent-elles ensuite descriptibles ?»
+La question que cette lecture adresse à Protokin peut se formuler ainsi :
 
----
+**Comment examiner des pratiques matériellement situées et normativement organisées sans réduire leurs fonctions aux conditions de leur réalisation ni confondre leurs effets avec la justification de leurs résultats ?**
 
-7. Pouvoir et description
+Rouse contribue ainsi à l'examen des pratiques scientifiques, de leur matérialité et de leur normativité. Cette contribution doit être articulée aux distinctions propres à Protokin et éprouvée dans les situations où ces distinctions deviennent pertinentes.
 
-Dès Knowledge and Power, Rouse analyse la science également sous l'angle des relations de pouvoir qui traversent les pratiques scientifiques. Il soutient notamment que les dimensions épistémologiques et politiques des sciences ne peuvent être entièrement séparées de leurs pratiques concrètes.
+## Pour poursuivre
 
-Cette dimension est importante pour Protokin parce qu'une pratique descriptive ne détermine pas seulement ce qui peut être dit.
-
-Elle peut aussi contribuer à déterminer :
-
-- quelles différences deviennent visibles ;
-- quelles classifications deviennent disponibles ;
-- quelles descriptions peuvent circuler ;
-- quelles personnes ou institutions peuvent demander des justifications ;
-- quelles interventions deviennent possibles.
-
-Cela permet de préciser :
-
-«fonction descriptive ≠ neutralité pratique»
-
-Une description peut avoir des effets dans une situation sans que ces effets constituent automatiquement sa justification.
-
----
-
-8. Pouvoir et justification
-
-La dimension politique d'une pratique descriptive ne doit cependant pas être confondue avec sa validité.
-
-Qu'une classification favorise certains usages ou certains acteurs ne permet pas, à elle seule, de déterminer si elle est correcte.
-
-Inversement, une justification peut avoir des conséquences politiques sans être réductible à ces conséquences.
-
-Protokin maintient donc :
-
-«effet ≠ justification»
-
-et :
-
-«pouvoir ≠ validité»
-
-Cette distinction permet d'étudier les effets pratiques d'une description sans transformer l'analyse de ses effets en jugement automatique sur sa validité.
-
----
-
-9. Le monde n'est pas extérieur à la pratique
-
-L'un des intérêts de Rouse pour Protokin est de compliquer une opposition trop simple entre :
-
-«un monde donné»
-
-et :
-
-«une pratique qui le représenterait de l'extérieur»
-
-Les pratiques scientifiques sont elles-mêmes des interactions matérielles avec le monde.
-
-Mais cela ne conduit pas nécessairement à une conception selon laquelle le monde serait produit par les pratiques.
-
-La formulation protokinienne peut rester plus prudente :
-
-«les pratiques descriptives sont dans le monde et agissent dans le monde ; elles ne sont donc pas extérieures aux conditions qu'elles cherchent à décrire.»
-
-Cette proposition concerne la situation de l'enquête, non une ontologie générale du monde.
-
----
-
-10. Rouse et la quadripartition
-
-Rouse est particulièrement utile pour montrer pourquoi les quatre questions de Protokin doivent rester articulées sans être converties.
-
-Corps : les pratiques sont matériellement et corporellement situées.
-
-Relation : elles impliquent des interactions avec des personnes, des instruments, des environnements et des phénomènes.
-
-Fonction : elles accomplissent des opérations déterminées dans des pratiques scientifiques ou descriptives.
-
-Justification : leurs performances et leurs descriptions peuvent être évaluées, contestées et corrigées.
-
-Aucune de ces dimensions ne suffit à elle seule.
-
-Ainsi :
-
-«matérialité ≠ normativité»
-
-«relation ≠ fonction»
-
-«fonction ≠ justification»
-
-«efficacité ≠ validité»
-
-La force de Rouse pour Protokin est précisément de montrer que ces dimensions peuvent être intriquées sans devoir être réduites les unes aux autres.
-
----
-
-11. Rouse et la temporalité
-
-La conception des pratiques comme activités situées permet également de traiter leur temporalité autrement que comme simple succession d'états.
-
-Une pratique se maintient à travers des performances, des corrections, des transformations et des reprises.
-
-Elle peut ainsi présenter une continuité sans rester identique.
-
-Pour Protokin :
-
-«stabilisation ≠ immobilité»
-
-Une pratique peut conserver certaines fonctions tout en modifiant ses moyens, ses relations ou ses critères.
-
-Elle peut également perdre une fonction et en acquérir une autre.
-
-La temporalité permet alors de suivre une trajectoire de transformation, plutôt que de rechercher une identité fixe de la pratique à travers le temps.
-
----
-
-12. Rouse et l'objet descriptif
-
-Rouse permet également d'éviter deux conceptions symétriques de l'objet scientifique.
-
-La première consisterait à considérer l'objet comme entièrement donné avant toute pratique.
-
-La seconde consisterait à considérer l'objet comme entièrement produit par la pratique.
-
-Une pratique scientifique peut modifier les conditions dans lesquelles une différence est détectable, manipulable ou descriptible sans que cette différence soit pour autant créée par la pratique.
-
-Pour Protokin :
-
-«objet descriptif ≠ donné brut»
-
-mais également :
-
-«objet descriptif ≠ création ontologique»
-
-L'objet descriptif peut être compris comme une différence devenue suffisamment identifiable et réutilisable dans une pratique.
-
----
-
-13. Ce que Rouse permet de distinguer
-
-La confrontation avec Rouse permet de maintenir plusieurs distinctions :
-
-Question| Ce que l'enquête peut suivre| Ce qu'elle ne doit pas en déduire automatiquement
-Pratique| ses conditions matérielles et sociales| une réduction à ces conditions
-Science| ses opérations situées| une simple production de représentations
-Normativité| les conditions d'évaluation des performances| une règle extérieure à la pratique
-Causalité| les interactions et transformations matérielles| une justification
-Performance| son évaluation dans une pratique| une validité automatique
-Pouvoir| les effets différentiels d'une pratique| sa validité ou son invalidité
-Intervention| les transformations produites dans une situation| une création ontologique de l'objet
-Stabilisation| la continuité d'une pratique| son immobilité
-
-Cette série ne constitue pas une reconstruction exhaustive de Rouse.
-
-Elle fournit à Protokin des points de non-conversion.
-
----
-
-14. Ce que Protokin retient
-
-Rouse permet à Protokin de préciser plusieurs propositions importantes :
-
-1. une pratique descriptive est située dans des conditions matérielles ;
-2. ses conditions matérielles ne suffisent pas à épuiser sa fonction ;
-3. une pratique peut être normative sans être gouvernée par des règles explicites préexistantes ;
-4. les performances peuvent être évaluées relativement à ce qui est en jeu dans la pratique ;
-5. les pratiques scientifiques interviennent dans les situations qu'elles étudient ;
-6. leurs effets matériels et politiques peuvent être examinés sans être confondus avec leur justification ;
-7. la continuité d'une pratique peut être reconstruite sans supposer une identité immobile.
-
-Ces propositions renforcent l'idée centrale de Protokin :
-
-«les dépendances peuvent être continues sans que les fonctions soient convertibles.»
-
----
-
-15. Limite de la filiation
-
-Protokin ne reprend pas le naturalisme pragmatiste de Rouse comme ontologie.
-
-Rouse cherche notamment à repenser le rapport entre nature, causalité et normativité à l'intérieur d'une conception naturaliste de la pratique.
-
-Protokin conserve une suspension plus radicale sur ce point.
-
-Il peut examiner comment une pratique articule des conditions corporelles, matérielles, relationnelles et normatives sans devoir décider à l'avance ce qu'est ontologiquement la nature ou comment la normativité appartient à l'être du monde.
-
-La question protokinienne devient donc :
-
-«Comment une pratique située matériellement et causalement peut-elle fonctionner de manière normative sans que l'enquête ait à convertir la normativité en causalité ou la causalité en normativité ?»
-
-Rouse fournit ici une ressource d'élaboration et d'épreuve, mais non une réponse ontologique définitive.
-
----
-
-Synthèse
-
-Rouse permet à Protokin de penser les pratiques descriptives comme des pratiques situées, matérielles, relationnelles et normatives.
-
-Une pratique scientifique n'est pas simplement un système de représentations.
-
-Elle est une activité qui engage des corps, des instruments, des environnements, des performances, des critères et des relations de redevabilité.
-
-Mais cette articulation ne supprime pas les distinctions fonctionnelles :
-
-«matérialité ≠ normativité
-causalité ≠ justification
-régularité ≠ règle
-performance ≠ validité
-effet ≠ justification
-intervention ≠ création ontologique
-stabilisation ≠ immobilité»
-
-La question directrice peut ainsi être formulée :
-
-«Comment une pratique peut-elle être matériellement située, causalement efficace et normativement orientée sans que l'une de ces dimensions soit convertie dans les autres ?»
-
-Rouse constitue ainsi pour Protokin une ressource particulièrement importante pour Relier, Configurer, Justifier et Auditer.
-
-Il prolonge Sellars sur l'articulation entre causalité et normativité, Brandom sur la redevabilité des pratiques, mais déplace l'attention vers les pratiques scientifiques et leurs engagements matériels, sociaux et politiques.
+- [Wilfrid Sellars](fr/wilfrid-sellars.md) — Examiner les rapports entre explication, expérience et raisons.
+- [Robert Brandom](fr/robert-brandom.md) — Examiner les engagements, les habilitations et les conséquences inférentielles.
+- [Description et normativité](fr/description-et-normativite.md) — Distinguer les fonctions descriptives et normatives.
+- [Redevabilité matérielle](fr/redevabilite-materielle.md) — Examiner comment une résistance rencontrée peut conduire à réévaluer une description.
+- [Responsabilité descriptive](fr/responsabilite-descriptive.md) — Examiner la redevabilité associée aux descriptions et à leurs conséquences.
+- [Quadripartition de l'orientation](fr/quadripartition-de-l-orientation.md) — Situer les questions de Condition, Relation, Fonction et Justification.
+- [Table des matières](fr/tdm.md) — Situer cette page parmi les héritages philosophiques de Protokin.
