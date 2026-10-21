@@ -1,86 +1,142 @@
-# Page : rdrd-et-entree-perceptive.md
+# RDRD et entrée perceptive — Discrimination, fiabilité et description
 
-### RDRD et entrée perceptive dans l'espace des raisons — La transduction des dispositions différentielles fiables
+## Fonction
 
-#### Fonction
-Dans l'architecture de Protokin, cette page établit le statut métathéorique des **dispositions de réponse différentielle fiable** (RDRD, ou *Reliable Differential Responsive Dispositions*) au sein de la section **03 — Fondements descriptifs**. Elle modélise l'opération de transition d'entrée discursive (*discursive entry transition*) par laquelle un organisme vivant, biologiquement équipé de récepteurs et de capacités d'apprentissage comportemental, capte les variations de son milieu (plan **PROTO**) et les transduit sous la forme d'assertions et d'engagements normatifs évaluables au présent d'usage (plan **KIN**).
+Cette page examine les **dispositions de réponse différentielle fiable** (RDRD) : les dispositions grâce auxquelles une personne ou un dispositif répond de manière différenciée à certaines variations d’une situation.
 
-#### Problème conceptuel inaugural
-La théorie de la perception oscille classiquement entre deux écueils symétriques. Le premier est le Mythe du Donné, qui imagine que le monde physique imprime directement ses vérités conceptuelles dans l'esprit de l'observateur, convertissant magiquement une onde lumineuse ou un choc mécanique en une prémisse logique rationnelle. Le second est l'idéalisme sémantique, qui soutient que le langage fonctionne en vase clos, détaché de tout contact physique, et que l'espace des raisons tourne à vide sans aucun frottement avec la réalité.
-Protokin surmonte ce dilemme en introduisant le concept de RDRD comme pivot de la transduction d'entrée. Une variation physique ne contient pas de concept ; elle est l'amorce causale d'une réaction corporelle stable. Pour qu'une perception se transforme en connaissance observationnelle, l'organisme ne doit pas seulement réagir physiquement à son environnement, il doit apprendre à traiter sa propre disposition à réagir comme l'allumage d'un coup dans le jeu social de donner et de demander des justifications. La question n'est pas de savoir comment la cause devient raison, mais comment la communauté de locuteurs s'approprie la fiabilité de ses membres pour en faire le point d'ancrage écologique de ses vérités.
+Elle précise ce que ces dispositions permettent d’examiner dans une pratique descriptive, en distinguant la discrimination perceptive, la réponse produite et la justification d’une description.
 
-#### Définition fonctionnelle
-Dans l'architecture métathéorique de Protokin, on appelle **RDRD et entrée perceptive** :
-**L'infrastructure comportementale et causale par laquelle un organisme répond de manière discriminante et prévisible à des caractéristiques déterminées de son environnement physique, constituant le maillon sensorimoteur d'amont (PROTO) que l'espace des raisons (KIN) prend en charge, qualifie et triangulation inférentiellement pour instituer des assertions d'observation valides.**
+La notion sert ici de repère d’analyse. Elle ne constitue ni une théorie générale de la perception ni un modèle complet de l’accès à l’espace des raisons.
 
-Cette transition d'entrée exige l'intégration coordonnée de deux dimensions :
-*   **La dimension causale et dispositionnelle (PROTO)** : Le fonctionnement régulier d'un capteur biologique ou technique (l'œil, la rétine, un spectrophotomètre) qui varie de façon concomitante avec les états du milieu.
-*   **La dimension conceptuelle et inférentielle (KIN)** : L'ascription publique d'un statut normatif de redevabilité (l'engagement d'observation) qui insère cette réaction dans le réseau des conséquences logiques, des compatibilités et des exclusions du régime descriptif.
+## Problème
 
-#### Dimensions principales de l'entrée perceptive
+Une personne expérimentée peut reconnaître rapidement une variation, repérer une anomalie ou distinguer deux situations sans expliciter toutes les opérations qui rendent cette discrimination possible. Un instrument peut également répondre de manière régulière à certaines différences mesurables.
 
-#### 1. La disposition différentielle et la fiabilité objective
-L'infrastructure matérielle de l'observation repose sur une régularité physique d'amont. Un observateur compétent doit posséder une disposition apprise (un pli somatique stable sédimenté par l'apprentissage) à émettre une réaction spécifique face à un stimulus spécifique. Cette fiabilité est mesurable objectivement sous forme de probabilité de succès (le taux d'adéquation de la réponse), mais elle demeure relative à une classe de référence (les circonstances d'observation optimales, l'éclairage, l'état somatique de l'observateur) que l'audit doit toujours expliciter.
+Ces réponses peuvent être utiles à une enquête. Mais leur régularité ne suffit pas à établir que l’interprétation qui en est tirée est correcte. Une réponse peut dépendre de conditions particulières, être fiable pour une tâche et inadéquate pour une autre, ou être correctement produite puis mal interprétée.
 
-#### 2. La prise en charge déontique (La conversion en engagement)
-La simple réaction différentielle ne constitue pas une observation conceptuelle. Un perroquet entraîné à crier « C'est rouge » face à une pomme, ou un détecteur de fumée qui déclenche une alarme, manifestent des RDRD d'une grande fiabilité. Cependant, ils ne perçoivent pas au sens rationnel : ils ne saisissent pas la signification de leur propre performance. L'entrée perceptive n'est pleinement réalisée que lorsque la réaction est traitée comme l'expression d'un engagement doxastique. S'engager perceptivement, c'est assumer la responsabilité inférentielle de son annonce, accepter d'exclure les qualifications incompatibles (dire que c'est rouge exclut que ce soit vert) et s'exposer à devoir justifier son habilitation devant la communauté des scorekeepers.
+Le problème consiste donc à distinguer trois questions :
 
-#### 3. La triangulation inférentielle (La constitution du distal)
-Toute chaîne causale d'observation s'étend de l'objet éloigné (le stimulus distal, comme un lapin dans un champ) jusqu'aux récepteurs sensoriels internes (le stimulus proximal, comme l'excitation des cellules rétiniennes par des photons). Si l'on s'en tenait à la seule fiabilité causale, l'observateur le plus fiable serait celui qui répondrait à ses propres états rétiniens ou neuronaux, ce qui détruirait toute possibilité de parler du monde extérieur et nourrirait le scepticisme global.
-Protokin résout cette difficulté par la triangulation inférentielle. Ce qui détermine que l'assertion « Il y a un lapin » porte sur l'animal (distal) et non sur l'impact rétinien ou sur les mouches à lapin qui l'entourent (proximal), ce n'est pas la mécanique physique de la RDRD ; c'est le réseau des conséquences logiques d'aval de la description. Si le locuteur s'engage à ce que son « lapin » ne puisse pas voler (incompatibilité matérielle), il démontre en acte qu'il décrit l'animal et non les mouches à lapin qui volent au-dessus de lui. **La sémantique régule et oriente la physique de la perception.**
+- **Discrimination :** quelles différences une personne ou un dispositif parvient-il à repérer dans certaines conditions ?
+- **Fiabilité :** dans quelle mesure cette réponse reste-t-elle adéquate à la tâche et aux conditions considérées ?
+- **Justification :** quels éléments et quels critères permettent de défendre ou de contester la description formulée à partir de cette réponse ?
 
-#### Distinctions conceptuelles nécessaires
+Ces questions sont liées, mais aucune ne répond automatiquement aux deux autres.
 
-#### RDRD et Simple Réflexe (Conditionnement causal vs Plasticité apprise)
-Le réflexe ou le conditionnement pavlovien simple (plan PROTO) relie mécaniquement un stimulus physique à une réaction biologique passive (la pupille qui se dilate à la baisse de lumière). La RDRD, bien qu'ancrée dans la physis, est une disposition complexe apprise par exemplarité multiple, flexible et convertible en performance communicative. *Le réflexe subit la cause ; la RDRD offre la prise pour la raison.*
+## Définition
 
-#### RDRD et Concept (PROTO vs KIN)
-La RDRD décrit la capacité de l'organisme à discriminer et trier physiquement des événements dans le milieu (le savoir-faire sensorimoteur de premier ordre). Le concept est un nœud de relations logiques au sein d'un espace de raisons (le savoir-que de second ordre). *La RDRD est l'opérateur de capture matérielle ; le concept est la règle d'organisation inférentielle.*
+On appelle ici **disposition de réponse différentielle fiable** une disposition, acquise ou autrement établie, à produire des réponses différenciées de manière suffisamment régulière face à certaines variations, dans un ensemble de conditions déterminées.
 
-#### Fiabilité de fait et Validité normative (Origine vs Justification)
-La fiabilité de fait est un indicateur probabiliste d'adéquation causale calculé par l'auditeur. La validité est le statut d'habilitation accordé à l'assertion après examen de ses justifications. *La fiabilité explique l'origine biologique de la disposition d'observation ; la validité justifie la correction normative du jugement.*
+La définition met l’accent sur trois caractéristiques.
 
-#### Articulation dans l'architecture Protokin
-Le passage de la variation physique au concept d'observation s'organise selon la séquence transductive suivante :
+- **Différentielle :** la réponse varie en fonction de différences pertinentes pour la tâche examinée. Il faut préciser quelles différences sont discriminées et lesquelles ne le sont pas.
+- **Dispositionnelle :** la réponse ne se réduit pas à une occurrence isolée. Elle peut se manifester de manière récurrente dans certaines conditions, sans devoir se produire à chaque occasion.
+- **Fiable sous certaines conditions :** la régularité de la réponse doit être examinée par rapport à une tâche, à une classe de situations et à des critères d’évaluation explicites.
 
-```text
-Variation du milieu (PROTO) ──► RDRD (Frottement somatique) ──► Deixis (Occurrence) ──► Anaphore (Répétabilité) ──► Inférence (KIN)
-```
+Le terme RDRD désigne ainsi un objet d’examen, et non une garantie de vérité. La fiabilité ne peut être attribuée sans préciser ce qui compte comme une réponse adéquate, quelles erreurs sont considérées et dans quelles circonstances la disposition est évaluée.
 
-Dans cette armature, la RDRD joue le rôle de filtre de capture : elle extrait les contrastes pertinents de la physis. L'espace des raisons (plan KIN) s'approprie cette capture sous forme d'une deixis immédiate (« ceci »), qui est ensuite stabilisée anaphoriquement pour être intégrée dans le jeu des inférences matérielles du régime descriptif.
+Cette notion peut s’appliquer à des compétences perceptives acquises, à des réponses comportementales ou au fonctionnement d’un instrument. Cette extension ne signifie pas que ces cas possèdent les mêmes propriétés ni qu’ils relèvent d’un seul mécanisme.
 
-#### Éclairage par les fils rouges pédagogiques
+## Discrimination perceptive et réponse
 
-#### 1. « Le vélo est rouge »
-La capture de l'onde lumineuse de 650 nm par les cellules coniques de l'œil constitue l'exercice d'une RDRD d'origine biophysique (plan PROTO). Le spectrophotomètre d'un laboratoire de physique possède la même RDRD d'une résolution bien supérieure. Cependant, seule l'assertion « Le vélo est rouge » prononcée par le locuteur marque l'entrée perceptive dans l'espace des raisons (plan KIN). Elle s'évalue selon les critères de couleur partagés par la communauté linguistique et engage le locuteur à accepter que d'autres puissent contester sa qualification, excluant de fait les autres teintes du spectre.
+Une différence peut être repérée sans être immédiatement formulée dans une description explicite. Une personne peut remarquer un changement de texture, une variation sonore ou un comportement inhabituel sans pouvoir expliquer sur-le-champ les indices qui ont guidé son attention.
 
-#### 2. Le patient aux urgences hospitalières
-L'ischémie myocardique produit des traces physiologiques brutes (baisse de l'oxygénation cellulaire, souffrance tissulaire). L'infirmière de tri, grâce à ses supports incorporés et sa longue pratique clinique, possède une RDRD hautement éduquée qui lui permet de repérer instantanément la pâleur et la moiteur spécifiques du front du patient. Cette disposition physique d'observation déclenche son geste de secours immédiat (PROTO). L'entrée perceptive s'accomplit formellement lorsqu'elle qualifie la situation de « syndrome coronarien aigu » (KIN), un concept d'observation qui l'oblige inférentiellement à alerter le réanimateur et à libérer une salle de déchocage.
+Cette situation invite à distinguer la discrimination perceptive de la description qui peut en résulter.
 
-#### 3. Le botaniste et le bûcheron face à l'arbre
-Ils observent le même Abies alba physique (PROTO) mais leurs RDRDs respectives ont été entraînées selon des grilles de découpage hétérogènes. Le bûcheron discrimine de manière différentielle et fiable la rectitude et la résistance mécanique de la fibre pour classer le tronc en « bois de charpente » (image manifeste technique). Le botaniste discrimine les structures foliaires et la morphologie des bourgeons pour classer l'échantillon au sein de la taxonomie phylogénétique (image scientifique). Leurs entrées perceptives coexistent de façon parfaitement compatible car elles s'adossent à des finalités d'action distinctes et répondent de justifications autonomes.
+La discrimination concerne la capacité à répondre différemment à certaines variations. La description mobilise des ressources supplémentaires : des termes, des catégories, des critères, des habitudes d’interprétation ou des moyens d’inscription. Selon la pratique, ces ressources peuvent être déjà disponibles ou devoir être précisées.
 
-#### 4. « Cette personne est mauvaise »
-La dérive d'essentiation morale de premier ordre commet ici un court-circuit catégoriel lourd. Elle traite un comportement situé et révisable (une transgression éthique, plan KIN) comme s'il s'agissait d'une propriété biologique ou d'une RDRD naturelle inhérente à l'organisme de l'agent (un PROTO réifié). L'audit des raisons démonte cette pathologie en montrant qu'il n'existe aucune disposition biophysique « mauvaise en soi » : l'évaluation morale est une imputation normative révisable qui exige d'ouvrir l'enquête sur l'histoire de l'apprentissage de l'individu pour restaurer ses trajectoires de transformation.
+La distinction n’impose pas une succession temporelle uniforme. Une description attendue peut orienter l’attention et contribuer à déterminer ce qui sera remarqué ; inversement, une différence repérée peut conduire à modifier une description antérieure. Il faut examiner ces relations dans la situation concernée plutôt que supposer que la perception fournit d’abord un matériau neutre auquel le langage donnerait ensuite une forme.
 
-#### Limites et vigilances d'audit : les pathologies de l'entrée
+Une réponse perceptive peut donc contribuer à une description sans la déterminer à elle seule.
 
-Lors de la conduite clinique d'un audit, la surveillance de l'entrée perceptive exige de déceler trois pathologies caractéristiques de second ordre :
-*   **La dérive du reliabilisme aveugle (La réduction causale de la vérité)** : L'illusion naturaliste consistant à croire que parce qu'une réaction d'observation est produite de manière fiable par un processus causal, elle est automatiquement vraie et dispensée de justification. L'audit rappelle que la fiabilité d'une RDRD explique comment l'énoncé est produit, mais que seul le jeu des raisons (la triangulation inférentielle d'aval) peut justifier sa correction logique devant ses pairs.
-*   **L'amnésie somatique de l'entrée (La cécité d'observation)** : L'erreur intellectualiste d'un collectif d'enquête qui organise ses rituels de scorekeeping et ses grilles d'évaluation administrative en évacuant complètement les conditions corporelles, sensorielles et locales de capture des indices par ses participants. Une bureaucratie hospitalière qui n'évalue le soin qu'à travers des fiches de codage statistique closes commet cette amnésie, perdant tout contact avec l'épaisseur clinique de la détresse somatique brute.
-*   **Le gerrymandering des classes de référence (La manipulation de la fiabilité)** : L'illusion statistique consistant à découper arbitrairement les limites de la situation d'observation pour décréter qu'un observateur ou un instrument est « fiable » ou « non fiable ». Pour évaluer la validité d'une observation, l'enquêteur Protokin doit toujours suspendre l'évidence de l'étiquette et exiger la traçabilité des conditions matérielles d'étalonnage et des supports d'inscription qui ont servi à calculer ce taux de succès.
+## Fiabilité et conditions d’observation
 
-#### Synthèse finale
+La fiabilité d’une disposition ne se juge pas indépendamment de la tâche pour laquelle elle est mobilisée.
 
-#### Ce que cette page établit
-Le concept de **RDRD et d'entrée perceptive** en tant qu'opérateur de transition transductive, formalisant comment l'espace des raisons (KIN) prend en charge, qualifie et triangulation inférentiellement les dispositions fiables de discrimination corporelle d'un organisme situé (PROTO) pour fonder des connaissances observationnelles robustes.
+Pour l’examiner, il faut notamment préciser :
 
-#### Ce qu'elle suppose
-Le principe des dépendances fonctionnelles, la différence rencontrée, le couplage perception-action, la mémoire organique des supports incorporés, et la démarcation bimodale Causes/Raisons.
+- les différences que la personne ou le dispositif doit discriminer ;
+- les circonstances dans lesquelles la réponse est produite ;
+- les critères permettant de distinguer une réponse adéquate d’une erreur ;
+- les variations susceptibles de perturber la réponse ;
+- les éléments utilisés pour comparer les réponses obtenues.
 
-#### Ce qu'elle rend possible
-Le diagnostic clinique de la réduction causaliste et de la confusion de niveau, le traçage méthodique des trajectoires d'accès descriptif, la détection des injustices épistémiques liées aux grilles d'observation et l'arbitrage synoptique des controverses de premier ordre entre l'image manifeste et l'image scientifique.
+Une personne peut être très performante pour repérer une anomalie dans une situation familière et moins fiable lorsque les conditions changent. Un instrument peut fournir des mesures répétables sans que son étalonnage, son domaine d’emploi ou l’interprétation des résultats soient appropriés au problème étudié.
 
---------------------------------------------------------------------------------
+La régularité constitue donc un indice pertinent, mais sa portée doit être établie. Elle ne dispense pas d’examiner les conditions de production de la réponse ni les critères employés pour évaluer celle-ci.
 
-Protokin 2026 — version 26.08.191
+## De la réponse à la description justifiée
+
+Une réponse peut contribuer à une observation, à une qualification ou à une assertion. Elle ne suffit pas, à elle seule, à justifier toutes les conclusions qui en sont tirées.
+
+Considérons un dispositif qui signale régulièrement une variation de température. Cette régularité peut soutenir l’idée qu’il détecte correctement certaines variations dans les conditions où il a été testé. Elle ne permet pas, sans examen supplémentaire, de conclure que la température mesurée est celle de la zone pertinente, que le dispositif fonctionne correctement dans d’autres conditions ou que la variation observée explique un événement particulier.
+
+De même, la capacité d’une personne à reconnaître une configuration peut soutenir son appréciation sans rendre infaillible le jugement qu’elle formule à son sujet. Son expérience peut être pertinente, mais la portée de son appréciation reste liée à la situation, aux critères et aux éléments disponibles.
+
+L’entrée dans une pratique discursive ne se réduit donc pas à la présence d’une réponse fiable. Lorsque cette réponse est formulée comme une assertion, elle peut être reprise, interrogée ou contestée par d’autres participants. Les raisons avancées pour la maintenir doivent être distinguées de l’explication de son origine perceptive.
+
+Il faut ainsi maintenir les distinctions suivantes :
+
+- **réponse fiable ≠ description justifiée** ;
+- **régularité causale ≠ validité** ;
+- **capacité de discrimination ≠ performance dans chaque situation** ;
+- **production d’une réponse ≠ endossement d’une assertion**.
+
+Ces distinctions ne diminuent pas l’importance de la perception. Elles précisent ce qu’elle contribue à établir et ce qui exige un examen supplémentaire.
+
+## Exemple discriminant : reconnaître une variation de couleur
+
+Une personne doit déterminer si la peinture d’un vélo correspond à une couleur de référence. Elle compare le vélo à un échantillon dans un espace éclairé.
+
+Plusieurs éléments peuvent intervenir : sa capacité à distinguer des teintes, les conditions d’éclairage, l’état des surfaces, les caractéristiques de l’échantillon et les critères utilisés pour décider si les deux couleurs correspondent.
+
+Si la personne distingue régulièrement les différences pertinentes dans des conditions comparables, cette performance peut soutenir l’évaluation de sa capacité de discrimination. Elle ne garantit cependant pas que chaque jugement sera correct, notamment si l’éclairage change ou si les échantillons ne sont pas comparables.
+
+Le jugement « le vélo est de la même couleur que l’échantillon » doit donc être examiné au regard de la tâche et des conditions de comparaison. Si le résultat est contesté, il peut être nécessaire de reprendre l’observation, de contrôler l’éclairage, de vérifier les échantillons ou de préciser le critère de correspondance.
+
+L’exemple ne suppose pas qu’une couleur serait d’abord donnée sans aucune pratique de reconnaissance, ni que le jugement serait entièrement déterminé par les conventions. Il montre que la discrimination, les conditions d’observation et la justification du jugement posent des questions différentes qui doivent être mises en relation.
+
+## Articulation avec les autres notions de Protokin
+
+La notion de RDRD concerne les dispositions à répondre de manière différenciée. D’autres pages examinent des fonctions voisines, sans se confondre avec elles.
+
+- Les [supports descriptifs incorporés](fr/supports-descriptifs-incorpores.md) examinent les dispositions acquises qui permettent d’agir, de reconnaître des différences et de mobiliser des ressources dans une pratique.
+- La [configuration sémiotique](fr/configuration-semiotique.md) examine comment des signes et des différences deviennent reconnaissables et mobilisables dans une pratique.
+- La [description](fr/description.md) distingue l’activité descriptive, le contenu descriptif et la situation décrite.
+- L’[assertion](fr/assertion.md) concerne l’endossement d’un contenu et les engagements associés à cet acte.
+- La [justification](fr/justification.md) examine les raisons permettant de défendre ou de contester une conclusion.
+- L’[espace des raisons](fr/espace-des-raisons.md) permet d’examiner les relations entre raisons, conclusions, habilitations et incompatibilités.
+- La [déixis](fr/deixis.md) examine la manière dont une désignation dépend de la situation dans laquelle elle est produite.
+
+Ces relations ne constituent pas une chaîne obligatoire. Une enquête peut commencer par une réponse instrumentale contestée, une divergence entre observateurs, une difficulté de classification ou un désaccord sur les critères. La pertinence des notions mobilisées dépend du problème rencontré.
+
+## Limites et non-conversions
+
+La notion de RDRD permet d’examiner certaines dispositions de discrimination et la fiabilité des réponses qu’elles produisent dans des conditions déterminées. Elle ne permet pas, à elle seule, d’établir :
+
+- que toute réponse perceptive constitue une observation conceptuelle ;
+- qu’une réponse fiable garantit la vérité de la description formulée ;
+- que les critères d’évaluation sont appropriés simplement parce qu’ils sont appliqués régulièrement ;
+- que les dispositions perceptives se réduisent à un mécanisme biologique isolé de l’apprentissage et de la pratique ;
+- qu’une personne incapable d’expliciter immédiatement son jugement ne dispose d’aucune compétence pertinente ;
+- que la reconnaissance collective d’une réponse suffit à la justifier ;
+- que toutes les réponses d’une personne ou d’un dispositif sont également fiables dans des situations différentes.
+
+La distinction entre réponse et justification ne signifie pas que les deux seraient indépendantes. Les conditions corporelles, les apprentissages, les instruments et les pratiques collectives peuvent contribuer à la qualité des observations. Leur contribution doit cependant être examinée sans convertir une explication causale en justification, ni déduire la validité d’une description de la seule fiabilité de la réponse qui l’a précédée.
+
+## Synthèse
+
+Les dispositions de réponse différentielle fiable permettent d’examiner comment une personne ou un dispositif discrimine certaines variations dans des conditions déterminées. Leur fiabilité dépend de la tâche, des circonstances et des critères employés pour évaluer les réponses.
+
+Ces dispositions peuvent contribuer à une pratique descriptive, mais elles ne garantissent ni la correction de chaque réponse ni la justification des conclusions qui en sont tirées. La discrimination perceptive, la description produite et les raisons de la maintenir doivent rester distinguables et pouvoir être examinées conjointement.
+
+**Une réponse perceptive fiable constitue un appui possible pour la description ; elle ne dispense jamais d’examiner ce que la description affirme et ce qui permet de la justifier.**
+
+Pour poursuivre :
+
+- [Supports descriptifs incorporés](fr/supports-descriptifs-incorpores.md)
+- [Configuration sémiotique](fr/configuration-semiotique.md)
+- [Description](fr/description.md)
+- [Assertion](fr/assertion.md)
+- [Justification](fr/justification.md)
+- [Espace des raisons](fr/espace-des-raisons.md)
+- [Déixis](fr/deixis.md)
