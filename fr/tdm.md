@@ -11,6 +11,8 @@ Le classement proposé est documentaire. Il ne constitue ni une hiérarchie onto
 Ces pages précisent le problème auquel répond Protokin, l’organisation du projet et les fonctions respectives de ses principales ressources.
 
 - [Présentation générale](../README.md) — Présenter le projet, son orientation et ses limites.
+- [Ce que Protokin permet](ce-que-protokin-permet.md) — Préciser les problèmes que l’enquête permet d’examiner et les résultats qu’elle peut soutenir.
+- [Ce que Protokin ne prétend pas faire](fr/ce-que-protokin-ne-pretend-pas-faire.md) — Délimiter les conclusions que l’enquête ne peut pas établir à elle seule.
 - [Nom, origine et portée](fr/nom-origine-portee.md) — Expliquer le choix du nom Protokin, les rapprochements conceptuels qu’il suggère et les limites de leur portée.
 - [Introduction générale](fr/introduction-generale.md) — Situer les difficultés rencontrées dans les pratiques descriptives et introduire la nécessité d’une enquête.
 - [Architecture du projet](fr/architecture-projet.md) — Organiser les ressources du corpus et préciser leurs fonctions.
@@ -18,6 +20,7 @@ Ces pages précisent le problème auquel répond Protokin, l’organisation du p
 - [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer quatre orientations d’examen : Condition, Relation, Fonction et Justification.
 - [Registres](fr/registres.md) — Distinguer les registres cognitif, sémantique et référentiel sans les traiter comme des niveaux du réel.
 - [Parcours de lecture](fr/parcours-de-lecture.md) — Proposer des entrées dans le corpus selon les besoins de lecture.
+- [Protokin en une phrase](fr/protokin-en-une-phrase.md) — Résumer la fonction de Protokin et son enquête sur les pratiques descriptives
 
 La quadripartition constitue un cadre minimal d’orientation et d’audit. Elle ne décrit ni quatre composantes universelles du réel ni quatre phases successives de sa constitution.
 
@@ -53,6 +56,8 @@ Les opérations suivantes permettent de travailler ces difficultés. Elles forme
 
 ### Ressources de conduite
 
+- [Problème descriptif](fr/probleme-descriptif.md) — Préciser quand les ressources descriptives disponibles deviennent insuffisantes et pourquoi une enquête est nécessaire.
+- [Enquête](fr/enquete.md) — Définir la reprise réflexive d’une pratique descriptive confrontée à une difficulté.
 - [La chaîne principale de l’enquête](fr/la-chaine-principale-de-l-enquete.md) — Présenter l’articulation des opérations.
 - [Conduire une enquête](fr/conduire-une-enquete.md) — Préciser les modalités de mise en œuvre de la démarche.
 - [Pourquoi ne pas alourdir l’enquête ?](fr/pourquoi-ne-pas-alourdir-l-enquete.md) — Évaluer la nécessité d’une distinction, d’une catégorie ou d’un contrôle supplémentaire au regard du problème examiné.
@@ -68,6 +73,7 @@ Ces fonctions permettent d’examiner l’enquête elle-même, ses conditions d�
 - [Temps physique](fr/temps.md) — Examiner comment les relations temporelles sont établies et mesurées dans l’étude des processus physiques, en les distinguant de la temporalité propre aux pratiques descriptives.
 - [Référent temporel](referent-temporel.md) — Distinguer le processus physique servant de référence, la procédure de mesure et la grandeur temporelle obtenue.
 - [Temporalité descriptive](fr/temporalite-descriptive.md) — Examiner comment les pratiques descriptives héritent de ressources antérieures, les mobilisent et les transforment au cours du temps.
+- [Anachronisme descriptif](fr/anachronisme.md) — Repérer les projections rétrospectives de catégories et de critères sur des pratiques historiques.
 - [Reconstruction rétrospective et pardon déontique](fr/reconstruction-recollective-et-pardon.md) — Examiner comment la reconstruction d’une erreur peut éclairer la révision des imputations et des engagements collectifs, sans confondre pardon, justification et réparation.
 - [Trajectoire](fr/trajectoire.md) — Reconstruire le parcours des transformations descriptives.
 - [Transition](fr/transition.md) — Examiner le passage temporel entre des configurations sans présumer de la continuité, des causes ni du résultat du changement.
@@ -118,6 +124,7 @@ La proposition et l’assertion remplissent des fonctions distinctes : l’une c
 - [Justification](fr/justification.md) — Examiner les conditions dans lesquelles un engagement peut être défendu.
 - [Critère](fr/critere.md) — Préciser les normes selon lesquelles une description ou une conclusion est évaluée.
 - [Relation sémantique et référence](fr/relation-semantique-et-reference.md) — Examiner l’articulation entre contenu, usage et visée référentielle.
+- [Ascriptions de dicto et de re](fr/ascriptions-de-dicto-de-re.md) — Distinguer l’attribution d’un contenu sous une description de son attribution au sujet d’un objet identifié autrement.
 - [Relations LX et pragmatique de l’explicitation](fr/relations-lx-et-pragmatique-de-l-explicitation.md) — Examiner comment un vocabulaire rend explicites certains aspects d’une pratique, sans confondre explicitation et justification.
 
 ### C. Dérivation relationnelle et inférence normative
@@ -169,7 +176,9 @@ Cette partie rassemble les ressources permettant d’examiner une configuration 
 - [Différence rencontrée](fr/difference-rencontree.md) — Examiner la différence qui donne lieu à une difficulté descriptive.
 - [Configuration rencontrée](fr/configuration-rencontree.md) — Décrire la configuration sur laquelle porte l’enquête.
 - [Configuration descriptive](fr/configuration-descriptive.md) — Examiner l’organisation des éléments retenus dans une description.
+- [Configuration sémiotique](fr/configuration-semiotique.md) — Examiner comment des différences deviennent reconnaissables et mobilisables comme signes dans une pratique.
 - [Indice](fr/indice.md) — Examiner le rôle d’un élément qui oriente une recherche ou une interprétation sans déterminer la conclusion.
+- [Dérive indicielle](fr/derive-indicielle.md) — Repérer la perte de liaison entre un indice et la fonction pratique qu’il devrait contribuer à orienter.
 - [Trace](fr/trace.md) — Examiner les traces mobilisées dans une pratique et les limites de leur interprétation.
 - [Support descriptif](fr/support-descriptif.md) — Préciser le rôle des supports dans les pratiques descriptives.
 - [RDRD et entrée perceptive](fr/rdrd-et-entree-perceptive.md) — Examiner les dispositions de discrimination, la fiabilité des réponses et leurs limites pour justifier une description.
