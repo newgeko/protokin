@@ -1,317 +1,183 @@
-# Page : effet-cliquet.md
+# Effet cliquet — L’asymétrie des possibilités de révision
 
-Votre page effet-cliquet.md est très bien alignée avec la page stabilisation.md corrigée. Il faut cependant effectuer quelques ajustements pour rester parfaitement cohérent avec la charte Protokin :
+## Fonction
 
-L'effet cliquet ne doit pas devenir une "force" ou un mécanisme causal autonome.
+L’effet cliquet permet d’examiner les situations dans lesquelles l’histoire d’une pratique descriptive modifie les possibilités ou les coûts de sa transformation. Il désigne une asymétrie liée à des dépendances accumulées : certains usages, supports, engagements ou apprentissages rendent le maintien d’une configuration plus accessible que sa révision ou son abandon, ou rendent ces opérations inégalement coûteuses.
 
-Il doit être présenté comme une propriété émergente d'une trajectoire de maintien, non comme un opérateur qui agirait sur les descriptions.
+Cette notion sert à caractériser une difficulté particulière de transformation. Elle ne désigne ni une cause autonome, ni une propriété intrinsèque de la description, ni une impossibilité absolue de revenir sur une configuration antérieure.
 
-La distinction PROTO/KIN doit être légèrement corrigée : l'effet cliquet n'appartient pas exclusivement au KIN, car il dépend de l'articulation entre supports matériels (PROTO) et engagements normatifs (KIN).
+**Question directrice : qu’est-ce qui, dans l’histoire d’une pratique descriptive, rend certaines transformations plus difficiles que d’autres ?**
 
-Il faut éviter « interdit » ou « ferme » trop fortement : Protokin parle plutôt d'augmentation du coût de bifurcation et d'irréversibilité relative.
+## 1. Problème : persister n’est pas être difficile à réviser
 
+Une catégorie peut être utilisée pendant une longue période. Elle peut apparaître dans des documents, être enseignée, orienter des décisions et être reprise dans plusieurs procédures.
 
-Je vous propose donc cette version corrigée en markdown brut encadré :
+Cette continuité ne suffit pas à établir un effet cliquet. La catégorie peut être maintenue parce qu’elle répond toujours au problème traité, parce qu’aucune difficulté pertinente n’a conduit à la remettre en cause, ou parce que les alternatives disponibles ne présentent pas d’avantage reconnu.
 
-# Effet cliquet — L'asymétrie cumulative des trajectoires descriptives
+L’effet cliquet devient une notion pertinente lorsque l’enquête met en évidence une asymétrie supplémentaire : modifier ou abandonner la configuration exige de réorganiser des éléments dont dépend son usage actuel.
 
-| Fonction | Établir le concept d'**effet cliquet** (*ratchet effect*) dans l'architecture de Protokin comme propriété émergente d'une trajectoire de stabilisation par laquelle l'accumulation d'engagements descriptifs augmente asymétriquement le coût relatif de transformation, d'abandon ou de réorganisation d'une configuration descriptive. |
-| :--- | :--- |
-| **Prépare** | L'analyse des trajectoires diachroniques, des allures temporelles, des strates de sédimentation, des irréversibilités relatives et des modes de verrouillage descriptifs. |
-| **Mobilise** | La stabilisation, les opérations de maintien, la communauté de locuteurs, les supports descriptifs, les engagements inférentiels et les régimes descriptifs. |
-| **Permet ensuite** | Le diagnostic de l'inertie normative, de la réification, des asymétries de révision et des conditions de transformation des configurations descriptives. |
-| **N'établit pas** | La typologie complète des allures temporelles, la théorie générale de la puissance descriptive d'un régime, ni une impossibilité absolue de transformation. |
+Le problème consiste alors à distinguer trois situations :
 
----
+- une configuration persiste ;
+- une configuration est relativement stabilisée ;
+- la transformation de cette configuration rencontre des coûts ou des contraintes asymétriques liés à son histoire.
 
-# 1. Problème conceptuel inaugural
+Ces situations peuvent être liées, mais elles ne sont pas équivalentes. La durée d’usage ne prouve pas la stabilisation, et la stabilisation ne suffit pas à établir un effet cliquet.
 
-Toute description apparaît initialement comme une opération située dans une pratique d'enquête. Elle résulte d'un acte de qualification réalisé par un locuteur dans une configuration particulière.
+## 2. Définition
 
-Cependant, lorsqu'une description est reprise, transmise, enseignée et incorporée dans des pratiques collectives, elle acquiert une épaisseur historique.
+On appelle **effet cliquet** une asymétrie des possibilités ou des coûts de maintien, de révision ou d’abandon d’une configuration descriptive, lorsque cette asymétrie peut être rapportée à des dépendances accumulées au cours de l’histoire de la pratique.
 
-Certaines catégories deviennent alors plus difficiles à abandonner que d'autres. Elles semblent parfois s'imposer comme des évidences naturelles alors qu'elles résultent d'une accumulation de pratiques, de supports et d'engagements.
+Ces dépendances peuvent concerner, selon le cas :
 
-Le problème conceptuel auquel répond l'effet cliquet est donc :
+- des documents, des archives, des bases de données ou des instruments ;
+- des procédures et des organisations du travail ;
+- des apprentissages, des habitudes et des compétences incorporées ;
+- des catégories liées à d’autres catégories ;
+- des engagements inférentiels, des critères ou des règles d’usage ;
+- des intérêts institutionnels ou des répartitions inégales de la charge de justification.
 
-> **Comment expliquer qu'une configuration descriptive puisse devenir historiquement résistante sans supposer qu'elle possède une nécessité ontologique indépendante, et sans réduire sa persistance à une simple convention modifiable à volonté ?**
+Cette liste n’est ni exhaustive ni une typologie de mécanismes universels. Les éléments pertinents doivent être identifiés dans la situation examinée.
 
-Protokin répond à cette difficulté par l'analyse des asymétries de coût.
+L’effet cliquet ne se résume pas au nombre de dépendances recensées. Il faut montrer en quoi celles-ci modifient concrètement les possibilités de transformation ou rendent certaines options plus coûteuses que d’autres.
 
-Une description ne persiste pas seulement parce qu'elle est jugée correcte. Elle persiste parce qu'un ensemble de relations matérielles, institutionnelles, cognitives et normatives rendent sa transformation progressivement plus coûteuse.
+## 3. Conditions de reconnaissance
 
-L'effet cliquet désigne cette modification historique des conditions de bifurcation.
+Pour soutenir qu’un effet cliquet est à l’œuvre, l’enquête doit pouvoir préciser plusieurs éléments.
 
----
+### 3.1. Une configuration identifiable
 
-# 2. Définition fonctionnelle
+Il faut déterminer ce dont la révision ou l’abandon est examiné : une catégorie, une règle de qualification, une procédure, une configuration descriptive ou une pratique plus large.
 
-Dans l'architecture de Protokin, on appelle **effet cliquet** :
+La configuration ne doit pas être définie uniquement par son nom. Des formulations identiques peuvent remplir des fonctions différentes, tandis que des formulations différentes peuvent maintenir des usages comparables.
 
-> **La propriété émergente d'une trajectoire de stabilisation par laquelle l'accumulation d'engagements descriptifs, de supports matériels et de pratiques collectives produit une asymétrie durable entre le coût de maintien d'une configuration existante et le coût de son remplacement ou de sa transformation.**
+### 3.2. Des dépendances héritées
 
-Cette définition implique trois dimensions principales.
+Il faut identifier les éléments issus d’usages antérieurs qui contribuent aux conditions présentes de maintien ou de transformation.
 
-## 2.1 Une asymétrie des coûts
+Une archive, une procédure ou un apprentissage ne constitue pas en soi une preuve d’effet cliquet. Il faut examiner la manière dont cet élément intervient dans la pratique et ce qui changerait si la configuration était révisée.
 
-Lorsqu'une configuration descriptive est fortement stabilisée, son maintien bénéficie d'infrastructures déjà disponibles :
+### 3.3. Une asymétrie établie
 
-- habitudes d'utilisation ;
-- formations existantes ;
-- documents établis ;
-- procédures reconnues ;
-- réseaux d'autorité.
+Il faut préciser ce qui rend les options inégalement accessibles ou coûteuses.
 
-À l'inverse, une alternative doit reconstruire ces conditions.
+Cette asymétrie peut concerner, par exemple, le temps nécessaire à une modification, la réorganisation des supports, la reprise des données anciennes, la formation des personnes concernées ou la révision des critères associés à une catégorie.
 
-L'effet cliquet ne dit donc pas :
+L’asymétrie ne doit pas être simplement présumée à partir de l’ancienneté de la configuration. Elle peut être documentée par des procédures, des comparaisons, des difficultés effectivement rencontrées ou des alternatives dont les conditions de mise en œuvre sont examinées.
 
-> « l'ancien est nécessairement supérieur ».
+### 3.4. Des limites explicites
 
-Il indique :
+L’enquête doit préciser la portée du constat. Une révision peut être coûteuse dans un service et plus facile dans un autre ; elle peut être difficile à court terme mais possible à plus long terme ; elle peut affecter certains usages sans remettre en cause l’ensemble de la configuration.
 
-> « l'ancien possède un avantage historique de reproduction ».
+L’effet cliquet est donc relatif à une pratique, à des options de transformation et à des conditions d’examen déterminées.
 
----
+Ces conditions ne forment pas les étapes d’une procédure universelle. Elles indiquent les éléments nécessaires pour soutenir le diagnostic dans un cas donné.
 
-## 2.2 Une irréversibilité relative
+## 4. Distinctions avec les notions voisines
 
-L'effet cliquet produit une irréversibilité relative.
+### 4.1. Effet cliquet et stabilisation
 
-Cela signifie qu'une trajectoire passée modifie les possibilités futures.
+La **stabilisation** concerne le maintien relatif d’une configuration à travers ses reprises et ses variations. L’effet cliquet concerne l’asymétrie des possibilités ou des coûts de sa transformation, lorsqu’elle peut être établie.
 
-Une communauté ne peut pas revenir simplement à un état antérieur comme si aucune accumulation n'avait eu lieu.
+Une configuration peut être stabilisée sans qu’il soit démontré que sa révision est devenue plus coûteuse. Inversement, une configuration qui change peut présenter un effet cliquet si certaines transformations restent contraintes par des dépendances héritées.
 
-Toute transformation doit composer avec :
+**Stabilisation ≠ effet cliquet.**
 
-- les concepts hérités ;
-- les infrastructures existantes ;
-- les apprentissages incorporés ;
-- les attentes normatives.
+Voir [Stabilisation](fr/stabilisation.md).
 
-Le changement reste possible, mais il devient une opération de réorganisation.
+### 4.2. Effet cliquet et sédimentation
 
----
+La **sédimentation** désigne l’accumulation et la conservation de traces, d’inscriptions ou de ressources issues de pratiques antérieures. Ces éléments peuvent contribuer à rendre une configuration plus difficile à modifier, mais leur présence ne suffit pas à établir cette difficulté.
 
-## 2.3 Une consolidation sans garantie de vérité
+Une archive peut être abondante sans empêcher une révision. Une base de données peut, au contraire, imposer des opérations de conversion importantes lorsqu’une catégorie change. C’est cette dépendance effective, et non la seule accumulation documentaire, qui importe pour l’analyse de l’effet cliquet.
 
-L'effet cliquet ne constitue jamais une preuve de validité.
+**Sédimentation ≠ effet cliquet.**
 
-Une configuration peut être fortement verrouillée tout en demeurant contestable.
+Voir [Sédimentation](fr/sedimentation.md).
 
-Il mesure :
+### 4.3. Effet cliquet et trajectoire descriptive
 
-- une profondeur historique ;
-- une densité d'engagements ;
-- une résistance pratique à la révision.
+La **trajectoire descriptive** reconstruit le parcours de transformations d’une description ou d’une pratique. L’effet cliquet qualifie une asymétrie particulière qui peut être mise en évidence dans ce parcours.
 
-Il ne mesure pas une correspondance ontologique avec le réel.
+Une trajectoire peut être reconstruite sans qu’un effet cliquet soit établi. La mise en évidence d’un effet cliquet peut, en revanche, aider à comprendre pourquoi certaines bifurcations sont coûteuses ou difficiles à mettre en œuvre.
 
----
+**Trajectoire reconstruite ≠ effet cliquet démontré.**
 
-# 3. Distinctions conceptuelles nécessaires
+Voir [Trajectoire descriptive](fr/trajectoire.md).
 
-## 3.1 Effet cliquet et stabilisation
+### 4.4. Effet cliquet et allure
 
-La stabilisation désigne le processus par lequel une configuration descriptive est maintenue et reproduite.
+L’**allure** qualifie la distribution temporelle des transformations d’une trajectoire. Un maintien prolongé ou une faible fréquence de changement peuvent contribuer à poser une question sur l’effet cliquet, mais ne suffisent pas à l’établir.
 
-L'effet cliquet désigne la conséquence temporelle de cette reproduction lorsqu'elle modifie les coûts relatifs de transformation.
+Une période de faible transformation peut avoir plusieurs explications. Elle ne doit pas être interprétée automatiquement comme un verrouillage ou comme la preuve que les alternatives sont devenues inaccessibles.
 
-Ainsi :
+**Faible fréquence de changement ≠ effet cliquet.**
 
-> **La stabilisation est l'opération de maintien ; l'effet cliquet est l'asymétrie historique produite par cette opération.**
+Voir [Allure](fr/allure.md).
 
----
+### 4.5. Effet cliquet et irréversibilité
 
-## 3.2 Effet cliquet et déterminisme causal
+Un effet cliquet peut contribuer à une **irréversibilité relative** : revenir à une configuration antérieure ne revient pas à retrouver les conditions qui existaient avant les transformations intervenues entre-temps.
 
-L'effet cliquet ne désigne pas une contrainte causale qui déterminerait mécaniquement les descriptions futures.
+Des données ont pu être converties, des compétences oubliées, des procédures réorganisées ou des engagements associés à la catégorie avoir changé. Même si une formulation ancienne est réintroduite, les conditions de son usage peuvent donc être différentes.
 
-Il résulte de l'articulation entre :
+Cela ne signifie pas que le retour est absolument impossible. Il faut distinguer l’impossibilité établie, la difficulté pratique, le coût élevé et la simple absence d’une alternative actuellement mise en œuvre.
 
-- des conditions matérielles d'inscription ;
-- des capacités incorporées ;
-- des engagements normatifs ;
-- des pratiques collectives.
+L’effet cliquet ne démontre donc ni une irréversibilité absolue ni une détermination complète du futur par le passé.
 
-Dans le vocabulaire PROTO/KIN :
+## 5. Exemple : modifier une qualification administrative
 
-- PROTO fournit les conditions matérielles et corporelles de maintien ;
-- KIN organise les relations d'engagement, de justification et d'autorisation.
+Une administration utilise une catégorie dans ses formulaires et ses dossiers. Cette catégorie intervient également dans des procédures de traitement, des logiciels, des formations et des décisions antérieures.
 
-L'effet cliquet apparaît dans leur couplage.
+Une nouvelle enquête conduit à contester ses critères d’application. Plusieurs solutions sont envisagées : modifier la définition, créer une catégorie supplémentaire ou remplacer la classification existante.
 
----
+La seule ancienneté de la catégorie ne permet pas de conclure à un effet cliquet. L’enquête doit examiner les conséquences concrètes de chaque option.
 
-## 3.3 Effet cliquet et immuabilité
+- La modification de la catégorie exige-t-elle de reprendre les dossiers antérieurs ?
+- Les logiciels permettent-ils de modifier les critères sans perdre les informations enregistrées ?
+- Les procédures existantes dépendent-elles de la catégorie contestée ?
+- Les personnes concernées disposent-elles des moyens nécessaires pour appliquer une nouvelle classification ?
+- Les conséquences administratives et les engagements associés peuvent-ils être révisés ?
+- Des solutions alternatives ont-elles été envisagées, testées ou écartées, et pour quelles raisons ?
 
-Un cliquet n'empêche pas une transformation.
+Si ces éléments montrent qu’une modification exige une réorganisation importante des supports et des pratiques, alors que le maintien permet de poursuivre le traitement sans transformation équivalente, une asymétrie peut être établie.
 
-Il indique seulement que celle-ci possède un coût.
+Il reste à en préciser la portée. La difficulté peut concerner uniquement certains logiciels ou certaines procédures. Une modification progressive peut être possible, même si un remplacement immédiat est coûteux. D’autres solutions peuvent réduire l’asymétrie.
 
-Une rupture descriptive exige généralement :
+Enfin, le fait qu’une catégorie soit difficile à abandonner ne démontre ni qu’elle est inadéquate ni qu’elle doit être conservée. L’évaluation de ses critères et la justification de son maintien relèvent d’un examen distinct.
 
-- de nouvelles catégories ;
-- de nouveaux supports ;
-- de nouveaux apprentissages ;
-- de nouvelles procédures de justification.
+## 6. Portée et limites
 
-Le changement est donc une bifurcation coûteuse, non une simple substitution.
+L’effet cliquet permet de caractériser une difficulté de transformation en rapportant une asymétrie présente à des dépendances héritées. Il peut aider à examiner pourquoi certaines alternatives demandent davantage de ressources, pourquoi les coûts de révision sont inégalement distribués ou pourquoi une configuration ancienne conserve un avantage pratique de reproduction.
 
----
+Il ne permet pas, à lui seul, d’établir :
 
-# 4. Les vecteurs d'accumulation
+- la cause complète de la persistance d’une configuration ;
+- l’impossibilité de la transformer ou de l’abandonner ;
+- l’inadéquation de la configuration maintenue ;
+- la validité de ses catégories ou de ses critères ;
+- la justification de son maintien ou de son remplacement ;
+- la nécessité de la trajectoire suivie ;
+- l’existence d’un progrès ou d’une régression descriptive.
 
-L'effet cliquet résulte de la superposition de plusieurs formes d'accumulation.
+Les asymétries peuvent également être contestées ou réduites. Des supports peuvent être adaptés, des compétences réacquises, des procédures modifiées et des engagements révisés. Le coût du changement n’est pas une constante indépendante des pratiques : il dépend notamment des ressources disponibles, des options envisagées et des transformations déjà réalisées.
 
-## 4.1 Accumulation inférentielle
+L’analyse doit donc distinguer les contraintes effectivement établies, les difficultés anticipées et les hypothèses sur les options non explorées. Lorsque les éléments disponibles ne permettent pas de trancher, l’existence ou l’ampleur de l’effet cliquet doit rester indéterminée.
 
-Une catégorie descriptive utilisée dans de nombreuses pratiques devient un nœud d'engagements.
+## Synthèse
 
-Elle organise :
+L’effet cliquet désigne une asymétrie des possibilités ou des coûts de transformation d’une configuration descriptive, rapportable à des dépendances accumulées dans l’histoire d’une pratique.
 
-- des distinctions ;
-- des classifications ;
-- des décisions ;
-- des justifications.
+Il permet d’examiner pourquoi une révision ou un abandon peut être plus difficile que le maintien, sans transformer cette difficulté en impossibilité absolue ni en explication causale générale.
 
-La modifier implique alors de réorganiser une partie du réseau inférentiel collectif.
+**Une configuration qui persiste n’est pas nécessairement verrouillée ; une configuration difficile à réviser n’est pas nécessairement valide.**
 
----
+Pour poursuivre :
 
-## 4.2 Verrouillage matériel et sémiotique
-
-Les descriptions s'inscrivent dans des supports :
-
-- bases de données ;
-- archives ;
-- instruments ;
-- logiciels ;
-- formulaires.
-
-Ces inscriptions donnent une inertie technique aux catégories.
-
-Changer une description implique alors parfois de transformer toute l'infrastructure qui la porte.
-
----
-
-## 4.3 Sédimentation cognitive et pédagogique
-
-Les communautés stabilisent également les descriptions par apprentissage.
-
-Les catégories deviennent liées à :
-
-- des habitudes perceptives ;
-- des gestes professionnels ;
-- des formations ;
-- des traditions disciplinaires.
-
-Elles deviennent disponibles sans réflexion explicite parce qu'elles ont été incorporées.
-
----
-
-# 5. Place dans l'architecture fonctionnelle
-
-ASSERTION
-
-↓
-
-CONFIGURATION DESCRIPTIVE
-
-↓
-
-JUSTIFICATION
-
-(recevabilité / validité)
-
-↓
-
-MAINTIEN
-
-(opérations de reproduction)
-
-↓
-
-STABILISATION
-
-(continuité historique relative)
-
-↓
-
-EFFET CLIQUET
-
-(asymétrie des coûts de transformation)
-
-↓
-
-TRAJECTOIRE ET ALLURE
-
-(formes temporelles du changement)
-
-L'effet cliquet marque le passage entre une simple continuité descriptive et une structuration durable des possibilités futures d'enquête.
-
----
-
-# 6. Vigilances d'audit
-
-## 6.1 Réification
-
-Une configuration fortement stabilisée peut être considérée comme naturelle alors qu'elle dépend d'une histoire de maintien.
-
-L'audit examine le passage :
-
-Description stabilisée
-
-↓
-
-Évidence supposée
-
-↓
-
-Nature attribuée
-
----
-
-## 6.2 Inertie documentaire
-
-Les supports peuvent prolonger indéfiniment une catégorie devenue inadéquate.
-
-L'effet cliquet devient alors un obstacle lorsque :
-
-- les outils empêchent la révision ;
-- les procédures excluent les anomalies ;
-- les catégories administratives remplacent l'enquête.
-
----
-
-## 6.3 Injustice herméneutique cumulative
-
-Une configuration dominante peut rendre certaines descriptions alternatives difficiles à formuler ou à faire reconnaître.
-
-L'effet cliquet peut alors augmenter la charge de justification des locuteurs qui proposent d'autres cadres descriptifs.
-
----
-
-# 7. Synthèse et ouvertures
-
-L'effet cliquet permet à Protokin d'analyser pourquoi les descriptions possèdent une histoire.
-
-Il montre que les configurations descriptives ne changent jamais dans un espace vide : elles héritent toujours d'une trajectoire antérieure qui modifie leurs conditions de transformation.
-
-**Ce qu'il suppose :**
-
-- la stabilisation ;
-- les opérations de maintien ;
-- les supports descriptifs ;
-- les communautés de locuteurs.
-
-**Ce qu'il rend possible :**
-
-- l'analyse des irréversibilités relatives ;
-- l'étude des trajectoires descriptives ;
-- l'examen des inerties normatives ;
-- l'audit des conditions de bifurcation.
-
-L'effet cliquet ne désigne donc pas une impossibilité de changement.
-
-Il désigne la manière dont l'histoire accumulée transforme le coût, la forme et la possibilité des changements descriptifs futurs.
+- [Stabilisation](fr/stabilisation.md) — Examiner le maintien relatif d’une configuration à travers ses reprises et ses variations.
+- [Sédimentation](fr/sedimentation.md) — Examiner l’accumulation et la conservation des traces issues de pratiques descriptives.
+- [Trajectoire descriptive](fr/trajectoire.md) — Reconstruire le parcours des transformations d’une description ou d’une pratique.
+- [Allure](fr/allure.md) — Qualifier la distribution temporelle des transformations d’une trajectoire.
+- [Temporalité descriptive](fr/temporalite-descriptive.md) — Examiner les héritages, les usages et les transformations des pratiques descriptives.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations d’examen sans les convertir en composantes ou en étapes obligatoires.
+- [Table des matières](fr/tdm.md) — Replacer cette page dans l’organisation du corpus.
