@@ -1,362 +1,226 @@
-# Page : transition.md
+# Transition — Décrire un passage temporel
 
-Transition
+## 1. Fonction
 
-Fonction
+La **transition** permet d’examiner le passage temporel entre des configurations différenciées d’une pratique ou d’une description.
 
-Le concept de transition permet de décrire le passage temporel d'une configuration à une autre.
+Elle devient pertinente lorsque l’enquête cherche à comprendre comment une configuration antérieure et une configuration ultérieure se rapportent dans le temps : quels éléments ont changé, lesquels ont été maintenus, et ce qui peut être établi sur le passage de l’une à l’autre.
 
-Il est utile lorsque l'enquête ne porte plus seulement sur ce qui a changé, mais sur la manière dont plusieurs configurations se succèdent, se maintiennent, se chevauchent ou se différencient au cours du temps.
+La transition ne désigne ni une force qui produit le changement, ni une étape nécessaire entre deux états. Elle ne présuppose pas davantage que le passage soit continu, progressif ou orienté vers une nouvelle stabilisation.
 
-La transition n'est donc pas une force qui produit le changement.
+## 2. Problème : décrire le passage sans présumer de son organisation
 
-Elle ne désigne pas non plus une étape nécessaire entre deux états.
+Une pratique peut présenter des configurations différentes à plusieurs moments de son histoire. Leur comparaison permet de constater des différences, mais ne suffit pas toujours à établir comment elles se rapportent dans le temps.
 
-Elle permet de décrire une continuité temporelle dans laquelle des transformations peuvent être situées.
+Certains éléments peuvent avoir été conservés tandis que d’autres ont changé. Des configurations peuvent avoir coexisté. Une modification peut être documentée sans que son origine soit connue, ou plusieurs changements peuvent être établis sans que toutes leurs relations soient reconstructibles.
 
----
+Deux réductions doivent donc être évitées :
 
-Problème
+- **Le continuisme** : supposer que le maintien d’un support, d’un terme ou d’une institution garantit la continuité de la configuration et de ses fonctions.
+- **Le discontinuisme** : supposer que la modification de certains éléments implique une rupture complète avec la configuration antérieure.
 
-Une pratique peut présenter des configurations différentes à différents moments de son histoire.
+Le problème consiste à caractériser le passage en fonction des éléments disponibles, sans présumer de son unité, de sa direction ni de son résultat.
 
-On peut alors être tenté de décrire cette histoire de deux manières opposées :
+## 3. Définition et conditions de reconstruction
 
-- comme une continuité dans laquelle rien d'essentiel ne change ;
-- comme une rupture entre des configurations entièrement étrangères.
+On appelle **transition** le passage temporel entre des configurations dont les différences et les continuités peuvent être examinées relativement à un problème déterminé.
 
-Ces deux descriptions peuvent être insuffisantes.
+La transition peut être reconstruite à partir de plusieurs types d’éléments :
 
-Une trajectoire peut comporter à la fois des continuités et des discontinuités : certains supports persistent, certaines fonctions changent, certaines relations sont réorganisées et certains critères sont abandonnés.
+- les configurations antérieure et ultérieure qui sont comparées ;
+- les modifications dont l’existence peut être établie ;
+- les éléments dont le maintien peut être documenté ;
+- les abandons, remplacements ou réorganisations observables ;
+- les éventuelles coexistences de configurations ;
+- les incertitudes qui limitent la reconstruction du passage.
 
-Le problème est donc :
+Ces éléments ne constituent pas une procédure obligatoire. Leur pertinence dépend de la question examinée et des matériaux disponibles.
 
-«Comment décrire le passage entre des configurations sans réduire ce passage ni à une identité continue, ni à une rupture absolue ?»
+La reconstruction peut être détaillée lorsque des documents, des observations ou des traces permettent de suivre les transformations. Elle peut rester partielle lorsque seuls certains états sont connus. Dans ce dernier cas, il faut distinguer le passage que les éléments permettent d’établir de celui que l’on pourrait seulement supposer.
 
----
+Une transition peut ainsi être reconnue sans que toutes ses transformations intermédiaires soient connues. Inversement, la comparaison de deux configurations ne suffit pas toujours à établir qu’une transition déterminée les relie : il peut s’agir de deux occurrences dont la relation historique reste incertaine.
 
-Définition
+## 4. Distinctions avec les notions voisines
 
-Une transition est une relation temporelle entre des configurations suffisamment différenciées pour que leur passage puisse faire l'objet d'une enquête.
+### 4.1. Transition et transformation
 
-Elle permet de décrire :
+La **transformation** caractérise une modification identifiable d’une configuration. La **transition** porte sur le passage temporel entre des configurations.
 
-- une configuration antérieure ;
-- une configuration ultérieure ;
-- les transformations intervenues entre elles ;
-- les éléments maintenus ;
-- les éléments modifiés ;
-- les éléments abandonnés ;
-- et les nouvelles relations qui apparaissent.
+Une transformation peut être établie localement sans que le parcours dans lequel elle s’inscrit soit reconstruit. Une transition peut comporter plusieurs transformations, mais aussi des périodes de maintien ou des coexistences dont le statut doit être examiné.
 
-La transition ne détermine pas elle-même la nature de ces changements.
+**Transformation : ce qui change. Transition : le passage temporel dans lequel des changements peuvent être situés.**
 
-Elle constitue un cadre de description de leur succession.
+La transition ne fournit pas, à elle seule, l’explication causale des modifications ni la justification de leurs résultats.
 
----
+Voir [Transformation](fr/transformation.md).
 
-Transition et transformation
+### 4.2. Transition et trajectoire
 
-Les deux concepts sont proches mais ne remplissent pas la même fonction.
+La **trajectoire descriptive** reconstruit un parcours de transformations à partir des relations que les éléments disponibles permettent d’établir.
 
-La transformation porte sur la modification d'une configuration.
+La transition désigne le passage temporel examiné dans ce parcours. Elle peut être étudiée isolément ou contribuer à la reconstruction d’une trajectoire plus large.
 
-La transition porte sur le passage temporel entre des configurations.
+Une trajectoire peut comporter plusieurs transitions, des périodes de maintien, des retours ou des changements dont l’articulation demeure incertaine. Elle ne suppose ni une série complète d’états successifs ni une progression continue.
 
-On peut donc avoir :
+**Transition ≠ trajectoire complète.**
 
-«Transformation sans transition étudiée : une modification locale est identifiée sans que son histoire soit reconstruite.»
+Voir [Trajectoire](fr/trajectoire.md).
 
-«Transition avec plusieurs transformations : une trajectoire comporte plusieurs modifications successives.»
+### 4.3. Transition et allure
 
-Ainsi :
+L’**allure** qualifie la distribution temporelle des transformations d’une trajectoire : leur concentration, leur espacement, leur récurrence ou leur progression observable.
 
-«La transformation décrit ce qui change ; la transition décrit le passage dans lequel ce changement prend place.»
+La transition constitue le passage examiné ; l’allure qualifie la manière dont les transformations se distribuent dans le temps.
 
----
+La durée d’un passage ne suffit pas à déterminer son allure. Deux transitions de durée comparable peuvent présenter des distributions différentes, et des passages d’allures semblables peuvent aboutir à des configurations très différentes.
 
-Transition et trajectoire
+**Durée ≠ allure.**
 
-La trajectoire désigne l'organisation temporelle d'une succession de configurations ou d'événements.
+Voir [Allure](fr/allure.md).
 
-La transition constitue une portion ou une relation identifiable dans cette trajectoire.
+### 4.4. Transition et stabilisation
 
-Une trajectoire peut comporter :
+La **stabilisation** concerne le maintien relatif d’une configuration à travers ses reprises et ses variations.
 
-- plusieurs transitions ;
-- des périodes de stabilisation ;
-- des transformations locales ;
-- des retours ;
-- des bifurcations ;
-- des ralentissements ou accélérations.
+Une transition peut être suivie d’une stabilisation, mais elle peut aussi être suivie de nouvelles transformations, d’une coexistence durable de configurations ou d’une période dont l’organisation reste incertaine.
 
-La trajectoire ne doit donc pas être reconstruite comme une progression continue.
+La présence d’une configuration ultérieure ne suffit donc pas à établir qu’une nouvelle stabilisation a eu lieu. Il faut examiner les reprises, les variations et les critères selon lesquels son maintien peut être reconnu.
 
----
+**Transition ≠ stabilisation acquise.**
 
-Transition et allure
+Voir [Stabilisation](fr/stabilisation.md).
 
-Deux transitions peuvent relier des configurations comparables tout en présentant des dynamiques temporelles différentes.
+### 4.5. Transition et tension
 
-L'allure permet précisément de décrire cette différence.
+La **tension** désigne une difficulté située de fonctionnement. Elle peut conduire à examiner une modification ou un passage entre configurations, mais elle ne détermine pas la réponse qui sera apportée à la difficulté.
 
-Une transition peut être :
+Une tension peut persister sans transition. Une transition peut également avoir lieu sans tension préalable identifiable.
 
-- progressive ;
-- rapide ;
-- cumulative ;
-- oscillatoire ;
-- discontinue ;
-- inertielle ;
-- ou caractérisée par plusieurs rythmes successifs.
+**Tension ≠ transition nécessaire.**
 
-L'allure ne définit pas la transition.
+Voir [Tension](fr/tension.md).
 
-Elle décrit comment le passage se distribue dans le temps.
+### 4.6. Transition et temporalité descriptive
 
----
+La **temporalité descriptive** concerne les rapports temporels par lesquels les pratiques héritent de ressources antérieures, les mobilisent et les transforment.
 
-Transition et distance
+La transition porte sur un passage déterminé ; la temporalité descriptive fournit un cadre plus large pour examiner les héritages, les usages présents et les transformations possibles des pratiques.
 
-La distance permet d'indiquer l'ampleur du déplacement entre deux configurations selon le critère retenu.
+La transition n’est donc ni une théorie générale du temps ni une description exhaustive de l’histoire d’une pratique.
 
-Cette distance n'est pas nécessairement proportionnelle à la durée de la transition.
+Voir [Temporalité descriptive](fr/temporalite-descriptive.md).
 
-Une modification importante peut intervenir rapidement.
+## 5. Articulation avec l’enquête
 
-Une transformation faible peut s'étendre sur une longue période.
+La transition devient utile lorsque la question porte sur le rapport temporel entre des configurations différenciées.
 
-Il faut donc distinguer :
+L’examen peut alors porter sur les points suivants, selon les besoins de l’enquête :
 
-«durée ≠ allure ≠ distance.»
+- **Configurations comparées** : quelles configurations sont effectivement documentées ?
+- **Différences** : quels éléments ont changé, et selon quels critères ?
+- **Continuités** : quels éléments ou quelles relations ont été maintenus ?
+- **Relations temporelles** : que peut-on établir sur l’ordre, la durée ou la coexistence des configurations ?
+- **Éléments de liaison** : quelles traces ou observations permettent de reconstruire le passage ?
+- **Limites** : quelles transformations intermédiaires, quelles causes ou quelles relations demeurent incertaines ?
 
-La transition permet de mettre ces dimensions en relation sans les confondre.
+Ces questions ne forment pas une séquence obligatoire. L’enquête peut commencer par une modification locale, par la comparaison de deux configurations ou par la découverte de documents qui conduisent à réviser une reconstruction antérieure.
 
----
+La transition peut ainsi être précisée à mesure que l’enquête avance. Elle peut également perdre sa pertinence si les éléments disponibles ne permettent pas d’établir le passage supposé entre les configurations.
 
-Continuité et discontinuité
+### Articulation avec la quadripartition
 
-Une transition peut présenter simultanément des continuités et des discontinuités.
+La transition ne constitue pas une cinquième orientation de l’enquête. Elle peut être examinée selon les quatre orientations de la quadripartition :
 
-Par exemple :
+- **Condition** : quelles conditions matérielles, corporelles ou environnementales ont changé ou ont été maintenues ?
+- **Relation** : quelles dépendances ont été conservées, modifiées ou abandonnées ?
+- **Fonction** : quelles modifications affectent le rôle exercé par une configuration dans la pratique ?
+- **Justification** : quels critères, engagements ou raisons ont été maintenus, révisés ou contestés ?
 
-- un support peut être conservé alors que sa fonction change ;
-- un terme peut être maintenu alors que ses critères d'application changent ;
-- une pratique peut persister alors que ses justifications sont révisées ;
-- une distinction peut disparaître tandis qu'une autre est conservée.
+Ces orientations sont complémentaires, mais leurs résultats ne sont pas interchangeables.
 
-Il n'est donc pas nécessaire de choisir entre :
+Une modification matérielle ne suffit pas à établir une modification fonctionnelle. Une modification fonctionnelle ne détermine pas à elle seule la justification d’une pratique. Une révision des critères ne démontre pas nécessairement que les conditions matérielles ont changé.
 
-«continuité totale»
+La quadripartition permet donc de différencier les questions que soulève une transition sans les transformer en dimensions indépendantes ou en étapes successives.
 
-et
+Voir [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md).
 
-«rupture totale.»
+## 6. Épreuve : une qualification administrative
 
-L'enquête doit déterminer ce qui demeure continu et ce qui devient discontinu.
+Supposons qu’une administration utilise une même catégorie pour traiter certains dossiers pendant plusieurs années. Des documents ultérieurs attestent une modification des critères d’application, puis l’apparition d’une nouvelle catégorie.
 
----
+La comparaison permet d’établir que les catégories et leurs conditions d’emploi ont changé. Mais elle ne suffit pas, à elle seule, à déterminer comment ce changement s’est produit.
 
-Transition et remplacement
+Plusieurs questions restent ouvertes :
 
-Un remplacement consiste à substituer un élément à un autre.
+- La catégorie initiale a-t-elle continué d’être utilisée pendant l’introduction de la nouvelle ?
+- Les critères ont-ils été modifiés avant le changement de catégorie ou simultanément ?
+- Les pratiques locales ont-elles évolué au même moment ?
+- Les documents disponibles permettent-ils de reconstruire les transformations intermédiaires ?
+- Le changement de catégorie correspond-il à une modification de fonction, de justification, ou seulement de formulation dans certains contextes ?
 
-Une transition peut comporter des remplacements, mais elle ne se réduit pas à eux.
+Si les archives ne documentent que la catégorie initiale et la catégorie ultérieure, il serait excessif de reconstituer une séquence détaillée sans éléments supplémentaires.
 
-Elle peut également comporter :
+Si les documents montrent une coexistence des deux catégories, il serait également erroné de décrire leur succession comme un remplacement immédiat et complet.
 
-- des modifications progressives ;
-- des coexistences temporaires ;
-- des réorganisations ;
-- des abandons ;
-- des reprises ;
-- des réinterprétations.
+L’examen de la transition permet donc de préciser ce qui a changé et ce qui peut être établi sur le passage, tout en maintenant les incertitudes sur les relations qui ne sont pas documentées.
 
-Le concept de transition permet ainsi de suivre une histoire plus complexe qu'une simple succession de substitutions.
+Il ne permet pas, par lui-même, de conclure que la nouvelle catégorie est plus adéquate, que le changement était nécessaire ou qu’une cause unique l’explique.
 
----
+## 7. Limites et audit
 
-Transition et rupture
+La reconstruction d’une transition doit être contrôlée sur plusieurs points.
 
-Une transition peut comporter une rupture importante.
+### Téléologie
 
-Mais le concept de transition ne présuppose ni continuité maximale ni rupture minimale.
+Ne pas présenter la configuration ultérieure comme la destination nécessaire de la configuration antérieure. Le fait qu’un changement ait eu lieu ne prouve pas qu’il était prévisible ou nécessaire.
 
-Une rupture doit être établie relativement à ce qui est comparé :
+### Continuité présumée
 
-- fonction ;
-- relation ;
-- support ;
-- critère ;
-- pratique ;
-- catégorie ;
-- justification.
+Ne pas déduire le maintien d’une fonction de la persistance d’un nom, d’un support ou d’une institution.
 
-Une transition peut donc être fortement discontinue sur une dimension et fortement continue sur une autre.
+### Rupture présumée
 
----
+Ne pas déduire une rupture totale de la modification d’une catégorie, d’un critère ou d’une relation. La continuité peut être partielle et porter sur d’autres dimensions.
 
-Transition et tension
+### Causalisation rétrospective
 
-Une transition peut suivre une période de tension.
+Ne pas transformer l’ordre temporel des configurations en relation causale. Qu’une modification survienne après un événement ne suffit pas à établir que cet événement l’a produite.
 
-Mais ce n'est pas nécessaire.
+### Reconstruction excessive
 
-Une transformation peut être décidée ou engagée sans tension préalable.
+Ne pas imposer une succession continue lorsque les matériaux permettent seulement d’établir plusieurs configurations séparées. Les lacunes documentaires doivent rester visibles.
 
-Inversement, une tension peut persister sans qu'une transition ait lieu.
+### Confusion entre passage et résultat
 
-Il faut donc distinguer :
+Ne pas conclure qu’une transition conduit nécessairement à une stabilisation, à une amélioration ou à une nouvelle organisation durable. Ces résultats demandent un examen distinct.
 
-«Tension : difficulté de fonctionnement.»
+### Non-conversion
 
-«Transformation : modification d'une configuration.»
+Les traces du passage ne constituent pas à elles seules sa signification. La reconstruction historique ne remplace pas l’explication causale, et l’explication causale ne remplace pas la justification des conclusions.
 
-«Transition : passage temporel entre configurations.»
+**Trace ≠ signification.**
 
-Ces trois concepts peuvent être articulés sans former une séquence nécessaire.
+**Succession temporelle ≠ causalité établie.**
 
----
+**Transformation observée ≠ progrès démontré.**
 
-Transition et stabilisation
+## Synthèse
 
-Une transition peut conduire à une nouvelle stabilisation.
+La transition permet d’examiner le passage temporel entre des configurations différenciées, en distinguant les modifications, les continuités et les incertitudes que les éléments disponibles autorisent à établir.
 
-Mais elle peut également déboucher sur :
+Elle contribue à la reconstruction d’une trajectoire sans se confondre avec elle. Elle peut être examinée selon les orientations de la quadripartition sans constituer une dimension supplémentaire de l’enquête.
 
-- une nouvelle transformation ;
-- une coexistence de configurations ;
-- une instabilité prolongée ;
-- un retour à une configuration antérieure ;
-- ou une succession de changements sans nouvelle stabilisation durable.
+Une transition ne présuppose ni une continuité globale, ni une rupture absolue, ni une tension préalable, ni une stabilisation ultérieure.
 
-La stabilisation doit donc être décrite séparément.
+**Décrire un passage ne suffit ni à expliquer ses causes, ni à établir sa nécessité, ni à justifier son résultat.**
 
-«Transition ≠ nouvelle stabilisation.»
+Pour poursuivre :
 
----
-
-Fonction dans l'enquête
-
-Le concept de transition devient utile lorsque l'enquête cherche à reconstruire le passage entre deux configurations.
-
-Elle peut alors demander :
-
-- Quelles configurations sont comparées ?
-- Qu'est-ce qui a changé entre elles ?
-- Qu'est-ce qui a été conservé ?
-- Qu'est-ce qui a disparu ?
-- Quelles transformations intermédiaires peuvent être identifiées ?
-- Quelle est la durée du passage ?
-- Quelle est son allure ?
-- Quelle distance sépare les configurations selon le critère retenu ?
-- Certaines configurations ont-elles coexisté ?
-- La transition est-elle réversible ou non ?
-- Une nouvelle stabilisation s'est-elle effectivement produite ?
-
-La transition permet ainsi de reconstruire une histoire sans transformer cette histoire en téléologie.
-
----
-
-Articulation avec la quadripartition
-
-La transition ne constitue pas une dimension supplémentaire de l'architecture.
-
-Elle peut être reconstruite selon les quatre questions fondamentales.
-
-Corps
-
-Quelles conditions corporelles et matérielles persistent ou changent au cours de la transition ?
-
-Relation
-
-Quelles relations sont maintenues, modifiées ou supprimées ?
-
-Fonction
-
-Qu'est-ce qui change dans les opérations réalisées par les configurations successives ?
-
-Justification
-
-Quels critères et engagements changent, persistent ou deviennent contestés ?
-
-Ces dimensions ne doivent pas être converties les unes dans les autres.
-
-Une transition matérielle n'est pas automatiquement une transition fonctionnelle.
-
-Une transition fonctionnelle n'est pas automatiquement une transition normative.
-
-Une transition normative n'est pas automatiquement une transition corporelle.
-
----
-
-Dimension empirique
-
-Une transition ne doit pas être reconstruite uniquement à partir des catégories utilisées pour la raconter.
-
-L'enquête peut mobiliser différentes traces :
-
-- documents ;
-- inscriptions ;
-- pratiques observables ;
-- modifications institutionnelles ;
-- témoignages ;
-- instruments ;
-- comportements ;
-- changements matériels.
-
-Mais une trace de changement ne constitue pas à elle seule son interprétation.
-
-«Trace ≠ signification.»
-
-L'enquête doit distinguer ce qui est observé de la manière dont la transition est reconstruite.
-
----
-
-Limites d'audit
-
-La téléologie
-
-Ne pas décrire une transition comme si elle conduisait nécessairement vers une configuration meilleure, plus rationnelle ou plus vraie.
-
-Le continuisme
-
-Ne pas supposer que le maintien d'un nom, d'un support ou d'une institution implique le maintien de leur fonction.
-
-Le discontinuisme
-
-Ne pas conclure à une rupture absolue parce que certaines fonctions ou certains critères ont changé.
-
-La causalisation rétrospective
-
-Ne pas transformer la configuration finale en cause ou en destination nécessaire de la configuration initiale.
-
-La reconstruction excessive
-
-Ne pas imposer une séquence continue lorsque les données ne permettent d'établir que plusieurs configurations séparées.
-
----
-
-Synthèse
-
-La transition désigne le passage temporel entre des configurations différenciées.
-
-Elle permet de reconstruire une trajectoire en distinguant :
-
-- ce qui change ;
-- ce qui persiste ;
-- ce qui disparaît ;
-- ce qui se transforme ;
-- ce qui coexiste ;
-- et la manière dont ces modifications se distribuent dans le temps.
-
-Elle ne présuppose :
-
-- ni progrès ;
-- ni adaptation ;
-- ni rupture ;
-- ni stabilisation ;
-- ni tension préalable ;
-- ni direction déterminée.
-
-«Une transition n'est pas le mécanisme qui conduit une configuration vers une autre. Elle est la relation temporelle à partir de laquelle l'enquête peut décrire leur passage, leurs continuités et leurs différences.»
+- [Temporalité descriptive](fr/temporalite-descriptive.md) — Examiner les rapports temporels des pratiques descriptives.
+- [Trajectoire](fr/trajectoire.md) — Reconstruire un parcours de transformations.
+- [Transformation](fr/transformation.md) — Caractériser une modification de configuration.
+- [Allure](fr/allure.md) — Qualifier la distribution temporelle des transformations.
+- [Stabilisation](fr/stabilisation.md) — Examiner le maintien relatif d’une configuration.
+- [Tension](fr/tension.md) — Décrire une difficulté située de fonctionnement.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations de l’examen.
+- [Table des matières](fr/tdm.md) — Replacer cette page dans l’organisation du corpus.
