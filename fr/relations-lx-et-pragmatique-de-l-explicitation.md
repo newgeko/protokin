@@ -1,95 +1,144 @@
-# Page : relations-lx-et-pragmatique-de-l-explicitation.md
+# Relations LX et pragmatique de l’explicitation
 
-### Relations LX et pragmatique de l'explicitation — Le statut logique de la métathéorie et la genèse de l'accès conceptuel
+## Fonction
 
-#### Fonction
-Dans l'architecture métathéorique de Protokin, les **relations LX** (*Elaborated-Explicating*) et la **pragmatique de l'explicitation** définissent le statut logique de Protokin en tant que système opératoire de second ordre (*Collective Operating System - cOS*) et caractérisent l'opération par laquelle des normes pratiques implicites (le savoir-faire du plan **PROTO**) sont traduites sous forme de critères et de règles publiques propositionnellement articulés dans l'espace des raisons (le plan **KIN**). Cet outil permet de clarifier comment les vocabulaires logiques et métathéoriques s'élaborent à partir des pratiques ordinaires qu'ils ont pour fonction unique de rendre explicites, barrant ainsi toute dérive de surplomb absolu ou d'idéalisme sémantique.
+Cette page examine les relations d’élaboration et d’expression (*LX*) étudiées par Robert Brandom, ainsi que leur intérêt pour l’analyse des pratiques descriptives dans Protokin.
 
-#### Problème conceptuel inaugural
-Toute métathéorie qui examine les descriptions se heurte à une contradiction performative et à une aporie d'accès. D'une part, si elle affirme que toute description est située et sédimentée au sein d'une niche historique et matérielle déterminée, comment peut-elle légitimer son propre discours critique sans s'attribuer clandestinement un privilège d'immunité et de surplomb transcendant, se posant comme un regard de nulle part ? D'autre part, comment des variations physiques, corporelles et comportementales muettes (PROTO) parviennent-elles à s'élever au statut de propositions rationnelles et logiquement contraignantes (KIN) sans postuler de saut métaphysique mystique ou de transmutation magique de la matière en norme (Mythe du Donné), et sans détacher l'espace des raisons de toute contrainte de viabilité écologique ?
+La question directrice est la suivante : comment un vocabulaire peut-il rendre explicites certaines relations, certains engagements ou certaines normes d’une pratique sans que cette explicitation soit confondue avec leur création, leur explication ou leur justification ?
 
-Protokin dissout ces difficultés en s'appropriant la métathéorie du *Meaning-Use* et les relations LX formulées par Robert Brandom. L'accès au dicible ne s'effectue pas par une correspondance spéculaire verticale avec le réel en soi, mais par une série de reprises et de reconfigurations où l'explicite (le dicible, le propositionnel) est défini comme le produit d'une élaboration progressive à partir de capacités pratiques déjà maîtrisées. De même, la métathéorie ne surplombe pas ses objets : elle s'assume comme un vocabulaire universellement explicatif (LX) élaboré à partir des pratiques descriptives de premier ordre afin de rendre explicites leurs engagements implicites, se soumettant ainsi récursivement à ses propres rituels de justification publique et d'auto-application.
+La page distingue l’apport théorique de Brandom, l’usage que Protokin peut en faire et les conclusions qui restent à établir. Elle ne propose ni une théorie générale du passage de la matière au langage ni une définition exhaustive de l’enquête de second ordre.
 
-#### Définition fonctionnelle
-Dans l'architecture de Protokin, on appelle **relation LX** et **pragmatique de l'explicitation** :
-**La relation fonctionnelle par laquelle un vocabulaire $V_2$ (logique ou métathéorique) est d'une part élaboré (L) à partir d'une pratique ou d'un vocabulaire de base $P_1$ (qui en détermine entièrement les règles d'utilisation) et, d'autre part, explicite (X) de cette même pratique d'amont, permettant aux locuteurs de formuler dans le langage de $V_2$, sous forme d'assertions soumises à la contestation et à la justification publique, les normes, engagements et incompatibilités qui gouvernaient implicitement leurs performances dans $P_1$.**
+## 1. Le problème de l’explicitation
 
-Cette définition implique trois thèses directrices :
-*   **L'explicitation comme performance (Doing)** : Faire passer une règle du statut d'habitude implicite (*knowing-how*) au statut de principe explicite (*knowing-that*) n'est pas un enregistrement passif, mais un acte normatif qui modifie l'espace des raisons en exposant la règle à la critique, à la demande de raisons et à la révision collective.
-*   **Le primat de l'immanence pratique** : Tout vocabulaire explicite s'adosse à un socle de pratiques corporelles et instrumentales non théorisées mais correctes en acte. Le logique ne fonde pas le rationnel ; il l'explicite.
-*   **La neutralité non-ontologique de l'élaboration** : Un vocabulaire explicatif est conservateur sur sa base. Son introduction ne crée ni ne détruit les dépendances matérielles ou les rituels de premier ordre ; il les dote simplement d'un organe de réflexivité et d'auto-correction.
+Une pratique peut mobiliser des distinctions, des régularités et des critères sans que ceux-ci soient tous formulés dans des propositions explicites. Un locuteur peut savoir poursuivre une activité, reconnaître un cas ou corriger une conduite sans disposer d’une formulation complète des règles qu’il applique.
 
-#### Dimensions principales
-L'économie des relations LX et de la pragmatique de l'explicitation s'organise autour de trois dimensions coordonnées qui structurent la réflexivité de Protokin :
+Il est parfois utile de rendre ces relations explicites. On peut alors examiner ce qui est présupposé dans une pratique, quelles conséquences sont associées à une affirmation, quels cas sont traités comme incompatibles ou quels critères sont invoqués pour défendre une décision.
 
-#### 1. La dimension d'élaboration (L — Elaboration)
-L'élaboration désigne la transition fonctionnelle et algorithmique par laquelle l'aptitude à utiliser un vocabulaire explicatif $V_2$ est entièrement construite à partir de compétences pratiques déjà disponibles au sein de la pratique de base $P_1$. Dans Protokin, le locuteur n'a pas besoin d'un accès magique à des essences universelles pour maîtriser la logique ou la métathéorie. En s'appuyant sur ses dispositions réactives différentielles (RDRD) et sa capacité d'association relationnelle (AARR), l'organisme situé apprend de proche en proche à projeter ses coordinations sensorimotrices et perceptives d'amont vers les règles de déduction et de substitution d'aval, sans rupture de continuité pratique.
+Mais la formulation explicite ne constitue pas une simple copie de la pratique. En rendant une relation formulable, elle peut ouvrir de nouvelles possibilités de discussion, de contestation, de comparaison et de révision. Elle peut aussi sélectionner certains aspects de la pratique et en laisser d’autres de côté.
 
-#### 2. La dimension d'explicitation (X — Explicitation)
-L'explicitation est l'opération d'aval qui convertit le savoir-faire implicite en énoncés propositionnels (claimables), aptes à figurer comme prémisses et conclusions dans le jeu de donner et demander des justifications. Protokin distingue deux morphologies de l'explicitation logique :
-*   **L'explicitation par implication** : L'utilisation de connecteurs logiques (le conditionnel régi par la condition de Deduction-Detachment, la négation régie par la condition d'Incoherence-Incompatibility) pour formuler dans l'objet-langage même les engagements matériels et les incompatibilités d'amont.
-*   **L'explicitation par sequents** : L'utilisation d'une syntaxe de séquents (calcul NMMS) pour projeter l'ensemble des relations de conséquence matérielle de la base non logique, les rendant manipulables et évaluables sous forme de théorèmes locaux sans imposer de clôture structurelle a priori.
+Il faut donc distinguer trois questions :
 
-#### 3. La plasticité et l'hystérèse rationnelle (Rational Hysteresis)
-Parce que les raisons matérielles de premier ordre sont structurellement ouvertes (non monotones et non transitives), le déploiement séquentiel des conséquences d'une assertion n'aboutit pas à une clôture logique stable et immédiate. Le processus d'explicitation est marqué par une hystérèse rationnelle : le nœud d'engagements auquel aboutit un collectif d'enquêteurs dépend rigoureusement du cheminement diachronique et de l'ordre dans lequel les conséquences implicites ont été extraites. Cette path-dependence de l'explicitation est le fondement logique de l'historicités des descriptions et justifie pourquoi les collectifs ont des histoires cumulatives (l'effet cliquet) et non de simples natures immuables.
+- **Que permet d’expliciter un vocabulaire ?**
+- **Comment ce vocabulaire est-il lié aux pratiques dans lesquelles il est utilisé et appris ?**
+- **Qu’est-ce qui autorise à tenir pour adéquates les formulations qu’il propose ?**
 
-#### Distinctions conceptuelles nécessaires
+Ces questions sont liées, mais aucune ne répond automatiquement aux deux autres.
 
-#### Explicitation et Explication (X-ing vs Explaining)
-La différence porte sur la nature de l'opération et du niveau d'analyse. L'**explicitation** est une opération purement expressive et intralinguistique (second ordre) qui formule en propositions claires des critères ou des engagements auparavant muets au présent d'usage. L'**explication** (Section 07) est une opération bimodale et située qui coordonne l'espace des causes (PROTO) et l'espace des raisons (KIN) pour résoudre une anomalie ou un trouble pratique de terrain. *L'explicitation met la grammaire en lumière ; l'explication résout la crise d'opérabilité de la situation.*
+## 2. Les relations LX chez Brandom
 
-#### Relation LX et Métalangage Tarskien (LX vs Tarskian Metalanguage)
-La différence touche au mode de relation et de surplomb sémantique. Le métalangage tarskien classique est séparé de l'objet-langage par une hiérarchie ontologique et exige des ressources expressives extérieures et supérieures pour décréter la vérité de premier ordre. Le vocabulaire LX de Protokin est immanent et circulaire (au sens de la cybernétique de second ordre) : il s'élabore de l'intérieur de la pratique de base et y retourne pour en redresser les pathologies de redevabilité, sans prétendre détenir une vérité transcendante ou une essence absolue. *Le métalangage tarsien ordonne depuis le ciel des règles ; la relation LX outille la réflexivité immanente du collectif.*
+Dans *Between Saying and Doing* (2008), Robert Brandom étudie les relations entre des vocabulaires et les pratiques qui permettent de les utiliser. Son approche porte notamment sur les conditions pratiques d’accès à certains vocabulaires et sur les ressources expressives qu’ils rendent disponibles.
 
-#### Explicitation de premier ordre (Pratique) et de second ordre (Métathéorique)
-La différence s'établit selon l'échelle d'application de l'audit. L'explicitation de premier ordre s'effectue au chevet de la pratique par les locuteurs eux-mêmes lorsqu'ils utilisent la logique NMMS ou des supports d'inscriptions formels pour clarifier leurs assertions. L'explicitation de second ordre est l'opération proprement protokinienne par laquelle l'auditeur reconstruit l'ensemble des dépendances fonctionnelles d'un régime descriptif complet, remettant en visibilité ses zones de silence sémantique, ses asymétries d'échelle et ses butoirs refoulés.
+Dans ce cadre, les relations dites **LX** articulent deux rapports distincts :
 
-#### Articulation dans l'architecture Protokin
-Au sein de l'organisation générale (Section 02), la relation LX fournit le connecteur fonctionnel indispensable pour penser le statut logique des diagnostics et barrer toute dérive d'idéalisme linguistique ou d'amnésie somatique :
+- **L — élaboration (*elaboration*)** : les capacités nécessaires à l’usage d’un vocabulaire peuvent être spécifiées à partir de capacités et de pratiques mobilisées dans un vocabulaire de base ;
+- **X — expression (*expression*)** : un vocabulaire permet de formuler explicitement certains aspects des pratiques ou des relations associées au vocabulaire de base.
 
-```text
-Pratiques de Base (P1 — PROTO/Somatique) ──► Élaboration (L) ──► Vocabulaire Explicatif (V2 — KIN)
-                                ▲                                         │
-                                │                                         ▼
-                                └─────── Explicitation (X) ───────────────┘
-```
+L’intérêt de cette articulation est de mettre en rapport des capacités pratiques et les ressources linguistiques qui permettent d’en expliciter certains aspects. Elle évite de traiter l’accès à un vocabulaire comme une opération purement contemplative, indépendante des compétences nécessaires à son usage.
 
-Dans ce pli de second ordre :
-* L'espace des causes (PROTO) fournit les dispositions comportementales (RDRD/AARR) et les traces somatiques qui servent de substrat à l'élaboration (L) ;
-* L'espace des raisons (KIN) organise la prise en charge normative de ces coordinations sous forme d'assertions, d'engagements et de justifications ;
-* Le vocabulaire explicatif (V2) retourne sur la pratique pour en formuler les critères sous forme de règles publiques, permettant l'auto-correction permanente de l'enquête.
+Il faut cependant respecter la portée de cette analyse. Une relation LX n’est pas simplement toute relation entre une activité et une description de cette activité. Elle appartient à un cadre théorique déterminé, dont les conditions précises doivent être examinées avant d’attribuer à une relation particulière ce statut technique.
 
-#### Éclairage par les fils rouges pédagogiques
+La notion ne permet pas non plus de conclure que tout vocabulaire explicatif reproduit intégralement les règles d’une pratique, que toutes les compétences peuvent être traduites en propositions ou que l’explicitation garantit la correction de ce qui est formulé.
 
-#### 1. « Le vélo est rouge »
-La capture lumineuse par les photorécepteurs de la rétine est une disposition réactive fiable (RDRD, plan PROTO). L'énonciation ordinaire « Le vélo est rouge » est une assertion qui contracte des engagements déontiques d'exclusion (KIN). L'introduction du conditionnel logical « Si le vélo est rouge, alors il n'est pas bleu » est une relation LX de premier ordre : elle n'explique pas biologiquement comment le locuteur voit la couleur, mais explicite de façon formelle et contraignante le potentiel substitutionnel et l'incompatibilité matérielle qui structurent le concept de couleur au sein de la communauté linguistique.
+## 3. Expliciter une pratique sans la réduire à sa formulation
 
-#### 2. Le patient aux urgences hospitalières
-Les constantes physiologiques perturbées du patient (l'ischémie myocardique objective, plan PROTO) provoquent des indices d'amont captés par la praktognosie incorporée de l'infirmière de tri. L'écriture du diagnostic de triage « Syndrome Coronarien Aigu » est une opération d'explicitation de premier ordre : elle convertit une détresse physique muette en une qualification publique dotée d'obligations inférentielles d'aval (l'intervention thérapeutique d'urgence). L'audit protokinien de second ordre explicite la relation LX entre les supports informatiques de gestion et la décision clinique, révélant comment l'impérialisme des critères comptables de l'administration hospitalière tente de détruire cette chaîne d'explicitation vitale.
+Pour Protokin, l’intérêt de cette approche tient à la possibilité d’examiner les rapports entre les pratiques et les ressources descriptives qui permettent d’en rendre certains aspects discutables.
 
-#### 3. Le botaniste et le bûcheron face à l'arbre
-Ils coexistent dans la même forêt physique mais appliquent des taxonomies d'explicitation hétérogènes. La taxonomie d'usage sylvicole du bûcheron (« tronc exploitable ») explicite ses habitudes d'action et ses couplages de coupe d'amont. La taxonomie universitaire du botaniste (« Abies alba ») explicite des relations de filiation et de sédimentation académique d'aval. Leurs explications coexistent de manière compatible car l'anaphore interpersonnelle permet de stabiliser la référence déictique à l'arbre singulier (l'antécédent unique, PROTO) tout en explicitant la divergence de leurs perspectives de justification de second ordre (KIN).
+Une formulation explicite peut, par exemple, mettre au jour une incompatibilité jusque-là traitée implicitement, préciser les conséquences d’une affirmation ou rendre comparables des critères employés dans plusieurs situations.
 
-#### 4. « Cette personne est mauvaise par nature »
-L'assertion d'essence commet une confusion de niveau majeure en réifiant un blâme moral situé et révisable (KIN) en une substance naturelle biologique ou psychologique immuable de l'organisme (PROTO). Protokin intervient ici comme un vocabulaire d'explicitation de second ordre (LX) : il ne formule pas de jugement moral de premier ordre, mais explicite le coût sémantique de cette réification (fermeture de l'enquête, effet cliquet). En explicitant la genèse et les alternatives de cette qualification bloquée, l'auditeur redresse l'énoncé et réintroduit l'individu dans la plasticité temporelle de sa trajectoire d'action.
+Cela ne signifie pas que la pratique se réduise à ce qui peut en être formulé. Des compétences corporelles, des contraintes matérielles, des habitudes d’action, des supports techniques et des particularités de situation peuvent contribuer au fonctionnement d’une pratique sans être entièrement représentés dans les formulations produites.
 
-#### Limites et vigilances d'audit : les pathologies de l'explicitation
-Lors de la conduite méthodique de l'audit immanent d'une pratique d'enquête, l'enquêteur de second ordre doit s'armer de trois critères de vigilance absolue contre les pathologies de l'explicitation :
-*   **La pathologie de l'intellectualisme (L'amnésie somatique)** : Le travers d'une communauté ou d'une administration qui prétendrait qu'une norme ou qu'un critère n'a de validité que s'il est explicitement consigné dans un règlement ou un formulaire écrit. Protokin rappelle avec force que l'explicite (knowing-that) est toujours un produit dérivé qui s'adosse à un socle primordial d'habitudes d'action, de postures corporelles (knowing-how, PROTO) et d'inscriptions muettes qui soutiennent clandestinement la pratique.
-*   **L'illusion de surplomb (Le dogmatisme métathéorique)** : La dérive par laquelle l'analyste de second ordre traiterait Protokin comme un métalangage absolu ou un tribunal transcendant capable de régenter les savoirs de terrain de premier ordre. La réflexivité impose de réaffirmer que Protokin est lui-même un vocabulaire LX immanent, né d'une tradition philosophique située (pragmatisme, inférentialisme), s'adossant à des gabarits de prompts et de documents d'inscriptions contingents, et restant faillible et ouvert au contre-audit des praticiens de terrain.
-*   **L'éclectisme sémantique par confusion d'explicitation** : Le travers consistant à hybrider de force des vocabulaires LX hétérogènes en mélangeant des critères d'évaluation incompatibles (ex : forcer l'explicitation des décisions de soin médicales à s'effectuer exclusivement sous la grille de redevabilité d'un logiciel comptable de tarification par activité), ce qui détruit la discipline inférentielle et brise l'intégrité de l'espace des raisons.
+Inversement, une formulation explicite peut transformer les possibilités de la pratique : elle peut permettre de contester une règle, de distinguer des cas jusque-là confondus ou de formuler une exigence qui n’était pas exprimée auparavant.
 
-#### Synthèse finale
+L’explicitation ne doit donc être décrite ni comme une transcription passive ni comme une création sans contrainte. Sa portée dépend de ce qu’elle formule, de la pratique concernée, des usages qu’elle reçoit et des épreuves auxquelles elle peut être soumise.
 
-*Ce que cette page établit*
-Le concept de relation LX et d'explicitation en tant qu'opérateur de second ordre déterminant le statut logique de la métathéorie Protokin et de la logique universelle NMMS, formalisant le passage immanent et non réductionniste de la sentience pratique (PROTO) au dicible propositionnel (KIN).
+## 4. Explicitation, explication et justification
 
-*Ce qu'elle suppose*
-Les principes de réflexivité, d'humilité épistémique et d'immanence normative (Section 01), la démarcation causes/raisons (Section 07), les fondements d'accès de la trace, de l'indice et de l'anaphore (Section 03), et le scorekeeping des engagements (Section 04).
+Trois fonctions doivent être distinguées.
 
-*Ce qu'elle rend possible*
-La conduite rigoureuse de l'auto-application (Section 09), l'audit des asymétries de participation (injustices épistémiques), l'élaboration de connecteurs de traduction inter-régimes, et la détection clinique des pathologies d'amnésie somatique ou de fétichisme de l'enregistrement.
+### Explicitation
 
---------------------------------------------------------------------------------
+L’explicitation rend formulable une relation, un engagement, une incompatibilité ou un critère qui intervenait dans une pratique sans être exprimé de cette manière.
 
-Protokin 2026 — version 26.08.191
+Elle peut modifier les possibilités de discussion et de révision. Elle ne garantit pas que ce qui est formulé soit exact, exhaustif ou justifié.
+
+### Explication
+
+L’explication répond à une question déterminée en proposant des éléments et des relations jugés pertinents pour rendre intelligible un phénomène, une action ou une transformation.
+
+Expliciter les règles mobilisées dans une pratique ne suffit donc pas à expliquer comment cette pratique s’est formée, pourquoi elle se maintient ou quelles conditions matérielles affectent son fonctionnement. Ces questions exigent un examen distinct.
+
+### Justification
+
+La justification porte sur les raisons et les critères permettant de défendre, de contester ou de réviser une conclusion.
+
+Rendre un critère explicite permet de l’examiner, mais ne suffit pas à établir sa pertinence. Une règle peut être clairement formulée tout en étant contestable, inadéquate à certains cas ou incompatible avec d’autres exigences.
+
+Ces distinctions n’impliquent pas que les trois fonctions soient indépendantes. Une explicitation peut faciliter une explication ou rendre une justification plus précise. Elle ne se substitue cependant pas aux examens propres à chacune.
+
+## 5. Exemple : une règle de triage
+
+Considérons une pratique de triage dans un service d’urgence. Les professionnels combinent des observations, des habitudes d’évaluation, des protocoles, des instruments et des informations relatives à la situation du patient.
+
+Une difficulté peut apparaître lorsque deux critères conduisent à des décisions différentes. Les professionnels peuvent alors chercher à expliciter les critères mobilisés, les relations entre ces critères et les conséquences associées à chaque décision.
+
+Cette explicitation peut rendre le désaccord plus précis : les participants peuvent découvrir qu’ils n’utilisent pas le même seuil, qu’ils n’accordent pas la même portée à une observation ou qu’ils ne traitent pas de la même manière un cas limite.
+
+Elle ne détermine toutefois pas, à elle seule, quelle décision est correcte. Il faut encore examiner les données pertinentes, les contraintes de la situation, les critères applicables et les raisons avancées pour défendre la décision. Une procédure formalisée peut également laisser de côté certaines compétences pratiques ou certaines particularités du cas.
+
+L’exemple illustre une fonction limitée de l’explicitation : rendre certaines différences et certains engagements plus accessibles à la discussion. Il ne démontre ni que toute pratique peut être intégralement formalisée ni qu’une formalisation améliore nécessairement la décision.
+
+## 6. Ce que Protokin peut retenir
+
+L’articulation entre élaboration et expression fournit à Protokin un moyen d’examiner comment les ressources descriptives se rapportent aux pratiques dans lesquelles elles sont employées.
+
+Elle invite notamment à poser les questions suivantes :
+
+- Quelles capacités et quelles pratiques sont nécessaires pour utiliser le vocabulaire examiné ?
+- Quels aspects de la pratique ce vocabulaire permet-il de formuler explicitement ?
+- Quelles distinctions, conséquences ou incompatibilités deviennent alors discutables ?
+- Quels éléments de la pratique ne sont pas représentés par cette formulation ?
+- Quelles épreuves permettraient de comparer la formulation proposée avec les usages, les situations et les contraintes concernés ?
+- Quelles raisons permettent de défendre les conclusions tirées de cette explicitation ?
+
+Ces questions ne constituent pas une procédure obligatoire ni une nouvelle série d’opérations à ajouter à l’architecture de l’enquête. Elles forment un ensemble de points d’examen à mobiliser lorsque le rapport entre une pratique et son explicitation devient pertinent pour le problème étudié.
+
+La quadripartition de l’orientation permet de différencier les questions soulevées : les conditions matérielles de la pratique, les relations entre les éléments examinés, la fonction de la formulation explicite et les raisons permettant de défendre les conclusions. Ces orientations ne forment ni une hiérarchie ni une succession nécessaire.
+
+## 7. Portée et limites
+
+L’usage de la relation LX dans Protokin doit rester circonscrit.
+
+**Explicitation ne signifie pas exhaustivité.** Un vocabulaire peut rendre certains aspects d’une pratique explicites sans en épuiser les compétences, les contraintes ou les variations.
+
+**Élaboration ne signifie pas réduction.** Décrire les capacités nécessaires à l’usage d’un vocabulaire ne revient pas à ramener toute sa signification à une liste de comportements observables.
+
+**Expression ne signifie pas création.** Le fait qu’un vocabulaire permette de formuler une relation ne prouve pas qu’il crée cette relation. Mais l’explicitation peut modifier les possibilités de la pratique en rendant cette relation discutable ou révisable.
+
+**Explicitation ne signifie pas justification.** La formulation claire d’une règle ou d’un critère ne suffit pas à établir sa pertinence.
+
+**Continuité pratique ne signifie pas identité des fonctions.** Les capacités nécessaires à l’usage d’un vocabulaire, les relations qu’il permet d’exprimer et les raisons qui justifient ses conclusions peuvent être liées sans être interchangeables.
+
+Enfin, la relation LX ne constitue pas, à elle seule, une théorie générale de l’enquête de second ordre. Elle offre un cadre d’analyse pour certaines relations entre vocabulaire et pratique. Son intérêt pour un problème particulier doit être établi à partir des éléments disponibles, et non présupposé par le seul emploi du terme.
+
+## Synthèse
+
+Les relations LX étudiées par Brandom permettent d’examiner les rapports entre les pratiques nécessaires à l’usage d’un vocabulaire et les ressources expressives qu’il rend disponibles. Pour Protokin, cette approche aide à préciser comment certaines relations, distinctions ou normes peuvent devenir explicites et entrer dans un espace de discussion.
+
+L’explicitation peut transformer les possibilités de contestation et de révision d’une pratique. Elle ne la reproduit pas nécessairement dans son intégralité, n’explique pas à elle seule sa genèse et ne justifie pas automatiquement les conclusions formulées.
+
+**Rendre une relation explicite permet de l’examiner ; cela ne suffit pas à établir qu’elle est adéquate ni que les conclusions qu’on en tire sont justifiées.**
+
+## Références
+
+- Brandom, Robert B., *Between Saying and Doing: Towards an Analytic Pragmatism*, Oxford University Press, 2008.
+- Brandom, Robert B., *Making It Explicit: Reasoning, Representing, and Discursive Commitment*, Harvard University Press, 1994.
+- Brandom, Robert B., *Articulating Reasons: An Introduction to Inferentialism*, Harvard University Press, 2000.
+
+## Pour poursuivre
+
+- [Robert Brandom](fr/robert-brandom.md) — Examiner les engagements, les habilitations et les conséquences inférentielles des pratiques discursives.
+- [Wilfrid Sellars](fr/wilfrid-sellars.md) — Distinguer les conditions de production d’une affirmation et les raisons permettant de la soutenir.
+- [Explication](fr/explication.md) — Distinguer l’explicitation d’une relation et l’explication d’un phénomène.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations de l’examen sans en faire des domaines indépendants.
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer les examens dans le mouvement révisable de l’enquête.
+- [Table des matières](fr/tdm.md) — Retrouver les autres ressources du corpus.
