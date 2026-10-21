@@ -1,275 +1,200 @@
-# Page : intelligence-artificielle.md
+# Intelligence artificielle — Résultats computationnels et pratiques descriptives
 
-Intelligence artificielle — Analyse des régimes descriptifs mobilisés autour de l'agentivité computationnelle
+## Fonction
 
-Analyse architecturale de la page
+Cette page examine les difficultés descriptives qui apparaissent lorsque des systèmes d’intelligence artificielle produisent des classifications, des prédictions, des recommandations ou des textes mobilisés dans des pratiques humaines.
 
-1. Fonction unique de la page
+Elle cherche à distinguer ce que le système produit, ce que les utilisateurs en interprètent et ce qu’ils peuvent légitimement conclure ou décider à partir de ces résultats.
 
-Cette page existe pour analyser, à travers l'étude de cas de l'intelligence artificielle, la coexistence, les frictions normatives et les confusions de régimes qui s'établissent entre les descriptions issues du régime computationnel adaptatif et d'autres régimes d'intelligibilité (psychologique, juridique, moral, médiatique, scientifique), afin de démontrer comment l'audit protokinien permet de clarifier le statut de l'IA en tant que productrice d'inscriptions sans responsabilité déontique.
+L’intelligence artificielle constitue ici un cas d’étude, non une catégorie dont Protokin devrait déterminer l’essence. La page examine des usages particuliers et les relations entre les descriptions qu’ils mobilisent.
 
-2. Choix du mode de développement
+## Problème : que permet de conclure un résultat computationnel ?
 
-· Mode retenu : Mode B — Développement problématique.
-· Justification : Les débats autour de l'intelligence artificielle ne peuvent être résolus par une simple définition substantielle ou ontologique de ce qu'elle est "en soi". Il s'agit de reconstruire le chemin d'intelligibilité permettant de comprendre comment un système qui calcule des corrélations statistiques à partir d'optimisations de données (plan PROTO) interagit avec un espace de justifications normatives et d'engagements discursifs (plan KIN), sans pour autant réifier ses modèles ou lui prêter un esprit autonome.
+Un système d’intelligence artificielle peut classer des données, estimer une probabilité, produire une recommandation ou générer un texte. Ces résultats peuvent être utiles, parfois difficiles à obtenir autrement, et modifier sensiblement une pratique.
 
-3. Problème conceptuel
+Une difficulté apparaît lorsque le résultat est traité comme s’il suffisait à établir une conclusion plus large que celle pour laquelle il a été produit. Un score de risque peut ainsi être interprété comme une propriété stable d’une personne ; une prédiction peut être prise pour un fait établi ; un texte bien formulé peut être tenu pour une réponse suffisamment justifiée.
 
-Comment concevoir, arbitrer et réguler la coexistence de descriptions mobilisées autour de l'intelligence artificielle — où le régime computationnel adaptatif produit des corrélations et des prédictions à partir d'optimisations statistiques de premier ordre (PROTO), et où les régimes ordinaires, juridiques ou éthiques attribuent des responsabilités, des intentions et des engagements d'agir (KIN) — sans réifier le modèle computationnel sous forme d'esprit autonome détenant une vérité ultime sur le monde, et sans dissoudre la rigueur des critères d'agentivité déontique dans un anthropomorphisme naïf ?
+L’erreur ne consiste pas nécessairement à utiliser le résultat du système. Elle consiste à lui attribuer une portée qui n’a pas été examinée.
 
-4. Objet propre
+Pour analyser ces situations, il faut distinguer plusieurs questions :
 
-· Cette page traite de : la configuration "Intelligence artificielle" comme objet d'audit de second ordre ; le régime computationnel adaptatif (R9.3), ses types d'inférences statistiques et ses limites internes ; la distinction cruciale entre corrélation computationnelle, inférence logique, justification publique et engagement déontique ; la déconstruction critique de la fétichisation du modèle (réification instrumentale) et l'occultation des coûts matériels et biais de programmation ; la distribution des responsabilités lors de la production de descriptions instrumentales.
-· Cette page ne traite pas de : l'explication technique, mathématique ou informatique de premier ordre des algorithmes d'apprentissage automatique (Machine Learning) ou profond (Deep Learning) ; les langages de programmation ; l'histoire chronologique des découvertes de l'informatique ; les théories philosophiques de l'esprit non fonctionnalistes.
+- Quel résultat le système produit-il ?
+- À partir de quelles données, de quels traitements et de quelles catégories ?
+- À quelle tâche ce résultat est-il destiné ?
+- Quels éléments permettent d’en apprécier la performance et les limites ?
+- Comment ce résultat est-il interprété et utilisé dans la pratique concernée ?
+- Quelles raisons permettent de défendre la conclusion ou la décision qui en découle ?
 
-5. Statut conceptuel
+Ces questions sont liées, mais elles ne se remplacent pas mutuellement.
 
-Il s'agit d'une étude de cas et d'une application pratique (Section 11 — Études de cas).
+## Distinguer le calcul, le résultat et son usage
 
-6. Dépendances fonctionnelles
+Un système d’intelligence artificielle ne produit pas tous les types de résultats de la même manière. Un modèle peut attribuer un score, classer une image, proposer une séquence de mots, signaler une anomalie ou recommander une action. La nature du résultat dépend du système, de son entraînement, de ses données d’entrée et de la tâche pour laquelle il est utilisé.
 
-Cette page suppose :
+Il faut distinguer au moins quatre éléments.
 
-· La distinction sellarsienne fondamentale entre l'espace des Causes (PROTO) et l'espace des Raisons (KIN).
-· La distinction entre l'image manifeste (personnes, intentions, responsabilités) et l'image scientifique (modèles, instruments, calculs).
-· La notion de configuration descriptive et de régime descriptif.
-· L'assertion et les engagements descriptifs.
-· La méthode d'enquête, d'audit des régimes et les diagnostics d'erreurs logiques (réductions, confusions de niveaux, erreurs de catégorie).
+- **Le traitement computationnel** : les opérations effectuées par le système sur des données selon son architecture, ses paramètres et ses règles de fonctionnement.
+- **Le résultat produit** : un score, une classe, une prédiction, une recommandation, un texte ou une autre sortie déterminée.
+- **L’interprétation du résultat** : la manière dont une personne ou une institution comprend ce résultat et le rapporte à une situation.
+- **La conclusion ou la décision** : ce qui est affirmé, retenu ou entrepris à partir de cette interprétation.
 
-Cette page rend possible :
+Cette distinction ne signifie pas que ces éléments seraient indépendants. Le choix de la tâche influence le résultat attendu ; la présentation du résultat peut orienter son interprétation ; les usages institutionnels peuvent modifier les données collectées et les critères de conception.
 
-· L'évaluation comparative de la puissance descriptive des cadres computationnels et cliniques.
-· La mise en œuvre pratique de l'écologie des régimes descriptifs.
-· La levée des zones de silence et des injustices herméneutiques de support dans les choix technologiques collectifs.
+Il s’agit plutôt d’empêcher qu’un élément soit traité comme s’il suffisait à établir les autres.
 
-7. Frontières conceptuelles
+Un score n’est pas encore une décision. Une prédiction n’est pas nécessairement un fait observé. Une réponse formulée dans un langage naturel n’est pas, par sa seule forme, une conclusion justifiée.
 
-Configuration descriptive "IA" et Locuteur normatif (Agent)
+Inversement, le caractère computationnel d’un résultat ne suffit pas à le rendre inutile ou faux. Sa pertinence doit être examinée au regard de la tâche, des données, des conditions d’emploi et de la conclusion que l’on cherche à soutenir.
 
-La différence porte sur la nature de la normativité. L'intelligence artificielle est une configuration descriptive de premier ordre (R9.3) capable de générer des inscriptions sémiotiques et des prédictions. Elle ne constitue jamais un locuteur normatif ou un agent responsable au sens de Protokin : elle produit des descriptions sans assumer d'engagements ni devoir répondre de ses énoncés devant des pairs dans l'espace des raisons. L'IA calcule et associe ; le locuteur s'engage et répond.
+## Performance et validité d’une conclusion
 
-Réorganisation de l'IA et Innovation descriptive
+Un système peut obtenir de bons résultats selon une métrique déterminée sans que chacune de ses sorties soit adéquate à la situation dans laquelle elle est utilisée.
 
-L'ajustement algorithmique interne (modification statistique des poids d'un réseau de neurones face à de nouvelles données) relève du fonctionnement causal du système. L'innovation descriptive est une opération normative de second ordre par laquelle un collectif d'enquête réorganise consciemment ses critères d'intelligibilité pour s'ouvrir un nouvel espace de sens.
+Une mesure de performance porte sur une tâche, un ensemble de données et une procédure d’évaluation définis. Elle peut contribuer à établir que le système réussit certaines opérations dans les conditions testées. Elle ne suffit pas nécessairement à établir que le résultat particulier est correct, que les mêmes performances se maintiennent dans un autre contexte ou que la décision prise à partir du résultat est justifiée.
 
-8. Architecture locale
+Il faut donc distinguer :
 
-```
-                     09 — RÉFLEXIVITÉ (ecologie-des-regimes-descriptifs.md)
-                                         │
-                                         ▼
-                 11 — ÉTUDES DE CAS : INTELLIGENCE ARTIFICIELLE (intelligence-artificielle.md)
-                                         │
-                                         ▼
-                     12 — CONCLUSION (ce-que-protokin-permet.md)
-```
+- la performance mesurée du système pour une tâche définie ;
+- la fiabilité du résultat dans les conditions concrètes de son utilisation ;
+- l’adéquation de l’interprétation à la situation examinée ;
+- la justification de la conclusion ou de la décision qui en découle.
 
----
+Ces distinctions ne rendent pas l’évaluation technique secondaire. Elles permettent de préciser ce qu’elle établit et ce qui demande un examen supplémentaire.
 
-Cartouche fonctionnel
+Par exemple, un système peut être évalué pour sa capacité à repérer certains signes dans des images médicales. Même si ses performances sont satisfaisantes sur un jeu de test, l’utilisation d’un résultat particulier suppose encore d’examiner les conditions dans lesquelles l’image a été produite, les limites connues du système et la pertinence du résultat pour le cas traité.
 
-Élément Description
-Section 11 — Études de cas
-Fichier intelligence-artificielle.md
-Fonction Analyser la coexistence conflictuelle, les pathologies de relation sémantique (réductions, confusions) et les opérations de traduction entre le régime computationnel adaptatif (R9.3) et les régimes psychologique, moral, juridique ou médiatique mobilisés autour de l'IA.
-Prépare L'exercice synoptique de l'audit critique de second ordre, l'évaluation de la puissance descriptive comparative et la formalisation d'une écologie des régimes de grande échelle.
-Mobilise La distinction Causes/Raisons, la dyade Image manifeste / Image scientifique, l'assertion, l'engagement descriptif, la responsabilité normative et le scorekeeping.
-Permet ensuite D'auditer les dérives d'impérialisme sémantique associées aux algorithmes et de préserver la responsabilité déontique humaine face à l'automatisation des descriptions.
-N'établit pas Les équations mathématiques des réseaux de neurones, les guides de codage informatique, ni les théories métaphysiques de la conscience artificielle.
+La performance mesurée est un élément de l’évaluation ; elle ne vaut pas automatiquement justification de toutes les décisions prises à partir du système.
 
----
+## Premier cas : une recommandation de triage médical
 
-Problème conceptuel inaugural
+Considérons un système utilisé dans un service d’urgence pour signaler des situations susceptibles de nécessiter une intervention rapide.
 
-Toute tentative d'analyser l'intelligence artificielle au sein d'une métathéorie de la connaissance se heurte à une question ontologique récurrente : « Qu'est-ce que l'intelligence artificielle en elle-même ? Est-elle douée de pensée, de conscience ou d'un esprit ? ». Cette manière de poser la question présuppose l'existence d'une essence fixe et isolée (illusion substantielle), prête à être classée dans une ontologie universelle de l'être.
+Le système reçoit certaines données, leur applique des traitements et produit un score ou une catégorie de priorité. Ce résultat peut aider à attirer l’attention sur une situation qui demande un examen rapide.
 
-Protokin propose de suspendre cette orientation et d'opérer un déplacement critique préalable : avant de chercher à décréter ce que l'IA est substantiellement, il convient d'interroger les conditions sous lesquelles elle devient descriptivement accessible, d'une part, et sous lesquelles elle produit elle-même des descriptions, d'autre part.
+Plusieurs questions doivent cependant rester distinctes.
 
-Dès lors, le problème théorique et critique s'énonce ainsi :
+**Le résultat computationnel.** Il faut savoir ce que le système évalue, quelles données il utilise et ce que signifie la catégorie qu’il attribue. Un niveau de priorité n’est pas nécessairement un diagnostic complet, et une estimation de risque n’est pas une observation directe de tous les aspects de l’état du patient.
 
-Comment rendre compte de la puissance de calcul, de classification et de prédiction exceptionnelle de l'intelligence artificielle (régime computationnel adaptatif, R9.3) sans succomber à la réification de ses modèles statistiques, et comment articuler ses productions descriptives automatiques avec l'espace de redevabilité normative (l'espace des raisons) qui seul caractérise une communauté d'enquête responsable ?
+**L’interprétation clinique.** Le professionnel doit rapporter le résultat aux informations pertinentes pour le patient, aux observations disponibles et aux autres éléments de la situation. Selon le contexte, le résultat peut confirmer une hypothèse, attirer l’attention sur un signe ou demander une vérification supplémentaire.
 
-Protokin résout cette aporie en démontrant que l'intelligence artificielle n'est pas un agent ou un sujet autonome, mais un générateur d'inscriptions de premier ordre hautement stabilisé. Sa puissance exceptionnelle provient de sa capacité à modéliser et à optimiser des corrélations physiques et statistiques (plan PROTO). Toutefois, ses productions sémiotiques ne se transforment en assertions valides et en raisons d'agir que lorsqu'elles sont prises en charge, interprétées et endossées par des locuteurs humains responsables (plan KIN) au sein d'un rituel public de justification.
+**La décision.** La décision de soin doit être examinée au regard des informations disponibles, des critères cliniques pertinents et des responsabilités applicables. Elle ne découle pas automatiquement d’un score, même lorsque celui-ci constitue un indice utile.
 
----
+Une difficulté descriptive apparaît, par exemple, si une catégorie calculée est traitée comme une description exhaustive de l’état du patient, ou si un score est utilisé pour écarter automatiquement une personne sans examiner la pertinence du résultat pour son cas.
 
-Détermination fonctionnelle du cas : la configuration "IA"
+L’audit doit alors déterminer ce que le système a effectivement établi, ce que les professionnels en ont conclu et quels éléments soutiennent la décision finale.
 
-Dans l'architecture de Protokin, l'étude de cas de l'intelligence artificielle se définit comme :
+Cet exemple ne prouve ni que les systèmes d’aide au triage sont fiables dans tous les contextes, ni qu’ils sont nécessairement inadaptés. Il montre pourquoi la portée d’un résultat doit être examinée au regard de son usage.
 
-L'analyse d'une configuration descriptive complexe à l'intersection de plusieurs régimes d'intelligibilité, au sein de laquelle le régime computationnel adaptatif (R9.3) produit des classifications prédictives à partir d'optimisations statistiques (PROTO), simulant les formes de l'assertion sans en assumer les engagements normatifs, ce qui exige de l'audit de second ordre qu'il délimite rigoureusement sa juridiction par rapport aux régimes moraux, juridiques ou cliniques de l'espace des raisons (KIN).
+## Deuxième cas : un score de risque dans une décision judiciaire
 
-Cette approche met en relief que :
+Considérons maintenant un système qui attribue à une personne un score estimant un risque de récidive à partir de données historiques et de caractéristiques retenues pour la tâche.
 
-· La configuration "IA" n'est pas unifiée : Elle circule à travers plusieurs régimes (scientifique, industriel, médiatique, politique, philosophique) qui n'appliquent pas les mêmes critères de redevabilité. La confusion consiste à traiter les homonymies de surface (par exemple, le mot « décision » ou « apprentissage ») comme si elles possédaient la même signification d'un cadre à un autre.
-· L'asymétrie de puissance sans surplomb : Le régime computationnel adaptatif (R9.3) manifeste une puissance d'intervention, d'extension et d'optimisation prédictive d'une tout autre échelle que les classifications ordinaires. Mais cette puissance quantitative ne lui confère aucun droit de cité automatique pour régenter, disqualifier ou remplacer les critères qualitatifs d'évaluation morale ou de responsabilité humaine dans l'espace des raisons.
-· L'IA comme support d'inscription fétichisé : Les prédictions d'un modèle d'apprentissage profond ne sont pas des données neutres ou des reflets directs de la réalité en soi. Elles constituent des inscriptions matérielles complexes qui incorporent les biais de codage, les conventions de programmation, les sélections de bases de données et les infrastructures matérielles de l'institution qui a construit l'outil.
+Le score peut fournir un élément d’information. Mais sa signification dépend des données utilisées, de la population sur laquelle le système a été évalué, de la définition du résultat prédit et des conditions dans lesquelles l’estimation est mobilisée.
 
----
+Une confusion apparaît si le score est traité comme une propriété intrinsèque et permanente de la personne, ou si sa valeur est présentée comme une preuve suffisante pour déterminer une décision judiciaire.
 
-Le régime computationnel adaptatif (R9.3)
+Il faut distinguer :
 
-Pour auditer l'intelligence artificielle, l'enquêteur de Protokin doit d'abord identifier et cartographier les contours immanents de sa structure de premier ordre : le régime computationnel adaptatif (R9.3).
+- l’estimation produite par le système ;
+- les éléments empiriques qui permettent d’évaluer cette estimation ;
+- l’interprétation de sa pertinence pour une personne et une situation déterminées ;
+- les critères juridiques applicables à la décision ;
+- les raisons permettant de défendre la décision et de la soumettre à la contradiction.
 
-A. Son objet propre
+Le passage du score à une décision ne constitue pas une simple lecture du résultat. Il suppose des choix sur la pertinence des données, la portée du risque estimé, les critères applicables et les conséquences que l’institution entend tirer de l’évaluation.
 
-Le régime IA porte exclusivement sur :
+Le score ne devient pas une caractéristique naturelle de la personne du seul fait qu’il est exprimé numériquement. Il ne constitue pas non plus, à lui seul, une justification juridique.
 
-· Les modèles d'apprentissage statistique.
-· Les réseaux artificiels de neurones et d'attention.
-· Les systèmes de classification de données à grande échelle.
-· Les agents computationnels et génératifs de jetons symboliques.
+L’examen doit porter sur le résultat, les conditions de sa production, son interprétation et les règles qui encadrent la décision. Il doit aussi permettre d’identifier les personnes et les institutions responsables de l’usage du système.
 
-B. Ses types d'inférences
+Ce cas n’établit pas que tout score de risque est dépourvu de pertinence. Il montre que la pertinence d’un résultat statistique et la justification d’une décision judiciaire constituent deux questions distinctes.
 
-Les enchaînements logiques propres à ce régime se structurent autour de :
+## Les supports matériels et les choix de conception
 
-· L'optimisation statistique : Ajuster les paramètres du modèle pour minimiser une fonction de coût face à des anomalies.
-· La reconnaissance de motifs : Prélever et regrouper des micro-différences au sein de larges volumes de données (PROTO) qui échappent aux capacités sensorielles de l'organisme humain.
-· La généralisation prédictive : Formuler une anticipation de probabilité d'état d'une variable à partir de régularités historiques enregistrées.
+Les résultats d’un système d’intelligence artificielle dépendent de conditions matérielles et de choix qui ne sont pas toujours visibles au moment de leur utilisation.
 
-C. Ses supports d'inscription
+Selon le système, il peut être nécessaire d’examiner :
 
-Le régime R9.3 s'ancre dans des infrastructures matérielles extrêmement denses et coûteuses :
+- les données d’entraînement ou les données utilisées en fonctionnement ;
+- la manière dont les catégories et les variables ont été définies ;
+- les objectifs d’optimisation et les métriques d’évaluation ;
+- les procédures de collecte, de sélection et de traitement des données ;
+- les conditions techniques et institutionnelles de déploiement ;
+- les modifications apportées au système et les modalités de suivi de ses résultats.
 
-· Les bases de données d'entraînement (corpus de textes, images, mesures physiques).
-· Les serveurs de calcul, les processeurs graphiques et les centres de données (supports d'inscription externes et infrastructures techniques).
-· Les bibliothèques de code logiciel et les standards de programmation informatique (supports institutionnels et matériels).
+Ces éléments peuvent affecter ce que le système repère, les erreurs qu’il produit et les usages auxquels ses résultats se prêtent. Ils ne doivent pas être invoqués comme une explication automatique de toute erreur particulière : leur rôle doit être examiné à partir des éléments disponibles.
 
-D. Sa limite interne fondamentale
+La matérialité du système ne se réduit pas à ses serveurs ou à ses composants. Les catégories retenues, les choix de conception, les procédures d’évaluation et les règles d’utilisation contribuent également aux conditions dans lesquelles ses résultats prennent une fonction.
 
-Ce régime excelle dans l'explication et la manipulation prédictive des corrélations. Cependant, il rencontre une limite interne infranchissable : il ne dispose d'aucune ressource immanente pour assumer la responsabilité déontique de ses productions sémiotiques. Un algorithme peut générer la phrase « Le patient présente une urgence vitale de gravité 1 » (description de premier ordre), mais il ne s'engage pas par cette assertion, ne subit aucune dette de scorekeeping, ne contracte aucune obligation morale et ne peut être tenu pour pénalement responsable de la décision de soin. Il simule la prédication ; il ignore l'engagement.
+Il importe donc de ne pas présenter le résultat comme s’il apparaissait sans médiation, mais aussi de ne pas supposer que la seule identification de ses conditions de production suffit à l’invalider.
 
----
+## Qui répond de l’usage du résultat ?
 
-Le frottement des régimes : les pathologies de l'IA
+La responsabilité ne se déduit pas directement du mode de calcul. Elle doit être examinée à partir des rôles effectivement exercés dans la conception, le déploiement, l’interprétation et l’utilisation du système.
 
-La configuration de l'intelligence artificielle est le lieu de télescopages massifs entre plusieurs espaces de justifications hétérogènes. L'audit protokinien s'attache à dépister et à corriger trois pathologies majeures :
+Selon les situations, plusieurs acteurs peuvent intervenir : concepteurs, fournisseurs de données, responsables du déploiement, professionnels utilisateurs, institutions qui fixent les règles d’emploi et personnes qui prennent les décisions finales.
 
-1. La réduction causaliste ou "Algorithme souverain"
+Leur contribution n’est pas nécessairement identique. Il faut examiner qui a choisi les critères, qui pouvait connaître les limites du système, qui avait la possibilité de vérifier le résultat, qui disposait du pouvoir de décision et quelles obligations s’appliquaient à chacun.
 
-Cette dérive consiste à affirmer que, parce qu'un modèle d'intelligence artificielle (R9.3) possède une puissance prédictive ou d'optimisation statistique supérieure sur des données physiques (PROTO), ses décisions s'imposent de manière exclusive pour trancher des statuts normatifs, juridiques ou éthiques (KIN).
+Cette analyse évite deux conclusions trop rapides.
 
-· Exemple d'audit : L'affirmation « L'algorithme d'évaluation du risque de récidive a qualifié cette personne de "dangerosité de niveau 4", donc il est scientifiquement prouvé qu'elle doit rester incarcérée ».
-· Le diagnostic : L'audit met au jour une réduction causaliste qui aplatit l'imputation juridique de l'espace des raisons (KIN) sous un calcul de corrélation statistique de l'espace des causes (PROTO). Elle montre que le modèle prétendument neutre occulte la responsabilité du collectif humain qui a sélectionné les critères de codage et les données historiques d'entraînement du système.
+La première consisterait à attribuer au système, du seul fait qu’il produit un résultat, l’ensemble des responsabilités liées à la décision. La seconde consisterait à considérer que la présence d’un système computationnel dispense les personnes et les institutions de répondre de leurs choix.
 
-2. Le fétichisme du modèle (La réification instrumentale)
+La responsabilité doit être rapportée aux rôles, aux pouvoirs, aux connaissances accessibles et aux règles applicables. Elle ne peut être distribuée correctement qu’après examen de la situation concrète.
 
-Elle consiste à traiter les invariants générés par l'intelligence artificielle (comme des profils d'utilisateurs, des scores de crédit ou des indices de déviance) comme s'il s'agissait de propriétés naturelles ou d'essences biologiques intrinsèques à l'individu, en effaçant l'épaisseur de ses supports instrumentaux et de ses conditions de programmation.
+Cette question ne se confond pas avec celle de savoir si un système peut être décrit comme agent, ni avec celle de savoir si ses productions sont utiles. L’analyse des usages et des responsabilités ne suffit pas à trancher toutes les questions relatives à l’agentivité artificielle.
 
-· Le coût sémantique : Cette erreur de catégorie naturalise des statuts déontiques et relationnels révisables, bloquant l'enquête et produisant des "zones de silence" systématiques sur le vécu somatique ou social de l'agent.
+## Comment conduire l’examen ?
 
-3. La confusion de niveau entre corrélation et justification
+Face à une difficulté impliquant un système d’intelligence artificielle, l’enquête peut être orientée par les questions suivantes :
 
-Elle survient lorsqu'un collectif traite une simple association probabiliste d'images ou de jetons linguistiques produits par une IA comme s'il s'agissait d'une assertion pleinement justifiée au sein d'un régime scientifique, égarant ainsi le collectif d'enquête.
+1. **Délimiter le problème.** Quel résultat, quelle interprétation ou quelle décision est contesté ?
+2. **Identifier les éléments disponibles.** Quelles données, traces, informations techniques et observations permettent d’examiner la situation ?
+3. **Distinguer les fonctions.** Que produit le système, qu’en déduit l’utilisateur et quelle décision est prise ?
+4. **Examiner les relations.** Comment le résultat est-il relié à la situation, aux autres informations et aux critères applicables ?
+5. **Évaluer la portée.** Qu’est-ce que les éléments disponibles permettent d’établir, et quelles conclusions dépasseraient leur portée ?
+6. **Examiner la justification et la responsabilité.** Quelles raisons soutiennent la décision, qui doit pouvoir y répondre et quelles possibilités de contestation ou de révision existent ?
 
-· L'invalidation inférentielle : L'IA associe des signes par proximité statistique dans son corpus (PROTO) ; elle ne maîtrise pas la rationalité des engagements et des incompatibilités logiques d'un réseau d'inférences (KIN). Confondre la ressemblance sémiotique de surface avec la cohérence d'une justification discursive brise le jeu des raisons.
+Ces questions ne constituent pas une procédure universelle ni une suite obligatoire d’étapes. Leur ordre dépend de la difficulté rencontrée. L’enquête peut conduire à revenir sur le problème initial, à rechercher des informations supplémentaires ou à réviser la distinction sur laquelle reposait l’analyse.
 
----
+Les quatre orientations de la quadripartition peuvent aider à différencier les questions en jeu : les conditions matérielles et institutionnelles, les relations entre les éléments, les fonctions exercées dans la pratique et les justifications mobilisées. Elles ne constituent ni quatre composantes du système ni quatre phases obligatoires de l’examen.
 
-Le protocole d'audit de l'IA en cinq étapes d'enquête
+## Ce que le cas permet d’établir — et ce qu’il n’établit pas
 
-Pour conduire l'audit d'une situation de trouble impliquant des systèmes d'intelligence artificielle, l'enquêteur de Protokin exécute la séquence méthodique suivante :
+L’étude permet de dégager plusieurs distinctions utiles.
 
-```
-               SÉQUENCE D'AUDIT CLINIQUE DE L'IA
-                               │
-                               ▼
-       Étape 1 : Saisie de l'énoncé de l'IA et isolation du trouble
-                               │
-                               ▼
-       Étape 2 : Explicitation des supports matériels et des biais
-                               │
-                               ▼
-       Étape 3 : Cartographie de l'écart Corrélation / Justification
-                               │
-                               ▼
-       Étape 4 : Invalidation de l'hégémonie (Diagnostic de réduction)
-                               │
-                               ▼
-       Étape 5 : Exigence de connecteurs de traduction et de responsabilité
-```
+- Un résultat computationnel ne se confond pas avec l’interprétation qui en est faite.
+- Une performance mesurée ne garantit pas l’adéquation de chaque résultat à une situation particulière.
+- Un score ou une classification ne constitue pas automatiquement une propriété intrinsèque de la personne concernée.
+- La pertinence d’un résultat pour une tâche ne suffit pas à justifier toutes les décisions prises à partir de ce résultat.
+- L’identification des conditions de production d’une sortie ne suffit ni à la valider ni à l’invalider.
+- L’utilisation d’un système ne supprime pas la nécessité d’examiner les rôles, les critères et les responsabilités des acteurs concernés.
 
-Étape 1 : Saisie de l'énoncé de l'IA et isolation du trouble
+Ces distinctions ne permettent pas de conclure que tous les systèmes d’intelligence artificielle fonctionnent de la même manière, qu’ils sont incapables de produire des résultats pertinents ou que leurs usages doivent être acceptés ou rejetés en bloc.
 
-L'enquêteur isole la qualification problématique ou la prédiction formulée par l'algorithme au sein de la situation de terrain (par exemple, un algorithme d'admissibilité de triage aux urgences hospitalières).
+Elles ne tranchent pas davantage, à elles seules, la question de la conscience ou de l’agentivité artificielle. Pour les besoins de cette étude, il suffit de distinguer la production d’un résultat, la fonction qu’il prend dans une pratique et les conditions dans lesquelles les conclusions tirées de son usage peuvent être défendues.
 
-· Question d'audit : Quelle est la description litigieuse produite par la machine et quel blocage de coordination impose-t-elle au collectif ?
+## Articulation avec Protokin
 
-Étape 2 : Explicitation des supports matériels et des biais de codage
+Cette étude de cas met à l’épreuve plusieurs distinctions de Protokin sans les transformer en théorie générale de l’intelligence artificielle.
 
-L'enquêteur déconstruit l'apparence d'immédiateté et de neutralité absolue de la prédiction. Il remonte aux infrastructures physiques, aux choix des bases de données d'entraînement et aux conventions de programmation qui configurent l'outil.
+Elle mobilise notamment :
 
-· Question d'audit : Quelles infrastructures de données et quelles sélections catégorielles d'amont ont été matérialisées dans l'appareil de calcul pour produire cette trace ?
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md), pour situer les opérations mobilisables face à une difficulté descriptive ;
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md), pour différencier les questions relatives aux conditions, aux relations, aux fonctions et aux justifications ;
+- [Une première cartographie des régimes descriptifs](fr/une-premiere-cartographie-des-regimes-descriptifs.md), pour identifier les manières de décrire mobilisées dans une situation ;
+- [Explication](fr/explication.md), pour distinguer la production d’un phénomène, l’interprétation d’un résultat et la justification d’une conclusion ;
+- [Assertion](fr/assertion.md) et [Inférence](fr/inference.md), pour examiner les engagements et les conséquences associés aux affirmations produites ou reprises par les utilisateurs ;
+- [Justification](fr/justification.md), pour examiner les raisons permettant de défendre ou de contester une conclusion.
 
-Étape 3 : Cartographie de l'écart Corrélation / Justification
+Ces renvois désignent des ressources spécialisées ; ils ne signifient pas que chaque analyse de l’IA doive mobiliser toutes ces notions.
 
-L'analyste trace la frontière entre l'association computationnelle de jetons symboliques (R9.3) et le réseau d'engagements inférentiels requis par le régime d'accueil (par exemple, le diagnostic clinique du médecin).
+L’étude ne constitue pas une nouvelle architecture du projet. Elle montre comment une difficulté liée à l’usage de systèmes computationnels peut être délimitée, examinée et révisée sans confondre les résultats du système, les descriptions qui les reprennent et les décisions qui en découlent.
 
-· Question d'audit : La machine dispose-t-elle des habilitations normatives pour soutenir les conséquences pratiques de sa prédiction, ou produit-elle une simple corrélation statistique sans espace de raisons ?
+## Synthèse
 
-Étape 4 : Invalidation de l'hégémonie (Diagnostic de réduction)
+L’intelligence artificielle constitue un cas particulièrement utile pour examiner les relations entre calcul, description, interprétation et décision. Les systèmes peuvent produire des résultats pertinents et transformer les pratiques dans lesquelles ils sont utilisés. La portée de ces résultats dépend cependant de la tâche, des données, des conditions d’emploi et des conclusions qu’on leur fait soutenir.
 
-L'auditeur prononce le diagnostic d'erreur de catégorie ou de réduction abusive si l'institution tente d'imposer les métriques de la machine pour annuler ou disqualifier l'autonomie de juridiction des décisions normatives et humaines de premier ordre.
+L’enjeu n’est ni d’attribuer automatiquement une autorité aux résultats computationnels, ni de les disqualifier du seul fait de leur origine technique. Il consiste à déterminer ce qu’ils permettent d’établir, comment ils interviennent dans une pratique et quelles raisons soutiennent les conclusions et les décisions qui en découlent.
 
-· Question d'audit : L'usage de l'algorithme sert-il à esquiver la redevabilité publique du locuteur et à masquer les responsabilités déontiques sous un déterminisme technique ?
-
-Étape 5 : Exigence de connecteurs de traduction et de responsabilité
-
-L'audit suspend l'évaluation automatique pour exiger la réintégration d'un locuteur humain responsable. Il formule les règles de traduction explicites par lesquelles la prédiction de la machine (PROTO) est convertie de manière médiatisée en indice d'action, sous l'évaluation et la signature d'un médecin ou d'un expert habilité (KIN).
-
----
-
-Éclairage par les fils rouges de Protokin
-
-L'armature critique de Protokin face à l'intelligence artificielle s'éprouve directement à travers nos situations de référence :
-
-1. Le patient aux urgences hospitalières
-
-Dans une unité de triage aux urgences, l'introduction d'une intelligence artificielle d'aide au diagnostic (R9.3) modifie profondément l'organisation :
-
-· L'opération : L'IA analyse en temps réel les constantes physiologiques issues des scopes (ECG, tension, saturation, plan PROTO). À partir de corrélations statistiques entraînées sur des millions d'historiques de dossiers de premier ordre, elle qualifie l'état d'un patient en « Urgence de gravité 1 : Risque d'arrêt cardiaque imminent ».
-· L'audit : L'audit protokinien démontre que cette phrase est une inscription sémiotique très puissante pour orienter l'attention. Mais elle ne devient valide que lorsque le médecin urgentiste ou l'infirmière de tri endosse cette prédiction, l'interprète à la lumière de la détresse subjective vécue du malade (image manifeste, plan KIN) et prend la responsabilité déontique d'activer le bloc de déchocage. Si l'administration de l'hôpital utilise le score statistique de l'IA pour récuser ou refuser automatiquement l'admission d'un malade sous prétexte de "non-rentabilité algorithmique", elle commet une confusion de niveau destructive qui élimine la redevabilité clinique au profit d'un fétichisme de l'outil.
-
-2. « Cette personne est dangereuse »
-
-La qualification de dangerosité sécuritaire est aujourd'hui fréquemment confiée à des algorithmes d'intelligence artificielle prédictive de récidive :
-
-· L'analyse : L'algorithme calcule un score de risque de récidive en corrélant des antécédents, des données démographiques et des historiques de signalements (plan PROTO).
-· Le diagnostic d'erreur : Traiter ce score statistique comme s'il s'agissait d'une caractéristique biologique permanente ou d'une preuve de culpabilité intrinsèque de la personne constitue une erreur de catégorie majeure. L'audit protokinien suspend ce verrouillage en rappelant que le score de l'IA n'est qu'un invariant computationnel de premier ordre révisable. Il exige que la décision de liberté ou d'incarcération (imputation normative) reste du domaine exclusif du magistrat et du juge, au sein d'une procédure de justification contradictoire et publique (espace des raisons, KIN) où l'agent peut répondre de ses actes.
-
----
-
-Limites et vigilances d'audit : les pièges méthodologiques
-
-Lors de la conduite de cet audit de second ordre, l'enquêteur de Protokin applique trois points de vigilance stricts face au diagnostic de l'IA :
-
-· Le dogme du technophobisme (L'illusion de l'incommensurabilité) : Croire que, parce que l'IA n'occupe pas elle-même un espace de raisons normatif, ses productions discursives sont de pures fictions inutiles ou dangereuses qu'il conviendrait de proscrire de nos enquêtes collectives. L'audit protokinien n'est pas un tribunal moralisateur : il reconnaît la puissance d'intervention, d'extension et d'organisation exceptionnelle des modèles computationnels (R9.3) et s'attache à concevoir des traductions réglées pour en exploiter la force sans céder sur la souveraineté de nos justifications éthiques.
-· La dérive psychologisante de l'esprit artificiel : Attribuer à l'IA des intentions d'agir, des biais cognitifs individuels, une conscience ou des croyances subjectives privées. L'IA n'est pas une "personne" mauvaise ou biaisée : elle est une infrastructure technique matérielle complexe de premier ordre, dont les dysfonctionnements résultent des sélections normatives et des choix collectifs de l'institution qui l'a programmée et stabilisée.
-· L'aveuglement face à la dimension située de la métathéorie : Oublier que l'auditeur Protokin qui évalue l'intelligence artificielle n'occupe pas lui-même un point de vue absolu de nulle part, mais formule ses critiques depuis une position descriptive située, s'appuyant sur des supports de second ordre (gabarits, lexiques) révisables.
-
----
-
-Synthèse finale
-
-Ce que cette page établit
-
-Le cas d'étude de l'intelligence artificielle en tant que modèle d'application clinique de l'audit de second ordre, formalisant les conditions de coexistence, les pathologies de relation sémantique (réduction, confusion, réification) et les protocoles de traduction réglementée entre le régime computationnel adaptatif (R9.3) et les régimes cliniques, moraux ou juridiques de l'espace des raisons.
-
-Ce qu'elle suppose
-
-La distinction fondamentale entre l'espace des causes (PROTO) et l'espace des raisons (KIN), la dualité de l'image manifeste et de l'image scientifique, les concepts d'enquête, d'assertion, d'engagement et de responsabilité normative.
-
-Ce qu'elle rend possible
-
-La conduite méthodique de l'audit des algorithmes au sein des institutions, l'évaluation critique de la puissance descriptive comparative de nos outils de calcul, et la formalisation d'une écologie des régimes descriptifs libérée de la tentation d'une réduction technologique ou d'une abdication de l'agentivité humaine.
-
-Séquence d'individuation établie
-
-Données physiques et corpus (PROTO) → Régime Computationnel Adaptatif (R9.3) → Inscriptions prédictives
-↓
-Médiation et signature du Locuteur Humain → Espace des Raisons (KIN) → Engagements déontiques valides
-
----
-
-Protokin 2026 — version 26.08.081
+**Un résultat computationnel peut contribuer à une décision sans suffire, à lui seul, à la justifier.**
