@@ -1,107 +1,102 @@
-# Enquête
+# Problème descriptif
 
 ## Fonction
 
-L’enquête désigne la reprise réflexive d’une pratique descriptive lorsque les ressources qu’elle mobilise ne suffisent plus à traiter une difficulté rencontrée.
+Cette page définit le problème descriptif comme la difficulté qui rend nécessaire l’examen des ressources mobilisées dans une pratique descriptive.
 
-Elle consiste à examiner ce qui fait problème, les distinctions et les relations engagées, ainsi que les raisons et les critères permettant de soutenir, de contester ou de réviser les descriptions produites.
+Elle précise ce qui distingue un problème descriptif d’une simple différence entre descriptions, d’un diagnostic déjà formulé ou d’une solution envisagée.
 
-Cette page précise le statut de l’enquête dans Protokin. Elle ne décrit ni l’ensemble de ses opérations ni une méthode pratique à appliquer systématiquement.
+## Définition
 
-## Problème
+Un **problème descriptif** apparaît lorsque les descriptions, les distinctions, les catégories, les relations ou les critères disponibles ne suffisent plus à traiter une question de manière suffisamment déterminée ou défendable.
 
-Une pratique peut mobiliser des descriptions, des catégories et des critères sans devoir expliciter constamment leur fonctionnement. Ces ressources permettent généralement de poursuivre l’activité.
+Cette insuffisance peut concerner ce qui est distingué, la manière dont une catégorie s’applique, les rapports entre plusieurs descriptions, la portée d’une conclusion ou les raisons avancées pour la soutenir.
 
-L’enquête devient pertinente lorsque leur usage ne suffit plus à traiter une difficulté. Une distinction peut ne plus permettre de différencier certains cas ; une catégorie peut être contestée ; plusieurs descriptions peuvent sembler incompatibles ; une conclusion peut ne plus être suffisamment justifiée.
+Le problème ne réside donc pas nécessairement dans une description fausse ou mal formulée. Il peut tenir à l’impossibilité de déterminer ce qu’une description permet d’établir, à l’incertitude concernant ses rapports avec d’autres descriptions ou à l’insuffisance des critères employés pour l’évaluer.
 
-Ces difficultés ne prouvent pas, à elles seules, que la description utilisée est fausse ou que les ressources existantes doivent être abandonnées. Elles rendent nécessaire un examen plus précis de ce qui est en jeu.
+Le problème descriptif désigne ainsi une difficulté à examiner, non une erreur déjà démontrée.
 
-Le problème descriptif déclenche et oriente l’enquête sans en déterminer d’avance le résultat. La nature exacte de la difficulté, les réponses envisageables et les critères de leur évaluation restent à examiner.
+## Quand une difficulté devient-elle un problème descriptif ?
 
-## Définition : reprendre une pratique
+Toute différence, incertitude ou contestation ne constitue pas en elle-même un problème descriptif.
 
-L’enquête est une activité d’examen dans laquelle les opérations descriptives d’une pratique deviennent elles-mêmes pertinentes pour traiter un problème.
+Plusieurs descriptions peuvent porter sur un même référent tout en répondant à des questions différentes. Elles n’ont pas nécessairement à être ramenées à une formulation unique. De même, une différence de vocabulaire ne suffit pas à établir une contradiction.
 
-Dans l’activité ordinaire, une distinction peut servir à classer des cas, une catégorie à qualifier une situation ou un critère à soutenir une décision. Lorsqu’une difficulté apparaît, l’enquête peut conduire à examiner la fonction de cette distinction, les conditions d’application de cette catégorie ou la pertinence du critère mobilisé.
+Une difficulté devient pertinente pour l’enquête lorsque les ressources disponibles ne permettent plus de déterminer ce que les descriptions autorisent à soutenir, comment leurs conclusions se rapportent les unes aux autres ou selon quels critères elles peuvent être défendues.
 
-On peut distinguer, à titre fonctionnel :
+Cela peut notamment se produire :
 
-- **L’activité descriptive** : mobiliser des descriptions, des catégories, des relations et des critères pour décrire, comparer, interpréter ou agir.
-- **L’enquête** : examiner certaines de ces ressources lorsque leur fonctionnement, leur portée ou leur justification devient problématique.
+- lorsqu’une distinction ne permet plus de différencier des cas pertinents ;
+- lorsqu’une catégorie s’applique difficilement à une situation nouvelle ou à un cas limite ;
+- lorsque les rapports entre plusieurs descriptions restent indéterminés ;
+- lorsqu’une description ne répond plus aux exigences de la pratique dans laquelle elle est mobilisée ;
+- lorsque les raisons ou les critères avancés ne suffisent plus à défendre une conclusion ;
+- lorsqu’une réponse obtenue sous un rapport est utilisée comme si elle réglait une question relevant d’un autre rapport.
 
-Cette distinction entre premier et second ordre ne désigne pas deux niveaux de réalité. Elle différencie deux fonctions : employer des ressources descriptives et prendre certaines d’entre elles pour objet d’examen.
+Ces formes ne constituent ni une classification exhaustive ni des types mutuellement exclusifs. Plusieurs peuvent intervenir dans une même difficulté, et leur pertinence doit être établie à partir de la situation examinée.
 
-L’enquête ne suppose pas que toute pratique doive expliciter en permanence ses propres opérations. Cette reprise devient pertinente lorsqu’une difficulté la justifie.
+## Distinguer le problème de son diagnostic
 
-## Une enquête orientée, non une procédure universelle
+Identifier un problème descriptif ne revient pas encore à déterminer précisément ce qui l’explique ni comment le résoudre.
 
-Protokin fournit plusieurs ressources pour organiser l’examen d’une difficulté.
+Il faut distinguer :
 
-L’[architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) présente les opérations principales :
+- **Le problème** : la difficulté qui ne peut plus être traitée de manière satisfaisante avec les ressources disponibles.
+- **Le diagnostic** : l’interprétation qui précise la nature de cette difficulté.
+- **Les réponses possibles** : les descriptions, distinctions ou modifications susceptibles de la traiter.
+- **Les critères d’évaluation** : les éléments qui permettent d’examiner ces réponses et d’en apprécier la portée.
+- **Le résultat de l’enquête** : ce qui peut finalement être soutenu, avec les limites et les incertitudes qui demeurent.
 
-**Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter**
+Ces fonctions sont liées, mais elles ne se confondent pas. Un diagnostic peut être contesté, une réponse peut ne pas résoudre le problème et les critères d’évaluation peuvent eux-mêmes nécessiter un examen.
 
-Cette chaîne constitue un repère fonctionnel, non une succession obligatoire d’étapes. Les opérations pertinentes dépendent du problème rencontré. Elles peuvent être combinées, reprises ou réordonnées ; certaines peuvent ne pas être nécessaires dans une enquête particulière.
+Le problème oriente l’enquête sans contenir déjà son diagnostic ni sa solution.
 
-La [quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) distingue quatre orientations de l’examen : Condition, Relation, Fonction et Justification. Elle permet de différencier les questions posées sans diviser la situation en quatre composantes ni imposer une hiérarchie entre elles.
+## Exemple discriminant : une catégorie et un cas limite
 
-La chaîne et la quadripartition remplissent ainsi des fonctions distinctes : la première organise les opérations possibles ; la seconde aide à orienter les questions examinées. Ni l’une ni l’autre ne garantit les conclusions de l’enquête.
+Une catégorie permet habituellement de classer des situations et de guider une décision. Un nouveau cas apparaît, mais les critères disponibles ne permettent pas de déterminer clairement s’il relève de cette catégorie.
 
-## Dépendances et non-conversion
+La seule nouveauté du cas ne suffit pas à constituer un problème descriptif. La difficulté devient pertinente lorsque la pratique doit décider comment le traiter et que les ressources disponibles ne permettent pas de défendre cette décision.
 
-Une enquête peut examiner les conditions dans lesquelles une difficulté apparaît, les relations pertinentes, les fonctions exercées par les descriptions et les raisons de maintenir ou de réviser les conclusions.
+Plusieurs possibilités restent alors ouvertes : les critères peuvent être insuffisamment précis, la catégorie peut avoir une portée plus limitée que prévu, ou le cas peut exiger une distinction supplémentaire. Il est également possible que les informations disponibles ne permettent pas de trancher.
 
-Ces questions peuvent dépendre les unes des autres sans être interchangeables. Il faut donc éviter de traiter une réponse obtenue sous un rapport comme une réponse suffisante sous un autre.
+Le problème est identifiable avant que l’une de ces interprétations soit retenue. L’examen doit déterminer laquelle est soutenable et dans quelles limites.
 
-Le principe directeur de Protokin est le suivant :
+## Ce que le problème descriptif n’établit pas
 
-**Continuité des dépendances, discontinuité des fonctions, non-conversion.**
+L’identification d’un problème descriptif ne prouve pas :
 
-Il implique notamment de ne pas confondre :
+- que la description examinée est fausse ;
+- que plusieurs descriptions sont incompatibles ;
+- qu’une catégorie ou un critère doit nécessairement être abandonné ;
+- qu’une description unique doit remplacer les descriptions existantes ;
+- que les éléments disponibles permettront de parvenir à une conclusion définitive.
 
-- une condition avec un critère ;
-- une cause avec une raison ;
-- la genèse d’une description avec sa justification ;
-- la fonction d’une description avec son adéquation ;
-- la cohérence d’une description avec la preuve qu’elle convient à ce qu’elle prétend décrire.
+Elle ne permet pas non plus de confondre les différentes questions soulevées par une difficulté. Une condition matérielle peut contraindre une pratique sans justifier une conclusion ; une cause peut expliquer l’apparition d’une description sans constituer une raison de la maintenir ; la cohérence d’une description ne suffit pas à établir son adéquation à ce qu’elle prétend décrire.
 
-L’enquête cherche à expliciter les passages entre ces questions et à examiner ce qui les autorise. Elle ne présuppose ni que les dimensions étudiées soient indépendantes ni qu’elles puissent être réduites les unes aux autres.
+Enfin, un problème descriptif ne provient pas nécessairement du langage seul. Il peut apparaître dans une pratique matérielle, technique, sociale ou institutionnelle lorsque les descriptions et les critères disponibles ne suffisent plus à traiter une situation. Les relations entre ces conditions et la difficulté rencontrée doivent être examinées, non présupposées.
 
-## Résultats et limites
+## Du problème à l’enquête
 
-Une enquête peut conduire à préciser un problème, à conserver ou à modifier une distinction, à réexaminer un critère, à comparer plusieurs descriptions ou à reconnaître que les éléments disponibles ne permettent pas de trancher.
+Le problème descriptif fournit un point de départ provisoire. Pour devenir examinable, il faut préciser ce qui fait difficulté, dans quelle pratique elle apparaît et ce qui reste indéterminé ou contestable.
 
-Son résultat peut donc être partiel. Il importe de distinguer ce qui a été établi, ce qui reste hypothétique et ce qui demeure indéterminé.
+Cette formulation initiale peut être révisée. L’examen peut révéler que le problème a été trop largement défini, qu’une distinction importante manque ou que la difficulté concerne une autre question que celle qui avait d’abord été identifiée.
 
-L’enquête ne garantit pas :
+La [quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) permet de différencier les questions relatives aux conditions, aux relations, aux fonctions et aux justifications. L’[architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) présente les opérations susceptibles d’être mobilisées pour examiner la difficulté et reprendre sa formulation.
 
-- que toute difficulté possède une solution définitive ;
-- que les descriptions en présence soient nécessairement compatibles ou incompatibles ;
-- que la pratique doive être transformée dans son ensemble ;
-- que la cohérence d’une description suffise à établir son adéquation ;
-- que l’application des ressources de Protokin assure automatiquement la validité des conclusions.
-
-Elle ne confère pas non plus à l’enquêteur un point de vue extérieur et infaillible sur la pratique examinée. Les distinctions, les critères et les instruments mobilisés par l’enquête peuvent eux-mêmes être interrogés.
-
-L’enquête peut s’arrêter provisoirement lorsque les résultats sont suffisamment défendables au regard du problème et de l’objectif poursuivi, et que les limites restantes sont explicitées. Cet arrêt ne signifie ni que toutes les questions connexes sont résolues ni qu’aucune reprise ultérieure ne sera nécessaire.
-
-## Articulation avec les autres ressources
-
-Les pages suivantes développent des fonctions distinctes :
-
-- [Problème descriptif](fr/probleme-descriptif.md) — préciser la difficulté qui rend un examen nécessaire ;
-- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — présenter les opérations, leurs dépendances et leurs possibilités de reprise ;
-- [La chaîne principale de l’enquête](fr/la-chaine-principale-de-l-enquete.md) — préciser la fonction des huit opérations de référence ;
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — distinguer les quatre orientations de l’examen ;
-- [Conduire une enquête](fr/conduire-une-enquete.md) — proposer des repères pratiques pour examiner une difficulté ;
-- [Une première cartographie des régimes descriptifs](fr/une-premiere-cartographie-des-regimes-descriptifs.md) — fournir des repères indicatifs pour identifier et comparer des manières d’organiser les descriptions.
-
-Ces ressources ne constituent pas les étapes d’une procédure unique. Elles peuvent être mobilisées selon la question à traiter.
+Ces ressources ne constituent pas des étapes obligatoires de résolution. Leur mobilisation dépend du problème effectivement rencontré et des examens qu’il rend pertinents.
 
 ## Synthèse
 
-L’enquête commence lorsqu’une difficulté rend nécessaire l’examen de certaines ressources d’une pratique descriptive. Elle permet de préciser le problème, d’interroger les distinctions et les critères mobilisés, puis d’évaluer ce que les réponses proposées permettent effectivement de soutenir.
+Le problème descriptif est une difficulté qui rend nécessaire l’examen des ressources par lesquelles une pratique décrit, distingue, relie ou justifie.
 
-Elle constitue une reprise réflexive, non une procédure universelle ni une garantie de résolution. Son organisation reste révisable, ses conclusions proportionnées aux éléments disponibles et ses propres instruments susceptibles d’être examinés.
+Il ne se confond ni avec une erreur démontrée, ni avec un désaccord entre descriptions, ni avec le diagnostic ou la solution qui pourraient lui être apportés.
 
-Protokin organise ainsi l’enquête sur les pratiques descriptives sans prétendre fournir une description ultime du monde ni déterminer à l’avance les résultats de l’examen.
+**Le problème déclenche et oriente l’enquête ; il n’en détermine pas à l’avance les catégories, les réponses ni les conclusions.**
+
+## Pour poursuivre
+
+- [Introduction générale](fr/introduction-generale.md)
+- [Enquête](fr/enquete.md)
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
+- [Une première cartographie des régimes descriptifs](fr/une-premiere-cartographie-des-regimes-descriptifs.md)
