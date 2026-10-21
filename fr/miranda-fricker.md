@@ -1,192 +1,135 @@
-# Page : miranda-fricker.md
+# Miranda Fricker — Injustice épistémique et participation au savoir
 
-Miranda Fricker — Les asymétries de participation et les pathologies sémantiques de l'espace des raisons
+## Fonction
 
-Analyse architecturale de la page
+Cette page examine l’apport de Miranda Fricker à Protokin. Elle présente les notions d’injustice testimoniale et d’injustice herméneutique, puis précise ce que leur mobilisation permet d’étudier dans les pratiques descriptives : les asymétries de crédibilité, les inégalités d’accès aux ressources interprétatives et les obstacles à la participation aux processus de description et de justification.
 
-1. Fonction unique de la page
+Il ne s’agit ni de résumer l’ensemble de la philosophie de Fricker ni de lui attribuer par anticipation les développements propres à Protokin. L’enjeu est de distinguer son apport initial des prolongements que le projet peut en tirer.
 
-Cette page existe pour présenter et formaliser l'héritage philosophique de Miranda Fricker au sein de Protokin, en explicitant comment son analyse des injustices épistémiques (testimoniales et herméneutiques) fournit à la métathéorie ses opérateurs critiques de second ordre pour auditer les asymétries de participation, de reconnaissance et de sédimentation documentaire au sein de l'espace des raisons.
+## 1. Problème
 
-2. Choix du mode de développement
+Les pratiques de connaissance ne dépendent pas seulement de la qualité des informations disponibles ou de la correction des raisonnements. Elles dépendent aussi des conditions dans lesquelles une personne peut être entendue, reconnue comme interlocutrice et contribuer aux ressources à partir desquelles une situation devient intelligible.
 
-· Mode retenu : Mode A — Développement conceptuel.
-· Justification : L'apport de Fricker doit être modélisé non pas comme un résumé doxographique ou une exégèse passive, mais comme une ressource conceptuelle de second ordre, précisant la fonction critique de la redevabilité collective et de la justice sémantique face aux pathologies de fermeture catégorielle.
+Deux difficultés doivent être distinguées.
 
-3. Problème conceptuel
+Un témoignage peut être formulé et compris, mais recevoir moins de crédibilité qu’il ne le mérite en raison d’un préjugé portant sur l’identité du locuteur. Une expérience peut aussi être difficile à interpréter ou à communiquer faute de ressources conceptuelles collectives suffisamment disponibles.
 
-Comment identifier, caractériser et redresser les exclusions sémantiques et les disqualifications testimoniales subies par des groupes de locuteurs sans les réduire à de simples fautes morales ou psychologiques individuelles de premier ordre, et de quelle manière les asymétries de ressources et de supports d'inscription s'instituent-elles structurellement au sein de nos configurations descriptives d'accès au milieu ?
+Ces difficultés ne sont pas équivalentes. Dans le premier cas, une parole est disqualifiée dans l’évaluation qui lui est accordée. Dans le second, les ressources nécessaires à l’interprétation d’une expérience sont insuffisantes ou inégalement accessibles.
 
-4. Objet propre
+L’analyse de Miranda Fricker fournit des outils pour examiner ces deux formes d’injustice sans les réduire à une simple erreur individuelle ni les confondre avec toute difficulté de compréhension.
 
-· Cette page traite de : l'intégration métathéorique du legs de Miranda Fricker ; la redéfinition de l'injustice testimoniale et de l'injustice herméneutique en tant que pathologies structurelles des configurations descriptives et de leurs supports d'inscription ; la genèse des déficits de recevabilité et des déficits sémantiques ; le rôle des asymétries de sédimentation documentaire.
-· Cette page ne traite pas de : la psychologie individuelle des préjugés d'acteurs ; une sociologie empirique ou ethnographique descriptive des dominations de premier ordre ; la théorie politique substantive de la justice redistributive ; l'établissement technique d'aval des briques de premier ordre comme injustice-epistemique.md ou injustice-hermeneutique.md.
+## 2. Deux formes d’injustice épistémique
 
-5. Statut conceptuel
+### 2.1. L’injustice testimoniale
 
-Il s'agit d'une fiche d'auteur et d'un héritage philosophique de second ordre, appartenant à la section 10 — Héritages philosophiques.
+Dans *Epistemic Injustice: Power and the Ethics of Knowing* (2007), Miranda Fricker analyse l’injustice testimoniale comme une injustice qui survient lorsqu’un préjugé identitaire conduit à accorder à une personne moins de crédibilité que son témoignage ne le mérite.
 
-6. Dépendances fonctionnelles
+La difficulté ne consiste donc pas simplement à constater qu’un témoignage est contesté ou qu’une affirmation est jugée fausse. Elle concerne la manière dont la crédibilité est attribuée, notamment lorsque l’identité sociale du locuteur infléchit cette évaluation.
 
-Cette page suppose :
+Pour Protokin, cette analyse invite à examiner les conditions concrètes dans lesquelles une assertion est reçue, évaluée et éventuellement écartée. Il faut notamment distinguer les objections portant sur son contenu de celles qui tiennent au statut attribué à la personne qui parle.
 
-· L'Introduction générale (introduction-generale.md).
-· La baseline du projet (protokin-en-une-phrase.md).
-· La page d'orientation générale de la section (10-heritages-philosophiques.md).
-· Les briques d'accès aux supports (support-descriptif.md).
+Une différence de crédibilité n’établit cependant pas, à elle seule, l’existence d’une injustice. Il faut examiner les raisons de cette différence, les préjugés éventuellement à l’œuvre et la crédibilité que le témoignage mérite dans la situation considérée.
 
-Cette page rend possible :
+### 2.2. L’injustice herméneutique
 
-· L'explicitation et l'évaluation critique des briques de la section 09 (injustice-epistemique.md, injustice-hermeneutique.md, ecologie-des-regimes-descriptifs.md).
-· L'outillage diagnostique de second ordre pour l'audit des pathologies d'asymétrie de participation au sein de la méthode (08-methode-protokin.md).
+Fricker analyse l’injustice herméneutique comme un désavantage structurel affectant certaines personnes lorsqu’elles ne disposent pas, à égalité avec d’autres, des ressources interprétatives collectives nécessaires pour rendre intelligible une expérience sociale importante.
 
-7. Frontières conceptuelles
+La difficulté ne se situe pas nécessairement dans l’évaluation d’un témoignage déjà formulé. Elle peut concerner les ressources disponibles pour identifier, qualifier ou communiquer une expérience.
 
-Héritage frickerien (Section 10) et Concepts d'Injustice Épistémique / Herméneutique (Section 09)
+Une personne peut éprouver une difficulté réelle sans disposer d’un vocabulaire partagé qui permette de la caractériser de façon intelligible pour elle-même et pour autrui. L’absence de ressources appropriées peut alors limiter sa participation à l’interprétation collective de la situation.
 
-La différence s'établit selon la distinction de provenance et d'établissement. L'héritage frickerien (Section 10) est la ressource philosophique d'amont, analysée rétroactivement pour en dégager sa fonction d'élucidation. Les concepts d'injustice épistémique (injustice-epistemique.md) et d'injustice herméneutique (injustice-hermeneutique.md) de la section 09 constituent l'établissement théorique d'aval de premier et second ordre au sein du système, s'intégrant directement au diagnostic d'audit d'une situation de crise.
+Cette analyse ne suppose pas que l’expérience serait d’abord entièrement constituée, puis simplement traduite en mots. Elle permet plutôt d’examiner les relations entre l’expérience, les ressources interprétatives disponibles et les conditions sociales de leur élaboration.
 
-Héritage frickerien (Section 10) et Limite interne d'un régime (Section 05)
+Il ne suffit toutefois pas de constater qu’un concept manque ou qu’une expérience est difficile à exprimer pour conclure à une injustice herméneutique. Il faut examiner le désavantage en cause et son rapport aux conditions inégales de participation à la production et à l’usage des ressources interprétatives.
 
-La limite interne (Section 05) désigne le point de saturation logique et d'épuisement catégoriel objectif d'un régime face à des butoirs physiques ou sémantiques. L'injustice collective (Section 09), éclairée par Fricker, désigne une exclusion sélective et asymétrique, liée à la monopolisation du dépôt sédimentaire par un groupe, occultant les expériences d'un autre pour prémunir le régime dominant contre l'auto-correction.
+## 3. Apport pour Protokin
 
-8. Architecture locale
+Les analyses de Fricker invitent Protokin à examiner les conditions sociales et pratiques dans lesquelles les descriptions peuvent être formulées, entendues, interprétées et contestées.
 
-```
-               09 — RÉFLEXIVITÉ (injustice-epistemique.md, injustice-hermeneutique.md)
-                                 ▲
-                                 │ (Dépendance fonctionnelle d'aval)
-                 Fiche : Miranda Fricker (miranda-fricker.md)
-                                 ▲
-                                 │ (Reconstruction rétroactive d'amont)
-           10 — HÉRITAGES PHILOSOPHIQUES (10-heritages-philosophiques.md)
-```
+Elles permettent notamment de poser trois questions :
 
----
+- **Crédibilité :** les témoignages sont-ils évalués selon des raisons pertinentes, ou des préjugés liés à l’identité du locuteur influencent-ils leur réception ?
+- **Ressources interprétatives :** les personnes concernées disposent-elles de ressources suffisamment accessibles pour qualifier leur expérience et contribuer à son interprétation ?
+- **Participation :** qui peut contribuer à l’élaboration, à l’usage et à la révision des catégories mobilisées pour décrire une situation ?
 
-Cartouche fonctionnel
+Ces questions peuvent conduire à examiner les règles institutionnelles, les procédures d’évaluation, les supports documentaires, les apprentissages et les catégories disponibles. Ces éléments ne constituent pas une explication universelle de toute injustice épistémique. Leur pertinence doit être établie dans chaque situation.
 
-Élément Description
-Section 10 — Héritages philosophiques
-Fichier miranda-fricker.md
-Fonction Établir l'apport conceptuel de Miranda Fricker, notamment l'intégration des concepts d'injustice testimoniale et herméneutique sous forme de pathologies structurelles d'asymétrie de participation.
-Prépare L'explicitation d'aval des briques d'Injustice Épistémique, d'Injustice Herméneutique, et les grilles cliniques de la méthode d'audit.
-Mobilise La redevabilité discursive (KIN), l'évaluation du scorekeeping déontique, les supports d'inscription et la sédimentation historique.
-Permet ensuite De repérer les zones de silence, de lever les exclusions sémantiques et de restaurer la plasticité de co-régulation au sein d'une écologie des régimes.
-N'établit pas La théorie psychologique des préjugés d'acteurs, la sociologie empirique de la domination, ni l'éthique de premier ordre.
+Le prolongement proposé par Protokin consiste ainsi à rendre examinables les relations entre les descriptions produites, les ressources qui les rendent possibles et les conditions dans lesquelles elles peuvent être reprises, contestées ou révisées.
 
----
+## 4. Exemple : une plainte dans un service hospitalier
 
-Problème conceptuel inaugural
+Une personne signale une douleur et décrit des symptômes qui l’inquiètent. Son témoignage est écarté au motif qu’elle paraît confuse ou qu’elle s’exprime difficilement.
 
-L'espace des raisons (plan KIN) n'est pas un éther logique neutre, transparent et symétrique au sein duquel les assertions circuleraient de manière parfaitement fluide et égalitaire. Puisque toute description et tout régime de justification s'adossent à des infrastructures matérielles, des échelles collectives, des cadres d'apprentissage et des processus d'institutionnalisation, l'accès à la parole légitime et aux ressources d'explicitation s'avère fondamentalement asymétrique. Les théories classiques de la connaissance ou la sociologie de premier ordre appréhendent fréquemment les exclusions commises dans le domaine du savoir — comme le fait d'ignorer le témoignage d'un agent ou de disqualifier sa plainte douloureuse — comme des préjugés individuels subjectifs, des vices intellectuels ou des dérives de pouvoir purement contingents.
+L’analyse doit distinguer plusieurs questions.
 
-Dès lors, la question s'impose :
+D’abord, le contenu du témoignage : que rapporte la personne, et quels éléments permettent d’examiner ce qu’elle décrit ? Ensuite, son évaluation : les raisons de lui accorder ou de lui refuser du crédit sont-elles pertinentes, ou son statut et les préjugés qui lui sont associés interviennent-ils indûment ? Enfin, les ressources disponibles : les catégories et les procédures utilisées permettent-elles de rendre compte de son expérience, ou certaines dimensions restent-elles difficiles à exprimer et à prendre en charge ?
 
-Comment identifier, caractériser et évaluer de manière immanente les disqualifications et les exclusions au sein d'une communauté de locuteurs sans réduire le problème à des fautes morales ou cognitives individuelles, de manière à ce que l'injustice apparaisse comme une pathologie relationnelle des architectures descriptives elles-mêmes ?
+Si la parole est minorée en raison d’un préjugé identitaire, l’analyse de l’injustice testimoniale peut être pertinente. Si les ressources interprétatives collectives ne permettent pas de rendre intelligible une expérience importante, la question de l’injustice herméneutique peut se poser.
 
-Protokin résout cette aporie fondamentale en mobilisant et en reconstruisant rationnellement l'héritage de Miranda Fricker (notamment à partir de son ouvrage Epistemic Injustice, 2007). La métathéorie s'approprie ses analyses pour poser que l'injustice collective n'est pas le produit d'un vice de l'esprit, mais un dysfonctionnement structurel des cadres de dicibilité et de leurs supports d'inscription. L'injustice se produit lorsque les catégories, critères de correction et rituels d'évaluation d'un régime saturent l'espace des raisons et condamnent activement certaines descriptions à l'invisibilité, créant des zones de silence protectrices pour le régime dominant au détriment de l'auto-correction et de l'émancipation collective.
+Ces deux difficultés peuvent coexister, mais l’une ne démontre pas automatiquement l’autre. Une procédure inadaptée, un manque d’information, une erreur de jugement et une injustice épistémique ne sont pas des descriptions interchangeables de la situation.
 
----
+L’examen peut également porter sur les formulaires, les critères de tri, les conditions de transmission de l’information et les possibilités de révision d’une première évaluation. Leur rôle doit être établi à partir de la pratique étudiée : la présence d’un support ou d’une procédure ne suffit pas à démontrer qu’il produit une exclusion.
 
-Définition fonctionnelle de l'héritage frickerien
+Cet exemple montre comment l’apport de Fricker peut orienter une enquête sans déterminer à l’avance son diagnostic.
 
-Dans l'architecture de Protokin, l'héritage de Miranda Fricker désigne :
+## 5. Ce que Protokin peut en prolonger
 
-La ressource théorique et critique de second ordre qui fournit à la métathéorie les concepts d'injustice testimoniale et d'injustice herméneutique reconfigurés en tant que pathologies structurelles des architectures descriptives, afin d'identifier les asymétries de participation au dépôt sédimentaire des catégories, de repérer les zones de silence et d'armer l'enquêteur pour restaurer la plasticité de l'espace des raisons.
+La contribution de Fricker peut être mobilisée pour étudier les asymétries qui affectent la participation aux pratiques de connaissance. Protokin peut prolonger cette analyse en examinant plus explicitement les conditions matérielles, documentaires, institutionnelles et catégorielles qui contribuent à ces asymétries.
 
-De cette définition se dégagent trois fonctions d'élucidation majeures :
+Ce prolongement demande néanmoins de distinguer plusieurs questions.
 
-· Un opérateur d'analyse des asymétries de recevabilité (L'audit de crédibilité) : Il permet d'identifier comment le score déontique de crédibilité d'un locuteur est diminué asymétriquement par l'institution, traitant son assertion de premier ordre comme un bruit physique ou somatique (plan PROTO) plutôt que comme une raison justifiable (plan KIN).
-· Un diagnostiqueur de déficit catégoriel (La levée des zones de silence) : Il révèle le silence sémantique subi par une communauté dont l'expérience d'oppression ou de trouble (plan PROTO) ne dispose d'aucun concept stabilisé ni d'aucun canal d'inscription dans la configuration descriptive partagée (plan KIN).
-· Une exigence de co-régulation symétrique (L'écologie des régimes) : Il interdit à la métathéorie de surplomber les savoirs de terrain, imposant de restituer aux acteurs l'autonomie et les supports nécessaires pour qu'ils mènent eux-mêmes leur propre enquête d'auto-émancipation.
+**Les conditions matérielles** peuvent faciliter ou entraver l’accès à une information, à une inscription ou à une procédure. Elles n’expliquent pas à elles seules le statut accordé à un témoignage.
 
----
+**Les catégories descriptives** rendent certaines distinctions disponibles et peuvent en laisser d’autres difficiles à formuler. Toute lacune catégorielle ne constitue pas nécessairement une injustice : il faut établir le désavantage qu’elle produit et les conditions de participation qui lui sont associées.
 
-Les deux piliers de l'injustice collective intégrés par Protokin
+**Les institutions** peuvent stabiliser des critères et organiser l’accès aux ressources de justification. Leur fonctionnement doit être examiné concrètement ; leur seule existence ne prouve ni une fermeture systématique ni une intention d’exclusion.
 
-L'héritage de Fricker est reconstruit de manière fonctionnelle autour des deux grandes morphologies d'injustice, dont Protokin explicite les ressorts matériels et sédimentaires :
+**Les supports d’inscription** peuvent conserver, diffuser ou rendre consultables certaines descriptions. Leur distribution inégale peut contribuer à des asymétries, mais la conservation d’une trace ne garantit ni sa reconnaissance ni son interprétation adéquate.
 
-1. L'injustice testimoniale structurelle
+Ces prolongements ne doivent pas être attribués directement à Fricker lorsqu’ils correspondent à des développements spécifiques de Protokin. Ils constituent des hypothèses d’analyse à examiner dans les pratiques concernées.
 
-Chez Fricker, l'injustice testimoniale (testimonial injustice) se produit lorsqu'un préjudice diminue le degré de crédibilité attribué à la parole d'un locuteur lors d'un échange de premier ordre. Protokin s'approprie cette notion en la dépouillant de son habillage psychologique pour en révéler le mécanisme structural au sein de la comptabilité déontique (scorekeeping) :
+## 6. Distinctions et limites
 
-· La relégation causaliste (Le passage au PROTO) : L'injustice testimoniale structurelle se produit lorsque le régime d'évaluation dominant refuse d'accorder une recevabilité aux énoncés d'un locuteur, traitant sa parole non comme une assertion engageant des raisons (plan KIN), mais comme une simple perturbation matérielle, une réaction biologique ou un comportement d'agitation brute (plan PROTO).
-· L'exclusion des positions épistémiques : L'auditeur de second ordre démontre que cette disqualification ne repose pas sur la fausseté ou l'incohérence logique de la description formulée, mais sur l'asymétrie de statut de la position occupée par l'agent, dont la voix est jugée d'amont illégitime à contracter des engagements ou à mobiliser des justifications.
+L’usage de cet héritage exige de préserver plusieurs distinctions.
 
-2. L'injustice herméneutique structurelle
+- **Injustice testimoniale ≠ désaccord :** contester une affirmation ne constitue pas en soi une injustice testimoniale.
+- **Crédibilité ≠ vérité :** accorder ou refuser du crédit à une personne ne suffit pas à établir la vérité ou la fausseté de son témoignage.
+- **Injustice herméneutique ≠ absence de vocabulaire :** une lacune conceptuelle ne suffit pas à établir un désavantage structurel injuste.
+- **Difficulté descriptive ≠ injustice épistémique :** toute limite d’un régime ou toute erreur d’interprétation n’est pas une injustice.
+- **Explication structurelle ≠ absence de responsabilité individuelle :** examiner des règles et des dispositifs n’exclut pas d’étudier les actes et les responsabilités des personnes concernées.
+- **Accès aux ressources ≠ participation effective :** disposer d’un document, d’un concept ou d’une procédure ne garantit pas de pouvoir contribuer à leur usage ou à leur révision.
+- **Reconnaissance collective ≠ adéquation descriptive :** une affirmation peut être largement reconnue sans que son adéquation à la situation soit établie.
 
-L'injustice herméneutique (hermeneutical injustice) se produit, selon Fricker, lorsqu'une communauté subit un déficit de ressources d'interprétation collectives, rendant une partie de son expérience vécue inintelligible à elle-même et aux autres. Protokin formalise cette pathologie à travers sa diachronie sédimentaire :
+Ces distinctions permettent d’examiner les asymétries de participation sans conclure que toutes les descriptions se valent, que toutes les contestations sont injustes ou que toute difficulté peut être résolue par l’ajout d’une catégorie ou d’un support.
 
-· Le déficit catégoriel : Le silence sémantique n'est pas un vide neutre ; il résulte d'une exclusion historique dans le processus de sédimentation. Les groupes subordonnés n'ayant pas accès aux supports d'inscription dominants (archives, écrits académiques, textes de lois), leurs éprouvés (plan PROTO) ne sont jamais codifiés sous forme de catégories descriptives d'usage.
-· La création de zones de silence : Faute de concepts stabilisés par la communauté (comme ce fut le cas historique avant la conceptualisation du « harcèlement sexuel »), les victimes de traumatismes sont privées des critères indispensables pour découper, qualifier et justifier leur situation, ce qui immunise le régime hégémonique contre l'auto-correction.
+## 7. Place dans l’enquête de Protokin
 
-```
-               PHÉNOMÈNE DE PREMIER ORDRE (Trouble somatique / social, plan PROTO)
-                                           │
-         ┌─────────────────────────────────┴─────────────────────────────────┐
-         ▼ (Injustice testimoniale)                                          ▼ (Injustice herméneutique)
-L'assertion formulée (KIN)                                          L'éprouvé ne dispose d'aucun
-est reléguée au rang de perturbation                                concept de découpage (KIN),
-physique ou d'agitation somatique (PROTO).                          créant une zone de silence.
-         │                                                                   │
-         ▼                                                                   ▼
-Déficit de recevabilité et de crédibilité.                          Déficit catégoriel et sémantique.
-```
+L’héritage de Fricker devient pertinent lorsque l’enquête rencontre une asymétrie de crédibilité, une difficulté d’interprétation ou une restriction de la participation aux pratiques de connaissance.
 
----
+Selon le problème, l’examen peut porter sur les descriptions formulées, les raisons de leur réception, les catégories disponibles, les supports mobilisés et les conditions dans lesquelles les critères peuvent être contestés ou révisés.
 
-Éclairage par les fils rouges pédagogiques
+Ces dimensions peuvent être étudiées à partir des orientations de la quadripartition — Condition, Relation, Fonction et Justification — sans les transformer en niveaux distincts ni en étapes obligatoires. Le rôle d’un dispositif, l’attribution de crédibilité et la justification d’une conclusion restent des questions différentes, même lorsqu’elles dépendent les unes des autres.
 
-L'utilité clinique de la grille d'audit inspirée de Fricker s'éprouve directement sur nos situations de référence :
+L’analyse de Fricker ne constitue donc ni une méthode complète d’audit ni une garantie de diagnostic. Elle fournit des distinctions qui peuvent aider l’enquête à identifier certaines formes d’exclusion et à déterminer ce qui doit être examiné plus avant.
 
-1. Le patient aux urgences hospitalières
+## Synthèse
 
-Le triage médical est le lieu d'une double injustice testimoniale et herméneutique. Le patient cardiaque ou en détresse respiratoire exprime sa plainte et sa souffrance vécue dans le langage de l'image manifeste.
+L’apport de Miranda Fricker tient à l’analyse de deux formes d’injustice épistémique : l’injustice testimoniale, liée notamment à une attribution injustement diminuée de crédibilité, et l’injustice herméneutique, liée à un désavantage structurel dans l’accès aux ressources collectives d’interprétation.
 
-· Injustice testimoniale : Si le patient est confus, hébété ou issu d'une minorité linguistique, le système hospitalier tend à disqualifier sa parole. Son témoignage est traité comme un simple signal de perturbation, une cause physique brute (« comportement agité », plan PROTO) à calmer chimiquement, plutôt que comme une raison d'urgence vitale à évaluer au sein de l'espace des raisons cliniques (plan KIN).
-· Injustice de support / d'échelle : L'infirmière de tri, s'appuyant sur ses supports incorporés (l'éducation clinique de l'attention), prélève des signes somatiques fins (le pli cutané, l'expression faciale de l'asphyxie). Si l'administration refuse de valider sa qualification d'urgence vitale au motif que celle-ci n'est pas standardisée ou "chiffrée" sur des moniteurs automatiques d'échelle organisationnelle, elle commet une injustice de support qui prive le collectif d'une ressource d'alerte vitale, au profit d'un fétichisme bureaucratique d'indicateurs comptables de lits.
+Pour Protokin, cet héritage invite à examiner les conditions de crédibilité, d’intelligibilité et de participation dans les pratiques descriptives. L’étude des catégories, des supports et des procédures peut prolonger cette analyse, à condition de présenter ces développements comme des propositions propres au projet et de les éprouver dans les situations concernées.
 
-2. Le botaniste et le bûcheron face à l'arbre
+L’enjeu n’est pas de présumer qu’une injustice est présente dès qu’une description est contestée ou qu’une ressource manque. Il est de déterminer comment une asymétrie se forme, quelles conséquences elle produit pour les personnes concernées et quelles raisons permettent de qualifier la situation d’injuste.
 
-Ce cas d'étude illustre l'asymétrie de participation entre le savoir institutionnel certifié et le savoir incorporé localisé :
+## Pour poursuivre
 
-· L'exclusion testimoniale de l'artisan : Le bûcheron possède une mémoire somatique et sensorielle extrêmement dense de la forêt, capable de repérer à l'oreille le son d'un bois sec ou d'anticiper la fragilité d'un tronc à la coupe. Cependant, lors des réunions d'aménagement territorial ou des commissions d'aménagement forestier, ses qualifications sont passées sous silence ou disqualifiées par l'institution au motif qu'elles ne s'appuient pas sur des supports d'inscription certifiés (flores d'université, microscopes, graphiques, image scientifique).
-· L'arbitrage de l'écologie des régimes : Protokin utilise Fricker pour dénoncer cette injustice de crédibilité liée au prestige académique du botaniste. L'audit démontre que l'image manifeste technique de l'artisan et l'image scientifique de l'universitaire possèdent une validité égale dans leurs domaines d'action respectifs. Pour surmonter le butoir du dépérissement climatique de la parcelle, Protokin suspend la domination du botaniste et guide le collectif vers la construction d'un régime hybride de sylviculture écologique par connecteurs de traduction.
+- [Injustice épistémique](fr/injustice-epistemique.md)
+- [Injustice herméneutique](fr/injustice-hermeneutique.md)
+- [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md)
+- [Position épistémique](fr/position-epistemique.md)
+- [Support descriptif](fr/support-descriptif.md)
+- [Justification](fr/justification.md)
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
 
-3. La déconstruction de « Cette personne est mauvaise »
+## Référence principale
 
-L'énoncé ordinaire « Cette personne est mauvaise » est le produit d'une asymétrie herméneutique lourde :
-
-· L'enfermement catégoriel : Si une communauté utilise exclusivement le régime moral ordinaire et binaire ("bon" ou "mauvais") pour qualifier les comportements déviants d'un individu issus de traumatismes ou de déterminismes sociaux lourds, elle lui inflige une injustice herméneutique structurelle.
-· La privation d'explicitation : Faute de vocabulaire alternatif (juridique, psychologique, thérapeutique), l'agent se trouve dans l'incapacité d'articuler son expérience d'amont dans un langage recevable devant ses pairs. La catégorie fige l'individu sous une essence mauvaise intrinsèque immuable (plan PROTO réifié), masquant sa plasticité comportementale future et ses possibilités de réhabilitation, tout en protégeant le collectif de l'effort de sa propre enquête de soin.
-
----
-
-Limites et vigilances d'audit (Pitfalls)
-
-Dans l'explicitation et le maniement de l'héritage de Miranda Fricker, l'enquêteur de second ordre doit observer trois vigilances critiques fondamentales :
-
-· Le piège de la dérive moralisatrice (L'annulation du normatif) : Croire que l'audit de Protokin doit se transformer en un tribunal moral distribuant des condamnations éthiques ou culpabilisant les acteurs individuels. L'objectif de Protokin reste strictement analytique et fonctionnaliste : il s'agit de reconstruire les conditions matérielles, documentaires et catégorielles de l'asymétrie pour réorganiser l'architecture et restaurer la plasticité du système, et non de prononcer des jugements moraux de premier ordre.
-· Le laxisme d'équivalence (L'illusion du relativisme indifférencié) : Interpréter la dénonciation de l'injustice testimoniale comme l'obligation d'accorder une validité et une correction identiques à toutes les assertions formulées, quelles que soient leurs règles d'inférence. Protokin réaffirme que les différents régimes possèdent des contraintes d'interventions légitimes et des exigences de preuve spécifiques (asymétrie de puissance prédictive de la science dans le PROTO). Lutter contre l'injustice ne consiste pas à dissoudre la rigueur des critères dans une hybridation laxiste, mais à garantir l'accès équitable de tous aux ressources de justification et de redevabilité.
-· Le piège de la fétichisation des supports d'inscription : S'imaginer que l'injustice herméneutique se résout de manière magique en créant de nouveaux formulaires, questionnaires ou fichiers standardisés à grande échelle. Au contraire, l'audit de second ordre doit s'assurer que ces nouveaux supports externes ne viennent pas opérer une nouvelle standardisation aplatissant la densité des engagements de premier ordre de la parole vécue.
-
----
-
-Synthèse finale
-
-Ce que cette page établit
-
-L'apport de Miranda Fricker à la métathéorie Protokin en tant que ressource réflexive de second ordre, formalisant la redéfinition des injustices testimoniales et herméneutiques en tant que pathologies structurelles des architectures descriptives (déficits de recevabilité et déficits catégoriels), explicitant le rôle de la sédimentation documentaire asymétrique et fixant les critères critiques d'audit d'asymétrie de participation.
-
-Ce qu'elle suppose
-
-L'Introduction générale (introduction-generale.md), la baseline (protokin-en-une-phrase.md), la page d'orientation générale de la section (10-heritages-philosophiques.md), les concepts de supports descriptifs (support-descriptif.md) et la sédimentation historique.
-
-Ce qu'elle rend possible
-
-L'explicitation ordonnée et autonome des briques critiques d'aval de la section 09 (injustice-epistemique.md, injustice-hermeneutique.md, ecologie-des-regimes-descriptifs.md), l'évaluation synoptique de la compatibilité des régimes face aux butoirs du milieu, et la conduite clinique des audits d'auto-émancipation collective au sein de la méthode (08-methode-protokin.md).
-
----
-
-Protokin 2026 — version 26.08.081
+Fricker, Miranda. *Epistemic Injustice: Power and the Ethics of Knowing*. Oxford University Press, 2007.
