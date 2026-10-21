@@ -221,6 +221,7 @@ Les cas permettent de confronter les distinctions et les opérations à des situ
 - [Géocentrisme](fr/geocentrisme.md) — Examiner la transformation des descriptions et les critères de leur évaluation.
 - [Phlogistique](fr/phlogistique.md) — Examiner la révision d’un cadre descriptif et explicatif.
 - [Urgence hospitalière](fr/urgence-hospitaliere.md) — Examiner les rapports entre contraintes, décisions pratiques et justifications.
+- [Théorie des humeurs](fr/theorie-des-humeurs.md) — Examiner les catégories, les critères et les transformations historiques des pratiques médicales.
 
 ---
 ## VIII. Héritages philosophiques
