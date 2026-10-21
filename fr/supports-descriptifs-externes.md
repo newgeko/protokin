@@ -1,323 +1,193 @@
-# Page : supports-descriptifs-externes.md
-
 # Support descriptif externe
 
-| Fonction | Établir la notion de **support descriptif externe** dans l'architecture de Protokin en tant que dispositif matériel, sémiotique ou technique permettant de conserver, de stabiliser, de transporter, de partager et de réactiver des descriptions au-delà de leur production immédiate. |
-| :--- | :--- |
-| **Prépare** | L'analyse des inscriptions, des archives, des instruments, des infrastructures documentaires, des communautés descriptives, de la mémoire collective et de la circulation des engagements descriptifs. |
-| **Mobilise** | La notion générale de support descriptif, les pratiques descriptives, les supports descriptifs incorporés, la distinction entre PROTO et KIN, ainsi que la matérialité des inscriptions. |
-| **Permet ensuite** | L'étude des documents, des protocoles, des bases de données, des cartes, des schémas, des instruments de mesure, des dossiers administratifs, des archives et de la transmission intergénérationnelle des descriptions. |
-| **N'établit pas** | Une théorie générale de l'écriture, une histoire des techniques documentaires, une sémiotique complète des signes ni une théorie de l'information. |
+## 1. Fonction
 
----
+Cette page examine les ressources externes qui permettent de conserver, de consulter, de transporter ou de reprendre des inscriptions et d’autres ressources descriptives au-delà de leur contexte immédiat de production.
 
-## 1. Problème conceptuel
+Elle précise la notion de **support descriptif externe** et la distingue de l’inscription qu’il accueille, de l’instrument qui peut la produire, de la pratique qui lui donne une fonction et du référent dont une description traite.
 
-Aucune pratique descriptive ne peut reposer exclusivement sur la mémoire des individus.
+Son objet n’est ni de proposer une théorie générale de l’écriture et de l’information, ni de dresser un inventaire exhaustif des technologies documentaires. Il consiste à déterminer ce que des ressources externes rendent possible dans une pratique descriptive et quelles contraintes elles introduisent.
 
-Les descriptions doivent pouvoir être conservées, consultées, corrigées, comparées, transmises et réactivées indépendamment de la présence des locuteurs qui les ont produites.
+## 2. Problème
 
-Une communauté scientifique, une administration, un atelier, une juridiction ou un hôpital ne pourraient maintenir leurs pratiques si chaque description disparaissait avec celui qui l'a formulée.
+Une inscription peut rester disponible après la situation dans laquelle elle a été produite. Elle peut être consultée par d’autres personnes, comparée à de nouvelles observations, transmise à un autre service ou reprise dans une enquête ultérieure.
 
-Le problème est donc le suivant :
+Cette continuité dépend toutefois de conditions précises. Un document doit pouvoir être retrouvé et lu ; un enregistrement doit rester accessible et interprétable ; une base de données suppose des formats, des outils et des règles d’accès. Une ressource peut être conservée sans être consultable, être consultable sans être comprise ou être reprise dans un contexte où elle ne remplit plus la même fonction.
 
-**Comment une description peut-elle persister au-delà de son énonciation, circuler entre différents acteurs et demeurer disponible pour de nouvelles enquêtes ?**
+Le problème est donc de déterminer **comment un support externe rend certaines ressources descriptives disponibles pour des opérations ultérieures, et sous quelles conditions cette disponibilité peut être maintenue**.
 
-Protokin répond à cette question par la notion de **support descriptif externe**.
+La présence d’un document ou d’un dispositif technique ne suffit pas à établir son rôle. Celui-ci dépend des inscriptions qu’il porte, des opérations qu’il permet, des usages qui en sont faits et des conditions dans lesquelles ces usages peuvent être repris.
 
-Le support descriptif externe désigne tout dispositif matériel permettant aux descriptions de survivre à leur contexte immédiat de production.
+## 3. Définition
 
-Il assure la continuité des pratiques descriptives dans le temps, leur diffusion dans l'espace et leur disponibilité pour de nouvelles opérations d'enquête.
+On appelle **support descriptif externe** un dispositif matériel ou technique qui contribue à maintenir, rendre accessible ou permettre la reprise d’une inscription ou d’une autre ressource mobilisée dans une pratique descriptive, au-delà de la situation immédiate où elle a été produite.
 
----
+Il peut s’agir d’un document papier, d’une carte, d’une photographie, d’un enregistrement sonore, d’un fichier, d’une base de données ou d’un dispositif numérique de consultation.
 
-## 2. Définition
+Le terme *externe* indique ici que la ressource est disponible dans un dispositif distinct de la disposition incorporée d’un participant. Il ne signifie pas qu’elle serait indépendante des pratiques, des compétences et des conditions matérielles nécessaires à sa production ou à son interprétation.
 
-Dans l'architecture métathéorique de Protokin, un **support descriptif externe** est :
+Un support peut contribuer à conserver une inscription, à la rendre consultable, à permettre sa duplication ou à faciliter sa comparaison avec d’autres ressources. Il ne remplit pas nécessairement toutes ces fonctions, et celles-ci peuvent être réparties entre plusieurs dispositifs.
 
-> **Un dispositif matériel, sémiotique ou technique permettant de conserver, stabiliser, transporter, partager, consulter, modifier et réactiver des descriptions indépendamment de la présence immédiate de leurs producteurs.**
+La notion désigne donc une fonction à établir dans une pratique, non une catégorie d’objets dont le rôle serait fixé par leur seule forme matérielle ou technique.
 
-Le support descriptif externe ne produit pas lui-même les descriptions.
+## 4. Distinctions avec les notions voisines
 
-Il rend leur maintien possible.
+### 4.1. Support externe et inscription
 
-Il constitue la mémoire objectivée des pratiques descriptives.
+L’inscription rend une différence disponible sous une forme susceptible d’être conservée ou reprise. Le support contribue aux conditions matérielles ou techniques de cette disponibilité.
 
-Les livres, cartes, formulaires, photographies, dossiers médicaux, plans, bases de données, logiciels, archives, diagrammes ou carnets de terrain appartiennent à cette catégorie.
+Une mesure peut être inscrite dans un fichier, conservée sur un serveur et affichée par un logiciel. L’inscription, sa conservation et sa présentation sont liées, mais ne sont pas identiques.
 
----
+Le même dispositif peut remplir plusieurs de ces fonctions. Il reste néanmoins nécessaire de distinguer ce qui a été enregistré, les conditions de conservation de l’enregistrement et les opérations qui permettent de le consulter ou de l’interpréter.
 
-## 3. Distinctions conceptuelles
+L’existence d’une inscription ne garantit pas qu’elle puisse être retrouvée, comprise ou utilisée correctement.
 
-### Support descriptif externe et support descriptif incorporé
+### 4.2. Support externe et support incorporé
 
-Le support descriptif incorporé correspond aux dispositions acquises par les participants d'une pratique.
+Un support descriptif incorporé concerne des dispositions acquises qui permettent à un participant de reconnaître, de discriminer ou de traiter certaines différences dans une pratique.
 
-Le support descriptif externe correspond aux inscriptions matérielles qui permettent de conserver ces descriptions au-delà de l'activité immédiate.
+Un support descriptif externe rend disponibles des ressources sous une forme matérielle ou technique susceptible d’être conservée et reprise.
 
-Les deux formes de support sont complémentaires.
+Ces fonctions peuvent se soutenir mutuellement. L’interprétation d’une carte suppose des compétences acquises ; ces compétences peuvent être développées et corrigées grâce à la consultation de cartes, de mesures ou de documents. Il ne s’agit ni de deux modes exclusifs ni de deux étapes successives.
 
-Un protocole médical ne remplace pas l'expérience clinique.
+Voir [Supports descriptifs incorporés](fr/supports-descriptifs-incorpores.md).
 
-Inversement, une compétence clinique ne dispense pas de produire un dossier médical.
+### 4.3. Support externe et instrument
 
----
+Un instrument peut produire une inscription sans assurer lui-même sa conservation durable. Un capteur peut enregistrer une mesure dans un système qui la stocke ; un appareil d’imagerie peut produire un fichier ensuite transféré dans un dossier.
 
-### Support descriptif externe et objet décrit
+Inversement, un support peut conserver une ressource produite par un autre dispositif ou par une observation directe.
 
-Il est essentiel de distinguer le support descriptif de l'objet auquel il se rapporte.
+Il faut donc examiner la fonction effectivement remplie. Un instrument n’est pas automatiquement un support descriptif externe ; il peut le devenir lorsqu’il contribue à maintenir ou à rendre accessible une ressource descriptive.
 
-Une carte n'est pas le territoire.
+### 4.4. Support externe et référent
 
-Un dossier médical n'est pas le patient.
+Le support ne se confond pas avec ce dont une description parle. Une carte n’est pas le territoire ; un dossier n’est pas la personne qu’il concerne ; une photographie n’est pas la situation photographiée.
 
-Un plan d'architecture n'est pas le bâtiment.
+Cette distinction n’implique pas que le support soit sans effet sur la pratique ou sur la situation décrite. Le choix d’un format, les possibilités d’enregistrement ou les catégories disponibles peuvent orienter ce qui est conservé et ce qui devient accessible pour une enquête ultérieure.
 
-Le support ne reproduit pas l'objet.
+Il faut toutefois distinguer ces effets de la description produite et du référent auquel elle se rapporte. Le support ne reproduit pas nécessairement toutes les caractéristiques de la situation, et sa seule présence ne permet pas d’établir l’adéquation de la description.
 
-Il stabilise une description de celui-ci.
+### 4.5. Support externe et support institutionnel
 
----
+Un support externe peut être utilisé dans une institution sans que sa fonction propre se confonde avec l’organisation institutionnelle.
 
-### Support descriptif externe et instrument
+Un dossier numérique peut conserver des informations ; les règles de l’établissement déterminent, par ailleurs, qui peut les consulter, les modifier ou en répondre. Le dispositif technique et les règles collectives peuvent dépendre l’un de l’autre, mais ils ne remplissent pas la même fonction.
 
-Certains instruments produisent directement des inscriptions.
+L’analyse des responsabilités, des procédures, de la validation et de la révision collectives relève des [supports descriptifs institutionnels](supports-descriptifs-institutionnels.md).
 
-D'autres ne le font pas.
+## 5. Fonctions possibles
 
-Un microscope, un scanner, un capteur météorologique ou un électrocardiographe deviennent des supports descriptifs externes lorsqu'ils produisent des traces mobilisables dans une pratique collective.
+Les fonctions suivantes sont des repères d’analyse, non une classification exhaustive. Elles peuvent être réunies dans un même dispositif ou réparties entre plusieurs.
 
-L'instrument n'est donc pas automatiquement un support descriptif.
+### 5.1. Conserver et retrouver
 
-Il le devient lorsqu'il participe effectivement à la production ou à la conservation d'une description.
+Un support peut maintenir une inscription au-delà de sa production et permettre de la retrouver ultérieurement.
 
----
+Cette fonction dépend notamment de la qualité de la conservation, du classement, de l’indexation et des moyens d’accès. Une ressource conservée peut être perdue dans un ensemble documentaire, altérée ou devenue illisible.
 
-### Support descriptif externe et mémoire collective
+### 5.2. Transporter et partager
 
-La mémoire collective d'une communauté ne se réduit pas aux supports matériels.
+Un support peut rendre une ressource disponible à des personnes qui ne l’ont pas produite ou qui ne se trouvent pas dans le même contexte.
 
-Elle comprend également les pratiques, les traditions, les compétences incorporées et les institutions.
+La circulation rend possible une reprise à distance ou différée, mais elle ne garantit ni une compréhension identique ni le maintien de la fonction initiale de la ressource. Le contexte de production, les conventions d’enregistrement et les conditions d’interprétation peuvent être nécessaires à son usage.
 
-Les supports descriptifs externes constituent l'une des composantes de cette mémoire sans l'épuiser.
+### 5.3. Comparer et réviser
 
----
+Un support peut rendre accessibles plusieurs inscriptions, des versions antérieures ou des séries de mesures. Il peut ainsi faciliter la comparaison, la détection de différences et la reprise d’une description.
 
-## 4. Les principales formes de supports descriptifs externes
+La possibilité technique de comparer ou de modifier des données ne garantit toutefois ni la pertinence de la comparaison ni la justification de la correction. Ces opérations dépendent des critères retenus et du problème examiné.
 
-### 4.1 Les inscriptions textuelles
+### 5.4. Contraindre les opérations disponibles
 
-Les textes demeurent la forme la plus classique.
+Les formats et les dispositifs de consultation ne rendent pas toutes les opérations également possibles. Un formulaire peut limiter les valeurs enregistrables ; un logiciel peut privilégier certains modes de recherche ; un format devenu obsolète peut empêcher l’ouverture d’un fichier.
 
-Ils comprennent notamment :
+Ces contraintes doivent être établies à partir du fonctionnement effectif du dispositif. Elles ne déterminent pas mécaniquement toutes les descriptions produites, mais elles peuvent limiter les ressources accessibles ou rendre certaines reprises plus difficiles.
 
-- livres ;
-- rapports ;
-- articles scientifiques ;
-- procès-verbaux ;
-- règlements ;
-- carnets de terrain ;
-- dossiers administratifs.
+## 6. Exemple discriminant : une série de mesures environnementales
 
-Ils permettent une stabilisation relativement durable des descriptions.
+Une équipe relève régulièrement la température et l’humidité d’un bâtiment. Les mesures sont enregistrées dans des fichiers, regroupées dans une base de données et représentées sous forme de graphiques.
 
----
+Le capteur contribue à produire les mesures ; les fichiers en conservent les inscriptions ; la base permet de les retrouver et de les comparer ; les graphiques rendent certaines variations plus visibles. Les compétences des participants et les critères de l’enquête interviennent dans l’interprétation de ces ressources.
 
-### 4.2 Les représentations graphiques
+Si une mesure est absente du fichier, son absence ne prouve pas que le phénomène correspondant ne s’est pas produit. Si une série présente une variation régulière, cette régularité ne suffit pas à en établir la cause. Si un ancien fichier ne peut plus être ouvert, la conservation physique du support de stockage ne garantit pas que son contenu demeure accessible.
 
-Certaines descriptions prennent la forme de représentations visuelles.
+L’examen doit distinguer les mesures produites, les inscriptions conservées, les opérations rendues possibles par les dispositifs et les conclusions tirées des données. Il doit également établir quelles informations ont été perdues, rendues inaccessibles ou exclues par le format employé.
 
-On trouve notamment :
+Cet exemple montre que les supports externes peuvent rendre des ressources disponibles pour une enquête tout en conditionnant les possibilités de leur reprise. Il ne permet pas de conclure, à lui seul, à la fiabilité des mesures ni à la validité des descriptions qui en résultent.
 
-- cartes ;
-- schémas ;
-- diagrammes ;
-- plans ;
-- graphiques ;
-- coupes anatomiques ;
-- arbres taxonomiques.
+## 7. Limites et non-conversions
 
-Ces dispositifs rendent perceptibles certaines relations difficilement exprimables par le seul langage linéaire.
+L’analyse des supports descriptifs externes appelle plusieurs distinctions :
 
----
+- **inscription ≠ support** : le contenu enregistré et le dispositif qui en permet la conservation ne remplissent pas la même fonction ;
+- **conservation ≠ intégrité** : une ressource conservée peut être incomplète, altérée ou privée d’informations nécessaires à son interprétation ;
+- **disponibilité ≠ accessibilité effective** : une ressource peut exister sans pouvoir être retrouvée, ouverte ou consultée dans les conditions requises ;
+- **accessibilité ≠ compréhension** : consulter une inscription ne garantit pas de pouvoir l’interpréter ;
+- **format ≠ description** : les possibilités du dispositif influencent les inscriptions disponibles sans déterminer mécaniquement la description produite ;
+- **comparabilité technique ≠ pertinence de la comparaison** : la possibilité de mettre deux données en regard ne garantit pas qu’elles soient comparables pour le problème considéré ;
+- **persistance ≠ validité** : la conservation ou la circulation durable d’une description ne suffit pas à établir son adéquation à ce qu’elle prétend décrire.
 
-### 4.3 Les enregistrements techniques
+Les supports peuvent également devenir difficiles à utiliser lorsque les formats, les logiciels ou les conventions changent. La continuité de l’accès dépend alors de ressources supplémentaires : documentation, outils compatibles, procédures de migration ou connaissances permettant de réinterpréter les inscriptions.
 
-Les dispositifs contemporains produisent de nombreuses inscriptions automatiques.
+Ces difficultés n’impliquent pas que tout support doive conserver indéfiniment toutes les informations. Elles invitent à examiner ce qui doit être maintenu au regard de la pratique, des usages attendus et des conséquences d’une perte ou d’une transformation.
 
-Il peut s'agir :
+Enfin, une description peut être pertinente sans être conservée dans un support durable. Le support externe n’est donc ni une condition universelle de toute description ni une garantie de sa qualité.
 
-- d'images médicales ;
-- d'enregistrements sonores ;
-- de photographies ;
-- de vidéos ;
-- de mesures instrumentales ;
-- de journaux d'événements informatiques.
+## 8. Articulation avec l’enquête de Protokin
 
-Ces supports permettent la réanalyse ultérieure d'une situation.
+La notion devient pertinente lorsque le problème porte sur la conservation, l’accès, la circulation, la comparaison ou la reprise de ressources descriptives externes.
 
----
+La quadripartition permet de différencier les questions que leur examen peut soulever :
 
-### 4.4 Les infrastructures numériques
+- **Condition** : quelles contraintes matérielles ou techniques affectent la conservation et l’accès ?
+- **Relation** : de quels dispositifs, formats, compétences ou ressources dépend la reprise ?
+- **Fonction** : quelles opérations le support permet-il effectivement, et lesquelles rend-il difficiles ?
+- **Justification** : que permettent d’établir les inscriptions disponibles, selon quels critères et avec quelles limites ?
 
-Les bases de données, systèmes d'information, plateformes collaboratives, dossiers numériques et logiciels de gestion constituent aujourd'hui une catégorie majeure.
+Ces orientations ne forment ni une liste de propriétés que tout support posséderait ni une procédure à suivre dans un ordre fixe. Leur pertinence dépend de la difficulté rencontrée.
 
-Ils permettent :
+L’examen d’un support externe contribue à l’enquête sans remplacer l’analyse de la description, du régime descriptif mobilisé, des critères de justification ou des responsabilités institutionnelles.
 
-- l'indexation ;
-- la recherche ;
-- la synchronisation ;
-- la diffusion ;
-- la conservation ;
-- la mise à jour des descriptions.
+## 9. Portée de la notion
 
-Ils prolongent les capacités documentaires des communautés descriptives.
+### Ce qu’elle permet d’établir
 
----
+La notion de support descriptif externe permet d’identifier la contribution de dispositifs matériels ou techniques à la conservation, à l’accès et à la reprise de ressources descriptives.
 
-## 5. Illustrations
+Elle permet d’examiner les conditions dans lesquelles ces ressources restent disponibles, les opérations qu’elles facilitent et les contraintes qu’elles introduisent.
 
-### Le dossier médical
+### Ce qu’elle suggère
 
-Le dossier médical conserve les observations produites par plusieurs professionnels.
+Elle invite à examiner les supports non comme de simples contenants neutres, mais comme des dispositifs dont les formats, les possibilités d’accès et les conditions de conservation peuvent influer sur les ressources disponibles pour une pratique.
 
-Il permet la continuité des soins malgré la succession des intervenants.
+Elle suggère également que la reprise d’une inscription peut exiger de préserver ou de reconstruire des informations contextuelles, des conventions et des compétences d’interprétation.
 
-Le dossier ne soigne pas le patient.
+Ces propositions doivent être éprouvées dans les pratiques considérées. Elles ne signifient pas que le support détermine à lui seul la description.
 
-Il stabilise les descriptions nécessaires aux décisions futures.
+### Ce qu’elle n’établit pas
 
----
+La notion ne fournit pas une théorie générale de l’écriture, de l’archive, de l’information ou des infrastructures numériques.
 
-### Le carnet du botaniste
+Elle n’établit pas que les ressources conservées soient exactes, que les inscriptions soient comprises de la même manière par tous les participants, ni que les conclusions tirées de ces ressources soient justifiées.
 
-Le botaniste consigne ses observations dans un carnet.
+Elle ne suppose pas non plus que les supports incorporés, externes et institutionnels forment des étapes successives. Leurs relations doivent être établies à partir de la pratique et du problème examinés.
 
-Les annotations, dessins, localisations et classifications permettent à d'autres chercheurs de reprendre l'enquête plusieurs années plus tard.
+## Synthèse
 
-Le carnet devient ainsi un support descriptif partagé.
+Un support descriptif externe contribue à rendre des inscriptions ou d’autres ressources descriptives disponibles au-delà de leur contexte immédiat de production. Il peut en faciliter la conservation, l’accès, la circulation, la comparaison et la reprise, tout en introduisant des contraintes liées à ses formats, à son fonctionnement et à ses conditions d’accès.
 
----
+Son rôle ne se déduit pas de sa seule présence ni de sa forme matérielle. Il doit être établi à partir des opérations qu’il permet effectivement et des conditions nécessaires à l’utilisation des ressources qu’il porte.
 
-### La carte topographique
-
-La carte permet d'orienter des actions futures.
-
-Elle ne reproduit pas le territoire.
-
-Elle sélectionne certaines différences pertinentes pour une pratique déterminée.
-
-Elle constitue une description stabilisée de l'espace.
-
----
-
-### La base de données scientifique
-
-Les observations produites par plusieurs laboratoires sont regroupées dans une base commune.
-
-Les chercheurs peuvent alors comparer, vérifier, compléter ou corriger leurs descriptions.
-
-La base de données devient une infrastructure collective de l'enquête.
-
----
-
-## 6. Place dans l'architecture
-
-Les supports descriptifs externes prolongent les compétences incorporées en objectivant les descriptions.
-
-```text
-Couplage perception-action (PROTO)
-        ↓
-Supports descriptifs incorporés
-        ↓
-Production de descriptions
-        ↓
-Supports descriptifs externes
-        ↓
-Circulation et conservation
-        ↓
-Pratiques descriptives collectives
-        ↓
-Position épistémique (KIN)
-```
-
-Ils permettent aux communautés descriptives de maintenir leurs engagements au-delà des individus particuliers.
-
-Les descriptions deviennent consultables, comparables, discutables et révisables dans la durée.
-
----
-
-## 7. Vigilances d'audit
-
-L'audit protokinien identifie plusieurs dérives.
-
-### Réification documentaire
-
-Une erreur fréquente consiste à traiter le document comme s'il était l'objet lui-même.
-
-Le support descriptif ne remplace jamais ce qu'il décrit.
-
-Il demeure une médiation descriptive.
-
----
-
-### Fétichisation de l'inscription
-
-L'existence d'un document ne garantit pas la qualité de la description qu'il contient.
-
-Une archive peut être erronée, incomplète, biaisée ou obsolète.
-
-Les supports demeurent soumis aux mêmes exigences de justification que toute autre description.
-
----
-
-### Effacement des pratiques
-
-Les supports descriptifs externes peuvent donner l'illusion que les descriptions existent indépendamment des communautés qui les produisent.
-
-Or toute inscription suppose des pratiques, des compétences incorporées et des critères de correction.
-
-Sans communauté descriptive, le document perd sa fonction.
-
----
-
-### Obsolescence technique
-
-Les supports matériels évoluent.
-
-Formats numériques, logiciels, bases de données ou supports physiques peuvent devenir illisibles.
-
-La conservation d'une description implique également la conservation des conditions permettant son interprétation.
-
----
-
-## 8. Synthèse
-
-Les supports descriptifs externes constituent la mémoire objectivée des pratiques descriptives.
-
-Ils permettent aux descriptions de dépasser la situation immédiate dans laquelle elles ont été produites.
-
-Ils rendent possible leur conservation, leur transmission, leur comparaison, leur révision et leur réactivation.
-
-Cependant, ils ne remplacent jamais les pratiques qui leur donnent sens.
-
-Une archive, une carte, un dossier ou une base de données ne produisent pas eux-mêmes les critères descriptifs.
-
-Ils prolongent les compétences incorporées d'une communauté en stabilisant matériellement les descriptions qu'elle produit.
-
-Les supports descriptifs externes assurent ainsi la continuité historique des pratiques descriptives et rendent possible la coopération entre des locuteurs séparés dans le temps, dans l'espace ou dans les institutions.
-
----
+**Un support externe peut maintenir une ressource disponible pour une pratique descriptive ; il ne garantit ni son interprétation, ni la pertinence de son usage, ni la validité des conclusions qui en sont tirées.**
 
 ## Voir aussi
 
-- Support descriptif
-- Support descriptif incorporé
-- Support corporel
-- Inscription
-- Archive
-- Document
-- Instrument
-- Communauté descriptive
-- Position épistémique
-- Engagement descriptif
+- [Support descriptif](fr/support-descriptif.md)
+- [Supports descriptifs incorporés](fr/supports-descriptifs-incorpores.md)
+- [Supports descriptifs institutionnels](fr/supports-descriptifs-institutionnels.md)
+- [Position épistémique](fr/position-epistemique.md)
+- [Description](fr/description.md)
+- [Régime descriptif](fr/regime-descriptif.md)
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
+- [Table des matières](fr/tdm.md)
