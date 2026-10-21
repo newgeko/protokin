@@ -1,431 +1,128 @@
-# Page : configuration-semiotique.md
+# Configuration sémiotique — Signes, différences et pratiques
 
-# Configuration sémiotique — L'inscription des différences disponibles
+## 1. Fonction
 
-## Fonction de la page
+La notion de **configuration sémiotique** permet d’examiner comment des différences deviennent reconnaissables et mobilisables comme signes dans une pratique située.
 
-Cette page existe pour établir comment des différences rencontrées dans une interaction avec un milieu deviennent disponibles, partageables et réutilisables au sein d'une pratique collective, avant toute organisation conceptuelle, catégorisation ou justification.
+Elle porte sur les relations entre les signes, les situations dans lesquelles ils sont rencontrés, les pratiques qui permettent de les identifier et les possibilités d’interprétation ou d’utilisation qui leur sont associées.
 
-La configuration sémiotique constitue ainsi une médiation fondamentale entre le couplage perception-action et l'émergence d'une description structurée.
+Elle contribue ainsi à analyser les conditions dans lesquelles certaines différences deviennent pertinentes pour une pratique, sans présumer que leur reconnaissance détermine à elle seule ce qu’il faut en dire.
 
-Elle explique comment une communauté peut disposer de différences identifiables sans que celles-ci constituent encore des descriptions, des catégories ou des assertions.
+## 2. Problème
 
----
+Une différence rencontrée ne possède pas nécessairement une signification déterminée. Une variation de couleur, une modification comportementale, une mesure ou une trace matérielle peuvent être remarquées sans que leur portée soit établie.
 
-# 1. Problème conceptuel inaugural
+Inversement, une pratique déjà organisée par des catégories, des habitudes ou des connaissances peut orienter ce qui est remarqué et la manière dont une différence est identifiée. La reconnaissance d’un signe ne se produit donc pas nécessairement avant toute interprétation ou toute description.
 
-Une description ne surgit jamais d'une confrontation immédiate avec un monde déjà organisé en objets, propriétés et catégories.
+Le problème consiste à examiner comment une différence devient pertinente dans une pratique, ce qui permet de la reconnaître ou de la reprendre, et comment sa portée peut être discutée.
 
-Avant qu'une chose puisse être décrite, il faut qu'elle puisse être distinguée.
+La question directrice est la suivante :
 
-Le couplage perception-action entre un organisme, un collectif et son milieu rend certaines variations accessibles dans une situation donnée :
+**Comment des signes et des différences acquièrent-ils une fonction dans une pratique, et que permet réellement d’établir leur reconnaissance ?**
 
-- contrastes visuels ;
-- différences sonores ;
-- traces matérielles ;
-- comportements observables ;
-- variations mesurables.
+## 3. Définition
 
-Cependant, une variation rencontrée n'est pas encore une différence descriptive.
+Une **configuration sémiotique** désigne une organisation située de signes, de différences et de relations par lesquelles certains éléments deviennent reconnaissables et mobilisables dans une pratique.
 
-Une différence physique, perceptive ou comportementale ne devient pertinente pour une pratique collective que lorsqu'elle peut être :
+Cette organisation peut dépendre de capacités perceptives, d’habitudes acquises, de gestes, d’instruments, d’inscriptions, de conventions ou de procédures collectives. Leur rôle doit être déterminé en fonction de la situation examinée.
 
-- distinguée ;
-- retenue ;
-- réidentifiée ;
-- inscrite ;
-- partagée ;
-- mobilisée dans une activité commune.
+La notion ne désigne donc ni un stock de signes indépendants de leurs usages, ni une étape universelle précédant toute description. Elle permet d’examiner les relations qui rendent des signes identifiables, interprétables ou utilisables dans une activité donnée.
 
-Le problème conceptuel auquel répond cette page est donc le suivant :
+Une configuration sémiotique peut être relativement stabilisée tout en restant susceptible de transformation. Les signes mobilisés, les différences retenues et les interprétations disponibles peuvent changer avec les pratiques, les supports ou les problèmes rencontrés.
 
-> Comment des variations rencontrées dans une interaction avec un milieu deviennent-elles des différences disponibles pour une pratique descriptive collective ?
+## 4. Distinctions avec les notions voisines
 
-La configuration sémiotique désigne précisément ce passage.
+### 4.1. Configuration sémiotique et différence rencontrée
 
-Elle ne décrit pas encore.
+Une **différence rencontrée** désigne une différence qui devient pertinente dans une situation et peut donner lieu à un problème descriptif.
 
-Elle rend possible qu'une description puisse apparaître.
+La configuration sémiotique concerne l’organisation des signes et des relations par lesquels certaines différences sont reconnues et mobilisées dans une pratique.
 
----
+Les deux notions ne désignent pas nécessairement deux événements successifs. Une différence peut être identifiée à partir de ressources sémiotiques déjà disponibles ; une difficulté rencontrée peut aussi conduire à modifier les distinctions et les signes employés.
 
-# 2. Définition fonctionnelle
+### 4.2. Configuration sémiotique et trace
 
-Dans l'architecture de Protokin, on appelle **configuration sémiotique** :
+Une **trace** est une marque, une inscription ou une modification qui demeure disponible ou peut être retrouvée et mobilisée dans une pratique.
 
-> Une organisation située de différences rendues disponibles, inscrites et stabilisées dans des pratiques matérielles, corporelles, techniques ou institutionnelles, permettant à une communauté de les identifier, de les conserver et de les mobiliser dans une activité descriptive.
+Une trace peut fonctionner comme signe lorsqu’elle est rapportée à une situation et mobilisée pour orienter une reconnaissance ou une interprétation. Sa présence ne détermine cependant ni sa signification ni les conclusions qu’il est légitime d’en tirer.
 
-Cette définition implique plusieurs dimensions fondamentales.
+Il faut donc distinguer la persistance d’une trace, son identification comme signe et l’interprétation qui lui est attribuée.
 
-## 2.1 Une organisation située
+Voir [Trace — Persistance et disponibilité](fr/trace.md).
 
-La configuration sémiotique n'est pas un système abstrait de signes indépendant des pratiques.
+### 4.3.  Configuration sémiotique et support descriptif
 
-Une différence devient disponible à partir d'une situation concrète dans laquelle certains acteurs disposent :
+Un **support descriptif** contribue à conserver, rendre accessible ou mobiliser les ressources nécessaires à une pratique descriptive.
 
-- de capacités perceptives ;
-- d'habitudes d'attention ;
-- d'instruments ;
-- de techniques ;
-- de pratiques collectives.
+Une inscription peut être conservée sur un document, un dispositif numérique ou un autre support. Le support contribue à sa disponibilité, mais il ne détermine pas à lui seul la manière dont elle sera reconnue ou interprétée.
 
-Ce qui devient visible, mesurable ou remarquable dépend donc toujours d'une relation située entre :
+La configuration sémiotique ne se confond donc pas avec les moyens matériels ou techniques qui contribuent à son maintien.
 
-- un milieu ;
-- des acteurs ;
-- des pratiques ;
-- des moyens d'inscription.
+Voir [Support descriptif](fr/support-descriptif.md).
 
-La configuration sémiotique n'est pas découverte comme une structure déjà présente.
+### 4.4 Configuration sémiotique et configuration descriptive
 
-Elle correspond à une organisation pratique de différences accessibles.
+La **configuration descriptive** désigne l’organisation locale de différences, de catégories, de qualifications et de relations inférentielles mobilisées dans une pratique descriptive.
 
----
+La configuration sémiotique permet d’examiner comment des signes et des différences prennent une portée dans cette pratique. La configuration descriptive porte sur leur organisation dans une description : les qualifications retenues, les relations établies et les inférences rendues possibles.
 
-## 2.2 Des différences rendues disponibles
+Cette distinction est fonctionnelle, non chronologique. Une pratique descriptive peut déjà orienter la reconnaissance des signes qu’elle mobilise. Réciproquement, l’examen d’une configuration sémiotique peut conduire à réviser une catégorie ou une description.
 
-Une configuration sémiotique ne produit pas des objets ou des propriétés.
+Voir [Configuration descriptive — Organiser les possibilités de description](fr/configuration-descriptive.md).
 
-Elle rend certaines différences accessibles pour une activité ultérieure.
+## 5. Exemple discriminant : un patient aux urgences
 
-Elle transforme une variation locale en ressource partageable.
+Un patient arrive aux urgences avec une douleur thoracique. Les professionnels disposent de plusieurs éléments : les symptômes rapportés, les observations cliniques, les constantes vitales et les résultats d’examens instrumentaux.
 
-Par exemple :
+Ces éléments ne remplissent pas tous la même fonction. Certains orientent l’attention, d’autres permettent des comparaisons ou contribuent à l’identification d’une anomalie. Leur portée dépend notamment des conditions dans lesquelles ils sont recueillis, des pratiques d’interprétation et des connaissances mobilisées.
 
-- une variation de couleur peut devenir un contraste chromatique identifiable ;
-- une variation biologique peut devenir une différence observable ;
-- une modification comportementale peut devenir une trace pertinente.
+L’analyse sémiotique porte sur la manière dont ces éléments sont reconnus et mis en relation comme signes pertinents dans la pratique médicale.
 
-À ce niveau, aucune qualification définitive n'est encore établie.
+Elle ne suffit pas à établir le diagnostic. Celui-ci mobilise également des descriptions, des hypothèses, des inférences et des critères d’évaluation. Un tracé identifiable ne détermine pas à lui seul sa signification clinique ; une observation pertinente ne suffit pas nécessairement à justifier une conclusion.
 
-La configuration sémiotique ouvre seulement un espace de distinctions possibles.
+L’exemple permet ainsi de distinguer la disponibilité d’un signe, son interprétation et la justification d’une conclusion sans en faire trois étapes obligatoires.
 
----
+## 6. Articulation avec l’enquête
 
-## 2.3 Des différences inscrites et manipulables
+La configuration sémiotique peut être examinée selon les besoins de l’enquête, notamment lorsque la pertinence d’une différence, la reconnaissance d’un signe ou l’interprétation d’une trace devient problématique.
 
-Pour devenir collectivement disponibles, les différences doivent pouvoir être conservées au-delà de l'instant où elles apparaissent.
+Les quatre orientations de Protokin permettent alors de différencier les questions posées :
 
-Cette inscription peut prendre différentes formes :
+- **Condition** : quelles conditions corporelles, matérielles, techniques ou institutionnelles affectent la disponibilité et la reconnaissance des signes ?
+- **Relation** : quelles relations entre signes, situations et pratiques sont effectivement établies ?
+- **Fonction** : quel rôle les signes reconnus jouent-ils dans l’activité examinée ?
+- **Justification** : quelles raisons et quels critères permettent de défendre ou de contester une interprétation ?
 
-- marques graphiques ;
-- gestes professionnels ;
-- traces matérielles ;
-- mesures ;
-- signaux ;
-- procédures ;
-- enregistrements numériques.
+Ces orientations ne constituent ni quatre composantes de la configuration sémiotique ni des phases successives de son établissement. Elles servent à distinguer les questions pertinentes pour un problème donné.
 
-L'inscription permet à une différence de devenir :
+L’examen peut mobiliser les opérations de l’enquête selon les besoins rencontrés, sans imposer une chaîne de constitution allant de la perception à la description.
 
-- communicable ;
-- comparable ;
-- transmissible ;
-- réutilisable.
+Voir [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) et [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md).
 
-Elle constitue ainsi une condition essentielle de la continuité des pratiques descriptives.
+## 7. Limites et non-conversions
 
----
+L’identification d’un signe ne garantit pas que son interprétation soit correcte. La persistance d’une inscription ne garantit pas sa pertinence. La reconnaissance collective d’une différence ne suffit pas à établir la validité d’une qualification.
 
-# 3. Distinctions conceptuelles nécessaires
+Il faut notamment distinguer :
 
-Afin d'éviter toute confusion de niveaux, la configuration sémiotique doit être distinguée de plusieurs concepts voisins.
+- **différence reconnue ≠ signification déterminée** ;
+- **trace disponible ≠ interprétation établie** ;
+- **inscription conservée ≠ information adéquate** ;
+- **reconnaissance collective ≠ justification suffisante** ;
+- **disponibilité sémiotique ≠ description validée**.
 
----
+Ces distinctions ne supposent pas que les dimensions concernées soient indépendantes. Une modification des supports peut transformer les signes disponibles ; une nouvelle interprétation peut conduire à reprendre les descriptions ; une contestation descriptive peut modifier les pratiques de reconnaissance.
 
-## 3.1 Configuration sémiotique et objet décrit
+La continuité des dépendances n’abolit pas la différence des fonctions.
 
-La configuration sémiotique n'est pas l'objet lui-même.
+La notion de configuration sémiotique ne constitue donc ni une théorie générale de la signification ni une explication complète de la production des descriptions. Elle fournit un moyen d’examiner le rôle des signes et des différences dans une pratique déterminée.
 
-Elle ne constitue pas une copie ou une représentation directe d'une réalité déjà organisée.
+## 8. Synthèse
 
-Elle désigne l'organisation des différences qui permettent qu'un objet puisse devenir descriptivement accessible.
+Une configuration sémiotique organise des signes, des différences et des relations qui prennent une portée dans une pratique située.
 
-Exemple :
+Elle permet d’examiner comment certains éléments deviennent reconnaissables et mobilisables, sans confondre leur disponibilité avec leur interprétation ou avec la justification des conclusions auxquelles ils contribuent.
 
-Une trace biologique n'est pas encore une maladie.
+Elle ne constitue pas un préalable universel à toute description. Son rôle doit être déterminé à partir des pratiques et des difficultés effectivement examinées.
 
-Un signal sur un écran n'est pas encore un diagnostic.
-
-Une couleur perçue n'est pas encore une catégorie chromatique.
-
-La configuration sémiotique rend certaines distinctions disponibles sans déterminer encore leur interprétation descriptive.
-
----
-
-## 3.2 Configuration sémiotique et description
-
-La configuration sémiotique n'est pas encore une description.
-
-Elle ne produit pas :
-
-- d'assertion ;
-- de prédication ;
-- de qualification ;
-- de jugement.
-
-Elle constitue une condition préalable.
-
-La différence entre les deux niveaux peut être formulée ainsi :
-
-Configuration sémiotique : Certaines différences deviennent disponibles.
-
-Description : Ces différences sont organisées dans une proposition ou une pratique descriptive.
-
-Ainsi, avant de pouvoir dire :
-
-> Le vélo est rouge
-
-il faut qu'une différence chromatique soit devenue identifiable.
-
-Mais cette différence ne contient pas encore l'assertion.
-
----
-
-## 3.3 Configuration sémiotique et catégorie
-
-Une configuration sémiotique ne classe pas encore.
-
-Elle ne détermine pas qu'une différence appartient à une catégorie particulière.
-
-Elle rend seulement possible qu'une communauté puisse ensuite établir des catégories.
-
-Exemple :
-
-Identifier plusieurs variations végétales dans une forêt ne constitue pas encore une classification botanique.
-
-Les catégories apparaissent dans une étape ultérieure d'organisation descriptive.
-
----
-
-## 3.4 Configuration sémiotique et support descriptif
-
-La configuration sémiotique et le support descriptif entretiennent une relation étroite mais ne désignent pas la même fonction.
-
-La configuration sémiotique concerne :
-
-- l'organisation des différences disponibles ;
-- les contrastes rendus accessibles ;
-- les distinctions pouvant être mobilisées.
-
-Le support descriptif concerne :
-
-- les médiations matérielles ;
-- les dispositifs d'inscription ;
-- les infrastructures permettant la conservation et la circulation.
-
-Le support ne constitue donc pas un simple véhicule neutre.
-
-Il participe aux conditions dans lesquelles certaines différences peuvent être inscrites et stabilisées.
-
-La relation peut être formulée ainsi :
-
-Configuration sémiotique : ce qui rend certaines différences disponibles.
-
-Support descriptif : ce qui permet leur inscription, leur circulation et leur maintien.
-
-Les deux dimensions se co-déterminent dans les pratiques réelles.
-
----
-
-# 4. Le refus du donné sémiotique brut
-
-Protokin refuse l'idée selon laquelle les signes seraient simplement présents dans le monde et attendraient d'être décodés.
-
-Il n'existe pas de donné sémiotique brut.
-
-Une différence physique ne devient pertinente que dans une pratique capable de :
-
-- la sélectionner ;
-- la distinguer ;
-- l'inscrire ;
-- la transmettre ;
-- la comparer.
-
-Une variation biologique n'est pas encore un diagnostic.
-
-Une trace comportementale n'est pas encore une qualification morale.
-
-Une différence visuelle n'est pas encore une catégorie perceptive stabilisée.
-
-La configuration sémiotique montre ainsi que toute disponibilité descriptive implique déjà une histoire de pratiques, d'attention et d'inscription.
-
----
-
-# 5. Éclairage par les fils rouges pédagogiques
-
-Les fils rouges permettent d'observer comment une même situation peut devenir disponible avant d'être décrite.
-
----
-
-## 5.1 « Le vélo est rouge »
-
-Avant l'assertion :
-
-> Le vélo est rouge
-
-il faut qu'une différence chromatique soit accessible.
-
-Cette disponibilité repose sur :
-
-- des capacités perceptives ;
-- des contrastes lumineux ;
-- des pratiques partagées de distinction des couleurs.
-
-La configuration sémiotique ne contient pas la proposition.
-
-Elle rend seulement possible l'identification d'un contraste chromatique qui pourra ensuite être organisé dans une description.
-
----
-
-## 5.2 « Cette personne est dangereuse »
-
-Avant toute qualification de dangerosité, certaines différences comportementales doivent devenir disponibles.
-
-Ces différences peuvent prendre la forme de :
-
-- observations ;
-- témoignages ;
-- traces institutionnelles ;
-- événements enregistrés.
-
-Cependant, ces inscriptions ne constituent pas encore une qualification.
-
-Elles forment un ensemble de différences disponibles pouvant être organisées selon plusieurs descriptions concurrentes.
-
-La dangerosité appartient à un niveau descriptif et normatif ultérieur.
-
----
-
-## 5.3 « Cette personne est mauvaise »
-
-Une qualification morale suppose également une disponibilité préalable de certaines différences :
-
-- actions observées ;
-- comportements mémorisés ;
-- récits transmis ;
-- évaluations sociales.
-
-Mais ces différences ne déterminent pas directement une conclusion morale.
-
-Elles deviennent pertinentes uniquement dans un régime descriptif particulier disposant de catégories, de critères et de normes.
-
----
-
-## 5.4 Le botaniste et le bûcheron dans une forêt
-
-Deux acteurs peuvent partager un même environnement tout en rendre disponibles des différences différentes.
-
-Le botaniste peut identifier :
-
-- des structures végétales ;
-- des variations morphologiques ;
-- des propriétés biologiques.
-
-Le bûcheron peut identifier :
-
-- une densité ;
-- une résistance ;
-- une qualité mécanique du bois.
-
-Ils ne rencontrent pas deux mondes différents.
-
-Ils participent à deux configurations sémiotiques différentes organisant des différences pertinentes différentes.
-
----
-
-## 5.5 Un patient arrive aux urgences
-
-Dans une situation médicale, les données disponibles ne constituent pas immédiatement un diagnostic.
-
-Les constantes vitales, les tracés d'électrocardiogramme, les observations cliniques et les symptômes inscrits rendent certaines différences disponibles.
-
-Elles permettent ensuite aux professionnels de produire des descriptions médicales spécialisées.
-
-La configuration sémiotique constitue donc la surface de disponibilité préalable à l'activité diagnostique.
-
----
-
-# 6. Place dans l'architecture fonctionnelle
-
-La configuration sémiotique appartient à :
-
-03 — Fondements descriptifs
-
-Elle occupe une position intermédiaire entre la rencontre pratique d'un milieu et l'organisation conceptuelle d'une description.
-
-La chaîne fonctionnelle est la suivante :
-
-Couplage perception-action ↓ Différences rencontrées dans une interaction ↓ Configuration sémiotique ↓ Support descriptif ↓ Configuration descriptive ↓ Fonctions descriptives ↓ Régime descriptif
-
-La configuration sémiotique constitue donc le moment où des différences deviennent disponibles sans être encore organisées comme descriptions.
-
----
-
-# 7. Limites internes
-
-La configuration sémiotique possède ses propres limites.
-
-## 7.1 La sélection des différences
-
-Toute disponibilité implique une sélection.
-
-Certaines différences deviennent visibles tandis que d'autres restent inaperçues.
-
-Une configuration sémiotique ouvre donc certaines possibilités descriptives tout en en laissant d'autres hors champ.
-
----
-
-## 7.2 L'absence de détermination conceptuelle
-
-Une différence disponible ne détermine jamais seule la description future.
-
-Plusieurs organisations descriptives peuvent partir d'une même configuration sémiotique.
-
-Une même trace peut recevoir plusieurs interprétations selon les catégories et régimes mobilisés.
-
----
-
-## 7.3 La dépendance aux pratiques
-
-Une configuration sémiotique n'existe jamais indépendamment des pratiques qui la maintiennent.
-
-Si les techniques, instruments ou habitudes changent, les différences disponibles peuvent également changer.
-
-La disponibilité sémiotique est donc toujours située historiquement.
-
----
-
-# 8. Ouvertures et renvois
-
-## Ce que cette page suppose
-
-- **Le primat du couplage perception-action** : les différences émergent dans une interaction située avec un milieu.
-- **Les pratiques d'inscription** : une différence doit pouvoir être conservée pour devenir partageable.
-
----
-
-## Ce que cette page rend possible
-
-- **Support descriptif** : analyse des médiations matérielles, techniques et institutionnelles permettant la stabilisation des inscriptions.
-- **Configuration descriptive** : organisation conceptuelle des différences disponibles.
-- **Fonctions descriptives** : qualification, prédication et assertion.
-- **Régimes descriptifs** : établissement des normes de recevabilité et de justification.
-
----
-
-# Synthèse
-
-La configuration sémiotique désigne le niveau où des différences rencontrées dans une interaction deviennent disponibles pour une communauté avant toute description proprement dite.
-
-Elle ne décrit pas le monde.
-
-Elle n'établit pas encore de catégories.
-
-Elle ne produit pas encore de normes.
-
-Elle constitue la condition intermédiaire grâce à laquelle certaines différences peuvent entrer dans une pratique descriptive collective.
-
-Dans Protokin, toute description suppose donc une étape préalable :
-
-> avant de pouvoir décrire quelque chose, il faut qu'une différence puisse devenir disponible.
+Pour prolonger l’analyse, voir [Configuration descriptive](fr/configuration-descriptive.md), [Trace](fr/trace.md), [Support descriptif](fr/support-descriptif.md) et [Régime descriptif](fr/regime-descriptif.md).
