@@ -183,7 +183,7 @@ Elle ne prétend pas ramener toutes les pratiques à ces regroupements. Son util
 
 Pour poursuivre :
 
-- [Régime descriptif](/frregime-descriptif.md)
+- [Régime descriptif](/fr/regime-descriptif.md)
 - [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md)
 - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
 - [Table des matières](fr/tdm.md)
