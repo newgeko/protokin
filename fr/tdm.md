@@ -168,6 +168,7 @@ Cette partie rassemble les ressources permettant d’examiner une configuration 
 - [Indice](fr/indice.md) — Examiner le rôle d’un élément qui oriente une recherche ou une interprétation sans déterminer la conclusion.
 - [Trace](fr/trace.md) — Examiner les traces mobilisées dans une pratique et les limites de leur interprétation.
 - [Support descriptif](fr/support-descriptif.md) — Préciser le rôle des supports dans les pratiques descriptives.
+- [RDRD et entrée perceptive](fr/rdrd-et-entree-perceptive.md) — Examiner les dispositions de discrimination, la fiabilité des réponses et leurs limites pour justifier une description.
 - [Image manifeste](fr/image-manifeste.md) — Examiner les descriptions ordinaires de l’expérience, des personnes, des actions et des responsabilités.
 - [Image scientifique](fr/image-scientifique.md) — Examiner les pratiques scientifiques de mesure, de modélisation, d’expérimentation et de contrôle des résultats.
 
