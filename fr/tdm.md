@@ -254,6 +254,7 @@ Cette rubrique rassemble les rapprochements philosophiques utiles pour situer ce
 - [Richard Rorty](fr/richard-rorty.md) — Examiner la critique du représentationnalisme, la contingence des vocabulaires et les limites de la recherche de fondements ultimes.
 - [Saul Kripke](fr/saul-kripke.md) — Distinguer la transmission historique des désignations, la rigidité modale et les conditions d’application des règles.
 - [Miranda Fricker](fr/miranda-fricker.md) — Examiner les injustices testimoniale et herméneutique, ainsi que les asymétries de crédibilité et de participation aux ressources collectives d’interprétation.
+- [Ian Hacking](fr/ian-hacking.md) — Examiner l’historicité des catégories, les effets de boucle des classifications humaines et les styles de raisonnement.
 
 Ces rapprochements n’ont pas tous le même statut. Une ressemblance de vocabulaire ne suffit pas à établir une filiation ; une influence reconnue ne vaut pas adhésion à l’ensemble d’une doctrine. Les pages philosophiques servent à documenter des proximités et des écarts, non à remplacer l’examen fonctionnel des problèmes propres à Protokin.
 
