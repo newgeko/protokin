@@ -246,7 +246,7 @@ Cette rubrique rassemble les rapprochements philosophiques utiles pour situer ce
 - [Robert Brandom](fr/robert-brandom.md) — Examiner les engagements, les habilitations et les conséquences inférentielles associés aux pratiques discursives.
 - [Joseph Rouse](fr/joseph-rouse.md) — Éclairer les rapports entre pratiques scientifiques, contraintes matérielles et normativité.
 - [Ruth Millikan](fr/ruth-millikan.md) — Examiner les fonctions propres et l’explication naturaliste du contenu représentatif à partir de l’histoire des dispositifs.
-- [Richard Rorty](fr/richard-rorty.md) — Situer certains usages du pragmatisme et les limites d’une recherche de fondements ultimes.
+- [Richard Rorty](fr/richard-rorty.md) — Examiner la critique du représentationnalisme, la contingence des vocabulaires et les limites de la recherche de fondements ultimes.
 - [Saul Kripke](fr/saul-kripke.md) — Distinguer la transmission historique des désignations, la rigidité modale et les conditions d’application des règles.
 - [Miranda Fricker](fr/miranda-fricker.md) — Examiner les injustices testimoniale et herméneutique, ainsi que les asymétries de crédibilité et de participation aux ressources collectives d’interprétation.
 
