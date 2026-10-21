@@ -244,6 +244,7 @@ Cette rubrique rassemble les rapprochements philosophiques utiles pour situer ce
 - [Wilfrid Sellars](fr/wilfrid-sellars.md) — Situer la distinction entre description, explication et espace des raisons, sans reconduire un donné qui justifierait de lui-même nos énoncés.
 - [Robert Brandom](fr/robert-brandom.md) — Examiner les engagements, les habilitations et les conséquences inférentielles associés aux pratiques discursives.
 - [Joseph Rouse](fr/joseph-rouse.md) — Éclairer les rapports entre pratiques scientifiques, contraintes matérielles et normativité.
+- [Ruth Millikan](fr/ruth-millikan.md) — Examiner les fonctions propres et l’explication naturaliste du contenu représentatif à partir de l’histoire des dispositifs.
 - [Richard Rorty](fr/richard-rorty.md) — Situer certains usages du pragmatisme et les limites d’une recherche de fondements ultimes.
 
 Ces rapprochements n’ont pas tous le même statut. Une ressemblance de vocabulaire ne suffit pas à établir une filiation ; une influence reconnue ne vaut pas adhésion à l’ensemble d’une doctrine. Les pages philosophiques servent à documenter des proximités et des écarts, non à remplacer l’examen fonctionnel des problèmes propres à Protokin.
