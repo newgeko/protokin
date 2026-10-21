@@ -1,117 +1,175 @@
-# reconstruction-recollective-et-pardon.md
+# Reconstruction rétrospective et pardon déontique
 
-### Reconstruction recollective et pardon déontique — La réparation et l'historicité de l'espace des raisons
+## Fonction
 
-#### Fonction
-Dans l'architecture de Protokin (articulé entre la **Section 06 — Temporalité descriptive** et la **Section 08 — Méthode Protokin**), la **reconstruction recollective** et le **pardon déontique** désignent l'armature diachronique et le scorekeeping réparateur par lesquels une communauté de locuteurs surmonte une crise, une faute ou une rupture sémantique. Plutôt que de rejeter ses engagements antérieurs en cas d'erreur ou d'exclure un agent de manière punitive, le collectif retrace rétroactivement la trajectoire normative de ses concepts pour intégrer l'erreur au présent d'usage. Cet opérateur transforme le constat de faillibilité en levier d'apprentissage, fondant la transition des normes et restaurant la **confiance** (plan **KIN**) sans détacher l'espace des raisons de ses de ses butoirs matériels (plan **PROTO**).
+Cette page examine comment une pratique collective peut revenir sur une erreur passée, reconstruire les conditions dans lesquelles elle s’est produite et réviser les engagements ou les critères qui ont contribué à la situation.
 
-#### Problème conceptuel inaugural
-Toute théorie de la rationalité se heurte à une aporie temporelle lorsque ses critères se brisent contre le milieu. Face à l'échec avéré d'une règle (comme un diagnostic médical erroné ou une anomalie technologique), comment un collectif peut-il réviser et réparer ses cadres de dicibilité sans s'effondrer dans un scepticisme destructeur (qui dissoudrait l'autorité même des normes) et sans s'enmerder dans un autoritarisme rigide (qui figerait le blâme sur les corps des agents sans réformer la structure défaillante) ?
+Elle distingue deux questions liées :
 
-Protokin résout ce problème en adoptant la recollection et le pardon déontique d'amont, hérités de la relecture brandomienne de la phénoménologie hégélienne (*A Spirit of Trust*). La métathéorie montre que la signification d'un concept n'est pas une essence statique et éternelle (*Verstand*), mais un processus de détermination continue par l'expérience (*Vernunft*). L'erreur n'est pas le pôle opposé et stérile de la vérité, mais le moteur de son explicitation. Le pardon n'est pas une absolution morale magique, mais un travail logique et pratique : en confessant la finitude de notre règle face aux butoirs physiques (plan **PROTO**), et en reconstruisant rationnellement l'histoire de nos engagements pour en dégager un nouveau précédent jurisprudentiel, nous faisons de l'accident d'hier la nécessité rationnelle d'aujourd'hui (plan **KIN**). **« Nous ne trouvons pas des normes prêtes à l'usage dans la nature, nous les instituons par nos rituels de recollection et de confiance mutuelle. »**
+- **La reconstruction rétrospective** : que peut-on établir en reprenant l’histoire des descriptions, des décisions, des critères et des contraintes pertinentes ?
+- **Le pardon déontique** : dans quelles conditions une communauté peut-elle réviser l’imputation d’une erreur et ses relations avec la personne concernée, sans effacer les faits ni les responsabilités établies ?
 
-#### Définition fonctionnelle
-Dans l'architecture métathéorique de Protokin, on appelle **reconstruction recollective et pardon déontique** :
-**Le processus discursif, historique et pragmatique par lequel une communauté de locuteurs, confrontée à la faillibilité ou à l'échec d'une règle stabilisée, retrace rétrospectivement la trajectoire normative de ses applications antérieures (recollection) pour y inscrire l'anomalie non comme une rupture irrationnelle, mais comme une étape d'explicitation nécessaire, opérant ainsi le pardon déontique par la réorganisation collective de ses critères publics de correction.**
+Leur articulation intéresse Protokin lorsque la réponse à une difficulté ne peut pas se limiter à désigner un responsable individuel ou à reconduire sans examen une règle antérieure.
 
-Cette définition implique trois caractéristiques fondamentales :
-* **La perspective diachronique asymétrique** : La recollection n'est pas une simple chronologie passive de premier ordre, mais une reconstruction de second ordre menée d'aval en amont (la chouette de Minerve). Elle sélectionne les décisions passées qui font autorité (précédents) pour justifier la transition vers la nouvelle règle.
-* **Le partage de responsabilité déontique** : Le pardon déontique équilibre l'autorité de l'agent qui initie l'acte et la responsabilité de la communauté qui en gère les conséquences. La faute individuelle est traduite en une défaillance de la norme collective, exigeant une réparation partagée.
-* **L'institution de la confiance (*Vertrauen*)** : La confiance n'est pas un sentiment psychologique naïf, mais l'infrastructure pragmatique par laquelle les agents acceptent de s'exposer à la faillibilité du langage en sachant que le groupe prendra en charge les conséquences contrefactuelles de leurs écarts de conduite.
+La reconstruction ne conduit pas nécessairement au pardon, et le pardon ne garantit ni la réparation ni le rétablissement de la confiance. Chacun demande un examen distinct.
 
-#### Dimensions principales
-La dynamique de la réconciliation déontique se structure à travers trois dimensions analytiques coordonnées :
+## 1. Problème : que faire d’une erreur passée ?
 
-#### 1. La Reconstruction Rétroactive (*Recollective Reconstruction*)
-Pour Protokin, l'histoire d'un concept est constamment réécrite à partir de son dernier état d'explicitation. La recollection rationnelle (*Erinnerung*) consiste à tracer un chemin continu à travers les applications passées d'un concept en ignorant les dérives rétrogrades pour ne retenir que les étapes d'amélioration progressive. 
-* **La tension prospectif/rétrospectif** : Considéré prospectivement (au moment de l'action), l'ajustement d'un concept est une invention, un choix plastique face à l'indétermination. Considéré rétrospectivement (lors de la recollection), ce même ajustement est présenté comme une découverte, l'explicitation d'un contenu qui était déjà implicitement visé depuis le début.
-* **La transition par précédent** : À l'instar de la *Common Law*, le sens d'un mot ou d'un critère se détermine en s'adossant à l'autorité des décisions passées, réévaluées à la lumière de la situation problématique présente.
+Une pratique collective s’appuie sur des catégories, des critères, des procédures et des habitudes qui permettent de qualifier les situations et de prendre des décisions. Ces ressources peuvent fonctionner suffisamment bien dans certains contextes, puis se révéler inadéquates, insuffisantes ou injustes dans d’autres.
 
-#### 2. Le Scorekeeping du Pardon (Aveu et Réconciliation)
-Le pardon déontique s'organise selon un triptyque comportemental et normatif :
-* **L'aveu (*Confession*)** : L'aveu est l'acte discursif par lequel l'agent ou le collectif reconnaît la singularité de sa défaillance face aux butoirs physiques, c'est-à-dire l'incompatibilité de son attitude avec la norme proclamée. L'agent confesse que ses performances réelles sont traversées par des contingences (plan PROTO) qui excèdent sa maîtrise conceptuelle d'amont.
-* **Le pardon (*Forgiveness*)** : C'est le travail logique par lequel le juge déontique renonce à sa position de surplomb moral (*l'esprit de rigueur*) pour s'identifier à l'agent faillible. Le juge accorde le pardon en construisant une nouvelle recollection qui réintègre l'erreur de l'agent comme un précédent utile et explicatif pour la révision de la norme collective.
-* **La co-responsabilité des conséquences** : Le pardon déontique exige du collectif qu'il intervienne activement pour modifier et redresser les conséquences matérielles de l'erreur dans la niche (reformatage des dossiers, soins de rattrapage, compensation des injustices).
+Lorsqu’une erreur apparaît, plusieurs réactions sont possibles. On peut l’attribuer à la personne qui a pris une décision, maintenir la règle qui encadrait cette décision, modifier la procédure ou reprendre l’examen des critères employés. Ces réponses ne s’excluent pas nécessairement, mais elles ne répondent pas à la même question.
 
-#### 3. L'Intersubjectivité Diachronique et l'Émancipation Historique
-Les cadres relationnels et l'asymétrie de la relation "Je-Tu" s'étirent ici dans le temps :
-* **La redevabilité trans-générationnelle** : Le locuteur présent hérite de la redevabilité des locuteurs passés, tout en engageant la redevabilité des locuteurs futurs.
-* **Le refus de l'aliénation moderniste** : L'aliénation moderne (de Verstand) fait de la règle un maître extérieur et immuable face auquel l'agent est impuissant ou coupable. La recollection (de Vernunft) réconcilie l'autonomie de l'agent (nous faisons les règles par nos attitudes) et la force contraignante de la norme (les critères nous lient de manière rationnelle).
+Attribuer une action à une personne ne suffit pas à établir qu’elle en porte seule la responsabilité. Montrer qu’une procédure a contribué à l’erreur ne suffit pas davantage à disculper tous les participants. Enfin, constater qu’une règle a été appliquée conformément aux usages ne prouve pas que cette règle était adéquate à la situation.
 
-#### Distinctions conceptuelles nécessaires
+Le problème consiste donc à comprendre ce qui s’est passé, à préciser ce qui peut être imputé à chacun et à déterminer quelles révisions ou réparations sont justifiées.
 
-#### Reconstruction recollective et Récit téléologique (Illusion de progrès linéaire)
-La différence réside dans la nature située et contingente de l'opération. L'illusion téléologique prétend que le passé convergeait de manière nécessaire et absolue vers un présent idéal. La recollection protokinienne est un acte de **responsabilité rétrospective située** : elle sait qu'une autre recollection est toujours possible à partir de critères futurs hétérogènes, et elle n'occulte pas les ruptures (*caesuras*) de la pratique. *L'illusion téléologique dogmatise l'histoire ; la recollection la libère.*
+**Une erreur passée peut conduire à réviser une pratique sans que cette révision efface l’action accomplie, ses conséquences ou les responsabilités pertinentes.**
 
-#### Pardon déontique et Amnistie aveugle (Effacement passif)
-L'amnistie passive efface simplement la trace de l'erreur comme si l'événement n'avait jamais eu lieu (ce qui relève d'une amnésie ou d'un déni du plan PROTO). Le pardon déontique (plan KIN) conserve précieusement la mémoire matérielle de l'anomalie, mais modifie son statut normatif au sein de la comptabilité déontique en l'utilisant comme la prémisse d'une réorganisation sémantique de second ordre. *L'amnistie oublie l'impact ; le pardon en fait un levier de vérité.*
+## 2. Reconstruction rétrospective
 
-#### Attitude noble (*Edelmütigkeit*) et Attitude basse / Valet moral (*Niederträchtigkeit*)
-Le valet moral (le clinicien ou l'auditeur réductionniste) applique une psychologie de soupçon : il réduit toute action ou assertion d'un agent à ses causes physiques, ses intérêts subjectifs ou ses biais d'amont (plan PROTO), niant sa capacité à se lier par des raisons. L'attitude noble reconnaît l'agent comme un sujet capable d'assumer des engagements déontiques (plan KIN) et prend co-responsabilité pour réparer ses faillites matérielles. *Le valet moral dissout les raisons dans les causes ; l'esprit de générosité soutient l'agentivité à travers la crise.*
+### 2.1. Définition
 
-#### Séquence opératoire de la réconciliation déontique
-Pour redresser un blocage normatif sur le terrain sans céder à la stigmatisation punitive des agents, l'auditeur de Protokin déploie le protocole clinique suivant :
+La **reconstruction rétrospective** consiste à reprendre les éléments disponibles concernant une situation passée afin d’examiner comment certaines descriptions, décisions, règles et contraintes ont contribué à la rendre intelligible et à orienter l’action.
 
-```text
-[ EFFONDREMENT D'UN CADRE / ANOMALIE DE PREMIER ORDRE ]
-                         │
-                         ▼
-        ┌──────────────────────────────────┐
-        │ 1. AVEU DE FAILLIBILITÉ          │
-        │    Reconnaissance du butoir et   │
-        │    de l'indigence de la règle.   │
-        └────────────────┬─────────────────┘
-                         │
-                         ▼
-        ┌──────────────────────────────────┐
-        │ 2. RECONSTRUCTION RECOLLECTIVE   │
-        │    Sélection et ré-articulation  │
-        │    rétrospective des précédents. │
-        └────────────────┬─────────────────┘
-                         │
-                         ▼
-        ┌──────────────────────────────────┐
-        │ 3. PARDON DÉONTIQUE ET CONFIANCE │
-        │    Réorganisation de la norme et │
-        │    partage de co-responsabilité. │
-        └──────────────────────────────────┘
-```
+Elle peut porter sur :
 
-* **Étape 1 : L'aveu de finitude (La saisie de la rupture)** : Le collectif constate qu'une procédure stabilisée a produit un échec ou une injustice (collision avec un *stopper* du plan PROTO). Le locuteur renonce à dissimuler l'écart et l'asserte publiquement comme un trouble nécessitant l'enquête.
-* **Étape 2 : La recollection historique (*Erinnerung*)** : L'enquêteur de second ordre retrace l'histoire des raisons et des contraintes matérielles (supports, sédimentations) qui avaient rendu la règle légitime par le passé. Il montre l'écart de l'agent n'ont comme une faute absurde, mais comme le point d'impact où la règle a rencontré sa limite interne.
-* **Étape 3 : Le pardon déontique et l'ajustement de la norme** : Plutôt que de bannir le praticien, la communauté de locuteurs modifie la structure interne de ses catégories (réorganisation descriptive). Elle réintègre l'acteur au sein de l'espace des raisons en redéfinissant son habilitation déontique autour d'une norme élargie et réparée.
+- les informations accessibles aux participants au moment de la décision ;
+- les catégories et les critères alors mobilisés ;
+- les procédures et les supports qui ont organisé le traitement de la situation ;
+- les alternatives disponibles ou effectivement envisagées ;
+- les conséquences observées et les difficultés qu’elles ont révélées ;
+- les raisons avancées à l’époque et celles qui sont formulées après coup.
 
-#### Éclairage par les fils rouges pédagogiques
+Cette reconstruction ne consiste pas à produire une chronologie exhaustive. Elle sélectionne et met en relation les éléments pertinents pour la question examinée. Ses choix doivent pouvoir être expliqués et contestés.
 
-#### 1. La gestion de l'erreur médicale aux urgences hospitalières
-Lorsqu'un retard de diagnostic critique survient au triage des urgences en raison d'une mauvaise orientation (un infarctus atypique codé comme une simple anxiété), le régime logistico-comptable classique commet une double pathologie de dureté de cœur. D'une part, il fige le blâme sur l'infirmière (*« cette soignante est incompétente par nature »*), réifiant son geste sous une étiquette d'essence permanente. D'autre part, il masque l'indigence de ses propres formulaires administratifs standardisés.
-L'audit de second ordre déploie la démarche de recollection réparatrice : il montre que l'infirmière a scrupuleusement appliqué les catégories sédimentées du logiciel de tri (supports externes rigides) qui excluaient les expressions somatiques atypiques du genre (silences de support). L'audit redresse la situation en réorganisant les protocoles cliniques du triage pour y intégrer ces nouveaux indices. En pardonnant déontiquement à l'infirmière, le collectif reconnaît que l'erreur était le produit d'une limite collective d'explicitation. Il restaure la pleine habilitation et la confiance de la professionnelle, convertissant l'événement traumatique en une mémoire partagée d'apprentissage de l'équipe de soin.
+### 2.2. Reconstruire n’est pas justifier
 
-#### 2. Le botaniste et le bûcheron face au dépérissement forestier
-Face au dépérissement systémique de la forêt causé par le stress hydrique (collision du plan PROTO), le bûcheron commet une faillite d'action : ses abattages routiniers détruisent la régénération des sols. Le botaniste universitaire, adoptant l'attitude du valet moral, blâme le bûcheron pour sa cupidité ignorante, délégitimant son savoir-faire incorporé. 
-La recollection protokinienne suspend cette controverse destructrice. Elle retrace l'histoire de la sylviculture industrielle et montre que les critères d'action du bûcheron étaient rationnellement adaptés à l'ancienne niche stabilisée d'amont. En confessant mutuellement la finitude de leurs grilles respectives devant le butoir climatique global, le botaniste et le bûcheron collaborent pour concevoir un régime hybride (la sylviculture écologique). Les abattages passés du bûcheron sont recollectés non comme des crimes environnementaux, mais comme des précédents indispensables pour identifier les seuils de vulnérabilité de la forêt, restaurant la confiance pratique entre la science académique et le geste artisanal.
+Comprendre comment une décision a été prise ne suffit pas à établir qu’elle était justifiée. Une règle peut avoir été cohérente avec les usages en vigueur tout en étant mal adaptée à un cas particulier. Une décision peut aussi avoir été raisonnable au regard des informations disponibles sans que ses conséquences aient été acceptables.
 
-#### 3. La déconstruction d'un blâme moral (« Cette personne est mauvaise »)
-L'assertion « Cette personne est mauvaise par nature » est la pathologie par excellence du blocage modal et déontique. Elle commet une confusion de niveau majeure en convertissant un jugement d'imputation morale relative et révisable (plan KIN) en un déterminisme ou une propriété naturelle et permanente de l'organisme (plan PROTO réifié). Ce verrouillage interdit toute perspective de kinesis temporelle pour l'agent.
-L'audit de second ordre déconstruit cette essence factice en appliquant le pardon déontique. Il traduit l'étiquette d'infamie en une séquence d'actions matérielles situées (l'acte déviant). Il montre comment la trajectoire comportementale de l'organisme s'explique par des contraintes causales d'amont (traumatismes, conditions biophysiques de sa niche, plan PROTO). En réinsérant l'agent au sein d'une chaîne d'anaphores et de responsabilités partagées, Protokin déverrouille l'effet cliquet moral et sécuritaire pour ouvrir des trajectoires de réhabilitation futures, permettant au coupable de s'avouer faillible sans être anéanti sous un blâme immuable.
+Inversement, le fait qu’une décision ait produit un résultat dommageable ne suffit pas, à lui seul, à établir que la personne qui l’a prise disposait alors d’une meilleure option.
 
-#### Limites et vigilances d'audit : les pathologies normatives
-Lors d'un audit immanent d'une organisation ou d'une pratique, l'enquêteur de second ordre doit traquer trois pathologies de la temporalité déontique :
-* **Le fétichisme de l'esprit de rigueur / dureté de cœur (*Hard-Heartedness*)** : La dérive d'une communauté de scorekeepers qui refuse de modifier ses critères d'évaluation face aux anomalies de premier ordre, préférant exclure ou pénaliser les praticiens faillibles. *Un service administratif qui maintient des objectifs chiffrés inatteignables en imputant l'échec aux seuls agents de terrain est en état de dureté de cœur pathologique.*
-* **La psychologie du valet moral / décharge causaliste (*Niederträchtigkeit*)** : L'illusion consistant à croire que toute erreur humaine ou décision clinique s'explique exclusivement par des défaillances morales individuelles, des biais psychologiques ou des mécanismes physiologiques bruts (PROTO), vidant ainsi l'espace des raisons de sa dimension justificative. *Réduire un accident industriel à une simple erreur d'attention neurologique de l'opérateur sans interroger l'indigence de ses protocoles d'inscription est une pathologie de valet moral.*
-* **L'amnésie recollective (L'illusion de l'éternité des concepts)** : Oublier que nos catégories normatives d'aujourd'hui sont les produits sédimentés et révisables de nos erreurs d'hier. Cette pathologie masque l'historicité et la finitude de nos régimes, bloquant la récursivité nécessaire de l'auto-correction.
+La reconstruction doit donc distinguer ce que les participants pouvaient savoir au moment de l’action, ce qu’ils ont effectivement fait, les raisons qu’ils pouvaient avancer et ce que l’enquête permet de conclure rétrospectivement.
 
-#### Synthèse finale
+Elle ne doit pas transformer les connaissances acquises après l’événement en connaissances que les participants auraient nécessairement dû posséder avant celui-ci.
 
-##### Ce que cette page établit
-Les concepts de reconstruction recollective et de pardon déontique au sein des plans PROTO et KIN, formalisant le mécanisme diachronique et coopératif par lequel une communauté de locuteurs s'avoue faillible, révise ses grilles catégorielles d'amont face aux butoirs matériels du milieu et réintègre ses participants au sein d'un espace de confiance régénéré.
+### 2.3. Une reconstruction révisable
 
-##### Ce qu'elle suppose
-L'historicité des régimes descriptifs, la sédimentation documentaire, le principe d'immanence normative, la comptabilité déontique (scorekeeping) et la distinction Causes/Raisons.
+Une reconstruction rétrospective est une proposition d’interprétation, non la découverte garantie d’un parcours unique qui aurait conduit nécessairement au présent.
 
-##### Ce qu'elle rend possible
-Le déploiement d'audits cliniques d'organisations axés sur la réparation systémique, le redressement des injustices herméneutiques de participation, la conception de protocoles de soins et de réhabilitations non exclusifs, et l'unification réflexive de la Section 06.
+Les mêmes faits peuvent être réexaminés à partir de nouvelles informations ou de questions différentes. Certaines explications peuvent être mieux étayées que d’autres ; des éléments peuvent rester incertains ou faire l’objet d’interprétations concurrentes.
 
---------------------------------------------------------------------------------
+L’enquête doit conserver ces différences de statut. Elle peut établir qu’une procédure a contribué à une erreur sans parvenir à en déterminer toutes les causes. Elle peut identifier une limite dans les critères utilisés sans pouvoir reconstituer toutes les alternatives accessibles aux participants.
 
-Protokin 2026 — version 26.08.191
+La reconstruction est suffisamment solide lorsqu’elle rend explicites ses matériaux, ses inférences et ses limites, et qu’elle reste ouverte à la contestation.
+
+## 3. Pardon déontique
+
+### 3.1. Définition
+
+Le **pardon déontique** désigne ici une révision des imputations, des engagements ou des statuts reconnus à une personne après une faute ou une erreur, au sein d’une pratique qui demeure capable de demander des comptes et d’examiner les conséquences de l’action.
+
+Il ne s’agit pas d’un concept qui dispenserait d’examiner les faits. Il nomme une possibilité normative : celle de ne pas traiter une faute passée comme déterminant à elle seule, définitivement, le statut de la personne ou toutes les relations futures avec elle.
+
+Dans cette perspective, pardonner peut consister à renoncer à une imputation devenue injustifiable, à reconnaître une responsabilité partagée, à réviser les conditions d’une participation ou à rendre possible une reprise de la relation. La forme pertinente dépend de la situation, des personnes concernées et des obligations qui subsistent.
+
+Le pardon déontique ne signifie donc pas que toute faute doit être pardonnée. Il ne prescrit pas non plus la réintégration dans toutes les fonctions, la suppression d’une sanction ou la restauration immédiate de la confiance.
+
+### 3.2. Pardon, excuse et amnistie
+
+Ces notions doivent être distinguées.
+
+- **Excuser** une action consiste à avancer des considérations qui en atténuent ou en modifient l’imputation. Une excuse doit être examinée : elle peut être pertinente sans suffire à écarter toute responsabilité.
+- **Amnistier ou effacer une faute** relève d’une décision ou d’un dispositif qui modifie le traitement de faits passés. Cela ne signifie pas nécessairement que leurs conséquences sont réparées ni que les personnes concernées se sont réconciliées.
+- **Pardonner**, dans le sens retenu ici, consiste à réviser une relation normative à l’égard d’une faute ou de son auteur. Cette révision peut coexister avec la reconnaissance des faits, des conséquences et de certaines responsabilités.
+
+Ces différences ne constituent pas une classification juridique exhaustive. Elles servent à empêcher qu’un changement de statut normatif soit confondu avec l’effacement d’un événement ou la négation de ses conséquences.
+
+### 3.3. Responsabilité individuelle et responsabilité collective
+
+Une erreur peut résulter de plusieurs contributions : décision individuelle, règle générale, information incomplète, support mal adapté, répartition des tâches ou conditions matérielles. La présence de facteurs collectifs ne suffit pas à démontrer que la responsabilité est également partagée entre tous.
+
+Il faut examiner ce que chaque participant savait, pouvait faire, devait prendre en charge et était en mesure de modifier. Il faut aussi étudier les conditions organisationnelles qui ont rendu l’erreur possible ou compliqué sa détection.
+
+La responsabilité collective ne doit pas servir à dissoudre la responsabilité individuelle. Réciproquement, attribuer une faute à un individu ne doit pas empêcher d’examiner les règles, les moyens et les décisions organisationnelles qui ont contribué à la situation.
+
+Le pardon déontique peut accompagner une révision des imputations lorsque celle-ci est justifiée. Il ne peut pas remplacer l’enquête qui permet de déterminer ce qui doit être imputé à qui.
+
+## 4. Articulation des deux notions
+
+La reconstruction rétrospective et le pardon déontique peuvent intervenir dans une même situation, mais ils remplissent des fonctions différentes.
+
+La reconstruction contribue à établir ce qui s’est passé, quelles ressources ont orienté l’action, quelles contraintes ont compté et quelles interprétations restent défendables. Le pardon déontique concerne la manière dont les engagements et les relations envers les personnes peuvent être maintenus ou révisés à la lumière de cet examen.
+
+Leur articulation peut ainsi conduire à plusieurs résultats :
+
+- la responsabilité individuelle est confirmée, mais une règle ou un support doit également être révisé ;
+- une imputation initiale est corrigée parce que les conditions de l’action avaient été mal comprises ;
+- certaines responsabilités demeurent, tandis que la possibilité d’une participation future est rétablie sous de nouvelles conditions ;
+- la reconstruction met au jour une difficulté sans que les éléments disponibles permettent encore de déterminer si le pardon est approprié ;
+- les faits ou les conséquences restent contestés, ce qui empêche de conclure à une réparation suffisante.
+
+Aucun de ces résultats n’est automatique. Une reconstruction peut conduire à maintenir une imputation ; une révision de règle peut ne pas suffire à réparer un préjudice ; un pardon accordé par certains participants peut ne pas engager l’ensemble du collectif.
+
+Il faut donc distinguer la reconstruction des faits et des engagements, la révision des critères, la décision de pardonner et les mesures de réparation éventuellement nécessaires.
+
+## 5. Exemple : une erreur dans une procédure administrative
+
+Une administration refuse un dossier parce qu’une pièce manque dans le format attendu par son système de traitement. L’agent a appliqué la procédure en vigueur. La personne concernée soutient que la pièce avait été transmise sous une forme différente et que cette différence n’était pas prise en compte par le dispositif.
+
+Une reconstruction rétrospective peut examiner les documents disponibles, les règles applicables au moment du refus, les possibilités dont disposait l’agent, le fonctionnement du système et les voies de recours accessibles à la personne. Elle peut établir que l’agent a suivi la procédure, mais aussi que celle-ci ne permettait pas de traiter certains formats ou qu’un contrôle disponible n’a pas été effectué.
+
+Ces constats ne conduisent pas tous à la même conclusion. L’application conforme d’une règle ne suffit pas à justifier le refus. La défaillance d’un système ne suffit pas non plus à établir que l’agent ne pouvait pas agir autrement. Il faut examiner les éléments pertinents avant de déterminer les responsabilités.
+
+Si l’enquête établit que le refus reposait sur une limite de la procédure, l’administration peut corriger sa décision, réviser son système et modifier ses consignes. Elle peut aussi réexaminer l’imputation adressée à l’agent si celle-ci supposait à tort qu’il avait ignoré une possibilité qui n’était pas disponible.
+
+Un pardon déontique pourrait alors consister à réviser le statut attribué à l’agent ou les conditions de sa participation future. Il ne serait pas synonyme d’effacement du refus, de réparation automatique du préjudice subi par la personne concernée ou de restauration immédiate de la confiance dans l’administration.
+
+L’exemple montre que la reconstruction peut éclairer une révision normative, mais que les décisions de correction, d’imputation, de réparation et de pardon demeurent distinctes.
+
+## 6. Portée et limites
+
+La reconstruction rétrospective permet d’examiner comment des décisions ont dépendu de descriptions, de critères, de supports et de conditions particulières. Le pardon déontique permet de poser la question d’une révision des imputations et des relations normatives à la suite de cet examen.
+
+Leur articulation peut contribuer à éviter deux réductions : ramener toute erreur à la faute isolée d’un individu, ou invoquer les conditions collectives pour rendre toute responsabilité indéterminable.
+
+Ces notions ne permettent toutefois pas, à elles seules, d’établir :
+
+- la cause complète d’un événement ;
+- l’innocence ou la culpabilité d’une personne ;
+- une répartition équitable des responsabilités ;
+- l’obligation de pardonner ;
+- la suffisance d’une réparation ;
+- le rétablissement de la confiance ;
+- le caractère nécessairement progressif d’une révision des critères ;
+- la validité d’une nouvelle règle du seul fait qu’elle tient compte d’une erreur passée.
+
+Plusieurs non-conversions sont donc essentielles :
+
+- **reconstruction ≠ justification** ;
+- **explication d’une erreur ≠ exonération** ;
+- **responsabilité collective ≠ disparition de la responsabilité individuelle** ;
+- **pardon ≠ oubli** ;
+- **pardon ≠ amnistie** ;
+- **révision d’une règle ≠ réparation suffisante** ;
+- **réconciliation souhaitée ≠ confiance rétablie**.
+
+Ces distinctions ne séparent pas artificiellement les faits, les raisons et les relations sociales. Elles permettent de préciser les conclusions qui peuvent être défendues dans chaque registre et les éléments supplémentaires qu’elles exigent.
+
+## Synthèse
+
+La reconstruction rétrospective reprend les descriptions, les critères, les décisions et les contraintes qui ont contribué à une situation passée. Le pardon déontique concerne la possibilité de réviser une imputation ou une relation normative à la lumière de cet examen.
+
+Leur articulation peut rendre possible une correction des pratiques et une reprise des relations, mais elle ne garantit ni le pardon, ni la réparation, ni la confiance. Les conclusions doivent rester proportionnées aux éléments disponibles et aux responsabilités effectivement établies.
+
+**Reconstituer l’histoire d’une erreur peut éclairer la révision des engagements ; cela ne suffit pas à justifier une décision, à effacer ses conséquences ou à imposer le pardon.**
+
+## Pour poursuivre
+
+- [Temporalité descriptive](temporalite-descriptive.md) — Examiner les héritages, les usages et les transformations des pratiques descriptives.
+- [Trajectoire](trajectoire.md) — Reconstruire le parcours de transformations d’une description ou d’une pratique.
+- [Sédimentation](sedimentation.md) — Examiner la conservation et la transmission des traces issues des pratiques.
+- [Pratique collective](pratique-collective.md) — Examiner les contributions, les ressources et les responsabilités au sein d’une activité collective.
+- [Robert Brandom](robert-brandom.md) — Examiner les engagements, les habilitations et la redevabilité dans les pratiques discursives.
+- [Justifier](justifier.md) — Examiner les raisons et les critères qui soutiennent une conclusion.
+- [Effet cliquet](effet-cliquet.md) — Examiner les asymétries qui rendent le maintien ou la révision d’une configuration inégalement coûteux.
+- [Injustice herméneutique](injustice-hermeneutique.md) — Examiner les désavantages structurels affectant l’accès aux ressources interprétatives collectives.
