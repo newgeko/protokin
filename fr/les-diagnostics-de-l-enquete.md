@@ -1,0 +1,18 @@
+Dans l'architecture de Protokin, les diagnostics interviennent principalement lors de la fonction transversale d'audit de second ordre et des épreuves méthodologiques. Ils servent à identifier, caractériser et corriger les pathologies discursives et les dysfonctionnements structurels d'une pratique descriptive :
+1. Diagnostics d'erreurs logiques et de télescopage
+ * Diagnostic d'erreur de catégorie : identifie l'application inadéquate d'une catégorie en dehors de son régime de justification légitime, ou sa réification indue sous la forme d'une propriété naturelle ou biologique. Il bloque la naturalisation des statuts déontiques et rétablit l'étanchéité des critères.
+ * Diagnostic de confusion de niveau : met au jour le déplacement clandestin, implicite et non médiatisé d'une description entre plans d'analyse hétérogènes (par exemple confondre un statut institutionnel ou normatif du plan KIN avec un état physique du plan PROTO).
+ * Diagnostic de réduction descriptive : repère et invalide l'absorption unilatérale et l'aplatissement d'un régime par un autre. Protokin en distingue trois morphologies principales :
+   * La réduction causaliste : prétendre qu'une explication causale (PROTO) annule ou remplace la responsabilité ou la validité normative d'un engagement (KIN).
+   * La réduction normativisante : projeter indûment des critères moraux, d'intentionnalité ou de faute sur des régularités physiques ou accidentelles.
+   * La capture hégémonique inter-régimes : imposer les critères exclusifs d'un régime d'accueil pour reformuler et étouffer le régime d'origine.
+2. Diagnostics des pathologies de sédimentation et d'inertie
+ * Diagnostic de substantialisation / d'essentiation catégorielle : met en évidence le figeage d'une qualification située (tel un blâme moral ou un score de risque) en une essence immuable ou intrinsèque de l'agent, bloquant la réversibilité et la trajectoire temporelle d'action.
+ * Diagnostic d'inertie excessive et d'effet cliquet dogmatique : relève le moment où des rituels et des supports d'inscription sédimentés deviennent si rigides qu'ils immunisent artificiellement un cadre contre toute révision face aux anomalies et butoirs du terrain.
+ * Diagnostic d'amnésie somatique et d'effacement des supports : identifie l'illusion intellectualiste consistant à oublier l'ancrage corporel (praktognosie, RDRD), les habitudes d'action et les supports matériels nécessaires à la production des descriptions.
+3. Diagnostics d'injustices structurelles (asymétries d'espace des raisons)
+ * Diagnostic d'injustice testimoniale structurelle : constate une asymétrie de recevabilité où la parole d'un locuteur est disqualifiée ou ravalée au rang de perturbation somatique/bruit (PROTO) en raison de sa position épistémique, plutôt que traitée comme une raison à examiner (KIN).
+ * Diagnostic d'injustice herméneutique structurelle : repère un déficit catégoriel résultant d'exclusions historiques dans les processus de reproduction conceptuelle, maintenant les éprouvés d'un groupe dans une zone de silence faute de ressources reconnues pour les articuler.
+4. Diagnostics fonctionnels et inférentiels
+ * Diagnostic de dérive indicielle : repère la désarticulation entre un indice et sa fonction pratique, notamment lorsqu'une chaîne indicielle acquiert une autonomie en circuit fermé (Indice → Indice → Indice...) sans ré-ancrage praxique.
+ * Diagnostic d'inadéquation de recevabilité ou de validité : évalue si une prétention dépasse les prémisses disponibles, si une règle de transcription formelle/matérielle est violée ou si des critères appliqués sont devenus inadéquats au problème rencontré.
