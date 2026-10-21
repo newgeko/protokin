@@ -76,6 +76,7 @@ Ces fonctions permettent d’examiner l’enquête elle-même, ses conditions d�
 - [Réflexivité](fr/reflexivite.md) — Examiner les conditions et les limites de l’exercice descriptif, y compris celles du cadre employé.
 - [Comparer deux descriptions](fr/comparer-deux-descriptions.md) — Mettre en regard les engagements, les critères et les conséquences de descriptions distinctes.
 - [Auto-application](fr/auto-application.md) — Soumettre les instruments de l’enquête aux exigences qu’ils appliquent aux autres descriptions.
+- [Injustice épistémique](fr/injustice-epistemique.md) — Examiner les torts qui affectent la crédibilité, l’interprétation et la participation aux pratiques de connaissance.
 
 L’audit ne consiste pas seulement à vérifier la cohérence interne d’un discours. Il examine aussi les conditions dans lesquelles ses distinctions, ses inférences et ses justifications peuvent être maintenues ou remises en cause.
 
