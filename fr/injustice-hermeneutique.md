@@ -1,259 +1,179 @@
-# Page : injustice-hermeneutique.md
+# Injustice herméneutique — Ressources interprétatives et désavantage structurel
 
-Injustice herméneutique — La formalisation du déficit catégoriel structurel dans l'espace des raisons
+## 1. Fonction
 
-Analyse architecturale de la page
+Cette page examine l’injustice herméneutique : le désavantage structurel qui affecte certaines personnes lorsqu’elles ne disposent pas, à égalité avec d’autres, des ressources interprétatives collectives nécessaires pour rendre intelligible une expérience sociale importante.
 
-1. Fonction unique de la page
+Elle précise comment distinguer cette injustice d’une simple difficulté à exprimer une expérience, d’une lacune conceptuelle ou d’un désaccord d’interprétation. Elle examine aussi le rôle que peuvent jouer les conditions de participation à la production, à la transmission et à la révision des ressources interprétatives.
 
-Cette page existe pour établir le statut conceptuel et opératoire de l'injustice herméneutique au sein de la métathéorie Protokin. Elle formalise la pathologie structurelle par laquelle une asymétrie de participation au dépôt sédimentaire des catégories laisse une communauté de locuteurs dépourvue des ressources conceptuelles indispensables pour rendre son expérience intelligible, justifiable et recevable au sein de l'espace des raisons (plan KIN).
+La page ne propose ni une théorie générale de l’interprétation ni une procédure autonome permettant de prononcer mécaniquement un diagnostic d’injustice.
 
-2. Choix du mode de développement
+## 2. Problème : une expérience difficile à rendre intelligible
 
-· Mode retenu : Mode A — Développement conceptuel.
-· Justification : L'injustice herméneutique est théorisée ici comme un concept de second ordre de l'audit et une modalité spécifique de l'injustice collective. Il convient d'en asseoir la nécessité théorique à partir de la nature relationnelle des catégories, de déplier les dimensions de son fonctionnement sémantique (déficit de divisions, production de zones de silence, mutilation d'agentivité), et de tracer des lignes de démarcation précises avec les concepts voisins d'amont et d'aval.
+Pour décrire une expérience, les personnes mobilisent des mots, des catégories, des distinctions et des manières de relier les événements. Ces ressources ne sont pas toutes élaborées individuellement. Elles sont apprises, transmises et transformées dans des pratiques collectives.
 
-3. Problème conceptuel
+Il peut arriver que les ressources partagées ne permettent pas de rendre intelligible une expérience importante. Une personne peut éprouver une difficulté qu’elle ne parvient pas à caractériser de façon compréhensible pour les autres ; elle peut aussi employer des mots disponibles sans parvenir à faire reconnaître la nature de ce qu’elle rapporte.
 
-Comment un collectif peut-il identifier, mesurer et corriger le silence sémantique subi par un groupe de locuteurs face à ses propres éprouvés (plan PROTO) sans réintroduire le Mythe du Donné (qui supposerait que l'expérience s'étiquette d'elle-même dans le monde), et en démontrant que ce silence n'est pas une défaillance cognitive individuelle mais un déficit relationnel encodé dans la configuration descriptive partagée ?
+Une telle difficulté n’est pas automatiquement une injustice herméneutique. Une expérience nouvelle peut manquer de vocabulaire partagé, les interlocuteurs peuvent ne pas se comprendre, et les ressources interprétatives peuvent être insuffisantes pour plusieurs raisons.
 
-4. Objet propre
+Le problème devient celui d’une injustice lorsque cette difficulté s’inscrit dans un désavantage structurel : certaines personnes ou certains groupes participent moins équitablement à la production, à la circulation ou à la révision des ressources collectives nécessaires pour interpréter leur expérience.
 
-· Cette page traite de : la formalisation de l'injustice herméneutique en tant que pathologie des cadres de dicibilité (déficit de catégories et blocage de l'explicitation) ; le rôle de la sédimentation asymétrique et de l'exclusion des minorités des processus de reproduction conceptuelle ; l'émergence du trouble non articulable (frictions pré-sémiotiques) ; et le protocole d'audit permettant de lever ces zones de silence.
-· Cette page ne traite pas de : l'injustice testimoniale structurelle (développée dans injustice-epistemique.md), la psychologie des biais cognitifs individuels, la définition formelle de la catégorie comme ressource relationnelle générale (développée dans categories.md), ni de la conduite d'un audit synoptique général (realiser-un-audit.md).
+## 3. Définition
 
-5. Statut conceptuel
+On appelle **injustice herméneutique** un désavantage structurel qui affecte certaines personnes dans leur capacité à rendre intelligible une expérience sociale importante, en raison d’inégalités dans l’accès aux ressources interprétatives collectives ou dans les conditions de leur production et de leur usage.
 
-Il s'agit d'un concept de second ordre (clinique de l'audit et méthode d'enquête) appartenant à la section 09 — Réflexivité de la métathéorie.
+Cette définition articule trois éléments.
 
-6. Dépendances fonctionnelles
+### 3.1. Des ressources interprétatives collectives
 
-Cette page suppose :
+Les ressources interprétatives comprennent les concepts, les catégories, les distinctions et les formes d’explication grâce auxquels une expérience peut être identifiée, décrite et discutée.
 
-· La catégorie descriptive (categories.md) ;
-· La configuration descriptive (configuration-descriptive.md) ;
-· L'injustice épistémique (injustice-epistemique.md) ;
-· La stabilisation et l'effet cliquet (stabilisation.md, effet-cliquet.md) ;
-· L'espace des raisons (plan KIN).
+Elles ne se réduisent pas à une liste de mots. Disposer d’un terme ne garantit pas qu’une expérience soit comprise, que ses aspects pertinents puissent être distingués ou que les interprétations proposées soient reconnues dans une pratique donnée.
 
-Cette page rend possible :
+Inversement, une personne peut percevoir une difficulté, la signaler ou en décrire certains aspects sans disposer d’une formulation stabilisée qui soit partagée par les autres participants.
 
-· L'audit des régimes descriptifs ;
-· L'évaluation des traductions inter-régimes ;
-· La levée méthodique des zones de silence ;
-· L'écologie des régimes descriptifs ;
-· L'enquête d'auto-émancipation collective et la réorganisation des catégories.
+### 3.2. Un désavantage structurel
 
-7. Frontières conceptuelles
+L’injustice herméneutique ne se réduit pas à l’absence d’une catégorie. Elle concerne les conditions inégales dans lesquelles les ressources interprétatives sont élaborées, transmises, reconnues et révisées.
 
-Injustice herméneutique et Injustice testimoniale structurelle
+Certaines expériences peuvent être moins bien représentées parce que les personnes concernées ont peu de possibilités de participer aux pratiques qui définissent les catégories pertinentes. Les interprétations disponibles peuvent alors mieux rendre compte des expériences de groupes favorisés que de celles des groupes désavantagés.
 
-La différence réside dans l'antériorité logique de l'exclusion sémantique. L'injustice testimoniale frappe un énoncé déjà articulé : le locuteur formule son assertion dans un langage partagé, mais l'auditeur en diminue la crédibilité en raison de préjugés, reléguant son témoignage au rang de cause matérielle ou somatique (PROTO). L'injustice herméneutique intervient en amont de toute profération : le groupe ne dispose même pas des divisions catégorielles requises pour convertir son éprouvé pré-sémiotique (situation de trouble) en une assertion intelligible, ce qui interdit d'emblée l'entrée dans l'espace des raisons.
+Il n’est pas nécessaire que cette situation résulte d’une décision explicite d’exclusion. Son caractère structurel doit toutefois être établi : il ne peut pas être déduit de la seule existence d’une difficulté descriptive.
 
-Injustice herméneutique et Limite interne d'un régime
+### 3.3. Une expérience sociale importante
 
-La différence réside dans la partialité et la structure asymétrique de l'exclusion. La limite interne caractérise le point de saturation normal de tout régime de premier ordre face aux butoirs physiques du milieu (par exemple, le diagnostic de tri saturé par l'afflux). L'injustice herméneutique est une asymétrie de participation : le déficit sémantique affecte sélectivement un groupe d'acteurs dont les expériences d'oppression ou de souffrance n'ont pas participé à la sédimentation historique des catégories d'usage, créant une zone de silence protectrice pour le régime dominant.
+Le désavantage concerne la possibilité de comprendre et de faire comprendre une expérience qui importe à la personne ou au groupe concerné. Il peut affecter la manière dont cette expérience est identifiée, discutée ou prise en compte dans une pratique collective.
 
-8. Architecture locale
+Cette importance ne signifie pas que toute interprétation proposée doit être acceptée sans examen. Rendre une expérience intelligible ne garantit ni la vérité de toutes les affirmations formulées à son sujet ni la justification de toutes les conclusions qui en sont tirées.
 
-```
-                 INJUSTICE ÉPISTÉMIQUE (injustice-epistemique.md)
-                                     │
-                                     ▼
-               INJUSTICE HERMÉNEUTIQUE (injustice-hermeneutique.md)
-                                     │
-                                     ▼
-             ÉCOLOGIE DES RÉGIMES (ecologie-des-regimes-descriptifs.md)
-```
+## 4. Comment le désavantage se forme
 
----
+L’injustice herméneutique peut être examinée à travers plusieurs rapports qui se renforcent parfois, sans constituer une séquence nécessaire.
 
-Cartouche fonctionnel
+### 4.1. Participation à la production des ressources
 
-Élément Description
-Fonction Formaliser le déficit de catégories empêchant une communauté de rendre son expérience intelligible, justifiable et recevable.
-Prépare L'audit des zones de silence, l'évaluation des traductions et la réorganisation des configurations descriptives.
-Mobilise Les catégories descriptives, la configuration descriptive, la sédimentation historique et l'espace des raisons.
-Permet ensuite Le déverrouillage des cadres institutionnels, la réparation des exclusions sémantiques et la relance de l'enquête d'auto-émancipation.
-N'établit pas L'injustice testimoniale structurelle, la théorie générale de l'enquête, ni les cadres de la morale normative.
+Les ressources interprétatives se développent dans des pratiques où certaines expériences sont décrites, comparées et discutées. Lorsque des personnes sont durablement peu représentées dans ces pratiques, les distinctions disponibles peuvent rendre certaines expériences plus difficiles à exprimer ou à faire comprendre.
 
----
+Cette hypothèse demande d’examiner qui contribue à l’élaboration des ressources, quelles expériences sont prises en compte et quelles possibilités de contestation existent. Elle ne suppose pas que les catégories devraient refléter uniformément toutes les expériences ni que toute différence de participation soit injuste.
 
-Problème conceptuel inaugural
+### 4.2. Reconnaissance et circulation des interprétations
 
-Toute description suppose un répertoire de divisions et de contrastes relationnels stabilisés par une communauté de locuteurs : nous ne pouvons qualifier une situation, s'attribuer un engagement ou exiger une justification qu'en mobilisant des catégories qui configurent d'avance l'espace du dicible. S'il est établi que ces découpages sémantiques n'appartiennent pas aux choses en soi mais résultent d'apprentissages collectifs et de sédimentations historiques, l'accès à la création et à l'entretien de ces divisions s'avère fondamentalement asymétrique.
+Une ressource interprétative peut exister sans être reconnue ou utilisable dans toutes les pratiques. Une personne peut trouver une formulation pour son expérience sans que les institutions, les interlocuteurs ou les dispositifs concernés disposent des moyens de la comprendre ou de l’intégrer à leur examen.
 
-Lorsqu'un groupe de locuteurs éprouve une situation problématique — un trouble corporel, une souffrance ou une friction pratique (plan PROTO) —, sa conversion en une assertion intelligible au présent de l'usage (plan KIN) exige la disponibilité d'une catégorie appropriée. Si la configuration descriptive partagée par le collectif a été sédimentée de manière asymétrique, en excluant les perspectives de ce groupe des processus officiels de reproduction et de transmission conceptuelle, un silence sémantique s'installe. Les locuteurs subordonnés se trouvent alors pris au piège de l'indétermination : ils subissent une détresse réelle qu'ils ne peuvent formuler de manière intelligible, car la configuration sémantique dominante ne dispose d'aucun axe de pertinence capable de la prendre en charge.
+Il faut alors distinguer l’existence d’une formulation, sa circulation et sa recevabilité dans une pratique particulière. Une difficulté de circulation peut contribuer à un désavantage herméneutique, mais elle ne démontre pas à elle seule que les ressources collectives sont structurellement injustes.
 
-Dès lors, la difficulté théorique à laquelle répond ce concept est la suivante :
+### 4.3. Maintien et révision des ressources
 
-Comment rendre compte de cette privation de dicibilité sans postuler que la souffrance vécue est un « donné brut » qui devrait s'énoncer de lui-même, et comment localiser l'injustice dans le fonctionnement relationnel de la configuration descriptive plutôt que dans la seule malveillance morale d'auditeurs individuels ?
+Les catégories et les interprétations peuvent se maintenir par l’apprentissage, les documents, les procédures et les habitudes de travail. Ces formes de stabilisation facilitent la coordination, mais peuvent aussi rendre la révision de certaines ressources difficile.
 
-Protokin résout cette aporie en définissant l'injustice herméneutique comme une pathologie structurelle de second ordre. Elle ne résulte pas d'une faute éthique privée, mais d'un déficit catégoriel structurel au sein du Collective Operating System (cOS) de la communauté. Ce silence sémantique n'est pas un vide neutre ; il constitue une exclusion active qui immunise les régimes dominants contre la contestation, figeant la comptabilité déontique (scorekeeping) au détriment de l'auto-correction et de l'émancipation collective.
+Un formulaire, un logiciel ou une procédure peut ainsi limiter les manières d’inscrire une expérience. Il faut cependant examiner le rôle effectif du support : l’existence d’une case manquante ne prouve ni qu’aucune autre formulation n’est possible ni que la limite produit une injustice.
 
----
+L’analyse des supports relève plus généralement de la page [Support descriptif](fr/support-descriptif.md). Ici, leur intérêt est de déterminer s’ils contribuent à maintenir le désavantage interprétatif étudié.
 
-Définition fonctionnelle
+## 5. Distinguer l’injustice herméneutique des difficultés voisines
 
-Dans l'architecture métathéorique de Protokin, on appelle injustice herméneutique :
+### 5.1. Injustice herméneutique et injustice testimoniale
 
-La pathologie structurelle, relationnelle et collective par laquelle une asymétrie de participation au dépôt sédimentaire des catégories laisse une communauté ou un groupe de locuteurs dépourvu des ressources conceptuelles indispensables pour découper, qualifier et justifier son expérience vécue, maintenant ses éprouvés dans l'indétermination des zones de silence et interdisant la formulation de ses assertions au sein de l'espace des raisons.
+L’injustice testimoniale concerne une attribution injustement diminuée de crédibilité, notamment sous l’effet d’un préjugé identitaire. L’injustice herméneutique concerne un désavantage dans les ressources collectives permettant de rendre intelligible une expérience.
 
-Cette définition met en évidence trois propriétés analytiques fondamentales :
+La distinction porte sur les mécanismes en jeu, non sur deux moments obligatoirement successifs. Une personne peut parvenir à formuler son expérience mais ne pas être crue ; elle peut aussi disposer d’une formulation qui ne permet pas aux interlocuteurs de comprendre un aspect important de ce qu’elle rapporte. Les deux difficultés peuvent coexister.
 
-· Un déficit de divisions relationnelles (Le vide conceptuel) : L'injustice ne porte pas sur la transmission de l'information (plan de la référence) ; elle réside dans l'absence de contrastes et d'incompatibilités sémantiques au présent de l'usage pour donner forme au trouble. La configuration descriptive sature en excluant l'intelligibilité de l'éprouvé.
-· La mutilation de la position d'agent (Le silence déontique) : Privé de la catégorie adéquate, le locuteur ne peut contracter aucune dette inférentielle, ni s'attribuer de responsabilités au présent. Sa plainte ou son expression corporelle (PROTO) est disqualifiée par l'auditeur institutionnel comme un simple bruit inintelligible, un cri d'organisme, plutôt que d'être accueillie comme une raison justifiable (KIN).
-· Une fermeture sélective de l'enquête : Ce déficit catégoriel protège activement l'effet cliquet et l'inertie des régimes installés. En rejetant les anomalies et les éprouvés marginaux dans les ombres sémantiques, le système s'exempte de l'obligation d'auto-correction.
+Une injustice testimoniale n’établit donc pas automatiquement une injustice herméneutique, et inversement.
 
----
+### 5.2. Injustice herméneutique et lacune conceptuelle
 
-La mécanique de l'exclusion : Sédimentation et reproduction asymétriques
+Une catégorie peut manquer parce qu’une situation est nouvelle, parce que les distinctions existantes sont insuffisantes ou parce que le vocabulaire d’une pratique est spécialisé.
 
-L'injustice herméneutique ne surgit pas instantanément ; elle s'inscrit dans la diachronie et se matérialise à travers les processus de sédimentation et de reproduction de la métathéorie :
+Pour parler d’injustice herméneutique, il faut examiner le rapport entre la difficulté interprétative et un désavantage structurel dans les conditions de participation aux ressources collectives. Une lacune conceptuelle ne suffit pas.
 
-```
-                      MÉCANIQUE DE L'EXCLUSION HERMÉNEUTIQUE
-                                        │
-      ┌─────────────────────────────────┼─────────────────────────────────┐
-      ▼                                 ▼                                 ▼
-  Asymétrie de                     Monopole de l'                   Inertie des
-  Sédimentation                     Reproduction                      Infrastructures
-(Traces documentaires et        (Rituels de transmission,        (Formulaires d'inscription,
- supports sélectifs KIN)          examens et pairs)                bases de données)
-```
+### 5.3. Injustice herméneutique et désaccord
 
-A. L'asymétrie de sédimentation
+Des personnes peuvent disposer de ressources interprétatives partagées et diverger sur leur application, leur pertinence ou les conclusions qu’elles autorisent. Un désaccord n’est pas en soi une injustice herméneutique.
 
-Les catégories d'une communauté se consolident par l'empilement historique des traces matérielles et des rituels de justification. L'injustice herméneutique s'amorce lorsque la sédimentation s'opère de manière sélective. Les groupes dominants consignent leurs justifications sur des supports externes durables (traités, archives, textes de loi), tandis que les qualifications et les savoir-faire incorporés des groupes subordonnés sont ignorés ou relégués. La mémoire collective (KIN) se structure ainsi en excluant les éprouvés de la périphérie.
+Il faut examiner si les participants peuvent formuler leurs interprétations, discuter les ressources mobilisées et contester les critères retenus. Le désaccord peut révéler une limite des ressources disponibles, mais ne prouve pas à lui seul l’existence d’un désavantage structurel.
 
-B. Le monopole de la reproduction
+### 5.4. Injustice herméneutique et erreur
 
-La reproduction diachronique formalise la transmission des critères de correction au-delà des générations biologiques. L'injustice herméneutique se verrouille lorsque les instances d'apprentissage, de certification et d'évaluation par les pairs sont monopolisées par un groupe exclusif. Les manuels, les épreuves et les rituels de certification reproduisent des divisions catégorielles closes, empêchant l'intégration de nouvelles distinctions issues de l'action et sédimentant l'invisibilité sémantique de l'expérience subie.
+Une interprétation peut être erronée, insuffisamment étayée ou inadaptée à la situation. Reconnaître la possibilité d’une injustice herméneutique n’oblige pas à tenir toute interprétation marginalisée pour correcte.
 
-C. L'enfermement infrastructural
+Inversement, le fait qu’une interprétation soit contestable ne justifie pas de négliger les conditions inégales dans lesquelles elle a été formulée ou évaluée. La qualité d’une interprétation et les conditions de participation à son examen sont deux questions distinctes.
 
-Une fois sédimentées, les catégories acquièrent une inertie physique redoutable en s'incarnant dans des supports descriptifs institutionnels et des infrastructures techniques (logiciels, formulaires standardisés, bases de données). Ces supports matériels filtrent de manière drastique les informations inscriptibles. L'absence de « case » ou de catégorie codée dans l'interface informatique interdit d'enregistrer l'éprouvé singulier du locuteur, aplatissant sa détresse et protégeant le régime contre toute possibilité de réorganisation interne.
+## 6. Exemple : une difficulté à faire reconnaître une expérience au travail
 
----
+Une personne décrit une situation de travail qui se répète et qu’elle considère comme préjudiciable. Les catégories institutionnelles disponibles ne permettent pas facilement de qualifier cette expérience. Les interlocuteurs peuvent la traiter comme un désaccord ordinaire, une difficulté individuelle ou une série d’incidents isolés.
 
-Éclairage par les fils rouges de Protokin
+Plusieurs possibilités doivent rester ouvertes.
 
-La clinique de l'injustice herméneutique et ses effets de clôture sur l'espace des raisons s'exhibent à travers les situations de référence du projet :
+La difficulté peut tenir à l’insuffisance des catégories disponibles pour décrire une situation nouvelle. Elle peut aussi résulter d’un désaccord sur l’interprétation des faits. Enfin, elle peut relever d’une injustice herméneutique si les personnes concernées sont structurellement désavantagées dans la production et la reconnaissance des ressources qui permettraient de rendre leur expérience intelligible.
 
-1. Le patient aux urgences hospitalières
+Pour examiner cette dernière hypothèse, il faudrait notamment déterminer quelles ressources interprétatives sont disponibles, qui a participé à leur élaboration, quelles expériences elles permettent de distinguer, quelles possibilités de contribution ou de contestation existent et quelles conséquences produit la difficulté de qualification.
 
-La situation de tri aux urgences illustre de façon aiguë le silence de support et d'échelle. Le patient se présente comme un corps souffrant (plan PROTO). Sa détresse subjective et son expression corporelle doivent être qualifiées. L'injustice herméneutique structurelle surgit lorsque l'interface informatique d'admission ou le formulaire de tri de l'administration hospitalière (supports externes rigides) n'offre que des catégories logistico-comptables de flux (durée de séjour, admissibilité administrative). L'infirmière de tri et le patient se heurtent à un déficit catégoriel : la souffrance vécue ne dispose d'aucune « case » pour être qualifiée dans sa densité clinique, rejetant l'urgence thérapeutique d'aval dans une zone de silence documentaire au profit des indicateurs budgétaires de premier ordre.
+L’exemple ne permet pas de conclure d’emblée à une injustice. Il montre quelles questions doivent être examinées pour différencier une lacune descriptive d’un désavantage structurel.
 
-2. Le botaniste et le bûcheron dans la forêt
+## 7. Questions d’examen
 
-Ce frottement illustre l'asymétrie institutionnelle des positions épistémiques et l'exclusion des savoirs incorporés. Lors des prises de décision d'aménagement forestier, le bûcheron dispose d'une mémoire somatique et sensorielle extrêmement fine du dépérissement de l'arbre au présent d'usage (sa flexibilité sous le vent, la résonance du fût à la coupe). Cependant, ces distinctions issues de son couplage situé ne trouvent aucune catégorie d'inscription reconnue dans la taxonomie de l'image scientifique académique du botaniste. Faute de concepts stabilisés dans les flores officielles ou les rapports d'expertise, le bûcheron subit une injustice herméneutique : il est incapable d'articuler son avertissement d'artisan dans un langage jugé recevable par l'institution, sa parole étant disqualifiée comme une simple intuition subjective ou une superstition naïve.
+Lorsqu’une situation fait soupçonner une injustice herméneutique, l’enquête peut examiner les questions suivantes :
 
-3. La déconstruction de « Cette personne est mauvaise »
+- Quelle expérience est difficile à rendre intelligible, et pour qui ?
+- Quelles ressources interprétatives sont disponibles dans la pratique concernée ?
+- Ces ressources permettent-elles de distinguer les aspects pertinents de l’expérience ?
+- Qui peut contribuer à leur élaboration, à leur transmission et à leur révision ?
+- Existe-t-il un désavantage structurel dans ces possibilités de participation ?
+- Quels effets ce désavantage produit-il sur la possibilité de décrire, de discuter ou de faire prendre en compte l’expérience ?
+- Quelles autres explications de la difficulté restent possibles ?
+- Quels éléments permettraient de confirmer, de nuancer ou de rejeter l’hypothèse d’injustice ?
 
-Ce cas moral d'école montre la violence de la clôture catégorielle binaire. En figeant un individu sous le prédicat d'essence « mauvaise par nature » (image manifeste ordinaire), la communauté de premier ordre commet une erreur de catégorie et installe un verrouillage déontique massif. Si le collectif ne dispose d'aucun autre vocabulaire que l'alternative binaire « bon/mauvais », l'individu subit une injustice herméneutique structurelle. Il est matériellement incapable d'expliciter la complexité de ses éprouvés, de ses traumatismes d'amont ou des contraintes environnementales (plan PROTO) qui ont causé son acte violent, car le régime moral dominant rejette ces explications dans les ombres sémantiques de la culpabilité essentielle, lui interdisant toute re-qualification de sa trajectoire de vie.
+Ces questions sont des repères, non les étapes d’un protocole obligatoire. Leur pertinence dépend de la situation et des éléments disponibles. Une enquête peut devoir revenir sur la délimitation du problème, examiner les catégories employées ou comparer les interprétations proposées avant de pouvoir soutenir un diagnostic.
 
-4. La déconstruction de « Cette personne est dangereuse »
+## 8. Articulation avec Protokin
 
-La dangerosité est un invariant relationnel et institutionnel construit par des accumulations sédimentées d'expertises et de dossiers de probation. Traiter ce statut d'imputation relative (KIN) comme une propriété biologique intrinsèque de l'organisme (PROTO) constitue une erreur de catégorie qui produit une injustice herméneutique structurelle majeure. L'individu se trouve pris au piège de l'étiquette : son dossier fige sa dangerosité à l'échelle de l'organisation. Toute tentative de faire valoir ses efforts de réhabilitation, ses bifurcations éthiques ou ses capacités de changement se heurte à l'absence de catégories de réversibilité dans les bases de données sécuritaires, le privant des ressources logiques pour réclamer une révision de son statut d'exclusion.
+L’injustice herméneutique concerne les conditions dans lesquelles certaines expériences peuvent être rendues intelligibles au moyen de ressources interprétatives collectives. Elle peut donc conduire à examiner les catégories, les positions épistémiques, les supports et les pratiques collectives concernés.
 
----
+Ces éléments ne doivent pas être confondus :
 
-Le protocole d'audit de l'injustice herméneutique en cinq étapes
+- une **catégorie** permet d’organiser des différences pertinentes dans une pratique ;
+- une **position épistémique** désigne les ressources, les contraintes et les perspectives depuis lesquelles une personne peut décrire et interpréter une situation ;
+- un **support descriptif** contribue à conserver, transmettre ou mobiliser des ressources ;
+- une **pratique collective** organise les contributions de plusieurs participants à la production et à la transformation des descriptions.
 
-L'audit de Protokin ne s'érige pas en tribunal éthique extérieur ; il déploie un parcours d'explicitation méthodique de second ordre pour repérer, cartographier et lever les déficits catégoriels qui bloquent la rationalité de la coordination collective :
+Aucune de ces notions ne constitue, à elle seule, une explication complète de l’injustice herméneutique. Leur rôle doit être établi dans la situation examinée.
 
-```
-                  SÉQUENCE D'AUDIT DE L'INJUSTICE HERMÉNEUTIQUE
-                                        │
-                                        ▼
-                     Étape 1 : Isolation du trouble pratique
-                                        │
-                                        ▼
-                  Étape 2 : Cartographie des supports d'inscription
-                                        │
-                                        ▼
-                  Étape 3 : Repérage de l'asymétrie de sédimentation
-                                        │
-                                        ▼
-                 Étape 4 : Mesure de l'écart et du coût logique
-                                        │
-                                        ▼
-                  Étape 5 : Réorganisation et ouverture de l'enquête
-```
+Les orientations Condition, Relation, Fonction et Justification peuvent aider à différencier les questions posées : conditions de participation, dépendances entre acteurs et ressources, rôle des catégories dans la pratique, raisons de soutenir ou de contester une interprétation. Elles ne constituent ni une ontologie de l’injustice ni une succession obligatoire d’étapes.
 
-Étape 1 : Isolation du trouble pratique
+## 9. Limites et non-conversions
 
-L'enquêteur isole la situation de blocage ou la détresse somatique non articulée au présent d'usage au sein du collectif.
+L’analyse de l’injustice herméneutique exige de préserver plusieurs distinctions.
 
-· Indicateur : Une souffrance ou une anomalie physique (PROTO) est visible mais ne donne lieu à aucun engagement ou redevabilité (KIN), ou produit des conflits stériles de surface.
+- **Absence de catégorie ≠ injustice herméneutique :** il faut établir le désavantage structurel auquel la lacune est liée.
+- **Expérience difficile à exprimer ≠ expérience inexistante :** une difficulté de formulation ne suffit pas à nier ce qui est rapporté.
+- **Interprétation marginalisée ≠ interprétation nécessairement correcte :** les conditions de participation et la qualité des affirmations doivent être examinées séparément.
+- **Désaccord ≠ exclusion :** les divergences d’interprétation ne démontrent pas à elles seules un désavantage structurel.
+- **Support inadéquat ≠ injustice démontrée :** il faut établir le rôle du dispositif, ses conséquences et les possibilités de révision.
+- **Effet structurel ≠ intention malveillante :** une injustice peut se produire sans volonté explicite d’exclure, sans que la question des responsabilités soit pour autant réglée.
+- **Intelligibilité ≠ justification :** rendre une expérience compréhensible ne suffit pas à justifier toutes les affirmations ou décisions qui s’y rapportent.
+- **Explication du désavantage ≠ justification de son maintien :** décrire pourquoi une ressource se maintient ne prouve pas qu’elle soit adéquate ou acceptable.
 
-Étape 2 : Cartographie des supports d'inscription
+Ces distinctions empêchent deux conclusions opposées : tenir toute difficulté d’interprétation pour une injustice, ou réduire une injustice possible à une simple insuffisance de vocabulaire.
 
-L'auditeur examine les infrastructures documentaires et informatiques (logiciels, formulaires, registres) qui cadrent la situation d'usage.
+## 10. Synthèse
 
-· Opération : Reconstruire de manière immanente quelles catégories sont matériellement disponibles pour l'enregistrement et le suivi des engagements publics.
+L’injustice herméneutique concerne un désavantage structurel dans l’accès aux ressources interprétatives collectives nécessaires pour rendre intelligible une expérience sociale importante.
 
-Étape 3 : Repérage de l'asymétrie de sédimentation
+Elle ne se réduit ni à l’absence d’un mot, ni à un désaccord, ni à une erreur d’interprétation. Son diagnostic exige d’examiner les ressources disponibles, les conditions inégales de participation à leur production et à leur usage, ainsi que les conséquences de cette inégalité pour les personnes concernées.
 
-L'auditeur recherche qui a participé à la sédimentation historique des critères et qui a été exclu des canaux de transmission officielle.
+Protokin peut prolonger cette analyse en examinant le rôle des catégories, des supports et des pratiques collectives. Ces éléments constituent des dimensions possibles de l’enquête, non une explication universelle ni une typologie supplémentaire déjà établie.
 
-· Question d'audit : Quelles voix ou perspectives de premier ordre ont été systématiquement rejetées à la périphérie ou passées sous silence lors du codage et de l'institutionnalisation de ces formulaires ?
+## 11. Pour poursuivre
 
-Étape 4 : Évaluation de l'écart et du coût logique
+- [Injustice épistémique](fr/injustice-epistemique.md)
+- [Miranda Fricker](fr/miranda-fricker.md)
+- [Catégories](fr/categories.md)
+- [Position épistémique](fr/position-epistemique.md)
+- [Support descriptif](fr/support-descriptif.md)
+- [Pratique collective](fr/pratique-collective.md)
+- [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md)
+- [Justification](fr/justification.md)
 
-L'auditeur applique le critère de vigilance pour mesurer l'impact du déficit catégoriel structurel.
+## 12. Référence principale
 
-· Question d'audit : Le déficit de catégories d'accueil s'accompagne-t-il d'un effacement du statut d'agent du locuteur, d'une destruction sémantique de son éprouvé vécu ou d'une fermeture illégitime de l'enquête ?
-· Résultat : Si le critère est validé positivement, le diagnostic d'injustice herméneutique structurelle est formellement prononcé.
-
-Étape 5 : Réorganisation et ouverture de l'enquête
-
-L'audit suspend le monopole du régime dominant et force le Collective Operating System (cOS) à réorganiser ses catégories et à adapter ses supports matériels.
-
-· Opération : Ouvrir une enquête collective pour concevoir de nouvelles divisions relationnelles et des connecteurs de traduction qui réintègrent la parole exclue et restaurent la plasticité de l'action commune.
-
----
-
-Distinctions conceptuelles nécessaires
-
-Injustice herméneutique et Simple indétermination conceptuelle
-
-La différence porte sur la nature politique et asymétrique de l'exclusion. L'indétermination conceptuelle est une situation d'enquête ordinaire où le collectif n'a pas encore stabilisé un concept face à un nouveau phénomène (par exemple, un nouveau virus) ; le trouble est partagé de manière symétrique par toute la communauté d'enquête. L'injustice herméneutique est un déficit sélectif : le collectif dispose d'un vocabulaire très dense pour régenter le domaine, mais ce vocabulaire est structuré de telle sorte qu'il occulte spécifiquement et asymétriquement les expériences de souffrance des locuteurs marginaux au profit de l'ordre établi.
-
-Injustice herméneutique et Injustice testimoniale structurelle
-
-La différence réside dans l'accès à l'espace des raisons. Dans l'injustice testimoniale, le locuteur possède les catégories, formule son assertion (ex : « J'ai été agressé »), mais son auditeur diminue asymétriquement son score de crédibilité à cause de préjugés, traitant sa parole comme un bruit physique ou somatique (PROTO). Dans l'injustice herméneutique, le locuteur ne dispose même pas des divisions nécessaires au sein de sa langue pour découper son éprouvé (ex : avant la stabilisation du concept de « harcèlement sexuel ») ; il est incapable d'élaborer l'assertion même, restant prisonnier d'un trouble inarticulé.
-
-Injustice herméneutique et Limite interne d'une configuration
-
-La limite interne caractérise le seuil d'épuisement ou de saturation fonctionnelle de toute description de premier ordre (médicale, physique, comptable) face aux résistances du milieu. L'injustice herméneutique n'est pas une simple limite technique : c'est un dysfonctionnement éthico-normatif où l'organisation matérielle des supports d'un régime dominant (par exemple, des grilles bureaucratiques d'évaluation de la performance) interdit activement d'expliciter et de faire valoir les éprouvés des acteurs de terrain, convertissant une limite fonctionnelle en un outil d'exclusion structurelle.
-
----
-
-Limites et vigilances de l'audit de second ordre
-
-Lors de sa propre performance d'investigation réflexive, l'auditeur Protokin applique trois points de vigilance méthodologique stricts face à ce diagnostic :
-
-· L'illusion du tribunal de surplomb (Le biais moralisateur) : Oublier le principe de non-substitution et s'ériger en juge moral ou politique d'amont distribuant des condamnations éthiques contre les institutions. L'audit de Protokin demeure strictement clinique, fonctionnaliste et descriptif : il s'agit de mesurer le coût logique et la perte sémantique de la configuration pour optimiser sa puissance d'action et libérer l'espace des raisons, et non de distribuer des blâmes moraux extérieurs.
-· La dérive de l'impérialisme métathéorique (Le biais de substitution) : Prétendre combler de manière externe le déficit catégoriel en imposant les outils conceptuels de Protokin aux acteurs de premier ordre. L'auditeur ne doit pas inventer de nouvelles catégories à la place des soignants, des bûcherons ou des patients ; il doit réactiver l'autonomie et les supports nécessaires pour que les communautés mènent elles-mêmes leur propre enquête d'auto-émancipation.
-· Le piège de la dilution relativiste (L'éclectisme laxiste) : Interpréter la dénonciation de l'injustice herméneutique comme l'obligation d'accorder une validité scientifique identique à n'importe quel discours ou opinion arbitraire. Lutter contre l'injustice ne consiste pas à dissoudre la rigueur des critères expérimentaux de la science dans un pluralisme confus ; elle consiste à délimiter l'espace de pertinence de chaque juridiction pour s'assurer que les descriptions scientifiques ne servent pas à écraser de façon clandestine des responsabilités éthiques ou juridiques autonomes.
-
----
-
-Synthèse finale
-
-Ce que cette page établit
-
-Le diagnostic d'injustice herméneutique en tant que pathologie structurelle des cadres de dicibilité, formalisant le mécanisme du déficit catégoriel structurel issu de la sédimentation et de la reproduction asymétriques, sa séquence d'audit en cinq étapes immanentes, ses critères de vigilance et ses distinctions logiques face aux pathologies d'exclusion.
-
-Ce qu'elle suppose
-
-La catégorie descriptive, la configuration descriptive, l'injustice épistémique, le processus de stabilisation et de sédimentation, et la distinction fondamentale entre espace des causes (PROTO) et espace des raisons (KIN).
-
-Ce qu'elle rend possible
-
-L'identification et la correction des zones de silence sédimentées, le repérage clinique des inerties documentaires et infrastructurales, la mise en œuvre de connecteurs de traduction inter-régimes équitables, et la conduite méthodique de l'audit des régimes respectueux de la plasticité de l'espace des raisons.
-
----
-
-Protokin 2026 — version 26.08.081
+Fricker, Miranda. *Epistemic Injustice: Power and the Ethics of Knowing*. Oxford University Press, 2007.
