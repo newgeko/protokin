@@ -213,6 +213,7 @@ Les instruments d’épreuve servent à examiner les distinctions, les inférenc
 ### B. Comparer et éprouver
 
 - [Comparer deux descriptions](fr/comparer-deux-descriptions.md) — Examiner les différences d’engagement, de fonction et de conséquence entre deux descriptions.
+- [Exégèse](fr/exegese.md) — Reconstruire le fonctionnement descriptif d’un texte et examiner le réemploi de ses ressources dans une autre enquête.
 - [Évaluer une traduction](fr/evaluer-une-traduction.md) — Examiner les transformations produites par le passage d’une description à une autre.
 - [Butoir](fr/butoir.md) — Identifier les contraintes qui empêchent certaines interprétations ou certains enchaînements.
 
