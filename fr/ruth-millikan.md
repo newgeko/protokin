@@ -1,1 +1,203 @@
-\### Ruth Millikan — Fonctions propres, téléosémantique et ancrage biologique #### Fonction Cette page examine l’apport de Ruth Garrett Millikan à un problème central pour Protokin : comment comprendre l’ancrage biologique et historique des fonctions représentatives sans réduire la justification normative dans l’espace des raisons à une simple histoire sélectionnelle ou génétique. La théorie des \*fonctions propres\* et la téléosémantique développées par Millikan dans \*Language, Thought, and Other Biological Categories\* (1984) offrent une explication naturaliste et non mentaliste de la manière dont des dispositifs (organes, comportements, signaux, énoncés) acquièrent une orientation fonctionnelle et intentionnelle. Pour Protokin, cet héritage permet d'éclairer l'ancrage matériel et pré-normatif des pratiques (plan PROTO) sans convertir l'adaptation biologique en critère de validité discursive (plan KIN). Cette page situe cet héritage philosophique. Elle ne propose ni une exégèse exhaustive de l’œuvre de Millikan ni une fondation biologique unique pour l’ensemble des pratiques humaines. --- #### 1\. Le problème téléosémantique : l'ancrage biologique de la représentation Dans la philosophie de l'esprit et du langage, l'intentionnalité (le fait pour un état ou un signe de porter sur quelque chose, d'être \*à propos de\* quelque chose) a longtemps été traitée soit comme un mystère mentaliste, soit comme une simple corrélation physique ou statistique. Millikan surmonte cette alternative en proposant une approche téléologique et naturaliste : \* Un dispositif ne possède pas une fonction représentative en raison de sa structure interne présente ou de ses dispositions actuelles, mais en raison de son \*\*histoire sélectionnelle\*\*. \* La fonction d'un organe (comme le cœur ou l'œil) ou d'un signal (comme la danse des abeilles ou un cri d'alarme) se définit par ce que ses ancêtres ont accompli et qui a rendu possible la reproduction et la prolifération de ce dispositif dans une population. Il faut distinguer trois niveaux d'analyse : 1\. \*\*La constitution physique actuelle\*\* : ce dont le dispositif est matériellement capable à un moment donné (qui peut être altéré ou défaillant). 2\. \*\*La fonction propre (\*proper function\*)\*\* : ce que le dispositif est \*censé\* accomplir au regard de l'histoire sélectionnelle qui l'a produit. 3\. \*\*La justification normative\*\* : ce qui autorise une communauté de locuteurs à tenir une affirmation pour valide dans l'espace des raisons. Cette distinction permet d'expliquer la possibilité de l'erreur, du dysfonctionnement ou de la fausseté : un cœur malformé demeure un cœur (car sa fonction propre est de pomper le sang, même s'il n'y parvient pas) ; une croyance fausse ou un énoncé erroné demeurent des représentations (car leur fonction propre est de cartographier le monde, même si les conditions actuelles ont produit un échec). --- #### 2\. La théorie des fonctions propres : directes, dérivées et adaptées Pour étendre cette analyse de la biologie au langage et à la pensée humaine, Millikan élabore une typologie rigoureuse des fonctions propres : ##### 2.1\. Les fonctions propres directes Une fonction propre directe est attribuée à un dispositif en tant qu'il appartient à une \*famille reproductible\* (biologique ou culturelle). Les yeux, les cœurs, mais aussi les rituels de salutation ou les mots du langage ordinaire possèdent des fonctions propres directes : ils existent aujourd'hui parce que leurs occurrences passées ont accompli des effets qui ont assuré leur maintien et leur reproduction. ##### 2.2\. Les fonctions propres adaptées et dérivées Les organismes et les locuteurs font face à des situations nouvelles qui n'ont pas fait l'objet d'une sélection biologique directe. Un dispositif peut alors acquérir une \*fonction propre adaptée\* et produire un dispositif adaptatif doté d'une \*fonction propre dérivée\* : \* Le caméléon modifie sa couleur en fonction du support sur lequel il se trouve. La disposition à s'adapter possède une fonction propre directe (échapper aux prédateurs) ; la pigmentation spécifique produite à un instant $t$ (par exemple des taches brunes et vertes) possède une \*fonction propre dérivée\*, adaptée à ce contexte particulier. \* De même, un énoncé linguistique nouveau produit dans un contexte inédit possède une fonction propre dérivée, conférée par les mécanismes sous-jacents de la langue et par les intentions de l'émetteur. --- #### 3\. Les conditions Normales et la cartographie des icônes intentionnelles Un élément central de la téléosémantique de Millikan repose sur la notion technique de \*\*conditions Normales\*\* (\*Normal conditions\*) et d'\*\*explications Normales\*\* (\*Normal explanations\*) : \* \*\*« Normal » ne désigne pas une moyenne statistique.\*\* La majorité des spermatozoïdes ne fertilisent jamais un œuf ; la majorité des graines ne germeront jamais. Pourtant, la fonction propre de fertilisation ou de germination s'explique par les conditions historiques privilégiées (statistiquement minoritaires mais biologiquement déterminantes) où le dispositif a effectivement réussi à remplir sa fonction. \* \*\*Cartographie et icônes intentionnelles\*\* : Un signal ou une représentation fonctionne comme une \*icône intentionnelle\* lorsqu'il existe une règle de correspondance (\*mapping rule\*) entre les variations du signal et les variations de l'environnement. L'icône permet à un dispositif interprète coopératif d'adapter son comportement au milieu, sous la condition Normale que la correspondance soit satisfaite. Pour Millikan, la valeur sémantique ou le contenu intentionnel d'un signe ne réside pas dans une idée privée, mais dans la condition du monde que ce signe doit cartographier pour que le système interprète accomplisse sa propre fonction en accord avec une explication Normale. --- #### 4\. Les non-conversions protokiniennes de l'héritage millikanien Protokin intègre la téléosémantique de Millikan comme un puissant opérateur d'ancrage d'amont (plan PROTO), mais lui applique une série de principes de \*\*non-conversion\*\* stricts afin de préserver l'autonomie de la normativité discursive (plan KIN) : \* \*\*Genèse sélectionnelle $\\neq$ Justification.\*\* L'histoire évolutive ou l'utilité adaptative d'un dispositif explicite la production d'une capacité ou d'un comportement ; elle ne suffit pas à justifier la vérité ou la validité d'une assertion devant des pairs. \* \*\*Cause / Adaptation $\\neq$ Raison.\*\* Un organisme peut être adapté à une niche biologique sans que cette adaptation constitue une raison dans l'espace des raisons. \* \*\*Fonction propre $\\neq$ Norme de l'espace des raisons.\*\* La fonction propre décrit la norme téléologique d'un système biologique ou d'un outil ; la norme discursive concerne la redevabilité, l'obligation et la responsabilité associées aux engagements assertifs. \* \*\*Succès évolutif $\\neq$ Validité.\*\* Le fait qu'un dispositif représentatif ait été sélectionné pour sa valeur de survie ne garantit ni son adéquation catégorielle fine ni sa vérité dans des contextes d'enquête révisables. En termes d'architecture, la théorie de Millikan permet de décrire comment le vivant produit des \*icônes intentionnelles\* et des \*fonctions de stimulus\* élaborées, mais ne franchit pas à elle seule le seuil de la justification normative par des raisons. --- #### 5\. Millikan dans l'écologie des héritages Pour éviter toute confusion conceptuelle, il convient de situer Millikan par rapport aux autres figures philosophiques du corpus Protokin : \* \*\*Par rapport à Wilfrid Sellars\*\* : Millikan prolonge le naturalisme en expliquant le rôle des systèmes représentatifs animaux et humains. Mais là où Sellars distingue strictly l'explication causale et l'espace des raisons (critique du Donné), Millikan tente de reconstruire le contenu représentatif à partir de l'étiologie biologique. Protokin conserve la critique sellarsienne : l'ancrage téléologique de Millikan éclaire le plan PROTO, mais ne remplace pas l'espace sellarsien des raisons au plan KIN (voir [Wilfrid Sellars](wilfrid-sellars.md)). \* \*\*Par rapport à Joseph Rouse\*\* : Rouse et Millikan mobilisent tous deux la biologie de l'évolution. Cependant, Rouse met l'accent sur la \*construction de niche\* et la normativité immanente des pratiques scientifiques situées, tandis que Millikan se concentre sur l'étiologie sélectionnelle des fonctions propres. Protokin articule la fonction propre millikanienne comme un composant d'amont de la niche (voir [Joseph Rouse](joseph-rouse.md) et [Niche biologique](niche-biologique.md)). \* \*\*Par rapport à Robert Brandom\*\* : Brandom refuse de faire de la représentation le concept primitif et privilégie l'inférentialisme et le scorekeeping déontique. Millikan adopte une démarche inverse en fondant le contenu sur la fonction téléologique. Protokin maintient les deux approches à leurs niveaux respectifs : Millikan pour l'ancrage fonctionnel d'amont, Brandom pour la structure inférentielle et normative d'aval (voir [Robert Brandom](robert-brandom.md)). \* \*\*Par rapport à la RFT et l'analyse comportementale\*\* : L'analyse comportementale (Skinner, RFT) étudie la modification des fonctions de stimulus au cours de l'histoire d'apprentissage individuelle (\*ontogenèse\*). Millikan étudie la sélection des fonctions propres à l'échelle des populations (\*phylogenèse\*). Les deux plans se complètent sans se confondre (voir [La fonction de stimulus](fonction-de-stimulus.md)). --- #### 6\. Mise à l'épreuve : le signal de la danse des abeilles et le diagnostic clinique Deux exemples permettent d'éprouver le champ d'application et les limites de la téléosémantique millikanienne dans Protokin : ##### 6.1\. La danse des abeilles La danse en huit de l'abeille est une icône intentionnelle adaptative : \* \*\*Fonction propre\*\* : Indiquer la direction et la distance du nectar à la ruche. \* \*\*Fonctions adaptées et dérivées\*\* : Lorsqu'une abeille éclaireuse découvre un gisement précis au sud-est, sa danse acquiert la fonction propre dérivée de guider les abeilles butineuses vers ce point exact. \* \*\*Explication Normale\*\* : La danse ne fonctionne que si la position du soleil, l'état visuel de l'abeille et le récepteur fonctionnent en accord avec les conditions Normales de leur sélection. \* \*\*Limite protokinienne\*\* : La danse des abeilles est un système intentionnel biologique efficace (PROTO), mais non représentatif au sens discursif (KIN) : les abeilles ne discutent pas les prémisses de la danse, ne contestent pas sa validité par des contre-arguments et ne demandent pas de justifications à l'émetteur. ##### 6.2\. Le symptôme et le tracé ECG aux urgences hospitalières Lors d'une crise cardiaque, le corps du patient émet des réponses physiologiques (sudation, douleur thoracique) et des dispositifs de mesure produisent des traces (le tracé ECG) : \* L'organisme et l'appareil ECG possèdent des fonctions propres de signalisation et de mesure. \* Toutefois, le médecin aux urgences ne se contente pas d'enregistrer une réponse biologique : il qualifie le tracé, l'intègre dans un diagnostic, compare des critères et répond de sa décision devant l'équipe clinique. \* Le dysfonctionnement biologique (PROTO) sert de \*butoir\* et d'ancrage ; la qualification médicale et la décision de soins (KIN) relèvent de la responsabilité et de la justification descriptives. --- #### 7\. Portée et limites de cet héritage La contribution de Ruth Millikan fournit à Protokin un cadre précieux pour conceptualiser l'ancrage biologique des pratiques descriptives, sans verser dans le mentalisme ni dans le physicalisme réductionniste. Elle ne permet pas, à elle seule : \* De justifier la validité des catégories théoriques, juridiques ou scientifiques. \* De réduire les normes de correction d'une enquête collective à des mécanismes d'adéquation évolutive. \* De dissoudre la distinction entre expliquer la genèse d'un signe et établir la légitimité d'une conclusion. Protokin retient de Millikan une exigence de continuité matérielle et d'asymétrie fonctionnelle : les capacités représentatives de l'humain émergent de l'histoire du vivant et des fonctions propres de ses organes et de ses outils, mais les exigences de justification au sein de l'espace des raisons obéissent à des critères de redevabilité qui ne se réduisent pas à leur genèse biologique. --- #### Synthèse L'apport de Ruth Millikan réside dans la formulation d'une théorie naturaliste des \*\*fonctions propres\*\* et des \*\*icônes intentionnelles\*\*, permettant d'expliquer comment des signes et des dispositifs acquièrent une orientation représentative à travers leur histoire sélectionnelle et leurs conditions Normales de fonctionnement. Protokin reprend cette analysis pour ancrer les pratiques descriptives dans le prolongement du vivant (plan PROTO). Elle maintient toutefois une frontière méthodologique rigoureuse : l'étiologie évolutive explique la production et l'utilité d'un dispositif représentatif ; elle ne remplace pas l'examen des raisons et des critères de justification qui règlent la validité des descriptions dans une pratique collective (plan KIN). --- Pour poursuivre : \* [Wilfrid Sellars](wilfrid-sellars.md) \* [Joseph Rouse](joseph-rouse.md) \* [Robert Brandom](robert-brandom.md) \* [Niche biologique](niche-biologique.md) \* [La fonction de stimulus](fonction-de-stimulus.md) \* [Table des matières](tdm.md) \* [Quadripartition de l’orientation](quadripartition-de-l-orientation.md)
+# Ruth Millikan — Fonctions propres et téléosémantique
+
+## Fonction
+
+Cette page présente l’apport de Ruth Garrett Millikan à l’étude des fonctions biologiques et du contenu représentatif. Sa théorie des fonctions propres (*proper functions*) et sa téléosémantique proposent d’expliquer comment des organismes, des dispositifs et des signes acquièrent certaines fonctions à partir de leur histoire et des relations dans lesquelles ils interviennent.
+
+Pour Protokin, cet héritage permet d’examiner les conditions historiques et biologiques de certaines fonctions représentatives, sans confondre leur genèse, leur fonctionnement effectif et la justification des descriptions produites dans une pratique.
+
+Cette page ne propose ni une exégèse exhaustive de l’œuvre de Millikan ni une théorie générale de la signification. Elle précise ce que ses propositions permettent d’examiner et les limites de leur reprise dans Protokin.
+
+## 1. Le problème : expliquer le contenu représentatif
+
+Comment un état biologique, un signal ou une expression peut-il représenter quelque chose plutôt que simplement produire un effet ?
+
+Une réponse qui invoquerait seulement les propriétés physiques du signal ne suffirait pas nécessairement à expliquer son rôle représentatif. Deux signaux physiquement différents peuvent remplir des fonctions comparables ; un même signal peut également produire des effets différents selon le dispositif qui le reçoit et les circonstances dans lesquelles il intervient.
+
+Millikan propose une approche naturaliste qui prend en compte l’histoire des dispositifs et les fonctions qu’ils remplissent dans des systèmes biologiques ou culturels. La représentation n’est pas expliquée uniquement par les propriétés présentes d’un signe ni par l’intention consciente de celui qui le produit.
+
+L’enjeu est de comprendre comment des relations fonctionnelles, constituées et maintenues au cours d’une histoire, contribuent à rendre possibles des contenus représentatifs.
+
+Cette approche déplace le problème : au lieu de chercher le contenu dans une propriété intrinsèque du signe ou dans une signification mentale privée, elle examine les fonctions des producteurs de représentations, celles des systèmes qui les utilisent et les conditions dans lesquelles leurs activités peuvent réussir ou échouer.
+
+## 2. Les fonctions propres
+
+### 2.1. Fonction propre et fonctionnement effectif
+
+Une **fonction propre** (*proper function*) ne désigne pas simplement ce qu’un dispositif fait actuellement, ni ce qu’un observateur pourrait lui faire accomplir.
+
+Dans la théorie de Millikan, son attribution dépend notamment de l’histoire de reproduction ou de maintien du dispositif et des effets qui ont contribué à cette histoire. Pour les fonctions biologiques, l’histoire sélectionnelle joue un rôle central. Pour les dispositifs culturels, l’histoire de reproduction et de transmission peut également intervenir.
+
+Il faut donc distinguer :
+
+- **La capacité actuelle** : ce que le dispositif peut accomplir dans les circonstances présentes.
+- **Le fonctionnement effectif** : ce qu’il accomplit effectivement dans une situation déterminée.
+- **La fonction propre** : ce qu’il a pour fonction d’accomplir au regard de l’histoire pertinente qui explique son maintien ou sa reproduction.
+
+Ces dimensions peuvent diverger. Un cœur peut continuer d’exister tout en remplissant mal sa fonction ; un dispositif peut fonctionner correctement sans remplir toutes les fonctions pour lesquelles il a été conservé ou reproduit.
+
+Cette distinction permet de comprendre pourquoi un échec n’annule pas automatiquement l’attribution d’une fonction. Elle ne signifie pas que toute fonction puisse être déterminée sans enquête sur l’histoire du dispositif.
+
+### 2.2. Fonctions biologiques et fonctions culturelles
+
+Millikan étend son analyse au-delà des organes biologiques. Des signaux, des mots et des pratiques transmises peuvent être étudiés à partir des histoires qui expliquent leur maintien et leur réutilisation.
+
+Un mot ne remplit pas sa fonction uniquement en vertu de sa forme physique. Son rôle dépend notamment des pratiques linguistiques dans lesquelles il est produit et interprété, ainsi que des relations historiques qui permettent à ces pratiques de se reproduire.
+
+L’extension de la notion de fonction propre au domaine culturel ne signifie toutefois pas que les fonctions biologiques et les fonctions linguistiques seraient identiques. Les histoires pertinentes, les systèmes concernés et les critères permettant d’examiner leur fonctionnement doivent être précisés dans chaque cas.
+
+La notion de fonction propre fournit ainsi un moyen d’étudier la continuité entre certains phénomènes biologiques et culturels, sans supposer qu’une seule explication suffit à rendre compte de toutes leurs différences.
+
+## 3. Téléosémantique et contenu représentatif
+
+La téléosémantique de Millikan cherche à expliquer le contenu des représentations en examinant les fonctions des systèmes qui les produisent et de ceux qui les utilisent.
+
+Cette analyse distingue notamment deux rôles :
+
+- **Le système producteur** produit un signe ou une représentation dans certaines conditions.
+- **Le système consommateur** utilise ce signe ou cette représentation pour guider une activité, une réaction ou une autre opération.
+
+Ces rôles peuvent être remplis par des dispositifs biologiques, des organismes ou des systèmes impliqués dans des pratiques plus complexes. Ils ne désignent pas nécessairement deux organismes distincts : il s’agit de fonctions différenciées dans l’explication.
+
+Le contenu représentatif ne se réduit alors ni à la structure physique du signe ni à l’effet particulier qu’il produit à un moment donné. Il dépend des relations fonctionnelles qui permettent de comprendre ce que le signe représente pour le système concerné.
+
+Cette approche permet notamment d’examiner comment une représentation peut être incorrecte. Si son contenu dépend de fonctions et de relations qui ne sont pas satisfaites dans la situation présente, l’échec de la représentation ne suffit pas à supprimer le contenu qu’elle était censée représenter.
+
+Il faut cependant distinguer la reconstruction théorique proposée par Millikan de l’identification effective d’un contenu dans un cas particulier. L’histoire fonctionnelle ne dispense pas d’examiner les conditions dans lesquelles le signe est produit, interprété et utilisé.
+
+## 4. Conditions normales et icônes intentionnelles
+
+### 4.1. Les conditions normales
+
+Les **conditions normales** (*Normal conditions*) occupent une place importante dans la théorie de Millikan. Elles ne désignent pas simplement les circonstances les plus fréquentes ni une moyenne statistique.
+
+Elles renvoient aux conditions pertinentes pour expliquer comment un dispositif peut remplir sa fonction propre. Leur détermination dépend de l’explication fonctionnelle considérée et de l’histoire qui permet de comprendre pourquoi le dispositif existe et comment il fonctionne.
+
+Un dispositif peut échouer dans les circonstances présentes sans que sa fonction propre disparaisse. Inversement, la seule fréquence d’un résultat ne suffit pas à établir qu’il correspond à la fonction du dispositif.
+
+La notion de normalité ne doit donc pas être transformée en critère universel permettant de déclarer une situation correcte ou incorrecte. Son rôle dépend de l’analyse fonctionnelle dans laquelle elle intervient.
+
+### 4.2. Les icônes intentionnelles
+
+Millikan mobilise la notion d’**icône intentionnelle** (*intentional icon*) pour analyser certaines représentations dont les variations entretiennent des relations systématiques avec des variations de ce qu’elles représentent.
+
+Une telle analyse examine notamment les correspondances entre le signe et ce qu’il représente, ainsi que les fonctions du système qui produit et de celui qui utilise cette représentation.
+
+Le contenu ne réside pas simplement dans une ressemblance physique. Il dépend des relations de correspondance et des fonctions qui rendent la représentation opératoire pour le système consommateur.
+
+Cette notion permet d’examiner comment un signe peut guider une activité sans que sa signification soit réduite à une intention consciente ou à une association ponctuelle.
+
+Elle ne constitue cependant pas une définition générale de tout signe ni une garantie que toute représentation fonctionne correctement. La relation de correspondance, les fonctions concernées et les conditions de leur réalisation doivent être établies dans le cas étudié.
+
+## 5. Ce que cet héritage permet d’examiner dans Protokin
+
+La théorie de Millikan fournit des ressources pour analyser les conditions historiques et fonctionnelles dans lesquelles certaines représentations deviennent possibles, sont transmises et peuvent échouer.
+
+Elle invite notamment à distinguer plusieurs questions :
+
+- Quelles conditions biologiques, matérielles ou historiques rendent possible une activité représentative ?
+- Quelle fonction le dispositif remplit-il dans le système considéré ?
+- Quel rôle joue le signe pour le système qui l’utilise ?
+- Quelles relations permettent d’expliquer le contenu représentatif attribué au signe ?
+- Dans quelles conditions peut-on parler de réussite, d’échec ou de dysfonctionnement ?
+
+Ces questions peuvent contribuer à l’examen d’une pratique descriptive. Elles n’épuisent toutefois pas les problèmes que Protokin peut rencontrer : identifier une représentation, établir ce dont elle traite, comparer plusieurs descriptions et justifier une conclusion ne sont pas une seule et même opération.
+
+La quadripartition de l’orientation — Condition, Relation, Fonction et Justification — peut aider à différencier ces questions. Elle ne constitue pas une décomposition de la théorie de Millikan et ne doit pas être projetée sur son œuvre comme si celle-ci avait été construite à partir de ce cadre.
+
+La contribution de Millikan concerne principalement l’explication des fonctions et du contenu représentatif. La portée de cette contribution pour un problème particulier doit être examinée au lieu d’être déduite de sa seule compatibilité générale avec les intérêts de Protokin.
+
+## 6. Distinctions avec les autres héritages du corpus
+
+### 6.1. Millikan et Sellars
+
+Sellars examine notamment pourquoi une expérience ou un état naturel ne peut pas, par sa seule présence, justifier une prétention à connaître. Sa critique du donné conduit à distinguer les conditions de production d’une affirmation et les raisons qui permettent de la soutenir.
+
+Millikan aborde un autre problème : elle cherche à expliquer le contenu représentatif à partir des fonctions et des histoires qui permettent de comprendre l’existence et le rôle des représentations.
+
+Les deux démarches peuvent contribuer à l’examen des relations entre nature et connaissance, mais elles ne proposent pas la même analyse. La téléosémantique ne résout pas, à elle seule, la question des raisons qui permettent de défendre une assertion particulière.
+
+Voir [Wilfrid Sellars](fr/wilfrid-sellars.md).
+
+### 6.2. Millikan et Brandom
+
+Brandom analyse le contenu conceptuel à partir des relations inférentielles, des engagements et des habilitations associés aux pratiques discursives. Il examine ce que l’on s’engage à reconnaître en affirmant quelque chose et ce qui autorise à maintenir cette affirmation.
+
+Millikan cherche plutôt à expliquer le contenu représentatif à partir des fonctions propres et des relations entre systèmes producteurs et consommateurs.
+
+Il ne faut pas réduire cette différence à une répartition entre deux domaines entièrement séparés, l’un biologique et l’autre normatif. Les deux approches posent des questions différentes sur le contenu et ses conditions. Leur articulation exige donc un examen précis des problèmes traités.
+
+En particulier, expliquer comment une représentation acquiert un contenu ne suffit pas à établir qu’une assertion fondée sur cette représentation est justifiée.
+
+Voir [Robert Brandom](fr/robert-brandom.md).
+
+### 6.3. Millikan et Rouse
+
+Rouse s’intéresse aux pratiques scientifiques comme activités matériellement situées, organisées et normativement évaluables. Son approche porte notamment sur les relations entre pratiques, environnements, dispositifs et contraintes.
+
+Millikan permet d’examiner l’histoire fonctionnelle de certains dispositifs et de certaines représentations. Rouse fournit des ressources pour étudier les pratiques dans lesquelles des dispositifs sont utilisés, leurs performances éprouvées et leurs résultats évalués.
+
+Ces contributions peuvent se compléter dans une enquête, mais elles ne doivent pas être assemblées en une théorie unique sans examen. Une histoire sélectionnelle, une pratique scientifique et une justification particulière ne désignent pas le même objet explicatif.
+
+Voir [Joseph Rouse](fr/joseph-rouse.md).
+
+### 6.4. Millikan et les fonctions de stimulus
+
+La fonction propre chez Millikan ne doit pas être confondue avec la fonction de stimulus étudiée en analyse comportementale et dans la théorie des cadres relationnels (*Relational Frame Theory*, RFT).
+
+La première concerne l’attribution d’une fonction à partir de l’histoire pertinente du dispositif. La seconde désigne le rôle qu’un événement exerce dans une organisation comportementale déterminée, en fonction notamment du contexte et de l’histoire d’apprentissage.
+
+Ces notions peuvent se rencontrer dans l’étude d’un même phénomène, mais elles ne sont ni synonymes ni directement substituables. Une analyse doit préciser si elle cherche à expliquer l’histoire d’une fonction propre, les effets comportementaux d’un stimulus ou les relations qui contribuent à transformer ces effets.
+
+Voir [Fonction de stimulus](fr/fonction-de-stimulus.md).
+
+## 7. Exemple : la danse des abeilles
+
+La danse des abeilles permet d’illustrer le type de problème que la téléosémantique cherche à traiter. La danse d’une abeille peut transmettre des informations sur une source de nourriture et contribuer à orienter l’activité d’autres abeilles.
+
+Une analyse inspirée de Millikan examine les relations entre la production du signal, les informations qu’il véhicule, les capacités du système qui le reçoit et les fonctions biologiques concernées. Elle ne se limite donc pas à décrire les mouvements de l’abeille ni à constater qu’ils sont suivis d’un comportement particulier.
+
+Plusieurs questions doivent néanmoins rester distinctes :
+
+- Quelles relations entre les caractéristiques de la danse et celles de la situation permettent d’expliquer son rôle ?
+- Quelles fonctions sont attribuées aux systèmes producteurs et consommateurs ?
+- Dans quelles circonstances le signal contribue-t-il effectivement à l’activité concernée ?
+- Qu’est-ce que cette explication permet d’établir sur le contenu du signal ?
+
+Cet exemple ne permet pas de conclure que toutes les représentations biologiques ont le même fonctionnement. Il ne suffit pas non plus à déterminer les conditions de justification d’une assertion humaine. Il montre plutôt comment une analyse fonctionnelle peut contribuer à expliquer un système représentatif sans résoudre automatiquement toutes les questions relatives à son interprétation et à son évaluation.
+
+## 8. Portée et limites
+
+La contribution de Millikan permet d’examiner comment l’histoire de certains dispositifs et les fonctions qu’ils remplissent participent à l’explication du contenu représentatif.
+
+Elle ne permet pas, à elle seule :
+
+- de déduire la validité d’une assertion de l’histoire biologique ou culturelle du dispositif qui intervient dans sa production ;
+- de confondre la fonction propre d’un dispositif avec ses effets actuels ;
+- de réduire le contenu représentatif à une propriété physique isolée du signe ;
+- de déterminer automatiquement le référent d’une expression à partir de sa seule histoire fonctionnelle ;
+- de déduire la justification d’une conclusion de la réussite pratique ou adaptative d’un dispositif ;
+- de considérer toute fonction propre comme une norme discursive ;
+- de ramener l’ensemble des pratiques descriptives à un modèle biologique unique.
+
+Ces limites ne réfutent pas la téléosémantique. Elles précisent la portée des conclusions que l’on peut tirer de ses ressources dans une enquête particulière.
+
+L’histoire fonctionnelle d’un dispositif peut contribuer à expliquer pourquoi il existe, comment il fonctionne et ce qu’il représente. Pour établir ce qu’une description permet de conclure, il reste nécessaire d’examiner les éléments disponibles, les inférences mobilisées et les critères qui soutiennent cette conclusion.
+
+## Synthèse
+
+Ruth Millikan propose une approche naturaliste du contenu représentatif fondée sur les fonctions propres, l’histoire des dispositifs et les relations entre les systèmes qui produisent et utilisent des représentations.
+
+Pour Protokin, cet héritage permet d’examiner les conditions historiques et fonctionnelles de certaines pratiques représentatives. Il invite à distinguer la capacité actuelle d’un dispositif, sa fonction propre, son fonctionnement effectif et les conclusions que l’on peut tirer de son activité.
+
+La téléosémantique contribue ainsi à l’analyse du contenu représentatif sans fournir, à elle seule, une justification des descriptions particulières. L’intérêt de Millikan tient à la précision de ce problème explicatif, et non à la possibilité de lui faire fonder une architecture générale des pratiques descriptives.
+
+## Pour poursuivre
+
+- [Wilfrid Sellars](fr/wilfrid-sellars.md) — Examiner les rapports entre expérience, explication et raisons.
+- [Robert Brandom](fr/robert-brandom.md) — Examiner les engagements, les habilitations et les conséquences inférentielles.
+- [Joseph Rouse](fr/joseph-rouse.md) — Examiner les pratiques scientifiques, leurs conditions matérielles et leur normativité.
+- [Fonction de stimulus](fr/fonction-de-stimulus.md) — Distinguer l’histoire fonctionnelle d’un dispositif du rôle comportemental d’un stimulus.
+- [Niche biologique](fr/niche-biologique.md) — Examiner les relations entre organismes, environnement et construction de niche.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations de l’examen dans Protokin.
+- [Table des matières](fr/tdm.md) — Situer cet héritage parmi les ressources du corpus.
