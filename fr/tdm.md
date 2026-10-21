@@ -247,6 +247,7 @@ Cette rubrique rassemble les rapprochements philosophiques utiles pour situer ce
 - [Joseph Rouse](fr/joseph-rouse.md) — Éclairer les rapports entre pratiques scientifiques, contraintes matérielles et normativité.
 - [Ruth Millikan](fr/ruth-millikan.md) — Examiner les fonctions propres et l’explication naturaliste du contenu représentatif à partir de l’histoire des dispositifs.
 - [Richard Rorty](fr/richard-rorty.md) — Situer certains usages du pragmatisme et les limites d’une recherche de fondements ultimes.
+- [Miranda Fricker](fr/miranda-fricker.md) — Examiner les injustices testimoniale et herméneutique, ainsi que les asymétries de crédibilité et de participation aux ressources collectives d’interprétation.
 
 Ces rapprochements n’ont pas tous le même statut. Une ressemblance de vocabulaire ne suffit pas à établir une filiation ; une influence reconnue ne vaut pas adhésion à l’ensemble d’une doctrine. Les pages philosophiques servent à documenter des proximités et des écarts, non à remplacer l’examen fonctionnel des problèmes propres à Protokin.
 
