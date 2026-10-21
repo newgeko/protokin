@@ -134,6 +134,7 @@ Ces pages distinguent la dérivation de relations apprises, la transformation de
 - [Occurrence](fr/occurrence.md) — Distinguer une réalisation particulière de la forme ou du type auquel elle est rapportée.
 - [Substitution](substitution.md) — Examiner ce qui se maintient ou change lorsqu’une expression est remplacée par une autre dans un contexte déterminé.
 - [Stabilisation](fr/stabilisation.md) — Examiner le maintien relatif d’une configuration à travers ses reprises et ses variations.
+- [Effet cliquet](fr/effet-cliquet.md) — Examiner les asymétries de coût et de possibilité qui rendent la révision ou l’abandon d’une configuration descriptive plus difficile que son maintien.
 
 L’inférence, la substitution et l’anaphore désignent des dimensions articulées de l’analyse : les relations entre engagements, les transformations linguistiques et la continuité discursive.
 
