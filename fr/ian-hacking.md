@@ -1,220 +1,173 @@
-# Page : ian-hacking.md
+# Ian Hacking — Historicité des catégories, effets de boucle et styles de raisonnement
 
-Ian Hacking — L'ontologie historique, les styles de raisonnement et l'effet de boucle des descriptions
+## Fonction
 
-Analyse architecturale de la page
+Cette page examine les apports d’Ian Hacking à l’étude historique des catégories, des classifications humaines et des pratiques de raisonnement. Elle précise ce que ses travaux permettent d’interroger dans Protokin, sans assimiler ses concepts à ceux du projet.
 
-1. Fonction unique de la page
+Quatre contributions sont particulièrement pertinentes :
 
-Cette page existe pour présenter et formaliser l'apport d'Ian Hacking à l'architecture de Protokin, notamment à travers ses concepts d'ontologie historique, d'effet de boucle (looping effect), de styles de raisonnement (styles of reasoning) et de réalisme entitaire pragmatique, en explicitant comment la métathéorie s'approprie ces ressources de second ordre pour penser la diachronie cumulative et la rétroaction matérielle de l'espace des raisons (pôle KIN) sur les conditions biologiques et corporelles de notre couplage (pôle PROTO).
+- l’ontologie historique et le nominalisme dynamique ;
+- les effets de boucle associés à certaines classifications humaines ;
+- les styles de raisonnement et les conditions historiques d’évaluation des énoncés ;
+- le réalisme entitaire, fondé notamment sur la possibilité d’intervenir expérimentalement sur certaines entités.
 
-2. Choix du mode de développement
+Ces contributions éclairent des problèmes différents. Leur rapprochement ne constitue ni une théorie unifiée de la description ni une justification suffisante de l’ensemble des engagements de Protokin.
 
-· Mode retenu : Mode A — Développement conceptuel.
-· Justification : L'héritage de Hacking doit être configuré non pas comme un résumé historiographique passif ou un catalogue d'anecdotes scientifiques, mais comme une ressource conceptuelle de second ordre, outillant la métathéorie pour modéliser la transformation réelle des milieux et des corps par le mouvement même de leurs descriptions.
+## 1. Problème : les catégories ont une histoire
 
-3. Problème conceptuel
+Une catégorie peut paraître naturelle, évidente ou nécessaire alors que son apparition, ses usages et les critères qui lui sont associés ont une histoire. Elle peut être élaborée dans une pratique, reprise dans des institutions, appliquée à des personnes ou à des situations, puis transformée au cours de ses usages.
 
-Comment rendre compte de l'historicité et de la contingence radicale des catégories descriptives par lesquelles nous découpons et organisons notre rapport au milieu sans dissoudre la résistance objective (butoirs) du monde physique dans un relativisme linguistique indifférencié, et par quel mécanisme précis l'espace des raisons peut-il modifier causalement et sédimenter matériellement les comportements physiques des corps qu'il prend pour objets ?
+Reconstruire cette histoire ne revient pas à démontrer que la catégorie est fausse, arbitraire ou sans rapport avec ce qu’elle décrit. Cela permet plutôt d’examiner les conditions dans lesquelles elle est devenue disponible, les distinctions qu’elle rend possibles et les conséquences de son emploi.
 
-4. Objet propre
+Les travaux de Hacking sont utiles à Protokin parce qu’ils invitent à étudier les catégories comme des ressources historiquement situées, dont les effets doivent être examinés dans les pratiques où elles interviennent.
 
-· Cette page traite de : l'intégration métathéorique de l'ontologie historique de Hacking ; le mécanisme de l'effet de boucle (looping effect) entre étiquettes normatives et comportements somatiques ; la notion de « styles de raisonnement » définissant les conditions de décidabilité sémantique (le statut de candidat à la vérité ou fausseté) ; et le réalisme entitaire comme preuve par la manipulation instrumentale d'amont.
-· Cette page ne traite pas de : l'histoire empirique de la psychiatrie ou de la physique moderne (utilisée uniquement comme réservoir d'exemples) ; la sociologie des sciences de premier ordre (réservée à la section 04) ; ni l'explicitation de l'établissement théorique d'aval comme la page générique de sédimentation historique ou celle des niches biologiques d'aval.
+La question directrice est la suivante :
 
-5. Statut conceptuel
+**Comment l’histoire d’une catégorie contribue-t-elle à déterminer ce qu’il devient possible de décrire, d’évaluer et de faire, sans que cette histoire suffise à établir la validité de la catégorie ?**
 
-Il s'agit d'une fiche d'auteur et d'un héritage philosophique de second ordre, appartenant à la section 10 — Héritages philosophiques.
+## 2. Ontologie historique et nominalisme dynamique
 
-6. Dépendances fonctionnelles
+Dans ses travaux sur l’ontologie historique et le nominalisme dynamique, Hacking examine la manière dont certaines catégories apparaissent dans des circonstances historiques particulières et contribuent à organiser de nouvelles façons de caractériser les personnes ou les phénomènes.
 
-Cette page suppose :
+Le nominalisme dynamique attire notamment l’attention sur les relations entre la formation d’une catégorie et l’émergence ou la transformation des types de personnes auxquels elle s’applique. La catégorie n’est pas seulement un nom posé sur une réalité humaine qui resterait entièrement inchangée : son apparition peut modifier les descriptions disponibles, les attentes institutionnelles, les possibilités d’identification et les manières dont les personnes comprennent ou conduisent leur existence.
 
-· L'Introduction générale (introduction-generale.md) et la baseline du projet (protokin-en-une-phrase.md).
-· La page d'orientation générale de la section (10-heritages-philosophiques.md).
-· L'héritage de Michel Foucault et sa critique des disciplines somatiques.
+Cette proposition ne signifie pas que la catégorie crée intégralement les personnes qu’elle désigne. Les caractéristiques corporelles, les conduites, les circonstances et les contraintes matérielles ne se réduisent pas à la classification. L’enjeu est d’examiner les relations entre ces éléments et l’histoire des pratiques qui les qualifient.
 
-Cette page rend possible :
+Il faut ainsi distinguer plusieurs questions :
 
-· L'explicitation et l'évaluation critique de la brique de sédimentation (sedimentation.md) et des strates temporelles.
-· L'analyse de l'effet cliquet (effet-cliquet.md) et de l'irréversibilité des infrastructures descriptives d'aval.
-· Les briques critiques de la section 09, notamment l'injustice herméneutique (injustice-hermeneutique.md) et l'écologie des régimes (ecologie-des-regimes-descriptifs.md).
-· La conduite clinique des diagnostics d'erreur de catégorie (diagnostiquer-une-erreur-de-categorie.md) au sein de la méthode (08-methode-protokin.md).
+- Quand et dans quelles circonstances une catégorie est-elle apparue ?
+- Quelles différences permet-elle de reconnaître ou de regrouper ?
+- Quels critères, dispositifs ou pratiques rendent son application possible ?
+- Quelles conséquences son emploi entraîne-t-il pour les personnes ou les situations concernées ?
+- Dans quelles conditions ses usages ou ses critères sont-ils révisés ?
 
-7. Frontières conceptuelles
+Ces questions ne présupposent pas que toutes les catégories ont la même histoire, ni que leur formation suit un mécanisme unique.
 
-Héritage hackingien (Section 10) et Concept de Sédimentation (Section 06)
+### Ce que Protokin peut en retenir
 
-La différence s'établit selon la distinction de provenance et d'établissement. L'héritage hackingien (Section 10) est la ressource philosophique d'amont, analysée rétroactivement pour en dégager sa fonction d'élucidation génétique. Le concept de sédimentation (sedimentation.md, section 06) constitue l'établissement théorique de premier ordre au sein de Protokin, décrivant la trajectoire de matérialisation physique et d'institutionnalisation des traces de justification au présent d'usage.
+L’ontologie historique invite à ne pas traiter les catégories comme des évidences indépendantes de leurs conditions d’élaboration et d’usage. Elle rejoint l’exigence de Protokin consistant à examiner la fonction des distinctions dans des pratiques déterminées.
 
-Héritage hackingien (Section 10) et Concept d'Effet Cliquet (Section 04)
+Elle ne suffit toutefois pas à déterminer si une catégorie est correcte, si ses critères sont justifiés ou si elle est adéquate à ce qu’elle prétend décrire. L’histoire d’une catégorie contribue à expliquer sa disponibilité et ses transformations ; elle ne constitue pas, à elle seule, une réfutation ou une justification de son emploi.
 
-L'effet cliquet (Section 04) désigne spécifiquement la brique opératoire d'irréversibilité de premier ordre par laquelle le coût logique d'abandon d'une catégorie sédimentée s'impose à une communauté de locuteurs. L'héritage de Hacking (Section 10) fournit la clé d'explication de second ordre de cette irréversibilité en montrant comment les "effets de boucle" transforment le milieu biologique en s'incorporant à lui.
+## 3. Les effets de boucle des classifications humaines
 
-8. Architecture locale
+Hacking utilise la notion d’**effet de boucle** (*looping effect*) pour examiner certaines relations entre les classifications humaines, les personnes classées et les pratiques qui mettent ces classifications en œuvre.
 
-```
-           10 — HÉRITAGES PHILOSOPHIQUES (10-heritages-philosophiques.md)
-                             │
-                             ▼
-                    Fiche : Ian Hacking (ian-hacking.md)
-                             │
-            ┌────────────────┴────────────────┐
-            ▼                                 ▼
-   04 — PRATIQUES (effet-cliquet.md)  06 — TEMPORALITÉ (sedimentation.md)
-            │                                 │
-            └────────────────┬────────────────┘
-                             ▼
-                  09 — RÉFLEXIVITÉ (injustice-hermeneutique.md)
-```
+Lorsqu’une classification devient disponible, elle peut modifier la manière dont les personnes sont décrites, prises en charge, surveillées ou évaluées. Les personnes concernées peuvent également apprendre à se reconnaître dans la catégorie, la contester, la refuser, la détourner ou modifier leur conduite en fonction de ses usages. Ces réactions peuvent ensuite conduire les institutions, les professionnels ou les chercheurs à réviser la classification initiale.
 
----
+La boucle ne désigne donc pas une succession nécessaire d’étapes. Elle désigne une relation de rétroaction possible entre la classification, ses conditions d’application, les conduites des personnes concernées et les révisions qui peuvent en résulter.
 
-Cartouche fonctionnel
+Cette interaction varie selon les cas. Certaines personnes peuvent s’approprier une catégorie ; d’autres peuvent la contester ou ne pas en tenir compte. Une classification peut également avoir des effets importants sur les décisions institutionnelles sans que les personnes concernées l’acceptent comme description d’elles-mêmes.
 
-Élément Description
-Section 10 — Héritages philosophiques
-Fichier ian-hacking.md
-Fonction Établir l'apport conceptuel d'Ian Hacking, notamment l'ontologie historique, les styles de raisonnement, l'effet de boucle (looping effect) et le réalisme entitaire.
-Prépare Les briques de Sédimentation, d'Effet Cliquet, d'Injustice Herméneutique et les diagnostics de second ordre de la méthode.
-Mobilise La distinction Causes/Raisons (PROTO/KIN), le nominalisme dynamique, et les supports d'inscription externes.
-Permet ensuite D'auditer la rétroaction matérielle des descriptions sur les corps et d'évaluer cliniquement les pathologies d'essentiation catégorielle.
-N'établit pas Le concept de niche sédimentaire, la théorie complète de l'enquête, ni la sociologie empirique de premier ordre des sciences.
+Il faut aussi distinguer l’existence d’une classification et l’établissement d’un effet de boucle. Pour soutenir qu’un tel effet se produit, il ne suffit pas de montrer qu’une catégorie est utilisée puis qu’un comportement change. Il faut examiner les relations entre les usages de la catégorie, les réponses des personnes ou des institutions et les transformations constatées.
 
----
+### Un exemple schématique
 
-Problème conceptuel inaugural
+Une institution utilise une catégorie pour désigner des personnes considérées comme présentant un risque particulier. Cette classification peut déterminer les informations recueillies, les procédures appliquées, les possibilités offertes et les décisions prises à leur sujet.
 
-Toute métathéorie qui refuse le réalisme naïf du "Donné brut" (l'illusion référentielle) risque de s'effondrer immédiatement dans l'aporie symétrique de l'idéalisme sémantique ou du constructivisme radical. Si les catégories descriptives par lesquelles nous classons, découpons et qualifions le monde ne sont que des conventions arbitraires ou des projections linguistiques subjectives sans ancrage physique, l'espace des concepts se déconnecte des résistances réelles du milieu et flotte comme une pure fiction intralinguistique dénuée de friction empirique. Dès lors, la science, la médecine ou l'administration ne décriraient plus rien d'autre que leurs propres cohérences internes, rendant le concept même d'erreur ou d'auto-correction inintelligible. À l'inverse, réintégrer la résistance du monde en postulant des essences naturelles préexistantes et immuables nous condamne à la réification dogmatique de premier ordre, occultant le fait que nos catégories d'accès sont historiquement situées, contingentes, instrumentées et redevables devant une communauté changeante de locuteurs.
+Les personnes classées peuvent modifier leur conduite en réponse à ce traitement, contester la catégorie ou adapter leurs interactions avec l’institution. Les professionnels peuvent alors interpréter ces réactions à travers les critères déjà disponibles, ou considérer qu’elles nécessitent une révision de la classification.
 
-Dès lors, la question s'impose à l'entrée de notre armature d'explication :
+Un effet de boucle est une hypothèse pertinente si l’enquête établit que les usages de la catégorie et les réactions qu’ils suscitent contribuent effectivement à transformer les conduites ou les pratiques de classement. Le simple fait qu’une personne change après avoir été classée ne suffit pas à établir ce mécanisme : d’autres facteurs peuvent intervenir.
 
-Comment rendre compte de l'historicité et de la contingence radicale des catégories descriptives par lesquelles nous découpons et organisons notre rapport au milieu sans dissoudre la résistance objective (butoirs) du monde physique dans un relativisme linguistique indifférencié, et par quel mécanisme précis l'espace des raisons peut-il modifier causalement et sédimenter matériellement les comportements physiques des corps qu'il prend pour objets ?
+Cet exemple ne démontre rien sur une institution particulière. Il distingue les éléments qu’il faudrait examiner pour établir une rétroaction plutôt que de la présupposer.
 
-Protokin résout cette aporie fondamentale en mobilisant et en reconstruisant rationnellement l'héritage d'Ian Hacking. La métathéorie s'approprie son concept d'ontologie historique pour démontrer que l'intelligibilité s'élabore à travers un processus d'individuation diachronique où les catégories ne sont ni trouvées prêtes à l'emploi dans la nature, ni inventées de toutes pièces dans le ciel des idées, mais stabilisées matériellement à l'intersection des corps (plan PROTO) et des institutions (plan KIN). Hacking fournit à l'enquêteur le levier du nominalisme dynamique : il montre que l'apparition d'une catégorie descriptive n'est pas un enregistrement passif, mais une intervention active qui crée de nouvelles possibilités de vérité ou de fausseté, reconfigure le champ d'action des locuteurs et, par un puissant effet de boucle, modifie causalement et rétroactivement la matière biologique et comportementale du vivant.
+### Ce que Protokin peut en retenir
 
----
+Les effets de boucle invitent à examiner les conséquences des classifications sur les pratiques et sur les personnes qu’elles concernent. Ils peuvent éclairer l’analyse des transformations historiques, des dispositifs institutionnels et des difficultés de révision.
 
-Définition fonctionnelle de l'héritage hackingien
+Ils ne permettent pas de conclure que toute description transforme son référent, que toute classification humaine produit un effet de boucle ou que toute transformation observée est imputable à la catégorie employée.
 
-Dans l'architecture de Protokin, l'héritage d'Ian Hacking désigne :
+## 4. Styles de raisonnement et conditions d’évaluation
 
-La ressource théorique et critique de second ordre qui fournit à la métathéorie les concepts d'ontologie historique, de nominalisme dynamique, d'effet de boucle (looping effect) et de styles de raisonnement, afin d'expliciter le couplage matériel et la rétroaction causale de l'espace des raisons (plan KIN) sur l'espace des causes (plan PROTO), d'armer l'enquêteur contre l'illusion de réification ontologique, et d'auditer de façon clinique les pathologies de verrouillage catégoriel.
+Hacking étudie également les **styles de raisonnement** (*styles of reasoning*), c’est-à-dire des formes historiquement situées de raisonnement, associées à des manières de formuler des problèmes, de produire des résultats, d’établir des preuves et de déterminer ce qui peut être examiné comme vrai ou faux.
 
-De cette définition se dégagent trois fonctions d'élucidation majeures :
+Un style de raisonnement ne se réduit ni à une opinion individuelle ni à une théorie particulière. Il comprend des pratiques, des concepts, des procédures, des instruments et des critères qui rendent certains types d’énoncés formulables et évaluables.
 
-· Un opérateur de genèse historique (L'ontologie historique) : Il permet d'analyser la trajectoire par laquelle une distinction s'extrait du flux sensorimoteur pour se sédimenter sur des supports externes durcis (bases de données, archives, instruments), devenant ainsi un fait historique objectif s'imposant aux pratiques.
-· Un diviseur de décidabilité (Les styles de raisonnement) : Il démontre que l'accès à l'évaluation d'un énoncé ("vrai ou faux") n'est pas une évidence immédiate, mais dépend de l'institution historique de styles d'argumentation et d'outils de raisonnement qui rendent cet énoncé intelligible et évaluable.
-· Un diagnostiqueur de rétroaction somatique (L'effet de boucle) : Il outille l'audit clinique en explicitant comment les catégories descriptives, loin de rester extérieures aux sujets qualifiés, s'incorporent aux corps des agents, modifient leurs postures et leurs habitudes, et forcent en retour l'ajustement du régime de premier ordre initial.
+L’histoire d’un style peut ainsi modifier les questions auxquelles il devient possible de répondre, les objets qui peuvent être identifiés et les formes de preuve jugées pertinentes. Des propositions qui ne pouvaient pas être formulées ou évaluées de la même manière dans une pratique antérieure peuvent devenir examinables avec l’apparition de nouveaux concepts, instruments ou procédures.
 
----
+Cette historicité ne signifie pas que la vérité se réduit à une convention collective. Elle ne permet pas non plus de conclure que chaque style de raisonnement garantit lui-même la validité de ses résultats. Les critères disponibles, leur application et les conclusions qu’ils autorisent restent susceptibles d’être examinés et contestés.
 
-Les quatre piliers de la rupture hackingienne intégrés par Protokin
+### Rapport avec les régimes descriptifs de Protokin
 
-L'héritage d'Ian Hacking est reconstruit de manière fonctionnelle autour de quatre massifs conceptuels qui régissent la dynamique de notre Collective Operating System (cOS) :
+Le rapprochement avec la notion de [régime descriptif](fr/regime-descriptif.md) est pertinent, car les deux approches invitent à examiner les règles, les opérations et les critères qui organisent une pratique.
 
-1. L'ontologie historique et le nominalisme dynamique
+Les notions ne doivent cependant pas être confondues. Les styles de raisonnement chez Hacking s’inscrivent dans sa réflexion sur l’histoire des sciences et sur les conditions d’émergence de formes de raisonnement. Le régime descriptif de Protokin est un outil d’analyse des pratiques descriptives, de leurs différences, de leurs inférences et de leurs critères.
 
-Pour surmonter le dualisme entre le réalisme d'essence et le constructivisme conventionnaliste, Hacking élabore une approche qu'il qualifie de "nominalisme dynamique" (dynamic nominalism). Cette approche pose que les catégories humaines (comme le "choix financier", le "suicide", ou les diagnostics cliniques) et les types de personnes qui y correspondent apparaissent en même temps, s'instituant mutuellement à travers une co-détermination continue.
+Le rapprochement permet de poser des questions communes : quelles opérations rendent une affirmation évaluable ? Quels instruments et quelles procédures contribuent à produire les résultats ? Quelles formes d’erreur une pratique peut-elle reconnaître ? Comment ses critères sont-ils maintenus ou révisés ?
 
-Protokin s'approprie cette thèse pour fonder son ontologie des descriptions :
+Il ne démontre pas que tout régime descriptif correspond à un style de raisonnement au sens de Hacking, ni que les critères d’une pratique sont nécessairement clos sur eux-mêmes.
 
-· Le refus de l'essence préexistante : Une catégorie descriptive n'est pas le dévoilement d'une nature biologique ou psychologique fixe logée dans l'organisme.
-· L'historicité des objets : L'objet d'une description n'est pas une donnée brute du PROTO ; il n'apparaît comme un "cas" individualisé et traçable qu'au moment où la configuration descriptive du KIN fournit les supports d'inscription et les critères d'enregistrement nécessaires pour le découper et le conserver dans l'archive.
-· Le nominalisme dynamique de second ordre : Nous créons les catégories par lesquelles les choses se manifestent à nous. Ce geste n'est pas purement sémantique ; il réorganise matériellement notre niche biologique par l'introduction de nouvelles conditions de redevabilité.
+## 5. Réalisme entitaire et intervention scientifique
 
-2. L'effet de boucle (looping effect) des classifications
+Dans *Representing and Intervening*, Hacking examine les rapports entre la représentation scientifique et l’intervention expérimentale. Il défend notamment l’idée que la capacité à utiliser certaines entités théoriques pour intervenir de manière contrôlée sur d’autres phénomènes peut fournir un argument important en faveur de leur réalité.
 
-Le cœur de la contribution de Hacking à l'analyse clinique des pathologies sémantiques réside dans la formalisation de la boucle interactive qui relie les descriptions et les corps décrits, un phénomène qu'il nomme le "looping effect". Contrairement aux classifications de la nature inanimée (comme les minéraux ou les particules physiques) qui restent indifférentes à la façon dont nous les décrivons, les classifications des êtres humains rétroagissent sur eux de manière causale.
+Cette position déplace l’attention d’une question exclusivement représentationnelle — une théorie décrit-elle correctement ce qui existe ? — vers les pratiques expérimentales dans lesquelles certaines entités sont manipulées et mobilisées avec succès.
 
-Protokin modélise cette rétroaction matérielle en cinq étapes rigoureusement ordonnées au sein du cycle de sédimentation :
+L’argument ne revient pas à dire que tout ce qui permet une intervention est nécessairement réel au même titre, ni que l’efficacité instrumentale résout toutes les questions relatives aux théories scientifiques. Il concerne un type d’appui en faveur du réalisme, fondé sur des pratiques d’intervention plutôt que sur la seule réussite descriptive d’une théorie.
 
-```
-               1. ÉMISSION D'UNE DESCRIPTION (Espace des raisons, KIN)
-                                  │
-                                  ▼
-               2. CLASSIFICATION & NOMINATION (Dépôt sédimentaire)
-                                  │
-                                  ▼
-               3. ORGANISATION DES PRATIQUES (Infrastructures documentaires)
-                                  │
-                                  ▼
-               4. TRANSFORMATION DES COMPORTEMENTS (Incorporation somatique, PROTO)
-                                  │
-                                  ▼
-               5. AJUSTEMENT / MODIFICATION DU RÉGIME INITIAL (Ré-enquête)
-```
+### Ce que Protokin peut en retenir
 
-Ce cycle démontre la redescente somatique de la Raison : la qualification s'inscrit dans les supports externes (bases de données, dossiers institutionnels), se traduit par des contraintes comportementales et des disciplines corporelles, et s'incorpore finalement sous forme d'habitudes et de postures somatiques (plan PROTO), changeant la façon dont les agents se meuvent et éprouvent le milieu.
+Cette perspective rappelle que l’évaluation des descriptions scientifiques ne se limite pas à leur cohérence interne. Les instruments, les opérations et les résultats d’intervention peuvent fournir des contraintes pertinentes pour examiner les affirmations formulées.
 
-3. Les styles de raisonnement (styles of reasoning)
+Il faut néanmoins distinguer le succès d’une intervention, l’explication de ce succès et la justification de toutes les affirmations théoriques qui lui sont associées. Une intervention réussie peut soutenir certaines conclusions sans valider automatiquement l’ensemble d’un cadre descriptif.
 
-Hacking reconstruit la rationalité comme une pluralité historique de "styles de raisonnement" (comme le style statistique, le style expérimental, ou le style taxonomique). Un style de raisonnement n'est pas une théorie scientifique vraie ou fausse, mais l'appareil conceptuel et matériel qui détermine ce qui peut être candidat à la vérité ou à la fausseté :
+Le réalisme entitaire constitue donc une contribution distincte des analyses du nominalisme dynamique, des effets de boucle et des styles de raisonnement. Ces thèmes peuvent être mis en relation, mais ils ne se déduisent pas les uns des autres.
 
-· La décidabilité sémantique : "Whether a proposition is as it were up for grabs, as a candidate for being true-or-false, depends on whether we have ways to reason about it".
-· L'auto-constitution des critères : Chaque style introduit ses propres techniques d'évaluation, ses propres instruments d'enregistrement, ses propres conditions d'erreur et ses propres rituels de justification.
+## 6. Articulation avec les problèmes examinés par Protokin
 
-Protokin intègre cette notion pour fonder son concept de régime descriptif. La métathéorie montre qu'un régime n'est pas une simple opinion ou une croyance subjective de premier ordre, mais une infrastructure d'intelligibilité qui s'auto-garantit en définissant elle-même ses conditions de correction, ses exceptions tolérables (le "bruit") et ses règles d'autorisation discursive.
+Les travaux de Hacking peuvent aider à examiner plusieurs difficultés rencontrées dans les pratiques descriptives :
 
-4. Le réalisme entitaire et la manipulation d'amont
+- **Historicité des catégories :** reconstruire les circonstances dans lesquelles une distinction est apparue et les usages qui l’ont rendue disponible.
+- **Rétroaction des classifications :** examiner si l’emploi d’une catégorie modifie les conduites, les décisions ou les pratiques qui contribuent ensuite à la maintenir ou à la réviser.
+- **Conditions d’évaluation :** déterminer comment une pratique rend certaines affirmations examinables, quelles preuves elle reconnaît et quelles erreurs elle peut identifier.
+- **Intervention et résistance :** examiner les résultats pratiques qui soutiennent ou mettent en difficulté certaines descriptions scientifiques.
 
-Face au scepticisme ou à l'instrumentalisme qui traiterait les entités théoriques postulées par la science (comme les électrons) comme de pures fictions verbales commodes, Hacking oppose un critère pragmatique de réalité par la manipulation instrumentale d'amont :
+Ces questions peuvent concerner les supports documentaires, les procédures institutionnelles, les catégories disponibles et les conditions de participation des personnes concernées. Elles doivent toutefois être traitées à partir des situations étudiées, sans présumer que chaque problème relève d’un même mécanisme historique.
 
-« The best evidence, in turn, that we have this kind of understanding is that we can set out, from scratch, to build machines that will work fairly reliably, taking advantage of this or that causal nexus ».
+Les pages [Sédimentation](fr/sedimentation.md) et [Effet cliquet](fr/effet-cliquet.md) développent des notions propres à Protokin pour examiner respectivement l’accumulation des traces et l’asymétrie des possibilités de révision. Les effets de boucle de Hacking peuvent aider à formuler certaines questions à leur sujet, mais ne sont pas équivalents à ces notions.
 
-Protokin s'approprie cette charte pragmatique (médaille d'or du réalisme entitaire, "engineering, not theorizing") pour sceller sa bipartition hylomorphe :
+L’[Injustice herméneutique](fr/injustice-hermeneutique.md) examine les désavantages structurels qui affectent l’accès aux ressources interprétatives collectives. Les analyses de Hacking peuvent attirer l’attention sur l’histoire et les effets des classifications, mais elles ne suffisent pas à établir qu’une situation constitue une injustice.
 
-· La manipulation comme butoir (PROTO) : Les entités et les traces acquièrent leur réalité objective d'amont non pas parce qu'elles correspondent à une "Réalité en soi" contemplative, mais parce que nous les intégrons comme outils fiables pour agir sur le milieu et modifier d'autres parties physiques du monde.
-· L'étalonnage des supports : La redevabilité de l'espace des raisons (plan KIN) s'étalonne en permanence sur l'efficacité matérielle de ces manipulations instrumentales d'amont, évitant que la science ne dégénère en un jeu sémantique circulaire et autotélique sans contact avec les butoirs.
+Enfin, l’[Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md) permet d’examiner les relations entre pratiques descriptives distinctes. La pluralité des styles de raisonnement ne doit pas être convertie en une thèse générale selon laquelle toutes les descriptions seraient équivalentes ou incommensurables.
 
----
+## 7. Limites et non-conversions
 
-Éclairage par les fils rouges pédagogiques
+L’héritage de Hacking est une ressource pour l’enquête, non une théorie que Protokin devrait reprendre dans son ensemble.
 
-L'utilité critique de la rupture hackingienne s'éprouve directement à travers nos situations de référence :
+Plusieurs distinctions doivent être maintenues :
 
-1. Le vélo rouge
+- **Historicité d’une catégorie ≠ arbitraire de la catégorie.** Une catégorie historiquement constituée peut être plus ou moins adéquate à ce qu’elle prétend décrire.
+- **Classification ≠ effet de boucle démontré.** L’existence d’une catégorie ne suffit pas à établir qu’elle transforme les personnes classées ou les pratiques qui l’utilisent.
+- **Effet de boucle ≠ incorporation somatique nécessaire.** Les rétroactions peuvent concerner les conduites, les attentes, les institutions et les possibilités d’action, sans se réduire à une transformation corporelle.
+- **Style de raisonnement ≠ régime descriptif.** Le rapprochement entre les deux notions exige un examen de leurs fonctions et de leur portée.
+- **Conditions historiques d’évaluation ≠ validité arbitraire.** L’histoire des critères ne suffit ni à les invalider ni à les justifier.
+- **Succès expérimental ≠ validation totale d’une théorie.** Une intervention peut soutenir certaines affirmations sans garantir toutes les conclusions associées.
+- **Explication d’une catégorie ≠ justification de son emploi.** Comprendre pourquoi une catégorie est apparue ou persiste ne suffit pas à établir qu’elle devrait être conservée.
 
-L'énoncé « Le vélo est rouge » subit le déballage de nos styles de raisonnement. Sans Hacking, la couleur rouge est traitée soit comme une essence logée dans le métal en soi (réalisme naïf), soit comme une pure convention linguistique subjective (constructivisme). L'analyse d'ontologie historique démontre que l'expérience chromatique du "rouge" s'appuie sur un couplage sensorimoteur et somatique d'amont (plan PROTO), sédimenté historiquement à travers un langage éduqué de la vision qui coexiste de manière compatible avec sa retranscription au sein de l'image scientifique quantitative (longueur d'onde de 650 nm). La science ne "découvre" pas le rouge ; elle institue un nouveau style de raisonnement géométrique et ondulatoire qui re-découpe la saillance perceptive première.
+Ces distinctions empêchent de transformer les analyses historiques de Hacking en un constructivisme généralisé, mais aussi d’en faire une justification automatique des catégories stabilisées.
 
-2. Le patient aux urgences hospitalières
+## Synthèse
 
-Le triage médical est le lieu d'un effet de boucle structurel et infrastructural lourd. La détresse somatique brute du patient (moiteur, cyanose, plan PROTO) constitue une contrainte causale d'amont. Mais la transformation de cette plainte vécue en une catégorie administrative et comptable ("Priorité administrative de lit", plan KIN) modifie en retour la réalité physique du soin. Les dossiers de tri, les formulaires logiciels et les grilles de monitorage ECG (supports d'inscription externes) agissent comme des infrastructures de second ordre. En se sédimentant, le régime logistico-comptable bureaucratique force les corps des soignants à modifier leurs gestes de tri, réorganisant le milieu hospitalier au détriment de l'image manifeste clinique, et commettant une injustice testimoniale et de support massive sur le patient.
+Les travaux d’Ian Hacking fournissent des ressources pour examiner l’historicité des catégories, les rétroactions possibles entre classifications humaines et pratiques, les conditions historiques du raisonnement et le rôle de l’intervention expérimentale dans les arguments réalistes.
 
-3. Le botaniste et le bûcheron face à l'arbre
+Pour Protokin, leur intérêt tient à la possibilité de mieux décrire comment les catégories deviennent disponibles, ce qu’elles permettent de faire et comment leurs usages peuvent contribuer à leur transformation.
 
-Ce cas d'étude illustre le choc des styles de raisonnement face à un butoir écologique commun. Le bûcheron découpe la forêt selon un style d'usage et de résistance mécanique (image manifeste technique de l'artisan) ; le botaniste la découpe selon un style de classification phylogénétique et cellulaire (image scientifique universitaire). Hacking nous apprend que leurs deux cadres sont des manières d'intervenir et de manipuler le monde également réelles et sédimentées, adossées à des supports instrumentaux différents (la tronçonneuse et la flore d'identification). Face au butoir du dépérissement de la parcelle, l'enquête de second ordre refuse de réduire l'un à l'autre, et guide le collectif vers la construction d'un style hybride de sylviculture écologique.
+Cet héritage ne démontre ni que toutes les catégories produisent des effets de boucle, ni que les critères d’une pratique sont arbitraires, ni que le succès d’une intervention valide une description dans son ensemble. Les propositions issues de Hacking doivent être reprises en fonction du problème examiné, de leur portée propre et des éléments qui permettraient de les mettre à l’épreuve.
 
-4. La déconstruction de « Cette personne est mauvaise » / « Cette personne est dangereuse »
+## Références
 
-Ce fil rouge est l'illustration princeps de l'ontologie historique de Foucault et d'Ian Hacking. L'énoncé ordinaire « Cette personne est mauvaise » est une qualification d'essence permanente qui commet une erreur de catégorie majeure. Elle convertit un statut public d'imputation normative révisable (plan KIN) en une propriété naturelle, biologique ou cérébrale intrinsèque et immuable de l'organisme (plan PROTO réifié). Pour le cas de « Cette personne est dangereuse », l'effet de boucle s'active de manière dramatique : la catégorie de "dangerosité" s'inscrit dans les dossiers judiciaires, les algorithmes de probation et les fiches d'évaluation policières (supports documentaires institutionnels). Ce dépôt sédimentaire fige l'individu sous un effet cliquet sécuritaire : l'institution s'avère incapable de concevoir sa réhabilitation ou sa plasticité future (injustice herméneutique), et l'individu, pris au piège de l'étiquette, finit par conformer ses postures somatiques réelles à cette identité d'exclusion.
+- Hacking, Ian, « Making Up People », 1986 ; repris dans différentes éditions et collections ultérieures.
+- Hacking, Ian, *The Taming of Chance*, Cambridge University Press, 1990.
+- Hacking, Ian, *Rewriting the Soul: Multiple Personality and the Sciences of Memory*, Princeton University Press, 1995.
+- Hacking, Ian, *The Social Construction of What?*, Harvard University Press, 1999.
+- Hacking, Ian, *Historical Ontology*, Harvard University Press, 2002.
+- Hacking, Ian, *Representing and Intervening: Introductory Topics in the Philosophy of Natural Science*, Cambridge University Press, 1983.
 
----
+Pour poursuivre :
 
-Limites et vigilances d'usage (Pitfalls)
-
-Dans l'explicitation et le maniement de l'héritage d'Ian Hacking, l'enquêteur de second ordre doit observer trois vigilances critiques fondamentales :
-
-· Le piège du relativisme constructiviste extrême (L'illusion idéaliste sémantique) : Croire que parce que nos catégories et objets descriptifs possèdent une histoire, ils seraient de simples fictions arbitraires ou des "spooks" verbaux sans aucune contrainte physique. Protokin réaffirme : les descriptions s'adossent toujours à la matérialité de notre couplage et à la friction réelle des butoirs du milieu d'amont. L'ontologie historique ne dissout pas la réalité objective ; elle montre comment les descriptions et le monde se co-déterminent matériellement.
-· Le piège de la fétichisation des "styles" (La dérive de quiétisme relativiste) : Interpréter la pluralité des styles de raisonnement comme une licence pour accorder une validité et une correction identiques à n'importe quel énoncé descriptif, sombrant dans le laxisme d'équivalence. Protokin rappelle que les styles de raisonnement possèdent des puissances prédictives asymétriques face aux butoirs du milieu PROTO. L'enquêteur de second ordre doit respecter les exigences de preuve et les critères d'inférence spécifiques à chaque régime sans les confondre dans une hybridation laxiste indifférenciée.
-· Le biais de la jargonisation bureaucratique stérile (Le formalisme sans butoir) : S'imaginer que l'effet de boucle légitime la création continue et arbitraire de nouveaux formulaires, questionnaires ou fichiers standardisés d'administration. Au contraire, l'audit de second ordre doit dénoncer le fétichisme des supports d'inscription qui écrase la densité des raisons vécues (l'image manifeste de la personne) sous l'illusion d'une régulation automatisée et déshumanisée.
-
----
-
-Synthèse finale
-
-Ce que cette page établit
-
-L'apport d'Ian Hacking à la métathéorie Protokin en tant que ressource réflexive de second ordre, formalisant la brique de l'ontologie historique (co-constitution des catégories et des types de personnes), le nominalisme dynamique, les styles de raisonnement (définissant la décidabilité des énoncés) et la redescente somatique de l'espace des raisons par l'effet de boucle (looping effect).
-
-Ce qu'elle suppose
-
-L'Introduction générale (introduction-generale.md), la baseline (protokin-en-une-phrase.md), la page d'orientation générale de la section (10-heritages-philosophiques.md), et l'armature de premier ordre PROTO/KIN.
-
-Ce qu'elle rend possible
-
-L'explicitation ordonnée et autonome des briques d'aval de la section 06 (sedimentation.md, reproduction.md) et de la section 04 (effet-cliquet.md), l'élaboration clinique des diagnostics de second ordre face aux erreurs de catégorie morales ou sécuritaires, et la lutte contre les injustices herméneutiques sédimentées (injustice-hermeneutique.md).
-
----
-
-Protokin 2026 — version 26.08.081
+- [Régime descriptif](fr/regime-descriptif.md) — Examiner les règles, les opérations et les critères qui organisent une pratique descriptive.
+- [Sédimentation](fr/sedimentation.md) — Examiner l’accumulation et la conservation des traces issues de pratiques antérieures.
+- [Effet cliquet](fr/effet-cliquet.md) — Examiner les asymétries qui rendent certaines révisions plus difficiles que d’autres.
+- [Injustice herméneutique](fr/injustice-hermeneutique.md) — Examiner les désavantages structurels liés à l’accès aux ressources interprétatives collectives.
+- [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md) — Examiner les relations entre plusieurs pratiques descriptives.
+- [Support descriptif institutionnel](fr/supports-descriptifs-institutionnels.md) — Examiner les dispositifs collectifs qui organisent les pratiques descriptives.
