@@ -1,258 +1,128 @@
-# Page : le-referent-temporel.md
+# Référent temporel — Le processus physique comme référence de mesure
 
-Le référent temporel
+## Fonction
 
-«Un processus physique ne devient pas du temps parce qu'il est régulier ; il acquiert une fonction temporelle lorsqu'il sert de référence pour comparer des transformations.»
+Cette page examine le statut du processus physique qui sert de référence dans une mesure temporelle. Elle distingue ce processus de la fonction métrologique qu’il remplit, de la procédure de mesure et de la grandeur temporelle obtenue.
 
-Fonction
+Son objet est circonscrit : expliquer comment un phénomène physique peut servir à établir une référence de mesure sans être confondu avec la durée mesurée. Elle complète la page [Temps physique](fr/temps.md), sans reprendre l’ensemble des relations temporelles ni des modèles physiques.
 
-Le concept de référent temporel désigne le processus physique utilisé pour établir, comparer ou reproduire une mesure de durée.
+## 1. Problème : que désigne une référence temporelle ?
 
-Il permet de distinguer :
+Pour mesurer une durée, il faut disposer de moyens permettant de comparer des événements ou des processus selon une procédure définie. Les horloges réalisent ces comparaisons en exploitant des phénomènes physiques dont les propriétés permettent d’établir une référence suffisamment stable et reproductible.
 
-- le processus physique lui-même ;
-- la relation temporelle qu'il permet de mesurer ;
-- la fonction de référence qui lui est attribuée ;
-- la grandeur temporelle produite par la mesure.
+Le phénomène utilisé n’est toutefois pas identique à la durée mesurée. Il faut distinguer quatre éléments :
 
-Cette distinction empêche de confondre le temps avec l'un de ses étalons physiques.
+- **Le processus physique** : le phénomène exploité par le dispositif de mesure.
+- **La référence métrologique** : le rôle attribué à ce processus dans un système de mesure.
+- **La procédure de mesure** : les opérations qui permettent de réaliser l’unité, de comparer des occurrences et d’obtenir un résultat.
+- **La grandeur mesurée** : la durée attribuée à l’intervalle étudié selon la procédure retenue.
 
----
+Ces éléments sont liés, mais ils ne remplissent pas la même fonction. Le processus fournit un appui physique à la mesure ; il ne se confond ni avec la procédure qui l’exploite ni avec le résultat que celle-ci produit.
 
-Le problème du temps comme objet
+## 2. Un processus physique peut remplir différentes fonctions de référence
 
-Lorsque nous parlons d'une durée, nous avons tendance à parler du temps comme d'une réalité que l'on mesurerait directement.
+Les pratiques de mesure temporelle ont mobilisé différents phénomènes physiques. Les cycles astronomiques ont notamment servi à organiser les calendriers. Les horloges modernes exploitent, entre autres, des oscillations ou des transitions atomiques pour réaliser des unités de durée.
 
-Mais aucune mesure empirique ne consiste à isoler le temps pour en déterminer la quantité.
+Considérons deux exemples.
 
-Nous comparons plutôt des événements ou des transformations au moyen d'un processus physique suffisamment régulier pour servir de référence.
+### 2.1. Le cycle astronomique
 
-Schématiquement :
+Le cycle orbital de la Terre peut servir de référence pour définir ou repérer une année, selon la convention astronomique retenue. Mais l’année ne se confond ni avec la Terre, ni avec le Soleil, ni avec le mouvement orbital pris isolément.
 
-«processus physique de référence → comparaison → durée mesurée»
+Le cycle physique est mobilisé dans une pratique de mesure et de calendrier. La grandeur temporelle obtenue dépend de la définition retenue : différents usages du terme *année* peuvent correspondre à des références et à des conventions distinctes.
 
-Le processus de référence n'est donc pas ce qui est mesuré comme « temps ».
+### 2.2. La référence atomique
 
-Il permet de mesurer une relation temporelle.
+La seconde du Système international est définie à partir d’une fréquence de transition atomique spécifiée. Sa réalisation pratique exige des dispositifs et des procédures permettant d’exploiter cette référence dans des conditions déterminées.
 
----
+Le phénomène atomique ne devient pas pour autant une durée. Il permet de réaliser une unité selon une définition métrologique. Les instruments, les procédures de comparaison et les conditions de réalisation participent à l’établissement de mesures reproductibles.
 
-L'exemple de l'année
+Ces deux exemples montrent que des processus physiques de nature différente peuvent servir à des pratiques de mesure temporelle. Ils ne démontrent pas que toutes les références sont équivalentes : leurs usages, leur précision, leurs conditions de réalisation et les grandeurs visées doivent être examinés séparément.
 
-L'année fournit un exemple historique particulièrement clair.
+## 3. Référence, mesure et grandeur temporelle
 
-Le cycle orbital de la Terre autour du Soleil a constitué un repère astronomique fondamental pour organiser les durées.
+Le choix d’un processus de référence n’est pas arbitraire. Il dépend des objectifs de mesure et des propriétés physiques qui permettent de réaliser une référence suffisamment stable, reproductible et adaptée à l’usage visé.
 
-On peut schématiquement décrire la pratique ainsi :
+Il faut néanmoins distinguer la fonction métrologique du processus physique lui-même. Un phénomène ne porte pas, comme une propriété intrinsèque indépendante de tout usage, l’ensemble des fonctions que les pratiques de mesure peuvent lui attribuer.
 
-«Terre → mouvement orbital → cycle régulier → référence → année»
+On peut résumer la distinction ainsi :
 
-Mais aucune de ces étapes ne permet d'identifier l'année à l'un des éléments précédents.
+- un processus physique possède des caractéristiques déterminées ;
+- une pratique de mesure exploite certaines de ces caractéristiques ;
+- une procédure permet de réaliser et de comparer des mesures ;
+- un résultat est établi selon une unité, des conditions et des incertitudes données.
 
-La Terre n'est pas l'année.
+La fonction de référence est donc liée à une configuration de mesure. Elle dépend des propriétés du processus, mais également de la définition de l’unité, des instruments, des procédures et des exigences de précision.
 
-Le Soleil n'est pas l'année.
+Cela ne signifie pas que la mesure serait une convention arbitraire. Les résultats sont contraints par les phénomènes étudiés, les conditions expérimentales, les procédures de comparaison et les incertitudes qui affectent les mesures.
 
-Le mouvement orbital n'est pas l'année.
+## 4. Ce que la référence permet d’établir
 
-Le cycle physique acquiert une fonction de référence temporelle dans une pratique de mesure.
+Un processus de référence permet de réaliser une unité ou de comparer des durées selon une procédure déterminée. Il fournit ainsi un moyen de quantifier des intervalles et de rendre des résultats comparables.
 
-L'année est alors une grandeur temporelle définie relativement à cette référence.
+Il ne s’ensuit pas que le processus de référence produise la relation temporelle mesurée. Une horloge permet de quantifier un intervalle entre des événements ; elle ne suffit pas, par sa seule présence, à expliquer leur succession ou à établir une relation causale entre eux.
 
----
+De même, une différence entre les indications de deux horloges ne s’interprète pas sans examiner les conditions de leur comparaison et le cadre physique pertinent. La référence et la procédure rendent le résultat mesurable ; l’interprétation du résultat exige un examen distinct.
 
-Le caractère contingent du référent
+Pour l’analyse générale des relations temporelles, des procédures de mesure et des modèles physiques, voir [Temps physique](fr/temps.md).
 
-Le choix du référent est contingent au sens où plusieurs processus physiques peuvent remplir une fonction de mesure temporelle.
+## 5. Distinctions et non-conversions
 
-Une civilisation peut organiser son calendrier à partir de cycles astronomiques différents.
+Le référent temporel permet de maintenir plusieurs distinctions :
 
-Une horloge peut exploiter :
+**Processus physique ≠ grandeur temporelle.**
 
-- une rotation ;
-- une oscillation ;
-- une vibration ;
-- une transition atomique.
+Le phénomène exploité par une horloge ne se confond pas avec la durée attribuée à un intervalle.
 
-Le choix de l'étalon dépend donc des objectifs de la mesure et des propriétés du processus considéré.
+**Référence métrologique ≠ procédure de mesure.**
 
-La contingence du référent ne signifie cependant pas que la mesure soit arbitraire.
+La référence contribue à réaliser une unité ou à permettre une comparaison ; la procédure précise comment cette référence est exploitée et comment le résultat est établi.
 
-Un bon référent doit présenter des propriétés permettant une mesure suffisamment stable, reproductible et comparable.
+**Mesure d’une relation temporelle ≠ production de cette relation.**
 
-Ainsi :
+La mesure permet de quantifier un intervalle selon une procédure. Elle ne suffit pas à établir que le dispositif a produit la succession des événements comparés.
 
-«choix du référent ≠ arbitraire de la mesure»
+**Fonction de référence ≠ propriété intrinsèque isolée.**
 
----
+La fonction métrologique dépend des caractéristiques du phénomène, mais aussi de la définition de l’unité, des dispositifs et des pratiques qui rendent la mesure possible.
 
-Du mouvement à l'étalon
+Ces distinctions n’imposent aucune conclusion générale sur la nature ultime du temps. Elles empêchent seulement de déduire le statut ontologique du temps du seul choix d’un processus de référence ou de la réussite d’une procédure de mesure.
 
-Il serait toutefois réducteur de dire que nous mesurons toujours le temps par un déplacement dans l'espace.
+## 6. Articulation avec Protokin
 
-Le mouvement orbital de la Terre constitue un cas historique important, mais les étalons modernes peuvent exploiter des phénomènes qui ne sont pas décrits comme de simples déplacements macroscopiques.
+Dans Protokin, cette distinction peut être examinée selon plusieurs orientations, en fonction du problème rencontré :
 
-La définition moderne de la seconde repose sur une fréquence atomique extrêmement stable.
+- **Condition** : quelles propriétés physiques et quelles conditions expérimentales permettent d’exploiter le processus de référence ?
+- **Relation** : quelles comparaisons relient le processus, les événements étudiés et les résultats de mesure ?
+- **Fonction** : quel rôle le processus remplit-il dans le dispositif métrologique ?
+- **Justification** : quels éléments permettent de soutenir la validité d’une mesure ou l’interprétation d’un résultat ?
 
-Le principe général reste néanmoins le même :
+Ces orientations ne constituent ni quatre composantes du référent temporel ni quatre étapes obligatoires de la mesure. Elles différencient les questions qu’une enquête peut être amenée à examiner.
 
-«un processus physique sert de référence pour quantifier une durée.»
+Il faut notamment éviter de convertir une explication physique en justification automatique d’un résultat, ou la fonction de référence d’un processus en propriété qui suffirait à garantir toute mesure produite à partir de lui.
 
-La nature du processus peut changer sans que sa fonction métrologique change.
+### Référent temporel et référent descriptif
 
----
+Le terme *référent* possède ici un usage métrologique particulier : il désigne le processus physique exploité comme référence de mesure. Dans [Référent](fr/referent.md), il désigne ce à quoi une pratique descriptive se rapporte ou prétend se rapporter.
 
-Propriété, relation, fonction
+Ces deux usages ne doivent pas être assimilés. Un processus peut servir de référence métrologique dans une mesure sans devenir, pour cette seule raison, le référent de toute description produite à partir du résultat. Le rapport entre mesure, description et visée référentielle doit être établi en fonction de la pratique considérée.
 
-Le référent temporel permet d'illustrer directement une distinction fondamentale :
+### Temps physique et temporalité descriptive
 
-«la relation n'est pas la propriété physique de la chose, et la fonction n'est pas la chose elle-même.»
+Le référent temporel concerne les moyens physiques et métrologiques employés pour mesurer des durées. La [temporalité descriptive](fr/temporalite-descriptive.md) concerne les héritages, les usages et les transformations des pratiques descriptives.
 
-Considérons une horloge.
+Une mesure peut contribuer à réviser une description, mais elle ne détermine pas à elle seule le sens de cette description, sa fonction dans une pratique ou les raisons de la maintenir. Ces questions demandent des examens distincts.
 
-Elle possède certaines propriétés physiques.
+## Synthèse
 
-Elle participe à une relation de comparaison avec d'autres événements ou processus.
+Un référent temporel est un processus physique mobilisé comme référence dans une pratique de mesure. Il permet de réaliser une unité ou de comparer des durées selon des procédures déterminées, sans se confondre avec la procédure, le résultat ou la grandeur temporelle mesurée.
 
-Elle exerce alors une fonction de référence temporelle.
+Les processus de référence peuvent varier, mais leur usage est contraint par les phénomènes physiques, les exigences de mesure et les conditions de réalisation. Cette analyse précise le statut métrologique du référent sans trancher, à elle seule, la question ontologique du temps.
 
-On ne doit donc pas confondre :
+Pour poursuivre :
 
-«propriété physique → relation → fonction»
-
-avec :
-
-«propriété physique = fonction»
-
-La fonction temporelle n'est pas une propriété supplémentaire cachée dans l'objet.
-
----
-
-Le référent est relatif à une pratique de mesure
-
-Un processus physique ne devient pas spontanément un « étalon du temps ».
-
-Il devient référent dans une pratique de mesure qui établit :
-
-- ce qui est comparé ;
-- quelle régularité est retenue ;
-- quelle unité est définie ;
-- comment l'étalon est reproduit ;
-- quelle précision est requise.
-
-La fonction temporelle appartient donc à une configuration de mesure, et non au processus physique considéré isolément.
-
-Cela permet de distinguer :
-
-«processus physique
-fonction métrologique
-grandeur temporelle»
-
----
-
-Référent et relation temporelle
-
-Le référent ne crée pas nécessairement la relation temporelle qu'il mesure.
-
-Il fournit un moyen de la quantifier.
-
-Lorsque deux événements sont comparés au moyen d'une horloge, l'horloge ne produit pas leur succession.
-
-Elle permet de déterminer quantitativement l'intervalle qui les sépare selon le régime de mesure adopté.
-
-Ainsi :
-
-«mesurer une relation ≠ produire la relation»
-
-et :
-
-«servir de référence ≠ constituer ce qui est référé»
-
-Cette distinction est essentielle pour éviter de transformer l'instrument de mesure en fondement ontologique de ce qu'il mesure.
-
----
-
-Dilatation temporelle
-
-La relativité fournit un cas particulièrement instructif.
-
-Lorsque deux horloges suivent des trajectoires différentes ou se trouvent dans des conditions gravitationnelles différentes, leur comparaison peut révéler des durées propres différentes.
-
-L'expérience ne consiste pas à observer directement « le temps qui se dilate ».
-
-Elle consiste à comparer les processus physiques servant d'horloges.
-
-Le résultat empirique est une différence mesurable entre ces processus.
-
-La théorie décrit cette différence au moyen de la structure de l'espace-temps.
-
-On retrouve donc la distinction :
-
-«processus physique → mesure → relation temporelle observée → formalisation théorique»
-
-La formalisation en termes de temps et d'espace-temps ne doit pas être confondue avec le processus expérimental lui-même.
-
----
-
-Ce que cette page n'établit pas
-
-Cette analyse ne permet pas de conclure que le temps est :
-
-- une convention ;
-- un simple produit de nos instruments ;
-- une relation et rien d'autre ;
-- une propriété émergente ;
-- une substance ;
-- une illusion.
-
-Elle établit une proposition plus restreinte :
-
-«Toute mesure empirique d'une durée nécessite un processus de référence permettant de comparer des événements ou des transformations.»
-
-Le référent est donc une condition de mesure, non nécessairement une définition ontologique du temps.
-
----
-
-Principe de non-conversion
-
-On peut condenser la distinction en quatre propositions :
-
-«Le processus physique n'est pas le temps.»
-
-«Le référent temporel n'est pas la durée qu'il permet de mesurer.»
-
-«La mesure d'une relation temporelle n'est pas la production de cette relation.»
-
-«La fonction de référence n'est pas une propriété intrinsèque du référent.»
-
-Ces distinctions permettent de maintenir séparés :
-
-Corps
-→ le processus physique utilisé ;
-
-Relation
-→ le rapport temporel entre événements ou processus ;
-
-Fonction
-→ le rôle de référence ou de mesure ;
-
-Justification
-→ les critères permettant d'établir la validité de la mesure.
-
----
-
-Synthèse
-
-Une année peut être mesurée à partir d'un cycle astronomique. Une seconde peut être définie à partir d'un phénomène atomique. D'autres systèmes peuvent servir de références dans d'autres contextes.
-
-Ce qui change est le processus servant d'étalon.
-
-Ce qui demeure est la fonction :
-
-«rendre une durée comparable et mesurable.»
-
-Ainsi :
-
-«Un processus physique ne devient pas du temps parce qu'il est régulier ; il acquiert une fonction temporelle lorsqu'il sert de référence pour comparer des transformations.»
-
-Le référent temporel est donc moins une « chose qui contient le temps » qu'un élément physique auquel une fonction de mesure est attribuée dans une pratique déterminée.
+- [Temps physique](fr/temps.md) — Examiner les relations temporelles, les procédures de mesure et les modèles physiques.
+- [Référent](fr/referent.md) — Examiner la visée référentielle et les pratiques d’identification.
+- [Temporalité descriptive](fr/temporalite-descriptive.md) — Examiner les rapports temporels des pratiques descriptives.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations de l’examen sans les convertir les unes dans les autres.
+- [Table des matières](fr/tdm.md) — Replacer cette page dans l’organisation du corpus.
