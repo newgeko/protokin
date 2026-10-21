@@ -240,6 +240,7 @@ Les cas permettent de confronter les distinctions et les opérations à des situ
 - [Phlogistique](fr/phlogistique.md) — Examiner la révision d’un cadre descriptif et explicatif.
 - [Urgence hospitalière](fr/urgence-hospitaliere.md) — Examiner les fonctions et les critères de pratiques cliniques, biomédicales et administratives, ainsi que les conditions de leur coordination.
 - [Théorie des humeurs](fr/theorie-des-humeurs.md) — Examiner les catégories, les critères et les transformations historiques des pratiques médicales.
+- [Intelligence artificielle](intelligence-artificielle.md) — Examiner ce que les résultats d’un système d’IA permettent de conclure dans une pratique descriptive.
 
 ---
 ## VIII. Héritages philosophiques
@@ -257,6 +258,9 @@ Cette rubrique rassemble les rapprochements philosophiques utiles pour situer ce
 - [Saul Kripke](fr/saul-kripke.md) — Distinguer la transmission historique des désignations, la rigidité modale et les conditions d’application des règles.
 - [Miranda Fricker](fr/miranda-fricker.md) — Examiner les injustices testimoniale et herméneutique, ainsi que les asymétries de crédibilité et de participation aux ressources collectives d’interprétation.
 - [Ian Hacking](fr/ian-hacking.md) — Examiner l’historicité des catégories, les effets de boucle des classifications humaines et les styles de raisonnement.
+- [Maurice Merleau-Ponty](fr/maurice-merleau-ponty.md) — Examiner les apports de la phénoménologie corporelle à la compréhension de la perception et du savoir pratique.
+- [Gilbert Simondon](fr/gilbert-simondon.md) — Examiner les notions d’individuation, de métastabilité et de transduction dans l’étude des transformations.
+- [Francisco Varela](fr/francisco-varela.md) — Examiner les apports de l’énaction et du couplage organisme-milieu à l’étude des conditions biologiques de l’activité.
 
 Ces rapprochements n’ont pas tous le même statut. Une ressemblance de vocabulaire ne suffit pas à établir une filiation ; une influence reconnue ne vaut pas adhésion à l’ensemble d’une doctrine. Les pages philosophiques servent à documenter des proximités et des écarts, non à remplacer l’examen fonctionnel des problèmes propres à Protokin.
 
