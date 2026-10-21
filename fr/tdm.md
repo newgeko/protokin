@@ -11,7 +11,7 @@ Le classement proposé est documentaire. Il ne constitue ni une hiérarchie onto
 Ces pages précisent le problème auquel répond Protokin, l’organisation du projet et les fonctions respectives de ses principales ressources.
 
 - [Présentation générale](../README.md) — Présenter le projet, son orientation et ses limites.
-- [Ce que Protokin permet](ce-que-protokin-permet.md) — Préciser les problèmes que l’enquête permet d’examiner et les résultats qu’elle peut soutenir.
+- [Ce que Protokin permet](fr/ce-que-protokin-permet.md) — Préciser les problèmes que l’enquête permet d’examiner et les résultats qu’elle peut soutenir.
 - [Ce que Protokin ne prétend pas faire](fr/ce-que-protokin-ne-pretend-pas-faire.md) — Délimiter les conclusions que l’enquête ne peut pas établir à elle seule.
 - [Nom, origine et portée](fr/nom-origine-portee.md) — Expliquer le choix du nom Protokin, les rapprochements conceptuels qu’il suggère et les limites de leur portée.
 - [Introduction générale](fr/introduction-generale.md) — Situer les difficultés rencontrées dans les pratiques descriptives et introduire la nécessité d’une enquête.
