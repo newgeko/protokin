@@ -1,211 +1,150 @@
-# Page : injustice-epistemique.md
+# Injustice épistémique — Crédibilité, interprétation et participation
 
-Injustice épistémique — L'analyse structurelle des asymétries de participation, d'exclusion et de disqualification dans l'espace des raisons
+## 1. Fonction
 
-Analyse architecturale de la page
+Cette page examine les injustices qui affectent la possibilité de contribuer aux pratiques de connaissance : être entendu comme une personne crédible, rendre une expérience intelligible à l’aide de ressources interprétatives partagées, et participer à l’examen des descriptions et des critères employés.
 
-1. Fonction unique de la page
+Elle distingue les formes d’injustice épistémique associées à Miranda Fricker des prolongements que Protokin propose d’examiner dans les pratiques descriptives. Elle précise aussi les conditions nécessaires pour ne pas confondre une injustice avec un désaccord, une erreur, une difficulté de communication ou une limite descriptive.
 
-Cette page existe pour établir le statut conceptuel de l'injustice collective (parfois thématisée sous le concept d'injustice épistémique) au sein de la métathéorie Protokin, en présentant l'apport fondateur de Miranda Fricker sur les asymétries de participation aux pratiques de connaissance et en l'intégrant comme une pathologie relationnelle et structurelle des architectures descriptives.
+La page ne propose ni une théorie générale de la justice ni une méthode complète de diagnostic. Elle fournit des distinctions pour déterminer ce qui doit être examiné dans une situation donnée.
 
-2. Choix du mode de développement
+## 2. Problème
 
-· Mode retenu : Mode A — Développement conceptuel.
-· Justification : L'injustice collective constitue une catégorie d'analyse et un opérateur critique de second ordre de la réflexivité (Section 09 — Réflexivité). Il importe d'établir sa nécessité logique, de formaliser ses trois dimensions structurelles (testimoniale, herméneutique, de support/échelle) et de tracer des frontières conceptuelles rigoureuses avec des notions de premier ordre (injustices individuelles) ou d'autres concepts d'enquête (limites internes).
+Une pratique de connaissance ne dépend pas seulement des informations disponibles ou de la qualité des raisons avancées. Elle dépend aussi des conditions dans lesquelles les personnes peuvent témoigner, faire comprendre une expérience, contester une interprétation et contribuer aux critères employés.
 
-3. Problème conceptuel
+Ces conditions peuvent être inégalement distribuées. Une personne peut recevoir moins de crédit en raison d’un préjugé lié à son identité. Un groupe peut être désavantagé parce que les ressources interprétatives partagées rendent difficile la formulation d’une expérience qui le concerne. Des procédures, des catégories ou des supports peuvent également limiter la manière dont certaines informations sont enregistrées ou prises en compte.
 
-Comment identifier, caractériser et évaluer de manière immanente les exclusions, les asymétries de reconnaissance et les disqualifications au sein d'une communauté de locuteurs sans réduire le problème à des fautes morales ou psychologiques individuelles, et en le ramenant aux contraintes objectives des configurations descriptives et de leurs supports d'inscription ?
+Ces situations ne sont pas équivalentes. Pour parler d’injustice épistémique, il ne suffit pas de constater qu’une description est contestée, qu’une personne n’est pas convaincante ou qu’une catégorie manque. Il faut examiner la nature du désavantage, les conditions dans lesquelles il se produit et les effets qu’il entraîne pour la participation aux pratiques de connaissance.
 
-4. Objet propre
+## 3. Deux formes d’injustice épistémique
 
-· Cette page traite de : l'injustice collective en tant que pathologie des cadres de justification ; Miranda Fricker et l'injustice épistémique ; les morphologies testimoniale, herméneutique, et de support/échelle ; le déficit de recevabilité et d'explicitation ; et le rôle de l'injustice comme moteur négatif de l'enquête.
-· Cette page ne traite pas de : la psychologie individuelle des préjugés ; une sociologie empirique ou ethnographique des dominations ; la théorie politique substantive de la justice ; la morale universelle ou les jugements éthiques de premier ordre.
+Les notions d’injustice testimoniale et d’injustice herméneutique, développées par Miranda Fricker, permettent de distinguer deux problèmes majeurs.
 
-5. Statut conceptuel
+### 3.1. Injustice testimoniale
 
-Il s'agit d'un concept de second ordre et d'un opérateur d'auto-limitation appartenant à la section 09 — Réflexivité de la métathéorie.
+L’injustice testimoniale se produit lorsqu’un préjugé identitaire conduit à accorder à une personne moins de crédibilité que son témoignage ne le mérite.
 
-6. Dépendances fonctionnelles
+Le problème ne réside donc pas dans le seul fait qu’une affirmation soit contestée ou tenue pour fausse. Il concerne les conditions de son évaluation : le statut attribué à la personne qui parle peut infléchir le crédit qui lui est accordé, indépendamment des raisons pertinentes pour examiner son témoignage.
 
-Cette page suppose :
+L’analyse doit distinguer au moins trois questions :
 
-· La communauté de locuteurs.
-· La position épistémique.
-· Les supports descriptifs (externes, incorporés, institutionnels).
-· Le régime descriptif.
-· L'espace des raisons (plan KIN).
+- Que rapporte la personne ?
+- Quels éléments permettent d’évaluer ce témoignage dans la situation considérée ?
+- Le crédit accordé est-il affecté par un préjugé identitaire plutôt que par des raisons pertinentes ?
 
-Cette page rend possible :
+Une différence de crédibilité ne suffit pas à établir une injustice testimoniale. Le diagnostic exige d’examiner ce qui explique cette différence et le tort qu’elle produit.
 
-· L'audit des régimes descriptifs.
-· L'écologie des régimes descriptifs.
-· L'explicitation des zones de silence.
-· Le contre-audit réglé des analyses de second ordre.
-· Le processus d'auto-émancipation par l'enquête collective.
+### 3.2. Injustice herméneutique
 
-7. Frontières conceptuelles
+L’injustice herméneutique se produit lorsqu’un désavantage structurel prive certaines personnes d’un accès équitable aux ressources interprétatives collectives nécessaires pour rendre intelligible une expérience sociale importante.
 
-Injustice collective et Injustice individuelle (morale)
+La difficulté ne concerne pas nécessairement un témoignage déjà formulé et évalué. Elle peut porter sur les ressources disponibles pour identifier, qualifier ou communiquer une expérience. Une personne peut rencontrer des difficultés à faire comprendre ce qu’elle vit parce que les catégories partagées ne permettent pas de rendre compte de certains aspects de sa situation, ou parce qu’elle a été exclue des processus par lesquels ces ressources sont élaborées et transmises.
 
-La différence porte sur la nature de la faute et le plan d'analyse. L'injustice individuelle relève de la faute éthique ou du biais cognitif d'un agent de premier ordre. L'injustice collective est structurelle et anonyme : elle est encodée dans les grilles, supports d'inscription et règles d'exclusion du régime en vigueur, s'imposant même en l'absence d'intention malveillante.
+Toute lacune conceptuelle n’est cependant pas une injustice herméneutique. Il faut établir qu’un désavantage affecte certaines personnes ou certains groupes et examiner son rapport aux conditions inégales de participation à la production, à la circulation ou à l’usage des ressources interprétatives.
 
-Injustice herméneutique et Limite interne d'un régime
+La page consacrée à l’[injustice herméneutique](fr/injustice-hermeneutique.md) examine cette forme plus en détail.
 
-La différence s'établit au niveau de l'asymétrie de la fermeture. La limite interne désigne le point de saturation normal d'un régime de premier ordre confronté à des butoirs du milieu. L'injustice herméneutique désigne un déficit sémantique sélectif qui empêche spécifiquement certains groupes d'articuler leur expérience vécue de souffrance ou d'oppression dans l'espace public, parce que le vocabulaire dominant produit des zones de silence sur leurs situations.
+## 4. Prolongement proposé par Protokin
 
-8. Architecture locale
+Les deux formes précédentes conduisent à examiner les conditions dans lesquelles une description peut être formulée, reçue, interprétée et discutée. Protokin propose d’élargir cet examen aux configurations pratiques dans lesquelles ces conditions sont organisées.
 
-```
-                    LIMITES DE PROTOKIN (limites-de-protokin.md)
-                                     │
-                                     ▼
-                 INJUSTICE ÉPISTÉMIQUE (injustice-epistemique.md)
-                                     │
-                                     ▼
-             ÉCOLOGIE DES RÉGIMES (ecologie-des-regimes-descriptifs.md)
-```
+Ce prolongement ne constitue pas une troisième forme d’injustice déjà établie au même titre que les catégories de Fricker. Il s’agit d’une piste d’analyse dont la pertinence doit être éprouvée dans chaque situation.
 
----
+### 4.1. Conditions matérielles et documentaires
 
-Cartouche fonctionnel
+Les formulaires, les bases de données, les procédures d’enregistrement, les instruments et les autres supports peuvent faciliter certaines inscriptions et en rendre d’autres difficiles. Une information qui ne peut être enregistrée, transmise ou retrouvée risque de ne pas intervenir dans les évaluations ultérieures.
 
-Élément Description
-Fonction Établir le statut analytique de l'injustice collective et épistémique au sein de la clinique de l'audit Protokin.
-Prépare L'analyse de l'écologie des régimes, la grille d'audit immanent, la conduite des contre-audits et l'enquête collective.
-Mobilise La communauté de locuteurs, les supports (externes, incorporés, institutionnels), les positions épistémiques et l'espace des raisons.
-Permet ensuite D'auditer les asymétries de participation, de dépister les exclusions et de libérer la parole subordonnée.
-N'établit pas Une éthique substantive, une sociologie empirique des rapports de force, ni une théorie positive du droit.
+Cette difficulté peut contribuer à une injustice épistémique lorsque ses effets désavantagent certaines personnes dans leur capacité à faire reconnaître leur expérience ou à participer à l’évaluation d’une situation. La seule présence d’un support inadapté ne suffit toutefois pas à établir ce diagnostic : il faut examiner son fonctionnement, ses conséquences et les possibilités de correction ou de contestation.
 
----
+### 4.2. Conditions institutionnelles et collectives
 
-Problème conceptuel inaugural
+Les pratiques collectives distribuent des rôles, des responsabilités, des accès aux ressources et des possibilités de révision. Elles peuvent rendre certains témoignages plus recevables que d’autres ou réserver à certaines positions la capacité de fixer les catégories et les critères employés.
 
-L'espace des raisons n'est pas un éden sémantique neutre où les assertions circuleraient de manière parfaitement fluide, symétrique et égalitaire. Puisque toute description et tout régime de justification s'adosse à des infrastructures matérielles, des échelles collectives, des cadres d'apprentissage et des processus d'institutionnalisation, l'accès à la parole légitime et aux ressources d'explicitation s'avère fondamentalement asymétrique.
+Une telle asymétrie n’est pas automatiquement injuste. Les rôles et les compétences peuvent être pertinents pour une tâche donnée. La question est de savoir si la distribution des possibilités de contribution repose sur des raisons défendables, si elle entraîne un désavantage injustifié et si les personnes concernées peuvent contester les décisions qui les affectent.
 
-L'analyse philosophique classique ou la sociologie spontanée appréhendent fréquemment les injustices commises dans le domaine de la connaissance — comme le fait d'ignorer la parole d'un agent ou de disqualifier sa plainte — comme des préjugés subjectifs, des vices intellectuels ou des dérives de pouvoir de premier ordre. Pourtant, cette représentation psychologisante ou morale occulte la mécanique intime des cadres de dicibilité.
+### 4.3. Supports, catégories et participation
 
-Dès lors, la difficulté fondamentale s'impose :
+Les supports et les catégories ne doivent pas être considérés isolément. Un dispositif d’inscription peut matérialiser des catégories définies dans une pratique collective ; ces catégories peuvent ensuite orienter les informations conservées et les décisions prises.
 
-Comment modéliser et évaluer les disqualifications et les exclusions au sein d'une communauté de locuteurs sans réduire le problème à des fautes morales ou cognitives individuelles, de manière à ce que l'injustice apparaisse comme une pathologie relationnelle des architectures descriptives elles-mêmes ?
+L’enquête peut examiner ces dépendances sans supposer qu’elles produisent nécessairement une injustice. Elle doit établir le rôle concret des supports, des catégories et des règles de participation, puis déterminer si leur fonctionnement contribue à un tort épistémique identifiable.
 
-Protokin écarte cette aporie en conceptualisant l'injustice collective (ou épistémique). Fidèle à son immanence fonctionnaliste, Protokin montre que l'injustice n'est pas le produit d'un vice de l'esprit, mais d'un dysfonctionnement structurel des systèmes de justification. L'injustice se produit lorsque les catégories, critères de correction et supports d'inscription d'un régime saturent l'espace des possibles et condamnent activement certaines descriptions à l'invisibilité.
+## 5. Exemple : une plainte dans un service hospitalier
 
----
+Une personne se présente aux urgences et signale une douleur. Son récit est difficile à comprendre, et les informations recueillies lors du premier échange ne correspondent pas clairement aux catégories proposées par le formulaire de tri.
 
-Définition fonctionnelle
+Plusieurs hypothèses doivent être distinguées.
 
-Dans l'architecture de Protokin, on appelle injustice collective (ou injustice épistémique) :
+- **Difficulté de communication :** certains éléments du récit n’ont pas été compris. Il faut examiner les conditions de l’échange et les moyens disponibles pour clarifier la plainte.
+- **Injustice testimoniale :** la parole de la personne reçoit moins de crédit en raison d’un préjugé identitaire, plutôt qu’en raison d’une évaluation pertinente des éléments disponibles.
+- **Difficulté liée aux ressources interprétatives :** les catégories partagées ne permettent pas de rendre intelligible une dimension importante de l’expérience rapportée. Pour conclure à une injustice herméneutique, il faut aussi établir le désavantage structurel en cause.
+- **Limite d’un support ou d’une procédure :** le formulaire ne permet pas d’inscrire une information pertinente ou la procédure ne prévoit pas de moyen adéquat pour la reprendre. Il faut examiner les conséquences de cette limite et les possibilités de la corriger.
 
-La dégradation structurelle et relationnelle de la capacité d'un locuteur ou d'un groupe à faire reconnaître ses assertions comme recevables, à assumer des engagements ou à mobiliser des justifications, en raison d'un déficit de ressources sémantiques ou d'une asymétrie de pouvoir encodée dans les catégories, les supports d'inscription et les critères d'évaluation du régime descriptif en vigueur.
+Ces difficultés peuvent se combiner, mais aucune ne démontre automatiquement les autres. Une décision clinique erronée n’établit pas à elle seule une injustice épistémique ; inversement, l’absence de preuve immédiate d’une erreur clinique ne suffit pas à exclure une injustice dans la manière dont le témoignage a été reçu.
 
-Cette définition implique trois propriétés relationnelles constitutives :
+L’examen doit donc porter sur les faits disponibles, les raisons d’accorder ou de refuser du crédit, les ressources interprétatives mobilisées et les conditions dans lesquelles une première évaluation peut être contestée ou révisée.
 
-· La mutilation de la position d'agent : Le locuteur se voit dénié le statut d'interlocuteur rationnel compétent, sa parole étant reléguée au rang de simple cause physique ou somatique (un bruit, un cri, un affect, plan PROTO) plutôt que de raison justifiable (un engagement, une assertion, plan KIN).
-· Le verrouillage asymétrique des ressources : La communauté de reconnaissance réserve l'usage et la révision des critères de validité à des positions épistémiques exclusives, élevant drastiquement le coût d'entrée ou de contestation pour les locuteurs périphériques.
-· La production active de zones de silence : Les catégories dominantes du régime empêchent matériellement de formuler l'épaisseur d'une expérience subie, rendant la plainte collective sémantiquement inexprimable dans le vocabulaire autorisé.
+## 6. Conditions du diagnostic
 
----
+Pour déterminer si une situation relève d’une injustice épistémique, l’enquête peut examiner les questions suivantes :
 
-Les trois morphologies de l'injustice collective
+1. **Quel désavantage est en cause ?** Préciser ce qui est rendu plus difficile ou impossible : être entendu, faire comprendre une expérience, contribuer à l’élaboration des catégories, ou contester une évaluation.
+2. **Qui est affecté et dans quelles conditions ?** Identifier les personnes ou groupes concernés sans présumer qu’ils forment une catégorie homogène.
+3. **Quel mécanisme contribue au désavantage ?** Examiner les préjugés, les ressources interprétatives, les règles de participation, les procédures et les supports effectivement mobilisés.
+4. **Quelles raisons soutiennent le diagnostic ?** Distinguer les faits observés, les hypothèses explicatives et les interprétations encore incertaines.
+5. **Quelles possibilités de contestation ou de révision existent ?** Examiner si les personnes concernées peuvent faire préciser, corriger ou réévaluer les descriptions qui les affectent.
+6. **Qu’est-ce qui pourrait conduire à réviser le diagnostic ?** Identifier les éléments qui permettraient de confirmer, de nuancer ou de rejeter l’hypothèse d’injustice.
 
-L'audit immanent des pratiques descriptives permet d'isoler trois morphologies principales d'injustice collective, qui correspondent à des dysfonctionnements à différents niveaux de l'architecture :
+Ces questions sont des repères d’examen, non les étapes obligatoires d’une procédure. Selon la situation, une difficulté peut conduire à reprendre la définition du problème, à recueillir de nouveaux éléments ou à examiner d’autres explications.
 
-```
-                               PATHOLOGIES DE L'INJUSTICE
-                                           │
-            ┌──────────────────────────────┼──────────────────────────────┐
-            ▼                              ▼                              ▼
-      Injustice Testimoniale         Injustice Herméneutique        Injustice de Support
-          Structurelle                   Structurelle                   et d'Échelle
-     (Déficit de Recevabilité)      (Déficit Catégoriel)         (Verrouillage Matériel)
-```
+## 7. Distinctions et non-conversions
 
-1. L'injustice testimoniale structurelle (Déficit de recevabilité)
+L’analyse de l’injustice épistémique exige de préserver plusieurs distinctions.
 
-Elle se produit lorsqu'une asymétrie systématique affecte le degré de crédibilité ou de recevabilité attribué à la parole d'un locuteur. Cette disqualification ne repose pas sur la fausseté de l'énoncé, mais sur la position épistémique occupée par l'agent, qui n'est pas reconnue par la communauté comme habilitée à produire des assertions dans le régime concerné.
+- **Désaccord ≠ injustice testimoniale :** contester une affirmation ne constitue pas, en soi, une injustice.
+- **Crédibilité ≠ vérité :** le crédit accordé à une personne ne suffit pas à établir la vérité de son témoignage ; son discrédit ne suffit pas davantage à l’invalider.
+- **Lacune conceptuelle ≠ injustice herméneutique :** l’absence d’une catégorie ne suffit pas à démontrer un désavantage structurel injuste.
+- **Difficulté descriptive ≠ injustice épistémique :** une erreur, une incompréhension ou une limite d’un régime ne constitue pas nécessairement une injustice.
+- **Effet structurel ≠ intention d’exclure :** une injustice peut se produire sans intention malveillante, mais l’absence d’intention ne règle pas à elle seule la question des responsabilités.
+- **Accès formel ≠ participation effective :** disposer d’un document, d’un concept ou d’une procédure ne garantit pas de pouvoir contribuer à leur usage ou à leur révision.
+- **Explication d’un désavantage ≠ justification de ce désavantage :** décrire les conditions qui produisent une asymétrie ne suffit pas à montrer qu’elle est acceptable.
+- **Reconnaissance collective ≠ adéquation descriptive :** une description largement admise peut rester contestable au regard des éléments disponibles.
 
-· Le diagnostic critique : L'auditeur identifie que le régime traite les énoncés du locuteur comme des perturbations ou des bruits (plan PROTO) plutôt que comme des propositions normatives (plan KIN) à évaluer selon des critères publics de justification.
+Ces distinctions ne conduisent ni à accorder la même valeur à toutes les affirmations ni à présumer que les critères de correction sont injustes dès qu’ils sont contestés. Elles demandent d’examiner les critères employés, leurs effets et les conditions dans lesquelles ils peuvent être défendus ou révisés.
 
-2. L'injustice herméneutique structurelle (Déficit sémantique)
+## 8. Articulation avec l’enquête de Protokin
 
-Elle surgit lorsque les ressources conceptuelles collectives — la configuration descriptive disponible au sein d'une communauté — sont partielles ou biaisées. Le locuteur subit une exclusion sémantique car les concepts indispensables pour articuler, comprendre et justifier son expérience n'ont pas été stabilisés ou ont été activement rejetés dans les zones de silence du régime dominant.
+L’injustice épistémique devient un problème d’enquête lorsque des éléments permettent de soupçonner qu’une personne ou un groupe subit un désavantage dans les pratiques de témoignage, d’interprétation ou de justification.
 
-· Le diagnostic critique : Le collectif ne dispose d'aucun axe de pertinence ni de critères de qualification permettant de traduire le trouble ressenti en une raison recevable, maintenant l'agent dans un état d'indétermination douloureuse.
+Les orientations de la quadripartition peuvent aider à différencier les questions pertinentes :
 
-3. L'injustice de support et d'échelle (Matérialisation de l'exclusion)
+- **Condition :** quelles conditions matérielles, institutionnelles ou pratiques affectent la possibilité de contribuer ?
+- **Relation :** quelles dépendances relient les personnes, les catégories, les supports et les procédures concernés ?
+- **Fonction :** quel rôle les descriptions, les critères et les dispositifs jouent-ils dans la situation ?
+- **Justification :** quelles raisons permettent de défendre ou de contester les évaluations et les décisions ?
 
-Cette forme d'injustice est directement encodée dans la matérialité des supports d'inscription et le changement d'échelle collective. Elle apparaît lorsqu'une institution ou une organisation standardise ses descriptions (bases de données, formulaires rigides, algorithmes d'IA) en excluant d'office les formats, les nuances et les trajectoires narratives des locuteurs locaux.
+Ces orientations ne constituent ni des composantes d’une ontologie de l’injustice ni des étapes successives. Elles offrent des prises distinctes sur une même situation. Le diagnostic doit rester lié aux éléments examinés et pouvoir être révisé.
 
-· Le diagnostic critique : L'infrastructure technique et matérielle de l'organisation opère un tri automatique qui aplatit la densité des engagements d'origine, empêchant toute contestation ou correction de second ordre.
+L’analyse peut s’articuler avec la [position épistémique](fr/position-epistemique.md), la [pratique collective](fr/pratique-collective.md), le [support descriptif](fr/support-descriptif.md), la [justification](fr/justification.md) et l’[écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md). Chacune de ces pages traite une question spécifique que celle-ci ne cherche pas à remplacer.
 
----
+## Synthèse
 
-Éclairage par les fils rouges pédagogiques
+L’injustice épistémique concerne les torts qui affectent la participation aux pratiques de connaissance. L’injustice testimoniale met l’accent sur une attribution injustement diminuée de crédibilité ; l’injustice herméneutique, sur un désavantage structurel dans l’accès aux ressources collectives d’interprétation.
 
-La manière dont l'injustice collective structure les asymétries de dicibilité et d'autorité se manifeste à travers les situations de référence de la métathéorie :
+Protokin propose d’examiner également le rôle que peuvent jouer les catégories, les supports et les procédures dans la production ou le maintien de tels désavantages. Ce prolongement ne constitue pas une typologie supplémentaire déjà établie : il doit être éprouvé dans chaque situation.
 
-1. Le patient aux urgences hospitalières
+Le diagnostic ne découle ni de la seule présence d’une asymétrie ni du simple constat qu’une description est contestée ou difficile à formuler. Il exige d’identifier le désavantage, d’examiner les mécanismes qui y contribuent et de préciser les raisons pour lesquelles la situation peut être qualifiée d’injuste.
 
-La trajectoire de soin est le lieu d'une injustice testimoniale et de support fréquente. La plainte subjective et l'expression de l'angoisse du patient (image manifeste) doivent être converties par l'infirmière de tri dans le régime clinique somatique (image scientifique). Si le patient est confus, muet, ou issu d'une minorité linguistique sans accès aux supports de communication standardisés, le système peut disqualifier sa description de la douleur, la reléguant au statut de "comportement agité" (une cause somatique ou psychologique brute, PROTO) plutôt que de l'entendre comme l'assertion d'un trouble clinique majeur (une raison, KIN). Le codage comptable du tri somatique produit alors une zone de silence sur l'urgence vitale réelle.
+## Pour poursuivre
 
-2. Le botaniste et le bûcheron dans la forêt
+- [Miranda Fricker](fr/miranda-fricker.md)
+- [Injustice herméneutique](fr/injustice-hermeneutique.md)
+- [Position épistémique](fr/position-epistemique.md)
+- [Pratique collective](fr/pratique-collective.md)
+- [Support descriptif](fr/support-descriptif.md)
+- [Justification](fr/justification.md)
+- [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md)
+- [Auto-application](fr/auto-application.md)
 
-Ce conflit illustre l'asymétrie institutionnelle des positions épistémiques. Le bûcheron possède un savoir-faire incorporé, des habitudes perceptives et une mémoire organismique extrêmement denses concernant la résistance et la vitalité des arbres. Cependant, face à une commission de décision d'aménagement forestier (échelle de l'organisation), ses descriptions locales sont systématiquement invalidées car elles ne s'appuient pas sur des supports d'inscription certifiés (flores publiées, critères botaniques académiques). Ses critères de pertinence techniques sont jugés "non scientifiques" et écartés. L'asymétrie de statut entre le savoir certifié et le savoir incorporé produit ici une injustice testimoniale qui prive le collectif de ressources de diagnostic cruciales.
+## Référence principale
 
-3. La déconstruction de « Cette personne est mauvaise »
-
-Cette situation montre comment l'absence de concepts alternatifs enferme un agent dans une injustice herméneutique. Si une communauté utilise exclusivement le régime moral ordinaire et binaire ("bon" ou "mauvais") pour qualifier des comportements déviants issus de traumatismes ou de déterminismes sociaux lourds, elle produit une double injustice. D'une part, elle fige et naturalise la déviance comme une essence mauvaise intrinsèque à la personne (réification). D'autre part, elle interdit à l'agent de fournir des justifications causales (médicales, sociologiques) en l'enfermant dans la seule exigence de culpabilité morale, le privant des ressources conceptuelles nécessaires pour réclamer un parcours de soin ou de réhabilitation adapté.
-
----
-
-Articulation dans l'architecture Protokin
-
-Dans la grammaire opératoire de Protokin, l'injustice collective représente le point d'arrêt et de fermeture de l'espace des raisons :
-
-```
-     Pratiques collectives de justification (Section 04)
-                           │
-                           ▼
-     Standardisation et verrouillage des critères (Section 05)
-                           │
-                           ▼
-              INJUSTICE COLLECTIVE / ÉPISTÉMIQUE
-                           │
-                           ▼
-     Émergence d'un trouble / Situation indéterminée (Section 08)
-                           │
-                           ▼
-               Audit et Contre-audit des régimes (Section 08)
-```
-
-L'injustice collective est le véritable moteur négatif de l'enquête. C'est parce qu'un collectif ou un groupe éprouve la souffrance d'un silence forcé ou d'une disqualification illégitime que la réflexivité de la communauté s'active. L'audit intervient alors pour rendre explicites ces exclusions, briser l'effet cliquet asymétrique des régimes dominants, et ouvrir la voie à des transitions ou à des traductions respectueuses de la pluralité des perspectives.
-
----
-
-Limites internes et vigilances d'audit
-
-L'évaluation critique de cette pathologie impose à l'enquêteur de second ordre deux vigilances méthodologiques rigoureuses pour se prémunir des dérives d'audit :
-
-· La dérive moralisatrice de l'auditeur (Le biais de surplomb) : Croire que l'audit Protokin doit se transformer en un tribunal moral distribuant des condamnations éthiques ou politiques abstraites. L'objectif de Protokin reste analytique et fonctionnaliste : il s'agit de reconstruire les conditions matérielles et catégorielles de l'asymétrie pour proposer des réorganisations concrètes de l'architecture (rendre les critères d'application révisables, outiller les supports), et non de culpabiliser les acteurs individuels.
-· Le biais du relativisme indifférencié (L'illusion d'équivalence) : Interpréter le diagnostic d'injustice testimoniale comme l'obligation d'accorder une validité ou une correction scientifique identique à toutes les assertions, quelles que soient leurs règles d'inférence. Protokin réaffirme que les régimes descriptifs possèdent des contraintes et des exigences de preuve légitimes. Lutter contre l'injustice ne consiste pas à dissoudre les critères de validité dans un éclectisme laxiste, mais à garantir que chaque locuteur dispose d'un accès équitable aux ressources de justification et que les frontières de chaque régime restent étanches et auditables.
-
----
-
-Synthèse finale
-
-Ce que cette page établit
-
-Le concept d'injustice collective (ou injustice épistémique) en tant que pathologie structurelle des cadres de justification, formalisant sa typologie de trois figures de déficit (testimoniale, herméneutique, de support/échelle), son rôle de déclencheur de l'enquête et ses critères de vigilance d'audit.
-
-Ce qu'elle suppose
-
-La communauté de locuteurs, la position épistémique, les supports descriptifs (institutionnels, incorporés, externes), le régime descriptif et l'espace des raisons (KIN).
-
-Ce qu'elle rend possible
-
-Le déploiement d'une écologie des régimes descriptifs non impérialiste, la conduite réglée du contre-audit, l'analyse des zones de silence et le déclenchement de l'enquête d'auto-émancipation collective.
-
----
-
-Protokin 2026 — version 26.08.081
+Fricker, Miranda. *Epistemic Injustice: Power and the Ethics of Knowing*. Oxford University Press, 2007.
