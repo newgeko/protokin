@@ -1,271 +1,182 @@
-# Page : supports-descriptifs-incorpores.md
-
 # Support descriptif incorporé
 
-| Fonction | Établir la notion de **support descriptif incorporé** dans l'architecture de Protokin en tant que disposition pratique, perceptive, gestuelle et normative stabilisée par l'apprentissage, permettant à un locuteur de porter, d'actualiser et de transmettre des descriptions sans recourir directement à un support descriptif externe. |
-| :--- | :--- |
-| **Prépare** | L'analyse de la position épistémique, des communautés de locuteurs, des engagements descriptifs et l'audit des asymétries de participation (injustices épistémiques et herméneutiques). |
-| **Mobilise** | Le primat du couplage perception-action, la notion générale de support descriptif, la distinction entre l'espace des causes et l'espace des raisons, ainsi que la mémoire pratique. |
-| **Permet ensuite** | L'explicitation des savoir-faire professionnels, des compétences ordinaires ou expertes, le diagnostic de l'effacement des supports incorporés et l'analyse de la sédimentation des pratiques d'enquête. |
-| **N'établit pas** | L'analyse détaillée des structures anatomiques, la phénoménologie de la corporéité ni la neurobiologie de la mémoire motrice. |
+## 1. Fonction
 
----
+Cette page examine les dispositions acquises qui permettent à un participant de reconnaître des différences pertinentes, de mobiliser des critères et d’agir dans une pratique descriptive sans devoir expliciter à chaque occurrence toutes les opérations qu’il maîtrise.
 
-## 1. Problème conceptuel
+Elle précise la notion de **support descriptif incorporé** et la distingue des conditions corporelles de l’activité, des inscriptions externes et des règles collectives qui organisent une pratique.
 
-Les théories classiques du langage et de la connaissance privilégient souvent les supports d'inscription externes : textes, schémas, bases de données, instruments de mesure ou dispositifs techniques. Cette orientation conduit fréquemment à considérer que les descriptions seraient essentiellement conservées dans des objets extérieurs, tandis que le corps ne jouerait qu'un rôle d'exécution ou de transmission.
+Son objet n’est pas d’expliquer biologiquement la compétence, ni de décrire une faculté mentale autonome. Il est de déterminer ce que des dispositions acquises rendent possible dans une pratique et comment leur rôle peut être examiné.
 
-Une telle conception laisse cependant ouverte une question fondamentale : **comment une description peut-elle être maintenue, reconnue, transmise et actualisée dans une pratique collective sans qu'un support externe soit constamment mobilisé ?**
+## 2. Problème
 
-Protokin répond à cette difficulté en introduisant la notion de **support descriptif incorporé**.
+Une partie du savoir descriptif ne se présente pas sous la forme d’une règle consultée ou d’une inscription relue. Une personne expérimentée peut reconnaître une différence, ajuster un geste ou repérer une anomalie sans avoir à reconstruire explicitement les opérations qui rendent son jugement possible.
 
-Avant d'être inscrites dans un livre, un formulaire, un logiciel ou un protocole, les descriptions reposent sur des dispositions acquises au cours de l'apprentissage. Les membres d'une pratique développent progressivement des habitudes perceptives, gestuelles, attentionnelles et inférentielles qui leur permettent de reconnaître les mêmes différences pertinentes, d'appliquer les mêmes critères de correction et de coordonner leurs activités.
+Cette aisance peut résulter d’un apprentissage, d’exercices répétés, de corrections reçues, de comparaisons et d’une familiarité avec les situations rencontrées. Elle permet d’agir sans recommencer consciemment toute l’analyse à chaque occurrence.
 
-Le support descriptif incorporé constitue ainsi l'une des conditions de possibilité de toute pratique descriptive.
+Mais cette immédiateté soulève plusieurs questions. Comment distinguer une compétence acquise d’une réaction simplement causale ? Comment déterminer si une disposition reste pertinente dans une situation nouvelle ? Comment examiner une compétence dont le détenteur ne peut pas expliciter immédiatement toutes les raisons de son geste ?
 
----
+Le problème consiste à décrire le rôle de ces dispositions sans les réduire à des mécanismes biologiques, à des représentations privées ou à des règles entièrement explicites.
 
-## 2. Définition
+## 3. Définition
 
-Dans l'architecture métathéorique de Protokin, un **support descriptif incorporé** est :
+On appelle **support descriptif incorporé** un ensemble de dispositions acquises qui permet à un participant d’identifier, de discriminer, de qualifier ou de traiter certaines différences dans le cadre d’une pratique descriptive.
 
-> **Une disposition pratique, perceptive, gestuelle et normative, stabilisée par l'apprentissage au sein d'une pratique collective, qui permet à un locuteur de porter, reconnaître, maintenir, actualiser et transmettre des descriptions conformément aux critères de correction d'une communauté, sans recourir directement à un support descriptif externe.**
+Ces dispositions peuvent comprendre des habitudes perceptives, des savoir-faire gestuels, des manières de diriger l’attention, des compétences de reconnaissance et des transitions pratiques apprises au cours de l’activité.
 
-Le support descriptif incorporé ne stocke pas des descriptions comme un livre ou une base de données.
+Le terme *support* désigne ici une fonction : ces dispositions contribuent à maintenir et à mobiliser des capacités nécessaires à certaines opérations descriptives. Il ne signifie pas qu’une description serait stockée dans le corps comme une inscription dans un document.
 
-Il conserve des **capacités d'agir descriptivement** : des manières stabilisées de prélever des différences, d'appliquer des critères, de produire des évaluations pertinentes et d'endosser des engagements descriptifs.
+Une disposition incorporée se reconnaît à ce qu’elle permet de faire dans des circonstances déterminées. Sa présence, son rôle et sa portée doivent être examinés à partir de l’activité, des situations rencontrées et des critères employés pour évaluer ce qui est accompli.
 
-Il constitue ainsi une mémoire pratique inscrite dans l'activité du vivant plutôt qu'un réservoir de représentations privées.
+Les dispositions incorporées peuvent être mobilisées avec des documents, des instruments, des consignes ou d’autres participants. Elles ne supposent donc pas l’absence de supports externes. Elles désignent une contribution particulière à une pratique, et non un mode complet ou autonome de description.
 
----
+## 4. Distinctions nécessaires
 
-## 3. Distinctions conceptuelles
+### 4.1. Support incorporé et condition corporelle
 
-Afin d'éviter plusieurs confusions fréquentes, Protokin distingue soigneusement le support descriptif incorporé de notions voisines.
+Toute disposition incorporée dépend de capacités corporelles et des conditions matérielles dans lesquelles une activité se déroule. Mais les conditions qui rendent une action possible ne suffisent pas à identifier la compétence mobilisée ni à établir sa correction.
 
-### Support descriptif incorporé et support corporel
+Une capacité sensorielle, par exemple, rend certaines discriminations possibles. L’apprentissage peut permettre à une personne de distinguer, parmi les informations perceptibles, celles qui comptent pour une tâche particulière. L’analyse doit alors considérer à la fois les conditions corporelles, l’histoire de l’apprentissage et la fonction de la discrimination dans la pratique.
 
-Le **support corporel** désigne les structures biologiques universelles qui rendent possible l'activité de l'organisme : appareil locomoteur, système nerveux, système visuel, appareil phonatoire, etc.
+Cette distinction ne sépare pas deux domaines indépendants. Elle empêche de déduire une compétence descriptive de la seule présence d’une capacité biologique, ou d’expliquer entièrement une compétence par la description de ses mécanismes corporels.
 
-Le **support descriptif incorporé** désigne au contraire les compétences acquises au cours d'une histoire d'apprentissage : l'œil clinique du médecin, l'écoute du musicien, le geste de l'artisan, la posture de l'enquêteur.
+### 4.2. Support incorporé et support descriptif externe
 
-Le support corporel appartient principalement au plan **PROTO** des relations causales.
+Un support descriptif externe contribue à conserver ou à rendre accessible une inscription : document, carte, protocole, enregistrement ou base de données.
 
-Le support descriptif incorporé appartient au plan **KIN**, puisqu'il est orienté par des normes publiques de correction.
+Un support descriptif incorporé contribue à mobiliser des capacités acquises : reconnaître une configuration, interpréter une mesure, ajuster un geste ou repérer une différence pertinente.
 
----
+Les deux fonctions peuvent être étroitement associées. Lire un graphique suppose une inscription disponible, mais aussi des compétences permettant de l’interpréter. À l’inverse, une compétence peut être entretenue ou transformée par la consultation de documents, l’usage d’instruments et la comparaison de résultats.
 
-### Support descriptif incorporé et support descriptif externe
+Il ne s’agit donc ni de deux catégories exclusives de pratiques ni de deux étapes successives. Leur articulation dépend de l’activité examinée.
 
-Les supports descriptifs externes conservent des inscriptions indépendamment des organismes : livres, cartes, formulaires, logiciels, diagrammes, archives ou bases de données.
+### 4.3. Support incorporé et règle explicite
 
-Le support descriptif incorporé ne conserve pas ces inscriptions.
+Une personne peut agir conformément à une règle sans la réciter ou en décrire toutes les implications au moment de l’action. L’absence d’explicitation immédiate ne signifie pas que son activité serait dépourvue de critères.
 
-Il conserve la capacité pratique de les produire, de les comprendre, de les interpréter et de les utiliser correctement.
+Inversement, le fait qu’une conduite soit habituelle ne suffit pas à établir qu’elle respecte une règle pertinente. Une habitude peut être efficace dans certaines circonstances, devenir inadéquate dans d’autres ou résister à une correction nécessaire.
 
-Les deux formes de support sont complémentaires.
+L’examen doit donc distinguer la disposition observée, les critères selon lesquels elle peut être évaluée et les explications que le participant peut fournir. Ces éléments peuvent être liés sans être identiques.
 
----
+### 4.4. Support incorporé et représentation mentale
 
-### Support descriptif incorporé et représentation mentale
+La notion ne suppose pas que les compétences soient des représentations privées conservées dans une conscience. Elle vise des dispositions repérables dans la manière dont une personne discrimine, agit, interprète ou répond à une situation.
 
-Protokin ne décrit pas les compétences incorporées comme un ensemble de représentations privées stockées dans une conscience.
+Cette distinction n’exclut pas que des processus mentaux contribuent à l’activité. Elle indique seulement que la notion de support descriptif incorporé n’a pas pour fonction de proposer une théorie générale de ces processus.
 
-Le support descriptif incorporé correspond à une disposition dynamique permettant au locuteur de s'ajuster continuellement aux différences pertinentes rencontrées au cours de son activité.
+### 4.5. Compétence incorporée et correction
 
-Il ne s'agit pas d'une bibliothèque mentale mais d'une compétence pratique.
+Une compétence acquise peut permettre une reconnaissance rapide ou une action ajustée. Cette aisance ne garantit pas que le jugement soit correct dans tous les cas.
 
----
+La correction dépend de la situation, de la tâche, des critères pertinents et des conséquences de l’intervention. Une disposition peut être fiable dans un domaine limité, mais inadaptée lorsque les conditions changent.
 
-### Support descriptif incorporé et réflexe biologique
+L’incorporation d’une pratique ne constitue donc ni une preuve de validité ni une justification suffisante. Elle indique une capacité à examiner, dont la portée doit être établie.
 
-Le réflexe biologique relève exclusivement du fonctionnement causal de l'organisme.
+## 5. Formes possibles
 
-Le support descriptif incorporé est au contraire le résultat d'un apprentissage collectif.
+Les formes suivantes sont des repères pour décrire des dispositions rencontrées dans une pratique. Elles ne constituent ni une classification exhaustive ni des catégories mutuellement exclusives.
 
-Une infirmière ralentissant immédiatement sa prise en charge devant certains signes cliniques, ou un artisan modifiant spontanément son geste face à une vibration inhabituelle, n'expriment pas un simple réflexe biologique mais une disposition normativement éduquée.
+### 5.1. Habitudes perceptives
 
-Ces comportements demeurent justifiables devant une communauté de pratique.
+L’apprentissage peut modifier la manière dont une personne porte attention aux différences perceptibles. Une personne formée peut repérer des détails qui passent inaperçus à un observateur non familiarisé avec la tâche.
 
----
+La différence pertinente ne se déduit toutefois pas du seul sentiment de reconnaître quelque chose. Il faut examiner ce que la personne discrimine effectivement, dans quelles circonstances et avec quelle fiabilité.
 
-## 4. Les principales formes de supports descriptifs incorporés
+### 5.2. Savoir-faire gestuels
 
-### 4.1 Les habitudes perceptives
+Des gestes peuvent être ajustés au cours de l’apprentissage jusqu’à devenir relativement fluides. Ils peuvent mobiliser une perception fine des résistances, des variations ou des contraintes d’une situation.
 
-Les habitudes perceptives correspondent à l'éducation de l'attention.
+Le geste ne se réduit pas nécessairement à l’application consciente d’une règle. Mais sa fluidité ne prouve pas non plus qu’il soit approprié : il peut être examiné, corrigé ou réappris.
 
-Elles permettent de distinguer des différences qui demeurent invisibles pour un observateur non formé.
+### 5.3. Reconnaissances et transitions pratiques
 
-Le botaniste reconnaît certaines structures végétales.
+Une personne expérimentée peut passer rapidement d’une observation à une qualification ou à une intervention. Ce passage peut reposer sur des apprentissages accumulés, sans que toutes les relations pertinentes soient explicitement formulées à chaque fois.
 
-Le radiologue perçoit immédiatement des anomalies dans une image médicale.
+La rapidité de cette transition ne suffit ni à établir sa justification ni à la disqualifier. Il faut pouvoir examiner les indices mobilisés, les critères pertinents et les circonstances dans lesquelles la reconnaissance est fiable ou trompeuse.
 
-Le mécanicien identifie un bruit caractéristique.
+## 6. Exemple discriminant : reconnaître un signe clinique
 
-Ces compétences résultent d'une longue pratique collective.
+Une infirmière expérimentée remarque chez un patient une combinaison de signes qui l’incite à réévaluer la priorité de la prise en charge. Sa reconnaissance peut mobiliser des habitudes d’attention et des compétences acquises au cours de la pratique clinique.
 
----
+Cette compétence incorporée contribue à orienter l’examen. Elle ne remplace pas les mesures, les informations consignées, les protocoles pertinents ou les évaluations complémentaires. Elle ne garantit pas non plus que la première interprétation soit correcte.
 
-### 4.2 Les savoir-faire gestuels
+Si la situation est contestée, il faut pouvoir examiner les signes observés, les critères de tri, les informations disponibles et les raisons qui soutiennent la décision. Le fait que l’infirmière soit expérimentée compte dans l’analyse de son intervention, mais ne dispense pas d’examiner ce qu’elle a identifié et ce que cette identification permet de conclure.
 
-Les savoir-faire gestuels regroupent les habiletés techniques progressivement incorporées.
+L’exemple montre ainsi que la compétence incorporée peut contribuer à une opération descriptive sans se confondre avec la preuve, la justification ou la validité de son résultat.
 
-Ils concernent la manipulation correcte des instruments, la coordination motrice, les gestes professionnels et les procédures d'enquête.
+Pour le contexte organisationnel de cette situation, voir [Urgence hospitalière](fr/urgence-hospitaliere.md).
 
-Les critères de correction deviennent progressivement constitutifs du geste lui-même.
+## 7. Limites et non-conversions
 
-Le corps n'exécute plus simplement une règle : il agit conformément à elle.
+L’analyse des supports descriptifs incorporés doit maintenir plusieurs distinctions :
 
----
+- **condition corporelle ≠ compétence acquise** : une capacité biologique ne suffit pas à caractériser une disposition développée par apprentissage ;
+- **habitude ≠ règle** : une conduite répétée n’établit pas à elle seule le critère selon lequel elle devrait être évaluée ;
+- **aisance ≠ correction** : la fluidité d’une action ne garantit pas sa pertinence ;
+- **compétence ≠ justification** : savoir effectuer une opération ne suffit pas toujours à défendre la conclusion qui en résulte ;
+- **disposition individuelle ≠ propriété privée du sens** : les capacités incorporées se forment dans des histoires d’activité et peuvent dépendre de ressources partagées ;
+- **incorporation ≠ indépendance matérielle** : une compétence peut rester liée aux outils, aux inscriptions et aux dispositifs avec lesquels elle a été acquise ou qu’elle mobilise.
 
-### 4.3 Les schèmes inférentiels incorporés
+Ces distinctions n’impliquent pas que les dimensions concernées soient indépendantes. Elles invitent à examiner leurs relations sans convertir l’une en l’autre.
 
-Certaines transitions inférentielles deviennent progressivement fluides.
+## 8. Articulation avec l’enquête de Protokin
 
-L'expert passe directement de certaines observations à une qualification pertinente sans dérouler explicitement chaque étape de son raisonnement.
+La notion de support descriptif incorporé devient pertinente lorsque le problème porte sur les capacités acquises qui contribuent à une discrimination, une qualification ou une action descriptive.
 
-Cette immédiateté ne supprime pas la normativité.
+La quadripartition permet de préciser les questions que soulève son examen :
 
-Si nécessaire, ces inférences demeurent explicables, discutables et révisables par la communauté.
+- **Condition** : quelles conditions corporelles, matérielles ou environnementales rendent cette disposition mobilisable ou la limitent ?
+- **Relation** : de quels apprentissages, outils, interactions ou autres compétences dépend-elle ?
+- **Fonction** : que permet-elle effectivement de reconnaître, de distinguer ou d’accomplir dans la pratique ?
+- **Justification** : selon quels critères sa contribution peut-elle être évaluée, contestée ou corrigée ?
 
----
+Ces orientations ne forment ni une liste de propriétés que toute compétence posséderait nécessairement ni une procédure à suivre dans un ordre déterminé. Le problème rencontré détermine les questions pertinentes.
 
-### 4.4 Les dispositions interactionnelles
+Le support incorporé peut également être examiné en relation avec le [support descriptif](fr/support-descriptif.md), les [supports descriptifs externes](fr/supports-descriptifs-externes.md), les [supports descriptifs institutionnels](fr/supports-descriptifs-institutionnels.md) et la [position épistémique](fr/position-epistemique.md). Ces pages développent des fonctions différentes et complémentaires.
 
-Certaines dispositions incorporées concernent directement la coordination entre locuteurs.
+## 9. Portée de la notion
 
-Elles permettent notamment :
+### Ce qu’elle permet d’établir
 
-- reconnaître les tours de parole ;
-- identifier un interlocuteur compétent ;
-- demander une justification ;
-- suspendre un jugement ;
-- distribuer les responsabilités descriptives ;
-- reconnaître les conditions appropriées d'une enquête.
+La notion permet d’identifier la contribution de dispositions acquises à certaines opérations descriptives et de distinguer cette contribution des conditions corporelles, des inscriptions externes et des critères de correction.
 
-Ces dispositions rendent possible la circulation des engagements descriptifs sans qu'il soit nécessaire d'expliciter continuellement toutes les règles de coopération.
+Elle permet aussi d’examiner comment une compétence est mobilisée dans une situation, où se situent ses limites et dans quelles circonstances elle doit être réévaluée.
 
----
+### Ce qu’elle suggère
 
-## 5. Illustrations
+Elle suggère que certaines capacités descriptives se maintiennent dans les pratiques sans dépendre d’une explicitation permanente. Elle invite à examiner le rôle de l’apprentissage, de l’exercice, de la correction et de la transmission dans leur développement.
 
-### Le botaniste et le bûcheron
+Elle suggère également que l’analyse des descriptions gagne à prendre en compte ce que les participants savent faire, et pas seulement ce qu’ils peuvent formuler explicitement.
 
-Face au même arbre, le botaniste et le bûcheron ne mobilisent pas les mêmes supports descriptifs incorporés.
+### Ce qu’elle n’établit pas
 
-Le botaniste perçoit immédiatement des différences taxonomiques.
+La notion n’établit pas :
 
-Le bûcheron apprécie spontanément l'équilibre du tronc, les tensions mécaniques et les propriétés du bois.
+- une théorie anatomique ou neurobiologique de l’apprentissage ;
+- que toute reconnaissance rapide soit fiable ;
+- que toute compétence incorporée soit explicitement justifiable par son détenteur ;
+- que les critères collectifs soient toujours adéquats ;
+- que les dispositions incorporées soient indépendantes des supports externes ;
+- qu’une compétence ou une description soit valide du seul fait qu’elle est stabilisée dans une pratique.
 
-Leur corps incorpore des critères différents parce qu'ils appartiennent à des pratiques descriptives distinctes.
+Ces questions nécessitent des examens distincts et des éléments adaptés au problème considéré.
 
----
+## Synthèse
 
-### L'infirmière des urgences
+Le support descriptif incorporé désigne la contribution de dispositions acquises aux opérations par lesquelles un participant reconnaît, distingue, qualifie ou traite des différences dans une pratique descriptive.
 
-Une infirmière expérimentée n'attend pas l'ensemble des mesures instrumentales avant d'orienter sa prise en charge.
+Il permet d’examiner des compétences qui ne prennent pas toujours la forme de règles explicitement consultées, sans les réduire à des mécanismes corporels ni les soustraire à l’évaluation.
 
-La posture du patient, son teint, sa respiration, son tonus ou son comportement activent immédiatement des dispositions acquises au cours de la pratique.
-
-Ces évaluations ne relèvent ni d'une intuition mystérieuse ni d'un réflexe biologique.
-
-Elles résultent d'une longue incorporation de critères cliniques publics.
-
----
-
-### « Le vélo est rouge »
-
-Même une prédication ordinaire mobilise un support descriptif incorporé.
-
-Reconnaître une couleur suppose une éducation perceptive, une maîtrise des usages linguistiques et une coordination avec une communauté descriptive.
-
-Avant même l'énoncé, le locuteur mobilise une compétence acquise lui permettant de distinguer correctement certaines différences chromatiques.
-
----
-
-## 6. Place dans l'architecture
-
-Les supports descriptifs incorporés assurent la transition entre le couplage sensorimoteur et les pratiques normatives de justification.
-
-```text
-Couplage perception-action (PROTO)
-        ↓
-Apprentissage pratique
-        ↓
-Supports descriptifs incorporés
-        ↓
-Pratiques descriptives collectives
-        ↓
-Position épistémique
-        ↓
-Assertions et engagements (KIN)
-```
-
-Ils montrent que l'espace des raisons n'est jamais entièrement détaché de l'activité du vivant.
-
-La normativité s'incorpore progressivement dans les pratiques avant d'être explicitée dans les discours.
-
----
-
-## 7. Vigilances d'audit
-
-L'audit protokinien examine plusieurs formes de dérive.
-
-### Effacement des supports incorporés
-
-Certaines pratiques présentent leurs descriptions comme immédiatement objectives en oubliant les longues trajectoires d'apprentissage qui rendent ces descriptions possibles.
-
-Cette illusion masque le travail collectif d'éducation de l'attention.
-
----
-
-### Réduction physicaliste
-
-Une seconde erreur consiste à réduire entièrement les compétences incorporées aux mécanismes neurobiologiques.
-
-Une telle réduction efface la dimension normative des pratiques.
-
-Les supports descriptifs incorporés ne sont pas seulement des processus causaux.
-
-Ils sont également évalués selon des critères publics de correction.
-
----
-
-### Psychologisation
-
-À l'inverse, il serait erroné de considérer les supports incorporés comme de simples états mentaux privés.
-
-Ils ne constituent pas des expériences purement subjectives.
-
-Ils correspondent à des dispositions collectivement acquises, continuellement entretenues et publiquement évaluables.
-
----
-
-## 8. Synthèse
-
-Les supports descriptifs incorporés constituent l'infrastructure pratique de toute activité descriptive.
-
-Ils montrent que les descriptions ne reposent pas uniquement sur des inscriptions externes, ni sur des représentations mentales privées.
-
-Ils permettent aux locuteurs de maintenir des capacités partagées de discrimination, d'évaluation, d'interprétation et de justification.
-
-Les supports descriptifs incorporés ne conservent donc pas principalement des contenus.
-
-Ils conservent des **manières stabilisées de produire des descriptions**, d'appliquer des critères et de répondre de ses engagements au sein d'une communauté.
-
-Ils assurent ainsi la continuité entre le couplage perception-action du plan **PROTO** et la responsabilité normative caractéristique de l'espace des raisons **KIN**.
-
----
+Une disposition incorporée peut rendre une opération possible ou plus aisée ; elle ne garantit pas la correction de son résultat. Sa fonction, sa portée et ses limites doivent être établies à partir de la pratique et des critères pertinents.
 
 ## Voir aussi
 
-- Support descriptif
-- Support corporel
-- Couplage perception-action
-- Position épistémique
-- Locuteur
-- Auditeur
-- Communautés descriptives
-- Engagement descriptif
-- Injustice épistémique
+- [Support descriptif](fr/support-descriptif.md)
+- [Supports descriptifs externes](fr/supports-descriptifs-externes.md)
+- [Supports descriptifs institutionnels](fr/supports-descriptifs-institutionnels.md)
+- [Position épistémique](fr/position-epistemique.md)
+- [Locuteur](fr/locuteur.md)
+- [Auditeur](fr/auditeur.md)
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
+- [Urgence hospitalière](fr/urgence-hospitaliere.md)
+- [Table des matières](fr/tdm.md)
