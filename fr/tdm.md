@@ -165,6 +165,8 @@ Cette partie rassemble les ressources permettant d’examiner une configuration 
 - [Support descriptif](fr/support-descriptif.md) — Préciser le rôle des supports dans les pratiques descriptives.
 - [Image manifeste](fr/image-manifeste.md) — Examiner les descriptions ordinaires de l’expérience, des personnes, des actions et des responsabilités.
 - [Image scientifique](fr/image-scientifique.md) — Examiner les pratiques scientifiques de mesure, de modélisation, d’expérimentation et de contrôle des résultats.
+
+- [Fonction de stimulus](fr/fonction-de-stimulus.md) — Distinguer les propriétés physiques d’un événement du rôle qu’il exerce dans une organisation comportementale.
   
 
 ### C. Catégories, taxonomies et clarification conceptuelle
