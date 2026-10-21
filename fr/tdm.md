@@ -67,6 +67,7 @@ Ces fonctions permettent d’examiner l’enquête elle-même, ses conditions d�
 - [Temps physique](fr/temps.md) — Examiner comment les relations temporelles sont établies et mesurées dans l’étude des processus physiques, en les distinguant de la temporalité propre aux pratiques descriptives.
 - [Référent temporel](referent-temporel.md) — Distinguer le processus physique servant de référence, la procédure de mesure et la grandeur temporelle obtenue.
 - [Temporalité descriptive](fr/temporalite-descriptive.md) — Examiner comment les pratiques descriptives héritent de ressources antérieures, les mobilisent et les transforment au cours du temps.
+- [Reconstruction rétrospective et pardon déontique](fr/reconstruction-recollective-et-pardon.md) — Examiner comment la reconstruction d’une erreur peut éclairer la révision des imputations et des engagements collectifs, sans confondre pardon, justification et réparation.
 - [Trajectoire](fr/trajectoire.md) — Reconstruire le parcours des transformations descriptives.
 - [Transition](fr/transition.md) — Examiner le passage temporel entre des configurations sans présumer de la continuité, des causes ni du résultat du changement.
 - [Allure](fr/allure.md) — Qualifier la distribution temporelle des transformations d’une trajectoire.
