@@ -1,235 +1,107 @@
-Enquête
+# Enquête
 
-Fonction
+## Fonction
 
-L’enquête désigne la reprise réflexive d’une pratique descriptive lorsque son fonctionnement devient problématique.
+L’enquête désigne la reprise réflexive d’une pratique descriptive lorsque les ressources qu’elle mobilise ne suffisent plus à traiter une difficulté rencontrée.
 
-Elle intervient lorsqu’une distinction, une catégorie, une relation, une fonction ou une justification ne permet plus de traiter suffisamment une difficulté rencontrée dans la pratique.
+Elle consiste à examiner ce qui fait problème, les distinctions et les relations engagées, ainsi que les raisons et les critères permettant de soutenir, de contester ou de réviser les descriptions produites.
 
-Protokin examine alors les conditions dans lesquelles le problème apparaît, les opérations descriptives engagées, les dépendances pertinentes et les critères permettant de défendre, de contester ou de réviser les descriptions produites.
+Cette page précise le statut de l’enquête dans Protokin. Elle ne décrit ni l’ensemble de ses opérations ni une méthode pratique à appliquer systématiquement.
 
-L’enquête ne constitue ni une méthode générale de découverte du réel, ni une procédure universelle de résolution des problèmes. Elle organise l’examen d’une difficulté déterminée.
+## Problème
 
-Problème
+Une pratique peut mobiliser des descriptions, des catégories et des critères sans devoir expliciter constamment leur fonctionnement. Ces ressources permettent généralement de poursuivre l’activité.
 
-Une pratique descriptive peut fonctionner sans que ses opérations soient constamment explicitées. Les distinctions utilisées, les catégories mobilisées et les critères appliqués peuvent rester implicites tant qu’ils permettent de poursuivre l’activité.
+L’enquête devient pertinente lorsque leur usage ne suffit plus à traiter une difficulté. Une distinction peut ne plus permettre de différencier certains cas ; une catégorie peut être contestée ; plusieurs descriptions peuvent sembler incompatibles ; une conclusion peut ne plus être suffisamment justifiée.
 
-Une difficulté apparaît lorsque ce fonctionnement ne suffit plus.
+Ces difficultés ne prouvent pas, à elles seules, que la description utilisée est fausse ou que les ressources existantes doivent être abandonnées. Elles rendent nécessaire un examen plus précis de ce qui est en jeu.
 
-Elle peut prendre plusieurs formes :
+Le problème descriptif déclenche et oriente l’enquête sans en déterminer d’avance le résultat. La nature exacte de la difficulté, les réponses envisageables et les critères de leur évaluation restent à examiner.
 
-- une distinction ne permet plus de différencier les cas rencontrés ;
-- plusieurs descriptions deviennent incompatibles ;
-- une catégorie ne permet plus de traiter une situation nouvelle ;
-- une relation ou une fonction change sans que cette transformation soit explicitée ;
-- une justification devient contestable ;
-- une condition est traitée comme un critère ;
-- une cause est invoquée comme une raison ;
-- une description cohérente ne rend pas suffisamment compte de la configuration à laquelle elle se rapporte.
+## Définition : reprendre une pratique
 
-Ces difficultés ne sont pas nécessairement des erreurs déjà identifiées. Elles indiquent que les ressources descriptives disponibles ne suffisent plus à traiter le problème de manière satisfaisante.
+L’enquête est une activité d’examen dans laquelle les opérations descriptives d’une pratique deviennent elles-mêmes pertinentes pour traiter un problème.
 
-La question directrice devient alors :
+Dans l’activité ordinaire, une distinction peut servir à classer des cas, une catégorie à qualifier une situation ou un critère à soutenir une décision. Lorsqu’une difficulté apparaît, l’enquête peut conduire à examiner la fonction de cette distinction, les conditions d’application de cette catégorie ou la pertinence du critère mobilisé.
 
-«Comment reprendre une pratique lorsque les distinctions et les critères qui permettaient de la poursuivre ne suffisent plus à traiter la difficulté rencontrée ?»
+On peut distinguer, à titre fonctionnel :
 
-1. Le trouble comme point de départ
+- **L’activité descriptive** : mobiliser des descriptions, des catégories, des relations et des critères pour décrire, comparer, interpréter ou agir.
+- **L’enquête** : examiner certaines de ces ressources lorsque leur fonctionnement, leur portée ou leur justification devient problématique.
 
-Le trouble désigne une difficulté rencontrée dans le fonctionnement d’une pratique. Il ne constitue ni une entité supplémentaire ni une explication complète de ce qui se produit.
+Cette distinction entre premier et second ordre ne désigne pas deux niveaux de réalité. Elle différencie deux fonctions : employer des ressources descriptives et prendre certaines d’entre elles pour objet d’examen.
 
-Il signale qu’une opération, une distinction ou une justification doit être examinée.
+L’enquête ne suppose pas que toute pratique doive expliciter en permanence ses propres opérations. Cette reprise devient pertinente lorsqu’une difficulté la justifie.
 
-Le trouble peut être matériel, pratique, relationnel, sémantique, inférentiel ou normatif. Ces possibilités ne constituent pas des catégories exclusives : une même difficulté peut engager plusieurs dimensions.
+## Une enquête orientée, non une procédure universelle
 
-Une résistance matérielle, par exemple, peut rendre une opération impossible ou perturber une activité. Elle ne fournit pas, à elle seule, la signification de cette difficulté ni les raisons de retenir une description plutôt qu’une autre.
+Protokin fournit plusieurs ressources pour organiser l’examen d’une difficulté.
 
-Il faut donc distinguer :
+L’[architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) présente les opérations principales :
 
-- les conditions dans lesquelles le trouble apparaît ;
-- la manière dont il devient identifiable comme problème ;
-- les opérations nécessaires à son examen ;
-- les critères selon lesquels les réponses proposées peuvent être évaluées.
+**Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter**
 
-Le trouble déclenche l’enquête sans déterminer d’avance son résultat.
+Cette chaîne constitue un repère fonctionnel, non une succession obligatoire d’étapes. Les opérations pertinentes dépendent du problème rencontré. Elles peuvent être combinées, reprises ou réordonnées ; certaines peuvent ne pas être nécessaires dans une enquête particulière.
 
-2. De la pratique à l’enquête de second ordre
+La [quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) distingue quatre orientations de l’examen : Condition, Relation, Fonction et Justification. Elle permet de différencier les questions posées sans diviser la situation en quatre composantes ni imposer une hiérarchie entre elles.
 
-Une pratique descriptive de premier ordre mobilise des distinctions pour décrire, comparer, qualifier, agir ou argumenter.
+La chaîne et la quadripartition remplissent ainsi des fonctions distinctes : la première organise les opérations possibles ; la seconde aide à orienter les questions examinées. Ni l’une ni l’autre ne garantit les conclusions de l’enquête.
 
-L’enquête de second ordre apparaît lorsque ces opérations deviennent elles-mêmes pertinentes pour le problème rencontré.
+## Dépendances et non-conversion
 
-Premier ordre| Second ordre
-Utiliser une distinction.| Examiner la fonction de cette distinction.
-Appliquer une catégorie.| Examiner ses conditions d’application et ses limites.
-Établir une relation.| Examiner les dépendances que cette relation permet de décrire.
-Défendre une affirmation.| Examiner les raisons et les critères qui permettent de la soutenir.
-Employer une description.| Examiner ses conditions de fonctionnement et son adéquation à ce qu’elle prétend décrire.
+Une enquête peut examiner les conditions dans lesquelles une difficulté apparaît, les relations pertinentes, les fonctions exercées par les descriptions et les raisons de maintenir ou de réviser les conclusions.
 
-Le second ordre ne désigne pas un niveau supérieur de réalité. Il correspond à un changement dans la fonction de l’enquête : la pratique prend ses propres opérations descriptives comme objet d’examen.
+Ces questions peuvent dépendre les unes des autres sans être interchangeables. Il faut donc éviter de traiter une réponse obtenue sous un rapport comme une réponse suffisante sous un autre.
 
-Cette reprise ne suppose pas que toute pratique doive expliciter continuellement l’ensemble de ses conditions. Elle devient pertinente lorsqu’une difficulté justifie cet examen.
+Le principe directeur de Protokin est le suivant :
 
-3. La quadripartition comme matrice d’enquête
+**Continuité des dépendances, discontinuité des fonctions, non-conversion.**
 
-La quadripartition Condition / Relation / Fonction / Justification permet d’examiner différentes dimensions du problème sans les confondre.
+Il implique notamment de ne pas confondre :
 
-Dimension| Question directrice
-Condition| Dans quelles conditions la pratique se déroule-t-elle ?
-Relation| Quelles dépendances et mises en rapport sont pertinentes ?
-Fonction| Que fait cette configuration dans la pratique considérée ?
-Justification| Selon quels critères une description peut-elle être défendue, contestée ou révisée ?
+- une condition avec un critère ;
+- une cause avec une raison ;
+- la genèse d’une description avec sa justification ;
+- la fonction d’une description avec son adéquation ;
+- la cohérence d’une description avec la preuve qu’elle convient à ce qu’elle prétend décrire.
 
-La Condition peut concerner des contraintes corporelles, matérielles, environnementales, techniques ou institutionnelles. Le corps constitue donc un cas particulier de condition, et non le nom générique de cette dimension.
+L’enquête cherche à expliciter les passages entre ces questions et à examiner ce qui les autorise. Elle ne présuppose ni que les dimensions étudiées soient indépendantes ni qu’elles puissent être réduites les unes aux autres.
 
-La Relation porte sur les dépendances et les mises en rapport pertinentes. La Fonction concerne ce qu’une configuration permet d’accomplir dans une pratique. La Justification porte sur les raisons et les critères mobilisés pour soutenir ou réviser une description.
+## Résultats et limites
 
-Ces quatre dimensions ne sont ni quatre étapes de l’enquête ni quatre niveaux de réalité.
+Une enquête peut conduire à préciser un problème, à conserver ou à modifier une distinction, à réexaminer un critère, à comparer plusieurs descriptions ou à reconnaître que les éléments disponibles ne permettent pas de trancher.
 
-Elles sont fonctionnellement distinctes sans être indépendantes. Une condition peut modifier une relation, une relation peut influer sur une fonction et une contestation de justification peut conduire à transformer une pratique.
+Son résultat peut donc être partiel. Il importe de distinguer ce qui a été établi, ce qui reste hypothétique et ce qui demeure indéterminé.
 
-Ces dépendances ne rendent pas les dimensions interchangeables.
+L’enquête ne garantit pas :
 
-Continuité des dépendances, discontinuité des fonctions, non-conversion.
+- que toute difficulté possède une solution définitive ;
+- que les descriptions en présence soient nécessairement compatibles ou incompatibles ;
+- que la pratique doive être transformée dans son ensemble ;
+- que la cohérence d’une description suffise à établir son adéquation ;
+- que l’application des ressources de Protokin assure automatiquement la validité des conclusions.
 
-4. La chaîne principale de l’enquête
+Elle ne confère pas non plus à l’enquêteur un point de vue extérieur et infaillible sur la pratique examinée. Les distinctions, les critères et les instruments mobilisés par l’enquête peuvent eux-mêmes être interrogés.
 
-La chaîne principale organise les déplacements de l’enquête :
+L’enquête peut s’arrêter provisoirement lorsque les résultats sont suffisamment défendables au regard du problème et de l’objectif poursuivi, et que les limites restantes sont explicitées. Cet arrêt ne signifie ni que toutes les questions connexes sont résolues ni qu’aucune reprise ultérieure ne sera nécessaire.
 
-Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter
+## Articulation avec les autres ressources
 
-Chaque opération remplit une fonction propre.
+Les pages suivantes développent des fonctions distinctes :
 
-- Délimiter : préciser ce qui fait problème et rendre son examen possible.
-- Ancrer : identifier les conditions pertinentes pour la difficulté rencontrée.
-- Distinguer : maintenir les différences nécessaires au traitement du problème.
-- Relier : examiner les dépendances entre les éléments distingués.
-- Configurer : examiner comment une différence devient identifiable et réutilisable dans une pratique descriptive.
-- Justifier : examiner les raisons et les critères permettant de défendre ou de contester une description.
-- Reconstituer : rendre explicite le cheminement de l’enquête et reconstruire une configuration à partir des résultats obtenus.
-- Redélimiter : reprendre le périmètre ou la formulation du problème à la lumière de ces résultats.
+- [Problème descriptif](fr/probleme-descriptif.md) — préciser la difficulté qui rend un examen nécessaire ;
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — présenter les opérations, leurs dépendances et leurs possibilités de reprise ;
+- [La chaîne principale de l’enquête](fr/la-chaine-principale-de-l-enquete.md) — préciser la fonction des huit opérations de référence ;
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — distinguer les quatre orientations de l’examen ;
+- [Conduire une enquête](fr/conduire-une-enquete.md) — proposer des repères pratiques pour examiner une difficulté ;
+- [Une première cartographie des régimes descriptifs](fr/une-premiere-cartographie-des-regimes-descriptifs.md) — fournir des repères indicatifs pour identifier et comparer des manières d’organiser les descriptions.
 
-Cette chaîne est une chaîne d’enquête, non une chaîne de constitution. Elle ne décrit ni la genèse nécessaire d’un objet ni une succession universelle d’opérations.
+Ces ressources ne constituent pas les étapes d’une procédure unique. Elles peuvent être mobilisées selon la question à traiter.
 
-Son ordre fournit une orientation. Une enquête peut revenir sur une opération antérieure, en répéter une ou en combiner plusieurs. Elle peut également laisser certaines questions ouvertes lorsque le problème ne requiert pas leur résolution.
+## Synthèse
 
-La chaîne principale est développée dans la page consacrée à l’architecture fonctionnelle de l’enquête.
+L’enquête commence lorsqu’une difficulté rend nécessaire l’examen de certaines ressources d’une pratique descriptive. Elle permet de préciser le problème, d’interroger les distinctions et les critères mobilisés, puis d’évaluer ce que les réponses proposées permettent effectivement de soutenir.
 
-5. Les fonctions transversales
+Elle constitue une reprise réflexive, non une procédure universelle ni une garantie de résolution. Son organisation reste révisable, ses conclusions proportionnées aux éléments disponibles et ses propres instruments susceptibles d’être examinés.
 
-Cinq fonctions peuvent traverser les différentes opérations de l’enquête :
-
-- Temporaliser : examiner les durées, les séquences et les transformations entre configurations.
-- Expliquer : reconstruire les dépendances et les mécanismes pertinents sans confondre explication causale et justification.
-- Auditer : contrôler les distinctions, les inférences, les critères et les limites de l’enquête.
-- Réfléchir : examiner les présupposés, les choix et les effets de l’enquête elle-même.
-- Éprouver : confronter les descriptions à des cas, des comparaisons, des substitutions ou des contraintes pertinentes.
-
-Ces fonctions ne constituent pas cinq étapes supplémentaires. Elles peuvent intervenir à différents moments, selon la difficulté examinée.
-
-La temporalité, par exemple, peut être pertinente dès la délimitation du problème si une distinction a changé de portée au cours du temps. L’audit peut révéler une confusion entre deux registres et conduire à reprendre une opération antérieure. L’épreuve d’un cas peut rendre nécessaire une nouvelle justification.
-
-La chaîne principale organise les déplacements de l’enquête ; les fonctions transversales permettent d’en examiner les exigences particulières.
-
-6. Décrire et configurer sans constituer
-
-L’enquête peut conduire à reformuler une description ou à construire une configuration descriptive plus explicite.
-
-L’objet descriptif désigne alors une différence stabilisée comme identifiable et réutilisable dans une pratique descriptive. Il ne se confond ni avec l’énoncé qui la désigne ni avec le référent auquel la description se rapporte.
-
-Cette stabilisation ne signifie pas que la pratique constitue nécessairement le référent. Une configuration matérielle, un organisme, un événement, une relation ou une institution ne se réduit pas à la description qui en est produite. Dans certains cas sociaux ou institutionnels, des pratiques descriptives et des règles peuvent toutefois contribuer à constituer le statut de ce dont on parle.
-
-L’enquête doit donc examiner le rapport entre description, objet descriptif et référent selon le problème traité.
-
-Une description peut être cohérente sans être suffisamment adéquate à ce qu’elle prétend décrire. Inversement, la rencontre d’une difficulté ne détermine pas automatiquement quelle description doit être abandonnée.
-
-Il faut examiner les conditions, les observations, les relations, les inférences et les critères mobilisés.
-
-La cohérence d’une description ne suffit pas à établir son adéquation à ce qu’elle prétend décrire.
-
-7. Justification et révisabilité
-
-L’enquête ne se limite pas à expliquer comment une description est apparue ou comment elle fonctionne.
-
-Elle doit aussi permettre d’examiner les raisons et les critères selon lesquels cette description peut être soutenue, contestée ou révisée.
-
-Les conditions matérielles d’une pratique peuvent expliquer pourquoi une difficulté apparaît. L’histoire d’une catégorie peut expliquer son maintien. La fonction d’une distinction peut expliquer pourquoi elle est utilisée.
-
-Aucun de ces éléments ne constitue automatiquement une justification.
-
-Il faut maintenir les distinctions suivantes :
-
-- condition ≠ critère ;
-- cause ≠ raison ;
-- genèse ≠ justification ;
-- fonction ≠ justification ;
-- cohérence ≠ adéquation.
-
-La justification ne garantit pas une validité définitive. Elle rend explicites les raisons avancées, les critères appliqués, la portée des conclusions et les conditions possibles de leur révision.
-
-Une description suffisamment stabilisée pour être réutilisée demeure ainsi susceptible d’être contestée.
-
-8. Reconstitution et reprise de la pratique
-
-L’enquête vise une reprise de la pratique devenue problématique, et non le maintien indéfini du problème ouvert.
-
-Reconstituer consiste à rendre explicite le cheminement suivi : distinctions retenues, relations examinées, configurations proposées, raisons avancées et limites identifiées.
-
-Cette reconstitution peut conduire à conserver une distinction, à la préciser, à modifier sa fonction, à l’abandonner ou à reformuler le problème.
-
-La reprise ne signifie pas nécessairement que la difficulté a été définitivement résolue. Elle signifie que la pratique dispose de ressources descriptives permettant de poursuivre son activité de manière plus explicite et plus discutable.
-
-La redélimitation permet ensuite de réexaminer le périmètre initial. Le problème peut être conservé, précisé, divisé ou reformulé à la lumière des résultats.
-
-L’enquête peut ainsi se clore provisoirement sans transformer sa stabilisation en résultat irrévocable.
-
-9. Réflexivité et règle d’arrêt
-
-Protokin doit pouvoir soumettre ses propres distinctions et opérations à l’enquête qu’il propose.
-
-Une catégorie peut devenir trop large. Une page peut confondre une condition et un critère. Une fonction peut être présentée comme une propriété intrinsèque. Une chaîne d’opérations peut être prise à tort pour une succession constitutive.
-
-La réflexivité permet d’examiner ces difficultés sans créer une nouvelle couche ontologique. Elle traverse la quadripartition et peut mobiliser l’ensemble des opérations de l’enquête.
-
-Cette possibilité ne signifie pas que Protokin doive multiplier indéfiniment les niveaux d’analyse.
-
-L’enquête doit rester proportionnée au problème qui l’a déclenchée. Elle peut s’arrêter lorsque les distinctions et les critères disponibles permettent de reprendre la pratique de manière suffisamment intelligible et discutable, compte tenu de la portée recherchée.
-
-Ce critère d’arrêt est pratique et provisoire. Il ne garantit ni l’adéquation définitive des descriptions ni l’absence de difficultés ultérieures.
-
-Une nouvelle difficulté peut justifier une nouvelle enquête.
-
-Ce que l’enquête établit
-
-L’enquête permet :
-
-- de traiter un trouble comme une difficulté située dans une pratique descriptive ;
-- de distinguer l’usage d’une description de l’examen de ses conditions de fonctionnement ;
-- d’orienter l’examen au moyen de la quadripartition ;
-- d’organiser les déplacements de l’enquête au moyen de huit opérations principales ;
-- de mobiliser cinq fonctions transversales sans les transformer en étapes ;
-- de reconstruire les raisons et les critères engagés dans une description ;
-- de rendre les résultats et leurs limites explicites, discutables et révisables.
-
-Ce que l’enquête n’établit pas
-
-L’enquête n’établit pas :
-
-- une ontologie générale du réel ;
-- une procédure universelle de résolution des problèmes ;
-- une succession obligatoire d’opérations ;
-- une hiérarchie entre Condition, Relation, Fonction et Justification ;
-- une déduction des raisons à partir des causes ;
-- une garantie de correspondance entre description et référent ;
-- une vérité définitive ou une clôture irrévocable de la pratique.
-
-Elle ne garantit pas davantage que les descriptions produites soient adéquates. Elle organise les conditions dans lesquelles cette adéquation peut être examinée, discutée et éventuellement révisée.
-
-Synthèse
-
-L’enquête commence lorsqu’une pratique descriptive rencontre une difficulté que ses ressources ordinaires ne suffisent plus à traiter.
-
-Elle reprend alors les distinctions, les relations, les fonctions et les justifications pertinentes. La chaîne principale organise les déplacements de cette reprise ; les fonctions transversales permettent d’en examiner les dimensions temporelles, explicatives, réflexives et critiques. La quadripartition oriente cet examen sans imposer une hiérarchie ni une succession de registres.
-
-L’enquête de second ordre n’est pas un niveau supérieur de réalité. Elle est une reprise réflexive d’une pratique lorsque son propre fonctionnement devient problématique.
-
-Protokin ne propose pas une description ultime du monde. Il enquête sur les conditions, les fonctions et les transformations par lesquelles des pratiques rendent certaines différences descriptibles, discutables, justifiables, stabilisables, contestables et révisables.
+Protokin organise ainsi l’enquête sur les pratiques descriptives sans prétendre fournir une description ultime du monde ni déterminer à l’avance les résultats de l’examen.
