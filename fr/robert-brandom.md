@@ -1,340 +1,137 @@
-# Page : robert-brandom.md
+# Robert Brandom — Inférence, engagement et redevabilité
 
-Brandom
+## Fonction
 
-Fonction
+Cette page examine l’apport de Robert Brandom à l’analyse des pratiques discursives. Elle porte principalement sur trois questions : comment le contenu conceptuel dépend des relations d’inférence, comment une assertion engage celui qui l’énonce et comment les participants à une pratique attribuent, contestent et révisent les statuts discursifs.
 
-La référence à Robert Brandom permet à Protokin d'éprouver la dimension inférentielle et normative des pratiques discursives.
+L’intérêt pour Protokin est de pouvoir examiner une description à partir de ce qu’elle engage, des conséquences qu’elle autorise et des raisons susceptibles de la soutenir ou de la contester.
 
-Elle permet notamment d'examiner comment une description engage celui qui l'énonce, quelles conséquences inférentielles elle autorise ou interdit, et selon quelles pratiques un locuteur peut être tenu pour responsable de ce qu'il affirme.
+Cette appropriation reste circonscrite. Brandom fournit des ressources pour analyser la dimension normative et inférentielle des pratiques discursives ; il ne constitue ni le fondement de toute normativité ni une théorie exhaustive des pratiques descriptives.
 
-Cette filiation prolonge la critique sellarsienne du donné en déplaçant l'analyse vers les relations entre assertions, engagements et justifications.
+## 1. Le contenu conceptuel dans les relations d’inférence
 
-Elle ne constitue pas une théorie générale de Protokin.
+Dans *Making It Explicit* (1994), Brandom développe une approche pragmatiste et inférentialiste du contenu conceptuel. Comprendre un concept ne consiste pas seulement à associer un terme à un objet ou à une propriété. Cela suppose notamment de comprendre les inférences dans lesquelles son emploi intervient.
 
----
+Le contenu d’une assertion dépend ainsi, entre autres, de ce qu’elle autorise à conclure, des affirmations qui permettent de la soutenir et des engagements auxquels son auteur s’expose.
 
-1. Le contenu dans la pratique
+Il faut distinguer :
 
-Dans Making It Explicit, Brandom développe une conception pragmatiste et inférentialiste du contenu conceptuel.
+- le terme employé ;
+- le contenu conceptuel mobilisé ;
+- les inférences associées à ce contenu ;
+- les circonstances dans lesquelles une assertion est produite et évaluée.
 
-Le contenu d'une assertion ne se réduit pas à une représentation mentale ou à une relation directe entre un mot et un objet.
+Ces dimensions sont liées, mais ne sont pas interchangeables. La forme grammaticale d’un énoncé ne suffit pas à déterminer toutes ses conséquences inférentielles, lesquelles dépendent aussi des concepts, des prémisses et des règles mobilisés dans la pratique.
 
-Il dépend notamment de sa place dans un réseau d'inférences :
+Pour Protokin, cette approche permet d’examiner une description à partir de sa place dans une pratique : quelles distinctions rend-elle disponibles ? Quelles conclusions permet-elle de soutenir ? Quelles autres affirmations devient-il nécessaire de défendre ou de réviser ?
 
-- ce que l'assertion permet d'inférer ;
-- ce qui permet de l'inférer ;
-- ce qu'elle engage son auteur à reconnaître ;
-- ce qui autorise ou interdit son maintien.
+Cette analyse ne suppose pas que le contenu d’une description se réduise à ses conséquences inférentielles. Elle permet d’en examiner une dimension spécifique.
 
-Ainsi :
+## 2. Engagement et habilitation
 
-«contenu ≠ représentation isolée»
+Brandom distingue deux statuts essentiels dans sa pragmatique normative.
 
-et :
+L’**engagement** (*commitment*) désigne ce dont un locuteur devient comptable en affirmant quelque chose. Son assertion peut entraîner des conséquences, entrer en conflit avec d’autres affirmations qu’il a soutenues ou l’obliger à répondre à une demande de justification.
 
-«signification ≠ simple association entre mot et objet»
+L’**habilitation** (*entitlement*) concerne le fait d’être autorisé à soutenir une affirmation dans les conditions considérées. Elle dépend des raisons disponibles, des inférences recevables et des normes mobilisées dans la pratique.
 
-Pour Protokin, cette approche permet d'examiner une description à partir de sa fonction dans une pratique plutôt qu'à partir d'un contenu supposé entièrement constitué avant son emploi.
+Ces deux statuts ne coïncident pas nécessairement. Un locuteur peut être engagé par une affirmation sans être habilité à la maintenir. Il peut également disposer de raisons de soutenir une conclusion sans avoir encore reconnu toutes les conséquences de son affirmation.
 
----
+La distinction peut être formulée ainsi :
 
-2. Engagement et habilitation
+**Engagement ≠ habilitation.**
 
-Brandom distingue notamment deux dimensions du statut discursif d'une assertion :
+Elle permet de séparer deux questions :
 
-- l'engagement (commitment) : ce qu'un locuteur s'engage à reconnaître en affirmant quelque chose ;
-- l'habilitation (entitlement) : ce qui autorise le locuteur à maintenir cette affirmation.
+- Qu’est-ce qu’un locuteur doit assumer du fait de son affirmation ?
+- Qu’est-ce qui l’autorise à maintenir cette affirmation ?
 
-Cette distinction est particulièrement importante pour Protokin.
+Pour Protokin, cette séparation est utile lorsque l’enquête rencontre une description qui circule, oriente une décision ou sert de prémisse à d’autres conclusions sans que son statut justificatoire soit clairement établi.
 
-Une personne peut être engagée par ce qu'elle a affirmé sans disposer pour autant d'une justification suffisante pour maintenir cette affirmation.
+Le fait qu’une description soit effectivement employée ne suffit donc pas à établir qu’elle est justifiée. Inversement, le fait qu’elle soit contestée ne suffit pas à montrer qu’elle est injustifiable.
 
-Ainsi :
+## 3. Redevabilité et suivi des statuts discursifs
 
-«engagement ≠ habilitation»
+Les pratiques discursives comportent des possibilités d’interpellation et de correction. Un participant peut demander pourquoi une affirmation est soutenue, relever une incompatibilité, contester une inférence ou demander que soient précisées les raisons d’une conclusion.
 
-et :
+Brandom analyse ces pratiques en examinant la manière dont les participants attribuent et suivent les engagements et les habilitations. Il mobilise à cet effet la notion de *scorekeeping* : les participants tiennent compte des positions discursives qu’ils attribuent aux autres, de leurs conséquences et des modifications que produisent les échanges.
 
-«affirmer ≠ être justifié à affirmer»
+Ce suivi ne suppose pas que chaque participant dispose d’un relevé explicite et exhaustif des engagements. Il désigne une fonction des pratiques discursives : certaines affirmations sont retenues, certaines conséquences sont imputées, certaines justifications sont demandées et certains statuts peuvent être révisés.
 
-Cela permet de préciser la fonction Justification de la quadripartition.
+La redevabilité désigne ici la possibilité de demander à un locuteur de répondre de ses affirmations et des conséquences qui leur sont attribuées. Elle ne signifie pas que le locuteur accepte effectivement de répondre, ni que les autres participants évaluent correctement ses engagements.
 
-Une pratique justificatoire ne consiste pas simplement à constater qu'une assertion a été produite.
+Pour Protokin, cette approche permet d’examiner comment une description entre dans une pratique de justification et de contestation. Elle aide notamment à repérer les cas où une affirmation est reprise comme prémisse sans que ses engagements, ses conséquences ou les raisons de son maintien soient réexaminés.
 
-Elle examine les conditions qui permettent de la défendre, de la contester ou de la réviser.
+Il faut cependant distinguer le suivi des statuts discursifs de l’évaluation de leur validité. Une pratique peut attribuer correctement un engagement tout en mobilisant des critères contestables pour juger si l’affirmation est justifiée.
 
----
+## 4. Inférence, justification et correction
 
-3. La redevabilité
+L’inférentialisme permet d’étudier les relations entre les affirmations sans supposer que chacune possède son contenu indépendamment de toutes les autres. Une assertion peut soutenir une conclusion, être incompatible avec une autre assertion ou nécessiter des prémisses supplémentaires pour être défendue.
 
-L'inférentialisme de Brandom permet également de comprendre les assertions à partir de la redevabilité du locuteur.
+Mais plusieurs rapports doivent rester distincts.
 
-Énoncer une proposition ne consiste pas seulement à produire une séquence linguistique.
+Une **conséquence inférentielle** concerne ce que l’on peut conclure à partir d’une affirmation et des prémisses mobilisées.
 
-L'assertion modifie les relations normatives dans lesquelles le locuteur et les autres participants à la pratique peuvent désormais l'engager.
+Une **justification** concerne les raisons et les critères qui permettent de défendre une affirmation ou une conclusion dans une pratique.
 
-Une assertion peut donc être suivie de demandes :
+Une **correction** concerne la possibilité de reconnaître une erreur, de contester une application ou de réviser une position selon les critères pertinents.
 
-- « Pourquoi ? »
-- « Qu'est-ce qui autorise cette affirmation ? »
-- « Quelles conséquences acceptes-tu ? »
-- « Cette nouvelle affirmation est-elle compatible avec ce que tu as déjà reconnu ? »
+Ces rapports peuvent interagir sans se confondre. Une conclusion peut suivre d’un ensemble de prémisses sans que ces prémisses soient suffisamment justifiées. Une affirmation peut être cohérente avec les autres engagements d’un locuteur tout en étant inadéquate à la situation qu’elle prétend décrire.
 
-La pratique discursive devient ainsi un espace dans lequel les engagements peuvent être attribués, examinés et corrigés.
+L’analyse des conséquences inférentielles ne suffit donc pas à établir la vérité d’une assertion ni son adéquation à son référent.
 
-Pour Protokin :
+Pour Protokin, l’apport de Brandom consiste à rendre examinables les engagements et les relations normatives qui accompagnent les descriptions. Il ne dispense pas d’étudier les conditions matérielles de leur production, les contraintes rencontrées ou les critères propres à la pratique considérée.
 
-«assertion ≠ simple occurrence linguistique»
+## 5. Ce que Protokin peut retenir de Brandom
 
-et :
+L’apport de Brandom peut être mobilisé pour examiner trois aspects des pratiques descriptives.
 
-«description ≠ simple inscription»
+**Les engagements produits par une description.** Une description peut servir de prémisse, entraîner d’autres affirmations ou entrer en conflit avec des positions déjà soutenues. L’enquête peut reconstruire ces engagements sans supposer que l’auteur les a tous explicitement reconnus.
 
-Une description possède une fonction dans une pratique où elle peut produire des conséquences et engager une responsabilité discursive.
+**Les conditions de son habilitation.** Une description peut être acceptée ou utilisée sans que les raisons de la maintenir aient été examinées. Il importe alors de distinguer son rôle effectif dans la pratique des critères qui permettent de la défendre.
 
----
+**Les possibilités de contestation et de révision.** Une description peut être remise en question lorsque ses conséquences deviennent incompatibles avec d’autres engagements, lorsque les prémisses mobilisées sont contestées ou lorsque les critères de correction ne permettent plus de traiter les cas rencontrés.
 
-4. L'espace des raisons
+Ces usages ne transforment pas l’inférentialisme en procédure générale d’enquête. Ils fournissent des questions pour examiner la dimension discursive d’un problème, à articuler avec l’analyse des conditions, des relations et des fonctions pertinentes.
 
-Brandom prolonge ici une intuition centrale de Sellars : les concepts doivent être compris à partir de leur rôle dans un espace des raisons.
+## 6. Limites et non-conversions
 
-Une description peut être causée par une perception, une situation corporelle ou une interaction avec le milieu.
+L’appropriation de Brandom doit respecter plusieurs distinctions.
 
-Mais son statut justificatoire dépend des relations normatives et inférentielles dans lesquelles elle prend place.
+**Cause ≠ raison.** Les causes qui contribuent à la production d’une assertion ne suffisent pas à justifier son contenu. L’analyse des raisons ne rend pas pour autant inutiles les explications causales.
 
-Protokin peut donc maintenir :
+**Engagement ≠ habilitation.** Le fait qu’un locuteur soit tenu pour responsable d’une affirmation ne signifie pas qu’il dispose de raisons suffisantes pour la soutenir.
 
-«cause ≠ raison»
+**Reconnaissance sociale ≠ validité.** L’attribution d’un statut discursif par une communauté ne suffit pas à établir que l’affirmation est vraie ou adéquate à ce qu’elle prétend décrire.
 
-sans nier les dépendances entre les deux.
+**Conséquence inférentielle ≠ conséquence causale.** Ce qu’une assertion autorise à conclure ne se confond pas avec les effets matériels qu’elle peut produire dans une situation.
 
-Une condition corporelle peut rendre possible une réponse.
+**Fonction descriptive ≠ justification.** Une description peut remplir un rôle dans une pratique sans être suffisamment justifiée. La justification peut conduire à réviser ce rôle, mais les deux questions restent distinctes.
 
-Une relation peut orienter une discrimination.
+Enfin, Protokin ne reprend pas l’inférentialisme de Brandom comme théorie complète de la signification ou de la normativité. Les pratiques descriptives comportent aussi des conditions corporelles, matérielles, relationnelles et historiques. Leur examen ne peut être épuisé par la reconstruction de leurs engagements discursifs.
 
-Une fonction peut rendre une description opératoire.
+La question reste donc ouverte : comment articuler les statuts normatifs attribués dans les pratiques discursives avec les conditions matérielles et les contraintes auxquelles ces pratiques sont exposées ? Brandom fournit des ressources pour examiner le premier aspect, sans déterminer à lui seul la réponse à l’ensemble du problème.
 
-Mais la justification exige l'examen de critères selon lesquels cette description peut être défendue, contestée ou révisée.
+## Synthèse
 
----
+Brandom permet d’examiner les pratiques discursives à partir des contenus inférentiels, des engagements, des habilitations et des possibilités de contestation et de révision.
 
-5. Les relations d'inférence
+Son apport aide à distinguer ce qu’une description engage, ce qu’elle autorise à conclure et ce qui permet de la maintenir. Il rend ainsi visibles des rapports normatifs que la seule observation de la production ou de la circulation des énoncés ne suffit pas à établir.
 
-Chez Brandom, comprendre un contenu conceptuel implique notamment de comprendre les relations d'inférence dans lesquelles il est engagé.
+Pour Protokin, il constitue une ressource d’analyse de la dimension inférentielle et justificatoire des pratiques descriptives, non une théorie générale de ces pratiques.
 
-Dire :
+## Références
 
-«« Cette chose est rouge »»
+- Brandom, Robert B., *Making It Explicit: Reasoning, Representing, and Discursive Commitment*, Harvard University Press, 1994.
+- Brandom, Robert B., *Articulating Reasons: An Introduction to Inferentialism*, Harvard University Press, 2000.
+- Brandom, Robert B., *Between Saying and Doing: Towards an Analytic Pragmatism*, Oxford University Press, 2008.
+- Sellars, Wilfrid, *Empiricism and the Philosophy of Mind*, 1956.
 
-n'est pas seulement associer le mot « rouge » à une propriété.
+## Pour poursuivre
 
-L'assertion peut avoir des conséquences dans la pratique : elle peut autoriser certaines inférences, entrer en conflit avec d'autres assertions ou modifier les engagements du locuteur.
-
-Le contenu est ainsi lié à une position dans un réseau de raisons.
-
-Pour Protokin :
-
-«fonction descriptive ≠ propriété isolée»
-
-La fonction d'une description dépend notamment de ce qu'elle permet de faire dans une pratique : distinguer, inférer, classer, justifier, contester ou réviser.
-
----
-
-6. Reconnaissance et attribution
-
-Une dimension importante de l'approche brandomienne concerne la manière dont les statuts normatifs sont attribués dans une pratique sociale.
-
-Les participants peuvent reconnaître certains engagements, demander des justifications, contester une inférence ou retirer une habilitation.
-
-La normativité n'est donc pas simplement un état intérieur du locuteur.
-
-Elle intervient dans des pratiques publiques d'attribution et de correction.
-
-Il faut toutefois distinguer :
-
-«attribution sociale d'un statut ≠ vérité de l'assertion»
-
-et :
-
-«reconnaissance collective ≠ justification définitive»
-
-Une communauté peut attribuer un engagement ou contester une assertion sans que cette attribution épuise la question de sa validité.
-
-Cette distinction est importante pour éviter de convertir le fonctionnement social d'une pratique en critère absolu de vérité.
-
----
-
-7. Le scorekeeping
-
-Brandom décrit cette dynamique au moyen de la métaphore du scorekeeping : les participants à une pratique discursive suivent les engagements et habilitations des uns et des autres.
-
-Ce vocabulaire permet de décrire une pratique dans laquelle :
-
-- les engagements sont attribués ;
-- les conséquences sont suivies ;
-- les justifications sont demandées ;
-- les habilitations sont contestées ;
-- les positions discursives sont modifiées.
-
-Pour Protokin, l'intérêt n'est pas de reprendre cette métaphore comme modèle général.
-
-Il est de rendre visible une fonction :
-
-«une pratique discursive conserve et transforme des statuts normatifs.»
-
-La description peut ainsi être étudiée comme une opération qui modifie ce que les participants sont désormais autorisés ou obligés à reconnaître.
-
----
-
-8. La description comme engagement
-
-Cette approche permet de préciser la notion protokinienne de pratique descriptive.
-
-Décrire n'est pas seulement produire une représentation.
-
-Une description peut engager son auteur à accepter certaines conséquences, fournir des raisons pour certaines conclusions ou entrer en conflit avec d'autres descriptions.
-
-Ainsi :
-
-«description → engagements et conséquences»
-
-Mais cette relation ne signifie pas :
-
-«description → justification automatique»
-
-Une description peut produire des engagements qu'il faudra ensuite défendre.
-
-Elle peut également être contestée, corrigée ou abandonnée.
-
-La fonction descriptive et la fonction justificatoire restent donc distinctes.
-
----
-
-9. Ce que Brandom permet de distinguer
-
-La confrontation avec Brandom permet à Protokin de maintenir plusieurs distinctions :
-
-Question| Ce que l'enquête peut suivre| Ce qu'elle ne doit pas en déduire automatiquement
-Assertion| les engagements qu'elle produit| sa justification suffisante
-Concept| ses relations inférentielles| une représentation isolée
-Engagement| ce que le locuteur reconnaît| son habilitation à l'affirmer
-Habilitation| ce qui autorise une assertion| sa vérité définitive
-Inférence| les conséquences d'une description| la validité de toutes les conclusions
-Attribution| les statuts reconnus par les participants| une fondation ontologique de ces statuts
-Correction| les possibilités de contestation et de révision| une norme indépendante de toute pratique
-Description| sa fonction dans l'espace des raisons| une copie du monde
-
-Cette série ne constitue pas une reconstruction exhaustive de Brandom.
-
-Elle fournit à Protokin des points de non-conversion.
-
----
-
-10. Brandom et la quadripartition
-
-Brandom concerne principalement les pôles Fonction et Justification, mais son analyse dépend également des relations sociales dans lesquelles les statuts discursifs sont attribués.
-
-Il permet notamment de préciser que :
-
-«fonction descriptive ≠ justification»
-
-Une description peut avoir une fonction déterminée dans une pratique sans être pour autant justifiée.
-
-Inversement, une justification peut transformer la fonction d'une description en modifiant les engagements qu'elle entraîne ou les usages auxquels elle peut désormais servir.
-
-La relation entre les deux est donc dynamique sans être convertible.
-
----
-
-11. Brandom et la temporalité
-
-L'approche brandomienne permet également d'introduire une dimension temporelle dans l'analyse des pratiques discursives.
-
-Une assertion modifie les engagements présents d'un locuteur et peut affecter ses engagements ultérieurs.
-
-Une justification peut entraîner une révision.
-
-Une contestation peut suspendre ou modifier une habilitation.
-
-Une nouvelle assertion peut rendre incompatibles certains engagements antérieurs.
-
-La temporalité ne constitue toutefois pas une dimension supplémentaire.
-
-Elle permet de suivre la transformation des statuts discursifs.
-
-Ainsi :
-
-«engagement antérieur ≠ engagement actuel»
-
-sans que cette différence implique une rupture totale de la pratique.
-
-La temporalité permet de reconstruire la trajectoire des engagements et de leurs révisions.
-
----
-
-12. Brandom et la non-conversion
-
-Brandom permet de préciser plusieurs règles de non-conversion déjà présentes dans Protokin.
-
-Une cause peut expliquer pourquoi une assertion a été produite sans justifier son contenu.
-
-Une assertion peut engager son auteur sans être correctement habilitée.
-
-Une reconnaissance sociale peut attribuer un statut sans établir à elle seule la vérité de ce qui est affirmé.
-
-Une régularité d'usage peut contribuer à la stabilité d'une pratique sans constituer automatiquement son critère de correction.
-
-On retrouve ainsi :
-
-«cause ≠ raison»
-
-«fonction ≠ justification»
-
-«engagement ≠ habilitation»
-
-«reconnaissance ≠ validité»
-
-«régularité ≠ normativité»
-
----
-
-13. Limite de la filiation
-
-Protokin ne reprend pas l'inférentialisme de Brandom comme théorie complète du langage ou de la normativité.
-
-Il ne cherche pas non plus à réduire toute pratique descriptive à la structure des échanges discursifs.
-
-Les descriptions peuvent avoir des dimensions corporelles, matérielles, relationnelles et temporelles qui ne se laissent pas épuiser par leur rôle dans l'espace des raisons.
-
-La fonction de cette filiation est plus limitée :
-
-«Comment une description acquiert-elle une fonction normative et inférentielle dans une pratique sans que cette fonction épuise les conditions corporelles, relationnelles ou historiques de cette pratique ?»
-
-Cette question permet de maintenir la dimension justificatoire dans l'architecture sans en faire une dimension totale.
-
----
-
-Synthèse
-
-Brandom fournit à Protokin une ressource pour examiner les pratiques descriptives sous l'angle de leurs engagements, habilitations, conséquences inférentielles et possibilités de correction.
-
-Une assertion engage sans être nécessairement habilitée.
-
-Une description produit des conséquences sans être pour autant justifiée.
-
-Une reconnaissance sociale attribue un statut sans constituer à elle seule une vérité.
-
-Une pratique discursive peut conserver et transformer des engagements au cours du temps sans que cette continuité temporelle suffise à déterminer leur validité.
-
-Les distinctions directrices peuvent ainsi être formulées :
-
-«engagement ≠ habilitation
-assertion ≠ justification
-fonction ≠ justification
-reconnaissance ≠ validité
-régularité ≠ normativité»
-
-Brandom constitue ainsi pour Protokin une ressource de distinction et d'audit, particulièrement utile pour analyser le passage entre description, inférence et redevabilité.
-
-Il prolonge Sellars sur l'espace des raisons, mais déplace l'attention vers les pratiques dans lesquelles les statuts normatifs sont effectivement attribués, contestés et révisés.
+- [Wilfrid Sellars — Le donné, l’explication et les raisons](fr/wilfrid-sellars.md)
+- [Richard Rorty — Contingence des vocabulaires et critique des fondements](fr/richard-rorty.md)
+- [Saul Kripke — Référence, transmission et suivi des règles](fr/saul-kripke.md)
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
+- [Table des matières](fr/tdm.md)
