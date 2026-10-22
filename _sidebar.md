@@ -49,7 +49,6 @@
   - **Audit et réflexivité**
     - [Réaliser un audit](fr/realiser-un-audit.md)
     - [Les diagnostics de l’enquête](fr/les-diagnostics-de-l-enquete.md)
-    - [Réflexivité](fr/reflexivite.md)
     - [Comparer deux descriptions](fr/comparer-deux-descriptions.md)
     - [Auto-application](fr/auto-application.md)
   - **Asymétries et injustices**
