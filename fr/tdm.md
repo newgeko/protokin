@@ -180,7 +180,6 @@ Cette partie rassemble les ressources permettant d’examiner une configuration 
 - [Indexation et réindexation](fr/indexation-et-reindexation.md) — Examiner comment un signe est rapporté à une situation, mobilisé dans d’autres contextes et repris au regard de nouvelles conditions d’application.
 - [Dérive indicielle](fr/derive-indicielle.md) — Repérer la perte de liaison entre un indice et la fonction pratique qu’il devrait contribuer à orienter.
 - [Trace](fr/trace.md) — Examiner les traces mobilisées dans une pratique et les limites de leur interprétation.
-- [Support descriptif](fr/support-descriptif.md) — Préciser le rôle des supports dans les pratiques descriptives.
 - [RDRD et entrée perceptive](fr/rdrd-et-entree-perceptive.md) — Examiner les dispositions de discrimination, la fiabilité des réponses et leurs limites pour justifier une description.
 - [Image manifeste](fr/image-manifeste.md) — Examiner les descriptions ordinaires de l’expérience, des personnes, des actions et des responsabilités.
 - [Image scientifique](fr/image-scientifique.md) — Examiner les pratiques scientifiques de mesure, de modélisation, d’expérimentation et de contrôle des résultats.
