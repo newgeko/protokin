@@ -178,6 +178,7 @@ Cette partie rassemble les ressources permettant d’examiner une configuration 
 - [Configuration descriptive](fr/configuration-descriptive.md) — Examiner l’organisation des éléments retenus dans une description.
 - [Configuration sémiotique](fr/configuration-semiotique.md) — Examiner comment des différences deviennent reconnaissables et mobilisables comme signes dans une pratique.
 - [Indice](fr/indice.md) — Examiner le rôle d’un élément qui oriente une recherche ou une interprétation sans déterminer la conclusion.
+- [Indexation et réindexation](fr/indexation-et-reindexation.md) — Examiner comment un signe est rapporté à une situation, mobilisé dans d’autres contextes et repris au regard de nouvelles conditions d’application.
 - [Dérive indicielle](fr/derive-indicielle.md) — Repérer la perte de liaison entre un indice et la fonction pratique qu’il devrait contribuer à orienter.
 - [Trace](fr/trace.md) — Examiner les traces mobilisées dans une pratique et les limites de leur interprétation.
 - [Support descriptif](fr/support-descriptif.md) — Préciser le rôle des supports dans les pratiques descriptives.
