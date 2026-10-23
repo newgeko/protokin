@@ -124,7 +124,6 @@ La proposition et l’assertion remplissent des fonctions distinctes : l’une c
 - [Justification](fr/justification.md) — Examiner les conditions dans lesquelles un engagement peut être défendu.
 - [Critère](fr/critere.md) — Préciser les normes selon lesquelles une description ou une conclusion est évaluée.
 - [Relation sémantique et référence](fr/relation-semantique-et-reference.md) — Examiner l’articulation entre contenu, usage et visée référentielle.
-- [Ascriptions de dicto et de re](fr/ascriptions-de-dicto-de-re.md) — Distinguer l’attribution d’un contenu sous une description de son attribution au sujet d’un objet identifié autrement.
 - [Relations LX et pragmatique de l’explicitation](fr/relations-lx-et-pragmatique-de-l-explicitation.md) — Examiner comment un vocabulaire rend explicites certains aspects d’une pratique, sans confondre explicitation et justification.
 
 ### C. Dérivation relationnelle et inférence normative
