@@ -118,6 +118,7 @@
     - [Configuration rencontrée](fr/configuration-rencontree.md)
     - [Configuration descriptive](fr/configuration-descriptive.md)
     - [Configuration sémiotique](fr/configuration-semiotique.md)
+    - [Indexation et réindexation](fr/indexation-et-reindexation.md)
     - [Configuration](fr/configuration.md)
     - [Trace](fr/trace.md)
     - [Indice](fr/indice.md)
