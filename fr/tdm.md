@@ -47,7 +47,7 @@ Les opérations suivantes permettent de travailler ces difficultés. Elles forme
 ### Configurer et justifier
 
 - [Configurer](fr/configurer.md) — Organiser les éléments de l’analyse en une configuration susceptible d’être examinée.
-- [Justifier](justifier.md) — Évaluer les raisons, les critères, les engagements et les incompatibilités qui affectent une conclusion.
+- [Justifier](fr/justifier.md) — Évaluer les raisons, les critères, les engagements et les incompatibilités qui affectent une conclusion.
 
 ### Reconstituer et redélimiter
 
@@ -71,7 +71,7 @@ La chaîne organise des déplacements possibles dans l’enquête. Elle n’éta
 Ces fonctions permettent d’examiner l’enquête elle-même, ses conditions d’exercice, ses résultats et les limites des distinctions mobilisées. Elles ne constituent pas des étapes supplémentaires mais des angles d’examen complémentaires.
 
 - [Temps physique](fr/temps.md) — Examiner comment les relations temporelles sont établies et mesurées dans l’étude des processus physiques, en les distinguant de la temporalité propre aux pratiques descriptives.
-- [Référent temporel](referent-temporel.md) — Distinguer le processus physique servant de référence, la procédure de mesure et la grandeur temporelle obtenue.
+- [Référent temporel](fr/referent-temporel.md) — Distinguer le processus physique servant de référence, la procédure de mesure et la grandeur temporelle obtenue.
 - [Temporalité descriptive](fr/temporalite-descriptive.md) — Examiner comment les pratiques descriptives héritent de ressources antérieures, les mobilisent et les transforment au cours du temps.
 - [Anachronisme descriptif](fr/anachronisme.md) — Repérer les projections rétrospectives de catégories et de critères sur des pratiques historiques.
 - [Reconstruction rétrospective et pardon déontique](fr/reconstruction-recollective-et-pardon.md) — Examiner comment la reconstruction d’une erreur peut éclairer la révision des imputations et des engagements collectifs, sans confondre pardon, justification et réparation.
@@ -119,8 +119,8 @@ La proposition et l’assertion remplissent des fonctions distinctes : l’une c
 - [Espace des raisons](fr/espace-des-raisons.md) — Situer les relations entre raisons, conclusions, habilitations et incompatibilités.
 - [Raison](fr/raison.md) — Préciser ce qui peut soutenir, contester ou réviser une conclusion.
 - [Pairs — Engagement discursif et habilitation](fr/pairs.md) — Examiner comment les participants reconnaissent, contestent et révisent les engagements et les habilitations dans une pratique discursive.
-- [Scorekeeping déontique — Suivre les engagements et les habilitations](scorekeeping-deontique.md) — Examiner comment les engagements et les habilitations sont attribués, suivis et contestés dans une pratique discursive.
-- [Ascriptions de dicto et de re](fr/ascriptions-de-dicto-de-re) — Distinguer l'attribution d'un contenu sous une description donné de son attribution au sujet d'un objet identifié autrement.
+- [Scorekeeping déontique — Suivre les engagements et les habilitations](fr/scorekeeping-deontique.md) — Examiner comment les engagements et les habilitations sont attribués, suivis et contestés dans une pratique discursive.
+- [Ascriptions de dicto et de re](fr/ascriptions-de-dicto-de-re.md) — Distinguer l'attribution d'un contenu sous une description donné de son attribution au sujet d'un objet identifié autrement.
 - [Justification](fr/justification.md) — Examiner les conditions dans lesquelles un engagement peut être défendu.
 - [Critère](fr/critere.md) — Préciser les normes selon lesquelles une description ou une conclusion est évaluée.
 - [Relation sémantique et référence](fr/relation-semantique-et-reference.md) — Examiner l’articulation entre contenu, usage et visée référentielle.
@@ -147,7 +147,7 @@ Ces pages distinguent la dérivation de relations apprises, la transformation de
 - [Anaphore](fr/anaphore.md) — Examiner les reprises discursives et les relations de dépendance entre occurrences.
 - [Déixis](fr/deixis.md) — Examiner comment l’interprétation d’une désignation dépend de la situation dans laquelle elle est produite.
 - [Occurrence](fr/occurrence.md) — Distinguer une réalisation particulière de la forme ou du type auquel elle est rapportée.
-- [Substitution](substitution.md) — Examiner ce qui se maintient ou change lorsqu’une expression est remplacée par une autre dans un contexte déterminé.
+- [Substitution](fr/substitution.md) — Examiner ce qui se maintient ou change lorsqu’une expression est remplacée par une autre dans un contexte déterminé.
 - [Stabilisation](fr/stabilisation.md) — Examiner le maintien relatif d’une configuration à travers ses reprises et ses variations.
 - [Effet cliquet](fr/effet-cliquet.md) — Examiner les asymétries de coût et de possibilité qui rendent la révision ou l’abandon d’une configuration descriptive plus difficile que son maintien.
 
