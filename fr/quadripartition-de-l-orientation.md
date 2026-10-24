@@ -1,22 +1,20 @@
-# Quadripartition de l’orientation
+# Quadripartition — Le présent descriptif de l’enquête
 
 ## Fonction
 
-La quadripartition propose quatre orientations pour examiner les difficultés descriptives : **Condition, Relation, Fonction et Justification**.
+La quadripartition propose quatre orientations pour examiner une situation ou une configuration descriptive : **Condition, Relation, Fonction et Justification**.
 
-Elle permet de différencier certaines questions susceptibles de se poser à propos d’une même configuration descriptive, sans présupposer que ces quatre orientations couvrent toutes les questions possibles.
+Elle permet de différencier les questions que l’on peut poser à propos d’une même situation, sans supposer que ces questions sont indépendantes, exhaustives ou toujours pertinentes.
 
-Son usage dépend du problème rencontré. Elle constitue une ressource d’examen, non une structure obligatoire de toute enquête.
+La quadripartition constitue un repère d’orientation. Elle ne décrit ni quatre composantes de toute réalité ni quatre étapes obligatoires de l’enquête.
 
 ## Problème
 
-Une difficulté descriptive peut persister alors que plusieurs éléments de la situation sont connus. Le problème peut tenir à une distinction insuffisante, à une relation mal établie, à une fonction mal identifiée ou à une justification contestable.
+Une difficulté descriptive peut réunir plusieurs questions qui ne doivent pas être confondues. Il peut être nécessaire d’examiner les conditions d’une situation, les relations entre ses éléments, le rôle d’une description dans une pratique ou les raisons permettant de défendre une conclusion.
 
-Ces difficultés ne sont pas équivalentes. Établir les conditions dans lesquelles une situation se produit ne suffit pas à justifier une conclusion. Identifier une relation ne détermine pas le rôle qu’elle exerce dans une pratique. Montrer qu’une description est utile ne suffit pas à établir son adéquation à ce qu’elle prétend décrire.
+Ces questions peuvent porter sur les mêmes éléments sans remplir la même fonction. Identifier une condition ne suffit pas à établir une justification. Repérer une relation ne détermine pas le rôle qu’elle exerce. Constater qu’une description est utile ne prouve pas son adéquation à ce qu’elle prétend décrire.
 
-Il importe donc de différencier les questions effectivement posées, sans isoler artificiellement leurs objets ni supposer que leurs réponses sont indépendantes.
-
-La quadripartition propose quatre orientations pour conduire cet examen. La pertinence de chacune doit être appréciée à partir du problème traité.
+La quadripartition propose quatre orientations pour rendre ces différences explicites. Leur pertinence doit être établie à partir du problème rencontré, et non présupposée avant son examen.
 
 ## Les quatre orientations
 
@@ -26,41 +24,39 @@ L’orientation **Condition** porte sur les contraintes et les possibilités qui
 
 Les conditions pertinentes peuvent être corporelles, matérielles, environnementales, techniques, sociales ou institutionnelles. Elles ne forment pas un inventaire préalable de tout ce qui entoure la situation. Leur sélection dépend de ce qu’il faut examiner.
 
-Une condition peut rendre une action possible, la limiter ou contribuer à son échec. Elle peut aussi affecter les moyens disponibles pour produire une description ou éprouver une hypothèse.
-
-Établir une condition ne suffit pas à déterminer la signification d’une situation ni à justifier une conclusion.
+Une condition peut rendre une action possible, la limiter ou contribuer à son échec. Elle peut affecter les moyens disponibles pour produire une description, recueillir des éléments ou éprouver une hypothèse.
 
 **Question directrice :** quelles conditions affectent le problème, et que permettent-elles effectivement d’établir ?
+
+Établir une condition ne suffit pas à déterminer la signification d’une situation, à justifier une conclusion ou à établir un critère de validité.
 
 ### Relation
 
 L’orientation **Relation** porte sur les dépendances et les mises en rapport pertinentes entre les éléments examinés.
 
-Les relations peuvent être matérielles, sociales, fonctionnelles, référentielles ou inférentielles. Leur nature doit être précisée : une association observée ne démontre pas à elle seule une causalité, et une dépendance ne signifie pas que les éléments concernés remplissent la même fonction.
+Ces dépendances peuvent relever de registres hétérogènes : relations causales et dynamiques entre des objets ou des processus (dans l'ordre physique), ou relations inférentielles et logiques entre des jugements (dans l'ordre normatif). Confondre un enchaînement causal avec une dépendance inférentielle reviendrait à ramener une relation logique de déductibilité à une simple succession empirique. Leur nature doit impérativement être explicitée.
 
-Dans une pratique descriptive, l’examen peut porter sur les rapports entre une description et ce qu’elle désigne, sur les dépendances entre plusieurs éléments d’une situation ou sur les conséquences d’une assertion au regard des engagements, des règles et des prémisses pertinents.
-
-La portée d’une assertion ne se réduit ni à l’intention de son locuteur ni à l’ensemble des effets qu’elle produit. Elle dépend notamment des engagements et des règles qui rendent certaines conclusions recevables dans la pratique concernée.
-
-Identifier une relation ne suffit pas à établir la fonction qu’elle exerce ni à justifier une conclusion qui s’appuie sur elle.
+L’examen peut porter, par exemple, sur les rapports entre une description et ce qu’elle désigne, sur les dépendances entre plusieurs éléments d’une situation ou sur les conséquences d’une assertion dans une pratique.
 
 **Question directrice :** quels éléments sont liés, de quelle manière et avec quelles conséquences pour le problème examiné ?
 
+Identifier une relation ne suffit pas à établir la fonction qu’elle exerce ni à justifier une conclusion qui s’appuie sur elle.
+
 ### Fonction
 
-L’orientation **Fonction** porte sur le rôle qu’une configuration, une distinction ou une description exerce dans une pratique déterminée.
+L’orientation **Fonction** porte sur le rôle qu’un élément, une distinction ou une description exerce dans une pratique déterminée.
 
-Une même description peut être utilisée pour identifier une situation, établir un diagnostic, coordonner une intervention ou soutenir une décision. Ces usages peuvent se recouper sans être équivalents. Des descriptions différentes peuvent également remplir des fonctions comparables.
+Une description peut servir à identifier une situation, à établir un diagnostic, à coordonner une intervention ou à soutenir une décision. Ces usages peuvent se recouper sans être équivalents. Des descriptions différentes peuvent également remplir des fonctions comparables.
 
-Il faut distinguer la fonction effectivement exercée, l’intention de celui qui produit la description, les conclusions qu’elle autorise et les effets qu’elle entraîne. Aucun de ces aspects ne permet, à lui seul, de déduire tous les autres.
-
-Qu’une description remplisse efficacement une fonction ne prouve ni que son contenu est exact ni que les conclusions tirées sont justifiées.
+Il faut distinguer le rôle normatif réglé qu'exerce une expression dans une communauté (les règles et transitions qu'elle autorise), l'intention subjective du locuteur et les effets causaux ou psychologiques que produit concrètement son énonciation. Le fait qu’une description remplisse efficacement un but pratique immédiat ne préjuge ni de son exactitude descriptive ni de la validité de ses titres épistémiques.
 
 **Question directrice :** quel rôle la description ou la distinction exerce-t-elle dans la pratique considérée, et quelles conclusions ce rôle permet-il ou ne permet-il pas de soutenir ?
 
+Qu’une description remplisse efficacement une fonction ne prouve ni l’exactitude de son contenu ni la justification des conclusions qui en sont tirées.
+
 ### Justification
 
-L’orientation **Justification** porte sur les raisons et les critères permettant de défendre, de contester ou de réviser une description ou une conclusion.
+L’orientation **Justification** porte sur les raisons, les prémisses, les critères et les engagements permettant de défendre, de contester ou de réviser une description ou une conclusion.
 
 L’examen peut mobiliser des observations, des inférences, des critères d’application, des résultats expérimentaux ou des exigences propres à une pratique. La pertinence de ces éléments dépend de ce qui doit être établi.
 
@@ -68,25 +64,25 @@ Une conclusion peut découler de prémisses selon des règles reconnues sans êt
 
 Les critères employés ne sont pas nécessairement soustraits à la contestation. Leur pertinence et leurs conditions d’application peuvent elles-mêmes devenir des objets d’enquête.
 
-La justification ne se confond donc ni avec la genèse d’une description, ni avec son utilité pratique, ni avec la seule reconnaissance d’une règle.
-
 **Question directrice :** quelles raisons et quels critères soutiennent la conclusion, et dans quelles conditions peuvent-ils être défendus ou révisés ?
 
-## Statut et usage de la quadripartition
+La justification ne se confond ni avec la genèse d’une description, ni avec son utilité pratique, ni avec la seule reconnaissance d’une règle.
 
-Les quatre orientations ne désignent ni quatre composantes de toute réalité ni quatre propriétés que toute configuration posséderait nécessairement. Elles proposent des manières de poser des questions à propos d’une situation ou d’une configuration descriptive.
+## La quadripartition dans le présent descriptif
 
-Le problème rencontré détermine quelles orientations sont pertinentes. Une enquête peut en mobiliser plusieurs, n’en retenir que certaines ou introduire une autre distinction si les questions posées l’exigent.
+La quadripartition peut être comprise comme une manière d’orienter l’examen d’une configuration provisoire de la situation.
 
-Une même donnée peut intervenir dans plusieurs orientations sans y remplir la même fonction. L’état d’un arbre peut, par exemple, être examiné au titre de ses conditions matérielles, mis en relation avec la proximité d’une habitation, considéré dans le cadre d’un diagnostic ou invoqué à l’appui d’une décision. Cette pluralité ne signifie pas que les quatre orientations doivent être systématiquement appliquées à chaque cas.
+Le **présent descriptif** désigne ici la configuration des distinctions, des relations, des fonctions et des justifications retenues à un moment de l’enquête. Il ne désigne ni un état définitif de la situation ni un ensemble de catégories fixé avant l’examen.
 
-La quadripartition n’est ni exhaustive ni exclusive. Elle ne garantit pas que toutes les questions pertinentes ont été identifiées. Son maintien se justifie dans la mesure où elle aide effectivement à différencier des questions que le problème rend importantes.
+Les quatre orientations ne sont donc pas des cases dans lesquelles il faudrait ranger les éléments d’une situation. Elles permettent de préciser les questions posées à ces éléments. Une même donnée peut intervenir dans plusieurs orientations, mais son rôle dans l’examen varie selon la question considérée.
 
-## Dépendances et non-conversion
+La configuration peut être modifiée à mesure que l’enquête progresse. Une condition nouvellement identifiée peut conduire à revoir une relation ; une relation mieux établie peut modifier l’interprétation d’une fonction ; une contestation de la justification peut conduire à reprendre les observations ou les distinctions initiales.
 
-Les questions relevant des quatre orientations peuvent dépendre les unes des autres. Une modification des conditions peut changer les relations pertinentes ; une relation nouvellement identifiée peut conduire à réévaluer la fonction d’une description ; une contestation de la justification peut obliger à reprendre les observations ou les distinctions initiales.
+Ces déplacements ne constituent pas une succession universelle. Ils décrivent des possibilités de reprise dont la pertinence dépend du problème.
 
-Ces dépendances ne constituent pas une chaîne universelle. Elles doivent être établies dans chaque enquête.
+## Articulation et non-conversion
+
+Les quatre orientations peuvent dépendre les unes des autres sans devenir interchangeables.
 
 Le principe directeur est le suivant :
 
@@ -102,55 +98,74 @@ Il faut notamment distinguer :
 - cause et raison ;
 - relation et fonction ;
 - fonction et justification ;
+- genèse et justification ;
 - conclusion autorisée et conclusion justifiée ;
 - cohérence d’une description et adéquation à ce qu’elle prétend décrire.
 
-La non-conversion n’interdit pas de passer d’une question à une autre. Elle demande d’examiner ce qui autorise ce passage et de limiter les conclusions à ce que les éléments disponibles permettent d’établir.
+Ces distinctions n’interdisent pas d’établir des relations entre les éléments concernés. Elles demandent de préciser ce qui autorise le passage d’une question à une autre et de limiter les conclusions à ce que les éléments disponibles permettent effectivement d’établir.
 
-## Exemple : un arbre qui penche au-dessus d’une habitation
+La non-conversion ne signifie donc pas l’isolement des orientations. Elle empêche de traiter une dépendance comme si elle suffisait à établir l’équivalence des questions ou de leurs réponses.
 
-L’inclinaison d’un arbre suscite une inquiétude concernant la sécurité d’une habitation.
+## Exemple : un relevé de température dans un bâtiment
 
-L’examen des **conditions** peut porter sur l’état du sol, les caractéristiques de l’arbre, les conditions météorologiques et les contraintes de l’environnement.
+Un relevé de température est utilisé pour décider si un dispositif de ventilation doit être vérifié.
 
-L’examen des **relations** peut porter sur les rapports entre l’inclinaison, l’état de l’arbre, son environnement et la proximité de l’habitation.
+L’examen des **conditions** porte sur les conditions de mesure, l’emplacement du capteur et les contraintes environnementales pertinentes.
 
-L’examen des **fonctions** peut distinguer le rôle d’un diagnostic biologique, celui d’une évaluation du risque et celui d’une description utilisée pour organiser une intervention.
+L’examen des **relations** porte sur les rapports entre le relevé, l’emplacement mesuré, le fonctionnement du dispositif et les autres données disponibles.
 
-L’examen de la **justification** porte sur les éléments et les critères permettant de défendre une décision : observations disponibles, évaluation du risque et exigences applicables.
+L’examen des **fonctions** distingue le rôle du relevé dans la surveillance, celui d’un seuil d’alerte et celui d’un contrôle technique.
 
-Ces questions peuvent se recouper, mais elles ne se remplacent pas. Un diagnostic biologique ne suffit pas à établir toutes les conséquences possibles pour l’habitation. L’utilité d’une intervention ne prouve pas, à elle seule, l’exactitude du diagnostic. Une contrainte matérielle ne détermine pas automatiquement la décision à prendre.
+L’examen de la **justification** porte sur les raisons de considérer le relevé comme pertinent, sur la fiabilité de la mesure et sur les critères qui soutiennent la décision.
 
-Cet exemple montre comment les orientations peuvent différencier les questions soulevées par une situation. Il ne démontre ni que les quatre orientations sont nécessaires dans tous les cas ni que leur mobilisation garantit une décision correcte.
+Ces questions sont liées, mais aucune ne remplace les autres. Les conditions de mesure peuvent affecter la fiabilité du relevé sans déterminer à elles seules la décision. Le rôle d’alerte du seuil ne prouve pas que le dispositif est défectueux. Une décision peut être raisonnable au regard des informations disponibles sans que toutes les propriétés du dispositif soient établies.
+
+Cet exemple illustre la différence entre les orientations. Il ne démontre ni que les quatre sont nécessaires dans tous les cas ni que leur mobilisation garantit une décision correcte.
 
 ## Rapport aux opérations de l’enquête
 
-Les orientations et les opérations répondent à des questions différentes, sans constituer pour autant deux architectures nécessairement autonomes.
+Les orientations et les opérations répondent à des questions différentes.
 
-La quadripartition propose des orientations pour examiner un problème. L’[architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md) décrit les opérations susceptibles de contribuer à son traitement : Délimiter, Ancrer, Distinguer, Relier, Configurer, Justifier, Reconstituer et Redélimiter.
+La quadripartition indique **sous quel rapport un problème peut être examiné**. L’[architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md) présente les opérations susceptibles de contribuer à son traitement : Délimiter, Ancrer, Distinguer, Relier, Configurer, Justifier, Reconstituer et Redélimiter.
 
-La distinction entre les deux doit rester fonctionnelle. **Relation** ne se confond pas avec l’opération **Relier** ; l’orientation **Justification** ne se confond pas avec l’opération **Justifier**. Une opération peut contribuer à examiner plusieurs questions, tandis qu’une même question peut nécessiter plusieurs opérations.
+La distinction est fonctionnelle :
 
-Cette distinction ne signifie pas que toute enquête doive mobiliser les deux organisations de manière explicite. Leur utilité dépend du problème et de ce qu’elles permettent effectivement de rendre visible ou de réviser.
+- l’orientation **Relation** ne se confond pas avec l’opération **Relier** ;
+- l’orientation **Justification** ne se confond pas avec l’opération **Justifier**.
 
-Pour la présentation générale de la démarche, voir l’[introduction générale](introduction-generale.md). Pour l’organisation des ressources du corpus, voir l’[architecture du projet](architecture-projet.md).
+Une opération peut contribuer à l’examen de plusieurs orientations. Inversement, l’examen d’une même orientation peut nécessiter plusieurs opérations.
 
-## Limites
+La quadripartition n’impose donc ni un ordre d’opérations ni une procédure particulière. Son usage dépend de ce qu’elle permet de distinguer dans l’enquête considérée.
 
-La quadripartition est un instrument d’orientation, non une garantie de validité.
+## Ce que la quadripartition établit et n’établit pas
 
-Elle ne garantit ni l’exhaustivité de l’examen, ni l’adéquation des descriptions, ni la justification des conclusions. Elle ne remplace pas l’examen des éléments, des relations, des critères et des raisons propres à une situation.
+La quadripartition établit une distinction de travail entre quatre orientations d’examen. Elle aide à rendre explicites des questions qui peuvent être confondues et à repérer les passages insuffisamment justifiés entre leurs réponses.
 
-Elle ne doit pas davantage devenir une grille appliquée mécaniquement à chaque problème. Si les quatre orientations ne permettent pas de différencier utilement les questions rencontrées, leur emploi doit pouvoir être réduit, modifié ou abandonné. Si une distinction supplémentaire est nécessaire, elle doit être justifiée par le problème plutôt qu’exclue au nom de la quadripartition.
+Elle suggère que les difficultés descriptives peuvent être examinées sous plusieurs rapports et que ces rapports peuvent se modifier mutuellement au cours de l’enquête. Cette proposition reste révisable : son intérêt dépend de sa capacité à rendre des différences pertinentes plus intelligibles.
 
-La cohérence de cette organisation ne suffit pas à établir sa nécessité. Son intérêt doit rester ouvert à l’examen.
+La quadripartition n’établit cependant :
+
+- ni une ontologie composée de quatre dimensions ;
+- ni une hiérarchie entre les orientations ;
+- ni une séquence obligatoire d’examen ;
+- ni une classification exhaustive de toutes les questions possibles ;
+- ni la validité d’une description ou la justification d’une conclusion particulière ;
+- ni la nécessité de mobiliser les quatre orientations dans chaque enquête.
+
+Si une autre distinction permet de mieux examiner le problème, elle ne doit pas être exclue au nom de la quadripartition. Si l’une des quatre orientations n’apporte rien à l’examen d’un cas, il n’est pas nécessaire de l’y appliquer artificiellement.
 
 ## Synthèse
 
-La quadripartition propose quatre orientations pour examiner des difficultés descriptives : **Condition, Relation, Fonction et Justification**.
+La quadripartition propose quatre orientations pour examiner une situation ou une configuration descriptive : **Condition, Relation, Fonction et Justification**.
 
-Elle permet de différencier certaines questions sans faire de ces orientations les composantes obligatoires de toute configuration descriptive. Leur mobilisation dépend du problème ; leur articulation doit être examinée au cas par cas ; leur maintien reste révisable.
+Elle permet de différencier les questions posées à propos d’une même situation, sans transformer ces orientations en composantes universelles du réel, en hiérarchie ou en étapes obligatoires. Leurs relations doivent être examinées au cas par cas ; leur utilité et leur maintien restent révisables.
 
-La quadripartition n’est donc pas une théorie exhaustive de l’enquête. C’est une ressource destinée à rendre certaines questions plus explicites, à condition que son usage apporte effectivement quelque chose à leur examen.
+**Distinguer sans isoler. Articuler sans convertir.**
 
-**Continuité des dépendances, discontinuité des fonctions, non-conversion.**
+Pour poursuivre :
+
+- [Introduction générale](fr/introduction-generale.md)
+- [Architecture du projet](fr/architecture-projet.md)
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
+- [Une première cartographie des régimes descriptifs](fr/une-premiere-cartographie-des-regimes-descriptifs.md)
+- [Table des matières](fr/tdm.md)
