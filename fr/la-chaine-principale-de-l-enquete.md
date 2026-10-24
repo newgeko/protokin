@@ -4,7 +4,7 @@
 
 La chaîne principale présente les huit opérations de référence de Protokin et leurs articulations possibles. Elle permet de situer les principales fonctions de l’enquête sans imposer une procédure unique.
 
-Cette page constitue un repère synthétique. L’[architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md) développe la logique d’ensemble ; les pages consacrées aux opérations précisent leurs conditions d’application et leurs limites.
+Cette page constitue un repère synthétique. L’[architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) développe la logique d’ensemble ; les pages consacrées aux opérations précisent leurs conditions d’application et leurs limites.
 
 ## La chaîne de référence
 
@@ -78,7 +78,7 @@ La chaîne ne garantit donc ni la réussite de l’enquête ni la validité de s
 
 ## Articulation avec la quadripartition
 
-La chaîne principale et la [quadripartition de l’orientation](quadripartition-de-l-orientation.md) remplissent des fonctions distinctes.
+La chaîne principale et la [quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) remplissent des fonctions distinctes.
 
 La chaîne présente les **opérations de l’enquête**. La quadripartition distingue quatre **orientations d’examen** :
 
@@ -138,9 +138,9 @@ Elle ne prescrit pas une progression nécessaire vers un objet constitué. Elle 
 
 Pour poursuivre :
 
-- [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md)
-- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md)
-- [Architecture du projet](architecture-projet.md)
-- [Table des matières](tdm.md)
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
+- [Architecture du projet](fr/architecture-projet.md)
+- [Table des matières](fr/tdm.md)
 - [Patterns éditoriaux](../patterns.md)
 - [Pattern d’audit du corpus](../pattern-audit.md)
