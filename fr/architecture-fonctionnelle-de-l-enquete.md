@@ -60,7 +60,7 @@ Elle doit pouvoir être révisée si elle sépare artificiellement des élément
 
 Relier consiste à examiner les relations et les dépendances entre les éléments retenus.
 
-La nature de ces relations doit être précisée plutôt que présupposée. Une dépendance causale, une relation sémantique, un rapport institutionnel et une conséquence inférentielle ne sont pas interchangeables.
+La nature de ces relations doit être rigoureusement explicitée. Il importe notamment de ne pas confondre une dépendance causale reliant des événements dans le monde physique avec une conséquence inférentielle reliant des contenus de pensée ou des énoncés dans l'ordre des raisons. Établir une corrélation empirique ne revient pas à valider une inférence, pas plus que constater une relation ne détermine la fonction normative qu'elle exerce.
 
 Établir une relation ne suffit pas à déterminer la fonction qu’elle exerce ni à justifier une conclusion qui s’appuie sur elle.
 
@@ -74,7 +74,7 @@ Elle constitue une organisation descriptive à examiner, non une garantie d’ad
 
 ### Justifier
 
-Justifier consiste à examiner les raisons, les prémisses, les critères et les engagements qui permettent de défendre, de contester ou de réviser une conclusion.
+Justifier consiste à examiner les raisons, les prémisses, les critères et les engagements qui permettent de défendre, de contester ou de réviser une conclusion. Cette opération évalue la validité des inférences matérielles qui autorisent le passage d'une observation à une affirmation théorique ou pratique. Une inférence peut respecter la syntaxe formelle sans que ses prémisses soient solides, et l’explication de la genèse causale d’une description ne saurait tenir lieu de justification normative.
 
 Cette opération porte sur les passages entre les éléments disponibles et ce qui est affirmé. Une inférence peut respecter certaines règles sans que ses prémisses soient suffisamment établies. L’explication de la genèse d’une description ne suffit pas davantage à justifier son maintien.
 
@@ -155,6 +155,8 @@ La configuration descriptive désigne l’organisation des éléments retenus da
 Il faut donc distinguer la configuration examinée du travail par lequel elle est reconstruite. La configuration n’est pas nécessairement donnée avant l’enquête, et l’opération Configurer ne produit pas automatiquement une description adéquate.
 
 Les éléments retenus, leurs relations et les fonctions qui leur sont attribuées peuvent changer au cours de l’examen. Une nouvelle observation peut modifier la configuration proposée ; une comparaison peut révéler que deux éléments auparavant confondus remplissent des fonctions différentes ; une justification contestée peut conduire à revoir les critères qui ont guidé l’organisation.
+
+La configuration descriptive fonctionne à la manière d'une carte schématique : elle agence des éléments et des inférences pour offrir une prise intelligible et guider des décisions ou des anticipations. Elle constitue une proposition d'organisation soumise à l'épreuve de sa cohérence explicative et de son adéquation aux contraintes de la situation.
 
 La configuration est ainsi un résultat provisoire de l’analyse, susceptible de devenir à son tour un objet d’examen. Elle ne constitue ni le terme nécessaire de toute enquête ni une garantie de cohérence ou de validité.
 
