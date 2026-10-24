@@ -50,11 +50,11 @@ La résistance ne se réduit pas à l’interprétation qui en est donnée : ell
 
 Les observations peuvent servir d’appui à une enquête sans constituer des données qui s’interprètent et se justifient elles-mêmes. Leur portée dépend notamment des conditions dans lesquelles elles sont produites, des distinctions mobilisées et des inférences qui permettent de tirer des conclusions. Une observation peut contribuer à une transition entre ce qui est constaté et ce qui est affirmé ; son autorité ne dispense pas d’examiner les conditions dans lesquelles cette transition est recevable.
 
-Ces distinctions prolongent un principe général de Protokin : une cause n’est pas une raison, une condition n’est pas un critère, et la genèse d’une description ne suffit pas à justifier son maintien. Ces dimensions peuvent être reliées, mais le passage de l’une à l’autre doit être explicité et soutenu.
+Ces distinctions prolongent un principe général de Protokin : une cause n’est pas une raison, une condition matérielle n’est pas un critère de validité, et la genèse factuelle d’une description ne suffit jamais à justifier son maintien. Confondre l'ordre des causes et l'ordre des raisons reviendrait à commettre une erreur catégorielle majeure. Ces dimensions doivent être articulées dans l'enquête, mais le passage de l’une à l’autre exige d'être méthodiquement explicité et soutenu.
 
 ## 4. Distinguer la description de ce qu’elle prétend décrire
 
-Une description ne doit pas être confondue avec ce dont elle parle. Une description peut changer sans que son référent change de la même manière ; inversement, une situation peut se transformer sans que les descriptions disponibles rendent immédiatement compte de cette transformation.
+Une description ne doit pas être confondue avec la situation qu'elle vise. Une description peut changer sans que son objet de référence change de la même manière ; inversement, une situation concrète peut se transformer sans que les descriptions immédiatement disponibles ne rendent compte de ce changement.
 
 Il faut donc distinguer la situation examinée, les différences retenues pour la décrire, la description produite et les critères employés pour l’évaluer. Cette distinction ne suppose pas que le référent soit accessible par une relation directe et indépendante de toute pratique. Son identification et sa réidentification mobilisent des conditions matérielles, des distinctions, des usages et des procédures qui peuvent eux-mêmes être examinés.
 
@@ -62,7 +62,7 @@ Elle ne suppose pas davantage que les descriptions soient sans effet sur les sit
 
 De même, la cohérence interne d’une description ne suffit pas à établir son adéquation. Une description peut être cohérente tout en reposant sur des distinctions inadéquates, des affirmations contestables ou des critères insuffisants. Son évaluation demande d’examiner ce qu’elle prétend décrire, les éléments sur lesquels elle s’appuie et les procédures par lesquelles ses affirmations peuvent être mises à l’épreuve.
 
-Protokin ne présuppose donc ni une séparation absolue entre description et référent, ni leur identité. Il examine les rapports entre les pratiques descriptives, les situations auxquelles elles se rapportent et les conditions dans lesquelles leurs prétentions peuvent être évaluées.
+Protokin ne présuppose donc ni une rupture sceptique entre description et situation, ni leur assimilation magique. Il examine comment des pratiques descriptives parviennent à s’ancrer dans leur environnement et dans quelles conditions leurs prétentions à l'exactitude peuvent être éprouvées par l'expérience.
 
 ## 5. Organiser les questions et les opérations de l’enquête
 
@@ -107,7 +107,7 @@ Il part des difficultés rencontrées dans ces pratiques et examine les conditio
 
 Son objectif est d’examiner comment des pratiques rendent certaines différences descriptibles, discutables, justifiables, stabilisables, contestables et révisables, et dans quelles conditions leurs descriptions peuvent être maintenues.
 
-**La cohérence d’une description ne suffit pas à établir son adéquation à ce qu’elle prétend décrire.**
+**La seule cohérence logique interne d’un système de descriptions ne suffit pas à garantir son adéquation aux contraintes concrètes de la situation qu’il prétend caractériser.**
 
 ## Pour poursuivre
 
