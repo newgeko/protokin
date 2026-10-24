@@ -2,183 +2,114 @@
 
 ## Fonction
 
-Cette page examine l’articulation entre les orientations de l’enquête et son chemin opératoire. Elle formule une hypothèse architecturale et propose des cas permettant d’en éprouver l’utilité.
+Cette page examine si la distinction entre les orientations de l’examen et les opérations de l’enquête apporte un gain analytique identifiable.
 
-Son objectif n’est pas d’ajouter une nouvelle structure à Protokin, mais de déterminer si deux organisations déjà présentes dans le projet remplissent des fonctions distinctes.
+Les orientations indiquent sous quels rapports un problème peut être examiné. Les opérations désignent les travaux par lesquels l’enquête traite ce problème, examine ses appuis et peut en réviser la formulation.
+
+La distinction est proposée comme une hypothèse de travail. Sa cohérence conceptuelle ne suffit pas à établir qu’elle est nécessaire ou utile dans toutes les enquêtes.
 
 ## Problème
 
-Une enquête doit pouvoir examiner un problème descriptif sous plusieurs rapports et décrire les opérations par lesquelles ce problème est travaillé.
+Une enquête doit pouvoir différencier les questions qu’elle pose et expliciter les opérations par lesquelles elle les traite. Ces deux fonctions peuvent être confondues.
 
-Ces deux exigences ne sont pas identiques.
+Si les orientations sont assimilées à des étapes, elles risquent d’imposer un ordre artificiel à l’examen. Si les opérations sont assimilées à des orientations, le travail accompli par l’enquête risque d’être confondu avec le rapport sous lequel une situation est étudiée.
 
-Les orientations indiquent sous quels rapports un problème peut être examiné. Le chemin opératoire décrit les transformations par lesquelles l’enquête délimite, documente, différencie, relie et réexamine ce problème.
+Il faut donc examiner si la distinction entre ces deux organisations permet de mieux décrire le travail de l’enquête, sans ajouter une séparation qui ne produirait aucun résultat identifiable.
 
-Si ces deux organisations sont confondues, les orientations risquent d’être traitées comme des étapes, tandis que les opérations risquent d’être prises pour des dimensions de ce qui est décrit.
+## Hypothèse d’articulation
 
-Mais leur distinction ne se justifie pas d’elle-même. Il reste à établir qu’elle apporte une différence effective dans la conduite et l’analyse des enquêtes.
+L’hypothèse est la suivante :
 
-## Hypothèse architecturale
+**Les orientations différencient les rapports sous lesquels un problème est examiné ; les opérations désignent les travaux par lesquels l’enquête traite ce problème et peut en réviser la formulation.**
 
-L’hypothèse proposée est la suivante :
+Les deux organisations ne sont ni interchangeables ni nécessairement mobilisées séparément. Une opération peut faire apparaître plusieurs questions d’orientation, et une même orientation peut être examinée au cours de différentes opérations.
 
-**Les orientations et le chemin remplissent deux fonctions distinctes et complémentaires : les orientations différencient les rapports sous lesquels un problème est examiné ; le chemin décrit les opérations par lesquelles l’enquête transforme ce problème.**
+Cette distinction ne constitue ni une ontologie du problème étudié ni une procédure universelle. Elle ne prescrit pas davantage un ordre obligatoire entre les orientations et les opérations.
 
-Les orientations ne constituent ni des parties du monde ni des phases successives de l’enquête. Le chemin ne constitue ni une procédure universelle ni une garantie de validité.
+Son intérêt dépend de trois points :
 
-Cette hypothèse suppose trois points à éprouver :
+- **Différence fonctionnelle :** les orientations et les opérations permettent-elles de distinguer des questions réellement différentes ?
+- **Gain analytique :** leur articulation aide-t-elle à repérer une omission, une confusion ou une reprise nécessaire ?
+- **Proportionnalité :** ce gain justifie-t-il de maintenir deux organisations distinctes pour le problème considéré ?
 
-- **Différence fonctionnelle :** les orientations ne sont pas réductibles aux opérations du chemin.
-- **Complémentarité :** chacune rend visible quelque chose que l’autre ne suffit pas à décrire.
-- **Utilité pratique :** leur articulation permet de repérer des omissions, des confusions ou des reprises nécessaires.
+## Une distinction à rendre opératoire
 
-Si ces différences ne peuvent pas être établies dans des cas concrets, la distinction devra être reformulée, simplifiée ou abandonnée.
+La quadripartition distingue quatre orientations : Condition, Relation, Fonction et Justification. Elles permettent respectivement d’examiner les conditions pertinentes, les dépendances entre les éléments, le rôle exercé dans une pratique et les raisons ou critères qui soutiennent une conclusion.
 
-## Les orientations
+Le chemin de l’enquête organise des opérations telles que délimiter un problème, ancrer l’examen, distinguer des éléments, examiner leurs relations, configurer l’analyse, justifier les conclusions, reconstituer le parcours et redélimiter le problème.
 
-La quadripartition distingue quatre rapports sous lesquels un problème descriptif peut être examiné.
+Il n’existe pas de correspondance terme à terme entre ces deux organisations. En particulier, l’opération *Justifier* ne se confond pas avec l’orientation *Justification* : l’une désigne un travail de l’enquête, l’autre le rapport sous lequel une conclusion est examinée.
 
-### Condition
+La différence ne doit toutefois pas rester une distinction de vocabulaire. Pour être pertinente, elle doit aider à préciser ce qui est examiné, ce que l’enquête fait effectivement et ce qui reste à établir.
 
-Quelles conditions corporelles, matérielles ou environnementales rendent la situation possible, contraignent l’enquête ou limitent ce qui peut être observé ?
+## Cas d’examen : une baisse annoncée du chômage
 
-### Relation
+Un organisme public annonce une baisse du chômage. Des associations contestent cette évolution en faisant valoir que certaines personnes sans emploi ne sont plus comptabilisées de la même manière.
 
-Quelles dépendances, connexions ou transformations peuvent être établies entre les éléments considérés ?
+Le désaccord semble porter sur un chiffre, mais plusieurs questions peuvent être confondues : les situations des personnes sans emploi, les règles de classement, la construction de l’indicateur et l’usage du résultat annoncé.
 
-### Fonction
+### Ce que les orientations permettent de distinguer
 
-Que fait une configuration dans une pratique déterminée ? Quels effets produit-elle, et à quels usages participe-t-elle ?
+- **Condition :** quelles données sont disponibles et selon quelles modalités sont-elles recueillies ?
+- **Relation :** comment les situations individuelles, les inscriptions administratives et les règles de classement sont-elles reliées ?
+- **Fonction :** l’indicateur sert-il à décrire une évolution, à évaluer une politique ou à soutenir une communication publique ?
+- **Justification :** les critères de comptabilisation sont-ils défendables au regard de la conclusion annoncée et de l’usage qui en est fait ?
 
-### Justification
+Ces questions ne constituent pas quatre parties de la situation. Elles différencient les rapports sous lesquels le désaccord peut être examiné.
 
-Quels critères permettent de défendre, contester ou réviser une description ? Quelles raisons autorisent à retenir une distinction ou une conclusion ?
+### Ce que les opérations permettent de travailler
 
-Ces orientations ne sont pas exclusives. Une même difficulté peut mobiliser les quatre simultanément. Elles ne prescrivent pas non plus un ordre d’examen : une enquête peut revenir aux conditions matérielles après avoir contesté une justification.
+L’enquête peut commencer par délimiter le désaccord : porte-t-il sur le nombre de personnes sans emploi ou sur un indicateur administratif déterminé ? Elle doit ensuite identifier les données et les définitions effectivement utilisées.
 
-## Le chemin opératoire
+Elle peut distinguer les situations individuelles des catégories statistiques, examiner les relations entre les règles de classement et les chiffres produits, puis construire une analyse de la manière dont le résultat a été obtenu. Elle examine enfin les justifications de l’indicateur et peut redélimiter le problème si le désaccord initial confond plusieurs mesures.
 
-Le chemin décrit les opérations par lesquelles l’enquête travaille un problème descriptif :
+Il ne s’agit pas d’affecter mécaniquement chaque question à une opération. Une même opération peut contribuer à plusieurs orientations, et une question d’orientation peut exiger plusieurs opérations successives ou reprises.
 
-1. **Délimiter** — préciser le problème et les limites de la question examinée.
-2. **Ancrer** — identifier les matériaux, les observations et les pratiques sur lesquels repose l’enquête.
-3. **Distinguer** — différencier les éléments ou les registres que la description tend à confondre.
-4. **Relier** — examiner les dépendances entre les éléments différenciés.
-5. **Configurer** — reconstruire leur organisation dans une situation déterminée.
-6. **Justifier** — examiner les critères et les raisons qui soutiennent les distinctions et les conclusions.
-7. **Reconstituer** — expliciter comment la configuration et les descriptions examinées ont été produites.
-8. **Redélimiter** — reprendre la formulation du problème lorsque l’enquête en modifie les termes.
+### Résultat de l’examen
 
-Cet ordre rend le chemin lisible, mais ne constitue pas une succession obligatoire. Une opération peut être reprise, déplacée ou rendue nécessaire par les résultats d’une autre. La redélimitation peut notamment conduire à recommencer l’enquête sur une base différente.
+Dans ce cas, les orientations aident à distinguer les questions en jeu ; les opérations permettent de décrire le travail nécessaire pour les examiner.
 
-Le chemin décrit ainsi une organisation possible du travail, non une procédure qui garantirait son résultat.
+Cette différence fournit un exemple de complémentarité possible. Elle ne prouve pas, à elle seule, que les deux organisations sont toujours nécessaires. Pour l’établir, il faudrait montrer que leur articulation permet effectivement de repérer des omissions ou des confusions qui seraient moins visibles avec une seule organisation.
 
-## Étude de cas : la mesure du chômage
+Ce cas est construit à des fins d’analyse. Il ne constitue ni une étude empirique d’un indicateur précis ni une validation générale de l’architecture proposée.
 
-Imaginons qu’un organisme public annonce une baisse du chômage. Des associations contestent cette évolution en faisant valoir que certaines personnes sans emploi ne sont plus comptabilisées de la même manière.
+## Critères d’évaluation
 
-Le désaccord paraît porter sur un chiffre. Il peut cependant concerner plusieurs objets : l’absence d’emploi, l’inscription administrative, l’appartenance à une catégorie statistique ou l’usage politique de l’indicateur.
+L’hypothèse d’articulation doit pouvoir être révisée à partir des résultats de son usage.
 
-### Examen par les orientations
+Trois questions permettent de l’examiner :
 
-**Condition.** Quelles données sont disponibles ? Comment sont-elles recueillies et actualisées ? Quelles personnes risquent de ne pas apparaître dans les fichiers utilisés ?
+1. **Que rendent visibles les orientations ?** Peut-on identifier des rapports pertinents qui seraient difficiles à distinguer si l’on décrivait seulement les opérations effectuées ?
+2. **Que rend visible le chemin ?** Peut-on reconstruire les transformations du problème et les reprises de l’enquête que la seule liste des orientations ne permettrait pas de décrire ?
+3. **Quel gain résulte de leur articulation ?** Leur distinction permet-elle de mieux repérer une omission, une confusion, une dépendance insuffisamment examinée ou une conclusion qui dépasse ses appuis ?
 
-**Relation.** Comment les déclarations individuelles, les inscriptions administratives et les règles de classement sont-elles reliées ? Quels changements de statut modifient le décompte ?
+Un résultat négatif doit rester possible. Si la distinction n’apporte aucun gain identifiable, elle doit être simplifiée ou réexaminée. Si elle n’est utile que pour certains problèmes, sa portée doit être limitée en conséquence.
 
-**Fonction.** À quoi sert l’indicateur : décrire une évolution, répartir des moyens, évaluer une politique ou communiquer un résultat ?
+## Ce que cette distinction n’établit pas
 
-**Justification.** Les critères de comptabilisation sont-ils adéquats à l’usage annoncé ? Quelles raisons permettent de défendre ou de contester ces critères ?
+L’articulation entre orientations et opérations :
 
-### Travail par le chemin
+- ne divise pas la réalité en quatre composantes ;
+- ne transforme pas les orientations en étapes successives ;
+- ne prescrit pas l’exécution systématique de toutes les opérations ;
+- ne garantit ni l’exhaustivité de l’examen ni l’adéquation des descriptions ;
+- ne prouve pas que deux organisations distinctes sont nécessaires dans chaque enquête.
 
-L’enquête délimite d’abord le désaccord : concerne-t-il le nombre de personnes sans emploi ou un indicateur administratif particulier ? Elle ancre ensuite l’examen dans les données et les définitions effectivement utilisées.
-
-Elle distingue les situations individuelles des catégories statistiques, puis examine les relations entre les règles de classement et les chiffres produits. Elle reconstitue la configuration qui a rendu possible le résultat annoncé et examine les justifications de l’indicateur. Enfin, elle redélimite le problème si le désaccord initial confond plusieurs mesures différentes.
-
-### Ce que le cas permet d’éprouver
-
-Les orientations différencient les questions à examiner : disponibilité des données, dépendances entre catégories, usage de l’indicateur et justification des critères.
-
-Le chemin permet de décrire comment l’enquête travaille ces questions et transforme la formulation du désaccord.
-
-Il reste toutefois à vérifier si cette distinction produit un gain analytique réel. Si les mêmes résultats peuvent être obtenus avec une seule organisation, sans perte identifiable, l’intérêt de maintenir deux structures séparées devient discutable.
-
-Ce cas est construit à des fins d’analyse. Il ne constitue pas une validation empirique de l’hypothèse architecturale.
-
-## Exemple historique : Semmelweis et la fièvre puerpérale
-
-Dans les années 1840, Ignaz Semmelweis cherche à comprendre les différences de mortalité par fièvre puerpérale entre deux services de maternité à Vienne. Il observe notamment des différences entre les pratiques des médecins et celles des sages-femmes. En 1847, il impose le lavage des mains avec une solution chlorée dans son service, après avoir rapproché les décès de pratiques susceptibles de provoquer une contamination. La mortalité diminue fortement.
-
-Ce cas permet de distinguer plusieurs questions historiques : les observations disponibles, les relations supposées entre pratiques et décès, les effets d’une intervention et la justification d’une explication. Il faut cependant éviter de présenter cette reconstruction comme si Semmelweis disposait déjà de la théorie microbienne ou comme si l’histoire de sa réception se réduisait à un simple refus de l’évidence.
-
-### Examen par les orientations
-
-**Condition.** Quelles données de mortalité sont disponibles ? Quelles conditions de travail et pratiques médicales peuvent être documentées ?
-
-**Relation.** Quels liens peuvent être établis entre les pratiques observées, l’exposition supposée et les décès ?
-
-**Fonction.** Que change l’intervention dans la pratique clinique ? Quel effet observable produit-elle sur la mortalité ?
-
-**Justification.** Dans quelle mesure les observations et les résultats obtenus soutiennent-ils l’intervention et l’explication proposée ? Quelles conclusions dépassent les éléments disponibles ?
-
-### Travail par le chemin
-
-L’enquête délimite l’écart de mortalité à expliquer, s’ancre dans les relevés et les pratiques, distingue les observations de leur interprétation, puis examine les relations envisagées entre pratiques et décès.
-
-Elle configure une explication susceptible de guider une intervention, en examine la justification et reconstitue les étapes par lesquelles les observations ont conduit à modifier les pratiques. Elle peut enfin redélimiter le problème en distinguant l’efficacité d’une intervention de l’explication complète du mécanisme de transmission.
-
-### Ce que le cas permet d’éprouver
-
-Le cas met en évidence la nécessité de ne pas confondre constat, hypothèse causale, efficacité pratique et justification d’une explication.
-
-Il permet aussi de demander si les orientations et le chemin contribuent séparément à cette distinction. Les orientations organisent les rapports d’examen ; le chemin rend compte du travail par lequel les observations sont mises en relation et l’explication révisée.
-
-Cette lecture reste une reconstruction schématique. Pour constituer une étude historique, elle devrait être confrontée aux sources sur les pratiques de Semmelweis, ses résultats, ses explications et les controverses contemporaines.
-
-## Éprouver l'hypothèse
-
-Les deux cas précédents fournissent des tests conceptuels préliminaires. Ils ne suffisent pas à établir que l'architecture est nécessaire.
-
-L'hypothèse doit être confrontée à trois questions.
-
-### 1. Que rendent visibles les orientations ?
-
-Il faut identifier ce que la quadripartition permet de repérer et qui resterait difficile à voir si l'on décrivait seulement une succession d'opérations.
-
-### 2. Que rend visible le chemin ?
-
-Il faut identifier ce que la succession d'opérations permet de reconstruire et qui resterait indéterminé si l'on disposait uniquement des quatre orientations.
-
-### 3. Quel gain résulte de leur articulation ?
-
-Il faut établir si leur articulation permet de diagnostiquer des omissions, de distinguer des confusions ou de mieux reconstruire les transformations du problème.
-
-Un résultat négatif est possible. Si la distinction ne produit aucun gain identifiable, il faudra réexaminer la nécessité de conserver deux organisations séparées. Si elle est utile seulement dans certains types d'enquête, sa portée devra être limitée en conséquence.
-
-## Ce que cette distinction n'établit pas
-
-L'articulation entre orientations et chemin :
-
-- ne constitue pas une ontologie du problème étudié ;
-- ne garantit pas que toutes les dimensions pertinentes ont été identifiées ;
-- ne garantit ni la validité des descriptions ni l'adéquation des conclusions ;
-- n'impose pas une progression linéaire ;
-- ne justifie pas à elle seule l'ajout d'une nouvelle couche canonique à l'architecture du projet.
-
-La cohérence d'une organisation conceptuelle ne suffit pas à établir sa nécessité. Sa pertinence dépend du travail qu'elle permet effectivement d'accomplir.
+La cohérence d’une architecture ne suffit pas à établir sa nécessité. La distinction doit être évaluée à partir du travail qu’elle permet effectivement d’accomplir.
 
 ## Articulation avec les autres pages
 
-Cette page ne remplace ni la présentation des orientations ni celle du chemin opératoire.
+Cette page examine la relation entre deux organisations sans reprendre leur développement complet.
 
-- La page [Quadripartition de l'orientation](fr/quadripartition-de-l-orientation.md) présente les quatre orientations.
-- La page [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) présente l'organisation des opérations de l'enquête.
-- La présente page examine leur articulation et formule les conditions auxquelles leur distinction pourrait être maintenue.
-
-Elle devra être révisée si l'examen des cas montre que cette articulation est redondante, insuffisamment définie ou utile seulement dans un domaine limité.
+- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md) : définition des quatre orientations.
+- [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md) : organisation des opérations, de leurs dépendances et de leurs reprises.
+- [La chaîne principale de l’enquête](la-chaine-principale-de-l-enquete.md) : présentation synthétique des opérations.
+- [Conduire une enquête](conduire-une-enquete.md) : repères pratiques pour mobiliser les opérations et orienter l’examen.
+- [Introduction générale](introduction-generale.md) : présentation du problème général auquel répond Protokin.
+- [Table des matières](tdm.md) : repérage des ressources du corpus.
 
 ## Synthèse
 
-Les orientations et le chemin proposent deux manières d'organiser l'examen d'un problème descriptif. Les premières différencient les rapports sous lesquels il est étudié ; le second décrit les opérations par lesquelles il est travaillé et reformulé.
+Les orientations différencient les rapports sous lesquels un problème est examiné ; les opérations désignent les travaux par lesquels l’enquête le traite et peut le reformuler.
 
-Cette distinction constitue une hypothèse architecturale, non un acquis. Elle ne mérite d'être conservée que si son usage permet de mieux examiner les problèmes, de reconstruire les enquêtes ou de repérer des difficultés qui resteraient autrement moins visibles.
+Leur articulation constitue une hypothèse de travail, non un acquis. Elle mérite d’être conservée dans la mesure où elle aide à distinguer des questions, à expliciter le cheminement de l’enquête ou à repérer des difficultés qui resteraient autrement moins visibles.
