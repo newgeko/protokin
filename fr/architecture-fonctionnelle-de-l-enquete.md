@@ -1,191 +1,190 @@
 # Architecture fonctionnelle de l’enquête
 
-## 1. Fonction de cette page
+## Fonction
 
-Cette page organise les opérations par lesquelles Protokin examine une difficulté descriptive. Elle précise leurs fonctions respectives, leurs dépendances possibles et les conditions dans lesquelles leurs résultats doivent être repris.
+L’architecture fonctionnelle décrit les opérations par lesquelles Protokin permet d’examiner une difficulté descriptive, d’organiser les éléments pertinents et de reprendre les résultats obtenus.
 
-Elle complète trois ressources :
+Elle précise la fonction de chaque opération, les dépendances possibles entre elles et les conditions dans lesquelles une reprise peut être nécessaire.
 
-- l’[Introduction générale](introduction-generale.md), qui présente le problème auquel répond Protokin ;
-- l’[Architecture du projet](architecture-projet.md), qui organise les ressources documentaires et conceptuelles du corpus ;
-- la [Quadripartition de l’orientation](quadripartition-de-l-orientation.md), qui distingue quatre orientations selon lesquelles une situation peut être examinée.
+Elle ne prescrit ni une procédure universelle ni une succession obligatoire de phases. Elle fournit un cadre d’organisation dont la pertinence dépend du problème rencontré.
 
-L’architecture fonctionnelle ne décrit ni une constitution nécessaire de l’objet ni une procédure dont l’application garantirait la validité des résultats. Elle fournit des repères pour déterminer quelles opérations mobiliser, comment les articuler et quand réexaminer leurs résultats.
+## 1. Le problème avant les opérations
 
-Sa question directrice est la suivante :
+Une enquête devient pertinente lorsque les ressources descriptives disponibles ne permettent plus de traiter une difficulté de manière satisfaisante. Une distinction peut être insuffisante, une catégorie contestée, une relation indéterminée, une description inadéquate ou une conclusion insuffisamment justifiée.
 
-**Comment organiser et reprendre les opérations d’une enquête sans transformer leur articulation en procédure obligatoire ?**
+La difficulté ne se résout pas nécessairement par une définition supplémentaire. Elle peut exiger de revoir les éléments retenus, les distinctions mobilisées, les relations établies, l’organisation proposée ou les critères employés.
 
-## 2. Le problème avant la procédure
+La formulation initiale du problème est elle-même provisoire. L’examen peut révéler que la difficulté a été mal circonscrite, que certains éléments ont été négligés ou que plusieurs questions auparavant confondues doivent être distinguées.
 
-Une enquête devient nécessaire lorsque les ressources descriptives disponibles ne permettent plus de traiter une difficulté de manière satisfaisante. Une distinction peut être insuffisante, une catégorie contestée, une relation indéterminée ou une conclusion insuffisamment justifiée.
+L’architecture fonctionnelle organise la possibilité de traiter ces difficultés et de réviser le cheminement suivi. Elle ne détermine pas à l’avance les opérations nécessaires ni les résultats auxquels elles doivent conduire.
 
-Le problème ne se résout pas nécessairement par l’ajout d’une définition ou par une formulation plus précise. Il peut exiger de revoir les éléments retenus, les distinctions mobilisées, les relations établies ou les critères employés.
+## 2. Les opérations de référence
 
-L’enquête doit donc commencer par une difficulté identifiable, sans présupposer que sa formulation initiale est définitive. Les résultats obtenus peuvent révéler que le problème a été mal délimité, que certains éléments ont été omis ou que les questions pertinentes sont différentes de celles qui avaient été envisagées.
-
-L’architecture fonctionnelle organise cette possibilité de reprise. Elle ne classe pas à l’avance toutes les difficultés possibles et ne garantit pas qu’une opération donnée suffira à les résoudre.
-
-## 3. Le mouvement général de l’enquête
-
-La chaîne de référence de Protokin est la suivante :
+La chaîne de référence de Protokin comprend huit opérations :
 
 **Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter**
 
-Les huit opérations remplissent des fonctions distinctes. Leur ordre présente un mouvement général intelligible, mais ne prescrit pas une succession nécessaire.
+Cette chaîne rend visibles plusieurs fonctions de l’enquête : formuler le problème, identifier les appuis pertinents, établir les distinctions nécessaires, examiner les relations, organiser l’analyse, justifier les conclusions, expliciter le cheminement suivi et réexaminer le problème.
 
-Les flèches indiquent des dépendances possibles. Elles ne signifient pas qu’une opération produit automatiquement la suivante, ni que chaque enquête doit les mobiliser toutes dans cet ordre. Plusieurs opérations peuvent être conduites conjointement ; une opération peut être reprise avant que les autres aient été achevées ; une difficulté peut conduire directement à redélimiter le problème.
+Les flèches indiquent des articulations possibles. Elles ne signifient pas qu’une opération produit automatiquement la suivante, ni que toutes doivent être mobilisées dans cet ordre.
 
-Trois aspects doivent être distingués :
+Une enquête peut commencer par une distinction contestée, examiner directement une justification, reprendre les conditions d’une observation ou reformuler le problème avant d’avoir développé une configuration d’ensemble. Plusieurs opérations peuvent également être conduites conjointement.
 
-- **Mobilisation :** une opération devient pertinente lorsqu’un problème exige l’examen qu’elle permet de conduire.
-- **Dépendance :** une opération peut s’appuyer sur les résultats d’une autre sans que ceux-ci déterminent entièrement son propre résultat.
-- **Reprise :** une opération est réexaminée lorsque ses résultats deviennent insuffisants, contestables ou inadaptés au problème.
+La chaîne est donc un repère fonctionnel, non un protocole à exécuter intégralement.
 
-La chaîne est ainsi un repère d’organisation et de révision, non un protocole universel.
+## 3. Fonction des huit opérations
 
-## 4. Les huit opérations
+Les définitions détaillées et les procédures propres à chaque opération figurent dans leurs pages respectives. L’architecture fonctionnelle précise ici leur place dans l’organisation générale de l’enquête.
 
-Chaque opération répond à une question distincte. Les développements propres à chacune relèvent des pages spécialisées ; cette section en présente uniquement la fonction dans l’organisation générale.
+### Délimiter
 
-### 4.1. Délimiter
+Délimiter consiste à formuler la difficulté à examiner et à préciser le périmètre provisoire de l’enquête.
 
-**Préciser ce qui fait problème.**
+Cette opération rend le problème suffisamment déterminé pour guider l’examen sans présupposer sa solution. La délimitation peut être reprise si la formulation initiale se révèle trop large, trop étroite ou inadéquate.
 
-Délimiter consiste à identifier la difficulté à examiner, les descriptions concernées et le périmètre provisoire de l’enquête.
+### Ancrer
 
-Cette opération rend le problème examinable sans décider à l’avance de sa solution. Elle peut être reprise lorsque la difficulté initiale se révèle trop large, trop étroite ou mal formulée.
+Ancrer consiste à identifier les éléments sur lesquels l’enquête peut s’appuyer : observations, traces, documents, supports, données ou contraintes matérielles pertinentes.
 
-### 4.2. Ancrer
+L’ancrage permet d’examiner ce que les éléments disponibles soutiennent effectivement. Il ne leur attribue pas automatiquement une signification et ne leur confère pas, à lui seul, une portée justificative.
 
-**Identifier les appuis pertinents de l’examen.**
+### Distinguer
 
-Ancrer consiste à déterminer sur quels éléments l’enquête peut s’appuyer : observations, traces, supports, contraintes matérielles, données ou autres ressources pertinentes.
+Distinguer consiste à préciser les différences nécessaires au traitement du problème.
 
-L’ancrage ne fournit pas une fondation unique à laquelle les descriptions devraient être ramenées. Il permet d’examiner ce que les éléments disponibles soutiennent effectivement, sans leur attribuer une signification ou une portée justificative qu’ils n’établissent pas à eux seuls.
+Il peut s’agir de séparer des fonctions, des critères, des registres ou des conclusions que la difficulté tend à confondre. Une distinction n’implique pas que les éléments concernés soient indépendants dans la situation examinée.
 
-### 4.3. Distinguer
+Elle doit pouvoir être révisée si elle sépare artificiellement des éléments pertinents ou ne permet plus de traiter les cas rencontrés.
 
-**Maintenir les différences nécessaires au problème.**
+### Relier
 
-Distinguer consiste à préciser quels éléments, fonctions ou critères ne doivent pas être confondus pour que l’enquête puisse progresser.
+Relier consiste à examiner les relations et les dépendances entre les éléments retenus.
 
-Une distinction peut être nécessaire sans correspondre à une séparation dans la situation examinée. Elle doit rester révisable si elle ne permet plus de traiter des cas pertinents ou si elle sépare artificiellement des éléments dont les relations comptent pour le problème.
+La nature de ces relations doit être précisée plutôt que présupposée. Une dépendance causale, une relation sémantique, un rapport institutionnel et une conséquence inférentielle ne sont pas interchangeables.
 
-### 4.4. Relier
+Établir une relation ne suffit pas à déterminer la fonction qu’elle exerce ni à justifier une conclusion qui s’appuie sur elle.
 
-**Examiner les relations et les dépendances.**
+### Configurer
 
-Relier consiste à préciser comment les éléments retenus interviennent ensemble dans le problème étudié.
+Configurer consiste à organiser les éléments, les distinctions et les relations pertinents pour rendre une analyse explicite et examinable.
 
-Les relations peuvent être matérielles, causales, sociales, sémantiques, inférentielles ou institutionnelles. Leur nature doit être établie plutôt que présupposée. Une relation peut contribuer à une fonction sans se confondre avec cette fonction ni déterminer, à elle seule, la justification d’une conclusion.
+La configuration proposée permet de préciser ce qui est retenu, la manière dont les éléments sont mis en rapport et les conséquences attribuées à leur organisation.
 
-### 4.5. Configurer
+Elle constitue une organisation descriptive à examiner, non une garantie d’adéquation à ce qu’elle prétend décrire. Une configuration cohérente peut rester incomplète, négliger une dépendance ou reposer sur une distinction inadéquate.
 
-**Organiser les éléments de l’analyse.**
+### Justifier
 
-Configurer consiste à organiser les distinctions, les relations et les descriptions pertinentes de manière à rendre explicite la configuration examinée.
+Justifier consiste à examiner les raisons, les prémisses, les critères et les engagements qui permettent de défendre, de contester ou de réviser une conclusion.
 
-Cette organisation permet de comparer des descriptions et d’identifier les éléments qui soutiennent une analyse. Elle ne constitue pas nécessairement un nouvel objet et ne garantit pas l’adéquation de la description à ce qu’elle prétend décrire.
+Cette opération porte sur les passages entre les éléments disponibles et ce qui est affirmé. Une inférence peut respecter certaines règles sans que ses prémisses soient suffisamment établies. L’explication de la genèse d’une description ne suffit pas davantage à justifier son maintien.
 
-### 4.6. Justifier
+La justification permet de préciser ce que les résultats autorisent à soutenir et dans quelles limites.
 
-**Examiner les raisons et les critères des conclusions.**
+### Reconstituer
 
-Justifier consiste à expliciter les raisons, les prémisses, les critères et les engagements qui permettent de défendre, de contester ou de réviser une conclusion.
+Reconstituer consiste à rendre explicites les opérations, les appuis, les distinctions, les relations et les justifications qui ont conduit aux résultats retenus.
 
-Une explication de la genèse d’une description ne suffit pas à justifier son maintien. De même, une inférence peut respecter certaines règles tout en reposant sur des prémisses insuffisamment établies ou inadéquates au problème.
+Cette opération permet de différencier ce qui a été établi, ce qui demeure hypothétique et ce qui reste indéterminé. Elle ne suppose pas que le cheminement puisse être restitué dans sa totalité ni que son résultat constitue une conclusion définitive.
 
-### 4.7. Reconstituer
+La reconstitution rend le parcours examinable et permet d’identifier les points qui pourraient nécessiter une reprise.
 
-**Rendre explicite la portée des résultats obtenus.**
+### Redélimiter
 
-Reconstituer consiste à articuler les résultats de l’enquête, les distinctions retenues, les relations établies et les conclusions qui peuvent être défendues.
+Redélimiter consiste à réexaminer la formulation et le périmètre du problème à la lumière des résultats obtenus.
 
-Cette opération permet de différencier ce qui a été établi, ce qui reste hypothétique et ce qui demeure indéterminé. Elle ne transforme pas les résultats partiels en une totalité nécessairement cohérente.
+L’enquête peut conduire à maintenir le problème initial, à le préciser, à le scinder ou à ouvrir une question distincte. Une difficulté locale ne nécessite pas toujours une nouvelle délimitation ; inversement, conserver une formulation devenue inadéquate peut empêcher de traiter les résultats.
 
-### 4.8. Redélimiter
+La redélimitation est une possibilité de révision, non une conclusion obligatoire de toute enquête.
 
-**Réviser le problème à la lumière de l’enquête.**
+## 4. Dépendances et reprises
 
-Redélimiter consiste à reprendre la formulation ou le périmètre du problème lorsque les résultats obtenus modifient la compréhension de la difficulté initiale.
+Les opérations ont des fonctions distinctes, mais elles ne sont pas indépendantes. Leurs résultats peuvent se soutenir, se limiter ou conduire à leur révision réciproque.
 
-Cette opération peut ouvrir une nouvelle enquête ou conduire à préciser les limites d’un résultat sans remettre en cause l’ensemble de l’analyse. Elle ne constitue pas un simple retour à la première délimitation : elle tient compte des difficultés révélées par l’examen.
+Une distinction peut rendre une relation examinable ; l’analyse d’une relation peut révéler une distinction insuffisante. Une configuration peut faire apparaître une dépendance négligée. Une justification contestée peut imposer de reprendre les appuis ou les prémisses. Une reconstitution peut enfin montrer que le problème initial doit être reformulé.
 
-## 5. Dépendances et reprises entre les opérations
+Ces rapports ne constituent pas une chaîne causale générale. Ils doivent être établis dans chaque enquête, en fonction de la difficulté rencontrée.
 
-Les opérations ne sont pas indépendantes, mais leurs relations ne forment pas une chaîne causale générale.
+Trois situations doivent être distinguées :
 
-Une délimitation peut être précisée par les éléments identifiés lors de l’ancrage. Les distinctions rendent certaines relations examinables, tandis que l’analyse des relations peut conduire à réviser ces distinctions. La configuration organise les éléments retenus, mais peut aussi révéler une différence jusque-là négligée. La justification examine les conclusions et peut conduire à reprendre les appuis, les distinctions ou les relations sur lesquels elles reposent. La reconstitution permet enfin d’évaluer la portée de l’ensemble et peut révéler la nécessité d’une redélimitation.
+- **Mobilisation :** une opération est pertinente parce qu’elle permet d’examiner un aspect du problème.
+- **Dépendance :** le résultat d’une opération peut contribuer à une autre sans en déterminer entièrement le résultat.
+- **Reprise :** une opération est réexaminée lorsque ses résultats deviennent insuffisants, contestables ou inadaptés.
 
-Ces dépendances ne déterminent pas un ordre temporel unique. Une enquête peut examiner tôt les critères de justification, construire une configuration provisoire ou revenir sur ses appuis après avoir comparé plusieurs descriptions.
+La reprise doit être proportionnée à la difficulté constatée. Une erreur locale peut demander une correction limitée ; une dépendance mal établie peut nécessiter un nouvel examen des relations ; une délimitation inadéquate peut conduire à reformuler le problème.
 
-La reprise doit être proportionnée à la difficulté constatée. Une distinction insuffisante peut demander une correction locale ; une relation mal établie peut nécessiter un nouvel examen des appuis ; une formulation inadéquate du problème peut imposer une redélimitation plus large.
+Il n’est donc pas nécessaire de recommencer toute l’enquête dès qu’une difficulté apparaît. Il faut identifier ce qui est devenu insuffisant, déterminer quels résultats en dépendent et justifier l’étendue de la révision.
 
-Il n’est donc pas nécessaire de recommencer toutes les opérations lorsqu’une difficulté apparaît. Il faut identifier le résultat devenu insuffisant, examiner les opérations qui en dépendent et déterminer jusqu’où la révision doit s’étendre.
+## 5. Fonctions transversales
 
-## 6. Les fonctions transversales
+Quatre fonctions transversales permettent d’examiner le cheminement de l’enquête : **Temporaliser, Auditer, Réfléchir et Éprouver**.
 
-Quatre fonctions transversales accompagnent le mouvement de l’enquête : **Temporaliser, Auditer, Réfléchir et Éprouver**.
+Elles ne constituent pas des opérations supplémentaires à ajouter à la chaîne. Elles peuvent intervenir à différents moments et conduire à reprendre une opération, à réviser une distinction ou à redélimiter le problème.
 
-Elles ne constituent pas quatre opérations supplémentaires ni quatre phases à ajouter à la chaîne. Elles permettent d’examiner l’enquête à différents moments et peuvent conduire à reprendre une opération particulière ou à redélimiter le problème.
+### Temporaliser
 
-### 6.1. Temporaliser
+Temporaliser consiste à examiner les transformations pertinentes au cours du temps : modification des conditions, évolution des relations, changement de fonction ou révision des justifications.
 
-Temporaliser consiste à examiner les transformations pertinentes au cours du temps : maintien ou modification des conditions, évolution des relations, changement de fonction ou révision des justifications.
+Cette fonction permet de distinguer les transformations d’une situation de celles des descriptions qui s’y rapportent. Elle ne suppose ni une chronologie unique ni une correspondance nécessaire entre les deux.
 
-Cette fonction permet de prendre en compte les décalages entre la transformation d’une situation et celle des descriptions disponibles. Elle ne suppose ni une chronologie unique ni une correspondance nécessaire entre la transformation du référent et celle de sa description.
+### Auditer
 
-### 6.2. Auditer
+Auditer consiste à examiner les distinctions, les dépendances, les inférences et les critères mobilisés dans l’enquête.
 
-Auditer consiste à contrôler les distinctions, les dépendances et les inférences mobilisées dans l’enquête.
+L’audit peut révéler qu’une condition est traitée comme un critère, qu’une cause est assimilée à une raison, qu’une fonction est confondue avec sa justification ou qu’une conclusion dépasse ce que les éléments disponibles permettent de soutenir.
 
-L’audit peut révéler qu’une condition est traitée comme un critère, qu’une cause est assimilée à une raison, qu’une fonction est confondue avec sa justification ou qu’une conclusion dépasse ce que les prémisses disponibles autorisent à soutenir.
+Il peut conduire à reprendre une opération ou à réexaminer plusieurs résultats interdépendants. Il ne garantit pas à lui seul la validité de l’enquête.
 
-Il peut conduire à reprendre une opération ou à réexaminer plusieurs résultats qui dépendent les uns des autres.
+### Réfléchir
 
-L’audit de l’enquête doit être distingué de l’audit éditorial du corpus décrit dans le [pattern d’audit](../pattern-audit.md). Le premier examine le raisonnement et les résultats d’une enquête ; le second examine la fonction, le contenu et les relations des pages du projet.
+Réfléchir consiste à examiner les présupposés et les limites de l’enquête elle-même : catégories retenues, distinctions privilégiées, éléments laissés hors champ ou difficultés liées aux instruments employés.
 
-### 6.3. Réfléchir
+Cette fonction ne place pas l’enquêteur dans une position extérieure et infaillible. Les choix descriptifs de l’enquête peuvent eux aussi être interrogés et révisés.
 
-Réfléchir consiste à examiner les présupposés et les limites de l’enquête elle-même : catégories retenues, distinctions privilégiées, éléments laissés hors champ ou difficultés produites par les instruments employés.
+### Éprouver
 
-Cette fonction n’instaure pas un niveau supérieur soustrait à l’examen. Elle applique à l’enquête elle-même l’exigence de justification et de révision qui guide son travail.
+Éprouver consiste à confronter les distinctions et les conclusions à des cas, des comparaisons, des substitutions, des objections ou d’autres éléments pertinents.
 
-### 6.4. Éprouver
+L’épreuve ne sert pas seulement à illustrer une analyse déjà constituée. Elle peut révéler une ambiguïté, une relation négligée ou une inadéquation, et conduire à limiter ou à réviser les conclusions.
 
-Éprouver consiste à confronter les distinctions et les conclusions à des cas, à des comparaisons, à des substitutions ou à d’autres éléments pertinents.
+Le résultat d’une épreuve peut être favorable, défavorable ou indéterminé. Il ne doit pas être interprété automatiquement comme une confirmation de l’organisation proposée.
 
-L’épreuve ne sert pas seulement à illustrer une analyse déjà constituée. Elle peut révéler une distinction manquante, une relation ignorée, une ambiguïté ou une inadéquation. Ses résultats peuvent confirmer provisoirement une analyse, en limiter la portée ou conduire à la réviser.
+## 6. Rapport à la configuration descriptive
 
-## 7. Articulation avec la quadripartition de l’orientation
+La configuration descriptive désigne l’organisation des éléments retenus dans une description. L’opération **Configurer** consiste à proposer ou à réviser une telle organisation pour examiner un problème déterminé.
 
-La [Quadripartition de l’orientation](quadripartition-de-l-orientation.md) distingue quatre orientations de l’examen : **Condition, Relation, Fonction et Justification**.
+Il faut donc distinguer la configuration examinée du travail par lequel elle est reconstruite. La configuration n’est pas nécessairement donnée avant l’enquête, et l’opération Configurer ne produit pas automatiquement une description adéquate.
 
-L’architecture fonctionnelle et la quadripartition répondent à des questions différentes :
+Les éléments retenus, leurs relations et les fonctions qui leur sont attribuées peuvent changer au cours de l’examen. Une nouvelle observation peut modifier la configuration proposée ; une comparaison peut révéler que deux éléments auparavant confondus remplissent des fonctions différentes ; une justification contestée peut conduire à revoir les critères qui ont guidé l’organisation.
 
-- Les **opérations** indiquent ce que l’enquête peut faire pour traiter une difficulté.
-- Les **orientations** indiquent sous quels rapports une situation ou une pratique peut être examinée.
+La configuration est ainsi un résultat provisoire de l’analyse, susceptible de devenir à son tour un objet d’examen. Elle ne constitue ni le terme nécessaire de toute enquête ni une garantie de cohérence ou de validité.
 
-Une opération peut mobiliser plusieurs orientations ; une même orientation peut être examinée au cours de différentes opérations. Il n’existe donc pas de correspondance terme à terme entre les deux organisations.
+## 7. Rapport aux orientations de l’examen
 
-En particulier, *Ancrer* ne se confond pas avec l’orientation *Condition*. L’ancrage identifie les appuis pertinents pour l’enquête ; l’orientation Condition permet d’examiner les contraintes et les possibilités pertinentes pour le problème.
+La [quadripartition de l’orientation](quadripartition-de-l-orientation.md) propose quatre orientations pour examiner une situation ou une pratique : **Condition, Relation, Fonction et Justification**.
 
-De même, l’opération *Justifier* organise l’examen des raisons et des critères d’une conclusion, tandis que l’orientation *Justification* désigne le rapport sous lequel cette question est posée. Leur proximité est fonctionnelle, non une identité de statut.
+Les orientations et les opérations ne désignent pas deux architectures dont l’articulation serait nécessaire dans toute enquête.
 
-La quadripartition aide à identifier les questions qui restent ouvertes. L’architecture fonctionnelle organise les opérations par lesquelles elles sont examinées. Aucune des deux ne garantit à elle seule que le problème a été correctement formulé ou que les résultats sont adéquats.
+Les **opérations** désignent des travaux susceptibles de contribuer au traitement d’une difficulté. Les **orientations** proposent des questions à poser lorsque certains rapports de la situation ou de la pratique doivent être examinés.
 
-## 8. Limites et conditions de suffisance
+Il n’existe pas de correspondance terme à terme entre les deux. L’opération Ancrer peut contribuer à l’examen de conditions matérielles sans se confondre avec l’orientation Condition. L’opération Relier ne se confond pas avec l’orientation Relation. De même, Justifier désigne un travail d’examen, tandis que Justification désigne le rapport sous lequel les raisons et les critères d’une conclusion sont interrogés.
 
-L’architecture fonctionnelle fournit des repères pour organiser et reprendre une enquête. Elle ne garantit pas que toutes les opérations soient nécessaires dans chaque cas, que leur ordre soit toujours le même ou que les distinctions proposées conviennent à tous les problèmes.
+Le chevauchement des termes ne suffit ni à établir une identité ni à démontrer une différence analytique. La pertinence de cette distinction doit être évaluée dans les situations où elle est mobilisée. Une enquête peut employer les opérations sans expliciter les quatre orientations, ou recourir à une orientation particulière sans devoir parcourir toute la chaîne.
 
-Elle ne constitue pas non plus une théorie exhaustive de la description ni une garantie d’adéquation entre une description et ce qu’elle prétend décrire.
+L’architecture fonctionnelle ne dépend donc pas de l’application systématique de la quadripartition. Si celle-ci est mobilisée, elle reste un instrument révisable d’examen, non une grille exhaustive imposée à chaque problème.
 
-Une enquête peut nécessiter des opérations supplémentaires, modifier la fonction d’une opération existante ou révéler que certaines distinctions ne sont pas adaptées. Ces possibilités ne sont pas des anomalies à éliminer au nom de la complétude du cadre.
+## 8. Limites et suffisance de l’enquête
 
-Une enquête peut être considérée comme suffisamment avancée lorsque le problème est délimité de manière pertinente, que les distinctions nécessaires sont explicites, que les dépendances importantes ont été examinées et que les conclusions sont défendables dans les limites annoncées.
+L’architecture fonctionnelle fournit des repères pour organiser et reprendre l’enquête. Elle ne garantit pas que toutes les opérations soient nécessaires dans chaque cas, que leur ordre soit toujours le même ou que les distinctions proposées conviennent à tous les problèmes.
 
-Cette suffisance reste relative au problème traité. Elle ne signifie ni que toutes les questions possibles ont été résolues ni que les résultats demeureront adéquats dans toute situation ultérieure.
+Elle ne constitue pas une théorie exhaustive de la description, une procédure automatique de résolution ou une garantie d’adéquation entre une description et ce qu’elle prétend décrire.
+
+Une enquête peut nécessiter une opération supplémentaire, conduire à modifier la fonction d’une opération existante ou révéler que certaines distinctions ne sont pas adaptées. Ces possibilités ne sont pas des anomalies à éliminer pour préserver la complétude du cadre.
+
+Une enquête peut être considérée comme suffisamment avancée lorsque le problème est circonscrit de manière pertinente pour l’objectif poursuivi, que les distinctions nécessaires sont explicites, que les dépendances importantes ont été examinées et que les conclusions peuvent être défendues dans les limites annoncées.
+
+Cette suffisance reste relative au problème traité. Elle ne signifie ni que toutes les questions connexes sont résolues ni que les résultats demeureront adéquats dans toutes les situations ultérieures.
+
+Il faut enfin admettre un résultat négatif : l’enquête peut conclure que les éléments disponibles ne permettent pas de trancher. Ce constat est pertinent s’il précise ce qui manque, pourquoi cela importe et dans quelles conditions l’examen pourrait reprendre.
 
 ## Synthèse
 
@@ -193,23 +192,21 @@ L’architecture fonctionnelle organise les opérations par lesquelles Protokin 
 
 **Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter**
 
-Les opérations ont des fonctions distinctes et entretiennent des dépendances qui doivent être examinées plutôt que présupposées. Leur articulation n’impose ni une succession obligatoire ni une constitution nécessaire de l’objet décrit.
+Ces opérations remplissent des fonctions distinctes et entretiennent des dépendances qui doivent être examinées plutôt que présupposées. Leur articulation ne constitue ni une succession obligatoire ni une chaîne de constitution de l’objet décrit.
 
-Les fonctions transversales — Temporaliser, Auditer, Réfléchir et Éprouver — permettent de contrôler les transformations, les présupposés et les limites de l’enquête. La quadripartition distingue les orientations de l’examen sans se confondre avec les opérations qui le conduisent.
+Les fonctions transversales — Temporaliser, Auditer, Réfléchir et Éprouver — permettent d’examiner les transformations, les présupposés et les limites de l’enquête.
 
-Le principe directeur est de **mobiliser les opérations en fonction du problème, expliciter leurs dépendances et justifier les reprises lorsque les résultats deviennent insuffisants**.
+La configuration descriptive est une organisation à examiner et à réviser, non un résultat garanti. Les orientations de la quadripartition peuvent contribuer à cet examen, sans être nécessaires dans chaque enquête.
 
-La chaîne de Protokin est une chaîne d’enquête, non une chaîne de constitution.
-
----
+**L’architecture fonctionnelle organise les opérations possibles ; la pertinence de leur mobilisation, de leurs dépendances et de leurs reprises doit être établie à partir du problème.**
 
 Pour poursuivre :
 
 - [Introduction générale](introduction-generale.md)
 - [Architecture du projet](architecture-projet.md)
 - [Quadripartition de l’orientation](quadripartition-de-l-orientation.md)
-- [Conduire une enquête — Guide pratique](conduire-une-enquete.md)
 - [La chaîne principale de l’enquête](la-chaine-principale-de-l-enquete.md)
+- [Conduire une enquête](conduire-une-enquete.md)
 - [Table des matières](tdm.md)
 - [Patterns éditoriaux de Protokin](../patterns.md)
 - [Pattern d’audit du corpus](../pattern-audit.md)
