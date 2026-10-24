@@ -162,7 +162,7 @@ La configuration est ainsi un résultat provisoire de l’analyse, susceptible d
 
 ## 7. Rapport aux orientations de l’examen
 
-La [quadripartition de l’orientation](quadripartition-de-l-orientation.md) propose quatre orientations pour examiner une situation ou une pratique : **Condition, Relation, Fonction et Justification**.
+La [quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) propose quatre orientations pour examiner une situation ou une pratique : **Condition, Relation, Fonction et Justification**.
 
 Les orientations et les opérations ne désignent pas deux architectures dont l’articulation serait nécessaire dans toute enquête.
 
@@ -204,11 +204,11 @@ La configuration descriptive est une organisation à examiner et à réviser, no
 
 Pour poursuivre :
 
-- [Introduction générale](introduction-generale.md)
+- [Introduction générale](fr/introduction-generale.md)
 - [Architecture du projet](architecture-projet.md)
-- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md)
-- [La chaîne principale de l’enquête](la-chaine-principale-de-l-enquete.md)
-- [Conduire une enquête](conduire-une-enquete.md)
-- [Table des matières](tdm.md)
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
+- [La chaîne principale de l’enquête](fr/la-chaine-principale-de-l-enquete.md)
+- [Conduire une enquête](fr/conduire-une-enquete.md)
+- [Table des matières](fr/tdm.md)
 - [Patterns éditoriaux de Protokin](../patterns.md)
 - [Pattern d’audit du corpus](../pattern-audit.md)
