@@ -208,11 +208,11 @@ L’architecture n’est ni une description du réel ni une théorie fermée des
 
 ## Pour poursuivre
 
-- [Introduction générale](introduction-generale.md) — Situer le problème de départ et le statut de la démarche.
-- [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md) — Examiner les opérations, leurs dépendances et leurs reprises possibles.
-- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md) — Distinguer les orientations Condition, Relation, Fonction et Justification.
-- [Nom, origine et portée](nom-origine-portee.md) — Préciser la portée de la lecture conceptuelle du nom Protokin.
-- [Une première cartographie des régimes descriptifs](une-premiere-cartographie-des-regimes-descriptifs.md) — Repérer des manières d’organiser les descriptions sans imposer une classification exhaustive.
-- [Table des matières](tdm.md) — Retrouver les ressources du corpus selon leur fonction.
+- [Introduction générale](fr/introduction-generale.md) — Situer le problème de départ et le statut de la démarche.
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Examiner les opérations, leurs dépendances et leurs reprises possibles.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations Condition, Relation, Fonction et Justification.
+- [Nom, origine et portée](fr/nom-origine-portee.md) — Préciser la portée de la lecture conceptuelle du nom Protokin.
+- [Une première cartographie des régimes descriptifs](fr/une-premiere-cartographie-des-regimes-descriptifs.md) — Repérer des manières d’organiser les descriptions sans imposer une classification exhaustive.
+- [Table des matières](fr/tdm.md) — Retrouver les ressources du corpus selon leur fonction.
 - [Patterns éditoriaux de Protokin](../patterns.md) — Consulter les repères de rédaction.
 - [Pattern d’audit du corpus](../pattern-audit.md) — Examiner la fonction et les relations des pages avant une révision.
