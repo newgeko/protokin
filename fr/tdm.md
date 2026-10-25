@@ -236,6 +236,7 @@ Les instruments d’épreuve servent à examiner les distinctions, les inférenc
 - [Comparer deux descriptions](fr/comparer-deux-descriptions.md) — Examiner les différences d’engagement, de fonction et de conséquence entre deux descriptions.
 - [Exégèse](fr/exegese.md) — Reconstruire le fonctionnement descriptif d’un texte et examiner le réemploi de ses ressources dans une autre enquête.
 - [Évaluer une traduction](fr/evaluer-une-traduction.md) — Examiner les transformations produites par le passage d’une description à une autre.
+- [Révision descriptive et résultats scientifiques](fr/revision-descriptive-et-resultats-scientifiques.md) — Examiner comment un résultat scientifique peut conduire à réviser une description, les critères qui servent à l’évaluer ou les engagements ontologiques associés, sans confondre ces trois objets de révision.
 - [Butoir](fr/butoir.md) — Identifier les contraintes qui empêchent certaines interprétations ou certains enchaînements.
 
 ---
