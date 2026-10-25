@@ -1,44 +1,64 @@
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <title>PROTOKIN - Enquête sur nos pratiques descriptives</title>
 
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Protokin enquête sur les conditions, fonctions et transformations par lesquelles des pratiques rendent certaines différences descriptibles, discutables, justifiables, stabilisables, contestables et révisables.">
-  <meta name="keywords" content="Protokin, pratiques descriptives, enquête, pragmatique, inférentielle, réflexivité, description, référence, justification">
-  <meta name="author" content="PROTOKIN Project">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <title>Protokin — Enquête sur les pratiques descriptives</title>
 
-  <!-- Fonts -->
+  <meta
+    name="description"
+    content="Protokin enquête sur les conditions, fonctions et transformations par lesquelles des pratiques rendent certaines différences descriptibles, discutables, justifiables, stabilisables, contestables et révisables."
+  >
+
+  <meta
+    name="keywords"
+    content="Protokin, pratiques descriptives, enquête, pragmatisme, inférentialisme, réflexivité, description, référence, justification"
+  >
+
+  <meta name="author" content="Protokin">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index, follow">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <!-- Typographie -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;600;700&family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;600;700&family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap"
+    rel="stylesheet"
+  >
 
-  <!-- Docsify theme -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <!-- Thème Docsify -->
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"
+  >
 
   <!-- KaTeX -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css"/>
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css"
+  >
 
-  <!-- Custom CSS -->
+  <!-- Styles du site -->
   <link rel="stylesheet" href="./style.css">
 
-  <!-- Favicon -->
+  <!-- Icônes du site -->
   <link rel="icon" type="image/png" href="./assets/favicon.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-touch-icon.png">
-
-  <meta name="robots" content="index, follow">
+  <link
+    rel="apple-touch-icon"
+    sizes="180x180"
+    href="./assets/apple-touch-icon.png"
+  >
 </head>
 
 <body>
+  <div id="app">Chargement de Protokin…</div>
 
-  <div id="app">Initialisation de l'enquête...</div>
-
-  <!-- =========================
-       MERMAID
-  ========================= -->
+  <!-- Mermaid : rendu des diagrammes présents dans le corpus -->
   <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+
   <script>
     mermaid.initialize({
       startOnLoad: false,
@@ -46,145 +66,158 @@
     });
   </script>
 
-  <!-- =========================
-       DOCSIFY CONFIG
-  ========================= -->
+  <!-- Configuration Docsify -->
   <script>
     window.$docsify = {
-      name: 'PROTOKIN',
+      name: "PROTOKIN",
+      repo: "",
 
-      repo: '',
+      homepage: "README.md",
+      loadSidebar: "_sidebar.md",
 
-      loadSidebar: '_sidebar.md',
       autoHeader: true,
-      subMaxLevel: 3,
       auto2top: true,
-      homepage: 'README.md',
+      subMaxLevel: 3,
 
+      // Configuration des expressions mathématiques.
       latex: {
-        inlineMath: [['$', '$'], ['\\(', '\\)']],
-        displayMath: [['$$', '$$'], ['\\[', '\\]']],
+        inlineMath: [
+          ["$", "$"],
+          ["\\(", "\\)"]
+        ],
+        displayMath: [
+          ["$$", "$$"],
+          ["\\[", "\\]"]
+        ]
       },
 
+      // Recherche dans le corpus.
       search: {
         maxAge: 86400000,
-        paths: 'auto',
-        placeholder: 'Rechercher un concept (ontologie, individuation...)',
-        noData: 'Aucun concept trouvé.',
+        paths: "auto",
+        placeholder: "Rechercher une notion, une distinction, une opération…",
+        noData: "Aucun résultat trouvé.",
         depth: 4
       },
 
+      // Navigation entre les pages.
       pagination: {
-        previousText: 'Phase Précédente',
-        nextText: 'Phase Suivante',
+        previousText: "Page précédente",
+        nextText: "Page suivante",
         crossChapter: true
       },
 
       plugins: [
-
-        // =========================
-        // MERMAID RENDER
-        // =========================
+        // Rendu des diagrammes Mermaid.
         function (hook) {
           hook.doneEach(function () {
+            if (!window.mermaid) {
+              return;
+            }
 
-            setTimeout(() => {
+            const blocks = document.querySelectorAll(
+              "pre > code.language-mermaid, pre > code.lang-mermaid"
+            );
 
-              if (!window.mermaid) return;
+            blocks.forEach(function (block) {
+              const pre = block.parentElement;
 
-              const blocks = document.querySelectorAll(
-                'code.language-mermaid, code.lang-mermaid'
-              );
+              if (!pre || !pre.parentElement) {
+                return;
+              }
 
-              blocks.forEach(block => {
-                const pre = block.parentElement;
-                const div = document.createElement('div');
-                div.className = 'mermaid';
-                div.textContent = block.textContent;
-                pre.parentElement.replaceChild(div, pre);
+              const diagram = document.createElement("div");
+              diagram.className = "mermaid";
+              diagram.textContent = block.textContent;
+
+              pre.parentElement.replaceChild(diagram, pre);
+            });
+
+            const diagrams = document.querySelectorAll(
+              ".markdown-section .mermaid"
+            );
+
+            if (diagrams.length > 0) {
+              mermaid.run({
+                nodes: diagrams
+              }).catch(function (error) {
+                console.error(
+                  "Erreur lors du rendu d’un diagramme Mermaid :",
+                  error
+                );
               });
-
-              mermaid.init(undefined, document.querySelectorAll('.mermaid'));
-
-            }, 0);
-
+            }
           });
         },
 
-        // =========================
-        // FOOTER + NAVIGATION PROTOKIN
-        // =========================
+        // Pied de page commun aux pages du corpus.
         function (hook) {
-
           hook.afterEach(function (html) {
-
             const year = new Date().getFullYear();
 
-            const regimes = [
-              "Physico-dynamique",
-              "Cognitif",
-              "Biologique",
-              "Socio-développemental",
-              "Normatif",
-              "Métathéorique"
-            ];
+            const footer = `
+              <hr>
 
-            const regime =
-              regimes[Math.floor(Math.random() * regimes.length)];
+              <footer class="site-footer">
+                <div class="site-footer__identity">
+                  <a
+                    class="site-footer__brand"
+                    href="#/"
+                    aria-label="Protokin — Accueil"
+                  >PROTOKIN</a>
 
-            return html + `
-              <hr style="margin-top:3rem;border:0;border-top:1px solid var(--border-color);" />
+                  <p>Enquête sur les pratiques descriptives</p>
+                </div>
 
- 
-<footer class="site-footer">
-  <div class="site-footer__identity">
-    <a class="site-footer__brand" href="#/">PROTOKIN</a>
-    <p>Enquête sur les pratiques descriptives</p>
-  </div>
+                <nav
+                  class="site-footer__nav"
+                  aria-label="Navigation de fin de page"
+                >
+                  <a href="#/fr/introduction-generale">
+                    Découvrir Protokin
+                  </a>
 
-  <nav class="site-footer__nav" aria-label="Navigation de fin de page">
-    <a href="#/fr/introduction-generale">Découvrir Protokin</a>
-    <a href="#/fr/architecture-projet">Architecture du projet</a>
-    <a href="#/fr/conduire-une-enquete">Conduire une enquête</a>
-    <a href="#/fr/tdm">Table des matières</a>
-  </nav>
+                  <a href="#/fr/architecture-projet">
+                    Architecture du projet
+                  </a>
 
-  <div class="site-footer__meta">
-    <span>© <span id="site-year"></span> Protokin</span>
-    <span>Projet documentaire évolutif</span>
-  </div>
-</footer>
+                  <a href="#/fr/conduire-une-enquete">
+                    Conduire une enquête
+                  </a>
 
-<script> document.getElementById("site-year").textContent =
-    new Date().getFullYear();
-</script>
+                  <a href="#/fr/tdm">
+                    Table des matières
+                  </a>
+                </nav>
 
+                <div class="site-footer__meta">
+                  <span>© ${year} Protokin</span>
+                  <span>Projet documentaire évolutif</span>
+                </div>
+              </footer>
             `;
+
+            return html + footer;
           });
-
         }
-
       ]
     };
   </script>
 
-  <!-- =========================
-       DOCSIFY CORE
-  ========================= -->
+  <!-- Moteur Docsify -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
 
-  <!-- SEARCH -->
+  <!-- Recherche Docsify -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
 
-  <!-- KA TeX -->
+  <!-- KaTeX -->
   <script src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-latex@0"></script>
 
-  <!-- PAGINATION -->
+  <!-- Pagination -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
 
-  <!-- ZOOM IMAGE -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
-
+  <!-- Agrandissement des images -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
 </body>
 </html>
