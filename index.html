@@ -135,27 +135,30 @@
             return html + `
               <hr style="margin-top:3rem;border:0;border-top:1px solid var(--border-color);" />
 
-              <footer style="
-                text-align:center;
-                font-family:'Noto Sans',sans-serif;
-                font-size:0.85em;
-                padding:30px 0;
-                color:#888;
-                line-height:1.8;
-              ">
+ 
+<footer class="site-footer">
+  <div class="site-footer__identity">
+    <a class="site-footer__brand" href="#/">PROTOKIN</a>
+    <p>Enquête sur les pratiques descriptives</p>
+  </div>
 
-                <!-- NAVIGATION -->
-                <div style="margin-bottom:12px;">
-                  <a href="#/">Accueil</a> |
-                  <a href="../#/fr/architecture-projet.md">Architecture</a> |
-                  <a href="../#/fr/enquete.md">Enquête</a> |
-                  <a href="../#/fr/tdm.md">Table des matières</a>
-                </div>
+  <nav class="site-footer__nav" aria-label="Navigation de fin de page">
+    <a href="#/fr/introduction-generale">Découvrir Protokin</a>
+    <a href="#/fr/architecture-projet">Architecture du projet</a>
+    <a href="#/fr/conduire-une-enquete">Conduire une enquête</a>
+    <a href="#/fr/tdm">Table des matières</a>
+  </nav>
 
-                <!-- META -->
-                <div>© ${year} PROTOKIN | by <a href="http://www.newgekko.com">newgekko</a></div>
+  <div class="site-footer__meta">
+    <span>© <span id="site-year"></span> Protokin</span>
+    <span>Projet documentaire évolutif</span>
+  </div>
+</footer>
 
-              </footer>
+<script> document.getElementById("site-year").textContent =
+    new Date().getFullYear();
+</script>
+
             `;
           });
 
