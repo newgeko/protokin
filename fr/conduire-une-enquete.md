@@ -84,9 +84,18 @@ Une conclusion peut être cohérente sans être adéquate à la situation examin
 - reformuler le problème ;
 - ou arrêter provisoirement l’enquête.
 
-Une difficulté ne commande pas nécessairement une transformation générale de la pratique. Une correction locale peut suffire. À l’inverse, des difficultés récurrentes peuvent révéler que le problème initial a été mal circonscrit.
+**En cas d’impasse, procéder en quatre temps :**
 
-La décision doit être proportionnée à ce que l’enquête a effectivement établi.
+1. **Reformuler la difficulté.** Préciser ce qui bloque effectivement : manque d’éléments, distinction équivoque, relation incertaine, conclusion insuffisamment justifiée ou problème mal circonscrit.
+2. **Examiner les orientations pertinentes.** Se demander si la difficulté concerne les conditions de l’examen, les relations entre les éléments, la fonction d’une description ou la justification d’une conclusion. Il n’est pas nécessaire de mobiliser systématiquement les quatre orientations.
+3. **Repérer une conversion éventuellement injustifiée.** Vérifier, par exemple, si une condition est traitée comme un critère, si une cause est prise pour une raison ou si l’utilité d’une description est considérée comme une preuve de son adéquation. Une conversion suspectée doit être examinée, et non simplement présumée.
+4. **Choisir la reprise appropriée.** Selon le diagnostic, reprendre l’ancrage, préciser une distinction, examiner une relation, réviser une configuration ou une justification, recueillir des éléments supplémentaires, ou reformuler le problème si sa délimitation se révèle inadéquate.
+
+Ces quatre temps constituent un repère pratique, non une procédure obligatoire. Ils servent à choisir un travail pertinent plutôt qu’à appliquer automatiquement une opération. Une impasse ne commande donc pas, à elle seule, de redélimiter le problème.
+
+Une difficulté ne nécessite pas toujours une transformation générale de la pratique. Une correction locale peut suffire. À l’inverse, des difficultés récurrentes peuvent révéler que le problème initial a été mal circonscrit.
+
+La décision doit rester proportionnée à ce que l’enquête a effectivement établi. Si les éléments disponibles ne permettent pas de choisir entre plusieurs reprises, cette incertitude doit être explicitée avant de poursuivre.
 
 ## 4. Mobiliser les opérations de l’enquête
 
@@ -116,6 +125,8 @@ Ces orientations peuvent aider à repérer une question négligée ou une confus
 Une condition matérielle ne justifie pas automatiquement une conclusion. L’utilité d’une description ne garantit pas son adéquation. Une relation observée ne détermine pas à elle seule la fonction d’un élément.
 
 Les passages entre ces questions doivent être examinés dans le cas considéré. La quadripartition oriente l’examen ; elle ne préjuge pas de ses résultats.
+
+En pratique, lorsqu’une enquête rencontre une impasse, les orientations aident à préciser la nature de la difficulté et à choisir l’opération à reprendre. Elles ne déterminent pas mécaniquement cette opération : une même orientation peut conduire à plusieurs reprises selon les éléments déjà examinés et ce qui reste à établir. Le repère proposé en section 3.5 permet de conduire cet examen sans transformer la quadripartition en grille obligatoire.
 
 ## 6. Distinguer conduite d’enquête et audit
 
