@@ -96,6 +96,22 @@ Une reconstruction cohérente peut masquer une lacune si elle restitue le chemin
 
 La reconstitution doit préserver les incertitudes et les ruptures documentées, plutôt que les effacer au profit d’un parcours artificiellement continu.
 
+### Le risque de nécessité rétrospective
+
+La connaissance du résultat modifie la manière dont le cheminement antérieur peut être interprété. Une fois la conclusion connue, les observations retenues, les hypothèses abandonnées et les décisions prises peuvent sembler former une progression continue vers ce résultat. Cette intelligibilité rétrospective ne démontre pourtant pas que le résultat était nécessaire, ni que les étapes suivies constituaient le seul chemin possible.
+
+Il faut distinguer trois affirmations :
+
+- **Le cheminement a conduit au résultat** : les éléments disponibles permettent de retracer les opérations et les inférences effectivement mobilisées.
+- **Le cheminement rend le résultat intelligible** : les relations entre les éléments examinés et la conclusion peuvent être explicitées.
+- **Le cheminement rendait le résultat nécessaire** : aucune autre issue pertinente n’était possible, compte tenu des conditions et des contraintes considérées.
+
+Les deux premières affirmations ne suffisent pas à établir la troisième. Pour soutenir une prétention à la nécessité, il faudrait préciser les conditions sous lesquelles elle vaut, examiner les alternatives pertinentes et justifier pourquoi elles sont exclues. À défaut, la nécessité demeure une interprétation possible, non un résultat établi de la reconstitution.
+
+Cette précaution concerne aussi la reconstruction des raisons. Une justification formulée après coup peut rendre un choix défendable sans avoir constitué la raison effective de ce choix au moment où il a été effectué. La reconstitution doit donc distinguer les raisons documentées, celles que l’on peut raisonnablement inférer et celles qui sont proposées rétrospectivement pour rendre le parcours intelligible.
+
+**Reconstituer un cheminement ne revient pas à transformer son issue en destination nécessaire.** La reconstruction doit conserver les bifurcations, les alternatives non examinées, les décisions contingentes et les lacunes documentaires lorsque les éléments disponibles les laissent ouvertes.
+
 ## 9. Articulation avec les autres opérations
 
 Reconstituer mobilise les résultats des autres opérations sans se substituer à elles.
