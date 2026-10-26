@@ -138,19 +138,55 @@ L’audit peut donc contribuer à une enquête sans se confondre avec elle. Une 
 
 Dans les deux cas, il faut distinguer les éléments examinés, les résultats de l’examen et les conclusions que l’on en tire. Une procédure ne garantit pas à elle seule la validité de son résultat.
 
-## 7. Exemple d’application : deux descriptions d’un arbre
+## 7. Exemple d’application : le botaniste et le bûcheron
 
-Un botaniste examine l’état biologique d’un arbre. Un bûcheron évalue sa structure et les conditions d’une intervention. Leurs descriptions peuvent porter sur le même arbre tout en répondant à des questions différentes.
+Un botaniste examine l’état biologique d’un arbre. Un bûcheron évalue sa structure et les conditions d’une intervention. Leurs descriptions portent sur le même arbre, mais elles ne répondent pas nécessairement à la même question.
 
-Si leurs conclusions semblent diverger, l’enquête ne doit pas décider immédiatement que l’une est correcte et l’autre erronée.
+Supposons que le botaniste juge l’arbre vivant et biologiquement viable, tandis que le bûcheron estime qu’une intervention est nécessaire en raison d’un risque de rupture. Ces conclusions ne sont pas contradictoires par le seul fait qu’elles diffèrent. Il faut déterminer ce qu’elles affirment exactement et dans quelles conditions elles pourraient entrer en conflit.
 
-Elle peut commencer par préciser le désaccord : les deux personnes parlent-elles du même aspect de l’arbre, utilisent-elles des critères différents ou tirent-elles des conclusions incompatibles à partir des mêmes éléments ?
+### 1. Reformuler la difficulté
 
-Elle examine ensuite les observations mobilisées, les différences retenues et les objectifs poursuivis. Si une intervention commune est nécessaire, elle doit également préciser quelles conclusions sont pertinentes pour cette décision et selon quels critères elles peuvent être défendues.
+La question initiale ne doit pas être : « Lequel des deux a raison ? », mais : « Leurs conclusions portent-elles sur le même aspect de l’arbre et répondent-elles aux mêmes exigences ? »
 
-L’enquête peut ainsi établir que certaines différences de description ne constituent pas un désaccord, tout en identifiant les points qui exigent un examen supplémentaire.
+Le désaccord apparent peut concerner l’état biologique de l’arbre, sa stabilité mécanique, le risque associé à son maintien ou la décision pratique à prendre. Ces questions sont liées, mais elles ne sont pas équivalentes.
 
-Elle ne garantit pas que les deux descriptions soient compatibles. Cette compatibilité dépend de ce qu’elles affirment effectivement et des conditions dans lesquelles leurs conclusions doivent être confrontées.
+### 2. Examiner les orientations pertinentes
+
+- **Condition** : quels éléments matériels, observations et circonstances sont pertinents pour évaluer l’état de l’arbre et le risque de rupture ?
+- **Relation** : quels rapports peut-on établir entre l’état biologique, la structure de l’arbre et le risque évalué ?
+- **Fonction** : à quelle question chaque description répond-elle, et quelle décision doit-elle éventuellement contribuer à préparer ?
+- **Justification** : quels éléments, critères et raisonnements soutiennent les conclusions du botaniste et du bûcheron ?
+
+Il n’est pas nécessaire d’examiner ces quatre orientations avec la même intensité. Leur mobilisation dépend de ce que la difficulté exige d’éclaircir.
+
+### 3. Repérer une éventuelle conversion injustifiée
+
+L’enquête doit notamment vérifier qu’on ne déduit pas automatiquement de la viabilité biologique que l’arbre ne présente aucun risque mécanique, ni de l’existence d’un risque qu’il serait biologiquement mort.
+
+Ce serait traiter une conclusion portant sur une dimension comme si elle établissait une conclusion portant sur une autre. Les dimensions peuvent être liées, mais la nature et la portée de cette relation doivent être établies.
+
+Il faut également éviter de confondre l’utilité d’une description pour une décision avec la vérité de toutes les affirmations qu’elle contient. La pertinence pratique et l’adéquation descriptive doivent être examinées sans être assimilées.
+
+### 4. Choisir l’opération appropriée
+
+La suite de l’enquête dépend du problème effectivement identifié :
+
+- si les observations sur l’arbre sont insuffisantes, **Ancrer** l’enquête en recueillant des éléments pertinents ;
+- si les termes employés recouvrent des questions différentes, **Distinguer** les dimensions examinées et les conclusions associées ;
+- si le rapport entre l’état biologique et le risque mécanique reste incertain, **Relier** les éléments en examinant les dépendances pertinentes ;
+- si les éléments sont disponibles mais organisés de façon inadéquate, **Configurer** une description qui rende explicites les dimensions et leurs rapports ;
+- si les conclusions ne sont pas suffisamment étayées, **Justifier** les raisons et les critères avancés ;
+- si la question initiale mélange plusieurs problèmes, **Redélimiter** l’enquête pour les distinguer.
+
+Ces opérations ne forment pas une succession obligatoire. L’enquête peut en mobiliser plusieurs, puis reprendre celle dont les résultats restent insuffisants.
+
+### 5. Déterminer ce que l’enquête permet de conclure
+
+L’examen peut établir que les deux descriptions sont compatibles parce qu’elles répondent à des questions différentes. Il peut aussi révéler une véritable incompatibilité, une erreur dans l’une des descriptions ou un manque d’éléments empêchant de trancher.
+
+Il ne faut présumer aucune de ces issues. Si une décision d’intervention doit être prise, les critères pertinents pour cette décision doivent être explicités et les conclusions examinées au regard des éléments disponibles.
+
+**Ce que montre le cas :** conduire une enquête ne consiste ni à choisir immédiatement entre deux descriptions ni à les déclarer complémentaires. Il faut préciser la difficulté, examiner les orientations pertinentes, repérer les éventuelles conversions injustifiées et choisir les opérations adaptées à ce qui reste à établir.
 
 ## 8. Limites et conditions d’arrêt
 
