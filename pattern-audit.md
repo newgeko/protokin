@@ -1,143 +1,252 @@
-# Pattern d’audit du corpus Protokin
+# Audit du corpus Protokin
 
 ## 1. Fonction du document
 
-Ce document définit une méthode d’audit du corpus Protokin. Il aide à examiner la fonction de chaque page, les catégories qu’elle mobilise, ses relations avec les autres ressources et les éventuelles incohérences éditoriales ou conceptuelles.
+Ce document définit une méthode pour examiner la fonction des pages de Protokin, leurs relations avec les autres ressources et les conséquences éditoriales de ces relations.
 
-Il complète [`patterns.md`](patterns.md), qui définit les repères de rédaction des différents types de pages. Il ne le remplace pas :
+Il complète `patterns.md` sans en reprendre la fonction :
 
-- `patterns.md` aide à rédiger ou à réviser une page ;
-- `pattern-audit.md` aide à évaluer la place, la fonction et les relations de cette page dans le corpus.
+- `patterns.md` définit les repères pour rédiger, réviser et articuler les pages ;
+- `pattern-audit.md` permet de diagnostiquer le corpus, d’identifier les difficultés et de justifier les décisions de révision.
 
-L’audit ne vise ni à uniformiser toutes les pages ni à imposer une classification exhaustive. Il vise à rendre les décisions éditoriales explicites, vérifiables et révisables.
+L’audit porte sur le contenu effectivement présent dans le dépôt. Il ne vise ni à uniformiser les pages ni à imposer une classification exhaustive. Il doit rendre les constats, les incertitudes et les décisions explicites, vérifiables et révisables.
 
-## 2. Principe général
+Son principe directeur est le suivant :
 
-Une page doit être examinée à partir de son contenu actuel et de sa contribution effective au projet, non à partir de ce qu’elle devrait contenir selon une architecture reconstruite d’avance.
+**Ne pas réviser une page avant d’avoir identifié ce qu’elle apporte, ce qu’elle présuppose et ce que sa modification changerait dans le reste du corpus.**
 
-L’audit distingue trois questions :
+## 2. Principes de l’audit
 
-1. **Quel est l’objet principal de la page ?** Opération, notion, méthode, cas, orientation ou autre ressource.
-2. **Quelle est sa fonction propre ?** Quel problème traite-t-elle et quelle contribution apporte-t-elle ?
-3. **Quelles sont ses relations avec le corpus ?** Quelles pages complète-t-elle, présuppose-t-elle, recoupe-t-elle ou contredit-elle ?
+### 2.1. Partir de l’état réel du dépôt
 
-Ces questions sont liées, mais elles ne doivent pas être confondues. Le type d’une page ne détermine pas à lui seul sa fonction, et sa fonction ne suffit pas à déterminer toutes ses relations.
+Toute conclusion d’audit doit s’appuyer sur les fichiers réellement présents dans la branche examinée.
 
-## 3. Catégories de travail
+Pour chaque ressource concernée, vérifier :
 
-Les catégories suivantes servent de repères provisoires pour l’audit. Elles ne constituent ni une hiérarchie ontologique ni une classification nécessaire de tous les contenus.
+- son chemin exact ;
+- son contenu actuel ;
+- sa fonction effective ;
+- ses liens entrants et sortants pertinents ;
+- les pages dont elle dépend ou qui dépendent d’elle.
 
-| Catégorie | Question d’audit | Point de vigilance |
+Ne pas inférer l’existence d’un fichier à partir d’un lien, d’un ancien extrait ou d’un intitulé mentionné ailleurs.
+
+Si une ressource nécessaire est inaccessible, signaler cette limite. Le constat doit rester proportionné aux éléments effectivement consultés.
+
+### 2.2. Distinguer trois questions
+
+L’audit examine trois dimensions liées, mais distinctes.
+
+**Fonction**
+
+Quel problème la page traite-t-elle et quelle contribution apporte-t-elle ?
+
+**Relations**
+
+Comment cette contribution s’articule-t-elle avec celles des autres pages ? Quelles dépendances, complémentarités, répétitions ou tensions peut-on constater ?
+
+**Décision**
+
+Que convient-il de faire : conserver, corriger, relier, restructurer, fusionner, scinder, déplacer, archiver ou poursuivre l’examen ?
+
+Le type d’une page ne détermine pas sa fonction. Sa fonction ne suffit pas à établir toutes ses relations. Enfin, l’identification d’une difficulté ne détermine pas automatiquement la correction appropriée.
+
+### 2.3. Distinguer constat et interprétation
+
+L’audit doit permettre de reconnaître le statut de ses résultats.
+
+- **Constat vérifié** : élément directement établi par le contenu ou la structure du dépôt.
+- **Interprétation** : lecture proposée pour expliquer la fonction ou la relation observée.
+- **Tension à examiner** : difficulté réelle ou apparente dont la nature reste à préciser.
+- **Décision proposée** : intervention recommandée au regard du constat.
+- **Décision validée** : intervention retenue après examen.
+- **Modification appliquée** : changement effectivement réalisé et vérifié.
+
+Ces statuts ne sont pas interchangeables. Une hypothèse de recouvrement ne suffit pas à justifier une fusion ; une proposition de suppression ne signifie pas que le fichier a été supprimé.
+
+### 2.4. Préserver les différences fonctionnelles
+
+Deux pages peuvent traiter d’un même sujet sans être redondantes. Elles peuvent remplir des fonctions différentes, s’adresser à des problèmes distincts ou examiner des aspects complémentaires.
+
+Inversement, des titres différents ne garantissent pas que deux pages apportent des contributions distinctes.
+
+L’audit doit donc comparer les problèmes traités, les définitions, les conclusions et les usages effectifs des pages, plutôt que leurs seuls titres ou leur proximité lexicale.
+
+### 2.5. Maintenir la révisabilité
+
+L’audit n’est pas une procédure de confirmation de l’architecture existante.
+
+Une page spécialisée, une comparaison ou une étude de cas peut révéler qu’une distinction est insuffisante, qu’une définition est mal ajustée ou qu’une relation supposée doit être réexaminée.
+
+La cohérence éditoriale facilite l’examen des propositions ; elle ne garantit ni leur vérité ni leur adéquation à ce qu’elles prétendent décrire.
+
+## 3. Catégories d’audit
+
+Les catégories suivantes correspondent aux huit patterns définis dans `patterns.md`. Elles servent à identifier la fonction dominante d’une page, non à enfermer son contenu dans une classe exclusive.
+
+| Pattern | Type de page | Question principale de l’audit |
 |---|---|---|
-| Page d’orientation ou de cadrage | Situe-t-elle le problème et l’organisation du projet ? | Ne doit pas se substituer aux pages spécialisées. |
-| Architecture du projet | Rend-elle intelligibles les fonctions et les relations des ressources documentaires ? | Ne doit pas décrire à la place de l’architecture fonctionnelle le mouvement de l’enquête. |
-| Architecture fonctionnelle | Explique-t-elle les opérations, leurs dépendances et leurs reprises possibles ? | Ne doit pas présenter la chaîne comme un protocole linéaire obligatoire. |
-| Opération d’enquête | Quel examen identifiable permet-elle de conduire ? | Ne pas la confondre avec une notion générale, une étape obligatoire ou un résultat garanti. |
-| Fonction transversale | Quel aspect de l’enquête traverse-t-elle et permet-elle de contrôler ? | Ne pas la transformer en opération supplémentaire si sa fonction est transversale. |
-| Orientation d’examen | Quel rapport permet-elle d’examiner dans une configuration ? | Condition, Relation, Fonction et Justification ne sont ni des phases ni des classes d’objets. |
-| Notion | Quelle distinction ou quel problème rend-elle opératoire ? | Ne pas présupposer une définition universelle ou la confondre avec les notions voisines. |
-| Concept | Quels usages, engagements ou conséquences inférentielles organise-t-il ? | La différence entre « notion » et « concept » doit être vérifiée dans les usages du corpus, non postulée. |
-| Langage et inférence | Quels rôles jouent les propositions, assertions, substitutions, anaphores ou inférences ? | Ne pas réduire les engagements à la seule présence d’une assertion. |
-| Méthode ou instrument | Comment une description ou une distinction est-elle mise à l’épreuve ? | Un instrument ne garantit pas à lui seul la validité du résultat. |
-| Régime descriptif | Quelles règles et fonctions caractérisent une pratique descriptive ? | Ne pas le traiter comme une catégorie ontologique préexistante. |
-| Cas ou confrontation | Que permet d’examiner une situation ou une comparaison précise ? | Un exemple illustratif ne constitue pas automatiquement une épreuve suffisante. |
-| Ressource de conduite | Comment aide-t-elle à orienter ou poursuivre l’enquête ? | Ne pas la classer automatiquement parmi les opérations. |
-| Référence ou navigation | Quelle information de repérage ou d’accès fournit-elle ? | Vérifier l’exactitude et l’utilité des liens. |
-| Pattern éditorial | Quelle règle de rédaction ou de contrôle propose-t-il ? | Ne pas le confondre avec une notion ou une opération de l’enquête. |
+| A | Orientation et cadrage | La page situe-t-elle clairement le projet, son problème ou une partie de son organisation ? |
+| B | Opération d’enquête | Définit-elle un examen identifiable et précise-t-elle ses résultats et ses limites ? |
+| C | Notion | La notion apporte-t-elle une distinction nécessaire et suffisamment définie ? |
+| D | Langage, inférence et justification | Les fonctions langagières, les engagements et les justifications sont-ils distingués ? |
+| E | Méthode ou instrument | La procédure permet-elle un examen identifiable sans garantir artificiellement son résultat ? |
+| F | Relations entre notions ou régimes descriptifs | Les relations sont-elles explicitées sans confusion entre dépendance, compatibilité et identité ? |
+| G | Étude de cas | Le cas met-il effectivement une proposition ou une distinction à l’épreuve ? |
+| H | Référence ou navigation | La ressource facilite-t-elle l’accès au corpus sans reproduire inutilement ses développements ? |
 
-Une page peut relever d’un type principal et mobiliser plusieurs catégories secondaires. L’audit doit conserver cette possibilité lorsqu’elle correspond au texte.
+Une page peut mobiliser plusieurs patterns. L’audit retient un pattern principal lorsque cela facilite la décision et mentionne les fonctions secondaires seulement lorsqu’elles modifient l’analyse.
+
+Les catégories supplémentaires telles que « architecture du projet », « régime descriptif », « fonction transversale » ou « ressource de conduite » peuvent être conservées comme des **qualifications du contenu**, sans constituer automatiquement de nouveaux patterns éditoriaux.
+
+Par exemple, une page consacrée à la quadripartition peut relever principalement du pattern A, tout en examinant des relations qui intéressent le pattern F. Une page d’audit méthodologique peut relever du pattern E, tandis que `pattern-audit.md` conserve sa fonction documentaire propre : définir une méthode d’examen du corpus.
 
 ## 4. Fiche d’audit d’une page
 
-Pour chaque page examinée, renseigner les champs suivants.
+Chaque page examinée doit pouvoir être décrite à l’aide d’une fiche concise. Tous les champs ne nécessitent pas une rubrique dans le document publié.
 
 ### 4.1. Identification
 
-- **Chemin exact :** chemin constaté dans le dépôt.
-- **Titre actuel :** titre du fichier.
-- **Version examinée :** branche ou commit.
-- **Présence :** fichier existant, absent, renommé ou inaccessible.
+- **Chemin exact** : emplacement constaté dans le dépôt.
+- **Titre actuel** : titre effectivement utilisé.
+- **Version examinée** : branche ou commit.
+- **Présence** : fichier existant, absent, renommé ou inaccessible.
+- **Pattern principal** : pattern correspondant à la fonction dominante, si elle est identifiable.
 
-Ne pas inférer l’existence d’un fichier à partir d’un lien mentionné dans une autre page.
+Ne pas attribuer une fonction définitive à partir du seul titre.
 
 ### 4.2. Fonction et problème
 
-- **Type principal :** catégorie éditoriale la plus utile pour comprendre la page.
-- **Fonction propre :** contribution spécifique de la page.
-- **Problème traité :** difficulté qui justifie son existence.
-- **Résultat permis :** ce que la page aide à établir, distinguer ou examiner.
-- **Limites :** ce qu’elle ne permet pas d’établir à elle seule.
+Formuler les éléments suivants :
 
-La fonction doit être formulée de façon suffisamment précise pour distinguer la page des ressources voisines.
+- **Problème traité** : difficulté qui justifie la page.
+- **Fonction propre** : contribution spécifique au corpus.
+- **Résultat permis** : ce que la page aide à distinguer, examiner ou établir.
+- **Limites** : ce qu’elle ne permet pas d’établir à elle seule.
+- **Ressources voisines** : pages dont la comparaison est nécessaire à l’audit.
 
-### 4.3. Termes et distinctions
+La fonction doit être formulée assez précisément pour permettre de comparer la page aux ressources voisines.
 
-- Quels termes sont définis explicitement ?
-- Quels termes sont seulement mobilisés ?
-- Les termes centraux sont-ils employés de manière stable dans la page ?
-- Des sens différents d’un même terme sont-ils distingués ?
-- Des distinctions nécessaires sont-elles laissées implicites ?
-- La page présuppose-t-elle une notion qui n’est définie nulle part, ou dont le statut reste incertain ?
+### 4.3. Définitions et engagements
 
-Ne pas ajouter une définition à chaque terme rencontré. Définir ce qui est nécessaire à la fonction propre de la page et renvoyer vers les ressources appropriées pour le reste.
+Examiner les termes et les propositions nécessaires à la fonction de la page.
 
-### 4.4. Relations avec le corpus
+Questions à poser :
 
-Pour chaque relation importante, préciser sa nature :
+- Les termes centraux sont-ils définis ou leur usage est-il suffisamment explicite ?
+- Les définitions correspondent-elles aux usages effectifs du corpus ?
+- Plusieurs sens d’un même terme sont-ils distingués lorsqu’ils importent pour l’argument ?
+- Des notions sont-elles présupposées sans que cette dépendance soit claire ?
+- Les conclusions dépassent-elles les éléments ou les raisons mobilisés ?
+- La page introduit-elle un engagement théorique qui n’est pas nécessaire à son propos ?
 
-- **Complémentarité :** les pages traitent des aspects distincts d’un problème commun.
-- **Dépendance :** la compréhension d’une page requiert un résultat, une distinction ou un cadrage provenant d’une autre.
-- **Recouvrement :** plusieurs pages remplissent des fonctions partiellement semblables.
-- **Tension :** les pages formulent des propositions difficiles à rendre compatibles.
-- **Contradiction :** les propositions ne peuvent pas être maintenues ensemble dans le même sens et sous les mêmes conditions.
-- **Renvoi éditorial :** un lien aide à poursuivre la lecture sans établir une dépendance conceptuelle.
-- **Relation à vérifier :** le contenu disponible ne permet pas encore de décider.
+L’audit ne doit pas exiger une définition de chaque terme. Il doit examiner les termes dont le statut affecte la compréhension, les inférences ou les conclusions de la page.
 
-Ne pas traiter tout recouvrement comme une répétition inutile : deux pages peuvent parler du même objet en remplissant des fonctions différentes.
+### 4.4. Épreuves et exemples
 
-### 4.5. Épreuves et exemples
+Lorsqu’une page mobilise un exemple, un cas ou une procédure, déterminer son rôle.
 
-- L’exemple est-il nécessaire à la compréhension de la distinction ?
-- Permet-il de mettre à l’épreuve la proposition ou sert-il seulement à l’illustrer ?
-- Les limites de l’exemple sont-elles explicites ?
-- Une comparaison, une substitution, un contre-exemple ou une reprise serait-il plus pertinent ?
+- L’exemple clarifie-t-il une distinction ou sert-il seulement d’illustration ?
+- Une comparaison permettrait-elle de mieux identifier la différence étudiée ?
+- Un contre-exemple met-il en difficulté la définition proposée ?
+- Les matériaux disponibles soutiennent-ils l’interprétation ?
+- Les limites du cas ou de la procédure sont-elles explicites ?
 
-L’audit ne doit pas exiger artificiellement un exemple de même forme pour toutes les pages.
+L’absence d’exemple n’est pas automatiquement un défaut. Elle doit être évaluée au regard de la fonction propre de la page.
 
-## 5. Vérifier les articulations structurantes
+## 5. Examiner les relations entre les pages
 
-### 5.1. Les opérations
+### 5.1. Types de relations
 
-Vérifier que les pages consacrées à Délimiter, Ancrer, Distinguer, Relier, Configurer, Justifier, Reconstituer et Redélimiter définissent des examens distincts.
+Pour chaque relation importante, identifier sa nature.
 
-Examiner notamment :
+| Relation | Critère d’identification | Conséquence possible |
+|---|---|---|
+| Complémentarité | Les pages traitent des aspects distincts d’un problème commun. | Maintenir les deux pages et préciser leur articulation. |
+| Dépendance | Une page présuppose une définition, un résultat ou un cadrage fourni ailleurs. | Expliciter le lien ou compléter le renvoi. |
+| Recouvrement fonctionnel | Les pages apportent des contributions largement semblables. | Examiner une correction, une redistribution ou une fusion. |
+| Différence de fonction | Les pages partagent un thème mais répondent à des problèmes distincts. | Préserver leur distinction et clarifier leurs fonctions. |
+| Tension conceptuelle | Les propositions semblent difficiles à rendre compatibles. | Examiner les termes, les conditions et la portée des propositions. |
+| Contradiction | Les propositions ne peuvent être maintenues simultanément dans le même sens et sous les mêmes conditions. | Corriger, circonscrire ou documenter la contradiction. |
+| Conversion non justifiée | Une relation est transformée en identité, en succession nécessaire ou en détermination sans argument suffisant. | Réexaminer l’inférence et ses conséquences. |
+| Renvoi éditorial | Un lien facilite la navigation sans établir de dépendance conceptuelle. | Maintenir ou corriger le lien selon son utilité. |
+| Relation indéterminée | Les éléments disponibles ne permettent pas de caractériser la relation. | Conserver la question ouverte et poursuivre l’examen. |
 
-- si leur fonction est formulée en termes opératoires ;
-- si leurs conditions de mobilisation sont compréhensibles ;
-- si leurs résultats sont distingués de leurs limites ;
-- si leurs relations sont décrites comme des dépendances possibles plutôt que comme une succession obligatoire ;
-- si les reprises et les changements de périmètre sont possibles.
+Ces catégories sont des instruments de diagnostic. Elles ne constituent pas une classification exhaustive et peuvent se combiner.
 
-### 5.2. Les fonctions transversales
+### 5.2. Examiner les recouvrements
 
-Vérifier le statut et les usages de Temporaliser, Auditer, Réfléchir et Éprouver.
+Lorsqu’un recouvrement est constaté :
 
-Ces fonctions doivent être articulées au mouvement de l’enquête sans être automatiquement ajoutées à la chaîne des opérations. Si le corpus donne à l’une d’elles un statut différent, consigner cette divergence avant de la corriger.
+1. comparer les problèmes traités ;
+2. identifier la contribution de chaque page ;
+3. repérer les définitions ou développements répétés ;
+4. déterminer si les répétitions servent la compréhension locale ;
+5. identifier les différences qui justifient le maintien de pages distinctes ;
+6. formuler une décision proportionnée.
 
-### 5.3. La quadripartition
+Ne pas fusionner des pages uniquement parce qu’elles mobilisent les mêmes termes. Ne pas non plus maintenir deux pages autonomes si leur fonction et leur contribution ne peuvent pas être distinguées.
 
-Vérifier la distinction entre les quatre orientations :
+### 5.3. Examiner les tensions et contradictions
 
-- **Condition :** dans quelles conditions la situation ou la pratique est-elle possible, contrainte ou transformée ?
-- **Relation :** quelles dépendances et quelles mises en rapport faut-il examiner ?
-- **Fonction :** que fait la configuration dans la pratique examinée ?
-- **Justification :** quelles raisons, quels critères et quels engagements soutiennent ou contestent la description ?
+Lorsqu’une tension apparaît :
 
-Ne pas présenter ces orientations comme des composantes universelles du réel, des niveaux hiérarchiques ou des phases successives. Vérifier également que les usages du mot « fonction » et du mot « relation » sont suffisamment différenciés selon le contexte.
+1. identifier les propositions précises concernées ;
+2. vérifier le sens des termes dans chaque page ;
+3. préciser les conditions dans lesquelles les propositions sont avancées ;
+4. distinguer différence de définition, différence de fonction et contradiction ;
+5. déterminer si une correction locale suffit ou si plusieurs pages doivent être révisées ;
+6. conserver explicitement la difficulté si les éléments disponibles ne permettent pas de la résoudre.
 
-### 5.4. Les non-conversions
+Une contradiction ne doit pas être masquée par une harmonisation de vocabulaire. Inversement, une différence de fonction ne doit pas être traitée comme une contradiction sans examen.
 
-Rechercher les passages qui risquent de confondre des registres distincts, notamment :
+## 6. Contrôles spécifiques à l’architecture de Protokin
+
+Ces contrôles complètent les patterns généraux. Ils portent sur les articulations structurantes du projet et ne remplacent pas l’examen des arguments propres à chaque page.
+
+### 6.1. Opérations de l’enquête
+
+Examiner les pages consacrées à :
+
+**Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter.**
+
+Vérifier que :
+
+- chaque opération possède une fonction identifiable ;
+- les conditions de sa mobilisation sont suffisamment claires ;
+- les résultats sont distingués des limites de l’opération ;
+- les relations entre opérations ne sont pas transformées en succession obligatoire ;
+- les reprises, retours et changements de périmètre restent possibles ;
+- la présentation de la chaîne n’efface pas les différences entre les opérations.
+
+L’audit doit partir du contenu réel des pages. Il ne doit pas présupposer qu’une page existe pour chaque opération ni inventer un chemin manquant.
+
+### 6.2. Fonctions transversales
+
+Examiner les usages de **Temporaliser, Auditer, Réfléchir et Éprouver** lorsqu’ils sont mobilisés dans le corpus.
+
+Vérifier que leur rôle est intelligible et que leur articulation avec les opérations est explicitée lorsqu’elle importe.
+
+Ne pas les ajouter automatiquement à la chaîne des opérations. Si leur statut varie entre les pages, identifier la divergence et déterminer si elle est justifiée, provisoire ou contradictoire.
+
+### 6.3. Quadripartition
+
+Examiner les usages des quatre orientations :
+
+- **Condition** : conditions dans lesquelles une situation ou une pratique devient possible, contrainte ou transformée ;
+- **Relation** : dépendances et mises en rapport à examiner ;
+- **Fonction** : contribution ou rôle d’une configuration dans une pratique ;
+- **Justification** : raisons, critères et engagements qui soutiennent ou contestent une description.
+
+Vérifier que ces orientations ne sont pas présentées comme des phases obligatoires, des niveaux hiérarchiques ou des classes universelles d’objets.
+
+Examiner également les usages de « relation » et de « fonction » dans leurs contextes respectifs : leur présence dans plusieurs orientations ou pages ne garantit pas qu’ils y remplissent le même rôle.
+
+### 6.4. Non-conversions
+
+Rechercher les passages dans lesquels une distinction ou une dépendance risque d’être transformée en identité, en succession nécessaire ou en réduction.
+
+Les points de vigilance comprennent notamment :
 
 - cause ≠ raison ;
 - genèse ≠ justification ;
@@ -148,82 +257,142 @@ Rechercher les passages qui risquent de confondre des registres distincts, notam
 - fonction ≠ justification ;
 - incarnation ≠ réduction biologique.
 
-Ces formules sont des alertes d’audit, non des interdictions de décrire des relations entre les termes. Toute relation proposée doit préciser ce qu’elle établit et ce qu’elle ne permet pas d’inférer.
+Ces formules ne sont pas des interdictions de décrire des relations entre les termes. Elles invitent à vérifier ce que la relation établit et quelles conclusions elle autorise.
 
-## 6. Liens et navigation
+Pour chaque difficulté constatée, préciser la proposition concernée, le type de conversion suspecté et l’argument nécessaire pour la soutenir ou l’écarter.
 
-Vérifier les liens à partir des chemins réellement présents dans la branche auditée.
+### 6.5. Orientation non ontologique
 
-Pour chaque lien :
+Examiner les passages qui risquent de transformer une distinction descriptive en affirmation ontologique sans justification suffisante.
 
-1. confirmer que la cible existe ;
-2. confirmer que le chemin est correct depuis le fichier source ;
-3. vérifier que le titre et le texte du lien correspondent à la fonction de la cible ;
-4. distinguer un lien cassé d’un renvoi conceptuellement inutile ;
-5. rechercher les pages existantes qui devraient être reliées mais ne le sont pas.
+L’audit doit notamment vérifier que :
 
-La table des matières et la barre latérale ont une fonction de navigation. Elles ne doivent pas nécessairement reproduire toutes les relations conceptuelles identifiées par l’audit.
+- les pratiques descriptives ne sont pas confondues avec les objets qu’elles décrivent ;
+- les conditions d’une description ne sont pas automatiquement traitées comme les critères de sa validité ;
+- la cohérence n’est pas utilisée comme preuve suffisante d’adéquation ;
+- la révisabilité n’est pas assimilée à l’équivalence de toutes les descriptions ;
+- les propositions sur le réel, lorsqu’elles sont formulées, sont distinguées des constats portant sur les pratiques descriptives.
 
-## 7. Décisions d’audit
+Il ne s’agit pas d’exclure toute proposition portant sur le réel, mais d’examiner son statut, ses raisons et sa portée.
 
-Chaque page reçoit une décision provisoire, accompagnée d’une justification.
+## 7. Liens et navigation
 
-| Décision | Quand l’utiliser |
+L’audit doit contrôler la navigation à partir des chemins réellement présents dans la branche examinée.
+
+Pour chaque lien pertinent :
+
+1. vérifier que la cible existe ;
+2. vérifier le chemin exact depuis le fichier concerné ;
+3. confirmer que le titre et le texte du lien correspondent à la cible ;
+4. déterminer si le renvoi est utile à la fonction de la page ;
+5. repérer les dépendances importantes qui ne sont pas signalées.
+
+### Convention des liens vers le corpus français
+
+Conformément à `patterns.md`, les liens internes vers les pages du corpus français doivent employer le préfixe `fr/`, y compris depuis une page déjà située dans le répertoire `fr/`.
+
+Exemple :
+
+[Introduction générale](fr/introduction-generale.md)
+
+Cette convention doit être appliquée aux renvois du corpus français, sous réserve de vérifier le fonctionnement effectif des liens dans le dispositif de publication.
+
+Elle ne doit pas être appliquée mécaniquement aux fichiers situés à la racine du dépôt ou aux autres ressources : leurs chemins doivent correspondre à leur emplacement réel.
+
+L’audit doit distinguer :
+
+- un lien cassé ;
+- un chemin non conforme à la convention retenue ;
+- un renvoi valide mais peu utile ;
+- un renvoi conceptuellement nécessaire qui manque ;
+- une relation conceptuelle qui ne nécessite pas de lien de navigation.
+
+La table des matières et la barre latérale servent à orienter le lecteur. Elles n’ont pas à reproduire toutes les relations conceptuelles relevées par l’audit.
+
+## 8. Décisions d’audit
+
+Chaque page examinée reçoit une décision provisoire justifiée par les constats.
+
+| Décision | Critère |
 |---|---|
 | **Conserver** | La fonction est distincte et le contenu reste cohérent. |
-| **Corriger** | La page remplit une fonction utile, mais comporte des imprécisions ou des incohérences localisées. |
-| **Relier** | Le contenu est pertinent, mais ses dépendances ou ses renvois sont insuffisants. |
-| **Délimiter davantage** | La page mélange plusieurs fonctions qu’il faut distinguer avant toute réécriture. |
-| **Fusionner** | Deux pages remplissent effectivement la même fonction et leur séparation n’apporte pas de différence utile. |
-| **Déplacer ou reclasser** | La fonction reste pertinente, mais le classement documentaire ne la rend pas lisible. |
-| **Scinder** | Une page remplit plusieurs fonctions autonomes qui gagnent à être séparées. |
-| **Supprimer** | La page n’apporte plus de contribution distincte et son contenu est repris ailleurs de manière adéquate. |
-| **À examiner** | Les éléments disponibles ne suffisent pas à prendre une décision fiable. |
+| **Corriger** | La page remplit une fonction utile, mais comporte des imprécisions ou incohérences localisées. |
+| **Relier** | La contribution est pertinente, mais ses dépendances ou ses renvois sont insuffisants. |
+| **Restructurer** | L’organisation du contenu masque sa fonction ou ses distinctions principales. |
+| **Fusionner** | Plusieurs pages remplissent essentiellement la même fonction sans différence justifiant leur autonomie. |
+| **Scinder** | Une page remplit plusieurs fonctions autonomes qui gagneraient à être séparées. |
+| **Déplacer ou reclasser** | L’emplacement documentaire nuit à la lisibilité de la fonction. |
+| **Archiver ou supprimer** | La page n’apporte plus de contribution distincte et son contenu utile est préservé ou repris ailleurs. |
+| **À examiner** | Les éléments disponibles ne permettent pas encore de décider de manière fiable. |
 
-Aucune suppression, fusion ou réécriture importante ne doit être décidée sur la seule base du titre, de la place dans la table des matières ou d’une ressemblance lexicale.
+La décision doit préciser le problème auquel elle répond et les conséquences attendues. Elle ne doit pas être déduite automatiquement du pattern attribué à la page.
 
-## 8. Ordre de conduite de l’audit
+Avant une fusion, une scission, un déplacement ou une suppression, examiner les liens entrants, les renvois croisés et les conséquences sur la navigation. Toute suppression doit préserver le contenu utile et tenir compte des ressources qui dépendent du fichier.
+
+## 9. Conduite de l’audit
 
 L’audit suit un ordre de travail pratique, qui ne constitue pas une nouvelle chaîne théorique de l’enquête.
 
-1. **Inventorier** les fichiers réellement présents dans la branche choisie.
-2. **Classer provisoirement** les pages selon leur type principal.
-3. **Examiner** leur fonction et le problème qu’elles traitent.
-4. **Comparer** les définitions, distinctions et engagements des pages liées.
-5. **Cartographier** les dépendances, recouvrements, tensions et contradictions.
-6. **Vérifier** les renvois et les chemins.
-7. **Formuler** les décisions de révision et leur justification.
-8. **Réviser** les pages seulement après avoir identifié les effets attendus sur le reste du corpus.
-9. **Contrôler à nouveau** les liens et les cohérences après les modifications.
+1. **Inventorier** les fichiers présents dans la branche choisie.
+2. **Identifier** la fonction dominante des pages à examiner.
+3. **Attribuer provisoirement** un pattern principal lorsque cela facilite le diagnostic.
+4. **Examiner** les définitions, les distinctions et les engagements pertinents.
+5. **Comparer** les pages liées et caractériser leurs relations.
+6. **Contrôler** les liens et la navigation.
+7. **Formuler** les décisions possibles et leurs justifications.
+8. **Examiner les effets croisés** avant toute modification importante.
+9. **Vérifier à nouveau** les relations et les liens après les modifications.
 
-Commencer par les documents d’orientation et les pages qui organisent le corpus permet d’établir des repères communs. Cela ne dispense pas de vérifier ensuite les pages spécialisées et les cas.
+L’ordre de traitement peut être adapté à la question étudiée. Commencer par les pages d’orientation peut faciliter la compréhension du corpus, mais ne dispense pas d’examiner les pages spécialisées et les cas concrets.
 
-## 9. Registre des décisions
+L’audit doit distinguer les constats établis, les hypothèses de travail et les questions encore ouvertes. Il ne doit pas transformer une difficulté non résolue en défaut certain.
 
-Conserver un registre séparé du texte des pages auditées. Pour chaque décision, noter :
+## 10. Registre des décisions
 
-- chemin du fichier ;
-- branche ou commit examiné ;
-- constat précis ;
-- catégorie ou relation concernée ;
-- décision proposée ;
-- justification ;
-- autres fichiers susceptibles d’être affectés ;
-- vérifications restant à effectuer ;
-- statut : proposé, accepté, appliqué ou à réexaminer.
+Le suivi des décisions doit être conservé séparément du contenu ordinaire des pages auditées.
 
-Ce registre permet de distinguer un constat vérifié d’une hypothèse de travail et une proposition de révision d’une modification effectivement réalisée.
+Pour chaque décision importante, consigner :
 
-## 10. Limites de l’audit
+- le chemin du fichier ;
+- la branche ou le commit examiné ;
+- le constat précis ;
+- le pattern concerné, si pertinent ;
+- les relations ou distinctions en jeu ;
+- la décision proposée ;
+- sa justification ;
+- les autres fichiers susceptibles d’être affectés ;
+- les vérifications restant à effectuer ;
+- le statut de la décision.
+
+Les statuts recommandés sont :
+
+- **Proposé** : une intervention est envisagée ;
+- **À valider** : la décision nécessite un examen ou un accord ;
+- **Accepté** : la décision a été retenue ;
+- **Appliqué** : la modification a été effectuée ;
+- **Vérifié** : les effets attendus ont été contrôlés ;
+- **À réexaminer** : de nouveaux éléments justifient une nouvelle analyse.
+
+Ces statuts permettent de ne pas confondre une recommandation avec une modification effective.
+
+Le registre n’a pas besoin de reproduire toutes les observations de l’audit. Il doit surtout conserver les décisions dont les conséquences dépassent une correction locale.
+
+## 11. Limites de l’audit
 
 L’audit est un instrument de cohérence éditoriale et conceptuelle. Il ne garantit ni la vérité d’une description ni la validité de toutes les conclusions du corpus.
 
 Une architecture claire peut organiser des propositions inadéquates. Une terminologie stable peut maintenir une distinction mal fondée. Un lien correct peut relier des pages dont les engagements restent incompatibles.
 
-Les résultats de l’audit doivent donc rester discutables et révisables. La matrice sert à rendre les décisions explicites ; elle ne décide pas à la place de l’enquête.
+Inversement, une différence de vocabulaire ou une tension apparente ne suffit pas à établir une incohérence. Il faut examiner le problème traité, les fonctions des pages, les conditions des propositions et la portée des conclusions.
+
+L’audit ne décide pas à la place de l’enquête. Il rend les difficultés plus visibles, les décisions plus explicites et les révisions plus faciles à contrôler.
 
 ## Synthèse
 
-L’audit du corpus Protokin examine conjointement la fonction des pages, les catégories qu’elles mobilisent, les relations qu’elles entretiennent et les conséquences éditoriales de ces relations. Il vise à prévenir les doublons, les glissements de sens, les dépendances implicites et les incohérences de navigation sans transformer le corpus en système fermé.
+L’audit du corpus Protokin examine la fonction des pages, les distinctions qu’elles mobilisent, les relations qu’elles entretiennent et les conséquences éditoriales de ces relations.
 
-**Règle directrice : ne pas réviser une page avant d’avoir identifié ce qu’elle apporte, ce qu’elle présuppose et ce que sa modification changerait dans le reste du corpus.**
+Il s’articule avec les huit patterns de `patterns.md` sans reproduire leurs consignes de rédaction. Il permet d’identifier les recouvrements, les dépendances implicites, les tensions conceptuelles, les conversions injustifiées et les défauts de navigation.
+
+Sa règle directrice reste :
+
+**Identifier la contribution propre de chaque page, examiner ses relations avec le corpus et justifier toute modification par le problème effectivement constaté.**
