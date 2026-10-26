@@ -48,6 +48,38 @@ La distinction n’impose pas une succession temporelle uniforme. Une descriptio
 
 Une réponse perceptive peut donc contribuer à une description sans la déterminer à elle seule.
 
+## RDRD et entrée perceptive
+
+Le problème de l’entrée perceptive consiste à examiner comment les interactions avec l’environnement contribuent à la production de descriptions susceptibles d’être évaluées dans une pratique discursive.
+
+Les dispositions de réponse différentielle fiable permettent de préciser une partie de ce problème. Elles désignent des capacités à répondre de manière différenciée à certaines situations ou variations de l’environnement. Elles peuvent ainsi contribuer à expliquer pourquoi une personne remarque une différence, reconnaît une configuration ou produit un rapport perceptif plutôt qu’un autre.
+
+Cette contribution ne détermine toutefois pas à elle seule le contenu de la description. Une réponse causée par une situation ne précise pas automatiquement ce que le locuteur identifie, les concepts qu’il mobilise ni les engagements associés à son assertion.
+
+Il faut donc distinguer trois questions :
+
+- **Production de la réponse :** quelles conditions permettent d’expliquer que cette réponse se produise ?
+- **Contenu de la description :** quelles ressources permettent d’identifier ce qui est décrit et de comprendre l’assertion formulée ?
+- **Statut justificatoire :** quelles raisons, quels critères ou quels éléments permettent de soutenir ou de contester cette assertion ?
+
+Ces questions sont liées. Les conditions de production peuvent contribuer à la qualité d’une observation, et le contenu de la description peut orienter les discriminations ultérieures. Mais aucune de ces relations ne permet de convertir directement une explication causale en justification.
+
+Les RDRD constituent ainsi un appui possible pour examiner l’entrée perceptive dans une pratique descriptive, non une explication suffisante du passage de la perception au contenu conceptuel.
+
+## Le rapport observationnel : réponse et statut conceptuel
+
+L’analyse sellarsienne du rapport observationnel permet de préciser la relation entre une réponse perceptive et une assertion. Le fait qu’une assertion soit produite sans inférence consciente préalable ne signifie pas que son contenu soit indépendant des relations inférentielles qui organisent son usage.
+
+Il faut distinguer deux dimensions.
+
+La première concerne la disposition à produire une réponse dans certaines circonstances. Une personne peut, par exemple, être disposée à dire « ceci est rouge » lorsqu’elle observe un objet rouge dans des conditions appropriées. Cette disposition peut être étudiée en examinant les circonstances dans lesquelles la réponse apparaît, sa régularité et les erreurs auxquelles elle est exposée.
+
+La seconde concerne le rôle de cette réponse dans une pratique discursive. L’assertion « ceci est rouge » engage son auteur et entretient des relations avec d’autres assertions : « ceci est coloré », par exemple, ou « ceci n’est pas vert », selon les usages et les conditions considérés. Elle peut être contestée, corrigée ou reprise comme prémisse d’un raisonnement.
+
+Le caractère non inférentiel d’un rapport observationnel concerne donc la manière dont il est produit dans une situation donnée. Il ne signifie pas que son contenu serait dépourvu de relations conceptuelles ou qu’il pourrait justifier une affirmation indépendamment de toute autre compétence.
+
+Une réponse perceptive peut ainsi constituer un point d’entrée dans une pratique discursive sans former un fondement autonome de la connaissance. Sa portée dépend à la fois des dispositions qui contribuent à sa production et des normes qui permettent de l’évaluer.
+
 ## Fiabilité et conditions d’observation
 
 La fiabilité d’une disposition ne se juge pas indépendamment de la tâche pour laquelle elle est mobilisée.
@@ -83,6 +115,20 @@ Il faut ainsi maintenir les distinctions suivantes :
 
 Ces distinctions ne diminuent pas l’importance de la perception. Elles précisent ce qu’elle contribue à établir et ce qui exige un examen supplémentaire.
 
+## Attribution de fiabilité et suivi des engagements
+
+La notion de RDRD soulève une question supplémentaire : comment la fiabilité d’un rapport perceptif peut-elle être reconnue et mobilisée dans une pratique collective ?
+
+Dans l’approche de Brandom, les participants ne se contentent pas de produire des assertions. Ils suivent également les engagements pris par les autres, les conséquences de ces engagements et les conditions dans lesquelles les locuteurs sont habilités à maintenir leurs affirmations. Ce suivi des statuts discursifs est souvent désigné par le terme de *scorekeeping*.
+
+Un interlocuteur peut ainsi considérer qu’un observateur est généralement fiable pour reconnaître certaines différences dans des conditions déterminées. Il peut alors prendre son rapport comme un élément pertinent pour soutenir une conclusion. La fiabilité de l’observateur entre dans le raisonnement de l’interlocuteur : elle contribue à expliquer pourquoi ce dernier accepte de s’appuyer sur le rapport plutôt que de le traiter comme une assertion quelconque.
+
+Cette inférence dépend toutefois de la description de la compétence attribuée. Être fiable pour distinguer certaines couleurs sous un éclairage contrôlé ne signifie pas être fiable pour toute identification de couleur, dans toutes les circonstances. La portée de l’attribution doit donc être précisée et peut être contestée.
+
+Il faut également distinguer la reconnaissance de cette fiabilité de la justification finale de la conclusion. Le fait qu’un groupe accorde du crédit à un observateur ne suffit pas à établir que son rapport est correct. La reconnaissance collective peut être pertinente sans être infaillible ; elle reste elle-même susceptible d’examen.
+
+Dans Protokin, cette analyse permet de distinguer trois éléments : la disposition qui contribue à produire une réponse, l’attribution de fiabilité qui autorise à lui accorder un certain crédit, et la justification de la conclusion que l’on tire du rapport. Ces éléments peuvent se soutenir mutuellement, mais ils ne sont pas interchangeables.
+
 ## Exemple discriminant : reconnaître une variation de couleur
 
 Une personne doit déterminer si la peinture d’un vélo correspond à une couleur de référence. Elle compare le vélo à un échantillon dans un espace éclairé.
@@ -108,6 +154,18 @@ La notion de RDRD concerne les dispositions à répondre de manière différenci
 - La [déixis](fr/deixis.md) examine la manière dont une désignation dépend de la situation dans laquelle elle est produite.
 
 Ces relations ne constituent pas une chaîne obligatoire. Une enquête peut commencer par une réponse instrumentale contestée, une divergence entre observateurs, une difficulté de classification ou un désaccord sur les critères. La pertinence des notions mobilisées dépend du problème rencontré.
+
+## Fiabilité et identification de ce qui est décrit
+
+La fiabilité d’une réponse ne suffit pas à déterminer quel objet ou quelle propriété cette réponse permet d’identifier. Une même trace perceptible peut être pertinente pour plusieurs descriptions, et une réponse correctement produite peut être interprétée de manière inadéquate.
+
+Un instrument peut, par exemple, détecter régulièrement une trace dans une chambre à bulles. Cette régularité ne permet pas à elle seule d’établir à quelle particule attribuer la trace ni quelles propriétés de cette particule peuvent être inférées. Il faut aussi examiner les modèles mobilisés, les relations entre les traces et les phénomènes étudiés, ainsi que les critères qui permettent de départager les interprétations possibles.
+
+La difficulté n’est donc pas seulement de déterminer si une réponse est fiable, mais aussi de préciser ce qu’elle permet d’identifier et dans quelles conditions cette identification est défendable.
+
+Cette distinction rejoint les problèmes de référence et de triangulation étudiés notamment dans les traditions associées à Davidson et Brandom. Elle ne se résout toutefois pas par la seule attribution sociale de fiabilité : l’identification proposée doit elle aussi pouvoir être examinée.
+
+Pour Protokin, il faut ainsi distinguer la fiabilité d’une réponse, l’identification de ce qui est décrit et la justification de cette identification. Leur articulation dépend du problème étudié et des éléments disponibles.
 
 ## Limites et non-conversions
 
