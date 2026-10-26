@@ -1,140 +1,149 @@
-Catégorie — Organiser des différences pertinentes
+# Catégories descriptives — Organiser des différences pertinentes
 
-Fonction
+## 1. Fonction
 
-Une catégorie permet de regrouper ou de distinguer des occurrences selon une différence jugée pertinente dans une pratique déterminée.
+Cette page définit la fonction des catégories dans les pratiques descriptives. Elle examine comment une catégorie permet de regrouper ou de distinguer des occurrences selon une différence jugée pertinente, sans présupposer que cette différence épuise ce qui caractérise les occurrences concernées.
 
-Elle rend possible un traitement descriptif commun de plusieurs occurrences sans supposer qu’elles sont identiques sous tous les rapports.
+Elle précise ce que l’application d’une catégorie permet d’établir et ce qu’elle ne suffit pas à justifier.
 
-Problème
+## Problème
 
-Une pratique descriptive rencontre des occurrences singulières qu’elle doit identifier, comparer, regrouper ou distinguer. Pour accomplir ces opérations, elle mobilise des catégories.
+Une pratique descriptive doit pouvoir identifier, comparer ou distinguer des occurrences. Pour cela, elle mobilise des catégories qui rendent certaines différences pertinentes pour une question déterminée.
 
-Une difficulté apparaît lorsque la catégorie est confondue avec le mot qui la désigne, avec les occurrences auxquelles elle s’applique ou avec la validité de son application.
+Une difficulté apparaît lorsque le fait de classer est confondu avec la correction du classement, lorsque le nom d’une catégorie est pris pour une définition suffisante de son usage, ou lorsque le regroupement est traité comme la preuve que les occurrences partagent toutes les mêmes propriétés.
 
-Dire qu’une occurrence relève d’une catégorie ne suffit pas à établir que cette catégorisation est correcte. Il faut encore déterminer quelle différence est retenue, pourquoi elle est pertinente et dans quelles limites le regroupement peut être maintenu.
+La question directrice est la suivante :
 
-La question d’enquête est donc la suivante :
+**Selon quelle différence des occurrences sont-elles regroupées ou distinguées, et qu’autorise ce regroupement dans la pratique concernée ?**
 
-Selon quelle différence des occurrences sont-elles regroupées ou distinguées, et qu’autorise ce regroupement dans la pratique concernée ?
+## 2. Définition
 
-Définition
+Dans Protokin, une **catégorie descriptive** est une ressource permettant de regrouper ou de distinguer des occurrences selon une différence pertinente pour une pratique descriptive.
 
-Une catégorie est une manière relativement stabilisée de regrouper ou de distinguer des occurrences selon une différence pertinente pour une pratique descriptive.
+La pertinence de cette différence dépend du problème traité et des usages concernés. Deux occurrences peuvent relever d’une même catégorie pour une question donnée et devoir être distinguées pour une autre.
 
-La pertinence de cette différence dépend du problème traité. Deux occurrences peuvent relever d’une même catégorie pour un usage donné et devoir être distinguées pour un autre.
+Une catégorie sélectionne ainsi un rapport de comparaison ou de différenciation. Elle ne résume pas toutes les caractéristiques des occurrences auxquelles elle s’applique et ne détermine pas, à elle seule, la portée des conclusions que l’on peut en tirer.
 
-Une catégorie ne résume donc pas tout ce qui caractérise les occurrences qu’elle regroupe. Elle rend certaines différences opératoires pour une pratique, tout en laissant d’autres différences hors de son champ.
+Une catégorie peut être explicitement définie, réglée par des critères établis ou mobilisée dans des usages qui ne sont pas entièrement formulés. Son statut doit être examiné à partir de la pratique concernée, plutôt que présupposé comme une propriété intrinsèque des occurrences.
 
-La catégorie ne doit pas être comprise d’emblée comme une classe naturelle, une propriété intrinsèque ou une entité mentale. Le statut du regroupement doit être examiné en fonction de la pratique et des éléments qui permettent de le défendre.
+## 3. Distinctions nécessaires
 
-Distinctions nécessaires
+### Catégorie et mot
 
-Catégorie et mot
+Le mot est une ressource linguistique qui peut désigner une catégorie, contribuer à son apprentissage ou permettre de la communiquer. Il ne se confond pas avec la catégorie elle-même.
 
-Le mot est une ressource linguistique qui peut désigner une catégorie, contribuer à son apprentissage ou permettre de la communiquer.
+L’emploi d’un même mot ne garantit pas que plusieurs personnes regroupent les occurrences selon les mêmes différences. Inversement, une distinction catégorielle peut être mobilisée sans que son nom soit explicitement formulé.
 
-Il ne se confond pas avec la catégorie elle-même. Employer un même mot ne garantit pas que les occurrences soient regroupées selon les mêmes critères ; inversement, une distinction catégorielle peut être mobilisée sans que son nom soit explicitement prononcé.
+**Mot ≠ catégorie.**
 
-Mot ≠ catégorie.
+### Catégorie et occurrence
 
-Catégorie et occurrence
+Une occurrence est un cas singulier auquel une catégorie peut être appliquée. La catégorie permet de traiter ce cas comme comparable à d’autres sous un rapport déterminé.
 
-L’occurrence est le cas singulier auquel une catégorie peut être appliquée. La catégorie permet de traiter ce cas comme comparable à d’autres, sous un rapport déterminé.
+Une même occurrence peut relever de plusieurs catégories selon le problème examiné. Elle ne se réduit à aucune de ces catégorisations.
 
-Une occurrence peut relever de plusieurs catégories selon les questions posées. Elle ne se réduit à aucune d’elles.
+**Catégorie ≠ occurrence.**
 
-Catégorie ≠ occurrence.
+### Catégorie et critère
 
-Catégorie et expérience
+La catégorie permet de regrouper ou de distinguer des occurrences. Un critère précise ce qui compte pour évaluer l’application d’une catégorie ou une conclusion formulée à partir d’elle.
 
-Une expérience peut comporter une perception ou une réaction sans que la catégorisation correspondante soit déjà explicitement formulée.
+La distinction est importante : identifier la catégorie employée ne suffit pas à déterminer les exigences de son application. Inversement, un critère ne détermine pas à lui seul quelles catégories sont disponibles ni lesquelles sont pertinentes pour le problème.
 
-Il faut distinguer ce qui est éprouvé, la manière dont une occurrence est différenciée et le regroupement descriptif éventuellement mobilisé. Ces dimensions peuvent être liées sans être équivalentes.
+L’examen détaillé des critères relève de la page [Critère](fr/critere.md).
 
-Expérience ≠ catégorisation.
+**Catégorie ≠ critère.**
 
-Catégorie et critère
+### Catégorie et prédication
 
-La catégorie organise un regroupement ou une distinction. Un critère permet d’évaluer si une occurrence peut légitimement être classée dans cette catégorie, dans une pratique donnée.
+La prédication désigne la fonction par laquelle un prédicat est attribué à un élément ou à une situation. Une catégorie peut intervenir dans une telle attribution, mais les deux notions ne désignent pas la même fonction.
 
-Les deux sont liés, mais leur relation ne doit pas être présupposée : il faut identifier les critères effectivement mobilisés et examiner leur pertinence.
+Il faut distinguer la catégorie mobilisée, l’attribution effectuée et l’évaluation de cette attribution. Le fait qu’une qualification soit formulée ne suffit pas à établir qu’elle est correcte.
 
-Catégorie ≠ critère.
+Voir [Prédication](fr/predication.md).
 
-Catégorisation et validité
+### Catégorie et taxonomie
 
-Le fait qu’une occurrence ait été classée établit qu’une catégorisation a été effectuée. Il n’établit pas, à lui seul, que cette application est correcte, pertinente ou justifiable.
+Une catégorie peut être examinée isolément, en fonction de la différence qu’elle permet de retenir. Une taxonomie descriptive concerne l’organisation des relations entre plusieurs catégories : inclusion, différenciation, opposition, complémentarité ou recoupement.
 
-Catégorisation ≠ validité.
+La question de savoir comment une catégorie fonctionne n’est donc pas identique à celle de savoir comment plusieurs catégories sont organisées les unes par rapport aux autres.
 
-Fonction dans l’enquête
+L’organisation de ces relations relève de la page [Taxonomies descriptives](fr/taxonomies.md).
 
-La notion de catégorie intervient lorsqu’un problème exige d’examiner comment des occurrences sont regroupées ou différenciées.
+### Catégorie et validité
 
-Elle permet notamment de :
+Le fait qu’une occurrence ait été classée dans une catégorie établit qu’une catégorisation a été effectuée. Il ne démontre pas, à lui seul, que cette application est correcte, pertinente ou justifiable.
 
-- préciser la différence selon laquelle plusieurs occurrences sont traitées comme comparables ;
-- identifier ce qui est conservé communément et ce qui est laissé de côté ;
-- comparer les catégorisations mobilisées dans plusieurs pratiques ;
-- examiner les conditions dans lesquelles une catégorie cesse d’être pertinente ;
-- interroger les critères qui permettent de défendre ou de contester son application.
+La validité dépend des exigences applicables, des éléments disponibles et de la portée de la conclusion. Elle ne découle pas de la seule présence d’une catégorie reconnue dans une pratique.
 
-Une catégorie peut ainsi devenir un objet d’enquête lorsque son application produit des cas litigieux, lorsque de nouvelles occurrences résistent au regroupement existant ou lorsque plusieurs pratiques utilisent une même catégorie sans lui donner la même portée.
+## 4. Exemple discriminant : un lot déclaré recyclable
 
-L’enquête ne doit pas supposer que toute différence observée impose une nouvelle catégorie, ni que toute catégorie doit rester stable. La pertinence d’une distinction dépend du problème et peut être révisée.
+Un lot de matériaux peut être classé comme recyclable dans une pratique de collecte. Cette catégorie permet de traiter ensemble certaines occurrences et d’orienter leur prise en charge.
 
-Exemple : le même arbre, deux catégorisations
+Toutefois, l’étiquette « recyclable » ne suffit pas à établir que chaque élément du lot peut être effectivement recyclé dans les conditions disponibles. La composition des matériaux, leur état, les règles de tri et les capacités de traitement peuvent modifier la portée de la catégorisation.
 
-Un botaniste et un bûcheron examinent le même arbre.
+Il faut donc distinguer plusieurs questions :
 
-Le botaniste peut le catégoriser selon son espèce, son état biologique ou son stade de développement. Le bûcheron peut le considérer comme un bois exploitable, trop fragile ou inadapté à une opération donnée.
+- quelle catégorie est employée ;
+- quelles différences permettent d’y rattacher les éléments du lot ;
+- quels critères règlent cette application ;
+- ce que la catégorisation autorise à conclure sur le traitement effectif du lot.
 
-Ces catégorisations ne sont pas nécessairement contradictoires : elles répondent à des questions différentes et retiennent des différences distinctes.
+L’exemple montre qu’une catégorie rend possible un regroupement descriptif utile, sans garantir à elle seule la correction de chaque application ni les résultats pratiques qui en sont attendus.
 
-Leur compatibilité ne peut toutefois pas être présumée dans tous les cas. Si l’état de l’arbre compromet sa résistance, une caractérisation biologique et une évaluation de son aptitude à l’abattage peuvent devoir être confrontées.
+## 5. Fonction dans l’enquête
 
-L’enquête doit alors préciser ce que chaque catégorie permet d’établir, les critères de son application et les relations entre les conclusions avancées.
+Une catégorie devient un objet d’examen lorsque son application ne permet plus de traiter suffisamment le problème rencontré.
 
-L’exemple montre qu’une catégorie organise un rapport descriptif aux occurrences. Elle ne détermine pas à elle seule la totalité de leurs propriétés, ni la validité des conclusions formulées à leur sujet.
+Cela peut se produire lorsqu’une occurrence résiste au classement disponible, lorsque plusieurs pratiques emploient une même catégorie avec des portées différentes, ou lorsque les conclusions tirées d’une catégorisation dépassent les éléments qui la soutiennent.
 
-Limites et non-conversions
+L’enquête peut alors conduire à :
+
+- préciser la différence retenue par la catégorie ;
+- comparer les usages d’une même catégorie dans plusieurs pratiques ;
+- examiner les critères de son application ;
+- déterminer ce que le classement permet effectivement d’inférer ;
+- réviser la catégorie, ses conditions d’application ou la portée des conclusions qui en dépendent.
+
+Aucune de ces possibilités ne constitue une étape obligatoire. La manière d’examiner la catégorie dépend de la difficulté rencontrée.
+
+Dans l’architecture fonctionnelle de l’enquête, les catégories descriptives ne doivent pas être confondues avec les **catégories fonctionnelles** qui regroupent les opérations d’enquête. Les premières organisent des différences dans les pratiques descriptives ; les secondes organisent la présentation des opérations selon leur fonction principale.
+
+La catégorie descriptive n’est donc ni une opération supplémentaire ni une orientation particulière de l’enquête. Son examen peut mobiliser différentes opérations et orientations selon le problème à traiter.
+
+Voir [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) et [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md).
+
+## 6. Limites et non-conversions
 
 Une catégorie ne permet pas, à elle seule, d’établir :
 
-- la nature intrinsèque de toutes les occurrences qu’elle regroupe ;
-- la cause de son apparition ou de son maintien ;
-- la validité de chacune de ses applications ;
-- les critères qui justifient son emploi ;
-- l’expérience vécue par une personne confrontée à une occurrence ;
-- la signification complète du mot qui la désigne.
+- que toutes les occurrences regroupées partagent les mêmes propriétés ;
+- que la différence retenue est pertinente pour tout problème ou tout usage ;
+- que chaque application de la catégorie est correcte ;
+- que les critères d’application sont suffisants ou appropriés ;
+- que l’utilité pratique du classement justifie toutes les conclusions qui en sont tirées ;
+- que le regroupement correspond à une classe naturelle ou à une propriété intrinsèque.
 
 Il faut notamment éviter les conversions suivantes :
 
-- catégorie → propriété intrinsèque : le regroupement descriptif est traité comme une propriété nécessaire des occurrences ;
-- mot → catégorie : le terme employé est supposé déterminer à lui seul le regroupement effectivement pratiqué ;
-- catégorisation → validité : le fait de classer est pris pour une preuve de la correction du classement ;
-- fonction → justification : l’utilité d’une catégorie est tenue pour suffisante pour justifier son application.
+- **Mot → catégorie :** le nom employé est supposé déterminer à lui seul la catégorisation effective.
+- **Catégorisation → validité :** le fait de classer est pris pour une preuve de la correction du classement.
+- **Catégorie → propriété intrinsèque :** la différence retenue pour le classement est traitée comme une propriété nécessaire de toutes les occurrences regroupées.
+- **Fonction → justification :** l’utilité d’une catégorie est considérée comme suffisante pour justifier son application.
+- **Catégorie → taxonomie :** l’existence d’une catégorie est tenue pour suffisante pour établir l’organisation de ses relations avec d’autres catégories.
 
-Ces distinctions n’interdisent pas d’établir des relations entre les termes. Elles imposent d’examiner les conditions dans lesquelles ces relations sont pertinentes.
+Ces non-conversions n’interdisent pas d’établir des relations entre les éléments concernés. Elles rappellent que chaque passage demande des éléments ou des arguments appropriés.
 
-Articulation avec l’enquête
+## 7. Synthèse
 
-La catégorie est une ressource descriptive, non une orientation supplémentaire de la quadripartition ni une étape nécessaire de la chaîne de l’enquête.
+Une catégorie descriptive permet de regrouper ou de distinguer des occurrences selon une différence pertinente pour une pratique. Elle rend certaines comparaisons et certains traitements possibles, sans épuiser les caractéristiques des occurrences ni garantir la correction de chaque application.
 
-Selon le problème rencontré, son examen peut mobiliser les quatre orientations :
+**La catégorie organise une différence ; elle ne suffit pas à justifier son application ni les conclusions qui en sont tirées.**
 
-- Condition : quelles conditions influencent la disponibilité ou l’application de la catégorie ?
-- Relation : quelles différences et quelles dépendances structurent le regroupement ?
-- Fonction : quel rôle la catégorie joue-t-elle dans la pratique considérée ?
-- Justification : quels critères permettent de défendre ou de contester son application ?
+## 8. Pour poursuivre :
 
-Ces questions ne constituent ni quatre propriétés de la catégorie ni quatre étapes obligatoires. Elles orientent l’examen lorsque le problème le nécessite.
-
-La catégorie peut notamment être examinée lors de l’opération Distinguer, puis mise en relation avec d’autres ressources descriptives. Mais sa présence ne prescrit pas à elle seule l’ordre des opérations de l’enquête.
-
-Synthèse
-
-Une catégorie organise une différence pertinente entre des occurrences pour une pratique descriptive. Elle permet de les regrouper ou de les distinguer sous un rapport déterminé, sans épuiser ce qui les caractérise.
-
-Une catégorie rend un regroupement descriptif possible ; elle ne suffit pas à justifier son application.
+- [Taxonomies descriptives](fr/taxonomies.md) — Examiner les relations entre plusieurs catégories.
+- [Critère](fr/critere.md) — Examiner les exigences qui permettent d’évaluer une attribution.
+- [Prédication](fr/predication.md) — Examiner la fonction d’attribution d’un prédicat.
+- [Norme descriptive](fr/norme-descriptive.md) — Examiner les contraintes qui règlent la production et l’évaluation des descriptions.
+- [Objet descriptif](fr/objet-descriptif.md) — Examiner la stabilisation d’une différence comme identifiable et réutilisable.
