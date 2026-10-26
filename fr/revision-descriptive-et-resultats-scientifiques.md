@@ -55,6 +55,24 @@ Ces transformations ne se réduisent pas à une correction de formulation. Elles
 
 Toutefois, modifier une description ou ses critères ne suffit pas à établir que les engagements ontologiques associés doivent être abandonnés. Réciproquement, un engagement concernant l’existence peut être révisé sans que toutes les descriptions dans lesquelles il intervenait perdent leur utilité.
 
+## Formes de révision et diagnostic de l’erreur
+
+Une difficulté rencontrée ne détermine pas à elle seule la forme de révision requise. Avant de modifier une description, l’enquête doit examiner où se situe précisément le problème et ce que les éléments disponibles permettent de mettre en cause.
+
+Plusieurs cas doivent être distingués :
+
+- **Corriger une application** : la description et le critère peuvent rester pertinents, alors que le cas a été mal observé, mal classé ou mal traité.
+- **Réviser une description locale** : l’énoncé, sa portée ou ses qualifications doivent être modifiés pour rendre compte des éléments disponibles, sans que les catégories générales de la pratique soient nécessairement remises en cause.
+- **Réviser un critère** : la règle utilisée pour reconnaître, comparer ou évaluer les cas ne permet pas de traiter adéquatement le problème, ou sa portée doit être précisée.
+- **Reconfigurer les catégories et leurs relations** : les distinctions existantes ne permettent plus d’organiser les cas ou de rendre compte de leurs relations. Il peut alors être nécessaire de revoir le réseau conceptuel mobilisé, sans présumer que toute la pratique doit être abandonnée.
+- **Réexaminer un engagement ontologique** : les résultats et les raisons disponibles mettent en question une affirmation concernant l’existence ou les propriétés de ce qui est décrit.
+
+Ces possibilités peuvent se combiner, mais elles ne sont pas équivalentes. Une anomalie peut résulter d’une erreur d’application, d’une condition d’observation inadéquate, d’une hypothèse auxiliaire contestable ou d’une catégorie insuffisante. Elle ne prouve donc pas, à elle seule, que le concept concerné doit changer.
+
+La révision du contenu conceptuel demande un examen supplémentaire : il faut établir quelles inférences, incompatibilités ou conditions d’application sont effectivement en cause, puis justifier les modifications proposées. De même, une reconstruction rétrospective cohérente du changement ne suffit pas à montrer que celui-ci était nécessaire ni que la nouvelle description est adéquate.
+
+Le diagnostic doit ainsi préciser **ce qui est mis en difficulté, le type de révision envisagé et les raisons qui permettent de le défendre**. Si les éléments disponibles ne permettent pas de trancher, maintenir la question ouverte constitue une conclusion recevable de l’enquête.
+
 ## Distinctions nécessaires
 
 ### Résultat scientifique et conclusion de l’enquête
