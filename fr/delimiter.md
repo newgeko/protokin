@@ -1,6 +1,6 @@
 # Délimiter — Formuler le problème d’enquête
 
-## Fonction
+## 1. Fonction
 
 Délimiter consiste à préciser ce qui fait problème dans une pratique descriptive et à déterminer provisoirement ce que l’enquête doit examiner.
 
@@ -8,7 +8,7 @@ L’opération transforme une difficulté encore indéterminée en une question 
 
 **Délimiter, c’est rendre un problème enquêtable sans présumer de sa solution.**
 
-## Problème
+## 2. Problème
 
 Une pratique descriptive peut rencontrer une difficulté sans que sa nature soit immédiatement claire.
 
@@ -32,7 +32,7 @@ Ces éléments sont des repères, non les étapes obligatoires d’une procédur
 
 Le périmètre doit être assez précis pour permettre un examen, mais suffisamment ouvert pour que les résultats puissent conduire à le modifier. Il ne s’agit ni de tout inclure ni de déclarer insignifiant ce qui reste provisoirement hors champ.
 
-## Conditions d’emploi
+## 3. Conditions d’emploi
 
 Délimiter est pertinent lorsqu’une difficulté est suffisamment repérable pour appeler un examen, mais que sa formulation, sa portée ou les éléments à examiner restent incertains.
 
@@ -47,7 +47,7 @@ L’opération peut notamment être mobilisée lorsque :
 
 Cette liste n’est pas exhaustive. Délimiter n’exige pas que la difficulté soit déjà entièrement comprise. L’opération sert précisément à déterminer ce qui doit être examiné, tout en laissant ouverte la possibilité que la formulation initiale soit inadéquate.
 
-## Questions d’examen
+## 4. Questions d’examen
 
 Pour préciser le problème, l’enquête peut poser les questions suivantes :
 
@@ -62,7 +62,7 @@ Ces questions n’imposent pas une séquence. Elles permettent de rendre visible
 
 La formulation obtenue doit pouvoir être comprise, discutée et révisée. Elle n’est pas adéquate simplement parce qu’elle est précise ou cohérente : elle doit rester en rapport avec la difficulté qui a motivé l’enquête.
 
-## Exemple d’application
+## 5. Exemple d’application
 
 Un service municipal doit décider s’il convient d’intervenir sur un arbre situé à proximité d’une habitation. Les observations disponibles signalent une inclinaison du tronc et une fissure, mais les avis divergent sur la conduite à tenir.
 
@@ -78,7 +78,7 @@ L’examen peut ensuite révéler que les questions initialement réunies doiven
 
 Cet exemple montre ce que la délimitation permet : préciser la question et les éléments pertinents sans préjuger de la conclusion. Il ne fournit pas une procédure universelle applicable à tous les problèmes.
 
-## Rapport aux autres opérations
+## 6. Rapport aux autres opérations
 
 Délimiter contribue au cadrage de l’enquête. Cette fonction ne signifie pas que toute enquête doit commencer par une opération isolée de délimitation, ni que le périmètre initial détermine toutes les opérations ultérieures.
 
@@ -92,7 +92,7 @@ Ces relations ne constituent pas une succession obligatoire. Une difficulté peu
 
 L’[architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) expose l’organisation générale de ces opérations et leurs possibilités de reprise.
 
-## Ce que la délimitation établit, suggère et n’établit pas
+## 7. Ce que la délimitation établit, suggère et n’établit pas
 
 La délimitation **établit provisoirement** la question que l’enquête entend examiner, le périmètre retenu et les limites reconnues à ce stade. Elle rend les choix de cadrage explicites et donc discutables.
 
@@ -110,7 +110,7 @@ Elle **n’établit pas** :
 
 Le périmètre indique ce qui est examiné à ce stade. Il ne détermine pas tout ce qui peut compter dans la situation, ni tout ce que l’enquête pourrait être conduite à examiner par la suite.
 
-## Limites et reprise
+## 8. Limites et reprise
 
 Une délimitation peut être inadéquate de plusieurs manières : elle peut réunir des difficultés distinctes, laisser de côté une relation pertinente, retenir des cas qui ne sont pas comparables ou formuler une question qui ne correspond pas au trouble rencontré.
 
@@ -120,7 +120,7 @@ Il faut donc distinguer ce qui affecte la formulation ou le périmètre de ce qu
 
 La délimitation reste ainsi une décision de travail, soumise à l’examen. Sa qualité dépend de sa capacité à rendre la difficulté examinable sans empêcher que l’enquête en modifie la formulation.
 
-## Synthèse
+## 9. Synthèse
 
 Délimiter consiste à passer d’un trouble rencontré à un problème formulé et circonscrit pour l’enquête. L’opération explicite la question à examiner, la pratique concernée, le périmètre provisoire et les limites de l’examen.
 
