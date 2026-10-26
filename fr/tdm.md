@@ -236,6 +236,7 @@ Les cas permettent d’examiner des distinctions, des descriptions et des justif
 - [Urgence hospitalière](fr/urgence-hospitaliere.md) — Examiner les fonctions et les critères de pratiques cliniques, biomédicales et administratives, ainsi que les conditions de leur coordination.
 - [Théorie des humeurs](fr/theorie-des-humeurs.md) — Examiner les catégories, les critères et les transformations historiques des pratiques médicales.
 - [Intelligence artificielle](fr/intelligence-artificielle.md) — Examiner ce que les résultats d’un système d’IA permettent de conclure dans une pratique descriptive.
+- [Pont Saint-Bénezet](fr/pont-saint-benezet.md) — Examiner les rapports entre dégradation d’un ouvrage, entretien, continuité du franchissement et décisions d’abandon.
 
 ## VIII. Références philosophiques et ressources d’approfondissement
 
