@@ -1,161 +1,164 @@
-Registres — Distinguer les fonctions de l’analyse
+# Registres — Distinguer les fonctions de l’analyse
 
-1. Fonction
+## Fonction
 
-Cette page distingue trois registres d’analyse mobilisables dans l’examen d’une pratique descriptive : cognitif, sémantique et référentiel.
+Cette page distingue trois registres mobilisables dans l’examen d’une pratique descriptive : **cognitif, sémantique et référentiel**.
 
-Elle précise les questions propres à chacun et les précautions nécessaires pour examiner leurs rapports sans confondre leurs fonctions.
+Elle précise les questions propres à chacun et les conditions dans lesquelles leurs rapports doivent être examinés sans confondre leurs fonctions.
 
-Ces registres ne désignent ni trois parties du réel, ni trois niveaux de constitution d’une description, ni trois étapes successives. Ils constituent des distinctions analytiques dont la pertinence dépend du problème étudié.
+Ces registres sont des distinctions analytiques, non trois parties du réel, trois niveaux de constitution d’une description ou trois étapes successives. Leur pertinence dépend du problème étudié ; ils peuvent être précisés, complétés ou remis en question au cours de l’enquête.
 
-2. Problème
+## Problème
 
-Une même situation descriptive peut soulever plusieurs questions.
+Une même situation descriptive peut soulever plusieurs questions distinctes.
 
-Lorsqu’un enfant dit « Ce vélo est rouge », on peut chercher à comprendre ce qui lui a permis de reconnaître une couleur, ce que signifie l’attribution de la couleur rouge, ou encore si cette attribution convient au vélo dont il parle.
+Lorsqu’un enfant dit « Ce vélo est rouge », on peut chercher à comprendre comment il reconnaît une couleur, ce que signifie l’attribution « rouge », ou si cette attribution convient au vélo dont il parle.
 
 Ces questions sont liées, mais elles ne sont pas équivalentes.
 
-Une explication du processus de reconnaissance ne suffit pas à déterminer le contenu de l’attribution. L’analyse de ce contenu ne suffit pas à établir que l’attribution convient à la situation. Inversement, constater qu’un vélo est rouge ne permet pas, à lui seul, de reconstituer les processus cognitifs qui ont conduit l’enfant à le dire.
+Expliquer comment l’enfant produit son attribution ne suffit pas à déterminer son contenu. Analyser ce contenu ne suffit pas à établir que l’attribution convient au vélo. Inversement, constater que le vélo est rouge ne permet pas de reconstituer les processus par lesquels l’enfant l’a reconnu.
 
-La difficulté vient du risque de traiter une réponse pertinente dans un registre comme si elle réglait automatiquement une question relevant d’un autre.
+La difficulté apparaît lorsqu’une réponse pertinente pour une question est utilisée comme si elle suffisait à résoudre les autres. Distinguer les registres permet de préciser ce qui est examiné, ce que les éléments disponibles autorisent à conclure et ce qui demande un examen supplémentaire.
 
-3. Définition des trois registres
+## Les trois registres
 
-3.1. Registre cognitif
+### 1. Registre cognitif
 
 Le registre cognitif concerne les processus et les capacités mobilisés dans une activité de perception, de reconnaissance, de mémorisation, de discrimination, de raisonnement ou d’apprentissage.
 
-Il permet d’examiner comment un agent traite une situation, repère certaines différences, acquiert une capacité ou rencontre une difficulté.
+Il permet notamment d’examiner comment un agent repère certaines différences, acquiert une capacité, mobilise une habitude ou rencontre une difficulté. L’enquête peut porter sur les conditions d’apprentissage, les erreurs de reconnaissance, les effets de l’attention ou les transformations d’une capacité.
 
-Une enquête cognitive peut notamment étudier les conditions dans lesquelles une distinction est apprise, les erreurs de reconnaissance, les effets de l’attention ou les transformations d’une capacité.
+Le cognitif ne se réduit pas à l’intention consciente de l’agent. Une personne peut mobiliser des capacités ou tirer des conséquences sans pouvoir expliciter les opérations en jeu. Les processus étudiés peuvent également dépendre de l’environnement, d’instruments ou d’activités distribuées entre plusieurs participants.
 
-Ce registre ne doit pas être réduit à l’intention consciente de l’agent. Une personne peut mobiliser des capacités, suivre des habitudes ou tirer des conséquences sans pouvoir expliciter les opérations en jeu.
+**Limite :** expliquer la production ou la mobilisation d’une attribution ne suffit pas à établir ce qu’elle signifie ni si elle est correcte.
 
-Limite : expliquer comment une attribution est produite ne suffit pas à établir ce qu’elle signifie ni si elle est correcte.
+### 2. Registre sémantique
 
-3.2. Registre sémantique
+Le registre sémantique concerne le contenu d’une expression, d’une attribution ou d’une assertion, ainsi que les distinctions, les engagements et les conséquences qui lui sont associés dans une pratique.
 
-Le registre sémantique concerne le contenu d’une expression, d’une attribution ou d’une assertion, ainsi que les distinctions et les conséquences qui lui sont associées dans une pratique.
+Il permet d’examiner ce qui est affirmé, les catégories mobilisées, les conditions d’application d’un terme et les inférences qu’un contenu autorise compte tenu des règles, des engagements et des prémisses pertinents.
 
-Il permet d’examiner ce qui est affirmé, les catégories mobilisées, les conditions d’application d’un terme et les inférences qu’une assertion autorise compte tenu des engagements, des règles et des prémisses pertinents.
+Le contenu sémantique ne se réduit ni à la forme grammaticale d’un énoncé ni à ce que son locuteur voulait consciemment exprimer. Une assertion peut autoriser des conséquences que son auteur n’a pas anticipées. Il faut cependant distinguer les conséquences autorisées par le contenu, celles qui sont effectivement tirées et celles qui exigent des prémisses supplémentaires.
 
-Le contenu sémantique ne se réduit donc ni à la forme grammaticale d’un énoncé ni à ce que son locuteur voulait consciemment exprimer. Une assertion peut autoriser des conséquences que le locuteur n’a pas anticipées. Il faut cependant distinguer les conséquences autorisées de celles qui sont effectivement tirées et de celles qui nécessitent des prémisses supplémentaires.
+L’analyse sémantique permet ainsi de préciser ce qu’une attribution engage dans une pratique déterminée. Elle ne garantit pas que les prémisses mobilisées sont adéquates à la situation ni que la description convient à ce dont elle parle.
 
-L’analyse sémantique peut établir ce qu’une attribution engage dans une pratique donnée. Elle ne suffit pas, à elle seule, à établir que cette attribution convient à la situation décrite.
+**Limite :** la cohérence d’un contenu et la recevabilité d’une inférence ne suffisent pas à établir l’adéquation de la description à son référent.
 
-Limite : la cohérence d’un contenu et la correction d’une inférence ne garantissent pas l’adéquation des prémisses ou de la description à ce dont il est question.
-
-3.3. Registre référentiel
+### 3. Registre référentiel
 
 Le registre référentiel concerne ce dont une expression ou une description parle, ainsi que les conditions dans lesquelles ce référent est identifié, distingué ou réidentifié.
 
-Il permet d’examiner si les descriptions en présence portent sur la même chose ou situation, quels éléments soutiennent cette identification et dans quelle mesure les affirmations correspondent à ce qui est examiné.
+Il permet d’examiner si plusieurs descriptions portent sur la même chose ou situation, quels éléments soutiennent cette identification et dans quelle mesure les affirmations formulées peuvent être rapportées à ce qui est examiné.
 
-L’identification du référent peut dépendre de descriptions, de perceptions, de traces, de pratiques partagées ou de procédures d’identification. Ces médiations ne doivent pas être confondues avec le référent lui-même.
+L’identification du référent peut mobiliser des descriptions, des perceptions, des traces, des instruments, des procédures ou des pratiques partagées. Ces médiations contribuent à l’identification sans devoir être confondues avec le référent lui-même.
 
-Le registre référentiel ne désigne donc pas un accès immédiat à la réalité, indépendant de toute pratique. Il ne se réduit pas non plus au contenu sémantique d’une description : déterminer ce qu’une expression signifie et établir ce dont elle parle sont deux questions distinctes.
+Le registre référentiel ne suppose donc pas un accès immédiat à la réalité, indépendant de toute pratique. Il ne se réduit pas non plus au contenu sémantique : déterminer ce qu’une expression signifie et établir ce dont elle parle sont deux questions distinctes.
 
-Limite : identifier un référent ne suffit pas à déterminer quelle description lui convient, ni à justifier toutes les affirmations formulées à son sujet.
+Il faut enfin distinguer l’identification du référent de l’évaluation de la description qui lui est appliquée. On peut savoir de quel vélo il est question sans avoir encore établi qu’il est rouge.
 
-4. Articulation sans conversion
+**Limite :** identifier un référent ne suffit pas à déterminer quelle description lui convient ni à justifier toutes les affirmations formulées à son sujet.
+
+## Articulation sans conversion
 
 Les trois registres peuvent être mobilisés dans une même enquête. Ils peuvent se contraindre mutuellement sans devenir interchangeables.
 
-Le registre cognitif peut contribuer à expliquer comment une distinction est acquise ou mobilisée. Le registre sémantique permet d’examiner le contenu de cette distinction et les conséquences qui lui sont associées. Le registre référentiel permet d’examiner ce à quoi l’attribution s’applique et si elle convient à la situation concernée.
+Une capacité cognitive peut contribuer à la production d’une attribution. Le contenu sémantique permet d’examiner ce que cette attribution affirme et quelles conséquences lui sont associées. L’examen référentiel porte sur ce dont elle parle et sur les éléments permettant d’évaluer son application.
 
-Ces rapports ne constituent pas une chaîne nécessaire. Une enquête peut commencer par une difficulté d’identification, par un désaccord sur le contenu d’une assertion ou par l’étude d’une capacité. Le problème détermine les registres qu’il est pertinent de mobiliser.
+Cette présentation indique des différences de fonction, non une chaîne de constitution. Une enquête peut commencer par une difficulté d’identification, par un désaccord sur le contenu d’une assertion ou par l’étude d’une capacité. Le problème rencontré détermine les distinctions pertinentes et les relations qu’il faut examiner.
 
-Le principe directeur est celui de la continuité des dépendances, de la discontinuité des fonctions et de la non-conversion.
+Le principe directeur est celui de la **continuité des dépendances, de la discontinuité des fonctions et de la non-conversion**.
 
-Il implique notamment de distinguer :
+- **Continuité des dépendances :** les réponses apportées dans un registre peuvent modifier les questions ou les résultats obtenus dans un autre.
+- **Discontinuité des fonctions :** expliquer un processus, analyser un contenu et examiner une référence ne constituent pas le même travail.
+- **Non-conversion :** une réponse obtenue dans un registre ne suffit pas, à elle seule, à répondre à une question relevant d’un autre.
 
-- Cognitif ≠ sémantique : le processus par lequel une attribution est produite ne se confond pas avec son contenu.
-- Sémantique ≠ référentiel : le contenu d’une description ne garantit pas son adéquation à ce dont elle parle.
-- Référentiel ≠ cognitif : l’identification d’un référent ne suffit pas à reconstituer les processus par lesquels un agent l’a identifié.
-- Cohérence ≠ adéquation : un contenu peut être cohérent sans que ses affirmations soient suffisamment étayées.
-- Production ≠ justification : expliquer l’apparition d’une attribution ne suffit pas à établir qu’elle doit être maintenue.
+Il faut notamment distinguer :
 
-La non-conversion n’interdit pas les passages entre registres. Elle impose d’expliciter les éléments qui les autorisent et les conclusions qu’ils permettent effectivement de soutenir.
+- **Cognitif ≠ sémantique :** le processus de production d’une attribution ne se confond pas avec son contenu.
+- **Sémantique ≠ référentiel :** le contenu d’une description ne garantit pas son adéquation à ce dont elle parle.
+- **Référentiel ≠ cognitif :** identifier ce dont on parle ne suffit pas à reconstituer comment un agent l’a identifié.
+- **Cohérence ≠ adéquation :** une description cohérente peut rester insuffisamment étayée.
+- **Production ≠ justification :** expliquer l’apparition d’une attribution ne suffit pas à établir qu’elle doit être maintenue.
 
-5. Exemple : « Ce vélo est rouge »
+La non-conversion n’interdit pas les passages entre registres. Elle demande que les éléments qui autorisent ces passages soient explicités et que les conclusions restent proportionnées à ce qu’ils permettent effectivement d’établir.
 
-Considérons un enfant de huit ans qui désigne un vélo et affirme : « Ce vélo est rouge ».
+## Exemple discriminant : « Ce vélo est rouge »
 
-Question cognitive. Comment l’enfant distingue-t-il cette couleur d’autres couleurs ? Son identification dépend-elle de l’éclairage, de son attention, de son apprentissage ou des conditions de perception ?
+Considérons un enfant qui désigne un vélo et affirme : « Ce vélo est rouge ».
 
-Question sémantique. Que signifie ici l’attribution « est rouge » ? Quels usages du terme « rouge » sont pertinents ? Quelles conséquences l’assertion autorise-t-elle dans la pratique concernée ?
+### Question cognitive
 
-Question référentielle. Quel vélo l’enfant désigne-t-il ? Les interlocuteurs identifient-ils le même vélo ? Les conditions d’observation permettent-elles de soutenir l’attribution de couleur ?
+Comment l’enfant distingue-t-il cette couleur d’autres couleurs ? Son identification dépend-elle de l’éclairage, de son attention, de son apprentissage ou de ses conditions de perception ?
 
-Les réponses peuvent être liées. Un éclairage particulier peut affecter la perception ; les usages du terme « rouge » peuvent préciser les critères de l’attribution ; l’examen du vélo peut conduire à contester celle-ci.
+Ces questions portent sur les processus et les capacités mobilisés dans l’attribution.
 
-Mais aucune réponse ne remplace automatiquement les autres.
+### Question sémantique
 
-Une difficulté perceptive ne démontre pas, à elle seule, que le contenu de l’assertion est incorrect. La stabilité du sens du mot « rouge » ne garantit pas que le vélo soit rouge dans les conditions examinées. Enfin, constater que le vélo est rouge ne permet pas de déduire comment l’enfant l’a reconnu.
+Que signifie ici l’attribution « est rouge » ? Quels usages du terme « rouge » sont pertinents ? Quelles conséquences l’assertion autorise-t-elle dans la pratique concernée ?
 
-L’intérêt de la distinction est de préciser ce qui doit être examiné, plutôt que de choisir à l’avance un registre qui expliquerait les deux autres.
+Ces questions portent sur le contenu de l’énoncé et sur les engagements qui lui sont associés.
 
-6. Les registres et la quadripartition
+### Question référentielle
 
-Les registres cognitif, sémantique et référentiel ne remplacent pas la quadripartition de l’orientation.
+Quel vélo l’enfant désigne-t-il ? Les interlocuteurs identifient-ils le même vélo ? Les conditions d’observation et les éléments disponibles permettent-ils de soutenir l’attribution de couleur ?
 
-La quadripartition distingue quatre orientations de l’examen :
+Ces questions portent sur l’identification de ce dont l’enfant parle et sur l’évaluation de la description appliquée.
 
-- Condition : quelles contraintes et possibilités sont pertinentes ?
-- Relation : quelles dépendances doivent être examinées ?
-- Fonction : quel rôle une configuration ou une description exerce-t-elle ?
-- Justification : quelles raisons et quels critères permettent de défendre une conclusion ?
+Les réponses peuvent se modifier mutuellement. Un éclairage particulier peut affecter la perception ; les usages du terme « rouge » peuvent préciser les conditions d’application ; un examen du vélo peut conduire à contester l’attribution.
 
-Les registres répondent à une autre question : quel type de phénomène ou de rapport examine-t-on ?
+Mais aucune réponse ne remplace automatiquement les autres. Une difficulté perceptive ne démontre pas, à elle seule, que le contenu de l’assertion est incorrect. La stabilité du sens du mot « rouge » ne garantit pas que le vélo soit rouge dans les conditions examinées. Constater que le vélo est rouge ne permet pas de déduire comment l’enfant l’a reconnu.
 
-Une enquête portant sur le registre cognitif peut examiner les conditions d’une capacité, les relations entre perception et apprentissage, la fonction d’une discrimination ou les éléments permettant de soutenir une hypothèse sur cette capacité. Une enquête portant sur le registre sémantique ou référentiel peut également mobiliser plusieurs orientations de la quadripartition.
+L’exemple illustre la fonction de la distinction. Il ne démontre ni que les trois registres sont nécessaires dans chaque enquête ni que leur distinction suffit à garantir une conclusion correcte.
+
+## Rapport aux orientations et aux opérations de l’enquête
+
+Les registres ne remplacent pas la quadripartition de l’orientation et ne constituent pas des opérations supplémentaires.
+
+Les registres précisent **quel type de question est examiné** : processus cognitif, contenu sémantique ou rapport référentiel.
+
+La [quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) distingue quatre orientations : Condition, Relation, Fonction et Justification. Chacune peut être mobilisée dans l’examen de plusieurs registres. Une enquête cognitive peut, par exemple, porter sur les conditions d’une capacité, les relations entre perception et apprentissage, la fonction d’une discrimination ou les raisons de soutenir une hypothèse sur cette capacité.
 
 Il n’existe donc pas de correspondance terme à terme entre les trois registres et les quatre orientations. Les uns ne constituent pas une subdivision des autres.
 
-Pour leur articulation détaillée, voir la "Quadripartition de l’orientation" (quadripartition-de-l-orientation.md).
+De même, les registres ne s’ajoutent pas à la chaîne des opérations. L’[architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) décrit les opérations susceptibles d’être mobilisées pour traiter une difficulté. Une opération peut contribuer à examiner plusieurs registres, et un même registre peut nécessiter plusieurs opérations.
 
-7. Place dans l’enquête
+Ces relations ne déterminent ni un ordre obligatoire ni une procédure universelle. Elles servent à préciser le travail effectivement requis par le problème.
 
-Les registres sont des distinctions mobilisables au cours de l’enquête, et non des opérations supplémentaires à ajouter à la chaîne principale.
+## Ce que la distinction établit, suggère et n’établit pas
 
-La chaîne — Délimiter, Ancrer, Distinguer, Relier, Configurer, Justifier, Reconstituer, Redélimiter — organise les déplacements possibles de l’examen. Elle ne prescrit pas le registre qui devrait intervenir à chaque étape.
+La distinction entre registres **établit** que les questions relatives à la production d’une attribution, à son contenu et à ce dont elle parle ne sont pas interchangeables. Elle aide à repérer les conclusions qui dépassent les éléments disponibles ou qui reposent sur une conversion insuffisamment justifiée.
 
-Une difficulté peut conduire à distinguer plusieurs registres, à préciser les rapports entre eux, puis à réviser cette distinction si elle ne permet pas de traiter le problème. Les registres sont eux-mêmes soumis à l’enquête : leur pertinence ne doit pas être présupposée indépendamment du cas.
+Elle **suggère** que l’examen d’une difficulté descriptive peut gagner en précision lorsqu’on distingue ces questions, puis qu’on examine leurs dépendances. Cette utilité doit toutefois être évaluée dans chaque cas.
 
-Voir l’"Architecture fonctionnelle de l’enquête" (architecture-fonctionnelle-de-l-enquete.md).
-
-8. Limites
-
-La distinction entre registres cognitif, sémantique et référentiel ne prétend pas fournir une classification exhaustive de tous les phénomènes.
-
-Elle n’établit pas :
+Elle **n’établit pas** :
 
 - que toute difficulté descriptive relève nécessairement de ces trois registres ;
 - que les phénomènes cognitifs, sémantiques et référentiels sont indépendants ;
-- qu’un registre constitue chronologiquement ou ontologiquement les autres ;
-- que l’analyse sémantique peut se substituer à l’examen du référent ;
-- que l’identification du référent garantit l’exactitude d’une description ;
-- que l’explication cognitive suffit à justifier une attribution.
+- que les registres constituent des étapes chronologiques ou ontologiques ;
+- que l’analyse sémantique peut remplacer l’examen du référent ;
+- que l’identification du référent garantit l’exactitude de la description ;
+- que l’explication cognitive suffit à justifier une attribution ;
+- que cette distinction constitue une classification exhaustive de tous les phénomènes pertinents.
 
-D’autres distinctions peuvent être nécessaires selon le problème étudié. Les registres doivent alors être précisés ou complétés, plutôt que traités comme une grille obligatoire.
+D’autres distinctions peuvent être nécessaires selon le problème. Les registres doivent alors être précisés, complétés ou révisés, plutôt qu’appliqués comme une grille obligatoire.
 
-Synthèse
+## Synthèse
 
 Les registres cognitif, sémantique et référentiel permettent de distinguer trois questions : comment une attribution est produite ou mobilisée, quel contenu elle engage et ce dont elle parle.
 
-Leurs rapports sont possibles et souvent nécessaires à l’enquête, mais aucune de ces dimensions ne fournit automatiquement la réponse aux questions relevant des autres.
+Ces dimensions sont liées, mais aucune ne fournit automatiquement la réponse aux questions relevant des autres. Leur distinction ne vise pas à les isoler, mais à rendre leurs relations examinables.
 
-Distinguer les registres, expliciter leurs dépendances et justifier les passages entre eux permet d’éviter qu’une explication cognitive tienne lieu d’analyse sémantique, qu’une cohérence sémantique soit prise pour une garantie référentielle ou qu’une identification soit confondue avec une justification.
+**Distinguer les registres, expliciter leurs dépendances et justifier les passages entre eux permet de limiter les conclusions qui dépassent ce que l’enquête a effectivement établi.**
 
-Cette distinction reste un instrument révisable : sa pertinence dépend du problème descriptif à examiner.
+Cette distinction reste un instrument révisable. Sa pertinence dépend du problème descriptif à examiner et de sa capacité à clarifier les fonctions en jeu.
 
----
+Pour poursuivre :
 
-Pour situer cette page dans le projet :
-
-- "Introduction générale" (introduction-generale.md)
-- "Architecture du projet" (architecture-projet.md)
-- "Architecture fonctionnelle de l’enquête" (architecture-fonctionnelle-de-l-enquete.md)
-- "Quadripartition de l’orientation" (quadripartition-de-l-orientation.md)
-- "Patterns éditoriaux" (../patterns.md)
+- [Introduction générale](fr/introduction-generale.md)
+- [Architecture du projet](fr/architecture-projet.md)
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
+- [Relation sémantique et référence](fr/relation-semantique-et-reference.md)
+- [Inférence matérielle](fr/inference-materielle.md)
+- [Raison](fr/raison.md)
+- [Table des matières](fr/tdm.md)
