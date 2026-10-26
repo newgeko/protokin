@@ -6,7 +6,7 @@ La quadripartition propose quatre orientations pour examiner une situation ou un
 
 Elle permet de différencier les questions que l’on peut poser à propos d’une même situation, sans supposer que ces questions sont indépendantes, exhaustives ou toujours pertinentes.
 
-La quadripartition constitue un repère d’orientation. Elle ne décrit ni quatre composantes de toute réalité ni quatre étapes obligatoires de l’enquête.
+La quadripartition constitue un repère d’orientation. Elle ne décrit ni quatre composantes de toute réalité ni quatre étapes obligatoires de l’enquête. Elle peut également aider à déterminer quelle opération mérite d’être reprise lorsqu’une enquête ne progresse plus, sans devenir elle-même une opération.
 
 ## Problème
 
@@ -34,7 +34,7 @@ Une condition peut rendre une action possible, la limiter ou contribuer à son �
 
 L’orientation **Relation** porte sur les dépendances et les mises en rapport pertinentes entre les éléments examinés.
 
-Ces dépendances peuvent relever de registres hétérogènes : relations causales et dynamiques entre des objets ou des processus (dans l'ordre physique), ou relations inférentielles et logiques entre des jugements (dans l'ordre normatif). Confondre un enchaînement causal avec une dépendance inférentielle reviendrait à ramener une relation logique de déductibilité à une simple succession empirique. Leur nature doit impérativement être explicitée.
+Ces dépendances peuvent relever de registres hétérogènes : relations causales et dynamiques entre des objets ou des processus, ou relations inférentielles et logiques entre des jugements. Confondre un enchaînement causal avec une dépendance inférentielle reviendrait à ramener une relation logique de déductibilité à une simple succession empirique. Leur nature doit être explicitée.
 
 L’examen peut porter, par exemple, sur les rapports entre une description et ce qu’elle désigne, sur les dépendances entre plusieurs éléments d’une situation ou sur les conséquences d’une assertion dans une pratique.
 
@@ -48,7 +48,7 @@ L’orientation **Fonction** porte sur le rôle qu’un élément, une distincti
 
 Une description peut servir à identifier une situation, à établir un diagnostic, à coordonner une intervention ou à soutenir une décision. Ces usages peuvent se recouper sans être équivalents. Des descriptions différentes peuvent également remplir des fonctions comparables.
 
-Il faut distinguer le rôle normatif réglé qu'exerce une expression dans une communauté (les règles et transitions qu'elle autorise), l'intention subjective du locuteur et les effets causaux ou psychologiques que produit concrètement son énonciation. Le fait qu’une description remplisse efficacement un but pratique immédiat ne préjuge ni de son exactitude descriptive ni de la validité de ses titres épistémiques.
+Il faut distinguer le rôle normatif réglé qu’exerce une expression dans une communauté, l’intention subjective du locuteur et les effets causaux ou psychologiques que produit concrètement son énonciation. Le fait qu’une description remplisse efficacement un but pratique immédiat ne préjuge ni de son exactitude descriptive ni de la validité de ses titres épistémiques.
 
 **Question directrice :** quel rôle la description ou la distinction exerce-t-elle dans la pratique considérée, et quelles conclusions ce rôle permet-il ou ne permet-il pas de soutenir ?
 
@@ -106,6 +106,29 @@ Ces distinctions n’interdisent pas d’établir des relations entre les élém
 
 La non-conversion ne signifie donc pas l’isolement des orientations. Elle empêche de traiter une dépendance comme si elle suffisait à établir l’équivalence des questions ou de leurs réponses.
 
+## Réexaminer une enquête bloquée
+
+Une enquête peut se bloquer lorsque les opérations déjà réalisées ne permettent plus de faire progresser le problème, lorsque les résultats restent ambigus ou lorsque les conclusions dépendent de distinctions contestées. La quadripartition peut alors servir à réexaminer ce qui a été fait et à préciser ce qui reste à traiter.
+
+Il ne s’agit pas de passer systématiquement en revue les quatre orientations. Il s’agit de déterminer si une question pertinente a été négligée, si deux questions ont été confondues ou si une réponse a été utilisée au-delà de ce qu’elle permet d’établir.
+
+Le réexamen peut notamment porter sur les points suivants :
+
+- **Condition :** les contraintes, les possibilités ou les conditions de production des éléments examinés ont-elles été suffisamment établies ? Une donnée manquante ou une condition négligée pourrait-elle expliquer la difficulté persistante ?
+- **Relation :** les dépendances invoquées ont-elles été établies ? Une succession a-t-elle été traitée comme une cause, ou une relation causale comme une justification ? Les liens nécessaires à la conclusion sont-ils explicités ?
+- **Fonction :** le rôle effectif d’une description, d’une distinction ou d’un critère dans la pratique a-t-il été examiné ? Une utilité pratique a-t-elle été prise à tort pour une preuve d’exactitude ?
+- **Justification :** les raisons et les critères mobilisés soutiennent-ils effectivement la conclusion ? Les prémisses sont-elles établies et les inférences défendables ? Une conclusion a-t-elle été tenue pour justifiée au seul motif qu’elle découle d’une règle ou qu’elle est cohérente ?
+
+Ce réexamen aide à localiser la difficulté, mais il ne détermine pas mécaniquement la suite. Selon ce qui apparaît, il peut être nécessaire de recueillir de nouveaux éléments, de préciser une distinction, d’établir une relation, de revoir une configuration ou de reprendre une justification.
+
+**La quadripartition peut ainsi aider à choisir une opération à reprendre. Elle ne réalise pas cette opération à la place de l’enquête.**
+
+Par exemple, si une conclusion paraît fragile parce que les données sur lesquelles elle repose sont insuffisantes, l’opération à reprendre peut être **Ancrer**. Si deux termes sont employés comme équivalents alors que leur différence importe pour le problème, il peut être nécessaire de **Distinguer**. Si une dépendance est supposée plutôt qu’établie, **Relier** peut devoir être repris. Si les éléments disponibles ne soutiennent pas les raisons avancées, l’opération **Justifier** peut être nécessaire. Si le blocage révèle que la question initiale était mal circonscrite, une **Redélimitation** peut se justifier.
+
+Ces exemples ne constituent ni une correspondance fixe entre orientations et opérations ni une liste exhaustive. Une même difficulté peut demander plusieurs opérations ; une opération peut contribuer à l’examen de plusieurs orientations. Le choix dépend des résultats déjà obtenus et de ce qui reste effectivement indéterminé.
+
+La quadripartition ne commande donc ni de recommencer toute l’enquête ni de redélimiter systématiquement le problème. Elle aide à formuler un diagnostic suffisamment précis pour motiver une reprise proportionnée.
+
 ## Exemple : un relevé de température dans un bâtiment
 
 Un relevé de température est utilisé pour décider si un dispositif de ventilation doit être vérifié.
@@ -120,7 +143,11 @@ L’examen de la **justification** porte sur les raisons de considérer le relev
 
 Ces questions sont liées, mais aucune ne remplace les autres. Les conditions de mesure peuvent affecter la fiabilité du relevé sans déterminer à elles seules la décision. Le rôle d’alerte du seuil ne prouve pas que le dispositif est défectueux. Une décision peut être raisonnable au regard des informations disponibles sans que toutes les propriétés du dispositif soient établies.
 
-Cet exemple illustre la différence entre les orientations. Il ne démontre ni que les quatre sont nécessaires dans tous les cas ni que leur mobilisation garantit une décision correcte.
+Supposons que l’enquête se bloque parce que le relevé dépasse le seuil d’alerte, alors que d’autres mesures ne signalent pas d’anomalie. La quadripartition invite à préciser la difficulté : les conditions de mesure sont-elles comparables ? Les relevés entretiennent-ils la relation supposée avec le fonctionnement du dispositif ? Le seuil est-il un indicateur d’alerte ou un critère suffisant de défaillance ? Quelles raisons soutiennent la décision de procéder à une vérification ?
+
+Selon les réponses, l’enquête pourra reprendre l’ancrage des mesures, l’examen de leurs relations, la distinction entre alerte et diagnostic ou la justification de la décision. La quadripartition aide à identifier les questions pertinentes ; elle ne décide pas à l’avance de l’opération à retenir.
+
+Cet exemple illustre la différence entre les orientations et leur contribution au réexamen d’une enquête. Il ne démontre ni que les quatre sont nécessaires dans tous les cas ni que leur mobilisation garantit une décision correcte.
 
 ## Rapport aux opérations de l’enquête
 
@@ -133,15 +160,17 @@ La distinction est fonctionnelle :
 - l’orientation **Relation** ne se confond pas avec l’opération **Relier** ;
 - l’orientation **Justification** ne se confond pas avec l’opération **Justifier**.
 
-Une opération peut contribuer à l’examen de plusieurs orientations. Inversement, l’examen d’une même orientation peut nécessiter plusieurs opérations.
+Une opération peut contribuer à l’examen de plusieurs orientations. Inversement, l’examen d’une même orientation peut nécessiter plusieurs opérations. L’orientation aide à préciser la question à traiter ; l’opération désigne un travail d’enquête susceptible de contribuer à son examen.
 
-La quadripartition n’impose donc ni un ordre d’opérations ni une procédure particulière. Son usage dépend de ce qu’elle permet de distinguer dans l’enquête considérée.
+Lorsqu’une enquête est bloquée, la quadripartition peut donc contribuer au diagnostic de la difficulté et à la sélection d’une reprise. Mais ce choix doit être motivé par le problème et par les résultats obtenus, non déduit d’une correspondance prédéfinie entre une orientation et une opération.
+
+La quadripartition n’impose ainsi ni un ordre d’opérations ni une procédure particulière. Son usage dépend de ce qu’elle permet de distinguer dans l’enquête considérée.
 
 ## Ce que la quadripartition établit et n’établit pas
 
-La quadripartition établit une distinction de travail entre quatre orientations d’examen. Elle aide à rendre explicites des questions qui peuvent être confondues et à repérer les passages insuffisamment justifiés entre leurs réponses.
+La quadripartition établit une distinction de travail entre quatre orientations d’examen. Elle aide à rendre explicites des questions qui peuvent être confondues, à repérer les passages insuffisamment justifiés entre leurs réponses et à examiner ce qui mérite éventuellement d’être repris dans une enquête.
 
-Elle suggère que les difficultés descriptives peuvent être examinées sous plusieurs rapports et que ces rapports peuvent se modifier mutuellement au cours de l’enquête. Cette proposition reste révisable : son intérêt dépend de sa capacité à rendre des différences pertinentes plus intelligibles.
+Elle suggère que les difficultés descriptives peuvent être examinées sous plusieurs rapports et que ces rapports peuvent se modifier mutuellement au cours de l’enquête. Elle peut aussi aider à déterminer une reprise possible sans fixer à l’avance l’opération pertinente. Ces propositions restent révisables : leur intérêt dépend de leur capacité à rendre des différences pertinentes plus intelligibles et à mieux traiter les difficultés rencontrées.
 
 La quadripartition n’établit cependant :
 
@@ -149,8 +178,10 @@ La quadripartition n’établit cependant :
 - ni une hiérarchie entre les orientations ;
 - ni une séquence obligatoire d’examen ;
 - ni une classification exhaustive de toutes les questions possibles ;
+- ni une correspondance fixe entre chaque orientation et une opération ;
 - ni la validité d’une description ou la justification d’une conclusion particulière ;
-- ni la nécessité de mobiliser les quatre orientations dans chaque enquête.
+- ni la nécessité de mobiliser les quatre orientations dans chaque enquête ;
+- ni la garantie qu’une enquête bloquée pourra être débloquée par leur seul emploi.
 
 Si une autre distinction permet de mieux examiner le problème, elle ne doit pas être exclue au nom de la quadripartition. Si l’une des quatre orientations n’apporte rien à l’examen d’un cas, il n’est pas nécessaire de l’y appliquer artificiellement.
 
@@ -158,9 +189,11 @@ Si une autre distinction permet de mieux examiner le problème, elle ne doit pas
 
 La quadripartition propose quatre orientations pour examiner une situation ou une configuration descriptive : **Condition, Relation, Fonction et Justification**.
 
-Elle permet de différencier les questions posées à propos d’une même situation, sans transformer ces orientations en composantes universelles du réel, en hiérarchie ou en étapes obligatoires. Leurs relations doivent être examinées au cas par cas ; leur utilité et leur maintien restent révisables.
+Elle permet de différencier les questions posées à propos d’une même situation, de repérer certaines conversions indues et de réexaminer une enquête qui ne progresse plus. Elle peut aider à déterminer quelle opération mérite d’être reprise, mais elle ne constitue pas elle-même une opération et ne prescrit aucune grille obligatoire.
 
-**Distinguer sans isoler. Articuler sans convertir.**
+Les orientations indiquent sous quel rapport examiner une difficulté ; les opérations désignent les travaux susceptibles de la traiter. Le choix d’une reprise dépend du problème rencontré et de ce que l’enquête a effectivement établi.
+
+**Distinguer sans isoler. Articuler sans convertir. Réorienter l’examen sans transformer l’orientation en procédure.**
 
 Pour poursuivre :
 
