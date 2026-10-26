@@ -1,6 +1,6 @@
 # Anachronisme descriptif — Reconstruire une pratique historique sans projection rétrospective
 
-## Fonction
+## 1. Fonction
 
 L’**anachronisme descriptif** désigne un risque propre aux enquêtes qui reconstruisent des pratiques descriptives passées : attribuer à ces pratiques des catégories, des critères, des fonctions ou des connaissances issus d’un autre contexte historique, sans établir la pertinence de cette attribution.
 
@@ -8,7 +8,7 @@ Cette notion fournit un critère d’audit des reconstructions historiques. Elle
 
 L’anachronisme descriptif ne se réduit donc pas à une erreur de chronologie. Il concerne aussi la manière dont une enquête interprète les termes, les références, les inférences et les justifications d’une pratique passée.
 
-## Problème
+## 2. Problème
 
 Une enquête historique est conduite depuis un présent dans lequel certaines catégories, connaissances et méthodes sont disponibles. Les personnes dont elle étudie les pratiques ne disposaient pas nécessairement de ces mêmes ressources, ou ne les utilisaient pas de la même manière.
 
@@ -20,7 +20,7 @@ Ces deux erreurs font dépendre indûment l’interprétation du passé des ress
 
 Le problème consiste à reconstruire les pratiques historiques à partir des éléments accessibles, tout en distinguant ce que les participants pouvaient identifier ou inférer, ce que les matériaux permettent d’établir et ce que l’enquête contemporaine peut décrire en retour.
 
-## Définition
+## 3. Définition
 
 Il y a **anachronisme descriptif** lorsqu’une enquête attribue à une pratique historique des catégories, des conditions de référence, des fonctions, des inférences ou des critères de justification provenant d’un autre contexte descriptif, sans disposer d’éléments suffisants pour soutenir cette attribution.
 
@@ -37,7 +37,7 @@ Ces dimensions peuvent être liées, mais elles ne varient pas nécessairement e
 
 L’enquête doit donc préciser quelle dimension elle reconstruit et sur quels éléments elle fonde son interprétation.
 
-## Distinctions nécessaires
+## 4. Distinctions nécessaires
 
 ### Référence et description du référent
 
@@ -101,7 +101,7 @@ Plusieurs résultats restent possibles. L’enquête peut établir une continuit
 
 L’exemple ne démontre aucune théorie générale de la référence. Il montre pourquoi la différence entre une description historique et une description contemporaine ne suffit pas à décider de leur relation.
 
-## Questions d’audit
+## 5. Questions d’audit
 
 Pour examiner une reconstruction historique, l’enquête peut poser les questions suivantes :
 
@@ -116,7 +116,7 @@ Pour examiner une reconstruction historique, l’enquête peut poser les questio
 
 Ces questions ne constituent pas une procédure obligatoire ni une garantie de validité. Elles permettent de rendre visibles les points où une reconstruction peut introduire des catégories ou des relations qui ne sont pas suffisamment étayées.
 
-## Principe de non-conversion
+## 6. Principe de non-conversion
 
 L’audit de l’anachronisme descriptif doit maintenir plusieurs distinctions :
 
@@ -133,7 +133,7 @@ Ces distinctions ne signifient pas que les termes de chaque paire sont sans rela
 
 La non-conversion est donc une règle de contrôle des inférences : elle empêche de traiter une dimension comme la preuve automatique d’une autre. Elle ne constitue pas une interdiction de comparer les pratiques historiques et contemporaines.
 
-## Articulation avec les autres pages
+## 7. Articulation avec les autres pages
 
 L’anachronisme descriptif concerne une difficulté particulière de la reconstruction historique. Il se distingue des notions voisines par le type de risque qu’il permet de repérer.
 
@@ -146,7 +146,7 @@ L’anachronisme descriptif concerne une difficulté particulière de la reconst
 
 Ces ressources peuvent être mobilisées conjointement, mais aucune ne suffit à elle seule à déterminer si une reconstruction historique est anachronique. Ce jugement dépend des attributions précises effectuées et des éléments qui les soutiennent.
 
-## Ce que la page établit et ce qu’elle n’établit pas
+## 8. Ce que la page établit et ce qu’elle n’établit pas
 
 Cette page établit une exigence méthodologique : une enquête ne doit pas attribuer à une pratique historique des catégories, des critères, des fonctions ou des connaissances ultérieurs sans examiner les conditions qui permettraient de soutenir cette attribution.
 
@@ -163,7 +163,7 @@ Elle n’établit pas :
 
 L’anachronisme descriptif n’est pas une conclusion automatique tirée de la différence entre deux époques. Il désigne un problème d’attribution qui doit être examiné à partir des usages, des documents, des critères et des inférences en jeu.
 
-## Synthèse
+## 9. Synthèse
 
 L’anachronisme descriptif apparaît lorsqu’une enquête projette sur une pratique passée des catégories, des connaissances, des fonctions ou des critères ultérieurs sans établir les relations qui autoriseraient cette attribution.
 
@@ -171,7 +171,7 @@ Pour l’éviter, il faut distinguer les ressources historiques de la pratique �
 
 **Une description contemporaine peut éclairer une pratique passée sans devenir pour autant la description que cette pratique mobilisait, ni la preuve automatique de ce à quoi elle faisait référence.**
 
-## Pour poursuivre
+## 10. Pour poursuivre
 
 - [Temporalité descriptive](fr/temporalite-descriptive.md)
 - [Historicité](fr/historicite.md)
