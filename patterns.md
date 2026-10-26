@@ -719,9 +719,19 @@ Cette vérification ne consiste pas à imposer des formules identiques à toutes
 
 ### Étape 7 — Vérifier les liens et le vocabulaire
 
-Contrôler les chemins, les titres, les noms de fichiers et les renvois internes à partir du dépôt réel.
+Tous les liens internes vers les pages du corpus français doivent utiliser un chemin commençant par fr/, y compris lorsqu’ils sont rédigés depuis une page déjà située dans le répertoire fr/.
 
-Vérifier que les termes employés sont compatibles avec les pages de référence. Si un terme change de sens ou de fonction, examiner les pages concernées plutôt que de corriger uniquement son occurrence locale.
+Par exemple :
+
+Correct : [Introduction générale](fr/introduction-generale.md)
+Incorrect : [Introduction générale](introduction-generale.md)
+Incorrect : [Introduction générale](../fr/introduction-generale.md)
+
+Cette règle s’applique aux liens dans le corps des pages, aux renvois bibliographiques internes, aux listes de ressources et aux exemples de liens donnés dans la documentation éditoriale.
+Avant de créer ou de corriger un lien, vérifier le nom exact du fichier dans la branche courante du dépôt. Ne pas déduire son existence de son seul intitulé, ni inventer un chemin pour compléter un renvoi.
+Les liens vers des ressources externes restent des URL appropriées à leur destination. Les règles spécifiques aux fichiers de navigation, aux ancres et aux ressources situées hors du corpus français doivent être respectées lorsqu’elles s’appliquent.
+
+Contrôler enfin les chemins, les titres, les noms de fichiers et les renvois internes à partir du dépôt réel. Vérifier que les termes employés sont compatibles avec les pages de référence. Si un terme change de sens ou de fonction, examiner les pages concernées plutôt que de corriger uniquement son occurrence locale.
 
 ### Étape 8 — Documenter la décision
 
