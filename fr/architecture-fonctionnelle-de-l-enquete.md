@@ -102,16 +102,9 @@ Cette catégorie permet de construire une organisation descriptive examinable et
 
 ### 3.4. Reconstitution et révision
 
-**Opérations : Reconstituer et Redélimiter.**
+Redélimiter ne constitue pas une répétition de la délimitation initiale. Cette opération devient pertinente lorsque les résultats indiquent que la formulation ou le périmètre du problème ne permet plus de traiter correctement la difficulté.
 
-Cette catégorie concerne l’examen du cheminement suivi et la révision du problème lorsque les résultats rendent sa formulation initiale insuffisante.
-
-- **Reconstituer** consiste à rendre explicites les opérations, les appuis, les distinctions, les relations, les configurations et les justifications qui ont contribué aux résultats retenus.
-- **Redélimiter** consiste à réexaminer la formulation et le périmètre du problème à la lumière des résultats, des objections et des limites constatées.
-
-Reconstituer ne consiste pas à transformer rétrospectivement le parcours en une succession nécessaire. Cela permet d’identifier ce qui a été établi, ce qui reste hypothétique et ce qui demeure indéterminé.
-
-Redélimiter ne constitue pas une répétition de la délimitation initiale. La redélimitation est motivée par un résultat de l’enquête : distinction insuffisante, ancrage inadéquat, relation négligée, justification fragile ou incompatibilité descriptive non résolue.
+Une distinction insuffisante, un ancrage inadéquat, une relation négligée ou une justification fragile ne commandent donc pas automatiquement une redélimitation. Ils peuvent d’abord appeler la reprise de l’opération concernée. La redélimitation se justifie lorsque l’examen montre que la difficulté tient aussi à la manière dont le problème a été formulé ou circonscrit.
 
 Elle peut conduire à maintenir le problème initial, à le préciser, à le diviser ou à ouvrir une nouvelle enquête. Elle n’est ni systématique ni obligatoire.
 
@@ -155,9 +148,9 @@ Les orientations ne correspondent pas aux quatre catégories fonctionnelles. Ell
 
 Une même opération peut mobiliser plusieurs orientations ; une même orientation peut intervenir dans plusieurs opérations. L’opération Ancrer peut contribuer à examiner des conditions sans se confondre avec l’orientation Condition. Relier ne se confond pas avec l’orientation Relation. Justifier désigne un travail d’examen, tandis que Justification désigne le rapport sous lequel les raisons et les critères d’une conclusion sont interrogés.
 
-Cette proximité terminologique doit être maintenue explicitement : elle ne constitue ni une identité ni une distinction suffisante par elle-même.
+Les orientations ne doivent pas être systématiquement appliquées à toutes les opérations. Leur mobilisation dépend de la difficulté rencontrée. Elles peuvent toutefois aider à déterminer quelle opération reprendre lorsque les résultats ne permettent plus de progresser : l’examen des conditions peut appeler un nouvel ancrage ; une différence mal établie, une distinction supplémentaire ; une dépendance incertaine, une révision des relations ; une conclusion fragile, un nouvel examen de sa justification.
 
-Les orientations ne doivent pas être systématiquement appliquées à toutes les opérations. Leur mobilisation dépend de la difficulté rencontrée.
+Il n’existe pas de correspondance fixe entre une orientation et une opération. Le choix dépend de ce qui reste indéterminé et des résultats déjà obtenus. Une impasse ne commande donc pas à elle seule de redélimiter le problème : il faut d’abord déterminer si elle révèle une difficulté locale dans les éléments, les distinctions, les relations ou les justifications, ou si elle met réellement en cause la formulation ou le périmètre du problème.
 
 ## 6. Les fonctions transversales
 
@@ -309,11 +302,13 @@ L’examen peut révéler une distinction insuffisante, une dépendance néglig�
 
 ### 5. Déterminer la suite pertinente
 
-À la lumière des résultats, maintenir la formulation du problème, préciser une conclusion, reprendre une opération, recueillir des éléments supplémentaires ou redélimiter le problème.
+À la lumière des résultats, maintenir la formulation du problème, préciser une conclusion, reprendre une opération, recueillir des éléments supplémentaires ou, si nécessaire, redélimiter le problème.
 
-Cette décision doit être motivée par les difficultés et les résultats de l’enquête. Elle ne correspond pas à une étape finale obligatoire.
+L’orientation de l’examen aide à préciser la nature de la difficulté et donc le travail susceptible de la traiter. Un ancrage insuffisant peut appeler de nouveaux éléments ; une distinction équivoque, un travail de différenciation ; une relation incertaine, un examen des dépendances ; une justification fragile, une révision des raisons, des prémisses ou des critères. Ces reprises ne sont pas des réponses automatiques : elles doivent être motivées par le problème effectivement rencontré.
 
-Ces cinq mouvements sont des repères de conduite, non cinq opérations supplémentaires. Ils n’imposent ni un ordre fixe ni une clôture déterminée.
+La redélimitation est pertinente lorsque les résultats mettent en cause la formulation ou le périmètre du problème, et non du seul fait que l’enquête rencontre une impasse. Cette décision ne correspond pas à une étape finale obligatoire.
+
+Ces cinq mouvements sont des repères de conduite, non cinq opérations supplémentaires. Ils n’imposent ni un ordre fixe ni une clôture déterminée. L’orientation de l’examen peut conduire à reprendre différentes opérations, seules ou conjointement, selon la difficulté constatée. La reprise est proportionnée à ce qui reste à établir ; elle ne conduit à redélimiter le problème que si sa formulation ou son périmètre se révèlent inadéquats.
 
 ## 10. Limites de l’architecture
 
