@@ -47,7 +47,9 @@ Ces termes sont liés, mais ne sont pas interchangeables. Décrire une niche ne 
 
 ### 2.3. Friction de niche et maintien des conditions d’activité
 
-La notion de **friction de niche** désigne la tension qui apparaît lorsqu’une pratique rencontre des contraintes physiques ou des rétroactions de son milieu qui compromettent les conditions nécessaires à son fonctionnement ou à son maintien dans la durée.
+On appellera ici **friction de niche** la tension qui apparaît lorsque les contraintes ou les rétroactions d’un milieu fragilisent les conditions dont dépend la poursuite d’une activité.
+
+Cette notion de travail attire l’attention sur les relations entre une activité, les transformations de son milieu et les effets de ces transformations dans la durée. Elle ne désigne pas toute résistance rencontrée, mais une dynamique susceptible de rendre la poursuite d’une activité plus difficile ou plus coûteuse.
 
 Une pratique dépend de conditions matérielles, environnementales et relationnelles qui rendent certaines activités possibles. Ces conditions ne sont pas nécessairement stables. L’activité peut les modifier, tandis que les transformations du milieu peuvent affecter en retour les possibilités de poursuivre cette activité. Une configuration initialement favorable peut ainsi devenir plus contraignante, jusqu’à rendre nécessaire une modification de la pratique ou de ses conditions d’exercice.
 
@@ -57,7 +59,7 @@ La friction de niche permet d’examiner cette dynamique. Elle ne désigne pas t
 
 - **Butoir :** une résistance limite une opération ou une pratique dans une configuration donnée. Elle peut être ponctuelle et ne compromet pas nécessairement le maintien de l’activité dans la durée.
 - **Construction de niche :** une activité modifie certaines caractéristiques de son environnement. Ces modifications peuvent produire des effets favorables, défavorables ou variables selon les organismes, les activités et les conditions considérées.
-- **Friction de niche :** des contraintes ou des rétroactions contribuent à dégrader, fragiliser ou rendre plus coûteuses les conditions nécessaires à la poursuite d’une activité.
+- **Friction de niche :** dynamique par laquelle des contraintes ou des rétroactions du milieu modifient les conditions de poursuite d’une activité et peuvent en fragiliser le maintien, en accroître le coût ou en restreindre les possibilités.
 
 Ces notions peuvent être liées sans être interchangeables. Une construction de niche peut produire une friction ultérieure, mais ce n’est pas nécessairement le cas. Un butoir peut révéler une difficulté ponctuelle sans que celle-ci menace la continuité de la pratique. Inversement, une friction de niche peut se développer progressivement sans qu’un obstacle unique permette d’en identifier immédiatement l’origine.
 
