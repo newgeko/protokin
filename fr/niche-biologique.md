@@ -45,6 +45,38 @@ Il faut donc distinguer :
 
 Ces termes sont liés, mais ne sont pas interchangeables. Décrire une niche ne suffit pas à établir qu’elle a été construite par les organismes étudiés. Constater une modification environnementale ne suffit pas non plus à déterminer toutes ses conséquences écologiques.
 
+### 2.3. Friction de niche et maintien des conditions d’activité
+
+La notion de **friction de niche** désigne la tension qui apparaît lorsqu’une pratique rencontre des contraintes physiques ou des rétroactions de son milieu qui compromettent les conditions nécessaires à son fonctionnement ou à son maintien dans la durée.
+
+Une pratique dépend de conditions matérielles, environnementales et relationnelles qui rendent certaines activités possibles. Ces conditions ne sont pas nécessairement stables. L’activité peut les modifier, tandis que les transformations du milieu peuvent affecter en retour les possibilités de poursuivre cette activité. Une configuration initialement favorable peut ainsi devenir plus contraignante, jusqu’à rendre nécessaire une modification de la pratique ou de ses conditions d’exercice.
+
+La friction de niche permet d’examiner cette dynamique. Elle ne désigne pas toute résistance rencontrée, mais une tension dont les effets concernent la continuité d’une activité et les conditions qui permettent de la maintenir à moyen ou long terme.
+
+#### Distinguer trois notions
+
+- **Butoir :** une résistance limite une opération ou une pratique dans une configuration donnée. Elle peut être ponctuelle et ne compromet pas nécessairement le maintien de l’activité dans la durée.
+- **Construction de niche :** une activité modifie certaines caractéristiques de son environnement. Ces modifications peuvent produire des effets favorables, défavorables ou variables selon les organismes, les activités et les conditions considérées.
+- **Friction de niche :** des contraintes ou des rétroactions contribuent à dégrader, fragiliser ou rendre plus coûteuses les conditions nécessaires à la poursuite d’une activité.
+
+Ces notions peuvent être liées sans être interchangeables. Une construction de niche peut produire une friction ultérieure, mais ce n’est pas nécessairement le cas. Un butoir peut révéler une difficulté ponctuelle sans que celle-ci menace la continuité de la pratique. Inversement, une friction de niche peut se développer progressivement sans qu’un obstacle unique permette d’en identifier immédiatement l’origine.
+
+#### Un exemple : la transformation d’un milieu
+
+Une activité dépendant d’une ressource environnementale peut contribuer à modifier les conditions de disponibilité de cette ressource. Si cette modification rend ensuite son accès plus difficile, elle peut accroître les contraintes pesant sur la poursuite de l’activité. La pratique rencontre alors une friction de niche lorsque cette dynamique compromet les conditions de son maintien.
+
+L’exemple ne suffit toutefois pas à établir qu’une telle friction existe. Il faut examiner les transformations effectivement observées, les relations entre l’activité et son milieu, leur évolution temporelle et les conditions auxquelles la continuité de la pratique dépend. Une variation de l’environnement ne constitue pas, à elle seule, la preuve d’une dégradation des conditions de maintien.
+
+#### Portée et limites de la notion
+
+La friction de niche attire l’attention sur les effets cumulatifs ou différés des relations entre une activité et son milieu. Elle conduit à ne pas évaluer une configuration uniquement à partir de son fonctionnement immédiat : une pratique peut fonctionner à court terme tout en contribuant à fragiliser certaines des conditions dont elle dépend ultérieurement.
+
+La notion ne suppose cependant ni que toute activité tende à préserver son environnement, ni que toute friction entraîne nécessairement une rupture. Une pratique peut être transformée, déplacée, interrompue ou maintenue grâce à des modifications de ses conditions d’exercice. Les effets dépendent de la configuration étudiée et de l’échelle temporelle retenue.
+
+Il faut enfin distinguer la possibilité matérielle de maintenir une activité de la justification de cette activité. Qu’une pratique puisse se poursuivre, ou qu’elle rencontre des contraintes qui menacent sa continuité, ne suffit pas à déterminer si elle est souhaitable, légitime ou correctement décrite.
+
+Pour Protokin, la friction de niche constitue ainsi une notion permettant d’examiner les relations entre conditions matérielles, transformations environnementales et maintien des pratiques. Elle contribue à l’enquête sans transformer les contraintes du milieu en critères de justification ni faire de la persistance une preuve d’adéquation descriptive.
+
 ## 3. Exemple discriminant : le castor et le cours d’eau
 
 La construction d’un barrage par des castors permet d’illustrer cette distinction.
