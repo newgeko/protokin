@@ -1,217 +1,166 @@
-# Page : francisco-varela.md
+# Francisco Varela — Énaction, autopoïèse et production de sens biologique
 
-Francisco Varela — L'énaction sensorimotrice et la circularité du couplage structurel
+## Fonction
 
-Analyse architecturale de la page
+Cette page examine l’apport de Francisco Varela à la compréhension de la cognition incarnée, de l’activité sensorimotrice et des relations entre un organisme vivant et son milieu.
 
-1. Fonction unique de la page
+Elle présente trois ensembles conceptuels : l’énaction, l’autopoïèse et la production de sens biologique (*sense-making*). Elle précise ce que ces concepts permettent d’examiner dans Protokin, sans les traiter comme les fondements de l’ensemble du projet ni attribuer à Varela les formulations propres à Protokin.
 
-Cette page existe pour présenter et formaliser l'apport théorique de Francisco Varela à l'architecture de Protokin, notamment à travers ses concepts d'énaction, d'autopoïèse, de couplage structurel et de production de sens biologique (sense-making), en explicitant comment la métathéorie s'approprie et reconfigure cet héritage comme l'infrastructure corporelle, écologique et immanente de son plan PROTO (espace des causes), interdisant de figer l'intelligibilité dans un esprit-spectateur désincarné ou dans une mécanique de représentations internes de premier ordre.
+Cette page relève des héritages philosophiques du projet. Elle ne remplace ni les analyses consacrées au corps vécu, notamment chez Maurice Merleau-Ponty, ni les pages définissant les concepts et les opérations employés dans l’enquête.
 
-2. Choix du mode de développement
+## 1. Problème
 
-· Mode retenu : Mode A — Développement conceptuel.
-· Justification : L'apport de Varela doit être modélisé non pas comme un résumé doxographique ou historique passif, mais comme une ressource de second ordre, définissant les propriétés relationnelles, systémiques et co-constitutives du vivant situé avec son milieu pour asseoir le plan PROTO de Protokin.
+La perception et l’action peuvent être décrites comme des activités corporelles situées, mais aussi comme des processus de traitement de l’information, des mécanismes physiologiques ou des activités organisées par des concepts et des raisons.
 
-3. Problème conceptuel
+La difficulté consiste à examiner les rapports entre ces dimensions sans réduire l’une à l’autre. Une explication de l’activité cognitive par des mécanismes biologiques ne décrit pas nécessairement toutes les fonctions d’une pratique descriptive. Inversement, l’analyse des significations et des justifications ne dispense pas d’examiner les conditions corporelles, matérielles et environnementales dans lesquelles les pratiques se déroulent.
 
-Comment théoriser l'origine corporelle, active, circulaire et située de toute intelligibilité sans présupposer un esprit-spectateur passif qui copierait le monde extérieurement, ni réduire l'activité du vivant à une pure mécanique causaliste de premier ordre ou à un traitement interne de représentations mentales désincarnées ?
+Les travaux de Varela offrent des ressources pour étudier cette difficulté. Ils invitent notamment à examiner la cognition à partir de l’activité d’un organisme incarné, de ses interactions avec son milieu et des conditions dans lesquelles certaines différences deviennent pertinentes pour lui.
 
-4. Objet propre
+La question retenue ici est donc circonscrite :
 
-· Cette page traite de : l'intégration métathéorique du legs de Francisco Varela ; le modèle de l'énaction et du couplage structurel comme infrastructure du pôle somatique PROTO ; l'autopoïèse reformulée comme clôture de processus thermodynamico-biologiques et coconstitution de frontières ; le concept de sense-making (production de sens biologique) ; et la distinction entre la normativité unidimensionnelle du vivant et la normativité discursive bidimensionnelle.
-· Cette page ne traite pas de : la biologie cellulaire ou la neurobiologie de premier ordre de Varela ; l'analyse purement langagière du plan KIN (scorekeeping) ; les formalismes mathématiques de la RFT d'aval.
+**Comment l’approche énactive permet-elle d’examiner les conditions biologiques et sensorimotrices de l’activité cognitive sans en déduire directement la signification ou la validité des descriptions produites ?**
 
-5. Statut conceptuel
+## 2. L’énaction : cognition et activité située
 
-Il s'agit d'une fiche d'auteur et d'un héritage philosophique de second ordre, appartenant à la section 10 — Héritages philosophiques.
+L’énaction désigne une approche de la cognition dans laquelle l’activité d’un organisme et ses interactions avec le milieu occupent une place constitutive dans l’explication de ses capacités cognitives.
 
-6. Dépendances fonctionnelles
+Dans *The Embodied Mind* (1991), Francisco Varela, Evan Thompson et Eleanor Rosch développent une approche qui articule cognition incarnée, activité sensorimotrice et expérience vécue. Cette démarche s’oppose notamment aux conceptions dans lesquelles connaître consisterait simplement à reconstruire intérieurement un monde déjà entièrement déterminé, indépendamment de l’activité cognitive.
 
-Cette page suppose :
+L’énaction conduit à examiner les relations entre perception et action. Percevoir ne consiste pas nécessairement à recevoir passivement une information avant d’agir. Les mouvements, les habitudes sensorimotrices, les capacités corporelles et les possibilités offertes par le milieu participent à la manière dont une situation devient perceptivement accessible.
 
-· L'Introduction générale (introduction-generale.md).
-· La baseline du projet (protokin-en-une-phrase.md).
-· La page d'orientation générale de la section (10-heritages-philosophiques.md).
-· Les concepts d'espace des causes (causes.md) et de couplage organisme-milieu (primat-couplage-organisme-milieu.md).
+Cette proposition ne signifie pas que l’organisme crée arbitrairement son environnement. L’activité perceptive se déroule dans des conditions qui la contraignent et peuvent la mettre en échec. Elle ne signifie pas non plus que toute cognition serait dépourvue de représentations internes : elle remet en question leur statut explicatif lorsqu’elles sont supposées suffire à rendre compte de l’activité cognitive.
 
-Cette page rend possible :
+Pour Protokin, l’intérêt de l’énaction est de rendre examinable le rapport entre une activité située et les différences qu’elle permet de reconnaître ou d’explorer. Elle invite à ne pas traiter la perception comme une réception sans activité, ni l’action comme la simple exécution d’une représentation préalablement constituée.
 
-· L'explicitation et l'intégration logique des briques individuelles de premier ordre de la section 03, notamment la configuration rencontrée (configuration-rencontree.md) et le couplage perception-action (couplage-perception-action.md).
-· La modélisation de la niche biologique (niches.md).
-· L'outillage diagnostique de second ordre pour auditer les pathologies d'idéalisme sémantique ou de réduction unilatérale mécaniste au sein de la méthode (08-methode-protokin.md).
+Elle ne fournit cependant pas, à elle seule, une théorie de la description, de l’assertion ou de la justification.
 
-7. Frontières conceptuelles
+## 3. Le couplage organisme-milieu
 
-Héritage de Varela (Section 10) et Couplage perception-action (Section 03)
+Le couplage organisme-milieu désigne les relations dynamiques par lesquelles un organisme interagit avec son environnement et se transforme au cours de ses interactions.
 
-La différence s'établit selon la distinction de provenance et d'établissement. L'héritage de Varela (Section 10) est la ressource philosophique et cybernétique d'amont, analysée rétroactivement pour dégager la fonction d'élucidation de l'énaction. Le concept de couplage perception-action (couplage-perception-action.md) de la section 03 constitue l'établissement théorique de premier ordre au sein de Protokin, modélisant concrètement la circularité sensorimotrice et corporelle comme condition de possibilité des différences descriptibles.
+Dans les travaux de Varela et de Maturana, le couplage structurel concerne les interactions récurrentes entre un système vivant et son milieu, compatibles avec le maintien de son organisation. Ces interactions ne supposent pas que le milieu détermine unilatéralement les transformations de l’organisme. Elles ne supposent pas davantage que l’organisme détermine seul ce qui lui arrive.
 
-Héritage de Varela (Section 10) et Héritage de Merleau-Ponty (Section 10)
+Il faut distinguer plusieurs propositions :
 
-La différence porte sur le niveau de description et l'appareillage théorique. Merleau-Ponty fournit la grammaire phénoménologique de l'ancrage somatique à travers le corps propre vécu (Leib), la praktognosie et le schéma corporel du point de vue de la perspective interne de la première personne. Varela traduit et systémise ce geste phénoménologique au moyen des concepts de la cybernétique de second ordre, de la biologie de l'évolution et de l'énaction, formalisant scientifiquement la boucle de rétroaction et la clôture organisationnelle de l'organisme.
+- **Interaction :** l’organisme et le milieu exercent des contraintes réciproques au cours de leurs échanges.
+- **Transformation :** les interactions peuvent entraîner des modifications de l’organisme et affecter les conditions de ses interactions ultérieures.
+- **Pertinence biologique :** certaines variations du milieu comptent pour l’organisme en fonction de son organisation et de ses possibilités d’activité.
+- **Explication :** rendre compte d’une transformation suppose de préciser les relations et les mécanismes effectivement concernés.
 
-8. Architecture locale
+Ces propositions ne sont pas équivalentes. Une interaction ne démontre pas à elle seule une transformation déterminée ; une transformation observée ne suffit pas à établir son mécanisme ; la pertinence d’une variation pour un organisme ne garantit pas que celui-ci l’identifie correctement dans toutes les circonstances.
 
-```
-                  01 — PRINCIPES FONDAMENTAUX (couplage perception-action)
-                                     │
-                                     ▼
-             10 — HÉRITAGES PHILOSOPHIQUES (10-heritages-philosophiques.md)
-                                     │
-                    ┌────────────────┴────────────────┐
-                    ▼                                 ▼
-         Fiche : Francisco Varela           Fiche : Maurice Merleau-Ponty
-                  (varela.md)                      (merleau-ponty.md)
-                    │                                 │
-                    └────────────────┬────────────────┘
-                                     ▼
-                   03 — FONDEMENTS DESCRIPTIFS (couplage d'aval)
-```
+Pour Protokin, le couplage constitue une ressource pour examiner les conditions dans lesquelles une activité est possible, se maintient ou rencontre une difficulté. Il permet de prendre au sérieux les contraintes du milieu sans réduire l’activité du vivant à une succession de réponses passives.
 
----
+Il ne faut toutefois pas transformer ce rapport en principe selon lequel tout élément de l’environnement serait constitué par l’activité de l’organisme. Le fait qu’un milieu soit pertinent pour une activité donnée ne signifie pas que son existence se réduise à cette activité.
 
-Cartouche fonctionnel
+## 4. L’autopoïèse : organisation et maintien du vivant
 
-Élément Description
-Section 10 — Héritages philosophiques
-Fichier varela.md
-Fonction Établir l'apport conceptuel de Francisco Varela, notamment l'énaction, l'autopoïèse, le couplage structurel et le sense-making biologique.
-Prépare L'explicitation d'aval de la configuration rencontrée, du couplage perception-action, de la niche biologique, et de la transduction relationnelle.
-Mobilise La circularité sensorimotrice, la co-détermination organisme-environnement, la normativité unidimensionnelle et les butoirs réels.
-Permet ensuite D'auditer les pathologies d'idéalisme sémantique (amnésie du somatique) et de réduction unilatérale mécaniste (aplatissement des raisons).
-N'établit pas Le scorekeeping déontique des locuteurs, la taxonomie des régimes d'aval, ni la clinique complète d'audit de terrain.
+Le concept d’autopoïèse a été développé par Humberto Maturana et Francisco Varela pour caractériser l’organisation de certains systèmes vivants.
 
----
+Dans cette approche, un système autopoïétique est organisé comme un réseau de processus de production qui contribue à régénérer les composants et l’organisation dont dépend le système lui-même. Cette organisation participe également à la détermination d’une frontière qui distingue le système de son milieu.
 
-Problème conceptuel inaugural
+L’autopoïèse ne désigne donc pas simplement le fait qu’un organisme se transforme, s’adapte ou échange de la matière avec son environnement. Elle caractérise une organisation particulière des processus par lesquels un système vivant maintient sa propre organisation.
 
-Toute métathéorie qui prend pour objet d'analyse et d'audit les pratiques descriptives d'un collectif s'expose au risque de l'idéalisme linguistique ou de la fétichisation sémantique. Cette pathologie consiste à traiter l'espace des raisons (plan KIN) comme un ciel d'idées pures, un jeu de langage autonome et auto-portant flottant au-dessus d'une matière muette, réduisant le monde physique à un arrière-plan inerte. À l'inverse, pour réencastrer le langage dans la nature, le naturalisme réductionniste ou physicaliste tend à aplatir la redevabilité logique et discursive sur des mécanismes causaux aveugles (cérébraux, statistiques ou génétiques de premier ordre), détruisant l'autonomie et la responsabilité du locuteur et transformant l'esprit en une machine passive d'enregistrement de données brutes.
+Il faut notamment distinguer :
 
-Dès lors, la question s'impose à l'entrée de notre armature d'explication :
+- le maintien de l’organisation d’un système ;
+- les échanges matériels et énergétiques avec son environnement ;
+- les transformations structurelles que le système peut subir ;
+- les conditions dans lesquelles il ne peut plus maintenir son organisation.
 
-Comment théoriser l'origine corporelle, active, circulaire et située de toute intelligibilité sans présupposer un esprit-spectateur passif qui copierait le monde extérieurement, ni réduire l'activité du vivant à une pure mécanique causaliste de premier ordre ou à un traitement interne de représentations mentales désincarnées ?
+Ces aspects sont liés, mais ils ne se confondent pas. Le maintien d’une organisation ne signifie pas l’immobilité de ses composants. L’ouverture matérielle d’un organisme ne contredit pas, en elle-même, la clôture organisationnelle décrite par l’autopoïèse.
 
-Protokin résout cette aporie fondamentale en mobilisant et en reconstruisant rationnellement l'héritage de Francisco Varela (notamment à travers ses travaux fondateurs sur l'autopoïèse et l'énaction, codéveloppés avec Humberto Maturana). La métathéorie s'approprie sa rupture cybernétique pour poser que le vivant ne "reçoit" pas un monde pré-donné mais l'écarte (l'édafie) à travers son activité sensorimotrice continue. Varela fournit l'infrastructure du plan PROTO en démontrant que la cognition n'est pas une représentation interne de propriétés objectives, mais une émergence active issue de la boucle circulaire reliant les gestes du corps et les butoirs du milieu. En traduisant l'énaction au sein de son architecture, Protokin montre comment le couplage biologique d'amont prépare et soutient, sans jamais la dicter mécaniquement, la redevabilité normative du sujet discursif d'aval.
+Pour Protokin, cette approche contribue à examiner les conditions biologiques de la persistance et de la transformation d’un organisme. Elle rappelle que l’activité d’un vivant dépend d’une organisation matérielle dont le maintien n’est jamais garanti par la seule description que l’on en donne.
 
----
+Cette contribution doit néanmoins rester circonscrite. L’autopoïèse ne constitue pas une théorie générale de toute organisation, de toute pratique collective ou de toute description. Son extension à des phénomènes non biologiques exige des arguments spécifiques et ne peut être tenue pour acquise.
 
-Définition fonctionnelle de l'héritage de Varela
+## 5. Production de sens biologique
 
-Dans l'architecture de Protokin, l'héritage de Francisco Varela désigne :
+Dans l’approche énactive, la notion de *sense-making*, ou production de sens, permet d’examiner la manière dont un milieu devient significatif pour un organisme vivant.
 
-La ressource théorique et critique de second ordre qui fournit à la métathéorie le modèle de l'énaction et du couplage structurel (la cognition comme activité sensorimotrice située), le concept d'autopoïèse reformulé comme clôture organisationnelle et effet de frontière physique, et le concept de sense-making (la genèse immanente de significances biologiques), afin d'asseoir l'ancrage somatique du plan PROTO, de récuser l'illusion de l'esprit-spectateur représentationnaliste, et d'armer l'enquêteur contre l'idéalisme discursif d'aval.
+Certaines variations de l’environnement comptent pour un organisme en raison de leurs rapports avec ses possibilités d’activité et les conditions de maintien de sa vie. Une ressource, un obstacle ou une menace ne sont donc pas seulement des différences physiques : ils peuvent présenter une pertinence biologique pour un organisme situé.
 
-De cette définition se dégagent trois fonctions d'élucidation majeures :
+Cette pertinence ne doit pas être confondue avec la signification linguistique d’un terme ou le contenu d’une assertion. La production de sens biologique concerne la manière dont des éléments du milieu acquièrent une valeur dans l’activité d’un vivant. La signification linguistique implique d’autres questions, notamment les usages des expressions, les conséquences de leur emploi et les raisons susceptibles de soutenir ou de contester ce qui est affirmé.
 
-· Un désactivateur du Mythe de la Représentation (L'anti-esprit-spectateur) : Il démontre que le corps vivant n'a pas besoin de traiter des "représentations internes décodées" pour interagir de façon intelligente, flexible et située avec son environnement.
-· Un ancrage somatique pour le Logos (La racine du PROTO) : Il garantit que l'espace des raisons (KIN) s'adosse à des infrastructures vivantes (postures, habitudes, plis du corps) qui entretiennent et subissent la friction des butoirs physiques du milieu.
-· Un diviseur de normativités (L'unidimensionnel vs. le bidimensionnel) : Il permet de cartographier la démarcation entre la normativité vitale (le maintien de la frontière autopoïétique, de l'ordre d'une seule dimension) et la normativité conceptuelle (la redevabilité publique du locuteur devant ses pairs, de l'ordre de deux dimensions).
+La distinction ne signifie pas que ces dimensions seraient indépendantes. Les capacités corporelles, les habitudes perceptives et les interactions avec le milieu peuvent contribuer aux conditions dans lesquelles une activité linguistique se développe. Mais cette dépendance ne suffit pas à expliquer toutes les fonctions du langage.
 
----
+Il faut ainsi distinguer :
 
-Les trois piliers de l'énaction intégrés par Protokin
+- la pertinence d’une variation pour l’activité d’un organisme ;
+- la reconnaissance ou l’identification perceptive de cette variation ;
+- la signification attribuée à une expression dans une pratique ;
+- la justification d’une affirmation portant sur la situation.
 
-L'héritage de Varela est reconstruit de manière fonctionnelle autour de trois massifs théoriques qui gouvernent notre Collective Operating System (cOS) :
+Une pertinence biologique ne constitue pas, à elle seule, une signification linguistique. Une signification linguistique ne démontre pas que l’affirmation correspond à la situation. Une justification ne se réduit pas à l’identification des conditions biologiques dans lesquelles une affirmation a été produite.
 
-```
-                             L'ÉNACTION DE FRANCISCO VARELA
-                                           │
-         ┌─────────────────────────────────┼─────────────────────────────────┐
-         ▼                                 ▼                                 ▼
-   L'Énaction & Couplage             L'Autopoïèse & Frontières          Le Sense-making biologique
-(Anti-esprit-spectateur)             (Clôture de processus)            (Normativité unidimensionnelle)
-```
+Pour Protokin, la production de sens biologique fournit ainsi une ressource pour examiner comment certaines différences deviennent pertinentes dans une activité incarnée. Elle ne remplace pas l’analyse des pratiques descriptives et des raisons qui permettent de défendre leurs conclusions.
 
-1. L'énaction et le couplage structurel : la dissolution de l'esprit-spectateur
+## 6. Ce que cet héritage apporte à Protokin
 
-Au cœur de l'apport de Varela (notamment formulé dans L'Inscription corporelle de l'esprit, 1991) se trouve la réfutation radicale du modèle cognitiviste de l'esprit-ordinateur. Ce modèle classique séparait le matériel biologique ("hardware" cérébral) du logiciel sémantique ("software" mental) et concevait la perception comme une saisie passive d'informations extérieures traitées par un processeur central.
+L’apport de Varela peut être retenu sur trois points.
 
-Varela oppose à cet intellectualisme le paradigme de l'énaction :
+### 6.1. Examiner l’activité plutôt que présupposer une réception passive
 
-· L'indissociabilité de la perception et de l'action : Percevoir n'est pas recevoir une image, c'est exercer une habileté sensorimotrice active. Le regard de l'œil, le mouvement de la tête et les déplacements du corps co-constituent à chaque instant le champ de vision. On ne perçoit pas pour agir, on perçoit en agissant.
-· Le couplage structurel (Structural Coupling) : L'organisme et son milieu s'ajustent réciproquement à travers des perturbations mutuelles. L'organisme ne s'adapte pas à un environnement pré-existant ; le milieu pertinent est découpé, balisé et configuré par l'activité même du vivant.
+L’énaction conduit à examiner les capacités corporelles, les mouvements et les interactions qui participent à l’activité perceptive. Elle invite à ne pas traiter les éléments perceptifs comme des données indépendantes des conditions dans lesquelles ils sont explorés et reconnus.
 
-Protokin s'approprie ce concept pour fonder son principe du primat du couplage perception-action. La métathéorie pose que la rencontre muette avec le milieu (plan PROTO) n'est pas un donné passif, mais une réussite active du corps en interaction, balayant l'illusion représentationnaliste d'amont.
+Pour l’enquête descriptive, cela rappelle que les conditions d’accès à une situation peuvent affecter ce qui est observé, distingué et décrit. Ces conditions doivent être examinées sans être transformées automatiquement en critères de correction de la description.
 
-2. L'autopoïèse et la co-constitution des frontières
+### 6.2. Examiner les contraintes sans réduire toutes les explications à des causes
 
-Le second pilier, formulé dans Autopoiesis and Cognition (1980), définit la vie elle-même comme un processus d'autopoïèse (auto-production). Un système autopoïétique se caractérise par une clôture organisationnelle : il est un réseau de processus de production de composants qui, par leurs interactions, régénèrent continuellement le réseau qui les produit, et spécifient une frontière physique le séparant de son milieu.
+Le couplage organisme-milieu et l’autopoïèse rendent visibles certaines dépendances biologiques et matérielles de l’activité. Ils contribuent à éviter une conception dans laquelle les pratiques descriptives seraient considérées indépendamment des organismes, des techniques et des environnements qui les rendent possibles.
 
-Protokin s'approprie cette intuition cybernétique en la dégageant de tout substantialisme de premier ordre, sous l'influence du concept d'intra-action :
+Mais identifier ces dépendances ne suffit pas à établir les raisons d’une affirmation ni à justifier une conclusion. Une explication biologique et une justification discursive peuvent porter sur une même situation sans répondre à la même question.
 
-· Le corps comme processus thermodynamique ouvert : Le vivant n'est pas une substance matérielle close, mais un processus dynamique de maintien d'équilibre hors d'équilibre, important des ressources et exportant de l'entropie face aux butoirs physiques du milieu.
-· La co-détermination des frontières : La frontière corporelle (la peau, les récepteurs) n'est pas une donnée anatomique statique et absolue d'amont, mais un "effet de frontière" dynamique co-constitué et maintenu par le pattern même de l'interaction de l'organisme avec son environnement. "Toute ontogenèse est une co-ontogenèse."
+### 6.3. Distinguer la pertinence biologique de la validité descriptive
 
-Ce geste permet à Protokin de penser l'agent (le "moi") non comme un sujet transcendantal souverain d'amont, mais comme une stabilité émergente du couplage somatique PROTO, disponible pour être qualifié et redevable au sein du KIN d'aval.
+La production de sens biologique permet d’examiner pourquoi certaines variations comptent pour un organisme. Elle ne permet pas, à elle seule, de décider si une description de ces variations est adéquate.
 
-3. Le sense-making biologique et la normativité unidimensionnelle
+Une réaction biologiquement pertinente peut être mal identifiée ou mal décrite. Inversement, une description peut être correcte même lorsque la situation décrite n’a pas d’importance immédiate pour l’organisme qui la produit.
 
-Varela montre que l'autopoïèse n'est pas une simple clôture mécanique neutre : elle instaure immédiatement une perspective cognitive, un sense-making (production de sens immanente). Parce qu'il doit maintenir son autopoïèse sous peine de mort (dissolution de la frontière), l'organisme attribue des significations et des valences vitales (le "narcissisme" ou l'intérêt biologique) à ses entours. Le monde n'apparaît plus comme un ensemble de paramètres physiques indifférents, mais comme un champ d'affordances (nourriture, menace, confort, obstacle) relatives à la viabilité du vivant.
+L’intérêt de cet héritage est donc de préciser certaines conditions de l’activité descriptive, non de fonder sa validité sur son origine biologique.
 
-Protokin intègre cette production de sens biologique en la distinguant rigoureusement de la signification conceptuelle discursive :
+## 7. Limites et non-conversions
 
-· La normativité unidimensionnelle (Pôle PROTO) : C'est la normativité vitale immanente au vivant, mesurée à l'aune du maintien ou de l'effondrement de son autopoïèse. L'organisme y réussit ou y échoue de fait, mais il ne peut pas se tromper ou commettre d'erreur logique, car il ne dispose d'aucun écart réflexif pour contester ses propres critères. Sa perception est "unidimensionnelle".
-· La normativité bidimensionnelle (Pôle KIN) : C'est la normativité proprement conceptuelle et discursive, rendue possible par la transduction relationnelle et l'institution de supports documentaires et linguistiques partagés. Ici, le locuteur peut séparer ce qu'il dit de ce qui est, introduisant la possibilité de la révisabilité des critères, de l'erreur, du mensonge et de la justification publique devant ses pairs.
+L’usage de Varela dans Protokin doit respecter plusieurs limites.
 
-```
-               NIVEAUX DE NORMATIVITÉ DANS L'ARCHITECTURE PROTOKIN
-                                           │
-         ┌─────────────────────────────────┴─────────────────────────────────┐
-         ▼ (Plan PROTO — Unidimensionnel)                                    ▼ (Plan KIN — Bidimensionnel)
-Normativité vitale d'auto-maintien.                                 Normativité conceptuelle discursive.
-Le vivant réussit ou échoue de fait (Butoirs).                      Le locuteur s'engage et justifie (Raisons).
-Aucun écart à soi : Pas d'erreur possible.                          Écart réflexif : Erreur et révision possibles.
-```
+**L’énaction ne réfute pas indistinctement toute représentation.** Elle propose une conception de la cognition centrée sur l’activité incarnée et située. Elle ne dispense pas d’examiner, selon les cas, le rôle des représentations, des modèles ou des ressources symboliques.
 
----
+**L’autopoïèse ne constitue pas une ontologie générale.** Son emploi pour caractériser des systèmes autres que ceux auxquels elle s’applique dans son cadre initial doit être justifié. La présence d’interactions, d’une organisation ou d’une frontière ne suffit pas à établir l’autopoïèse.
 
-Éclairage par les fils rouges pédagogiques
+**Le couplage ne signifie pas une symétrie parfaite.** L’organisme et le milieu peuvent exercer des contraintes réciproques sans disposer des mêmes capacités ni contribuer de manière identique à une situation.
 
-L'utilité clinique du legs de Francisco Varela s'éprouve directement à travers nos situations de référence :
+**La production de sens biologique ne se confond pas avec la signification conceptuelle.** La pertinence d’un élément pour la viabilité d’un organisme ne constitue ni une assertion ni une justification.
 
-1. Le vélo rouge
+**L’origine biologique d’une capacité ne justifie pas les conclusions produites grâce à elle.** Décrire les conditions corporelles d’une perception ou d’une affirmation ne suffit pas à établir l’adéquation de cette perception ou de cette affirmation.
 
-L'énoncé de premier ordre « Le vélo est rouge » subit l'illusion de la réceptivité passive. Sans Varela, l'auditeur s'imagine que la propriété chromatique "rouge" est une donnée objective brute, enregistrée par l'œil comme une radiographie. L'analyse de second ordre dénonce ce Mythe du Donné en mobilisant l'énaction : elle montre que le "rouge" de l'expérience vécue (image manifeste) n'est pas une longueur d'onde passivement imprimée dans le cerveau, mais le résultat d'un couplage sensorimoteur actif, d'un mouvement d'exploration oculaire (saccades, focalisation) soutenu par un support incorporé (l'œil éduqué par la culture). Le rouge est un événement énactionnel co-constitué, compatible avec sa modélisation quantitative en longueur d'onde au sein de l'image scientifique.
+**Une contrainte matérielle ne détermine pas seule son interprétation.** Elle peut rendre une description difficile à maintenir, mais les conclusions à en tirer dépendent aussi des observations, des relations établies et des raisons avancées.
 
-2. Le patient aux urgences hospitalières
+Ces limites ne diminuent pas l’intérêt de Varela. Elles précisent la contribution que ses travaux peuvent apporter à une enquête qui distingue les conditions d’une activité, les fonctions exercées dans une pratique et les raisons permettant de défendre une description.
 
-La situation de triage aux urgences illustre de manière dramatique l'épreuve de l'autopoïèse et du sense-making. La détresse respiratoire ou cardiaque aiguë du patient (pouls rapide, dyspnée, moiteur, plan PROTO) représente un effondrement éminent du maintien de sa clôture biologique face à l'entropie. La souffrance du patient est une alerte somatique brute, une perturbation de sa normativité vitale unidimensionnelle qui s'impose comme un butoir d'amont. L'injustice se produit lorsque le régime comptable de l'administration hospitalière (image administrative standardisée) refuse de valider l'alerte clinique de l'infirmière, tentant d'aplatir cette tension vitale critique sur de simples indicateurs logistiques (disponibilité de lits), niant la normativité somatique d'amont.
+## 8. Relations avec les autres ressources
 
-3. Le botaniste et le bûcheron face à l'arbre
+La page de [Maurice Merleau-Ponty](fr/maurice-merleau-ponty.md) examine notamment le corps vécu, l’intentionnalité motrice et le savoir pratique. La comparaison avec Varela permet de distinguer une analyse phénoménologique de l’expérience corporelle et une approche énactive de la cognition et du vivant, sans faire de l’une la simple traduction de l’autre.
 
-Leur rencontre avec la forêt met en jeu deux couplages structurels et énactionnels hétérogènes. L'arbre biophysique réel constitue le sol commun et le milieu physique de premier ordre (plan PROTO). Par son travail quotidien, le bûcheron est couplé à l'arbre à travers un réseau d'affordances et de résistances physiques (la dureté du tronc, le sens de la coupe, la praktognosie de la hache, image manifeste technique de l'artisan). Le botaniste, quant à lui, est couplé à l'arbre à travers des instruments de mesure, des flores d'université et des grilles de classification phylogénétique (image scientifique). Varela nous enseigne que leurs deux découpages du milieu sont également valides et ancrés dans des pratiques énactionnelles, sans que l'un ne détienne le monopole de l'accès au "réel en soi".
+L’[introduction générale](fr/introduction-generale.md) présente le problème auquel répond Protokin et la portée de sa démarche. Il n’est pas nécessaire de le reprendre ici.
 
-4. La déconstruction de « Cette personne est mauvaise »
+L’[architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) décrit les opérations mobilisables pour examiner une difficulté descriptive. Les concepts de Varela peuvent éclairer certains problèmes rencontrés dans cette enquête, mais ils ne constituent pas des opérations supplémentaires.
 
-L'énoncé ordinaire « Cette personne est mauvaise » est le produit d'une erreur de catégorie d'essentiation permanente. L'analyse d'audit varentienne démasque cette pathologie. Elle montre que le blâme moral convertit une qualification normative d'imputation relative, révisable et dépendante de l'espace public (plan KIN), en une propriété naturelle, biologique ou cérébrale immuable de l'organisme (plan PROTO réifié). En oubliant l'énaction, le blâme traite l'agent comme un objet clos et figé, occultant la plasticité comportementale intrinsèque de l'organisme, qui demeure par définition une structure dissipative ouverte, plastique et toujours capable de ré-apprentissage et de ré-organisation dans ses relations avec le milieu.
+La [quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) distingue les orientations Condition, Relation, Fonction et Justification. L’héritage de Varela peut contribuer à l’examen des conditions et des relations d’une activité biologique ; il ne fonde pas cette quadripartition et ne permet pas d’en déduire les autres orientations.
 
----
+La [table des matières](fr/tdm.md) situe cette page parmi les ressources du corpus et permet d’accéder aux autres développements.
 
-Limites et vigilances d'usage (Pitfalls)
+## 9. Références principales
 
-Dans l'explicitation et le maniement de l'héritage de Francisco Varela, l'enquêteur de second ordre doit observer trois vigilances d'audit fondamentales :
+- Maturana, Humberto R., et Francisco J. Varela. *Autopoiesis and Cognition: The Realization of the Living*. 1980.
+- Varela, Francisco J., Evan Thompson et Eleanor Rosch. *The Embodied Mind: Cognitive Science and Human Experience*. 1991.
+- Varela, Francisco J. *Ethical Know-How: Action, Wisdom, and Cognition*. 1992.
 
-· Le piège de la réduction vitaliste ou biologisante (La naturalisation du Logos) : S'imaginer que les concepts de l'énaction et de l'autopoïèse permettent de dissoudre ou d'expliquer entièrement l'espace des raisons (plan KIN). Protokin le rappelle fermement : l'autopoïèse et le sense-making biologique relèvent d'une normativité unidimensionnelle (maintien vital). L'espace des raisons est d'une autre nature, car il est bidimensionnel, exigeant des rituels publics de redevabilité, de scorekeeping, de justification et d'ascription de responsabilité collective qui n'ont aucun équivalent dans la simple vie biologique.
-· Le piège de l'idéalisme solipsiste (L'oubli des butoirs du milieu) : Interpréter le concept de "clôture organisationnelle" de l'autopoïèse comme l'autorisation de concevoir l'organisme comme un système fermé, autoportant et déconnecté de la réalité biophysique. Au contraire, l'autopoïèse ne se maintient que par des échanges matériels et thermodynamiques constants avec le milieu, lequel oppose des résistances réelles (les butoirs ou stoppers physiques). Oublier les butoirs réels ferait rechuter l'énaction dans une forme de constructivisme absolu ou de sémantisme sans frottement, détruisant la viabilité de l'enquête.
-· Le biais de la fétichisation cybernétique (La jargonisation mécaniste) : Remplacer l'analyse clinique et qualitative des pratiques vécues des acteurs par un formalisme cybernétique de premier ordre stérile (représentations computationnelles, boucles d'équations), qui traiterait les corps comme de simples machines de rétroaction et détruirait l'épaisseur historique de l'image manifeste. L'énaction doit rester un opérateur de second ordre au service de l'émancipation des locuteurs de terrain, et non un instrument de déshumanisation managériale.
+Ces ouvrages ne soutiennent pas tous exactement les mêmes propositions. *Autopoiesis and Cognition* concerne notamment l’organisation du vivant ; *The Embodied Mind* développe une approche incarnée et énactive de la cognition ; *Ethical Know-How* examine les rapports entre action, savoir pratique et éthique. Ils doivent être mobilisés en fonction des propositions effectivement discutées, et non comme les expressions interchangeables d’une doctrine unique.
 
----
+## Synthèse
 
-Synthèse finale
+L’héritage de Francisco Varela permet d’examiner la cognition à partir de l’activité sensorimotrice, du couplage organisme-milieu, de l’organisation du vivant et de la pertinence biologique de certaines différences.
 
-Ce que cette page établit
+Pour Protokin, cet apport rappelle que les pratiques descriptives se déroulent dans des conditions corporelles, matérielles et environnementales qui affectent ce qu’il est possible de percevoir et de faire. Il ne permet pas de réduire la signification linguistique à la pertinence biologique, la justification aux causes de production d’une affirmation, ni l’adéquation descriptive à l’efficacité d’une activité.
 
-L'apport de Francisco Varela à la métathéorie Protokin en tant que ressource réflexive de second ordre, formalisant le modèle de l'énaction et du couplage structurel (refus de l'esprit-spectateur), la conceptualisation de l'autopoïèse comme clôture et effet de frontière co-constitué, l'enracinement somatique du pôle PROTO par le sense-making biologique, et la distinction de juridiction entre normativité unidimensionnelle et normativité bidimensionnelle.
-
-Ce qu'elle suppose
-
-L'Introduction générale (introduction-generale.md), la baseline (protokin-en-une-phrase.md), la page d'orientation générale de la section (10-heritages-philosophiques.md), et les concepts d'espace des causes (causes.md) et du couplage organisme-milieu d'amont (primat-couplage-organisme-milieu.md).
-
-Ce qu'elle rend possible
-
-L'explicitation ordonnée et autonome des briques d'établissement de premier ordre de la section 03 (configuration-rencontree.md, couplage-perception-action.md, configuration-semiotique.md), le déploiement conceptuel de la niche biologique (niches.md) et de la transduction relationnelle (transduction_relationnelle_rft.md), et la conduite méthodique des diagnostics cliniques d'audit de second ordre (08-methode-protokin.md).
-
----
-
-Protokin 2026 — version 26.08.081
+Varela constitue ainsi une ressource conceptuelle pour examiner certaines conditions de l’activité descriptive, non une fondation générale de Protokin. La portée de cet héritage dépend des problèmes étudiés et des arguments qui justifient son emploi.
