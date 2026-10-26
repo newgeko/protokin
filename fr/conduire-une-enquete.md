@@ -186,4 +186,3 @@ Pour poursuivre :
 - [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md)
 - [Quadripartition de l’orientation](quadripartition-de-l-orientation.md)
 - [Table des matières](tdm.md)
-- [Patterns éditoriaux de Protokin](../patterns.md)
