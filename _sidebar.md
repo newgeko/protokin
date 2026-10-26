@@ -1,62 +1,50 @@
 - [Accueil](README.md)
 - [Introduction générale](fr/introduction-generale.md)
 - [Protokin en une phrase](fr/protokin-en-une-phrase.md)
-- [Ce que Protokin permet](fr/ce-que-protokin-permet.md)
-- [Ce que Protokin ne prétend pas faire](fr/ce-que-protokin-ne-pretend-pas-faire.md)
 - [Parcours de lecture](fr/parcours-de-lecture.md)
 - [Table des matières](fr/tdm.md)
 
-- **I. Cadre de référence**
+- **I. Comprendre le projet**
   - [Architecture du projet](fr/architecture-projet.md)
   - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
   - [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
   - [Registres](fr/registres.md)
   - [Nom, origine et portée](fr/nom-origine-portee.md)
-  - [Orientation et chemin de l’enquête](fr/orientation-et-chemin-de-l-enquete.md)
+  - [Ce que Protokin permet](fr/ce-que-protokin-permet.md)
+  - [Ce que Protokin ne prétend pas faire](fr/ce-que-protokin-ne-pretend-pas-faire.md)
 
-- **II. Opérations de l’enquête**
+- **II. Conduire une enquête**
   - [Problème descriptif](fr/probleme-descriptif.md)
   - [Enquête](fr/enquete.md)
   - [La chaîne principale de l’enquête](fr/la-chaine-principale-de-l-enquete.md)
   - [Conduire une enquête](fr/conduire-une-enquete.md)
   - [Pourquoi ne pas alourdir l’enquête ?](fr/pourquoi-ne-pas-alourdir-l-enquete.md)
-  - **Cadrer**
+  - **Opérations**
     - [Délimiter](fr/delimiter.md)
     - [Ancrer](fr/ancrer.md)
-  - **Analyser**
     - [Distinguer](fr/distinguer.md)
     - [Relier](fr/relier.md)
-  - **Construire et justifier**
     - [Configurer](fr/configurer.md)
     - [Justifier](fr/justifier.md)
-  - **Reprendre**
     - [Reconstituer](fr/reconstituer.md)
     - [Redélimiter](fr/redelimiter.md)
 
-- **III. Fonctions transversales et audit**
-  - **Temporalité et transformation**
-    - [Temps physique](fr/temps.md)
-    - [Le référent temporel](fr/le-referent-temporel.md)
-    - [Temporalité descriptive](fr/temporalite-descriptive.md)
-    - [Anachronisme descriptif](fr/anachronisme.md)
-    - [Historicité](fr/historicite.md)
-    - [Trajectoire](fr/trajectoire.md)
-    - [Transition](fr/transition.md)
-    - [Allure](fr/allure.md)
-    - [Transformation](fr/transformation.md)
-    - [Sédimentation](fr/sedimentation.md)
-  - **Audit et réflexivité**
-    - [Les diagnostics de l’enquête](fr/les-diagnostics-de-l-enquete.md)
-    - [Auto-application](fr/auto-application.md)
-    - [Comparer deux descriptions](fr/comparer-deux-descriptions.md)
-  - **Asymétries et injustices**
-    - [Effet cliquet](fr/effet-cliquet.md)
-    - [Injustice épistémique](fr/injustice-epistemique.md)
-    - [Injustice herméneutique](fr/injustice-hermeneutique.md)
-    - [Reconstruction rétrospective et pardon déontique](fr/reconstruction-recollective-et-pardon.md)
+- **III. Temporalité, audit et réflexivité**
+  - [Temps physique](fr/temps.md)
+  - [Temporalité descriptive](fr/temporalite-descriptive.md)
+  - [Historicité](fr/historicite.md)
+  - [Trajectoire](fr/trajectoire.md)
+  - [Transition](fr/transition.md)
+  - [Transformation](fr/transformation.md)
+  - [Sédimentation](fr/sedimentation.md)
+  - [Les diagnostics de l’enquête](fr/les-diagnostics-de-l-enquete.md)
+  - [Auto-application](fr/auto-application.md)
+  - [Comparer deux descriptions](fr/comparer-deux-descriptions.md)
+  - [Injustice épistémique](fr/injustice-epistemique.md)
+  - [Injustice herméneutique](fr/injustice-hermeneutique.md)
 
-- **IV. Pratiques discursives et inférence**
-  - **Proposition et engagements**
+- **IV. Langage, inférence et justification**
+  - **Pratiques discursives**
     - [Proposition](fr/proposition.md)
     - [Assertion](fr/assertion.md)
     - [Pratique collective](fr/pratique-collective.md)
@@ -64,41 +52,27 @@
     - [Auditeur](fr/auditeur.md)
     - [Engagement descriptif](fr/engagement-descriptif.md)
     - [Position épistémique](fr/position-epistemique.md)
-    - [Le débordement pragmatique de l’assertion](fr/le-debordement-pragmatique-de-l-assertion.md)
   - **Inférence et raisons**
     - [Inférence](fr/inference.md)
-    - [La portée inférentielle](fr/la-portee-inferentielle.md)
     - [Inférence formelle](fr/inference-formelle.md)
     - [Inférence matérielle](fr/inference-materielle.md)
     - [Espace des raisons](fr/espace-des-raisons.md)
     - [Raison](fr/raison.md)
-    - [Pairs — Engagement discursif et habilitation](fr/pairs.md)
-    - [Scorekeeping déontique](fr/scorekeeping-deontique.md)
     - [Justification](fr/justification.md)
     - [Critère](fr/critere.md)
-  - **Relations sémantiques et dérivation**
+  - **Référence et reprise**
     - [Relation sémantique et référence](fr/relation-semantique-et-reference.md)
-    - [Ascriptions de dicto et de re](fr/ascriptions-de-dicto-de-re.md)
-    - [Relations LX et pragmatique de l’explicitation](fr/relations-lx-et-pragmatique-de-l-explicitation.md)
-    - [Inférence mutuelle](fr/inference-mutuelle.md)
-    - [Inférence combinatoire](fr/inference-combinatoire.md)
-    - [Transformation des fonctions de stimulus](fr/transformation-de-fonction-de-stimulus.md)
-  - **Prédication et reprise**
     - [Prédication](fr/predication.md)
     - [Référent](fr/referent.md)
     - [Objet descriptif](fr/objet-descriptif.md)
     - [Description](fr/description.md)
     - [Anaphore](fr/anaphore.md)
     - [Déixis](fr/deixis.md)
-    - [Occurrence](fr/occurence.md)
     - [Substitution](fr/substitution.md)
     - [Stabilisation](fr/stabilisation.md)
-    - [Traduction](fr/traduction.md)
-    - [Motif](fr/motif.md)
-    - [Exégèse](fr/exegese.md)
 
-- **V. Conditions, relations, fonctions et régimes descriptifs**
-  - **Orientations de l’examen**
+- **V. Conditions, relations et régimes descriptifs**
+  - **Orientations et contraintes**
     - [Butoir](fr/butoir.md)
     - [Cause](fr/cause.md)
     - [Explication](fr/explication.md)
@@ -107,52 +81,38 @@
     - [Régime descriptif](fr/regime-descriptif.md)
     - [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md)
     - [Identifier un régime](fr/identifier-un-regime.md)
-    - [Une première cartographie des régimes descriptifs](fr/une-premiere-cartographie-des-regimes-descriptifs.md)
-    - [Différence rencontrée](fr/difference-rencontree.md)
-    - [Configuration rencontrée](fr/configuration-rencontree.md)
     - [Configuration descriptive](fr/configuration-descriptive.md)
     - [Configuration sémiotique](fr/configuration-semiotique.md)
-    - [Configuration](fr/configuration.md)
-    - [Trace](fr/trace.md)
-    - [Indice](fr/indice.md)
-    - [Dérive indicielle](fr/derive-indicielle.md)
-    - [Support descriptif](fr/support-descriptif.md)
-    - [RDRD et entrée perceptive](fr/rdrd-et-entree-perceptive.md)
-    - [Image manifeste](fr/image-manifeste.md)
-    - [Image scientifique](fr/image-scientifique.md)
-    - [Fonction de stimulus](fr/fonction-de-stimulus.md)
-    - [Le stimulus physique](fr/le-stimulus-physique.md)
-  - **Catégories et clarification**
+  - **Catégories et normativité**
     - [Catégories](fr/categories.md)
-    - [Taxonomies descriptives](fr/taxonomies.md)
+    - [Taxonomies](fr/taxonomies.md)
     - [De la notion au concept](fr/de-la-notion-au-concept.md)
-  - **Normativité et validité**
     - [Norme descriptive](fr/norme-descriptive.md)
     - [Validité](fr/validite.md)
     - [Description et normativité](fr/description-et-normativite.md)
-    - [Thèse](fr/these.md)
-    - [Redevabilité matérielle](fr/redevabilite-materielle.md)
-  - **Supports descriptifs**
+  - **Traces et supports**
+    - [Indice](fr/indice.md)
+    - [Trace](fr/trace.md)
+    - [Image manifeste](fr/image-manifeste.md)
+    - [Image scientifique](fr/image-scientifique.md)
+    - [Support descriptif](fr/support-descriptif.md)
     - [Supports descriptifs incorporés](fr/supports-descriptifs-incorpores.md)
     - [Supports descriptifs externes](fr/supports-descriptifs-externes.md)
     - [Supports descriptifs institutionnels](fr/supports-descriptifs-institutionnels.md)
 
-- **VI. Instruments d’épreuve et diagnostic**
-  - **Diagnostiquer**
-    - [Diagnostiquer une confusion de niveau](fr/diagnostiquer-une-confusion-de-niveau.md)
-    - [Diagnostiquer une erreur de catégorie](fr/diagnostiquer-une-erreur-de-categorie.md)
-    - [Diagnostiquer une réduction](fr/diagnostiquer-une-reduction.md)
-    - [Recevabilité](fr/recevabilite.md)
-    - [Tension](fr/tension.md)
-  - **Comparer et éprouver**
-    - [Comparer deux descriptions](fr/comparer-deux-descriptions.md)
-    - [Évaluer une traduction](fr/evaluer-une-traduction.md)
-    - [Révision descriptive et résultats scientifiques](fr/revision-descriptive-et-resultats-scientifiques.md)
+- **VI. Diagnostiquer et éprouver**
+  - [Diagnostiquer une confusion de niveau](fr/diagnostiquer-une-confusion-de-niveau.md)
+  - [Diagnostiquer une erreur de catégorie](fr/diagnostiquer-une-erreur-de-categorie.md)
+  - [Diagnostiquer une réduction](fr/diagnostiquer-une-reduction.md)
+  - [Recevabilité](fr/recevabilite.md)
+  - [Tension](fr/tension.md)
+  - [Évaluer une traduction](fr/evaluer-une-traduction.md)
+  - [Révision descriptive et résultats scientifiques](fr/revision-descriptive-et-resultats-scientifiques.md)
 
 - **VII. Cas et confrontations**
   - [Le botaniste et le bûcheron](fr/botaniste-bucheron.md)
-  - [Cette personne est mauvaise](fr/cette-personne-est-mauvaise.md)
   - [La pièce de cuivre](fr/la-piece-de-cuivre.md)
+  - [Cette personne est mauvaise](fr/cette-personne-est-mauvaise.md)
   - [Changement climatique](fr/changement-climatique.md)
   - [Géocentrisme](fr/geocentrisme.md)
   - [Phlogistique](fr/phlogistique.md)
@@ -160,7 +120,7 @@
   - [Urgence hospitalière](fr/urgence-hospitaliere.md)
   - [Intelligence artificielle](fr/intelligence-artificielle.md)
 
-- **VIII. Héritages philosophiques**
+- **VIII. Références philosophiques**
   - [John Dewey](fr/john-dewey.md)
   - [Charles Sanders Peirce](fr/charles-sanders-pierce.md)
   - [Ludwig Wittgenstein](fr/ludwig-wittgenstein.md)
