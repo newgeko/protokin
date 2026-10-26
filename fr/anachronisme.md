@@ -101,7 +101,7 @@ Plusieurs résultats restent possibles. L’enquête peut établir une continuit
 
 L’exemple ne démontre aucune théorie générale de la référence. Il montre pourquoi la différence entre une description historique et une description contemporaine ne suffit pas à décider de leur relation.
 
-## 5. Questions d’audit
+## 5. Questions pour éprouver une reconstruction historique
 
 Pour examiner une reconstruction historique, l’enquête peut poser les questions suivantes :
 
