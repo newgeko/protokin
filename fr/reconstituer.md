@@ -139,5 +139,6 @@ Pour poursuivre :
 
 - [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md)
 - [Quadripartition de l’orientation](quadripartition-de-l-orientation.md)
+- [Révision descriptive et résultats scientiphiques](fr/revision-descriptive-et-resultats-scientifiques.md) - une reconstruction rétrospective ne détermine pas à elle seule ce qui doit être révisé, ni ne prouve que la révision était nécessaire.
 - [Justifier](justifier.md)
 - [Redélimiter](redelimiter.md)
