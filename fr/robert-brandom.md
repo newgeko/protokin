@@ -18,24 +18,17 @@ Cette proposition s’oppose à une stratégie explicative qui traiterait d’ab
 
 Pour Protokin, la conséquence méthodologique est limitée mais importante : le contenu d’une description peut être examiné à partir de ce qu’elle permet de conclure, des raisons qui peuvent la soutenir et des incompatibilités qu’elle introduit. Cela n’autorise pas à réduire son contenu à la seule fréquence de ses usages ni à l’acceptation sociale dont elle bénéficie.
 
-## 2. La normativité des engagements discursifs
+## 2. La pragmatique normative : engagements et habilitations
 
-La pratique discursive n’est pas seulement un ensemble de comportements observables. Elle comporte des statuts normatifs : les participants peuvent être tenus pour engagés par une affirmation, autorisés ou non à la maintenir, invités à en fournir les raisons, ou conduits à réviser leur position.
+La pratique discursive comporte des statuts normatifs. En affirmant une proposition, un locuteur prend des engagements : il devient comptable de ce qu’il affirme et, selon les relations inférentielles pertinentes, de certaines conséquences de son affirmation. L’habilitation désigne, quant à elle, ce qui l’autorise à soutenir cette proposition ou à en tirer une conclusion.
 
-Brandom distingue notamment :
+Engagement et habilitation ne coïncident pas. Un locuteur peut devoir répondre d’une affirmation sans disposer de raisons suffisantes pour la défendre. Inversement, des éléments peuvent autoriser une conclusion sans que le locuteur l’ait encore affirmée publiquement.
 
-- l’**engagement** (*commitment*) : ce dont un locuteur devient comptable en avançant une affirmation et des conséquences qui lui sont imputables ;
-- l’**habilitation** (*entitlement*) : ce qui autorise un locuteur à soutenir cette affirmation dans les circonstances considérées.
+Brandom analyse le suivi de ces statuts au moyen du **scorekeeping déontique**. Les participants reconnaissent, attribuent et contestent mutuellement des engagements et des habilitations. Les perspectives du locuteur et de l’auditeur peuvent diverger : ce que le premier reconnaît de ses engagements ne correspond pas nécessairement à ce que le second lui attribue.
 
-Ces statuts ne coïncident pas. Un locuteur peut être engagé par une affirmation sans disposer de raisons suffisantes pour la soutenir. Il peut également être habilité à avancer une conclusion sans avoir explicitement reconnu toutes les conséquences qui lui sont associées.
+Cette divergence rend possible l’examen public des affirmations, de leurs conséquences et des raisons avancées pour les soutenir. Elle ne garantit cependant pas la correction des attributions ni la validité des évaluations produites.
 
-L’assertion occupe une place centrale parce qu’elle rend un contenu disponible à l’évaluation publique. Affirmer, ce n’est pas seulement produire une phrase : c’est prendre en charge un contenu auquel d’autres participants peuvent répondre, demander des raisons, attribuer des conséquences ou opposer des incompatibilités.
-
-Brandom décrit le suivi de ces statuts par la notion de *scorekeeping déontique*. Les participants tiennent compte des engagements et des habilitations qu’ils s’attribuent mutuellement. Ce suivi dépend de perspectives situées : ce qu’un locuteur reconnaît de ses propres engagements peut différer de ce que les autres lui attribuent.
-
-Le *scorekeeping* n’est pas une garantie de correction. Une communauté peut attribuer correctement un engagement tout en appliquant des critères contestables pour évaluer l’affirmation. La reconnaissance sociale d’un statut ne suffit donc pas à établir la vérité du contenu.
-
-Pour Protokin, cette analyse permet de distinguer l’usage effectif d’une description, les engagements qui lui sont associés et les raisons qui permettent de la maintenir.
+Pour l’analyse détaillée de ces mécanismes — prise en charge, attribution, conséquences des assertions et révision des statuts discursifs — voir [Scorekeeping déontique — Suivre les engagements et les habilitations](fr/scorekeeping-deontique.md).
 
 ## 3. Le contenu comme rôle inférentiel
 
@@ -75,28 +68,21 @@ Pour Protokin, cette distinction est essentielle : les conditions sociales de l�
 
 ## 6. Apport pour Protokin et limites de l’appropriation
 
-L’apport de Brandom peut être organisé autour d’une même articulation : les pratiques discursives comportent des normes ; ces normes structurent les engagements et les inférences ; l’analyse sémantique explicite les contenus et les relations mobilisés ; la possibilité de contester et de réviser ces engagements permet de mettre les descriptions à l’épreuve.
+L’apport de Brandom tient à l’articulation de trois dimensions : les pratiques discursives dans lesquelles des affirmations sont produites et contestées, les relations inférentielles qui structurent leur contenu et les normes selon lesquelles elles peuvent être défendues ou révisées.
 
-Pour Protokin, cela fournit des questions concrètes :
+Le [scorekeeping déontique](fr/scorekeeping-deontique.md) précise comment les engagements et les habilitations sont pris en charge, attribués et réévalués dans les échanges. La présente page conserve une fonction différente : situer ce mécanisme dans l’architecture générale de l’inférentialisme et expliquer le rapport entre pragmatique, sémantique et objectivité.
 
-- Qu’est-ce qu’une description engage lorsqu’elle est affirmée ?
-- Quelles conclusions autorise-t-elle, et quelles prémisses sont nécessaires pour les soutenir ?
-- Quelles affirmations deviennent incompatibles avec elle ?
-- Qui attribue les engagements et selon quelles perspectives ?
-- Quelles raisons autorisent à maintenir ou à réviser la description ?
-- Qu’est-ce qui permet d’évaluer son adéquation à la situation décrite, au-delà de sa cohérence ou de son acceptation ?
-
-Ces questions ne forment pas une procédure universelle. Elles doivent être articulées avec l’examen des conditions matérielles, corporelles, historiques et relationnelles dans lesquelles les pratiques descriptives se déploient. L’inférentialisme n’épuise pas ces dimensions.
+Pour Protokin, cet apport permet d’examiner ce qu’une description engage, ce qu’elle autorise à conclure et les raisons qui peuvent soutenir sa révision. Il ne permet pas de déduire l’adéquation descriptive de la seule cohérence inférentielle, de la reconnaissance sociale ou de l’efficacité pratique.
 
 Plusieurs distinctions doivent être maintenues :
 
 - **Cause ≠ raison** : expliquer la production d’une affirmation ne suffit pas à la justifier.
-- **Engagement ≠ habilitation** : être comptable d’une affirmation ne signifie pas disposer de raisons suffisantes pour la soutenir.
+- **Engagement ≠ habilitation** : être comptable d’une affirmation ne signifie pas être autorisé à la soutenir.
 - **Reconnaissance sociale ≠ validité** : l’acceptation d’un contenu ne suffit pas à établir sa vérité ou son adéquation.
 - **Conséquence inférentielle ≠ conséquence causale** : ce qu’une affirmation autorise à conclure ne se confond pas avec les effets matériels qu’elle produit.
 - **Cohérence ≠ adéquation** : la compatibilité d’une description avec d’autres engagements ne suffit pas à établir qu’elle décrit correctement ce qu’elle prétend décrire.
 
-Brandom fournit ainsi des ressources pour analyser la dimension discursive, normative et inférentielle des pratiques descriptives. Il ne constitue pas, à lui seul, une théorie générale de leur fonctionnement ni un critère suffisant de leur validité.
+Brandom fournit ainsi des ressources pour analyser la dimension discursive, normative et inférentielle des pratiques descriptives. Il ne constitue ni le fondement unique de Protokin ni une théorie exhaustive des conditions matérielles, corporelles, historiques et relationnelles de ces pratiques.
 
 ## Synthèse
 
