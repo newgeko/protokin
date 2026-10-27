@@ -48,13 +48,13 @@ Les attitudes normatives désignent la manière dont les participants reconnaiss
 
 Deux perspectives sont particulièrement importantes.
 
-**La prise en charge** correspond à la manière dont un locuteur reconnaît ou revendique ses propres engagements et habilitations. Elle concerne ce qu'il assume et ce qu'il estime pouvoir soutenir.
+**La prise en charge** correspond à la manière dont un locuteur reconnaît ou revendique ses propres engagements et habilitations. Cette perspective à la première personne ne lui donne toutefois pas un contrôle exclusif sur les conséquences de ses affirmations : il peut ne pas reconnaître un engagement que ses interlocuteurs lui attribuent à bon droit.
 
-**L'attribution** correspond à la manière dont un autre participant évalue les engagements et les habilitations de ce locuteur. Il peut reconnaître une affirmation, lui attribuer des conséquences supplémentaires ou contester son habilitation à la soutenir.
+**L’attribution** correspond à la manière dont un autre participant évalue les engagements et les habilitations de ce locuteur. Elle peut être effectuée par un auditeur direct, un tiers ou un analyste qui reconstitue l’échange. L’auditeur n’est pas un observateur neutre : ses propres engagements, ses attentes et ses critères influencent ce qu’il reconnaît ou conteste. Ses attributions doivent donc, elles aussi, pouvoir être explicitées et discutées.
 
-Ces attitudes peuvent diverger. Un locuteur peut se considérer habilité à soutenir une conclusion alors que son interlocuteur estime que les éléments disponibles ne l'autorisent pas.
+Ces perspectives peuvent diverger. Un locuteur peut se considérer habilité à soutenir une conclusion alors que son interlocuteur estime que les éléments disponibles ne l’autorisent pas. Inversement, un auditeur peut attribuer au locuteur une conséquence que celui-ci conteste parce qu’elle ne découle pas, selon lui, de son affirmation.
 
-Cette divergence ne se résout pas par la seule déclaration de l'un ou de l'autre. Elle peut exiger un examen des engagements concernés, des inférences mobilisées et des raisons avancées.
+Le désaccord porte alors non seulement sur le contenu affirmé, mais aussi sur les engagements qui en découlent, les raisons nécessaires pour le soutenir et les critères utilisés pour évaluer ces raisons. La tenue de registre rend ces différences examinables sans présupposer que l’une des perspectives est d’emblée correcte.
 
 ## 4. Suivre les engagements et les habilitations
 
@@ -98,6 +98,22 @@ Le locuteur peut alors préciser ses prémisses, fournir des raisons, invoquer u
 La contestation ne supprime pas automatiquement tous les engagements du locuteur. Elle peut mettre en cause une conséquence particulière, une prémisse, une habilitation ou la qualification elle-même.
 
 La révision doit donc porter sur ce que la difficulté permet effectivement de remettre en question.
+
+### 4.4. Réviser les statuts discursifs
+
+Une contestation ou un élément nouveau peut modifier les statuts suivis par les participants, mais cette modification n’est ni automatique ni nécessairement globale. Une objection peut affaiblir l’habilitation à soutenir une conclusion sans supprimer l’engagement initial. Une précision peut restreindre la portée de cet engagement. Une erreur reconnue peut conduire à retirer l’assertion. Une preuve supplémentaire peut renforcer une habilitation sans rendre toutes les conséquences de l’affirmation incontestables.
+
+Il faut donc distinguer trois possibilités :
+
+- **Réviser l’assertion** : en préciser la portée, la reformuler ou la retirer.
+- **Réviser les engagements attribués** : reconnaître ou contester les conséquences imputées au locuteur.
+- **Réviser une habilitation** : modifier l’évaluation des raisons ou des éléments qui autorisent à soutenir une affirmation.
+
+Les participants peuvent également réviser leurs propres attributions. Un auditeur peut reconnaître qu’il avait imputé une conséquence qui ne suivait pas de l’affirmation ; un locuteur peut reconnaître une conséquence qu’il n’avait pas envisagée. Le registre évolue ainsi au fil des échanges, à mesure que les contenus, les raisons et les objections sont précisés.
+
+Les inférences matérielles qui soutiennent ces attributions dépendent du contenu et des circonstances. Elles peuvent devoir être réexaminées lorsqu’une prémisse est retirée, qu’une condition d’application change ou qu’un contre-exemple pertinent est apporté. Cela ne signifie pas que toute inférence matérielle soit par nature non monotone : la possibilité de réviser une inférence dépend de la relation considérée et des conditions qui la soutiennent.
+
+Le scorekeeping décrit ces modifications de statuts et d’attributions. Il ne décide pas, à lui seul, si la nouvelle position est vraie ou si les raisons avancées sont suffisantes.
 
 ## 5. Exemple : une qualification contestée
 
@@ -203,9 +219,9 @@ Pour poursuivre :
 - [Assertion](fr/assertion.md)
 - [Engagement descriptif](fr/engagement-descriptif.md)
 - [Espace des raisons](fr/espace-des-raisons.md)
-- [Pairs — Engagement discursif et habilitation](frpairs.md)
+- [Pairs — Engagement discursif et habilitation](fr/pairs.md)
 - [Inférence matérielle](fr/inference-materielle.md)
 - [Justification](fr/justification.md)
 - [Référent](fr/referent.md)
 - [Quadripartition de l'orientation](fr/quadripartition-de-l-orientation.md)
-- [Table des matières](frtdm.md)
+- [Table des matières](fr/tdm.md)
