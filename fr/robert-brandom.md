@@ -1,124 +1,108 @@
-# Robert Brandom — Inférence, engagement et redevabilité
+# Robert Brandom — Pragmatique normative, contenu inférentiel et objectivité
 
 ## Fonction
 
-Cette page examine l’apport de Robert Brandom à l’analyse des pratiques discursives. Elle porte principalement sur trois questions : comment le contenu conceptuel dépend des relations d’inférence, comment une assertion engage celui qui l’énonce et comment les participants à une pratique attribuent, contestent et révisent les statuts discursifs.
+Cette page présente l’architecture générale de l’inférentialisme de Robert Brandom et précise ce que Protokin peut en retenir pour l’analyse des pratiques descriptives. Le fil directeur est le suivant : **la sémantique doit répondre de la pragmatique**. Il s’agit d’expliquer les contenus conceptuels à partir des pratiques discursives dans lesquelles les locuteurs affirment, infèrent, justifient et contestent des propositions.
 
-L’intérêt pour Protokin est de pouvoir examiner une description à partir de ce qu’elle engage, des conséquences qu’elle autorise et des raisons susceptibles de la soutenir ou de la contester.
+Cette priorité explicative ne signifie pas que les énoncés seraient dépourvus de contenu avant leur usage particulier, ni que leur vérité se réduirait à l’accord d’une communauté. Brandom cherche à rendre intelligible le contenu sémantique en explicitant les capacités pratiques et les normes qui structurent les échanges discursifs, tout en conservant une place pour la vérité, la référence et l’objectivité.
 
-Cette appropriation reste circonscrite. Brandom fournit des ressources pour analyser la dimension normative et inférentielle des pratiques discursives ; il ne constitue ni le fondement de toute normativité ni une théorie exhaustive des pratiques descriptives.
+Pour Protokin, cet apport permet d’examiner comment une description engage son auteur, quelles inférences elle autorise, selon quelles normes elle peut être défendue et comment elle peut être contestée ou révisée. Il ne constitue ni une théorie exhaustive des pratiques descriptives ni une garantie de leur adéquation à ce qu’elles prétendent décrire.
 
-## 1. Le contenu conceptuel dans les relations d’inférence
+## 1. De la pratique discursive au contenu sémantique
 
-Dans *Making It Explicit* (1994), Brandom développe une approche pragmatiste et inférentialiste du contenu conceptuel. Comprendre un concept ne consiste pas seulement à associer un terme à un objet ou à une propriété. Cela suppose notamment de comprendre les inférences dans lesquelles son emploi intervient.
+Dans *Making It Explicit* (1994), Brandom développe une approche pragmatiste et inférentialiste du contenu conceptuel. Comprendre un concept ne consiste pas seulement à associer un mot à un objet ou à une propriété. Cela suppose de maîtriser, au moins en partie, les conséquences de son emploi, les affirmations qui peuvent le soutenir et celles avec lesquelles il entre en incompatibilité.
 
-Le contenu d’une assertion dépend ainsi, entre autres, de ce qu’elle autorise à conclure, des affirmations qui permettent de la soutenir et des engagements auxquels son auteur s’expose.
+La pragmatique porte sur ce que les participants font en affirmant, en demandant des raisons, en tirant des conclusions ou en contestant une prise de position. La sémantique explicite les contenus et les relations conceptuelles qui rendent ces pratiques intelligibles. La priorité de la pragmatique est donc une priorité d’explication : l’analyse sémantique doit rendre compte des capacités et des normes engagées dans l’usage des expressions.
 
-Il faut distinguer :
+Cette proposition s’oppose à une stratégie explicative qui traiterait d’abord les contenus comme entièrement déterminés indépendamment des pratiques, puis chercherait seulement ensuite à expliquer leur emploi. Elle ne suffit toutefois pas à résumer toute approche représentationaliste, et elle ne dispense pas Brandom de rendre compte de la référence et de la vérité.
 
-- le terme employé ;
-- le contenu conceptuel mobilisé ;
-- les inférences associées à ce contenu ;
-- les circonstances dans lesquelles une assertion est produite et évaluée.
+Pour Protokin, la conséquence méthodologique est limitée mais importante : le contenu d’une description peut être examiné à partir de ce qu’elle permet de conclure, des raisons qui peuvent la soutenir et des incompatibilités qu’elle introduit. Cela n’autorise pas à réduire son contenu à la seule fréquence de ses usages ni à l’acceptation sociale dont elle bénéficie.
 
-Ces dimensions sont liées, mais ne sont pas interchangeables. La forme grammaticale d’un énoncé ne suffit pas à déterminer toutes ses conséquences inférentielles, lesquelles dépendent aussi des concepts, des prémisses et des règles mobilisés dans la pratique.
+## 2. La normativité des engagements discursifs
 
-Pour Protokin, cette approche permet d’examiner une description à partir de sa place dans une pratique : quelles distinctions rend-elle disponibles ? Quelles conclusions permet-elle de soutenir ? Quelles autres affirmations devient-il nécessaire de défendre ou de réviser ?
+La pratique discursive n’est pas seulement un ensemble de comportements observables. Elle comporte des statuts normatifs : les participants peuvent être tenus pour engagés par une affirmation, autorisés ou non à la maintenir, invités à en fournir les raisons, ou conduits à réviser leur position.
 
-Cette analyse ne suppose pas que le contenu d’une description se réduise à ses conséquences inférentielles. Elle permet d’en examiner une dimension spécifique.
+Brandom distingue notamment :
 
-## 2. Engagement et habilitation
+- l’**engagement** (*commitment*) : ce dont un locuteur devient comptable en avançant une affirmation et des conséquences qui lui sont imputables ;
+- l’**habilitation** (*entitlement*) : ce qui autorise un locuteur à soutenir cette affirmation dans les circonstances considérées.
 
-Brandom distingue deux statuts essentiels dans sa pragmatique normative.
+Ces statuts ne coïncident pas. Un locuteur peut être engagé par une affirmation sans disposer de raisons suffisantes pour la soutenir. Il peut également être habilité à avancer une conclusion sans avoir explicitement reconnu toutes les conséquences qui lui sont associées.
 
-L’**engagement** (*commitment*) désigne ce dont un locuteur devient comptable en affirmant quelque chose. Son assertion peut entraîner des conséquences, entrer en conflit avec d’autres affirmations qu’il a soutenues ou l’obliger à répondre à une demande de justification.
+L’assertion occupe une place centrale parce qu’elle rend un contenu disponible à l’évaluation publique. Affirmer, ce n’est pas seulement produire une phrase : c’est prendre en charge un contenu auquel d’autres participants peuvent répondre, demander des raisons, attribuer des conséquences ou opposer des incompatibilités.
 
-L’**habilitation** (*entitlement*) concerne le fait d’être autorisé à soutenir une affirmation dans les conditions considérées. Elle dépend des raisons disponibles, des inférences recevables et des normes mobilisées dans la pratique.
+Brandom décrit le suivi de ces statuts par la notion de *scorekeeping déontique*. Les participants tiennent compte des engagements et des habilitations qu’ils s’attribuent mutuellement. Ce suivi dépend de perspectives situées : ce qu’un locuteur reconnaît de ses propres engagements peut différer de ce que les autres lui attribuent.
 
-Ces deux statuts ne coïncident pas nécessairement. Un locuteur peut être engagé par une affirmation sans être habilité à la maintenir. Il peut également disposer de raisons de soutenir une conclusion sans avoir encore reconnu toutes les conséquences de son affirmation.
+Le *scorekeeping* n’est pas une garantie de correction. Une communauté peut attribuer correctement un engagement tout en appliquant des critères contestables pour évaluer l’affirmation. La reconnaissance sociale d’un statut ne suffit donc pas à établir la vérité du contenu.
 
-La distinction peut être formulée ainsi :
+Pour Protokin, cette analyse permet de distinguer l’usage effectif d’une description, les engagements qui lui sont associés et les raisons qui permettent de la maintenir.
 
-**Engagement ≠ habilitation.**
+## 3. Le contenu comme rôle inférentiel
 
-Elle permet de séparer deux questions :
+La pragmatique normative et la sémantique sont articulées par les relations d’inférence. Comprendre un contenu implique notamment de comprendre ce qui peut en être conclu, quelles prémisses peuvent le soutenir et quelles affirmations sont incompatibles avec lui.
 
-- Qu’est-ce qu’un locuteur doit assumer du fait de son affirmation ?
-- Qu’est-ce qui l’autorise à maintenir cette affirmation ?
+Une inférence matérielle dépend du contenu des affirmations concernées, et pas seulement de la forme logique du raisonnement. Par exemple, le passage d’une description à une conclusion pratique peut dépendre de connaissances sur la situation, de règles d’application et d’hypothèses supplémentaires. Il faut donc examiner ce qui autorise la transition, plutôt que tenir toute association entre deux énoncés pour une inférence recevable.
 
-Pour Protokin, cette séparation est utile lorsque l’enquête rencontre une description qui circule, oriente une décision ou sert de prémisse à d’autres conclusions sans que son statut justificatoire soit clairement établi.
+L’engagement envers une proposition peut entraîner des engagements envers certaines conséquences. De même, s’engager envers une proposition peut être incompatible avec le maintien d’une autre. Mais ces rapports ne doivent pas être présentés comme de simples équivalences mécaniques : leur analyse dépend des contenus, des prémisses et des normes inférentielles pertinentes.
 
-Le fait qu’une description soit effectivement employée ne suffit donc pas à établir qu’elle est justifiée. Inversement, le fait qu’elle soit contestée ne suffit pas à montrer qu’elle est injustifiable.
+Trois questions doivent rester distinctes :
 
-## 3. Redevabilité et suivi des statuts discursifs
+- **Conséquence inférentielle** : que peut-on conclure à partir d’une affirmation et des prémisses disponibles ?
+- **Justification** : quelles raisons autorisent à soutenir cette affirmation ou cette conclusion ?
+- **Adéquation descriptive** : les éléments et les critères employés permettent-ils de soutenir ce que la description prétend dire de la situation ?
 
-Les pratiques discursives comportent des possibilités d’interpellation et de correction. Un participant peut demander pourquoi une affirmation est soutenue, relever une incompatibilité, contester une inférence ou demander que soient précisées les raisons d’une conclusion.
+Une conclusion peut suivre de prémisses sans que celles-ci soient suffisamment justifiées. Une description peut être cohérente avec les autres engagements d’un locuteur tout en étant inadéquate à ce qu’elle prétend décrire. L’analyse inférentielle rend les engagements examinables ; elle ne tranche pas à elle seule toutes les questions de vérité ou de référence.
 
-Brandom analyse ces pratiques en examinant la manière dont les participants attribuent et suivent les engagements et les habilitations. Il mobilise à cet effet la notion de *scorekeeping* : les participants tiennent compte des positions discursives qu’ils attribuent aux autres, de leurs conséquences et des modifications que produisent les échanges.
+## 4. Explicitation logique et vocabulaire sémantique
 
-Ce suivi ne suppose pas que chaque participant dispose d’un relevé explicite et exhaustif des engagements. Il désigne une fonction des pratiques discursives : certaines affirmations sont retenues, certaines conséquences sont imputées, certaines justifications sont demandées et certains statuts peuvent être révisés.
+Dans l’approche de Brandom, les vocabulaires logiques et sémantiques permettent de rendre explicites des aspects des pratiques discursives qui peuvent être maîtrisés de manière pratique sans être formulés comme des règles. Des expressions telles que « implique », « est incompatible avec », « est vrai » ou « parce que » permettent notamment de présenter, discuter et évaluer les relations entre des affirmations.
 
-La redevabilité désigne ici la possibilité de demander à un locuteur de répondre de ses affirmations et des conséquences qui leur sont attribuées. Elle ne signifie pas que le locuteur accepte effectivement de répondre, ni que les autres participants évaluent correctement ses engagements.
+Cette explicitation n’est pas une simple transcription d’un savoir-faire en savoir propositionnel. L’introduction d’un vocabulaire peut modifier ce que les participants sont en mesure de dire, d’inférer et de justifier explicitement. Le vocabulaire logique est élaboré dans des pratiques et peut, en retour, rendre certaines caractéristiques de ces pratiques plus visibles et discutables.
 
-Pour Protokin, cette approche permet d’examiner comment une description entre dans une pratique de justification et de contestation. Elle aide notamment à repérer les cas où une affirmation est reprise comme prémisse sans que ses engagements, ses conséquences ou les raisons de son maintien soient réexaminés.
+Pour Protokin, l’intérêt de cette démarche est méthodologique : un vocabulaire explicite peut aider à examiner une relation jusque-là pratiquée sans être clairement formulée. Il faut cependant vérifier ce que cette explicitation permet réellement d’établir. Nommer une relation ou la formaliser ne suffit pas à démontrer qu’elle est correctement appliquée dans tous les cas.
 
-Il faut cependant distinguer le suivi des statuts discursifs de l’évaluation de leur validité. Une pratique peut attribuer correctement un engagement tout en mobilisant des critères contestables pour juger si l’affirmation est justifiée.
+## 5. De l’intersubjectivité à la référence et à l’objectivité
 
-## 4. Inférence, justification et correction
+L’analyse brandomienne ne s’arrête pas à la description des pratiques d’accord et de désaccord. Elle cherche aussi à expliquer comment des pratiques discursives peuvent porter sur des objets et rendre possible une distinction entre ce qu’un locuteur tient pour vrai et ce qui est effectivement le cas.
 
-L’inférentialisme permet d’étudier les relations entre les affirmations sans supposer que chacune possède son contenu indépendamment de toutes les autres. Une assertion peut soutenir une conclusion, être incompatible avec une autre assertion ou nécessiter des prémisses supplémentaires pour être défendue.
+Les participants ne se limitent pas à enregistrer les engagements qu’un locuteur reconnaît lui-même. Ils peuvent lui attribuer des engagements à partir de leur propre compréhension de la situation et des objets dont il parle. Cette différence de perspective permet d’examiner l’écart entre l’auto-attribution d’un contenu et l’attribution de ce contenu au sujet d’un objet identifié par autrui.
 
-Mais plusieurs rapports doivent rester distincts.
+Les ascriptions *de dicto* et *de re* constituent une ressource importante pour analyser ces différences. Dans une ascription *de dicto*, on rapporte la position d’un sujet sous la description qu’il accepte ou utilise. Dans une ascription *de re*, on attribue une croyance ou un engagement au sujet d’un objet que l’on identifie depuis la perspective de celui qui attribue la croyance. Le passage de l’une à l’autre peut modifier ce qui est attribué et doit être justifié au regard du contexte.
 
-Une **conséquence inférentielle** concerne ce que l’on peut conclure à partir d’une affirmation et des prémisses mobilisées.
+Cette structure perspectivale contribue à expliquer comment une pratique peut distinguer les engagements d’un locuteur de l’évaluation que d’autres font de leur objet. Elle ne garantit pas que l’interlocuteur ait raison, que l’identification de l’objet soit correcte ou que la description soit adéquate. L’objectivité n’est pas réductible à l’accord intersubjectif ; elle suppose que les attributions et les descriptions puissent être mises à l’épreuve.
 
-Une **justification** concerne les raisons et les critères qui permettent de défendre une affirmation ou une conclusion dans une pratique.
+Pour Protokin, cette distinction est essentielle : les conditions sociales de l’attribution d’un contenu et les raisons de son évaluation font partie de l’enquête, mais ne remplacent pas l’examen de ce que la description prétend décrire.
 
-Une **correction** concerne la possibilité de reconnaître une erreur, de contester une application ou de réviser une position selon les critères pertinents.
+## 6. Apport pour Protokin et limites de l’appropriation
 
-Ces rapports peuvent interagir sans se confondre. Une conclusion peut suivre d’un ensemble de prémisses sans que ces prémisses soient suffisamment justifiées. Une affirmation peut être cohérente avec les autres engagements d’un locuteur tout en étant inadéquate à la situation qu’elle prétend décrire.
+L’apport de Brandom peut être organisé autour d’une même articulation : les pratiques discursives comportent des normes ; ces normes structurent les engagements et les inférences ; l’analyse sémantique explicite les contenus et les relations mobilisés ; la possibilité de contester et de réviser ces engagements permet de mettre les descriptions à l’épreuve.
 
-L’analyse des conséquences inférentielles ne suffit donc pas à établir la vérité d’une assertion ni son adéquation à son référent.
+Pour Protokin, cela fournit des questions concrètes :
 
-Pour Protokin, l’apport de Brandom consiste à rendre examinables les engagements et les relations normatives qui accompagnent les descriptions. Il ne dispense pas d’étudier les conditions matérielles de leur production, les contraintes rencontrées ou les critères propres à la pratique considérée.
+- Qu’est-ce qu’une description engage lorsqu’elle est affirmée ?
+- Quelles conclusions autorise-t-elle, et quelles prémisses sont nécessaires pour les soutenir ?
+- Quelles affirmations deviennent incompatibles avec elle ?
+- Qui attribue les engagements et selon quelles perspectives ?
+- Quelles raisons autorisent à maintenir ou à réviser la description ?
+- Qu’est-ce qui permet d’évaluer son adéquation à la situation décrite, au-delà de sa cohérence ou de son acceptation ?
 
-## 5. Ce que Protokin peut retenir de Brandom
+Ces questions ne forment pas une procédure universelle. Elles doivent être articulées avec l’examen des conditions matérielles, corporelles, historiques et relationnelles dans lesquelles les pratiques descriptives se déploient. L’inférentialisme n’épuise pas ces dimensions.
 
-L’apport de Brandom peut être mobilisé pour examiner trois aspects des pratiques descriptives.
+Plusieurs distinctions doivent être maintenues :
 
-**Les engagements produits par une description.** Une description peut servir de prémisse, entraîner d’autres affirmations ou entrer en conflit avec des positions déjà soutenues. L’enquête peut reconstruire ces engagements sans supposer que l’auteur les a tous explicitement reconnus.
+- **Cause ≠ raison** : expliquer la production d’une affirmation ne suffit pas à la justifier.
+- **Engagement ≠ habilitation** : être comptable d’une affirmation ne signifie pas disposer de raisons suffisantes pour la soutenir.
+- **Reconnaissance sociale ≠ validité** : l’acceptation d’un contenu ne suffit pas à établir sa vérité ou son adéquation.
+- **Conséquence inférentielle ≠ conséquence causale** : ce qu’une affirmation autorise à conclure ne se confond pas avec les effets matériels qu’elle produit.
+- **Cohérence ≠ adéquation** : la compatibilité d’une description avec d’autres engagements ne suffit pas à établir qu’elle décrit correctement ce qu’elle prétend décrire.
 
-**Les conditions de son habilitation.** Une description peut être acceptée ou utilisée sans que les raisons de la maintenir aient été examinées. Il importe alors de distinguer son rôle effectif dans la pratique des critères qui permettent de la défendre.
-
-**Les possibilités de contestation et de révision.** Une description peut être remise en question lorsque ses conséquences deviennent incompatibles avec d’autres engagements, lorsque les prémisses mobilisées sont contestées ou lorsque les critères de correction ne permettent plus de traiter les cas rencontrés.
-
-Ces usages ne transforment pas l’inférentialisme en procédure générale d’enquête. Ils fournissent des questions pour examiner la dimension discursive d’un problème, à articuler avec l’analyse des conditions, des relations et des fonctions pertinentes.
-
-## 6. Limites et non-conversions
-
-L’appropriation de Brandom doit respecter plusieurs distinctions.
-
-**Cause ≠ raison.** Les causes qui contribuent à la production d’une assertion ne suffisent pas à justifier son contenu. L’analyse des raisons ne rend pas pour autant inutiles les explications causales.
-
-**Engagement ≠ habilitation.** Le fait qu’un locuteur soit tenu pour responsable d’une affirmation ne signifie pas qu’il dispose de raisons suffisantes pour la soutenir.
-
-**Reconnaissance sociale ≠ validité.** L’attribution d’un statut discursif par une communauté ne suffit pas à établir que l’affirmation est vraie ou adéquate à ce qu’elle prétend décrire.
-
-**Conséquence inférentielle ≠ conséquence causale.** Ce qu’une assertion autorise à conclure ne se confond pas avec les effets matériels qu’elle peut produire dans une situation.
-
-**Fonction descriptive ≠ justification.** Une description peut remplir un rôle dans une pratique sans être suffisamment justifiée. La justification peut conduire à réviser ce rôle, mais les deux questions restent distinctes.
-
-Enfin, Protokin ne reprend pas l’inférentialisme de Brandom comme théorie complète de la signification ou de la normativité. Les pratiques descriptives comportent aussi des conditions corporelles, matérielles, relationnelles et historiques. Leur examen ne peut être épuisé par la reconstruction de leurs engagements discursifs.
-
-La question reste donc ouverte : comment articuler les statuts normatifs attribués dans les pratiques discursives avec les conditions matérielles et les contraintes auxquelles ces pratiques sont exposées ? Brandom fournit des ressources pour examiner le premier aspect, sans déterminer à lui seul la réponse à l’ensemble du problème.
+Brandom fournit ainsi des ressources pour analyser la dimension discursive, normative et inférentielle des pratiques descriptives. Il ne constitue pas, à lui seul, une théorie générale de leur fonctionnement ni un critère suffisant de leur validité.
 
 ## Synthèse
 
-Brandom permet d’examiner les pratiques discursives à partir des contenus inférentiels, des engagements, des habilitations et des possibilités de contestation et de révision.
+La thèse selon laquelle la sémantique doit répondre de la pragmatique donne son unité à l’approche de Brandom. Le contenu conceptuel est expliqué à partir des pratiques discursives et des normes qui organisent les assertions, les inférences, les engagements et les habilitations. L’explicitation sémantique rend ces relations plus accessibles à la discussion ; l’analyse des perspectives d’attribution contribue à expliquer comment les pratiques discursives peuvent porter sur des objets et être évaluées au-delà de l’accord immédiat des participants.
 
-Son apport aide à distinguer ce qu’une description engage, ce qu’elle autorise à conclure et ce qui permet de la maintenir. Il rend ainsi visibles des rapports normatifs que la seule observation de la production ou de la circulation des énoncés ne suffit pas à établir.
-
-Pour Protokin, il constitue une ressource d’analyse de la dimension inférentielle et justificatoire des pratiques descriptives, non une théorie générale de ces pratiques.
+Pour Protokin, cet apport permet d’examiner ce qu’une description engage, ce qu’elle autorise à conclure et ce qui permet de la défendre ou de la réviser. Il ne permet pas de déduire l’adéquation descriptive de la seule cohérence inférentielle, de la reconnaissance sociale ou de l’efficacité pratique.
 
 ## Références
 
