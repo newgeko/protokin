@@ -23,13 +23,17 @@ L’enquête doit donc éviter deux réductions :
 
 ## 3. Définition opérationnelle
 
-Distinguer consiste à formuler une différence, à préciser sa portée et à déterminer en quoi elle aide à traiter le problème.
+Distinguer consiste à établir les différences nécessaires au traitement d’un problème descriptif, à préciser leur portée et à déterminer ce qu’elles permettent d’examiner.
 
 L’opération peut porter sur des termes, des catégories, des descriptions, des fonctions, des critères ou des conclusions. Elle ne présuppose pas que chaque différence formulée corresponde à une séparation dans le réel.
 
-Une distinction est pertinente lorsqu’elle permet, par exemple, de préciser une question, d’éviter une inférence injustifiée, de rendre visible une confusion ou d’examiner une dépendance jusque-là masquée.
+Une distinction est pertinente lorsqu’elle permet de préciser une question, de rendre visible une confusion, d’éviter une inférence insuffisamment établie ou de déterminer ce qui doit être examiné séparément.
 
-La seule possibilité de nommer deux éléments différemment ne suffit donc pas à justifier une distinction. Il faut établir son utilité pour le problème examiné.
+La seule possibilité de nommer deux éléments différemment ne suffit donc pas à justifier une distinction. Il faut établir son utilité pour le problème examiné et préciser les conclusions qu’elle autorise ou qu’elle oblige à suspendre.
+
+**Distinguer établit les différences pertinentes ; Relier examine les dépendances entre les éléments distingués.** Cette différence de fonction n’implique pas que les deux opérations soient indépendantes : l’examen d’une relation peut révéler une distinction manquante, tandis qu’une distinction nouvelle peut modifier les relations à examiner.
+
+Une distinction reste révisable. Si elle ne permet pas de traiter la difficulté, si elle introduit une confusion supplémentaire ou si les cas examinés en montrent les limites, elle doit être précisée, déplacée ou abandonnée.
 
 ## 4. Conditions d’activation
 
@@ -77,14 +81,17 @@ Mais aucune de ces relations ne rend les éléments équivalents. La distinction
 
 Distinguer permet de :
 
-- rendre explicite une confusion qui affecte le problème ;
-- préciser la portée des termes, des catégories ou des conclusions ;
-- identifier les passages entre des questions distinctes ;
-- déterminer quelles inférences nécessitent un examen supplémentaire ;
-- préparer l’étude des dépendances entre les éléments retenus ;
+- identifier les différences nécessaires au traitement du problème ;
+- rendre explicites les confusions qui affectent l’examen ;
+- préciser la portée des termes, des catégories et des conclusions ;
+- repérer les passages entre des questions distinctes ;
+- déterminer quelles inférences demandent un examen supplémentaire ;
+- préparer l’examen des relations entre les éléments distingués ;
 - réviser une distinction lorsque les cas examinés en montrent les limites.
 
-L’opération contribue ainsi à rendre les descriptions et les conclusions plus contrôlables. Elle ne garantit pas leur adéquation ni leur validité.
+L’opération contribue ainsi à rendre les descriptions et les conclusions plus contrôlables. Elle précise ce qui doit être différencié sans déterminer à elle seule les relations entre les éléments ni la validité des conclusions.
+
+Une distinction est donc un résultat de l’enquête, mais aussi une proposition révisable : sa pertinence dépend du problème qu’elle permet de traiter et des épreuves auxquelles elle est soumise.
 
 ## 8. Ce que l’opération n’établit pas
 
@@ -93,44 +100,54 @@ Distinguer ne permet pas, à lui seul, d’établir :
 - que les éléments distingués sont indépendants ;
 - que toute différence de vocabulaire correspond à une différence pertinente ;
 - que la distinction retenue est exhaustive ou définitive ;
-- que les relations entre les éléments sont expliquées ;
+- que les relations entre les éléments sont établies ;
 - que les conclusions tirées sont justifiées ;
-- que la description obtenue est adéquate à son référent.
+- que la description obtenue est adéquate à ce qu’elle prétend décrire.
 
-Il faut notamment éviter de transformer les distinctions en interdictions absolues de passage. Une cause peut constituer une raison pertinente dans une argumentation ; une trace peut contribuer à justifier une identification ; une fonction peut intervenir dans l’évaluation d’une pratique.
+Une distinction ne doit pas être transformée en interdiction absolue de passage entre les éléments. Une cause peut constituer une raison pertinente dans une argumentation ; une trace peut contribuer à justifier une identification ; une fonction peut intervenir dans l’évaluation d’une pratique.
 
-Mais ces passages demandent des médiations et un examen adapté. La distinction sert à rendre leur validité examinable, non à les interdire par principe.
+Ces passages demandent toutefois des médiations et un examen adaptés. Il faut préciser ce qui autorise le passage, dans quelles conditions il est recevable et quelles conclusions il permet effectivement de soutenir.
+
+**La distinction rend les passages examinables ; elle ne les interdit pas par principe.**
 
 ## 9. Articulation avec les autres opérations
 
-- **Délimiter** précise la difficulté et le périmètre provisoire de l’examen.
-- **Ancrer** identifie les conditions et les appuis pertinents.
-- **Distinguer** détermine les différences nécessaires pour traiter la difficulté sans confusion.
-- **Relier** examine les dépendances entre les éléments distingués.
-- **Configurer** organise les éléments et les relations retenus pour l’examen.
-- **Justifier** examine les raisons et les critères permettant de défendre, contester ou réviser une conclusion.
-- **Reconstituer** reprend les relations et les transformations pertinentes à la lumière des résultats obtenus.
-- **Redélimiter** révise le périmètre du problème lorsque l’enquête fait apparaître une difficulté nouvelle ou reformulée.
+Distinguer intervient dans l’enquête lorsqu’une difficulté exige de préciser les différences entre des éléments, des fonctions, des critères ou des conclusions.
 
-Cette articulation ne constitue pas une succession mécanique. Une relation examinée peut révéler une distinction manquante ; une justification contestée peut imposer de revoir une catégorie ; un cas nouveau peut montrer qu’une distinction est trop large ou trop étroite.
+Son articulation avec les opérations voisines repose sur une différence de fonction :
 
-**Distinguer prépare l’examen des dépendances, sans en déterminer les résultats.** La fonction transversale d’audit peut, quant à elle, vérifier si les distinctions et les inférences mobilisées dans l’enquête sont suffisamment explicites et justifiées.
+- **Ancrer** identifie les éléments et les appuis pertinents pour l’examen.
+- **Distinguer** établit les différences nécessaires au traitement du problème.
+- **Relier** examine les relations, les dépendances et les médiations entre les éléments retenus.
+- **Configurer** examine l’organisation de ces éléments et de leurs relations.
+- **Justifier** examine les raisons et les critères permettant de soutenir, de contester ou de réviser une conclusion.
+
+Ces opérations ne constituent pas une succession obligatoire. Une relation examinée peut révéler une distinction manquante ; une configuration peut faire apparaître une différence jusque-là négligée ; une justification contestée peut conduire à réviser une catégorie ou à préciser la portée d’une distinction.
+
+Il convient donc de reprendre l’opération qui répond à la difficulté rencontrée, plutôt que de poursuivre mécaniquement la chaîne de l’enquête.
+
+La fonction transversale d’audit peut également vérifier si les distinctions mobilisées sont explicites, pertinentes et compatibles avec les inférences qui en dépendent.
+
+**Distinguer prépare l’examen des relations sans en déterminer les résultats.** Pour situer cette opération dans l’organisation générale de l’enquête, voir [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md) et [La chaîne principale de l’enquête](la-chaine-principale-de-l-enquete.md).
 
 ## Synthèse
 
-Distinguer consiste à maintenir les différences nécessaires à l’examen d’un problème, sans transformer ces différences en séparations absolues.
+Distinguer consiste à établir et à maintenir les différences nécessaires au traitement d’un problème descriptif.
 
-La pertinence d’une distinction dépend de la difficulté qu’elle permet de traiter, des conclusions qu’elle autorise et des cas auxquels elle est confrontée. Elle reste donc révisable.
+La pertinence d’une distinction dépend de ce qu’elle permet d’examiner, des inférences qu’elle autorise et des cas auxquels elle est confrontée. Elle reste révisable et ne garantit ni l’indépendance des éléments distingués ni la validité des conclusions.
 
-Délimiter précise le problème. Ancrer identifie les conditions et les appuis de son examen. Distinguer maintient les différences pertinentes. Relier examine les dépendances entre les éléments distingués.
+**Distinguer maintient les différences pertinentes. Relier examine les dépendances. Configurer examine l’organisation des éléments et de leurs relations. Justifier examine les raisons de soutenir les conclusions.**
 
 L’enjeu n’est pas de multiplier les catégories, mais de rendre explicites les différences dont dépend la qualité de l’enquête.
 
 ## Pour poursuivre
 
-- [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md)
-- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md)
-- [Délimiter](delimiter.md)
-- [Ancrer](ancrer.md)
-- [Relier](relier.md)
-- [Réaliser un audit](realiser-un-audit.md)
+- [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations dans l’organisation générale de l’enquête.
+- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md) — Examiner les différentes orientations possibles d’une difficulté.
+- [Délimiter](delimiter.md) — Préciser le problème et son périmètre provisoire.
+- [Ancrer](ancrer.md) — Identifier les appuis pertinents pour l’examen.
+- [Relier](relier.md) — Examiner les relations et les dépendances entre les éléments distingués.
+- [Configurer](configurer.md) — Examiner l’organisation des éléments et de leurs relations.
+- [Justifier](justifier.md) — Examiner les raisons et les critères qui soutiennent une conclusion.
+- [La chaîne principale de l’enquête](la-chaine-principale-de-l-enquete.md) — Comprendre l’articulation fonctionnelle des opérations.
+- [Réaliser un audit](realiser-un-audit.md) — Examiner les distinctions et les inférences mobilisées dans une enquête.
