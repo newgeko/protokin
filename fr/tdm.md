@@ -41,7 +41,7 @@ Cet ordre n’est ni une procédure obligatoire ni une progression nécessaire. 
 ### A. Comprendre le problème et organiser l’enquête
 
 - [Problème descriptif](fr/probleme-descriptif.md) — Identifier les difficultés qui rendent nécessaire un examen des pratiques descriptives.
-- [Enquête](fr/enquete.md) — Comprendre l’enquête comme reprise réflexive d’une pratique descriptive confrontée à une difficulté.
+- [Enquête](fr/enquete.md) — Définir l’enquête comme examen situé, réflexif et révisable des pratiques descriptives.
 - [La chaîne principale de l’enquête](fr/la-chaine-principale-de-l-enquete.md) — Situer les opérations et leurs articulations.
 - [Conduire une enquête](fr/conduire-une-enquete.md) — Examiner comment mobiliser les ressources de la démarche dans une situation concrète.
 - [Pourquoi ne pas alourdir l’enquête ?](fr/pourquoi-ne-pas-alourdir-l-enquete.md) — Déterminer si une distinction, une catégorie ou un contrôle supplémentaire est nécessaire au problème traité.
