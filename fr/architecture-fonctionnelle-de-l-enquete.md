@@ -159,18 +159,18 @@ La chaîne n’indique donc pas un parcours à accomplir intégralement. Elle re
 
 Les catégories précisent les fonctions principales des opérations sans épuiser leurs usages. Une opération peut contribuer à plusieurs catégories de difficultés sans perdre sa fonction propre. Les définitions détaillées, les conditions d’emploi et les limites de chacune relèvent des pages qui leur sont consacrées :
 
-- [Délimiter](delimiter.md)
-- [Ancrer](ancrer.md)
-- [Distinguer](distinguer.md)
-- [Relier](relier.md)
-- [Configurer](configurer.md)
-- [Justifier](justifier.md)
-- [Reconstituer](reconstituer.md)
-- [Redélimiter](redelimiter.md)
+- [Délimiter](fr/delimiter.md)
+- [Ancrer](fr/ancrer.md)
+- [Distinguer](fr/distinguer.md)
+- [Relier](fr/relier.md)
+- [Configurer](fr/configurer.md)
+- [Justifier](fr/justifier.md)
+- [Reconstituer](fr/reconstituer.md)
+- [Redélimiter](fr/redelimiter.md)
 
 ## 5. Les orientations de l’examen
 
-La [quadripartition de l’orientation](quadripartition-de-l-orientation.md) distingue quatre orientations : **Condition, Relation, Fonction et Justification**.
+La [quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) distingue quatre orientations : **Condition, Relation, Fonction et Justification**.
 
 Les orientations indiquent sous quel rapport une situation, une pratique, une opération ou une configuration descriptive est examinée. Elles déterminent un angle d’examen, non une opération à effectuer ni une étape à franchir.
 
@@ -401,10 +401,8 @@ Ces composantes sont articulées sans être confondues. Leur mobilisation dépen
 
 ## Pour poursuivre
 
-- [Architecture du projet](architecture-projet.md) — Organisation des ressources documentaires et conceptuelles.
-- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md) — Présentation des quatre orientations de l’examen.
-- [La chaîne principale de l’enquête](la-chaine-principale-de-l-enquete.md) — Présentation synthétique des huit opérations.
-- [Conduire une enquête](conduire-une-enquete.md) — Repères pratiques pour mobiliser les ressources de l’enquête.
-- [Table des matières](tdm.md) — Navigation dans le corpus.
-- [Patterns éditoriaux de Protokin](../patterns.md) — Règles de rédaction et de révision des pages.
-- [Pattern d’audit du corpus](../pattern-audit.md) — Examen des fonctions et des relations entre les ressources.
+- [Architecture du projet](fr/architecture-projet.md) — Organisation des ressources documentaires et conceptuelles.
+- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Présentation des quatre orientations de l’examen.
+- [La chaîne principale de l’enquête](fr/la-chaine-principale-de-l-enquete.md) — Présentation synthétique des huit opérations.
+- [Conduire une enquête](fr/conduire-une-enquete.md) — Repères pratiques pour mobiliser les ressources de l’enquête.
+- [Table des matières](fr/tdm.md) — Navigation dans le corpus.
