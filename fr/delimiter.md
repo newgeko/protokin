@@ -2,144 +2,182 @@
 
 ## 1. Fonction
 
-Délimiter consiste à préciser ce qui fait problème dans une pratique descriptive et à déterminer provisoirement ce que l’enquête doit examiner.
+Délimiter consiste à formuler une difficulté comme un problème susceptible d’être examiné. L’opération précise la question à traiter, la pratique concernée et le périmètre provisoire de l’enquête.
 
-L’opération transforme une difficulté encore indéterminée en une question suffisamment explicite pour être travaillée. Elle précise la pratique concernée, la difficulté rencontrée, le périmètre retenu et les limites actuelles de l’examen.
+Elle permet de passer d’un trouble, d’un désaccord ou d’une insuffisance descriptive à une formulation suffisamment explicite pour orienter le travail d’enquête.
 
-**Délimiter, c’est rendre un problème enquêtable sans présumer de sa solution.**
+La délimitation ne fixe pas définitivement ce qui devra être examiné. Elle établit un cadre provisoire, qui pourra être précisé, maintenu, scindé ou révisé au cours de l’enquête.
 
 ## 2. Problème
 
-Une pratique descriptive peut rencontrer une difficulté sans que sa nature soit immédiatement claire.
+Une difficulté rencontrée dans une pratique ne constitue pas encore, à elle seule, un problème d’enquête clairement formulé.
 
-Une distinction ne permet plus de départager certains cas ; une catégorie devient difficile à appliquer ; plusieurs descriptions semblent incompatibles ; une justification est contestée ; ou les critères disponibles ne permettent plus de soutenir une conclusion.
+Un désaccord peut porter sur plusieurs questions distinctes. Une catégorie peut être employée sans que ses conditions d'application soient explicites. Une description peut sembler insuffisante sans que l'on sache si la difficulté concerne les éléments retenus, leurs relations, les critères employés ou la conclusion qui en est tirée.
 
-Le trouble rencontré ne détermine pas à lui seul la formulation qui convient. Le problème initialement identifié peut être trop large, trop étroit ou construit autour d’une distinction qui ne correspond pas à la difficulté effective.
+Sans délimitation, l'enquête risque de traiter simultanément des questions hétérogènes, de déplacer son objet sans l'expliciter ou de chercher une réponse avant d'avoir précisé le problème auquel elle doit répondre.
 
-Il faut donc distinguer le trouble rencontré de sa formulation comme problème d’enquête. La formulation doit rendre la difficulté examinable, sans la réduire prématurément à une explication, à une catégorie ou à une solution déjà retenue.
+La difficulté consiste donc à déterminer ce qui doit être examiné, sous quelle formulation et dans quelles limites, sans présupposer les résultats de l'enquête.
 
-## Définition opérationnelle
+## 3. Définition opérationnelle
 
-Délimiter consiste à préciser cinq éléments :
+Délimiter, c'est construire une formulation provisoire du problème en précisant cinq éléments :
 
-- **Le trouble :** ce qui rend une activité, une description ou une conclusion difficile à maintenir, à interpréter ou à défendre.
-- **La pratique concernée :** l’activité dans laquelle la difficulté apparaît et au regard de laquelle elle devient pertinente.
-- **La question d’enquête :** ce qu’il faut éclaircir pour comprendre la difficulté ou déterminer ce qui peut être soutenu.
-- **Le périmètre provisoire :** les éléments, les cas et les relations retenus pour l’examen.
-- **Les limites actuelles :** ce qui n’est pas examiné à ce stade, ce qui manque et ce qui demeure indéterminé.
+- **La difficulté rencontrée** : désaccord, insuffisance, contradiction, incertitude ou échec descriptif qui motive l'enquête.
+- **La pratique concernée** : activité, situation ou contexte dans lequel cette difficulté se manifeste.
+- **La question d'enquête** : interrogation précise à laquelle le travail doit permettre de répondre, au moins partiellement.
+- **Le périmètre provisoire** : éléments, situations, relations ou résultats qui doivent être examinés pour traiter la question.
+- **Les limites actuelles** : aspects laissés de côté, informations manquantes et incertitudes qui empêchent de fixer définitivement le périmètre.
 
-Ces éléments sont des repères, non les étapes obligatoires d’une procédure. Leur importance varie selon le problème : certaines difficultés exigent d’abord de préciser une question ; d’autres demandent de délimiter une population de cas, une pratique, une période ou un ensemble de descriptions à comparer.
+Ces éléments sont liés, mais ils ne doivent pas être confondus. La difficulté motive l'enquête ; la question en formule le problème ; le périmètre indique ce qui sera provisoirement examiné.
 
-Le périmètre doit être assez précis pour permettre un examen, mais suffisamment ouvert pour que les résultats puissent conduire à le modifier. Il ne s’agit ni de tout inclure ni de déclarer insignifiant ce qui reste provisoirement hors champ.
+La délimitation doit être assez précise pour rendre l'enquête praticable, sans anticiper les distinctions, les relations ou les conclusions qui devront être établies par les opérations suivantes.
 
-## 3. Conditions d’emploi
+## 4. Conditions d'emploi
 
-Délimiter est pertinent lorsqu’une difficulté est suffisamment repérable pour appeler un examen, mais que sa formulation, sa portée ou les éléments à examiner restent incertains.
+Délimiter est particulièrement utile lorsque :
 
-L’opération peut notamment être mobilisée lorsque :
+- plusieurs difficultés sont confondues dans une même question ;
+- le désaccord porte sur la formulation du problème lui-même ;
+- les limites de la situation à examiner restent indéterminées ;
+- une enquête risque de s'étendre sans que son objet soit explicité ;
+- une conclusion est recherchée alors que la question à laquelle elle devrait répondre demeure incertaine ;
+- des résultats nouveaux conduisent à réexaminer la pertinence du périmètre initial.
 
-- plusieurs problèmes semblent confondus dans une même question ;
-- la difficulté est formulée de manière trop générale pour être examinée ;
-- les cas concernés ou les limites de leur comparaison restent indéterminés ;
-- le désaccord porte peut-être sur des questions différentes ;
-- une conclusion paraît fragile, sans que l’on sache encore si la difficulté concerne ses prémisses, ses critères ou la formulation du problème ;
-- l’enquête risque d’inclure des éléments dont la pertinence n’a pas été précisée ou d’exclure trop tôt des éléments susceptibles de modifier l’analyse.
+L'opération peut intervenir au début d'une enquête ou être reprise lorsque les résultats obtenus font apparaître une difficulté concernant la formulation du problème.
 
-Cette liste n’est pas exhaustive. Délimiter n’exige pas que la difficulté soit déjà entièrement comprise. L’opération sert précisément à déterminer ce qui doit être examiné, tout en laissant ouverte la possibilité que la formulation initiale soit inadéquate.
+Délimiter ne signifie donc pas fixer une fois pour toutes l'objet de l'enquête. La formulation initiale constitue un point de travail révisable.
 
-## 4. Questions d’examen
+## 5. Questions d'examen
 
-Pour préciser le problème, l’enquête peut poser les questions suivantes :
+La délimitation peut être conduite à partir de plusieurs questions.
 
-1. **Quel trouble a été rencontré ?** Décrire la difficulté sans la confondre avec une explication supposée ou une solution attendue.
-2. **Dans quelle pratique apparaît-elle ?** Préciser l’activité, la situation ou le désaccord dans lequel elle devient pertinente.
-3. **Quelle question faut-il examiner ?** Formuler ce qui doit être éclairci, en évitant de réunir des questions qui pourraient exiger des examens différents.
-4. **Quels éléments sont provisoirement retenus ?** Identifier les cas, les descriptions, les observations ou les relations qui paraissent nécessaires à l’examen.
-5. **Qu’est-ce qui reste hors périmètre ?** Préciser les exclusions provisoires, les informations manquantes et les questions laissées ouvertes.
-6. **Qu’est-ce qui pourrait modifier cette délimitation ?** Identifier les résultats, les cas nouveaux ou les distinctions qui conduiraient à reformuler le problème.
+### 5.1. Quelle difficulté motive l'enquête ?
 
-Ces questions n’imposent pas une séquence. Elles permettent de rendre visibles les décisions prises lors du cadrage et d’en examiner la pertinence.
+Identifier ce qui pose problème sans transformer immédiatement une interprétation en constat établi.
 
-La formulation obtenue doit pouvoir être comprise, discutée et révisée. Elle n’est pas adéquate simplement parce qu’elle est précise ou cohérente : elle doit rester en rapport avec la difficulté qui a motivé l’enquête.
+Il faut distinguer le trouble rencontré, les hypothèses qui permettent de l'expliquer et les conclusions qui restent à examiner.
 
-## 5. Exemple d’application
+### 5.2. Dans quelle pratique la difficulté apparaît-elle ?
 
-Un service municipal doit décider s’il convient d’intervenir sur un arbre situé à proximité d’une habitation. Les observations disponibles signalent une inclinaison du tronc et une fissure, mais les avis divergent sur la conduite à tenir.
+Préciser l'activité, le contexte ou la situation dans lesquels le problème se manifeste.
 
-La formulation initiale pourrait être : « Faut-il abattre cet arbre ? »
+Une même expression peut avoir des fonctions différentes selon les pratiques où elle est employée. La délimitation doit éviter de détacher artificiellement une difficulté de son contexte d'utilisation.
 
-Cette question rassemble plusieurs difficultés possibles : déterminer l’état de l’arbre, évaluer le risque pour l’habitation et décider si une intervention particulière est justifiée.
+### 5.3. Quelle question doit être examinée ?
 
-Délimiter le problème consiste à préciser laquelle de ces questions doit être examinée, dans quelle situation et à partir de quels éléments. L’enquête peut, par exemple, porter d’abord sur les éléments nécessaires à l’évaluation du risque, sans décider d’avance que l’abattage est la réponse appropriée.
+Formuler une question qui rende possible un travail descriptif déterminé.
 
-Ce cadrage ne signifie pas que la question de l’intervention serait sans importance. Il distingue une question d’évaluation d’une décision qui peut dépendre de cette évaluation, d’autres critères et de contraintes pratiques.
+Une question trop générale ne permet pas d'identifier les opérations nécessaires. Une question qui contient déjà sa réponse risque de transformer l'enquête en confirmation d'une conclusion préalable.
 
-L’examen peut ensuite révéler que les questions initialement réunies doivent être traitées conjointement ou, au contraire, séparées. Le périmètre initial ne doit donc pas être protégé contre les résultats de l’enquête.
+### 5.4. Quels éléments entrent provisoirement dans le périmètre ?
 
-Cet exemple montre ce que la délimitation permet : préciser la question et les éléments pertinents sans préjuger de la conclusion. Il ne fournit pas une procédure universelle applicable à tous les problèmes.
+Identifier les situations, les éléments, les relations ou les résultats qui paraissent nécessaires à l'examen.
 
-## 6. Rapport aux autres opérations
+Cette sélection reste provisoire : les opérations ultérieures peuvent révéler qu'un élément a été omis, qu'une distinction est nécessaire ou que plusieurs problèmes ont été confondus.
 
-Délimiter contribue au cadrage de l’enquête. Cette fonction ne signifie pas que toute enquête doit commencer par une opération isolée de délimitation, ni que le périmètre initial détermine toutes les opérations ultérieures.
+### 5.5. Quelles limites et quelles incertitudes doivent être conservées ?
 
-- [Ancrer](fr/ancrer.md) permet d’examiner les observations, les traces, les documents et les contraintes pertinents pour le problème. Délimiter précise ce qu’il faut examiner ; ancrer contribue à établir sur quels éléments l’examen peut s’appuyer.
-- [Distinguer](fr/distinguer.md) permet de préciser les différences nécessaires lorsque la difficulté repose sur une confusion ou sur des questions qui doivent être séparées.
-- [Relier](fr/relier.md) permet d’examiner les dépendances entre les éléments retenus, sans présumer qu’elles expliquent à elles seules la difficulté.
-- [Configurer](fr/configurer.md) permet d'examiner l'organisation des différences et des relations dans une configuration descriptive. La délimitation précise le problème auquel cette configuration doit répondre, sans en déterminer à l'avance l'organisation.
-- [Reconstituer](fr/reconstituer.md) permet de rendre explicites les transformations, les choix et les dépendances intervenus au cours de l'enquête. Cette reconstruction peut conduire à comprendre pourquoi la formulation initiale du problème a été maintenue, précisée ou remise en question.
-- [Justifier](fr/justifier.md) permet d’examiner les raisons, les critères et les inférences mobilisés pour soutenir une conclusion.
-- [Redélimiter](fr/redelimiter.md) permet de réexaminer la formulation et le périmètre lorsque les résultats de l’enquête mettent en question leur pertinence.
+Expliciter ce qui ne peut pas encore être examiné, ce qui manque et ce qui reste indéterminé.
 
-Ces relations ne constituent pas une succession obligatoire. Une difficulté peut conduire à distinguer des questions avant que le périmètre soit stabilisé ; l’examen des éléments disponibles peut montrer que le problème est mal formulé ; une justification contestée peut révéler qu’il faut reprendre la délimitation.
+Une limite provisoire n'est pas nécessairement une exclusion définitive. Elle indique ce que l'enquête ne prétend pas traiter dans sa formulation actuelle.
 
-L’[architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) expose l’organisation générale de ces opérations et leurs possibilités de reprise.
+## 6. Exemple d'application : l'arbre municipal
 
-## 7. Ce que la délimitation établit, suggère et n’établit pas
+Une municipalité doit décider si un arbre situé à proximité d'un bâtiment doit être abattu. La question initiale est formulée ainsi :
 
-La délimitation **établit provisoirement** la question que l’enquête entend examiner, le périmètre retenu et les limites reconnues à ce stade. Elle rend les choix de cadrage explicites et donc discutables.
+**Faut-il abattre cet arbre ?**
 
-Elle **suggère** une manière d’organiser l’examen : préciser la difficulté avant d’attribuer à ses causes, à ses catégories ou à ses solutions supposées une portée qui n’a pas encore été établie.
+Cette formulation rassemble plusieurs difficultés :
 
-Elle **n’établit pas** :
+- l'état de l'arbre est-il préoccupant ?
+- présente-t-il un risque pour les personnes ou les biens ?
+- les observations disponibles permettent-elles de caractériser ce risque ?
+- quelles interventions sont possibles ?
+- selon quels critères la décision doit-elle être prise ?
 
-- une explication du trouble ;
-- la correction de la formulation initiale ;
-- la pertinence définitive de tous les éléments retenus ;
-- l’insignifiance de ce qui reste hors périmètre ;
-- la validité d’une catégorie ou d’un critère ;
-- la justification d’une conclusion ;
-- une frontière ontologique entre ce qui existe et ce qui n’existe pas.
+La délimitation consiste à préciser le problème sans présupposer que l'abattage est nécessaire ou qu'il peut être évité.
 
-Le périmètre indique ce qui est examiné à ce stade. Il ne détermine pas tout ce qui peut compter dans la situation, ni tout ce que l’enquête pourrait être conduite à examiner par la suite.
+Une formulation provisoire pourrait être :
 
-## 8. Limites et reprise
+**Les éléments disponibles permettent-ils de caractériser un risque suffisamment établi pour justifier l'abattage de cet arbre, plutôt qu'une autre intervention ?**
 
-Une délimitation peut être inadéquate de plusieurs manières : elle peut réunir des difficultés distinctes, laisser de côté une relation pertinente, retenir des cas qui ne sont pas comparables ou formuler une question qui ne correspond pas au trouble rencontré.
+Le périmètre de l'enquête comprend alors l'état de l'arbre, sa situation, les observations disponibles, les risques envisagés et les interventions possibles.
 
-Il ne s’ensuit pas que toute difficulté nouvelle exige de recommencer le cadrage. Une erreur locale, une inférence contestée ou un élément manquant peuvent parfois être traités sans modifier le problème général.
+Cette formulation ne détermine pas encore :
 
-Il faut donc distinguer ce qui affecte la formulation ou le périmètre de ce qui concerne seulement une réponse particulière. La [redélimitation](fr/redelimiter.md) devient pertinente lorsque les résultats montrent que le problème initial doit être maintenu, précisé, scindé ou reformulé.
+- si les observations sont suffisantes ;
+- quelles différences doivent être établies entre les types de dommages ;
+- quelles relations permettent de caractériser un risque ;
+- quelle organisation descriptive rend compte de la situation ;
+- quels critères justifient la décision.
 
-La délimitation reste ainsi une décision de travail, soumise à l’examen. Sa qualité dépend de sa capacité à rendre la difficulté examinable sans empêcher que l’enquête en modifie la formulation.
+Ces questions relèvent d'autres opérations. La délimitation rend leur examen possible sans en anticiper les résultats.
 
-Il faut également distinguer la reprise d'une opération et la redélimitation du problème. Une difficulté rencontrée lors de l'examen peut appeler un nouvel ancrage, une distinction supplémentaire, une révision des relations ou un nouvel examen de justification, sans remettre en cause le périmètre général de l'enquête. Redélimiter devient nécessaire lorsque la difficulté porte sur la formulation même du problème ou sur les limites de ce qui doit être examiné.
+## 7. Rapport aux autres opérations
 
-## 9. Synthèse
+Délimiter formule le problème auquel les autres opérations contribuent à répondre. Il ne détermine pas à l'avance le travail qu'elles devront effectuer.
 
-Délimiter consiste à passer d’un trouble rencontré à un problème formulé et circonscrit pour l’enquête. L’opération explicite la question à examiner, la pratique concernée, le périmètre provisoire et les limites de l’examen.
+- **Ancrer** examine les conditions de la situation et les appuis disponibles. Ces éléments permettent de préciser le problème initial ou de mettre en évidence une limite de sa formulation.
+- **Distinguer** établit les différences pertinentes pour traiter le problème. Une distinction nouvelle peut révéler que la question initiale rassemble plusieurs difficultés.
+- **Relier** examine les relations et les dépendances entre les éléments retenus. L'examen de ces relations peut faire apparaître une dimension du problème qui n'avait pas été explicitée.
+- **Configurer** examine l'organisation descriptive des éléments, des relations et des contraintes pertinentes. La délimitation précise le problème auquel cette organisation doit répondre, sans en déterminer la forme.
+- **Justifier** examine les raisons, les prémisses, les critères et les inférences qui permettent de soutenir une conclusion. Il peut conduire à préciser la question lorsque les conclusions recherchées ne répondent pas au problème formulé.
+- **Reconstituer** rend explicites les opérations, les transformations et les décisions intervenues dans le cheminement de l'enquête. Cette reconstruction permet notamment de comprendre comment la formulation initiale a été maintenue ou modifiée.
+- **Redélimiter** réexamine la formulation ou le périmètre du problème lorsque les résultats de l'enquête mettent en question leur pertinence.
 
-Elle ne résout pas le problème et ne garantit pas que sa formulation initiale soit adéquate. Elle rend le cadrage visible, discutable et révisable.
+Ces articulations ne constituent pas une succession obligatoire. Les opérations peuvent être reprises ou combinées selon les difficultés rencontrées.
 
-**Le trouble motive l’enquête ; la délimitation formule le problème à examiner ; les résultats de l’enquête peuvent conduire à le redélimiter.**
+## 8. Ce que la délimitation établit, suggère et n'établit pas
 
-Pour poursuivre :
+La délimitation établit une formulation provisoire du problème et rend explicites les limites actuelles de l'examen.
 
-- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
-- [Ancrer](fr/ancrer.md)
-- [Distinguer](fr/distinguer.md)
-- [Justifier](fr/justifier.md)
-- [Redélimiter](fr/redelimiter.md)
-- [Relier](fr/relier.md)
-- [Configurer](fr/configurer.md)
-- [Reconstituer](fr/reconstituer.md)
-- [Table des matières](fr/tdm.md)
+Elle suggère un périmètre de travail et permet d'identifier les questions qui devront être traitées pour avancer dans l'enquête.
+
+Elle n'établit pas :
+
+- que la formulation initiale est la seule possible ;
+- que tous les éléments pertinents ont été identifiés ;
+- que les éléments inclus dans le périmètre sont également importants ;
+- que les éléments laissés de côté sont sans pertinence ;
+- que les catégories employées sont adéquates ;
+- que les relations supposées sont établies ;
+- que les critères de décision sont justifiés ;
+- que les conclusions attendues seront confirmées.
+
+La délimitation rend le problème examinable ; elle ne préjuge pas de la réponse.
+
+## 9. Limites et reprise
+
+Une délimitation trop large risque de disperser l'enquête. Une délimitation trop étroite peut exclure des éléments nécessaires à l'examen. Une formulation prématurément stabilisée peut également transformer une hypothèse initiale en condition implicite de toutes les conclusions ultérieures.
+
+La délimitation doit donc rester révisable. Toutefois, toute difficulté rencontrée ne justifie pas de reformuler le problème.
+
+Il faut distinguer deux situations :
+
+- **La reprise d'une opération** : une difficulté locale appelle un nouvel ancrage, une distinction supplémentaire, un réexamen des relations, une modification de la configuration ou une nouvelle justification, sans remettre nécessairement en cause le périmètre général.
+- **La redélimitation** : les résultats mettent en question la formulation du problème, son périmètre ou la manière dont plusieurs difficultés ont été regroupées. Il devient alors nécessaire de maintenir, préciser, scinder ou reformuler le problème.
+
+La redélimitation ne doit pas servir à écarter les résultats gênants ou à préserver une conclusion préalable. Elle doit être motivée par les difficultés effectivement révélées au cours de l'enquête.
+
+## 10. Synthèse
+
+Délimiter consiste à formuler une difficulté comme un problème d'enquête, en précisant la question à examiner, la pratique concernée et le périmètre provisoire du travail.
+
+L'opération rend possible un examen différencié sans imposer une procédure fixe ni anticiper les résultats des autres opérations.
+
+Elle ne définit pas une frontière définitive autour d'un objet. Elle construit une formulation de travail qui peut être maintenue, précisée ou révisée à partir de ce que l'enquête permet d'établir.
+
+**Délimiter formule le problème. Les autres opérations en examinent les conditions, les différences, les relations, l'organisation et les raisons. Redélimiter réexamine le problème lorsque les résultats rendent sa formulation ou son périmètre inadéquats.**
+
+---
+
+## Pour poursuivre
+
+- [Ancrer](fr/ancrer.md) — Examiner les conditions et les appuis de l'enquête.
+- [Distinguer](fr/distinguer.md) — Maintenir les différences pertinentes.
+- [Relier](relier.md) — Examiner les relations et les dépendances.
+- [Configurer](fr/configurer.md) — Examiner l'organisation des dépendances.
+- [Justifier](fr/justifier.md) — Examiner les raisons et les critères.
+- [Reconstituer](fr/reconstituer.md) — Rendre le cheminement de l'enquête explicite.
+- [Redélimiter](fr/redelimiter.md) — Réexaminer les limites du problème.
+- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations dans l'organisation générale de l'enquête.
