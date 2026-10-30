@@ -85,6 +85,8 @@ Délimiter contribue au cadrage de l’enquête. Cette fonction ne signifie pas 
 - [Ancrer](fr/ancrer.md) permet d’examiner les observations, les traces, les documents et les contraintes pertinents pour le problème. Délimiter précise ce qu’il faut examiner ; ancrer contribue à établir sur quels éléments l’examen peut s’appuyer.
 - [Distinguer](fr/distinguer.md) permet de préciser les différences nécessaires lorsque la difficulté repose sur une confusion ou sur des questions qui doivent être séparées.
 - [Relier](fr/relier.md) permet d’examiner les dépendances entre les éléments retenus, sans présumer qu’elles expliquent à elles seules la difficulté.
+- [Configurer](fr/configurer.md) permet d'examiner l'organisation des différences et des relations dans une configuration descriptive. La délimitation précise le problème auquel cette configuration doit répondre, sans en déterminer à l'avance l'organisation.
+- [Reconstituer](fr/reconstituer.md) permet de rendre explicites les transformations, les choix et les dépendances intervenus au cours de l'enquête. Cette reconstruction peut conduire à comprendre pourquoi la formulation initiale du problème a été maintenue, précisée ou remise en question.
 - [Justifier](fr/justifier.md) permet d’examiner les raisons, les critères et les inférences mobilisés pour soutenir une conclusion.
 - [Redélimiter](fr/redelimiter.md) permet de réexaminer la formulation et le périmètre lorsque les résultats de l’enquête mettent en question leur pertinence.
 
@@ -120,6 +122,8 @@ Il faut donc distinguer ce qui affecte la formulation ou le périmètre de ce qu
 
 La délimitation reste ainsi une décision de travail, soumise à l’examen. Sa qualité dépend de sa capacité à rendre la difficulté examinable sans empêcher que l’enquête en modifie la formulation.
 
+Il faut également distinguer la reprise d'une opération et la redélimitation du problème. Une difficulté rencontrée lors de l'examen peut appeler un nouvel ancrage, une distinction supplémentaire, une révision des relations ou un nouvel examen de justification, sans remettre en cause le périmètre général de l'enquête. Redélimiter devient nécessaire lorsque la difficulté porte sur la formulation même du problème ou sur les limites de ce qui doit être examiné.
+
 ## 9. Synthèse
 
 Délimiter consiste à passer d’un trouble rencontré à un problème formulé et circonscrit pour l’enquête. L’opération explicite la question à examiner, la pratique concernée, le périmètre provisoire et les limites de l’examen.
@@ -135,4 +139,7 @@ Pour poursuivre :
 - [Distinguer](fr/distinguer.md)
 - [Justifier](fr/justifier.md)
 - [Redélimiter](fr/redelimiter.md)
+- [Relier](fr/relier.md)
+- [Configurer](fr/configurer.md)
+- [Reconstituer](fr/reconstituer.md)
 - [Table des matières](fr/tdm.md)
