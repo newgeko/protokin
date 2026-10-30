@@ -1,224 +1,255 @@
-# Conduire une enquête — Guide pratique
+# Conduire une enquête — Repères pratiques
 
-## 1. Fonction
+## Fonction
 
 Cette page propose des repères pratiques pour conduire une enquête dans le cadre de Protokin.
 
-Elle aide à passer d’une difficulté rencontrée dans une pratique descriptive à un examen organisé de ce qui fait problème, des éléments disponibles, des distinctions mobilisées et des conclusions que l’on peut défendre.
+Elle aide à passer d’une difficulté descriptive à un examen organisé : préciser ce qui fait problème, déterminer sous quel rapport l’examiner, repérer les confusions éventuelles et choisir le travail à reprendre.
 
-Elle complète l’[Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md), qui définit les opérations de l’enquête. Elle ne les remplace pas et ne constitue pas une seconde chaîne d’opérations.
+Elle complète l’[Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md), qui présente les catégories, les opérations, les orientations, les fonctions transversales et les instruments d’épreuve.
 
-## 2. Point de départ : une difficulté à examiner
+Elle ne constitue ni une nouvelle opération ni une procédure à appliquer intégralement. Son objectif est plus limité : aider à décider comment poursuivre une enquête en fonction de la difficulté rencontrée.
 
-Une enquête devient pertinente lorsque les ressources descriptives disponibles ne permettent plus de traiter une difficulté de manière satisfaisante.
+## 1. Partir d’une difficulté identifiable
 
-Cette difficulté peut prendre plusieurs formes :
+Une enquête commence par une difficulté rencontrée dans une pratique descriptive. Celle-ci peut concerner :
 
-- une distinction ne permet plus de différencier certains cas ;
-- une catégorie est appliquée de manière contestable ;
-- plusieurs descriptions semblent incompatibles ;
-- une conclusion repose sur des critères dont la pertinence est discutée ;
-- une description remplit une fonction qui n’avait pas été prise en compte ;
-- les éléments disponibles ne permettent pas de justifier ce qui est affirmé.
+- une distinction qui ne permet plus de différencier certains cas ;
+- une catégorie dont l’emploi est contesté ;
+- une relation supposée mais insuffisamment établie ;
+- une configuration qui ne rend pas compte des éléments disponibles ;
+- une conclusion dont les raisons ou les critères sont fragiles ;
+- plusieurs descriptions qui semblent incompatibles ;
+- un résultat dont le cheminement n’est pas suffisamment explicite.
 
-Le premier travail consiste à préciser ce qui fait effectivement problème. Il ne s’agit pas de supposer immédiatement qu’une description est fausse, qu’un régime descriptif est défaillant ou qu’une transformation est nécessaire.
+La difficulté ne doit pas être immédiatement assimilée à une erreur de description. Elle peut tenir aux éléments disponibles, aux distinctions employées, aux relations examinées, à la formulation du problème ou aux conclusions que l’on cherche à en tirer.
 
-Une difficulté peut provenir de la description elle-même, des critères employés, des relations établies entre plusieurs éléments ou des exigences auxquelles une conclusion doit répondre. Ces possibilités doivent être examinées plutôt que présupposées.
+Le premier travail consiste donc à formuler ce qui reste indéterminé, contesté ou insuffisamment établi.
 
-## 3. Conduire l’enquête : des repères pour agir
-
-La conduite de l’enquête peut s’organiser autour de cinq questions pratiques. Elles ne constituent pas cinq opérations supplémentaires ni une succession obligatoire. Elles aident à déterminer ce qu’il faut examiner et quelle suite donner aux résultats.
-
-### 3.1. Quel est le problème précis ?
-
-Formuler la difficulté sans anticiper sa solution.
+Quelques questions permettent de commencer :
 
 - Quelle description, distinction ou conclusion est mise en question ?
-- Dans quelles circonstances la difficulté apparaît-elle ?
-- Qu’est-ce qui reste indéterminé, contesté ou insuffisamment justifié ?
-- Quelle question doit être traitée pour que l’examen puisse progresser ?
+- Dans quelle pratique la difficulté apparaît-elle ?
+- Qu’est-ce qui reste précisément indéterminé ?
+- Quelle question faut-il examiner pour faire progresser l’enquête ?
+- Quelles limites faut-il conserver dans la formulation initiale ?
 
-La formulation initiale est une hypothèse de travail. Elle doit être suffisamment précise pour guider l’examen, mais rester révisable.
+La formulation du problème est provisoire. Elle doit être suffisamment précise pour orienter l’examen, mais rester révisable.
 
-### 3.2. Sur quels éléments l’examen peut-il s’appuyer ?
+## 2. Examiner la difficulté sous les orientations pertinentes
 
-Identifier les matériaux pertinents pour le problème : observations, documents, énoncés, pratiques, mesures, témoignages ou résultats antérieurs.
+La [quadripartition de l’orientation](quadripartition-de-l-orientation.md) distingue quatre orientations : **Condition, Relation, Fonction et Justification**.
 
-Il faut distinguer les éléments disponibles de l’interprétation qui en est proposée. Un document atteste qu’une qualification a été inscrite ; il ne suffit pas, à lui seul, à établir que cette qualification est adéquate. Une observation peut soutenir une hypothèse sans la justifier entièrement.
+Elles aident à préciser sous quel rapport une situation, une pratique ou une description doit être examinée.
 
-L’enquête doit également préciser ce qui manque, ce qui reste incertain et les limites des matériaux recueillis.
+### Condition
 
-### 3.3. Quelles distinctions et quelles dépendances faut-il examiner ?
+Quelles conditions et contraintes sont pertinentes pour la situation étudiée ?
 
-Déterminer les différences nécessaires à l’analyse, puis examiner les relations pertinentes entre les éléments retenus.
+Il peut s’agir de conditions matérielles, corporelles, environnementales, techniques, institutionnelles ou temporelles.
 
-Il peut être nécessaire de distinguer plusieurs descriptions d’une même situation, de préciser les critères qui leur sont associés ou de déterminer si leurs conclusions sont réellement incompatibles.
+Il faut également examiner sur quels appuis l’enquête repose : observations, traces, mesures, documents, témoignages ou autres éléments disponibles.
 
-La présence d’un même référent ne suffit pas à rendre deux descriptions concurrentes. Inversement, des descriptions formulées dans des vocabulaires différents peuvent entrer en conflit si elles avancent des conclusions incompatibles dans les mêmes conditions.
+La distinction entre conditions et appuis doit être maintenue. Les conditions appartiennent à la situation ; les appuis sont les éléments par lesquels l’enquête en examine certains aspects.
 
-L’examen doit établir la nature de ces rapports au lieu de la déduire de la seule différence des formulations.
+### Relation
 
-### 3.4. Que permettent de soutenir les résultats ?
+Quelles dépendances et quelles médiations doivent être établies entre les éléments concernés ?
 
-Examiner les conclusions à partir des éléments disponibles, des inférences mobilisées et des critères pertinents.
+Il faut préciser la nature des relations invoquées : causales, matérielles, temporelles, fonctionnelles, institutionnelles ou inférentielles.
 
-Il convient notamment de distinguer :
+Une relation constatée ne suffit pas à déterminer ce qu’elle explique ni les conclusions qu’elle autorise.
 
-- ce qui a été observé et ce qui a été inféré ;
-- ce qui est affirmé et ce qui est seulement supposé ;
-- ce qu’une règle permet de conclure et ce qui justifie l’usage de cette règle ;
-- la fonction pratique d’une description et son adéquation à ce qu’elle prétend décrire ;
-- une conclusion provisoire et une conclusion suffisamment défendue pour l’objectif poursuivi.
+### Fonction
 
-Une conclusion peut être cohérente sans être adéquate à la situation examinée. La cohérence du raisonnement ne dispense donc pas d’examiner ses prémisses, ses critères et les conditions dans lesquelles il est appliqué.
+Quel travail une description, une distinction, une catégorie ou un instrument accomplit-il dans la pratique considérée ?
 
-### 3.5. Que faut-il faire ensuite ?
+Il faut examiner les usages de la description, les décisions auxquelles elle contribue et les effets de son emploi.
 
-À partir des résultats, déterminer la suite pertinente :
+L’utilité d’une description ne suffit cependant pas à établir son adéquation à ce qu’elle prétend décrire.
 
-- maintenir la formulation du problème ;
-- reprendre une distinction ou une inférence ;
-- recueillir des éléments supplémentaires ;
-- examiner une relation jusque-là négligée ;
-- préciser les limites d’une conclusion ;
-- reformuler le problème ;
-- ou arrêter provisoirement l’enquête.
+### Justification
 
-**En cas d’impasse, procéder en quatre temps :**
+Quelles raisons, quels critères et quelles inférences permettent de soutenir ou de contester une conclusion ?
 
-1. **Reformuler la difficulté.** Préciser ce qui bloque effectivement : manque d’éléments, distinction équivoque, relation incertaine, conclusion insuffisamment justifiée ou problème mal circonscrit.
-2. **Examiner les orientations pertinentes.** Se demander si la difficulté concerne les conditions de l’examen, les relations entre les éléments, la fonction d’une description ou la justification d’une conclusion. Il n’est pas nécessaire de mobiliser systématiquement les quatre orientations.
-3. **Repérer une conversion éventuellement injustifiée.** Vérifier, par exemple, si une condition est traitée comme un critère, si une cause est prise pour une raison ou si l’utilité d’une description est considérée comme une preuve de son adéquation. Une conversion suspectée doit être examinée, et non simplement présumée.
-4. **Choisir la reprise appropriée.** Selon le diagnostic, reprendre l’ancrage, préciser une distinction, examiner une relation, réviser une configuration ou une justification, recueillir des éléments supplémentaires, ou reformuler le problème si sa délimitation se révèle inadéquate.
+Il faut examiner les éléments mobilisés, les prémisses, les passages du raisonnement et les objections auxquelles la conclusion doit répondre.
 
-Ces quatre temps constituent un repère pratique, non une procédure obligatoire. Ils servent à choisir un travail pertinent plutôt qu’à appliquer automatiquement une opération. Une impasse ne commande donc pas, à elle seule, de redélimiter le problème.
+La cohérence d’un raisonnement ne suffit pas à établir que ses prémisses sont pertinentes ni que sa conclusion est adéquate.
 
-Une difficulté ne nécessite pas toujours une transformation générale de la pratique. Une correction locale peut suffire. À l’inverse, des difficultés récurrentes peuvent révéler que le problème initial a été mal circonscrit.
+Les quatre orientations ne forment pas une grille obligatoire. Une enquête peut en mobiliser une seule, plusieurs ou aucune explicitement lorsque cela n’apporte rien à l’examen. Leur rôle est de rendre certaines questions visibles, non de prescrire un parcours.
 
-La décision doit rester proportionnée à ce que l’enquête a effectivement établi. Si les éléments disponibles ne permettent pas de choisir entre plusieurs reprises, cette incertitude doit être explicitée avant de poursuivre.
+## 3. Repérer les conversions injustifiées
 
-## 4. Mobiliser les opérations de l’enquête
+Une difficulté peut provenir du passage insuffisamment établi entre deux registres ou deux fonctions.
 
-L’[Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) distingue huit opérations :
+Avant de choisir une reprise, il est utile de vérifier si une réponse a été utilisée au-delà de ce qu’elle permet d’établir.
+
+Quelques confusions doivent notamment être examinées :
+
+| Ce qui est établi | Ce qui ne s’en déduit pas automatiquement |
+|---|---|
+| Une condition est présente. | Elle constitue nécessairement un critère de décision. |
+| Un événement en cause un autre. | Cette relation fournit une raison de soutenir une conclusion. |
+| Une trace est disponible. | Sa signification est déjà déterminée. |
+| Une description remplit une fonction utile. | Elle est adéquate à ce qu’elle prétend décrire. |
+| Une configuration est cohérente. | Elle est adéquate à la situation examinée. |
+| Une conclusion est acceptée. | Elle est suffisamment justifiée. |
+| Le cheminement d'une enquête est reconstitué. | Son résultat était nécessaire ou inévitable. |
+
+Repérer une conversion possible ne suffit pas à établir qu'elle est effectivement injustifiée. Il faut examiner le passage concerné, les relations qui le soutiennent et les conditions dans lesquelles il pourrait être défendu.
+
+L'objectif n'est pas de séparer artificiellement des dimensions liées, mais d'éviter qu'une conclusion soit tenue pour acquise sans que le passage qui y conduit ait été examiné.
+
+## 4. Choisir une reprise proportionnée
+
+Une fois la difficulté précisée, il faut déterminer quelle opération permettrait de mieux la traiter.
+
+La chaîne de référence rassemble huit opérations :
 
 **Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter**
 
-Cette chaîne fournit un répertoire fonctionnel pour conduire l’examen. Elle ne prescrit ni un ordre rigide ni l’exécution systématique de toutes les opérations.
+Elle constitue un répertoire fonctionnel, non un ordre d'exécution.
 
-Selon le problème, l’enquête peut commencer par une distinction contestée, reprendre les conditions d’une observation, examiner une justification ou revenir sur sa formulation initiale. Plusieurs opérations peuvent être mobilisées conjointement, puis reprises si leurs résultats se révèlent insuffisants.
+| Difficulté rencontrée | Opération susceptible d'être reprise |
+|---|---|
+| Le problème est trop large, ambigu ou mal formulé. | **Délimiter** |
+| Les conditions de la situation ou les appuis disponibles sont insuffisants. | **Ancrer** |
+| Des éléments, des critères ou des fonctions sont confondus. | **Distinguer** |
+| Une dépendance ou une médiation reste incertaine. | **Relier** |
+| L'organisation des éléments et de leurs relations ne permet pas de traiter le problème. | **Configurer** |
+| Les raisons, les prémisses, les critères ou les inférences ne soutiennent pas suffisamment la conclusion. | **Justifier** |
+| Le cheminement, les décisions ou les transformations de l'enquête ne sont pas suffisamment explicites. | **Reconstituer** |
+| La formulation ou le périmètre du problème ne permet plus de traiter la difficulté. | **Redélimiter** |
 
-La question pratique n’est donc pas : « À quelle étape suis-je ? », mais plutôt : **« Quelle opération permettrait ici de mieux traiter la difficulté rencontrée ? »**
+Ces indications ne constituent pas une correspondance automatique. Une même difficulté peut nécessiter plusieurs opérations, et une opération peut contribuer à l'examen de plusieurs orientations.
 
-Les opérations doivent être choisies en fonction du problème et des résultats attendus. Leur contribution et leurs limites doivent rester explicites.
+Il faut notamment distinguer une correction locale d'une révision du problème. Une justification fragile peut appeler un nouvel examen des raisons sans remettre en cause la formulation initiale. Une distinction insuffisante peut être corrigée sans redélimiter l'enquête. La redélimitation devient pertinente lorsque les résultats montrent que le problème lui-même doit être maintenu, précisé, scindé ou reformulé.
 
-## 5. Orienter l’examen sans imposer une grille
+La reprise doit être proportionnée à ce qui reste à établir.
 
-La [Quadripartition de l’orientation](quadripartition-de-l-orientation.md) aide à distinguer quatre types de questions :
+## 5. Utiliser les fonctions transversales et les instruments
 
-- **Condition** : quelles contraintes et possibilités sont pertinentes pour la situation examinée ?
-- **Relation** : quelles dépendances doivent être établies ?
-- **Fonction** : quel rôle la description ou la distinction remplit-elle dans la pratique étudiée ?
-- **Justification** : quelles raisons et quels critères permettent de défendre ou de contester les conclusions ?
+Les opérations ne suffisent pas toujours à rendre compte de toutes les dimensions de l'enquête. Les fonctions transversales et les instruments peuvent contribuer à leur examen.
 
-Ces orientations peuvent aider à repérer une question négligée ou une confusion entre des réponses de nature différente. Elles ne constituent pas une liste obligatoire à remplir pour chaque enquête.
+### Fonctions transversales
 
-Une condition matérielle ne justifie pas automatiquement une conclusion. L’utilité d’une description ne garantit pas son adéquation. Une relation observée ne détermine pas à elle seule la fonction d’un élément.
+Cinq fonctions peuvent intervenir dans différentes opérations :
 
-Les passages entre ces questions doivent être examinés dans le cas considéré. La quadripartition oriente l’examen ; elle ne préjuge pas de ses résultats.
+- **Temporaliser** : examiner les transformations au cours du temps et distinguer celles de la situation de celles des descriptions.
+- **Expliquer** : examiner les processus et les mécanismes qui rendent compte de l'apparition, du maintien ou de la transformation d'une situation ou d'une pratique.
+- **Auditer** : examiner les distinctions, les dépendances, les inférences, les critères et les engagements mobilisés.
+- **Réfléchir** : interroger les présupposés, les choix descriptifs et les limites de l'enquête elle-même.
+- **Éprouver** : confronter les descriptions et les conclusions à des éléments susceptibles d'en révéler les limites.
 
-En pratique, lorsqu’une enquête rencontre une impasse, les orientations aident à préciser la nature de la difficulté et à choisir l’opération à reprendre. Elles ne déterminent pas mécaniquement cette opération : une même orientation peut conduire à plusieurs reprises selon les éléments déjà examinés et ce qui reste à établir. Le repère proposé en section 3.5 permet de conduire cet examen sans transformer la quadripartition en grille obligatoire.
+Ces fonctions ne constituent pas des opérations supplémentaires. Elles ne doivent pas être mobilisées systématiquement : leur pertinence dépend de la difficulté examinée.
 
-## 6. Distinguer conduite d’enquête et audit
+### Instruments d'épreuve
 
-Conduire une enquête consiste à organiser l’examen d’une difficulté descriptive et à déterminer quelles opérations permettent de la traiter.
+Quatre instruments de référence permettent de mettre concrètement certains résultats à l'épreuve :
 
-Un audit est un examen plus ciblé, mobilisé lorsque la situation exige d’expliciter ou de contrôler certains éléments d’une pratique : ses supports, ses critères, ses distinctions ou les conclusions qu’elle autorise.
+- **Substitution** : remplacer un terme, une catégorie ou une distinction pour examiner ce qui change et les conséquences de ce remplacement.
+- **Cas** : examiner une situation déterminée afin de préciser les conditions d'application ou les limites d'une proposition.
+- **Comparaison** : confronter plusieurs descriptions ou situations pour examiner leurs différences, leurs compatibilités et leurs incompatibilités.
+- **Reprise** : réexaminer une description, une distinction ou une conclusion à la lumière d'un résultat, d'une objection ou d'un nouvel élément.
 
-L’audit peut donc contribuer à une enquête sans se confondre avec elle. Une enquête peut aussi nécessiter une comparaison, une collecte d’éléments supplémentaires ou une reformulation du problème, sans prendre la forme d’un audit complet.
+La reprise comme instrument désigne un acte d'examen situé. Elle ne se confond pas avec l'opération Reconstituer, qui rend le cheminement de l'enquête explicite.
 
-Dans les deux cas, il faut distinguer les éléments examinés, les résultats de l’examen et les conclusions que l’on en tire. Une procédure ne garantit pas à elle seule la validité de son résultat.
+Aucun instrument ne produit mécaniquement un verdict. Il faut préciser ce qu'il permet d'examiner et ce que son résultat autorise effectivement à conclure.
 
-## 7. Exemple d’application : le botaniste et le bûcheron
+## 6. Exemple d'application : le botaniste et le bûcheron
 
-Un botaniste examine l’état biologique d’un arbre. Un bûcheron évalue sa structure et les conditions d’une intervention. Leurs descriptions portent sur le même arbre, mais elles ne répondent pas nécessairement à la même question.
+Un botaniste examine l'état biologique d'un arbre. Un bûcheron évalue sa structure et les conditions d'une intervention.
 
-Supposons que le botaniste juge l’arbre vivant et biologiquement viable, tandis que le bûcheron estime qu’une intervention est nécessaire en raison d’un risque de rupture. Ces conclusions ne sont pas contradictoires par le seul fait qu’elles diffèrent. Il faut déterminer ce qu’elles affirment exactement et dans quelles conditions elles pourraient entrer en conflit.
+Leurs descriptions portent sur le même arbre, mais elles ne répondent pas nécessairement à la même question.
 
-### 1. Reformuler la difficulté
+Supposons que le botaniste juge l'arbre vivant et biologiquement viable, tandis que le bûcheron estime qu'une intervention est nécessaire en raison d'un risque de rupture.
 
-La question initiale ne doit pas être : « Lequel des deux a raison ? », mais : « Leurs conclusions portent-elles sur le même aspect de l’arbre et répondent-elles aux mêmes exigences ? »
+### Reformuler la difficulté
 
-Le désaccord apparent peut concerner l’état biologique de l’arbre, sa stabilité mécanique, le risque associé à son maintien ou la décision pratique à prendre. Ces questions sont liées, mais elles ne sont pas équivalentes.
+La question ne doit pas être immédiatement : « Lequel des deux a raison ? »
 
-### 2. Examiner les orientations pertinentes
+Il faut d'abord préciser le désaccord : porte-t-il sur l'état biologique de l'arbre, sa stabilité mécanique, le risque associé à son maintien ou la décision pratique à prendre ?
 
-- **Condition** : quels éléments matériels, observations et circonstances sont pertinents pour évaluer l’état de l’arbre et le risque de rupture ?
-- **Relation** : quels rapports peut-on établir entre l’état biologique, la structure de l’arbre et le risque évalué ?
-- **Fonction** : à quelle question chaque description répond-elle, et quelle décision doit-elle éventuellement contribuer à préparer ?
+Ces questions sont liées, mais elles ne sont pas équivalentes.
+
+### Examiner les orientations pertinentes
+
+- **Condition** : quels éléments matériels et quelles observations permettent d'examiner l'état de l'arbre et le risque de rupture ?
+- **Relation** : quels rapports peut-on établir entre l'état biologique, la structure de l'arbre et le risque évalué ?
+- **Fonction** : à quelle question chaque description répond-elle et quelle décision doit-elle éventuellement contribuer à préparer ?
 - **Justification** : quels éléments, critères et raisonnements soutiennent les conclusions du botaniste et du bûcheron ?
 
-Il n’est pas nécessaire d’examiner ces quatre orientations avec la même intensité. Leur mobilisation dépend de ce que la difficulté exige d’éclaircir.
+Il n'est pas nécessaire de traiter les quatre orientations avec la même intensité. Leur mobilisation dépend de ce qui reste à éclaircir.
 
-### 3. Repérer une éventuelle conversion injustifiée
+### Repérer une éventuelle conversion
 
-L’enquête doit notamment vérifier qu’on ne déduit pas automatiquement de la viabilité biologique que l’arbre ne présente aucun risque mécanique, ni de l’existence d’un risque qu’il serait biologiquement mort.
+Il serait injustifié de déduire automatiquement de la viabilité biologique que l'arbre ne présente aucun risque mécanique. Il serait tout aussi injustifié de déduire de l'existence d'un risque que l'arbre est biologiquement mort.
 
-Ce serait traiter une conclusion portant sur une dimension comme si elle établissait une conclusion portant sur une autre. Les dimensions peuvent être liées, mais la nature et la portée de cette relation doivent être établies.
+Une conclusion portant sur une dimension ne suffit pas à établir une conclusion portant sur une autre. Les dimensions peuvent être liées, mais la nature et la portée de leur relation doivent être examinées.
 
-Il faut également éviter de confondre l’utilité d’une description pour une décision avec la vérité de toutes les affirmations qu’elle contient. La pertinence pratique et l’adéquation descriptive doivent être examinées sans être assimilées.
+### Choisir la reprise
 
-### 4. Choisir l’opération appropriée
+Selon la difficulté identifiée :
 
-La suite de l’enquête dépend du problème effectivement identifié :
+- si les observations sur l'arbre sont insuffisantes, reprendre **Ancrer** ;
+- si les termes employés recouvrent des questions différentes, reprendre **Distinguer** ;
+- si le rapport entre l'état biologique et le risque mécanique reste incertain, reprendre **Relier** ;
+- si les éléments sont disponibles mais organisés de manière inadéquate, reprendre **Configurer** ;
+- si les conclusions ne sont pas suffisamment étayées, reprendre **Justifier** ;
+- si la question initiale mélange plusieurs problèmes, envisager **Redélimiter**.
 
-- si les observations sur l’arbre sont insuffisantes, **Ancrer** l’enquête en recueillant des éléments pertinents ;
-- si les termes employés recouvrent des questions différentes, **Distinguer** les dimensions examinées et les conclusions associées ;
-- si le rapport entre l’état biologique et le risque mécanique reste incertain, **Relier** les éléments en examinant les dépendances pertinentes ;
-- si les éléments sont disponibles mais organisés de façon inadéquate, **Configurer** une description qui rende explicites les dimensions et leurs rapports ;
-- si les conclusions ne sont pas suffisamment étayées, **Justifier** les raisons et les critères avancés ;
-- si la question initiale mélange plusieurs problèmes, **Redélimiter** l’enquête pour les distinguer.
+Ces opérations ne forment pas une succession obligatoire. L'enquête peut en mobiliser plusieurs conjointement, puis reprendre celle dont les résultats restent insuffisants.
 
-Ces opérations ne forment pas une succession obligatoire. L’enquête peut en mobiliser plusieurs, puis reprendre celle dont les résultats restent insuffisants.
+L'examen peut établir que les deux descriptions sont compatibles parce qu'elles répondent à des questions différentes. Il peut aussi révéler une véritable incompatibilité, une erreur dans l'une des descriptions ou un manque d'éléments empêchant de trancher.
 
-### 5. Déterminer ce que l’enquête permet de conclure
+Aucune de ces issues ne doit être présumée.
 
-L’examen peut établir que les deux descriptions sont compatibles parce qu’elles répondent à des questions différentes. Il peut aussi révéler une véritable incompatibilité, une erreur dans l’une des descriptions ou un manque d’éléments empêchant de trancher.
+## 7. Conditions d'arrêt et limites
 
-Il ne faut présumer aucune de ces issues. Si une décision d’intervention doit être prise, les critères pertinents pour cette décision doivent être explicités et les conclusions examinées au regard des éléments disponibles.
+Conduire une enquête ne signifie pas examiner indéfiniment toutes les dimensions possibles d'une situation.
 
-**Ce que montre le cas :** conduire une enquête ne consiste ni à choisir immédiatement entre deux descriptions ni à les déclarer complémentaires. Il faut préciser la difficulté, examiner les orientations pertinentes, repérer les éventuelles conversions injustifiées et choisir les opérations adaptées à ce qui reste à établir.
+L'enquête peut s'arrêter lorsque :
 
-## 8. Limites et conditions d’arrêt
+- le problème est suffisamment circonscrit pour l'objectif poursuivi ;
+- les éléments pertinents ont été examinés dans les limites annoncées ;
+- les distinctions et les dépendances nécessaires ont été suffisamment explicitées ;
+- les conclusions peuvent être défendues au regard des raisons et des critères retenus ;
+- les incertitudes qui subsistent sont identifiées.
 
-Conduire une enquête ne signifie pas examiner indéfiniment toutes les dimensions possibles d’une situation.
+Cet arrêt est situé. Il ne signifie pas que toutes les questions connexes sont résolues ni que les résultats resteront adéquats dans toutes les situations ultérieures.
 
-L’enquête peut s’arrêter lorsque le problème est suffisamment circonscrit pour l’objectif poursuivi, que les conclusions pertinentes sont défendables et que les incertitudes restantes sont identifiées. Cet arrêt est situé : il ne signifie pas que toutes les questions connexes ont été résolues.
+Il faut éviter deux dérives :
 
-Il faut éviter deux dérives opposées :
+- **L'examen insuffisant** : conclure trop tôt sans avoir examiné les éléments, les distinctions ou les critères nécessaires.
+- **L'examen sans limite** : multiplier les reprises sans préciser quelle difficulté demeure ni quel résultat supplémentaire est attendu.
 
-- **L’examen insuffisant** : conclure trop tôt, sans avoir identifié les distinctions, les éléments ou les critères nécessaires.
-- **L’examen sans limite** : multiplier les reprises sans préciser quelle difficulté demeure et quel résultat supplémentaire est attendu.
+Une enquête peut également conclure que les éléments disponibles ne permettent pas de trancher. Ce constat constitue un résultat pertinent s'il précise ce qui manque, pourquoi cela importe et dans quelles conditions l'examen pourrait reprendre.
 
-Une enquête peut aussi conclure que les éléments disponibles ne permettent pas de trancher. Ce constat constitue un résultat pertinent s’il précise ce qui manque, pourquoi cela importe et dans quelles conditions l’examen pourrait reprendre.
-
-Enfin, Protokin n’accorde pas à l’enquêteur un point de vue extérieur et infaillible sur les pratiques examinées. Les catégories mobilisées par l’analyse sont elles aussi susceptibles d’être interrogées et révisées.
+Enfin, l'enquêteur ne dispose pas d'un point de vue extérieur et infaillible sur les pratiques examinées. Les catégories, les critères et les instruments mobilisés par Protokin restent eux-mêmes susceptibles d'être interrogés et révisés.
 
 ## Synthèse
 
-Conduire une enquête consiste à partir d’une difficulté identifiable, à sélectionner les opérations pertinentes, à examiner les éléments et les critères mobilisés, puis à déterminer ce que les résultats permettent de soutenir et quelle suite leur donner.
+Conduire une enquête consiste à partir d'une difficulté identifiable, à préciser sous quels rapports elle doit être examinée, à repérer les éventuelles conversions injustifiées et à choisir les opérations adaptées à ce qui reste à établir.
 
-La démarche n’impose pas une procédure universelle. Elle organise un examen révisable dont les opérations doivent être adaptées au problème et dont les conclusions doivent rester proportionnées aux éléments disponibles.
+La démarche ne prescrit pas une procédure universelle. Les opérations peuvent être mobilisées conjointement, reprises séparément ou réorganisées en fonction du problème et des résultats obtenus.
 
-La chaîne fonctionnelle fournit les opérations possibles ; la quadripartition aide à distinguer les questions ; les instruments permettent d’éprouver certaines réponses. Aucun de ces éléments ne garantit à lui seul la validité des conclusions.
+La chaîne fournit les opérations de référence ; la quadripartition aide à orienter l'examen ; les fonctions transversales permettent d'en examiner différentes dimensions ; les instruments mettent certains résultats à l'épreuve.
 
-Conduire une enquête, c’est donc rendre la difficulté examinable, expliciter les passages qui soutiennent les conclusions et maintenir ouverte la possibilité de corriger aussi bien les réponses que la formulation du problème.
+**Conduire une enquête, c'est rendre la difficulté examinable, expliciter les passages qui soutiennent les conclusions et choisir des reprises proportionnées à ce qui reste à établir.**
 
 ---
 
 Pour poursuivre :
 
-- [Introduction générale](introduction-generale.md)
-- [Architecture du projet](architecture-projet.md)
-- [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md)
-- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md)
+- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
+- [La chaîne principale de l'enquête](fr/la-chaine-principale-de-l-enquete.md)
+- [Quadripartition de l'orientation](fr/quadripartition-de-l-orientation.md)
+- [Délimiter](fr/delimiter.md)
+- [Ancrer](fr/ancrer.md)
+- [Distinguer](distinguer.md)
+- [Relier](relier.md)
+- [Configurer](configurer.md)
+- [Justifier](justifier.md)
+- [Reconstituer](reconstituer.md)
+- [Redélimiter](redelimiter.md)
 - [Table des matières](tdm.md)
