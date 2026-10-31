@@ -122,7 +122,7 @@
 
 - **VIII. Références philosophiques**
   - [John Dewey](fr/john-dewey.md)
-  - [Charles Sanders Peirce](fr/charles-sanders-pierce.md)
+  - [Charles Sanders Peirce](fr/charles-sanders-peirce.md)
   - [Ludwig Wittgenstein](fr/ludwig-wittgenstein.md)
   - [Wilfrid Sellars](fr/wilfrid-sellars.md)
   - [Robert Brandom](fr/robert-brandom.md)
