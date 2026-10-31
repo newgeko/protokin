@@ -69,9 +69,9 @@ Cet ordre n’est ni une procédure obligatoire ni une progression nécessaire. 
 
 Ces ressources permettent d’examiner les différents rapports sous lesquels une situation peut être étudiée. Elles ne constituent ni des étapes ni des niveaux du réel.
 
-### A. Quadripartition
+### A. Orientations de l’examen
 
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations Condition, Relation, Fonction et Justification pour examiner une situation et repérer les questions hétérogènes qu’elle engage.
+- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Définir les rapports sous lesquels une situation, une pratique ou un résultat peut être examiné et présenter les orientations actuellement disponibles : Condition, Relation, Fonction et Justification.
 - [Registres](fr/registres.md) — Distinguer les registres cognitif, sémantique et référentiel et préciser les limites de leur articulation.
 
 ### B. Conditions matérielles, biologiques et perceptives
