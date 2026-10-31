@@ -1,91 +1,103 @@
-Parcours de lecture
+# Parcours de lecture
 
-Fonction de cette page
+## Fonction
 
-Cette page propose plusieurs entrées dans la documentation de Protokin selon les questions que le lecteur souhaite examiner.
+Cette page propose plusieurs itinéraires pour accéder aux ressources de Protokin selon les questions que le lecteur souhaite examiner.
 
-Elle ne présente pas une nouvelle fois le projet, son architecture ou ses concepts. Elle indique quelles pages consulter, dans quel but et vers quelles ressources poursuivre la lecture.
+Elle indique quelles pages consulter, ce que chacune apporte et vers quelles ressources poursuivre. Elle ne remplace ni la présentation générale du projet, ni l’architecture de l’enquête, ni la table des matières.
 
-Il n’existe pas d’ordre unique de lecture. Les parcours sont des propositions d’orientation : ils ne constituent ni une procédure obligatoire ni une succession nécessaire dans la constitution d’un objet.
+Il n’existe pas de parcours unique. Les itinéraires proposés sont des aides à la lecture : ils ne constituent ni une procédure obligatoire ni une succession nécessaire d’opérations.
 
-Pour une vue plus complète des ressources disponibles, consulter la "Table des matières" (tdm.md).
+## 1. Découvrir Protokin
 
-1. Découvrir Protokin
+**Question de départ :** à quel problème répond Protokin et quelle est la portée de sa démarche ?
 
-Question de départ : à quel problème répond Protokin et comment son enquête s’organise-t-elle ?
+1. [Introduction générale](fr/introduction-generale.md) — Comprendre le problème de départ, l’orientation méthodologique et le statut non ontologique de la démarche.
+2. [Architecture du projet](fr/architecture-projet.md) — Identifier les principales fonctions documentaires et les relations entre les ressources.
+3. [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Découvrir les composantes qui organisent le travail d’enquête et leurs fonctions respectives.
+4. [Orientation de l’examen](fr/orientation-de-l-examen.md) — Comprendre comment différentes questions peuvent être formulées à propos d’une même situation ou pratique.
+5. [Nom, origine et portée](fr/nom-origine-portee.md) — Approfondir la lecture conceptuelle du nom Protokin et les limites de cette interprétation.
 
-1. "Introduction générale" (introduction-generale.md) — Comprendre pourquoi les pratiques descriptives peuvent devenir problématiques et pourquoi leur examen peut nécessiter une enquête.
-2. "Architecture du projet" (architecture-projet.md) — Identifier les principales ressources du projet et leurs fonctions respectives.
-3. "Architecture fonctionnelle de l’enquête" (architecture-fonctionnelle-de-l-enquete.md) — Comprendre comment les opérations permettent d’examiner un problème, de reprendre les distinctions et de réviser les résultats.
-4. "Quadripartition de l’orientation" (quadripartition-de-l-orientation.md) — Découvrir les quatre orientations qui permettent de différencier les questions examinées.
+Ce parcours permet de situer le projet et de distinguer son orientation méthodologique, son organisation documentaire et les ressources qui structurent l’enquête.
 
-Ce parcours permet de situer le problème de départ et de distinguer l’organisation documentaire du projet, l’organisation fonctionnelle de l’enquête et l’orientation de l’examen.
+## 2. Comprendre comment conduire une enquête
 
-2. Comprendre comment une enquête se conduit
+**Question de départ :** comment traiter une difficulté descriptive concrète ?
 
-Question de départ : comment traiter une difficulté descriptive concrète ?
+1. [Problème descriptif](fr/probleme-descriptif.md) — Identifier les difficultés qui peuvent rendre nécessaire un examen des pratiques descriptives.
+2. [Conduire une enquête](fr/conduire-une-enquete.md) — Trouver des repères pour caractériser une difficulté, déterminer les questions à examiner et choisir les reprises utiles.
+3. [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer les catégories, les opérations, les orientations, les fonctions transversales et les instruments d’épreuve.
+4. [La chaîne principale de l’enquête](fr/la-chaine-principale-de-l-enquete.md) — Comprendre la fonction des opérations actuellement identifiées et leurs articulations.
 
-1. "Architecture fonctionnelle de l’enquête" (architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations et comprendre leurs relations.
-2. "Délimiter" (delimiter.md) — Préciser le problème à examiner.
-3. "Ancrer" (ancrer.md) — Identifier les éléments de la situation sur lesquels l’enquête peut s’appuyer.
-4. "Distinguer" (distinguer.md) — Séparer les éléments ou les fonctions que le problème conduit à différencier.
-5. "Relier" (relier.md) — Examiner les dépendances pertinentes entre les éléments distingués.
-6. "Configurer" (configurer.md) — Organiser les éléments et leurs relations au regard du problème.
-7. "Justifier" (justifier.md) — Examiner les raisons et les critères qui permettent de défendre ou de contester les conclusions.
-8. "Reconstituer" (reconstituer.md) — Reprendre l’organisation de la situation et de sa description à la lumière de l’examen.
-9. "Redélimiter" (redelimiter.md) — Réviser la délimitation initiale si les résultats conduisent à reformuler le problème.
+À partir de ces repères, le lecteur peut consulter les pages consacrées aux opérations selon la difficulté rencontrée :
 
-Ce parcours permet de découvrir les opérations de l’enquête et leur articulation. L’ordre proposé sert de repère de lecture : les opérations peuvent être reprises, combinées ou réordonnées selon la difficulté rencontrée.
+- [Délimiter](fr/delimiter.md) — Préciser le problème à examiner.
+- [Ancrer](fr/ancrer.md) — Examiner les éléments et les appuis disponibles.
+- [Distinguer](fr/distinguer.md) — Établir les différences nécessaires à l’examen.
+- [Relier](fr/relier.md) — Examiner les relations et les dépendances pertinentes.
+- [Configurer](fr/configurer.md) — Organiser les éléments et leurs relations dans une description déterminée.
+- [Justifier](fr/justifier.md) — Examiner les raisons et les critères qui soutiennent ou contestent une conclusion.
+- [Reconstituer](fr/reconstituer.md) — Reprendre une organisation descriptive à la lumière des résultats obtenus.
+- [Redélimiter](fr/redelimiter.md) — Réviser la formulation du problème lorsque l’examen le demande.
 
-3. Examiner un problème à partir de la quadripartition
+Cet itinéraire est un parcours de consultation, non un protocole. Il n’est pas nécessaire de lire toutes les pages ni de mobiliser toutes les opérations dans une enquête particulière. Le choix dépend de la difficulté à traiter et des résultats déjà obtenus.
 
-Question de départ : quelles questions faut-il distinguer pour éviter de tirer une conclusion trop rapidement ?
+## 3. Différencier les rapports sous lesquels examiner une situation
 
-1. "Quadripartition de l’orientation" (quadripartition-de-l-orientation.md) — Comprendre la distinction entre Condition, Relation, Fonction et Justification.
-2. "Architecture fonctionnelle de l’enquête" (architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations qui permettent de traiter les questions soulevées.
-3. "Description" (description.md) — Examiner ce que fait une description et comment elle se rapporte à ce qu’elle prétend décrire.
-4. "Assertion" (assertion.md) — Approfondir les questions relatives à ce qui est affirmé et aux conclusions qu’une assertion peut autoriser.
+**Question de départ :** plusieurs questions portent-elles sur une même situation sans avoir la même fonction ?
 
-Ce parcours permet de distinguer les conditions d’une pratique, les relations pertinentes, les fonctions exercées et la justification des conclusions. Il aide notamment à éviter de confondre une condition avec un critère, une fonction avec une justification ou une inférence autorisée avec une conclusion justifiée.
+1. [Orientation de l’examen](fr/orientation-de-l-examen.md) — Comprendre ce que signifie examiner une situation sous un rapport déterminé et découvrir les orientations actuellement disponibles.
+2. [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer les orientations par rapport aux opérations et aux autres ressources de l’enquête.
+3. [Description](fr/description.md) — Examiner ce qu’accomplit une description et comment elle se rapporte à ce qu’elle prétend décrire.
+4. [Assertion](fr/assertion.md) — Approfondir les questions relatives aux affirmations, à leurs conséquences et à ce qu’elles autorisent à conclure.
 
-La quadripartition oriente l’examen ; elle ne fournit pas automatiquement les réponses aux questions posées.
+Les orientations **Condition, Relation, Fonction et Justification** sont des repères de questionnement actuellement développés dans Protokin. Elles ne forment ni une classification exhaustive des rapports possibles, ni une grille à appliquer systématiquement.
 
-4. Partir d’une description ou d’une situation concrète
+Elles permettent de différencier les questions posées à propos d’une situation. Elles ne déterminent pas à elles seules les opérations nécessaires pour y répondre. Une réponse portant sur les conditions d’une pratique ne suffit pas, par exemple, à justifier une conclusion ; l’identification d’une fonction ne démontre pas non plus la validité de ce qui est affirmé.
 
-Question de départ : comment les distinctions de Protokin peuvent-elles être mises à l’épreuve d’un cas ?
+Ce parcours aide à repérer ces différences sans transformer les orientations en étapes ou en composantes intrinsèques de la situation examinée.
 
-1. "Introduction générale" (introduction-generale.md) — Découvrir le problème à travers la diversité des descriptions d’une même situation.
-2. "Le botaniste et le bûcheron" (botaniste-bucheron.md) — Examiner comment plusieurs pratiques peuvent retenir des différences et mobiliser des critères distincts à propos d’un même objet.
-3. "Description" (description.md) — Approfondir le rôle de la description dans la pratique étudiée.
-4. "Lexique Protokin" (lexique-protokin.md) — Retrouver les termes nécessaires à l’analyse et accéder aux pages qui les développent.
-5. "Table des matières" (tdm.md) — Choisir d’autres notions, opérations ou études de cas selon les questions qui demeurent ouvertes.
+## 4. Partir d’une description ou d’un cas concret
 
-Ce parcours permet de partir d’une situation plutôt que d’un inventaire de concepts. Il invite à examiner les différences retenues par chaque pratique, les fonctions de ses descriptions et les critères mobilisés, sans supposer que des descriptions différentes sont nécessairement incompatibles.
+**Question de départ :** comment examiner plusieurs descriptions d’une même situation ou les différences entre des pratiques ?
 
-5. Examiner les transformations et les limites de l’enquête
+1. [Introduction générale](fr/introduction-generale.md) — Découvrir le problème à partir de la pluralité des descriptions d’une même situation.
+2. [Le botaniste et le bûcheron](fr/botaniste-bucheron.md) — Examiner comment plusieurs pratiques retiennent des différences et mobilisent des critères distincts à propos d’un même objet.
+3. [Description](fr/description.md) — Approfondir le rôle de la description dans les pratiques étudiées.
+4. [Une première cartographie des régimes descriptifs](fr/une-premiere-cartographie-des-regimes-descriptifs.md) — Découvrir des repères pour identifier et comparer différentes manières d’organiser les descriptions.
+5. [Lexique Protokin](fr/lexique-protokin.md) — Retrouver les termes nécessaires à l’analyse et accéder aux pages qui les développent.
 
-Question de départ : comment les descriptions et les instruments employés pour les examiner peuvent-ils eux-mêmes être révisés ?
+Ce parcours privilégie l’examen d’une situation et des pratiques qui s’y rapportent. Il permet de comprendre que des descriptions différentes ne sont pas nécessairement incompatibles, mais qu’elles ne sont pas non plus automatiquement équivalentes.
 
-1. "Architecture fonctionnelle de l’enquête" (architecture-fonctionnelle-de-l-enquete.md) — Repérer les possibilités de reprise et de révision de l’enquête.
-2. "Temporalité descriptive" (temporalite-descriptive.md) — Examiner la dimension temporelle des pratiques descriptives et leurs transformations.
-3. "Réflexivité" (reflexivite.md) — Étudier la manière dont une pratique peut interroger ses propres distinctions et opérations.
-4. "Auto-application" (auto-application.md) — Examiner ce qui se passe lorsque Protokin applique ses propres exigences à son organisation et à ses descriptions.
-5. "Table des matières" (tdm.md) — Poursuivre vers les ressources pertinentes pour la difficulté rencontrée.
+La cartographie des régimes descriptifs fournit des repères de comparaison. Elle ne remplace pas l’analyse des cas et ne constitue pas une classification définitive des pratiques.
 
-Ce parcours permet de comprendre que les descriptions, les critères et les instruments d’enquête ne sont pas soustraits à la révision. Il ne suppose pas que toute transformation soit un progrès, ni que l’auto-application garantisse à elle seule la validité des résultats.
+## 5. Examiner les transformations et la révision de l’enquête
 
-Choisir une autre entrée
+**Question de départ :** comment les descriptions, les critères et les instruments employés pour les examiner peuvent-ils être transformés ou révisés ?
 
-Les cinq parcours précédents ne couvrent pas toutes les possibilités de lecture.
+1. [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Repérer les possibilités de reprise et de révision dans l’organisation de l’enquête.
+2. [Temporalité descriptive](fr/temporalite-descriptive.md) — Examiner les rapports temporels dans lesquels les pratiques descriptives se maintiennent et se transforment.
+3. [Réflexivité](fr/reflexivite.md) — Étudier comment une pratique peut interroger ses propres distinctions, ses opérations et ses critères.
+4. [Auto-application](fr/auto-application.md) — Examiner les conditions dans lesquelles Protokin soumet ses propres descriptions et exigences à l’examen.
 
-Le lecteur peut également partir d’un terme précis, d’une opération particulière ou d’une étude de cas. Le "Lexique Protokin" (lexique-protokin.md) facilite l’accès aux termes ; la "Table des matières" (tdm.md) donne une vue plus large des ressources classées selon leur fonction.
+Ce parcours permet d’aborder la révisabilité des descriptions et des ressources qui servent à les examiner. Il ne suppose pas que toute transformation constitue un progrès, ni que la réflexivité ou l’auto-application garantisse à elle seule la validité des résultats.
 
-Les parcours peuvent se croiser. Une difficulté rencontrée dans une étude de cas peut conduire à consulter une notion, à reprendre une opération ou à examiner les critères d’une conclusion. Le choix de la lecture suivante dépend alors du problème qui reste à traiter.
+## Choisir une autre entrée
 
-Principe d’orientation
+Les parcours précédents ne couvrent pas toutes les possibilités de lecture.
+
+Le lecteur peut commencer par un terme, une notion, une opération, un problème particulier ou une étude de cas. Le [Lexique Protokin](fr/lexique-protokin.md) facilite l’accès aux notions ; la [Table des matières](fr/tdm.md) donne une vue plus large des ressources classées selon leur fonction.
+
+Les parcours peuvent également se croiser. Une difficulté rencontrée dans une étude de cas peut conduire à consulter une notion, à examiner une orientation, à reprendre une opération ou à comparer plusieurs régimes descriptifs.
+
+Le choix de la lecture suivante dépend de la question qui reste à éclaircir. Il n’est pas nécessaire de suivre intégralement l’un des itinéraires proposés.
+
+## Principe d’orientation
 
 Les parcours organisent l’accès à la documentation ; ils ne déterminent pas l’ordre de l’enquête.
 
-Ils rendent visibles plusieurs entrées possibles dans le projet sans transformer ses ressources en étapes obligatoires. La fonction de chaque page doit rester distincte : présenter le projet, organiser ses ressources, décrire les opérations, orienter l’examen ou approfondir une notion.
+Un ordre de lecture peut aider à comprendre progressivement un ensemble de ressources. Il ne doit pas être confondu avec l’ordre dans lequel une enquête doit mobiliser ses opérations. Les opérations peuvent être combinées, reprises ou réordonnées ; les orientations peuvent être choisies ou révisées selon les questions rencontrées.
 
-Pour consulter l’ensemble des principales ressources, voir la "Table des matières" (tdm.md).
+Cette page établit donc des possibilités de consultation, non une méthode universelle de lecture ou d’enquête. Elle ne prétend ni recenser tous les parcours possibles ni déterminer à l’avance les ressources pertinentes pour chaque difficulté.
+
+Pour retrouver l’ensemble des ressources et leurs fonctions documentaires, consulter la [Table des matières](fr/tdm.md).
