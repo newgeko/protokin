@@ -229,18 +229,29 @@ Vérifier que leur rôle est intelligible et que leur articulation avec les opé
 
 Ne pas les ajouter automatiquement à la chaîne des opérations. Si leur statut varie entre les pages, identifier la divergence et déterminer si elle est justifiée, provisoire ou contradictoire.
 
-### 6.3. Quadripartition
+### 6.3. Orientation de l’examen
 
-Examiner les usages des quatre orientations :
+Examiner la manière dont les orientations sont mobilisées dans le corpus. Une orientation désigne le rapport sous lequel une situation, une pratique, une opération ou un résultat est examiné. Elle permet de préciser les questions posées sans déterminer à elle seule le travail descriptif à effectuer.
 
-- **Condition** : conditions dans lesquelles une situation ou une pratique devient possible, contrainte ou transformée ;
-- **Relation** : dépendances et mises en rapport à examiner ;
-- **Fonction** : contribution ou rôle d’une configuration dans une pratique ;
-- **Justification** : raisons, critères et engagements qui soutiennent ou contestent une description.
+Les orientations actuellement présentées dans Protokin sont :
 
-Vérifier que ces orientations ne sont pas présentées comme des phases obligatoires, des niveaux hiérarchiques ou des classes universelles d’objets.
+- **Condition** : examiner les conditions et les contraintes dans lesquelles une situation ou une pratique devient possible, se maintient ou se transforme ;
+- **Relation** : examiner les dépendances, les relations et les médiations entre les éléments considérés ;
+- **Fonction** : examiner le rôle ou la contribution d'un élément, d'une distinction ou d'une configuration dans une pratique ;
+- **Justification** : examiner les raisons, les critères et les engagements qui soutiennent, limitent ou contestent une description.
 
-Examiner également les usages de « relation » et de « fonction » dans leurs contextes respectifs : leur présence dans plusieurs orientations ou pages ne garantit pas qu’ils y remplissent le même rôle.
+Vérifier que :
+
+- ces orientations sont présentées comme des ressources de référence, et non comme une classification exhaustive ;
+- elles ne sont pas transformées en phases obligatoires, en niveaux hiérarchiques ou en classes universelles d'objets ;
+- leur mobilisation dépend du problème examiné et ne suppose pas que toutes soient appliquées à chaque enquête ;
+- une orientation reste distincte de l'opération descriptive mobilisée pour traiter la question ;
+- aucune correspondance fixe n'est établie entre une orientation et une opération ;
+- les termes employés dans plusieurs orientations, notamment « relation », « fonction » et « justification », sont examinés selon leur rôle dans chaque contexte.
+
+L'audit doit également rester attentif à l'apparition de rapports qui ne seraient pas suffisamment pris en compte par les orientations existantes. Une nouvelle orientation ne doit toutefois pas être introduite sur la seule base d'un thème supplémentaire : il faut établir qu'elle permet d'examiner un rapport distinct, qui ne peut être pris en charge par les orientations disponibles sans perte importante.
+
+Pour la définition de ces repères, leurs distinctions et leurs conditions d'emploi, voir [Orientation de l’examen](fr/orientation-de-l-examen.md).
 
 ### 6.4. Non-conversions
 
