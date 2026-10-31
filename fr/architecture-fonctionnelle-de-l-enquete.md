@@ -225,13 +225,13 @@ Il n'est pas nécessaire que toute opération appartienne exclusivement à une s
 
 Une orientation désigne le rapport sous lequel une situation, une pratique, une opération ou une configuration descriptive est examinée.
 
-Elle permet de préciser la question posée à propos d'un même élément. Une orientation ne désigne pas le travail effectué pour répondre à cette question : ce travail relève d'une ou de plusieurs opérations.
+Elle permet de préciser la question posée à propos d'un même élément. Elle ne désigne pas le travail effectué pour répondre à cette question : ce travail relève d'une ou de plusieurs opérations.
 
-Les orientations ne sont donc ni des étapes ni des catégories de problèmes. Une même opération peut contribuer à plusieurs orientations ; une même orientation peut intervenir dans différentes opérations.
+Les orientations ne sont donc ni des étapes de l'enquête ni des catégories de problèmes. Une même opération peut contribuer à plusieurs orientations ; une même orientation peut être mobilisée dans différentes opérations.
 
-### Orientations actuellement retenues
+### Orientations actuellement disponibles
 
-La quadripartition développée dans Protokin distingue actuellement quatre orientations : **Condition, Relation, Fonction et Justification**.
+Protokin distingue actuellement quatre orientations de référence : **Condition, Relation, Fonction et Justification**. Elles permettent d'examiner une situation sous des rapports différents, sans prétendre épuiser les perspectives possibles.
 
 **Condition**
 
@@ -257,13 +257,13 @@ Quelles raisons, quels critères et quels engagements permettent de soutenir ou 
 
 Cette orientation porte sur les conditions sous lesquelles une conclusion peut être défendue, contestée ou révisée. Elle ne se confond pas avec l'opération Justifier, même si cette opération peut être mobilisée pour conduire un tel examen.
 
-### Statut de la quadripartition
+### Statut des orientations
 
-La quadripartition constitue une organisation de référence actuellement utilisée dans le projet. Elle permet de différencier plusieurs rapports sous lesquels une même situation peut être examinée.
+Ces quatre orientations constituent des ressources de référence actuellement disponibles dans Protokin. Elles ne forment pas une classification exhaustive des rapports sous lesquels une situation peut être examinée.
 
-Elle ne prétend pas recenser toutes les orientations possibles. Une autre orientation ne doit pas être exclue au seul motif qu'elle ne figure pas dans cette quadripartition.
+Elles ne sont ni des composantes obligatoires de tout objet, ni des étapes successives, ni des niveaux hiérarchisés. Une enquête n'a pas à les mobiliser toutes. Le choix dépend de la difficulté rencontrée et des questions qu'il est nécessaire de poser.
 
-Une orientation supplémentaire peut être reconnue lorsque :
+Une orientation supplémentaire peut être reconnue lorsque plusieurs conditions sont réunies :
 
 - elle permet d'examiner un rapport distinct qui n'est pas suffisamment pris en compte par les orientations existantes ;
 - elle répond à une question identifiable dans l'examen des pratiques descriptives ;
@@ -285,7 +285,7 @@ Il n'existe pas de correspondance fixe entre une orientation et une opération. 
 
 Ces indications ne sont pas des réponses automatiques. Le choix dépend de ce qui reste indéterminé et des résultats déjà obtenus.
 
-La [quadripartition de l'orientation](fr/quadripartition-de-l-orientation.md) expose plus précisément les quatre orientations actuellement retenues et les limites de leur emploi.
+La page [Orientation de l'examen](fr/orientation-de-l-examen.md) précise le rôle de ces orientations, leurs différences et les conditions dans lesquelles leur inventaire peut être révisé.
 
 ## 6. Les fonctions transversales
 
@@ -515,7 +515,7 @@ Ces composantes sont articulées sans être confondues. Leur mobilisation dépen
 ## Pour poursuivre
 
 - [Architecture du projet](fr/architecture-projet.md) — Organisation des ressources documentaires et conceptuelles.
-- [Quadripartition de l'orientation](fr/quadripartition-de-l-orientation.md) — Présentation des quatre orientations actuellement retenues.
+- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Présentation des rapports sous lesquels une situation, une pratique ou un résultat peut être examiné.
 - [La chaîne principale de l'enquête](fr/la-chaine-principale-de-l-enquete.md) — Présentation synthétique des opérations actuellement identifiées.
 - [Conduire une enquête](fr/conduire-une-enquete.md) — Repères pratiques pour mobiliser les ressources de l'enquête.
 - [Table des matières](fr/tdm.md) — Navigation dans le corpus.
