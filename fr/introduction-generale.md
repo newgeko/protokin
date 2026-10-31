@@ -120,16 +120,18 @@ Ces dimensions sont complémentaires, mais leurs fonctions ne doivent pas être 
 
 ### 6.1. Les orientations de l'examen
 
-La quadripartition de l'orientation distingue quatre questions :
+Une orientation indique sous quel rapport une situation, une pratique, une opération ou un résultat est examiné. Elle permet de préciser les questions pertinentes à propos d'un même élément, sans préjuger du travail nécessaire pour y répondre.
 
-- **Condition** : dans quelles conditions la situation et la pratique se déroulent-elles ?
-- **Relation** : quelles dépendances et quelles mises en rapport sont pertinentes pour le problème ?
-- **Fonction** : que fait une distinction ou une description dans la pratique considérée ?
-- **Justification** : selon quels critères une description ou une conclusion peut-elle être défendue, contestée ou révisée ?
+Protokin présente actuellement quatre orientations de référence :
 
-Ces orientations ne désignent ni quatre composantes de toute réalité ni quatre étapes successives. Elles permettent de différencier des questions qui peuvent être liées sans se confondre.
+- **Condition** : dans quelles conditions et sous quelles contraintes la situation ou la pratique se déroule-t-elle ?
+- **Relation** : quelles dépendances, relations et médiations doivent être examinées entre les éléments concernés ?
+- **Fonction** : quel rôle une distinction, une catégorie ou une description exerce-t-elle dans la pratique considérée ?
+- **Justification** : selon quels critères, quelles raisons et quelles inférences une description ou une conclusion peut-elle être défendue, contestée ou révisée ?
 
-Elles peuvent être mobilisées à différents moments de l'enquête, en fonction de la difficulté rencontrée. Elles ne forment pas une grille exhaustive à appliquer mécaniquement à chaque situation.
+Ces orientations ne désignent ni quatre composantes de toute réalité ni quatre étapes successives de l'enquête. Elles ne constituent pas non plus une classification exhaustive des questions possibles. Elles permettent de différencier des rapports d'examen qui peuvent être articulés sans être confondus.
+
+Elles peuvent être mobilisées à différents moments de l'enquête, selon la difficulté rencontrée. Leur nombre et leur formulation restent révisables si l'examen des pratiques descriptives fait apparaître un rapport qui ne peut pas être suffisamment pris en compte par les orientations existantes.
 
 ### 6.2. Les opérations de l'enquête
 
@@ -155,7 +157,7 @@ Les instruments d'épreuve, tels que la substitution, l'examen de cas, la compar
 
 Ces ressources ne constituent pas des étapes supplémentaires de la chaîne. Elles contribuent à contrôler les résultats et à déterminer si une opération, une distinction ou une formulation doit être maintenue ou reprise.
 
-Pour approfondir ces distinctions, voir l'[architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) et la [quadripartition de l'orientation](fr/quadripartition-de-l-orientation.md).
+Pour approfondir ces distinctions, voir l'[architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) et l'[orientation de l'examen](fr/orientation-de-l-examen.md).
 
 ### 6.4. L'organisation du projet
 
@@ -201,9 +203,8 @@ Son objectif est de comprendre comment des pratiques rendent certaines différen
 
 - [Architecture du projet](fr/architecture-projet.md) — Organisation des ressources documentaires et conceptuelles.
 - [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Opérations et possibilités de reprise de l'enquête.
-- [Quadripartition de l'orientation](fr/quadripartition-de-l-orientation.md) — Questions de condition, relation, fonction et justification.
-- [La chaîne principale de l'enquête](fr/la-chaine-principale-de-l-enquete.md) — Présentation des huit opérations.
+- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Rapports sous lesquels une situation, une pratique ou un résultat peut être examiné, à partir des orientations actuellement disponibles.
+- [La chaîne principale de l'enquête](fr/la-chaine-principale-de-l-enquete.md) — Présentation des opérations de référence.
 - [Conduire une enquête](fr/conduire-une-enquete.md) — Repères pratiques pour mobiliser les ressources de l'enquête.
 - [Inférence matérielle](fr/inference-materielle.md) — Conséquences inférentielles associées aux contenus.
 - [Redevabilité matérielle](fr/redevabilite-materielle.md) — Rapport entre résistance matérielle, révision et justification.
-- [Patterns éditoriaux de Protokin](patterns.md) — Repères de rédaction et de révision du corpus.
