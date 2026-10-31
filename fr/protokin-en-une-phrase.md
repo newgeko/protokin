@@ -65,10 +65,12 @@ La chaîne principale n'est pas une succession nécessaire d'étapes ni une cha�
 
 Voir aussi :
 
+Voir aussi :
+
 - [Table des matières](tdm.md)
 - [Introduction générale](introduction-generale.md)
 - [Enquête](enquete.md)
-- [Quadripartition de l'orientation](quadripartition-de-l-orientation.md)
+- [Orientation de l’examen](orientation-de-l-examen.md)
 - [Les principes](les-principes.md)
 
 Le point d'entrée général est présenté dans [Cadre et délimitations](00-se-reperer.md). Les pages consacrées à [l'assertion](assertion.md) et à [la validité](validite.md) donnent des compléments utiles pour comprendre la fonction de justification dans l'enquête.
@@ -101,10 +103,11 @@ La cohérence d'une description ne suffit pas à établir son adéquation à ce 
 ---
 
 ## Voir aussi
+## Voir aussi
 
 - [Introduction générale](introduction-generale.md)
 - [Enquête](enquete.md)
 - [Architecture fonctionnelle de l'enquête](architecture-fonctionnelle-de-l-enquete.md)
-- [Quadripartition de l'orientation](quadripartition-de-l-orientation.md)
+- [Orientation de l'examen](orientation-de-l-examen.md)
 - [Les principes](les-principes.md)
 - [Table des matières](tdm.md)
