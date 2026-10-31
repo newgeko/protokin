@@ -8,8 +8,8 @@ Elle répond à un problème documentaire : la présence de plusieurs pages dans
 
 L’architecture du projet se distingue de deux ressources complémentaires :
 
-- L’[architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md) décrit les opérations permettant d’examiner une difficulté descriptive et de reprendre les résultats obtenus.
-- La [quadripartition de l’orientation](quadripartition-de-l-orientation.md) distingue quatre orientations selon lesquelles une situation ou une configuration descriptive peut être examinée.
+- L’[architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) décrit les opérations permettant d’examiner une difficulté descriptive et de reprendre les résultats obtenus.
+- L’[orientation de l’examen](fr/orientation-de-l-examen.md) précise sous quel rapport une situation, une pratique ou un résultat peut être examiné. Elle présente les orientations actuellement disponibles et les conditions de leur révision.
 
 L’architecture du projet porte sur l’organisation des ressources et leurs relations documentaires. Elle ne remplace ni les opérations de l’enquête ni les orientations de l’examen.
 
@@ -40,7 +40,7 @@ Trois fonctions doivent rester distinctes :
 
 - **Architecture du projet :** organiser les ressources documentaires et expliciter leurs relations.
 - **Architecture fonctionnelle de l’enquête :** décrire les opérations mobilisables pour traiter une difficulté descriptive.
-- **Quadripartition de l’orientation :** différencier les orientations à partir desquelles une situation ou une configuration peut être examinée.
+- **Orientation de l’examen :** préciser les rapports sous lesquels une situation, une pratique ou un résultat peut être examiné.
 
 Ces fonctions se complètent sans être interchangeables. Leur distinction ne constitue ni une hiérarchie théorique ni un ordre obligatoire de lecture ou d’enquête.
 
@@ -61,6 +61,8 @@ Elles doivent fournir les repères nécessaires à la compréhension du corpus s
 Ces ressources présentent l’organisation documentaire du projet, les opérations de l’enquête ou les orientations de l’examen.
 
 Leur fonction doit être précisée : organiser les pages, décrire les opérations et distinguer les orientations sont trois tâches différentes. Une ressource qui aide à conduire une enquête peut également avoir une fonction propre sans constituer une opération supplémentaire.
+
+Les orientations actuellement présentées dans Protokin — Condition, Relation, Fonction et Justification — constituent des repères de questionnement. Elles ne forment pas une classification exhaustive des rapports possibles sous lesquels une situation peut être examinée. Leur nombre et leur articulation peuvent être révisés si l’enquête fait apparaître des besoins que les orientations disponibles ne permettent pas suffisamment de traiter.
 
 ### 3.3. Notions et analyses conceptuelles
 
@@ -205,7 +207,7 @@ La cohérence documentaire est une condition utile à l’examen du corpus, non 
 
 L’architecture du projet Protokin organise les ressources documentaires et conceptuelles selon leurs fonctions et leurs relations. Elle permet de distinguer les contributions des pages, de rendre leurs dépendances explicites et d’examiner les conséquences des révisions.
 
-Elle se distingue de l’architecture fonctionnelle, qui décrit les opérations de l’enquête, et de la quadripartition, qui différencie les orientations de l’examen.
+Elle se distingue de l’architecture fonctionnelle, qui décrit les opérations de l’enquête, et de l’orientation de l’examen, qui précise les rapports sous lesquels une situation, une pratique ou un résultat peut être examiné.
 
 Son principe directeur est de **différencier les fonctions, d’expliciter les dépendances et d’examiner les passages entre elles**.
 
@@ -213,10 +215,10 @@ L’architecture n’est ni une description du réel ni une théorie fermée des
 
 ## Pour poursuivre
 
-- [Introduction générale](introduction-generale.md) — Situer les difficultés auxquelles répond Protokin et le statut de la démarche.
-- [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md) — Examiner les opérations, leurs dépendances et leurs reprises possibles.
-- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md) — Distinguer les orientations Condition, Relation, Fonction et Justification.
-- [Table des matières](tdm.md) — Retrouver les ressources du corpus selon leur fonction documentaire.
+- [Introduction générale](fr/introduction-generale.md) — Situer les difficultés auxquelles répond Protokin et le statut de la démarche.
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Examiner les opérations, leurs dépendances et leurs reprises possibles.
+- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Distinguer les rapports sous lesquels une situation ou une pratique peut être examinée.
+- [Table des matières](fr/tdm.md) — Retrouver les ressources du corpus selon leur fonction documentaire.
 - [Nom, origine et portée](nom-origine-portee.md) — Préciser la portée de la lecture conceptuelle du nom Protokin.
 - [Patterns éditoriaux de Protokin](../patterns.md) — Consulter les repères de rédaction et de révision.
 - [Pattern d’audit du corpus](../pattern-audit.md) — Examiner la fonction et les relations des pages avant une révision.
