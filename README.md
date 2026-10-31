@@ -51,16 +51,16 @@ Il ne s’agit pas d’isoler artificiellement ces dimensions, mais d’examiner
 
 Protokin distingue les opérations de l’enquête, les orientations de l’examen et les ressources qui permettent d’en éprouver les résultats.
 
-Les opérations décrivent les mouvements par lesquels une difficulté est circonscrite, examinée et éventuellement reprise. Les orientations permettent de déterminer quelles questions doivent être considérées. Les instruments d’épreuve servent à mettre les distinctions et les conclusions à l’épreuve des cas, des comparaisons et des reprises.
+Les opérations désignent les activités descriptives mobilisées pour traiter une difficulté. Les orientations précisent sous quels rapports une situation, une pratique ou un résultat peut être examiné. Les instruments d’épreuve permettent de confronter les distinctions et les conclusions aux cas, aux comparaisons et aux reprises.
 
-La quadripartition distingue quatre orientations :
+Quatre orientations sont actuellement retenues comme repères de référence :
 
-- **Condition** — examiner ce qui rend une pratique possible, la contraint ou la limite ;
-- **Relation** — examiner les dépendances et les rapports pertinents ;
-- **Fonction** — examiner ce que les éléments considérés permettent ou accomplissent dans une pratique ;
-- **Justification** — examiner les raisons et les critères qui soutiennent une conclusion.
+- **Condition** — examiner les conditions, les contraintes et les possibilités pertinentes ;
+- **Relation** — examiner les dépendances, les médiations et les rapports entre les éléments concernés ;
+- **Fonction** — examiner le rôle et le travail accomplis par un élément dans une pratique ;
+- **Justification** — examiner les raisons et les critères qui permettent de soutenir ou de contester une conclusion.
 
-Ces orientations ne sont ni des catégories ontologiques ni des étapes obligatoires. Elles constituent une configuration provisoire de l’examen, révisable en fonction du problème rencontré.
+Ces orientations ne sont ni des catégories ontologiques ni des étapes obligatoires. Elles ne constituent pas une classification exhaustive : d’autres rapports d’examen peuvent être distingués si les pratiques étudiées le justifient. Leur mobilisation dépend de la difficulté rencontrée et des questions que l’enquête doit traiter.
 
 ## Une démarche révisable
 
@@ -79,7 +79,7 @@ Les principales ressources remplissent des fonctions distinctes :
 - [**Introduction générale**](fr/introduction-generale.md) — comprendre le problème de départ, l’orientation et la portée de la démarche.
 - [**Architecture du projet**](fr/architecture-projet.md) — comprendre l’organisation du corpus et les relations entre ses ressources.
 - [**Architecture fonctionnelle de l’enquête**](fr/architecture-fonctionnelle-de-l-enquete.md) — examiner les opérations par lesquelles une difficulté descriptive est traitée et reprise.
-- [**Quadripartition de l’orientation**](fr/quadripartition-de-l-orientation.md) — comprendre les orientations Condition, Relation, Fonction et Justification.
+- [**Orientation de l’examen**](fr/orientation-de-l-examen.md) — comprendre les différents rapports sous lesquels une situation, une pratique ou un résultat peut être examiné.
 - [**Table des matières**](fr/tdm.md) — parcourir le corpus et choisir une entrée en fonction de la question étudiée.
 - [**Patterns**](patterns.md) — consulter les principes de rédaction et d’organisation des ressources du projet.
 - [**Audit des patterns**](pattern-audit.md) — examiner les difficultés de cohérence et les points à réviser dans ces principes.
