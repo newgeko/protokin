@@ -135,7 +135,7 @@ Ces pages portent sur les ressources linguistiques et inférentielles mobilisée
 - [Relation sémantique et référence](fr/relation-semantique-et-reference.md) — Examiner les rapports entre contenu, usage et visée référentielle.
 - [Anaphore](fr/anaphore.md) — Examiner les reprises discursives et les dépendances entre occurrences.
 - [Déixis](fr/deixis.md) — Examiner comment l’interprétation d’une désignation dépend de la situation dans laquelle elle est produite.
-- [Occurrence](fr/occurence.md) — Distinguer une réalisation particulière de la forme ou du type auquel elle est rapportée.
+- [Occurrence](fr/occurrence.md) — Distinguer une réalisation particulière de la forme ou du type auquel elle est rapportée.
 - [Substitution](fr/substitution.md) — Examiner ce qui se maintient ou change lorsqu’un élément est remplacé dans un contexte déterminé.
 - [Stabilisation](fr/stabilisation.md) — Examiner le maintien relatif d’une configuration à travers ses reprises et ses variations.
 - [Effet cliquet](fr/effet-cliquet.md) — Examiner les asymétries qui rendent la révision ou l’abandon d’une configuration plus difficile que son maintien.
