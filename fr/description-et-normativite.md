@@ -1,376 +1,362 @@
-Description et normativité
+# Description et normativité — Du descriptif à la conduite
 
-Fonction
+## Fonction
 
-Cette page établit pourquoi une pratique descriptive ne peut pas, à elle seule, épuiser les exigences d'une pratique humaine.
+Cette page examine les rapports entre les pratiques descriptives et les exigences normatives qui interviennent dans les pratiques humaines.
 
-Protokin distingue le registre descriptif du registre normatif sans les isoler. Une description peut établir, préciser ou réviser ce qui est décrit ; elle ne détermine pas, par elle-même, ce qui doit être fait. Inversement, une prescription ne peut pas être justifiée indépendamment des descriptions, des relations, des conséquences et des conditions auxquelles elle se rapporte.
+Elle traite particulièrement du problème du passage de l'être (*is*) au devoir-être (*ought*) : une description peut contribuer à justifier une conduite, mais elle ne détermine pas, à elle seule, ce qui doit être fait.
 
-Il faut donc maintenir une distinction entre les fonctions sans rompre leurs dépendances :
+L'analyse doit toutefois éviter une séparation trop simple entre faits et normes. Les pratiques descriptives mobilisent elles-mêmes des critères de correction, des engagements et des exigences de justification. Certaines qualifications incorporent également des évaluations ou des normes d'application.
 
-«continuité des dépendances + discontinuité des fonctions + non-conversion.»
+La fonction de cette page est donc de distinguer les formes de normativité qui interviennent dans une pratique descriptive de celles qui règlent les conduites, puis d'examiner les médiations qui permettent de les articuler.
 
-La normativité n'est ainsi ni contenue implicitement dans tout fait, ni ajoutée arbitrairement à une description déjà complète. Elle apparaît comme une fonction distincte dès qu'une pratique doit déterminer ce qui compte comme correct, justifié, permis, requis ou révisable.
+## 1. Le problème du passage de l'être au devoir-être
 
----
+Une description peut établir qu'une situation présente certaines caractéristiques, qu'un phénomène produit certains effets ou qu'une intervention comporte certains risques.
 
-Le problème de la description pure
+Ces éléments ne déterminent pas automatiquement ce qu'il convient de faire.
 
-L'idée d'une description pure repose sur une conception selon laquelle il suffirait de connaître correctement une situation pour savoir quoi en faire.
+Considérons deux propositions :
 
-Or connaître une situation et déterminer une conduite ne sont pas la même opération.
+- **IS** : cet arbre présente un risque pour une habitation.
+- **OUGHT** : il faut abattre cet arbre.
 
-Dire :
+La seconde proposition ne découle pas logiquement de la première.
 
-«« Cet organisme présente un déficit hydrique »»
+Pour soutenir cette conclusion, il faut notamment examiner :
 
-peut être une description adéquate de son état.
+- la nature et l'importance du risque ;
+- les conséquences que l'on cherche à éviter ;
+- les obligations et les responsabilités applicables ;
+- les interventions effectivement disponibles ;
+- les solutions alternatives ;
+- la proportionnalité de l'intervention envisagée ;
+- les raisons permettant de retenir une conduite plutôt qu'une autre.
 
-Cette description peut avoir de nombreuses conséquences inférentielles : elle peut permettre de rechercher les causes du déficit, de comparer cet état à d'autres états physiologiques ou d'anticiper certaines conséquences.
+La description du risque peut constituer un élément important de la décision. Elle ne détermine cependant ni la réponse appropriée ni son caractère obligatoire.
 
-Elle n'établit pourtant pas, à elle seule :
+Une autre intervention pourrait être préférable : élaguer l'arbre, sécuriser les lieux, procéder à une expertise ou surveiller son évolution.
 
-«« Il faut lui donner de l'eau. »»
+Le passage du descriptif au normatif exige donc des prémisses, des critères et des médiations supplémentaires.
 
-La seconde proposition introduit une orientation pratique. Elle suppose notamment que l'état décrit constitue un problème à traiter, que certaines conduites soient disponibles, que certaines conséquences soient recherchées ou évitées et qu'un agent puisse être tenu pour responsable d'une intervention.
+La difficulté n'est pas que les faits seraient sans rapport avec les décisions. Elle tient au fait que leur contribution ne suffit pas, à elle seule, à déterminer la conclusion pratique.
 
-Il ne s'agit donc pas d'un simple passage logique du fait au devoir.
+**Une situation décrite n'est pas encore une conduite justifiée.**
 
-La règle peut être formulée ainsi :
+## 2. Deux fonctions normatives à distinguer
 
-«condition matérielle ≠ critère normatif
-besoin ≠ obligation
-cause ≠ raison
-conséquence ≠ prescription»
+L'expression « normativité » recouvre plusieurs exigences qui ne doivent pas être confondues.
 
-La description peut être indispensable à une prescription sans constituer elle-même cette prescription.
+Pour examiner le rapport entre description et conduite, il faut au minimum distinguer la normativité qui intervient dans l'évaluation des descriptions et celle qui intervient dans l'évaluation des actions.
 
----
+### 2.1. La normativité des pratiques descriptives
 
-Le hiatus n'est pas une séparation
+Une pratique descriptive n'est pas dépourvue de normes.
 
-Il serait toutefois insuffisant d'en conclure que le descriptif et le normatif constituent deux domaines indépendants.
+Une affirmation peut être évaluée comme correcte ou incorrecte, recevable ou irrecevable, suffisamment ou insuffisamment justifiée.
 
-Une conduite normative porte toujours sur une situation susceptible d'être décrite. Une prescription peut être rendue inapplicable par une transformation matérielle de cette situation. Une règle peut perdre sa pertinence lorsque les conditions auxquelles elle s'appliquait ont changé.
+Ces évaluations supposent notamment :
 
-La dépendance est donc réelle, mais elle ne constitue pas une conversion.
+- des critères d'application des concepts ;
+- des règles ou des habitudes d'inférence ;
+- des exigences de justification ;
+- des engagements associés aux assertions ;
+- des conditions permettant de contester ou de réviser une affirmation.
 
-Une description peut :
+Dire qu'un métal est conducteur, qu'un bâtiment est instable ou qu'un organisme présente un déficit hydrique ne consiste pas seulement à produire des expressions associées à des observations.
 
-- fournir les conditions d'application d'une règle ;
-- rendre certaines conséquences prévisibles ;
-- établir des incompatibilités ;
-- identifier une défaillance ;
-- déterminer les contraintes auxquelles une conduite devra répondre ;
-- permettre de comparer plusieurs conduites possibles.
+Ces affirmations peuvent être examinées au regard de leurs conditions d'application, des éléments qui les soutiennent et des conséquences qu'elles autorisent.
 
-Mais elle ne devient pas pour autant une prescription.
+Une pratique descriptive est donc normée en ce qu'elle distingue des usages corrects et incorrects, des affirmations défendables et des affirmations contestables.
 
-Inversement, une prescription peut déterminer ce qu'un agent doit faire sans produire par elle-même la description complète de la situation dans laquelle cette prescription doit être appliquée.
+Cette normativité ne constitue pas une prescription pratique.
 
-La relation entre les deux registres est donc fonctionnelle et asymétrique, plutôt que déductive.
+Être tenu de justifier une affirmation ne signifie pas être tenu d'accomplir une action déterminée.
 
----
+### 2.2. La normativité de la conduite
 
-Décrire est déjà une pratique normée
+Une autre fonction normative intervient lorsqu'une pratique doit déterminer ce qui est permis, requis, interdit ou justifiable dans une situation.
 
-La difficulté devient plus importante lorsque l'on examine l'activité descriptive elle-même.
+Elle concerne notamment :
 
-Une description n'est pas une simple émission de signes provoquée par un état du monde. Pour qu'une proposition soit effectivement descriptive, il faut pouvoir distinguer son application correcte de son application incorrecte.
+- les obligations ;
+- les permissions ;
+- les interdictions ;
+- les responsabilités ;
+- les habilitations ;
+- les exigences de proportionnalité ;
+- les critères de choix entre plusieurs conduites possibles.
 
-Dire :
+Ces déterminations ne sont pas réductibles aux critères de correction d'une description.
 
-«« Ce métal est chaud »»
+Soutenir correctement qu'un arbre présente un risque n'établit pas automatiquement qui doit intervenir, selon quelle procédure et dans quel délai.
 
-ne consiste pas seulement à associer les mots « métal » et « chaud » à une perception.
+La question porte désormais sur les obligations, les possibilités d'action, les responsabilités et les règles applicables.
 
-L'assertion doit pouvoir être évaluée. Elle peut être contestée, justifiée, précisée, retirée ou révisée. Elle entretient également des relations avec d'autres propositions : certaines conséquences peuvent en être tirées ; certaines assertions peuvent devenir incompatibles avec elle.
+### 2.3. Leur relation
 
-C'est ici que l'inférentialisme de Sellars et de Brandom devient particulièrement pertinent pour Protokin.
+Ces deux fonctions normatives sont distinctes, mais elles ne sont pas indépendantes.
 
-Une expression descriptive possède un rôle dans un espace de raisons et d'implications. Son emploi est donc déjà soumis à des critères de correction. Une assertion engage celui qui l'énonce : elle peut être demandée en justification, entraîner certaines conséquences ou entrer en conflit avec d'autres engagements.
+Une décision pratique dépend de descriptions concernant la situation, les possibilités d'intervention et leurs conséquences.
 
-Cela ne signifie pas que toute description soit une prescription.
+Inversement, une prescription peut déterminer quelles informations doivent être recueillies, quels risques doivent être examinés ou quelles conditions doivent être vérifiées.
 
-Cela signifie que la pratique descriptive n'est pas normativement vide.
+Il faut donc distinguer :
 
-Il faut donc distinguer deux affirmations :
+- les normes qui règlent la production et l'évaluation des descriptions ;
+- les normes qui règlent les conduites et les relations entre agents.
 
-«une description n'est pas une prescription ;»
+Une même pratique peut mobiliser les deux. Leur présence conjointe ne suffit cependant pas à les rendre équivalentes.
 
-et :
+## 3. Les médiations entre description et conduite
 
-«une pratique descriptive n'est jamais dépourvue de normes de correction.»
+Le passage d'une description à une conclusion pratique ne consiste pas à ajouter arbitrairement une valeur à un fait.
 
-La première protège la non-conversion des registres. La seconde empêche de concevoir la description comme une opération purement passive.
+Il suppose d'examiner les relations entre la situation décrite, les règles applicables, les conséquences envisagées et les possibilités d'action.
 
----
+On peut distinguer plusieurs médiations.
 
-Trois formes de normativité
+### 3.1. Les prémisses normatives
 
-La normativité pertinente pour Protokin ne doit pas être réduite à la morale.
+Une description ne permet de tirer une conclusion pratique que si certaines prémisses supplémentaires interviennent.
 
-Elle peut être distinguée en plusieurs fonctions.
+Par exemple :
 
-Normativité de correction
+- cet arbre présente un risque pour une habitation ;
+- les risques graves et évitables doivent faire l'objet d'une prévention proportionnée ;
+- certaines interventions permettent de réduire ce risque ;
+- l'agent concerné dispose d'une responsabilité et d'une habilitation dans cette situation.
 
-Une description doit pouvoir être évaluée comme correcte ou incorrecte selon des critères déterminés.
+Ces propositions ne remplissent pas la même fonction.
 
-La question est :
+La première porte sur une situation.
 
-«Qu'est-ce qui compte comme une application correcte de cette description ?»
+La deuxième formule une exigence normative.
 
-Cette normativité concerne notamment les conditions d'application des termes, la cohérence des assertions et leur adéquation à ce qu'elles prétendent décrire.
+La troisième porte sur les possibilités et les conséquences d'une intervention.
 
-Normativité de justification
+La quatrième concerne la position d'un agent dans une pratique instituée.
 
-Une assertion peut être correcte tout en étant insuffisamment justifiée dans une pratique donnée.
+La conclusion pratique dépend de leur articulation et de leur justification.
 
-La question devient :
+L'identification de ces prémisses ne garantit pas encore que la décision soit correcte. Leur portée, leur application et les éventuelles objections doivent être examinées.
 
-«Qu'est-ce qui autorise cette affirmation ?»
+### 3.2. Les conditions d'application
 
-Il faut alors distinguer la conformité d'une proposition à certains critères descriptifs et les raisons permettant de la soutenir publiquement.
+Une règle ne s'applique pas indépendamment des circonstances.
 
-La justification n'est donc pas simplement une propriété supplémentaire de la description : elle constitue une fonction différente.
+Une obligation de prévenir un danger suppose notamment que le danger soit suffisamment caractérisé, que les conditions d'application de la règle soient réunies et que l'intervention envisagée relève effectivement de la responsabilité de l'agent concerné.
 
-Normativité de conduite
+Une modification de la situation peut donc modifier l'application d'une prescription sans que la règle elle-même ait nécessairement changé.
 
-Enfin, une pratique peut devoir déterminer ce qu'il convient de faire dans une situation donnée.
+Il faut distinguer la modification d'une situation, la modification de son interprétation et la modification de la règle applicable.
 
-La question devient :
+Ces transformations peuvent être liées, mais elles ne sont pas identiques.
 
-«Quelle conduite est justifiable compte tenu de la situation, des contraintes et des conséquences ?»
+### 3.3. Les conséquences et les possibilités d'action
 
-Cette normativité ne peut pas être obtenue par conversion directe du descriptif.
+Une conduite doit également être examinée au regard de ses conséquences et des possibilités effectivement disponibles.
 
-Elle exige une enquête supplémentaire sur les possibilités d'action et sur les critères permettant de les comparer.
+Une intervention peut réduire un risque tout en produisant d'autres effets indésirables. Une solution peut être juridiquement autorisée sans être techniquement réalisable. Une action peut être souhaitable sans relever de la responsabilité de l'agent auquel elle est demandée.
 
----
+Les conséquences anticipées contribuent ainsi à l'examen d'une décision, mais elles ne constituent pas à elles seules des prescriptions.
 
-Le rôle du trouble pragmatique
+Il faut encore déterminer quels effets doivent être recherchés ou évités, selon quels critères et au regard de quelles responsabilités.
 
-La nécessité de cette distinction apparaît particulièrement clairement lorsqu'une pratique rencontre un trouble.
+### 3.4. La justification de la conduite
 
-Une situation fonctionne tant que les distinctions, relations, fonctions et critères mobilisés permettent une orientation suffisante.
+Une décision devient justifiable lorsque les raisons avancées permettent de soutenir la conduite retenue au regard de la situation, des exigences applicables et des objections pertinentes.
 
-Lorsqu'un butoir apparaît, cette continuité est interrompue.
+Il faut notamment examiner :
 
-Le butoir peut être matériel, technique, sémantique, cognitif ou normatif. Il ne fournit pas directement une solution. Il signale qu'une détermination antérieure ne permet plus de poursuivre l'activité comme prévu.
+- les descriptions sur lesquelles la décision repose ;
+- les prémisses normatives mobilisées ;
+- les possibilités d'action considérées ;
+- les conséquences anticipées ;
+- les règles et les responsabilités applicables ;
+- les raisons qui permettent de préférer une intervention aux autres.
 
-Décrire le trouble est une première opération :
+La justification ne résulte donc ni de la seule description de la situation ni de la seule invocation d'une règle.
 
-«« Le dispositif ne fonctionne plus dans ces conditions. »»
+Elle dépend de la manière dont les différents éléments sont articulés et de ce qu'ils permettent effectivement de soutenir.
 
-Mais cette description ne constitue pas encore une conduite.
+## 4. Les descriptions peuvent déjà comporter des déterminations normatives
 
-L'enquête doit alors déterminer :
+La distinction entre descriptif et normatif ne doit pas conduire à considérer toute description comme un énoncé factuel entièrement neutre.
 
-- ce qui a changé ;
-- quelles hypothèses peuvent expliquer la défaillance ;
-- quelles conséquences doivent être recherchées ou évitées ;
-- quelles interventions sont disponibles ;
-- selon quels critères elles peuvent être comparées ;
-- quelles conséquences permettent finalement de retenir, modifier ou abandonner une conduite.
+Certaines qualifications mobilisent déjà des critères d'évaluation.
 
-La structure pragmatique peut alors être formulée ainsi :
+Considérons les expressions suivantes :
 
-«situation → trouble → enquête → conséquences → conduite justifiable»
+- un comportement est négligent ;
+- une intervention est disproportionnée ;
+- un bâtiment est dangereux ;
+- une mesure est insuffisante ;
+- une procédure est irrégulière.
 
-La conduite justifiable n'est donc pas déduite directement de la description initiale. Elle résulte d'une enquête dans laquelle les descriptions sont reprises, confrontées à leurs conséquences et soumises à des critères de justification.
+Ces expressions ne remplissent pas toutes la même fonction.
 
----
+Certaines peuvent combiner des éléments descriptifs, des critères techniques, des seuils d'évaluation et des références à des règles instituées.
 
-Coordination et normativité sociale
+Qualifier un comportement de négligent ne consiste pas seulement à décrire une succession d'événements. La qualification suppose de déterminer quelles attentes, obligations ou précautions sont pertinentes dans la situation.
 
-Cette fonction devient encore plus manifeste dans les pratiques collectives.
+De même, qualifier un bâtiment de dangereux suppose de préciser le type de danger, les conditions dans lesquelles il peut se produire et les critères employés pour évaluer le risque.
 
-Une description peut établir qu'une personne occupe une certaine position, qu'un bâtiment présente un certain état ou qu'une ressource est disponible. Mais une organisation collective doit en outre déterminer :
+Il ne suffit donc pas de classer mécaniquement une proposition dans le descriptif ou dans le normatif à partir de sa forme grammaticale.
 
-- qui peut agir ;
-- qui doit agir ;
-- dans quelles conditions ;
-- selon quelles procédures ;
-- avec quelles responsabilités ;
-- selon quels critères une action pourra être considérée comme acceptable ou contestable.
+Il faut examiner ce que la qualification affirme, les critères qu'elle mobilise et les conséquences qu'elle autorise.
 
-Ces déterminations ne sont pas des descriptions supplémentaires du même type.
+Une proposition peut ainsi comporter une détermination normative sans constituer pour autant une prescription d'action.
 
-Une règle telle que :
+**La présence d'une évaluation dans une description ne suffit pas à transformer cette description en obligation pratique.**
 
-«« Cette personne est habilitée à signer »»
+## 5. Exemple : du risque à la décision
 
-ne décrit pas simplement une propriété physique de cette personne. Elle détermine une conséquence normative de son statut dans une pratique instituée.
+Un arbre présente une branche fissurée au-dessus d'une habitation.
 
-De même :
+Plusieurs propositions peuvent être formulées :
 
-«« Cette personne a signé »»
+1. Une branche présente une fissure.
+2. La branche peut se rompre dans certaines conditions.
+3. La rupture pourrait provoquer des dommages à l'habitation.
+4. L'arbre présente un risque qui doit être évalué.
+5. Une intervention préventive peut être nécessaire.
+6. L'abattage constitue une intervention possible.
 
-et
+Ces propositions ne sont pas équivalentes.
 
-«« Cette personne était autorisée à signer »»
+Les trois premières portent principalement sur des observations, des possibilités et des conséquences.
 
-n'accomplissent pas la même fonction.
+La quatrième comporte une qualification évaluative du risque.
 
-La première proposition peut décrire un événement.
+La cinquième introduit une exigence pratique qui demande à être précisée et justifiée.
 
-La seconde introduit une question d'habilitation et donc de normativité institutionnelle.
+La sixième identifie une possibilité d'action sans établir qu'elle constitue la meilleure réponse.
 
-Cette différence montre pourquoi les relations sociales ne peuvent pas être entièrement reconstruites à partir d'une accumulation de descriptions factuelles.
+Pour déterminer la conduite à retenir, il faut examiner les éléments disponibles, les responsabilités, les règles applicables, les interventions alternatives et les conséquences prévisibles.
 
----
+Il peut apparaître qu'un élagage suffit à réduire le risque. Dans un autre cas, une mise en sécurité immédiate ou un abattage peut être nécessaire.
 
-L'enquête plutôt que la déduction du devoir
+La même description initiale ne détermine donc pas nécessairement la même décision dans toutes les circonstances.
 
-Protokin ne cherche donc pas à produire une théorie de la déduction du devoir à partir des faits.
+L'exemple montre trois choses :
 
-Le problème est différent.
+- une description peut contribuer à établir les conditions d'une décision ;
+- une qualification évaluative peut déjà mobiliser des critères normatifs ;
+- une décision pratique exige un examen supplémentaire des règles, des possibilités et des raisons de choisir une conduite.
 
-Il consiste à comprendre comment une pratique descriptive peut participer à la constitution d'une conduite justifiable sans que le normatif soit converti en descriptif, ni inversement.
+Il ne démontre pas qu'une procédure unique permettrait de résoudre toutes les décisions de ce type.
 
-Une enquête peut par exemple établir successivement :
+## 6. Articulation avec les autres ressources de Protokin
 
-1. une configuration matérielle ;
-2. une difficulté rencontrée par une pratique ;
-3. plusieurs descriptions concurrentes de cette difficulté ;
-4. les conséquences associées à chacune ;
-5. des critères permettant de comparer les conduites ;
-6. une conduite provisoirement justifiable ;
-7. les conditions dans lesquelles cette conduite devra être révisée.
+La distinction entre description et conduite concerne plusieurs fonctions du corpus. Elle ne justifie pas de les réunir dans une théorie générale de la normativité.
 
-La normativité apparaît ainsi dans la dynamique même de l'enquête.
+### 6.1. Justification et validité
 
-Elle n'est pas un supplément moral ajouté à la fin d'une description achevée.
+La page [Justifier](fr/justifier.md) examine les raisons, les prémisses, les critères et les inférences qui permettent de soutenir une conclusion.
 
----
+La page [Justification](fr/justification.md) examine la défense et la révision d'un engagement.
 
-Ce que la description peut et ne peut pas établir
+La page [Validité](fr/validite.md) porte sur l'évaluation d'une description au regard de sa prétention et des exigences pertinentes.
 
-Une description peut établir ou contribuer à établir :
+Ces ressources permettent d'examiner les affirmations et les conclusions mobilisées dans une décision.
 
-- une configuration ;
-- une relation ;
-- une différence ;
-- une condition ;
-- une conséquence ;
-- une régularité ;
-- une incompatibilité ;
-- une transformation observable ou inférable.
+Elles ne doivent pas être confondues avec l'évaluation normative de la conduite elle-même.
 
-Elle ne suffit pas, par elle-même, à établir :
+Une description peut être valide sans que toutes les décisions qui s'appuient sur elle soient justifiées.
 
-- une obligation ;
-- une autorisation ;
-- une interdiction ;
-- une responsabilité ;
-- une préférence pratique ;
-- une conduite justifiable.
+### 6.2. Engagements et habilitations
 
-Mais l'inverse est également important : une prescription ne dispense pas de déterminer les conditions dans lesquelles elle peut être appliquée.
+La page [Engagement descriptif](fr/engagement-descriptif.md) précise le statut normatif associé à une prise de position descriptive.
 
-Il faut donc éviter deux erreurs symétriques.
+La page [Scorekeeping déontique](fr/scorekeeping-deontique.md) examine comment les engagements et les habilitations sont attribués, suivis et contestés dans les échanges discursifs.
 
-La première consiste à dire :
+Ces analyses concernent notamment ce dont un locuteur doit répondre et ce qu'il est autorisé à soutenir.
 
-«« Les faits parlent d'eux-mêmes ; il suffit de les connaître pour savoir quoi faire. »»
+Elles ne déterminent pas automatiquement les obligations pratiques qui pourraient résulter d'une situation.
 
-La seconde consiste à dire :
+Il faut distinguer l'obligation de répondre d'une affirmation, l'habilitation à soutenir une conclusion et l'obligation d'accomplir une action.
 
-«« Les normes sont indépendantes des faits ; il suffit de décider ce qui doit être fait. »»
+### 6.3. Quadripartition et opération Justifier
 
-Protokin retient une troisième position :
+La [quadripartition de l'orientation](fr/quadripartition-de-l-orientation.md) permet notamment d'examiner les conditions, les relations, les fonctions et les justifications impliquées dans une situation.
 
-«les descriptions et les normes sont fonctionnellement distinctes, mais pratiquement interdépendantes.»
+L'orientation Justification peut être mobilisée pour examiner les raisons de soutenir une description, une règle ou une décision.
 
----
+Elle ne constitue pas une théorie supplémentaire de la normativité et ne remplace pas l'opération [Justifier](fr/justifier.md).
 
-Non-conversion et continuité des dépendances
+La distinction entre description et conduite peut ainsi être examinée sous plusieurs orientations, selon la difficulté rencontrée. Elle ne constitue ni une nouvelle orientation ni un registre supplémentaire.
 
-Cette position peut être intégrée directement au principe général de non-conversion.
+## 7. Non-conversions à préserver
 
-Les différents registres d'une enquête peuvent dépendre les uns des autres sans pouvoir être transformés les uns dans les autres.
+Les rapports entre description et normativité impliquent plusieurs distinctions.
 
-Une description peut dépendre de critères sémantiques.
+- **Fait ≠ obligation** : la constatation d'une situation ne détermine pas, à elle seule, ce qui doit être fait.
+- **Condition ≠ critère** : une condition matérielle peut contraindre une action sans constituer le critère qui la justifie.
+- **Besoin ≠ obligation** : l'existence d'un besoin ne détermine pas automatiquement qui doit y répondre.
+- **Cause ≠ raison** : expliquer pourquoi un événement se produit ne suffit pas à justifier une conduite.
+- **Conséquence ≠ prescription** : anticiper un effet ne détermine pas automatiquement s'il doit être recherché ou évité.
+- **Correction descriptive ≠ justification pratique** : une description correcte ne suffit pas à justifier toutes les décisions qui s'appuient sur elle.
+- **Engagement discursif ≠ obligation d'agir** : devoir répondre d'une assertion ne signifie pas devoir accomplir une action.
+- **Règle applicable ≠ application justifiée** : l'existence d'une règle ne dispense pas d'examiner ses conditions d'application.
 
-Une inférence peut dépendre d'une description.
+Ces distinctions n'interdisent pas les passages entre les fonctions concernées.
 
-Une justification peut dépendre d'un ensemble d'inférences et de conditions.
+Elles imposent d'expliciter les prémisses, les critères et les conditions qui autorisent une conclusion.
 
-Une conduite peut dépendre d'une description, d'une justification et d'une évaluation de ses conséquences.
+La dépendance entre les dimensions examinées ne constitue pas une conversion de l'une dans l'autre.
 
-Mais aucune de ces dépendances n'autorise la substitution d'une fonction à une autre.
+## 8. Ce que cette distinction établit, suggère et n'établit pas
 
-«Dépendre de n'est pas se convertir en.»
+### Ce qu'elle établit
 
-Ainsi :
+La distinction établit que :
 
-«fait → raison n'est pas une conversion valide ;
-besoin → devoir n'est pas une conversion valide ;
-cause → justification n'est pas une conversion valide ;
-description → prescription n'est pas une conversion valide.»
+- une description ne permet pas, à elle seule, de déduire une obligation pratique ;
+- les pratiques descriptives mobilisent des normes de correction et de justification ;
+- certaines qualifications descriptives incorporent des critères évaluatifs ;
+- une conduite justifiable suppose d'examiner des prémisses, des règles, des circonstances et des possibilités d'action ;
+- les fonctions descriptives et normatives peuvent dépendre les unes des autres sans devenir interchangeables.
 
-La continuité se situe dans les dépendances de l'enquête ; la discontinuité se situe dans les fonctions accomplies.
+### Ce qu'elle suggère
 
----
+Elle suggère que l'examen des décisions humaines gagne en précision lorsque l'on distingue :
 
-Problème, description, prescription
+- ce qui est affirmé sur une situation ;
+- les critères employés pour évaluer cette description ;
+- les règles ou exigences normatives mobilisées ;
+- les raisons de retenir une conduite ;
+- les responsabilités et les habilitations des agents concernés.
 
-Il devient alors possible de préciser le statut du problème dans Protokin.
+Cette distinction constitue un repère pour l'enquête. Son utilité et son degré de détail dépendent du problème traité.
 
-Un problème ne consiste pas nécessairement en l'absence d'une description vraie. Il peut apparaître lorsque les descriptions disponibles ne permettent plus de maintenir une orientation pratique suffisante.
+### Ce qu'elle n'établit pas
 
-Une catégorie peut devenir instable.
+Cette analyse n'établit pas :
 
-Une distinction peut devenir insuffisante.
+- une théorie générale de l'origine de la normativité ;
+- une déduction du devoir-être à partir des seuls faits ;
+- une séparation absolue entre faits et valeurs ;
+- une réduction de la normativité aux usages linguistiques ;
+- une théorie morale permettant de déterminer les obligations dans toutes les situations ;
+- une hiérarchie générale entre les normes descriptives et les normes pratiques ;
+- une procédure universelle de décision ;
+- que toute description comporte nécessairement une qualification normative.
 
-Une fonction peut changer.
+Elle ne suppose pas non plus que toutes les normes soient explicites ou que toute conduite humaine soit précédée d'une délibération formulée.
 
-Une règle peut entrer en conflit avec une situation nouvelle.
+## Synthèse
 
-Une justification peut ne plus être recevable.
+Le problème *is/ought* ne doit être traité ni comme une simple interdiction de relier les faits aux normes, ni comme une séparation entre deux domaines indépendants.
 
-Dans chacun de ces cas, l'enquête doit pouvoir produire de nouvelles descriptions, mais également déterminer ce qu'il est désormais possible de soutenir, de faire ou de réviser.
+Les pratiques descriptives mobilisent déjà des normes de correction, d'application et de justification. Elles peuvent également produire des qualifications qui comportent des critères évaluatifs.
 
-La description est donc une ressource de l'enquête, non son terme ultime.
+Mais ces exigences ne se confondent pas avec celles qui déterminent ce qui est permis, requis, interdit ou justifiable dans une conduite.
 
----
+Une description peut contribuer à une décision sans la déterminer. Le passage vers une conclusion pratique exige l'examen des prémisses normatives, des conditions d'application, des conséquences, des possibilités d'action et des responsabilités.
 
-N'établit pas
+**Les faits peuvent contribuer à justifier une conduite ; ils ne constituent pas, à eux seuls, la justification de cette conduite.**
 
-Cette thèse n'établit pas que :
+L'enjeu pour Protokin est de rendre ces médiations examinables sans convertir le descriptif en normatif, ni isoler les exigences normatives des situations auxquelles elles s'appliquent.
 
-- toute description contient une prescription ;
-- tout fait implique un devoir ;
-- la normativité est réductible au langage ;
-- toute norme est morale ;
-- toute action humaine doit être précédée d'une formulation explicite ;
-- les normes sont indépendantes des conditions matérielles ;
-- le descriptif et le normatif constituent deux mondes séparés.
-
-Elle n'établit pas davantage une théorie générale de l'origine de la normativité.
-
-Elle établit une contrainte fonctionnelle :
-
-«dès qu'une pratique doit passer de l'identification d'une situation à l'orientation, la justification ou la révision d'une conduite, le registre descriptif ne suffit plus à lui seul.»
-
----
-
-Synthèse
-
-Une description peut être adéquate sans être prescriptive. Une prescription peut être justifiable sans être contenue dans une description. Pourtant, aucune pratique humaine suffisamment élaborée ne peut maintenir durablement ces fonctions indépendantes.
-
-La description fournit des déterminations sur lesquelles l'enquête peut s'appuyer. L'inférence organise leurs conséquences. La justification détermine ce qui peut être soutenu. La normativité détermine ce qui compte comme permis, requis, interdit ou révisable dans une pratique donnée.
-
-Il faut donc remplacer l'idée d'un passage direct :
-
-«être → devoir-être»
-
-par une architecture d'enquête :
-
-«situation → description → inférences → problème → enquête → justification → conduite → conséquences → révision»
-
-Cette architecture ne transforme pas les faits en normes.
-
-Elle montre comment des pratiques distinctes peuvent être continûment dépendantes sans être fonctionnellement convertibles.
-
-C'est en ce sens que la description ne suffit pas : non parce qu'elle serait incapable de dire quelque chose du réel, mais parce que décrire, justifier et agir ne répondent pas à la même fonction.
+**Continuité des dépendances, discontinuité des fonctions, non-conversion.**
