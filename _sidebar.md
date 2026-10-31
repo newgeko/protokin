@@ -7,7 +7,7 @@
 - **I. Comprendre le projet**
   - [Architecture du projet](fr/architecture-projet.md)
   - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
-  - [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
+  - [Orientation de l’examen](fr/orientation-de-l-examen.md)
   - [Registres](fr/registres.md)
   - [Nom, origine et portée](fr/nom-origine-portee.md)
   - [Ce que Protokin permet](fr/ce-que-protokin-permet.md)
