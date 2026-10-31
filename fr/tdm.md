@@ -193,6 +193,7 @@ Cette partie rassemble les ressources qui permettent d’analyser les contrainte
 - [Norme descriptive](fr/norme-descriptive.md) — Examiner les contraintes qui règlent la production, l’évaluation et la révision des descriptions dans une pratique.
 - [Validité](fr/validite.md) — Examiner ce qui autorise à tenir une description ou une inférence pour valide selon les exigences pertinentes.
 - [Description et normativité](fr/description-et-normativite.md) – Examiner les rapports entre les normes qui règlent les pratiques descriptives et celles qui orientent les conduites, ainsi que les médiations nécessaires pour passer d’une description à une exigence pratique.
+- [Obligation institutionnelle et obligation pratique](fr/obligation-institutionnelle-et-obligation-pratique.md) — Distinguer la validité d'une obligation instituée, son applicabilité, la responsabilité de l'agent et la justification pratique de l'action.
 - [Responsabilité descriptive](fr/responsabilite-descriptive.md) — Examiner la redevabilité associée aux descriptions, à leurs engagements et à leurs conséquences.
 - [Redevabilité matérielle](fr/redevabilite-materielle.md) — Examiner comment les résultats pratiques peuvent conduire à réévaluer une description sans convertir la résistance matérielle en justification.
 
