@@ -203,8 +203,8 @@ Présenter le projet, expliciter son problème de départ ou rendre intelligible
 - Le `README.md` présente le projet et oriente le lecteur vers ses ressources.
 - `fr/introduction-generale.md` expose le problème de départ, l’orientation et la portée de la démarche.
 - `fr/architecture-projet.md` explique l’organisation documentaire et les relations entre les ressources.
-- `fr/architecture-fonctionnelle-de-l-enquete.md` présente les opérations de l’enquête et leurs articulations.
-- `fr/quadripartition-de-l-orientation.md` expose les orientations Condition, Relation, Fonction et Justification.
+- `fr/architecture-fonctionnelle-de-l-enquete.md` présente les catégories, les opérations, les orientations, les fonctions transversales et les instruments d’épreuve qui organisent l’enquête.
+- `fr/orientation-de-l-examen.md` définit la notion d’orientation et présente les orientations actuellement disponibles — Condition, Relation, Fonction et Justification — comme des repères de questionnement révisables.
 - `fr/nom-origine-portee.md` examine, si nécessaire, l’origine et la portée du nom Protokin.
 
 Cette répartition est un repère fonctionnel à confronter au contenu réel des fichiers. Elle ne justifie pas de faire répéter à chaque page l’ensemble de la présentation du projet.
@@ -213,8 +213,9 @@ Cette répartition est un repère fonctionnel à confronter au contenu réel des
 
 - Partir d’un problème descriptif identifiable.
 - Ne pas transformer le cadrage méthodologique en ontologie générale.
-- Ne pas confondre organisation du corpus, fonctionnement de l’enquête et orientations d’examen.
-- Ne pas présenter les quatre orientations comme des niveaux hiérarchiques ou des phases obligatoires.
+- Ne pas confondre organisation du corpus, fonctionnement de l’enquête et orientations de l’examen.
+- Ne pas présenter les orientations actuellement disponibles comme une classification exhaustive, une hiérarchie ou des phases obligatoires.
+- Distinguer l’orientation, qui précise sous quel rapport une situation est examinée, de l’opération, qui désigne le travail descriptif mobilisé pour traiter la question.
 - Ne pas faire du README une seconde introduction générale.
 
 **Critère de réussite**
