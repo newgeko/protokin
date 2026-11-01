@@ -6,7 +6,7 @@ Cette page propose des repères pratiques pour conduire une enquête dans le cad
 
 Elle aide à passer d’une difficulté descriptive à un examen organisé : préciser ce qui fait problème, déterminer sous quel rapport l’examiner, repérer les confusions éventuelles et choisir le travail à reprendre.
 
-Elle complète l’[Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md), qui présente les catégories, les opérations, les orientations, les fonctions transversales et les instruments d’épreuve.
+Elle complète l’[Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md), qui présente les catégories, les opérations, les orientations, les fonctions transversales et les instruments d’épreuve.
 
 Elle ne constitue ni une nouvelle opération ni une procédure à appliquer intégralement. Son objectif est plus limité : aider à décider comment poursuivre une enquête en fonction de la difficulté rencontrée.
 
@@ -38,7 +38,7 @@ La formulation du problème est provisoire. Elle doit être suffisamment précis
 
 ## 2. Examiner la difficulté sous les orientations pertinentes
 
-La [quadripartition de l’orientation](quadripartition-de-l-orientation.md) distingue quatre orientations : **Condition, Relation, Fonction et Justification**.
+L’[orientation de l’examen](fr/orientation-de-l-examen.md) distingue quatre orientations de référence : **Condition, Relation, Fonction et Justification**.
 
 Elles aident à préciser sous quel rapport une situation, une pratique ou une description doit être examinée.
 
@@ -156,7 +156,108 @@ La reprise comme instrument désigne un acte d'examen situé. Elle ne se confond
 
 Aucun instrument ne produit mécaniquement un verdict. Il faut préciser ce qu'il permet d'examiner et ce que son résultat autorise effectivement à conclure.
 
-## 6. Exemple d'application : le botaniste et le bûcheron
+## 6. Représenter l'enquête à l'aide de plateaux
+
+Le plateau d'enquête est un instrument complémentaire de représentation et de navigation. Il permet de rendre visibles les opérations mobilisées, les orientations sous lesquelles elles sont examinées et les relations entre plusieurs régimes descriptifs.
+
+Il ne remplace ni l'architecture fonctionnelle ni les repères précédents. Il propose une manière de les disposer pour faciliter le repérage d'une difficulté et le choix d'une reprise.
+
+### 6.1. Un plateau pour chaque régime descriptif examiné
+
+Une enquête peut mobiliser plusieurs régimes descriptifs. Ceux-ci correspondent à des organisations relativement stabilisées de règles d'usage, de distinctions, d'opérations et de critères dans des pratiques données.
+
+Il est possible de représenter chaque régime examiné par un plateau distinct. Cette représentation permet de conserver les particularités des pratiques concernées, au lieu de les ramener immédiatement à une organisation commune.
+
+Un plateau ne représente cependant pas un régime dans toute son étendue. Il représente les éléments pertinents pour l'enquête en cours : les opérations mobilisées, les questions examinées et les relations utiles à la compréhension du problème.
+
+Un même régime peut donc être représenté différemment selon la question étudiée. Inversement, plusieurs enquêtes peuvent faire apparaître des aspects différents d'un même régime.
+
+### 6.2. Les opérations comme cases de travail
+
+Sur chaque plateau, les cases représentent les opérations mobilisées dans le régime considéré et pour le problème étudié.
+
+Une case ne désigne pas nécessairement une étape dans une succession. Elle indique un travail descriptif qui peut être engagé, repris ou combiné avec d'autres.
+
+Les huit opérations de référence peuvent servir de repères :
+
+**Délimiter, Ancrer, Distinguer, Relier, Configurer, Justifier, Reconstituer et Redélimiter.**
+
+Il n'est pas nécessaire que toutes apparaissent sur chaque plateau. La représentation doit suivre les opérations effectivement pertinentes, et non imposer une présence uniforme.
+
+### 6.3. Les quatre orientations comme faces d'examen
+
+Chaque opération peut être examinée sous les quatre orientations :
+
+- **Condition** : quelles conditions et contraintes concernent ce travail ?
+- **Relation** : quelles relations et dépendances doivent être examinées ?
+- **Fonction** : quel rôle ce travail joue-t-il dans la pratique considérée ?
+- **Justification** : quelles raisons et quels critères permettent de soutenir ses résultats ?
+
+On peut ainsi représenter chaque case comme susceptible d'être examinée selon quatre directions ou faces.
+
+Cette possibilité ne signifie pas que les quatre orientations doivent être mobilisées à chaque fois. Une difficulté peut appeler une seule orientation, plusieurs orientations ou un autre questionnement. Les orientations sont des possibilités d'examen, non des compartiments qu'il faudrait systématiquement remplir.
+
+La représentation permet notamment de changer d'orientation sans changer nécessairement d'opération. Une difficulté portant sur une distinction peut d'abord être examinée sous l'angle de ses conditions, puis sous celui de sa justification, sans qu'il soit nécessaire de passer immédiatement à une autre opération.
+
+Inversement, une même orientation peut traverser plusieurs opérations. La justification, par exemple, peut concerner la délimitation d'un problème, l'ancrage des éléments, une distinction ou une configuration, et pas seulement l'opération Justifier.
+
+### 6.4. Les croisements entre plateaux
+
+Lorsque plusieurs régimes interviennent dans une enquête, leurs plateaux peuvent être rapprochés et mis en relation.
+
+Ces croisements peuvent rendre visibles :
+
+- des situations ou des éléments communs ;
+- des distinctions qui se ressemblent sans avoir la même fonction ;
+- des relations établies dans un régime et reprises dans un autre ;
+- des dépendances entre des pratiques descriptives ;
+- des descriptions compatibles ou concurrentes ;
+- des désaccords portant sur les critères ou les conclusions ;
+- des passages d'un régime à un autre dont la portée doit être examinée.
+
+Le croisement ne signifie pas que les plateaux possèdent des cases équivalentes. Une opération mobilisée dans un régime ne correspond pas nécessairement à une opération identique dans un autre. Les pratiques peuvent organiser différemment leurs descriptions et leurs critères.
+
+Il ne signifie pas non plus que les régimes sont fermés ou indépendants. Ils peuvent partager des instruments, des documents, des termes, des éléments matériels ou certaines procédures. Leurs relations doivent être établies à partir de la situation examinée.
+
+**Le croisement des régimes n'est pas encore leur articulation.** Deux régimes peuvent porter sur une même situation sans que leurs descriptions soient effectivement articulées. L'articulation suppose un examen de leurs relations, de leurs dépendances, de leurs éventuelles incompatibilités et des conditions de passage entre eux.
+
+Le plateau aide à localiser ces rapports. Il ne décide pas à l'avance s'ils sont compatibles, contradictoires ou convertibles.
+
+### 6.5. Utiliser le plateau pour choisir une reprise
+
+Le plateau peut être mobilisé lorsqu'une enquête fait intervenir plusieurs opérations ou plusieurs régimes et qu'il devient difficile de situer précisément la difficulté.
+
+Son utilisation peut suivre quelques repères :
+
+1. **Identifier le régime concerné.** Déterminer dans quelle pratique descriptive la difficulté apparaît, sans supposer qu'elle relève d'un seul régime.
+2. **Localiser le travail en question.** Repérer l'opération mobilisée ou celle qui semble manquer.
+3. **Préciser l'orientation pertinente.** Examiner si la difficulté concerne les conditions, les relations, les fonctions, les justifications ou plusieurs de ces rapports.
+4. **Repérer les croisements.** Si d'autres régimes interviennent, examiner les éléments communs, les différences et les passages entre leurs descriptions.
+5. **Choisir une reprise.** Déterminer quelle opération, quel instrument ou quelle orientation supplémentaire permettrait de traiter ce qui reste indéterminé.
+
+Ces repères ne constituent pas une procédure supplémentaire. Ils explicitent une manière possible de se repérer dans une enquête complexe.
+
+Le plateau peut également aider à constater qu'une difficulté ne se situe pas dans une opération isolée, mais dans le passage entre deux régimes. Il peut alors être nécessaire d'examiner les conditions de ce passage plutôt que de reprendre automatiquement une opération à l'intérieur d'un seul régime.
+
+### 6.6. Statut et limites du plateau
+
+Le plateau est un instrument facultatif. Il ne constitue ni une nouvelle composante de l'architecture fonctionnelle, ni une représentation exhaustive de tous les régimes descriptifs, ni une méthode obligatoire.
+
+Il ne faut pas supposer :
+
+- que chaque régime possède un plateau permanent et entièrement délimité ;
+- que tous les régimes mobilisent les mêmes opérations ;
+- que chaque opération doit être examinée selon les quatre orientations ;
+- que les cases d'un plateau forment un parcours nécessaire ;
+- que deux cases situées au même endroit sur deux plateaux ont la même fonction ;
+- que les croisements entre plateaux établissent une équivalence entre les descriptions ;
+- que la représentation permet, à elle seule, de résoudre une difficulté.
+
+Le plateau est construit en fonction du problème et des éléments disponibles. Il peut être modifié lorsque l'enquête change de périmètre, mobilise un autre régime ou fait apparaître une difficulté nouvelle.
+
+Il sert à rendre l'enquête plus lisible, non à imposer une forme aux pratiques qu'elle examine.
+
+## 7. Exemple d'application : le botaniste et le bûcheron
 
 Un botaniste examine l'état biologique d'un arbre. Un bûcheron évalue sa structure et les conditions d'une intervention.
 
@@ -181,7 +282,28 @@ Ces questions sont liées, mais elles ne sont pas équivalentes.
 
 Il n'est pas nécessaire de traiter les quatre orientations avec la même intensité. Leur mobilisation dépend de ce qui reste à éclaircir.
 
-### Repérer une éventuelle conversion
+### Repérer les régimes descriptifs concernés
+
+On peut représenter provisoirement deux régimes descriptifs :
+
+- un régime botanique, qui organise l'examen de l'état biologique de l'arbre ;
+- un régime technique d'évaluation de l'arbre, qui organise l'examen de sa structure, de sa stabilité et des conditions d'une intervention.
+
+Chaque plateau permet de situer les opérations effectivement mobilisées dans la pratique considérée. Il ne faut pas supposer que les deux plateaux possèdent une organisation identique.
+
+Leur rapprochement fait apparaître un élément commun : le même arbre. Mais cette référence commune ne suffit pas à rendre équivalentes les descriptions produites.
+
+### Examiner le croisement
+
+
+Le plateau botanique peut permettre d'examiner les conditions de développement et l'état biologique de l'arbre. Le plateau technique peut permettre d'examiner les caractéristiques de sa structure et les conditions d'un éventuel risque.
+
+Le croisement entre les deux fait apparaître plusieurs questions :
+
+- les observations mobilisées dans chaque régime portent-elles sur les mêmes parties de l'arbre ?
+- les propriétés biologiques examinées ont-elles une relation établie avec les propriétés mécaniques considérées ?
+- les conclusions produites répondent-elles à des questions compatibles ?
+- une information issue d'un régime est-elle utilisée comme si elle suffisait à établir une conclusion relevant de l'autre ?
 
 Il serait injustifié de déduire automatiquement de la viabilité biologique que l'arbre ne présente aucun risque mécanique. Il serait tout aussi injustifié de déduire de l'existence d'un risque que l'arbre est biologiquement mort.
 
@@ -204,7 +326,7 @@ L'examen peut établir que les deux descriptions sont compatibles parce qu'elles
 
 Aucune de ces issues ne doit être présumée.
 
-## 7. Conditions d'arrêt et limites
+## 8. Conditions d'arrêt et limites
 
 Conduire une enquête ne signifie pas examiner indéfiniment toutes les dimensions possibles d'une situation.
 
@@ -231,9 +353,11 @@ Enfin, l'enquêteur ne dispose pas d'un point de vue extérieur et infaillible s
 
 Conduire une enquête consiste à partir d'une difficulté identifiable, à préciser sous quels rapports elle doit être examinée, à repérer les éventuelles conversions injustifiées et à choisir les opérations adaptées à ce qui reste à établir.
 
-La démarche ne prescrit pas une procédure universelle. Les opérations peuvent être mobilisées conjointement, reprises séparément ou réorganisées en fonction du problème et des résultats obtenus.
+La chaîne fournit les opérations de référence ; les orientations aident à différencier les questions ; les fonctions transversales permettent d'examiner différentes dimensions du cheminement ; les instruments mettent certains résultats à l'épreuve.
 
-La chaîne fournit les opérations de référence ; la quadripartition aide à orienter l'examen ; les fonctions transversales permettent d'en examiner différentes dimensions ; les instruments mettent certains résultats à l'épreuve.
+Lorsque plusieurs régimes descriptifs interviennent, le plateau peut servir à représenter les opérations mobilisées dans chacun d'eux, les orientations pertinentes et les croisements entre leurs descriptions. Il aide à repérer les difficultés et à choisir une reprise, sans constituer une procédure supplémentaire.
+
+Les ressources de l'enquête peuvent être mobilisées conjointement, reprises séparément ou réorganisées en fonction du problème et des résultats obtenus.
 
 **Conduire une enquête, c'est rendre la difficulté examinable, expliciter les passages qui soutiennent les conclusions et choisir des reprises proportionnées à ce qui reste à établir.**
 
@@ -243,13 +367,15 @@ Pour poursuivre :
 
 - [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
 - [La chaîne principale de l'enquête](fr/la-chaine-principale-de-l-enquete.md)
-- [Quadripartition de l'orientation](fr/quadripartition-de-l-orientation.md)
+- [Orientation de l'examen](fr/orientation-de-l-examen.md)
+- [Régime descriptif](fr/regime-descriptif.md)
+- [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md)
 - [Délimiter](fr/delimiter.md)
 - [Ancrer](fr/ancrer.md)
-- [Distinguer](distinguer.md)
-- [Relier](relier.md)
-- [Configurer](configurer.md)
-- [Justifier](justifier.md)
-- [Reconstituer](reconstituer.md)
-- [Redélimiter](redelimiter.md)
-- [Table des matières](tdm.md)
+- [Distinguer](fr/distinguer.md)
+- [Relier](fr/relier.md)
+- [Configurer](fr/configurer.md)
+- [Justifier](fr/justifier.md)
+- [Reconstituer](fr/reconstituer.md)
+- [Redélimiter](fr/redelimiter.md)
+- [Table des matières](fr/tdm.md)
