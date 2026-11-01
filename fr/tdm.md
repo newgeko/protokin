@@ -131,7 +131,7 @@ Ces pages portent sur les ressources linguistiques et inférentielles mobilisée
 - [Prédication](fr/predication.md) — Examiner l’attribution d’une propriété ou d’une qualification et les engagements associés.
 - [Référent](fr/referent.md) — Examiner les pratiques d’identification, les jugements d’identité et la visée d’objet.
 - [Objet descriptif](fr/objet-descriptif.md) — Préciser comment une différence est stabilisée comme identifiable et réutilisable dans une pratique descriptive.
-- [Description](fr/description.md) — Examiner les descriptions comme des configurations susceptibles d’être discutées et révisées.
+- [Description](fr/description.md) — Distinguer l’activité descriptive, le contenu descriptif et la situation décrite.
 - [Relation sémantique et référence](fr/relation-semantique-et-reference.md) — Examiner les rapports entre contenu, usage et visée référentielle.
 - [Anaphore](fr/anaphore.md) — Examiner les reprises discursives et les dépendances entre occurrences.
 - [Déixis](fr/deixis.md) — Examiner comment l’interprétation d’une désignation dépend de la situation dans laquelle elle est produite.
