@@ -21,7 +21,7 @@ Ces pages présentent l’orientation de Protokin, son problème de départ, ses
 - [Ce que Protokin ne prétend pas faire](fr/ce-que-protokin-ne-pretend-pas-faire.md) — Délimiter les conclusions que l’enquête ne peut établir à elle seule.
 - [Nom, origine et portée](fr/nom-origine-portee.md) — Examiner le choix du nom Protokin et les limites des rapprochements qu’il suggère.
 - [Architecture du projet](fr/architecture-projet.md) — Présenter l’organisation documentaire du corpus et la fonction respective de ses ressources.
-[Enquête et organisation des notions] — Expliquer comment les notions du corpus sont mobilisées et examinées dans la démarche d'enquête
+[Enquête et organisation des notions](fr/enquete-et-organisation-des-notions.md) — Expliquer comment les notions du corpus sont mobilisées et examinées dans la démarche d'enquête
 - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Distinguer les catégories, les opérations, les orientations, les fonctions transversales et les instruments d’épreuve.
 - [Parcours de lecture](fr/parcours-de-lecture.md) — Proposer des parcours d’accès au corpus selon les questions du lecteur.
 - [Pourquoi ne pas alourdir l’enquête ?](fr/pourquoi-ne-pas-alourdir-l-enquete.md) — Examiner quand une distinction, une catégorie ou un contrôle supplémentaire apporte réellement quelque chose à l’enquête.
