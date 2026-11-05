@@ -2,347 +2,457 @@
 
 Version : 26.11.05
 
-## Fonction
+## 1. Fonction et portée
 
-Définir les règles de production des versions HTML des pages Markdown du corpus Protokin.
+Ce pattern définit les règles de production des versions HTML des pages Markdown du corpus Protokin.
 
-Le HTML constitue une traduction éditoriale et, lorsque cela est pertinent, interactive d'une ressource Markdown. Il vise à améliorer son accessibilité, sa lisibilité et la compréhension de sa fonction.
+Il encadre une opération de transposition éditoriale : rendre une ressource consultable dans un environnement web, en adaptant sa présentation aux possibilités du navigateur sans modifier sa fonction, ses distinctions ou ses engagements.
 
-Il ne constitue ni une nouvelle source théorique ni une réécriture autonome du contenu.
+Il poursuit deux objectifs complémentaires :
 
-## Problème
+- assurer une identité visuelle et une expérience de consultation cohérentes à l'échelle du corpus ;
+- permettre à chaque page d'adopter une présentation adaptée à son contenu et à sa fonction propre.
+
+Le pattern ne prescrit donc ni une conversion automatique ni un modèle de page uniforme.
+
+Le Markdown demeure la source documentaire de référence. Le HTML en constitue une version de consultation et de représentation.
+
+## 2. Problème
 
 Une conversion uniforme des pages Markdown en HTML ne respecte pas nécessairement la diversité fonctionnelle du corpus.
 
-Une définition, une opération d'enquête, une distinction conceptuelle, une étude de cas et une page d'architecture ne présentent pas les mêmes besoins de lecture.
+Une page d'architecture, une définition, une opération d'enquête, une comparaison et une étude de cas ne présentent pas les mêmes besoins de lecture.
 
-La question n'est donc pas seulement de convertir un format documentaire en format web, mais de déterminer quelle présentation HTML sert effectivement le contenu et la fonction de chaque page.
+À l'inverse, une liberté graphique totale produirait un ensemble de pages sans cohérence visuelle ni continuité de consultation.
 
-## Définition
+Il faut donc articuler deux exigences :
 
-La traduction HTML est une opération de transposition éditoriale qui conserve le contenu, les distinctions, les engagements et les limites d'une page Markdown tout en adaptant leur présentation aux possibilités du navigateur.
+- une identité commune qui permette de reconnaître les pages comme appartenant au même corpus ;
+- des formes de présentation différenciées qui respectent la fonction de chaque ressource.
 
-Elle peut mobiliser :
+L'unité du corpus ne doit pas être obtenue au prix de l'uniformisation de ses contenus.
+
+## 3. Définition
+
+La traduction HTML est une transposition éditoriale et, lorsque cela est pertinent, interactive d'une ressource Markdown.
+
+Elle conserve les éléments nécessaires à la compréhension de la page :
+
+- ses notions et ses définitions ;
+- ses distinctions ;
+- ses arguments et leurs articulations ;
+- ses exemples et ses références ;
+- ses réserves et ses limites ;
+- ses relations avec les autres ressources.
+
+Elle adapte leur organisation et leur présentation aux possibilités du support HTML.
+
+Cette adaptation peut mobiliser :
 - une organisation typographique ;
 - des tableaux et des schémas ;
 - des représentations graphiques ;
-- des interactions de consultation ;
-- des filtres et des comparaisons ;
-- des parcours de navigation ;
-- des visualisations temporelles.
+- des parcours de consultation ;
+- des comparaisons ;
+- des interactions ;
+- des visualisations temporelles ou relationnelles.
 
-Ces moyens ne sont mobilisés que lorsqu'ils apportent une valeur explicative ou fonctionnelle identifiable.
+Ces moyens ne sont utilisés que lorsqu'ils apportent un bénéfice identifiable à la compréhension ou à la consultation.
 
-## Principes
+## 4. Principes de traduction
 
-### 1. Fidélité conceptuelle
+### 4.1. Fidélité conceptuelle
 
-La version HTML conserve les notions, définitions, distinctions, arguments, exemples et réserves de la page source.
+La version HTML ne doit pas modifier le contenu théorique ou méthodologique de la source.
 
-Elle ne simplifie pas une difficulté théorique au point d'en modifier la portée.
+Elle conserve les distinctions, les arguments, les exemples et les réserves nécessaires à la compréhension du propos.
 
-### 2. Fidélité fonctionnelle
+Une simplification de la présentation est possible. Une simplification qui modifie la portée d'une proposition ne l'est pas.
 
-La présentation dépend de la fonction propre de la page.
+### 4.2. Fidélité fonctionnelle
 
-Une page consacrée à une opération ne doit pas devenir une simple présentation encyclopédique de cette opération.
+La présentation HTML doit servir la fonction propre de la page.
 
-Une étude de cas ne doit pas devenir une illustration décorative.
+Une page d'opération doit rendre intelligible le travail d'examen qu'elle décrit. Une étude de cas doit permettre d'examiner les éléments et les arguments mobilisés. Une page conceptuelle doit préserver les distinctions qui structurent son propos.
 
-Une page de définition ne doit pas devenir artificiellement un outil interactif.
+La forme de présentation ne doit pas transformer la nature de la ressource.
 
-### 3. Proportionnalité
+### 4.3. Proportionnalité
 
-La complexité de l'interface doit être proportionnée à celle du contenu et à l'utilité de la représentation.
+La complexité de l'interface doit être proportionnée au contenu et à l'utilité de la représentation.
 
-Une présentation textuelle structurée est préférable à une visualisation inutile.
+Une page textuelle structurée peut être préférable à une visualisation.
 
-L'interactivité n'est jamais une exigence en soi.
+Une interaction n'est pas nécessaire du seul fait que le support HTML la rend possible.
 
-### 4. Non-substitution
+### 4.4. Non-substitution
 
-Le Markdown demeure la source documentaire de référence.
+Le HTML ne remplace pas le Markdown comme source documentaire de référence.
 
-Le HTML ne crée pas de nouvelles catégories, opérations ou orientations et ne modifie pas l'architecture du projet.
+Il ne crée pas de nouvelles catégories, opérations, orientations ou distinctions. Il ne modifie pas l'architecture du projet.
 
-### 5. Révisabilité
+Toute proposition ajoutée pour faciliter la compréhension doit être identifiable comme un apport de présentation et non comme un élément établi par la source.
 
-La version HTML doit pouvoir être comparée à sa source Markdown.
+### 4.5. Transparence des représentations
 
-Toute modification du contenu source appelle une vérification de la version HTML correspondante.
+Les schémas, tableaux et visualisations doivent distinguer :
 
-### 6. Transparence
+- les éléments explicitement présents dans la source ;
+- les relations directement établies par celle-ci ;
+- les choix de représentation ajoutés pour faciliter la lecture.
 
-Les schémas, tableaux et visualisations distinguent les éléments présents dans la source, les interprétations proposées et les représentations ajoutées pour faciliter la compréhension.
+Une représentation ne constitue pas une preuve supplémentaire.
 
-Une représentation graphique ne constitue pas une preuve supplémentaire.
+Elle ne doit pas suggérer une relation nécessaire, une hiérarchie, une succession ou une exhaustivité que le texte source n'établit pas.
 
-## Types de présentation
+### 4.6. Révisabilité
 
-Le choix de présentation dépend de la fonction de la page.
+Toute version HTML doit pouvoir être rapprochée de son fichier Markdown source.
 
-| Type | Présentation privilégiée |
-|---|---|
-| Conceptuelle | Lecture structurée et définitions |
-| Opératoire | Parcours et représentation des opérations |
-| Architecturale | Cartographie des relations et dépendances |
-| Comparative | Tableaux et confrontations |
-| Temporelle | Chronologies et trajectoires |
-| Documentaire | Dossier de sources et éléments d'enquête |
+Une modification substantielle du Markdown appelle une vérification de la version HTML correspondante.
 
-Ces types ne sont ni exclusifs ni obligatoires.
+Les deux versions doivent conserver une correspondance documentaire identifiable.
 
-## Procédure de production
+## 5. Direction artistique commune
 
-### Étape 1 — Identifier la source
+### 5.1. Intention visuelle
 
-Recharger la version actuelle du fichier Markdown depuis la branche de référence.
+L'identité visuelle de Protokin relève d'un registre documentaire, organo-mécanique et expérimental.
 
-Ne pas travailler à partir d'une version ancienne ou d'un extrait incomplet.
+Elle doit évoquer un environnement d'examen et de mise à l'épreuve des descriptions : un espace où des différences, des relations, des transformations et des arguments peuvent être rendus visibles et examinés.
 
-### Étape 2 — Identifier la fonction
+L'univers graphique peut associer :
+- la précision d'un document technique ;
+- la profondeur visuelle d'un environnement sombre ;
+- des structures organiques et mécaniques ;
+- des tracés, des articulations et des annotations ;
+- une dimension expérimentale contenue.
 
-Déterminer :
-- la fonction propre de la page ;
-- son problème ;
-- ses notions centrales ;
-- ses distinctions ;
-- ses dépendances documentaires ;
-- ce qu'elle n'établit pas.
+L'ensemble doit rester lisible et fonctionnel. Il ne s'agit pas de représenter visuellement une théorie générale du monde ou une architecture métaphysique.
 
-### Étape 3 — Déterminer la présentation
+### 5.2. Principes graphiques
 
-Choisir la forme HTML la plus adaptée.
+L'identité graphique privilégie :
 
-Justifier chaque représentation ou interaction par sa contribution à la compréhension du contenu.
-
-### Étape 4 — Produire le HTML
-
-Conserver l'intégralité des éléments conceptuellement nécessaires.
-
-Privilégier :
-- HTML sémantique ;
-- CSS sobre et responsive ;
-- JavaScript limité aux interactions utiles ;
-- accessibilité clavier ;
-- lisibilité sur mobile et ordinateur ;
-- absence de dépendances inutiles.
-
-### Étape 5 — Vérifier la fidélité
-
-Comparer la page HTML avec le Markdown.
-
-Vérifier notamment :
-- les définitions ;
-- les distinctions ;
-- les exemples ;
-- les références ;
-- les réserves ;
-- les liens internes ;
-- les éventuelles interactions.
-
-### Étape 6 — Vérifier le fonctionnement
-
-Tester les liens, les interactions, les dimensions d'écran et l'accessibilité.
-
-Vérifier que le contenu reste intelligible sans JavaScript lorsque cela est techniquement possible.
-
-## N'établit pas
-
-Ce pattern :
-- ne définit pas une nouvelle architecture théorique ;
-- ne prescrit pas une interface uniforme ;
-- n'impose pas une visualisation à chaque page ;
-- ne transforme pas chaque ressource en application ;
-- ne donne pas au HTML un statut supérieur au Markdown ;
-- ne considère pas une représentation graphique comme une validation de son contenu.
-
-## Synthèse
-
-Le HTML rend les ressources de Protokin consultables et représentables selon leur fonction propre.
-
-La qualité d'une traduction HTML ne se mesure pas à sa sophistication graphique ou interactive, mais à sa capacité à rendre le contenu plus accessible sans en altérer les engagements descriptifs.
-
-**Une page HTML réussie n'ajoute pas nécessairement quelque chose à la théorie : elle rend plus intelligible le travail que la page Markdown permet d'accomplir.**
-
-## Direction artistique — Identité visuelle des pages HTML
-
-### Fonction
-
-Définir une identité visuelle commune aux pages HTML de Protokin. Cette direction artistique assure la cohérence graphique et éditoriale du corpus, tout en laissant à chaque page la liberté de choisir une présentation adaptée à sa fonction.
-
-La direction artistique constitue un cadre de conception, non un modèle de page à reproduire systématiquement.
-
-### 1. Intention générale
-
-L'identité visuelle de Protokin s'inscrit dans un registre documentaire, organo-technique et expérimental.
-
-Elle doit évoquer un environnement d'examen et de mise à l'épreuve des descriptions : un espace où des distinctions, des relations, des transformations et des arguments peuvent être rendus visibles et examinés.
-
-L'interface ne doit pas chercher à représenter une théorie générale du monde, un système total ou une architecture métaphysique.
-
-Elle privilégie :
-- la lisibilité plutôt que l'effet visuel ;
+- la lisibilité plutôt que l'effet ;
 - la précision plutôt que la décoration ;
+- la structure plutôt que l'accumulation ;
 - les relations plutôt que les symboles ;
 - les annotations plutôt que les effets spectaculaires ;
-- la sobriété plutôt que l'accumulation graphique.
+- la profondeur et la matière plutôt que les effets lumineux artificiels.
 
-L'ensemble peut évoquer un atlas documentaire, un instrument d'examen ou un environnement de travail éditorial.
-
-### 2. Univers graphique
-
-L'univers graphique repose sur un fond sombre, des surfaces différenciées avec discrétion et une hiérarchie typographique nette.
-
-Il évite :
+Elle évite notamment :
 - les interfaces technologiques génériques ;
-- les effets néon et les dégradés lumineux omniprésents ;
-- les textures décoratives ;
-- les illustrations abstraites sans fonction explicative ;
-- les codes visuels de tableaux de bord commerciaux ;
-- les représentations pseudo-scientifiques ou pseudo-métaphysiques.
+- les effets néon omniprésents ;
+- les dégradés décoratifs ;
+- les textures sans fonction ;
+- les illustrations abstraites sans rapport avec le contenu ;
+- l'esthétique de tableau de bord commercial ;
+- les représentations pseudo-scientifiques.
 
-Les éléments graphiques doivent contribuer à organiser la lecture, à signaler une distinction ou à rendre une relation perceptible.
+### 5.3. Palette chromatique
 
-### 3. Palette chromatique
-
-La palette est limitée et stable.
+La palette repose sur des tons sombres, minéraux et froids, avec des accents limités.
 
 | Usage | Couleur indicative | Fonction |
 |---|---|---|
-| Fond principal | Graphite profond `#171A1D` | Espace général de lecture |
-| Fond secondaire | Graphite clair `#22272B` | Sections et surfaces distinctes |
-| Fond ponctuel | `#2B3238` | Encadrés et éléments interactifs |
-| Texte principal | Blanc cassé `#E8E6DF` | Lecture courante |
-| Texte secondaire | Gris `#A4AAA9` | Annotations et métadonnées |
-| Accent structurel | Bleu froid `#7896A8` | Relations, repères et navigation |
-| Accent de tension | Ocre cuivré `#B58B61` | Difficultés, reprises et transformations |
-| Alerte ou réserve | Rouge assourdi `#A66D68` | Limites, contradictions ou points de vigilance |
+| Fond principal | `#151A1F` | Espace général de lecture |
+| Fond secondaire | `#20272E` | Sections et surfaces distinctes |
+| Surface ponctuelle | `#2B343D` | Encadrés et éléments interactifs |
+| Texte principal | `#E7E9E7` | Lecture courante |
+| Texte secondaire | `#A4ADB3` | Annotations et métadonnées |
+| Accent structurel | `#7896A8` | Repères, relations et navigation |
+| Accent secondaire | `#B5A078` | Mise en évidence ponctuelle |
+| Alerte ou réserve | `#AD7772` | Contradiction, limite ou point de vigilance |
 
-Les couleurs d'accent ne doivent pas devenir des codes théoriques fixes. Leur fonction est éditoriale et visuelle. Elles ne signifient pas qu'une orientation, une opération ou un régime descriptif possède une couleur intrinsèque.
+La palette constitue une base commune, non un système de classification conceptuelle.
 
-Le contraste entre texte et fond doit rester suffisant dans toutes les situations de lecture.
+Les couleurs ne doivent pas recevoir de signification théorique permanente. Le bleu ne désigne pas intrinsèquement la relation ; l'accent secondaire ne désigne pas intrinsèquement la transformation.
 
-### 4. Typographie
+Les accents restent rares. La couleur ne doit jamais être le seul moyen de différencier deux informations.
 
-La typographie doit privilégier une lecture prolongée et une hiérarchie immédiatement compréhensible.
+### 5.4. Typographie
 
-- Une police sans sérif sobre pour les titres, les paragraphes et la navigation.
-- Une police monospace pour les notations, les identifiants, les repères techniques et certains éléments de schématisation.
-- Une hiérarchie limitée de tailles et de graisses.
-- Une largeur de colonne adaptée à la lecture de textes argumentatifs.
-- Un interlignage suffisamment généreux.
-- Une distinction nette entre titres, texte courant, citations, notes et légendes.
+La typographie doit permettre une lecture prolongée.
 
-Les effets typographiques ne doivent pas se substituer à la structure argumentative du contenu.
+Le système repose sur deux familles complémentaires :
 
-### 5. Composition et mise en page
+- une typographie sans sérif pour les titres, les paragraphes et la navigation ;
+- une typographie monospace pour les identifiants, les notations, les repères techniques et certains éléments de schématisation.
 
-Les pages reposent sur une grille commune, mais leur composition dépend de leur fonction.
+Les règles communes sont les suivantes :
 
-Le socle partagé comprend :
-- une zone d'identification de la page ;
+- hiérarchie limitée de tailles et de graisses ;
+- largeur de lecture maîtrisée ;
+- interlignage suffisamment généreux ;
+- distinction nette entre texte, titre, citation, note et légende ;
+- absence d'effets typographiques qui concurrencent le contenu.
+
+Les polices retenues doivent être disponibles localement ou faire l'objet d'une dépendance clairement maîtrisée.
+
+### 5.5. Grille et composition
+
+Les pages partagent une structure générale reconnaissable :
+
+- une zone d'identification du projet ;
 - un titre principal ;
-- une indication éventuelle de catégorie ou de fonction documentaire ;
-- une zone principale de contenu ;
-- une navigation cohérente ;
-- un accès à la version Markdown de référence ;
+- une indication éventuelle de fonction ou de rubrique ;
+- une zone principale de lecture ;
+- une navigation commune ;
+- un accès à la source Markdown ;
 - un pied de page discret.
 
-La lecture doit rester prioritaire. Les colonnes latérales, sommaires internes, annotations et panneaux complémentaires ne sont utilisés que lorsqu'ils apportent un bénéfice réel.
+La composition peut varier selon la page.
 
-Les espaces vides sont des éléments de composition à part entière. Ils permettent de distinguer les parties et de limiter la surcharge visuelle.
+Une colonne de lecture centrale convient aux textes argumentatifs. Une disposition en plusieurs zones peut être pertinente pour une cartographie ou une comparaison. Une navigation latérale peut faciliter la consultation d'un document long.
 
-### 6. Langage graphique
+Les colonnes secondaires et les panneaux complémentaires ne doivent pas réduire excessivement la zone de lecture.
 
-Le langage graphique repose principalement sur des formes simples :
-- lignes pour les relations et les dépendances ;
-- cadres pour délimiter des ensembles ou des niveaux de lecture ;
-- flèches pour indiquer une orientation ou une transformation ;
-- repères pour identifier des éléments ;
-- annotations pour préciser une réserve ou une interprétation ;
-- tableaux pour organiser des comparaisons ;
-- schémas pour rendre visibles des configurations.
+Les espaces vides participent à la hiérarchie visuelle et ne doivent pas être systématiquement remplis.
 
-Chaque représentation doit être accompagnée, lorsque nécessaire, d'une explication textuelle.
+### 5.6. Langage graphique
 
-Un schéma ne doit pas faire croire qu'une relation est nécessaire, exhaustive, hiérarchique ou chronologique si le contenu source ne l'établit pas.
+Le langage graphique commun peut utiliser :
 
-Les visualisations doivent distinguer les éléments issus du texte source de ceux ajoutés pour faciliter sa compréhension.
+- des lignes pour représenter des relations ou des dépendances ;
+- des cadres pour délimiter des ensembles ;
+- des flèches pour indiquer une orientation ou une transformation ;
+- des repères pour identifier des éléments ;
+- des annotations pour préciser une réserve ou une interprétation ;
+- des tableaux pour organiser des comparaisons ;
+- des schémas pour rendre visibles certaines configurations.
 
-### 7. Composants communs
+Les formes organiques ou mécaniques ne sont utilisées que lorsqu'elles contribuent à la représentation du contenu.
 
-Les pages peuvent partager un ensemble limité de composants :
+Les schémas doivent rester compréhensibles sans dépendre exclusivement de leur apparence visuelle. Ils sont accompagnés d'un titre et, lorsque nécessaire, d'une explication textuelle.
+
+### 5.7. Composants communs
+
+Les pages peuvent partager les composants suivants :
+
 - en-tête et navigation ;
 - fil d'Ariane ;
 - titre et métadonnées ;
 - sommaire local ;
-- blocs de définition ;
-- blocs de distinction ;
-- encadrés de réserve ou de limite ;
-- tableaux comparatifs ;
-- schémas annotés ;
-- références et liens documentaires ;
-- accès à la page Markdown d'origine.
+- bloc de définition ;
+- bloc de distinction ;
+- encadré de réserve ou de limite ;
+- tableau comparatif ;
+- schéma annoté ;
+- références documentaires ;
+- accès à la version Markdown.
 
-Ces composants définissent une grammaire graphique commune. Ils ne constituent pas des éléments obligatoires de chaque page.
+Ces composants constituent une grammaire graphique commune. Ils ne sont pas obligatoires dans chaque page.
 
-Leur utilisation dépend de leur utilité pour le contenu considéré.
+Leur présence dépend de leur utilité.
 
-### 8. Variations selon la fonction des pages
+## 6. Adaptation de la présentation à la fonction des pages
 
-L'identité visuelle est commune, mais les formes de présentation peuvent varier.
+L'identité visuelle commune ne détermine pas une composition unique.
 
-| Fonction de la page | Forme de présentation privilégiée |
+La forme de chaque page est choisie à partir de sa fonction effective, et non de son seul titre ou de sa catégorie documentaire.
+
+| Fonction dominante | Présentation possible |
 |---|---|
-| Architecture | Cartographie des composantes et de leurs relations |
-| Opération | Présentation des activités, conditions et possibilités de reprise |
-| Orientation | Organisation des angles d'examen et des questions associées |
-| Concept | Lecture structurée, définitions et distinctions |
-| Comparaison | Mise en regard de descriptions et de leurs écarts |
-| Étude de cas | Dossier documentaire, étapes de l'examen et éléments de preuve |
-| Chronologie | Présentation des séquences et transformations |
-| Méthode | Parcours de travail et possibilités de révision |
+| Orientation et cadrage | Organisation des repères et des relations |
+| Architecture | Cartographie des composantes et de leurs articulations |
+| Opération d'enquête | Présentation du travail d'examen, des conditions de mobilisation et des reprises possibles |
+| Orientation de l'examen | Mise en évidence des questions et des rapports sous lesquels examiner une situation |
+| Notion ou concept | Lecture structurée, définition, distinctions et limites |
+| Langage, inférence et justification | Mise en évidence des énoncés, des engagements et des relations inférentielles |
+| Méthode ou instrument | Présentation des conditions d'utilisation, des étapes et des résultats possibles |
+| Comparaison | Mise en regard de descriptions, de leurs différences et de leurs conséquences |
+| Étude de cas | Dossier documentaire, éléments disponibles, examen et limites des conclusions |
+| Référence et navigation | Accès organisé aux ressources et parcours de consultation |
 
-Ces formes sont indicatives. Une page peut combiner plusieurs modes de présentation si sa fonction le justifie.
+Ces formes sont indicatives et non exclusives.
 
-### 9. Interaction et comportement
+Une page peut combiner plusieurs modes de présentation lorsque sa fonction le justifie.
 
-Les interactions doivent rester limitées, explicites et utiles.
+La présentation ne doit jamais transformer une ressource spécialisée en résumé général du projet.
 
-Elles peuvent servir à :
+## 7. Interaction et comportement
+
+Les interactions sont utilisées lorsqu'elles facilitent réellement la consultation.
+
+Elles peuvent notamment permettre de :
+
 - déplier une précision ;
-- afficher une annotation ;
+- consulter une annotation ;
 - comparer plusieurs éléments ;
-- parcourir les étapes d'un examen ;
-- filtrer un ensemble documentaire ;
-- consulter une référence complémentaire.
+- parcourir un ensemble documentaire ;
+- afficher des informations complémentaires ;
+- filtrer une liste de ressources ;
+- explorer une représentation complexe.
 
-Une interaction ne doit jamais dissimuler une partie essentielle du raisonnement ni rendre le contenu inaccessible sans manipulation.
+Une interaction ne doit pas dissimuler une partie essentielle du raisonnement.
 
-Les animations sont discrètes et fonctionnelles. Elles ne doivent pas ralentir la lecture ni donner une impression artificielle de mouvement ou de complexité.
+Les contenus nécessaires à la compréhension doivent rester accessibles sans manipulation particulière.
 
-### 10. Adaptation aux écrans et accessibilité
+Les animations sont discrètes et fonctionnelles. Elles ne doivent ni ralentir la lecture ni donner une impression artificielle de complexité.
 
-Les pages doivent être lisibles sur ordinateur, tablette et téléphone.
+Le JavaScript est limité aux fonctionnalités qui le justifient. Une présentation statique reste préférable lorsque l'interaction n'apporte pas de bénéfice identifiable.
 
-La mise en page s'adapte aux dimensions disponibles sans supprimer les informations essentielles. Les schémas complexes doivent disposer d'une solution de consultation adaptée aux petits écrans.
+## 8. Adaptation aux écrans et accessibilité
+
+Les pages doivent être consultables sur ordinateur, tablette et téléphone.
+
+L'adaptation aux écrans ne doit pas entraîner la disparition d'informations essentielles.
+
+Les schémas complexes doivent disposer d'une solution de consultation adaptée aux petits écrans.
 
 Les exigences minimales comprennent :
+
 - navigation au clavier ;
 - contrastes suffisants ;
 - hiérarchie sémantique correcte des titres ;
 - textes alternatifs pour les images informatives ;
-- libellés explicites pour les commandes ;
+- libellés explicites des commandes ;
 - absence de dépendance exclusive à la couleur ;
-- possibilité de consulter le contenu essentiel sans JavaScript.
+- mise en page responsive ;
+- consultation du contenu essentiel sans JavaScript, lorsque cela est techniquement possible.
 
-### 11. Règle de cohérence
+L'accessibilité fait partie de la qualité éditoriale de la page.
 
-Une page HTML appartient visuellement au corpus Protokin lorsqu'elle respecte l'identité graphique commune et conserve une organisation éditoriale reconnaissable.
+## 9. Procédure de production
 
-Elle n'a pas besoin de reproduire la composition des autres pages.
+### Étape 1 — Vérifier la source
 
-La cohérence du corpus repose donc sur la stabilité du langage visuel, de la typographie, de la navigation et des composants communs, et non sur l'uniformité des mises en page.
+Recharger le fichier Markdown depuis la branche de référence du dépôt.
 
-**La direction artistique unifie les conditions de lecture ; elle ne détermine pas la forme de l'enquête.**
+Vérifier :
+- le chemin exact ;
+- le contenu actuel ;
+- la date ou la version lorsqu'elle existe ;
+- les liens internes pertinents ;
+- les ressources dont dépend la page.
+
+Ne pas produire une version HTML à partir d'un extrait ancien ou d'un contenu supposé.
+
+Si une ressource nécessaire est inaccessible, le signaler et ne pas reconstituer son contenu.
+
+### Étape 2 — Identifier la fonction
+
+Déterminer :
+
+- le problème traité ;
+- la fonction propre de la page ;
+- ses notions centrales ;
+- ses distinctions ;
+- ses arguments ;
+- ses exemples et références ;
+- ses dépendances documentaires ;
+- ce qu'elle n'établit pas.
+
+Identifier également les éléments qui doivent rester directement accessibles à la lecture.
+
+### Étape 3 — Choisir la forme de présentation
+
+Déterminer la composition la plus adaptée à la fonction de la page.
+
+Préciser :
+- les éléments qui relèvent de la lecture textuelle ;
+- les éléments qui gagnent à être représentés ;
+- les éventuelles interactions utiles ;
+- les informations qui doivent rester visibles ;
+- les relations que les représentations ne doivent pas suggérer.
+
+Ne pas ajouter de visualisation simplement pour différencier graphiquement une page.
+
+### Étape 4 — Produire la page HTML
+
+Respecter l'identité visuelle commune et les principes de présentation retenus.
+
+Privilégier :
+- HTML sémantique ;
+- CSS structuré et réutilisable ;
+- JavaScript limité ;
+- dépendances techniques maîtrisées ;
+- navigation cohérente ;
+- adaptation aux différents écrans ;
+- accessibilité.
+
+La composition peut être spécifique à la page, mais les composants communs doivent rester reconnaissables.
+
+### Étape 5 — Vérifier la fidélité
+
+Comparer le HTML avec le fichier Markdown source.
+
+Vérifier notamment :
+
+- les définitions ;
+- les distinctions ;
+- les arguments ;
+- les exemples ;
+- les références ;
+- les réserves ;
+- les limites ;
+- les liens internes ;
+- les éventuels ajouts de représentation.
+
+Toute différence substantielle doit être justifiée.
+
+### Étape 6 — Vérifier le fonctionnement
+
+Tester :
+- les liens ;
+- la navigation ;
+- les interactions ;
+- l'affichage sur plusieurs dimensions d'écran ;
+- l'accessibilité au clavier ;
+- la lisibilité des schémas ;
+- la consultation sans JavaScript lorsque cela est possible.
+
+Vérifier également que l'accès à la source Markdown est identifiable.
+
+## 10. Contrôle avant publication
+
+Une page HTML peut être considérée comme prête lorsque les conditions suivantes sont réunies.
+
+### Fidélité
+
+- [ ] La source Markdown a été vérifiée.
+- [ ] La fonction propre de la page est conservée.
+- [ ] Les distinctions et les arguments sont préservés.
+- [ ] Les limites et les réserves restent accessibles.
+- [ ] Les ajouts de représentation ne modifient pas les conclusions.
+
+### Cohérence visuelle
+
+- [ ] La palette et la typographie respectent l'identité commune.
+- [ ] La navigation est cohérente avec les autres pages.
+- [ ] Les composants communs sont employés de manière pertinente.
+- [ ] La composition est adaptée à la fonction de la page.
+- [ ] Les effets visuels restent au service de la lecture.
+
+### Fonctionnement
+
+- [ ] Les liens ont été vérifiés.
+- [ ] Les interactions fonctionnent.
+- [ ] La page est lisible sur ordinateur et téléphone.
+- [ ] Les exigences essentielles d'accessibilité sont respectées.
+- [ ] La version Markdown de référence reste accessible.
+
+## 11. Ce que ce pattern n'établit pas
+
+Ce pattern :
+
+- ne définit pas une nouvelle architecture théorique de Protokin ;
+- ne modifie pas les catégories, les opérations ou les orientations de l'enquête ;
+- ne prescrit pas une interface identique pour toutes les pages ;
+- n'impose pas une visualisation à chaque ressource ;
+- ne transforme pas chaque page en application interactive ;
+- ne donne pas au HTML un statut supérieur au Markdown ;
+- ne considère pas une représentation graphique comme une preuve ;
+- ne fixe pas définitivement les choix techniques de l'ensemble du site.
+
+La direction artistique assure une continuité visuelle. Elle ne détermine ni la fonction des ressources ni la manière dont elles doivent être examinées.
+
+## 12. Synthèse
+
+La traduction HTML consiste à rendre les ressources de Protokin plus accessibles dans un environnement web, sans altérer leur fonction ni leurs engagements descriptifs.
+
+L'identité visuelle commune garantit la reconnaissance du corpus. La diversité des présentations respecte la fonction propre de chaque page.
+
+La qualité d'une page HTML ne se mesure donc ni à sa sophistication graphique ni au nombre de ses interactions, mais à sa capacité à rendre le contenu plus intelligible et plus facile à examiner.
+
+**L'identité visuelle unifie les conditions de lecture ; la fonction de chaque page détermine sa forme de présentation.**
