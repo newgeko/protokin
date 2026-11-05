@@ -123,7 +123,7 @@ Trois non-conversions sont particulièrement importantes :
 - **Attribution d’un contenu ≠ justification de ce contenu.**
 - **Identification d’un objet ≠ adéquation de la description à cet objet.**
 
-Ces distinctions permettent de relier l’analyse des attributions à l’examen des pratiques descriptives sans confondre les questions linguistiques, référentielles et normatives.
+Elle ne correspond pas à une étape obligatoire de l’enquête et ne détermine pas à elle seule le rapport sous lequel la difficulté doit être examinée. Selon le problème, l’enquête peut porter sur les conditions de l’identification, les relations entre les expressions, le rôle de la reformulation dans la pratique ou les raisons qui permettent de défendre l’attribution. Ces questions peuvent se combiner ; elles ne constituent pas une grille à appliquer systématiquement.
 
 ## 8. Renvois
 
@@ -133,7 +133,7 @@ Ces distinctions permettent de relier l’analyse des attributions à l’examen
 - [Référent](fr/referent.md) — Examiner les pratiques d’identification et de réidentification de ce dont une description parle.
 - [Relation sémantique et référence](fr/relation-semantique-et-reference.md) — Examiner les rapports entre contenu, usage et visée référentielle.
 - [Espace des raisons](fr/espace-des-raisons.md) — Examiner les conditions dans lesquelles une prise de position peut être soutenue, contestée ou révisée.
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Situer les questions d’identification, de relation, de fonction et de justification sans les convertir les unes dans les autres.
+- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Préciser sous quel rapport une difficulté d’identification, d’attribution ou de substitution est examinée.
 
 ## Synthèse
 
