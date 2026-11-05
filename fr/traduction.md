@@ -119,14 +119,9 @@ La traduction peut mobiliser plusieurs opérations de Protokin sans se confondre
 
 Ces opérations peuvent se soutenir mutuellement et être reprises selon les résultats obtenus. Elles ne constituent pas les étapes obligatoires d’une procédure de traduction.
 
-La quadripartition permet également d’orienter l’examen :
+L’examen d’une traduction peut porter sur les conditions de production du passage, les relations établies entre les expressions et les contenus, la fonction du texte traduit dans la pratique et les raisons qui permettent de défendre les choix retenus.
 
-- **Condition** : dans quelles conditions les descriptions ont-elles été produites et utilisées ?
-- **Relation** : quelles correspondances ou dépendances peuvent être établies ?
-- **Fonction** : quel usage le passage rend-il possible dans la pratique d’accueil ?
-- **Justification** : quelles raisons permettent de défendre la pertinence du passage pour le problème traité ?
-
-Ces orientations différencient les questions à examiner. Aucune ne suffit à répondre aux autres.
+Ces questions ne constituent pas une grille exhaustive de l’évaluation. Elles peuvent être mobilisées selon les difficultés rencontrées, notamment lorsqu’un choix de traduction modifie les distinctions, les engagements ou les conséquences inférentielles du passage.
 
 Enfin, trois ressources doivent rester distinctes :
 
@@ -159,12 +154,3 @@ La traduction est une opération de mise en relation entre descriptions. Elle pe
 Elle doit rendre explicites les correspondances établies, les transformations effectuées et les limites du passage. Elle ne présuppose ni l’équivalence des descriptions ni leur incommunicabilité, et ne transfère pas automatiquement les fonctions, les raisons ou les justifications associées aux éléments traduits.
 
 Traduire consiste à établir un passage circonscrit, dont la portée reste ouverte à l’examen.
-
-Pour poursuivre :
-
-- [Comparer deux descriptions](fr/comparer-deux-descriptions.md)
-- [Évaluer une traduction](fr/evaluer-une-traduction.md)
-- [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md)
-- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
-- [Table des matières](fr/tdm.md)
