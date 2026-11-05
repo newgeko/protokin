@@ -44,6 +44,7 @@ Cet ordre n’est ni une procédure obligatoire ni une progression nécessaire. 
 - [Enquête](fr/enquete.md) — Définir l’enquête comme examen situé et révisable des pratiques descriptives.
 - [La chaîne principale de l’enquête](fr/la-chaine-principale-de-l-enquete.md) — Présenter les opérations principales et leurs articulations.
 - [Conduire une enquête](fr/conduire-une-enquete.md) — Donner des repères pour mobiliser les ressources de Protokin dans une situation concrète.
+- [Plateau d’enquête](fr/plateau-d-enquete.md) — Présenter un instrument facultatif de représentation et de navigation permettant de situer les éléments d’une enquête, les opérations mobilisées et les relations à examiner.
 - [Orientations et chemin de l’enquête](fr/orientation-et-chemin-de-l-enquete.md) — Examiner la distinction entre les orientations qui déterminent sous quels rapports une difficulté est étudiée et les opérations qui la traitent.
 
 ### B. Délimiter et ancrer
