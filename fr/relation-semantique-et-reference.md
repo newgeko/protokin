@@ -121,7 +121,9 @@ Dans l’enquête de Protokin, cette distinction devient utile lorsqu’une diff
 
 L’examen peut alors porter, selon le problème, sur les conditions de l’usage, les relations entre les expressions et les autres éléments mobilisés, la fonction de la description ou les raisons permettant de défendre son application.
 
-La quadripartition — Condition, Relation, Fonction et Justification — peut orienter cet examen. Elle ne fournit pas une théorie de la signification et ne divise pas la pratique en quatre composantes. Elle permet de distinguer les questions posées sans supposer qu’elles doivent être traitées dans un ordre fixe.
+L’examen de la relation entre signification et référence peut porter sur les conditions dans lesquelles une expression est utilisée pour identifier quelque chose, les relations entre les expressions et leurs contenus, les fonctions qu’elles remplissent dans la pratique et les raisons qui permettent de défendre une interprétation.
+
+Ces questions ne constituent pas une théorie de la signification ni une division de la pratique en composantes fixes. Elles permettent de différencier les problèmes soulevés par les usages linguistiques et la visée référentielle.
 
 L’identification du référent, la définition du contenu, l’examen des usages et l’évaluation des critères peuvent ainsi se soutenir mutuellement. Ils ne constituent pas pour autant les étapes obligatoires d’une procédure unique.
 
