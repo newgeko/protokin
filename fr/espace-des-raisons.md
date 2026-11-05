@@ -90,9 +90,9 @@ Voir [Critères](fr/criteres.md).
 
 L’espace des raisons intervient lorsque l’enquête doit examiner ce qui permet de défendre, de contester ou de réviser une description ou une conclusion.
 
-Dans la quadripartition de Protokin, il concerne particulièrement l’orientation **Justification**, sans lui être exclusivement réservé. L’examen des raisons dépend également des relations entre les contenus, des conditions dans lesquelles ils sont mobilisés et des fonctions qu’ils remplissent dans une pratique.
+L’espace des raisons concerne particulièrement les questions de justification, sans s’y réduire. L’examen des raisons dépend également des relations entre les contenus, des conditions dans lesquelles ils sont mobilisés et des fonctions qu’ils remplissent dans une pratique.
 
-L’espace des raisons ne constitue pas une cinquième dimension de la quadripartition. Il désigne le cadre fonctionnel dans lequel certaines questions de justification et de redevabilité peuvent être examinées.
+L’espace des raisons ne désigne pas une orientation de l’examen. Il constitue un cadre dans lequel certaines prises de position, inférences, habilitations et demandes de justification peuvent être examinées.
 
 Dans l’architecture fonctionnelle de l’enquête, ces questions peuvent apparaître lorsque les relations entre les éléments ont été reconstruites, lorsque les conclusions doivent être défendues ou lorsqu’un audit révèle une inférence contestable. Elles peuvent également conduire à reprendre une distinction, à modifier le périmètre du problème ou à réexaminer les critères employés.
 
@@ -154,5 +154,5 @@ Dans Protokin, son intérêt est de rendre examinables les conditions dans lesqu
 - [Justifications](fr/justifications.md)
 - [Critères](fr/criteres.md)
 - [Assertion](fr/assertion.md)
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
+- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Préciser sous quel rapport une difficulté d’identification, d’attribution ou de substitution est examinée.
 - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
