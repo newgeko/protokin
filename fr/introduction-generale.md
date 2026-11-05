@@ -2,209 +2,195 @@
 
 ## Fonction
 
-Cette page présente le problème auquel répond Protokin, précise l'orientation méthodologique du projet et situe sa portée dans l'examen des pratiques descriptives.
+Cette page présente le problème auquel répond Protokin, précise le statut de la démarche et explicite son orientation méthodologique.
 
-Elle expose les principaux engagements de la démarche sans se substituer aux pages qui développent les opérations de l'enquête, les orientations de l'examen ou les notions particulières du corpus.
+Protokin examine les pratiques descriptives : les conditions dans lesquelles elles fonctionnent, les différences qu’elles établissent, les relations qu’elles construisent et les raisons par lesquelles elles soutiennent leurs conclusions. Cette introduction expose les engagements généraux de cet examen sans se substituer aux pages consacrées à son architecture, à ses opérations ou aux notions particulières du corpus.
 
-## 1. Pourquoi Protokin ?
+## 1. Le problème de départ
 
-Nous décrivons continuellement des situations, des événements, des organismes et des pratiques. Nous les identifions, les comparons, les expliquons et formulons des jugements à leur sujet. Ces activités mobilisent des différences, des catégories, des relations et des critères que nous avons appris à employer dans des pratiques déterminées.
+Les pratiques humaines décrivent continuellement des situations, des événements, des organismes et des activités. Elles identifient des éléments, établissent des différences, construisent des relations, proposent des explications et soutiennent des décisions.
 
-Ces ressources suffisent souvent à traiter les problèmes rencontrés. Elles peuvent toutefois devenir insuffisantes : une distinction ne permet plus de différencier certains cas, une catégorie s'applique mal à une situation nouvelle, plusieurs descriptions semblent incompatibles ou les raisons avancées pour défendre une conclusion deviennent contestables.
+Ces pratiques mobilisent des catégories, des critères et des manières de décrire qui permettent généralement de traiter les problèmes rencontrés. Mais ces ressources peuvent devenir insuffisantes.
 
-La difficulté ne consiste alors pas nécessairement à trouver une formulation plus précise. Il peut être nécessaire d'examiner comment le problème est décrit, quelles différences sont retenues, quelles relations sont établies et selon quels critères les conclusions sont soutenues.
+Une distinction ne permet plus de différencier certains cas. Une catégorie s'applique difficilement à une situation nouvelle. Plusieurs descriptions semblent incompatibles. Une explication ne rend pas compte d'un résultat inattendu. Les raisons avancées pour défendre une conclusion deviennent contestables.
 
-**Protokin part de ces difficultés descriptives.** Il propose une démarche d'enquête pour préciser ce qui fait problème, examiner les ressources mobilisées et déterminer dans quelles conditions une description peut être maintenue, contestée ou révisée.
+Dans ces situations, il ne suffit pas nécessairement de produire une formulation supplémentaire ou de choisir entre les descriptions disponibles. Il peut être nécessaire d'examiner la manière dont le problème a été constitué : quelles différences ont été retenues, quelles relations ont été établies, quelles catégories ont été mobilisées et selon quels critères les conclusions sont soutenues.
 
-L'enjeu n'est pas seulement de produire de nouvelles descriptions, mais d'examiner les pratiques par lesquelles certaines différences deviennent descriptibles, discutables, justifiables et réutilisables.
+**Protokin part de ces difficultés descriptives.** Il propose une démarche d'enquête pour examiner les pratiques qui les rencontrent, préciser ce qui fait problème et déterminer dans quelles conditions leurs descriptions peuvent être maintenues, contestées ou révisées.
 
-## 2. Quand une description ne suffit plus
+L'objet de l'enquête n'est donc pas seulement une description particulière. Il concerne aussi les pratiques par lesquelles certaines différences deviennent descriptibles, discutables, justifiables, stabilisables et révisables.
 
-Considérons un arbre.
+## 2. La pluralité des descriptions et le problème de leur adéquation
 
-Un botaniste s'intéresse à son espèce, à son développement et à son état biologique. Un bûcheron examine sa structure, sa résistance et les conditions de son abattage. Un propriétaire s'interroge sur son emplacement, les risques qu'il représente et les interventions nécessaires. Un paysagiste considère sa croissance et son intégration dans un aménagement.
+Une même situation peut faire l'objet de plusieurs descriptions. Celles-ci peuvent différer par les questions auxquelles elles répondent, les éléments qu'elles retiennent, les relations qu'elles établissent ou les conséquences qu'elles permettent d'envisager.
 
-Ces personnes peuvent décrire le même arbre sans retenir les mêmes différences ni poursuivre les mêmes objectifs. La pluralité de leurs descriptions ne constitue pas, à elle seule, une contradiction : elles peuvent répondre à des questions distinctes.
+Cette pluralité ne constitue pas en elle-même un problème. Deux descriptions peuvent être compatibles sans être équivalentes. Elles peuvent porter sur des dimensions différentes d'une situation, répondre à des objectifs distincts ou mobiliser des critères qui ne remplissent pas la même fonction.
 
-Une difficulté apparaît, par exemple, lorsque l'arbre se met à pencher au-dessus d'une habitation. Son état biologique, sa stabilité mécanique et le risque qu'il représente deviennent des questions liées, mais non interchangeables. Une description biologique ne suffit pas, à elle seule, à établir le niveau de risque. Une évaluation du risque ne remplace pas l'examen de l'état biologique de l'arbre.
+La difficulté apparaît lorsque leurs rapports deviennent incertains : les descriptions portent-elles réellement sur des aspects distincts ? Certaines de leurs affirmations sont-elles incompatibles ? Une conclusion tirée dans un registre est-elle utilisée pour soutenir une conclusion relevant d'un autre ? Les critères mobilisés sont-ils pertinents au regard de ce qui est affirmé ?
 
-Il faut alors préciser quelles différences sont pertinentes pour le problème, quelles relations doivent être examinées et selon quels critères les conclusions peuvent être défendues. Il faut aussi déterminer si les descriptions disponibles portent réellement sur des aspects distincts ou si certaines de leurs affirmations sont incompatibles.
+Il faut alors examiner les relations entre les descriptions et ce qu'elles prétendent établir.
 
-Les pratiques humaines mobilisent continuellement des descriptions pour identifier des situations, différencier des cas, établir des relations, expliquer des phénomènes et soutenir des décisions. Ces descriptions ne remplissent pas toutes la même fonction. Elles peuvent se compléter, se confronter ou entrer en conflit.
+Une description ne se confond pas avec la situation qu'elle vise. Elle sélectionne des différences, établit des relations et formule des affirmations dans le cadre de pratiques déterminées. Elle peut être cohérente sans être adéquate à ce qu'elle prétend décrire. Elle peut également être utile dans un contexte donné sans que cette utilité suffise à justifier toutes ses affirmations.
 
-L'enquête devient nécessaire lorsque les ressources disponibles ne permettent plus de déterminer suffisamment la portée des descriptions, leurs rapports ou leur adéquation à la situation examinée. Le problème rencontré ne livre cependant pas de lui-même l'interprétation qui convient : il faut encore le caractériser et examiner les réponses possibles.
+L'évaluation d'une description ne peut donc se réduire à sa cohérence interne, à son acceptation ou à son efficacité pratique. Elle demande d'examiner ses appuis, ses engagements, les critères mobilisés et les éléments susceptibles de confirmer ou de contester ses conclusions.
 
-## 3. Le statut de la démarche
+**La cohérence d'une description ne suffit pas à établir son adéquation à ce qu'elle prétend décrire.**
+
+Cette exigence ne présuppose pas que l'adéquation puisse être déterminée par une procédure unique. Elle demande que les prétentions descriptives soient examinées au regard des situations, des contraintes et des raisons pertinentes pour les soutenir.
+
+## 3. Une enquête de second ordre sur les pratiques descriptives
 
 Protokin est une démarche d'enquête **pragmatiste, inférentialiste, réflexive et méthodologiquement non ontologique sur les pratiques descriptives**.
 
-Elle est pragmatiste parce qu'elle part des difficultés rencontrées dans des pratiques et examine les conséquences des distinctions et des descriptions mobilisées. L'utilité pratique d'une description ne suffit toutefois pas à établir son adéquation à la situation qu'elle prétend décrire.
+Il importe de préciser le niveau auquel se situe cette démarche.
 
-Elle est inférentialiste parce qu'elle examine les relations entre les contenus descriptifs, les conséquences que l'on en tire et les raisons susceptibles de soutenir ou de contester les affirmations produites. Elle ne réduit ni toutes les relations à des inférences ni toute justification à l'explicitation d'un raisonnement.
+Une pratique descriptive de premier ordre identifie et décrit une situation, formule des affirmations à son sujet, établit des relations ou propose des explications. Elle peut, par exemple, décrire l'état d'un organisme, qualifier un événement ou caractériser une activité.
 
-Elle est réflexive parce que ses propres distinctions, catégories et instruments peuvent être examinés et révisés. Protokin ne se place donc pas dans une position extérieure et infaillible par rapport aux pratiques qu'il étudie.
+Protokin intervient à un autre niveau. Il examine comment ces pratiques produisent leurs descriptions, quelles différences elles retiennent, quelles opérations elles mobilisent, quelles conséquences elles tirent de leurs affirmations et comment elles justifient ou révisent leurs résultats.
 
-### 3.1. Une réserve méthodologique, non une doctrine sur les limites de la connaissance
+Son travail est donc de second ordre. Il porte sur les conditions et les fonctions des pratiques descriptives, ainsi que sur les opérations par lesquelles elles construisent, évaluent et transforment leurs descriptions.
 
-Le caractère méthodologiquement non ontologique de Protokin précise la portée de cette démarche. Le projet ne part pas d'une ontologie générale qui déterminerait d'avance les catégories fondamentales de ce qui existe, ni d'une théorie préalable qui fixerait les limites de ce qu'il est possible de connaître.
+Cette distinction ne signifie pas que Protokin serait extérieur aux pratiques qu'il examine. L'enquête de second ordre produit elle-même des descriptions, mobilise des concepts, établit des distinctions et avance des propositions. Elle doit donc pouvoir soumettre ses propres opérations et ses propres résultats à un examen comparable.
 
-Il ne soutient pas davantage que la réalité serait inaccessible aux pratiques descriptives, que les descriptions seraient nécessairement enfermées dans leurs propres conditions ou que toute prétention à connaître ce qui existe serait illusoire.
+Le second ordre ne constitue ni un point de vue absolu ni une position d'observation indépendante de toute pratique. Il désigne le niveau auquel porte l'examen.
 
-Cette distinction est importante. Affirmer qu'une connaissance est impossible en principe constitue déjà une thèse sur les limites de la connaissance. Or, l'examen de ces limites ne peut être conduit depuis une position entièrement extérieure à l'activité de connaître. Toute délimitation de ce qui serait connaissable ou inconnaissable mobilise elle-même des distinctions, des concepts et des opérations de pensée qui doivent pouvoir être examinés.
+### 3.1. Une orientation pragmatiste
 
-Une limite constatée dans l'état actuel d'une enquête ne suffit donc pas à établir une impossibilité de principe. Dire qu'une affirmation ne peut pas être soutenue à partir des éléments actuellement disponibles est différent de déclarer qu'elle ne pourra jamais être justifiée. De même, l'absence actuelle de preuve ne permet pas de conclure à une impossibilité définitive.
+Protokin est pragmatiste parce qu'il part des difficultés rencontrées dans des pratiques et examine les conséquences des descriptions et des distinctions mobilisées.
 
-Protokin adopte en conséquence une position de réserve méthodologique plutôt qu'une doctrine sur les limites de la connaissance. Il ne décide pas préalablement de ce que les pratiques descriptives peuvent ou ne peuvent pas connaître. Il examine leurs engagements, les différences qu'elles établissent, les relations qu'elles construisent, les éléments sur lesquels elles s'appuient et les raisons qu'elles avancent pour soutenir leurs conclusions.
+Une distinction se juge notamment à ce qu'elle permet de différencier. Une catégorie doit pouvoir être examinée à partir des situations dans lesquelles elle est employée. Une description doit être confrontée aux problèmes qu'elle prétend traiter et aux contraintes auxquelles elle est soumise.
 
-Il distingue ainsi ce qui est établi, ce qui reste contestable et ce qui ne peut pas encore être soutenu, sans transformer ces constats en frontières définitives.
+Cette orientation ne revient cependant pas à identifier la vérité à l'utilité. Une description peut être opératoire dans une pratique sans être suffisamment adéquate à son objet. Son efficacité constitue un élément de l'examen, non un verdict général sur sa validité.
 
-Le travail de second ordre de Protokin consiste à examiner les pratiques descriptives, leurs conditions de fonctionnement et les opérations par lesquelles elles produisent, évaluent et révisent leurs descriptions. Ce niveau d'examen ne constitue pas un point de vue absolu ou extérieur : les distinctions et les instruments mobilisés par Protokin sont eux-mêmes susceptibles d'être discutés et révisés.
+### 3.2. Une orientation inférentialiste
 
-Les engagements ontologiques d'une pratique peuvent ainsi faire l'objet d'une enquête, sans être acceptés ou rejetés par principe. Il s'agit notamment d'examiner ce qu'une description affirme sur la réalité, sur quels éléments elle s'appuie, quelles conséquences découlent de ses affirmations et quelles procédures permettent de les éprouver ou de les réviser.
+Protokin est inférentialiste parce qu'il examine les conséquences associées aux affirmations, les relations entre les contenus descriptifs et les raisons susceptibles de soutenir ou de contester les conclusions.
 
-Le caractère non ontologique de Protokin ne désigne donc ni une négation de la réalité, ni une impossibilité de la connaître, ni un relativisme des descriptions. Il désigne le refus de faire d'une ontologie préalable le fondement ou le résultat présupposé de l'enquête.
+Affirmer quelque chose engage une pratique à certaines conséquences. Ces engagements peuvent être examinés : quelles propositions sont présupposées ? Quelles conséquences sont tirées ? Quelles raisons permettent de maintenir l'affirmation ? Quelles objections obligeraient à la réviser ?
 
-### 3.2. Ce que cette orientation n'implique pas
+L'examen inférentiel ne réduit toutefois pas toutes les relations à des inférences. Il ne ramène pas non plus toute justification à l'explicitation d'un raisonnement. Les relations matérielles, les contraintes pratiques et les conditions de production des descriptions peuvent également intervenir dans l'enquête.
 
-Cette réserve méthodologique ne rend pas toutes les descriptions équivalentes.
+### 3.3. Une orientation réflexive
 
-Une description peut être plus ou moins adéquate, ses affirmations peuvent être mieux ou moins bien étayées et ses conclusions peuvent être contestées à partir d'éléments pertinents. La pluralité des descriptions n'implique donc ni leur équivalence ni l'impossibilité de les comparer.
+Protokin est réflexif parce que ses propres distinctions, catégories, critères et instruments ne sont pas soustraits à l'examen.
 
-Elle ne conduit pas non plus à réduire la réalité aux descriptions qui en sont produites. Les pratiques descriptives rencontrent des contraintes qui ne dépendent pas simplement de la manière dont elles les interprètent. Ces contraintes peuvent mettre en échec une prévision, limiter une intervention ou conduire à réviser une description.
+Une distinction peut se révéler insuffisante. Une catégorie peut ne pas convenir à un cas rencontré. Un instrument peut produire des résultats ambigus ou ne pas permettre de traiter le problème auquel il était destiné.
 
-L'examen porte précisément sur les relations entre les descriptions, leurs appuis, leurs prétentions et les contraintes auxquelles elles sont confrontées.
+La démarche doit donc pouvoir réexaminer ses propres engagements à partir des cas, des objections et des résultats obtenus. Cette exigence ne signifie pas que toutes ses propositions seraient provisoires au même degré ou qu'elles devraient être constamment remises en question. Elle signifie qu'aucune ne bénéficie d'une immunité de principe.
 
-**La cohérence d'une description ne suffit pas à établir son adéquation à ce qu'elle prétend décrire.**
+## 4. Une réserve méthodologique à l'égard de l'ontologie
 
-## 4. Distinguer les contraintes, leur interprétation et leur justification
+Le caractère méthodologiquement non ontologique de Protokin précise ce que le projet ne prend pas pour point de départ.
 
-Une difficulté descriptive peut être provoquée par un événement, une observation, un résultat inattendu ou l'échec d'une opération. Mais ce qui provoque une difficulté ne détermine pas automatiquement ce qu'elle signifie ni la conclusion qu'il faut en tirer.
+Il ne part pas d'une ontologie générale qui déterminerait à l'avance les catégories fondamentales de ce qui existe. Il ne présuppose pas davantage une théorie générale qui fixerait les limites de ce que les pratiques descriptives peuvent connaître.
 
-L'enquête distingue trois questions :
+Cette réserve ne constitue pas une négation de la réalité. Elle ne signifie pas que les situations seraient réductibles aux descriptions qui en sont produites, que toute connaissance serait inaccessible ou que les descriptions seraient nécessairement enfermées dans leurs propres conditions.
 
-- Quelles contraintes sont rencontrées ?
-- Comment sont-elles caractérisées dans une pratique descriptive ?
-- Quelles raisons permettent de maintenir ou de réviser une conclusion ?
+Elle ne revient pas non plus à soutenir que toutes les descriptions se valent. Certaines affirmations peuvent être mieux étayées que d'autres ; des descriptions peuvent être confrontées à des observations, à des contraintes matérielles, à des résultats pratiques ou à des objections pertinentes.
 
-Un événement peut déjouer une attente, limiter une action ou mettre en échec une prévision. Ces effets peuvent contraindre les descriptions disponibles sans déterminer, à eux seuls, l'interprétation à retenir. Il faut examiner les observations mobilisées, les hypothèses envisagées, les explications concurrentes et les critères selon lesquels les conclusions sont évaluées.
+La réserve porte sur le statut de ces propositions dans l'enquête : elles ne doivent pas être acceptées ou rejetées à partir d'une ontologie posée préalablement. Leurs engagements et leurs conséquences peuvent être examinés à partir des descriptions qui les formulent, des éléments qu'elles mobilisent et des raisons avancées pour les soutenir.
 
-La résistance matérielle ne se réduit pas à l'interprétation qui en est donnée : elle peut limiter effectivement les opérations possibles. Mais elle ne constitue pas, à elle seule, une justification. De même, une observation peut contribuer à soutenir une affirmation sans s'interpréter ni se justifier elle-même. Sa portée dépend des conditions dans lesquelles elle est produite, des distinctions retenues et des inférences qui permettent de passer de ce qui est constaté à ce qui est affirmé.
+### 4.1. Ne pas transformer une limite rencontrée en impossibilité de principe
 
-Ces distinctions prolongent un principe général de Protokin :
+Une difficulté constatée au cours d'une enquête ne suffit pas à établir une impossibilité générale de connaître.
 
-**Une cause n'est pas une raison, une condition matérielle n'est pas un critère de validité et la genèse d'une description ne suffit pas à justifier son maintien.**
+Il faut distinguer plusieurs situations :
 
-Ces dimensions peuvent être liées dans une même enquête, mais leur articulation ne doit pas être confondue avec leur équivalence. Expliquer comment une affirmation est apparue, établir les contraintes auxquelles elle est soumise et justifier son maintien constituent des tâches distinctes. Le passage de l'une à l'autre doit être explicité et soutenu.
+- les éléments disponibles ne permettent pas actuellement de soutenir une affirmation ;
+- les instruments mobilisés ne permettent pas de trancher une question ;
+- les critères retenus sont insuffisants ou inadaptés ;
+- une proposition rencontre une objection qui oblige à la réviser ;
+- une impossibilité de principe est affirmée.
 
-## 5. Distinguer la description de ce qu'elle prétend décrire
+Ces situations n'autorisent pas les mêmes conclusions.
 
-Une description ne se confond pas avec la situation qu'elle vise. Elle sélectionne des différences, établit des relations et formule des affirmations selon des usages et des critères déterminés.
+Dire qu'une affirmation ne peut pas être justifiée à partir des éléments disponibles est différent de déclarer qu'elle ne pourra jamais l'être. Constater qu'une méthode échoue dans certaines conditions ne suffit pas à établir que toute méthode échouerait. De même, l'absence actuelle de preuve ne constitue pas, à elle seule, la preuve d'une impossibilité définitive.
 
-Elle peut changer sans que la situation change de la même manière ; inversement, une situation peut se transformer sans que les descriptions disponibles rendent compte de cette transformation.
+L'affirmation d'une limite de principe constitue elle-même une proposition dont il faudrait examiner les conditions et la portée. Protokin ne transforme donc pas les limites rencontrées dans une enquête en frontières définitives de la connaissance.
 
-L'enquête doit donc distinguer la situation examinée, les différences retenues pour la décrire, les affirmations produites et les critères employés pour les évaluer.
+### 4.2. Les engagements ontologiques comme objets d'enquête
 
-Cette distinction ne suppose pas que la situation soit accessible indépendamment de toute pratique d'identification et de description. Elle n'implique pas non plus que la situation se réduise à la description qui en est donnée.
+Le refus de prendre une ontologie préalable pour fondement ne conduit pas à écarter les questions ontologiques.
 
-Les pratiques descriptives peuvent également contribuer à transformer ce qu'elles décrivent. Une classification, une règle ou une décision peut modifier des statuts, des conduites et des relations sociales. Il faut cependant distinguer le fait de décrire une situation, celui d'agir sur elle et celui de contribuer à la constituer. Ces fonctions peuvent se combiner sans être équivalentes.
+Les pratiques descriptives peuvent affirmer qu'une entité existe, attribuer une propriété à un objet, identifier un processus ou soutenir qu'une réalité possède une certaine structure. Ces engagements peuvent être examinés.
 
-La cohérence interne d'une description ne suffit pas à établir son adéquation. Une description peut être cohérente tout en reposant sur des distinctions inadéquates, des affirmations contestables ou des critères insuffisants. Son évaluation demande d'examiner ce qu'elle prétend établir, les éléments sur lesquels elle s'appuie et les procédures par lesquelles ses affirmations peuvent être mises à l'épreuve.
+Il s'agit notamment de préciser ce qui est affirmé, quels éléments soutiennent l'affirmation, quelles conséquences en découlent et quelles procédures permettent de l'éprouver ou de la contester.
 
-Protokin ne présuppose donc ni que toute description serait séparée de son objet par une rupture infranchissable, ni que décrire reviendrait simplement à reproduire la situation. Il examine les conditions dans lesquelles une pratique descriptive identifie son objet, soutient ses affirmations et éprouve leur adéquation.
+Les propositions ontologiques ne sont donc ni acceptées ni disqualifiées par principe. Elles deviennent des objets possibles de l'enquête.
 
-## 6. Organiser les questions et les opérations de l'enquête
+**La réserve méthodologique de Protokin porte sur le point de départ de l'examen, non sur une négation préalable de ce qui existe.**
 
-Protokin distingue l'organisation des ressources du projet, les orientations selon lesquelles une situation peut être examinée et les opérations par lesquelles une difficulté est traitée.
+## 5. Distinguer les contraintes, les descriptions et les justifications
 
-Ces dimensions sont complémentaires, mais leurs fonctions ne doivent pas être confondues.
+Les pratiques descriptives ne construisent pas leurs objets dans des conditions entièrement libres. Elles rencontrent des contraintes matérielles, des événements, des observations et des résultats qui peuvent limiter leurs possibilités d'action ou mettre en difficulté leurs descriptions.
 
-### 6.1. Les orientations de l'examen
+Mais ce qui provoque une difficulté ne détermine pas automatiquement l'interprétation à retenir ni la conclusion à défendre.
 
-Une orientation indique sous quel rapport une situation, une pratique, une opération ou un résultat est examiné. Elle permet de préciser les questions pertinentes à propos d'un même élément, sans préjuger du travail nécessaire pour y répondre.
+Il faut distinguer trois dimensions :
 
-Protokin présente actuellement quatre orientations de référence :
+- **Les contraintes rencontrées** : événements, propriétés, résistances et conditions qui affectent une pratique.
+- **Leur caractérisation descriptive** : observations, catégories et relations par lesquelles la pratique les identifie et les interprète.
+- **La justification des conclusions** : raisons, critères et inférences mobilisés pour soutenir ou réviser les affirmations produites.
 
-- **Condition** : dans quelles conditions et sous quelles contraintes la situation ou la pratique se déroule-t-elle ?
-- **Relation** : quelles dépendances, relations et médiations doivent être examinées entre les éléments concernés ?
-- **Fonction** : quel rôle une distinction, une catégorie ou une description exerce-t-elle dans la pratique considérée ?
-- **Justification** : selon quels critères, quelles raisons et quelles inférences une description ou une conclusion peut-elle être défendue, contestée ou révisée ?
+Ces dimensions peuvent dépendre les unes des autres. Elles ne sont pas pour autant interchangeables.
 
-Ces orientations ne désignent ni quatre composantes de toute réalité ni quatre étapes successives de l'enquête. Elles ne constituent pas non plus une classification exhaustive des questions possibles. Elles permettent de différencier des rapports d'examen qui peuvent être articulés sans être confondus.
+Une résistance matérielle peut limiter effectivement une opération sans constituer, à elle seule, une justification. Une observation peut contribuer à soutenir une affirmation sans déterminer entièrement son interprétation. Une explication peut rendre compte de l'apparition d'une description sans suffire à justifier son maintien.
 
-Elles peuvent être mobilisées à différents moments de l'enquête, selon la difficulté rencontrée. Leur nombre et leur formulation restent révisables si l'examen des pratiques descriptives fait apparaître un rapport qui ne peut pas être suffisamment pris en compte par les orientations existantes.
+Il faut ainsi éviter plusieurs conversions :
 
-### 6.2. Les opérations de l'enquête
+- une cause n'est pas une raison ;
+- une condition matérielle n'est pas automatiquement un critère de validité ;
+- la genèse d'une description ne suffit pas à justifier son maintien ;
+- la cohérence d'un ensemble d'affirmations ne garantit pas leur adéquation ;
+- la pluralité des descriptions ne suffit pas à établir leur équivalence.
 
-L'architecture fonctionnelle de l'enquête organise les opérations susceptibles de contribuer au traitement d'une difficulté :
+Le principe général peut être formulé ainsi :
 
-**Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter**
+**Continuité des dépendances, discontinuité des fonctions, non-conversion.**
 
-Cette chaîne est un repère fonctionnel, non une procédure linéaire obligatoire. Une enquête peut revenir sur une distinction, reprendre ses appuis, examiner une relation ou reformuler son problème de départ.
+L'enquête cherche à établir les relations pertinentes entre les dimensions d'une situation sans déduire de leur dépendance une identité de fonction. Un passage d'une dimension à une autre peut être nécessaire, mais il doit être explicité et soutenu.
 
-Les opérations peuvent se recouvrir partiellement, être mobilisées conjointement ou ne pas toutes être nécessaires dans un cas donné.
+## 6. Une architecture au service de l'enquête
 
-Leur fonction est de permettre un examen différencié des difficultés descriptives : préciser le problème, établir des appuis, construire des distinctions, examiner des relations, organiser une configuration descriptive, soutenir des conclusions, reconstituer un cheminement ou redélimiter l'enquête lorsque cela devient nécessaire.
+L'examen des pratiques descriptives demande de distinguer plusieurs types de ressources. Protokin ne les organise pas comme les étapes d'une procédure universelle, mais comme des composantes susceptibles d'être mobilisées en fonction du problème rencontré.
 
-Les opérations Relier et Justifier peuvent notamment conduire à expliciter les inférences matérielles par lesquelles une pratique passe d'une observation à une conclusion pratique ou théorique. Elles permettent alors d'examiner les prémisses mobilisées, les conditions de recevabilité de la transition et les raisons de maintenir la conclusion.
+Trois plans doivent notamment être différenciés.
 
-Elles ne réduisent cependant ni toutes les relations à des inférences ni toute justification à la seule explicitation d'un passage entre contenus.
+**L'organisation documentaire** concerne les ressources du projet, leur fonction et leurs relations dans le corpus. Elle permet de situer les pages, de repérer leurs dépendances et d'éviter que plusieurs documents remplissent indistinctement la même fonction.
 
-### 6.3. Les fonctions transversales et les instruments d'épreuve
+**L'architecture fonctionnelle de l'enquête** concerne les ressources mobilisées pour examiner une difficulté : catégories, opérations, orientations, fonctions transversales et instruments d'épreuve. Ces composantes ne forment pas une succession obligatoire. Elles permettent de différencier les travaux nécessaires et de déterminer ceux qui doivent être repris.
 
-Certaines fonctions peuvent intervenir dans plusieurs opérations et dans différents moments de l'enquête. Temporaliser, Expliquer, Auditer, Réfléchir et Éprouver permettent notamment d'examiner les transformations, les dépendances, les présupposés et les résultats obtenus.
+**La conduite d'une enquête** concerne leur mobilisation dans une situation déterminée : reformuler le problème, identifier ce qui reste à établir, choisir une reprise et apprécier si les conclusions peuvent être défendues au regard de l'objectif poursuivi.
 
-Les instruments d'épreuve, tels que la substitution, l'examen de cas, la comparaison et la reprise, permettent de confronter concrètement les distinctions, les relations et les conclusions aux difficultés qu'elles doivent traiter.
+Ces plans sont liés, mais ils ne remplissent pas la même fonction. L'organisation du corpus ne décrit pas le déroulement d'une enquête ; l'architecture fonctionnelle ne constitue pas une théorie générale du réel ; les repères pratiques ne remplacent pas l'examen des problèmes particuliers.
 
-Ces ressources ne constituent pas des étapes supplémentaires de la chaîne. Elles contribuent à contrôler les résultats et à déterminer si une opération, une distinction ou une formulation doit être maintenue ou reprise.
+Les pages suivantes développent séparément ces dimensions :
 
-Pour approfondir ces distinctions, voir l'[architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) et l'[orientation de l'examen](fr/orientation-de-l-examen.md).
+- [Architecture du projet](fr/architecture-projet.md) — Organisation des ressources documentaires et de leurs relations.
+- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Composantes fonctionnelles mobilisées dans l'examen.
+- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Rapports sous lesquels une situation, une pratique ou un résultat peut être examiné.
+- [Conduire une enquête](fr/conduire-une-enquete.md) — Repères pratiques pour choisir les opérations et les reprises pertinentes.
 
-### 6.4. L'organisation du projet
+## 7. Portée et limites de la démarche
 
-L'architecture du projet organise les ressources documentaires et conceptuelles de Protokin. Elle précise la fonction des pages et leurs relations afin que le corpus reste intelligible et révisable.
+Protokin cherche à rendre examinables les pratiques par lesquelles des différences sont établies, des descriptions produites et des conclusions soutenues.
 
-Elle ne décrit ni le déroulement d'une enquête particulière ni une hiérarchie des notions.
+Il ne prétend pas fournir une description exhaustive de toutes les pratiques humaines, une classification définitive de leurs régimes ou une méthode unique applicable à toute difficulté. Les catégories et les opérations proposées sont des ressources d'enquête dont la pertinence dépend des problèmes traités.
 
-L'organisation documentaire, les orientations de l'examen et les opérations de l'enquête remplissent donc trois fonctions distinctes. Leur articulation permet de rendre le projet lisible sans transformer son architecture en théorie générale du réel ou en procédure universelle.
+Il ne garantit pas non plus qu'une enquête aboutira toujours à une conclusion déterminée. L'examen peut conduire à maintenir une description, à la corriger, à distinguer des questions jusque-là confondues, à constater une incompatibilité ou à reconnaître que les éléments disponibles ne permettent pas de trancher.
 
-Voir l'[architecture du projet](fr/architecture-projet.md).
+Ce dernier résultat n'est pas nécessairement un échec. Il peut préciser ce qui manque, pourquoi cela importe et dans quelles conditions l'enquête pourrait reprendre.
 
-## 7. Une démarche réflexive et révisable
+Enfin, la révisabilité du projet ne signifie pas que toutes ses propositions se valent ou qu'aucune conclusion ne peut être stabilisée. Elle signifie que la portée d'une conclusion dépend des éléments et des raisons qui la soutiennent, et qu'une objection pertinente ou une situation nouvelle peut conduire à la réexaminer.
 
-Protokin mobilise lui-même des distinctions, des catégories et des critères pour examiner les pratiques descriptives. Ses propres instruments ne sont donc pas soustraits à l'enquête.
-
-Une distinction peut se révéler insuffisante, une catégorie mal délimitée ou une méthode inadaptée au problème traité. Les instruments employés doivent pouvoir être examinés à partir de leurs usages, de leurs résultats et des difficultés qu'ils laissent subsister.
-
-Les cas, les substitutions, les comparaisons et les objections peuvent confirmer la portée d'une distinction, en révéler les limites ou conduire à la reformuler.
-
-Cette révision n'implique pas que toutes les descriptions se valent ni que toute distinction doive être constamment remise en question. Elle demande que les propositions soient évaluées selon les problèmes qu'elles traitent, les éléments disponibles, les critères pertinents et les objections auxquelles elles doivent répondre.
-
-La démarche ne dispose pas non plus d'une procédure extérieure qui garantirait définitivement la pertinence de ses propres catégories. Ses instruments doivent rester disponibles pour un examen comparable à celui qu'ils permettent d'appliquer aux autres pratiques descriptives.
-
-Le corpus lui-même reste révisable. Une page peut devoir être précisée, déplacée, fusionnée ou supprimée si sa fonction devient redondante ou si ses engagements ne sont plus compatibles avec ceux que le projet retient.
-
-La cohérence éditoriale facilite le contrôle des propositions ; elle ne remplace ni leur justification ni leur mise à l'épreuve.
-
-## Conclusion
+## Synthèse
 
 Protokin est une démarche d'enquête pragmatiste, inférentialiste, réflexive et méthodologiquement non ontologique sur les pratiques descriptives.
 
-Il part des difficultés rencontrées dans ces pratiques et examine les conditions, les relations, les fonctions et les justifications pertinentes pour les traiter. Il distingue ces dimensions sans les isoler et sans présupposer que leur articulation doit conduire à une réponse déterminée d'avance.
+Son travail est de second ordre : il examine les conditions, les fonctions et les transformations par lesquelles ces pratiques produisent des descriptions, établissent des différences, construisent des relations et soutiennent leurs conclusions.
 
-Protokin ne prend pas une ontologie générale pour point de départ et ne prétend pas déterminer définitivement les limites de la connaissance. Les questions ontologiques et les prétentions des sciences à connaître la réalité ne sont pas écartées : elles peuvent être examinées à partir des descriptions qui les formulent, des engagements qu'elles impliquent et des raisons avancées pour les soutenir.
+Il ne prend pas une ontologie générale pour point de départ et ne transforme pas les limites rencontrées dans une enquête en impossibilités de principe. Il n'en déduit ni que la réalité serait réductible aux descriptions ni que toutes les descriptions seraient équivalentes.
 
-Le projet ne transforme pas une limite rencontrée dans une enquête en impossibilité de principe. Il examine les éléments qui permettent d'établir une limite, la portée de cette conclusion et les conditions dans lesquelles elle pourrait être réexaminée.
-
-Son objectif est de comprendre comment des pratiques rendent certaines différences descriptibles, discutables, justifiables, stabilisables, contestables et révisables. Il s'agit d'examiner ce que ces pratiques permettent d'établir, les limites de leurs conclusions et les conditions de leur adéquation à ce qu'elles prétendent décrire.
+L'enjeu est d'examiner les dépendances entre les pratiques, leurs appuis et leurs contraintes sans confondre leurs fonctions. Les descriptions doivent pouvoir être confrontées à ce qu'elles prétendent établir, aux raisons qui les soutiennent et aux difficultés qui peuvent conduire à les réviser.
 
 **La cohérence d'une description ne suffit pas à établir son adéquation à ce qu'elle prétend décrire.**
-
-## Pour poursuivre
-
-- [Architecture du projet](fr/architecture-projet.md) — Organisation des ressources documentaires et conceptuelles.
-- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Opérations et possibilités de reprise de l'enquête.
-- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Rapports sous lesquels une situation, une pratique ou un résultat peut être examiné, à partir des orientations actuellement disponibles.
-- [La chaîne principale de l'enquête](fr/la-chaine-principale-de-l-enquete.md) — Présentation des opérations de référence.
-- [Conduire une enquête](fr/conduire-une-enquete.md) — Repères pratiques pour mobiliser les ressources de l'enquête.
-- [Inférence matérielle](fr/inference-materielle.md) — Conséquences inférentielles associées aux contenus.
-- [Redevabilité matérielle](fr/redevabilite-materielle.md) — Rapport entre résistance matérielle, révision et justification.
