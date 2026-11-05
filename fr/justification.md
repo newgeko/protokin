@@ -98,7 +98,9 @@ Ces distinctions n’impliquent pas que toutes les descriptions se valent. Elles
 
 ## 8. Place dans l’enquête de Protokin
 
-Dans la quadripartition, la **Justification** désigne l’orientation qui examine selon quels critères une description ou une conclusion peut être défendue, contestée ou révisée.
+L’orientation Justification permet d’examiner selon quels critères, à partir de quelles raisons et dans quelles conditions une description ou une conclusion peut être défendue, contestée ou révisée.
+
+Elle ne désigne ni une opération unique ni une phase obligatoire de l’enquête. Elle indique le rapport sous lequel les raisons et les exigences de justification deviennent pertinentes pour le problème examiné.
 
 Dans l’architecture fonctionnelle, **Justifier** est une opération de l’enquête : elle examine les raisons et les critères mobilisés, sans confondre la genèse, la fonction et la validité d’une description.
 
@@ -117,6 +119,5 @@ Pour poursuivre :
 - [Raison](fr/raison.md)
 - [Critère](fr/critere.md)
 - [Espace des raisons](fr/espace-des-raisons.md)
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
 - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
 - [Justifier](fr/justifier.md)
