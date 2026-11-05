@@ -172,12 +172,14 @@ L’exemple montre que la désignation située, la reprise discursive et l’év
 
 La déixis peut être examinée lorsque l’interprétation d’une expression dépend de la situation d’énonciation, lorsque plusieurs éléments peuvent être désignés ou lorsque la continuité de l’identification devient incertaine.
 
-Selon le problème rencontré, plusieurs orientations de la quadripartition peuvent être pertinentes :
+L’examen d’une expression déictique peut être orienté par différentes questions :
 
-- **Condition** : quelles circonstances matérielles, corporelles ou techniques permettent la désignation et affectent son interprétation ?
-- **Relation** : comment l’expression, le geste, la situation et l’élément visé sont-ils mis en rapport ?
-- **Fonction** : quel rôle la désignation joue-t-elle dans la pratique considérée ?
-- **Justification** : quels éléments permettent de défendre ou de contester l’identification et les affirmations formulées à son sujet ?
+- Dans quelles conditions l’expression permet-elle d’identifier ce dont il est question ?
+- Quelles relations entretient-elle avec la situation d’énonciation et les autres éléments du discours ?
+- Quelle fonction remplit-elle dans la pratique considérée ?
+- Quelles raisons permettent de défendre l’identification proposée ?
+
+Ces questions ne forment pas une classification exhaustive des phénomènes déictiques. Elles permettent de préciser la difficulté rencontrée et de déterminer le travail descriptif à reprendre.
 
 Ces orientations ne constituent ni des étapes successives de l’interprétation ni quatre composantes de la déixis. Elles permettent de différencier les questions soulevées par un même usage.
 
@@ -224,6 +226,6 @@ Pour poursuivre :
 - [Référent](fr/referent.md) — Examiner l’identification et la visée de ce dont une pratique descriptive parle.
 - [Ancrer](fr/ancrer.md) — Identifier les appuis pertinents pour l’examen d’un problème.
 - [RDRD et entrée perceptive](fr/rdrd-et-entree-perceptive.md) — Examiner les dispositions de réponse différentielle et les conditions de l’entrée perceptive.
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations de l’examen.
+- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Préciser sous quel rapport une difficulté d’identification, d’attribution ou de substitution est examinée.
 - [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations mobilisables dans l’enquête.
 - [Table des matières](fr/tdm.md) — Retrouver les ressources du corpus.
