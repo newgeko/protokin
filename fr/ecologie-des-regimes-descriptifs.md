@@ -127,7 +127,7 @@ L’écologie des régimes descriptifs devient pertinente lorsque le problème e
 
 Elle peut conduire à préciser le problème, à distinguer les affirmations en présence, à examiner leurs dépendances et à évaluer les conclusions qui peuvent être tirées de leur confrontation. Elle peut également faire apparaître que les distinctions initiales sont insuffisantes et qu’il faut reprendre l’examen.
 
-La chaîne de Protokin fournit des opérations mobilisables à cette fin, sans imposer une procédure particulière à toute comparaison entre régimes. De même, la quadripartition — Condition, Relation, Fonction et Justification — peut aider à différencier les questions soulevées par une situation, sans constituer une grille exhaustive des relations possibles.
+La chaîne de Protokin fournit des opérations mobilisables à cette fin, sans imposer une procédure particulière à toute comparaison entre régimes. De même, les quatre orientations de référence — Condition, Relation, Fonction et Justification — peuvent aider à différencier les questions soulevées par une situation, sans constituer une grille exhaustive des relations possibles.
 
 L’analyse relationnelle doit enfin pouvoir être révisée. Les régimes identifiés, les relations établies et les conclusions tirées de leur comparaison restent tributaires du problème étudié et des éléments disponibles.
 
@@ -161,5 +161,5 @@ Pour poursuivre :
 - [Régime descriptif](fr/regime-descriptif.md) — examiner l’organisation d’une pratique descriptive.
 - [Identifier un régime](fr/identifier-un-regime.md) — examiner les indices permettant de caractériser un régime.
 - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — retrouver les opérations mobilisables dans l’enquête.
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — distinguer les quatre orientations de l’examen.
+- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Préciser les rapports sous lesquels une situation ou une pratique peut être examinée.
 - [Introduction générale](fr/introduction-generale.md) — retrouver le problème général auquel répond Protokin.
