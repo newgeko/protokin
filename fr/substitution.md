@@ -152,14 +152,3 @@ La substitution est le remplacement d’une expression par une autre dans un con
 Elle permet d’éprouver une équivalence, mais ne la présuppose pas. Le maintien d’un référent ne garantit ni la stabilité du contenu descriptif ni la préservation de toutes les conséquences d’une formulation.
 
 **Une substitution doit toujours être rapportée à ce qu’elle est censée préserver et aux différences qu’elle peut introduire.**
-
-Pour poursuivre :
-
-- [Inférence matérielle](fr/inference-materielle.md)
-- [Anaphore](fr/anaphore.md)
-- [Proposition](fr/proposition.md)
-- [Assertion](fr/assertion.md)
-- [Raison](fr/raison.md)
-- [Justification](fr/justification.md)
-- [Réaliser un audit](fr/realiser-un-audit.md)
-- [Comparer deux descriptions](fr/comparer-deux-descriptions.md)
