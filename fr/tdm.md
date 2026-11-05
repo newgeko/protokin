@@ -54,7 +54,7 @@ Cet ordre n’est ni une procédure obligatoire ni une progression nécessaire. 
 ### C. Distinguer et relier
 
 - [Distinguer](fr/distinguer.md) — Établir les différences nécessaires à l’examen et repérer les confusions qui empêchent de traiter le problème.
-- [Relier](fr/relier.md) — Examiner les dépendances et les relations pertinentes entre les éléments distingués.
+- [Relier](fr/relier.md) — Examiner la nature, les conditions et la portée des relations entre les éléments retenus.
 
 ### D. Configurer et justifier
 
