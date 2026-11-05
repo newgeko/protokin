@@ -105,17 +105,9 @@ Elle peut notamment contribuer à examiner :
 - les écarts entre une relation spontanément établie et une relation défendable dans la pratique ;
 - les conditions dans lesquelles une dérivation doit être réexaminée.
 
-La quadripartition permet d’orienter cet examen sans transformer ses dimensions en étapes obligatoires.
+L’examen d’une inférence combinatoire peut être orienté par les questions que soulève la composition des relations considérées : quelles conditions rendent cette combinaison possible, quelles relations sont effectivement établies, quel rôle joue la combinaison dans la pratique et quelles raisons permettent d’en défendre le résultat.
 
-**Condition** : quelles conditions d’apprentissage, quels supports et quels contextes sont pertinents ?
-
-**Relation** : quelles relations ont été apprises et quelles relations ont été dérivées ?
-
-**Fonction** : quel rôle ces relations jouent-elles dans la pratique étudiée ?
-
-**Justification** : quels éléments permettent de défendre les conclusions tirées de ces relations ?
-
-Ces questions sont distinctes. Identifier les conditions d’une dérivation n’établit pas sa correction ; décrire sa fonction ne suffit pas à la justifier ; constater sa stabilité ne garantit pas son adéquation à la situation.
+Ces questions ne constituent ni les étapes d’une procédure ni une classification exhaustive des formes d’inférence.
 
 L’inférence combinatoire est ainsi un objet d’analyse possible dans l’enquête. Elle ne constitue ni une opération obligatoire de la chaîne principale ni une garantie de validité descriptive.
 
@@ -150,6 +142,6 @@ Pour Protokin, l’enjeu est de rendre cette capacité examinable sans convertir
 
 - [Inférence formelle](fr/inference-formelle.md)
 - [Inférence matérielle](fr/inference-materielle.md)
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
+- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Préciser sous quel rapport une difficulté d’identification, d’attribution ou de substitution est examinée.
 - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
 - [Justifier](fr/justifier.md)
