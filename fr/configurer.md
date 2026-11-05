@@ -4,7 +4,7 @@
 
 **Configurer** consiste à reconstruire l’organisation pertinente des éléments, des relations et des contraintes retenus pour traiter un problème descriptif.
 
-L’opération intervient lorsque l’identification des éléments et l’examen de leurs relations ne suffisent pas à comprendre comment ils s’articulent dans une situation donnée. Elle examine les conséquences de cette organisation : ce qu’elle permet, ce qu’elle limite, les tensions qu’elle produit et les transformations qu’elle rend possibles.
+L’opération intervient lorsque l’identification des éléments et l’examen de leurs relations ne suffisent pas à comprendre comment ils s’articulent dans une situation donnée. Elle permet d’examiner les conséquences attribuées à cette organisation : ce qu’elle rend possible, ce qu’elle limite, les tensions qu’elle fait apparaître et les transformations qu’elle peut entraîner.
 
 Configurer ne consiste donc ni à juxtaposer des éléments ni à leur imposer une structure préalable. Il s’agit de proposer une organisation déterminée, contrainte par les éléments disponibles et révisable à la lumière de l’enquête.
 
@@ -14,9 +14,9 @@ Une difficulté descriptive peut persister alors que les éléments pertinents o
 
 Les relations ne produisent pas nécessairement leurs effets indépendamment les unes des autres. Leur articulation peut modifier les possibilités d’action, les conséquences d’une intervention ou la portée d’une description. Inversement, une description d’ensemble peut masquer des différences importantes, des dépendances incertaines ou des incompatibilités.
 
-Deux erreurs sont alors possibles :
+Deux difficultés doivent alors être évitées :
 
-- traiter les éléments comme s’ils pouvaient être compris indépendamment de leur organisation ;
+- examiner les éléments et les relations séparément, sans prendre en compte les conséquences de leur organisation conjointe ;
 - attribuer à l’organisation proposée une unité, une cohérence ou un pouvoir explicatif qui n’ont pas été établis.
 
 Le problème consiste à reconstruire une organisation suffisamment déterminée pour être examinée et mise à l’épreuve, sans présupposer qu’elle soit exhaustive, autonome ou explicative à elle seule.
@@ -31,13 +31,15 @@ Configurer consiste à organiser, relativement au problème examiné :
 - les conséquences attribuées à leur organisation ;
 - les incertitudes qui empêchent de tenir cette organisation pour suffisamment établie.
 
-La configuration obtenue est une proposition d’organisation. Elle doit permettre de comprendre pourquoi certains éléments doivent être examinés conjointement et quelles conséquences leur articulation peut avoir pour le problème.
+La configuration obtenue est une **proposition d’organisation**. Elle permet de comprendre pourquoi certains éléments doivent être examinés conjointement et quelles conséquences leur articulation peut avoir pour le problème traité.
 
-Cette proposition reste relative à l’enquête. Une même situation peut donner lieu à plusieurs configurations selon la difficulté examinée, les éléments retenus et les questions auxquelles il faut répondre. Ces configurations ne sont pas pour autant équivalentes : chacune doit être confrontée aux éléments disponibles et aux conséquences qu’elle permet effectivement d’établir.
+Cette proposition reste relative à l’enquête. Une même situation peut donner lieu à plusieurs configurations selon la difficulté examinée, les éléments retenus et les questions auxquelles il faut répondre. Ces configurations ne sont pas pour autant équivalentes : chacune doit être confrontée aux éléments disponibles et aux conséquences qu’elle permet effectivement d'établir.
 
 Configurer ne signifie donc pas produire une représentation complète de la situation. L’opération construit une organisation pertinente pour l’examen en cours, dont la portée et les limites doivent être explicitées.
 
-## Conditions d’activation
+Il faut à cet égard distinguer **l’opération Configurer** de **la notion de configuration**. La première désigne un travail d’enquête ; la seconde désigne une organisation déterminée d’éléments, de relations et de dépendances. Une configuration peut être l’objet de l’examen ou le résultat provisoire de l’opération. Elle ne constitue pas, par elle-même, une description exhaustive de la situation examinée.
+
+## Conditions de mobilisation
 
 Configurer devient pertinent lorsque la difficulté ne peut plus être traitée par le seul examen des éléments pris séparément ou des relations considérées isolément.
 
@@ -45,18 +47,18 @@ L’opération peut notamment être mobilisée lorsque :
 
 - plusieurs relations doivent être examinées conjointement ;
 - les effets observés dépendent de l’articulation de plusieurs éléments ;
-- une modification locale semble transformer les possibilités offertes par l’ensemble ;
+- une modification locale semble transformer les possibilités offertes par l’organisation ;
 - plusieurs organisations possibles conduisent à des conséquences différentes ;
 - une description d’ensemble masque des différences, des tensions ou des dépendances incertaines ;
 - une conclusion repose sur une organisation dont les éléments ou les relations restent insuffisamment explicités.
 
-Ces conditions ne constituent pas les étapes d’une procédure. Elles signalent des difficultés auxquelles l’opération Configurer peut répondre.
+Ces situations signalent des difficultés auxquelles Configurer peut répondre. Elles ne constituent ni les étapes d’une procédure ni les conditions nécessaires de toute enquête.
 
-Configurer n’est pas obligatoire dans toute enquête. Sa pertinence dépend du problème : si l’examen des relations suffit à traiter la difficulté, une reconstruction plus large de leur organisation n’est pas nécessairement utile.
+Configurer n’est pas obligatoire. Si l’examen des relations suffit à traiter la difficulté, une reconstruction plus large de leur organisation n’est pas nécessairement utile.
 
 ## Questions d’examen
 
-L’opération peut être conduite à partir de questions adaptées à la difficulté rencontrée.
+Les questions suivantes permettent de conduire l’opération en fonction du problème rencontré. Elles ne forment pas une liste à appliquer intégralement.
 
 ### 1. Quels éléments sont pertinents pour le problème ?
 
@@ -66,13 +68,13 @@ La sélection ne garantit pas que tous les éléments pertinents aient été ide
 
 ### 2. Quelles relations organisent ces éléments ?
 
-Reprendre les relations établies par l’opération Relier et préciser comment elles interviennent conjointement dans l’organisation proposée.
+Reprendre les relations établies ou proposées et préciser comment elles interviennent conjointement dans l’organisation examinée.
 
 Ne pas confondre une relation observée avec une dépendance nécessaire, ni une succession avec une relation causale. La nature de chaque dépendance doit être explicitée lorsqu’elle importe pour la conclusion.
 
 ### 3. Quelles contraintes affectent cette organisation ?
 
-Identifier les conditions qui rendent certaines opérations possibles, les limitent ou les empêchent. Examiner aussi les contraintes qui pourraient modifier les relations retenues.
+Identifier les conditions qui rendent certaines opérations possibles, les limitent ou les empêchent. Examiner également les contraintes susceptibles de modifier les relations retenues.
 
 Une condition peut affecter une organisation sans suffire à expliquer son fonctionnement ni à justifier les conclusions qu’on en tire.
 
@@ -92,9 +94,7 @@ Une difficulté persistante peut indiquer que la configuration est insuffisante,
 
 Examiner ce qui se passerait si un élément était retiré, remplacé ou transformé, ou si une relation était modifiée.
 
-La comparaison et la substitution peuvent aider à évaluer la pertinence attribuée aux éléments et aux dépendances. Leurs résultats doivent cependant être interprétés dans les limites de la comparaison : une différence observée ne prouve pas à elle seule que la configuration proposée est exhaustive ou que la relation testée constitue une cause unique.
-
-Ces questions ne forment pas une liste à appliquer intégralement. L’enquête retient celles qui permettent de traiter le problème effectivement rencontré.
+La comparaison et la substitution peuvent aider à évaluer la pertinence attribuée aux éléments et aux dépendances. Leurs résultats doivent toutefois être interprétés dans les limites de l’examen : une différence observée ne prouve pas, à elle seule, que la configuration proposée est exhaustive ou que la relation testée constitue une cause unique.
 
 ## Exemple d’application
 
@@ -110,39 +110,39 @@ Cet examen ne démontre pas que le système possède une organisation unique ni 
 
 ## Articulation avec les autres opérations
 
-Configurer prend place dans l’enquête sans constituer une étape obligatoire ou irréversible.
+Configurer s’inscrit dans l’enquête sans constituer une étape obligatoire ou irréversible.
 
-- **Délimiter** précise le problème et son périmètre provisoire.
-- **Ancrer** identifie les observations, les traces, les données et les contraintes pertinentes pour l’examen.
+Sa différence avec les opérations voisines tient à la nature du travail accompli :
+
 - **Distinguer** établit les différences nécessaires au traitement du problème.
 - **Relier** examine les relations et les dépendances entre les éléments retenus.
 - **Configurer** reconstruit l’organisation pertinente de ces éléments et de leurs dépendances.
 - **Justifier** examine les raisons, les prémisses et les critères permettant de soutenir, de contester ou de réviser une description ou une conclusion.
-- **Reconstituer** rend intelligible l’enquête à partir des éléments, des opérations et des transformations pertinents.
-- **Redélimiter** révise la formulation ou le périmètre du problème lorsque les résultats le rendent nécessaire.
 
-Cette chaîne constitue un repère fonctionnel, non un ordre obligatoire. Une enquête peut reprendre une opération antérieure, en mobiliser plusieurs conjointement ou commencer par une difficulté qui appelle directement l’examen d’une configuration.
+Cette distinction ne signifie pas que les opérations sont indépendantes. Configurer peut s’appuyer sur des distinctions et des relations déjà examinées. Son résultat peut, à son tour, conduire à reprendre ces opérations ou à en mobiliser d’autres.
 
-Configurer peut notamment révéler une relation insuffisamment établie, une distinction inadéquate ou une condition négligée. La reprise de l’enquête dépend alors de la nature de cette difficulté. Elle ne conduit pas automatiquement à Redélimiter : il faut d’abord déterminer si le problème lui-même doit être reformulé ou si une opération particulière doit être reprise.
+La chaîne principale de l’enquête — Délimiter, Ancrer, Distinguer, Relier, Configurer, Justifier, Reconstituer, Redélimiter — constitue un repère fonctionnel, non un ordre obligatoire. Une enquête peut reprendre une opération antérieure, en mobiliser plusieurs conjointement ou commencer par une difficulté qui appelle directement l’examen d’une configuration.
 
-## Articulation avec la quadripartition
+Configurer peut notamment révéler une relation insuffisamment établie, une distinction inadéquate ou une condition négligée. La reprise dépend alors de la nature de cette difficulté. Elle ne conduit pas automatiquement à Redélimiter : il faut déterminer si le problème lui-même doit être reformulé ou si une opération particulière doit être reprise.
 
-La quadripartition — **Condition, Relation, Fonction, Justification** — fournit des orientations pour examiner une situation ou une configuration. Elle ne constitue ni une opération supplémentaire ni une grille obligatoire à remplir.
+Pour la présentation générale des opérations et de leurs articulations, voir [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) et [La chaîne principale de l’enquête](fr/la-chaine-principale-de-l-enquete.md).
 
-Au cours de Configurer, ces orientations peuvent aider à préciser la difficulté rencontrée :
+## Orientations de l’examen
 
-- **Condition :** quelles contraintes et possibilités affectent l’organisation examinée ?
-- **Relation :** quelles dépendances sont établies et comment s’articulent-elles ?
-- **Fonction :** quel rôle l’organisation permet-elle effectivement à certains éléments ou à certaines descriptions d’exercer ?
-- **Justification :** quelles raisons permettent de défendre les choix retenus et les conclusions formulées ?
+Une orientation précise sous quel rapport une situation ou une configuration est examinée. Elle ne constitue ni une opération supplémentaire ni une grille obligatoire à remplir.
 
-Toutes ces orientations ne sont pas nécessairement pertinentes dans chaque cas. Leur mobilisation dépend de la question à résoudre.
+Au cours de Configurer, les orientations actuellement développées dans Protokin peuvent aider à préciser les questions pertinentes :
 
-Il faut notamment distinguer l’organisation reconstruite de la fonction qu’elle permet d’exercer, et la fonction observée de la justification des conclusions qu’on en tire. Le fait qu’une organisation produise un résultat attendu ne suffit pas à établir que la description de cette organisation est adéquate ou que les choix qui la gouvernent sont justifiés.
+- **Condition** : quelles contraintes et possibilités affectent l’organisation examinée ?
+- **Relation** : quelles dépendances sont établies et comment s’articulent-elles ?
+- **Fonction** : quel rôle l’organisation permet-elle effectivement à certains éléments ou à certaines descriptions d’exercer ?
+- **Justification** : quelles raisons permettent de défendre les choix retenus et les conclusions formulées ?
 
-La quadripartition aide ainsi à préciser ce qui doit être examiné, mais elle ne remplace ni les opérations de l’enquête ni les instruments employés pour éprouver leurs résultats.
+Toutes ces orientations ne sont pas nécessairement pertinentes dans chaque cas. Leur mobilisation dépend de la difficulté rencontrée. Elles ne correspondent pas terme à terme aux opérations : une même opération peut contribuer à plusieurs orientations, et une orientation peut demander plusieurs opérations.
 
-Voir [Quadripartition — Le présent descriptif de l’enquête](fr/quadripartition-de-l-orientation.md).
+Il faut notamment distinguer l’organisation reconstruite de la fonction qu’elle permet d’exercer, ainsi que la fonction observée de la justification des conclusions qu’on en tire. Le fait qu’une organisation produise un résultat attendu ne suffit pas à établir que sa description est adéquate ou que les choix qui la gouvernent sont justifiés.
+
+Pour la définition de ces orientations, voir [Orientation de l’examen](fr/orientation-de-l-examen.md).
 
 ## Instruments d’épreuve et révision
 
@@ -153,28 +153,26 @@ Selon le problème, l’enquête peut mobiliser :
 - **la comparaison**, pour examiner des situations dont certaines caractéristiques diffèrent ;
 - **la substitution**, pour tester ce qui change lorsqu’un élément ou une relation est remplacé ;
 - **l’examen de cas**, pour confronter l’organisation proposée à des situations particulières ;
-- **la reprise des observations et des distinctions**, lorsqu’une conséquence attendue n’est pas observée ou qu’une difficulté nouvelle apparaît.
+- **la reprise**, lorsqu’une conséquence attendue n’est pas observée ou qu’une difficulté nouvelle apparaît.
 
 Ces instruments ne remplissent pas tous la même fonction et ne garantissent pas à eux seuls la validité d’une conclusion. Leur pertinence dépend de la question examinée et des résultats qu’ils permettent effectivement d’établir.
 
 Une configuration doit être révisée lorsque l’examen révèle une relation manquante, une contrainte négligée, une distinction inadéquate ou une conséquence incompatible avec les éléments disponibles. La révision peut porter sur une partie de l’organisation sans obliger à reprendre l’ensemble de l’enquête.
 
-Elle peut également montrer que la difficulté ne relève pas principalement de Configurer. Dans ce cas, il convient de reprendre l’opération concernée plutôt que de maintenir artificiellement le problème dans le cadre d’une configuration insuffisante.
+Elle peut également montrer que la difficulté ne relève pas principalement de Configurer. Il convient alors de reprendre l’opération concernée plutôt que de maintenir artificiellement le problème dans le cadre d’une configuration insuffisante.
 
-## Ce que Configurer permet d’établir
+## Portée et limites des résultats
 
-L’opération permet de préciser :
+Configurer permet de préciser :
 
 - quels éléments et quelles relations sont pertinents pour le problème ;
 - comment les dépendances retenues s’organisent dans la situation examinée ;
 - quelles contraintes affectent cette organisation ;
-- quelles conséquences peuvent être attribuées à son organisation, avec quel degré d’établissement ;
+- quelles conséquences peuvent être attribuées à cette organisation, et avec quel degré d’établissement ;
 - quelles incertitudes et quelles configurations concurrentes doivent encore être examinées ;
 - quelles modifications pourraient conduire à réviser l’organisation proposée.
 
 Ces résultats doivent rester proportionnés aux éléments disponibles. Configurer permet de rendre une organisation examinable et de préparer l’évaluation de ses conséquences ; l’opération ne garantit pas que la reconstruction soit complète ni que les conclusions qui en découlent soient justifiées.
-
-## Ce que Configurer n’établit pas
 
 Configurer ne suffit pas à établir :
 
@@ -188,7 +186,7 @@ Configurer ne suffit pas à établir :
 - que les fonctions observées sont valides ou justifiées ;
 - que l’organisation restera stable lorsque les conditions changent.
 
-Ces limites ne rendent pas l’opération inutile. Elles précisent le statut de ses résultats : une configuration est une reconstruction située, défendable dans certaines limites et révisable lorsque de nouveaux éléments ou de nouvelles épreuves conduisent à la remettre en question.
+Ces limites précisent le statut des résultats : une configuration est une reconstruction située, défendable dans certaines limites et révisable lorsque de nouveaux éléments ou de nouvelles épreuves conduisent à la remettre en question.
 
 ## Synthèse
 
@@ -202,7 +200,9 @@ Configurer prépare l’examen des fonctions et la justification des conclusions
 
 ## Pour poursuivre
 
-- [Configuration — Organisation et dépendances](fr/configuration.md) : définition générale de la notion de configuration.
-- [Relier](fr/relier.md) : examen des relations et des dépendances entre les éléments.
-- [Quadripartition — Le présent descriptif de l’enquête](fr/quadripartition-de-l-orientation.md) : orientations de l’examen.
-- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) : articulation générale des opérations, des orientations, des fonctions transversales et des instruments d’épreuve.
+- [Configuration](fr/configuration.md) — Définition générale de la notion de configuration.
+- [Relier](fr/relier.md) — Examen des relations et des dépendances entre les éléments.
+- [Justifier](fr/justifier.md) — Examen des raisons et des critères qui soutiennent les conclusions.
+- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Articulation des opérations, des orientations, des fonctions transversales et des instruments d’épreuve.
+- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Rapports sous lesquels une situation ou une pratique peut être examinée.
+- [Table des matières](fr/tdm.md) — Navigation dans le corpus.
