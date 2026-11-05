@@ -95,14 +95,9 @@ La notion de support devient pertinente lorsque le problème porte sur les moyen
 
 Elle peut intervenir lors de l’ancrage, pour identifier les appuis disponibles, mais aussi dans l’examen des relations entre personnes et dispositifs, des fonctions exercées ou des justifications avancées. Elle n’occupe pas une position fixe dans la chaîne de l’enquête : sa pertinence dépend du problème examiné.
 
-La quadripartition permet de préciser les questions associées au support :
+L’examen d’un support descriptif peut porter sur les conditions matérielles de production et de conservation, les relations qu’il entretient avec les autres éléments d’une pratique, la fonction qu’il remplit dans la stabilisation et la transmission des descriptions, ainsi que les raisons qui permettent de lui accorder une valeur probante ou documentaire.
 
-- **Condition** : quelles contraintes matérielles, techniques ou institutionnelles affectent son fonctionnement ?
-- **Relation** : de quels autres dispositifs, pratiques ou compétences dépend-il ?
-- **Fonction** : que permet-il effectivement de conserver, de retrouver ou de transformer ?
-- **Justification** : que permettent d’établir les ressources qu’il fournit, et selon quels critères ?
-
-Ces orientations ne se confondent pas. Une contrainte technique peut expliquer l’absence d’une donnée sans justifier la conclusion tirée de cette absence. De même, une fonction de conservation peut expliquer la disponibilité d’une information sans établir sa fiabilité.
+Ces questions sont mobilisées selon le problème rencontré. Elles ne définissent pas les composantes nécessaires de tout support descriptif.
 
 L’examen du support contribue ainsi à l’enquête sans remplacer l’analyse des descriptions, des critères et des conclusions.
 
