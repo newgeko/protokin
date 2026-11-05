@@ -108,16 +108,3 @@ Un support descriptif contribue au maintien et à la mobilisation de ressources 
 Son rôle ne se déduit ni de sa seule présence ni de sa forme matérielle. Il doit être établi à partir des usages, des dépendances et des contraintes observables.
 
 **Un support rend certaines opérations descriptives possibles ou plus accessibles ; il ne détermine pas à lui seul la description produite ni la validité des conclusions qui en sont tirées.**
-
----
-
-Pour poursuivre :
-
-- [Ancrer](fr/ancrer.md)
-- [Configuration sémiotique](fr/configuration-semiotique.md)
-- [Configuration descriptive](fr/configuration-descriptive.md)
-- [Description](fr/description.md)
-- [Objet descriptif](fr/objet-descriptif.md)
-- [Référent](fr/referent.md)
-- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
