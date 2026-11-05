@@ -109,7 +109,7 @@ Ces questions peuvent être rapportées aux orientations **Condition, Relation, 
 
 L’enquête peut commencer par un indice, réviser l’hypothèse qui lui donnait sa pertinence ou revenir sur les conditions dans lesquelles il a été observé. La fonction d’indice reste ainsi révisable au cours de l’examen.
 
-Pour le cadre général des opérations de l’enquête, voir [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md). Pour les quatre orientations, voir [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md).
+Pour les différents rapports sous lesquels une difficulté liée à l’indice peut être examinée, voir [Orientation de l’examen](fr/orientation-de-l-examen.md).
 
 ## 7. Limites et non-conversions
 
