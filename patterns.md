@@ -131,7 +131,6 @@ Les rubriques suivantes forment une grille de travail, et non un sommaire obliga
 - **Articulation** : relations pertinentes avec les autres ressources.
 - **Épreuve** : cas, comparaison, substitution ou examen permettant de mettre une proposition à l’épreuve.
 - **Limites** : conclusions qui ne sont pas autorisées ou restent indéterminées.
-- **Renvois** : ressources utiles pour poursuivre l’examen.
 
 Ces éléments peuvent être regroupés, déplacés ou omis lorsqu’ils ne contribuent pas à la fonction de la page.
 
@@ -196,7 +195,6 @@ Présenter le projet, expliciter son problème de départ ou rendre intelligible
 3. Orientation ou organisation présentée.
 4. Distinctions structurantes.
 5. Portée et limites.
-6. Renvois utiles.
 
 **Différenciation des fonctions**
 
@@ -239,7 +237,6 @@ Définir une opération, préciser les problèmes auxquels elle répond et déte
 7. Limites.
 8. Articulation avec les autres opérations.
 9. Exemple, si nécessaire.
-10. Renvois.
 
 Les opérations concernées sont :
 
@@ -276,7 +273,6 @@ Définir une notion, expliquer le problème auquel elle répond et préciser son
 6. Exemple discriminant.
 7. Limites.
 8. Questions ouvertes ou références, si nécessaire.
-9. Renvois.
 
 **Points de vigilance**
 
@@ -309,7 +305,6 @@ Analyser une fonction langagière ou inférentielle et préciser son rôle dans 
 6. Conséquences et engagements.
 7. Conditions de correction ou de justification.
 8. Inférences non autorisées, si pertinentes.
-9. Renvois.
 
 **Points de vigilance**
 
@@ -375,7 +370,6 @@ Examiner les relations entre plusieurs notions, descriptions ou régimes sans pr
 6. Cas discriminants.
 7. Conséquences pour l’enquête.
 8. Limites.
-9. Renvois.
 
 **Points de vigilance**
 
@@ -409,7 +403,6 @@ Mettre des distinctions, des propositions ou des instruments à l’épreuve d�
 7. Résultats des épreuves.
 8. Limites de l’interprétation.
 9. Enseignements pour l’enquête.
-10. Renvois.
 
 **Points de vigilance**
 
@@ -447,7 +440,6 @@ Chaque entrée doit fournir, selon les besoins :
 2. une définition concise ;
 3. les distinctions essentielles ;
 4. la page de référence ;
-5. les renvois complémentaires.
 
 Le lexique est un instrument de consultation, non une répétition intégrale des développements théoriques. Il faut éviter les définitions circulaires et signaler les termes provisoires ou redéfinis lorsque cela est utile.
 
