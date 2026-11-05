@@ -116,12 +116,9 @@ Le caractère situé d’une explication ne la rend pas arbitraire. Il impose de
 
 Dans Protokin, l’explication est examinée à partir du problème descriptif auquel elle répond. Elle peut mobiliser des conditions matérielles, des relations, des fonctions ou des raisons, sans que ces dimensions soient ramenées les unes aux autres.
 
-La quadripartition de l’orientation aide à distinguer ces questions :
+L’examen d’une explication peut porter sur les conditions dans lesquelles elle est formulée, les relations qu’elle établit entre les éléments considérés, la fonction qu’elle remplit dans la pratique et les raisons qui permettent de soutenir ses conclusions.
 
-- **Condition** : quelles contraintes et possibilités sont pertinentes pour le phénomène étudié ?
-- **Relation** : quelles dépendances ou mises en rapport permettent de comprendre la situation ?
-- **Fonction** : quel rôle la configuration examinée exerce-t-elle dans la pratique ?
-- **Justification** : quelles raisons et quels critères permettent de défendre les conclusions proposées ?
+Ces questions ne se confondent pas. Une explication peut rendre compte d’un processus sans justifier les affirmations qui lui sont associées. Leur examen dépend du problème traité et ne suppose pas l’application systématique de plusieurs orientations.
 
 Ces orientations ne constituent ni une classification exhaustive des explications ni une succession obligatoire d’opérations. Leur mobilisation dépend de la difficulté rencontrée. Une explication peut appeler plusieurs de ces examens, et leurs résultats peuvent conduire à reprendre la question initiale.
 
@@ -142,5 +139,5 @@ Pour poursuivre :
 - [Motif](fr/motif.md)
 - [Image manifeste](fr/image-manifeste.md)
 - [Image scientifique](fr/image-scientifique.md)
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
+- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Préciser sous quel rapport une difficulté d’identification, d’attribution ou de substitution est examinée.
 - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
