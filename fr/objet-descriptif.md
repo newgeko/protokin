@@ -120,7 +120,9 @@ Selon le problème, l’examen peut porter sur :
 
 Ces questions ne constituent pas une procédure obligatoire. Elles indiquent des points d’examen dont la pertinence dépend de la difficulté rencontrée.
 
-La quadripartition peut aider à distinguer les conditions de l’identification, les relations entre les éléments retenus, la fonction de l’objet descriptif dans la pratique et les raisons de maintenir ou de réviser une conclusion. Elle n’impose ni quatre composantes de l’objet ni un ordre fixe d’analyse.
+L’examen d’un objet descriptif peut porter sur les conditions de son identification, les relations entre les éléments retenus pour le caractériser, la fonction qu’il remplit dans la pratique et les raisons qui permettent de maintenir ou de réviser une description.
+
+Ces questions ne définissent pas quatre composantes de l’objet descriptif. Elles permettent d’examiner les différentes opérations par lesquelles il est rendu identifiable et réutilisable.
 
 La chaîne des opérations de l’enquête permet, quant à elle, d’organiser les examens nécessaires. La présente notion ne se substitue ni à cette architecture ni aux pages qui définissent ses opérations.
 
@@ -141,5 +143,4 @@ Pour poursuivre :
 - [Configuration descriptive](fr/configuration-descriptive.md) — Examiner l’organisation des différences et des relations descriptives.
 - [Stabilisation](fr/stabilisation.md) — Analyser le maintien relatif d’une configuration à travers ses variations.
 - [Support descriptif](fr/support-descriptif.md) — Examiner les moyens de conservation, de transmission et de reprise.
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations de l’examen.
 - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations mobilisables dans l’enquête.
