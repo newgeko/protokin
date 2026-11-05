@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Repères pratiques pour conduire une enquête dans le cadre de Protokin.">
+<title>Conduire une enquête — Protokin</title>
+<style>
+:root{
+ --bg:#151a1f;--surface:#20272e;--surface2:#29323a;--line:#3b4852;
+ --text:#e7e9e7;--muted:#a5afb5;--accent:#91aebe;--ochre:#b5a078;
+ --red:#bd8580;--green:#91aa9d;--max:1280px;--reading:790px;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:5rem}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.72 Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:3px}
+a:hover{color:#c7d9e1}
+button,select{font:inherit}
+.skip{position:absolute;left:-9999px;top:1rem;background:var(--text);color:var(--bg);padding:.6rem 1rem;z-index:30}
+.skip:focus{left:1rem}
+header{border-bottom:1px solid var(--line);background:rgba(21,26,31,.97)}
+.topbar{max-width:var(--max);margin:auto;padding:1rem 2rem;display:flex;justify-content:space-between;align-items:center;gap:1rem}
+.brand{font-size:.78rem;letter-spacing:.17em;text-transform:uppercase;color:var(--muted)}
+.brand strong{color:var(--text);font-weight:650}
+.toplinks{display:flex;gap:1.2rem;font-size:.82rem}
+.toplinks a{text-decoration:none;color:var(--muted)}
+.hero{max-width:var(--max);margin:auto;padding:4.3rem 2rem 3.5rem}
+.eyebrow,.kicker,.mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
+.eyebrow,.kicker{font-size:.74rem;letter-spacing:.13em;text-transform:uppercase;color:var(--ochre)}
+h1{font-size:clamp(2.5rem,5.3vw,4.6rem);line-height:1.04;letter-spacing:-.05em;max-width:900px;margin:.8rem 0 1.2rem;font-weight:620}
+.lede{font-size:1.13rem;color:#c5cdd1;max-width:850px}
+.meta{display:flex;gap:1rem;flex-wrap:wrap;margin-top:2rem;color:var(--muted);font: .72rem ui-monospace,monospace;letter-spacing:.04em}
+.layout{max-width:var(--max);margin:auto;padding:0 2rem 5rem;display:grid;grid-template-columns:245px minmax(0,1fr);gap:4rem}
+nav.toc{position:sticky;top:1.3rem;align-self:start;max-height:calc(100vh - 2.6rem);overflow:auto;border-left:1px solid var(--line);padding:.25rem 0 .25rem 1rem}
+nav.toc .kicker{margin:0 0 .8rem}
+nav.toc a{display:block;text-decoration:none;color:var(--muted);font-size:.81rem;padding:.25rem 0}
+nav.toc a:hover{color:var(--text)}
+main{min-width:0;max-width:940px}
+section{padding:0 0 2.8rem;margin:0 0 2.8rem;border-bottom:1px solid var(--line)}
+section:last-child{border:0}
+h2{font-size:1.75rem;line-height:1.2;letter-spacing:-.025em;margin:0 0 1.3rem;font-weight:590}
+h3{font-size:1.13rem;line-height:1.35;margin:2rem 0 .6rem;color:#d9dfe2;font-weight:620}
+h4{font-size:.98rem;margin:.2rem 0 .4rem}
+p{margin:.65rem 0 1rem;max-width:var(--reading)}
+ul,ol{padding-left:1.25rem;max-width:var(--reading)}
+li{padding-left:.2rem;margin:.35rem 0}
+strong{font-weight:650;color:#f0f1ef}
+.leadbox{border-left:2px solid var(--ochre);padding:.2rem 0 .2rem 1.2rem;margin:1.4rem 0 2rem;color:#d9dddc;font-size:1.05rem}
+.callout{margin:1.4rem 0;padding:1rem 1.2rem;background:var(--surface);border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:5px}
+.callout.warning{border-left-color:var(--red)}
+.callout p{margin:.3rem 0}
+.table-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:7px;margin:1.3rem 0}
+table{width:100%;border-collapse:collapse;min-width:560px;font-size:.88rem}
+th,td{text-align:left;vertical-align:top;padding:.8rem .95rem;border-bottom:1px solid var(--line)}
+th{background:var(--surface2);color:var(--muted);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase}
+tr:last-child td{border-bottom:0}
+td:first-child{font-weight:620;color:#dce2e4}
+.steps{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:.55rem;margin:1.3rem 0}
+.step{border:1px solid var(--line);background:var(--surface);border-radius:5px;padding:.8rem .7rem;min-height:105px}
+.step .n{font: .68rem ui-monospace,monospace;color:var(--ochre)}
+.step b{display:block;font-size:.86rem;margin:.4rem 0}
+.step span{display:block;color:var(--muted);font-size:.75rem;line-height:1.4}
+.board-shell{margin:1.5rem 0 2rem;background:#1a2026;border:1px solid var(--line);border-radius:9px;padding:1.25rem}
+.board-head{display:flex;justify-content:space-between;align-items:flex-start;gap:1rem;flex-wrap:wrap}
+.board-head h3{margin:0 0 .25rem}
+.board-head p{color:var(--muted);font-size:.82rem;margin:.2rem 0 1rem}
+.controls{display:flex;gap:.5rem;flex-wrap:wrap;align-items:center}
+.controls label{font-size:.76rem;color:var(--muted)}
+select{background:var(--surface2);color:var(--text);border:1px solid #596873;border-radius:4px;padding:.45rem .65rem}
+.plateaux{display:grid;grid-template-columns:1fr 1fr;gap:.85rem;position:relative}
+.plateau{border:1px solid #53616b;border-radius:6px;padding:.85rem;background:linear-gradient(150deg,#242d35,#1d242b);min-width:0}
+.plateau-top{display:flex;justify-content:space-between;gap:.5rem;align-items:center;border-bottom:1px solid var(--line);padding-bottom:.6rem;margin-bottom:.7rem}
+.plateau-top strong{font-size:.9rem}
+.plateau-top span{font: .65rem ui-monospace,monospace;color:var(--ochre);text-transform:uppercase}
+.board-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.45rem}
+.cell{border:1px solid #46545e;border-radius:4px;padding:.55rem .6rem;background:#202830;min-height:68px;transition:border-color .15s,background .15s}
+.cell b{font-size:.8rem;display:block}
+.cell small{display:block;color:var(--muted);font-size:.68rem;line-height:1.35;margin-top:.2rem}
+.cell.active{border-color:var(--ochre);background:#34332e}
+.cell.dim{opacity:.35}
+.crossing{margin:.9rem 0 0;padding:.75rem .9rem;border:1px dashed #65737d;border-radius:5px;color:#c5cdd1;font-size:.78rem}
+.crossing strong{color:var(--ochre)}
+.orientation-row{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.85rem}
+.orientation{border:1px solid #53616b;border-radius:3px;padding:.3rem .5rem;font-size:.7rem;color:var(--muted)}
+.orientation.selected{border-color:var(--accent);color:#d7e4e9;background:#28343b}
+.board-explain{margin:.8rem 0 0;color:var(--muted);font-size:.76rem}
+.board-caption{display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap;margin-top:.8rem;color:var(--muted);font: .68rem ui-monospace,monospace}
+.case-grid{display:grid;grid-template-columns:1fr 1fr;gap:.8rem;margin:1rem 0}
+.case-card{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:1rem}
+.case-card h3{margin:0 0 .4rem;font-size:1rem}
+.case-card p{font-size:.86rem;color:#c5cdd1;margin:.35rem 0}
+.question-list{border-left:1px solid var(--line);padding-left:1rem;margin:1rem 0}
+.question-list p{margin:.45rem 0;font-size:.9rem}
+.summary{background:var(--surface);border:1px solid var(--line);padding:1.5rem;border-radius:8px}
+footer{border-top:1px solid var(--line);padding:2rem;max-width:var(--max);margin:auto;color:var(--muted);font-size:.8rem}
+.footrow{display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap}
+@media(max-width:940px){
+ .layout{grid-template-columns:1fr;gap:1.5rem}
+ nav.toc{position:relative;top:auto;max-height:none;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));column-gap:1rem}
+ nav.toc .kicker{grid-column:1/-1}
+ .steps{grid-template-columns:repeat(3,minmax(0,1fr))}
+}
+@media(max-width:640px){
+ .topbar{padding:1rem}
+ .toplinks{display:none}
+ .hero{padding:3rem 1.1rem 2.5rem}
+ .layout{padding:0 1.1rem 3rem}
+ nav.toc{grid-template-columns:1fr 1fr}
+ .plateaux,.case-grid{grid-template-columns:1fr}
+ .steps{grid-template-columns:1fr 1fr}
+ h2{font-size:1.5rem}
+ .board-shell{padding:.8rem}
+}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
+</style>
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header><div class="topbar">
+ <div class="brand"><strong>Protokin</strong> / Documentation</div>
+ <div class="toplinks"><a href="#repere">Repères</a><a href="#plateaux">Plateaux</a><a href="#exemple">Exemple</a><a href="#arret">Conditions d’arrêt</a></div>
+</div></header>
+
+<div class="hero">
+ <div class="eyebrow">Méthode d’enquête · Repères pratiques</div>
+ <h1>Conduire une enquête</h1>
+ <p class="lede">Passer d’une difficulté descriptive à un examen organisé, puis choisir une reprise proportionnée à ce qui reste à établir.</p>
+ <div class="meta"><span>PROTO­KIN / CONDUITE DE L’ENQUÊTE</span><span>VERSION HTML DE CONSULTATION</span><span>SOURCE : fr/conduire-une-enquete.md</span></div>
+</div>
+
+<div class="layout">
+<nav class="toc" aria-label="Sommaire">
+ <p class="kicker">Sommaire</p>
+ <a href="#fonction">Fonction</a>
+ <a href="#difficulte">01 — Difficulté</a>
+ <a href="#orientations">02 — Orientations</a>
+ <a href="#conversions">03 — Conversions</a>
+ <a href="#reprise">04 — Choisir une reprise</a>
+ <a href="#ressources">05 — Fonctions et instruments</a>
+ <a href="#plateaux">06 — Plateaux d’enquête</a>
+ <a href="#exemple">07 — Botaniste et bûcheron</a>
+ <a href="#arret">08 — Conditions d’arrêt</a>
+ <a href="#synthese">Synthèse</a>
+ <a href="#liens">Pour poursuivre</a>
+</nav>
+
+<main id="contenu">
+<section id="fonction">
+ <p class="kicker">Fonction</p>
+ <p>Cette page propose des repères pratiques pour conduire une enquête dans le cadre de Protokin.</p>
+ <p>Elle aide à passer d’une difficulté descriptive à un examen organisé : préciser ce qui fait problème, déterminer sous quel rapport l’examiner, repérer les confusions éventuelles et choisir le travail à reprendre.</p>
+ <p>Elle complète l’<a href="architecture-fonctionnelle-de-l-enquete.html">Architecture fonctionnelle de l’enquête</a>, qui présente les catégories, les opérations, les orientations, les fonctions transversales et les instruments d’épreuve.</p>
+ <div class="callout"><p><strong>Portée de cette page.</strong> Elle ne constitue ni une nouvelle opération ni une procédure à appliquer intégralement. Son objectif est plus limité : aider à décider comment poursuivre une enquête en fonction de la difficulté rencontrée.</p></div>
+</section>
+
+<section id="difficulte">
+ <p class="kicker">01 / Point de départ</p>
+ <h2>Partir d’une difficulté identifiable</h2>
+ <p>Une enquête commence par une difficulté rencontrée dans une pratique descriptive. Celle-ci peut concerner :</p>
+ <ul>
+  <li>une distinction qui ne permet plus de différencier certains cas ;</li>
+  <li>une catégorie dont l’emploi est contesté ;</li>
+  <li>une relation supposée mais insuffisamment établie ;</li>
+  <li>une configuration qui ne rend pas compte des éléments disponibles ;</li>
+  <li>une conclusion dont les raisons ou les critères sont fragiles ;</li>
+  <li>plusieurs descriptions qui semblent incompatibles ;</li>
+  <li>un résultat dont le cheminement n’est pas suffisamment explicite.</li>
+ </ul>
+ <p>La difficulté ne doit pas être immédiatement assimilée à une erreur de description. Elle peut tenir aux éléments disponibles, aux distinctions employées, aux relations examinées, à la formulation du problème ou aux conclusions que l’on cherche à en tirer.</p>
+ <p>Le premier travail consiste donc à formuler ce qui reste indéterminé, contesté ou insuffisamment établi.</p>
+ <h3>Questions de départ</h3>
+ <div class="question-list">
+  <p>Quelle description, distinction ou conclusion est mise en question ?</p>
+  <p>Dans quelle pratique la difficulté apparaît-elle ?</p>
+  <p>Qu’est-ce qui reste précisément indéterminé ?</p>
+  <p>Quelle question faut-il examiner pour faire progresser l’enquête ?</p>
+  <p>Quelles limites faut-il conserver dans la formulation initiale ?</p>
+ </div>
+ <p>La formulation du problème est provisoire. Elle doit être suffisamment précise pour orienter l’examen, mais rester révisable.</p>
+</section>
+
+<section id="orientations">
+ <p class="kicker">02 / Questionnement</p>
+ <h2>Examiner la difficulté sous les orientations pertinentes</h2>
+ <p>L’<a href="orientation-de-l-examen.html">orientation de l’examen</a> distingue quatre orientations de référence : <strong>Condition, Relation, Fonction et Justification</strong>. Elles aident à préciser sous quel rapport une situation, une pratique ou une description doit être examinée.</p>
+ <div class="case-grid">
+  <article class="case-card"><h3>Condition</h3><p><strong>Quelles conditions et contraintes sont pertinentes pour la situation étudiée ?</strong></p><p>Il peut s’agir de conditions matérielles, corporelles, environnementales, techniques, institutionnelles ou temporelles.</p><p>Il faut également examiner sur quels appuis l’enquête repose : observations, traces, mesures, documents, témoignages ou autres éléments disponibles.</p><p>La distinction entre conditions et appuis doit être maintenue. Les conditions appartiennent à la situation ; les appuis sont les éléments par lesquels l’enquête en examine certains aspects.</p></article>
+  <article class="case-card"><h3>Relation</h3><p><strong>Quelles dépendances et quelles médiations doivent être établies entre les éléments concernés ?</strong></p><p>Il faut préciser la nature des relations invoquées : causales, matérielles, temporelles, fonctionnelles, institutionnelles ou inférentielles.</p><p>Une relation constatée ne suffit pas à déterminer ce qu’elle explique ni les conclusions qu’elle autorise.</p></article>
+  <article class="case-card"><h3>Fonction</h3><p><strong>Quel travail une description, une distinction, une catégorie ou un instrument accomplit-il dans la pratique considérée ?</strong></p><p>Il faut examiner les usages de la description, les décisions auxquelles elle contribue et les effets de son emploi.</p><p>L’utilité d’une description ne suffit cependant pas à établir son adéquation à ce qu’elle prétend décrire.</p></article>
+  <article class="case-card"><h3>Justification</h3><p><strong>Quelles raisons, quels critères et quelles inférences permettent de soutenir ou de contester une conclusion ?</strong></p><p>Il faut examiner les éléments mobilisés, les prémisses, les passages du raisonnement et les objections auxquelles la conclusion doit répondre.</p><p>La cohérence d’un raisonnement ne suffit pas à établir que ses prémisses sont pertinentes ni que sa conclusion est adéquate.</p></article>
+ </div>
+ <div class="callout"><p>Les quatre orientations ne forment pas une grille obligatoire. Une enquête peut en mobiliser une seule, plusieurs ou aucune explicitement lorsque cela n’apporte rien à l’examen. Leur rôle est de rendre certaines questions visibles, non de prescrire un parcours.</p></div>
+</section>
+
+<section id="conversions">
+ <p class="kicker">03 / Vigilance</p>
+ <h2>Repérer les conversions injustifiées</h2>
+ <p>Une difficulté peut provenir du passage insuffisamment établi entre deux registres ou deux fonctions. Avant de choisir une reprise, il est utile de vérifier si une réponse a été utilisée au-delà de ce qu’elle permet d’établir.</p>
+ <div class="table-wrap"><table>
+  <thead><tr><th>Ce qui est établi</th><th>Ce qui ne s’en déduit pas automatiquement</th></tr></thead>
+  <tbody>
+   <tr><td>Une condition est présente.</td><td>Elle constitue nécessairement un critère de décision.</td></tr>
+   <tr><td>Un événement en cause un autre.</td><td>Cette relation fournit une raison de soutenir une conclusion.</td></tr>
+   <tr><td>Une trace est disponible.</td><td>Sa signification est déjà déterminée.</td></tr>
+   <tr><td>Une description remplit une fonction utile.</td><td>Elle est adéquate à ce qu’elle prétend décrire.</td></tr>
+   <tr><td>Une configuration est cohérente.</td><td>Elle est adéquate à la situation examinée.</td></tr>
+   <tr><td>Une conclusion est acceptée.</td><td>Elle est suffisamment justifiée.</td></tr>
+   <tr><td>Le cheminement d’une enquête est reconstitué.</td><td>Son résultat était nécessaire ou inévitable.</td></tr>
+  </tbody>
+ </table></div>
+ <p>Repérer une conversion possible ne suffit pas à établir qu’elle est effectivement injustifiée. Il faut examiner le passage concerné, les relations qui le soutiennent et les conditions dans lesquelles il pourrait être défendu.</p>
+ <p>L’objectif n’est pas de séparer artificiellement des dimensions liées, mais d’éviter qu’une conclusion soit tenue pour acquise sans que le passage qui y conduit ait été examiné.</p>
+</section>
+
+<section id="reprise">
+ <p class="kicker">04 / Décision de travail</p>
+ <h2>Choisir une reprise proportionnée</h2>
+ <p>Une fois la difficulté précisée, il faut déterminer quelle opération permettrait de mieux la traiter.</p>
+ <p>La chaîne de référence rassemble huit opérations :</p>
+ <div class="steps">
+  <div class="step"><span class="n">01</span><b>Délimiter</b><span>Formuler le problème.</span></div>
+  <div class="step"><span class="n">02</span><b>Ancrer</b><span>Examiner conditions et appuis.</span></div>
+  <div class="step"><span class="n">03</span><b>Distinguer</b><span>Établir les différences.</span></div>
+  <div class="step"><span class="n">04</span><b>Relier</b><span>Examiner les dépendances.</span></div>
+  <div class="step"><span class="n">05</span><b>Configurer</b><span>Organiser les éléments.</span></div>
+  <div class="step"><span class="n">06</span><b>Justifier</b><span>Examiner les raisons.</span></div>
+  <div class="step"><span class="n">07</span><b>Reconstituer</b><span>Rendre le cheminement lisible.</span></div>
+  <div class="step"><span class="n">08</span><b>Redélimiter</b><span>Reprendre le problème.</span></div>
+ </div>
+ <div class="callout warning"><p><strong>La chaîne est un répertoire fonctionnel, non un ordre d’exécution.</strong> Les opérations peuvent être mobilisées conjointement ou reprises séparément.</p></div>
+ <div class="table-wrap"><table>
+  <thead><tr><th>Difficulté rencontrée</th><th>Opération susceptible d’être reprise</th></tr></thead>
+  <tbody>
+   <tr><td>Le problème est trop large, ambigu ou mal formulé.</td><td><strong>Délimiter</strong></td></tr>
+   <tr><td>Les conditions de la situation ou les appuis disponibles sont insuffisants.</td><td><strong>Ancrer</strong></td></tr>
+   <tr><td>Des éléments, des critères ou des fonctions sont confondus.</td><td><strong>Distinguer</strong></td></tr>
+   <tr><td>Une dépendance ou une médiation reste incertaine.</td><td><strong>Relier</strong></td></tr>
+   <tr><td>L’organisation des éléments et de leurs relations ne permet pas de traiter le problème.</td><td><strong>Configurer</strong></td></tr>
+   <tr><td>Les raisons, les prémisses, les critères ou les inférences ne soutiennent pas suffisamment la conclusion.</td><td><strong>Justifier</strong></td></tr>
+   <tr><td>Le cheminement, les décisions ou les transformations de l’enquête ne sont pas suffisamment explicites.</td><td><strong>Reconstituer</strong></td></tr>
+   <tr><td>La formulation ou le périmètre du problème ne permet plus de traiter la difficulté.</td><td><strong>Redélimiter</strong></td></tr>
+  </tbody>
+ </table></div>
+ <p>Ces indications ne constituent pas une correspondance automatique. Une même difficulté peut nécessiter plusieurs opérations, et une opération peut contribuer à l’examen de plusieurs orientations.</p>
+ <p>Il faut notamment distinguer une correction locale d’une révision du problème. Une justification fragile peut appeler un nouvel examen des raisons sans remettre en cause la formulation initiale. Une distinction insuffisante peut être corrigée sans redélimiter l’enquête. La redélimitation devient pertinente lorsque les résultats montrent que le problème lui-même doit être maintenu, précisé, scindé ou reformulé.</p>
+ <p>La reprise doit être proportionnée à ce qui reste à établir.</p>
+</section>
+
+<section id="ressources">
+ <p class="kicker">05 / Ressources complémentaires</p>
+ <h2>Utiliser les fonctions transversales et les instruments</h2>
+ <p>Les opérations ne suffisent pas toujours à rendre compte de toutes les dimensions de l’enquête. Les fonctions transversales et les instruments peuvent contribuer à leur examen.</p>
+ <h3>Fonctions transversales</h3>
+ <ul>
+  <li><strong>Temporaliser</strong> : examiner les transformations au cours du temps et distinguer celles de la situation de celles des descriptions.</li>
+  <li><strong>Expliquer</strong> : examiner les processus et les mécanismes qui rendent compte de l’apparition, du maintien ou de la transformation d’une situation ou d’une pratique.</li>
+  <li><strong>Auditer</strong> : examiner les distinctions, les dépendances, les inférences, les critères et les engagements mobilisés.</li>
+  <li><strong>Réfléchir</strong> : interroger les présupposés, les choix descriptifs et les limites de l’enquête elle-même.</li>
+  <li><strong>Éprouver</strong> : confronter les descriptions et les conclusions à des éléments susceptibles d’en révéler les limites.</li>
+ </ul>
+ <p>Ces fonctions ne constituent pas des opérations supplémentaires. Elles ne doivent pas être mobilisées systématiquement : leur pertinence dépend de la difficulté examinée.</p>
+ <h3>Instruments d’épreuve</h3>
+ <ul>
+  <li><strong>Substitution</strong> : remplacer un terme, une catégorie ou une distinction pour examiner ce qui change et les conséquences de ce remplacement.</li>
+  <li><strong>Cas</strong> : examiner une situation déterminée afin de préciser les conditions d’application ou les limites d’une proposition.</li>
+  <li><strong>Comparaison</strong> : confronter plusieurs descriptions ou situations pour examiner leurs différences, leurs compatibilités et leurs incompatibilités.</li>
+  <li><strong>Reprise</strong> : réexaminer une description, une distinction ou une conclusion à la lumière d’un résultat, d’une objection ou d’un nouvel élément.</li>
+ </ul>
+ <p>La reprise comme instrument désigne un acte d’examen situé. Elle ne se confond pas avec l’opération <strong>Reconstituer</strong>, qui rend le cheminement de l’enquête explicite.</p>
+ <p>Aucun instrument ne produit mécaniquement un verdict. Il faut préciser ce qu’il permet d’examiner et ce que son résultat autorise effectivement à conclure.</p>
+</section>
+
+<section id="plateaux">
+ <p class="kicker">06 / Instrument de représentation</p>
+ <h2>Représenter l’enquête à l’aide de plateaux</h2>
+ <p>Le plateau d’enquête est un instrument complémentaire de représentation et de navigation. Il permet de rendre visibles les opérations mobilisées, les orientations sous lesquelles elles sont examinées et les relations entre plusieurs régimes descriptifs.</p>
+ <p>Il ne remplace ni l’architecture fonctionnelle ni les repères précédents. Il propose une manière de les disposer pour faciliter le repérage d’une difficulté et le choix d’une reprise.</p>
+
+ <h3>Un plateau pour chaque régime descriptif examiné</h3>
+ <p>Une enquête peut mobiliser plusieurs régimes descriptifs. Ceux-ci correspondent à des organisations relativement stabilisées de règles d’usage, de distinctions, d’opérations et de critères dans des pratiques données.</p>
+ <p>Il est possible de représenter chaque régime examiné par un plateau distinct. Cette représentation permet de conserver les particularités des pratiques concernées, au lieu de les ramener immédiatement à une organisation commune.</p>
+ <p>Un plateau ne représente cependant pas un régime dans toute son étendue. Il représente les éléments pertinents pour l’enquête en cours : les opérations mobilisées, les questions examinées et les relations utiles à la compréhension du problème.</p>
+ <p>Un même régime peut donc être représenté différemment selon la question étudiée. Inversement, plusieurs enquêtes peuvent faire apparaître des aspects différents d’un même régime.</p>
+
+ <h3>Les opérations comme cases de travail</h3>
+ <p>Sur chaque plateau, les cases représentent les opérations mobilisées dans le régime considéré et pour le problème étudié. Une case ne désigne pas nécessairement une étape dans une succession. Elle indique un travail descriptif qui peut être engagé, repris ou combiné avec d’autres.</p>
+ <p>Les huit opérations de référence peuvent servir de repères : <strong>Délimiter, Ancrer, Distinguer, Relier, Configurer, Justifier, Reconstituer et Redélimiter.</strong> Il n’est pas nécessaire que toutes apparaissent sur chaque plateau. La représentation doit suivre les opérations effectivement pertinentes, et non imposer une présence uniforme.</p>
+
+ <h3>Les quatre orientations comme faces d’examen</h3>
+ <p>Chaque opération peut être examinée sous les quatre orientations :</p>
+ <ul>
+  <li><strong>Condition</strong> : quelles conditions et contraintes concernent ce travail ?</li>
+  <li><strong>Relation</strong> : quelles relations et dépendances doivent être examinées ?</li>
+  <li><strong>Fonction</strong> : quel rôle ce travail joue-t-il dans la pratique considérée ?</li>
+  <li><strong>Justification</strong> : quelles raisons et quels critères permettent de soutenir ses résultats ?</li>
+ </ul>
+ <p>On peut ainsi représenter chaque case comme susceptible d’être examinée selon quatre directions ou faces. Cette possibilité ne signifie pas que les quatre orientations doivent être mobilisées à chaque fois. Une difficulté peut appeler une seule orientation, plusieurs orientations ou un autre questionnement. Les orientations sont des possibilités d’examen, non des compartiments qu’il faudrait systématiquement remplir.</p>
+ <p>La représentation permet notamment de changer d’orientation sans changer nécessairement d’opération. Une difficulté portant sur une distinction peut d’abord être examinée sous l’angle de ses conditions, puis sous celui de sa justification, sans qu’il soit nécessaire de passer immédiatement à une autre opération.</p>
+ <p>Inversement, une même orientation peut traverser plusieurs opérations. La justification, par exemple, peut concerner la délimitation d’un problème, l’ancrage des éléments, une distinction ou une configuration, et pas seulement l’opération Justifier.</p>
+
+ <div class="board-shell" aria-label="Représentation illustrative de deux plateaux d'enquête">
+  <div class="board-head">
+   <div><h3>Deux plateaux, un croisement à examiner</h3><p>Exemple de représentation · botanique et évaluation technique d’un arbre</p></div>
+   <div class="controls">
+    <label for="orientationSelect">Orientation mise en évidence</label>
+    <select id="orientationSelect">
+     <option value="all">Toutes</option><option value="condition">Condition</option><option value="relation">Relation</option><option value="fonction">Fonction</option><option value="justification">Justification</option>
+    </select>
+   </div>
+  </div>
+  <div class="plateaux">
+   <div class="plateau">
+    <div class="plateau-top"><strong>Régime botanique</strong><span>Plateau A</span></div>
+    <div class="board-grid">
+     <div class="cell active" data-orient="condition"><b>Ancrer</b><small>Observations biologiques et appuis disponibles</small></div>
+     <div class="cell" data-orient="relation"><b>Relier</b><small>État biologique et éléments observés</small></div>
+     <div class="cell" data-orient="fonction"><b>Configurer</b><small>Organisation de la description biologique</small></div>
+     <div class="cell" data-orient="justification"><b>Justifier</b><small>Raisons soutenant le diagnostic biologique</small></div>
+    </div>
+   </div>
+   <div class="plateau">
+    <div class="plateau-top"><strong>Régime d’évaluation technique</strong><span>Plateau B</span></div>
+    <div class="board-grid">
+     <div class="cell active" data-orient="condition"><b>Ancrer</b><small>Observations structurelles et mesures</small></div>
+     <div class="cell active" data-orient="relation"><b>Relier</b><small>Structure, stabilité et risque de rupture</small></div>
+     <div class="cell" data-orient="fonction"><b>Configurer</b><small>Organisation de l’évaluation du risque</small></div>
+     <div class="cell" data-orient="justification"><b>Justifier</b><small>Critères soutenant une recommandation</small></div>
+    </div>
+   </div>
+  </div>
+  <div class="crossing"><strong>Zone de croisement</strong> — Même arbre, questions différentes. Examiner les relations entre état biologique et propriétés mécaniques ; ne pas présumer que les conclusions de l’un des régimes suffisent à établir celles de l’autre.</div>
+  <div class="orientation-row" aria-label="Orientations"><span class="orientation selected" data-chip="condition">Condition</span><span class="orientation" data-chip="relation">Relation</span><span class="orientation" data-chip="fonction">Fonction</span><span class="orientation" data-chip="justification">Justification</span></div>
+  <p class="board-explain" id="boardExplain" aria-live="polite">Les appuis et conditions de chaque régime sont mis en évidence. La présence d’un appui dans les deux plateaux ne rend pas les examens équivalents.</p>
+  <div class="board-caption"><span>REPRÉSENTATION PARTIELLE ET SITUÉE</span><span>NI GRILLE OBLIGATOIRE NI PARCOURS</span></div>
+ </div>
+
+ <h3>Les croisements entre plateaux</h3>
+ <p>Lorsque plusieurs régimes interviennent dans une enquête, leurs plateaux peuvent être rapprochés et mis en relation. Ces croisements peuvent rendre visibles :</p>
+ <ul>
+  <li>des situations ou des éléments communs ;</li>
+  <li>des distinctions qui se ressemblent sans avoir la même fonction ;</li>
+  <li>des relations établies dans un régime et reprises dans un autre ;</li>
+  <li>des dépendances entre des pratiques descriptives ;</li>
+  <li>des descriptions compatibles ou concurrentes ;</li>
+  <li>des désaccords portant sur les critères ou les conclusions ;</li>
+  <li>des passages d’un régime à un autre dont la portée doit être examinée.</li>
+ </ul>
+ <p>Le croisement ne signifie pas que les plateaux possèdent des cases équivalentes. Une opération mobilisée dans un régime ne correspond pas nécessairement à une opération identique dans un autre. Les pratiques peuvent organiser différemment leurs descriptions et leurs critères.</p>
+ <p>Il ne signifie pas non plus que les régimes sont fermés ou indépendants. Ils peuvent partager des instruments, des documents, des termes, des éléments matériels ou certaines procédures. Leurs relations doivent être établies à partir de la situation examinée.</p>
+ <div class="callout warning"><p><strong>Le croisement des régimes n’est pas encore leur articulation.</strong> Deux régimes peuvent porter sur une même situation sans que leurs descriptions soient effectivement articulées. L’articulation suppose un examen de leurs relations, de leurs dépendances, de leurs éventuelles incompatibilités et des conditions de passage entre eux.</p></div>
+ <p>Le plateau aide à localiser ces rapports. Il ne décide pas à l’avance s’ils sont compatibles, contradictoires ou convertibles.</p>
+
+ <h3>Utiliser le plateau pour choisir une reprise</h3>
+ <p>Le plateau peut être mobilisé lorsqu’une enquête fait intervenir plusieurs opérations ou plusieurs régimes et qu’il devient difficile de situer précisément la difficulté.</p>
+ <ol>
+  <li><strong>Identifier le régime concerné.</strong> Déterminer dans quelle pratique descriptive la difficulté apparaît, sans supposer qu’elle relève d’un seul régime.</li>
+  <li><strong>Localiser le travail en question.</strong> Repérer l’opération mobilisée ou celle qui semble manquer.</li>
+  <li><strong>Préciser l’orientation pertinente.</strong> Examiner si la difficulté concerne les conditions, les relations, les fonctions, les justifications ou plusieurs de ces rapports.</li>
+  <li><strong>Repérer les croisements.</strong> Si d’autres régimes interviennent, examiner les éléments communs, les différences et les passages entre leurs descriptions.</li>
+  <li><strong>Choisir une reprise.</strong> Déterminer quelle opération, quel instrument ou quelle orientation supplémentaire permettrait de traiter ce qui reste indéterminé.</li>
+ </ol>
+ <p>Ces repères ne constituent pas une procédure supplémentaire. Ils explicitent une manière possible de se repérer dans une enquête complexe.</p>
+ <p>Le plateau peut également aider à constater qu’une difficulté ne se situe pas dans une opération isolée, mais dans le passage entre deux régimes. Il peut alors être nécessaire d’examiner les conditions de ce passage plutôt que de reprendre automatiquement une opération à l’intérieur d’un seul régime.</p>
+
+ <h3>Statut et limites du plateau</h3>
+ <p>Le plateau est un instrument facultatif. Il ne constitue ni une nouvelle composante de l’architecture fonctionnelle, ni une représentation exhaustive de tous les régimes descriptifs, ni une méthode obligatoire.</p>
+ <p>Il ne faut pas supposer :</p>
+ <ul>
+  <li>que chaque régime possède un plateau permanent et entièrement délimité ;</li>
+  <li>que tous les régimes mobilisent les mêmes opérations ;</li>
+  <li>que chaque opération doit être examinée selon les quatre orientations ;</li>
+  <li>que les cases d’un plateau forment un parcours nécessaire ;</li>
+  <li>que deux cases situées au même endroit sur deux plateaux ont la même fonction ;</li>
+  <li>que les croisements entre plateaux établissent une équivalence entre les descriptions ;</li>
+  <li>que la représentation permet, à elle seule, de résoudre une difficulté.</li>
+ </ul>
+ <p>Le plateau est construit en fonction du problème et des éléments disponibles. Il peut être modifié lorsque l’enquête change de périmètre, mobilise un autre régime ou fait apparaître une difficulté nouvelle.</p>
+ <p>Il sert à rendre l’enquête plus lisible, non à imposer une forme aux pratiques qu’elle examine.</p>
+</section>
+
+<section id="exemple">
+ <p class="kicker">07 / Mise en situation</p>
+ <h2>Exemple d’application : le botaniste et le bûcheron</h2>
+ <p>Un botaniste examine l’état biologique d’un arbre. Un bûcheron évalue sa structure et les conditions d’une intervention. Leurs descriptions portent sur le même arbre, mais elles ne répondent pas nécessairement à la même question.</p>
+ <p>Supposons que le botaniste juge l’arbre vivant et biologiquement viable, tandis que le bûcheron estime qu’une intervention est nécessaire en raison d’un risque de rupture.</p>
+ <h3>Reformuler la difficulté</h3>
+ <p>La question ne doit pas être immédiatement : « Lequel des deux a raison ? » Il faut d’abord préciser le désaccord : porte-t-il sur l’état biologique de l’arbre, sa stabilité mécanique, le risque associé à son maintien ou la décision pratique à prendre ? Ces questions sont liées, mais elles ne sont pas équivalentes.</p>
+ <h3>Examiner les orientations pertinentes</h3>
+ <ul>
+  <li><strong>Condition</strong> : quels éléments matériels et quelles observations permettent d’examiner l’état de l’arbre et le risque de rupture ?</li>
+  <li><strong>Relation</strong> : quels rapports peut-on établir entre l’état biologique, la structure de l’arbre et le risque évalué ?</li>
+  <li><strong>Fonction</strong> : à quelle question chaque description répond-elle et quelle décision doit-elle éventuellement contribuer à préparer ?</li>
+  <li><strong>Justification</strong> : quels éléments, critères et raisonnements soutiennent les conclusions du botaniste et du bûcheron ?</li>
+ </ul>
+ <p>Il n’est pas nécessaire de traiter les quatre orientations avec la même intensité. Leur mobilisation dépend de ce qui reste à éclaircir.</p>
+ <h3>Repérer les régimes descriptifs concernés</h3>
+ <p>On peut représenter provisoirement deux régimes descriptifs :</p>
+ <ul>
+  <li>un régime botanique, qui organise l’examen de l’état biologique de l’arbre ;</li>
+  <li>un régime technique d’évaluation de l’arbre, qui organise l’examen de sa structure, de sa stabilité et des conditions d’une intervention.</li>
+ </ul>
+ <p>Chaque plateau permet de situer les opérations effectivement mobilisées dans la pratique considérée. Il ne faut pas supposer que les deux plateaux possèdent une organisation identique.</p>
+ <p>Leur rapprochement fait apparaître un élément commun : le même arbre. Mais cette référence commune ne suffit pas à rendre équivalentes les descriptions produites.</p>
+ <h3>Examiner le croisement</h3>
+ <p>Le plateau botanique peut permettre d’examiner les conditions de développement et l’état biologique de l’arbre. Le plateau technique peut permettre d’examiner les caractéristiques de sa structure et les conditions d’un éventuel risque.</p>
+ <p>Le croisement entre les deux fait apparaître plusieurs questions :</p>
+ <ul>
+  <li>les observations mobilisées dans chaque régime portent-elles sur les mêmes parties de l’arbre ?</li>
+  <li>les propriétés biologiques examinées ont-elles une relation établie avec les propriétés mécaniques considérées ?</li>
+  <li>les conclusions produites répondent-elles à des questions compatibles ?</li>
+  <li>une information issue d’un régime est-elle utilisée comme si elle suffisait à établir une conclusion relevant de l’autre ?</li>
+ </ul>
+ <p>Il serait injustifié de déduire automatiquement de la viabilité biologique que l’arbre ne présente aucun risque mécanique. Il serait tout aussi injustifié de déduire de l’existence d’un risque que l’arbre est biologiquement mort.</p>
+ <p>Une conclusion portant sur une dimension ne suffit pas à établir une conclusion portant sur une autre. Les dimensions peuvent être liées, mais la nature et la portée de leur relation doivent être examinées.</p>
+ <h3>Choisir la reprise</h3>
+ <ul>
+  <li>si les observations sur l’arbre sont insuffisantes, reprendre <strong>Ancrer</strong> ;</li>
+  <li>si les termes employés recouvrent des questions différentes, reprendre <strong>Distinguer</strong> ;</li>
+  <li>si le rapport entre l’état biologique et le risque mécanique reste incertain, reprendre <strong>Relier</strong> ;</li>
+  <li>si les éléments sont disponibles mais organisés de manière inadéquate, reprendre <strong>Configurer</strong> ;</li>
+  <li>si les conclusions ne sont pas suffisamment étayées, reprendre <strong>Justifier</strong> ;</li>
+  <li>si la question initiale mélange plusieurs problèmes, envisager <strong>Redélimiter</strong>.</li>
+ </ul>
+ <p>Ces opérations ne forment pas une succession obligatoire. L’enquête peut en mobiliser plusieurs conjointement, puis reprendre celle dont les résultats restent insuffisants.</p>
+ <p>L’examen peut établir que les deux descriptions sont compatibles parce qu’elles répondent à des questions différentes. Il peut aussi révéler une véritable incompatibilité, une erreur dans l’une des descriptions ou un manque d’éléments empêchant de trancher. Aucune de ces issues ne doit être présumée.</p>
+</section>
+
+<section id="arret">
+ <p class="kicker">08 / Clôture provisoire</p>
+ <h2>Conditions d’arrêt et limites</h2>
+ <p>Conduire une enquête ne signifie pas examiner indéfiniment toutes les dimensions possibles d’une situation.</p>
+ <p>L’enquête peut s’arrêter lorsque :</p>
+ <ul>
+  <li>le problème est suffisamment circonscrit pour l’objectif poursuivi ;</li>
+  <li>les éléments pertinents ont été examinés dans les limites annoncées ;</li>
+  <li>les distinctions et les dépendances nécessaires ont été suffisamment explicitées ;</li>
+  <li>les conclusions peuvent être défendues au regard des raisons et des critères retenus ;</li>
+  <li>les incertitudes qui subsistent sont identifiées.</li>
+ </ul>
+ <p>Cet arrêt est situé. Il ne signifie pas que toutes les questions connexes sont résolues ni que les résultats resteront adéquats dans toutes les situations ultérieures.</p>
+ <h3>Deux dérives à éviter</h3>
+ <div class="case-grid">
+  <article class="case-card"><h3>Examen insuffisant</h3><p>Conclure trop tôt sans avoir examiné les éléments, les distinctions ou les critères nécessaires.</p></article>
+  <article class="case-card"><h3>Examen sans limite</h3><p>Multiplier les reprises sans préciser quelle difficulté demeure ni quel résultat supplémentaire est attendu.</p></article>
+ </div>
+ <p>Une enquête peut également conclure que les éléments disponibles ne permettent pas de trancher. Ce constat constitue un résultat pertinent s’il précise ce qui manque, pourquoi cela importe et dans quelles conditions l’examen pourrait reprendre.</p>
+ <p>Enfin, l’enquêteur ne dispose pas d’un point de vue extérieur et infaillible sur les pratiques examinées. Les catégories, les critères et les instruments mobilisés par Protokin restent eux-mêmes susceptibles d’être interrogés et révisés.</p>
+</section>
+
+<section id="synthese">
+ <p class="kicker">Synthèse</p>
+ <h2>Conduire l’enquête, choisir la reprise</h2>
+ <div class="summary">
+  <p>Conduire une enquête consiste à partir d’une difficulté identifiable, à préciser sous quels rapports elle doit être examinée, à repérer les éventuelles conversions injustifiées et à choisir les opérations adaptées à ce qui reste à établir.</p>
+  <p>La chaîne fournit les opérations de référence ; les orientations aident à différencier les questions ; les fonctions transversales permettent d’examiner différentes dimensions du cheminement ; les instruments mettent certains résultats à l’épreuve.</p>
+  <p>Lorsque plusieurs régimes descriptifs interviennent, le plateau peut servir à représenter les opérations mobilisées dans chacun d’eux, les orientations pertinentes et les croisements entre leurs descriptions. Il aide à repérer les difficultés et à choisir une reprise, sans constituer une procédure supplémentaire.</p>
+  <p>Les ressources de l’enquête peuvent être mobilisées conjointement, reprises séparément ou réorganisées en fonction du problème et des résultats obtenus.</p>
+  <p><strong>Conduire une enquête, c’est rendre la difficulté examinable, expliciter les passages qui soutiennent les conclusions et choisir des reprises proportionnées à ce qui reste à établir.</strong></p>
+ </div>
+</section>
+
+<section id="liens">
+ <p class="kicker">Ressources liées</p>
+ <h2>Pour poursuivre</h2>
+ <ul>
+  <li><a href="architecture-fonctionnelle-de-l-enquete.html">Architecture fonctionnelle de l’enquête</a></li>
+  <li><a href="la-chaine-principale-de-l-enquete.html">La chaîne principale de l’enquête</a></li>
+  <li><a href="orientation-de-l-examen.html">Orientation de l’examen</a></li>
+  <li><a href="regime-descriptif.html">Régime descriptif</a></li>
+  <li><a href="ecologie-des-regimes-descriptifs.html">Écologie des régimes descriptifs</a></li>
+  <li><a href="delimiter.html">Délimiter</a></li>
+  <li><a href="ancrer.html">Ancrer</a></li>
+  <li><a href="distinguer.html">Distinguer</a></li>
+  <li><a href="relier.html">Relier</a></li>
+  <li><a href="configurer.html">Configurer</a></li>
+  <li><a href="justifier.html">Justifier</a></li>
+  <li><a href="reconstituer.html">Reconstituer</a></li>
+  <li><a href="redelimiter.html">Redélimiter</a></li>
+  <li><a href="tdm.html">Table des matières</a></li>
+ </ul>
+</section>
+</main>
+</div>
+<footer><div class="footrow"><span>PROTOKIN · Conduire une enquête</span><span>Version HTML de consultation · Source documentaire : Markdown</span></div></footer>
+
+<script>
+(function(){
+ const select=document.getElementById('orientationSelect');
+ const cells=[...document.querySelectorAll('.cell')];
+ const chips=[...document.querySelectorAll('[data-chip]')];
+ const explain=document.getElementById('boardExplain');
+ const messages={
+  all:"Les cases présentées sont des exemples de travaux possibles. Les deux plateaux restent distincts ; leur rapprochement ne suffit pas à établir l’équivalence de leurs descriptions.",
+  condition:"Les appuis et conditions de chaque régime sont mis en évidence. La présence d’un appui dans les deux plateaux ne rend pas les examens équivalents.",
+  relation:"Les relations à examiner sont mises en évidence. Le rapport entre état biologique, structure et risque doit être établi ; il ne se déduit pas de leur simple coexistence.",
+  fonction:"Les fonctions des descriptions sont mises en évidence. Les deux régimes peuvent contribuer à des décisions différentes à propos d’une même situation.",
+  justification:"Les justifications sont mises en évidence. Les critères et les raisons soutenant les conclusions doivent être examinés dans chaque régime et dans leurs éventuels passages."
+ };
+ function update(){
+  const v=select.value;
+  cells.forEach(c=>{c.classList.toggle('dim',v!=="all"&&c.dataset.orient!==v);c.classList.toggle('active',v!=="all"&&c.dataset.orient===v)});
+  chips.forEach(c=>c.classList.toggle('selected',v!=="all"&&c.dataset.chip===v));
+  explain.textContent=messages[v];
+ }
+ select.addEventListener('change',update);
+ update();
+})();
+</script>
+</body>
+</html>
