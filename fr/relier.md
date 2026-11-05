@@ -2,44 +2,44 @@
 
 ## Fonction
 
-L’opération **Relier** consiste à examiner les relations pertinentes entre les éléments retenus dans une enquête. Elle permet de préciser comment ces éléments dépendent les uns des autres, quelles médiations interviennent entre eux et quelles conséquences peuvent être tirées des relations établies.
+**Relier** consiste à identifier, caractériser et examiner les relations pertinentes entre les éléments retenus pour traiter un problème descriptif.
 
-Relier ne consiste pas à réunir des éléments dans une totalité ni à leur attribuer une organisation d’ensemble. Cette dernière question relève de l’opération [Configurer](fr/configurer.md).
+L’opération permet de préciser quels rapports peuvent être établis entre ces éléments, dans quelles conditions ils tiennent et quelles conséquences peuvent en être tirées. Elle distingue les relations constatées, celles qui sont inférées ou proposées comme hypothèses, et celles dont le statut reste indéterminé.
 
-L’opération Relier vise d’abord à caractériser les rapports pertinents pour le problème étudié. Elle doit notamment distinguer les relations constatées, les relations proposées comme hypothèses et celles qui restent à établir.
+Relier ne consiste pas à réunir les éléments dans une organisation d’ensemble. Cette question relève de l’opération [Configurer](fr/configurer.md). L’opération Relier porte d’abord sur la nature et la portée des rapports examinés.
 
 ## Problème
 
-L’identification d’éléments distincts ne suffit pas toujours à traiter une difficulté descriptive. Il faut parfois examiner ce qui les relie, dans quelles conditions ils dépendent les uns des autres et ce que ces relations permettent d’établir.
+Identifier des éléments distincts ne suffit pas toujours à traiter une difficulté descriptive. Il faut parfois examiner ce qui les relie, dans quelles conditions ils entretiennent un rapport et ce que ce rapport permet d’établir.
 
-Une difficulté apparaît lorsque les relations sont présupposées plutôt qu’examinées. Une succession temporelle peut être interprétée comme une causalité ; une corrélation peut être tenue pour une explication ; une relation entre des affirmations peut être confondue avec une dépendance matérielle entre des processus. À l’inverse, des éléments peuvent être traités comme indépendants alors que leur relation est pertinente pour le problème.
+Une difficulté apparaît lorsque les relations sont présupposées plutôt qu’examinées. Une succession temporelle peut être interprétée comme une causalité ; une corrélation peut être tenue pour une explication ; une dépendance entre deux affirmations peut être confondue avec une dépendance matérielle entre des processus.
 
-L’enquête doit donc préciser la nature des relations qu’elle mobilise et la portée des conclusions qu’elle en tire.
+L’erreur inverse consiste à traiter des éléments comme indépendants alors que leurs relations sont pertinentes pour le problème. Une pratique peut dépendre de conditions matérielles, techniques ou institutionnelles ; une conclusion peut dépendre de plusieurs prémisses ; une description peut présupposer des distinctions ou des inférences qui ne sont pas explicitées.
 
-Relier ne consiste ni à supposer que tous les éléments sont interdépendants, ni à rechercher une relation unique qui expliquerait l’ensemble de la situation. Certaines relations peuvent être absentes, faibles, indirectes, conditionnelles ou insuffisamment établies.
+L’enquête doit donc déterminer la nature des relations mobilisées et la portée des conclusions qu’elles autorisent, sans présumer que tous les éléments sont interdépendants ni rechercher une relation unique qui expliquerait l’ensemble de la situation.
 
 ## Définition opérationnelle
 
-**Relier consiste à identifier, caractériser et examiner les relations et les dépendances pertinentes entre les éléments retenus pour traiter un problème descriptif.**
+Relier consiste à examiner les rapports entre les éléments retenus pour un problème descriptif, en précisant :
 
-L’opération peut conduire à :
+- les éléments concernés et les raisons de les mettre en relation ;
+- la nature du rapport examiné ;
+- les conditions dans lesquelles ce rapport se manifeste ;
+- les médiations et les facteurs susceptibles d’en modifier la portée ;
+- le statut de la relation : constatée, inférée, hypothétique ou indéterminée ;
+- les conséquences que son établissement permet effectivement de soutenir.
 
-- identifier les éléments entre lesquels une relation est proposée ou constatée ;
-- préciser la nature de cette relation ;
-- examiner les conditions dans lesquelles elle se manifeste ;
-- repérer les médiations et les facteurs susceptibles de modifier ses effets ;
-- distinguer les relations établies des hypothèses et des relations encore indéterminées ;
-- déterminer ce que la relation permet de conclure et ce qu’elle laisse ouvert.
+Une relation ne se réduit pas au vocabulaire employé pour la désigner. Affirmer que deux éléments sont liés, qu’un processus dépend d’un autre ou qu’une proposition entraîne une conséquence ne suffit pas à établir les modalités de ce rapport.
 
-La relation examinée ne doit pas être définie uniquement par le vocabulaire employé pour la désigner. Affirmer que deux éléments sont liés, qu’un processus dépend d’un autre ou qu’une proposition entraîne une conséquence ne suffit pas à établir les modalités de ce rapport.
+Il faut notamment distinguer **relation** et **dépendance**. Une dépendance constitue une forme particulière de relation : elle indique qu’un élément, un processus ou un résultat est affecté par un autre dans certaines conditions. Tous les rapports ne présentent pas cette forme. Deux événements peuvent être simultanés, comparables ou associés sans que l’un dépende de l’autre.
 
-La portée de l’opération dépend des éléments disponibles, du problème formulé et des exigences propres à la relation examinée.
+La portée de l’opération dépend du problème formulé, des éléments disponibles et des exigences propres à la relation examinée.
 
-## Conditions d’activation
+## Conditions de mobilisation
 
 Relier devient pertinent lorsque le traitement du problème exige d’examiner un rapport entre plusieurs éléments et que ce rapport ne peut être simplement présupposé.
 
-L’opération peut être mobilisée, par exemple, lorsque :
+L’opération peut notamment être mobilisée lorsque :
 
 - deux événements semblent liés, mais que la nature de leur relation reste incertaine ;
 - une conclusion dépend de plusieurs prémisses dont les rapports doivent être explicités ;
@@ -48,132 +48,119 @@ L’opération peut être mobilisée, par exemple, lorsque :
 - une modification observée conduit à examiner les dépendances entre plusieurs éléments ;
 - une configuration proposée repose sur des relations qui n’ont pas encore été suffisamment établies.
 
-Relier n’est pas une étape obligatoire après Distinguer. Une enquête peut commencer par une relation problématique, puis préciser les différences nécessaires à son examen. Elle peut également revenir sur une relation déjà examinée lorsque de nouveaux éléments conduisent à la réviser.
+Relier n’est pas une étape obligatoire après Distinguer. Une enquête peut commencer par une relation problématique, puis préciser les différences nécessaires à son examen. Elle peut également revenir sur une relation déjà étudiée lorsque de nouveaux éléments conduisent à la réviser.
 
 ## Questions d’examen
 
-Les questions suivantes servent de repères. Elles ne constituent pas une liste obligatoire à appliquer dans chaque enquête.
+Les questions suivantes servent de repères pour conduire l’opération. Elles ne constituent pas une procédure obligatoire ni une liste à appliquer intégralement.
 
-### 1. Quels éléments sont reliés ?
+### 1. Quels éléments sont mis en relation ?
 
 Il faut préciser les éléments concernés et les raisons de les retenir dans l’examen.
 
 Deux éléments peuvent être rapprochés parce qu’ils varient ensemble, parce que l’un intervient dans le fonctionnement de l’autre, parce qu’ils sont liés par une règle ou parce qu’une affirmation concernant l’un entraîne des conséquences pour l’autre.
 
-Leur présence dans une même situation ne suffit pas à établir une relation pertinente.
+Leur présence dans une même situation ne suffit pas à établir une relation pertinente. Le rapprochement doit répondre à une question identifiable.
 
-### 2. De quelle relation s’agit-il ?
+### 2. De quelle nature est la relation ?
 
 La relation doit être caractérisée selon le problème. Elle peut notamment être :
 
-- **causale**, lorsqu’il s’agit d’examiner si un processus contribue à produire un événement ou un changement ;
 - **temporelle**, lorsqu’il s’agit de préciser l’ordre, la durée ou la simultanéité de plusieurs événements ;
-- **fonctionnelle**, lorsqu’il s’agit d’examiner le rôle d’un élément dans une activité ou un dispositif ;
+- **causale**, lorsqu’il s’agit d’examiner si un processus contribue à produire un événement ou un changement ;
 - **matérielle**, lorsqu’il s’agit d’identifier des interactions ou des dépendances entre des processus, des corps, des dispositifs ou des ressources ;
+- **fonctionnelle**, lorsqu’il s’agit d’examiner le rôle d’un élément dans une activité ou un dispositif ;
+- **institutionnelle**, lorsqu’il s’agit d’examiner les rapports institués entre des positions, des règles, des compétences ou des obligations ;
 - **inférentielle**, lorsqu’il s’agit d’examiner les conséquences qu’une affirmation autorise à tirer d’autres affirmations ;
 - **normative**, lorsqu’il s’agit d’examiner les engagements, les obligations ou les habilitations associés à une prise de position.
 
-Cette liste est indicative. Ces relations ne s’excluent pas nécessairement : plusieurs peuvent intervenir dans une même situation. Leur articulation doit toutefois être établie, et non présupposée.
+Cette liste est indicative et ne constitue pas une classification exhaustive. Plusieurs types de relations peuvent intervenir dans une même situation, mais leur articulation doit être établie plutôt que présupposée.
+
+Il faut également distinguer les relations entre les éléments d’une situation et celles qui concernent les descriptions de cette situation. Une dépendance matérielle entre deux processus ne se confond pas avec une relation inférentielle entre deux propositions, même si les deux peuvent intervenir dans un même examen.
 
 ### 3. Dans quelles conditions la relation tient-elle ?
 
 Une relation peut dépendre de conditions particulières, de médiations ou de facteurs qui en modifient la portée.
 
-Il faut alors préciser, selon le cas, les conditions d’apparition de la relation, son domaine d’application, les éléments qui la modulent et les circonstances dans lesquelles elle cesse d’être pertinente.
+Il faut alors préciser, selon le cas, les conditions d’apparition du rapport, son domaine d’application, les éléments qui le modulent et les circonstances dans lesquelles il cesse d’être pertinent.
 
-Une relation observée dans un contexte déterminé ne peut pas être généralisée sans examen à d’autres situations.
+Une relation observée dans un contexte déterminé ne peut pas être généralisée sans examen à d’autres situations. Une dépendance peut également être asymétrique, conditionnelle ou limitée à certains aspects du problème.
 
-### 4. Quelles conséquences la relation autorise-t-elle ?
+### 4. Quel est le statut de la relation ?
+
+Il faut distinguer ce qui a été constaté, ce qui est inféré à partir d'autres éléments, ce qui est proposé comme hypothèse et ce qui reste indéterminé.
+
+Une relation observée n’est pas nécessairement expliquée. Une relation inférée dépend des prémisses et des règles qui autorisent l’inférence. Une hypothèse de relation demande des éléments supplémentaires pour être soutenue.
+
+Cette distinction évite de présenter comme établi un rapport qui reste seulement plausible ou supposé.
+
+### 5. Quelles conséquences la relation autorise-t-elle ?
 
 L’établissement d’une relation permet certaines conclusions, mais pas toutes celles qui paraissent compatibles avec elle.
 
-Une relation temporelle ne démontre pas à elle seule une causalité. Une relation causale ne détermine pas nécessairement la fonction d’un événement dans une pratique. Une relation inférentielle ne garantit pas la vérité des prémisses dont elle dépend.
+Une relation temporelle ne démontre pas à elle seule une causalité. Une relation causale ne détermine pas nécessairement la fonction d’un événement dans une pratique. Une relation inférentielle ne garantit pas la vérité des prémisses dont elle dépend. Une relation fonctionnelle ne suffit pas à justifier le maintien de la fonction considérée.
 
-Il faut donc préciser ce qui peut être conclu à partir de la relation établie, quelles prémisses supplémentaires seraient nécessaires et quelles incertitudes demeurent.
+Il faut donc préciser ce qui peut être conclu à partir de la relation examinée, quelles prémisses supplémentaires seraient nécessaires et quelles incertitudes demeurent.
 
-### 5. Qu’est-ce qui pourrait mettre la relation en question ?
+### 6. Qu’est-ce qui pourrait mettre la relation en question ?
 
 Une relation proposée doit pouvoir être réexaminée à partir des éléments disponibles.
 
 Selon le problème, l’enquête peut comparer des cas, rechercher des contre-exemples, examiner des situations où la relation attendue ne se manifeste pas, substituer un élément à un autre ou modifier les conditions de l’examen.
 
-L’absence de relation dans un cas ne suffit pas toujours à réfuter une relation générale. Elle peut conduire à en préciser les conditions, à restreindre sa portée ou à abandonner l’hypothèse initiale. Le choix entre ces possibilités demande un examen supplémentaire.
+L’absence de relation dans un cas ne suffit pas toujours à réfuter une relation plus générale. Elle peut conduire à en préciser les conditions, à restreindre sa portée ou à abandonner l’hypothèse initiale. Le choix entre ces possibilités demande un examen supplémentaire.
 
-## Exemple : une alarme qui ne déclenche pas l’intervention attendue
+## Exemple : une mesure et une décision d’alerte
 
-Considérons un dispositif d’alarme composé de capteurs, d’un système de transmission et d’une procédure d’intervention.
+Considérons un dispositif de surveillance du niveau d’un cours d’eau. Une station mesure la hauteur de l’eau. Un seuil est défini pour déclencher une alerte, laquelle peut conduire une autorité locale à prendre une décision.
 
-Une alerte est détectée, mais le service chargé d’intervenir ne la reçoit pas. L’enquête doit examiner plusieurs relations possibles.
+Plusieurs relations doivent être distinguées.
 
-**Relation matérielle.** Le fonctionnement du dispositif dépend de la transmission du signal entre ses composants. Il faut déterminer si cette transmission a effectivement eu lieu et dans quelles conditions.
+**Relation matérielle.** Le niveau de l’eau varie en fonction de processus physiques qui affectent le cours d’eau. La station de mesure est également soumise à des conditions matérielles qui peuvent affecter la fiabilité de ses relevés.
 
-**Relation temporelle.** Il faut établir à quel moment le signal a été détecté, transmis ou perdu, et situer ces événements les uns par rapport aux autres. Leur ordre ne suffit pas à établir leur relation causale.
+**Relation temporelle.** Il faut situer les variations du niveau, les relevés effectués, le franchissement éventuel du seuil et l’émission de l’alerte. Leur ordre ne suffit pas à établir les causes du changement observé.
 
-**Relation causale.** Si l’alerte n’a pas été reçue, l’enquête peut rechercher les facteurs qui ont contribué à cette défaillance : panne du réseau, défaut du composant, erreur de configuration ou autre circonstance pertinente. Le constat d’une absence de réception ne désigne pas à lui seul la cause de l’échec.
+**Relation inférentielle.** Le franchissement d’un seuil peut être associé à une règle selon laquelle une alerte doit être émise. Il faut examiner les conditions d’application de cette règle et la manière dont la mesure permet de soutenir l’affirmation selon laquelle le seuil a été franchi.
 
-**Relation fonctionnelle.** Le rôle du système de transmission doit être examiné relativement à l’activité du dispositif. La transmission peut contribuer à rendre l’intervention possible, mais cette fonction ne prouve pas que le système a rempli son rôle dans le cas considéré.
+**Relation institutionnelle.** L’émission de l’alerte peut être reliée à des compétences et à des procédures de décision. Le fait qu’une autorité soit habilitée à décider ne signifie pas que l’alerte entraîne automatiquement une décision déterminée.
 
-**Relation inférentielle.** Si une procédure suppose que toute alerte détectée est transmise au service compétent, l’échec observé met en question cette attente. Il reste à déterminer si la règle est incorrecte, si une condition d’application n’était pas satisfaite ou si un incident particulier explique le résultat.
+Ces relations portent sur une même situation, mais elles ne répondent pas à la même question. Les distinguer permet d’examiner les rapports entre les processus physiques, les mesures, les règles d’alerte et les décisions, sans convertir l’un de ces rapports en un autre.
 
-Ces relations concernent le même événement, mais elles ne répondent pas à la même question. Les établir séparément permet de déterminer quelles conclusions sont soutenues et quelles relations restent à examiner.
-
-L’opération Relier ne produit pas à elle seule une explication complète du dysfonctionnement. Elle prépare l’examen de l’organisation des composants, des dépendances et des conséquences pertinentes, sans se substituer à Configurer ni à Justifier.
+L’opération Relier ne produit pas à elle seule une explication complète de la situation ni une justification de la décision. Elle précise les rapports à partir desquels ces examens peuvent être poursuivis.
 
 ## Articulation avec les autres opérations
 
-Relier prend place dans la chaîne principale de l’enquête :
+Relier s’inscrit dans l’organisation fonctionnelle de l’enquête sans constituer une étape obligatoire ou irréversible.
 
-**Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter**
+Sa différence avec les opérations voisines tient au travail qu’elle désigne :
 
-Cette chaîne est un repère fonctionnel, non une procédure obligatoire. Les opérations peuvent être combinées, reprises ou réordonnées selon la difficulté rencontrée.
+- **Distinguer** établit les différences nécessaires à l’examen du problème. Relier examine les rapports entre les éléments ainsi distingués, sans supposer qu’ils soient indépendants.
+- **Configurer** reconstruit l’organisation pertinente des éléments, des relations et des contraintes au regard du problème. Relier contribue à ce travail, mais ne détermine pas à lui seul l’organisation à retenir.
+- **Justifier** examine les raisons, les prémisses, les critères et les inférences qui permettent de soutenir ou de contester une conclusion. Une relation établie peut contribuer à une justification sans constituer automatiquement une raison suffisante.
 
-### Relier et Distinguer
+Ces opérations peuvent être mobilisées conjointement ou reprises selon la difficulté. Une relation nouvellement identifiée peut conduire à revoir une distinction ; une relation insuffisamment établie peut fragiliser une configuration ; une justification contestée peut conduire à réexaminer les rapports invoqués pour soutenir une conclusion.
 
-[Distinguer](fr/distinguer.md) permet d’établir les différences nécessaires à l’examen du problème. Relier examine les rapports entre les éléments ainsi distingués.
+La chaîne principale — Délimiter, Ancrer, Distinguer, Relier, Configurer, Justifier, Reconstituer, Redélimiter — constitue un repère de présentation et d’orientation, non un ordre obligatoire. Une enquête peut commencer par l’examen d’une relation et mobiliser les autres opérations selon les besoins.
 
-Distinguer ne suppose pas que les éléments soient indépendants. Relier ne supprime pas les différences établies entre eux.
+Pour la présentation générale des opérations et de leurs articulations, voir [La chaîne principale de l’enquête](fr/la-chaine-principale-de-l-enquete.md) et [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md).
 
-### Relier et Configurer
+## Orientation Relation
 
-Configurer examine l’organisation des éléments et de leurs relations au regard du problème.
+L’orientation **Relation** indique sous quel rapport une situation, une pratique, une opération ou un résultat est examiné. Elle conduit à interroger les rapports, les dépendances et les médiations entre les éléments concernés.
 
-Relier contribue à cette opération en précisant les relations pertinentes et leur portée. Il ne détermine pas à lui seul la configuration à retenir, car l’organisation d’ensemble peut dépendre d’autres éléments, de contraintes ou de choix descriptifs.
+L’opération **Relier** désigne le travail effectué pour identifier et caractériser ces rapports.
 
-Une configuration peut ainsi être révisée lorsque certaines relations se révèlent incertaines, inadéquates ou incomplètes.
+Les deux notions sont étroitement associées, mais ne sont pas interchangeables. L’orientation précise la question posée ; l’opération désigne le travail mobilisé pour y répondre.
 
-### Relier et Justifier
+L’orientation Relation peut conduire à mobiliser plusieurs opérations. Inversement, Relier peut contribuer à l’examen de plusieurs orientations : l’étude d’une relation causale peut soulever une question de condition, celle d’une relation fonctionnelle une question de fonction, et celle d’une relation inférentielle une question de justification.
 
-[Justifier](fr/justifier.md) consiste à examiner les raisons, les prémisses, les critères et les engagements qui permettent de soutenir ou de contester une conclusion.
+L’orientation Relation ne constitue donc ni une opération supplémentaire ni une grille obligatoire. Elle aide à préciser le rapport sous lequel une difficulté est examinée, sans déterminer à elle seule le travail nécessaire.
 
-Une relation établie peut contribuer à une justification, mais elle ne constitue pas automatiquement une raison suffisante. Il faut encore examiner la pertinence de cette relation pour la conclusion, les prémisses mobilisées et les critères d’évaluation applicables.
-
-Relier et Justifier remplissent donc des fonctions distinctes, même lorsqu’ils interviennent conjointement.
-
-### Relier et Reconstituer
-
-[Reconstituer](fr/reconstituer.md) permet de rendre explicites les transformations, les dépendances et les choix intervenus au cours de l’enquête.
-
-Cette opération peut conduire à réexaminer les relations précédemment retenues, notamment lorsqu’une reconstruction fait apparaître une dépendance négligée ou une inférence insuffisamment établie.
-
-Reconstituer ne consiste pas à transformer les relations examinées en une succession nécessaire d’événements ou d’opérations.
-
-## Articulation avec la quadripartition de l’orientation
-
-La [quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) distingue quatre orientations d’examen : **Condition, Relation, Fonction et Justification**.
-
-L’orientation Relation et l’opération Relier sont étroitement associées, mais elles ne sont pas identiques.
-
-L’orientation Relation indique sous quel rapport une difficulté est examinée : les dépendances, les médiations ou les rapports entre les éléments deviennent alors pertinents pour l’enquête.
-
-L’opération Relier désigne le travail effectué pour identifier et caractériser ces rapports.
-
-L’orientation Relation peut conduire à mobiliser plusieurs opérations. Inversement, Relier peut contribuer à l’examen de plusieurs orientations : une relation causale peut soulever une question de condition, une relation fonctionnelle une question de fonction, et une relation inférentielle une question de justification.
-
-La quadripartition ne constitue donc ni une étape supplémentaire ni une grille obligatoire. Elle peut aider à préciser la difficulté et à choisir le travail à reprendre.
+Pour la définition des orientations et leurs relations avec les opérations, voir [Orientation de l’examen](fr/orientation-de-l-examen.md).
 
 ## Instruments d’épreuve et révision
 
-Les relations proposées dans une enquête doivent pouvoir être mises à l’épreuve. Les moyens employés dépendent du type de relation et des éléments disponibles.
+Les relations proposées dans une enquête doivent pouvoir être mises à l’épreuve. Les moyens employés dépendent de leur nature et des éléments disponibles.
 
 L’enquête peut notamment recourir à :
 
@@ -186,20 +173,18 @@ Ces instruments ne sont pas équivalents et ne conviennent pas à toutes les rel
 
 Une relation peut être confirmée dans certaines conditions, restreinte à un domaine, reformulée comme hypothèse ou abandonnée. L’enquête doit rendre explicites les raisons de la révision et conserver les incertitudes que les éléments disponibles ne permettent pas de lever.
 
-## Ce que Relier permet d’établir
+## Portée et limites des résultats
 
 Relier permet de préciser :
 
 - quels éléments entretiennent une relation pertinente pour le problème ;
 - de quelle nature est cette relation ;
 - quelles conditions et médiations affectent sa portée ;
+- si le rapport est constaté, inféré, hypothétique ou indéterminé ;
 - quelles conséquences peuvent en être tirées ;
-- quelles relations sont établies, proposées ou encore incertaines ;
-- quelles questions doivent être reprises avant de construire une configuration ou de soutenir une conclusion.
+- quelles relations doivent être réexaminées avant de construire une configuration ou de soutenir une conclusion.
 
 La portée du résultat dépend de la qualité des éléments disponibles et de l’examen effectivement réalisé.
-
-## Ce que Relier n’établit pas
 
 Relier ne permet pas, à lui seul :
 
@@ -215,9 +200,9 @@ Une relation peut être réelle sans être pertinente pour le problème étudié
 
 ## Synthèse
 
-Relier consiste à examiner les relations et les dépendances pertinentes entre les éléments retenus dans une enquête. L’opération précise la nature de ces relations, leurs conditions et la portée des conclusions qu’elles autorisent.
+Relier consiste à examiner les relations pertinentes entre les éléments retenus dans une enquête. L’opération précise la nature de ces rapports, leurs conditions, leur statut et la portée des conclusions qu’ils autorisent.
 
-Elle contribue à la construction d’une configuration sans se confondre avec Configurer, et elle fournit des éléments à examiner sans se substituer à Justifier.
+Elle contribue à la construction d’une configuration sans se confondre avec Configurer, et fournit des éléments à examiner sans se substituer à Justifier.
 
 **Établir une relation ne suffit pas à déterminer ce qu’elle explique, la fonction qu’elle exerce ni ce qu’elle permet de conclure.**
 
@@ -226,6 +211,7 @@ Elle contribue à la construction d’une configuration sans se confondre avec C
 - [Distinguer](fr/distinguer.md) — Établir les différences nécessaires à l’examen du problème.
 - [Configurer](fr/configurer.md) — Examiner l’organisation des éléments et de leurs relations.
 - [Justifier](fr/justifier.md) — Examiner les raisons et les critères qui soutiennent une conclusion.
-- [Reconstituer](fr/reconstituer.md) — Rendre explicites les dépendances et les transformations du parcours d’enquête.
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations sous lesquelles une difficulté peut être examinée.
+- [Reconstituer](fr/reconstituer.md) — Rendre explicites les transformations et les dépendances du parcours d’enquête.
+- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Préciser les rapports sous lesquels une situation ou une pratique peut être examinée.
 - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations, les orientations, les fonctions transversales et les instruments d’épreuve.
+- [La chaîne principale de l’enquête](fr/la-chaine-principale-de-l-enquete.md) — Présenter les opérations actuellement identifiées et leurs articulations.
