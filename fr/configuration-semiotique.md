@@ -86,18 +86,9 @@ L’exemple permet ainsi de distinguer la disponibilité d’un signe, son inter
 
 La configuration sémiotique peut être examinée selon les besoins de l’enquête, notamment lorsque la pertinence d’une différence, la reconnaissance d’un signe ou l’interprétation d’une trace devient problématique.
 
-Les quatre orientations de Protokin permettent alors de différencier les questions posées :
+L’examen d’une configuration sémiotique peut porter sur les conditions de production et de reconnaissance des signes, les relations entre les éléments qui la composent, les fonctions qu’ils remplissent dans une pratique et les raisons qui permettent de soutenir une interprétation.
 
-- **Condition** : quelles conditions corporelles, matérielles, techniques ou institutionnelles affectent la disponibilité et la reconnaissance des signes ?
-- **Relation** : quelles relations entre signes, situations et pratiques sont effectivement établies ?
-- **Fonction** : quel rôle les signes reconnus jouent-ils dans l’activité examinée ?
-- **Justification** : quelles raisons et quels critères permettent de défendre ou de contester une interprétation ?
-
-Ces orientations ne constituent ni quatre composantes de la configuration sémiotique ni des phases successives de son établissement. Elles servent à distinguer les questions pertinentes pour un problème donné.
-
-L’examen peut mobiliser les opérations de l’enquête selon les besoins rencontrés, sans imposer une chaîne de constitution allant de la perception à la description.
-
-Voir [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) et [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md).
+Ces rapports ne constituent pas les dimensions fixes de toute configuration sémiotique. Leur pertinence dépend du problème examiné. Certaines difficultés peuvent appeler plusieurs de ces questionnements ; d’autres peuvent nécessiter un examen différent.
 
 ## 7. Limites et non-conversions
 
