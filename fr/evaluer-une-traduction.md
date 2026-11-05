@@ -173,9 +173,11 @@ Elle s’articule notamment avec :
 - [Réaliser un audit](realiser-un-audit.md), qui examine plus largement les distinctions, les passages et les justifications d’une pratique ;
 - [Écologie des régimes descriptifs](ecologie-des-regimes-descriptifs.md), qui étudie les rapports entre des régimes descriptifs ;
 - [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md), qui situe les opérations et leurs reprises ;
-- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md), qui aide à distinguer les questions relatives aux conditions, aux relations, aux fonctions et aux justifications.
+- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Préciser sous quel rapport une difficulté d’identification, d’attribution ou de substitution est examinée.
 
-La quadripartition ne constitue pas ici une séquence d’évaluation. Elle permet de repérer des questions distinctes : les conditions dans lesquelles le passage est produit, les relations établies entre les descriptions, la fonction du passage dans la pratique et les raisons qui permettent d’en défendre les conclusions.
+L’évaluation d’une traduction peut appeler plusieurs types de questionnement. L’examen peut porter sur les conditions dans lesquelles le passage a été produit et traduit, les relations établies entre les descriptions, la fonction du passage dans la pratique considérée et les raisons qui permettent de défendre les choix de traduction.
+
+Ces questions ne constituent pas une séquence d’évaluation. Elles ne sont pas non plus exhaustives : les difficultés rencontrées peuvent appeler d’autres distinctions ou conduire à reprendre l’examen d’un passage particulier.
 
 L’évaluation peut conduire à reprendre la traduction, à comparer plus précisément les descriptions ou à redélimiter le problème. Elle ne constitue pas une étape obligatoire de toute enquête.
 
