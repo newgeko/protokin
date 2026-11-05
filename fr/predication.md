@@ -117,9 +117,9 @@ Elle peut notamment aider à repérer :
 - des conséquences inférentielles qui reposent sur des prémisses contestables ;
 - une confusion entre attribution, correction et justification.
 
-Son examen peut mobiliser plusieurs orientations de la quadripartition : les conditions dans lesquelles l’attribution est produite, les relations qu’elle suppose, la fonction qu’elle remplit et les raisons avancées pour la défendre.
+L’examen d’une prédication peut porter sur les conditions dans lesquelles une propriété est attribuée, les relations entre le sujet et le prédicat, la fonction de cette attribution dans la pratique et les raisons qui permettent de la soutenir.
 
-Ces orientations ne sont pas des étapes de l’analyse linguistique. Elles servent à préciser les questions pertinentes en fonction du problème rencontré.
+Ces questions ne constituent pas les dimensions nécessaires de toute prédication. Elles permettent de distinguer les aspects d’une attribution lorsqu’une difficulté descriptive le justifie.
 
 La prédication ne constitue donc ni une phase obligatoire de toute enquête ni une théorie générale du langage. Elle fournit un point d’analyse lorsque la fonction d’une attribution doit être clarifiée.
 
