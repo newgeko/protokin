@@ -101,9 +101,9 @@ Elle peut notamment aider à repérer :
 
 Son rôle est circonscrit. Elle permet d’examiner certains passages entre contenus, sans déterminer à elle seule si ces contenus sont appropriés à la situation ou si les conclusions sont suffisamment justifiées.
 
-Dans la quadripartition, cette analyse peut contribuer à l’examen des relations entre prémisses et conclusions. La justification demande toutefois d’autres vérifications : les prémisses sont-elles recevables, les règles employées sont-elles appropriées et les conclusions sont-elles défendables au regard du problème ?
+L’analyse formelle permet d’examiner les relations entre les prémisses et les conclusions au regard des règles d’inférence employées. Elle ne suffit toutefois pas à établir que les prémisses sont recevables, que les règles sont appropriées au problème ou que les conclusions sont adéquates à la situation décrite.
 
-Ces orientations ne constituent pas les étapes d’un raisonnement obligatoire. Elles différencient les questions auxquelles l’enquête doit répondre.
+Ces questions exigent un examen distinct des raisons et des conditions dans lesquelles l’inférence est mobilisée.
 
 ## 8. Ce que l’inférence formelle n’établit pas
 
@@ -135,4 +135,3 @@ L’analyse formelle peut ainsi contribuer à l’enquête sans prétendre la re
 - [Proposition](fr/proposition.md)
 - [Assertion](fr/assertion.md)
 - [Justifier](fr/justifier.md)
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
