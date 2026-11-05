@@ -108,18 +108,9 @@ L’exemple montre que la conservation et le déplacement d’un signe rendent c
 
 L’indexation et la réindexation peuvent être examinées lorsque le rapport entre un signe et les conditions de son usage devient problématique.
 
-Les quatre orientations de Protokin permettent alors de différencier plusieurs questions :
+L’examen d’une indexation ou d’une réindexation peut porter sur les conditions dans lesquelles une trace devient identifiable, les relations établies entre cette trace et d’autres éléments, la fonction de l’indexation dans la pratique et les raisons qui permettent de défendre l’interprétation retenue.
 
-- **Condition :** quelles circonstances matérielles, corporelles, techniques ou institutionnelles affectent la production, la conservation ou l’utilisation du signe ?
-- **Relation :** à quelles situations, traces, pratiques ou autres signes est-il rapporté ?
-- **Fonction :** quel rôle exerce-t-il dans la pratique considérée, et ce rôle demeure-t-il comparable entre les contextes ?
-- **Justification :** quels éléments et quels critères permettent de défendre ou de contester son interprétation et les conclusions qui en découlent ?
-
-Ces orientations ne sont ni des composantes de l’indexation ni des étapes successives de la réindexation. Elles permettent de préciser les questions pertinentes en fonction du problème rencontré.
-
-L’examen peut conduire à reprendre une description, à réviser une identification ou à redélimiter le problème initial. Il ne suppose pas que tout signe doive être réindexé systématiquement : cette reprise devient pertinente lorsque les conditions de son usage, la continuité de sa fonction ou la portée des conclusions sont en question.
-
-Voir [Quadripartition de l’orientation](quadripartition-de-l-orientation.md) et [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md).
+Ces questions ne constituent pas les quatre dimensions nécessaires d’une opération d’indexation. Elles permettent de préciser les difficultés rencontrées, notamment lorsqu’un changement d’usage transforme la fonction d’une trace ou les conditions de son interprétation.
 
 ## 7. Limites et non-conversions
 
