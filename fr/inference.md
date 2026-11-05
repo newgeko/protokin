@@ -105,9 +105,9 @@ Voir [Raisons](raisons.md), [Justifications](fr/justifications.md) et [Critères
 
 L’inférence intervient dans l’examen des relations entre des descriptions, des engagements et des conclusions. Elle contribue à rendre explicites les dépendances discursives mobilisées dans une pratique.
 
-Dans la quadripartition de Protokin, elle concerne notamment l’orientation **Relation**, puisqu’elle examine les passages entre des contenus. Elle peut également appeler une analyse relevant de la **Justification**, lorsqu’il faut défendre les règles, les prémisses ou les conclusions mobilisées.
+L’examen d’une inférence peut porter sur les relations entre les contenus, les prémisses et les conclusions. Il peut également appeler l’examen des raisons qui permettent de défendre les règles, les prémisses ou les conclusions mobilisées.
 
-Ces orientations sont liées, mais elles ne se confondent pas. Identifier une relation inférentielle ne suffit pas à justifier le passage qu’elle autorise ; justifier une conclusion suppose d’examiner les éléments pertinents pour la question posée.
+L’inférence ne relève toutefois pas d’une orientation unique. Les rapports pertinents dépendent du problème traité et des éléments dont l’enquête doit établir la portée.
 
 Dans l’architecture fonctionnelle de l’enquête, l’examen des inférences peut intervenir lors de la distinction des éléments, de la reconstruction de leurs relations, de la justification des conclusions ou de l’audit d’une analyse. Il ne constitue pas une étape autonome imposée à toute enquête.
 
@@ -148,5 +148,5 @@ L’inférence contribue ainsi à l’enquête sans se substituer à l’examen 
 - [Raisons](fr/raisons.md)
 - [Justifications](fr/justifications.md)
 - [Critères](criteres.md)
-- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md)
+- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Préciser sous quel rapport une difficulté d’identification, d’attribution ou de substitution est examinée.
 - [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md)
