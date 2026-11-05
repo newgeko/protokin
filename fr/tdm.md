@@ -59,7 +59,7 @@ Cet ordre n’est ni une procédure obligatoire ni une progression nécessaire. 
 ### D. Configurer et justifier
 
 - [Configurer](fr/configurer.md) — Organiser les éléments retenus et leurs relations au regard du problème examiné.
-- [Justifier](fr/justifier.md) — Examiner les raisons, les critères, les engagements et les incompatibilités qui affectent une conclusion.
+- [Justifier](fr/justifier.md) — Examiner les raisons, les prémisses, les critères et les inférences qui soutiennent ou contestent une conclusion.
 
 ### E. Reconstituer et redélimiter
 
