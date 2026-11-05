@@ -91,7 +91,7 @@ Un motif intéressé ne rend pas nécessairement une affirmation fausse. Un moti
 
 L’analyse doit distinguer les conditions de production d’une prise de position, les motifs susceptibles de l’orienter et les éléments permettant d’en évaluer le contenu ou les conséquences.
 
-8. Articulation avec l’enquête de Protokin
+## 8. Articulation avec l’enquête de Protokin
 
 Le motif intervient lorsqu’il est pertinent de comprendre ce qui oriente une conduite ou une prise de position. Il ne constitue ni une étape obligatoire de l’enquête ni une explication suffisante de tout comportement.
 
@@ -103,9 +103,11 @@ Selon le problème rencontré, l’enquête peut examiner :
 - les raisons avancées pour défendre une affirmation ou une décision ;
 - les critères permettant d’évaluer cette défense.
 
-La quadripartition de l’orientation aide à maintenir ces questions distinctes. Les motifs peuvent notamment être étudiés en relation avec les conditions d’une conduite, les dépendances qui l’affectent, la fonction qu’elle remplit et les justifications qui lui sont associées. Ils ne constituent pas une cinquième orientation.
+L’examen des motifs peut porter sur les conditions dans lesquelles une conduite se produit, les relations qui contribuent à la situation, la fonction que remplit la conduite dans la pratique et les raisons que les acteurs invoquent pour l’expliquer ou la défendre.
 
-Synthèse
+Ces questions ne doivent pas être confondues. Un motif attribué à un acteur ne constitue pas nécessairement une cause de sa conduite ni une justification de celle-ci.
+
+## Synthèse
 
 Un motif contribue à expliquer ce qui conduit un agent à agir ou à adopter une prise de position. Son identification dépend des déclarations, des indices et des interprétations disponibles.
 
