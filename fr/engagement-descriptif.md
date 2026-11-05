@@ -139,7 +139,9 @@ L’enquête peut alors chercher à préciser :
 
 Cette analyse peut mobiliser plusieurs opérations de l’enquête, notamment distinguer, relier et justifier. Elle ne constitue pas une étape obligatoire de la chaîne principale et ne détermine pas à l’avance l’issue de l’examen.
 
-Dans la quadripartition, l’engagement descriptif intéresse particulièrement les relations entre les contenus soutenus, les fonctions discursives et les questions de justification. Il ne constitue pas pour autant une cinquième orientation ni une composante ontologique de toute description.
+L’engagement descriptif peut être examiné sous différents rapports. Il importe notamment de préciser les conditions dans lesquelles il est attribué, les relations entre les contenus soutenus et leurs conséquences, la fonction de cet engagement dans la pratique et les raisons qui permettent de défendre ou de contester l’imputation.
+
+Ces questions ne font pas de l’engagement descriptif une orientation supplémentaire. Elles indiquent différents aspects sous lesquels il peut devenir pertinent pour l’enquête.
 
 L’engagement est un objet d’analyse parmi d’autres : son examen peut être nécessaire dans une difficulté donnée, mais il ne résume ni la pratique descriptive ni l’ensemble de ses conditions.
 
@@ -161,4 +163,4 @@ L’enjeu est de rendre les engagements explicites sans les réduire aux intenti
 - [Recevabilité](fr/recevabilite.md)
 - [Norme descriptive](fr/norme-descriptive.md)
 - [Espace des raisons](fr/espace-des-raisons.md)
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
+- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Préciser sous quel rapport une difficulté d’identification, d’attribution ou de substitution est examinée.
