@@ -133,19 +133,7 @@ La cohérence de l'organisation conceptuelle ne garantit pas la pertinence de ch
 
 ## 8. Usage et fonction d'un concept
 
-Il convient de distinguer l’usage d’un concept de sa fonction.
-
-L’**usage** désigne la manière située dont un concept est mobilisé dans une pratique descriptive, un raisonnement ou une enquête. Il concerne ce que l’on fait effectivement avec ce concept dans une situation déterminée : établir une distinction, formuler une question, soutenir une inférence, examiner un cas ou contester une description.
-
-La **fonction** désigne la contribution que le concept apporte à cette pratique ou à cette enquête. Elle concerne ce que sa mobilisation permet d’accomplir dans un contexte donné : préciser une distinction, rendre une relation intelligible, soutenir une opération descriptive ou mettre une description à l’épreuve.
-
-Un même concept peut ainsi connaître plusieurs usages sans que sa fonction générale soit nécessairement modifiée. Inversement, l’examen de ses usages peut conduire à préciser, réviser ou contester la fonction qui lui est attribuée.
-
-Cette distinction permet également de ne pas confondre la fonction assignée à un concept et sa fonction effective. La première correspond au rôle que le projet entend lui donner ; la seconde se dégage de l’examen de ses usages et de ses effets dans les pratiques descriptives. Un écart entre les deux constitue un objet d’analyse, et non une anomalie à écarter d’emblée.
-
-Il faut enfin distinguer la fonction d’un concept de l’orientation **Fonction** de la quadripartition. La première désigne la contribution d’une notion dans une pratique ou une enquête. La seconde constitue un angle d’examen permettant d’interroger le rôle joué par un élément dans une pratique descriptive. Les deux emplois du terme sont liés, mais ils ne se situent pas au même niveau.
-
-L’usage permet donc d’observer comment un concept intervient ; l’examen de ses usages permet d’établir, de préciser ou de contester sa fonction.
+Il faut enfin distinguer la fonction d’un concept de l’orientation d’examen Fonction. La première désigne la contribution d’une notion dans une pratique ou une enquête. La seconde constitue un angle d’examen permettant d’interroger le rôle joué par un élément dans une pratique descriptive. Les deux emplois du terme sont liés, mais ils ne se situent pas au même niveau.
 
 ## Synthèse
 
