@@ -114,7 +114,9 @@ L’examen peut alors porter sur les questions suivantes :
 - Comment se rapporte-t-il aux raisons avancées et à la justification proposée ?
 - Qu’est-ce qui pourrait conduire à préciser ou à réviser son usage ?
 
-La quadripartition aide à distinguer les conditions d’application du critère, les relations entre les éléments examinés, la fonction qu’il remplit et la justification de son maintien. Elle ne fournit pas, à elle seule, la réponse à ces questions.
+L’examen d’un critère peut porter sur les conditions de son application, les relations entre les éléments auxquels il s’applique, la fonction qu’il remplit dans la pratique et les raisons qui permettent de le maintenir ou de le réviser.
+
+Ces questions ne constituent pas une grille obligatoire. Elles permettent de distinguer les différents rapports engagés dans l’usage d’un critère, sans présupposer que chacun doit être examiné dans toute situation.
 
 Dans la chaîne d’enquête, l’examen des critères peut intervenir notamment lors de **Distinguer**, **Justifier**, **Auditer** ou **Éprouver**, selon le problème rencontré. Ces opérations ne garantissent pas qu’un critère soit adéquat du seul fait qu’il a été explicité ou appliqué.
 
@@ -152,5 +154,5 @@ Pour approfondir :
 - [Raison](fr/raison.md) — Préciser ce qui peut soutenir, contester ou réviser une conclusion.
 - [Justifications](fr/justifications.md) — Examiner les conditions dans lesquelles une prise de position peut être défendue.
 - [Espace des raisons](fr/espace-des-raisons.md) — Situer les relations entre raisons, conclusions, habilitations et incompatibilités.
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Situer l’examen des critères parmi les quatre orientations de l’enquête.
+- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Préciser sous quel rapport une difficulté d’identification, d’attribution ou de substitution est examinée.
 - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Présenter les opérations et les fonctions transversales de l’enquête.
