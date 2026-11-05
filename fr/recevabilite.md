@@ -126,18 +126,11 @@ La recevabilité intervient lorsqu’il faut déterminer si une description ou u
 
 Elle peut être liée à la formulation d’une prétention, aux engagements associés à une assertion, aux conditions institutionnelles d’une procédure ou aux normes qui règlent la discussion. Aucune de ces relations ne constitue à elle seule une chaîne nécessaire menant de la production d’une description à sa validation.
 
-Dans la quadripartition, plusieurs orientations peuvent être mobilisées pour examiner une difficulté de recevabilité :
+L’examen d’une difficulté de recevabilité peut porter sur les conditions dans lesquelles une affirmation est admise, les relations entre les éléments invoqués, la fonction de cette affirmation dans la pratique et les raisons qui permettent de soutenir son acceptation ou son rejet.
 
-- **Condition** : quelles contraintes matérielles, techniques ou institutionnelles affectent la possibilité d’examiner la proposition ?
-- **Relation** : comment la proposition se rapporte-t-elle à la question traitée, aux autres descriptions et aux engagements pertinents ?
-- **Fonction** : quel rôle l’admission ou l’exclusion de la proposition joue-t-elle dans la pratique ?
-- **Justification** : quelles raisons permettent de défendre les conditions d’admission retenues, ou de contester leur application ?
-
-Ces orientations différencient les questions de l’enquête. Elles ne sont ni des composantes de la recevabilité ni des étapes obligatoires de son examen.
+Ces questions ne constituent pas une procédure uniforme. Les exigences de recevabilité dépendent de la pratique considérée et du type de proposition examiné.
 
 Une difficulté de recevabilité peut conduire à clarifier une proposition, à reprendre les conditions de son examen ou à contester une règle d’admission. Elle peut aussi révéler un problème distinct de validité ou de justification, qui doit alors être examiné pour lui-même.
-
-Voir [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) et [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md).
 
 ## Synthèse
 
@@ -156,5 +149,4 @@ Pour poursuivre :
 - [Justification](fr/justification.md) — Examiner les raisons et les critères mobilisés pour défendre ou réviser un engagement.
 - [Norme descriptive](fr/norme-descriptive.md) — Examiner les contraintes qui règlent la production, l’évaluation et la révision des descriptions.
 - [Engagement descriptif](fr/engagement-descriptif.md) — Examiner les engagements associés à une prise de position descriptive.
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les quatre orientations de l’examen.
 - [Table des matières](fr/tdm.md) — Replacer cette page dans l’organisation du corpus.
