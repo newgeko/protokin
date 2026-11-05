@@ -110,17 +110,9 @@ Ces analyses peuvent être articulées, mais leur différence de fonction doit �
 
 L’inférence mutuelle peut être étudiée lorsqu’un problème descriptif conduit à examiner comment une relation est apprise, appliquée ou dérivée.
 
-La quadripartition permet d’orienter cet examen sans imposer quatre étapes successives.
+L’examen d’une inférence mutuelle peut être orienté par les difficultés propres aux relations réciproques entre les contenus considérés. Il peut notamment s’agir de préciser les conditions de leur établissement, les relations entre les termes concernés, la fonction de ces relations dans la pratique ou les raisons permettant de soutenir les conclusions obtenues.
 
-**Condition.** Quelles conditions d’apprentissage, quels supports et quels contextes interviennent dans la dérivation ?
-
-**Relation.** Quelle relation a été apprise et quelle relation réciproque est dérivée ?
-
-**Fonction.** Quel rôle cette dérivation joue-t-elle dans la pratique examinée ?
-
-**Justification.** Quels éléments permettent de défendre les conclusions qui reposent sur cette relation ?
-
-Ces questions sont liées, mais elles ne se substituent pas les unes aux autres. Expliquer les conditions d’une dérivation ne suffit pas à établir l’adéquation de son résultat. Décrire son rôle dans une pratique ne suffit pas à justifier les conclusions qui en sont tirées.
+Ces questions ne constituent pas une séquence d’analyse. Elles peuvent être reprises ou complétées selon les résultats de l’examen.
 
 L’inférence mutuelle constitue donc un objet d’examen possible dans l’enquête. Elle n’est ni une opération obligatoire de la chaîne principale ni une étape nécessaire de toute description.
 
@@ -155,5 +147,4 @@ Pour Protokin, l’enjeu est de décrire cette capacité sans convertir les cond
 - [Inférence formelle](fr/inference-formelle.md)
 - [Inférence matérielle](fr/inference-materielle.md)
 - [Transformation relationnelle des fonctions de stimulus](fr/transformation-relationnelle-rft.md)
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
 - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
