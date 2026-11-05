@@ -63,8 +63,8 @@ Cet ordre n’est ni une procédure obligatoire ni une progression nécessaire. 
 
 ### E. Reconstituer et redélimiter
 
-- [Reconstituer](fr/reconstituer.md) — Reprendre les relations et les transformations pertinentes à la lumière des résultats de l’enquête.
-- [Redélimiter](fr/redelimiter.md) — Réviser le périmètre du problème lorsque l’examen conduit à reformuler la difficulté initiale.
+- [Reconstituer](fr/reconstituer.md) — Rendre le cheminement de l’enquête intelligible et réexaminable à partir des éléments disponibles.
+- [Redélimiter](fr/redelimiter.md) — Réexaminer la formulation et le périmètre du problème à la lumière des résultats et des difficultés de l’enquête.
 
 ## III. Examiner les orientations et les conditions de l’enquête
 
