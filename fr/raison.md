@@ -113,7 +113,9 @@ Ces distinctions ne signifient pas que les raisons dépendent uniquement des pr�
 
 Les raisons interviennent lorsque l’enquête examine ce qui permet de soutenir, de contester ou de réviser une description ou une conclusion.
 
-Elles sont particulièrement pertinentes pour l’orientation **Justification** de la quadripartition, sans s’y réduire : des raisons peuvent également intervenir dans l’examen des relations entre des assertions, des prémisses et des conclusions.
+Les raisons sont particulièrement pertinentes lorsque l’enquête examine les conditions dans lesquelles une description ou une conclusion peut être défendue. Elles peuvent également intervenir dans l’examen des relations entre assertions, prémisses et conclusions.
+
+La question des raisons ne se limite donc pas à une orientation unique. Leur rôle dépend de la pratique et du problème dans lesquels elles sont mobilisées.
 
 Dans la chaîne d’enquête, leur examen peut contribuer à l’opération **Justifier**. Il ne constitue cependant ni une étape isolée des autres opérations ni une garantie du résultat. Une raison peut conduire à reprendre une distinction, à rechercher de nouveaux éléments ou à redélimiter le problème.
 
@@ -123,7 +125,6 @@ La page se concentre sur le rôle des raisons. Pour approfondir les notions vois
 - [Espace des raisons](fr/espace-des-raisons.md) — Situer les relations entre raisons, conclusions, habilitations et incompatibilités.
 - [Justifications](fr/justifications.md) — Examiner les conditions dans lesquelles une prise de position peut être défendue.
 - [Critère](fr/critere.md) — Préciser les exigences au regard desquelles une description ou une conclusion est évaluée.
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Situer l’examen des raisons parmi les quatre orientations de l’enquête.
 
 ## Synthèse
 
