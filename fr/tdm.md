@@ -32,7 +32,7 @@ L’organisation documentaire, l’architecture fonctionnelle et la conduite d�
 
 Une enquête devient pertinente lorsque les ressources descriptives disponibles ne permettent plus de traiter une difficulté de manière satisfaisante. Les pages de cette partie précisent le problème, les opérations disponibles et les possibilités de reprise.
 
-La chaîne principale constitue un repère d’orientation :
+L’ordre de présentation des opérations constitue un repère d’orientation :
 
 **Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter**
 
