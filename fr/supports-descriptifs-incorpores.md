@@ -123,14 +123,9 @@ Ces distinctions n’impliquent pas que les dimensions concernées soient indép
 
 La notion de support descriptif incorporé devient pertinente lorsque le problème porte sur les capacités acquises qui contribuent à une discrimination, une qualification ou une action descriptive.
 
-La quadripartition permet de préciser les questions que soulève son examen :
+L’examen des supports descriptifs incorporés peut porter sur les conditions corporelles et perceptives de leur mobilisation, les relations entre les dispositions acquises et les situations rencontrées, les fonctions qu’ils remplissent dans l’activité et les raisons qui permettent de reconnaître ou de contester les descriptions auxquelles ils contribuent.
 
-- **Condition** : quelles conditions corporelles, matérielles ou environnementales rendent cette disposition mobilisable ou la limitent ?
-- **Relation** : de quels apprentissages, outils, interactions ou autres compétences dépend-elle ?
-- **Fonction** : que permet-elle effectivement de reconnaître, de distinguer ou d’accomplir dans la pratique ?
-- **Justification** : selon quels critères sa contribution peut-elle être évaluée, contestée ou corrigée ?
-
-Ces orientations ne forment ni une liste de propriétés que toute compétence posséderait nécessairement ni une procédure à suivre dans un ordre déterminé. Le problème rencontré détermine les questions pertinentes.
+Ces questions ne constituent pas une classification exhaustive des supports incorporés. Elles permettent de préciser leur contribution à une pratique sans réduire celle-ci à ses seules dimensions corporelles.
 
 Le support incorporé peut également être examiné en relation avec le [support descriptif](fr/support-descriptif.md), les [supports descriptifs externes](fr/supports-descriptifs-externes.md), les [supports descriptifs institutionnels](fr/supports-descriptifs-institutionnels.md) et la [position épistémique](fr/position-epistemique.md). Ces pages développent des fonctions différentes et complémentaires.
 
@@ -168,15 +163,3 @@ Le support descriptif incorporé désigne la contribution de dispositions acquis
 Il permet d’examiner des compétences qui ne prennent pas toujours la forme de règles explicitement consultées, sans les réduire à des mécanismes corporels ni les soustraire à l’évaluation.
 
 Une disposition incorporée peut rendre une opération possible ou plus aisée ; elle ne garantit pas la correction de son résultat. Sa fonction, sa portée et ses limites doivent être établies à partir de la pratique et des critères pertinents.
-
-## Voir aussi
-
-- [Support descriptif](fr/support-descriptif.md)
-- [Supports descriptifs externes](fr/supports-descriptifs-externes.md)
-- [Supports descriptifs institutionnels](fr/supports-descriptifs-institutionnels.md)
-- [Position épistémique](fr/position-epistemique.md)
-- [Locuteur](fr/locuteur.md)
-- [Auditeur](fr/auditeur.md)
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
-- [Urgence hospitalière](fr/urgence-hospitaliere.md)
-- [Table des matières](fr/tdm.md)
