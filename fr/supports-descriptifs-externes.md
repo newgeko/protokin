@@ -138,14 +138,9 @@ Enfin, une description peut être pertinente sans être conservée dans un suppo
 
 La notion devient pertinente lorsque le problème porte sur la conservation, l’accès, la circulation, la comparaison ou la reprise de ressources descriptives externes.
 
-La quadripartition permet de différencier les questions que leur examen peut soulever :
+L’examen des supports descriptifs externes peut porter sur les conditions de leur production, de leur conservation et de leur accessibilité, les relations qu’ils entretiennent avec les pratiques et les autres supports, les fonctions qu’ils remplissent dans la mémoire, la transmission et la coordination, ainsi que les raisons qui permettent de s’appuyer sur les informations qu’ils conservent.
 
-- **Condition** : quelles contraintes matérielles ou techniques affectent la conservation et l’accès ?
-- **Relation** : de quels dispositifs, formats, compétences ou ressources dépend la reprise ?
-- **Fonction** : quelles opérations le support permet-il effectivement, et lesquelles rend-il difficiles ?
-- **Justification** : que permettent d’établir les inscriptions disponibles, selon quels critères et avec quelles limites ?
-
-Ces orientations ne forment ni une liste de propriétés que tout support posséderait ni une procédure à suivre dans un ordre fixe. Leur pertinence dépend de la difficulté rencontrée.
+Ces questions ne constituent pas une classification exhaustive des supports. Elles permettent d’examiner les conditions concrètes dans lesquelles ceux-ci contribuent à une pratique descriptive.
 
 L’examen d’un support externe contribue à l’enquête sans remplacer l’analyse de la description, du régime descriptif mobilisé, des critères de justification ou des responsabilités institutionnelles.
 
@@ -180,14 +175,3 @@ Un support descriptif externe contribue à rendre des inscriptions ou d’autres
 Son rôle ne se déduit pas de sa seule présence ni de sa forme matérielle. Il doit être établi à partir des opérations qu’il permet effectivement et des conditions nécessaires à l’utilisation des ressources qu’il porte.
 
 **Un support externe peut maintenir une ressource disponible pour une pratique descriptive ; il ne garantit ni son interprétation, ni la pertinence de son usage, ni la validité des conclusions qui en sont tirées.**
-
-## Voir aussi
-
-- [Support descriptif](fr/support-descriptif.md)
-- [Supports descriptifs incorporés](fr/supports-descriptifs-incorpores.md)
-- [Supports descriptifs institutionnels](fr/supports-descriptifs-institutionnels.md)
-- [Position épistémique](fr/position-epistemique.md)
-- [Description](fr/description.md)
-- [Régime descriptif](fr/regime-descriptif.md)
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
-- [Table des matières](fr/tdm.md)
