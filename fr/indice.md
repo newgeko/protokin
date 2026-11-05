@@ -150,5 +150,5 @@ Pour poursuivre :
 - [Support descriptif](fr/support-descriptif.md) — Examiner les moyens qui permettent de conserver, retrouver ou mobiliser des ressources.
 - [Raison](fr/raison.md) — Examiner ce qui peut soutenir, contester ou réviser une conclusion.
 - [Justification](fr/justification.md) — Examiner les conditions dans lesquelles une conclusion peut être défendue.
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les rapports sous lesquels une configuration peut être examinée.
+- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Préciser sous quel rapport une difficulté d’identification, d’attribution ou de substitution est examinée.
 - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations mobilisables dans l’examen d’une difficulté descriptive.
