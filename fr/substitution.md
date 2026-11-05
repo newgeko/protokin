@@ -133,14 +133,9 @@ La substitution intervient lorsque l’enquête examine si une différence de fo
 
 Elle peut contribuer à éprouver une distinction ou une qualification, à comparer deux formulations et à repérer les conséquences d’un changement de vocabulaire. Elle ne suffit cependant pas, à elle seule, à justifier le contenu obtenu après remplacement.
 
-Les quatre orientations de la quadripartition permettent de différencier plusieurs questions :
+L’examen d’une substitution peut porter sur les conditions dans lesquelles le remplacement est effectué, les relations entre les expressions et les contenus concernés, la fonction du remplacement dans la pratique et les raisons qui permettent de considérer qu’il préserve ou transforme ce qui importe.
 
-- **Condition** : quels éléments du contexte ou du support limitent les remplacements possibles ?
-- **Relation** : quelles relations entre les expressions et leurs contenus sont préservées ou modifiées ?
-- **Fonction** : que permet le remplacement dans la pratique considérée ?
-- **Justification** : les engagements et les conclusions associés à la formulation obtenue sont-ils défendables ?
-
-Ces orientations ne constituent pas les étapes d’une procédure de substitution. Elles distinguent les rapports sous lesquels un même remplacement peut être examiné.
+Ces questions ne constituent pas les étapes d’une procédure de substitution. Elles permettent de préciser ce que le remplacement est censé préserver et les différences qu’il peut introduire.
 
 La substitution s’articule avec les autres dimensions du groupe ISA :
 
