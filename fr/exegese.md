@@ -175,7 +175,9 @@ L’exégèse se distingue des méthodes voisines par son objet et sa fonction.
 
 Ces méthodes peuvent être combinées lorsque le problème le demande. Leur articulation ne définit pas un parcours obligatoire.
 
-Dans la [quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md), l’exégèse peut mobiliser les quatre orientations : les conditions de production et de lecture du texte, les relations entre ses concepts, les fonctions de ses distinctions et les raisons qui soutiennent ses conclusions. Cette grille ne constitue pas une classification exhaustive du texte ni une séquence d’analyse imposée.
+L’examen exégétique peut porter sur les conditions de production et de lecture du texte, les relations entre ses concepts, la fonction de ses distinctions et les raisons qui soutiennent ses conclusions.
+
+Ces rapports constituent des possibilités de questionnement, non une classification exhaustive du texte ni une séquence d’analyse imposée. Leur mobilisation dépend des difficultés rencontrées au cours de l’examen.
 
 ## 8. Ce que l’exégèse permet et ne permet pas d’établir
 
@@ -209,5 +211,5 @@ L’exégèse passive désigne la retenue nécessaire à la reconstruction ; l�
 - [Comparer deux descriptions](fr/comparer-deux-descriptions.md) — Examiner les différences et les rapports entre descriptions.
 - [Reconstituer](fr/reconstituer.md) — Rendre explicite le cheminement d’une enquête.
 - [Évaluer une traduction](fr/evaluer-une-traduction.md) — Examiner les correspondances et les transformations d’un passage descriptif.
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations Condition, Relation, Fonction et Justification.
+- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Préciser sous quel rapport une difficulté d’identification, d’attribution ou de substitution est examinée.
 - [Table des matières](fr/tdm.md) — Retrouver les ressources du corpus.
