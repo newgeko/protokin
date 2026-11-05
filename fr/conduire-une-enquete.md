@@ -156,106 +156,19 @@ La reprise comme instrument désigne un acte d'examen situé. Elle ne se confond
 
 Aucun instrument ne produit mécaniquement un verdict. Il faut préciser ce qu'il permet d'examiner et ce que son résultat autorise effectivement à conclure.
 
-## 6. Représenter l'enquête à l'aide de plateaux
+## 6. Représenter l'enquête à l'aide d'un plateau
 
-Le plateau d'enquête est un instrument complémentaire de représentation et de navigation. Il permet de rendre visibles les opérations mobilisées, les orientations sous lesquelles elles sont examinées et les relations entre plusieurs régimes descriptifs.
+Le plateau d'enquête est un instrument facultatif de représentation et de navigation. Il peut être utile lorsqu'une difficulté fait intervenir plusieurs opérations, plusieurs pratiques descriptives ou des relations dont l'organisation devient difficile à suivre.
 
-Il ne remplace ni l'architecture fonctionnelle ni les repères précédents. Il propose une manière de les disposer pour faciliter le repérage d'une difficulté et le choix d'une reprise.
+Il permet de représenter certains éléments du travail d'enquête, les opérations mobilisées et les relations qu'il reste à examiner.
 
-### 6.1. Un plateau pour chaque régime descriptif examiné
+Le plateau n'est pas une grille obligatoire. Il ne comporte pas de cases prédéfinies correspondant aux opérations, ni de directions systématiquement associées aux orientations. Les éléments représentés et leur disposition dépendent de la difficulté étudiée.
 
-Une enquête peut mobiliser plusieurs régimes descriptifs. Ceux-ci correspondent à des organisations relativement stabilisées de règles d'usage, de distinctions, d'opérations et de critères dans des pratiques données.
+Il ne correspond pas nécessairement à un régime descriptif. Une même représentation peut rendre visibles plusieurs pratiques et leurs relations, à condition de ne pas confondre leurs fonctions. Inversement, plusieurs représentations peuvent être nécessaires lorsque leurs organisations doivent être examinées séparément.
 
-Il est possible de représenter chaque régime examiné par un plateau distinct. Cette représentation permet de conserver les particularités des pratiques concernées, au lieu de les ramener immédiatement à une organisation commune.
+Le plateau ne détermine pas la validité des relations qu'il représente. Il aide à situer les difficultés et à choisir une reprise ; leur examen relève des opérations et des instruments d'épreuve.
 
-Un plateau ne représente cependant pas un régime dans toute son étendue. Il représente les éléments pertinents pour l'enquête en cours : les opérations mobilisées, les questions examinées et les relations utiles à la compréhension du problème.
-
-Un même régime peut donc être représenté différemment selon la question étudiée. Inversement, plusieurs enquêtes peuvent faire apparaître des aspects différents d'un même régime.
-
-### 6.2. Les opérations comme cases de travail
-
-Sur chaque plateau, les cases représentent les opérations mobilisées dans le régime considéré et pour le problème étudié.
-
-Une case ne désigne pas nécessairement une étape dans une succession. Elle indique un travail descriptif qui peut être engagé, repris ou combiné avec d'autres.
-
-Les huit opérations de référence peuvent servir de repères :
-
-**Délimiter, Ancrer, Distinguer, Relier, Configurer, Justifier, Reconstituer et Redélimiter.**
-
-Il n'est pas nécessaire que toutes apparaissent sur chaque plateau. La représentation doit suivre les opérations effectivement pertinentes, et non imposer une présence uniforme.
-
-### 6.3. Les quatre orientations comme faces d'examen
-
-Chaque opération peut être examinée sous les quatre orientations :
-
-- **Condition** : quelles conditions et contraintes concernent ce travail ?
-- **Relation** : quelles relations et dépendances doivent être examinées ?
-- **Fonction** : quel rôle ce travail joue-t-il dans la pratique considérée ?
-- **Justification** : quelles raisons et quels critères permettent de soutenir ses résultats ?
-
-On peut ainsi représenter chaque case comme susceptible d'être examinée selon quatre directions ou faces.
-
-Cette possibilité ne signifie pas que les quatre orientations doivent être mobilisées à chaque fois. Une difficulté peut appeler une seule orientation, plusieurs orientations ou un autre questionnement. Les orientations sont des possibilités d'examen, non des compartiments qu'il faudrait systématiquement remplir.
-
-La représentation permet notamment de changer d'orientation sans changer nécessairement d'opération. Une difficulté portant sur une distinction peut d'abord être examinée sous l'angle de ses conditions, puis sous celui de sa justification, sans qu'il soit nécessaire de passer immédiatement à une autre opération.
-
-Inversement, une même orientation peut traverser plusieurs opérations. La justification, par exemple, peut concerner la délimitation d'un problème, l'ancrage des éléments, une distinction ou une configuration, et pas seulement l'opération Justifier.
-
-### 6.4. Les croisements entre plateaux
-
-Lorsque plusieurs régimes interviennent dans une enquête, leurs plateaux peuvent être rapprochés et mis en relation.
-
-Ces croisements peuvent rendre visibles :
-
-- des situations ou des éléments communs ;
-- des distinctions qui se ressemblent sans avoir la même fonction ;
-- des relations établies dans un régime et reprises dans un autre ;
-- des dépendances entre des pratiques descriptives ;
-- des descriptions compatibles ou concurrentes ;
-- des désaccords portant sur les critères ou les conclusions ;
-- des passages d'un régime à un autre dont la portée doit être examinée.
-
-Le croisement ne signifie pas que les plateaux possèdent des cases équivalentes. Une opération mobilisée dans un régime ne correspond pas nécessairement à une opération identique dans un autre. Les pratiques peuvent organiser différemment leurs descriptions et leurs critères.
-
-Il ne signifie pas non plus que les régimes sont fermés ou indépendants. Ils peuvent partager des instruments, des documents, des termes, des éléments matériels ou certaines procédures. Leurs relations doivent être établies à partir de la situation examinée.
-
-**Le croisement des régimes n'est pas encore leur articulation.** Deux régimes peuvent porter sur une même situation sans que leurs descriptions soient effectivement articulées. L'articulation suppose un examen de leurs relations, de leurs dépendances, de leurs éventuelles incompatibilités et des conditions de passage entre eux.
-
-Le plateau aide à localiser ces rapports. Il ne décide pas à l'avance s'ils sont compatibles, contradictoires ou convertibles.
-
-### 6.5. Utiliser le plateau pour choisir une reprise
-
-Le plateau peut être mobilisé lorsqu'une enquête fait intervenir plusieurs opérations ou plusieurs régimes et qu'il devient difficile de situer précisément la difficulté.
-
-Son utilisation peut suivre quelques repères :
-
-1. **Identifier le régime concerné.** Déterminer dans quelle pratique descriptive la difficulté apparaît, sans supposer qu'elle relève d'un seul régime.
-2. **Localiser le travail en question.** Repérer l'opération mobilisée ou celle qui semble manquer.
-3. **Préciser l'orientation pertinente.** Examiner si la difficulté concerne les conditions, les relations, les fonctions, les justifications ou plusieurs de ces rapports.
-4. **Repérer les croisements.** Si d'autres régimes interviennent, examiner les éléments communs, les différences et les passages entre leurs descriptions.
-5. **Choisir une reprise.** Déterminer quelle opération, quel instrument ou quelle orientation supplémentaire permettrait de traiter ce qui reste indéterminé.
-
-Ces repères ne constituent pas une procédure supplémentaire. Ils explicitent une manière possible de se repérer dans une enquête complexe.
-
-Le plateau peut également aider à constater qu'une difficulté ne se situe pas dans une opération isolée, mais dans le passage entre deux régimes. Il peut alors être nécessaire d'examiner les conditions de ce passage plutôt que de reprendre automatiquement une opération à l'intérieur d'un seul régime.
-
-### 6.6. Statut et limites du plateau
-
-Le plateau est un instrument facultatif. Il ne constitue ni une nouvelle composante de l'architecture fonctionnelle, ni une représentation exhaustive de tous les régimes descriptifs, ni une méthode obligatoire.
-
-Il ne faut pas supposer :
-
-- que chaque régime possède un plateau permanent et entièrement délimité ;
-- que tous les régimes mobilisent les mêmes opérations ;
-- que chaque opération doit être examinée selon les quatre orientations ;
-- que les cases d'un plateau forment un parcours nécessaire ;
-- que deux cases situées au même endroit sur deux plateaux ont la même fonction ;
-- que les croisements entre plateaux établissent une équivalence entre les descriptions ;
-- que la représentation permet, à elle seule, de résoudre une difficulté.
-
-Le plateau est construit en fonction du problème et des éléments disponibles. Il peut être modifié lorsque l'enquête change de périmètre, mobilise un autre régime ou fait apparaître une difficulté nouvelle.
-
-Il sert à rendre l'enquête plus lisible, non à imposer une forme aux pratiques qu'elle examine.
+Pour sa définition, ses conditions de construction et ses limites, voir [Le plateau d'enquête](fr/plateau-d-enquete.md).
 
 ## 7. Exemple d'application : le botaniste et le bûcheron
 
@@ -271,7 +184,7 @@ La question ne doit pas être immédiatement : « Lequel des deux a raison ? »
 
 Il faut d'abord préciser le désaccord : porte-t-il sur l'état biologique de l'arbre, sa stabilité mécanique, le risque associé à son maintien ou la décision pratique à prendre ?
 
-Ces questions sont liées, mais elles ne sont pas équivalentes.
+Ces questions sont liées, mais elles ne sont pas équivalentes. La difficulté peut tenir à une confusion entre les conclusions, à une relation insuffisamment établie entre les propriétés examinées ou à la manière dont les deux évaluations contribuent à une décision.
 
 ### Examiner les orientations pertinentes
 
@@ -282,28 +195,43 @@ Ces questions sont liées, mais elles ne sont pas équivalentes.
 
 Il n'est pas nécessaire de traiter les quatre orientations avec la même intensité. Leur mobilisation dépend de ce qui reste à éclaircir.
 
-### Repérer les régimes descriptifs concernés
+### Examiner les pratiques descriptives en présence
 
-On peut représenter provisoirement deux régimes descriptifs :
+On peut distinguer provisoirement deux pratiques :
 
-- un régime botanique, qui organise l'examen de l'état biologique de l'arbre ;
-- un régime technique d'évaluation de l'arbre, qui organise l'examen de sa structure, de sa stabilité et des conditions d'une intervention.
+- une pratique botanique, qui organise l'examen de l'état biologique de l'arbre ;
+- une pratique technique, qui organise l'examen de sa structure, de sa stabilité et des conditions d'une intervention.
 
-Chaque plateau permet de situer les opérations effectivement mobilisées dans la pratique considérée. Il ne faut pas supposer que les deux plateaux possèdent une organisation identique.
+Cette distinction permet de préciser les questions auxquelles répond chaque description. Elle ne suffit pas à établir que ces pratiques constituent deux régimes entièrement distincts, ni que leurs organisations sont indépendantes.
 
-Leur rapprochement fait apparaître un élément commun : le même arbre. Mais cette référence commune ne suffit pas à rendre équivalentes les descriptions produites.
+Leur référence commune à un même arbre ne rend pas leurs descriptions équivalentes. Elle ne suffit pas davantage à établir une contradiction entre elles.
 
-### Examiner le croisement
+### Représenter la difficulté, si nécessaire
 
+Si les relations entre les deux évaluations sont difficiles à suivre, un plateau peut être construit à partir du problème commun : déterminer ce que les deux descriptions permettent d'établir et dans quelles conditions elles peuvent contribuer à une décision.
 
-Le plateau botanique peut permettre d'examiner les conditions de développement et l'état biologique de l'arbre. Le plateau technique peut permettre d'examiner les caractéristiques de sa structure et les conditions d'un éventuel risque.
+Une représentation unique peut alors faire apparaître :
 
-Le croisement entre les deux fait apparaître plusieurs questions :
+- les observations et les éléments disponibles pour l'examen biologique ;
+- les observations et les éléments disponibles pour l'évaluation technique ;
+- les conclusions respectives et les questions auxquelles elles répondent ;
+- les relations qui peuvent être établies entre les propriétés biologiques et mécaniques ;
+- les informations reprises d'une description dans l'autre ;
+- les points qui restent incertains ou demandent une épreuve supplémentaire.
 
-- les observations mobilisées dans chaque régime portent-elles sur les mêmes parties de l'arbre ?
+Cette représentation commune ne fusionne pas les deux pratiques. Elle permet de situer leurs contributions respectives et les relations à examiner.
+
+Il n'est pas nécessaire de construire un plateau pour chaque pratique. Si une représentation unique masque des différences importantes, plusieurs représentations distinctes peuvent être construites puis rapprochées. Ce choix dépend de la difficulté rencontrée, non du nombre de pratiques ou de régimes identifiés.
+
+### Examiner les relations
+
+Le rapprochement des descriptions fait apparaître plusieurs questions :
+
+- les observations mobilisées dans chaque pratique portent-elles sur les mêmes parties de l'arbre ?
 - les propriétés biologiques examinées ont-elles une relation établie avec les propriétés mécaniques considérées ?
 - les conclusions produites répondent-elles à des questions compatibles ?
-- une information issue d'un régime est-elle utilisée comme si elle suffisait à établir une conclusion relevant de l'autre ?
+- une information issue d'une pratique est-elle utilisée comme si elle suffisait à établir une conclusion relevant de l'autre ?
+- les critères mobilisés pour préparer une décision sont-ils explicités ?
 
 Il serait injustifié de déduire automatiquement de la viabilité biologique que l'arbre ne présente aucun risque mécanique. Il serait tout aussi injustifié de déduire de l'existence d'un risque que l'arbre est biologiquement mort.
 
