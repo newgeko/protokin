@@ -61,7 +61,9 @@ Identifier les conditions d’application ne suffit pas, à lui seul, à justifi
 
 ### 4.2. Les conséquences d’application
 
-Cette orientation examine ce que l’usage d’un contenu autorise à conclure, ce qu’il engage à reconnaître et ce qui devient incompatible avec lui.
+La portée inférentielle concerne les relations entre les contenus et les conséquences qu’une pratique autorise à en tirer. Son examen peut également appeler une analyse des raisons qui permettent de défendre ces conséquences, des prémisses mobilisées et des conditions dans lesquelles elles sont recevables.
+
+Elle ne relève pas d’une orientation unique : la portée d’une inférence doit être examinée au regard du problème et de la pratique dans lesquels elle intervient.
 
 Elle conduit notamment à demander :
 
