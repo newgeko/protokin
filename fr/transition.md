@@ -127,22 +127,9 @@ Ces questions ne forment pas une séquence obligatoire. L’enquête peut commen
 
 La transition peut ainsi être précisée à mesure que l’enquête avance. Elle peut également perdre sa pertinence si les éléments disponibles ne permettent pas d’établir le passage supposé entre les configurations.
 
-### Articulation avec la quadripartition
+### Examiner une transition
 
-La transition ne constitue pas une cinquième orientation de l’enquête. Elle peut être examinée selon les quatre orientations de la quadripartition :
-
-- **Condition** : quelles conditions matérielles, corporelles ou environnementales ont changé ou ont été maintenues ?
-- **Relation** : quelles dépendances ont été conservées, modifiées ou abandonnées ?
-- **Fonction** : quelles modifications affectent le rôle exercé par une configuration dans la pratique ?
-- **Justification** : quels critères, engagements ou raisons ont été maintenus, révisés ou contestés ?
-
-Ces orientations sont complémentaires, mais leurs résultats ne sont pas interchangeables.
-
-Une modification matérielle ne suffit pas à établir une modification fonctionnelle. Une modification fonctionnelle ne détermine pas à elle seule la justification d’une pratique. Une révision des critères ne démontre pas nécessairement que les conditions matérielles ont changé.
-
-La quadripartition permet donc de différencier les questions que soulève une transition sans les transformer en dimensions indépendantes ou en étapes successives.
-
-Voir [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md).
+Une transition peut être examinée sous différents rapports : les conditions dans lesquelles elle intervient, les relations qu’elle transforme, les fonctions qu’elle modifie et les justifications qui permettent de la décrire. Ces orientations ne constituent ni des dimensions indépendantes ni des étapes successives.
 
 ## 6. Épreuve : une qualification administrative
 
