@@ -138,18 +138,11 @@ Ces distinctions ne rendent pas les exigences d’évaluation indépendantes des
 
 La validité devient un enjeu lorsque l’enquête doit déterminer si une description peut être maintenue, réutilisée ou défendue au regard de ce qu’elle prétend établir.
 
-Son examen peut mobiliser les quatre orientations de la quadripartition :
+L’examen de la validité peut nécessiter plusieurs types de questionnement. Il peut porter sur les conditions dans lesquelles une proposition est évaluée, les relations entre ses prémisses et ses conclusions, la fonction des critères mobilisés et les raisons qui permettent de défendre le jugement porté.
 
-- **Condition** : examiner les conditions et les contraintes pertinentes pour produire ou éprouver la description ;
-- **Relation** : examiner les distinctions, les dépendances et les conséquences mobilisées ;
-- **Fonction** : préciser ce que la description permet d’accomplir dans la pratique considérée ;
-- **Justification** : examiner les raisons et les critères qui permettent de la défendre ou de la contester.
-
-Ces orientations différencient les questions à examiner ; elles ne constituent ni quatre composantes du réel ni des étapes obligatoires conduisant à la validité.
+Ces questions ne constituent pas quatre dimensions de la validité. Elles permettent de distinguer les différents rapports engagés dans son évaluation, sans confondre la cohérence d’une proposition, sa justification et son adéquation à ce qu’elle prétend décrire.
 
 Dans la chaîne d’enquête, l’examen de la validité peut conduire à reprendre une opération antérieure, à rechercher de nouveaux éléments, à modifier une distinction ou à redélimiter le problème. Il ne constitue pas une étape terminale garantissant le résultat de l’enquête.
-
-Voir [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) et [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md).
 
 ## Synthèse
 
@@ -160,13 +153,3 @@ Elle ne se réduit ni à la recevabilité, ni à la justification proposée, ni 
 La validité n’est pas indépendante des critères, mais ceux-ci ne sont pas soustraits à l’examen. Leur pertinence et leur portée peuvent être contestées lorsque la description rencontre une difficulté ou que de nouveaux éléments modifient l’évaluation.
 
 **La validité est un jugement défendable dans des conditions déterminées, non une clôture de l’enquête.**
-
-## Pour poursuivre
-
-- [Critère](fr/critere.md) — Préciser les exigences au regard desquelles une description ou une conclusion est évaluée.
-- [Justification](fr/justification.md) — Examiner les raisons et les critères mobilisés pour défendre ou réviser un engagement.
-- [Recevabilité](fr/recevabilite.md) — Distinguer l’admission d’une description de son évaluation.
-- [Inférence](fr/inference.md) — Examiner les relations qui autorisent, exigent ou excluent des conclusions.
-- [Norme descriptive](fr/norme-descriptive.md) — Examiner les normes qui règlent l’évaluation et la révision des descriptions.
-- [Stabilisation](fr/stabilisation.md) — Examiner le maintien relatif d’une description dans une pratique.
-- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md) — Situer l’évaluation parmi les orientations de l’enquête.
