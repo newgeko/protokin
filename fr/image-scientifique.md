@@ -95,18 +95,9 @@ Pour la description des pratiques ordinaires, voir [Image manifeste](fr/image-ma
 
 L’image scientifique constitue une notion utile lorsque l’enquête porte sur des pratiques spécialisées de mesure, de modélisation, d’expérimentation ou d’explication.
 
-La quadripartition peut orienter cet examen selon quatre rapports, en fonction du problème rencontré :
+L’examen de l’image scientifique peut porter sur les conditions matérielles, instrumentales et institutionnelles de production des descriptions, les relations entre les modèles, les observations et les résultats, les fonctions des dispositifs descriptifs et les raisons qui permettent de soutenir les conclusions scientifiques.
 
-- **Condition :** quelles contraintes matérielles, techniques ou institutionnelles affectent la production du résultat ?
-- **Relation :** quelles relations sont établies entre les phénomènes, les variables, les mesures et les modèles ?
-- **Fonction :** quel rôle le résultat ou le modèle joue-t-il dans la pratique scientifique concernée ?
-- **Justification :** quels éléments et quels critères permettent de défendre ou de contester la conclusion ?
-
-Ces orientations ne constituent ni quatre propriétés nécessaires de toute pratique scientifique ni une succession obligatoire d’étapes. Leur mobilisation dépend de la difficulté examinée.
-
-Elles permettent notamment de distinguer les conditions matérielles de la mesure, les relations représentées par un modèle, l’usage pratique d’un résultat et les raisons de tenir une conclusion pour suffisamment établie.
-
-Pour le cadre général de ces orientations, voir [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md). Pour le rôle des instruments, des documents et des autres moyens mobilisés dans les pratiques descriptives, voir [Support descriptif](fr/support-descriptif.md).
+Ces rapports ne constituent pas les dimensions fixes de l’image scientifique. Ils permettent de différencier des questions qui peuvent se croiser sans se confondre.
 
 ## 7. Limites et non-conversions
 
