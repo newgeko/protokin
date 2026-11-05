@@ -32,6 +32,8 @@ L'architecture fonctionnelle distingue cinq composantes :
 | **Fonctions transversales** | Rendre examinables des dimensions susceptibles d'intervenir dans plusieurs opérations. |
 | **Instruments d'épreuve** | Fournir des moyens concrets pour confronter des distinctions, des relations, des descriptions ou des conclusions à un examen déterminé. |
 
+Le **plateau d'enquête** constitue une ressource complémentaire de représentation et de navigation. Il peut aider à rendre visibles les opérations mobilisées, les éléments examinés et les relations à suivre dans une enquête déterminée. Il ne constitue pas une sixième composante de l'architecture et ne se confond pas avec les instruments d'épreuve : il représente l'organisation d'un travail d'examen, sans mettre lui-même les descriptions à l'épreuve. Sa construction et ses limites sont précisées dans [Le plateau d'enquête](fr/plateau-d-enquete.md).
+
 Ces composantes sont distinctes, mais elles peuvent être mobilisées conjointement. Elles ne constituent ni cinq niveaux d'une réalité ni cinq phases successives de l'enquête.
 
 Il faut notamment distinguer :
