@@ -105,9 +105,9 @@ Elle peut aider à repérer :
 - une confusion entre conséquence inférentielle et relation causale ;
 - une conclusion recevable à partir de prémisses dont l’adéquation reste à établir.
 
-Dans la quadripartition, l’examen d’une inférence peut mobiliser plusieurs orientations. Les conditions permettent d’identifier les contraintes pertinentes ; les relations aident à préciser les dépendances entre contenus ; la fonction situe la transition dans la pratique ; la justification examine les raisons de défendre les prémisses et la conclusion.
+L’examen d’une inférence matérielle peut mobiliser plusieurs types de questionnement. Il peut porter sur les conditions dans lesquelles la transition est reconnue, les relations entre les contenus, la fonction de cette transition dans la pratique et les raisons qui permettent de la défendre.
 
-Ces orientations ne constituent pas les étapes d’un raisonnement obligatoire. Elles servent à distinguer les questions que soulève l’inférence et à éviter de traiter sa recevabilité comme une justification complète.
+Ces questions ne sont pas des dimensions fixes de l’inférence matérielle. Elles permettent de distinguer les conditions de reconnaissance d’une transition, sa portée dans une pratique et la justification des conclusions qu’elle autorise.
 
 L’inférence matérielle n’est ni une opération unique de la chaîne d’enquête ni une garantie de validité. Elle constitue un objet d’analyse lorsque la portée d’une transition entre contenus doit être précisée.
 
@@ -140,4 +140,3 @@ Pour Protokin, l’enjeu est de rendre les transitions entre contenus explicites
 - [Proposition](fr/proposition.md)
 - [Assertion](fr/assertion.md)
 - [Justifier](fr/justifier.md)
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
