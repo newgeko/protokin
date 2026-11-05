@@ -136,11 +136,11 @@ Cette page précise le rôle des participants dans l’examen des engagements et
 - [Espace des raisons](espace-des-raisons.md) — Situer les relations entre raisons, conclusions, habilitations et incompatibilités.
 - [Justification](justification.md) — Examiner les conditions dans lesquelles un engagement peut être défendu.
 - [Réaliser un audit](realiser-un-audit.md) — Examiner les distinctions, les inférences et les justifications mobilisées dans une pratique.
-- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md) — Distinguer les questions relatives aux conditions, aux relations, aux fonctions et aux justifications.
 
-Dans la quadripartition, les pairs peuvent être étudiés sous plusieurs orientations. Les conditions concernent notamment les possibilités concrètes de participation et de contestation ; les relations concernent les dépendances entre engagements et habilitations ; la fonction concerne le rôle des pairs dans la pratique ; la justification porte sur les raisons et les critères qui permettent de défendre les conclusions.
 
-Ces orientations ne constituent pas quatre étapes de l’examen. Elles permettent de distinguer des questions liées sans confondre leurs réponses.
+Les pairs peuvent être examinés sous plusieurs rapports. Les conditions concernent notamment les possibilités concrètes de participation et de contestation ; les relations portent sur les dépendances entre engagements et habilitations ; la fonction concerne le rôle des pairs dans la pratique ; les raisons et les critères permettent d’examiner les conclusions qu’ils soutiennent.
+
+Ces questions ne constituent pas une grille exhaustive de l’organisation des pairs. Elles permettent de préciser les difficultés rencontrées dans une pratique de discussion et d’évaluation.
 
 ## Synthèse
 
