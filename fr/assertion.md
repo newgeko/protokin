@@ -139,7 +139,9 @@ Son examen permet notamment de demander :
 - quelles prémisses et quels critères soutiennent ces conséquences ;
 - dans quelles conditions l’affirmation peut être contestée, corrigée ou retirée.
 
-La quadripartition — Condition, Relation, Fonction, Justification — peut orienter cet examen. Elle ne classe pas l’assertion dans l’une de ses quatre orientations : elle aide à distinguer les questions portant sur les conditions de l’intervention, les relations mobilisées, le rôle de l’affirmation et les raisons permettant de la défendre.
+L’examen d’une assertion peut être orienté sous plusieurs rapports. Il peut porter sur les conditions dans lesquelles elle est formulée, les relations entre le contenu affirmé et les autres engagements du locuteur, la fonction de cette affirmation dans la pratique ou les raisons qui permettent de la défendre.
+
+Ces questions ne constituent pas les composantes nécessaires de toute assertion. Elles sont mobilisées selon la difficulté rencontrée et peuvent conduire à reprendre différentes opérations de l’enquête.
 
 L’assertion n’est donc ni une étape obligatoire de la chaîne d’enquête ni une garantie de validité. Elle constitue un objet d’analyse lorsque la prise en charge d’un contenu et ses conséquences discursives doivent être précisées.
 
@@ -158,4 +160,4 @@ L’analyse de l’assertion permet ainsi à Protokin d’examiner les engagemen
 - [Proposition](fr/proposition.md)
 - [Inférence matérielle](fr/inference-materielle.md)
 - [Justifier](fr/justifier.md)
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
+- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Préciser sous quel rapport une difficulté d’identification, d’attribution ou de substitution est examinée.
