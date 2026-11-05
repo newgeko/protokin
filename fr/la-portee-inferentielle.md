@@ -191,5 +191,4 @@ La distinction directrice est la suivante : **une conséquence autorisée par un
 - [Inférence matérielle](fr/inference-materielle.md)
 - [Espace des raisons](fr/espace-des-raisons.md)
 - [Justifications](fr/justifications.md)
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
 - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
