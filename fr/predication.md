@@ -136,5 +136,4 @@ L’enjeu pour Protokin est de préciser la fonction de cette attribution sans l
 - [Assertion](fr/assertion.md)
 - [Inférence matérielle](fr/inference-materielle.md)
 - [Référent](fr/referent.md)
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
 - [Justifier](fr/justifier.md)
