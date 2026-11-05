@@ -94,18 +94,9 @@ Pour une analyse plus détaillée de l’image scientifique, voir [Image scienti
 
 L’image manifeste constitue une notion mobilisable lorsqu’une difficulté concerne des descriptions ordinaires, leur fonction pratique ou les critères par lesquels elles sont défendues et contestées.
 
-La quadripartition permet d’orienter l’examen selon quatre rapports, selon ce que le problème exige :
+L’examen de l’image manifeste peut porter sur les conditions dans lesquelles ses descriptions sont produites et reconnues, les relations qu’elles entretiennent avec d’autres descriptions, les fonctions qu’elles remplissent dans les pratiques ordinaires et les raisons qui permettent de soutenir les affirmations qui leur sont associées.
 
-- **Condition** : quelles circonstances corporelles, matérielles, sociales ou institutionnelles influencent la production et l’emploi de la description ?
-- **Relation** : quelles relations sont établies entre les personnes, les actions, les événements et les catégories employées ?
-- **Fonction** : quel rôle la description joue-t-elle dans la situation — identifier, expliquer, accuser, excuser, coordonner ou décider ?
-- **Justification** : quels indices, raisons et critères permettent de défendre ou de contester la description ?
-
-Ces orientations ne sont ni quatre composantes de l’image manifeste ni quatre étapes obligatoires. Une enquête peut n’en mobiliser que certaines, ou devoir introduire des distinctions supplémentaires.
-
-Elles permettent surtout d’éviter plusieurs conversions injustifiées. Les circonstances d’une attribution ne suffisent pas à la justifier. Le rôle pratique d’une catégorie ne garantit pas son adéquation. Le fait qu’une description soit partagée ne la rend pas incontestable.
-
-Pour le cadre général de ces orientations, voir [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md).
+Ces questions ne définissent pas quatre composantes de l’image manifeste. Elles constituent des possibilités d’examen qui peuvent être mobilisées selon le problème rencontré.
 
 ## 7. Limites et non-conversions
 
@@ -155,6 +146,6 @@ Pour poursuivre :
 - [Régime descriptif](fr/regime-descriptif.md) — Préciser la notion générale de régime descriptif.
 - [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md) — Examiner les relations entre plusieurs pratiques descriptives.
 - [Support descriptif](fr/support-descriptif.md) — Examiner le rôle des moyens qui rendent les ressources descriptives disponibles et réutilisables.
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations mobilisables dans l’examen.
+- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Préciser sous quel rapport une difficulté d’identification, d’attribution ou de substitution est examinée.
 - [Wilfrid Sellars](fr/wilfrid-sellars.md) — Situer l’héritage philosophique de la distinction entre image manifeste et image scientifique.
 - [Table des matières](fr/tdm.md) — Replacer cette page dans l’organisation du corpus.
