@@ -138,7 +138,9 @@ Elle ne constitue pas une étape obligatoire dans toute enquête de Protokin. Sa
 
 La notion n’établit pas davantage une progression nécessaire de la matière vers le comportement, puis vers la signification ou la normativité. Elle désigne un rapport fonctionnel particulier dont les conditions et les limites doivent être examinées.
 
-Dans la quadripartition de l’orientation, cette question relève principalement de l’examen de la **Fonction**, tout en dépendant des conditions et des relations pertinentes. Elle ne doit pas être convertie automatiquement en question de Justification.
+L’examen porte ici principalement sur le rôle que le stimulus acquiert dans une pratique déterminée. Cette question fonctionnelle dépend toutefois des conditions dans lesquelles le stimulus intervient et des relations établies au cours de l’apprentissage.
+
+L’identification d’une fonction ne suffit pas à justifier une interprétation ni à établir que celle-ci est adéquate à la situation examinée.
 
 ## 8. Limites
 
@@ -165,7 +167,7 @@ Cette distinction ne sépare pas deux domaines indépendants. Elle permet d’ex
 
 ## Pour poursuivre
 
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations Condition, Relation, Fonction et Justification.
+- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Préciser sous quel rapport une difficulté d’identification, d’attribution ou de substitution est examinée.
 - [Transformation des fonctions de stimulus](fr/transformation-de-fonction-de-stimulus.md) — Examiner les transformations fonctionnelles associées aux relations apprises dans le cadre de la RFT.
 - [Inférence mutuelle](fr/inference-mutuelle.md) — Examiner la dérivation de relations réciproques.
 - [Inférence combinatoire](fr/inference-combinatoire.md) — Examiner la dérivation de relations nouvelles à partir de relations apprises.
