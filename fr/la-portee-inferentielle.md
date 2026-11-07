@@ -1,194 +1,220 @@
 # La portée inférentielle
 
-## 1. Fonction de la page
+## Fonction
 
-Cette page définit la **portée inférentielle** d’un contenu dans une pratique discursive. Elle examine les conséquences, les engagements, les incompatibilités et les présuppositions associés à l’usage d’un concept ou à l’accomplissement d’une assertion.
+Cette page définit la **portée inférentielle** d’un contenu dans une pratique discursive. Elle examine l’ensemble des conséquences, des engagements et des incompatibilités associés à son emploi.
 
-Elle précise comment un contenu peut autoriser ou exclure certaines transitions discursives au-delà de ce que son auteur avait explicitement envisagé.
+Elle précise ce qu’un contenu permet de conclure, ce qu’il conduit à maintenir ou à réviser et quelles conditions limitent les transitions qu’il autorise.
 
-Elle distingue cette portée de l’intention du locuteur, de la forme logique d’un raisonnement et de la justification des conclusions qui en sont tirées.
+La portée inférentielle ne se confond ni avec une inférence particulière, ni avec l’acte d’assertion, ni avec la justification des conclusions.
 
-## 2. Problème
+## 1. Problème : ce qu’un contenu autorise
 
-Une assertion ne se limite pas nécessairement à ce que son auteur entend consciemment affirmer. L’usage d’un concept peut engager des conséquences que le locuteur ne connaît pas, qu’il n’a pas examinées ou qu’il refuse initialement de reconnaître.
+Un contenu peut avoir des conséquences qui ne sont pas explicitement formulées avec lui.
 
-Considérons l’assertion :
+Considérons l’affirmation :
 
 « Cet échantillon est en cuivre. »
 
-Dans une pratique donnée, cette assertion peut autoriser certaines conclusions concernant les propriétés attendues de l’échantillon. Elle peut également entrer en conflit avec d’autres affirmations ou conduire à demander des précisions sur sa composition et son état.
+Dans une pratique où cette identification est admise, elle peut autoriser certaines attentes concernant les propriétés du matériau. Elle peut également rendre incompatibles certaines autres affirmations ou conduire à demander des précisions sur la composition de l’échantillon.
 
-Le locuteur ne détermine donc pas, par sa seule intention, toutes les conséquences recevables de ce qu’il affirme. Mais cela ne signifie pas non plus que son assertion entraîne automatiquement une infinité de conséquences, indépendamment du contexte et des connaissances disponibles.
+Mais ces conséquences ne sont pas toutes de même nature. Certaines découlent de relations reconnues entre les contenus ; d’autres exigent des prémisses supplémentaires ou dépendent de conditions particulières.
 
-Le problème est de déterminer quelles conséquences sont effectivement pertinentes, quels engagements elles impliquent et dans quelles conditions elles peuvent être attribuées au contenu affirmé.
+Le problème consiste donc à déterminer quelles relations sont associées à un contenu, ce qu’elles permettent effectivement de conclure et dans quelles conditions elles peuvent être maintenues ou contestées.
 
-## 3. Définition
+## 2. Définition
 
-La **portée inférentielle** désigne l’ensemble structuré des conséquences, des incompatibilités, des présuppositions et des habilitations associés à l’usage d’un contenu dans une pratique discursive.
+La **portée inférentielle** désigne l’ensemble structuré des conséquences, des engagements, des incompatibilités et des présuppositions associés à l’emploi d’un contenu dans une pratique discursive.
 
-Cette portée dépend notamment :
+Elle comprend notamment :
 
-- du contenu conceptuel mobilisé ;
-- des inférences reconnues dans la pratique concernée ;
-- des engagements déjà pris et des incompatibilités identifiées ;
-- des conditions d’application et des éventuelles exceptions ;
-- des contestations ou des informations nouvelles susceptibles de conduire à réviser une conclusion.
+- les conséquences qu’un contenu permet de soutenir ;
+- les engagements qui sont liés à son emploi ;
+- les contenus avec lesquels il entre en incompatibilité ;
+- les présuppositions ou les prémisses supplémentaires nécessaires à certaines transitions ;
+- les conditions et les exceptions qui limitent ces relations.
 
-La portée inférentielle ne se réduit donc ni à la signification explicitement formulée par un locuteur ni à la liste des conséquences qu’il connaît personnellement.
+La portée inférentielle ne constitue pas une liste de conséquences automatiquement attachées à un énoncé. Elle dépend du contenu mobilisé, des relations reconnues dans la pratique, des conditions d’application et des autres éléments dont dépend une transition.
 
-Elle ne constitue pas davantage un ensemble de conséquences immuables. Certaines transitions sont solidement établies dans une pratique ; d’autres restent provisoires, dépendent de conditions particulières ou peuvent être contestées.
+Elle n’est pas non plus immuable. Une relation tenue pour recevable peut être contestée, limitée ou révisée lorsque de nouvelles informations, un contre-exemple ou une difficulté d’application apparaissent.
 
-La portée inférentielle doit ainsi être reconstruite à partir des relations effectivement pertinentes pour le problème examiné.
+La portée doit donc être reconstruite à partir des relations pertinentes pour le problème examiné.
 
-## 4. Deux orientations de l’examen : conditions et conséquences
+## 3. Les dimensions de la portée inférentielle
 
-Pour analyser la portée inférentielle d’un contenu, il est utile de distinguer deux directions d’examen. Cette distinction est méthodologique : elle ne décrit pas deux phases obligatoires ni deux domaines indépendants.
+L’examen d’un contenu peut porter sur plusieurs dimensions liées, mais distinctes.
 
-### 4.1. Les conditions d’application
+### 3.1. Les conséquences autorisées
 
-Cette orientation examine les circonstances, les éléments et les critères qui permettent d’appliquer un concept ou de soutenir une assertion.
+Un contenu peut permettre de soutenir une autre affirmation, à condition que la relation entre les deux soit recevable dans la pratique concernée.
 
-Elle conduit notamment à demander :
+Par exemple, identifier un échantillon comme étant constitué de cuivre pur autorise certaines attentes relatives à sa conductivité électrique, sous réserve des conditions matérielles et expérimentales pertinentes.
 
-- Quelles conditions rendent l’assertion recevable ?
-- Quelles observations ou quelles autres affirmations la soutiennent ?
-- Quelles distinctions permettent de déterminer si le concept s’applique au cas considéré ?
-- Quelles informations pourraient conduire à contester cette application ?
+La conséquence n’est pas produite par la seule juxtaposition de deux affirmations. Il faut pouvoir préciser la relation qui permet de passer de l’une à l’autre et les conditions dont dépend ce passage.
 
-Ces conditions ne sont pas toutes de même nature. Certaines concernent les observations, d’autres les engagements déjà admis, les règles d’une pratique ou les critères d’application d’un concept.
+### 3.2. Les engagements associés
 
-Identifier les conditions d’application ne suffit pas, à lui seul, à justifier l’assertion. Il reste à examiner si les éléments mobilisés sont fiables et si leur application est défendable dans le cas considéré.
+L’emploi d’un contenu peut engager à maintenir certaines affirmations, à en préciser d’autres ou à répondre à une incompatibilité.
 
-### 4.2. Les conséquences d’application
+Si des résultats expérimentaux fiables contredisent une propriété attendue du cuivre, l’identification initiale peut devoir être précisée, réexaminée ou défendue au regard des conditions de mesure.
 
-La portée inférentielle concerne les relations entre les contenus et les conséquences qu’une pratique autorise à en tirer. Son examen peut également appeler une analyse des raisons qui permettent de défendre ces conséquences, des prémisses mobilisées et des conditions dans lesquelles elles sont recevables.
+Ces engagements ne sont pas nécessairement formulés explicitement. Ils dépendent des relations reconnues dans la pratique et des conditions dans lesquelles le contenu est employé.
 
-Elle ne relève pas d’une orientation unique : la portée d’une inférence doit être examinée au regard du problème et de la pratique dans lesquels elle intervient.
+### 3.3. Les incompatibilités
 
-Elle conduit notamment à demander :
+Un contenu peut exclure certaines affirmations ou entrer en conflit avec elles.
 
-- Quelles conclusions peuvent être tirées de l’assertion ?
-- Quels engagements supplémentaires en découlent dans la pratique considérée ?
-- Quelles autres affirmations deviennent incompatibles avec elle ?
-- Quelles conditions ou quelles exceptions limitent ces conséquences ?
-- Quelles conséquences peuvent être contestées sans abandonner nécessairement l’assertion initiale ?
+Cette incompatibilité ne doit pas être déduite d'une simple différence de vocabulaire ou de perspective. Il faut établir que les contenus concernés ne peuvent pas être maintenus simultanément dans les conditions considérées.
 
-Une assertion peut ainsi engager son auteur au-delà de son intention explicite. Toutefois, toute conséquence imaginable n’est pas automatiquement une conséquence légitime de l’assertion. Il faut établir la relation qui autorise la transition et préciser les conditions dans lesquelles elle demeure recevable.
+Une incompatibilité peut être limitée à un contexte, dépendre d'une condition d'application ou être levée par une distinction supplémentaire.
 
-## 5. Exemple : affirmer qu’un échantillon est en cuivre
+Elle ne signifie donc pas que deux descriptions différentes d'une même situation sont nécessairement contradictoires.
 
-Une personne affirme qu’un échantillon est en cuivre. Cette assertion mobilise un concept dont l’usage est lié à des propriétés, à des critères d’identification et à des connaissances relatives au matériau.
+### 3.4. Les conditions et les exceptions
 
-L’examen de sa portée inférentielle peut distinguer trois questions.
+Une conséquence peut dépendre de conditions qui ne sont pas explicitement mentionnées dans le contenu initial.
 
-**Le contenu et ses conséquences.** L’assertion peut autoriser certaines attentes concernant les propriétés du matériau, par exemple sa conductivité électrique. La portée de cette conséquence dépend des connaissances mobilisées et des conditions pertinentes.
+Il faut alors préciser :
 
-**Les engagements associés.** Si des observations fiables contredisent une propriété attendue, la personne peut être tenue de préciser son assertion, de justifier les conditions particulières du cas ou de réexaminer l’identification initiale.
+- quelles conditions rendent la transition recevable ;
+- quelles prémisses supplémentaires sont nécessaires ;
+- quelles exceptions limitent la conséquence attendue ;
+- quelles informations pourraient conduire à réviser la relation.
 
-**La justification de l’assertion.** Même si certaines conséquences découlent correctement de l’hypothèse que l’échantillon est en cuivre, cela ne démontre pas que l’échantillon est effectivement en cuivre. Il faut examiner les éléments qui soutiennent cette identification.
+Une conséquence ne peut être tenue pour autorisée indépendamment des conditions qui la rendent pertinente.
 
-L’exemple montre que la portée inférentielle ne dépend pas seulement de ce que le locuteur voulait dire. Elle dépend aussi des conséquences autorisées par le contenu mobilisé et des conditions dans lesquelles ces conséquences peuvent être maintenues.
+## 4. Distinctions avec les notions voisines
 
-Elle ne permet cependant pas de déduire automatiquement toutes les propriétés d’un échantillon à partir de son identification nominale.
+### 4.1. Portée inférentielle et contenu propositionnel
 
-## 6. Distinctions avec les notions voisines
+Le contenu propositionnel désigne ce qui peut être affirmé, nié, interrogé ou mobilisé comme prémisse ou conclusion.
 
-### 6.1. Portée inférentielle et intention du locuteur
+La portée inférentielle concerne les relations que ce contenu entretient avec d'autres contenus dans une pratique donnée.
 
-L’intention renseigne sur ce que le locuteur cherche à exprimer ou à accomplir. Elle ne suffit pas à déterminer toutes les conséquences associées à son assertion.
+Un contenu ne se réduit donc pas à la liste de ses conséquences. Inversement, l'examen de sa portée suppose de pouvoir identifier ce qui est effectivement mobilisé.
 
-Une conséquence peut être pertinente même si le locuteur ne l’avait pas anticipée. Inversement, une conséquence qu’il souhaite tirer de son assertion n’est pas nécessairement autorisée par elle.
+Voir [Proposition](fr/proposition.md).
 
-La portée inférentielle dépend des relations entre contenus et des règles pertinentes de la pratique, et non de la seule volonté individuelle.
+### 4.2. Portée inférentielle et assertion
 
-### 6.2. Portée inférentielle et inférence formelle
+L'assertion est l'acte par lequel un locuteur avance un contenu dans une pratique discursive et en assume la responsabilité.
 
-L’inférence formelle examine la validité d’une transition en fonction de sa structure logique.
+La portée inférentielle concerne les relations associées à ce contenu, qu'elles aient ou non été explicitement envisagées par le locuteur.
 
-La portée inférentielle est plus large : elle concerne également les relations entre contenus, les engagements et les incompatibilités qui dépendent des concepts employés et des pratiques dans lesquelles ils sont mobilisés.
+L'assertion rend ainsi possible l'examen des engagements associés à une prise de position, mais elle ne détermine pas à elle seule toutes les relations inférentielles pertinentes.
 
-Une transition peut être formellement valide sans que ses prémisses soient vraies ou suffisamment établies. Inversement, certaines inférences dépendent de connaissances relatives au contenu des affirmations et ne peuvent pas être évaluées par leur seule forme logique.
+Voir [Assertion](fr/assertion.md).
 
-### 6.3. Portée inférentielle et inférence matérielle
+### 4.3. Portée inférentielle et inférence
 
-L’inférence matérielle concerne les transitions dont la recevabilité dépend du contenu des énoncés.
+Une inférence est une transition discursive par laquelle un contenu permet d'autoriser, de soutenir, d'exiger ou d'exclure un autre contenu.
 
-Elle constitue donc une dimension importante de la portée inférentielle, sans se confondre avec elle. La portée comprend également les engagements, les incompatibilités et les conditions d’application qui structurent l’usage d’un contenu.
+La portée inférentielle ne désigne pas une transition particulière. Elle concerne l'ensemble structuré des relations pertinentes autour d'un contenu : les transitions qu'il autorise, les engagements qu'il entraîne et les incompatibilités auxquelles il expose.
 
-La page consacrée à l’inférence matérielle examine plus précisément les conditions dans lesquelles une affirmation peut autoriser une conclusion.
+L'inférence examine une transition ; la portée inférentielle permet de situer cette transition parmi les autres relations associées au contenu.
 
-### 6.4. Portée inférentielle et justification
+Voir [Inférence](fr/inference.md).
 
-La portée inférentielle permet d’identifier les conséquences et les engagements associés à un contenu. Elle ne suffit pas à établir que ce contenu est vrai, que ses prémisses sont adéquates ou que les conclusions tirées sont justifiées.
+### 4.4. Portée inférentielle et inférence formelle
 
-Une conclusion peut être autorisée par des prémisses admises tout en restant contestable si ces prémisses sont inadéquates ou si les conditions d’application ne sont pas réunies.
+L'inférence formelle examine la validité d'une transition au regard de sa structure logique.
+
+La portée inférentielle ne se réduit pas à cette dimension. Elle concerne également les relations qui dépendent des contenus employés, les engagements associés à leur usage et les incompatibilités reconnues dans une pratique.
+
+Une transition formellement valide ne garantit ni la vérité de ses prémisses ni l'adéquation de la conclusion à la situation examinée.
+
+Voir [Inférence formelle](fr/inference-formelle.md).
+
+### 4.5. Portée inférentielle et inférence matérielle
+
+L'inférence matérielle concerne les transitions dont la recevabilité dépend du contenu conceptuel des énoncés et des pratiques dans lesquelles ils sont employés.
+
+Elle constitue une dimension importante de la portée inférentielle, mais ne l'épuise pas. La portée comprend aussi les engagements, les incompatibilités, les présuppositions et les conditions qui structurent l'emploi d'un contenu.
+
+Voir [Inférence matérielle](fr/inference-materielle.md).
+
+### 4.6. Portée inférentielle et justification
+
+La portée inférentielle permet d'identifier les conséquences qu'un contenu autorise et les relations qui les rendent recevables.
+
+La justification examine les raisons et les critères permettant de défendre une assertion ou une conclusion dans un cas déterminé.
+
+Une conséquence peut être recevable au regard de prémisses admises sans que ces prémisses soient suffisamment établies. De même, identifier une relation inférentielle ne suffit pas à justifier son emploi dans une situation particulière.
 
 Il faut donc distinguer :
 
-- la conséquence qu’une assertion autorise ;
-- les raisons qui permettent de soutenir cette assertion ;
-- les critères qui rendent la transition recevable ;
+- la relation qui autorise une conséquence ;
+- les prémisses nécessaires à cette transition ;
+- les raisons permettant de soutenir ces prémisses ;
 - les éléments qui permettent de défendre la conclusion dans le cas considéré.
 
 Ces dimensions sont liées, mais aucune ne remplace automatiquement les autres.
 
-## 7. Articulation avec l’enquête de Protokin
+Voir [Justification](fr/justification.md).
 
-La portée inférentielle intervient lorsque l’enquête examine les conséquences d’une description, les engagements qui lui sont associés et les conditions dans lesquelles ces conséquences peuvent être maintenues ou révisées.
+## 5. Portée inférentielle et débordement pragmatique
 
-Dans la quadripartition de Protokin, elle concerne principalement les orientations **Relation** et **Justification**, sans se limiter à celles-ci.
+La portée inférentielle permet de déterminer les relations et les conséquences associées à un contenu. Elle fournit ainsi des éléments nécessaires à l'examen des engagements qui dépassent l'intention explicite d'un locuteur.
 
-- **Condition :** quelles circonstances et quelles contraintes affectent l’application du contenu ?
-- **Relation :** quelles conséquences, incompatibilités et dépendances relient les assertions ?
-- **Fonction :** quel rôle ces relations inférentielles jouent-elles dans la pratique considérée ?
-- **Justification :** quelles raisons et quels critères permettent de défendre les assertions et les transitions proposées ?
+Le **débordement pragmatique de l'assertion** porte sur une question plus circonscrite : dans quelles conditions une conséquence autorisée peut-elle être attribuée au locuteur, alors même qu'il ne l'avait pas explicitement envisagée ?
 
-Cette répartition oriente l’examen ; elle ne constitue pas une succession obligatoire. Une enquête peut commencer par une conséquence contestée, revenir sur les conditions d’application d’un concept, puis réexaminer les critères employés pour justifier la conclusion.
+Il faut distinguer :
 
-La portée inférentielle peut notamment être examinée par les opérations suivantes :
+- la conséquence qu'un contenu autorise ;
+- la conséquence effectivement tirée par un interlocuteur ;
+- l'engagement que l'on peut attribuer au locuteur ;
+- la justification de la conclusion ainsi produite.
 
-- **Relier**, pour expliciter les dépendances entre les contenus et les conséquences mobilisées ;
-- **Configurer**, pour organiser les engagements, les incompatibilités et les conditions pertinentes ;
-- **Justifier**, pour examiner les raisons et les critères qui autorisent les conclusions ;
-- **Éprouver**, pour confronter les conséquences attendues aux cas et aux contraintes pertinents.
+Une conséquence effectivement tirée n'est pas nécessairement autorisée. Une conséquence autorisée n'est pas nécessairement imputable au locuteur dans les mêmes conditions. Son attribution demande un examen distinct.
 
-Ces opérations ne garantissent pas la validité des résultats. Elles permettent de rendre explicites les relations examinées et de repérer les transitions qui exigent une justification supplémentaire.
+Voir [Le débordement pragmatique de l'assertion](fr/le-debordement-pragmatique-de-l-assertion.md).
 
-## 8. Limites et non-conversions
+## 6. Place dans l'enquête de Protokin
 
-La portée inférentielle ne permet pas, à elle seule, de conclure :
+La portée inférentielle devient pertinente lorsque l'enquête doit examiner les conséquences d'un contenu, les engagements qui lui sont associés ou les incompatibilités qu'il fait apparaître.
 
-- que toute conséquence concevable d’une assertion est légitimement autorisée ;
-- que le locuteur connaît ou accepte tous les engagements associés à son assertion ;
-- qu’une transition admise dans une pratique est nécessairement correcte dans tous les cas ;
-- que la validité formelle ou matérielle d’une transition garantit la vérité de ses prémisses ;
-- que la cohérence d’un réseau inférentiel garantit l’adéquation de la description à son référent ;
-- que les conséquences discursives d’une assertion se confondent avec les effets causaux qu’elle peut produire ;
-- qu’une conséquence autorisée est nécessairement une conclusion justifiée.
+Elle n'est ni une opération supplémentaire ni une orientation autonome de l'examen. Selon la difficulté rencontrée, l'enquête peut examiner les conditions d'application du contenu, les relations entre les affirmations, la fonction des conséquences dans la pratique ou les raisons permettant de défendre une conclusion.
 
-L’analyse doit préciser les contenus concernés, les règles mobilisées, les conditions d’application et les objections susceptibles de modifier l’examen.
+Plusieurs opérations peuvent contribuer à cet examen. **Relier** permet d'expliciter les dépendances entre contenus ; **Configurer** permet d'organiser les éléments et leurs relations au regard du problème ; **Justifier** examine ce que les raisons et les critères permettent de soutenir. Leur mobilisation dépend de la difficulté rencontrée et ne constitue pas une procédure obligatoire.
 
-Le principe directeur est le suivant :
+La portée inférentielle ne garantit pas la validité des résultats. Elle rend les relations examinables et permet de repérer les transitions qui exigent un examen supplémentaire.
 
-**La portée inférentielle d’un contenu ne se réduit ni à l’intention de celui qui l’emploie ni à la justification des conclusions qu’il permet d’envisager.**
+Pour situer ces ressources, voir [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) et [Orientation de l'examen](fr/orientation-de-l-examen.md).
 
-## 9. Synthèse
+## 7. Limites et non-conversions
 
-La portée inférentielle désigne les conséquences, les engagements, les incompatibilités et les présuppositions associés à l’usage d’un contenu dans une pratique discursive.
+L'examen de la portée inférentielle ne permet pas, à lui seul, de conclure :
 
-Elle permet d’examiner comment une assertion peut engager son auteur au-delà de son intention explicite, sans attribuer à cette assertion des conséquences illimitées ou indépendantes de ses conditions d’application.
+- que toute conséquence concevable d'un contenu est autorisée ;
+- que les relations reconnues dans une pratique sont nécessairement correctes dans tous les cas ;
+- que la validité formelle ou matérielle d'une transition garantit la vérité de ses prémisses ;
+- que les engagements associés à un contenu sont toujours explicitement connus ou acceptés par celui qui l'emploie ;
+- qu'une conséquence autorisée est nécessairement imputable au locuteur ;
+- que les conséquences discursives d'un contenu se confondent avec les effets causaux ou pratiques de son emploi ;
+- que la cohérence d'un ensemble de relations inférentielles garantit l'adéquation d'une description à ce qu'elle prétend décrire ;
+- qu'une conséquence recevable est, de ce seul fait, suffisamment justifiée dans une situation déterminée.
 
-Pour Protokin, elle constitue un instrument d’analyse des relations entre contenus et des transitions qu’ils autorisent. Elle aide à déterminer ce qui peut être inféré, ce qui reste contestable et ce qui exige un examen supplémentaire.
+L'analyse doit préciser les contenus concernés, les relations mobilisées, les conditions d'application et les objections susceptibles de conduire à réviser les résultats.
 
-La distinction directrice est la suivante : **une conséquence autorisée par un contenu, la justification de ce contenu et l’adéquation de la description à ce qu’elle décrit constituent des questions liées, mais distinctes.**
+**La portée inférentielle d'un contenu ne se confond ni avec une transition particulière, ni avec l'intention de celui qui l'emploie, ni avec la justification des conclusions qui en sont tirées.**
 
-## 10. Pour poursuivre
+## Synthèse
 
-- [Inférences](fr/inferences.md)
-- [Assertion](fr/assertion.md)
-- [Engagements descriptifs](fr/engagements-descriptifs.md)
-- [Inférence formelle](fr/inference-formelle.md)
-- [Inférence matérielle](fr/inference-materielle.md)
-- [Espace des raisons](fr/espace-des-raisons.md)
-- [Justifications](fr/justifications.md)
-- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
+La portée inférentielle désigne l'ensemble structuré des conséquences, des engagements et des incompatibilités associés à l'emploi d'un contenu dans une pratique discursive.
+
+Elle permet d'examiner ce qu'un contenu autorise à conclure, ce qu'il engage à maintenir ou à réviser et les conditions qui limitent les relations entre les affirmations.
+
+Elle ne garantit ni la vérité des prémisses, ni la justification des conclusions, ni l'adéquation de la description à la situation examinée.
+
+**Examiner la portée d'un contenu, c'est rendre explicites les relations qu'il autorise sans convertir ces relations en garanties de vérité ou de justification.**
+
+## Pour poursuivre
+
+- [Proposition](fr/proposition.md) — Examiner les contenus susceptibles d'être mobilisés comme prémisses ou conclusions.
+- [Assertion](fr/assertion.md) — Examiner l'acte d'avancer un contenu et les engagements qui lui sont associés.
+- [Inférence](fr/inference.md) — Examiner les transitions qui autorisent, exigent ou excluent d'autres contenus.
+- [Inférence formelle](fr/inference-formelle.md) — Examiner la validité d'un raisonnement à partir de sa structure logique.
+- [Inférence matérielle](fr/inference-materielle.md) — Examiner les transitions dont la recevabilité dépend du contenu des énoncés.
+- [Justification](fr/justification.md) — Examiner les raisons permettant de défendre ou de réviser un engagement.
+- [Le débordement pragmatique de l'assertion](fr/le-debordement-pragmatique-de-l-assertion.md) — Examiner l'écart entre intention, conséquences autorisées et attribution au locuteur.
+- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations et les autres ressources mobilisées dans l'enquête.
