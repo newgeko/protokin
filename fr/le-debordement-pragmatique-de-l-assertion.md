@@ -1,166 +1,195 @@
 # Le débordement pragmatique de l’assertion
 
-## 1. Fonction
+## Fonction
 
-Cette page examine l’écart entre l’intention explicite d’un locuteur et les conséquences qu’une assertion peut autoriser dans une pratique discursive.
+Cette page examine les conséquences d’une assertion qui dépassent l’intention explicite de son auteur. Elle précise dans quelles conditions ces conséquences peuvent être reconnues comme pertinentes, autorisées ou imputables au locuteur.
 
-Une assertion peut engager des conséquences que son auteur n’avait pas anticipées. Mais cet écart ne signifie pas que tout ce qu’un interlocuteur peut associer à une phrase devient une conséquence légitime de l’assertion.
+Son objet n’est pas de redéfinir l’assertion ni de décrire l’ensemble de sa portée inférentielle. Il est de distinguer ce que le locuteur entend faire, ce que son assertion autorise et ce que les autres participants en tirent effectivement.
 
-Le problème consiste donc à déterminer **ce qui autorise une conséquence au-delà de l’intention du locuteur, et dans quelles limites**.
+## 1. Problème : l’intention ne détermine pas toute la portée
 
-## 2. Problème : l’intention ne détermine pas toute la portée
+Lorsqu’un locuteur affirme quelque chose, les conséquences de son intervention ne se limitent pas nécessairement à ce qu’il avait explicitement l’intention de communiquer.
 
-Considérons l’assertion :
+Une assertion entre dans une pratique discursive. Elle peut être reprise comme prémisse, mise en relation avec d’autres contenus, confrontée à des engagements antérieurs ou utilisée pour soutenir une décision.
 
-« Cet arbre présente un risque pour l’habitation. »
+Le locuteur peut ne pas avoir anticipé ces conséquences. Il peut également refuser certaines conclusions que d’autres participants tirent de son affirmation.
 
-Le locuteur peut vouloir signaler une inquiétude ou attirer l’attention sur l’état de l’arbre. Son intention ne détermine pourtant pas, à elle seule, les conséquences que d’autres peuvent tirer de son assertion.
+Deux erreurs symétriques doivent alors être évitées :
 
-Selon les connaissances et les règles pertinentes, celle-ci peut autoriser une demande d’inspection, conduire à examiner la stabilité de l’arbre ou rendre certaines affirmations antérieures incompatibles avec les éléments désormais avancés.
+- réduire la portée de l’assertion à l’intention déclarée de son auteur ;
+- attribuer au locuteur toutes les conséquences qu’un interlocuteur associe à son assertion.
 
-Ces conséquences ne sont pas équivalentes. Certaines découlent de relations entre contenus ; d’autres dépendent de critères d’évaluation ou de règles propres à une pratique. Une intervention pratique peut, quant à elle, nécessiter des éléments supplémentaires.
+La difficulté consiste à déterminer ce qui, au-delà de l’intention explicite, est effectivement autorisé par l’assertion et ce qui peut être imputé à celui qui l’a formulée.
 
-Il faut donc distinguer ce que le locuteur entend faire, ce que son assertion autorise, ce que les autres en tirent effectivement et ce qui peut être justifié.
+## 2. Définition
 
-## 3. Définition
+Le **débordement pragmatique de l’assertion** désigne le phénomène par lequel une assertion produit, dans une pratique discursive, des engagements ou des conséquences pertinentes qui excèdent ce que son auteur avait explicitement envisagé.
 
-Le **débordement pragmatique de l’assertion** désigne le fait que les conséquences pertinentes d’une assertion ne se limitent pas à l’intention explicite de son auteur.
+Ce débordement ne constitue ni une extension illimitée du sens ni une propriété autonome de la phrase. Il dépend du contenu affirmé, des règles d’inférence pertinentes, des engagements associés à l'assertion et des conditions dans lesquelles elle est reprise.
 
-Lorsqu’une assertion entre dans une pratique discursive, elle peut être reprise comme prémisse, mise en relation avec d’autres contenus, confrontée à des engagements antérieurs ou mobilisée pour soutenir une conclusion. Sa portée dépend alors des relations inférentielles, des règles et des conditions d’application pertinentes.
+Il faut distinguer quatre éléments :
 
-Le débordement n’est donc ni une propriété mystérieuse de la phrase ni une extension indéfinie de son sens. Il désigne un écart déterminé entre l’intention de l’instance qui asserte et les conséquences que son intervention autorise dans une pratique donnée.
+- **L’intention du locuteur** : ce qu’il cherche à exprimer ou à accomplir par son intervention.
+- **L’assertion** : l’acte par lequel il avance effectivement un contenu dans une pratique discursive.
+- **Les conséquences autorisées** : les conclusions ou les engagements que les relations entre contenus et les règles de la pratique permettent de soutenir.
+- **Les conséquences effectivement tirées** : les conclusions, les décisions ou les réactions que les autres participants associent à l’assertion.
 
-Cet écart doit être établi. Il ne suffit pas qu’une conséquence soit imaginable, utile à un interlocuteur ou effectivement tirée pour qu’elle soit autorisée par l’assertion.
+Ces éléments peuvent être liés sans être équivalents. Le débordement apparaît lorsque l’examen de l’assertion révèle des conséquences pertinentes qui ne se réduisent pas à l’intention explicite de son auteur.
 
-## 4. Distinguer intention, autorisation et conséquence effective
+## 3. Intention, autorisation et attribution
 
-Trois questions doivent être séparées.
+### 3.1. L’intention du locuteur
 
-### 4.1. L’intention du locuteur
+L’intention renseigne sur ce que le locuteur cherche à faire en affirmant un contenu. Elle peut contribuer à interpréter son intervention, à préciser son propos ou à distinguer une affirmation d'une hypothèse, d'une citation ou d'une mise en garde.
 
-L’intention renseigne sur ce que le locuteur cherche à exprimer ou à accomplir en produisant son assertion. Elle peut aider à comprendre son intervention et à lever certaines ambiguïtés.
+Elle ne détermine cependant pas à elle seule les engagements associés à l'assertion.
 
-Elle ne détermine cependant pas toutes les conséquences de ce qu’il affirme. Un locuteur peut ne pas avoir anticipé une incompatibilité avec un engagement antérieur ou une conséquence pertinente pour la pratique dans laquelle son assertion est reprise.
+Un locuteur peut ne pas avoir envisagé une conséquence pourtant autorisée par le contenu qu'il affirme. Inversement, il peut vouloir faire admettre une conclusion que son assertion ne permet pas de soutenir.
 
-Inversement, le fait qu’il souhaite faire admettre une conclusion ne suffit pas à établir que son assertion autorise cette conclusion.
+L'intention est donc pertinente pour interpréter l'intervention, mais elle ne constitue pas le critère exclusif de sa portée.
 
-### 4.2. La conséquence autorisée
+### 3.2. La conséquence autorisée
 
-Une conséquence est autorisée lorsqu’une relation pertinente entre contenus, engagements ou règles permet de soutenir le passage de l’assertion à cette conséquence.
+Une conséquence est autorisée lorsqu'une relation pertinente entre contenus, engagements ou règles permet de soutenir le passage de l'assertion à cette conséquence.
 
-Cette autorisation peut dépendre de connaissances relatives au contenu des énoncés, de prémisses supplémentaires, de conditions d’application ou de normes propres à une pratique. Elle ne se déduit donc pas de la seule intention du locuteur, mais pas davantage de la seule forme grammaticale de sa phrase.
+Cette autorisation doit être explicitée :
 
-L’autorisation doit être précisée : quelle relation permet le passage ? Quelles prémisses sont nécessaires ? Quelles conditions ou exceptions limitent la conclusion ?
+- Quel contenu a effectivement été affirmé ?
+- Quelle relation permet de tirer la conséquence ?
+- Quelles prémisses supplémentaires sont nécessaires ?
+- Quelles conditions ou exceptions limitent le passage ?
+- Dans quelle pratique cette relation est-elle reconnue ou défendable ?
 
-### 4.3. La conséquence effectivement tirée
+Le fait qu'une conséquence soit utile, plausible ou effectivement tirée ne suffit pas à l'autoriser.
 
-Un interlocuteur peut tirer une conclusion qui n’est pas autorisée par l’assertion. Une conséquence peut aussi être autorisée sans être effectivement tirée par quiconque.
+Une conséquence peut dépasser l'intention du locuteur tout en étant recevable. Mais cette recevabilité doit être établie à partir des contenus et des relations pertinents, et non attribuée à la seule volonté de l'interprète.
 
-Il faut donc distinguer la portée que l’on peut défendre à partir des relations pertinentes et l’usage qu’un participant fait effectivement de l’assertion.
+### 3.3. L'attribution au locuteur
 
-Dans l’exemple de l’arbre, l’affirmation qu’il présente un risque peut justifier une demande d’évaluation. Elle ne permet pas, à elle seule, de conclure que l’abattage est nécessaire. Si un interlocuteur en déduit immédiatement qu’il faut abattre l’arbre, il faut examiner les prémisses et les critères supplémentaires qui autoriseraient cette décision.
+L'autorisation d'une conséquence et son attribution au locuteur sont liées, mais ne se confondent pas.
 
-Le débordement pragmatique ne consiste donc pas à attribuer automatiquement au locuteur toutes les conclusions tirées par les autres participants.
+Lorsqu'il asserte un contenu, le locuteur assume les engagements associés à cet acte dans les limites déterminées par le contenu, les règles et le contexte de la pratique. Il peut donc être conduit à répondre d'une conséquence qu'il n'avait pas anticipée.
 
-## 5. Engagement du locuteur et habilitation des autres participants
+Cela ne signifie pas que toute conséquence autorisée devient automatiquement un engagement explicite ou identique pour tous les locuteurs. L'étendue de la responsabilité discursive doit être examinée en fonction de l'assertion effectivement accomplie et des normes pertinentes.
 
-Une assertion peut engager son locuteur et habiliter d’autres participants à l’utiliser dans leurs propres inférences. Ces deux fonctions sont liées, mais distinctes.
+Le locuteur peut être tenu de reconnaître une conséquence, de préciser son affirmation ou de justifier son refus. Il ne s'ensuit pas qu'il soit responsable de toute interprétation possible de ses paroles.
 
-Le locuteur prend en charge un contenu en l’assertant. Il peut être invité à le préciser, à répondre à une objection ou à justifier les raisons qui le soutiennent. L’étendue de ses engagements dépend toutefois de la portée de son assertion et des règles pertinentes : elle ne se confond pas avec toutes les conclusions qu’un autre participant pourrait en tirer.
+### 3.4. La conséquence effectivement tirée
 
-Les autres participants peuvent, de leur côté, reprendre l’assertion comme prémisse, examiner ses conséquences ou contester son application. Cette possibilité ne leur confère pas une autorisation illimitée. Leurs propres inférences doivent également pouvoir être examinées.
+Une conséquence effectivement tirée peut être autorisée ou ne pas l'être.
 
-Ainsi, dans une pratique discursive :
+Un interlocuteur peut reprendre une assertion comme prémisse et en tirer une conclusion qui exige des informations supplémentaires. Il peut également produire une interprétation qui ne correspond pas au contenu affirmé.
 
-- une assertion peut engager son auteur au-delà de ce qu’il avait explicitement envisagé ;
-- elle peut autoriser d’autres participants à en tirer certaines conséquences ;
-- elle ne rend pas toutes ces conséquences explicitement imputables à son auteur ;
-- elle ne garantit ni la correction des inférences effectuées ni la justification des décisions qui en découlent.
+Il faut donc distinguer :
 
-L’écart entre intention et portée ne supprime donc pas la responsabilité du locuteur, mais il ne permet pas non plus de lui attribuer indistinctement tous les usages ultérieurs de son assertion.
+- la conséquence que l'assertion autorise ;
+- la conclusion que l'interlocuteur en tire ;
+- la justification de cette conclusion ;
+- l'engagement que l'on peut attribuer au locuteur.
 
-## 6. Ce que le débordement n’autorise pas à conclure
+Le fait qu'une conclusion ait été tirée ne prouve pas qu'elle était autorisée. Le fait qu'elle soit autorisée ne signifie pas non plus qu'elle ait été effectivement envisagée ou formulée.
 
-Le débordement pragmatique ne signifie pas que toutes les conséquences concevables d’une assertion appartiennent à sa portée.
+## 4. Exemple : un relevé de température
 
-Pour établir une conséquence, il faut identifier les contenus mis en relation, les engagements pertinents, les règles mobilisées et les conditions dans lesquelles le passage reste recevable.
+Un technicien affirme : « Le capteur du local affiche 80 °C. »
 
-Il faut également distinguer plusieurs questions :
+Son intention peut être simplement de signaler la valeur indiquée par l'appareil. Mais, dans une pratique de surveillance technique, cette assertion peut avoir des conséquences qui dépassent cette intention.
 
-- **Autorisation inférentielle :** la relation entre les contenus permet-elle de tirer cette conclusion ?
-- **Justification :** les raisons, les prémisses et les critères permettent-ils de défendre cette conclusion dans le cas considéré ?
-- **Effet pratique :** quelles conduites cette assertion contribue-t-elle effectivement à orienter ?
-- **Adéquation descriptive :** l’assertion décrit-elle correctement la situation à laquelle elle se rapporte ?
+Elle peut notamment conduire à vérifier le capteur, à comparer le relevé avec d'autres mesures ou à examiner le fonctionnement du dispositif surveillé. Si la valeur dépasse un seuil d'alerte défini par la procédure applicable, elle peut également justifier le déclenchement d'une vérification.
 
-Ces questions peuvent dépendre les unes des autres sans se confondre.
+Ces conséquences ne sont pas équivalentes.
 
-Une conclusion peut être autorisée à partir de prémisses admises sans être suffisamment justifiée si ces prémisses sont inadéquates. Une assertion peut orienter une décision sans que cette décision soit justifiée. Une inférence peut être cohérente sans que la description initiale soit adéquate à ce qu’elle prétend décrire.
+L'affirmation portant sur l'affichage du capteur ne permet pas, à elle seule, de conclure que la température réelle du local est de 80 °C. Elle ne prouve pas davantage que le dispositif est défectueux ou qu'une intervention déterminée est nécessaire.
 
-De même, l’effet causal d’une assertion — par exemple, la peur qu’elle suscite ou la décision qu’elle provoque — ne suffit pas à établir la validité de ses conséquences inférentielles.
+Si un interlocuteur conclut immédiatement à une défaillance, il faut examiner les prémisses et les critères qui autorisent ce passage. Si le technicien répond qu'il voulait seulement signaler une valeur affichée, cette intention ne suffit pas à écarter les conséquences pertinentes de son assertion dans la procédure de surveillance.
 
-Le débordement ne transforme donc ni une conséquence autorisée en conclusion nécessairement justifiée, ni un effet produit en raison, ni une description cohérente en description adéquate.
+L'exemple permet de distinguer ce qui est affirmé, les conséquences que la pratique autorise à en tirer et les conclusions qui exigent des éléments supplémentaires.
 
-## 7. Exemple : du risque à la décision
+## 5. Distinctions avec les notions voisines
 
-Une personne affirme : « Cet arbre présente un risque pour l’habitation. »
+### 5.1. Débordement pragmatique et portée inférentielle
 
-Cette assertion peut conduire à examiner l’état du tronc, l’inclinaison de l’arbre, la proximité du bâtiment ou les conditions du sol. Elle peut aussi rendre nécessaire une clarification : de quel risque parle-t-on, sur quelles observations repose l’affirmation et dans quelles conditions ce risque est-il établi ?
+La **portée inférentielle** désigne l'ensemble structuré des conséquences, des engagements, des incompatibilités et des présuppositions associés à l'usage d'un contenu dans une pratique discursive.
 
-Mais plusieurs passages doivent être distingués.
+Le débordement pragmatique examine un problème plus circonscrit : l'écart entre l'intention explicite du locuteur et certaines conséquences de son assertion, ainsi que les conditions dans lesquelles ces conséquences peuvent lui être imputées.
 
-L’assertion peut autoriser une demande d’évaluation sans établir que l’arbre doit être abattu. Une observation peut soutenir l’hypothèse d’un risque sans suffire à justifier une mesure particulière. Une décision peut être prise en réponse à l’assertion sans que cette décision soit la conséquence nécessaire de son contenu.
+La portée inférentielle fournit ainsi des éléments nécessaires à l'examen du débordement, sans se confondre avec lui.
 
-Si le locuteur répond qu’il voulait seulement attirer l’attention sur l’arbre, cette intention ne suffit pas à annuler les conséquences que son assertion autorise effectivement. Inversement, si un interlocuteur en conclut qu’un abattage immédiat est obligatoire, cette conclusion ne devient pas recevable du seul fait qu’elle a été tirée.
+Voir [La portée inférentielle](fr/la-portee-inferentielle.md).
 
-L’examen doit donc identifier les relations et les critères qui soutiennent chaque passage, plutôt que de déduire la portée de l’assertion de l’intention initiale ou des effets qu’elle a produits.
+### 5.2. Débordement pragmatique et inférence
 
-## 8. Place dans l’enquête de Protokin
+Une inférence désigne une transition entre contenus. Le débordement pragmatique ne constitue pas un type supplémentaire d'inférence.
 
-Le débordement pragmatique intervient lorsque l’enquête doit examiner une conséquence tirée d’une assertion qui excède ce que son auteur avait explicitement envisagé, ou lorsqu’une intention déclarée est invoquée pour écarter une conséquence pourtant pertinente.
+Il apparaît comme un problème lorsque les conséquences d'une transition pertinente excèdent ce que le locuteur avait explicitement envisagé. Il faut alors examiner la relation qui autorise cette transition et les engagements qu'elle entraîne.
 
-Il invite à distinguer :
+Une association entre deux contenus ou une conclusion effectivement formulée ne suffit pas à établir une inférence recevable.
 
-- les conditions qui affectent l’application de l’assertion ;
-- les relations qui autorisent ou excluent certaines conséquences ;
-- la fonction exercée par l’assertion dans la pratique ;
-- les raisons et les critères permettant de défendre les conclusions tirées.
+Voir [Inférence](fr/inference.md) et [Inférence matérielle](fr/inference-materielle.md).
 
-Ces orientations ne constituent ni quatre composantes de l’assertion ni quatre étapes obligatoires de son analyse. Elles permettent de préciser les questions que soulève le problème rencontré.
+### 5.3. Débordement pragmatique et effet pratique
 
-L’examen peut notamment conduire à expliciter une prémisse manquante, à identifier une incompatibilité, à contester une inférence ou à réviser la délimitation initiale du problème. Le débordement ne désigne donc pas une phase supplémentaire de la chaîne d’enquête, mais un problème susceptible d’apparaître dans différentes pratiques descriptives.
+Une assertion peut provoquer une réaction, orienter une conduite ou contribuer à une décision. Ces effets pratiques ne se confondent pas avec les conséquences inférentielles de son contenu.
 
-## 9. Limites et non-conversions
+Une décision peut être prise à la suite d'une assertion sans être autorisée par elle. Inversement, une assertion peut autoriser certaines conséquences sans provoquer leur mise en œuvre.
 
-Le débordement pragmatique de l’assertion n’établit pas :
+L'examen doit donc distinguer les relations entre contenus, les effets produits dans la pratique et les raisons qui permettent de défendre une décision.
 
-- que l’intention du locuteur est sans importance ;
-- que toutes les conséquences logiquement imaginables sont autorisées ;
-- que toute conséquence tirée par un interlocuteur est imputable au locuteur ;
-- que les conséquences autorisées sont nécessairement justifiées ;
-- que les règles d’une pratique garantissent à elles seules la correction de ses inférences ;
-- que les effets pratiques d’une assertion déterminent son contenu ;
-- que la cohérence d’une inférence garantit l’adéquation de la description à son référent.
+### 5.4. Débordement pragmatique et justification
 
-Le principe directeur est le suivant : **l’intention ne détermine pas toute la portée d’une assertion, mais la portée ne peut être étendue au-delà des relations et des conditions qui permettent de la défendre.**
+L'identification d'une conséquence autorisée ne suffit pas à justifier cette conséquence ni l'assertion dont elle dépend.
+
+Une conclusion peut être recevable à partir de prémisses admises sans que celles-ci soient adéquates à la situation examinée. Une assertion peut également remplir une fonction pratique sans être suffisamment justifiée.
+
+Le débordement pragmatique rend certaines conséquences examinables ; il ne garantit pas la qualité des raisons avancées pour les soutenir.
+
+Voir [Justification](fr/justification.md) et [Espace des raisons](fr/espace-des-raisons.md).
+
+## 6. Articulation avec les positions discursives
+
+Le débordement pragmatique concerne les relations entre une assertion, son auteur et les participants qui en examinent les conséquences.
+
+Le **locuteur** est la position à laquelle l'intervention est attribuée et dont les engagements peuvent être examinés. L'**auditeur** désigne la position depuis laquelle l'assertion peut être interrogée, contestée ou provisoirement acceptée.
+
+Ces fonctions ne déterminent pas à elles seules la validité des conséquences. Le locuteur peut ne pas avoir anticipé une conséquence autorisée ; l'auditeur peut également tirer une conclusion qui ne l'est pas.
+
+L'examen doit donc porter sur les contenus, les règles et les raisons qui soutiennent les passages proposés, plutôt que sur la seule intention de l'un ou la seule interprétation de l'autre.
+
+Voir [Locuteur](fr/locuteur.md), [Auditeur](fr/auditeur.md) et [Assertion](fr/assertion.md).
+
+## 7. Portée et limites
+
+Le débordement pragmatique permet d'examiner les conséquences d'une assertion au-delà de l'intention explicite de son auteur. Il rend visible la différence entre ce qui est voulu, ce qui est affirmé, ce qui est autorisé et ce qui est effectivement tiré.
+
+Il ne permet pas, à lui seul, de conclure :
+
+- que l'intention du locuteur est sans importance ;
+- que toute conséquence imaginable est autorisée par l'assertion ;
+- que toute conséquence effectivement tirée est recevable ;
+- que toute conséquence autorisée est explicitement imputable au locuteur dans les mêmes termes ;
+- que le locuteur connaît ou accepte toutes les conséquences associées à son assertion ;
+- que les effets pratiques d'une assertion constituent des conséquences inférentielles ;
+- qu'une conséquence autorisée est nécessairement justifiée ;
+- que la cohérence des inférences garantit l'adéquation de la description à ce qu'elle prétend décrire.
+
+Le débordement doit donc être établi à partir des relations et des conditions qui rendent une conséquence pertinente. Il ne constitue ni une présomption générale de responsabilité illimitée ni un moyen d'écarter les engagements au nom de l'intention privée.
 
 ## Synthèse
 
-Le débordement pragmatique de l’assertion désigne l’écart entre l’intention explicite du locuteur et les conséquences que son assertion peut autoriser dans une pratique discursive.
+Le débordement pragmatique de l'assertion désigne les conséquences et les engagements pertinents d'une assertion qui dépassent l'intention explicite de son auteur.
 
-Il permet de comprendre pourquoi une assertion peut engager plus que ce que son auteur avait anticipé, sans attribuer à celui-ci toutes les conclusions tirées par les autres participants ni étendre indéfiniment le contenu de son intervention.
+Il permet de comprendre pourquoi un locuteur peut être conduit à répondre de conséquences qu'il n'avait pas anticipées, sans lui attribuer pour autant toutes les conclusions que les autres participants tirent de ses paroles.
 
-L’enjeu est de déterminer les relations qui autorisent une conséquence, les conditions qui en limitent la portée et les raisons nécessaires pour la justifier.
+**L'intention ne détermine pas toute la portée d'une assertion ; la portée de l'assertion ne justifie pas toute conséquence ; une conséquence autorisée ne se confond pas avec son attribution ni avec sa justification.**
 
-**Intention, conséquence autorisée, conséquence effectivement tirée et justification sont liées, mais ne sont pas interchangeables.**
+## Pour poursuivre
 
-### Pour poursuivre
-
-- [Assertion](fr/assertion.md)
-- [Locuteur](fr/locuteur.md)
-- [Auditeur](fr/auditeur.md)
-- [Proposition](fr/proposition.md)
-- [Inférence](fr/inference.md)
-- [La portée inférentielle](fr/la-portee-inferentielle.md)
-- [Espace des raisons](fr/espace-des-raisons.md)
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
-- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
+- [Assertion](fr/assertion.md) — Examiner l'acte d'avancer un contenu et les engagements qui lui sont associés.
+- [Locuteur](fr/locuteur.md) — Examiner la position à laquelle une intervention discursive est attribuée.
+- [Auditeur](fr/auditeur.md) — Examiner la position depuis laquelle une assertion peut être interrogée ou contestée.
+- [La portée inférentielle](fr/la-portee-inferentielle.md) — Examiner les conséquences, les engagements et les incompatibilités associés à un contenu.
+- [Inférence matérielle](fr/inference-materielle.md) — Examiner les transitions dont la recevabilité dépend du contenu des énoncés.
+- [Justification](fr/justification.md) — Examiner les raisons et les critères permettant de défendre un engagement.
+- [Espace des raisons](fr/espace-des-raisons.md) — Situer les relations entre raisons, conclusions et engagements.
+- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Préciser sous quel rapport une difficulté peut être examinée.
+- [Table des matières](fr/tdm.md) — Situer cette ressource dans le corpus.
