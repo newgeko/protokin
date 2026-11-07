@@ -31,20 +31,29 @@ Il n'existe donc pas de correspondance fixe entre une notion et une opération d
 
 L'usage et la fonction d'une notion sont liés, mais ne désignent pas la même chose.
 
-L'**usage** concerne la manière dont une notion est effectivement employée dans une pratique descriptive ou dans une enquête : dans quelles formulations, selon quelles règles, avec quels critères et dans quelles circonstances.
+L'**usage** désigne la manière dont une notion est effectivement employée dans une pratique : ses conditions d'emploi, ses contextes d'apparition, les formulations dans lesquelles elle intervient, les inférences auxquelles elle participe et les conséquences associées à son utilisation.
 
-La **fonction** désigne la contribution que cet emploi apporte au travail considéré : distinguer des éléments, organiser une description, rendre une inférence possible, soutenir une décision ou justifier une conclusion, par exemple.
+La **fonction** désigne la contribution que cet emploi apporte au travail considéré. Une notion peut notamment contribuer à établir une distinction, caractériser une relation, organiser une description, soutenir une inférence, produire une explication ou justifier une conclusion.
 
-Une notion peut ainsi avoir plusieurs usages et remplir des fonctions différentes selon les situations. Inversement, des notions distinctes peuvent remplir des fonctions proches sans être équivalentes.
+La distinction porte donc sur deux questions différentes : comment une notion est-elle employée, et à quoi cet emploi contribue-t-il ?
 
-Cette distinction permet d'éviter deux confusions :
+Plusieurs relations sont possibles :
 
-- déduire la fonction d'une notion de sa seule définition ;
-- assimiler des notions parce qu'elles remplissent ponctuellement une fonction similaire.
+- un même terme peut avoir plusieurs usages ;
+- un même usage peut contribuer à plusieurs fonctions ;
+- des usages différents peuvent remplir des fonctions similaires ;
+- une fonction similaire n'implique ni une identité d'usage ni une équivalence entre les notions concernées.
 
-La fonction d'une notion doit être examinée à partir de ses usages effectifs et du travail auquel elle contribue.
+La fonction d'une notion n'est donc pas une propriété intrinsèque que sa définition suffirait à établir. Elle doit être examinée à partir de ses usages effectifs, des pratiques dans lesquelles elle intervient et des conséquences de son emploi.
 
-Il faut également distinguer cette fonction de l'orientation d'examen **Fonction**. La première désigne la contribution d'une notion dans une pratique ou une enquête ; la seconde désigne un rapport sous lequel cette contribution peut être examinée.
+Inversement, constater un usage ne suffit pas à déterminer sa fonction. Il faut examiner le travail auquel cet usage contribue et les relations qu'il entretient avec les autres éléments de la pratique.
+
+Cette distinction permet notamment d'éviter deux réductions :
+
+- déduire la fonction d'une notion de sa seule définition ou de sa forme linguistique ;
+- assimiler des notions distinctes au motif qu'elles remplissent ponctuellement une fonction similaire.
+
+Il faut enfin distinguer la fonction d'une notion de l'orientation d'examen **Fonction**. La première désigne la contribution d'un emploi dans une pratique ; la seconde désigne le rapport sous lequel cette contribution est examinée.
 
 ## 3. Prendre une notion pour objet d'examen
 
