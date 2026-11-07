@@ -1,3 +1,5 @@
+
+
 - [Accueil](README.md)
 - [Introduction générale](fr/introduction-generale.md)
 - [Protokin en une phrase](fr/protokin-en-une-phrase.md)
@@ -7,6 +9,7 @@
 - **I. Comprendre le projet**
   - [Architecture du projet](fr/architecture-projet.md)
   - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
+  - [Enquête et organisation des notions](fr/enquete-et-organisation-des-notions.md)
   - [Orientation de l’examen](fr/orientation-de-l-examen.md)
   - [Registres](fr/registres.md)
   - [Nom, origine et portée](fr/nom-origine-portee.md)
@@ -18,6 +21,8 @@
   - [Enquête](fr/enquete.md)
   - [La chaîne principale de l’enquête](fr/la-chaine-principale-de-l-enquete.md)
   - [Conduire une enquête](fr/conduire-une-enquete.md)
+  - [Plateau d’enquête](fr/plateau-d-enquete.md)
+  - [Orientations et chemin de l’enquête](fr/orientation-et-chemin-de-l-enquete.md)
   - [Pourquoi ne pas alourdir l’enquête ?](fr/pourquoi-ne-pas-alourdir-l-enquete.md)
   - **Opérations**
     - [Délimiter](fr/delimiter.md)
@@ -33,6 +38,7 @@
   - [Temps physique](fr/temps.md)
   - [Temporalité descriptive](fr/temporalite-descriptive.md)
   - [Historicité](fr/historicite.md)
+  - [Anachronisme](fr/anachronisme.md)
   - [Trajectoire](fr/trajectoire.md)
   - [Transition](fr/transition.md)
   - [Transformation](fr/transformation.md)
@@ -54,6 +60,7 @@
     - [Position épistémique](fr/position-epistemique.md)
   - **Inférence et raisons**
     - [Inférence](fr/inference.md)
+    - [La portée inférentielle](fr/la-portee-inferentielle.md)
     - [Inférence formelle](fr/inference-formelle.md)
     - [Inférence matérielle](fr/inference-materielle.md)
     - [Espace des raisons](fr/espace-des-raisons.md)
@@ -135,3 +142,4 @@
   - [Maurice Merleau-Ponty](fr/maurice-merleau-ponty.md)
   - [Gilbert Simondon](fr/gilbert-simondon.md)
   - [Francisco Varela](fr/francisco-varela.md)
+
