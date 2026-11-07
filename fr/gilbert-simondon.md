@@ -1,144 +1,196 @@
 # Gilbert Simondon — Individuation, métastabilité et transduction
 
-## 1. Fonction
+## Fonction
 
-Cette page examine l’apport de Gilbert Simondon à l’étude des processus de genèse et de transformation. Elle présente trois notions centrales — individuation, métastabilité et transduction — ainsi que le rôle du milieu associé dans sa pensée.
+Cette page examine l'apport de Gilbert Simondon à la réflexion sur la genèse et la transformation des configurations. Elle présente quatre notions liées dans sa pensée : **individuation**, **métastabilité**, **transduction** et **milieu associé**.
 
-Pour Protokin, cet héritage invite à examiner comment une configuration se forme et se transforme sans supposer que sa forme était entièrement déterminée à l’avance. Il permet également d’interroger les explications qui traitent les individus, les catégories ou les organisations comme des réalités constituées indépendamment des processus qui les rendent identifiables.
+Son objectif est de préciser ce que ces notions permettent d'éclairer dans Protokin, mais aussi les limites de leur reprise. Elles constituent des ressources philosophiques pour penser des processus de formation et de transformation. Elles ne définissent ni les catégories de Protokin ni une méthode générale d'enquête.
 
-Ce rapprochement reste limité : les concepts de Simondon ne constituent ni les catégories fondamentales de Protokin ni une méthode directement applicable à toute pratique descriptive.
+## 1. Le problème : penser la genèse sans présupposer l'individu constitué
 
-## 2. Problème : penser la genèse sans présupposer une forme déjà constituée
+Une description peut présenter un individu, une organisation ou une catégorie comme une réalité déjà constituée. Elle identifie alors ses propriétés et ses relations sans examiner les processus par lesquels cette individualité s'est formée.
 
-Une forme stabilisée peut donner l’impression d’avoir toujours été ce qu’elle est. Une catégorie peut sembler désigner une classe naturellement délimitée ; une organisation peut être décrite comme si ses éléments et leurs relations avaient été fixés indépendamment de son histoire.
+Cette manière de procéder peut être suffisante pour certains problèmes. Elle devient limitée lorsque la genèse, les conditions de formation ou les transformations de l'individu étudié sont elles-mêmes en question.
 
-Cette manière de décrire risque de prendre le résultat d’un processus pour son point de départ. Elle rend alors plus difficile l’examen des conditions, des tensions et des relations par lesquelles une forme s’est constituée et peut encore changer.
+La difficulté consiste à ne pas prendre le résultat d'un processus pour son point de départ. Il faut également éviter l'erreur inverse : décrire toute transformation comme une rupture sans continuité avec ce qui la précède.
 
-La difficulté inverse consiste à expliquer toute nouveauté par une rupture sans continuité avec ce qui la précède. Or, une transformation peut conserver certains rapports tout en en modifiant d’autres. Sa genèse ne se réduit ni à la reproduction d’une forme préexistante ni à l’apparition arbitraire d’une forme entièrement nouvelle.
+Simondon propose de partir du processus d'individuation plutôt que de considérer l'individu comme une réalité première et entièrement constituée. L'individu est alors appréhendé comme une phase d'un devenir, en relation avec les conditions et le milieu dans lesquels son individuation se produit.
 
-La pensée de Simondon fournit des ressources pour examiner cette difficulté. Elle conduit à considérer l’individu à partir de son individuation et à accorder une place aux états dans lesquels une organisation se maintient tout en conservant des potentiels de transformation.
+Cette perspective permet de poser une question importante pour Protokin : **comment examiner la formation et la transformation d'une configuration sans présupposer que son organisation présente était déjà déterminée à l'origine ?**
 
-Pour Protokin, la question est plus circonscrite : **comment décrire la formation et la transformation d’une configuration sans confondre sa genèse, son fonctionnement présent et la justification des descriptions qui la concernent ?**
+La question est commune aux deux démarches, mais leurs objets et leurs engagements théoriques ne sont pas identiques.
 
-## 3. L’individuation : ne pas prendre l’individu pour un donné premier
+## 2. L'individuation : le processus avant l'individu constitué
 
-### 3.1. Le primat du processus d’individuation
+### 2.1. Le primat du processus
 
-Simondon critique les conceptions qui expliquent l’individu à partir d’une substance déjà constituée ou qui traitent l’individuation comme la simple réalisation d’une forme préalablement déterminée.
+Simondon critique les conceptions qui expliquent l'individu à partir d'une substance déjà constituée ou qui font de l'individuation la réalisation d'une forme préalablement déterminée.
 
-Il propose de prendre pour objet le processus par lequel un individu se forme, ainsi que les relations entre ce qui s’individue et les conditions dans lesquelles cette individuation se poursuit. L’individu n’est donc pas nécessairement le point de départ de l’explication : il peut en être un résultat provisoire.
+Il propose d'examiner l'opération par laquelle une individualité se constitue. L'individu n'est donc pas nécessairement le point de départ de l'explication : il est aussi le résultat provisoire d'un processus qui ne s'épuise pas dans sa constitution.
 
-Cette perspective modifie la question posée. Au lieu de demander uniquement quelles propriétés définissent un individu constitué, on examine comment il devient identifiable, quelles relations interviennent dans sa formation et ce qui demeure susceptible de transformation.
+L'individuation ne signifie pas que l'individu serait illusoire ou qu'il n'existerait pas. Elle conduit à examiner son mode de formation, les tensions dont il procède et les relations qui rendent compte de son existence.
 
-Il ne s’agit pas de nier l’existence des individus ni de soutenir qu’ils seraient illusoires. Il s’agit de ne pas expliquer leur constitution en présupposant précisément ce qu’il faudrait examiner.
+L'individu ne peut ainsi être entièrement compris indépendamment du processus dont il résulte.
 
-### 3.2. La critique du schème hylémorphique
+### 2.2. La critique du schème hylémorphique
 
-Le schème hylémorphique explique traditionnellement la formation d’un individu par l’application d’une forme à une matière. Simondon en critique les limites lorsqu’il fait abstraction des opérations, des conditions et des relations concrètes intervenant dans la formation.
+Le schème hylémorphique explique la formation d'un individu par la rencontre d'une forme et d'une matière. Simondon en critique les limites lorsque cette explication fait abstraction des opérations concrètes, des conditions matérielles et des relations qui interviennent dans la formation.
 
-Cette critique ne signifie pas que toute distinction entre forme et matière serait dépourvue d’utilité. Elle invite à examiner ce que cette distinction laisse de côté lorsqu’elle traite la forme et la matière comme des termes déjà définis, dont la rencontre suffirait à expliquer le résultat.
+Cette critique ne revient pas à déclarer toute distinction entre forme et matière inutile. Elle vise une explication qui traite les termes comme déjà constitués et leur rencontre comme suffisante pour rendre compte du résultat.
 
-Dans Protokin, cette critique peut aider à interroger certaines descriptions qui opposent trop rapidement une catégorie déjà constituée aux éléments auxquels elle serait simplement appliquée.
+L'intérêt de cette critique tient à son déplacement : au lieu de demander seulement quelle forme a été imposée à quelle matière, elle conduit à examiner les opérations et les conditions de la formation.
 
-Elle ne démontre toutefois pas qu’une description résulte nécessairement d’un processus unique d’individuation. Elle ne permet pas non plus de réduire les catégories, les règles ou les raisons à des processus physiques.
+Pour Protokin, ce déplacement invite à ne pas traiter une catégorie comme une forme préexistante qui serait simplement appliquée à des situations. Il faut examiner les pratiques, les critères et les opérations par lesquels elle se constitue et intervient dans la description.
 
-## 4. Métastabilité : maintien et potentiel de transformation
+Ce rapprochement ne démontre cependant pas que toute catégorie résulte d'un processus d'individuation au sens simondonien. Il ne permet pas non plus de réduire les règles, les raisons ou les significations à des processus physiques.
 
-### 4.1. Le sens de la métastabilité
+## 3. La métastabilité : une stabilité qui conserve des potentiels
 
-Chez Simondon, la métastabilité désigne un état qui présente une stabilité relative tout en conservant des potentiels de transformation. Elle se distingue aussi bien d’un équilibre considéré comme définitivement fixé que d’une instabilité indifférenciée.
+Chez Simondon, la métastabilité désigne un état d'organisation qui conserve des potentiels et des tensions susceptibles de conduire à une nouvelle individuation.
 
-Une configuration métastable n’est pas simplement une configuration qui change. La notion renvoie à des conditions particulières dans lesquelles une organisation peut se maintenir tout en demeurant susceptible d’une nouvelle individuation.
+Elle se distingue de deux situations :
 
-La métastabilité appartient ainsi à l’analyse simondonienne des processus de genèse. Sa portée dépend du domaine étudié et des concepts par lesquels le processus est décrit.
+- une stabilité considérée comme entièrement fixée, dans laquelle aucun potentiel pertinent de transformation n'est pris en compte ;
+- une instabilité indifférenciée, qui ne permet pas de caractériser les conditions d'une transformation déterminée.
 
-### 4.2. Ce que cette notion permet d’interroger dans Protokin
+La métastabilité ne signifie donc pas simplement qu'un système est fragile, incertain ou susceptible de changer. Elle désigne un état dont les tensions et les potentiels rendent possible une transformation dans certaines conditions.
 
-Une pratique descriptive peut se maintenir alors que certaines difficultés ne sont pas résolues. Des critères peuvent continuer à être employés malgré des cas limites ; plusieurs manières de qualifier une situation peuvent coexister ; une description peut demeurer opératoire tout en faisant l’objet de contestations.
+L'exemple classique de la cristallisation permet de préciser cette idée. Une solution sursaturée peut se trouver dans un état métastable. L'introduction d'un germe approprié déclenche une structuration qui se propage dans le milieu et conduit à la formation d'un cristal. Le processus ne se réduit ni à la reproduction d'une forme déjà présente ni à une transformation sans conditions déterminées.
 
-La notion de métastabilité peut inciter à examiner si une telle configuration conserve des possibilités de réorganisation et quelles conditions permettraient de les caractériser.
+Pour Protokin, cette notion peut inviter à examiner les conditions dans lesquelles une configuration se maintient tout en demeurant transformable.
 
-Mais la présence d’une difficulté, d’un désaccord ou d’une catégorie contestée ne suffit pas à établir une métastabilité au sens simondonien. Le rapprochement ne devient pertinent que si les caractéristiques du processus étudié permettent de le soutenir.
+Il faut toutefois éviter de l'employer comme une simple métaphore. Une description contestée, une catégorie instable ou une pratique traversée par des désaccords ne constitue pas, pour cette seule raison, un système métastable au sens de Simondon.
 
 **Tension descriptive ≠ métastabilité démontrée.**
 
-La métastabilité ne doit donc pas devenir une nouvelle étiquette appliquée à toute situation incertaine. Elle constitue une ressource conceptuelle dont la pertinence doit être établie au cas par cas.
+La pertinence du concept dépend des propriétés du processus étudié et des arguments qui autorisent le rapprochement.
 
-## 5. Transduction : une structuration de proche en proche
+## 4. La transduction : une structuration de proche en proche
 
-### 5.1. Le concept chez Simondon
+### 4.1. Le concept chez Simondon
 
-La transduction désigne chez Simondon un processus dans lequel une structuration se propage de proche en proche dans un domaine où elle contribue à organiser les régions suivantes. Les éléments déjà structurés interviennent dans la poursuite du processus, sans que la forme finale doive être conçue comme entièrement donnée dès le départ.
+La transduction désigne une opération par laquelle une structuration se propage de proche en proche dans un domaine. Une région déjà structurée contribue à structurer la région voisine, qui intervient à son tour dans la poursuite du processus.
 
-La cristallisation fournit un exemple classique : dans des conditions appropriées, une structuration locale peut se propager dans un milieu et contribuer à la formation du cristal.
+La transduction ne consiste donc pas simplement en une succession d'événements. Elle désigne une opération de structuration dans laquelle le développement local du processus modifie les conditions de sa continuation.
 
-Cet exemple illustre le caractère processuel de la transduction. Il ne faut cependant pas le transformer en modèle universel de toute genèse. Les conditions et les mécanismes d’un processus physique ne peuvent pas être transférés tels quels à une pratique linguistique, sociale ou descriptive.
+La cristallisation en fournit un exemple : la formation d'une région du cristal permet la structuration des régions voisines. Le processus se poursuit à partir des conditions locales qu'il contribue lui-même à produire.
 
-### 5.2. Portée du rapprochement avec Protokin
+La transduction est ainsi liée à l'individuation et à la métastabilité. Elle caractérise un mode opératoire par lequel une individuation se réalise à partir des potentiels et des tensions d'un système.
 
-La transduction invite à examiner les transformations dans lesquelles une modification locale change les conditions des transformations suivantes. Elle attire l’attention sur les continuités qui rendent un processus intelligible sans exiger que chaque état soit la simple copie du précédent.
+### 4.2. Portée et limites du rapprochement avec Protokin
 
-Dans une pratique descriptive, une nouvelle distinction peut modifier la manière dont des cas ultérieurs sont reconnus ; une révision de critères peut affecter les comparaisons possibles ; une nouvelle procédure peut rendre certaines observations pertinentes qui ne l’étaient pas auparavant.
+La notion invite à examiner les transformations dans lesquelles une modification locale affecte les conditions des transformations suivantes.
 
-Ces exemples montrent ce qu’une analyse processuelle peut chercher à établir. Ils ne démontrent pas que ces transformations relèvent de la transduction au sens strict de Simondon.
+Dans une pratique descriptive, l'introduction d'une distinction peut modifier la manière dont des situations ultérieures sont reconnues. Une révision de critères peut transformer les comparaisons possibles. Une nouvelle procédure peut rendre pertinentes des observations qui ne l'étaient pas auparavant.
 
-En particulier, la chaîne des opérations de l’enquête de Protokin — Délimiter, Ancrer, Distinguer, Relier, Configurer, Justifier, Reconstituer et Redélimiter — ne constitue pas une transduction. Ces opérations décrivent des fonctions d’enquête mobilisables et reprises selon les besoins du problème. Elles ne forment pas une séquence nécessaire de genèse.
+Ces exemples rendent visible un problème que Protokin peut examiner : comment une modification intervient dans une configuration et affecte les possibilités de ses transformations ultérieures.
 
-**Structuration de proche en proche ≠ chaîne obligatoire d’opérations.**
+Ils ne suffisent pas à établir que le processus relève de la transduction au sens strict de Simondon. Une propagation d'effets, une succession chronologique ou une dépendance entre opérations ne constituent pas automatiquement une transduction.
 
-## 6. Individu et milieu associé
+En particulier, les opérations de l'enquête de Protokin — Délimiter, Ancrer, Distinguer, Relier, Configurer, Justifier, Reconstituer et Redélimiter — ne forment pas une transduction. Elles désignent des travaux d'examen dont la mobilisation dépend du problème rencontré. Elles ne décrivent pas une opération d'individuation.
 
-L’individuation simondonienne ne se comprend pas toujours en isolant l’individu de son milieu. Dans plusieurs analyses de Simondon, la formation de l’individu s’accompagne de la constitution ou de la réorganisation d’un milieu associé, lié aux conditions de son fonctionnement.
+**Transduction ≠ chaîne d'opérations de l'enquête.**
 
-Cette relation invite à ne pas expliquer une configuration uniquement par ses propriétés internes. Les conditions et les relations qui rendent son fonctionnement possible peuvent participer au processus étudié.
+## 5. L'individu et le milieu associé
 
-Pour Protokin, ce rapprochement peut conduire à examiner conjointement une pratique descriptive, ses supports, ses instruments, les activités dans lesquelles elle intervient et les contraintes auxquelles elle répond.
+L'individuation ne se comprend pas en isolant systématiquement l'individu de son milieu. Dans la pensée de Simondon, le processus d'individuation fait apparaître une relation entre l'individu et un milieu associé, qui participe à ses conditions d'existence et de fonctionnement.
 
-Il faut toutefois distinguer le milieu associé au sens simondonien d’un simple contexte. La présence de supports, de locuteurs, de procédures ou d’institutions ne suffit pas à établir qu’ils forment un milieu associé au sens précis de cette notion.
+Le milieu associé ne désigne donc pas un simple environnement extérieur auquel un individu déjà constitué serait ensuite confronté. Il appartient à la compréhension du processus d'individuation et de la relation entre l'individu et les conditions de son existence.
 
-Il faut aussi éviter de traiter le milieu comme une cause unique qui expliquerait la configuration. Les relations pertinentes doivent être identifiées et leur portée examinée.
+Cette relation ne permet pas de réduire l'individu au milieu, ni le milieu à l'individu. Les deux termes doivent être compris à partir du processus qui les articule.
 
-## 7. Articulation avec l’enquête de Protokin
+Pour Protokin, cette perspective invite à ne pas examiner une pratique descriptive uniquement à partir de ses formulations ou de ses règles explicites. Ses supports matériels, ses instruments, ses conditions d'exercice et les activités auxquelles elle participe peuvent également être pertinents.
 
-L’héritage de Simondon ne détermine pas les opérations à accomplir. Il fournit des ressources pour formuler certaines questions relatives à la genèse, au maintien et à la transformation des configurations.
+Mais leur présence ne suffit pas à établir qu'ils constituent un milieu associé au sens simondonien.
 
-La [quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) permet de distinguer les questions portant sur les conditions, les relations, les fonctions et les justifications. Les concepts de Simondon peuvent éclairer certaines de ces questions, mais ils ne se substituent pas à ces orientations.
+**Milieu associé ≠ contexte général.**
 
-La page [Transformation](fr/transformation.md) définit ce qu’il est possible d’établir lorsqu’une modification de configuration est examinée. La page [Stabilisation](fr/stabilisation.md) traite du maintien relatif d’une configuration à travers ses reprises et ses variations. La page [Trajectoire](fr/trajectoire.md) porte sur la reconstruction d’un parcours de transformations, tandis que [Temporalité descriptive](fr/temporalite-descriptive.md) examine plus largement les rapports temporels des pratiques descriptives.
+Le rapprochement doit être justifié par l'examen des relations effectives entre la pratique et les conditions de son fonctionnement.
 
-Ces pages ont des fonctions distinctes. Le vocabulaire de Simondon ne doit pas remplacer leurs définitions opératoires ni faire présumer les résultats de leurs analyses.
+## 6. Ce que Protokin peut retenir de cet héritage
 
-L’[architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) précise, pour sa part, comment les opérations de l’enquête peuvent être mobilisées, articulées et reprises. Elle ne doit pas être interprétée comme la traduction d’un processus d’individuation simondonien.
+L'apport de Simondon peut être résumé en quatre invitations à l'examen.
 
-## 8. Limites et non-conversions
+- **Ne pas présupposer les formes constituées.** Une catégorie, une organisation ou une individualité peut être examinée à partir des processus et des relations qui ont contribué à sa formation.
+- **Examiner les conditions de transformation.** Le maintien d'une configuration ne signifie pas nécessairement qu'elle est définitivement fixée.
+- **Prendre en compte les relations constitutives.** L'analyse d'une individualité peut demander d'examiner les conditions et les relations dont elle dépend.
+- **Ne pas séparer arbitrairement genèse et organisation présente.** L'histoire d'une configuration peut contribuer à comprendre certaines de ses propriétés actuelles, sans déterminer à elle seule leur fonction ou leur justification.
 
-Plusieurs distinctions doivent être maintenues pour que cet héritage reste utile à Protokin.
+Ces invitations ne constituent pas une procédure d'enquête. Elles peuvent aider à formuler un problème ou à préciser les éléments qui méritent d'être examinés.
 
-- **Individuation ≠ transformation.** L’individuation désigne un processus de genèse dans la pensée de Simondon ; la transformation caractérise une modification examinée relativement à un problème et à des critères déterminés.
-- **Métastabilité ≠ difficulté descriptive.** Une difficulté peut motiver une enquête sans démontrer l’existence d’un état métastable au sens simondonien.
-- **Transduction ≠ succession chronologique.** Une série d’événements ordonnés dans le temps ne suffit pas à établir un processus transductif.
-- **Milieu associé ≠ contexte général.** La simple présence d’éléments environnants ne démontre pas le type de relation que Simondon désigne par cette notion.
+Elles ne dispensent pas de mobiliser les opérations et les instruments de Protokin selon les besoins de chaque situation.
+
+## 7. Distinctions et limites de la reprise
+
+Plusieurs non-conversions doivent être maintenues pour éviter de transformer l'héritage de Simondon en fondement général de Protokin.
+
+- **Individuation ≠ transformation.** L'individuation désigne un processus de genèse dans la pensée de Simondon ; la transformation caractérise une modification examinée dans le cadre d'un problème déterminé.
+- **Métastabilité ≠ difficulté descriptive.** Une difficulté, un désaccord ou une incertitude ne démontre pas l'existence d'un état métastable.
+- **Transduction ≠ succession chronologique.** Une série d'événements ordonnés dans le temps ne suffit pas à établir une opération transductive.
+- **Transduction ≠ transformation relationnelle.** La RFT examine les transformations relationnelles dans le cadre propre de Protokin ; elle ne constitue pas une traduction de la transduction simondonienne.
+- **Milieu associé ≠ contexte général.** La présence d'éléments environnants ne démontre pas le type de relation décrit par Simondon.
 - **Genèse ≠ justification.** Comprendre comment une catégorie ou une pratique est apparue ne suffit pas à établir que ses descriptions sont adéquates ou que ses critères sont défendables.
-- **Critique du substantialisme ≠ relativisme.** Refuser de considérer une catégorie comme une essence immuable n’implique pas que toutes les catégories ou descriptions soient équivalentes.
+- **Continuité interscalaire ≠ identité fonctionnelle.** Le fait que Simondon examine l'individuation dans plusieurs domaines ne démontre pas que les mêmes agents, opérations ou fonctions s'y retrouvent.
+- **Critique du substantialisme ≠ relativisme.** Refuser de traiter l'individu comme une substance indépendante de son processus de formation ne signifie pas que toutes les descriptions se valent.
 
-Ces distinctions ne séparent pas absolument les phénomènes concernés. Elles empêchent de convertir une réponse obtenue sous un rapport en réponse suffisante à une question relevant d’un autre rapport.
+Ces distinctions ne suppriment pas les relations entre les phénomènes étudiés. Elles empêchent de transformer une continuité ou une dépendance en identité, en réduction ou en justification sans argument supplémentaire.
 
-## 9. Références et portée de l’héritage
+## 8. Ce que cette page établit, suggère et n'établit pas
 
-Les concepts mobilisés ici proviennent principalement des travaux de Gilbert Simondon sur l’individuation et la genèse des formes, notamment :
+### Ce qu'elle établit
 
-- *L’individu et sa genèse physico-biologique* ;
-- *L’individuation à la lumière des notions de forme et d’information* ;
-- *L’individuation psychique et collective*.
+La pensée de Simondon fournit des ressources pour examiner la genèse des individualités, les conditions de leur individuation et les relations entre un individu et son milieu associé.
 
-Ces ouvrages ne développent pas une théorie des pratiques descriptives au sens de Protokin. Leur mobilisation constitue un rapprochement conceptuel dont la portée doit être examinée, et non une preuve que les concepts de Simondon se transposent directement à l’enquête.
+Les notions de métastabilité et de transduction précisent certains aspects de cette pensée : le maintien de potentiels de transformation et l'opération de structuration de proche en proche.
 
-La précision de l’héritage suppose donc de distinguer les propositions de Simondon, leur interprétation et les usages que Protokin peut en faire.
+Ces notions sont liées, mais elles ne sont pas synonymes.
 
-## 10. Synthèse
+### Ce qu'elle suggère
 
-Simondon propose des ressources pour penser la genèse des individus sans les traiter comme des substances déjà constituées, pour examiner la métastabilité d’une organisation et pour décrire certains processus de structuration de proche en proche. La notion de milieu associé souligne également que l’individuation ne s’analyse pas toujours en isolant l’individu des relations et des conditions de son fonctionnement.
+Pour Protokin, cet héritage suggère de prêter attention aux processus de formation des configurations, aux conditions de leur maintien et aux relations qui rendent possibles leurs transformations.
 
-Pour Protokin, cet héritage invite à examiner la formation et la transformation des configurations sans présupposer leur forme finale, leur trajectoire ou leur nécessité.
+Il invite également à examiner les continuités entre différents domaines sans présupposer que leurs organisations ou leurs fonctions sont identiques.
 
-Il ne fournit ni une ontologie des descriptions, ni une méthode générale de l’enquête, ni une justification des catégories mobilisées. Son apport reste celui d’une ressource conceptuelle : il aide à poser certaines questions, mais les réponses doivent être établies par l’examen propre à chaque problème.
+Ces rapprochements peuvent enrichir l'analyse des pratiques descriptives, à condition que leur pertinence soit établie dans chaque enquête.
+
+### Ce qu'elle n'établit pas
+
+La pensée de Simondon ne fournit pas :
+
+- une ontologie des pratiques descriptives de Protokin ;
+- une architecture des opérations de l'enquête ;
+- une théorie générale de la description, de la signification ou de la justification ;
+- une preuve que toute transformation descriptive relève de l'individuation ou de la transduction ;
+- une équivalence entre les processus physiques, biologiques, psychiques, collectifs et descriptifs ;
+- une justification des catégories ou des conclusions mobilisées par Protokin.
+
+L'héritage de Simondon reste une ressource conceptuelle. Il ne dispense pas de construire et de mettre à l'épreuve les distinctions propres au projet.
+
+## 9. Références
+
+Les principaux ouvrages de Simondon mobilisés pour cette présentation sont :
+
+- *L'individu et sa genèse physico-biologique* (1964).
+- *L'individuation psychique et collective* (1989).
+- *L'individuation à la lumière des notions de forme et d'information* (édition intégrale publiée en 2005).
+
+Ces textes ne développent pas une théorie des pratiques descriptives au sens de Protokin. Leur mobilisation suppose de distinguer les propositions de Simondon, leur interprétation et les rapprochements construits dans le cadre du projet.
+
+## Synthèse
+
+Simondon propose de penser l'individu à partir du processus d'individuation, de caractériser certains états de maintien et de transformation par la métastabilité, et d'examiner la structuration de proche en proche à travers la transduction. La notion de milieu associé souligne que l'individuation ne se comprend pas toujours en isolant l'individu des relations et des conditions de son existence.
+
+Pour Protokin, cet héritage invite à examiner la genèse et la transformation des configurations sans présupposer leur forme finale ni réduire leur organisation à des propriétés internes.
+
+Il ne fournit ni une ontologie des descriptions ni une méthode générale de l'enquête. Il ne fonde pas non plus une identité entre les processus d'individuation et les transformations relationnelles examinées par Protokin.
+
+**L'intérêt de Simondon pour Protokin tient à la manière dont il permet de poser certaines questions sur la genèse et les relations, non à la possibilité de transposer directement son système conceptuel.**
+
+## Pour poursuivre
+
+- [Transformation](fr/transformation.md) — Caractériser une modification de configuration.
+- [Stabilisation](fr/stabilisation.md) — Examiner le maintien relatif d'une configuration à travers ses reprises et ses variations.
+- [Trajectoire descriptive](fr/trajectoire.md) — Reconstruire un parcours de transformations.
+- [Temporalité descriptive](fr/temporalite-descriptive.md) — Examiner les rapports temporels des pratiques descriptives.
+- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Préciser les rapports sous lesquels une situation ou une pratique peut être examinée.
+- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Distinguer les ressources mobilisées dans l'enquête.
