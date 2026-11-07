@@ -115,7 +115,7 @@ Ces pages portent sur les ressources linguistiques et inférentielles mobilisée
 ### B. Inférence et espace des raisons
 
 - [Inférence](fr/inference.md) — Examiner les transitions qui autorisent, exigent ou excluent d’autres descriptions.
-- [La portée inférentielle](fr/la-portee-inferentielle.md) — Identifier les engagements présupposés et les conséquences autorisées par un contenu.
+- [La portée inférentielle](fr/la-portee-inferentielle.md) — Examiner les conséquences, les engagements et les incompatibilités associés à l’emploi d’un contenu dans une pratique discursive.
 - [Inférence formelle](fr/inference-formelle.md) — Examiner la validité d’un raisonnement à partir de sa structure logique.
 - [Inférence matérielle](fr/inference-materielle.md) — Examiner les relations d’autorisation qui dépendent du contenu des énoncés.
 - [Inférence mutuelle](fr/inference-mutuelle.md) — Examiner la dérivation d’une relation réciproque à partir d’une relation apprise.
