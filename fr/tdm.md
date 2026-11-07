@@ -175,7 +175,12 @@ Ces ressources permettent d’étudier comment les différences, les catégories
 - [Motif](fr/motif.md) — Distinguer les motifs qui conduisent un agent à agir, les causes d’une conduite et les raisons susceptibles de la justifier.
 - [Qualification morale : cette personne est mauvaise](fr/cette-personne-est-mauvaise.md) — Examiner les fonctions descriptives et évaluatives d’une qualification morale attribuée à une personne.
 
-### C. Indices, traces et fonctions de stimulus
+### C. Images manifeste et scientifique
+
+- [Image manifeste](fr/image-manifeste.md) — Examiner les pratiques ordinaires dans lesquelles les personnes, les actions, les qualités perceptives et les responsabilités sont identifiées et décrites.
+- [Image scientifique](fr/image-scientifique.md) — Examiner les pratiques scientifiques dans lesquelles les phénomènes sont décrits au moyen d’observations, de mesures, de modèles et de procédures de contrôle.
+
+### D. Indices, traces et fonctions de stimulus
 
 - [Indice](fr/indice.md) — Examiner le rôle d’un élément qui oriente une recherche ou une interprétation sans déterminer la conclusion.
 - [Trace](fr/trace.md) — Examiner les traces mobilisées dans une pratique et les limites de leur interprétation.
@@ -184,7 +189,7 @@ Ces ressources permettent d’étudier comment les différences, les catégories
 - [Stimulus physique](fr/le-stimulus-physique.md) — Examiner les propriétés physiques d’un événement indépendamment des fonctions qu’il peut exercer.
 - [Transformation des fonctions de stimulus](fr/transformation-de-fonction-de-stimulus.md) — Examiner comment les relations apprises peuvent transformer les fonctions exercées par des stimuli.
 
-### D. Supports descriptifs
+### E. Supports descriptifs
 
 - [Support descriptif](fr/support-descriptif.md) — Examiner le rôle des supports dans la conservation, la réalisation et la circulation des descriptions.
 - [Supports descriptifs incorporés](fr/supports-descriptifs-incorpores.md) — Examiner les dispositions pratiques, perceptives et gestuelles qui permettent de porter et d’actualiser des descriptions.
@@ -262,6 +267,21 @@ Ces pages présentent des ressources conceptuelles utiles à l’examen des prat
 - [Maurice Merleau-Ponty](fr/maurice-merleau-ponty.md) — Examiner les apports de la phénoménologie corporelle à la compréhension de la perception et du savoir pratique.
 - [Gilbert Simondon](fr/gilbert-simondon.md) — Examiner les notions d’individuation, de métastabilité et de transduction dans l’étude des transformations.
 - [Francisco Varela](fr/francisco-varela.md) — Examiner l’énaction, l’autonomie du vivant et la production de sens biologique, en distinguant leurs apports à l’étude de la cognition.
+
+## X. Documents éditoriaux et d’audit
+
+Ces documents encadrent la rédaction, l’organisation et la révision du corpus. Ils ne constituent pas des ressources conceptuelles supplémentaires de l’enquête.
+
+### A. Principes éditoriaux
+
+- [Patterns éditoriaux](patterns.md) — Définir les repères de rédaction, de structuration et de révision des pages.
+- [Pattern HTML](pattern-html.md) — Définir les règles de transposition des pages Markdown en versions HTML.
+
+### B. Audit et organisation documentaire
+
+- [Pattern d’audit](pattern-audit.md) — Définir les principes et les modalités d’examen des fonctions, des relations et des recouvrements entre les ressources.
+- [Audit du corpus](audit-corpus.md) — Consigner les constats, les tensions, les décisions et les vérifications concernant la cohérence générale du dépôt.
+- [Pattern TDM](pattern-tdm.md) — Définir les règles de construction, de révision et de maintenance de la table des matières.
 
 ---
 
