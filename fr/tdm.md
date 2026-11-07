@@ -79,7 +79,7 @@ Ces ressources permettent d’examiner les différents rapports sous lesquels un
 ### B. Conditions matérielles, biologiques et perceptives
 
 - [Butoir](fr/butoir.md) — Examiner les contraintes qui limitent certaines descriptions, opérations ou inférences.
-- [Niche biologique](fr/niche-biologique.md) — Examiner les relations entre organisme et environnement, ainsi que les transformations produites par les activités biologiques.
+- [Niche biologique](fr/niche-biologique.md) — Examiner les relations entre organismes et environnement, la construction de niche et les rétroactions qui affectent les conditions de maintien d’une activité.
 - [RDRD et entrée perceptive](fr/rdrd-et-entree-perceptive.md) — Examiner les dispositions de discrimination, les réponses perceptives et leurs limites pour justifier une description.
 - [Position](fr/position.md) — Caractériser une configuration descriptive à un moment donné d’une pratique, sans la confondre avec sa trajectoire.
 - [Position épistémique](fr/position-epistemique.md) — Examiner les ressources et les contraintes qui affectent la production et l’évaluation des descriptions.
