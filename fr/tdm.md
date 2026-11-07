@@ -87,7 +87,7 @@ Ces ressources permettent d’examiner les différents rapports sous lesquels un
 ### C. Temporalité et transformation
 
 - [Temps](fr/temps.md) — Examiner les relations temporelles et les distinctions nécessaires à l’étude du temps physique.
-- [Référent temporel](fr/le-referent-temporel.md) — Distinguer le processus physique de référence, la procédure de mesure et la grandeur temporelle obtenue.
+- [Référent temporel](fr/le-referent-temporel.md) — Distinguer le phénomène physique, la définition de l'unité, sa réalisation métrologique et la mesure obtenue.
 - [Temporalité descriptive](fr/temporalite-descriptive.md) — Examiner comment les pratiques descriptives héritent de ressources antérieures, les mobilisent et les transforment.
 - [Historicité](fr/historicite.md) — Examiner la formation et la transformation historiques des catégories descriptives et des critères d’évaluation.
 - [Anachronisme](fr/anachronisme.md) — Repérer les projections rétrospectives de catégories ou de critères sur des pratiques historiques.
