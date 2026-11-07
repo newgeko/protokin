@@ -6,7 +6,7 @@
 
 - **I. Comprendre le projet**
   - [Ce que Protokin permet](fr/ce-que-protokin-permet.md)
-  - [Fécondité et révisabilité de Protokin](fecondite-et-revisabilite-de-protokin.md)
+  - [Fécondité et révisabilité de Protokin](fr/fecondite-et-revisabilite-de-protokin.md)
   - [Ce que Protokin ne prétend pas faire](fr/ce-que-protokin-ne-pretend-pas-faire.md)
   - [Nom, origine et portée](fr/nom-origine-portee.md)
   - [Architecture du projet](fr/architecture-projet.md)
