@@ -1,226 +1,266 @@
-# Page : diagnostiquer-une-reduction.md
+# Diagnostiquer une réduction descriptive
 
-Diagnostiquer une réduction — Protocole d'évaluation clinique des absorptions unilatérales
+## Fonction
 
-Analyse architecturale de la page
+Cette page propose un instrument pour examiner les situations dans lesquelles une description est ramenée à une autre de telle manière que certaines différences, fonctions ou questions pertinentes deviennent inaccessibles.
 
-1. Fonction unique de la page
+Le diagnostic de réduction permet de déterminer ce qui est effectivement conservé, écarté ou transformé dans ce passage, et si les conclusions tirées de la description retenue sont proportionnées à ce qu'elle permet d'établir.
 
-Cette page existe pour établir le protocole méthodologique de diagnostic de la réduction descriptive au sein de l'enquête, en définissant les conditions, les indices et les procédures analytiques permettant à l'enquêteur de second ordre d'identifier, d'analyser et d'invalider l'absorption unilatérale et l'aplatissement fonctionnel d'un régime descriptif par un autre.
+Il ne présuppose pas que les pratiques descriptives relèvent de domaines séparés ou de régimes étanches. Il porte sur les effets d'une opération de réduction dans une situation déterminée.
 
-2. Choix du mode de développement
+## 1. Problème
 
-Mode retenu : Mode C — Développement opératoire
-Justification : S'agissant d'un outil d'analyse et d'une méthode d'enquête appartenant à la section 08, le diagnostic de la réduction exige de reconstruire la séquence des opérations et d'audit que l'enquêteur applique pour déceler, évaluer et corriger les déformations d'absorption de juridictions.
+Une pratique descriptive peut privilégier certains aspects d'une situation pour répondre à une question particulière. Elle peut isoler une variable, retenir une dimension, construire un modèle simplifié ou reformuler une description dans un vocabulaire différent.
 
-3. Problème conceptuel
+Ces opérations ne constituent pas nécessairement des difficultés. Elles peuvent être nécessaires à l'analyse, à la mesure, à la comparaison ou à la décision.
 
-Comment mener le diagnostic d'une réduction descriptive face à une situation de tension ou de conflit de grilles d'intelligibilité, sans s'ériger en tribunal dogmatique extérieur et en mesurant objectivement la perte normative et l'aplatissement sémantique subis par l'espace des raisons ?
+Une réduction devient problématique lorsque la description retenue est utilisée comme si elle épuisait ce qui peut être décrit ou comme si elle suffisait à écarter les questions auxquelles elle ne répond pas.
 
-4. Objet propre
+La difficulté peut notamment apparaître lorsque :
 
-· Cette page traite de : la procédure méthodique de second ordre pour identifier, caractériser et invalider les réductions abusives (causaliste, normativisante, ontologisante) ; le critère de vigilance d'audit mesurant le coût logique et l'effacement sémantique ; et la distinction entre réduction abusive et simplification méthodologique limitée.
-· Cette page ne traite pas de : la définition conceptuelle générale de la réduction prise isolément, l'analyse générale de la traduction (développée dans traduction.md), ni le diagnostic d'autres pathologies de second ordre telles que la confusion de niveau (développée dans diagnostiquer-une-confusion-de-niveau.md) ou l'erreur de catégorie.
+- une dimension particulière est présentée comme suffisante pour rendre compte de l'ensemble d'une situation ;
+- une description est utilisée pour remplacer une autre sans examiner les différences que ce remplacement fait disparaître ;
+- les critères pertinents pour une question sont étendus à une autre question sans justification ;
+- une explication est traitée comme si elle réglait également une question de justification ;
+- les limites d'un modèle ou d'une simplification ne sont plus prises en compte dans les conclusions qui en sont tirées.
 
-5. Statut conceptuel
+Le diagnostic ne porte donc pas sur le seul fait qu'une description soit partielle. Il porte sur la manière dont cette partialité intervient dans le raisonnement et sur les conséquences qui lui sont attribuées.
 
-Il s'agit d'un outil d'analyse et d'une méthode d'enquête de second ordre appartenant à la section 08 — Méthode Protokin.
+## 2. Définition
 
-6. Dépendances fonctionnelles
+On appelle **réduction descriptive** une opération par laquelle une description est ramenée à une autre, ou à un ensemble plus restreint de caractéristiques, de telle manière que des différences, des fonctions ou des questions pertinentes sont écartées, rendues inaccessibles ou traitées comme dépourvues de portée.
 
-Cette page suppose :
+Cette réduction devient **abusive** lorsque le traitement retenu est présenté comme suffisant pour répondre à des questions qu'il ne permet pas d'examiner, ou lorsqu'il conduit à écarter des éléments pertinents sans justification suffisante.
 
-· Le pluralisme descriptif.
-· Le régime descriptif.
-· La configuration descriptive.
-· La distinction entre Causes (PROTO) et Raisons (KIN).
-· L'enquête et l'audit des régimes.
+Le diagnostic porte ainsi sur trois éléments liés :
 
-Cette page rend possible :
+- **L'opération de réduction** : ce qui est ramené à quoi, et selon quelle transformation.
+- **Les éléments affectés** : les différences, les fonctions, les relations ou les questions qui sont conservées, modifiées ou écartées.
+- **La portée de la conclusion** : ce que la description retenue permet effectivement d'établir et ce qui lui est indûment attribué.
 
-· Le diagnostic de la confusion de niveau.
-· Le diagnostic de l'erreur de catégorie.
-· L'élaboration réglée de l'écologie des régimes descriptifs.
-· L'évaluation finale des traductions entre régimes.
+Une réduction n'est donc pas abusive du seul fait qu'elle simplifie une situation ou privilégie une dimension. Il faut examiner les conséquences de cette simplification et la prétention qui lui est associée.
 
-7. Frontières conceptuelles
+## 3. Conditions du diagnostic
 
-Diagnostiquer une réduction et Identifier un régime
+Le diagnostic devient pertinent lorsqu'un passage entre plusieurs descriptions, ou entre plusieurs dimensions d'une même description, semble produire une perte qui affecte le traitement du problème.
 
-La différence porte sur le but de l'analyse. Identifier un régime consiste à cartographier le réseau neutre des contraintes et critères d'un seul cadre normatif. Diagnostiquer une réduction intervient lors d'un frottement inter-régimes, pour déceler si l'un de ces cadres prétend de force s'annexer ou absorber la juridiction normative de l'autre.
+Il convient alors d'examiner plusieurs questions.
 
-Diagnostiquer une réduction et Réaliser un audit global
+### 3.1. Identifier ce qui est réduit
 
-Le diagnostic de réduction est un outil d'évaluation ciblé sur la pathologie d'absorption unilatérale de critères. L'audit global, lui, examine l'ensemble des dix opérations descriptives, des supports et de la sédimentation d'une pratique.
+Préciser les descriptions, les éléments ou les dimensions concernés.
 
-8. Architecture locale
+Il faut notamment déterminer :
 
-```
-Identifier un régime (Reconstruire les critères et les supports d'un cadre)
-        ↓
-DIAGNOSTIQUER UNE RÉDUCTION (Repérer l'aplatissement ou la capture d'une juridiction)
-        ↓
-Diagnostiquer une confusion de niveau (Repérer les glissements de plans d'analyse)
-```
+- quelle description sert de référence au traitement ;
+- quelle autre description est reprise, reformulée ou écartée ;
+- quelle question la description retenue cherche à traiter ;
+- si le passage concerne une situation particulière ou une prétention plus générale.
 
----
+Il n'est pas nécessaire de supposer que les descriptions appartiennent à deux régimes distincts. La réduction peut intervenir au sein d'une même pratique ou entre plusieurs pratiques.
 
-Cartouche fonctionnel
+### 3.2. Examiner ce qui est conservé et ce qui disparaît
 
-Élément Description
-Fonction Établir le protocole méthodologique de second ordre permettant à l'enquêteur d'identifier, de qualifier et de corriger l'absorption abusive d'un régime descriptif par un autre.
-Prépare Le diagnostic des confusions de niveaux, des erreurs de catégorie et l'élaboration de connecteurs de traduction.
-Mobilise La configuration descriptive, le régime de description, le pluralisme descriptif et le principe d'immanence normative.
-Permet ensuite D'évaluer l'intégrité et la viabilité inférentielle des espaces de justifications collectives face aux prétentions impérialistes.
-N'établit pas Le concept de traduction (traduction.md), la théorie de la puissance descriptive (puissance-descriptive.md), ni l'audit de premier ordre des faits.
+Comparer les éléments pris en compte avant et après la réduction.
 
----
+Il peut s'agir :
 
-Problème conceptuel inaugural
+- de différences entre des occurrences ;
+- de relations entre des éléments ;
+- de fonctions exercées dans une pratique ;
+- de conditions de production ou d'utilisation ;
+- de critères nécessaires à l'examen d'une question ;
+- de conséquences ou d'engagements associés à une affirmation.
 
-Toute confrontation critique entre des descriptions hétérogènes portant sur une même situation éprouvée (un patient souffrant, une forêt affectée, une action déviante) expose les collectifs à des tentatives d'unification forcée. Le rationalisme dogmatique ou physicaliste présuppose qu'un régime de description unique détient le monopole de la vérité objective, cherchant à éliminer ou à résorber tous les autres au nom d'un fondement unique.
+Une différence de vocabulaire ne suffit pas à établir une perte. Il faut préciser ce qui n'est plus représenté, ce qui ne peut plus être examiné ou ce qui reçoit désormais un traitement différent.
 
-Cette opération unilatérale, appelée réduction, prétend clore la tension en aplatissant la pluralité sémantique et en imposant ses propres critères d'évaluation hors de leur juridiction légitime. La difficulté théorique est de savoir comment l'analyste peut diagnostiquer et invalider ces captures impérialistes sans s'installer lui-même dans une posture de surplomb absolu qui décréterait de l'extérieur quel régime est "vrai".
+### 3.3. Examiner le statut de la simplification
 
-Protokin résout cette aporie en déplaçant le lieu de l'évaluation : on ne cherche pas à mesurer l'adéquation d'une description à la réalité brute, mais on évalue la viabilité fonctionnelle et la structure des engagements. Le diagnostic de la réduction est une opération de contrôle immanente qui analyse ce que l'absorption détruit, mutile ou passe sous silence au sein du jeu de la justification collective.
+Déterminer si la réduction répond à une question limitée et si ses limites sont maintenues.
 
----
+Une simplification peut être pertinente lorsqu'elle :
 
-Définition ou détermination fonctionnelle
+- répond à un objectif déterminé ;
+- précise les aspects qu'elle laisse de côté ;
+- ne présente pas ses résultats comme valables au-delà de leurs conditions d'application ;
+- reste révisable lorsque le problème exige de réintroduire les éléments écartés.
 
-Dans l'architecture de Protokin, le diagnostic de réduction désigne :
+Elle devient problématique lorsque ces limites disparaissent et que la description simplifiée est mobilisée pour régler des questions qu'elle ne traite pas.
 
-La procédure d'audit de second ordre par laquelle un enquêteur ou un collectif identifie si une configuration descriptive se trouve stabilisée par la reformulation de l'ensemble de ses catégories, de ses critères et de ses implications dans le vocabulaire exclusif d'un unique régime d'accueil hégémonique, effaçant ainsi les conditions locales, l'indépendance de juridiction et les règles d'évaluation du régime d'origine.
+### 3.4. Examiner les conclusions tirées
 
-Cette procédure permet de :
+Identifier les conclusions effectivement produites à partir de la description retenue.
 
-· Révéler les transpositions clandestines de critères d'un régime vers un autre.
-· Mesurer la perte inférentielle et la détérioration sémantique induites par le déplacement conceptuel.
-· Rétablir l'autonomie et l'étanchéité des conditions de validité des régimes étouffés.
+Il faut demander :
 
----
+- quelles affirmations sont soutenues ;
+- quelles inférences permettent de passer des éléments retenus à ces affirmations ;
+- quelles questions sont considérées comme résolues ;
+- si des conclusions concernant des dimensions non examinées sont néanmoins avancées ;
+- quelles objections ou quels éléments supplémentaires pourraient modifier le résultat.
 
-Les trois pathologies réductionnistes d'audit
+La réduction est abusive lorsque la portée attribuée à la description excède ce que l'opération permet de soutenir.
 
-L'enquêteur de second ordre classe les dérives réductrices abusives selon trois morphologies précises :
+## 4. Questions pour conduire le diagnostic
 
-1. La réduction causaliste (Aplatissement de KIN sur PROTO)
+Les questions suivantes constituent des repères. Elles ne forment pas une procédure obligatoire et ne doivent pas nécessairement être examinées dans l'ordre.
 
-Elle consiste à prétendre qu'une explication causale (le fonctionnement biophysique, neurobiologique, physique ou statistique de premier ordre, relevant du plan PROTO) peut annuler, remplacer ou fonder de manière unilatérale la validité d'un engagement normatif ou d'une responsabilité discursive dans l'espace des raisons (plan KIN).
+**Sur l'opération**
 
-· Le diagnostic critique : L'auditeur traque l'assertion typique consistant à dire : « Cette décision est causée par un influx synaptique ou un déterminisme biologique, donc elle n'est pas le produit d'un choix imputable ou responsable ». Expliquer causalement comment un énoncé ou un geste est physiquement produit n'équivaut jamais à justifier la correction ou la légitimité de son affirmation.
+- Quelle description est ramenée à quelle autre ?
+- S'agit-il d'une simplification, d'une reformulation, d'une substitution ou d'un remplacement ?
+- Quelle question motive cette opération ?
 
-2. La réduction normativisante (Télescopage de PROTO par KIN)
+**Sur les différences**
 
-À l'exact opposé, elle consiste à projeter directement des exigences d'imputation morale, de faute, d'intentionnalité ou de culpabilité subjective sur des processus physiques, contingents ou accidentels qui relèvent exclusivement des régularités causales.
+- Quelles différences sont conservées ?
+- Lesquelles deviennent invisibles ou inaccessibles ?
+- Ces différences sont-elles pertinentes pour le problème étudié ?
+- Leur mise à l'écart est-elle explicitement justifiée ?
 
-· Le diagnostic critique : L'auditeur dénonce la moralisation abusive du malheur biophysique (par exemple, qualifier une maladie génétique, une anomalie somatique ou une catastrophe naturelle de « punition éthique » ou de « faute personnelle »).
+**Sur les fonctions**
 
-3. La réduction ontologisante (Réification métaphysique)
+- Les descriptions concernées remplissent-elles des fonctions différentes ?
+- La description retenue permet-elle de répondre à la question initiale ?
+- Une fonction particulière est-elle présentée comme si elle épuisait les autres ?
 
-Elle se produit lorsqu'une communauté d'enquête traite les invariants et les modèles d'un régime de description particulier comme s'il s'agissait de structures absolues du monde en soi, effaçant l'épaisseur de ses supports instrumentaux, ses apprentissages de pairs et le caractère historiquement situé de ses perspectives d'enquête.
+**Sur les conclusions**
 
-· Le diagnostic critique : L'auditeur démasque la naturalisation des concepts historiques (par exemple, traiter la catégorie institutionnelle de « dangerosité » ou de « méchanceté » comme s'il s'agissait d'une substance physique intrinsèque de l'individu), en rappelant que les classifications découlent de choix pratiques et de supports matériels sédimentés.
+- Qu'est-ce que la description retenue permet effectivement d'établir ?
+- Les conclusions dépassent-elles les conditions de son application ?
+- Une question non examinée est-elle traitée comme définitivement réglée ?
+- Quels éléments pourraient conduire à réviser cette conclusion ?
 
----
+Ces questions peuvent conduire à constater une réduction abusive, mais aussi à conclure que la simplification est limitée et justifiée, que la perte supposée n'est pas établie ou que les éléments disponibles ne permettent pas de trancher.
 
-Séquence opératoire du diagnostic
+## 5. Distinguer la réduction des difficultés voisines
 
-Le diagnostic de réduction ne s'applique pas au hasard. Il s'exécute selon une grammaire d'opérations en cinq étapes fonctionnelles :
+### Réduction et simplification méthodologique
 
-```
-Séquence opératoire du diagnostic :
-[Saisie du trouble] 
-  → [Identification des deux régimes] 
-  → [Explicitation des critères d'origine] 
-  → [Application du critère de vigilance] 
-  → [Invalidation de l'absorption & Traduction]
-```
+Une simplification méthodologique sélectionne certains aspects d'une situation pour traiter une question déterminée.
 
-Étape 1 : Saisie de la configuration et repérage du trouble
+Elle peut laisser de côté des éléments sans que cette sélection soit abusive, à condition que la portée des résultats reste liée à la question et aux conditions de l'analyse.
 
-· Fonction : Isoler l'énoncé ou la pratique où se manifeste un conflit d'intelligibilité ou un étouffement de description.
-· Résultat : Délimiter précisément le domaine de friction conceptuel.
+La réduction abusive apparaît lorsque cette limitation n'est plus respectée : les résultats sont étendus à des questions qu'ils ne permettent pas de traiter ou les éléments écartés sont déclarés sans pertinence sans examen suffisant.
 
-Étape 2 : Identification des deux régimes en présence
+**Toute réduction simplifie ; toute simplification ne constitue pas une réduction abusive.**
 
-· Fonction : Remonter des termes de surface (lexique commun) aux structures de second ordre. L'enquêteur doit identifier quel est le régime d'origine (réduit) et quel est le régime d'accueil (dominant).
-· Résultat : Établir la carte d'identité sémantique des deux cadres.
+### Réduction et différence entre descriptions
 
-Étape 3 : Explicitation des critères de correction d'origine
+Deux descriptions peuvent différer par les éléments retenus, les questions posées ou les fonctions exercées sans que l'une réduise nécessairement l'autre.
 
-· Fonction : Reconstruire de manière immanente les règles de preuve et de redevabilité du régime d'origine pour démontrer son autonomie de juridiction.
-· Résultat : Mettre en lumière les contraintes normatives qui ont été ignorées ou passées sous silence par l'absorption dominante.
+Une différence ne constitue pas une perte. Il faut établir qu'une description est effectivement utilisée pour écarter, remplacer ou rendre inaccessibles des éléments pertinents de l'autre.
 
-Étape 4 : Application du critère de vigilance immanente
+L'examen des relations entre descriptions relève notamment de [Comparer deux descriptions](fr/comparer-deux-descriptions.md) et de [L'écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md).
 
-· Fonction : Passer l'opération réductrice au crible du critère de vigilance central :
-  · Le déplacement s'accompagne-t-il d'une perte d'intelligibilité ou d'une dissolution des engagements ?
-  · L'objet pratique initial (comme la responsabilité, le soin relationnel ou l'espèce végétale) est-il dissous ou mutilé par son aplatissement ?
-· Résultat : Si le coût inférentiel est positif et détruit la fonction d'origine, prononcer formellement le diagnostic de réduction abusive.
+### Réduction et confusion de niveau
 
-Étape 5 : Invalidation de l'absorption et ouverture des connecteurs de traduction
+Une confusion de niveau concerne un passage insuffisamment établi entre des dimensions ou des fonctions distinctes.
 
-· Fonction : Suspendre l'importation clandestine de critères et bloquer l'impérialisme du régime d'accueil. L'enquêteur propose alors de remplacer la réduction par une traduction réglée qui respecte l'étanchéité des cadres.
-· Résultat : Restaurer la capacité de coordination multilatérale sans unification forcée.
+Une réduction peut comporter un tel passage, par exemple lorsqu'une explication est utilisée comme réponse suffisante à une question de justification. Mais les deux diagnostics ne sont pas équivalents : la confusion de niveau examine le passage, tandis que la réduction examine également ce que ce passage écarte ou rend inaccessible.
 
----
+Voir [Diagnostiquer une confusion de niveau](fr/diagnostiquer-une-confusion-de-niveau.md).
 
-Distinctions conceptuelles nécessaires
+### Réduction et erreur de catégorie
 
-Réduction abusive et Simplification méthodologique limitée
+Une erreur de catégorie concerne l'application inadéquate d'une catégorie au regard de ses conditions d'emploi et des critères pertinents.
 
-La différence porte sur la prétention de juridiction. La simplification limitée est une réduction de premier ordre, transitoire, révisable et légitime, servant un but technique ou expérimental précis (par exemple, le clinicien modélisant localement les poumons comme des soufflets d'aération lors d'une réanimation mécanique). La réduction abusive est une opération de second ordre qui prétend éradiquer ou annuler définitivement la pertinence ou la légitimité des critères du régime réduit.
+Une réduction peut s'accompagner d'une erreur de catégorie, notamment lorsqu'une qualification est transférée à un contexte où ses conditions d'application ne sont pas réunies. Mais elle peut aussi intervenir sans qu'une catégorie soit incorrectement appliquée.
 
-Réduction et Traduction
+Voir [Diagnostiquer une erreur de catégorie](fr/diagnostiquer-une-erreur-de-categorie.md).
 
-La différence porte sur le respect de la pluralité des cadres. La réduction est une opération hégémonique qui absorbe et élimine les critères d'un régime au sein de l'autre. La traduction maintient fermement l'indépendance de chaque juridiction : elle conçoit des équivalences ou des connecteurs locaux de second ordre sans détruire l'autonomie ni l'étanchéité des critères de validité d'origine.
+### Réduction et traduction
 
----
+Une reformulation ou une traduction entre descriptions ne constitue pas nécessairement une réduction.
 
-Éclairage par les fils rouges pédagogiques
+Il faut examiner si le passage conserve les différences nécessaires à la question traitée, si les transformations effectuées sont explicites et si les conclusions obtenues restent proportionnées à ce qui a été traduit.
 
-1. « Cette personne est mauvaise »
+La traduction n'est pas automatiquement une garantie de préservation. Elle doit elle-même être examinée au regard des éléments et des fonctions concernés.
 
-Le diagnostic de réduction examine comment cette qualification morale ordinaire de l'image manifeste est traitée par d'autres cadres.
+## 6. Exemples d'examen
 
-· La dérive causaliste : Prétendre que l'énoncé « elle est mauvaise » n'est qu'un épiphénomène causé par une anomalie biologique ou un influx synaptique (plan PROTO), annulant la redevabilité morale du sujet (plan KIN), commet une réduction abusive qui dissout le statut d'agent responsable.
-· La dérive normativisante : Traiter l'accident corporel ou un trouble génétique de cette personne comme une faute éthique ou une intention malveillante commet l'erreur inverse d'importation normativisante.
-  L'audit protokinien invalide ces deux captures pour restituer les limites d'imputation morale.
+### 6.1. Une explication causale et une question de responsabilité
 
-2. Le patient aux urgences hospitalières
+Une décision est expliquée par des mécanismes neurobiologiques. Cette explication peut contribuer à comprendre les conditions dans lesquelles la décision a été produite.
 
-Lors de l'engorgement, le patient somatique fait l'objet de qualifications hétérogènes. L'audit diagnostique une réduction abusive lorsque les indicateurs logistico-comptables de l'administration hospitalière (rotation des lits, tarification budgétaire) prétendent écraser ou délégitimer l'autorité de la décision de tri clinique prise par l'infirmière et le médecin d'urgence. Réduire l'urgence vitale somatique (vitalité de premier ordre) à un critère d'allocation financière commet une réduction abusive qui dissout l'objet pratique « soin d'urgence » et met en danger l'organisme.
+Une réduction apparaît si l'explication est ensuite utilisée comme réponse suffisante à une question de responsabilité, sans examiner les critères d'imputation, les circonstances de l'action et les raisons pertinentes pour cette question.
 
-3. Le botaniste et le bûcheron face à l'arbre
+Le diagnostic ne consiste pas à opposer les mécanismes biologiques à la responsabilité. Il consiste à examiner si l'explication causale permet effectivement de soutenir la conclusion qui en est tirée.
 
-La réduction se produit si le bûcheron prétend imposer de manière exclusive sa taxonomie utilitaire (l'arbre comme volume de bois d'œuvre exploitable) pour invalider la taxonomie écologique et phylogénétique du botaniste, ou inversement. Le diagnostic protokinien intervient pour bloquer cette capture en démontrant que les deux taxonomies coexistent légitimement car elles répondent à des finalités d'action distinctes, préparant la transition vers un régime intégré de sylviculture écologique.
+La présence d'une cause ne supprime pas automatiquement la possibilité d'une imputation. Inversement, l'existence d'une qualification normative ne permet pas d'écarter les conditions causales de l'action.
 
----
+### 6.2. L'évaluation d'un établissement de santé
 
-Limites et pathologies d'audit : les pièges méthodologiques
+Un établissement de santé utilise des indicateurs de durée de séjour, de coût et de disponibilité des lits pour suivre son activité.
 
-L'application de ce protocole impose à l'enquêteur de second ordre deux vigilances fondamentales :
+Ces indicateurs peuvent être pertinents pour examiner l'organisation et les contraintes de fonctionnement de l'établissement.
 
-· La dérive moralisatrice de l'audit (L'illusion de surplomb) : L'audit protokinien de la réduction n'a pas pour rôle de prononcer des verdicts moraux ou des blâmes idéologiques contre les institutions ou les sciences spécialisées. Son approche reste fonctionnelle, clinique et analytique : il s'agit de démontrer le coût inférentiel et les pertes d'intelligibilité d'une configuration pour en rétablir l'efficacité pratique, et non d'opposer des accusations dogmatiques.
-· La dérive du relativisme indifférencié (L'éclectisme laxiste) : Dénoncer la réduction causaliste ou scientiste ne doit jamais servir de prétexte pour valider n'importe quelle affirmation arbitraire ou affaiblir les exigences de preuve des sciences. Protokin ne place pas tous les énoncés sur un plan d'équivalence indifférenciée ; il s'assure simplement que les métriques d'un régime puissant (comme la biologie) ne servent pas à écraser de façon clandestine des catégories d'imputation éthiques ou juridiques étanches et indispensables au collectif.
+Une réduction devient possible si ces indicateurs sont ensuite utilisés comme mesure suffisante de la qualité des soins, sans examiner les résultats cliniques, les besoins des patients, les conditions de prise en charge ou les critères professionnels pertinents.
 
----
+Le diagnostic doit préciser ce que les indicateurs permettent d'établir et ce qu'ils ne permettent pas de conclure. Il ne suffit pas de constater que la gestion comptable et l'évaluation clinique utilisent des critères différents.
 
-Synthèse finale
+### 6.3. Décrire un arbre
 
-Ce que cette page établit
+Un arbre peut être décrit selon son volume de bois exploitable, son état sanitaire, son rôle dans un habitat ou sa contribution à la régénération d'une parcelle.
 
-Le protocole méthodologique de diagnostic de réduction descriptive en tant qu'outil d'audit de second ordre, permettant de repérer, qualifier et invalider l'aplatissement unilatéral et abusif d'un régime descriptif par un autre pour restituer la souveraineté des espaces de raisons.
+Une description centrée sur le volume de bois peut être pertinente pour une opération forestière déterminée. Elle devient réductrice si ce volume est utilisé comme description suffisante de l'arbre pour écarter, sans examen, les questions relatives à son état écologique ou à sa fonction dans le milieu.
 
-Ce qu'elle suppose
+Inversement, une description écologique ne suffit pas nécessairement à répondre à une question portant sur les conditions d'exploitation ou sur la gestion d'une parcelle.
 
-Le principe de pluralisme descriptif, le régime descriptif, la configuration descriptive et la distinction fondamentale entre Causes (PROTO) et Raisons (KIN).
+Le diagnostic ne doit donc pas présupposer que toutes ces descriptions doivent être réunies dans une description unique. Il examine si l'une d'elles est utilisée pour écarter des questions qui restent pertinentes pour la situation considérée.
 
-Ce qu'elle rend possible
+Ces exemples illustrent des difficultés possibles. Ils ne permettent pas de conclure que toute description causale, comptable ou économique est réductrice.
 
-Le diagnostic clinique de la confusion de niveau, le diagnostic de l'erreur de catégorie, la conduite méthodique des traductions entre régimes, et l'évaluation de l'écologie des régimes descriptifs.
+## 7. Résultats possibles
 
----
+Le diagnostic peut conduire à plusieurs résultats.
 
-Protokin 2026 — version 26.08.081
+- **Réduction abusive établie** : les éléments examinés montrent qu'une description est utilisée pour écarter des différences ou des questions pertinentes sans justification suffisante.
+- **Simplification limitée et justifiée** : la réduction répond à un objectif déterminé et ses limites sont respectées dans les conclusions.
+- **Perte descriptive non établie** : les différences entre les descriptions sont réelles, mais rien ne permet de conclure que l'une rend l'autre inaccessible ou la disqualifie.
+- **Réduction partielle** : certains éléments sont écartés de manière problématique, tandis que d'autres peuvent être légitimement laissés de côté.
+- **Résultat indéterminé** : les éléments disponibles ne permettent pas de déterminer si la réduction est abusive ou si la simplification est justifiée.
+
+Le diagnostic peut conduire à préciser la question initiale, à réintroduire des éléments écartés, à limiter la portée d'une conclusion ou à comparer les descriptions concernées.
+
+Il ne conduit pas nécessairement à rejeter la description retenue ni à restaurer intégralement celle qui a été écartée.
+
+## 8. Limites du diagnostic
+
+Le diagnostic de réduction permet d'examiner les effets d'une opération de réduction dans une situation déterminée. Il ne permet pas, à lui seul :
+
+- de déterminer quelle description est vraie ou adéquate ;
+- de conclure que toute description partielle est abusive ;
+- d'imposer que toutes les dimensions d'une situation soient prises en compte dans chaque analyse ;
+- de présupposer que des descriptions différentes sont complémentaires ou incompatibles ;
+- de conclure qu'une description est fausse parce qu'elle ne traite pas toutes les questions possibles ;
+- de déduire la validité d'une description de la seule préservation de plusieurs dimensions ;
+- d'établir une hiérarchie générale entre les pratiques descriptives ;
+- de déterminer à lui seul les modalités d'une traduction entre descriptions.
+
+Le diagnostic est lui-même une proposition d'analyse. Il doit pouvoir être contesté à partir des éléments disponibles, des fonctions réellement exercées et des conclusions effectivement tirées.
+
+La perte alléguée peut ne pas être pertinente pour le problème étudié. Une description peut également avoir été limitée de manière explicite et justifiée. Ces possibilités doivent rester ouvertes.
+
+**Identifier une réduction ne suffit pas à déterminer ce qui doit remplacer la description retenue.**
+
+## Synthèse
+
+Diagnostiquer une réduction descriptive consiste à examiner les situations dans lesquelles une description est ramenée à une autre de telle manière que des différences, des fonctions ou des questions pertinentes deviennent inaccessibles.
+
+Le diagnostic porte sur l'opération effectuée, les éléments affectés et la portée des conclusions qui en sont tirées. Il distingue la réduction abusive de la simplification méthodologique limitée et ne présuppose ni des régimes étanches ni une opposition générale entre des domaines de description.
+
+Il peut conduire à confirmer la pertinence d'une simplification, à constater une réduction abusive, à limiter une conclusion ou à reconnaître que les éléments disponibles ne permettent pas de trancher.
+
+**Une description peut être partielle sans être réductrice ; elle devient problématique lorsque sa portée est étendue au-delà de ce qu'elle permet d'examiner.**
+
+## Pour poursuivre
+
+- [Les diagnostics de l'enquête](fr/les-diagnostics-de-l-enquete.md) — Situer la réduction parmi les difficultés descriptives examinées dans Protokin.
+- [Identifier un régime descriptif](fr/identifier-un-regime.md) — Examiner l'organisation effective d'une pratique descriptive.
+- [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md) — Examiner les relations entre plusieurs pratiques descriptives.
+- [Comparer deux descriptions](fr/comparer-deux-descriptions.md) — Examiner les différences et les rapports entre plusieurs descriptions.
+- [Diagnostiquer une confusion de niveau](fr/diagnostiquer-une-confusion-de-niveau.md) — Examiner les passages insuffisamment établis entre des dimensions ou des fonctions distinctes.
+- [Diagnostiquer une erreur de catégorie](fr/diagnostiquer-une-erreur-de-categorie.md) — Examiner les conditions d'application d'une catégorie.
+- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Préciser les rapports sous lesquels une situation ou une pratique peut être examinée.
+- [Conduire une enquête](fr/conduire-une-enquete.md) — Retrouver des repères pratiques pour traiter une difficulté descriptive.
