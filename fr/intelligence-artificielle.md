@@ -1,200 +1,283 @@
+
 # Intelligence artificielle — Résultats computationnels et pratiques descriptives
 
 ## Fonction
 
-Cette page examine les difficultés descriptives qui apparaissent lorsque des systèmes d’intelligence artificielle produisent des classifications, des prédictions, des recommandations ou des textes mobilisés dans des pratiques humaines.
+Cette page examine les difficultés qui apparaissent lorsque des résultats produits par des systèmes d’intelligence artificielle sont mobilisés dans des pratiques descriptives.
 
-Elle cherche à distinguer ce que le système produit, ce que les utilisateurs en interprètent et ce qu’ils peuvent légitimement conclure ou décider à partir de ces résultats.
+Elle distingue le traitement computationnel, le résultat produit, son interprétation et les conclusions ou décisions qui s’appuient sur lui. Elle cherche à préciser ce que ces résultats permettent effectivement d’établir et dans quelles conditions leur utilisation peut être défendue.
 
-L’intelligence artificielle constitue ici un cas d’étude, non une catégorie dont Protokin devrait déterminer l’essence. La page examine des usages particuliers et les relations entre les descriptions qu’ils mobilisent.
+L’intelligence artificielle constitue ici un domaine d’étude et un ensemble de situations à examiner. La page ne cherche pas à définir l’essence de l’IA ni à proposer une théorie générale de ses capacités.
 
-## Problème : que permet de conclure un résultat computationnel ?
+## 1. Problème : quelle portée attribuer à un résultat computationnel ?
 
-Un système d’intelligence artificielle peut classer des données, estimer une probabilité, produire une recommandation ou générer un texte. Ces résultats peuvent être utiles, parfois difficiles à obtenir autrement, et modifier sensiblement une pratique.
+Un système d’intelligence artificielle peut classer des données, produire un score, estimer une probabilité, signaler une anomalie, formuler une recommandation ou générer un texte.
 
-Une difficulté apparaît lorsque le résultat est traité comme s’il suffisait à établir une conclusion plus large que celle pour laquelle il a été produit. Un score de risque peut ainsi être interprété comme une propriété stable d’une personne ; une prédiction peut être prise pour un fait établi ; un texte bien formulé peut être tenu pour une réponse suffisamment justifiée.
+Ces résultats peuvent intervenir dans des pratiques humaines très différentes : diagnostic, évaluation, surveillance, recherche, administration, décision judiciaire ou production de contenus.
 
-L’erreur ne consiste pas nécessairement à utiliser le résultat du système. Elle consiste à lui attribuer une portée qui n’a pas été examinée.
+Une difficulté apparaît lorsque le résultat est utilisé comme s’il établissait directement une conclusion plus large que celle à laquelle il était destiné.
 
-Pour analyser ces situations, il faut distinguer plusieurs questions :
+Un score peut ainsi être traité comme une propriété de la personne évaluée ; une prédiction comme un fait déjà établi ; une recommandation comme une décision suffisamment justifiée ; un texte bien formulé comme une réponse dont le contenu serait nécessairement fiable.
 
-- Quel résultat le système produit-il ?
-- À partir de quelles données, de quels traitements et de quelles catégories ?
-- À quelle tâche ce résultat est-il destiné ?
-- Quels éléments permettent d’en apprécier la performance et les limites ?
-- Comment ce résultat est-il interprété et utilisé dans la pratique concernée ?
-- Quelles raisons permettent de défendre la conclusion ou la décision qui en découle ?
+Le problème ne réside pas dans le recours à un système computationnel en lui-même. Il réside dans la portée attribuée à ses résultats et dans les relations établies entre leur production, leur interprétation et leur utilisation.
 
-Ces questions sont liées, mais elles ne se remplacent pas mutuellement.
+Un résultat computationnel ne détermine pas, à lui seul, ce qu’une pratique peut légitimement affirmer ou décider à partir de lui.
 
-## Distinguer le calcul, le résultat et son usage
+## 2. Distinguer le traitement, le résultat et son utilisation
 
-Un système d’intelligence artificielle ne produit pas tous les types de résultats de la même manière. Un modèle peut attribuer un score, classer une image, proposer une séquence de mots, signaler une anomalie ou recommander une action. La nature du résultat dépend du système, de son entraînement, de ses données d’entrée et de la tâche pour laquelle il est utilisé.
+Pour examiner une situation impliquant un système d’IA, plusieurs éléments doivent être distingués.
 
-Il faut distinguer au moins quatre éléments.
+### 2.1. Le traitement computationnel
 
-- **Le traitement computationnel** : les opérations effectuées par le système sur des données selon son architecture, ses paramètres et ses règles de fonctionnement.
-- **Le résultat produit** : un score, une classe, une prédiction, une recommandation, un texte ou une autre sortie déterminée.
-- **L’interprétation du résultat** : la manière dont une personne ou une institution comprend ce résultat et le rapporte à une situation.
-- **La conclusion ou la décision** : ce qui est affirmé, retenu ou entrepris à partir de cette interprétation.
+Le traitement computationnel désigne les opérations effectuées par le système à partir de données, selon une architecture, des paramètres et des procédures déterminés.
 
-Cette distinction ne signifie pas que ces éléments seraient indépendants. Le choix de la tâche influence le résultat attendu ; la présentation du résultat peut orienter son interprétation ; les usages institutionnels peuvent modifier les données collectées et les critères de conception.
+Selon les systèmes, il peut comprendre des opérations de classification, de calcul, d’estimation, de génération ou de transformation.
 
-Il s’agit plutôt d’empêcher qu’un élément soit traité comme s’il suffisait à établir les autres.
+Ces opérations dépendent notamment des données utilisées, des catégories retenues, des objectifs d’entraînement et des conditions de fonctionnement.
 
-Un score n’est pas encore une décision. Une prédiction n’est pas nécessairement un fait observé. Une réponse formulée dans un langage naturel n’est pas, par sa seule forme, une conclusion justifiée.
+Le traitement ne se confond pas avec le résultat qui en est issu. La connaissance de certains mécanismes internes ne suffit pas non plus à établir la portée de ce résultat dans une pratique particulière.
 
-Inversement, le caractère computationnel d’un résultat ne suffit pas à le rendre inutile ou faux. Sa pertinence doit être examinée au regard de la tâche, des données, des conditions d’emploi et de la conclusion que l’on cherche à soutenir.
+### 2.2. Le résultat produit
 
-## Performance et validité d’une conclusion
+Le résultat est ce que le système fournit à l’issue du traitement : un score, une classe, une probabilité, une prédiction, une recommandation, un signal ou un texte.
 
-Un système peut obtenir de bons résultats selon une métrique déterminée sans que chacune de ses sorties soit adéquate à la situation dans laquelle elle est utilisée.
+Sa forme ne détermine pas automatiquement son statut.
 
-Une mesure de performance porte sur une tâche, un ensemble de données et une procédure d’évaluation définis. Elle peut contribuer à établir que le système réussit certaines opérations dans les conditions testées. Elle ne suffit pas nécessairement à établir que le résultat particulier est correct, que les mêmes performances se maintiennent dans un autre contexte ou que la décision prise à partir du résultat est justifiée.
+Un score peut constituer une estimation relative à une tâche précise. Une classe peut résulter de l’application d’une procédure de catégorisation. Un texte peut être une production linguistique sans constituer pour autant une assertion prise en charge par un locuteur humain.
 
-Il faut donc distinguer :
+Il faut donc examiner ce que le résultat représente, la tâche pour laquelle il a été produit et les conditions auxquelles il peut être interprété.
 
-- la performance mesurée du système pour une tâche définie ;
-- la fiabilité du résultat dans les conditions concrètes de son utilisation ;
-- l’adéquation de l’interprétation à la situation examinée ;
-- la justification de la conclusion ou de la décision qui en découle.
+### 2.3. L’interprétation
 
-Ces distinctions ne rendent pas l’évaluation technique secondaire. Elles permettent de préciser ce qu’elle établit et ce qui demande un examen supplémentaire.
+L’interprétation consiste à rapporter le résultat à une situation, à lui attribuer une signification et à déterminer ce qu’il permet de considérer.
 
-Par exemple, un système peut être évalué pour sa capacité à repérer certains signes dans des images médicales. Même si ses performances sont satisfaisantes sur un jeu de test, l’utilisation d’un résultat particulier suppose encore d’examiner les conditions dans lesquelles l’image a été produite, les limites connues du système et la pertinence du résultat pour le cas traité.
+Cette interprétation est effectuée dans une pratique déterminée. Elle dépend des informations disponibles, des catégories mobilisées, des compétences des participants et des critères retenus.
 
-La performance mesurée est un élément de l’évaluation ; elle ne vaut pas automatiquement justification de toutes les décisions prises à partir du système.
+Un résultat identique peut recevoir des interprétations différentes selon les situations. Inversement, des résultats différents peuvent être mobilisés pour soutenir une même conclusion.
 
-## Premier cas : une recommandation de triage médical
+L’interprétation ne se déduit donc pas mécaniquement de la forme du résultat.
 
-Considérons un système utilisé dans un service d’urgence pour signaler des situations susceptibles de nécessiter une intervention rapide.
+### 2.4. L’usage et la fonction du résultat
 
-Le système reçoit certaines données, leur applique des traitements et produit un score ou une catégorie de priorité. Ce résultat peut aider à attirer l’attention sur une situation qui demande un examen rapide.
+Il faut distinguer l’usage d’un résultat de la fonction qu’il exerce dans une pratique.
 
-Plusieurs questions doivent cependant rester distinctes.
+Son usage désigne la manière dont il est effectivement mobilisé : information consultée, indice retenu, argument avancé, critère de classement ou élément d’une décision.
 
-**Le résultat computationnel.** Il faut savoir ce que le système évalue, quelles données il utilise et ce que signifie la catégorie qu’il attribue. Un niveau de priorité n’est pas nécessairement un diagnostic complet, et une estimation de risque n’est pas une observation directe de tous les aspects de l’état du patient.
+Sa fonction désigne la contribution qu’il apporte à l’activité concernée : signaler une situation, orienter une recherche, soutenir une qualification, hiérarchiser des cas ou contribuer à une décision.
 
-**L’interprétation clinique.** Le professionnel doit rapporter le résultat aux informations pertinentes pour le patient, aux observations disponibles et aux autres éléments de la situation. Selon le contexte, le résultat peut confirmer une hypothèse, attirer l’attention sur un signe ou demander une vérification supplémentaire.
+Un même résultat peut être utilisé de plusieurs manières et remplir des fonctions différentes. Une fonction similaire peut également être assurée par des résultats produits selon des méthodes distinctes.
 
-**La décision.** La décision de soin doit être examinée au regard des informations disponibles, des critères cliniques pertinents et des responsabilités applicables. Elle ne découle pas automatiquement d’un score, même lorsque celui-ci constitue un indice utile.
+La fonction exercée ne constitue donc pas une propriété intrinsèque du résultat. Elle doit être examinée à partir de son usage effectif et de la pratique dans laquelle il intervient.
 
-Une difficulté descriptive apparaît, par exemple, si une catégorie calculée est traitée comme une description exhaustive de l’état du patient, ou si un score est utilisé pour écarter automatiquement une personne sans examiner la pertinence du résultat pour son cas.
+### 2.5. La conclusion ou la décision
 
-L’audit doit alors déterminer ce que le système a effectivement établi, ce que les professionnels en ont conclu et quels éléments soutiennent la décision finale.
+Une conclusion est une affirmation soutenue à partir d’un ensemble d’éléments. Une décision consiste à retenir ou à entreprendre une conduite dans une situation déterminée.
 
-Cet exemple ne prouve ni que les systèmes d’aide au triage sont fiables dans tous les contextes, ni qu’ils sont nécessairement inadaptés. Il montre pourquoi la portée d’un résultat doit être examinée au regard de son usage.
+Un résultat computationnel peut contribuer à l’une ou à l’autre. Il ne suffit cependant pas à établir toutes les prémisses, les critères et les raisons nécessaires à leur justification.
 
-## Deuxième cas : un score de risque dans une décision judiciaire
+Il faut notamment distinguer :
 
-Considérons maintenant un système qui attribue à une personne un score estimant un risque de récidive à partir de données historiques et de caractéristiques retenues pour la tâche.
+- le résultat que le système fournit ;
+- ce que les utilisateurs en concluent ;
+- les critères au regard desquels ils évaluent cette conclusion ;
+- les raisons qui permettent de la défendre ;
+- les conséquences pratiques qui lui sont associées.
 
-Le score peut fournir un élément d’information. Mais sa signification dépend des données utilisées, de la population sur laquelle le système a été évalué, de la définition du résultat prédit et des conditions dans lesquelles l’estimation est mobilisée.
+Ces éléments peuvent dépendre les uns des autres sans remplir la même fonction.
 
-Une confusion apparaît si le score est traité comme une propriété intrinsèque et permanente de la personne, ou si sa valeur est présentée comme une preuve suffisante pour déterminer une décision judiciaire.
+## 3. Performance, fiabilité et portée d’une conclusion
+
+L’évaluation technique d’un système constitue un élément important de l’examen. Elle ne répond cependant pas à toutes les questions relatives à l’utilisation de ses résultats.
+
+Une mesure de performance porte sur une tâche, un ensemble de données, une métrique et des conditions d’évaluation déterminés.
+
+Elle peut établir que le système obtient certains résultats dans les conditions testées. Elle ne garantit pas que chaque sortie sera correcte, que les mêmes performances seront obtenues dans un autre contexte ou que la conclusion tirée d’un résultat particulier sera justifiée.
+
+Il faut distinguer plusieurs questions :
+
+- **Performance mesurée** : comment le système réussit-il une tâche selon les métriques retenues ?
+- **Fiabilité du résultat** : dans quelles conditions le résultat peut-il être considéré comme suffisamment stable ou pertinent ?
+- **Adéquation de l’interprétation** : le résultat est-il correctement rapporté à la situation examinée ?
+- **Justification de la conclusion** : les éléments et les raisons disponibles permettent-ils de soutenir ce qui est affirmé ?
+- **Justification de la décision** : les critères et les exigences applicables permettent-ils de défendre la conduite retenue ?
+
+Une performance satisfaisante peut contribuer à soutenir la confiance accordée à un système pour une tâche déterminée. Elle ne constitue pas une garantie générale de validité.
+
+De même, identifier une limite technique ne suffit pas à invalider automatiquement tous les résultats produits. Il faut déterminer dans quelles conditions cette limite affecte le résultat considéré et la conclusion qui en dépend.
+
+Performance mesurée, adéquation de chaque résultat et justification de son utilisation sont donc trois questions distinctes.
+
+## 4. Les conditions de production et d’utilisation
+
+Les résultats d’un système d’intelligence artificielle dépendent de conditions techniques, matérielles et institutionnelles qui peuvent affecter leur portée.
+
+Selon le système et la situation étudiés, l’examen peut porter sur :
+
+- les données d’entraînement et les données utilisées en fonctionnement ;
+- la sélection et la transformation des données ;
+- les catégories et les variables retenues ;
+- les objectifs d’optimisation ;
+- les métriques et les procédures d’évaluation ;
+- les conditions techniques de déploiement ;
+- les modalités de présentation des résultats ;
+- les règles qui encadrent leur utilisation ;
+- les possibilités de vérification, de contestation et de révision.
+
+Ces éléments ne remplissent pas tous la même fonction.
+
+Les données peuvent déterminer les informations auxquelles le système est exposé. Les catégories retenues contribuent à organiser les résultats. Les métriques définissent certains critères de performance. Les conditions de déploiement affectent les situations dans lesquelles le système est utilisé. Les règles institutionnelles peuvent déterminer les usages autorisés ou les conséquences associées à ses sorties.
+
+L’examen doit établir le rôle effectif de ces éléments dans la situation étudiée.
+
+Il ne suffit pas de constater qu’un système a été entraîné sur certaines données pour expliquer une erreur particulière. Il ne suffit pas davantage d’identifier un choix de conception pour invalider tous les résultats qui en dépendent.
+
+Condition de production, explication suffisante d’un résultat et justification de son utilisation ne sont pas équivalentes.
+
+## 5. Deux situations d’examen
+
+Les situations suivantes sont schématiques. Elles servent à préciser les distinctions nécessaires ; elles ne constituent pas des enquêtes empiriques sur des systèmes particuliers.
+
+### 5.1. Une recommandation dans le triage médical
+
+Considérons un système utilisé dans un service d’urgence pour signaler les situations susceptibles de nécessiter une prise en charge rapide.
+
+Le système reçoit certaines données et produit un score ou une catégorie de priorité.
+
+Ce résultat peut attirer l’attention sur un cas et contribuer à organiser le travail du service. Sa fonction dépend toutefois de la manière dont il est intégré à la pratique clinique.
+
+Plusieurs questions doivent être distinguées :
+
+- **Production** : quelles données le système reçoit-il et quel résultat produit-il ?
+- **Interprétation** : que signifie le score ou la catégorie dans le contexte clinique considéré ?
+- **Usage** : le résultat sert-il à signaler un cas, à orienter un examen ou à établir une priorité ?
+- **Conclusion** : quels éléments permettent de caractériser l’état du patient ?
+- **Décision** : quelles raisons permettent de soutenir une intervention ou une absence d’intervention ?
+
+Un niveau de priorité ne constitue pas nécessairement un diagnostic. Une estimation de risque ne décrit pas exhaustivement l’état d’un patient. Une recommandation ne détermine pas à elle seule la conduite à adopter.
+
+L’examen doit porter sur les conditions de production du résultat, sa pertinence pour le cas traité, les autres informations disponibles et les critères cliniques mobilisés.
+
+Il doit également tenir compte des responsabilités des professionnels et des possibilités de vérifier ou de contester le résultat.
+
+L’exemple montre qu’un résultat peut contribuer à une pratique sans se substituer à l’examen de la situation ni à la justification de la décision.
+
+### 5.2. Un score de risque dans une décision judiciaire
+
+Considérons un système qui produit un score estimant un risque de récidive à partir de données historiques et de caractéristiques retenues pour la tâche.
+
+Le score peut fournir une information utile à une évaluation. Mais sa portée dépend de la définition du résultat estimé, des données utilisées, de la population concernée et des conditions dans lesquelles il est mobilisé.
+
+Une difficulté apparaît si le score est traité comme une propriété intrinsèque et permanente de la personne, ou comme une preuve suffisante pour déterminer une décision judiciaire.
 
 Il faut distinguer :
 
 - l’estimation produite par le système ;
-- les éléments empiriques qui permettent d’évaluer cette estimation ;
-- l’interprétation de sa pertinence pour une personne et une situation déterminées ;
-- les critères juridiques applicables à la décision ;
-- les raisons permettant de défendre la décision et de la soumettre à la contradiction.
+- les données et les procédures qui permettent d’en évaluer la performance ;
+- la pertinence de cette estimation pour la personne et la situation considérées ;
+- les critères juridiques applicables ;
+- les raisons qui soutiennent la décision ;
+- les possibilités de contradiction et de contestation.
 
-Le passage du score à une décision ne constitue pas une simple lecture du résultat. Il suppose des choix sur la pertinence des données, la portée du risque estimé, les critères applicables et les conséquences que l’institution entend tirer de l’évaluation.
+Une estimation statistique ne constitue pas une description exhaustive d’une personne. Elle ne détermine pas automatiquement la valeur juridique des éléments sur lesquels elle repose.
 
-Le score ne devient pas une caractéristique naturelle de la personne du seul fait qu’il est exprimé numériquement. Il ne constitue pas non plus, à lui seul, une justification juridique.
+Le passage du score à une décision suppose d’examiner les critères retenus, les règles applicables, les responsabilités engagées et les conséquences de l’utilisation du résultat.
 
-L’examen doit porter sur le résultat, les conditions de sa production, son interprétation et les règles qui encadrent la décision. Il doit aussi permettre d’identifier les personnes et les institutions responsables de l’usage du système.
+L’exemple montre qu’une estimation peut intervenir dans une pratique institutionnelle sans constituer, à elle seule, une justification de la décision.
 
-Ce cas n’établit pas que tout score de risque est dépourvu de pertinence. Il montre que la pertinence d’un résultat statistique et la justification d’une décision judiciaire constituent deux questions distinctes.
+## 6. Responsabilités et possibilités de contestation
 
-## Les supports matériels et les choix de conception
+L’utilisation d’un système d’intelligence artificielle peut impliquer plusieurs participants : concepteurs, fournisseurs de données, responsables du déploiement, professionnels utilisateurs, institutions et personnes concernées.
 
-Les résultats d’un système d’intelligence artificielle dépendent de conditions matérielles et de choix qui ne sont pas toujours visibles au moment de leur utilisation.
+Leurs rôles ne sont pas nécessairement équivalents.
 
-Selon le système, il peut être nécessaire d’examiner :
+L’examen doit permettre de préciser :
 
-- les données d’entraînement ou les données utilisées en fonctionnement ;
-- la manière dont les catégories et les variables ont été définies ;
-- les objectifs d’optimisation et les métriques d’évaluation ;
-- les procédures de collecte, de sélection et de traitement des données ;
-- les conditions techniques et institutionnelles de déploiement ;
-- les modifications apportées au système et les modalités de suivi de ses résultats.
+- qui définit les objectifs et les critères du système ;
+- qui choisit les données et les catégories mobilisées ;
+- qui décide des conditions de déploiement ;
+- qui interprète les résultats ;
+- qui dispose du pouvoir de décision ;
+- qui peut vérifier ou contester une sortie ;
+- qui doit répondre des conséquences de son utilisation.
 
-Ces éléments peuvent affecter ce que le système repère, les erreurs qu’il produit et les usages auxquels ses résultats se prêtent. Ils ne doivent pas être invoqués comme une explication automatique de toute erreur particulière : leur rôle doit être examiné à partir des éléments disponibles.
+La responsabilité ne se déduit pas directement du mode de calcul. Elle doit être examinée au regard des rôles, des pouvoirs, des connaissances accessibles et des règles applicables.
 
-La matérialité du système ne se réduit pas à ses serveurs ou à ses composants. Les catégories retenues, les choix de conception, les procédures d’évaluation et les règles d’utilisation contribuent également aux conditions dans lesquelles ses résultats prennent une fonction.
+La présence d’un système computationnel ne supprime pas les responsabilités humaines et institutionnelles. Inversement, l’identification d’un utilisateur ne suffit pas à lui attribuer l’ensemble des responsabilités liées à la conception ou au fonctionnement du système.
 
-Il importe donc de ne pas présenter le résultat comme s’il apparaissait sans médiation, mais aussi de ne pas supposer que la seule identification de ses conditions de production suffit à l’invalider.
+Il faut également distinguer la possibilité formelle de contester un résultat de la possibilité effective d’obtenir son examen ou sa révision.
 
-## Qui répond de l’usage du résultat ?
+Cette question rejoint l’examen des positions épistémiques : les participants ne disposent pas nécessairement des mêmes informations, compétences, ressources ou possibilités d’intervention. Ces différences peuvent affecter la manière dont un résultat est interprété et discuté.
 
-La responsabilité ne se déduit pas directement du mode de calcul. Elle doit être examinée à partir des rôles effectivement exercés dans la conception, le déploiement, l’interprétation et l’utilisation du système.
+La page [Position épistémique](position-epistemique.md) examine ces conditions de participation. La page [Obligation institutionnelle et obligation pratique](obligation-institutionnelle-et-obligation-pratique.md) précise les rapports entre règles, responsabilités et conduites.
 
-Selon les situations, plusieurs acteurs peuvent intervenir : concepteurs, fournisseurs de données, responsables du déploiement, professionnels utilisateurs, institutions qui fixent les règles d’emploi et personnes qui prennent les décisions finales.
+## 7. Ce que l’examen permet d’établir
 
-Leur contribution n’est pas nécessairement identique. Il faut examiner qui a choisi les critères, qui pouvait connaître les limites du système, qui avait la possibilité de vérifier le résultat, qui disposait du pouvoir de décision et quelles obligations s’appliquaient à chacun.
+L’analyse des situations impliquant des systèmes d’intelligence artificielle permet de maintenir plusieurs distinctions :
 
-Cette analyse évite deux conclusions trop rapides.
+- un traitement computationnel ne se confond pas avec le résultat qu’il produit ;
+- un résultat ne se confond pas avec son interprétation ;
+- l’interprétation ne se confond pas avec l’usage qui en est fait ;
+- l’usage effectif ne détermine pas à lui seul la fonction exercée dans une pratique ;
+- un score ou une classification ne constitue pas automatiquement une propriété intrinsèque de la personne concernée ;
+- une prédiction ne se confond pas avec un fait observé ;
+- une performance mesurée ne garantit pas l’adéquation de chaque résultat à une situation particulière ;
+- l’identification des conditions de production ne suffit ni à valider ni à invalider un résultat ;
+- la pertinence d’un résultat pour une tâche ne suffit pas à justifier toutes les décisions prises à partir de lui ;
+- l’utilisation d’un système ne dispense pas d’examiner les responsabilités et les possibilités de contestation.
 
-La première consisterait à attribuer au système, du seul fait qu’il produit un résultat, l’ensemble des responsabilités liées à la décision. La seconde consisterait à considérer que la présence d’un système computationnel dispense les personnes et les institutions de répondre de leurs choix.
+Ces distinctions permettent de préciser la portée des résultats et les relations entre les éléments d’une pratique. Elles ne déterminent pas à l’avance la valeur de tous les systèmes ou de tous leurs usages.
 
-La responsabilité doit être rapportée aux rôles, aux pouvoirs, aux connaissances accessibles et aux règles applicables. Elle ne peut être distribuée correctement qu’après examen de la situation concrète.
+## 8. Portée et limites
 
-Cette question ne se confond pas avec celle de savoir si un système peut être décrit comme agent, ni avec celle de savoir si ses productions sont utiles. L’analyse des usages et des responsabilités ne suffit pas à trancher toutes les questions relatives à l’agentivité artificielle.
+### Ce que cette étude établit
 
-## Comment conduire l’examen ?
+Elle établit que les résultats computationnels peuvent intervenir dans des pratiques descriptives et décisionnelles sans que leur portée soit déterminée par leur seule production.
 
-Face à une difficulté impliquant un système d’intelligence artificielle, l’enquête peut être orientée par les questions suivantes :
+L’examen doit distinguer les traitements, les résultats, les interprétations, les usages et les conclusions. Il doit également tenir compte des conditions techniques, matérielles et institutionnelles qui affectent leur emploi.
 
-1. **Délimiter le problème.** Quel résultat, quelle interprétation ou quelle décision est contesté ?
-2. **Identifier les éléments disponibles.** Quelles données, traces, informations techniques et observations permettent d’examiner la situation ?
-3. **Distinguer les fonctions.** Que produit le système, qu’en déduit l’utilisateur et quelle décision est prise ?
-4. **Examiner les relations.** Comment le résultat est-il relié à la situation, aux autres informations et aux critères applicables ?
-5. **Évaluer la portée.** Qu’est-ce que les éléments disponibles permettent d’établir, et quelles conclusions dépasseraient leur portée ?
-6. **Examiner la justification et la responsabilité.** Quelles raisons soutiennent la décision, qui doit pouvoir y répondre et quelles possibilités de contestation ou de révision existent ?
+### Ce qu’elle suggère
 
-Ces questions ne constituent pas une procédure universelle ni une suite obligatoire d’étapes. Leur ordre dépend de la difficulté rencontrée. L’enquête peut conduire à revenir sur le problème initial, à rechercher des informations supplémentaires ou à réviser la distinction sur laquelle reposait l’analyse.
+Elle suggère qu’une analyse des systèmes d’IA gagne en précision lorsqu’elle examine conjointement la production des résultats et les pratiques dans lesquelles ils sont repris.
 
-Les quatre orientations de la quadripartition peuvent aider à différencier les questions en jeu : les conditions matérielles et institutionnelles, les relations entre les éléments, les fonctions exercées dans la pratique et les justifications mobilisées. Elles ne constituent ni quatre composantes du système ni quatre phases obligatoires de l’examen.
+Cette analyse peut contribuer à repérer les situations où un résultat reçoit une portée excessive, où une interprétation n’est pas suffisamment soutenue ou où une décision repose sur des éléments dont la pertinence n’a pas été examinée.
 
-## Ce que le cas permet d’établir — et ce qu’il n’établit pas
+Elle invite également à ne pas réduire l’évaluation d’un système à ses performances techniques, ni à confondre les limites de son fonctionnement avec celles des pratiques qui utilisent ses résultats.
 
-L’étude permet de dégager plusieurs distinctions utiles.
+### Ce qu’elle n’établit pas
 
-- Un résultat computationnel ne se confond pas avec l’interprétation qui en est faite.
-- Une performance mesurée ne garantit pas l’adéquation de chaque résultat à une situation particulière.
-- Un score ou une classification ne constitue pas automatiquement une propriété intrinsèque de la personne concernée.
-- La pertinence d’un résultat pour une tâche ne suffit pas à justifier toutes les décisions prises à partir de ce résultat.
-- L’identification des conditions de production d’une sortie ne suffit ni à la valider ni à l’invalider.
-- L’utilisation d’un système ne supprime pas la nécessité d’examiner les rôles, les critères et les responsabilités des acteurs concernés.
+Cette étude n’établit pas :
 
-Ces distinctions ne permettent pas de conclure que tous les systèmes d’intelligence artificielle fonctionnent de la même manière, qu’ils sont incapables de produire des résultats pertinents ou que leurs usages doivent être acceptés ou rejetés en bloc.
+- une définition générale de l’intelligence artificielle ;
+- une théorie unifiée du fonctionnement de tous les systèmes d’IA ;
+- que les résultats computationnels sont nécessairement fiables ou nécessairement inadéquats ;
+- que les systèmes d’IA sont incapables de produire des résultats pertinents ;
+- que la connaissance des données ou des mécanismes de production suffit à expliquer chaque résultat ;
+- que toute utilisation d’un système d’IA entraîne une délégation injustifiée de décision ;
+- une répartition universelle des responsabilités entre les acteurs ;
+- une conclusion générale sur la conscience ou l’agentivité artificielle.
 
-Elles ne tranchent pas davantage, à elles seules, la question de la conscience ou de l’agentivité artificielle. Pour les besoins de cette étude, il suffit de distinguer la production d’un résultat, la fonction qu’il prend dans une pratique et les conditions dans lesquelles les conclusions tirées de son usage peuvent être défendues.
+La question de la conscience artificielle relève d’un examen distinct, notamment de [Conscience artificielle — Enquête sur les arguments de Ted Chiang et de Bentham](conscience-ia-chiang-bentham.md).
 
-## Articulation avec Protokin
+## 9. Articulation avec Protokin
 
-Cette étude de cas met à l’épreuve plusieurs distinctions de Protokin sans les transformer en théorie générale de l’intelligence artificielle.
+Cette étude mobilise des distinctions du corpus sans constituer une nouvelle architecture de l’enquête.
 
-Elle mobilise notamment :
+Les ressources suivantes permettent d’approfondir certains aspects :
 
-- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md), pour situer les opérations mobilisables face à une difficulté descriptive ;
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md), pour différencier les questions relatives aux conditions, aux relations, aux fonctions et aux justifications ;
-- [Une première cartographie des régimes descriptifs](fr/une-premiere-cartographie-des-regimes-descriptifs.md), pour identifier les manières de décrire mobilisées dans une situation ;
-- [Explication](fr/explication.md), pour distinguer la production d’un phénomène, l’interprétation d’un résultat et la justification d’une conclusion ;
-- [Assertion](fr/assertion.md) et [Inférence](fr/inference.md), pour examiner les engagements et les conséquences associés aux affirmations produites ou reprises par les utilisateurs ;
-- [Justification](fr/justification.md), pour examiner les raisons permettant de défendre ou de contester une conclusion.
+- [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md) — Situer les travaux d’examen susceptibles d’être mobilisés.
+- [Orientation de l’examen](orientation-de-l-examen.md) — Préciser les rapports sous lesquels une difficulté peut être examinée.
+- [Une première cartographie des régimes descriptifs](une-premiere-cartographie-des-regimes-descriptifs.md) — Repérer différentes manières d’organiser les descriptions.
+- [Explication](explication.md) — Distinguer les questions explicatives des questions de justification.
+- [Assertion](assertion.md) et [Inférence](inference.md) — Examiner les engagements associés aux affirmations et les conséquences qui en sont tirées.
+- [Justification](justification.md) et [Justifier](justifier.md) — Examiner les raisons et les critères permettant de soutenir ou de contester une conclusion.
+- [Position épistémique](position-epistemique.md) — Examiner les conditions d’accès, de participation et de contestation dans une pratique.
 
-Ces renvois désignent des ressources spécialisées ; ils ne signifient pas que chaque analyse de l’IA doive mobiliser toutes ces notions.
-
-L’étude ne constitue pas une nouvelle architecture du projet. Elle montre comment une difficulté liée à l’usage de systèmes computationnels peut être délimitée, examinée et révisée sans confondre les résultats du système, les descriptions qui les reprennent et les décisions qui en découlent.
+Ces ressources ne constituent pas une grille qu’il faudrait appliquer intégralement à chaque système. Leur mobilisation dépend de la difficulté rencontrée.
 
 ## Synthèse
 
-L’intelligence artificielle constitue un cas particulièrement utile pour examiner les relations entre calcul, description, interprétation et décision. Les systèmes peuvent produire des résultats pertinents et transformer les pratiques dans lesquelles ils sont utilisés. La portée de ces résultats dépend cependant de la tâche, des données, des conditions d’emploi et des conclusions qu’on leur fait soutenir.
+Les systèmes d’intelligence artificielle produisent des résultats susceptibles d’intervenir dans des pratiques descriptives et décisionnelles. La portée de ces résultats dépend de la tâche pour laquelle ils sont produits, de leurs conditions de production et de la manière dont ils sont interprétés et utilisés.
 
-L’enjeu n’est ni d’attribuer automatiquement une autorité aux résultats computationnels, ni de les disqualifier du seul fait de leur origine technique. Il consiste à déterminer ce qu’ils permettent d’établir, comment ils interviennent dans une pratique et quelles raisons soutiennent les conclusions et les décisions qui en découlent.
+Un résultat peut contribuer à une description, à une évaluation ou à une décision sans suffire à établir la conclusion qui en est tirée. L’examen doit donc distinguer le traitement computationnel, le résultat, son interprétation, son usage et la fonction qu’il exerce dans la pratique concernée.
 
-**Un résultat computationnel peut contribuer à une décision sans suffire, à lui seul, à la justifier.**
+L’enjeu n’est ni d’accorder une autorité automatique aux résultats computationnels ni de les disqualifier en raison de leur origine technique, mais d’examiner ce qu’ils permettent effectivement de soutenir.
