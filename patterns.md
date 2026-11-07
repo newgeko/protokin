@@ -29,92 +29,43 @@ Ces ressources sont complémentaires. Leur articulation ne justifie pas de repro
 
 ## 2. Principes éditoriaux communs
 
-### 2.1. Partir d’un problème identifiable
+Les principes suivants s’appliquent à l’ensemble du corpus. Ils définissent les exigences générales de rédaction et de révision ; les règles pratiques correspondantes sont précisées dans les sections suivantes.
 
-Toute page doit répondre à un problème descriptif, conceptuel, méthodologique, pratique ou éditorial suffisamment précis pour justifier sa fonction.
+### 2.1. Justifier la fonction de chaque page
 
-Une proximité thématique avec une page existante ne suffit pas à justifier un nouveau document.
+Toute page doit répondre à un problème identifiable et apporter une contribution propre au corpus.
 
-Avant de rédiger, il faut pouvoir répondre à trois questions :
+Une proximité thématique avec une page existante ne suffit pas à justifier un nouveau document. Il faut pouvoir préciser ce que la page apporte, ce qu’elle complète et ce qu’elle laisse aux autres ressources.
 
-1. Quel problème cette page traite-t-elle ?
-2. Quelle contribution apporte-t-elle que les autres pages n’apportent pas déjà ?
-3. Que doit-elle laisser aux autres ressources ?
+### 2.2. Préserver les différences de fonction
 
-Si ces réponses restent indéterminées, il faut examiner la fonction de la page avant d’en réécrire le contenu.
+Les notions, les opérations, les orientations et les ressources documentaires peuvent être articulées sans devenir interchangeables.
 
-### 2.2. Préserver la fonction propre de chaque page
+Le principe directeur est le suivant :
 
-Une page peut rappeler brièvement une définition ou une distinction développée ailleurs. Elle ne doit pas reproduire un développement complet sans apporter de contribution supplémentaire.
+**Continuité des dépendances, discontinuité des fonctions, non-conversion.**
 
-Une répétition est justifiée lorsqu’elle facilite la compréhension locale, explicite une dépendance ou permet d’examiner une notion dans un autre contexte. Elle devient problématique lorsqu’elle rend les fonctions des pages interchangeables ou entretient plusieurs formulations concurrentes.
-
-La révision doit donc distinguer :
-
-- le rappel nécessaire ;
-- le développement spécialisé ;
-- le recouvrement fonctionnel ;
-- la dépendance entre ressources ;
-- la contradiction éventuelle.
-
-La ressemblance des titres ou du vocabulaire ne suffit pas à établir une redondance.
+Une relation entre deux éléments n’établit pas leur identité, pas plus qu’une dépendance n’autorise à réduire l’un à l’autre. Les distinctions doivent être maintenues lorsqu’elles modifient l’analyse ou la portée d’une conclusion.
 
 ### 2.3. Maintenir l’orientation méthodologique
 
 Protokin est une démarche d’enquête pragmatiste, inférentialiste, réflexive et non ontologique sur les pratiques descriptives.
 
-Elle examine les conditions, les fonctions et les transformations par lesquelles ces pratiques rendent des différences descriptibles, discutables, justifiables, stabilisables, contestables et révisables.
-
-Cette orientation ne consiste ni à nier l’existence de contraintes indépendantes des descriptions, ni à déclarer toutes les descriptions équivalentes.
-
-Les pages ne doivent pas transformer une difficulté descriptive en affirmation ontologique sans argument explicite. Elles doivent distinguer les propositions avancées, les éléments qui les soutiennent et la portée des conclusions.
+Les pages doivent examiner les conditions, les fonctions et les transformations de ces pratiques sans convertir directement une analyse descriptive en affirmation ontologique. Elles ne doivent ni supposer que toutes les descriptions se valent, ni considérer qu’une description cohérente est nécessairement adéquate.
 
 **La cohérence d’une description ne suffit pas à établir son adéquation à ce qu’elle prétend décrire.**
 
-Une description cohérente, utile, stable ou acceptée peut rester inadéquate. Inversement, sa révisabilité ne suffit pas à la disqualifier.
+### 2.4. Proportionner les conclusions aux éléments disponibles
 
-### 2.4. Préserver les distinctions fonctionnelles
+Une page doit distinguer ce qu’elle établit, ce qu’elle rend plausible et ce qu’elle laisse indéterminé.
 
-L’articulation des dimensions d’un problème ne rend pas leurs fonctions interchangeables.
+Les exemples, les références, les comparaisons et les instruments d’examen contribuent à soutenir une proposition ; aucun ne dispense d’examiner la portée de l'argument. Les conclusions ne doivent pas excéder ce que les éléments mobilisés permettent de soutenir.
 
-Le principe éditorial est le suivant :
+### 2.5. Maintenir le corpus révisable
 
-**Continuité des dépendances, discontinuité des fonctions, non-conversion.**
+Les définitions, les distinctions, les méthodes et les propositions restent susceptibles d’être révisées à partir des difficultés rencontrées, des cas examinés et des contradictions constatées.
 
-Selon le problème traité, une page doit notamment éviter de confondre :
-
-- cause et raison ;
-- genèse et justification ;
-- condition et critère ;
-- trace et signification ;
-- description et objet décrit ;
-- capacité, performance et validité ;
-- fonction et justification ;
-- incarnation et réduction biologique.
-
-Cette liste constitue un ensemble de points de vigilance, non une classification exhaustive. Une relation entre des termes distincts reste possible, mais elle doit être établie et sa portée précisée.
-
-### 2.5. Expliciter la portée des conclusions
-
-Une page doit permettre de distinguer ce qu’elle établit, ce qu’elle rend plausible et ce qu’elle laisse indéterminé.
-
-Il faut préciser, lorsque cela est pertinent :
-
-- les conditions d’application d’une notion ou d’une méthode ;
-- les éléments mobilisés pour soutenir une proposition ;
-- les critères et les raisons invoqués ;
-- les inférences qui demandent un argument supplémentaire ;
-- les limites des exemples et des comparaisons.
-
-Les rubriques « Limites », « Ce que la page n’établit pas » et « Questions ouvertes » sont utiles lorsqu’elles clarifient un risque réel. Elles ne doivent pas être ajoutées mécaniquement à toutes les pages.
-
-### 2.6. Maintenir la révisabilité du corpus
-
-Aucune page n’est protégée contre la critique par son ancienneté, sa place dans l’architecture ou son statut de document de référence.
-
-Un cas, une comparaison, une difficulté d’application ou une contradiction peuvent conduire à réviser une définition, une distinction, une méthode ou une proposition générale.
-
-La cohérence du corpus est un objectif de travail, non une garantie de vérité.
+La cohérence du corpus est un objectif de travail, non une garantie de vérité. Aucun document n’est soustrait à l’examen en raison de son ancienneté ou de sa place dans l’architecture.
 
 ## 3. Règles de rédaction et de navigation
 
