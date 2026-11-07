@@ -1,135 +1,155 @@
-# Miranda Fricker — Injustice épistémique et participation au savoir
+# Miranda Fricker — Pouvoir social et injustice épistémique
 
 ## Fonction
 
-Cette page examine l’apport de Miranda Fricker à Protokin. Elle présente les notions d’injustice testimoniale et d’injustice herméneutique, puis précise ce que leur mobilisation permet d’étudier dans les pratiques descriptives : les asymétries de crédibilité, les inégalités d’accès aux ressources interprétatives et les obstacles à la participation aux processus de description et de justification.
+Cette page présente la contribution de Miranda Fricker à l’analyse des rapports entre pouvoir et connaissance. Elle situe les notions d’injustice testimoniale et d’injustice herméneutique dans son projet philosophique, puis précise leur intérêt pour Protokin.
 
-Il ne s’agit ni de résumer l’ensemble de la philosophie de Fricker ni de lui attribuer par anticipation les développements propres à Protokin. L’enjeu est de distinguer son apport initial des prolongements que le projet peut en tirer.
+Elle ne constitue pas une seconde présentation générale de l’injustice épistémique. Les définitions détaillées, les conditions de diagnostic et les prolongements pratiques sont développés dans les pages consacrées à ces questions.
 
-## 1. Problème
+## 1. Le problème : être reconnu comme sujet de connaissance
 
-Les pratiques de connaissance ne dépendent pas seulement de la qualité des informations disponibles ou de la correction des raisonnements. Elles dépendent aussi des conditions dans lesquelles une personne peut être entendue, reconnue comme interlocutrice et contribuer aux ressources à partir desquelles une situation devient intelligible.
+Dans *Epistemic Injustice: Power and the Ethics of Knowing* (2007), Fricker examine des situations dans lesquelles une personne subit un tort spécifiquement dans sa capacité de sujet connaissant.
 
-Deux difficultés doivent être distinguées.
+La production et la transmission de connaissances ne dépendent pas uniquement de la qualité des informations ou de la correction des raisonnements. Elles dépendent aussi des relations sociales dans lesquelles les témoignages sont reçus, les expériences interprétées et les ressources de compréhension élaborées.
 
-Un témoignage peut être formulé et compris, mais recevoir moins de crédibilité qu’il ne le mérite en raison d’un préjugé portant sur l’identité du locuteur. Une expérience peut aussi être difficile à interpréter ou à communiquer faute de ressources conceptuelles collectives suffisamment disponibles.
+Une personne peut ainsi être injustement discréditée lorsqu'elle témoigne. Elle peut également rencontrer des difficultés à rendre intelligible une expérience parce que les ressources interprétatives collectives ne permettent pas de la comprendre adéquatement.
 
-Ces difficultés ne sont pas équivalentes. Dans le premier cas, une parole est disqualifiée dans l’évaluation qui lui est accordée. Dans le second, les ressources nécessaires à l’interprétation d’une expérience sont insuffisantes ou inégalement accessibles.
+Fricker distingue deux formes principales d'injustice épistémique :
 
-L’analyse de Miranda Fricker fournit des outils pour examiner ces deux formes d’injustice sans les réduire à une simple erreur individuelle ni les confondre avec toute difficulté de compréhension.
+- **L'injustice testimoniale** concerne l'évaluation de la crédibilité accordée à une personne qui témoigne.
+- **L'injustice herméneutique** concerne les ressources interprétatives collectives nécessaires pour rendre intelligible une expérience sociale importante.
 
-## 2. Deux formes d’injustice épistémique
+Ces deux formes ne désignent pas deux étapes successives. Elles correspondent à des mécanismes distincts qui peuvent, dans certaines situations, se renforcer mutuellement.
 
-### 2.1. L’injustice testimoniale
+## 2. Pouvoir social et pouvoir identitaire
 
-Dans *Epistemic Injustice: Power and the Ethics of Knowing* (2007), Miranda Fricker analyse l’injustice testimoniale comme une injustice qui survient lorsqu’un préjugé identitaire conduit à accorder à une personne moins de crédibilité que son témoignage ne le mérite.
+L'analyse de Fricker inscrit les injustices épistémiques dans une réflexion sur le pouvoir social.
 
-La difficulté ne consiste donc pas simplement à constater qu’un témoignage est contesté ou qu’une affirmation est jugée fausse. Elle concerne la manière dont la crédibilité est attribuée, notamment lorsque l’identité sociale du locuteur infléchit cette évaluation.
+Le **pouvoir social** désigne une capacité située, dans des relations sociales déterminées, d'influer sur les actions d'autrui. Il ne se réduit pas à une autorité formelle ou à une décision explicitement imposée.
 
-Pour Protokin, cette analyse invite à examiner les conditions concrètes dans lesquelles une assertion est reçue, évaluée et éventuellement écartée. Il faut notamment distinguer les objections portant sur son contenu de celles qui tiennent au statut attribué à la personne qui parle.
+Fricker examine notamment le **pouvoir identitaire** (*identity power*) : une forme de pouvoir qui dépend de conceptions partagées des identités sociales et des attentes qui leur sont associées.
 
-Une différence de crédibilité n’établit cependant pas, à elle seule, l’existence d’une injustice. Il faut examiner les raisons de cette différence, les préjugés éventuellement à l’œuvre et la crédibilité que le témoignage mérite dans la situation considérée.
+Ce pouvoir peut intervenir dans une interaction sans être explicitement revendiqué. Des représentations sociales et des stéréotypes peuvent orienter la manière dont une personne est entendue, évaluée ou reconnue comme interlocutrice.
 
-### 2.2. L’injustice herméneutique
+Cette analyse permet de comprendre pourquoi une injustice épistémique ne se réduit pas nécessairement à une erreur individuelle. Les jugements et les interprétations s'inscrivent dans des relations sociales qui contribuent à rendre certains préjugés disponibles et opérants.
 
-Fricker analyse l’injustice herméneutique comme un désavantage structurel affectant certaines personnes lorsqu’elles ne disposent pas, à égalité avec d’autres, des ressources interprétatives collectives nécessaires pour rendre intelligible une expérience sociale importante.
+Le pouvoir identitaire ne constitue toutefois pas, à lui seul, un diagnostic d'injustice. Il faut examiner comment il intervient dans une situation et quel tort il contribue à produire.
 
-La difficulté ne se situe pas nécessairement dans l’évaluation d’un témoignage déjà formulé. Elle peut concerner les ressources disponibles pour identifier, qualifier ou communiquer une expérience.
+## 3. L'injustice testimoniale : le déficit de crédibilité
 
-Une personne peut éprouver une difficulté réelle sans disposer d’un vocabulaire partagé qui permette de la caractériser de façon intelligible pour elle-même et pour autrui. L’absence de ressources appropriées peut alors limiter sa participation à l’interprétation collective de la situation.
+L'injustice testimoniale se produit lorsqu'un préjugé identitaire conduit un auditeur à accorder à une personne moins de crédibilité que son témoignage ne le mérite.
 
-Cette analyse ne suppose pas que l’expérience serait d’abord entièrement constituée, puis simplement traduite en mots. Elle permet plutôt d’examiner les relations entre l’expérience, les ressources interprétatives disponibles et les conditions sociales de leur élaboration.
+Le problème ne tient donc pas au seul fait qu'un témoignage soit contesté, jugé insuffisant ou finalement reconnu comme erroné. Il tient à une évaluation injustement diminuée de la crédibilité du locuteur en raison d'un préjugé lié à son identité sociale.
 
-Il ne suffit toutefois pas de constater qu’un concept manque ou qu’une expérience est difficile à exprimer pour conclure à une injustice herméneutique. Il faut examiner le désavantage en cause et son rapport aux conditions inégales de participation à la production et à l’usage des ressources interprétatives.
+Le tort affecte la personne dans sa capacité à contribuer à la connaissance par le témoignage. Sa parole ne reçoit pas le crédit auquel elle pourrait prétendre au regard des éléments pertinents.
 
-## 3. Apport pour Protokin
+Fricker accorde également une place importante à la manière dont les auditeurs peuvent corriger leurs propres jugements. La **vertu de justice testimoniale** désigne une disposition à repérer et à corriger l'influence des préjugés identitaires dans l'évaluation de la crédibilité.
 
-Les analyses de Fricker invitent Protokin à examiner les conditions sociales et pratiques dans lesquelles les descriptions peuvent être formulées, entendues, interprétées et contestées.
+Il ne s'agit pas d'accorder systématiquement du crédit à toute affirmation. Il s'agit de veiller à ce que l'évaluation du témoignage ne soit pas indûment infléchie par l'identité attribuée à la personne qui parle.
 
-Elles permettent notamment de poser trois questions :
+## 4. L'injustice herméneutique : les ressources collectives d'interprétation
 
-- **Crédibilité :** les témoignages sont-ils évalués selon des raisons pertinentes, ou des préjugés liés à l’identité du locuteur influencent-ils leur réception ?
-- **Ressources interprétatives :** les personnes concernées disposent-elles de ressources suffisamment accessibles pour qualifier leur expérience et contribuer à son interprétation ?
-- **Participation :** qui peut contribuer à l’élaboration, à l’usage et à la révision des catégories mobilisées pour décrire une situation ?
+L'injustice herméneutique concerne les situations dans lesquelles des personnes subissent un désavantage structurel parce que les ressources interprétatives collectives ne permettent pas de rendre intelligible une expérience sociale importante.
 
-Ces questions peuvent conduire à examiner les règles institutionnelles, les procédures d’évaluation, les supports documentaires, les apprentissages et les catégories disponibles. Ces éléments ne constituent pas une explication universelle de toute injustice épistémique. Leur pertinence doit être établie dans chaque situation.
+Les ressources concernées ne se réduisent pas à un vocabulaire ou à une liste de concepts. Elles comprennent les catégories, les distinctions et les manières partagées d'interpréter les expériences.
 
-Le prolongement proposé par Protokin consiste ainsi à rendre examinables les relations entre les descriptions produites, les ressources qui les rendent possibles et les conditions dans lesquelles elles peuvent être reprises, contestées ou révisées.
+Le problème apparaît notamment lorsque certaines personnes ou certains groupes sont marginalisés dans les pratiques où ces ressources sont élaborées et transmises. Les expériences qui les concernent peuvent alors rester difficilement identifiables, communicables ou reconnaissables dans les interprétations collectives disponibles.
 
-## 4. Exemple : une plainte dans un service hospitalier
+L'injustice ne réside donc pas dans toute absence de mot ou toute difficulté d'expression. Elle tient au rapport entre une difficulté interprétative et un désavantage structurel lié aux conditions inégales de participation aux ressources collectives.
 
-Une personne signale une douleur et décrit des symptômes qui l’inquiètent. Son témoignage est écarté au motif qu’elle paraît confuse ou qu’elle s’exprime difficilement.
+Fricker examine également la **vertu de justice herméneutique**. Elle concerne la disposition de l'auditeur à prendre au sérieux les difficultés d'intelligibilité rencontrées par une personne et à participer à l'effort interprétatif nécessaire, plutôt que de faire immédiatement porter la difficulté sur celle qui témoigne.
 
-L’analyse doit distinguer plusieurs questions.
+Cette vertu ne remplace pas la transformation des conditions structurelles qui contribuent au désavantage. Elle désigne une ressource corrective dans les interactions, non une solution institutionnelle complète.
 
-D’abord, le contenu du témoignage : que rapporte la personne, et quels éléments permettent d’examiner ce qu’elle décrit ? Ensuite, son évaluation : les raisons de lui accorder ou de lui refuser du crédit sont-elles pertinentes, ou son statut et les préjugés qui lui sont associés interviennent-ils indûment ? Enfin, les ressources disponibles : les catégories et les procédures utilisées permettent-elles de rendre compte de son expérience, ou certaines dimensions restent-elles difficiles à exprimer et à prendre en charge ?
+## 5. Deux injustices distinctes et articulables
 
-Si la parole est minorée en raison d’un préjugé identitaire, l’analyse de l’injustice testimoniale peut être pertinente. Si les ressources interprétatives collectives ne permettent pas de rendre intelligible une expérience importante, la question de l’injustice herméneutique peut se poser.
+Les deux formes d'injustice identifiées par Fricker doivent être distinguées par le mécanisme qu'elles mettent en jeu.
 
-Ces deux difficultés peuvent coexister, mais l’une ne démontre pas automatiquement l’autre. Une procédure inadaptée, un manque d’information, une erreur de jugement et une injustice épistémique ne sont pas des descriptions interchangeables de la situation.
+Dans l'injustice testimoniale, une personne peut disposer d'une formulation intelligible, mais recevoir un crédit injustement diminué.
 
-L’examen peut également porter sur les formulaires, les critères de tri, les conditions de transmission de l’information et les possibilités de révision d’une première évaluation. Leur rôle doit être établi à partir de la pratique étudiée : la présence d’un support ou d’une procédure ne suffit pas à démontrer qu’il produit une exclusion.
+Dans l'injustice herméneutique, la difficulté peut se situer en amont de l'évaluation d'un témoignage : les ressources collectives disponibles ne permettent pas de rendre suffisamment intelligible une expérience importante.
 
-Cet exemple montre comment l’apport de Fricker peut orienter une enquête sans déterminer à l’avance son diagnostic.
+Les deux formes peuvent se renforcer. Une expérience difficile à interpréter peut conduire à mal évaluer la crédibilité de la personne qui tente de la décrire. Mais cette articulation n'est pas nécessaire : une injustice testimoniale ne démontre pas automatiquement une injustice herméneutique, et inversement.
 
-## 5. Ce que Protokin peut en prolonger
+La distinction permet ainsi de ne pas ramener toutes les difficultés de participation à un seul mécanisme.
 
-La contribution de Fricker peut être mobilisée pour étudier les asymétries qui affectent la participation aux pratiques de connaissance. Protokin peut prolonger cette analyse en examinant plus explicitement les conditions matérielles, documentaires, institutionnelles et catégorielles qui contribuent à ces asymétries.
+## 6. Apports pour Protokin
 
-Ce prolongement demande néanmoins de distinguer plusieurs questions.
+La contribution de Fricker fournit à Protokin deux distinctions importantes.
 
-**Les conditions matérielles** peuvent faciliter ou entraver l’accès à une information, à une inscription ou à une procédure. Elles n’expliquent pas à elles seules le statut accordé à un témoignage.
+**Examiner l'attribution de crédibilité.** Une description peut être écartée non seulement en raison de son contenu ou des raisons avancées contre elle, mais aussi en raison d'un préjugé qui affecte la manière dont son auteur est considéré. L'enquête doit pouvoir distinguer l'évaluation du témoignage et l'évaluation sociale de la personne qui témoigne.
 
-**Les catégories descriptives** rendent certaines distinctions disponibles et peuvent en laisser d’autres difficiles à formuler. Toute lacune catégorielle ne constitue pas nécessairement une injustice : il faut établir le désavantage qu’elle produit et les conditions de participation qui lui sont associées.
+**Examiner les conditions d'intelligibilité.** Une expérience peut être difficile à faire reconnaître lorsque les ressources interprétatives disponibles ne permettent pas de la caractériser adéquatement. L'enquête peut alors examiner les conditions de production, de circulation et de révision de ces ressources.
 
-**Les institutions** peuvent stabiliser des critères et organiser l’accès aux ressources de justification. Leur fonctionnement doit être examiné concrètement ; leur seule existence ne prouve ni une fermeture systématique ni une intention d’exclusion.
+Protokin peut prolonger ces analyses en étudiant les catégories, les supports, les procédures et les organisations collectives qui interviennent dans les pratiques de connaissance.
 
-**Les supports d’inscription** peuvent conserver, diffuser ou rendre consultables certaines descriptions. Leur distribution inégale peut contribuer à des asymétries, mais la conservation d’une trace ne garantit ni sa reconnaissance ni son interprétation adéquate.
+Ce prolongement doit rester explicitement distinct de la contribution initiale de Fricker. L'examen des formulaires, des dispositifs d'inscription, des règles de participation ou des possibilités institutionnelles de contestation relève d'un travail propre à Protokin lorsqu'il est appliqué à une situation déterminée.
 
-Ces prolongements ne doivent pas être attribués directement à Fricker lorsqu’ils correspondent à des développements spécifiques de Protokin. Ils constituent des hypothèses d’analyse à examiner dans les pratiques concernées.
+Il ne suffit pas de constater qu'un dispositif est inadapté ou qu'une catégorie manque pour conclure à une injustice épistémique. Il faut examiner le désavantage produit, les personnes concernées, les mécanismes en jeu et les conditions de participation à la pratique.
 
-## 6. Distinctions et limites
+## 7. Portée et limites de la contribution
 
-L’usage de cet héritage exige de préserver plusieurs distinctions.
+### Ce que l'analyse de Fricker établit
 
-- **Injustice testimoniale ≠ désaccord :** contester une affirmation ne constitue pas en soi une injustice testimoniale.
-- **Crédibilité ≠ vérité :** accorder ou refuser du crédit à une personne ne suffit pas à établir la vérité ou la fausseté de son témoignage.
-- **Injustice herméneutique ≠ absence de vocabulaire :** une lacune conceptuelle ne suffit pas à établir un désavantage structurel injuste.
-- **Difficulté descriptive ≠ injustice épistémique :** toute limite d’un régime ou toute erreur d’interprétation n’est pas une injustice.
-- **Explication structurelle ≠ absence de responsabilité individuelle :** examiner des règles et des dispositifs n’exclut pas d’étudier les actes et les responsabilités des personnes concernées.
-- **Accès aux ressources ≠ participation effective :** disposer d’un document, d’un concept ou d’une procédure ne garantit pas de pouvoir contribuer à leur usage ou à leur révision.
-- **Reconnaissance collective ≠ adéquation descriptive :** une affirmation peut être largement reconnue sans que son adéquation à la situation soit établie.
+Elle permet de distinguer :
 
-Ces distinctions permettent d’examiner les asymétries de participation sans conclure que toutes les descriptions se valent, que toutes les contestations sont injustes ou que toute difficulté peut être résolue par l’ajout d’une catégorie ou d’un support.
+- une injustice qui affecte l'évaluation de la crédibilité d'un témoignage en raison d'un préjugé identitaire ;
+- une injustice qui affecte l'intelligibilité d'une expérience en raison de défauts structurels dans les ressources interprétatives collectives ;
+- les dimensions sociales et éthiques des pratiques par lesquelles les personnes contribuent à la connaissance ;
+- des dispositions correctives qui concernent la manière d'écouter, d'évaluer et d'interpréter les témoignages.
 
-## 7. Place dans l’enquête de Protokin
+### Ce qu'elle suggère pour Protokin
 
-L’héritage de Fricker devient pertinent lorsque l’enquête rencontre une asymétrie de crédibilité, une difficulté d’interprétation ou une restriction de la participation aux pratiques de connaissance.
+Elle invite à examiner les conditions dans lesquelles les personnes peuvent participer aux pratiques descriptives : être entendues, rendre une expérience intelligible, contribuer aux catégories employées et contester les interprétations qui les concernent.
 
-Selon le problème, l’examen peut porter sur les descriptions formulées, les raisons de leur réception, les catégories disponibles, les supports mobilisés et les conditions dans lesquelles les critères peuvent être contestés ou révisés.
+Elle suggère également de ne pas réduire les injustices épistémiques aux seuls échanges entre individus. Les conditions collectives de production et de circulation des ressources interprétatives doivent être prises en compte.
 
-Ces dimensions peuvent être étudiées à partir des orientations de la quadripartition — Condition, Relation, Fonction et Justification — sans les transformer en niveaux distincts ni en étapes obligatoires. Le rôle d’un dispositif, l’attribution de crédibilité et la justification d’une conclusion restent des questions différentes, même lorsqu’elles dépendent les unes des autres.
+### Ce qu'elle n'établit pas pour Protokin
 
-L’analyse de Fricker ne constitue donc ni une méthode complète d’audit ni une garantie de diagnostic. Elle fournit des distinctions qui peuvent aider l’enquête à identifier certaines formes d’exclusion et à déterminer ce qui doit être examiné plus avant.
+La contribution de Fricker ne fournit pas :
+
+- une typologie exhaustive de toutes les injustices susceptibles d'affecter les pratiques de connaissance ;
+- une théorie complète des supports matériels et documentaires ;
+- une analyse détaillée de toutes les procédures institutionnelles de description et de décision ;
+- une méthode universelle permettant de diagnostiquer une injustice ;
+- une raison de considérer toute contestation ou toute asymétrie de crédibilité comme injuste.
+
+Les prolongements de Protokin doivent donc être examinés et justifiés séparément. Ils ne peuvent être attribués à Fricker au seul motif qu'ils prennent appui sur ses concepts.
+
+## 8. Distinctions à préserver
+
+Plusieurs non-conversions sont nécessaires pour mobiliser cet héritage sans en étendre indûment la portée :
+
+- **Déficit de crédibilité ≠ témoignage faux** : la manière dont une personne est crue ne détermine pas à elle seule la vérité de ce qu'elle affirme.
+- **Désaccord ≠ injustice testimoniale** : contester un témoignage ne constitue pas nécessairement un préjugé identitaire.
+- **Lacune conceptuelle ≠ injustice herméneutique** : l'absence d'une ressource interprétative ne suffit pas à établir un désavantage structurel.
+- **Intelligibilité ≠ vérité** : rendre une expérience compréhensible ne garantit pas la correction de toutes les affirmations formulées à son sujet.
+- **Asymétrie de participation ≠ injustice démontrée** : une différence d'accès ou de contribution doit être examinée avant d'être qualifiée d'injuste.
+- **Analyse structurelle ≠ absence de responsabilité individuelle** : l'examen des conditions sociales n'exclut pas celui des actes et des responsabilités des participants.
+- **Concept de Fricker ≠ prolongement de Protokin** : les analyses des supports, des procédures et des configurations matérielles doivent être identifiées comme des développements propres au projet.
+
+Ces distinctions permettent de mobiliser Fricker sans réduire toute difficulté descriptive à une injustice, ni traiter les catégories et les interprétations collectives comme des ressources neutres.
 
 ## Synthèse
 
-L’apport de Miranda Fricker tient à l’analyse de deux formes d’injustice épistémique : l’injustice testimoniale, liée notamment à une attribution injustement diminuée de crédibilité, et l’injustice herméneutique, liée à un désavantage structurel dans l’accès aux ressources collectives d’interprétation.
+Miranda Fricker analyse les injustices qui affectent les personnes dans leur capacité à contribuer à la connaissance. L'injustice testimoniale concerne l'attribution injustement diminuée de crédibilité sous l'effet d'un préjugé identitaire. L'injustice herméneutique concerne le désavantage structurel qui affecte l'accès aux ressources interprétatives collectives nécessaires pour rendre intelligible une expérience sociale importante.
 
-Pour Protokin, cet héritage invite à examiner les conditions de crédibilité, d’intelligibilité et de participation dans les pratiques descriptives. L’étude des catégories, des supports et des procédures peut prolonger cette analyse, à condition de présenter ces développements comme des propositions propres au projet et de les éprouver dans les situations concernées.
+Son travail relie ainsi les pratiques de connaissance aux rapports de pouvoir et aux conditions sociales de participation. Il examine également les dispositions susceptibles de corriger certains torts dans les interactions testimoniales et interprétatives.
 
-L’enjeu n’est pas de présumer qu’une injustice est présente dès qu’une description est contestée ou qu’une ressource manque. Il est de déterminer comment une asymétrie se forme, quelles conséquences elle produit pour les personnes concernées et quelles raisons permettent de qualifier la situation d’injuste.
+Pour Protokin, cet apport permet de différencier les difficultés de crédibilité et les difficultés d'intelligibilité, puis d'examiner les conditions dans lesquelles elles affectent la participation aux pratiques descriptives.
+
+L'analyse des catégories, des supports et des procédures constitue un prolongement possible, mais distinct, qui doit être éprouvé dans les situations concernées.
+
+## Références
+
+- Fricker, Miranda. *Epistemic Injustice: Power and the Ethics of Knowing*. Oxford University Press, 2007.
 
 ## Pour poursuivre
 
-- [Injustice épistémique](fr/injustice-epistemique.md)
-- [Injustice herméneutique](fr/injustice-hermeneutique.md)
-- [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md)
-- [Position épistémique](fr/position-epistemique.md)
+- [Injustice épistémique — Crédibilité, interprétation et participation](fr/injustice-epistemique.md)
+- [Injustice herméneutique — Ressources interprétatives et désavantage structurel](fr/injustice-hermeneutique.md)
+- [Position épistémique — Conditions situées de la description](fr/position-epistemique.md)
+- [Pratique collective — Organisation des contributions descriptives](fr/pratique-collective.md)
 - [Support descriptif](fr/support-descriptif.md)
-- [Justification](fr/justification.md)
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
-
-## Référence principale
-
-Fricker, Miranda. *Epistemic Injustice: Power and the Ethics of Knowing*. Oxford University Press, 2007.
+- [Justification — Défendre et réviser un engagement](fr/justification.md)
+- [Table des matières](fr/tdm.md)
