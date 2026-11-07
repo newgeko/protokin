@@ -93,6 +93,9 @@ Lorsqu’une notion est définie dans une page de référence, les autres pages 
 
 Si un terme change de sens ou de fonction entre plusieurs pages, il faut examiner cette variation au lieu de l’harmoniser automatiquement.
 
+Dans Protokin, les termes « auditer » et « auditeur » sont réservés respectivement à une fonction transversale de l’enquête et à une position dans une pratique discursive.
+Le terme « audit » ne désigne pas une démarche autonome, une procédure générale de contrôle ou une catégorie documentaire.
+
 ### 3.3. Exemples et références
 
 Un exemple doit éclairer une distinction ou contribuer à éprouver une proposition. Il ne constitue pas, à lui seul, une preuve générale.
