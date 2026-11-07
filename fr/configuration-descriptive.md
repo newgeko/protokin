@@ -1,163 +1,198 @@
-# Configuration descriptive — Organiser des différences dans une pratique
+# Configuration descriptive — Organiser les ressources d’une description
 
 ## Fonction
 
-La notion de **configuration descriptive** permet d’examiner comment des différences, des catégories, des qualifications et des relations sont organisées dans une pratique descriptive.
+La notion de **configuration descriptive** permet d’examiner comment les différences, les catégories, les qualifications et les relations inférentielles sont organisées dans une pratique descriptive.
 
-Elle désigne l’organisation dans laquelle certaines descriptions deviennent possibles, compréhensibles et discutables. Elle permet d’étudier les rapports entre les éléments mobilisés, sans supposer que leur organisation soit entièrement explicite, cohérente ou adéquate.
+Elle porte sur l’organisation des ressources qui rendent certaines descriptions possibles et permettent de les articuler. Elle aide à comprendre comment une pratique maintient certaines distinctions, associe des qualifications et autorise des conséquences descriptives.
 
-La configuration descriptive peut être déjà stabilisée, partiellement reconstruite ou en cours de révision. Elle n’est ni une étape obligatoire de l’enquête ni un système qui déterminerait à l’avance toutes les descriptions possibles.
+Cette notion permet d’examiner une organisation déjà mobilisée, de reconstruire une organisation partiellement implicite ou d'étudier les transformations qui affectent cette organisation.
 
-## Problème
+Elle ne désigne ni une structure universelle de la description ni un système nécessairement cohérent et complet.
 
-Une pratique descriptive ne mobilise généralement pas ses catégories et ses distinctions de manière isolée. La portée d’une qualification dépend notamment des différences qu’elle maintient, des critères qui permettent de l’appliquer et des conséquences que son usage autorise.
+## 1. Problème
 
-Cette organisation peut rester implicite tant qu’elle permet de traiter les situations rencontrées. Elle devient un objet d’examen lorsqu’une catégorie ne permet plus de distinguer certains cas, que des qualifications entrent en tension ou que les conséquences tirées des descriptions deviennent contestables.
+Une pratique descriptive ne mobilise généralement pas ses catégories et ses distinctions de manière isolée.
 
-Le problème n’est alors pas seulement de corriger une description particulière. Il peut être nécessaire d’examiner l’organisation dont cette description dépend.
+Une qualification prend sa portée dans un ensemble de relations : les différences qu'elle permet de maintenir, les critères qui autorisent son application et les conséquences qui peuvent être tirées de son emploi.
 
-La question directrice est la suivante :
+Cette organisation peut rester implicite tant qu'elle permet de traiter les situations rencontrées. Elle devient un objet d'examen lorsqu'une distinction ne permet plus de différencier certains cas, que plusieurs qualifications entrent en tension ou que les conséquences tirées d'une description deviennent contestables.
 
-**Comment les éléments d’une pratique descriptive sont-ils organisés, et que faut-il modifier lorsque cette organisation ne permet plus de traiter le problème rencontré ?**
+La difficulté ne concerne alors pas nécessairement une description particulière. Elle peut porter sur l'organisation des ressources dont plusieurs descriptions dépendent.
 
-## Définition
+La question est donc :
+
+**Comment les différences, les catégories et les relations mobilisées dans une pratique descriptive s'organisent-elles, et que permet d'établir l'examen de cette organisation ?**
+
+## 2. Définition
 
 Une **configuration descriptive** est une organisation située et révisable de différences, de catégories, de qualifications et de relations inférentielles mobilisées dans une pratique descriptive.
 
-Cette organisation contribue à déterminer quelles distinctions sont disponibles, comment les qualifications peuvent être articulées et quelles conséquences peuvent être tirées de leur emploi dans la pratique concernée.
+Elle contribue à déterminer :
 
-Elle dépend des usages, des apprentissages, des critères, des supports et des engagements qui contribuent à maintenir les distinctions. Elle ne se réduit toutefois à aucun de ces éléments pris séparément.
+- quelles différences sont retenues ;
+- selon quelles catégories les éléments sont regroupés ou distingués ;
+- quelles qualifications peuvent être attribuées ;
+- quelles relations peuvent être établies entre ces qualifications ;
+- quelles conséquences descriptives peuvent être tirées de leur emploi.
 
-Une configuration n’est pas nécessairement formulée comme un ensemble de règles. Des participants peuvent mobiliser des catégories et en tirer des conséquences sans pouvoir expliciter toutes les conditions de leur usage. L’enquête peut rendre certaines de ces relations visibles, mais elle peut également découvrir que l’organisation initialement supposée ne rend pas suffisamment compte de la pratique.
+Ces éléments ne constituent pas les composantes obligatoires de toute configuration. Leur pertinence dépend de la pratique examinée et du problème rencontré.
 
-Une configuration est par ailleurs partielle. Elle organise des ressources descriptives pertinentes pour certains problèmes sans épuiser ce qui peut être observé, éprouvé ou établi à propos d’une situation.
+Une configuration descriptive peut être partiellement implicite. Les participants à une pratique peuvent employer des catégories et tirer certaines conséquences de leur application sans être en mesure d'expliciter l'ensemble des relations qui les organisent.
 
-## Ce qui constitue une configuration descriptive
+Elle peut également comporter des tensions, des distinctions insuffisantes ou des relations dont la portée reste indéterminée.
 
-L’examen d’une configuration porte sur les relations entre les éléments qui interviennent dans une pratique, et non sur leur simple présence dans un inventaire.
+L'enquête ne présuppose donc pas que toute pratique possède une organisation entièrement explicite et cohérente. Elle cherche à établir ce qui peut effectivement être reconstruit à partir des usages, des critères et des conséquences observables.
 
-Trois questions permettent d’en préciser l’organisation :
+## 3. Distinguer la configuration descriptive des notions voisines
 
-- **Différences et catégories :** quelles différences sont retenues, et selon quels critères les occurrences sont-elles distinguées ou regroupées ?
-- **Relations :** comment les qualifications et les catégories se rapportent-elles les unes aux autres ?
-- **Conséquences :** quelles conclusions, comparaisons ou actions deviennent possibles, recevables ou contestables lorsque ces ressources sont mobilisées ?
+### 3.1. Configuration rencontrée
 
-Ces questions ne constituent pas les composantes obligatoires de toute configuration. Elles indiquent des aspects à examiner lorsque le problème les rend pertinents.
+La **configuration rencontrée** désigne la situation sur laquelle porte une enquête, dans les limites provisoirement définies par un problème descriptif.
 
-Une configuration peut être suffisamment stable pour soutenir une pratique sans que toutes ses relations soient explicites. Elle peut aussi comporter des tensions, des catégories d’application incertaine ou des conséquences difficiles à défendre. Ces difficultés ne suffisent pas à établir que l’ensemble est inadéquat : leur portée dépend du problème examiné et des critères disponibles.
+La configuration descriptive concerne l'organisation des ressources mobilisées pour caractériser cette situation.
 
-## Distinctions avec les notions voisines
+Une même configuration rencontrée peut faire l'objet de descriptions différentes. Inversement, une modification de la délimitation de la situation n'entraîne pas nécessairement une transformation de toutes les ressources descriptives mobilisées.
 
-### Configuration rencontrée
+Cette distinction ne suppose pas que la situation soit accessible indépendamment de toute pratique d'examen. Elle permet de différencier ce sur quoi porte l'enquête et l'organisation descriptive à partir de laquelle certains de ses aspects sont caractérisés.
 
-La **configuration rencontrée** désigne la situation examinée dans les limites provisoires d’un problème descriptif. La configuration descriptive concerne l’organisation des ressources utilisées pour caractériser cette situation.
+Voir [Configuration rencontrée](fr/configuration-rencontree.md).
 
-Une situation peut être décrite à partir de plusieurs configurations descriptives. Inversement, l’enquête peut réviser la délimitation de la situation sans que toutes les ressources descriptives mobilisées soient modifiées.
+### 3.2. Configuration sémiotique
 
-Cette distinction ne suppose pas que la situation soit connue indépendamment de toute pratique d’examen. Elle permet de ne pas confondre ce sur quoi porte l’enquête avec l’organisation par laquelle ce qui est examiné est décrit.
+La **configuration sémiotique** permet d'examiner comment des signes, des traces et des différences deviennent reconnaissables et mobilisables dans une pratique.
 
-Voir [Configuration rencontrée](configuration-rencontree.md).
+La configuration descriptive porte plus précisément sur l'organisation des différences, des catégories, des qualifications et des relations inférentielles utilisées pour décrire.
 
-### Configuration sémiotique
+Ces deux configurations peuvent dépendre l'une de l'autre.
 
-La **configuration sémiotique** permet d’examiner comment des signes, des traces et des différences deviennent reconnaissables et mobilisables dans une pratique.
+La reconnaissance d'un signe peut contribuer à une qualification descriptive. Inversement, les catégories déjà mobilisées dans une pratique peuvent orienter la reconnaissance de ce qui compte comme signe ou comme différence pertinente.
 
-La configuration descriptive porte plus précisément sur l’organisation des différences, des catégories, des qualifications et des relations inférentielles utilisées pour décrire.
+Il ne s'agit donc pas de deux étapes successives. Une configuration sémiotique ne produit pas nécessairement une configuration descriptive, et l'organisation descriptive peut intervenir dans les conditions de reconnaissance des signes.
 
-Les deux configurations peuvent dépendre l’une de l’autre. La reconnaissance d’un signe peut contribuer à une qualification, tandis qu’une catégorie descriptive déjà disponible peut orienter la reconnaissance de ce qui compte comme signe. Il n’existe donc pas de succession universelle dans laquelle une configuration sémiotique produirait nécessairement une configuration descriptive.
+Voir [Configuration sémiotique](fr/configuration-semiotique.md).
 
-Voir [Configuration sémiotique](configuration-semiotique.md).
-
-### Description
+### 3.3. Description
 
 Une **description** est une pratique située qui retient et organise certaines différences pour caractériser une situation, un objet ou une relation.
 
-La configuration descriptive désigne l’organisation des ressources dans laquelle cette pratique s’inscrit. Elle ne se confond ni avec l’activité de décrire ni avec le contenu particulier d’une description.
+La configuration descriptive désigne l'organisation des ressources dans laquelle cette pratique s'inscrit. Elle ne se confond ni avec l'activité de décrire ni avec le contenu particulier d'une description.
 
-Une configuration peut rendre certaines descriptions possibles sans qu’elles soient effectivement produites. Réciproquement, une description isolée ne suffit pas toujours à reconstituer l’ensemble des distinctions et des relations mobilisées dans la pratique.
+Une configuration peut rendre certaines descriptions possibles sans qu'elles soient effectivement produites. Inversement, une description particulière ne suffit pas toujours à reconstruire l'organisation des ressources mobilisées dans la pratique.
 
-Plusieurs descriptions peuvent s’appuyer sur une configuration comparable ; une même situation peut aussi être décrite à partir de configurations différentes.
+Plusieurs descriptions peuvent s'appuyer sur une configuration comparable. Une même situation peut également être décrite à partir de configurations différentes.
 
-Voir [Description](description.md).
+Voir [Description](fr/description.md).
 
-### Régime descriptif
+### 3.4. Régime descriptif
 
-Un **régime descriptif** désigne une organisation relativement stabilisée de règles d’usage, de distinctions, d’opérations et de critères qui oriente la production et l’évaluation des descriptions dans une pratique.
+Un **régime descriptif** désigne une organisation relativement stabilisée de règles d'usage, de distinctions, d'opérations et de critères qui oriente la production, l'utilisation et l'évaluation des descriptions dans une pratique.
 
-La configuration descriptive concerne l’organisation des ressources descriptives mobilisées. Le régime descriptif porte plus largement sur les règles et les exigences qui orientent leur usage et leur évaluation.
+La configuration descriptive concerne l'organisation des ressources descriptives mobilisées. Le régime descriptif porte plus largement sur l'organisation de la pratique dans laquelle ces ressources sont utilisées et évaluées.
 
-Les deux notions se recoupent, mais elles ne remplissent pas la même fonction. Une configuration ne suffit pas à caractériser l’ensemble des règles d’une pratique ; l’identification d’un régime ne détermine pas non plus la configuration mobilisée dans chaque situation particulière.
+Une configuration descriptive peut contribuer à un régime sans suffire à le caractériser. L'identification d'un régime ne permet pas non plus de déduire automatiquement la configuration mobilisée dans une situation particulière.
 
-Voir [Régime descriptif](regime-descriptif.md).
+Les deux notions sont donc liées, mais ne sont pas interchangeables.
 
-### Objet descriptif
+Voir [Régime descriptif](fr/regime-descriptif.md).
+
+### 3.5. Objet descriptif
 
 Un **objet descriptif** est une différence stabilisée comme identifiable et réutilisable dans une pratique descriptive.
 
-La configuration descriptive désigne l’organisation dans laquelle des identifications et des qualifications peuvent être produites et reprises. L’objet descriptif correspond à ce qui est maintenu comme identifiable dans cette pratique.
+La configuration descriptive désigne l'organisation des ressources qui rendent certaines identifications et qualifications possibles. L'objet descriptif désigne une différence maintenue comme identifiable dans cette pratique.
 
-Une configuration ne produit pas automatiquement un objet descriptif. La continuité d’une identification doit être établie à partir des critères pertinents ; elle ne se déduit pas de la seule disponibilité d’une catégorie.
+Une configuration ne produit pas automatiquement un objet descriptif. La disponibilité d'une catégorie ne suffit pas à établir qu'une différence est effectivement identifiée, ni que son identification peut être maintenue dans différents contextes.
 
-Voir [Objet descriptif](objet-descriptif.md).
+Inversement, une difficulté concernant la continuité d'un objet descriptif peut conduire à réexaminer la configuration mobilisée pour l'identifier.
 
-## Exemple : classer des incidents techniques
+Voir [Objet descriptif](fr/objet-descriptif.md).
 
-Une équipe de maintenance utilise une classification pour enregistrer les incidents affectant des équipements. Les catégories distinguent, par exemple, les pannes électriques, les défaillances mécaniques et les problèmes de communication entre dispositifs.
+## 4. Exemple : classer des incidents techniques
 
-Cette classification ne constitue pas seulement une liste de termes. L’application des catégories dépend de critères, de relations entre les symptômes observés et les causes envisagées, ainsi que des conséquences pratiques attachées au classement : intervention à prévoir, service à mobiliser ou données à comparer.
+Une équipe de maintenance utilise une classification pour enregistrer les incidents affectant des équipements.
 
-Un incident peut mettre cette organisation en difficulté. Plusieurs catégories semblent applicables, ou aucune ne permet de rendre compte des observations disponibles. L’équipe doit alors examiner les critères d’application, les différences retenues et les conséquences associées aux catégories.
+Les catégories distinguent notamment les pannes électriques, les défaillances mécaniques et les problèmes de communication entre dispositifs.
 
-La révision peut conduire à préciser une catégorie, à distinguer deux cas jusque-là regroupés ou à modifier les relations entre les catégories existantes. Elle peut aussi conduire à constater que les informations recueillies ne suffisent pas à trancher.
+L'application de ces catégories ne repose pas uniquement sur les termes employés. Elle dépend des différences retenues entre les incidents, des critères d'identification et des relations établies entre les symptômes observés et les qualifications proposées.
 
-Cet exemple ne suppose pas qu’une classification doive toujours former un système cohérent et complet. Il montre que l’examen d’une difficulté peut porter sur l’organisation des ressources descriptives, et pas seulement sur le choix d’un terme dans une description particulière.
+Ces qualifications peuvent également autoriser certaines conséquences : comparer des incidents, orienter une intervention ou identifier des équipements nécessitant un examen supplémentaire.
 
-## Articulation avec l’enquête
+Un incident peut mettre cette organisation en difficulté. Plusieurs catégories semblent applicables, ou aucune ne permet de rendre compte des observations disponibles.
 
-La configuration descriptive peut être l’objet d’une enquête lorsque la difficulté rencontrée concerne l’organisation des distinctions, des catégories ou des conséquences mobilisées dans une pratique.
+L'examen peut alors conduire à :
 
-Cette organisation n’a pas besoin d’être connue avant le début de l’examen. Elle peut se préciser à mesure que le problème est délimité, que les éléments pertinents sont identifiés et que les relations entre eux sont examinées. L’enquête peut ainsi faire apparaître une configuration jusque-là partiellement implicite, en proposer une reconstruction ou constater que la première reconstruction doit être révisée.
+- préciser les critères d'application d'une catégorie ;
+- distinguer deux situations jusque-là regroupées ;
+- modifier les relations entre certaines qualifications ;
+- constater que les informations disponibles ne permettent pas de trancher.
 
-L’opération **Configurer** consiste à organiser les éléments et les relations retenus pour rendre l’analyse examinable. La **configuration descriptive** désigne l’organisation examinée ou proposée. La distinction est utile si elle permet de différencier le travail d’organisation de ce sur quoi ce travail porte ; elle ne suppose pas que toute enquête produise une configuration achevée ni que la configuration précède nécessairement l’examen.
+La difficulté ne concerne donc pas nécessairement le choix d'un terme isolé. Elle peut révéler une insuffisance dans l'organisation des différences et des relations mobilisées par la classification.
 
-Les autres opérations de Protokin peuvent contribuer à l’examen de cette organisation. Il n’est toutefois pas nécessaire de les mobiliser toutes, ni de les appliquer dans un ordre fixe. De même, les orientations **Condition, Relation, Fonction et Justification** peuvent aider à différencier certaines questions relatives à la configuration, sans constituer ses quatre composantes obligatoires.
+Cet exemple ne suppose pas que toute configuration descriptive forme un système complet. Il montre pourquoi l'organisation des ressources descriptives peut elle-même devenir un objet d'enquête.
 
-Pour leur fonction respective, voir [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md) et [Quadripartition de l’orientation](quadripartition-de-l-orientation.md).
+## 5. Articulation avec l'enquête
 
-## Limites
+La configuration descriptive peut être examinée lorsque la difficulté rencontrée concerne l'organisation des distinctions, des catégories, des qualifications ou des conséquences mobilisées dans une pratique.
 
-L’identification d’une configuration descriptive ne garantit pas que l’organisation reconstruite corresponde entièrement à la pratique examinée. Une configuration peut rester partiellement implicite, et les éléments disponibles peuvent être insuffisants pour établir certaines relations.
+Son identification ne constitue pas un préalable obligatoire à l'enquête. Elle peut être reconstruite progressivement à partir des usages, des critères et des relations effectivement observés.
 
-Sa cohérence ne garantit pas non plus l’adéquation des descriptions produites. Une organisation peut être cohérente tout en reposant sur des distinctions insuffisantes, des observations inadéquates ou des critères mal adaptés au problème.
+L'opération **Configurer** désigne un travail d'organisation des éléments et des relations retenus au regard du problème examiné.
 
-Il faut donc distinguer :
+La **configuration descriptive** désigne une organisation de ressources descriptives susceptible d'être examinée ou reconstruite.
 
-- la cohérence de l’organisation descriptive ;
-- l’adéquation d’une description à ce qu’elle prétend décrire ;
-- la justification des conclusions tirées dans la pratique.
+Il faut donc distinguer le travail effectué et ce sur quoi il porte. L'opération Configurer ne produit pas nécessairement une configuration descriptive achevée ; une configuration peut être examinée sans que cette opération soit mobilisée de manière explicite ou isolée.
 
-Ces questions peuvent dépendre les unes des autres, mais aucune ne se résout automatiquement par les deux autres.
+Les orientations de l'examen peuvent contribuer à différencier les questions adressées à une configuration :
 
-Enfin, l’existence de plusieurs configurations descriptives ne prouve ni que toutes les descriptions se valent ni qu’une configuration unique doive remplacer les autres. Leur pertinence doit être examinée au regard des problèmes, des usages et des critères concernés.
+- ses conditions de production et de maintien ;
+- les relations entre les éléments qui la composent ;
+- les fonctions des catégories et des qualifications mobilisées ;
+- les raisons permettant de soutenir ou de contester certaines descriptions.
+
+Ces rapports ne constituent pas quatre composantes de toute configuration. Ils ne forment ni une grille obligatoire ni un ordre d'examen.
+
+Pour leur définition et leur articulation avec les opérations, voir [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) et [Orientation de l'examen](fr/orientation-de-l-examen.md).
+
+## 6. Limites et non-conversions
+
+L'identification d'une configuration descriptive ne garantit pas que l'organisation reconstruite corresponde entièrement à la pratique examinée. Certaines relations peuvent rester implicites, contestées ou insuffisamment documentées.
+
+Elle ne garantit pas non plus l'adéquation des descriptions produites.
+
+Il faut distinguer :
+
+- **organisation et cohérence** : une organisation peut présenter des relations suffisamment stables pour être mobilisée sans être pour autant adéquate ;
+- **cohérence et adéquation** : la cohérence d'une configuration ne suffit pas à établir que les descriptions qu'elle rend possibles correspondent à ce qu'elles prétendent décrire ;
+- **application et justification** : l'usage régulier d'une catégorie ne suffit pas à établir la pertinence de ses critères ;
+- **organisation et identification** : la disponibilité d'une catégorie ne suffit pas à établir la stabilisation d'un objet descriptif ;
+- **dépendance et détermination** : le fait qu'une description dépende d'une configuration ne signifie pas que celle-ci détermine intégralement son contenu ou sa validité.
+
+Enfin, plusieurs configurations descriptives peuvent être mobilisées à propos d'une même situation. Cette pluralité ne prouve ni leur équivalence ni leur incompatibilité.
+
+Leur comparaison suppose d'examiner les différences qu'elles retiennent, les fonctions qu'elles remplissent, les conséquences qu'elles autorisent et les critères permettant d'évaluer leurs descriptions.
 
 ## Synthèse
 
-Une configuration descriptive est une organisation située et révisable de différences, de catégories, de qualifications et de relations inférentielles mobilisées dans une pratique.
+Une configuration descriptive est une organisation située et révisable de différences, de catégories, de qualifications et de relations inférentielles mobilisées dans une pratique descriptive.
 
-Elle rend certaines descriptions possibles sans déterminer mécaniquement celles qui seront produites ni garantir leur adéquation. L’enquête peut l’expliciter, la reconstruire, l’éprouver ou la transformer lorsque le problème rencontré le justifie.
+Elle permet d'examiner les ressources qui rendent certaines descriptions possibles et les relations qui organisent leur emploi.
 
-La notion permet ainsi d’examiner l’organisation des ressources descriptives sans la confondre avec la situation examinée, la description produite, l’objet identifié ou les règles plus larges de la pratique.
+Elle ne se confond ni avec la situation examinée, ni avec les signes mobilisés, ni avec la description produite, ni avec le régime plus large de la pratique, ni avec l'objet descriptif qui peut y être stabilisé.
 
-**Une organisation descriptive peut être cohérente sans être adéquate ; son adéquation doit être examinée au regard du problème traité.**
+Son examen permet de reconstruire une organisation, d'en identifier les tensions et d'en éprouver la pertinence. Il ne garantit pas, à lui seul, l'adéquation des descriptions produites.
+
+**Une configuration descriptive organise des possibilités de description ; elle ne suffit pas à établir la validité de ce qui est décrit.**
 
 ---
 
-Pour poursuivre :
+## Pour poursuivre
 
-- [Configuration rencontrée](configuration-rencontree.md)
-- [Configuration sémiotique](configuration-semiotique.md)
-- [Description](description.md)
-- [Objet descriptif](objet-descriptif.md)
-- [Régime descriptif](regime-descriptif.md)
-- [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md)
-- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md)
+- [Configuration rencontrée](fr/configuration-rencontree.md) — Délimiter la situation sur laquelle porte l'enquête.
+- [Configuration sémiotique](fr/configuration-semiotique.md) — Examiner l'organisation des signes et des différences reconnaissables.
+- [Description](fr/description.md) — Distinguer l'activité descriptive, son contenu et la situation décrite.
+- [Objet descriptif](fr/objet-descriptif.md) — Examiner la stabilisation d'une différence comme identifiable.
+- [Régime descriptif](fr/regime-descriptif.md) — Examiner l'organisation plus large d'une pratique descriptive.
+- [Configurer](fr/configurer.md) — Examiner l'opération d'organisation des éléments et des relations.
+- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations et les autres ressources de l'enquête.
+- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Préciser les rapports sous lesquels une configuration peut être examinée.
