@@ -167,7 +167,7 @@ Ces ressources permettent d’étudier comment les différences, les catégories
 
 - [Régime descriptif](fr/regime-descriptif.md) — Examiner les règles, les critères et les pratiques qui organisent une manière de décrire.
 - [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md) — Examiner les rapports entre plusieurs régimes descriptifs.
-- [Identifier un régime](fr/identifier-un-regime.md) — Préciser les indices et les critères mobilisés pour distinguer un régime descriptif.
+- [Identifier un régime](fr/identifier-un-regime.md) — Proposer une démarche pour caractériser provisoirement l’organisation effective d’une pratique descriptive à partir des indices disponibles.
 - [Une première cartographie des régimes descriptifs](fr/une-premiere-cartographie-des-regimes-descriptifs.md) — Proposer des repères indicatifs pour reconnaître différentes manières d'organiser les descriptions, sans constituer une classification des régimes.
 - [Catégories](fr/categories.md) — Examiner comment une pratique regroupe ou distingue des occurrences selon les différences jugées pertinentes.
 - [Taxonomies](fr/taxonomies.md) — Examiner les relations entre catégories, notamment l’inclusion, la différenciation, l’opposition et la complémentarité.
