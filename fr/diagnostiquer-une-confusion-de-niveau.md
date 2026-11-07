@@ -1,141 +1,255 @@
-# Page : diagnostiquer-une-confusion-de-niveau.md
+# Diagnostiquer une confusion de niveau
 
-### Diagnostiquer une confusion de niveau — Protocole d'audit et de surveillance
+## Fonction
 
-#### Fonction
-Dans l'architecture de Protokin, **diagnostiquer une confusion de niveau** désigne l'opération d'enquête et d'audit de second ordre par laquelle l'analyste identifie, caractérise et redresse les déplacements implicites, non médiatisés et clandestins d'une description entre les différents plans d'analyse de la métathéorie. Le diagnostic permet de restituer la clarté et l'étanchéité des espaces de justification en exigeant l'explicitation des conditions de passage entre les supports matériels, les formes sémiotiques, les catégories conceptuelles et les engagements normatifs d'une pratique.
+Cette page propose un instrument pour examiner les passages entre des dimensions distinctes d'une pratique descriptive lorsque ces passages semblent insuffisamment justifiés.
 
-#### Problème conceptuel inaugural
-Une grande partie des dysfonctionnements, des controverses stériles et des apories théoriques au sein des pratiques collectives ne provient pas d'erreurs d'observation empiriques ou d'informations factuellement fausses. Elle provient d'un glissement non conscient d'un niveau d'analyse à un autre. Lorsqu'une description est transférée d'un plan à un autre (par exemple, de l'explication matérielle d'une trace à la validité d'une justification), son apparence de vérité demeure superficiellement intacte alors même que sa juridiction de validité et ses engagements logiques ont été profondément altérés.
+Une confusion de niveau apparaît lorsqu'une proposition, un résultat ou une propriété établis sous un certain rapport sont mobilisés comme s'ils suffisaient à répondre à une question relevant d'un autre rapport, sans que les relations et les médiations nécessaires soient explicitées.
 
-Dès lors, le problème théorique et méthodologique s'énonce ainsi :
-**Comment repérer et invalider les déplacements clandestins d'une description entre des plans d'analyse hétérogènes sans interdire les circulations conceptuelles indispensables au développement des connaissances, et sans s'en remettre à une grille de contrôle extérieure ou arbitraire ?**
+Le diagnostic vise à identifier le passage concerné, à examiner ce qui l'autorise et à préciser la portée de la conclusion qui en est tirée.
 
-Protokin résout cette aporie en posant que le problème n'est pas le passage d'un niveau à un autre, mais l'absence de médiation. Les niveaux descriptifs ne sont pas des couches ontologiques isolées, mais des dimensions de la pratique. Le diagnostic de confusion n'a pas pour but de verrouiller de façon rigide les frontières sémantiques, mais de rendre visibles et traçables les règles de traduction nécessaires pour qu'un déplacement descriptif conserve sa cohérence inférentielle.
+Il ne suppose ni l'existence de niveaux ontologiques séparés ni l'interdiction de passer d'une dimension à une autre. Il porte sur les conditions de ces passages, non sur leur seule existence.
 
-#### Définition fonctionnelle
-Dans l'architecture de Protokin, on appelle **diagnostic de confusion de niveau** :
-**L'opération critique et immanente de second ordre par laquelle l'analyste met au jour le télescopage silencieux de plans descriptifs hétérogènes au sein d'une même assertion ou d'une même procédure, démontrant comment ce glissement non médiatisé invalide les chaînes d'inférence, détruit la cohérence du scorekeeping déontique et produit de faux objets ou de fausses explicitations.**
+## 1. Problème
 
-#### Les six figures canoniques de confusion de niveau
-L'analyse de second ordre s'appuie sur une typologie rigoureuse de six figures typiques d'altération descriptive :
+Une même pratique peut mobiliser des conditions matérielles, des relations causales, des catégories, des supports, des fonctions descriptives et des justifications. Ces dimensions peuvent dépendre les unes des autres sans remplir la même fonction.
 
-1. **Le télescopage entre l'espace des causes (PROTO) et l'espace des raisons (KIN)**
-C'est la confusion la plus massive. Elle consiste à prétendre qu'une explication causale (neurobiologique, physique, statistique) d'un énoncé ou d'un comportement suffit à fonder, à remplacer ou à annuler sa validité normative et sa responsabilité discursive dans l'espace des raisons.
-* *Le coût sémantique* : L'imputabilité et le statut d'agent responsable du locuteur sont dissous sous un déterminisme matériel brut, transformant une raison d'agir en un simple effet physique.
+Une difficulté apparaît lorsqu'une réponse obtenue sous un rapport est utilisée pour trancher une question qui en relève d'un autre.
 
-2. **La confusion entre l'objet descriptif et le support descriptif**
-Elle survient lorsqu'un collectif attribue les propriétés ou la validité d'une description à la matérialité ou à l'autorité du dispositif technique, documentaire ou institutionnel qui la véhicule.
-* *Le coût sémantique* : Un énoncé est validé uniquement parce qu'il est matérialisé par un support (ex : « c'est écrit dans le dossier ou produit par le logiciel, donc c'est médicalement correct »), fétichisant l'inscription et contournant l'évaluation critique des critères.
+Par exemple :
 
-3. **La confusion entre la configuration descriptive et le régime descriptif**
-Elle consiste à supposer que le simple partage d'un espace de dicibilité ou d'un vocabulaire commun (la configuration) implique l'adhésion au même cadre de redevabilité normative et aux mêmes règles de preuve (le régime).
-* *Le coût sémantique* : Les homonymies lexicales masquent les divergences profondes des critères de correction. Par exemple, utiliser le mot « intelligence » dans un régime médiatique et un régime scientifique produit un brouillage inférentiel qui détruit la rigueur de la justification.
+- expliquer les causes d'un comportement ne suffit pas à déterminer si une conduite est justifiée ;
+- constater qu'une information figure dans un dossier ne suffit pas à établir sa validité ;
+- identifier la fonction d'une qualification ne suffit pas à justifier son emploi ;
+- reconstruire l'origine d'une catégorie ne suffit pas à établir qu'elle est aujourd'hui pertinente ou inadéquate.
 
-4. **La confusion entre la description (l'opération) et l'objet décrit (l'invariant)**
-Elle survient lorsqu'un collectif traite une qualification normative ou relationnelle située comme s'il s'agissait d'une propriété physique, biologique ou substantielle immuable déposée dans les choses elles-mêmes.
-* *Le coût sémantique* : C'est le mécanisme de la naturalisation et de la réification. Une coordonnée déontique révisable (ex : la « dangerosité » ou la « méchanceté ») est transformée en une essence permanente de l'individu, masquant sa plasticité et fermant l'enquête.
+Le passage peut être pertinent. Il peut même être nécessaire à l'enquête. Mais il demande que soient précisées les relations qui le rendent recevable et les conclusions qu'il permet effectivement de soutenir.
 
-5. **La confusion entre le niveau individuel et le niveau collectif**
-Elle consiste à expliquer des propriétés normatives émergentes (propres à l'organisation ou au Collective Operating System d'une communauté) par les seules intentions psychologiques ou croyances subjectives privées des agents individuels, ou inversement.
-* *Le coût sémantique* : Elle produit l'individualisation de la rationalité ou la psychologisation des engagements, occultant le rôle des sédimentations, des supports et des routines matérielles collectives qui structurent d'avance le dicible.
+**Le problème n'est donc pas le passage entre des dimensions distinctes, mais l'inférence qui les relie lorsqu'elle demeure insuffisamment établie.**
 
-6. **La confusion entre la genèse historique et la validité pratique**
-Elle consiste à postuler qu'expliciter la trajectoire temporelle ou l'origine sociologique d'une catégorie suffit à annuler son efficacité pratique ou à invalider sa correction au présent, ou inversement à traiter une validité provisoire comme un progrès nécessaire absolu.
-* *Le coût sémantique* : Elle bascule soit dans un historicisme relativiste éliminationniste (qui traite toute catégorie historique comme une « fiction arbitraire » sans effet), soit dans un progrès téléologique linéaire fictif.
+## 2. Définition
 
-#### Protocole opératoire du diagnostic en cinq étapes
-Le diagnostic des confusions de niveaux ne s'applique pas comme une critique dogmatique arbitraire, mais s'exécute selon une séquence d'investigation rigoureuse :
+On appelle **confusion de niveau** une difficulté d'inférence dans laquelle des éléments relevant de fonctions ou de rapports distincts sont traités comme s'ils étaient directement équivalents, ou comme si l'un suffisait à établir ce qui relève de l'autre.
 
-##### Étape 1 : Saisie de l'énoncé et repérage du trouble
-L'enquêteur isole l'assertion problématique dans la situation rencontrée. Il repère s'il y a conflit de critères ou impossibilité pratique de coordonner l'action à partir de cette formulation.
-* *Indicateur* : Une affirmation produit un blocage ou sature les ressources d'évaluation des acteurs.
-* *Pourquoi cette opération est nécessaire ?* Elle permet d'identifier précisément l'énoncé ou la pratique où se manifeste le conflit d'intelligibilité ou l'étouffement de description.
-* *De quoi dépend-elle ?* De la saisie d'un trouble de premier ordre (indétermination pratique, butoir).
-* *Que permet-elle de déterminer ?* L'isolation de la qualification suspecte à examiner de second ordre.
-* *Quel résultat produit-elle ?* La délimitation d'un objet d'analyse net et décentré.
-* *Que rend-elle possible ensuite ?* L'explicitation de l'infrastructure de ses conditions de possibilité.
+Le terme « niveau » désigne ici un rapport d'analyse ou une fonction dans une pratique descriptive. Il ne désigne ni une couche du réel, ni un domaine ontologique autonome, ni une position hiérarchique.
 
-##### Étape 2 : Identification du niveau d'origine
-L'enquêteur identifie le plan descriptif initial qui garantit légitimement la correction de l'énoncé.
-* *Question d'audit* : De quel régime, de quelles conditions matérielles d'inscription et de quels critères de validité cet énoncé tire-t-il sa force logique à l'origine ?
-* *Pourquoi cette opération est nécessaire ?* Pour cartographier le cadre d'origine et ses exigences de redevabilité.
-* *De quoi dépend-elle ?* De l'isolation opérée à l'étape 1.
-* *Que permet-elle de déterminer ?* Les règles de preuve et la structure inférentielle légitimes du domaine d'amont.
-* *Quel résultat produit-elle ?* La mise en lumière de la juridiction normative compétente.
-* *Que rend-elle possible ensuite ?* Le traçage de l'écart par rapport au niveau d'application de dérive.
+Le diagnostic porte sur une proposition, un raisonnement ou un enchaînement déterminé. Il ne suffit pas de constater que plusieurs dimensions sont mobilisées dans une même description pour conclure à une confusion.
 
-##### Étape 3 : Traçage du niveau d'application et de dérive
-L'enquêteur localise le plan d'analyse vers lequel l'énoncé a été clandestinement transféré sans médiation.
-* *Question d'audit* : Dans quel plan ou espace de justification prétend-on appliquer cet énoncé et à quelles fins d'action ?
-* *Pourquoi cette opération est nécessaire ?* Pour mettre en visibilité le déplacement clandestinement opéré.
-* *De quoi dépend-elle ?* Du repérage du niveau d'origine à l'étape 2.
-* *Que permet-elle de déterminer ?* Le glissement conceptuel et la destination de la déviation.
-* *Quel résultat produit-elle ?* La localisation du point précis de collision ou de télescopage de critères.
-* *Que rend-elle possible ensuite ?* L'évaluation précise de la perte sémantique et inférentielle.
+Il faut établir :
 
-##### Étape 4 : Évaluation de la perte inférentielle et sémantique
-L'enquêteur mesure l'impact du glissement. Il analyse les engagements normatifs dissous ou les incompatibilités logiques violées par ce télescopage sauvage.
-* *Question d'audit* : Les critères de correction restent-ils compatibles, ou assiste-t-on à un écrasement sémantique d'un niveau par un autre ?
-* *Pourquoi cette opération est nécessaire ?* Pour quantifier la dégradation de l'espace des raisons et la production de zones de silence.
-* *De quoi dépend-elle ?* Du traçage du déplacement effectué à l'étape 3.
-* *Que permet-elle de déterminer ?* Les engagements normatifs éludés, la dissolution de l'imputabilité ou la fétichisation du support.
-* *Quel résultat produit-elle ?* La preuve du coût logique de la dérive, qualifiant la confusion de pathologique ou d'abusive.
-* *Que rend-elle possible ensuite ?* L'élaboration des connecteurs de redressement.
+- quelles dimensions ou fonctions sont concernées ;
+- quelle proposition est mobilisée dans le passage ;
+- quelle conclusion est tirée ;
+- quelle relation est supposée entre les deux ;
+- si cette relation est suffisamment établie pour autoriser la conclusion.
 
-##### Étape 5 : Exigence de médiation et protocole de traduction
-L'audit formule le diagnostic et indique les conditions sous lesquelles le passage peut être légitimement rétabli.
-* *Résultat* : Exiger soit la suspension de l'énoncé confusionnel, soit la construction d'un connecteur de traduction explicite qui respecte l'indépendance des juridictions normatives.
-* *Pourquoi cette opération est nécessaire ?* Pour restaurer la plasticité, la coordination et la redevabilité collective de la pratique.
-* *De quoi dépend-elle ?* De la démonstration de la perte sémantique de l'étape 4.
-* *Que permet-elle de déterminer ?* Les connecteurs de second ordre permettant une circulation régulée et transparente entre les plans.
-* *Quel résultat produit-elle ?* Le redressement du trouble et la réouverture de l'espace des raisons.
-* *Que rend-elle possible ensuite ?* Le maintien ou la nouvelle stabilisation du régime descriptivement équilibré.
+La confusion peut être partielle. Une proposition peut être pertinente pour une conclusion limitée, mais insuffisante pour une conclusion plus étendue. Le diagnostic doit alors préciser ce qui reste défendable et ce qui dépasse les éléments disponibles.
 
-#### Distinctions conceptuelles nécessaires
+## 3. Figures fréquentes de confusion
 
-##### Confusion de niveau et simple fausseté factuelle
-La différence porte sur la nature de la violation des règles. La simple fausseté est une erreur interne à un régime descriptif donné : l'énoncé viole ses propriétés ou ses critères de correction (par exemple, un médecin qui se trompe dans la lecture d'une constante de tri clinique). La confusion de niveau ne viole pas nécessairement un fait empirique : elle applique des concepts ou des critères parfaitement valides sur un plan (ex : la biochimie) à un autre plan (ex : la responsabilité juridique) où ils sont logiquement inopérants, créant un court-circuit logique.
+Les figures suivantes sont des repères d'examen. Elles ne constituent ni une typologie exhaustive ni des erreurs nécessairement présentes dans toute situation où plusieurs dimensions sont mobilisées.
 
-##### Confusion de niveau et désaccord théorique interne
-La différence porte sur la structure du conflit. Le désaccord interne oppose deux d'descriptions concurrentes au sein d'un même espace de raisons et d'une même configuration (par exemple, deux diagnostics cardiologues différents sur le même ECG). La confusion de niveau oppose des plans d'analyse incompatibles sans médiation, brisant la grammaire même qui permettrait d'arbitrer le désaccord.
+### 3.1. Cause et raison
 
-##### Déplacement médiatisé (légitime) et confusion illégitime (clandestine)
-La différence réside dans la transparence et le contrôle de l'opération. Le déplacement médiatisé (la traduction) est l'opération réglée par laquelle un collectif formule explicitement les conditions sous lesquelles une information physique (PROTO) est convertie en obligation normative (KIN). La confusion de niveau est un déplacement clandestin et aveugle qui traite les deux plans comme s'ils étaient immédiatement équivalents.
+Une explication causale décrit des processus qui contribuent à produire un comportement, une affirmation ou une situation. Une raison est un élément susceptible de soutenir ou de contester une prise de position.
 
-#### Éclairage par les fils rouges pédagogiques
+La confusion apparaît lorsqu'une explication causale est utilisée comme si elle suffisait à établir la justification d'une affirmation, ou à l'annuler.
 
-##### 1. Le patient aux urgences hospitalières
-L'engorgement hospitalier révèle un télescopage aigu de niveaux descriptifs. Une confusion de niveau survient lorsque le régime logistico-comptable de la direction de l'hôpital (gestion de flux, indicateurs financiers de durée de séjour) est importé directement pour invalider ou trancher la décision thérapeutique de l'urgentiste (fondée sur la gravité vitale, plan KIN). Le diagnostic de l'audit démontre que l'administration traite des contraintes de flux (PROTO) comme si elles constituaient des justifications thérapeutiques légitimes (KIN), écrasant la responsabilité du soignant sous une pathologie d'échelle.
+Une cause peut contribuer à expliquer pourquoi une personne soutient une proposition. Cela ne détermine pas si les raisons qu'elle avance sont pertinentes. Inversement, une raison invoquée peut intervenir dans une chaîne causale sans que son rôle justificatif se réduise à cette fonction causale.
 
-##### 2. « Cette personne est dangereuse »
-L'attribution sécuritaire de la dangerosité illustre la confusion entre l'objet descriptif et l'essence naturelle. L'énoncé commet une confusion de niveau en transformant un statut d'imputation et de surveillance relative (produit par le régime policier ou pénitentiaire, plan KIN) en une propriété biologique, cérébrale ou psychologique permanente de l'individu (plan PROTO réifié). Le diagnostic protokinien met au jour cette confusion pour suspendre l'effet cliquet institutionnel qui interdit toute perspective de réhabilitation.
+Le passage entre explication et justification demande donc un examen distinct.
 
-##### 3. « Cette personne est mauvaise »
-Ce jugement moral ordinaire montre la dérive de naturalisation. Dire « elle est mauvaise par nature » convertit une prédication éthique ou une qualification située de comportement déviant en propriété physique intrinsèque du sujet, commettant un glissement non contrôlé de l'espace des raisons (le blâme intersubjectif) vers l'espace des causes (la substance biologique). Le diagnostic d'audit réactive l'enquête en exigeant de séparer le jugement d'action de l'essentialisation de la personne.
+### 3.2. Support et description
 
-##### 4. Le botaniste et le bûcheron dans la forêt
-Le bûcheron et le botaniste partagent le même environnement physique (PROTO) mais opèrent dans deux espaces de raisons disjoints. Une confusion de niveau surviendrait si le botaniste, fort de sa taxonomie phylogénétique mondiale (image scientifique), prétendait invalider le savoir-faire incorporé et localisé du bûcheron concernant la qualité matérielle d'une coupe sous prétexte qu'elle ne respecte pas les critères académiques. Le diagnostic de l'audit bloque ce court-circuit d'échelle en maintenant la validité et la complémentarité de leurs juridictions respectives.
+Un support contribue à conserver, rendre accessible ou mobiliser des ressources descriptives. Il ne se confond ni avec l'inscription qu'il accueille, ni avec la description qui s'y appuie.
 
-#### Limites et vigilances d'audit
-Lors de sa propre performance d'investigation réflexive, l'enquêteur de Protokin applique trois points de vigilance méthodologique face au diagnostic de confusion :
-* **Le dogme de la séparation absolue (L'illusion d'étanchéité totale)** : Croire que les niveaux descriptifs doivent être définitivement séparés et isolés sans communication. Protokin rappelle que le but du diagnostic n'est pas d'interdire les circulations, mais d'exiger des médiations et des traductions explicites.
-* **La dérive psychologisante** : Réduire la confusion de niveau à un biais cognitif individuel, à une erreur d'inattention ou à une faute intellectuelle du locuteur, en oubliant que ces glissements sont le plus souvent induits et verrouillés par la matérialité des supports d'inscription d'une institution (comme des formulaires ou des logiciels administratifs mal calibrés).
-* **L'impérialisme métathéorique (Le biais de surplomb)** : Traiter Protokin comme un méta-régime absolu qui détient la grille ultime de découpage des niveaux, en occultant que la métathéorie est elle-même un régime situé, dont les propres divisions analytiques demeurent révisables au cours de l'auto-audit.
+La confusion apparaît lorsqu'on attribue à un document, à un logiciel ou à un dispositif l'autorité de valider automatiquement ce qu'il contient ou ce qu'il produit.
 
-#### Synthèse finale
+Qu'une information figure dans un dossier établit sa présence dans ce dossier. Cela ne suffit pas à établir son exactitude, sa pertinence ou la validité de la conclusion qui en est tirée.
 
-##### Ce que cette page établit
-Le diagnostic de confusion de niveau en tant qu'opération d'enquête de second ordre, formalisant sa typologie de six figures de télescopage, sa séquence de diagnostic opératoire en l'occurrence de l'enquête et ses critères de vigilance d'audit.
+Il faut examiner la provenance de l'information, les conditions de son inscription, son interprétation et les critères qui permettent de l'utiliser comme appui.
 
-##### Ce qu'elle suppose
-Le principe des dépendances fonctionnelles, les niveaux descriptifs, la distinction entre l'espace des causes et l'espace des raisons, et le protocole général de l'enquête collective.
+Voir [Support descriptif](fr/support-descriptif.md).
 
-##### Ce qu'elle rend possible
-Le diagnostic clinique des pathologies d'altération descriptive (réductions unilatérales et erreurs de catégorie), la conduite méthodique de l'audit des régimes, et l'élaboration de connecteurs de traduction inter-régimes rigoureux.
+### 3.3. Configuration descriptive et régime descriptif
 
-*Séquence établie* : Saisie de l'énoncé → Identification du niveau d'origine → Repérage du glissement → Mesure de la perte inférentielle → Exigence de traduction / Suspension
+Une configuration descriptive concerne l'organisation des différences, des catégories, des qualifications et des relations mobilisées dans une description. Un régime descriptif désigne une organisation relativement stabilisée de règles d'usage, de distinctions, d'opérations et de critères dans une pratique.
 
---------------------------------------------------------------------------------
+La confusion apparaît lorsqu'on déduit de la présence d'une configuration ou d'un vocabulaire partagé que les pratiques concernées relèvent nécessairement du même régime.
 
-Protokin 2026 — version 26.08.191
+Une configuration peut être mobilisée dans plusieurs pratiques. Des pratiques peuvent également partager certaines ressources sans organiser leurs descriptions selon les mêmes règles ou les mêmes critères.
+
+Il faut examiner les usages, les opérations et les critères effectivement mobilisés avant de caractériser l'organisation d'une pratique.
+
+Voir [Configuration descriptive](fr/configuration-descriptive.md) et [Régime descriptif](fr/regime-descriptif.md).
+
+### 3.4. Genèse et validité
+
+La genèse concerne les conditions et les processus par lesquels une description, une catégorie ou un engagement apparaît et se transforme. La validité concerne le jugement porté sur une description au regard de sa prétention, des éléments disponibles et des exigences pertinentes.
+
+La confusion apparaît lorsqu'on traite l'origine historique, sociale ou matérielle d'une description comme une réfutation suffisante de sa validité, ou lorsqu'on invoque sa validité présente pour soustraire sa genèse à l'examen.
+
+Reconstruire l'origine d'une catégorie ne suffit pas à déterminer si elle est adéquate dans son emploi actuel. Inversement, établir qu'une description est défendable dans certaines conditions ne démontre pas que son histoire, ses conditions de production ou ses effets sont sans importance.
+
+Voir [Justification](fr/justification.md).
+
+### 3.5. Description et objet décrit
+
+Une description organise des différences et formule des affirmations à propos d'une situation ou de ce qu'elle vise. Elle ne se confond pas avec ce dont elle parle.
+
+La confusion apparaît lorsqu'une qualification produite et maintenue dans une pratique est traitée comme une propriété intrinsèque dont l'existence serait établie par la seule description.
+
+Il faut toutefois éviter l'erreur inverse : distinguer une description de ce qu'elle vise ne signifie pas que son objet serait inaccessible ou entièrement constitué par les pratiques descriptives.
+
+Le diagnostic demande d'examiner ce qui est affirmé, ce qui est effectivement identifié, les critères mobilisés et les éléments qui soutiennent l'attribution.
+
+Voir [Objet descriptif](fr/objet-descriptif.md).
+
+## 4. Conduire le diagnostic
+
+Le diagnostic peut être conduit à partir des questions suivantes. Elles forment un ensemble de repères, non une séquence obligatoire. Certaines peuvent être examinées conjointement ou reprises lorsque le problème se précise.
+
+### 4.1. Isoler le passage problématique
+
+Relever la proposition, l'argument ou la décision dans lequel une dimension semble être mobilisée pour en établir une autre.
+
+Il faut distinguer ce qui est effectivement affirmé de ce que l'on suppose que l'affirmation implique.
+
+Une formulation ambiguë ne suffit pas à établir une confusion. Il faut déterminer quelle conclusion est effectivement tirée et dans quel contexte.
+
+### 4.2. Identifier les rapports concernés
+
+Préciser les questions auxquelles répondent les éléments mobilisés.
+
+Selon le cas, l'examen peut porter sur les conditions de production, les relations entre éléments, la fonction d'une description, les critères d'application ou les raisons qui soutiennent une conclusion.
+
+Ces rapports peuvent être examinés à l'aide des orientations de Protokin, sans qu'il soit nécessaire de mobiliser systématiquement Condition, Relation, Fonction et Justification.
+
+L'objectif est de préciser les différences pertinentes pour le passage étudié, non de distribuer chaque élément dans une grille préalable.
+
+### 4.3. Reconstruire l'inférence
+
+Expliciter le passage entre l'élément de départ et la conclusion :
+
+- Que permet effectivement d'établir l'élément mobilisé ?
+- Quelle conclusion en est tirée ?
+- Quelle relation est supposée entre les deux ?
+- Quelles prémisses ou médiations supplémentaires seraient nécessaires ?
+- La conclusion porte-t-elle sur le même objet et répond-elle à la même question ?
+
+Cette reconstruction permet de distinguer une relation effectivement établie d'une équivalence simplement présupposée.
+
+### 4.4. Examiner les conditions du passage
+
+Le passage peut être justifié si des relations, des règles ou des éléments supplémentaires permettent de l'établir.
+
+Il faut alors examiner leur pertinence, leur portée et leurs limites. Une médiation ne consiste pas à ajouter une formule de transition : elle doit fournir les raisons ou les éléments qui autorisent effectivement le passage.
+
+L'examen peut notamment conduire à préciser une condition d'application, à établir une relation causale, à expliciter une règle institutionnelle ou à justifier une inférence.
+
+### 4.5. Qualifier le résultat
+
+Le diagnostic peut conduire à plusieurs résultats :
+
+- **Passage justifié** : les relations et les éléments disponibles autorisent la conclusion dans les limites indiquées.
+- **Passage à préciser** : le rapprochement est pertinent, mais certaines conditions ou médiations restent à expliciter.
+- **Passage excessif** : la conclusion dépasse ce que les éléments mobilisés permettent d'établir.
+- **Passage non établi** : les éléments disponibles ne permettent pas de déterminer si la relation invoquée est recevable.
+- **Absence de confusion** : les dimensions sont distinctes, mais leur articulation est suffisamment explicitée et justifiée.
+
+Ces résultats ne constituent pas une classification exhaustive. Ils permettent de préciser le statut du passage examiné sans transformer immédiatement une difficulté locale en défaut général de la pratique.
+
+## 5. Exemple : une information inscrite dans un dossier
+
+Un dossier institutionnel contient la mention suivante : « situation à risque ». Cette mention est ensuite reprise dans une décision qui limite l'accès d'une personne à un dispositif.
+
+Plusieurs éléments doivent être distingués :
+
+- la présence de la mention dans le dossier ;
+- les observations ou les informations à partir desquelles elle a été inscrite ;
+- les critères utilisés pour qualifier la situation ;
+- les règles qui autorisent la reprise de cette qualification ;
+- les raisons qui permettent de défendre la décision prise.
+
+La présence de la mention établit qu'une qualification a été inscrite et conservée. Elle ne suffit pas à démontrer que les informations initiales étaient exactes, que la qualification était justifiée ou que la décision en découle légitimement.
+
+Le passage peut néanmoins être défendable si la qualification repose sur des éléments pertinents, si les règles de reprise sont applicables et si les raisons de la décision sont suffisamment établies.
+
+Le diagnostic ne conclut donc pas que le dossier est sans valeur, que la qualification est nécessairement erronée ou que la décision est illégitime. Il identifie les relations qui doivent être examinées avant de soutenir ces conclusions.
+
+## 6. Distinguer les diagnostics voisins
+
+### Confusion de niveau et erreur factuelle
+
+Une erreur factuelle concerne une affirmation qui ne correspond pas aux éléments pertinents de la situation ou qui résulte d'une observation incorrecte.
+
+Une confusion de niveau concerne le passage entre des dimensions ou des fonctions distinctes. Elle peut exister même si l'information de départ est exacte.
+
+Une donnée exacte peut ainsi être utilisée pour soutenir une conclusion qu'elle ne permet pas d'établir. Inversement, une confusion apparente peut disparaître lorsque les médiations nécessaires sont explicitées.
+
+### Confusion de niveau et erreur de catégorie
+
+L'erreur de catégorie concerne l'application d'une catégorie dans des conditions où son usage ou sa justification ne sont pas établis.
+
+La confusion de niveau concerne le passage entre des dimensions distinctes sans que la relation qui les articule soit suffisamment justifiée.
+
+Les deux diagnostics peuvent se recouper. Une attribution catégorielle inadéquate peut s'accompagner d'un passage injustifié entre une qualification descriptive et une propriété supposée de ce qui est décrit. Ils ne sont cependant pas équivalents.
+
+Voir [Diagnostiquer une erreur de catégorie](fr/diagnostiquer-une-erreur-de-categorie.md).
+
+### Confusion de niveau et réduction descriptive
+
+La réduction descriptive apparaît lorsqu'une description est ramenée à une autre de telle manière que des différences pertinentes deviennent inaccessibles ou que certaines questions ne peuvent plus être examinées.
+
+Une confusion de niveau peut contribuer à une réduction, mais elle n'entraîne pas nécessairement l'absorption d'une description par une autre. Elle peut être locale et concerner un seul passage inférentiel.
+
+Voir [Diagnostiquer une réduction](fr/diagnostiquer-une-reduction.md).
+
+### Confusion de niveau et désaccord
+
+Un désaccord oppose des affirmations, des interprétations ou des conclusions qui ne sont pas tenues pour compatibles par les participants.
+
+Il peut être interne à une même pratique ou concerner des pratiques différentes. Il ne constitue pas, à lui seul, une confusion de niveau.
+
+Le diagnostic devient pertinent lorsque l'argumentation mobilisée pour soutenir une position repose sur un passage entre des dimensions distinctes qui n'est pas suffisamment établi.
+
+## 7. Portée et limites
+
+Le diagnostic permet de rendre explicites les passages qui demandent une justification supplémentaire. Il peut conduire à maintenir une conclusion, à en limiter la portée, à rechercher des éléments manquants, à préciser une relation ou à reprendre une distinction.
+
+Il ne permet pas, à lui seul :
+
+- de déterminer si une description est vraie ou adéquate ;
+- de conclure qu'une proposition est fausse parce qu'elle mobilise plusieurs dimensions ;
+- d'interdire les relations entre conditions, fonctions, descriptions et justifications ;
+- de présupposer que ces dimensions sont indépendantes ou étanches ;
+- de déduire une erreur de la seule différence entre deux questions ;
+- d'établir la validité d'une conclusion en exigeant simplement qu'une médiation soit formulée ;
+- de caractériser à lui seul l'ensemble d'une pratique ou d'un régime descriptif.
+
+Le diagnostic est lui-même une proposition d'analyse. Il doit pouvoir être contesté : la relation tenue pour absente peut être déjà établie, la distinction mobilisée peut être inadaptée ou la conclusion examinée peut avoir une portée plus limitée que celle qui lui a été attribuée.
+
+**La distinction rend le passage examinable ; elle ne l'interdit pas par principe.**
+
+## Synthèse
+
+Diagnostiquer une confusion de niveau consiste à examiner un passage entre des dimensions ou des fonctions distinctes lorsqu'il semble insuffisamment justifié.
+
+Le diagnostic identifie les éléments mobilisés, reconstruit l'inférence et examine les relations ou les médiations qui autorisent la conclusion. Il peut conduire à confirmer le passage, à en limiter la portée, à demander des éléments supplémentaires ou à constater que les données disponibles ne permettent pas de trancher.
+
+Il ne transforme pas les distinctions analytiques en frontières ontologiques et ne fait pas de toute articulation une confusion.
+
+**La continuité des dépendances n'abolit pas la discontinuité des fonctions ; la distinction des fonctions n'interdit pas leur articulation.**
+
+## Pour poursuivre
+
+- [Distinguer](fr/distinguer.md) — Établir les différences nécessaires à l'examen.
+- [Relier](fr/relier.md) — Examiner les relations et les dépendances entre les éléments.
+- [Justifier](fr/justifier.md) — Examiner les raisons et les critères qui soutiennent une conclusion.
+- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Préciser les rapports sous lesquels une situation ou une pratique peut être examinée.
+- [Support descriptif](fr/support-descriptif.md) — Examiner le rôle des supports dans les pratiques descriptives.
+- [Objet descriptif](fr/objet-descriptif.md) — Distinguer l'objet descriptif du référent et de la description.
+- [Configuration descriptive](fr/configuration-descriptive.md) — Examiner l'organisation des ressources d'une description.
+- [Régime descriptif](fr/regime-descriptif.md) — Définir l'organisation relativement stabilisée d'une pratique descriptive.
+- [Les diagnostics de l'enquête](fr/les-diagnostics-de-l-enquete.md) — Situer ce diagnostic parmi les difficultés examinées dans Protokin.
+- [Table des matières](fr/tdm.md) — Retrouver les ressources du corpus.
