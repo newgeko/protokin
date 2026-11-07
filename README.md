@@ -6,85 +6,83 @@
 
 ## Présentation
 
-Nous décrivons des situations, des événements, des organismes, des relations et des pratiques. Pour les identifier, les comparer et les expliquer, nous mobilisons des distinctions, des catégories, des critères et des descriptions.
+Nous décrivons des situations, des événements, des organismes et des pratiques au moyen de distinctions, de catégories, de relations et de critères.
 
-Ces ressources ne suffisent cependant pas toujours à traiter les problèmes rencontrés. Une distinction peut devenir insuffisante, une catégorie être contestée, plusieurs descriptions entrer en conflit ou les raisons invoquées ne plus justifier une conclusion.
+Ces ressources peuvent devenir insuffisantes : une distinction ne permet plus de différencier les cas, une catégorie est contestée, plusieurs descriptions entrent en conflit ou une conclusion ne trouve plus de justification satisfaisante.
 
-**Protokin part de ces difficultés descriptives.** Il propose une démarche d’enquête pour examiner les pratiques concernées, préciser les différences qu’elles retiennent, reconstruire les relations pertinentes et déterminer dans quelles conditions leurs descriptions peuvent être maintenues, contestées ou révisées.
+**Protokin propose d'enquêter sur ces difficultés descriptives.**
 
-Il étudie les conditions, les fonctions et les transformations par lesquelles des pratiques rendent certaines différences descriptibles, discutables, justifiables, stabilisables, contestables et révisables.
+Il examine les conditions dans lesquelles les pratiques descriptives produisent et utilisent leurs distinctions, organisent leurs relations, remplissent certaines fonctions et justifient leurs conclusions.
 
-## L’objet de l’enquête
+Son objectif est de rendre ces pratiques examinables, discutables et révisables.
 
-Protokin ne propose ni une description ultime du monde ni une ontologie générale destinée à fixer par avance ce que sont les choses. Il ne cherche pas davantage à remplacer les descriptions existantes par un vocabulaire unique.
+## Objet et orientation
 
-Son objet est l’examen des pratiques descriptives : la manière dont elles établissent des distinctions, articulent des relations, remplissent certaines fonctions et justifient leurs conclusions.
+Protokin prend pour objet les pratiques descriptives, et non la recherche d'une ontologie générale destinée à fixer par avance ce que sont les choses.
 
-Cet examen doit maintenir une distinction essentielle : **la cohérence d’une description ne suffit pas à établir son adéquation à ce qu’elle prétend décrire.**
+Cette orientation méthodologique ne revient ni à nier l'existence de contraintes indépendantes des descriptions, ni à considérer toutes les descriptions comme équivalentes.
 
-Une description peut être cohérente sans être suffisamment étayée. Elle peut également devoir être révisée lorsque la situation examinée se transforme, lorsque de nouveaux éléments apparaissent ou lorsque les critères employés sont contestés.
+Une distinction demeure centrale :
 
-L’enquête porte donc à la fois sur les transformations de la situation étudiée et sur celles des descriptions utilisées pour l’examiner. Elle n’assimile pas ces deux mouvements.
+**La cohérence d'une description ne suffit pas à établir son adéquation à ce qu'elle prétend décrire.**
 
-Cette orientation est méthodologiquement non ontologique : elle ne fait pas d’une ontologie générale le préalable nécessaire à la résolution des difficultés descriptives. Elle n’exclut ni l’existence de contraintes indépendantes de nos descriptions ni l’examen de questions ontologiques particulières.
+Les descriptions doivent donc être examinées au regard des éléments qu'elles mobilisent, des fonctions qu'elles remplissent, des critères qu'elles invoquent et des conclusions qu'elles permettent de soutenir.
 
 ## Un principe de travail
 
-L’organisation de Protokin repose sur une exigence :
+L'enquête repose sur une exigence :
 
 > **Continuité des dépendances, discontinuité des fonctions, non-conversion.**
 
-Les dimensions d’un problème peuvent dépendre les unes des autres sans remplir la même fonction. Leur articulation ne rend pas leurs réponses interchangeables.
+Des dimensions différentes peuvent dépendre les unes des autres sans devenir interchangeables.
 
-Ainsi :
+Une cause n'est pas une raison. Une condition n'est pas un critère. La genèse d'une description ne suffit pas à justifier son résultat. Son utilité ne garantit pas son adéquation.
 
-- une cause peut expliquer un événement sans constituer une raison de défendre une conclusion ;
-- une condition peut rendre une pratique possible sans constituer un critère de validité ;
-- la genèse d’une description ne suffit pas à justifier son résultat ;
-- l’utilité d’une description ne suffit pas à établir son adéquation.
+Il s'agit de maintenir ces distinctions tout en examinant les relations qui les unissent.
 
-Il ne s’agit pas d’isoler artificiellement ces dimensions, mais d’examiner leurs dépendances sans confondre leurs fonctions.
+## Organisation de l'enquête
 
-**Distinguer sans isoler. Articuler sans convertir.**
+Protokin distingue trois ressources complémentaires :
 
-## L’organisation de l’enquête
+- **Les opérations** : activités mobilisées pour traiter une difficulté descriptive.
+- **Les orientations** : rapports sous lesquels une situation ou une pratique peut être examinée.
+- **Les instruments d'épreuve** : moyens de confronter les descriptions et leurs conclusions aux situations étudiées.
 
-Protokin distingue les opérations de l’enquête, les orientations de l’examen et les ressources qui permettent d’en éprouver les résultats.
+Les opérations principales sont :
 
-Les opérations désignent les activités descriptives mobilisées pour traiter une difficulté. Les orientations précisent sous quels rapports une situation, une pratique ou un résultat peut être examiné. Les instruments d’épreuve permettent de confronter les distinctions et les conclusions aux cas, aux comparaisons et aux reprises.
+**Délimiter · Ancrer · Distinguer · Relier · Configurer · Justifier · Reconstituer · Redélimiter.**
 
-Quatre orientations sont actuellement retenues comme repères de référence :
+Quatre orientations servent actuellement de repères :
 
-- **Condition** — examiner les conditions, les contraintes et les possibilités pertinentes ;
-- **Relation** — examiner les dépendances, les médiations et les rapports entre les éléments concernés ;
-- **Fonction** — examiner le rôle et le travail accomplis par un élément dans une pratique ;
-- **Justification** — examiner les raisons et les critères qui permettent de soutenir ou de contester une conclusion.
+- **Condition** : examiner les conditions et les contraintes.
+- **Relation** : examiner les dépendances et les rapports.
+- **Fonction** : examiner le rôle et le travail accomplis.
+- **Justification** : examiner les raisons et les critères invoqués.
 
-Ces orientations ne sont ni des catégories ontologiques ni des étapes obligatoires. Elles ne constituent pas une classification exhaustive : d’autres rapports d’examen peuvent être distingués si les pratiques étudiées le justifient. Leur mobilisation dépend de la difficulté rencontrée et des questions que l’enquête doit traiter.
+Ces ressources ne constituent ni une procédure obligatoire ni une classification exhaustive. Leur mobilisation dépend du problème rencontré et des besoins de l'enquête.
 
-## Une démarche révisable
+## Un projet révisable
 
-Protokin n’est ni un système fermé ni une procédure garantissant automatiquement la validité de ses résultats.
+Protokin ne garantit pas automatiquement la validité des résultats qu'il contribue à examiner.
 
-Une comparaison, un cas particulier ou une difficulté nouvelle peut révéler une distinction insuffisante, une relation négligée ou une conclusion trop largement formulée. L’enquête doit alors pouvoir reprendre ses opérations et, si nécessaire, redélimiter le problème.
+Ses distinctions, ses opérations et ses instruments peuvent eux-mêmes être discutés et révisés à partir des difficultés rencontrées, des comparaisons et des résultats de l'enquête.
 
-Cette révisabilité ne signifie pas que toutes les descriptions se valent. Les descriptions et les conclusions restent soumises à l’examen des éléments pertinents, des critères mobilisés et de leur adéquation à ce qu’elles prétendent décrire.
+La révisabilité n'implique pas que toutes les descriptions se valent : leurs prétentions restent soumises à l'examen et à la justification.
 
-Les distinctions, les opérations et les instruments de Protokin sont eux-mêmes révisables : ils ne sont pas soustraits à l’exigence qu’ils contribuent à formuler.
+## Entrer dans le projet
 
-## Repères pour entrer dans le projet
+Les principales ressources du corpus remplissent des fonctions distinctes :
 
-Les principales ressources remplissent des fonctions distinctes :
+- [**Introduction générale**](fr/introduction-generale.md) — présente le problème intellectuel et méthodologique.
+- [**Architecture du projet**](fr/architecture-projet.md) — expose l'organisation documentaire du corpus.
+- [**Architecture fonctionnelle de l'enquête**](fr/architecture-fonctionnelle-de-l-enquete.md) — présente les opérations et leurs articulations.
+- [**Orientation de l'examen**](fr/orientation-de-l-examen.md) — précise les différents rapports d'examen.
+- [**Conduire une enquête**](fr/conduire-une-enquete.md) — propose des repères pratiques.
+- [**Table des matières**](fr/tdm.md) — permet de parcourir les ressources du projet.
+- [**Patterns éditoriaux**](patterns.md) — définit les repères de rédaction et de révision.
+- [**Audit du corpus**](pattern-audit.md) — permet d'examiner la cohérence fonctionnelle des ressources.
 
-- [**Introduction générale**](fr/introduction-generale.md) — comprendre le problème de départ, l’orientation et la portée de la démarche.
-- [**Architecture du projet**](fr/architecture-projet.md) — comprendre l’organisation du corpus et les relations entre ses ressources.
-- [**Architecture fonctionnelle de l’enquête**](fr/architecture-fonctionnelle-de-l-enquete.md) — examiner les opérations par lesquelles une difficulté descriptive est traitée et reprise.
-- [**Orientation de l’examen**](fr/orientation-de-l-examen.md) — comprendre les différents rapports sous lesquels une situation, une pratique ou un résultat peut être examiné.
-- [**Table des matières**](fr/tdm.md) — parcourir le corpus et choisir une entrée en fonction de la question étudiée.
-- [**Patterns**](patterns.md) — consulter les principes de rédaction et d’organisation des ressources du projet.
-- [**Audit des patterns**](pattern-audit.md) — examiner les difficultés de cohérence et les points à réviser dans ces principes.
-
-Ces ressources ne constituent pas une succession obligatoire de lectures. Elles permettent d’aborder le projet par son problème, son organisation, le fonctionnement de l’enquête ou les questions soulevées par une situation particulière.
+Ces pages constituent des entrées complémentaires, et non un parcours de lecture obligatoire.
 
 ---
 
