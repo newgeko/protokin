@@ -141,7 +141,7 @@ Ces pages portent sur les ressources linguistiques et inférentielles mobilisée
 - [Substitution](fr/substitution.md) — Examiner ce qui se maintient ou change lorsqu’un élément est remplacé dans un contexte déterminé.
 - [Stabilisation](fr/stabilisation.md) — Examiner le maintien relatif d’une configuration à travers ses reprises et ses variations.
 - [Effet cliquet](fr/effet-cliquet.md) — Examiner les asymétries qui rendent la révision ou l’abandon d’une configuration plus difficile que son maintien.
-- [Indexation et réindexation](fr/indexation-et-reindexation.md.) — Examiner l’ancrage situé d’un signe, sa reprise dans d’autres contextes et la réévaluation des conditions de son interprétation.
+- [Indexation et réindexation](fr/indexation-et-reindexation.md) — Examiner l’ancrage situé d’un signe, sa reprise dans d’autres contextes et la réévaluation des conditions de son interprétation.
 
 ### D. Explication et traduction
 
