@@ -265,7 +265,7 @@ Ces pages présentent des ressources conceptuelles utiles à l’examen des prat
 - [Miranda Fricker](fr/miranda-fricker.md) — Situer sa théorie de l’injustice épistémique, ses analyses du pouvoir identitaire et ses deux formes principales.
 - [Ian Hacking](fr/ian-hacking.md) — Examiner l’historicité des catégories, les effets de boucle des classifications humaines et les styles de raisonnement.
 - [Maurice Merleau-Ponty](fr/maurice-merleau-ponty.md) — Examiner les apports de la phénoménologie corporelle à la compréhension de la perception et du savoir pratique.
-- [Gilbert Simondon](fr/gilbert-simondon.md) — Examiner les notions d’individuation, de métastabilité et de transduction dans l’étude des transformations.
+- [Gilbert Simondon](fr/gilbert-simondon.md) — Présenter l'apport critique de Simondon à l'étude de la genèse, de la métastabilité et de la transformation des configurations.
 - [Francisco Varela](fr/francisco-varela.md) — Examiner l’énaction, l’autonomie du vivant et la production de sens biologique, en distinguant leurs apports à l’étude de la cognition.
 
 ## X. Documents éditoriaux et d’audit
