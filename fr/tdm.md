@@ -253,7 +253,7 @@ Ces pages présentent des ressources conceptuelles utiles à l’examen des prat
 - [Ludwig Wittgenstein](fr/ludwig-wittgenstein.md) — Examiner le rôle des usages, des règles et des formes de vie dans les pratiques de signification.
 - [Wilfrid Sellars](fr/wilfrid-sellars.md) — Examiner la critique du donné et les rapports entre expérience, explication et espace des raisons.
 - [Robert Brandom](fr/robert-brandom.md) — Examiner la pragmatique normative, les engagements, les habilitations et le contenu inférentiel des pratiques discursives.
-- [Joseph Rouse](fr/joseph-rouse.md) — Examiner les rapports entre pratiques scientifiques, matérialité et normativité.
+- [Joseph Rouse](fr/joseph-rouse.md) — Examiner les pratiques scientifiques comme activités matérielles, sociales et normativement organisées, ainsi que leurs interventions et leurs effets politiques.
 - [Ruth Millikan](fr/ruth-millikan.md) — Examiner les fonctions propres et les propositions de la téléosémantique concernant le contenu représentatif.
 - [Richard Rorty](fr/richard-rorty.md) — Examiner la contingence des vocabulaires et la critique de la recherche de fondements ultimes.
 - [Saul Kripke](fr/saul-kripke.md) — Examiner la référence des noms propres, la transmission historique et le problème du suivi des règles.
