@@ -1,235 +1,227 @@
-Comparer deux descriptions
+# Comparer deux descriptions
 
-1. Objet de l’examen
+## Fonction
 
-Comparer deux descriptions consiste à examiner ce qui les distingue, ce qu’elles permettent d’établir et les rapports qu’elles entretiennent au regard d’un problème déterminé.
+Cette page propose une démarche pour comparer deux descriptions particulières au regard d'un problème déterminé.
 
-La comparaison peut porter sur deux énoncés, deux descriptions développées ou deux ensembles de pratiques descriptives. L’objet comparé doit être précisé : ces différentes unités ne permettent pas de tirer les mêmes conclusions.
+Elle permet d'examiner ce que chacune affirme, les différences qu'elle retient, les critères et les éléments sur lesquels elle s'appuie, ainsi que les conclusions qu'il est possible de tirer de leur confrontation.
 
-La comparaison vise à déterminer :
+La comparaison ne présuppose ni que les descriptions sont concurrentes, ni qu'elles sont compatibles, ni que l'une doit être préférée à l'autre. Elle vise à établir ce que leur mise en regard permet de soutenir et dans quelles limites.
 
-- ce que chaque description affirme ou permet de distinguer ;
-- les critères et les éléments sur lesquels elle s’appuie ;
-- les fonctions qu’elle remplit dans la situation étudiée ;
-- les conclusions qu’elle autorise ou que ses utilisateurs en tirent ;
-- les accords, les écarts et les éventuelles incompatibilités entre les deux descriptions ;
-- les limites de ce que leur confrontation permet d’établir.
+## 1. Objet et problème de la comparaison
 
-La comparaison ne présuppose ni que les descriptions sont concurrentes, ni qu’elles sont compatibles, ni que l’une doit être préférée à l’autre.
+Deux descriptions peuvent porter sur une même situation sans sélectionner les mêmes différences, répondre aux mêmes questions ou soutenir les mêmes conclusions.
 
-2. Problème
+Cette diversité ne constitue pas en elle-même un désaccord. Une difficulté apparaît lorsque les descriptions doivent être confrontées pour traiter une question commune, lorsque leurs conclusions divergent ou lorsque leurs critères semblent difficiles à articuler.
 
-Deux descriptions peuvent porter sur une même situation sans sélectionner les mêmes différences, répondre aux mêmes questions ou poursuivre les mêmes fins.
+La comparaison doit donc partir d'un problème identifiable. Il peut s'agir de :
 
-Cette diversité ne constitue pas en elle-même un désaccord. Une difficulté apparaît lorsque les descriptions doivent être confrontées pour traiter une question commune, lorsque leurs conclusions divergent ou lorsque leurs critères semblent incompatibles.
+- comprendre un désaccord ;
+- examiner la portée de deux affirmations ;
+- déterminer si deux descriptions peuvent être utilisées conjointement ;
+- évaluer les raisons avancées pour soutenir une conclusion ;
+- préciser ce que chacune permet d'établir pour une décision.
 
-Il faut alors éviter deux conclusions prématurées.
+La question directrice est la suivante :
 
-La première consiste à considérer qu’une description est supérieure dès lors qu’elle est plus précise, plus stable, plus étendue ou plus utile dans une pratique donnée. Ces propriétés ne sont pertinentes qu’au regard d’un problème et ne suffisent pas, isolément, à établir l’adéquation d’une description.
+**Que permet d'établir la confrontation de ces deux descriptions, compte tenu de ce qu'elles affirment et du problème à traiter ?**
 
-La seconde consiste à considérer que deux descriptions étant différentes, aucune comparaison raisonnée n’est possible. Leurs différences peuvent au contraire permettre de préciser ce que chacune examine, les questions auxquelles elle répond et les limites de sa portée.
+Il faut également préciser ce qui est comparé. Deux énoncés particuliers, deux descriptions développées et deux pratiques descriptives ne constituent pas le même objet d'examen. Cette page porte principalement sur les descriptions particulières. Lorsque la comparaison exige d'examiner l'organisation des pratiques qui les produisent, d'autres ressources peuvent être mobilisées.
 
-La question directrice est donc :
+## 2. Conditions de comparaison
 
-Que permet d’établir la confrontation de deux descriptions, compte tenu de leurs objets, de leurs fonctions, de leurs critères et du problème à traiter ?
+Avant de mettre les descriptions en regard, préciser trois éléments.
 
-3. Conditions d’application
-
-Avant de comparer deux descriptions, il convient de préciser trois éléments.
-
-3.1. Le problème de comparaison
-
-La comparaison doit répondre à une question identifiable. Cherche-t-on à comprendre un désaccord, à évaluer une affirmation, à préparer une décision, à examiner la portée de deux catégories ou à déterminer si deux descriptions peuvent être utilisées conjointement ?
-
-La question détermine les dimensions pertinentes de l’examen. Elle évite de transformer la comparaison en inventaire général des ressemblances et des différences.
-
-3.2. Les descriptions à comparer
-
-Il faut préciser ce qui est effectivement comparé : des énoncés particuliers, des descriptions récurrentes ou des pratiques descriptives plus larges.
-
-Lorsque les descriptions relèvent de pratiques différentes, il peut être nécessaire d’examiner les critères, les supports et les règles d’inférence associés à ces pratiques. Il ne faut cependant pas présupposer que chaque description particulière exprime intégralement un régime descriptif.
-
-3.3. La situation concernée
-
-Il faut établir ce dont parlent les descriptions et dans quelles circonstances elles sont mobilisées.
-
-Deux descriptions peuvent porter sur le même référent tout en répondant à des questions différentes. Elles peuvent aussi employer un même terme sans désigner exactement la même chose. L’identité des mots ne suffit donc pas à établir l’identité des contenus, pas plus que la différence de vocabulaire ne suffit à établir une divergence de fond.
-
-Ces précisions sont provisoires : la comparaison peut révéler que le problème, les descriptions retenues ou leur rapport à la situation ont été mal délimités.
-
-4. Procédure de comparaison
-
-La procédure suivante constitue un guide d’examen, non une séquence obligatoire. Certaines questions peuvent être traitées conjointement ; d’autres peuvent nécessiter un retour sur la délimitation initiale.
-
-4.1. Délimiter la question
+### 2.1. La question examinée
 
 Formuler le problème auquel la comparaison doit répondre.
 
-Préciser ce qui doit être départagé, expliqué ou évalué, ainsi que les conclusions qui seraient pertinentes pour l’enquête.
+Il ne s'agit pas de dresser un inventaire général des ressemblances et des différences, mais de déterminer celles qui comptent pour la question retenue.
 
-Une comparaison ne doit pas chercher à départager toutes les propriétés possibles des descriptions lorsque seules certaines importent pour le problème.
+Une différence peut être importante pour un problème et secondaire pour un autre. La précision, l'étendue ou l'utilité d'une description ne constituent pas des critères de supériorité indépendants de la question étudiée.
 
-4.2. Décrire chaque description séparément
+### 2.2. Les descriptions concernées
 
-Pour chaque description, relever :
+Déterminer ce qui est effectivement comparé et dans quelles conditions les descriptions sont employées.
 
-- ce qu’elle affirme ou distingue ;
-- la situation ou le référent auquel elle se rapporte ;
+Pour chacune, il faut pouvoir identifier, autant que les éléments disponibles le permettent :
+
+- son contenu ou ses affirmations ;
+- ce dont elle traite ;
 - la question à laquelle elle répond ;
-- les critères utilisés pour reconnaître les cas pertinents ;
-- les éléments, observations ou supports sur lesquels elle s’appuie ;
-- les conclusions qu’elle permet de tirer ;
-- sa fonction dans la pratique considérée.
+- les circonstances dans lesquelles elle est produite ou utilisée.
 
-Cette première analyse permet de ne pas réduire une description à sa formulation littérale. Elle ne doit toutefois pas attribuer à celle-ci des engagements qui ne peuvent être établis à partir de son usage, de ses règles ou des pratiques concernées.
+Il ne faut pas présupposer que deux formulations différentes expriment des contenus différents. Inversement, des formulations proches peuvent engager des affirmations ou des conséquences distinctes.
 
-4.3. Identifier les différences pertinentes
+### 2.3. La situation et le rapport au référent
 
-Comparer les descriptions en fonction du problème retenu.
+Préciser si les descriptions portent sur le même référent, la même situation, le même aspect ou seulement sur des éléments liés.
 
-Les différences peuvent concerner :
+Deux descriptions peuvent concerner un même référent sans porter sur les mêmes propriétés. Elles peuvent également employer un même terme sans lui attribuer le même contenu.
 
-- les éléments sélectionnés ;
-- la précision des distinctions ;
-- l’étendue des situations couvertes ;
-- les critères de correction ;
-- les relations et les inférences mobilisées ;
-- les fonctions exercées ;
-- les conditions dans lesquelles les descriptions peuvent être révisées.
+L'identité du référent ne garantit donc ni l'identité des questions ni la comparabilité immédiate des affirmations. La différence de vocabulaire ne suffit pas davantage à établir une divergence de fond.
 
-Toutes les différences ne sont pas pertinentes pour toute enquête. Une différence de vocabulaire peut recouvrir une fonction comparable ; une formulation proche peut, à l’inverse, engager des critères ou des conclusions distincts.
+Ces précisions restent révisables : la comparaison peut révéler que les descriptions ou le problème initial ont été mal délimités.
 
-4.4. Examiner les critères et les conclusions
+## 3. Conduire la comparaison
 
-Identifier les critères employés dans chaque description et déterminer ce qu’ils permettent effectivement d’établir.
+La démarche suivante constitue un guide d'examen, non une séquence obligatoire. Certaines questions peuvent être traitées conjointement ; d'autres peuvent conduire à reprendre la délimitation initiale.
 
-Il faut notamment demander :
+### 3.1. Examiner chaque description séparément
 
-- quelles observations ou quelles prémisses soutiennent les affirmations ;
-- quelles règles permettent de passer de ces éléments aux conclusions ;
-- si ces règles sont recevables pour le problème étudié ;
-- si les critères sont appliqués de manière comparable dans les cas pertinents ;
-- quelles conclusions nécessitent des informations ou des justifications supplémentaires.
+Avant de les comparer, reconstruire ce que chacune permet effectivement d'affirmer.
 
-La comparaison ne consiste pas à appliquer automatiquement les critères d’une description à l’autre. Elle consiste à déterminer si ces critères sont pertinents pour la question commune et dans quelles conditions une confrontation est possible.
+Pour chaque description, examiner :
 
-4.5. Examiner les rapports entre les descriptions
+- les éléments qu'elle sélectionne ;
+- les distinctions et les catégories qu'elle mobilise ;
+- les critères employés ;
+- les observations, les données ou les autres appuis disponibles ;
+- les inférences et les conclusions qu'elle autorise ;
+- les usages ou les fonctions qu'elle remplit dans la situation considérée.
 
-À partir des éléments recueillis, caractériser leur relation. Plusieurs situations sont possibles :
+Cette analyse évite de réduire une description à sa formulation littérale. Elle ne permet cependant pas d'attribuer à celle-ci des engagements qui ne peuvent être établis à partir de son contenu et de son usage.
 
-- Différence sans conflit : les descriptions sélectionnent des aspects distincts sans produire de conclusions incompatibles.
-- Complémentarité possible : chacune apporte des éléments utiles au traitement du problème, sous réserve que leur articulation soit effectivement établie.
-- Compatibilité partielle : les descriptions peuvent être utilisées conjointement dans certaines limites, mais pas pour toutes leurs affirmations ou tous leurs usages.
-- Conflit localisé : certaines affirmations ou certains critères entrent en tension dans un domaine précis.
-- Incompatibilité établie : deux affirmations ne peuvent être maintenues conjointement dans les conditions considérées, compte tenu des mêmes éléments pertinents et des engagements en jeu.
-- Rapport indéterminé : les éléments disponibles ne permettent pas de caractériser suffisamment la relation.
+### 3.2. Identifier les différences pertinentes
 
-Ces catégories servent à préciser le résultat de l’examen. Elles ne constituent pas une classification exhaustive, et une même comparaison peut faire apparaître plusieurs types de relations.
+Mettre les descriptions en regard à partir de la question retenue.
 
-4.6. Évaluer les conséquences pour le problème
+Les différences peuvent porter sur :
 
-Déterminer ce que la comparaison permet de décider, de maintenir ou de réviser.
+- les aspects de la situation sélectionnés ;
+- les catégories et les distinctions mobilisées ;
+- les critères d'évaluation ;
+- les observations et les éléments retenus ;
+- les inférences et les conclusions ;
+- la portée des affirmations ;
+- les usages auxquels les descriptions sont destinées.
 
-Il peut être nécessaire de préciser le domaine dans lequel une description est pertinente, de limiter une conclusion, de recueillir de nouveaux éléments ou de revoir la question initiale.
+Toutes ces dimensions ne sont pas nécessairement pertinentes. Une comparaison doit retenir celles qui contribuent à traiter le problème, sans imposer une grille uniforme aux deux descriptions.
 
-La comparaison peut également montrer que le désaccord ne porte pas sur les mêmes objets, que les critères utilisés ne répondent pas à la même question ou que les informations disponibles sont insuffisantes pour trancher.
+Une différence de précision peut, par exemple, être déterminante lorsqu'il faut distinguer des cas proches, mais secondaire lorsque la question porte sur une tendance générale. De même, deux descriptions peuvent employer des critères différents parce qu'elles répondent à des questions différentes.
 
-Elle ne garantit donc pas qu’une description doive être retenue à l’exclusion de l’autre.
+### 3.3. Examiner les appuis et les conclusions
 
-5. Questions de contrôle
+Déterminer ce qui soutient les affirmations et quelles conclusions peuvent en être tirées.
 
-Au cours de l’examen, les questions suivantes peuvent servir de points de contrôle :
+Il faut notamment examiner :
 
-Dimension| Questions
-Objet| Les descriptions portent-elles sur le même référent, la même situation ou le même aspect du problème ?
-Sélection| Quelles différences chacune retient-elle, et lesquelles laisse-t-elle de côté ?
-Fonction| À quelle question pratique ou descriptive chacune répond-elle ?
-Critères| Selon quels critères les affirmations sont-elles évaluées ?
-Inférences| Quelles conclusions sont autorisées, et lesquelles sont effectivement tirées ?
-Appuis| Quels éléments soutiennent les affirmations et quelles limites présentent-ils ?
-Révision| Comment chaque description peut-elle être contestée, corrigée ou révisée ?
-Conséquences| Qu’est-ce que leur confrontation permet d’établir pour le problème initial ?
+- les observations ou les prémisses mobilisées ;
+- les règles qui permettent de passer de ces éléments aux conclusions ;
+- les conditions dans lesquelles ces règles sont pertinentes ;
+- les informations qui manquent éventuellement ;
+- les raisons supplémentaires nécessaires pour défendre une conclusion.
 
-Cette grille est indicative. Il n’est pas nécessaire de renseigner toutes les dimensions si certaines ne sont pas pertinentes pour la question étudiée.
+La comparaison ne consiste pas à appliquer automatiquement les critères d'une description à l'autre. Elle doit établir si les critères mobilisés répondent à la question commune et dans quelles conditions ils peuvent être confrontés.
 
-6. Règles d’interprétation
+Il importe également de distinguer les conclusions que les prémisses et les règles autorisent de celles que les acteurs tirent effectivement.
+
+### 3.4. Caractériser le rapport entre les descriptions
+
+À partir des éléments examinés, préciser la relation qui peut être établie.
+
+Plusieurs situations sont possibles :
+
+- **Différence sans conflit** : les descriptions retiennent des aspects ou répondent à des questions distinctes sans soutenir d'affirmations incompatibles.
+- **Compatibilité** : leurs affirmations peuvent être maintenues conjointement dans les conditions considérées.
+- **Complémentarité** : chacune apporte une contribution utile à un problème commun, et les conditions de leur articulation peuvent être précisées.
+- **Conflit localisé** : certaines affirmations, certains critères ou certaines conclusions entrent en tension sur un point déterminé.
+- **Incompatibilité** : des affirmations ne peuvent être maintenues conjointement dans le même sens et sous les mêmes conditions.
+- **Rapport indéterminé** : les éléments disponibles ne permettent pas de caractériser suffisamment leur relation.
+
+Ces possibilités ne forment pas une classification exhaustive. Une même comparaison peut faire apparaître une compatibilité sur certains points et un conflit sur d'autres.
+
+Il faut notamment distinguer une contradiction entre affirmations d'une divergence entre décisions. Deux descriptions peuvent être compatibles alors que les décisions prises à partir d'elles diffèrent, parce que les finalités ou les critères de décision ne sont pas les mêmes.
+
+La complémentarité ne doit pas être déduite de la seule différence entre les descriptions. Elle suppose que leurs contributions respectives puissent effectivement être mises au service d'une question commune.
+
+### 3.5. Déterminer les conséquences pour le problème
+
+Préciser ce que la comparaison permet de maintenir, de limiter ou de réviser.
+
+Elle peut conduire à :
+
+- maintenir les deux descriptions dans leurs domaines respectifs ;
+- préciser la portée de certaines affirmations ;
+- identifier un désaccord et en localiser les raisons ;
+- recueillir de nouveaux éléments ;
+- demander une justification supplémentaire ;
+- revoir la question initiale lorsque celle-ci ne permet pas de comparer les descriptions de manière pertinente.
+
+La comparaison ne garantit donc pas qu'une description doive être retenue à l'exclusion de l'autre. Elle peut aussi établir que les éléments disponibles ne permettent pas encore de trancher.
+
+## 4. Règles d'interprétation
 
 Les résultats de la comparaison doivent respecter plusieurs distinctions.
 
-Différence ne signifie pas incompatibilité. Deux descriptions peuvent sélectionner des aspects distincts d’une même situation sans se contredire.
+- **Différence et incompatibilité** : deux descriptions différentes ne se contredisent pas nécessairement.
+- **Différence de vocabulaire et différence de contenu** : des termes différents peuvent remplir une fonction comparable ; un même terme peut recouvrir des contenus distincts.
+- **Compatibilité et complémentarité** : des affirmations compatibles ne contribuent pas nécessairement ensemble à un problème commun.
+- **Complémentarité et adéquation** : deux descriptions peuvent contribuer à une même enquête sans que toutes leurs affirmations soient établies.
+- **Précision et supériorité** : une description plus détaillée peut être mieux adaptée à une question et moins pertinente pour une autre.
+- **Utilité et validité** : faciliter une action ne suffit pas à justifier toutes les affirmations d'une description.
+- **Cohérence et adéquation** : la cohérence interne d'une description ne suffit pas à établir son adéquation à ce qu'elle prétend décrire.
+- **Reconnaissance institutionnelle et justification** : le statut reconnu d'une description ne suffit pas à établir la validité de ses conclusions.
 
-Complémentarité ne signifie pas adéquation générale. Deux descriptions peuvent contribuer conjointement à un problème sans que toutes leurs affirmations soient établies.
+La comparaison doit enfin distinguer ce que les descriptions permettent d'affirmer, les raisons qui soutiennent ces affirmations et les conséquences que leurs utilisateurs en tirent. Ces éléments peuvent dépendre les uns des autres sans être équivalents.
 
-Précision ne signifie pas supériorité générale. Une description plus détaillée peut être mieux adaptée à une question et moins pertinente pour une autre.
+## 5. Exemple : un trajet rapide
 
-Utilité ne signifie pas validité. Une description peut faciliter une action sans que cela suffise à justifier toutes les affirmations qu’elle contient.
+Deux descriptions concernent le même trajet :
 
-Cohérence ne signifie pas adéquation. Une description peut être cohérente dans son organisation tout en reposant sur des distinctions inadéquates ou sur des prémisses insuffisamment établies.
+- « Le trajet dure vingt minutes. »
+- « Le trajet est rapide. »
 
-Reconnaissance institutionnelle ne signifie pas justification. Le fait qu’une description soit reconnue ou privilégiée dans une pratique constitue un élément pertinent pour comprendre son usage et son autorité, mais ne suffit pas à établir la validité de ses conclusions.
+La première indique une durée. La seconde formule une appréciation.
 
-Enfin, une conclusion autorisée par les règles et les prémisses mobilisées ne doit pas être confondue avec une conclusion effectivement tirée. La comparaison doit préciser ce qu’elle établit, les engagements dont elle dépend et les questions qu’elle laisse ouvertes.
+La durée peut être établie à partir d'une mesure effectuée dans certaines conditions : itinéraire, horaire, mode de déplacement et conditions de circulation. L'appréciation de rapidité suppose, quant à elle, un point de comparaison ou une attente : rapide par rapport à quel autre trajet, à quelle distance ou à quelle contrainte ?
 
-7. Exemple : le botaniste et le bûcheron
+Les deux descriptions ne se contredisent pas. La mesure de vingt minutes peut contribuer à justifier l'appréciation de rapidité, mais elle ne suffit pas à elle seule. Un trajet de vingt minutes peut être rapide dans un contexte et long dans un autre.
 
-Un botaniste et un bûcheron examinent le même arbre.
+Si une personne conteste la qualification de « rapide », la comparaison doit donc examiner le point de référence utilisé, les conditions de mesure et la question à laquelle l'appréciation répond.
 
-Le botaniste s’intéresse notamment à l’espèce, à l’état biologique et au développement de l’arbre. Le bûcheron examine sa structure, ses dimensions, son état mécanique et les conditions d’un éventuel abattage.
+L'exemple montre qu'une description quantitative et une qualification évaluative peuvent être compatibles sans être équivalentes. Il ne permet pas de déduire une appréciation générale de la seule mesure.
 
-Leurs descriptions diffèrent, mais cette différence ne suffit pas à établir un désaccord. Elles peuvent répondre à des questions distinctes.
+## 6. Portée et limites de la comparaison
 
-Supposons maintenant que l’arbre penche au-dessus d’une habitation et qu’il faille évaluer le risque qu’il représente.
+Le résultat d'une comparaison doit préciser :
 
-La comparaison doit alors préciser les informations pertinentes pour cette question. L’identification botanique peut apporter des éléments sur l’espèce et l’état de l’arbre. L’examen technique peut apporter des éléments sur sa structure, son inclinaison et les conditions d’une intervention. Il faut encore déterminer quelles informations permettent d’évaluer sa stabilité, quelles conséquences sont envisagées et selon quels critères le risque doit être apprécié.
-
-Il ne suffit pas d’affirmer que les deux descriptions sont complémentaires parce qu’elles proviennent de deux expertises différentes. Il faut examiner ce que chacune établit, ce qui lui manque et comment les éléments peuvent être mis en relation.
-
-Si leurs conclusions divergent, l’enquête doit localiser le désaccord : porte-t-il sur les observations, sur leur interprétation, sur les critères employés ou sur la décision à prendre ? Il peut nécessiter des observations supplémentaires ou une expertise distincte.
-
-La comparaison ne désigne donc pas à l’avance la description la plus puissante. Elle précise ce que chacune permet d’établir pour la question posée et les raisons pour lesquelles une conclusion peut être maintenue ou contestée.
-
-8. Limites de l’instrument
-
-La comparaison ne fournit pas, à elle seule, un critère universel permettant de classer toutes les descriptions.
-
-Elle ne garantit pas :
-
-- que les descriptions portent sur un objet identique ;
-- qu’elles puissent être traduites dans un vocabulaire commun ;
-- que leurs critères soient directement comparables ;
-- que les informations disponibles permettent de trancher ;
-- que l’une des descriptions soit globalement préférable ;
-- que la décision résultant de la comparaison soit automatiquement justifiée.
-
-Lorsque les descriptions mobilisent des critères différents, il faut examiner si une question commune permet de les confronter, si certaines de leurs conclusions peuvent être comparées ou si le désaccord exige un examen supplémentaire. L’absence de critère commun immédiatement disponible ne suffit pas à établir une incommensurabilité définitive.
-
-La comparaison est elle-même une opération située. Le choix des descriptions, la formulation du problème et la sélection des critères peuvent être contestés. Ils doivent donc rester accessibles à la critique et, si nécessaire, être révisés.
-
-Enfin, la comparaison ne remplace ni l’identification d’un régime descriptif, ni l’analyse des relations entre plusieurs régimes, ni l’évaluation d’une traduction entre eux. Elle peut mobiliser ces examens lorsqu’ils sont nécessaires, sans se substituer à leur fonction propre.
-
-9. Résultat attendu et articulation avec l’enquête
-
-À l’issue de la comparaison, le résultat doit préciser :
-
-- la question examinée ;
-- les descriptions effectivement comparées ;
+- le problème examiné ;
+- les descriptions effectivement mises en regard ;
 - les différences pertinentes identifiées ;
 - les critères et les éléments mobilisés ;
-- la nature du rapport établi entre les descriptions ;
+- la relation établie entre les descriptions ;
 - les conclusions soutenues et leurs limites ;
 - les incertitudes ou les examens supplémentaires nécessaires.
 
-Ce résultat peut conduire à maintenir les deux descriptions, à en limiter la portée, à préciser un désaccord, à réviser une conclusion ou à redélimiter le problème.
+La comparaison ne fournit pas un critère universel permettant de classer toutes les descriptions. Elle ne garantit pas :
 
-La comparaison s’articule ainsi avec plusieurs opérations de l’enquête : Délimiter, pour préciser la question ; Distinguer, pour identifier les différences pertinentes ; Relier, pour examiner les rapports entre les éléments ; Justifier, pour contrôler les conclusions ; Reconstituer et Redélimiter, lorsque les résultats conduisent à reprendre l’analyse.
+- que les descriptions portent sur un référent identique ;
+- que leurs critères soient directement comparables ;
+- qu'elles puissent être traduites dans un vocabulaire commun ;
+- que les informations disponibles permettent de trancher ;
+- que l'une soit globalement préférable à l'autre ;
+- que la décision résultant de leur confrontation soit automatiquement justifiée.
 
-Cette articulation ne fait pas de la comparaison une étape obligatoire de toute enquête. Elle indique les opérations susceptibles d’être mobilisées selon le problème rencontré.
+Lorsque les descriptions proviennent de pratiques différentes, il peut devenir nécessaire d'examiner l'organisation de ces pratiques. Cela suppose toutefois un autre niveau d'analyse : comparer deux descriptions ne revient pas à identifier deux régimes descriptifs.
 
-Pour approfondir :
+De même, lorsque le problème porte sur les relations entre plusieurs régimes, la comparaison particulière ne suffit plus. Elle peut contribuer à cet examen sans remplacer l'analyse de leurs relations.
 
-- "Identifier un régime descriptif" (identifier-un-regime.md)
-- "Écologie des régimes descriptifs" (ecologie-des-regimes-descriptifs.md)
-- "Architecture fonctionnelle de l’enquête" (architecture-fonctionnelle-de-l-enquete.md)
-- "Quadripartition de l’orientation" (quadripartition-de-l-orientation.md)
+La comparaison est elle-même située. Le choix des descriptions, la formulation du problème et la sélection des critères peuvent être discutés et révisés.
 
-Comparer deux descriptions, ce n’est pas décider d’avance laquelle l’emporte : c’est établir ce que leur confrontation permet de soutenir, pour quel problème et dans quelles limites.
+## Synthèse
+
+Comparer deux descriptions consiste à examiner ce que chacune affirme, les différences qu'elle retient, les raisons qui soutiennent ses conclusions et les rapports qu'elle entretient avec l'autre au regard d'un problème déterminé.
+
+La comparaison ne présuppose ni concurrence ni compatibilité. Elle peut établir une différence sans conflit, une compatibilité, une complémentarité circonscrite, un désaccord ou l'insuffisance des éléments disponibles.
+
+Elle ne désigne pas à l'avance la description qui doit l'emporter. Elle précise ce que leur confrontation permet de soutenir, pour quelle question et dans quelles limites.
+
+## Pour poursuivre
+
+- [Identifier un régime](fr/identifier-un-regime.md) — Caractériser l'organisation effective d'une pratique descriptive lorsque l'examen dépasse les descriptions particulières.
+- [Régime descriptif](fr/regime-descriptif.md) — Définir l'organisation relativement stabilisée d'une pratique descriptive.
+- [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md) — Examiner les relations entre plusieurs régimes descriptifs.
+- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Préciser les rapports sous lesquels une description ou une situation peut être examinée.
+- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations et les autres ressources mobilisables dans l'enquête.
+- [Le botaniste et le bûcheron](fr/botaniste-bucheron.md) — Examiner un cas où des descriptions issues de pratiques différentes doivent contribuer à une même situation et à une décision.
