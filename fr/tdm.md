@@ -248,7 +248,7 @@ Les études de cas permettent d’examiner des distinctions, des descriptions et
 
 Ces pages présentent des ressources conceptuelles utiles à l’examen des pratiques descriptives. Elles ne constituent ni les fondements de Protokin ni des autorités qui garantiraient ses conclusions.
 
-- [John Dewey](fr/john-dewey.md) — Examiner l’enquête comme traitement situé de situations problématiques et comme transformation des habitudes.
+- [John Dewey](fr/john-dewey.md) — xaminer l’enquête comme transformation de situations problématiques, le rôle des habitudes et les rapports transactionnels entre organisme et environnement.
 - [Charles Sanders Peirce](fr/charles-sanders-peirce.md) — Examiner les rapports entre clarification pragmatique, signes, habitudes et révision des croyances.
 - [Ludwig Wittgenstein](fr/ludwig-wittgenstein.md) — Examiner le rôle des usages, des règles et des formes de vie dans les pratiques de signification.
 - [Wilfrid Sellars](fr/wilfrid-sellars.md) — Examiner la critique du donné et les rapports entre expérience, explication et espace des raisons.
