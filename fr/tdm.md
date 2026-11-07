@@ -81,7 +81,6 @@ Ces ressources permettent d’examiner les différents rapports sous lesquels un
 - [Butoir](fr/butoir.md) — Examiner les contraintes qui limitent certaines descriptions, opérations ou inférences.
 - [Niche biologique](fr/niche-biologique.md) — Examiner les relations entre organismes et environnement, la construction de niche et les rétroactions qui affectent les conditions de maintien d’une activité.
 - [RDRD et entrée perceptive](fr/rdrd-et-entree-perceptive.md) — Examiner les dispositions de discrimination, les réponses perceptives et leurs limites pour justifier une description.
-- [Position](fr/position.md) — Caractériser une configuration descriptive à un moment donné d’une pratique, sans la confondre avec sa trajectoire.
 - [Position épistémique](fr/position-epistemique.md) — Examiner les ressources et les contraintes qui affectent la production et l’évaluation des descriptions.
 
 ### C. Temporalité et transformation
@@ -157,6 +156,7 @@ Ces ressources permettent d’étudier comment les différences, les catégories
 ### A. Configurations
 
 - [Configuration](fr/configuration.md) — Définir une organisation déterminée d’éléments, de relations et de dépendances pertinente pour un problème descriptif.
+- [Position](fr/position.md) — Caractériser une configuration descriptive à un moment donné d’une pratique, sans la confondre avec sa trajectoire.
 - [Configuration descriptive](fr/configuration-descriptive.md) — Examiner l’organisation des éléments retenus dans une description.
 - [Configuration rencontrée](fr/configuration-rencontree.md) — Examiner la configuration sur laquelle porte l’enquête, indépendamment de la manière dont elle sera décrite.
 - [Configuration sémiotique](fr/configuration-semiotique.md) — Examiner comment des différences deviennent reconnaissables et mobilisables comme signes dans une pratique.
