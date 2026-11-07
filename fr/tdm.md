@@ -21,7 +21,7 @@ Ces pages présentent l’orientation de Protokin, son problème de départ, ses
 - [Ce que Protokin ne prétend pas faire](fr/ce-que-protokin-ne-pretend-pas-faire.md) — Délimiter les conclusions que l’enquête ne peut établir à elle seule.
 - [Nom, origine et portée](fr/nom-origine-portee.md) — Examiner le choix du nom Protokin et les limites des rapprochements qu’il suggère.
 - [Architecture du projet](fr/architecture-projet.md) — Présenter l’organisation documentaire du corpus et la fonction respective de ses ressources.
-- [Enquête et organisation des notions](fr/enquete-et-organisation-des-notions.md) — Expliquer comment les notions du corpus sont mobilisées et examinées dans la démarche d'enquête
+- [Enquête et organisation des notions](fr/enquete-et-organisation-des-notions.md) — Expliquer comment les notions du corpus sont mobilisées et examinées dans la démarche d'enquête.
 - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Distinguer les catégories, les opérations, les orientations, les fonctions transversales et les instruments d’épreuve.
 - [Parcours de lecture](fr/parcours-de-lecture.md) — Proposer des parcours d’accès au corpus selon les questions du lecteur.
 - [Pourquoi ne pas alourdir l’enquête ?](fr/pourquoi-ne-pas-alourdir-l-enquete.md) — Examiner quand une distinction, une catégorie ou un contrôle supplémentaire apporte réellement quelque chose à l’enquête.
@@ -67,7 +67,7 @@ Cet ordre n’est ni une procédure obligatoire ni une progression nécessaire. 
 - [Reconstituer](fr/reconstituer.md) — Rendre le cheminement de l’enquête intelligible et réexaminable à partir des éléments disponibles.
 - [Redélimiter](fr/redelimiter.md) — Réexaminer la formulation et le périmètre du problème à la lumière des résultats et des difficultés de l’enquête.
 
-## III. Examiner les orientations et les conditions de l’enquête
+## III. Orienter l’examen, distinguer les registres et examiner les conditions
 
 Ces ressources permettent d’examiner les différents rapports sous lesquels une situation peut être étudiée. Elles ne constituent ni des étapes ni des niveaux du réel.
 
@@ -96,7 +96,6 @@ Ces ressources permettent d’examiner les différents rapports sous lesquels un
 - [Allure](fr/allure.md) — Caractériser la distribution temporelle des transformations au cours d’une trajectoire.
 - [Transformation](fr/transformation.md) — Caractériser une modification de configuration sans présumer de sa nature ni de sa portée.
 - [Sédimentation](fr/sedimentation.md) — Examiner la conservation, l’accumulation et la transmission de traces issues de pratiques descriptives.
-- [Reconstruction rétrospective et pardon déontique](fr/reconstruction-recollective-et-pardon.md) — Examiner les rapports entre reconstruction d’une erreur, révision des imputations, pardon et réparation.
 
 ## IV. Examiner le langage, les contenus et les inférences
 
@@ -226,7 +225,6 @@ Ces pages permettent d’examiner une difficulté précise, de comparer des desc
 
 - [Comparer deux descriptions](fr/comparer-deux-descriptions.md) — Mettre en regard les différences d’engagement, de fonction et de conséquence entre deux descriptions.
 - [Exégèse](fr/exegese.md) — Reconstruire le fonctionnement descriptif d’un texte et examiner le réemploi de ses ressources dans une autre enquête.
-- [Évaluer une traduction](fr/evaluer-une-traduction.md) — Examiner les correspondances et les transformations produites par le passage d’une description à une autre.
 - [Révision descriptive et résultats scientifiques](fr/revision-descriptive-et-resultats-scientifiques.md) — Examiner comment un résultat scientifique peut conduire à réviser une description, ses critères ou les engagements associés, sans confondre ces objets de révision.
 
 ### C. Audit et injustices épistémiques
