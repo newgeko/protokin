@@ -220,7 +220,7 @@ Ces pages permettent d’examiner une difficulté précise, de comparer des desc
 - [Diagnostiquer une erreur de catégorie](fr/diagnostiquer-une-erreur-de-categorie.md) — Examiner les attributions qui mobilisent une catégorie inadéquate.
 - [Diagnostiquer une réduction](fr/diagnostiquer-une-reduction.md) — Examiner les absorptions unilatérales par lesquelles une fonction ou un registre est ramené à un autre.
 - [Tension](fr/tension.md) — Caractériser une difficulté de fonctionnement qui affecte une pratique, une configuration ou la coordination de plusieurs exigences.
-- [Auto-application](fr/auto-application.md) — Soumettre les instruments et les distinctions de l’enquête aux exigences qu’ils appliquent aux autres descriptions.
+- [Auto-application](fr/auto-application.md) — Examiner les ressources de Protokin à partir de leurs fonctions, de leurs engagements et des exigences d’enquête qu’elles mobilisent.
 
 ### B. Comparaison et examen de textes
 
