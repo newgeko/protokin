@@ -110,7 +110,7 @@ Ces pages portent sur les ressources linguistiques et inférentielles mobilisée
 - [Locuteur](fr/locuteur.md) — Examiner la position discursive à laquelle une assertion et ses engagements peuvent être attribués.
 - [Auditeur](fr/auditeur.md) — Examiner la position depuis laquelle une assertion peut être interrogée, contestée ou acceptée.
 - [Engagement descriptif](fr/engagement-descriptif.md) — Préciser les engagements associés à une prise de position descriptive.
-- [Le débordement pragmatique de l’assertion](fr/le-debordement-pragmatique-de-l-assertion.md) — Examiner les conséquences pragmatiques d’une assertion au-delà de son contenu explicitement formulé.
+- [Le débordement pragmatique de l’assertion](fr/le-debordement-pragmatique-de-l-assertion.md) — Examiner l’écart entre intention, conséquences autorisées et attribution au locuteur.
 
 ### B. Inférence et espace des raisons
 
