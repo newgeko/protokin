@@ -1,75 +1,69 @@
 # Déixis — Interpréter une désignation en situation
 
-## 1. Fonction
+## Fonction
 
-Cette page examine la déixis comme une relation entre une expression ou un geste de désignation et la situation dans laquelle ils sont employés.
+Cette page examine la déixis comme une relation d’interprétation entre une expression ou un geste et la situation dans laquelle il est employé.
 
-La déixis permet d’identifier ce dont on parle en s’appuyant sur des coordonnées de l’énonciation : qui parle, à qui, où, quand et dans quelles circonstances. L’interprétation d’une expression déictique dépend ainsi de la situation d’usage, et pas seulement de sa forme linguistique.
+Une expression déictique permet d’identifier ce dont on parle en s’appuyant sur des coordonnées de l’énonciation : qui parle, à qui, où et quand. Son interprétation dépend donc de circonstances qui ne sont pas entièrement contenues dans sa forme linguistique.
 
-La question directrice est la suivante :
+La déixis constitue une ressource d’identification parmi d’autres. Elle ne fonde ni la référence en général ni la validité des descriptions produites.
 
-**Comment une expression permet-elle d’identifier quelque chose à partir de la situation dans laquelle elle est employée, et que permet effectivement cette identification ?**
+**Question directrice : comment une expression permet-elle d’identifier quelque chose à partir de la situation dans laquelle elle est employée, et que permet effectivement cette identification ?**
 
-La déixis constitue une ressource parmi d’autres pour identifier ce dont une pratique descriptive parle. Elle ne fonde ni la référence en général ni la validité des descriptions produites.
-
-## 2. Problème : identifier sans tout déduire de la situation
+## 1. Problème : identifier à partir d’une situation
 
 Considérons une personne qui pointe une fissure dans un mur et dit :
 
 « Cette fissure-ci est plus large que l’autre. »
 
-L’interprétation de « cette fissure-ci » dépend de la situation : du geste, de l’attention des participants, de la disposition des fissures et des éléments qui permettent de les différencier.
+L’interprétation de « cette fissure-ci » dépend de plusieurs éléments : la disposition des fissures, l’orientation du geste, la position des participants et ce qui retient leur attention.
 
-La forme linguistique ne suffit donc pas à déterminer, à elle seule, quelle fissure est désignée. Dans une autre situation, la même expression peut désigner une autre fissure.
+La forme linguistique ne suffit donc pas à déterminer quelle fissure est désignée. Dans une autre situation, la même expression pourrait désigner un autre élément.
 
-Cependant, la situation ne détermine pas toujours une interprétation unique. Plusieurs fissures peuvent se trouver dans la direction du geste ; les participants peuvent ne pas regarder le même élément ; le contraste pertinent peut rester indéterminé.
+La situation ne détermine toutefois pas toujours une interprétation unique. Le geste peut être ambigu, plusieurs fissures peuvent se trouver dans la direction indiquée ou les participants peuvent ne pas identifier le même élément.
 
-Même lorsqu’une fissure est correctement identifiée, cela ne suffit pas à établir qu’elle est plus large que l’autre. Cette comparaison suppose que les deux éléments soient identifiés et que les observations ou les mesures pertinentes permettent de soutenir l’affirmation.
+Même lorsque la fissure désignée est correctement identifiée, cela ne suffit pas à établir qu’elle est plus large que l’autre. Cette affirmation suppose une comparaison et des éléments permettant de la soutenir.
 
-Le problème consiste donc à distinguer trois questions :
+Il faut donc distinguer trois questions :
 
 - Quelles ressources contextuelles permettent d’interpréter la désignation ?
-- Quel élément est effectivement identifié ou visé ?
-- Qu’est-ce qui autorise les affirmations formulées à son sujet ?
+- Quel élément est effectivement désigné ou visé ?
+- Qu’est-ce qui permet de justifier les affirmations formulées à son sujet ?
 
-Ces questions peuvent être liées, mais elles ne se confondent pas.
+Ces questions sont liées, mais ne se confondent pas.
 
-## 3. Définition
+## 2. Définition et formes de déixis
 
 On appelle **déixis** une relation d’interprétation dans laquelle une expression ou un geste dépend de coordonnées de la situation d’énonciation pour déterminer ce qu’il désigne ou à quoi il se rapporte.
 
 Les expressions déictiques comprennent notamment :
 
-- les expressions personnelles : « je », « tu », « nous » ;
-- les expressions spatiales : « ici », « là-bas » ;
-- les expressions temporelles : « maintenant », « demain » ;
-- les démonstratifs : « ceci », « cela », « cette personne-ci ».
+- **Personnelles** : « je », « tu », « nous ».
+- **Spatiales** : « ici », « là-bas ».
+- **Temporelles** : « maintenant », « demain ».
+- **Démonstratives** : « ceci », « cela », « cette personne-ci ».
 
-Le fonctionnement de ces expressions varie selon leur type et leur emploi. « Je » dépend de l’identité du locuteur dans l’énonciation ; « ici » dépend d’un lieu de référence pertinent ; « maintenant » dépend du repère temporel de l’énonciation ou d’un autre repère contextuellement établi.
+Le fonctionnement de ces expressions varie selon leur type et leur emploi. « Je » renvoie au locuteur de l’énonciation ; « ici » dépend d’un lieu de référence pertinent ; « maintenant » dépend du repère temporel de l’énonciation ou d’un autre repère établi dans le contexte.
 
-La déixis ne se réduit pas aux mots. Un geste, un regard ou une orientation corporelle peuvent contribuer à la désignation, notamment lorsqu’ils sont coordonnés avec une expression linguistique.
+La déixis ne se réduit pas aux expressions linguistiques. Un geste, un regard ou une orientation corporelle peuvent contribuer à la désignation, notamment lorsqu’ils sont coordonnés avec une expression.
 
-La situation pertinente ne se limite pas nécessairement à la proximité physique. Elle peut inclure des repères discursifs, institutionnels ou techniques, selon les conventions mobilisées. Il faut alors préciser comment ces repères contribuent à l’interprétation.
+La situation pertinente ne se limite pas nécessairement à l’environnement physique immédiat. Elle peut comprendre les participants, le contexte discursif, des repères conventionnels ou des dispositifs techniques. Il faut préciser leur contribution dans chaque situation.
 
-La déixis caractérise ainsi une dépendance contextuelle. Elle ne garantit pas que l’expression soit comprise, que le référent soit identifié sans ambiguïté ou que les affirmations formulées à son sujet soient correctes.
+La déixis caractérise ainsi une dépendance contextuelle. Elle ne garantit ni que l’expression soit comprise, ni que l’identification soit univoque ou correcte.
 
-## 4. Distinctions nécessaires
+## 3. Distinctions nécessaires
 
-### 4.1. Déixis et anaphore
+### 3.1. Déixis et anaphore
 
-La déixis et l’anaphore peuvent contribuer à l’identification de ce dont on parle, mais elles reposent sur des relations différentes.
+La déixis et l’anaphore contribuent toutes deux à identifier ce dont on parle, mais elles reposent sur des relations différentes.
 
-La **déixis** s’appuie sur des coordonnées de la situation d’énonciation.
-
-Exemple :
+La **déixis** s’appuie sur les coordonnées de la situation d’énonciation :
 
 « Cette personne-ci attend devant la porte. »
 
-La désignation peut dépendre d’un geste, de la position des participants et de la situation dans laquelle l’expression est employée.
+L’interprétation peut dépendre de la position des participants, de leur attention et d’un éventuel geste de désignation.
 
-L’**anaphore** établit une dépendance avec un élément rendu accessible dans le discours.
-
-Exemple :
+L’**anaphore** établit une dépendance avec un élément rendu accessible dans le discours :
 
 « Une personne attend devant la porte. Elle a rendez-vous à dix heures. »
 
@@ -81,19 +75,17 @@ Les deux relations peuvent se combiner :
 
 La première expression est interprétée à partir de la situation ; la seconde reprend un élément déjà introduit dans le discours.
 
-Cette articulation n’est toutefois pas une séquence obligatoire. Une désignation déictique peut être comprise sans reprise anaphorique ultérieure. Inversement, une anaphore peut reprendre un élément introduit par une description, un récit ou une autre expression qui n’est pas déictique.
+Cette combinaison n’est pas une séquence obligatoire. Une désignation déictique peut être comprise sans reprise anaphorique ultérieure. Une anaphore peut également reprendre un élément introduit par une description ou un récit.
 
-**La déixis ne présuppose donc pas l’anaphore.** La reprise anaphorique peut prolonger une désignation, mais elle n’est pas la condition générale de son interprétation.
+**La déixis ne présuppose donc pas l’anaphore.** La reprise discursive peut prolonger une désignation, mais elle n’est pas une condition générale de son interprétation.
 
-Pour approfondir cette distinction, voir [Anaphore](fr/anaphore.md).
+Voir [Anaphore](fr/anaphore.md).
 
-### 4.2. Déixis et occurrence
+### 3.2. Déixis et occurrence
 
-Une occurrence est une réalisation particulière identifiée relativement à une forme ou à un type dans une pratique déterminée.
+Une expression déictique possède des occurrences particulières. Le fait que deux personnes emploient le mot « ici » ne signifie pas qu’elles désignent le même lieu. Le fait qu’une même personne emploie « maintenant » à deux moments différents ne signifie pas que les deux occurrences renvoient au même moment.
 
-Une expression déictique possède elle aussi des occurrences particulières. Le fait que deux personnes emploient le mot « ici » ne signifie pas qu’elles désignent le même lieu. Le fait qu’une même personne emploie « maintenant » à deux moments différents ne signifie pas que les deux occurrences renvoient au même moment.
-
-Il faut donc distinguer :
+Il faut distinguer :
 
 - la forme linguistique employée ;
 - l’occurrence particulière de cette forme ;
@@ -102,37 +94,47 @@ Il faut donc distinguer :
 
 L’identité de la forme n’établit ni l’identité de la situation ni celle du référent.
 
-La déixis ne constitue pas une propriété de toute occurrence linguistique. Elle caractérise le fonctionnement de certaines expressions et de certains gestes dans leurs conditions d’usage.
+La déixis caractérise le fonctionnement situé de certaines expressions et de certains gestes. Elle ne constitue pas une propriété de toute occurrence linguistique.
 
-Voir [Occurrence](fr/occurence.md).
+Voir [Occurrence](fr/occurrence.md).
 
-### 4.3. Déixis et référence
+### 3.3. Déixis et référence
 
 La déixis contribue à identifier ce dont on parle, mais elle ne se confond pas avec la référence.
 
-Une personne peut désigner un arbre en disant « celui-ci ». L’expression, accompagnée du contexte pertinent, permet d’identifier l’arbre visé. La référence concerne plus largement ce à quoi la pratique descriptive se rapporte et les conditions dans lesquelles cette visée est maintenue, contestée ou corrigée.
+Une personne peut désigner un arbre en disant « celui-ci ». L’expression, interprétée dans son contexte, permet d’identifier l’arbre visé. La référence concerne plus largement la manière dont une pratique descriptive se rapporte à ce dont elle parle et maintient, conteste ou corrige cette visée.
 
-Une désignation déictique peut échouer : le geste peut être ambigu, l’objet visé peut ne pas être identifiable ou les participants peuvent interpréter différemment la situation.
+Une désignation déictique peut échouer : le geste peut être ambigu, l’élément visé peut ne pas être identifiable ou les participants peuvent interpréter différemment la situation.
 
-Inversement, une référence peut être établie sans déixis immédiate. Un arbre peut être identifié à partir d’une adresse, d’un numéro de parcelle, d’une photographie ou d’une description antérieure.
+Inversement, une référence peut être établie sans déixis immédiate, par exemple au moyen d’une adresse, d’un numéro de parcelle, d’une photographie ou d’une description antérieure.
 
 La déixis est donc une ressource possible de l’identification référentielle, non une condition nécessaire de toute référence.
 
-Voir [Référent](fr/referent.md).
+Voir [Référent](fr/referent.md) et [Relation sémantique et référence](fr/relation-semantique-et-reference.md).
 
-### 4.4. Déixis et opération d’ancrage
+### 3.4. Déixis et indexation
 
-L’[opération Ancrer](fr/ancrer.md) consiste à identifier les appuis et les conditions pertinents pour examiner un problème : observations, traces, supports, contraintes matérielles ou autres éléments disponibles.
+La déixis et l’indexation concernent toutes deux les rapports entre des signes et des situations. Elles ne désignent cependant pas le même problème.
+
+La déixis porte sur l’interprétation située d’une expression ou d’un geste. L’indexation examine plus largement les conditions dans lesquelles un signe est rattaché à une situation et peut être mobilisé dans d’autres contextes.
+
+Une expression comme « cette fissure-ci » peut ainsi contribuer à désigner un élément dans une situation donnée. Une photographie de cette fissure peut ensuite être conservée, déplacée et consultée ailleurs. Son utilisation suppose alors d’examiner les conditions dans lesquelles elle reste rapportable au bâtiment et à la fissure concernés.
+
+La déixis peut intervenir dans une pratique d’indexation, mais elle ne se réduit pas à celle-ci. Inversement, l’indexation ne suppose pas nécessairement une expression déictique.
+
+Voir [Indexation et réindexation](fr/indexation-et-reindexation.md).
+
+### 3.5. Déixis et ancrage
+
+L’opération [Ancrer](fr/ancrer.md) consiste à examiner les conditions d’une situation et les appuis disponibles pour conduire une enquête.
 
 La déixis relève d’un problème plus local : l’interprétation d’une expression ou d’un geste à partir d’une situation d’énonciation.
 
-Les deux peuvent intervenir conjointement. Dans une inspection de bâtiment, une personne peut désigner une fissure, tandis que l’enquête s’appuie sur des photographies, des mesures, des documents techniques et les conditions matérielles de l’inspection.
+Dans une inspection de bâtiment, la désignation d’une fissure peut contribuer à préciser l’élément dont il est question. L’enquête peut ensuite s’appuyer sur des photographies, des mesures, des documents techniques et les conditions matérielles de l’inspection.
 
-La désignation permet alors de préciser l’élément dont il est question. L’ancrage de l’enquête concerne plus largement les appuis nécessaires à son examen.
+La désignation et l’ancrage peuvent donc intervenir conjointement sans remplir la même fonction. La déixis ne constitue pas à elle seule un ancrage suffisant.
 
-L’opération d’ancrage ne se réduit donc pas à la déixis, et la déixis ne constitue pas à elle seule un ancrage suffisant.
-
-## 5. Exemple discriminant : désigner une fissure
+## 4. Exemple : désigner une fissure
 
 Considérons une inspection technique au cours de laquelle deux fissures sont visibles sur un mur.
 
@@ -140,92 +142,50 @@ L’inspecteur pointe la première et dit :
 
 « Cette fissure-ci est plus profonde que l’autre. »
 
-### 5.1. Interpréter la désignation
+Le geste et l’expression « cette fissure-ci » contribuent à identifier la fissure visée. L’interprétation dépend de la disposition des fissures, de l’orientation du geste et de ce que les participants peuvent voir.
 
-Le geste et l’expression « cette fissure-ci » contribuent à identifier la fissure visée. L’interprétation dépend notamment de la disposition des fissures, de l’orientation du geste et de ce que les participants peuvent voir.
+Supposons que les participants s’accordent sur la fissure désignée. Cet accord permet de poursuivre l’examen en parlant du même élément, sous réserve que cette identification soit maintenue.
 
-Si le geste est ambigu, la désignation peut échouer ou rester incertaine. La présence d’un élément dans le champ visuel ne garantit pas que tous les participants identifient le même élément.
+Il ne démontre cependant pas que la fissure est effectivement plus profonde que l’autre. La comparaison exige des observations, des mesures ou d’autres éléments pertinents.
 
-### 5.2. Distinguer l’identification de la description
-
-Supposons que les participants s’accordent sur la fissure désignée.
-
-Cet accord permet de poursuivre l’examen en parlant de la même fissure, sous réserve que cette identification soit maintenue. Il ne démontre pas que la fissure est effectivement plus profonde que l’autre.
-
-La comparaison exige des observations, des mesures ou d’autres éléments pertinents pour établir la profondeur relative des fissures.
-
-La désignation contribue à déterminer de quoi parle l’inspecteur. Elle ne suffit pas à justifier ce qu’il affirme à propos de l’élément désigné.
-
-### 5.3. Examiner la reprise
-
-L’inspecteur peut ensuite dire :
+L’inspecteur poursuit :
 
 « Elle atteint la face intérieure du mur. »
 
-Le pronom « elle » reprend ici la fissure identifiée précédemment. La continuité du discours permet de maintenir la référence sans répéter toute la désignation initiale.
+Le pronom « elle » reprend ici la fissure identifiée précédemment. La continuité du discours permet de maintenir la référence sans répéter la désignation initiale.
 
 Si plusieurs fissures sont ensuite évoquées, la reprise peut devenir ambiguë. Il faut alors rétablir la distinction entre les éléments concernés.
 
-L’exemple montre que la désignation située, la reprise discursive et l’évaluation d’une affirmation peuvent contribuer au même examen sans remplir la même fonction.
+L’exemple permet de différencier trois contributions : la désignation située, la reprise discursive et l’évaluation d’une affirmation. Elles peuvent participer au même examen sans remplir la même fonction.
 
-## 6. Place dans l’enquête de Protokin
+## 5. Limites et non-conversions
 
-La déixis peut être examinée lorsque l’interprétation d’une expression dépend de la situation d’énonciation, lorsque plusieurs éléments peuvent être désignés ou lorsque la continuité de l’identification devient incertaine.
+L’analyse de la déixis impose de maintenir plusieurs distinctions :
 
-L’examen d’une expression déictique peut être orienté par différentes questions :
-
-- Dans quelles conditions l’expression permet-elle d’identifier ce dont il est question ?
-- Quelles relations entretient-elle avec la situation d’énonciation et les autres éléments du discours ?
-- Quelle fonction remplit-elle dans la pratique considérée ?
-- Quelles raisons permettent de défendre l’identification proposée ?
-
-Ces questions ne forment pas une classification exhaustive des phénomènes déictiques. Elles permettent de préciser la difficulté rencontrée et de déterminer le travail descriptif à reprendre.
-
-Ces orientations ne constituent ni des étapes successives de l’interprétation ni quatre composantes de la déixis. Elles permettent de différencier les questions soulevées par un même usage.
-
-L’examen peut également mobiliser plusieurs opérations de l’enquête. Il peut être nécessaire de délimiter une ambiguïté, d’ancrer l’examen dans des observations, de distinguer plusieurs éléments, de reconstruire leurs relations ou de justifier une identification.
-
-La déixis ne prescrit cependant aucune procédure unique. Elle ne constitue ni le point de départ obligatoire de l’enquête ni une transition nécessaire entre la perception et l’inférence.
-
-Pour situer ces distinctions, voir la [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) et l’[Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md).
-
-## 7. Limites et non-conversions
-
-L’analyse de la déixis impose plusieurs distinctions.
-
-**Désigner n’est pas décrire.** Une expression déictique peut identifier un élément sans préciser ses propriétés.
-
-**Identifier n’est pas caractériser correctement.** Le fait de s’accorder sur ce dont on parle ne garantit pas l’exactitude des affirmations formulées à son sujet.
-
-**Montrer n’est pas justifier.** Un geste ou une expression peut contribuer à établir l’objet d’un désaccord sans fournir les raisons permettant de le résoudre.
-
-**Une désignation n’est pas une preuve de présence immédiate.** L’interprétation dépend de conventions, de circonstances et de ressources qui peuvent être incertaines ou contestées.
-
-**La déixis ne fonde pas une théorie générale de la perception.** Le fait qu’une désignation s’appuie sur des capacités perceptives et corporelles ne permet pas de déduire directement une signification ou la validité d’une affirmation.
-
-**La déixis ne fonde pas la référence en général.** Elle constitue une ressource d’identification parmi d’autres, dont la pertinence dépend de la pratique et du problème examinés.
+- **Désigner ≠ décrire** : une expression peut identifier un élément sans préciser ses propriétés.
+- **Identifier ≠ caractériser correctement** : l’accord sur l’élément visé ne garantit pas l’exactitude des affirmations formulées à son sujet.
+- **Montrer ≠ justifier** : un geste peut contribuer à établir l’objet d’un désaccord sans fournir les raisons permettant de le résoudre.
+- **Situation d’énonciation ≠ environnement physique immédiat** : l’interprétation peut dépendre de repères discursifs, conventionnels ou techniques.
+- **Déixis ≠ référence en général** : elle constitue une ressource d’identification parmi d’autres.
+- **Déixis ≠ théorie générale de la perception** : le recours à des capacités perceptives et corporelles ne suffit pas à expliquer la signification ou la validité d’une affirmation.
 
 Ces distinctions n’interdisent pas les relations entre désignation, identification, description et justification. Elles imposent d’examiner ce qui autorise le passage de l’une à l’autre.
 
-## 8. Synthèse et renvois
+## Synthèse
 
 La déixis désigne une relation d’interprétation située : une expression ou un geste permet d’identifier quelque chose en s’appuyant sur les coordonnées de la situation d’énonciation.
 
-Elle contribue à certaines pratiques d’identification sans constituer une condition universelle de la référence, une étape obligatoire de l’enquête ou une garantie de la validité des descriptions.
-
-Son articulation avec l’anaphore, l’occurrence et le référent doit être examinée selon les relations effectivement mobilisées. Aucune de ces notions ne se réduit aux autres.
-
-Le principe directeur est le suivant :
+Elle contribue à certaines pratiques d’identification sans constituer une condition universelle de la référence, une opération de l’enquête ou une garantie de la validité des descriptions.
 
 **La situation contribue à l’interprétation d’une désignation ; elle ne suffit pas à justifier ce qui est affirmé au sujet de ce qui est désigné.**
 
 Pour poursuivre :
 
-- [Anaphore](fr/anaphore.md) — Examiner la reprise d’éléments accessibles dans le discours.
-- [Occurrence](fr/occurence.md) — Distinguer une réalisation particulière de la forme ou du type auquel elle est rapportée.
+- [Anaphore](fr/anaphore.md) — Examiner les reprises discursives et les dépendances entre occurrences.
+- [Occurrence](fr/occurrence.md) — Distinguer une réalisation particulière de la forme ou du type auquel elle est rapportée.
 - [Référent](fr/referent.md) — Examiner l’identification et la visée de ce dont une pratique descriptive parle.
-- [Ancrer](fr/ancrer.md) — Identifier les appuis pertinents pour l’examen d’un problème.
-- [RDRD et entrée perceptive](fr/rdrd-et-entree-perceptive.md) — Examiner les dispositions de réponse différentielle et les conditions de l’entrée perceptive.
-- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Préciser sous quel rapport une difficulté d’identification, d’attribution ou de substitution est examinée.
-- [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations mobilisables dans l’enquête.
+- [Relation sémantique et référence](fr/relation-semantique-et-reference.md) — Examiner les rapports entre contenu, usage et visée référentielle.
+- [Indexation et réindexation](fr/indexation-et-reindexation.md) — Examiner l’ancrage situé d’un signe, son déplacement et la reprise des conditions de son interprétation.
+- [Ancrer](fr/ancrer.md) — Examiner les conditions et les appuis de l’enquête.
+- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Définir les rapports sous lesquels une situation ou une pratique peut être examinée.
 - [Table des matières](fr/tdm.md) — Retrouver les ressources du corpus.
