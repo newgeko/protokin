@@ -255,7 +255,7 @@ Ces pages présentent des ressources conceptuelles utiles à l’examen des prat
 
 - [John Dewey](fr/john-dewey.md) — Examiner l’enquête comme transformation de situations problématiques, le rôle des habitudes et les rapports transactionnels entre organisme et environnement.
 - [Charles Sanders Peirce](fr/charles-sanders-peirce.md) — Examiner la clarification pragmatique des concepts, les relations sémiotiques, l’abduction et la révision des croyances.
-- [Ludwig Wittgenstein](fr/ludwig-wittgenstein.md) — Examiner le rôle des usages, des règles et des formes de vie dans les pratiques de signification.
+- [Ludwig Wittgenstein](fr/ludwig-wittgenstein.md) — Examiner les rapports entre usages du langage, suivi des règles, formes de vie et critères de correction.
 - [Wilfrid Sellars](fr/wilfrid-sellars.md) — Examiner la critique du donné et les rapports entre expérience, explication et espace des raisons.
 - [Robert Brandom](fr/robert-brandom.md) — Examiner la priorité explicative de la pragmatique, les engagements discursifs, le contenu inférentiel et les conditions de l'objectivité.
 - [Joseph Rouse](fr/joseph-rouse.md) — Examiner les pratiques scientifiques comme activités matérielles, sociales et normativement organisées, ainsi que leurs interventions et leurs effets politiques.
