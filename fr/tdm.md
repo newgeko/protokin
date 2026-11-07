@@ -261,7 +261,7 @@ Ces pages présentent des ressources conceptuelles utiles à l’examen des prat
 - [Ian Hacking](fr/ian-hacking.md) — Examiner l’historicité des catégories, les effets de boucle des classifications humaines et les styles de raisonnement.
 - [Maurice Merleau-Ponty](fr/maurice-merleau-ponty.md) — Examiner les apports de la phénoménologie corporelle à la compréhension de la perception et du savoir pratique.
 - [Gilbert Simondon](fr/gilbert-simondon.md) — Examiner les notions d’individuation, de métastabilité et de transduction dans l’étude des transformations.
-- [Francisco Varela](fr/francisco-varela.md) — Examiner les apports de l’énaction, de l’autopoïèse et du couplage organisme-milieu à l’étude de l’activité biologique.
+- [Francisco Varela](fr/francisco-varela.md) — Examiner l’énaction, l’autonomie du vivant et la production de sens biologique, en distinguant leurs apports à l’étude de la cognition.
 
 ---
 
