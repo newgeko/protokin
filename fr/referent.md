@@ -1,147 +1,181 @@
-# Référent — Identification et visée d’objet
+# Référent — Identification et visée référentielle
 
-## 1. Fonction
+## Fonction
 
-Cette page précise la fonction du référent dans une pratique descriptive. Elle examine comment une description vise quelque chose, comment cette visée est maintenue ou corrigée et dans quelles conditions plusieurs occurrences peuvent être rapportées à un même référent.
+Cette page définit la notion de **référent** et examine les conditions dans lesquelles une pratique descriptive identifie ce à quoi elle se rapporte.
 
-Le référent doit être distingué de la description qui le vise et de l’objet descriptif stabilisé dans une pratique. Cette distinction permet d’examiner les jugements d’identification sans supposer que le langage reproduit directement une réalité déjà découpée, ni que ce dont il est question se réduit aux descriptions disponibles.
+Elle précise comment une identification peut être maintenue, contestée ou révisée lorsque plusieurs descriptions, observations ou occurrences sont rapportées à un même référent.
 
-## 2. Problème
+Son objet est de distinguer ce dont une pratique parle, la manière dont elle l'identifie et les descriptions par lesquelles elle le caractérise.
 
-Dans une pratique descriptive, nous identifions des personnes, des objets, des événements ou des situations, puis nous formulons des jugements à leur sujet. Nous pouvons également reconnaître quelque chose comme étant le même à travers plusieurs observations, plusieurs moments ou plusieurs descriptions.
+## 1. Problème
 
-Ces opérations ne vont pas de soi. Une identification peut être contestée, une réidentification peut échouer et une description peut viser quelque chose sans le caractériser correctement.
+Une pratique descriptive identifie des personnes, des objets, des événements, des situations ou des processus. Elle peut ensuite les désigner à nouveau, les retrouver dans d'autres circonstances ou produire plusieurs descriptions à leur sujet.
+
+Ces pratiques supposent que l'on puisse déterminer de quoi il est question et, dans certains cas, reconnaître un même référent à travers des observations ou des descriptions différentes.
+
+Cette reconnaissance peut toutefois être incertaine. Une désignation peut être ambiguë, une identification erronée ou les critères utilisés pour reconnaître une continuité devenir insuffisants.
 
 Il faut donc distinguer plusieurs questions :
 
-- De quoi parle-t-on ?
-- Sur quels éléments s’appuie-t-on pour identifier ce dont on parle ?
-- Qu’est-ce qui autorise à considérer deux occurrences comme concernant le même référent ?
-- La description proposée est-elle adéquate à ce référent ?
+- À quoi une pratique entend-elle se référer ?
+- Quels éléments permettent d'identifier ce référent ?
+- Qu'est-ce qui autorise à considérer plusieurs occurrences comme concernant le même référent ?
+- Les descriptions produites à son sujet sont-elles adéquates ?
 
-Ces questions sont liées, mais elles ne se confondent pas. Identifier un référent ne suffit pas à établir que la description qu’on en donne est exacte. Inversement, modifier une description ne signifie pas nécessairement que son référent a changé.
+Ces questions sont liées, mais elles ne se confondent pas. Une pratique peut avoir une visée référentielle sans parvenir à identifier correctement ce qu'elle vise. Une identification correcte ne garantit pas davantage l'adéquation de toutes les descriptions qui s'y rapportent.
 
-## 3. Définition
+## 2. Définition
 
-Dans Protokin, le **référent** désigne ce à quoi une pratique descriptive se rapporte ou prétend se rapporter : une personne, un objet, un événement, une situation, un processus ou une relation.
+Dans Protokin, le **référent** désigne ce à quoi une expression, une désignation ou une pratique descriptive se rapporte ou prétend se rapporter : une personne, un objet, un événement, une situation, un processus ou une relation.
 
-La **visée référentielle** désigne cette orientation vers ce dont il est question. Elle s’exprime et se maintient dans des pratiques d’identification, de désignation, de comparaison et de réidentification. Elle ne se réduit ni à une relation abstraite entre un mot et une chose, ni à la seule cohérence des descriptions mobilisées.
+La **visée référentielle** désigne l'orientation d'une pratique vers ce dont il est question. Elle se manifeste dans des activités de désignation, d'identification, de comparaison et de réidentification.
 
-L’identification s’appuie sur des éléments et des critères dont la pertinence dépend du problème traité : observations, traces, contexte d’usage, continuité spatio-temporelle, propriétés reconnues ou procédures disponibles. Ces appuis peuvent permettre une identification sans garantir qu’elle soit correcte.
+Cette visée doit être distinguée de la réussite de l'identification. Une pratique peut viser un référent sans disposer des éléments suffisants pour l'identifier correctement.
 
-Le référent n’est donc pas immédiatement donné indépendamment de toute pratique d’identification. Mais il ne se confond pas non plus avec le contenu descriptif par lequel on le caractérise. L’enquête doit examiner les conditions dans lesquelles une visée référentielle est établie, maintenue, contestée ou révisée.
+L'identification mobilise des ressources dont la pertinence dépend du problème examiné : observations, traces, documents, caractéristiques reconnues, contexte d'usage, continuité spatio-temporelle ou procédures disponibles.
 
-## 4. Distinctions avec les notions voisines
+Ces ressources contribuent à établir une identification, mais leur présence ne garantit pas automatiquement sa correction.
 
-### 4.1. Référent et objet descriptif
+L'identification du référent est donc médiatisée par des pratiques et des critères. Cela ne signifie pas que le référent se réduit à ces pratiques ou qu'il est constitué par les seules descriptions qui en sont produites.
 
-L’objet descriptif désigne une différence stabilisée comme identifiable et réutilisable dans une pratique descriptive. Il dépend des distinctions, des catégories et des critères employés pour organiser ce dont on parle.
+**La visée référentielle, l'identification et l'adéquation descriptive constituent trois questions distinctes.**
 
-Le référent désigne ce à quoi cette pratique se rapporte. L’objet descriptif fournit une manière déterminée de rendre ce référent identifiable et de le caractériser ; il ne se confond pas avec lui.
+## 3. Distinctions avec les notions voisines
 
-Un même arbre peut ainsi être identifié comme un arbre particulier, décrit comme appartenant à une espèce botanique, évalué du point de vue de son état sanitaire ou examiné en fonction du risque qu’il présente pour une habitation. Ces descriptions peuvent porter sur le même référent tout en mobilisant des objets descriptifs, des critères et des fonctions différents.
+### 3.1. Référent et objet descriptif
 
-La diversité des objets descriptifs ne prouve donc pas que chaque description vise un référent distinct. Elle ne garantit pas non plus que toutes les descriptions soient compatibles ou adéquates.
+L'**objet descriptif** désigne une différence stabilisée comme identifiable et réutilisable dans une pratique descriptive.
 
-Pour approfondir cette distinction, voir [Objet descriptif](fr/objet-descriptif.md).
+Le référent désigne ce à quoi cette pratique se rapporte. L'objet descriptif correspond à une manière déterminée de rendre ce référent identifiable et de le caractériser.
 
-### 4.2. Référent et description
+Un même référent peut ainsi être associé à plusieurs objets descriptifs selon les distinctions et les catégories mobilisées.
 
-Une description sélectionne et organise certaines différences pour caractériser ce dont elle parle. Elle ne reprend pas nécessairement toutes les propriétés pertinentes de la situation et ne suffit pas à établir sa propre adéquation.
+Inversement, la stabilisation d'un objet descriptif ne suffit pas à établir que l'identification à laquelle il contribue est correcte.
 
-Il faut donc distinguer ce qui est décrit, les différences retenues pour le décrire et le contenu descriptif effectivement formulé ou inscrit.
+La distinction porte donc sur deux fonctions différentes : ce à quoi la pratique se rapporte et ce qu'elle stabilise pour pouvoir l'identifier et le décrire.
 
-Une description peut être corrigée alors que son référent demeure le même. À l’inverse, le référent ou la situation visée peut changer sans que la description disponible soit immédiatement révisée.
+Voir [Objet descriptif](fr/objet-descriptif.md).
 
-La relation entre description et référent doit ainsi être examinée sans assimiler la description à ce qu’elle décrit.
+### 3.2. Référent et description
+
+Une **description** est une pratique située qui retient et organise certaines différences afin de caractériser ce dont elle traite.
+
+Le référent désigne ce à quoi cette pratique se rapporte ; la description désigne le travail et les ressources mobilisés pour le caractériser.
+
+Une description peut être corrigée ou reformulée alors que son référent demeure le même. Inversement, une situation peut changer sans que les descriptions disponibles soient immédiatement actualisées.
+
+La continuité du référent ne garantit donc pas la stabilité des descriptions, pas plus que la stabilité d'une description ne garantit la continuité de ce qu'elle vise.
 
 Voir [Description](fr/description.md).
 
-### 4.3. Référence et référent
+### 3.3. Référence et référent
 
-La référence concerne la manière dont une pratique descriptive vise quelque chose. Le référent est ce à quoi elle se rapporte ou prétend se rapporter.
+La **référence** désigne la relation par laquelle une expression, une désignation ou une pratique descriptive vise quelque chose.
 
-Cette distinction évite de confondre la relation établie dans une pratique avec ce qui est visé par cette relation. Les usages linguistiques, les conventions, le contexte et les critères d’identification peuvent contribuer à déterminer ce dont il est question, sans que le référent se réduise à ces ressources.
+Le **référent** désigne ce à quoi cette relation se rapporte ou prétend se rapporter.
 
-Voir [Relation sémantique et référence](fr/relation-semantique-et-reference.md).
+La distinction permet de ne pas confondre la relation établie dans une pratique avec ce qui est visé par cette relation.
 
-### 4.4. Identification et jugement d’identité
+Les usages linguistiques, les conventions et les critères d'identification contribuent à déterminer ce dont il est question. Ils ne suffisent cependant pas à garantir que l'identification soit correcte ou que la description soit adéquate.
 
-Identifier consiste à déterminer à quoi se rapporte une désignation ou une description dans une situation donnée. Réidentifier consiste à reconnaître un référent comme étant le même dans des circonstances différentes.
+La page [Relation sémantique et référence](fr/relation-semantique-et-reference.md) examine plus largement les rapports entre les usages sémantiques, les critères et la visée référentielle.
 
-Un jugement d’identité engage donc des critères : il faut préciser ce qui autorise à considérer deux observations, deux désignations ou deux occurrences comme concernant la même chose.
+## 4. Identification et réidentification
 
-Ces critères peuvent varier selon le problème. L’identité d’un organisme au cours de son développement ne s’examine pas exactement comme celle d’un objet administratif, d’un événement ou d’une inscription documentaire.
+Identifier consiste à déterminer à quoi se rapporte une désignation ou une description dans une situation donnée.
 
-Le jugement d’identité n’est ni la simple copie d’une identité immédiatement donnée, ni une décision arbitraire. Il peut être justifié, contesté ou révisé à partir des éléments pertinents pour le cas considéré.
+Réidentifier consiste à reconnaître un référent comme étant le même dans des circonstances différentes.
 
-## 5. Articulation avec l’enquête de Protokin
+Un jugement de réidentification suppose donc des critères de continuité. Ceux-ci peuvent porter sur des caractéristiques, une continuité spatio-temporelle, une histoire identifiable, des relations établies ou des procédures institutionnelles.
 
-La question du référent intervient lorsqu’une enquête doit déterminer ce dont une description parle, vérifier une identification ou examiner la continuité entre plusieurs descriptions.
+Leur pertinence dépend du type de référent et du problème examiné.
 
-L’opération d’ancrage permet de recueillir les appuis pertinents : observations, traces, documents, dispositifs ou autres éléments disponibles. La distinction permet de séparer la visée référentielle, les critères d’identification et le contenu descriptif. L’examen des relations permet ensuite de préciser les dépendances entre ces éléments.
+Reconnaître un organisme à différents moments de son développement ne soulève pas exactement les mêmes questions que reconnaître un bâtiment dans plusieurs documents, retrouver un événement dans des archives ou identifier une inscription parmi plusieurs occurrences.
 
-Ces opérations ne forment pas une procédure obligatoire. Leur mobilisation dépend du problème rencontré et peut conduire à reprendre l’identification ou à réviser les critères retenus.
+Il faut examiner ce qui autorise la continuité reconnue et dans quelles limites elle peut être maintenue.
 
-Il faut notamment distinguer :
+Trois résultats sont possibles :
 
-- les éléments qui soutiennent une identification ;
-- les critères qui autorisent un jugement d’identité ;
-- la description proposée du référent ;
-- les raisons de maintenir ou de réviser cette description.
+- **Identification soutenue** : les éléments et les critères disponibles permettent de défendre l'identification proposée.
+- **Identification incertaine** : les éléments disponibles ne permettent pas de déterminer suffisamment ce à quoi la pratique se rapporte.
+- **Identification révisée** : de nouveaux éléments ou l'examen des critères conduisent à corriger ou à abandonner l'identification précédente.
 
-Aucun de ces éléments ne garantit isolément la correction de l’ensemble. Une trace peut soutenir une identification sans déterminer à elle seule sa signification ; un critère peut être appliqué de manière cohérente tout en étant inadapté au problème ; une identification correcte ne rend pas automatiquement adéquate toute description qui s’y rapporte.
+Ces résultats ne constituent pas les étapes d'une procédure obligatoire. Ils décrivent des situations possibles de l'examen.
 
-## 6. Exemple discriminant : identifier un arbre
+Un jugement d'identité peut ainsi être justifié, contesté ou révisé. Il ne constitue ni une simple constatation dépourvue de médiation ni une décision arbitraire.
 
-Un botaniste, un bûcheron et un agent chargé d’évaluer un risque peuvent examiner le même arbre.
+## 5. Exemple discriminant : identifier un même bâtiment
 
-Le botaniste cherche à identifier l’espèce et à caractériser l’état biologique de l’arbre. Le bûcheron examine notamment sa structure et les conditions de son abattage. L’agent évalue les risques liés à son emplacement et à son état.
+Un bâtiment fait l'objet de plusieurs documents : un diagnostic structurel, un dossier patrimonial et un rapport relatif à son accessibilité.
 
-Leurs descriptions ne retiennent pas les mêmes différences et ne remplissent pas la même fonction. Elles peuvent néanmoins viser le même arbre.
+Les documents ne retiennent pas les mêmes caractéristiques et ne répondent pas aux mêmes questions. Ils peuvent néanmoins se rapporter au même bâtiment.
 
-L’enquête doit alors distinguer trois questions :
+Pour soutenir cette identification, les pratiques peuvent mobiliser une adresse, une localisation, des plans, des photographies, des références cadastrales ou des observations réalisées sur place.
 
-1. **Identification** : quels éléments permettent de reconnaître cet arbre comme le référent visé ?
-2. **Description** : quelles propriétés ou relations sont retenues pour le caractériser dans chaque pratique ?
-3. **Adéquation** : les éléments et les critères mobilisés permettent-ils de défendre les affirmations formulées ?
+Ces éléments ne jouent pas tous le même rôle. Une adresse peut orienter vers un bâtiment sans suffire à lever une ambiguïté. Un plan peut contribuer à l'identification sans garantir que les observations concernent la construction dans son état actuel.
 
-Un désaccord sur l’état de l’arbre ne signifie pas nécessairement que les interlocuteurs parlent de référents différents. Il peut porter sur les observations, les critères, la fonction de l’examen ou les conclusions tirées. Mais il faut également envisager qu’une désignation soit ambiguë ou qu’une identification soit erronée.
+Il faut donc distinguer :
 
-La référence commune ne supprime donc ni les divergences descriptives ni la nécessité de les examiner.
+- **La visée** : les documents entendent porter sur un bâtiment déterminé.
+- **L'identification** : les éléments disponibles permettent de déterminer si les documents concernent effectivement le même bâtiment.
+- **La description** : chaque document caractérise ce bâtiment sous certains rapports.
+- **L'adéquation** : les observations, les critères et les raisons mobilisés permettent-ils de soutenir les affirmations formulées ?
 
-## 7. Limites et non-conversions
+Le fait que plusieurs documents concernent le même bâtiment ne garantit ni leur compatibilité ni l'exactitude de leurs conclusions.
 
-La notion de référent ne garantit pas que l’identification soit correcte ou que la description soit adéquate. Elle permet de formuler ces questions sans les confondre.
+Inversement, leurs différences de contenu ne prouvent pas qu'ils portent sur des référents distincts.
 
-Il faut notamment maintenir les distinctions suivantes :
+L'exemple montre que l'établissement d'un référent commun et l'évaluation des descriptions produites à son sujet sont deux examens distincts.
 
-- **référent ≠ objet descriptif** ;
-- **référent ≠ description** ;
-- **visée référentielle ≠ identification correcte** ;
-- **identification ≠ description adéquate** ;
-- **jugement d’identité ≠ preuve automatique de continuité** ;
-- **cohérence descriptive ≠ adéquation au référent**.
+## 6. Portée et limites
 
-La stabilité d’une désignation ne suffit pas à prouver que son usage vise toujours le même référent. La révision d’une catégorie ne prouve pas que le référent a changé. Une identification partagée ne suffit pas non plus à établir la validité de toutes les descriptions qui s’y rapportent.
+La notion de référent permet de distinguer ce dont une pratique parle des moyens par lesquels elle l'identifie et le caractérise.
 
-Inversement, le fait que l’identification mobilise des catégories, des critères et des pratiques ne signifie pas que le référent soit produit par ces seules ressources.
+Elle permet notamment d'examiner :
 
-Le référent ne fournit pas par lui-même les critères de sa propre identification, la signification de toutes les traces disponibles ou la justification des conclusions formulées à son sujet. Ces éléments doivent être établis dans l’enquête.
+- la pertinence des éléments mobilisés pour une identification ;
+- les critères employés pour reconnaître un même référent ;
+- les conditions dans lesquelles une réidentification peut être soutenue ;
+- les ambiguïtés ou les erreurs possibles dans les pratiques de désignation ;
+- les rapports entre une identification et les descriptions qui lui sont associées.
+
+Elle n'établit cependant pas, à elle seule :
+
+- la correction d'une identification ;
+- l'adéquation d'une description ;
+- la signification de toutes les traces disponibles ;
+- la justification des critères employés ;
+- la compatibilité de plusieurs descriptions ;
+- une théorie générale de l'identité ;
+- le statut ontologique ultime de ce qui est désigné.
+
+Plusieurs distinctions doivent être maintenues :
+
+- **Visée référentielle ≠ identification réussie.**
+- **Identification ≠ description adéquate.**
+- **Référent ≠ objet descriptif.**
+- **Référent ≠ description.**
+- **Stabilité d'une désignation ≠ continuité garantie du référent.**
+- **Pluralité des descriptions ≠ pluralité nécessaire des référents.**
+- **Référence commune ≠ compatibilité automatique des descriptions.**
+
+Ces distinctions ne supposent pas que le référent serait inaccessible ou que les pratiques d'identification seraient arbitraires. Elles indiquent que l'établissement d'une référence et l'évaluation des descriptions doivent être examinés à partir des éléments et des critères pertinents.
 
 ## Synthèse
 
-Le référent est ce à quoi une pratique descriptive se rapporte ou prétend se rapporter. Sa visée est médiatisée par des pratiques d’identification, des critères et des descriptions qui peuvent être discutés et révisés.
+Le référent désigne ce à quoi une expression ou une pratique descriptive se rapporte ou prétend se rapporter.
 
-Le distinguer de l’objet descriptif et de la description permet d’examiner comment une chose est identifiée, comment elle est caractérisée et dans quelles conditions les affirmations formulées à son sujet sont défendables.
+Son identification mobilise des observations, des traces, des critères et des procédures dont la pertinence doit être examinée. La réidentification suppose de préciser ce qui autorise à reconnaître un même référent dans des circonstances différentes.
 
-La référence ne garantit pas l’adéquation ; la pluralité des descriptions n’implique pas nécessairement une pluralité de référents ; la stabilité d’une identification ne dispense pas d’en examiner les critères.
+Distinguer le référent de l'objet descriptif et de la description permet de maintenir une différence entre ce dont une pratique parle, ce qu'elle stabilise pour l'identifier et la manière dont elle le caractérise.
+
+**Établir ce dont on parle ne suffit pas à établir que ce que l'on en dit est adéquat.**
 
 Pour poursuivre :
 
-- [Objet descriptif](fr/objet-descriptif.md)
-- [Description](fr/description.md)
-- [Relation sémantique et référence](fr/relation-semantique-et-reference.md)
-- [Butoir](fr/butoir.md)
-- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
+- [Objet descriptif](fr/objet-descriptif.md) — Examiner la stabilisation d'une différence comme identifiable et réutilisable.
+- [Description](fr/description.md) — Distinguer l'activité descriptive, son contenu et la situation décrite.
+- [Relation sémantique et référence](fr/relation-semantique-et-reference.md) — Examiner les rapports entre usages sémantiques, critères et visée référentielle.
+- [Référent temporel](fr/le-referent-temporel.md) — Examiner le statut d'un processus physique utilisé comme référence de mesure.
+- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Situer les rapports sous lesquels une difficulté d'identification peut être examinée.
