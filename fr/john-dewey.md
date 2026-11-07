@@ -1,151 +1,170 @@
-# John Dewey — Enquête, transaction et transformation des habitudes
+# John Dewey — Situation problématique, enquête et habitudes
 
 ## Fonction
 
-Cette page présente les apports de John Dewey à la compréhension de l’enquête comme activité située, engagée dans des situations problématiques et susceptible de transformer les habitudes, les descriptions et les manières d’agir.
+Cette page présente les apports de John Dewey à la compréhension de l’enquête comme activité située, engagée dans une situation problématique et susceptible de transformer les manières de percevoir, de penser et d’agir.
 
-Elle examine trois aspects de sa pensée : la transaction entre organisme et environnement, la transformation des situations indéterminées par l’enquête et le rôle des habitudes dans l’expérience.
+Elle examine quatre aspects de sa pensée : la transformation des situations indéterminées par l’enquête, le rôle des habitudes, les rapports entre organisme et environnement et la fonction des idées dans la conduite de l’examen.
 
-Pour Protokin, Dewey constitue une ressource philosophique permettant de comprendre pourquoi une enquête part d’une difficulté rencontrée dans une pratique plutôt que de l’application d’un cadre entièrement défini à l’avance.
+Pour Protokin, Dewey constitue une ressource philosophique pour comprendre la dynamique des pratiques et la possibilité de réviser les descriptions qui les organisent. Il ne fournit ni les définitions ni l’architecture du projet. Les rapprochements proposés doivent donc être distingués des concepts propres à Protokin.
 
-Il ne fournit pas pour autant l’architecture complète de Protokin. Les notions et les opérations propres au projet doivent être définies et justifiées indépendamment de cet héritage.
+## 1. L’enquête : transformer une situation problématique
 
-## 1. Le problème : comprendre une enquête située
+Dans *Logic: The Theory of Inquiry* (1938), Dewey définit l’enquête comme la transformation contrôlée d’une situation indéterminée en une situation suffisamment déterminée pour permettre un jugement ou une action.
 
-Une pratique peut fonctionner de manière relativement régulière sans que ses participants aient besoin d’expliciter toutes les distinctions, les règles ou les attentes qu’ils mobilisent.
+Une situation devient problématique lorsque les manières habituelles de la comprendre ou d’y agir ne permettent plus de s’y orienter de façon satisfaisante. Cette indétermination ne se réduit pas à un manque d’information. Elle peut concerner les éléments à prendre en compte, les relations à examiner, la formulation du problème ou les conditions auxquelles une réponse devrait satisfaire.
 
-Une difficulté apparaît lorsque cette organisation ne suffit plus : une habitude conduit à une impasse, une attente est déçue, une décision devient contestable ou les moyens disponibles ne permettent plus de déterminer comment agir.
+L’enquête ne consiste donc pas seulement à trouver une réponse à une question déjà définie. Elle peut conduire à reprendre la question elle-même, à différencier des difficultés jusque-là confondues, à formuler des hypothèses et à examiner les conséquences des solutions envisagées.
 
-Il ne suffit alors pas toujours de répéter une opération, de préciser une définition ou d’appliquer une règle supplémentaire. Il peut être nécessaire de réexaminer la situation, de reformuler le problème et de modifier les moyens utilisés pour y répondre.
+La transformation de la situation passe par des opérations d'observation, de formulation, d'expérimentation et d'évaluation. Les éléments initialement indéterminés deviennent progressivement assez déterminés pour soutenir un jugement ou orienter une conduite.
 
-La philosophie de Dewey permet de penser cette transformation sans réduire l’enquête à une activité intellectuelle séparée de l’action. L’enquête se développe à partir d’une situation dans laquelle les manières habituelles de comprendre et d’agir ne permettent plus de poursuivre sans difficulté.
+Cette transformation ne garantit cependant pas une clôture définitive. Une solution peut permettre de poursuivre l'action sans supprimer toute difficulté. De nouvelles circonstances ou de nouvelles conséquences peuvent conduire à reprendre l'examen.
 
-Pour Protokin, cet apport est important : une enquête descriptive ne commence pas nécessairement par une question théorique déjà bien délimitée. La formulation même du problème peut devoir être révisée au cours de l’examen.
+### Situation problématique et incertitude individuelle
 
-## 2. La transaction entre organisme et environnement
+La situation problématique ne désigne pas simplement un état psychologique de doute ou d'hésitation. Elle concerne une situation dont l'organisation ne permet pas encore de déterminer suffisamment ce qui doit être fait ou établi.
 
-Dewey critique les conceptions qui séparent d’abord un sujet connaissant et un monde extérieur, puis cherchent à expliquer comment le premier pourrait accéder au second.
+Le problème n'est donc pas réductible à la perception subjective d'un individu. Il se manifeste dans les rapports entre les conditions d'une activité, les attentes qui l'orientent et les conséquences qui rendent sa poursuite incertaine.
 
-Dans une perspective transactionnelle, l’organisme et son environnement doivent être examinés à partir de leurs rapports effectifs. Les capacités d’un organisme, ses habitudes, les conditions matérielles de son activité et les possibilités offertes par son environnement prennent sens dans une situation déterminée.
+Une personne peut éprouver une difficulté sans parvenir à la formuler correctement. Inversement, une situation peut présenter des tensions que les participants ne reconnaissent pas encore comme problématiques.
 
-La transaction ne désigne donc pas simplement une interaction entre deux entités dont toutes les propriétés seraient déjà fixées indépendamment l’une de l’autre. Elle invite à étudier les transformations et les dépendances qui apparaissent dans leur rapport.
-
-Cette approche permet notamment de comprendre que l’expérience n’est pas une réception passive d’informations. Les activités perceptives et pratiques contribuent à déterminer ce qui devient pertinent dans une situation. Elles restent néanmoins exposées aux contraintes et aux conséquences de ce qui se produit.
-
-Une manière d’agir peut ainsi être adaptée à certaines conditions et devenir inadéquate lorsque celles-ci changent. Les habitudes d’un individu, les caractéristiques d’un outil et l’organisation d’un environnement peuvent se soutenir mutuellement sans que cet ajustement soit garanti dans toutes les situations.
-
-### Ce que Protokin peut en retenir
-
-La perspective transactionnelle invite à examiner les conditions corporelles, matérielles, techniques et environnementales des pratiques descriptives. Elle rappelle que les descriptions ne sont pas produites indépendamment des activités, des instruments et des situations dans lesquelles elles sont mobilisées.
-
-Elle ne permet toutefois pas de déduire le contenu d’une description de ses seules conditions de production. Expliquer comment une personne en vient à décrire une situation ne suffit pas à déterminer si sa description est adéquate.
-
-Les conditions de production, le contenu descriptif et la justification d’une conclusion doivent donc rester distingués, même lorsqu’ils entretiennent des dépendances importantes.
-
-## 3. L’enquête et la transformation d’une situation problématique
-
-Dans *Logic: The Theory of Inquiry* (1938), Dewey analyse l’enquête comme la transformation contrôlée d’une situation indéterminée en une situation dont les éléments et les relations sont suffisamment déterminés pour permettre un jugement ou une action.
-
-Une situation devient problématique lorsque les manières habituelles de la comprendre ou d’y agir ne permettent plus de s’y orienter de façon satisfaisante. L’indétermination ne désigne pas nécessairement un manque d’information isolé. Elle peut concerner la manière même de délimiter le problème, d’identifier les éléments pertinents ou de déterminer ce qui constituerait une réponse acceptable.
-
-L’enquête ne consiste donc pas uniquement à rechercher une solution à une question déjà fixée. Elle peut conduire à reformuler la question, à distinguer des difficultés jusque-là confondues, à produire des hypothèses ou à réexaminer les moyens d’évaluation disponibles.
-
-Les résultats de cet examen transforment la situation initiale. Une conclusion peut rendre une décision possible, réorienter l’action ou modifier les habitudes mobilisées. Mais elle ne clôt pas nécessairement toute difficulté : de nouvelles circonstances ou de nouvelles questions peuvent exiger une reprise de l’enquête.
-
-### Un exemple : l’arbre qui penche
-
-Un arbre situé à proximité d’une habitation présente une inclinaison inhabituelle.
-
-L’observation initiale ne suffit pas nécessairement à déterminer si l’arbre est dangereux. Il faut peut-être examiner son état biologique, la stabilité de son ancrage, les conditions du sol, son environnement et les conséquences possibles d’une chute.
-
-Le problème se précise à mesure que ces éléments sont examinés. Une information nouvelle peut modifier l’évaluation initiale ou montrer que la question posée était trop générale.
-
-L’enquête ne consiste pas à faire entrer automatiquement l’arbre dans une catégorie préétablie. Elle vise à déterminer quelles distinctions et quelles informations sont pertinentes pour la difficulté rencontrée, puis à examiner les conclusions que ces éléments permettent de soutenir.
-
-Cet exemple ne signifie pas que toutes les enquêtes suivent une procédure identique. Il montre plutôt que la détermination du problème et celle des réponses possibles peuvent se transformer conjointement.
-
-### Ce que Protokin peut en retenir
-
-Dewey aide à comprendre pourquoi une difficulté descriptive peut conduire à réviser non seulement une réponse, mais aussi les distinctions et les critères qui permettaient de la formuler.
-
-Cette idée rejoint l’orientation générale de Protokin : l’enquête doit pouvoir reprendre son point de départ lorsque l’examen révèle que le problème a été mal délimité ou que les ressources disponibles sont insuffisantes.
-
-La chaîne des opérations décrite dans l’[architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) précise la manière dont Protokin organise cet examen. Elle ne doit pas être présentée comme une transcription de la théorie de Dewey ni comme une succession nécessaire de phases.
-
-## 4. Habitudes, expérience et révision
+## 2. Les habitudes : dispositions acquises et organisation de l'activité
 
 Dans *Human Nature and Conduct* (1922), Dewey accorde une place centrale aux habitudes pour comprendre la conduite humaine.
 
-Une habitude n’est pas seulement une répétition mécanique ni une règle explicitement formulée. Elle désigne une disposition acquise qui organise certaines manières de percevoir, d’agir et de répondre aux situations.
+Une habitude n'est pas seulement une répétition mécanique ni une règle explicitement formulée. Elle désigne une disposition acquise qui organise des manières relativement régulières de percevoir, d'agir et de répondre aux situations.
 
-Les habitudes rendent possibles des conduites relativement régulières sans exiger une délibération complète à chaque occasion. Elles contribuent aussi à orienter l’attention : certaines caractéristiques deviennent saillantes, certaines réponses paraissent naturelles et certaines possibilités restent moins facilement envisagées.
+Les habitudes rendent possibles des conduites qui ne demandent pas une délibération complète à chaque occasion. Elles orientent également l'attention : certaines caractéristiques deviennent saillantes, certaines réponses paraissent naturelles et certaines possibilités sont plus facilement envisagées que d'autres.
 
-Cette organisation n’est ni immuable ni nécessairement adéquate. Une habitude peut être efficace dans un environnement et rencontrer des difficultés dans un autre. Une transformation des conditions peut également rendre problématique une manière de faire jusque-là satisfaisante.
+Les habitudes ne sont pas exclusivement individuelles. Elles se forment et se maintiennent dans des environnements matériels et sociaux, au contact d'instruments, de règles, d'institutions et d'autres pratiques. Elles contribuent ainsi à stabiliser des manières collectives de faire et de comprendre.
 
-La révision ne consiste donc pas simplement à remplacer une règle par une autre. Elle peut demander de transformer les habitudes, les attentes et l’organisation de l’activité dans laquelle le problème apparaît.
+Cette stabilité n'est pas une garantie d'adéquation. Une habitude peut fonctionner dans certaines conditions et devenir inadaptée lorsque celles-ci changent. Une difficulté peut alors conduire à réexaminer les attentes, les dispositions et les moyens qui organisent l'activité.
 
-Il faut néanmoins éviter de considérer toute difficulté comme la cause automatique d’un changement. Une situation problématique peut être ignorée, mal interprétée ou traitée par le maintien des pratiques existantes. Les possibilités de révision dépendent notamment des ressources disponibles, des intérêts en présence et des conditions dans lesquelles le problème peut être examiné.
+La transformation d'une habitude ne résulte toutefois pas automatiquement de la rencontre d'une difficulté. Celle-ci peut être ignorée, interprétée de manière inadéquate ou traitée par le maintien des conduites existantes. Les possibilités de révision dépendent des ressources disponibles et des conditions dans lesquelles la difficulté peut être examinée.
 
-### Ce que Protokin peut en retenir
+### Habitude et règle
 
-Les descriptions et les catégories mobilisées dans une pratique peuvent être soutenues par des habitudes qui ne sont pas toutes explicites. L’absence d’une règle formulée ne signifie donc pas que les conduites soient dépourvues d’organisation.
+Une habitude peut soutenir une conduite régulière sans prendre la forme d'une règle formulée. Il faut donc distinguer la disposition qui organise une pratique, les règles que ses participants peuvent expliciter et les raisons qu'ils peuvent avancer pour défendre leur manière d'agir.
 
-Inversement, la stabilité d’une habitude ou d’une catégorie ne suffit pas à établir son adéquation. Il faut examiner ce qu’elle permet de faire, les conditions dans lesquelles elle fonctionne et les difficultés qu’elle laisse subsister.
+Une régularité ne constitue pas, par elle-même, une justification. Inversement, l'absence de règle explicite ne signifie pas qu'une pratique soit dépourvue d'organisation ou de normativité.
 
-Une régularité pratique peut contribuer à expliquer la persistance d’une description sans constituer une justification suffisante de cette description.
+## 3. Organisme et environnement : une approche transactionnelle
 
-## 5. Instrumentalisme et portée des résultats
+Dewey refuse de prendre pour point de départ une séparation rigide entre un sujet connaissant et un monde extérieur qu'il devrait ensuite parvenir à connaître.
 
-Dewey accorde aux idées et aux concepts une fonction dans l’enquête. Ils ne sont pas seulement des représentations contemplées indépendamment de leurs usages : ils peuvent servir à formuler un problème, à organiser un examen, à anticiper des conséquences et à orienter l’action.
+Son approche conduit à examiner les rapports effectifs entre les organismes et leur environnement. Les capacités d'un organisme, ses habitudes, les conditions matérielles de son activité et les possibilités offertes par son environnement prennent sens dans les situations où ils se manifestent.
 
-Cette orientation est souvent désignée par le terme d’instrumentalisme. Elle ne doit pas être réduite à l’idée selon laquelle une affirmation serait vraie dès lors qu’elle est utile, confortable ou efficace pour atteindre un objectif immédiat.
+Le vocabulaire de la transaction reçoit une formulation particulière dans les travaux tardifs de Dewey avec Arthur F. Bentley, notamment dans *Knowing and the Known* (1949). Il invite à ne pas réduire l'examen à une interaction entre deux termes dont les propriétés seraient entièrement déterminées indépendamment de leurs rapports.
 
-Une hypothèse peut aider à organiser une enquête sans être encore suffisamment établie. Une procédure peut produire un résultat utilisable tout en reposant sur des hypothèses contestables. Une solution peut également répondre à un problème local en en aggravant un autre.
+Cette perspective ne signifie pas que l'organisme et l'environnement seraient indifférenciés. Elle conduit plutôt à examiner comment leurs rapports se constituent, se maintiennent et se transforment dans des activités déterminées.
 
-La fonction d’une idée dans une enquête et les raisons qui permettent de maintenir cette idée doivent donc être distinguées. Les conséquences anticipées ou observées peuvent contribuer à l’évaluation d’une hypothèse, mais leur portée dépend du problème, des conditions de l’examen et des autres éléments pertinents.
+L'expérience n'est ainsi pas une réception passive d'informations. Les activités perceptives et pratiques contribuent à organiser ce qui devient pertinent dans une situation. Elles restent néanmoins exposées aux contraintes et aux conséquences de ce qui se produit.
 
-Pour Protokin, cet apport permet de comprendre les concepts comme des ressources dont les usages et les limites peuvent être examinés. Il ne dispense pas de distinguer la fonction d’une description, ses conséquences, sa cohérence et son adéquation à ce qu’elle prétend décrire.
+Une manière d'agir peut être adaptée à certaines conditions et devenir inadéquate lorsque celles-ci changent. Les capacités d'un organisme, les caractéristiques d'un outil et l'organisation d'un environnement peuvent se soutenir mutuellement sans que cet ajustement soit garanti dans toutes les situations.
 
-Une description peut remplir efficacement une fonction particulière sans être adéquate pour toutes les questions auxquelles on voudrait l’appliquer.
+### Ce que cette perspective permet d'examiner
 
-## 6. Ce que Protokin retient de Dewey — et ce qu’il n’en déduit pas
+L'approche transactionnelle invite à considérer ensemble les conditions corporelles, matérielles, techniques et environnementales des pratiques.
 
-Trois apports sont particulièrement utiles.
+Elle permet notamment d'éviter deux simplifications :
 
-**1. L’enquête part d’une situation problématique.** Elle n’applique pas nécessairement un cadre entièrement déterminé à une situation dont les limites seraient déjà établies. La formulation du problème peut elle-même être reprise.
+- traiter les capacités d'un organisme comme si elles étaient indépendantes des conditions dans lesquelles elles s'exercent ;
+- réduire les contraintes environnementales à de simples représentations ou interprétations produites par l'organisme.
 
-**2. L’enquête engage des pratiques situées.** Les habitudes, les instruments, les conditions matérielles et l’environnement contribuent à organiser les possibilités d’examen et d’action. Ces conditions doivent être considérées sans être confondues avec la justification des conclusions.
+Elle ne permet toutefois pas de déduire le contenu d'une description de ses seules conditions de production. Expliquer comment une personne en vient à décrire une situation ne suffit pas à établir si sa description est adéquate.
 
-**3. Les résultats restent susceptibles de révision.** La détermination d’une situation permet de poursuivre l’action ou le jugement, mais elle ne garantit ni une clôture définitive ni l’absence de difficultés ultérieures.
+## 4. Les idées et leur fonction dans l'enquête
 
-Ces apports ne signifient pas que Protokin applique simplement Dewey. Le projet développe ses propres distinctions, notamment entre Condition, Relation, Fonction et Justification, ainsi que ses propres opérations d’enquête. Leur pertinence doit être évaluée au regard des problèmes qu’elles permettent de traiter.
+Dewey accorde aux idées et aux concepts une fonction dans la conduite de l'enquête. Ils ne sont pas seulement des représentations contemplées indépendamment de leurs usages : ils contribuent à formuler un problème, à organiser un examen, à anticiper des conséquences et à orienter l'action.
 
-La [quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) constitue à cet égard un cadre propre à Protokin. Elle distingue des questions adressées à une même configuration ; elle ne doit pas être présentée comme une division du réel en composantes ni comme une conséquence directe de la philosophie de Dewey.
+Cette orientation est souvent désignée par le terme d'**instrumentalisme**. Le terme ne doit pas être compris comme l'affirmation selon laquelle une proposition serait vraie dès lors qu'elle se révèle utile ou efficace pour atteindre un objectif immédiat.
 
-L’héritage de Dewey ne permet pas non plus de conclure :
+Une idée peut servir à formuler une hypothèse, à anticiper les conséquences d'une action ou à organiser une expérience. Son rôle doit être examiné à partir du problème auquel elle contribue à répondre et des conséquences que l'enquête permet d'évaluer.
 
-- que toute difficulté déclenche nécessairement une enquête ;
-- que toute enquête transforme effectivement les habitudes ;
-- que toute solution pratique est suffisamment justifiée ;
-- que les descriptions sont déterminées par leurs seules conditions matérielles ;
-- que les catégories utiles sont, de ce fait, adéquates ;
-- que les distinctions propres à Protokin se déduisent intégralement de son œuvre.
+Dewey insiste également sur le caractère révisable des fins poursuivies. Les fins-en-vue (*ends-in-view*) sont des anticipations qui orientent l'activité. Elles ne sont pas nécessairement fixées indépendamment des moyens employés : l'examen des moyens et de leurs conséquences peut conduire à modifier les fins initialement envisagées.
+
+Une hypothèse peut donc être utile pour conduire une enquête sans être encore suffisamment établie. Une procédure peut produire un résultat exploitable tout en reposant sur des hypothèses contestables. Une solution peut répondre à un problème local sans résoudre les autres difficultés de la situation.
+
+Il faut par conséquent distinguer la fonction d'une idée dans l'enquête, les conséquences de son emploi et les raisons qui permettent de maintenir les conclusions auxquelles elle contribue.
+
+L'instrumentalisme de Dewey ne se réduit ni à un utilitarisme immédiat ni à une théorie selon laquelle la réussite pratique suffirait à établir la vérité.
+
+## 5. Ce que Protokin peut retenir de Dewey
+
+Plusieurs apports de Dewey éclairent des problèmes auxquels Protokin s'intéresse.
+
+### 5.1. La formulation du problème peut être révisée
+
+Une enquête ne part pas nécessairement d'une question dont les termes et les limites seraient déjà déterminés. L'examen peut conduire à reformuler le problème, à distinguer plusieurs difficultés ou à reconnaître que les éléments initialement retenus ne suffisent pas.
+
+Ce rapprochement éclaire la possibilité de reprendre la délimitation d'un problème descriptif au cours de l'enquête.
+
+Il ne signifie pas que Protokin adopte à l'identique la théorie de l'enquête de Dewey. La notion de problème descriptif et les opérations propres au projet répondent à des exigences qui doivent être définies dans le corpus.
+
+Voir [Problème descriptif](fr/probleme-descriptif.md) et [Délimiter](fr/delimiter.md).
+
+### 5.2. Les pratiques sont organisées par des habitudes
+
+Les habitudes permettent de comprendre pourquoi des pratiques descriptives peuvent mobiliser des distinctions, des attentes et des régularités sans que toutes soient explicitement formulées.
+
+Elles contribuent à expliquer la stabilité de certains usages et la difficulté de les réviser. Mais leur persistance ne justifie pas les descriptions qu'elles soutiennent.
+
+Ce rapprochement invite à examiner les conditions dans lesquelles des pratiques acquises orientent la production et l'évaluation des descriptions.
+
+### 5.3. Les conditions de l'activité comptent pour l'examen
+
+L'approche transactionnelle attire l'attention sur les rapports entre les capacités, les instruments, les conditions matérielles et l'environnement dans lequel une pratique se déroule.
+
+Elle rejoint l'exigence de Protokin d'examiner les conditions effectives de production des descriptions sans les confondre avec leur contenu ou leur justification.
+
+Ces conditions peuvent contribuer à expliquer pourquoi une description est produite, pourquoi elle se maintient ou pourquoi elle rencontre une limite. Elles ne déterminent pas à elles seules si cette description est adéquate.
+
+### 5.4. Les idées doivent être examinées par leur fonction et leurs conséquences
+
+L'analyse de la fonction des idées dans l'enquête permet de ne pas traiter les concepts comme des définitions isolées de leurs usages.
+
+Une notion peut contribuer à formuler un problème, à organiser un examen ou à anticiper certaines conséquences. Il reste nécessaire de déterminer ce que cet emploi autorise effectivement à conclure.
+
+Voir [L'enquête et l'organisation des notions](fr/enquete-et-organisation-des-notions.md).
+
+## 6. Portée et limites de cet héritage
+
+Dewey fournit des ressources pour comprendre la dynamique des pratiques, la formation des habitudes et la transformation des situations problématiques. Il ne fournit pas pour autant une architecture complète de l'examen des pratiques descriptives.
+
+Plusieurs distinctions doivent être maintenues :
+
+- **Situation problématique ≠ problème descriptif.** La première notion appartient à l'analyse de Dewey ; la seconde désigne une difficulté définie dans le cadre de Protokin.
+- **Enquête de Dewey ≠ enquête de Protokin.** Le rapprochement éclaire une orientation, mais ne fonde pas une identité de méthode.
+- **Habitude ≠ règle explicite.** Une habitude organise des dispositions et des conduites sans se réduire à une règle formulée.
+- **Régularité pratique ≠ justification.** La stabilité d'une conduite ou d'une description n'établit pas les raisons qui permettraient de la défendre.
+- **Fonction instrumentale ≠ utilité immédiate.** Le rôle d'une idée dans l'enquête ne garantit pas la correction de toutes les conclusions auxquelles elle contribue.
+- **Transformation d'une situation ≠ justification suffisante.** Rendre une action possible ne dispense pas d'examiner les raisons et les critères qui soutiennent les conclusions.
+- **Transaction ≠ fusion.** Examiner les rapports entre organisme et environnement ne revient pas à abolir leurs différences.
+
+L'héritage de Dewey ne permet donc pas, à lui seul :
+
+- de déterminer si une description est adéquate à ce qu'elle prétend décrire ;
+- de fixer les critères permettant de justifier une conclusion particulière ;
+- de déduire les opérations ou les orientations propres à Protokin ;
+- d'affirmer que toute difficulté conduit nécessairement à une enquête ou à une transformation ;
+- de considérer qu'une solution qui permet de poursuivre l'action est nécessairement satisfaisante sous tous les rapports.
+
+La contribution de Dewey doit être comprise comme une ressource pour examiner la dynamique des pratiques, non comme un fondement qui dispenserait Protokin de justifier ses propres distinctions.
 
 ## Synthèse
 
-John Dewey permet de comprendre l’enquête comme une activité située qui transforme une situation devenue problématique. Sa conception transactionnelle invite à examiner les rapports entre organisme et environnement ; son analyse des habitudes montre comment les pratiques s’organisent sans dépendre entièrement de règles explicites ; son instrumentalisme souligne le rôle des idées dans l’examen et la transformation des situations.
+Dewey permet de comprendre l'enquête comme une transformation située d'une situation problématique. Son analyse des habitudes montre comment les pratiques s'organisent sans dépendre entièrement de règles explicites. Son approche transactionnelle invite à examiner les rapports entre organisme et environnement. Son instrumentalisme souligne enfin le rôle des idées dans l'organisation de l'examen et l'anticipation de ses conséquences.
 
-Pour Protokin, cet héritage justifie l’attention portée aux difficultés concrètes, à la révision des descriptions et aux conditions dans lesquelles les pratiques peuvent être réorganisées.
+Pour Protokin, cet héritage éclaire la formation et la révision des pratiques descriptives. Il ne permet toutefois pas de confondre les conditions de production d'une description, sa fonction dans une activité et les raisons qui permettent de la maintenir.
 
-Il ne suffit cependant pas à établir l’adéquation d’une description ni à justifier une conclusion particulière. L’explication d’une pratique, la fonction d’une description et les raisons de la maintenir restent des questions distinctes.
+Dewey constitue ainsi une ressource pour penser la dynamique de l'enquête, non un fondement qui déterminerait à l'avance les concepts, les opérations ou les conclusions du projet.
 
-Dewey constitue ainsi une ressource pour penser la dynamique de l’enquête, non un fondement qui dispenserait Protokin d’examiner et de justifier ses propres distinctions.
+## Pour poursuivre
 
-Pour poursuivre :
-
-- [Introduction générale](fr/introduction-generale.md) — Situer le problème descriptif auquel répond Protokin.
-- [Architecture du projet](fr/architecture-projet.md) — Comprendre la fonction des ressources du corpus et leurs relations.
-- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Examiner les opérations mobilisables pour traiter une difficulté descriptive.
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations selon lesquelles une même configuration peut être examinée.
-- [Description](fr/description.md) — Distinguer la pratique descriptive, son contenu et la situation décrite.
-- [Table des matières](fr/tdm.md) — Retrouver les autres ressources de Protokin.
+- [Enquête](fr/enquete.md) — Définir le statut de l'enquête dans Protokin.
+- [Problème descriptif](fr/probleme-descriptif.md) — Caractériser la difficulté qui rend nécessaire l'examen des pratiques descriptives.
+- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Présenter les composantes mobilisées par Protokin pour conduire cet examen.
+- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Distinguer les rapports sous lesquels une situation peut être examinée.
+- [L'enquête et l'organisation des notions](fr/enquete-et-organisation-des-notions.md) — Examiner le rôle des notions dans le travail d'enquête.
+- [Charles Sanders Peirce](fr/charles-sanders-peirce.md) — Examiner la clarification pragmatique des concepts, les habitudes et la révision des croyances.
+- [Wilfrid Sellars](fr/wilfrid-sellars.md) — Examiner les rapports entre expérience, explication et justification.
