@@ -211,7 +211,7 @@ Ces pages permettent d’examiner une difficulté précise, de comparer des desc
 ### A. Diagnostics et difficultés
 
 - [Les diagnostics de l’enquête](fr/les-diagnostics-de-l-enquete.md) — Cartographier les difficultés descriptives déjà identifiées et orienter le choix d’un examen approprié.
-- [Diagnostiquer une confusion de niveau](fr/diagnostiquer-une-confusion-de-niveau.md) — Examiner les déplacements injustifiés entre des plans ou des fonctions distincts.
+- [Diagnostiquer une confusion de niveau](fr/diagnostiquer-une-confusion-de-niveau.md) — Examiner les passages entre des dimensions ou des fonctions distinctes et les médiations qui autorisent les conclusions tirées.
 - [Diagnostiquer une erreur de catégorie](fr/diagnostiquer-une-erreur-de-categorie.md) — Examiner les attributions qui mobilisent une catégorie inadéquate.
 - [Diagnostiquer une réduction](fr/diagnostiquer-une-reduction.md) — Examiner les absorptions unilatérales par lesquelles une fonction ou un registre est ramené à un autre.
 - [Tension](fr/tension.md) — Caractériser une difficulté de fonctionnement qui affecte une pratique, une configuration ou la coordination de plusieurs exigences.
