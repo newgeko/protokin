@@ -1,272 +1,218 @@
-# Intelligence artificielle — Résultats computationnels et pratiques descriptives
+# Description et normativité — Des exigences descriptives aux exigences pratiques
 
 ## Fonction
 
-Cette page examine les difficultés descriptives qui apparaissent lorsque des systèmes d'intelligence artificielle produisent des classifications, des estimations, des prédictions, des recommandations ou des textes mobilisés dans des pratiques humaines.
+Cette page examine les rapports entre les exigences normatives qui interviennent dans les pratiques descriptives et celles qui concernent les conduites.
 
-Elle cherche à distinguer ce que le système produit, ce que les utilisateurs en interprètent et ce qu'ils peuvent légitimement conclure ou décider à partir de ces résultats.
+Elle part d'une difficulté : une description peut contribuer à justifier une action sans déterminer, à elle seule, ce qui doit être fait. Inversement, les pratiques descriptives ne sont pas dépourvues de normes : elles mobilisent des critères de correction, des règles d'application et des exigences de justification.
 
-L'intelligence artificielle constitue ici un domaine d'examen, non une catégorie dont Protokin aurait à déterminer l'essence. La page porte sur les usages des systèmes et sur les relations entre leurs résultats, les descriptions qui les reprennent et les décisions auxquelles ils contribuent.
+La page distingue ces fonctions normatives et examine les médiations qui permettent de les articuler. Elle ne propose ni une théorie générale de l'origine des normes ni une méthode universelle de décision.
 
-## 1. Problème : que permet de conclure un résultat computationnel ?
+## 1. Le problème du passage du descriptif au normatif
 
-Un système d'intelligence artificielle peut classer des données, estimer une probabilité, repérer une anomalie, proposer une recommandation ou générer un texte. Ces résultats peuvent être utiles et modifier sensiblement une pratique.
+Une description peut établir qu'une situation présente certaines caractéristiques, qu'un phénomène produit certains effets ou qu'une intervention comporte certains risques.
 
-Une difficulté apparaît lorsque le résultat est traité comme s'il suffisait à établir une conclusion plus large que celle pour laquelle il a été produit.
+Ces éléments peuvent contribuer à une décision. Ils ne suffisent cependant pas, à eux seuls, à déterminer la conduite à adopter.
 
-Un score de risque peut ainsi être interprété comme une propriété stable d'une personne. Une prédiction peut être présentée comme un fait établi. Une réponse formulée dans un langage naturel peut être tenue pour une conclusion suffisamment justifiée.
+Considérons les deux propositions suivantes :
 
-L'erreur ne consiste pas nécessairement à utiliser le résultat du système. Elle consiste à lui attribuer une portée qui n'a pas été examinée.
+- **IS** : une branche fissurée surplombe une habitation.
+- **OUGHT** : il faut abattre l'arbre.
 
-La question directrice est donc la suivante :
+La seconde proposition ne découle pas logiquement de la première. Pour la soutenir, il faut notamment examiner la nature du risque, les conséquences envisagées, les interventions possibles, les responsabilités concernées et les raisons de retenir une solution plutôt qu'une autre.
 
-**Qu'est-ce qu'un résultat computationnel permet effectivement d'établir, et à quelles conditions peut-il soutenir une description, une conclusion ou une décision ?**
+Le problème ne consiste donc pas à séparer les faits et les normes comme deux domaines indépendants. Il consiste à déterminer ce que les éléments descriptifs permettent effectivement de soutenir et quelles exigences supplémentaires interviennent dans une conclusion pratique.
 
-Pour y répondre, il faut notamment examiner :
+**Une description peut contribuer à justifier une conduite sans constituer, à elle seule, la justification de cette conduite.**
 
-- la tâche pour laquelle le système a été conçu ou utilisé ;
-- les données et les catégories mobilisées ;
-- le traitement effectué et le résultat produit ;
-- les conditions dans lesquelles ce résultat est évalué ;
-- l'interprétation qui en est faite ;
-- les conclusions et les décisions auxquelles il contribue.
+## 2. Deux fonctions normatives à distinguer
 
-Ces éléments sont liés, mais ils ne remplissent pas la même fonction.
+Le terme « normativité » désigne ici des exigences différentes. Pour examiner leurs rapports, il faut distinguer au moins deux fonctions.
 
-## 2. Distinguer le traitement, le résultat, l'interprétation et la décision
+### 2.1. Les exigences normatives des pratiques descriptives
 
-L'expression « résultat de l'intelligence artificielle » peut désigner des éléments différents. Selon le système et la tâche, il peut s'agir d'un score, d'une classe, d'une estimation, d'une séquence de mots, d'une détection ou d'une recommandation.
+Une pratique descriptive peut être évaluée au regard de normes de correction et de justification.
 
-Il faut distinguer au moins quatre éléments.
+Il peut être pertinent de demander :
 
-### 2.1. Le traitement computationnel
+- si une catégorie est correctement appliquée ;
+- si une distinction est suffisamment étayée ;
+- si les éléments disponibles autorisent une affirmation ;
+- si une inférence est recevable ;
+- si une conclusion peut être défendue au regard des critères mobilisés.
 
-Il désigne les opérations effectuées par le système sur des données, selon une architecture, des paramètres et des règles de fonctionnement déterminés.
+Ces exigences règlent la manière dont une description est produite, soutenue, contestée ou révisée.
 
-Le traitement dépend notamment de la tâche, des données d'entrée, des choix de conception et des conditions d'exécution.
+Elles concernent ce qui peut être affirmé, les conditions auxquelles une affirmation est recevable et les raisons qui permettent de la maintenir. Elles ne prescrivent pas automatiquement une action.
 
-### 2.2. Le résultat produit
+Devoir répondre d'une affirmation ou justifier une qualification ne signifie pas, par exemple, être tenu d'accomplir une intervention déterminée.
 
-Il désigne la sortie particulière du système : score, classification, prédiction, recommandation, texte ou autre résultat.
+### 2.2. Les exigences normatives de la conduite
 
-Ce résultat possède une portée liée à la tâche et aux conditions dans lesquelles il a été produit. Il ne constitue pas nécessairement une observation directe de la situation concernée.
+La normativité pratique concerne ce qui est permis, requis, interdit ou justifiable dans une situation.
 
-### 2.3. L'interprétation du résultat
+Elle engage notamment :
 
-Elle désigne la manière dont un utilisateur ou une institution comprend la sortie et la rapporte à une situation déterminée.
+- les obligations et les permissions ;
+- les interdictions ;
+- les responsabilités attribuées aux agents ;
+- les règles applicables ;
+- les possibilités effectives d'action ;
+- les exigences permettant de défendre une conduite.
 
-Cette interprétation peut respecter la portée du résultat, la restreindre ou, au contraire, lui attribuer une signification qui n'est pas établie.
+Ces exigences ne se réduisent pas aux critères de correction d'une description.
 
-### 2.4. La conclusion ou la décision
+Une affirmation correctement soutenue sur l'existence d'un risque ne détermine pas automatiquement qui doit intervenir, selon quelle modalité, dans quel délai ou au moyen de quelle action.
 
-Elle désigne ce qui est affirmé, retenu ou entrepris à partir du résultat interprété.
+### 2.3. Des fonctions distinctes mais dépendantes
 
-Une décision peut mobiliser plusieurs informations, des règles, des critères et des responsabilités qui ne sont pas contenus dans la sortie du système.
+Les deux fonctions normatives peuvent intervenir dans une même pratique.
 
-Ces quatre éléments dépendent les uns des autres. Le choix de la tâche influence le résultat attendu ; la présentation de la sortie peut orienter son interprétation ; les usages institutionnels peuvent modifier les données collectées et les critères de conception.
+Une décision dépend de descriptions portant sur la situation, les risques et les possibilités d'intervention. En retour, une règle ou une responsabilité peut déterminer quelles informations doivent être recueillies et quels aspects de la situation doivent être examinés.
 
-Il faut cependant éviter de les convertir les uns dans les autres :
+Cette dépendance ne rend pas les fonctions équivalentes. Les exigences qui permettent d'évaluer une description ne répondent pas automatiquement à la question de savoir quelle conduite est requise.
 
-- le traitement ne se confond pas avec son résultat ;
-- le résultat ne détermine pas à lui seul son interprétation ;
-- l'interprétation ne constitue pas automatiquement une justification ;
-- la décision ne découle pas nécessairement du résultat.
+## 3. Les médiations entre description et conduite
 
-Le caractère computationnel d'une sortie ne suffit ni à la rendre vraie ni à la rendre fausse. Sa pertinence doit être examinée au regard de la tâche, des données, des conditions d'emploi et de la conclusion que l'on cherche à soutenir.
+Le passage d'une description à une conclusion pratique demande d'expliciter les éléments qui les relient.
 
-## 3. Performance, fiabilité et adéquation
+Ces médiations peuvent notamment comprendre :
 
-Un système peut obtenir de bons résultats selon une métrique déterminée sans que chacune de ses sorties soit adéquate à la situation dans laquelle elle est utilisée.
+- **Les éléments descriptifs** : observations, mesures, traces ou informations concernant la situation.
+- **Les critères d'évaluation** : exigences permettant de qualifier la situation, d'apprécier un risque ou de déterminer la pertinence des éléments disponibles.
+- **Les prémisses normatives** : règles, obligations ou exigences qui donnent une portée pratique aux éléments examinés.
+- **Les responsabilités** : positions et fonctions auxquelles une intervention ou une décision peut incomber.
+- **Les possibilités d'action** : interventions réalisables, moyens disponibles et contraintes rencontrées.
+- **Les conséquences envisagées** : effets que les différentes conduites pourraient produire et raisons de les rechercher ou de les éviter.
 
-L'évaluation d'un système doit donc distinguer plusieurs questions.
+Ces éléments ne remplissent pas la même fonction. Leur articulation doit être examinée dans la situation considérée.
 
-**La performance mesurée** concerne la réussite du système pour une tâche définie, selon un ensemble de données et une procédure d'évaluation déterminés.
+Une description peut établir qu'un risque existe. Un critère peut permettre d'en apprécier la gravité. Une règle peut attribuer une responsabilité de prévention. Les possibilités d'action et leurs conséquences peuvent ensuite contribuer à déterminer quelle intervention est défendable.
 
-**La fiabilité dans les conditions d'utilisation** concerne la possibilité de retrouver des résultats suffisamment stables et pertinents dans les situations concrètes où le système est employé.
+Le passage à une conclusion pratique n'est donc pas nécessairement une déduction formelle. Il peut mobiliser des règles explicites, des engagements déjà reconnus ou des prémisses qui restent à rendre visibles. Dans tous les cas, il faut examiner ce qui autorise effectivement la conclusion.
 
-**L'adéquation du résultat** concerne la manière dont une sortie particulière rend compte de la situation à laquelle elle est rapportée.
+## 4. Les qualifications évaluatives dans les descriptions
 
-**La justification de la conclusion** concerne les raisons permettant de défendre ce qui est affirmé ou décidé à partir du résultat.
+La distinction entre descriptif et normatif ne signifie pas que toute description serait neutre ou dépourvue de déterminations évaluatives.
 
-Ces dimensions peuvent être liées sans être équivalentes.
+Certaines qualifications mobilisent déjà des critères normatifs ou évaluatifs :
 
-Une mesure de performance peut établir que le système réussit certaines opérations dans les conditions testées. Elle ne garantit pas que les mêmes performances se maintiennent dans un autre contexte, que chaque sortie particulière soit correcte ou que toute décision prise à partir de cette sortie soit justifiée.
+- un comportement est **négligent** ;
+- un bâtiment est **dangereux** ;
+- une intervention est **disproportionnée** ;
+- une mesure est **insuffisante** ;
+- une procédure est **irrégulière**.
 
-Il faut également distinguer la performance du système de la pertinence de la tâche elle-même. Un système peut remplir correctement une tâche dont la définition ne correspond que partiellement au problème rencontré.
+Ces qualifications ne se réduisent pas à la constatation d'une propriété observable. Leur emploi suppose de préciser les critères, les attentes ou les règles au regard desquels elles sont formulées.
 
-**Performance mesurée ≠ adéquation de chaque résultat ≠ justification de la décision.**
+Il ne suffit donc pas de classer une proposition comme descriptive ou normative à partir de sa seule forme grammaticale. Il faut examiner ce qu'elle affirme, les critères qu'elle mobilise et les conséquences que son usage autorise.
 
-## 4. Deux situations d'examen
+Une qualification évaluative ne constitue cependant pas automatiquement une prescription d'action.
 
-Les situations suivantes permettent d'éprouver la distinction entre résultat computationnel, interprétation et décision. Elles ne prétendent pas représenter tous les usages de l'intelligence artificielle.
+Qualifier un bâtiment de dangereux ne détermine pas, à lui seul, s'il faut l'évacuer, le consolider, le surveiller ou en interdire l'accès. Ces décisions demandent un examen supplémentaire des risques, des responsabilités, des règles et des possibilités d'intervention.
 
-### 4.1. Une recommandation de triage médical
+**Une détermination évaluative dans une description ne se confond pas avec une obligation pratique.**
 
-Considérons un système utilisé dans un service d'urgence pour signaler des situations susceptibles de nécessiter une intervention rapide.
+## 5. Exemple : qualifier un risque et décider d'intervenir
 
-Le système reçoit certaines données et produit un score ou une catégorie de priorité. Ce résultat peut attirer l'attention sur une situation et contribuer à organiser l'examen des patients.
+Une branche fissurée surplombe une habitation.
 
-Trois questions doivent rester distinctes.
+Plusieurs affirmations peuvent être formulées :
 
-**Le résultat computationnel.** Il faut déterminer ce que le système évalue, quelles données il utilise et ce que signifie la catégorie attribuée. Un niveau de priorité n'est pas nécessairement un diagnostic complet.
+1. Une fissure est visible sur la branche.
+2. La branche peut se rompre dans certaines conditions.
+3. Sa rupture pourrait provoquer des dommages à l'habitation.
+4. L'arbre présente un risque pour les personnes ou les biens.
+5. Une intervention préventive est nécessaire.
+6. L'abattage constitue la conduite à retenir.
 
-**L'interprétation clinique.** Le professionnel rapporte le résultat aux observations disponibles, aux informations concernant le patient et aux autres éléments pertinents. Le résultat peut confirmer une hypothèse, attirer l'attention sur un signe ou demander une vérification supplémentaire.
+Ces affirmations ne possèdent pas le même statut.
 
-**La décision.** La décision de soin doit être examinée au regard des informations disponibles, des critères cliniques pertinents et des responsabilités applicables. Elle ne découle pas automatiquement d'un score.
+Les premières portent sur des observations, des possibilités et des conséquences. La quatrième comporte une qualification du risque, dont les critères doivent être précisés. Les deux dernières avancent des conclusions pratiques qui demandent des éléments et des raisons supplémentaires.
 
-Une difficulté apparaît si une catégorie calculée est traitée comme une description exhaustive de l'état du patient, ou si un score est utilisé pour écarter automatiquement une personne sans examiner sa pertinence pour le cas considéré.
+La présence d'un risque ne suffit pas à établir que l'abattage est nécessaire. Il faut examiner l'état de l'arbre, la probabilité et la gravité des dommages, les possibilités d'élagage ou de mise en sécurité, les responsabilités concernées et les règles applicables.
 
-L'examen doit alors déterminer ce que le système a effectivement produit, ce que les professionnels en ont conclu et quels éléments soutiennent la décision finale.
+Une expertise peut conduire à recommander un élagage, une surveillance, une intervention immédiate ou un abattage. La conclusion dépend des éléments disponibles et des exigences pertinentes pour la situation.
 
-Cet exemple ne démontre ni la fiabilité générale des systèmes de triage ni leur inadéquation. Il montre pourquoi la portée d'un résultat doit être examinée au regard de son usage.
+L'exemple permet de distinguer trois questions :
 
-### 4.2. Un score de risque dans une décision judiciaire
+- **Description** : quels éléments caractérisent la situation ?
+- **Évaluation** : selon quels critères la situation est-elle qualifiée ?
+- **Conduite** : quelles raisons permettent de soutenir une intervention déterminée ?
 
-Considérons un système qui attribue à une personne un score estimant un risque de récidive à partir de données historiques et de caractéristiques retenues pour la tâche.
+Ces questions peuvent dépendre les unes des autres sans recevoir automatiquement la même réponse.
 
-Le score peut fournir un élément d'information. Sa signification dépend toutefois des données utilisées, de la population sur laquelle le système a été évalué, de la définition du résultat prédit et des conditions dans lesquelles l'estimation est mobilisée.
+## 6. Articulation avec les autres ressources de Protokin
 
-Une confusion apparaît si le score est traité comme une propriété intrinsèque et permanente de la personne, ou comme une preuve suffisante pour déterminer une décision judiciaire.
+Cette page précise une relation entre fonctions normatives. Elle ne remplace pas les ressources qui examinent chacune de ces fonctions.
 
-Il faut distinguer :
+- [Thèse — Du descriptif au normatif](fr/these.md) présente différentes propositions sur les mécanismes susceptibles d'articuler description et normativité.
+- [Engagement descriptif](fr/engagement-descriptif.md) examine le statut normatif associé à une prise de position descriptive.
+- [Scorekeeping déontique](fr/scorekeeping-deontique.md) examine le suivi et l'attribution des engagements et des habilitations dans les échanges discursifs.
+- [Justification](fr/justification.md) et [Justifier](fr/justifier.md) examinent respectivement la défense d'un engagement et le soutien apporté à une conclusion.
+- [Validité](fr/validite.md) examine l'évaluation d'une description au regard de sa prétention et des exigences pertinentes.
+- [Obligation institutionnelle et obligation pratique](fr/obligation-institutionnelle-et-obligation-pratique.md) examine les rapports entre règles instituées, responsabilités, possibilités d'action et justification pratique.
+- [Orientation de l'examen](fr/orientation-de-l-examen.md) précise les rapports sous lesquels une difficulté peut être examinée.
 
-- l'estimation produite par le système ;
-- les éléments empiriques permettant d'évaluer cette estimation ;
-- la pertinence de cette estimation pour une personne et une situation déterminées ;
-- les critères applicables à la décision ;
-- les raisons permettant de défendre la décision et de la soumettre à la contradiction.
+La distinction entre normativité descriptive et normativité pratique ne constitue ni une opération supplémentaire ni une orientation nouvelle. Elle peut être examinée sous différentes orientations et mobiliser plusieurs opérations, selon le problème rencontré.
 
-Le passage du score à une décision suppose donc des choix concernant la pertinence des données, la portée du risque estimé, les critères applicables et les conséquences que l'institution entend tirer de l'évaluation.
+## 7. Non-conversions à préserver
 
-Le score ne devient pas une caractéristique de la personne du seul fait qu'il est exprimé numériquement. Il ne constitue pas non plus, à lui seul, une justification juridique.
+Les rapports entre description et normativité demandent de maintenir plusieurs distinctions :
 
-Ce cas ne permet pas de conclure que tout score de risque est dépourvu de pertinence. Il montre que la pertinence d'une estimation statistique et la justification d'une décision judiciaire sont deux questions distinctes.
+- **Fait ≠ obligation** : la constatation d'une situation ne détermine pas, à elle seule, ce qui doit être fait.
+- **Condition ≠ critère** : une condition matérielle peut contraindre une action sans constituer le critère qui la justifie.
+- **Besoin ≠ obligation** : l'existence d'un besoin ne détermine pas automatiquement qui doit y répondre.
+- **Cause ≠ raison** : expliquer pourquoi un événement se produit ne suffit pas à justifier une conduite.
+- **Conséquence ≠ prescription** : anticiper un effet ne détermine pas automatiquement s'il doit être recherché ou évité.
+- **Qualification évaluative ≠ prescription** : qualifier une situation ne détermine pas automatiquement l'action à accomplir.
+- **Correction descriptive ≠ justification pratique** : une description correctement soutenue ne suffit pas à justifier toutes les décisions qui s'appuient sur elle.
+- **Engagement discursif ≠ obligation d'agir** : devoir répondre d'une assertion ne signifie pas devoir accomplir une action.
+- **Règle applicable ≠ application justifiée** : l'existence ou l'applicabilité d'une règle ne dispense pas d'examiner les modalités de son application.
 
-## 5. Les conditions matérielles et les choix de conception
+Ces distinctions n'interdisent pas les relations entre les fonctions concernées. Elles imposent d'expliciter les prémisses, les critères et les conditions qui autorisent le passage d'une conclusion à une autre.
 
-Les résultats d'un système d'intelligence artificielle dépendent de conditions matérielles et de choix qui ne sont pas toujours visibles au moment de leur utilisation.
+**Continuité des dépendances, discontinuité des fonctions, non-conversion.**
 
-Selon le système, l'examen peut porter sur :
-
-- les données d'entraînement et les données utilisées en fonctionnement ;
-- la définition des catégories et des variables ;
-- les objectifs d'optimisation et les métriques d'évaluation ;
-- les procédures de collecte, de sélection et de traitement des données ;
-- les conditions techniques et institutionnelles de déploiement ;
-- les modifications apportées au système et les modalités de suivi de ses résultats.
-
-Ces éléments peuvent affecter ce que le système repère, les erreurs qu'il produit et les usages auxquels ses résultats se prêtent.
-
-La matérialité du système ne se réduit pas à ses serveurs ou à ses composants. Les catégories retenues, les choix de conception, les procédures d'évaluation et les règles d'utilisation contribuent également aux conditions dans lesquelles ses résultats prennent une fonction.
-
-Il faut toutefois éviter deux conclusions symétriques.
-
-Identifier les conditions de production d'un résultat ne suffit pas à le valider. Mais cette identification ne suffit pas davantage à l'invalider. Le rôle de ces conditions doit être établi à partir des éléments disponibles et de la difficulté examinée.
-
-## 6. L'usage du résultat et la responsabilité des acteurs
-
-La responsabilité ne se déduit pas directement du mode de calcul. Elle doit être examinée à partir des rôles effectivement exercés dans la conception, le déploiement, l'interprétation et l'utilisation du système.
-
-Selon les situations, plusieurs acteurs peuvent intervenir :
-
-- les concepteurs du système ;
-- les fournisseurs ou les responsables des données ;
-- les organisations qui choisissent et déploient le système ;
-- les professionnels qui interprètent ses résultats ;
-- les institutions qui définissent les règles d'utilisation ;
-- les personnes qui prennent les décisions finales.
-
-Leur contribution n'est pas nécessairement identique. Il faut examiner qui a choisi les critères, qui pouvait connaître les limites du système, qui avait la possibilité de vérifier le résultat, qui disposait du pouvoir de décision et quelles obligations s'appliquaient à chacun.
-
-Cette analyse évite deux conclusions trop rapides.
-
-La première consisterait à attribuer au système, du seul fait qu'il produit un résultat, l'ensemble des responsabilités liées à la décision.
-
-La seconde consisterait à considérer que la présence d'un système computationnel dispense les personnes et les institutions de répondre de leurs choix.
-
-La responsabilité doit être rapportée aux rôles, aux pouvoirs, aux connaissances accessibles et aux règles applicables. Sa répartition ne peut être déterminée sans examen de la situation concrète.
-
-Cette question ne se confond pas avec celle de savoir si un système peut être décrit comme agent. L'analyse des usages et des responsabilités ne suffit pas à trancher les questions relatives à l'agentivité ou à la conscience artificielles.
-
-## 7. Repères pour conduire l'examen
-
-Face à une difficulté impliquant un système d'intelligence artificielle, l'enquête peut être orientée par plusieurs questions :
-
-- Quel résultat, quelle interprétation ou quelle décision est contesté ?
-- Quelles données, traces, informations techniques et observations sont disponibles ?
-- Que produit effectivement le système, et à quelle tâche ce résultat répond-il ?
-- Comment le résultat est-il interprété et rapporté à la situation ?
-- Quelles conclusions les éléments disponibles permettent-ils de soutenir ?
-- Quelles raisons justifient la décision et qui doit pouvoir en répondre ?
-- Quelles possibilités de contestation, de vérification ou de révision existent ?
-
-Ces questions ne constituent pas une procédure universelle ni une suite obligatoire d'étapes. Leur ordre dépend de la difficulté rencontrée. L'enquête peut conduire à rechercher des informations supplémentaires, à reprendre une distinction ou à redélimiter le problème.
-
-Les orientations actuellement disponibles dans Protokin peuvent contribuer à différencier les rapports sous lesquels la situation est examinée :
-
-- **Condition** : quelles conditions matérielles, techniques, institutionnelles ou historiques interviennent ?
-- **Relation** : quels rapports peuvent être établis entre les données, le traitement, le résultat, la situation et les autres informations ?
-- **Fonction** : quel rôle le résultat joue-t-il dans la pratique concernée ?
-- **Justification** : quelles raisons permettent de soutenir ou de contester les conclusions et les décisions ?
-
-Ces orientations sont des repères révisables. Elles ne constituent ni quatre composantes de tout système d'IA, ni une classification exhaustive des questions, ni quatre phases obligatoires de l'examen. Une même difficulté peut conduire à mobiliser plusieurs orientations, ou à en privilégier une seule.
-
-## 8. Portée et limites de l'examen
+## 8. Portée et limites
 
 ### Ce que cette analyse établit
 
-Elle permet d'établir plusieurs distinctions :
+Elle établit que :
 
-- un résultat computationnel ne se confond pas avec l'interprétation qui en est faite ;
-- une performance mesurée ne garantit pas l'adéquation de chaque résultat à une situation particulière ;
-- un score ou une classification ne constitue pas automatiquement une propriété intrinsèque de la personne concernée ;
-- une prédiction n'est pas nécessairement un fait observé ;
-- la pertinence d'un résultat pour une tâche ne suffit pas à justifier toutes les décisions prises à partir de ce résultat ;
-- l'identification des conditions de production d'une sortie ne suffit ni à la valider ni à l'invalider ;
-- l'utilisation d'un système ne supprime pas la nécessité d'examiner les rôles, les critères et les responsabilités des acteurs concernés.
+- les pratiques descriptives peuvent être soumises à des normes de correction, d'application et de justification ;
+- les conduites peuvent être soumises à des exigences normatives distinctes ;
+- les descriptions peuvent contribuer à une décision sans la déterminer à elles seules ;
+- certaines qualifications descriptives comportent des déterminations évaluatives ;
+- le passage à une conclusion pratique demande d'examiner les prémisses, les critères, les règles, les responsabilités et les possibilités d'action pertinentes.
 
 ### Ce qu'elle suggère
 
-Elle suggère que l'examen des usages de l'intelligence artificielle gagne en précision lorsqu'il distingue la tâche, le résultat, son interprétation et la décision.
+Elle suggère qu'une enquête sur une décision gagne en précision lorsqu'elle distingue ce qui est affirmé sur une situation, les critères qui permettent de l'évaluer, les exigences normatives mobilisées et les raisons de retenir une conduite.
 
-Cette distinction peut notamment aider à identifier les transferts de portée injustifiés : lorsqu'un résultat limité à une tâche est utilisé comme une description générale, lorsqu'une estimation devient une propriété attribuée à une personne ou lorsqu'une recommandation est traitée comme une obligation.
-
-Elle suggère également que l'évaluation d'un système ne peut être séparée des pratiques dans lesquelles il est conçu, déployé et utilisé. Les conditions techniques et les règles institutionnelles contribuent à déterminer la fonction que ses résultats prennent dans ces pratiques.
+Cette distinction peut aider à repérer les passages insuffisamment justifiés entre une qualification descriptive et une prescription pratique.
 
 ### Ce qu'elle n'établit pas
 
 Cette analyse n'établit pas :
 
-- que tous les systèmes d'intelligence artificielle fonctionnent de la même manière ;
-- que les résultats computationnels sont nécessairement fiables ou nécessairement erronés ;
-- que la performance technique garantit l'adéquation d'un résultat ;
-- que l'origine computationnelle d'une sortie suffit à la disqualifier ;
-- que toute décision impliquant un système d'IA est injustifiée ;
-- une théorie générale de la responsabilité algorithmique ;
-- une conclusion sur l'agentivité ou la conscience des systèmes artificiels ;
-- une procédure universelle permettant de décider de l'acceptabilité d'un système.
+- une théorie générale de l'origine de la normativité ;
+- une séparation absolue entre faits et valeurs ;
+- une déduction du devoir-être à partir des seuls faits ;
+- une réduction de la normativité aux usages linguistiques ;
+- une théorie morale permettant de déterminer les obligations dans toutes les situations ;
+- une hiérarchie générale entre les normes descriptives et les normes pratiques ;
+- une procédure universelle de décision ;
+- que toute description comporte nécessairement une qualification normative.
 
-## 9. Articulation avec les autres ressources de Protokin
-
-Cette page examine les résultats computationnels dans les pratiques descriptives. Elle ne remplace pas les ressources qui définissent les notions ou les opérations mobilisées.
-
-- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) présente les composantes fonctionnelles mobilisables pour examiner une difficulté descriptive.
-- [Orientation de l'examen](fr/orientation-de-l-examen.md) définit les rapports sous lesquels une situation, une pratique ou un résultat peut être examiné.
-- [Une première cartographie des régimes descriptifs](fr/une-premiere-cartographie-des-regimes-descriptifs.md) propose des repères pour identifier les manières de décrire mobilisées dans une situation.
-- [Explication](fr/explication.md) distingue l'explication d'un phénomène, l'interprétation d'un résultat et la justification d'une conclusion.
-- [Assertion](fr/assertion.md) et [Inférence](fr/inference.md) permettent d'examiner les engagements et les conséquences associés aux affirmations produites ou reprises par les utilisateurs.
-- [Justification](fr/justification.md) examine les raisons permettant de défendre ou de contester une conclusion.
-- [Validité](fr/validite.md) précise les conditions dans lesquelles une description peut être tenue pour défendable au regard de sa prétention.
-- [Conscience artificielle — Chiang et Bentham](fr/conscience-ia-chiang-bentham.md) examine les arguments qui relient comportement observable, fonctionnement computationnel et expérience subjective.
-
-Ces renvois désignent des ressources spécialisées. Ils ne signifient pas que chaque enquête portant sur l'intelligence artificielle doive mobiliser toutes ces notions.
+Elle ne suppose pas non plus que les normes soient toujours explicites ou que toute conduite soit précédée d'une délibération formulée.
 
 ## Synthèse
 
-Les systèmes d'intelligence artificielle peuvent produire des résultats pertinents et transformer les pratiques dans lesquelles ils sont utilisés. La portée de ces résultats dépend toutefois de la tâche, des données, des conditions de production et des usages qui en sont faits.
+Les pratiques descriptives mobilisent des exigences normatives qui règlent la correction des affirmations, l'application des catégories et la justification des conclusions. Ces exigences ne se confondent pas avec celles qui déterminent ce qui est permis, requis ou interdit dans une conduite.
 
-L'examen doit distinguer le traitement computationnel, le résultat produit, son interprétation et la conclusion ou la décision qui en découle. Ces éléments peuvent dépendre les uns des autres sans se confondre.
+Une description peut contribuer à une décision. Certaines qualifications comportent déjà des critères évaluatifs. Mais ni la correction d'une description ni la présence d'une évaluation ne suffisent à établir, à elles seules, une obligation pratique.
 
-L'enjeu n'est ni d'attribuer automatiquement une autorité aux résultats computationnels, ni de les disqualifier du seul fait de leur origine technique. Il consiste à déterminer ce qu'ils permettent d'établir, comment ils interviennent dans une pratique et quelles raisons soutiennent les conclusions et les décisions qui en découlent.
+Le passage du descriptif au normatif demande donc d'examiner les prémisses, les règles, les responsabilités, les possibilités d'action et les raisons qui soutiennent la conduite envisagée.
 
-**Un résultat computationnel peut contribuer à une décision sans suffire, à lui seul, à la justifier.**
+**L'enjeu n'est pas de séparer les faits et les normes, mais de rendre examinables leurs relations sans convertir les exigences descriptives en obligations pratiques.**
