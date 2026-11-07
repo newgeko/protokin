@@ -2,188 +2,219 @@
 
 ## Fonction
 
-Cette page propose une première cartographie des régimes descriptifs susceptibles d’être rencontrés dans différentes pratiques. Elle fournit des repères pour identifier les manières dont une description organise les différences, les relations, les transformations, les inférences et les critères mobilisés.
+Cette page propose des repères pour reconnaître différentes manières d'organiser les descriptions dans les pratiques.
 
-Cette cartographie est indicative et révisable. Elle ne prétend ni recenser tous les régimes possibles ni établir une classification générale des descriptions.
+Elle rassemble des familles de questions descriptives et des ressources fréquemment mobilisées : différencier, établir des relations, reconstruire des transformations, quantifier, interpréter ou justifier.
 
-## Problème
+Cette cartographie est indicative et révisable. Elle ne constitue ni une classification exhaustive des régimes descriptifs ni une taxonomie des pratiques. Les regroupements proposés ne sont pas homogènes : certains renvoient à des logiques descriptives, d'autres à des méthodes, à des ressources formelles ou à des domaines d'activité.
 
-Les pratiques descriptives mobilisent des manières différentes de rendre une situation intelligible. Certaines classent des éléments, d’autres mesurent des variations, reconstruisent des transformations, établissent des dépendances, interprètent des signes ou justifient des conclusions.
+Son objectif est d'aider à repérer ce qui mérite d'être examiné, non de déterminer à l'avance le régime auquel une pratique appartiendrait.
 
-Ces différences ne correspondent pas nécessairement à des disciplines distinctes. Une même discipline peut mobiliser plusieurs régimes descriptifs ; un même régime peut être employé dans des domaines différents.
+## 1. Problème et statut de la cartographie
 
-L’identification de ces régimes soulève donc une difficulté : comment distinguer des manières de décrire sans confondre les domaines dans lesquels elles sont employées, les opérations qu’elles mobilisent et les objets auxquels elles s’appliquent ?
+Une même situation peut être décrite de plusieurs manières. Certaines pratiques classent des éléments, d'autres les mesurent, établissent des relations, reconstruisent des transformations, interprètent des signes ou justifient des conclusions.
 
-Une liste exhaustive serait difficile à justifier. Les régimes ne sont pas nécessairement délimités une fois pour toutes, et une pratique peut combiner plusieurs manières de décrire sans se laisser ramener à une catégorie unique.
+Ces différences ne correspondent pas nécessairement à des disciplines distinctes. Une discipline peut mobiliser plusieurs manières de décrire ; une même ressource descriptive peut intervenir dans des pratiques différentes.
 
-## Définition
+Il faut donc distinguer deux questions :
 
-Un **régime descriptif** désigne ici une manière relativement identifiable d’organiser une pratique descriptive, notamment par les différences qu’elle retient, les relations qu’elle établit, les inférences qu’elle autorise et les critères selon lesquels ses descriptions peuvent être examinées.
+- Quelles manières d'organiser une description peut-on rencontrer ?
+- Quels éléments permettent d'identifier l'organisation effective d'une pratique déterminée ?
 
-Cette définition est un repère de travail. Elle ne présuppose pas que chaque pratique relève d’un régime unique, que tous les régimes soient mutuellement exclusifs ou qu’ils constituent une liste fermée.
+La cartographie répond à la première question. La seconde relève de l'identification d'un régime descriptif.
 
-Un régime se reconnaît à son fonctionnement dans une pratique, et non à la seule présence d’un vocabulaire particulier. Pour l’identifier, il faut examiner ce que la description distingue, ce qu’elle met en relation, ce qu’elle permet d’inférer et ce qui peut justifier ou contester ses résultats.
+Les familles présentées ci-dessous constituent des points d'entrée. Elles ne sont ni exclusives ni équivalentes. Une pratique peut en mobiliser plusieurs, et certains termes peuvent désigner des dimensions différentes selon leur contexte d'emploi.
 
-## Première cartographie
+## 2. Familles de questions descriptives
 
-Les regroupements suivants servent à orienter l’examen. Ils ne constituent ni des classes exclusives ni une hiérarchie. Un même régime peut relever de plusieurs regroupements selon le problème étudié.
+### 2.1. Différencier et classer
 
-### 1. Régimes de différenciation
+Certaines descriptions organisent les éléments en fonction des différences qu'elles retiennent.
 
-Ces régimes organisent les descriptions en fonction des différences retenues entre les éléments examinés.
+On peut notamment rencontrer :
 
-- **Taxonomique** : classe des éléments selon des différences et des critères de classement.
+- **Taxonomique** : classe des éléments selon des catégories et des critères de classement.
 - **Typologique** : construit des types à partir de traits ou de configurations jugés pertinents.
-- **Métrique** : distingue des éléments ou des états au moyen de mesures et de grandeurs.
-- **Topologique** : décrit des positions, des voisinages, des continuités ou des connexions.
-- **Morphologique** : examine des formes, leurs différences et leurs transformations.
+- **Métrique** : caractérise des éléments ou des états au moyen de mesures et de grandeurs.
+- **Topologique** : examine des positions, des voisinages, des continuités ou des connexions.
+- **Morphologique** : décrit des formes, leurs différences et leurs transformations.
 
-Ces régimes ne produisent pas les mêmes distinctions. Classer deux éléments dans des catégories différentes ne revient pas à mesurer leur différence, à établir leur distance ou à décrire leur organisation formelle.
+Ces manières de différencier ne sont pas interchangeables. Classer deux éléments dans des catégories différentes ne revient pas à mesurer leur écart, à établir leur distance ou à décrire leur organisation formelle.
 
-### 2. Régimes de dépendance
+### 2.2. Établir des relations et des dépendances
 
-Ces régimes mettent l’accent sur les relations entre les éléments d’une situation.
+D'autres descriptions mettent l'accent sur les rapports entre les éléments d'une situation.
 
-- **Causal** : examine des relations de production, d’influence ou de modification.
-- **Relationnel** : décrit des dépendances entre des termes, des éléments ou des configurations.
-- **Fonctionnel** : caractérise ce qu’un élément ou une configuration accomplit dans une pratique déterminée.
-- **Systémique** : examine des interdépendances au sein d’un ensemble organisé.
-- **Écologique** : décrit les relations entre des organismes, leurs milieux et les conditions de leurs activités.
+On peut notamment rencontrer :
 
-Une relation établie ne suffit pas à démontrer une causalité. De même, identifier une fonction ne permet pas, à lui seul, de justifier son maintien ou de conclure à son caractère nécessaire.
+- **Causal** : examine des relations de production, d'influence ou de modification.
+- **Relationnel** : caractérise des rapports et des dépendances entre des éléments ou des configurations.
+- **Fonctionnel** : examine la contribution d'un élément à une activité ou à une organisation déterminée.
+- **Systémique** : étudie les interdépendances au sein d'un ensemble organisé.
+- **Écologique** : examine les relations entre des organismes, leurs milieux et les conditions de leurs activités.
 
-### 3. Régimes de transformation
+Ces qualifications ne désignent pas nécessairement des régimes distincts. Elles peuvent caractériser des dimensions d'une même pratique descriptive.
 
-Ces régimes organisent les descriptions autour des changements et des continuités.
+Une relation établie ne suffit pas à démontrer une causalité. Identifier une fonction ne permet pas, à lui seul, de justifier son maintien ou de conclure à son caractère nécessaire.
+
+### 2.3. Reconstruire des transformations
+
+Certaines descriptions organisent leur objet autour des changements, des continuités et des processus.
+
+On peut notamment rencontrer :
 
 - **Historique** : reconstruit des transformations situées dans le temps.
-- **Génétique** : examine la genèse d’une forme, d’une pratique ou d’une configuration.
-- **Processuel** : décrit le déroulement et les transformations d’un processus.
+- **Génétique** : examine la genèse d'une forme, d'une pratique ou d'une configuration.
+- **Processuel** : décrit le déroulement et les transformations d'un processus.
 - **Développemental** : examine des transformations dans des processus de développement.
 - **Évolutionnaire** : décrit des transformations de populations ou de lignées au fil des générations.
 
-Ces régimes ne se distinguent pas seulement par la durée considérée. Ils peuvent différer par les unités retenues, les relations reconstruites et les critères permettant d’identifier une transformation.
+Ces qualifications ne se distinguent pas uniquement par la durée considérée. Elles peuvent différer par les unités retenues, les relations reconstruites et les critères permettant d'identifier une transformation.
 
-La genèse d’une description ne constitue pas, à elle seule, une justification de son contenu. Reconstruire une succession d’événements ne suffit pas non plus à établir une relation causale entre eux.
+La genèse d'une description ne constitue pas, à elle seule, une justification de son contenu. Reconstruire une succession d'événements ne suffit pas non plus à établir une relation causale entre eux.
 
-### 4. Régimes de quantification et d'inférence
+### 2.4. Quantifier, modéliser et prévoir
 
-Ces régimes organisent les descriptions à partir de données, de mesures, de calculs ou de modèles permettant de tirer certaines conclusions.
+Certaines pratiques mobilisent des données, des mesures, des calculs ou des modèles pour produire des descriptions et tirer des conclusions.
+
+On peut notamment rencontrer :
 
 - **Statistique** : décrit des distributions, des variations et des régularités dans des ensembles de données.
 - **Probabiliste** : caractérise des possibilités et des incertitudes au moyen de relations probabilistes.
-- **Expérimental** : produit et examine des descriptions dans des conditions d’intervention ou de contrôle définies.
-- **Modélisateur** : construit des modèles permettant de représenter une situation et d’en tirer des conséquences.
+- **Expérimental** : produit et examine des résultats dans des conditions d'intervention ou de contrôle définies.
+- **Modélisateur** : construit des modèles pour représenter une situation et en tirer des conséquences.
 - **Prédictif** : estime des résultats possibles à partir de données, de régularités ou de modèles.
 
-Ces régimes peuvent se combiner sans se confondre. Un modèle peut être statistique, un dispositif expérimental peut mobiliser des probabilités et une prédiction peut être produite par plusieurs méthodes différentes.
+Ces termes ne désignent pas tous des régimes descriptifs au même sens. La statistique et la modélisation renvoient à des ressources formelles ; l'expérimentation à une méthode ou à un dispositif ; la prédiction à une fonction ou à une visée.
 
-La production d’une estimation ou d’une prédiction ne suffit pas à établir son adéquation à la situation concernée. Il faut examiner les données, les hypothèses, les conditions d’application et les critères d’évaluation mobilisés.
+Ces ressources peuvent se combiner sans se confondre. Un modèle peut être statistique, un dispositif expérimental peut mobiliser des probabilités et une prédiction peut être produite par plusieurs méthodes différentes.
 
-### 5. Régimes de signification et d'interprétation
+La production d'une estimation ou d'une prédiction ne suffit pas à établir son adéquation à la situation concernée. Il faut examiner les données, les hypothèses, les conditions d'application et les critères d'évaluation mobilisés.
 
-Ces régimes portent sur les significations, les signes, les usages et les conditions dans lesquelles des expressions ou des pratiques deviennent intelligibles.
+### 2.5. Signifier et interpréter
 
-- **Sémantique** : examine les significations et les conditions d’emploi des expressions.
+Certaines descriptions portent sur les signes, les significations, les usages et les conditions dans lesquelles des expressions ou des pratiques deviennent intelligibles.
+
+On peut notamment rencontrer :
+
+- **Sémantique** : examine les significations et les conditions d'emploi des expressions.
 - **Sémiotique** : décrit les signes, leurs relations et les processus dans lesquels ils interviennent.
 - **Narratif** : organise des événements dans une séquence intelligible.
-- **Herméneutique** : examine les conditions et les possibilités d’interprétation de textes, d’expressions ou de pratiques.
+- **Herméneutique** : examine les conditions et les possibilités d'interprétation de textes, d'expressions ou de pratiques.
 - **Pragmatique** : examine les usages, les conséquences et les conditions pratiques des descriptions.
 
-Ces régimes peuvent porter sur une même situation tout en construisant des différences différentes. Une description narrative et une description chronologique peuvent ainsi organiser les mêmes événements selon des rapports distincts.
+Ces manières de décrire peuvent porter sur une même situation tout en construisant des différences distinctes. Une description narrative et une description chronologique peuvent ainsi organiser les mêmes événements selon des rapports différents.
 
-L’interprétation d’un signe ne se confond pas avec sa présence matérielle, pas plus que la signification attribuée à une expression ne se confond avec les conditions de sa production.
+L'interprétation d'un signe ne se confond pas avec sa présence matérielle. La signification attribuée à une expression ne se confond pas non plus avec les conditions de sa production.
 
-### 6. Régimes d'argumentation et de justification
+### 2.6. Argumenter et justifier
 
-Ces régimes interviennent lorsque des descriptions ou des conclusions doivent être soutenues, discutées ou évaluées.
+Certaines pratiques interviennent lorsque des descriptions ou des conclusions doivent être soutenues, discutées ou évaluées.
 
-- **Démonstratif** : établit une conclusion à partir de prémisses et de règles d’inférence.
+On peut notamment rencontrer :
+
+- **Démonstratif** : établit une conclusion à partir de prémisses et de règles d'inférence.
 - **Argumentatif** : organise des raisons destinées à soutenir ou à contester une proposition.
 - **Juridique** : qualifie des faits au regard de règles, de normes et de critères de recevabilité.
-- **Normatif** : examine des conduites ou des situations au regard de critères d’évaluation.
-- **Critique** : examine les présupposés, les limites et les conséquences d’une description ou d’une pratique.
+- **Normatif** : examine des conduites ou des situations au regard de critères d'évaluation.
+- **Critique** : examine les présupposés, les limites et les conséquences d'une description ou d'une pratique.
 
-Ces régimes ne se confondent pas avec les opérations ordinaires de description. Ils peuvent contribuer à déterminer les conditions dans lesquelles une description est recevable, contestable ou justifiable.
+Ces qualifications ne désignent pas nécessairement des régimes homogènes. Le juridique renvoie notamment à des pratiques institutionnelles organisées ; le démonstratif et l'argumentatif caractérisent des formes de raisonnement ; le normatif concerne des critères d'évaluation.
 
-Une conclusion valide au regard de certaines règles ne dispose pas automatiquement de prémisses adéquates. De même, expliquer pourquoi une description est employée ne suffit pas à justifier son emploi.
+Une conclusion valide au regard de certaines règles ne dispose pas automatiquement de prémisses adéquates. Expliquer pourquoi une description est employée ne suffit pas non plus à justifier son emploi.
 
-## Distinctions nécessaires
+## 3. Comment utiliser cette cartographie
+
+Les familles précédentes servent à orienter un premier repérage. Elles ne constituent pas une grille à appliquer intégralement à chaque pratique.
+
+Face à une description, on peut notamment se demander :
+
+- Quelles différences organise-t-elle ?
+- Quelles relations établit-elle ?
+- Quelles transformations cherche-t-elle à reconstruire ?
+- Quelles mesures, données ou ressources formelles mobilise-t-elle ?
+- Quelles interprétations ou significations met-elle en jeu ?
+- Quelles conclusions soutient-elle et selon quelles raisons ?
+
+Ces questions peuvent faire apparaître plusieurs dimensions dans une même pratique. Elles ne permettent pas encore de conclure à l'existence de plusieurs régimes distincts.
+
+Pour caractériser un régime, il faut examiner l'organisation effective de la pratique : ses règles d'usage, ses distinctions, ses opérations, ses critères et les modalités de contestation ou de révision de ses descriptions.
+
+La cartographie ne remplace donc pas l'examen des usages et des fonctions. Elle permet de formuler des hypothèses de repérage qui devront être confrontées aux pratiques concernées.
+
+## 4. Distinctions nécessaires
+
+### Famille de questions et régime descriptif
+
+Une famille de questions regroupe des manières possibles d'aborder une description. Un régime descriptif désigne une organisation relativement stabilisée de règles d'usage, de distinctions, d'opérations et de critères dans une pratique.
+
+La présence d'une dimension taxonomique, statistique ou narrative ne suffit donc pas à identifier un régime. Il faut examiner la manière dont cette dimension intervient dans la pratique.
 
 ### Régime descriptif et discipline
 
-Une discipline est un domaine organisé de recherche et de pratiques. Un régime descriptif désigne une manière d’organiser une description dans une pratique.
+Une discipline est un domaine organisé de recherche et de pratiques. Un régime descriptif désigne une organisation de la description dans une pratique déterminée.
 
-La sociologie, la biologie ou la géologie peuvent mobiliser plusieurs régimes. Inversement, un régime statistique ou causal peut être employé dans des disciplines différentes.
+Une même discipline peut mobiliser plusieurs régimes. Un même régime, ou certains de ses éléments, peut intervenir dans plusieurs disciplines.
 
-Le nom d’une discipline ne permet donc pas de déduire directement le régime descriptif d’une pratique particulière.
+Le nom d'une discipline ne permet donc pas de déduire directement le régime descriptif d'une pratique particulière.
 
 ### Régime descriptif et opération
 
-Une opération descriptive est une action identifiable : mesurer, classer, comparer, distinguer, relier, inférer ou interpréter.
+Une opération désigne un travail identifiable, tel que mesurer, classer, comparer ou interpréter.
 
-Un régime peut mobiliser plusieurs opérations. Une opération peut également intervenir dans plusieurs régimes.
+Un régime peut mobiliser plusieurs opérations. Une même opération peut intervenir dans plusieurs régimes.
 
-Classer constitue ainsi une opération qui peut participer à une pratique taxonomique ou typologique, sans que ces deux régimes deviennent équivalents.
+L'opération désigne un travail effectué ; le régime permet d'examiner l'organisation pratique dans laquelle ce travail prend place.
+
+### Régime descriptif et orientation de l'examen
+
+Une orientation précise sous quel rapport une situation, une pratique ou un résultat est examiné. Une famille de questions descriptives rassemble des manières possibles d'organiser l'examen d'un contenu ou d'une situation.
+
+Les orientations de Protokin — Condition, Relation, Fonction et Justification — ne constituent donc pas une classification des régimes descriptifs. Elles permettent d'examiner une pratique ou un régime sous différents rapports.
+
+Aucune correspondance fixe ne doit être établie entre une famille de questions, une orientation et un régime.
 
 ### Régime descriptif et objet décrit
 
-Le régime descriptif ne doit pas être confondu avec ce dont la description traite.
+Le régime descriptif ne doit pas être confondu avec ce dont une description traite.
 
-Une même situation peut être décrite selon plusieurs régimes. Cette pluralité ne prouve pas que toutes les descriptions sont équivalentes, ni qu’elles sont nécessairement incompatibles.
+Une même situation peut être examinée dans plusieurs pratiques et selon plusieurs manières de décrire. Cette pluralité ne prouve ni que toutes les descriptions sont équivalentes ni qu'elles sont nécessairement incompatibles.
 
-Il faut examiner ce que chacune retient, les relations qu’elle établit, les inférences qu’elle autorise et les critères qui permettent d’évaluer ses résultats.
+Il faut examiner ce que chacune retient, les relations qu'elle établit, les inférences qu'elle autorise et les critères qui permettent d'évaluer ses résultats.
 
-### Régime descriptif et justification
+## 5. Portée et limites
 
-L’identification d’un régime ne garantit pas la validité des descriptions qu’il produit.
+Cette cartographie permet de repérer des différences possibles entre les manières d'organiser les descriptions. Elle suggère que ces différences peuvent porter sur les distinctions retenues, les relations établies, les transformations reconstruites, les ressources formelles mobilisées, les interprétations proposées ou les justifications avancées.
 
-Un régime peut rendre certaines différences visibles tout en en laissant d’autres hors champ. Il peut autoriser certaines inférences sans fournir les raisons suffisantes pour les soutenir dans un cas donné.
+Elle n'établit cependant pas :
 
-La cohérence interne d’une description ne suffit pas à établir son adéquation à ce qu’elle prétend décrire.
+- que les six familles constituent une classification complète ;
+- que les termes rassemblés dans chaque famille désignent des réalités de même niveau ;
+- que chaque pratique relève d'une seule famille ;
+- que chaque famille correspond à un régime descriptif distinct ;
+- que des pratiques utilisant des ressources différentes sont incompatibles ;
+- que les catégories proposées sont définitives ;
+- que l'identification d'une manière de décrire garantit la validité de ses résultats.
 
-## Articulation avec l'enquête de Protokin
+Les regroupements doivent être révisés lorsque leur emploi conduit à confondre des fonctions différentes ou lorsqu'un cas ne trouve pas de place satisfaisante dans la cartographie.
 
-Cette cartographie fournit un ensemble de repères pour l’enquête ; elle ne remplace pas les opérations par lesquelles une difficulté descriptive est examinée.
-
-Lorsqu’un problème apparaît, l’enquête peut notamment :
-
-- **Délimiter** la difficulté rencontrée, sans supposer d’emblée le régime auquel elle appartient.
-- **Ancrer** l’examen dans les pratiques, les matériaux et les circonstances pertinents.
-- **Distinguer** les manières de décrire effectivement mobilisées.
-- **Relier** les descriptions en examinant leurs dépendances et leurs différences.
-- **Configurer** les éléments retenus en fonction du problème traité.
-- **Justifier** les conclusions et les critères employés.
-- **Reconstituer** les résultats et leurs limites.
-- **Redélimiter** le problème si l’examen conduit à revoir les distinctions initiales.
-
-Cette chaîne ne constitue pas une procédure obligatoire d’identification des régimes. Une enquête peut commencer par une comparaison, une difficulté d’inférence ou un désaccord sur les critères, puis reprendre les opérations nécessaires.
-
-La cartographie elle-même doit pouvoir être examinée. Un cas peut révéler qu’un regroupement est trop large, que deux régimes supposés distincts se recouvrent ou qu’une manière de décrire ne trouve pas de place satisfaisante dans les catégories proposées.
-
-## Limites
-
-Cette première cartographie présente plusieurs limites.
-
-Premièrement, les regroupements proposés ne sont pas homogènes. Certains désignent des manières assez générales d’organiser les descriptions ; d’autres sont plus proches d’une méthode, d’un domaine d’analyse ou d’une orientation de l’enquête.
-
-Deuxièmement, les régimes ne sont pas nécessairement exclusifs. Une pratique peut combiner des dimensions causales, statistiques, historiques et fonctionnelles sans se réduire à une seule d’entre elles.
-
-Troisièmement, la présence d’un terme reconnu ne suffit pas à établir l’existence d’un régime distinct. Il faut examiner si les différences observées correspondent à des fonctions descriptives suffisamment différenciées pour que cette distinction soit utile.
-
-Enfin, cette liste ne constitue pas une taxonomie universelle. Elle est susceptible d’être complétée, réorganisée ou abandonnée en fonction des problèmes rencontrés.
+Leur intérêt dépend de leur capacité à rendre certaines différences repérables sans transformer ces repères en classification préalable des pratiques.
 
 ## Synthèse
 
-Cette cartographie propose des repères pour reconnaître différentes manières d’organiser une description : différencier, établir des dépendances, reconstruire des transformations, quantifier, interpréter ou justifier.
+Cette première cartographie rassemble des familles de questions et de ressources descriptives : différencier, établir des relations, reconstruire des transformations, quantifier, interpréter et justifier.
 
-Elle ne prétend pas ramener toutes les pratiques à ces regroupements. Son utilité dépend de sa capacité à aider l’enquête à identifier des différences pertinentes, à examiner des relations et à préciser la portée des conclusions.
+Ces familles ne constituent pas une taxonomie des régimes descriptifs. Elles permettent de repérer des dimensions susceptibles d'organiser une pratique, sans préjuger de la manière dont elles s'articulent dans un cas particulier.
 
-**Un régime descriptif n’est pas une catégorie qu’il suffirait d’appliquer à une pratique. C’est une manière d’organiser la description qu’il faut pouvoir identifier, distinguer et mettre à l’épreuve.**
+**La cartographie propose des repères pour commencer l'examen ; l'identification d'un régime exige d'étudier l'organisation effective de la pratique.**
 
-Pour poursuivre :
+## Pour poursuivre
 
-- [Régime descriptif](/fr/regime-descriptif.md)
-- [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md)
-- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
-- [Table des matières](fr/tdm.md)
+- [Régime descriptif](fr/regime-descriptif.md) — Définir la notion et examiner ce qui organise une pratique descriptive.
+- [Identifier un régime](fr/identifier-un-regime.md) — Examiner les indices permettant de caractériser un régime dans une pratique déterminée.
+- [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md) — Examiner les relations entre plusieurs régimes.
+- [Configuration descriptive](fr/configuration-descriptive.md) — Examiner l'organisation des ressources mobilisées dans une description.
+- [Comparer deux descriptions](fr/comparer-deux-descriptions.md) — Examiner les différences et les rapports entre deux descriptions.
+- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Présenter les ressources fonctionnelles mobilisées dans l'enquête.
+- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Préciser les rapports sous lesquels une situation ou une pratique peut être examinée.
+- [Table des matières](fr/tdm.md) — Retrouver les ressources du corpus.
