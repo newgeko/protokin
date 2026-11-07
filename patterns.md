@@ -21,6 +21,7 @@ Ce document ne remplace ni l’architecture du projet, ni l’architecture fonct
 
 - `patterns.md` définit les repères de rédaction et de révision ;
 - `pattern-audit.md` guide l’examen des fonctions, des catégories et des relations entre les pages ;
+- `audit-corpus.md` rend compte de l'état du corpus Protokin à un moment donné, à partir d'un examen de ses ressources et de leurs relations;
 - `fr/architecture-projet.md` présente l’organisation documentaire du projet ;
 - `fr/architecture-fonctionnelle-de-l-enquete.md` expose les opérations de l’enquête et leurs articulations ;
 - `fr/tdm.md` oriente le lecteur dans le corpus.
