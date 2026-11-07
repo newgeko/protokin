@@ -18,6 +18,7 @@ Ces pages présentent l’orientation de Protokin, son problème de départ, ses
 - [Protokin en une phrase](fr/protokin-en-une-phrase.md) — Formuler de manière synthétique l’objet et la fonction de la démarche.
 - [Introduction générale](fr/introduction-generale.md) — Exposer le problème auquel répond une enquête sur les pratiques descriptives et préciser le statut non ontologique de cette démarche.
 - [Ce que Protokin permet](fr/ce-que-protokin-permet.md) — Décrire les problèmes que la démarche permet d’examiner et les résultats qu’elle peut soutenir.
+- [Fécondité et révisabilité de Protokin]() — Préciser comment apprécier la contribution des examens conduits avec Protokin et comment leurs résultats peuvent conduire à réviser ses ressources.
 - [Ce que Protokin ne prétend pas faire](fr/ce-que-protokin-ne-pretend-pas-faire.md) — Délimiter les conclusions que l’enquête ne peut établir à elle seule.
 - [Nom, origine et portée](fr/nom-origine-portee.md) — Examiner le choix du nom Protokin et les limites des rapprochements qu’il suggère.
 - [Architecture du projet](fr/architecture-projet.md) — Présenter l’organisation documentaire du corpus et la fonction respective de ses ressources.
