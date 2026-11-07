@@ -1,146 +1,209 @@
 # Relation sémantique et référence
 
-## 1. Fonction
+## Fonction
 
-Cette page examine l’articulation entre le contenu mobilisé dans une pratique descriptive, les usages qui lui donnent une fonction sémantique et la visée référentielle de cette pratique.
+Cette page examine les relations entre le contenu sémantique d'une expression, ses usages dans une pratique et la visée référentielle de cette pratique.
 
-Elle vise à distinguer trois questions liées, mais non équivalentes :
+Elle cherche à préciser comment une expression peut être comprise et employée pour parler de quelque chose, sans que la stabilisation de son usage garantisse la réussite de l'identification ni l'adéquation des descriptions produites.
 
-- Que permet de comprendre et d’utiliser un contenu dans une pratique ?
-- Selon quelles règles et quels critères ses usages sont-ils interprétés, repris ou corrigés ?
-- À quoi la pratique prétend-elle se référer, et dans quelles conditions cette référence peut-elle être maintenue ou révisée ?
+Son objet n'est pas de définir séparément les registres cognitif, sémantique et référentiel, mais d'examiner leurs relations et les conclusions qu'elles permettent ou ne permettent pas de soutenir.
 
-La page établit un principe de non-conversion : les dépendances entre ces dimensions ne suffisent pas à les identifier. L’usage d’une expression ne constitue pas à lui seul ce à quoi elle se rapporte ; inversement, la visée référentielle ne détermine pas à elle seule la signification de tous ses usages.
+## 1. Problème relationnel
 
-## 2. Problème relationnel
+Une pratique descriptive mobilise des expressions, des catégories, des règles d'usage et des critères. Ces ressources permettent de comprendre ce qui est dit, de déterminer dans quelles circonstances une expression peut être employée et d'identifier ce dont il est question.
 
-Une pratique descriptive mobilise des capacités de discrimination, des expressions, des règles d’usage, des inférences et des critères d’application. Ces ressources contribuent à rendre certaines descriptions possibles et à déterminer ce qu’elles permettent de faire.
+Ces fonctions sont liées, mais plusieurs confusions restent possibles :
 
-Pourtant, plusieurs confusions sont possibles :
+- comprendre le contenu d'une expression ne suffit pas à identifier correctement ce à quoi elle se rapporte ;
+- employer une expression de manière cohérente ne garantit pas l'adéquation de la description produite ;
+- identifier un référent ne suffit pas à établir que les propriétés qui lui sont attribuées sont correctes ;
+- connaître les critères d'application d'une expression ne garantit pas que ces critères soient pertinents pour la situation examinée.
 
-- réduire la signification d’une expression à l’état cognitif de la personne qui l’emploie ;
-- considérer que l’usage collectif d’une expression suffit à déterminer tout ce à quoi elle se rapporte ;
-- confondre les critères permettant d’évaluer une description avec les propriétés de ce qu’elle décrit ;
-- conclure de la cohérence d’un usage à l’adéquation de la description à son référent.
+Le problème consiste donc à examiner les relations entre signification, usage et référence sans les réduire à une fonction unique.
 
-Le problème n’est pas de séparer absolument ces dimensions. Il consiste à examiner comment elles dépendent les unes des autres, sans transformer une dépendance en identité.
+## 2. Les éléments mis en relation
 
-## 3. Les dimensions mises en relation
+Les termes suivants sont employés dans un sens précis.
 
-### 3.1. Discrimination cognitive et usage sémantique
+**Le contenu sémantique** désigne ce qui est exprimé ou mobilisé dans une pratique discursive. Il contribue à déterminer les distinctions qu'une expression permet de faire et les conséquences inférentielles qui peuvent lui être associées.
 
-Un organisme peut discriminer des différences, reconnaître des régularités, anticiper des événements ou apprendre à répondre à certaines situations. Ces capacités peuvent contribuer aux conditions dans lesquelles une pratique descriptive se développe.
+**L'usage** désigne la manière dont une expression intervient effectivement dans une pratique : ses conditions d'emploi, les applications admises, les corrections possibles et les relations qu'elle entretient avec d'autres expressions.
 
-Elles ne suffisent cependant pas à déterminer la signification d’une expression. Celle-ci dépend également des usages dans lesquels l’expression est employée, des distinctions qu’elle permet de faire et des conditions dans lesquelles son application peut être acceptée, corrigée ou contestée.
+**La référence** désigne la relation par laquelle une expression ou une pratique descriptive vise quelque chose. Le **référent** désigne ce à quoi cette relation se rapporte ou prétend se rapporter.
 
-Inversement, l’usage d’une expression ne se réduit pas à ce qu’un individu en comprend à un moment donné. Une pratique peut mobiliser des règles, des instruments et des compétences distribuées entre plusieurs participants.
+**Les critères** précisent ce qui compte pour identifier un référent ou évaluer l'application d'une expression. Ils peuvent être explicites ou incorporés aux habitudes, aux compétences, aux instruments et aux procédures d'une pratique.
 
-Il faut donc distinguer les capacités qui rendent certains usages possibles des relations sémantiques organisées dans une pratique.
+Ces éléments ne constituent pas des composantes indépendantes qu'il faudrait retrouver dans toute description. Ils permettent de différencier les questions soulevées lorsqu'une expression est employée pour caractériser quelque chose.
 
-**Discrimination cognitive ≠ signification.**
+Pour la distinction générale entre les registres cognitif, sémantique et référentiel, voir [Registres de l'examen](fr/registres.md).
 
-### 3.2. Usage sémantique et visée référentielle
+## 3. Les relations examinées
 
-Une expression acquiert une fonction dans une pratique par les usages qui en sont faits, les distinctions qu’elle permet et les inférences auxquelles elle participe. Ces usages contribuent notamment à déterminer comment une pratique identifie ce dont elle parle.
+### 3.1. Usage et contenu sémantique
 
-Mais les règles d’usage et les inférences associées à une expression ne suffisent pas, à elles seules, à établir que la description produite est adéquate à ce qu’elle vise.
+Le contenu sémantique d'une expression ne se réduit pas à sa définition lexicale ni à l'intention de la personne qui l'emploie.
 
-Une pratique peut employer une expression de manière cohérente et stable tout en rencontrant une difficulté d’identification ou en appliquant incorrectement ses propres critères. Elle peut également réviser la signification pratique d’une expression sans que le référent visé ait nécessairement changé.
+Ses usages contribuent à déterminer ce qu'elle signifie dans une pratique : les distinctions qu'elle permet, les circonstances dans lesquelles elle peut être appliquée, les inférences auxquelles elle participe et les corrections auxquelles son emploi peut être soumis.
 
-**Stabilisation d’un usage ≠ adéquation référentielle.**
+Cela ne signifie pas que la signification se réduise à la régularité observable des emplois. Une expression peut être utilisée fréquemment sans que tous ses emplois soient pertinents ou correctement justifiés. Une pratique peut également stabiliser un usage qui devient ensuite insuffisant ou contestable.
 
-La référence doit ainsi être examinée à partir des pratiques et des éléments qui permettent de l’établir, sans être réduite aux seules règles d’usage.
+Il faut donc examiner les usages effectifs, les règles qui les organisent et les conséquences associées à l'emploi d'une expression.
 
-### 3.3. Critères d’application et propriétés de ce qui est décrit
+**Usage régulier ≠ signification entièrement déterminée.**
 
-Les critères permettent de déterminer dans quelles conditions une expression ou une catégorie peut être appliquée, et dans quelles circonstances son application peut être contestée.
+Inversement, le contenu sémantique ne se réduit pas à ce qu'un individu entend exprimer à un moment donné. Il dépend aussi des distinctions et des relations qui rendent son emploi intelligible et discutable dans la pratique concernée.
 
-Ces critères peuvent être perceptifs, techniques, institutionnels, historiques ou liés à une fonction particulière. Leur pertinence dépend du problème traité et de la pratique dans laquelle ils interviennent.
+### 3.2. Contenu sémantique et référence
 
-Un critère utilisé pour évaluer une description n’est cependant pas nécessairement une propriété du référent. Il peut constituer une règle de décision, une exigence méthodologique ou une convention d’identification.
+Le contenu d'une expression contribue à déterminer comment elle peut être employée pour parler de quelque chose. Il ne suffit cependant pas à établir que l'identification visée est correcte.
 
-Il faut donc distinguer :
+Une expression peut être comprise par les participants sans que ceux-ci disposent des éléments nécessaires pour déterminer avec certitude ce dont ils parlent. Inversement, une pratique peut identifier correctement un référent sans que toutes les expressions employées à son sujet aient le même contenu.
 
-- le critère mobilisé pour évaluer une description ;
-- les éléments qui justifient son application ;
-- les propriétés attribuées au référent ;
-- l’adéquation de la description à ce qu’elle prétend décrire.
+Il faut donc distinguer deux questions :
 
-**Critère de correction ≠ propriété du référent.**
+- **Question sémantique :** que signifie l'expression dans la pratique considérée et quelles distinctions ou conséquences son emploi autorise-t-il ?
+- **Question référentielle :** à quoi cette expression se rapporte-t-elle et quels éléments permettent de soutenir cette identification ?
 
-Cette distinction ne signifie pas que les critères seraient arbitraires. Elle signifie que leur pertinence et leur application doivent pouvoir être examinées, plutôt que déduites de leur seule présence dans une pratique.
+La distinction n'implique pas que le contenu et la référence soient indépendants. Les usages contribuent à organiser la visée référentielle ; les éléments rencontrés dans l'identification peuvent, en retour, conduire à préciser ou à réviser les usages.
 
-## 4. Exemple discriminant : un arbre présentant un risque
+Mais aucune de ces relations ne garantit automatiquement la réussite de l'autre.
 
-Considérons l’affirmation : « Cet arbre présente un risque pour l’habitation. »
+**Contenu sémantique ≠ référent.**
 
-L’expression *présenter un risque* intervient dans une pratique qui mobilise des usages, des critères et des inférences particuliers. Son application peut dépendre de l’état de l’arbre, de sa stabilité, de son emplacement, de l’exposition de l’habitation et des conséquences envisagées.
+**Stabilisation d'un usage ≠ identification réussie.**
 
-La signification pratique de l’affirmation ne se réduit donc ni à l’intention de la personne qui la formule ni à une propriété isolée de l’arbre. Elle dépend de la manière dont le risque est identifié et évalué dans le contexte concerné.
+### 3.3. Critères d'identification et critères d'application
 
-Cependant, le fait qu’une pratique stabilise une définition du risque ne garantit pas que son évaluation soit adéquate à la situation. Il faut encore examiner les observations, les critères appliqués et les raisons qui soutiennent la conclusion.
+Les critères peuvent intervenir à plusieurs endroits de la pratique. Il importe de ne pas leur attribuer une fonction unique.
 
-De même, le fait que plusieurs participants s’accordent sur l’emploi de l’expression ne suffit pas à établir que toutes les conséquences qu’ils en tirent sont justifiées.
+Les **critères d'identification** contribuent à déterminer de quoi l'on parle. Ils peuvent mobiliser des observations, des traces, des documents, une localisation, une continuité historique ou des procédures de reconnaissance.
 
-Cet exemple permet de distinguer trois résultats :
+Les **critères d'application** précisent les conditions dans lesquelles une expression ou une catégorie peut être attribuée à ce qui a été identifié.
 
-- **Stabilisation sémantique :** l’expression possède un usage suffisamment partagé pour être comprise et discutée.
-- **Établissement référentiel :** la pratique identifie la situation ou la configuration à laquelle l’affirmation se rapporte.
-- **Adéquation descriptive :** les éléments disponibles permettent de défendre l’affirmation comme description correcte de cette situation.
+Ces deux fonctions peuvent se soutenir mutuellement sans se confondre.
 
-Ces résultats peuvent dépendre les uns des autres. Aucun ne garantit automatiquement les deux autres.
+Dans l'affirmation « Cet arbre présente un risque pour l'habitation », il faut pouvoir déterminer de quel arbre et de quelle habitation il est question. Mais cette identification ne suffit pas à établir que l'arbre présente effectivement un risque. Il faut encore examiner les éléments et les critères qui permettent de soutenir cette attribution.
+
+Un critère d'application ne constitue pas nécessairement une propriété du référent. Il indique ce qui compte pour évaluer une attribution dans une pratique déterminée.
+
+**Critère d'identification ≠ critère d'application.**
+
+**Critère d'application ≠ propriété du référent.**
+
+Pour l'examen général des critères, voir [Critère](fr/critere.md).
+
+### 3.4. Identification et adéquation descriptive
+
+L'identification du référent et l'évaluation d'une description constituent deux examens distincts.
+
+Une pratique peut parvenir à identifier correctement un objet, un événement ou une situation, tout en produisant à son sujet une description inexacte ou insuffisamment justifiée.
+
+Inversement, une description peut employer des catégories et des critères suffisamment précis sans que son application à un référent déterminé soit correctement établie.
+
+L'adéquation descriptive demande donc un examen supplémentaire : les éléments disponibles, les critères mobilisés et les raisons avancées permettent-ils de soutenir ce qui est affirmé à propos de la situation identifiée ?
+
+**Identification correcte ≠ description adéquate.**
+
+Cette distinction ne rend pas la référence inaccessible. Elle évite de faire de l'identification une garantie de correction de toutes les descriptions qui s'y rapportent.
+
+## 4. Exemple discriminant : « Cet arbre présente un risque pour l'habitation »
+
+Considérons cette affirmation dans le cadre d'une évaluation destinée à déterminer si un arbre situé à proximité d'une habitation doit faire l'objet d'une intervention.
+
+Plusieurs questions doivent être distinguées.
+
+**Le contenu de l'affirmation**
+
+L'expression « présenter un risque » mobilise un contenu qui permet de caractériser une situation en fonction de conséquences possibles. Son emploi suppose de préciser ce qui compte comme risque dans la pratique concernée.
+
+**Les usages et les critères**
+
+La pratique peut mobiliser des critères relatifs à l'état de l'arbre, à sa stabilité, à son environnement, à l'exposition de l'habitation et aux conséquences envisagées.
+
+Ces critères contribuent à déterminer dans quelles circonstances l'expression « présenter un risque » peut être appliquée. Leur pertinence dépend de la question traitée et des exigences de l'évaluation.
+
+**La visée référentielle**
+
+Il faut identifier l'arbre concerné, l'habitation exposée et la situation dans laquelle le risque est envisagé. Des observations, des documents, une localisation ou des procédures de reconnaissance peuvent contribuer à cette identification.
+
+**L'adéquation de la description**
+
+Même si les participants comprennent l'affirmation, partagent un usage de l'expression « présenter un risque » et identifient correctement l'arbre et l'habitation, il reste à examiner si les éléments disponibles permettent de soutenir l'évaluation formulée.
+
+L'exemple distingue ainsi quatre résultats :
+
+- **Compréhension sémantique :** les participants comprennent ce que l'affirmation signifie dans la pratique considérée.
+- **Application des critères :** les exigences retenues permettent d'évaluer la situation au regard de la notion de risque.
+- **Identification référentielle :** les éléments disponibles permettent de déterminer l'arbre et l'habitation concernés.
+- **Adéquation descriptive :** les observations, les critères et les raisons mobilisés permettent de défendre l'affirmation.
+
+Ces résultats peuvent dépendre les uns des autres. Aucun ne garantit automatiquement les autres.
 
 ## 5. Dépendances et non-conversions
 
-Les dimensions examinées ne sont ni indépendantes ni interchangeables.
+Les relations entre signification, usage, critères et référence ne sont ni inexistantes ni réductibles à une relation unique.
 
-Les capacités cognitives contribuent aux conditions de certains usages. Les usages sémantiques rendent disponibles des distinctions et des inférences. Les critères permettent d’évaluer les applications et les conclusions. Les pratiques d’identification contribuent à établir et à maintenir une visée référentielle.
+Les usages contribuent à stabiliser les contenus sémantiques. Ces contenus organisent des distinctions et des inférences qui peuvent intervenir dans l'identification. Les critères règlent certaines applications et permettent d'évaluer les descriptions. Les pratiques référentielles mobilisent des éléments qui peuvent conduire à réviser les usages ou les critères disponibles.
 
-Ces relations doivent être décrites selon les cas. Leur existence ne justifie pas de les réduire à une relation unique.
+Ces dépendances doivent être examinées dans les situations concernées.
 
-Plusieurs distinctions doivent donc être maintenues :
+Plusieurs non-conversions doivent être maintenues :
 
-- **Capacité cognitive ≠ signification sémantique.**
-- **Usage sémantique ≠ référent.**
-- **Stabilisation d’un usage ≠ adéquation de la description.**
-- **Critère d’application ≠ propriété du référent.**
-- **Cohérence des usages ≠ correction de l’identification.**
-- **Correction de l’identification ≠ adéquation de toute description associée.**
+- **Régularité d'usage ≠ signification entièrement déterminée.**
+- **Contenu sémantique ≠ référent.**
+- **Stabilisation sémantique ≠ identification réussie.**
+- **Identification du référent ≠ adéquation descriptive.**
+- **Critère d'identification ≠ critère d'application.**
+- **Critère d'application ≠ propriété du référent.**
+- **Cohérence des usages ≠ correction de toutes les inférences associées.**
+- **Identité référentielle ≠ substituabilité de toutes les expressions.**
 
-Le caractère social d’une pratique ne supprime pas ces distinctions. Des usages peuvent dépendre de compétences distribuées entre locuteurs, spécialistes, institutions, instruments et procédures. Cette dépendance collective contribue à la pratique descriptive ; elle ne suffit pas à établir que le référent se réduit à l’organisation sociale de cette pratique.
+La dernière distinction est particulièrement importante lorsqu'une même chose est désignée sous plusieurs descriptions. L'identité du référent ne garantit pas que le remplacement d'une expression par une autre conserve le contenu attribué ou les engagements associés à l'énoncé.
 
-De même, le changement d’une expression, d’un critère ou d’une fonction descriptive ne prouve pas à lui seul que le référent a changé. Il faut examiner séparément la continuité de la référence et les transformations de la pratique.
+Voir [Ascriptions de dicto et de re](fr/ascriptions-de-dicto-de-re.md).
 
-## 6. Limites et articulation avec l’enquête
+Ces non-conversions ne supposent ni l'indépendance absolue du référent à l'égard des pratiques, ni la réduction de la référence aux usages linguistiques. Elles maintiennent ouverte l'analyse des dépendances sans présumer leur nature ou leur portée.
 
-Cette page ne propose ni une théorie générale de la signification, ni une théorie complète de la référence, ni une théorie psychologique de la cognition.
+## 6. Portée et limites
 
-Elle n’établit pas davantage l’indépendance absolue du référent à l’égard des pratiques descriptives. Elle établit seulement que les relations entre capacités, usages, critères et référence doivent être examinées sans présumer leur identité.
+Cette page établit que les usages sémantiques, les critères et la visée référentielle remplissent des fonctions distinctes, même lorsqu'ils interviennent conjointement dans une pratique descriptive.
 
-Dans l’enquête de Protokin, cette distinction devient utile lorsqu’une difficulté apparaît entre ce qu’une expression permet de faire dans une pratique et ce que cette pratique prétend établir à propos d’une situation.
+Elle permet notamment d'examiner :
 
-L’examen peut alors porter, selon le problème, sur les conditions de l’usage, les relations entre les expressions et les autres éléments mobilisés, la fonction de la description ou les raisons permettant de défendre son application.
+- ce qu'une expression permet de comprendre et d'inférer ;
+- les conditions dans lesquelles son usage est admis, corrigé ou contesté ;
+- les éléments qui permettent d'identifier ce dont une pratique parle ;
+- les critères qui règlent l'application d'une expression ;
+- les passages entre compréhension, identification et évaluation d'une description.
 
-L’examen de la relation entre signification et référence peut porter sur les conditions dans lesquelles une expression est utilisée pour identifier quelque chose, les relations entre les expressions et leurs contenus, les fonctions qu’elles remplissent dans la pratique et les raisons qui permettent de défendre une interprétation.
+Elle suggère que les difficultés de référence ne peuvent pas toujours être résolues par une simple clarification du vocabulaire, pas plus que les difficultés sémantiques ne se résolvent nécessairement par une meilleure identification du référent.
 
-Ces questions ne constituent pas une théorie de la signification ni une division de la pratique en composantes fixes. Elles permettent de différencier les problèmes soulevés par les usages linguistiques et la visée référentielle.
+Elle n'établit cependant pas :
 
-L’identification du référent, la définition du contenu, l’examen des usages et l’évaluation des critères peuvent ainsi se soutenir mutuellement. Ils ne constituent pas pour autant les étapes obligatoires d’une procédure unique.
+- une théorie générale de la signification ;
+- une théorie complète de la référence ;
+- l'indépendance absolue du référent à l'égard des pratiques descriptives ;
+- que les usages collectifs déterminent à eux seuls ce à quoi une expression se rapporte ;
+- que l'identification correcte garantit l'adéquation des descriptions ;
+- que les critères employés dans une pratique sont pertinents du seul fait qu'ils y sont stabilisés.
+
+Les relations examinées ne constituent pas une division fixe de toute pratique descriptive. Elles permettent de différencier les questions à traiter lorsque la relation entre contenu, usage et référence devient problématique.
 
 ## Synthèse
 
-Une pratique descriptive articule des capacités de discrimination, des usages sémantiques, des critères d’application et une visée référentielle.
+Une pratique descriptive articule des contenus sémantiques, des usages, des critères et une visée référentielle. Ces dimensions dépendent les unes des autres sans être interchangeables.
 
-Ces dimensions sont liées, mais elles ne se confondent pas. La stabilisation d’un usage ne garantit pas l’adéquation d’une description ; un critère ne se confond pas avec une propriété du référent ; la cohérence d’une pratique ne suffit pas à établir la correction de ses conclusions.
+Les usages contribuent à déterminer ce qu'une expression signifie dans une pratique, mais ne garantissent pas à eux seuls l'identification de ce dont elle parle. Les critères règlent certaines applications sans se confondre avec les propriétés du référent. L'identification, enfin, ne suffit pas à établir l'adéquation de la description.
 
-L’enjeu est de décrire les dépendances effectives entre ces dimensions tout en maintenant la possibilité d’examiner séparément leurs fonctions et leurs résultats.
+**Comprendre ce qui est dit, identifier ce dont on parle et établir que ce qui en est dit est adéquat sont trois questions liées, mais distinctes.**
 
-Pour poursuivre :
+## Pour poursuivre
 
-- [Référent](fr/referent.md) — Examiner l’identification et la visée référentielle.
-- [Description](fr/description.md) — Distinguer l’activité descriptive, son contenu et ce qu’elle décrit.
-- [Objet descriptif](fr/objet-descriptif.md) — Examiner la stabilisation d’un objet dans une pratique descriptive.
-- [Proposition](fr/proposition.md) — Distinguer contenu propositionnel et rôle inférentiel.
-- [Assertion](fr/assertion.md) — Examiner la prise en charge d’un contenu et ses engagements discursifs.
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations de l’examen.
-- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations mobilisables dans l’enquête.
+- [Registres de l'examen](fr/registres.md) — Distinguer les dimensions cognitive, sémantique et référentielle de l'examen.
+- [Référent](fr/referent.md) — Examiner l'identification et la visée référentielle.
+- [Critère](fr/critere.md) — Préciser les exigences mobilisées pour évaluer une attribution ou une conclusion.
+- [Ascriptions de dicto et de re](fr/ascriptions-de-dicto-de-re.md) — Examiner les conditions et les limites de la substitution entre descriptions.
+- [Proposition](fr/proposition.md) — Distinguer le contenu propositionnel de sa formulation et de son endossement.
+- [Prédication](fr/predication.md) — Examiner la fonction d'attribution.
+- [Description](fr/description.md) — Distinguer l'activité descriptive, son contenu et la situation décrite.
+- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Préciser sous quel rapport une difficulté descriptive est examinée.
