@@ -2,162 +2,235 @@
 
 ## Fonction
 
-Cette page rassemble les diagnostics mobilisables dans l’enquête de Protokin. Elle permet d’orienter l’examen d’une difficulté descriptive vers les distinctions, les relations ou les critères qui demandent à être précisés.
+Cette page rassemble les diagnostics et les ressources associées aux difficultés rencontrées dans les pratiques descriptives.
 
-Elle constitue une cartographie ouverte : les diagnostics présentés ici correspondent aux difficultés déjà identifiées dans le projet, mais la liste pourra être complétée à mesure que de nouveaux problèmes seront examinés et que des instruments spécifiques seront élaborés.
+Elle permet de repérer les problèmes déjà identifiés dans Protokin, de distinguer les diagnostics qui leur correspondent et de retrouver les pages qui développent leur examen.
 
-## Problème
+Elle constitue une cartographie ouverte. Elle ne propose ni une classification exhaustive des erreurs ni une procédure générale de diagnostic. Les regroupements présentés servent à orienter la recherche et peuvent être révisés lorsque de nouvelles difficultés sont examinées.
 
-Une difficulté descriptive ne se présente pas toujours sous la forme d’une erreur clairement identifiable. Elle peut tenir à une distinction insuffisante, à une relation mal établie, à une catégorie appliquée dans des conditions inadéquates, à une justification fragile ou à la persistance d’un cadre devenu difficile à réviser.
+## 1. Statut des diagnostics
 
-Le diagnostic consiste à préciser cette difficulté. Il ne présuppose ni qu’une erreur est déjà démontrée ni qu’une seule explication permet de rendre compte du problème rencontré.
+Un diagnostic caractérise une difficulté descriptive afin de déterminer ce qui doit être examiné, dans quelles conditions le problème apparaît et quelles conséquences peuvent en être tirées.
 
-Une description peut être cohérente sans être adéquate à ce qu’elle prétend décrire. Inversement, une tension ou une différence entre plusieurs descriptions ne suffit pas, à elle seule, à établir une contradiction.
+Il ne constitue pas un verdict. Son identification ne suffit pas à établir qu'une description est fausse, qu'une catégorie est inadéquate ou qu'une pratique est injuste.
 
-## Fonction commune des diagnostics
+Il faut distinguer trois types de ressources :
 
-Un diagnostic met en relation un problème repéré, les conditions dans lesquelles il apparaît et les conséquences descriptives qu’il entraîne ou pourrait entraîner.
+- **Les diagnostics spécialisés** caractérisent une difficulté déterminée et disposent d'une page consacrée à son examen.
+- **Les notions associées** permettent d'analyser certaines conditions, certains mécanismes ou certaines conséquences d'une difficulté, sans constituer nécessairement un diagnostic autonome.
+- **Les ressources d'évaluation** précisent les conditions auxquelles une proposition peut être examinée, justifiée ou tenue pour valide.
 
-Selon le cas, il peut servir à :
+Cette distinction évite de transformer toute notion utile à l'enquête en diagnostic supplémentaire.
 
-- repérer une distinction insuffisante ou une confusion ;
-- examiner une attribution catégorielle ;
-- mettre au jour une réduction entre des fonctions ou des registres ;
-- identifier une stabilisation excessive qui entrave la révision ;
-- examiner une asymétrie dans les conditions de recevabilité de la parole ;
-- vérifier le rapport entre un indice, son usage et la fonction qu’il exerce ;
-- évaluer la portée d’une conclusion au regard des prémisses, des critères et des épreuves disponibles.
+## 2. Confusions et déplacements descriptifs
 
-Ces fonctions ne constituent pas une procédure obligatoire. Plusieurs diagnostics peuvent être pertinents pour une même difficulté, tandis qu’un diagnostic initial peut devoir être reformulé au cours de l’enquête.
+Ces diagnostics examinent les difficultés qui apparaissent lorsque des catégories, des fonctions ou des dimensions distinctes sont rapprochées sans que les relations nécessaires soient suffisamment établies.
 
-## Cartographie des diagnostics
+### 2.1. Confusion de niveau
 
-Les regroupements qui suivent servent à orienter la recherche. Ils ne constituent ni une classification définitive des erreurs ni une hiérarchie entre diagnostics. Certains problèmes peuvent relever de plusieurs regroupements, et de nouveaux diagnostics pourront conduire à réviser leur organisation.
+Une confusion de niveau apparaît lorsqu'un élément établi sous un certain rapport est mobilisé comme s'il suffisait à répondre à une question relevant d'un autre rapport.
 
-### 1. Confusions, catégories et réductions descriptives
+Le problème ne tient pas au passage entre des dimensions distinctes, qui peut être nécessaire à l'enquête, mais à l'insuffisance des relations ou des médiations invoquées pour soutenir ce passage.
 
-Ces diagnostics examinent les difficultés qui apparaissent lorsqu’une description attribue une fonction, une propriété ou un statut sans établir suffisamment les conditions de cette attribution.
+Voir [Diagnostiquer une confusion de niveau](fr/diagnostiquer-une-confusion-de-niveau.md).
 
-- **Diagnostic d’erreur de catégorie** — Examine si une catégorie est appliquée dans un contexte où ses critères d’usage ou de justification ne sont pas établis. Il permet notamment d’interroger la transformation d’une qualification située en propriété supposée intrinsèque ou naturelle. Il ne suffit pas de constater une attribution inhabituelle pour conclure à une erreur.
+### 2.2. Erreur de catégorie
 
-  Voir [Diagnostiquer une erreur de catégorie](fr/diagnostiquer-une-erreur-de-categorie.md).
+Une erreur de catégorie concerne l'application d'une catégorie dans des conditions qui ne permettent pas de soutenir l'attribution proposée, ou le traitement d'une qualification située comme si elle désignait une propriété intrinsèque de ce à quoi elle est attribuée.
 
-- **Diagnostic de confusion de niveau** — Examine les passages entre des descriptions qui remplissent des fonctions distinctes, lorsque les médiations nécessaires ne sont pas explicitées. Une différence entre une description physique, une qualification institutionnelle et un engagement normatif ne peut être supprimée par leur simple rapprochement.
+Il faut distinguer cette difficulté d'une simple différence de vocabulaire ou d'un désaccord sur l'emploi d'une catégorie. Le diagnostic suppose d'examiner les conditions d'application et les critères mobilisés.
 
-  Voir [Diagnostiquer une confusion de niveau](fr/diagnostiquer-une-confusion-de-niveau.md).
+Voir [Diagnostiquer une erreur de catégorie](fr/diagnostiquer-une-erreur-de-categorie.md).
 
-- **Diagnostic de réduction descriptive** — Examine les situations dans lesquelles une description est ramenée à une autre, de telle sorte que des différences pertinentes deviennent inaccessibles ou que certaines questions ne puissent plus être examinées.
+### 2.3. Réduction descriptive
 
-  Trois formes sont notamment à distinguer :
-  - **Réduction causaliste** : une explication causale est mobilisée comme si elle suffisait à régler une question de responsabilité, de justification ou de validité.
-  - **Réduction normativisante** : des critères d’intention, de faute ou d’évaluation sont appliqués à des régularités physiques ou à des événements accidentels sans que leur pertinence soit établie.
-  - **Capture hégémonique inter-régimes** : les critères d’un régime descriptif sont imposés à un autre, au point d’effacer les fonctions et les questions propres à ce dernier.
+Une réduction descriptive apparaît lorsqu'une description est ramenée à une autre de telle manière que des différences, des fonctions ou des questions pertinentes deviennent inaccessibles.
 
-  Ces formes sont des orientations d’examen, non des conclusions automatiques. Une explication causale, une évaluation normative ou une articulation entre régimes peut être pertinente si les relations et les inférences mobilisées sont justifiées.
+Une explication causale peut, par exemple, être mobilisée comme si elle suffisait à régler une question de justification. Une description physique peut également être utilisée pour écarter une question institutionnelle ou normative sans examiner les relations qui permettraient de soutenir ce passage.
 
-  Voir [Diagnostiquer une réduction](fr/diagnostiquer-une-reduction.md).
+Toute simplification ou mobilisation d'un registre particulier ne constitue cependant pas une réduction. Il faut établir ce qui est effectivement effacé ou rendu impossible à examiner.
 
-### 2. Sédimentation, substantialisation et inertie
+Voir [Diagnostiquer une réduction](fr/diagnostiquer-une-reduction.md).
 
-Ces diagnostics examinent les difficultés liées au maintien, à la transmission ou à la rigidification de configurations descriptives.
+Ces trois diagnostics ne sont pas interchangeables :
 
-- **Diagnostic de substantialisation ou d’essentialisation catégorielle** — Examine la transformation d’une qualification située en caractéristique réputée fixe, intrinsèque ou définitive. Une attribution telle qu’un blâme, une catégorie administrative ou un score de risque peut être réutilisée comme si elle définissait durablement l’entité à laquelle elle a été attribuée. Le diagnostic porte sur les conditions de cette stabilisation et sur les possibilités de révision qu’elle laisse ouvertes.
+- la confusion de niveau concerne un passage insuffisamment établi entre des rapports distincts ;
+- l'erreur de catégorie concerne les conditions d'application d'une catégorie ;
+- la réduction concerne l'effacement de différences ou de fonctions par le traitement d'une description à partir d'une autre.
 
-- **Diagnostic d’inertie excessive et d’effet cliquet dogmatique** — Examine les situations dans lesquelles des habitudes, des procédures ou des supports d’inscription rendent la révision d’une description de plus en plus difficile. La persistance d’un cadre ne suffit pas à démontrer son caractère dogmatique : il faut examiner comment il répond aux anomalies, aux contre-exemples et aux contraintes rencontrées.
+Une même situation peut justifier plusieurs de ces examens, sans que leurs conclusions soient identiques.
 
-- **Diagnostic d’amnésie somatique et d’effacement des supports** — Examine les descriptions qui négligent les conditions corporelles, les habitudes d’action ou les supports matériels nécessaires à leur production et à leur maintien. Il ne s’agit pas de réduire les descriptions à ces conditions, mais de vérifier si leur rôle a été omis, minimisé ou rendu invisible.
+## 3. Stabilisation et difficultés de révision
 
-Ces diagnostics se recoupent parfois sans être équivalents. La substantialisation concerne la manière dont une qualification est traitée ; l’inertie concerne les conditions de maintien et de révision ; l’effacement des supports concerne ce qui rend matériellement et pratiquement possible une activité descriptive.
+Certaines difficultés ne concernent pas directement l'application d'une catégorie ou le passage entre plusieurs descriptions. Elles apparaissent lorsque des traces, des habitudes, des procédures ou des supports contribuent à maintenir une configuration descriptive et rendent sa transformation plus difficile.
 
-### 3. Asymétries de recevabilité et injustices structurelles
+Les ressources suivantes permettent d'examiner ces situations. Elles ne constituent pas toutes des diagnostics autonomes.
 
-Ces diagnostics examinent les conditions dans lesquelles des témoignages, des expériences ou des ressources d’interprétation sont reconnus, écartés ou rendus difficiles à exprimer.
+### 3.1. Substantialisation et essentialisation
 
-- **Diagnostic d’injustice testimoniale structurelle** — Examine une asymétrie dans la crédibilité accordée à un locuteur, lorsque sa parole est disqualifiée en raison de sa position sociale ou épistémique plutôt qu’évaluée à partir des éléments pertinents. Le diagnostic porte sur les conditions de recevabilité et sur la possibilité effective d’examiner ce qui est avancé comme raison.
+Une qualification située peut être reprise comme si elle désignait une caractéristique fixe ou intrinsèque de l'entité concernée.
 
-- **Diagnostic d’injustice herméneutique structurelle** — Examine les situations dans lesquelles des expériences sont difficiles à rendre intelligibles ou à communiquer faute de ressources interprétatives accessibles ou reconnues. Il s’agit notamment d’interroger les exclusions qui affectent la formation, la circulation ou la reconnaissance des catégories permettant de décrire une expérience.
+Le problème porte alors sur la transformation du statut attribué à une description ou à une catégorie, ainsi que sur les conditions dans lesquelles cette attribution peut être révisée.
 
-Ces diagnostics n’impliquent pas que tout témoignage soit exact ni que toute difficulté d’expression constitue une injustice. Ils conduisent à examiner les conditions de reconnaissance et les ressources disponibles avant de conclure à l’insuffisance d’une parole ou d’une description.
+Cette difficulté peut être rapprochée du diagnostic d'erreur de catégorie, mais elle ne lui est pas automatiquement équivalente. La substantialisation concerne la manière dont une qualification est stabilisée ; l'erreur de catégorie concerne les conditions dans lesquelles une catégorie est appliquée.
 
-### 4. Indices, inférences, recevabilité et validité
+Aucune page autonome consacrée à la substantialisation n'est actuellement identifiée dans le corpus.
 
-Ces diagnostics portent sur les relations entre les éléments mobilisés dans une description, les conclusions qui en sont tirées et les critères selon lesquels celles-ci sont évaluées.
+### 3.2. Sédimentation et effet cliquet
 
-- **Diagnostic de dérive indicielle** — Examine la désarticulation entre un indice et la fonction pratique qui rend son usage pertinent. Une chaîne d’indices peut se prolonger en circuit fermé, chaque indice étant interprété à partir d’autres indices sans retour suffisant aux situations, aux pratiques ou aux épreuves qui permettraient d’en examiner la portée. Le recours à plusieurs indices ne constitue pas en lui-même une dérive : il faut établir ce qui manque à leur articulation.
+La **sédimentation** désigne l'accumulation et la conservation de traces dans les pratiques descriptives. Elle peut contribuer à maintenir des ressources disponibles sans constituer, par elle-même, une difficulté.
 
-- **Diagnostic d’inadéquation de recevabilité ou de validité** — Examine si une prétention peut être admise à l’examen et si la conclusion avancée est soutenue par les prémisses, les critères et les épreuves mobilisés. Il peut conduire à repérer une inférence insuffisamment justifiée, une règle de transcription inadéquate ou un critère qui ne répond plus au problème examiné.
+Voir [Sédimentation](fr/sedimentation.md).
 
-  La recevabilité et la validité ne sont pas identiques. Une proposition peut être recevable comme objet d’examen sans être validée ; une conclusion peut satisfaire certains critères tout en restant contestable au regard d’autres exigences pertinentes.
+L'**effet cliquet** concerne l'asymétrie des possibilités ou des coûts de transformation d'une configuration descriptive, lorsque cette asymétrie dépend de contraintes accumulées au cours de l'histoire d'une pratique.
 
-  Voir [Recevabilité](fr/recevabilite.md).
+Il ne se confond ni avec la simple persistance d'une description ni avec une impossibilité absolue de la réviser.
 
-## Mobiliser un diagnostic
+Voir [Effet cliquet](fr/effet-cliquet.md).
 
-Le choix d’un diagnostic dépend du problème rencontré, et non d’une obligation de parcourir la cartographie dans un ordre déterminé.
+La sédimentation et l'effet cliquet permettent ainsi d'examiner des dimensions différentes : la conservation des traces, d'une part, et l'asymétrie des possibilités de transformation, d'autre part.
 
-Une enquête peut commencer par une confusion de catégorie, faire apparaître une réduction descriptive, puis conduire à examiner les critères de recevabilité. Elle peut également mobiliser plusieurs diagnostics en parallèle ou abandonner une première hypothèse lorsque les éléments recueillis ne la confirment pas.
+### 3.3. Omission des conditions corporelles et matérielles
 
-Pour chaque diagnostic, il convient d’examiner :
+Une description peut négliger les conditions corporelles, les habitudes d'action ou les supports matériels nécessaires à sa production et à son maintien.
 
-1. **La difficulté repérée** — Quelle différence, attribution, relation ou conclusion pose problème ?
-2. **Les conditions de son apparition** — Dans quelle pratique, quel contexte ou quel enchaînement descriptif la difficulté devient-elle pertinente ?
-3. **Les éléments disponibles** — Quels exemples, traces, contre-exemples ou résultats d’épreuve permettent de l’examiner ?
-4. **La portée du diagnostic** — Qu’est-ce qui est effectivement établi, qu’est-ce qui reste hypothétique et quelles conclusions seraient prématurées ?
-5. **Les possibilités de révision** — Quelles distinctions, quels critères ou quelles descriptions doivent être précisés, maintenus ou réexaminés ?
+Cette omission ne justifie pas de réduire la description à ses conditions matérielles. Elle conduit à examiner si des dépendances pertinentes ont été laissées de côté.
 
-Un diagnostic ne remplace donc pas l’enquête. Il organise une question d’examen et aide à déterminer quelles opérations ou quelles épreuves peuvent être pertinentes.
+Voir [Support descriptif](fr/support-descriptif.md).
 
-## Diagnostics et audit de second ordre
+La notion de support descriptif permet d'examiner le rôle des moyens matériels et pratiques mobilisés dans une activité descriptive. Elle ne constitue pas, à elle seule, un diagnostic d'erreur.
 
-Les diagnostics peuvent être mobilisés dans un audit de second ordre, lorsque l’enquête examine ses propres distinctions, ses instruments et ses conclusions. Cet audit ne se limite toutefois pas à appliquer une liste prédéfinie : il doit aussi pouvoir interroger les catégories et les critères utilisés pour diagnostiquer.
+## 4. Asymétries de crédibilité et d'interprétation
 
-Une difficulté identifiée dans une description peut également apparaître dans le diagnostic qui la concerne. La cartographie doit donc rester révisable, notamment lorsque les diagnostics se chevauchent, qu’un cas résiste aux distinctions proposées ou qu’une nouvelle difficulté ne trouve pas de place satisfaisante dans les regroupements existants.
+Certaines difficultés concernent les conditions dans lesquelles des personnes peuvent contribuer aux pratiques de connaissance, faire reconnaître leurs témoignages ou disposer de ressources permettant de rendre leurs expériences intelligibles.
 
-La cohérence de l’ensemble ne doit pas être préservée au prix de l’effacement des désaccords ou des limites observées.
+### 4.1. Injustice testimoniale
 
-## Limites
+L'injustice testimoniale concerne une asymétrie dans la crédibilité accordée à une personne qui témoigne, lorsque cette asymétrie est liée à des préjugés ou à des conditions sociales de reconnaissance plutôt qu'à une évaluation pertinente de ce qui est avancé.
 
-Les diagnostics ne constituent pas un catalogue exhaustif des difficultés descriptives. Ils ne garantissent pas non plus qu’un problème puisse être isolé sous une seule catégorie.
+Une différence de crédibilité ne suffit donc pas à établir une injustice. Il faut examiner les conditions dans lesquelles la parole est reçue, les critères effectivement appliqués et les désavantages qui peuvent affecter son évaluation.
 
-Ils ne permettent pas, à eux seuls :
+Voir [Injustice épistémique](fr/injustice-epistemique.md).
 
-- de conclure qu’une description est fausse parce qu’un diagnostic est applicable ;
-- de déduire une justification d’une explication causale ;
-- de confondre la genèse d’une description avec sa validité ;
+### 4.2. Injustice herméneutique
+
+L'injustice herméneutique concerne les situations dans lesquelles certaines personnes sont désavantagées dans l'accès aux ressources interprétatives collectives nécessaires pour rendre intelligible une expérience sociale importante.
+
+Elle ne se confond pas avec toute difficulté d'expression, toute lacune conceptuelle ou tout désaccord d'interprétation. Son identification suppose d'examiner les conditions de participation à la production, à la circulation et à la reconnaissance des ressources interprétatives.
+
+Voir [Injustice herméneutique](fr/injustice-hermeneutique.md).
+
+Ces deux formes d'injustice peuvent se renforcer, mais elles ne sont pas équivalentes. Une difficulté à faire reconnaître un témoignage ne démontre pas automatiquement une injustice herméneutique ; inversement, une insuffisance des ressources interprétatives ne suffit pas à établir une injustice testimoniale.
+
+## 5. Indices, inférences et évaluation des conclusions
+
+Les difficultés peuvent également apparaître dans les relations entre les éléments mobilisés par une description, les inférences qui en sont tirées et les critères employés pour évaluer les conclusions.
+
+### 5.1. Dérive indicielle
+
+La dérive indicielle concerne la désarticulation entre un indice et la fonction pratique qui contribue à rendre son usage pertinent.
+
+Elle peut apparaître lorsqu'une chaîne d'indices se prolonge principalement par renvoi à d'autres indices, sans retour suffisant aux situations, aux pratiques ou aux épreuves qui permettraient d'en examiner la portée.
+
+La multiplication des indices ne constitue pas, en elle-même, une dérive. Il faut établir quelle médiation fonctionnelle fait défaut et quelles conséquences en résultent.
+
+Voir [Dérive indicielle](fr/derive-indicielle.md).
+
+### 5.2. Recevabilité
+
+La recevabilité concerne les conditions auxquelles une proposition peut être admise à l'examen dans une pratique déterminée.
+
+Elle ne garantit pas que la proposition soit correcte ou suffisamment justifiée. Une proposition recevable peut être contestée, limitée ou rejetée au terme de son examen.
+
+Voir [Recevabilité](fr/recevabilite.md).
+
+### 5.3. Validité
+
+La validité concerne l'évaluation d'une description au regard de sa prétention, des éléments disponibles et des exigences pertinentes.
+
+Elle ne se déduit ni de la recevabilité d'une proposition ni de son acceptation collective. Son examen doit préciser ce qui est effectivement soutenu et dans quelles conditions le jugement porté peut être maintenu ou révisé.
+
+Voir [Validité](fr/validite.md).
+
+**Recevabilité ≠ validité.**
+
+La recevabilité rend possible l'examen d'une proposition ; la validité concerne l'évaluation de ce qu'elle affirme. La justification constitue un autre rapport d'examen : elle porte sur les raisons, les critères et les inférences mobilisés pour soutenir ou contester une conclusion.
+
+Voir également [Justifier](fr/justifier.md).
+
+## 6. Mobiliser un diagnostic
+
+Le choix d'un diagnostic dépend de la difficulté rencontrée. Il n'est pas nécessaire de parcourir la cartographie dans un ordre déterminé ni de faire entrer chaque problème dans une catégorie déjà recensée.
+
+Un diagnostic peut être mobilisé comme hypothèse d'examen. Sa pertinence doit être vérifiée à partir de la situation considérée et des éléments disponibles.
+
+Il convient notamment de préciser :
+
+- **La difficulté** : quelle différence, attribution, relation ou conclusion pose problème ?
+- **Le rapport examiné** : dans quelles conditions et dans quelle pratique la difficulté apparaît-elle ?
+- **Les éléments disponibles** : quels exemples, traces, contre-exemples ou résultats d'épreuve permettent de l'examiner ?
+- **La portée** : qu'est-ce qui est établi, qu'est-ce qui reste hypothétique et quelles conclusions seraient prématurées ?
+
+Plusieurs diagnostics peuvent être mobilisés conjointement. Une première caractérisation peut également être abandonnée ou reformulée lorsque les éléments recueillis ne la soutiennent pas.
+
+Pour les repères pratiques de conduite de l'enquête, voir [Conduire une enquête](fr/conduire-une-enquete.md).
+
+## 7. Diagnostics et réflexivité
+
+Les diagnostics peuvent être mobilisés lorsque l'enquête examine ses propres distinctions, ses instruments et ses conclusions.
+
+Ils ne doivent cependant pas être considérés comme des catégories à l'abri de l'examen. Leur définition, leurs conditions d'application et leurs limites peuvent elles-mêmes devenir des objets d'enquête.
+
+Une difficulté rencontrée dans une description peut ainsi apparaître dans le diagnostic proposé pour l'examiner. La cartographie doit rester révisable lorsque des diagnostics se chevauchent, lorsqu'un cas résiste aux distinctions disponibles ou lorsqu'une difficulté nouvelle ne trouve pas de place satisfaisante dans les regroupements existants.
+
+L'examen réflexif ne consiste donc pas à appliquer une liste prédéfinie à Protokin, mais à maintenir ses propres ressources descriptives ouvertes à la contestation et à la révision.
+
+## 8. Limites
+
+Cette cartographie ne constitue pas un catalogue exhaustif des difficultés descriptives. Elle ne garantit pas non plus qu'un problème puisse être isolé sous un diagnostic unique.
+
+Les diagnostics ne permettent pas, à eux seuls :
+
+- de conclure qu'une description est fausse parce qu'un diagnostic lui est applicable ;
+- de déduire une justification d'une explication causale ;
+- de confondre la genèse d'une description avec sa validité ;
 - de traiter une différence de fonction comme une contradiction ;
-- de transformer une difficulté locale en propriété générale d’une personne, d’une pratique ou d’un régime descriptif ;
-- de supposer que l’absence d’un diagnostic dans cette cartographie signifie que la difficulté correspondante n’existe pas.
+- de transformer une difficulté locale en propriété générale d'une personne, d'une pratique ou d'un régime descriptif ;
+- de considérer la persistance d'une description comme une preuve de sa validité ou de son inadéquation ;
+- de conclure qu'une difficulté n'existe pas au seul motif qu'aucun diagnostic correspondant ne figure dans cette cartographie.
 
 Un diagnostic propose une caractérisation examinable. Sa pertinence, sa portée et ses conséquences doivent elles-mêmes être éprouvées.
 
-## Extension de la cartographie
+## 9. Extension de la cartographie
 
-Tout nouveau diagnostic pourra être ajouté à cette page lorsqu’une difficulté distincte aura été suffisamment caractérisée. Son intégration devra préciser :
+Un nouveau diagnostic pourra être ajouté lorsque la difficulté qu'il caractérise aura été suffisamment distinguée des diagnostics existants.
 
-- le problème descriptif qu’il permet d’examiner ;
+Son intégration devra préciser :
+
+- le problème descriptif qu'il permet d'examiner ;
 - sa différence avec les diagnostics déjà recensés ;
 - les conditions dans lesquelles il est pertinent ;
-- les conclusions qu’il autorise et celles qu’il ne permet pas d’établir ;
-- les éventuels chevauchements avec d’autres diagnostics.
+- les conclusions qu'il autorise et celles qu'il ne permet pas d'établir ;
+- les éventuels chevauchements avec d'autres diagnostics.
 
 Une page dédiée pourra être créée lorsque le diagnostic exige une définition, des critères, une procédure ou des exemples qui dépassent la fonction de cette cartographie. La présente page en conservera alors une entrée synthétique et un lien.
 
-Cette organisation permet d’étendre le corpus sans présupposer que les diagnostics futurs doivent tous entrer dans les regroupements actuels. La cartographie elle-même reste susceptible d’être réorganisée.
+Les notions associées ne doivent pas être transformées automatiquement en diagnostics supplémentaires. Leur statut doit être déterminé à partir de leur fonction effective dans l'enquête.
 
 ## Synthèse
 
-Les diagnostics de l’enquête servent à préciser les difficultés rencontrées dans les pratiques descriptives et à orienter leur examen. Ils peuvent concerner les catégories, les niveaux, les réductions, les formes de sédimentation, les asymétries de recevabilité ou les relations entre indices, inférences et critères de validité.
+Les diagnostics de l'enquête permettent de caractériser les difficultés rencontrées dans les pratiques descriptives et d'orienter leur examen.
 
-Leur liste reste ouverte. Leur fonction n’est pas de distribuer définitivement les problèmes entre des classes d’erreurs, mais de rendre les difficultés descriptives plus précises, discutables et révisables.
+Ils peuvent porter sur les passages entre des fonctions distinctes, l'application des catégories, les réductions descriptives, les conditions de stabilisation et de révision, les asymétries de participation ou les relations entre indices, inférences et critères d'évaluation.
+
+La cartographie distingue les diagnostics spécialisés des notions et des ressources qui contribuent à leur examen. Elle reste ouverte à la révision et ne transforme pas ses regroupements en classification définitive des difficultés.
 
 ## Renvois
 
-- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
-- [Réaliser un audit](fr/realiser-un-audit.md)
-- [Diagnostiquer une confusion de niveau](fr/diagnostiquer-une-confusion-de-niveau.md)
-- [Diagnostiquer une erreur de catégorie](fr/diagnostiquer-une-erreur-de-categorie.md)
-- [Diagnostiquer une réduction](fr/diagnostiquer-une-reduction.md)
-- [Recevabilité](fr/recevabilite.md)
-- [Comparer deux descriptions](fr/comparer-deux-descriptions.md)
-- [Butoir](fr/butoir.md)
+- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer les diagnostics parmi les ressources fonctionnelles de l'enquête.
+- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Distinguer les rapports sous lesquels une situation ou une pratique peut être examinée.
+- [Conduire une enquête](fr/conduire-une-enquete.md) — Retrouver les repères pratiques pour traiter une difficulté descriptive.
+- [Comparer deux descriptions](fr/comparer-deux-descriptions.md) — Examiner les différences et les rapports entre plusieurs descriptions.
+- [Pattern d'audit](pattern-audit.md) — Consulter les principes et les modalités d'examen des ressources du corpus.
+- [Audit du corpus](audit-corpus.md) — Retrouver les constats et les décisions concernant la cohérence générale du dépôt.
+- [Table des matières](fr/tdm.md) — Retrouver les ressources du corpus.
