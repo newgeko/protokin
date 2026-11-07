@@ -2,168 +2,198 @@
 
 ## Fonction
 
-Cette page précise ce que désigne la niche biologique et examine la notion de construction de niche. Elle porte sur les relations entre les organismes et les environnements dans lesquels ils vivent, ainsi que sur les transformations que leurs activités peuvent produire dans ces environnements.
+Cette page présente la notion de niche biologique et celle de construction de niche. Elle examine les relations entre les organismes, leurs activités et les conditions environnementales dans lesquelles ils vivent.
 
-Son intérêt pour Protokin est circonscrit : elle fournit des ressources pour examiner les conditions environnementales d’une activité et les relations par lesquelles ces conditions se maintiennent ou se transforment. Elle ne constitue ni une théorie générale de la description ni une explication biologique de la normativité.
+Elle introduit également la **friction de niche**, notion de travail proposée dans Protokin pour examiner les situations où les transformations d’un milieu et les rétroactions qui en résultent fragilisent les conditions de maintien d’une activité.
 
-## 1. Problème : l’environnement est-il seulement un contexte ?
+La page fournit ainsi des ressources pour examiner les dépendances entre activité et environnement. Elle ne constitue ni une théorie générale de l’écologie ni une explication biologique de la normativité.
 
-Un organisme dépend de conditions environnementales : disponibilité des ressources, température, humidité, présence d’autres organismes, possibilités de déplacement ou caractéristiques de son habitat. Ces conditions influencent ses activités et ses possibilités de persistance.
+## 1. Problème : l’environnement est-il un simple contexte ?
 
-Mais l’environnement pertinent pour un organisme ne se réduit pas toujours à un ensemble de conditions indépendantes de son activité. Les organismes peuvent également modifier leur environnement par leurs déplacements, leurs constructions, leurs prélèvements ou leurs autres activités. Ces modifications peuvent ensuite affecter les conditions dans lesquelles ils vivent, ainsi que celles d’autres organismes.
+Un organisme dépend de conditions environnementales : disponibilité des ressources, température, humidité, caractéristiques de son habitat, présence d’autres organismes ou possibilités de déplacement.
 
-La question est donc double :
+Ces conditions ne sont pas nécessairement indépendantes de son activité. Un organisme peut modifier son environnement par ses déplacements, ses prélèvements, ses constructions ou d’autres activités. Ces transformations peuvent ensuite affecter ses propres conditions de vie et celles d’autres organismes.
 
-- Quelles caractéristiques de l’environnement sont pertinentes pour les activités et la persistance d’un organisme ?
-- Comment les activités de cet organisme contribuent-elles à modifier les conditions environnementales qui affectent ensuite ses possibilités d’action ?
+Il faut donc examiner deux rapports :
 
-La notion de niche biologique permet d’examiner les relations entre un organisme et les conditions environnementales pertinentes pour son mode de vie. La notion de construction de niche attire plus précisément l’attention sur les modifications de l’environnement produites par les organismes et sur leurs conséquences.
+- les conditions environnementales dont dépendent les activités d’un organisme ;
+- les transformations que ces activités produisent dans le milieu et les conséquences qui en résultent.
 
-## 2. Niche biologique et construction de niche
+La notion de niche biologique permet de caractériser les conditions et les relations écologiques pertinentes pour un organisme ou une population. La construction de niche attire plus précisément l’attention sur les modifications de l’environnement produites par les organismes.
 
-### 2.1. La niche biologique
+## 2. Niche biologique
 
-Le terme *niche biologique* possède plusieurs usages dans les sciences du vivant. Selon le problème étudié, il peut désigner un ensemble de conditions environnementales, de ressources et de relations écologiques associées à la vie d’un organisme ou d’une population.
+### 2.1. Définition
 
-Il ne désigne donc pas simplement un lieu géographique. Deux organismes présents dans le même espace peuvent exploiter des ressources différentes, avoir des activités distinctes ou dépendre de conditions différentes. Inversement, des organismes vivant dans des lieux différents peuvent rencontrer des conditions écologiques comparables.
+La **niche biologique** désigne, selon le cadre écologique retenu, un ensemble de conditions environnementales, de ressources et de relations pertinentes pour la vie d’un organisme ou d’une population.
 
-La niche doit ainsi être caractérisée en fonction de l’organisme ou de la population étudiée, des activités considérées et des conditions retenues comme pertinentes. Il n’existe pas, dans cette page, de définition unique destinée à remplacer les usages spécialisés du terme en écologie.
+Elle ne se réduit pas à un lieu géographique. Deux organismes présents dans un même espace peuvent exploiter des ressources différentes, dépendre de conditions distinctes ou entretenir des relations écologiques différentes. Inversement, des organismes vivant dans des lieux distincts peuvent rencontrer des conditions comparables.
 
-### 2.2. La construction de niche
+La caractérisation d’une niche dépend donc notamment :
+
+- de l’organisme ou de la population étudiée ;
+- des activités et des ressources considérées ;
+- des conditions abiotiques et biotiques pertinentes ;
+- des relations écologiques prises en compte ;
+- de l’échelle spatiale et temporelle de l’examen.
+
+Le terme possède plusieurs usages dans les sciences du vivant. Cette page ne cherche pas à les unifier ni à remplacer les définitions spécialisées de l’écologie. Elle retient une formulation générale permettant d’examiner les relations entre organismes et environnement.
+
+### 2.2. Niche et habitat
+
+L’habitat désigne un espace ou un type de milieu dans lequel un organisme ou une population est présent. La niche concerne les conditions, les ressources et les relations écologiques pertinentes pour sa vie.
+
+Les deux notions sont liées, mais elles ne sont pas interchangeables. Décrire un habitat ne suffit pas à caractériser une niche : il faut également examiner les ressources utilisées, les conditions rencontrées et les relations qui interviennent dans les activités de l’organisme.
+
+## 3. Construction de niche
 
 La **construction de niche** désigne les activités par lesquelles des organismes modifient certains aspects de leur environnement, avec des conséquences possibles sur leurs propres conditions de vie et sur celles d’autres organismes.
 
-Ces modifications peuvent être physiques, chimiques ou biologiques. Elles peuvent concerner la disponibilité des ressources, la structure d’un habitat, les conditions locales de température ou d’humidité, ou encore les relations entre espèces.
+Ces modifications peuvent être physiques, chimiques ou biologiques. Elles peuvent affecter la disponibilité des ressources, la structure d’un habitat, les conditions locales de température ou d’humidité, ou les relations entre espèces.
 
-La construction de niche ne suppose pas que l’organisme poursuive consciemment un objectif écologique. Une modification peut résulter d’une activité ordinaire, sans que ses conséquences environnementales soient anticipées. Elle ne constitue pas non plus nécessairement une amélioration des conditions de vie : ses effets peuvent être favorables, défavorables ou variables selon les organismes et les circonstances.
+La construction de niche ne suppose pas que l'organisme poursuive consciemment un objectif écologique. Une modification peut résulter d'une activité ordinaire sans que ses conséquences soient anticipées.
+
+Elle ne constitue pas non plus nécessairement une amélioration des conditions de vie. Les effets d'une transformation peuvent être favorables, défavorables ou variables selon les organismes concernés, les circonstances et la durée considérée.
+
+Il faut distinguer :
+
+- **Activité de l'organisme** : ce qu'il fait dans une situation déterminée.
+- **Modification environnementale** : les transformations du milieu auxquelles cette activité contribue.
+- **Conséquences écologiques** : les effets de ces transformations sur les organismes et les conditions de leurs activités.
+- **Évaluation de ces conséquences** : les critères à partir desquels leurs effets sont qualifiés.
+
+Constater une modification environnementale ne suffit donc pas à établir qu'elle favorise l'organisme qui l'a produite. Il faut examiner les conséquences effectives de cette modification.
+
+## 4. Friction de niche
+
+### 4.1. Une notion de travail pour Protokin
+
+On appellera ici **friction de niche** une dynamique dans laquelle les contraintes ou les rétroactions d'un milieu fragilisent les conditions dont dépend la poursuite d'une activité.
+
+Cette notion attire l'attention sur les relations entre une activité, les transformations de son environnement et les effets de ces transformations dans la durée. Elle permet notamment d'examiner comment une activité peut contribuer à modifier les conditions dont elle dépend, ou comment des transformations du milieu peuvent progressivement restreindre ses possibilités.
+
+La friction de niche n'est pas présentée ici comme un concept biologique établi au même titre que la niche ou la construction de niche. C'est une proposition de travail destinée à caractériser une dynamique pertinente pour l'enquête.
+
+Elle ne désigne pas toute résistance rencontrée. Il faut que les contraintes ou les rétroactions affectent les conditions de maintien de l'activité, en accroissent le coût ou en restreignent les possibilités.
+
+### 4.2. Construction de niche et friction de niche
+
+Une construction de niche peut produire une friction ultérieure, mais ce n'est pas nécessairement le cas.
+
+Une modification environnementale peut améliorer certaines conditions, en détériorer d'autres ou produire des effets différents selon les organismes concernés. Elle peut également rester sans conséquence significative pour la poursuite de l'activité étudiée.
+
+La friction de niche désigne une dynamique particulière : les relations entre activité et milieu deviennent telles que les conditions de maintien de l'activité sont fragilisées.
 
 Il faut donc distinguer :
 
-- **Niche biologique :** les conditions et les relations écologiques pertinentes pour l’organisme ou la population étudiée.
-- **Construction de niche :** les activités par lesquelles des organismes modifient certaines de ces conditions ou relations.
-- **Conséquences de la modification :** les effets de ces transformations sur les organismes concernés et sur leurs conditions ultérieures d’activité.
+- **Construction de niche** : modification de certaines caractéristiques de l'environnement par l'activité des organismes.
+- **Friction de niche** : dynamique de contraintes ou de rétroactions qui affecte les conditions de poursuite d'une activité.
+- **Butoir** : résistance rencontrée dans une configuration déterminée qui limite une pratique, une opération ou une description.
 
-Ces termes sont liés, mais ne sont pas interchangeables. Décrire une niche ne suffit pas à établir qu’elle a été construite par les organismes étudiés. Constater une modification environnementale ne suffit pas non plus à déterminer toutes ses conséquences écologiques.
+Ces notions peuvent être articulées sans être confondues. Une construction de niche peut contribuer à une friction ultérieure. Une friction peut se manifester par un ou plusieurs butoirs, mais elle ne se réduit pas à ces résistances ponctuelles.
 
-### 2.3. Friction de niche et maintien des conditions d’activité
+### 4.3. Maintien d'une activité et échelle temporelle
 
-On appellera ici **friction de niche** la tension qui apparaît lorsque les contraintes ou les rétroactions d’un milieu fragilisent les conditions dont dépend la poursuite d’une activité.
+Une activité peut fonctionner dans une configuration immédiate tout en contribuant à fragiliser certaines des conditions dont dépend sa poursuite ultérieure.
 
-Cette notion de travail attire l’attention sur les relations entre une activité, les transformations de son milieu et les effets de ces transformations dans la durée. Elle ne désigne pas toute résistance rencontrée, mais une dynamique susceptible de rendre la poursuite d’une activité plus difficile ou plus coûteuse.
+L'examen ne peut donc pas toujours se limiter aux effets immédiats d'une activité. Il peut être nécessaire de considérer :
 
-Une pratique dépend de conditions matérielles, environnementales et relationnelles qui rendent certaines activités possibles. Ces conditions ne sont pas nécessairement stables. L’activité peut les modifier, tandis que les transformations du milieu peuvent affecter en retour les possibilités de poursuivre cette activité. Une configuration initialement favorable peut ainsi devenir plus contraignante, jusqu’à rendre nécessaire une modification de la pratique ou de ses conditions d’exercice.
+- les transformations du milieu au cours du temps ;
+- les effets différés ou cumulatifs de ces transformations ;
+- les rétroactions entre l'activité et les conditions environnementales ;
+- les possibilités de modification de l'activité ou de ses conditions d'exercice.
 
-La friction de niche permet d’examiner cette dynamique. Elle ne désigne pas toute résistance rencontrée, mais une tension dont les effets concernent la continuité d’une activité et les conditions qui permettent de la maintenir à moyen ou long terme.
+La friction de niche permet de formuler ce problème. Elle ne prouve pas, à elle seule, qu'une activité est devenue non viable ou qu'une rupture est inévitable.
 
-#### Distinguer trois notions
+## 5. Exemple discriminant : le castor et le cours d'eau
 
-- **Butoir :** une résistance limite une opération ou une pratique dans une configuration donnée. Elle peut être ponctuelle et ne compromet pas nécessairement le maintien de l’activité dans la durée.
-- **Construction de niche :** une activité modifie certaines caractéristiques de son environnement. Ces modifications peuvent produire des effets favorables, défavorables ou variables selon les organismes, les activités et les conditions considérées.
-- **Friction de niche :** dynamique par laquelle des contraintes ou des rétroactions du milieu modifient les conditions de poursuite d’une activité et peuvent en fragiliser le maintien, en accroître le coût ou en restreindre les possibilités.
+La construction d'un barrage par des castors permet de distinguer les notions précédentes.
 
-Ces notions peuvent être liées sans être interchangeables. Une construction de niche peut produire une friction ultérieure, mais ce n’est pas nécessairement le cas. Un butoir peut révéler une difficulté ponctuelle sans que celle-ci menace la continuité de la pratique. Inversement, une friction de niche peut se développer progressivement sans qu’un obstacle unique permette d’en identifier immédiatement l’origine.
+Le barrage modifie localement la circulation de l'eau. Il peut transformer la profondeur, l'étendue ou les caractéristiques d'une zone humide. Ces transformations affectent les conditions dans lesquelles les castors vivent et se déplacent, mais aussi celles d'autres organismes présents dans le milieu.
 
-#### Un exemple : la transformation d’un milieu
+L'examen doit distinguer plusieurs questions :
 
-Une activité dépendant d’une ressource environnementale peut contribuer à modifier les conditions de disponibilité de cette ressource. Si cette modification rend ensuite son accès plus difficile, elle peut accroître les contraintes pesant sur la poursuite de l’activité. La pratique rencontre alors une friction de niche lorsque cette dynamique compromet les conditions de son maintien.
+- **Niche biologique** : quelles conditions et quelles relations écologiques sont pertinentes pour les organismes étudiés ?
+- **Construction de niche** : quelles modifications les castors produisent-ils effectivement dans leur environnement ?
+- **Conséquences écologiques** : quels effets ces transformations ont-elles sur les différents organismes concernés ?
+- **Friction de niche** : certaines transformations ou rétroactions fragilisent-elles, dans la durée, les conditions de maintien d'une activité ?
+- **Évaluation** : selon quels critères les effets observés sont-ils qualifiés de favorables, de défavorables ou de neutres ?
 
-L’exemple ne suffit toutefois pas à établir qu’une telle friction existe. Il faut examiner les transformations effectivement observées, les relations entre l’activité et son milieu, leur évolution temporelle et les conditions auxquelles la continuité de la pratique dépend. Une variation de l’environnement ne constitue pas, à elle seule, la preuve d’une dégradation des conditions de maintien.
+L'exemple montre qu'une activité biologique peut transformer des conditions environnementales qui affectent ensuite les possibilités d'activité de plusieurs organismes.
 
-#### Portée et limites de la notion
+Il ne permet pas de conclure que toute construction de niche favorise l'organisme constructeur, que ses effets sont identiques pour toutes les espèces ou qu'une transformation constitue nécessairement une adaptation réussie.
 
-La friction de niche attire l’attention sur les effets cumulatifs ou différés des relations entre une activité et son milieu. Elle conduit à ne pas évaluer une configuration uniquement à partir de son fonctionnement immédiat : une pratique peut fonctionner à court terme tout en contribuant à fragiliser certaines des conditions dont elle dépend ultérieurement.
+L'identification d'une friction de niche demanderait, elle aussi, des éléments supplémentaires : les transformations observées, leurs effets dans la durée et les conditions auxquelles dépend la poursuite de l'activité considérée.
 
-La notion ne suppose cependant ni que toute activité tende à préserver son environnement, ni que toute friction entraîne nécessairement une rupture. Une pratique peut être transformée, déplacée, interrompue ou maintenue grâce à des modifications de ses conditions d’exercice. Les effets dépendent de la configuration étudiée et de l’échelle temporelle retenue.
+## 6. Articulation avec l'enquête de Protokin
 
-Il faut enfin distinguer la possibilité matérielle de maintenir une activité de la justification de cette activité. Qu’une pratique puisse se poursuivre, ou qu’elle rencontre des contraintes qui menacent sa continuité, ne suffit pas à déterminer si elle est souhaitable, légitime ou correctement décrite.
+La niche biologique devient pertinente lorsque l'enquête doit examiner les conditions environnementales d'une activité et les relations entre les organismes et leur milieu.
 
-Pour Protokin, la friction de niche constitue ainsi une notion permettant d’examiner les relations entre conditions matérielles, transformations environnementales et maintien des pratiques. Elle contribue à l’enquête sans transformer les contraintes du milieu en critères de justification ni faire de la persistance une preuve d’adéquation descriptive.
+Elle peut contribuer à préciser une difficulté descriptive lorsque l'environnement est traité comme un contexte indifférencié, lorsque les transformations produites par une activité sont négligées ou lorsque leurs conséquences sont insuffisamment examinées.
 
-## 3. Exemple discriminant : le castor et le cours d’eau
+Plusieurs orientations de l'examen peuvent alors être mobilisées :
 
-La construction d’un barrage par des castors permet d’illustrer cette distinction.
+- **Condition** : quelles caractéristiques environnementales rendent certaines activités possibles ou les contraignent ?
+- **Relation** : quelles dépendances relient les organismes, leurs activités et les transformations du milieu ?
+- **Fonction** : quel rôle une modification environnementale exerce-t-elle dans une activité déterminée ?
+- **Justification** : quels éléments permettent de soutenir les conclusions tirées des observations et des relations examinées ?
 
-Le barrage modifie localement la circulation de l’eau et peut transformer la profondeur, l’étendue ou les caractéristiques d’une zone humide. Ces transformations affectent les conditions dans lesquelles les castors vivent et se déplacent, mais aussi celles d’autres organismes présents dans le milieu.
+Ces orientations ne sont ni des composantes de la niche ni des étapes obligatoires de son analyse. Elles différencient les questions que l'enquête peut poser à propos d'une même situation. Leur mobilisation dépend du problème rencontré.
 
-Plusieurs questions doivent être distinguées :
+La description écologique ne dispense pas non plus d'examiner les matériaux, les observations, les inférences et les critères employés. Une relation identifiée ne suffit pas à déterminer ce qu'elle explique ; une fonction attribuée ne suffit pas à justifier une conclusion.
 
-- **Conditions environnementales :** quelles sont les caractéristiques du cours d’eau, du terrain et des ressources disponibles ?
-- **Activité de construction :** quelles modifications les castors produisent-ils effectivement ?
-- **Conséquences écologiques :** quels effets ces modifications ont-elles sur les organismes concernés, dans quelles conditions et sur quelle durée ?
-- **Évaluation :** selon quels critères qualifie-t-on ces effets de favorables, de défavorables ou de neutres ?
+## 7. Limites et non-conversions
 
-L’exemple montre qu’une activité biologique peut transformer certaines conditions environnementales qui affectent ensuite les possibilités d’activité de plusieurs organismes. Il ne permet pas, à lui seul, de conclure que toute construction de niche favorise l’organisme constructeur, ni que ses effets sont identiques pour toutes les espèces concernées.
+Les notions examinées dans cette page permettent de décrire certaines relations entre organismes, activités et environnement. Elles ne permettent pas, à elles seules :
 
-Il ne prouve pas davantage que la transformation d’un environnement constitue nécessairement une adaptation réussie. Cette conclusion dépend des effets étudiés, des échelles temporelles retenues et des critères d’évaluation mobilisés.
+- de déduire la fonction d'un organisme de sa seule présence dans un environnement ;
+- de conclure qu'une modification environnementale constitue nécessairement une adaptation réussie ;
+- de considérer toute transformation du milieu comme intentionnelle ;
+- de déduire la viabilité d'un organisme de la seule description de son habitat ;
+- de convertir une explication biologique en justification d'une décision ;
+- de réduire les pratiques descriptives humaines à des mécanismes biologiques de construction de niche.
 
-## 4. Articulation avec Protokin
+Plusieurs distinctions doivent être maintenues :
 
-La notion de niche biologique peut être mobilisée lorsque l’enquête doit examiner des conditions environnementales et les relations par lesquelles des activités les modifient.
+**Niche biologique ≠ habitat.**
 
-Dans la quadripartition de l’orientation, plusieurs questions peuvent alors devenir pertinentes :
+L'habitat désigne un milieu de présence ; la niche concerne les conditions et les relations écologiques pertinentes pour l'organisme ou la population étudiée.
 
-- **Condition :** quelles caractéristiques de l’environnement contraignent ou rendent possibles les activités étudiées ?
-- **Relation :** quelles dépendances relient les organismes, leurs activités et les transformations de leur environnement ?
-- **Fonction :** quel rôle une modification environnementale exerce-t-elle dans une activité déterminée ?
-- **Justification :** quels éléments permettent de soutenir les conclusions tirées de l’observation de ces relations ?
+**Construction de niche ≠ adaptation réussie.**
 
-Ces orientations ne sont ni quatre composantes de la niche ni quatre étapes obligatoires de son analyse. Le problème rencontré détermine les questions pertinentes et les relations qu’il faut examiner.
+Une activité peut modifier l'environnement sans améliorer les conditions de persistance de l'organisme qui la réalise.
 
-La notion peut notamment contribuer à l’ancrage d’une enquête lorsque des descriptions d’une situation écologique ne tiennent pas suffisamment compte des conditions environnementales ou des transformations produites par les activités étudiées. Elle ne remplace cependant ni l’observation écologique ni l’examen des inférences et des critères employés pour interpréter les résultats.
+**Friction de niche ≠ butoir.**
 
-### Niche biologique et butoir
-
-La notion de [butoir](fr/butoir.md) permet de préciser un point de contact avec l’enquête de Protokin.
-
-Une contrainte environnementale peut limiter une activité ou rendre impossible une opération attendue. Elle peut ainsi devenir pertinente pour l’examen d’une description ou d’une pratique. Mais la niche ne se réduit pas à cette résistance : elle concerne un ensemble de conditions et de relations écologiques, tandis que le butoir désigne une limite rencontrée dans une configuration déterminée.
-
-La présence d’une contrainte ne fournit pas, à elle seule, une interprétation complète de ses effets. Il faut examiner les activités concernées, les relations en jeu et les conclusions que les observations permettent effectivement de soutenir.
-
-## 5. Limites et non-conversions
-
-La notion de niche biologique permet d’examiner des relations écologiques et des transformations environnementales. Elle ne permet pas, à elle seule :
-
-- de déduire la fonction d’un organisme de sa seule présence dans un environnement ;
-- de conclure qu’une modification environnementale constitue nécessairement une adaptation réussie ;
-- de considérer toute transformation de l’environnement comme intentionnelle ;
-- de déduire la viabilité d’un organisme de la seule description de son habitat ;
-- de convertir une explication biologique en justification d’une décision ;
-- de réduire les pratiques descriptives humaines à des mécanismes de construction de niche biologique.
-
-Plusieurs distinctions doivent donc être maintenues :
-
-**Modification environnementale ≠ adaptation réussie.**
-
-Une activité peut transformer un environnement sans améliorer les conditions de persistance de l’organisme qui la réalise.
-
-**Viabilité biologique ≠ validité descriptive.**
-
-Le fait qu’une conduite contribue à la persistance d’un organisme ou d’une population ne suffit pas à justifier les descriptions ou les conclusions associées à cette conduite.
+La friction désigne une dynamique de contraintes ou de rétroactions affectant le maintien d'une activité. Le butoir désigne une résistance rencontrée dans une configuration déterminée.
 
 **Condition écologique ≠ critère de justification.**
 
-Une contrainte environnementale peut limiter les possibilités d’action. Elle ne détermine pas automatiquement ce qu’il faut affirmer, décider ou tenir pour justifié.
+Une contrainte environnementale peut limiter les possibilités d'action. Elle ne détermine pas automatiquement ce qu'il faut affirmer, décider ou tenir pour justifié.
 
-**Niche biologique ≠ niche discursive.**
+**Persistance biologique ≠ validité descriptive.**
 
-L’expression *niche discursive* peut servir d’analogie pour attirer l’attention sur les environnements techniques, institutionnels ou sémiotiques dans lesquels des pratiques descriptives se déploient. Cette analogie ne constitue pas une équivalence établie entre les processus biologiques et les pratiques humaines. Elle exige un examen spécifique des relations et des fonctions en jeu.
+Le fait qu'une activité contribue à la persistance d'un organisme ou d'une population ne suffit pas à justifier les descriptions ou les conclusions associées à cette activité.
 
-Les notions de niche biologique et de construction de niche ne fournissent donc pas une théorie générale de la normativité. Leur contribution dépend des questions écologiques auxquelles elles permettent de répondre et des éléments disponibles pour soutenir les conclusions proposées.
+Enfin, l'analogie entre niche biologique et niche discursive ne peut pas être tenue pour une équivalence. L'environnement matériel d'un organisme et les conditions techniques, institutionnelles ou sémiotiques d'une pratique descriptive peuvent présenter certaines ressemblances fonctionnelles. Mais leur rapprochement exige un examen spécifique des relations et des fonctions en jeu. La présente page ne construit pas cette analogie.
 
 ## Synthèse
 
-La niche biologique désigne, selon le problème étudié, les conditions et les relations écologiques pertinentes pour un organisme ou une population. La construction de niche concerne les activités par lesquelles des organismes modifient certaines de ces conditions ou relations, avec des conséquences possibles sur leurs propres possibilités d’activité et sur celles d’autres organismes.
+La niche biologique désigne, selon le problème étudié, les conditions et les relations écologiques pertinentes pour un organisme ou une population. La construction de niche concerne les activités par lesquelles des organismes modifient certaines de ces conditions ou relations, avec des conséquences possibles sur leurs propres possibilités d'activité et sur celles d'autres organismes.
 
-Pour Protokin, ces notions contribuent à l’examen des conditions environnementales et des dépendances entre organismes, activités et milieu. Elles permettent de ne pas traiter l’environnement comme un simple décor, sans supposer pour autant que toute activité transforme nécessairement la niche de manière favorable ou que les effets observés justifient les conclusions tirées.
+La friction de niche est une notion de travail proposée par Protokin pour examiner les dynamiques dans lesquelles les contraintes ou les rétroactions d'un milieu fragilisent les conditions de maintien d'une activité. Elle ne se confond ni avec la construction de niche ni avec le butoir.
 
-**Les relations écologiques peuvent expliquer certaines conditions d’activité et certaines transformations environnementales ; elles ne suffisent pas, à elles seules, à justifier les descriptions ou les décisions qui s’y rapportent.**
+Ces notions permettent d'examiner les dépendances entre organismes, activités et environnement sans convertir une modification en adaptation, une condition en justification ou une explication biologique en conclusion normative.
+
+**Les relations écologiques contribuent à expliquer les conditions et les transformations d'une activité ; elles ne suffisent pas, à elles seules, à justifier les descriptions ou les décisions qui s'y rapportent.**
 
 ## Pour poursuivre
 
 - [Butoir](fr/butoir.md) — Examiner les résistances qui limitent une pratique ou une opération dans une configuration donnée.
-- [Fonction de stimulus](fr/fonction-de-stimulus.md) — Distinguer les propriétés physiques d’un événement du rôle qu’il exerce dans une activité comportementale.
-- [Ruth Millikan](fr/ruth-millikan.md) — Examiner les fonctions propres et l’explication historique du contenu représentatif.
+- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Préciser les rapports sous lesquels une situation peut être examinée.
+- [Fonction de stimulus](fr/fonction-de-stimulus.md) — Distinguer les propriétés physiques d'un événement du rôle qu'il exerce dans une activité comportementale.
+- [Ruth Millikan](fr/ruth-millikan.md) — Examiner les fonctions propres et les propositions de la téléosémantique concernant le contenu représentatif.
 - [Joseph Rouse](fr/joseph-rouse.md) — Examiner les pratiques scientifiques, leurs conditions matérielles et leur normativité.
-- [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md) — Examiner les relations entre plusieurs pratiques descriptives sans les réduire à un modèle biologique.
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations Condition, Relation, Fonction et Justification.
+- [Francisco Varela](fr/francisco-varela.md) — Examiner les apports de l'énaction et du couplage organisme-milieu à l'étude de l'activité biologique.
+- [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md) — Examiner les relations entre plusieurs pratiques descriptives.
 - [Table des matières](fr/tdm.md) — Situer cette page dans le corpus de Protokin.
