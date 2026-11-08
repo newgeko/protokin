@@ -1,178 +1,264 @@
-# Robert Brandom — Pragmatique normative, inférence et objectivité
+# Robert Brandom — Pragmatique normative et inférentialisme
 
 ## Fonction
 
-Cette page présente l'apport de Robert Brandom à l'inférentialisme pragmatiste. Elle examine comment les pratiques discursives permettent de comprendre le contenu des affirmations, les engagements qu'elles entraînent, les relations inférentielles qui les structurent et les conditions de leur évaluation.
+Cette page présente la contribution de Robert Brandom à l'analyse des pratiques discursives. Elle examine la manière dont les contenus conceptuels, les engagements normatifs et les relations inférentielles prennent forme dans des pratiques sociales de langage.
 
-Le fil directeur de Brandom est une priorité explicative de la pragmatique sur la sémantique : comprendre les contenus conceptuels suppose d'examiner les pratiques dans lesquelles les participants affirment, infèrent, justifient et contestent des propositions.
+L'intérêt de Brandom pour Protokin tient principalement à une thèse méthodologique : **la sémantique doit répondre de la pragmatique**. Pour comprendre ce que signifient les expressions et les propositions, il faut examiner les pratiques dans lesquelles les locuteurs les emploient, les inférences qu'ils autorisent et les engagements qu'ils entraînent.
 
-Pour Protokin, cet apport permet d'analyser ce qu'une description engage, les conséquences qu'elle autorise et les conditions dans lesquelles elle peut être défendue ou révisée. Il ne constitue ni une théorie exhaustive des pratiques descriptives ni une garantie de leur adéquation à ce qu'elles prétendent décrire.
+Cette approche permet d'étudier la constitution normative des descriptions sans faire de leur cohérence une garantie de vérité ou d'adéquation à ce qu'elles prétendent décrire.
 
-## 1. La priorité explicative de la pragmatique
+## 1. La priorité de la pragmatique
 
-Dans *Making It Explicit* (1994), Brandom développe une approche dans laquelle le contenu conceptuel est expliqué à partir des pratiques discursives qui le rendent intelligible.
+Brandom refuse de traiter la signification comme une propriété intrinsèque des expressions, indépendante de leurs usages. Le contenu conceptuel se comprend à partir des pratiques dans lesquelles les locuteurs emploient des expressions, produisent des assertions, tirent des conséquences et répondent de ce qu'ils avancent.
 
-Comprendre une affirmation ne consiste pas seulement à associer une expression à un objet ou à une propriété. Cela suppose notamment de maîtriser les conséquences de son emploi, les affirmations susceptibles de la soutenir et celles avec lesquelles elle est incompatible.
+La pragmatique ne désigne donc pas seulement les circonstances particulières dans lesquelles un énoncé est prononcé. Elle concerne les pratiques réglées qui rendent possibles les actes discursifs et permettent d'en déterminer la portée.
 
-La pragmatique porte sur les activités des participants : affirmer, demander des raisons, tirer une conclusion, contester une proposition ou reconnaître une incompatibilité.
+La sémantique doit rendre compte de ces pratiques. Elle ne peut pas être construite indépendamment des activités discursives dont elle cherche à expliciter les contenus.
 
-La sémantique explicite les contenus et les relations conceptuelles qui rendent ces activités intelligibles. Sa fonction est de rendre compte de ce que les participants font lorsqu'ils emploient des expressions et prennent position.
-
-Cette priorité de la pragmatique est une priorité d'explication. Elle ne signifie pas que le contenu d'une affirmation se réduise à l'intention de celui qui la formule, à la fréquence d'un usage ou à l'accord d'une communauté.
-
-Les pratiques discursives comportent des normes qui permettent de distinguer les usages recevables des usages contestables. Leur analyse doit donc examiner non seulement ce que les participants font, mais aussi les engagements et les conséquences auxquels leurs prises de position les exposent.
+Cette priorité de la pragmatique ne signifie cependant pas que la signification se réduise à une intention individuelle ou à une régularité comportementale. Les pratiques discursives sont normatives : elles comportent des distinctions entre ce qu'un locuteur est engagé à soutenir, ce qu'il est autorisé à affirmer et ce qu'il peut être tenu de justifier.
 
 ## 2. La pragmatique normative : engagements et habilitations
 
-Une pratique discursive ne consiste pas seulement en une succession d'énoncés. Les participants y prennent des positions dont ils peuvent être tenus de répondre.
+Brandom analyse les pratiques discursives à partir de deux statuts déontiques fondamentaux :
 
-Lorsqu'un locuteur affirme une proposition, il contracte un **engagement**. Il devient comptable de ce qu'il affirme et, selon les relations inférentielles pertinentes, de certaines conséquences de son affirmation.
+- **L'engagement** (*commitment*) : ce qu'un locuteur assume en avançant une assertion ou en prenant position.
+- **L'habilitation** (*entitlement*) : ce qu'un locuteur est autorisé à soutenir compte tenu des raisons et des justifications disponibles.
 
-L'**habilitation** désigne ce qui autorise un participant à soutenir une affirmation ou à tirer une conclusion dans une pratique déterminée.
+Ces statuts ne sont pas des états psychologiques. Ils désignent des positions normatives attribuées et reconnues dans les pratiques sociales.
 
-Ces deux statuts ne coïncident pas. Un locuteur peut être engagé par une affirmation sans disposer de raisons suffisantes pour la défendre. Inversement, il peut disposer d'éléments qui l'autorisent à soutenir une conclusion sans l'avoir encore affirmée.
+Un locuteur peut être engagé à soutenir une proposition sans être habilité à le faire. Inversement, il peut être habilité à soutenir une proposition sans avoir encore pris explicitement cet engagement.
 
-Brandom analyse ces statuts à partir du **scorekeeping déontique**. Les participants suivent, reconnaissent et attribuent mutuellement des engagements et des habilitations. Ils peuvent diverger sur les conséquences d'une affirmation ou sur les raisons qui autorisent à la soutenir.
+Cette distinction permet de ne pas confondre :
 
-Cette divergence est importante : elle rend possible la contestation et l'examen public des prises de position. Le locuteur ne dispose pas d'un contrôle exclusif sur toutes les conséquences de ce qu'il affirme ; les autres participants peuvent lui attribuer des engagements qu'il n'a pas explicitement reconnus.
+- le fait d'affirmer une proposition ;
+- le fait d'être engagé à en assumer les conséquences ;
+- le fait d'être autorisé à la soutenir ;
+- le fait qu'elle soit vraie.
 
-Cependant, les attributions des interlocuteurs ne sont pas infaillibles. Elles doivent elles aussi pouvoir être discutées et justifiées.
+Les pratiques discursives organisent ainsi des relations de responsabilité et de reconnaissance. Les locuteurs attribuent des engagements et des habilitations aux autres, tout en étant eux-mêmes soumis à ces attributions.
 
-Le scorekeeping ne garantit donc pas la correction des évaluations. Il permet de rendre visibles les statuts normatifs associés aux prises de position et les désaccords qui les concernent.
+Cette activité de suivi des statuts déontiques est désignée par Brandom comme le *scorekeeping*.
 
-Pour le développement de cette analyse, voir [Scorekeeping déontique — Suivre les engagements et les habilitations](fr/scorekeeping-deontique.md).
+Le scorekeeping permet de comprendre comment les participants suivent les conséquences normatives des interventions discursives. Il ne constitue pas un simple relevé des énoncés prononcés : il porte sur les engagements et les habilitations qui leur sont associés.
 
-## 3. Le contenu conceptuel comme rôle inférentiel
+Pour le développement de cette notion, voir [le scorekeeping déontique](fr/scorekeeping-deontique.md).
 
-Le contenu d'une affirmation dépend notamment des relations inférentielles dans lesquelles elle intervient.
+## 3. Le contenu conceptuel et les inférences matérielles
 
-Comprendre une proposition implique de reconnaître certaines conséquences qui peuvent en être tirées, les prémisses susceptibles de la soutenir et les affirmations incompatibles avec elle.
+Pour Brandom, comprendre un concept implique de maîtriser les conséquences inférentielles de son emploi.
 
-Ces relations ne se réduisent pas aux formes logiques. Elles peuvent dépendre du contenu des concepts employés et des pratiques dans lesquelles ils acquièrent leur fonction.
+Le contenu d'une proposition ne se réduit donc pas à sa forme linguistique ni à une relation de correspondance définie indépendamment des pratiques discursives. Il comprend les inférences qu'elle autorise, celles qui permettent de la soutenir et celles auxquelles son affirmation engage le locuteur.
 
-Par exemple, affirmer qu'un échantillon est en cuivre peut autoriser certaines conclusions concernant sa conductivité. La transition dépend toutefois de ce que signifie l'identification comme cuivre, de la composition de l'échantillon et des conditions auxquelles les propriétés attendues s'appliquent.
+Brandom accorde une place centrale aux **inférences matérielles**. Il s'agit d'inférences dont la validité dépend du contenu des propositions concernées et non de leur seule forme logique.
 
-Cette dimension du raisonnement est examinée sous le nom d'**inférence matérielle**. Elle permet de rendre explicites les relations entre contenus dont dépend la recevabilité d'une conclusion.
+Par exemple :
 
-Une inférence admise dans une pratique peut néanmoins être contestée. Elle peut reposer sur des prémisses insuffisamment établies, sur une généralisation fragile ou sur des conditions d'application qui ne sont pas réunies dans le cas examiné.
+- « Cette surface est métallique » autorise, dans des conditions ordinaires, certaines conséquences concernant sa conductivité.
+- « Le liquide a été chauffé » peut autoriser des inférences relatives à son état ou à sa température.
+- « Il s'agit d'un événement antérieur » implique une certaine relation temporelle avec d'autres événements.
 
-Il faut donc distinguer :
+Ces inférences ne sont pas toutes des vérités logiques. Elles reposent sur des contenus conceptuels et sur des pratiques dans lesquelles certaines transitions sont reconnues comme appropriées.
 
-- **Le contenu inférentiel** : les relations entre les affirmations, leurs conséquences et leurs incompatibilités.
-- **La recevabilité d'une transition** : les conditions dans lesquelles une affirmation autorise effectivement une conclusion.
-- **La justification** : les raisons permettant de défendre les prémisses et la conclusion.
-- **L'adéquation descriptive** : les conditions dans lesquelles les éléments disponibles permettent de soutenir ce que la description prétend dire de la situation.
+Les inférences matérielles contribuent ainsi à déterminer ce que les locuteurs disent et ce à quoi ils s'engagent en le disant.
 
-Ces dimensions sont liées, mais elles ne sont pas interchangeables.
+Il faut toutefois distinguer la relation inférentielle de la relation causale. Une inférence peut être matériellement correcte sans décrire une relation de causalité. Inversement, une relation causale ne constitue pas à elle seule une justification inférentielle.
 
-Une conclusion peut découler de prémisses sans que celles-ci soient suffisamment justifiées. Une inférence peut être recevable sans que la description initiale soit adéquate à la situation concernée.
+Pour approfondir cette question, voir [l'inférence matérielle](fr/inference-materielle.md).
 
-Pour approfondir cette distinction, voir [Inférence matérielle — Conséquences liées au contenu](fr/inference-materielle.md).
+## 4. L'assertion et la responsabilité discursive
 
-## 4. L'explicitation des normes et le vocabulaire logique
+L'assertion constitue un acte discursif central parce qu'elle engage celui qui l'accomplit.
 
-Brandom accorde une place importante aux vocabulaires logiques et sémantiques.
+Affirmer une proposition ne consiste pas seulement à produire un énoncé. C'est prendre position dans un espace de raisons, rendre cette position accessible à l'évaluation et accepter certaines conséquences normatives.
 
-Des expressions telles que « implique », « est incompatible avec », « est vrai » ou « parce que » permettent de rendre explicites des relations qui peuvent déjà être maîtrisées dans les pratiques discursives sans être formulées comme telles.
+L'assertion peut ainsi être examinée à partir de plusieurs questions :
 
-Cette explicitation donne aux participants des ressources pour examiner leurs engagements, discuter les conséquences de leurs affirmations et contester les transitions qu'ils considèrent comme recevables.
+- À quoi le locuteur s'engage-t-il en affirmant cette proposition ?
+- Quelles conséquences inférentielles assume-t-il ?
+- Quelles raisons peuvent soutenir son affirmation ?
+- Quelles objections peuvent lui être opposées ?
+- Dans quelles conditions peut-il maintenir ou réviser sa position ?
 
-Elle ne constitue pas une simple transcription d'un savoir-faire en règles explicites. L'introduction d'un vocabulaire peut modifier les possibilités de la pratique : certaines relations deviennent formulables, certaines distinctions peuvent être précisées et certaines contestations peuvent être développées.
+Cette analyse permet de comprendre pourquoi une assertion ne se réduit ni à l'expression d'une croyance individuelle ni à la description d'un état de choses.
 
-Le vocabulaire logique contribue ainsi à rendre les normes discursives plus accessibles à l'examen.
+Elle constitue une intervention dans une pratique normative où les participants peuvent demander des raisons, contester des inférences et réviser leurs engagements.
 
-Pour Protokin, cette proposition présente un intérêt méthodologique : expliciter une relation inférentielle peut aider à identifier une prémisse implicite, une incompatibilité ou une conséquence jusque-là peu visible.
+## 5. L'explicitation et le vocabulaire logique
 
-Mais l'explicitation ne garantit pas la correction de ce qui est explicité. Nommer une relation, la formaliser ou la reconnaître collectivement ne suffit pas à établir qu'elle est correctement appliquée dans une situation déterminée.
+Brandom accorde une fonction particulière aux expressions logiques. Celles-ci permettent de rendre explicites des relations inférentielles et des engagements qui peuvent déjà être à l'œuvre dans les pratiques discursives.
 
-## 5. Référence et objectivité
+Le vocabulaire logique ne crée donc pas nécessairement les relations qu'il permet de formuler. Il contribue à les rendre explicites et à les mettre à disposition d'un examen discursif.
 
-L'analyse de Brandom ne réduit pas les pratiques discursives à des échanges dans lesquels les participants ne feraient que reconnaître leurs propres engagements.
+Cette conception s'inscrit dans une approche plus générale des relations entre pratique et explicitation.
 
-Les participants peuvent évaluer une affirmation à partir de perspectives différentes. Ils peuvent notamment distinguer ce qu'un locuteur affirme sous sa propre description d'un objet et ce qu'un autre participant lui attribue à propos d'un objet qu'il identifie depuis sa propre perspective.
+Un vocabulaire peut permettre de formuler explicitement une relation jusque-là mobilisée de manière implicite. Cette explicitation modifie les possibilités de discussion, d'inférence et de justification.
 
-La distinction entre ascriptions *de dicto* et *de re* contribue à analyser cette différence.
+Il ne faut cependant pas confondre :
 
-Une ascription *de dicto* rapporte une prise de position sous la description que le locuteur accepte ou emploie. Une ascription *de re* attribue une croyance ou un engagement au sujet d'un objet identifié depuis la perspective de celui qui effectue l'attribution.
+- l'existence d'une pratique inférentielle ;
+- sa formulation explicite ;
+- la justification de cette pratique ;
+- la validité des inférences qu'elle mobilise.
 
-Le passage entre ces deux formes d'attribution peut modifier le contenu attribué. Il doit donc être examiné au regard de la manière dont l'objet est identifié, des descriptions mobilisées et des relations entre les perspectives des participants.
+L'explicitation rend certaines relations examinables, mais elle ne garantit pas leur validité.
 
-Cette analyse contribue à comprendre comment une pratique discursive peut porter sur des objets sans réduire leur identification à la seule description qu'un locuteur accepte d'en donner.
+Pour une analyse plus générale de cette articulation, voir [les relations LX et la pragmatique de l'explicitation](fr/relations-lx-et-pragmatique-de-l-explicitation.md).
 
-Elle permet également de distinguer ce qu'un participant tient pour vrai de ce que d'autres peuvent reconnaître ou contester à propos de l'objet concerné.
+## 6. Référence, perspective et objectivité
 
-Mais cette structure perspectivale ne garantit pas l'objectivité de chaque attribution. Un interlocuteur peut mal identifier un objet, attribuer incorrectement une croyance ou mobiliser une description inadéquate.
+L'inférentialisme de Brandom ne conduit pas à réduire le discours à un jeu autonome de relations entre propositions.
 
-L'objectivité ne se réduit donc ni à l'accord entre participants ni à la seule possibilité de changer de perspective. Elle suppose que les affirmations, les attributions et les descriptions puissent être examinées au regard de ce qu'elles prétendent établir.
+Les pratiques discursives comportent également des relations à ce dont les locuteurs parlent. Les expressions référentielles et les perspectives adoptées dans le discours permettent de rendre compte de cette dimension.
 
-Pour Protokin, cette distinction est importante : les conditions discursives de l'identification et de l'attribution font partie de l'enquête, mais elles ne remplacent pas l'examen de l'adéquation descriptive.
+Brandom distingue notamment les manières de parler d'un objet et les manières de parler de ce que les locuteurs disent de cet objet. Les perspectives *de dicto* et *de re* contribuent à expliciter ces différences.
 
-Pour approfondir les rapports entre usage, contenu et référence, voir [Relation sémantique et référence](fr/relation-semantique-et-reference.md).
+Cette distinction participe à son analyse de l'objectivité. Les locuteurs peuvent attribuer des engagements à d'autres participants tout en distinguant leurs propres positions de celles qu'ils attribuent à autrui.
 
-## 6. Apports pour Protokin
+L'objectivité ne se réduit donc pas à l'accord entre les participants. Les pratiques discursives permettent de distinguer les perspectives, de confronter les engagements et d'examiner les prétentions formulées à propos des objets.
 
-La contribution de Brandom permet de préciser plusieurs dimensions des pratiques descriptives.
+Il ne s'ensuit pas que la cohérence des relations inférentielles suffise à établir la vérité d'une proposition. La possibilité de rendre compte des engagements discursifs ne garantit pas, à elle seule, l'adéquation de la description à ce qu'elle prétend décrire.
 
-**Examiner les engagements.** Une description ne se réduit pas à son énoncé. Elle engage celui qui la soutient à répondre de son contenu et de certaines conséquences qui en découlent.
+Pour approfondir ces questions, voir [la relation entre sémantique et référence](fr/relation-semantique-et-reference.md).
 
-**Expliciter les conséquences inférentielles.** Une affirmation peut autoriser des conclusions qui n'ont pas été formulées explicitement. Leur reconstruction demande d'examiner les relations entre les contenus et les conditions d'application des concepts.
+## 7. Entre pragmatisme et rationalisme
 
-**Distinguer engagement et habilitation.** Le fait qu'une personne soutienne une description ne signifie pas qu'elle dispose des raisons nécessaires pour la défendre.
+Le projet de Brandom s'inscrit dans une tradition pragmatiste, mais il accorde une place déterminante à la normativité et à l'explicitation rationnelle.
 
-**Rendre les normes discutables.** L'explicitation des relations inférentielles et des incompatibilités permet de soumettre les prises de position à un examen plus précis.
+Il reprend notamment l'idée que les capacités conceptuelles doivent être comprises à partir des pratiques dans lesquelles elles s'exercent. Mais il cherche également à rendre compte de la structure normative de ces pratiques et des raisons qui permettent de distinguer les inférences correctes des inférences incorrectes.
 
-**Examiner les perspectives d'attribution.** Les participants peuvent diverger sur ce qu'un locuteur a affirmé, sur les engagements qui lui sont associés et sur l'objet auquel sa description se rapporte.
+Cette orientation le conduit à articuler deux dimensions :
 
-Ces apports concernent principalement la dimension discursive et normative des pratiques descriptives. Ils ne suffisent pas à rendre compte de toutes leurs conditions matérielles, corporelles, historiques ou institutionnelles.
+- une dimension pragmatique, qui examine les pratiques discursives dans lesquelles les contenus prennent forme ;
+- une dimension normative, qui examine les engagements, les habilitations et les relations inférentielles constitutives de ces pratiques.
 
-## 7. Portée et limites de la reprise
+Le rationalisme de Brandom ne consiste donc pas à réintroduire des principes indépendants des pratiques. Il cherche à comprendre comment les pratiques discursives comportent déjà des exigences de justification et de responsabilité.
 
-Protokin retient de Brandom des ressources pour analyser la structure normative des pratiques discursives, les conséquences des affirmations et les conditions dans lesquelles des prises de position peuvent être contestées.
+Cette articulation distingue son projet de certaines formes de pragmatisme qui insistent davantage sur la contingence des vocabulaires et sur leur transformation historique.
 
-Cette reprise ne signifie pas que l'ensemble de la démarche de Protokin puisse être reconstruit à partir de l'inférentialisme brandomien.
+## 8. Normativité historique : récollection et pardon
 
-Plusieurs non-conversions doivent être maintenues :
+Dans *A Spirit of Trust* (2019), Brandom développe une conception historique de la normativité à partir de la philosophie de Hegel.
 
-- **Engagement ≠ habilitation :** être comptable d'une affirmation ne signifie pas être autorisé à la soutenir.
-- **Cause ≠ raison :** expliquer la production d'une affirmation ne suffit pas à la justifier.
-- **Conséquence inférentielle ≠ conséquence causale :** ce qu'une affirmation autorise à conclure ne se confond pas avec les effets matériels qu'elle produit.
-- **Recevabilité inférentielle ≠ justification :** une transition recevable ne garantit pas que ses prémisses soient suffisamment défendues.
-- **Reconnaissance collective ≠ validité :** l'acceptation d'une affirmation ne suffit pas à établir sa correction.
-- **Cohérence inférentielle ≠ adéquation descriptive :** la compatibilité d'une description avec d'autres engagements ne garantit pas qu'elle décrive correctement ce qu'elle prétend décrire.
+La normativité n'est pas seulement examinée dans les interactions discursives présentes. Elle est également envisagée à partir des transformations historiques des pratiques de reconnaissance et d'interprétation.
 
-L'inférentialisme permet d'examiner les relations normatives entre les contenus et les prises de position. Il ne fournit pas, à lui seul, les critères permettant d'évaluer toutes les descriptions ni les moyens de confronter leurs prétentions aux situations concernées.
+La récollection (*Erinnerung*) désigne une activité par laquelle les participants reconstruisent rétrospectivement la signification de leurs engagements et de leurs actions. Cette reconstruction peut modifier la manière dont des pratiques passées sont comprises et évaluées.
 
-Il ne faut donc pas convertir la priorité explicative de la pragmatique en thèse selon laquelle les pratiques discursives constitueraient intégralement leurs objets. L'analyse des engagements et des inférences doit rester articulée à l'examen des conditions matérielles, des contraintes rencontrées et des éléments qui peuvent conduire à réviser une description.
+Le pardon joue un rôle dans cette transformation. Il ne consiste pas à déclarer qu'une action passée était correcte, ni à effacer les conséquences d'un engagement. Il participe à une reconstruction des relations normatives entre les participants.
 
-Brandom constitue ainsi une ressource importante pour l'analyse des pratiques discursives, mais non un fondement exclusif de Protokin.
+Cette approche permet de distinguer plusieurs opérations :
+
+- l'action accomplie dans une situation donnée ;
+- les engagements qui lui étaient associés ;
+- les conséquences qui lui ont été attribuées ;
+- la reconstruction rétrospective de sa signification ;
+- la transformation des relations de reconnaissance.
+
+La récollection ne doit pas être comprise comme une progression historique nécessaire vers une rationalité toujours plus accomplie. Les reconstructions demeurent situées, révisables et exposées à la contestation.
+
+Cette question rejoint l'examen des relations entre reconstruction, reconnaissance et pardon, développé dans [la reconstruction récollective et le pardon](fr/reconstruction-recollective-et-pardon.md).
+
+## 9. Brandom et Rorty
+
+Brandom et Richard Rorty partagent une critique des conceptions fondationnalistes de la connaissance et accordent une place importante aux pratiques linguistiques.
+
+Tous deux refusent de considérer que le langage serait un simple instrument chargé de représenter une réalité déjà découpée indépendamment de toute pratique humaine.
+
+Leurs orientations divergent toutefois sur le statut de la normativité.
+
+Rorty insiste sur la contingence des vocabulaires et sur les transformations historiques des manières de décrire le monde. Il se montre réticent à reconstruire une théorie générale de la rationalité à partir de normes qui seraient communes à toutes les pratiques discursives.
+
+Brandom, au contraire, cherche à expliciter la structure normative des pratiques linguistiques. Il analyse les engagements, les habilitations et les relations inférentielles qui rendent possibles les évaluations rationnelles.
+
+La différence ne se réduit donc pas à une opposition entre pragmatisme et rationalisme. Elle porte notamment sur la possibilité de reconstruire les normes de la pratique discursive et sur la fonction théorique attribuée à cette reconstruction.
+
+Pour approfondir cette comparaison, voir [Richard Rorty](fr/richard-rorty.md).
+
+## 10. Apports et limites pour Protokin
+
+L'intérêt de Brandom pour Protokin tient à plusieurs apports.
+
+### 10.1. Examiner les engagements descriptifs
+
+Une description ne consiste pas seulement à associer des termes à des objets. Elle engage celui qui la produit dans un ensemble de conséquences, de relations inférentielles et de possibilités de justification.
+
+Cette approche permet d'examiner ce qu'une description autorise, ce qu'elle exclut et ce qu'elle oblige à prendre en considération.
+
+### 10.2. Distinguer cohérence et justification
+
+Une description peut être cohérente avec un ensemble d'autres propositions sans être pour autant suffisamment justifiée.
+
+La cohérence inférentielle constitue une dimension de l'examen, mais elle ne suffit pas à établir l'adéquation de la description à ce qu'elle prétend décrire.
+
+Cette distinction est importante pour Protokin, qui examine les conditions de construction et de justification des descriptions sans réduire leur validité à leur seule organisation discursive.
+
+### 10.3. Examiner la dimension sociale de la normativité
+
+Les engagements et les habilitations ne sont pas uniquement individuels. Ils sont attribués, reconnus, contestés et révisés dans des pratiques sociales.
+
+Cette dimension permet d'examiner comment certaines descriptions deviennent recevables, comment elles acquièrent une autorité et comment cette autorité peut être remise en question.
+
+Il reste nécessaire de distinguer la reconnaissance sociale d'une description de sa justification et de son adéquation.
+
+### 10.4. Étudier les transformations historiques des descriptions
+
+L'analyse de la récollection montre que les pratiques discursives peuvent transformer rétrospectivement la signification des engagements passés.
+
+Elle permet ainsi d'examiner les relations entre les descriptions présentes, les interprétations antérieures et les révisions de leurs conséquences normatives.
+
+### 10.5. Ne pas réduire Protokin à l'inférentialisme
+
+Protokin peut mobiliser les ressources de Brandom pour examiner les engagements et les relations inférentielles associés aux pratiques descriptives.
+
+Il ne reprend pas pour autant l'ensemble de son architecture théorique.
+
+L'enquête de Protokin ne se limite pas à reconstruire les normes discursives. Elle porte également sur les conditions matérielles, historiques, institutionnelles et pratiques dans lesquelles les descriptions sont produites, stabilisées, confrontées et révisées.
+
+Une relation inférentielle peut être correctement reconstruite sans que les conditions de production de la description soient suffisamment examinées. De même, une justification discursive ne suffit pas à établir l'adéquation de ce qui est décrit.
+
+Brandom fournit donc des ressources pour examiner la normativité des pratiques descriptives, mais ne constitue pas à lui seul un cadre général pour l'ensemble de l'enquête.
+
+## 11. Portée et limites de cette contribution
+
+L'inférentialisme de Brandom permet de comprendre comment les contenus conceptuels sont constitués dans des pratiques discursives normatives. Il rend particulièrement visibles les relations entre assertion, engagement, habilitation, inférence et justification.
+
+Plusieurs limites doivent néanmoins être maintenues dans son utilisation par Protokin.
+
+Premièrement, l'analyse des statuts déontiques ne suffit pas à décrire toutes les conditions matérielles et institutionnelles d'une pratique. Les pratiques discursives ne se déroulent pas indépendamment des dispositifs, des situations et des contraintes dans lesquels elles prennent place.
+
+Deuxièmement, la reconstruction des relations inférentielles ne garantit pas la vérité des propositions ni leur adéquation à ce qu'elles prétendent décrire.
+
+Troisièmement, la reconnaissance sociale d'un engagement ne constitue pas une preuve de sa validité. Une communauté peut stabiliser des usages, des catégories et des inférences qui demeurent contestables.
+
+Enfin, la reconstruction rétrospective des engagements ne doit pas être assimilée à une justification automatique des pratiques passées.
+
+Ces limites ne disqualifient pas l'apport de Brandom. Elles permettent de préciser la fonction que ses analyses peuvent occuper dans Protokin : contribuer à l'examen de la normativité des pratiques descriptives sans en épuiser les conditions ni les critères d'évaluation.
 
 ## Synthèse
 
-L'inférentialisme de Brandom articule les pratiques discursives, les normes qui règlent les prises de position et les relations inférentielles qui structurent leur contenu.
+Brandom propose une analyse des contenus conceptuels à partir des pratiques discursives dans lesquelles les locuteurs prennent des engagements, revendiquent des habilitations et mobilisent des relations inférentielles.
 
-La priorité explicative de la pragmatique permet de comprendre comment les affirmations acquièrent une portée dans des pratiques où les participants prennent des engagements, demandent des raisons, tirent des conclusions et contestent des propositions.
+Sa contribution permet à Protokin d'examiner la dimension normative des descriptions : ce qu'elles engagent, les conséquences qu'elles autorisent, les raisons qui les soutiennent et les conditions dans lesquelles elles peuvent être contestées ou révisées.
 
-L'explicitation logique rend certaines de ces relations plus accessibles à l'examen. L'analyse des perspectives d'attribution contribue à comprendre comment les pratiques discursives peuvent porter sur des objets sans réduire l'objectivité à l'accord immédiat des participants.
+Elle impose également une distinction importante : la cohérence d'un ensemble d'inférences, la reconnaissance sociale d'un engagement et la justification d'une proposition ne sont pas des garanties équivalentes.
 
-Pour Protokin, cet apport permet d'examiner ce qu'une description engage, ce qu'elle autorise à conclure et les conditions dans lesquelles elle peut être défendue ou révisée.
+L'apport de Brandom porte ainsi sur l'analyse des pratiques discursives et de leur normativité. Il ne dispense pas d'examiner les conditions matérielles, historiques et institutionnelles dans lesquelles les descriptions prennent forme, ni de mettre à l'épreuve leur prétention à décrire ce qu'elles visent.
 
-Il ne dispense pas d'examiner les prémisses, les critères, les contraintes matérielles et l'adéquation de la description à ce qu'elle prétend décrire.
-
-## Références
+## Références principales
 
 - Brandom, Robert B., *Making It Explicit: Reasoning, Representing, and Discursive Commitment*, Harvard University Press, 1994.
 - Brandom, Robert B., *Articulating Reasons: An Introduction to Inferentialism*, Harvard University Press, 2000.
 - Brandom, Robert B., *Between Saying and Doing: Towards an Analytic Pragmatism*, Oxford University Press, 2008.
-- Sellars, Wilfrid, *Empiricism and the Philosophy of Mind*, 1956.
+- Brandom, Robert B., *Reason in Philosophy: Animating Ideas*, Harvard University Press, 2009.
+- Brandom, Robert B., *A Spirit of Trust: A Reading of Hegel's Phenomenology*, Harvard University Press, 2019.
+- Brandom, Robert B., *Pragmatism and Idealism: Rorty and Hegel on Reason and Representation*, Oxford University Press, 2022.
 
 ## Pour poursuivre
 
-- [Wilfrid Sellars — Le donné, l'explication et les raisons](fr/wilfrid-sellars.md)
-- [Joseph Rouse — Pratiques scientifiques, matérialité et normativité](fr/joseph-rouse.md)
-- [Scorekeeping déontique — Suivre les engagements et les habilitations](fr/scorekeeping-deontique.md)
-- [Inférence matérielle — Conséquences liées au contenu](fr/inference-materielle.md)
-- [Espace des raisons](fr/espace-des-raisons.md)
-- [Justification — Défendre et réviser un engagement](fr/justification.md)
+- [Scorekeeping déontique](fr/scorekeeping-deontique.md)
+- [Inférence matérielle](fr/inference-materielle.md)
+- [Relations LX et pragmatique de l'explicitation](fr/relations-lx-et-pragmatique-de-l-explicitation.md)
 - [Relation sémantique et référence](fr/relation-semantique-et-reference.md)
-- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
-- [Table des matières](fr/tdm.md)
+- [Reconstruction récollective et pardon](fr/reconstruction-recollective-et-pardon.md)
+- [Richard Rorty](fr/richard-rorty.md)
+- [Wilfrid Sellars](fr/wilfrid-sellars.md)
