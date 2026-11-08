@@ -1,7 +1,5 @@
 # Pattern — Traduction HTML des pages Markdown
 
-Version : 26.11.05
-
 ## 1. Fonction et portée
 
 Ce pattern définit les règles de production des versions HTML des pages Markdown du corpus Protokin.
