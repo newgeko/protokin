@@ -181,10 +181,10 @@ Protokin doit pouvoir conduire des examens dont les résultats ne sont pas enti�
 
 ## Pour poursuivre
 
-- [Introduction générale](https://introduction-generale.md?utm_source=chatgpt.com) — Présenter le problème descriptif et les engagements méthodologiques de Protokin.
-- [Ce que Protokin permet](https://ce-que-protokin-permet.md?utm_source=chatgpt.com) — Examiner les possibilités concrètes ouvertes par la démarche.
-- [Ce que Protokin ne prétend pas faire](https://ce-que-protokin-ne-pretend-pas-faire.md?utm_source=chatgpt.com) — Préciser les limites de la portée de Protokin.
-- [Enquête](https://enquete.md?utm_source=chatgpt.com) — Définir l'enquête comme examen situé et révisable des pratiques descriptives.
-- [Enquête et organisation des notions](https://enquete-et-organisation-des-notions.md?utm_source=chatgpt.com) — Examiner comment les notions mobilisées peuvent devenir des objets d'enquête.
-- [Architecture fonctionnelle de l'enquête](https://architecture-fonctionnelle-de-l-enquete.md?utm_source=chatgpt.com) — Situer les opérations, les orientations, les fonctions transversales et les instruments d'épreuve.
-- [Orientation de l'examen](https://orientation-de-l-examen.md?utm_source=chatgpt.com) — Définir les rapports sous lesquels une situation ou une pratique peut être examinée.
+- [Introduction générale](introduction-generale.md) — Présenter le problème descriptif et les engagements méthodologiques de Protokin.
+- [Ce que Protokin permet](ce-que-protokin-permet.md) — Examiner les possibilités concrètes ouvertes par la démarche.
+- [Ce que Protokin ne prétend pas faire](ce-que-protokin-ne-pretend-pas-faire.md) — Préciser les limites de la portée de Protokin.
+- [Enquête](enquete.md) — Définir l'enquête comme examen situé et révisable des pratiques descriptives.
+- [Enquête et organisation des notions](enquete-et-organisation-des-notions.md) — Examiner comment les notions mobilisées peuvent devenir des objets d'enquête.
+- [Architecture fonctionnelle de l'enquête](architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations, les orientations, les fonctions transversales et les instruments d'épreuve.
+- [Orientation de l'examen](orientation-de-l-examen.md) — Définir les rapports sous lesquels une situation ou une pratique peut être examinée.
