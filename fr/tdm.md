@@ -258,7 +258,7 @@ Ces pages présentent des ressources conceptuelles utiles à l’examen des prat
 - [Joseph Rouse](fr/joseph-rouse.md) — Examiner les pratiques scientifiques comme activités matérielles, sociales et normativement organisées, ainsi que leurs interventions et leurs effets politiques.
 - [Ruth Millikan](fr/ruth-millikan.md) — Examiner les fonctions propres et les propositions de la téléosémantique concernant le contenu représentatif.
 - [Richard Rorty](fr/richard-rorty.md) — Examiner la contingence des vocabulaires et la critique de la recherche de fondements ultimes.
-- [Saul Kripke](fr/saul-kripke.md) — Examiner la référence des noms propres, la transmission historique et le problème du suivi des règles.
+- [Saul Kripke](fr/saul-kripke.md) — Examiner la référence des noms propres, la désignation rigide, les rapports entre connaissance et modalité, les termes d’espèce naturelle et le problème du suivi des règles.
 - [Miranda Fricker](fr/miranda-fricker.md) — Situer sa théorie de l’injustice épistémique, ses analyses du pouvoir identitaire et ses deux formes principales.
 - [Ian Hacking](fr/ian-hacking.md) — Examiner l’historicité des catégories, les effets de boucle des classifications humaines et les styles de raisonnement.
 - [Maurice Merleau-Ponty](fr/maurice-merleau-ponty.md) — Examiner les apports de la phénoménologie corporelle à la compréhension de la perception et du savoir pratique.
