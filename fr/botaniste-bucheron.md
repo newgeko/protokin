@@ -132,7 +132,6 @@ La fonction du cas est plus limitée : montrer comment comparer plusieurs descri
 ## 9. Articulation avec les autres pages
 
 - [Introduction générale](fr/introduction-generale.md) — Situer le problème général des difficultés rencontrées par les pratiques descriptives.
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations Condition, Relation, Fonction et Justification sans les traiter comme des composantes du réel.
 - [Description](fr/description.md) — Distinguer la pratique de description, son contenu et la situation décrite.
 - [Régime descriptif](fr/regime-descriptif.md) — Examiner les règles, les distinctions, les opérations et les critères qui organisent une pratique descriptive.
 - [Image manifeste](fr/image-manifeste.md) — Examiner le statut et les usages de l’image manifeste.
