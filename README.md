@@ -61,6 +61,8 @@ Quatre orientations servent actuellement de repères :
 
 Ces ressources ne constituent ni une procédure obligatoire ni une classification exhaustive. Leur mobilisation dépend du problème rencontré et des besoins de l'enquête.
 
+Protokin propose des ressources révisables pour construire et conduire des enquêtes situées, sans imposer une grille préalable ni un parcours obligatoire.
+
 ## Un projet révisable
 
 Protokin ne garantit pas automatiquement la validité des résultats qu'il contribue à examiner.
