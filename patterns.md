@@ -156,7 +156,7 @@ Présenter le projet, expliciter son problème de départ ou rendre intelligible
 - Le `README.md` présente le projet et oriente le lecteur vers ses ressources.
 - `fr/introduction-generale.md` expose le problème de départ, l’orientation et la portée de la démarche.
 - `fr/architecture-projet.md` explique l’organisation documentaire et les relations entre les ressources.
-- `fr/architecture-fonctionnelle-de-l-enquete.md` présente les catégories, les opérations, les orientations, les fonctions transversales et les instruments d’épreuve qui organisent l’enquête.
+- `fr/architecture-fonctionnelle-de-l-enquete.md` présente les ressources actuellement disponibles pour examiner les pratiques descriptives. Elle ne détermine pas à l'avance l'organisation de chaque enquête.
 - `fr/orientation-de-l-examen.md` définit la notion d’orientation et présente les orientations actuellement disponibles — Condition, Relation, Fonction et Justification — comme des repères de questionnement révisables.
 - `fr/nom-origine-portee.md` examine, si nécessaire, l’origine et la portée du nom Protokin.
 
