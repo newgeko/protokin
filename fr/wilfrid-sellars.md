@@ -1,11 +1,3 @@
-Voici la réécriture intégrale de `fr/wilfrid-sellars.md`.
-
-J'ai conservé les développements déjà présents dans le dépôt et intégré les apports du fichier fourni, notamment les expressions d'apparence, le picturing et le signifying, la fonction expressive du vocabulaire modal et le nominalisme psychologique.
-
-J'ai également corrigé quelques formulations trop catégoriques : en particulier, le signifying ne se réduit pas à la justification, l'image manifeste n'est pas assimilable à l'ensemble de la normativité et la critique du donné ne signifie pas que toute perception serait linguistique.
-
-Le texte respecte l'organisation actuelle de Protokin, ses distinctions et ses liens `fr/`.
-
 # Wilfrid Sellars — Le donné, l’explication, le picturing et les raisons
 
 ## Fonction
@@ -508,11 +500,11 @@ La continuité des dépendances n'abolit pas la distinction entre expliquer une 
 
 ## Pour poursuivre dans le corpus Protokin
 
-- [Image manifeste](https://fr/image-manifeste.md?utm_source=chatgpt.com) — Examiner les catégories et les pratiques descriptives ordinaires.
-- [Image scientifique](https://fr/image-scientifique.md?utm_source=chatgpt.com) — Examiner les descriptions scientifiques, leurs modèles et leurs moyens de mise à l'épreuve.
-- [Espace des raisons](https://fr/espace-des-raisons.md?utm_source=chatgpt.com) — Distinguer les relations causales et les relations justificatoires.
-- [Inférence matérielle](https://fr/inference-materielle.md?utm_source=chatgpt.com) — Examiner les conséquences liées au contenu conceptuel.
-- [Robert Brandom](https://fr/robert-brandom.md?utm_source=chatgpt.com) — Examiner la pragmatique normative et les pratiques inférentielles.
-- [Ruth Millikan](https://fr/ruth-millikan.md?utm_source=chatgpt.com) — Examiner les fonctions propres et la téléosémantique.
-- [Orientation de l'examen](https://fr/orientation-de-l-examen.md?utm_source=chatgpt.com) — Situer les difficultés descriptives selon différents rapports.
-- [Table des matières](https://fr/tdm.md?utm_source=chatgpt.com) — Replacer cette page dans l'organisation du corpus.
+- [Image manifeste](fr/image-manifeste.md) — Examiner les catégories et les pratiques descriptives ordinaires.
+- [Image scientifique](fr/image-scientifique.md) — Examiner les descriptions scientifiques, leurs modèles et leurs moyens de mise à l'épreuve.
+- [Espace des raisons](fr/espace-des-raisons.md) — Distinguer les relations causales et les relations justificatoires.
+- [Inférence matérielle](fr/inference-materielle.md) — Examiner les conséquences liées au contenu conceptuel.
+- [Robert Brandom](fr/robert-brandom.md) — Examiner la pragmatique normative et les pratiques inférentielles.
+- [Ruth Millikan](fr/ruth-millikan.md) — Examiner les fonctions propres et la téléosémantique.
+- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Situer les difficultés descriptives selon différents rapports.
+- [Table des matières](fr/tdm.md) — Replacer cette page dans l'organisation du corpus.
