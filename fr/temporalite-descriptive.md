@@ -173,5 +173,4 @@ Pour poursuivre :
 - [Sédimentation](fr/sedimentation.md) — Examiner l’accumulation et la conservation des traces.
 - [Stabilisation](fr/stabilisation.md) — Examiner le maintien relatif d’une configuration.
 - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer la fonction transversale Temporaliser dans la conduite de l’enquête.
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations d’examen sans les convertir les unes dans les autres.
 - [Table des matières](fr/tdm.md) — Replacer cette page dans l’organisation du corpus.
