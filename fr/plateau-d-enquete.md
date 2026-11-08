@@ -156,7 +156,21 @@ Il peut également être scindé, rapproché d’une autre représentation ou ab
 
 La représentation doit rester suffisamment explicite pour que ses choix puissent être discutés : ce qui y figure, ce qui en est absent, les relations qu’elle rend visibles et les incertitudes qu’elle conserve.
 
-## 7. Portée et limites
+## 7. Construire un plateau à partir d'une enquête
+
+Le plateau n'est pas une grille préétablie dans laquelle les éléments d'une enquête devraient être distribués.
+
+Il est construit à partir d'une difficulté déterminée et des ressources nécessaires à son examen. Sa forme dépend du problème, des pratiques concernées et des relations qu'il devient utile de rendre visibles.
+
+Les opérations peuvent être représentées comme des points de travail ou des cases. Leur disposition indique les relations retenues pour l'enquête considérée, non une organisation universelle des opérations.
+
+Le chemin peut comporter plusieurs directions, des retours, des bifurcations et des reprises. Une opération peut être mobilisée plusieurs fois, et certaines ressources peuvent ne pas apparaître sur le plateau lorsqu'elles ne contribuent pas à l'examen.
+
+Le plateau évolue avec l'enquête. Une nouvelle difficulté peut conduire à ajouter un point, déplacer une relation, modifier le chemin ou reconstruire la représentation.
+
+Il ne représente donc pas l'application d'une architecture préalable, mais une organisation située du travail effectivement conduit.
+
+## 8. Portée et limites
 
 Le plateau permet de rendre une enquête plus lisible en représentant une sélection d’éléments et de relations pertinents pour une difficulté déterminée.
 
