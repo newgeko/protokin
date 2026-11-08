@@ -6,6 +6,38 @@ Cette page propose une méthode courte pour passer d'une difficulté descriptive
 
 Elle aide à préciser le problème, à déterminer ce qui reste à établir et à choisir une reprise adaptée. Elle ne constitue pas une procédure obligatoire : les questions proposées peuvent être adaptées à la situation.
 
+## 0. Construire un chemin d'enquête
+
+1. Formuler la difficulté rencontrée
+
+Préciser ce qui ne peut plus être suffisamment décrit, distingué, expliqué ou justifié dans la pratique examinée.
+
+La formulation est provisoire. Elle peut être modifiée à mesure que l'enquête progresse.
+
+2. Déterminer ce qui doit être examiné
+
+Identifier les questions pertinentes pour traiter la difficulté.
+
+Les orientations de l'examen peuvent aider à préciser sous quels rapports la situation doit être étudiée. Elles ne constituent pas une grille à remplir.
+
+Toutes les orientations ne sont pas nécessairement pertinentes. Une question peut également conduire à reconnaître un rapport d'examen qui n'est pas suffisamment caractérisé dans le répertoire actuel.
+
+3. Choisir les travaux nécessaires
+
+Identifier les opérations qui permettent de traiter les questions retenues.
+
+Le choix dépend du travail encore nécessaire, et non de l'ordre de présentation des opérations. Plusieurs opérations peuvent être mobilisées conjointement ou successivement.
+
+Les fonctions transversales et les instruments d'épreuve peuvent être introduits lorsqu'ils apportent une contribution identifiable.
+
+4. Construire et réviser le chemin
+
+Représenter, lorsque cela est utile, les opérations mobilisées, leurs dépendances, les éléments examinés et les résultats obtenus.
+
+Le chemin peut être modifié lorsque de nouvelles difficultés apparaissent. Une reprise peut conduire à revenir sur une opération, à modifier une orientation ou à examiner la pertinence des ressources utilisées.
+
+L'enquête ne vise pas à parcourir toutes les ressources de Protokin. Elle vise à construire un examen proportionné à la difficulté rencontrée et à rendre explicites les raisons des choix effectués.
+
 ## 1. Formuler la difficulté
 
 Commencer par décrire ce qui pose problème, sans chercher immédiatement à l'expliquer ou à le résoudre.
