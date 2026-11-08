@@ -158,7 +158,7 @@ Cette approche ne pose pas d'avance une hiérarchie générale entre les deux im
 
 Leur portée doit être examinée au regard du problème descriptif, des éléments disponibles et des exigences auxquelles les affirmations doivent satisfaire.
 
-Pour les développements propres à chacune, voir [Image manifeste](https://fr/image-manifeste.md?utm_source=chatgpt.com) et [Image scientifique](https://fr/image-scientifique.md?utm_source=chatgpt.com).
+Pour les développements propres à chacune, voir [Image manifeste](fr/image-manifeste.md) et [Image scientifique](fr/image-scientifique.md).
 
 ## 3. Picturing et signifying : deux relations à distinguer
 
@@ -305,7 +305,7 @@ Elle contribue notamment à repérer :
 
 Cette approche rejoint les analyses développées par Robert Brandom sur les pratiques inférentielles et normatives, sans rendre leurs deux démarches identiques.
 
-Pour le développement technique et les exemples, voir [Inférence matérielle](https://fr/inference-materielle.md?utm_source=chatgpt.com). Pour l'analyse des engagements et des habilitations dans les pratiques discursives, voir [Robert Brandom](https://fr/robert-brandom.md?utm_source=chatgpt.com) et [Scorekeeping déontique](https://fr/scorekeeping-deontique.md?utm_source=chatgpt.com).
+Pour le développement technique et les exemples, voir [Inférence matérielle](fr/inference-materielle.md). Pour l'analyse des engagements et des habilitations dans les pratiques discursives, voir [Robert Brandom](fr/robert-brandom.md) et [Scorekeeping déontique](fr/scorekeeping-deontique.md).
 
 ## 5. Nominalisme psychologique et médiation linguistique
 
@@ -402,7 +402,7 @@ Elle mobilise l'histoire biologique des systèmes pour expliquer certaines fonct
 
 Cette approche permet d'examiner comment des fonctions peuvent être comprises à partir de leur histoire naturelle sans supposer que leur rôle descriptif ou conceptuel soit immédiatement réductible à leurs conditions de réalisation.
 
-Voir [Ruth Millikan](https://fr/ruth-millikan.md?utm_source=chatgpt.com).
+Voir [Ruth Millikan](fr/ruth-millikan.md).
 
 ## 7. Ce que Protokin reprend de Sellars
 
