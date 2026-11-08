@@ -10,6 +10,20 @@ Les opérations, les orientations, les fonctions transversales et les instrument
 
 Leur organisation constitue un état révisable du projet. Une enquête peut conduire à modifier le chemin suivi, mais aussi à préciser, déplacer ou réviser les ressources de l'architecture elle-même.
 
+## Principe de construction située de l'enquête
+
+Protokin ne propose pas une carte préalable à laquelle toute enquête devrait se conformer. Il met à disposition un ensemble de ressources permettant d'examiner des difficultés descriptives déterminées.
+
+Les catégories, les opérations, les orientations, les fonctions transversales et les instruments ne constituent pas les étapes ou les dimensions obligatoires d'un parcours universel. Ils permettent de différencier les travaux possibles et de construire un chemin adapté à la difficulté rencontrée.
+
+Ce chemin est situé : il dépend du problème examiné, des pratiques concernées, des éléments disponibles et des résultats progressivement obtenus.
+
+Il peut comporter des bifurcations, des reprises, des déplacements et des révisions. Il ne doit pas nécessairement mobiliser toutes les ressources disponibles ni respecter leur ordre de présentation.
+
+L'enquête peut également révéler que les ressources de Protokin sont insuffisantes, mal distinguées ou inadéquates à la difficulté rencontrée. Cette possibilité engage la révision de l'architecture elle-même.
+
+L'architecture fournit des ressources pour construire l'enquête ; l'enquête permet d'éprouver et de réviser l'architecture.
+
 ## 1. Les composantes de l'architecture
 
 | Composante | Fonction |
