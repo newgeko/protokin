@@ -116,6 +116,5 @@ Pour approfondir :
 - [Introduction générale](fr/introduction-generale.md)
 - [Architecture du projet](fr/architecture-projet.md)
 - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md)
 - [Réaliser un audit](fr/realiser-un-audit.md)
 - [Limites de Protokin](fr/limites-de-protokin.md)
