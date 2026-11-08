@@ -80,7 +80,8 @@ Les principales ressources du corpus remplissent des fonctions distinctes :
 - [**Conduire une enquête**](fr/conduire-une-enquete.md) — propose des repères pratiques.
 - [**Table des matières**](fr/tdm.md) — permet de parcourir les ressources du projet.
 - [**Patterns éditoriaux**](patterns.md) — définit les repères de rédaction et de révision.
-- [**Audit du corpus**](pattern-audit.md) — permet d'examiner la cohérence fonctionnelle des ressources.
+- [**Pattern d’audit**](pattern-audit.md) — définit les principes et les modalités d’examen des ressources.
+- [**Audit du corpus**](audit-corpus.md) — consigne les constats, les tensions, les décisions et les vérifications concernant la cohérence générale du dépôt.
 
 Ces pages constituent des entrées complémentaires, et non un parcours de lecture obligatoire.
 
