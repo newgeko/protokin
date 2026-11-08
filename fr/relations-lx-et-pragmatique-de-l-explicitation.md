@@ -102,7 +102,7 @@ Elle invite notamment à poser les questions suivantes :
 
 Ces questions ne constituent pas une procédure obligatoire ni une nouvelle série d’opérations à ajouter à l’architecture de l’enquête. Elles forment un ensemble de points d’examen à mobiliser lorsque le rapport entre une pratique et son explicitation devient pertinent pour le problème étudié.
 
-La quadripartition de l’orientation permet de différencier les questions soulevées : les conditions matérielles de la pratique, les relations entre les éléments examinés, la fonction de la formulation explicite et les raisons permettant de défendre les conclusions. Ces orientations ne forment ni une hiérarchie ni une succession nécessaire.
+Les orientations de l'examen permettent de différencier les questions soulevées : les conditions matérielles de la pratique, les relations entre les éléments examinés, la fonction de la formulation explicite et les raisons permettant de défendre les conclusions. Elles ne forment ni une hiérarchie ni une succession nécessaire.
 
 ## 7. Portée et limites
 
@@ -139,6 +139,5 @@ L’explicitation peut transformer les possibilités de contestation et de révi
 - [Robert Brandom](fr/robert-brandom.md) — Examiner les engagements, les habilitations et les conséquences inférentielles des pratiques discursives.
 - [Wilfrid Sellars](fr/wilfrid-sellars.md) — Distinguer les conditions de production d’une affirmation et les raisons permettant de la soutenir.
 - [Explication](fr/explication.md) — Distinguer l’explicitation d’une relation et l’explication d’un phénomène.
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations de l’examen sans en faire des domaines indépendants.
 - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer les examens dans le mouvement révisable de l’enquête.
 - [Table des matières](fr/tdm.md) — Retrouver les autres ressources du corpus.
