@@ -52,11 +52,13 @@
     - [Transition](fr/transition.md)
     - [Transformation](fr/transformation.md)
     - [Sédimentation](fr/sedimentation.md)
+    - [Allure](fr/allure.md)
 
 - **IV. Examiner le langage, les contenus et les inférences**
   - **Pratiques discursives**
     - [Proposition](fr/proposition.md)
     - [Assertion](fr/assertion.md)
+    - [Le débordement pragmatique de l’assertion](fr/le-debordement-pragmatique-de-l-assertion.md)
     - [Pratique collective](fr/pratique-collective.md)
     - [Locuteur](fr/locuteur.md)
     - [Auditeur](fr/auditeur.md)
@@ -74,6 +76,7 @@
     - [Critère](fr/critere.md)
     - [Pairs](fr/pairs.md)
     - [Scorekeeping déontique](fr/scorekeeping-deontique.md)
+    - [Ascriptions de dicto et de re](fr/ascriptions-de-dicto-de-re.md)
   - **Prédication, référence et reprise**
     - [Prédication](fr/predication.md)
     - [Référent](fr/referent.md)
@@ -84,11 +87,15 @@
     - [Déixis](fr/deixis.md)
     - [Substitution](fr/substitution.md)
     - [Stabilisation](fr/stabilisation.md)
+    - [Occurrence](fr/occurrence.md)
+    - [Effet cliquet](fr/effet-cliquet.md)
+    - [Indexation et réindexation](fr/indexation-et-reindexation.md)
   - **Explication et traduction**
     - [Cause](fr/cause.md)
     - [Explication](fr/explication.md)
     - [Traduction](fr/traduction.md)
     - [Évaluer une traduction](fr/evaluer-une-traduction.md)
+    - [Relations LX et pragmatique de l’explicitation](fr/relations-lx-et-pragmatique-de-l-explicitation.md)
 
 - **V. Examiner les configurations et les régimes descriptifs**
   - **Configurations**
@@ -108,14 +115,22 @@
   - **Images manifeste et scientifique**
     - [Image manifeste](fr/image-manifeste.md)
     - [Image scientifique](fr/image-scientifique.md)
-  - **Indices, traces et supports**
+  - **Indices, traces et fonctions de stimulus**
     - [Indice](fr/indice.md)
     - [Trace](fr/trace.md)
+    - [Dérive indicielle](fr/derive-indicielle.md)
+    - [Le stimulus physique](fr/le-stimulus-physique.md)
     - [Fonction de stimulus](fr/fonction-de-stimulus.md)
+    - [Transformation de fonction de stimulus](fr/transformation-de-fonction-de-stimulus.md)
+  - **Supports descriptifs**
     - [Support descriptif](fr/support-descriptif.md)
     - [Supports descriptifs incorporés](fr/supports-descriptifs-incorpores.md)
     - [Supports descriptifs externes](fr/supports-descriptifs-externes.md)
     - [Supports descriptifs institutionnels](fr/supports-descriptifs-institutionnels.md)
+  - **Positions et motifs**
+    - [Position](fr/position.md)
+    - [Motif](fr/motif.md)
+    - [Cette personne est mauvaise](fr/cette-personne-est-mauvaise.md)
 
 - **VI. Examiner les normes, la validité et la responsabilité**
   - [Thèse — Du descriptif au normatif](fr/these.md)
@@ -125,6 +140,7 @@
   - [Description et normativité](fr/description-et-normativite.md)
   - [Obligation institutionnelle et obligation pratique](fr/obligation-institutionnelle-et-obligation-pratique.md)
   - [Redevabilité matérielle](fr/redevabilite-materielle.md)
+  - [Reconstruction récollective et pardon](fr/reconstruction-recollective-et-pardon.md)
 
 - **VII. Diagnostiquer, comparer et éprouver**
   - **Diagnostics et difficultés**
@@ -138,7 +154,7 @@
     - [Comparer deux descriptions](fr/comparer-deux-descriptions.md)
     - [Exégèse](fr/exegese.md)
     - [Révision descriptive et résultats scientifiques](fr/revision-descriptive-et-resultats-scientifiques.md)
-  - **Injustices épistémiques**
+  - **Audit et injustices épistémiques**
     - [Injustice épistémique](fr/injustice-epistemique.md)
     - [Injustice herméneutique](fr/injustice-hermeneutique.md)
 
