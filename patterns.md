@@ -489,7 +489,21 @@ Avant une fusion, une scission ou une suppression, vérifier les liens entrants,
 
 Une tension entre deux pages ne doit pas être corrigée par une harmonisation rédactionnelle avant d’avoir déterminé si elle relève d’une contradiction, d’une différence de définition, d’une différence de fonction ou d’une question encore ouverte.
 
-## 7. Contrôle final avant publication
+## 7. Architecture révisable et enquête située
+
+Les catégories, opérations, orientations, fonctions transversales et instruments de Protokin constituent des ressources de travail révisables.
+
+Elles ne doivent pas être utilisées comme une grille préalable à laquelle chaque difficulté serait systématiquement rapportée.
+
+La rédaction d'une page doit partir du problème qu'elle examine et identifier les ressources effectivement nécessaires à son traitement.
+
+Une ressource existante peut être mobilisée, précisée ou laissée de côté. Une difficulté peut également révéler une distinction insuffisamment établie ou conduire à proposer une modification de l'architecture.
+
+Il faut éviter de présenter l'organisation actuelle de Protokin comme exhaustive, nécessaire ou universelle.
+
+L'architecture doit pouvoir être évaluée à partir de sa contribution aux enquêtes, et non seulement à partir de sa cohérence interne.
+
+## 8. Contrôle final avant publication
 
 La liste suivante sert de contrôle final. Elle ne constitue pas une obligation d’ajouter toutes ces rubriques à la page publiée.
 
