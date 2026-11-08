@@ -191,7 +191,7 @@ Ces distinctions n’interdisent pas les passages entre les questions causales, 
 
 Elles ne préjugent pas non plus de la manière dont les catégories descriptives doivent être révisées lorsque de nouvelles connaissances scientifiques apparaissent.
 
-La [quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) permet de situer ce problème dans Protokin. Elle distingue les questions relatives aux conditions, aux relations, aux fonctions et à la justification sans en faire quatre domaines indépendants.
+Les [orientations de l’examen](fr/orientation-de-l-examen.md). permettent de situer ce problème dans Protokin. Elles distinguent les questions relatives aux conditions, aux relations, aux fonctions et aux justifications, sans en faire quatre domaines indépendants.
 
 Les analyses de l’[espace des raisons](fr/espace-des-raisons.md), de la [justification](fr/justification.md) et des [critères](fr/critere.md) développent les distinctions nécessaires à cet examen.
 
