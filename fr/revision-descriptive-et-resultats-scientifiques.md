@@ -170,7 +170,7 @@ La révision descriptive et scientifique ne constitue pas une opération supplé
 
 Ces opérations ne constituent pas une succession obligatoire. Une difficulté portant sur un critère peut conduire à reprendre la description ; une conclusion ontologique contestée peut imposer de réexaminer les données ou la formulation du problème.
 
-La quadripartition peut également orienter l’examen :
+Les orientations de l'examen permettent également de préciser sous quels rapports la révision peut être examinée :
 
 - **Condition** : dans quelles conditions le résultat a-t-il été produit et peut-il être repris ?
 - **Relation** : quelles relations entre les observations, les modèles et les conclusions sont établies ?
@@ -218,5 +218,4 @@ L’enquête doit donc identifier ce qui est mis en difficulté, examiner les re
 - [Wilfrid Sellars](wilfrid-sellars.md) — Situer la distinction entre l’image manifeste et l’image scientifique et le rapport entre conditions naturelles et justification.
 - [Théorie des humeurs](theorie-des-humeurs.md) — Étudier un cas historique de transformation des catégories, des critères et des pratiques descriptives.
 - [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md) — Situer les opérations et les possibilités de reprise de l’enquête.
-- [Quadripartition de l’orientation](quadripartition-de-l-orientation.md) — Distinguer les orientations mobilisables dans l’examen.
 - [Table des matières](tdm.md) — Replacer cette page dans l’organisation du corpus.
