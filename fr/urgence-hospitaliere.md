@@ -175,7 +175,6 @@ Enfin, ce cas ne démontre pas que toutes les difficultés de coordination doive
 
 Cette étude de cas mobilise des ressources dont les fonctions propres sont développées ailleurs dans Protokin :
 
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les questions relatives aux conditions, aux relations, aux fonctions et aux justifications.
 - [Une première cartographie des régimes descriptifs](fr/une-premiere-cartographie-des-regimes-descriptifs.md) — Situer les manières d’organiser les descriptions sans en faire des classes exclusives.
 - [Régime descriptif](fr/regime-descriptif.md) — Examiner l’organisation d’une pratique descriptive, ses inférences et ses critères.
 - [Diagnostiquer une réduction](fr/diagnostiquer-une-reduction.md) — Examiner les passages par lesquels une fonction ou un registre est ramené à un autre.
