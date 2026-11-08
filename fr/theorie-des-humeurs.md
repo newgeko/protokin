@@ -76,9 +76,9 @@ Ces développements sont liés, mais ne sont ni identiques ni interchangeables. 
 
 Le cas doit donc être décrit comme une pluralité de transformations dont les relations historiques sont à reconstruire, et non comme une transition unique dont chaque étape conduirait nécessairement à la suivante.
 
-## 5. Analyse selon les orientations de Protokin
+## 5. Analyse selon les orientations de l'examen
 
-La quadripartition permet de distinguer quatre orientations de l’examen. Elle ne divise pas le cas en quatre composantes indépendantes et n’impose pas un ordre d’analyse.
+Les quatre orientations actuellement retenues par Protokin permettent d'examiner le cas sous différents rapports. Elles ne divisent pas celui-ci en quatre composantes indépendantes et n'imposent aucun ordre d'analyse. Leur mobilisation dépend des difficultés rencontrées au cours de l'enquête.
 
 ### Condition
 
@@ -160,5 +160,4 @@ Pour poursuivre :
 - [Support descriptif](fr/support-descriptif.md) — Examiner les moyens qui rendent des ressources descriptives disponibles et réutilisables.
 - [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md) — Examiner les relations entre plusieurs pratiques descriptives.
 - [Image manifeste](fr/image-manifeste.md) et [Image scientifique](fr/image-scientifique.md) — Examiner ces distinctions dans leurs pages propres, sans les réduire à une opposition historique simple.
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinguer les orientations de l’examen.
 - [Table des matières](fr/tdm.md) — Replacer cette étude de cas dans l’organisation du corpus.
