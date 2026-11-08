@@ -163,7 +163,7 @@ Elle ne permet pas de déduire automatiquement le statut moral d’un système d
 
 ## 8. Enseignements pour l’enquête
 
-Ce cas montre l’intérêt de distinguer les conditions, les relations, les fonctions et les justifications d’une controverse, sans en faire quatre étapes obligatoires.
+Ce cas montre l'intérêt de mobiliser les orientations Condition, Relation, Fonction et Justification pour examiner les différents aspects d'une controverse, sans en faire quatre étapes obligatoires.
 
 - **Condition** : quelles propriétés du système, quelles observations et quels matériaux sont disponibles pour l’examen ?
 - **Relation** : quels rapports peuvent être établis entre comportement linguistique, architecture computationnelle, fonctions du système et expérience subjective éventuelle ?
