@@ -2,11 +2,13 @@
 
 ## Fonction
 
-Cette page présente les composantes fonctionnelles que Protokin mobilise pour examiner les pratiques descriptives. Elle précise le rôle de chacune et les rapports qu'elles peuvent entretenir.
+Cette page présente les ressources actuellement identifiées dans Protokin pour examiner les pratiques descriptives. Elle précise leur fonction, leurs différences et les conditions de leur mobilisation.
 
-L'architecture distingue cinq composantes : les catégories de regroupement, les opérations, les orientations, les fonctions transversales et les instruments d'épreuve.
+L'architecture ne constitue pas une représentation préalable de toute enquête. Elle rassemble des ressources disponibles pour construire un examen situé, en fonction d'une difficulté déterminée.
 
-Elle organise les ressources actuellement identifiées dans le projet. Elle ne constitue ni une procédure obligatoire ni une classification exhaustive des travaux possibles.
+Les opérations, les orientations, les fonctions transversales et les instruments d'épreuve ne constituent ni des étapes obligatoires ni les cases d'une grille à remplir. Ils peuvent être sélectionnés, combinés, réordonnés ou laissés de côté selon les besoins de l'examen.
+
+Leur organisation constitue un état révisable du projet. Une enquête peut conduire à modifier le chemin suivi, mais aussi à préciser, déplacer ou réviser les ressources de l'architecture elle-même.
 
 ## 1. Les composantes de l'architecture
 
