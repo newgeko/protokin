@@ -2,11 +2,17 @@
 
 ## Fonction
 
-Cette page présente les opérations actuellement identifiées dans Protokin et donne un aperçu de leurs fonctions respectives.
+Cette page présente les opérations actuellement identifiées dans Protokin et précise les différences fonctionnelles qui permettent de les mobiliser dans une enquête.
 
-Elle constitue un repère de navigation entre les pages consacrées à chaque opération. Elle précise également le statut de leur ordre de présentation et rappelle les principales distinctions nécessaires pour comprendre leurs articulations.
+Elle constitue un répertoire de référence, non le modèle d'un parcours que toute enquête devrait suivre.
 
-Elle ne remplace pas l'[architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md), qui expose l'organisation générale des ressources de l'enquête, ni les pages spécialisées, qui développent la fonction et les limites de chaque opération.
+Les opérations désignent des travaux d'examen distincts. Elles peuvent être sélectionnées, combinées, reprises ou réordonnées en fonction de la difficulté rencontrée et des résultats obtenus.
+
+Leur ordre de présentation facilite la lecture de leurs articulations. Il ne détermine ni leur ordre de mobilisation ni la forme générale d'une enquête.
+
+Une enquête peut commencer par n'importe quelle opération pertinente pour la difficulté rencontrée. Elle peut également faire apparaître un travail qui n'est pas suffisamment pris en charge par les opérations actuellement identifiées.
+
+L'organisation des opérations reste donc révisable à partir des enquêtes conduites et des difficultés qu'elles permettent de reconnaître.
 
 ## Une chaîne de référence, non une procédure
 
