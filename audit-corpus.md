@@ -240,15 +240,24 @@ L'état initial présenté ici constitue un premier diagnostic du corpus. Il ne 
 
 **Orientation :** conserver les distinctions en place et soumettre leurs relations à un examen fonctionnel.
 
-### 6.3. Remplacement de la quadripartition
+### 6.3. Migration vers les orientations de l’examen
 
-**Constat :** l'ancienne quadripartition a été remplacée comme principe organisateur par les orientations de l'examen.
+**Décision retenue :** les quatre orientations Condition, Relation, Fonction et Justification sont conservées comme repères de questionnement. Elles ne constituent ni une quadripartition du réel, ni quatre étapes successives, ni une classification exhaustive des questions possibles.
 
-Des références à l'ancienne organisation et à son ancien fichier subsistent dans plusieurs ressources.
+La page [Orientation de l’examen](fr/orientation-de-l-examen.md) définit leur fonction. Une orientation indique sous quel rapport un élément de l’enquête est examiné ; elle ne prescrit pas l’opération à effectuer.
 
-**Problème :** coexistence de références documentaires relevant de deux états de l'architecture.
+**État documentaire :** la TDM, la barre latérale et le README renvoient vers la nouvelle page. Le contrôle des références a identifié un dernier renvoi vers l’ancien fichier dans l’étude de cas consacrée à la conscience artificielle. Ce renvoi doit être remplacé.
 
-**Décision proposée :** effectuer une migration transversale des formulations et des liens, sans remplacement mécanique lorsque la fonction de la phrase exige une reformulation.
+**Critères de clôture :**
+
+- aucun lien actif ne pointe vers `fr/quadripartition-de-l-orientation.md` ;
+- aucune ressource ne présente l'ancienne quadripartition comme principe organisateur actuel ;
+- les quatre orientations sont désignées comme des repères révisables ;
+- aucune orientation n'est assimilée à une opération, à une étape obligatoire ou à une composante du réel ;
+- aucune correspondance fixe n'est établie entre une orientation et une opération ;
+- les études de cas mobilisent les orientations en fonction des difficultés rencontrées, sans appliquer systématiquement une grille en quatre parties.
+
+La mention historique de l'ancienne quadripartition peut être conservée lorsqu'elle sert à documenter l'évolution du projet.
 
 ### 6.4. Organisation des régimes descriptifs
 
