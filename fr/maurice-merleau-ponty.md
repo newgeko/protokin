@@ -126,7 +126,7 @@ L’exemple permet ainsi de distinguer le savoir pratique manifesté dans l’ac
 
 L’héritage de Merleau-Ponty peut éclairer l’examen de situations dans lesquelles les conditions corporelles et perceptives d’une pratique sont pertinentes pour comprendre une difficulté descriptive.
 
-La quadripartition de Protokin permet de distinguer les questions susceptibles de se poser :
+Les orientations de l'examen permettent de distinguer plusieurs questions susceptibles de se poser :
 
 - **Condition** : quelles conditions corporelles, matérielles ou environnementales affectent la perception et l’action ?
 - **Relation** : quelles dépendances entre le corps, les outils, la situation et les autres participants sont pertinentes ?
