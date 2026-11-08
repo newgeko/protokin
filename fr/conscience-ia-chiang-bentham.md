@@ -202,7 +202,7 @@ Le résultat principal n’est donc pas un verdict sur la conscience des IA. Il 
 
 - [Intelligence artificielle](fr/intelligence-artificielle.md) — Examiner la portée des résultats produits par les systèmes d’IA dans les pratiques descriptives.
 - [Révision descriptive et résultats scientifiques](fr/revision-descriptive-et-resultats-scientifiques.md) — Distinguer les résultats, les révisions descriptives, les critères et les engagements concernant ce qui est décrit.
-- [Quadripartition — Le présent descriptif de l’enquête](fr/quadripartition-de-l-orientation.md) — Examiner les orientations Condition, Relation, Fonction et Justification.
+- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Examiner les différents rapports sous lesquels une controverse peut être étudiée.
 - [Conduire une enquête](fr/conduire-une-enquete.md) — Retrouver les repères pratiques pour examiner une difficulté descriptive.
 
 ### Sources principales
