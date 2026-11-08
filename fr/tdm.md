@@ -31,13 +31,11 @@ L’organisation documentaire, l’architecture fonctionnelle et la conduite d�
 
 ## II. Conduire une enquête
 
-Une enquête devient pertinente lorsque les ressources descriptives disponibles ne permettent plus de traiter une difficulté de manière satisfaisante. Les pages de cette partie précisent le problème, les opérations disponibles et les possibilités de reprise.
+Les ressources présentées dans cette partie permettent de construire un chemin d'enquête à partir d'une difficulté déterminée.
 
-L’ordre de présentation des opérations constitue un repère d’orientation :
+Les opérations constituent un répertoire de travaux d'examen. Leur ordre de présentation facilite la consultation, mais ne détermine pas leur ordre de mobilisation.
 
-**Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter**
-
-Cet ordre n’est ni une procédure obligatoire ni une progression nécessaire. Les opérations peuvent être combinées, reprises ou réordonnées selon le problème.
+Une enquête peut sélectionner certaines opérations, les combiner, les reprendre ou conduire à réviser leur organisation. Le plateau d'enquête permet, lorsque cela est utile, de représenter le chemin effectivement construit.
 
 ### A. Problème et organisation de l’enquête
 
