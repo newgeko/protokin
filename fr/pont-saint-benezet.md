@@ -170,5 +170,4 @@ Ces références constituent un premier corpus documentaire, non une bibliograph
 
 - [Conduire une enquête](fr/conduire-une-enquete.md) — Repères pratiques pour traiter une difficulté descriptive.
 - [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Fonction des opérations, orientations et instruments d’épreuve.
-- [Quadripartition de l’orientation](fr/quadripartition-de-l-orientation.md) — Distinction entre Condition, Relation, Fonction et Justification.
 - [Table des matières](fr/tdm.md) — Accès aux autres études de cas et ressources du corpus.
