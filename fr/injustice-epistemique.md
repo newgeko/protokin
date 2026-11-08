@@ -115,7 +115,7 @@ Ces distinctions ne conduisent ni à accorder la même valeur à toutes les affi
 
 L’injustice épistémique devient un problème d’enquête lorsque des éléments permettent de soupçonner qu’une personne ou un groupe subit un désavantage dans les pratiques de témoignage, d’interprétation ou de justification.
 
-Les orientations de la quadripartition peuvent aider à différencier les questions pertinentes :
+Les orientations de l'examen permettent de différencier plusieurs rapports pertinents pour l'analyse :
 
 - **Condition :** quelles conditions matérielles, institutionnelles ou pratiques affectent la possibilité de contribuer ?
 - **Relation :** quelles dépendances relient les personnes, les catégories, les supports et les procédures concernés ?
