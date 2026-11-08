@@ -2,11 +2,15 @@
 
 ## Fonction
 
-Cette page définit la notion d’orientation de l’examen et précise le rôle des orientations actuellement retenues dans Protokin.
+Cette page présente les orientations actuellement disponibles dans Protokin pour préciser sous quel rapport une difficulté descriptive peut être examinée.
 
-Une orientation indique sous quel rapport une situation, une pratique, une opération ou un résultat est examiné. Elle permet de différencier les questions posées à propos d’un même élément sans déterminer le travail nécessaire pour y répondre.
+Une orientation n'est ni une dimension nécessaire de toute situation ni une rubrique à renseigner systématiquement. Elle constitue une ressource de questionnement mobilisable lorsqu'elle permet de préciser ce qui est en jeu dans une enquête.
 
-Protokin distingue actuellement quatre orientations de référence : **Condition, Relation, Fonction et Justification**. Elles constituent des repères révisables, non une classification exhaustive des questions possibles.
+Protokin distingue actuellement quatre orientations de référence : Condition, Relation, Fonction et Justification. Cette distinction représente un état de travail du projet, non une classification exhaustive ou définitive des rapports d'examen possibles.
+
+Une enquête peut mobiliser une seule orientation, en combiner plusieurs ou conduire à en reconnaître une nouvelle. Elle peut également commencer par une question qui ne se laisse pas immédiatement ramener aux orientations disponibles.
+
+La pertinence d'une orientation dépend de sa contribution au traitement de la difficulté rencontrée. Elle doit pouvoir être précisée, révisée ou abandonnée lorsque son emploi ne permet plus de différencier utilement les questions posées.
 
 ## 1. Définition et rôle
 
