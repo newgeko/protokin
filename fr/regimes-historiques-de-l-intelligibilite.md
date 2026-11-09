@@ -2,181 +2,292 @@
 
 ## Fonction
 
-Cette page propose de distinguer plusieurs configurations historiques de production de l’intelligibilité : le mythologique, le théologique, le philosophique et le littéraire.
+Cette page examine plusieurs traditions historiques de production de l'intelligibilité : les traditions mythologiques, théologiques, philosophiques et littéraires.
 
-Elle ne cherche pas à établir une classification exhaustive des formes de pensée, ni à reconstruire une succession universelle de stades historiques. Elle fournit un cadre permettant d’examiner comment différentes traditions organisent les phénomènes, construisent leurs objets, établissent des relations et soutiennent des prétentions descriptives.
+Elle cherche à caractériser leurs différences, leurs transformations et leurs relations, sans les ramener à une succession de stades ni supposer qu'elles constituent quatre catégories homogènes.
 
-Ces régimes sont envisagés comme des configurations historiquement différenciables, susceptibles de coexister, de se transformer et de se combiner.
+Son objet est de comprendre comment des traditions historiquement situées organisent les manières de rendre les phénomènes intelligibles, de construire des relations, de transmettre des descriptions et de soutenir certaines prétentions.
 
-## Problème
+Ces traditions constituent des repères comparatifs. Leur identification et leur délimitation dépendent des pratiques, des contextes et des matériaux examinés.
 
-Les descriptions du monde ne se produisent pas indépendamment des traditions dans lesquelles elles prennent forme. Elles mobilisent des manières particulières d'organiser les événements, de distinguer les êtres, de construire des relations et de rendre certaines affirmations intelligibles.
+## 1. Problème
 
-Une difficulté apparaît lorsque ces différences sont ramenées à une succession historique simplifiée : le mythologique serait remplacé par le théologique, le théologique par le philosophique, puis le philosophique par le scientifique.
+Les manières de rendre le monde intelligible se transforment historiquement. Elles mobilisent des récits, des concepts, des textes, des pratiques interprétatives, des formes argumentatives et des ressources institutionnelles.
 
-Cette représentation suppose une évolution unidirectionnelle dans laquelle chaque configuration abandonnerait les précédentes. Elle ne permet pas de rendre compte de leur persistance, de leurs transformations ni de leurs usages contemporains.
+Il est tentant de représenter ces transformations sous la forme d'une succession : le mythologique serait remplacé par le théologique, puis par le philosophique et enfin par le scientifique.
 
-Elle conduit également à confondre plusieurs questions :
-- les conditions historiques d'apparition d'une description ;
-- les formes qu'elle mobilise ;
-- les fonctions qu'elle remplit ;
-- les raisons qu'elle avance pour soutenir ses prétentions.
+Cette représentation pose plusieurs difficultés.
 
-L'examen de ces configurations exige donc de distinguer leur organisation descriptive de leur position supposée dans une histoire générale de la pensée.
+Elle suppose que chaque configuration abandonne les précédentes, que leurs différences puissent être ordonnées selon un degré croissant de rationalité et que leurs transformations suivent une trajectoire historique générale.
 
-## Définition
+Elle rend difficilement compte de la persistance des traditions, de leurs réappropriations et de leurs coexistences. Elle ne permet pas non plus de comprendre pourquoi plusieurs manières d'organiser l'intelligibilité peuvent intervenir dans une même pratique.
 
-Un régime historique de l'intelligibilité désigne une configuration relativement stabilisée de pratiques, de formes et de ressources descriptives permettant d'organiser les phénomènes et de rendre certaines relations compréhensibles.
+Une autre difficulté concerne l'hétérogénéité des termes employés. Le mythologique, le théologique, le philosophique et le littéraire ne désignent pas nécessairement des réalités du même ordre.
 
-Il ne constitue ni une ontologie particulière, ni une méthode unique, ni un ensemble homogène de croyances. Il désigne un espace historique de pratiques descriptives dont les caractéristiques doivent être examinées dans des situations déterminées.
+Il faut donc examiner leurs différences sans présupposer leur équivalence, leur indépendance ou leur succession.
 
-Quatre configurations peuvent notamment être distinguées.
+## 2. Statut des configurations historiques
 
-### 1. Le régime mythologique
+L'expression « régime historique de l'intelligibilité » désigne ici, de manière provisoire, une configuration historiquement située de pratiques, de ressources et de traditions permettant d'organiser la compréhension des phénomènes.
 
-Le régime mythologique organise l'intelligibilité au moyen de récits mettant en relation des événements, des êtres, des forces et des actions.
+Elle ne désigne pas une catégorie technique supplémentaire dans l'architecture de Protokin.
 
-Le récit mythologique ne se réduit pas à une explication imaginaire de phénomènes naturels. Il peut établir des généalogies, distribuer des responsabilités, instituer des distinctions, organiser des rapports entre humains et non-humains et transmettre des formes de conduite.
+Il faut notamment distinguer :
 
-Sa fonction descriptive peut notamment consister à :
-- relier des événements dans une séquence narrative ;
-- rendre intelligibles des origines et des transformations ;
-- attribuer des actions et des responsabilités ;
-- organiser des rapports entre différentes puissances ;
-- transmettre des distinctions et des repères collectifs.
+- **Une tradition historique** : ensemble de pratiques, de textes, de transmissions et de transformations inscrits dans une histoire déterminée.
+- **Une forme descriptive** : manière d'organiser un contenu, par exemple le récit, l'argumentation, la démonstration ou la fiction.
+- **Une fonction** : contribution qu'un usage ou une activité apporte dans une pratique déterminée.
+- **Un régime descriptif** : organisation relativement stabilisée de règles d'usage, de distinctions, d'opérations et de critères dans une pratique donnée.
 
-Le mythologique ne désigne donc pas simplement une pensée antérieure à la rationalité. Il constitue une configuration particulière de production de l'intelligibilité, dont les formes et les fonctions peuvent persister dans des contextes historiques très différents.
+Ces dimensions peuvent dépendre les unes des autres sans se confondre.
 
-### 2. Le régime théologique
+Une tradition historique peut mobiliser plusieurs formes descriptives et comporter plusieurs régimes descriptifs. Une même forme peut intervenir dans des traditions différentes. Une fonction comparable peut être remplie par des ressources distinctes.
 
-Le régime théologique organise l'intelligibilité en rapportant les phénomènes à des principes de création, de transcendance, de finalité ou d'ordre divin.
+Les quatre configurations présentées ci-dessous ne constituent donc ni une classification exhaustive ni quatre types mutuellement exclusifs.
 
-Il peut mobiliser des récits, des textes, des traditions interprétatives et des procédures argumentatives. Il ne se réduit donc pas à la croyance religieuse ni à la répétition de récits fondateurs.
+## 3. Quatre traditions d'intelligibilité
 
-Ses fonctions descriptives peuvent notamment consister à :
-- établir des rapports entre création et existence ;
-- interpréter les événements à partir d'un ordre transcendant ;
-- articuler les relations entre causalité et finalité ;
-- justifier des prescriptions et des obligations ;
-- organiser les rapports entre autorité, tradition et interprétation.
+### 3.1. Le mythologique
 
-Le théologique peut intégrer des ressources philosophiques et scientifiques sans perdre nécessairement sa configuration propre.
+Le mythologique renvoie à des traditions qui organisent l'intelligibilité au moyen de récits mettant en relation des origines, des événements, des êtres, des puissances et des transformations.
 
-### 3. Le régime philosophique
+Il ne se réduit pas à une explication imaginaire de phénomènes naturels. Les récits mythologiques peuvent organiser des généalogies, des rapports entre humains et non-humains, des responsabilités, des interdits, des appartenances et des formes de transmission.
 
-Le régime philosophique examine les concepts, les relations et les prétentions mobilisés dans les descriptions.
+Leur examen peut notamment porter sur :
 
-Il ne se caractérise pas par un objet exclusif, mais par des pratiques d'explicitation, de problématisation, d'argumentation et de critique.
+- les relations établies entre les événements ;
+- les généalogies et les récits d'origine ;
+- les agents auxquels sont attribuées des actions ;
+- les rapports entre ordre du monde et organisation collective ;
+- les formes de transmission et de reprise des récits ;
+- les relations entre récit, pratique rituelle et organisation sociale.
 
-Ses fonctions peuvent notamment consister à :
-- examiner les conditions d'une affirmation ;
-- distinguer des concepts et leurs usages ;
-- expliciter les présuppositions d'un raisonnement ;
-- éprouver la cohérence et la portée d'une description ;
-- examiner les relations entre connaissance, justification et réalité.
+Le mythologique ne désigne donc pas simplement une pensée antérieure à la rationalité. Il correspond à des traditions dont les formes, les fonctions et les usages doivent être examinés dans leurs contextes historiques.
 
-Le régime philosophique ne se confond pas avec une pensée détachée des pratiques historiques. Ses problèmes, ses concepts et ses procédures argumentatives se constituent dans des contextes déterminés.
+Il importe également de ne pas identifier automatiquement récit et mythe. Le récit est une forme susceptible d'intervenir dans des traditions et des pratiques très différentes.
 
-Il peut examiner les prétentions du mythologique, du théologique ou du scientifique sans se situer pour autant dans une position extérieure à toute tradition descriptive.
+### 3.2. Le théologique
 
-### 4. Le régime littéraire
+Le théologique renvoie à des pratiques qui examinent, interprètent et organisent des affirmations relatives au divin, à la création, à la transcendance, à la révélation ou à l'ordre du monde.
 
-Le régime littéraire organise l'intelligibilité au moyen de formes narratives, poétiques et fictionnelles.
+Il peut mobiliser des récits fondateurs, des textes, des commentaires, des doctrines, des arguments et des procédures d'interprétation.
 
-Il permet de construire des situations, des personnages, des expériences et des mondes possibles. Il ne se réduit ni à l'illustration d'une thèse ni à la production d'un discours esthétique.
+Son examen peut notamment porter sur :
 
-Ses fonctions peuvent notamment consister à :
-- explorer des situations et des expériences ;
-- rendre perceptibles des relations difficiles à isoler conceptuellement ;
-- construire des possibilités non réalisées ;
-- éprouver des descriptions à travers des configurations narratives ;
-- mettre en question des évidences et des catégories établies.
+- les relations établies entre création et existence ;
+- les interprétations des textes et des traditions ;
+- les rapports entre transcendance et monde ;
+- les articulations entre causalité et finalité ;
+- les relations entre autorité, tradition et argumentation ;
+- les justifications avancées pour soutenir des affirmations ou des prescriptions.
 
-La fiction ne constitue pas nécessairement une description factuelle du monde. Elle peut néanmoins contribuer à l'examen de nos manières de décrire, d'interpréter et de comprendre les situations.
+Le théologique ne se réduit donc ni à la croyance religieuse ni à la répétition d'un récit mythologique.
 
-Le littéraire ne vient donc pas simplement après le philosophique. Il peut lui être contemporain, lui fournir des ressources ou mettre à l'épreuve certaines de ses distinctions.
+Il peut intégrer des ressources philosophiques, historiques ou scientifiques. Cette mobilisation ne suffit pas à déterminer la fonction de ces ressources ni à établir leur compatibilité.
 
-## Relations entre les régimes
+Le rapport entre théologique et philosophique constitue notamment un problème historique et conceptuel à examiner, plutôt qu'une séparation préalable entre deux domaines étanches.
 
-Ces quatre configurations ne constituent pas les étapes d'un parcours historique obligatoire.
+### 3.3. Le philosophique
 
-Elles peuvent entretenir plusieurs types de relations :
+Le philosophique renvoie à des pratiques d'examen conceptuel, d'argumentation et de problématisation portant sur les descriptions, les connaissances, les normes et les prétentions relatives au monde.
 
-- **Coexistence** : plusieurs régimes peuvent organiser simultanément les descriptions d'une même société ou d'une même situation.
-- **Transformation** : un régime peut modifier ses formes et ses fonctions au contact d'autres configurations.
-- **Réappropriation** : une tradition peut reprendre des récits, des concepts ou des procédures provenant d'un autre régime.
-- **Confrontation** : plusieurs régimes peuvent produire des descriptions incompatibles d'un même phénomène.
-- **Hybridation** : une pratique descriptive peut combiner des ressources relevant de plusieurs régimes.
+Il ne se caractérise pas par un objet exclusif ni par une méthode unique. Les traditions philosophiques peuvent construire des systèmes, élaborer des ontologies, examiner des arguments, critiquer des présuppositions ou interroger les conditions de la connaissance.
 
-Ces relations ne permettent pas de déduire automatiquement la fonction d'une description de son appartenance historique ou culturelle.
+Son examen peut notamment porter sur :
 
-Un récit mythologique peut remplir une fonction politique. Un discours théologique peut mobiliser une argumentation philosophique. Une œuvre littéraire peut contribuer à une critique conceptuelle. Une réflexion philosophique peut reprendre des formes narratives.
+- les distinctions conceptuelles établies ;
+- les présuppositions d'une affirmation ;
+- les relations entre concepts et usages ;
+- les formes d'argumentation et d'inférence ;
+- les conditions de justification ;
+- les rapports entre connaissance, existence et réalité ;
+- les conséquences des propositions avancées.
 
-L'appartenance à un régime ne détermine donc pas à elle seule les opérations effectivement mobilisées.
+Le philosophique ne constitue pas nécessairement une position extérieure aux autres traditions. Il peut intervenir dans une réflexion théologique, examiner un récit mythologique ou analyser les formes d'intelligibilité mobilisées par une pratique scientifique.
 
-## Régimes, formes et fonctions
+Il ne doit pas davantage être réduit à une fonction critique : les pratiques philosophiques peuvent également construire des descriptions, élaborer des concepts et soutenir des propositions positives.
 
-Il importe de distinguer trois niveaux d'examen.
+### 3.4. Le littéraire
 
-**Les régimes** désignent des configurations historiques de pratiques et de ressources descriptives.
+Le littéraire renvoie à des pratiques historiquement constituées de production, de circulation et d'interprétation de textes et d'œuvres mobilisant des formes narratives, poétiques, dramatiques ou fictionnelles.
 
-**Les formes** désignent les moyens d'organisation mobilisés : récit, démonstration, argumentation, fiction, commentaire, explication ou interprétation.
+Il ne se réduit pas à la fiction ni à la production d'un discours esthétique. Les pratiques littéraires peuvent explorer des expériences, construire des situations, représenter des conflits, transformer des récits et proposer des manières particulières de rendre certaines relations perceptibles.
 
-**Les fonctions** désignent les activités accomplies dans une situation : expliquer, relier, légitimer, justifier, transmettre, distinguer ou contester.
+Son examen peut notamment porter sur :
 
-Cette distinction empêche de déduire une fonction d'une forme ou une validité d'une appartenance historique.
+- les formes narratives et leurs organisations ;
+- les relations entre personnages, événements et situations ;
+- la construction de mondes possibles ;
+- les rapports entre fiction et expérience ;
+- les formes de représentation et leurs conventions ;
+- les conditions historiques de production et de réception des œuvres.
 
-Un récit n'est pas nécessairement mythologique. Une argumentation n'est pas nécessairement philosophique. Une fiction n'est pas nécessairement littéraire au sens d'un régime constitué.
+Une œuvre littéraire peut reprendre des matériaux mythologiques ou théologiques, construire une interrogation philosophique ou mettre en question des catégories socialement stabilisées.
 
-L'identification d'un régime demande donc un examen des pratiques, de leurs conditions de production et de leurs modes de justification.
+La fiction ne constitue pas nécessairement une affirmation factuelle sur le monde. Elle peut néanmoins contribuer à l'examen de descriptions, de possibilités et de situations humaines.
 
-## Rapport à Protokin
+Le littéraire ne vient donc pas simplement après le philosophique. Leurs pratiques peuvent être contemporaines, se croiser et entretenir des relations variables.
 
-Protokin ne propose pas une histoire générale des régimes de pensée. Il ne cherche pas davantage à déterminer lequel d'entre eux produirait les descriptions les plus adéquates.
+## 4. Des configurations qui ne sont pas équivalentes
 
-Ces régimes constituent des objets possibles d'enquête. Ils peuvent être examinés à partir des difficultés descriptives qu'ils rencontrent et des ressources qu'ils mobilisent pour les traiter.
+Les quatre traditions ne se distinguent pas selon une propriété unique.
 
-Une enquête peut notamment porter sur :
-- les distinctions établies par un régime ;
-- les relations qu'il construit entre les phénomènes ;
-- les conditions matérielles et institutionnelles de ses descriptions ;
-- les formes de justification qu'il reconnaît ;
-- les conversions entre explication, interprétation et légitimation ;
-- les transformations qui affectent ses catégories et ses prétentions.
+Leurs différences peuvent concerner :
 
-Cette approche permet également d'examiner les situations dans lesquelles plusieurs régimes interviennent dans une même pratique descriptive, sans présupposer qu'ils partagent les mêmes critères de validité.
+- les formes de transmission ;
+- les types de textes et de récits mobilisés ;
+- les autorités reconnues ;
+- les manières de construire des relations ;
+- les ressources conceptuelles disponibles ;
+- les procédures d'interprétation ;
+- les formes d'argumentation ;
+- les conditions de contestation et de révision.
 
-Il ne s'agit donc pas de classer les descriptions selon leur degré supposé de maturité, mais de reconstruire les conditions dans lesquelles elles deviennent intelligibles, discutables et contestables.
+Ces dimensions ne sont pas distribuées uniformément.
 
-## Rapport à Sellars
+Une tradition mythologique peut comporter des élaborations conceptuelles. Une tradition théologique peut développer des procédures argumentatives sophistiquées. Une pratique philosophique peut mobiliser des récits. Une œuvre littéraire peut reprendre et transformer des matériaux provenant de plusieurs traditions.
 
-La distinction entre plusieurs configurations historiques de l'intelligibilité peut être rapprochée de certaines préoccupations de Wilfrid Sellars, notamment son examen des rapports entre l'image manifeste et l'image scientifique.
+Il faut donc distinguer les caractéristiques historiques d'une tradition des ressources particulières employées dans une pratique déterminée.
 
-Cette référence doit toutefois être délimitée.
+Aucune de ces traditions ne peut être caractérisée à partir d'une seule forme discursive ou d'une fonction présumée dominante.
 
-Sellars ne propose pas une succession canonique de stades mythologique, théologique, philosophique et littéraire. Son expression *Myth of the Given* désigne une thèse épistémologique critiquée dans son analyse du fondement de la connaissance. Elle ne désigne pas le régime mythologique défini dans cette page.
+## 5. Relations historiques et transformations
 
-Le rapprochement porte donc sur une question générale : comment différentes manières de rendre le monde intelligible s'organisent-elles, et comment leurs prétentions peuvent-elles être examinées ?
+Les relations entre ces traditions peuvent prendre plusieurs formes.
 
-Il ne constitue pas une attribution à Sellars de la classification proposée ici.
+### 5.1. Coexistence
 
-## N'établit pas
+Plusieurs traditions peuvent intervenir dans une même période historique, une même institution ou une même pratique.
 
-Cette distinction n'établit pas :
-- une succession universelle des régimes ;
-- une hiérarchie entre les configurations historiques ;
-- une séparation étanche entre les traditions ;
-- une équivalence entre régime et forme descriptive ;
-- une validité déterminée par l'appartenance à un régime ;
-- une disparition du mythologique ou du théologique dans les sociétés contemporaines ;
-- une classification exhaustive des pratiques d'intelligibilité.
+Cette coexistence ne signifie pas qu'elles partagent les mêmes critères, les mêmes engagements ou les mêmes conceptions de ce qui constitue une description acceptable.
 
-Les quatre configurations présentées constituent des repères d'examen, non une nomenclature fermée.
+### 5.2. Réappropriation
+
+Une tradition peut reprendre des récits, des concepts, des textes ou des ressources provenant d'une autre.
+
+Cette reprise peut modifier leur fonction, leur portée ou les relations dans lesquelles ils interviennent.
+
+La présence d'un matériau commun ne suffit donc pas à établir une continuité de fonction.
+
+### 5.3. Transformation
+
+Une tradition peut se transformer à travers des modifications de ses textes, de ses institutions, de ses pratiques interprétatives ou de ses formes d'argumentation.
+
+Ces transformations ne conduisent pas nécessairement à la disparition de ses ressources antérieures.
+
+Il faut distinguer la transformation d'une tradition de son remplacement par une autre.
+
+### 5.4. Confrontation
+
+Plusieurs traditions peuvent soutenir des affirmations incompatibles, mobiliser des autorités différentes ou reconnaître des critères divergents.
+
+La confrontation doit être examinée à partir des propositions effectivement soutenues et des conditions dans lesquelles elles sont incompatibles.
+
+Une différence de vocabulaire ou de tradition ne suffit pas à établir une contradiction.
+
+### 5.5. Hybridation
+
+Une pratique peut mobiliser simultanément des ressources provenant de plusieurs traditions.
+
+Cette combinaison ne suppose pas que les traditions concernées deviennent équivalentes ou qu'elles soient intégrées dans un ensemble entièrement cohérent.
+
+Il faut examiner les conditions concrètes de cette mobilisation, les fonctions des ressources reprises et les tensions éventuelles entre leurs engagements.
+
+## 6. Ne pas convertir l'histoire en hiérarchie
+
+La distinction de ces traditions ne permet pas d'établir une échelle générale de rationalité ou de validité.
+
+Plusieurs conversions doivent notamment être évitées :
+
+- **Antériorité et infériorité** : une tradition historiquement plus ancienne n'est pas, de ce seul fait, moins pertinente ou moins élaborée.
+- **Genèse et justification** : reconstruire l'origine historique d'une affirmation ne suffit pas à justifier son contenu.
+- **Stabilisation et validité** : la transmission durable d'une tradition ne démontre pas la validité de toutes ses descriptions.
+- **Forme et fonction** : la présence d'un récit, d'un argument ou d'une fiction ne détermine pas automatiquement la fonction qu'il remplit.
+- **Coexistence et compatibilité** : plusieurs traditions peuvent coexister sans que leurs affirmations soient compatibles.
+- **Différence et incompatibilité** : des traditions distinctes peuvent produire des descriptions complémentaires ou porter sur des questions différentes.
+- **Fiction et absence de portée descriptive** : le caractère fictionnel d'une œuvre ne suffit pas à établir qu'elle ne peut contribuer à l'examen de pratiques ou de situations réelles.
+
+Ces distinctions permettent d'examiner les transformations historiques sans leur attribuer une direction nécessaire.
+
+L'histoire d'une tradition et l'évaluation de ses prétentions constituent des examens liés, mais distincts.
+
+## 7. Rapport aux régimes descriptifs
+
+Les traditions historiques présentées ici ne doivent pas être assimilées aux régimes descriptifs définis dans Protokin.
+
+Un régime descriptif désigne l'organisation relativement stabilisée d'une pratique qui produit, utilise et évalue des descriptions.
+
+Une tradition historique peut comporter plusieurs pratiques et plusieurs régimes descriptifs. Inversement, des ressources issues d'une même tradition peuvent être mobilisées dans des pratiques dont les organisations descriptives diffèrent.
+
+La distinction est importante :
+
+- les traditions historiques permettent de situer des pratiques dans des contextes de transmission et de transformation ;
+- les régimes descriptifs permettent d'examiner l'organisation effective des pratiques qui produisent et évaluent des descriptions.
+
+Pour caractériser un régime descriptif, il faut donc examiner les usages, les distinctions, les opérations, les critères et les modalités de contestation effectivement mobilisés.
+
+La seule appartenance à une tradition mythologique, théologique, philosophique ou littéraire ne permet pas de déterminer cette organisation.
+
+Voir [Régime descriptif](fr/regime-descriptif.md), [Identifier un régime](fr/identifier-un-regime.md) et [Une première cartographie des régimes descriptifs](fr/une-premiere-cartographie-des-regimes-descriptifs.md).
+
+## 8. Rapport à Sellars
+
+Le travail de Wilfrid Sellars offre un point de comparaison pour examiner différentes manières de rendre le monde intelligible, notamment à travers sa distinction entre image manifeste et image scientifique.
+
+Ces deux images ne correspondent pas à deux stades historiques successifs. Elles désignent des manières d'organiser et de comprendre le monde, dont les rapports soulèvent des problèmes conceptuels et philosophiques.
+
+Ce rapprochement ne permet cependant pas d'attribuer à Sellars la classification du mythologique, du théologique, du philosophique et du littéraire proposée ici.
+
+Il faut également distinguer le mythologique au sens historique et culturel du *Myth of the Given*.
+
+Dans *Empiricism and the Philosophy of Mind*, le mythe du donné désigne une thèse épistémologique selon laquelle certains contenus de l'expérience pourraient constituer un fondement immédiat et autonome de la connaissance.
+
+La critique sellarsienne ne porte donc pas sur les traditions mythologiques au sens où cette page les examine.
+
+Le rapprochement avec Sellars concerne plutôt une question générale : comment différentes manières de rendre le monde intelligible s'organisent-elles, et dans quelles conditions leurs prétentions peuvent-elles être examinées ?
+
+Pour approfondir ces questions, voir [Wilfrid Sellars](fr/wilfrid-sellars.md).
+
+## 9. Portée et limites
+
+Cette page propose des repères pour comparer plusieurs traditions historiques de production de l'intelligibilité.
+
+Elle permet notamment de :
+
+- distinguer des traditions sans les isoler ;
+- examiner leurs transformations et leurs réappropriations ;
+- éviter de réduire leur histoire à une succession de stades ;
+- différencier leurs formes discursives et leurs fonctions ;
+- interroger les rapports entre traditions historiques et régimes descriptifs.
+
+Elle n'établit pas :
+
+- une classification exhaustive des traditions d'intelligibilité ;
+- une équivalence entre les quatre configurations ;
+- une succession historique nécessaire ;
+- une hiérarchie générale de rationalité ;
+- une correspondance fixe entre tradition et régime descriptif ;
+- une validité déterminée par l'appartenance historique ;
+- une théorie générale de l'évolution des formes de connaissance.
+
+Les quatre configurations présentées constituent des points de départ pour des examens historiques et comparatifs. Leur pertinence dépend des situations et des matériaux étudiés.
 
 ## Synthèse
 
-Le mythologique, le théologique, le philosophique et le littéraire peuvent être distingués comme des configurations historiques de production de l'intelligibilité.
+Le mythologique, le théologique, le philosophique et le littéraire permettent de distinguer plusieurs traditions historiques de production de l'intelligibilité.
 
-Leurs différences ne se ramènent ni à une succession chronologique simple ni à une hiérarchie des formes de connaissance. Elles doivent être examinées à partir des pratiques, des formes et des fonctions qui les constituent.
+Leurs différences ne correspondent ni à quatre catégories homogènes ni à une succession nécessaire. Elles doivent être examinées à partir des pratiques, des formes, des ressources et des transformations qui les caractérisent.
 
-Pour Protokin, leur intérêt réside dans la possibilité d'étudier comment différentes traditions produisent, stabilisent, justifient et transforment leurs descriptions, ainsi que les relations et les tensions qui apparaissent entre elles.
+Pour Protokin, l'intérêt de cette distinction réside dans la possibilité d'étudier les conditions historiques de production des descriptions sans confondre leur genèse, leur organisation et leur justification.
+
+**L'histoire des traditions d'intelligibilité ne détermine pas à elle seule la validité des descriptions qu'elles rendent possibles.**
+
+## Pour poursuivre
+
+- [Une première cartographie des régimes descriptifs](fr/une-premiere-cartographie-des-regimes-descriptifs.md) — Repérer différentes manières d'organiser les descriptions.
+- [Régime descriptif](fr/regime-descriptif.md) — Définir l'organisation d'une pratique descriptive.
+- [Identifier un régime](fr/identifier-un-regime.md) — Examiner les conditions de caractérisation d'un régime dans une pratique.
+- [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md) — Examiner les relations entre plusieurs pratiques descriptives.
+- [Configuration descriptive](fr/configuration-descriptive.md) — Examiner l'organisation des ressources descriptives.
+- [Wilfrid Sellars](fr/wilfrid-sellars.md) — Examiner les rapports entre expérience, explication et espace des raisons.
+- [Table des matières](fr/tdm.md) — Parcourir les ressources du corpus.
