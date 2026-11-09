@@ -420,9 +420,9 @@ Elles imposent d'examiner ce qui autorise chaque passage et quelles conclusions 
 
 Elles ne préjugent pas non plus de la manière dont les catégories descriptives doivent être révisées lorsque de nouvelles connaissances scientifiques apparaissent.
 
-Les [orientations de l'examen](https://fr/orientation-de-l-examen.md?utm_source=chatgpt.com) permettent de situer ces difficultés sous différents rapports, sans en faire quatre domaines indépendants ou une grille obligatoire.
+Les [orientations de l'examen](fr/orientation-de-l-examen.md) permettent de situer ces difficultés sous différents rapports, sans en faire quatre domaines indépendants ou une grille obligatoire.
 
-Les analyses de l'[espace des raisons](https://fr/espace-des-raisons.md?utm_source=chatgpt.com), de la [justification](https://fr/justification.md?utm_source=chatgpt.com) et des [critères](https://fr/critere.md?utm_source=chatgpt.com) développent les distinctions nécessaires à cet examen.
+Les analyses de l'[espace des raisons](espace-des-raisons.md), de la [justification](fr/justification.md) et des [critères](critere.md) développent les distinctions nécessaires à cet examen.
 
 ## 8. Mise à l'épreuve : « Ce vélo est rouge »
 
