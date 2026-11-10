@@ -2,168 +2,173 @@
 
 ## Fonction
 
-Cette page présente les ressources actuellement identifiées dans Protokin pour examiner les pratiques descriptives. Elle précise leur fonction, leurs différences et les conditions de leur mobilisation.
+Cette page présente les ressources que Protokin met à disposition pour examiner les pratiques descriptives. Elle distingue les travaux d'examen, les rapports sous lesquels ils peuvent être conduits, les dimensions qui les traversent et les moyens qui permettent de confronter leurs résultats.
 
-L'architecture ne constitue pas une représentation préalable de toute enquête. Elle rassemble des ressources disponibles pour construire un examen situé, en fonction d'une difficulté déterminée.
+Cette architecture n'est ni une méthode universelle ni une représentation préalable de toute enquête. Elle constitue un répertoire organisé de ressources dont la mobilisation dépend des difficultés rencontrées.
 
-Les opérations, les orientations, les fonctions transversales et les instruments d'épreuve ne constituent ni des étapes obligatoires ni les cases d'une grille à remplir. Ils peuvent être sélectionnés, combinés, réordonnés ou laissés de côté selon les besoins de l'examen.
+Une enquête peut sélectionner, combiner, réordonner ou laisser de côté ces ressources. Elle peut également révéler qu'une distinction est insuffisante, qu'une fonction est mal définie ou qu'un moyen d'examen manque. L'architecture doit alors pouvoir être révisée.
 
-Leur organisation constitue un état révisable du projet. Une enquête peut conduire à modifier le chemin suivi, mais aussi à préciser, déplacer ou réviser les ressources de l'architecture elle-même.
+**L'architecture organise des ressources pour l'enquête ; elle ne détermine pas à l'avance le parcours que toute enquête devrait suivre.**
 
-## Principe de construction située de l'enquête
+## 1. Des ressources de fonctions différentes
 
-Protokin ne propose pas une carte préalable à laquelle toute enquête devrait se conformer. Il met à disposition un ensemble de ressources permettant d'examiner des difficultés descriptives déterminées.
+L'architecture fonctionnelle distingue quatre ensembles de ressources :
 
-Les catégories, les opérations, les orientations, les fonctions transversales et les instruments ne constituent pas les étapes ou les dimensions obligatoires d'un parcours universel. Ils permettent de différencier les travaux possibles et de construire un chemin adapté à la difficulté rencontrée.
-
-Ce chemin est situé : il dépend du problème examiné, des pratiques concernées, des éléments disponibles et des résultats progressivement obtenus.
-
-Il peut comporter des bifurcations, des reprises, des déplacements et des révisions. Il ne doit pas nécessairement mobiliser toutes les ressources disponibles ni respecter leur ordre de présentation.
-
-L'enquête peut également révéler que les ressources de Protokin sont insuffisantes, mal distinguées ou inadéquates à la difficulté rencontrée. Cette possibilité engage la révision de l'architecture elle-même.
-
-L'architecture fournit des ressources pour construire l'enquête ; l'enquête permet d'éprouver et de réviser l'architecture.
-
-## 1. Les composantes de l'architecture
-
-| Composante | Fonction |
+| Ressource | Fonction |
 |---|---|
-| **Catégories de regroupement** | Organiser les opérations selon leurs proximités fonctionnelles. |
-| **Opérations** | Désigner les travaux d'examen mobilisés pour traiter une difficulté descriptive. |
+| **Opérations** | Désigner les travaux d'examen mobilisables pour traiter une difficulté descriptive. |
 | **Orientations** | Préciser sous quel rapport une situation, une pratique ou un résultat est examiné. |
-| **Fonctions transversales** | Désigner des dimensions susceptibles d'intervenir dans plusieurs opérations. |
-| **Instruments d'épreuve** | Fournir des moyens concrets pour examiner des distinctions, des descriptions ou des conclusions. |
+| **Fonctions transversales** | Désigner des dimensions de l'examen susceptibles d'intervenir dans plusieurs opérations. |
+| **Instruments d'épreuve** | Fournir des moyens concrets pour confronter des descriptions, des distinctions ou des conclusions à un examen. |
 
-Ces composantes ne sont ni des niveaux ni des phases successives. Elles répondent à des fonctions distinctes et peuvent être mobilisées conjointement.
+Ces ensembles ne constituent ni des niveaux hiérarchiques ni des phases successives. Ils ne sont pas non plus interchangeables : une opération désigne un travail, une orientation précise un rapport d'examen, une fonction transversale caractérise une dimension susceptible de traverser plusieurs travaux, et un instrument désigne un moyen mobilisable.
 
-Les opérations constituent le principal ensemble de travaux d'examen. Les autres composantes contribuent à les situer, à les orienter, à les compléter ou à mettre leurs résultats à l'épreuve.
+Les catégories utilisées pour regrouper les opérations ont une autre fonction. Elles facilitent le repérage et la lecture du répertoire ; elles ne constituent pas un ensemble supplémentaire de ressources à mobiliser dans l'enquête.
 
 ## 2. Les opérations de l'enquête
 
-Les opérations désignent les travaux de second ordre par lesquels Protokin examine les pratiques descriptives et les difficultés qu'elles rencontrent.
+Les opérations désignent les travaux de second ordre par lesquels Protokin examine les pratiques descriptives, leurs conditions, leurs fonctions, leurs relations et leurs justifications.
 
-Huit opérations sont actuellement identifiées :
+Huit opérations sont actuellement distinguées :
 
-**Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter**
+- **Délimiter** : formuler la difficulté et préciser ce qui demande à être examiné.
+- **Ancrer** : identifier les situations, les éléments et les contraintes auxquels l'examen doit se rapporter.
+- **Distinguer** : établir les différences pertinentes et prévenir les confusions entre des termes, des fonctions ou des niveaux d'analyse.
+- **Relier** : examiner les relations, les dépendances et la portée des rapports établis.
+- **Configurer** : reconstruire l'organisation descriptive des éléments, des distinctions et des relations examinés.
+- **Justifier** : examiner les raisons, les critères et les engagements qui soutiennent une description ou une conclusion.
+- **Reconstituer** : rendre intelligible le cheminement d'une pratique, d'une transformation ou d'un examen.
+- **Redélimiter** : réexaminer la formulation du problème à la lumière des résultats et des difficultés apparus en cours d'enquête.
 
-Elles peuvent être mobilisées conjointement, séparément ou reprises en fonction du problème. Leur ordre de présentation ne constitue pas une succession obligatoire.
+Cette liste constitue un répertoire de référence, non une séquence à parcourir intégralement. Les opérations peuvent être mobilisées séparément ou conjointement, reprises ou laissées de côté. Leur ordre de présentation ne prescrit pas l'ordre du travail.
 
-Les opérations ne se confondent pas avec les activités des pratiques étudiées. Mesurer, classer, interpréter ou produire une assertion sont des activités susceptibles d'être examinées ; les opérations de Protokin portent sur leurs conditions, leurs fonctions, leurs relations et leurs justifications.
+Elles ne se confondent pas avec les activités des pratiques étudiées. Mesurer, classer, interpréter ou produire une assertion sont des activités susceptibles d'être examinées ; les opérations de Protokin portent sur les conditions, les fonctions, les relations et les justifications de telles activités.
 
-Les définitions détaillées et les articulations propres à chaque opération sont présentées dans [Les opérations de référence et leurs articulations](fr/la-chaine-principale-de-l-enquete.md).
-
-### Catégories de regroupement
-
-Pour faciliter la lecture de cet ensemble, les opérations sont actuellement réunies en quatre catégories :
+Pour faciliter la lecture, les opérations peuvent être présentées selon quatre regroupements :
 
 - **Cadrage du problème** : Délimiter et Ancrer.
 - **Analyse des différences et des relations** : Distinguer et Relier.
 - **Construction descriptive et examen justificatif** : Configurer et Justifier.
 - **Reconstitution et révision du problème** : Reconstituer et Redélimiter.
 
-Ces regroupements signalent des proximités fonctionnelles. Ils ne fixent ni l'ordre de mobilisation des opérations ni leur appartenance exclusive à une catégorie.
+Ces regroupements signalent des proximités fonctionnelles. Ils ne constituent pas des catégories exhaustives, ne fixent pas l'appartenance exclusive des opérations et ne déterminent pas leur ordre de mobilisation.
 
-Une opération supplémentaire peut être envisagée lorsqu'un travail d'examen distinct répond à une difficulté identifiable et apporte un gain que les ressources existantes ne permettent pas d'obtenir sans perte importante. Une activité nouvelle ne justifie donc pas automatiquement la création d'une opération.
+Une opération supplémentaire ne se justifie que si un travail d'examen distinct répond à une difficulté identifiable et apporte un gain qui ne peut être obtenu par les ressources existantes sans perte importante.
+
+Les définitions détaillées et les articulations propres à chaque opération sont présentées dans [Les opérations de référence et leurs articulations](fr/la-chaine-principale-de-l-enquete.md).
 
 ## 3. Les orientations de l'examen
 
-Une orientation précise le rapport sous lequel une situation, une pratique, une opération ou un résultat est examiné.
+Une orientation précise le rapport sous lequel une situation, une pratique, une opération ou un résultat est examiné. Elle aide à déterminer quelle question est posée, sans prescrire à elle seule le travail nécessaire pour y répondre.
 
 Protokin distingue actuellement quatre orientations de référence :
 
-- **Condition**
-- **Relation**
-- **Fonction**
-- **Justification**
-
-Elles permettent de différencier les questions posées sans déterminer à elles seules le travail nécessaire pour y répondre.
+- **Condition** : examiner les conditions, les contraintes et les appuis dont dépend une situation ou une pratique.
+- **Relation** : examiner les rapports, les dépendances et les transformations qui unissent les éléments considérés.
+- **Fonction** : examiner le rôle et le travail accomplis par un élément dans une pratique déterminée.
+- **Justification** : examiner les raisons, les critères et les engagements susceptibles de soutenir une description ou une conclusion.
 
 Une même opération peut contribuer à plusieurs orientations. Une orientation peut, inversement, nécessiter plusieurs opérations. Il n'existe donc pas de correspondance fixe entre les deux.
+
+Ces orientations sont des repères disponibles, non les dimensions obligatoires de tout examen. Leur répertoire reste ouvert : une orientation supplémentaire ne serait pertinente que si une difficulté fait apparaître un rapport d'examen distinct que les orientations existantes ne permettent pas de traiter adéquatement.
 
 La définition des orientations, leurs distinctions et les conditions de leur révision sont développées dans [Orientation de l'examen](fr/orientation-de-l-examen.md).
 
 ## 4. Les fonctions transversales
 
-Les fonctions transversales désignent des dimensions de l'examen qui peuvent intervenir dans plusieurs opérations.
+Les fonctions transversales désignent des dimensions de l'examen susceptibles d'intervenir dans plusieurs opérations. Elles ne constituent pas une seconde série d'opérations et ne correspondent pas à des étapes supplémentaires.
 
 Les fonctions actuellement identifiées sont :
 
-- **Temporaliser** : examiner les transformations au cours du temps.
-- **Expliquer** : examiner les processus et les mécanismes susceptibles de rendre compte d'une situation ou d'une transformation.
-- **Auditer** : examiner les distinctions, les dépendances, les inférences et les engagements mobilisés.
-- **Réfléchir** : examiner les présupposés, les choix et les limites de l'enquête elle-même.
-- **Éprouver** : confronter les résultats de l'examen à des éléments susceptibles de les confirmer, de les limiter ou de les contester.
+- **Temporaliser** : examiner les successions, les durées, les rythmes et les transformations au cours du temps.
+- **Expliquer** : examiner les processus, les mécanismes et les facteurs susceptibles de rendre compte de la production ou de la transformation d'une situation.
+- **Auditer** : examiner les distinctions, les dépendances, les inférences et les engagements mobilisés dans une description ou un raisonnement.
+- **Réfléchir** : examiner les présupposés, les choix, les limites et les effets de l'enquête elle-même.
+- **Éprouver** : confronter les descriptions et les résultats de l'examen à des éléments susceptibles de les confirmer, de les limiter ou de les contester.
 
-Ces fonctions ne constituent pas une seconde chaîne d'opérations. Elles désignent des dimensions susceptibles de traverser plusieurs travaux sans devenir pour autant des opérations autonomes.
+Ces fonctions ne sont pas homogènes par leur objet immédiat. Leur caractère transversal tient à leur mode d'intervention : chacune peut contribuer à plusieurs travaux d'examen sans se substituer à eux.
 
-Leur inventaire reste révisable. Une fonction supplémentaire doit correspondre à une dimension identifiable qui ne se réduit pas à une opération, une orientation ou un instrument déjà reconnu.
+Elles ne doivent pas être confondues avec les orientations. Une orientation précise le rapport sous lequel une situation est examinée ; une fonction transversale désigne une dimension de travail qui peut intervenir dans différents examens. Elles ne doivent pas davantage être confondues avec les instruments : une fonction caractérise ce que l'examen cherche à accomplir, tandis qu'un instrument désigne un moyen particulier de le conduire.
 
-## 5. Les instruments d'épreuve
+L'inventaire reste révisable. Une fonction supplémentaire doit correspondre à une dimension identifiable qui ne se réduit pas à une opération, une orientation ou un instrument déjà reconnu.
 
-Les instruments d'épreuve sont des moyens concrets permettant de confronter les éléments d'une enquête à un examen déterminé.
+## 5. Les instruments et modalités d'épreuve
 
-Quatre instruments sont actuellement distingués :
+Les instruments d'épreuve sont des moyens mobilisables pour confronter une description, une distinction ou une conclusion à un examen déterminé. Ils ne produisent pas mécaniquement un verdict et ne garantissent pas, à eux seuls, la validité d'un résultat.
+
+Trois instruments sont actuellement distingués :
 
 - **Substitution** : remplacer un terme, une catégorie ou un élément d'une description afin d'examiner les conséquences du remplacement.
-- **Cas** : examiner une situation déterminée pour préciser la portée ou les limites d'une proposition.
-- **Comparaison** : confronter plusieurs descriptions ou situations afin d'examiner leurs différences et leurs rapports.
-- **Reprise** : réexaminer une description, une distinction ou une conclusion à la lumière d'une difficulté ou d'un nouvel élément.
+- **Cas** : examiner une situation déterminée pour préciser la portée, les conditions ou les limites d'une proposition.
+- **Comparaison** : confronter plusieurs descriptions ou situations afin d'examiner leurs différences, leurs proximités et les rapports qu'il est possible d'établir entre elles.
 
-Ces instruments peuvent être mobilisés dans plusieurs opérations et sous différentes orientations. Ils ne produisent pas mécaniquement un verdict et ne garantissent pas, à eux seuls, la validité d'un résultat.
+La **Reprise** doit être distinguée de ces instruments. Elle désigne une modalité générale de réexamen : reprendre une opération, une description, une distinction ou une conclusion à la lumière d'une difficulté, d'une objection ou d'un nouvel élément. Elle peut mobiliser une substitution, un cas ou une comparaison, mais ne constitue pas un moyen d'épreuve du même type.
 
-Ils restent distincts de la fonction transversale **Éprouver** : celle-ci désigne une dimension de l'examen, tandis que les instruments désignent certains moyens concrets de sa mise en œuvre.
+Cette distinction n'interdit pas de conserver Reprise dans les repères pratiques de conduite de l'enquête. Elle évite simplement de placer sous une même désignation des moyens d'examen et un mouvement général de révision.
 
-D'autres instruments peuvent être reconnus si leur fonction et leur apport se distinguent suffisamment des ressources existantes.
+Les instruments peuvent intervenir dans plusieurs opérations et sous différentes orientations. D'autres instruments peuvent être reconnus si leur fonction et leur apport se distinguent suffisamment des moyens existants.
 
-## 6. Articulation des composantes
+## 6. Articuler les ressources sans les confondre
 
-Les composantes de l'architecture peuvent être articulées sans être confondues.
+Une difficulté descriptive peut conduire à mobiliser une ou plusieurs opérations. Celles-ci peuvent être conduites sous une ou plusieurs orientations, traversées par des fonctions transversales et accompagnées d'instruments d'épreuve.
 
-Une difficulté conduit à mobiliser une ou plusieurs opérations. Celles-ci peuvent être conduites sous différentes orientations, traversées par des fonctions transversales et accompagnées d'instruments d'épreuve.
-
-Cette articulation ne repose pas sur des associations obligatoires :
+Ces articulations sont possibles, mais elles ne sont pas prescrites :
 
 - une opération ne détermine pas une orientation unique ;
 - une orientation ne prescrit pas une opération particulière ;
 - une fonction transversale ne constitue pas automatiquement une opération supplémentaire ;
-- un instrument peut intervenir dans plusieurs opérations ;
-- une catégorie de regroupement ne détermine pas les conditions d'emploi des opérations qu'elle rassemble.
+- un instrument peut contribuer à plusieurs opérations et à plusieurs orientations ;
+- un regroupement documentaire ne détermine ni les conditions ni l'ordre d'emploi des opérations ;
+- une reprise peut conduire à mobiliser de nouveau une ressource, à en choisir une autre ou à reformuler le problème.
 
-Le **plateau d'enquête** constitue une ressource complémentaire de représentation. Il peut rendre visibles les opérations mobilisées, les éléments examinés et leurs relations dans une enquête déterminée. Il ne constitue pas une composante supplémentaire de l'architecture et ne remplace pas les instruments d'épreuve.
+L'enquête ne consiste donc pas à remplir une grille en associant systématiquement une opération, une orientation, une fonction et un instrument. Elle consiste à déterminer quelles ressources sont pertinentes pour la difficulté rencontrée, à expliciter les raisons de leur mobilisation et à examiner les résultats obtenus.
 
-Sa fonction et ses modalités sont présentées dans [Le plateau d'enquête](fr/plateau-d-enquete.md).
+Le **plateau d'enquête** constitue une ressource complémentaire de représentation. Il peut rendre visibles les opérations mobilisées, les éléments examinés et les passages entre les différents travaux. Les orientations, les fonctions transversales et les instruments peuvent y être indiqués lorsqu'ils contribuent à rendre le cheminement intelligible.
 
-## 7. Révision de l'architecture
+Le plateau ne constitue pas une composante supplémentaire de l'architecture. Il ne remplace ni les opérations ni les instruments d'épreuve. Sa fonction et ses modalités sont présentées dans [Le plateau d'enquête](fr/plateau-d-enquete.md).
 
-L'architecture fonctionnelle constitue un état révisable de l'organisation des ressources de Protokin.
+## 7. Réviser l'architecture
 
-Une modification peut être envisagée lorsqu'une difficulté d'enquête révèle, par exemple, qu'une opération est insuffisamment définie, qu'une distinction entre composantes ne fonctionne pas ou qu'une ressource existante ne permet pas de traiter une difficulté persistante.
+L'architecture fonctionnelle constitue un état révisable de l'organisation des ressources de Protokin. Sa cohérence interne ne suffit pas à justifier son maintien : elle doit pouvoir être confrontée aux difficultés effectivement rencontrées dans les enquêtes.
 
-Toute révision doit préciser :
+Une révision peut être envisagée lorsqu'une enquête révèle, par exemple :
+
+- qu'une opération est insuffisamment définie ou recouvre le travail d'une autre ;
+- qu'une orientation ne permet pas de différencier une question importante ;
+- qu'une fonction dite transversale se réduit en réalité à une opération ou à un instrument ;
+- qu'un instrument ne se distingue pas suffisamment des moyens déjà disponibles ;
+- qu'une distinction entre les ensembles de ressources produit des confusions ;
+- que l'architecture ne permet pas de rendre compte d'un travail d'examen effectivement nécessaire.
+
+Toute proposition de modification doit préciser :
 
 - la difficulté qui la motive ;
 - la fonction de la ressource concernée ;
-- ce qui la distingue des autres composantes ;
-- le gain attendu de la modification ;
-- ses conséquences sur les autres ressources.
+- ce qui la distingue des ressources existantes ;
+- le gain attendu et les éventuelles pertes ;
+- les conséquences sur les autres pages et sur l'organisation du corpus.
 
-La cohérence interne de l'architecture ne suffit pas à justifier sa conservation. Son organisation doit rester confrontable aux difficultés effectivement rencontrées dans les enquêtes.
+Une activité nouvelle ne justifie donc pas automatiquement une nouvelle opération, une nouvelle orientation ou un nouvel instrument. Il faut établir le problème auquel la ressource proposée répond et vérifier qu'elle n'est pas déjà prise en charge par une ressource existante.
+
+L'enquête peut ainsi conduire à réviser non seulement ses propres choix, mais aussi les distinctions et les relations par lesquelles Protokin organise les ressources de l'examen.
 
 ## Synthèse
 
-L'architecture fonctionnelle distingue cinq composantes : les catégories de regroupement, les opérations, les orientations, les fonctions transversales et les instruments d'épreuve.
+L'architecture fonctionnelle distingue quatre ensembles de ressources : les opérations, les orientations, les fonctions transversales et les instruments d'épreuve.
 
-Les opérations désignent les travaux d'examen. Les orientations précisent les rapports sous lesquels ils sont conduits. Les fonctions transversales désignent des dimensions susceptibles de traverser plusieurs opérations. Les instruments fournissent des moyens concrets de mettre certains résultats à l'épreuve. Les catégories facilitent la lecture de l'ensemble.
+Les opérations désignent les travaux d'examen. Les orientations précisent les rapports sous lesquels les situations et les pratiques sont examinées. Les fonctions transversales désignent des dimensions susceptibles d'intervenir dans plusieurs opérations. Les instruments fournissent des moyens concrets de confronter certains éléments et résultats à l'examen.
 
-Ces composantes peuvent être articulées sans être ramenées les unes aux autres. Leur organisation reste révisable en fonction des difficultés rencontrées.
+Les regroupements des opérations facilitent leur repérage, sans constituer une composante supplémentaire de l'architecture. La Reprise désigne une modalité générale de réexamen plutôt qu'un instrument du même type que la substitution, le cas ou la comparaison.
 
-**L'architecture fonctionnelle organise les ressources de l'enquête sans imposer une procédure ni fixer à l'avance toutes les formes possibles de l'examen.**
+Ces ressources peuvent être articulées sans être ramenées les unes aux autres. Leur mobilisation dépend des difficultés rencontrées et leur organisation reste révisable.
+
+**L'architecture fonctionnelle distingue les ressources nécessaires à l'examen sans transformer leurs distinctions en procédure préalable.**
 
 ## Pour poursuivre
 
-- [Architecture du projet](fr/architecture-projet.md) — Organisation documentaire du corpus.
-- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Définition des rapports sous lesquels une situation peut être examinée.
-- [Les opérations de référence et leurs articulations](fr/la-chaine-principale-de-l-enquete.md) — Présentation des opérations.
-- [Le plateau d'enquête](fr/plateau-d-enquete.md) — Représentation d'une enquête déterminée.
-- [Conduire une enquête](fr/conduire-une-enquete.md) — Repères pratiques pour mobiliser les ressources de l'enquête.
-- [Table des matières](fr/tdm.md) — Navigation dans le corpus.
+- [Architecture du projet](fr/architecture-projet.md) — Présenter l'organisation documentaire du corpus.
+- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Définir les rapports sous lesquels une situation peut être examinée.
+- [Les opérations de référence et leurs articulations](fr/la-chaine-principale-de-l-enquete.md) — Présenter les opérations et leurs articulations.
+- [Le plateau d'enquête](fr/plateau-d-enquete.md) — Représenter le chemin suivi dans une enquête déterminée.
+- [Conduire une enquête](fr/conduire-une-enquete.md) — Proposer des repères pratiques pour mobiliser les ressources de l'enquête.
+- [Table des matières](fr/tdm.md) — Naviguer dans le corpus.
