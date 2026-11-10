@@ -2,41 +2,11 @@
 
 ## Fonction
 
-Cette page propose une méthode courte pour passer d'une difficulté descriptive à un travail d'examen.
+Cette page propose des repères pratiques pour conduire un examen à partir d'une difficulté descriptive.
 
-Elle aide à préciser le problème, à déterminer ce qui reste à établir et à choisir une reprise adaptée. Elle ne constitue pas une procédure obligatoire : les questions proposées peuvent être adaptées à la situation.
+Elle aide à préciser le problème, à déterminer ce qui reste à établir et à choisir les travaux à reprendre. Elle ne constitue pas une procédure obligatoire : les questions et les opérations proposées peuvent être adaptées à la situation.
 
-## 0. Construire un chemin d'enquête
-
-1. Formuler la difficulté rencontrée
-
-Préciser ce qui ne peut plus être suffisamment décrit, distingué, expliqué ou justifié dans la pratique examinée.
-
-La formulation est provisoire. Elle peut être modifiée à mesure que l'enquête progresse.
-
-2. Déterminer ce qui doit être examiné
-
-Identifier les questions pertinentes pour traiter la difficulté.
-
-Les orientations de l'examen peuvent aider à préciser sous quels rapports la situation doit être étudiée. Elles ne constituent pas une grille à remplir.
-
-Toutes les orientations ne sont pas nécessairement pertinentes. Une question peut également conduire à reconnaître un rapport d'examen qui n'est pas suffisamment caractérisé dans le répertoire actuel.
-
-3. Choisir les travaux nécessaires
-
-Identifier les opérations qui permettent de traiter les questions retenues.
-
-Le choix dépend du travail encore nécessaire, et non de l'ordre de présentation des opérations. Plusieurs opérations peuvent être mobilisées conjointement ou successivement.
-
-Les fonctions transversales et les instruments d'épreuve peuvent être introduits lorsqu'ils apportent une contribution identifiable.
-
-4. Construire et réviser le chemin
-
-Représenter, lorsque cela est utile, les opérations mobilisées, leurs dépendances, les éléments examinés et les résultats obtenus.
-
-Le chemin peut être modifié lorsque de nouvelles difficultés apparaissent. Une reprise peut conduire à revenir sur une opération, à modifier une orientation ou à examiner la pertinence des ressources utilisées.
-
-L'enquête ne vise pas à parcourir toutes les ressources de Protokin. Elle vise à construire un examen proportionné à la difficulté rencontrée et à rendre explicites les raisons des choix effectués.
+Conduire une enquête ne consiste pas à suivre un chemin prédéfini jusqu'à une résolution. L'examen se construit par des mobilisations et des reprises d'opérations. Les relations entre ces différents travaux peuvent ensuite être reconstruites et réexaminées à partir des résultats obtenus.
 
 ## 1. Formuler la difficulté
 
@@ -48,20 +18,24 @@ Préciser :
 - Dans quelle situation ou pratique la difficulté apparaît-elle ?
 - Qu'est-ce qui reste incertain, contesté ou insuffisamment établi ?
 
-Formuler le problème en une ou deux phrases. Cette formulation est provisoire : elle pourra être modifiée au cours de l'enquête.
+Formuler le problème en une ou deux phrases. Cette formulation est provisoire : elle pourra être précisée, déplacée ou redélimitée au cours de l'enquête.
+
+Une difficulté initialement identifiée peut en effet en faire apparaître une autre. Il ne faut donc pas présumer que la formulation de départ détermine déjà l'ensemble du travail à conduire.
 
 ## 2. Préciser ce qu'il faut examiner
 
 Déterminer quelles questions sont pertinentes pour traiter la difficulté.
 
-Selon le cas, examiner :
+Les orientations de l'examen peuvent aider à préciser sous quels rapports la situation doit être étudiée :
 
-- **Les conditions** : sur quels éléments matériels, observations ou documents l'examen peut-il s'appuyer ?
-- **Les relations** : quelles dépendances ou médiations doivent être établies ?
-- **Les fonctions** : quel rôle les descriptions et les distinctions jouent-elles dans la pratique étudiée ?
-- **Les justifications** : quelles raisons et quels critères soutiennent les conclusions avancées ?
+- **Condition** : sur quels éléments matériels, observations, documents ou contraintes l'examen peut-il s'appuyer ?
+- **Relation** : quelles dépendances ou médiations doivent être établies entre les éléments concernés ?
+- **Fonction** : quel rôle les descriptions, les distinctions ou les catégories jouent-elles dans la pratique étudiée ?
+- **Justification** : quelles raisons, quels critères et quels engagements soutiennent les conclusions avancées ?
 
-Ces orientations ne forment pas une grille à remplir. Ne retenir que celles qui aident effectivement à préciser le problème.
+Ces orientations ne forment pas une grille à remplir. Ne retenir que celles qui contribuent effectivement à préciser le problème.
+
+Une même difficulté peut appeler plusieurs questions. Inversement, une question peut devenir pertinente seulement après un premier examen. Les orientations peuvent donc être introduites, précisées ou révisées au cours de l'enquête.
 
 ## 3. Repérer les passages à examiner
 
@@ -77,6 +51,8 @@ Vérifier notamment :
 
 Il ne s'agit pas de présumer qu'une conversion est injustifiée, mais d'examiner le passage qui permettrait de la soutenir.
 
+Le repérage peut conduire à reprendre une distinction, à préciser les conditions d'une relation ou à réexaminer les raisons avancées. Il peut également faire apparaître que la difficulté initiale doit être reformulée.
+
 ## 4. Choisir le travail à reprendre
 
 Choisir l'opération en fonction de ce qui manque encore :
@@ -84,38 +60,53 @@ Choisir l'opération en fonction de ce qui manque encore :
 | Difficulté constatée | Travail à reprendre |
 |---|---|
 | Le problème est mal circonscrit. | **Délimiter** |
-| Les éléments disponibles sont insuffisants. | **Ancrer** |
+| Les éléments disponibles sont insuffisants ou mal situés. | **Ancrer** |
 | Des différences ou des fonctions sont confondues. | **Distinguer** |
 | Une dépendance reste incertaine. | **Relier** |
 | Les éléments sont mal organisés au regard du problème. | **Configurer** |
 | Une conclusion est insuffisamment soutenue. | **Justifier** |
-| Le cheminement de l'examen reste difficile à reconstituer. | **Reconstituer** |
+| Les transformations d'une pratique ou d'un examen doivent être rendues intelligibles. | **Reconstituer** |
 | Le problème initial doit être reformulé. | **Redélimiter** |
 
-Une difficulté peut appeler plusieurs opérations. Il n'est pas nécessaire de parcourir toute la chaîne ni de respecter son ordre de présentation.
+Une difficulté peut appeler plusieurs opérations, simultanément ou à différents moments de l'examen. Une opération déjà mobilisée peut être reprise lorsque de nouveaux éléments ou les résultats d'un autre examen conduisent à la réinterroger.
 
-## 5. Consigner le résultat
+Le choix ne dépend donc pas de la position d'une opération dans la liste, mais du travail qui reste à accomplir. Il n'est pas nécessaire de parcourir toutes les opérations ni de respecter leur ordre de présentation.
+
+La reprise ne signifie pas simplement répéter un travail antérieur. Elle peut en modifier l'objet, les conditions ou la portée.
+
+## 5. Consigner les résultats et reconstruire les relations entre les examens
 
 À chaque reprise, noter brièvement :
 
 - **Difficulté examinée** : qu'est-ce qui posait problème ?
-- **Travail effectué** : quelle opération a été mobilisée ?
-- **Résultat** : qu'est-ce qui a pu être établi ou corrigé ?
+- **Travail effectué** : quelle opération a été mobilisée ou reprise ?
+- **Orientation** : sous quel rapport la difficulté a-t-elle été examinée ?
+- **Résultat** : qu'est-ce qui a pu être établi, corrigé ou précisé ?
 - **Limite** : qu'est-ce qui reste incertain ou contestable ?
-- **Suite** : faut-il poursuivre, reprendre une autre opération ou reformuler le problème ?
+- **Nouvelle difficulté** : qu'est-ce que le résultat conduit éventuellement à réexaminer ?
+
+Ces indications permettent de conserver la trace des travaux effectués sans transformer leur succession en procédure.
+
+À partir des résultats disponibles, il devient possible de reconstruire les relations entre les différents examens : dépendances, continuités, déplacements, bifurcations et reprises. Cette reconstruction ne restitue pas nécessairement un parcours qui aurait été cohérent dès son commencement. Elle articule rétrospectivement des travaux dont la portée a pu se transformer au cours de l'enquête.
+
+Il convient donc de distinguer ce qui s'est effectivement produit, ce qui pouvait être envisagé au moment de l'examen et ce qui devient intelligible depuis une situation ultérieure. La cohérence de la reconstruction ne démontre pas que le résultat était prévisible ou nécessaire.
 
 L'enquête peut s'arrêter lorsque le problème est suffisamment traité pour l'objectif poursuivi et que les incertitudes restantes sont explicites. Elle peut aussi conclure que les éléments disponibles ne permettent pas de trancher.
 
 ## Synthèse
 
-Conduire une enquête consiste à formuler une difficulté, déterminer ce qu'il faut examiner, repérer les passages qui demandent à être justifiés et choisir un travail adapté.
+Conduire une enquête consiste à formuler une difficulté, déterminer ce qu'il faut examiner, repérer les passages qui demandent à être justifiés et choisir les travaux à reprendre.
 
-Les opérations et les orientations sont des ressources pour conduire cet examen, non les étapes d'une procédure à appliquer intégralement.
+Les opérations et les orientations sont des ressources pour conduire cet examen, non les étapes d'une procédure à appliquer intégralement. Les reprises peuvent transformer la formulation du problème et conduire à réexaminer des résultats antérieurs.
 
-**Une enquête progresse lorsque chaque reprise répond à une difficulté identifiable et produit un résultat dont la portée et les limites peuvent être explicitées.**
+La reconstruction des relations entre les différents examens rend leur organisation intelligible depuis une situation ultérieure. Elle reste située et révisable : elle ne transforme pas la succession effective des travaux en progression nécessaire vers une résolution.
+
+**Une enquête se construit par des reprises motivées par des difficultés identifiables. Sa reconstruction rétrospective permet d'examiner les relations entre ses travaux sans présumer de leur ordre nécessaire ni de leur résolution.**
 
 ## Pour poursuivre
 
 - [Orientation de l'examen](fr/orientation-de-l-examen.md) — Préciser les rapports sous lesquels examiner une situation.
 - [Les opérations de référence et leurs articulations](fr/la-chaine-principale-de-l-enquete.md) — Consulter les fonctions des opérations.
+- [Temporaliser](fr/temporaliser.md) — Examiner les temporalités effective, prospective et rétrospective.
+- [Le plateau d'enquête](fr/plateau-d-enquete.md) — Représenter et reconstruire les relations entre les opérations et les configurations d'une enquête.
 - [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer les différentes ressources de l'enquête.
