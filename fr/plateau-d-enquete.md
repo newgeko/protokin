@@ -83,28 +83,17 @@ Une punaise peut être accompagnée d'une indication précisant :
 - le résultat obtenu ;
 - la question qui reste à traiter.
 
-### 3.2. Le fil rouge : le chemin de l'enquête
+### 3.2. Le fil rouge : une reconstruction rétrospective
 
-Le fil rouge relie les punaises et matérialise le chemin effectivement construit par l'enquête.
+Le fil rouge ne représente pas un chemin unique que l'enquête aurait nécessairement parcouru. Il matérialise une reconstruction possible des relations entre les opérations mobilisées et les configurations rencontrées.
 
-Il représente les passages entre les opérations, autrement dit les déplacements du travail d'examen au cours du temps.
+Le déroulement effectif d'une enquête comporte des hésitations, des bifurcations, des reprises et des transformations qui ne forment pas nécessairement une progression continue. Ce n'est souvent que depuis une situation ultérieure que certaines dépendances deviennent identifiables et que des éléments auparavant dispersés peuvent être articulés.
 
-Ce chemin n'est pas la reproduction de la chaîne de référence des opérations. Il est construit à partir des besoins de l'enquête.
+Le fil rouge rend visible cette articulation rétrospective. Il ne restitue donc pas simplement l'ordre chronologique des opérations : il indique les relations que l'enquête établit entre elles pour rendre intelligible un parcours.
 
-Une opération peut conduire à une autre lorsque l'examen fait apparaître un travail supplémentaire à effectuer. Elle peut également conduire à revenir sur une opération déjà mobilisée.
+Cette reconstruction reste contingente et révisable. D'autres relations peuvent être établies, certaines continuités peuvent être contestées et une configuration ultérieure peut conduire à réinterpréter les étapes précédentes.
 
-Le fil rouge peut ainsi représenter :
-
-- une progression vers une nouvelle opération ;
-- un retour sur une opération antérieure ;
-- une bifurcation lorsque plusieurs travaux deviennent nécessaires ;
-- une reprise lorsque de nouveaux éléments modifient l'examen ;
-- une interruption lorsque les éléments disponibles ne permettent pas de poursuivre ;
-- une nouvelle délimitation lorsque le problème initial doit être reformulé.
-
-Le fil rouge ne signifie pas que les opérations sont nécessairement dépendantes les unes des autres au sens théorique. Il indique qu'un passage a été effectué ou envisagé dans le chemin de cette enquête.
-
-Sa fonction est de rendre visible la continuité du travail sans présupposer une succession universelle.
+Le fil rouge ne représente ainsi ni une progression nécessaire vers une résolution, ni la découverte d'un ordre qui aurait été présent dès le commencement. Il représente une mise en cohérence rétrospective dont il faut toujours pouvoir examiner les conditions et les limites.
 
 ### 3.3. Les orientations : les rapports d'examen
 
