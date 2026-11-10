@@ -2,169 +2,175 @@
 
 ## Fonction
 
-Cette page définit l'organisation documentaire du corpus Protokin. Elle précise les fonctions des différentes ressources, les relations qui les unissent et les principes qui guident leur révision.
+Cette page présente l'organisation documentaire du corpus Protokin. Elle précise la fonction de cette organisation, les relations entre les ressources et les principes qui guident leur classement, leur articulation et leur révision.
 
-Elle répond à un problème éditorial : un corpus ne devient pas cohérent par la seule accumulation de pages pertinentes. Il faut pouvoir identifier la contribution de chacune, comprendre ses rapports avec les autres et déterminer les conséquences d'une modification.
+Un corpus ne devient pas cohérent par la seule accumulation de pages pertinentes. Il faut pouvoir comprendre pourquoi chaque ressource existe, ce qu'elle apporte, comment elle se rapporte aux autres et quelles conséquences peut entraîner sa modification.
 
-Cette architecture concerne les **ressources du projet**. Elle ne décrit pas le fonctionnement de l'enquête elle-même.
+Cette architecture concerne les **documents du projet** : leurs fonctions, leurs relations, leur accès et leurs conditions de révision. Elle ne décrit ni les pratiques descriptives étudiées ni le déroulement d'une enquête.
 
-## 1. Trois niveaux à distinguer
+Son principe directeur est de préserver la contribution propre de chaque page tout en rendant intelligibles les relations qui l'inscrivent dans le corpus.
 
-L'organisation de Protokin repose sur trois plans complémentaires, qui ne doivent pas être confondus.
+## 1. Trois plans à ne pas confondre
 
-### 1.1. Architecture du projet
+Protokin distingue trois plans complémentaires.
 
-Elle concerne le corpus documentaire :
+### 1.1. L'architecture du projet
 
-- les différentes fonctions des pages ;
-- leur organisation et leur classement ;
-- leurs relations et leurs dépendances ;
-- les conditions de leur révision ;
-- les modalités d'accès aux ressources.
+L'architecture du projet concerne l'organisation du corpus documentaire. Elle permet de déterminer :
 
-Elle permet de savoir où se trouve une analyse, pourquoi elle existe et quelles autres pages sont susceptibles d'être affectées par sa modification.
+- quelle fonction une page remplit ;
+- quel problème elle traite ;
+- quelles ressources la complètent ou sont nécessaires à sa compréhension ;
+- comment elle est accessible dans la navigation ;
+- quelles autres pages peuvent être affectées par sa révision.
 
-### 1.2. Architecture fonctionnelle de l'enquête
+Elle porte sur les documents et leurs relations, non sur les opérations conduites dans une enquête.
 
-Elle concerne les ressources mobilisées pour examiner une difficulté descriptive.
+### 1.2. L'architecture fonctionnelle de l'enquête
 
-Elle distingue notamment les catégories de regroupement, les opérations, les orientations, les fonctions transversales et les instruments d'épreuve. Ces composantes décrivent des travaux et des moyens d'examen, non des types de documents.
+L'architecture fonctionnelle de l'enquête présente les ressources mobilisables pour examiner une difficulté descriptive. Elle distingue actuellement quatre ensembles :
+
+- **les opérations**, qui désignent les travaux d'examen ;
+- **les orientations**, qui précisent sous quel rapport une situation, une pratique ou un résultat est examiné ;
+- **les fonctions transversales**, qui désignent des dimensions susceptibles d'intervenir dans plusieurs opérations ;
+- **les instruments d'épreuve**, qui fournissent des moyens concrets de confronter des descriptions, des distinctions ou des conclusions à un examen.
+
+Ces ensembles ne sont ni des types de documents ni des étapes obligatoires. Les regroupements qui facilitent la présentation des opérations sont des repères de lecture, et non une composante supplémentaire de l'architecture fonctionnelle.
 
 Voir [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md).
 
-### 1.3. Orientation de l'examen
+### 1.3. L'orientation de l'examen
 
-Elle concerne les rapports sous lesquels une situation, une pratique ou un résultat peut être examiné.
+L'orientation de l'examen précise les rapports sous lesquels une situation, une pratique, une opération ou un résultat peut être interrogé. Les orientations actuellement développées sont Condition, Relation, Fonction et Justification.
 
-Les orientations ne sont donc ni des catégories documentaires ni des opérations supplémentaires. Elles permettent de préciser l'angle d'examen pertinent pour une difficulté donnée.
+Une orientation n'est ni une rubrique documentaire ni une opération supplémentaire. Elle indique un rapport de questionnement ; le travail effectué pour traiter la question relève d'une ou de plusieurs opérations.
 
 Voir [Orientation de l'examen](fr/orientation-de-l-examen.md).
 
-Ces trois plans sont liés, mais remplissent des fonctions distinctes. Une page peut présenter une opération, mobiliser une orientation et appartenir à une famille documentaire sans que ces trois déterminations se confondent.
+Ces trois plans peuvent être articulés sans être confondus. Une page appartient au corpus et possède une fonction documentaire ; son contenu peut présenter une opération ou mobiliser une orientation. Ces déterminations répondent à des questions différentes.
 
-## 2. Les fonctions documentaires
+## 2. Les fonctions documentaires des pages
 
-Les fonctions ci-dessous servent à organiser les ressources du corpus. Elles désignent la contribution principale d'une page, et non une classification théorique des pratiques descriptives.
+Les fonctions documentaires permettent de comprendre la contribution principale d'une ressource. Elles constituent des repères de classement, non une taxonomie exhaustive ou exclusive. Une page peut remplir plusieurs fonctions, à condition que sa contribution dominante demeure identifiable.
 
-Elles ne sont pas nécessairement exclusives : une page peut remplir plusieurs fonctions, à condition que sa contribution principale reste identifiable.
+### 2.1. Présentation et cadrage
 
-### 2.1. Cadrage et présentation
+Ces pages exposent le problème général auquel répond Protokin, le statut de la démarche, sa portée et ses engagements.
 
-Ces pages exposent le problème général, le statut de la démarche et sa portée.
+Elles donnent les repères nécessaires à la compréhension du projet sans développer à la place des pages spécialisées les notions, les opérations ou les études particulières.
 
-Elles donnent les repères nécessaires pour comprendre le projet sans reprendre les développements spécialisés.
+### 2.2. Architecture et organisation
 
-Exemples : l'introduction générale, la présentation synthétique du projet et les pages consacrées à son nom et à sa portée.
+Ces pages expliquent l'organisation du corpus ou présentent les ressources fonctionnelles de l'enquête.
 
-### 2.2. Organisation et architecture
-
-Ces pages expliquent l'organisation du corpus ou celle des ressources fonctionnelles de l'enquête.
-
-Leur objet est de rendre intelligibles les relations entre les composantes concernées. Elles ne doivent pas se substituer aux pages qui définissent et analysent chacune de ces composantes.
+Leur rôle est de rendre intelligibles les distinctions et les relations entre les composantes concernées. Elles ne doivent pas se substituer aux pages qui définissent chaque ressource ni reproduire l'ensemble de leurs développements.
 
 ### 2.3. Notions et distinctions conceptuelles
 
 Ces pages définissent une notion, examinent un problème conceptuel ou précisent une distinction.
 
-Elles doivent établir ce que la notion permet de différencier, dans quelles conditions elle est pertinente et quelles conclusions son emploi autorise.
+Elles établissent ce que la notion permet de différencier, dans quelles conditions elle est pertinente et quelles conclusions son emploi autorise ou n'autorise pas. Elles examinent les relations avec les notions voisines lorsque celles-ci sont nécessaires au traitement du problème.
 
-Elles ne doivent pas reprendre l'ensemble du cadrage général de Protokin. Les relations avec les notions voisines sont traitées lorsqu'elles sont nécessaires à la compréhension du problème étudié.
+### 2.4. Pratiques descriptives, langage et inférence
 
-### 2.4. Langage, inférence et justification
+Ces pages étudient les activités par lesquelles des descriptions sont produites, comprises, reprises, mises en relation et soutenues.
 
-Ces pages examinent les fonctions du langage, les engagements associés aux énoncés, les conséquences inférentielles et les conditions de justification.
+Elles peuvent porter sur les usages du langage, la référence, la prédication, les engagements discursifs, les conséquences inférentielles, l'explication ou la justification. Elles doivent préserver les différences entre contenu, usage, fonction, endossement et conséquence lorsqu'elles sont pertinentes pour l'analyse.
 
-Elles précisent les distinctions nécessaires à l'analyse des pratiques discursives, sans assimiler le contenu d'un énoncé, son usage, son endossement et les conséquences qui lui sont associées.
+### 2.5. Méthodes, opérations et instruments d'examen
 
-### 2.5. Méthodes et instruments d'examen
+Ces pages précisent comment un travail d'examen ou un moyen d'épreuve peut être mobilisé face à une difficulté déterminée.
 
-Ces pages proposent des moyens de traiter une difficulté déterminée : comparer des descriptions, examiner une distinction, diagnostiquer une confusion ou éprouver une conclusion.
+Elles indiquent leur fonction, leurs conditions d'emploi, les résultats qu'elles peuvent contribuer à établir et leurs limites. Elles ne doivent pas présenter un instrument comme une garantie automatique de validité ni transformer un repère pratique en procédure universelle.
 
-Elles précisent leur objet, leurs conditions d'application, leur mode d'utilisation et leurs limites.
+### 2.6. Articulations et analyses de problèmes
 
-Un instrument peut contribuer à l'examen d'une conclusion, mais ne garantit pas à lui seul sa validité.
+Ces pages examinent les relations entre plusieurs notions, pratiques, descriptions ou régimes. Elles précisent la nature des rapports étudiés et les conditions dans lesquelles une compatibilité, une dépendance, une tension ou une incompatibilité peut être établie.
 
-### 2.6. Articulations et études de cas
+Leur fonction n'est pas de juxtaposer des notions voisines, mais de traiter un problème qui exige l'examen de leurs relations.
 
-Les pages d'articulation examinent les relations entre plusieurs notions, pratiques ou régimes descriptifs. Elles précisent les conditions dans lesquelles une relation, une compatibilité ou une incompatibilité peut être établie.
+### 2.7. Études de cas
 
-Les études de cas confrontent les distinctions et les propositions du projet à des situations déterminées. Elles distinguent les éléments disponibles, les descriptions produites, les interprétations proposées et les conclusions soutenues.
+Les études de cas confrontent les distinctions et les propositions de Protokin à des situations déterminées.
 
-Un cas peut confirmer la pertinence d'une distinction, en révéler les limites ou conduire à la réviser. Il ne doit pas être réduit à une illustration d'un cadre déjà établi.
+Elles doivent distinguer les éléments disponibles, les descriptions produites, les interprétations proposées et les conclusions soutenues. Un cas peut mettre une distinction à l'épreuve, en préciser la portée, en révéler les limites ou conduire à sa révision. Il ne doit pas être réduit à l'illustration d'un cadre déjà établi.
 
-### 2.7. Références et navigation
+### 2.8. Références et ressources théoriques
 
-Ces ressources facilitent l'accès au corpus et permettent de retrouver les notions, les analyses et les parcours de lecture.
+Les pages de référence présentent des auteurs, des textes et des propositions utiles à l'examen des pratiques descriptives.
 
-La table des matières, le lexique et les parcours de lecture ont une fonction d'orientation documentaire. Ils ne remplacent pas les pages auxquelles ils renvoient et ne constituent pas une architecture théorique supplémentaire.
+Elles précisent les apports retenus, les problèmes auxquels ils répondent et, lorsque cela importe, les limites ou les désaccords pertinents. Une référence ne constitue pas un fondement dont l'autorité suffirait à garantir les propositions de Protokin.
 
-Les références philosophiques, quant à elles, présentent des ressources utiles à l'examen. Elles ne constituent pas des fondements dont l'autorité suffirait à garantir les propositions de Protokin.
+### 2.9. Navigation et documents éditoriaux
 
-## 3. Les relations entre les pages
+La table des matières, le lexique et les parcours de lecture facilitent l'accès aux ressources. Ils orientent le lecteur sans remplacer les pages auxquelles ils renvoient.
 
-Les pages ne sont pas simplement juxtaposées. Elles peuvent entretenir plusieurs types de relations qu'il importe de distinguer.
+Les documents éditoriaux et d'audit encadrent la rédaction, l'organisation et la révision du corpus. Ils portent sur le travail documentaire lui-même et ne constituent pas, de ce fait, des composantes supplémentaires de l'architecture fonctionnelle de l'enquête.
 
-- **Complémentarité :** deux pages traitent de dimensions différentes d'un même problème.
-- **Dépendance :** une page s'appuie sur une définition, une distinction ou un résultat développé ailleurs.
-- **Recouvrement :** plusieurs pages développent des contenus ou des fonctions partiellement similaires.
-- **Articulation :** une page examine explicitement la relation entre plusieurs notions, pratiques ou analyses.
-- **Tension :** des propositions ou des usages soulèvent une difficulté qui demande un examen conjoint.
-- **Contradiction :** deux propositions ne peuvent être maintenues simultanément dans le même sens et sous les mêmes conditions.
-- **Renvoi documentaire :** un lien permet de poursuivre la lecture sans établir, à lui seul, une dépendance conceptuelle.
+Ces fonctions sont des repères souples. Elles peuvent être précisées ou révisées si l'évolution du corpus fait apparaître une contribution qui n'est pas correctement décrite par les catégories actuelles.
 
-Ces relations ne se déduisent pas de la ressemblance des titres ou du vocabulaire employé. Deux pages peuvent utiliser les mêmes termes tout en remplissant des fonctions différentes. Inversement, des formulations distinctes peuvent traiter un même problème.
+## 3. Les relations entre les ressources
 
-Un renvoi n'établit donc pas automatiquement une dépendance. Une dépendance ne signifie pas que les deux pages remplissent la même fonction. Une proximité thématique ne suffit pas à justifier une fusion.
+Les pages ne sont pas simplement juxtaposées. Elles peuvent entretenir plusieurs types de relations, qu'il importe de distinguer.
 
-L'examen doit porter sur le contenu effectif des pages, sur ce qu'elles apportent et sur les rapports nécessaires à leur compréhension.
+- **Complémentarité** : deux pages traitent de dimensions différentes d'un problème commun.
+- **Dépendance** : une page s'appuie sur une définition, une distinction ou un résultat développé ailleurs.
+- **Articulation** : une page examine explicitement la relation entre plusieurs notions, pratiques ou analyses.
+- **Recouvrement** : plusieurs pages développent des contenus ou des fonctions partiellement similaires.
+- **Tension** : des propositions ou des usages soulèvent une difficulté qui demande un examen conjoint.
+- **Contradiction** : deux propositions ne peuvent être maintenues simultanément dans le même sens et sous les mêmes conditions.
+- **Renvoi documentaire** : un lien permet de poursuivre la lecture sans établir, à lui seul, une dépendance conceptuelle.
+
+Ces relations ne se déduisent ni de la ressemblance des titres ni de la présence d'un vocabulaire commun. Deux pages peuvent employer les mêmes termes tout en remplissant des fonctions différentes. À l'inverse, des formulations distinctes peuvent traiter un même problème.
+
+Un renvoi ne suffit donc pas à établir une dépendance. Une dépendance n'implique pas que les pages concernées remplissent la même fonction. Une proximité thématique ne justifie pas à elle seule une fusion.
+
+L'examen des relations doit porter sur le contenu effectif des pages, sur leurs contributions et sur les conditions nécessaires à leur compréhension.
 
 ## 4. Principes d'organisation du corpus
 
-L'organisation documentaire repose sur quatre exigences.
-
 ### 4.1. Préserver la fonction propre de chaque page
 
-Chaque page doit apporter une contribution identifiable.
+Chaque page doit apporter une contribution identifiable. Son existence doit pouvoir être justifiée par un problème, une distinction, une analyse ou une ressource qui ne serait pas aussi clairement accessible ailleurs.
 
-Lorsqu'un même développement apparaît à plusieurs endroits, il faut déterminer où se trouve sa fonction principale. Les autres pages peuvent en rappeler les éléments nécessaires à leur compréhension, mais doivent éviter de reproduire intégralement l'analyse.
+Lorsqu'un même développement apparaît dans plusieurs pages, il faut déterminer où se trouve sa fonction principale. Les autres pages peuvent en rappeler les éléments nécessaires à leur propos, mais doivent éviter de reproduire intégralement l'analyse.
 
-Un rappel utile n'est pas nécessairement une répétition inutile. Il le devient lorsqu'il reproduit un développement sans apporter de précision, de conséquence ou de fonction supplémentaire.
+Un rappel n'est pas automatiquement une répétition inutile. Il le devient lorsqu'il reprend un développement sans apporter de précision, de conséquence ou de fonction supplémentaire.
 
-### 4.2. Expliciter les dépendances
+### 4.2. Rendre les dépendances explicites
 
 Une page peut présupposer une définition, mobiliser une distinction ou reprendre un résultat développé dans une autre ressource.
 
-Ces dépendances doivent être explicites lorsque leur connaissance est nécessaire à la compréhension du texte ou au contrôle de ses conclusions.
+Ces dépendances doivent être signalées lorsque leur connaissance est nécessaire à la compréhension du texte ou au contrôle de ses conclusions. Les liens doivent aider le lecteur à retrouver la ressource pertinente, sans transformer chaque proximité thématique en dépendance obligatoire.
 
-Une modification peut avoir des conséquences sur plusieurs pages. Il faut alors examiner les usages effectifs de la définition ou du résultat concerné, sans supposer que toutes les ressources liées doivent être modifiées ensemble.
+Lorsqu'une définition ou un résultat est modifié, il faut examiner les usages effectifs qui en sont faits ailleurs. Il ne faut pas supposer que toutes les pages liées doivent être modifiées de la même manière.
 
 ### 4.3. Éviter les architectures concurrentes
 
-Une même fonction ne doit pas être organisée simultanément par plusieurs pages de référence qui proposeraient des découpages ou des définitions concurrents.
+Une même fonction d'organisation ne doit pas être répartie entre plusieurs pages de référence qui proposeraient des découpages ou des définitions concurrents.
 
-Lorsqu'une page établit un repère général, les pages spécialisées doivent s'y articuler sans reproduire une architecture parallèle.
+Lorsqu'une page établit un repère général, les pages spécialisées doivent s'y articuler sans reproduire une architecture parallèle. Cette exigence n'impose pas l'uniformité du vocabulaire : des différences de perspective ou de définition peuvent être légitimes si leur objet et leur portée sont explicites.
 
-Cette exigence ne signifie pas que les pages doivent adopter un vocabulaire uniforme à tout prix. Une différence de définition ou de perspective peut être légitime, à condition que son objet et sa portée soient identifiables.
+La table des matières, les parcours de lecture et les documents d'audit ont chacun une fonction propre. Ils ne doivent pas devenir des versions concurrentes de l'architecture du projet.
 
 ### 4.4. Maintenir une organisation révisable
 
-Les fonctions documentaires ne sont pas des catégories définitives. Une page peut changer de fonction, être scindée, fusionnée ou déplacée lorsque l'évolution du corpus le justifie.
+Les fonctions documentaires ne sont pas définitives. Une page peut changer de fonction, être déplacée, scindée, fusionnée ou archivée lorsque l'évolution du corpus le justifie.
 
-L'organisation doit rester suffisamment stable pour rendre les ressources accessibles, mais suffisamment ouverte pour accueillir de nouvelles analyses et de nouvelles distinctions.
+L'organisation doit être assez stable pour rendre les ressources accessibles, mais assez ouverte pour accueillir de nouvelles analyses et de nouvelles distinctions. La stabilité documentaire ne doit pas empêcher la révision conceptuelle.
 
 ## 5. Réviser une ressource
 
-Toute révision substantielle doit commencer par l'examen de la fonction effective de la page.
+Toute révision substantielle commence par l'examen de la fonction effective de la page. Avant d'intervenir, il convient de déterminer :
 
-Avant de modifier une ressource, il convient de déterminer :
+1. Quel problème justifie l'existence de cette ressource ?
+2. Quelle contribution propre apporte-t-elle ?
+3. Quelles pages traitent déjà une partie du même problème ?
+4. Quelles définitions, distinctions ou conclusions la page présuppose-t-elle ?
+5. Quelles ressources dépendent effectivement de son contenu ?
+6. Quels liens, classements et parcours de lecture seront affectés par la modification ?
 
-1. Quelle contribution justifie son existence ?
-2. Quel problème précis motive la révision ?
-3. Quelles pages développent déjà une partie de son contenu ?
-4. Quelles ressources dépendent de ses définitions ou de ses résultats ?
-5. Quels liens, classements et parcours de lecture seront affectés ?
-
-Les décisions possibles sont les suivantes :
+Selon les résultats de cet examen, plusieurs décisions sont possibles :
 
 | Décision | Motif |
 |---|---|
@@ -173,56 +179,68 @@ Les décisions possibles sont les suivantes :
 | **Restructurer** | L'organisation actuelle masque la fonction ou les distinctions principales. |
 | **Déplacer** | La fonction est pertinente, mais le classement documentaire est inadapté. |
 | **Scinder** | Plusieurs contributions autonomes gagneraient à être développées séparément. |
-| **Fusionner** | Plusieurs pages remplissent essentiellement la même fonction sans bénéfice suffisant à leur séparation. |
-| **Archiver ou supprimer** | La page n'apporte plus de contribution distincte et son contenu utile est repris ailleurs. |
+| **Fusionner** | Plusieurs pages remplissent essentiellement la même fonction et leur séparation n'apporte pas de bénéfice suffisant. |
+| **Archiver ou supprimer** | La page n'apporte plus de contribution distincte et son contenu utile est repris ou n'a plus lieu d'être conservé. |
 
-Une décision éditoriale doit être justifiée par la fonction réelle de la ressource, et non par sa seule longueur, son ancienneté ou la ressemblance de son titre avec celui d'une autre page.
+Une décision éditoriale doit être justifiée par la fonction réelle de la ressource, non par sa seule longueur, son ancienneté ou la ressemblance de son titre avec celui d'une autre page.
 
-Une fusion ou une suppression exige notamment de contrôler les liens entrants, les références croisées et les contenus qui risqueraient de disparaître.
+Une fusion ou une suppression exige de contrôler les liens entrants, les références croisées, les parcours de lecture et les contenus qui risqueraient de disparaître.
 
-Les [patterns éditoriaux](../patterns.md) fournissent des repères pour rédiger et réviser les pages. Le [pattern d'audit du corpus](../pattern-audit.md) permet d'examiner leur fonction, leurs relations et les conséquences d'une modification.
+Les [patterns éditoriaux](../patterns.md) fournissent des repères pour rédiger et réviser les pages. Le [pattern d'audit du corpus](../pattern-audit.md) guide l'examen de leur fonction, de leurs relations et des conséquences d'une modification. L'[audit du corpus](../audit-corpus.md) consigne les constats et les décisions relatifs à l'état du dépôt.
 
-Ces instruments encadrent le travail éditorial. Ils ne remplacent pas l'examen concret des ressources et peuvent eux-mêmes être révisés.
+Ces ressources ont des fonctions distinctes : les patterns orientent la rédaction, le pattern d'audit organise l'examen, et l'audit du corpus rend compte de constats effectués à un moment donné. Elles ne remplacent pas l'analyse du contenu effectivement présent dans les fichiers.
 
-## 6. Ce que cette architecture permet et ne permet pas
+## 6. Navigation et accès au corpus
+
+La navigation doit permettre de retrouver une ressource à partir de plusieurs besoins : comprendre le projet, examiner une notion, traiter une difficulté, consulter une étude de cas ou approfondir une référence.
+
+La [table des matières](fr/tdm.md) constitue le principal dispositif de navigation générale. Elle propose des accès organisés par ensembles thématiques et fonctionnels, sans imposer un ordre unique de lecture.
+
+Les liens internes doivent conduire à la ressource qui traite effectivement le point mentionné. Leur présence doit faciliter la circulation dans le corpus, non donner l'impression que chaque page dépend de toutes les pages auxquelles elle renvoie.
+
+Les pages de présentation peuvent proposer quelques parcours de lecture utiles. Elles ne doivent pas reproduire la table des matières ni tenter de recenser tous les liens possibles.
+
+## 7. Ce que l'architecture du projet permet et ne permet pas
 
 L'architecture du projet permet de :
 
-- retrouver les ressources et comprendre leur fonction ;
+- comprendre la fonction des différentes ressources ;
 - distinguer les contributions documentaires ;
-- rendre visibles les dépendances et les recouvrements ;
-- identifier les conséquences possibles d'une révision ;
-- justifier les décisions de classement, de déplacement, de fusion ou de suppression ;
-- maintenir une navigation cohérente avec l'organisation effective du corpus.
+- rendre visibles les dépendances, les complémentarités et les recouvrements ;
+- retrouver les pages pertinentes pour un problème donné ;
+- examiner les conséquences d'une modification ;
+- justifier les décisions de classement, de déplacement, de fusion ou d'archivage ;
+- maintenir une organisation cohérente et révisable.
 
 Elle ne permet pas, à elle seule, de déterminer :
 
 - si une notion est correctement définie ;
-- si une distinction est pertinente pour une situation donnée ;
+- si une distinction est pertinente dans une situation donnée ;
 - si une description est adéquate ;
 - si une conclusion est justifiée ;
-- si une opération d'enquête est appropriée.
+- si une opération d'enquête est appropriée ;
+- si une proposition théorique est vraie.
 
-Ces questions relèvent de l'examen conceptuel, fonctionnel et argumentatif des contenus concernés.
-
-Une organisation documentaire claire peut rendre un corpus plus intelligible sans rendre ses propositions plus justes. La cohérence de l'organisation ne constitue donc pas une preuve de la validité des analyses qu'elle rassemble.
+Une organisation documentaire claire rend les analyses plus accessibles et leur examen plus contrôlable. Elle ne garantit pas leur validité. La cohérence du corpus et la justification de ses propositions sont deux questions distinctes.
 
 ## Synthèse
 
-L'architecture du projet Protokin organise les ressources documentaires selon leurs fonctions et leurs relations. Elle permet de distinguer les contributions des pages, d'expliciter leurs dépendances et d'examiner les conséquences des révisions.
+L'architecture du projet Protokin organise les ressources documentaires selon leurs fonctions et leurs relations. Elle permet de comprendre ce que chaque page apporte, de rendre explicites les dépendances pertinentes et d'examiner les conséquences des révisions.
 
-Elle se distingue de l'architecture fonctionnelle de l'enquête, qui organise les ressources mobilisées dans l'examen des difficultés descriptives, et de l'orientation de l'examen, qui précise les rapports sous lesquels une situation ou une pratique peut être examinée.
+Elle se distingue de l'architecture fonctionnelle de l'enquête, qui présente les ressources mobilisables dans l'examen des difficultés descriptives, et de l'orientation de l'examen, qui précise les rapports sous lesquels une situation ou une pratique peut être interrogée.
 
-Son principe directeur est simple : **préserver la fonction propre des pages, rendre leurs relations intelligibles et maintenir l'organisation du corpus révisable.**
+Son principe directeur est le suivant : **préserver la fonction propre des pages, rendre leurs relations intelligibles et maintenir l'organisation du corpus révisable.**
 
-Elle ne constitue ni une théorie du réel ni une théorie générale des pratiques descriptives. Elle fournit un cadre documentaire pour que les ressources de Protokin puissent être retrouvées, comprises, examinées et révisées.
+Cette architecture est un cadre documentaire. Elle n'est ni une théorie du réel, ni une théorie générale des pratiques descriptives, ni une procédure d'enquête.
 
 ## Pour poursuivre
 
 - [Introduction générale](fr/introduction-generale.md) — Situer le problème auquel répond Protokin et les engagements de la démarche.
-- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Examiner les ressources mobilisées dans le traitement des difficultés descriptives.
+- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Examiner les ressources mobilisables dans le traitement des difficultés descriptives.
 - [Orientation de l'examen](fr/orientation-de-l-examen.md) — Préciser les rapports sous lesquels une situation ou une pratique peut être examinée.
+- [Les opérations de référence et leurs articulations](fr/la-chaine-principale-de-l-enquete.md) — Consulter le répertoire des opérations actuellement identifiées.
 - [Conduire une enquête](fr/conduire-une-enquete.md) — Consulter des repères pratiques pour traiter une difficulté.
 - [Table des matières](fr/tdm.md) — Parcourir les ressources du corpus.
 - [Patterns éditoriaux de Protokin](../patterns.md) — Consulter les repères de rédaction et de révision.
 - [Pattern d'audit du corpus](../pattern-audit.md) — Examiner la fonction et les relations des pages avant une révision.
+- [Audit du corpus](../audit-corpus.md) — Consulter les constats et décisions concernant l'état du dépôt.
