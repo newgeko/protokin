@@ -35,6 +35,14 @@ Il convient ainsi de distinguer :
 
 Ces distinctions correspondent aux différents ensembles de ressources présentés dans [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md).
 
+Les orientations ne correspondent pas à quatre dimensions naturelles de toute situation. Elles distinguent quatre types de questions que l'enquête peut être conduite à examiner et qui n'engagent pas les mêmes descriptions ni les mêmes exigences d'établissement.
+
+L'orientation relative à la condition porte sur ce qui rend une occurrence possible, la contraint ou en détermine les conditions de maintien et de transformation. L'orientation relationnelle porte sur les rapports de dépendance ou de liaison entre les éléments examinés. L'orientation fonctionnelle porte sur la contribution d'un élément au sein d'une pratique ou d'une configuration. L'orientation justificative porte sur les raisons, les critères et les inférences qui autorisent une affirmation.
+
+La distinction repose ainsi sur les différences entre les questions posées et entre les conséquences auxquelles leurs réponses engagent. Une condition ne constitue pas, à elle seule, une relation ; une relation ne suffit pas à établir une fonction ; une fonction ne vaut pas justification. Ces orientations ne sont donc pas interchangeables, même lorsqu'elles portent sur une même situation.
+
+Cette distinction est une construction méthodologique de Protokin. Sa pertinence ne tient pas à sa correspondance avec une structure supposée du réel, mais à sa capacité à prévenir des conversions indues entre des questions et des exigences d'examen distinctes. Elle reste ouverte à la révision lorsque l'enquête rencontre des difficultés qu'elle ne permet pas de traiter.
+
 ## 2. Les quatre orientations de référence
 
 ### Condition
