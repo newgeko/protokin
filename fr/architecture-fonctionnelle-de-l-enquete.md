@@ -98,7 +98,36 @@ Elles ne doivent pas être confondues avec les orientations. Une orientation pr�
 
 L'inventaire reste révisable. Une fonction supplémentaire doit correspondre à une dimension identifiable qui ne se réduit pas à une opération, une orientation ou un instrument déjà reconnu.
 
-## 5. Les instruments et modalités d'épreuve
+## 5. Les dimensions de la connaissance mobilisées par l'enquête
+
+L'examen des pratiques descriptives mobilise plusieurs dimensions de la connaissance. Celles-ci concernent aussi bien les activités par lesquelles une situation devient perceptible et intelligible que les manières de former, de soutenir et de réviser des descriptions.
+
+Cinq dimensions méritent une attention particulière :
+
+- **Percevoir et prêter attention** : examiner ce qui devient perceptible, ce qui est remarqué, retenu ou laissé à l'arrière-plan, ainsi que les conditions qui orientent l'attention.
+- **Identifier et distinguer** : examiner comment des éléments sont reconnus, individualisés, rapprochés ou différenciés, et selon quels critères ils sont identifiés.
+- **Anticiper et inférer** : examiner les attentes, les prévisions et les transitions qui conduisent d'éléments disponibles à d'autres conclusions ou possibilités.
+- **Évaluer et justifier** : examiner les critères, les raisons et les éléments mobilisés pour soutenir, contester ou réviser une description ou une conclusion.
+- **Reprendre et réviser** : examiner comment une pratique revient sur ses descriptions, ses identifications, ses distinctions, ses attentes et ses critères à la lumière de nouvelles difficultés ou de nouveaux éléments.
+
+Ces dimensions sont interdépendantes. L'attention contribue à rendre certains éléments disponibles pour l'identification ; l'identification rend possibles certaines distinctions et certaines inférences ; les anticipations peuvent orienter de nouvelles observations ; l'évaluation peut conduire à reprendre une identification ou à réviser les critères employés. Ces relations ne sont toutefois ni automatiques ni univoques. Percevoir un élément ne suffit pas à l'identifier, l'identifier ne suffit pas à justifier une description, et anticiper un résultat ne suffit pas à l'établir.
+
+Ces dimensions ne constituent :
+
+- ni une nouvelle liste d'opérations de Protokin ;
+- ni une classification exhaustive des activités cognitives ;
+- ni les étapes successives d'un processus de connaissance ;
+- ni une grille que toute enquête devrait parcourir intégralement.
+
+Elles désignent des dimensions interdépendantes que l'examen peut avoir à distinguer et à mettre en relation selon la difficulté rencontrée. Elles peuvent intervenir conjointement, être reprises à différents moments ou ne pas être toutes pertinentes dans une enquête donnée.
+
+Elles ne se substituent pas aux opérations, aux orientations, aux fonctions transversales ou aux instruments d'épreuve. Elles permettent plutôt de préciser certains aspects des activités de connaissance et des pratiques descriptives sur lesquels ces ressources peuvent porter. Leur examen peut notamment conduire à interroger les conditions d'une observation, les critères d'une identification, la portée d'une inférence ou les raisons d'une révision.
+
+Les habitudes acquises peuvent contribuer à organiser ces différentes dimensions : elles orientent l'attention, stabilisent des manières d'identifier et de distinguer, soutiennent certaines anticipations et influencent les critères d'évaluation. Elles peuvent être maintenues, précisées ou révisées au cours des reprises de l'enquête. Leur rôle ne doit cependant pas être confondu avec celui des raisons qui permettent de justifier une description ou une conclusion.
+
+L'examen de ces dimensions contribue ainsi à ne pas réduire les pratiques de connaissance à leurs seules expressions linguistiques ou inférentielles. Il permet de prendre également en compte les activités perceptives, cognitives et pratiques qui rendent les descriptions possibles, orientent leur production et conditionnent leur révision.
+
+## 6. Les instruments et modalités d'épreuve
 
 Les instruments d'épreuve sont des moyens mobilisables pour confronter une description, une distinction ou une conclusion à un examen déterminé. Ils ne produisent pas mécaniquement un verdict et ne garantissent pas, à eux seuls, la validité d'un résultat.
 
@@ -114,7 +143,7 @@ Cette distinction n'interdit pas de conserver Reprise dans les repères pratique
 
 Les instruments peuvent intervenir dans plusieurs opérations et sous différentes orientations. D'autres instruments peuvent être reconnus si leur fonction et leur apport se distinguent suffisamment des moyens existants.
 
-## 6. Articuler les ressources sans les confondre
+## 7. Articuler les ressources sans les confondre
 
 Une difficulté descriptive peut conduire à mobiliser une ou plusieurs opérations. Celles-ci peuvent être conduites sous une ou plusieurs orientations, traversées par des fonctions transversales et accompagnées d'instruments d'épreuve.
 
@@ -137,7 +166,7 @@ Le **plateau d'enquête** constitue une ressource complémentaire de représenta
 
 Le plateau ne constitue pas une composante supplémentaire de l'architecture. Il ne remplace ni les opérations ni les instruments d'épreuve. Sa fonction et ses modalités sont présentées dans [Le plateau d'enquête](fr/plateau-d-enquete.md).
 
-## 7. Réviser l'architecture
+## 8. Réviser l'architecture
 
 L'architecture fonctionnelle constitue un état révisable de l'organisation des ressources de Protokin. Sa cohérence interne ne suffit pas à justifier son maintien : elle doit pouvoir être confrontée aux difficultés effectivement rencontrées dans les enquêtes.
 
