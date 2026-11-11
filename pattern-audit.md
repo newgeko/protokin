@@ -250,16 +250,21 @@ Ces deux activités peuvent se soutenir, mais elles ne portent pas sur le même 
 
 ### 5.5. Examiner les instruments d'épreuve
 
-Les instruments actuellement identifiés sont :
+Les trois instruments actuellement identifiés sont :
 
 - **Substitution** ;
 - **Cas** ;
-- **Comparaison** ;
-- **Reprise**.
+- **Comparaison**.
 
 Vérifier que leur emploi est suffisamment précisé, que leurs limites sont explicites et qu'ils ne sont pas confondus avec des opérations ou des orientations.
 
-Un instrument peut être mobilisé dans plusieurs opérations. Son application ne produit pas mécaniquement un verdict et ne garantit pas la validité d'une conclusion.
+Un instrument peut être mobilisé dans plusieurs opérations et sous différentes orientations. Son application ne produit pas mécaniquement un verdict et ne garantit pas la validité d'une conclusion.
+
+La **Reprise** ne constitue pas un quatrième instrument. Elle désigne une modalité générale de réexamen : une opération, une description, une distinction ou une conclusion peut être reprise à la lumière d'une difficulté, d'une objection ou d'un nouvel élément. Cette reprise peut notamment mobiliser une substitution, un cas ou une comparaison, sans se confondre avec aucun de ces instruments.
+
+L'audit doit donc vérifier que les pages du corpus maintiennent cette différence entre les moyens d'épreuve et la modalité générale de réexamen.
+
+Pour la définition des instruments et la distinction avec la Reprise, voir [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md).
 
 ### 5.6. Rechercher les conversions non justifiées
 
