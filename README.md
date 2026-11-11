@@ -92,6 +92,10 @@ Quatre orientations de référence sont actuellement développées :
 - **Fonction** — examiner le rôle et le travail accomplis par un élément dans une pratique déterminée.
 - **Justification** — examiner les raisons, les critères et les engagements susceptibles de soutenir une description ou une conclusion.
 
+Ces quatre orientations ne sont pas strictement symétriques. Condition, Relation et Fonction permettent d'examiner différents rapports relatifs à une situation ou à une pratique. Justification porte sur les raisons, les critères et les engagements qui permettent de soutenir les affirmations produites à leur sujet. Elle possède ainsi une portée réflexive et transversale : elle peut examiner les résultats obtenus sous les autres orientations, sans constituer pour autant une instance extérieure à l'enquête.
+
+Une opération peut contribuer à plusieurs orientations ; une orientation peut nécessiter plusieurs opérations. Il n'existe pas de correspondance fixe entre les deux.
+
 Une opération peut contribuer à plusieurs orientations ; une orientation peut nécessiter plusieurs opérations. Il n'existe pas de correspondance fixe entre les deux.
 
 Voir [Orientation de l'examen](fr/orientation-de-l-examen.md).
