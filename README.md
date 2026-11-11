@@ -116,11 +116,13 @@ La **Reprise** n'est pas un instrument de même type. Elle désigne une modalit�
 
 Les ressources de Protokin ne constituent ni les étapes obligatoires d’une méthode ni les composantes nécessaires de toute enquête.
 
-Chaque enquête construit son propre chemin à partir des difficultés rencontrées. Elle mobilise les ressources pertinentes, les articule selon les besoins de l’examen et peut conduire à en modifier les distinctions, les relations ou les fonctions.
+Au cours de son déroulement, une enquête ne forme pas nécessairement une trajectoire continue ou déjà intelligible. Elle procède par mobilisations, déplacements et reprises, en fonction des difficultés rencontrées et des résultats obtenus. Les ressources pertinentes peuvent être articulées, réexaminées ou modifiées au fil de l'examen.
+
+Les relations entre ces différents travaux peuvent être reconstruites rétrospectivement. Cette reconstruction rend éventuellement intelligibles des dépendances, des continuités ou des bifurcations qui n'étaient pas nécessairement identifiables au moment où les travaux se déroulaient. La cohérence ainsi reconstruite ne signifie pas que l'enquête suivait dès son commencement une trajectoire déterminée, ni que son résultat était prévisible ou nécessaire.
 
 Une orientation ne prescrit pas une opération particulière ; une fonction transversale ne se substitue pas à une opération ; un instrument ne garantit pas à lui seul la validité d'un résultat. L'enquête ne consiste donc pas à remplir une grille en associant systématiquement les différents ensembles de ressources.
 
-Le [plateau d'enquête](fr/plateau-d-enquete.md) peut être utilisé comme un moyen facultatif de représenter les opérations mobilisées, les éléments examinés et les reprises du cheminement. Il ne constitue pas une composante supplémentaire de l'architecture fonctionnelle.
+Le [plateau d'enquête](fr/plateau-d-enquete.md) peut être utilisé comme un moyen facultatif de représenter les opérations mobilisées, les éléments examinés et les relations reconstruites entre les différents travaux. Il ne constitue pas une composante supplémentaire de l'architecture fonctionnelle.
 
 **Protokin organise des ressources pour conduire des enquêtes situées ; il ne prescrit pas à l’avance la forme qu’elles doivent prendre.**
 
