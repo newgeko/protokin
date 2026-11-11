@@ -401,22 +401,19 @@ La mention historique de l'ancienne quadripartition peut être conservée lorsqu
 
 ### 6.4. Instruments et Reprise
 
-**État : distinction établie dans l'architecture fonctionnelle et le README.**
+**État : distinction corrigée dans `pattern-audit.md` et explicitée dans l'architecture fonctionnelle.**
 
-Les trois instruments actuellement retenus sont Substitution, Cas et Comparaison.
+Les trois instruments actuellement retenus sont Substitution, Cas et Comparaison. La Reprise est définie comme une modalité générale de réexamen, qui peut mobiliser un ou plusieurs de ces instruments sans se confondre avec eux.
 
-La Reprise est définie comme une modalité générale de réexamen.
+**Correction déjà effectuée dans `pattern-audit.md` :** sa section 6.5 présente désormais les trois instruments et précise explicitement que la Reprise ne constitue pas un quatrième instrument. Elle distingue les moyens d'épreuve de la modalité générale de réexamen. Le constat antérieur attribuant à `pattern-audit.md` un inventaire de quatre instruments est donc périmé.
 
-**Contradiction documentaire vérifiée :** `pattern-audit.md` conserve un inventaire qui présente la Reprise parmi les quatre instruments d'épreuve.
+**Contrôle documentaire restant :** vérifier que les pages spécialisées, les documents de présentation et les versions HTML ne présentent pas encore la Reprise comme un instrument autonome. La version HTML de l'architecture fonctionnelle signalée en section 6.9 conserve notamment cette ancienne présentation.
 
-Cette présentation contredit la distinction désormais établie dans `fr/architecture-fonctionnelle-de-l-enquete.md`.
+**Intervention restante :**
 
-**Intervention proposée :**
-
-- corriger l'inventaire des instruments dans `pattern-audit.md` ;
-- conserver une section consacrée à la Reprise, mais en préciser le statut ;
-- vérifier les autres pages qui présentent la Reprise comme un instrument autonome ;
-- distinguer les reprises effectivement conduites des instruments éventuellement mobilisés pour les effectuer.
+- ne pas reprendre la correction déjà effectuée dans `pattern-audit.md` ;
+- corriger les éventuelles présentations encore obsolètes dans les autres ressources ;
+- distinguer, dans les descriptions de pratiques, les reprises effectivement conduites des instruments éventuellement mobilisés pour les effectuer.
 
 ### 6.5. Organisation des régimes descriptifs
 
@@ -483,37 +480,31 @@ L'enjeu est de déterminer si Protokin produit un gain analytique identifiable, 
 
 ### 6.8. Cohérence entre les documents de référence
 
-**État : divergences documentaires vérifiées.**
-
-Plusieurs ressources ne présentent pas encore exactement la même organisation.
+**État : deux divergences antérieurement attribuées à `pattern-audit.md` sont corrigées dans ce fichier ; des écarts subsistent dans d'autres ressources.**
 
 #### Catégories et ensembles fonctionnels
 
-`fr/architecture-fonctionnelle-de-l-enquete.md` distingue quatre ensembles de ressources et précise que les catégories servent uniquement à regrouper les opérations.
+`fr/architecture-fonctionnelle-de-l-enquete.md` et la section 6.1 de `pattern-audit.md` distinguent désormais quatre ensembles fonctionnels des catégories qui regroupent les opérations.
 
-`pattern-audit.md` présente encore les catégories dans la même énumération que les autres ensembles.
+**Correction effectuée :** la formulation de `pattern-audit.md` a été alignée sur cette distinction. Il ne faut plus signaler ce fichier comme présentant les catégories au même niveau que les quatre ensembles.
 
-La TDM présente également l'architecture comme distinguant les catégories, les opérations, les orientations, les fonctions transversales et les instruments.
+**Divergence encore présente :** `fr/tdm.md` énumère encore les catégories avec les quatre ensembles. La correction doit porter sur cette présentation et sur toute autre ressource de navigation qui reproduirait cette énumération.
 
-**Intervention proposée :** aligner les formulations sur la distinction entre les quatre ensembles fonctionnels et les regroupements documentaires des opérations.
+#### Reprise et instruments d'épreuve
 
-#### Reprise
+`fr/architecture-fonctionnelle-de-l-enquete.md` et la section 6.5 de `pattern-audit.md` distinguent désormais trois instruments — Substitution, Cas et Comparaison — de la Reprise, définie comme une modalité générale de réexamen.
 
-`fr/architecture-fonctionnelle-de-l-enquete.md` et `README.md` distinguent trois instruments et une modalité générale de reprise.
+**Correction effectuée :** l'inventaire de `pattern-audit.md` a été corrigé. Il ne présente plus la Reprise comme un quatrième instrument.
 
-`pattern-audit.md` conserve quatre instruments.
+**Divergence encore présente :** la version consultée de `html/architecture-fonctionnelle-de-l-enquete.html` conserve une présentation de quatre instruments. Les autres pages spécialisées et versions publiées doivent également être contrôlées avant de considérer la distinction comme transposée dans tout le corpus.
 
-**Intervention proposée :** corriger l'inventaire et les formulations dépendantes.
+#### Temporalité et représentation de l'enquête
 
-#### Temporalité et cheminement
+La TDM conserve des formulations présentant les ressources de conduite de l'enquête comme permettant de construire un chemin à partir d'une difficulté et le plateau comme représentation d'un chemin suivi. La présentation du plateau dans le README doit être vérifiée au regard de la distinction entre déroulement effectif et reconstruction rétrospective.
 
-La TDM conserve une formulation présentant les ressources de conduite de l'enquête comme permettant de construire un chemin à partir d'une difficulté.
+Ces formulations ne sont pas nécessairement contradictoires avec l'architecture actuelle, mais elles sont moins précises que la distinction développée dans `fr/temporaliser.md` et `fr/plateau-d-enquete.md`.
 
-Le README présente également chaque enquête comme construisant son propre chemin.
-
-Ces formulations ne sont pas nécessairement incompatibles avec l'architecture actuelle, mais elles sont moins précises que la distinction entre déroulement et reconstruction développée dans les pages récentes.
-
-**Intervention proposée :** actualiser les formulations sans interdire le terme chemin lorsqu'il désigne effectivement le déroulement d'un examen.
+**Intervention restante :** actualiser les formulations de navigation et de présentation, sans interdire le terme « chemin » lorsqu'il désigne effectivement le déroulement d'un examen. Il faut éviter qu'il suggère une trajectoire unique, nécessaire ou déjà intelligible pendant son déroulement.
 
 ### 6.9. Versions HTML et correspondance avec les sources
 
