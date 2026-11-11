@@ -127,6 +127,10 @@ Ces articulations sont possibles, mais elles ne sont pas prescrites :
 - un regroupement documentaire ne détermine ni les conditions ni l'ordre d'emploi des opérations ;
 - une reprise peut conduire à mobiliser de nouveau une ressource, à en choisir une autre ou à reformuler le problème.
 
+Les articulations entre orientations ne sont pas toutes de même type. Condition, Relation et Fonction permettent de différencier des rapports relatifs à la situation ou à la pratique examinée. Justification peut, quant à elle, reprendre les affirmations et les résultats produits sous ces orientations pour examiner les raisons qui permettent de les soutenir.
+
+Cette possibilité ne signifie pas que toute réponse doive être immédiatement justifiée de manière exhaustive. Elle signifie que le passage d'un résultat descriptif à une conclusion qui prétend s'appuyer sur lui doit pouvoir être explicité lorsque ce passage est déterminant pour l'enquête.
+
 L'enquête ne consiste donc pas à remplir une grille en associant systématiquement une opération, une orientation, une fonction et un instrument. Elle consiste à déterminer quelles ressources sont pertinentes pour la difficulté rencontrée, à expliciter les raisons de leur mobilisation et à examiner les résultats obtenus.
 
 Le **plateau d'enquête** constitue une ressource complémentaire de représentation. Il peut rendre visibles les opérations mobilisées, les éléments examinés et les passages entre les différents travaux. Les orientations, les fonctions transversales et les instruments peuvent y être indiqués lorsqu'ils contribuent à rendre le cheminement intelligible.
