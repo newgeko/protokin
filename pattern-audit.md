@@ -343,7 +343,39 @@ Il convient notamment de ne pas confondre :
 
 Ces deux activités peuvent se soutenir, mais elles ne portent pas sur le même objet.
 
-### 6.5. Examiner les instruments d'épreuve
+### 6.5. Contrôler les dimensions de la connaissance mobilisées
+
+L'examen des pratiques descriptives porte aussi sur les activités de connaissance qui rendent leurs descriptions possibles, orientent leur production et conditionnent leur révision. À ce titre, l'audit doit vérifier que les pages prennent en compte, lorsque leur objet le requiert, les cinq dimensions distinguées dans [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) :
+
+- **Percevoir et prêter attention** : ce qui devient perceptible, ce qui est remarqué, retenu ou laissé à l'arrière-plan, ainsi que les conditions qui orientent l'attention.
+- **Identifier et distinguer** : la manière dont des éléments sont reconnus, individualisés, rapprochés ou différenciés, et les critères mobilisés.
+- **Anticiper et inférer** : les attentes, les prévisions et les transitions qui conduisent d'éléments disponibles à d'autres conclusions ou possibilités.
+- **Évaluer et justifier** : les critères, les raisons et les éléments mobilisés pour soutenir, contester ou réviser une description ou une conclusion.
+- **Reprendre et réviser** : la manière dont une pratique revient sur ses descriptions, ses identifications, ses distinctions, ses attentes et ses critères à la lumière de difficultés ou de nouveaux éléments.
+
+Ces dimensions sont interdépendantes. L'audit doit donc être attentif aux relations entre elles, sans présupposer une succession fixe. Une difficulté d'attention peut affecter une identification ; une identification peut orienter une inférence ; une anticipation peut conduire à de nouvelles observations ; une évaluation peut entraîner la révision des critères ou des descriptions.
+
+Ce contrôle ne doit pas transformer ces dimensions en composantes supplémentaires de l'architecture de Protokin. Elles ne constituent :
+
+- ni une nouvelle liste d'opérations ;
+- ni une classification exhaustive des activités cognitives ;
+- ni les étapes d'un processus de connaissance ;
+- ni une grille que toute enquête devrait parcourir intégralement.
+
+Elles désignent des dimensions interdépendantes que l'examen peut avoir à distinguer et à mettre en relation selon la difficulté rencontrée. Elles ne se substituent donc ni aux opérations, ni aux orientations, ni aux fonctions transversales, ni aux instruments d'épreuve.
+
+Pour chaque page concernée, vérifier notamment :
+
+- si les conditions perceptives et attentionnelles pertinentes sont prises en compte, plutôt que de traiter les éléments observés comme immédiatement disponibles ;
+- si les modalités et les critères d'identification sont suffisamment explicites ;
+- si les inférences et les anticipations sont distinguées des éléments directement observés ou établis ;
+- si les évaluations et les justifications s'appuient sur des raisons ou des critères identifiables ;
+- si les possibilités de reprise et de révision sont reconnues lorsque de nouvelles difficultés ou de nouveaux éléments le demandent ;
+- si les relations entre ces dimensions sont examinées lorsque la compréhension de la pratique en dépend.
+
+Ce contrôle est sélectif et proportionné à l'objet de la page. L'absence de développement sur l'une de ces dimensions n'est pas en elle-même une lacune : il faut établir qu'elle est pertinente pour le problème traité avant de demander qu'elle soit explicitée.
+
+### 6.6. Examiner les instruments d'épreuve
 
 Les trois instruments actuellement identifiés sont :
 
@@ -361,7 +393,7 @@ L'audit doit donc vérifier que les pages du corpus maintiennent cette différen
 
 Pour la définition des instruments et la distinction avec la Reprise, voir [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md).
 
-### 6.6. Rechercher les conversions non justifiées
+### 6.7. Rechercher les conversions non justifiées
 
 L'audit doit rechercher les passages dans lesquels une distinction ou une dépendance risque d'être transformée en identité, en succession nécessaire ou en réduction.
 
@@ -380,7 +412,7 @@ Ces distinctions n'interdisent pas d'établir des relations entre les termes. El
 
 Pour chaque difficulté constatée, préciser la proposition concernée, le type de conversion suspecté et l'argument nécessaire pour la soutenir ou l'écarter.
 
-### 6.7. Examiner le statut des propositions
+### 6.8. Examiner le statut des propositions
 
 L'audit doit vérifier que les pages distinguent les propositions portant sur les pratiques descriptives des affirmations portant sur les objets ou les situations décrits.
 
@@ -394,7 +426,7 @@ Il convient notamment d'examiner si :
 
 L'orientation non ontologique de Protokin ne signifie pas que toute proposition portant sur le réel serait exclue. Elle demande que ces propositions soient examinées et que les conclusions ne dépassent pas ce que les éléments et les raisons mobilisés permettent de soutenir.
 
-### 6.8. Examiner les usages de la notion de régime descriptif
+### 6.9. Examiner les usages de la notion de régime descriptif
 
 Lorsqu'une page mobilise la notion de régime descriptif, vérifier qu'elle ne la confond pas avec :
 
