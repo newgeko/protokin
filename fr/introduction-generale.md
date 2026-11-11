@@ -81,8 +81,23 @@ L'orientation inférentialiste consiste à examiner les engagements associés au
 L'orientation réflexive consiste à ne soustraire aucune des ressources de l'enquête à son propre examen. Les distinctions, les catégories, les critères et les instruments de Protokin peuvent se révéler insuffisants ou inadaptés. Leur pertinence doit pouvoir être réévaluée à partir des cas rencontrés, des objections et des résultats obtenus.
 
 Ces trois orientations sont liées, mais ne se substituent pas les unes aux autres. Elles contribuent à examiner les pratiques descriptives sans réduire leur fonctionnement à une seule dimension.
+## 6. Les ressources philosophiques de l'enquête : connaissance et langage
 
-## 6. Une démarche méthodologiquement non ontologique
+L'examen des pratiques descriptives engage deux questions étroitement liées : comment ces pratiques produisent-elles des descriptions intelligibles, et à quelles conditions les affirmations qu'elles soutiennent peuvent-elles être considérées comme suffisamment justifiées ?
+
+La philosophie du langage permet d'examiner les ressources conceptuelles et linguistiques mobilisées dans les pratiques descriptives. Elle contribue à distinguer la référence, la conceptualisation, la prédication, l'assertion et les conséquences inférentielles associées aux affirmations. Elle permet également d'interroger les usages des catégories, les conditions d'application des concepts et les engagements liés aux prises de position.
+
+La philosophie de la connaissance permet d'examiner les conditions dans lesquelles les descriptions peuvent être soutenues, contestées et révisées. Elle conduit à interroger les éléments disponibles, les critères mobilisés, les raisons avancées, les inférences effectuées et les conditions dans lesquelles une conclusion peut être tenue pour suffisamment établie.
+
+Ces deux domaines ne se confondent pas. Comprendre ce qu'une affirmation signifie ne suffit pas à établir qu'elle est adéquate à ce qu'elle prétend décrire. Inversement, disposer d'éléments empiriques ne suffit pas à déterminer les concepts sous lesquels ils doivent être interprétés ni les conclusions qu'ils autorisent.
+
+Leur articulation est particulièrement importante pour Protokin : une pratique descriptive ne se contente pas de produire des formulations. Elle identifie des situations, mobilise des concepts, établit des relations, formule des assertions et soutient des conclusions. Chacune de ces activités peut soulever des difficultés qui nécessitent un examen spécifique.
+
+L'inférentialisme constitue à cet égard une ressource importante. Il permet d'étudier les engagements associés aux assertions, les conséquences qu'elles autorisent et les pratiques dans lesquelles des raisons sont avancées, discutées et révisées. Il ne conduit cependant pas à réduire toutes les relations à des relations inférentielles. Les conditions matérielles, corporelles, techniques, sociales et institutionnelles des pratiques descriptives demeurent également des objets de l'enquête.
+
+Protokin mobilise ainsi les ressources de la philosophie du langage et de la connaissance pour examiner les pratiques descriptives sans présupposer que leur intelligibilité garantit leur adéquation, ni que leur justification discursive suffit à établir toutes leurs prétentions concernant les situations décrites.
+
+## 7. Une démarche méthodologiquement non ontologique
 
 Protokin ne prend pas une ontologie générale pour point de départ. Il ne présuppose pas une théorie qui déterminerait à l'avance les catégories fondamentales de ce qui existe, la nature de tous les objets ou les limites générales de ce que les pratiques descriptives peuvent connaître.
 
@@ -102,7 +117,7 @@ Il faut également distinguer une limite rencontrée dans une enquête d'une imp
 
 Ne pas présupposer une ontologie ne signifie donc ni nier l'existence de ce qui est décrit, ni renoncer à examiner les affirmations qui portent sur cette existence.
 
-## 7. Dépendances et non-conversion
+## 8. Dépendances et non-conversion
 
 Les pratiques descriptives ne construisent pas leurs objets dans des conditions entièrement libres. Elles rencontrent des contraintes matérielles, des événements, des observations et des résultats qui peuvent mettre en difficulté leurs descriptions.
 
@@ -132,7 +147,7 @@ La non-conversion est ainsi une règle méthodologique portant sur le traitement
 
 Il ne s'agit pas d'isoler ces dimensions, mais d'examiner les relations qui les unissent sans présumer que leur dépendance autorise toutes les conclusions. Les passages doivent être explicités, argumentés et soumis aux exigences propres aux questions auxquelles ils prétendent répondre.
 
-## 8. Portée de la démarche
+## 9. Portée de la démarche
 
 Protokin ne propose ni une description ultime du monde, ni une classification définitive de toutes les pratiques descriptives, ni une procédure universelle garantissant la validité des résultats.
 
