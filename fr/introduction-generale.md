@@ -106,13 +106,13 @@ Ne pas présupposer une ontologie ne signifie donc ni nier l'existence de ce qui
 
 Les pratiques descriptives ne construisent pas leurs objets dans des conditions entièrement libres. Elles rencontrent des contraintes matérielles, des événements, des observations et des résultats qui peuvent mettre en difficulté leurs descriptions.
 
-Toutefois, ce qui affecte une pratique ne détermine pas automatiquement la description à retenir ni la conclusion à défendre. Il faut distinguer les contraintes rencontrées, leur caractérisation descriptive et la justification des conclusions produites.
+Toutefois, ce qui affecte une pratique ne détermine pas automatiquement la description à retenir ni la conclusion à défendre. Il faut distinguer les contraintes rencontrées, leur caractérisation descriptive et les raisons susceptibles de soutenir les conclusions produites.
 
 Ces dimensions peuvent dépendre les unes des autres sans remplir la même fonction. Une résistance matérielle peut limiter une opération sans constituer, à elle seule, une justification. Une observation peut contribuer à soutenir une affirmation sans déterminer entièrement son interprétation. Une explication peut rendre compte de la genèse d'une description sans suffire à justifier son maintien.
 
 Cette exigence peut être formulée ainsi :
 
-Continuité des dépendances, discontinuité des fonctions, non-conversion.
+**Continuité des dépendances, distinction des fonctions, non-conversion automatique.**
 
 Elle conduit notamment à distinguer :
 
@@ -124,7 +124,13 @@ Elle conduit notamment à distinguer :
 - la cohérence d'une description de son adéquation ;
 - la pluralité des descriptions de leur équivalence.
 
-Il ne s'agit pas d'isoler ces dimensions, mais d'examiner les relations qui les unissent sans déduire de leur dépendance une identité de fonction. Le passage de l'une à l'autre doit être explicité et justifié.
+Ces distinctions ne signifient pas que les dimensions concernées seraient indépendantes ou qu'aucun passage entre elles ne serait possible. Elles indiquent qu'une conclusion établie sous un certain rapport ne suffit pas, par elle-même, à établir une conclusion relevant d'un autre rapport.
+
+Un passage reste possible lorsqu'il est soutenu par un argument explicite. Cet argument doit préciser les dépendances mobilisées, les éléments disponibles et les conditions qui autorisent la conclusion dans le registre visé. Il ne suffit donc pas de constater qu'une dimension intervient dans une autre pour transférer automatiquement à celle-ci la portée de la première.
+
+La non-conversion est ainsi une règle méthodologique portant sur le traitement des inférences. Elle impose une exigence de justification aux passages entre des questions distinctes ; elle ne pose pas une séparation de nature entre les dimensions examinées.
+
+Il ne s'agit pas d'isoler ces dimensions, mais d'examiner les relations qui les unissent sans présumer que leur dépendance autorise toutes les conclusions. Les passages doivent être explicités, argumentés et soumis aux exigences propres aux questions auxquelles ils prétendent répondre.
 
 ## 8. Portée de la démarche
 
