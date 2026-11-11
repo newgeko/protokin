@@ -109,6 +109,70 @@ Les documents éditoriaux et d'audit encadrent la rédaction, l'organisation et 
 
 Ces fonctions sont des repères souples. Elles peuvent être précisées ou révisées si l'évolution du corpus fait apparaître une contribution qui n'est pas correctement décrite par les catégories actuelles.
 
+## 2.10. Les trois centres de gravité du corpus
+
+Les fonctions documentaires permettent de caractériser la contribution propre de chaque page. À une autre échelle, le corpus peut être lu à partir de trois centres de gravité qui rendent visibles les principales contributions de Protokin.
+
+Ces centres ne constituent ni des catégories supplémentaires de l'architecture fonctionnelle de l'enquête, ni trois parties indépendantes du corpus. Ils désignent des regroupements analytiques qui facilitent la compréhension de son organisation générale. Une même page peut contribuer à plusieurs d'entre eux.
+
+### 2.10.1. Le centre méthodologique
+
+Le centre méthodologique rassemble les ressources qui définissent le problème auquel répond Protokin et précisent comment conduire une enquête sur les pratiques descriptives.
+
+Il comprend notamment :
+
+- les pages de présentation et de cadrage du projet ;
+- les définitions de l'enquête et de ses conditions de conduite ;
+- l'architecture fonctionnelle de l'enquête ;
+- les opérations, les orientations et les fonctions transversales ;
+- les instruments permettant d'examiner et d'éprouver les descriptions.
+
+Sa fonction est de rendre intelligibles les ressources mobilisables face à une difficulté descriptive, sans imposer une succession universelle d'opérations ni présupposer le déroulement de l'enquête.
+
+### 2.10.2. Le centre conceptuel
+
+Le centre conceptuel rassemble les ressources qui précisent les notions, les distinctions et les problèmes nécessaires à l'examen des pratiques descriptives.
+
+Il comprend notamment les pages consacrées :
+
+- à la description, à l'objet descriptif et au référent ;
+- aux régimes descriptifs, aux catégories et aux configurations ;
+- aux usages du langage, à la prédication et à l'inférence ;
+- aux raisons, aux critères et à la justification ;
+- à la validité, à la recevabilité et à la normativité.
+
+Sa fonction est de fournir les distinctions nécessaires pour analyser ce qui est décrit, comment cela l'est, quels engagements sont associés aux descriptions et quelles conclusions peuvent être soutenues.
+
+Ces ressources ne constituent pas un vocabulaire préalable qui devrait être appliqué à toute situation. Leur pertinence et leur portée doivent pouvoir être examinées et révisées au cours des enquêtes.
+
+### 2.10.3. Le centre réflexif et éditorial
+
+Le centre réflexif et éditorial rassemble les ressources qui permettent d'examiner Protokin lui-même, ses propositions, son organisation et les conditions de leur révision.
+
+Il comprend notamment :
+
+- les pages consacrées à l'auto-application et à la réflexivité ;
+- les ressources relatives à l'audit ;
+- les patterns éditoriaux et le pattern d'audit ;
+- l'audit du corpus ;
+- les documents qui organisent la navigation et la révision documentaire.
+
+Sa fonction est de rendre examinables les distinctions, les choix d'organisation et les engagements du projet. Il permet notamment de repérer les recouvrements, les tensions, les dépendances insuffisamment établies et les formulations qui ne correspondent plus aux orientations retenues.
+
+Ce centre ne constitue pas une instance extérieure à Protokin. Les ressources qui l'organisent sont elles-mêmes soumises aux exigences d'examen et de révision qu'elles contribuent à formuler.
+
+### 2.10.4. Articulation des trois centres
+
+Les trois centres sont complémentaires et ne correspondent pas à des domaines étanches.
+
+Le centre méthodologique précise les ressources permettant de conduire une enquête. Le centre conceptuel fournit des distinctions pour examiner les pratiques descriptives et les résultats obtenus. Le centre réflexif et éditorial permet de soumettre les ressources et l'organisation du projet à un examen critique.
+
+Leurs relations ne supposent pas une hiérarchie fixe. Une difficulté rencontrée dans une étude de cas peut conduire à reprendre une distinction conceptuelle, à modifier une ressource méthodologique ou à réviser l'organisation documentaire. Inversement, une révision conceptuelle peut entraîner des modifications dans les repères méthodologiques et dans plusieurs pages du corpus.
+
+Ces centres rendent ainsi visibles différentes contributions du projet sans préjuger de leur autonomie ni de l'ordre dans lequel elles interviennent.
+
+Ils constituent des repères de lecture et d'organisation, non une architecture supplémentaire.
+
 ## 3. Les relations entre les ressources
 
 Les pages ne sont pas simplement juxtaposées. Elles peuvent entretenir plusieurs types de relations, qu'il importe de distinguer.
