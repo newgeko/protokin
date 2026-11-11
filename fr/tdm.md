@@ -72,7 +72,7 @@ Ces ressources permettent d’examiner les différents rapports sous lesquels un
 
 ### A. Orientations de l’examen
 
-- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Définir les rapports sous lesquels une situation, une pratique ou un résultat peut être examiné et présenter les orientations actuellement disponibles : Condition, Relation, Fonction et Justification.
+- [Orientation de l’examen](fr/orientation-de-l-examen.md) — Présenter les orientations Condition, Relation, Fonction et Justification, préciser leur articulation et distinguer la portée réflexive et transversale de l’examen justificatif.
 - [Registres](fr/registres.md) — Distinguer les registres cognitif, sémantique et référentiel et préciser les limites de leur articulation.
 
 ### B. Conditions matérielles, biologiques et perceptives
