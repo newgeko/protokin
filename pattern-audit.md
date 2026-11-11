@@ -163,7 +163,7 @@ Ces contrôles portent sur les distinctions et les articulations structurantes d
 
 L'architecture fonctionnelle de l'enquête distingue quatre ensembles de ressources :
 
-- **Opérations** : travaux de second ordre par lesquels Protokin examine les pratiques descriptives, leurs conditions, leurs fonctions, leurs relations et leurs justifications.
+- **Opérations** : travaux de second ordre par lesquels Protokin examine les pratiques descriptives, leurs conditions, leurs fonctions, leurs relations et leurs justifications. Elles ne se confondent pas avec les activités de ces pratiques — mesurer, classer, interpréter ou produire une assertion — mais portent sur leurs conditions, leurs fonctions, leurs relations et leurs justifications.
 - **Orientations** : rapports sous lesquels une situation, une pratique, une opération ou un résultat est examiné.
 - **Fonctions transversales** : dimensions de l'examen susceptibles d'intervenir dans plusieurs opérations.
 - **Instruments d'épreuve** : moyens concrets permettant de confronter des descriptions, des distinctions ou des conclusions à un examen déterminé.
