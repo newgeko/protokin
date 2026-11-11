@@ -70,7 +70,13 @@ Protokin distingue actuellement quatre orientations de référence :
 
 Une même opération peut contribuer à plusieurs orientations. Une orientation peut, inversement, nécessiter plusieurs opérations. Il n'existe donc pas de correspondance fixe entre les deux.
 
-Ces orientations sont des repères disponibles, non les dimensions obligatoires de tout examen. Leur répertoire reste ouvert : une orientation supplémentaire ne serait pertinente que si une difficulté fait apparaître un rapport d'examen distinct que les orientations existantes ne permettent pas de traiter adéquatement.
+Les quatre orientations ne sont toutefois pas strictement symétriques. Condition, Relation et Fonction permettent d'examiner différents rapports relatifs à une situation, une pratique ou une configuration. Justification porte sur les raisons, les critères et les engagements qui permettent de soutenir les affirmations produites à leur sujet.
+
+Elle possède ainsi une portée réflexive et transversale : elle peut examiner les résultats obtenus sous les trois autres orientations, mais aussi les choix et les opérations qui ont contribué à les produire. Cette portée ne fait pas de Justification une instance extérieure à l'enquête. Les raisons et les critères examinés restent situés dans des pratiques et peuvent eux-mêmes être réexaminés.
+
+Cette asymétrie n'impose pas que toute opération soit systématiquement soumise à un examen justificatif. Elle indique seulement que les résultats d'un travail d'examen peuvent être interrogés quant aux raisons qui permettent de les soutenir, lorsque la difficulté rencontrée ou une objection rend cet examen pertinent.
+
+Les orientations sont des repères disponibles, non les dimensions obligatoires de tout examen. Leur répertoire reste ouvert : une orientation supplémentaire ne serait pertinente que si une difficulté fait apparaître un rapport d'examen distinct que les orientations existantes ne permettent pas de traiter adéquatement.
 
 La définition des orientations, leurs distinctions et les conditions de leur révision sont développées dans [Orientation de l'examen](fr/orientation-de-l-examen.md).
 
