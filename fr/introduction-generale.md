@@ -81,9 +81,10 @@ L'orientation inférentialiste consiste à examiner les engagements associés au
 L'orientation réflexive consiste à ne soustraire aucune des ressources de l'enquête à son propre examen. Les distinctions, les catégories, les critères et les instruments de Protokin peuvent se révéler insuffisants ou inadaptés. Leur pertinence doit pouvoir être réévaluée à partir des cas rencontrés, des objections et des résultats obtenus.
 
 Ces trois orientations sont liées, mais ne se substituent pas les unes aux autres. Elles contribuent à examiner les pratiques descriptives sans réduire leur fonctionnement à une seule dimension.
+
 ## 6. Les ressources philosophiques de l'enquête : connaissance et langage
 
-L'examen des pratiques descriptives engage deux questions étroitement liées : comment ces pratiques produisent-elles des descriptions intelligibles, et à quelles conditions les affirmations qu'elles soutiennent peuvent-elles être considérées comme suffisamment justifiées ?
+L'examen des pratiques descriptives engage notamment deux questions étroitement liées : comment ces pratiques produisent-elles des descriptions intelligibles, et à quelles conditions les affirmations qu'elles soutiennent peuvent-elles être considérées comme suffisamment justifiées ?
 
 La philosophie du langage permet d'examiner les ressources conceptuelles et linguistiques mobilisées dans les pratiques descriptives. Elle contribue à distinguer la référence, la conceptualisation, la prédication, l'assertion et les conséquences inférentielles associées aux affirmations. Elle permet également d'interroger les usages des catégories, les conditions d'application des concepts et les engagements liés aux prises de position.
 
@@ -91,9 +92,13 @@ La philosophie de la connaissance permet d'examiner les conditions dans lesquell
 
 Ces deux domaines ne se confondent pas. Comprendre ce qu'une affirmation signifie ne suffit pas à établir qu'elle est adéquate à ce qu'elle prétend décrire. Inversement, disposer d'éléments empiriques ne suffit pas à déterminer les concepts sous lesquels ils doivent être interprétés ni les conclusions qu'ils autorisent.
 
-Leur articulation est particulièrement importante pour Protokin : une pratique descriptive ne se contente pas de produire des formulations. Elle identifie des situations, mobilise des concepts, établit des relations, formule des assertions et soutient des conclusions. Chacune de ces activités peut soulever des difficultés qui nécessitent un examen spécifique.
+Leur articulation est particulièrement importante pour Protokin : une pratique descriptive ne se contente pas de produire des formulations. Elle mobilise des activités perceptives et attentionnelles, identifie des situations, distingue des éléments, anticipe des possibilités, établit des relations, formule des assertions et soutient des conclusions. Ces activités peuvent soulever des difficultés distinctes, mais interdépendantes, qui nécessitent un examen spécifique.
 
-L'inférentialisme constitue à cet égard une ressource importante. Il permet d'étudier les engagements associés aux assertions, les conséquences qu'elles autorisent et les pratiques dans lesquelles des raisons sont avancées, discutées et révisées. Il ne conduit cependant pas à réduire toutes les relations à des relations inférentielles. Les conditions matérielles, corporelles, techniques, sociales et institutionnelles des pratiques descriptives demeurent également des objets de l'enquête.
+Les théories de la connaissance et du langage constituent ainsi des ressources théoriques que l'enquête peut mobiliser au cours de son déroulement. Elles ne forment ni un fondement doctrinal à accepter préalablement, ni un ensemble de composantes de l'architecture fonctionnelle. Leur mobilisation dépend des problèmes rencontrés. Elles peuvent aider à préciser une difficulté, à distinguer des questions jusque-là confondues ou à examiner les conséquences d'une description. Leurs propositions et leurs présupposés restent eux-mêmes susceptibles d'être discutés.
+
+L'inférentialisme constitue à cet égard une ressource importante. Il permet d'étudier les engagements associés aux assertions, les conséquences qu'elles autorisent et les pratiques dans lesquelles des raisons sont avancées, discutées et révisées. Il ne conduit cependant pas à réduire toutes les relations à des relations inférentielles. Les conditions perceptives, matérielles, corporelles, techniques, sociales et institutionnelles des pratiques descriptives demeurent également des objets de l'enquête.
+
+Les ressources théoriques ne déterminent donc pas à l'avance les opérations à conduire ni les fonctions transversales à mobiliser. Elles peuvent intervenir dans différents moments de l'enquête et contribuer à l'examen de plusieurs dimensions de la connaissance.
 
 Protokin mobilise ainsi les ressources de la philosophie du langage et de la connaissance pour examiner les pratiques descriptives sans présupposer que leur intelligibilité garantit leur adéquation, ni que leur justification discursive suffit à établir toutes leurs prétentions concernant les situations décrites.
 
