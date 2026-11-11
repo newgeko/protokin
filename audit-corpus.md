@@ -359,17 +359,19 @@ Il maintient également la distinction entre cohérence descriptive et adéquati
 
 ### 6.2. Architecture fonctionnelle
 
-**État : distinction des ressources clarifiée.**
+**État : distinction clarifiée dans les documents de référence consultés ; transposition documentaire encore incomplète.**
 
 L'architecture fonctionnelle actuelle distingue quatre ensembles : opérations, orientations, fonctions transversales et instruments d'épreuve.
 
-Les catégories sont des regroupements documentaires des opérations et non une cinquième famille de ressources.
+Les catégories sont des regroupements documentaires des opérations. Elles ne constituent ni un cinquième ensemble ni une famille de ressources de même niveau que les quatre ensembles fonctionnels.
 
 Les opérations ne constituent pas une séquence obligatoire. Les orientations ne sont ni exhaustives ni hiérarchisées.
 
-**Difficulté documentaire vérifiée :** `pattern-audit.md` conserve une présentation des catégories au même niveau que les quatre ensembles de ressources. Cette formulation ne correspond pas exactement à la distinction exposée dans `fr/architecture-fonctionnelle-de-l-enquete.md`.
+**Correction déjà effectuée dans `pattern-audit.md` :** sa section 6.1 distingue explicitement les quatre ensembles de ressources et le statut différent des catégories. Elle précise que celles-ci regroupent certaines opérations pour en faciliter le repérage, sans constituer un ensemble supplémentaire, une classification exhaustive ou une hiérarchie. Le constat antérieur selon lequel `pattern-audit.md` maintenait les catégories au même niveau que les quatre ensembles est donc périmé et ne doit plus être repris comme une divergence actuelle.
 
-**Intervention proposée :** reprendre la formulation de `pattern-audit.md` afin de distinguer explicitement les quatre ensembles et les catégories de regroupement.
+**Divergence documentaire encore présente :** la présentation de l'architecture dans `fr/tdm.md` énumère encore les catégories avec les opérations, les orientations, les fonctions transversales et les instruments d'épreuve. Cette énumération entretient l'idée d'un ensemble de cinq composantes et ne correspond pas à la distinction désormais établie dans `fr/architecture-fonctionnelle-de-l-enquete.md` et `pattern-audit.md`.
+
+**Intervention restante :** corriger la présentation de la TDM et rechercher les autres documents de présentation ou de navigation qui placeraient les catégories au même niveau que les quatre ensembles. Ne pas modifier à nouveau `pattern-audit.md` sur ce point, sauf si une nouvelle divergence précise est constatée.
 
 ### 6.3. Migration vers les orientations de l'examen
 
