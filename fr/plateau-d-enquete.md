@@ -1,318 +1,346 @@
-# Le plateau d’enquête — Représenter le chemin d’une enquête située
+# Le plateau d'enquête — Représenter les opérations et leurs relations
 
 ## Fonction
 
-Cette page définit le plateau d’enquête comme un instrument facultatif de représentation et de navigation. Elle précise comment représenter les opérations mobilisées, les orientations de l’examen et le chemin construit au cours d’une enquête.
+Cette page définit le plateau d'enquête comme un dispositif graphique facultatif permettant de représenter les opérations mobilisées dans une enquête, les éléments qu'elles examinent et les relations qui peuvent être établies ou reconstruites entre elles.
 
-Le plateau permet de rendre visible l’organisation spatiale et temporelle d’un travail d’examen. Il représente les opérations effectivement mobilisées, les questions qui conduisent à les reprendre, les relations entre les différents moments de l’enquête et les éventuelles bifurcations de son parcours.
+Elle précise la fonction des punaises, du fil rouge et des autres repères graphiques, ainsi que les conditions dans lesquelles leur disposition peut contribuer à rendre une enquête intelligible.
 
-Il ne constitue ni une nouvelle composante de l’architecture fonctionnelle, ni une procédure obligatoire, ni une représentation exhaustive d’un régime descriptif.
+Le plateau ne représente pas un parcours que l'enquête aurait nécessairement suivi. Il permet de distinguer les travaux effectivement réalisés des relations qui deviennent identifiables au cours de l'examen ou qui sont reconstruites depuis une situation ultérieure.
 
-## 1. Pourquoi représenter une enquête ?
+Il ne constitue ni une composante supplémentaire de l'architecture fonctionnelle, ni une opération de l'enquête, ni un instrument d'épreuve. Il ne remplace pas les opérations de l'enquête et ne détermine pas leur ordre de mobilisation.
 
-L’architecture fonctionnelle de Protokin distingue plusieurs ressources : catégories de regroupement, opérations, orientations, fonctions transversales et instruments d’épreuve.
+## 1. Le problème de la représentation
 
-Cette distinction permet de préciser les fonctions respectives de ces ressources. Elle ne montre cependant pas nécessairement comment elles sont mobilisées dans une enquête particulière.
+L'architecture fonctionnelle de Protokin présente les ressources disponibles pour examiner les pratiques descriptives. Elle distingue les opérations, les orientations, les fonctions transversales et les instruments d'épreuve.
 
-Une enquête ne consiste pas à parcourir successivement les opérations disponibles. Elle se construit à partir d’une difficulté déterminée. Chaque travail d’examen peut faire apparaître une nouvelle difficulté, conduire à préciser une question, rendre nécessaire une autre opération ou imposer de revenir sur un résultat antérieur.
+Cette organisation permet de comprendre les fonctions respectives de ces ressources. Elle ne représente cependant pas leur mobilisation dans une enquête particulière.
 
-Le chemin dépend ainsi des questions posées, des éléments disponibles et des résultats progressivement obtenus.
+Une enquête peut mobiliser plusieurs opérations, les reprendre, en combiner certaines ou abandonner des travaux initialement envisagés. Les relations entre ces travaux ne sont pas nécessairement identifiables au moment où ils sont réalisés.
 
-Il peut être utile de représenter ce chemin pour rendre visibles :
+Un résultat ultérieur peut modifier la compréhension d'une opération antérieure. Une difficulté initialement secondaire peut devenir centrale. Des travaux conduits séparément peuvent apparaître rétrospectivement comme dépendants les uns des autres.
 
-- les opérations effectivement mobilisées ;
-- les orientations sous lesquelles les éléments sont examinés ;
-- les questions qui motivent le passage d'une opération à une autre ;
-- les relations entre les différents moments de l'enquête ;
-- les bifurcations, les retours et les reprises ;
-- les résultats établis et les difficultés qui demeurent.
+Il faut donc distinguer deux questions :
 
-Le plateau répond à ce besoin de représentation. Il permet de visualiser une enquête en train de se construire, sans présupposer son organisation finale.
+- Quels travaux ont effectivement été réalisés, dans quelles conditions et à partir de quels éléments ?
+- Quelles relations peut-on établir ou reconstruire entre ces travaux et les configurations examinées ?
 
-## 2. Définition
+La première concerne le déroulement effectif de l'enquête. La seconde concerne l'intelligibilité des relations entre ses différents travaux.
 
-Un **plateau d’enquête** est une représentation construite, située, sélective et révisable du chemin suivi par une enquête relativement à une difficulté déterminée.
+Le plateau répond à un besoin de représentation de ces deux dimensions, sans les confondre.
 
-Il permet de disposer dans un espace graphique les opérations mobilisées et de représenter leurs relations au moyen d'un parcours.
+## 2. Définition du plateau
 
-Ce parcours rend visibles les déplacements successifs du travail d'examen. Il peut comporter des retours, des bifurcations, des interruptions et des reprises.
+Un **plateau d'enquête** est une représentation graphique, située, sélective et révisable des opérations mobilisées dans une enquête et des relations que l'examen permet d'établir ou de reconstruire entre elles.
 
-Le plateau distingue notamment :
+Il permet de disposer dans un espace commun des occurrences de travaux d'examen, des éléments qui leur sont associés et des relations pertinentes pour comprendre leur articulation.
 
-- **Les opérations** : les travaux d'examen mobilisés dans l'enquête.
-- **Les orientations** : les rapports sous lesquels les éléments sont examinés.
-- **Les examens** : les questions et les épreuves conduites à partir d'une opération et sous une ou plusieurs orientations.
-- **Le chemin** : les relations entre les opérations effectivement mobilisées au cours de l'enquête.
-- **Les éléments examinés** : observations, documents, traces, descriptions, critères et conclusions.
-- **Les résultats** : ce qui a été établi, corrigé, limité ou laissé en suspens.
+Le plateau n'est pas une carte de la réalité, ni une représentation exhaustive de l'enquête. Il sélectionne certains éléments en fonction du problème étudié et de ce qu'il devient utile de rendre visible.
 
-Ces éléments ne constituent pas les cases fixes d'un dispositif. Leur présence et leur disposition dépendent de la difficulté étudiée.
+Sa disposition ne possède pas de signification indépendante des conventions retenues pour la construire. Une proximité graphique, un alignement ou une liaison ne suffisent pas à établir une identité, une dépendance ou une succession entre les éléments représentés.
 
-Le plateau ne représente donc pas une enquête en général. Il représente une organisation particulière du travail d'examen, à un moment donné et pour un objectif déterminé.
+Le plateau doit donc être accompagné d'indications permettant de comprendre ce que représentent ses éléments et la nature des relations qui les relient.
 
 ## 3. Les éléments du plateau
 
-### 3.1. Les opérations : les punaises du plateau
+### 3.1. Les punaises : les occurrences des opérations
 
-Les opérations constituent les points de travail du plateau.
+Les opérations constituent les principaux points de travail représentés sur le plateau.
 
-Elles peuvent être représentées par des punaises, des cases ou des cartes disposées dans l'espace :
+Dans l'image du tableau de Liège, elles peuvent être figurées par des punaises disposées sur un support.
 
-- Délimiter
-- Ancrer
-- Distinguer
-- Relier
-- Configurer
-- Justifier
-- Reconstituer
-- Redélimiter
+Les huit opérations actuellement distinguées dans Protokin sont :
 
-Chaque punaise matérialise une mobilisation effective ou envisagée d'une opération dans l'enquête.
+- Délimiter ;
+- Ancrer ;
+- Distinguer ;
+- Relier ;
+- Configurer ;
+- Justifier ;
+- Reconstituer ;
+- Redélimiter.
 
-Il faut distinguer l'opération comme ressource disponible dans l'architecture et son occurrence particulière dans une enquête. Une même opération peut ainsi apparaître plusieurs fois sur un plateau lorsque le travail qu'elle désigne est repris à différents moments.
+La liste constitue un répertoire de référence. Elle ne détermine ni le nombre de punaises nécessaires ni leur disposition sur un plateau.
 
-Les punaises ne représentent donc ni les étapes d'une chaîne obligatoire ni les positions d'une classification.
+Il faut distinguer une opération comme ressource disponible et ses occurrences particulières dans une enquête.
 
-Leur disposition dépend de l'organisation propre à l'enquête. Deux punaises représentant la même opération peuvent être éloignées si elles correspondent à des moments différents du travail.
+Une même opération peut ainsi être représentée plusieurs fois lorsqu'elle est mobilisée à différents moments ou lorsque son objet et sa fonction se transforment au cours de l'examen.
 
-Une punaise peut être accompagnée d'une indication précisant :
+Une punaise ne représente donc pas simplement le nom d'une opération. Elle matérialise une mobilisation située de cette opération.
 
-- la difficulté examinée ;
+Elle peut être accompagnée d'indications concernant :
+
+- la question examinée ;
 - les éléments mobilisés ;
-- le travail effectué ;
-- le résultat obtenu ;
-- la question qui reste à traiter.
+- les conditions du travail ;
+- les résultats obtenus ;
+- les difficultés qui demeurent ;
+- les éventuelles objections ou reprises.
 
-### 3.2. Le fil rouge : une reconstruction rétrospective
+Les opérations qui n'ont pas été mobilisées ne doivent pas être représentées comme si elles avaient effectivement été réalisées. Un travail envisagé mais non effectué peut être signalé séparément, à condition que son statut soit explicite.
 
-Le fil rouge ne représente pas un chemin unique que l'enquête aurait nécessairement parcouru. Il matérialise une reconstruction possible des relations entre les opérations mobilisées et les configurations rencontrées.
+Les punaises ne constituent ni les étapes d'une procédure ni les positions d'une classification.
 
-Le déroulement effectif d'une enquête comporte des hésitations, des bifurcations, des reprises et des transformations qui ne forment pas nécessairement une progression continue. Ce n'est souvent que depuis une situation ultérieure que certaines dépendances deviennent identifiables et que des éléments auparavant dispersés peuvent être articulés.
+### 3.2. Les éléments examinés
 
-Le fil rouge rend visible cette articulation rétrospective. Il ne restitue donc pas simplement l'ordre chronologique des opérations : il indique les relations que l'enquête établit entre elles pour rendre intelligible un parcours.
+Une enquête mobilise des observations, des documents, des mesures, des traces, des descriptions, des critères et des conclusions.
 
-Cette reconstruction reste contingente et révisable. D'autres relations peuvent être établies, certaines continuités peuvent être contestées et une configuration ultérieure peut conduire à réinterpréter les étapes précédentes.
+Ces éléments peuvent être associés aux punaises lorsqu'ils permettent de comprendre le travail effectué ou les résultats obtenus.
 
-Le fil rouge ne représente ainsi ni une progression nécessaire vers une résolution, ni la découverte d'un ordre qui aurait été présent dès le commencement. Il représente une mise en cohérence rétrospective dont il faut toujours pouvoir examiner les conditions et les limites.
+Ils peuvent également être représentés séparément lorsque leur circulation entre plusieurs opérations ou configurations constitue un enjeu de l'examen.
 
-### 3.3. Les orientations : les rapports d'examen
+Il importe de distinguer :
 
-Les orientations indiquent sous quel rapport une situation, une pratique, une opération ou un résultat est examiné.
+- les éléments effectivement disponibles ;
+- les interprétations proposées ;
+- les hypothèses de travail ;
+- les résultats suffisamment établis ;
+- les questions qui restent ouvertes.
+
+La représentation ne doit pas effacer ces différences en plaçant tous les éléments au même niveau.
+
+### 3.3. Le fil rouge : représenter des relations
+
+Le fil rouge constitue l'élément graphique central du plateau.
+
+Il ne représente pas un chemin unique que l'enquête aurait nécessairement parcouru. Il matérialise des relations entre des opérations, leurs occurrences, les éléments examinés et les configurations concernées.
+
+Ces relations peuvent être établies au cours de l'enquête ou reconstruites ultérieurement.
+
+Le fil rouge peut notamment rendre visibles :
+
+- une dépendance entre deux travaux d'examen ;
+- la reprise d'une question à partir d'un résultat antérieur ;
+- la réutilisation d'un document ou d'une observation ;
+- une relation entre deux configurations examinées ;
+- une bifurcation entre plusieurs questions ;
+- la convergence de travaux initialement conduits séparément ;
+- une relation qui ne devient intelligible que depuis une situation ultérieure.
+
+Ces relations ne sont pas toutes de même nature.
+
+Une succession temporelle ne constitue pas nécessairement une dépendance. Une dépendance ne démontre pas une succession obligatoire. Une relation reconstruite rétrospectivement ne prouve pas qu'elle était identifiable dès le commencement de l'enquête.
+
+Il est donc utile d'indiquer, lorsque cela importe, la nature de chaque liaison et son statut : relation établie, hypothèse de travail, dépendance discutée ou reconstruction rétrospective.
+
+Le fil rouge ne garantit pas la validité des relations qu'il représente. Il rend leur examen possible.
+
+Il peut être interrompu, prolongé, déplacé ou remplacé lorsque les résultats de l'enquête conduisent à modifier la représentation.
+
+Le fil rouge ne doit donc pas être compris comme la matérialisation d'une continuité nécessaire, mais comme un moyen de rendre visibles des relations dont la pertinence reste examinable.
+
+### 3.4. Les orientations : préciser les rapports d'examen
+
+Les orientations permettent de préciser sous quel rapport une situation, une pratique, une opération ou un résultat est examiné.
 
 Protokin distingue actuellement quatre orientations de référence :
 
-- **Condition** : dans quelles conditions et sous quelles contraintes la situation se produit-elle ?
-- **Relation** : quels rapports, dépendances et médiations doivent être examinés ?
-- **Fonction** : quel rôle joue l'élément considéré dans la pratique concernée ?
-- **Justification** : quelles raisons et quels critères permettent de soutenir ou de contester une conclusion ?
+- **Condition** ;
+- **Relation** ;
+- **Fonction** ;
+- **Justification**.
 
-Sur le plateau, les orientations peuvent être représentées par des étiquettes, des annotations ou des repères associés aux questions et aux passages du parcours.
+Sur le plateau, elles peuvent être indiquées par des annotations, des étiquettes ou des repères associés aux opérations et aux questions examinées.
 
-Elles ne constituent pas des punaises supplémentaires et ne représentent pas quatre chemins indépendants.
+Elles ne constituent pas des punaises supplémentaires et ne déterminent pas quatre parcours indépendants.
 
-Une même opération peut être examinée sous plusieurs orientations. Inversement, une même orientation peut intervenir à plusieurs endroits du parcours.
+Une même occurrence d'opération peut contribuer à plusieurs orientations. Une même orientation peut intervenir dans plusieurs opérations.
 
-Une orientation peut également devenir pertinente en cours d'enquête, lorsque l'examen fait apparaître une question qui n'avait pas été identifiée auparavant.
+Une orientation peut également devenir pertinente en cours d'enquête, lorsque les résultats obtenus font apparaître une question qui n'avait pas été identifiée auparavant.
 
-Le rapport entre opérations et orientations n'est donc pas fixe :
+Il faut donc distinguer :
 
-- l'opération indique le travail effectué ;
-- l'orientation indique sous quel rapport ce travail est conduit ;
-- l'examen permet de déterminer ce qui reste à établir ;
-- le résultat de cet examen contribue à déterminer la suite du parcours.
+- l'opération, qui désigne le travail d'examen mobilisé ;
+- l'orientation, qui précise le rapport sous lequel ce travail est conduit ;
+- les éléments examinés, qui constituent les matériaux et les objets de l'examen ;
+- le fil rouge, qui représente certaines relations entre les éléments du plateau.
 
-**Les orientations ne prescrivent pas le déplacement. Elles permettent de préciser les questions à partir desquelles un déplacement peut devenir nécessaire.**
+Les orientations ne prescrivent ni le déplacement des punaises ni la forme du fil rouge.
 
-### 3.4. Les examens : ce qui oriente le passage
-
-Le passage d'une opération à une autre ne doit pas apparaître comme un simple déplacement graphique.
-
-Il répond à un examen qui permet de déterminer ce qui manque encore, ce qui demeure incertain ou ce qui doit être repris.
-
-Par exemple :
-
-- un examen des conditions peut conduire à reprendre l'opération Ancrer ;
-- un examen des relations peut rendre nécessaire Relier ;
-- un examen des fonctions peut conduire à Distinguer ou Configurer ;
-- un examen des justifications peut conduire à Justifier ou à reprendre une opération antérieure.
-
-Ces associations ne sont pas exclusives. Elles illustrent des possibilités de cheminement, non des correspondances obligatoires.
-
-Le plateau peut faire apparaître les questions qui motivent chaque passage. Une courte annotation peut ainsi préciser pourquoi l'enquête quitte une opération pour en mobiliser une autre.
-
-Le fil rouge matérialise le passage ; l'examen permet d'en expliciter la raison.
+Leur définition et leurs conditions d'emploi sont développées dans [Orientation de l'examen](fr/orientation-de-l-examen.md).
 
 ### 3.5. Les autres ressources de l'enquête
 
-Le plateau peut également faire apparaître les fonctions transversales et les instruments d'épreuve lorsqu'ils contribuent à l'examen.
+Les fonctions transversales et les instruments d'épreuve peuvent être indiqués sur le plateau lorsqu'ils contribuent à comprendre un travail particulier.
 
-Les fonctions transversales — Temporaliser, Expliquer, Auditer, Réfléchir et Éprouver — peuvent être indiquées par des annotations associées à plusieurs moments du parcours.
+Les fonctions transversales — Temporaliser, Expliquer, Auditer, Réfléchir et Éprouver — peuvent être associées à plusieurs occurrences d'opérations.
 
-Les instruments d'épreuve — Substitution, Cas, Comparaison et Reprise — peuvent être signalés à proximité des opérations dans lesquelles ils sont mobilisés.
+Les instruments d'épreuve — Substitution, Cas et Comparaison — peuvent être signalés lorsqu'ils ont effectivement été mobilisés.
 
-Ils ne constituent ni des punaises supplémentaires ni des étapes du parcours.
+La Reprise peut également être indiquée lorsqu'une opération, une description, une distinction ou une conclusion fait l'objet d'un nouvel examen.
 
-Le plateau peut enfin comporter des documents, des observations, des traces, des mesures ou des descriptions servant d'appuis à l'examen.
+Elle ne constitue toutefois pas un instrument supplémentaire. Elle désigne une modalité générale de réexamen, qui peut mobiliser un instrument ou ne nécessiter aucun instrument particulier.
 
-Il importe de distinguer les éléments effectivement disponibles, les hypothèses de travail et les résultats établis.
+Ces ressources ne doivent pas être représentées comme des opérations supplémentaires.
 
-## 4. Un parcours non linéaire
+Le plateau n'a pas non plus à les faire toutes apparaître. Seules celles qui contribuent à comprendre la situation examinée doivent être retenues.
 
-Le plateau ne représente pas nécessairement un parcours rectiligne.
+## 4. Déroulement effectif et reconstruction des relations
 
-Une enquête peut avancer, revenir sur un point antérieur, emprunter plusieurs directions ou laisser certaines questions en suspens.
+La représentation du temps constitue un enjeu particulier du plateau.
 
-Le fil rouge peut notamment prendre plusieurs formes.
+Il faut distinguer trois dimensions.
 
-### Une progression
+### 4.1. La temporalité effective
 
-Une difficulté conduit à mobiliser plusieurs opérations successives parce que chaque examen fait apparaître un travail supplémentaire.
+Elle concerne la succession des travaux tels qu'ils ont effectivement été réalisés.
 
-### Une reprise
+Une enquête peut comporter des hésitations, des interruptions, des changements de question, des retours et des décisions qui n'avaient pas été anticipés.
 
-Un résultat obtenu à une étape ultérieure conduit à revenir sur une opération déjà mobilisée.
+Le plateau peut conserver des indications chronologiques lorsque celles-ci sont pertinentes : dates, ordre de réalisation, durée ou moment d'apparition d'une difficulté.
 
-### Une bifurcation
+Ces indications rendent compte du déroulement effectif. Elles ne constituent pas à elles seules une reconstruction de ses relations.
 
-Une même difficulté fait apparaître plusieurs questions distinctes qui nécessitent des travaux d'examen différents.
+### 4.2. La temporalité prospective
 
-### Un croisement
+Elle concerne ce qui pouvait être anticipé, envisagé ou ignoré au moment où un travail était réalisé.
 
-Plusieurs chemins se rejoignent lorsqu'ils contribuent au traitement d'une même difficulté ou lorsque leurs résultats doivent être confrontés.
+Une enquête peut comporter plusieurs possibilités de poursuite, dont certaines seront abandonnées ou ne deviendront pertinentes que plus tard.
 
-### Une redélimitation
+Le plateau peut conserver la trace de ces possibilités lorsqu'elles permettent de comprendre les choix effectués et les alternatives qui étaient alors ouvertes.
 
-L'enquête conduit à reformuler le problème initial et à reconstruire une partie du parcours.
+Il ne faut pas leur attribuer rétrospectivement un statut de décision effective.
 
-Ces configurations ne sont pas des catégories supplémentaires de l'architecture. Elles décrivent des formes possibles du chemin suivi par une enquête.
+### 4.3. La temporalité rétrospective
 
-Le plateau doit permettre de représenter ces mouvements sans les ramener à une succession unique.
+Elle concerne les relations qui deviennent intelligibles depuis une situation ultérieure.
 
-## 5. Construire un plateau à partir d'une enquête
+Un résultat peut conduire à relier des travaux qui avaient été conduits séparément. Une difficulté initialement marginale peut apparaître comme déterminante. Une opération peut prendre une signification différente à la lumière d'une reprise ultérieure.
 
-Le plateau est construit à partir d'une difficulté déterminée. Il ne faut pas commencer par disposer toutes les opérations pour chercher ensuite à les relier.
+Le fil rouge peut matérialiser cette reconstruction.
 
-La construction peut suivre les repères suivants.
+Il ne restitue pas simplement l'ordre chronologique. Il rend visibles des relations établies depuis une situation d'examen qui dispose d'éléments supplémentaires ou d'une compréhension modifiée du problème.
 
-### 1. Formuler la difficulté
+Cette reconstruction est nécessairement située et révisable.
 
-Préciser ce qui ne peut plus être suffisamment décrit, distingué, expliqué ou justifié.
+Elle ne démontre pas que le résultat était prévisible, que les opérations formaient dès le départ un parcours cohérent ou que leur succession était nécessaire.
 
-La formulation initiale reste provisoire.
+Une représentation peut ainsi associer des indications chronologiques et des relations reconstruites, à condition de ne pas les confondre.
 
-### 2. Identifier le premier travail d'examen
+Pour approfondir ces distinctions, voir [Temporaliser](fr/temporaliser.md).
 
-Déterminer quelle opération permet de commencer à traiter la difficulté.
+## 5. Construire et réviser un plateau
 
-Cette opération constitue un premier point du plateau.
+Le plateau est construit en fonction d'une difficulté et d'un besoin de représentation. Il ne faut pas commencer par disposer toutes les opérations pour chercher ensuite à les relier.
 
-### 3. Préciser l'orientation de l'examen
+Son utilisation peut s'organiser autour de quelques décisions pratiques.
 
-Identifier sous quel rapport la situation ou les éléments concernés doivent être examinés.
+### 5.1. Déterminer ce qu'il est utile de représenter
 
-Une ou plusieurs orientations peuvent être retenues. Elles peuvent également être précisées au cours du travail.
+Préciser la difficulté ou la question pour laquelle une représentation graphique apporterait un gain identifiable.
 
-### 4. Conduire l'examen
+Le plateau peut porter sur une partie d'une enquête ou sur les relations entre plusieurs de ses travaux.
 
-Examiner les éléments disponibles, les relations pertinentes et les conclusions possibles.
+Il n'est pas nécessaire d'y faire apparaître l'ensemble des opérations disponibles.
 
-Les fonctions transversales et les instruments d'épreuve peuvent être mobilisés lorsqu'ils apportent une contribution identifiable.
+### 5.2. Identifier les occurrences de travaux
 
-### 5. Déterminer la reprise nécessaire
+Représenter les opérations effectivement mobilisées, en distinguant leurs différentes occurrences lorsque cela est nécessaire.
 
-À partir du résultat obtenu, déterminer ce qui reste à faire.
+Associer à chacune les éléments utiles à la compréhension du travail réalisé.
 
-Faut-il mobiliser une autre opération ? Reprendre la même ? Examiner une autre orientation ? Reformuler le problème ?
+Les travaux envisagés mais non effectués doivent conserver un statut distinct.
 
-Cette décision détermine le passage suivant du parcours.
+### 5.3. Représenter les relations pertinentes
 
-### 6. Représenter et réviser le chemin
+Relier les éléments lorsque leur relation contribue à comprendre l'enquête.
 
-Ajouter les nouvelles punaises, relier les opérations et annoter les passages importants.
+Préciser, si nécessaire, s'il s'agit d'une succession, d'une dépendance, d'une reprise, d'une comparaison ou d'une reconstruction rétrospective.
 
-Le parcours peut être modifié lorsque de nouveaux éléments apparaissent ou que les résultats obtenus conduisent à réexaminer les choix précédents.
+Ne pas établir de liaison uniquement pour produire une figure graphiquement cohérente.
 
-Cette construction ne constitue pas une procédure obligatoire. Elle décrit une manière possible d'utiliser le plateau pour rendre le cheminement de l'enquête plus lisible.
+### 5.4. Indiquer les orientations et les autres ressources
+
+Ajouter les annotations nécessaires pour préciser les rapports sous lesquels les éléments sont examinés.
+
+Signaler les fonctions transversales et les instruments effectivement mobilisés lorsque ces indications facilitent la compréhension de la représentation.
+
+Ne pas transformer ces annotations en catégories ou en étapes supplémentaires.
+
+### 5.5. Réexaminer la représentation
+
+Modifier le plateau lorsque de nouveaux éléments conduisent à revoir les relations établies.
+
+Une liaison peut être contestée, précisée ou supprimée. Une occurrence d'opération peut être ajoutée lorsqu'un nouveau travail est réalisé. Une configuration peut être redécrite à partir d'éléments qui n'étaient pas initialement disponibles.
+
+Le plateau peut également devenir inutile lorsque la représentation graphique n'apporte plus de contribution identifiable.
+
+Ces indications constituent des possibilités d'utilisation, non une procédure obligatoire de conduite de l'enquête.
 
 ## 6. Un plateau ou plusieurs représentations
 
 Le nombre de plateaux ne découle pas du nombre de régimes descriptifs identifiés.
 
-Un plateau est construit en fonction du problème à examiner et des relations qu'il devient utile de représenter.
+Il dépend du problème étudié et des relations qu'il devient utile de représenter.
 
-Selon la situation :
+Un plateau peut concerner une seule pratique descriptive ou rendre visibles les relations entre plusieurs pratiques.
 
-- un plateau peut représenter une enquête portant principalement sur une pratique descriptive ;
-- un plateau peut rendre visibles les relations entre plusieurs pratiques ou régimes ;
-- plusieurs plateaux peuvent être construits séparément lorsque leurs organisations doivent rester distinctes ;
-- plusieurs représentations peuvent être rapprochées pour examiner leurs relations.
+Plusieurs plateaux peuvent également être construits séparément lorsque les éléments, les fonctions ou les organisations des pratiques doivent rester distincts.
 
-Un même régime descriptif peut ainsi être représenté de différentes manières selon les problèmes étudiés.
+Leur rapprochement permet alors d'examiner certaines relations sans supposer que les pratiques possèdent une organisation commune.
 
-Inversement, un plateau peut concerner plusieurs régimes sans supposer qu'ils possèdent une organisation commune.
+Une position graphique semblable ne démontre ni l'identité des opérations ni l'équivalence des descriptions.
 
-Lorsque plusieurs plateaux sont rapprochés, les relations entre leurs éléments doivent être examinées. Une position semblable ne garantit ni l'identité des opérations ni l'équivalence des descriptions.
+De même, une liaison entre deux éléments de plateaux distincts ne suffit pas à établir qu'ils remplissent la même fonction ou qu'ils sont compatibles.
 
-Une zone de passage peut être indiquée lorsqu'un élément, une information ou une description est repris d'une pratique dans une autre.
+Le rapprochement des représentations doit donc être justifié par le problème examiné et par les relations effectivement identifiées.
 
-Cette zone représente une relation à examiner. Elle ne présuppose pas l'existence d'un espace commun entre les pratiques.
+Pour l'examen des relations entre plusieurs pratiques descriptives, voir [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md).
 
-Pour l'analyse de ces relations, voir [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md).
+## 7. Ce que le plateau permet et n'établit pas
 
-## 7. Révision et limites du plateau
+Le plateau permet de :
 
-Le plateau est une représentation révisable.
+- rendre visibles les occurrences des opérations mobilisées ;
+- conserver des informations sur les éléments examinés et les résultats obtenus ;
+- représenter certaines relations entre les travaux ;
+- distinguer, lorsque cela est nécessaire, succession effective et reconstruction rétrospective ;
+- rendre perceptibles des bifurcations, des reprises et des dépendances ;
+- réviser la représentation lorsque de nouveaux résultats modifient la compréhension de l'enquête.
 
-Il peut être modifié lorsque :
-
-- une nouvelle difficulté apparaît ;
-- une opération doit être reprise ;
-- une orientation initialement retenue ne permet plus de différencier les questions ;
-- une relation supposée est contestée ;
-- plusieurs chemins doivent être confrontés ;
-- le problème initial doit être reformulé.
-
-Il peut également être scindé, rapproché d'une autre représentation ou abandonné lorsque son emploi ne contribue plus à l'enquête.
-
-Le plateau ne suffit cependant pas à établir :
+Il ne permet pas, à lui seul, d'établir :
 
 - la réalité d'une relation représentée ;
 - la validité d'une opération ou d'une conclusion ;
-- l'équivalence de deux descriptions ;
-- la compatibilité ou l'incompatibilité de plusieurs pratiques ;
 - l'adéquation d'une description à ce qu'elle prétend décrire ;
-- l'exhaustivité du parcours ;
-- la résolution de la difficulté étudiée.
+- la compatibilité ou l'incompatibilité de plusieurs pratiques ;
+- la nécessité d'une succession entre les opérations ;
+- l'exhaustivité de la représentation ;
+- la résolution du problème étudié.
 
-Le fil rouge ne prouve pas que les passages qu'il représente sont justifiés. Les punaises ne garantissent pas que les opérations ont été correctement conduites. Les orientations ne suffisent pas à établir la pertinence des questions posées.
+Le plateau ne remplace pas non plus :
 
-La cohérence graphique du plateau ne garantit donc pas l'adéquation de l'analyse.
+- la conduite effective de l'enquête ;
+- l'opération Reconstituer ;
+- la fonction transversale Temporaliser ;
+- les justifications nécessaires à l'établissement des conclusions.
 
-Sa valeur dépend de sa contribution effective à l'enquête, de la possibilité d'examiner les raisons des passages effectués et de la révisabilité de la représentation.
+Il faut notamment distinguer la représentation d'une relation et l'examen qui permet de la soutenir.
+
+Une liaison graphique peut rendre une hypothèse visible, mais elle ne constitue pas une preuve de cette hypothèse.
+
+De même, la cohérence graphique du plateau ne garantit ni la cohérence de l'enquête ni l'adéquation de ses descriptions.
+
+La valeur du plateau dépend de sa contribution à l'examen, de la précision de ses conventions et de la possibilité de réviser les relations qu'il représente.
 
 ## Synthèse
 
-Le plateau d'enquête est un instrument facultatif de représentation du chemin suivi par une enquête située.
+Le plateau d'enquête est un dispositif graphique facultatif permettant de représenter les opérations mobilisées, les éléments examinés et les relations établies ou reconstruites entre eux.
 
-Les punaises matérialisent les opérations mobilisées. Le fil rouge représente les passages entre ces opérations et rend visible la continuité du travail dans l'espace et dans le temps.
+Les punaises matérialisent les occurrences des travaux d'examen. Les annotations précisent les questions, les orientations et les éléments associés. Le fil rouge rend visibles certaines relations entre les différentes parties de la représentation.
 
-Les orientations précisent sous quels rapports les éléments sont examinés. Les examens permettent de déterminer ce qui reste à établir et contribuent à décider de la prochaine opération à mobiliser.
+Il ne constitue pas le tracé d'un chemin unique parcouru par l'enquête. Il permet de reconstruire une organisation intelligible des travaux sans attribuer au déroulement initial une cohérence ou une nécessité qui ne lui appartenait pas nécessairement.
 
-Le parcours peut comporter des bifurcations, des retours, des croisements et des reprises. Il ne correspond pas à une chaîne obligatoire et ne mobilise pas nécessairement toutes les ressources disponibles.
+Le plateau reste sélectif, situé et révisable. Il ne remplace ni les opérations de l'enquête ni les examens nécessaires pour soutenir les relations représentées.
 
-Le plateau ne remplace ni l'architecture fonctionnelle, ni la conduite pratique de l'enquête, ni les épreuves nécessaires à l'établissement des conclusions.
-
-**Les opérations constituent les points de travail ; les orientations différencient les rapports d'examen ; le fil rouge matérialise le chemin construit entre ces points.**
-
-Le plateau représente ainsi non pas un parcours préétabli, mais la construction progressive d'une enquête dont les déplacements restent motivés, discutables et révisables.
+**Les punaises rendent visibles les occurrences des travaux ; le fil rouge représente les relations que l'enquête peut établir ou reconstruire entre eux.**
 
 ## Pour poursuivre
 
-- [Conduire une enquête](fr/conduire-une-enquete.md) — Formuler une difficulté et choisir une reprise adaptée.
-- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Distinguer les opérations, les orientations, les fonctions transversales et les instruments d'épreuve.
-- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Préciser les rapports sous lesquels une situation ou une pratique peut être examinée.
-- [Les opérations de référence et leurs articulations](fr/la-chaine-principale-de-l-enquete.md) — Examiner les fonctions des opérations.
-- [Régime descriptif](fr/regime-descriptif.md) — Examiner l'organisation d'une pratique descriptive.
+- [Conduire une enquête](fr/conduire-une-enquete.md) — Disposer de repères pratiques pour mobiliser et reprendre les opérations.
+- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer les différentes ressources de l'enquête.
+- [Les opérations de référence et leurs articulations](fr/la-chaine-principale-de-l-enquete.md) — Consulter les fonctions des opérations.
+- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Examiner les rapports sous lesquels une situation ou une pratique est interrogée.
+- [Temporaliser](fr/temporaliser.md) — Distinguer les temporalités effective, prospective et rétrospective.
 - [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md) — Examiner les relations entre plusieurs pratiques descriptives.
-- [Le botaniste et le bûcheron](fr/botaniste-bucheron.md) — Consulter un cas de descriptions issues de pratiques différentes.
 - [Table des matières](fr/tdm.md) — Retrouver les ressources du corpus.
