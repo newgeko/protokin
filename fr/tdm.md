@@ -251,6 +251,12 @@ Les études de cas permettent d’examiner des distinctions, des descriptions et
 
 Ces pages présentent des ressources conceptuelles utiles à l’examen des pratiques descriptives. Elles ne constituent ni les fondements de Protokin ni des autorités qui garantiraient ses conclusions.
 
+### A. Notions et problèmes de connaissance
+
+- [Habitude et connaissance](fr/habitude-et-connaissance.md) — Examiner le rôle des habitudes dans les pratiques de connaissance et de description, notamment dans la perception, l’identification, l'évaluation et les reprises de l’enquête.
+
+### B. Auteurs et contributions philosophiques
+
 - [John Dewey](fr/john-dewey.md) — Examiner l’enquête comme transformation de situations problématiques, le rôle des habitudes et les rapports transactionnels entre organisme et environnement.
 - [Charles Sanders Peirce](fr/charles-sanders-peirce.md) — Examiner la clarification pragmatique des concepts, les relations sémiotiques, l’abduction et la révision des croyances.
 - [Ludwig Wittgenstein](fr/ludwig-wittgenstein.md) — Examiner les rapports entre usages du langage, suivi des règles, formes de vie et critères de correction.
