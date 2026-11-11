@@ -201,6 +201,8 @@ Les regroupements des opérations facilitent leur repérage, sans constituer une
 
 Ces ressources peuvent être articulées sans être ramenées les unes aux autres. Leur mobilisation dépend des difficultés rencontrées et leur organisation reste révisable.
 
+L'enquête mobilise également plusieurs dimensions de la connaissance — perception et attention, identification et distinction, anticipation et inférence, évaluation et justification, reprises et révisions. Ces dimensions ne constituent pas un ensemble supplémentaire de ressources ni une succession d'étapes ; elles permettent de préciser certains aspects des activités de connaissance que l'examen peut avoir à distinguer et à mettre en relation.
+
 **L'architecture fonctionnelle distingue les ressources nécessaires à l'examen sans transformer leurs distinctions en procédure préalable.**
 
 ## Pour poursuivre
