@@ -185,6 +185,8 @@ Leur révision doit donc porter sur leur fonction dans l'enquête, et non sur le
 
 Une orientation indique sous quel rapport une situation, une pratique, une opération ou un résultat est examiné. Elle différencie les questions posées sans déterminer à l'avance le travail nécessaire pour y répondre.
 
+Les quatre orientations ne sont pas strictement symétriques. Condition, Relation et Fonction examinent différents rapports relatifs à une situation ou à une pratique. Justification porte sur les raisons et les engagements qui permettent de soutenir les affirmations produites à leur sujet. Sa portée réflexive et transversale lui permet de reprendre les résultats obtenus sous les autres orientations, sans constituer une instance extérieure à l'enquête.
+
 Protokin distingue actuellement quatre orientations de référence : **Condition, Relation, Fonction et Justification**. Elles peuvent être articulées, précisées ou révisées selon les difficultés rencontrées.
 
 Les orientations se distinguent des opérations : les premières précisent le rapport sous lequel une question est posée ; les secondes désignent les travaux mobilisés pour la traiter. Elles ne constituent ni une grille obligatoire ni une classification exhaustive.
