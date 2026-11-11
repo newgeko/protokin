@@ -96,8 +96,6 @@ Ces quatre orientations ne sont pas strictement symétriques. Condition, Relatio
 
 Une opération peut contribuer à plusieurs orientations ; une orientation peut nécessiter plusieurs opérations. Il n'existe pas de correspondance fixe entre les deux.
 
-Une opération peut contribuer à plusieurs orientations ; une orientation peut nécessiter plusieurs opérations. Il n'existe pas de correspondance fixe entre les deux.
-
 Voir [Orientation de l'examen](fr/orientation-de-l-examen.md).
 
 ### Les fonctions transversales
