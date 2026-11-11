@@ -85,27 +85,47 @@ Elle permet d'examiner les raisons invoquées, les critères mobilisés, les eng
 
 La justification ne se confond ni avec les conditions de production d'une affirmation ni avec son utilité dans une pratique. Une affirmation peut avoir une origine identifiable et remplir une fonction déterminée sans être suffisamment justifiée.
 
-## 3. Des orientations distinctes et articulables
+## 3. L'asymétrie des orientations
 
-Les quatre orientations permettent de différencier les questions posées à propos d'une même situation. Elles ne supposent pas que les aspects examinés soient indépendants.
+Les quatre orientations de référence ne sont pas strictement symétriques.
 
-Les conditions peuvent influer sur les relations observées. Certaines relations contribuent à déterminer la fonction d'un élément. La fonction d'une description peut intervenir dans la manière dont une conclusion est soutenue. La justification d'une affirmation peut, à son tour, dépendre des conditions de production et de conservation des éléments sur lesquels elle s'appuie.
+Condition, Relation et Fonction permettent d'examiner différents rapports relatifs à une situation, à une pratique ou à une configuration descriptive. Elles portent respectivement sur les conditions dans lesquelles quelque chose se produit ou se maintient, sur les relations entre les éléments concernés et sur le rôle qu'un élément exerce dans une pratique déterminée.
 
-Ces dépendances ne permettent cependant pas de convertir automatiquement une réponse en une autre.
+Justification occupe une position différente. Elle porte sur les raisons, les critères et les engagements qui permettent de soutenir ou de contester les affirmations produites au sujet de cette situation ou de cette pratique. Son objet immédiat n'est donc pas un autre aspect de la situation examinée, mais le bien-fondé des assertions et des conclusions formulées à son propos.
+
+Cette différence confère à Justification une portée réflexive et transversale. Elle peut porter sur une affirmation produite dans le cadre d'un examen des conditions, des relations ou des fonctions. Elle peut également interroger les raisons qui soutiennent le choix d'une opération, l'emploi d'un critère ou le maintien d'une description.
+
+Cette portée ne fait pas de Justification une instance extérieure ou supérieure à l'enquête. Les raisons et les critères examinés sont eux-mêmes situés dans des pratiques, dépendent de conditions déterminées et peuvent remplir des fonctions particulières. Ils restent donc susceptibles d'être décrits, contextualisés et réexaminés.
+
+Il ne faut pas davantage comprendre cette asymétrie comme une obligation de justifier exhaustivement chaque élément avant de pouvoir le mobiliser. Elle indique plutôt que les affirmations et les résultats peuvent être soumis à un examen justificatif lorsque la difficulté rencontrée, une objection ou les conséquences d'une conclusion rendent cet examen pertinent.
+
+Justification constitue ainsi une orientation à portée réflexive et transversale, sans être une cinquième orientation ni un niveau hiérarchique placé au-dessus des trois autres.
+
+## 4. Des orientations distinctes et articulables
+
+Les orientations permettent de différencier les questions posées à propos d'une même situation. Elles ne supposent pas que les aspects examinés soient indépendants.
+
+Les conditions peuvent influer sur les relations observées. Certaines relations contribuent à déterminer la fonction d'un élément. La fonction d'une description peut intervenir dans la manière dont une conclusion est soutenue. La justification d'une affirmation dépend également des éléments, des conditions et des relations sur lesquels elle s'appuie.
+
+Ces dépendances n'autorisent cependant pas un transfert automatique des conclusions d'une orientation à une autre.
 
 - Une condition ne constitue pas nécessairement une cause suffisante.
 - Une relation n'établit pas automatiquement une fonction.
-- Une fonction ne justifie pas son maintien.
+- Une fonction ne justifie pas, à elle seule, le maintien d'une description.
 - L'utilité d'une description ne suffit pas à établir son adéquation.
 - La genèse d'une affirmation ne suffit pas à la justifier.
 
-Le principe directeur reste celui de Protokin :
+Ces propositions ne signifient pas qu'une condition ne puisse jamais contribuer à établir une cause, qu'une fonction ne puisse jamais contribuer à justifier un choix ou qu'une observation ne puisse jamais soutenir une conclusion. Elles indiquent que de tels passages demandent un argument qui établisse les relations pertinentes et satisfasse les exigences de la conclusion visée.
 
-**Continuité des dépendances, discontinuité des fonctions, non-conversion.**
+La non-conversion est donc une règle méthodologique portant sur les inférences, non une séparation de nature entre les orientations. Elle impose de ne pas tenir une dépendance pour une justification suffisante, tout en laissant ouverte la possibilité de passages argumentés.
 
-L'intérêt des orientations tient à la possibilité d'examiner les rapports entre plusieurs aspects d'une situation sans confondre les questions auxquelles ils correspondent. Elles permettent de suivre les dépendances sans ramener les différentes fonctions à une explication unique.
+Le principe directeur peut être formulé ainsi :
 
-## 4. Rapport entre orientations et opérations
+**Continuité des dépendances, distinction des fonctions, non-conversion automatique.**
+
+L'intérêt des orientations tient à la possibilité d'examiner les rapports entre plusieurs aspects d'une situation sans confondre les questions auxquelles ils correspondent. Elles permettent de suivre les dépendances, d'expliciter les passages entre les réponses et d'examiner ce que ces passages autorisent effectivement à conclure.
+
+## 5. Rapport entre orientations et opérations
 
 Une orientation précise **sous quel rapport** une difficulté est examinée. Une opération désigne **quel travail** est mobilisé pour la traiter.
 
@@ -119,7 +139,7 @@ Les orientations ne déterminent donc pas un parcours d'opérations. Elles aiden
 
 Pour la présentation des opérations et de leurs articulations, voir [Les opérations de référence et leurs articulations](fr/la-chaine-principale-de-l-enquete.md).
 
-## 5. Exemple : un relevé de température dans un bâtiment
+## 6. Exemple : un relevé de température dans un bâtiment
 
 Un relevé de température est utilisé pour décider si un dispositif de ventilation doit être vérifié.
 
@@ -130,6 +150,10 @@ Les quatre orientations permettent de différencier les questions posées :
 - **Fonction** : quel rôle le relevé et le seuil d'alerte jouent-ils dans la surveillance du dispositif et dans la décision ?
 - **Justification** : quelles raisons permettent de considérer la mesure comme pertinente et de soutenir la décision de procéder à une vérification ?
 
+Ces questions ne sont pas équivalentes. L'examen des conditions peut établir que le capteur est correctement installé ; l'examen des relations peut montrer que le relevé varie avec le fonctionnement de la ventilation ; l'examen de la fonction peut préciser le rôle du seuil dans le dispositif de surveillance. Aucun de ces résultats ne suffit cependant, à lui seul, à justifier la décision de procéder à une vérification.
+
+L'examen justificatif porte précisément sur ce passage : quelles raisons permettent de considérer ces résultats comme pertinents pour la décision ? Quels critères autorisent à traiter le dépassement du seuil comme un motif de vérification ? Les réponses apportées sous les trois premières orientations deviennent ainsi des éléments susceptibles d'être mobilisés dans une justification, mais leur contribution à cette justification doit être explicitée.
+
 Supposons que le relevé dépasse le seuil d'alerte alors que d'autres mesures ne signalent pas d'anomalie.
 
 Plusieurs questions doivent alors être distinguées. Les conditions de mesure sont-elles comparables ? Le relevé entretient-il la relation supposée avec le fonctionnement du dispositif ? Le seuil constitue-t-il un indicateur d'alerte ou un critère suffisant de défaillance ? Quelles raisons soutiennent la décision de procéder à une vérification ?
@@ -138,7 +162,7 @@ Le dépassement d'un seuil ne prouve pas, à lui seul, que le dispositif est dé
 
 L'exemple montre que plusieurs orientations peuvent contribuer à l'examen d'une situation sans se substituer les unes aux autres. Elles permettent de différencier les questions et de suivre leurs rapports sans transformer une réponse partielle en conclusion générale.
 
-## 6. Développer ou réviser les orientations
+## 7. Développer ou réviser les orientations
 
 Les quatre orientations présentées ici constituent les repères actuellement développés dans Protokin. Elles ne déterminent pas à l'avance tous les rapports sous lesquels une pratique descriptive peut être examinée.
 
