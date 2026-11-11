@@ -172,6 +172,18 @@ Cette possibilité ne signifie pas que toute réponse doive être immédiatement
 
 L'enquête ne consiste donc pas à remplir une grille en associant systématiquement une opération, une orientation, une fonction et un instrument. Elle consiste à déterminer quelles ressources sont pertinentes pour la difficulté rencontrée, à expliciter les raisons de leur mobilisation et à examiner les résultats obtenus.
 
+#### Les ressources théoriques mobilisables
+
+L'enquête peut également mobiliser des ressources théoriques pour éclairer les difficultés rencontrées et préciser les questions qu'elle doit examiner. Les théories de la connaissance et du langage occupent une place importante à cet égard, sans constituer les seules ressources théoriques possibles.
+
+Elles peuvent notamment contribuer à examiner les conditions de l'identification, de la conceptualisation, de la référence, de l'assertion, de l'inférence, de la justification et de la révision des descriptions.
+
+Ces ressources théoriques ne constituent pas un ensemble supplémentaire de composantes de l'architecture fonctionnelle. Elles ne correspondent ni aux dimensions de la connaissance ni aux fonctions transversales. Elles peuvent être mobilisées ponctuellement ou de manière plus soutenue, selon les difficultés rencontrées et les questions que l'enquête cherche à préciser.
+
+Une théorie peut contribuer à éclairer plusieurs dimensions de la connaissance ou plusieurs opérations. Inversement, une même difficulté peut être examinée à partir de ressources théoriques différentes. Leur mobilisation ne doit donc pas être déterminée à l'avance par une correspondance fixe avec les ressources de l'architecture.
+
+Leur apport doit lui-même pouvoir être examiné : les distinctions qu'elles proposent, les présupposés qu'elles mobilisent et les conclusions qu'elles autorisent ne sont pas soustraits aux exigences de l'enquête.
+
 Le **plateau d'enquête** constitue une ressource complémentaire de représentation. Il peut rendre visibles les opérations mobilisées, les éléments examinés et les passages entre les différents travaux. Les orientations, les fonctions transversales et les instruments peuvent y être indiqués lorsqu'ils contribuent à rendre le cheminement intelligible.
 
 Le plateau ne constitue pas une composante supplémentaire de l'architecture. Il ne remplace ni les opérations ni les instruments d'épreuve. Sa fonction et ses modalités sont présentées dans [Le plateau d'enquête](fr/plateau-d-enquete.md).
