@@ -131,6 +131,12 @@ Les habitudes acquises peuvent contribuer à organiser ces différentes dimensio
 
 L'examen de ces dimensions contribue ainsi à ne pas réduire les pratiques de connaissance à leurs seules expressions linguistiques ou inférentielles. Il permet de prendre également en compte les activités perceptives, cognitives et pratiques qui rendent les descriptions possibles, orientent leur production et conditionnent leur révision.
 
+Les dimensions de la connaissance ne se situent pas au même niveau que les fonctions transversales. Elles désignent des aspects des activités de connaissance que l'enquête peut avoir à examiner. Les fonctions transversales désignent, quant à elles, des travaux susceptibles de porter sur ces activités et leurs différentes dimensions.
+
+Il n'existe pas de correspondance fixe entre les deux. Une même dimension peut être examinée à travers plusieurs fonctions transversales, et une même fonction peut intervenir dans l'examen de plusieurs dimensions. Temporaliser permet notamment d'examiner comment chacune de ces dimensions s'inscrit dans des situations temporelles déterminées, comment elle se transforme et comment elle peut être reconstruite rétrospectivement.
+
+Cette distinction évite de traiter les dimensions de la connaissance comme des fonctions supplémentaires ou les fonctions transversales comme une classification des activités cognitives.
+
 ## 6. Les instruments et modalités d'épreuve
 
 Les instruments d'épreuve sont des moyens mobilisables pour confronter une description, une distinction ou une conclusion à un examen déterminé. Ils ne produisent pas mécaniquement un verdict et ne garantissent pas, à eux seuls, la validité d'un résultat.
