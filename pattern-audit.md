@@ -159,26 +159,28 @@ Une contradiction ne doit pas être masquée par une harmonisation de vocabulair
 
 Ces contrôles portent sur les distinctions et les articulations structurantes du projet. Ils complètent l'examen des pages sans reprendre le développement des ressources de référence.
 
-### 5.1. Distinguer les composantes de l'architecture fonctionnelle
+### 5.1. Distinguer les ensembles de ressources et les regroupements documentaires
 
-L'architecture fonctionnelle de l'enquête distingue plusieurs ressources :
+L'architecture fonctionnelle de l'enquête distingue quatre ensembles de ressources :
 
-- **Catégories** : regroupements provisoires d'opérations présentant des fonctions proches ou complémentaires.
-- **Opérations** : travaux descriptifs précis mobilisés pour traiter une difficulté.
+- **Opérations** : travaux de second ordre par lesquels Protokin examine les pratiques descriptives, leurs conditions, leurs fonctions, leurs relations et leurs justifications.
 - **Orientations** : rapports sous lesquels une situation, une pratique, une opération ou un résultat est examiné.
-- **Fonctions transversales** : dimensions susceptibles d'intervenir dans plusieurs opérations et à différents moments de l'enquête.
-- **Instruments d'épreuve** : moyens concrets de confronter certaines descriptions ou conclusions à un examen déterminé.
+- **Fonctions transversales** : dimensions de l'examen susceptibles d'intervenir dans plusieurs opérations.
+- **Instruments d'épreuve** : moyens concrets permettant de confronter des descriptions, des distinctions ou des conclusions à un examen déterminé.
 
-L'audit doit vérifier que ces ressources ne sont pas confondues.
+Les **catégories** ont un statut différent. Elles regroupent certaines opérations afin d'en faciliter le repérage et la lecture. Ces regroupements signalent des proximités fonctionnelles ; ils ne constituent ni un ensemble supplémentaire de ressources à mobiliser dans l'enquête, ni une composante de même niveau que les quatre ensembles précédents. Ils ne déterminent pas non plus l'appartenance exclusive des opérations ou leur ordre de mobilisation.
+
+L'audit doit vérifier que cette différence de statut est respectée.
 
 En particulier :
 
-- une catégorie ne constitue pas une opération supplémentaire ;
+- les catégories servent à organiser documentairement le répertoire des opérations ; elles ne désignent pas des travaux d'examen supplémentaires ;
+- les regroupements ne doivent pas être interprétés comme une classification exhaustive ou comme une hiérarchie des opérations ;
 - une orientation ne désigne pas le travail effectué pour répondre à une question ;
 - une fonction transversale ne constitue pas nécessairement une opération ;
 - un instrument ne garantit pas, par sa seule application, la validité d'un résultat.
 
-Pour leur définition et leur articulation, voir [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md).
+Pour la définition des quatre ensembles de ressources et le statut des regroupements d'opérations, voir [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md).
 
 ### 5.2. Examiner les opérations de l'enquête
 
