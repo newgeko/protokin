@@ -82,11 +82,11 @@ La définition des orientations, leurs distinctions et les conditions de leur r�
 
 ## 4. Les fonctions transversales
 
-Les fonctions transversales désignent des dimensions de l'examen susceptibles d'intervenir dans plusieurs opérations. Elles ne constituent pas une seconde série d'opérations et ne correspondent pas à des étapes supplémentaires.
+Les fonctions transversales désignent des travaux d'examen susceptibles d'intervenir dans plusieurs opérations. Elles ne constituent pas une seconde série d'opérations et ne correspondent pas à des étapes supplémentaires.
 
 Les fonctions actuellement identifiées sont :
 
-- **Temporaliser** : examiner les successions, les durées, les rythmes et les transformations au cours du temps.
+- **Temporaliser** : examiner les rapports temporels, les successions, les durées, les rythmes, les anticipations et les reconstructions rétrospectives.
 - **Expliquer** : examiner les processus, les mécanismes et les facteurs susceptibles de rendre compte de la production ou de la transformation d'une situation.
 - **Auditer** : examiner les distinctions, les dépendances, les inférences et les engagements mobilisés dans une description ou un raisonnement.
 - **Réfléchir** : examiner les présupposés, les choix, les limites et les effets de l'enquête elle-même.
@@ -94,9 +94,13 @@ Les fonctions actuellement identifiées sont :
 
 Ces fonctions ne sont pas homogènes par leur objet immédiat. Leur caractère transversal tient à leur mode d'intervention : chacune peut contribuer à plusieurs travaux d'examen sans se substituer à eux.
 
-Elles ne doivent pas être confondues avec les orientations. Une orientation précise le rapport sous lequel une situation est examinée ; une fonction transversale désigne une dimension de travail qui peut intervenir dans différents examens. Elles ne doivent pas davantage être confondues avec les instruments : une fonction caractérise ce que l'examen cherche à accomplir, tandis qu'un instrument désigne un moyen particulier de le conduire.
+Elles peuvent également porter sur différentes dimensions de la connaissance mobilisées dans les pratiques descriptives. Ainsi, Temporaliser ne désigne pas une dimension supplémentaire de la connaissance : cette fonction permet d'examiner les rapports temporels qui affectent la perception et l'attention, l'identification, l'anticipation et l'inférence, l'évaluation, ainsi que les reprises et les révisions.
 
-L'inventaire reste révisable. Une fonction supplémentaire doit correspondre à une dimension identifiable qui ne se réduit pas à une opération, une orientation ou un instrument déjà reconnu.
+Il n'existe donc pas de correspondance terme à terme entre les fonctions transversales et les dimensions de la connaissance. Une même fonction peut intervenir dans l'examen de plusieurs dimensions ; une même dimension peut être examinée au moyen de plusieurs fonctions.
+
+Les fonctions transversales ne doivent pas être confondues avec les orientations. Une orientation précise le rapport sous lequel une situation est examinée ; une fonction transversale désigne un travail susceptible d'intervenir dans différents examens. Elles ne doivent pas davantage être confondues avec les instruments : une fonction caractérise un travail d'examen, tandis qu'un instrument désigne un moyen particulier de le conduire.
+
+L'inventaire reste révisable. Une fonction supplémentaire doit correspondre à un travail d'examen identifiable qui ne se réduit pas à une opération, une orientation ou un instrument déjà reconnu.
 
 ## 5. Les dimensions de la connaissance mobilisées par l'enquête
 
