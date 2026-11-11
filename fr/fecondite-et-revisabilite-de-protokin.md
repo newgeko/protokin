@@ -115,7 +115,30 @@ Mais la révision n'est pas toujours la conclusion appropriée. Une ressource pe
 
 Le maintien et la modification sont deux décisions qui doivent pouvoir être motivées.
 
-## 5. Évaluer la contribution de la démarche
+## 5. Maintien provisoire et reprise d'une justification
+
+L'exigence de justification ne signifie pas que toute affirmation doive être précédée d'un examen exhaustif de ses raisons avant de pouvoir être mobilisée.
+
+Les pratiques descriptives s'appuient nécessairement sur des affirmations, des critères et des engagements qui peuvent être provisoirement maintenus. Leur mobilisation n'implique pas que leur justification soit définitive ou qu'aucune contestation ne puisse être formulée.
+
+Un maintien provisoire reste toutefois exposé à la possibilité d'une contestation pertinente. Lorsqu'une objection met en difficulté une affirmation, un critère ou une inférence, l'examen doit pouvoir reprendre afin de préciser les raisons invoquées, les éléments disponibles, les conditions de validité et la portée de la conclusion.
+
+La contestation ne conduit pas automatiquement à abandonner l'affirmation. Elle modifie les exigences auxquelles son maintien doit répondre. Selon la difficulté rencontrée, l'examen peut conduire à :
+
+- expliciter des raisons qui restaient implicites ;
+- examiner les éléments sur lesquels repose l'affirmation ;
+- préciser les critères qui autorisent la conclusion ;
+- limiter la portée de l'affirmation ;
+- distinguer des situations jusque-là regroupées ;
+- réviser ou abandonner une conclusion insuffisamment soutenue.
+
+L'examen peut être suspendu lorsque les éléments disponibles permettent de répondre suffisamment à la difficulté considérée, lorsque les objections pertinentes ont été traitées ou lorsque les ressources disponibles ne permettent pas de poursuivre utilement. Cette suspension ne constitue pas une justification définitive. Elle indique seulement que, dans les conditions de l'enquête, aucune raison suffisante ne conduit à poursuivre l'examen à ce moment.
+
+Le maintien d'une affirmation est donc provisoire et relatif à la difficulté examinée. Une nouvelle objection, un élément supplémentaire ou une transformation de la situation peut conduire à reprendre sa justification.
+
+Cette possibilité de reprise ne signifie pas que toute affirmation doit être continuellement remise en question. Elle signifie que son maintien ne peut être soustrait par principe à l'examen lorsque des raisons pertinentes de la contester apparaissent.
+
+## 6. Évaluer la contribution de la démarche
 
 L'appréciation de la fécondité de Protokin doit porter sur des examens déterminés, et non sur une affirmation générale de sa valeur.
 
@@ -137,7 +160,7 @@ Cette comparaison ne doit cependant pas présupposer une incapacité des pratiqu
 
 L'apport de la démarche doit être établi par les résultats et les raisons qui les soutiennent.
 
-## 6. Distinctions et limites
+## 7. Distinctions et limites
 
 ### Fécondité et validité
 
