@@ -1,135 +1,158 @@
 # Problème descriptif
 
-## 1. Fonction
+## Fonction
 
-Cette page définit le problème descriptif comme la difficulté qui rend nécessaire l’examen des ressources mobilisées dans une pratique descriptive.
+Cette page définit le problème descriptif comme une difficulté située dans une pratique, qui rend nécessaire l'examen des ressources mobilisées pour décrire, identifier, distinguer, relier ou justifier.
 
-Elle précise ce qui distingue un problème descriptif d’une simple différence entre descriptions, d’un diagnostic déjà formulé ou d’une solution envisagée. Elle situe également le problème par rapport aux orientations et aux opérations susceptibles d’intervenir dans son examen.
+Elle précise à quelles conditions une difficulté devient un problème descriptif, distingue ce problème de son diagnostic et des réponses susceptibles de lui être apportées, et délimite ce que son identification permet d'établir.
 
-## Définition
+Elle ne présente ni l'architecture générale de l'enquête ni les opérations nécessaires à sa conduite. Ces développements relèvent des pages qui leur sont consacrées.
 
-Un **problème descriptif** apparaît lorsque les descriptions, les distinctions, les catégories, les relations ou les critères disponibles ne suffisent plus à traiter une question de manière suffisamment déterminée ou défendable.
+## 1. Définition
 
-Cette insuffisance peut concerner ce qui est distingué, la manière dont une catégorie s’applique, les rapports entre plusieurs descriptions, la portée d’une conclusion ou les raisons avancées pour la soutenir.
+Un **problème descriptif** apparaît lorsque les descriptions, les distinctions, les catégories, les relations ou les critères disponibles ne suffisent plus à traiter une question déterminée de manière suffisamment précise ou défendable dans une pratique donnée.
 
-Elle peut également concerner les conditions matérielles, techniques, sociales ou institutionnelles dans lesquelles une pratique descriptive se déploie, lorsque ces conditions affectent ce qui peut être identifié, décrit ou établi.
+Cette insuffisance peut concerner :
 
-Le problème ne réside donc pas nécessairement dans une description fausse ou mal formulée. Il peut tenir à l’impossibilité de déterminer ce qu’une description permet d’établir, à l’incertitude concernant ses rapports avec d’autres descriptions ou à l’insuffisance des critères employés pour l’évaluer.
+- ce qui est distingué ou identifié ;
+- les conditions dans lesquelles une catégorie peut être appliquée ;
+- les relations établies entre plusieurs éléments ou descriptions ;
+- la portée d'une affirmation ou d'une conclusion ;
+- les raisons et les critères avancés pour soutenir une description ;
+- les conditions matérielles, techniques, sociales ou institutionnelles qui affectent la production et l'utilisation des descriptions.
 
-Le problème descriptif désigne ainsi une difficulté à examiner, non une erreur déjà démontrée.
+Le problème ne réside donc pas nécessairement dans une description fausse ou mal formulée. Il peut tenir à l'impossibilité de déterminer ce qu'une description permet d'établir, à l'incertitude concernant ses rapports avec d'autres descriptions ou à l'insuffisance des critères employés pour soutenir une conclusion.
 
-## Quand une difficulté devient-elle un problème descriptif ?
+L'insuffisance est relative à une question, à une pratique et aux exigences auxquelles les descriptions doivent répondre. Elle ne signifie pas que les ressources disponibles seraient dépourvues de toute pertinence ou qu'elles devraient nécessairement être remplacées.
 
-Toute différence, incertitude ou contestation ne constitue pas en elle-même un problème descriptif.
+Le problème descriptif désigne ainsi une difficulté à examiner, non une erreur déjà démontrée ni une solution déjà déterminée.
 
-Plusieurs descriptions peuvent porter sur un même référent tout en répondant à des questions différentes. Elles n’ont pas nécessairement à être ramenées à une formulation unique. De même, une différence de vocabulaire ne suffit pas à établir une contradiction.
+## 2. Quand une difficulté devient-elle un problème descriptif ?
 
-Une difficulté devient pertinente pour l’enquête lorsque les ressources disponibles ne permettent plus de déterminer ce que les descriptions autorisent à soutenir, comment leurs conclusions se rapportent les unes aux autres ou selon quels critères elles peuvent être défendues.
+Toute différence, incertitude, nouveauté ou contestation ne constitue pas en elle-même un problème descriptif.
 
-Cela peut notamment se produire :
+Plusieurs descriptions peuvent porter sur un même référent tout en répondant à des questions différentes. Elles n'ont pas nécessairement à être ramenées à une formulation unique. De même, une différence de vocabulaire ne suffit pas à établir une contradiction, et un désaccord ne démontre pas à lui seul l'insuffisance des ressources descriptives mobilisées.
 
-- lorsqu’une distinction ne permet plus de différencier des cas pertinents ;
-- lorsqu’une catégorie s’applique difficilement à une situation nouvelle ou à un cas limite ;
-- lorsque les rapports entre plusieurs descriptions restent indéterminés ;
-- lorsqu’une description ne répond plus aux exigences de la pratique dans laquelle elle est mobilisée ;
-- lorsque les raisons ou les critères avancés ne suffisent plus à défendre une conclusion ;
-- lorsque les conditions matérielles ou institutionnelles affectent la production ou l'utilisation d'une description sans être suffisamment examinées ;
-- lorsqu’une réponse obtenue sous un rapport est utilisée comme si elle réglait une question relevant d’un autre rapport.
+Une difficulté devient un problème descriptif lorsqu'elle affecte effectivement la possibilité de traiter une question dans les conditions de la pratique concernée et que les ressources disponibles ne permettent plus de le faire de manière suffisamment déterminée ou défendable.
 
-Ces formes ne constituent ni une classification exhaustive ni des types mutuellement exclusifs. Plusieurs peuvent intervenir dans une même difficulté, et leur pertinence doit être établie à partir de la situation examinée.
+Plusieurs situations peuvent notamment faire apparaître cette insuffisance :
 
-## 2. Distinguer le problème de son diagnostic
+- une distinction ne permet plus de différencier des cas qui doivent pourtant être traités différemment ;
+- une catégorie s'applique difficilement à une situation nouvelle ou à un cas limite ;
+- plusieurs descriptions entretiennent des rapports qui restent indéterminés ;
+- une description ne répond plus aux exigences de la pratique dans laquelle elle est mobilisée ;
+- les raisons ou les critères avancés ne suffisent plus à soutenir une conclusion ;
+- des conditions matérielles ou institutionnelles affectent une pratique descriptive sans être suffisamment prises en compte ;
+- une réponse établie sous un certain rapport est utilisée comme si elle réglait automatiquement une question relevant d'un autre rapport.
 
-Identifier un problème descriptif ne revient pas encore à déterminer précisément ce qui l’explique ni comment le résoudre.
+Ces situations ne constituent ni une classification exhaustive ni des types mutuellement exclusifs. Plusieurs peuvent intervenir dans une même difficulté.
 
-Il faut distinguer :
+Leur pertinence doit être établie à partir de la situation examinée. Il faut notamment préciser ce qui fait effectivement défaut, quelles exigences ne peuvent plus être satisfaites et pourquoi les ressources disponibles ne permettent pas de traiter la difficulté sans examen supplémentaire.
 
-- **Le problème** : la difficulté qui ne peut plus être traitée de manière satisfaisante avec les ressources disponibles.
-- **Le diagnostic** : l’interprétation qui précise la nature de cette difficulté.
-- **Les réponses possibles** : les descriptions, distinctions ou modifications susceptibles de la traiter.
-- **Les critères d’évaluation** : les éléments qui permettent d’examiner ces réponses et d’en apprécier la portée.
-- **Le résultat de l’enquête** : ce qui peut finalement être soutenu, avec les limites et les incertitudes qui demeurent.
+Le problème descriptif ne se réduit donc pas à la présence d'une incertitude. Il apparaît lorsque cette incertitude affecte ce qu'une pratique peut identifier, décrire, discuter ou soutenir.
 
-Ces fonctions sont liées, mais elles ne se confondent pas. Un diagnostic peut être contesté, une réponse peut ne pas résoudre le problème et les critères d’évaluation peuvent eux-mêmes nécessiter un examen.
+## 3. Distinguer le problème de son diagnostic et de la tension
 
-Le problème oriente l’enquête sans contenir déjà son diagnostic ni sa solution.
+Identifier un problème descriptif ne revient pas encore à déterminer précisément ce qui l'explique ni comment le traiter.
 
-Il ne détermine pas non plus à l’avance l’orientation sous laquelle il devra être examiné ni les opérations qui devront être mobilisées.
+Il convient de distinguer plusieurs fonctions :
 
-## 3. Exemple discriminant : une catégorie et un cas limite
+- **Le problème** désigne la difficulté qui rend nécessaire un examen des ressources descriptives disponibles.
+- **Le diagnostic** propose une interprétation de cette difficulté et précise ce qui semble en être à l'origine.
+- **La réponse** désigne une modification, une distinction, une description ou une autre ressource susceptible de traiter le problème.
+- **Les critères d'évaluation** permettent d'examiner la pertinence et la portée des réponses proposées.
+- **Le résultat de l'examen** désigne ce qui peut être soutenu à l'issue du travail effectué, y compris les limites et les incertitudes qui demeurent.
 
-Une catégorie permet habituellement de classer des situations et de guider une décision. Un nouveau cas apparaît, mais les critères disponibles ne permettent pas de déterminer clairement s’il relève de cette catégorie.
+Ces fonctions sont liées, mais ne se confondent pas. Un diagnostic peut être contesté, une réponse peut ne pas résoudre le problème et les critères d'évaluation peuvent eux-mêmes nécessiter un examen.
 
-La seule nouveauté du cas ne suffit pas à constituer un problème descriptif. La difficulté devient pertinente lorsque la pratique doit décider comment le traiter et que les ressources disponibles ne permettent pas de défendre cette décision.
+Il faut également distinguer le problème descriptif de la **tension**.
 
-Plusieurs possibilités restent alors ouvertes : les critères peuvent être insuffisamment précis, la catégorie peut avoir une portée plus limitée que prévu, ou le cas peut exiger une distinction supplémentaire. Il est également possible que les informations disponibles ne permettent pas de trancher.
+Le problème descriptif désigne la difficulté qui rend nécessaire l'examen des ressources mobilisées dans une pratique. La tension caractérise une forme particulière de difficulté de fonctionnement, liée au maintien ou à la coordination de plusieurs exigences que les ressources disponibles ne permettent pas de traiter de manière suffisamment satisfaisante.
 
-Le problème est identifiable avant que l’une de ces interprétations soit retenue. L’examen doit déterminer laquelle est soutenable et dans quelles limites.
+Tout problème descriptif ne constitue donc pas nécessairement une tension. Une distinction insuffisante, une identification incertaine ou une justification incomplète peuvent poser un problème descriptif sans impliquer la coordination difficile de plusieurs exigences.
 
-Plusieurs orientations peuvent alors être pertinentes :
+Inversement, une tension peut faire apparaître un problème descriptif lorsque les ressources disponibles ne permettent plus de caractériser ou de traiter la difficulté rencontrée.
 
-- **Condition** : quelles informations et quelles conditions permettent d'examiner le cas ?
-- **Relation** : comment ce cas se rapporte-t-il aux autres cas déjà classés ?
-- **Fonction** : quel rôle la catégorie joue-t-elle dans la pratique concernée ?
-- **Justification** : quels critères permettent de défendre son application ou son refus ?
+Le problème descriptif désigne la difficulté à examiner ; la tension en caractérise éventuellement une forme particulière.
 
-Ces questions ne constituent pas quatre composantes obligatoires du problème. Elles indiquent différents rapports sous lesquels la difficulté peut être examinée.
+Voir [Tension](fr/tension.md).
 
-L'enquête peut mobiliser une ou plusieurs orientations, puis choisir les opérations nécessaires pour traiter les questions effectivement rencontrées.
+## 4. Exemple : une catégorie et un cas limite
 
-## 4. Ce que le problème descriptif n’établit pas
+Une catégorie permet habituellement de classer des situations et de guider une décision. Un nouveau cas apparaît, mais les critères disponibles ne permettent pas de déterminer clairement s'il relève de cette catégorie.
 
-L’identification d’un problème descriptif ne prouve pas :
+La seule nouveauté du cas ne suffit pas à constituer un problème descriptif. La difficulté devient pertinente lorsque la pratique doit le traiter et que les ressources disponibles ne permettent pas de défendre suffisamment la décision à prendre.
+
+Plusieurs interprétations restent alors possibles :
+
+- les critères employés sont insuffisamment précis ;
+- la catégorie possède une portée plus limitée que celle qui lui est attribuée ;
+- le cas présente des caractéristiques qui ne sont pas prises en compte par les distinctions disponibles ;
+- les informations réunies ne permettent pas encore de trancher.
+
+Le problème peut être identifié avant que l'une de ces interprétations soit retenue. Il ne contient donc pas déjà son diagnostic.
+
+L'examen peut conduire à préciser les critères, à distinguer des situations jusque-là regroupées, à limiter la portée de la catégorie ou à reconnaître que les éléments disponibles ne permettent pas de conclure.
+
+Il peut également montrer que la catégorie reste pertinente dans les conditions considérées et que la difficulté provenait d'une application insuffisamment examinée.
+
+Cet exemple montre qu'un problème descriptif ne prescrit pas nécessairement une transformation. Il rend nécessaire un examen dont les résultats restent ouverts.
+
+## 5. Ce que le problème descriptif n'établit pas
+
+L'identification d'un problème descriptif ne prouve pas :
 
 - que la description examinée est fausse ;
 - que plusieurs descriptions sont incompatibles ;
-- qu’une catégorie ou un critère doit nécessairement être abandonné ;
-- qu’une description unique doit remplacer les descriptions existantes ;
+- qu'une catégorie ou un critère doit nécessairement être abandonné ;
+- qu'une description unique doit remplacer les descriptions existantes ;
+- qu'une transformation de la pratique est nécessaire ;
 - que les éléments disponibles permettront de parvenir à une conclusion définitive.
 
-Elle ne permet pas non plus de confondre les différentes questions soulevées par une difficulté.
+Elle n'autorise pas non plus à confondre les différentes questions soulevées par une difficulté.
 
-Une condition matérielle peut contraindre une pratique sans justifier une conclusion ; une cause peut expliquer l’apparition d’une description sans constituer une raison de la maintenir ; une fonction peut expliquer l’usage d’une catégorie sans établir que cet usage est adéquat.
+Une condition matérielle peut contraindre une pratique sans constituer, à elle seule, une justification de ses conclusions. Une relation causale peut contribuer à expliquer l'apparition d'une description sans suffire à justifier son maintien. Une fonction peut expliquer l'usage d'une catégorie sans établir à elle seule que cet usage est adéquat.
 
-De même, la cohérence d’une description ne suffit pas à établir son adéquation à ce qu’elle prétend décrire.
+Ces distinctions n'interdisent pas les passages entre les différents rapports examinés. Elles indiquent qu'une réponse obtenue sous un certain rapport ne peut pas être transférée automatiquement à un autre. Un tel passage reste possible lorsqu'il est explicitement argumenté et que les exigences de la question à laquelle il prétend répondre sont satisfaites.
+
+De même, la cohérence d'une description ne suffit pas à établir son adéquation à ce qu'elle prétend décrire.
 
 Enfin, un problème descriptif ne provient pas nécessairement du langage seul. Il peut apparaître dans une pratique matérielle, technique, sociale ou institutionnelle lorsque les descriptions et les critères disponibles ne suffisent plus à traiter une situation.
 
-Les relations entre ces conditions, les pratiques concernées et les difficultés descriptives doivent être examinées, non présupposées.
+Les relations entre les descriptions, les pratiques concernées et les conditions dans lesquelles elles se déploient doivent être examinées, non présupposées.
 
-## 5. Du problème à l’enquête
+## 6. Du problème à l'enquête
 
-Le problème descriptif fournit un point de départ provisoire. Pour devenir examinable, il faut préciser ce qui fait difficulté, dans quelle pratique elle apparaît et ce qui reste indéterminé ou contestable.
+Le problème descriptif constitue un point de départ provisoire pour l'examen. Il faut préciser ce qui fait difficulté, dans quelle pratique elle apparaît et ce qui reste indéterminé ou contestable.
 
-Cette formulation initiale peut être révisée. L’examen peut révéler que le problème a été trop largement défini, qu’une distinction importante manque ou que la difficulté concerne une autre question que celle qui avait d’abord été identifiée.
+Cette formulation initiale peut être révisée. L'examen peut révéler que le problème a été trop largement défini, qu'une distinction importante manque ou que la difficulté concerne une autre question que celle qui avait d'abord été identifiée.
 
-Deux organisations complémentaires contribuent à cet examen :
+Le problème ne détermine pas à l'avance les ressources qui devront être mobilisées. Les questions à examiner et les travaux nécessaires dépendent de la difficulté effectivement rencontrée et des éléments disponibles.
 
-- Les **orientations** précisent sous quel rapport le problème est examiné. Elles permettent notamment de différencier les questions relatives aux conditions, aux relations, aux fonctions et aux justifications. Elles ne constituent ni une classification exhaustive ni une grille obligatoire.
-- Les **opérations** désignent les travaux descriptifs mobilisés pour traiter la difficulté : Délimiter, Ancrer, Distinguer, Relier, Configurer, Justifier, Reconstituer et Redélimiter.
+Les orientations permettent de préciser sous quels rapports une situation, une pratique ou un résultat peut être examiné. Les opérations désignent les travaux d'examen mobilisables pour traiter les questions rencontrées. Les fonctions transversales et les instruments d'épreuve peuvent également contribuer à cet examen.
 
-Il n'existe pas de correspondance terme à terme entre ces deux organisations. Une orientation peut nécessiter plusieurs opérations et une même opération peut contribuer à l'examen de plusieurs orientations.
+Ces ressources remplissent des fonctions différentes. Elles ne constituent ni une procédure obligatoire ni une succession de réponses prédéterminées au problème.
 
-Le problème ne prescrit donc pas une procédure. Il permet de déterminer quelles questions doivent être examinées et quels travaux peuvent contribuer à les traiter.
+Leur articulation relève de l'[architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md). La définition de l'enquête et les modalités de sa conduite sont développées respectivement dans [Enquête](fr/enquete.md) et [Conduire une enquête](fr/conduire-une-enquete.md).
 
-L'enquête peut également mobiliser des fonctions transversales et des instruments d'épreuve lorsque la difficulté le nécessite. Le choix de ces ressources dépend des éléments disponibles et des résultats déjà obtenus.
-
-Ces ressources ne constituent pas des étapes obligatoires de résolution. Leur mobilisation dépend du problème effectivement rencontré et des examens qu'il rend pertinents.
+Le problème descriptif rend ainsi l'examen nécessaire sans déterminer son organisation, ses conclusions ou les transformations auxquelles il pourrait conduire.
 
 ## Synthèse
 
-Le problème descriptif est une difficulté qui rend nécessaire l’examen des ressources par lesquelles une pratique décrit, distingue, relie ou justifie.
+Un problème descriptif apparaît lorsque les ressources mobilisées dans une pratique ne suffisent plus à traiter une question de manière suffisamment déterminée ou défendable.
 
-Il ne se confond ni avec une erreur démontrée, ni avec un désaccord entre descriptions, ni avec le diagnostic ou la solution qui pourraient lui être apportés.
+Il ne se confond ni avec une simple différence entre descriptions, ni avec une erreur démontrée, ni avec son diagnostic ou les réponses susceptibles de lui être apportées.
 
-Il ne détermine pas davantage à l'avance les orientations à mobiliser ou les opérations à effectuer.
+Il peut prendre différentes formes, dont la tension constitue un cas particulier. Son identification ne prescrit ni une transformation ni une procédure déterminée.
 
-**Le problème déclenche et oriente l’enquête ; il n’en détermine pas à l’avance les catégories, les réponses ni les conclusions.**
+**Le problème descriptif rend nécessaire un examen ; il n'en détermine pas à l'avance les ressources, les réponses ni les conclusions.**
 
 ## Pour poursuivre
 
 - [Introduction générale](fr/introduction-generale.md)
 - [Enquête](fr/enquete.md)
-- [Architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
-- [Orientation de l’examen](fr/orientation-de-l-examen.md)
-- [Une première cartographie des régimes descriptifs](fr/une-premiere-cartographie-des-regimes-descriptifs.md)
+- [Tension](fr/tension.md)
+- [Enquête et organisation des notions](fr/enquete-et-organisation-des-notions.md)
+- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md)
+- [Orientation de l'examen](fr/orientation-de-l-examen.md)
+- [Conduire une enquête](fr/conduire-une-enquete.md)
