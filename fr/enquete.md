@@ -2,120 +2,128 @@
 
 ## Fonction
 
-Cette page précise ce que Protokin entend par enquête et quelle place cette activité occupe dans l'examen des pratiques descriptives.
+Cette page définit ce que Protokin entend par enquête et précise le statut de cette activité dans l'examen des pratiques descriptives.
 
-Elle distingue l'emploi ordinaire de ressources descriptives de leur examen explicite, puis précise le statut de cet examen : une activité située, réflexive et révisable, qui ne suit pas une procédure obligatoire.
+Elle caractérise l'enquête comme un examen situé, organisé, réflexif et révisable, engagé à partir d'une difficulté. Elle distingue cet examen de la difficulté qui le motive, des diagnostics qui peuvent en être proposés et des réponses auxquelles il peut conduire.
 
-Elle ne définit pas le problème descriptif, présenté dans [Problème descriptif](fr/probleme-descriptif.md). Elle ne décrit pas l'organisation des ressources de l'enquête, exposée dans [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md), ni les repères pratiques permettant de les mobiliser, développés dans [Conduire une enquête](fr/conduire-une-enquete.md).
+Elle ne définit pas le problème descriptif, présenté dans [Problème descriptif](fr/probleme-descriptif.md). Elle ne décrit pas l'organisation des ressources de l'examen, exposée dans [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md), ni les repères pratiques permettant de les mobiliser, développés dans [Conduire une enquête](fr/conduire-une-enquete.md).
 
-## 1. De l'emploi des descriptions à leur examen
+## 1. Définition de l'enquête
 
-Les pratiques descriptives mobilisent des catégories, des distinctions, des relations et des critères pour identifier des situations, différencier des cas, expliquer des phénomènes et soutenir des décisions.
+Une **enquête** est une activité d'examen organisée à partir d'une difficulté qui rend insuffisant l'emploi ordinaire des ressources disponibles pour décrire, identifier, distinguer, relier ou justifier.
 
-Ces ressources sont généralement employées sans que leur fonctionnement fasse l'objet d'un examen explicite. Elles sont mobilisées parce qu'elles permettent de traiter les situations rencontrées dans une pratique déterminée.
+Elle consiste à examiner ce qui fait difficulté, les éléments concernés, les descriptions mobilisées, les relations établies et les raisons avancées pour soutenir les conclusions. Elle peut conduire à reprendre les ressources d'une pratique, à préciser leur portée ou à réviser les descriptions et les critères employés.
 
-Une enquête devient pertinente lorsque cet emploi rencontre une difficulté qui ne peut plus être traitée avec les ressources disponibles. Il ne suffit alors plus de produire ou d'utiliser une description supplémentaire. Il devient nécessaire d'examiner ce qui rend la difficulté possible, les distinctions mobilisées, les relations établies et les conclusions que ces ressources permettent de soutenir.
+L'enquête ne se réduit donc pas à produire une description supplémentaire, à recueillir de nouvelles informations ou à appliquer une procédure existante. Ces activités peuvent contribuer à son déroulement, mais elles ne suffisent pas à caractériser le travail d'examen.
 
-L'enquête désigne cette activité d'examen. Elle ne se confond ni avec la difficulté qui la déclenche, ni avec le diagnostic formulé à son sujet, ni avec la solution éventuellement retenue.
+Il faut distinguer :
 
-La formulation initiale du problème constitue un point de départ. Elle peut être précisée, divisée ou révisée lorsque l'examen révèle que la difficulté avait été mal caractérisée ou que d'autres questions doivent être distinguées.
+- **La difficulté** : ce qui, dans une situation ou une pratique, appelle un examen supplémentaire.
+- **Le problème formulé** : la manière provisoire dont cette difficulté est délimitée et rendue examinable.
+- **Le diagnostic** : l'interprétation proposée pour expliquer la difficulté ou en préciser les composantes.
+- **L'enquête** : le travail d'examen conduit à partir de cette formulation et susceptible de la réviser.
+- **Le résultat** : ce que l'examen permet d'établir, de préciser, de contester ou de laisser indéterminé.
 
-L'enquête n'est donc pas une activité systématique qui devrait accompagner chaque description. Elle intervient lorsqu'un examen supplémentaire devient nécessaire.
+Ces éléments sont liés, mais ne se déterminent pas automatiquement les uns les autres. La formulation initiale peut être insuffisante, le diagnostic peut être contesté et les travaux engagés peuvent conduire à déplacer la question de départ.
 
-## 2. L'enquête comme examen des pratiques descriptives
+L'enquête ne contient donc pas déjà son diagnostic ni sa solution. Elle ouvre un examen dont l'organisation et les résultats restent à déterminer.
 
-Une enquête peut être conduite à l'intérieur d'une pratique pour examiner une difficulté rencontrée dans son propre fonctionnement. Elle peut également prendre cette pratique pour objet et examiner les ressources par lesquelles elle produit, utilise et évalue ses descriptions.
+## 2. L'examen des pratiques descriptives
 
-Ces deux situations sont liées, mais elles ne doivent pas être confondues.
+Les pratiques descriptives produisent et utilisent des descriptions pour identifier des situations, établir des différences, construire des relations, expliquer des phénomènes ou soutenir des décisions. Elles mobilisent à cette fin des catégories, des critères, des observations, des procédures et des formes de justification.
 
-Dans le premier cas, les acteurs d'une pratique peuvent reprendre leurs catégories, leurs procédures ou leurs critères pour traiter une difficulté. Dans le second, l'enquête porte sur la pratique elle-même : elle examine comment certaines descriptions sont produites, quelles différences elles retiennent, quelles relations elles établissent et quelles conclusions elles autorisent.
+Ces pratiques peuvent également examiner leurs propres descriptions. Leurs acteurs peuvent contester une catégorie, reprendre un critère, comparer plusieurs interprétations ou réviser une décision. L'examen réflexif n'est donc pas réservé à une démarche extérieure à la pratique.
 
-Protokin relève de ce second niveau d'examen. Sa démarche est de second ordre : elle prend les pratiques descriptives pour objet et examine les conditions, les fonctions et les transformations des ressources qu'elles mobilisent.
+Protokin prend précisément les pratiques descriptives et les ressources qu'elles mobilisent pour objet d'enquête. Il examine comment elles produisent leurs descriptions, ce qu'elles permettent d'identifier, les relations qu'elles établissent et les conclusions qu'elles peuvent soutenir.
 
-Cela ne signifie pas que Protokin se situe à l'extérieur de toute pratique descriptive. Il mobilise lui-même des distinctions, des concepts et des instruments pour conduire ses examens. Ces ressources peuvent également être interrogées et révisées.
+Son enquête est ainsi de **second ordre** : elle ne porte pas seulement sur ce qui est décrit, mais également sur les pratiques et les conditions dans lesquelles les descriptions sont produites, employées, évaluées et révisées.
 
-L'examen de second ordre ne constitue donc pas un point de vue absolu sur les pratiques. Il désigne un déplacement de l'objet de l'enquête : au lieu de porter seulement sur ce qu'une pratique décrit, l'examen porte aussi sur la manière dont elle le décrit et sur ce qu'elle peut légitimement soutenir à partir de ses descriptions.
+Le second ordre ne désigne ni un domaine d'objets distinct ni une position supérieure ou indépendante des pratiques examinées. Il caractérise le rapport adopté à leur égard. L'enquête de Protokin reste elle-même une pratique : elle mobilise des concepts, des distinctions et des éléments d'examen qui doivent pouvoir être interrogés à leur tour.
+
+Une pratique peut donc conduire un examen de ses propres ressources, tandis que Protokin peut prendre cet examen lui-même pour objet. Ces deux possibilités ne sont pas incompatibles ; elles correspondent à des objets et à des rapports d'examen qu'il importe de distinguer.
 
 ## 3. Une activité située et réflexive
 
-L'enquête ne s'effectue pas depuis une position extérieure et infaillible aux pratiques examinées.
+Une enquête se déroule dans des conditions déterminées. Les éléments accessibles, les possibilités d'observation, les moyens techniques, les ressources documentaires et les contraintes sociales ou institutionnelles affectent ce qu'il est possible d'examiner.
 
-Elle dépend de conditions matérielles, documentaires, techniques, sociales et institutionnelles déterminées. Ces conditions affectent les éléments disponibles, les possibilités d'examen et les résultats susceptibles d'être obtenus.
+Ces conditions ne sont pas de simples circonstances extérieures. Elles contribuent à déterminer les matériaux disponibles, les questions qui peuvent être traitées et la portée des résultats. Elles doivent cependant être distinguées des raisons qui permettent de soutenir une conclusion.
 
-Elles doivent être prises en compte sans être confondues avec les raisons qui permettent de soutenir une conclusion. Les conditions de production d'une description ne suffisent pas à justifier son contenu. De même, expliquer la genèse d'une affirmation ne suffit pas à établir les raisons de son maintien.
+Une condition de production ne constitue pas automatiquement une justification. De même, expliquer la genèse d'une description ne suffit pas à établir les raisons de son maintien. Un passage entre ces dimensions reste possible, mais il doit être explicitement argumenté.
 
-L'enquête est également réflexive parce que les ressources qu'elle mobilise ne sont pas soustraites à l'examen.
+L'enquête est également réflexive parce que ses propres ressources ne sont pas soustraites à l'examen. Une distinction peut se révéler insuffisante, un critère contestable, une opération mal définie ou un instrument inadapté aux conditions rencontrées.
 
-Une distinction peut se révéler insuffisante, un instrument inadapté ou un critère contestable. Les catégories employées peuvent ne pas rendre compte des situations examinées. Ces difficultés peuvent conduire à modifier les ressources de l'enquête elle-même.
+La possibilité de reprendre ces ressources ne signifie pas que tout doit être constamment remis en question. Elle signifie qu'aucun choix ne bénéficie d'une immunité de principe lorsque des difficultés ou des objections pertinentes apparaissent.
 
-Cette réflexivité ne signifie pas que tout doit être constamment remis en question. Elle demande que les choix et les résultats puissent être examinés lorsqu'une difficulté le justifie.
+La réflexivité ne garantit donc pas que l'enquête puisse corriger toutes ses limites. Elle maintient la possibilité d'examiner les conditions dans lesquelles ses propres résultats sont produits et soutenus.
 
-L'enquête doit ainsi maintenir la possibilité d'une reprise sans présupposer que chaque limite locale invalide l'ensemble du travail accompli.
+## 4. Une enquête sans procédure obligatoire
 
-## 4. Une activité sans procédure obligatoire
+L'enquête ne se définit pas par l'exécution d'une série fixe d'étapes. Les travaux pertinents dépendent de la difficulté, des éléments disponibles et des résultats obtenus. Plusieurs travaux peuvent être mobilisés conjointement ; un travail déjà effectué peut être repris lorsque de nouveaux éléments conduisent à le réexaminer.
 
-Une enquête ne suit pas nécessairement un parcours unique. La nature de la difficulté, les éléments disponibles et les résultats déjà obtenus déterminent les examens pertinents.
+Pour organiser cet examen, Protokin distingue plusieurs ensembles de ressources :
 
-Certaines enquêtes nécessitent de reprendre les éléments disponibles ; d'autres conduisent à examiner une distinction, une relation, une configuration ou une justification. Plusieurs travaux peuvent être mobilisés conjointement, tandis qu'un examen déjà effectué peut être repris à la lumière d'un résultat nouveau.
+- **Les opérations** désignent les travaux de second ordre par lesquels les pratiques descriptives, leurs conditions, leurs fonctions, leurs relations et leurs justifications sont examinées.
+- **Les orientations** précisent sous quel rapport une situation, une pratique, une opération ou un résultat est interrogé.
+- **Les fonctions transversales** désignent des dimensions de travail susceptibles d'intervenir dans plusieurs opérations.
+- **Les instruments d'épreuve** fournissent des moyens concrets pour confronter des descriptions, des distinctions ou des conclusions à un examen.
 
-L'enquête ne se définit donc pas par l'exécution d'une série d'étapes. Elle suppose une organisation du travail, mais cette organisation reste dépendante du problème et révisable au cours de l'examen.
+Ces ressources remplissent des fonctions différentes. Une orientation ne prescrit pas une opération particulière ; une fonction transversale ne constitue pas une opération supplémentaire ; un instrument ne garantit pas à lui seul la validité d'un résultat.
 
-Protokin distingue plusieurs fonctions dans cette organisation. Les opérations désignent les travaux descriptifs mobilisés pour traiter une difficulté ; les orientations précisent sous quel rapport une situation ou un résultat est examiné. Les fonctions transversales et les instruments d'épreuve contribuent également à l'examen sans constituer des étapes supplémentaires.
+La reprise doit également être distinguée des instruments d'épreuve. Elle désigne une modalité générale de réexamen d'une opération, d'une description, d'une distinction ou d'une conclusion. Elle peut mobiliser un instrument, plusieurs instruments ou aucun instrument supplémentaire.
 
-Ces ressources ne sont ni interchangeables ni obligatoirement mobilisées ensemble. Leur articulation relève de l'organisation fonctionnelle de l'enquête, et non d'une procédure universelle.
+Ces distinctions permettent de choisir et d'articuler les ressources nécessaires sans transformer leur organisation en procédure préalable. L'enquête n'a pas à mobiliser toutes les opérations, toutes les orientations ou tous les instruments disponibles.
 
-L'ordre de présentation des opérations ne doit donc pas être interprété comme une succession nécessaire. Une enquête peut commencer par un examen de justification, reprendre un ancrage ou une distinction, puis conduire à reformuler le problème initial.
+La définition de ces ensembles, de leurs fonctions respectives et de leurs articulations relève de l'[Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md).
 
-Pour comprendre cette organisation, voir l'[Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md). Pour déterminer comment mobiliser ces ressources dans une situation concrète, voir [Conduire une enquête](fr/conduire-une-enquete.md).
+## 5. Déroulement, reprises et reconstruction
 
-## 5. Résultats et révision
+Une enquête se déroule dans le temps. Les travaux effectivement réalisés peuvent comporter des interruptions, des hésitations, des déplacements, des bifurcations et des reprises. Leur succession ne forme pas nécessairement une progression continue vers un résultat déterminé.
 
-Une enquête peut produire des résultats de portée différente.
+Au cours de l'examen, des anticipations et des hypothèses peuvent orienter certains choix. Elles restent liées aux informations et aux possibilités disponibles à ce moment-là. Un résultat ultérieur peut cependant modifier la compréhension des travaux antérieurs.
 
-Elle peut permettre de maintenir une description en précisant ses conditions d'application, de distinguer des questions jusque-là confondues, de réviser une catégorie ou une relation, ou de préciser les raisons qui soutiennent une conclusion.
+Il devient alors possible de reconstruire des relations entre des opérations qui n'étaient pas nécessairement identifiées comme liées lorsqu'elles ont été conduites. Cette reconstruction peut rendre visibles des dépendances, des continuités ou des déplacements. Elle ne démontre pas que l'ensemble des travaux suivait dès le départ une trajectoire cohérente, ni que leur résultat était prévisible ou nécessaire.
 
-Elle peut également établir que les éléments disponibles ne permettent pas de trancher, que plusieurs descriptions restent compatibles ou que la difficulté initiale doit être reformulée.
+Il convient donc de distinguer le déroulement effectif de l'enquête, les possibilités envisagées au cours de son déroulement et les relations qui deviennent intelligibles depuis une situation ultérieure.
 
-Il importe alors de distinguer ce qui a été établi, ce qui reste plausible, ce qui demeure contestable et ce qui ne peut pas encore être déterminé.
+La fonction transversale **Temporaliser** examine ces rapports entre temporalité effective, prospective et rétrospective. Les modalités pratiques de reprise et de reconstruction sont précisées dans [Conduire une enquête](fr/conduire-une-enquete.md). Le [plateau d'enquête](fr/plateau-d-enquete.md) peut, lorsque cela est utile, représenter les opérations mobilisées et les relations établies ou reconstruites entre elles.
 
-Une enquête ne garantit ni une solution définitive ni la production d'une description unique. Son résultat peut être une conclusion, une distinction nouvelle, une limitation de la portée d'une affirmation ou la reconnaissance d'une difficulté qui reste ouverte.
+## 6. Résultats et limites
 
-La révision ne constitue pas nécessairement un échec. Elle peut être un résultat de l'enquête lorsque l'examen conduit à modifier une description, un critère, une distinction ou la formulation du problème.
+Une enquête peut produire des résultats de portée différente. Elle peut notamment :
 
-Cette révisabilité ne rend pas toutes les descriptions équivalentes. Les propositions restent soumises à l'examen des éléments disponibles, des contraintes rencontrées et des raisons susceptibles de les soutenir.
+- maintenir une description en précisant ses conditions d'application ;
+- distinguer des questions ou des fonctions jusque-là confondues ;
+- établir ou préciser des relations entre plusieurs descriptions ;
+- réviser une catégorie, un critère ou une conclusion ;
+- limiter la portée d'une affirmation ;
+- établir que les éléments disponibles ne permettent pas de trancher ;
+- reformuler la difficulté initiale ou faire apparaître un nouveau problème.
 
-## 6. Portée et limites
+Ces résultats ne sont pas équivalents. Le maintien d'une description peut être un résultat aussi pertinent que sa révision, à condition que les raisons de ce maintien aient été examinées. De même, constater que les éléments disponibles ne permettent pas de conclure peut préciser les limites de l'examen sans constituer une solution au problème initial.
 
-Dans Protokin, l'enquête consiste à examiner les pratiques descriptives et les ressources par lesquelles elles rendent certaines différences identifiables, discutables et susceptibles d'être justifiées ou révisées.
+L'enquête ne garantit ni une résolution définitive ni la production d'une description unique. Elle ne démontre pas non plus que toutes les descriptions sont équivalentes ou que toute difficulté peut être traitée avec les ressources disponibles.
 
-Elle permet de rendre explicites des dépendances, de distinguer des fonctions et d'examiner la portée des conclusions produites. Elle permet également d'interroger les ressources mobilisées par l'examen lui-même.
-
-Elle n'établit cependant pas :
-
-- qu'une pratique descriptive doit nécessairement devenir réflexive ;
-- qu'une enquête suit une succession fixe d'opérations ;
-- que les orientations actuellement disponibles épuisent les rapports possibles d'examen ;
-- que toute difficulté rencontrée peut être résolue avec les éléments disponibles ;
-- que la révision d'une description conduit nécessairement à une description unique ;
-- que la cohérence d'une organisation descriptive garantit son adéquation à la situation examinée.
-
-L'enquête ne constitue pas davantage une ontologie générale ni une méthode destinée à remplacer les pratiques scientifiques, techniques, sociales ou institutionnelles. La portée méthodologique de Protokin est précisée dans l'[Introduction générale](fr/introduction-generale.md).
+Enfin, la cohérence des descriptions ou de leur organisation ne suffit pas à établir leur adéquation à ce qu'elles prétendent décrire. Les résultats doivent pouvoir être confrontés aux éléments disponibles, aux contraintes rencontrées et aux raisons susceptibles de les soutenir.
 
 ## Synthèse
 
-L'enquête commence lorsqu'une difficulté rend nécessaire l'examen des ressources descriptives mobilisées dans une pratique.
+Dans Protokin, une enquête est un examen situé et révisable des pratiques descriptives, de leurs ressources et des conclusions qu'elles permettent de soutenir.
 
-Elle ne porte pas seulement sur ce qui est décrit, mais également sur les conditions, les distinctions, les relations et les raisons qui interviennent dans la production et l'évaluation des descriptions.
+Elle prend appui sur une difficulté sans se confondre avec sa formulation, son diagnostic ou la solution recherchée. Elle examine les pratiques descriptives et peut également prendre pour objet les examens réflexifs que ces pratiques conduisent elles-mêmes.
 
-Dans Protokin, cet examen est de second ordre : les pratiques descriptives deviennent elles-mêmes objets d'enquête. Les ressources mobilisées pour les examiner restent cependant susceptibles d'être interrogées et révisées.
+Son caractère de second ordre ne lui confère pas une position extérieure aux pratiques. Les ressources qu'elle mobilise restent elles-mêmes examinables.
 
-**L'enquête est un examen situé et révisable des pratiques descriptives, de leurs ressources et de la portée des conclusions qu'elles permettent de soutenir.**
+L'enquête ne suit pas une procédure obligatoire. Elle procède par des travaux distincts, des mobilisations et des reprises dont les relations peuvent être reconstruites ultérieurement. Cette reconstruction ne transforme pas le déroulement effectif en trajectoire nécessaire.
+
+**L'enquête est un examen situé des pratiques descriptives et de leurs ressources, dont les résultats comme les conditions de production restent ouverts à la révision.**
 
 ## Pour poursuivre
 
 - [Introduction générale](fr/introduction-generale.md) — Présenter le problème auquel répond Protokin et le statut de la démarche.
-- [Problème descriptif](fr/probleme-descriptif.md) — Définir la difficulté qui rend nécessaire l'enquête.
-- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Présenter les ressources et les fonctions de l'examen.
-- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Préciser les rapports sous lesquels une situation ou une pratique peut être examinée.
-- [Conduire une enquête](fr/conduire-une-enquete.md) — Donner des repères pratiques pour mobiliser les ressources de l'enquête.
-- [L'enquête et l'organisation des notions](fr/enquete-et-organisation-des-notions.md) — Examiner le rapport entre le travail conceptuel et la démarche d'enquête.
+- [Problème descriptif](fr/probleme-descriptif.md) — Définir la difficulté qui rend nécessaire un examen.
+- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Distinguer les ressources mobilisables dans l'examen.
+- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Préciser les rapports sous lesquels une situation ou une pratique peut être interrogée.
+- [Conduire une enquête](fr/conduire-une-enquete.md) — Donner des repères pratiques pour choisir et reprendre les travaux d'examen.
+- [Temporaliser](fr/temporaliser.md) — Examiner les rapports entre déroulement effectif, anticipations et reconstruction rétrospective.
+- [Le plateau d'enquête](fr/plateau-d-enquete.md) — Représenter les opérations mobilisées et les relations entre leurs occurrences.
+- [L'enquête et l'organisation des notions](fr/enquete-et-organisation-des-notions.md) — Examiner le rôle des notions dans le travail d'enquête.
