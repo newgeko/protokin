@@ -36,15 +36,17 @@ Les descriptions doivent donc être examinées au regard des éléments qu’ell
 
 ## Un principe de travail
 
-L’enquête repose sur une exigence :
+L'enquête repose sur une exigence :
 
-**Continuité des dépendances, discontinuité des fonctions, non-conversion.**
+**Continuité des dépendances, distinction des fonctions, non-conversion automatique.**
 
-Des dimensions différentes peuvent dépendre les unes des autres sans devenir interchangeables.
+Des dimensions différentes peuvent dépendre les unes des autres sans remplir la même fonction. Une relation causale peut contribuer à expliquer une situation ; elle ne constitue pas, à elle seule, une raison de tenir une affirmation pour justifiée. Une condition peut intervenir dans la production d'un phénomène sans constituer automatiquement un critère d'évaluation. Une description peut remplir une fonction utile sans que cette utilité suffise à établir son adéquation.
 
-Une cause n’est pas une raison. Une condition n’est pas un critère. La genèse d’une description ne suffit pas à justifier son résultat. Une trace ne détermine pas à elle seule sa signification. L’utilité d’une description ne garantit pas son adéquation.
+Ces distinctions ne désignent pas des domaines indépendants et n'interdisent pas les passages entre les questions examinées. Elles indiquent plutôt qu'une réponse établie sous un certain rapport ne peut pas être transférée automatiquement à un autre.
 
-Il ne s’agit pas d’isoler ces dimensions, mais d’examiner les relations qui les unissent sans déduire de leur dépendance une identité de fonction.
+Un tel passage reste possible, mais il doit être explicité et justifié. Il faut alors examiner les éléments, les relations et les raisons qui autorisent la conclusion dans le registre auquel on passe.
+
+La non-conversion constitue ainsi une règle méthodologique de prudence dans le traitement des inférences : elle interdit de tenir une dépendance pour une justification suffisante, mais non d'établir, par un argument approprié, qu'une réponse contribue à en soutenir une autre.
 
 ## Deux architectures complémentaires
 
