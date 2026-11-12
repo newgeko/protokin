@@ -28,14 +28,22 @@ Elle porte sur les documents et leurs relations, non sur les opérations conduit
 
 ### 1.2. L'architecture fonctionnelle de l'enquête
 
-L'architecture fonctionnelle de l'enquête présente les ressources mobilisables pour examiner une difficulté descriptive. Elle distingue actuellement quatre ensembles :
+L'architecture fonctionnelle de l'enquête présente les ressources mobilisables pour examiner une difficulté descriptive. Elle distingue quatre ensembles :
 
-- **les opérations**, qui désignent les travaux d'examen ;
-- **les orientations**, qui précisent sous quel rapport une situation, une pratique ou un résultat est examiné ;
-- **les fonctions transversales**, qui désignent des dimensions susceptibles d'intervenir dans plusieurs opérations ;
-- **les instruments d'épreuve**, qui fournissent des moyens concrets de confronter des descriptions, des distinctions ou des conclusions à un examen.
+- **Les opérations** désignent les travaux d'examen conduits face à une difficulté descriptive. Elles permettent notamment de délimiter, d'ancrer, de distinguer, de relier, de configurer, de justifier, de reconstituer et de redélimiter.
+- **Les orientations** précisent les rapports sous lesquels une situation, une pratique, une opération ou un résultat peut être examiné. Les orientations actuellement retenues sont Condition, Relation, Fonction et Justification.
+- **Les fonctions transversales** désignent des modalités de travail d'examen susceptibles d'intervenir dans plusieurs opérations. Elles comprennent actuellement Temporaliser, Expliquer, Auditer, Réfléchir et Éprouver.
+- **Les instruments d'épreuve** fournissent des moyens concrets de confronter des descriptions, des distinctions ou des conclusions à un examen déterminé. Les instruments actuellement identifiés sont Substitution, Cas et Comparaison.
 
-Ces ensembles ne sont ni des types de documents ni des étapes obligatoires. Les regroupements qui facilitent la présentation des opérations sont des repères de lecture, et non une composante supplémentaire de l'architecture fonctionnelle.
+Les **catégories** ont un statut différent de ces quatre ensembles : elles regroupent certaines opérations afin d'en faciliter le repérage et la lecture. Elles ne constituent ni des opérations supplémentaires ni un ensemble autonome de ressources à mobiliser.
+
+L'enquête mobilise également cinq **dimensions de la connaissance** : Percevoir et prêter attention ; Identifier et distinguer ; Anticiper et inférer ; Évaluer et justifier ; Reprendre et réviser. Ces dimensions désignent des aspects interdépendants des activités de connaissance que l'examen peut avoir à distinguer et à mettre en relation. Elles ne constituent ni une nouvelle liste d'opérations, ni une classification exhaustive des activités cognitives, ni les étapes d'un processus de connaissance.
+
+Les dimensions de la connaissance et les fonctions transversales ne se situent pas au même niveau : les premières désignent des aspects des activités de connaissance que l'enquête peut examiner ; les secondes désignent des modalités de travail par lesquelles elle peut les examiner. Il n'existe pas de correspondance fixe entre elles. Une même fonction peut intervenir dans l'examen de plusieurs dimensions, et une même dimension peut être examinée à travers plusieurs fonctions.
+
+Les théories de la connaissance et du langage constituent, quant à elles, des ressources théoriques mobilisables selon les difficultés rencontrées. Elles ne forment pas un ensemble supplémentaire de composantes de l'architecture fonctionnelle.
+
+Ces ressources ne prescrivent ni une succession universelle d'opérations ni une grille à appliquer systématiquement. Leur mobilisation dépend de la difficulté examinée et les relations entre elles peuvent être précisées ou révisées au cours de l'enquête. La Reprise, entendue comme modalité générale de réexamen, ne constitue pas un instrument supplémentaire.
 
 Voir [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md).
 
