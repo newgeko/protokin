@@ -8,11 +8,7 @@
 
 Nous décrivons des situations, des événements, des organismes et des pratiques au moyen de distinctions, de catégories, de relations et de critères.
 
-Ces ressources peuvent devenir insuffisantes : une distinction ne permet plus de différencier les cas, une catégorie est contestée, plusieurs descriptions entrent en conflit ou une conclusion ne trouve plus de justification satisfaisante.
-
-**Protokin propose d’enquêter sur ces difficultés descriptives.**
-
-Il examine les conditions, les fonctions et les transformations par lesquelles les pratiques descriptives rendent certaines différences identifiables, discutables, justifiables, stabilisables, contestables et révisables.
+Ces ressources peuvent devenir insuffisantes : une distinction ne permet plus de différencier certains cas, une catégorie s'applique difficilement à une situation nouvelle, plusieurs descriptions entrent en conflit ou une conclusion ne trouve plus de justification satisfaisante.
 
 **Protokin organise des ressources pour rendre examinables ces difficultés descriptives.**
 
@@ -24,17 +20,23 @@ Son objet n'est pas de représenter l'ensemble du processus d'enquête ni de pro
 
 Protokin prend pour objet les pratiques descriptives et les conditions dans lesquelles elles produisent, utilisent et transforment leurs descriptions.
 
-Il ne cherche pas à établir une ontologie générale destinée à fixer par avance ce que sont les choses, les objets ou les relations. Cette réserve méthodologique ne signifie ni que les pratiques produisent intégralement ce qu’elles décrivent, ni qu’elles seraient dépourvues de tout engagement concernant ce qui existe.
+Il ne cherche pas à établir une ontologie générale destinée à fixer par avance ce que sont les choses, les objets ou les relations. Cette réserve méthodologique ne signifie ni que les pratiques produisent intégralement ce qu'elles décrivent, ni qu'elles seraient dépourvues de tout engagement concernant ce qui existe.
 
-Les situations examinées peuvent opposer des contraintes aux descriptions qui prétendent les caractériser. Les affirmations portant sur l’existence, l’identification ou les propriétés de ce qui est décrit peuvent elles-mêmes devenir des objets d’enquête.
+Les situations examinées peuvent opposer des contraintes aux descriptions qui prétendent les caractériser. Les affirmations portant sur l'existence, l'identification ou les propriétés de ce qui est décrit peuvent elles-mêmes devenir des objets d'enquête.
 
-Protokin distingue ainsi l’existence, les conditions d’identification et la détermination descriptive, sans les isoler des dépendances qui les relient.
+Protokin distingue ainsi trois questions :
+
+- **L'existence** : ce qui est ou n'est pas.
+- **L'identification** : ce qui permet de déterminer à quoi une pratique se rapporte.
+- **La détermination descriptive** : la manière dont ce qui est identifié est caractérisé.
+
+Ces questions sont liées, mais aucune ne se substitue automatiquement aux autres. Les difficultés rencontrées pour identifier ou décrire quelque chose ne démontrent pas son inexistence. De même, une identification stabilisée ne suffit pas à établir toutes les propriétés attribuées à ce qui est identifié.
 
 Une exigence demeure centrale :
 
-**La cohérence d’une description ne suffit pas à établir son adéquation à ce qu’elle prétend décrire.**
+**La cohérence d'une description ne suffit pas à établir son adéquation à ce qu'elle prétend décrire.**
 
-Les descriptions doivent donc être examinées au regard des éléments qu’elles mobilisent, des fonctions qu’elles remplissent, des critères qu’elles invoquent et des conclusions qu’elles permettent de soutenir.
+Les descriptions doivent donc être examinées au regard de leurs prétentions, des éléments qu'elles mobilisent, des critères qu'elles invoquent et des conclusions qu'elles permettent de soutenir.
 
 ## Un principe de travail
 
@@ -46,9 +48,9 @@ Des dimensions différentes peuvent dépendre les unes des autres sans remplir l
 
 Ces distinctions ne désignent pas des domaines indépendants et n'interdisent pas les passages entre les questions examinées. Elles indiquent plutôt qu'une réponse établie sous un certain rapport ne peut pas être transférée automatiquement à un autre.
 
-Un tel passage reste possible, mais il doit être explicité et justifié. Il faut alors examiner les éléments, les relations et les raisons qui autorisent la conclusion dans le registre auquel on passe.
+Un passage reste possible, mais il doit être explicité et justifié. Il faut alors examiner les éléments, les relations et les raisons qui autorisent la conclusion dans le registre auquel on passe.
 
-La non-conversion constitue ainsi une règle méthodologique de prudence dans le traitement des inférences : elle interdit de tenir une dépendance pour une justification suffisante, mais non d'établir, par un argument approprié, qu'une réponse contribue à en soutenir une autre.
+La non-conversion constitue ainsi une règle méthodologique de prudence dans le traitement des inférences. Elle interdit de tenir une dépendance pour une justification suffisante, mais non d'établir, par un argument approprié, qu'une réponse contribue à en soutenir une autre.
 
 ## Deux architectures complémentaires
 
@@ -56,24 +58,30 @@ Protokin distingue deux architectures qui répondent à des problèmes différen
 
 ### Architecture du projet
 
-L’[architecture du projet](fr/architecture-projet.md) organise le corpus documentaire. Elle précise les fonctions des pages, les relations qu’elles entretiennent, les dépendances pertinentes et les principes qui guident leur classement, leur navigation et leur révision.
+L'[architecture du projet](fr/architecture-projet.md) organise le corpus documentaire. Elle précise les fonctions des pages, les relations qu'elles entretiennent, les dépendances pertinentes et les principes qui guident leur classement, leur navigation et leur révision.
 
 Elle concerne les documents et leur organisation. Elle vise à préserver la fonction propre de chaque page, à rendre les relations entre les ressources intelligibles et à maintenir le corpus révisable.
 
-### Architecture fonctionnelle de l’enquête
+### Architecture fonctionnelle de l'enquête
 
-L’[architecture fonctionnelle de l’enquête](fr/architecture-fonctionnelle-de-l-enquete.md) organise les ressources mobilisables pour examiner une difficulté descriptive.
+L'[architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) organise les ressources que Protokin propose de mobiliser pour examiner les difficultés descriptives.
 
-Elle distingue quatre ensembles :
+Elle distingue quatre ensembles de ressources qui ne sont ni équivalents ni successifs :
 
-- **Les opérations** désignent les travaux d’examen.
+- **Les opérations** désignent les travaux d'examen entrepris pour traiter une difficulté descriptive.
 - **Les orientations** précisent sous quel rapport une situation, une pratique ou un résultat est examiné.
-- **Les fonctions transversales** désignent des dimensions susceptibles d’intervenir dans plusieurs opérations.
-- **Les instruments d’épreuve** fournissent des moyens concrets pour confronter des descriptions, des distinctions ou des conclusions à un examen.
+- **Les fonctions transversales** désignent des modalités de travail susceptibles d'intervenir dans plusieurs opérations et sous différentes orientations.
+- **Les instruments d'épreuve** fournissent des moyens particuliers pour confronter des descriptions, des distinctions ou des conclusions à un examen.
 
-Ces deux architectures sont complémentaires, mais ne doivent pas être confondues. La première organise les pages du projet ; la seconde distingue les ressources de l’enquête. Les fonctions documentaires d'une page ne déterminent donc pas les opérations qu'une enquête doit mobiliser, et les ressources de l'enquête ne constituent pas des rubriques documentaires.
+Ces quatre ensembles répondent à des questions différentes. Les opérations désignent le travail entrepris ; les orientations précisent le rapport sous lequel il est conduit ; les fonctions transversales désignent des modalités susceptibles de traverser plusieurs travaux ; les instruments fournissent des moyens particuliers de confrontation.
 
-## Les ressources de l’enquête
+Ils peuvent être mobilisés conjointement, mais ne se correspondent pas terme à terme. Une opération peut être examinée sous plusieurs orientations, mobiliser différentes fonctions transversales et recourir à plusieurs instruments. Un instrument peut contribuer à plusieurs opérations. Aucune correspondance fixe ni aucun ordre universel ne sont présupposés.
+
+Les **catégories** ont un statut distinct : elles regroupent certaines opérations pour faciliter leur repérage. Elles ne constituent pas un cinquième ensemble de ressources.
+
+Ces deux architectures sont complémentaires, mais ne doivent pas être confondues. La première organise les pages du projet ; la seconde distingue les ressources mobilisables pour examiner les difficultés descriptives. Les fonctions documentaires d'une page ne déterminent donc pas les opérations qu'une enquête doit mobiliser, et les ressources de l'enquête ne constituent pas des rubriques documentaires.
+
+## Les ressources de l'enquête
 
 ### Les opérations
 
@@ -81,9 +89,15 @@ Huit opérations sont actuellement distinguées :
 
 **Délimiter · Ancrer · Distinguer · Relier · Configurer · Justifier · Reconstituer · Redélimiter.**
 
-Elles désignent des travaux d'examen et non les étapes obligatoires d'une procédure. Leur ordre de présentation ne fixe pas l'ordre du travail. Elles peuvent être mobilisées séparément ou conjointement, reprises ou laissées de côté selon la difficulté rencontrée.
+Elles désignent des travaux d'examen de second ordre portant sur les pratiques descriptives. Elles ne constituent pas les étapes obligatoires d'une procédure.
+
+Leur ordre de présentation ne fixe pas l'ordre du travail. Elles peuvent être mobilisées séparément ou conjointement, reprises ou laissées de côté selon la difficulté rencontrée.
 
 Les quatre regroupements parfois utilisés pour faciliter leur lecture — cadrage du problème, analyse des différences et des relations, construction descriptive et examen justificatif, reconstitution et révision du problème — sont de simples repères documentaires. Ils ne constituent pas une catégorie supplémentaire de ressources.
+
+Les opérations de Protokin ne se confondent pas avec les activités des pratiques étudiées. Mesurer, classer, interpréter, décider, observer ou produire une assertion sont des activités susceptibles d'être examinées. Les opérations de Protokin portent sur les conditions, les fonctions, les relations et les justifications de telles activités.
+
+Voir [Les opérations de référence et leurs articulations](fr/la-chaine-principale-de-l-enquete.md).
 
 ### Les orientations
 
@@ -94,9 +108,11 @@ Quatre orientations de référence sont actuellement développées :
 - **Fonction** — examiner le rôle et le travail accomplis par un élément dans une pratique déterminée.
 - **Justification** — examiner les raisons, les critères et les engagements susceptibles de soutenir une description ou une conclusion.
 
-Ces quatre orientations ne sont pas strictement symétriques. Condition, Relation et Fonction permettent d'examiner différents rapports relatifs à une situation ou à une pratique. Justification porte sur les raisons, les critères et les engagements qui permettent de soutenir les affirmations produites à leur sujet. Elle possède ainsi une portée réflexive et transversale : elle peut examiner les résultats obtenus sous les autres orientations, sans constituer pour autant une instance extérieure à l'enquête.
+Ces quatre orientations ne sont pas strictement symétriques. Condition, Relation et Fonction permettent d'examiner différents rapports relatifs à une situation ou à une pratique. Justification porte sur les raisons, les critères et les engagements qui permettent de soutenir les affirmations produites à leur sujet. Elle peut également contribuer à l'examen des résultats obtenus sous les autres orientations.
 
-Une opération peut contribuer à plusieurs orientations ; une orientation peut nécessiter plusieurs opérations. Il n'existe pas de correspondance fixe entre les deux.
+Une orientation ne désigne pas une activité supplémentaire à effectuer. Elle précise un rapport de questionnement qui peut conduire à mobiliser une ou plusieurs opérations.
+
+Une même opération peut contribuer à plusieurs orientations. Une orientation peut, inversement, nécessiter plusieurs opérations. Il n'existe donc pas de correspondance fixe entre les deux.
 
 Voir [Orientation de l'examen](fr/orientation-de-l-examen.md).
 
@@ -106,9 +122,13 @@ Les fonctions transversales actuellement identifiées sont :
 
 **Temporaliser · Expliquer · Auditer · Réfléchir · Éprouver.**
 
-Elles désignent des dimensions de travail susceptibles d'intervenir dans plusieurs opérations. Elles ne constituent ni une seconde série d'opérations ni des étapes supplémentaires.
+Elles désignent des modalités de travail susceptibles d'intervenir dans plusieurs opérations et sous différentes orientations. Elles ne constituent ni une seconde série d'opérations ni des étapes supplémentaires.
 
-### Les instruments d’épreuve
+Ces fonctions ne sont pas homogènes quant à leur objet immédiat. Leur caractère transversal tient à leur possibilité d'intervention dans plusieurs travaux d'examen, et non à une nature ou à une fonction identique. Elles ne sont pas nécessairement mobilisées dans chaque opération.
+
+Leur intervention dépend des difficultés rencontrées. Elles ne doivent donc pas être présupposées comme des exigences systématiques de toute enquête.
+
+### Les instruments d'épreuve
 
 Trois instruments sont actuellement distingués :
 
@@ -116,27 +136,29 @@ Trois instruments sont actuellement distingués :
 - **Cas** — examiner une situation déterminée pour préciser la portée, les conditions ou les limites d'une proposition.
 - **Comparaison** — confronter plusieurs descriptions ou situations afin d'examiner leurs différences et les rapports qu'il est possible d'établir entre elles.
 
-La **Reprise** n'est pas un instrument de même type. Elle désigne une modalité générale de réexamen d'une opération, d'une description, d'une distinction ou d'une conclusion.
+Ces instruments fournissent des moyens de confrontation. Ils ne produisent pas mécaniquement un verdict et ne garantissent pas, à eux seuls, la validité ou l'adéquation d'un résultat.
+
+La **Reprise** n'est pas un instrument de même type. Elle désigne une modalité générale de réexamen d'une opération, d'une description, d'une distinction ou d'une conclusion à la lumière d'une difficulté, d'une objection ou d'un nouvel élément.
 
 ## Une enquête située et révisable
 
-Les ressources de Protokin ne constituent ni les étapes obligatoires d’une méthode ni les composantes nécessaires de toute enquête.
+Les ressources de Protokin ne constituent ni les étapes obligatoires d'une méthode ni les composantes nécessaires de toute enquête.
 
-Au cours de son déroulement, une enquête ne forme pas nécessairement une trajectoire continue ou déjà intelligible. Elle procède par mobilisations, déplacements et reprises, en fonction des difficultés rencontrées et des résultats obtenus. Les ressources pertinentes peuvent être articulées, réexaminées ou modifiées au fil de l'examen.
+Une enquête ne forme pas nécessairement une trajectoire continue ou déjà intelligible. Elle procède par mobilisations, déplacements et reprises, en fonction des difficultés rencontrées et des résultats obtenus. Les ressources pertinentes peuvent être articulées, réexaminées ou modifiées au fil de l'examen.
 
 Les relations entre ces différents travaux peuvent être reconstruites rétrospectivement. Cette reconstruction rend éventuellement intelligibles des dépendances, des continuités ou des bifurcations qui n'étaient pas nécessairement identifiables au moment où les travaux se déroulaient. La cohérence ainsi reconstruite ne signifie pas que l'enquête suivait dès son commencement une trajectoire déterminée, ni que son résultat était prévisible ou nécessaire.
 
 Une orientation ne prescrit pas une opération particulière ; une fonction transversale ne se substitue pas à une opération ; un instrument ne garantit pas à lui seul la validité d'un résultat. L'enquête ne consiste donc pas à remplir une grille en associant systématiquement les différents ensembles de ressources.
 
-Le [plateau d'enquête](fr/plateau-d-enquete.md) peut être utilisé comme un moyen facultatif de représenter les opérations mobilisées, les éléments examinés et les relations reconstruites entre les différents travaux. Il ne constitue pas une composante supplémentaire de l'architecture fonctionnelle.
+Le [plateau d'enquête](fr/plateau-d-enquete.md) peut être utilisé comme un moyen facultatif de représenter les opérations mobilisées, les éléments examinés et les relations établies ou reconstruites entre les différents travaux. Il ne constitue pas une composante supplémentaire de l'architecture fonctionnelle.
 
-**Protokin organise des ressources pour conduire des enquêtes situées ; il ne prescrit pas à l’avance la forme qu’elles doivent prendre.**
+**Protokin organise des ressources pour examiner les difficultés descriptives rencontrées dans des enquêtes situées ; il ne prescrit ni leur déroulement ni la forme des résultats auxquels elles peuvent conduire.**
 
 ## Un projet qui s'éprouve lui-même
 
 Protokin ne peut justifier sa pertinence par la seule cohérence de son architecture, la précision de ses définitions ou l'application régulière de ses distinctions.
 
-Sa fécondité doit être appréciée à partir des examens effectivement conduits et des contributions qu'ils apportent au traitement des difficultés rencontrées.
+Sa fécondité doit être appréciée à partir des examens effectivement conduits et de sa capacité à rendre traitables des difficultés descriptives que les ressources initialement disponibles ne permettaient pas suffisamment d'examiner.
 
 Les ressources du projet restent elles-mêmes exposées à l'examen. Une enquête peut conduire à préciser une définition, modifier une distinction, réorganiser une opération, réviser une orientation ou abandonner un instrument devenu insuffisant.
 
@@ -164,7 +186,8 @@ Les pages suivantes proposent des entrées complémentaires dans le corpus. Elle
 
 ### Conduire et représenter une enquête
 
-- [Conduire une enquête](fr/conduire-une-enquete.md) — Proposer des repères pratiques pour passer d'une difficulté descriptive à un travail d'examen.
+- [Conduire une enquête](fr/conduire-une-enquete.md) — Proposer des repères pratiques pour traiter une difficulté descriptive et déterminer les reprises pertinentes.
+- [Temporaliser](fr/temporaliser.md) — Examiner les temporalités prospectives et rétrospectives mobilisées dans le travail d'enquête.
 - [Le plateau d'enquête](fr/plateau-d-enquete.md) — Présenter un dispositif graphique facultatif pour représenter les travaux mobilisés et les relations établies ou reconstruites entre eux.
 - [Une première cartographie des régimes descriptifs](fr/une-premiere-cartographie-des-regimes-descriptifs.md) — Repérer différentes manières d'organiser les descriptions sans les réduire à une classification définitive.
 - [Table des matières](fr/tdm.md) — Parcourir l'ensemble des ressources du projet.
