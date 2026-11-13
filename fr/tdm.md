@@ -39,7 +39,7 @@ Les ressources présentées dans cette partie permettent de construire un examen
 - [Enquête](enquete.md) — Définir l’enquête comme examen situé et révisable des pratiques descriptives.
 - [La chaîne principale de l’enquête](la-chaine-principale-de-l-enquete.md) — Présenter les opérations principales et leurs articulations.
 - [Conduire une enquête](conduire-une-enquete.md) — Donner des repères pour mobiliser les ressources de Protokin dans une situation concrète.
-- [Plateau d’enquête](plateau-d-enquete.md) — Présenter un instrument facultatif de représentation et de navigation.
+- [Plateau d’enquête](plateau-d-enquete.md) — Présenter un dispositif graphique facultatif pour représenter les occurrences des travaux d’examen et les relations établies ou reconstruites entre eux.
 - [Orientations et chemin de l’enquête](orientation-et-chemin-de-l-enquete.md) — Distinguer les orientations qui déterminent sous quels rapports une difficulté est étudiée et les opérations qui la traitent.
 - [Résultats de l’enquête](resultats-de-l-enquete.md) — Examiner ce qui peut être tenu pour un résultat, distinguer configurations élaborées, conclusions justifiées et possibilités de révision.
 
@@ -92,7 +92,7 @@ Ces ressources permettent d’examiner les différents rapports sous lesquels un
 - [Temps](temps.md) — Examiner les relations temporelles et les distinctions nécessaires à l’étude du temps physique.
 - [Référent temporel](le-referent-temporel.md) — Distinguer phénomène physique, définition de l’unité, réalisation métrologique et mesure obtenue.
 - [Temporalité descriptive](temporalite-descriptive.md) — Examiner comment les pratiques descriptives héritent de ressources antérieures, les mobilisent et les transforment.
-- [Temporaliser](temporaliser.md) — Examiner la prise en compte de la temporalité dans les opérations de l’enquête, en distinguant les perspectives prospective et rétrospective.
+- [Temporaliser](temporaliser.md) — Examiner les temporalités effective, prospective et rétrospective, ainsi que leurs rapports dans la construction et la reconstruction des descriptions.
 - [Historicité](historicite.md) — Examiner la formation et la transformation historiques des catégories descriptives et des critères d’évaluation.
 - [Anachronisme](anachronisme.md) — Repérer les projections rétrospectives de catégories ou de critères sur des pratiques historiques.
 - [Trajectoire](trajectoire.md) — Reconstruire le parcours des transformations descriptives.
