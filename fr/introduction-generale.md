@@ -14,7 +14,7 @@ Pour accomplir ces activités, elles mobilisent des catégories, des critères e
 
 Une difficulté de ce type ne se résout pas nécessairement en ajoutant une description ou en choisissant entre celles qui sont déjà disponibles. Elle peut demander d'examiner la manière dont le problème a été constitué : quelles différences ont été retenues, ce qui a été identifié, quelles relations ont été établies, quelles catégories ont été mobilisées et selon quels critères les conclusions sont soutenues.
 
-Protokin part de ces difficultés descriptives. Il propose une démarche d'enquête pour examiner les pratiques qui les rencontrent, préciser ce qui fait problème et déterminer dans quelles conditions leurs descriptions peuvent être maintenues, contestées ou révisées.
+Protokin prend ces difficultés descriptives pour objet d'examen. Il organise des ressources permettant de préciser ce qui fait problème, d'examiner les pratiques descriptives concernées et de déterminer dans quelles conditions leurs descriptions peuvent être maintenues, contestées ou révisées. Il ne présuppose pas que toute difficulté appelle les mêmes opérations ni que son examen doive suivre un déroulement prédéfini.
 
 L'enjeu n'est donc pas seulement d'évaluer une description particulière. Il est aussi d'examiner les pratiques par lesquelles quelque chose devient identifiable, descriptible, discutable, justifiable et révisable.
 
