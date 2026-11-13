@@ -76,7 +76,7 @@ La reprise ne signifie pas simplement répéter un travail antérieur. Elle peut
 
 ## 5. Consigner les résultats et, si nécessaire, reconstruire les relations entre les examens
 
-À chaque reprise, noter brièvement :
+À Lorsque cela est utile pour conserver la trace d'un travail ou préparer sa reprise, quelques indications peuvent être consignées :
 
 - **Difficulté examinée** : qu'est-ce qui posait problème ?
 - **Travail effectué** : quelle opération a été mobilisée ou reprise ?
@@ -85,7 +85,7 @@ La reprise ne signifie pas simplement répéter un travail antérieur. Elle peut
 - **Limite** : qu'est-ce qui reste incertain ou contestable ?
 - **Nouvelle difficulté** : qu'est-ce que le résultat conduit éventuellement à réexaminer ?
 
-Ces indications permettent de conserver la trace des travaux effectués sans transformer leur succession en procédure.
+Cette consignation est facultative. Son niveau de détail dépend de la difficulté examinée et de l'intérêt de conserver certaines informations pour la suite de l'enquête.
 
 À partir des résultats disponibles, il devient possible de reconstruire les relations entre les différents examens : dépendances, continuités, déplacements, bifurcations et reprises. Cette reconstruction ne restitue pas nécessairement un parcours qui aurait été cohérent dès son commencement. Elle articule rétrospectivement des travaux dont la portée a pu se transformer au cours de l'enquête.
 
