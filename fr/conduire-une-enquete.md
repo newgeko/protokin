@@ -74,7 +74,7 @@ Le choix ne dépend donc pas de la position d'une opération dans la liste, mais
 
 La reprise ne signifie pas simplement répéter un travail antérieur. Elle peut en modifier l'objet, les conditions ou la portée.
 
-## 5. Consigner les résultats et reconstruire les relations entre les examens
+## 5. Consigner les résultats et, si nécessaire, reconstruire les relations entre les examens
 
 À chaque reprise, noter brièvement :
 
