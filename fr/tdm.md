@@ -45,7 +45,7 @@ Une enquête peut sélectionner certaines opérations, les combiner, les reprend
 - [Conduire une enquête](fr/conduire-une-enquete.md) — Donner des repères pour mobiliser les ressources de Protokin dans une situation concrète.
 - [Plateau d’enquête](fr/plateau-d-enquete.md) — Présenter un instrument facultatif de représentation et de navigation permettant de situer les éléments d’une enquête, les opérations mobilisées et les relations à examiner.
 - [Orientations et chemin de l’enquête](fr/orientation-et-chemin-de-l-enquete.md) — Examiner la distinction entre les orientations qui déterminent sous quels rapports une difficulté est étudiée et les opérations qui la traitent.
-
+- [Résultats de l'enquête](fr/resultats-de-l-enquete.md) — Examiner ce qui peut être tenu pour un résultat de l'enquête, distinguer les configurations élaborées, les conclusions justifiées et les possibilités de révision.
 ### B. Délimiter et ancrer
 
 - [Délimiter](fr/delimiter.md) — Formuler la difficulté à examiner et préciser le périmètre provisoire de l’enquête.
