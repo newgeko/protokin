@@ -155,6 +155,8 @@ Ces pages portent sur les ressources linguistiques et inférentielles mobilisée
 - [Relations LX et pragmatique de l’explicitation](fr/relations-lx-et-pragmatique-de-l-explicitation.md) — Examiner comment un vocabulaire rend explicites certains aspects d’une pratique et les conséquences de cette explicitation.
 - [Évaluer une traduction](fr/evaluer-une-traduction.md) — Examiner les correspondances, les transformations et les limites du passage d’une description à une autre.
 
+### E. Dimensions de la connaissance mobilisées par l'enquête
+- 
 ## V. Examiner les configurations et les régimes descriptifs
 
 Ces ressources permettent d’étudier comment les différences, les catégories, les relations et les supports sont organisés dans une pratique descriptive.
