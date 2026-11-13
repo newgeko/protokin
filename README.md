@@ -163,7 +163,7 @@ Les pages suivantes proposent des entrées complémentaires dans le corpus. Elle
 ### Conduire et représenter une enquête
 
 - [Conduire une enquête](fr/conduire-une-enquete.md) — Proposer des repères pratiques pour passer d'une difficulté descriptive à un travail d'examen.
-- [Le plateau d'enquête](fr/plateau-d-enquete.md) — Présenter un moyen facultatif de représentation du cheminement d'une enquête.
+- [Le plateau d'enquête](fr/plateau-d-enquete.md) — Présenter un dispositif graphique facultatif pour représenter les travaux mobilisés et les relations établies ou reconstruites entre eux.
 - [Une première cartographie des régimes descriptifs](fr/une-premiere-cartographie-des-regimes-descriptifs.md) — Repérer différentes manières d'organiser les descriptions sans les réduire à une classification définitive.
 - [Table des matières](fr/tdm.md) — Parcourir l'ensemble des ressources du projet.
 
