@@ -165,6 +165,14 @@ Ces pages portent sur les ressources linguistiques et inférentielles mobilisée
 - [Évaluer une traduction](fr/evaluer-une-traduction.md) — Examiner les correspondances, les transformations et les limites du passage d’une description à une autre.
 
 ### E. Dimensions de la connaissance mobilisées par l'enquête
+
+Ces dimensions désignent des aspects interdépendants des activités de connaissance que l’examen peut avoir à distinguer et à mettre en relation. Elles ne constituent ni des opérations supplémentaires ni les étapes d’un processus de connaissance.
+
+6 Percevoir et prêter attention — Examiner les conditions perceptives et attentionnelles de l’accès à une situation.
+- Identifier et distinguer — Examiner les activités d’identification, de reconnaissance et de différenciation.
+- Anticiper et inférer — Examiner les attentes, les hypothèses et les transitions inférentielles mobilisées.
+- Évaluer et justifier — Examiner les activités d’appréciation, les critères et les raisons avancées.
+- Reprendre et réviser — Examiner les activités par lesquelles une pratique revient sur ses descriptions, ses identifications, ses attentes et ses critères.
 - 
 ## V. Examiner les configurations et les régimes descriptifs
 
