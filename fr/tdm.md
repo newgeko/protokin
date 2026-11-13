@@ -106,10 +106,10 @@ Ces ressources permettent d’examiner les différents rapports sous lesquels un
 
 ### D. Fonctions transversales de l'enquête
 
-- Temporalisation.
-- Audit.
-- Réflexivité.
-- Épreuve.
+- Expliquer — Examiner les processus, les mécanismes et les facteurs susceptibles de rendre compte de la production ou de la transformation d’une situation.
+- Auditer — Examiner les distinctions, les inférences, les incompatibilités et les engagements mobilisés dans une description ou un raisonnement.
+- Réfléchir — Examiner les présupposés, les choix, les limites et les effets de l’enquête elle-même.
+- Éprouver — Confronter les descriptions et les résultats de l’examen à des éléments susceptibles de les confirmer, de les limiter ou de les contester.
 
 ## IV. Examiner le langage, les contenus et les inférences
 
