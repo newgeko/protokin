@@ -221,51 +221,51 @@ Pour approfondir ces distinctions, voir [Temporaliser](fr/temporaliser.md).
 
 ## 5. Construire et réviser un plateau
 
-Le plateau est construit en fonction d'une difficulté et d'un besoin de représentation. Il ne faut pas commencer par disposer toutes les opérations pour chercher ensuite à les relier.
+Le plateau est construit en fonction d'une difficulté et d'un besoin de représentation. Il ne s'agit pas de disposer préalablement toutes les opérations pour chercher ensuite à les relier, ni de suivre une procédure déterminée.
 
-Son utilisation peut s'organiser autour de quelques décisions pratiques.
+Les éléments suivants constituent des repères possibles. Ils peuvent être mobilisés dans un ordre variable, repris ou laissés de côté selon ce qu'il est utile de représenter.
 
-### 5.1. Déterminer ce qu'il est utile de représenter
+### 5.1. Déterminer le besoin de représentation
 
 Préciser la difficulté ou la question pour laquelle une représentation graphique apporterait un gain identifiable.
 
-Le plateau peut porter sur une partie d'une enquête ou sur les relations entre plusieurs de ses travaux.
+Le plateau peut porter sur une partie d'une enquête, sur plusieurs travaux d'examen ou sur les relations entre différentes configurations. Il n'est pas nécessaire d'y faire apparaître l'ensemble des opérations disponibles.
 
-Il n'est pas nécessaire d'y faire apparaître l'ensemble des opérations disponibles.
+La représentation peut également être commencée ou modifiée en cours d'enquête, lorsqu'un besoin de rendre visibles certaines relations apparaît.
 
-### 5.2. Identifier les occurrences de travaux
+### 5.2. Représenter les occurrences de travaux
 
-Représenter les opérations effectivement mobilisées, en distinguant leurs différentes occurrences lorsque cela est nécessaire.
+Lorsque cela est utile, représenter les opérations effectivement mobilisées en distinguant leurs différentes occurrences.
 
-Associer à chacune les éléments utiles à la compréhension du travail réalisé.
+Associer à chacune les éléments nécessaires à la compréhension du travail réalisé : question examinée, matériaux mobilisés, résultats obtenus ou difficultés persistantes.
 
-Les travaux envisagés mais non effectués doivent conserver un statut distinct.
+Les travaux envisagés mais non effectués doivent conserver un statut distinct de celui des travaux réalisés.
 
-### 5.3. Représenter les relations pertinentes
+### 5.3. Examiner les relations à représenter
 
 Relier les éléments lorsque leur relation contribue à comprendre l'enquête.
 
-Préciser, si nécessaire, s'il s'agit d'une succession, d'une dépendance, d'une reprise, d'une comparaison ou d'une reconstruction rétrospective.
+Préciser, si nécessaire, la nature de la relation : succession effective, dépendance, reprise, comparaison, bifurcation ou reconstruction rétrospective.
 
-Ne pas établir de liaison uniquement pour produire une figure graphiquement cohérente.
+Une relation peut être établie pendant l'examen ou devenir intelligible depuis une situation ultérieure. Dans ce dernier cas, la représentation doit permettre de reconnaître son statut rétrospectif.
 
-### 5.4. Indiquer les orientations et les autres ressources
+Il ne faut pas établir de liaison uniquement pour produire une figure graphiquement cohérente. Une relation représentée demeure susceptible d'être précisée, contestée ou supprimée.
 
-Ajouter les annotations nécessaires pour préciser les rapports sous lesquels les éléments sont examinés.
+### 5.4. Situer les orientations et les autres ressources
 
-Signaler les fonctions transversales et les instruments effectivement mobilisés lorsque ces indications facilitent la compréhension de la représentation.
+Des annotations peuvent préciser les orientations sous lesquelles les travaux sont examinés, ainsi que les fonctions transversales et les instruments effectivement mobilisés.
 
-Ne pas transformer ces annotations en catégories ou en étapes supplémentaires.
+Ces indications ne sont utiles que lorsqu'elles contribuent à comprendre les travaux représentés. Elles ne doivent pas transformer les ressources de l'enquête en étapes ou en catégories supplémentaires du plateau.
 
-### 5.5. Réexaminer la représentation
+### 5.5. Réviser ou abandonner la représentation
 
-Modifier le plateau lorsque de nouveaux éléments conduisent à revoir les relations établies.
+Le plateau peut être modifié lorsque de nouveaux éléments conduisent à revoir les relations établies ou reconstruites.
 
 Une liaison peut être contestée, précisée ou supprimée. Une occurrence d'opération peut être ajoutée lorsqu'un nouveau travail est réalisé. Une configuration peut être redécrite à partir d'éléments qui n'étaient pas initialement disponibles.
 
-Le plateau peut également devenir inutile lorsque la représentation graphique n'apporte plus de contribution identifiable.
+La représentation peut aussi devenir inutile lorsque le plateau n'apporte plus de contribution identifiable à l'examen.
 
-Ces indications constituent des possibilités d'utilisation, non une procédure obligatoire de conduite de l'enquête.
+Ces repères ne constituent ni une séquence obligatoire ni une procédure de conduite de l'enquête. Ils indiquent différentes décisions possibles pour construire et réviser une représentation située.
 
 ## 6. Un plateau ou plusieurs représentations
 
