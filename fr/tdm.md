@@ -46,22 +46,31 @@ Une enquête peut sélectionner certaines opérations, les combiner, les reprend
 - [Plateau d’enquête](fr/plateau-d-enquete.md) — Présenter un instrument facultatif de représentation et de navigation permettant de situer les éléments d’une enquête, les opérations mobilisées et les relations à examiner.
 - [Orientations et chemin de l’enquête](fr/orientation-et-chemin-de-l-enquete.md) — Examiner la distinction entre les orientations qui déterminent sous quels rapports une difficulté est étudiée et les opérations qui la traitent.
 - [Résultats de l'enquête](fr/resultats-de-l-enquete.md) — Examiner ce qui peut être tenu pour un résultat de l'enquête, distinguer les configurations élaborées, les conclusions justifiées et les possibilités de révision.
-### B. Délimiter et ancrer
+
+### B. Objets de l’examen
+
+- Objets de l’examen — Déterminer ce qui est examiné dans une enquête et distinguer les situations, les pratiques descriptives, les descriptions et les matériaux mobilisés.
+
+### C. Modes d’intervention de l’enquête
+
+- Modes d’intervention de l’enquête⁠ — Examiner comment les opérations, les orientations, les fonctions transversales et les instruments d’épreuve sont mobilisés, combinés, confrontés et repris.
+
+### D. Délimiter et ancrer
 
 - [Délimiter](fr/delimiter.md) — Formuler la difficulté à examiner et préciser le périmètre provisoire de l’enquête.
 - [Ancrer](fr/ancrer.md) — Identifier les observations, les traces, les documents, les données et les contraintes pertinents pour l’examen.
 
-### C. Distinguer et relier
+### E. Distinguer et relier
 
 - [Distinguer](fr/distinguer.md) — Établir les différences nécessaires à l’examen et repérer les confusions qui empêchent de traiter le problème.
 - [Relier](fr/relier.md) — Examiner la nature, les conditions et la portée des relations entre les éléments retenus.
 
-### D. Configurer et justifier
+### F. Configurer et justifier
 
 - [Configurer](fr/configurer.md) — Organiser les éléments retenus et leurs relations au regard du problème examiné.
 - [Justifier](fr/justifier.md) — Examiner les raisons, les prémisses, les critères et les inférences qui soutiennent ou contestent une conclusion.
 
-### E. Reconstituer et redélimiter
+### G. Reconstituer et redélimiter
 
 - [Reconstituer](fr/reconstituer.md) — Rendre le cheminement de l’enquête intelligible et réexaminable à partir des éléments disponibles.
 - [Redélimiter](fr/redelimiter.md) — Réexaminer la formulation et le périmètre du problème à la lumière des résultats et des difficultés de l’enquête.
