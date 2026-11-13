@@ -34,6 +34,8 @@ Cette position ne signifie pas que Protokin serait extérieur aux pratiques qu'i
 
 Le second ordre est donc une position d'examen, non un point de vue indépendant de toute pratique. Il suppose une possibilité de reprise réflexive : les ressources, les distinctions et les conclusions de l'enquête doivent pouvoir être examinées à leur tour.
 
+Cette position de second ordre ne signifie pas que Protokin entend rendre compte de l'ensemble du processus d'enquête. Son objet est plus circonscrit : il s'agit d'organiser des ressources pour rendre examinables les difficultés descriptives qui apparaissent au cours d'enquêtes situées. L'architecture fonctionnelle qui en résulte ne décrit donc pas toutes les activités cognitives, pratiques ou expérimentales engagées dans une enquête. Elle distingue des ressources susceptibles d'aider à examiner certaines difficultés rencontrées dans ces activités.
+
 ## 3. Existence, identification et détermination descriptive
 
 L'examen des pratiques descriptives demande de distinguer trois questions qui peuvent être liées sans se confondre.
@@ -199,9 +201,9 @@ Il ne s'agit pas d'isoler ces dimensions, mais d'examiner les relations qui les 
 
 ## 9. Portée de la démarche
 
-Protokin ne propose ni une description ultime du monde, ni une classification définitive de toutes les pratiques descriptives, ni une procédure universelle garantissant la validité des résultats.
+Protokin ne propose ni une description ultime du monde, ni une classification définitive de toutes les pratiques descriptives, ni une procédure universelle garantissant la validité des résultats. Il ne constitue pas davantage une théorie générale du déroulement de l'enquête ou une classification exhaustive des activités cognitives qui y interviennent.
 
-Il fournit des ressources pour examiner comment les pratiques identifient ce dont elles parlent, établissent des différences, produisent des descriptions, construisent des relations et soutiennent leurs conclusions. Leur pertinence dépend des difficultés rencontrées et des questions que l'enquête doit traiter.
+Il organise des ressources pour rendre examinables les difficultés descriptives rencontrées dans des enquêtes situées. Ces ressources permettent notamment d'examiner comment les pratiques identifient ce dont elles parlent, établissent des différences, produisent des descriptions, construisent des relations et soutiennent leurs conclusions. Leur pertinence dépend des difficultés rencontrées et des questions que l'examen doit traiter.
 
 Une enquête peut conduire à maintenir une description, à la corriger, à distinguer des questions jusque-là confondues, à constater une incompatibilité ou à reconnaître que les éléments disponibles ne permettent pas de trancher. Ce dernier résultat peut préciser ce qui manque et les conditions dans lesquelles l'examen pourrait reprendre.
 
@@ -216,9 +218,9 @@ Pour les ressources et le fonctionnement de l'enquête, voir :
 
 ## Synthèse
 
-Protokin est une démarche d'enquête de second ordre, pragmatiste, inférentialiste et réflexive, méthodologiquement non ontologique, sur les pratiques descriptives.
+Protokin est une démarche d'enquête de second ordre, pragmatiste, inférentialiste et réflexive, méthodologiquement non ontologique, portant sur les pratiques descriptives.
 
-Il examine les conditions, les fonctions et les transformations par lesquelles ces pratiques identifient ce dont elles parlent, établissent des différences, produisent des descriptions, construisent des relations et justifient leurs conclusions.
+Il organise des ressources révisables pour rendre examinables les difficultés descriptives rencontrées au cours d'enquêtes situées. Il ne cherche pas à rendre compte de l'ensemble du processus d'enquête, mais à permettre l'examen des conditions, des fonctions et des transformations par lesquelles les pratiques identifient ce dont elles parlent, établissent des différences, produisent des descriptions, construisent des relations et justifient leurs conclusions.
 
 Il ne prend pas une ontologie générale pour point de départ. Cela ne signifie ni qu'il nie l'existence de ce qui est décrit, ni qu'il se désintéresse des prétentions ontologiques. Il examine ces prétentions sans leur substituer une ontologie préalable.
 
