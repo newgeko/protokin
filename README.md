@@ -14,9 +14,11 @@ Ces ressources peuvent devenir insuffisantes : une distinction ne permet plus de
 
 Il examine les conditions, les fonctions et les transformations par lesquelles les pratiques descriptives rendent certaines différences identifiables, discutables, justifiables, stabilisables, contestables et révisables.
 
-Il s’intéresse notamment aux rapports entre les conditions matérielles des pratiques, les opérations descriptives, les relations établies, les engagements discursifs et les justifications avancées.
+**Protokin organise des ressources pour rendre examinables ces difficultés descriptives.**
 
-Son objectif est de rendre les pratiques descriptives examinables, sans présupposer une ontologie générale ni considérer que leur cohérence suffit à garantir leur adéquation.
+Il permet d'examiner les conditions dans lesquelles les pratiques identifient ce dont elles parlent, établissent des différences, construisent des relations, produisent des descriptions et justifient leurs conclusions.
+
+Son objet n'est pas de représenter l'ensemble du processus d'enquête ni de proposer une méthode universelle. Il consiste à fournir des ressources pour examiner les difficultés descriptives rencontrées dans des enquêtes situées, sans présupposer une ontologie générale ni considérer que la cohérence d'une description suffit à garantir son adéquation.
 
 ## Objet et orientation
 
