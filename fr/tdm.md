@@ -95,6 +95,13 @@ Ces ressources permettent d’examiner les différents rapports sous lesquels un
 - [Transformation](fr/transformation.md) — Caractériser une modification de configuration sans présumer de sa nature ni de sa portée.
 - [Sédimentation](fr/sedimentation.md) — Examiner la conservation, l’accumulation et la transmission de traces issues de pratiques descriptives.
 
+### D. Fonctions transversales de l'enquête
+
+- Temporalisation.
+- Audit.
+- Réflexivité.
+- Épreuve.
+
 ## IV. Examiner le langage, les contenus et les inférences
 
 Ces pages portent sur les ressources linguistiques et inférentielles mobilisées dans les pratiques descriptives. Elles permettent de distinguer le contenu d’un énoncé, l’acte par lequel il est endossé et les conséquences que cet engagement autorise.
