@@ -43,6 +43,7 @@
     - [RDRD et entrée perceptive](fr/rdrd-et-entree-perceptive.md)
     - [Position épistémique](fr/position-epistemique.md)
   - **Temporalité et transformation**
+    - [Temporaliser](fr/temporaliser.md)
     - [Temps](fr/temps.md)
     - [Référent temporel](fr/le-referent-temporel.md)
     - [Temporalité descriptive](fr/temporalite-descriptive.md)
