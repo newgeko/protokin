@@ -161,19 +161,17 @@ Leur définition et leurs conditions d'emploi sont développées dans [Orientati
 
 ### 3.5. Les autres ressources de l'enquête
 
-Les fonctions transversales et les instruments d'épreuve peuvent être indiqués sur le plateau lorsqu'ils contribuent à comprendre un travail particulier.
+Les aspects transversaux et les instruments d'épreuve peuvent être indiqués sur le plateau lorsqu'ils contribuent à comprendre un travail particulier. D'autres activités ou fonctions d'examen peuvent également être signalées si elles éclairent la manière dont une opération a été conduite.
 
-Les fonctions transversales — Temporaliser, Expliquer, Auditer, Réfléchir et Éprouver — peuvent être associées à plusieurs occurrences d'opérations.
+Les deux aspects transversaux — **Temporalité** et **Réflexivité** — peuvent être associés à plusieurs occurrences d'opérations. La temporalité permet notamment de distinguer le déroulement effectif des travaux, les anticipations formulées au moment où ils ont été réalisés et leur reconstruction rétrospective. La réflexivité concerne l'examen des conditions, des choix, des ressources et des limites de l'enquête elle-même.
 
-Les instruments d'épreuve — Substitution, Cas et Comparaison — peuvent être signalés lorsqu'ils ont effectivement été mobilisés.
+Il ne faut pas confondre ces aspects avec des activités ou des fonctions d'examen. **Expliquer** peut désigner une activité descriptive ou devenir un objet d'examen. **Auditer** désigne une fonction critique susceptible d'être mobilisée à différents moments de l'enquête ; elle ne constitue pas une opération supplémentaire. **Éprouver** exprime une exigence générale de confrontation des descriptions et des conclusions. Ces termes ne forment donc pas une seconde liste de fonctions transversales à représenter systématiquement sur le plateau.
 
-La Reprise peut également être indiquée lorsqu'une opération, une description, une distinction ou une conclusion fait l'objet d'un nouvel examen.
+Les instruments d'épreuve — **Substitution, Cas et Comparaison** — peuvent être signalés lorsqu'ils ont effectivement été mobilisés. Ils indiquent alors les moyens concrets par lesquels une description, une distinction, une relation ou une conclusion a été confrontée à d'autres possibilités ou à des éléments pertinents.
 
-Elle ne constitue toutefois pas un instrument supplémentaire. Elle désigne une modalité générale de réexamen, qui peut mobiliser un instrument ou ne nécessiter aucun instrument particulier.
+La **Reprise** peut également être indiquée lorsqu'une opération, une description, une distinction ou une conclusion fait l'objet d'un nouvel examen. Elle ne constitue toutefois pas un instrument supplémentaire : elle désigne une modalité générale de réexamen, qui peut mobiliser un ou plusieurs instruments, ou ne nécessiter aucun instrument particulier.
 
-Ces ressources ne doivent pas être représentées comme des opérations supplémentaires.
-
-Le plateau n'a pas non plus à les faire toutes apparaître. Seules celles qui contribuent à comprendre la situation examinée doivent être retenues.
+Ces ressources ne doivent pas être représentées comme des opérations supplémentaires. Le plateau n'a pas non plus à les faire toutes apparaître. Seules celles qui contribuent à comprendre la situation examinée doivent être retenues.
 
 ## 4. Déroulement effectif et reconstruction des relations
 
