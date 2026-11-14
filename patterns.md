@@ -345,33 +345,44 @@ Le lecteur peut déterminer ce qui relie les éléments étudiés, dans quelles 
 
 **Fonction**
 
-Mettre des distinctions, des propositions ou des instruments à l’épreuve d’une situation concrète.
+Examiner une situation concrète afin de mettre à l'épreuve des descriptions, des distinctions, des propositions ou des instruments mobilisés dans une enquête.
+
+Une étude de cas ne constitue pas une simple illustration des notions de Protokin. Elle permet d'examiner leur pertinence dans une situation déterminée, de repérer leurs limites et, si nécessaire, de conduire à leur révision.
 
 **Structure recommandée**
 
-1. Situation étudiée.
-2. Question d’enquête.
-3. Matériaux disponibles.
-4. Descriptions en présence.
-5. Distinctions pertinentes.
-6. Analyse.
-7. Résultats des épreuves.
-8. Limites de l’interprétation.
-9. Enseignements pour l’enquête.
+1. **Situation étudiée** : présenter la situation, son contexte et le problème qui justifie son examen.
+2. **Statut du cas et matériaux disponibles** : préciser s'il s'agit d'un exemple construit, d'une situation empirique, d'un cas historique, d'une étude documentaire ou d'une analyse argumentative. Identifier les sources, les observations et les limites documentaires.
+3. **Question d'enquête** : formuler la difficulté descriptive examinée et délimiter provisoirement son périmètre.
+4. **Descriptions et positions en présence** : identifier les descriptions mobilisées, leurs auteurs ou leurs sources, leurs fonctions et leurs éventuelles divergences.
+5. **Ressources d'examen mobilisées** : préciser, lorsque cela contribue à la compréhension du cas, les opérations, les orientations, les fonctions transversales et les instruments d'épreuve utilisés.
+6. **Examen de la situation** : analyser les différences, les relations, les configurations, les engagements et les éléments qui soutiennent ou contestent les descriptions.
+7. **Reprises et résultats** : rendre compte des réexamens effectués, des modifications apportées aux descriptions et des conclusions effectivement soutenues.
+8. **Limites et éléments résistants** : identifier ce qui demeure indéterminé, ce qui échappe aux ressources mobilisées et ce qui pourrait contester l'interprétation proposée.
+9. **Enseignements pour l'enquête et pour Protokin** : préciser ce que le cas permet de comprendre, les ressources qu'il confirme ou met en difficulté et les éventuelles révisions qu'il suggère.
+
+Cette structure constitue une grille de travail adaptable. Toutes les rubriques ne doivent pas nécessairement apparaître dans chaque étude de cas.
 
 **Points de vigilance**
 
-- Distinguer les éléments disponibles, les descriptions produites et l’interprétation proposée.
-- Présenter les matériaux nécessaires à la compréhension du cas.
-- Ne pas forcer le cas à confirmer une distinction préétablie.
-- Identifier les éléments qui résistent à l’analyse.
-- Distinguer l’analyse locale des conclusions générales.
-- Signaler les limites documentaires et interprétatives.
-- Préciser ce qui, dans le cas, pourrait conduire à réviser une définition, une hypothèse ou un instrument.
+- Distinguer les faits documentés, les descriptions rapportées, les hypothèses et les interprétations proposées.
+- Préciser la provenance des matériaux et ne pas attribuer à des acteurs des descriptions qui n'ont pas été effectivement recueillies ou documentées.
+- Distinguer les exemples construits des enquêtes empiriques et des études historiques.
+- Ne pas présupposer que les acteurs d'une situation produisent nécessairement des descriptions explicites, homogènes ou mutuellement compatibles.
+- Ne pas forcer le cas à confirmer une distinction ou une architecture préétablie.
+- Mobiliser les opérations, les orientations, les fonctions transversales et les instruments selon les difficultés effectivement rencontrées, sans imposer leur mobilisation exhaustive.
+- Distinguer le déroulement effectif de l'examen de sa reconstruction rétrospective.
+- Rendre visibles les reprises, les changements de question, les hésitations et les impasses lorsqu'ils contribuent à comprendre l'enquête.
+- Identifier les éléments qui résistent à l'analyse ou qui conduisent à réviser les descriptions et les ressources mobilisées.
+- Proportionner les conclusions à la nature et à la qualité des matériaux disponibles.
+- Distinguer les résultats propres au cas des enseignements susceptibles d'être transférés à d'autres situations.
+- Ne pas présenter une difficulté rencontrée dans un cas comme une insuffisance générale de Protokin sans examen complémentaire.
 
 **Critère de réussite**
 
-Le cas montre ce que les instruments permettent effectivement d’examiner, mais aussi ce qu’ils ne permettent pas de conclure. Il peut conduire à réviser le cadre d’analyse au lieu de simplement l’illustrer.
+Une étude de cas réussit lorsqu'elle montre ce que l'examen permet effectivement d'établir dans une situation déterminée, les conditions auxquelles ses conclusions sont liées et les limites qui demeurent.
+
+Elle doit pouvoir mettre à l'épreuve les ressources de Protokin sans se réduire à leur illustration. Elle peut confirmer leur utilité, révéler leurs insuffisances ou conduire à leur révision.
 
 ### Pattern H — Pages de référence et de navigation
 
