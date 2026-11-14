@@ -277,6 +277,8 @@ L’explication et l’audit ne sont pas classés ici comme instruments : leur s
 
 Les études de cas permettent d’examiner des distinctions, des descriptions et des justifications dans des situations déterminées. Elles rendent possibles des confrontations situées, mais ne constituent pas, à elles seules, des preuves générales.
 
+- [Cas](cas.md) — Confronter une proposition ou une distinction à une situation déterminée et préciser la portée des résultats obtenus.
+
 - [La pièce de cuivre](la-piece-de-cuivre.md) — Examiner les rapports entre affirmation empirique, identification d’un matériau, épreuve pratique et révision descriptive.
 - [Le botaniste et le bûcheron](botaniste-bucheron.md) — Comparer des descriptions issues de pratiques différentes et examiner leur coordination dans une décision commune.
 - [Changement climatique](changement-climatique.md) — Examiner les rapports entre observations, modèles scientifiques, expériences locales, descriptions médiatiques et décisions politiques.
