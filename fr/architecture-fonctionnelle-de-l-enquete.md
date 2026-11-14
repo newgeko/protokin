@@ -261,6 +261,8 @@ Elle permet notamment d'identifier des variations de catégories, de critères, 
 
 La comparaison ne présuppose ni l'identité des situations ni l'équivalence des descriptions. Elle doit préciser les rapports sous lesquels les éléments comparés peuvent être mis en regard.
 
+Pour approfondir les conditions et la portée de cet instrument, voir [Comparaison](fr/comparaison.md).
+
 ### 6.4. Statut des instruments
 
 Ces instruments peuvent être mobilisés dans plusieurs opérations et sous différentes orientations.
