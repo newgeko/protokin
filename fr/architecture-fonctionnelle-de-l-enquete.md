@@ -121,30 +121,16 @@ Les théories de la connaissance et du langage constituent également des ressou
 
 Leur mobilisation dépend des difficultés rencontrées. Leurs propositions, leurs présupposés et les conclusions qu'elles autorisent restent eux-mêmes susceptibles d'être examinés.
 
-## 6. Articulation et révisabilité des ressources
-
-Une difficulté descriptive peut conduire à mobiliser une ou plusieurs opérations. Celles-ci peuvent être conduites sous une ou plusieurs orientations, traversées par des fonctions transversales et accompagnées d'instruments d'épreuve.
+Une difficulté descriptive peut conduire à mobiliser une ou plusieurs opérations. Celles-ci peuvent être conduites sous une ou plusieurs orientations, en prenant en compte différentes dimensions transversales et en recourant, lorsque cela est pertinent, à des instruments d'épreuve.
 
 Ces ressources s'articulent sans se convertir les unes dans les autres :
 
 - une opération ne détermine pas une orientation unique ;
 - une orientation ne prescrit pas une opération particulière ;
-- une fonction transversale ne constitue pas une opération supplémentaire ;
-- les dimensions de la connaissance ne constituent ni des opérations ni des fonctions transversales ;
+- une dimension transversale ne constitue pas une opération supplémentaire ;
+- les dimensions de la connaissance ne se confondent pas avec les dimensions transversales de l'enquête ;
 - un instrument peut contribuer à plusieurs opérations et sous différentes orientations ;
 - une reprise peut conduire à mobiliser de nouveau une ressource, à en choisir une autre ou à reformuler le problème.
-
-Leurs relations doivent être examinées à partir des travaux effectivement entrepris et des résultats obtenus. Il faut notamment distinguer la succession temporelle des travaux, les dépendances entre leurs résultats et les relations qui deviennent intelligibles seulement depuis une situation ultérieure. Une reconstruction rétrospective ne prouve pas que l'articulation était prévue dès le commencement.
-
-Les modalités de mobilisation, de combinaison, de confrontation et de reprise sont développées dans [Modes d'intervention de l'enquête](fr/modes-d-intervention-de-l-enquete.md).
-
-L'architecture fonctionnelle constitue un état révisable de l'organisation des ressources de Protokin. Sa cohérence interne ne suffit pas à justifier son maintien : elle doit pouvoir être confrontée aux difficultés effectivement rencontrées dans les enquêtes.
-
-Une révision peut être envisagée lorsqu'une ressource est insuffisamment définie, recouvre le travail d'une autre, ne permet pas de traiter une difficulté identifiable ou n'apporte pas de gain analytique suffisant.
-
-Toute proposition de modification doit préciser la difficulté qui la motive, la fonction de la ressource concernée, ce qui la distingue des ressources existantes et les conséquences de son introduction sur l'organisation du corpus.
-
-L'enquête peut ainsi conduire à réviser non seulement ses propres choix, mais aussi les distinctions et les relations par lesquelles Protokin organise les ressources de l'examen.
 
 ## Synthèse
 
