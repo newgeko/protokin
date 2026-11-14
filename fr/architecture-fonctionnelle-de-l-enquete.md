@@ -257,7 +257,24 @@ Elle peut également conduire à reformuler le problème, à modifier les ressou
 
 La Reprise ne doit pas être confondue avec la dimension de la connaissance intitulée « Reprendre et réviser ».
 
-## 7. Les dimensions de la connaissance examinées par l'enquête
+## 7. Organisation fonctionnelle et transformations dans le temps
+
+L’architecture de l’enquête distingue les ressources selon la fonction qu’elles remplissent. Les opérations désignent des activités descriptives ; les orientations définissent des angles sous lesquels les descriptions peuvent être examinées ; les aspects transversaux désignent des dimensions prises en compte à travers les différentes activités de l’enquête.
+
+Cette différenciation fonctionnelle ne signifie pas que les ressources sont fixes. Leur mobilisation et leur statut peuvent évoluer au cours de l’enquête. Une ressource peut être reprise, révisée ou abandonnée.
+
+- **Reprendre** une ressource consiste à la mobiliser de nouveau ou à réexaminer son emploi dans une autre situation. La reprise peut confirmer son intérêt, en déplacer la portée ou faire apparaître ses limites.
+- **Réviser** une ressource consiste à modifier sa définition, ses conditions d’emploi ou son articulation avec d’autres ressources, lorsque l’examen révèle que sa formulation ou son usage ne convient plus.
+- **Abandonner** une ressource consiste à cesser de la mobiliser lorsque son maintien ne contribue plus à l’enquête ou qu’une autre ressource permet de mieux traiter la difficulté rencontrée.
+
+Ces transformations ne concernent pas uniquement les opérations. Elles peuvent porter sur les orientations, les aspects transversaux, les instruments d’épreuve, les catégories ou les relations établies entre les différentes ressources.
+
+La reprise, la révision et l’abandon ne constituent donc pas une nouvelle série d’opérations à ajouter à l’architecture. Ils désignent des modalités d’évolution des ressources dans le temps. Ils ne forment pas non plus une séquence obligatoire : une reprise peut conduire à une révision, une révision peut rendre une ressource inutile, et une ressource abandonnée peut être réintroduite si une enquête ultérieure le justifie.
+
+L’architecture distingue ainsi deux plans complémentaires : **l’organisation fonctionnelle des ressources et les transformations qu’elles peuvent connaître au cours de l’enquête**. Elle fournit des repères pour conduire l'examen sans déterminer à l'avance ni son déroulement ni les formes de révision auxquelles il pourra conduire.
+
+
+## 8. Les dimensions de la connaissance examinées par l'enquête
 
 L'examen des pratiques descriptives peut porter sur différentes dimensions des activités de connaissance.
 
@@ -283,7 +300,7 @@ Les théories de la connaissance et du langage constituent également des ressou
 
 Leur mobilisation dépend des difficultés rencontrées. Leurs propositions, leurs présupposés et les conclusions qu'elles autorisent restent eux-mêmes susceptibles d'être examinés.
 
-## 8. Articuler les ressources sans les confondre
+## 9. Articuler les ressources sans les confondre
 
 Les différentes composantes de l'architecture répondent à des questions distinctes.
 
@@ -319,7 +336,7 @@ Ces distinctions permettent de reconnaître les dépendances entre les ressource
 
 Une opération ne détermine pas une orientation unique. Une orientation ne prescrit pas une opération particulière. Un instrument ne garantit pas à lui seul un résultat. Une reconstruction rétrospective ne démontre pas que le déroulement de l'enquête était nécessairement orienté vers ce résultat.
 
-## 9. Une architecture mobilisable et révisable
+## 10. Une architecture mobilisable et révisable
 
 L'architecture fonctionnelle ne constitue ni une méthode universelle ni une représentation exhaustive de toute enquête.
 
