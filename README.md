@@ -70,20 +70,16 @@ Elle concerne les documents et leur organisation. Elle vise à préserver la fon
 
 L'[architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) organise les ressources que Protokin propose de mobiliser pour examiner les difficultés descriptives.
 
-Elle distingue quatre ensembles de ressources qui ne sont ni équivalents ni successifs :
+Elle distingue quatre ensembles de ressources :
 
 - **Les opérations** désignent les travaux d'examen entrepris pour traiter une difficulté descriptive.
 - **Les orientations** précisent sous quel rapport une situation, une pratique ou un résultat est examiné.
-- **Les fonctions transversales** désignent des modalités de travail susceptibles d'intervenir dans plusieurs opérations et sous différentes orientations.
+- **Les dimensions transversales** désignent des aspects de l'enquête susceptibles d'être pris en compte dans plusieurs opérations et sous différentes orientations.
 - **Les instruments d'épreuve** fournissent des moyens particuliers pour confronter des descriptions, des distinctions ou des conclusions à un examen.
 
-Ces quatre ensembles répondent à des questions différentes. Les opérations désignent le travail entrepris ; les orientations précisent le rapport sous lequel il est conduit ; les fonctions transversales désignent des modalités susceptibles de traverser plusieurs travaux ; les instruments fournissent des moyens particuliers de confrontation.
+Les catégories ont un statut distinct : elles regroupent certaines opérations pour faciliter leur repérage, sans constituer un ensemble supplémentaire de ressources.
 
-Ils peuvent être mobilisés conjointement, mais ne se correspondent pas terme à terme. Une opération peut être examinée sous plusieurs orientations, mobiliser différentes fonctions transversales et recourir à plusieurs instruments. Un instrument peut contribuer à plusieurs opérations. Aucune correspondance fixe ni aucun ordre universel ne sont présupposés.
-
-Les **catégories** ont un statut distinct : elles regroupent certaines opérations pour faciliter leur repérage. Elles ne constituent pas un cinquième ensemble de ressources.
-
-Ces deux architectures sont complémentaires, mais ne doivent pas être confondues. La première organise les pages du projet ; la seconde distingue les ressources mobilisables pour examiner les difficultés descriptives. Les fonctions documentaires d'une page ne déterminent donc pas les opérations qu'une enquête doit mobiliser, et les ressources de l'enquête ne constituent pas des rubriques documentaires.
+Ces ensembles ne sont ni équivalents ni successifs. Une opération peut être conduite sous plusieurs orientations, en prenant en compte différentes dimensions transversales et en recourant à plusieurs instruments. Aucune correspondance fixe ni aucun ordre universel ne sont présupposés.
 
 ## Les ressources de l'enquête
 
@@ -144,6 +140,8 @@ Ces instruments fournissent des moyens de confrontation. Ils ne produisent pas m
 
 La **Reprise** n'est pas un instrument de même type. Elle désigne une modalité générale de réexamen d'une opération, d'une description, d'une distinction ou d'une conclusion à la lumière d'une difficulté, d'une objection ou d'un nouvel élément.
 
+> Les cinq dimensions transversales actuellement distinguées sont **Temporalité, Explication, Audit, Réflexivité et Épreuve**. Elles permettent de prendre en compte différents aspects de l'enquête sans introduire de nouvelles opérations ni imposer une grille systématique. Leur mobilisation dépend des difficultés rencontrées.
+
 ## Une enquête située et révisable
 
 Les ressources de Protokin ne constituent ni les étapes obligatoires d'une méthode ni les composantes nécessaires de toute enquête.
@@ -152,7 +150,7 @@ Une enquête ne forme pas nécessairement une trajectoire continue ou déjà int
 
 Les relations entre ces différents travaux peuvent être reconstruites rétrospectivement. Cette reconstruction rend éventuellement intelligibles des dépendances, des continuités ou des bifurcations qui n'étaient pas nécessairement identifiables au moment où les travaux se déroulaient. La cohérence ainsi reconstruite ne signifie pas que l'enquête suivait dès son commencement une trajectoire déterminée, ni que son résultat était prévisible ou nécessaire.
 
-Une orientation ne prescrit pas une opération particulière ; une fonction transversale ne se substitue pas à une opération ; un instrument ne garantit pas à lui seul la validité d'un résultat. L'enquête ne consiste donc pas à remplir une grille en associant systématiquement les différents ensembles de ressources.
+Une orientation ne prescrit pas une opération particulière ; une dimension transversale ne constitue pas un travail supplémentaire ; un instrument ne garantit pas à lui seul la validité d'un résultat.
 
 Le [plateau d'enquête](fr/plateau-d-enquete.md) peut être utilisé comme un moyen facultatif de représenter les opérations mobilisées, les éléments examinés et les relations établies ou reconstruites entre les différents travaux. Il ne constitue pas une composante supplémentaire de l'architecture fonctionnelle.
 
