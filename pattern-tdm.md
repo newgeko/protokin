@@ -92,15 +92,23 @@ Les orientations actuellement développées dans Protokin sont **Condition, Rela
 
 Une page consacrée à la conduite de l’enquête ne doit pas répéter le contenu complet des opérations et des orientations qu’elle aide à mobiliser.
 
-### 2.5. Distinguer les fonctions transversales et les instruments d’épreuve
+### 2.5. Distinguer les fonctions transversales et les instruments d'épreuve
 
-Les fonctions transversales et les instruments d’épreuve ne doivent pas être assimilés aux opérations ni aux orientations.
+Les ressources de l'enquête ne doivent pas être regroupées uniquement parce qu'elles partagent un vocabulaire ou interviennent dans des situations proches.
 
-Les fonctions transversales peuvent intervenir dans plusieurs moments de l’enquête. Elles contribuent notamment à examiner la temporalité, l’explication, l’audit, la réflexivité et la mise à l’épreuve.
+Deux aspects transversaux sont actuellement retenus : la **Temporalité** et la **Réflexivité**. Ils peuvent intervenir dans plusieurs opérations et sous différentes orientations, sans constituer des travaux supplémentaires ni des étapes obligatoires.
 
-Les instruments d’épreuve désignent des moyens concrets permettant d’examiner une distinction, une relation, une proposition ou une configuration. Ils peuvent notamment prendre la forme d’une substitution, d’un examen de cas, d’une comparaison ou d’une reprise.
+L'**Explication** et l'**Audit** ne doivent pas être rangés automatiquement parmi ces aspects transversaux.
 
-La TDM doit préserver ces différences lorsqu’elle regroupe les ressources correspondantes. Elle ne doit pas transformer les instruments en opérations supplémentaires ni présenter les fonctions transversales comme des étapes obligatoires.
+L'explication peut être une activité descriptive de premier ordre, une réponse à une question ou un objet d'examen. L'audit désigne une fonction d'examen critique susceptible de mobiliser plusieurs opérations. Leur statut dépend de la fonction qu'ils remplissent dans la situation considérée.
+
+L'**Épreuve** désigne une exigence générale de confrontation des descriptions, des distinctions et des conclusions. Elle ne constitue ni une opération supplémentaire ni un instrument particulier.
+
+Les instruments d'épreuve sont actuellement la **Substitution**, le **Cas** et la **Comparaison**. Ils fournissent des moyens particuliers de confronter une description, une distinction ou une conclusion.
+
+La **Reprise** désigne une modalité générale de réexamen. Elle peut mobiliser un ou plusieurs instruments, ou ne nécessiter aucun instrument particulier. Elle ne doit donc pas être présentée comme un quatrième instrument.
+
+La TDM doit préserver ces différences lorsqu'elle regroupe les ressources correspondantes. Elle ne doit pas transformer les instruments en opérations supplémentaires ni présenter les aspects transversaux comme des étapes obligatoires.
 
 ### 2.6. Ne pas confondre les registres, les orientations et les régimes descriptifs
 
