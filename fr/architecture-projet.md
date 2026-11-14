@@ -36,12 +36,12 @@ Elle distingue quatre ensembles :
 
 - **Les opérations** désignent les travaux d'examen entrepris pour traiter une difficulté.
 - **Les orientations** précisent sous quel rapport une situation, une pratique, une opération ou un résultat est examiné.
-- **Les fonctions transversales** désignent des modalités de travail susceptibles d'intervenir dans plusieurs opérations et sous différentes orientations.
+- **Les dimensions transversales** désignent des aspects de l'enquête susceptibles d'être pris en compte dans plusieurs opérations et sous différentes orientations.
 - **Les instruments d'épreuve** fournissent des moyens particuliers de confronter des descriptions, des distinctions ou des conclusions à un examen.
 
 Les catégories regroupent certaines opérations afin d'en faciliter le repérage. Elles ne constituent ni des opérations supplémentaires ni un cinquième ensemble de ressources.
 
-L'enquête mobilise également cinq dimensions de la connaissance : **Percevoir et prêter attention ; Identifier et distinguer ; Anticiper et inférer ; Évaluer et justifier ; Reprendre et réviser.** Ces dimensions désignent des aspects interdépendants des activités de connaissance que l'examen peut avoir à distinguer et à mettre en relation. Elles ne constituent ni une liste supplémentaire d'opérations, ni une classification exhaustive des activités cognitives, ni les étapes d'un processus de connaissance.
+L'enquête mobilise également cinq dimensions de la connaissance : **Percevoir et prêter attention ; Identifier et distinguer ; Anticiper et inférer ; Évaluer et justifier ; Reprendre et réviser.** Ces dimensions désignent des aspects interdépendants des activités de connaissance que l'examen peut avoir à distinguer et à mettre en relation. Elles ne se confondent pas avec les dimensions transversales de l'enquête, qui portent sur différents aspects de l'examen lui-même.
 
 Les théories de la connaissance et du langage constituent des ressources théoriques mobilisables selon les difficultés rencontrées. Elles ne forment pas un ensemble supplémentaire de composantes de l'architecture fonctionnelle.
 
@@ -63,6 +63,8 @@ Il faut notamment distinguer :
 - **Les ressources documentaires** : pages qui présentent, définissent, discutent ou mettent à l'épreuve ces différents éléments.
 
 Les objets de l'examen ne constituent pas un ensemble supplémentaire de l'architecture fonctionnelle. Les modes d'intervention ne constituent pas davantage une nouvelle catégorie d'opérations ou de fonctions transversales. Ils permettent de préciser ce sur quoi porte l'examen et comment les ressources existantes peuvent être mobilisées.
+
+Cette distinction vaut également pour les ressources de l'enquête. Les opérations désignent des travaux, les orientations des rapports de questionnement et les dimensions transversales des aspects susceptibles d'être pris en compte dans ces travaux. Les instruments d'épreuve fournissent, quant à eux, des moyens de confrontation. Ces ressources peuvent être articulées sans être assimilées les unes aux autres.
 
 Voir [Objets de l'examen](fr/objets-de-l-examen.md) et [Modes d'intervention de l'enquête](fr/modes-d-intervention-de-l-enquete.md).
 
