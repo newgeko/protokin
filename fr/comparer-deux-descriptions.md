@@ -219,6 +219,7 @@ Elle ne désigne pas à l'avance la description qui doit l'emporter. Elle préci
 
 ## Pour poursuivre
 
+- [Comparaison](fr/comparaison.md) — Présenter la fonction générale de la comparaison comme instrument de confrontation.
 - [Identifier un régime](fr/identifier-un-regime.md) — Caractériser l'organisation effective d'une pratique descriptive lorsque l'examen dépasse les descriptions particulières.
 - [Régime descriptif](fr/regime-descriptif.md) — Définir l'organisation relativement stabilisée d'une pratique descriptive.
 - [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md) — Examiner les relations entre plusieurs régimes descriptifs.
