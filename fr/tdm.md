@@ -264,7 +264,7 @@ Les instruments actuellement distingués sont la substitution, le cas et la comp
 
 - [Substitution](substitution.md) — Examiner ce qui se maintient ou change lorsqu’un terme, une catégorie ou un élément descriptif est remplacé dans un contexte déterminé.
 - [Cas](cas.md) — Confronter une proposition ou une distinction à une situation déterminée et préciser la portée des résultats obtenus.
-- **Comparaison** — Mettre en regard plusieurs descriptions ou situations pour examiner leurs différences, leurs ressemblances et les relations qu’il est possible d’établir entre elles.
+- [Comparaison](comparaison.md) — Mettre en regard plusieurs descriptions ou situations pour examiner leurs différences, leurs ressemblances et les relations qu’il est possible d’établir entre elles.
 
 L’explication et l’audit ne sont pas classés ici comme instruments : leur statut et leurs fonctions sont différents. L’explication peut être une activité descriptive ou un objet d’examen. Auditer désigne une fonction critique susceptible de mobiliser plusieurs opérations. La position de l’auditeur est présentée dans [Auditeur](auditeur.md).
 
