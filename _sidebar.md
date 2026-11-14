@@ -160,6 +160,7 @@
     - [Injustice herméneutique](fr/injustice-hermeneutique.md)
 
 - **VIII. Études de cas**
+  - [Cas](fr/cas.md)
   - [La pièce de cuivre](fr/la-piece-de-cuivre.md)
   - [Le botaniste et le bûcheron](fr/botaniste-bucheron.md)
   - [Changement climatique](fr/changement-climatique.md)
