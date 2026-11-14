@@ -137,7 +137,7 @@ Ces pages portent sur les ressources linguistiques et inférentielles mobilisée
 - [Espace des raisons](espace-des-raisons.md) — Situer les relations entre raisons, conclusions, habilitations et incompatibilités.
 - [Raison](raison.md) — Préciser ce qui peut soutenir, contester ou conduire à réviser une conclusion.
 - [Justification](justification.md) — Examiner les conditions dans lesquelles un engagement peut être défendu.
-- [Critère](critere.md) — Préciser les normes selon lesquelles une description ou une conclusion est évaluée.
+- [Critère](critere.md) — Préciser ce qui compte dans l'évaluation d'une attribution ou d'une conclusion.
 - [Pairs](pairs.md) — Examiner l’engagement discursif et les habilitations dans les relations entre participants.
 - [Scorekeeping déontique](scorekeeping-deontique.md) — Examiner comment les engagements et les habilitations sont attribués, suivis et contestés.
 - [Ascriptions de dicto et de re](ascriptions-de-dicto-de-re.md) — Distinguer l’attribution d’un contenu sous une description de son attribution au sujet d’un objet identifié autrement.
