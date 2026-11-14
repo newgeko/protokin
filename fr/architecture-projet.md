@@ -337,6 +337,7 @@ Cette architecture est un cadre documentaire. Elle n'est ni une théorie du rée
 - [Orientation de l'examen](orientation-de-l-examen.md) — Préciser les rapports sous lesquels une situation ou une pratique peut être examinée.
 - [Les opérations de référence et leurs articulations](la-chaine-principale-de-l-enquete.md) — Consulter le répertoire des opérations actuellement identifiées.
 - [Conduire une enquête](conduire-une-enquete.md) — Consulter des repères pratiques pour traiter une difficulté.
+- [Cas](cas.md) — Confronter une proposition ou une distinction à une situation déterminée et préciser la portée des résultats obtenus.
 - [Table des matières](tdm.md) — Parcourir les ressources du corpus.
 - [Patterns éditoriaux de Protokin](../patterns.md) — Consulter les repères de rédaction et de révision.
 - [Pattern d'audit du corpus](../pattern-audit.md) — Examiner la fonction et les relations des pages avant une révision.
