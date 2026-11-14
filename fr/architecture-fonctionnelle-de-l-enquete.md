@@ -19,6 +19,30 @@ Ces composantes ne constituent ni des niveaux hiérarchiques ni des phases succe
 
 **L'architecture organise des ressources pour l'enquête ; elle ne détermine pas à l'avance le parcours que toute enquête devrait suivre.**
 
+## Deux plans d'organisation des ressources
+
+L'enquête mobilise des ressources pour produire des descriptions, mais elle peut également mobiliser des ressources pour examiner la manière dont ces descriptions sont construites, articulées et justifiées. Il convient donc de distinguer deux plans d'organisation.
+
+### Les ressources descriptives de premier ordre
+
+Les descriptions de premier ordre mobilisent des catégories, des concepts, des distinctions, des procédures et des critères propres aux pratiques dans lesquelles elles prennent place. Ces ressources permettent d'identifier des éléments, de leur attribuer des propriétés, d'établir des relations, de construire des explications et de justifier des affirmations.
+
+Elles varient selon les situations et les pratiques considérées. Une description forestière peut ainsi mobiliser des ressources relatives au rendement, aux peuplements et à la gestion sylvicole ; une autre peut s'appuyer sur des catégories relatives aux espèces, aux habitats et à la régénération. Ces ressources contribuent à déterminer ce qui est décrit et la manière dont cela l'est.
+
+### Les ressources d'examen
+
+Protokin organise des ressources destinées à examiner ces pratiques descriptives. Elles ne constituent pas une nouvelle grille de description de premier ordre. Elles permettent d'étudier les opérations par lesquelles les descriptions sont produites, les orientations qui guident leur examen, les aspects transversaux qui traversent l'enquête et les instruments qui permettent de mettre les descriptions à l'épreuve.
+
+Cette organisation ne présuppose pas que les ressources de premier ordre soient insuffisantes ou qu'elles doivent être remplacées par celles de Protokin. Elle vise à rendre leurs usages, leurs relations, leurs conditions et leurs prétentions examinables.
+
+### Une relation de révision réciproque
+
+La distinction entre ces deux plans n'implique pas leur indépendance. L'examen d'une description peut conduire à modifier les ressources qui ont servi à la construire : certaines distinctions peuvent être reformulées, des relations reconsidérées, des catégories abandonnées ou de nouvelles ressources introduites. Inversement, une difficulté rencontrée dans l'examen peut conduire à réviser les opérations, les orientations ou les instruments mobilisés.
+
+Il existe ainsi une possibilité de révision réciproque entre les descriptions et les ressources de leur examen. Les descriptions produites peuvent devenir à leur tour des objets d'examen, tandis que les ressources mobilisées pour cet examen restent elles-mêmes susceptibles d'être reprises, révisées ou abandonnées.
+
+L'architecture de Protokin organise donc les ressources du second plan sans prétendre fixer celles du premier. Elle fournit des repères pour conduire l'examen des pratiques descriptives, tout en laissant ouverte la possibilité que cet examen transforme aussi bien les descriptions que les moyens employés pour les examiner.
+
 ## 1. Les opérations : les travaux de l'enquête
 
 Les opérations désignent les travaux de second ordre par lesquels Protokin examine les pratiques descriptives, leurs conditions, leurs fonctions, leurs relations et leurs justifications.
