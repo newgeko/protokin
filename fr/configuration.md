@@ -2,47 +2,62 @@
 
 ## Fonction
 
-La notion de **configuration** permet d'examiner comment plusieurs éléments, relations et dépendances s'organisent conjointement au regard d'un problème d'enquête.
+Cette page définit la notion de **configuration** et précise ce qu'elle permet d'examiner dans une enquête.
 
-Elle évite de réduire une situation à un inventaire d'éléments ou à une juxtaposition de relations. Elle permet de considérer leur organisation, les contraintes qui l'affectent et les conséquences que l'on peut raisonnablement lui attribuer.
+Une configuration désigne une organisation déterminée d'éléments, de relations et de dépendances, considérée au regard d'un problème. La notion permet d'examiner comment plusieurs éléments doivent être considérés conjointement, sans réduire leur organisation à un inventaire ni présupposer qu'elle constitue une totalité autonome.
 
-Une configuration n'est cependant ni une structure universelle de la situation ni une totalité nécessairement autonome. Elle désigne une organisation déterminée, retenue ou reconstruite pour les besoins d'un examen. Sa délimitation et sa description restent susceptibles d'être révisées.
+La page distingue cette notion de la situation examinée, de l'opération Configurer, de la description et du régime descriptif. Elle précise également les usages particuliers de la notion dans l'examen des ressources descriptives et sémiotiques.
+
+Elle ne décrit pas la manière de conduire l'opération Configurer, ne définit pas à nouveau les notions spécialisées de configuration descriptive et sémiotique et ne propose pas une théorie générale des organisations.
 
 ## 1. Définition
 
-Une **configuration** désigne une organisation d'éléments, de relations et de dépendances considérée relativement à un problème d'enquête.
+Une **configuration** désigne une organisation déterminée d'éléments, de relations et de dépendances, retenue ou reconstruite relativement à un problème d'enquête.
 
-Cette organisation est caractérisée par les éléments retenus, les relations établies ou proposées entre eux et les contraintes jugées pertinentes pour l'examen. Elle peut être partiellement connue, reconstruite à partir d'observations et de traces, ou proposée comme hypothèse de travail.
+La notion permet de considérer conjointement :
 
-La notion ne suppose pas que tous les éléments pertinents aient été identifiés, que toutes les relations aient été établies ou que l'organisation retenue soit exhaustive. Elle ne garantit pas davantage que la description qui la présente soit adéquate.
+- les éléments jugés pertinents pour le problème ;
+- les relations établies ou proposées entre ces éléments ;
+- les dépendances qui affectent leurs possibilités ou leurs transformations ;
+- les contraintes et les conséquences attribuées à leur organisation.
 
-Une même situation peut donner lieu à plusieurs configurations selon le problème examiné, les éléments retenus et les relations considérées. Cette pluralité ne signifie ni que toutes ces configurations se valent ni qu'elles sont nécessairement incompatibles. Leur pertinence doit être examinée à partir des éléments disponibles et des conclusions qu'elles permettent de soutenir.
+Ces éléments ne constituent pas les composantes obligatoires de toute configuration. Leur pertinence dépend de la situation examinée et de la question posée.
 
-La configuration est donc une notion d'examen. Elle permet de caractériser une organisation sans faire de cette organisation une explication préalable de la situation.
+Une configuration peut être partiellement connue, reconstruite à partir d'observations et de traces, ou proposée comme hypothèse de travail. Elle peut comporter des relations incertaines, des tensions ou des éléments dont la portée reste à déterminer.
 
-## 2. Ce qui peut être considéré comme une configuration
+La notion ne présuppose donc ni l'exhaustivité de l'organisation retenue, ni sa cohérence, ni son autonomie. Elle ne garantit pas davantage que la description qui la présente soit adéquate.
 
-Le terme peut porter sur des organisations différentes. Il importe de préciser ce qui est organisé et sous quel rapport.
+Une même situation peut donner lieu à plusieurs configurations selon le problème traité, les éléments retenus et les relations examinées. Cette pluralité ne signifie ni que toutes ces configurations se valent ni qu'elles sont nécessairement incompatibles. Leur pertinence doit être appréciée à partir des éléments disponibles et des conclusions qu'elles permettent de soutenir.
 
-### Configuration d'une situation
+La configuration est ainsi une notion d'examen : elle permet de caractériser une organisation déterminée sans en faire une structure préalable de toute situation.
 
-L'examen peut porter sur l'organisation d'une situation : des éléments matériels, des personnes, des dispositifs, des contraintes ou des relations sont considérés conjointement parce que leur articulation importe pour le problème traité.
+## 2. Différents usages de la notion
 
-Cette configuration ne se confond pas avec la situation elle-même. Elle désigne l'organisation retenue pour l'examiner, et non une représentation complète de tout ce qui existe dans cette situation.
+Le terme configuration peut porter sur des organisations différentes. Il importe de préciser ce qui est organisé et sous quel rapport.
 
-La délimitation dépend du problème. Une même situation peut être examinée à partir de configurations différentes sans que cela implique que les enquêtes portent sur des situations distinctes.
+### 2.1. Configuration d'une situation
 
-### Configuration descriptive
+Une enquête peut examiner conjointement des éléments matériels, des personnes, des dispositifs, des contraintes ou des relations parce que leur articulation importe pour le problème traité.
+
+On peut alors parler de configuration d'une situation. Cette expression désigne l'organisation retenue pour examiner certains aspects de la situation ; elle ne désigne pas une représentation exhaustive de tout ce qui s'y trouve.
+
+Il faut distinguer cet usage de la notion de **configuration rencontrée**, qui désigne la situation sur laquelle porte l'enquête, dans les limites provisoirement définies par le problème descriptif.
+
+La configuration d'une situation concerne donc l'organisation que l'examen cherche à caractériser. La configuration rencontrée désigne ce qui est examiné. Ces deux notions sont liées, mais ne remplissent pas la même fonction.
+
+Voir [Configuration rencontrée](fr/configuration-rencontree.md).
+
+### 2.2. Configuration descriptive
 
 Une **configuration descriptive** désigne l'organisation des différences, des catégories, des qualifications et des relations inférentielles mobilisées dans une pratique descriptive.
 
 Elle concerne les ressources par lesquelles certaines descriptions deviennent possibles, les distinctions qui les organisent et les conséquences que leur emploi autorise.
 
-Elle ne se confond ni avec la situation décrite ni avec une description particulière. Une configuration descriptive peut rendre certaines caractérisations possibles sans qu'elles soient effectivement formulées. Inversement, une description particulière ne suffit pas toujours à reconstituer l'ensemble des ressources mobilisées dans la pratique.
+Elle ne se confond ni avec la situation décrite ni avec une description particulière. Son examen porte sur l'organisation des ressources d'une pratique, et non simplement sur le contenu d'une affirmation.
 
 Voir [Configuration descriptive](fr/configuration-descriptive.md).
 
-### Configuration sémiotique
+### 2.3. Configuration sémiotique
 
 Une **configuration sémiotique** concerne l'organisation des signes, des différences et des relations par lesquelles certains éléments deviennent reconnaissables et mobilisables dans une pratique.
 
@@ -56,29 +71,17 @@ Voir [Configuration sémiotique](fr/configuration-semiotique.md).
 
 ## 3. Distinctions avec les notions voisines
 
-### Configuration et situation examinée
-
-La **situation examinée** désigne le domaine provisoirement délimité auquel l'enquête rapporte ses questions et ses propositions.
-
-La configuration désigne l'organisation des éléments et des relations retenus comme pertinents pour examiner cette situation.
-
-La situation n'est donc ni un inventaire complet de ce qui existe ni une description déjà validée. La configuration, quant à elle, ne prétend pas en épuiser le contenu. Toutes deux peuvent être précisées au cours de l'enquête.
-
-Il faut également distinguer la situation examinée de la **différence rencontrée**. Une différence peut faire apparaître une difficulté descriptive sans suffire à délimiter toute la situation pertinente.
-
-Voir [Différence rencontrée](fr/difference-rencontree.md).
-
-### Configuration et opération Configurer
+### 3.1. Configuration et opération Configurer
 
 La **configuration** désigne une organisation considérée dans l'examen. **Configurer** désigne l'opération par laquelle l'enquête reconstruit ou révise une organisation pertinente au regard du problème traité.
 
-La distinction porte sur le travail effectué et sur ce qui est examiné. Une configuration peut être l'objet d'un examen sans que l'opération Configurer soit explicitement mobilisée. Inversement, Configurer peut conduire à proposer une organisation provisoire, à en révéler les insuffisances ou à en modifier certains éléments.
+Une configuration peut être l'objet d'un examen sans que l'opération Configurer soit explicitement mobilisée. Inversement, Configurer peut conduire à proposer une organisation provisoire, à en révéler les insuffisances ou à en modifier certains éléments.
 
-La configuration n'est donc pas une étape de l'enquête, et l'opération Configurer ne garantit pas qu'une organisation définitive soit obtenue.
+La configuration n'est donc pas une étape de l'enquête. L'opération Configurer ne garantit pas non plus qu'une organisation définitive soit obtenue.
 
 Voir [Configurer](fr/configurer.md).
 
-### Configuration et description
+### 3.2. Configuration et description
 
 Une **description** retient et organise certaines différences pour caractériser un objet, un événement, une relation ou une situation.
 
@@ -90,7 +93,7 @@ Cette distinction ne suppose pas que la situation puisse être connue indépenda
 
 Voir [Description](fr/description.md).
 
-### Configuration et objet descriptif
+### 3.3. Configuration et objet descriptif
 
 Un **objet descriptif** désigne une différence stabilisée comme identifiable et réutilisable dans une pratique descriptive.
 
@@ -100,7 +103,7 @@ La disponibilité d'une catégorie ne suffit donc pas à établir qu'une différ
 
 Voir [Objet descriptif](fr/objet-descriptif.md).
 
-### Configuration et régime descriptif
+### 3.4. Configuration et régime descriptif
 
 Un **régime descriptif** désigne une organisation relativement stabilisée de règles d'usage, de distinctions, d'opérations et de critères qui oriente la production et l'évaluation des descriptions dans une pratique.
 
@@ -110,11 +113,11 @@ Ces notions se recoupent sans être interchangeables. L'examen d'une configurati
 
 Voir [Régime descriptif](fr/regime-descriptif.md).
 
-## 4. Exemple discriminant : l'affaissement d'une passerelle
+## 4. Exemple : l'affaissement d'une passerelle
 
 Une passerelle présente un affaissement. Pour examiner cette situation, il peut être nécessaire de considérer conjointement les caractéristiques de ses supports, les assemblages, les charges qu'elle reçoit et les conditions dans lesquelles elle est utilisée.
 
-Une configuration de la situation consiste alors à organiser ces éléments et les relations retenues comme pertinentes pour le problème. Elle permet de préciser quelles dépendances doivent être examinées ensemble et quelles conséquences peuvent être attribuées à leur articulation.
+La configuration retenue organise ces éléments et les relations jugées pertinentes pour le problème. Elle permet de préciser quelles dépendances doivent être examinées ensemble et quelles conséquences peuvent être attribuées à leur articulation.
 
 Cette organisation ne fournit pas automatiquement une explication de l'affaissement. Il faut encore établir la nature des relations invoquées, examiner les contraintes pertinentes et justifier les conclusions formulées.
 
@@ -155,7 +158,7 @@ Identifier ou reconstruire une configuration ne suffit pas à établir :
 - que la cohérence de la configuration garantit l'adéquation de la description ;
 - que la situation examinée est constituée par la description qui en est faite.
 
-Il faut en particulier distinguer **organisation et causalité**, **dépendance et justification**, **situation examinée et description**, ainsi que **cohérence et adéquation**.
+Il faut en particulier distinguer **organisation et causalité**, **dépendance et justification**, **configuration et situation examinée**, ainsi que **cohérence et adéquation**.
 
 Ces distinctions n'interdisent pas d'étudier les relations entre ces termes. Elles exigent que chaque relation soit établie et que sa portée soit précisée. Une organisation peut contribuer à rendre un processus possible sans en être la cause suffisante. Une description cohérente peut rester inadéquate à ce qu'elle prétend caractériser.
 
@@ -165,9 +168,9 @@ La configuration ne constitue donc ni un principe général d'explication ni une
 
 ## Synthèse
 
-Une configuration désigne une organisation d'éléments, de relations et de dépendances considérée relativement à un problème d'enquête.
+Une configuration désigne une organisation déterminée d'éléments, de relations et de dépendances considérée relativement à un problème d'enquête.
 
-Elle peut porter sur l'organisation d'une situation, sur les ressources d'une pratique descriptive ou sur les signes mobilisés dans cette pratique. Ces usages doivent être distingués selon ce qui est organisé et la fonction de l'examen.
+La notion peut porter sur l'organisation retenue pour examiner une situation, sur les ressources d'une pratique descriptive ou sur les signes mobilisés dans cette pratique. Ces usages doivent être distingués selon ce qui est organisé et la fonction de l'examen.
 
 La configuration ne se confond ni avec la situation examinée, ni avec l'opération Configurer, ni avec la description qui prétend rendre compte de ce qui est examiné. Elle ne garantit ni l'exhaustivité de la reconstruction, ni son pouvoir explicatif, ni l'adéquation des descriptions produites.
 
@@ -175,6 +178,7 @@ La configuration ne se confond ni avec la situation examinée, ni avec l'opérat
 
 ## Pour poursuivre
 
+- [Configuration rencontrée](fr/configuration-rencontree.md) — Distinguer la situation sur laquelle porte l'enquête de l'organisation retenue pour l'examiner.
 - [Configurer](fr/configurer.md) — Examiner l'opération de reconstruction et de révision d'une organisation.
 - [Relier](fr/relier.md) — Examiner les relations et les dépendances entre les éléments retenus.
 - [Configuration descriptive](fr/configuration-descriptive.md) — Examiner l'organisation des ressources descriptives.
