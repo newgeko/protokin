@@ -61,27 +61,29 @@ Les quatre orientations ne sont pas strictement symétriques. Condition, Relatio
 
 Pour leur définition et leurs rapports, voir [Orientation de l'examen](fr/orientation-de-l-examen.md).
 
-## 3. Les fonctions transversales
+## 3. Les dimensions transversales de l'enquête
 
-Les fonctions transversales désignent des modalités de travail susceptibles d'intervenir dans plusieurs opérations et sous différentes orientations.
+Les dimensions transversales désignent des aspects de l'enquête qui peuvent être pris en compte dans plusieurs opérations et sous différentes orientations. Elles ne constituent ni des activités supplémentaires ni des étapes particulières de l'examen.
 
-Les cinq fonctions actuellement identifiées sont :
+Cinq dimensions sont actuellement distinguées :
 
-- **Temporaliser** : examiner les rapports temporels mobilisés dans les descriptions et dans le déroulement de l'enquête.
-- **Expliquer** : examiner les processus, les mécanismes et les facteurs susceptibles de rendre compte de la production ou de la transformation d'une situation.
-- **Auditer** : examiner les distinctions, les inférences, les incompatibilités et les engagements mobilisés dans une description ou un raisonnement.
-- **Réfléchir** : examiner les présupposés, les choix, les limites et les effets de l'enquête elle-même.
-- **Éprouver** : confronter les descriptions et les résultats de l'examen à des éléments susceptibles de les confirmer, de les limiter ou de les contester.
+- **Temporalité** : examiner les rapports entre le déroulement effectif des événements, les anticipations formulées depuis une situation donnée et les reconstructions rétrospectives.
+- **Explication** : examiner les processus, les mécanismes et les facteurs invoqués pour rendre compte de la production ou de la transformation d'une situation.
+- **Audit** : examiner la cohérence, les présupposés, les inférences, les incompatibilités et les engagements d'une description ou d'un dispositif.
+- **Réflexivité** : examiner les conditions, les choix, les limites et les effets de l'activité descriptive et de l'enquête elle-même.
+- **Épreuve** : examiner la confrontation des descriptions et des résultats aux situations, aux faits et aux difficultés susceptibles de les confirmer, de les limiter ou de les contester.
 
-Ces fonctions ne sont pas homogènes par leur objet immédiat. Leur caractère transversal tient à leur possibilité d'intervention dans différents travaux d'examen, non à une nature ou à une fonction identique.
+Ces dimensions ne sont pas homogènes par leur objet. Elles ne désignent pas cinq propriétés de même nature, mais cinq aspects susceptibles de devenir pertinents dans l'examen des pratiques descriptives.
 
-Elles ne constituent ni une seconde série d'opérations ni des étapes supplémentaires. Leur mobilisation n'est pas systématique : elle dépend de la difficulté rencontrée.
+Leur caractère transversal tient à leur rapport aux autres ressources de l'enquête : une même dimension peut être prise en compte dans plusieurs opérations et sous différentes orientations. Inversement, une même opération peut être examinée au regard de plusieurs dimensions.
 
-L'abduction, par exemple, peut intervenir dans différents travaux d'enquête. La formation d'une hypothèse explicative n'est donc pas réservée à la fonction Expliquer. Une hypothèse ouvre une possibilité de recherche, mais ne constitue pas, par sa seule formulation, une explication établie.
+Elles ne sont pas nécessairement mobilisées dans chaque enquête, ni de manière équivalente. Leur pertinence dépend de la difficulté rencontrée et des questions effectivement posées.
 
-De même, la confrontation à une résistance ne fournit pas automatiquement l'interprétation correcte de ce qui se produit ni la justification d'une conclusion.
+Les dimensions transversales ne doivent pas être confondues avec les opérations. Temporalité ne désigne pas une opération supplémentaire ; Explication ne prescrit pas une étape située après Relier ; Audit ne constitue pas une procédure autonome ; Réflexivité n'est pas réservée à un moment final ; Épreuve ne désigne pas nécessairement une phase qui suivrait la justification.
 
-Les fonctions transversales se distinguent des instruments d'épreuve : elles désignent des modalités de travail, tandis que les instruments fournissent des moyens particuliers susceptibles d'être mobilisés dans ces travaux.
+Elles doivent également être distinguées des instruments d'épreuve. La dimension Épreuve désigne un aspect de l'examen : la confrontation des descriptions à ce qui peut les mettre en difficulté. Les instruments d'épreuve, tels que la substitution, le cas et la comparaison, fournissent des moyens particuliers pour conduire cette confrontation.
+
+Enfin, les dimensions transversales de l'enquête ne se confondent pas avec les dimensions de la connaissance présentées dans la section suivante. Les premières caractérisent des aspects de l'examen des pratiques descriptives et de la conduite de l'enquête ; les secondes concernent des aspects des activités de connaissance que cet examen peut prendre pour objet.
 
 ## 4. Les instruments d'épreuve et la Reprise
 
