@@ -273,6 +273,7 @@ La reprise, la révision et l’abandon ne constituent donc pas une nouvelle sé
 
 L’architecture distingue ainsi deux plans complémentaires : **l’organisation fonctionnelle des ressources et les transformations qu’elles peuvent connaître au cours de l’enquête**. Elle fournit des repères pour conduire l'examen sans déterminer à l'avance ni son déroulement ni les formes de révision auxquelles il pourra conduire.
 
+Les transformations de l'enquête peuvent également affecter les descriptions qu'elle a produites. La révision d'une opération, d'une orientation, d'une catégorie ou d'un instrument peut conduire à reformuler une description antérieure, à modifier les distinctions qu'elle établit, à reconsidérer les relations qu'elle pose ou à abandonner certaines déterminations. Inversement, une difficulté rencontrée dans une description peut conduire à réviser les ressources mobilisées pour la construire. Il existe ainsi une relation de révision réciproque entre les ressources de l'enquête et ses productions descriptives. Les descriptions ne sont pas seulement les résultats auxquels les ressources permettent d'aboutir : elles peuvent aussi devenir des objets d'examen et des points de départ pour de nouvelles reprises.
 
 ## 8. Les dimensions de la connaissance examinées par l'enquête
 
