@@ -146,8 +146,8 @@ Il faut notamment vérifier que les documents distinguent correctement :
 
 - les catégories, qui regroupent certaines opérations ;
 - les opérations, qui désignent des activités descriptives précises ;
-- les orientations, qui indiquent sous quel rapport un objet est examiné ;
-- les aspects transversaux, qui peuvent intervenir dans plusieurs opérations et orientations ;
+- les opérations, qui désignent les travaux d'examen de second ordre mobilisés pour étudier les pratiques descriptives, leurs conditions, leurs fonctions, leurs relations et leurs justifications ;
+- les aspects transversaux, qui désignent des dimensions de l'enquête susceptibles d'intervenir dans plusieurs opérations et sous différentes orientations, sans constituer des opérations supplémentaires ni des étapes obligatoires de l'examen ;
 - les instruments d'épreuve, qui permettent certaines confrontations.
 
 Questions à examiner :
