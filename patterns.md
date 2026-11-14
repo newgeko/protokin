@@ -18,16 +18,23 @@ Les patterns sont des **repères éditoriaux révisables**, non des modèles obl
 
 Une page peut remplir plusieurs fonctions. Le pattern principal correspond à sa contribution éditoriale dominante. D'autres patterns peuvent être mobilisés lorsque leur apport est nécessaire, sans qu'il soit obligatoire de les cumuler ou de les mentionner.
 
-Ce document se distingue des autres ressources consacrées à l'organisation du corpus :
+### Répartition des fonctions documentaires
 
-- `patterns.md` définit les repères de rédaction et de révision ;
-- `pattern-audit.md` propose une méthode pour examiner la fonction des pages et leurs relations ;
-- `audit-corpus.md` consigne les constats, les tensions et les décisions relatifs à l'état du corpus ;
+Les documents consacrés à l'organisation éditoriale et à l'examen du corpus remplissent des fonctions distinctes et complémentaires :
+
+- **`patterns.md` — Référentiel éditorial** : définit les principes de rédaction, les exigences communes et les patterns permettant de déterminer la fonction et la structure adaptées à chaque page.
+- **`pattern-audit.md` — Référentiel méthodologique de l'audit** : définit la méthode d'examen éditorial du corpus. Il précise les dimensions à examiner, les modalités de conduite de l'examen, les critères de qualification des constats et les conditions de vérification des interventions.
+- **`audit-corpus.md` — Registre des résultats de l'audit** : consigne les constats établis, les tensions identifiées, les décisions retenues, les modifications effectuées et les questions qui restent ouvertes.
+
+La distinction est la suivante : `patterns.md` organise la rédaction des pages ; `pattern-audit.md` organise leur examen ; `audit-corpus.md` conserve les résultats de cet examen et le suivi des interventions.
+
+Ces documents ne doivent pas se substituer les uns aux autres. Le référentiel méthodologique ne doit pas devenir un journal des modifications, et le registre de suivi ne doit pas reproduire les règles générales de l'examen.
+
+Les autres documents de référence conservent leurs fonctions propres :
+
 - `fr/architecture-projet.md` présente l'organisation documentaire du projet ;
 - `fr/architecture-fonctionnelle-de-l-enquete.md` présente les ressources mobilisables dans l'examen des pratiques descriptives ;
 - `fr/tdm.md` organise l'accès aux pages du corpus.
-
-Ces documents sont complémentaires. Aucun ne doit reproduire intégralement la fonction des autres.
 
 ## 2. Principes éditoriaux
 
