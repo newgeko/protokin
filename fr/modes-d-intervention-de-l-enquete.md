@@ -2,9 +2,9 @@
 
 ## Fonction
 
-Cette page examine comment les ressources fonctionnelles de Protokin interviennent dans une enquête déterminée. Elle précise les modalités selon lesquelles les opérations, les orientations, les fonctions transversales et les instruments d'épreuve peuvent être mobilisés, combinés, confrontés et repris.
+Cette page examine comment les ressources fonctionnelles de Protokin interviennent dans une enquête déterminée. Elle précise les modalités selon lesquelles les opérations, les orientations, les aspects transversaux, les fonctions d'examen et les instruments d'épreuve peuvent être mobilisés, combinés, confrontés et repris.
 
-Elle distingue les modes d'intervention des ressources elles-mêmes. Les modalités présentées ne constituent ni une nouvelle liste d'opérations, ni des fonctions transversales supplémentaires, ni les étapes d'une procédure.
+Elle distingue les modes d'intervention des ressources elles-mêmes. Les modalités présentées ne constituent ni une nouvelle liste d'opérations, ni des fonctions supplémentaires, ni les étapes d'une procédure.
 
 L'objectif est de rendre intelligibles les différentes manières dont une enquête peut organiser ses travaux sans présupposer un ordre nécessaire, un parcours prédéfini ou une résolution attendue.
 
@@ -12,7 +12,7 @@ L'objectif est de rendre intelligibles les différentes manières dont une enqu�
 
 L'architecture fonctionnelle présente les ressources disponibles pour examiner les pratiques descriptives. Elle précise leurs fonctions respectives, mais ne détermine pas la manière dont elles doivent intervenir dans une enquête particulière.
 
-Une difficulté peut conduire à mobiliser une seule opération ou plusieurs travaux distincts. Une orientation peut être envisagée avant un examen, précisée au cours de celui-ci ou reconstruite à partir de ses résultats. Une fonction transversale peut intervenir dans plusieurs opérations. Un instrument d'épreuve peut être utilisé dans un travail particulier, puis repris dans un autre contexte.
+Une difficulté peut conduire à mobiliser une seule opération ou plusieurs travaux distincts. Une orientation peut être envisagée avant un examen, précisée au cours de celui-ci ou reconstruite à partir de ses résultats. Un aspect transversal peut intervenir dans plusieurs opérations. Une fonction d'examen peut être mobilisée lorsqu'un travail critique particulier devient pertinent. Un instrument d'épreuve peut être utilisé dans un travail particulier, puis repris dans un autre contexte.
 
 Les relations entre ces interventions ne sont pas nécessairement identifiables dès le commencement. Une enquête peut comporter des hésitations, des interruptions, des déplacements de problème, des reprises et des travaux conduits séparément qui ne prennent leur portée qu'ultérieurement.
 
@@ -43,7 +43,7 @@ Elles ne déterminent pas non plus l'ordre effectif des travaux. Une même modal
 
 La mobilisation consiste à faire intervenir une ressource parce qu'elle permet de traiter un aspect déterminé de la difficulté rencontrée.
 
-Une opération est mobilisée lorsqu'un travail d'examen correspondant devient pertinent. Une orientation précise le rapport sous lequel ce travail est conduit. Une fonction transversale intervient lorsqu'un type de travail peut contribuer à l'examen. Un instrument est utilisé lorsqu'un moyen particulier de confrontation est jugé pertinent.
+Une opération est mobilisée lorsqu'un travail d'examen correspondant devient pertinent. Une orientation précise le rapport sous lequel ce travail est conduit. Un aspect transversal est pris en compte lorsqu'une dimension de l'enquête contribue à plusieurs travaux. Une fonction d'examen est mobilisée lorsqu'un travail critique particulier devient pertinent. Un instrument est utilisé lorsqu'un moyen particulier de confrontation est jugé pertinent.
 
 La mobilisation ne dépend pas de la place d'une ressource dans la présentation de l'architecture. Elle dépend du problème et des conditions concrètes de l'examen.
 
@@ -64,7 +64,7 @@ Une difficulté peut appeler plusieurs ressources parce qu'elle comporte des que
 
 La combinaison ne signifie pas que les ressources fusionnent ou perdent leur fonction propre.
 
-Une même opération peut être conduite sous plusieurs orientations. Plusieurs opérations peuvent contribuer à une même orientation. Une fonction transversale peut intervenir dans différents travaux. Un instrument peut être mobilisé pour examiner un résultat produit par une opération ou pour confronter plusieurs descriptions.
+Une même opération peut être conduite sous plusieurs orientations. Plusieurs opérations peuvent contribuer à une même orientation. Un aspect transversal peut intervenir dans différents travaux. Une fonction d'examen peut être mobilisée pour interroger une description ou un résultat. Un instrument peut être utilisé pour examiner un résultat produit par une opération ou pour confronter plusieurs descriptions.
 
 La combinaison doit donc être comprise comme une articulation située entre des ressources qui conservent leurs fonctions respectives.
 
@@ -81,17 +81,23 @@ Par exemple, l'opération **Distinguer** peut contribuer à examiner :
 
 Ces rapprochements ne constituent pas une grille d'association obligatoire. Une opération ne détermine pas une orientation unique, et une orientation ne prescrit pas une opération particulière.
 
-### 4.2. Faire intervenir une fonction transversale
+### 4.2. Faire intervenir les aspects transversaux et les fonctions d'examen
 
-Une fonction transversale peut contribuer à plusieurs opérations et sous différentes orientations.
+Les aspects transversaux peuvent intervenir dans plusieurs opérations et sous différentes orientations. Ils ne désignent pas des travaux supplémentaires à effectuer, mais des dimensions de l'enquête qui doivent être prises en compte lorsque la difficulté le demande.
 
-Temporaliser peut, par exemple, intervenir lorsqu'il faut examiner l'évolution d'une distinction, la situation historique d'une description ou la reconstruction d'une transformation.
+La **Temporalité** concerne les rapports entre le déroulement effectif des événements et des travaux, les possibilités qui pouvaient être envisagées à un moment donné et les reconstructions rétrospectives. Elle intervient notamment lorsqu'il faut examiner l'évolution d'une distinction, la situation historique d'une description ou la reconstruction d'une transformation.
 
-Auditer peut intervenir lorsqu'une affirmation engage des conséquences qui ne sont pas explicitées, lorsqu'un passage inférentiel demande à être examiné ou lorsque plusieurs engagements semblent incompatibles.
+La **Réflexivité** concerne la capacité de l'enquête à examiner ses propres conditions, ses choix, ses ressources, ses limites et ses effets. Elle peut conduire à réinterroger les catégories mobilisées, les orientations retenues, les opérations réalisées ou les conclusions obtenues.
 
-Éprouver peut intervenir lorsqu'une description doit être confrontée à de nouvelles observations, à des mesures, à des documents, à des interventions ou à des résistances matérielles.
+Ces deux aspects transversaux ont des objets distincts. Leur mobilisation dépend des difficultés rencontrées et de leur pertinence pour l'examen. Ils ne constituent pas des étapes qui devraient accompagner systématiquement chaque opération.
 
-Ces fonctions ne constituent pas des étapes qui devraient accompagner chaque opération. Leur intervention dépend du problème et des exigences du travail entrepris.
+L'**Audit** possède un statut différent. Auditer désigne une fonction d'examen critique susceptible d'être mobilisée transversalement. Elle peut intervenir lorsqu'une affirmation engage des conséquences qui ne sont pas explicitées, lorsqu'un passage inférentiel demande à être examiné ou lorsque plusieurs engagements semblent incompatibles.
+
+L'audit peut notamment conduire à examiner les présupposés d'une description, les inférences mobilisées, les critères employés, les justifications avancées ou les conséquences d'un dispositif. Il peut mobiliser plusieurs opérations sans se confondre avec l'une d'elles.
+
+L'audit ne constitue ni un aspect transversal supplémentaire ni une procédure autonome. Il ne doit pas davantage être confondu avec la Réflexivité : celle-ci concerne l'examen des conditions et des ressources de l'enquête, tandis que l'audit désigne une fonction critique pouvant porter sur une description, un dispositif ou l'enquête elle-même.
+
+Pour approfondir ces distinctions, voir [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) et [Auditeur](fr/auditeur.md).
 
 ### 4.3. Mobiliser un instrument d'épreuve
 
@@ -111,7 +117,9 @@ L'emploi d'un instrument ne garantit donc ni la correction du résultat ni l'ad�
 
 La confrontation consiste à mettre une description, une distinction, une hypothèse ou une conclusion en rapport avec des éléments susceptibles d'en préciser la portée, d'en révéler les limites ou de la contester.
 
-Elle peut mobiliser des ressources différentes selon la nature de ce qui est examiné :
+L'**Épreuve** désigne l'exigence générale de cette confrontation. Elle ne constitue ni une opération supplémentaire, ni un aspect transversal, ni une fonction d'examen particulière, ni un instrument déterminé. Elle concerne les conditions auxquelles les descriptions, les distinctions et les conclusions doivent pouvoir être confrontées à des éléments susceptibles de les soutenir, de les limiter ou de les contester.
+
+La confrontation peut mobiliser des ressources différentes selon la nature de ce qui est examiné :
 
 - observations produites dans des conditions déterminées ;
 - mesures et résultats instrumentaux ;
@@ -133,9 +141,11 @@ Il faut distinguer :
 - l'interprétation qui lui est attribuée ;
 - les conséquences que l'on prétend en tirer.
 
-La fonction transversale Éprouver peut contribuer à organiser cette confrontation. Les instruments de Substitution, Cas et Comparaison peuvent y être mobilisés. Mais la confrontation ne se confond ni avec une fonction particulière ni avec l'utilisation d'un instrument déterminé.
+Les instruments de Substitution, Cas et Comparaison peuvent contribuer à cette confrontation. Ils fournissent des moyens particuliers pour mettre en œuvre l'exigence d'épreuve, mais ne l'épuisent pas. D'autres observations, documents, mesures ou interventions peuvent également contribuer à l'examen.
 
-Elle peut conduire à confirmer provisoirement une description, à en limiter la portée, à laisser une question ouverte ou à engager une reprise.
+La confrontation ne se confond donc ni avec l'exigence générale d'épreuve ni avec l'utilisation d'un instrument déterminé.
+
+Elle peut conduire à maintenir provisoirement une description, à en limiter la portée, à la contester, à laisser une question ouverte ou à engager une reprise.
 
 ## 6. Reprendre un travail d'examen
 
