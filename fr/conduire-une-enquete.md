@@ -76,7 +76,7 @@ La reprise ne signifie pas simplement répéter un travail antérieur. Elle peut
 
 ## 5. Consigner les résultats et, si nécessaire, reconstruire les relations entre les examens
 
-À Lorsque cela est utile pour conserver la trace d'un travail ou préparer sa reprise, quelques indications peuvent être consignées :
+Lorsque cela est utile pour conserver la trace d'un travail ou préparer sa reprise, quelques indications peuvent être consignées :
 
 - **Difficulté examinée** : qu'est-ce qui posait problème ?
 - **Travail effectué** : quelle opération a été mobilisée ou reprise ?
