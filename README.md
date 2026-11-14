@@ -20,6 +20,10 @@ Son objet n'est pas de représenter l'ensemble du processus d'enquête ni de pro
 
 Protokin prend pour objet les pratiques descriptives et les conditions dans lesquelles elles produisent, utilisent et transforment leurs descriptions.
 
+Les pratiques descriptives sont historiquement situées. Elles héritent de catégories, de distinctions, de critères et de manières de parler qui se sont formés et transformés dans des contextes déterminés. Leur examen engage ainsi plusieurs dimensions interdépendantes : les rapports temporels dans lesquels elles s'inscrivent, les activités de connaissance qu'elles mobilisent et les ressources langagières au moyen desquelles elles identifient, distinguent et caractérisent ce dont elles parlent.
+
+Ces dimensions ne constituent ni trois domaines autonomes ni des composantes supplémentaires de l'architecture fonctionnelle. Elles désignent différents aspects des pratiques descriptives que l'enquête peut avoir à distinguer et à mettre en relation. Les théories du temps, de la connaissance et du langage peuvent contribuer à leur examen, sans déterminer à l'avance la manière dont une enquête doit être conduite.
+
 Il ne cherche pas à établir une ontologie générale destinée à fixer par avance ce que sont les choses, les objets ou les relations. Cette réserve méthodologique ne signifie ni que les pratiques produisent intégralement ce qu'elles décrivent, ni qu'elles seraient dépourvues de tout engagement concernant ce qui existe.
 
 Les situations examinées peuvent opposer des contraintes aux descriptions qui prétendent les caractériser. Les affirmations portant sur l'existence, l'identification ou les propriétés de ce qui est décrit peuvent elles-mêmes devenir des objets d'enquête.
