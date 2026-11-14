@@ -1,97 +1,107 @@
-
-# Orientations et chemin de l’enquête
+# Articulation des orientations et des opérations
 
 ## Fonction
 
-Cette page examine la relation entre les orientations de l’examen et les opérations de l’enquête. Elle cherche à déterminer si leur distinction fonctionnelle apporte un gain identifiable pour comprendre et conduire une enquête.
+Cette page examine la relation entre les orientations et les opérations de l'enquête. Elle cherche à déterminer ce que leur distinction fonctionnelle permet d'établir et dans quelles conditions leur articulation apporte un gain analytique.
 
-Les orientations précisent sous quel rapport une situation, une pratique ou un résultat est examiné. Les opérations désignent les travaux descriptifs mobilisés pour traiter une difficulté.
+Les orientations précisent sous quel rapport une situation, une pratique, une description ou un résultat est examiné. Les opérations désignent les travaux de second ordre mobilisés pour traiter les difficultés rencontrées dans l'examen des pratiques descriptives.
 
-Leur distinction permet de différencier les questions posées du travail effectué pour y répondre. Elle doit cependant être évaluée à partir de ses usages : sa cohérence conceptuelle ne suffit pas à établir qu’elle est nécessaire dans toutes les enquêtes.
+Ces deux ensembles remplissent des fonctions distinctes. Leur articulation permet de différencier les questions auxquelles l'enquête cherche à répondre et les travaux qu'elle mobilise pour les examiner.
 
-Cette page ne redéfinit ni les orientations ni les opérations. Elle examine leur articulation et les conditions dans lesquelles celle-ci est utile.
+La distinction ne doit cependant pas être conservée pour elle-même. Sa pertinence dépend de sa capacité à rendre visibles des différences, des omissions ou des passages qui seraient autrement plus difficiles à examiner.
 
-## 1. Problème de distinction
+Cette page ne redéfinit ni les orientations ni les opérations. Elle examine leur relation et les conditions dans lesquelles celle-ci contribue effectivement à l'enquête.
 
-Une enquête doit pouvoir préciser ce qu’elle cherche à établir et déterminer le travail nécessaire pour examiner cette question.
+## 1. Le problème de distinction
+
+Une enquête doit pouvoir préciser ce qu'elle cherche à établir et déterminer les travaux nécessaires pour examiner cette question.
 
 Ces deux exigences peuvent être confondues.
 
-Une question portant sur les conditions d’une situation ne désigne pas le travail effectué pour examiner ces conditions. De même, examiner les relations entre plusieurs éléments ne signifie pas que l’opération Relier soit la seule manière de traiter cette question.
+Une question portant sur les conditions d'une situation ne désigne pas le travail effectué pour examiner ces conditions. De même, examiner les relations entre plusieurs éléments ne signifie pas que l'opération Relier soit la seule manière de traiter cette question.
 
-Si les orientations sont assimilées à des opérations, les rapports sous lesquels une situation est examinée risquent d’être confondus avec les activités mobilisées pour l’étudier.
+Si les orientations sont assimilées à des opérations, les rapports sous lesquels une situation est examinée risquent d'être confondus avec les travaux mobilisés pour l'étudier.
 
-Si les opérations sont assimilées à des orientations, le travail accompli par l’enquête risque d’être réduit à une simple manière de poser les questions.
+Si les opérations sont assimilées à des orientations, les travaux accomplis par l'enquête risquent d'être réduits à de simples manières de poser des questions.
 
 La difficulté consiste donc à maintenir deux fonctions distinctes tout en examinant leurs dépendances.
 
-La question n’est pas de savoir si les deux organisations peuvent être distinguées dans le vocabulaire du projet. Elle est de déterminer si cette distinction permet effectivement de mieux identifier les difficultés, de choisir les travaux pertinents et d’examiner les résultats.
+La question n'est pas seulement de savoir si les deux organisations peuvent être distinguées dans le vocabulaire du projet. Il faut déterminer si cette distinction permet effectivement de mieux identifier les difficultés, de choisir les travaux pertinents et d'examiner les résultats.
 
-## 2. Les éléments mis en relation
+## 2. Les deux ensembles de ressources
 
-### 2.1. Les orientations : différencier les rapports d’examen
+### 2.1. Les orientations : différencier les rapports d'examen
 
-Une orientation indique sous quel rapport un élément de l’enquête est examiné.
+Une orientation indique sous quel rapport un élément de l'enquête est examiné.
 
-Protokin dispose actuellement de quatre orientations de référence :
+Protokin distingue actuellement quatre orientations de référence :
 
 - **Condition** ;
 - **Relation** ;
 - **Fonction** ;
 - **Justification**.
 
-Elles permettent de différencier les questions posées à propos d’une même situation, d’une pratique ou d’un résultat.
+Elles permettent de différencier les questions posées à propos d'une même situation, d'une pratique, d'une description ou d'un résultat.
 
-Elles ne constituent ni quatre composantes de la réalité, ni une classification exhaustive des questions possibles. Leur nombre et leur organisation restent révisables.
+Elles ne constituent ni quatre composantes de la réalité ni une classification exhaustive des questions possibles. Leur nombre et leur organisation restent révisables.
 
-Leur définition et leurs conditions d’emploi sont développées dans [Orientation de l’examen](fr/orientation-de-l-examen.md).
+Leur définition et leurs conditions d'emploi sont développées dans [Orientation de l'examen](fr/orientation-de-l-examen.md).
 
-### 2.2. Les opérations : identifier les travaux de l’enquête
+### 2.2. Les opérations : identifier les travaux de l'enquête
 
-Une opération désigne un travail descriptif identifiable que l’enquête mobilise pour traiter une difficulté.
+Une opération désigne un travail d'examen de second ordre mobilisé pour traiter une difficulté portant sur une pratique descriptive.
 
-Les opérations actuellement développées dans Protokin permettent notamment de formuler un problème, d’examiner ses appuis, d’établir des distinctions, d’examiner des relations, d’organiser une description, d’en justifier les conclusions, de reconstituer le cheminement suivi et de réexaminer le périmètre initial.
+Les opérations actuellement développées dans Protokin sont :
 
-Elles sont présentées dans [Les opérations de référence et leurs articulations](fr/la-chaine-principale-de-l-enquete.md).
+- Délimiter ;
+- Ancrer ;
+- Distinguer ;
+- Relier ;
+- Configurer ;
+- Justifier ;
+- Reconstituer ;
+- Redélimiter.
 
-Leur ordre de présentation ne constitue pas une succession obligatoire.
+Elles permettent notamment de préciser le problème examiné, d'étudier ses appuis, d'établir des distinctions, d'examiner des relations, d'organiser une description, d'en justifier les conclusions et de reprendre la délimitation initiale lorsque les résultats le demandent.
 
-### 2.3. Le chemin : organiser les travaux et leurs reprises
+Cette liste constitue un répertoire de référence. Elle ne prescrit ni une succession obligatoire ni l'exécution systématique de toutes les opérations.
 
-Le chemin de l’enquête désigne ici l’organisation des opérations et les relations qui permettent de les mobiliser, de les combiner ou de les reprendre.
+Leurs fonctions et leurs articulations sont présentées dans [Les opérations de référence et leurs articulations](fr/la-chaine-principale-de-l-enquete.md).
 
-Il ne désigne pas un parcours temporel prédéterminé.
+### 2.3. Une différence de fonction
 
-Une enquête peut commencer par une difficulté de justification, faire apparaître un problème d’ancrage, puis conduire à reprendre une distinction ou à redélimiter le problème.
+Les orientations et les opérations ne répondent pas à la même question.
 
-Inversement, plusieurs opérations peuvent être engagées conjointement sans qu’il soit nécessaire de les ordonner selon la chaîne de référence.
+Une orientation précise **sous quel rapport** un élément est examiné.
 
-Le chemin rend donc compte des travaux effectivement mobilisés et de leurs dépendances, non d’une progression que toute enquête devrait accomplir.
+Une opération désigne **quel travail d'examen** est entrepris.
 
-## 3. Nature de la relation entre orientations et opérations
+Cette différence ne signifie pas que les orientations seraient indépendantes des opérations. Une question détermine en partie les travaux qui deviennent pertinents ; les résultats de ces travaux peuvent, en retour, conduire à préciser ou à modifier la question initiale.
 
-Les orientations et les opérations sont distinctes par leur fonction, mais elles peuvent être mobilisées conjointement.
+La distinction porte donc sur deux fonctions complémentaires, et non sur deux domaines séparés.
 
-Une orientation précise la question examinée. Une opération contribue à traiter cette question.
+## 3. Nature de leur articulation
 
-Il n’existe pas de correspondance terme à terme entre les deux organisations.
+Les orientations et les opérations peuvent être mobilisées conjointement, mais il n'existe pas de correspondance terme à terme entre elles.
+
+Une même opération peut contribuer à plusieurs orientations. Une même orientation peut nécessiter plusieurs opérations.
 
 Par exemple :
 
-- **Condition** ne se confond pas avec **Ancrer**. L'ancrage peut contribuer à examiner les conditions d'une situation, mais il désigne un travail de l'enquête et non un rapport d'examen.
+- **Condition** ne se confond pas avec **Ancrer**. L'ancrage peut contribuer à examiner les conditions d'une situation, mais il désigne un travail d'examen et non un rapport de questionnement.
 - **Relation** ne se confond pas avec **Relier**. L'examen d'une relation peut mobiliser plusieurs opérations, tandis que Relier peut contribuer à différentes orientations.
 - **Fonction** ne se confond pas avec **Configurer**. L'examen du rôle d'un élément dans une pratique peut demander de distinguer ses usages, ses effets et ses relations avant d'organiser les éléments pertinents.
 - **Justification** ne se confond pas avec **Justifier**. La première désigne un rapport d'examen ; la seconde, un travail portant sur les raisons, les prémisses, les critères et les inférences.
 
-Ces exemples ne définissent pas des associations exclusives.
+Ces rapprochements illustrent des possibilités de mobilisation. Ils ne constituent pas une grille d'association obligatoire.
 
-Une même opération peut contribuer à plusieurs orientations. Une même orientation peut nécessiter plusieurs opérations.
+Une opération ne détermine pas une orientation unique. Une orientation ne prescrit pas une opération particulière.
 
 Cette relation peut être formulée ainsi :
 
 **Les orientations différencient les rapports sous lesquels un problème est examiné ; les opérations désignent les travaux par lesquels l'enquête traite ce problème.**
 
-Leur articulation ne constitue ni une hiérarchie ni une procédure supplémentaire. Elle permet de distinguer ce que l'enquête cherche à établir et la manière dont elle travaille pour y parvenir.
+L'articulation ne constitue ni une hiérarchie ni une procédure supplémentaire. Elle permet de distinguer ce que l'enquête cherche à établir et les travaux qu'elle entreprend pour y parvenir.
 
 ## 4. Cas d'examen : une baisse annoncée du chômage
 
@@ -105,6 +115,8 @@ Le désaccord semble porter sur un chiffre. Pourtant, plusieurs questions peuven
 - la construction de l'indicateur ;
 - l'interprétation de son évolution ;
 - l'utilisation du résultat dans une communication publique.
+
+Ce cas permet d'examiner comment les orientations et les opérations contribuent différemment au traitement d'une même difficulté.
 
 ### 4.1. Différencier les questions
 
@@ -151,7 +163,7 @@ Leur articulation aide à repérer plusieurs difficultés possibles :
 - une variation de l'indicateur interprétée sans examen des règles de comptabilisation ;
 - une conclusion qui dépasse ce que les données permettent d'établir.
 
-Le cas montre ainsi un intérêt possible de la distinction fonctionnelle.
+Le cas illustre ainsi un intérêt possible de la distinction fonctionnelle.
 
 Il ne démontre cependant pas que les deux organisations doivent être mobilisées séparément dans toutes les enquêtes. Il ne constitue pas non plus une étude empirique d'un indicateur précis.
 
@@ -189,15 +201,15 @@ Si elle n'est pertinente que pour certaines difficultés, sa portée doit être 
 
 La distinction fonctionnelle permet de différencier :
 
-- le rapport sous lequel une situation ou un résultat est examiné ;
-- le travail descriptif mobilisé pour traiter la question ;
-- l'organisation des opérations et leurs possibilités de reprise.
+- le rapport sous lequel une situation, une pratique ou un résultat est examiné ;
+- le travail d'examen mobilisé pour traiter la question ;
+- les relations possibles entre les questions examinées et les travaux entrepris.
 
 Ces fonctions peuvent être articulées sans être confondues.
 
 ### Ce qu'elle suggère
 
-L'articulation des orientations et des opérations peut faciliter la conduite d'une enquête en rendant plus visibles les questions posées, les travaux nécessaires et les difficultés qui demeurent.
+L'articulation des orientations et des opérations peut faciliter l'examen des pratiques descriptives en rendant plus visibles les questions posées, les travaux nécessaires et les difficultés qui demeurent.
 
 Elle peut également contribuer à repérer les cas dans lesquels un résultat obtenu sous un rapport est utilisé pour soutenir une conclusion relevant d'un autre.
 
@@ -221,17 +233,17 @@ La cohérence d'une architecture ne suffit pas à établir sa nécessité. Sa pe
 
 Les orientations et les opérations remplissent des fonctions différentes dans l'enquête.
 
-Les premières différencient les rapports sous lesquels un problème est examiné. Les secondes désignent les travaux descriptifs mobilisés pour le traiter. Le chemin de l'enquête organise ces travaux, leurs dépendances et leurs possibilités de reprise sans prescrire un parcours obligatoire.
+Les premières différencient les rapports sous lesquels un problème est examiné. Les secondes désignent les travaux de second ordre mobilisés pour le traiter.
 
-Leur articulation peut aider à distinguer les questions posées, les activités engagées et les résultats qui restent à établir.
+Leur articulation permet de distinguer les questions posées, les travaux entrepris et les résultats qui restent à établir. Elle ne fixe ni correspondance exclusive ni ordre obligatoire.
 
 **La distinction entre orientations et opérations n'a pas à être conservée pour elle-même : elle est pertinente dans la mesure où elle améliore effectivement l'examen des pratiques descriptives.**
 
 ## Pour poursuivre
 
 - [Orientation de l'examen](fr/orientation-de-l-examen.md) — Définir les rapports sous lesquels une situation, une pratique ou un résultat peut être examiné.
-- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Présenter les composantes et les articulations de l'enquête.
-- [Les opérations de référence et leurs articulations](fr/la-chaine-principale-de-l-enquete.md) — Présenter les opérations actuellement identifiées.
-- [Conduire une enquête](fr/conduire-une-enquete.md) — Proposer des repères pratiques pour mobiliser les ressources de l'enquête.
-- [Enquête et organisation des notions](fr/enquete-et-organisation-des-notions.md) — Examiner le rapport entre les notions et la démarche d'enquête.
+- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Présenter les ressources fonctionnelles de l'enquête et leurs statuts respectifs.
+- [Les opérations de référence et leurs articulations](fr/la-chaine-principale-de-l-enquete.md) — Présenter les opérations actuellement identifiées et leurs relations possibles.
+- [Conduire une enquête](fr/conduire-une-enquete.md) — Proposer des repères pratiques pour mobiliser et reprendre les ressources de l'enquête.
+- [Modes d'intervention de l'enquête](fr/modes-d-intervention-de-l-enquete.md) — Examiner les modalités de mobilisation, de combinaison et de reprise des ressources.
 - [Table des matières](fr/tdm.md) — Retrouver les ressources du corpus.
