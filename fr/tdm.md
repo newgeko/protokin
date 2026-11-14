@@ -1,84 +1,89 @@
 # Table des matières — Protokin
 
-Cette table des matières organise l’accès aux ressources de Protokin à partir des problèmes examinés et des fonctions propres aux pages.
+Cette table des matières organise l’accès aux ressources de Protokin. Elle permet de retrouver les pages à partir des problèmes examinés, des travaux d’enquête et des notions mobilisées.
 
-Le corpus rassemble des ressources de présentation, des repères pour conduire une enquête, des opérations d’examen des pratiques descriptives, des distinctions conceptuelles, des instruments d’examen, des études de cas et des références philosophiques.
+Le corpus rassemble des ressources de présentation, des repères pour conduire une enquête, des opérations d’examen, des orientations, des distinctions conceptuelles, des instruments de confrontation, des études de cas et des références philosophiques.
 
-Le classement est documentaire et révisable. Il ne constitue ni une hiérarchie ontologique ni une succession obligatoire d’étapes.
+Son classement est documentaire et révisable. Il ne constitue ni une hiérarchie ontologique, ni une classification exhaustive des pratiques descriptives, ni une succession obligatoire d’étapes.
 
-**Pour choisir une ressource, partir du problème à examiner plutôt que du seul thème auquel elle se rapporte.**
+**Pour choisir une ressource, partir du problème à examiner plutôt que du seul thème auquel il se rapporte.**
 
 ---
 
 ## I. Comprendre le projet
 
-Ces pages présentent l’orientation de Protokin, son problème de départ, ses limites et l’organisation de son corpus.
+Ces pages présentent l’objet de Protokin, son orientation méthodologique, ses limites et l’organisation de ses ressources.
 
-- [Présentation générale](../README.md) — Présenter le projet, son orientation générale et les principales ressources du dépôt.
-- [Protokin en une phrase](protokin-en-une-phrase.md) — Formuler de manière synthétique l’objet et la fonction de la démarche.
-- [Introduction générale](introduction-generale.md) — Exposer le problème auquel répond une enquête sur les pratiques descriptives et préciser le statut non ontologique de cette démarche.
+- [Présentation générale](../README.md) — Présenter le projet, son orientation et les principales ressources du dépôt.
+- [Protokin en une phrase](protokin-en-une-phrase.md) — Formuler synthétiquement l’objet et la fonction de la démarche.
+- [Introduction générale](introduction-generale.md) — Exposer le problème auquel répond une enquête sur les pratiques descriptives et préciser le statut de cette démarche.
 - [Ce que Protokin permet](ce-que-protokin-permet.md) — Décrire les problèmes que la démarche permet d’examiner et les résultats qu’elle peut soutenir.
-- [Fécondité et révisabilité de Protokin](fecondite-et-revisabilite-de-protokin.md) — Préciser comment apprécier la contribution des examens conduits avec Protokin et comment leurs résultats peuvent conduire à réviser ses ressources.
+- [Fécondité et révisabilité de Protokin](fecondite-et-revisabilite-de-protokin.md) — Préciser comment apprécier la contribution des enquêtes et réviser les ressources du projet.
 - [Ce que Protokin ne prétend pas faire](ce-que-protokin-ne-pretend-pas-faire.md) — Délimiter les conclusions que l’enquête ne peut établir à elle seule.
 - [Nom, origine et portée](nom-origine-portee.md) — Examiner le choix du nom Protokin et les limites des rapprochements qu’il suggère.
 - [Architecture du projet](architecture-projet.md) — Présenter l’organisation documentaire du corpus et la fonction respective de ses ressources.
-- [Enquête et organisation des notions](enquete-et-organisation-des-notions.md) — Expliquer comment les notions du corpus sont mobilisées et examinées dans la démarche d’enquête.
-- [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md) — Distinguer les catégories, les opérations, les orientations, les fonctions transversales et les instruments d’épreuve.
-- [Parcours de lecture](parcours-de-lecture.md) — Proposer des parcours d’accès au corpus selon les questions du lecteur.
+- [Enquête et organisation des notions](enquete-et-organisation-des-notions.md) — Expliquer comment les notions du corpus sont mobilisées et examinées.
+- [Architecture fonctionnelle de l’enquête](architecture-fonctionnelle-de-l-enquete.md) — Présenter les quatre ensembles de ressources fonctionnelles et préciser le statut distinct des catégories.
+- [Parcours de lecture](parcours-de-lecture.md) — Proposer des accès au corpus selon les questions du lecteur.
 - [Pourquoi ne pas alourdir l’enquête ?](pourquoi-ne-pas-alourdir-l-enquete.md) — Examiner quand une distinction, une catégorie ou un contrôle supplémentaire apporte réellement quelque chose à l’enquête.
 
-L’organisation documentaire, l’architecture fonctionnelle et la conduite d’une enquête remplissent des fonctions distinctes. Leur articulation ne les rend pas interchangeables.
+L’architecture du projet organise les ressources documentaires. L’architecture fonctionnelle organise les ressources mobilisables dans l’enquête. La conduite d’une enquête concerne leur mobilisation effective dans une situation déterminée. Ces trois fonctions doivent rester distinctes.
 
 ## II. Conduire une enquête
 
-Les ressources présentées dans cette partie permettent de construire un examen situé à partir d’une difficulté déterminée. Les opérations constituent un répertoire de travaux d’examen : leur ordre de présentation facilite la consultation, mais ne détermine pas leur ordre de mobilisation.
+Cette partie rassemble les ressources qui permettent de construire et de reprendre un examen situé à partir d’une difficulté descriptive.
 
-### A. Problème et organisation de l’enquête
+Les opérations constituent un répertoire de travaux d’examen. Leur ordre de présentation facilite la consultation, mais ne prescrit pas leur ordre de mobilisation. Une enquête peut commencer par n’importe quelle opération pertinente, en combiner plusieurs ou revenir sur un travail antérieur.
+
+### A. Définir et organiser l’enquête
 
 - [Problème descriptif](probleme-descriptif.md) — Caractériser les difficultés qui rendent nécessaire l’examen d’une pratique descriptive.
 - [Enquête](enquete.md) — Définir l’enquête comme examen situé et révisable des pratiques descriptives.
-- [La chaîne principale de l’enquête](la-chaine-principale-de-l-enquete.md) — Présenter les opérations principales et leurs articulations.
-- [Conduire une enquête](conduire-une-enquete.md) — Donner des repères pour mobiliser les ressources de Protokin dans une situation concrète.
+- [La chaîne principale de l’enquête](la-chaine-principale-de-l-enquete.md) — Présenter les opérations de référence et leurs articulations possibles.
+- [Conduire une enquête](conduire-une-enquete.md) — Donner des repères pour mobiliser et reprendre les ressources de Protokin dans une situation concrète.
+- [Modes d’intervention de l’enquête](modes-d-intervention-de-l-enquete.md) — Examiner comment les ressources sont sélectionnées, combinées, confrontées et reprises.
 - [Plateau d’enquête](plateau-d-enquete.md) — Présenter un dispositif graphique facultatif pour représenter les occurrences des travaux d’examen et les relations établies ou reconstruites entre eux.
-- [Orientations et chemin de l’enquête](orientation-et-chemin-de-l-enquete.md) — Distinguer les orientations qui déterminent sous quels rapports une difficulté est étudiée et les opérations qui la traitent.
-- [Résultats de l’enquête](resultats-de-l-enquete.md) — Examiner ce qui peut être tenu pour un résultat, distinguer configurations élaborées, conclusions justifiées et possibilités de révision.
+- [Articulation des orientations et des opérations](orientation-et-chemin-de-l-enquete.md) — Examiner la distinction entre les angles sous lesquels une difficulté est étudiée et les travaux mobilisés pour la traiter.
+- [Résultats de l’enquête](resultats-de-l-enquete.md) — Distinguer les configurations élaborées, les conclusions justifiées et les possibilités de révision.
 
-### B. Objets de l’examen
+### B. Déterminer ce qui est examiné
 
-- [Objets de l’examen](objets-de-l-examen.md) — Déterminer ce qui est examiné et distinguer situations, pratiques descriptives, descriptions et matériaux mobilisés.
+- [Objets de l’examen](objets-de-l-examen.md) — Distinguer les situations, les pratiques descriptives, les descriptions et les matériaux mobilisés dans l’enquête.
 
-### C. Modes d’intervention de l’enquête
+### C. Les opérations de l’enquête
 
-- [Modes d’intervention de l’enquête](modes-d-intervention-de-l-enquete.md) — Examiner comment les opérations, les orientations, les fonctions transversales et les instruments d’épreuve sont mobilisés, combinés et repris.
+Les opérations désignent les travaux de second ordre par lesquels l’enquête examine les pratiques descriptives. Elles ne se confondent pas avec les activités de premier ordre des pratiques étudiées.
 
-### D. Délimiter et ancrer
+#### Délimiter et ancrer
 
 - [Délimiter](delimiter.md) — Formuler la difficulté à examiner et préciser le périmètre provisoire de l’enquête.
 - [Ancrer](ancrer.md) — Identifier les observations, les traces, les documents, les données et les contraintes pertinents.
 
-### E. Distinguer et relier
+#### Distinguer et relier
 
 - [Distinguer](distinguer.md) — Établir les différences nécessaires à l’examen et repérer les confusions.
 - [Relier](relier.md) — Examiner la nature, les conditions et la portée des relations entre les éléments retenus.
 
-### F. Configurer et justifier
+#### Configurer et justifier
 
 - [Configurer](configurer.md) — Organiser les éléments retenus et leurs relations au regard du problème examiné.
 - [Justifier](justifier.md) — Examiner les raisons, les prémisses, les critères et les inférences qui soutiennent ou contestent une conclusion.
 
-### G. Reconstituer et redélimiter
+#### Reconstituer et redélimiter
 
 - [Reconstituer](reconstituer.md) — Rendre l’enquête intelligible et réexaminable à partir des éléments disponibles.
 - [Redélimiter](redelimiter.md) — Réexaminer la formulation et le périmètre du problème à la lumière des résultats.
 
-## III. Orienter l’examen, distinguer les registres et examiner les conditions
+## III. Orienter l’examen et examiner ses conditions
 
-Ces ressources permettent d’examiner les différents rapports sous lesquels une situation peut être étudiée. Elles ne constituent ni des étapes ni des niveaux du réel.
+Cette partie rassemble les ressources qui précisent sous quels rapports une situation ou une pratique peut être examinée, ainsi que certaines dimensions qui interviennent dans plusieurs travaux d’enquête.
 
 ### A. Orientations de l’examen
 
 - [Orientation de l’examen](orientation-de-l-examen.md) — Présenter les orientations Condition, Relation, Fonction et Justification et préciser leur articulation.
 - [Registres](registres.md) — Distinguer les registres cognitif, sémantique et référentiel et préciser les limites de leur articulation.
+
+Les orientations indiquent sous quel rapport une situation, une pratique ou un résultat est interrogé. Elles ne désignent pas des opérations supplémentaires ni des composantes naturelles de toute situation.
 
 ### B. Conditions matérielles, biologiques et perceptives
 
@@ -101,16 +106,15 @@ Ces ressources permettent d’examiner les différents rapports sous lesquels un
 - [Transformation](transformation.md) — Caractériser une modification de configuration sans présumer de sa nature ni de sa portée.
 - [Sédimentation](sedimentation.md) — Examiner la conservation, l’accumulation et la transmission de traces issues de pratiques descriptives.
 
-### D. Fonctions transversales de l’enquête
+### D. Réflexivité de l’enquête
 
-- [Expliquer](expliquer.md) — Examiner les processus, les mécanismes et les facteurs susceptibles de rendre compte d’une situation.
-- [Auditer](auditer.md) — Examiner les distinctions, les inférences, les incompatibilités et les engagements mobilisés dans une description ou un raisonnement.
-- [Réfléchir](reflechir.md) — Examiner les présupposés, les choix, les limites et les effets de l’enquête elle-même.
-- [Éprouver](eprouver.md) — Confronter les descriptions et les résultats à des éléments susceptibles de les confirmer, de les limiter ou de les contester.
+La réflexivité est un aspect transversal : elle concerne la possibilité pour l’enquête d’examiner ses propres conditions, ses choix, ses ressources, ses limites et ses effets. Elle ne constitue pas une opération supplémentaire ni une phase terminale.
+
+Elle peut notamment conduire à réexaminer les catégories mobilisées, les distinctions retenues, les orientations privilégiées, les opérations effectuées et la portée des résultats. Elle concerne également les ressources de Protokin lui-même.
 
 ## IV. Examiner le langage, les contenus et les inférences
 
-Ces pages portent sur les ressources linguistiques et inférentielles mobilisées dans les pratiques descriptives. Elles permettent de distinguer le contenu d’un énoncé, l’acte par lequel il est endossé et les conséquences que cet engagement autorise.
+Ces pages portent sur les ressources linguistiques et inférentielles mobilisées dans les pratiques descriptives. Elles permettent notamment de distinguer le contenu d’un énoncé, l’acte par lequel il est endossé et les conséquences que cet engagement autorise.
 
 ### A. Proposition, assertion et pratiques discursives
 
@@ -125,7 +129,7 @@ Ces pages portent sur les ressources linguistiques et inférentielles mobilisée
 ### B. Inférence et espace des raisons
 
 - [Inférence](inference.md) — Examiner les transitions qui autorisent, exigent ou excluent d’autres descriptions.
-- [Portée inférentielle](la-portee-inferentielle.md) — Examiner les conséquences, engagements et incompatibilités associés à un contenu.
+- [Portée inférentielle](la-portee-inferentielle.md) — Examiner les conséquences, les engagements et les incompatibilités associés à un contenu.
 - [Inférence formelle](inference-formelle.md) — Examiner la validité d’un raisonnement à partir de sa structure logique.
 - [Inférence matérielle](inference-materielle.md) — Examiner les relations d’autorisation qui dépendent du contenu des énoncés.
 - [Inférence mutuelle](inference-mutuelle.md) — Examiner la dérivation d’une relation réciproque à partir d’une relation apprise.
@@ -160,6 +164,8 @@ Ces pages portent sur les ressources linguistiques et inférentielles mobilisée
 - [Traduction](traduction.md) — Examiner comment une description peut être mise en relation avec les ressources d’une autre pratique sans présupposer leur équivalence.
 - [Relations LX et pragmatique de l’explicitation](relations-lx-et-pragmatique-de-l-explicitation.md) — Examiner comment un vocabulaire rend explicites certains aspects d’une pratique.
 - [Évaluer une traduction](evaluer-une-traduction.md) — Examiner les correspondances, les transformations et les limites du passage d’une description à une autre.
+
+L’explication peut être une activité descriptive de premier ordre ou devenir un objet d’examen. Elle n’est pas présentée ici comme une opération supplémentaire de l’architecture fonctionnelle.
 
 ### E. Dimensions de la connaissance mobilisées par l’enquête
 
@@ -233,7 +239,9 @@ Ces ressources examinent les exigences qui règlent les pratiques descriptives, 
 
 ## VII. Diagnostiquer, comparer et éprouver
 
-Ces pages permettent d’examiner une difficulté précise, de comparer des descriptions et de soumettre des conclusions à des épreuves. Un instrument ne garantit pas à lui seul la validité du résultat obtenu.
+Ces ressources permettent d’identifier une difficulté, de comparer des descriptions et de confronter des conclusions à des éléments susceptibles de les soutenir, de les limiter ou de les contester.
+
+L’épreuve désigne une exigence générale de confrontation. Elle ne constitue ni une opération supplémentaire ni un instrument particulier. Les instruments d’épreuve fournissent des moyens déterminés pour mettre en œuvre cette exigence ; ils ne garantissent pas à eux seuls la validité du résultat.
 
 ### A. Diagnostics et difficultés
 
@@ -250,14 +258,24 @@ Ces pages permettent d’examiner une difficulté précise, de comparer des desc
 - [Exégèse](exegese.md) — Reconstruire le fonctionnement descriptif d’un texte et examiner le réemploi de ses ressources dans une autre enquête.
 - [Révision descriptive et résultats scientifiques](revision-descriptive-et-resultats-scientifiques.md) — Examiner comment un résultat scientifique peut conduire à réviser une description, ses critères ou les engagements associés.
 
-### C. Injustices épistémiques
+### C. Instruments et moyens de confrontation
+
+Les instruments actuellement distingués sont la substitution, le cas et la comparaison. Leur mobilisation dépend de la difficulté examinée et ne constitue pas une procédure obligatoire.
+
+- [Substitution](substitution.md) — Examiner ce qui se maintient ou change lorsqu’un terme, une catégorie ou un élément descriptif est remplacé dans un contexte déterminé.
+- **Cas** — Confronter une proposition ou une distinction à une situation déterminée. Les études de cas du corpus fournissent des terrains d’examen, sans constituer automatiquement des preuves générales.
+- **Comparaison** — Mettre en regard plusieurs descriptions ou situations pour examiner leurs différences, leurs ressemblances et les relations qu’il est possible d’établir entre elles.
+
+L’explication et l’audit ne sont pas classés ici comme instruments : leur statut et leurs fonctions sont différents. L’explication peut être une activité descriptive ou un objet d’examen. Auditer désigne une fonction critique susceptible de mobiliser plusieurs opérations. La position de l’auditeur est présentée dans [Auditeur](auditeur.md).
+
+### D. Injustices épistémiques
 
 - [Injustice épistémique](injustice-epistemique.md) — Examiner les torts qui affectent la crédibilité, l’interprétation et la participation aux pratiques de connaissance.
 - [Injustice herméneutique](injustice-hermeneutique.md) — Examiner les désavantages structurels qui affectent l’accès aux ressources collectives d’interprétation.
 
 ## VIII. Études de cas
 
-Les études de cas permettent d’examiner des distinctions, des descriptions et des justifications dans des situations déterminées. Elles ne constituent pas, à elles seules, des preuves générales.
+Les études de cas permettent d’examiner des distinctions, des descriptions et des justifications dans des situations déterminées. Elles rendent possibles des confrontations situées, mais ne constituent pas, à elles seules, des preuves générales.
 
 - [La pièce de cuivre](la-piece-de-cuivre.md) — Examiner les rapports entre affirmation empirique, identification d’un matériau, épreuve pratique et révision descriptive.
 - [Le botaniste et le bûcheron](botaniste-bucheron.md) — Comparer des descriptions issues de pratiques différentes et examiner leur coordination dans une décision commune.
@@ -295,7 +313,7 @@ Ces pages présentent des ressources conceptuelles utiles à l’examen des prat
 - [Gilbert Simondon](gilbert-simondon.md) — Présenter l’apport critique de Simondon à l’étude de la genèse, de la métastabilité et de la transformation des configurations.
 - [Francisco Varela](francisco-varela.md) — Examiner l’énaction, l’autonomie du vivant et la production de sens biologique.
 
-## X. Documents éditoriaux et d’audit
+## X. Documents éditoriaux et suivi du corpus
 
 Ces documents encadrent la rédaction, l’organisation et la révision du corpus. Ils ne constituent pas des ressources conceptuelles supplémentaires de l’enquête.
 
@@ -318,10 +336,11 @@ La TDM propose des accès complémentaires au corpus, et non un ordre unique de 
 
 - Pour comprendre le projet, commencer par l’introduction générale et l’architecture du projet.
 - Pour traiter une difficulté descriptive, partir du problème rencontré et consulter les opérations pertinentes.
-- Pour examiner une distinction, rejoindre la ressource conceptuelle concernée puis les pages qui permettent de l’éprouver.
-- Pour comparer ou réviser des descriptions, consulter les instruments d’examen et les études de cas.
+- Pour déterminer sous quel rapport examiner une situation, consulter les orientations de l’examen.
+- Pour approfondir une distinction, rejoindre la ressource conceptuelle concernée puis les pages qui permettent de la confronter à des cas ou à d’autres descriptions.
+- Pour comparer ou réviser des descriptions, consulter les instruments de confrontation et les études de cas.
 - Pour approfondir un rapprochement théorique, consulter les références philosophiques sans substituer leur autorité à l’examen des arguments.
 
 Le lecteur peut revenir à une rubrique précédente lorsque l’examen révèle que le problème initial, une distinction ou une conclusion doit être révisé.
 
-**La TDM organise les accès au corpus ; elle ne remplace ni l’architecture du projet, ni les opérations de l’enquête, ni l’examen propre à chaque page.**
+**La TDM organise les accès au corpus ; elle ne remplace ni l’architecture du projet, ni l’architecture fonctionnelle de l’enquête, ni le travail d’examen propre à chaque situation.**
