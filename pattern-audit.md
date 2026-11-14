@@ -1,541 +1,498 @@
-# Audit du corpus Protokin
+# État et suivi du corpus Protokin
 
 ## 1. Fonction et portée
 
-Ce document définit une méthode pour examiner la fonction des pages de Protokin, leurs relations avec les autres ressources et les conséquences éditoriales de ces relations.
+Ce document consigne l'état du corpus Protokin, les difficultés identifiées dans son organisation et les décisions prises pour les traiter.
 
-Il complète [les patterns éditoriaux](patterns.md) sans en reprendre la fonction :
+Il remplit une fonction documentaire : conserver la trace des constats, des tensions, des modifications et des vérifications qui concernent le corpus. Il ne constitue ni une composante de l'architecture fonctionnelle de l'enquête ni une procédure que toute enquête devrait appliquer.
 
-- `patterns.md` définit les repères de rédaction, les patterns et les principes de révision des pages ;
-- `pattern-audit.md` permet d’examiner le corpus, de diagnostiquer les difficultés et de justifier les interventions proposées.
+Il se distingue des autres documents éditoriaux :
 
-L’audit porte sur le contenu effectivement présent dans le dépôt. Il vise à déterminer si chaque page apporte une contribution identifiable, si ses relations avec les autres ressources sont suffisamment explicites et si les modifications envisagées respectent les distinctions du projet.
+- `patterns.md` définit les repères de rédaction et de révision des pages ;
+- `pattern-audit.md` présente les modalités d'examen de la fonction des pages et de leurs relations ;
+- `audit-corpus.md` consigne les résultats de cet examen et l'état des interventions ;
+- `fr/architecture-projet.md` présente l'organisation documentaire du projet ;
+- `fr/architecture-fonctionnelle-de-l-enquete.md` présente les ressources mobilisables dans l'examen des pratiques descriptives ;
+- `fr/tdm.md` organise l'accès aux ressources du corpus.
 
-Il ne cherche ni à uniformiser les pages ni à imposer une classification exhaustive. Il doit rendre les constats, les interprétations, les incertitudes et les décisions explicites, vérifiables et révisables.
+Ces documents sont complémentaires. Aucun ne doit reprendre intégralement la fonction des autres.
 
-Son principe directeur est le suivant :
+Le terme « audit » conservé dans le nom du fichier relève de son intitulé documentaire. Il ne désigne pas une catégorie supplémentaire de l'architecture fonctionnelle. Il faut notamment distinguer ce document de la fonction **Auditer**, qui peut être mobilisée transversalement dans l'examen des pratiques descriptives.
 
-**Ne pas réviser une page avant d’avoir identifié ce qu’elle apporte, ce qu’elle présuppose et ce que sa modification changerait dans le reste du corpus.**
+L'objectif de ce suivi n'est pas d'uniformiser le corpus, de réduire systématiquement le nombre de pages ou de stabiliser définitivement son architecture. Il consiste à rendre visibles :
 
-## 2. Conditions de fiabilité de l’audit
+- les ressources effectivement disponibles ;
+- les fonctions qu'elles remplissent ;
+- les relations et les tensions entre elles ;
+- les décisions éditoriales retenues ;
+- les modifications réalisées ;
+- les vérifications encore nécessaires.
 
-### 2.1. Partir de l’état réel du dépôt
+## 2. État de référence et statut des informations
 
-Toute conclusion doit s’appuyer sur les fichiers effectivement présents dans la branche examinée.
+### 2.1. Version examinée
 
-Pour chaque ressource concernée, vérifier :
+Le présent état a été établi à partir des fichiers consultés dans la branche par défaut du dépôt `newgeko/protokin`.
 
-- son chemin exact ;
-- son contenu actuel ;
-- sa fonction effective ;
-- ses liens entrants et sortants pertinents ;
-- les pages dont elle dépend ou qui dépendent d’elle ;
-- la branche ou le commit sur lequel porte l’examen.
+Dernier commit identifié lors de cet examen : `b92c146797b1e7ec80ee0e3fd963d8b7e02ca396` — mise à jour de `patterns.md`.
 
-Ne pas inférer l’existence d’un fichier à partir d’un lien, d’un ancien extrait ou d’un intitulé mentionné ailleurs.
+Les constats ci-dessous concernent les fichiers effectivement consultés. Ils ne valent pas certification exhaustive de l'ensemble du dépôt, de ses ressources générées ou de toutes ses références croisées.
 
-Si une ressource nécessaire est inaccessible, signaler cette limite. Le constat doit rester proportionné aux éléments effectivement consultés. Le contenu d'un fichier inaccessible ne doit pas être reconstitué à partir de souvenirs ou de suppositions.
+Toute actualisation importante doit préciser la version du dépôt examinée.
 
-### 2.2. Distinguer les statuts des résultats
+### 2.2. Statuts des constats
 
-L’audit doit permettre de reconnaître le statut de ses résultats.
+Les informations consignées dans ce document doivent être qualifiées.
 
-- **Constat vérifié** : élément directement établi par le contenu ou la structure du dépôt.
-- **Interprétation** : lecture proposée pour expliquer la fonction ou la relation observée.
-- **Tension à examiner** : difficulté réelle ou apparente dont la nature reste à préciser.
-- **Contradiction établie** : propositions incompatibles dans le même sens et sous les mêmes conditions.
-- **Décision proposée** : intervention recommandée au regard des constats.
-- **Décision validée** : intervention retenue après examen.
-- **Modification appliquée** : changement effectivement réalisé.
-- **Modification vérifiée** : contrôle des effets du changement après son application.
+| Statut | Signification |
+|---|---|
+| **Constat vérifié** | Élément directement observable dans un fichier ou dans la structure du dépôt consulté. |
+| **Interprétation** | Lecture proposée pour caractériser la fonction d'une ressource ou la nature d'une relation. |
+| **Tension à examiner** | Difficulté d'articulation dont la nature ou les conséquences restent à préciser. |
+| **Contradiction établie** | Incompatibilité entre des propositions portant sur le même objet, dans le même sens et sous les mêmes conditions. |
+| **Décision proposée** | Intervention recommandée, qui n'est pas encore retenue. |
+| **Décision validée** | Orientation explicitement retenue après examen. |
+| **Modification appliquée** | Changement effectivement réalisé dans le dépôt. |
+| **Modification vérifiée** | Changement dont les conséquences ont été contrôlées. |
+| **Point à contrôler** | Élément signalé dont l'état actuel n'a pas encore été vérifié. |
 
-Ces statuts ne sont pas interchangeables. Une hypothèse de recouvrement ne suffit pas à justifier une fusion ; une proposition de suppression ne signifie pas que le fichier a été supprimé ; une modification appliquée n'est pas nécessairement une modification vérifiée.
+Ces statuts ne sont pas interchangeables.
 
-## 3. Prérequis de toute intervention éditoriale
+Une difficulté identifiée ne constitue pas automatiquement une contradiction. Une décision validée ne signifie pas qu'elle a été appliquée. Une modification appliquée ne peut être considérée comme vérifiée sans contrôle de ses conséquences.
 
-Toute correction d'une page existante ou création d'une nouvelle page doit être précédée d'un examen du contexte documentaire et conceptuel dans lequel l'intervention prend place.
+### 2.3. Règles de consignation
 
-Cette exigence vise à éviter qu'une modification soit conduite à partir d'une connaissance partielle du projet, qu'elle réintroduise une difficulté déjà identifiée ou qu'elle produise des recouvrements et des contradictions avec les ressources existantes.
+Chaque constat important doit préciser, dans la mesure du possible :
 
-### 3.1. Lecture du socle commun
+1. les fichiers concernés ;
+2. les passages ou éléments observés ;
+3. la nature de la difficulté ;
+4. les ressources dépendantes ;
+5. la décision éventuellement retenue ;
+6. les modifications effectuées ;
+7. les vérifications restantes.
 
-Avant toute intervention, les onze ressources suivantes doivent être consultées dans leur version actuelle :
+Les constats anciens doivent être actualisés lorsqu'ils ne correspondent plus à l'état du dépôt. Ils ne doivent pas être conservés comme des problèmes actuels au seul motif qu'ils figurent dans une version antérieure de ce document.
 
-- `README.md` : vérifier le positionnement général et la présentation de Protokin ;
-- `fr/introduction-generale.md` : respecter les engagements intellectuels et méthodologiques du projet ;
-- `fr/probleme-descriptif.md` : préserver la définition du problème auquel répond la démarche ;
-- `fr/architecture-projet.md` : comprendre l'organisation documentaire et la fonction propre des pages ;
-- `fr/architecture-fonctionnelle-de-l-enquete.md` : respecter les distinctions entre opérations, orientations, fonctions transversales et instruments d'épreuve ;
-- `fr/enquete.md` : respecter la définition et le statut de l'enquête ;
-- `fr/conduire-une-enquete.md` : tenir compte des modalités pratiques de l'examen, notamment des reprises et des reconstructions ;
-- `fr/fecondite-et-revisabilite-de-protokin.md` : prendre en considération les exigences de fécondité et de révisabilité du projet ;
-- `patterns.md` : appliquer les principes éditoriaux et les repères de rédaction ;
-- `pattern-audit.md` : examiner la fonction propre de la page, ses relations avec les autres ressources et les conséquences de sa modification ;
-- `audit-corpus.md` : prendre connaissance des constats, des tensions, des décisions et des interventions encore ouvertes.
+Lorsqu'un contrôle n'a pas été effectué, le signaler plutôt que de présenter une hypothèse comme un résultat établi.
 
-Cette lecture constitue un préalable commun. Elle ne dispense pas de consulter les ressources directement concernées par le sujet traité.
+## 3. État actuel de l'organisation fonctionnelle
 
-### 3.2. Lecture complémentaire selon l'objet de l'intervention
+Cette section donne les repères nécessaires à la lecture des constats documentaires. Elle ne remplace pas la présentation développée dans `fr/architecture-fonctionnelle-de-l-enquete.md`.
 
-Le socle commun doit être complété par la lecture des pages qui définissent, développent ou mobilisent les notions et les fonctions concernées.
+### 3.1. Les opérations
 
-Selon l'objet de l'intervention, il convient notamment de consulter :
+Les huit opérations actuellement distinguées sont :
 
-- **Pour une opération** : sa page de référence, les opérations proches et les ressources auxquelles elle renvoie.
-- **Pour une orientation** : la page consacrée aux orientations de l'examen et les pages qui développent les orientations concernées.
-- **Pour une fonction transversale** : sa page de référence et les opérations ou ressources sur lesquelles elle intervient.
-- **Pour une notion conceptuelle** : sa page de définition, les notions voisines et les pages qui mobilisent cette distinction.
-- **Pour une référence philosophique** : la page consacrée à l'auteur ou à l'autrice, les notions de Protokin concernées et les pages dans lesquelles cette référence est déjà mobilisée.
-- **Pour une étude de cas** : les études comparables, les ressources méthodologiques et les notions effectivement mises à l'épreuve.
-- **Pour une page méthodologique** : les ressources relatives à l'enquête, à sa conduite, à son architecture et aux opérations concernées.
-- **Pour une modification documentaire** : l'architecture du projet, la table des matières, la barre latérale et les ressources dont la navigation pourrait être affectée.
+**Délimiter · Ancrer · Distinguer · Relier · Configurer · Justifier · Reconstituer · Redélimiter.**
 
-Dans tous les cas, la page à corriger doit être lue intégralement dans sa version actuelle. Pour une création, il faut examiner les pages susceptibles de traiter déjà tout ou partie de son objet.
+Elles désignent des travaux d'examen mobilisables pour traiter une difficulté descriptive.
 
-### 3.3. Examen des relations documentaires
+Elles ne constituent pas les étapes obligatoires d'une procédure. Elles peuvent être mobilisées séparément, conjointement ou reprises selon les difficultés rencontrées.
 
-La lecture ne doit pas se limiter aux pages qui partagent le même thème. Elle doit permettre d'identifier les relations fonctionnelles et conceptuelles pertinentes.
+### 3.2. Les orientations
 
-Avant de proposer une modification, il convient de déterminer :
+Les quatre orientations actuellement développées sont :
 
-1. Quelle contribution propre la page apporte au corpus.
-2. Quel problème elle traite et quelles distinctions elle mobilise.
-3. Quelles ressources elle présuppose ou complète.
-4. Quelles pages risquent d'être affectées par sa modification.
-5. Si une difficulté identifiée dans l'audit du corpus concerne déjà son objet.
-6. Si la modification envisagée exige une révision coordonnée d'autres ressources.
+**Condition · Relation · Fonction · Justification.**
 
-Une proximité de vocabulaire ne suffit pas à justifier une fusion ou une réécriture commune. Il faut établir que les pages remplissent des fonctions identiques ou que leur distinction ne produit plus de gain analytique identifiable.
+Elles précisent sous quel rapport une situation, une pratique, une opération ou un résultat est examiné.
 
-### 3.4. Prise en compte des centres de gravité
+Elles ne constituent ni des opérations supplémentaires, ni une classification exhaustive des questions possibles, ni une grille obligatoire.
 
-L'intervention doit également être située par rapport aux trois centres de gravité du corpus :
+### 3.3. Les aspects transversaux
 
-- le centre méthodologique ;
-- le centre conceptuel ;
-- le centre réflexif et éditorial.
+Deux aspects transversaux sont actuellement distingués :
 
-Ces centres constituent des repères de lecture et d'organisation, non des catégories supplémentaires de l'architecture fonctionnelle de l'enquête.
+- **Temporalité** : examiner les rapports entre déroulement effectif, anticipation et reconstruction rétrospective.
+- **Réflexivité** : examiner les conditions, les choix, les limites et les effets de l'activité descriptive et de l'enquête elle-même.
 
-Il convient d'identifier le centre auquel l'intervention contribue principalement et d'examiner les relations qu'elle entretient avec les deux autres. Une modification conceptuelle peut, par exemple, avoir des conséquences méthodologiques ou éditoriales qui doivent être prises en compte.
+Ils peuvent intervenir dans plusieurs opérations et sous différentes orientations. Ils ne constituent ni des étapes ni des opérations supplémentaires.
 
-### 3.5. Vérification après intervention
+### 3.4. Explication, Audit et Épreuve
 
-Toute intervention doit donner lieu à une vérification de ses conséquences sur le corpus.
+Ces trois termes ne doivent pas être réunis dans une même famille au seul motif qu'ils interviennent dans l'examen.
 
-Cette vérification porte, selon les cas, sur :
+Leur statut est différent.
 
-- la cohérence de la page modifiée ou créée avec les engagements du projet ;
-- le maintien de sa fonction propre ;
-- la précision et la stabilité des distinctions mobilisées ;
-- les liens entrants et sortants ;
-- les renvois et références croisés ;
-- la table des matières et la barre latérale ;
-- les éventuelles divergences entre les fichiers Markdown et leurs versions publiées ;
-- les constats et décisions consignés dans `audit-corpus.md`.
+**Explication**
 
-Une correction ne peut être considérée comme achevée au seul motif que le texte de la page concernée a été amélioré. Ses conséquences documentaires doivent également avoir été examinées.
+L'explication peut désigner une activité descriptive de premier ordre : une pratique produit une réponse à une question portant sur un phénomène, une conduite ou une transformation.
 
-### 3.6. Principe de proportionnalité
+Elle peut également devenir un objet d'examen de second ordre. L'enquête interroge alors les éléments invoqués, les relations établies, les raisons avancées et les limites de l'explication.
 
-La lecture préalable est obligatoire, mais son approfondissement doit rester proportionné à l'intervention.
+Elle ne constitue pas automatiquement une opération supplémentaire. Son statut dépend de la question examinée et de l'usage qui en est fait.
 
-Le socle commun doit être consulté à chaque fois. Les lectures complémentaires dépendent de l'objet, de la portée et des conséquences possibles de la modification. Une correction locale ne nécessite pas automatiquement un nouvel audit intégral du corpus.
+**Audit**
 
-En revanche, toute intervention qui modifie une distinction structurante, une fonction de l'architecture, un engagement méthodologique ou l'organisation générale du projet exige un examen élargi des ressources concernées.
+Auditer désigne une fonction d'examen critique susceptible d'intervenir transversalement. Elle peut porter sur une description, un dispositif, les engagements associés à une affirmation ou les ressources mobilisées dans l'enquête.
 
-**Aucune correction ni création de page ne doit être engagée avant que sa contribution propre, ses présupposés et ses principales dépendances documentaires aient été identifiés.**
+L'audit ne doit pas être assimilé à une opération particulière ni à un moment terminal de l'examen.
 
-## 4. Examiner la fonction d’une page
+Il doit être distingué de la Réflexivité : celle-ci porte sur les conditions et les ressources de l'enquête elle-même ; Auditer désigne un travail critique susceptible de porter sur une description, un dispositif ou l'enquête.
 
-### 4.1. Identifier sa contribution
+**Épreuve**
 
-L’examen d’une page commence par la formulation de quatre éléments :
+L'épreuve désigne une exigence générale de confrontation des descriptions, des distinctions et des conclusions à des éléments susceptibles de les soutenir, de les limiter ou de les contester.
 
-- **Problème traité** : difficulté qui justifie l’existence de la page.
-- **Fonction propre** : contribution spécifique qu’elle apporte au corpus.
-- **Résultat permis** : ce qu’elle aide à distinguer, examiner ou établir.
-- **Limites** : ce qu’elle ne permet pas d’établir à elle seule.
+Elle ne constitue ni une opération supplémentaire ni un instrument particulier.
 
-La fonction doit être formulée assez précisément pour permettre une comparaison avec les ressources voisines.
+Elle ne garantit pas qu'un résultat définitif puisse être obtenu.
 
-Le titre, la longueur, l’emplacement dans le dépôt ou le vocabulaire employé ne suffisent pas à établir cette fonction.
+### 3.5. Les instruments d'épreuve
 
-### 4.2. Identifier le pattern principal
+Trois instruments sont actuellement distingués :
 
-Le pattern principal permet de caractériser la fonction éditoriale dominante de la page. Il doit être choisi à partir de son contenu effectif, conformément aux définitions de `patterns.md`.
+- **Substitution** : examiner les conséquences du remplacement d'un terme, d'une catégorie ou d'un élément descriptif.
+- **Cas** : confronter une proposition à une situation déterminée.
+- **Comparaison** : examiner les différences et les relations entre plusieurs descriptions ou situations.
 
-Une page peut remplir plusieurs fonctions. Il n'est pas nécessaire de lui attribuer plusieurs patterns si une fonction principale permet de comprendre son rôle et si les autres dimensions ne modifient pas le diagnostic.
+La **Reprise** désigne une modalité générale de réexamen. Elle peut mobiliser un instrument, plusieurs instruments ou aucun instrument supplémentaire. Elle ne constitue pas un quatrième instrument.
 
-L'attribution d'un pattern reste un repère de travail. Elle ne détermine ni la valeur du contenu ni la décision éditoriale à prendre.
+### 3.6. Les catégories
 
-### 4.3. Examiner les définitions et les engagements
+Les catégories regroupent certaines opérations selon leurs proximités fonctionnelles et facilitent leur repérage.
 
-L'audit porte sur les termes et les propositions qui affectent la fonction de la page.
+Elles ne constituent pas un ensemble supplémentaire de ressources mobilisables dans l'enquête. Elles ne doivent donc pas être présentées au même niveau que les opérations, les orientations, les aspects transversaux et les instruments.
 
-Il convient notamment de vérifier :
+### 3.7. Caractère révisable de cette organisation
 
-- si les termes centraux sont définis ou suffisamment explicités ;
-- si leurs usages correspondent à ceux des pages de référence ;
-- si plusieurs sens d'un même terme sont distingués lorsque cela importe pour l'argument ;
-- si des notions sont présupposées sans que cette dépendance soit claire ;
-- si les conclusions dépassent les éléments ou les raisons mobilisés ;
-- si la page introduit un engagement théorique qui n'est pas nécessaire à son propos.
+L'organisation présentée ici correspond à l'état actuel des documents de référence. Elle ne constitue pas une classification exhaustive ou définitive.
 
-L'audit ne doit pas exiger une définition de chaque terme. Il doit examiner ceux dont le statut affecte la compréhension, les inférences ou les conclusions de la page.
+Une ressource nouvelle, une distinction supplémentaire ou une modification de statut ne doit être retenue que si elle répond à une difficulté identifiable et apporte un gain fonctionnel.
 
-### 4.4. Examiner les exemples et les épreuves
+## 4. Constats vérifiés
 
-Lorsqu'une page mobilise un exemple, un cas, une comparaison ou une procédure, déterminer son rôle.
+Les constats suivants reposent sur les fichiers consultés lors de la présente révision.
 
-- L'exemple clarifie-t-il une distinction ou sert-il seulement d'illustration ?
-- Une comparaison permet-elle d'identifier une différence pertinente ?
-- Un contre-exemple met-il en difficulté la définition proposée ?
-- Les matériaux disponibles soutiennent-ils l'interprétation ?
-- Les limites du cas ou de la procédure sont-elles explicites ?
+### 4.1. Positionnement général
 
-L'absence d'exemple n'est pas automatiquement un défaut. Elle doit être évaluée au regard de la fonction propre de la page.
+<badge color="success">Cohérence constatée</badge>
 
-## 5. Examiner les relations entre les pages
+Le `README.md` présente Protokin comme une démarche d'enquête pragmatiste, inférentialiste et réflexive, méthodologiquement non ontologique, consacrée aux pratiques descriptives.
 
-### 5.1. Identifier la nature des relations
+Il distingue le travail de second ordre de Protokin des pratiques descriptives qu'il examine et maintient la différence entre existence, identification et détermination descriptive.
 
-Deux pages peuvent traiter d'un même sujet sans être redondantes. Elles peuvent remplir des fonctions différentes, répondre à des problèmes distincts ou examiner des aspects complémentaires.
+Il conserve également le principe suivant :
 
-Inversement, des titres différents ne garantissent pas que deux pages apportent des contributions distinctes.
+**La cohérence d'une description ne suffit pas à établir son adéquation à ce qu'elle prétend décrire.**
 
-Pour chaque relation importante, identifier sa nature.
+**Appréciation :** le positionnement général est suffisamment explicite dans le document de présentation. Il n'appelle pas une nouvelle reformulation générale à ce stade.
 
-| Relation | Critère d'identification | Conséquence possible |
-|---|---|---|
-| Complémentarité | Les pages traitent d'aspects distincts d'un problème commun. | Maintenir les pages et préciser leur articulation. |
-| Dépendance | Une page présuppose une définition, un résultat ou un cadrage fourni ailleurs. | Expliciter la dépendance ou compléter le renvoi. |
-| Recouvrement fonctionnel | Les pages apportent des contributions largement semblables. | Examiner une redistribution, une restructuration ou une fusion. |
-| Différence de fonction | Les pages partagent un thème, mais répondent à des problèmes distincts. | Préserver leur distinction et clarifier leur fonction. |
-| Tension conceptuelle | Les propositions semblent difficiles à rendre compatibles. | Examiner les termes, les conditions et la portée des propositions. |
-| Contradiction | Les propositions ne peuvent être maintenues simultanément dans le même sens et sous les mêmes conditions. | Corriger, circonscrire ou documenter la contradiction. |
-| Conversion non justifiée | Une relation est transformée en identité, en succession nécessaire ou en détermination sans argument suffisant. | Réexaminer l'inférence et ses conséquences. |
-| Renvoi éditorial | Un lien facilite la navigation sans établir une dépendance conceptuelle. | Maintenir ou corriger le lien selon son utilité. |
-| Relation indéterminée | Les éléments disponibles ne permettent pas de caractériser la relation. | Conserver la question ouverte et poursuivre l'examen. |
+**Point de vigilance :** ne pas transformer la non-conversion en principe de refus de toute relation. Les passages entre différentes fonctions restent possibles, mais doivent être explicités et justifiés.
 
-Ces catégories sont des instruments de diagnostic. Elles ne constituent pas une classification exhaustive et peuvent se combiner.
+### 4.2. Architecture fonctionnelle
 
-### 5.2. Examiner les recouvrements
+<badge color="success">Distinction clarifiée dans les documents de référence</badge>
 
-Lorsqu'un recouvrement est constaté :
+Le `README.md` et `fr/architecture-fonctionnelle-de-l-enquete.md` distinguent désormais :
 
-1. comparer les problèmes traités ;
-2. identifier la contribution propre de chaque page ;
-3. repérer les définitions et les développements répétés ;
-4. déterminer si les répétitions facilitent la compréhension locale ;
-5. identifier les différences qui justifient le maintien de pages distinctes ;
-6. formuler une intervention proportionnée.
+- les opérations ;
+- les orientations ;
+- les aspects transversaux ;
+- les instruments d'épreuve.
 
-Il faut distinguer le recouvrement thématique du recouvrement fonctionnel.
+Les catégories ont un statut distinct : elles regroupent certaines opérations et ne constituent pas un ensemble supplémentaire.
 
-Une répétition peut être utile lorsqu'elle facilite la compréhension, rappelle une dépendance ou permet d'examiner une notion dans un contexte différent. Elle devient problématique lorsqu'elle reproduit un développement sans apport supplémentaire ou entretient plusieurs formulations concurrentes.
+L'architecture distingue également les questions relatives à l'explication et à l'audit, sans les réunir dans une famille autonome. L'épreuve est présentée comme une exigence générale de confrontation.
 
-Ne pas fusionner des pages uniquement parce qu'elles mobilisent les mêmes termes. Ne pas maintenir non plus deux pages autonomes si leur fonction et leur contribution ne peuvent pas être distinguées.
+**Appréciation :** la présentation actuelle est plus précise que l'ancienne organisation en cinq composantes.
 
-### 5.3. Examiner les tensions et les contradictions
+**Intervention restante :** vérifier que les documents de navigation, les pages spécialisées et les versions HTML ont été alignés sur cette organisation.
 
-Lorsqu'une tension apparaît :
+### 4.3. Temporalité et réflexivité
 
-1. identifier les propositions précises concernées ;
-2. vérifier le sens des termes dans chaque page ;
-3. préciser les conditions dans lesquelles les propositions sont avancées ;
-4. distinguer une différence de définition, une différence de fonction et une contradiction ;
-5. déterminer si une correction locale suffit ou si plusieurs pages sont concernées ;
-6. conserver explicitement la difficulté si les éléments disponibles ne permettent pas de la résoudre.
+<badge color="success">Distinction clarifiée dans les documents de référence consultés</badge>
 
-Une contradiction ne doit pas être masquée par une harmonisation de vocabulaire. Inversement, une différence de fonction ne doit pas être traitée comme une contradiction sans examen.
+Le `README.md` présente Temporalité et Réflexivité comme deux aspects transversaux.
 
-## 6. Contrôles propres à l'organisation de Protokin
+`fr/temporaliser.md` précise la distinction entre temporalité effective, prospective et rétrospective. Il rappelle qu'une reconstruction rétrospective peut rendre un parcours intelligible sans démontrer que son résultat était nécessaire dès son commencement.
 
-Ces contrôles portent sur les distinctions et les articulations structurantes du projet. Ils complètent l'examen des pages sans reprendre le développement des ressources de référence.
+Cette distinction est cohérente avec :
 
-### 6.1. Distinguer les ensembles de ressources et les regroupements documentaires
+- `fr/conduire-une-enquete.md`, qui présente l'enquête comme une activité faite de mobilisations et de reprises ;
+- `fr/plateau-d-enquete.md`, qui distingue les travaux effectivement réalisés et les relations établies ou reconstruites ultérieurement.
 
-L'architecture fonctionnelle de l'enquête distingue quatre ensembles de ressources :
+**Appréciation :** la distinction entre déroulement effectif et reconstruction rétrospective est désormais suffisamment explicite dans ces ressources.
 
-- **Opérations** : travaux de second ordre par lesquels Protokin examine les pratiques descriptives, leurs conditions, leurs fonctions, leurs relations et leurs justifications. Elles ne se confondent pas avec les activités de ces pratiques — mesurer, classer, interpréter ou produire une assertion — mais portent sur leurs conditions, leurs fonctions, leurs relations et leurs justifications.
-- **Orientations** : rapports sous lesquels une situation, une pratique, une opération ou un résultat est examiné.
-- **Fonctions transversales** : dimensions de l'examen susceptibles d'intervenir dans plusieurs opérations.
-- **Instruments d'épreuve** : moyens concrets permettant de confronter des descriptions, des distinctions ou des conclusions à un examen déterminé.
+**Point de vigilance :** vérifier que les autres documents de présentation ne réintroduisent pas une représentation linéaire ou téléologique de l'enquête.
 
-Les **catégories** ont un statut différent. Elles regroupent certaines opérations afin d'en faciliter le repérage et la lecture. Ces regroupements signalent des proximités fonctionnelles ; ils ne constituent ni un ensemble supplémentaire de ressources à mobiliser dans l'enquête, ni une composante de même niveau que les quatre ensembles précédents. Ils ne déterminent pas non plus l'appartenance exclusive des opérations ou leur ordre de mobilisation.
+### 4.4. Reprise et instruments d'épreuve
 
-L'audit doit vérifier que cette différence de statut est respectée.
+<badge color="success">Distinction clarifiée dans l'architecture de référence</badge>
 
-En particulier :
+`fr/architecture-fonctionnelle-de-l-enquete.md` distingue trois instruments — Substitution, Cas et Comparaison — de la Reprise, définie comme une modalité générale de réexamen.
 
-- les catégories servent à organiser documentairement le répertoire des opérations ; elles ne désignent pas des travaux d'examen supplémentaires ;
-- les regroupements ne doivent pas être interprétés comme une classification exhaustive ou comme une hiérarchie des opérations ;
-- une orientation ne désigne pas le travail effectué pour répondre à une question ;
-- une fonction transversale ne constitue pas nécessairement une opération ;
-- un instrument ne garantit pas, par sa seule application, la validité d'un résultat.
+La Reprise peut mobiliser un instrument sans se confondre avec lui. Elle ne constitue pas un quatrième instrument.
 
-Pour la définition des quatre ensembles de ressources et le statut des regroupements d'opérations, voir [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md).
+**Appréciation :** cette distinction doit être conservée dans les autres ressources du corpus.
 
-### 6.2. Examiner les opérations de l'enquête
+### 4.5. Patterns éditoriaux
 
-Les opérations actuellement identifiées sont :
+<badge color="success">Document actualisé</badge>
 
-**Délimiter → Ancrer → Distinguer → Relier → Configurer → Justifier → Reconstituer → Redélimiter.**
+La version actuelle de `patterns.md` définit les patterns comme des repères éditoriaux révisables, et non comme une classification théorique des ressources ou une architecture supplémentaire de l'enquête.
 
-Vérifier que :
+Elle distingue notamment :
 
-- chaque opération possède une fonction identifiable ;
-- ses conditions de mobilisation sont suffisamment claires ;
-- ses résultats sont distingués de ses limites ;
-- ses relations avec les autres opérations ne sont pas transformées en succession obligatoire ;
-- les reprises et les changements de périmètre restent possibles ;
-- la présentation de la chaîne n'efface pas les différences entre les opérations.
+- les principes éditoriaux ;
+- les fonctions des pages ;
+- les huit patterns ;
+- les procédures de rédaction et de révision ;
+- les décisions éditoriales ;
+- le contrôle avant publication.
 
-La chaîne constitue un ordre de présentation et un repère d'orientation. Elle ne prescrit ni l'exécution de toutes les opérations ni un parcours temporel nécessaire.
+Elle précise également que les patterns ne doivent pas imposer la mobilisation systématique des ressources fonctionnelles de l'enquête.
 
-L'audit doit partir du contenu réel des pages. Il ne doit pas présupposer qu'une page existe pour chaque opération ni inventer un chemin manquant.
+**Appréciation :** cette orientation permet de maintenir la distinction entre organisation éditoriale et architecture fonctionnelle.
 
-### 6.3. Examiner les orientations de l'examen
+**Point de vigilance :** les autres documents éditoriaux doivent reprendre cette distinction sans réintroduire une grille uniforme de classement.
 
-Une orientation indique sous quel rapport une situation, une pratique, une opération ou un résultat est examiné. Elle permet de préciser les questions posées sans déterminer à elle seule le travail descriptif à effectuer.
+## 5. Divergences documentaires encore présentes
 
-Protokin mobilise actuellement quatre orientations de référence :
+### 5.1. Table des matières
 
-- **Condition** ;
-- **Relation** ;
-- **Fonction** ;
-- **Justification**.
+<badge color="warning">Correction nécessaire</badge>
 
-Vérifier que :
+Dans `fr/tdm.md`, la présentation de l'architecture fonctionnelle indique encore :
 
-- elles sont présentées comme des ressources de référence et non comme une classification exhaustive ;
-- elles ne sont pas transformées en composantes universelles des objets, en niveaux hiérarchiques ou en phases obligatoires ;
-- leur mobilisation dépend du problème examiné ;
-- elles restent distinctes des opérations ;
-- aucune correspondance fixe n'est établie entre une orientation et une opération ;
-- les termes employés dans plusieurs orientations sont examinés selon leur rôle dans chaque contexte.
+> Distinguer les catégories, les opérations, les orientations, les fonctions transversales et les instruments d'épreuve.
 
-Une même opération peut contribuer à plusieurs orientations ; une orientation peut nécessiter plusieurs opérations. Une enquête n'a pas à mobiliser systématiquement les quatre orientations.
+Cette formulation place les catégories au même niveau que les quatre ensembles de ressources.
 
-L'audit doit rester attentif à l'apparition de rapports qui ne seraient pas suffisamment pris en compte par les orientations existantes. Une orientation supplémentaire ne doit toutefois pas être introduite sur la seule base d'un thème ou d'un aspect nouveau. Il faut établir qu'elle permet d'examiner un rapport distinct et qu'elle apporte un gain identifiable.
+Elle ne correspond plus à la présentation du `README.md` et de `fr/architecture-fonctionnelle-de-l-enquete.md`.
 
-Pour la définition des orientations et les conditions de leur révision, voir [Orientation de l'examen](fr/orientation-de-l-examen.md).
+La TDM conserve également des intitulés et des formulations issus de l'organisation antérieure, notamment « Orientations et chemin de l'enquête ».
 
-### 6.4. Examiner les fonctions transversales
+**Intervention nécessaire :**
 
-Les fonctions transversales actuellement distinguées dans l'architecture fonctionnelle sont :
+- présenter les quatre ensembles fonctionnels sans placer les catégories à leur niveau ;
+- expliquer séparément la fonction des catégories comme regroupements d'opérations ;
+- vérifier les intitulés et les renvois qui conservent un vocabulaire de parcours linéaire ;
+- contrôler les liens concernés après modification.
 
-- **Temporaliser** ;
-- **Expliquer** ;
-- **Auditer** ;
-- **Réfléchir** ;
-- **Éprouver**.
+### 5.2. Plateau d'enquête
 
-Vérifier que leur rôle est intelligible et que leur articulation avec les opérations est explicitée lorsqu'elle importe.
+<badge color="warning">Correction nécessaire</badge>
 
-Elles ne forment pas une seconde chaîne et ne doivent pas être ajoutées automatiquement à la liste des opérations. Si leur statut varie entre les pages, identifier la divergence et déterminer si elle est justifiée, provisoire ou contradictoire.
+`fr/plateau-d-enquete.md` présente correctement le fil rouge comme un moyen de rendre visibles des relations entre des opérations, leurs occurrences et les configurations concernées.
 
-Il convient notamment de ne pas confondre :
+Il distingue également le déroulement effectif de l'examen et sa reconstruction rétrospective.
 
-- **Auditer**, comme fonction transversale susceptible d'examiner les distinctions, les dépendances, les inférences et les engagements d'une enquête ;
-- **l'audit du corpus**, qui examine les fonctions et les relations entre les pages du dépôt.
+Cependant, sa section consacrée aux fonctions transversales énumère encore :
 
-Ces deux activités peuvent se soutenir, mais elles ne portent pas sur le même objet.
+- Temporaliser ;
+- Expliquer ;
+- Auditer ;
+- Réfléchir ;
+- Éprouver.
 
-### 6.5. Contrôler les dimensions de la connaissance mobilisées
+Cette liste ne correspond plus à l'organisation présentée dans le README et l'architecture fonctionnelle.
 
-L'examen des pratiques descriptives porte aussi sur les activités de connaissance qui rendent leurs descriptions possibles, orientent leur production et conditionnent leur révision. À ce titre, l'audit doit vérifier que les pages prennent en compte, lorsque leur objet le requiert, les cinq dimensions distinguées dans [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) :
+**Intervention nécessaire :**
 
-- **Percevoir et prêter attention** : ce qui devient perceptible, ce qui est remarqué, retenu ou laissé à l'arrière-plan, ainsi que les conditions qui orientent l'attention.
-- **Identifier et distinguer** : la manière dont des éléments sont reconnus, individualisés, rapprochés ou différenciés, et les critères mobilisés.
-- **Anticiper et inférer** : les attentes, les prévisions et les transitions qui conduisent d'éléments disponibles à d'autres conclusions ou possibilités.
-- **Évaluer et justifier** : les critères, les raisons et les éléments mobilisés pour soutenir, contester ou réviser une description ou une conclusion.
-- **Reprendre et réviser** : la manière dont une pratique revient sur ses descriptions, ses identifications, ses distinctions, ses attentes et ses critères à la lumière de difficultés ou de nouveaux éléments.
+- distinguer les aspects transversaux Temporalité et Réflexivité ;
+- ne pas présenter Explication, Audit et Épreuve comme trois fonctions transversales de même statut ;
+- préciser, si leur présence sur le plateau est utile, sous quelle forme et pour quelle raison ils sont indiqués ;
+- vérifier que la représentation graphique ne transforme pas ces ressources en catégories supplémentaires.
 
-Ces dimensions sont interdépendantes. L'audit doit donc être attentif aux relations entre elles, sans présupposer une succession fixe. Une difficulté d'attention peut affecter une identification ; une identification peut orienter une inférence ; une anticipation peut conduire à de nouvelles observations ; une évaluation peut entraîner la révision des critères ou des descriptions.
+Le plateau doit représenter les travaux et les relations effectivement examinés. Il ne doit pas devenir une visualisation exhaustive de toutes les ressources théoriques du projet.
 
-Ce contrôle ne doit pas transformer ces dimensions en composantes supplémentaires de l'architecture de Protokin. Elles ne constituent :
+### 5.3. Version HTML de l'architecture fonctionnelle
 
-- ni une nouvelle liste d'opérations ;
-- ni une classification exhaustive des activités cognitives ;
-- ni les étapes d'un processus de connaissance ;
-- ni une grille que toute enquête devrait parcourir intégralement.
+<badge color="danger">Divergence importante</badge>
 
-Elles désignent des dimensions interdépendantes que l'examen peut avoir à distinguer et à mettre en relation selon la difficulté rencontrée. Elles ne se substituent donc ni aux opérations, ni aux orientations, ni aux fonctions transversales, ni aux instruments d'épreuve.
+La version consultée de `html/architecture-fonctionnelle-de-l-enquete.html` conserve une organisation antérieure.
 
-Pour chaque page concernée, vérifier notamment :
+Elle présente notamment :
 
-- si les conditions perceptives et attentionnelles pertinentes sont prises en compte, plutôt que de traiter les éléments observés comme immédiatement disponibles ;
-- si les modalités et les critères d'identification sont suffisamment explicites ;
-- si les inférences et les anticipations sont distinguées des éléments directement observés ou établis ;
-- si les évaluations et les justifications s'appuient sur des raisons ou des critères identifiables ;
-- si les possibilités de reprise et de révision sont reconnues lorsque de nouvelles difficultés ou de nouveaux éléments le demandent ;
-- si les relations entre ces dimensions sont examinées lorsque la compréhension de la pratique en dépend.
+- cinq composantes, en plaçant les catégories au même niveau que les quatre ensembles fonctionnels ;
+- cinq fonctions transversales, dont Expliquer, Auditer et Éprouver ;
+- quatre instruments, en incluant la Reprise ;
+- une présentation du cheminement de l'enquête qui n'est pas entièrement alignée sur les documents Markdown actuels.
 
-Ce contrôle est sélectif et proportionné à l'objet de la page. L'absence de développement sur l'une de ces dimensions n'est pas en elle-même une lacune : il faut établir qu'elle est pertinente pour le problème traité avant de demander qu'elle soit explicitée.
+Cette version HTML ne correspond donc pas à l'architecture de référence actuellement présentée dans `fr/architecture-fonctionnelle-de-l-enquete.md`.
 
-### 6.6. Examiner les instruments d'épreuve
+**Intervention nécessaire :**
 
-Les trois instruments actuellement identifiés sont :
+1. déterminer si cette page HTML est générée automatiquement ou maintenue séparément ;
+2. identifier sa place dans le dispositif de publication ;
+3. la régénérer ou la corriger à partir du Markdown actuel ;
+4. vérifier les liens, le sommaire, les représentations graphiques et les contenus ;
+5. contrôler les autres versions HTML susceptibles de présenter les mêmes divergences.
 
-- **Substitution** ;
-- **Cas** ;
-- **Comparaison**.
+Il ne faut pas supprimer cette version sans avoir déterminé son statut dans le dispositif de publication.
 
-Vérifier que leur emploi est suffisamment précisé, que leurs limites sont explicites et qu'ils ne sont pas confondus avec des opérations ou des orientations.
+### 5.4. Statut documentaire de l'audit
 
-Un instrument peut être mobilisé dans plusieurs opérations et sous différentes orientations. Son application ne produit pas mécaniquement un verdict et ne garantit pas la validité d'une conclusion.
+<badge color="warning">Clarification à poursuivre</badge>
 
-La **Reprise** ne constitue pas un quatrième instrument. Elle désigne une modalité générale de réexamen : une opération, une description, une distinction ou une conclusion peut être reprise à la lumière d'une difficulté, d'une objection ou d'un nouvel élément. Cette reprise peut notamment mobiliser une substitution, un cas ou une comparaison, sans se confondre avec aucun de ces instruments.
+`patterns.md` distingue trois fonctions documentaires :
 
-L'audit doit donc vérifier que les pages du corpus maintiennent cette différence entre les moyens d'épreuve et la modalité générale de réexamen.
+- les repères éditoriaux ;
+- les modalités d'examen des pages et de leurs relations ;
+- la consignation des constats et des décisions.
 
-Pour la définition des instruments et la distinction avec la Reprise, voir [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md).
+Le fichier `pattern-audit.md` présente actuellement une méthode d'examen éditorial du corpus. `audit-corpus.md` enregistre les constats et les décisions correspondantes.
 
-### 6.7. Rechercher les conversions non justifiées
+Cette fonction documentaire doit rester distincte de la fonction transversale **Auditer** dans l'architecture de l'enquête.
 
-L'audit doit rechercher les passages dans lesquels une distinction ou une dépendance risque d'être transformée en identité, en succession nécessaire ou en réduction.
+Le fait qu'un document examine le corpus ne signifie pas qu'il constitue une opération ou une catégorie de l'enquête. De même, le fait qu'un fichier porte le mot « audit » dans son nom ne suffit pas à lui attribuer un statut fonctionnel.
 
-Les points de vigilance comprennent notamment :
+**Intervention proposée :**
 
-- cause ≠ raison ;
-- genèse ≠ justification ;
-- condition ≠ critère ;
-- trace ≠ signification ;
-- description ≠ objet décrit ;
-- capacité ≠ performance ≠ validité ;
-- fonction ≠ justification ;
-- incarnation ≠ réduction biologique.
+- maintenir la distinction entre examen éditorial du corpus et fonction transversale Auditer ;
+- éviter de présenter le présent document comme une procédure générale applicable à toute enquête ;
+- examiner ultérieurement si le contenu de `pattern-audit.md` et son intitulé sont suffisamment compatibles avec cette distinction.
 
-Ces distinctions n'interdisent pas d'établir des relations entre les termes. Elles invitent à examiner ce que la relation permet effectivement d'établir et quelles conclusions elle autorise.
+Cette question ne justifie pas, à elle seule, de renommer immédiatement les fichiers.
 
-Pour chaque difficulté constatée, préciser la proposition concernée, le type de conversion suspecté et l'argument nécessaire pour la soutenir ou l'écarter.
+## 6. Questions conceptuelles encore ouvertes
 
-### 6.8. Examiner le statut des propositions
+Les points suivants ne constituent pas des erreurs établies. Ils désignent des questions dont la résolution demande un examen supplémentaire.
 
-L'audit doit vérifier que les pages distinguent les propositions portant sur les pratiques descriptives des affirmations portant sur les objets ou les situations décrits.
+### 6.1. Statut de l'explication
 
-Il convient notamment d'examiner si :
+L'explication peut être une activité descriptive de premier ordre ou un objet d'examen de second ordre.
 
-- les conditions d'une description sont automatiquement traitées comme les critères de sa validité ;
-- la cohérence d'une description est utilisée comme preuve suffisante de son adéquation ;
-- la révisabilité est assimilée à l'équivalence de toutes les descriptions ;
-- une pratique descriptive est confondue avec l'objet auquel elle se rapporte ;
-- une proposition portant sur le réel est avancée sans que son statut, ses raisons et sa portée soient explicités.
+Il reste à déterminer si certaines dimensions de l'explication nécessitent une présentation particulière dans l'architecture, ou si leur examen peut être entièrement décrit à partir des opérations existantes.
 
-L'orientation non ontologique de Protokin ne signifie pas que toute proposition portant sur le réel serait exclue. Elle demande que ces propositions soient examinées et que les conclusions ne dépassent pas ce que les éléments et les raisons mobilisés permettent de soutenir.
+La création d'une opération supplémentaire ne doit pas être présupposée.
 
-### 6.9. Examiner les usages de la notion de régime descriptif
+### 6.2. Statut de l'audit
 
-Lorsqu'une page mobilise la notion de régime descriptif, vérifier qu'elle ne la confond pas avec :
+Auditer désigne une fonction d'examen critique susceptible d'intervenir transversalement.
 
-- une discipline ou un domaine de recherche ;
-- une opération descriptive particulière ;
-- l'objet auquel une description se rapporte ;
-- une justification ou un critère pris isolément.
+Il faut maintenir sa distinction avec :
 
-Un régime peut mobiliser plusieurs opérations ; une opération peut intervenir dans plusieurs régimes. Les régimes ne doivent pas être présupposés fermés, indépendants ou mutuellement exclusifs.
+- les opérations particulières qu'il peut mobiliser ;
+- la Réflexivité, qui porte sur les conditions et les ressources de l'enquête elle-même ;
+- les instruments qui peuvent contribuer à l'examen ;
+- l'examen éditorial du corpus consigné dans les documents de suivi.
 
-Leur identification et leurs relations doivent être établies à partir des pratiques examinées. Une différence entre régimes ne suffit pas à établir une incompatibilité ; une proximité ne suffit pas à établir leur identité.
+La question n'est pas de créer une catégorie autonome pour l'audit, mais de préciser ses conditions d'intervention et ses relations avec les autres ressources.
 
-Pour les premières distinctions et leur mise à l'épreuve, voir [Une première cartographie des régimes descriptifs](fr/une-premiere-cartographie-des-regimes-descriptifs.md).
+### 6.3. Statut de l'épreuve
 
-## 7. Vérifier les liens et la navigation
+L'épreuve désigne une exigence générale de confrontation.
 
-L'audit doit contrôler les liens à partir des chemins réellement présents dans la branche examinée.
+Elle ne doit être confondue ni avec les instruments particuliers qui permettent de conduire certaines confrontations, ni avec une opération supplémentaire.
 
-Pour chaque lien pertinent :
+Il reste à préciser dans les différentes pages comment cette exigence se traduit concrètement dans les examens, sans la transformer en procédure uniforme.
 
-1. vérifier que la cible existe ;
-2. vérifier le chemin exact ;
-3. confirmer que le titre et le texte du lien correspondent à la cible ;
-4. déterminer si le renvoi est utile à la fonction de la page ;
-5. repérer les dépendances importantes qui ne sont pas signalées.
+### 6.4. Relations entre les ressources
 
-Conformément à `patterns.md`, les liens vers les pages du corpus français doivent employer le préfixe `fr/`, y compris depuis une page située dans le répertoire `fr/`.
+L'architecture doit permettre de décrire les relations effectives entre opérations, orientations, aspects transversaux et instruments.
 
-Exemple :
+Il ne faut pas supposer une correspondance terme à terme entre ces ensembles.
 
-[Introduction générale](fr/introduction-generale.md)
+Une opération peut être conduite sous plusieurs orientations, prendre en compte plusieurs aspects transversaux et mobiliser différents instruments. Ces possibilités ne sont pas des associations obligatoires.
 
-Pour les fichiers situés à la racine du dépôt ou dans d'autres répertoires, employer un chemin correspondant à leur emplacement réel.
+Les études de cas doivent contribuer à déterminer si ces distinctions apportent un gain réel dans l'examen des situations.
 
-L'audit doit distinguer :
+### 6.5. Régimes descriptifs et registres
 
-- un lien cassé ;
-- un chemin non conforme à la convention retenue ;
-- un renvoi valide mais peu utile ;
-- un renvoi conceptuellement nécessaire qui manque ;
-- une relation conceptuelle qui ne nécessite pas de lien de navigation.
+Le corpus comporte des ressources consacrées aux régimes descriptifs, aux registres et à leurs relations.
 
-La table des matières et la barre latérale servent à orienter le lecteur. Elles n'ont pas à reproduire toutes les relations conceptuelles relevées par l'audit.
+Leur proximité thématique ne suffit pas à établir un recouvrement fonctionnel.
 
-Les règles générales de rédaction des liens et de vérification des chemins sont précisées dans `patterns.md`.
+L'examen doit déterminer :
 
-## 8. Conduire un audit du corpus
+- ce que chaque notion permet de distinguer ;
+- les problèmes auxquels elle répond ;
+- les relations qu'elle entretient avec les autres ;
+- les situations dans lesquelles ses limites apparaissent.
 
-L'audit suit un ordre de travail pratique. Cet ordre sert à organiser le diagnostic ; il ne constitue pas une nouvelle chaîne théorique de l'enquête ni une procédure obligatoire pour toutes les situations.
+Les pages doivent être conservées tant que leur fonction propre reste identifiable. Une fusion ne serait justifiée qu'après établissement d'un recouvrement fonctionnel réel.
 
-1. **Délimiter l'audit.** Préciser les pages, le problème éditorial et la branche concernés.
-2. **Vérifier les ressources.** Récupérer les fichiers actuels, contrôler leur présence et signaler les éventuelles limites d'accès.
-3. **Identifier les fonctions.** Formuler la contribution propre des pages examinées et leur pattern principal lorsque cela facilite le diagnostic.
-4. **Examiner les relations.** Comparer les pages liées et caractériser les complémentarités, dépendances, recouvrements ou tensions.
-5. **Contrôler les distinctions.** Examiner les définitions, les engagements, les non-conversions et les éventuelles confusions entre les ressources de l'enquête.
-6. **Vérifier la navigation.** Contrôler les liens, les chemins, les titres et les renvois manquants.
-7. **Formuler les décisions.** Proposer une intervention proportionnée et identifier les autres fichiers susceptibles d'être affectés.
-8. **Contrôler les effets.** Après une modification, vérifier les pages concernées, les relations et les liens.
+### 6.6. Études de cas et fécondité de l'architecture
 
-L'audit peut commencer par une page spécialisée, une contradiction supposée ou un problème de navigation. Il n'est pas nécessaire de parcourir le corpus dans un ordre fixe.
+La présence d'études de cas ne suffit pas à démontrer la fécondité de l'architecture.
 
-Les décisions possibles — conserver, corriger, relier, restructurer, fusionner, scinder, déplacer, archiver ou supprimer — sont définies dans `patterns.md`. Elles ne doivent pas être déduites automatiquement du pattern attribué à une page.
+Les cas doivent être examinés à partir de leurs difficultés propres, sans leur imposer une grille uniforme.
 
-Avant une fusion, une scission, un déplacement ou une suppression, examiner les liens entrants, les renvois croisés et les conséquences sur la navigation. Toute suppression doit préserver le contenu utile ou préciser où celui-ci est repris.
+Trois cas offrent des possibilités complémentaires :
 
-## 9. Conserver la trace des décisions
+- **Pont Saint-Bénezet** : examiner les relations entre contraintes matérielles, décisions, justifications et reconstruction historique.
+- **Botaniste et bûcheron** : examiner les différences de fonction entre pratiques descriptives et les conditions de leur coordination.
+- **Conscience artificielle** : examiner les rapports entre indices, capacités, performances, hypothèses et conclusions.
 
-Le suivi des décisions importantes doit être conservé séparément du contenu ordinaire des pages auditées.
+Leur examen doit permettre d'identifier les ressources effectivement mobilisées, les reprises réalisées, les résultats obtenus et les difficultés que l'architecture ne permet pas encore de traiter.
 
-Pour chaque décision dont les conséquences dépassent une correction locale, consigner :
+L'enjeu est de déterminer si les ressources de Protokin produisent un gain analytique dans des situations déterminées, et non de retrouver systématiquement dans chaque cas les distinctions déjà présentes dans l'architecture.
 
-- le chemin du fichier ;
-- la branche ou le commit examiné ;
-- le constat précis ;
-- le pattern concerné, si pertinent ;
-- les relations ou distinctions en jeu ;
-- la décision proposée ;
-- sa justification ;
-- les autres fichiers susceptibles d'être affectés ;
-- les vérifications restant à effectuer ;
-- le statut de la décision.
+## 7. Registre des interventions
 
-Les statuts recommandés sont :
+Les interventions suivantes découlent des constats précédents.
 
-- **Proposé** : une intervention est envisagée ;
-- **À valider** : la décision nécessite un examen ou un accord ;
-- **Accepté** : la décision a été retenue ;
-- **Appliqué** : la modification a été effectuée ;
-- **Vérifié** : les effets attendus ont été contrôlés ;
-- **À réexaminer** : de nouveaux éléments justifient une nouvelle analyse.
+| Priorité | Ressource | Intervention | Statut |
+|---|---|---|---|
+| 1 | `fr/tdm.md` | Distinguer les quatre ensembles des catégories de regroupement. | À effectuer |
+| 1 | `fr/plateau-d-enquete.md` | Reprendre l'ancienne liste des cinq fonctions transversales et l'aligner sur l'architecture actuelle. | À effectuer |
+| 1 | `html/architecture-fonctionnelle-de-l-enquete.html` | Déterminer le mode de publication puis corriger ou régénérer la version HTML. | À examiner |
+| 2 | `pattern-audit.md` | Examiner la compatibilité entre sa fonction documentaire et le statut transversal d'Auditer. | À examiner |
+| 2 | `fr/tdm.md` | Vérifier les intitulés et les formulations qui conservent un vocabulaire de cheminement linéaire. | À effectuer |
+| 2 | Versions HTML | Rechercher d'autres divergences avec les sources Markdown actuelles. | À effectuer |
+| 3 | Pages consacrées à l'explication | Examiner le statut de l'explication selon ses usages. | À examiner |
+| 3 | Pages consacrées à l'audit | Vérifier la distinction entre fonction transversale, réflexivité et examen éditorial. | À examiner |
+| 3 | Pages consacrées à l'épreuve | Vérifier la distinction entre exigence générale et instruments particuliers. | À examiner |
+| 4 | Études de cas | Examiner les ressources effectivement mobilisées et les résultats obtenus. | À poursuivre |
+| 4 | Régimes et registres | Examiner les frontières conceptuelles à partir des usages effectifs. | À poursuivre |
 
-Le registre n'a pas besoin de reproduire toutes les observations de l'audit. Il doit surtout conserver les décisions dont les conséquences dépassent une correction locale.
+Le statut « à effectuer » indique qu'une intervention est retenue mais non réalisée. Il ne doit pas être remplacé par « appliqué » avant modification effective du dépôt.
 
-## 10. Limites de l'audit
+Une intervention ne peut être déclarée vérifiée qu'après contrôle des ressources dépendantes.
 
-L'audit est un instrument de cohérence éditoriale et conceptuelle. Il ne garantit ni la vérité d'une description ni la validité de toutes les conclusions du corpus.
+## 8. Conditions de clôture d'une intervention
 
-Une architecture claire peut organiser des propositions inadéquates. Une terminologie stable peut maintenir une distinction mal fondée. Un lien correct peut relier des pages dont les engagements restent incompatibles.
+Une intervention peut être considérée comme traitée lorsque :
 
-Inversement, une différence de vocabulaire ou une tension apparente ne suffit pas à établir une incohérence. Il faut examiner le problème traité, les fonctions des pages, les conditions des propositions et la portée des conclusions.
+1. les fichiers concernés ont été consultés dans leur version actuelle ;
+2. le problème a été formulé précisément ;
+3. la décision a été explicitée ;
+4. la modification a été appliquée lorsqu'elle était nécessaire ;
+5. les liens et les références concernés ont été contrôlés ;
+6. les ressources dépendantes ont été examinées ;
+7. les versions publiées ont été vérifiées lorsqu'elles existent ;
+8. les limites du contrôle restant sont signalées.
 
-L'audit ne décide pas à la place de l'enquête. Il rend les difficultés plus visibles, les décisions plus explicites et les révisions plus faciles à contrôler.
+La clôture d'une intervention ne signifie pas que la notion ou la distinction concernée est définitivement stabilisée.
 
-## Synthèse
+Elle signifie que le problème identifié a reçu un traitement explicite au regard des éléments disponibles.
 
-L'audit du corpus Protokin examine la fonction des pages, les distinctions qu'elles mobilisent, les relations qu'elles entretiennent et les conséquences éditoriales de ces relations.
+## 9. Limites du présent document
 
-Il s'appuie sur les patterns de `patterns.md` sans reproduire leurs consignes de rédaction. Il permet d'identifier les recouvrements fonctionnels, les dépendances implicites, les tensions conceptuelles, les conversions injustifiées et les défauts de navigation.
+Ce document ne constitue pas une validation philosophique générale de Protokin.
 
-Sa règle directrice reste :
+Il ne démontre ni la vérité de ses propositions, ni l'universalité de ses distinctions, ni la fécondité de toutes ses ressources.
 
-**Identifier la contribution propre de chaque page, examiner ses relations avec le corpus et justifier toute modification par le problème effectivement constaté.**
+Il consigne un état documentaire et les résultats d'examens déterminés. Sa portée dépend des fichiers consultés, de la version du dépôt et de l'étendue des vérifications réalisées.
+
+Il ne doit pas conduire à considérer que toute difficulté nécessite une nouvelle catégorie, une nouvelle opération ou une nouvelle page.
+
+Une distinction peut être maintenue, précisée, modifiée ou abandonnée. Une absence de développement peut être préférable à une formalisation inutile.
+
+De même, la cohérence documentaire ne garantit pas la fécondité méthodologique. Un corpus peut être bien organisé sans que ses ressources permettent encore de traiter de manière satisfaisante les situations examinées.
+
+Cette différence doit rester visible dans les constats et les conclusions.
+
+## 10. Principe de révision
+
+Le corpus Protokin est un ensemble de ressources révisables.
+
+Son organisation ne doit pas être protégée contre l'examen auquel elle soumet les pratiques descriptives.
+
+Les catégories, les opérations, les orientations, les aspects transversaux, les instruments et les notions doivent pouvoir être réexaminés à partir de leurs usages effectifs.
+
+Les documents qui organisent le corpus sont eux-mêmes concernés. Le présent document ne constitue pas une position extérieure ou définitive à partir de laquelle le projet serait évalué.
+
+Il doit être actualisé lorsque :
+
+- une distinction structurante est modifiée ;
+- une page de référence est réécrite ;
+- une divergence documentaire est corrigée ;
+- une intervention importante est appliquée ;
+- une étude de cas conduit à réviser les ressources existantes ;
+- un constat antérieur n'est plus valable.
+
+**L'objectif de ce suivi n'est pas d'achever l'organisation du corpus, mais de rendre visibles les raisons de ses choix, les difficultés qu'il rencontre et les modifications qui permettent de maintenir ses ressources ouvertes à l'examen.**
