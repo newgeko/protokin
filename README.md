@@ -8,23 +8,23 @@
 
 Nous décrivons des situations, des événements, des organismes et des pratiques au moyen de distinctions, de catégories, de relations et de critères.
 
-Ces ressources peuvent devenir insuffisantes : une distinction ne permet plus de différencier certains cas, une catégorie s'applique difficilement à une situation nouvelle, plusieurs descriptions entrent en conflit ou une conclusion ne trouve plus de justification satisfaisante.
+Ces ressources peuvent devenir insuffisantes. Une distinction ne permet plus de différencier certains cas, une catégorie s'applique difficilement à une situation nouvelle, plusieurs descriptions entrent en conflit ou une conclusion ne trouve plus de justification satisfaisante.
 
 **Protokin organise des ressources pour rendre examinables ces difficultés descriptives.**
 
-Il permet d'examiner les conditions dans lesquelles les pratiques identifient ce dont elles parlent, établissent des différences, construisent des relations, produisent des descriptions et justifient leurs conclusions.
+Il propose des repères pour examiner les conditions dans lesquelles les pratiques identifient ce dont elles parlent, établissent des différences, construisent des relations, produisent des descriptions et justifient leurs conclusions.
 
-Son objet n'est pas de représenter l'ensemble du processus d'enquête ni de proposer une méthode universelle. Il consiste à fournir des ressources pour examiner les difficultés descriptives rencontrées dans des enquêtes situées, sans présupposer une ontologie générale ni considérer que la cohérence d'une description suffit à garantir son adéquation.
+Protokin ne cherche ni à représenter l'ensemble du processus d'enquête ni à proposer une méthode universelle. Il organise des ressources mobilisables dans des enquêtes situées, sans présupposer une ontologie générale ni considérer que la cohérence d'une description suffit à garantir son adéquation.
 
 ## Objet et orientation
 
 Protokin prend pour objet les pratiques descriptives et les conditions dans lesquelles elles produisent, utilisent et transforment leurs descriptions.
 
-Les pratiques descriptives sont historiquement situées. Elles héritent de catégories, de distinctions, de critères et de manières de parler qui se sont formés et transformés dans des contextes déterminés. Leur examen engage ainsi plusieurs dimensions interdépendantes : les rapports temporels dans lesquels elles s'inscrivent, les activités de connaissance qu'elles mobilisent et les ressources langagières au moyen desquelles elles identifient, distinguent et caractérisent ce dont elles parlent.
+Ces pratiques sont historiquement situées. Elles héritent de catégories, de distinctions, de critères et de manières de parler qui se sont formés et transformés dans des contextes déterminés. Leur examen peut ainsi porter sur les temporalités dans lesquelles elles s'inscrivent, les activités de connaissance qu'elles mobilisent et les ressources langagières au moyen desquelles elles identifient, distinguent et caractérisent ce dont elles parlent.
 
-Ces dimensions ne constituent ni trois domaines autonomes ni des composantes supplémentaires de l'architecture fonctionnelle. Elles désignent différents aspects des pratiques descriptives que l'enquête peut avoir à distinguer et à mettre en relation. Les théories du temps, de la connaissance et du langage peuvent contribuer à leur examen, sans déterminer à l'avance la manière dont une enquête doit être conduite.
+Ces différents aspects ne constituent ni des domaines autonomes ni des composantes supplémentaires de l'architecture fonctionnelle. Ils désignent des dimensions des pratiques descriptives que l'enquête peut avoir à distinguer et à mettre en relation. Les théories du temps, de la connaissance et du langage peuvent contribuer à leur examen sans déterminer à l'avance la manière dont une enquête doit être conduite.
 
-Il ne cherche pas à établir une ontologie générale destinée à fixer par avance ce que sont les choses, les objets ou les relations. Cette réserve méthodologique ne signifie ni que les pratiques produisent intégralement ce qu'elles décrivent, ni qu'elles seraient dépourvues de tout engagement concernant ce qui existe.
+Protokin ne cherche pas à établir une ontologie générale destinée à fixer par avance ce que sont les choses, les objets ou les relations. Cette réserve méthodologique ne signifie ni que les pratiques produisent intégralement ce qu'elles décrivent, ni qu'elles seraient dépourvues de tout engagement concernant ce qui existe.
 
 Les situations examinées peuvent opposer des contraintes aux descriptions qui prétendent les caractériser. Les affirmations portant sur l'existence, l'identification ou les propriétés de ce qui est décrit peuvent elles-mêmes devenir des objets d'enquête.
 
@@ -50,7 +50,7 @@ L'enquête repose sur une exigence :
 
 Des dimensions différentes peuvent dépendre les unes des autres sans remplir la même fonction. Une relation causale peut contribuer à expliquer une situation ; elle ne constitue pas, à elle seule, une raison de tenir une affirmation pour justifiée. Une condition peut intervenir dans la production d'un phénomène sans constituer automatiquement un critère d'évaluation. Une description peut remplir une fonction utile sans que cette utilité suffise à établir son adéquation.
 
-Ces distinctions ne désignent pas des domaines indépendants et n'interdisent pas les passages entre les questions examinées. Elles indiquent plutôt qu'une réponse établie sous un certain rapport ne peut pas être transférée automatiquement à un autre.
+Ces distinctions ne désignent pas des domaines indépendants et n'interdisent pas les passages entre les questions examinées. Elles indiquent qu'une réponse établie sous un certain rapport ne peut pas être transférée automatiquement à un autre.
 
 Un passage reste possible, mais il doit être explicité et justifié. Il faut alors examiner les éléments, les relations et les raisons qui autorisent la conclusion dans le registre auquel on passe.
 
@@ -73,7 +73,7 @@ L'[architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-
 Elle distingue quatre ensembles de ressources :
 
 - **Les opérations** désignent les travaux d'examen entrepris pour traiter une difficulté descriptive.
-- **Les orientations** précisent sous quel rapport une situation, une pratique ou un résultat est examiné.
+- **Les orientations** précisent sous quel rapport une situation, une pratique, une opération ou un résultat est examiné.
 - **Les dimensions transversales** désignent des aspects de l'enquête susceptibles d'être pris en compte dans plusieurs opérations et sous différentes orientations.
 - **Les instruments d'épreuve** fournissent des moyens particuliers pour confronter des descriptions, des distinctions ou des conclusions à un examen.
 
@@ -93,9 +93,7 @@ Elles désignent des travaux d'examen de second ordre portant sur les pratiques 
 
 Leur ordre de présentation ne fixe pas l'ordre du travail. Elles peuvent être mobilisées séparément ou conjointement, reprises ou laissées de côté selon la difficulté rencontrée.
 
-Les quatre regroupements parfois utilisés pour faciliter leur lecture — cadrage du problème, analyse des différences et des relations, construction descriptive et examen justificatif, reconstitution et révision du problème — sont de simples repères documentaires. Ils ne constituent pas une catégorie supplémentaire de ressources.
-
-Les opérations de Protokin ne se confondent pas avec les activités des pratiques étudiées. Mesurer, classer, interpréter, décider, observer ou produire une assertion sont des activités susceptibles d'être examinées. Les opérations de Protokin portent sur les conditions, les fonctions, les relations et les justifications de telles activités.
+Les opérations de Protokin ne se confondent pas avec les activités des pratiques étudiées. Mesurer, classer, interpréter, décider, observer ou produire une assertion sont des activités susceptibles d'être examinées. Les opérations portent sur les conditions, les fonctions, les relations et les justifications de telles activités.
 
 Voir [Les opérations de référence et leurs articulations](fr/la-chaine-principale-de-l-enquete.md).
 
@@ -105,28 +103,34 @@ Quatre orientations de référence sont actuellement développées :
 
 - **Condition** — examiner les conditions, les contraintes et les appuis dont dépend une situation ou une pratique.
 - **Relation** — examiner les rapports, les dépendances et les transformations qui unissent les éléments considérés.
-- **Fonction** — examiner le rôle et le travail accomplis par un élément dans une pratique déterminée.
-- **Justification** — examiner les raisons, les critères et les engagements susceptibles de soutenir une description ou une conclusion.
+- **Fonction** — examiner le rôle et la contribution d'un élément dans une pratique ou une configuration déterminée.
+- **Justification** — examiner les raisons, les critères et les inférences susceptibles de soutenir une description ou une conclusion.
 
-Ces quatre orientations ne sont pas strictement symétriques. Condition, Relation et Fonction permettent d'examiner différents rapports relatifs à une situation ou à une pratique. Justification porte sur les raisons, les critères et les engagements qui permettent de soutenir les affirmations produites à leur sujet. Elle peut également contribuer à l'examen des résultats obtenus sous les autres orientations.
+Les orientations ne désignent pas des activités supplémentaires. Elles précisent les rapports sous lesquels une situation ou une pratique peut être interrogée.
 
-Une orientation ne désigne pas une activité supplémentaire à effectuer. Elle précise un rapport de questionnement qui peut conduire à mobiliser une ou plusieurs opérations.
+Elles ne se confondent pas avec les opérations. Une même opération peut contribuer à plusieurs orientations ; une orientation peut nécessiter plusieurs opérations. Ainsi, l'orientation Relation ne se confond pas avec l'opération Relier, pas plus que l'orientation Justification ne se confond avec l'opération Justifier.
 
-Une même opération peut contribuer à plusieurs orientations. Une orientation peut, inversement, nécessiter plusieurs opérations. Il n'existe donc pas de correspondance fixe entre les deux.
+Les quatre orientations ne sont pas strictement symétriques. Condition, Relation et Fonction permettent d'examiner différents rapports relatifs à une situation ou à une pratique. Justification porte sur les raisons, les critères et les engagements qui permettent de soutenir ou de contester les affirmations produites à leur sujet.
 
 Voir [Orientation de l'examen](fr/orientation-de-l-examen.md).
 
-### Les fonctions transversales
+### Les dimensions transversales de l'enquête
 
-Les fonctions transversales actuellement identifiées sont :
+Cinq dimensions transversales sont actuellement distinguées :
 
-**Temporaliser · Expliquer · Auditer · Réfléchir · Éprouver.**
+- **Temporalité** — examiner les rapports entre le déroulement effectif des événements, les anticipations formulées depuis une situation donnée et les reconstructions rétrospectives.
+- **Explication** — examiner les processus, les mécanismes et les facteurs invoqués pour rendre compte de la production ou de la transformation d'une situation.
+- **Audit** — examiner la cohérence, les présupposés, les inférences, les incompatibilités et les engagements d'une description ou d'un dispositif.
+- **Réflexivité** — examiner les conditions, les choix, les limites et les effets de l'activité descriptive et de l'enquête elle-même.
+- **Épreuve** — examiner la confrontation des descriptions et des résultats aux situations, aux faits et aux difficultés susceptibles de les confirmer, de les limiter ou de les contester.
 
-Elles désignent des modalités de travail susceptibles d'intervenir dans plusieurs opérations et sous différentes orientations. Elles ne constituent ni une seconde série d'opérations ni des étapes supplémentaires.
+Ces dimensions désignent des aspects de l'enquête susceptibles d'être pris en compte dans plusieurs opérations et sous différentes orientations. Elles ne constituent ni des opérations supplémentaires ni des étapes particulières de l'examen.
 
-Ces fonctions ne sont pas homogènes quant à leur objet immédiat. Leur caractère transversal tient à leur possibilité d'intervention dans plusieurs travaux d'examen, et non à une nature ou à une fonction identique. Elles ne sont pas nécessairement mobilisées dans chaque opération.
+Elles ne sont pas homogènes par leur objet et ne sont pas nécessairement mobilisées dans chaque enquête. Leur pertinence dépend des difficultés rencontrées et des questions effectivement posées.
 
-Leur intervention dépend des difficultés rencontrées. Elles ne doivent donc pas être présupposées comme des exigences systématiques de toute enquête.
+Elles doivent également être distinguées des instruments d'épreuve. La dimension Épreuve désigne un aspect de l'examen ; les instruments tels que la substitution, le cas et la comparaison fournissent des moyens particuliers pour conduire cette confrontation.
+
+Les dimensions transversales de l'enquête ne se confondent pas avec les dimensions de la connaissance présentées dans l'architecture fonctionnelle.
 
 ### Les instruments d'épreuve
 
@@ -140,7 +144,7 @@ Ces instruments fournissent des moyens de confrontation. Ils ne produisent pas m
 
 La **Reprise** n'est pas un instrument de même type. Elle désigne une modalité générale de réexamen d'une opération, d'une description, d'une distinction ou d'une conclusion à la lumière d'une difficulté, d'une objection ou d'un nouvel élément.
 
-> Les cinq dimensions transversales actuellement distinguées sont **Temporalité, Explication, Audit, Réflexivité et Épreuve**. Elles permettent de prendre en compte différents aspects de l'enquête sans introduire de nouvelles opérations ni imposer une grille systématique. Leur mobilisation dépend des difficultés rencontrées.
+Voir [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) pour les définitions et les articulations détaillées de ces ressources.
 
 ## Une enquête située et révisable
 
@@ -182,7 +186,7 @@ Les pages suivantes proposent des entrées complémentaires dans le corpus. Elle
 ### Comprendre les deux architectures
 
 - [Architecture du projet](fr/architecture-projet.md) — Présenter l'organisation documentaire du corpus, les fonctions des pages et leurs relations.
-- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Présenter les opérations, les orientations, les fonctions transversales et les instruments d'épreuve.
+- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Présenter les opérations, les orientations, les dimensions transversales et les instruments d'épreuve.
 - [Orientation de l'examen](fr/orientation-de-l-examen.md) — Préciser les rapports sous lesquels une situation ou une pratique peut être examinée.
 - [Les opérations de référence et leurs articulations](fr/la-chaine-principale-de-l-enquete.md) — Détailler les opérations et leurs articulations.
 
