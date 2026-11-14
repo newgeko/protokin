@@ -134,11 +134,11 @@ Ces ressources s'articulent sans se convertir les unes dans les autres :
 
 ## Synthèse
 
-L'architecture fonctionnelle distingue quatre ensembles de ressources : les **opérations**, les **orientations**, les **fonctions transversales** et les **instruments d'épreuve**. Les catégories regroupent certaines opérations pour faciliter leur repérage ; elles ne constituent pas un ensemble supplémentaire.
+L'architecture fonctionnelle distingue quatre ensembles de ressources : les **opérations**, les **orientations**, les **dimensions transversales** et les **instruments d'épreuve**. Les catégories regroupent certaines opérations pour faciliter leur repérage ; elles ne constituent pas un ensemble supplémentaire.
 
-Les opérations désignent les travaux d'examen ; les orientations précisent les rapports sous lesquels les situations et les pratiques peuvent être interrogées ; les fonctions transversales désignent des modalités de travail susceptibles d'intervenir dans plusieurs opérations ; les instruments fournissent des moyens particuliers de confrontation.
+Les opérations désignent les travaux d'examen ; les orientations précisent les rapports sous lesquels les situations et les pratiques peuvent être interrogées ; les dimensions transversales désignent les aspects de l'enquête susceptibles d'être pris en compte dans plusieurs opérations et sous différentes orientations ; les instruments fournissent des moyens particuliers de confrontation.
 
-La Reprise désigne une modalité générale de réexamen. Les cinq dimensions de la connaissance précisent certains aspects des activités examinées ; elles ne constituent ni des opérations ni des étapes de l'enquête.
+La Reprise désigne une modalité générale de réexamen. Les dimensions de la connaissance précisent certains aspects des activités examinées ; elles ne se confondent pas avec les dimensions transversales de l'enquête.
 
 Ces ressources peuvent être articulées sans être ramenées les unes aux autres. Leur mobilisation dépend des difficultés rencontrées et leur organisation reste révisable.
 
