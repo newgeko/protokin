@@ -1,8 +1,8 @@
 # Protokin 🧭
 
-> **L’Intelligence des Stabilisations**
+> **Enquête sur les pratiques descriptives**
 >
-> Une démarche d’enquête pragmatiste, inférentialiste, réflexive et méthodologiquement non ontologique sur les pratiques descriptives.
+> Une démarche pragmatiste, inférentialiste et réflexive, méthodologiquement non ontologique.
 
 ## Présentation
 
