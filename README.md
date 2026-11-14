@@ -60,13 +60,11 @@ Cette architecture distingue plusieurs ensembles qui ne remplissent pas la même
 
 ### Les opérations
 
-Les opérations désignent les activités descriptives mobilisées pour traiter une difficulté :
+**Les opérations** désignent les travaux d'examen de second ordre par lesquels l'enquête examine les pratiques descriptives et les difficultés qu'elles rencontrent.
 
-**Délimiter · Ancrer · Distinguer · Relier · Configurer · Justifier · Reconstituer · Redélimiter.**
+Elles permettent notamment de préciser le problème examiné, d'étudier les conditions et les fonctions des pratiques concernées, d'établir des différences, d'examiner les relations et les justifications, d'organiser les éléments retenus et de réexaminer les résultats.
 
-Elles permettent notamment de préciser le problème examiné, de situer les pratiques concernées, d'établir des différences, d'organiser les relations et de réexaminer les résultats.
-
-Elles ne constituent pas les étapes obligatoires d'une procédure. Elles peuvent être mobilisées séparément, conjointement ou reprises selon les difficultés rencontrées.
+Elles ne se confondent pas avec les activités des pratiques étudiées. Mesurer, observer, classer, interpréter, décider ou produire une assertion sont des activités susceptibles d'être examinées ; les opérations désignent les travaux par lesquels l'enquête les examine.
 
 ### Les orientations
 
