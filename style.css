@@ -881,6 +881,25 @@ textarea:focus-visible {
 }
 
 
+/* Hamburger Docsify : fond stable dans tous les états */
+.sidebar-toggle,
+.sidebar-toggle:hover,
+.sidebar-toggle:focus,
+.sidebar-toggle:focus-visible,
+.sidebar-toggle:active {
+  background: transparent !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+/* Éviter le fond blanc sur les éléments internes */
+.sidebar-toggle span,
+.sidebar-toggle:hover span,
+.sidebar-toggle:focus span,
+.sidebar-toggle:active span {
+  background-color: var(--pk-text) !important;
+}
+
 /* ==========================================================
    FIN DE LA FEUILLE DE STYLE
    ========================================================== */
