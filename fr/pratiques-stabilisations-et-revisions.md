@@ -20,7 +20,9 @@ Le travail peut ensuite être repris sous une forme nominale : une distinction, 
 
 Ce passage n'est pas une simple transformation grammaticale. Il peut modifier le statut pratique de ce qui est désigné : ce qui était un travail effectué devient un résultat susceptible d'être conservé, communiqué, comparé, discuté ou mobilisé dans une autre pratique.
 
-Il faut toutefois distinguer :
+Pour les besoins de l'examen, il est utile de distinguer analytiquement plusieurs fonctions que les termes peuvent remplir dans les pratiques descriptives. Cette distinction ne constitue pas une classification des mots ni une séparation de leurs significations dans le langage courant. Les termes sont polysémiques : un même terme peut désigner une activité, son résultat ou une ressource conceptuelle mobilisée dans d'autres pratiques.
+
+La distinction porte donc sur les fonctions à examiner, et non sur des catégories lexicales étanches :
 
 - **L'activité accomplie** : ce qui a effectivement été fait dans une situation.
 - **L'identification du résultat** : ce qui est reconnu comme ayant été produit ou établi.
@@ -28,6 +30,8 @@ Il faut toutefois distinguer :
 - **La stabilisation conceptuelle** : la constitution d'une ressource suffisamment déterminée pour être reprise dans d'autres descriptions ou raisonnements.
 
 Ces dimensions peuvent être liées sans se confondre. La forme nominale ne garantit ni que le résultat soit correctement identifié ni que les conditions de sa production soient conservées dans sa désignation.
+
+Cette séparation est un outil méthodologique. Elle permet de ne pas confondre l'opération accomplie, le résultat identifié à partir de cette opération et la ressource stabilisée qui peut orienter de nouvelles pratiques. Ces fonctions peuvent être assumées par un même terme, et leur distinction ne préjuge pas de la manière dont les locuteurs les comprennent ou les emploient. Elle sert à examiner ce qui est effectivement fait, ce qui est reconnu comme résultat et ce qui devient disponible pour des usages ultérieurs. La ressource ainsi constituée reste susceptible d'être réexaminée et révisée.
 
 Une nominalisation peut ainsi rendre un résultat disponible tout en laissant dans l'ombre les opérations, les acteurs, les circonstances et les critères qui ont contribué à le produire.
 
