@@ -60,7 +60,7 @@ Lorsque plusieurs accès sont utiles, des renvois peuvent compléter le classeme
 
 ### 2.3. Présenter les opérations comme des ressources mobilisables
 
-Les opérations permettent de retrouver les pages consacrées aux différents travaux descriptifs susceptibles d’intervenir dans une enquête.
+Les opérations permettent de retrouver les pages consacrées aux différents travaux d'examen de second ordre mobilisés pour examiner les pratiques descriptives.
 
 Les opérations actuellement identifiées comprennent :
 
@@ -76,7 +76,7 @@ Le classement doit rendre les opérations accessibles tout en préservant les au
 
 La TDM peut rendre visibles plusieurs types de ressources complémentaires.
 
-- **Opérations** : travaux descriptifs mobilisés pour traiter une difficulté.
+- **Opérations** : travaux d'examen de second ordre mobilisés pour traiter une difficulté descriptive.
 - **Orientations** : rapports sous lesquels une situation, une pratique, une opération ou un résultat peut être examiné.
 - **Ressources de conduite** : pages qui aident à choisir, articuler et reprendre les opérations et les orientations dans une enquête effective.
 
