@@ -229,6 +229,12 @@ Ces ressources permettent d’étudier comment les différences, les catégories
 - [Supports descriptifs externes](fr/supports-descriptifs-externes.md) — Examiner les dispositifs matériels, sémiotiques ou techniques qui conservent, transportent et réactivent des descriptions.
 - [Supports descriptifs institutionnels](fr/supports-descriptifs-institutionnels.md) — Examiner les dispositifs collectifs et organisationnels qui rendent possibles la production, la validation, la transmission et la révision des descriptions.
 
+### F. Nomination, conceptualisation et révision
+
+Ces ressources examinent comment les pratiques descriptives produisent des identifications, des nominations et des stabilisations conceptuelles, comment celles-ci orientent les pratiques ultérieures et dans quelles conditions elles peuvent être maintenues, transformées ou abandonnées.
+
+- [Pratiques, stabilisations et révisions descriptives](fr/pratiques-stabilisations-et-revisions.md) — Examiner les relations entre activités, nominalisations, concepts, effets de stabilisation et révision des pratiques descriptives.
+
 ## VI. Examiner les normes, la validité et la responsabilité
 
 Ces ressources examinent les exigences qui règlent les pratiques descriptives, les conditions d’évaluation des conclusions et les responsabilités associées aux descriptions et à leurs usages.
