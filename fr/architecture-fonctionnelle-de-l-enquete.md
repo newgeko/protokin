@@ -285,9 +285,9 @@ La Reprise ne doit pas être confondue avec la dimension de la connaissance inti
 
 ## 7. Organisation fonctionnelle et transformations dans le temps
 
-L’architecture de l’enquête distingue les ressources selon la fonction qu’elles remplissent. Les opérations désignent des activités descriptives ; les orientations définissent des angles sous lesquels les descriptions peuvent être examinées ; les aspects transversaux désignent des dimensions prises en compte à travers les différentes activités de l’enquête.
+L’architecture de l’enquête distingue les ressources selon la fonction qu’elles remplissent. Les opérations désignent des travaux d’examen de second ordre portant sur les pratiques descriptives. Les orientations précisent les rapports sous lesquels ces pratiques, leurs productions et leurs conditions peuvent être examinées. Les aspects transversaux désignent des dimensions susceptibles d'intervenir dans plusieurs opérations et sous différentes orientations.
 
-Cette différenciation fonctionnelle ne signifie pas que les ressources sont fixes. Leur mobilisation et leur statut peuvent évoluer au cours de l’enquête. Une ressource peut être reprise, révisée ou abandonnée.
+Cette différenciation fonctionnelle ne signifie pas que les ressources sont fixes. Leur mobilisation et leur statut peuvent évoluer au cours de l'enquête. Une ressource peut être reprise, révisée ou abandonnée.
 
 - **Reprendre** une ressource consiste à la mobiliser de nouveau ou à réexaminer son emploi dans une autre situation. La reprise peut confirmer son intérêt, en déplacer la portée ou faire apparaître ses limites.
 - **Réviser** une ressource consiste à modifier sa définition, ses conditions d’emploi ou son articulation avec d’autres ressources, lorsque l’examen révèle que sa formulation ou son usage ne convient plus.
