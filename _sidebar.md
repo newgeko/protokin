@@ -1,5 +1,6 @@
 - [Accueil](README.md)
 - [Introduction générale](fr/introduction-generale.md)
+- Pratiques descriptives de premier ordre
 - [Protokin en une phrase](fr/protokin-en-une-phrase.md)
 - [Parcours de lecture](fr/parcours-de-lecture.md)
 - [Table des matières](fr/tdm.md)
