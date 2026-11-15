@@ -66,17 +66,37 @@ Leur présence dans une même situation ne suffit pas à établir une relation p
 
 La relation doit être caractérisée selon le problème. Elle peut notamment être :
 
-- **temporelle**, lorsqu’il s’agit de préciser l’ordre, la durée ou la simultanéité de plusieurs événements ;
-- **causale**, lorsqu’il s’agit d’examiner si un processus contribue à produire un événement ou un changement ;
-- **matérielle**, lorsqu’il s’agit d’identifier des interactions ou des dépendances entre des processus, des corps, des dispositifs ou des ressources ;
-- **fonctionnelle**, lorsqu’il s’agit d’examiner le rôle d’un élément dans une activité ou un dispositif ;
-- **institutionnelle**, lorsqu’il s’agit d’examiner les rapports institués entre des positions, des règles, des compétences ou des obligations ;
-- **inférentielle**, lorsqu’il s’agit d’examiner les conséquences qu’une affirmation autorise à tirer d’autres affirmations ;
-- **normative**, lorsqu’il s’agit d’examiner les engagements, les obligations ou les habilitations associés à une prise de position.
+- **temporelle**, lorsqu'il s'agit de préciser l'ordre, la durée ou la simultanéité de plusieurs événements ;
+- **causale**, lorsqu'il s'agit d'examiner si un processus contribue à produire un événement ou un changement ;
+- **matérielle**, lorsqu'il s'agit d'identifier des interactions ou des dépendances entre des processus, des corps, des dispositifs ou des ressources ;
+- **fonctionnelle**, lorsqu'il s'agit d'examiner le rôle d'un élément dans une activité ou un dispositif ;
+- **institutionnelle**, lorsqu'il s'agit d'examiner les rapports institués entre des positions, des règles, des compétences ou des obligations ;
+- **inférentielle**, lorsqu'il s'agit d'examiner les conséquences qu'une affirmation autorise à tirer d'autres affirmations ;
+- **normative**, lorsqu'il s'agit d'examiner les engagements, les obligations ou les habilitations associés à une prise de position ;
+- **historique ou de transmission**, lorsqu'il s'agit d'examiner la circulation, la reprise, la traduction, la réappropriation ou la transformation d'une ressource entre des contextes historiquement situés.
 
 Cette liste est indicative et ne constitue pas une classification exhaustive. Plusieurs types de relations peuvent intervenir dans une même situation, mais leur articulation doit être établie plutôt que présupposée.
 
-Il faut également distinguer les relations entre les éléments d’une situation et celles qui concernent les descriptions de cette situation. Une dépendance matérielle entre deux processus ne se confond pas avec une relation inférentielle entre deux propositions, même si les deux peuvent intervenir dans un même examen.
+Il faut également distinguer les relations entre les éléments d'une situation et celles qui concernent les descriptions de cette situation. Une dépendance matérielle entre deux processus ne se confond pas avec une relation inférentielle entre deux propositions, même si les deux peuvent intervenir dans un même examen.
+
+L'examen des relations historiques demande une attention particulière aux différences entre transmission, réappropriation et comparaison.
+
+Une relation historique peut être établie lorsque des matériaux permettent de documenter la circulation d'un texte, d'un récit, d'un concept, d'une pratique ou d'une ressource entre plusieurs contextes. Elle peut également être proposée comme hypothèse lorsque les éléments disponibles rendent cette circulation plausible sans l'attester directement.
+
+Un rapprochement comparatif répond à une autre situation. Il consiste à mettre en relation des éléments en raison de ressemblances, de différences ou de transformations que l'examen permet de dégager. Il ne suppose pas que les éléments comparés aient été historiquement en contact.
+
+Il faut donc distinguer :
+
+- **Transmission** : une circulation ou une reprise historiquement située peut être établie à partir de matériaux.
+- **Réappropriation** : une ressource provenant d'un autre contexte est reprise, mais sa fonction, sa signification ou sa portée peuvent être transformées.
+- **Convergence** : des éléments comparables apparaissent dans des contextes différents sans que leur transmission de l'un à l'autre soit établie.
+- **Analogie comparative** : le chercheur rapproche des éléments pour examiner leurs ressemblances ou leurs différences, sans présupposer une origine ou une filiation commune.
+
+Ces situations peuvent produire des résultats comparatifs proches sans avoir la même portée historique.
+
+Une ressemblance ne suffit donc pas à établir une transmission. Inversement, une transmission documentée ne suffit pas à établir la permanence du sens ou de la fonction d'une ressource.
+
+La nature de la relation doit être précisée à partir des matériaux disponibles et des conclusions qu'ils autorisent.
 
 ### 3. Dans quelles conditions la relation tient-elle ?
 
