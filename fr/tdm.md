@@ -43,7 +43,7 @@ Les opérations constituent un répertoire de travaux d’examen. Leur ordre de 
 - [La chaîne principale de l’enquête](fr/la-chaine-principale-de-l-enquete.md) — Présenter les opérations de référence et leurs articulations possibles.
 - [Conduire une enquête](fr/conduire-une-enquete.md) — Donner des repères pour mobiliser et reprendre les ressources de Protokin dans une situation concrète.
 - [Modes d’intervention de l’enquête](fr/modes-d-intervention-de-l-enquete.md) — Examiner comment les ressources sont sélectionnées, combinées, confrontées et reprises.
-- [Plateau d’enquête](fr/plateau-d-enquete.md) — Présenter un dispositif graphique facultatif pour représenter les occurrences des travaux d’examen et les relations établies ou reconstruites entre eux.
+- [Plateau d’enquête](fr/plateau-d-enquete.md) - Présenter un dispositif graphique facultatif pour représenter les occurrences des travaux d’examen et les relations établies ou reconstruites entre eux.
 - [Articulation des orientations et des opérations](fr/orientation-et-chemin-de-l-enquete.md) — Examiner la distinction entre les angles sous lesquels une difficulté est étudiée et les travaux mobilisés pour la traiter.
 - [Résultats de l’enquête](fr/resultats-de-l-enquete.md) — Distinguer les configurations élaborées, les conclusions justifiées et les possibilités de révision.
 - [Gain analytique](fr/gain-analytique.md) — Apprécier la différence identifiable et justifiée que le travail d'examen apporte aux possibilités de compréhension, de distinction, de confrontation et de révision d'une situation.
@@ -202,7 +202,7 @@ Ces ressources permettent d’étudier comment les différences, les catégories
 - [Catégories](fr/categories.md) — Examiner comment une pratique regroupe ou distingue des occurrences selon les différences jugées pertinentes.
 - [Taxonomies](fr/taxonomies.md) — Examiner les relations entre catégories, notamment l’inclusion, la différenciation, l’opposition et la complémentarité.
 - [Thème](fr/theme.md) — Examiner le regroupement de récits autour d'un sujet commun et les conditions de leur comparaison.
-- [De la notion au concept](fr/de-la-notion-au-concept.md) — Examiner les conditions dans lesquelles une notion doit être davantage déterminée.
+- [De la notion au concept](fr/de-la-notion-au-concept.md) — Examiner comment les termes, les notions et les concepts sont déterminés, comment un même terme peut recevoir plusieurs déterminations conceptuelles et quelles fonctions les concepts remplissent dans les pratiques.
 - [Motif](fr/motif.md) — Distinguer les motifs qui conduisent un agent à agir, les causes d’une conduite et les raisons susceptibles de la justifier.
 - [Qualification morale : cette personne est mauvaise](fr/cette-personne-est-mauvaise.md) — Examiner les fonctions descriptives et évaluatives d’une qualification morale.
 
