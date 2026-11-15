@@ -54,6 +54,20 @@ Inversement, un même concept peut être désigné par plusieurs expressions sel
 
 Il faut ainsi éviter de déduire une identité conceptuelle de la seule identité lexicale, ou une différence conceptuelle de la seule variation des mots employés.
 
+**Deux cadres d'emploi : terminologie et logique**
+
+Le terme peut être examiné dans plusieurs cadres théoriques.
+
+Dans **une terminologie spécialisée**, il désigne une expression employée pour donner accès à un concept dans un domaine déterminé. Cette relation entre terme et concept facilite la communication, le classement et la transmission des connaissances. Elle ne garantit cependant ni que le concept soit univoque, ni que ses conditions d'application soient définitivement fixées. Un terme spécialisé peut faire l'objet de désaccords, de révisions ou de différenciations conceptuelles.
+
+Dans **la logique et la philosophie du langage**, le terme reçoit des significations plus techniques, qui varient selon les cadres d'analyse. Certaines distinctions portent notamment sur les expressions singulières, qui servent à désigner un individu, et les expressions générales, qui peuvent s'appliquer à plusieurs individus. D'autres analyses distinguent les expressions qui désignent, celles qui prédiquent et celles qui contribuent à la formation d'une proposition.
+
+Ces distinctions ne constituent pas une définition générale du terme. Elles précisent les fonctions que certaines expressions peuvent remplir dans un système logique ou une analyse sémantique.
+
+Pour l'examen des pratiques descriptives, il importe donc de ne pas déduire la fonction d'une expression de sa seule forme linguistique ou de son classement terminologique. Il faut examiner comment elle est employée, ce qu'elle permet d'affirmer, les critères associés à son application et les conséquences qui en découlent.
+
+Le statut terminologique ou logique d'une expression constitue ainsi un point de départ possible pour l'examen, non une détermination suffisante de son emploi dans une pratique.
+
 ### 2.2. La notion
 
 Une notion est une manière de saisir ou de caractériser quelque chose dans une pratique, sans que toutes les distinctions pertinentes, les conditions d'application ou les conséquences de son emploi soient nécessairement explicitées.
