@@ -112,6 +112,7 @@
     - [Écologie des régimes descriptifs](fr/ecologie-des-regimes-descriptifs.md)
     - [Identifier un régime](fr/identifier-un-regime.md)
     - [Une première cartographie des régimes descriptifs](fr/une-premiere-cartographie-des-regimes-descriptifs.md)
+    - [Pensée mythique et intelligibilité](fr/pensee-mythique-et-intelligibilite.md)
     - [Catégories](fr/categories.md)
     - [Taxonomies](fr/taxonomies.md)
     - [Thème](fr/theme.md)
