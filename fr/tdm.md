@@ -199,6 +199,7 @@ Ces ressources permettent d’étudier comment les différences, les catégories
 - [Identifier un régime](fr/identifier-un-regime.md) — Caractériser provisoirement l’organisation effective d’une pratique descriptive à partir des indices disponibles.
 - [Une première cartographie des régimes descriptifs](fr/une-premiere-cartographie-des-regimes-descriptifs.md) — Proposer des repères indicatifs sans constituer une classification des régimes.
 - [Régimes historiques de l’intelligibilité](fr/regimes-historiques-de-l-intelligibilite.md) — Examiner des traditions historiques sans les réduire à une succession homogène.
+- [Régimes culturels et scientifiques d’intelligibilité](regimes-culturels-et-scientifiques-d-intelligibilite.md) — Comparer différents régimes de description sans les réduire à une opposition entre science et croyance.
 - [Pensée mythique et intelligibilité](fr/pensee-mythique-et-intelligibilite.md) — Examiner les opérations de différenciation, de classification, de mise en relation et de transmission dans les récits mythologiques.
 - [Catégories](fr/categories.md) — Examiner comment une pratique regroupe ou distingue des occurrences selon les différences jugées pertinentes.
 - [Taxonomies](fr/taxonomies.md) — Examiner les relations entre catégories, notamment l’inclusion, la différenciation, l’opposition et la complémentarité.
