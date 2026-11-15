@@ -201,6 +201,7 @@ Ces ressources permettent d’étudier comment les différences, les catégories
 - [Régimes historiques de l’intelligibilité](regimes-historiques-de-l-intelligibilite.md) — Examiner des traditions historiques sans les réduire à une succession homogène.
 - [Catégories](categories.md) — Examiner comment une pratique regroupe ou distingue des occurrences selon les différences jugées pertinentes.
 - [Taxonomies](taxonomies.md) — Examiner les relations entre catégories, notamment l’inclusion, la différenciation, l’opposition et la complémentarité.
+- [Thème](theme.md) — Examiner le regroupement de récits autour d'un sujet commun et les conditions de leur comparaison.
 - [De la notion au concept](de-la-notion-au-concept.md) — Examiner les conditions dans lesquelles une notion doit être davantage déterminée.
 - [Motif](motif.md) — Distinguer les motifs qui conduisent un agent à agir, les causes d’une conduite et les raisons susceptibles de la justifier.
 - [Qualification morale : cette personne est mauvaise](cette-personne-est-mauvaise.md) — Examiner les fonctions descriptives et évaluatives d’une qualification morale.
