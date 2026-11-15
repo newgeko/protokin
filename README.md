@@ -108,6 +108,7 @@ Les ressources suivantes constituent des points d'entrée dans le corpus.
 - [Architecture du projet](fr/architecture-projet.md) — Comprendre l'organisation documentaire.
 - [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Comprendre les ressources fonctionnelles de l'examen.
 - [Orientation de l'examen](fr/orientation-de-l-examen.md) — Examiner les différents rapports de questionnement.
+- [Pratiques, stabilisations et révisions descriptives](fr/pratiques-stabilisations-et-revisions.md) — Examiner comment les pratiques produisent des identifications, des nominations et des stabilisations conceptuelles qui orientent les descriptions ultérieures et peuvent être révisées.
 - [Les opérations de référence et leurs articulations](fr/la-chaine-principale-de-l-enquete.md) — Consulter les opérations et leurs relations.
 
 ### Conduire et approfondir une enquête
