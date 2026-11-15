@@ -267,4 +267,22 @@ Reconstituer mobilise les résultats des autres opérations sans les remplacer.
 - **Justifier** permet d'examiner les raisons, les critères et les inférences mobilisés pour soutenir les conclusions.
 - **Redélimiter** permet de retrouver les reformulations du problème lorsque les travaux ont révélé les limites de sa formulation initiale.
 
-Ces relations ne définissent pas une succession obligatoire. Une reconstitution peut conduire à reprendre une opération antérieure lorsqu'une transformation reste 
+Ces relations ne définissent pas une succession obligatoire. Une reconstitution peut conduire à reprendre une opération antérieure lorsqu'une transformation reste insuffisamment comprise, lorsqu'un appui doit être réexaminé ou lorsqu'une relation reconstruite ne résiste pas à l'examen de nouveaux éléments.
+
+Reconstituer ne clôt donc pas nécessairement l'enquête. La reconstruction de son organisation peut conduire à reprendre certains travaux, à réexaminer leurs résultats ou à redélimiter le problème.
+
+### Reconstituer et établir une relation historique
+
+Une enquête peut porter sur les reprises, les transmissions ou les transformations de ressources descriptives entre plusieurs traditions. Reconstituer son organisation exige alors de distinguer les relations historiques qu'elle cherche à établir des rapprochements qu'elle construit pour les examiner.
+
+Il faut notamment différencier :
+
+- **La transmission documentée** : des textes, des témoignages, des citations, des traductions ou d'autres traces permettent d'établir la circulation d'une ressource entre des contextes déterminés.
+- **La relation historique inférée** : plusieurs éléments permettent de proposer une hypothèse de transmission, de reprise ou de réappropriation, sans que celle-ci soit directement attestée.
+- **Le rapprochement comparatif** : le chercheur met en relation des éléments présentant des ressemblances ou des différences, sans prétendre établir une transmission historique entre eux.
+
+Ces trois situations ne possèdent pas le même statut. Une ressemblance entre deux récits ou deux interprétations ne démontre pas qu'une tradition a emprunté à l'autre. Une relation de transmission établie ne démontre pas davantage que la ressource transmise a conservé sa signification ou sa fonction initiale.
+
+La reconstitution doit donc rendre visibles les matériaux, les inférences et les choix comparatifs qui interviennent dans l'enquête. Elle ne doit pas transformer une analogie en filiation historique ni une hypothèse de transmission en fait établi.
+
+**Reconstituer l'organisation d'une enquête sur une relation historique ≠ établir par soi-même cette relation historique.**
