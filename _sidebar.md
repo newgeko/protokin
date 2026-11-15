@@ -23,6 +23,7 @@
   - [Conduire une enquête](fr/conduire-une-enquete.md)
   - [Plateau d’enquête](fr/plateau-d-enquete.md)
   - [Orientations et chemin de l’enquête](fr/orientation-et-chemin-de-l-enquete.md)
+  - [Gain analytique](fr/gain-analytique.md)
   - **Opérations**
     - [Délimiter](fr/delimiter.md)
     - [Ancrer](fr/ancrer.md)
