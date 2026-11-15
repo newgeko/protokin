@@ -193,6 +193,27 @@ Cette combinaison ne suppose pas que les traditions concernées deviennent équi
 
 Il faut examiner les conditions concrètes de cette mobilisation, les fonctions des ressources reprises et les tensions éventuelles entre leurs engagements.
 
+### 5.6. Comparaison et convergence
+
+L'examen comparatif peut mettre en relation des récits, des concepts, des pratiques ou des formes d'intelligibilité provenant de traditions différentes.
+
+Un tel rapprochement peut faire apparaître des ressemblances, des oppositions, des correspondances ou des transformations. Il ne démontre cependant pas que les traditions concernées ont entretenu des relations historiques.
+
+Plusieurs situations doivent être distinguées :
+
+- une ressource a circulé d'une tradition vers une autre et cette transmission peut être documentée ;
+- une ressource a été reprise puis réinterprétée dans un nouveau contexte ;
+- des éléments comparables sont apparus dans des contextes distincts, sans transmission établie ;
+- le chercheur construit un rapprochement analytique pour examiner des ressemblances ou des différences.
+
+Ces situations peuvent produire des résultats comparatifs proches sans avoir la même portée historique.
+
+La convergence ne doit pas être transformée en filiation. L'analogie ne doit pas être présentée comme une preuve de transmission. Une ressemblance de structure ne suffit pas à établir une identité de fonction ou de signification.
+
+La comparaison constitue une ressource d'examen. Elle permet de formuler des questions sur les relations possibles entre traditions, mais elle ne remplace pas le travail nécessaire pour établir ces relations.
+
+Il faut donc distinguer ce que les matériaux documentent, ce que l'enquête permet d'inférer et ce que le chercheur construit comme rapprochement comparatif.
+
 ## 6. Ne pas convertir l'histoire en hiérarchie
 
 La distinction de ces traditions ne permet pas d'établir une échelle générale de rationalité ou de validité.
