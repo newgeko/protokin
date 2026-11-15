@@ -45,6 +45,7 @@ Les opérations constituent un répertoire de travaux d’examen. Leur ordre de 
 - [Plateau d’enquête](plateau-d-enquete.md) — Présenter un dispositif graphique facultatif pour représenter les occurrences des travaux d’examen et les relations établies ou reconstruites entre eux.
 - [Articulation des orientations et des opérations](orientation-et-chemin-de-l-enquete.md) — Examiner la distinction entre les angles sous lesquels une difficulté est étudiée et les travaux mobilisés pour la traiter.
 - [Résultats de l’enquête](resultats-de-l-enquete.md) — Distinguer les configurations élaborées, les conclusions justifiées et les possibilités de révision.
+- [Gain analytique](gain-analytique.md) — Apprécier la différence identifiable et justifiée que le travail d'examen apporte aux possibilités de compréhension, de distinction, de confrontation et de révision d'une situation.
 
 ### B. Déterminer ce qui est examiné
 
