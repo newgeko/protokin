@@ -254,4 +254,34 @@ Elle n'établit pas :
 
 Les situations rencontrées peuvent imposer des contraintes aux descriptions et aux concepts qui prétendent en rendre compte. L'examen doit pouvoir prendre en considération ces contraintes sans les réduire à des difficultés de formulation.
 
-La stabilité d'une ressource ne vaut donc ni garantie de vérité ni preuve d'adéquation. Sa révision n'est pas davantage une fin en soi 
+La stabilité d'une ressource ne vaut donc ni garantie de vérité ni preuve d'adéquation. Sa révision n'est pas davantage une fin en soi : elle doit répondre à des difficultés et être soutenue par des raisons.
+
+## Synthèse
+
+Les pratiques descriptives produisent des activités, des identifications, des nominations et des stabilisations qui deviennent des ressources pour de nouvelles descriptions.
+
+Les formes verbales, les substantifs et les noms abstraits contribuent différemment à ce mouvement. Leur fonction ne se déduit cependant pas de leur seule morphologie. Elle dépend des usages, des conséquences et des pratiques dans lesquels ils interviennent.
+
+Les stabilisations conceptuelles peuvent orienter les descriptions futures, ouvrir de nouveaux champs de problèmes et produire des effets de cliquet. Elles peuvent également devenir inadéquates lorsque les pratiques effectives font apparaître des difficultés que les ressources disponibles ne permettent plus de traiter.
+
+L'enquête peut alors conduire à maintenir, limiter, réviser ou abandonner certaines stabilisations, mais aussi à créer de nouvelles pratiques et nominations collectives.
+
+**Les stabilisations rendent possibles de nouvelles pratiques descriptives, mais elles ne peuvent se substituer à l'effectivité des situations auxquelles elles se rapportent ni se soustraire à leur réexamen.**
+
+## Pour poursuivre
+
+- [Problème descriptif](fr/probleme-descriptif.md) — Caractériser les difficultés qui rendent nécessaire l'examen des ressources descriptives.
+- [Enquête](fr/enquete.md) — Définir l'examen situé et révisable des pratiques descriptives.
+- [Enquête et organisation des notions](fr/enquete-et-organisation-des-notions.md) — Examiner comment les notions sont mobilisées et peuvent devenir des objets d'enquête.
+- [Objet descriptif](fr/objet-descriptif.md) — Examiner comment une différence devient identifiable et réutilisable.
+- [Stabilisation](fr/stabilisation.md) — Définir le maintien relatif d'une configuration à travers ses reprises et ses variations.
+- [Effet cliquet](fr/effet-cliquet.md) — Examiner les asymétries qui rendent certaines transformations plus difficiles que d'autres.
+- [Sédimentation](fr/sedimentation.md) — Examiner la conservation et la transmission des traces issues de pratiques descriptives.
+- [Temporalité descriptive](fr/temporalite-descriptive.md) — Examiner les héritages, les usages et les transformations des descriptions dans le temps.
+- [Historicité](fr/historicite.md) — Examiner la formation et la transformation historiques des catégories et des critères.
+- [Pratique collective](fr/pratique-collective.md) — Examiner la production, la circulation et la transformation collective des descriptions.
+- [Relations LX et pragmatique de l'explicitation](fr/relations-lx-et-pragmatique-de-l-explicitation.md) — Examiner comment un vocabulaire rend explicites certaines relations et certains engagements d'une pratique.
+- [Fécondité et révisabilité de Protokin](fr/fecondite-et-revisabilite-de-protokin.md) — Examiner les conditions de maintien et de révision des ressources de Protokin.
+- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Situer les ressources mobilisées dans l'examen.
+- [Conduire une enquête](fr/conduire-une-enquete.md) — Disposer de repères pratiques pour reprendre les travaux d'examen.
+- [Table des matières](fr/tdm.md) — Parcourir les ressources du corpus.
