@@ -114,6 +114,7 @@
     - [Une première cartographie des régimes descriptifs](fr/une-premiere-cartographie-des-regimes-descriptifs.md)
     - [Catégories](fr/categories.md)
     - [Taxonomies](fr/taxonomies.md)
+    - [Thème](fr/theme.md)
     - [De la notion au concept](fr/de-la-notion-au-concept.md)
   - **Images manifeste et scientifique**
     - [Image manifeste](fr/image-manifeste.md)
