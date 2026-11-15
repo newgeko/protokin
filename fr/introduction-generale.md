@@ -78,6 +78,12 @@ Les usages des expressions peuvent varier selon les situations, les pratiques et
 
 L'examen peut donc porter sur les conditions d'emploi des termes, les différences qu'ils permettent d'établir, les conséquences associées à leur usage et les contestations auxquelles ils peuvent donner lieu.
 
+Les formes linguistiques participent également à la stabilisation des résultats descriptifs. Une activité peut être désignée par un verbe, puis reprise sous une forme nominale qui rend son résultat identifiable et réutilisable. Des noms abstraits, notamment en « -ité », peuvent à leur tour contribuer à constituer des domaines de questionnement et à orienter les descriptions ultérieures. Ces transformations ne suivent toutefois aucune progression grammaticale ou conceptuelle nécessaire : leur portée dépend des pratiques dans lesquelles elles interviennent.
+
+Les stabilisations ainsi constituées produisent des effets. Elles facilitent la transmission des distinctions, organisent les attentes et ouvrent de nouvelles possibilités de description. Elles peuvent aussi devenir problématiques lorsque les pratiques effectives font apparaître des difficultés que les catégories et les concepts disponibles ne permettent plus de traiter. L'examen peut alors conduire à maintenir, préciser, réviser ou abandonner certaines ressources, voire à construire de nouvelles pratiques et nominations collectives.
+
+Pour approfondir ces relations, voir [Pratiques, stabilisations et révisions descriptives](fr/pratiques-stabilisations-et-revisions.md).
+
 ### 4.4. L'inscription historique des pratiques
 
 Les pratiques descriptives ne se constituent pas indépendamment de leur histoire. Elles héritent de catégories, de distinctions, de critères, de techniques et de manières de parler qui se sont formés et transformés dans des contextes déterminés.
