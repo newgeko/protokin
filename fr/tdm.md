@@ -17,6 +17,7 @@ Ces pages présentent l’objet de Protokin, son orientation méthodologique, se
 - [Présentation générale](../README.md) — Présenter le projet, son orientation et les principales ressources du dépôt.
 - [Protokin en une phrase](protokin-en-une-phrase.md) — Formuler synthétiquement l’objet et la fonction de la démarche.
 - [Introduction générale](introduction-generale.md) — Exposer le problème auquel répond une enquête sur les pratiques descriptives et préciser le statut de cette démarche.
+- Pratiques descriptives de premier ordre — Définir les pratiques descriptives de premier ordre et préciser leur rapport avec les travaux d'examen de second ordre.
 - [Ce que Protokin permet](ce-que-protokin-permet.md) — Décrire les problèmes que la démarche permet d’examiner et les résultats qu’elle peut soutenir.
 - [Fécondité et révisabilité de Protokin](fecondite-et-revisabilite-de-protokin.md) — Préciser comment apprécier la contribution des enquêtes et réviser les ressources du projet.
 - [Ce que Protokin ne prétend pas faire](ce-que-protokin-ne-pretend-pas-faire.md) — Délimiter les conclusions que l’enquête ne peut établir à elle seule.
