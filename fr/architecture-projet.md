@@ -14,7 +14,9 @@ Son principe directeur est le suivant :
 
 ## 1. Deux architectures complémentaires
 
-Protokin distingue deux architectures qui répondent à des problèmes différents.
+Protokin distingue deux architectures complémentaires qui répondent à des problèmes différents : l'une organise le corpus documentaire, l'autre rend intelligible l'organisation fonctionnelle de l'enquête.
+
+Elles ne décrivent pas deux niveaux successifs d'une même procédure. Elles portent sur des réalités distinctes et entretiennent des relations sans se confondre.
 
 ### 1.1. L'architecture du projet
 
@@ -26,26 +28,34 @@ L'architecture du projet organise le corpus documentaire. Elle permet de déterm
 - comment elle est accessible dans la navigation ;
 - quelles autres pages peuvent être affectées par sa révision.
 
-Elle porte sur les documents et leurs relations. Elle ne détermine ni les opérations qu'une enquête doit suivre ni la manière dont une enquête particulière doit être conduite.
+Elle porte sur les documents, leurs fonctions et leurs relations. Elle rend possible la consultation, la compréhension et la révision du corpus.
+
+Elle ne détermine ni les opérations d'une enquête ni les orientations sous lesquelles ces opérations sont mobilisées. Une page consacrée à une opération ou à une orientation constitue une ressource documentaire ; elle ne se confond pas avec le travail d'examen qu'elle présente.
 
 ### 1.2. L'architecture fonctionnelle de l'enquête
 
-L'architecture fonctionnelle présente l'organisation de l'enquête dans Protokin. Elle distingue des composantes qui remplissent des fonctions différentes et dont les relations rendent possible l'examen des difficultés descriptives.
+L'architecture fonctionnelle présente l'organisation des travaux d'examen dans Protokin. Elle distingue des ressources qui remplissent des fonctions différentes et dont les relations permettent d'organiser l'examen des difficultés descriptives.
 
 Elle distingue quatre ensembles :
 
-- **Les opérations** désignent des formes de travail de l'enquête. Elles caractérisent des activités distinctes par leur fonction, sans constituer les étapes d'une procédure.
-- **Les orientations** précisent les rapports sous lesquels une situation, une pratique, une opération ou un résultat peut être examiné.
-- **Les aspects transversaux** désignent des dimensions de l'enquête qui concernent plusieurs opérations et peuvent être examinées sous différentes orientations.
-- **Les instruments d'épreuve** fournissent des moyens particuliers de confronter des descriptions, des distinctions ou des conclusions à un examen.
+- **Les opérations** désignent des travaux d'examen. Elles caractérisent des activités distinctes par leur fonction, sans constituer les étapes d'une procédure.
+- **Les orientations** précisent les rapports sous lesquels une situation, une pratique, une description, une opération ou un résultat est interrogé.
+- **Les dimensions transversales** désignent des dimensions de l'enquête qui concernent plusieurs opérations et peuvent intervenir dans différentes configurations.
+- **Les instruments de confrontation** fournissent des moyens particuliers pour confronter des descriptions, des distinctions ou des conclusions à des éléments susceptibles de les mettre à l'épreuve.
 
-Les catégories regroupent certaines opérations afin d'en faciliter le repérage. Elles ne constituent ni des opérations supplémentaires ni un cinquième ensemble de composantes.
+Les catégories regroupent certaines opérations afin d'en faciliter le repérage. Elles ne constituent ni des opérations supplémentaires ni un ensemble de composantes de même niveau.
 
-Cette architecture ne décrit pas un parcours dans lequel les composantes seraient successivement mobilisées. Elle ne prescrit aucun ordre général de travail. L'enquête est l'organisation de ces composantes, différenciées par leurs fonctions et articulées par les relations qu'elles entretiennent. L'organisation n'est pas un itinéraire à suivre : elle constitue le cadre fonctionnel dans lequel les activités d'examen prennent place.
+Les opérations et les orientations sont distinctes, mais leur mobilisation est constitutivement articulée. Une opération n'intervient jamais indépendamment de tout rapport de questionnement : elle est mobilisée sous une ou plusieurs orientations, même lorsque celles-ci ne sont pas explicitement formulées au commencement du travail.
 
-Les composantes ne sont pas indépendantes. Une opération peut être examinée sous plusieurs orientations ; les aspects transversaux concernent différentes opérations ; les instruments d'épreuve peuvent contribuer à examiner des descriptions ou des résultats produits dans des configurations variées. Ces relations ne définissent pas une succession obligatoire.
+Cette articulation ne correspond pas à une succession obligatoire. L'orientation ne constitue pas nécessairement un préalable entièrement déterminé avant l'opération. Le rapport de questionnement et le travail entrepris peuvent se préciser conjointement. Une opération peut conduire à reformuler une orientation ; une orientation reformulée peut conduire à reprendre une opération ou à en mobiliser une autre.
 
-L'organisation fonctionnelle est elle-même révisable. Une difficulté descriptive peut révéler qu'une distinction est insuffisante, qu'une fonction est mal délimitée ou que les relations entre certaines composantes doivent être précisées. L'architecture doit pouvoir être modifiée lorsque l'examen met au jour ces difficultés.
+Il n'existe pas de correspondance fixe entre les opérations et les orientations. Une même opération peut intervenir sous plusieurs orientations ; une même orientation peut appeler plusieurs opérations. Plusieurs orientations peuvent également être combinées dans un même travail d'examen.
+
+Les dimensions transversales et les instruments de confrontation peuvent intervenir dans ces différentes configurations. Ils ne remplacent ni les opérations ni les orientations et ne déterminent pas à eux seuls leur articulation.
+
+L'enquête constitue ainsi une organisation située de travaux et de ressources autour d'une difficulté descriptive. Cette organisation peut se transformer : les opérations peuvent être reprises, les orientations déplacées ou précisées, les instruments renouvelés et les relations entre les travaux reconstruites.
+
+L'architecture fonctionnelle ne prescrit donc ni un ordre universel ni un parcours obligatoire. Elle permet de distinguer les fonctions des ressources mobilisées et de rendre intelligibles les relations qui organisent une enquête particulière.
 
 #### Les dimensions de la connaissance
 
@@ -59,13 +69,13 @@ L'examen peut porter sur cinq dimensions de la connaissance :
 
 Ces dimensions désignent des aspects interdépendants des activités de connaissance. Elles permettent de différencier des questions relatives à la perception, à l'identification, à l'inférence, à la justification et à la révision.
 
-Elles ne constituent pas des étapes, des opérations supplémentaires ou des composantes fonctionnelles de l'architecture. Elles ne se confondent pas non plus avec les aspects transversaux de l'enquête, qui concernent notamment la temporalité et la réflexivité.
+Elles ne constituent pas des étapes, des opérations supplémentaires ou des composantes fonctionnelles de l'architecture. Elles ne se confondent pas non plus avec les dimensions transversales de l'enquête, qui concernent notamment la temporalité et la réflexivité.
 
 #### Le langage et la connaissance comme objets et ressources de l'examen
 
 Protokin prend en compte les théories du langage et de la connaissance parce que les pratiques descriptives ne consistent pas simplement à enregistrer des propriétés d'un monde déjà découpé et identifié.
 
-Décrire suppose des usages linguistiques, des distinctions conceptuelles, des opérations d'identification, des relations inférentielles et des critères de justification. Les descriptions produites engagent ainsi des manières de reconnaître les situations, de les rendre intelligibles et de soutenir certaines affirmations à leur sujet.
+Décrire suppose des usages linguistiques, des distinctions conceptuelles, des activités d'identification, des relations inférentielles et des critères de justification. Les descriptions produites engagent ainsi des manières de reconnaître les situations, de les rendre intelligibles et de soutenir certaines affirmations à leur sujet.
 
 Les théories du langage permettent notamment d'examiner :
 
@@ -81,7 +91,7 @@ Ces deux domaines sont complémentaires. La cohérence linguistique et inférent
 
 Protokin ne cherche pas à établir une théorie générale du langage ou de la connaissance. Il prend en compte leurs apports pour examiner les pratiques descriptives et les difficultés qu'elles rencontrent. Ces apports ne constituent ni les fondements de l'enquête ni des normes universelles auxquelles toute description devrait se conformer. Les théories mobilisées sont elles-mêmes discutables et révisables.
 
-L'architecture fonctionnelle ne prescrit donc ni une succession universelle d'opérations ni une grille à appliquer systématiquement. Elle organise des fonctions distinctes et les relations entre elles. Les ressources théoriques et conceptuelles ne constituent pas des composantes supplémentaires de cette organisation.
+L'architecture fonctionnelle ne prescrit donc ni une succession universelle d'opérations ni une grille à appliquer systématiquement. Elle organise des travaux d'examen et les rapports de questionnement sous lesquels ils sont conduits. Les ressources théoriques et conceptuelles ne constituent pas des composantes supplémentaires de cette organisation.
 
 Voir [Architecture fonctionnelle de l'enquête](architecture-fonctionnelle-de-l-enquete.md).
 
@@ -93,17 +103,21 @@ Une page possède une fonction documentaire dans le corpus. Elle peut présenter
 
 Il faut notamment distinguer :
 
-- **Les composantes fonctionnelles de l'enquête** : opérations, orientations, aspects transversaux et instruments d'épreuve.
+- **L'architecture documentaire** : elle organise les pages, leurs fonctions et leurs relations dans le corpus.
+- **Les composantes fonctionnelles de l'enquête** : opérations, orientations, dimensions transversales et instruments de confrontation.
+- **Les engagements méthodologiques** : engagements pragmatiste, inférentialiste et réflexif qui caractérisent la démarche générale de Protokin.
 - **Les objets de l'examen** : situations, pratiques, descriptions, éléments matériels, documents, traces ou résultats auxquels l'examen se rapporte.
 - **Les dimensions de la connaissance** : aspects des activités de connaissance que l'examen peut distinguer et mettre en relation.
 - **Les ressources théoriques** : propositions et distinctions issues notamment des théories du langage et de la connaissance, qui contribuent à l'examen sans constituer des composantes supplémentaires de l'architecture.
 - **Les ressources documentaires** : pages qui présentent, définissent, discutent ou examinent ces différents éléments.
 
+Les engagements méthodologiques ne doivent pas être confondus avec les orientations de l'examen. Les premiers caractérisent la démarche de Protokin dans son ensemble. Les secondes précisent les rapports sous lesquels une situation, une pratique, une description ou un résultat est interrogé dans une enquête déterminée.
+
 Les objets de l'examen ne constituent pas un ensemble supplémentaire de l'architecture fonctionnelle. Les dimensions de la connaissance et les ressources théoriques n'en constituent pas davantage.
 
-Les composantes fonctionnelles doivent également conserver leurs différences. Les opérations désignent des formes de travail, les orientations des rapports de questionnement et les aspects transversaux des dimensions qui concernent plusieurs opérations. Les instruments d'épreuve fournissent des moyens particuliers de confrontation.
+Les composantes fonctionnelles doivent également conserver leurs différences. Les opérations désignent des travaux d'examen ; les orientations, les rapports de questionnement dans lesquels ces travaux s'inscrivent ; les dimensions transversales, des dimensions qui concernent plusieurs opérations ; les instruments de confrontation, des moyens particuliers de mise à l'épreuve.
 
-L'organisation de l'enquête ne se confond donc ni avec les objets auxquels elle se rapporte ni avec les documents qui en présentent les composantes.
+L'organisation de l'enquête ne se confond donc ni avec les objets auxquels elle se rapporte, ni avec les engagements généraux de la démarche, ni avec les documents qui présentent ses ressources.
 
 Voir [Objets de l'examen](objets-de-l-examen.md) et [Modes d'intervention de l'enquête](modes-d-intervention-de-l-enquete.md).
 
@@ -139,9 +153,9 @@ Elles peuvent porter sur les usages du langage, la référence, la prédication,
 
 ### 2.5. Composantes et organisation de l'enquête
 
-Ces pages présentent les opérations, les orientations, les aspects transversaux et les instruments d'épreuve.
+Ces pages présentent les opérations, les orientations, les dimensions transversales et les instruments de confrontation.
 
-Elles précisent les fonctions respectives de ces composantes, leurs relations, les problèmes auxquels elles répondent et leurs limites. Elles ne doivent pas transformer leur présentation en procédure universelle, ni donner à penser que l'enquête consiste à parcourir une série d'étapes.
+Elles précisent les fonctions respectives de ces ressources, leurs relations, les problèmes auxquels elles répondent et leurs limites. Elles doivent notamment rendre intelligible l'articulation constitutive entre les opérations et les orientations, sans transformer leur présentation en procédure universelle ni donner à penser que l'enquête consiste à parcourir une série d'étapes.
 
 ### 2.6. Objets et matériaux de l'examen
 
@@ -191,10 +205,10 @@ Il comprend notamment :
 - les définitions de l'enquête et du problème descriptif ;
 - l'architecture fonctionnelle de l'enquête ;
 - les pages consacrées aux opérations et aux orientations ;
-- les aspects transversaux et les instruments d'épreuve ;
-- les objets de l'examen et les modalités d'intervention qui précisent les rapports entre ses composantes.
+- les dimensions transversales et les instruments de confrontation ;
+- les objets de l'examen et les modalités d'intervention qui précisent les rapports entre les composantes de l'enquête.
 
-Sa fonction est de rendre intelligibles les différentes fonctions de l'enquête et les relations qui les articulent, sans imposer une succession universelle d'opérations ni présupposer le déroulement d'une enquête particulière.
+Sa fonction est de rendre intelligibles les différentes fonctions de l'enquête et les relations qui les articulent, notamment l'articulation entre les opérations et les orientations, sans imposer une succession universelle d'opérations ni présupposer le déroulement d'une enquête particulière.
 
 ### 3.2. Le centre conceptuel
 
@@ -359,7 +373,7 @@ Une organisation documentaire claire rend les analyses plus accessibles et leur 
 
 L'architecture du projet Protokin organise les ressources documentaires selon leurs fonctions et leurs relations. Elle permet de comprendre ce que chaque page apporte, de rendre explicites les dépendances pertinentes et d'examiner les conséquences des révisions.
 
-Elle se distingue de l'architecture fonctionnelle de l'enquête, qui présente l'organisation des composantes de l'examen des difficultés descriptives. Cette organisation n'est pas un parcours ni une succession de ressources à mobiliser. Elle repose sur la différenciation fonctionnelle de ses composantes et sur les relations qui les articulent.
+Elle se distingue de l'architecture fonctionnelle de l'enquête, qui présente l'organisation des travaux d'examen et leur articulation avec les orientations sous lesquelles ils sont conduits. Les opérations et les orientations sont des ressources distinctes, mais aucune opération n'est mobilisée indépendamment de tout rapport de questionnement. Leur articulation est située et révisable ; elle ne constitue ni un parcours ni une succession obligatoire.
 
 L'architecture documentaire ne doit pas non plus être confondue avec les objets de l'examen, les dimensions de la connaissance ou les ressources théoriques qui contribuent à l'analyse.
 
