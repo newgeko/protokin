@@ -29,30 +29,38 @@ Cette distinction porte sur la fonction des activités considérées, non sur de
 
 Les ressources de Protokin sont elles-mêmes susceptibles d'être examinées et révisées. Leur statut méthodologique ne les soustrait pas à la confrontation avec les difficultés rencontrées.
 
-### 1.2. Les ressources ne déterminent pas l'organisation de l'enquête
+### 1.2. Les ressources et leur articulation
 
-L'architecture présente des ressources différenciées. Elle ne détermine pas à l'avance comment elles doivent être combinées dans une situation particulière.
+L'architecture fonctionnelle distingue plusieurs ressources selon la fonction qu'elles remplissent dans l'examen :
 
-Une difficulté peut conduire à mobiliser une seule opération, plusieurs opérations conjointement ou des travaux distincts qui ne prennent leur portée qu'ultérieurement. Une orientation peut être envisagée puis abandonnée. Un instrument peut être utilisé dans plusieurs examens. Un résultat peut conduire à reprendre un travail antérieur ou à modifier la formulation du problème.
+- les **opérations**, qui désignent les travaux d'examen ;
+- les **orientations**, qui précisent les rapports sous lesquels ces travaux interrogent une situation, une pratique, une description ou un résultat ;
+- les **dimensions transversales**, qui concernent plusieurs travaux et permettent notamment de prendre en compte la temporalité et la réflexivité ;
+- les **instruments de confrontation**, qui fournissent des moyens particuliers pour mettre des descriptions, des distinctions ou des conclusions à l'épreuve.
 
-Les ressources ne forment donc pas un système de correspondances fixes. Leur mobilisation dépend de la difficulté, des éléments disponibles et des exigences auxquelles les conclusions doivent répondre.
+Ces ressources sont distinctes, mais elles ne sont pas indépendantes.
 
-Il faut distinguer :
+En particulier, une opération n'est jamais mobilisée indépendamment de toute orientation. Le travail qu'elle désigne s'inscrit dans un ou plusieurs rapports de questionnement. L'orientation contribue ainsi à déterminer ce qui est examiné et sous quel rapport le travail est conduit.
 
-- **La ressource disponible** : une opération, une orientation, une dimension transversale ou un instrument défini dans le corpus.
-- **La mobilisation** : le fait de faire intervenir une ressource dans un examen déterminé.
-- **Le travail effectué** : l'activité d'examen effectivement accomplie.
-- **Le résultat** : ce que cet examen permet de déterminer, de maintenir, de limiter ou de contester.
-- **La relation entre les travaux** : la dépendance, la complémentarité, la reprise ou le déplacement qui peut être établi entre plusieurs examens.
+Cette articulation ne correspond ni à une étape préalable ni à une application ultérieure. L'orientation ne constitue pas une grille que l'on appliquerait à une opération déjà définie dans son déroulement concret. Elle participe à la détermination du travail d'examen lui-même.
 
-La présence d'une ressource dans l'architecture ne signifie pas qu'elle a été mobilisée. Sa mobilisation ne garantit pas qu'un résultat déterminé ait été obtenu.
+Une même opération peut être mobilisée sous différentes orientations. Inversement, une même orientation peut appeler plusieurs opérations lorsque le problème exige des travaux distincts. Plusieurs orientations peuvent également être prises en compte dans un même travail.
+
+Les dimensions transversales et les instruments de confrontation peuvent intervenir dans ces différentes configurations. Ils ne remplacent ni les opérations ni les orientations et ne déterminent pas à eux seuls leur articulation.
+
+L'architecture ne fixe donc pas de correspondances obligatoires entre les ressources. Elle permet de distinguer leurs fonctions tout en rendant intelligibles les relations dans lesquelles elles sont mobilisées.
 
 ### 1.3. L'enquête comme organisation située
 
 L'enquête ne se réduit pas à la succession des opérations mobilisées.
 
-Elle constitue une organisation située de travaux et de ressources autour d'une difficulté descriptive. Cette organisation peut comporter :
+Elle constitue une organisation située de travaux et de ressources autour d'une difficulté descriptive. Cette organisation articule les opérations, les orientations, les dimensions transversales et les instruments de confrontation en fonction des questions examinées et des éléments disponibles.
 
+Cette organisation peut comporter :
+
+- des opérations conduites sous plusieurs orientations ;
+- plusieurs opérations mobilisées dans un même rapport de questionnement ;
+- des orientations combinées, reformulées ou abandonnées ;
 - des examens conduits conjointement ou séparément ;
 - des relations de dépendance entre plusieurs travaux ;
 - des interruptions et des reprises ;
@@ -62,7 +70,7 @@ Elle constitue une organisation située de travaux et de ressources autour d'une
 - des confrontations qui modifient la portée d'une conclusion ;
 - des relations qui ne deviennent intelligibles qu'ultérieurement.
 
-L'organisation n'est donc pas nécessairement entièrement formulée dès le commencement. Elle peut se construire et se transformer au cours de l'enquête.
+L'organisation n'est donc pas nécessairement entièrement formulée dès le commencement. Elle peut se construire et se transformer au cours de l'enquête. Les rapports entre les opérations et les orientations peuvent eux-mêmes être précisés à mesure que les difficultés sont examinées.
 
 Cette conception ne nie pas que les travaux possèdent un déroulement effectif. Elle refuse de confondre ce déroulement avec un cheminement nécessaire vers un résultat. Une reconstruction rétrospective peut rendre visibles des relations qui n'étaient pas identifiées auparavant, sans démontrer qu'elles avaient déterminé l'enquête dès son origine.
 
