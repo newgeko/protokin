@@ -206,7 +206,7 @@ Ces ressources permettent d'étudier comment les différences, les catégories, 
 
 - [Configuration](fr/configuration.md) — Définir une organisation déterminée d'éléments, de relations et de dépendances pertinente pour un problème descriptif.
 - [Position](fr/position.md) — Caractériser une configuration descriptive à un moment donné d'une pratique, sans la confondre avec sa trajectoire.
-- [Configuration descriptive](fr/configuration-descriptive.md) — Examiner l'organisation des éléments retenus dans une description.
+- [Configuration descriptive](fr/configuration-descriptive.md) — Examiner un agencement déterminé de différences, de catégories, de qualifications et de relations inférentielles mobilisées dans une pratique descriptive.
 - [Configuration rencontrée](fr/configuration-rencontree.md) — Examiner la configuration sur laquelle porte l'enquête, indépendamment de la manière dont elle sera décrite.
 - [Configuration sémiotique](fr/configuration-semiotique.md) — Examiner comment des différences deviennent reconnaissables et mobilisables comme signes dans une pratique.
 - [Différence rencontrée](fr/difference-rencontree.md) — Examiner la différence à l'origine d'une difficulté descriptive.
