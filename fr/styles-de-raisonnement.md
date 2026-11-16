@@ -2,7 +2,7 @@
 
 ## Fonction
 
-Cette page définit les styles de raisonnement comme des configurations historiquement situées de pratiques, de concepts, de procédures et de critères qui organisent certaines manières de formuler des problèmes, de produire des énoncés et d'évaluer des conclusions.
+Cette page définit les styles de raisonnement comme des configurations historiquement situées de pratiques, de concepts, de procédures, d'instruments et de critères qui organisent certaines manières de formuler des problèmes, de produire des énoncés et d'évaluer des conclusions.
 
 Elle précise ce que cette notion permet d'examiner dans Protokin et la distingue des notions de régime descriptif, d'orientation, d'opération et de paradigme.
 
@@ -53,6 +53,14 @@ Un style n'est pas nécessairement homogène ou entièrement explicite. Il peut 
 Sa stabilisation ne signifie pas qu'il demeure inchangé. Un style peut être transmis, adapté, contesté ou transformé lorsque de nouveaux problèmes, concepts, instruments ou résultats conduisent à reprendre ses pratiques.
 
 La notion désigne donc une organisation identifiable dans certaines pratiques, et non une structure immuable qui déterminerait intégralement leur déroulement.
+
+### La production de nouveaux candidats au vrai ou au faux
+
+Un style ne se contente pas de trier des énoncés déjà disponibles entre le vrai et le faux. Il contribue à déterminer les conditions sous lesquelles certaines classes d'énoncés deviennent formulables et peuvent être proposées comme candidates au vrai ou au faux. Hacking reprend à ce propos la notion de *positivity*, en la rapportant à l'émergence historique de nouvelles possibilités d'énonciation et d'évaluation.
+
+Un style rend ainsi possibles des questions, des affirmations et des formes de preuve qui ne pouvaient pas nécessairement être formulées ou évaluées de la même manière dans les pratiques antérieures. Il contribue à établir ce qui peut compter comme un énoncé pertinent, ce qui peut être examiné à son propos et quelles procédures peuvent soutenir son évaluation.
+
+Cette proposition ne signifie pas que le style décide conventionnellement de la vérité des énoncés qu'il rend possibles. Elle distingue plutôt deux questions : les conditions historiques dans lesquelles un énoncé devient évaluable et les résultats auxquels conduisent les épreuves effectivement mises en œuvre.
 
 ## 3. Ce qui caractérise un style de raisonnement
 
@@ -123,6 +131,24 @@ Ces critères ne doivent pas être déduits de la seule présence d'un instrumen
 
 Il faut examiner comment ils sont effectivement appliqués, comment ils sont défendus et dans quelles conditions ils peuvent être contestés ou révisés.
 
+### 3.6. L'introduction ouverte de nouveautés
+
+Un style de raisonnement ne se réduit pas à l'application d'une règle formelle d'inférence. Il peut ouvrir un domaine de production dans lequel apparaissent de nouveaux types d'objets, d'énoncés, de preuves, de régularités et d'explications.
+
+Cette capacité d'introduction de nouveautés est ouverte : elle ne se limite pas à un ensemble d'objets ou de propositions fixé au moment de la formation du style. De nouvelles possibilités de recherche et d'évaluation peuvent apparaître au cours de son développement.
+
+L'examen peut ainsi chercher à établir si les pratiques concernées rendent progressivement possibles :
+
+- de nouveaux types d'entités ou d'objets examinables, par exemple des objets mathématiques, des entités théoriques, des taxons ou des régularités statistiques ;
+- de nouvelles classes d'énoncés susceptibles d'être évalués comme vrais ou faux ;
+- de nouvelles formes de preuve ou de démonstration ;
+- de nouvelles manières d'identifier des régularités et de construire des explications ;
+- de nouveaux problèmes qui ne pouvaient pas être formulés de la même manière auparavant.
+
+L'apparition de ces nouveautés peut susciter des controverses sur le statut des objets concernés, sur la portée des énoncés qui les décrivent ou sur les critères permettant de les évaluer. Les débats entre réalisme et antiréalisme à propos des entités théoriques, par exemple, peuvent ainsi faire partie de l'histoire du style dans lequel ces entités deviennent examinables.
+
+Il ne suffit toutefois pas de constater l'apparition d'un nouveau vocabulaire ou d'un nouvel objet pour conclure à la formation d'un style. Il faut examiner les transformations des pratiques, des possibilités d'énonciation, des procédures et des critères qui accompagnent cette apparition.
+
 ## 4. Formation, transmission et transformation
 
 Un style de raisonnement ne se comprend pas indépendamment de son histoire.
@@ -157,7 +183,23 @@ Un style peut être contesté lorsque ses critères ne permettent plus de traite
 
 Une contestation ne conduit pas nécessairement à l'abandon du style. Elle peut entraîner une modification de certaines pratiques, une révision des critères ou une transformation plus profonde de l'organisation du raisonnement.
 
-Il faut donc distinguer la persistance d'un style, sa justification et son aptitude à traiter les problèmes rencontrés.
+Dans les analyses de Hacking, un style qui s'est suffisamment développé tend à devenir **auto-authentifiant** (*self-authenticating*). Il fournit les procédures et les critères au moyen desquels les énoncés qu'il rend possibles peuvent être évalués. Leur recevabilité ne dépend donc pas de leur soumission préalable à un tribunal extérieur unique, qui serait supérieur à tous les styles.
+
+Cette auto-authentification ne signifie pas que le style décide arbitrairement de la vérité de ses propres énoncés. Elle désigne la constitution historique de procédures et de critères qui rendent leur évaluation possible. Elle ne signifie pas non plus qu'un style serait imperméable à toute critique extérieure : des comparaisons, des controverses et des confrontations entre pratiques peuvent conduire à reprendre ses critères ou à reformuler les problèmes qu'il traite.
+
+Cette autonomie relative repose sur des **techniques d'auto-stabilisation** qui varient selon les styles. Elles peuvent notamment prendre les formes suivantes :
+
+- dans les pratiques expérimentales, l'ajustement entre les hypothèses, les dispositifs matériels, les instruments, les observations et les traces produites ;
+- dans les pratiques mathématiques, la consolidation des démonstrations, des définitions et des énoncés qui deviennent des points d'appui pour de nouveaux raisonnements ;
+- dans les pratiques statistiques, la stabilisation de procédures de calcul, de catégories, de méthodes de collecte et de critères de contrôle qui rendent les résultats comparables et discutables.
+
+Ces exemples ne constituent pas une typologie exhaustive. Ils indiquent que la continuité d'un style peut dépendre de pratiques matérielles, symboliques, instrumentales ou institutionnelles spécifiques, et non d'une méthode scientifique unique.
+
+Un style peut également se combiner avec un autre. Cette combinaison peut produire une configuration nouvelle plutôt qu'une simple juxtaposition de procédures. Les pratiques expérimentales et la modélisation hypothétique, par exemple, peuvent entretenir des relations qui transforment les conditions de production et d'évaluation des résultats.
+
+À l'inverse, un style peut perdre sa place ou disparaître lorsque les pratiques qui le soutiennent cessent d'être transmises, utilisées ou reconnues. L'histoire du raisonnement par similitudes à la Renaissance fournit un exemple de transformation et de déclin d'une manière historiquement située de produire des connaissances.
+
+Il faut donc distinguer la persistance d'un style, les mécanismes qui contribuent à cette persistance, sa justification et son aptitude à traiter les problèmes rencontrés.
 
 ## 5. Styles de raisonnement, régimes descriptifs et paradigmes
 
@@ -214,18 +256,21 @@ Selon la difficulté rencontrée, l'examen peut notamment porter sur les questio
 
 - Quels problèmes les pratiques concernées cherchent-elles à formuler ?
 - Quelles distinctions et quelles ressources conceptuelles mobilisent-elles ?
+- Quels types d'objets et d'entités rendent-elles examinables ?
+- Quelles classes d'énoncés deviennent formulables et susceptibles d'être évaluées ?
 - Quelles activités et quelles procédures réalisent-elles ?
 - Quelles transitions inférentielles reconnaissent-elles ?
 - Quelles formes de preuve et quels critères d'évaluation utilisent-elles ?
+- Quelles techniques contribuent à stabiliser leurs résultats et leurs procédures ?
 - Comment ces ressources sont-elles transmises et apprises ?
 - Quelles controverses ou difficultés conduisent à les réviser ?
-- Quelles différences apparaissent lorsqu'on les compare à d'autres pratiques ?
+- Quelles relations entretiennent-elles avec d'autres styles ou d'autres pratiques ?
 
 Ces questions ne constituent pas une procédure obligatoire. Elles indiquent des points possibles d'examen dont la pertinence doit être déterminée à partir de la situation étudiée.
 
 Une ressemblance entre deux pratiques ne suffit pas à établir qu'elles relèvent du même style. Une différence de vocabulaire ou de discipline ne suffit pas davantage à établir qu'elles relèvent de styles distincts.
 
-La caractérisation doit s'appuyer sur les relations effectivement établies entre leurs manières de formuler les problèmes, de raisonner et d'évaluer les résultats.
+La caractérisation doit s'appuyer sur les relations effectivement établies entre leurs manières de formuler les problèmes, de produire des objets et des énoncés examinables, de raisonner et d'évaluer les résultats.
 
 ## 7. Ce que la notion n'établit pas
 
@@ -237,6 +282,7 @@ La notion de style de raisonnement permet de caractériser une organisation hist
 - **Style de raisonnement ≠ régime descriptif.** Les deux notions peuvent se recouper sans désigner la même organisation.
 - **Style de raisonnement ≠ paradigme.** Leurs rapports doivent être examinés historiquement et ne constituent pas une hiérarchie nécessaire.
 - **Historicité ≠ arbitraire.** La formation historique d'un style ne suffit ni à invalider ni à justifier les résultats qu'il produit.
+- **Auto-authentification ≠ arbitraire ou constructionnisme intégral.** Qu'un style contribue à définir les conditions dans lesquelles un énoncé devient candidat au vrai ou au faux ne signifie pas que sa vérité ou sa fausseté soit décidée par convention. Les résultats dépendent également des procédures mises en œuvre, des éléments recueillis et des contraintes rencontrées.
 - **Stabilisation ≠ validité.** La continuité d'une manière de raisonner ne garantit pas l'adéquation de ses conclusions.
 - **Pluralité ≠ équivalence.** L'existence de plusieurs styles ne signifie pas que leurs résultats se valent ou qu'aucune comparaison n'est possible.
 
@@ -248,15 +294,17 @@ Ils désignent des objets possibles de l'enquête, susceptibles d'être examiné
 
 Un style de raisonnement désigne une configuration historiquement située et relativement stabilisée de pratiques, de concepts, de procédures, d'instruments et de critères qui organisent certaines manières de formuler les problèmes, de conduire les raisonnements et d'évaluer les conclusions.
 
-Cette notion permet d'examiner des continuités et des transformations qui ne se réduisent ni aux théories particulières ni aux méthodes isolées.
+La notion permet également d'examiner comment un style rend possibles de nouveaux objets, de nouveaux énoncés et de nouvelles formes de preuve. Il ne se contente donc pas d'organiser l'évaluation de propositions déjà disponibles : il contribue à constituer les conditions dans lesquelles certaines propositions deviennent formulables et évaluables.
 
-Elle entretient des relations avec les régimes descriptifs et les paradigmes sans se confondre avec eux. Les orientations et les opérations de Protokin permettent d'en conduire l'examen, mais ne constituent pas les composantes nécessaires de tout style.
+Son autonomie relative peut s'appuyer sur des procédures et des techniques d'auto-stabilisation propres aux pratiques concernées. Cette auto-authentification ne garantit cependant ni la validité de tous les résultats ni l'impossibilité d'une critique ou d'une comparaison avec d'autres pratiques.
 
-**Examiner un style de raisonnement, c'est reconstruire les pratiques et les critères qui rendent certaines formes de raisonnement possibles, transmissibles, évaluables et révisables.**
+La notion entretient des relations avec les régimes descriptifs et les paradigmes sans se confondre avec eux. Les orientations et les opérations de Protokin permettent d'en conduire l'examen, mais ne constituent pas les composantes nécessaires de tout style.
+
+**Examiner un style de raisonnement, c'est reconstruire les pratiques et les critères qui rendent certaines formes de raisonnement possibles, transmissibles, évaluables et révisables, ainsi que les nouveautés qu'elles rendent progressivement examinables.**
 
 ## Pour poursuivre
 
-- [Ian Hacking](fr/ian-hacking.md) — Examiner les styles de raisonnement dans le cadre des travaux de Hacking, ainsi que leurs relations avec l'histoire des catégories et les conditions d'évaluation.
+- [Ian Hacking](fr/ian-hacking.md) — Examiner les styles de raisonnement dans le cadre des travaux de Hacking, notamment la *positivity*, l'auto-authentification, les techniques d'auto-stabilisation et le nominalisme dynamique.
 - [Régime descriptif](fr/regime-descriptif.md) — Définir l'organisation relativement stabilisée des règles, des distinctions, des activités descriptives et des critères d'une pratique.
 - [Identifier un régime](fr/identifier-un-regime.md) — Examiner les indices permettant de caractériser l'organisation effective d'une pratique descriptive.
 - [Régimes historiques de l'intelligibilité](fr/regimes-historiques-de-l-intelligibilite.md) — Examiner des organisations historiques de l'intelligibilité sans les réduire à une succession homogène.
