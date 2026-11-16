@@ -161,6 +161,7 @@ Dewey constitue ainsi une ressource pour penser la dynamique de l'enquête, non 
 
 ## Pour poursuivre
 
+- [John Dewey et la logique de l'enquête](fr/john-dewey-et-la-logique-de-l-enquete.md) — Comparer la logique de l'enquête de Dewey et l'architecture fonctionnelle de Protokin.
 - [Enquête](fr/enquete.md) — Définir le statut de l'enquête dans Protokin.
 - [Problème descriptif](fr/probleme-descriptif.md) — Caractériser la difficulté qui rend nécessaire l'examen des pratiques descriptives.
 - [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Présenter les composantes mobilisées par Protokin pour conduire cet examen.
