@@ -93,7 +93,7 @@ Protokin ne cherche pas à établir une théorie générale du langage ou de la 
 
 L'architecture fonctionnelle ne prescrit donc ni une succession universelle d'opérations ni une grille à appliquer systématiquement. Elle organise des travaux d'examen et les rapports de questionnement sous lesquels ils sont conduits. Les ressources théoriques et conceptuelles ne constituent pas des composantes supplémentaires de cette organisation.
 
-Voir [Architecture fonctionnelle de l'enquête](architecture-fonctionnelle-de-l-enquete.md).
+Voir [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md).
 
 ### 1.3. Ne pas confondre organisation documentaire et organisation de l'enquête
 
@@ -119,7 +119,7 @@ Les composantes fonctionnelles doivent également conserver leurs différences. 
 
 L'organisation de l'enquête ne se confond donc ni avec les objets auxquels elle se rapporte, ni avec les engagements généraux de la démarche, ni avec les documents qui présentent ses ressources.
 
-Voir [Objets de l'examen](objets-de-l-examen.md) et [Modes d'intervention de l'enquête](modes-d-intervention-de-l-enquete.md).
+Voir [Objets de l'examen](fr/objets-de-l-examen.md) et [Modes d'intervention de l'enquête](fr/modes-d-intervention-de-l-enquete.md).
 
 ## 2. Les fonctions documentaires des pages
 
@@ -338,7 +338,7 @@ Ces ressources ont des fonctions distinctes : les patterns orientent la rédacti
 
 La navigation doit permettre de retrouver une ressource à partir de plusieurs besoins : comprendre le projet, examiner une notion, traiter une difficulté, consulter une étude de cas ou approfondir une référence.
 
-La [table des matières](tdm.md) constitue le principal dispositif de navigation générale. Elle propose des accès organisés par ensembles thématiques et fonctionnels, sans imposer un ordre unique de lecture.
+La [table des matières](fr/tdm.md) constitue le principal dispositif de navigation générale. Elle propose des accès organisés par ensembles thématiques et fonctionnels, sans imposer un ordre unique de lecture.
 
 La barre latérale facilite l'accès régulier aux pages principales. Elle ne doit pas reproduire intégralement la table des matières ni donner à chaque ressource une importance équivalente.
 
@@ -385,15 +385,15 @@ Cette architecture est un cadre documentaire. Elle n'est ni une théorie du rée
 
 ## Pour poursuivre
 
-- [Introduction générale](introduction-generale.md) — Situer le problème auquel répond Protokin et les engagements de la démarche.
-- [Architecture fonctionnelle de l'enquête](architecture-fonctionnelle-de-l-enquete.md) — Examiner l'organisation fonctionnelle des composantes de l'enquête.
-- [Objets de l'examen](objets-de-l-examen.md) — Préciser ce sur quoi porte l'examen et distinguer les objets des matériaux mobilisés.
-- [Modes d'intervention de l'enquête](modes-d-intervention-de-l-enquete.md) — Examiner les modalités selon lesquelles les composantes de l'enquête peuvent être articulées et reprises.
-- [Orientation de l'examen](orientation-de-l-examen.md) — Préciser les rapports sous lesquels une situation ou une pratique peut être examinée.
-- [Les opérations de référence et leurs articulations](la-chaine-principale-de-l-enquete.md) — Consulter le répertoire des opérations actuellement identifiées.
-- [Conduire une enquête](conduire-une-enquete.md) — Consulter des repères pratiques pour traiter une difficulté.
-- [Cas](cas.md) — Confronter une proposition ou une distinction à une situation déterminée et préciser la portée des résultats obtenus.
-- [Table des matières](tdm.md) — Parcourir les ressources du corpus.
+- [Introduction générale](fr/introduction-generale.md) — Situer le problème auquel répond Protokin et les engagements de la démarche.
+- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Examiner l'organisation fonctionnelle des composantes de l'enquête.
+- [Objets de l'examen](fr/objets-de-l-examen.md) — Préciser ce sur quoi porte l'examen et distinguer les objets des matériaux mobilisés.
+- [Modes d'intervention de l'enquête](fr/modes-d-intervention-de-l-enquete.md) — Examiner les modalités selon lesquelles les composantes de l'enquête peuvent être articulées et reprises.
+- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Préciser les rapports sous lesquels une situation ou une pratique peut être examinée.
+- [Les opérations de référence et leurs articulations](fr/la-chaine-principale-de-l-enquete.md) — Consulter le répertoire des opérations actuellement identifiées.
+- [Conduire une enquête](fr/conduire-une-enquete.md) — Consulter des repères pratiques pour traiter une difficulté.
+- [Cas](fr/cas.md) — Confronter une proposition ou une distinction à une situation déterminée et préciser la portée des résultats obtenus.
+- [Table des matières](fr/tdm.md) — Parcourir les ressources du corpus.
 - [Patterns éditoriaux de Protokin](../patterns.md) — Consulter les repères de rédaction et de révision.
 - [Pattern d'audit du corpus](../pattern-audit.md) — Examiner la fonction et les relations des pages avant une révision.
 - [Audit du corpus](../audit-corpus.md) — Consulter les constats et décisions concernant l'état du dépôt.
