@@ -104,19 +104,21 @@ Les théories du temps, de la connaissance et du langage peuvent fournir des res
 
 ## 5. Les engagements méthodologiques
 
-La démarche de Protokin repose sur trois orientations complémentaires.
+La démarche de Protokin repose sur trois engagements méthodologiques complémentaires : pragmatiste, inférentialiste et réflexif.
 
-**L'orientation pragmatiste** consiste à partir des difficultés rencontrées dans les pratiques et à examiner les conséquences des distinctions et des descriptions mobilisées. Une distinction doit notamment être appréciée au regard des différences qu'elle permet d'établir et des problèmes qu'elle contribue à traiter. Cela ne revient pas à identifier la vérité à l'utilité : l'efficacité pratique constitue un élément de l'examen, non une garantie de vérité.
+**L'engagement pragmatiste** consiste à partir des difficultés rencontrées dans les pratiques et à examiner les conséquences des distinctions et des descriptions mobilisées. Une distinction doit notamment être appréciée au regard des différences qu'elle permet d'établir et des problèmes qu'elle contribue à traiter. Cela ne revient pas à identifier la vérité à l'utilité : l'efficacité pratique constitue un élément de l'examen, non une garantie de vérité.
 
-**L'orientation inférentialiste** consiste à examiner les engagements associés aux affirmations, les conséquences qui en sont tirées et les raisons susceptibles de soutenir ou de contester les conclusions. Affirmer quelque chose engage une pratique à certaines conséquences. Ces engagements peuvent être explicités, discutés et révisés. Cette orientation ne conduit cependant pas à réduire toutes les relations à des relations inférentielles : les contraintes matérielles, perceptives, corporelles et institutionnelles interviennent également dans les pratiques descriptives.
+**L'engagement inférentialiste** consiste à examiner les engagements associés aux affirmations, les conséquences qui en sont tirées et les raisons susceptibles de soutenir ou de contester les conclusions. Affirmer quelque chose engage une pratique à certaines conséquences. Ces engagements peuvent être explicités, discutés et révisés. Cet engagement ne conduit cependant pas à réduire toutes les relations à des relations inférentielles : les contraintes matérielles, perceptives, corporelles et institutionnelles interviennent également dans les pratiques descriptives.
 
-**L'orientation réflexive** consiste à ne soustraire aucune des ressources de l'enquête à son propre examen. Les distinctions, les catégories, les critères et les instruments mobilisés peuvent se révéler insuffisants ou inadaptés. Leur pertinence doit pouvoir être réévaluée à partir des situations rencontrées, des objections et des résultats obtenus.
+**L'engagement réflexif** consiste à ne soustraire aucune des ressources de l'enquête à son propre examen. Les distinctions, les catégories, les critères et les instruments mobilisés peuvent se révéler insuffisants ou inadaptés. Leur pertinence doit pouvoir être réévaluée à partir des situations rencontrées, des objections et des résultats obtenus.
 
-Ces orientations ne constituent ni des étapes successives ni des principes qui détermineraient à l'avance le déroulement de l'enquête.
+Ces engagements ne constituent ni des étapes successives ni des principes qui détermineraient à l'avance le déroulement de l'enquête. Ils caractérisent la manière dont Protokin aborde les difficultés descriptives et examine les ressources mobilisées.
 
-L'architecture fonctionnelle de Protokin organise les ressources mobilisables dans cet examen. Elle distingue les opérations, les orientations de l'examen, les fonctions transversales et les instruments d'épreuve. Elle ne prescrit ni un ordre universel ni un parcours obligatoire.
+L'architecture fonctionnelle de Protokin organise les ressources mobilisables dans cet examen. Elle distingue les opérations, les orientations de l'examen, les dimensions transversales et les instruments de confrontation. Elle ne prescrit ni un ordre universel ni un parcours obligatoire.
 
-Les dimensions temporelles, cognitives et langagières présentées précédemment ne se confondent pas avec ces catégories architecturales. Elles permettent de caractériser différents aspects des pratiques que les ressources de l'enquête peuvent contribuer à examiner.
+Les engagements méthodologiques ne doivent donc pas être confondus avec les orientations de l'examen. Les premiers caractérisent la démarche générale de Protokin ; les secondes précisent les rapports sous lesquels une situation, une pratique, une description ou un résultat est interrogé dans une enquête déterminée.
+
+Les dimensions temporelles, cognitives et langagières présentées précédemment ne se confondent pas davantage avec ces catégories architecturales. Elles permettent de caractériser différents aspects des pratiques que les ressources de l'enquête peuvent contribuer à examiner.
 
 ## 6. Une démarche méthodologiquement non ontologique
 
