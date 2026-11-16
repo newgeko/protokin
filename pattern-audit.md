@@ -140,23 +140,33 @@ Une difficulté terminologique ne constitue pas automatiquement une difficulté 
 
 ### 3.3. Cohérence fonctionnelle
 
-L'examen porte sur les rapports entre les ressources de l'architecture fonctionnelle de l'enquête.
+L'examen porte sur la distinction et l'articulation des ressources de l'architecture fonctionnelle de l'enquête.
 
 Il faut notamment vérifier que les documents distinguent correctement :
 
-- les catégories, qui regroupent certaines opérations ;
-- les opérations, qui désignent les travaux d'examen de second ordre mobilisés pour étudier les pratiques descriptives, leurs conditions, leurs fonctions, leurs relations et leurs justifications ;
-- les aspects transversaux, qui désignent des dimensions de l'enquête susceptibles d'intervenir dans plusieurs opérations et sous différentes orientations, sans constituer des opérations supplémentaires ni des étapes obligatoires de l'examen ;
-- les instruments d'épreuve, qui permettent certaines confrontations.
+- **Les catégories**, qui regroupent certaines opérations afin d'en faciliter le repérage. Elles ne constituent pas une composante fonctionnelle supplémentaire.
+- **Les opérations**, qui désignent des travaux d'examen de second ordre portant sur les pratiques descriptives, leurs conditions, leurs relations, leurs fonctions et leurs justifications.
+- **Les orientations**, qui précisent les rapports sous lesquels une situation, une pratique, une description, une opération ou un résultat est interrogé. Elles comprennent les orientations de la condition, de la relation, de la fonction et de la justification.
+- **Les dimensions transversales**, qui concernent plusieurs opérations et peuvent intervenir dans différentes configurations de l'enquête. Elles ne constituent ni des opérations supplémentaires ni des étapes obligatoires.
+- **Les instruments de confrontation**, qui fournissent des moyens particuliers pour confronter des descriptions, des distinctions ou des conclusions.
+
+Les opérations et les orientations sont distinctes, mais leur mobilisation est constitutivement articulée. Une opération n'est jamais mobilisée indépendamment de tout rapport de questionnement : elle intervient sous une ou plusieurs orientations, même lorsque celles-ci ne sont pas explicitement formulées au départ.
+
+Il n'existe pas de correspondance fixe entre opérations et orientations. Une même opération peut intervenir sous plusieurs orientations ; une orientation peut appeler plusieurs opérations. Leurs rapports peuvent être précisés, combinés, reformulés ou révisés au cours de l'enquête. Il faut donc éviter de présenter les orientations comme des étapes préalables, des rubriques à appliquer systématiquement ou une grille extérieure aux travaux d'examen.
 
 Questions à examiner :
 
-- Le statut attribué à chaque ressource correspond-il à l'architecture de référence ?
-- Une activité est-elle présentée à tort comme une opération ?
-- Un instrument est-il confondu avec une exigence générale d'examen ?
-- Une orientation est-elle transformée en étape ?
-- Une catégorie est-elle présentée comme une ressource supplémentaire ?
-- Les relations entre les ensembles sont-elles décrites sans imposer de correspondances obligatoires ?
+- Le statut attribué à chaque ressource correspond-il à l'architecture fonctionnelle de référence ?
+- Les opérations sont-elles bien présentées comme des travaux d'examen de second ordre, distincts des activités descriptives qu'elles permettent d'examiner ?
+- Les orientations sont-elles définies comme des rapports de questionnement plutôt que comme des opérations, des étapes ou des catégories documentaires ?
+- L'articulation entre opérations et orientations est-elle explicitée sans imposer de correspondance fixe ni d'ordre obligatoire ?
+- Les documents rendent-ils compte de la possibilité qu'une opération intervienne sous plusieurs orientations et qu'une orientation appelle plusieurs opérations ?
+- Les catégories sont-elles présentées comme des regroupements d'opérations, et non comme une composante supplémentaire ?
+- Les dimensions transversales sont-elles distinguées des opérations et des orientations ?
+- Les dimensions de la connaissance sont-elles distinguées des dimensions transversales de l'enquête, sans nier les rapports qu'elles peuvent entretenir ?
+- Les instruments de confrontation sont-ils distingués de l'exigence générale d'épreuve ?
+- Une fonction transversale, une dimension ou un instrument est-il présenté à tort comme une opération ?
+- Les ressources sont-elles décrites sans réintroduire de correspondances, de hiérarchies ou de successions obligatoires abandonnées par l'architecture actuelle ?
 
 L'examen doit également vérifier que les pages ne réintroduisent pas des organisations antérieures qui ont été abandonnées.
 
