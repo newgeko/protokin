@@ -20,17 +20,23 @@ Elles ne décrivent pas deux niveaux successifs d'une même procédure. Elles po
 
 ### 1.1. L'architecture du projet
 
-L'architecture du projet organise le corpus documentaire. Elle permet de déterminer :
+L'architecture du projet organise le corpus documentaire. Elle établit les fonctions des pages, leur répartition et les relations qui facilitent leur consultation, leur compréhension et leur révision.
+
+Elle permet notamment de déterminer :
 
 - quelle fonction une page remplit ;
 - quel problème elle traite ;
-- quelles ressources la complètent ou sont nécessaires à sa compréhension ;
+- quelles ressources documentaires la complètent ou sont nécessaires à sa compréhension ;
 - comment elle est accessible dans la navigation ;
 - quelles autres pages peuvent être affectées par sa révision.
 
-Elle porte sur les documents, leurs fonctions et leurs relations. Elle rend possible la consultation, la compréhension et la révision du corpus.
+Cette organisation porte sur les documents et leurs relations dans le corpus. Elle constitue un dispositif de classement, de repérage et d'accès aux ressources. Elle doit rester suffisamment stable pour rendre le corpus intelligible, tout en demeurant révisable lorsque les fonctions ou les relations entre les pages évoluent.
 
-Elle ne détermine ni les opérations d'une enquête ni les orientations sous lesquelles ces opérations sont mobilisées. Une page consacrée à une opération ou à une orientation constitue une ressource documentaire ; elle ne se confond pas avec le travail d'examen qu'elle présente.
+L'organisation documentaire ne détermine cependant pas les agencements dans lesquels les ressources seront mobilisées au cours d'une enquête. Le classement d'une page dans le corpus ne prescrit ni les ressources qui devront être associées à son contenu ni les relations qui devront être établies entre elles dans une situation particulière.
+
+Une même ressource documentaire peut contribuer à plusieurs enquêtes et intervenir dans des configurations différentes. Inversement, une configuration mobilisée dans une enquête peut associer des ressources présentées dans des pages éloignées les unes des autres dans l'organisation documentaire.
+
+L'architecture du projet organise donc la disponibilité et l'accessibilité des ressources ; elle ne prescrit pas leurs configurations possibles.
 
 ### 1.2. L'architecture fonctionnelle de l'enquête
 
@@ -121,6 +127,26 @@ L'organisation de l'enquête ne se confond donc ni avec les objets auxquels elle
 
 Voir [Objets de l'examen](fr/objets-de-l-examen.md) et [Modes d'intervention de l'enquête](fr/modes-d-intervention-de-l-enquete.md).
 
+### 1.4. Organisation et configurations des ressources
+
+L'organisation et la configuration désignent deux aspects distincts de l'articulation des ressources.
+
+L'**organisation** concerne la manière dont des éléments, des activités et des ressources sont articulés relativement à une fonction ou à un problème. Elle permet d'examiner leurs relations, leurs interdépendances, leurs complémentarités et leurs tensions. Elle ne suppose ni cohérence parfaite ni stabilité définitive.
+
+Une **configuration** désigne un agencement particulier de ressources et de relations dans une situation déterminée. Elle précise quelles ressources sont mobilisées, comment elles sont associées et quelles fonctions leur sont attribuées dans le traitement d'un problème.
+
+Une configuration n'est donc pas une architecture générale. Elle est située et peut être partielle, provisoire, concurrente ou contradictoire avec d'autres configurations. Elle peut être reprise, transformée ou abandonnée lorsque l'examen fait apparaître de nouvelles difficultés.
+
+Cette distinction vaut notamment pour les ressources de Protokin :
+
+- l'organisation documentaire règle la disposition des pages et les relations qui facilitent leur consultation ;
+- l'organisation de l'enquête articule des travaux d'examen, des orientations et des ressources relativement à une difficulté descriptive ;
+- les configurations désignent les agencements particuliers de ressources mobilisées dans le cadre de cette enquête.
+
+L'organisation de l'enquête ne se réduit donc pas à une configuration unique. Une enquête peut faire intervenir plusieurs configurations successives ou concurrentes, les comparer, les transformer et reconstruire les relations entre les ressources mobilisées.
+
+L'architecture du projet rend les ressources disponibles sans déterminer à l'avance leurs configurations. L'architecture fonctionnelle distingue les fonctions qui peuvent être articulées dans une enquête sans imposer un agencement uniforme de ces fonctions.
+
 ## 2. Les fonctions documentaires des pages
 
 Les fonctions documentaires permettent de caractériser la contribution principale d'une ressource. Elles constituent des repères de classement, non une taxonomie exhaustive ou exclusive.
@@ -135,9 +161,13 @@ Elles donnent les repères nécessaires à la compréhension du projet sans dév
 
 ### 2.2. Architecture et organisation
 
-Ces pages présentent l'organisation du corpus ou l'organisation fonctionnelle de l'enquête.
+Ces pages présentent l'organisation du corpus documentaire ou l'organisation fonctionnelle de l'enquête.
 
-Elles rendent intelligibles les distinctions et les relations entre les composantes concernées. Elles ne doivent pas se substituer aux pages qui définissent chaque ressource ni reproduire l'ensemble de leurs développements.
+Les premières précisent les fonctions des documents, leur répartition et les relations qui facilitent leur consultation et leur révision. Les secondes rendent intelligibles les fonctions des composantes de l'enquête et les relations qui permettent de les articuler.
+
+Elles doivent distinguer l'organisation générale des ressources et les configurations particulières dans lesquelles celles-ci sont mobilisées. Une page qui présente une opération, une orientation ou un instrument expose une ressource de l'enquête ; elle ne détermine pas à elle seule les configurations dans lesquelles cette ressource pourra intervenir.
+
+Ces pages ne doivent pas se substituer aux ressources qui définissent chaque composante ni reproduire l'ensemble de leurs développements.
 
 ### 2.3. Notions et distinctions conceptuelles
 
@@ -271,6 +301,12 @@ Un renvoi ne suffit donc pas à établir une dépendance. Une dépendance n'impl
 
 L'examen des relations doit porter sur le contenu effectif des pages, sur leurs contributions et sur les conditions nécessaires à leur compréhension.
 
+Il convient également de distinguer les relations établies dans l'organisation documentaire et celles qui sont construites dans une enquête. Les premières facilitent le repérage des ressources et la compréhension de leurs rapports dans le corpus. Les secondes résultent du travail d'examen et de la mobilisation de ressources relativement à une difficulté déterminée.
+
+Une relation documentaire ne suffit donc pas à établir que deux ressources doivent être associées dans une enquête. Inversement, deux ressources éloignées dans le corpus peuvent être rapprochées et mobilisées dans une même configuration lorsqu'un problème le justifie.
+
+Les configurations de ressources ne reproduisent pas nécessairement les relations inscrites dans l'organisation documentaire. Elles doivent être examinées à partir des fonctions que les ressources remplissent effectivement et des difficultés auxquelles leur association permet de répondre.
+
 ## 5. Principes d'organisation du corpus
 
 ### 5.1. Préserver la fonction propre de chaque page
@@ -299,9 +335,15 @@ La table des matières, les parcours de lecture et les documents d'audit ont cha
 
 ### 5.4. Maintenir une organisation révisable
 
-Les fonctions documentaires ne sont pas définitives. Une page peut changer de fonction, être déplacée, scindée, fusionnée ou archivée lorsque l'évolution du corpus le justifie.
+Les fonctions documentaires et les relations entre les pages ne sont pas définitives. Une page peut changer de fonction, être déplacée, scindée, fusionnée ou archivée lorsque l'évolution du corpus le justifie.
 
-L'organisation doit être assez stable pour rendre les ressources accessibles, mais assez ouverte pour accueillir de nouvelles analyses et de nouvelles distinctions. La stabilité documentaire ne doit pas empêcher la révision conceptuelle.
+L'organisation documentaire doit être assez stable pour rendre les ressources accessibles, mais assez ouverte pour accueillir de nouvelles analyses et de nouvelles distinctions. La stabilité documentaire ne doit pas empêcher la révision conceptuelle.
+
+Cette exigence de révision ne signifie pas que chaque transformation d'une enquête doit entraîner une modification de l'architecture documentaire. Une enquête peut associer autrement des ressources existantes, construire une nouvelle configuration ou abandonner un agencement devenu insuffisant sans que le classement des pages doive être modifié.
+
+Inversement, une évolution du corpus peut rendre disponibles de nouvelles ressources ou modifier la compréhension de celles qui existent déjà. Elle peut alors conduire à reprendre certaines configurations d'enquête.
+
+La révision de l'organisation documentaire et la révision des configurations de ressources sont donc liées, mais ne se confondent pas. Elles répondent à des problèmes distincts et ne nécessitent pas systématiquement les mêmes modifications.
 
 ## 6. Réviser une ressource
 
@@ -373,9 +415,13 @@ Une organisation documentaire claire rend les analyses plus accessibles et leur 
 
 L'architecture du projet Protokin organise les ressources documentaires selon leurs fonctions et leurs relations. Elle permet de comprendre ce que chaque page apporte, de rendre explicites les dépendances pertinentes et d'examiner les conséquences des révisions.
 
-Elle se distingue de l'architecture fonctionnelle de l'enquête, qui présente l'organisation des travaux d'examen et leur articulation avec les orientations sous lesquelles ils sont conduits. Les opérations et les orientations sont des ressources distinctes, mais aucune opération n'est mobilisée indépendamment de tout rapport de questionnement. Leur articulation est située et révisable ; elle ne constitue ni un parcours ni une succession obligatoire.
+Elle se distingue de l'architecture fonctionnelle de l'enquête, qui présente les fonctions des composantes de l'examen et les relations permettant de les articuler. Les opérations et les orientations sont des ressources distinctes, mais aucune opération n'est mobilisée indépendamment de tout rapport de questionnement. Leur articulation est située et révisable ; elle ne constitue ni un parcours ni une succession obligatoire.
 
-L'architecture documentaire ne doit pas non plus être confondue avec les objets de l'examen, les dimensions de la connaissance ou les ressources théoriques qui contribuent à l'analyse.
+Il faut également distinguer l'organisation et la configuration des ressources. L'organisation concerne l'articulation des activités et des ressources relativement à un problème. La configuration désigne un agencement particulier de ces ressources et de leurs relations dans une situation déterminée.
+
+Une enquête constitue une organisation de travaux d'examen. Elle peut mobiliser plusieurs configurations successives ou concurrentes, les transformer et reconstruire les relations entre les ressources utilisées. Elle ne se réduit donc pas à une configuration unique.
+
+L'organisation documentaire du corpus rend les ressources accessibles sans prescrire leurs configurations possibles. La révision du corpus et la transformation des configurations d'enquête sont liées, mais demeurent deux activités distinctes.
 
 Son principe directeur est le suivant :
 
