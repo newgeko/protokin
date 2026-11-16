@@ -103,7 +103,31 @@ Voir [Les opérations de référence et leurs articulations](fr/la-chaine-princi
 
 Une orientation précise sous quel rapport une situation, une pratique, une description, une opération ou un résultat est examiné.
 
-Elle indique la question posée, sans déterminer à elle seule le travail nécessaire pour y répondre.
+Elle indique la question sous laquelle un travail d'examen prend sens. Elle ne désigne pas elle-même le travail à accomplir, mais contribue à déterminer la manière dont une opération intervient dans une enquête.
+
+### 3.1. La relation entre opérations et orientations
+
+Les opérations et les orientations remplissent des fonctions distinctes, mais leur mobilisation est constitutivement articulée.
+
+Une opération désigne un travail d'examen : Délimiter, Ancrer, Distinguer, Relier, Configurer, Justifier, Reconstituer ou Redélimiter.
+
+Une orientation précise le rapport sous lequel ce travail interroge son objet. Elle détermine notamment les différences, les relations, les conditions, les fonctions ou les raisons qui deviennent pertinentes pour l'examen.
+
+Une opération n'est donc pas mobilisée indépendamment de toute orientation. Son intervention dans une enquête particulière s'inscrit dans un ou plusieurs rapports de questionnement, même lorsque ceux-ci ne sont pas explicitement formulés dès le commencement.
+
+Cette articulation ne signifie pas que l'orientation précède nécessairement l'opération dans le déroulement du travail. La question examinée et le travail entrepris peuvent se préciser conjointement. Une opération peut faire apparaître la nécessité de reformuler l'orientation initialement retenue ; inversement, une orientation reformulée peut conduire à reprendre une opération ou à en mobiliser une autre.
+
+Il faut ainsi distinguer :
+
+- **L'opération** : le type de travail d'examen entrepris.
+- **L'orientation** : le rapport sous lequel ce travail interroge son objet.
+- **La mobilisation située** : la manière dont une opération intervient sous une ou plusieurs orientations dans une enquête déterminée.
+
+Ces trois éléments ne constituent pas trois moments successifs. Ils permettent de différencier les fonctions et les relations qui organisent un travail d'examen.
+
+Une même opération peut être mobilisée sous plusieurs orientations sans que sa fonction propre disparaisse. Une même orientation peut appeler plusieurs opérations sans se confondre avec elles.
+
+### 3.2. Les quatre orientations de référence
 
 Protokin distingue quatre orientations de référence :
 
@@ -112,17 +136,45 @@ Protokin distingue quatre orientations de référence :
 - **Fonction** : examiner le rôle et la contribution d'un élément dans une pratique ou une configuration déterminée.
 - **Justification** : examiner les raisons, les critères et les inférences susceptibles de soutenir ou de contester une description ou une conclusion.
 
-Ces orientations ne constituent pas quatre dimensions naturelles de toute situation. Elles différencient des rapports de questionnement dont la mobilisation dépend des difficultés rencontrées.
+Ces orientations ne constituent pas quatre dimensions naturelles de toute situation. Elles différencient des rapports de questionnement dont la pertinence dépend des difficultés rencontrées.
 
-Elles ne se confondent pas avec les opérations. Une même opération peut contribuer à plusieurs orientations ; une orientation peut nécessiter plusieurs opérations.
+Elles ne forment pas une grille exhaustive qu'il faudrait appliquer à chaque enquête. Elles constituent des ressources de questionnement susceptibles d'être mobilisées, combinées, précisées ou révisées.
 
-Il faut notamment distinguer l'orientation Relation de l'opération Relier, ainsi que l'orientation Justification de l'opération Justifier.
+### 3.3. La pluralité des articulations
 
-Les quatre orientations ne sont pas strictement symétriques. Condition, Relation et Fonction permettent d'examiner différents rapports relatifs à une situation ou à une pratique. Justification porte plus directement sur les raisons, les critères et les engagements qui permettent de soutenir ou de contester les affirmations produites à leur sujet.
+Il n'existe pas de correspondance fixe entre une opération et une orientation.
 
-Cette différence lui confère une portée réflexive : une justification peut être examinée quelle que soit l'orientation initiale du travail. Elle ne constitue cependant ni une instance extérieure à l'enquête ni une garantie automatique de validité.
+Une opération peut contribuer à plusieurs rapports de questionnement. Par exemple, Distinguer peut servir à différencier des conditions, des types de relations, des fonctions ou des raisons. Son travail reste celui de la distinction, mais ce qui doit être distingué et la portée de cette distinction dépendent de l'orientation retenue.
 
-Les orientations peuvent être combinées, précisées ou révisées. Elles ne forment pas une grille que chaque enquête devrait remplir.
+Inversement, une orientation peut nécessiter plusieurs opérations. Examiner les conditions d'une pratique peut conduire à Délimiter le problème, à Ancrer l'examen dans des éléments disponibles, à Distinguer différentes conditions et à Justifier les conclusions avancées.
+
+Ces exemples ne décrivent pas des associations obligatoires. Ils montrent que l'organisation d'un examen dépend des rapports entre les questions posées et les travaux mobilisés.
+
+Les orientations peuvent également être combinées dans un même travail. Une enquête peut, par exemple, examiner simultanément les conditions d'une pratique, les relations entre ses éléments et les fonctions qu'ils remplissent. Cette combinaison ne supprime pas les différences entre les rapports de questionnement.
+
+### 3.4. Le statut particulier de l'orientation Justification
+
+Les quatre orientations ne sont pas strictement symétriques.
+
+Condition, Relation et Fonction permettent d'examiner différents rapports relatifs à une situation ou à une pratique. Justification porte plus directement sur les raisons, les critères et les engagements qui permettent de soutenir ou de contester les affirmations produites à leur sujet.
+
+Cette différence lui confère une portée réflexive : une justification peut être examinée quelle que soit l'orientation initiale du travail. Elle peut conduire à interroger les raisons mobilisées, les inférences effectuées et les conditions dans lesquelles une conclusion est défendue.
+
+Elle ne constitue cependant ni une instance extérieure à l'enquête ni une garantie automatique de validité. Elle demeure un rapport de questionnement qui peut être mobilisé dans différents travaux d'examen.
+
+Il faut également distinguer l'orientation Justification de l'opération Justifier. La première précise le rapport sous lequel une affirmation ou une conclusion est interrogée ; la seconde désigne le travail consistant à examiner les raisons, les prémisses, les critères et les inférences qui la soutiennent ou la contestent.
+
+### 3.5. Évolution des orientations au cours de l'enquête
+
+Les orientations ne sont pas nécessairement déterminées une fois pour toutes au commencement de l'enquête.
+
+Une difficulté peut conduire à reformuler une question, à déplacer le rapport sous lequel une situation est examinée ou à abandonner une orientation devenue peu pertinente.
+
+Une opération peut ainsi être reprise sous une orientation différente. Un résultat peut également révéler qu'un rapport de questionnement initialement négligé devient nécessaire pour comprendre la situation examinée.
+
+L'articulation entre opérations et orientations est donc révisable. Elle participe à la transformation de l'organisation située de l'enquête.
+
+Les orientations ne constituent ni un préalable universel aux opérations ni un cadre imposé à chaque situation. Elles contribuent à organiser les travaux d'examen à partir des difficultés rencontrées.
 
 Voir [Orientation de l'examen](fr/orientation-de-l-examen.md).
 
