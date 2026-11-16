@@ -36,7 +36,13 @@ Voir [Problème descriptif](fr/probleme-descriptif.md).
 
 Protokin est une démarche d'enquête pragmatiste, inférentialiste et réflexive, méthodologiquement non ontologique.
 
-Il intervient à un second ordre : il examine les pratiques descriptives, leurs ressources et les engagements associés à leurs usages, sans se substituer aux descriptions produites dans ces pratiques.
+Ces trois engagements caractérisent la démarche générale :
+
+- **Pragmatiste** : partir des difficultés rencontrées dans les pratiques et examiner les conséquences des descriptions et des distinctions mobilisées.
+- **Inférentialiste** : examiner les engagements associés aux affirmations, les conséquences qui en sont tirées et les raisons susceptibles de soutenir ou de contester les conclusions.
+- **Réflexif** : soumettre également les ressources, les distinctions et les propositions de Protokin à l'examen et à la révision.
+
+Protokin intervient à un second ordre : il examine les pratiques descriptives, leurs ressources et les engagements associés à leurs usages, sans se substituer aux descriptions produites dans ces pratiques.
 
 Cette position ne signifie pas que les pratiques produisent intégralement ce qu'elles décrivent, ni que l'enquête serait dépourvue de tout engagement concernant ce qui existe.
 
@@ -54,20 +60,24 @@ Pour approfondir ces engagements, voir [Introduction générale](fr/introduction
 
 ## 3. L'organisation fonctionnelle de l'enquête
 
-Dans Protokin, l'enquête est une **organisation**, et non un cheminement parmi des ressources ou une succession d'étapes.
+Dans Protokin, l'enquête est une **organisation située de travaux d'examen**, et non un cheminement parmi des ressources ou une succession d'étapes.
 
 Cette organisation distingue plusieurs composantes selon les fonctions qu'elles remplissent et les relations qu'elles entretiennent.
 
-- **Les opérations** désignent des formes de travail de l'enquête. Elles permettent de différencier les activités d'examen selon leur fonction.
-- **Les orientations** précisent les rapports sous lesquels une situation, une pratique, une opération ou un résultat peut être examiné.
-- **Les aspects transversaux** désignent des dimensions de l'enquête qui concernent plusieurs opérations et peuvent être examinées sous différentes orientations.
-- **Les instruments d'épreuve** fournissent des moyens particuliers de confronter des descriptions, des distinctions ou des conclusions à un examen.
+- **Les opérations** désignent des travaux d'examen distincts par leur fonction.
+- **Les orientations** précisent les rapports sous lesquels une situation, une pratique, une description ou un résultat est interrogé.
+- **Les dimensions transversales** concernent plusieurs opérations et interviennent dans différentes configurations de l'enquête.
+- **Les instruments de confrontation** fournissent des moyens particuliers pour mettre des descriptions, des distinctions ou des conclusions à l'épreuve.
+
+Les opérations et les orientations sont distinctes, mais leur mobilisation est constitutivement articulée : une opération n'est jamais mobilisée indépendamment de tout rapport de questionnement. Elle intervient sous une ou plusieurs orientations, même lorsque celles-ci ne sont pas explicitement formulées au départ.
+
+Il n'existe pas de correspondance fixe entre elles. Une opération peut être mobilisée sous plusieurs orientations ; une orientation peut appeler plusieurs opérations. Leurs rapports peuvent être précisés, combinés ou révisés au cours de l'enquête.
 
 Les catégories regroupent certaines opérations afin d'en faciliter le repérage. Elles ne constituent pas un ensemble supplémentaire de composantes.
 
-Ces composantes ne sont ni des étapes ni les éléments d'une procédure générale. Elles se distinguent par leurs fonctions et s'articulent dans l'organisation de l'enquête. Leur présentation ne prescrit aucun ordre universel de travail.
+L'enquête ne consiste donc pas à parcourir une liste d'opérations dans un ordre déterminé. Elle organise des travaux et des rapports de questionnement en fonction des difficultés rencontrées. Cette organisation peut comporter des reprises, des déplacements et des reconstructions.
 
-L'organisation est ouverte et révisable. Les relations entre ses composantes, leurs délimitations et leur pertinence peuvent elles-mêmes être examinées. Une difficulté descriptive peut ainsi mettre en question non seulement une description particulière, mais également les distinctions et l'organisation qui structurent son examen.
+Elle demeure elle-même révisable : une difficulté peut conduire à modifier une opération, à reformuler une orientation ou à revoir les relations entre les ressources mobilisées.
 
 Voir [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md).
 
@@ -89,16 +99,18 @@ Voir [Fécondité et révisabilité de Protokin](fr/fecondite-et-revisabilite-de
 
 ## 5. Organisation du projet
 
-Protokin distingue deux architectures complémentaires.
+Protokin distingue deux architectures complémentaires qui ne portent pas sur le même objet.
 
 - **L'architecture du projet** organise les ressources documentaires, leurs fonctions, leurs relations et les conditions de leur révision.
-- **L'architecture fonctionnelle de l'enquête** présente l'organisation des composantes qui permettent d'examiner les pratiques descriptives.
+- **L'architecture fonctionnelle de l'enquête** organise les travaux d'examen et les rapports de questionnement dans lesquels ils prennent place.
 
-La première concerne les documents et leur organisation. La seconde concerne les fonctions et les relations constitutives de l'enquête.
+La première concerne les documents et l'organisation du corpus. La seconde concerne les opérations, les orientations, les dimensions transversales, les instruments de confrontation et leurs relations dans une enquête située.
 
-Cette distinction évite de confondre l'organisation du corpus avec l'organisation de l'examen. Une page qui présente une opération ou une orientation est une ressource documentaire ; elle n'est pas elle-même une composante fonctionnelle de l'enquête.
+Il importe également de distinguer les engagements méthodologiques de Protokin des orientations de l'examen. Les engagements pragmatiste, inférentialiste et réflexif caractérisent la démarche générale ; les orientations précisent les rapports sous lesquels les travaux d'examen sont conduits.
 
-L'organisation documentaire et l'organisation fonctionnelle sont toutes deux révisables, mais elles ne répondent pas aux mêmes problèmes.
+Une page qui présente une opération ou une orientation est une ressource documentaire : elle ne se confond pas avec la composante fonctionnelle qu'elle décrit.
+
+Les deux architectures sont révisables, mais elles ne répondent pas aux mêmes problèmes. La première permet d'organiser et de réviser le corpus ; la seconde permet de différencier et d'articuler les travaux d'examen.
 
 Voir [Architecture du projet](fr/architecture-projet.md).
 
