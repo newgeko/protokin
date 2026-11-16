@@ -63,13 +63,15 @@ Une relation entre deux éléments n'établit pas leur identité. Une dépendanc
 
 Ce principe vaut aussi pour les ressources de l'enquête : une opération, une orientation, un aspect transversal ou un instrument ne doivent pas être assimilés au seul motif qu'ils interviennent dans un même examen.
 
-### 2.3. Respecter l'orientation méthodologique du projet
+### 2.3. Respecter les engagements méthodologiques du projet
 
 Protokin est une démarche d'enquête pragmatiste, inférentialiste, réflexive et non ontologique sur les pratiques descriptives.
 
-Les pages examinent les conditions, les fonctions, les engagements et les transformations de ces pratiques. Elles ne doivent pas convertir directement une analyse descriptive en affirmation ontologique.
+Ces engagements déterminent la manière dont le projet aborde les descriptions, leurs conditions, leurs fonctions, leurs justifications et leurs transformations. Ils ne constituent pas les orientations de l'examen : celles-ci désignent les rapports sous lesquels une situation, une pratique ou une description est interrogée.
 
-Elles ne doivent ni supposer que toutes les descriptions se valent, ni considérer qu'une description cohérente est nécessairement adéquate.
+Les pages ne doivent pas convertir directement une analyse descriptive en affirmation ontologique. Elles ne doivent ni supposer que toutes les descriptions se valent, ni considérer qu'une description cohérente est nécessairement adéquate.
+
+Les distinctions et les ressources proposées par Protokin doivent rester examinables et révisables à partir des difficultés rencontrées. Elles ne constituent pas une grille préalable qui déterminerait uniformément la manière de conduire toute enquête.
 
 **La cohérence d'une description ne suffit pas à établir son adéquation à ce qu'elle prétend décrire.**
 
@@ -122,7 +124,9 @@ Lorsqu'une notion est définie dans une page de référence, les autres pages pr
 
 Si un terme change de sens ou de fonction entre plusieurs pages, il faut examiner cette variation au lieu de l'harmoniser automatiquement.
 
-Les termes « auditer » et « auditeur » ont un usage spécifique dans Protokin : le premier désigne une fonction d'examen critique susceptible d'être mobilisée transversalement ; le second, une position discursive et pratique. L'audit ne doit pas être présenté comme une procédure autonome ou une catégorie documentaire supplémentaire.
+Les termes « auditer » et « auditeur » ont un usage spécifique dans Protokin : le premier désigne une fonction d'examen critique susceptible d'être mobilisée transversalement ; le second, une position discursive et pratique. L'audit ne doit pas être présenté comme une opération supplémentaire, une procédure autonome ou une catégorie documentaire.
+
+Il convient également de distinguer l'audit de l'épreuve. L'audit désigne une fonction critique qui peut intervenir dans différents travaux de l'enquête. L'épreuve désigne une exigence générale de confrontation des descriptions, des distinctions et des conclusions aux éléments susceptibles de les soutenir, de les limiter ou de les mettre en difficulté. Les instruments de confrontation constituent des moyens particuliers de satisfaire cette exigence ; ils ne se confondent pas avec elle.
 
 ### 3.3. Mobiliser les exemples et les références à bon escient
 
@@ -178,19 +182,24 @@ Présenter le projet, expliciter son problème de départ ou rendre intelligible
 
 1. Fonction de la page.
 2. Problème auquel elle répond.
-3. Orientation ou organisation présentée.
-4. Distinctions structurantes.
+3. Présentation du projet, de ses engagements méthodologiques ou de l'organisation qu'elle examine.
+4. Distinctions structurantes nécessaires à la compréhension de cette présentation.
 5. Portée et limites.
 6. Renvois vers les ressources complémentaires.
 
 **Différenciation des fonctions**
 
-- Le `README.md` présente le projet et oriente le lecteur vers ses ressources.
-- `fr/introduction-generale.md` expose le problème de départ, l'orientation et la portée de la démarche.
-- `fr/architecture-projet.md` explique l'organisation documentaire et les relations entre les ressources.
-- `fr/architecture-fonctionnelle-de-l-enquete.md` présente les ressources mobilisables pour examiner les pratiques descriptives.
-- `fr/orientation-de-l-examen.md` définit les orientations et précise leur fonction dans l'examen.
-- `fr/nom-origine-portee.md` examine l'origine et la portée du nom Protokin.
+Les pages de cadrage ne doivent pas confondre l'organisation documentaire du projet et l'organisation fonctionnelle de l'enquête. Ces deux architectures sont complémentaires, mais elles ne décrivent pas le même objet.
+- Le README.md présente synthétiquement le projet et oriente le lecteur vers ses ressources.
+- fr/introduction-generale.md expose le problème de départ, les engagements méthodologiques et la portée de la démarche.
+- fr/architecture-projet.md explique l'organisation documentaire du projet et les relations entre ses ressources.
+- fr/architecture-fonctionnelle-de-l-enquete.md présente les ressources fonctionnelles mobilisables dans l'examen des pratiques descriptives et leur articulation.
+- fr/orientation-de-l-examen.md définit les orientations et précise leur fonction dans les travaux d'examen.
+- fr/nom-origine-portee.md examine l'origine et la portée du nom Protokin.
+- 
+L'organisation fonctionnelle de l'enquête ne doit pas être présentée comme un cheminement prédéfini ou une succession obligatoire d'opérations. L'enquête constitue une organisation située de ressources et de travaux d'examen. Les opérations y sont mobilisées sous une ou plusieurs orientations, lesquelles peuvent être précisées et reformulées au cours du travail.
+
+Les pages qui présentent ces architectures doivent maintenir cette distinction sans chercher à reproduire l'ensemble de leur contenu. Elles doivent rendre intelligible la fonction propre de chacune et orienter vers le document de référence correspondant.
 
 Cette répartition constitue un repère fonctionnel à confronter au contenu réel des fichiers. Elle ne justifie pas de faire répéter à chaque page l'ensemble de la présentation du projet.
 
