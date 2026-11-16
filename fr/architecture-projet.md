@@ -43,7 +43,19 @@ Les catégories regroupent certaines opérations afin d'en faciliter le repérag
 
 L'examen peut également porter sur cinq dimensions de la connaissance : **Percevoir et prêter attention ; Identifier et distinguer ; Anticiper et inférer ; Évaluer et justifier ; Reprendre et réviser.** Ces dimensions désignent des aspects interdépendants des activités de connaissance que l'enquête peut avoir à distinguer et à mettre en relation. Elles ne constituent pas des ressources fonctionnelles supplémentaires de l'architecture. Elles ne se confondent pas non plus avec les aspects transversaux de l'enquête, qui concernent notamment la temporalité et la réflexivité.
 
-Les théories de la connaissance et du langage constituent des ressources théoriques mobilisables selon les difficultés rencontrées. Elles ne forment pas un ensemble supplémentaire de composantes de l'architecture fonctionnelle.
+**Le langage et la connaissance comme objets et ressources de l'examen**
+
+Protokin mobilise les théories du langage et de la connaissance parce que les pratiques descriptives ne consistent pas simplement à enregistrer des propriétés d'un monde déjà découpé et identifié.
+
+Décrire suppose des usages linguistiques, des distinctions conceptuelles, des opérations d'identification, des relations inférentielles et des critères de justification. Les descriptions produites engagent ainsi des manières de reconnaître les situations, de les rendre intelligibles et de soutenir certaines affirmations à leur sujet.
+
+Les théories du langage permettent d'examiner les conditions d'intelligibilité des descriptions : usages des termes, construction des distinctions, organisation des énoncés, engagements et conséquences inférentielles.
+
+Les théories de la connaissance permettent d'examiner les conditions dans lesquelles les descriptions sont produites, justifiées, mises à l'épreuve et révisées. Elles attirent notamment l'attention sur les rapports entre perception, identification, anticipation, inférence, justification et expérience.
+
+Ces deux domaines sont complémentaires. La cohérence linguistique et inférentielle d'une description ne suffit pas à établir son adéquation à ce qu'elle prétend décrire. Inversement, cette adéquation ne peut être examinée sans prendre en compte les moyens conceptuels et discursifs par lesquels la description est construite et défendue.
+
+Protokin ne cherche pas à établir une théorie générale du langage ou de la connaissance. Il mobilise leurs ressources pour examiner les pratiques descriptives et les difficultés qu'elles rencontrent. Ces ressources ne constituent ni des fondements de l'enquête ni des normes universelles auxquelles toute description devrait se conformer. Elles sont elles-mêmes discutables et révisables.
 
 L'architecture fonctionnelle ne prescrit ni une succession universelle d'opérations ni une grille à appliquer systématiquement. Les ressources sont mobilisées selon les difficultés rencontrées et peuvent être articulées, reprises ou révisées.
 
