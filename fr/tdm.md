@@ -329,6 +329,7 @@ Ces pages présentent des ressources conceptuelles utiles à l'examen des pratiq
 ### B. Auteurs et contributions philosophiques
 
 - [John Dewey](fr/john-dewey.md) — Examiner l'enquête comme transformation de situations problématiques, le rôle des habitudes et les rapports entre organisme et environnement.
+- [John Dewey et la logique de l'enquête](fr/john-dewey-et-la-logique-de-l-enquete.md) — Comparer la logique de l'enquête de Dewey et l'architecture fonctionnelle de Protokin, en précisant leurs convergences, leurs différences et les déplacements opérés.
 - [Charles Sanders Peirce](fr/charles-sanders-peirce.md) — Examiner la clarification pragmatique des concepts, les relations sémiotiques, l'abduction et la révision des croyances.
 - [Ludwig Wittgenstein](fr/ludwig-wittgenstein.md) — Examiner les rapports entre usages du langage, suivi des règles, formes de vie et critères de correction.
 - [Wilfrid Sellars](fr/wilfrid-sellars.md) — Examiner la critique du donné et les rapports entre expérience, explication et espace des raisons.
