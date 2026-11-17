@@ -54,9 +54,9 @@ L'architecture distingue quatre ensembles de ressources.
 | Dimensions transversales | Prendre en compte des dimensions susceptibles d'intervenir dans plusieurs travaux. |
 | Instruments d'épreuve | Configurer des ressources en vue d'une confrontation déterminée. |
 
-Ces ensembles se distinguent par leur fonction. Ils ne constituent ni des niveaux hiérarchiques ni les moments successifs d'une procédure.
+Ces ensembles se distinguent par leur fonction. Ils ne constituent ni des niveaux hiérarchiques ni les moments successifs d'une procédure. Leur présence dans l'architecture ne signifie pas qu'ils doivent tous être mobilisés dans chaque enquête.
 
-Leur mobilisation est articulée : une opération intervient sous une ou plusieurs orientations, peut prendre en compte des dimensions transversales et mobiliser un instrument d'épreuve. L'organisation particulière de ces ressources dépend de la difficulté examinée.
+Le problème descriptif conduit à déterminer quelles ressources sont pertinentes et comment elles peuvent être articulées. Une opération peut être mobilisée sous une ou plusieurs orientations, prendre en compte des aspects transversaux et recourir à un instrument d'épreuve. Ces relations ne sont pas fixées à l'avance : elles se précisent et peuvent être révisées au cours de l'examen.
 
 ### 2.1. Les catégories : regrouper les opérations
 
