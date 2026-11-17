@@ -126,7 +126,7 @@ Si un terme change de sens ou de fonction entre plusieurs pages, il faut examine
 
 Les termes « auditer » et « auditeur » ont un usage spécifique dans Protokin : le premier désigne une fonction d'examen critique susceptible d'être mobilisée transversalement ; le second, une position discursive et pratique. L'audit ne doit pas être présenté comme une opération supplémentaire, une procédure autonome ou une catégorie documentaire.
 
-Il convient également de distinguer l'audit de l'épreuve. L'audit désigne une fonction critique qui peut intervenir dans différents travaux de l'enquête. L'épreuve désigne une exigence générale de confrontation des descriptions, des distinctions et des conclusions aux éléments susceptibles de les soutenir, de les limiter ou de les mettre en difficulté. Les instruments de confrontation constituent des moyens particuliers de satisfaire cette exigence ; ils ne se confondent pas avec elle.
+Il convient également de distinguer l'audit de l'épreuve. L'audit désigne une fonction critique qui peut intervenir dans différents travaux de l'enquête. L'épreuve désigne une exigence générale de confrontation des descriptions, des distinctions et des conclusions aux éléments susceptibles de les soutenir, de les limiter ou de les mettre en difficulté. Les **instruments d'épreuve** sont des configurations situées de ressources constituées en vue d'une confrontation déterminée. Ils ne se confondent ni avec cette exigence générale ni avec les ressources qui les composent.
 
 ### 3.3. Mobiliser les exemples et les références à bon escient
 
@@ -190,13 +190,14 @@ Présenter le projet, expliciter son problème de départ ou rendre intelligible
 **Différenciation des fonctions**
 
 Les pages de cadrage ne doivent pas confondre l'organisation documentaire du projet et l'organisation fonctionnelle de l'enquête. Ces deux architectures sont complémentaires, mais elles ne décrivent pas le même objet.
+
 - Le README.md présente synthétiquement le projet et oriente le lecteur vers ses ressources.
 - fr/introduction-generale.md expose le problème de départ, les engagements méthodologiques et la portée de la démarche.
 - fr/architecture-projet.md explique l'organisation documentaire du projet et les relations entre ses ressources.
 - fr/architecture-fonctionnelle-de-l-enquete.md présente les ressources fonctionnelles mobilisables dans l'examen des pratiques descriptives et leur articulation.
 - fr/orientation-de-l-examen.md définit les orientations et précise leur fonction dans les travaux d'examen.
 - fr/nom-origine-portee.md examine l'origine et la portée du nom Protokin.
-- 
+
 L'organisation fonctionnelle de l'enquête ne doit pas être présentée comme un cheminement prédéfini ou une succession obligatoire d'opérations. L'enquête constitue une organisation située de ressources et de travaux d'examen. Les opérations y sont mobilisées sous une ou plusieurs orientations, lesquelles peuvent être précisées et reformulées au cours du travail.
 
 Les pages qui présentent ces architectures doivent maintenir cette distinction sans chercher à reproduire l'ensemble de leur contenu. Elles doivent rendre intelligible la fonction propre de chacune et orienter vers le document de référence correspondant.
@@ -316,39 +317,46 @@ Un exemple minimal, tel que « Ce vélo est rouge », peut servir à distinguer 
 
 La page identifie la fonction langagière ou inférentielle examinée, les distinctions nécessaires et les conséquences qui peuvent légitimement en être tirées.
 
-### Pattern E — Pages consacrées aux méthodes et aux instruments
+### Pattern E — Pages consacrées aux méthodes et aux instruments d'épreuve
 
 **Fonction**
 
-Présenter un moyen ou une procédure permettant d'examiner une description, de comparer plusieurs descriptions ou d'éprouver une distinction.
+Présenter une méthode, un instrument d'épreuve ou leur articulation, en précisant la fonction de chacun dans un travail déterminé.
+
+Une **méthode** organise des activités et des ressources en vue d'un travail déterminé. Un **instrument d'épreuve** est une configuration située de ressources constituée pour confronter une description, une distinction, une relation ou une conclusion à des éléments susceptibles d'en examiner la portée et les limites.
+
+Une page relevant de ce pattern doit préciser si elle porte sur une méthode, sur un instrument ou sur leur articulation. Elle ne doit pas assimiler l'instrument à une ressource isolée, à une procédure universelle ou à l'ensemble de la méthode.
 
 **Structure indicative**
 
-1. Objet de l'examen.
-2. Problème auquel le moyen répond.
-3. Conditions d'application.
-4. Description de la procédure ou de l'instrument.
-5. Questions à poser.
-6. Éléments à recueillir.
-7. Règles d'interprétation.
-8. Limites.
-9. Exemple d'application.
-10. Résultat attendu.
+1. **Fonction et objet** : préciser si la page examine une méthode, un instrument d'épreuve ou leur articulation.
+2. **Problème** : identifier la difficulté à laquelle la méthode ou la configuration répond.
+3. **Ressources mobilisées** : présenter les éléments pertinents et les relations qui les associent.
+4. **Configuration de l'épreuve** : préciser, lorsqu'un instrument est en jeu, ce qui est confronté, selon quels rapports et à partir de quels critères.
+5. **Conditions de mobilisation** : déterminer les situations dans lesquelles la méthode ou l'instrument peut être pertinent.
+6. **Éléments examinés** : distinguer les observations, les matériaux, les critères et les interprétations.
+7. **Résultats possibles** : préciser ce que l'examen peut établir, limiter ou laisser indéterminé.
+8. **Limites et révision** : identifier les conditions d'insuffisance, d'inadéquation ou de transformation de la méthode ou de la configuration.
+9. **Exemple d'application**, si nécessaire.
 
 **Points de vigilance**
 
-- Distinguer l'instrument, son objet et les conclusions tirées de son application.
-- Expliciter les conditions qui rendent son emploi pertinent.
-- Distinguer les observations de leur interprétation.
-- Ne pas présenter la procédure comme une garantie automatique de validité.
+- Distinguer une méthode, qui organise un ensemble d'activités et de ressources, d'un instrument d'épreuve, qui désigne une configuration particulière de ressources.
+- Ne pas assimiler l'instrument à l'une des ressources qui le composent.
+- Ne pas attribuer à une ressource une fonction d'épreuve intrinsèque, indépendamment de la configuration dans laquelle elle intervient.
+- Distinguer l'exigence générale d'épreuve de l'instrument particulier constitué pour y répondre.
+- Ne pas considérer qu'une méthode constitue nécessairement un instrument ou qu'elle se réduit à la confrontation.
+- Ne pas supposer qu'un instrument correspond à une opération unique ou qu'il doit être mobilisé sous une seule orientation.
+- Expliciter les conditions qui rendent la configuration pertinente au regard du problème examiné.
+- Distinguer les observations de leur interprétation et les résultats de leur portée.
+- Ne pas présenter une procédure ou une configuration comme une garantie automatique de validité.
 - Ne pas confondre l'absence de résultat concluant avec la confirmation d'une hypothèse.
-- Permettre l'application du moyen sans obliger le lecteur à reconstruire toute l'architecture théorique.
-- Préciser ce qui pourrait rendre l'instrument inadapté ou nécessiter sa révision.
+- Préciser ce qui pourrait rendre la configuration inadaptée ou nécessiter sa révision.
 - Ne pas transformer une exigence générale d'examen en instrument particulier.
 
 **Critère de réussite**
 
-Le lecteur sait quoi examiner, comment procéder, ce qu'il peut conclure et ce qui exige un examen supplémentaire.
+Le lecteur comprend la fonction de la méthode ou de l'instrument, les ressources et les relations qui organisent son intervention, les conditions de sa mobilisation et les conclusions qu'il permet — ou ne permet pas — de soutenir.
 
 ### Pattern F — Pages consacrées aux relations entre notions ou régimes descriptifs
 
@@ -396,7 +404,7 @@ Une étude de cas ne constitue pas une simple illustration des notions de Protok
 2. **Statut du cas et matériaux disponibles** : préciser s'il s'agit d'un exemple construit, d'une situation empirique, d'un cas historique, d'une étude documentaire ou d'une analyse argumentative. Identifier les sources et les limites documentaires.
 3. **Question d'enquête** : formuler la difficulté descriptive examinée et délimiter provisoirement son périmètre.
 4. **Descriptions et positions en présence** : identifier les descriptions mobilisées, leurs auteurs ou leurs sources, leurs fonctions et leurs éventuelles divergences.
-5. **Ressources d'examen mobilisées** : préciser, lorsque cela est utile, les opérations, les orientations, les aspects transversaux et les instruments effectivement mobilisés.
+5. **Ressources d'examen mobilisées** : préciser, lorsque cela est utile, les opérations, les orientations, les aspects transversaux et les instruments d'épreuve effectivement constitués ou mobilisés.
 6. **Examen de la situation** : analyser les différences, les relations, les configurations, les engagements et les éléments qui soutiennent ou contestent les descriptions.
 7. **Reprises et résultats** : rendre compte des réexamens effectués, des modifications apportées aux descriptions et des conclusions effectivement soutenues.
 8. **Limites et éléments résistants** : identifier ce qui demeure indéterminé, ce qui échappe aux ressources mobilisées et ce qui pourrait contester l'interprétation proposée.
