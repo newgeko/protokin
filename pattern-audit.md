@@ -148,7 +148,7 @@ Il faut notamment vérifier que les documents distinguent correctement :
 - **Les opérations**, qui désignent des travaux d'examen de second ordre portant sur les pratiques descriptives, leurs conditions, leurs relations, leurs fonctions et leurs justifications.
 - **Les orientations**, qui précisent les rapports sous lesquels une situation, une pratique, une description, une opération ou un résultat est interrogé. Elles comprennent les orientations de la condition, de la relation, de la fonction et de la justification.
 - **Les dimensions transversales**, qui concernent plusieurs opérations et peuvent intervenir dans différentes configurations de l'enquête. Elles ne constituent ni des opérations supplémentaires ni des étapes obligatoires.
-- **Les instruments de confrontation**, qui fournissent des moyens particuliers pour confronter des descriptions, des distinctions ou des conclusions.
+- **Les instruments d'épreuve**, qui sont des configurations situées de ressources constituées en vue de confronter une description, une distinction, une relation ou une conclusion à des éléments susceptibles d'en examiner la portée et les limites. Leur fonction instrumentale dépend de l'association de ces ressources relativement à une difficulté déterminée ; aucune ressource ne constitue à elle seule un instrument par nature.
 
 Les opérations et les orientations sont distinctes, mais leur mobilisation est constitutivement articulée. Une opération n'est jamais mobilisée indépendamment de tout rapport de questionnement : elle intervient sous une ou plusieurs orientations, même lorsque celles-ci ne sont pas explicitement formulées au départ.
 
@@ -164,7 +164,9 @@ Questions à examiner :
 - Les catégories sont-elles présentées comme des regroupements d'opérations, et non comme une composante supplémentaire ?
 - Les dimensions transversales sont-elles distinguées des opérations et des orientations ?
 - Les dimensions de la connaissance sont-elles distinguées des dimensions transversales de l'enquête, sans nier les rapports qu'elles peuvent entretenir ?
-- Les instruments de confrontation sont-ils distingués de l'exigence générale d'épreuve ?
+- Les instruments d'épreuve sont-ils présentés comme des configurations situées de ressources, et non comme des ressources isolées ou des procédures universelles ?
+- Les instruments d'épreuve sont-ils distingués de l'exigence générale d'épreuve ?
+- Les ressources qui composent un instrument sont-elles distinguées de la configuration qui leur confère une fonction de confrontation dans une situation déterminée ?
 - Une fonction transversale, une dimension ou un instrument est-il présenté à tort comme une opération ?
 - Les ressources sont-elles décrites sans réintroduire de correspondances, de hiérarchies ou de successions obligatoires abandonnées par l'architecture actuelle ?
 
