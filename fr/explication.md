@@ -95,6 +95,8 @@ L’explication de l’inclinaison ne détermine pas, à elle seule, le niveau d
 
 L’exemple montre qu’une même situation peut être examinée sous plusieurs rapports sans que les réponses se remplacent mutuellement.
 
+Pour examiner plus précisément les relations entre plusieurs explications, voir [Pluralisme explicatif](fr/pluralisme-explicatif.md).
+
 ## Conditions d’examen et limites
 
 Une explication peut être examinée en posant quelques questions :
