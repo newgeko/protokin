@@ -65,6 +65,8 @@ Huit opérations sont actuellement distinguées :
 - **Reconstituer** : rendre intelligible et réexaminable l'organisation de l'enquête à partir des travaux accomplis et des résultats disponibles.
 - **Redélimiter** : réexaminer la formulation et le périmètre du problème lorsque les résultats ou les difficultés rencontrées conduisent à les modifier.
 
+Configurer désigne le travail de construction ou de révision d'une organisation. Un instrument d'épreuve désigne, quant à lui, une configuration particulière de ressources constituée en vue d'une confrontation. L'opération peut contribuer à construire ou à réviser un instrument, sans se confondre avec celui-ci.
+
 #### Le caractère opératoire des opérations
 
 Une opération ne consiste pas seulement à décrire une activité. Elle intervient sur les conditions dans lesquelles une difficulté peut être examinée.
