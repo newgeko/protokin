@@ -252,20 +252,26 @@ Protokin ne remplace pas les méthodes propres aux disciplines et aux pratiques 
 
 ## 4. Organisation et configurations situées
 
-L'architecture fonctionnelle présente les ressources disponibles et leurs relations possibles. Elle ne détermine pas la manière dont elles seront associées dans chaque enquête.
+L'architecture fonctionnelle présente les ressources disponibles et leurs relations possibles. Elle ne détermine pas à l'avance la manière dont elles seront associées dans chaque enquête.
 
 Il faut distinguer deux notions :
 
-- **L'organisation** concerne les relations entre les ressources et les fonctions qu'elles remplissent dans l'examen.
-- **La configuration** désigne un agencement particulier de ressources et de relations dans une situation déterminée.
+- **L'organisation fonctionnelle** concerne les fonctions des ressources et les relations possibles entre elles dans l'architecture de Protokin.
+- **La configuration d'examen** désigne l'agencement situé de ressources effectivement mobilisées dans le traitement d'un problème descriptif.
 
-Une configuration peut associer plusieurs opérations, une ou plusieurs orientations, des dimensions transversales, des matériaux et un ou plusieurs instruments d'épreuve.
+Une configuration d'examen peut associer plusieurs opérations, une ou plusieurs orientations, des dimensions transversales, des matériaux, des méthodes et un ou plusieurs instruments d'épreuve. Ces ressources prennent leur fonction dans les travaux auxquels elles participent et dans les relations qu'elles entretiennent au cours de l'examen.
 
-Elle est située, partielle et révisable. Elle ne constitue pas une architecture générale et ne doit pas être confondue avec l'organisation documentaire du corpus.
+La configuration ne constitue donc pas un plan qui précéderait l'enquête. Elle se forme dans l'activité d'examen elle-même. Elle peut être plus ou moins étendue selon la difficulté rencontrée et les ressources nécessaires à son traitement.
 
-Une même enquête peut mobiliser plusieurs configurations, les comparer, les transformer ou les abandonner. Une configuration peut également être reconstruite rétrospectivement à partir des travaux accomplis et des résultats disponibles.
+Une enquête peut être conduite à partir d'une seule configuration. Lorsque celle-ci permet de traiter suffisamment le problème au regard de l'objectif poursuivi, rien n'impose de lui adjoindre d'autres configurations ou de mobiliser les ressources qui n'ont pas été nécessaires.
 
-Les relations entre les ressources ne sont donc pas toutes déterminées à l'avance. Elles peuvent se préciser au cours de l'enquête, à mesure que les difficultés sont examinées et que les résultats conduisent à reprendre certains travaux.
+Une même enquête peut également mobiliser plusieurs configurations. Elles peuvent être successives lorsque de nouveaux résultats conduisent à réorganiser l'examen, ou simultanées lorsque plusieurs rapports de questionnement doivent être traités conjointement.
+
+Une configuration est ainsi située et révisable. Elle peut être maintenue, précisée, transformée ou abandonnée lorsque les travaux accomplis révèlent de nouvelles difficultés. Elle peut aussi être reconstruite rétrospectivement à partir des opérations effectivement réalisées et des résultats disponibles.
+
+Il faut enfin distinguer la configuration mobilisée dans l'examen de sa reconstruction rétrospective. La première correspond à l'agencement effectif des ressources dans les travaux accomplis ; la seconde rend cet agencement intelligible à partir des traces et des résultats disponibles. La reconstruction ne doit pas faire croire que l'organisation observée après coup avait été entièrement déterminée dès le début.
+
+Les relations entre les ressources ne sont donc pas toutes fixées à l'avance. Elles se précisent dans l'examen, à mesure que les difficultés sont traitées et que les résultats conduisent éventuellement à reprendre certains travaux.
 
 ### 4.1. Les modes d'intervention
 
@@ -361,7 +367,7 @@ Les opérations ne constituent ni une procédure ni une succession nécessaire d
 
 Les catégories regroupent certaines opérations sans constituer un ensemble fonctionnel supplémentaire. Les méthodes organisent des activités et des ressources sans former une composante supplémentaire de l'architecture. L'audit désigne une fonction critique transversale ; l'épreuve, une exigence générale de confrontation.
 
-L'organisation fonctionnelle présente les ressources disponibles ; le problème descriptif fait émerger les besoins d'examen et oriente leur mobilisation. Les configurations désignent les agencements particuliers de ces ressources dans une enquête. Elles constituent des préconfigurations provisoires, élaborées en fonction de la difficulté rencontrée et révisables à mesure que le problème se précise ou se transforme. Leur mobilisation peut être combinée, interrompue, reprise et révisée.
+L'organisation fonctionnelle présente les ressources disponibles et leurs relations possibles. Le problème descriptif fait émerger les besoins d'examen et oriente leur mobilisation. Les configurations désignent les agencements situés de ces ressources lorsqu'elles sont effectivement engagées dans l'examen. Une enquête peut se limiter à une configuration lorsque celle-ci permet de traiter suffisamment le problème ; elle peut aussi en mobiliser plusieurs, les reprendre ou les transformer selon les difficultés rencontrées.
 
 Le problème descriptif suscite et oriente la constitution des configurations ; l'architecture fonctionnelle rend les ressources et leurs relations intelligibles sans prescrire leur mobilisation ni leur ordre.
 
