@@ -58,28 +58,22 @@ Les descriptions restent confrontables aux situations auxquelles elles se rappor
 
 Pour approfondir ces engagements, voir [Introduction générale](fr/introduction-generale.md).
 
-## 3. L'organisation fonctionnelle de l'enquête
+## 3. Les ressources fonctionnelles de l'enquête
 
-Dans Protokin, l'enquête est une **organisation située de travaux d'examen**, et non un cheminement parmi des ressources ou une succession d'étapes.
+Protokin distingue plusieurs ensembles de ressources selon les fonctions qu'ils peuvent remplir dans l'examen des pratiques descriptives.
 
-Cette organisation distingue plusieurs composantes selon les fonctions qu'elles remplissent et les relations qu'elles entretiennent.
-
-- **Les opérations** désignent des travaux d'examen distincts par leur fonction.
+- **Les opérations** désignent les travaux d'examen.
 - **Les orientations** précisent les rapports sous lesquels une situation, une pratique, une description ou un résultat est interrogé.
-- **Les dimensions transversales** concernent plusieurs opérations et interviennent dans différentes configurations de l'enquête.
-- **Les instruments de confrontation** fournissent des moyens particuliers pour mettre des descriptions, des distinctions ou des conclusions à l'épreuve.
+- **Les dimensions transversales** concernent plusieurs travaux et peuvent intervenir dans différentes configurations de l'enquête.
+- **Les instruments d'épreuve** sont des configurations situées de ressources constituées pour confronter une description, une distinction, une relation ou une conclusion à des éléments susceptibles d'en examiner la portée et les limites.
 
-Les opérations et les orientations sont distinctes, mais leur mobilisation est constitutivement articulée : une opération n'est jamais mobilisée indépendamment de tout rapport de questionnement. Elle intervient sous une ou plusieurs orientations, même lorsque celles-ci ne sont pas explicitement formulées au départ.
+Les catégories regroupent certaines opérations afin d'en faciliter le repérage. Elles ne constituent pas un ensemble supplémentaire de composantes fonctionnelles.
 
-Il n'existe pas de correspondance fixe entre elles. Une opération peut être mobilisée sous plusieurs orientations ; une orientation peut appeler plusieurs opérations. Leurs rapports peuvent être précisés, combinés ou révisés au cours de l'enquête.
+Ces ressources se distinguent par leurs fonctions, mais peuvent être articulées dans une enquête déterminée. Leur présentation ne définit ni un ordre universel ni une succession obligatoire.
 
-Les catégories regroupent certaines opérations afin d'en faciliter le repérage. Elles ne constituent pas un ensemble supplémentaire de composantes.
+Les instruments d'épreuve ne se confondent pas avec l'exigence générale d'épreuve : ils désignent des configurations particulières de ressources mobilisées pour une confrontation déterminée.
 
-L'enquête ne consiste donc pas à parcourir une liste d'opérations dans un ordre déterminé. Elle organise des travaux et des rapports de questionnement en fonction des difficultés rencontrées. Cette organisation peut comporter des reprises, des déplacements et des reconstructions.
-
-Elle demeure elle-même révisable : une difficulté peut conduire à modifier une opération, à reformuler une orientation ou à revoir les relations entre les ressources mobilisées.
-
-Voir [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md).
+Pour comprendre leur statut et leurs relations, voir [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) et [Instrument d'épreuve](fr/instrument-d-epreuve.md).
 
 ## 4. Une démarche située et révisable
 
@@ -102,17 +96,13 @@ Voir [Fécondité et révisabilité de Protokin](fr/fecondite-et-revisabilite-de
 Protokin distingue deux architectures complémentaires qui ne portent pas sur le même objet.
 
 - **L'architecture du projet** organise les ressources documentaires, leurs fonctions, leurs relations et les conditions de leur révision.
-- **L'architecture fonctionnelle de l'enquête** organise les travaux d'examen et les rapports de questionnement dans lesquels ils prennent place.
+- **L'architecture fonctionnelle de l'enquête** distingue les fonctions des ressources mobilisables dans l'examen des pratiques descriptives et les relations qui permettent de les articuler.
 
-La première concerne les documents et l'organisation du corpus. La seconde concerne les opérations, les orientations, les dimensions transversales, les instruments de confrontation et leurs relations dans une enquête située.
+Il faut également distinguer ces organisations des configurations situées : une configuration désigne un agencement particulier de ressources et de relations dans une enquête déterminée.
 
-Il importe également de distinguer les engagements méthodologiques de Protokin des orientations de l'examen. Les engagements pragmatiste, inférentialiste et réflexif caractérisent la démarche générale ; les orientations précisent les rapports sous lesquels les travaux d'examen sont conduits.
+L'organisation documentaire du corpus ne prescrit donc pas les configurations possibles. Une même ressource documentaire peut contribuer à plusieurs enquêtes et être mobilisée dans des configurations différentes.
 
-Une page qui présente une opération ou une orientation est une ressource documentaire : elle ne se confond pas avec la composante fonctionnelle qu'elle décrit.
-
-Les deux architectures sont révisables, mais elles ne répondent pas aux mêmes problèmes. La première permet d'organiser et de réviser le corpus ; la seconde permet de différencier et d'articuler les travaux d'examen.
-
-Voir [Architecture du projet](fr/architecture-projet.md).
+Pour approfondir ces distinctions, voir [Architecture du projet](fr/architecture-projet.md).
 
 ## 6. Explorer Protokin
 
@@ -120,33 +110,30 @@ Les ressources suivantes constituent des points d'entrée dans le corpus.
 
 ### Comprendre le projet
 
-- [Introduction générale](fr/introduction-generale.md) — Présenter le problème de départ et les engagements méthodologiques.
-- [Problème descriptif](fr/probleme-descriptif.md) — Définir la difficulté qui motive l'examen.
+- [Introduction générale](fr/introduction-generale.md) — Présenter le problème de départ et les engagements de la démarche.
+- [Problème descriptif](fr/probleme-descriptif.md) — Caractériser les difficultés qui motivent l'enquête.
 - [Enquête](fr/enquete.md) — Préciser le statut et la fonction de l'enquête.
 - [Nom, origine et portée](fr/nom-origine-portee.md) — Examiner le choix du nom et les rapprochements qu'il suggère.
 
-### Comprendre l'organisation de l'enquête
+### Comprendre les ressources de l'enquête
 
-- [Architecture du projet](fr/architecture-projet.md) — Comprendre l'organisation documentaire.
-- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Comprendre les composantes et leurs relations.
-- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Examiner les différents rapports de questionnement.
-- [Pratiques, stabilisations et révisions descriptives](fr/pratiques-stabilisations-et-revisions.md) — Examiner comment les pratiques produisent des identifications, des nominations et des stabilisations conceptuelles qui orientent les descriptions ultérieures et peuvent être révisées.
-- [Les opérations de référence et leurs articulations](fr/la-chaine-principale-de-l-enquete.md) — Consulter les opérations et leurs relations.
-
-### Examiner des situations et des problèmes
-
+- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Présenter les fonctions des ressources et leurs relations.
+- [Orientation de l'examen](fr/orientation-de-l-examen.md) — Examiner les rapports sous lesquels une situation ou une pratique peut être interrogée.
+- [Instrument d'épreuve](fr/instrument-d-epreuve.md) — Définir les configurations de ressources constituées en vue d'une confrontation.
 - [Conduire une enquête](fr/conduire-une-enquete.md) — Consulter des repères pratiques pour traiter une difficulté descriptive.
-- [Temporaliser](fr/temporaliser.md) — Examiner les rapports entre déroulement effectif, anticipation et reconstruction rétrospective.
-- [Le plateau d'enquête](fr/plateau-d-enquete.md) — Représenter et reconstruire les relations entre les travaux d'une enquête.
+
+### Examiner des situations et la portée du projet
+
 - [Une première cartographie des régimes descriptifs](fr/une-premiere-cartographie-des-regimes-descriptifs.md) — Repérer différentes manières d'organiser les pratiques descriptives.
+- [Fécondité et révisabilité de Protokin](fr/fecondite-et-revisabilite-de-protokin.md) — Examiner les conditions de contribution et de révision du projet.
 
-### Examiner et réviser le corpus
+### Parcourir et examiner le corpus
 
-- [Patterns éditoriaux](patterns.md) — Définir les principes de rédaction et de révision.
-- [Pattern d'audit](pattern-audit.md) — Définir la méthode d'examen du corpus.
-- [Audit du corpus](audit-corpus.md) — Consigner les constats, les décisions et les interventions.
-
-Pour parcourir l'ensemble des ressources, consulter la [Table des matières](fr/tdm.md).
+- [Architecture du projet](fr/architecture-projet.md) — Comprendre l'organisation documentaire du corpus.
+- [Table des matières](fr/tdm.md) — Parcourir les ressources du corpus.
+- [Patterns éditoriaux](patterns.md) — Consulter les principes de rédaction et de révision.
+- [Pattern d'audit](pattern-audit.md) — Consulter le cadre d'examen éditorial du corpus.
+- [Audit du corpus](audit-corpus.md) — Consulter les constats et les décisions relatifs à l'état du dépôt.
 
 ---
 
