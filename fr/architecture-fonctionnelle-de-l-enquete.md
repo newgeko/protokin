@@ -359,7 +359,9 @@ Les opérations ne constituent ni une procédure ni une succession nécessaire d
 
 Les catégories regroupent certaines opérations sans constituer un ensemble fonctionnel supplémentaire. Les méthodes organisent des activités et des ressources sans former une composante supplémentaire de l'architecture. L'audit désigne une fonction critique transversale ; l'épreuve, une exigence générale de confrontation.
 
-L'organisation fonctionnelle présente les ressources disponibles ; les configurations désignent leurs agencements particuliers dans une enquête. Leur mobilisation peut être combinée, interrompue, reprise et révisée.
+L'organisation fonctionnelle présente les ressources disponibles ; le problème descriptif fait émerger les besoins d'examen et oriente leur mobilisation. Les configurations désignent les agencements particuliers de ces ressources dans une enquête. Elles constituent des préconfigurations provisoires, élaborées en fonction de la difficulté rencontrée et révisables à mesure que le problème se précise ou se transforme. Leur mobilisation peut être combinée, interrompue, reprise et révisée.
+
+Le problème descriptif suscite et oriente la constitution des configurations ; l'architecture fonctionnelle rend les ressources et leurs relations intelligibles sans prescrire leur mobilisation ni leur ordre.
 
 **L'architecture fonctionnelle organise les ressources disponibles sans déterminer à l'avance les configurations dans lesquelles une enquête les mobilisera.**
 
