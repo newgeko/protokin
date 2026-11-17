@@ -266,47 +266,17 @@ Elle ne garantit pas qu'une réponse définitive puisse être obtenue. L'examen 
 
 L'exigence d'épreuve concerne également les ressources de Protokin. Leur cohérence interne ne suffit pas à établir leur pertinence : elles doivent pouvoir être confrontées aux difficultés que les enquêtes font apparaître.
 
-## 6. Les instruments de confrontation
+## 6. Les instruments d'épreuve
 
-Les instruments fournissent des moyens particuliers pour mettre en œuvre l'exigence d'épreuve.
+Un **instrument d'épreuve** est une configuration située de ressources constituée pour mettre à l'épreuve des descriptions ou leurs composantes.
 
-Trois instruments sont actuellement distingués.
+Les ressources associées sont choisies et organisées au regard d'une difficulté déterminée. Elles ne forment ni un assemblage uniforme ni une procédure à appliquer.
 
-### 6.1. Substitution
+La configuration peut intervenir dans plusieurs opérations et sous différentes orientations. Elle peut être ajustée, combinée à d'autres configurations ou abandonnée lorsque les ressources mobilisées ne permettent pas de traiter utilement la difficulté.
 
-La substitution consiste à remplacer un terme, une catégorie ou un élément d'une description afin d'examiner les conséquences de ce remplacement.
+Trois formes sont actuellement distinguées : **Substitution**, **Cas** et **Comparaison**. Elles ne constituent pas une liste exhaustive des configurations possibles.
 
-Elle permet notamment d'interroger les engagements associés à une expression, les différences qui dépendent du choix d'une catégorie et les conséquences d'une reformulation.
-
-Une substitution ne démontre pas automatiquement l'équivalence ou l'incompatibilité des formulations comparées. Elle rend leurs conséquences examinables.
-
-### 6.2. Cas
-
-Le Cas consiste à examiner une situation déterminée pour préciser la portée, les conditions ou les limites d'une proposition.
-
-Il permet de confronter une distinction à une situation concrète, de repérer une difficulté d'application ou de faire apparaître des éléments qui n'étaient pas pris en compte dans la formulation initiale.
-
-Un cas ne constitue pas nécessairement une preuve générale. Sa contribution dépend de la question examinée, de ses caractéristiques et des relations qu'il permet d'établir avec la proposition considérée.
-
-Il faut distinguer le Cas comme instrument de confrontation des études de cas du corpus, qui constituent des ressources documentaires destinées à examiner des situations déterminées.
-
-### 6.3. Comparaison
-
-La Comparaison consiste à confronter plusieurs descriptions ou situations afin d'examiner leurs différences, leurs ressemblances et les relations qu'il est possible d'établir entre elles.
-
-Elle permet notamment d'identifier des variations de catégories, de critères, de fonctions ou de justifications.
-
-La comparaison ne présuppose ni l'identité des situations ni l'équivalence des descriptions. Elle doit préciser les rapports sous lesquels les éléments comparés peuvent être mis en regard.
-
-### 6.4. Statut des instruments
-
-Les instruments peuvent intervenir dans plusieurs opérations et sous différentes orientations. Ils ne constituent pas une liste exhaustive des moyens de confrontation possibles.
-
-Ils ne produisent pas mécaniquement un verdict et ne garantissent pas, à eux seuls, la validité ou l'adéquation d'un résultat.
-
-La reprise d'un travail peut mobiliser un instrument, mais elle ne constitue pas elle-même un instrument supplémentaire.
-
-Voir [Substitution](fr/substitution.md), [Cas](fr/cas.md) et [Comparaison](fr/comparaison.md).
+La constitution des instruments, leur articulation avec les opérations et les orientations, ainsi que les formes actuellement distinguées sont développées dans la page [Instrument d'épreuve](fr/instrument-d-epreuve.md).
 
 ## 7. Les notions du corpus : des ressources et des objets d'examen
 
