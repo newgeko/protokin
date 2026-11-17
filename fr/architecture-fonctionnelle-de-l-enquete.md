@@ -9,10 +9,22 @@ Elle distingue quatre ensembles : les opérations, les orientations, les dimensi
 Elle ne définit pas une procédure universelle. Elle décrit les fonctions des ressources et les relations possibles entre elles, sans déterminer à l'avance leur mobilisation dans une enquête.
 
 ## Le problème descriptif et l'organisation de l'enquête
-L'organisation fonctionnelle de Protokin ne constitue pas un dispositif préalable que l'enquête devrait appliquer à toute difficulté. C'est le problème descriptif qui fait émerger les besoins d'examen et conduit à mobiliser les opérations et les orientations pertinentes.
-Selon la difficulté rencontrée, certaines opérations deviennent nécessaires, certaines orientations prennent de l'importance et certaines ressources doivent être associées. Leur articulation donne lieu à une préconfiguration de l'enquête : une organisation anticipée et provisoire des travaux à entreprendre.
-Cette préconfiguration ne prescrit ni un ordre universel ni un déroulement déterminé. Elle peut être modifiée au cours de l'enquête, à mesure que les examens produisent de nouveaux résultats, font apparaître d'autres difficultés ou conduisent à reformuler le problème initial.
-L'architecture fonctionnelle fournit ainsi un répertoire de ressources dont la mobilisation est déterminée par les problèmes descriptifs rencontrés. Elle ne précède pas les problèmes pour leur imposer une organisation : elle permet de construire et de réviser les organisations qu'ils appellent.
+
+L'architecture fonctionnelle de Protokin ne constitue pas un dispositif préalable que l'enquête devrait appliquer à toute difficulté. Elle présente un répertoire de ressources dont la mobilisation et l'articulation sont déterminées par les problèmes descriptifs rencontrés.
+
+Le problème descriptif joue un rôle générateur dans l'organisation de l'enquête. Il fait émerger des besoins d'examen qui conduisent à mobiliser certaines opérations et certaines orientations. Les opérations désignent les travaux à accomplir ; les orientations précisent les rapports sous lesquels la difficulté est interrogée. Elles ne sont donc pas sélectionnées indépendamment l'une de l'autre, ni appliquées comme les éléments d'une grille préétablie. Leur pertinence se précise à partir de la difficulté et des questions qu'elle fait apparaître.
+
+Le problème conduit également à déterminer les autres ressources nécessaires : matériaux, catégories, critères, méthodes et instruments d'épreuve. Leur sélection dépend de ce qu'il faut examiner, des éléments disponibles et des exigences auxquelles les résultats devront répondre.
+
+Cette organisation prend la forme d'une **préconfiguration de l'enquête**. Elle associe provisoirement les opérations, les orientations et les autres ressources jugées pertinentes au regard du problème. Elle est dite préconfiguration parce qu'elle anticipe une organisation possible des travaux, non parce qu'elle précéderait toute activité d'examen ou en déterminerait le déroulement.
+
+La préconfiguration n'est ni un modèle universel ni un programme à exécuter. Elle peut évoluer dès que les travaux accomplis font apparaître de nouvelles questions, des insuffisances ou des relations qui n'avaient pas été envisagées. Une opération peut conduire à reformuler une orientation ; une orientation peut rendre nécessaire une autre opération ; un résultat peut conduire à modifier les ressources mobilisées ou à redélimiter le problème.
+
+Il n'existe donc pas d'ordre général des opérations ni de correspondance fixe entre opérations et orientations. Leur organisation dépend de la difficulté examinée et se construit au cours de l'enquête. Les relations entre les travaux peuvent être simultanées, successives, interrompues ou reprises. Elles ne composent pas une chaîne prescrite.
+
+L'architecture fonctionnelle permet de distinguer les fonctions des ressources et de rendre leurs articulations intelligibles. Elle ne décide pas à la place de l'enquête lesquelles doivent être mobilisées. C'est le problème descriptif qui conduit à les sélectionner, à les associer et, si nécessaire, à les réviser.
+
+**L'architecture fournit les ressources ; le problème descriptif en suscite et en oriente l'organisation.**
 
 ## 1. Problème et portée de l'architecture
 
