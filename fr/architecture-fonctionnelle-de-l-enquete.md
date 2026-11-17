@@ -54,9 +54,15 @@ Le regroupement d'opérations ne détermine pas leur ordre de mobilisation. Il n
 
 Les catégories sont donc des moyens d'organisation du répertoire des opérations, et non des composantes supplémentaires de l'enquête.
 
-### 2.2. Les opérations : les travaux d'examen
+### 2.2. Les opérations : des actes d'examen
 
-Les opérations désignent les travaux de second ordre par lesquels l'enquête examine les pratiques descriptives et les difficultés qu'elles rencontrent.
+Les opérations désignent les actes intellectuels de second ordre par lesquels une enquête transforme les conditions de traitement d'une difficulté descriptive.
+
+Elles sont formulées comme des verbes d'action parce qu'elles désignent des travaux déterminés : délimiter un problème, ancrer l'examen dans des éléments disponibles, établir des distinctions, examiner des relations, configurer une organisation, justifier des conclusions, reconstituer les rapports entre les travaux accomplis et redélimiter le problème.
+
+Chaque opération correspond à un type de travail identifiable. Elle intervient sur des éléments, des relations, des descriptions ou des conclusions et contribue à modifier la manière dont ils peuvent être examinés.
+
+Les opérations ne désignent ni des thèmes ni des dimensions générales de la réalité. Elles ne constituent pas davantage des étapes successives d'une procédure. Elles forment un répertoire de possibilités d'intervention intellectuelle, mobilisables séparément ou conjointement selon les difficultés rencontrées.
 
 Huit opérations sont actuellement distinguées :
 
@@ -68,6 +74,71 @@ Huit opérations sont actuellement distinguées :
 - **Justifier** : examiner les raisons, les prémisses, les critères et les inférences qui soutiennent ou contestent une conclusion.
 - **Reconstituer** : rendre intelligible et réexaminable l'organisation de l'enquête à partir des travaux accomplis et des résultats disponibles.
 - **Redélimiter** : réexaminer la formulation et le périmètre du problème lorsque les résultats et les difficultés rencontrés conduisent à les modifier.
+
+#### Le statut opératoire des opérations
+
+Les opérations désignent des transformations intellectuelles accomplies dans le traitement d'une difficulté descriptive.
+
+Elles ne se contentent pas de décrire les travaux de l'enquête. Elles permettent d'intervenir sur la formulation du problème, la détermination des éléments, l'établissement des relations, l'organisation des descriptions et le soutien des conclusions.
+
+Une opération peut ainsi modifier :
+
+- la formulation et le périmètre du problème ;
+- les éléments retenus et les conditions sur lesquelles l'examen prend appui ;
+- les différences établies entre les notions, les fonctions et les niveaux d'analyse ;
+- les relations reconnues, proposées ou contestées ;
+- l'organisation des éléments et de leurs dépendances ;
+- les raisons et les critères permettant de soutenir une conclusion ;
+- l'intelligibilité des travaux accomplis et de leurs transformations.
+
+Ces transformations ne sont pas nécessairement successives. Une distinction peut conduire à reprendre une relation ; l'examen d'une relation peut conduire à modifier une configuration ; une configuration peut faire apparaître une difficulté qui impose de redélimiter le problème.
+
+Une opération ne produit donc pas nécessairement un résultat définitif. Elle modifie les conditions dans lesquelles une difficulté peut être examinée, sans garantir que cette modification suffise à la résoudre.
+
+Le caractère opératoire des opérations tient précisément à cette capacité d'intervention et de transformation.
+
+#### Les types de transformations opératoires
+
+Les opérations ont une fonction commune : transformer les conditions dans lesquelles une difficulté descriptive peut être examinée. Elles ne réalisent cependant pas toutes le même type de transformation.
+
+On peut distinguer plusieurs contributions fonctionnelles :
+
+1. Transformer la détermination du problème
+
+- Délimiter construit une formulation provisoire de la difficulté et en précise le périmètre.
+- Redélimiter reprend cette formulation lorsque les résultats ou les difficultés rencontrées en révèlent les limites.
+
+Ces opérations portent sur la détermination du problème. Elles permettent d'en modifier les termes et les limites au cours de l'enquête.
+
+2. Transformer la détermination des éléments et de leurs relations
+
+- Ancrer examine les conditions et les appuis sur lesquels l'enquête peut prendre prise.
+- Distinguer établit les différences nécessaires pour éviter les confusions.
+- Relier examine les relations, les dépendances et les médiations entre les éléments considérés.
+
+Ces opérations contribuent à déterminer ce qui peut être retenu, différencié et mis en relation dans l'examen.
+
+3. Transformer l'organisation descriptive
+
+- Configurer organise les éléments, les distinctions et les relations au regard du problème examiné.
+
+Cette opération construit ou révise une organisation particulière. Elle permet d'examiner les conséquences de l'articulation proposée, sans présupposer que celle-ci soit exhaustive ou adéquate.
+
+4. Examiner le soutien des conclusions
+
+- Justifier examine les raisons, les prémisses, les critères et les inférences qui soutiennent ou contestent une conclusion.
+
+Cette opération porte sur ce qui autorise à maintenir une affirmation, à en limiter la portée ou à la réviser.
+
+5. Transformer l'intelligibilité de l'enquête
+
+- Reconstituer reconstruit les relations entre les travaux accomplis, les ressources mobilisées et les résultats obtenus.
+
+Cette opération permet de rendre intelligible une organisation qui n'était pas nécessairement explicite au moment où les travaux ont été réalisés.
+
+Ces regroupements indiquent des proximités fonctionnelles. Ils ne constituent pas de nouvelles catégories obligatoires, ne définissent pas des niveaux hiérarchiques et ne déterminent aucun ordre de mobilisation.
+
+Une même opération peut contribuer à plusieurs types de transformation. Inversement, une difficulté peut nécessiter plusieurs opérations dont les contributions se précisent conjointement.
 
 Ces opérations constituent un répertoire de référence. Leur présentation ne détermine pas leur ordre d'intervention. Elles peuvent être mobilisées séparément ou conjointement, reprises, précisées ou laissées de côté selon la difficulté examinée.
 
