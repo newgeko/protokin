@@ -8,6 +8,12 @@ Elle distingue quatre ensembles : les opérations, les orientations, les dimensi
 
 Elle ne définit pas une procédure universelle. Elle décrit les fonctions des ressources et les relations possibles entre elles, sans déterminer à l'avance leur mobilisation dans une enquête.
 
+## Le problème descriptif et l'organisation de l'enquête
+L'organisation fonctionnelle de Protokin ne constitue pas un dispositif préalable que l'enquête devrait appliquer à toute difficulté. C'est le problème descriptif qui fait émerger les besoins d'examen et conduit à mobiliser les opérations et les orientations pertinentes.
+Selon la difficulté rencontrée, certaines opérations deviennent nécessaires, certaines orientations prennent de l'importance et certaines ressources doivent être associées. Leur articulation donne lieu à une préconfiguration de l'enquête : une organisation anticipée et provisoire des travaux à entreprendre.
+Cette préconfiguration ne prescrit ni un ordre universel ni un déroulement déterminé. Elle peut être modifiée au cours de l'enquête, à mesure que les examens produisent de nouveaux résultats, font apparaître d'autres difficultés ou conduisent à reformuler le problème initial.
+L'architecture fonctionnelle fournit ainsi un répertoire de ressources dont la mobilisation est déterminée par les problèmes descriptifs rencontrés. Elle ne précède pas les problèmes pour leur imposer une organisation : elle permet de construire et de réviser les organisations qu'ils appellent.
+
 ## 1. Problème et portée de l'architecture
 
 Les pratiques descriptives mobilisent des catégories, des concepts, des distinctions, des procédures, des critères et des supports pour identifier et caractériser des situations.
