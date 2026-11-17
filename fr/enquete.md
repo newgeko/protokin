@@ -65,7 +65,7 @@ Pour organiser cet examen, Protokin distingue plusieurs ensembles de ressources 
 - **Les opérations** désignent les travaux de second ordre par lesquels les pratiques descriptives, leurs conditions, leurs fonctions, leurs relations et leurs justifications sont examinées.
 - **Les orientations** précisent sous quel rapport une situation, une pratique, une opération ou un résultat est interrogé.
 - **Les fonctions transversales** désignent des dimensions de travail susceptibles d'intervenir dans plusieurs opérations.
-- **Les instruments d'épreuve** fournissent des moyens concrets pour confronter des descriptions, des distinctions ou des conclusions à un examen.
+- **Les instruments d'épreuve** désignent des configurations situées de ressources constituées pour confronter des descriptions, des distinctions ou des conclusions à des éléments susceptibles d'en examiner la portée et les limites.
 
 Ces ressources remplissent des fonctions différentes. Une orientation ne prescrit pas une opération particulière ; une fonction transversale ne constitue pas une opération supplémentaire ; un instrument ne garantit pas à lui seul la validité d'un résultat.
 
