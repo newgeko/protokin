@@ -176,7 +176,19 @@ Ces trois formes peuvent être combinées dans une même enquête. Une comparais
 
 Leur combinaison ne supprime pas les fonctions propres de chaque instrument. Elle produit une configuration plus large dont la pertinence dépend du problème examiné.
 
-## 6\. Portée et limites
+## 6. Méthodes scientifiques et instruments d'épreuve
+
+Les méthodes scientifiques peuvent comporter des instruments d'épreuve, voire organiser plusieurs instruments au sein d'un dispositif méthodologique plus large.
+
+Une méthode peut associer des opérations, des procédures, des ressources documentaires, des techniques de mesure, des critères et des configurations destinées à confronter des hypothèses ou des résultats à des observations.
+
+Il convient cependant de ne pas confondre méthode et instrument. La méthode organise un ensemble d'activités et de ressources en vue d'un travail déterminé. L'instrument d'épreuve désigne une configuration particulière de ressources constituée pour examiner la portée, les conditions ou les limites d'une description ou de ses composantes.
+
+Une méthode peut donc mobiliser plusieurs instruments d'épreuve. Elle peut également remplir d'autres fonctions que la confrontation. Inversement, un instrument peut être constitué et mobilisé sans relever d'une méthode scientifique complète.
+
+Cette distinction permet d'examiner les méthodes scientifiques elles-mêmes : leurs opérations, leurs instruments, leurs critères, leurs conditions d'application et les conclusions qu'elles autorisent.
+
+## 7\. Portée et limites
 
 La notion d'instrument d'épreuve permet de distinguer les ressources disponibles de leur organisation particulière en vue d'une confrontation.
 
