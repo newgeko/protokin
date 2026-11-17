@@ -147,6 +147,22 @@ L'organisation de l'enquête ne se réduit donc pas à une configuration unique.
 
 L'architecture du projet rend les ressources disponibles sans déterminer à l'avance leurs configurations. L'architecture fonctionnelle distingue les fonctions qui peuvent être articulées dans une enquête sans imposer un agencement uniforme de ces fonctions.
 
+### 1.5. Méthodes et instruments d'épreuve
+
+Une méthode désigne une organisation réglée d'activités, de procédures et de ressources en vue d'un travail déterminé. Elle peut associer plusieurs opérations, mobiliser différentes ressources documentaires et théoriques, définir des critères, prévoir des procédures et comporter des instruments d'épreuve.
+
+Une méthode ne constitue cependant pas une composante supplémentaire de l'architecture fonctionnelle de l'enquête. Elle désigne une manière organisée de conduire un travail, qui peut mobiliser plusieurs composantes de cette architecture.
+
+Il convient notamment de distinguer la méthode de l'instrument d'épreuve. La méthode organise un ensemble d'activités et de ressources. L'instrument d'épreuve désigne une configuration située de ressources constituée pour mettre à l'épreuve une description ou l'une de ses composantes.
+
+Une méthode scientifique peut ainsi comporter plusieurs instruments d'épreuve : un protocole expérimental, un dispositif de mesure, une procédure de comparaison ou un test de résistance peuvent être constitués et mobilisés pour examiner des hypothèses, des résultats ou des descriptions. Ces instruments prennent place dans une organisation méthodologique plus large, sans se confondre avec elle.
+
+Inversement, toute activité ou procédure méthodique ne constitue pas nécessairement un instrument d'épreuve. La collecte de données, la constitution d'un corpus, la classification ou la modélisation peuvent contribuer à un travail d'examen sans remplir directement une fonction de mise à l'épreuve.
+
+Cette distinction permet à Protokin d'examiner les méthodes elles-mêmes : les opérations qu'elles organisent, les ressources qu'elles mobilisent, les critères qu'elles retiennent, les instruments qu'elles constituent et les conclusions qu'elles autorisent.
+
+Les méthodes ne sont donc ni des instruments d'épreuve généralisés ni des garanties de validité. Leur organisation, leurs conditions d'application et leur portée peuvent elles-mêmes être examinées et révisées.
+
 ## 2. Les fonctions documentaires des pages
 
 Les fonctions documentaires permettent de caractériser la contribution principale d'une ressource. Elles constituent des repères de classement, non une taxonomie exhaustive ou exclusive.
