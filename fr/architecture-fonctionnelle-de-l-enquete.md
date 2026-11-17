@@ -76,6 +76,8 @@ L'organisation n'est donc pas nécessairement entièrement formulée dès le com
 
 Cette conception ne nie pas que les travaux possèdent un déroulement effectif. Elle refuse de confondre ce déroulement avec un cheminement nécessaire vers un résultat. Une reconstruction rétrospective peut rendre visibles des relations qui n'étaient pas identifiées auparavant, sans démontrer qu'elles avaient déterminé l'enquête dès son origine.
 
+- **Les composantes fonctionnelles de l'enquête** : opérations, orientations, dimensions transversales et instruments d'épreuve.
+- 
 ## 2. Les opérations : les travaux d'examen
 
 Les opérations désignent les travaux de second ordre par lesquels l'enquête examine les pratiques descriptives, leurs conditions, leurs fonctions, leurs relations et leurs justifications.
