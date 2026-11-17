@@ -2,94 +2,125 @@
 
 ## Fonction
 
-Cette page présente les opérations actuellement identifiées dans Protokin et précise les différences fonctionnelles qui permettent de les mobiliser dans une enquête.
+Cette page présente les huit opérations actuellement distinguées dans Protokin et précise les principales relations qu'elles peuvent entretenir dans une enquête.
 
-Elle constitue un répertoire de référence. Elle présente les travaux d'examen auxquels les opérations correspondent et rend visibles certaines de leurs articulations possibles.
+Elle constitue un répertoire de référence : elle permet d'identifier le travail propre à chaque opération, de les différencier et de comprendre comment elles peuvent être articulées.
 
-Les opérations désignent des travaux d'examen de second ordre portant sur les pratiques descriptives. Elles peuvent être sélectionnées, combinées ou reprises en fonction des difficultés rencontrées.
+Elle ne propose ni une chaîne obligatoire ni une procédure générale. Les opérations sont des travaux d'examen mobilisables selon les difficultés rencontrées. Leur ordre de présentation facilite leur repérage, mais ne détermine pas leur ordre d'intervention.
 
-Leur ordre de présentation facilite le repérage de leurs fonctions et de leurs relations. Il ne détermine ni leur ordre de mobilisation ni la forme générale d'une enquête.
+Les développements détaillés de chaque opération sont présentés dans les pages qui leur sont consacrées.
 
-## 1. Les opérations de référence
+## 1. Les huit opérations de référence
 
-Les huit opérations actuellement distinguées dans Protokin sont les suivantes.
+Les opérations désignent des travaux d'examen de second ordre portant sur les pratiques descriptives, leurs conditions, leurs productions et les conclusions qu'elles permettent de soutenir.
 
-### 1. [Délimiter](fr/delimiter.md)
+Huit opérations sont actuellement distinguées.
 
-Formuler la difficulté à examiner et préciser provisoirement ce qui est en question.
+### 1. Délimiter
 
-Cette opération permet de déterminer le problème auquel l'examen doit répondre, les éléments concernés et les limites initiales de l'investigation.
+[Délimiter](fr/delimiter.md) consiste à formuler la difficulté et à préciser provisoirement ce qui demande à être examiné.
 
-### 2. [Ancrer](fr/ancrer.md)
+### 2. Ancrer
 
-Examiner les conditions de la situation et les éléments sur lesquels l'enquête peut prendre appui.
+[Ancrer](fr/ancrer.md) consiste à examiner les conditions de la situation et les éléments sur lesquels l'enquête peut prendre appui.
 
-Cette opération permet de préciser les conditions matérielles, pratiques, institutionnelles ou documentaires qui affectent la situation examinée et les descriptions qui en sont produites.
+### 3. Distinguer
 
-### 3. [Distinguer](fr/distinguer.md)
+[Distinguer](fr/distinguer.md) consiste à établir les différences pertinentes et à repérer les confusions qui empêchent de traiter le problème.
 
-Établir les différences pertinentes et repérer les confusions qui empêchent de traiter le problème.
+### 4. Relier
 
-Cette opération permet notamment de différencier des notions, des fonctions, des niveaux d'analyse, des descriptions ou des critères dont la proximité pourrait masquer des différences importantes.
+[Relier](fr/relier.md) consiste à examiner la nature, les conditions et la portée des relations entre les éléments retenus.
 
-### 4. [Relier](fr/relier.md)
+### 5. Configurer
 
-Examiner la nature, les conditions et la portée des relations entre les éléments retenus.
+[Configurer](fr/configurer.md) consiste à organiser les éléments, les distinctions et les relations au regard du problème examiné.
 
-Cette opération permet de préciser les dépendances, les relations et les médiations qui interviennent dans une pratique descriptive, sans présupposer leur nature ni leur portée.
+### 6. Justifier
 
-### 5. [Configurer](fr/configurer.md)
+[Justifier](fr/justifier.md) consiste à examiner les raisons, les prémisses, les critères et les inférences qui soutiennent ou contestent une conclusion.
 
-Organiser les éléments, les différences et les relations retenus au regard du problème examiné.
+### 7. Reconstituer
 
-Cette opération permet de construire ou de réviser une organisation descriptive adaptée à la situation étudiée. La configuration obtenue reste dépendante du problème, des éléments retenus et des relations établies.
+[Reconstituer](fr/reconstituer.md) consiste à reconstruire les relations entre les travaux accomplis, les ressources mobilisées et les transformations intervenues dans l'enquête.
 
-### 6. [Justifier](fr/justifier.md)
+### 8. Redélimiter
 
-Examiner les raisons, les prémisses, les critères et les inférences qui soutiennent ou contestent une conclusion.
+[Redélimiter](fr/redelimiter.md) consiste à réexaminer la formulation et le périmètre du problème lorsque les résultats ou les difficultés rencontrées conduisent à les modifier.
 
-Cette opération permet de déterminer ce qui autorise à maintenir une affirmation, à en limiter la portée, à la contester ou à la réviser.
+Ces définitions indiquent la contribution générale de chaque opération. Elles ne remplacent pas les pages spécialisées, qui en précisent les conditions de mobilisation, les résultats possibles et les limites.
 
-### 7. [Reconstituer](fr/reconstituer.md)
-
-Reconstruire les relations entre les descriptions, les opérations et les configurations mobilisées ou produites, ainsi que leurs transformations.
-
-Cette opération permet de rendre intelligibles des relations qui n'étaient pas nécessairement identifiées au moment où les différents travaux ont été conduits. La reconstruction obtenue demeure située et révisable.
-
-### 8. [Redélimiter](fr/redelimiter.md)
-
-Réexaminer la formulation et le périmètre du problème à la lumière des résultats et des difficultés rencontrées.
-
-Cette opération permet de modifier la délimitation initiale lorsque l'examen révèle que la difficulté avait été formulée trop largement, trop étroitement ou à partir de distinctions insuffisantes.
-
-Ces formulations présentent la contribution générale de chaque opération. Elles ne remplacent pas les développements consacrés à leurs définitions, à leurs conditions de mobilisation et à leurs limites respectives.
-
-## 2. Les articulations possibles entre les opérations
+## 2. Les articulations entre les opérations
 
 Les opérations sont distinctes par le travail d'examen qu'elles désignent. Cette distinction n'implique ni leur indépendance ni leur succession obligatoire.
 
-Le résultat d'une opération peut modifier les conditions dans lesquelles une autre est mobilisée. Plusieurs opérations peuvent également contribuer conjointement au traitement d'une même difficulté.
+Une opération peut contribuer à un travail qui mobilise également d'autres opérations. Le résultat d'un examen peut modifier les conditions dans lesquelles une autre opération intervient. Plusieurs travaux peuvent aussi être repris conjointement lorsque la difficulté le demande.
 
-Certaines articulations peuvent être particulièrement utiles à repérer :
+Quelques articulations permettent d'en préciser les possibilités.
 
-- **Délimiter et Redélimiter** : la formulation initiale du problème peut être réexaminée lorsque les résultats obtenus révèlent que son périmètre doit être modifié.
-- **Distinguer, Relier et Configurer** : l'établissement de différences, l'examen des relations et l'organisation des éléments peuvent se soutenir mutuellement sans constituer trois travaux nécessairement successifs.
-- **Configurer et Justifier** : une organisation descriptive peut nécessiter l'examen des raisons et des critères qui soutiennent les choix effectués.
-- **Reconstituer et Redélimiter** : la reconstruction des relations entre les travaux réalisés peut faire apparaître une difficulté qui conduit à reformuler le problème initial.
+### Délimiter et Redélimiter
+
+Délimiter permet de formuler provisoirement le problème. Redélimiter intervient lorsque les résultats ou les difficultés rencontrées conduisent à reprendre cette formulation.
+
+Ces deux opérations concernent la détermination du problème, mais ne remplissent pas la même fonction : l'une en établit une première délimitation ; l'autre en réexamine les termes et le périmètre.
+
+Redélimiter ne constitue pas nécessairement une étape finale. Une enquête peut conduire à plusieurs reprises de la formulation initiale.
+
+### Ancrer, Distinguer et Relier
+
+Ces opérations contribuent à déterminer les éléments et les rapports qui peuvent être examinés.
+
+Ancrer examine les conditions et les appuis de l'examen. Distinguer établit les différences pertinentes. Relier examine les relations entre les éléments retenus.
+
+Leurs contributions peuvent se soutenir mutuellement. Une distinction peut modifier les éléments à prendre en compte ; l'examen des conditions peut conduire à réviser une relation ; une relation nouvellement identifiée peut rendre nécessaire une distinction supplémentaire.
+
+Aucune de ces opérations ne constitue à elle seule un préalable universel aux autres.
+
+### Distinguer, Relier et Configurer
+
+Distinguer permet d'établir des différences ; Relier examine les rapports entre les éléments ; Configurer organise ces éléments et ces relations au regard du problème.
+
+Ces opérations peuvent intervenir conjointement. Une configuration peut rendre certaines différences plus visibles, conduire à préciser une relation ou révéler qu'une distinction retenue ne permet pas de traiter la situation.
+
+Configurer ne consiste donc pas à assembler définitivement des éléments déjà déterminés. L'organisation proposée reste susceptible d'être examinée et révisée.
+
+### Configurer et Justifier
+
+Une configuration descriptive comporte des choix : éléments retenus, distinctions établies, relations proposées et portée attribuée à l'organisation construite.
+
+Justifier permet d'examiner les raisons et les critères qui soutiennent ces choix et les conclusions qui en résultent.
+
+L'examen justificatif peut conduire à maintenir une configuration, à en limiter la portée ou à la réviser. Il ne constitue pas une validation automatique de l'organisation proposée.
+
+### Reconstituer et Redélimiter
+
+Reconstituer rend intelligibles les relations entre les travaux accomplis et les transformations intervenues dans l'enquête.
+
+Cette reconstruction peut faire apparaître une difficulté qui n'était pas identifiée au départ. Elle peut alors conduire à Redélimiter le problème et à reprendre certains travaux.
+
+Reconstituer ne consiste donc pas à démontrer qu'une enquête a suivi un parcours nécessaire. La reconstruction peut rendre intelligibles des relations qui ne l'étaient pas au moment où les travaux ont été réalisés.
 
 Ces articulations sont indicatives. Elles ne constituent ni une liste exhaustive des relations possibles ni un programme à suivre.
 
-Il convient notamment de distinguer trois rapports :
+## 3. Distinguer travail, dépendance et succession
+
+Pour examiner les relations entre les opérations, trois rapports doivent être distingués.
 
 - **La distinction fonctionnelle** permet d'identifier le travail propre à chaque opération.
-- **La dépendance** indique qu'un résultat ou un examen peut affecter une autre opération.
+- **La dépendance** indique qu'un résultat ou un examen peut affecter les conditions dans lesquelles une autre opération intervient.
 - **La succession** désigne l'ordre temporel effectif dans lequel plusieurs travaux ont été réalisés.
+
+Ces rapports ne se confondent pas.
 
 Une dépendance ne démontre pas une succession obligatoire. Le fait qu'une opération mobilise les résultats d'une autre ne signifie pas qu'elle doive toujours intervenir après elle.
 
-De même, une succession effectivement observée ne suffit pas à établir une relation de dépendance entre les opérations concernées.
+Inversement, une succession effectivement observée ne suffit pas à établir une dépendance entre les opérations concernées.
 
-## 3. Rapport aux orientations de l'examen
+Une enquête peut ainsi commencer par Distinguer, Ancrer ou Justifier, selon la difficulté rencontrée. Elle peut mobiliser plusieurs opérations conjointement, reprendre une opération déjà mobilisée ou en laisser certaines de côté.
+
+L'ordre de présentation du répertoire n'est donc pas un ordre méthodologique. Il permet de consulter les opérations et de repérer certaines de leurs relations, sans préfigurer le déroulement d'une enquête.
+
+## 4. Rapport aux orientations de l'examen
 
 Les opérations et les orientations remplissent des fonctions différentes.
 
@@ -97,61 +128,55 @@ Une **opération** désigne un travail d'examen mobilisé pour traiter une diffi
 
 Une **orientation** précise le rapport sous lequel une situation, une pratique, une description, une opération ou un résultat est interrogé.
 
-Il n'existe pas de correspondance terme à terme entre ces deux organisations. Une opération peut contribuer à l'examen de plusieurs orientations ; une orientation peut nécessiter plusieurs opérations.
+Il n'existe pas de correspondance terme à terme entre les deux ensembles. Une opération peut contribuer à l'examen de plusieurs orientations ; une orientation peut nécessiter plusieurs opérations.
 
-En particulier :
+Deux distinctions sont particulièrement importantes :
 
-- l'orientation **Relation** ne se confond pas avec l'opération **Relier** ;
-- l'orientation **Justification** ne se confond pas avec l'opération **Justifier**.
+- **Relation** ne se confond pas avec **Relier**. Relation désigne le rapport sous lequel une situation ou une pratique est interrogée ; Relier désigne le travail effectué pour examiner les relations concernées.
+- **Justification** ne se confond pas avec **Justifier**. Justification désigne le rapport sous lequel les raisons et les critères sont interrogés ; Justifier désigne le travail effectué pour examiner ce qui soutient ou conteste une conclusion.
 
-Dans le premier cas, Relation indique le rapport sous lequel une situation ou une pratique est interrogée. Relier désigne le travail effectué pour examiner les relations concernées.
+Cette différence permet de ne pas confondre la question posée et le travail mobilisé pour y répondre.
 
-Dans le second cas, Justification indique le rapport sous lequel les raisons et les critères sont examinés. Justifier désigne le travail effectué pour étudier ce qui soutient ou conteste une conclusion.
+Les orientations actuellement distinguées — Condition, Relation, Fonction et Justification — sont présentées dans [Orientation de l'examen](fr/orientation-de-l-examen.md).
 
-Cette distinction permet de ne pas confondre la question posée et le travail mobilisé pour y répondre.
+Leurs rapports avec les opérations sont approfondis dans [Articulation des orientations et des opérations](fr/orientation-et-chemin-de-l-enquete.md).
 
-Les quatre orientations actuellement développées — Condition, Relation, Fonction et Justification — sont présentées dans [Orientation de l'examen](fr/orientation-de-l-examen.md).
+## 5. Rapport aux pratiques descriptives
 
-Leur articulation avec les opérations fait l'objet d'un examen particulier dans [Orientations et chemin de l'enquête](fr/orientation-et-chemin-de-l-enquete.md).
+Les opérations de Protokin sont des travaux d'examen de second ordre. Elles ne se confondent pas avec les activités des pratiques étudiées.
 
-## 4. Rapport aux descriptions de premier ordre
+Observer, mesurer, classer, interpréter, expérimenter ou décider sont des activités qui peuvent appartenir à une pratique descriptive. Délimiter, Ancrer, Distinguer, Relier, Configurer, Justifier, Reconstituer et Redélimiter désignent des travaux par lesquels l'enquête examine ces activités, leurs conditions et leurs productions.
 
-Les opérations de Protokin constituent des ressources d'examen de second ordre. Elles ne remplacent pas les activités descriptives des pratiques étudiées ni les catégories, les concepts, les critères et les procédures propres à ces pratiques.
+Cette distinction ne signifie pas que les deux plans sont indépendants. L'examen peut conduire à modifier les descriptions, les catégories ou les critères d'une pratique. Les difficultés rencontrées dans l'examen peuvent également conduire à réviser les opérations et les autres ressources de Protokin.
 
-L'examen peut cependant conduire à modifier les descriptions de premier ordre. Il peut notamment révéler qu'une catégorie doit être précisée, qu'une distinction doit être révisée, qu'une relation doit être reconsidérée ou qu'un critère ne permet pas de soutenir la conclusion qui lui était associée.
+La présentation générale de ces rapports relève de l'[Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md).
 
-Inversement, les difficultés rencontrées dans la conduite de l'examen peuvent conduire à réviser les opérations et les autres ressources mobilisées par Protokin.
+## 6. Portée et limites du répertoire
 
-La distinction entre premier et second ordre n'implique donc pas leur indépendance. Elle permet de différencier leurs fonctions tout en maintenant la possibilité de transformations réciproques.
+Le répertoire présente huit opérations actuellement distinguées dans Protokin. Il permet de reconnaître leurs fonctions respectives et de repérer certaines articulations possibles.
 
-Le développement de cette articulation relève de l'[Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md).
+Il n'établit pas :
 
-## 5. Ce que cette présentation établit et n'établit pas
-
-Cette présentation établit un répertoire de huit opérations actuellement reconnues dans Protokin et précise les principales différences fonctionnelles qui permettent de les distinguer.
-
-Elle rend également visibles certaines articulations possibles entre ces opérations et rappelle leur différence avec les orientations de l'examen.
-
-Elle n'établit pas :
-
-- un ordre obligatoire de mobilisation des opérations ;
+- un ordre obligatoire de mobilisation ;
 - une progression nécessaire de toute enquête ;
 - une correspondance fixe entre opérations et orientations ;
-- une obligation de mobiliser les huit opérations dans chaque enquête ;
+- une obligation de mobiliser les huit opérations dans chaque examen ;
 - une classification exhaustive de tous les travaux susceptibles d'intervenir dans une enquête ;
-- une garantie de cohérence, de validité ou d'adéquation des résultats.
+- une garantie de cohérence ou d'adéquation des résultats.
 
-Une enquête peut commencer par n'importe quelle opération pertinente pour la difficulté rencontrée. Elle peut mobiliser plusieurs opérations conjointement, revenir sur un travail antérieur ou faire apparaître un travail qui n'est pas suffisamment pris en compte dans le répertoire actuel.
+Les opérations constituent des ressources de référence, non une grille à appliquer intégralement. Leur pertinence dépend des difficultés examinées et des résultats obtenus.
 
-L'organisation proposée reste donc révisable. Une opération peut être précisée, réorganisée ou remise en question lorsque l'examen des pratiques révèle que sa fonction est insuffisamment déterminée ou qu'elle ne répond plus aux difficultés rencontrées.
+Le répertoire reste lui-même révisable. Une enquête peut révéler qu'une opération est insuffisamment définie, que plusieurs opérations doivent être différenciées autrement ou qu'un travail d'examen n'est pas suffisamment pris en compte.
+
+La distinction des huit opérations ne doit donc pas être protégée contre les difficultés que leur mobilisation peut faire apparaître.
 
 ## Synthèse
 
-Les huit opérations de référence — Délimiter, Ancrer, Distinguer, Relier, Configurer, Justifier, Reconstituer et Redélimiter — désignent des travaux d'examen distincts et interdépendants.
+Les huit opérations de référence — Délimiter, Ancrer, Distinguer, Relier, Configurer, Justifier, Reconstituer et Redélimiter — désignent des travaux d'examen distincts qui peuvent intervenir conjointement ou être repris au cours d'une enquête.
 
-Leur ordre de présentation rend certaines articulations intelligibles, sans prescrire leur succession. Leur mobilisation dépend des difficultés rencontrées et des résultats obtenus.
+Leur articulation dépend des difficultés rencontrées. Une relation de dépendance entre deux opérations ne détermine pas leur ordre temporel et ne prescrit pas leur succession.
 
-Les opérations se distinguent des orientations, qui précisent les rapports sous lesquels les situations et les pratiques sont interrogées. Elles constituent également des ressources de second ordre susceptibles de contribuer à la révision des descriptions qu'elles examinent.
+Les opérations se distinguent des orientations, qui précisent les rapports sous lesquels une situation ou une pratique est interrogée. Elles constituent également des ressources de second ordre susceptibles de contribuer à la révision des descriptions qu'elles examinent.
 
 **Le répertoire des opérations organise des possibilités de travail pour l'enquête ; il ne détermine pas à l'avance le parcours qu'une enquête doit suivre.**
 
@@ -159,7 +184,7 @@ Les opérations se distinguent des orientations, qui précisent les rapports sou
 
 - [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Présenter l'organisation générale des ressources de l'enquête.
 - [Orientation de l'examen](fr/orientation-de-l-examen.md) — Définir les rapports sous lesquels une situation ou une pratique peut être examinée.
-- [Orientations et chemin de l'enquête](fr/orientation-et-chemin-de-l-enquete.md) — Examiner l'articulation entre orientations et opérations.
+- [Articulation des orientations et des opérations](fr/orientation-et-chemin-de-l-enquete.md) — Examiner les rapports entre les orientations et les travaux mobilisés.
 - [Conduire une enquête](fr/conduire-une-enquete.md) — Donner des repères pratiques pour mobiliser et reprendre les ressources de l'enquête.
 - [Modes d'intervention de l'enquête](fr/modes-d-intervention-de-l-enquete.md) — Examiner les modalités de mobilisation, de combinaison et de reprise des ressources.
 - [Temporaliser](fr/temporaliser.md) — Examiner les rapports entre temporalité effective, prospective et rétrospective.
