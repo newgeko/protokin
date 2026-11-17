@@ -200,7 +200,13 @@ Il faut distinguer :
 - l'instrument d'épreuve, qui désigne une configuration particulière de ressources ;
 - l'opération, qui désigne le travail d'examen dans lequel cette configuration est mobilisée.
 
-Voir [Instrument d'épreuve](fr/instrument-d-epreuve.md).
+La constitution d'un instrument suppose de préciser ce qui est confronté, les ressources et les critères mobilisés, ainsi que les résultats susceptibles de soutenir, de limiter ou de mettre en défaut la proposition examinée. Une configuration doit notamment permettre d'identifier ce qui pourrait conduire à réviser cette proposition, à restreindre sa portée ou à abandonner une distinction.
+
+Cette exigence de mise en risque ne signifie pas que toute confrontation relève d'une falsification au sens strict. Elle vise plus généralement à éviter qu'un instrument soit organisé de manière à ne rechercher que des éléments concordants avec la proposition examinée.
+
+La matérialisation de la configuration peut faciliter l'examen de ses choix, de ses critères et de ses limites. Elle ne garantit cependant ni son objectivité ni la validité des conclusions obtenues.
+
+Voir [Instrument d'épreuve](fr/instrument-d-epreuve.md) pour la définition détaillée de ces exigences.
 
 ## 3. Méthodes et architecture fonctionnelle
 
