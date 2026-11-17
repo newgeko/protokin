@@ -178,6 +178,7 @@ Ces pages portent sur les ressources linguistiques et inférentielles mobilisée
 
 - [Cause](fr/cause.md) — Examiner ce qu'une relation causale permet d'établir et la distinguer d'une raison ou d'une justification.
 - [Explication](fr/explication.md) — Préciser ce qu'une explication permet d'établir et la distinguer de la justification des conclusions.
+- [Pluralisme explicatif](fr/pluralisme-explicatif.md) — Examiner les relations entre plusieurs explications, leurs complémentarités, leurs concurrences et leurs incompatibilités.
 - [Traduction](fr/traduction.md) — Examiner comment une description peut être mise en relation avec les ressources d'une autre pratique sans présupposer leur équivalence.
 - [Relations LX et pragmatique de l'explicitation](fr/relations-lx-et-pragmatique-de-l-explicitation.md) — Examiner comment un vocabulaire rend explicites certains aspects d'une pratique.
 - [Évaluer une traduction](fr/evaluer-une-traduction.md) — Examiner les correspondances, les transformations et les limites du passage d'une description à une autre.
