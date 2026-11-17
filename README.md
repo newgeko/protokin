@@ -67,6 +67,27 @@ Protokin distingue plusieurs ensembles de ressources selon les fonctions qu'ils 
 - **Les dimensions transversales** concernent plusieurs travaux et peuvent intervenir dans différentes configurations de l'enquête.
 - **Les instruments d'épreuve** sont des configurations situées de ressources constituées pour confronter une description, une distinction, une relation ou une conclusion à des éléments susceptibles d'en examiner la portée et les limites.
 
+### Une méthode opératoire sans séquence obligatoire
+
+Protokin propose des ressources pour conduire l'examen d'une difficulté descriptive. Leur mobilisation ne suit pas une procédure universelle : elle dépend du problème rencontré, des pratiques concernées et des résultats progressivement obtenus.
+
+L'enquête peut notamment conduire à :
+
+1. **Délimiter** la difficulté à examiner et préciser provisoirement son périmètre.
+2. **Ancrer** l'examen dans les situations, les pratiques et les éléments disponibles.
+3. **Distinguer** les éléments, les catégories et les critères dont la différenciation importe pour le problème.
+4. **Relier** les éléments retenus et examiner la nature des rapports qui les unissent.
+5. **Configurer** les ressources, les distinctions et les relations pertinentes pour traiter la difficulté.
+6. **Justifier** les choix descriptifs et les conclusions avancées.
+7. **Reconstituer** les relations entre les travaux accomplis, les ressources mobilisées et les transformations intervenues.
+8. **Redélimiter**, si nécessaire, le problème à la lumière de l'examen.
+
+Cette présentation indique des travaux possibles, non les étapes successives d'une procédure. Une enquête peut commencer par une distinction à clarifier, une justification contestée ou une configuration à examiner. Elle peut mobiliser plusieurs opérations conjointement, en reprendre certaines ou en laisser d'autres de côté.
+
+Les orientations précisent les rapports sous lesquels les difficultés sont interrogées. Les dimensions transversales — temporaliser, auditer, réfléchir et éprouver — interviennent dans différents travaux. Les instruments d'épreuve permettent de confronter des descriptions et des conclusions à des éléments susceptibles d'en examiner la portée et les limites.
+
+La méthode opératoire de Protokin consiste ainsi à organiser des reprises et des articulations entre ces ressources, sans déterminer à l'avance le parcours de l'enquête.
+
 Les catégories regroupent certaines opérations afin d'en faciliter le repérage. Elles ne constituent pas un ensemble supplémentaire de composantes fonctionnelles.
 
 Ces ressources se distinguent par leurs fonctions, mais peuvent être articulées dans une enquête déterminée. Leur présentation ne définit ni un ordre universel ni une succession obligatoire.
