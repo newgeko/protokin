@@ -22,34 +22,36 @@ Formuler le problème en une ou deux phrases. Cette formulation est provisoire :
 
 Une difficulté initialement identifiée peut en effet en faire apparaître une autre. Il ne faut donc pas présumer que la formulation de départ détermine déjà l'ensemble du travail à conduire.
 
-## 2. Construire une première préconfiguration de l'examen
+## 2. Engager l'examen et constituer une configuration
 
-À partir de la difficulté formulée, déterminer ce qui demande à être examiné. Il ne s'agit pas d'appliquer une grille préexistante, mais de faire émerger les questions et les travaux que le problème rend pertinents.
+À partir de la difficulté formulée, engager les premiers travaux permettant de l'examiner. Il ne s'agit pas de construire préalablement un programme, mais de déterminer les questions pertinentes et de commencer à les traiter à partir des ressources disponibles.
 
-Les orientations de l'examen permettent de préciser sous quels rapports la difficulté peut être interrogée :
+Les orientations de l'examen permettent de préciser sous quels rapports la difficulté est interrogée :
 
 - **Condition** : sur quels éléments matériels, observations, documents ou contraintes l'examen peut-il s'appuyer ?
 - **Relation** : quelles dépendances ou médiations doivent être établies entre les éléments concernés ?
 - **Fonction** : quel rôle les descriptions, les distinctions ou les catégories jouent-elles dans la pratique étudiée ?
 - **Justification** : quelles raisons, quels critères et quels engagements soutiennent les conclusions avancées ?
 
-Ces orientations ne forment pas une grille à remplir. Elles ne sont pas nécessairement toutes pertinentes pour une même difficulté. Leur sélection dépend des questions que le problème fait apparaître. Certaines peuvent être retenues dès la formulation initiale ; d'autres ne deviennent pertinentes qu'à mesure que l'examen progresse.
+Ces orientations ne forment pas une grille à remplir. Elles ne sont pas nécessairement toutes pertinentes pour une même difficulté. Leur sélection dépend des questions que le problème fait apparaître. Certaines peuvent être mobilisées dès les premiers travaux ; d'autres ne deviennent pertinentes qu'à mesure que l'examen progresse.
 
-Les orientations ainsi retenues conduisent à identifier les travaux à accomplir. Les opérations sont choisies en fonction de ce qui reste à établir, à distinguer, à relier, à organiser ou à justifier. Il n'existe pas de correspondance fixe entre une orientation et une opération : un même travail peut être conduit sous plusieurs rapports, et une même orientation peut appeler différents travaux.
+Les orientations retenues conduisent à déterminer les opérations à accomplir. Les opérations sont choisies en fonction de ce qu'il faut établir, distinguer, relier, organiser ou justifier. Il n'existe pas de correspondance fixe entre une orientation et une opération : un même travail peut être conduit sous plusieurs rapports, et une même orientation peut appeler différents travaux.
 
-L'association provisoire des opérations, des orientations et des autres ressources nécessaires constitue une **préconfiguration de l'examen**. Elle permet de rendre explicites les choix initiaux : ce qui sera examiné, sous quels rapports, avec quels éléments et à partir de quelles ressources.
+Les opérations, les orientations et les autres ressources prennent leur place dans une **configuration d'examen lorsqu'elles sont effectivement mobilisées dans le traitement de la difficulté**. Cette configuration associe, selon les besoins, des matériaux, des catégories, des critères, des méthodes et des instruments d'épreuve. Elle ne se réduit pas à la liste des ressources disponibles : elle correspond à leur agencement effectif dans les travaux entrepris.
 
-Cette préconfiguration n'est pas un plan définitif. Elle anticipe des travaux possibles à partir de la compréhension présente du problème. Elle peut être modifiée lorsque l'examen fait apparaître une question nouvelle, révèle l'insuffisance d'une ressource ou conduit à reformuler la difficulté.
+Il est donc utile de préciser, à mesure que l'examen se déroule :
 
-Il est donc utile de se demander :
+- Quelle difficulté est effectivement traitée ?
+- Sous quels rapports est-elle examinée ?
+- Quels travaux sont accomplis ?
+- Quels éléments, critères ou instruments sont mobilisés ?
+- Quelles relations entre ces ressources permettent de conduire l'examen ?
+- Qu'est-ce que les premiers résultats permettent d'établir ?
+- Quelles difficultés conduisent éventuellement à modifier la configuration ?
 
-- Quelles questions le problème conduit-il à poser ?
-- Sous quels rapports faut-il examiner la situation ?
-- Quels travaux permettent de traiter ces questions ?
-- Quels éléments, critères ou instruments sont nécessaires ?
-- Qu'est-ce qui pourrait conduire à réviser cette première organisation ?
+La configuration ainsi constituée peut être suffisante pour traiter le problème. Il n'est pas nécessaire de mobiliser d'autres opérations ou d'autres ressources lorsque les travaux accomplis permettent d'atteindre l'objectif poursuivi et que les limites du résultat sont explicites.
 
-La préconfiguration sert à orienter le travail sans enfermer l'enquête dans un programme. Elle doit rester suffisamment déterminée pour guider les premiers examens et suffisamment ouverte pour accueillir les difficultés qui apparaîtront en cours de route.
+Si l'examen fait apparaître une nouvelle difficulté, révèle l'insuffisance d'une ressource ou conduit à reformuler le problème, la configuration peut être précisée, transformée ou remplacée. La modification ne relève pas d'une étape supplémentaire obligatoire : elle répond à ce que les travaux effectivement accomplis ont rendu nécessaire.
 
 ## 3. Repérer les passages à examiner
 
