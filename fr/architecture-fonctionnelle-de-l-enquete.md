@@ -140,6 +140,28 @@ Ces regroupements indiquent des proximités fonctionnelles. Ils ne constituent p
 
 Une même opération peut contribuer à plusieurs types de transformation. Inversement, une difficulté peut nécessiter plusieurs opérations dont les contributions se précisent conjointement.
 
+#### Cohérence, intelligibilité et adéquation
+
+Les opérations contribuent à rendre intelligibles les difficultés descriptives en transformant les conditions dans lesquelles leurs éléments, leurs relations et leurs conclusions peuvent être examinés.
+
+Cette contribution peut notamment concerner trois exigences distinctes.
+
+La cohérence concerne la compatibilité et l'articulation des éléments retenus dans une organisation descriptive. Elle demande d'examiner si les distinctions, les relations et les affirmations peuvent être maintenues conjointement.
+
+L'intelligibilité concerne la possibilité de reconstruire les éléments, les relations, les conditions et les raisons qui rendent une description compréhensible et réexaminable.
+
+L'adéquation concerne le rapport entre une description et la situation qu'elle prétend décrire. Elle demande d'examiner si les éléments disponibles permettent effectivement de soutenir les déterminations et les conclusions avancées.
+
+Ces exigences ne sont pas équivalentes.
+
+Une organisation descriptive peut être cohérente sans être suffisamment intelligible. Elle peut être intelligible sans être adéquate à la situation examinée. Elle peut également présenter des tensions internes qui ne peuvent être supprimées sans perdre des différences ou des éléments importants.
+
+Les opérations permettent d'examiner ces difficultés, mais ne garantissent pas à elles seules la satisfaction de ces exigences.
+
+Leur fonction n'est donc pas de produire une cohérence à tout prix. Elle consiste à rendre les organisations descriptives examinables, à identifier leurs possibilités et leurs limites et à maintenir leur révisabilité.
+
+Une incohérence persistante, une relation insuffisamment établie ou une inadéquation constatée ne constituent pas nécessairement un échec de l'enquête. Ces résultats peuvent révéler une difficulté jusque-là insuffisamment déterminée.
+
 Ces opérations constituent un répertoire de référence. Leur présentation ne détermine pas leur ordre d'intervention. Elles peuvent être mobilisées séparément ou conjointement, reprises, précisées ou laissées de côté selon la difficulté examinée.
 
 Il faut distinguer les opérations des activités des pratiques étudiées. Observer, mesurer, classer, interpréter, expérimenter ou décider sont des activités susceptibles de faire l'objet d'un examen. Délimiter, Ancrer, Distinguer, Relier, Configurer, Justifier, Reconstituer et Redélimiter désignent les travaux par lesquels l'enquête examine ces activités et leurs productions.
@@ -265,6 +287,20 @@ La constitution des instruments et leurs trois formes actuelles sont développé
 
 Une méthode organise un ensemble d'activités et de ressources en vue d'un travail déterminé. Elle peut associer des procédures, des techniques, des critères, des instruments et plusieurs travaux d'examen.
 
+Les opérations de Protokin ne constituent pas, à elles seules, une méthode complète. Elles désignent des actes intellectuels mobilisables dans différentes méthodes et configurations d'enquête.
+
+Une méthode scientifique peut ainsi organiser des observations, des mesures, des interventions expérimentales, des procédures de contrôle et des critères d'évaluation. Les opérations de Protokin peuvent intervenir pour examiner la formulation du problème, les distinctions retenues, les relations établies, l'organisation des résultats ou les conclusions tirées de ces travaux.
+
+Il faut donc distinguer trois plans :
+
+- **La méthode** organise des activités et des ressources selon des principes, des règles ou des procédures déterminés.
+- **L'opération** désigne un acte intellectuel d'examen qui transforme les conditions de traitement d'une difficulté.
+- **L'instrument d'épreuve** constitue une configuration située de ressources organisée en vue d'une confrontation.
+
+Ces trois plans peuvent être articulés dans une même enquête sans se confondre.
+
+Protokin ne remplace donc pas les méthodes propres aux disciplines et aux pratiques étudiées. Il fournit des ressources opératoires permettant d'examiner leurs descriptions, leurs procédures, leurs résultats et leurs conditions de justification.
+
 Les méthodes scientifiques constituent notamment des organisations méthodologiques susceptibles de mobiliser plusieurs composantes de l'architecture fonctionnelle.
 
 Une méthode expérimentale peut, par exemple, associer des procédures d'intervention, des observations, des mesures, des critères de comparaison, des opérations d'examen et des instruments destinés à confronter des hypothèses ou des résultats aux éléments recueillis.
@@ -385,10 +421,14 @@ L'architecture ne doit donc pas protéger ses propres distinctions contre les r�
 
 L'architecture fonctionnelle de Protokin distingue quatre ensembles de ressources :
 
-- **Les opérations** désignent les travaux d'examen de second ordre.
+- **Les opérations** désignent des actes intellectuels de second ordre qui transforment les conditions de traitement d'une difficulté descriptive. Formulées comme des verbes d'action, elles constituent un répertoire de possibilités d'intervention : Délimiter, Ancrer, Distinguer, Relier, Configurer, Justifier, Reconstituer et Redélimiter.
 - **Les orientations** précisent les rapports sous lesquels ces travaux interrogent leur objet.
 - **Les dimensions transversales** concernent plusieurs travaux, notamment sous les rapports de la temporalité et de la réflexivité.
 - **Les instruments d'épreuve** constituent des configurations situées de ressources organisées en vue d'une confrontation.
+
+Ces opérations ne constituent pas une procédure ni une succession nécessaire d'étapes. Elles peuvent être mobilisées séparément ou conjointement, reprises et révisées selon les difficultés rencontrées. Leurs contributions fonctionnelles sont distinctes, mais elles peuvent participer à une même transformation de l'intelligibilité du problème.
+
+Leur fonction n'est pas de produire une cohérence présupposée. Elle consiste à rendre les descriptions et leurs organisations examinables, en explicitant leurs éléments, leurs relations, leurs conditions et leurs justifications, sans confondre cohérence interne et adéquation à la situation décrite.
 
 Les catégories regroupent certaines opérations sans constituer un ensemble fonctionnel supplémentaire. Les méthodes organisent des activités et des ressources sans former une composante supplémentaire de l'architecture. L'audit désigne une fonction critique transversale ; l'épreuve, une exigence générale de confrontation.
 
