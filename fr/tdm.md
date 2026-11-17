@@ -2,7 +2,7 @@
 
 Cette table des matières organise l'accès aux ressources du corpus Protokin. Elle permet de retrouver les pages selon les problèmes examinés, les travaux d'enquête, les notions mobilisées et les besoins de consultation.
 
-Le corpus rassemble des ressources de présentation et de cadrage, des repères pour conduire une enquête, des opérations, des orientations, des dimensions transversales, des instruments de confrontation, des distinctions conceptuelles, des études de cas, des références philosophiques et des documents éditoriaux.
+Le corpus rassemble des ressources de présentation et de cadrage, des repères pour conduire une enquête, des opérations, des orientations, des dimensions transversales, des instruments d'épreuve, des distinctions conceptuelles, des études de cas, des références philosophiques et des documents éditoriaux.
 
 Son classement est documentaire et révisable. Il ne constitue ni une hiérarchie ontologique, ni une classification exhaustive des pratiques descriptives, ni une succession obligatoire d'étapes.
 
