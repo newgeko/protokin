@@ -4,32 +4,30 @@
 
 Cette page présente l'organisation fonctionnelle des ressources que Protokin met à disposition pour examiner les pratiques descriptives.
 
-Elle distingue les opérations, les orientations, les dimensions transversales et les instruments d'épreuve. Elle précise également le statut des catégories, des méthodes, de l'audit et de l'exigence générale d'épreuve, afin de prévenir les confusions entre des ressources qui peuvent intervenir dans un même examen sans remplir la même fonction.
+Elle distingue quatre ensembles : les opérations, les orientations, les dimensions transversales et les instruments d'épreuve. Elle précise également la place des catégories, des méthodes, de l'audit et de l'exigence d'épreuve.
 
-Elle ne définit pas à nouveau l'enquête, ne développe pas les opérations ou les orientations dans leur détail et ne propose pas de procédure universelle. Elle présente les relations entre les ressources et les conditions générales de leur mobilisation.
+Elle ne définit pas une procédure universelle. Elle décrit les fonctions des ressources et les relations possibles entre elles, sans déterminer à l'avance leur mobilisation dans une enquête.
 
 ## 1. Problème et portée de l'architecture
 
 Les pratiques descriptives mobilisent des catégories, des concepts, des distinctions, des procédures, des critères et des supports pour identifier et caractériser des situations.
 
-Lorsque ces pratiques rencontrent une difficulté, leur examen peut nécessiter plusieurs travaux : préciser le problème, examiner les conditions d'une description, distinguer des fonctions, établir des relations, reconstruire une organisation ou justifier une conclusion.
+Lorsqu'elles rencontrent une difficulté, leur examen peut nécessiter plusieurs travaux : préciser le problème, examiner les conditions d'une description, établir des distinctions, étudier des relations, reconstruire une organisation ou justifier une conclusion.
 
-Ces travaux ne répondent pas tous aux mêmes questions. Ils ne mobilisent pas non plus les mêmes ressources. Il faut donc pouvoir différencier les fonctions qui contribuent à l'organisation d'une enquête sans les transformer en étapes d'une procédure.
-
-L'architecture fonctionnelle répond à ce besoin. Elle présente les ressources disponibles et précise les relations qui permettent de les mobiliser dans une enquête située.
+Ces travaux ne répondent pas tous aux mêmes questions et ne mobilisent pas les mêmes ressources. L'architecture fonctionnelle permet de les différencier sans les transformer en étapes successives.
 
 Elle distingue deux plans :
 
 - **Les pratiques descriptives de premier ordre** produisent, utilisent, transmettent et révisent des descriptions dans des activités déterminées.
 - **Les travaux d'examen de second ordre** portent sur ces pratiques, leurs ressources, leurs productions, leurs conditions et les conclusions qu'elles permettent de soutenir.
 
-Cette distinction porte sur la fonction des activités considérées. Elle ne sépare pas deux domaines indépendants : une description produite dans une pratique peut devenir un objet d'examen, tandis que les résultats de cet examen peuvent conduire à modifier les ressources de la pratique concernée.
+Cette distinction concerne la fonction des activités considérées, non deux domaines indépendants. Une description produite dans une pratique peut devenir un objet d'examen ; les résultats de cet examen peuvent, en retour, conduire à modifier les ressources de cette pratique.
 
-L'architecture de Protokin concerne ce second plan. Elle ne détermine pas à l'avance les catégories que les pratiques étudiées devraient employer.
+L'architecture de Protokin concerne principalement ce second plan. Elle ne détermine pas à l'avance les catégories que les pratiques étudiées devraient employer.
 
 ## 2. Les composantes fonctionnelles
 
-L'architecture fonctionnelle distingue quatre ensembles de ressources.
+L'architecture distingue quatre ensembles de ressources.
 
 | Ensemble | Fonction |
 |---|---|
@@ -40,29 +38,21 @@ L'architecture fonctionnelle distingue quatre ensembles de ressources.
 
 Ces ensembles se distinguent par leur fonction. Ils ne constituent ni des niveaux hiérarchiques ni les moments successifs d'une procédure.
 
-Leur mobilisation est articulée : une opération intervient sous une ou plusieurs orientations, peut prendre en compte des dimensions transversales et peut mobiliser un instrument d'épreuve.
-
-L'organisation particulière de ces ressources dépend de la difficulté examinée.
+Leur mobilisation est articulée : une opération intervient sous une ou plusieurs orientations, peut prendre en compte des dimensions transversales et mobiliser un instrument d'épreuve. L'organisation particulière de ces ressources dépend de la difficulté examinée.
 
 ### 2.1. Les catégories : regrouper les opérations
 
-Les catégories regroupent certaines opérations présentant des proximités ou des complémentarités fonctionnelles.
+Les catégories regroupent des opérations présentant des proximités ou des complémentarités fonctionnelles.
 
-Elles facilitent le repérage et la consultation des ressources. Elles ne désignent pas des travaux supplémentaires et ne constituent pas un ensemble fonctionnel de même nature que les opérations, les orientations, les dimensions transversales ou les instruments.
+Elles facilitent le repérage et l'organisation du répertoire. Elles ne désignent pas des travaux supplémentaires et ne constituent pas un ensemble fonctionnel de même nature que les opérations, les orientations, les dimensions transversales ou les instruments.
 
-Le regroupement d'opérations ne détermine pas leur ordre de mobilisation. Il ne signifie pas non plus qu'elles doivent nécessairement intervenir ensemble.
+Le regroupement d'opérations ne détermine ni leur ordre de mobilisation ni leur association obligatoire.
 
-Les catégories sont donc des moyens d'organisation du répertoire des opérations, et non des composantes supplémentaires de l'enquête.
+### 2.2. Les opérations : des travaux d'examen
 
-### 2.2. Les opérations : des actes d'examen
+Les opérations désignent les travaux de second ordre par lesquels une enquête transforme les conditions de traitement d'une difficulté descriptive.
 
-Les opérations désignent les actes intellectuels de second ordre par lesquels une enquête transforme les conditions de traitement d'une difficulté descriptive.
-
-Elles sont formulées comme des verbes d'action parce qu'elles désignent des travaux déterminés : délimiter un problème, ancrer l'examen dans des éléments disponibles, établir des distinctions, examiner des relations, configurer une organisation, justifier des conclusions, reconstituer les rapports entre les travaux accomplis et redélimiter le problème.
-
-Chaque opération correspond à un type de travail identifiable. Elle intervient sur des éléments, des relations, des descriptions ou des conclusions et contribue à modifier la manière dont ils peuvent être examinés.
-
-Les opérations ne désignent ni des thèmes ni des dimensions générales de la réalité. Elles ne constituent pas davantage des étapes successives d'une procédure. Elles forment un répertoire de possibilités d'intervention intellectuelle, mobilisables séparément ou conjointement selon les difficultés rencontrées.
+Elles sont formulées comme des verbes d'action parce qu'elles désignent des interventions déterminées sur un problème, des éléments, des distinctions, des relations, des organisations ou des conclusions.
 
 Huit opérations sont actuellement distinguées :
 
@@ -70,103 +60,38 @@ Huit opérations sont actuellement distinguées :
 - **Ancrer** : examiner les conditions de la situation et les éléments sur lesquels l'enquête peut prendre appui.
 - **Distinguer** : établir les différences pertinentes et prévenir les confusions entre des termes, des fonctions ou des niveaux d'analyse.
 - **Relier** : examiner la nature, les conditions et la portée des relations entre les éléments considérés.
-- **Configurer** : reconstruire ou réviser une organisation d'éléments, de distinctions et de relations pertinente au regard du problème examiné.
+- **Configurer** : construire ou réviser une organisation d'éléments, de distinctions et de relations pertinente au regard du problème.
 - **Justifier** : examiner les raisons, les prémisses, les critères et les inférences qui soutiennent ou contestent une conclusion.
 - **Reconstituer** : rendre intelligible et réexaminable l'organisation de l'enquête à partir des travaux accomplis et des résultats disponibles.
-- **Redélimiter** : réexaminer la formulation et le périmètre du problème lorsque les résultats et les difficultés rencontrés conduisent à les modifier.
+- **Redélimiter** : réexaminer la formulation et le périmètre du problème lorsque les résultats ou les difficultés rencontrées conduisent à les modifier.
 
-#### Le statut opératoire des opérations
+#### Le caractère opératoire des opérations
 
-Les opérations désignent des transformations intellectuelles accomplies dans le traitement d'une difficulté descriptive.
+Une opération ne consiste pas seulement à décrire une activité. Elle intervient sur les conditions dans lesquelles une difficulté peut être examinée.
 
-Elles ne se contentent pas de décrire les travaux de l'enquête. Elles permettent d'intervenir sur la formulation du problème, la détermination des éléments, l'établissement des relations, l'organisation des descriptions et le soutien des conclusions.
+Délimiter et Redélimiter transforment la formulation du problème. Ancrer, Distinguer et Relier contribuent à déterminer les éléments retenus et les rapports examinés. Configurer intervient sur leur organisation. Justifier examine le soutien des conclusions. Reconstituer rend intelligibles les travaux accomplis et leurs relations.
 
-Une opération peut ainsi modifier :
+Ces contributions ne constituent pas une succession. Une distinction peut conduire à reprendre une relation ; l'examen d'une relation peut modifier une configuration ; une configuration peut faire apparaître une difficulté qui impose de redélimiter le problème.
 
-- la formulation et le périmètre du problème ;
-- les éléments retenus et les conditions sur lesquelles l'examen prend appui ;
-- les différences établies entre les notions, les fonctions et les niveaux d'analyse ;
-- les relations reconnues, proposées ou contestées ;
-- l'organisation des éléments et de leurs dépendances ;
-- les raisons et les critères permettant de soutenir une conclusion ;
-- l'intelligibilité des travaux accomplis et de leurs transformations.
+Les opérations forment donc un répertoire de possibilités d'intervention. Elles peuvent être mobilisées séparément ou conjointement, reprises, précisées ou laissées de côté selon la difficulté rencontrée.
 
-Ces transformations ne sont pas nécessairement successives. Une distinction peut conduire à reprendre une relation ; l'examen d'une relation peut conduire à modifier une configuration ; une configuration peut faire apparaître une difficulté qui impose de redélimiter le problème.
+Leur fonction est de transformer les conditions d'examen, non de garantir à elles seules la résolution du problème.
 
-Une opération ne produit donc pas nécessairement un résultat définitif. Elle modifie les conditions dans lesquelles une difficulté peut être examinée, sans garantir que cette modification suffise à la résoudre.
-
-Le caractère opératoire des opérations tient précisément à cette capacité d'intervention et de transformation.
-
-#### Les types de transformations opératoires
-
-Les opérations ont une fonction commune : transformer les conditions dans lesquelles une difficulté descriptive peut être examinée. Elles ne réalisent cependant pas toutes le même type de transformation.
-
-On peut distinguer plusieurs contributions fonctionnelles :
-
-1. Transformer la détermination du problème
-
-- Délimiter construit une formulation provisoire de la difficulté et en précise le périmètre.
-- Redélimiter reprend cette formulation lorsque les résultats ou les difficultés rencontrées en révèlent les limites.
-
-Ces opérations portent sur la détermination du problème. Elles permettent d'en modifier les termes et les limites au cours de l'enquête.
-
-2. Transformer la détermination des éléments et de leurs relations
-
-- Ancrer examine les conditions et les appuis sur lesquels l'enquête peut prendre prise.
-- Distinguer établit les différences nécessaires pour éviter les confusions.
-- Relier examine les relations, les dépendances et les médiations entre les éléments considérés.
-
-Ces opérations contribuent à déterminer ce qui peut être retenu, différencié et mis en relation dans l'examen.
-
-3. Transformer l'organisation descriptive
-
-- Configurer organise les éléments, les distinctions et les relations au regard du problème examiné.
-
-Cette opération construit ou révise une organisation particulière. Elle permet d'examiner les conséquences de l'articulation proposée, sans présupposer que celle-ci soit exhaustive ou adéquate.
-
-4. Examiner le soutien des conclusions
-
-- Justifier examine les raisons, les prémisses, les critères et les inférences qui soutiennent ou contestent une conclusion.
-
-Cette opération porte sur ce qui autorise à maintenir une affirmation, à en limiter la portée ou à la réviser.
-
-5. Transformer l'intelligibilité de l'enquête
-
-- Reconstituer reconstruit les relations entre les travaux accomplis, les ressources mobilisées et les résultats obtenus.
-
-Cette opération permet de rendre intelligible une organisation qui n'était pas nécessairement explicite au moment où les travaux ont été réalisés.
-
-Ces regroupements indiquent des proximités fonctionnelles. Ils ne constituent pas de nouvelles catégories obligatoires, ne définissent pas des niveaux hiérarchiques et ne déterminent aucun ordre de mobilisation.
-
-Une même opération peut contribuer à plusieurs types de transformation. Inversement, une difficulté peut nécessiter plusieurs opérations dont les contributions se précisent conjointement.
+Il faut également les distinguer des activités des pratiques étudiées. Observer, mesurer, classer, interpréter, expérimenter ou décider sont des activités susceptibles de faire l'objet d'un examen. Délimiter, Ancrer, Distinguer, Relier, Configurer, Justifier, Reconstituer et Redélimiter désignent les travaux par lesquels l'enquête examine ces activités et leurs productions.
 
 #### Cohérence, intelligibilité et adéquation
 
-Les opérations contribuent à rendre intelligibles les difficultés descriptives en transformant les conditions dans lesquelles leurs éléments, leurs relations et leurs conclusions peuvent être examinés.
+Les opérations permettent d'examiner plusieurs exigences qui ne doivent pas être confondues.
 
-Cette contribution peut notamment concerner trois exigences distinctes.
+- **La cohérence** concerne la compatibilité et l'articulation des éléments retenus dans une organisation descriptive.
+- **L'intelligibilité** concerne la possibilité de reconstruire les éléments, les relations, les conditions et les raisons qui rendent une description compréhensible et réexaminable.
+- **L'adéquation** concerne le rapport entre une description et la situation qu'elle prétend décrire.
 
-La cohérence concerne la compatibilité et l'articulation des éléments retenus dans une organisation descriptive. Elle demande d'examiner si les distinctions, les relations et les affirmations peuvent être maintenues conjointement.
+Ces exigences ne sont pas équivalentes. Une organisation peut être cohérente sans être suffisamment intelligible. Elle peut être intelligible sans être adéquate à la situation examinée.
 
-L'intelligibilité concerne la possibilité de reconstruire les éléments, les relations, les conditions et les raisons qui rendent une description compréhensible et réexaminable.
+Les opérations rendent ces exigences examinables, mais ne garantissent pas leur satisfaction. Leur fonction n'est donc pas de produire une cohérence à tout prix. Elle consiste à examiner les organisations descriptives, leurs possibilités et leurs limites, sans confondre leur articulation interne avec leur adéquation.
 
-L'adéquation concerne le rapport entre une description et la situation qu'elle prétend décrire. Elle demande d'examiner si les éléments disponibles permettent effectivement de soutenir les déterminations et les conclusions avancées.
-
-Ces exigences ne sont pas équivalentes.
-
-Une organisation descriptive peut être cohérente sans être suffisamment intelligible. Elle peut être intelligible sans être adéquate à la situation examinée. Elle peut également présenter des tensions internes qui ne peuvent être supprimées sans perdre des différences ou des éléments importants.
-
-Les opérations permettent d'examiner ces difficultés, mais ne garantissent pas à elles seules la satisfaction de ces exigences.
-
-Leur fonction n'est donc pas de produire une cohérence à tout prix. Elle consiste à rendre les organisations descriptives examinables, à identifier leurs possibilités et leurs limites et à maintenir leur révisabilité.
-
-Une incohérence persistante, une relation insuffisamment établie ou une inadéquation constatée ne constituent pas nécessairement un échec de l'enquête. Ces résultats peuvent révéler une difficulté jusque-là insuffisamment déterminée.
-
-Ces opérations constituent un répertoire de référence. Leur présentation ne détermine pas leur ordre d'intervention. Elles peuvent être mobilisées séparément ou conjointement, reprises, précisées ou laissées de côté selon la difficulté examinée.
-
-Il faut distinguer les opérations des activités des pratiques étudiées. Observer, mesurer, classer, interpréter, expérimenter ou décider sont des activités susceptibles de faire l'objet d'un examen. Délimiter, Ancrer, Distinguer, Relier, Configurer, Justifier, Reconstituer et Redélimiter désignent les travaux par lesquels l'enquête examine ces activités et leurs productions.
-
-Pour leur définition et leurs articulations, voir [Les opérations de référence et leurs articulations](fr/la-chaine-principale-de-l-enquete.md).
+Pour leur définition détaillée, voir [Les opérations de référence et leurs articulations](fr/la-chaine-principale-de-l-enquete.md).
 
 ### 2.3. Les orientations : les rapports de questionnement
 
@@ -185,15 +110,13 @@ Ces orientations différencient des rapports de questionnement. Elles ne constit
 
 #### Articulation entre opérations et orientations
 
-Les opérations et les orientations remplissent des fonctions distinctes, mais leur mobilisation est constitutivement articulée.
+Les opérations et les orientations remplissent des fonctions distinctes, mais leur mobilisation est articulée.
 
-Une opération n'intervient jamais indépendamment de tout rapport de questionnement. Elle est mobilisée sous une ou plusieurs orientations, même lorsque celles-ci ne sont pas explicitement formulées au commencement du travail.
-
-Il n'existe cependant aucune correspondance fixe entre elles :
+Une opération intervient sous un ou plusieurs rapports de questionnement. Il n'existe cependant aucune correspondance fixe entre les deux ensembles :
 
 - une même opération peut intervenir sous plusieurs orientations ;
 - une même orientation peut appeler plusieurs opérations ;
-- plusieurs orientations peuvent contribuer à un même travail d'examen ;
+- plusieurs orientations peuvent contribuer à un même travail ;
 - une opération peut conduire à préciser ou à reformuler une orientation ;
 - une orientation reformulée peut conduire à reprendre une opération ou à en mobiliser une autre.
 
@@ -201,11 +124,11 @@ Le rapport de questionnement et le travail entrepris peuvent ainsi se préciser 
 
 L'orientation Justification possède une portée réflexive particulière : elle permet d'examiner les raisons et les engagements associés aux affirmations produites sous les autres orientations. Elle ne constitue toutefois ni une instance extérieure à l'enquête ni un niveau hiérarchique supérieur.
 
-La distinction détaillée des quatre orientations et de leur asymétrie est développée dans [Orientation de l'examen](fr/orientation-de-l-examen.md).
+Voir [Orientation de l'examen](fr/orientation-de-l-examen.md).
 
-### 2.4. Les dimensions transversales : temporalité et réflexivité
+### 2.4. Les dimensions transversales
 
-Certaines dimensions concernent plusieurs travaux de l'enquête. Elles ne désignent pas des opérations supplémentaires ni des étapes à accomplir.
+Certaines dimensions concernent plusieurs travaux de l'enquête. Elles ne désignent ni des opérations supplémentaires ni des étapes à accomplir.
 
 Deux dimensions sont actuellement distinguées : la temporalité et la réflexivité.
 
@@ -213,11 +136,9 @@ Deux dimensions sont actuellement distinguées : la temporalité et la réflexiv
 
 La temporalité concerne les rapports entre le déroulement effectif des événements et des travaux, les possibilités qui pouvaient être envisagées depuis une situation donnée et les relations qui deviennent intelligibles depuis une situation ultérieure.
 
-La fonction **Temporaliser** permet d'examiner ces rapports dans les pratiques descriptives et dans l'enquête elle-même.
+La fonction **Temporaliser** permet d'examiner ces rapports dans les pratiques descriptives et dans l'enquête elle-même. Elle contribue notamment à distinguer ce qui s'est produit, ce qui pouvait être anticipé et ce qui est reconstruit rétrospectivement.
 
-Elle contribue notamment à distinguer ce qui s'est effectivement produit, ce qui pouvait être anticipé et ce qui est reconstruit rétrospectivement.
-
-Temporaliser ne constitue pas une opération supplémentaire. Cette fonction peut intervenir dans différents travaux, sans leur imposer un ordre particulier.
+Temporaliser peut intervenir dans différents travaux sans leur imposer un ordre particulier.
 
 Voir [Temporaliser](fr/temporaliser.md).
 
@@ -225,11 +146,11 @@ Voir [Temporaliser](fr/temporaliser.md).
 
 La réflexivité concerne la capacité de l'enquête à examiner ses propres conditions, ses choix, ses ressources, ses limites et ses effets.
 
-Elle peut conduire à réinterroger les catégories mobilisées, les distinctions retenues, les opérations accomplies, les orientations privilégiées, les instruments employés et la portée des résultats obtenus.
+Elle peut conduire à réinterroger les catégories mobilisées, les distinctions retenues, les opérations accomplies, les orientations privilégiées, les instruments employés et la portée des résultats.
 
-Elle ne constitue pas une opération qui interviendrait à la fin de l'enquête. Elle peut accompagner les différents travaux et concerner également les ressources de Protokin.
+Elle ne constitue pas une opération intervenant à la fin de l'enquête. Elle peut accompagner les différents travaux et concerner également les ressources de Protokin.
 
-La temporalité et la réflexivité sont distinctes, même si elles peuvent intervenir conjointement. Examiner la temporalité d'une enquête ne suffit pas à examiner ses présupposés ; examiner ses propres choix ne suffit pas non plus à reconstruire les rapports temporels de son déroulement.
+La temporalité et la réflexivité sont distinctes, même si elles peuvent intervenir conjointement.
 
 ### 2.5. Audit et épreuve : des fonctions distinctes
 
@@ -245,15 +166,13 @@ Auditer ne constitue ni une opération supplémentaire ni une procédure autonom
 
 L'auditeur désigne une position discursive et pratique à partir de laquelle les engagements et les conséquences d'une description sont interrogés.
 
-L'audit se distingue de la réflexivité : la réflexivité concerne la capacité de l'enquête à examiner ses propres conditions et ressources ; l'audit désigne une fonction critique susceptible de porter sur une description, un dispositif ou l'enquête elle-même.
+L'audit se distingue de la réflexivité : celle-ci concerne la capacité de l'enquête à examiner ses propres conditions et ressources ; l'audit désigne une fonction critique susceptible de porter sur une description, un dispositif ou l'enquête elle-même.
 
 **Éprouver**
 
 L'épreuve désigne une exigence générale de confrontation.
 
-Les descriptions, les distinctions et les conclusions doivent pouvoir être confrontées à des éléments susceptibles de les soutenir, de les limiter ou de les contester.
-
-Cette exigence peut concerner des observations, des mesures, des traces, des documents, des situations, d'autres descriptions, des objections ou des interprétations alternatives.
+Les descriptions, les distinctions et les conclusions doivent pouvoir être confrontées à des éléments susceptibles de les soutenir, de les limiter ou de les contester : observations, mesures, traces, documents, situations, autres descriptions, objections ou interprétations alternatives.
 
 L'épreuve ne constitue ni une opération supplémentaire ni un instrument particulier. Elle peut intervenir dans différents travaux et conduire à reprendre une description, une distinction, une configuration ou une conclusion.
 
@@ -281,43 +200,27 @@ Il faut distinguer :
 - l'instrument d'épreuve, qui désigne une configuration particulière de ressources ;
 - l'opération, qui désigne le travail d'examen dans lequel cette configuration est mobilisée.
 
-La constitution des instruments et leurs trois formes actuelles sont développées dans [Instrument d'épreuve](fr/instrument-d-epreuve.md).
+Voir [Instrument d'épreuve](fr/instrument-d-epreuve.md).
 
 ## 3. Méthodes et architecture fonctionnelle
 
 Une méthode organise un ensemble d'activités et de ressources en vue d'un travail déterminé. Elle peut associer des procédures, des techniques, des critères, des instruments et plusieurs travaux d'examen.
 
-Les opérations de Protokin ne constituent pas, à elles seules, une méthode complète. Elles désignent des actes intellectuels mobilisables dans différentes méthodes et configurations d'enquête.
+Les opérations de Protokin ne constituent pas, à elles seules, une méthode complète. Elles désignent des travaux d'examen mobilisables dans différentes méthodes et configurations d'enquête.
 
 Une méthode scientifique peut ainsi organiser des observations, des mesures, des interventions expérimentales, des procédures de contrôle et des critères d'évaluation. Les opérations de Protokin peuvent intervenir pour examiner la formulation du problème, les distinctions retenues, les relations établies, l'organisation des résultats ou les conclusions tirées de ces travaux.
 
 Il faut donc distinguer trois plans :
 
 - **La méthode** organise des activités et des ressources selon des principes, des règles ou des procédures déterminés.
-- **L'opération** désigne un acte intellectuel d'examen qui transforme les conditions de traitement d'une difficulté.
+- **L'opération** désigne un travail d'examen de second ordre portant sur une pratique descriptive ou sur ses productions.
 - **L'instrument d'épreuve** constitue une configuration située de ressources organisée en vue d'une confrontation.
 
-Ces trois plans peuvent être articulés dans une même enquête sans se confondre.
+Ces trois plans peuvent être articulés dans une même enquête sans se confondre. Une méthode peut mobiliser plusieurs opérations et plusieurs instruments ; un instrument peut être constitué sans relever d'une méthode scientifique complète.
 
-Protokin ne remplace donc pas les méthodes propres aux disciplines et aux pratiques étudiées. Il fournit des ressources opératoires permettant d'examiner leurs descriptions, leurs procédures, leurs résultats et leurs conditions de justification.
+Les méthodes ne constituent donc pas un cinquième ensemble de l'architecture fonctionnelle. Elles désignent des organisations particulières d'activités et de ressources, dont les composantes doivent être examinées selon leur fonction effective.
 
-Les méthodes scientifiques constituent notamment des organisations méthodologiques susceptibles de mobiliser plusieurs composantes de l'architecture fonctionnelle.
-
-Une méthode expérimentale peut, par exemple, associer des procédures d'intervention, des observations, des mesures, des critères de comparaison, des opérations d'examen et des instruments destinés à confronter des hypothèses ou des résultats aux éléments recueillis.
-
-Il faut néanmoins distinguer méthode, opération et instrument :
-
-- **La méthode** organise un ensemble d'activités et de ressources selon des principes et des procédures déterminés.
-- **L'opération** désigne un travail d'examen de second ordre portant sur une pratique descriptive ou sur ses productions.
-- **L'instrument d'épreuve** constitue une configuration particulière de ressources organisée en vue d'une confrontation.
-
-Une méthode peut donc mobiliser plusieurs instruments d'épreuve et plusieurs opérations. Elle peut également remplir d'autres fonctions que la confrontation.
-
-Inversement, un instrument d'épreuve peut être constitué et mobilisé sans relever d'une méthode scientifique complète.
-
-Les méthodes ne constituent pas un cinquième ensemble de l'architecture fonctionnelle. Elles désignent des organisations particulières d'activités et de ressources, dont les composantes doivent être examinées selon leur fonction effective.
-
-La distinction entre méthode et instrument est développée dans [Instrument d'épreuve](fr/instrument-d-epreuve.md).
+Protokin ne remplace pas les méthodes propres aux disciplines et aux pratiques étudiées. Il fournit des ressources pour examiner leurs descriptions, leurs procédures, leurs résultats et leurs conditions de justification.
 
 ## 4. Organisation et configurations situées
 
@@ -349,9 +252,9 @@ Les ressources peuvent être mobilisées de différentes manières :
 
 La reprise et la révision ne sont pas équivalentes. Reprendre consiste à revenir sur un élément ou un travail antérieur ; réviser consiste à lui apporter une modification. Une reprise peut ne conduire à aucune révision.
 
-Ces modalités ne constituent pas de nouvelles opérations ou de nouveaux instruments. Elles précisent les manières dont les ressources peuvent intervenir dans une enquête.
+Ces modalités précisent les manières dont les ressources peuvent intervenir. Elles ne constituent pas de nouvelles opérations ou de nouveaux instruments.
 
-Leur développement est présenté dans [Modes d'intervention de l'enquête](fr/modes-d-intervention-de-l-enquete.md).
+Voir [Modes d'intervention de l'enquête](fr/modes-d-intervention-de-l-enquete.md).
 
 ## 5. Résultats et reconstitution de l'enquête
 
@@ -370,7 +273,7 @@ Un résultat n'est pas une composante supplémentaire de l'architecture fonction
 
 L'opération Reconstituer permet de rendre l'organisation de l'enquête intelligible et réexaminable à partir des travaux accomplis, des ressources mobilisées, des transformations intervenues et des résultats disponibles.
 
-Cette reconstruction peut rendre visibles des relations qui n'étaient pas identifiées au moment où les travaux ont été conduits.
+Cette reconstruction peut rendre visibles des relations qui n'étaient pas identifiées au moment où les travaux ont été réalisés.
 
 Il faut donc distinguer :
 
@@ -382,7 +285,7 @@ La cohérence d'une reconstruction rétrospective ne démontre pas que le dérou
 
 La reconstitution peut elle-même conduire à reprendre un travail ou à redélimiter le problème.
 
-Pour approfondir ces questions, voir [Reconstituer](fr/reconstituer.md), [Temporaliser](fr/temporaliser.md), [Résultats de l'enquête](fr/resultats-de-l-enquete.md) et [Le plateau d'enquête](fr/plateau-d-enquete.md).
+Voir [Reconstituer](fr/reconstituer.md), [Temporaliser](fr/temporaliser.md), [Résultats de l'enquête](fr/resultats-de-l-enquete.md) et [Le plateau d'enquête](fr/plateau-d-enquete.md).
 
 ## 6. Portée et limites
 
@@ -392,7 +295,7 @@ Elle établit notamment :
 
 - que les opérations désignent des travaux d'examen de second ordre ;
 - que les orientations précisent les rapports de questionnement dans lesquels ces travaux prennent sens ;
-- que les dimensions transversales peuvent intervenir dans plusieurs opérations ;
+- que les dimensions transversales peuvent intervenir dans plusieurs travaux ;
 - que les instruments d'épreuve sont des configurations situées de ressources ;
 - que les méthodes peuvent organiser plusieurs composantes sans constituer un ensemble supplémentaire de l'architecture ;
 - que les ressources peuvent être mobilisées, combinées, reprises et révisées sans ordre universel.
@@ -402,7 +305,7 @@ Elle n'établit cependant pas :
 - que les quatre ensembles constituent une classification exhaustive de toutes les ressources possibles ;
 - que chaque enquête doit mobiliser toutes les opérations ou toutes les orientations ;
 - qu'une opération correspond à une orientation déterminée ;
-- que les catégories de regroupement imposent des associations obligatoires entre opérations ;
+- que les catégories imposent des associations obligatoires entre opérations ;
 - que les méthodes scientifiques se réduisent aux opérations ou aux instruments ;
 - que toute exigence d'épreuve nécessite un instrument particulier ;
 - que les trois instruments actuellement distingués suffisent à toutes les confrontations ;
@@ -421,18 +324,14 @@ L'architecture ne doit donc pas protéger ses propres distinctions contre les r�
 
 L'architecture fonctionnelle de Protokin distingue quatre ensembles de ressources :
 
-- **Les opérations** désignent des actes intellectuels de second ordre qui transforment les conditions de traitement d'une difficulté descriptive. Formulées comme des verbes d'action, elles constituent un répertoire de possibilités d'intervention : Délimiter, Ancrer, Distinguer, Relier, Configurer, Justifier, Reconstituer et Redélimiter.
+- **Les opérations** désignent les travaux d'examen de second ordre qui transforment les conditions de traitement d'une difficulté descriptive.
 - **Les orientations** précisent les rapports sous lesquels ces travaux interrogent leur objet.
 - **Les dimensions transversales** concernent plusieurs travaux, notamment sous les rapports de la temporalité et de la réflexivité.
 - **Les instruments d'épreuve** constituent des configurations situées de ressources organisées en vue d'une confrontation.
 
-Ces opérations ne constituent pas une procédure ni une succession nécessaire d'étapes. Elles peuvent être mobilisées séparément ou conjointement, reprises et révisées selon les difficultés rencontrées. Leurs contributions fonctionnelles sont distinctes, mais elles peuvent participer à une même transformation de l'intelligibilité du problème.
-
-Leur fonction n'est pas de produire une cohérence présupposée. Elle consiste à rendre les descriptions et leurs organisations examinables, en explicitant leurs éléments, leurs relations, leurs conditions et leurs justifications, sans confondre cohérence interne et adéquation à la situation décrite.
+Les opérations ne constituent ni une procédure ni une succession nécessaire d'étapes. Elles peuvent être mobilisées séparément ou conjointement, reprises et révisées selon les difficultés rencontrées.
 
 Les catégories regroupent certaines opérations sans constituer un ensemble fonctionnel supplémentaire. Les méthodes organisent des activités et des ressources sans former une composante supplémentaire de l'architecture. L'audit désigne une fonction critique transversale ; l'épreuve, une exigence générale de confrontation.
-
-Les opérations et les orientations sont distinctes, mais leur mobilisation est constitutivement articulée. Les autres ressources peuvent intervenir dans leurs différentes configurations sans se substituer à elles.
 
 L'organisation fonctionnelle présente les ressources disponibles ; les configurations désignent leurs agencements particuliers dans une enquête. Leur mobilisation peut être combinée, interrompue, reprise et révisée.
 
