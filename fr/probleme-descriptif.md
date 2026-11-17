@@ -123,19 +123,31 @@ Les relations entre les descriptions, les pratiques concernées et les condition
 
 ## 6. Du problème à l'enquête
 
-Le problème descriptif constitue un point de départ provisoire pour l'examen. Il faut préciser ce qui fait difficulté, dans quelle pratique elle apparaît et ce qui reste indéterminé ou contestable.
+Le problème descriptif ne constitue pas seulement le point de départ chronologique d'une enquête. Il en est le principe générateur : c'est à partir de la difficulté rencontrée que se précisent les besoins d'examen, les questions à traiter et les ressources susceptibles d'y répondre.
 
-Cette formulation initiale peut être révisée. L'examen peut révéler que le problème a été trop largement défini, qu'une distinction importante manque ou que la difficulté concerne une autre question que celle qui avait d'abord été identifiée.
+Une difficulté ne détermine pas mécaniquement un ensemble de travaux. Elle fait apparaître des besoins qui conduisent à sélectionner certaines opérations et certaines orientations. Les opérations désignent les travaux à accomplir ; les orientations précisent les rapports sous lesquels la difficulté doit être examinée. Leur pertinence respective dépend du problème et de la manière dont celui-ci est progressivement compris.
 
-Le problème ne détermine pas à l'avance les ressources qui devront être mobilisées. Les questions à examiner et les travaux nécessaires dépendent de la difficulté effectivement rencontrée et des éléments disponibles.
+Cette détermination n'est pas nécessairement immédiate. La formulation initiale du problème peut faire apparaître certains besoins d'examen, tandis que les premiers travaux en révèlent d'autres. Une opération peut conduire à préciser une orientation ; une orientation peut faire apparaître un travail qui n'avait pas été envisagé ; un résultat peut conduire à reformuler la difficulté et à réorganiser les ressources mobilisées.
 
-Les orientations permettent de préciser sous quels rapports une situation, une pratique ou un résultat peut être examiné. Les opérations désignent les travaux d'examen mobilisables pour traiter les questions rencontrées. Les fonctions transversales et les instruments d'épreuve peuvent également contribuer à cet examen.
+L'enquête se constitue ainsi par une préconfiguration progressive de ses ressources. Cette préconfiguration associe, selon les besoins, des opérations, des orientations, des matériaux, des critères et des instruments d'épreuve. Elle ne constitue ni un programme définitif ni une application de l'architecture fonctionnelle à un problème déjà entièrement déterminé. Elle exprime une organisation provisoire de l'examen, construite à partir de ce que la difficulté rend nécessaire ou pertinent à un moment donné.
 
-Ces ressources remplissent des fonctions différentes. Elles ne constituent ni une procédure obligatoire ni une succession de réponses prédéterminées au problème.
+La préconfiguration est donc révisable. Les travaux accomplis peuvent confirmer les choix initiaux, conduire à les préciser ou rendre nécessaire une autre organisation. Ils peuvent également révéler que le problème avait été formulé trop largement, trop étroitement ou sous un rapport inadéquat.
+
+L'architecture fonctionnelle de Protokin présente les ressources disponibles pour construire ces organisations. Elle ne fournit pas une grille préalable à appliquer systématiquement : elle permet de distinguer les fonctions des ressources que le problème conduit à mobiliser et à articuler.
+
+Le problème descriptif rend ainsi l'enquête nécessaire et en oriente l'organisation, sans déterminer à l'avance son déroulement, ses résultats ni ses conclusions. La relation entre le problème et l'enquête est évolutive : le problème appelle l'examen, tandis que l'examen peut conduire à le reformuler.
 
 Leur articulation relève de l'[architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md). La définition de l'enquête et les modalités de sa conduite sont développées respectivement dans [Enquête](fr/enquete.md) et [Conduire une enquête](fr/conduire-une-enquete.md).
 
-Le problème descriptif rend ainsi l'examen nécessaire sans déterminer son organisation, ses conclusions ou les transformations auxquelles il pourrait conduire.
+## Synthèse
+
+Un problème descriptif apparaît lorsque les ressources mobilisées dans une pratique ne suffisent plus à traiter une question de manière suffisamment déterminée ou défendable.
+
+Il ne se confond ni avec une simple différence entre descriptions, ni avec une erreur démontrée, ni avec son diagnostic ou les réponses susceptibles de lui être apportées.
+
+Il peut prendre différentes formes, dont la tension constitue un cas particulier. Son identification ne prescrit ni une transformation ni une procédure déterminée.
+
+**Le problème descriptif fait émerger les besoins d'examen et oriente la sélection et l'articulation des ressources de l'enquête. Cette organisation reste provisoire et peut être révisée à mesure que la difficulté est examinée.**
 
 ## Synthèse
 
