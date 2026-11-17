@@ -288,13 +288,16 @@ L'épreuve désigne une exigence générale de confrontation. Elle ne constitue 
 - [Exégèse](fr/exegese.md) — Reconstruire le fonctionnement descriptif d'un texte et examiner le réemploi de ses ressources dans une autre enquête.
 - [Révision descriptive et résultats scientifiques](fr/revision-descriptive-et-resultats-scientifiques.md) — Examiner comment un résultat scientifique peut conduire à réviser une description, ses critères ou les engagements associés.
 
-### C. Instruments et moyens de confrontation
+#### C. Instruments d'épreuve
 
-Les instruments actuellement distingués sont la substitution, le cas et la comparaison. Leur mobilisation dépend de la difficulté examinée et ne constitue pas une procédure obligatoire.
+Les instruments d'épreuve sont des configurations situées de ressources organisées pour confronter une description, une distinction, une relation ou une conclusion à des éléments susceptibles d'en examiner la portée et les limites. Leur composition dépend de la difficulté examinée et des orientations retenues. Ils ne constituent pas une liste de procédés universels ni une procédure obligatoire.
 
+- [Instrument d'épreuve](fr/instrument-d-epreuve.md) — Définir le statut des instruments d'épreuve et préciser leur rapport aux ressources, aux opérations, aux orientations et aux fonctions transversales.
 - [Substitution](fr/substitution.md) — Examiner ce qui se maintient ou change lorsqu'un terme, une catégorie ou un élément descriptif est remplacé dans un contexte déterminé.
 - [Cas](fr/cas.md) — Confronter une proposition ou une distinction à une situation déterminée et préciser la portée des résultats obtenus.
 - [Comparaison](fr/comparaison.md) — Mettre en regard plusieurs descriptions ou situations pour examiner leurs différences, leurs ressemblances et les relations qu'il est possible d'établir entre elles.
+
+La substitution, le cas et la comparaison sont les trois formes d'instruments actuellement distinguées dans le corpus. Leur combinaison peut produire des configurations plus complexes. La reprise relève d'une modalité de réexamen : elle peut mobiliser un instrument existant ou conduire à en construire un nouveau, mais ne constitue pas un instrument supplémentaire.
 
 L'explication et l'audit ne sont pas classés ici comme instruments : leur statut et leurs fonctions sont différents. L'explication peut être une activité descriptive ou un objet d'examen. Auditer désigne une fonction critique susceptible de mobiliser plusieurs opérations. La position de l'auditeur est présentée dans [Auditeur](fr/auditeur.md).
 
