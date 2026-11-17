@@ -53,6 +53,8 @@ Ces éléments ne constituent pas une liste de conditions formelles à satisfair
 
 L'instrument est ainsi relatif à une question d'examen et aux ressources mobilisées pour la traiter. Il n'existe pas indépendamment des conditions dans lesquelles il est constitué et utilisé.
 
+Un instrument d'épreuve ne se réduit pas à un assemblage de ressources envisagé en vue d'une confrontation éventuelle. Il prend sa fonction dans leur mobilisation effective pour examiner une proposition, une distinction ou une conclusion. Sa constitution et son usage appartiennent ainsi au travail d'examen : les ressources associées sont sélectionnées, mises en relation et utilisées selon les exigences de la confrontation. L'examen peut ensuite conduire à maintenir, préciser ou réviser cette configuration.
+
 ## 3. Ressources et configuration
 
 ### 3.1. Les ressources ne sont pas intrinsèquement des instruments
