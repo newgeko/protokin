@@ -36,7 +36,7 @@ L'architecture fonctionnelle distingue plusieurs ressources selon la fonction qu
 - les **opérations**, qui désignent les travaux d'examen ;
 - les **orientations**, qui précisent les rapports sous lesquels ces travaux interrogent une situation, une pratique, une description ou un résultat ;
 - les **dimensions transversales**, qui concernent plusieurs travaux et permettent notamment de prendre en compte la temporalité et la réflexivité ;
-- les **instruments de confrontation**, qui fournissent des moyens particuliers pour mettre des descriptions, des distinctions ou des conclusions à l'épreuve.
+- les **instruments d'épreuve** désignent des configurations situées de ressources constituées pour mettre à l'épreuve des descriptions ou leurs composantes.
 
 Ces ressources sont distinctes, mais elles ne sont pas indépendantes.
 
