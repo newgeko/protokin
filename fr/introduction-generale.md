@@ -114,7 +114,7 @@ La démarche de Protokin repose sur trois engagements méthodologiques compléme
 
 Ces engagements ne constituent ni des étapes successives ni des principes qui détermineraient à l'avance le déroulement de l'enquête. Ils caractérisent la manière dont Protokin aborde les difficultés descriptives et examine les ressources mobilisées.
 
-L'architecture fonctionnelle de Protokin organise les ressources mobilisables dans cet examen. Elle distingue les opérations, les orientations de l'examen, les dimensions transversales et les instruments de confrontation. Elle ne prescrit ni un ordre universel ni un parcours obligatoire.
+L'architecture fonctionnelle de Protokin organise les ressources mobilisables dans cet examen. Elle distingue les opérations, les orientations de l'examen, les dimensions transversales et les **instruments d'épreuve**. Elle ne prescrit ni un ordre universel ni un parcours obligatoire.
 
 Les engagements méthodologiques ne doivent donc pas être confondus avec les orientations de l'examen. Les premiers caractérisent la démarche générale de Protokin ; les secondes précisent les rapports sous lesquels une situation, une pratique, une description ou un résultat est interrogé dans une enquête déterminée.
 
