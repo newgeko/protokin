@@ -347,63 +347,52 @@ Maintenir provisoirement les quatre ensembles comme référence de travail.
 
 Ne pas considérer cette organisation comme une classification exhaustive ou définitive.
 
-### 4.2. Statut des opérations : incohérence interne à corriger
+### 4.2. Statut des opérations : correction déjà intégrée, contrôle HTML restant
 
-**Constat vérifié**
+**Constat vérifié au commit de référence**
 
-L'architecture fonctionnelle définit initialement les opérations comme des travaux d'examen de second ordre portant sur les pratiques descriptives.
+La contradiction signalée dans la version antérieure de l'audit n'est plus présente dans les documents Markdown de référence.
 
-Elle précise que les opérations ne se confondent pas avec les activités des pratiques étudiées.
+- `fr/architecture-fonctionnelle-de-l-enquete.md` définit les opérations comme des travaux d'examen de second ordre.
+- `pattern-tdm.md`, section 2.3, présente les opérations comme des travaux d'examen de second ordre.
+- `fr/la-chaine-principale-de-l-enquete.md` définit explicitement les huit opérations comme des travaux d'examen et distingue leur fonction, leurs dépendances et leur succession temporelle.
+- `fr/orientation-et-chemin-de-l-enquete.md` distingue le rapport de questionnement (orientation) du travail entrepris (opération).
+- `fr/conduire-une-enquete.md` et `fr/modes-d-intervention-de-l-enquete.md` conservent cette distinction dans leurs développements sur la mobilisation et la reprise des ressources.
+- `README.md` présente les opérations comme des travaux d'examen et décrit leur mobilisation sans séquence obligatoire.
 
-Les huit opérations actuellement distinguées sont :
-
-- Délimiter ;
-- Ancrer ;
-- Distinguer ;
-- Relier ;
-- Configurer ;
-- Justifier ;
-- Reconstituer ;
-- Redélimiter.
-
-Le README et `fr/architecture-projet.md` présentent également les opérations comme des travaux d'examen.
-
-Cependant, la section 7 de `fr/architecture-fonctionnelle-de-l-enquete.md` contient la formulation suivante :
-
-> Les opérations désignent des activités descriptives.
-
-Cette formulation contredit la définition initiale et la synthèse du même document.
-
-Le `pattern-tdm.md`, dans sa section 2.3, parle également des opérations comme de « travaux descriptifs ».
+La recherche dans le dépôt n'a pas révélé de définition concurrente dans ces documents. Les occurrences de « activités descriptives » dans les pages conceptuelles désignent les pratiques étudiées et ne constituent pas, en elles-mêmes, une confusion avec les opérations de Protokin.
 
 **Interprétation**
 
-Il ne s'agit pas d'une simple variation stylistique.
+La correction conceptuelle demandée par l'ancien audit a donc été intégrée dans les fichiers Markdown. Il serait inexact de maintenir les anciennes demandes de modification comme si elles restaient à effectuer.
 
-La distinction entre activités descriptives de premier ordre et travaux d'examen de second ordre est structurante pour Protokin.
+Une difficulté documentaire subsiste toutefois : `html/architecture-fonctionnelle-de-l-enquete.html` ne correspond plus à la version Markdown actuelle.
 
-Une activité telle que mesurer, observer, classer, interpréter ou décider peut appartenir à la pratique étudiée.
+La version HTML présente cinq composantes en faisant des catégories un ensemble fonctionnel autonome ; elle présente également Expliquer, Auditer et Éprouver comme des fonctions transversales, et Reprise comme un instrument.
 
-Une opération telle que Délimiter, Ancrer, Distinguer, Relier, Configurer, Justifier, Reconstituer ou Redélimiter désigne un travail d'examen portant sur cette pratique.
+Le Markdown actuel distingue quatre ensembles fonctionnels, deux dimensions transversales, la fonction critique Auditer, l'exigence générale Éprouver et trois formes d'instruments : Substitution, Cas et Comparaison.
 
-La formulation contradictoire risque de réintroduire une confusion entre les deux plans.
-
-Elle affecte directement la compréhension de l'architecture et sa transmission dans la TDM.
+Cet écart ne relève pas d'une simple différence de présentation. Il porte sur le contenu conceptuel et la fonction des ressources.
 
 **Décision validée**
 
 Maintenir la définition des opérations comme travaux d'examen de second ordre.
 
-Ne pas assimiler les opérations aux activités descriptives de premier ordre.
+Ne pas modifier à nouveau les pages Markdown qui sont déjà conformes sur ce point.
 
-**Modifications à réaliser**
+Ne pas considérer la priorité 1 comme entièrement clôturée tant que la version HTML n'a pas été remise en correspondance avec sa source Markdown.
 
-1. Dans `fr/architecture-fonctionnelle-de-l-enquete.md`, section 7, remplacer « les opérations désignent des activités descriptives » par une formulation cohérente avec la définition initiale.
-2. Dans `pattern-tdm.md`, section 2.3, remplacer « travaux descriptifs » par « travaux d'examen ».
-3. Vérifier que la distinction est conservée dans les pages consacrées à la conduite de l'enquête et aux opérations.
-4. Vérifier les éventuelles versions HTML après correction.
+**Interventions réalisées dans le cadre du présent contrôle**
 
-Cette correction est prioritaire.
+1. Rechargement de la version actuelle de l'architecture fonctionnelle.
+2. Vérification de `pattern-tdm.md` et de la page consacrée aux opérations.
+3. Vérification des relations avec les pages sur l'articulation des orientations, la conduite et les modes d'intervention.
+4. Vérification du README après l'ajout de la section sur la méthode opératoire.
+5. Identification d'un écart substantiel dans la version HTML.
+
+**Intervention restante**
+
+Reprendre `html/architecture-fonctionnelle-de-l-enquete.html` à partir de `pattern-html.md` et de la source Markdown actuelle. Cette reprise doit notamment corriger le nombre et le statut des ensembles fonctionnels, les dimensions transversales, la place d'Auditer et d'Éprouver, ainsi que le statut de Reprise. Vérifier ensuite les liens et la correspondance des sections.
 
 ### 4.3. Statut des orientations
 
