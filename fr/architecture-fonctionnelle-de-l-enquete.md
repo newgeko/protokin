@@ -10,21 +10,23 @@ Elle ne définit pas une procédure universelle. Elle décrit les fonctions des 
 
 ## Le problème descriptif et l'organisation de l'enquête
 
-L'architecture fonctionnelle de Protokin ne constitue pas un dispositif préalable que l'enquête devrait appliquer à toute difficulté. Elle présente un répertoire de ressources dont la mobilisation et l'articulation sont déterminées par les problèmes descriptifs rencontrés.
+L'architecture fonctionnelle de Protokin ne constitue pas un dispositif préalable que l'enquête devrait appliquer à toute difficulté. Elle présente un répertoire de ressources dont la mobilisation et l'articulation dépendent des problèmes descriptifs rencontrés.
 
-Le problème descriptif joue un rôle générateur dans l'organisation de l'enquête. Il fait émerger des besoins d'examen qui conduisent à mobiliser certaines opérations et certaines orientations. Les opérations désignent les travaux à accomplir ; les orientations précisent les rapports sous lesquels la difficulté est interrogée. Elles ne sont donc pas sélectionnées indépendamment l'une de l'autre, ni appliquées comme les éléments d'une grille préétablie. Leur pertinence se précise à partir de la difficulté et des questions qu'elle fait apparaître.
+Le problème descriptif joue un rôle générateur dans l'organisation de l'enquête. Il fait émerger des besoins d'examen qui conduisent à mobiliser certaines opérations et certaines orientations. Les opérations désignent les travaux accomplis ; les orientations précisent les rapports sous lesquels la difficulté est interrogée. Elles ne sont pas sélectionnées indépendamment les unes des autres : leur pertinence respective se précise dans l'examen du problème.
 
 Le problème conduit également à déterminer les autres ressources nécessaires : matériaux, catégories, critères, méthodes et instruments d'épreuve. Leur sélection dépend de ce qu'il faut examiner, des éléments disponibles et des exigences auxquelles les résultats devront répondre.
 
-Cette organisation prend la forme d'une **préconfiguration de l'enquête**. Elle associe provisoirement les opérations, les orientations et les autres ressources jugées pertinentes au regard du problème. Elle est dite préconfiguration parce qu'elle anticipe une organisation possible des travaux, non parce qu'elle précéderait toute activité d'examen ou en déterminerait le déroulement.
+L'association de ces ressources constitue une **configuration d'examen** lorsqu'elle est effectivement mobilisée dans le traitement du problème. Une configuration ne désigne donc ni un plan préalable ni une anticipation des travaux à accomplir. Elle correspond à un agencement situé de ressources et de relations engagé dans un examen effectif.
 
-La préconfiguration n'est ni un modèle universel ni un programme à exécuter. Elle peut évoluer dès que les travaux accomplis font apparaître de nouvelles questions, des insuffisances ou des relations qui n'avaient pas été envisagées. Une opération peut conduire à reformuler une orientation ; une orientation peut rendre nécessaire une autre opération ; un résultat peut conduire à modifier les ressources mobilisées ou à redélimiter le problème.
+La configuration peut se constituer dès les premiers travaux. Elle se précise, se transforme ou se réorganise à mesure que l'examen fait apparaître de nouvelles questions, des insuffisances ou des relations qui n'avaient pas été envisagées. Une opération peut conduire à reformuler une orientation ; une orientation peut rendre nécessaire un autre travail ; un résultat peut conduire à modifier les ressources mobilisées ou à redélimiter le problème.
 
-Il n'existe donc pas d'ordre général des opérations ni de correspondance fixe entre opérations et orientations. Leur organisation dépend de la difficulté examinée et se construit au cours de l'enquête. Les relations entre les travaux peuvent être simultanées, successives, interrompues ou reprises. Elles ne composent pas une chaîne prescrite.
+Une enquête peut se limiter à une seule configuration lorsque celle-ci permet de traiter suffisamment le problème qui l'a suscitée. Elle n'a pas à mobiliser toutes les ressources disponibles ni à parcourir l'ensemble des opérations. Elle peut également mobiliser plusieurs configurations, successives ou simultanées, lorsque la difficulté exige des examens distincts ou complémentaires.
+
+Il n'existe donc pas d'ordre général des opérations ni de correspondance fixe entre opérations et orientations. Leur organisation dépend de la difficulté examinée. Les relations entre les travaux peuvent être simultanées, successives, interrompues ou reprises. Elles ne composent pas une chaîne prescrite.
 
 L'architecture fonctionnelle permet de distinguer les fonctions des ressources et de rendre leurs articulations intelligibles. Elle ne décide pas à la place de l'enquête lesquelles doivent être mobilisées. C'est le problème descriptif qui conduit à les sélectionner, à les associer et, si nécessaire, à les réviser.
 
-**L'architecture fournit les ressources ; le problème descriptif en suscite et en oriente l'organisation.**
+**L'architecture fonctionnelle présente les ressources disponibles ; le problème descriptif suscite leur mobilisation effective et oriente la constitution des configurations d'examen.**
 
 ## 1. Problème et portée de l'architecture
 
