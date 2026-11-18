@@ -18,6 +18,7 @@ Ces pages présentent l'objet de Protokin, ses engagements méthodologiques, sa 
 - [Protokin en une phrase](fr/protokin-en-une-phrase.md) — Formuler synthétiquement l'objet et la fonction de la démarche.
 - [Introduction générale](fr/introduction-generale.md) — Exposer le problème auquel répond une enquête sur les pratiques descriptives et préciser le statut de cette démarche.
 - [Pratiques descriptives de premier ordre](fr/pratiques-descriptives-de-premier-ordre.md) — Définir les pratiques descriptives de premier ordre et préciser leur rapport avec les travaux d'examen de second ordre.
+- [Plans et niveaux de l'analyse descriptive](fr/plans-et-niveaux-de-l-analyse-descriptive.md) — Distinguer les pratiques descriptives, les déterminations constituées et les travaux d'examen, et préciser leurs rapports avec la distinction entre premier et second ordre.
 - [Ce que Protokin permet](fr/ce-que-protokin-permet.md) — Décrire les problèmes que la démarche permet d'examiner et les résultats qu'elle peut soutenir.
 - [Fécondité et révisabilité de Protokin](fr/fecondite-et-revisabilite-de-protokin.md) — Préciser comment apprécier la contribution des enquêtes et réviser les ressources du projet.
 - [Ce que Protokin ne prétend pas faire](fr/ce-que-protokin-ne-pretend-pas-faire.md) — Délimiter les conclusions que l'enquête ne peut établir à elle seule.
