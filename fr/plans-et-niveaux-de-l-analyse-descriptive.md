@@ -237,3 +237,14 @@ La distinction entre premier et second ordre traverse ces plans. Une déterminat
 Les motifs, les figures, les structures et les opérations désignent des questions analytiques différentes, non les étapes d'une classification. Les caractérisations stabilisées rendent certaines déterminations réutilisables sans leur conférer un statut définitif.
 
 **Distinguer les plans d'analyse permet de comprendre les relations entre activités descriptives, productions, matériaux et déterminations, ainsi que les changements de statut qui interviennent lorsqu'une enquête les prend pour objet.**
+
+## Pour poursuivre
+
+- [Pratiques descriptives de premier ordre](fr/pratiques-descriptives-de-premier-ordre.md) — Définir les pratiques descriptives et leur rapport avec l'examen de second ordre.
+- [Objets de l'examen](fr/objets-de-l-examen.md) — Distinguer les situations, les pratiques, les descriptions et les matériaux.
+- [Enquête](fr/enquete.md) — Définir l'examen situé et révisable des pratiques descriptives.
+- [Architecture fonctionnelle de l'enquête](fr/architecture-fonctionnelle-de-l-enquete.md) — Présenter les ressources fonctionnelles de l'examen.
+- [Motif](fr/motif.md) — Distinguer les usages du terme motif et préciser leur portée.
+- [Résultats de l'enquête](fr/resultats-de-l-enquete.md) — Examiner les déterminations établies et la portée des résultats.
+- [Conduire une enquête](fr/conduire-une-enquete.md) — Consulter les repères pratiques de mobilisation et de reprise des ressources.
+- [Table des matières](fr/tdm.md) — Retrouver les ressources du corpus.
