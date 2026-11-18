@@ -12,9 +12,11 @@ Elle ne définit pas une procédure universelle. Elle décrit les fonctions des 
 
 L'architecture fonctionnelle de Protokin ne constitue pas un dispositif préalable que l'enquête devrait appliquer à toute difficulté. Elle présente un répertoire de ressources dont la mobilisation et l'articulation dépendent des problèmes descriptifs rencontrés.
 
-Le problème descriptif joue un rôle générateur dans l'organisation de l'enquête. Il fait émerger des besoins d'examen qui conduisent à mobiliser certaines opérations et certaines orientations. Les opérations désignent les travaux accomplis ; les orientations précisent les rapports sous lesquels la difficulté est interrogée. Elles ne sont pas sélectionnées indépendamment les unes des autres : leur pertinence respective se précise dans l'examen du problème.
+Une enquête ne consiste pas à appliquer une architecture fonctionnelle préalablement constituée à un problème déjà défini. Elle consiste à construire, mobiliser et réviser des ressources d'examen au cours du traitement d'une difficulté descriptive. La définition du problème, le choix des opérations et la configuration de leurs relations se précisent mutuellement.
 
-Le problème conduit également à déterminer les autres ressources nécessaires : matériaux, catégories, critères, méthodes et instruments d'épreuve. Leur sélection dépend de ce qu'il faut examiner, des éléments disponibles et des exigences auxquelles les résultats devront répondre.
+Le problème descriptif ne constitue donc pas nécessairement un point de départ entièrement déterminé. Sa reconnaissance et sa formulation se précisent dans les premiers travaux d'examen. Les opérations contribuent à caractériser la difficulté, tandis que les orientations précisent les rapports sous lesquels elle est interrogée. Leur pertinence respective se construit dans l'examen et peut être réévaluée à mesure que de nouveaux éléments apparaissent.
+
+L'enquête détermine également les autres ressources nécessaires : matériaux, catégories, critères, méthodes et instruments d'épreuve. Leur sélection dépend de ce qu'il faut examiner, des éléments disponibles et des exigences auxquelles les résultats devront répondre.
 
 L'association de ces ressources constitue une **configuration d'examen** lorsqu'elle est effectivement mobilisée dans le traitement du problème. Une configuration ne désigne donc ni un plan préalable ni une anticipation des travaux à accomplir. Elle correspond à un agencement situé de ressources et de relations engagé dans un examen effectif.
 
