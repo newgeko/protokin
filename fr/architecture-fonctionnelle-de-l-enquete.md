@@ -548,6 +548,7 @@ Les configurations d'examen se constituent dans le travail effectif. Elles peuve
 
 ## Pour poursuivre
 
+- [Plans et niveaux de l'analyse descriptive](fr/plans-et-niveaux-de-l-analyse-descriptive.md) — Distinguer les pratiques descriptives, les déterminations constituées et les travaux d'examen, et préciser leurs rapports avec la distinction entre premier et second ordre.
 - [Les opérations de référence et leurs articulations](fr/la-chaine-principale-de-l-enquete.md) — Examiner les opérations et leurs relations.
 - [Orientation de l'examen](fr/orientation-de-l-examen.md) — Préciser les rapports sous lesquels une situation ou une pratique est interrogée.
 - [Motif](fr/motif.md) — Distinguer les usages du terme motif et examiner les motifs de conduite et les motifs narratifs.
