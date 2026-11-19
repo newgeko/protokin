@@ -1,0 +1,230 @@
+# Structures intellectuelles
+
+## Fonction
+
+Cette page présente les structures intellectuelles comme des organisations de relations entre plusieurs éléments, déterminations ou représentations. Elle propose des ressources pour examiner leur composition, leurs articulations, leurs transformations et leurs variations dans différents ensembles descriptifs.
+
+Les structures intellectuelles peuvent être étudiées dans des récits mythologiques, des classifications, des systèmes de parenté, des représentations sociales, des constructions théoriques ou des raisonnements scientifiques. Leur examen ne présuppose ni une origine commune ni l'existence de structures universelles sous-jacentes à toutes les pratiques humaines.
+
+## Problème
+
+L'identification d'éléments récurrents ne suffit pas à caractériser l'organisation dans laquelle ils prennent place.
+
+Un même motif peut intervenir dans plusieurs configurations sans y remplir la même fonction. Inversement, des configurations différentes peuvent présenter des organisations relationnelles comparables, même lorsque leurs éléments constitutifs ne sont pas identiques.
+
+Il faut donc distinguer la reconnaissance des motifs, l'identification des relations qui les unissent, la caractérisation de leur organisation et l'examen des transformations qui affectent cette organisation.
+
+Cette distinction permet notamment d'éviter deux réductions :
+
+- ramener une structure à une simple collection d'éléments récurrents ;
+- considérer toute ressemblance entre deux configurations comme la preuve d'une structure identique.
+
+## Définition
+
+Une structure intellectuelle désigne une organisation caractérisable de relations entre plusieurs éléments, déterminations ou positions, telle qu'elle intervient dans une pratique descriptive ou dans un ensemble de productions descriptives.
+
+Son examen porte notamment sur :
+
+- les éléments qui la composent ;
+- les relations établies entre ces éléments ;
+- les différences et les oppositions qui organisent leur distribution ;
+- les positions et les fonctions qu'ils occupent ;
+- les transformations qui affectent leur organisation ;
+- les variations observables entre plusieurs configurations.
+
+Une structure n'est donc pas un objet indépendant de ses manifestations descriptives. Elle constitue une caractérisation produite à partir de l'examen de configurations déterminées.
+
+Sa reconnaissance demeure révisable : de nouveaux matériaux peuvent conduire à modifier ses limites, ses relations constitutives ou les rapprochements établis avec d'autres configurations.
+
+## Distinguer motif, relation, structure et transformation
+
+Ces quatre notions désignent des dimensions différentes de l'analyse.
+
+### Motif
+
+Un motif est un élément ou une configuration identifiable dans des matériaux descriptifs et susceptible d'être retrouvé dans plusieurs productions.
+
+Sa récurrence peut constituer un indice de rapprochement entre plusieurs configurations, sans suffire à établir leur identité structurelle.
+
+### Relation
+
+Une relation caractérise le rapport établi entre plusieurs éléments : opposition, complémentarité, dépendance, succession, proximité, exclusion ou correspondance, par exemple.
+
+Les relations constituent les éléments de caractérisation à partir desquels une organisation peut être examinée.
+
+### Structure
+
+Une structure désigne l'organisation de plusieurs relations entre des éléments déterminés.
+
+Elle ne se réduit ni à la présence de certains motifs ni à l'addition de relations isolées. Son examen porte sur leur articulation et sur les conditions dans lesquelles elles constituent une configuration identifiable.
+
+### Transformation
+
+Une transformation désigne une modification identifiable de la configuration ou de l'organisation des relations.
+
+Elle peut affecter les éléments présents, leurs positions, leurs fonctions, leurs associations ou leurs oppositions.
+
+L'examen des transformations permet de comparer plusieurs configurations sans présupposer qu'elles sont identiques.
+
+## Principales relations et transformations
+
+Les travaux de l'analyse structurale, notamment ceux de Claude Lévi-Strauss, puis les recherches de A. J. Greimas et de Lucien Scubla, offrent un ensemble de ressources pour caractériser les organisations relationnelles et les transformations observables dans les récits et leurs variantes.
+
+Les notions présentées ci-dessous constituent des ressources analytiques. Elles ne forment pas une nomenclature homogène et ne doivent pas être considérées comme les composantes obligatoires de toute structure intellectuelle.
+
+### 1. Relations entre éléments
+
+**Opposition**
+
+Relation entre deux termes différenciés par des propriétés, des positions ou des fonctions contrastées. L'opposition peut organiser une classification, une distribution des rôles ou une articulation narrative.
+
+**Dichotomie**
+
+Opération de division d'un ensemble en deux termes ou catégories. Elle peut être répétée et produire des subdivisions successives. Son examen porte notamment sur les critères de distinction et sur les effets de cette répartition.
+
+**Conjonction et disjonction**
+
+La conjonction caractérise une association ou un rapprochement entre des éléments ou des positions. La disjonction caractérise leur séparation ou leur éloignement.
+
+Ces relations peuvent concerner des personnages, des objets, des espaces ou des positions symboliques. Leur combinaison peut produire des configurations complexes dans lesquelles une association implique simultanément une séparation sur un autre plan.
+
+**Contiguïté**
+
+Relation de proximité entre des éléments, des personnages ou des positions. Elle peut contribuer à leur association, à leur substitution ou à leur rapprochement descriptif.
+
+**Continu et discontinu**
+
+Distinction entre une organisation fondée sur des variations graduelles et une organisation reposant sur des différences discrètes ou des séparations déterminées.
+
+Cette distinction permet d'examiner les opérations par lesquelles une configuration différencie des éléments initialement présentés comme continus ou indifférenciés.
+
+### 2. Transformations de configurations
+
+**Inversion**
+
+Transformation dans laquelle les positions, les fonctions ou les relations d'une configuration sont retournées par rapport à une autre.
+
+L'inversion peut porter sur un rapport particulier ou sur l'organisation générale d'un ensemble.
+
+**Conversion**
+
+Transformation plus globale dans laquelle plusieurs éléments et relations changent simultanément de position ou de valeur. Elle peut s'accompagner d'un changement de registre descriptif ou de système de correspondances.
+
+**Converse**
+
+Relation entre deux configurations dans laquelle un état ou une organisation apparaît comme impliquant, sous une forme inversée, des déterminations de l'état qui lui succède.
+
+Cette notion permet notamment d'examiner la manière dont un récit présente rétrospectivement un état antérieur comme contenant déjà, sous une forme différente, les conditions de l'état ultérieur.
+
+**Chiasme**
+
+Organisation croisée de deux ensembles de relations. Les termes associés dans une première configuration se retrouvent distribués autrement dans une seconde, selon un croisement identifiable.
+
+**Condensation**
+
+Transformation par laquelle plusieurs personnages, fonctions ou déterminations distincts dans une configuration se trouvent réunis dans un même élément dans une autre.
+
+**Dédoublement ou diffraction**
+
+Transformation inverse de la condensation : un élément ou un personnage unique se trouve réparti entre plusieurs figures ou déterminations distinctes.
+
+### 3. Relations entre configurations
+
+**Synchronie et diachronie**
+
+La synchronie concerne l'organisation des relations dans un ensemble considéré à un moment donné. La diachronie concerne leur déploiement ou leur transformation dans le temps.
+
+Dans l'analyse structurale des récits, cette distinction permet notamment d'examiner comment une organisation relationnelle peut être exprimée à travers un enchaînement narratif.
+
+**Paradigme et syntagme**
+
+Le paradigme désigne un ensemble de termes susceptibles d'occuper des positions comparables ou de se substituer les uns aux autres.
+
+Le syntagme désigne leur articulation dans une séquence ou une organisation déterminée.
+
+Cette distinction permet d'examiner les possibilités de substitution et les conditions de combinaison des éléments.
+
+**Commutation**
+
+Opération consistant à remplacer un élément par un autre dans une configuration, afin d'examiner les différences produites par cette substitution.
+
+La comparaison des variantes permet alors de caractériser les éléments substituables, les relations maintenues et les modifications introduites.
+
+**Variantes combinatoires**
+
+Ensemble de configurations dans lesquelles certains éléments ou certaines relations varient selon des possibilités de combinaison identifiables.
+
+L'examen comparatif des variantes permet de déterminer ce qui demeure stable, ce qui se transforme et ce qui dépend de chaque configuration particulière.
+
+### 4. Correspondances entre registres descriptifs
+
+**Intercode**
+
+Relation entre plusieurs registres de caractérisation mobilisés dans une même production descriptive ou dans plusieurs productions comparables.
+
+Un récit peut ainsi articuler des déterminations alimentaires, astronomiques, animales, anatomiques ou sociales.
+
+**Convertibilité des codes**
+
+Possibilité de transposer une relation ou une organisation d'un registre descriptif à un autre.
+
+Une correspondance entre deux codes ne signifie pas nécessairement qu'ils expriment exactement le même contenu. Elle demande d'examiner les propriétés conservées et les différences introduites par la transposition.
+
+Ces correspondances peuvent constituer des ressources importantes pour comparer des configurations issues de contextes différents.
+
+## Examiner une structure
+
+L'examen d'une structure intellectuelle peut être organisé autour de plusieurs questions.
+
+1. **Délimiter la configuration** : quels matériaux descriptifs sont concernés et quelles sont les limites de l'ensemble examiné ?
+2. **Identifier les éléments** : quels motifs, personnages, objets, positions ou déterminations interviennent ?
+3. **Caractériser les relations** : quelles oppositions, associations, dépendances ou correspondances organisent ces éléments ?
+4. **Examiner les articulations** : comment les relations se combinent-elles et quelles positions occupent les différents éléments ?
+5. **Comparer les configurations** : quelles relations se retrouvent dans d'autres productions et lesquelles sont propres à chaque cas ?
+6. **Identifier les transformations** : quelles inversions, substitutions, condensations, divisions ou transpositions peuvent être caractérisées ?
+7. **Éprouver la caractérisation** : quels éléments résistent au rapprochement et quelles différences conduisent à réviser l'hypothèse structurelle ?
+
+Cet examen ne constitue pas une procédure obligatoire. Les questions peuvent être reprises dans un ordre différent selon les matériaux et les difficultés rencontrées.
+
+## Limites de la caractérisation structurelle
+
+La reconnaissance d'une structure intellectuelle ne permet pas, à elle seule, d'établir :
+
+- une origine historique commune entre plusieurs configurations ;
+- une transmission effective entre des sociétés ou des traditions ;
+- l'existence d'une structure mentale universelle ;
+- une identité de signification entre des récits présentant des relations comparables ;
+- une nécessité logique ou culturelle des relations identifiées.
+
+Ces conclusions demandent des examens complémentaires et des justifications propres.
+
+Une ressemblance structurelle peut résulter de processus historiques distincts, de contraintes comparables, de constructions indépendantes ou d'une caractérisation trop générale.
+
+Il faut donc distinguer la comparaison formelle des configurations, l'explication de leur formation et l'établissement de leurs éventuelles relations historiques.
+
+## Place dans Protokin
+
+Dans Protokin, les structures intellectuelles constituent des caractérisations susceptibles d'être produites par l'examen des pratiques descriptives.
+
+Elles ne forment ni une catégorie préalable permettant de classer toutes les productions humaines ni un ensemble de structures universelles auquel les enquêtes devraient se conformer.
+
+Leur intérêt tient à leur capacité à rendre explicites des organisations relationnelles qui resteraient autrement difficiles à identifier ou à comparer.
+
+Elles peuvent notamment contribuer à :
+
+- caractériser les relations constitutives de certains motifs ;
+- comparer plusieurs configurations descriptives ;
+- identifier des transformations entre des productions ;
+- examiner les correspondances entre différents registres ;
+- distinguer les ressemblances formelles des rapprochements historiques ;
+- mettre à l'épreuve les catégories mobilisées pour décrire un ensemble.
+
+Les caractérisations produites demeurent révisables. Une enquête peut conduire à reconnaître une nouvelle relation, à distinguer deux structures jusque-là rapprochées ou à abandonner une caractérisation devenue insuffisante.
+
+## Synthèse
+
+Un motif permet d'identifier une récurrence. Une relation permet de caractériser un rapport entre plusieurs éléments. Une structure permet d'examiner leur organisation. Une transformation permet de comparer plusieurs organisations en identifiant les modifications qui les affectent.
+
+Ces distinctions donnent des ressources pour étudier les configurations descriptives sans présupposer leur unité, leur origine ou leur universalité.
+
+L'analyse structurale fournit à cet égard un répertoire historique et conceptuel important, dont les notions peuvent être reprises, discutées et révisées au cours des enquêtes.
