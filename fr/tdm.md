@@ -45,6 +45,7 @@ L'enquête ne consiste pas à parcourir une succession prédéterminée d'opéra
 - [Articulation des orientations et des opérations](fr/orientation-et-chemin-de-l-enquete.md) — Examiner la distinction entre les rapports de questionnement et les travaux mobilisés pour traiter une difficulté.
 - [Conduire une enquête](fr/conduire-une-enquete.md) — Donner des repères pour organiser, mobiliser et reprendre les ressources de Protokin dans une situation concrète.
 - [Modes d'intervention de l'enquête](fr/modes-d-intervention-de-l-enquete.md) — Examiner les modalités de mobilisation, de combinaison, de confrontation et de reprise des ressources.
+- [Séquences d'examen et reprises](sequences-et-reprises-de-l-enquete.md) : comprendre comment les travaux d'examen s'enchaînent, se chevauchent, s'interrompent et sont repris au cours d'une enquête, sans imposer d'ordre prédéfini.
 - [Plateau d'enquête](fr/plateau-d-enquete.md) — Présenter un dispositif graphique facultatif pour représenter les occurrences des travaux d'examen et les relations établies ou reconstruites entre eux.
 - [Objets de l'examen](fr/objets-de-l-examen.md) — Distinguer les situations, les pratiques descriptives, les descriptions et les matériaux mobilisés dans l'enquête.
 
