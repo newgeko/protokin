@@ -20,6 +20,10 @@ Sa pertinence ne tient donc pas seulement à la cohérence de son organisation, 
 
 L'architecture fonctionnelle de Protokin ne constitue pas un dispositif préalable que l'enquête devrait appliquer à toute difficulté. Elle présente des ressources dont les fonctions ont été distinguées pour faciliter l'examen des pratiques descriptives.
 
+L'architecture est elle-même le résultat de travaux d'examen antérieurs. Les distinctions qu'elle rassemble ont été produites, discutées et stabilisées à partir de difficultés rencontrées dans l'analyse des pratiques descriptives. Leur stabilisation ne les soustrait pas à l'examen : elles peuvent devenir des ressources pour de nouveaux travaux, mais aussi des objets de révision lorsque leur mobilisation révèle des insuffisances.
+
+Il faut ainsi distinguer la production de l'architecture, l'architecture comme production stabilisée et sa mobilisation comme ressource dans de nouvelles enquêtes.
+
 Une enquête ne consiste pas à appliquer une architecture fonctionnelle préalablement constituée à un problème déjà défini. Elle consiste à construire, mobiliser et réviser des ressources d'examen au cours du traitement d'une difficulté descriptive. La définition du problème, le choix des travaux à entreprendre et la configuration de leurs relations se précisent mutuellement.
 
 Le problème descriptif ne constitue donc pas nécessairement un point de départ entièrement déterminé. Une difficulté peut d'abord se manifester par une hésitation, une contradiction, une insuffisance, une difficulté de comparaison ou une inadéquation apparente entre une description et la situation qu'elle prétend décrire. Sa reconnaissance et sa formulation se précisent au cours des premiers travaux.
@@ -536,8 +540,7 @@ L'architecture n'établit notamment pas :
 
 Une ressource peut être inadéquate, incomplète ou insuffisante dans une situation déterminée. Son examen peut conduire à la maintenir, à la préciser, à la réviser ou à l'abandonner.
 
-La cohérence de l'architecture ne suffit pas à établir que ses distinctions permettent de traiter toutes les difficultés descriptives. La pertinence de ses ressources doit être examinée dans les enquêtes où elles sont effectivement mobilisées.
-
+La cohérence de l'architecture ne suffit pas à établir sa pertinence pour l'examen des pratiques descriptives. Celle-ci doit être appréciée à partir des travaux qu'elle permet effectivement de conduire, des difficultés qu'elle contribue à rendre intelligibles et des limites qui apparaissent lors de sa mobilisation. Les résultats de ces examens peuvent conduire à maintenir, préciser, réorganiser ou abandonner certaines distinctions. L'architecture est ainsi examinée à partir de sa contribution aux enquêtes, mais aussi de sa capacité à être révisée lorsque les ressources qu'elle propose se révèlent insuffisantes.
 ## Synthèse
 
 L'architecture fonctionnelle de Protokin distingue des ressources qui remplissent des fonctions différentes dans l'examen des pratiques descriptives.
