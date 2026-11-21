@@ -253,6 +253,7 @@ Ces ressources permettent d'étudier comment les différences, les catégories, 
 ### F. Nomination, conceptualisation et révision
 
 - [Pratiques, stabilisations et révisions descriptives](fr/pratiques-stabilisations-et-revisions.md) — Examiner les relations entre activités, nominalisations, concepts, effets de stabilisation et révision des pratiques descriptives.
+- [Produire, production et productivité](fr/produire-production-productivite.md) — Distingue les activités productives, les productions auxquelles elles donnent lieu et les conditions qui déterminent leurs possibilités effectives.
 
 Ces ressources ne constituent pas une classification exhaustive des pratiques. Elles permettent d'examiner des configurations et des régimes déterminés, à partir des problèmes rencontrés.
 
