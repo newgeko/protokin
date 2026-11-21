@@ -1,14 +1,18 @@
 # Architecture fonctionnelle de l'enquête
 
+
+
 ## Fonction
 
 Cette page présente la manière dont Protokin organise les ressources susceptibles d'être mobilisées pour examiner les pratiques descriptives.
+
+L'architecture fonctionnelle est une production de l'enquête sur les pratiques descriptives. Elle résulte de travaux de distinction, de caractérisation et d'organisation qui ont permis de reconnaître différentes fonctions dans l'examen. Elle constitue également une ressource susceptible d'être reprise, mobilisée et révisée dans les enquêtes ultérieures.
 
 Elle distingue les travaux d'examen, les rapports sous lesquels ces travaux interrogent leur objet, les motifs susceptibles de réapparaître dans plusieurs examens et les instruments constitués pour conduire des confrontations déterminées. Elle précise également les relations entre ces ressources et les conditions de leur mobilisation.
 
 L'architecture ne constitue ni une classification exhaustive des activités possibles ni un programme à appliquer. Elle présente un état révisable des distinctions fonctionnelles de Protokin. Les enquêtes peuvent conduire à préciser ces distinctions, à en modifier les relations ou à reconnaître des fonctions qui ne sont pas encore suffisamment caractérisées.
 
-L'architecture fournit ainsi des repères pour construire, mobiliser et examiner des ressources en fonction des difficultés descriptives rencontrées.
+Sa pertinence ne tient donc pas seulement à la cohérence de son organisation, mais à sa capacité à contribuer effectivement à l'examen de difficultés descriptives qui ne sont pas nécessairement déjà déterminées par ses propres catégories.
 
 ## 1. Le problème descriptif et la constitution de l'examen
 
